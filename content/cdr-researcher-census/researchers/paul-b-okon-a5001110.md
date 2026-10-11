@@ -1,7 +1,7 @@
 ---
 title: "Paul B. Okon"
 description: "Paul B. Okon is a Senior Soil Carbon researcher at University of Calabar in NG. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.399384
+date: 2026-10-11T02:33:00.437484
 url: "/cdr-researcher-census/researchers/paul-b-okon-a5001110/"
 layout: "researcher"
 hiddenInHomeList: true

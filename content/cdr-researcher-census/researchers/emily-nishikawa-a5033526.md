@@ -1,7 +1,7 @@
 ---
 title: "Emily Nishikawa"
 description: "Emily Nishikawa is a Mid-career BECCS researcher. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.669763
+date: 2026-10-11T02:32:59.689463
 url: "/cdr-researcher-census/researchers/emily-nishikawa-a5033526/"
 layout: "researcher"
 hiddenInHomeList: true

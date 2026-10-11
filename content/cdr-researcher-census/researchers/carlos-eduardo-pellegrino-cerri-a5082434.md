@@ -1,7 +1,7 @@
 ---
 title: "Carlos Eduardo Pellegrino Cerri"
 description: "Carlos Eduardo Pellegrino Cerri is an Eminent Soil Carbon researcher at University of Sao Paulo in BR. With 556 publications and an h-index of 90, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.016740
+date: 2026-10-11T02:32:59.019963
 url: "/cdr-researcher-census/researchers/carlos-eduardo-pellegrino-cerri-a5082434/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,25 +45,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 90 |
 | Citations | 24,405 |
 | Publications | 556 |
-| CDR Focus | 5.9% |
+| CDR Focus | 6.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Land Use and Management Effects on Sustainable Sugarcane-Derived Bioenergy** (2021)
-   122 citations
+   123 citations
 
 2. **Potential of no-till agriculture as a nature-based solution for climate-change mitigation in Brazil** (2022)
    60 citations · General CDR
 
 3. **Changes in soil carbon and soil carbon sequestration potential under different types of pasture management in Brazil** (2022)
-   49 citations · Soil Carbon
+   50 citations · Soil Carbon
 
 4. **Potential of soil minerals to sequester soil organic carbon** (2023)
    42 citations
 
 5. **Greenhouse gas fluxes in brazilian climate-smart agricultural and livestock systems: A systematic and critical overview** (2024)
-   25 citations · General CDR
+   27 citations · General CDR
 
 6. **Soil carbon allocation, composition, and sequestration changes induced by cropping diversification in tropical systems** (2025)
    17 citations · Soil Carbon
@@ -77,8 +77,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 9. **Carbon Farming: Nature-Based Solutions in Brazil** (2023)
    13 citations · General CDR
 
-10. **Carbon balance in the sugarcane sector - Conference Report** (2022)
-   11 citations · BECCS
+10. **Modeling soil organic matter changes under crop diversification strategies and climate change scenarios in the Brazilian Cerrado** (2024)
+   11 citations · Soil Carbon
 
 ## External Profiles
 

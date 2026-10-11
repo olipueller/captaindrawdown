@@ -1,7 +1,7 @@
 ---
 title: "Dipti Mathur"
 description: "Dipti Mathur is a Senior Biochar researcher at Oil and Natural Gas Corporation (India) in IN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.272710
+date: 2026-10-11T02:33:00.302746
 url: "/cdr-researcher-census/researchers/dipti-mathur-a5060594/"
 layout: "researcher"
 hiddenInHomeList: true

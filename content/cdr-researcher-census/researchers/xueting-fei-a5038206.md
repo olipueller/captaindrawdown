@@ -1,7 +1,7 @@
 ---
 title: "Xueting Fei"
 description: "Xueting Fei is a Mid-career Biochar researcher at Anhui Agricultural University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.047394
+date: 2026-10-11T02:33:00.078072
 url: "/cdr-researcher-census/researchers/xueting-fei-a5038206/"
 layout: "researcher"
 hiddenInHomeList: true

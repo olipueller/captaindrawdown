@@ -1,7 +1,7 @@
 ---
 title: "Meesook Lee"
 description: "Meesook Lee is a Senior Soil Carbon researcher at McNeese State University in US. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.686784
+date: 2026-10-11T02:32:59.707053
 url: "/cdr-researcher-census/researchers/meesook-lee-a5008760/"
 layout: "researcher"
 hiddenInHomeList: true

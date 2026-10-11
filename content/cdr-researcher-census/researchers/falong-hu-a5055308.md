@@ -1,7 +1,7 @@
 ---
 title: "Falong Hu"
 description: "Falong Hu is a Senior Soil Carbon researcher at Gansu Agricultural University in CN. With 90 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.094330
+date: 2026-10-11T02:32:59.098898
 url: "/cdr-researcher-census/researchers/falong-hu-a5055308/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Green manure and maize intercropping with reduced chemical N enhances productivity and carbon mitigation of farmland in arid areas** (2023)
-   35 citations · Soil Carbon
+   37 citations · Soil Carbon
 
 2. **Enhancing crop production and carbon sequestration of wheat in arid areas by green manure with reduced nitrogen fertilizer** (2024)
-   26 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 3. **Metagenomic insights into carbon, nitrogen, and phosphorus cycling in a no-till intercropping system** (2025)
    10 citations
@@ -66,7 +66,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Soil Carbon
 
 6. **Intercropping grain crops with green manure under reduced chemical nitrogen improves the soil carbon stocks by optimizing aggregates in an oasis irrigation area** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 7. **Synergistic effects of green manure and biochar for a win-win in nitrogen reduction and soil health: insights from multiple assessment frameworks** (2026)
    0 citations · Biochar

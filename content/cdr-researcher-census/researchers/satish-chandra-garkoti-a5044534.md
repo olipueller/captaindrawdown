@@ -1,7 +1,7 @@
 ---
 title: "Satish Chandra Garkoti"
 description: "Satish Chandra Garkoti is a Senior Soil Carbon researcher at Jawaharlal Nehru University in IN. With 113 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.138775
+date: 2026-10-11T02:32:59.143255
 url: "/cdr-researcher-census/researchers/satish-chandra-garkoti-a5044534/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Ecosystem carbon storage, allocation and carbon credit values of major forest types in the central Himalaya** (2025)
-   25 citations · General CDR
+   29 citations · General CDR
 
 2. **Influence of vegetation and soil properties on carbon stocks in Shorea robusta forests under different disturbance regimes** (2025)
-   14 citations · General CDR
+   15 citations · General CDR
 
 3. **Rhizosphere soil properties and microbial biomass changes with the chronosequence of stand age of broadleaf banj oak and coniferous deodar forests in the central Himalaya, India** (2023)
    12 citations
 
 4. **Quantifying ecosystem carbon storage, tree diversity, and carbon credit potential in the urban semi-arid forests of Delhi, India** (2025)
-   8 citations · General CDR
+   10 citations · General CDR
 
 5. **Ecosystem carbon stocks and sequestration rates in white oak forests in the central Himalaya: Role of nitrogen-fixing Nepalese alder** (2023)
    4 citations · Soil Carbon
 
 6. **Exploration of Extremophiles: Potential Applications in Agriculture and Soil Health Improvement Utilizing Extremophiles** (2024)
-   3 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 7. **Beyond biomass: rethinking forest carbon credits for credible climate finance in India** (2026)
    0 citations

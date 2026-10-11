@@ -1,7 +1,7 @@
 ---
 title: "Patrick Lamers"
 description: "Patrick Lamers is a Senior General CDR researcher at National Renewable Energy Laboratory in US. With 89 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.065448
+date: 2026-10-11T02:32:59.069982
 url: "/cdr-researcher-census/researchers/patrick-lamers-a5077036/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,13 +57,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    56 citations · General CDR
 
 3. **Biochar as a carbon dioxide removal strategy in integrated long-run mitigation scenarios** (2024)
-   17 citations · Biochar
+   27 citations · Biochar
 
-4. **Biochar as a carbon dioxide removal strategy in integrated long-run climate scenarios** (2022)
+4. **Evolving electricity supply and demand to achieve net-zero emissions: Insights from the EMF-37 study** (2025)
+   10 citations · DAC
+
+5. **Biochar as a carbon dioxide removal strategy in integrated long-run climate scenarios** (2022)
    10 citations · Biochar
-
-5. **Evolving electricity supply and demand to achieve net-zero emissions: Insights from the EMF-37 study** (2025)
-   8 citations · DAC
 
 6. **Potential long-term, global effects of enhancing the domestic terrestrial carbon sink in the United States through no-till and cover cropping** (2024)
    8 citations · Soil Carbon
@@ -75,7 +75,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    6 citations · General CDR
 
 9. **Quantifying Climate Change Effects of Bioenergy and <scp>BECCS</scp>: Critical Considerations and Guidance on Methodology** (2025)
-   3 citations · BECCS
+   4 citations · BECCS
 
 10. **Bioenergy pathways within United States net-zero CO2 emissions scenarios in the Energy Modeling Forum 37 study** (2025)
    2 citations · BECCS

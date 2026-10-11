@@ -1,7 +1,7 @@
 ---
 title: "Zalalem Bekele"
 description: "Zalalem Bekele is a Senior Soil Carbon researcher at Ethiopian Institute of Agricultural Research in ET. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.226779
+date: 2026-10-11T02:33:00.257086
 url: "/cdr-researcher-census/researchers/zalalem-bekele-a5113036/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The Impacts of Ethiopia&amp;apos;s Green Legacy on Soil Conservation and on Climate Change: A Review** (2025)
-   3 citations · General CDR
+   4 citations · General CDR
 
 ## External Profiles
 

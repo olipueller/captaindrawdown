@@ -1,7 +1,7 @@
 ---
 title: "Kunxian Tang"
 description: "Kunxian Tang is a Senior Enhanced Weathering researcher at Ministry of Natural Resources in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.812785
+date: 2026-10-11T02:32:59.837703
 url: "/cdr-researcher-census/researchers/kunxian-tang-a5053566/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Synergistic CO <sub>2</sub> Removal via Enhanced Olivine Weathering and Diatom Growth in the Ocean** (2024)
-   9 citations · Enhanced Weathering
+   10 citations · Enhanced Weathering
 
 ## External Profiles
 

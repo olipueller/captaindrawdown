@@ -1,7 +1,7 @@
 ---
 title: "Mingyu Hu"
 description: "Mingyu Hu is a Senior Biochar researcher at University of Edinburgh in GB. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.450242
+date: 2026-10-11T02:32:59.460913
 url: "/cdr-researcher-census/researchers/mingyu-hu-a5038726/"
 layout: "researcher"
 hiddenInHomeList: true

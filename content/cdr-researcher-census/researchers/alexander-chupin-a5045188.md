@@ -1,7 +1,7 @@
 ---
 title: "Alexander Chupin"
 description: "Alexander Chupin is a Senior BECCS researcher at Peoples' Friendship University of Russia in RU. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.719507
+date: 2026-10-11T02:32:59.740568
 url: "/cdr-researcher-census/researchers/alexander-chupin-a5045188/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Cutting-edge biomass gasification technologies for renewable energy generation and achieving net zero emissions** (2024)
-   137 citations · BECCS
+   146 citations · BECCS
 
 ## External Profiles
 

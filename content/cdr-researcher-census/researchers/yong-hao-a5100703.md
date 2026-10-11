@@ -1,7 +1,7 @@
 ---
 title: "Yong Hao"
 description: "Yong Hao is a Mid-career Soil Carbon researcher at Yangtze University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.946097
+date: 2026-10-11T02:32:59.976142
 url: "/cdr-researcher-census/researchers/yong-hao-a5100703/"
 layout: "researcher"
 hiddenInHomeList: true

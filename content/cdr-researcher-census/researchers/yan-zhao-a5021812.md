@@ -1,7 +1,7 @@
 ---
 title: "Yan Zhao"
 description: "Yan Zhao is a Mid-career Biochar researcher at Tianjin Chengjian University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.804604
+date: 2026-10-11T02:32:59.829416
 url: "/cdr-researcher-census/researchers/yan-zhao-a5021812/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Nafiu Garba Hayatu"
 description: "Nafiu Garba Hayatu is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.877330
+date: 2026-10-11T02:32:59.904757
 url: "/cdr-researcher-census/researchers/nafiu-garba-hayatu-a5059557/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon sequestration rate, nitrogen use efficiency and rice yield responses to long-term substitution of chemical fertilizer by organic manure in a rice–rice cropping system** (2022)
-   53 citations · General CDR
+   55 citations · General CDR
 
 2. **Long-Term Effect of Fertilizations on Yield Sustainability, Soil Organic Carbon Sequestration and Apparent Phosphorus Balance in Acidic Paddy Soil** (2022)
    13 citations · Soil Carbon
 
 3. **Long-term substitution of synthetic fertilizer by cattle manure: Effects on carbon footprint, carbon sequestration, and yield in a double rice system** (2025)
-   6 citations · General CDR
+   7 citations · General CDR
 
 ## External Profiles
 

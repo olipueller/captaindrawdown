@@ -1,7 +1,7 @@
 ---
 title: "Qitong Wang"
 description: "Qitong Wang is a Senior Soil Carbon researcher at Chengdu Institute of Biology in CN. With 88 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.206245
+date: 2026-10-11T02:32:59.210230
 url: "/cdr-researcher-census/researchers/qitong-wang-a5013292/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial metabolic traits drive the differential contribution of microbial necromass to soil organic carbon between the rhizosphere of absorptive roots and transport roots** (2024)
-   44 citations · Soil Carbon
+   46 citations · Soil Carbon
 
 2. **The accumulation capacity of microbial residues in the rhizosphere increased along an elevation gradient** (2024)
    22 citations · Soil Carbon
@@ -60,16 +60,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    22 citations · Soil Carbon
 
 4. **Nitrogen deposition induces a greater soil C sequestration in the rhizosphere than bulk soil in an alpine forest** (2023)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 5. **Nitrogen addition enhances stable soil carbon accumulation during ectomycorrhizal hyphae decomposition** (2024)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
-6. **Rhizosphere drives microbial necromass carbon accumulation via enhanced carbon use efficiency: Evidence from a common garden experiment** (2025)
+6. **Conservative roots confer a larger microbial carbon pump efficacy than acquisitive roots by regulating microbial life‐history strategy** (2026)
+   1 citations
+
+7. **Rhizosphere drives microbial necromass carbon accumulation via enhanced carbon use efficiency: Evidence from a common garden experiment** (2025)
    1 citations · Soil Carbon
-
-7. **Conservative roots confer a larger microbial carbon pump efficacy than acquisitive roots by regulating microbial life‐history strategy** (2026)
-   0 citations
 
 8. **Microbial-derived carbon is a major contributor to rhizosphere soil organic carbon accumulation in alpine coniferous forests** (2024)
    0 citations · Soil Carbon

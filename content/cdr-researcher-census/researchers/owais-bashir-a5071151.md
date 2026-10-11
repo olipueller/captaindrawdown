@@ -1,7 +1,7 @@
 ---
 title: "Owais Bashir"
 description: "Owais Bashir is a Mid-career Soil Carbon researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir in IN. With 34 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.684355
+date: 2026-10-11T02:32:59.704579
 url: "/cdr-researcher-census/researchers/owais-bashir-a5071151/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -52,6 +52,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 2. **Biostimulants towards Soil Health Improvement: A Review** (2022)
    4 citations · Soil Carbon
+
+3. **Topographic and Climatic Determinants of Soil Organic Carbon Across Landscapes: A Meta‐Analysis** (2026)
+   0 citations
 
 ## External Profiles
 

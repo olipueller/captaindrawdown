@@ -1,7 +1,7 @@
 ---
 title: "Vaneson Moodley"
 description: "Vaneson Moodley is a Mid-career Soil Carbon researcher at University of KwaZulu-Natal in ZA. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.106490
+date: 2026-10-11T02:33:00.136952
 url: "/cdr-researcher-census/researchers/vaneson-moodley-a5075793/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Regenerative agriculture: A paradigm shift for food production in South Africa** (2024)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 ## External Profiles
 

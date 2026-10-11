@@ -1,7 +1,7 @@
 ---
 title: "Zichun Guo"
 description: "Zichun Guo is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 57 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.163272
+date: 2026-10-11T02:32:59.167274
 url: "/cdr-researcher-census/researchers/zichun-guo-a5047846/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Impacts of straw return coupled with tillage practices on soil organic carbon stock in upland wheat and maize croplands in China: A meta-analysis** (2023)
-   62 citations · Soil Carbon
+   66 citations · Soil Carbon
 
 2. **Straw return increases crop production by improving soil organic carbon sequestration and soil aggregation in a long-term wheat–cotton cropping system** (2023)
-   42 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 3. **Soil organic carbon trade-offs under conservation tillage: Carbon stock versus stability mediated by particulate and mineral-associated fractions** (2025)
    7 citations · Soil Carbon

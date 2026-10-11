@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Auwal"
 description: "Muhammad Auwal is a Mid-career Biochar researcher at Kano State University of Technology in NG. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.172571
+date: 2026-10-11T02:33:00.202746
 url: "/cdr-researcher-census/researchers/muhammad-auwal-a5056208/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar accelerates soil organic carbon mineralization via rhizodeposit-activated Actinobacteria** (2022)
-   81 citations · Biochar
+   84 citations · Biochar
 
 2. **The phosphorus limitation in the post-fire forest soils increases soil CO2 emission via declining cellular carbon use efficiency and increasing extracellular phosphatase** (2023)
-   23 citations
+   22 citations
 
 3. **The Phosphorus Limitation in the Post-Fire Forest Soils Increases Soil CO2 Emission Via Declining Cellular Carbon Use Efficiency and Increasing Extracellular Phosphatase** (2022)
    1 citations

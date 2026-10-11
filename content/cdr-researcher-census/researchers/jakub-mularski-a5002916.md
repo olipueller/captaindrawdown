@@ -1,7 +1,7 @@
 ---
 title: "Jakub Mularski"
 description: "Jakub Mularski is a Mid-career BECCS researcher at Wrocław University of Science and Technology in PL. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.556769
+date: 2026-10-11T02:32:59.571860
 url: "/cdr-researcher-census/researchers/jakub-mularski-a5002916/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Mathematical modelling of gasification process of sewage sludge in reactor of negative CO2 emission power plant** (2021)
-   46 citations · BECCS
+   45 citations · BECCS
 
 2. **The effect of hydrothermal carbonization (HTC) on entrained flow steam gasification of sewage sludge. Experimental validation of various gasification models** (2025)
    7 citations · BECCS

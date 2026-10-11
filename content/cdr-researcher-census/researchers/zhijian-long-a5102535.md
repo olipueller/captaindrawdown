@@ -1,7 +1,7 @@
 ---
 title: "Zhijian Long"
 description: "Zhijian Long is a Mid-career Soil Carbon researcher at Southwest University of Science and Technology in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.663138
+date: 2026-10-11T02:32:59.682352
 url: "/cdr-researcher-census/researchers/zhijian-long-a5102535/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Divergent assembly of soil microbial necromass from microbial and organic fertilizers in Chimonobambusa hejiangensis forest** (2024)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

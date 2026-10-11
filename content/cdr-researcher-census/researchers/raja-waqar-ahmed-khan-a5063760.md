@@ -1,7 +1,7 @@
 ---
 title: "Raja Waqar Ahmed Khan"
 description: "Raja Waqar Ahmed Khan is a Mid-career Soil Carbon researcher at University of Azad Jammu and Kashmir in PK. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.163588
+date: 2026-10-11T02:33:00.193709
 url: "/cdr-researcher-census/researchers/raja-waqar-ahmed-khan-a5063760/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Variations in Soil Organic Carbon Stocks under Different Land-Use Categories in Subtropical Ecosystems of Kashmir** (2021)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 2. **Local scale variations in soil organic carbon sequestration in Lesser Himalayan coniferous and mixed forests: implications for sustainability** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
+
+3. **Carbon Sequestration Potential of Subtropical Soil under the Influence of Selected Plant Species in Muzaffarabad Division** (2024)
+   0 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Nansheng Wu"
 description: "Nansheng Wu is a Senior Soil Carbon researcher at Jiangxi Agricultural University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.800975
+date: 2026-10-11T02:32:59.825122
 url: "/cdr-researcher-census/researchers/nansheng-wu-a5039987/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of Biofuel Crop Switchgrass (Panicum virgatum) Cultivation on Soil Carbon Sequestration and Greenhouse Gas Emissions: A Review** (2022)
-   21 citations · BECCS
+   23 citations · BECCS
 
 2. **Effects of Invasive Solidago canadensis and Biochar on the Remediation of Soil Cd Contamination and Greenhouse Gas Emissions** (2025)
    0 citations · Biochar

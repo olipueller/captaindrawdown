@@ -1,7 +1,7 @@
 ---
 title: "Andrea Rivas-Sánchez"
 description: "Andrea Rivas-Sánchez is a Mid-career Biochar researcher at Tecnológico de Monterrey in MX. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.760694
+date: 2026-10-11T02:32:59.783693
 url: "/cdr-researcher-census/researchers/andrea-rivas-sanchez-a5020994/"
 layout: "researcher"
 hiddenInHomeList: true

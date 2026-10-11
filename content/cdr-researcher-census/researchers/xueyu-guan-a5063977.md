@@ -1,7 +1,7 @@
 ---
 title: "Xueyu Guan"
 description: "Xueyu Guan is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.268344
+date: 2026-10-11T02:33:00.298276
 url: "/cdr-researcher-census/researchers/xueyu-guan-a5063977/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Mechanisms of Soil Inorganic Carbon Migration and <scp> CO <sub>2</sub> </scp> Exchange in Arid and Semi‐Arid Regions** (2025)
-   4 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Till Strunge"
 description: "Till Strunge is a Mid-career General CDR researcher at Heriot-Watt University in GB. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.518991
+date: 2026-10-11T02:32:59.532770
 url: "/cdr-researcher-census/researchers/till-strunge-a5036779/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Carbon dioxide removal could result in the use of lower-grade iron ore in a decarbonized net-negative emission steel industry** (2024)
-   16 citations · General CDR
+   17 citations · General CDR
 
 2. **Perception of carbon capture and utilization - a framing analysis of German-speaking media** (2024)
    4 citations · DAC

@@ -1,7 +1,7 @@
 ---
 title: "Berihu Tesfamariam"
 description: "Berihu Tesfamariam is a Mid-career Soil Carbon researcher at Mekelle University in ET. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.963536
+date: 2026-10-11T02:32:59.994717
 url: "/cdr-researcher-census/researchers/berihu-tesfamariam-a5114021/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,7 +47,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Environmental determinants of tree productivity and biomass carbon stock in semi-arid Ethiopia** (2026)
+1. **Woody Species Composition, Structure, and Above- and Belowground Carbon Stocks for Climate Change Mitigation in the Tabotat Ericaceous Belt Forest, Northern Ethiopia** (2026)
+   0 citations
+
+2. **Environmental determinants of tree productivity and biomass carbon stock in semi-arid Ethiopia** (2026)
    0 citations · General CDR
 
 ## External Profiles

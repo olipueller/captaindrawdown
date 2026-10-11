@@ -1,7 +1,7 @@
 ---
 title: "Anatolii Sandu"
 description: "Anatolii Sandu is a Mid-career BECCS researcher at Academy of Sciences of Moldova in MD. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.890315
+date: 2026-10-11T02:32:59.918055
 url: "/cdr-researcher-census/researchers/anatolii-sandu-a5051284/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Perennial biomass cropping and use: Shaping the policy ecosystem in European countries** (2023)
-   55 citations · BECCS
+   56 citations · BECCS
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Lixiao Ma"
 description: "Lixiao Ma is a Senior Soil Carbon researcher at Hebei Eye Hospital in CN. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.586270
+date: 2026-10-11T02:32:59.602872
 url: "/cdr-researcher-census/researchers/lixiao-ma-a5101201/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Sphagnum increases soil’s sequestration capacity of mineral-associated organic carbon via activating metal oxides** (2023)
-   108 citations · Soil Carbon
+   110 citations · Soil Carbon
 
 2. **Enhanced Mineral Preservation Rather Than Microbial Residue Production Dictates the Accrual of Mineral‐Associated Organic Carbon Along a Weathering Gradient** (2024)
-   47 citations · Soil Carbon
+   51 citations · Soil Carbon
 
-3. **Conservation farming prefers restoring plant lignin and microbial necromass in the particulate to mineral‐associated organic matter** (2025)
-   2 citations · Soil Carbon
+3. **Boosting Lignin and Microbial Necromass Sequestration and Crop Productivity With Strategic Tillage in No‐Till Systems** (2026)
+   4 citations
+
+4. **Conservation farming prefers restoring plant lignin and microbial necromass in the particulate to mineral‐associated organic matter** (2025)
+   3 citations · Soil Carbon
 
 ## External Profiles
 

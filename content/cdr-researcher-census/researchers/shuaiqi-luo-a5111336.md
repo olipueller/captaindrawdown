@@ -1,7 +1,7 @@
 ---
 title: "Shuaiqi Luo"
 description: "Shuaiqi Luo is a Mid-career Biochar researcher at Guangdong University of Technology in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.112618
+date: 2026-10-11T02:33:00.143536
 url: "/cdr-researcher-census/researchers/shuaiqi-luo-a5111336/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Efficient removal of cationic malachite green using co-pyrolyzed corn straw biochar-montmorillonite composites** (2025)
-   14 citations · Biochar
+   15 citations · Biochar
 
 ## External Profiles
 

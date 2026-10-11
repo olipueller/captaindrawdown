@@ -1,7 +1,7 @@
 ---
 title: "Huabin Li"
 description: "Huabin Li is a Senior Biochar researcher at Xiangtan Electric Manufacturing Group (China) in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.797166
+date: 2026-10-11T02:32:59.820920
 url: "/cdr-researcher-census/researchers/huabin-li-a5101549/"
 layout: "researcher"
 hiddenInHomeList: true

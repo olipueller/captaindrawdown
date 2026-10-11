@@ -1,7 +1,7 @@
 ---
 title: "Yueling Yu"
 description: "Yueling Yu is a Mid-career Biochar researcher at Dalian University of Technology in CN. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.528074
+date: 2026-10-11T02:32:59.542114
 url: "/cdr-researcher-census/researchers/yueling-yu-a5041072/"
 layout: "researcher"
 hiddenInHomeList: true

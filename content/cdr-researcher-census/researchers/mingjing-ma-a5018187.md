@@ -1,7 +1,7 @@
 ---
 title: "Mingjing Ma"
 description: "Mingjing Ma is a Mid-career General CDR researcher at Shenyang Institute of Engineering in CN. With 38 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.959937
+date: 2026-10-11T02:32:59.991231
 url: "/cdr-researcher-census/researchers/mingjing-ma-a5018187/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Top CDR Publications
 
-1. **[Research progress on biomass ash carbon capture and storage].** (2023)
-   1 citations · BECCS
+1. **Natural Carbonation of Alkaline Industrial Wastes: A Large-Scale, Unaccounted Sink for CO2** (2025)
+   1 citations · Enhanced Weathering
 
-2. **Natural Carbonation of Alkaline Industrial Wastes: A Large-Scale, Unaccounted Sink for CO2** (2025)
-   0 citations · Enhanced Weathering
+2. **[Research progress on biomass ash carbon capture and storage].** (2023)
+   1 citations · BECCS
 
 ## External Profiles
 

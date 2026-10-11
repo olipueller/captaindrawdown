@@ -1,7 +1,7 @@
 ---
 title: "R. R. Sarker"
 description: "R. R. Sarker is a Senior Soil Carbon researcher. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.320923
+date: 2026-10-11T02:33:00.353141
 url: "/cdr-researcher-census/researchers/r-r-sarker-a5101857/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Conservation agriculture’s impact on total and labile organic carbon pools in calcareous and non-calcareous floodplain soils under a sub-tropical rice-based system** (2023)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 ## External Profiles
 

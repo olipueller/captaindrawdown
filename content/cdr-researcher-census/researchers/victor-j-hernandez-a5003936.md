@@ -1,7 +1,7 @@
 ---
 title: "Vïctor J. Hernández"
 description: "Vïctor J. Hernández is a Mid-career Soil Carbon researcher at Instituto de Ecología in MX. With 7 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.160761
+date: 2026-10-11T02:33:00.190984
 url: "/cdr-researcher-census/researchers/victor-j-hernandez-a5003936/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lai Yang"
 description: "Lai Yang is a Mid-career BECCS researcher at Ezhou Central Hospital in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.638893
+date: 2026-10-11T02:32:59.657450
 url: "/cdr-researcher-census/researchers/lai-yang-a5031052/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Life cycle cost assessment of biomass co-firing power plants with CO2 capture and storage considering multiple incentives** (2021)
-   84 citations · BECCS
+   85 citations · BECCS
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Aomei Jia"
 description: "Aomei Jia is an Early-career Soil Carbon researcher at Sichuan Agricultural University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.260989
+date: 2026-10-11T02:33:00.290714
 url: "/cdr-researcher-census/researchers/aomei-jia-a5081262/"
 layout: "researcher"
 hiddenInHomeList: true

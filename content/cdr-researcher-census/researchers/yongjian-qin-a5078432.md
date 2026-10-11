@@ -1,7 +1,7 @@
 ---
 title: "Yongjian Qin"
 description: "Yongjian Qin is a Senior Biochar researcher at Southwest Forestry University in CN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.683192
+date: 2026-10-11T02:32:59.703395
 url: "/cdr-researcher-census/researchers/yongjian-qin-a5078432/"
 layout: "researcher"
 hiddenInHomeList: true

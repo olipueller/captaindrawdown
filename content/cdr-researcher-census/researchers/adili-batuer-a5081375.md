@@ -1,7 +1,7 @@
 ---
 title: "Adili Batuer"
 description: "Adili Batuer is a Mid-career Ocean CDR researcher at Xinjiang University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.235404
+date: 2026-10-11T02:33:00.265698
 url: "/cdr-researcher-census/researchers/adili-batuer-a5081375/"
 layout: "researcher"
 hiddenInHomeList: true

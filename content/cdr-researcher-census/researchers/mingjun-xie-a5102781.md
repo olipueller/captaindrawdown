@@ -1,7 +1,7 @@
 ---
 title: "Mingjun Xie"
 description: "Mingjun Xie is a Mid-career Biochar researcher at Liaoning University in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.051945
+date: 2026-10-11T02:33:00.082789
 url: "/cdr-researcher-census/researchers/mingjun-xie-a5102781/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    19 citations · Soil Carbon
 
 2. **Carbon vacancies modulated confined Fe single-atoms on loofah-derived biochar for Fenton-like process via non-radical PAA activation** (2026)
-   1 citations · Biochar
+   3 citations · Biochar
 
 3. **Effects of High Nitrogen and Biochar Addition on the Stability of Soil Organic Carbon Pools in Restored Grassland on the Chinese Loess Plateau** (2025)
    0 citations · Biochar

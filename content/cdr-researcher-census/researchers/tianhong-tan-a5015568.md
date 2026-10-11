@@ -1,7 +1,7 @@
 ---
 title: "Tianhong Tan"
 description: "Tianhong Tan is a Senior Soil Carbon researcher. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.017306
+date: 2026-10-11T02:33:00.048264
 url: "/cdr-researcher-census/researchers/tianhong-tan-a5015568/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Importance of Terrain and Climate for Predicting Soil Organic Carbon Is Highly Variable across Local to Continental Scales** (2024)
-   28 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 ## External Profiles
 

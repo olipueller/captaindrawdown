@@ -1,7 +1,7 @@
 ---
 title: "Senani Karunaratne"
 description: "Senani Karunaratne is a Mid-career Soil Carbon researcher at CSIRO in AU. With 70 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.166546
+date: 2026-10-11T02:32:59.170633
 url: "/cdr-researcher-census/researchers/senani-karunaratne-a5052295/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,15 +57,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    11 citations · Soil Carbon
 
 3. **Total nitrogen levels as a key constraint on soil organic carbon stocks across Australian agricultural soils** (2025)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 4. **Unravelling depth-dependent pedoclimatic controls on measurable soil organic carbon fractions across climatic gradients in Australian agricultural soils** (2026)
    2 citations · Soil Carbon
 
-5. **The Soil Spectral Selection System: A Practical Platform to operationalise Soil Spectroscopy** (2026)
+5. **Estimating attainable soil organic carbon and farm-level limiting factors across Australia’s grain-growing regions** (2026)
    0 citations
 
-6. **Soil Organic Carbon Monitoring Project** (2025)
+6. **Benchmarking soil organic carbon in Australian rangelands: climate-driven stability and transparent upscaling for national accounting** (2026)
+   0 citations
+
+7. **The Soil Spectral Selection System: A Practical Platform to operationalise Soil Spectroscopy** (2026)
+   0 citations
+
+8. **Soil Organic Carbon Monitoring Project** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

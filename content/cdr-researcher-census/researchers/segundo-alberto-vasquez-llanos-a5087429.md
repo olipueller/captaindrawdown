@@ -1,7 +1,7 @@
 ---
 title: "Segundo Alberto Vásquez Llanos"
 description: "Segundo Alberto Vásquez Llanos is a Mid-career Biochar researcher. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.318888
+date: 2026-10-11T02:33:00.350710
 url: "/cdr-researcher-census/researchers/segundo-alberto-vasquez-llanos-a5087429/"
 layout: "researcher"
 hiddenInHomeList: true

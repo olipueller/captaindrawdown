@@ -1,7 +1,7 @@
 ---
 title: "Ginjo Gitima"
 description: "Ginjo Gitima is a Mid-career Soil Carbon researcher at Bond University in AU. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.132451
+date: 2026-10-11T02:33:00.162833
 url: "/cdr-researcher-census/researchers/ginjo-gitima-a5020198/"
 layout: "researcher"
 hiddenInHomeList: true

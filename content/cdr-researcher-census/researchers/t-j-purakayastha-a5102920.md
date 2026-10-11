@@ -1,7 +1,7 @@
 ---
 title: "T. J. Purakayastha"
 description: "T. J. Purakayastha is a Senior Soil Carbon researcher at Indian Agricultural Statistics Research Institute in IN. With 68 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.093973
+date: 2026-10-11T02:32:59.098532
 url: "/cdr-researcher-census/researchers/t-j-purakayastha-a5102920/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biochar aided priming of carbon and nutrient availability in three soil orders of India** (2024)
-   16 citations · Biochar
+   18 citations · Biochar
 
 2. **Role of Biochar on Greenhouse Gas Emissions and Carbon Sequestration in Soil: Opportunities for Mitigating Climate Change** (2021)
-   14 citations · Biochar
+   13 citations · Biochar
 
 3. **Assessment of carbon carrying capacities of Alfisols and Vertisols under long-term manuring and fertilization** (2024)
    9 citations · Soil Carbon
 
 4. **Exploring soil organic carbon fractions, stocks, and carbon management index across land uses in subtropical ecosystems of Tripura, India** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 5. **Variability in soil organic carbon pools in different land use systems in the north-eastern region of India** (2024)
    3 citations · Soil Carbon
@@ -70,6 +70,12 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 7. **Enhancing Cation and Anion Exchange Capacity of Rice Straw Biochar by Chemical Modification for Increased Plant Nutrient Retention** (2023)
    1 citations · Biochar
+
+8. **Enhancing Soil Carbon Stocks Through Cropping System Diversification in Rainfed Agroecosystem of a Hot and Dry Subhumid Climate** (2026)
+   0 citations · Soil Carbon
+
+9. **Assessment of maximum carbon carrying capacities in four soil orders of India** (2026)
+   0 citations
 
 ## External Profiles
 

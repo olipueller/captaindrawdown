@@ -1,7 +1,7 @@
 ---
 title: "Ishani Pandya"
 description: "Ishani Pandya is a Mid-career General CDR researcher at Sardar Vallabhbhai National Institute of Technology Surat in IN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.341448
+date: 2026-10-11T02:33:00.376077
 url: "/cdr-researcher-census/researchers/ishani-pandya-a5093592/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Adrianna Trusiak"
 description: "Adrianna Trusiak is a Mid-career BECCS researcher at University of Michigan in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.669209
+date: 2026-10-11T02:32:59.688860
 url: "/cdr-researcher-census/researchers/adrianna-trusiak-a5060404/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Bioenergy Underground: Challenges and opportunities for phenotyping roots and the microbiome for sustainable bioenergy crop production** (2022)
-   24 citations · BECCS
+   20 citations · BECCS
 
 ## External Profiles
 

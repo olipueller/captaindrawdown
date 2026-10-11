@@ -1,7 +1,7 @@
 ---
 title: "Neha Begill"
 description: "Neha Begill is a Mid-career Soil Carbon researcher at Johann Heinrich von Thünen-Institut in DE. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.720061
+date: 2026-10-11T02:32:59.741361
 url: "/cdr-researcher-census/researchers/neha-begill-a5071454/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **No detectable upper limit of mineral‐associated organic carbon in temperate agricultural soils** (2023)
-   192 citations · Soil Carbon
+   200 citations · Soil Carbon
 
 2. **Root litter quality drives the dynamic of native mineral-associated organic carbon in a temperate agricultural soil** (2023)
-   30 citations
+   32 citations
 
 3. **Increased Retention of Litter‐Derived Organic Carbon With Increasing Initial Carbon Content in Temperate Agricultural Soils** (2025)
    5 citations · Soil Carbon
@@ -62,14 +62,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Different Amounts of Added Litter Do Not Affect Long‐Term Carbon Mineralization and Stabilization in Topsoils and Subsoils** (2025)
    3 citations · Soil Carbon
 
-5. **Is initial soil organic carbon more important than texture for the fate of carbon inputs into temperate agricultural soils?** (2026)
+5. **What limits carbon sequestration in soils?** (2023)
+   1 citations · General CDR
+
+6. **Is initial soil organic carbon more important than texture for the fate of carbon inputs into temperate agricultural soils?** (2026)
    0 citations · Soil Carbon
 
-6. **Net primary production rather than saturation of mineral surfaces limits soil carbon sequestration&amp;#160;** (2024)
+7. **Net primary production rather than saturation of mineral surfaces limits soil carbon sequestration&amp;#160;** (2024)
    0 citations · Soil Carbon
-
-7. **What limits carbon sequestration in soils?** (2023)
-   0 citations · General CDR
 
 ## External Profiles
 

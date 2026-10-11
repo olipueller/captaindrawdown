@@ -1,7 +1,7 @@
 ---
 title: "Yuanxiao Xu"
 description: "Yuanxiao Xu is a Mid-career Soil Carbon researcher at Ministry of Agriculture in EE. With 35 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.318282
+date: 2026-10-11T02:32:59.324139
 url: "/cdr-researcher-census/researchers/yuanxiao-xu-a5101213/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    16 citations · Soil Carbon
 
 2. **Agricultural activities increased soil organic carbon in Shiyang River Basin, a typical inland river basin in China** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 3. **Terraced fields increased soil organic carbon content in croplands of the loess plateau** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 4. **Agricultural Activities Increased Soil Organic Carbon in Shiyang River Basin, a typical inland river basin in China** (2024)
    1 citations

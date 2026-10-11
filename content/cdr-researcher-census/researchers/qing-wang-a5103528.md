@@ -1,7 +1,7 @@
 ---
 title: "Qing Wang"
 description: "Qing Wang is a Senior Ocean CDR researcher at Yantai Institute of Coastal Zone Research in CN. With 20 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.309701
+date: 2026-10-11T02:32:59.315084
 url: "/cdr-researcher-census/researchers/qing-wang-a5103528/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Gut microbial community plasticity as a climate shield mediating sea cucumber resilience to ocean acidification and warming** (2025)
-   2 citations · Ocean CDR
+   4 citations · Ocean CDR
 
 ## External Profiles
 

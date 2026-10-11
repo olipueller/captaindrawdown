@@ -1,7 +1,7 @@
 ---
 title: "Kapil Khanal"
 description: "Kapil Khanal is a Mid-career Soil Carbon researcher at Auburn University in US. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.145124
+date: 2026-10-11T02:33:00.175147
 url: "/cdr-researcher-census/researchers/kapil-khanal-a5006438/"
 layout: "researcher"
 hiddenInHomeList: true

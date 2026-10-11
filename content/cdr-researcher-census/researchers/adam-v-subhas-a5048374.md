@@ -1,7 +1,7 @@
 ---
 title: "Adam V. Subhas"
 description: "Adam V. Subhas is a Senior Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 92 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.177883
+date: 2026-10-11T02:32:59.181921
 url: "/cdr-researcher-census/researchers/adam-v-subhas-a5048374/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,34 +51,34 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Microbial ecosystem responses to alkalinity enhancement in the North Atlantic Subtropical Gyre** (2022)
-   69 citations · General CDR
+   64 citations · General CDR
 
-2. **Site selection for ocean alkalinity enhancement informed by passive tracer simulations** (2025)
+2. **Ocean Carbon Dioxide Removal and Storage** (2026)
+   13 citations · General CDR
+
+3. **Site selection for ocean alkalinity enhancement informed by passive tracer simulations** (2025)
+   13 citations · Ocean CDR
+
+4. **Mineral formation during shipboard ocean alkalinity enhancement experiments in the North Atlantic** (2025)
    12 citations · Ocean CDR
 
-3. **Ocean Carbon Dioxide Removal and Storage** (2026)
-   9 citations · General CDR
-
-4. **A tracer study for the development of in-water monitoring, reporting, and verification (MRV) of ship-based ocean alkalinity enhancement** (2025)
-   8 citations · General CDR
-
-5. **Mineral formation during shipboard ocean alkalinity enhancement experiments in the North Atlantic** (2025)
-   7 citations · Ocean CDR
+5. **A tracer study for the development of in-water monitoring, reporting, and verification (MRV) of ship-based ocean alkalinity enhancement** (2025)
+   10 citations · General CDR
 
 6. **Natural Analogs to Ocean Alkalinity Enhancement** (2023)
    6 citations
 
-7. **Development of the ecological activity index as an integrative ecosystem assessment and monitoring asset for ocean alkalinity enhancement** (2025)
+7. **Data reporting and sharing for ocean alkalinity enhancement research** (2023)
+   5 citations · General CDR
+
+8. **Development of the ecological activity index as an integrative ecosystem assessment and monitoring asset for ocean alkalinity enhancement** (2025)
    4 citations · General CDR
 
-8. **Data reporting and sharing for ocean alkalinity enhancement research** (2023)
-   4 citations · General CDR
+9. **The effects of elevated seawater pH and total alkalinity following dosing of sodium hydroxide in <i>Calanus finmarchicus</i>** (2026)
+   3 citations · General CDR
 
-9. **Mineral Formation during Shipboard Ocean Alkalinity Enhancement Experiments in the North Atlantic** (2025)
+10. **Mineral Formation during Shipboard Ocean Alkalinity Enhancement Experiments in the North Atlantic** (2025)
    3 citations
-
-10. **The effects of elevated seawater pH and total alkalinity following dosing of sodium hydroxide in <i>Calanus finmarchicus</i>** (2026)
-   2 citations · General CDR
 
 ## External Profiles
 

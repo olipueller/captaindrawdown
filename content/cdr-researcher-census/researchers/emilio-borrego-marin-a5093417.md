@@ -1,7 +1,7 @@
 ---
 title: "Emilio Borrego-Marin"
 description: "Emilio Borrego-Marin is an Early-career DAC researcher at Universidad de Granada in ES. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.694583
+date: 2026-10-11T02:32:59.715212
 url: "/cdr-researcher-census/researchers/emilio-borrego-marin-a5093417/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Water-Enhanced Direct Air Capture of Carbon Dioxide in Metal–Organic Frameworks** (2024)
-   265 citations · DAC
+   273 citations · DAC
 
 ## External Profiles
 

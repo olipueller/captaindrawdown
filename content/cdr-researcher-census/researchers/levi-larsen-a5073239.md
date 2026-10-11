@@ -1,7 +1,7 @@
 ---
 title: "Levi Larsen"
 description: "Levi Larsen is a Senior DAC researcher at Norwegian University of Science and Technology in NO. With 34 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.193733
+date: 2026-10-11T02:33:00.223819
 url: "/cdr-researcher-census/researchers/levi-larsen-a5073239/"
 layout: "researcher"
 hiddenInHomeList: true

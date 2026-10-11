@@ -1,7 +1,7 @@
 ---
 title: "Naijie Chang"
 description: "Naijie Chang is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 25 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.444190
+date: 2026-10-11T02:32:59.454609
 url: "/cdr-researcher-census/researchers/naijie-chang-a5047713/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 5. **Data-driven precision optimization of straw and N-fertilizer input to balance SOC sequestration and stability in China’s intensive croplands** (2026)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 6. **Achieving system-level decoupling in intensive agriculture via zoning-based cleaner production strategies: Insights from the Huang-Huai-Hai plain** (2026)
    1 citations

@@ -1,7 +1,7 @@
 ---
 title: "Jingpeng Song"
 description: "Jingpeng Song is a Mid-career Soil Carbon researcher at Environmental Protection Engineering (Greece) in GR. With 21 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.199930
+date: 2026-10-11T02:32:59.203914
 url: "/cdr-researcher-census/researchers/jingpeng-song-a5109760/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Artificial humic substances improve microbial activity for binding CO2** (2021)
-   62 citations · Soil Carbon
+   65 citations · Soil Carbon
 
 2. **Artificial Humic Substances Improve Microbial Activity for Binding CO &lt;sub&gt;2&lt;/sub&gt;** (2021)
    0 citations · Soil Carbon

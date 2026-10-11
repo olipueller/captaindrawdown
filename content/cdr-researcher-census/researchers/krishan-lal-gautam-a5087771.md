@@ -1,7 +1,7 @@
 ---
 title: "Krishan Lal Gautam"
 description: "Krishan Lal Gautam is a Mid-career Soil Carbon researcher at Dr. Yashwant Singh Parmar University of Horticulture and Forestry in IN. With 24 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.279034
+date: 2026-10-11T02:33:00.309134
 url: "/cdr-researcher-census/researchers/krishan-lal-gautam-a5087771/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Daniel Großegger"
 description: "Daniel Großegger is a Mid-career Biochar researcher at Empa in CH. With 31 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.286972
+date: 2026-10-11T02:32:59.291854
 url: "/cdr-researcher-census/researchers/daniel-groegger-a5036593/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Exploring the carbon sequestration of an asphalt base course mixture containing novel cold-bonded biochar-rich lightweight aggregates** (2025)
-   12 citations · Biochar
+   17 citations · Biochar
 
 2. **Feasibility study of biochar as alternative filler to limestone filler investigated at the asphalt mastic level** (2025)
    4 citations · Biochar

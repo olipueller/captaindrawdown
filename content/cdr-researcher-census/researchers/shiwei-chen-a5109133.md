@@ -1,7 +1,7 @@
 ---
 title: "Shiwei Chen"
 description: "Shiwei Chen is a Senior General CDR researcher at Taipei Veterans General Hospital in TW. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.909355
+date: 2026-10-11T02:32:59.939208
 url: "/cdr-researcher-census/researchers/shiwei-chen-a5109133/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Synergistic action on mitigation and adaptation pilot policies to enhance low-carbon resilience of Chinese cities** (2025)
-   16 citations · General CDR
+   19 citations · General CDR
 
 ## External Profiles
 

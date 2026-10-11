@@ -1,7 +1,7 @@
 ---
 title: "Kumuduni Palansuriya"
 description: "Kumuduni Palansuriya is an Early-career Biochar researcher at Korea University in KR. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.107455
+date: 2026-10-11T02:33:00.138254
 url: "/cdr-researcher-census/researchers/kumuduni-palansuriya-a5044012/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar heavy metal removal in aqueous solution depends on feedstock type and pyrolysis purging gas** (2021)
-   158 citations · Biochar
+   160 citations · Biochar
 
 ## External Profiles
 

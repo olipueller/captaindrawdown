@@ -1,7 +1,7 @@
 ---
 title: "Suraja Kumar Nayak"
 description: "Suraja Kumar Nayak is a Mid-career Soil Carbon researcher at Kalinga Institute of Social Sciences in IN. With 38 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.520784
+date: 2026-10-11T02:32:59.534609
 url: "/cdr-researcher-census/researchers/suraja-kumar-nayak-a5012596/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Optimizing Carbon Sequestration: The Role of Coconut Palm in Agroforestry** (2025)
-   2 citations · General CDR
+   1 citations · General CDR
 
 2. **Utilizing Data-Driven Thermal Imaging in Regenerative Agriculture to Enhance Soil Health and Boost Carbon Sequestration** (2025)
    0 citations · General CDR

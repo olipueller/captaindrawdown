@@ -1,7 +1,7 @@
 ---
 title: "Shareq Mohd Nazir"
 description: "Shareq Mohd Nazir is a Mid-career BECCS researcher at KTH Royal Institute of Technology in SE. With 45 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.282293
+date: 2026-10-11T02:32:59.286417
 url: "/cdr-researcher-census/researchers/shareq-mohd-nazir-a5033121/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,22 +53,25 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 1. **Process concepts and analysis for co-removing methane and carbon dioxide from the atmosphere** (2023)
    15 citations
 
-2. **Multiple greenhouse gases mitigation (MGM): Process concepts to co-remove non-CO2 (CH4) greenhouse gases and CO2 from air** (2022)
-   3 citations · General CDR
+2. **Reduced life cycle climate impact from manure through catalytic methane conversion and carbon dioxide removal** (2025)
+   2 citations · General CDR
 
-3. **Reduced life cycle climate impact from manure through catalytic methane conversion and carbon dioxide removal** (2025)
-   1 citations · General CDR
+3. **Multiple greenhouse gases mitigation (MGM): Process concepts to co-remove non-CO2 (CH4) greenhouse gases and CO2 from air** (2022)
+   2 citations · General CDR
 
-4. **Combining Nuclear Energy, Bioenergy, and Carbon Capture Can Significantly Reduce Thermal Energy Losses** (2026)
-   0 citations · BECCS
-
-5. **BECCS potential in the pulp and paper industry: Technical and practical considerations for oxyfuel firing in Kraft recovery boilers** (2025)
-   0 citations · BECCS
-
-6. **Reduced life cycle climate impact from manure through catalytic methane conversion and carbon dioxide removal** (2025)
+4. **Nuclear Power, Bio-Hydrogen Production, and Carbon Capture in a Combined System: Synergies and Trade-offs** (2026)
    0 citations
 
-7. **Co-removing methane and carbon dioxide from the atmosphere: Process concepts and analysis** (2023)
+5. **Combining Nuclear Energy, Bioenergy, and Carbon Capture Can Significantly Reduce Thermal Energy Losses** (2026)
+   0 citations · BECCS
+
+6. **BECCS potential in the pulp and paper industry: Technical and practical considerations for oxyfuel firing in Kraft recovery boilers** (2025)
+   0 citations · BECCS
+
+7. **Reduced life cycle climate impact from manure through catalytic methane conversion and carbon dioxide removal** (2025)
+   0 citations
+
+8. **Co-removing methane and carbon dioxide from the atmosphere: Process concepts and analysis** (2023)
    0 citations
 
 ## External Profiles

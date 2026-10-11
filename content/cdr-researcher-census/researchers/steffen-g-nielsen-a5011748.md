@@ -1,7 +1,7 @@
 ---
 title: "Steffen G. Nielsen"
 description: "Steffen G. Nielsen is a Mid-career General CDR researcher at Aalborg University in DK. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.166078
+date: 2026-10-11T02:33:00.196130
 url: "/cdr-researcher-census/researchers/steffen-g-nielsen-a5011748/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Is solid calcium looping a scalable technology for mega-ton carbon dioxide removal?** (2025)
-   4 citations · General CDR
+   5 citations · General CDR
 
 ## External Profiles
 

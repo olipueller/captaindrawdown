@@ -1,7 +1,7 @@
 ---
 title: "Amsalu Tilahun"
 description: "Amsalu Tilahun is a Mid-career Biochar researcher at Jimma University in ET. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.386534
+date: 2026-10-11T02:33:00.423519
 url: "/cdr-researcher-census/researchers/amsalu-tilahun-a5086954/"
 layout: "researcher"
 hiddenInHomeList: true

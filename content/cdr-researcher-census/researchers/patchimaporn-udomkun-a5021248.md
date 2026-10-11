@@ -1,7 +1,7 @@
 ---
 title: "Patchimaporn Udomkun"
 description: "Patchimaporn Udomkun is a Mid-career Biochar researcher at Chiang Mai University in TH. With 46 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.333596
+date: 2026-10-11T02:32:59.339334
 url: "/cdr-researcher-census/researchers/patchimaporn-udomkun-a5021248/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhancing soil health, microbial count, and hydrophilic methomyl and hydrophobic lambda-cyhalothrin remediation with biochar and nano-biochar** (2024)
-   24 citations · Biochar
+   29 citations · Biochar
 
 2. **Innovative approaches: Exploring nano-biochar technology’s impact on soil properties, alachlor retention, and microbial populations** (2024)
-   18 citations · Biochar
+   19 citations · Biochar
 
 3. **Enhancing CO2 Sequestration Through Corn Stalk Biochar-Enhanced Mortar: A Synergistic Approach with Algal Growth for Carbon Capture Applications** (2025)
-   8 citations · Biochar
+   9 citations · Biochar
 
 4. **A Critical Review of Regenerative Soil Management: A Novel Scoring System for <scp>SOC</scp> and <scp>GHG</scp> Emissions in Southeast Asia** (2025)
    5 citations · General CDR

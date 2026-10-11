@@ -1,7 +1,7 @@
 ---
 title: "Xingsong Yi"
 description: "Xingsong Yi is a Mid-career Soil Carbon researcher at Guizhou University in CN. With 22 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.592267
+date: 2026-10-11T02:32:59.609178
 url: "/cdr-researcher-census/researchers/xingsong-yi-a5038579/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    10 citations · Soil Carbon
 
 3. **Effects of soil and rock microhabitats on soil organic carbon stability in a karst peak-cluster depression region of Southwestern China** (2023)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 4. **Effects of latitude and altitude on the composition of humus in forest soils in the Low Latitude Plateau** (2022)
    0 citations · Soil Carbon

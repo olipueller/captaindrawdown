@@ -1,7 +1,7 @@
 ---
 title: "Isaac Ahanamungu Makelele"
 description: "Isaac Ahanamungu Makelele is a Mid-career Soil Carbon researcher at Ghent University in BE. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.306634
+date: 2026-10-11T02:32:59.311854
 url: "/cdr-researcher-census/researchers/isaac-ahanamungu-makelele-a5055851/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,10 +50,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Environmental controls on carbon stock recovery rates in Afrotropical secondary forest** (2026)
+1. **Microbial activity of a secondary forest succession after shifting agriculture in the Afrotropics** (2026)
    0 citations · Soil Carbon
 
-2. **The Ecological Functions of Congo Basin Ecosystems and Basin-Wide Carbon Cycle** (2026)
+2. **Environmental controls on carbon stock recovery rates in Afrotropical secondary forest** (2026)
+   0 citations · Soil Carbon
+
+3. **The Ecological Functions of Congo Basin Ecosystems and Basin-Wide Carbon Cycle** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

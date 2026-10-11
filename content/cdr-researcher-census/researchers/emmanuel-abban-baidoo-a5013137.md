@@ -1,7 +1,7 @@
 ---
 title: "Emmanuel Abban-Baidoo"
 description: "Emmanuel Abban-Baidoo is a Mid-career Biochar researcher at Auburn University in US. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.260881
+date: 2026-10-11T02:33:00.290604
 url: "/cdr-researcher-census/researchers/emmanuel-abban-baidoo-a5013137/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Can combined compost and biochar application improve the quality of a highly weathered coastal savanna soil?** (2021)
-   38 citations · Biochar
+   43 citations · Biochar
 
 ## External Profiles
 

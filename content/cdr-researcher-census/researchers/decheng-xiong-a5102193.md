@@ -1,7 +1,7 @@
 ---
 title: "Decheng Xiong"
 description: "Decheng Xiong is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 76 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.215597
+date: 2026-10-11T02:32:59.219546
 url: "/cdr-researcher-census/researchers/decheng-xiong-a5102193/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,7 +56,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Diurnal and seasonal carbon budget of subtropical moss-dominated biocrusts** (2024)
    1 citations · Soil Carbon
 
-4. **Primary Productivity Regulates Rhizosphere Soil Organic Carbon: Evidence from a Chronosequence of Chinese Fir Plantation** (2024)
+4. **Assisted natural regeneration promotes soil carbon stabilization through fungal residue pathways in subtropical forests** (2026)
+   0 citations
+
+5. **Primary Productivity Regulates Rhizosphere Soil Organic Carbon: Evidence from a Chronosequence of Chinese Fir Plantation** (2024)
    0 citations · Soil Carbon
 
 ## External Profiles

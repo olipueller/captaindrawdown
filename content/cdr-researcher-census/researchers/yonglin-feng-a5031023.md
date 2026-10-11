@@ -1,7 +1,7 @@
 ---
 title: "Yonglin Feng"
 description: "Yonglin Feng is a Mid-career Soil Carbon researcher at Ministry of Natural Resources in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.344988
+date: 2026-10-11T02:33:00.380078
 url: "/cdr-researcher-census/researchers/yonglin-feng-a5031023/"
 layout: "researcher"
 hiddenInHomeList: true

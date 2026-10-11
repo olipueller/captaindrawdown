@@ -1,7 +1,7 @@
 ---
 title: "Xiaofei Gong"
 description: "Xiaofei Gong is a Senior Biochar researcher at Soochow University in CN. With 61 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.147472
+date: 2026-10-11T02:32:59.151741
 url: "/cdr-researcher-census/researchers/xiaofei-gong-a5112538/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhanced denitrification using iron modified biochar under low carbon source condition: Modulating community assembly, allocating carbon metabolism and facilitating electron transfer** (2025)
-   24 citations · Biochar
+   26 citations · Biochar
 
 2. **Integrated evaluation for advanced removal of nitrate using novel solid carbon biochar/corncob/PHBV composite: Insight into electron transfer and metabolic pathways** (2025)
-   14 citations · Biochar
+   15 citations · Biochar
 
 3. **Novel biochar-PHBV denitrification enhanced constructed wetlands for the treatment of municipal tailwater: extracellular electron transfer and microbial synergism** (2025)
-   13 citations · Biochar
+   14 citations · Biochar
 
 4. **Enhanced Denitrification Using Iron Modified Biochar Under Low Carbon Source Condition: Modulating Community Assembly, Allocating Carbon Metabolism and Facilitating Electron Transfer** (2025)
    0 citations · Biochar

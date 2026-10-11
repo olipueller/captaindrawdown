@@ -1,7 +1,7 @@
 ---
 title: "Paola Celli"
 description: "Paola Celli is a Senior General CDR researcher at Policlinico Umberto I in IT. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.270939
+date: 2026-10-11T02:33:00.300751
 url: "/cdr-researcher-census/researchers/paola-celli-a5088013/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Intraoperative use of extracorporeal CO2 removal (ECCO2R) and emergency ECMO requirement in patients undergoing lung transplant: a case-matched cohort retrospective study** (2022)
-   1 citations · General CDR
+   2 citations · General CDR
 
 ## External Profiles
 

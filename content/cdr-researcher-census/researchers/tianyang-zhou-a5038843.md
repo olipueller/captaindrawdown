@@ -1,7 +1,7 @@
 ---
 title: "Tianyang Zhou"
 description: "Tianyang Zhou is a Mid-career Soil Carbon researcher at Sichuan Agricultural University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.617505
+date: 2026-10-11T02:32:59.634962
 url: "/cdr-researcher-census/researchers/tianyang-zhou-a5038843/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Controlled irrigation can mitigate the greenhouse effects of rice paddy fields with long-term straw return and stimulate microbial necromass carbon accumulation** (2024)
-   19 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 ## External Profiles
 

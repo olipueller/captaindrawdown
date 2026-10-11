@@ -1,7 +1,7 @@
 ---
 title: "Mumtaz Ahmad"
 description: "Mumtaz Ahmad is a Senior Biochar researcher at Khwaja Fareed University of Engineering and Information Technology in PK. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.145422
+date: 2026-10-11T02:33:00.175418
 url: "/cdr-researcher-census/researchers/mumtaz-ahmad-a5108123/"
 layout: "researcher"
 hiddenInHomeList: true

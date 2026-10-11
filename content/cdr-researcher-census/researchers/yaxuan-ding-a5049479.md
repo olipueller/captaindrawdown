@@ -1,7 +1,7 @@
 ---
 title: "Yaxuan Ding"
 description: "Yaxuan Ding is a Mid-career Biochar researcher at Guangxi University in CN. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.084608
+date: 2026-10-11T02:33:00.114964
 url: "/cdr-researcher-census/researchers/yaxuan-ding-a5049479/"
 layout: "researcher"
 hiddenInHomeList: true

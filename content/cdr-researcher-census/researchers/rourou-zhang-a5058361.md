@@ -1,7 +1,7 @@
 ---
 title: "Rourou Zhang"
 description: "Rourou Zhang is a Mid-career Biochar researcher at Harbin Institute of Technology in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.408131
+date: 2026-10-11T02:32:59.417230
 url: "/cdr-researcher-census/researchers/rourou-zhang-a5058361/"
 layout: "researcher"
 hiddenInHomeList: true

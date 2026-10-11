@@ -1,7 +1,7 @@
 ---
 title: "Y. Julia Yu"
 description: "Y. Julia Yu is a Mid-career Soil Carbon researcher at Tufts University in US. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.296721
+date: 2026-10-11T02:32:59.301444
 url: "/cdr-researcher-census/researchers/y-julia-yu-a5043352/"
 layout: "researcher"
 hiddenInHomeList: true

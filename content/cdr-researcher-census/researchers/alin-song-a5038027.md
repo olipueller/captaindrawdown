@@ -1,7 +1,7 @@
 ---
 title: "Alin Song"
 description: "Alin Song is a Senior Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 85 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.057707
+date: 2026-10-11T02:32:59.061999
 url: "/cdr-researcher-census/researchers/alin-song-a5038027/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,19 +48,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **High potential of stable carbon sequestration in phytoliths of China's grasslands** (2022)
-   55 citations · Soil Carbon
+   57 citations · Soil Carbon
 
 2. **Keystone microbial taxa drive the accelerated decompositions of cellulose and lignin by long-term resource enrichments** (2022)
-   51 citations · Soil Carbon
+   52 citations · Soil Carbon
 
 3. **Low Carbon Loss from Long-Term Manure-Applied Soil during Abrupt Warming Is Realized through Soil and Microbiome Interplay** (2024)
-   33 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 4. **Sequestration potential of phytolith occluded carbon in China's paddy rice (Oryza sativa L.) systems** (2021)
-   33 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 5. **Linking microbial taxa and the effect of mineral nitrogen forms on residue decomposition at the early stage in arable soil by DNA-qSIP** (2021)
-   22 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 6. **The accumulation and carbon sequestration potential of biogenic silica in coastal salt marshes: Implications for relative sea-level rise** (2023)
    8 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Huw Pullin"
 description: "Huw Pullin is a Mid-career Enhanced Weathering researcher at Cardiff University in GB. With 17 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.389238
+date: 2026-10-11T02:32:59.397161
 url: "/cdr-researcher-census/researchers/huw-pullin-a5053156/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Potential of enhanced weathering of calcite in packed bubble columns with seawater for carbon dioxide removal** (2021)
-   25 citations · Enhanced Weathering
+   26 citations · Enhanced Weathering
 
 ## External Profiles
 

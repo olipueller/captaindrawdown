@@ -1,7 +1,7 @@
 ---
 title: "Tengyue Fang"
 description: "Tengyue Fang is a Mid-career Ocean CDR researcher at Xiamen University in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.792401
+date: 2026-10-11T02:32:59.816201
 url: "/cdr-researcher-census/researchers/tengyue-fang-a5087122/"
 layout: "researcher"
 hiddenInHomeList: true

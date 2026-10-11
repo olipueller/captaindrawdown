@@ -1,7 +1,7 @@
 ---
 title: "Chieh-Yin Chen"
 description: "Chieh-Yin Chen is a Senior Soil Carbon researcher at National Yang Ming Chiao Tung University in TW. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.962662
+date: 2026-10-11T02:32:59.993844
 url: "/cdr-researcher-census/researchers/chieh-yin-chen-a5039581/"
 layout: "researcher"
 hiddenInHomeList: true

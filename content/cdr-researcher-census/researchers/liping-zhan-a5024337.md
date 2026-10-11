@@ -1,7 +1,7 @@
 ---
 title: "Liping Zhan"
 description: "Liping Zhan is an Early-career Biochar researcher at Nanjing Agricultural University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.130616
+date: 2026-10-11T02:33:00.161069
 url: "/cdr-researcher-census/researchers/liping-zhan-a5024337/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar addition stabilized soil carbon sequestration by reducing temperature sensitivity of mineralization and altering the microbial community in a greenhouse vegetable field** (2022)
-   62 citations · Biochar
+   65 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Tanushka Florence Panicker"
 description: "Tanushka Florence Panicker is a Mid-career Biochar researcher at Manipal Academy of Higher Education in IN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.967965
+date: 2026-10-11T02:32:59.999232
 url: "/cdr-researcher-census/researchers/tanushka-florence-panicker-a5114622/"
 layout: "researcher"
 hiddenInHomeList: true

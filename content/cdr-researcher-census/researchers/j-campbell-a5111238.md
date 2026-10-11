@@ -1,7 +1,7 @@
 ---
 title: "J. Campbell"
 description: "J. Campbell is a Senior General CDR researcher at Heriot-Watt University in GB. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.254766
+date: 2026-10-11T02:33:00.284730
 url: "/cdr-researcher-census/researchers/j-campbell-a5111238/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Carbon dioxide removal could result in the use of lower-grade iron ore in a decarbonized net-negative emission steel industry** (2024)
-   16 citations · General CDR
+   17 citations · General CDR
+
+2. **Geochemical modeling of CO2 sequestration via weathering of steel slag: Reactive transport and mineralization dynamics** (2026)
+   2 citations
 
 ## External Profiles
 

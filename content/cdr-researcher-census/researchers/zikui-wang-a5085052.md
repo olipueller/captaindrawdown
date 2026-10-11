@@ -1,7 +1,7 @@
 ---
 title: "Zikui Wang"
 description: "Zikui Wang is a Senior Soil Carbon researcher at Lanzhou University in CN. With 73 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.195122
+date: 2026-10-11T02:32:59.199096
 url: "/cdr-researcher-census/researchers/zikui-wang-a5085052/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Deep soil water depletion and soil organic carbon and total nitrogen accumulation in a long‐term alfalfa pasture** (2022)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 2. **Responses of Deep Soil Carbon and Nitrogen Contents to Long-Term Retention of Alfalfa Pasture on Infertile Loess: A Synthesis Study** (2023)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 3. **Dynamics of deep soil water, organic carbon and total nitrogen in response to the conversion of annual crops to long-term alfalfa pasture on the semi-arid Loess Plateau** (2022)
    1 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Gongjing Zhang"
 description: "Gongjing Zhang is a Mid-career Enhanced Weathering researcher at Chinese Academy of Sciences in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.674688
+date: 2026-10-11T02:32:59.694470
 url: "/cdr-researcher-census/researchers/gongjing-zhang-a5079392/"
 layout: "researcher"
 hiddenInHomeList: true

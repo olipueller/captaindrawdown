@@ -1,7 +1,7 @@
 ---
 title: "Yash P. Dang"
 description: "Yash P. Dang is a Mid-career Soil Carbon researcher at The University of Queensland in AU. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.644287
+date: 2026-10-11T02:32:59.662711
 url: "/cdr-researcher-census/researchers/yash-p-dang-a5102788/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial metabolism regulates the stabilization of rhizodeposition-derived carbon in soil aggregates and mineral fractions under long-term tillage** (2026)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 2. **Legume Rotations and Conservation Tillage in Synergy: Yield Gains, Carbon Sequestration, and Climate Resilience** (2026)
    1 citations · General CDR
+
+3. **Mid-Infrared spectroscopy for soil organic carbon estimation. Part I: Global review and meta-analysis** (2026)
+   0 citations
 
 ## External Profiles
 

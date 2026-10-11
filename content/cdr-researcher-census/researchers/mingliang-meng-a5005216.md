@@ -1,7 +1,7 @@
 ---
 title: "Mingliang Meng"
 description: "Mingliang Meng is an Early-career Biochar researcher at Zhejiang Sci-Tech University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.181410
+date: 2026-10-11T02:33:00.211300
 url: "/cdr-researcher-census/researchers/mingliang-meng-a5005216/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Preparation of three kinds of efficient sludge-derived adsorbents for metal ions and organic wastewater purification** (2024)
-   32 citations · Biochar
+   31 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Sunanda Biswas"
 description: "Sunanda Biswas is a Senior Soil Carbon researcher at University College of Technology in CM. With 68 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.165879
+date: 2026-10-11T02:32:59.169955
 url: "/cdr-researcher-census/researchers/sunanda-biswas-a5102958/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,22 +45,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 19 |
 | Citations | 1,551 |
 | Publications | 68 |
-| CDR Focus | 7.4% |
+| CDR Focus | 8.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Influence of Clay Mineralogy on Soil Organic Carbon Stabilization under Tropical Climate, India** (2022)
-   34 citations · Soil Carbon
+   35 citations · Soil Carbon
 
 2. **Imprint of clay mineralogy, sesquioxides, and crop residue addition for evaluation of soil organic carbon stability and associated microbial activity in dominant soil orders of Indian subcontinent** (2024)
    6 citations · Biochar
 
-3. **Soil Health and Climate Change** (2024)
-   5 citations · General CDR
+3. **Exploring waste mica as an alternative potassium source using a novel potassium solubilizing bacterium and rice residue in K deficient Alfisol** (2024)
+   5 citations
 
-4. **Exploring waste mica as an alternative potassium source using a novel potassium solubilizing bacterium and rice residue in K deficient Alfisol** (2024)
-   4 citations
+4. **Soil Health and Climate Change** (2024)
+   5 citations · General CDR
 
 5. **Impact of Long-term Residue Management on Soil Aggregation and Carbon Accumulation Under Wheat-based Cropping Systems in a Typic Haplustept** (2025)
    3 citations · Soil Carbon
@@ -71,7 +71,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 7. **Impact of nutrient management practices on sulphur availability in soils under rice-wheat cropping system** (2026)
    0 citations
 
-8. **Long-term Impact of Crop Residue Management on Lability and Thermal Sensitivity of Soil Organic Carbon under Wheat Based Cropping Systems** (2025)
+8. **Carbon sequestration and mineralization kinetics under long-term rice–wheat system in a Himalayan Mollisol** (2026)
+   0 citations
+
+9. **Long-term Impact of Crop Residue Management on Lability and Thermal Sensitivity of Soil Organic Carbon under Wheat Based Cropping Systems** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

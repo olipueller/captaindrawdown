@@ -1,7 +1,7 @@
 ---
 title: "Indira Rathore"
 description: "Indira Rathore is a Mid-career Soil Carbon researcher at Jai Narain Vyas University in IN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.314207
+date: 2026-10-11T02:32:59.319812
 url: "/cdr-researcher-census/researchers/indira-rathore-a5031667/"
 layout: "researcher"
 hiddenInHomeList: true

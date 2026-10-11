@@ -1,7 +1,7 @@
 ---
 title: "Bayleigh E. Benner"
 description: "Bayleigh E. Benner is a Mid-career Ocean CDR researcher at Johnson & Wales University in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.832553
+date: 2026-10-11T02:32:59.858815
 url: "/cdr-researcher-census/researchers/bayleigh-e-benner-a5069663/"
 layout: "researcher"
 hiddenInHomeList: true

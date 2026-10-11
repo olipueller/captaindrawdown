@@ -1,7 +1,7 @@
 ---
 title: "Niall Mac Dowell"
 description: "Niall Mac Dowell is an Eminent General CDR researcher at Imperial College London in GB. With 228 publications and an h-index of 56, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.019044
+date: 2026-10-11T02:32:59.022218
 url: "/cdr-researcher-census/researchers/niall-mac-dowell-a5002701/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,34 +51,34 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Beyond 90% capture: Possible, but at what cost?** (2021)
-   201 citations · General CDR
+   205 citations · General CDR
 
 2. **The economics of bioenergy with carbon capture and storage (BECCS) deployment in a 1.5 °C or 2 °C world** (2021)
-   135 citations · BECCS
+   137 citations · BECCS
 
 3. **Geospatial analysis of regional climate impacts to accelerate cost-efficient direct air capture deployment** (2022)
-   116 citations
+   110 citations
 
 4. **A comparative analysis of the efficiency, timing, and permanence of CO<sub>2</sub> removal pathways** (2022)
-   96 citations · General CDR
+   101 citations · General CDR
 
 5. **Delaying carbon dioxide removal in the European Union puts climate targets at risk** (2021)
-   88 citations · BECCS
+   93 citations · BECCS
 
 6. **Delivering carbon negative electricity, heat and hydrogen with BECCS – Comparing the options** (2021)
-   59 citations · BECCS
+   56 citations · BECCS
 
 7. **Sustainable scale-up of negative emissions technologies and practices: where to focus** (2022)
-   54 citations · General CDR
+   55 citations · General CDR
 
 8. **Life cycle optimization of BECCS supply chains in the European Union** (2021)
-   47 citations · BECCS
+   46 citations · BECCS
 
 9. **The cost of permanent carbon dioxide removal** (2023)
-   41 citations · General CDR
+   44 citations · General CDR
 
 10. **Comparing approaches for carbon dioxide removal** (2022)
-   39 citations · General CDR
+   40 citations · General CDR
 
 ## External Profiles
 

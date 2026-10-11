@@ -1,7 +1,7 @@
 ---
 title: "Yulan Zhang"
 description: "Yulan Zhang is a Senior Soil Carbon researcher at Institute of Applied Ecology in CN. With 104 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.073059
+date: 2026-10-11T02:32:59.077834
 url: "/cdr-researcher-census/researchers/yulan-zhang-a5101580/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of biochar incorporation on soil viable and necromass carbon in the luvisol soil** (2021)
-   32 citations · Biochar
+   34 citations · Biochar
 
 2. **Stover and biochar can improve soil microbial necromass carbon, and enzymatic transformation at the genetic level** (2022)
-   29 citations · Biochar
+   31 citations · Biochar
 
 3. **The role of oxidases and hydrolases in enhancing carbon sequestration through soil management practices: A global meta-analysis across diverse ecosystems** (2025)
    11 citations · Soil Carbon
@@ -66,12 +66,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    4 citations · Soil Carbon
 
 6. **More labile carbon inputs lessen the positive effects of nitrogen enrichment on soil carbon storage in a temperate grassland** (2023)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
-7. **Effects of Combined Stover and Biochar Return on Soil Organic Matter and Microbial Characteristics** (2025)
+7. **Long‐Term Effects of Straw‐Biochar Application and Fertilization Gradients on Black Soil Carbon Sequestration via Prokaryote‐Fungus‐Protist Interactions and Metagenomic‐Metabolite Linkages** (2026)
    1 citations · Biochar
 
-8. **Long‐Term Effects of Straw‐Biochar Application and Fertilization Gradients on Black Soil Carbon Sequestration via Prokaryote‐Fungus‐Protist Interactions and Metagenomic‐Metabolite Linkages** (2026)
+8. **Effects of Combined Stover and Biochar Return on Soil Organic Matter and Microbial Characteristics** (2025)
+   1 citations · Biochar
+
+9. **Stover returning practices alter the functional diversity of genes associated with carbon conversion in Mollisol of Northeast China** (2026)
    0 citations · Biochar
 
 ## External Profiles

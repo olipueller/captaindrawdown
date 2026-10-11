@@ -1,7 +1,7 @@
 ---
 title: "Lanjia Pan"
 description: "Lanjia Pan is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 32 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.121711
+date: 2026-10-11T02:32:59.126360
 url: "/cdr-researcher-census/researchers/lanjia-pan-a5010121/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Unveiling the migration of Cr and Cd to biochar from pyrolysis of manure and sludge using machine learning** (2023)
-   28 citations · Biochar
+   29 citations · Biochar
 
 2. **Machine Learning-Aided Decision-Making of Waste to Bioenergy and Biochar for Carbon Neutrality** (2023)
    0 citations · BECCS

@@ -1,7 +1,7 @@
 ---
 title: "Muthu Bagavathiannan"
 description: "Muthu Bagavathiannan is a Mid-career Soil Carbon researcher at Texas A&M University in US. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.566232
+date: 2026-10-11T02:32:59.581919
 url: "/cdr-researcher-census/researchers/muthu-bagavathiannan-a5058963/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Cover crops in organic cotton influence greenhouse gas emissions and soil microclimate** (2024)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 ## External Profiles
 

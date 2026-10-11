@@ -1,7 +1,7 @@
 ---
 title: "Yuanjun Peng"
 description: "Yuanjun Peng is an Early-career Soil Carbon researcher at Shanghai Jiao Tong University in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.385796
+date: 2026-10-11T02:33:00.422726
 url: "/cdr-researcher-census/researchers/yuanjun-peng-a5101511/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Tracing the electron transfer behavior driven by hydrophyte-derived carbon materials empowered autotrophic denitrification in iron-based constructed wetlands: Efficacy and enhancement mechanism** (2025)
-   66 citations · Soil Carbon
+   71 citations · Soil Carbon
 
 ## External Profiles
 

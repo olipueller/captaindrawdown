@@ -1,7 +1,7 @@
 ---
 title: "Amresh Chaudhary"
 description: "Amresh Chaudhary is a Mid-career Soil Carbon researcher at Central Soil Salinity Research Institute in IN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.020401
+date: 2026-10-11T02:33:00.051684
 url: "/cdr-researcher-census/researchers/amresh-chaudhary-a5062328/"
 layout: "researcher"
 hiddenInHomeList: true

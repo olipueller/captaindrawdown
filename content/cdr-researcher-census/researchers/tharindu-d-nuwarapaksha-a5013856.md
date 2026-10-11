@@ -1,7 +1,7 @@
 ---
 title: "Tharindu D. Nuwarapaksha"
 description: "Tharindu D. Nuwarapaksha is a Mid-career Soil Carbon researcher at Coconut Research Institute in LK. With 60 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.392336
+date: 2026-10-11T02:32:59.400613
 url: "/cdr-researcher-census/researchers/tharindu-d-nuwarapaksha-a5013856/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Agroforestry—a key tool in the climate-smart agriculture context: a review on coconut cultivation in Sri Lanka** (2023)
-   73 citations · General CDR
+   74 citations · General CDR
 
 2. **Sustainable Utilization of King Coconut Husk as a Feedstock in Biochar Production with the Highest Conversion Efficiency and Desirable Properties** (2023)
    18 citations · Biochar
 
 3. **Integrating Organic Fertilizers in Coconut Farming: Best Practices and Application Techniques** (2025)
-   6 citations
+   9 citations
 
 4. **Agroforestry System: A Game Changer for Sustainable Land Use Practices** (2025)
-   4 citations · General CDR
+   6 citations · General CDR
 
 5. **Evaluation of the nutritional composition of king coconut husk waste biochar and ash soil conditioners: a comprehensive analysis** (2025)
    4 citations · Biochar

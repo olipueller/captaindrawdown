@@ -1,7 +1,7 @@
 ---
 title: "Zu Dienle Tan"
 description: "Zu Dienle Tan is a Mid-career Soil Carbon researcher at Nanyang Technological University in SG. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.013761
+date: 2026-10-11T02:33:00.044292
 url: "/cdr-researcher-census/researchers/zu-dienle-tan-a5010255/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Aboveground and soil carbon in novel forest ecosystems in Singapore: A case study of abandoned plantation secondary forests** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

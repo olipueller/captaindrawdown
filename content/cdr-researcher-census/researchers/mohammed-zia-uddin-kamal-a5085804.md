@@ -1,7 +1,7 @@
 ---
 title: "Mohammed Zia Uddin Kamal"
 description: "Mohammed Zia Uddin Kamal is a Senior Soil Carbon researcher at Bangladesh Agricultural Research Institute in BD. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.582462
+date: 2026-10-11T02:32:59.598726
 url: "/cdr-researcher-census/researchers/mohammed-zia-uddin-kamal-a5085804/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of Organic Amendments on Soil Aggregate Stability, Carbon Sequestration, and Energy Use Efficiency in Wetland Paddy Cultivation** (2022)
-   43 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 2. **Potential of legume-based cropping systems for climate change adaptation and mitigation** (2022)
    33 citations · General CDR
 
 3. **Carbon Sequestration and Climate Change Mitigation** (2024)
-   1 citations · General CDR
+   2 citations · General CDR
 
 ## External Profiles
 

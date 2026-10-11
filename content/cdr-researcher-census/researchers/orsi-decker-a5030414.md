@@ -1,7 +1,7 @@
 ---
 title: "Orsi Decker"
 description: "Orsi Decker is a Mid-career Soil Carbon researcher at Bavarian Forest National Park in DE. With 30 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.612157
+date: 2026-10-11T02:32:59.629527
 url: "/cdr-researcher-census/researchers/orsi-decker-a5030414/"
 layout: "researcher"
 hiddenInHomeList: true

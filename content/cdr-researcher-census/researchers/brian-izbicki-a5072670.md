@@ -1,7 +1,7 @@
 ---
 title: "Brian Izbicki"
 description: "Brian Izbicki is a Mid-career Soil Carbon researcher at Northern Arizona University in US. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.178031
+date: 2026-10-11T02:33:00.208009
 url: "/cdr-researcher-census/researchers/brian-izbicki-a5072670/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Roberto Calvelo Pereira"
 description: "Roberto Calvelo Pereira is a Senior Soil Carbon researcher at University of Concepción in CL. With 42 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.161416
+date: 2026-10-11T02:32:59.165755
 url: "/cdr-researcher-census/researchers/roberto-calvelo-pereira-a5042289/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    69 citations · Soil Carbon
 
 2. **<i>Caragana korshinskii</i> Kom. plantation reduced soil aggregate stability and aggregate-associated organic carbon on desert steppe** (2022)
-   11 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 3. **Spring pasture renewal involving full inversion tillage and a summer crop can facilitate soil C storage, improve crop yields and lower N leaching** (2022)
    11 citations · Soil Carbon

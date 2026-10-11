@@ -1,7 +1,7 @@
 ---
 title: "Weikun Sun"
 description: "Weikun Sun is a Senior Biochar researcher at Tianjin University of Technology and Education in CN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.121047
+date: 2026-10-11T02:33:00.151723
 url: "/cdr-researcher-census/researchers/weikun-sun-a5101059/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Ultra-high selective removal of Congo red and Ciprofloxacin using unusual LDO modified biochar: Influence of emerging pollutants and application attempts** (2024)
-   33 citations · Biochar
+   37 citations · Biochar
 
 ## External Profiles
 

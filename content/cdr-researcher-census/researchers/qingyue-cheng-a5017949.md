@@ -1,7 +1,7 @@
 ---
 title: "Qingyue Cheng"
 description: "Qingyue Cheng is a Mid-career Biochar researcher at Sichuan Agricultural University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.252887
+date: 2026-10-11T02:33:00.282626
 url: "/cdr-researcher-census/researchers/qingyue-cheng-a5017949/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Returning low C/N crop straw to the paddy field can achieve the dual benefits of reduced methane emissions and enhanced yield stability** (2025)
-   7 citations · Biochar
+   9 citations · Biochar
 
 ## External Profiles
 

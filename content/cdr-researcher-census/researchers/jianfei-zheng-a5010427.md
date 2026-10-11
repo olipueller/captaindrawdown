@@ -1,7 +1,7 @@
 ---
 title: "Jianfei Zheng"
 description: "Jianfei Zheng is a Mid-career DAC researcher. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.700942
+date: 2026-10-11T02:32:59.721074
 url: "/cdr-researcher-census/researchers/jianfei-zheng-a5010427/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,14 +42,14 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Top CDR Publications
 
-1. **Characterization of the carbonation reaction of potassium-based composite adsorbents for direct air capture of CO2** (2025)
+1. **Advances in solid adsorbent materials for direct air capture of CO&lt;sub&gt;2&lt;/sub&gt;** (2023)
+   12 citations · DAC
+
+2. **Characterization of the carbonation reaction of potassium-based composite adsorbents for direct air capture of CO2** (2025)
    11 citations
 
-2. **Advances in solid adsorbent materials for direct air capture of CO&lt;sub&gt;2&lt;/sub&gt;** (2023)
-   11 citations · DAC
-
 3. **Utilizing ZrO<sub>2</sub> as an Alkali Metal-Based Adsorbent Support to Lower Energy Consumption in Direct Air Capture** (2024)
-   1 citations
+   2 citations
 
 ## External Profiles
 

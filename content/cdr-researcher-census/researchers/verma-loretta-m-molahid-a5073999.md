@@ -1,7 +1,7 @@
 ---
 title: "Verma Loretta M. Molahid"
 description: "Verma Loretta M. Molahid is a Mid-career Enhanced Weathering researcher at Universiti Putra Malaysia in MY. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.805950
+date: 2026-10-11T02:32:59.831027
 url: "/cdr-researcher-census/researchers/verma-loretta-m-molahid-a5073999/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **CO2 Sequestration through Mineral Carbonation: Effect of Different Parameters on Carbonation of Fe-Rich Mine Waste Materials** (2022)
-   54 citations · Enhanced Weathering
+   55 citations · Enhanced Weathering
 
 ## External Profiles
 

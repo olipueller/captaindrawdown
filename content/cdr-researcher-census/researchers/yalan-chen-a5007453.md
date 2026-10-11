@@ -1,7 +1,7 @@
 ---
 title: "Yalan Chen"
 description: "Yalan Chen is a Senior Biochar researcher at Beijing Normal University in CN. With 76 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.125689
+date: 2026-10-11T02:32:59.130365
 url: "/cdr-researcher-census/researchers/yalan-chen-a5007453/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,31 +51,31 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar stability and impact on soil organic carbon mineralization depend on biochar processing, aging and soil clay content** (2022)
-   268 citations · Biochar
+   274 citations · Biochar
 
 2. **Effects of biochar on the accumulation of necromass-derived carbon, the physical protection and microbial mineralization of soil organic carbon** (2023)
-   125 citations · Biochar
+   129 citations · Biochar
 
 3. **Microbially Driven Iron Cycling Facilitates Organic Carbon Accrual in Decadal Biochar-Amended Soil** (2024)
-   79 citations · Biochar
+   82 citations · Biochar
 
 4. **Changes in soil properties and CO2 emissions after biochar addition: Role of pyrolysis temperature and aging** (2022)
-   74 citations · Biochar
+   78 citations · Biochar
 
 5. **Photodegradation of pyrogenic dissolved organic matter increases bioavailability: Novel insight into bioalteration, microbial community succession, and C and N dynamics** (2022)
    43 citations
 
 6. **Biochar as a green solution to drive the soil carbon pump** (2024)
-   26 citations · Biochar
+   29 citations · Biochar
 
 7. **Aggregate size mediates the stability and temperature sensitivity of soil organic carbon in response to decadal biochar and straw amendments** (2025)
-   18 citations · Biochar
+   20 citations · Biochar
 
 8. **Biochar and straw application reshape organic carbon pool via altering soil carbon pump function based on a decadal field experiment** (2025)
-   10 citations · Biochar
+   11 citations · Biochar
 
 9. **High-Dose Biochar Hinders Micro/Nanoplastic-Induced Soil Positive Priming by Reducing Substrate Quality and Microbial Activity** (2026)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 10. **The preferential preservation of both different minerals and polyethylene microplastics on aromatic or aliphatic carbon fractions within low or high pyrolysis temperature biochar under mineralization** (2022)
    8 citations · Biochar

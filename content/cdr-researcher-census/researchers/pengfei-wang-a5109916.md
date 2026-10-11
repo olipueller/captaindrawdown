@@ -1,7 +1,7 @@
 ---
 title: "Pengfei Wang"
 description: "Pengfei Wang is a Senior Soil Carbon researcher at Inner Mongolia Agricultural University in CN. With 20 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.200451
+date: 2026-10-11T02:33:00.230529
 url: "/cdr-researcher-census/researchers/pengfei-wang-a5109916/"
 layout: "researcher"
 hiddenInHomeList: true

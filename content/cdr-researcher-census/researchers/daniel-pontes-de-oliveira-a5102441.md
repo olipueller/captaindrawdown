@@ -1,7 +1,7 @@
 ---
 title: "Daniel Pontes de Oliveira"
 description: "Daniel Pontes de Oliveira is a Mid-career Enhanced Weathering researcher. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.311378
+date: 2026-10-11T02:33:00.342151
 url: "/cdr-researcher-census/researchers/daniel-pontes-de-oliveira-a5102441/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Usama"
 description: "Muhammad Usama is a Mid-career Biochar researcher at University of Sargodha in PK. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.968603
+date: 2026-10-11T02:32:59.999843
 url: "/cdr-researcher-census/researchers/muhammad-usama-a5101510/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Sustainable wastewater purification with crab shell-derived biochar: Advanced machine learning modeling &amp; experimental analysis** (2023)
-   32 citations · Biochar
+   34 citations · Biochar
 
 2. **Competitive adsorption of antibiotics on waste-derived hybrid biochar: Performance, mechanism, and life cycle assessment** (2025)
-   8 citations · Biochar
+   9 citations · Biochar
 
 ## External Profiles
 

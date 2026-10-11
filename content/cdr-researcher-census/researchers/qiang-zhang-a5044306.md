@@ -1,7 +1,7 @@
 ---
 title: "Qiang Zhang"
 description: "Qiang Zhang is an Early-career General CDR researcher at Henan Institute of Technology in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.376348
+date: 2026-10-11T02:33:00.411766
 url: "/cdr-researcher-census/researchers/qiang-zhang-a5044306/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Puskar Khanal"
 description: "Puskar Khanal is a Senior General CDR researcher at Clemson University in US. With 39 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.569296
+date: 2026-10-11T02:32:59.585064
 url: "/cdr-researcher-census/researchers/puskar-khanal-a5051349/"
 layout: "researcher"
 hiddenInHomeList: true

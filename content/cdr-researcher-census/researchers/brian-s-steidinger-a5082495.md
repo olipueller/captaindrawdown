@@ -1,7 +1,7 @@
 ---
 title: "Brian S. Steidinger"
 description: "Brian S. Steidinger is a Mid-career Enhanced Weathering researcher at University of Edinburgh in GB. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.223357
+date: 2026-10-11T02:32:59.226863
 url: "/cdr-researcher-census/researchers/brian-s-steidinger-a5082495/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 ## Top CDR Publications
 
-1. **Microbiome manipulation and enhanced weathering stimulate CO2 removal in reforestation** (2025)
+1. **Microbiome manipulation and enhanced weathering influence tree growth in reforestation** (2026)
    1 citations · Enhanced Weathering
 
-2. **Microbiome manipulation and enhanced weathering influence tree growth in reforestation** (2026)
-   0 citations · Enhanced Weathering
+2. **Microbiome manipulation and enhanced weathering stimulate CO2 removal in reforestation** (2025)
+   1 citations · Enhanced Weathering
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Jun Zhong"
 description: "Jun Zhong is a Senior Enhanced Weathering researcher at Tianjin University in CN. With 107 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.085639
+date: 2026-10-11T02:32:59.090570
 url: "/cdr-researcher-census/researchers/jun-zhong-a5017137/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Dynamics and fluxes of dissolved carbon under short-term climate variabilities in headwaters of the Changjiang River, draining the Qinghai-Tibet Plateau** (2021)
-   45 citations
+   43 citations
 
 2. **Escalating Carbon Export from High-Elevation Rivers in a Warming Climate** (2024)
-   41 citations · General CDR
+   42 citations · General CDR
 
 3. **Calcium isotopes tracing secondary mineral formation in the high-relief Yalong River Basin, Southeast Tibetan Plateau** (2022)
-   21 citations · Enhanced Weathering
+   24 citations · Enhanced Weathering
 
 4. **Carbon sequestration and decreased CO2 emission caused by biological carbon pump effect: Insights from diel hydrochemical variations in subtropical karst reservoirs** (2024)
    17 citations · Soil Carbon
 
 5. **A review of dissolved inorganic carbon isotopic fractionations in carbonate-bearing areas: Processes, models and applications** (2025)
-   13 citations
+   15 citations
 
 6. **Constraining sulfur cycling in the Eastern Tibetan Plateau: Evidence for cryptic sulfur cycling and implications for the weathering budget** (2025)
    12 citations · Enhanced Weathering

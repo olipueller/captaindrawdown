@@ -1,7 +1,7 @@
 ---
 title: "Chen-Ning Li"
 description: "Chen-Ning Li is a Mid-career General CDR researcher at Liaoning University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.854761
+date: 2026-10-11T02:32:59.881766
 url: "/cdr-researcher-census/researchers/chen-ning-li-a5008809/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Green Synthesis of MOF-801(Zr/Ce/Hf) for CO<sub>2</sub>/N<sub>2</sub> and CO<sub>2</sub>/CH<sub>4</sub> Separation** (2023)
-   67 citations · General CDR
+   68 citations · General CDR
 
 2. **Cation exchange strategy of ellagic acid-based microporous metal-organic framework for efficient CO2/N2 and CO2/CH4 separation** (2024)
-   15 citations · General CDR
+   16 citations · General CDR
 
 ## External Profiles
 

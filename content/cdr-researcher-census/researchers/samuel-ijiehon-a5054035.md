@@ -1,7 +1,7 @@
 ---
 title: "Samuel Ijiehon"
 description: "Samuel Ijiehon is an Early-career Enhanced Weathering researcher at University of Antwerp in BE. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.256789
+date: 2026-10-11T02:33:00.286866
 url: "/cdr-researcher-census/researchers/samuel-ijiehon-a5054035/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Enhanced Weathering Using Basalt Rock Powder: Carbon Sequestration, Co-benefits and Risks in a Mesocosm Study With Solanum tuberosum** (2022)
-   126 citations · Enhanced Weathering
+   128 citations · Enhanced Weathering
 
 ## External Profiles
 

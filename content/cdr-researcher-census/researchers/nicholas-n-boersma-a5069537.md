@@ -1,7 +1,7 @@
 ---
 title: "Nicholas N. Boersma"
 description: "Nicholas N. Boersma is a Senior BECCS researcher at Iowa State University in US. With 25 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.442569
+date: 2026-10-11T02:32:59.452788
 url: "/cdr-researcher-census/researchers/nicholas-n-boersma-a5069537/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Advances in Miscanthus × Giganteus Planting Techniques May Increase Carbon Uptake in the Establishment Year** (2024)
-   8 citations · BECCS
+   7 citations · BECCS
 
 2. **Next Generation Feedstocks for the Emerging Bioeconomy** (2023)
    0 citations · BECCS

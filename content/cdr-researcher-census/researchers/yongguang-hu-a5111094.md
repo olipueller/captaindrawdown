@@ -1,7 +1,7 @@
 ---
 title: "Yongguang Hu"
 description: "Yongguang Hu is a Mid-career Soil Carbon researcher at Jiangsu University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.101025
+date: 2026-10-11T02:33:00.131410
 url: "/cdr-researcher-census/researchers/yongguang-hu-a5111094/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Improving carbon flux estimation in tea plantation ecosystems: A machine learning ensemble approach** (2024)
-   33 citations · Soil Carbon
+   36 citations · Soil Carbon
 
 ## External Profiles
 

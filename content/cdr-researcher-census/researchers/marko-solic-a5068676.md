@@ -1,7 +1,7 @@
 ---
 title: "Marko Šolić"
 description: "Marko Šolić is a Mid-career Biochar researcher at University of Novi Sad in RS. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.665801
+date: 2026-10-11T02:32:59.685225
 url: "/cdr-researcher-census/researchers/marko-solic-a5068676/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Relevance of biochar metabolization—evidence from a long-term biochar field experiment** (2025)
-   7 citations · Biochar
+   8 citations · Biochar
 
 2. **Magnetic Carbon-based Nanocomposites for Arsenic Removal: Comparative Performance, Mechanistic Insights, and Continuous-Flow Validation** (2026)
    0 citations

@@ -1,7 +1,7 @@
 ---
 title: "Wanida Nobuntou"
 description: "Wanida Nobuntou is a Senior Soil Carbon researcher at VA Office of Research and Development in US. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.187038
+date: 2026-10-11T02:33:00.217224
 url: "/cdr-researcher-census/researchers/wanida-nobuntou-a5018617/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon Sequestration and Soil Fertility Management in Sandy and Clayey Soils Revealed by Over Four Decades of Long‐Term Field Experiments in Thailand** (2024)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 2. **Impacts of long‐term tillage and fertilization on soil carbon stock and aggregate stability in tropical agriculture** (2025)
    1 citations · Soil Carbon

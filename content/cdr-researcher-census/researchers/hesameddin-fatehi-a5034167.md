@@ -1,7 +1,7 @@
 ---
 title: "Hesameddin Fatehi"
 description: "Hesameddin Fatehi is a Senior BECCS researcher at Lund University in SE. With 49 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.258794
+date: 2026-10-11T02:32:59.262645
 url: "/cdr-researcher-census/researchers/hesameddin-fatehi-a5034167/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    5 citations · BECCS
 
 2. **Reducing Electricity Penalty of Carbon Capture by Waste Heat Valorization in an Industrial Pulp Mill** (2025)
-   1 citations · BECCS
+   2 citations · BECCS
 
 3. **Numerical Study of Integrated Biomass Pyrolysis and Co2 Reforming for Carbon Sequestration and Syngas Production** (2025)
    0 citations · BECCS

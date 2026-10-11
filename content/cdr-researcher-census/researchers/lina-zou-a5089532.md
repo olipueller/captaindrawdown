@@ -1,7 +1,7 @@
 ---
 title: "Lina Zou"
 description: "Lina Zou is a Mid-career Biochar researcher at ZheJiang Academy of Agricultural Sciences in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.333682
+date: 2026-10-11T02:33:00.367708
 url: "/cdr-researcher-census/researchers/lina-zou-a5089532/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Research Advances in the Impacts of Biochar on the Physicochemical Properties and Microbial Communities of Saline Soils** (2023)
-   30 citations · Biochar
+   29 citations · Biochar
 
 ## External Profiles
 

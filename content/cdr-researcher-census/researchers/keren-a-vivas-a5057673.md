@@ -1,7 +1,7 @@
 ---
 title: "Keren A. Vivas"
 description: "Keren A. Vivas is a Mid-career BECCS researcher at North Carolina State University in US. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.631605
+date: 2026-10-11T02:32:59.650179
 url: "/cdr-researcher-census/researchers/keren-a-vivas-a5057673/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Evaluating biomass sustainability: Why below-ground carbon sequestration matters** (2024)
-   55 citations · BECCS
+   58 citations · BECCS
 
 2. **Life cycle assessment of Brazilian bleached eucalyptus kraft pulp: Integrating bleaching processes and biogenic carbon impacts** (2024)
-   5 citations · General CDR
+   6 citations · General CDR
 
 ## External Profiles
 

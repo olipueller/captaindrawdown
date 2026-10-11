@@ -1,7 +1,7 @@
 ---
 title: "Yuanfei Wang"
 description: "Yuanfei Wang is a Senior Biochar researcher at Qingdao University in CN. With 155 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.070839
+date: 2026-10-11T02:32:59.075454
 url: "/cdr-researcher-census/researchers/yuanfei-wang-a5101455/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    17 citations
 
 3. **Effect of waste leather dander biochar on soil organic carbon sequestration** (2024)
-   15 citations · Biochar
+   16 citations · Biochar
 
 4. **Study on the synergistic carbon sequestration mechanism of Firmicutes in soil induced by highly conjugated Fe2O3@leather scraps-derived collagen-based biochar** (2025)
    5 citations · Biochar
@@ -71,13 +71,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 7. **Fe-Mn modified biochar achieves Cu and Pb stabilization and soil carbon sequestration by breaking the electronic supply restrictions of the material** (2025)
    1 citations · Biochar
 
-8. **Preparation of Mn Modified Waste Dander Biochar and its Effect on Soil Carbon Sequestration** (2023)
-   0 citations
-
-9. **Effects of Temperature on Properties of Waste Leather Dander Biochar and its Effect on Soil Organic Carbon Sequestration** (2023)
+8. **Shoot two birds with one stone: chemical and biological mechanisms of calcium-phosphorus modification for enhancing carbon sequestration and heavy metal stabilization of biochar** (2026)
    0 citations · Biochar
 
-10. **Preparation of Mn Modified Waste Dander Biochar and its Effect on Soil Carbon Sequestration** (2023)
+9. **Preparation of Mn Modified Waste Dander Biochar and its Effect on Soil Carbon Sequestration** (2023)
+   0 citations
+
+10. **Effects of Temperature on Properties of Waste Leather Dander Biochar and its Effect on Soil Organic Carbon Sequestration** (2023)
    0 citations · Biochar
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Martin Wiesmeier"
 description: "Martin Wiesmeier is an Eminent Soil Carbon researcher at Technical University of Munich in DE. With 180 publications and an h-index of 48, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.026499
+date: 2026-10-11T02:32:59.029380
 url: "/cdr-researcher-census/researchers/martin-wiesmeier-a5059745/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,34 +51,34 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon farming: Are soil carbon certificates a suitable tool for climate change mitigation?** (2023)
-   203 citations · General CDR
+   208 citations · General CDR
 
 2. **Soil organic carbon sequestration in temperate agroforestry systems – A meta-analysis** (2021)
-   184 citations · Soil Carbon
+   182 citations · Soil Carbon
 
 3. **Reduced tillage in organic farming affects soil organic carbon stocks in temperate Europe** (2021)
-   133 citations · Soil Carbon
+   134 citations · Soil Carbon
 
 4. **The potential of cover crops to increase soil organic carbon storage in German croplands** (2022)
-   106 citations · Soil Carbon
+   109 citations · Soil Carbon
 
 5. **Soil carbon sequestration by agroforestry systems in China: A meta-analysis** (2021)
    88 citations · General CDR
 
 6. **Soil organic carbon sequestration in agricultural long-term field experiments as derived from particulate and mineral-associated organic matter** (2023)
-   79 citations · Soil Carbon
+   83 citations · Soil Carbon
 
 7. **Pruning residues incorporation and reduced tillage improve soil organic matter stabilization and structure of salt-affected soils in a semi-arid Citrus tree orchard** (2021)
-   58 citations · Soil Carbon
+   60 citations · Soil Carbon
 
 8. **Effects of slag and biochar amendments on microorganisms and fractions of soil organic carbon during flooding in a paddy field after two years in southeastern China** (2022)
    46 citations · Biochar
 
-9. **Association of fresh low-molecular-weight organic compounds with clay-sized mineral fraction in soils of different organic carbon loading** (2021)
-   32 citations
+9. **Effects of addition of nitrogen-enriched biochar on bacteria and fungi community structure and C, N, P, and Fe stoichiometry in subtropical paddy soils** (2021)
+   33 citations · Biochar
 
-10. **Effects of addition of nitrogen-enriched biochar on bacteria and fungi community structure and C, N, P, and Fe stoichiometry in subtropical paddy soils** (2021)
-   32 citations · Biochar
+10. **Association of fresh low-molecular-weight organic compounds with clay-sized mineral fraction in soils of different organic carbon loading** (2021)
+   31 citations
 
 ## External Profiles
 

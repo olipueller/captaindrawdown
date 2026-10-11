@@ -1,7 +1,7 @@
 ---
 title: "Miguel A. López"
 description: "Miguel A. López is a Senior Soil Carbon researcher at National University of Misiones in AR. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.271033
+date: 2026-10-11T02:32:59.275164
 url: "/cdr-researcher-census/researchers/miguel-a-lopez-a5102014/"
 layout: "researcher"
 hiddenInHomeList: true

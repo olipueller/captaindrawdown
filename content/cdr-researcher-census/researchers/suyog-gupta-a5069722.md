@@ -1,7 +1,7 @@
 ---
 title: "Suyog Gupta"
 description: "Suyog Gupta is a Mid-career BECCS researcher at Indian Institute of Technology Dhanbad in IN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.788305
+date: 2026-10-11T02:32:59.812174
 url: "/cdr-researcher-census/researchers/suyog-gupta-a5069722/"
 layout: "researcher"
 hiddenInHomeList: true

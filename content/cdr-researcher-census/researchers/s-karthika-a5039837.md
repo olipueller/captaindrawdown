@@ -1,7 +1,7 @@
 ---
 title: "S. Karthika"
 description: "S. Karthika is a Senior Soil Carbon researcher at Anna University, Chennai in IN. With 72 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.466478
+date: 2026-10-11T02:32:59.477849
 url: "/cdr-researcher-census/researchers/s-karthika-a5039837/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Enhancing Soil Organic Carbon Sequestration in Agriculture: Plans and Policies** (2022)
-   9 citations · General CDR
+   10 citations · General CDR
 
 2. **Impact of Rubber Cultivation on Soil Quality and Carbon Stocks in Southern Peninsular India** (2025)
    5 citations · Soil Carbon
@@ -59,19 +59,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **LSTM-based Prediction of EV Charging Behavior Using Deep Learning** (2025)
    1 citations · General CDR
 
-4. **Application of remote sensing in terrestrial soil organic carbon determination: a review** (2024)
+4. **Quantification and mapping of the carbon sequestration potential of soils via a quantile regression forest model** (2024)
+   1 citations · General CDR
+
+5. **Application of remote sensing in terrestrial soil organic carbon determination: a review** (2024)
    1 citations · Soil Carbon
 
-5. **Carbon Sequestration Potential of Natural Sandalwood Forest in Southern Western Ghats, India** (2023)
+6. **Carbon Sequestration Potential of Natural Sandalwood Forest in Southern Western Ghats, India** (2023)
    1 citations · Soil Carbon
 
-6. **Soil taxonomical classification and organic carbon sequestration potential of coastal acid sulfate soils: Kari and Kayal ecosystems of Kerala, India** (2024)
+7. **Soil taxonomical classification and organic carbon sequestration potential of coastal acid sulfate soils: Kari and Kayal ecosystems of Kerala, India** (2024)
    0 citations · Soil Carbon
 
-7. **Assessing Soil Quality and Carbon Sequestration Potential in Western Ghats Forests, Karnataka, India: Implications for Sustainable Forest Management** (2023)
+8. **Assessing Soil Quality and Carbon Sequestration Potential in Western Ghats Forests, Karnataka, India: Implications for Sustainable Forest Management** (2023)
    0 citations · Soil Carbon
 
-8. **Assessment of soil organic carbon stocks in Sahyadri mountain range Karnataka, India** (2023)
+9. **Assessment of soil organic carbon stocks in Sahyadri mountain range Karnataka, India** (2023)
    0 citations · Soil Carbon
 
 ## External Profiles

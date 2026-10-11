@@ -1,7 +1,7 @@
 ---
 title: "Linus Onwuemezie"
 description: "Linus Onwuemezie is a Mid-career DAC researcher at University of Staffordshire in GB. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.998769
+date: 2026-10-11T02:33:00.029782
 url: "/cdr-researcher-census/researchers/linus-onwuemezie-a5031862/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Overview and prospects of low-emissions hydrogen (<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si0062.svg"><mml:msub><mml:mrow><mml:mi>H</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:math>) energy systems: Roadmap for a sustainable <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si0063.svg"><mml:msub><mml:mrow><mml:mi>H</mml:mi></mml:mrow><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:math> economy** (2024)
-   6 citations · DAC
+   7 citations · DAC
 
 ## External Profiles
 

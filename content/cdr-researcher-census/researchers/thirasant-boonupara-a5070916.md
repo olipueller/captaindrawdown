@@ -1,7 +1,7 @@
 ---
 title: "Thirasant Boonupara"
 description: "Thirasant Boonupara is a Mid-career Biochar researcher at Chiang Mai University in TH. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.735576
+date: 2026-10-11T02:32:59.757471
 url: "/cdr-researcher-census/researchers/thirasant-boonupara-a5070916/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhancing soil health, microbial count, and hydrophilic methomyl and hydrophobic lambda-cyhalothrin remediation with biochar and nano-biochar** (2024)
-   24 citations · Biochar
+   29 citations · Biochar
 
 2. **Innovative approaches: Exploring nano-biochar technology’s impact on soil properties, alachlor retention, and microbial populations** (2024)
-   18 citations · Biochar
+   19 citations · Biochar
 
 3. **A Critical Review of Regenerative Soil Management: A Novel Scoring System for <scp>SOC</scp> and <scp>GHG</scp> Emissions in Southeast Asia** (2025)
    5 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Chia-Chen Yeh"
 description: "Chia-Chen Yeh is a Mid-career BECCS researcher at National Sun Yat-sen University in TW. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.677609
+date: 2026-10-11T02:32:59.697178
 url: "/cdr-researcher-census/researchers/chia-chen-yeh-a5108846/"
 layout: "researcher"
 hiddenInHomeList: true

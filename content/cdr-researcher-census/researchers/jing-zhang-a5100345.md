@@ -1,7 +1,7 @@
 ---
 title: "Jing Zhang"
 description: "Jing Zhang is a Mid-career Biochar researcher at Wuhan Polytechnic University in CN. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.305410
+date: 2026-10-11T02:32:59.310557
 url: "/cdr-researcher-census/researchers/jing-zhang-a5100345/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Efficacy of nitrate and biochar@birnessite composite microspheres for simultaneous suppression of As(III) mobilization and greenhouse gas emissions in flooded paddy soils** (2025)
-   57 citations · Biochar
+   58 citations · Biochar
 
 ## External Profiles
 

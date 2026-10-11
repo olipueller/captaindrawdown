@@ -1,7 +1,7 @@
 ---
 title: "Cecilia Sundberg"
 description: "Cecilia Sundberg is an Eminent Biochar researcher at Swedish University of Agricultural Sciences in SE. With 152 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.051415
+date: 2026-10-11T02:32:59.055395
 url: "/cdr-researcher-census/researchers/cecilia-sundberg-a5031213/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,34 +51,34 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar produced from wood waste for soil remediation in Sweden: Carbon sequestration and other environmental impacts** (2021)
-   104 citations · Biochar
+   103 citations · Biochar
 
 2. **Modelling biochar long-term carbon storage in soil with harmonized analysis of decomposition data** (2023)
-   89 citations · Biochar
+   97 citations · Biochar
 
-3. **Life cycle assessment of urban uses of biochar and case study in Uppsala, Sweden** (2022)
+3. **Potential for biochar carbon sequestration from crop residues: A global spatially explicit assessment** (2023)
    56 citations · Biochar
 
-4. **Potential for biochar carbon sequestration from crop residues: A global spatially explicit assessment** (2023)
+4. **Life cycle assessment of urban uses of biochar and case study in Uppsala, Sweden** (2022)
    54 citations · Biochar
 
 5. **Assessing the diverse environmental effects of biochar systems: An evaluation framework** (2021)
    44 citations · Biochar
 
 6. **BECCS with combined heat and power: Assessing the energy penalty** (2021)
-   28 citations · BECCS
+   29 citations · BECCS
 
-7. **BECCS with combined heat and power: assessing the energy penalty** (2021)
-   23 citations
+7. **Soils, sinks, and smallholder farmers: Examining the benefits of biochar energy transitions in Kenya** (2021)
+   24 citations · Biochar
 
-8. **Soils, sinks, and smallholder farmers: Examining the benefits of biochar energy transitions in Kenya** (2021)
-   21 citations · Biochar
+8. **Climate impact of bioenergy with or without carbon dioxide removal: influence of functional unit and parameter variability** (2023)
+   23 citations · BECCS
 
-9. **Climate impact of bioenergy with or without carbon dioxide removal: influence of functional unit and parameter variability** (2023)
-   19 citations · BECCS
+9. **BECCS with combined heat and power: assessing the energy penalty** (2021)
+   22 citations
 
 10. **A spatial framework for prioritizing biochar application to arable land: A case study for Sweden** (2022)
-   16 citations
+   17 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Rustam Singh"
 description: "Rustam Singh is a Mid-career Biochar researcher at Haramaya University in ET. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.372404
+date: 2026-10-11T02:32:59.379717
 url: "/cdr-researcher-census/researchers/rustam-singh-a5069880/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Silica Gel Supported Solid Amine Sorbents for <scp>CO<sub>2</sub></scp> Capture** (2024)
-   40 citations
+   44 citations
 
 2. **Continuous pyrolysis of rice husk for sustainable biochar production and carbon sequestration: Recent advances and techno-economic perspectives** (2025)
-   10 citations · Biochar
+   12 citations · Biochar
 
 3. **Silica Gel Supported Solid Amine Sorbent for CO2 Capture** (2024)
    2 citations

@@ -1,7 +1,7 @@
 ---
 title: "Jia Xiong"
 description: "Jia Xiong is a Mid-career Soil Carbon researcher at Minzu University of China in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.196647
+date: 2026-10-11T02:33:00.226778
 url: "/cdr-researcher-census/researchers/jia-xiong-a5110628/"
 layout: "researcher"
 hiddenInHomeList: true

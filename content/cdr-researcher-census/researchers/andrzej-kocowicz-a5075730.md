@@ -1,7 +1,7 @@
 ---
 title: "Andrzej Kocowicz"
 description: "Andrzej Kocowicz is a Senior Soil Carbon researcher at Wrocław University of Environmental and Life Sciences in PL. With 44 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.299653
+date: 2026-10-11T02:32:59.304743
 url: "/cdr-researcher-census/researchers/andrzej-kocowicz-a5075730/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Properties of humin isolated from Polish arable soils: The most recalcitrant fraction of soil organic matter that prevent soil degradation** (2024)
-   9 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 2. **Changes in Soil Humin Macromolecular Structure Resulting from Long-Term Catch Cropping** (2024)
    6 citations · Soil Carbon

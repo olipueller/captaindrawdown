@@ -1,7 +1,7 @@
 ---
 title: "Harish Kumar Rajendran"
 description: "Harish Kumar Rajendran is a Mid-career Biochar researcher at Indian Institute of Technology Guwahati in IN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.582799
+date: 2026-10-11T02:32:59.599088
 url: "/cdr-researcher-census/researchers/harish-kumar-rajendran-a5049070/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar and activated carbon derivatives of lignocellulosic fibers towards adsorptive removal of pollutants from aqueous systems: Critical study and future insight** (2021)
-   100 citations · Biochar
+   101 citations · Biochar
 
 ## External Profiles
 

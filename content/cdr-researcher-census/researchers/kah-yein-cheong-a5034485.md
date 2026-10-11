@@ -1,7 +1,7 @@
 ---
 title: "Kah Yein Cheong"
 description: "Kah Yein Cheong is a Mid-career Biochar researcher. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.714787
+date: 2026-10-11T02:32:59.735820
 url: "/cdr-researcher-census/researchers/kah-yein-cheong-a5034485/"
 layout: "researcher"
 hiddenInHomeList: true

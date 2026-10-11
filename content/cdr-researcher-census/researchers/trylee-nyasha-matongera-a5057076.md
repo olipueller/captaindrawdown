@@ -1,7 +1,7 @@
 ---
 title: "Trylee Nyasha Matongera"
 description: "Trylee Nyasha Matongera is a Mid-career Soil Carbon researcher at University of Nottingham Malaysia Campus in MY. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.541872
+date: 2026-10-11T02:32:59.556824
 url: "/cdr-researcher-census/researchers/trylee-nyasha-matongera-a5057076/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Remote sensing of depth-induced variations in soil organic carbon stocks distribution within different vegetated landscapes** (2024)
-   18 citations · General CDR
+   19 citations · General CDR
 
 2. **Mapping sub-surface distribution of soil organic carbon stocks in South Africa's arid and semi-arid landscapes: Implications for land management and climate change mitigation** (2024)
    12 citations · General CDR

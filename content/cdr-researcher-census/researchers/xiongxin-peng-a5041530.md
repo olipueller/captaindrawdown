@@ -1,7 +1,7 @@
 ---
 title: "Xiong‐Xin Peng"
 description: "Xiong‐Xin Peng is a Mid-career Soil Carbon researcher at Northeast Agricultural University in CN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.691389
+date: 2026-10-11T02:32:59.711976
 url: "/cdr-researcher-census/researchers/xiongxin-peng-a5041530/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of artificial humic acid on decomposition of returning straw and enhancement of carbon sequestration** (2024)
-   15 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 2. **Hydrothermal humification products with key roles in promoting straw degradation and soil carbon storage** (2026)
    0 citations · Soil Carbon

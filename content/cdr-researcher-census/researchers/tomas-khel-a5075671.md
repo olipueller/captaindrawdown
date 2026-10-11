@@ -1,7 +1,7 @@
 ---
 title: "Tomáš Khel"
 description: "Tomáš Khel is a Senior Soil Carbon researcher at Jan Evangelista Purkyně University in Ústí nad Labem in CZ. With 32 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.764893
+date: 2026-10-11T02:32:59.787997
 url: "/cdr-researcher-census/researchers/tomas-khel-a5075671/"
 layout: "researcher"
 hiddenInHomeList: true

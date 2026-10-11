@@ -1,7 +1,7 @@
 ---
 title: "Alison E. King"
 description: "Alison E. King is a Mid-career Soil Carbon researcher at University of Maine in US. With 24 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.223918
+date: 2026-10-11T02:32:59.227351
 url: "/cdr-researcher-census/researchers/alison-e-king-a5088432/"
 layout: "researcher"
 hiddenInHomeList: true

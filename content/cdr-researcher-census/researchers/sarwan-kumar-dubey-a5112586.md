@@ -1,7 +1,7 @@
 ---
 title: "Sarwan Kumar Dubey"
 description: "Sarwan Kumar Dubey is a Mid-career Soil Carbon researcher at Central Soil Salinity Research Institute in IN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.210146
+date: 2026-10-11T02:33:00.239685
 url: "/cdr-researcher-census/researchers/sarwan-kumar-dubey-a5112586/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · Soil Carbon
 
 2. **Impact of fertilization and tillage practices on transformations of carbon, essential plant nutrients and microbial biota composition in soils: a review** (2023)
-   7 citations · General CDR
+   8 citations · General CDR
 
 ## External Profiles
 

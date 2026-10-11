@@ -1,7 +1,7 @@
 ---
 title: "Liu Yang"
 description: "Liu Yang is a Senior Biochar researcher at Hohai University in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.271300
+date: 2026-10-11T02:33:00.301204
 url: "/cdr-researcher-census/researchers/liu-yang-a5101773/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Swaroop Atnoorkar"
 description: "Swaroop Atnoorkar is a Mid-career BECCS researcher at National Laboratory of the Rockies in US. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.378929
+date: 2026-10-11T02:33:00.414764
 url: "/cdr-researcher-census/researchers/swaroop-atnoorkar-a5047382/"
 layout: "researcher"
 hiddenInHomeList: true

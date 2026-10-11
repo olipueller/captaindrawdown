@@ -1,7 +1,7 @@
 ---
 title: "Degefie Tibebe"
 description: "Degefie Tibebe is a Mid-career Soil Carbon researcher at International Trachoma Initiative in ET. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.215754
+date: 2026-10-11T02:33:00.245770
 url: "/cdr-researcher-census/researchers/degefie-tibebe-a5079503/"
 layout: "researcher"
 hiddenInHomeList: true

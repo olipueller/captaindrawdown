@@ -1,7 +1,7 @@
 ---
 title: "Sahag Voskian"
 description: "Sahag Voskian is a Mid-career DAC researcher. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.300821
+date: 2026-10-11T02:32:59.305994
 url: "/cdr-researcher-census/researchers/sahag-voskian-a5005081/"
 layout: "researcher"
 hiddenInHomeList: true

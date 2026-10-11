@@ -1,7 +1,7 @@
 ---
 title: "Jiafu Qin"
 description: "Jiafu Qin is a Mid-career Biochar researcher at South China University of Technology in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.873236
+date: 2026-10-11T02:32:59.900424
 url: "/cdr-researcher-census/researchers/jiafu-qin-a5003677/"
 layout: "researcher"
 hiddenInHomeList: true

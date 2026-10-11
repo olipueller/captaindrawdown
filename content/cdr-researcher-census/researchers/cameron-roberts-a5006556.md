@@ -1,7 +1,7 @@
 ---
 title: "Cameron Roberts"
 description: "Cameron Roberts is a Mid-career General CDR researcher at University of Wisconsin–Madison in US. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.157798
+date: 2026-10-11T02:32:59.162272
 url: "/cdr-researcher-census/researchers/cameron-roberts-a5006556/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Climate policy for a net-zero future: ten recommendations for Direct Air Capture** (2022)
-   77 citations · DAC
+   74 citations · DAC
 
 2. **Near-term deployment of novel carbon removal to facilitate longer-term deployment** (2023)
-   47 citations · General CDR
+   46 citations · General CDR
 
 3. **Lessons for scaling direct air capture from the history of ammonia synthesis** (2024)
    8 citations · DAC

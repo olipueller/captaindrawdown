@@ -1,7 +1,7 @@
 ---
 title: "Wenliang Wei"
 description: "Wenliang Wei is a Mid-career Soil Carbon researcher at Qingdao Agricultural University in CN. With 25 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.294290
+date: 2026-10-11T02:32:59.298768
 url: "/cdr-researcher-census/researchers/wenliang-wei-a5045402/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jingtao Liu"
 description: "Jingtao Liu is a Mid-career Soil Carbon researcher at Shandong University of Aeronautics in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.007122
+date: 2026-10-11T02:33:00.038259
 url: "/cdr-researcher-census/researchers/jingtao-liu-a5100752/"
 layout: "researcher"
 hiddenInHomeList: true

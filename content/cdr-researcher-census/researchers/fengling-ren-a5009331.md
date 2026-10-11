@@ -1,7 +1,7 @@
 ---
 title: "Fengling Ren"
 description: "Fengling Ren is a Mid-career Soil Carbon researcher at Ministry of Ecology and Environment in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.468745
+date: 2026-10-11T02:32:59.480101
 url: "/cdr-researcher-census/researchers/fengling-ren-a5009331/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Patterns and driving factors of soil organic carbon sequestration efficiency under various manure regimes across Chinese croplands** (2023)
-   42 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 2. **Manure application decreases soil organic carbon priming by increasing mineral protection and nitrogen availability** (2023)
-   16 citations
+   19 citations
 
 3. **The Inorganic Carbon Fixation Improved by Long-Term Manure Fertilization in Kastanozems under Rotation System of North China** (2023)
    5 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Yiwei Zhu"
 description: "Yiwei Zhu is a Mid-career Soil Carbon researcher at Central South University of Forestry and Technology in CN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.311901
+date: 2026-10-11T02:33:00.342703
 url: "/cdr-researcher-census/researchers/yiwei-zhu-a5065489/"
 layout: "researcher"
 hiddenInHomeList: true

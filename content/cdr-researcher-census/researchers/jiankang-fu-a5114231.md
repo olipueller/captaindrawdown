@@ -1,7 +1,7 @@
 ---
 title: "Jiankang Fu"
 description: "Jiankang Fu is an Early-career Soil Carbon researcher at Northwest A&F University in CN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.357090
+date: 2026-10-11T02:33:00.392029
 url: "/cdr-researcher-census/researchers/jiankang-fu-a5114231/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Black biodegradable mulching increases grain yield and net return while decreasing carbon footprint in rain-fed conditions of the Loess Plateau** (2024)
-   104 citations · Soil Carbon
+   108 citations · Soil Carbon
 
 2. **Effect of plastic mulching on soil organic carbon chemical stability: Insights from soil organic carbon chemical fractions and structure** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

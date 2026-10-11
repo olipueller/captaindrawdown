@@ -1,7 +1,7 @@
 ---
 title: "Lorenzo Corsini"
 description: "Lorenzo Corsini is a Senior Ocean CDR researcher at BioNTech R&D (Austria) GmbH in AT. With 45 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.179757
+date: 2026-10-11T02:32:59.183760
 url: "/cdr-researcher-census/researchers/lorenzo-corsini-a5076707/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Electrolytic Seawater Mineralization and the Mass Balances That Demonstrate Carbon Dioxide Removal** (2023)
-   72 citations · Ocean CDR
+   79 citations · Ocean CDR
 
 2. **Electrolytic seawater mineralization and how it ensures (net) carbon dioxide removal** (2023)
    2 citations · Ocean CDR
@@ -59,7 +59,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 3. **Seawater Enables High-Quality Carbon Removal** (2024)
    1 citations · General CDR
 
-4. **Net carbon dioxide removal via electrolytic seawater mineralization** (2023)
+4. **Seawater Electrolysis Enables Multipathway Climate Change Mitigation through Atmospheric Carbon Dioxide Removal, Renewable Hydrogen Production, and Cement and Concrete Decarbonization** (2026)
+   0 citations · General CDR
+
+5. **Net carbon dioxide removal via electrolytic seawater mineralization** (2023)
    0 citations · Ocean CDR
 
 ## External Profiles

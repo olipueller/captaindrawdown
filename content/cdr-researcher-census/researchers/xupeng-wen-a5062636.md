@@ -1,7 +1,7 @@
 ---
 title: "Xupeng Wen"
 description: "Xupeng Wen is a Mid-career General CDR researcher at Sun Yat-sen University in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.693823
+date: 2026-10-11T02:32:59.714355
 url: "/cdr-researcher-census/researchers/xupeng-wen-a5062636/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Extracorporeal Carbon Dioxide Removal Combined With Inhaled Nitric Oxide for Hypercapnic Acute Respiratory Distress Syndrome With Active Airway Hemorrhage: A Case Report** (2026)
-   0 citations · General CDR
+   1 citations · General CDR
 
 ## External Profiles
 

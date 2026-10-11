@@ -1,7 +1,7 @@
 ---
 title: "Allison Rick VandeVoort"
 description: "Allison Rick VandeVoort is a Mid-career Soil Carbon researcher at Georgia College & State University in US. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.780929
+date: 2026-10-11T02:32:59.804213
 url: "/cdr-researcher-census/researchers/allison-rick-vandevoort-a5025040/"
 layout: "researcher"
 hiddenInHomeList: true

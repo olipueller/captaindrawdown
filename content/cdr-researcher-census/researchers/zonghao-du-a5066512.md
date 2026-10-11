@@ -1,7 +1,7 @@
 ---
 title: "Zonghao Du"
 description: "Zonghao Du is a Mid-career Soil Carbon researcher at Xi'an University of Science and Technology in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.970627
+date: 2026-10-11T02:33:00.002045
 url: "/cdr-researcher-census/researchers/zonghao-du-a5066512/"
 layout: "researcher"
 hiddenInHomeList: true

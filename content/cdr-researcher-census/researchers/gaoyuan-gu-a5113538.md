@@ -1,7 +1,7 @@
 ---
 title: "Gaoyuan Gu"
 description: "Gaoyuan Gu is a Senior Biochar researcher at Bohai University in CN. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.342788
+date: 2026-10-11T02:33:00.377625
 url: "/cdr-researcher-census/researchers/gaoyuan-gu-a5113538/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 5 |
 | Citations | 109 |
 | Publications | 22 |
-| CDR Focus | 9.1% |
+| CDR Focus | 18.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,6 +54,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    3 citations · Biochar
 
 3. **Shoot two birds with one stone: chemical and biological mechanisms of calcium-phosphorus modification for enhancing carbon sequestration and heavy metal stabilization of biochar** (2026)
+   0 citations · Biochar
+
+4. **“Two birds with one stone” removal of ciprofloxacin and hexavalent chromium co-contaminants is achieved through the defect confinement growth and interface electron transfer strategy** (2026)
    0 citations · Biochar
 
 ## External Profiles

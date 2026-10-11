@@ -1,7 +1,7 @@
 ---
 title: "Kannan Nadarajah"
 description: "Kannan Nadarajah is a Mid-career Biochar researcher at University of Jaffna in LK. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.106250
+date: 2026-10-11T02:32:59.110895
 url: "/cdr-researcher-census/researchers/kannan-nadarajah-a5027147/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    24 citations · Biochar
 
 2. **Insights into Mechanisms of Novel Engineered Biochar Derived from Neem Chips via Iron Catalyst for the Removal of Methyl Orange from Aqueous Phase ** (2023)
-   7 citations · Biochar
+   8 citations · Biochar
 
 3. **Understanding the Mechanism of Emerging Contaminant Removal by Novel Neem Chip Biochar** (2021)
    0 citations · Biochar

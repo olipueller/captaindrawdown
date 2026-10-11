@@ -1,7 +1,7 @@
 ---
 title: "Hongling Qin"
 description: "Hongling Qin is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 57 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.224643
+date: 2026-10-11T02:32:59.228029
 url: "/cdr-researcher-census/researchers/hongling-qin-a5102879/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Differential contribution of microbial and plant-derived organic matter to soil organic carbon sequestration over two decades of natural revegetation and cropping** (2024)
-   17 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 2. **Low soil carbon saturation deficit limits the abundance of cbbL-carrying bacteria under long-term no-tillage maize cultivation in northern China** (2022)
    13 citations · Soil Carbon
 
 3. **Fungal-driven carbon sequestration within soil aggregates under paddy multicropping** (2026)
    0 citations · Soil Carbon
+
+4. **Characteristics of soil aggregate organic carbon accumulation and its influencing mechanism in double cropping paddy fields in southern China** (2025)
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Heather Shupe"
 description: "Heather Shupe is a Mid-career Soil Carbon researcher at Universität Hamburg in DE. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.195731
+date: 2026-10-11T02:33:00.225751
 url: "/cdr-researcher-census/researchers/heather-shupe-a5002178/"
 layout: "researcher"
 hiddenInHomeList: true

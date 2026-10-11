@@ -1,7 +1,7 @@
 ---
 title: "Lucas Vimpere"
 description: "Lucas Vimpere is a Mid-career Enhanced Weathering researcher at University of Geneva in CH. With 27 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.362617
+date: 2026-10-11T02:33:00.398391
 url: "/cdr-researcher-census/researchers/lucas-vimpere-a5036935/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Vanessa Rondón Berrio"
 description: "Vanessa Rondón Berrio is a Mid-career BECCS researcher at North Carolina State University in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.245202
+date: 2026-10-11T02:33:00.275364
 url: "/cdr-researcher-census/researchers/vanessa-rondon-berrio-a5042796/"
 layout: "researcher"
 hiddenInHomeList: true

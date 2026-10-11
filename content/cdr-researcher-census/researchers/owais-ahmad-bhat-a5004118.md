@@ -1,7 +1,7 @@
 ---
 title: "Owais Ahmad Bhat"
 description: "Owais Ahmad Bhat is a Mid-career Biochar researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir in IN. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.186003
+date: 2026-10-11T02:33:00.216173
 url: "/cdr-researcher-census/researchers/owais-ahmad-bhat-a5004118/"
 layout: "researcher"
 hiddenInHomeList: true

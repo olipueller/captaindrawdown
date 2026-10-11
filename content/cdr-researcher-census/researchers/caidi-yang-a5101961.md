@@ -1,7 +1,7 @@
 ---
 title: "Caidi Yang"
 description: "Caidi Yang is a Mid-career Soil Carbon researcher at Northwest University in CN. With 25 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.344203
+date: 2026-10-11T02:32:59.350193
 url: "/cdr-researcher-census/researchers/caidi-yang-a5101961/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Differences in the physical protection mechanisms of soil organic carbon with 13C-labeled straw and biochar** (2025)
-   27 citations · Biochar
+   29 citations · Biochar
 
 2. **Effects of cover crops and nitrogen fertilization on soil physical properties, carbon and nitrogen fractions, and winter wheat yield in the Chinese loess plateau: A 4-year field experiment** (2024)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 3. **Long-Term Chemical and Organic Fertilization Differently Affect Soil Aggregates and Associated Carbon and Nitrogen in the Loess Plateau of China** (2023)
-   17 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 4. **Mechanisms of cover crop-derived carbon sequestration in winter wheat fields: Insights from 13C labeling** (2025)
    7 citations · Soil Carbon
@@ -65,13 +65,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Mulching practices decreased soil microbial carbon degradation potential under spring maize in the Loess Plateau of China** (2025)
    7 citations · Soil Carbon
 
-6. **[Effect of Straw Return on Soil Aggregate Composition and Carbon Fractions in Typical Farmland of the Loess Plateau].** (2025)
+6. **Contrasting mechanisms of soil carbon sequestration in upland soils: Fungal-driven physical protection with straw versus bacterial-driven mineral stabilization with biochar** (2026)
+   0 citations · Biochar
+
+7. **[Effect of Straw Return on Soil Aggregate Composition and Carbon Fractions in Typical Farmland of the Loess Plateau].** (2025)
    0 citations · Soil Carbon
 
-7. **[Effects of Green Manure and Nitrogen Application on Soil Carbon Fractions in a Dryland Winter Wheat Field].** (2025)
+8. **[Effects of Green Manure and Nitrogen Application on Soil Carbon Fractions in a Dryland Winter Wheat Field].** (2025)
    0 citations · Soil Carbon
 
-8. **Amendments of Two Straws and Corresponding Biochars Changed the Pore System and Organic Carbon Sequestration within the Macroaggregates of an Ultisol** (2023)
+9. **Amendments of Two Straws and Corresponding Biochars Changed the Pore System and Organic Carbon Sequestration within the Macroaggregates of an Ultisol** (2023)
    0 citations · Biochar
 
 ## External Profiles

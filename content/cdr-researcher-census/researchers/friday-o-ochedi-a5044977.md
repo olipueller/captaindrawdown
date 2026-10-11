@@ -1,7 +1,7 @@
 ---
 title: "Friday O. Ochedi"
 description: "Friday O. Ochedi is a Mid-career DAC researcher at Heriot-Watt University in GB. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.246196
+date: 2026-10-11T02:32:59.250069
 url: "/cdr-researcher-census/researchers/friday-o-ochedi-a5044977/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,9 +51,12 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Oxidative degradation of glycine in aqueous KOH/K<sub>2</sub>CO<sub>3</sub> solutions for CO<sub>2</sub> capture** (2024)
-   7 citations
+   9 citations
 
 2. **Derivation of a consistent modelling approach for unpromoted and enzyme-catalysed CO2 hydration in alkaline solutions** (2026)
+   2 citations · DAC
+
+3. **Liquid absorbent direct air capture with pH-swing regeneration can be competitive but challenges remain** (2026)
    0 citations · DAC
 
 ## External Profiles

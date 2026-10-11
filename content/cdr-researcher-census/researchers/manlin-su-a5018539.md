@@ -1,7 +1,7 @@
 ---
 title: "Manlin Su"
 description: "Manlin Su is a Mid-career Soil Carbon researcher at Xiamen University in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.284817
+date: 2026-10-11T02:33:00.314901
 url: "/cdr-researcher-census/researchers/manlin-su-a5018539/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Change in glomalin-related soil protein along latitudinal gradient encompassing subtropical and temperate blue carbon zones** (2023)
-   15 citations · Ocean CDR
+   16 citations · Ocean CDR
 
 2. **Salinity and inundation drivers shift microbial necromass carbon distribution patterns in estuarine mangrove wetlands** (2025)
    10 citations · Soil Carbon

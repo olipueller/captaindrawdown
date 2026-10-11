@@ -1,7 +1,7 @@
 ---
 title: "Liwei Qian"
 description: "Liwei Qian is a Mid-career Soil Carbon researcher at Tongji University in CN. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.028309
+date: 2026-10-11T02:33:00.059657
 url: "/cdr-researcher-census/researchers/liwei-qian-a5102336/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,22 +48,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of anthropogenic disturbances on the carbon sink function of Yangtze River estuary wetlands: A review of performance, process, and mechanism** (2024)
-   28 citations · General CDR
+   27 citations · General CDR
 
 2. **The high organic carbon accumulation in estuarine wetlands necessarily does not represent a high CO2 sequestration capacity** (2023)
-   26 citations · Ocean CDR
+   27 citations · Ocean CDR
 
 3. **Estuarine wetland tidal organic carbon activates microbial carbon pump and increases long-term soil carbon stability** (2024)
    10 citations · Soil Carbon
 
 4. **Tidal organic input restricts CO2 sequestration capacity of estuarine wetlands** (2023)
-   9 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 5. **The combined effects of soil moisture and salinity on the spatial differences of soil humification intensity in the Yangtze River estuarine wetlands** (2025)
    4 citations · Soil Carbon
 
 6. **Biomarker analysis revealed tidal organic carbon input enhanced soil respiration and weakened carbon sequestration function of estuarine wetland: Field validation of the Jiuduansha Wetland in the Yangtze River estuary** (2024)
-   3 citations · Ocean CDR
+   4 citations · Ocean CDR
 
 7. **The High Organic Carbon Accumulation in Estuarine Wetlands Necessarily Does Not Represent a High Co2 Sequestration Capacity** (2022)
    1 citations · General CDR

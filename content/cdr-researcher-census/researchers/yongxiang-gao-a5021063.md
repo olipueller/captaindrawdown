@@ -1,7 +1,7 @@
 ---
 title: "Yongxiang Gao"
 description: "Yongxiang Gao is a Mid-career Soil Carbon researcher at Tiangong University in CN. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.405529
+date: 2026-10-11T02:32:59.414548
 url: "/cdr-researcher-census/researchers/yongxiang-gao-a5021063/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Straw returning combined with controlled-release nitrogen fertilizer affected organic carbon storage and crop yield by changing humic acid composition and aggregate distribution** (2023)
-   63 citations · Soil Carbon
+   66 citations · Soil Carbon
 
 2. **Effects of straw returning combined with blended controlled-release urea fertilizer on crop yields, greenhouse gas emissions, and net ecosystem economic benefits: A nine-year field trial** (2024)
-   30 citations
+   35 citations
 
 3. **Straw return combined with controlled-release urea enhances wheat yield and soil fertility by regulating soil organic carbon fractions: a 10-year field experiment** (2026)
    0 citations

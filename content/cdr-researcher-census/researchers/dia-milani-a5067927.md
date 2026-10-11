@@ -1,7 +1,7 @@
 ---
 title: "Dia Milani"
 description: "Dia Milani is a Senior General CDR researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 65 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.089244
+date: 2026-10-11T02:32:59.094092
 url: "/cdr-researcher-census/researchers/dia-milani-a5067927/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    117 citations · DAC
 
 2. **Decarbonizing hard-to-abate heavy industries: Current status and pathways towards net-zero future** (2024)
-   81 citations · General CDR
+   87 citations · General CDR
 
 3. **Green pathways for urea synthesis: A review from Australia's perspective** (2022)
-   61 citations · General CDR
+   63 citations · General CDR
 
 4. **Ex-situ mineral carbonation process challenges and technology enablers: A review from Australia’s perspective** (2024)
-   22 citations · DAC
+   23 citations · DAC
 
 5. **Techno-economic assessment of green urea production integrated with direct air capture** (2025)
    3 citations · DAC
@@ -68,11 +68,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 6. **A comparative economic assessment of freshwater versus chloralkali electrolysis for eMethanol production** (2025)
    2 citations · DAC
 
-7. **Mineralisation as a carbon sink for DAC: A case-study for solar thermal process integration** (2025)
+7. **From air to Jet Fuel: Techno-economic and sustainability analysis of eSAF production using direct air capture and chloralkali electrolysis** (2026)
    1 citations · DAC
 
-8. **From air to Jet Fuel: Techno-economic and sustainability analysis of eSAF production using direct air capture and chloralkali electrolysis** (2026)
-   0 citations · DAC
+8. **Mineralisation as a carbon sink for DAC: A case-study for solar thermal process integration** (2025)
+   1 citations · DAC
 
 9. **Dealumination and monoethanolamine impregnation of zeolite mining waste applied to carbon dioxide adsorptive capture** (2025)
    0 citations

@@ -1,7 +1,7 @@
 ---
 title: "Guoqiang Rong"
 description: "Guoqiang Rong is a Mid-career Biochar researcher at China Construction Eighth Engineering Division (China) in CN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.396651
+date: 2026-10-11T02:32:59.405568
 url: "/cdr-researcher-census/researchers/guoqiang-rong-a5036642/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Converting coastal silt into subgrade soil with biochar as reinforcing agent, CO2 adsorbent, and carbon sequestrating material** (2023)
-   18 citations · Biochar
+   20 citations · Biochar
 
 2. **Converting Coastal Silt into Subgrade Soil with Biochar as Reinforcing Agent, Co2 Adsorbent, and Carbon Sequestrating Material** (2023)
    0 citations · Biochar

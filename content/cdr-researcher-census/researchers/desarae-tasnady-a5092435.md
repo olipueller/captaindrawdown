@@ -1,7 +1,7 @@
 ---
 title: "Desarae Tasnady"
 description: "Desarae Tasnady is an Early-career Biochar researcher at California State Polytechnic University in US. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.068591
+date: 2026-10-11T02:33:00.098668
 url: "/cdr-researcher-census/researchers/desarae-tasnady-a5092435/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar for Soil Carbon Sequestration: Current Knowledge, Mechanisms, and Future Perspectives** (2023)
-   160 citations · Biochar
+   166 citations · Biochar
 
 2. **Enhancing Organic Contaminant Removal from Wool Scouring Wastewater Using Chemically Modified Biochars** (2024)
-   10 citations · Biochar
+   11 citations · Biochar
 
 3. **Lignocellulosic municipal waste valorization for energy recovery and circular bioeconomy** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

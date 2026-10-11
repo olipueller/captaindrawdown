@@ -1,7 +1,7 @@
 ---
 title: "Paul Kinner"
 description: "Paul Kinner is a Mid-career Biochar researcher at AIT Austrian Institute of Technology GmbH in AT. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.027453
+date: 2026-10-11T02:33:00.058832
 url: "/cdr-researcher-census/researchers/paul-kinner-a5067935/"
 layout: "researcher"
 hiddenInHomeList: true

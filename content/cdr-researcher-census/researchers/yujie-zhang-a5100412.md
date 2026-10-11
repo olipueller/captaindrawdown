@@ -1,7 +1,7 @@
 ---
 title: "Yujie Zhang"
 description: "Yujie Zhang is a Senior Soil Carbon researcher at Gladstone Institutes in US. With 36 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.481069
+date: 2026-10-11T02:32:59.492464
 url: "/cdr-researcher-census/researchers/yujie-zhang-a5100412/"
 layout: "researcher"
 hiddenInHomeList: true

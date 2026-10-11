@@ -1,7 +1,7 @@
 ---
 title: "Vassilis Daioglou"
 description: "Vassilis Daioglou is an Eminent General CDR researcher at Netherlands Environmental Assessment Agency in NL. With 175 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.027045
+date: 2026-10-11T02:32:59.030085
 url: "/cdr-researcher-census/researchers/vassilis-daioglou-a5020000/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,28 +51,28 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **PRospective EnvironMental Impact asSEment (premise): A streamlined approach to producing databases for prospective life cycle assessment using integrated assessment models** (2022)
-   553 citations · DAC
+   559 citations · DAC
 
 2. **Environmental trade-offs of direct air capture technologies in climate change mitigation toward 2100** (2022)
    158 citations · DAC
 
 3. **Reducing sectoral hard-to-abate emissions to limit reliance on carbon dioxide removal** (2024)
-   108 citations · General CDR
+   112 citations · General CDR
 
 4. **Decarbonizing the cement industry: Findings from coupling prospective life cycle assessment of clinker with integrated assessment model scenarios** (2024)
-   54 citations · General CDR
+   56 citations · General CDR
 
 5. **Global implications of crop‐based bioenergy with carbon capture and storage for terrestrial vertebrate biodiversity** (2021)
-   53 citations · BECCS
+   51 citations · BECCS
 
 6. **Multiple pathways towards sustainable development goals and climate targets** (2024)
-   38 citations · General CDR
+   40 citations · General CDR
 
 7. **PRospective EnvironMental Impact asSEment (premise): astreamlined approach to producing databases for prospective Life Cycle Assessment using Integrated Assessment Models** (2022)
    37 citations · DAC
 
 8. **Integrated assessment of the role of bioenergy within the EU energy transition targets to 2050** (2021)
-   33 citations · BECCS
+   34 citations · BECCS
 
 9. **The contribution of bioenergy to the decarbonization of transport: a multi-model assessment** (2022)
    21 citations · BECCS

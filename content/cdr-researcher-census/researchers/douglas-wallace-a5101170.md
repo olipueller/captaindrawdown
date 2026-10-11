@@ -1,7 +1,7 @@
 ---
 title: "Douglas Wallace"
 description: "Douglas Wallace is a Mid-career Ocean CDR researcher at Dalhousie University in CA. With 10 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.335326
+date: 2026-10-11T02:33:00.369435
 url: "/cdr-researcher-census/researchers/douglas-wallace-a5101170/"
 layout: "researcher"
 hiddenInHomeList: true

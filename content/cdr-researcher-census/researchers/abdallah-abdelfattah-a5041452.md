@@ -1,7 +1,7 @@
 ---
 title: "Abdallah Abdelfattah"
 description: "Abdallah Abdelfattah is a Mid-career Biochar researcher at Tanta University in EG. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.230519
+date: 2026-10-11T02:32:59.233689
 url: "/cdr-researcher-census/researchers/abdallah-abdelfattah-a5041452/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Innovative solutions for coastal wetlands pollution: Application of Spartina alterniflora Loisel. - biochar for cadmium removal and carbon sequestration** (2024)
-   8 citations · Biochar
+   9 citations · Biochar
 
 2. **Microwave-assisted remediation of PAHs-contaminated soil using biochar: Process optimization and cost-benefit analysis** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

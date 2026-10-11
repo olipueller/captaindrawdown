@@ -1,7 +1,7 @@
 ---
 title: "Mohamad Firdaus Mohamad Yusop"
 description: "Mohamad Firdaus Mohamad Yusop is a Mid-career Biochar researcher at Universiti Sains Malaysia in MY. With 55 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.250095
+date: 2026-10-11T02:32:59.253834
 url: "/cdr-researcher-census/researchers/mohamad-firdaus-mohamad-yusop-a5000466/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Adsorption of cationic methylene blue dye using microwave-assisted activated carbon derived from acacia wood: Optimization and batch studies** (2021)
-   144 citations · Biochar
+   143 citations · Biochar
 
 2. **Conversion of teak wood waste into microwave-irradiated activated carbon for cationic methylene blue dye removal: Optimization and batch studies** (2022)
-   71 citations
+   70 citations
 
 3. **Single-stage microwave assisted coconut shell based activated carbon for removal of Zn(II) ions from aqueous solution – Optimization and batch studies** (2022)
-   66 citations · Biochar
+   65 citations · Biochar
 
 4. **Adsorption of methylene blue from aqueous solution by peanut shell based activated carbon** (2021)
    57 citations
@@ -69,16 +69,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    21 citations · Biochar
 
 7. **Amoxicillin adsorption onto oil palm trunk‐derived activated carbon: synthesis optimization, modelling of mass transfer and ultrasonic regeneration** (2025)
-   16 citations
+   17 citations
 
 8. **Harnessing microwave energy to transform Nephelium lappaceum L. peel into activated carbon for chloramphenicol eradication in aqueous solutions** (2024)
    15 citations · Biochar
 
-9. **Utilization of landscape biomass waste as activated carbon to scavenge oxytetracycline: Attraction mechanism, batch and continuous studies** (2023)
-   4 citations · Biochar
+9. **Adsorption of Pb2+ by Activated Carbon Produced by Microwave-Assisted K2CO3 Activation of Date Palm Leaf Sheath Fibres** (2023)
+   9 citations · Biochar
 
-10. **Single-stage microwave-irradiated activated carbon from corncob for ammonia nitrogen removal: Batch, attraction mechanism and regeneration studies** (2023)
-   3 citations
+10. **Utilization of landscape biomass waste as activated carbon to scavenge oxytetracycline: Attraction mechanism, batch and continuous studies** (2023)
+   4 citations · Biochar
 
 ## External Profiles
 

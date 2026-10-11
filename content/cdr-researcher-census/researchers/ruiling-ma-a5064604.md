@@ -1,7 +1,7 @@
 ---
 title: "Ruiling Ma"
 description: "Ruiling Ma is a Senior Biochar researcher at Nanjing Agricultural University in CN. With 21 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.342679
+date: 2026-10-11T02:33:00.377500
 url: "/cdr-researcher-census/researchers/ruiling-ma-a5064604/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,24 +51,24 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar-plant interactions enhance nonbiochar carbon sequestration in a rice paddy soil** (2023)
-   26 citations · Biochar
+   28 citations · Biochar
 
 2. **The divergent response of fungal and bacterial necromass carbon in soil aggregates under biochar amendment in paddy soil** (2025)
    8 citations · Biochar
 
-3. **Developing diversity indicators from organic matter and microbe to depict their changes across different soil-landscapes in a subtropical hilly area** (2025)
+3. **Biochar amendment reduced microbial necromass carbon accumulation in a paddy soil profile** (2025)
+   3 citations · Biochar
+
+4. **Developing diversity indicators from organic matter and microbe to depict their changes across different soil-landscapes in a subtropical hilly area** (2025)
    3 citations · Soil Carbon
 
-4. **Biochar amendment reduced microbial necromass carbon accumulation in a paddy soil profile** (2025)
-   2 citations · Biochar
+5. **Depth-dependent microbial necromass carbon accumulation responses to long-term biochar amendment in croplands** (2026)
+   1 citations · Biochar
 
-5. **Biochar amendment increases microbial necromass carbon accumulation by regulating microbial life strategies in a coastal saline soil** (2026)
+6. **Biochar amendment increases microbial necromass carbon accumulation by regulating microbial life strategies in a coastal saline soil** (2026)
    0 citations · Biochar
 
-6. **Biochar enhances rice rhizodeposited carbon stabilization through distinct pathways of iron association and aggregate occlusion in two contrasting paddy soils** (2026)
-   0 citations · Biochar
-
-7. **Depth-dependent microbial necromass carbon accumulation responses to long-term biochar amendment in croplands** (2026)
+7. **Biochar enhances rice rhizodeposited carbon stabilization through distinct pathways of iron association and aggregate occlusion in two contrasting paddy soils** (2026)
    0 citations · Biochar
 
 ## External Profiles

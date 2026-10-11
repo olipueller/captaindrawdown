@@ -1,7 +1,7 @@
 ---
 title: "Lige Tong"
 description: "Lige Tong is a Mid-career BECCS researcher at University of Science and Technology Beijing in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.232677
+date: 2026-10-11T02:33:00.262832
 url: "/cdr-researcher-census/researchers/lige-tong-a5104005/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Progress in Biomass Combustion Systems for Ultra-Low Emissions** (2026)
-   1 citations · BECCS
+   2 citations · BECCS
 
 ## External Profiles
 

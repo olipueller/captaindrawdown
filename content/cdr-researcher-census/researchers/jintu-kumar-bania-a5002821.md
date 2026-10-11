@@ -1,7 +1,7 @@
 ---
 title: "Jintu Kumar Bania"
 description: "Jintu Kumar Bania is a Mid-career Soil Carbon researcher at Assam University in IN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.293007
+date: 2026-10-11T02:33:00.323184
 url: "/cdr-researcher-census/researchers/jintu-kumar-bania-a5002821/"
 layout: "researcher"
 hiddenInHomeList: true

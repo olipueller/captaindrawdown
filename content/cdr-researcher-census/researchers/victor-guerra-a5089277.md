@@ -1,7 +1,7 @@
 ---
 title: "Victor Guerra"
 description: "Victor Guerra is a Mid-career Soil Carbon researcher at University of Florida in US. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.016828
+date: 2026-10-11T02:33:00.047753
 url: "/cdr-researcher-census/researchers/victor-guerra-a5089277/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Multifunctionality of temperate alley-cropping agroforestry outperforms open cropland and grassland** (2023)
-   84 citations · General CDR
+   89 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Qiliang Huang"
 description: "Qiliang Huang is a Mid-career Soil Carbon researcher at Sanya University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.287422
+date: 2026-10-11T02:33:00.317475
 url: "/cdr-researcher-census/researchers/qiliang-huang-a5083033/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Addition of biochar decreased soil respiration in a permanent no-till cover crop system for organic soybean production** (2023)
-   10 citations · Biochar
+   12 citations · Biochar
 
 2. **Long‐term no‐tillage and rye cover crops affect soil biological indicators on Andosols in a humid, subtropical climate** (2022)
-   8 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 3. **Enhancing agroecosystem sustainability: Integrative soil health strategies in regenerative organic soybean production on Andosol in Japan** (2024)
    7 citations
@@ -59,11 +59,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Triple impact: Biochar, no-tillage, and cover crops for soil carbon enhancement and climate resilience in soybean farming** (2024)
    7 citations · Biochar
 
-5. **No-tillage intercropping with a robotic mower: Advancing a high productivity, low-carbon and energy-efficient organic farming system** (2025)
-   2 citations · Soil Carbon
+5. **Field Validation of the DNDC-Rice Model for Crop Yield, Nitrous Oxide Emissions and Carbon Sequestration in a Soybean System with Rye Cover Crop Management** (2025)
+   2 citations
 
-6. **Field Validation of the DNDC-Rice Model for Crop Yield, Nitrous Oxide Emissions and Carbon Sequestration in a Soybean System with Rye Cover Crop Management** (2025)
-   1 citations
+6. **No-tillage intercropping with a robotic mower: Advancing a high productivity, low-carbon and energy-efficient organic farming system** (2025)
+   2 citations · Soil Carbon
 
 7. **Field Validation of the DNDC-Rice Model for Crop Yield, Nitrous Oxide Emissions and Carbon Sequestration in a Soybean System with Rye Cover Crop Management** (2025)
    1 citations · Soil Carbon

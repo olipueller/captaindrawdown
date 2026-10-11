@@ -1,7 +1,7 @@
 ---
 title: "Xuetao Liang"
 description: "Xuetao Liang is a Mid-career Biochar researcher at China University of Geosciences (Beijing) in CN. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.527879
+date: 2026-10-11T02:32:59.541932
 url: "/cdr-researcher-census/researchers/xuetao-liang-a5062754/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Efficient activation of peroxyacetic acid by cobalt-iron alloy/oxide heterojunctions anchored in defect-rich biochar for pesticide degradation in water: Unravelling the radical-unradical mechanism** (2024)
-   19 citations · Biochar
+   22 citations · Biochar
 
 2. **Efficient Activation of Peroxyacetic Acid by Cobalt-Iron Alloy/Oxide Heterojunctions Anchored in Defect-Rich Biochar for Pesticide Degradation in Water: Unravelling the Radical-Unradical Mechanism** (2024)
    1 citations

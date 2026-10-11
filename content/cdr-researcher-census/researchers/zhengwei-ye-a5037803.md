@@ -1,7 +1,7 @@
 ---
 title: "Zhengwei Ye"
 description: "Zhengwei Ye is a Senior Soil Carbon researcher. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.114503
+date: 2026-10-11T02:33:00.145382
 url: "/cdr-researcher-census/researchers/zhengwei-ye-a5037803/"
 layout: "researcher"
 hiddenInHomeList: true

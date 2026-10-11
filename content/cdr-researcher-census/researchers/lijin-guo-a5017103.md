@@ -1,7 +1,7 @@
 ---
 title: "Lijin Guo"
 description: "Lijin Guo is a Senior Soil Carbon researcher at South China Agricultural University in CN. With 48 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.151069
+date: 2026-10-11T02:32:59.155320
 url: "/cdr-researcher-census/researchers/lijin-guo-a5017103/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of long-term no tillage and straw return on greenhouse gas emissions and crop yields from a rice-wheat system in central China** (2021)
-   125 citations · Soil Carbon
+   127 citations · Soil Carbon
 
 2. **Application rates of nitrogen fertilizers change the pattern of soil organic carbon fractions in a rice-wheat rotation system in China** (2022)
-   37 citations · Soil Carbon
+   36 citations · Soil Carbon
 
 3. **Precipitation increase promotes soil organic carbon formation and stability via the mycorrhizal fungal pathway** (2025)
-   22 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 4. **Soil Bacteria Mediate Soil Organic Carbon Sequestration under Different Tillage and Straw Management in Rice-Wheat Cropping Systems** (2022)
    15 citations · Soil Carbon

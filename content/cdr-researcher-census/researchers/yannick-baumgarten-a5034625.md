@@ -1,7 +1,7 @@
 ---
 title: "Yannick Baumgarten"
 description: "Yannick Baumgarten is a Mid-career BECCS researcher at Fraunhofer Institute for Manufacturing Engineering and Automation in DE. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.281449
+date: 2026-10-11T02:33:00.312135
 url: "/cdr-researcher-census/researchers/yannick-baumgarten-a5034625/"
 layout: "researcher"
 hiddenInHomeList: true

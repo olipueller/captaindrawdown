@@ -1,7 +1,7 @@
 ---
 title: "Guoting Shen"
 description: "Guoting Shen is a Mid-career Soil Carbon researcher at Helmholtz Centre for Environmental Research in DE. With 28 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.222347
+date: 2026-10-11T02:32:59.225899
 url: "/cdr-researcher-census/researchers/guoting-shen-a5112515/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil aggregate development and associated microbial metabolic limitations alter grassland carbon storage following livestock removal** (2022)
-   100 citations
+   101 citations
 
 2. **New perspectives on microbiome and nutrient sequestration in soil aggregates during long‐term grazing exclusion** (2023)
-   65 citations · Soil Carbon
+   66 citations · Soil Carbon
 
 3. **Microbial metabolic limitation response to experimental warming along an altitudinal gradient in alpine grasslands, eastern Tibetan Plateau** (2022)
-   58 citations
+   60 citations
 
 4. **Effects of inorganic and organic fertilizers on CO2 and CH4 fluxes from tea plantation soil** (2021)
    34 citations

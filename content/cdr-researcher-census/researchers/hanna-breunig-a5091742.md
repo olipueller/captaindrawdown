@@ -1,7 +1,7 @@
 ---
 title: "Hanna Breunig"
 description: "Hanna Breunig is a Senior General CDR researcher at Lawrence Berkeley National Laboratory in US. With 87 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.165325
+date: 2026-10-11T02:32:59.169393
 url: "/cdr-researcher-census/researchers/hanna-breunig-a5091742/"
 layout: "researcher"
 hiddenInHomeList: true

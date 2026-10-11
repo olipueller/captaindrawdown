@@ -1,7 +1,7 @@
 ---
 title: "Alex Santos da Silva"
 description: "Alex Santos da Silva is a Mid-career Soil Carbon researcher at Universidade Federal do Oeste do Pará in BR. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.336412
+date: 2026-10-11T02:33:00.370519
 url: "/cdr-researcher-census/researchers/alex-santos-da-silva-a5003993/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon and Energy Balance in a Primary Amazonian Forest and Its Relationship with Remote Sensing Estimates** (2024)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 ## External Profiles
 

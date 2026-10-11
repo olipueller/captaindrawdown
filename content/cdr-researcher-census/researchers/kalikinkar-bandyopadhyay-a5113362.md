@@ -1,7 +1,7 @@
 ---
 title: "Kalikinkar Bandyopadhyay"
 description: "Kalikinkar Bandyopadhyay is a Senior Soil Carbon researcher at Indian Institute of Water Management in IN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.687650
+date: 2026-10-11T02:32:59.707901
 url: "/cdr-researcher-census/researchers/kalikinkar-bandyopadhyay-a5113362/"
 layout: "researcher"
 hiddenInHomeList: true

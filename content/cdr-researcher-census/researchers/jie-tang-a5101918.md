@@ -1,7 +1,7 @@
 ---
 title: "Jie Tang"
 description: "Jie Tang is a Senior Soil Carbon researcher at Ministry of Education of the People's Republic of China in CN. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.444661
+date: 2026-10-11T02:32:59.455149
 url: "/cdr-researcher-census/researchers/jie-tang-a5101918/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Rhizosphere enzyme activities and microorganisms drive the transformation of organic and inorganic carbon in saline–alkali soil region** (2022)
-   75 citations · Soil Carbon
+   79 citations · Soil Carbon
 
 2. **The Development and Utilization of Saline–Alkali Land in Western Jilin Province Promoted the Sequestration of Organic Carbon Fractions in Soil Aggregates** (2021)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 ## External Profiles
 

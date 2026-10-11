@@ -1,7 +1,7 @@
 ---
 title: "Mai H. A. Mousa"
 description: "Mai H. A. Mousa is a Senior General CDR researcher at Egyptian Russian University in EG. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.010496
+date: 2026-10-11T02:33:00.041657
 url: "/cdr-researcher-census/researchers/mai-h-a-mousa-a5090621/"
 layout: "researcher"
 hiddenInHomeList: true

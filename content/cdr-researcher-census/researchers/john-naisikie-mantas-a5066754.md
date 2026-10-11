@@ -1,7 +1,7 @@
 ---
 title: "John Naisikie Mantas"
 description: "John Naisikie Mantas is a Mid-career Soil Carbon researcher at Mpala Research Center and Wildlife Foundation in KE. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.050347
+date: 2026-10-11T02:33:00.080973
 url: "/cdr-researcher-census/researchers/john-naisikie-mantas-a5066754/"
 layout: "researcher"
 hiddenInHomeList: true

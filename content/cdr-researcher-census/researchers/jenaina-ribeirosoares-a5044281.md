@@ -1,7 +1,7 @@
 ---
 title: "Jenaina Ribeiro‐Soares"
 description: "Jenaina Ribeiro‐Soares is a Senior Biochar researcher at Universidade Federal de Lavras in BR. With 55 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.154764
+date: 2026-10-11T02:32:59.159133
 url: "/cdr-researcher-census/researchers/jenaina-ribeirosoares-a5044281/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochars from modified sugarcane bagasse for manganese removal from mining effluents** (2023)
-   34 citations · Biochar
+   35 citations · Biochar
 
 2. **Influence of Mn precursor on pre-pyrolysis modification of sugarcane bagasse biochar for enhanced removal of 2,4-dichlorophenoxyacetic acid from aqueous solutions: Experimental and theoretical insights** (2024)
-   21 citations · Biochar
+   20 citations · Biochar
 
 3. **Carbonaceous Materials for Nanoremediation of Polluted and Nutrient-Depleted Soils** (2022)
-   3 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

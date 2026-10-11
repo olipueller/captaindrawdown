@@ -1,7 +1,7 @@
 ---
 title: "Rawan Mlih"
 description: "Rawan Mlih is a Mid-career Soil Carbon researcher at Al-Azhar University – Gaza in PS. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.609755
+date: 2026-10-11T02:32:59.626972
 url: "/cdr-researcher-census/researchers/rawan-mlih-a5055963/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil OC and N Stocks in the Saline Soil of Tunisian Gataaya Oasis Eight Years after Application of Manure and Compost** (2022)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 2. **Impact of Management Practices on Soil Organic Carbon Content and Microbial Diversity Under Semi-Arid Conditions** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 ## External Profiles
 

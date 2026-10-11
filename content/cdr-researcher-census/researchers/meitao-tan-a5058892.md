@@ -1,7 +1,7 @@
 ---
 title: "Meitao Tan"
 description: "Meitao Tan is a Mid-career Biochar researcher at Southern Medical University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.068680
+date: 2026-10-11T02:33:00.098766
 url: "/cdr-researcher-census/researchers/meitao-tan-a5058892/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Efficient removal of ammonium in aqueous solution by ultrasonic magnesium-modified biochar** (2023)
-   70 citations · Biochar
+   71 citations · Biochar
 
 2. **Synergistic removal of ammonium and phosphate using ultrasonic Mg-based biochar composite: Mechanism, behavior and green recycling** (2024)
    12 citations · Biochar

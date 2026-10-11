@@ -1,7 +1,7 @@
 ---
 title: "Claudia Labianca"
 description: "Claudia Labianca is a Mid-career Biochar researcher at The Hong Kong Polytechnic University in HK. With 36 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.208309
+date: 2026-10-11T02:32:59.212439
 url: "/cdr-researcher-census/researchers/claudia-labianca-a5077531/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Life-cycle assessment of pyrolysis processes for sustainable production of biochar from agro-residues** (2022)
-   243 citations · Biochar
+   249 citations · Biochar
 
 2. **Carbon-negative cement-bonded biochar particleboards** (2022)
-   56 citations · Biochar
+   59 citations · Biochar
 
 ## External Profiles
 

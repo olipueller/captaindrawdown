@@ -1,7 +1,7 @@
 ---
 title: "Kaixin Shi"
 description: "Kaixin Shi is a Mid-career General CDR researcher at Huazhong Agricultural University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.813105
+date: 2026-10-11T02:32:59.837990
 url: "/cdr-researcher-census/researchers/kaixin-shi-a5079755/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Trends in valorization of citrus by-products from the net-zero perspective: Green processing innovation combined with applications in emission reduction** (2023)
-   46 citations · General CDR
+   50 citations · General CDR
 
 ## External Profiles
 

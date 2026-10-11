@@ -1,7 +1,7 @@
 ---
 title: "Tanmoy Dey"
 description: "Tanmoy Dey is a Mid-career Soil Carbon researcher. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.709854
+date: 2026-10-11T02:32:59.730499
 url: "/cdr-researcher-census/researchers/tanmoy-dey-a5053618/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,6 +47,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 1. **Carbon sequestration potential of Sonneratia apetala plantation forests in the Chakaria Sundarbans: Effects of stand age and structure** (2025)
    5 citations · Soil Carbon
+
+2. **Carbon Stock Assessment in Sonneratia apetala Afforested Mangroves: A Case Study from Cox’s Bazar, Bangladesh** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

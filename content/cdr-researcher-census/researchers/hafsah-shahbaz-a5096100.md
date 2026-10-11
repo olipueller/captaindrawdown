@@ -1,7 +1,7 @@
 ---
 title: "Hafsah Shahbaz"
 description: "Hafsah Shahbaz is a Mid-career Soil Carbon researcher at Jiangsu University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.097783
+date: 2026-10-11T02:33:00.128528
 url: "/cdr-researcher-census/researchers/hafsah-shahbaz-a5096100/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Navigating Synergies: A Comprehensive Review of Agroforestry System and Agronomy Crops** (2024)
-   20 citations · General CDR
+   21 citations · General CDR
 
 ## External Profiles
 

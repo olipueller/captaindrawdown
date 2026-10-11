@@ -1,7 +1,7 @@
 ---
 title: "Xukun Su"
 description: "Xukun Su is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 70 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.120132
+date: 2026-10-11T02:32:59.124736
 url: "/cdr-researcher-census/researchers/xukun-su-a5022222/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Optimizing grazing exclusion duration for carbon sequestration in grasslands: Incorporating temporal heterogeneity of aboveground biomass and soil organic carbon** (2024)
-   24 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 2. **Impacts of Human Activity Intensity on Ecosystem Services for Conservation in the Lhasa River Basin** (2023)
-   15 citations
+   16 citations
 
 3. **Assessing the destabilization risk of ecosystems dominated by carbon sequestration based on interpretable machine learning method** (2024)
    13 citations · Soil Carbon
 
 4. **Spatiotemporal heterogeneity management: Optimizing the critical role of ecosystem services in achieving Sustainable Development Goals** (2024)
-   8 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 5. **Global Meta‐Analysis Reveals the Responses of Carbon Cycle to Grazing Exclusion in Grasslands** (2025)
-   2 citations · General CDR
+   3 citations · General CDR
 
 6. **Value assessment of carbon sequestration in generalized black soil distribution area of Amur River Basin, China** (2024)
    2 citations · General CDR

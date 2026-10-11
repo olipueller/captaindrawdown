@@ -1,7 +1,7 @@
 ---
 title: "Fawen Liang"
 description: "Fawen Liang is a Mid-career Biochar researcher at Foshan University in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.521530
+date: 2026-10-11T02:32:59.535474
 url: "/cdr-researcher-census/researchers/fawen-liang-a5078205/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **NaOH-modified biochar supported Fe/Mn bimetallic composites as efficient peroxymonosulfate activator for enhance tetracycline removal** (2022)
-   145 citations · Biochar
+   148 citations · Biochar
 
 2. **Biochar encapsulated metal nanoflowers for high efficient degradation of metronidazole via peroxymonosulfate activation** (2023)
-   51 citations
+   52 citations
 
 ## External Profiles
 

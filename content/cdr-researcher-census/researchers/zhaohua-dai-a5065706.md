@@ -1,7 +1,7 @@
 ---
 title: "Zhaohua Dai"
 description: "Zhaohua Dai is a Senior Soil Carbon researcher at Michigan Technological University in US. With 62 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.226863
+date: 2026-10-11T02:32:59.230268
 url: "/cdr-researcher-census/researchers/zhaohua-dai-a5065706/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    34 citations · Soil Carbon
 
 2. **Modeling impacts of saltwater intrusion on methane and nitrous oxide emissions in tidal forested wetlands** (2023)
-   16 citations
+   17 citations
 
 3. **Soil Salinity and Water Level Interact to Generate Tipping Points in Low Salinity Tidal Wetlands Responding to Climate Change** (2023)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 4. **Estimated mangrove carbon stocks and fluxes to inform MRV for REDD+ using a process-based model** (2023)
    6 citations · General CDR

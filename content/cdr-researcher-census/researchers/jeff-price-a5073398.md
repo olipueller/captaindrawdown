@@ -1,7 +1,7 @@
 ---
 title: "Jeff Price"
 description: "Jeff Price is a Senior General CDR researcher at University of East Anglia in GB. With 67 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.028139
+date: 2026-10-11T02:32:59.031187
 url: "/cdr-researcher-census/researchers/jeff-price-a5073398/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Overconfidence in climate overshoot** (2024)
-   170 citations · General CDR
+   178 citations · General CDR
 
 2. **Climate change and terrestrial biodiversity** (2021)
    11 citations
 
-3. **Overconfidence in climate overshoot** (2023)
-   7 citations
+3. **Biodiversity implications of land-intensive carbon dioxide removal** (2026)
+   7 citations · BECCS
 
-4. **Biodiversity implications of land-intensive carbon dioxide removal** (2026)
-   6 citations · BECCS
+4. **Overconfidence in climate overshoot** (2023)
+   7 citations
 
 5. **Author Correction: Biodiversity implications of land-intensive carbon dioxide removal** (2026)
    0 citations · BECCS

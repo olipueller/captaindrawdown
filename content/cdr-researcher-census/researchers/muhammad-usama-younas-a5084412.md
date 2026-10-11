@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Usama Younas"
 description: "Muhammad Usama Younas is a Mid-career Biochar researcher at Yangzhou University in CN. With 41 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.414992
+date: 2026-10-11T02:32:59.424868
 url: "/cdr-researcher-census/researchers/muhammad-usama-younas-a5084412/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    4 citations · Biochar
 
 2. **Restoring Acidic Soils for Sustainable Agriculture: A Review of Mechanisms, Microbial Shifts, and Climate Resilience** (2026)
-   1 citations · Biochar
+   3 citations · Biochar
 
 3. **Leveraging Biochar Amendments to Enhance Food Security and Plant Resilience Under Climate Change** (2025)
-   1 citations · Biochar
+   3 citations · Biochar
 
 ## External Profiles
 

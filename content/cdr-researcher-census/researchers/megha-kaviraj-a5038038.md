@@ -1,7 +1,7 @@
 ---
 title: "Megha Kaviraj"
 description: "Megha Kaviraj is a Mid-career Soil Carbon researcher at University of Burdwan in IN. With 51 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.229852
+date: 2026-10-11T02:32:59.233124
 url: "/cdr-researcher-census/researchers/megha-kaviraj-a5038038/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Meta-Analysis Approach to Measure the Effect of Integrated Nutrient Management on Crop Performance, Microbial Activity, and Carbon Stocks in Indian Soils** (2021)
-   54 citations · General CDR
+   55 citations · General CDR
 
 2. **Hedge and Alder-Based Agroforestry Systems: Potential Interventions to Carbon Sequestration and Better Crop Productivity in Indian Sub-Himalayas** (2022)
-   27 citations · General CDR
+   29 citations · General CDR
 
 3. **Impacts of conservation agriculture on crop yield and soil carbon sequestration: a meta-analysis in the Indian subcontinent** (2024)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Maria A. Martin"
 description: "Maria A. Martin is a Senior General CDR researcher at University of Córdoba in ES. With 60 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.087948
+date: 2026-10-11T02:32:59.092795
 url: "/cdr-researcher-census/researchers/maria-a-martin-a5059497/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Ten new insights in climate science 2023** (2023)
-   46 citations · General CDR
+   47 citations · General CDR
 
 2. **Ten new insights in climate science 2025** (2026)
-   7 citations · General CDR
+   8 citations · General CDR
 
 3. **HS–GC determination of atmospheric greenhouse gases with direct in-vial sampling and multiple headspace extraction as an in-vial dilution strategy** (2026)
    0 citations

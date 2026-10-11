@@ -1,7 +1,7 @@
 ---
 title: "Zijiao Yang"
 description: "Zijiao Yang is a Mid-career Soil Carbon researcher at Shenyang Agricultural University in CN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.191726
+date: 2026-10-11T02:33:00.221796
 url: "/cdr-researcher-census/researchers/zijiao-yang-a5014673/"
 layout: "researcher"
 hiddenInHomeList: true

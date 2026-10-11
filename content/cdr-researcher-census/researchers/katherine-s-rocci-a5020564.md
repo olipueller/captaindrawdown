@@ -1,7 +1,7 @@
 ---
 title: "Katherine S. Rocci"
 description: "Katherine S. Rocci is a Mid-career Soil Carbon researcher at University of California, Merced in US. With 37 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.186287
+date: 2026-10-11T02:32:59.190364
 url: "/cdr-researcher-census/researchers/katherine-s-rocci-a5020564/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Nitrogen increases soil organic carbon accrual and alters its functionality** (2023)
-   314 citations · Soil Carbon
+   315 citations · Soil Carbon
 
 2. **Soil Carbon Saturation: What Do We Really Know?** (2025)
-   128 citations · Soil Carbon
+   149 citations · Soil Carbon
 
 3. **Nitrogen increases soil organic carbon accrual and alters its functionality** (2023)
    0 citations

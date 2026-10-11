@@ -1,7 +1,7 @@
 ---
 title: "Boniface Ndayambaza"
 description: "Boniface Ndayambaza is a Mid-career Soil Carbon researcher at Northwest Institute of Eco-Environment and Resources in CN. With 28 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.592525
+date: 2026-10-11T02:32:59.609374
 url: "/cdr-researcher-census/researchers/boniface-ndayambaza-a5025585/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic carbon distribution and multi-scale drivers in semi-arid alpine Regions: Implications for carbon storage function stability** (2025)
-   7 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 2. **Effects of ecological afforestation on soil inorganic carbon in arid region: a case study of desert margin in Alxa region, China** (2025)
    2 citations · Soil Carbon

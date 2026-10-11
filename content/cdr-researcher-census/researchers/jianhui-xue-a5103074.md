@@ -1,7 +1,7 @@
 ---
 title: "Jianhui Xue"
 description: "Jianhui Xue is a Senior Soil Carbon researcher at Nanjing Forestry University in CN. With 31 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.261850
+date: 2026-10-11T02:32:59.265887
 url: "/cdr-researcher-census/researchers/jianhui-xue-a5103074/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -61,6 +61,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 4. **Rock powder amendment mitigates microplastic induced destabilization of soil organic carbon by modulating molecular composition and microbial assembly** (2025)
    1 citations · Enhanced Weathering
+
+5. **Exploring the Linkages Between Plant Functional Traits and Ecosystem Services to Improve Management of Coastal salt Marshes** (2026)
+   0 citations
 
 ## External Profiles
 

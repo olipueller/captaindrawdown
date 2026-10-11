@@ -1,7 +1,7 @@
 ---
 title: "Alex L. Riley"
 description: "Alex L. Riley is a Senior Enhanced Weathering researcher at University of Hull in GB. With 34 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.526530
+date: 2026-10-11T02:32:59.540440
 url: "/cdr-researcher-census/researchers/alex-l-riley-a5068689/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Quantifying CO<sub>2</sub> Removal at Enhanced Weathering Sites: a Multiproxy Approach** (2023)
-   35 citations · Enhanced Weathering
+   36 citations · Enhanced Weathering
 
 2. **Carbon dioxide removal could result in the use of lower-grade iron ore in a decarbonized net-negative emission steel industry** (2024)
-   16 citations · General CDR
+   17 citations · General CDR
 
 3. **Iron and steel-making slags as an environmentally-beneficial resource; a UK perspective.** (2022)
    0 citations · Enhanced Weathering

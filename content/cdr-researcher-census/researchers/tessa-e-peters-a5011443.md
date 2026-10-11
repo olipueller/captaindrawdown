@@ -1,7 +1,7 @@
 ---
 title: "Tessa E. Peters"
 description: "Tessa E. Peters is a Mid-career Soil Carbon researcher at The Land Institute in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.209963
+date: 2026-10-11T02:33:00.239508
 url: "/cdr-researcher-census/researchers/tessa-e-peters-a5011443/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Policy pathways for perennial agriculture** (2022)
-   18 citations · General CDR
+   19 citations · General CDR
 
 ## External Profiles
 

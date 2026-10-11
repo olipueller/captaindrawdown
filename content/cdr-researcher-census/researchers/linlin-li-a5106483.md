@@ -1,7 +1,7 @@
 ---
 title: "Linlin Li"
 description: "Linlin Li is a Mid-career Soil Carbon researcher at Sichuan Agricultural University in CN. With 26 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.346492
+date: 2026-10-11T02:32:59.352410
 url: "/cdr-researcher-census/researchers/linlin-li-a5106483/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Ratoon rice with direct seeding improves soil carbon sequestration in rice fields and increases grain quality** (2022)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 2. **Waterlogging increases greenhouse gas release and decreases yield in winter rapeseed (Brassica napus L.) seedlings** (2023)
    15 citations
 
 3. **Intermittent irrigation as a solution for reduced emissions and increased yields in ratoon rice systems** (2024)
-   11 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 4. **Fungal necromass dominates soil organic carbon accrual after decadal active restoration of alpine grassland** (2026)
    0 citations

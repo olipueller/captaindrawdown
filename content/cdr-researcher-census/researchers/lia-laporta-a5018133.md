@@ -1,7 +1,7 @@
 ---
 title: "Lia Laporta"
 description: "Lia Laporta is a Mid-career Soil Carbon researcher at University of Trento in IT. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.389159
+date: 2026-10-11T02:33:00.425960
 url: "/cdr-researcher-census/researchers/lia-laporta-a5018133/"
 layout: "researcher"
 hiddenInHomeList: true

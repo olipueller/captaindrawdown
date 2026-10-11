@@ -1,7 +1,7 @@
 ---
 title: "Rita Cabello-Torres"
 description: "Rita Cabello-Torres is a Mid-career Biochar researcher at Universidad César Vallejo in PE. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.881226
+date: 2026-10-11T02:32:59.908685
 url: "/cdr-researcher-census/researchers/rita-cabello-torres-a5018302/"
 layout: "researcher"
 hiddenInHomeList: true

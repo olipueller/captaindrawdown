@@ -1,7 +1,7 @@
 ---
 title: "Paweena Dulyaseree"
 description: "Paweena Dulyaseree is a Mid-career Biochar researcher at Yala Rajabhat University in TH. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.861703
+date: 2026-10-11T02:32:59.888283
 url: "/cdr-researcher-census/researchers/paweena-dulyaseree-a5047327/"
 layout: "researcher"
 hiddenInHomeList: true

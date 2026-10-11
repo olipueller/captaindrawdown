@@ -1,7 +1,7 @@
 ---
 title: "Enas Ali"
 description: "Enas Ali is a Mid-career Biochar researcher at Chandigarh University in IN. With 28 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.356057
+date: 2026-10-11T02:32:59.362434
 url: "/cdr-researcher-census/researchers/enas-ali-a5109728/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synthesis of novel magnetic activated carbon for effective Cr(VI) removal via synergistic adsorption and chemical reduction** (2023)
-   79 citations · Biochar
+   80 citations · Biochar
 
 2. **Fabrication and characterization of magnetic eucalyptus carbon for efficient Cr(VI) removal in aqueous solution and its mechanisms** (2023)
    17 citations · Biochar

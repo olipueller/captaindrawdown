@@ -1,7 +1,7 @@
 ---
 title: "Serafeim Michas"
 description: "Serafeim Michas is a Mid-career BECCS researcher at University of Piraeus in GR. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.142068
+date: 2026-10-11T02:33:00.172378
 url: "/cdr-researcher-census/researchers/serafeim-michas-a5015276/"
 layout: "researcher"
 hiddenInHomeList: true

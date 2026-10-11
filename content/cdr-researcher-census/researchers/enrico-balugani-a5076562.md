@@ -1,7 +1,7 @@
 ---
 title: "Enrico Balugani"
 description: "Enrico Balugani is a Senior Soil Carbon researcher at Horta (Italy) in IT. With 73 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.443340
+date: 2026-10-11T02:32:59.453621
 url: "/cdr-researcher-census/researchers/enrico-balugani-a5076562/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Inclusion of biochar in a C dynamics model based on observations from an 8-year field experiment** (2022)
-   29 citations · Biochar
+   32 citations · Biochar
 
 2. **A Modified Version of RothC to Model the Direct and Indirect Effects of Rice Straw Mulching on Soil Carbon Dynamics, Calibrated in Two Valencian Citrus Orchards** (2024)
    11 citations · General CDR
@@ -62,20 +62,20 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **LTEP-Biochar** (2022)
    8 citations · Biochar
 
-5. **Use of soil respiration measurements and RothC modelling show effects of catch crops and precision and traditional agriculture on productivity and soil organic carbon dynamics in a 5 year study in Mediterranean climate** (2023)
+5. **LTEP-Biochar** (2022)
+   8 citations · Biochar
+
+6. **Use of soil respiration measurements and RothC modelling show effects of catch crops and precision and traditional agriculture on productivity and soil organic carbon dynamics in a 5 year study in Mediterranean climate** (2023)
    2 citations · Soil Carbon
 
-6. **A modified version of RothC to model the direct and indirect effects of rice straw mulching on soil carbon dynamics, calibrated in a Mediterranean citrus orchard** (2023)
+7. **A modified version of RothC to model the direct and indirect effects of rice straw mulching on soil carbon dynamics, calibrated in a Mediterranean citrus orchard** (2023)
    2 citations · General CDR
 
-7. **Inclusion of biochar in a C-dynamics model based on observations from a 8 years field experiment** (2021)
+8. **Inclusion of biochar in a C-dynamics model based on observations from a 8 years field experiment** (2021)
    2 citations · Biochar
 
-8. **Long Term Experiment Platform : proposition for a global site network and experience coordination for the study of agronomical and environmental effects of biochar** (2023)
+9. **Long Term Experiment Platform : proposition for a global site network and experience coordination for the study of agronomical and environmental effects of biochar** (2023)
    1 citations · Biochar
-
-9. **LTEP-Biochar** (2022)
-   0 citations · Biochar
 
 10. **Reply on RC1** (2024)
    0 citations · Soil Carbon

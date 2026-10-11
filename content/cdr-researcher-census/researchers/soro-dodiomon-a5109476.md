@@ -1,7 +1,7 @@
 ---
 title: "Soro Dodiomon"
 description: "Soro Dodiomon is a Mid-career Soil Carbon researcher at Université Nangui Abrogoua in CI. With 48 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.760039
+date: 2026-10-11T02:32:59.783020
 url: "/cdr-researcher-census/researchers/soro-dodiomon-a5109476/"
 layout: "researcher"
 hiddenInHomeList: true

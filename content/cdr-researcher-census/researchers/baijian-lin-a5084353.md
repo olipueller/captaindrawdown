@@ -1,7 +1,7 @@
 ---
 title: "Bai‐Jian Lin"
 description: "Bai‐Jian Lin is a Mid-career Soil Carbon researcher at Northeast Agricultural University in CN. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.442797
+date: 2026-10-11T02:32:59.453034
 url: "/cdr-researcher-census/researchers/baijian-lin-a5084353/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,25 +51,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Management‐induced changes in soil organic carbon and related crop yield dynamics in China's cropland** (2023)
-   106 citations · Soil Carbon
+   109 citations · Soil Carbon
 
 2. **Impacts of the components of conservation agriculture on soil organic carbon and total nitrogen storage: A global meta-analysis** (2022)
-   97 citations · Soil Carbon
+   101 citations · Soil Carbon
 
 3. **Optimizing the rate of straw returning to balance trade-offs between carbon emission budget and rice yield in China** (2024)
-   44 citations · Soil Carbon
+   45 citations · Soil Carbon
 
 4. **Enhancing soil ecosystem multifunctionality through combined conservation tillage and legume-based crop rotation in the North China Plain** (2024)
-   31 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 5. **Changes in cropland soil carbon through improved management practices in China: A meta-analysis** (2022)
-   29 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 6. **Improving soil organic carbon sequestration through conservation tillage incorporating legume-based crop rotations** (2025)
    12 citations · Soil Carbon
 
 7. **From growth to decline: The dynamic effects of maize-based cropping systems on soil organic carbon storage in Northeast China** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 8. **Straw conversion to soil organic carbon: A global quantitative synthesis using isotopic tracers and machine learning** (2026)
    0 citations

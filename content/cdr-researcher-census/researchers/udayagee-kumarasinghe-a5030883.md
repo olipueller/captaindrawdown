@@ -1,7 +1,7 @@
 ---
 title: "Udayagee Kumarasinghe"
 description: "Udayagee Kumarasinghe is a Mid-career Biochar researcher at University of Sri Jayewardenepura in LK. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.396892
+date: 2026-10-11T02:33:00.435157
 url: "/cdr-researcher-census/researchers/udayagee-kumarasinghe-a5030883/"
 layout: "researcher"
 hiddenInHomeList: true

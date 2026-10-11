@@ -1,7 +1,7 @@
 ---
 title: "Shuotong Chen"
 description: "Shuotong Chen is a Mid-career Soil Carbon researcher at Yangzhou University in CN. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.622114
+date: 2026-10-11T02:32:59.639918
 url: "/cdr-researcher-census/researchers/shuotong-chen-a5067941/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Pool complexity and molecular diversity shaped topsoil organic matter accumulation following decadal forest restoration in a karst terrain** (2022)
-   63 citations · Soil Carbon
+   64 citations · Soil Carbon
 
-2. **Amendment of crop residue in different forms shifted micro-pore system structure and potential functionality of macroaggregates while changed their mass proportion and carbon storage of paddy topsoil** (2021)
-   47 citations · Soil Carbon
+2. **Agroforestry increases soil carbon sequestration, especially in arid areas: A global meta-analysis** (2024)
+   51 citations · General CDR
 
-3. **Agroforestry increases soil carbon sequestration, especially in arid areas: A global meta-analysis** (2024)
-   45 citations · General CDR
+3. **Amendment of crop residue in different forms shifted micro-pore system structure and potential functionality of macroaggregates while changed their mass proportion and carbon storage of paddy topsoil** (2021)
+   49 citations · Soil Carbon
 
 4. **Amendment of straw biochar increased molecular diversity and enhanced preservation of plant derived organic matter in extracted fractions of a rice paddy** (2021)
    24 citations · Biochar
 
 5. **Long-term organic-inorganic fertilization promoted the microbial necromass carbon accumulation in particulate and mineral-associated organic matter fractions in paddy soil** (2025)
-   19 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 6. **Crop Residue Biochar Rather Than Manure and Straw Return Provided Short Term Synergism Among Grain Production, Carbon Sequestration, and Greenhouse Gas Emission Reduction in a Paddy Under Rice‐Wheat Rotation** (2024)
-   10 citations · Biochar
+   9 citations · Biochar
 
 7. **Long-term fertilization reshaped the accumulation of plant- and microbially-derived carbon by regulating biotic and abiotic factors in acidic paddy soil** (2024)
    9 citations · Soil Carbon

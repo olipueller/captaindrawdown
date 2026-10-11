@@ -1,7 +1,7 @@
 ---
 title: "Jie Zhou"
 description: "Jie Zhou is a Mid-career Soil Carbon researcher at Hubei University of Chinese Medicine in CN. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.639786
+date: 2026-10-11T02:32:59.658291
 url: "/cdr-researcher-census/researchers/jie-zhou-a5107006/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **High soil salinity reduces straw decomposition but primes soil organic carbon loss** (2025)
-   54 citations · Soil Carbon
+   60 citations · Soil Carbon
 
 2. **Divergent responses of particulate and mineral-associated organic carbon with soil depth under straw interlayer in saline-alkali soil** (2024)
-   37 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 3. **Bacterial necromass as the main source of organic matter in saline soils** (2024)
-   20 citations
+   21 citations
 
 4. **Subsurface application of organic ameliorant in saline soils increases microbial necromass accumulation in mineral-associated organic matter** (2025)
    9 citations · Soil Carbon
 
-5. **Trade-off between organic and inorganic carbon in soils under alfalfa-grass-cropland rotation** (2025)
-   1 citations · Soil Carbon
+5. **Subsurface organic ameliorant is beneficial in reducing inorganic carbon loss and improving carbon sequestration in saline soils** (2025)
+   2 citations · Soil Carbon
 
-6. **Subsurface organic ameliorant is beneficial in reducing inorganic carbon loss and improving carbon sequestration in saline soils** (2025)
-   0 citations · Soil Carbon
+6. **Trade-off between organic and inorganic carbon in soils under alfalfa-grass-cropland rotation** (2025)
+   1 citations · Soil Carbon
 
 ## External Profiles
 

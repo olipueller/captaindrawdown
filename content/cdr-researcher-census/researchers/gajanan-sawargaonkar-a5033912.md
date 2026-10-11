@@ -1,7 +1,7 @@
 ---
 title: "Gajanan Sawargaonkar"
 description: "Gajanan Sawargaonkar is a Mid-career Soil Carbon researcher at International Crops Research Institute for the Semi-Arid Tropics in IN. With 68 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.504101
+date: 2026-10-11T02:32:59.516695
 url: "/cdr-researcher-census/researchers/gajanan-sawargaonkar-a5033912/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Harnessing the potential of pigeonpea and maize feedstock biochar for carbon sequestration, energy generation, and environmental sustainability** (2024)
-   34 citations
+   37 citations
 
 2. **Comparative Analysis of Pigeonpea Stalk Biochar Characteristics and Energy Use under Different Biochar Production Methods** (2023)
-   17 citations · Biochar
+   18 citations · Biochar
 
 3. **Leveraging genotype × management synergies to enhance pigeonpea productivity, profitability, and sustainability in semi-arid tropics** (2025)
    5 citations · Soil Carbon

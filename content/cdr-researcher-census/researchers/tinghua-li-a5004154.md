@@ -1,7 +1,7 @@
 ---
 title: "Tinghua Li"
 description: "Tinghua Li is a Senior Soil Carbon researcher at Guangxi Academy of Agricultural Science in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.946644
+date: 2026-10-11T02:32:59.976760
 url: "/cdr-researcher-census/researchers/tinghua-li-a5004154/"
 layout: "researcher"
 hiddenInHomeList: true

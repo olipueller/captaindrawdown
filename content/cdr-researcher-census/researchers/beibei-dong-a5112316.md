@@ -1,7 +1,7 @@
 ---
 title: "Beibei Dong"
 description: "Beibei Dong is a Senior BECCS researcher at Xi'an University of Science and Technology in CN. With 36 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.332806
+date: 2026-10-11T02:33:00.366838
 url: "/cdr-researcher-census/researchers/beibei-dong-a5112316/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Technology selection for capturing CO2 from wood pyrolysis** (2022)
-   20 citations · BECCS
+   19 citations · BECCS
 
 2. **Negative emission potential from biomass/waste combined heat and power plants integrated with CO2 capture: An approach from the national perspective** (2024)
-   10 citations · BECCS
+   11 citations · BECCS
 
 3. **Selecting proper technologies for capturing CO2 from bioenergy conversion** (2025)
    4 citations · BECCS

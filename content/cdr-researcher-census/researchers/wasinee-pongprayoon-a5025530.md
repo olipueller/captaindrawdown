@@ -1,7 +1,7 @@
 ---
 title: "Wasinee Pongprayoon"
 description: "Wasinee Pongprayoon is a Mid-career DAC researcher at Burapha University in TH. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.645477
+date: 2026-10-11T02:32:59.664165
 url: "/cdr-researcher-census/researchers/wasinee-pongprayoon-a5025530/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Victoria Alcock"
 description: "Victoria Alcock is a Mid-career Enhanced Weathering researcher at British Antarctic Survey in GB. With 6 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.316908
+date: 2026-10-11T02:33:00.347987
 url: "/cdr-researcher-census/researchers/victoria-alcock-a5081271/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 ## Top CDR Publications
 
-1. **River dissolved inorganic carbon losses from the Andes to lowland Amazon via cryptic sedimentary exchange processes** (2026)
-   0 citations · Enhanced Weathering
+1. **Rhenium isotopes reveal enhanced rock organic carbon oxidation over the Toarcian Oceanic Anoxic Event** (2026)
+   1 citations
 
-2. **Rhenium isotopes reveal enhanced rock organic carbon oxidation over the Toarcian Oceanic Anoxic Event** (2026)
-   0 citations
+2. **River dissolved inorganic carbon losses from the Andes to lowland Amazon via cryptic sedimentary exchange processes** (2026)
+   0 citations · Enhanced Weathering
 
 ## External Profiles
 

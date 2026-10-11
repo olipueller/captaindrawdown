@@ -1,7 +1,7 @@
 ---
 title: "Zengrun Xie"
 description: "Zengrun Xie is a Mid-career Biochar researcher at China University of Petroleum, East China in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.228882
+date: 2026-10-11T02:33:00.259177
 url: "/cdr-researcher-census/researchers/zengrun-xie-a5025571/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    47 citations · Biochar
 
 2. **Mechanism and application of enhanced degradation of phenol through peroxymonosulfate activation by sulfur-doped biochar prepared with sodium thiosulfate as activator and sulfur dopant** (2024)
-   21 citations · Biochar
+   22 citations · Biochar
 
 3. **Mo and N Co-Doped Iron Biochar Materials Activating Peroxymonosulfate for Enhanced Degradation of Bisphenol a: Mechanism Discussion and Practical Application** (2023)
    0 citations · Biochar

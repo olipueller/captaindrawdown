@@ -1,7 +1,7 @@
 ---
 title: "Christina‐Luise Roß"
 description: "Christina‐Luise Roß is a Mid-career Soil Carbon researcher. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.709285
+date: 2026-10-11T02:32:59.729912
 url: "/cdr-researcher-census/researchers/christinaluise-ro-a5087857/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Organic Manure Increases Carbon Sequestration Far beyond the “4 per 1000 Initiative” Goal on a Sandy Soil in the Thyrow Long-Term Field Experiment DIV.2** (2022)
-   31 citations · General CDR
+   30 citations · General CDR
 
 ## External Profiles
 

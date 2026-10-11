@@ -1,7 +1,7 @@
 ---
 title: "Luisina Carbonell‐Silletta"
 description: "Luisina Carbonell‐Silletta is a Mid-career Soil Carbon researcher at National University of Patagonia San Juan Bosco in AR. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.183210
+date: 2026-10-11T02:33:00.212979
 url: "/cdr-researcher-census/researchers/luisina-carbonellsilletta-a5061312/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Laura Rotilio"
 description: "Laura Rotilio is a Mid-career General CDR researcher at Technical University of Denmark in DK. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.055295
+date: 2026-10-11T02:33:00.085823
 url: "/cdr-researcher-census/researchers/laura-rotilio-a5051898/"
 layout: "researcher"
 hiddenInHomeList: true

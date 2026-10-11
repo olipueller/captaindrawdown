@@ -1,7 +1,7 @@
 ---
 title: "Abhisek Sasmal"
 description: "Abhisek Sasmal is a Senior Biochar researcher at Odisha University of Agriculture and Technology in IN. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.380612
+date: 2026-10-11T02:32:59.388242
 url: "/cdr-researcher-census/researchers/abhisek-sasmal-a5075948/"
 layout: "researcher"
 hiddenInHomeList: true

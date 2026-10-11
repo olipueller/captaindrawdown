@@ -1,7 +1,7 @@
 ---
 title: "Quyun Chen"
 description: "Quyun Chen is an Early-career Biochar researcher at Sichuan University in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.361239
+date: 2026-10-11T02:33:00.396875
 url: "/cdr-researcher-census/researchers/quyun-chen-a5018299/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **KMnO4-activated spinach waste biochar: An efficient adsorbent for adsorption of heavy metal ions in aqueous solution** (2024)
-   48 citations · Biochar
+   50 citations · Biochar
 
 ## External Profiles
 

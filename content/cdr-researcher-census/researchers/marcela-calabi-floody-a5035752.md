@@ -1,7 +1,7 @@
 ---
 title: "Marcela Calabi-Floody"
 description: "Marcela Calabi-Floody is a Senior Soil Carbon researcher at Universidad de La Frontera in CL. With 31 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.251751
+date: 2026-10-11T02:32:59.255639
 url: "/cdr-researcher-census/researchers/marcela-calabi-floody-a5035752/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shruti Singla"
 description: "Shruti Singla is a Mid-career Biochar researcher at University of Cambridge in GB. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.968975
+date: 2026-10-11T02:33:00.000371
 url: "/cdr-researcher-census/researchers/shruti-singla-a5080688/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Predicting biochar yield from biomass pyrolysis: A comprehensive data-driven approach using machine learning and SHAP analysis** (2025)
-   28 citations · Biochar
+   32 citations · Biochar
 
 ## External Profiles
 

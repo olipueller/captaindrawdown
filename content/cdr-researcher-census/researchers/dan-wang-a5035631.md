@@ -1,7 +1,7 @@
 ---
 title: "Dan Wang"
 description: "Dan Wang is a Mid-career Enhanced Weathering researcher at Hebei GEO University in CN. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.276111
+date: 2026-10-11T02:32:59.280438
 url: "/cdr-researcher-census/researchers/dan-wang-a5035631/"
 layout: "researcher"
 hiddenInHomeList: true

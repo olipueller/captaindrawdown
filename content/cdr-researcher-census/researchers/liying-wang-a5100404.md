@@ -1,7 +1,7 @@
 ---
 title: "Liying Wang"
 description: "Liying Wang is a Senior Soil Carbon researcher at Institute of Special Animal and Plant Sciences,   Chinese Academy of Agricultural Sciences in CN. With 57 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.286568
+date: 2026-10-11T02:32:59.291319
 url: "/cdr-researcher-census/researchers/liying-wang-a5100404/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -58,6 +58,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 3. **Long-term organic amendments accelerate straw decomposition via specialized microbial enrichment in greenhouse vegetable soils** (2026)
    3 citations · Soil Carbon
+
+4. **Plastic shed horticulture can sequestrate more than expected soil organic carbon** (2026)
+   0 citations
 
 ## External Profiles
 

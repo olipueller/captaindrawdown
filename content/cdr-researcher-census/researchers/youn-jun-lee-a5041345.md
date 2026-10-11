@@ -1,7 +1,7 @@
 ---
 title: "Youn-Jun Lee"
 description: "Youn-Jun Lee is a Mid-career Biochar researcher at Hanyang University in KR. With 41 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.370442
+date: 2026-10-11T02:32:59.377752
 url: "/cdr-researcher-census/researchers/youn-jun-lee-a5041345/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Co-catalyzed boudouard reaction-derived biochar for enhanced persulfate activation** (2026)
-   2 citations · Biochar
+   3 citations · Biochar
 
-2. **CO2-assisted pyrolysis of Mn-loaded biomass for syngas generation and periodate-activating biochar production** (2026)
+2. **Sustainable valorization of chili pepper stems into biochar for cadmium removal from real zinc smelter wastewater: Adsorption mechanism and optimization study** (2026)
+   1 citations · Biochar
+
+3. **CO2-assisted pyrolysis of Mn-loaded biomass for syngas generation and periodate-activating biochar production** (2026)
    0 citations · Biochar
 
-3. **Sustainable synthesis of mesoporous carbon for organic pollutant removal via integrated adsorption and persulfate activation** (2026)
+4. **Sustainable synthesis of mesoporous carbon for organic pollutant removal via integrated adsorption and persulfate activation** (2026)
    0 citations
-
-4. **Sustainable valorization of chili pepper stems into biochar for cadmium removal from real zinc smelter wastewater: Adsorption mechanism and optimization study** (2026)
-   0 citations · Biochar
 
 ## External Profiles
 

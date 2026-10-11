@@ -1,7 +1,7 @@
 ---
 title: "R. C. Sanwal"
 description: "R. C. Sanwal is a Mid-career Biochar researcher at Swami Keshwanand Rajasthan Agricultural University in IN. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.283239
+date: 2026-10-11T02:33:00.313600
 url: "/cdr-researcher-census/researchers/r-c-sanwal-a5109539/"
 layout: "researcher"
 hiddenInHomeList: true

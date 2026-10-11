@@ -1,7 +1,7 @@
 ---
 title: "Jacqueline Hiddlestone‐Mumford"
 description: "Jacqueline Hiddlestone‐Mumford is a Mid-career Biochar researcher at Ducere Global Business School in AU. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.813933
+date: 2026-10-11T02:32:59.838749
 url: "/cdr-researcher-census/researchers/jacqueline-hiddlestonemumford-a5078655/"
 layout: "researcher"
 hiddenInHomeList: true

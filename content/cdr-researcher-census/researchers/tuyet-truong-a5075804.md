@@ -1,7 +1,7 @@
 ---
 title: "Tuyet Truong"
 description: "Tuyet Truong is a Mid-career Soil Carbon researcher at Thai Nguyen University of Agriculture and Forestry in VN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.383845
+date: 2026-10-11T02:33:00.419948
 url: "/cdr-researcher-census/researchers/tuyet-truong-a5075804/"
 layout: "researcher"
 hiddenInHomeList: true

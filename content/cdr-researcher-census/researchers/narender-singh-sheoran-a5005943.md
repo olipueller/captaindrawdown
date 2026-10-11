@@ -1,7 +1,7 @@
 ---
 title: "Narender Singh Sheoran"
 description: "Narender Singh Sheoran is an Early-career Soil Carbon researcher at Kurukshetra University in IN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.398930
+date: 2026-10-11T02:33:00.436987
 url: "/cdr-researcher-census/researchers/narender-singh-sheoran-a5005943/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon sequestration potential and CO2 fluxes in a tropical forest ecosystem** (2022)
-   97 citations · Soil Carbon
+   100 citations · Soil Carbon
 
 ## External Profiles
 

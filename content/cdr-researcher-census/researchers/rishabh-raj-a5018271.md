@@ -1,7 +1,7 @@
 ---
 title: "Rishabh Raj"
 description: "Rishabh Raj is a Mid-career Biochar researcher at Luleå tekniska universitet in SE. With 39 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.398988
+date: 2026-10-11T02:32:59.408111
 url: "/cdr-researcher-census/researchers/rishabh-raj-a5018271/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **High specific surface area graphene-like biochar for green microbial electrosynthesis of hydrogen peroxide and Bisphenol A oxidation at neutral pH** (2025)
-   28 citations · Biochar
+   29 citations · Biochar
 
 2. **Application of a novel photosynthetic microbial fuel cell employing carbonized bamboo monolith as cathode coated with agro-waste biochar to improve overall performance efficacy** (2025)
-   13 citations · Biochar
+   14 citations · Biochar
 
 3. **Sewage sludge biochar derived binder-free electrode for electrochemical advanced oxidation treatment** (2025)
    7 citations · Biochar

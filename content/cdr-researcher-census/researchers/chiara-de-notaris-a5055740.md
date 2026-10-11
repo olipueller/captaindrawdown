@@ -1,7 +1,7 @@
 ---
 title: "Chiara De Notaris"
 description: "Chiara De Notaris is a Mid-career Soil Carbon researcher at Centro Euro-Mediterraneo sui Cambiamenti Climatici in IT. With 69 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.252390
+date: 2026-10-11T02:32:59.256373
 url: "/cdr-researcher-census/researchers/chiara-de-notaris-a5055740/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A review and meta-analysis of mitigation measures for nitrous oxide emissions from crop residues** (2022)
-   129 citations · Soil Carbon
+   132 citations · Soil Carbon
 
 2. **Cover crop biomass production as a predictor of nitrogen fertilizer replacement value - legumes secure positive effects** (2024)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 3. **Nitrogen sustainability and soil carbon sequestration in fresh grain legume-based rotations: The vital role of the cover crop mixture** (2026)
    2 citations · Soil Carbon

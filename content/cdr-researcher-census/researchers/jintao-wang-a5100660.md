@@ -1,7 +1,7 @@
 ---
 title: "Jintao Wang"
 description: "Jintao Wang is a Senior Soil Carbon researcher at Shandong University in CN. With 40 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.392919
+date: 2026-10-11T02:32:59.401179
 url: "/cdr-researcher-census/researchers/jintao-wang-a5100660/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term saline water irrigation decreased soil organic carbon and inorganic carbon contents** (2022)
-   52 citations · Soil Carbon
+   53 citations · Soil Carbon
 
 2. **Biochar promoted halophyte growth and enhanced soil carbon stock in a coastal salt-affected soil** (2024)
    8 citations · Biochar

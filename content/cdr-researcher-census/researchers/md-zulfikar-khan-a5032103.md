@@ -1,7 +1,7 @@
 ---
 title: "Md. Zulfikar Khan"
 description: "Md. Zulfikar Khan is a Mid-career Soil Carbon researcher at University of Jyväskylä in BD. With 50 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.369865
+date: 2026-10-11T02:32:59.377134
 url: "/cdr-researcher-census/researchers/md-zulfikar-khan-a5032103/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Dynamics of soil organic carbon and total nitrogen in particulate and mineral-associated organic matter fractions under different continuous land use patterns across Europe** (2024)
-   39 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 2. **Although invisible, fungi are recognized as the engines of a microbial powerhouse that drives soil ecosystem services** (2025)
-   12 citations
+   14 citations
 
 3. **Dynamics of soil carbon stock in response to land use conversion in European woodland and shrubland in the last decade** (2025)
    1 citations · Soil Carbon

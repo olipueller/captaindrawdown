@@ -1,7 +1,7 @@
 ---
 title: "Silvina Beatriz Restovich"
 description: "Silvina Beatriz Restovich is a Mid-career Soil Carbon researcher at Instituto Nacional de Tecnologia in BR. With 35 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.445299
+date: 2026-10-11T02:32:59.455812
 url: "/cdr-researcher-census/researchers/silvina-beatriz-restovich-a5073566/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -55,6 +55,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 2. **TRUESOIL Project: Understanding Trade-offs and Dynamic Interactions between SOC Stocks and GHG Emissions for Climate Smart Agrisoil Management** (2023)
    0 citations · General CDR
+
+3. **Roots are the Key for Soil C Restoration: A Comparison of Land Management in the Semiarid Argentinean Pampa** (2022)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

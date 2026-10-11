@@ -1,7 +1,7 @@
 ---
 title: "Elliott Johnson"
 description: "Elliott Johnson is an Early-career General CDR researcher at University of Leeds in GB. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.371640
+date: 2026-10-11T02:33:00.407214
 url: "/cdr-researcher-census/researchers/elliott-johnson-a5101868/"
 layout: "researcher"
 hiddenInHomeList: true

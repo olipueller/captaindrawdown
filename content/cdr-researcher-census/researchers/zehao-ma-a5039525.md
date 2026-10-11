@@ -1,7 +1,7 @@
 ---
 title: "Zehao Ma"
 description: "Zehao Ma is a Mid-career Biochar researcher at Northwestern Polytechnical University in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.130150
+date: 2026-10-11T02:33:00.160571
 url: "/cdr-researcher-census/researchers/zehao-ma-a5039525/"
 layout: "researcher"
 hiddenInHomeList: true

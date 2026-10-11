@@ -1,7 +1,7 @@
 ---
 title: "Kailash Prajapat"
 description: "Kailash Prajapat is a Senior Soil Carbon researcher at Indian Council of Agricultural Research in IN. With 81 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.350412
+date: 2026-10-11T02:32:59.356587
 url: "/cdr-researcher-census/researchers/kailash-prajapat-a5005871/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    30 citations · Soil Carbon
 
 2. **Fourteen-years impact of crop establishment, tillage and residue management on carbon input, soil carbon sequestration, crop productivity and profitability of rice-wheat system** (2024)
-   11 citations · General CDR
+   12 citations · General CDR
 
 3. **Sub-surface drainage: A win-win technology for achieving carbon neutrality and land amelioration in salt-affected Vertisols of India** (2023)
    7 citations · Soil Carbon

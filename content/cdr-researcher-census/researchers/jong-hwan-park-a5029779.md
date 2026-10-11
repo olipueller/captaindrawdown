@@ -1,7 +1,7 @@
 ---
 title: "Jong-Hwan Park"
 description: "Jong-Hwan Park is a Mid-career Biochar researcher at Dong-A University in KR. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.349844
+date: 2026-10-11T02:33:00.384798
 url: "/cdr-researcher-census/researchers/jong-hwan-park-a5029779/"
 layout: "researcher"
 hiddenInHomeList: true

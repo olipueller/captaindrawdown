@@ -1,7 +1,7 @@
 ---
 title: "Mohamed Salah Halati"
 description: "Mohamed Salah Halati is a Mid-career Biochar researcher at University of Biskra in DZ. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.150768
+date: 2026-10-11T02:33:00.180614
 url: "/cdr-researcher-census/researchers/mohamed-salah-halati-a5061102/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Kinetic and isothermal insights on phenol removal via biochar from vicia Faba stems** (2025)
-   7 citations · Biochar
+   8 citations · Biochar
 
 ## External Profiles
 

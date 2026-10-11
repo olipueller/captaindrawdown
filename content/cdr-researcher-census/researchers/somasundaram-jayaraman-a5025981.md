@@ -1,7 +1,7 @@
 ---
 title: "Somasundaram Jayaraman"
 description: "Somasundaram Jayaraman is a Senior Soil Carbon researcher at ICAR-Indian Institute of Soil and Water Conservation, Dehradun, India in IN. With 73 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.122443
+date: 2026-10-11T02:32:59.127054
 url: "/cdr-researcher-census/researchers/somasundaram-jayaraman-a5025981/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil Inorganic Carbon as a Potential Sink in Carbon Storage in Dryland Soils—A Review** (2022)
-   145 citations · Soil Carbon
+   146 citations · Soil Carbon
 
 2. **Nature‐based solutions in soil restoration for improving agricultural productivity** (2022)
-   65 citations · Soil Carbon
+   69 citations · Soil Carbon
 
 3. **No-till farming: prospects, challenges – productivity, soil health, and ecosystem services** (2022)
    24 citations · Soil Carbon
@@ -66,7 +66,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 6. **Soil Carbon Sequestration and Agronomic Productivity as Influenced by the Long-Term Organic and Inorganic Fertilisation Under the Upland Rice–Wheat System in Vertisols of Central India** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 7. **Soil Organic Carbon Sequestration and Turnover in Semi-Arid Tropics and Subtropics in Relation to Agronomic Yield and Sustainability** (2021)
    3 citations · Soil Carbon

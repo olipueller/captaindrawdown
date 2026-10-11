@@ -1,7 +1,7 @@
 ---
 title: "Zihui Zhang"
 description: "Zihui Zhang is a Senior Soil Carbon researcher at Shanxi Agricultural University in CN. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.164666
+date: 2026-10-11T02:33:00.194745
 url: "/cdr-researcher-census/researchers/zihui-zhang-a5102008/"
 layout: "researcher"
 hiddenInHomeList: true

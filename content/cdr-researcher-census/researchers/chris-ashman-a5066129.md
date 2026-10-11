@@ -1,7 +1,7 @@
 ---
 title: "Chris Ashman"
 description: "Chris Ashman is a Mid-career BECCS researcher at Aberystwyth University in GB. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.454000
+date: 2026-10-11T02:32:59.465008
 url: "/cdr-researcher-census/researchers/chris-ashman-a5066129/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,13 +50,16 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 
 ## Top CDR Publications
 
-1. **Novel Miscanthus hybrids: Modelling productivity on marginal land in Europe using dynamics of canopy development determined by light interception** (2023)
-   19 citations · BECCS
+1. **Perennial biomass cropping and use: Shaping the policy ecosystem in European countries** (2023)
+   56 citations · BECCS
 
-2. **Early impacts of marginal land‐use transition to<i>Miscanthus</i>on soil quality and soil carbon storage across Europe** (2024)
+2. **Novel Miscanthus hybrids: Modelling productivity on marginal land in Europe using dynamics of canopy development determined by light interception** (2023)
+   20 citations · BECCS
+
+3. **Early impacts of marginal land‐use transition to<i>Miscanthus</i>on soil quality and soil carbon storage across Europe** (2024)
    8 citations · Soil Carbon
 
-3. **Comparing miscanthus hybrids &amp;#8211; growth and environmental impacts** (2022)
+4. **Comparing miscanthus hybrids &amp;#8211; growth and environmental impacts** (2022)
    0 citations · BECCS
 
 ## External Profiles

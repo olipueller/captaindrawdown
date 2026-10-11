@@ -1,7 +1,7 @@
 ---
 title: "Ariel E. Turcios"
 description: "Ariel E. Turcios is a Mid-career Biochar researcher at Federal Institute for Risk Assessment in DE. With 30 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.288607
+date: 2026-10-11T02:32:59.292919
 url: "/cdr-researcher-census/researchers/ariel-e-turcios-a5035356/"
 layout: "researcher"
 hiddenInHomeList: true

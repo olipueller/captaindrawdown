@@ -1,7 +1,7 @@
 ---
 title: "Luyao Yu"
 description: "Luyao Yu is a Mid-career Biochar researcher at Dalian University of Technology in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.545301
+date: 2026-10-11T02:32:59.560322
 url: "/cdr-researcher-census/researchers/luyao-yu-a5060072/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Selenium-Modified Biochar Synergistically Achieves the Safe Use of Selenium and the Inhibition of Heavy Metal Cadmium** (2025)
-   4 citations · Biochar
+   5 citations · Biochar
 
 ## External Profiles
 

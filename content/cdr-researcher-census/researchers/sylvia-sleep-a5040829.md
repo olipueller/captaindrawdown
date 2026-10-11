@@ -1,7 +1,7 @@
 ---
 title: "Sylvia Sleep"
 description: "Sylvia Sleep is a Mid-career General CDR researcher at University of Calgary in CA. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.464267
+date: 2026-10-11T02:32:59.475483
 url: "/cdr-researcher-census/researchers/sylvia-sleep-a5040829/"
 layout: "researcher"
 hiddenInHomeList: true

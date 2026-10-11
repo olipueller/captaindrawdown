@@ -1,7 +1,7 @@
 ---
 title: "Alson Time"
 description: "Alson Time is a Mid-career Soil Carbon researcher at University of Illinois Urbana-Champaign in US. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.704052
+date: 2026-10-11T02:32:59.724311
 url: "/cdr-researcher-census/researchers/alson-time-a5075572/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Conservation agrivoltaics for sustainable food‐energy production** (2024)
-   38 citations · General CDR
+   41 citations · General CDR
 
 2. **Assessing the Impact of Agrivoltaics on Water, Energy, and Carbon Cycles Using the Community Land Model Version 5** (2026)
-   7 citations · General CDR
+   8 citations · General CDR
 
 ## External Profiles
 

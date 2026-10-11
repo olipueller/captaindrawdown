@@ -1,7 +1,7 @@
 ---
 title: "P. Dinesha"
 description: "P. Dinesha is a Senior General CDR researcher at Manipal Institute of Technology in IN. With 86 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.096531
+date: 2026-10-11T02:32:59.101103
 url: "/cdr-researcher-census/researchers/p-dinesha-a5024519/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,24 +51,27 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **CO2 capture by adsorption on biomass-derived activated char: A review** (2021)
-   209 citations · Biochar
+   215 citations · Biochar
 
-2. **Ecosystem carbon budgeting under Swietenia macrophylla King plantation in sub humid foothills of Eastern Himalayans of India** (2023)
+2. **Prioritizing Tree-Based Systems for Optimizing Carbon Sink in the Indian Sub-Himalayan Region** (2023)
+   9 citations
+
+3. **Ecosystem carbon budgeting under Swietenia macrophylla King plantation in sub humid foothills of Eastern Himalayans of India** (2023)
    7 citations · General CDR
 
-3. **Prioritizing Tree Based Land Management Options for Optimizing Carbon Sink in the Indian sub-Himalayan Region** (2023)
+4. **Prioritizing Tree Based Land Management Options for Optimizing Carbon Sink in the Indian sub-Himalayan Region** (2023)
    4 citations · General CDR
 
-4. **Effect of eco-friendly nano additive with green fuel on performance and emissions of a compression ignition engine** (2023)
+5. **Effect of eco-friendly nano additive with green fuel on performance and emissions of a compression ignition engine** (2023)
    3 citations
 
-5. **Menace of Plant Invasion: A View from Ecological Lens** (2023)
+6. **Menace of Plant Invasion: A View from Ecological Lens** (2023)
    2 citations
 
-6. **Challenges and Opportunities for Soil Carbon Sequestration** (2024)
+7. **Challenges and Opportunities for Soil Carbon Sequestration** (2024)
    1 citations · General CDR
 
-7. **Nanomaterials for Soil Carbon Sequestration: Implications in Agroforestry** (2025)
+8. **Nanomaterials for Soil Carbon Sequestration: Implications in Agroforestry** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

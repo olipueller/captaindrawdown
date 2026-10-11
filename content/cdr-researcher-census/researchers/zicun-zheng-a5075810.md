@@ -1,7 +1,7 @@
 ---
 title: "Zicun Zheng"
 description: "Zicun Zheng is an Early-career Soil Carbon researcher at PowerChina (China) in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.383024
+date: 2026-10-11T02:33:00.418993
 url: "/cdr-researcher-census/researchers/zicun-zheng-a5075810/"
 layout: "researcher"
 hiddenInHomeList: true

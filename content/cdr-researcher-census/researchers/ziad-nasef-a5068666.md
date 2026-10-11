@@ -1,7 +1,7 @@
 ---
 title: "Ziad Nasef"
 description: "Ziad Nasef is an Early-career Biochar researcher at University of California, Merced in US. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.291809
+date: 2026-10-11T02:33:00.322076
 url: "/cdr-researcher-census/researchers/ziad-nasef-a5068666/"
 layout: "researcher"
 hiddenInHomeList: true

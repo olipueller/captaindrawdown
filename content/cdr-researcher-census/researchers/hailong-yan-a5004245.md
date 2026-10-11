@@ -1,7 +1,7 @@
 ---
 title: "Hailong Yan"
 description: "Hailong Yan is a Mid-career Biochar researcher at Wind Power Engineering (Japan) in JP. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.417224
+date: 2026-10-11T02:32:59.427126
 url: "/cdr-researcher-census/researchers/hailong-yan-a5004245/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Insights into influences of bamboo biochar on nitrous oxide emission and diazotrophs during cow manure and bagasse composting** (2022)
-   8 citations · Biochar
+   9 citations · Biochar
 
 ## External Profiles
 

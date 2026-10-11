@@ -1,7 +1,7 @@
 ---
 title: "Xiao Zhao"
 description: "Xiao Zhao is a Senior Biochar researcher at North China University of Water Resources and Electric Power in CN. With 60 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.403346
+date: 2026-10-11T02:32:59.412320
 url: "/cdr-researcher-census/researchers/xiao-zhao-a5070192/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Waste rice straw biochar recycled concrete: Carbon sequestration, durability and microstructure** (2025)
-   24 citations · Biochar
+   26 citations · Biochar
 
 2. **Valorization of waste rice straw biochar and fly ash in recycled concrete: Synergistic enhancement of carbon sequestration and mechanical performance** (2025)
    3 citations · Biochar

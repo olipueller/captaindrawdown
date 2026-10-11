@@ -1,7 +1,7 @@
 ---
 title: "Anuj Joshi"
 description: "Anuj Joshi is a Mid-career General CDR researcher at The Ohio State University in US. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.601292
+date: 2026-10-11T02:32:59.618501
 url: "/cdr-researcher-census/researchers/anuj-joshi-a5033045/"
 layout: "researcher"
 hiddenInHomeList: true

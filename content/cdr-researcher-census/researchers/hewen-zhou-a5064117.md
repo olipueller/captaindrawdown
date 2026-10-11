@@ -1,7 +1,7 @@
 ---
 title: "Hewen Zhou"
 description: "Hewen Zhou is a Mid-career BECCS researcher at Harvard University in US. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.199089
+date: 2026-10-11T02:32:59.203038
 url: "/cdr-researcher-census/researchers/hewen-zhou-a5064117/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Prospective contributions of biomass pyrolysis to China’s 2050 carbon reduction and renewable energy goals** (2021)
-   393 citations · BECCS
+   402 citations · BECCS
 
 2. **Integrated production of methanol and biochar from bagasse and plastic waste: A three-in-one solution for carbon sequestration, bioenergy production, and waste valorization** (2024)
-   19 citations
+   20 citations
 
 3. **Life cycle assessment of the environmental sustainability of biomass pyrolysis polygeneration with a High-Aspect-Ratio reactor** (2025)
    5 citations · BECCS

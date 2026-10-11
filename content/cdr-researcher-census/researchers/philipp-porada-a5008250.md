@@ -1,7 +1,7 @@
 ---
 title: "Philipp Porada"
 description: "Philipp Porada is a Senior Soil Carbon researcher at Universität Hamburg in DE. With 119 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.115307
+date: 2026-10-11T02:32:59.120070
 url: "/cdr-researcher-census/researchers/philipp-porada-a5008250/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A dynamic local-scale vegetation model for lycopsids (LYCOm v1.0)** (2022)
-   4 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 2. **Long-term carbon dioxide removal potential from the application of wood biochar and basanite rock powder in sandy soil using the LiDELSv2 process-based modeling approach** (2025)
    3 citations · Biochar
 
 3. **Soil and vegetation responses to biochar application in terms of its feedback on carbon sequestration under different environmental conditions—LiDELS model overview** (2025)
-   2 citations · Biochar
+   3 citations · Biochar
 
 4. **A dynamic local scale vegetation model for lycophytes (LYCOm)** (2021)
    2 citations · Soil Carbon
@@ -65,19 +65,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Good days, bad days: weather patterns driving bryophyte carbon-exchange dynamics in tropical rainforest canopies** (2025)
    1 citations
 
-6. **Potential of combining biochar and enhanced weathering and impacts on soil organic carbon and biomass: PyMiCCS project results** (2026)
+6. **Quantifying aggregation bias in marsh carbon flux estimates caused by rhizosphere oxygen heterogeneity** (2026)
+   0 citations
+
+7. **Potential of combining biochar and enhanced weathering and impacts on soil organic carbon and biomass: PyMiCCS project results** (2026)
    0 citations · Biochar
 
-7. **Carbon dioxide removal through biochar and enhanced weathering: towards a scalable process-based modelling approach** (2026)
+8. **Carbon dioxide removal through biochar and enhanced weathering: towards a scalable process-based modelling approach** (2026)
    0 citations · Biochar
 
-8. **Soil and vegetation responses to biochar application in terms of its feedback on carbon sequestration under different environmental conditions &amp;#8211; LiDELS model overview** (2025)
+9. **Soil and vegetation responses to biochar application in terms of its feedback on carbon sequestration under different environmental conditions &amp;#8211; LiDELS model overview** (2025)
    0 citations · Biochar
 
-9. **Exploring effects of variation in plant root traits on carbon emissions from estuarine marshes** (2024)
-   0 citations · Soil Carbon
-
-10. **Towards a Comprehensive Understanding: Unveiling the Impact of Trait Variation on Plant-Microbe Interactions in Estuarine Marsh Carbon Cycling Models** (2024)
+10. **Exploring effects of variation in plant root traits on carbon emissions from estuarine marshes** (2024)
    0 citations · Soil Carbon
 
 ## External Profiles

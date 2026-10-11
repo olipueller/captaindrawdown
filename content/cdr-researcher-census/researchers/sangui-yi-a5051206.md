@@ -1,7 +1,7 @@
 ---
 title: "Sangui Yi"
 description: "Sangui Yi is a Mid-career Soil Carbon researcher at Affiliated Hospital of Youjiang Medical University for Nationalities in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.363100
+date: 2026-10-11T02:33:00.398919
 url: "/cdr-researcher-census/researchers/sangui-yi-a5051206/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Afforestation species and slope as key drivers of soil carbon sequestration in plantations of the tropical-subtropical transition zone: a case study from Xishuangbanna, Southwest China** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 ## External Profiles
 

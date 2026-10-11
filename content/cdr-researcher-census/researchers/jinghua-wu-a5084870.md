@@ -1,7 +1,7 @@
 ---
 title: "Jinghua Wu"
 description: "Jinghua Wu is a Mid-career Biochar researcher at Zhaoqing University in CN. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.573995
+date: 2026-10-11T02:32:59.589679
 url: "/cdr-researcher-census/researchers/jinghua-wu-a5084870/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    13 citations · Soil Carbon
 
 2. **Enhanced carbon retention in Litchi biochar via in-situ limewater coating and self-limited oxygen pyrolysis regulated by water-fire interaction** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

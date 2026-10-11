@@ -1,7 +1,7 @@
 ---
 title: "Anna Neubeck"
 description: "Anna Neubeck is a Senior Enhanced Weathering researcher at Uppsala University in SE. With 103 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.182543
+date: 2026-10-11T02:32:59.186657
 url: "/cdr-researcher-census/researchers/anna-neubeck-a5004740/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Is the climate change mitigation effect of enhanced silicate weathering governed by biological processes?** (2021)
-   141 citations · Enhanced Weathering
+   133 citations · Enhanced Weathering
 
 2. **Organic carbon source controlled microbial olivine dissolution in small-scale flow-through bioreactors, for CO2 removal** (2024)
-   18 citations · Enhanced Weathering
+   16 citations · Enhanced Weathering
 
 3. **Design and Construction of an Experimental Setup to Enhance Mineral Weathering through the Activity of Soil Organisms** (2023)
    10 citations · Enhanced Weathering

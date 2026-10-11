@@ -1,7 +1,7 @@
 ---
 title: "Xinya Huang"
 description: "Xinya Huang is a Mid-career Soil Carbon researcher at Guizhou University in CN. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.533267
+date: 2026-10-11T02:32:59.547545
 url: "/cdr-researcher-census/researchers/xinya-huang-a5020392/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Iron-bound organic carbon dynamics in peatland profiles: The preservation equivalence of deep and surface soil** (2022)
-   34 citations · Soil Carbon
+   37 citations · Soil Carbon
 
 2. **Nitrogen addition increases topsoil carbon stock in an alpine meadow of the Qinghai-Tibet Plateau** (2023)
-   20 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 3. **Elevation gradients regulate microbial necromass and lignin phenols in alpine peatlands: Evidence from the Qinghai–Tibetan Plateau** (2025)
    3 citations · Soil Carbon

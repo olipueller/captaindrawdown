@@ -1,7 +1,7 @@
 ---
 title: "Xin Qian"
 description: "Xin Qian is a Mid-career Soil Carbon researcher at Shandong Academy of Agricultural Sciences in CN. With 22 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.475036
+date: 2026-10-11T02:32:59.486217
 url: "/cdr-researcher-census/researchers/xin-qian-a5101842/"
 layout: "researcher"
 hiddenInHomeList: true

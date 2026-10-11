@@ -1,7 +1,7 @@
 ---
 title: "Minttu Havu"
 description: "Minttu Havu is a Mid-career Soil Carbon researcher at University of Helsinki in FI. With 60 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.756997
+date: 2026-10-11T02:32:59.779572
 url: "/cdr-researcher-census/researchers/minttu-havu-a5081356/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon sequestration potential of street tree plantings in Helsinki** (2022)
-   38 citations · General CDR
+   39 citations · General CDR
 
 2. **Carbon sequestration in different urban vegetation types in Southern Finland** (2025)
-   14 citations · General CDR
+   16 citations · General CDR
 
 3. **Intercomparison of biogenic CO <sub>2</sub> flux models in four urban parks in the city of Zurich** (2025)
-   13 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 4. **Data used in manuscript Carbon sequestration potential of street tree plantings in Helsinki** (2022)
    3 citations · General CDR
@@ -74,11 +74,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 8. **Observations and modelling of urban carbon and water fluxes to aid cities in climate mitigation and adaptation** (2023)
    1 citations · General CDR
 
-9. **Biogenic model products from the SUEWS model** (2026)
+9. **Sensitivity of biogenic carbon and heat fluxes to urban vegetation parametrisations in the urban land surface model SUEWS** (2026)
    0 citations
 
-10. **Advancing our understanding on the climate mitigation potential of urban green infrastructure   ** (2025)
-   0 citations · General CDR
+10. **Biogenic model products from the SUEWS model** (2026)
+   0 citations
 
 ## External Profiles
 

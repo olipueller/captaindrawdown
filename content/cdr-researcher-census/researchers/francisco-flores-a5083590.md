@@ -1,7 +1,7 @@
 ---
 title: "Francisco Flores"
 description: "Francisco Flores is a Mid-career General CDR researcher at University of Zagreb in HR. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.146673
+date: 2026-10-11T02:33:00.176328
 url: "/cdr-researcher-census/researchers/francisco-flores-a5083590/"
 layout: "researcher"
 hiddenInHomeList: true

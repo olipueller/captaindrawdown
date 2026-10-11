@@ -1,7 +1,7 @@
 ---
 title: "Isabel Urdaneta"
 description: "Isabel Urdaneta is a Senior General CDR researcher at North Carolina State University in US. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.392649
+date: 2026-10-11T02:33:00.430060
 url: "/cdr-researcher-census/researchers/isabel-urdaneta-a5083596/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Life cycle assessment of Brazilian bleached eucalyptus kraft pulp: Integrating bleaching processes and biogenic carbon impacts** (2024)
-   5 citations · General CDR
+   6 citations · General CDR
 
 2. **Carbon footprint software for market pulp: Kraft and APMP processes across twelve biomass types with soil carbon sequestration** (2026)
    0 citations · Biochar

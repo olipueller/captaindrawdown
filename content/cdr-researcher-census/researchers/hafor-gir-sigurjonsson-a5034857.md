@@ -1,7 +1,7 @@
 ---
 title: "Hafþór Ægir Sigurjónsson"
 description: "Hafþór Ægir Sigurjónsson is a Mid-career Soil Carbon researcher at Administration of Occupational Safety and Health in IS. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.199674
+date: 2026-10-11T02:33:00.229768
 url: "/cdr-researcher-census/researchers/hafor-gir-sigurjonsson-a5034857/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Life Cycle Assessment of Phycocyanin Food Colorant Production from Spirulina (Arthrospira platensis) with Biostimulant Waste-Stream Utilization for Soil Carbon Sequestration to Achieve Net Carbon Removal** (2026)
-   2 citations · General CDR
+   3 citations · General CDR
+
+2. **A coupled production-removal approach for Spirulina-derived biochar: Life cycle assessment and implications for carbon accounting** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

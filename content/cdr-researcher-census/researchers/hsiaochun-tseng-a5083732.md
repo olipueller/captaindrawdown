@@ -1,7 +1,7 @@
 ---
 title: "Hsiao‐Chun Tseng"
 description: "Hsiao‐Chun Tseng is a Senior Ocean CDR researcher at National Taiwan Ocean University in TW. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.234889
+date: 2026-10-11T02:32:59.238323
 url: "/cdr-researcher-census/researchers/hsiaochun-tseng-a5083732/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **A Unique Diel Pattern in Carbonate Chemistry in the Seagrass Meadows of Dongsha Island: The Enhancement of Metabolic Carbonate Dissolution in a Semienclosed Lagoon** (2021)
-   24 citations · Ocean CDR
+   23 citations · Ocean CDR
 
 2. **Wastewater treatment-induced carbonate chemistry alteration and its implications for ocean alkalinity enhancement** (2026)
    0 citations · Ocean CDR

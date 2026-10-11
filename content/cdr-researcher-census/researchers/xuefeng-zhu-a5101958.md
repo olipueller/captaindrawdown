@@ -1,7 +1,7 @@
 ---
 title: "Xuefeng Zhu"
 description: "Xuefeng Zhu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 17 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.218571
+date: 2026-10-11T02:32:59.222192
 url: "/cdr-researcher-census/researchers/xuefeng-zhu-a5101958/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The soil Microbial Carbon Pump as a new concept for terrestrial carbon sequestration** (2021)
-   179 citations · Soil Carbon
+   182 citations · Soil Carbon
 
 2. **Nitrogen deposition enhances soil organic carbon sequestration through plant–soil–microbe synergies** (2025)
-   20 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 3. **Quantifying asynchrony between microbial necromass and soil organic carbon for sustainable soil carbon management** (2025)
    19 citations · Soil Carbon
@@ -70,6 +70,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 7. **Stoichiometry Influences on Microbial Necromass Carbon Contributions to Soil Organic Carbon in A Chinese Fir Plantation Under a 7‐Year Litter Manipulation** (2025)
    1 citations · Soil Carbon
+
+8. **Distinct decomposition dynamics of heterogeneous carbon components in cultivated agricultural soils controlled by flexible microbial substrate utilization strategy** (2025)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

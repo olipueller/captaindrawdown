@@ -1,7 +1,7 @@
 ---
 title: "Katherine Dombrowski"
 description: "Katherine Dombrowski is a Senior General CDR researcher at Trimeric (United States) in US. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.944262
+date: 2026-10-11T02:32:59.974423
 url: "/cdr-researcher-census/researchers/katherine-dombrowski-a5060023/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    11 citations · General CDR
 
 3. **Front-End Engineering Design for Piperazine with the Advanced Stripper** (2022)
-   6 citations · General CDR
+   5 citations · General CDR
 
 4. **Spatiotemporal Adaptive Passive Direct Air Capture** (2024)
    1 citations · DAC

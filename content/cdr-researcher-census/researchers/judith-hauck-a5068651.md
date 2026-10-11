@@ -1,7 +1,7 @@
 ---
 title: "Judith Hauck"
 description: "Judith Hauck is an Eminent Ocean CDR researcher at Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung in DE. With 316 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.017895
+date: 2026-10-11T02:32:59.021030
 url: "/cdr-researcher-census/researchers/judith-hauck-a5068651/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,34 +51,34 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Trends and variability in the ocean carbon sink** (2023)
-   275 citations · General CDR
+   276 citations · General CDR
 
 2. **Ocean carbon from space: Current status and priorities for the next decade** (2023)
-   64 citations · General CDR
+   63 citations · General CDR
 
 3. **Ten new insights in climate science 2023** (2023)
-   46 citations · General CDR
+   47 citations · General CDR
 
-4. **Alkalinity biases in CMIP6 Earth System Models and implications for simulated CO2 drawdown via artificial alkalinity enhancement** (2023)
+4. **Alkalinity biases in CMIP6 Earth system models and implications for simulated CO <sub>2</sub> drawdown via artificial alkalinity enhancement** (2023)
+   31 citations · General CDR
+
+5. **Alkalinity biases in CMIP6 Earth System Models and implications for simulated CO2 drawdown via artificial alkalinity enhancement** (2023)
    17 citations · General CDR
 
-5. **Alkalinity biases in CMIP6 Earth system models and implications for simulated CO <sub>2</sub> drawdown via artificial alkalinity enhancement** (2023)
-   16 citations · General CDR
-
 6. **Ocean Alkalinity Enhancement in Deep Water Formation Regions Under Low and High Emission Pathways** (2024)
-   11 citations · General CDR
+   14 citations · General CDR
 
-7. **From global to national GHG budgets: the REgional Carbon Cycle Assessment and Processes-3 (RECCAP3)** (2025)
+7. **Exploring Site‐Specific Carbon Dioxide Removal Options With Storage or Sequestration in the Marine Environment – The 10 Mt CO<sub>2</sub> yr<sup>−1</sup> Removal Challenge for Germany** (2025)
+   9 citations · General CDR
+
+8. **From global to national GHG budgets: the REgional Carbon Cycle Assessment and Processes-3 (RECCAP3)** (2025)
    9 citations · Ocean CDR
 
-8. **Exploring Site‐Specific Carbon Dioxide Removal Options With Storage or Sequestration in the Marine Environment – The 10 Mt CO<sub>2</sub> yr<sup>−1</sup> Removal Challenge for Germany** (2025)
-   8 citations · General CDR
-
 9. **Interactions between ocean alkalinity enhancement and phytoplankton in an Earth system model** (2025)
-   4 citations · General CDR
+   6 citations · General CDR
 
 10. **Alkalinity enhancement in subduction regions and the global ocean: efficiency, earth system feedbacks, and scenario sensitivity** (2025)
-   3 citations · General CDR
+   5 citations · General CDR
 
 ## External Profiles
 

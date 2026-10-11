@@ -1,7 +1,7 @@
 ---
 title: "Ashley Bird"
 description: "Ashley Bird is a Mid-career Ocean CDR researcher at Pacific Northwest National Laboratory in US. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.564721
+date: 2026-10-11T02:32:59.580459
 url: "/cdr-researcher-census/researchers/ashley-bird-a5056890/"
 layout: "researcher"
 hiddenInHomeList: true

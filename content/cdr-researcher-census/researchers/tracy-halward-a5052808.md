@@ -1,7 +1,7 @@
 ---
 title: "Tracy Halward"
 description: "Tracy Halward is a Senior Soil Carbon researcher at Institute of Arctic and Alpine Research in US. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.241055
+date: 2026-10-11T02:32:59.244627
 url: "/cdr-researcher-census/researchers/tracy-halward-a5052808/"
 layout: "researcher"
 hiddenInHomeList: true

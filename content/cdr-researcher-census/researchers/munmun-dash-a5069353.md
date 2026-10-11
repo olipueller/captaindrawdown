@@ -1,7 +1,7 @@
 ---
 title: "Munmun Dash"
 description: "Munmun Dash is a Mid-career Soil Carbon researcher at Odisha University of Agriculture and Technology in IN. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.864656
+date: 2026-10-11T02:32:59.891243
 url: "/cdr-researcher-census/researchers/munmun-dash-a5069353/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · General CDR
 
 3. **Plant Growth-Promoting Rhizobacteria (PGPR): A Biological Approach to Boost the Carbon Sequestration Potential of Forestry Species** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 4. **Microbial interventions for sustainable soil carbon and nitrogen management** (2025)
    0 citations · Soil Carbon

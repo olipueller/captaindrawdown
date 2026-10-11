@@ -1,7 +1,7 @@
 ---
 title: "Anastasios Mazis"
 description: "Anastasios Mazis is a Mid-career Soil Carbon researcher at Syngenta (United States) in US. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.157893
+date: 2026-10-11T02:33:00.187687
 url: "/cdr-researcher-census/researchers/anastasios-mazis-a5068147/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Marta Plaza-Hernández"
 description: "Marta Plaza-Hernández is a Mid-career General CDR researcher at Universidad de Salamanca in ES. With 34 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.902576
+date: 2026-10-11T02:32:59.931977
 url: "/cdr-researcher-census/researchers/marta-plaza-hernandez-a5009365/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Nihad Ashraf Khan"
 description: "Nihad Ashraf Khan is a Mid-career Biochar researcher. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.312160
+date: 2026-10-11T02:33:00.342944
 url: "/cdr-researcher-census/researchers/nihad-ashraf-khan-a5034597/"
 layout: "researcher"
 hiddenInHomeList: true

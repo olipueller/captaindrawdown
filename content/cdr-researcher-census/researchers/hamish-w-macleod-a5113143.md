@@ -1,7 +1,7 @@
 ---
 title: "Hamish W. MacLeod"
 description: "Hamish W. MacLeod is an Early-career DAC researcher at University of Cambridge in GB. With 5 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.217413
+date: 2026-10-11T02:33:00.247334
 url: "/cdr-researcher-census/researchers/hamish-w-macleod-a5113143/"
 layout: "researcher"
 hiddenInHomeList: true

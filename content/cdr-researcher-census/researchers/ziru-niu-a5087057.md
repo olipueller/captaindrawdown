@@ -1,7 +1,7 @@
 ---
 title: "Ziru Niu"
 description: "Ziru Niu is a Mid-career Soil Carbon researcher at Changchun University of Science and Technology in CN. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.709765
+date: 2026-10-11T02:32:59.730408
 url: "/cdr-researcher-census/researchers/ziru-niu-a5087057/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · Soil Carbon
 
 2. **Effects of cropping patterns on the distribution, carbon contents, and nitrogen contents of aeolian sand soil aggregates in Northwest China** (2024)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 3. **Effects of cropping patterns on the distribution, carbon contents, and nitrogen contents of aeolian sand–soil aggregates in Northwest China** (2023)
    0 citations · Soil Carbon

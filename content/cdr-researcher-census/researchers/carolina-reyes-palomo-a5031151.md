@@ -1,7 +1,7 @@
 ---
 title: "Carolina Reyes-Palomo"
 description: "Carolina Reyes-Palomo is a Mid-career General CDR researcher at Universidad Católica de Córdoba in AR. With 33 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.508131
+date: 2026-10-11T02:32:59.521105
 url: "/cdr-researcher-census/researchers/carolina-reyes-palomo-a5031151/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Carbon sequestration offsets a large share of GHG emissions in dehesa cattle production** (2022)
-   48 citations · General CDR
+   47 citations · General CDR
 
 2. **Free-range acorn feeding results in negative carbon footprint of Iberian pig production in the dehesa agro-forestry system** (2023)
    24 citations

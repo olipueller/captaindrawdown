@@ -1,7 +1,7 @@
 ---
 title: "Rania Remmani"
 description: "Rania Remmani is a Mid-career Biochar researcher at Universitat de Miguel Hernández d'Elx in ES. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.336768
+date: 2026-10-11T02:33:00.370883
 url: "/cdr-researcher-census/researchers/rania-remmani-a5039529/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar supported Fe–TiO2 composite for wastewater treatment: Solid-state synthesis and mechanistic insights** (2025)
-   22 citations · Biochar
+   24 citations · Biochar
 
 2. **Adsorption Technology for PFAS Removal in Water: Comparison between Novel Carbonaceous Materials** (2024)
-   13 citations
+   15 citations
 
 3. **Superior Adsorption of Chlorinated VOC by Date Palm Seed Biochar: Two-Way ANOVA Comparative Analysis with Activated Carbon** (2024)
    10 citations · Biochar

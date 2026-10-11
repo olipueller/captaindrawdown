@@ -1,7 +1,7 @@
 ---
 title: "D H Sanchez"
 description: "D H Sanchez is a Senior General CDR researcher at Lawrence Livermore National Laboratory in US. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.060069
+date: 2026-10-11T02:33:00.089717
 url: "/cdr-researcher-census/researchers/d-h-sanchez-a5110103/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   62 citations · General CDR
+   61 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Jana Batt"
 description: "Jana Batt is a Mid-career Biochar researcher at University of South Bohemia in České Budějovice in CZ. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.034476
+date: 2026-10-11T02:33:00.065517
 url: "/cdr-researcher-census/researchers/jana-batt-a5032380/"
 layout: "researcher"
 hiddenInHomeList: true

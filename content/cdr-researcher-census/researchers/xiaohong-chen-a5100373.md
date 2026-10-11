@@ -1,7 +1,7 @@
 ---
 title: "Xiaohong Chen"
 description: "Xiaohong Chen is a Senior Soil Carbon researcher at Central South University in CN. With 74 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.084626
+date: 2026-10-11T02:32:59.089545
 url: "/cdr-researcher-census/researchers/xiaohong-chen-a5100373/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Precipitation Dominates the Allocation Strategy of Above- and Belowground Biomass in Plants on Macro Scales** (2023)
-   28 citations · Soil Carbon
+1. **Application of biochar on soil bioelectrochemical remediation: behind roles, progress, and potential** (2022)
+   28 citations · Biochar
 
-2. **Application of biochar on soil bioelectrochemical remediation: behind roles, progress, and potential** (2022)
-   26 citations · Biochar
+2. **Precipitation Dominates the Allocation Strategy of Above- and Belowground Biomass in Plants on Macro Scales** (2023)
+   26 citations · Soil Carbon
 
 3. **Effect of fresh and aged biochar on electrogenic hydrocarbon degradation in soil microbial electrochemical remediation** (2022)
    24 citations · Biochar
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    13 citations · Enhanced Weathering
 
 5. **Sedimentology and geochemistry of the Upper Permian Longtan and Dalong formations in the Lianyuan Sag, Xiangzhong Depression, South China: Implications for paleoclimate, provenance, tectonic setting, and organic matter accumulation** (2025)
-   5 citations
+   7 citations
 
 6. **Salt Tolerant Identification and Tolerance Mechanism Study of Broomcorn Millet (Panicum Miliaceum L.) Under Neutral Mixed Salts Stress by Ont Sequencing** (2023)
    0 citations

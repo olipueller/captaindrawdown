@@ -1,7 +1,7 @@
 ---
 title: "Carl Lim"
 description: "Carl Lim is an Early-career Ocean CDR researcher at Universität Hamburg in DE. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.788441
+date: 2026-10-11T02:32:59.812296
 url: "/cdr-researcher-census/researchers/carl-lim-a5015184/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,25 +51,25 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Stability of alkalinity in ocean alkalinity enhancement (OAE) approaches – consequences for durability of CO <sub>2</sub> storage** (2023)
-   154 citations · General CDR
+   180 citations · General CDR
 
-2. **Exploratory Review on Environmental Aspects of Enhanced Weathering as a Carbon Dioxide Removal Method** (2024)
-   38 citations · Enhanced Weathering
+2. **Ocean alkalinity enhancement approaches and the predictability of runaway precipitation processes: results of an experimental study to determine critical alkalinity ranges for safe and sustainable application scenarios** (2024)
+   45 citations · General CDR
 
-3. **Ocean alkalinity enhancement approaches and the predictability of runaway precipitation processes: results of an experimental study to determine critical alkalinity ranges for safe and sustainable application scenarios** (2024)
-   36 citations · General CDR
+3. **Exploratory Review on Environmental Aspects of Enhanced Weathering as a Carbon Dioxide Removal Method** (2024)
+   39 citations · Enhanced Weathering
 
 4. **Stability of alkalinity in Ocean Alkalinity Enhancement (OAE) approaches – consequences for durability of CO <sub>2</sub> storage** (2022)
    25 citations
 
-5. **Ocean alkalinity enhancement approaches and the predictability of runaway precipitation processes – Results of an experimental study to determine critical alkalinity ranges for safe and sustainable application scenarios** (2023)
+5. **Stability of alkalinity in the land-ocean transition zone: a geochemical CDR perspective for the Elbe River, Germany** (2025)
+   4 citations · Enhanced Weathering
+
+6. **Ocean alkalinity enhancement approaches and the predictability of runaway precipitation processes – Results of an experimental study to determine critical alkalinity ranges for safe and sustainable application scenarios** (2023)
    4 citations
 
-6. **Supplementary material to "Ocean alkalinity enhancement approaches and the predictability of runaway precipitation processes – Results of an experimental study to determine critical alkalinity ranges for safe and sustainable application scenarios"** (2023)
+7. **Supplementary material to "Ocean alkalinity enhancement approaches and the predictability of runaway precipitation processes – Results of an experimental study to determine critical alkalinity ranges for safe and sustainable application scenarios"** (2023)
    4 citations · Ocean CDR
-
-7. **Stability of alkalinity in the land-ocean transition zone: a geochemical CDR perspective for the Elbe River, Germany** (2025)
-   3 citations · Enhanced Weathering
 
 8. **Assessment of solid ikaite release into seawater – implications for ocean alkalinity enhancement** (2026)
    0 citations · Ocean CDR

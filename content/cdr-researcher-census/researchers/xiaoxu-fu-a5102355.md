@@ -1,7 +1,7 @@
 ---
 title: "Xiaoxu Fu"
-description: "Xiaoxu Fu is a Mid-career DAC researcher at Argonne National Laboratory in US. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.390283
+description: "Xiaoxu Fu is a Mid-career DAC researcher at Argonne National Laboratory in US. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:33:00.348161
 url: "/cdr-researcher-census/researchers/xiaoxu-fu-a5102355/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 102 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| Citations | 115 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

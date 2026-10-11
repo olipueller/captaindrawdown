@@ -1,7 +1,7 @@
 ---
 title: "Amjad Saeed"
 description: "Amjad Saeed is a Mid-career Soil Carbon researcher at Islamia University of Bahawalpur in PK. With 51 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.591911
+date: 2026-10-11T02:32:59.608784
 url: "/cdr-researcher-census/researchers/amjad-saeed-a5036474/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic carbon sequestration and modeling under conservation tillage and cropping systems in a rainfed agriculture** (2023)
-   48 citations · Soil Carbon
+   47 citations · Soil Carbon
 
 2. **Impacts of Conservation Tillage on Agricultural Land Development: A Review** (2024)
-   34 citations · Soil Carbon
+   36 citations · Soil Carbon
 
 3. **Maize–Soybean Intercropping and Organic Amendments as Sustainable Farming for Higher Productivity, Carbon Sequestration, and Greenhouse Gas Reduction** (2026)
    0 citations

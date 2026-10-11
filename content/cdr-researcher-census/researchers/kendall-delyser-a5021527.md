@@ -1,7 +1,7 @@
 ---
 title: "Kendall DeLyser"
 description: "Kendall DeLyser is a Mid-career Soil Carbon researcher at American Forests in US. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.080205
+date: 2026-10-11T02:33:00.110135
 url: "/cdr-researcher-census/researchers/kendall-delyser-a5021527/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Land use change and forest management effects on soil carbon stocks in the Northeast U.S.** (2024)
-   31 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 ## External Profiles
 

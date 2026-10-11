@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Farooq Azhar"
 description: "Muhammad Farooq Azhar is a Mid-career Soil Carbon researcher at Bahauddin Zakariya University in PK. With 60 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.478277
+date: 2026-10-11T02:32:59.489662
 url: "/cdr-researcher-census/researchers/muhammad-farooq-azhar-a5033202/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Role of Traditional Agroforestry Systems in Climate Change Mitigation through Carbon Sequestration: An Investigation from the Semi-Arid Region of Pakistan** (2023)
-   50 citations · General CDR
+   49 citations · General CDR
 
 2. **Regenerative Agroforestry for Soil Restoration, Biodiversity Protection, and Climate Change Mitigation** (2024)
-   5 citations · General CDR
+   6 citations · General CDR
 
 3. **Species-driven variability in soil health and carbon storage across bamboo plantations** (2026)
    1 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Ganesh Kumar Reddy Angaru"
 description: "Ganesh Kumar Reddy Angaru is a Mid-career Biochar researcher at Huaqiao University in CN. With 22 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.365124
+date: 2026-10-11T02:32:59.372399
 url: "/cdr-researcher-census/researchers/ganesh-kumar-reddy-angaru-a5071426/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Insights into kinetics, thermodynamics, and mechanisms of chemically activated sunflower stem biochar for removal of phenol and bisphenol-A from wastewater** (2024)
-   63 citations · Biochar
+   65 citations · Biochar
 
 2. **Orange waste Biochar-Magnesium Silicate (OBMS) composite for enhanced removal of U(VI) ions from aqueous solutions** (2022)
-   58 citations · Biochar
+   59 citations · Biochar
 
 ## External Profiles
 

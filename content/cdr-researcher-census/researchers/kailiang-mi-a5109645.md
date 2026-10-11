@@ -1,7 +1,7 @@
 ---
 title: "Kailiang Mi"
-description: "Kailiang Mi is a Mid-career Biochar researcher at Ministry of Agriculture in EE. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.916901
+description: "Kailiang Mi is a Mid-career Biochar researcher at Ministry of Agriculture and Rural Affairs in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:32:59.982269
 url: "/cdr-researcher-census/researchers/kailiang-mi-a5109645/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/kailiang-mi-a5109645/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Ministry of Agriculture"
+    "name": "Ministry of Agriculture and Rural Affairs"
   },
   "sameAs": "https://openalex.org/A5109645245"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Kailiang Mi**  
-Ministry of Agriculture ·  EE
+Ministry of Agriculture and Rural Affairs · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -39,10 +39,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 211 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| h-index | 6 |
+| Citations | 205 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

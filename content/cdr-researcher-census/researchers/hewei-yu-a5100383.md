@@ -1,7 +1,7 @@
 ---
 title: "Hewei Yu"
 description: "Hewei Yu is a Senior Biochar researcher at Qilu University of Technology in CN. With 56 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.522486
+date: 2026-10-11T02:32:59.536464
 url: "/cdr-researcher-census/researchers/hewei-yu-a5100383/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Liquid-solid ratio during hydrothermal carbonization affects hydrochar application potential in soil: Based on characteristics comparison and economic benefit analysis** (2023)
-   39 citations · Biochar
+   42 citations · Biochar
 
 2. **Large-scale soil application of hydrochar: Reducing its polycyclic aromatic hydrocarbon content and toxicity by heating** (2024)
    13 citations · Biochar

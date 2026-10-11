@@ -1,7 +1,7 @@
 ---
 title: "Fengfeng Du"
 description: "Fengfeng Du is a Mid-career Soil Carbon researcher at Natural Resources Conservation Service in US. With 34 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.665172
+date: 2026-10-11T02:32:59.684703
 url: "/cdr-researcher-census/researchers/fengfeng-du-a5082834/"
 layout: "researcher"
 hiddenInHomeList: true

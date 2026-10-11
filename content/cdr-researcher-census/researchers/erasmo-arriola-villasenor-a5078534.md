@@ -1,7 +1,7 @@
 ---
 title: "Erasmo Arriola-Villaseñor"
 description: "Erasmo Arriola-Villaseñor is a Senior Biochar researcher at Universidad Nacional de Colombia in CO. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.354520
+date: 2026-10-11T02:33:00.389572
 url: "/cdr-researcher-census/researchers/erasmo-arriola-villasenor-a5078534/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Using banana waste biochar for simultaneous removal of heavy metals from raw real wastewater from the electroplating industry** (2023)
-   13 citations · Biochar
+   14 citations · Biochar
 
 ## External Profiles
 

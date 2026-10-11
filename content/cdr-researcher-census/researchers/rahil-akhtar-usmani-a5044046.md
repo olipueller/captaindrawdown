@@ -1,7 +1,7 @@
 ---
 title: "Rahil Akhtar Usmani"
 description: "Rahil Akhtar Usmani is a Mid-career General CDR researcher at Aligarh Muslim University in IN. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.141977
+date: 2026-10-11T02:33:00.172296
 url: "/cdr-researcher-census/researchers/rahil-akhtar-usmani-a5044046/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sara Iftikhar"
 description: "Sara Iftikhar is an Early-career Biochar researcher at King Abdullah University of Science and Technology in SA. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.302434
+date: 2026-10-11T02:33:00.333596
 url: "/cdr-researcher-census/researchers/sara-iftikhar-a5021786/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Probabilistic prediction of phosphate ion adsorption onto biochar materials using a large dataset and online deployment** (2024)
-   10 citations · Biochar
+   11 citations · Biochar
 
 ## External Profiles
 

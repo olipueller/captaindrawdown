@@ -1,7 +1,7 @@
 ---
 title: "Chameli Saha"
 description: "Chameli Saha is a Mid-career Soil Carbon researcher at Khulna University in BD. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.811009
+date: 2026-10-11T02:32:59.836175
 url: "/cdr-researcher-census/researchers/chameli-saha-a5085390/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The soil quality of the world's largest refugee campsites located in the Hill forest of Bangladesh and the way forward to improve the soil quality** (2021)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 2. **Tracking forest recovery: Early biomass and carbon stock monitoring in the Rohingya Refugee camps, Cox's Bazar, Bangladesh** (2024)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 ## External Profiles
 

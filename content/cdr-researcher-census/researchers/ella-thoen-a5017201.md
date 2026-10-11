@@ -1,7 +1,7 @@
 ---
 title: "Ella Thoen"
 description: "Ella Thoen is a Mid-career Soil Carbon researcher at University of Oslo in NO. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.877510
+date: 2026-10-11T02:32:59.904934
 url: "/cdr-researcher-census/researchers/ella-thoen-a5017201/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Fungal community dynamics across a forest–alpine ecotone** (2021)
-   40 citations · General CDR
+   37 citations · General CDR
 
 2. **Expanding forests in alpine regions: space-for-time indicates a corresponding shift in belowground fungal communities** (2021)
    2 citations

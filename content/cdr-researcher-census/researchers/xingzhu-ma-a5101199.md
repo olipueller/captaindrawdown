@@ -1,7 +1,7 @@
 ---
 title: "Xingzhu Ma"
 description: "Xingzhu Ma is a Senior Soil Carbon researcher. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.631782
+date: 2026-10-11T02:32:59.650351
 url: "/cdr-researcher-census/researchers/xingzhu-ma-a5101199/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,10 +46,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long‐term manure application enhances organic carbon and nitrogen stocks in Mollisol subsoil** (2022)
-   28 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 2. **Bacterial richness enhances the thermostability of soil organic matter via a long-term trade-off between molecular diversity and thermodynamic stability** (2025)
-   12 citations
+   14 citations
 
 3. **Organic carbon and nitrogen accrual evidenced by the underpinning protection mechanisms in soil profile following contrasting 35-year fertilization regimes** (2025)
    6 citations · Soil Carbon

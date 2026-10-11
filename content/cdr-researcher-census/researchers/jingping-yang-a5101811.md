@@ -1,7 +1,7 @@
 ---
 title: "Jingping Yang"
 description: "Jingping Yang is a Senior Soil Carbon researcher at Zhejiang University in CN. With 38 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.236346
+date: 2026-10-11T02:32:59.239851
 url: "/cdr-researcher-census/researchers/jingping-yang-a5101811/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Decoupled fungal and bacterial functional responses to biochar amendment drive rhizosphere priming effect on soil organic carbon mineralization** (2024)
-   24 citations · Biochar
+   26 citations · Biochar
 
 2. **Conversion from double-rice to maize-rice increases iron-bound organic carbon by “iron gate” and “enzyme latch” mechanisms** (2021)
-   23 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 3. **Impact of rhizosphere priming on soil organic carbon dynamics: Insights from the perspective of carbon fractions** (2023)
-   14 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 ## External Profiles
 

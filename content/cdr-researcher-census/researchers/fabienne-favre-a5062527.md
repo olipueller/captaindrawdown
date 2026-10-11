@@ -1,7 +1,7 @@
 ---
 title: "Fabienne Favre"
 description: "Fabienne Favre is a Senior Biochar researcher at University of Applied Sciences and Arts Western Switzerland in CH. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.376623
+date: 2026-10-11T02:32:59.383874
 url: "/cdr-researcher-census/researchers/fabienne-favre-a5062527/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Real wastewater micropollutant removal by wood waste biomass biochars: A mechanistic interpretation related to various biochar physico-chemical properties** (2022)
-   13 citations · Biochar
+   14 citations · Biochar
 
 ## External Profiles
 

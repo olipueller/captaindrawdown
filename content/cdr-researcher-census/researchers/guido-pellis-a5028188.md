@@ -1,7 +1,7 @@
 ---
 title: "Guido Pellis"
 description: "Guido Pellis is a Mid-career Soil Carbon researcher at Legambiente in IT. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.803771
+date: 2026-10-11T02:32:59.828380
 url: "/cdr-researcher-census/researchers/guido-pellis-a5028188/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic carbon sequestration during secondary forest succession in a Mediterranean area** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 2. **A harmonized dataset relating alternative farmer management practices to crop yield, soil organic carbon stock, nitrous oxide emissions, and nitrate leaching generated using IPCC methodologies and meta-analyses** (2024)
    2 citations · General CDR

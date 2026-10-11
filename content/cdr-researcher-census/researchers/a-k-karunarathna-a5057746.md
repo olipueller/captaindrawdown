@@ -1,7 +1,7 @@
 ---
 title: "A. K. Karunarathna"
 description: "A. K. Karunarathna is a Senior Biochar researcher at University of Peradeniya in LK. With 58 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.465862
+date: 2026-10-11T02:32:59.477162
 url: "/cdr-researcher-census/researchers/a-k-karunarathna-a5057746/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    20 citations · Biochar
 
 2. **Assessing the life cycle and economic impact of cement-modified biochar compared to conventional adsorbents for heavy metal removal in stormwater** (2024)
-   10 citations · Biochar
+   11 citations · Biochar
 
 3. **Two - Stage Catalytic Activation of Coconut Shell Biochar for Effective Malachite Green Removal from Water** (2025)
    3 citations · Biochar

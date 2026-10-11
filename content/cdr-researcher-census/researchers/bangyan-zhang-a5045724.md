@@ -1,7 +1,7 @@
 ---
 title: "Bangyan Zhang"
 description: "Bangyan Zhang is a Mid-career Soil Carbon researcher at Ningxia University in CN. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.606567
+date: 2026-10-11T02:32:59.624068
 url: "/cdr-researcher-census/researchers/bangyan-zhang-a5045724/"
 layout: "researcher"
 hiddenInHomeList: true

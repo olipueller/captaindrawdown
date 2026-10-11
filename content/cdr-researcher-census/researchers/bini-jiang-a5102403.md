@@ -1,7 +1,7 @@
 ---
 title: "Bi–Ni Jiang"
 description: "Bi–Ni Jiang is a Mid-career Biochar researcher at Nanjing Normal University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.698816
+date: 2026-10-11T02:32:59.719221
 url: "/cdr-researcher-census/researchers/bini-jiang-a5102403/"
 layout: "researcher"
 hiddenInHomeList: true

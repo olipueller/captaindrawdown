@@ -1,7 +1,7 @@
 ---
 title: "Dominik Keiner"
 description: "Dominik Keiner is a Mid-career General CDR researcher at LUT University in FI. With 45 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.146711
+date: 2026-10-11T02:32:59.150901
 url: "/cdr-researcher-census/researchers/dominik-keiner-a5015267/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **On the History and Future of 100% Renewable Energy Systems Research** (2022)
-   582 citations · General CDR
+   588 citations · General CDR
 
 2. **Proposing a 1.0°C climate target for a safer future** (2023)
    35 citations · General CDR
@@ -60,10 +60,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    31 citations · DAC
 
 4. **Analysis of production routes for silicon carbide using air as carbon source empowering negative emissions** (2024)
-   26 citations · DAC
+   27 citations · DAC
 
 5. **Techno-economic insights and deployment prospects of permanent carbon dioxide sequestration in solid carbonates** (2024)
-   25 citations · Enhanced Weathering
+   26 citations · Enhanced Weathering
 
 6. **Seeking El Dorado: Iceland’s carbon dioxide removal service opportunities to meet global demand and a new lens on overnight transition cost** (2025)
    5 citations · General CDR
@@ -74,10 +74,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 8. **Area demand quantification for energy system-integrated negative emissions based on carbon dioxide removal portfolios** (2025)
    2 citations · BECCS
 
-9. **Allocation of global carbon dioxide removal based on societal preferences between historical responsibility and resource opportunity (presentation)** (2026)
-   0 citations · General CDR
+9. **Review of the Progressing Role of Solar Photovoltaics in Energy Transition Scenarios Over Five Decades of 100% Renewable Energy Systems Research** (2026)
+   1 citations · General CDR
 
-10. **Review of the Progressing Role of Solar Photovoltaics in Energy Transition Scenarios Over Five Decades of 100% Renewable Energy Systems Research** (2026)
+10. **Carbon dioxide removal enables climate planetary boundary compliance in cost-effective energy-industry transition pathways** (2026)
    0 citations · General CDR
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Maurício Roberto Cherubin"
 description: "Maurício Roberto Cherubin is an Eminent Soil Carbon researcher at Universidade de São Paulo - Escola Superior de Agricultura Luiz de Queiroz in BR. With 317 publications and an h-index of 51, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.032681
+date: 2026-10-11T02:32:59.035733
 url: "/cdr-researcher-census/researchers/mauricio-roberto-cherubin-a5047372/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,22 +45,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 51 |
 | Citations | 7,763 |
 | Publications | 317 |
-| CDR Focus | 12.9% |
+| CDR Focus | 13.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Land Use and Management Effects on Sustainable Sugarcane-Derived Bioenergy** (2021)
-   122 citations
+   123 citations
 
 2. **Cover crops enhance soil health, crop yield and resilience of tropical agroecosystem** (2025)
-   56 citations · Soil Carbon
+   59 citations · Soil Carbon
 
 3. **Soil health in Latin America and the Caribbean** (2025)
-   31 citations · Soil Carbon
+   36 citations · Soil Carbon
 
 4. **Greenhouse gas fluxes in brazilian climate-smart agricultural and livestock systems: A systematic and critical overview** (2024)
-   25 citations · General CDR
+   27 citations · General CDR
 
 5. **Soil carbon allocation, composition, and sequestration changes induced by cropping diversification in tropical systems** (2025)
    17 citations · Soil Carbon
@@ -69,7 +69,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    17 citations · General CDR
 
 7. **How do soil processes control the provision of ecosystem services in coastal wetlands?** (2024)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 8. **Carbon Farming: Nature-Based Solutions in Brazil** (2023)
    13 citations · General CDR
@@ -77,8 +77,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 9. **Quantity, quality and physical protection of soil carbon associated with sugarcane straw removal in southern Brazil** (2023)
    12 citations · Soil Carbon
 
-10. **Carbon balance in the sugarcane sector - Conference Report** (2022)
-   11 citations · BECCS
+10. **Modeling soil organic matter changes under crop diversification strategies and climate change scenarios in the Brazilian Cerrado** (2024)
+   11 citations · Soil Carbon
 
 ## External Profiles
 

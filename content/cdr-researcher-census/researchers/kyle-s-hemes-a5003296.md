@@ -1,7 +1,7 @@
 ---
 title: "Kyle S. Hemes"
 description: "Kyle S. Hemes is a Senior Soil Carbon researcher. With 73 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.101870
+date: 2026-10-11T02:32:59.106608
 url: "/cdr-researcher-census/researchers/kyle-s-hemes-a5003296/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -49,16 +49,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    101 citations · General CDR
 
 2. **Productive wetlands restored for carbon sequestration quickly become net CO2 sinks with site-level factors driving uptake variability** (2021)
-   95 citations · General CDR
+   89 citations · General CDR
 
 3. **Restoring wetlands on intensive agricultural lands modifies nitrogen cycling microbial communities and reduces N2O production potential** (2021)
-   23 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 4. **Carbon Flux Trajectories and Site Conditions from Restored Impounded Marshes in the Sacramento‐San Joaquin Delta** (2021)
-   13 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 5. **Consistent temporal accounting supports credible CDR use** (2026)
-   1 citations · General CDR
+   2 citations · General CDR
 
 6. **Optimizing Aboveground Biomass Estimation in Novel Restoration Systems Through Remote Sensing and Field Data Fusion** (2025)
    0 citations

@@ -1,7 +1,7 @@
 ---
 title: "Munirah Abdullah Al-Dosary"
 description: "Munirah Abdullah Al-Dosary is a Mid-career Soil Carbon researcher at King Saud University in SA. With 48 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.438568
+date: 2026-10-11T02:32:59.448799
 url: "/cdr-researcher-census/researchers/munirah-abdullah-al-dosary-a5090796/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Daniel Asfaw Bekele"
 description: "Daniel Asfaw Bekele is a Mid-career Soil Carbon researcher at Bahir Dar University in ET. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.211254
+date: 2026-10-11T02:33:00.240702
 url: "/cdr-researcher-census/researchers/daniel-asfaw-bekele-a5007451/"
 layout: "researcher"
 hiddenInHomeList: true

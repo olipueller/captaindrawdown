@@ -1,7 +1,7 @@
 ---
 title: "Siew Lee Fong"
 description: "Siew Lee Fong is a Senior Biochar researcher at Agri-Food and Veterinary Authority of Singapore in SG. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.945166
+date: 2026-10-11T02:32:59.975270
 url: "/cdr-researcher-census/researchers/siew-lee-fong-a5008173/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Gasification biochar from horticultural waste: An exemplar of the circular economy in Singapore** (2021)
-   47 citations · Biochar
+   48 citations · Biochar
 
 ## External Profiles
 

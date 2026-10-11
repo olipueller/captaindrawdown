@@ -1,7 +1,7 @@
 ---
 title: "Cristinel Constandache"
 description: "Cristinel Constandache is a Senior Soil Carbon researcher at National Institute for Research and Development in Forestry \"Marin Drăcea\" in RO. With 45 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.893762
+date: 2026-10-11T02:32:59.922306
 url: "/cdr-researcher-census/researchers/cristinel-constandache-a5087725/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Agricultural Benefits of Shelterbelts and Windbreaks: A Bibliometric Analysis** (2025)
-   34 citations · Soil Carbon
+   35 citations · Soil Carbon
 
 2. **Timber Harvesting in Mountainous Regions: A Comprehensive Review** (2025)
    24 citations · General CDR

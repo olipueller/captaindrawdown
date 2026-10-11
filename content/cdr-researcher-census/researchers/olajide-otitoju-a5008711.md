@@ -1,7 +1,7 @@
 ---
 title: "Olajide Otitoju"
 description: "Olajide Otitoju is a Mid-career DAC researcher at University of Sheffield in GB. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.465025
+date: 2026-10-11T02:32:59.476286
 url: "/cdr-researcher-census/researchers/olajide-otitoju-a5008711/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Solar-driven direct air capture to produce sustainable aviation fuel** (2026)
-   5 citations
+   6 citations
 
 2. **Renewable Energy-driven Solvent-based Direct Air Capture and CO2 Utilisation to Produce Sustainable Aviation Fuel: Modelling, Simulation and Performance Assessment** (2024)
    1 citations · DAC

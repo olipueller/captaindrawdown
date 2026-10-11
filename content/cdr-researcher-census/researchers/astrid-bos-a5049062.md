@@ -1,7 +1,7 @@
 ---
 title: "Astrid Bos"
 description: "Astrid Bos is a Mid-career BECCS researcher at Netherlands Environmental Assessment Agency in NL. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.705157
+date: 2026-10-11T02:32:59.725549
 url: "/cdr-researcher-census/researchers/astrid-bos-a5049062/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Multiple pathways towards sustainable development goals and climate targets** (2024)
-   38 citations · General CDR
+   40 citations · General CDR
 
 2. **Food and land system transformations under different societal perspectives on sustainable development** (2024)
-   12 citations · General CDR
+   13 citations · General CDR
 
 3. **Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment** (2026)
    0 citations · BECCS

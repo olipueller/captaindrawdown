@@ -1,7 +1,7 @@
 ---
 title: "Diāna Stamberga"
 description: "Diāna Stamberga is a Mid-career General CDR researcher at Oak Ridge National Laboratory in US. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.702859
+date: 2026-10-11T02:32:59.723144
 url: "/cdr-researcher-census/researchers/diana-stamberga-a5070443/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,25 +51,25 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Photochemically‐Driven CO<sub>2</sub> Release Using a Metastable‐State Photoacid for Energy Efficient Direct Air Capture** (2023)
-   43 citations
+   44 citations
 
 2. **Ultra-fast microwave regeneration of CO2 solid sorbents for energy-efficient direct air capture** (2022)
-   41 citations
+   42 citations
 
 3. **An effective air–liquid contactor for CO2 direct air capture using aqueous solvents** (2023)
-   38 citations
+   39 citations
 
 4. **Determination of the regeneration energy of direct air capture solvents/sorbents using calorimetric methods** (2023)
    28 citations
 
 5. **Synergistic direct air capture of CO2 with aqueous guanidine/amino acid solvents** (2022)
-   26 citations
+   24 citations
 
 6. **Chemical Feedback in the Self-Assembly and Function of Air–Liquid Interfaces: Insight into the Bottlenecks of CO<sub>2</sub> Direct Air Capture** (2023)
    20 citations
 
 7. **Synergistic Assembly of Charged Oligomers and Amino Acids at the Air–Water Interface: An Avenue toward Surface-Directed CO<sub>2</sub> Capture** (2024)
-   17 citations
+   16 citations
 
 8. **Effective direct steam regeneration of bis-iminoguanidine solid sorbent used for carbon dioxide capture** (2024)
    13 citations
@@ -78,7 +78,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    13 citations
 
 10. **Pronounced reduction in the regeneration energy of potassium sarcosinate CO2 capture solvent using TiO2** (2024)
-   10 citations
+   12 citations
 
 ## External Profiles
 

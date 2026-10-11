@@ -1,7 +1,7 @@
 ---
 title: "Katsutoshi Taki"
 description: "Katsutoshi Taki is a Senior Soil Carbon researcher. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.039392
+date: 2026-10-11T02:33:00.070147
 url: "/cdr-researcher-census/researchers/katsutoshi-taki-a5075087/"
 layout: "researcher"
 hiddenInHomeList: true

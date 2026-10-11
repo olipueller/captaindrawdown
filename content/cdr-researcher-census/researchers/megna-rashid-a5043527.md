@@ -1,7 +1,7 @@
 ---
 title: "Megna Rashid"
 description: "Megna Rashid is a Mid-career Soil Carbon researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir in IN. With 38 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.867757
+date: 2026-10-11T02:32:59.894494
 url: "/cdr-researcher-census/researchers/megna-rashid-a5043527/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Multi-scale processes influencing global carbon storage and land-carbon-climate nexus: A critical review** (2022)
-   86 citations · General CDR
+   85 citations · General CDR
 
 2. **Soil Health and Carbon Stock Enhancement through Fruit Tree-based Agroforestry in the Degraded Lands of Central Kashmir Himalayas** (2026)
    1 citations · Soil Carbon

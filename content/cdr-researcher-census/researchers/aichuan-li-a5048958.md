@@ -1,7 +1,7 @@
 ---
 title: "Aichuan Li"
 description: "Aichuan Li is a Mid-career General CDR researcher at Heilongjiang Bayi Agricultural University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.168791
+date: 2026-10-11T02:33:00.198550
 url: "/cdr-researcher-census/researchers/aichuan-li-a5048958/"
 layout: "researcher"
 hiddenInHomeList: true

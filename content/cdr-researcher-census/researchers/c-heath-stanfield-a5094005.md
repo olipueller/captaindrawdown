@@ -1,7 +1,7 @@
 ---
 title: "C. Heath Stanfield"
 description: "C. Heath Stanfield is a Mid-career Enhanced Weathering researcher at Pacific Northwest National Laboratory in US. With 30 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.300786
+date: 2026-10-11T02:33:00.331855
 url: "/cdr-researcher-census/researchers/c-heath-stanfield-a5094005/"
 layout: "researcher"
 hiddenInHomeList: true

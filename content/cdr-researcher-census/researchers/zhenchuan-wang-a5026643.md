@@ -1,7 +1,7 @@
 ---
 title: "Zhenchuan Wang"
 description: "Zhenchuan Wang is a Senior Soil Carbon researcher at China Special Equipment Inspection and Research Institute in CN. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.513010
+date: 2026-10-11T02:32:59.526454
 url: "/cdr-researcher-census/researchers/zhenchuan-wang-a5026643/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Study on spatiotemporal changes of ecosystem service trade-offs/synergies and driving mechanisms in the key zone of mountain-river-sea coupling: A case study of the southwest Guangxi Karst-Beibu Gulf** (2024)
-   28 citations
+   30 citations
 
 2. **Meta-analysis shows that planting nitrogen-fixing species increases soil organic carbon stock** (2025)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 3. **Vegetation restoration promotes soil carbon stability by enhancing mineral-associated organic carbon and microbial necromass accumulation in karst ecosystems** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 ## External Profiles
 

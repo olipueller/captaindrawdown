@@ -1,7 +1,7 @@
 ---
 title: "Cuiling Lu"
 description: "Cuiling Lu is a Senior Biochar researcher at Tianjin Medical University Cancer Institute and Hospital in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.579740
+date: 2026-10-11T02:32:59.595586
 url: "/cdr-researcher-census/researchers/cuiling-lu-a5104041/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Carbon sequestration potential of biochar in soil from the perspective of organic carbon structural modification** (2024)
-   32 citations · Biochar
+   35 citations · Biochar
 
 ## External Profiles
 

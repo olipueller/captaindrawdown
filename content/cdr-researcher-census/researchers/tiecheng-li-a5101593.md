@@ -1,7 +1,7 @@
 ---
 title: "Tiecheng Li"
 description: "Tiecheng Li is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 44 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.381742
+date: 2026-10-11T02:32:59.389411
 url: "/cdr-researcher-census/researchers/tiecheng-li-a5101593/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Straw return alleviates the greenhouse effect of paddy fields by increasing soil organic carbon sequestration under water-saving irrigation** (2023)
-   54 citations · Biochar
+   56 citations · Biochar
 
 2. **Straw return combined with water-saving irrigation increases microbial necromass accumulation by accelerating microbial growth-turnover in Mollisols of paddy fields** (2025)
-   25 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 3. **Water-saving irrigation mitigates methane emissions from paddy fields: The role of iron** (2024)
    16 citations · Soil Carbon
 
 4. **Simulation Study of CH4 and N2O Emission Fluxes from Rice Fields in Northeast China under Different Straw-Returning and Irrigation Methods Based on the DNDC Model** (2023)
-   7 citations
+   8 citations
 
 ## External Profiles
 

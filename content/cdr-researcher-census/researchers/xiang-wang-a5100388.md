@@ -1,7 +1,7 @@
 ---
 title: "Xiang Wang"
 description: "Xiang Wang is a Senior Soil Carbon researcher at China Agricultural University in CN. With 71 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.146053
+date: 2026-10-11T02:32:59.150236
 url: "/cdr-researcher-census/researchers/xiang-wang-a5100388/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,25 +51,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microplastic-Derived Dissolved Organic Matter Regulates Soil Carbon Respiration via Microbial Ecophysiological Controls** (2025)
-   34 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 2. **Mechanisms controlling the stability and sequestration of mineral associated organic carbon upon erosion and deposition** (2024)
-   32 citations · Soil Carbon
+   33 citations · Soil Carbon
 
 3. **Biocrusts benefit soil carbon sequestration via increasing the stability of soil dissolved organic carbon in dryland ecosystem** (2025)
    17 citations · Soil Carbon
 
 4. **Microplastic Mixture Diversity Destabilizes Mineral-Associated Carbon via Constraining the Accumulation of Microbial Necromass** (2025)
-   10 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 5. **Changes in long-term land use alter deep soil microbial necromass and organic carbon stabilization** (2025)
    8 citations · Soil Carbon
 
 6. **Substrate-specific priming of mineral-associated organic carbon in various cropland soils** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 7. **Erosion-induced soil heterogeneity determines the fate of plant litter carbon via divergent microbial pathways** (2026)
-   0 citations
+   1 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Andrea L. Magnano"
 description: "Andrea L. Magnano is a Mid-career Soil Carbon researcher at Consejo Nacional de Investigaciones Científicas y Técnicas in AR. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.364093
+date: 2026-10-11T02:33:00.399954
 url: "/cdr-researcher-census/researchers/andrea-l-magnano-a5052376/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Relationships between land-use intensity, woody species diversity, and carbon storage in an arid woodland ecosystem** (2022)
-   25 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 2. **Relationships between Land-Use Intensity, Biodiversity and Carbon Storage in an Arid Woodland Ecosystem** (2022)
    0 citations · Soil Carbon

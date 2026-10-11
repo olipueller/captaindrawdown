@@ -1,7 +1,7 @@
 ---
 title: "Ana Carolina Oliveira Fiorini"
 description: "Ana Carolina Oliveira Fiorini is a Mid-career General CDR researcher at Universidade Federal do Rio de Janeiro in BR. With 24 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.435885
+date: 2026-10-11T02:32:59.446186
 url: "/cdr-researcher-census/researchers/ana-carolina-oliveira-fiorini-a5044562/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Taking stock of carbon dioxide removal policy in emerging economies: developments in Brazil, China, and India** (2024)
-   15 citations · General CDR
+   18 citations · General CDR
 
 2. **Navigating the obstacles of carbon-negative technologies** (2024)
    6 citations · General CDR

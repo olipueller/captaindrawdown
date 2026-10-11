@@ -1,7 +1,7 @@
 ---
 title: "Jonathan Montgomery"
 description: "Jonathan Montgomery is a Mid-career Biochar researcher at Cal Poly Humboldt in US. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.229815
+date: 2026-10-11T02:33:00.260030
 url: "/cdr-researcher-census/researchers/jonathan-montgomery-a5078284/"
 layout: "researcher"
 hiddenInHomeList: true

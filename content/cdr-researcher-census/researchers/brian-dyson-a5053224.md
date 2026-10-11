@@ -1,7 +1,7 @@
 ---
 title: "Brian Dyson"
 description: "Brian Dyson is a Senior Soil Carbon researcher at Environmental Protection Agency in US. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.368693
+date: 2026-10-11T02:32:59.375884
 url: "/cdr-researcher-census/researchers/brian-dyson-a5053224/"
 layout: "researcher"
 hiddenInHomeList: true

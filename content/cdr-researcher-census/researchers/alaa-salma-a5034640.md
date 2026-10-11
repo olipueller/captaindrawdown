@@ -1,7 +1,7 @@
 ---
 title: "Alaa Salma"
 description: "Alaa Salma is a Mid-career Biochar researcher at École des Métiers de l’Environnement in FR. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.146345
+date: 2026-10-11T02:33:00.176020
 url: "/cdr-researcher-census/researchers/alaa-salma-a5034640/"
 layout: "researcher"
 hiddenInHomeList: true

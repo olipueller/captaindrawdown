@@ -1,7 +1,7 @@
 ---
 title: "Xianwei Song"
 description: "Xianwei Song is a Mid-career Biochar researcher. With 35 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.289523
+date: 2026-10-11T02:32:59.293837
 url: "/cdr-researcher-census/researchers/xianwei-song-a5100542/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,10 +46,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Dynamics and fractions of soil organic carbon in response to 35 years of afforestation in subtropical China** (2024)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 2. **Depth-Dependent Impacts of Long-Term Vegetation Restoration on Soil Carbon Stability and C/N Stoichiometry in Subtropical Plantations** (2025)
-   2 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 3. **Recovery Mechanism of Anammox System Under Rare Earth Yttrium Stress Mediated by Biochar** (2026)
    0 citations · Biochar

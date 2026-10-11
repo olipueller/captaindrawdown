@@ -1,7 +1,7 @@
 ---
 title: "Xiaoyun Li"
 description: "Xiaoyun Li is a Mid-career Soil Carbon researcher at Shaanxi Normal University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.493433
+date: 2026-10-11T02:32:59.505546
 url: "/cdr-researcher-census/researchers/xiaoyun-li-a5051477/"
 layout: "researcher"
 hiddenInHomeList: true

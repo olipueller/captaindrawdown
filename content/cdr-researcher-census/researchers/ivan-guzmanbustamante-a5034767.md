@@ -1,7 +1,7 @@
 ---
 title: "Ivan Guzman‐Bustamante"
 description: "Ivan Guzman‐Bustamante is a Mid-career Soil Carbon researcher at University of Hohenheim in DE. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.703934
+date: 2026-10-11T02:32:59.724224
 url: "/cdr-researcher-census/researchers/ivan-guzmanbustamante-a5034767/"
 layout: "researcher"
 hiddenInHomeList: true

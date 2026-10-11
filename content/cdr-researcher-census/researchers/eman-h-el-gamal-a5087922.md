@@ -1,7 +1,7 @@
 ---
 title: "Eman H. El-Gamal"
 description: "Eman H. El-Gamal is a Mid-career Biochar researcher at City of Scientific Research and Technological Applications in EG. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.048398
+date: 2026-10-11T02:33:00.079106
 url: "/cdr-researcher-census/researchers/eman-h-el-gamal-a5087922/"
 layout: "researcher"
 hiddenInHomeList: true

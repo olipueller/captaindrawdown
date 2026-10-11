@@ -1,7 +1,7 @@
 ---
 title: "Ziming Fang"
 description: "Ziming Fang is a Mid-career Ocean CDR researcher at Xiamen University in CN. With 31 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.581755
+date: 2026-10-11T02:32:59.597979
 url: "/cdr-researcher-census/researchers/ziming-fang-a5101803/"
 layout: "researcher"
 hiddenInHomeList: true

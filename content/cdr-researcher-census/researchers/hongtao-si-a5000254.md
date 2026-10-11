@@ -1,7 +1,7 @@
 ---
 title: "Hongtao Si"
 description: "Hongtao Si is a Senior Soil Carbon researcher at Chongqing Institute of Geology and Mineral Resources in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.376530
+date: 2026-10-11T02:33:00.411969
 url: "/cdr-researcher-census/researchers/hongtao-si-a5000254/"
 layout: "researcher"
 hiddenInHomeList: true

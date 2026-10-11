@@ -1,7 +1,7 @@
 ---
 title: "Julián Esteban Rivera"
 description: "Julián Esteban Rivera is a Senior Soil Carbon researcher at Centro para la Investigación en Sistemas Sostenibles de Producción Agropecuaria in CO. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.654539
+date: 2026-10-11T02:32:59.673065
 url: "/cdr-researcher-census/researchers/julian-esteban-rivera-a5089447/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hongjuan Lu"
 description: "Hongjuan Lu is a Mid-career Soil Carbon researcher at Anhui Agricultural University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.294651
+date: 2026-10-11T02:33:00.324760
 url: "/cdr-researcher-census/researchers/hongjuan-lu-a5112921/"
 layout: "researcher"
 hiddenInHomeList: true

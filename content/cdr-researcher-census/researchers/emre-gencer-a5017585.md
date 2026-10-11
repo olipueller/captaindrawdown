@@ -1,7 +1,7 @@
 ---
 title: "Emre Gençer"
 description: "Emre Gençer is a Senior General CDR researcher at Massachusetts Institute of Technology in US. With 77 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.094083
+date: 2026-10-11T02:32:59.098652
 url: "/cdr-researcher-census/researchers/emre-gencer-a5017585/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Optimization of a combined power plant CO<sub>2</sub> capture and direct air capture concept for flexible power plant operation** (2024)
-   16 citations · DAC
+   17 citations · DAC
 
 2. **On the climate impacts of blue hydrogen production** (2021)
    12 citations · BECCS

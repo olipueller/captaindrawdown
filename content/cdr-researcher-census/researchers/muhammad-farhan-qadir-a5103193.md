@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Farhan Qadir"
 description: "Muhammad Farhan Qadir is a Senior Biochar researcher at North West Agriculture and Forestry University in CN. With 32 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.061832
+date: 2026-10-11T02:32:59.066280
 url: "/cdr-researcher-census/researchers/muhammad-farhan-qadir-a5103193/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Divergent responses of phosphorus solubilizing bacteria with P-laden biochar for enhancing nutrient recovery, growth, and yield of canola (Brassica napus L.)** (2024)
-   17 citations · Biochar
+   20 citations · Biochar
 
 2. **Engineered biochar nanocomposites: integrating nanotechnology with carbon-based materials to enhance plant resilience against biotic and abiotic stresses** (2026)
-   2 citations · Biochar
+   3 citations · Biochar
 
 ## External Profiles
 

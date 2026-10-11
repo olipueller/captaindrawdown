@@ -1,7 +1,7 @@
 ---
 title: "Yunshan Meng"
 description: "Yunshan Meng is a Mid-career Soil Carbon researcher at Shandong Marine Resource and Environment Research Institute in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.304363
+date: 2026-10-11T02:33:00.335360
 url: "/cdr-researcher-census/researchers/yunshan-meng-a5101316/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    21 citations · Soil Carbon
 
 2. **Fractions, stability, and influencing factors of soil organic carbon under different land-use in sodic soils** (2022)
-   13 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 3. **The Accumulation of Plant- and Microbial-Derived Carbon and its Contribution to Soil Organic Carbon in Saline-Sodic Farmland** (2024)
    0 citations · Soil Carbon

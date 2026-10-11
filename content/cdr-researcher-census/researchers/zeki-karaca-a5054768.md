@@ -1,7 +1,7 @@
 ---
 title: "Zeki Karaca"
 description: "Zeki Karaca is a Mid-career Enhanced Weathering researcher at University of Maine System in US. With 8 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.316643
+date: 2026-10-11T02:33:00.347740
 url: "/cdr-researcher-census/researchers/zeki-karaca-a5054768/"
 layout: "researcher"
 hiddenInHomeList: true

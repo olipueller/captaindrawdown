@@ -1,7 +1,7 @@
 ---
 title: "Joyce Clarke"
 description: "Joyce Clarke is a Senior Biochar researcher at Middlesbrough College in GB. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.791243
+date: 2026-10-11T02:32:59.815040
 url: "/cdr-researcher-census/researchers/joyce-clarke-a5068445/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The Effect of Temperature and Treatment Regime on the Physical, Chemical, and Biological Properties of Poultry Litter Biochar** (2024)
-   6 citations
+   7 citations
 
 2. **The Effect of Temperature and Treatment Regime on the Physical, Chemical, and Biological Properties of Poultry Litter Biochar** (2024)
    3 citations · Biochar

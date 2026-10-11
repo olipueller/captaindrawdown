@@ -1,7 +1,7 @@
 ---
 title: "Maria Val Martin"
 description: "Maria Val Martin is a Senior General CDR researcher at University of Sheffield in GB. With 173 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.032964
+date: 2026-10-11T02:32:59.036005
 url: "/cdr-researcher-census/researchers/maria-val-martin-a5037090/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Substantial carbon drawdown potential from enhanced rock weathering in the United Kingdom** (2022)
-   164 citations · Enhanced Weathering
+   165 citations · Enhanced Weathering
 
 2. **Enhanced weathering in the US Corn Belt delivers carbon removal with agronomic benefits** (2024)
    146 citations
@@ -62,14 +62,14 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 4. **Transforming US agriculture for carbon removal with enhanced weathering** (2025)
    59 citations · Enhanced Weathering
 
-5. **Improving nitrogen cycling in a land surface model (CLM5) to quantify soil N <sub>2</sub> O, NO, and NH <sub>3</sub> emissions from enhanced rock weathering with croplands** (2023)
-   16 citations · Enhanced Weathering
+5. **Global and regional hydrological impacts of global forest expansion** (2024)
+   22 citations · General CDR
 
-6. **Making mistakes in estimating the CO2 sequestration potential of UK croplands with enhanced weathering** (2023)
-   16 citations · Enhanced Weathering
+6. **Improving nitrogen cycling in a land surface model (CLM5) to quantify soil N <sub>2</sub> O, NO, and NH <sub>3</sub> emissions from enhanced rock weathering with croplands** (2023)
+   20 citations · Enhanced Weathering
 
-7. **Global and regional hydrological impacts of global forest expansion** (2024)
-   15 citations · General CDR
+7. **Making mistakes in estimating the CO2 sequestration potential of UK croplands with enhanced weathering** (2023)
+   17 citations · Enhanced Weathering
 
 8. **Global and Regional Hydrological Impacts of Global Forest Expansion** (2024)
    5 citations

@@ -1,7 +1,7 @@
 ---
 title: "Prakash Binnal"
 description: "Prakash Binnal is a Mid-career Biochar researcher at Institute of Engineering in NP. With 34 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.470340
+date: 2026-10-11T02:32:59.481582
 url: "/cdr-researcher-census/researchers/prakash-binnal-a5056479/"
 layout: "researcher"
 hiddenInHomeList: true

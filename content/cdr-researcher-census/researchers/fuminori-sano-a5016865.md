@@ -1,7 +1,7 @@
 ---
 title: "Fuminori Sano"
 description: "Fuminori Sano is a Senior General CDR researcher at Research Institute of Innovative Technology for the Earth in JP. With 155 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.068150
+date: 2026-10-11T02:32:59.072701
 url: "/cdr-researcher-census/researchers/fuminori-sano-a5016865/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,21 +51,21 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Climate change mitigation measures for global net-zero emissions and the roles of CO2 capture and utilization and direct air capture** (2021)
-   93 citations · BECCS
+   94 citations · BECCS
 
 2. **Impacts of ride and car-sharing associated with fully autonomous cars on global energy consumptions and carbon dioxide emissions** (2021)
    80 citations · General CDR
 
 3. **Assessment of comprehensive energy systems for achieving carbon neutrality in road transport** (2022)
-   27 citations · General CDR
+   26 citations · General CDR
 
 4. **The contribution of bioenergy to the decarbonization of transport: a multi-model assessment** (2022)
    21 citations · BECCS
 
-5. **JMIP 2 Part 1: Technology uncertainty and robustness in Japan’s net-zero pathways** (2025)
-   3 citations · General CDR
+5. **How great will the demand for critical minerals be to meet the 2 °C and 1.5 °C goals? Insights from various technology deployment scenarios** (2025)
+   4 citations · General CDR
 
-6. **How great will the demand for critical minerals be to meet the 2 °C and 1.5 °C goals? Insights from various technology deployment scenarios** (2025)
+6. **JMIP 2 Part 1: Technology uncertainty and robustness in Japan’s net-zero pathways** (2025)
    3 citations · General CDR
 
 7. **Mitigating trade-offs between global food access and net-zero emissions: the potential contribution of direct air carbon capture and storage** (2023)

@@ -1,7 +1,7 @@
 ---
 title: "Ebuka Chizitere Emenike"
 description: "Ebuka Chizitere Emenike is a Senior Biochar researcher at Project Development Institute in NG. With 159 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.056731
+date: 2026-10-11T02:32:59.061048
 url: "/cdr-researcher-census/researchers/ebuka-chizitere-emenike-a5015725/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Adsorption of crude oil from aqueous solution: A review** (2022)
-   97 citations
+   98 citations
 
 2. **Thermal recycling strategy of Coca-Cola PVC label films by its co-carbonization with Terminalia ivorensis leaves** (2022)
    41 citations · Biochar
 
 3. **A comprehensive review on the sequestration of dyes from aqueous media using maize-/corn-based adsorbents** (2023)
-   32 citations
+   33 citations
 
 4. **Hybrid biochar production from biomass and pigmented plastic for sustainable waste-to-energy** (2023)
-   32 citations · Biochar
+   33 citations · Biochar
 
 5. **Comparative assessment of biochar produced from LDPE and neem leaves using batch and semi-batch biomass fuel-based reactors** (2023)
    23 citations · Biochar
@@ -71,11 +71,11 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 7. **Sustainable Recycling of Polyester Fabric Waste and Sugarcane Bagasse into Biochar** (2024)
    7 citations · Biochar
 
-8. **Comparative Structural and Textural Evaluation of Biochar Derived From Devolatilized Agricultural Pods** (2025)
-   5 citations · Biochar
+8. **Production and characterization of sunflower stalk biochar and ash: a study on batch versus semi-batch gasifier systems** (2025)
+   6 citations · BECCS
 
-9. **Production and characterization of sunflower stalk biochar and ash: a study on batch versus semi-batch gasifier systems** (2025)
-   5 citations · BECCS
+9. **Comparative Structural and Textural Evaluation of Biochar Derived From Devolatilized Agricultural Pods** (2025)
+   5 citations · Biochar
 
 10. **Preparations, Modifications, Properties, and Environmental Applications of Animal Manure-Derived Biochar: A Review** (2026)
    0 citations · Biochar

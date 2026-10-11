@@ -1,7 +1,7 @@
 ---
 title: "Zonghao Guo"
 description: "Zonghao Guo is a Mid-career Soil Carbon researcher at Huaibei Normal University in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.801671
+date: 2026-10-11T02:32:59.825829
 url: "/cdr-researcher-census/researchers/zonghao-guo-a5044118/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **An antagonistic effect of elevated CO2 and warming on soil N2O emissions related to nitrifier and denitrifier communities in a Chinese wheat field** (2021)
-   18 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 ## External Profiles
 

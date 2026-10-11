@@ -1,7 +1,7 @@
 ---
 title: "Abdulmajid Abdullahi Shagali"
 description: "Abdulmajid Abdullahi Shagali is a Mid-career Biochar researcher at Huazhong University of Science and Technology in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.779531
+date: 2026-10-11T02:32:59.802719
 url: "/cdr-researcher-census/researchers/abdulmajid-abdullahi-shagali-a5052721/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **In-situ graphitic carbon deposition regulated by methane decomposition for enhanced low-frequency microwave absorption of biochar** (2025)
-   8 citations · Biochar
+   10 citations · Biochar
 
 2. **H2 produced by catalytic reforming of acetic acid over Ni/char catalyst recycled from the biochar adsorption purification of simulated Ni electroplating wastewater** (2022)
    6 citations · Biochar

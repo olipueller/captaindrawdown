@@ -1,7 +1,7 @@
 ---
 title: "Jia Wen Chong"
 description: "Jia Wen Chong is a Mid-career Biochar researcher at University of Nottingham Malaysia Campus in MY. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.801063
+date: 2026-10-11T02:32:59.825228
 url: "/cdr-researcher-census/researchers/jia-wen-chong-a5037299/"
 layout: "researcher"
 hiddenInHomeList: true

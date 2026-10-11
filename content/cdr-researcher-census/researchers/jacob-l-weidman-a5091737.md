@@ -1,7 +1,7 @@
 ---
 title: "Jacob L. Weidman"
 description: "Jacob L. Weidman is a Mid-career General CDR researcher at Defense Logistics Agency in US. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.489805
+date: 2026-10-11T02:32:59.501870
 url: "/cdr-researcher-census/researchers/jacob-l-weidman-a5091737/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hongtu Xie"
 description: "Hongtu Xie is a Senior Soil Carbon researcher at 中国科学院沈阳应用生态研究所 in CN. With 153 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.054725
+date: 2026-10-11T02:32:59.058981
 url: "/cdr-researcher-census/researchers/hongtu-xie-a5102831/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,22 +54,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    163 citations · Soil Carbon
 
 2. **Exogenous carbon turnover within the soil food web strengthens soil carbon sequestration through microbial necromass accumulation** (2023)
-   88 citations · Soil Carbon
+   89 citations · Soil Carbon
 
 3. **Shifts in microbial metabolic pathway for soil carbon accumulation along subtropical forest succession** (2021)
    66 citations · Soil Carbon
 
 4. **Effects of biochar incorporation on soil viable and necromass carbon in the luvisol soil** (2021)
-   32 citations · Biochar
+   34 citations · Biochar
 
 5. **Effects of residue mulching amounts on metabolic footprints based on production and respiration of soil nematodes in a long‐term no‐tillage system** (2021)
    32 citations · Soil Carbon
 
 6. **Stover and biochar can improve soil microbial necromass carbon, and enzymatic transformation at the genetic level** (2022)
-   29 citations · Biochar
+   31 citations · Biochar
 
 7. **Enhancing Sustainable Agriculture in China: A Meta-Analysis of the Impact of Straw and Manure on Crop Yield and Soil Fertility** (2024)
-   27 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 8. **Effects of long-term conservation tillage on N2 and N2O emission rates and N2O emission microbial pathways in Mollisols** (2023)
    10 citations · Soil Carbon

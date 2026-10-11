@@ -1,7 +1,7 @@
 ---
 title: "Torpong Kreetachat"
 description: "Torpong Kreetachat is a Senior Biochar researcher at University of Phayao in TH. With 75 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.350790
+date: 2026-10-11T02:32:59.357120
 url: "/cdr-researcher-census/researchers/torpong-kreetachat-a5033865/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Slow Pyrolysis of Waste Cow Bone for Biochar Production and Its Application in Copper Removal From Acidic Solutions** (2024)
-   27 citations · Biochar
+   29 citations · Biochar
 
 2. **Mesoporous biochar composite derived from hardwood and post-recycled plastic waste in Thailand: A case study of nickel removal in acidic solution** (2025)
    15 citations · Biochar
 
 3. **Co-pyrolyzed sawdust–polypropylene biochar as a sustainable adsorbent for heavy-metal removal in wastewater** (2026)
-   2 citations · Biochar
+   4 citations · Biochar
 
 4. **Integrated Techno-Economic, Environmental Screening, and Social Return on Investment Analysis of Community-Scale Sawdust–Polypropylene Co-Pyrolysis for Heavy-Metal Adsorbent Production in Rural Area, Thailand** (2026)
    0 citations · Biochar

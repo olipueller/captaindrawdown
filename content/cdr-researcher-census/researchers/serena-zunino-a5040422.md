@@ -1,7 +1,7 @@
 ---
 title: "Serena Zunino"
 description: "Serena Zunino is a Mid-career Ocean CDR researcher at National Institute of Oceanography and Applied Geophysics in IT. With 31 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.668572
+date: 2026-10-11T02:32:59.688099
 url: "/cdr-researcher-census/researchers/serena-zunino-a5040422/"
 layout: "researcher"
 hiddenInHomeList: true

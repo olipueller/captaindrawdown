@@ -1,7 +1,7 @@
 ---
 title: "Leah K. Clayton"
 description: "Leah K. Clayton is an Early-career BECCS researcher at National Audubon Society in US. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.162425
+date: 2026-10-11T02:33:00.192730
 url: "/cdr-researcher-census/researchers/leah-k-clayton-a5040720/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Nonenergy Biomass Carbon Removal and Storage (BiCRS): Assessing Durability of Nongaseous Carbon Products Across Terrestrial Storage Fates** (2026)
-   1 citations · General CDR
+   2 citations · General CDR
 
 2. **Near-term, geospatial opportunity for biomass carbon storage to address the wildfire and climate crises** (2026)
    0 citations · BECCS

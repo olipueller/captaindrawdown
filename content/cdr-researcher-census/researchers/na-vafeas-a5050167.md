@@ -1,7 +1,7 @@
 ---
 title: "N.A. Vafeas"
 description: "N.A. Vafeas is a Mid-career Enhanced Weathering researcher. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.327922
+date: 2026-10-11T02:33:00.361372
 url: "/cdr-researcher-census/researchers/na-vafeas-a5050167/"
 layout: "researcher"
 hiddenInHomeList: true

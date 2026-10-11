@@ -1,7 +1,7 @@
 ---
 title: "Fabian A. Gomez"
 description: "Fabian A. Gomez is a Senior Ocean CDR researcher at Mississippi State University  in US. With 54 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.283175
+date: 2026-10-11T02:32:59.287915
 url: "/cdr-researcher-census/researchers/fabian-a-gomez-a5024952/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    38 citations · Ocean CDR
 
 2. **Increasing River Alkalinity Slows Ocean Acidification in the Northern Gulf of Mexico** (2021)
-   38 citations · General CDR
+   36 citations · General CDR
 
 3. **Mississippi River Chemistry Impacts on the Interannual Variability of Aragonite Saturation State in the Northern Gulf of Mexico** (2024)
    6 citations · Ocean CDR

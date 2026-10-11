@@ -1,7 +1,7 @@
 ---
 title: "Yalong Liu"
 description: "Yalong Liu is a Mid-career Soil Carbon researcher at Shenyang Agricultural University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.951042
+date: 2026-10-11T02:32:59.981339
 url: "/cdr-researcher-census/researchers/yalong-liu-a5078130/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,18 +51,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Differential accumulation patterns of microbial necromass induced by maize root vs. shoot residue addition in agricultural Alfisols** (2021)
-   63 citations · Soil Carbon
+   61 citations · Soil Carbon
 
 2. **Residence time of carbon in paddy soils** (2023)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
-3. **Divergent accumulation of microbial and plant necromass along paddy soil development in a millennium scale** (2023)
+3. **No-tillage mulch with green manure retention can mitigate carbon emissions, increase crop productivity, and promote agricultural sustainability** (2024)
    8 citations · Soil Carbon
 
-4. **Mechanistic Insights into Farmland Soil Carbon Sequestration: A Review of Substituting Green Manure for Nitrogen Fertilizer** (2025)
-   7 citations · Soil Carbon
+4. **Divergent accumulation of microbial and plant necromass along paddy soil development in a millennium scale** (2023)
+   8 citations · Soil Carbon
 
-5. **No-tillage mulch with green manure retention can mitigate carbon emissions, increase crop productivity, and promote agricultural sustainability** (2024)
+5. **Mechanistic Insights into Farmland Soil Carbon Sequestration: A Review of Substituting Green Manure for Nitrogen Fertilizer** (2025)
    7 citations · Soil Carbon
 
 6. **No-tillage with total green manure mulching reduces soil respiration by regulating soil moisture affecting heterotrophic respiration** (2024)

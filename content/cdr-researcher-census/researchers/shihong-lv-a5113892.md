@@ -1,7 +1,7 @@
 ---
 title: "Shihong Lv"
 description: "Shihong Lv is a Mid-career Biochar researcher at Mudanjiang Medical University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.062571
+date: 2026-10-11T02:33:00.092613
 url: "/cdr-researcher-census/researchers/shihong-lv-a5113892/"
 layout: "researcher"
 hiddenInHomeList: true

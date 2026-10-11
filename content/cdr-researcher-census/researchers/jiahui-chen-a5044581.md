@@ -1,7 +1,7 @@
 ---
 title: "Jiahui Chen"
 description: "Jiahui Chen is a Mid-career Biochar researcher at Liaocheng University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.777058
+date: 2026-10-11T02:32:59.800117
 url: "/cdr-researcher-census/researchers/jiahui-chen-a5044581/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Top CDR Publications
 
-1. **Biochar superior than straw in enhancing soil carbon sequestration via altering organic matter stability and carbon cycle genes in Cd-Contaminated soil** (2025)
+1. **Biochar amendments enhanced organic carbon pool stability in soil aggregates by regulating soil carbon functional microbes** (2026)
    8 citations · Biochar
 
-2. **Biochar amendments enhanced organic carbon pool stability in soil aggregates by regulating soil carbon functional microbes** (2026)
-   7 citations · Biochar
+2. **Biochar superior than straw in enhancing soil carbon sequestration via altering organic matter stability and carbon cycle genes in Cd-Contaminated soil** (2025)
+   8 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Yanbao Lei"
 description: "Yanbao Lei is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 67 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.103922
+date: 2026-10-11T02:32:59.108643
 url: "/cdr-researcher-census/researchers/yanbao-lei-a5102261/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · Soil Carbon
 
 2. **Plant-soil synchrony and its role in the restoration of desertified grassland on the Qinghai-Tibet Plateau** (2025)
-   3 citations
+   4 citations
 
 3. **From active biomarkers to legacy effects: Linking microbial life strategies to carbon sequestration in alpine grassland restoration** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 4. **Deciphering moisture-driven divergence in soil carbon limitation via microbial necromass dynamics across arid versus humid alpine grassland restoration chronosequences** (2025)
    2 citations · Soil Carbon

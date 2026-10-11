@@ -1,7 +1,7 @@
 ---
 title: "Kaiyun Qian"
 description: "Kaiyun Qian is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.017852
+date: 2026-10-11T02:33:00.048856
 url: "/cdr-researcher-census/researchers/kaiyun-qian-a5037114/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Precipitation increase promotes soil organic carbon formation and stability via the mycorrhizal fungal pathway** (2025)
-   22 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 ## External Profiles
 

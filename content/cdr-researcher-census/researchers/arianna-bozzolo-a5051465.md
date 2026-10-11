@@ -1,7 +1,7 @@
 ---
 title: "Arianna Bozzolo"
 description: "Arianna Bozzolo is a Mid-career Soil Carbon researcher at Rodale Institute in US. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.010604
+date: 2026-10-11T02:33:00.041744
 url: "/cdr-researcher-census/researchers/arianna-bozzolo-a5051465/"
 layout: "researcher"
 hiddenInHomeList: true

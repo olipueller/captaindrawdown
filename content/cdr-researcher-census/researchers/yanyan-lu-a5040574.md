@@ -1,7 +1,7 @@
 ---
 title: "Yanyan Lu"
 description: "Yanyan Lu is a Senior Biochar researcher at Jiangsu University in CN. With 75 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.133363
+date: 2026-10-11T02:32:59.138205
 url: "/cdr-researcher-census/researchers/yanyan-lu-a5040574/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,16 +50,19 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Top CDR Publications
 
-1. **Biochar superior than straw in enhancing soil carbon sequestration via altering organic matter stability and carbon cycle genes in Cd-Contaminated soil** (2025)
+1. **Biochar amendments enhanced organic carbon pool stability in soil aggregates by regulating soil carbon functional microbes** (2026)
    8 citations · Biochar
 
-2. **Biochar amendments enhanced organic carbon pool stability in soil aggregates by regulating soil carbon functional microbes** (2026)
-   7 citations · Biochar
+2. **Biochar superior than straw in enhancing soil carbon sequestration via altering organic matter stability and carbon cycle genes in Cd-Contaminated soil** (2025)
+   8 citations · Biochar
 
 3. **Noncondensed aromatic carbon of sludge-derived biochar predominated peroxydisulfate activation mechanism for tetracycline degradation via an electron transfer pathway** (2023)
    3 citations · Biochar
 
-4. **Noncondensed Aromatic Components of Sludge-Derived Biochar Predominated Peroxydisulfate Activation Mechanism for Tetracycline Degradation Via an Electron Transfer Pathway** (2023)
+4. **Iron Oxide Types Determine the Regulatory Effects of Biochar on Carbon Emissions from Arsenic-Contaminated Soils** (2026)
+   0 citations · Biochar
+
+5. **Noncondensed Aromatic Components of Sludge-Derived Biochar Predominated Peroxydisulfate Activation Mechanism for Tetracycline Degradation Via an Electron Transfer Pathway** (2023)
    0 citations · Biochar
 
 ## External Profiles

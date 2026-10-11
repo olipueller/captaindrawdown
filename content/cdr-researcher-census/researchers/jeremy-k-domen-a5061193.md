@@ -1,7 +1,7 @@
 ---
 title: "Jeremy K. Domen"
 description: "Jeremy K. Domen is a Mid-career DAC researcher at Healthy Start in US. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.257175
+date: 2026-10-11T02:32:59.260848
 url: "/cdr-researcher-census/researchers/jeremy-k-domen-a5061193/"
 layout: "researcher"
 hiddenInHomeList: true

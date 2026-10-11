@@ -1,7 +1,7 @@
 ---
 title: "Andis Adamovičs"
 description: "Andis Adamovičs is a Mid-career Soil Carbon researcher at State Forest Research Institute in IN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.997921
+date: 2026-10-11T02:33:00.028765
 url: "/cdr-researcher-census/researchers/andis-adamovics-a5052887/"
 layout: "researcher"
 hiddenInHomeList: true

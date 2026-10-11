@@ -1,7 +1,7 @@
 ---
 title: "Zhiliang Ma"
 description: "Zhiliang Ma is a Mid-career Soil Carbon researcher at China West Normal University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.066489
+date: 2026-10-11T02:33:00.096663
 url: "/cdr-researcher-census/researchers/zhiliang-ma-a5100552/"
 layout: "researcher"
 hiddenInHomeList: true

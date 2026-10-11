@@ -1,7 +1,7 @@
 ---
 title: "Yoseok Choi"
 description: "Yoseok Choi is an Early-career Biochar researcher at Chungbuk National University in KR. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.354059
+date: 2026-10-11T02:33:00.389200
 url: "/cdr-researcher-census/researchers/yoseok-choi-a5023110/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Nano-Biochar as a Sustainable Catalyst for Anaerobic Digestion: A Synergetic Closed-Loop Approach** (2022)
-   81 citations · Biochar
+   82 citations · Biochar
 
 ## External Profiles
 

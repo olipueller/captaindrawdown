@@ -1,7 +1,7 @@
 ---
 title: "Po‐Jen Tseng"
 description: "Po‐Jen Tseng is a Mid-career General CDR researcher at Asus (Taiwan) in TW. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.570326
+date: 2026-10-11T02:32:59.586311
 url: "/cdr-researcher-census/researchers/pojen-tseng-a5026279/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mengjun Hu"
 description: "Mengjun Hu is a Mid-career Soil Carbon researcher at Henan University in CN. With 36 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.244298
+date: 2026-10-11T02:32:59.248004
 url: "/cdr-researcher-census/researchers/mengjun-hu-a5088988/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Integrated wheat-maize straw and tillage management strategies influence economic profit and carbon footprint in the Guanzhong Plain of China** (2021)
-   47 citations · Soil Carbon
+   49 citations · Soil Carbon
 
 2. **Nonlinear response of soil organic carbon sequestration to deadwood decomposition in a subtropical–temperate ecotonal forest** (2025)
    5 citations · Soil Carbon

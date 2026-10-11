@@ -1,7 +1,7 @@
 ---
 title: "Ting Xiong"
 description: "Ting Xiong is an Early-career Biochar researcher at Shanghai Zhangjiang Laboratory in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.342884
+date: 2026-10-11T02:33:00.377729
 url: "/cdr-researcher-census/researchers/ting-xiong-a5051178/"
 layout: "researcher"
 hiddenInHomeList: true

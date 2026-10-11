@@ -1,7 +1,7 @@
 ---
 title: "Alfred Lochner"
 description: "Alfred Lochner is a Senior Soil Carbon researcher at German Centre for Integrative Biodiversity Research in DE. With 33 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.312308
+date: 2026-10-11T02:32:59.317812
 url: "/cdr-researcher-census/researchers/alfred-lochner-a5055655/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Plant and microbial community composition jointly determine moorland multifunctionality** (2022)
-   46 citations · Soil Carbon
+   48 citations · Soil Carbon
 
 2. **Sustainable Land Use Enhances Soil Microbial Respiration Responses to Experimental Heat Stress** (2025)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 ## External Profiles
 

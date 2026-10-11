@@ -1,7 +1,7 @@
 ---
 title: "Gang Luo"
 description: "Gang Luo is a Mid-career Ocean CDR researcher at Guangxi University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.375451
+date: 2026-10-11T02:33:00.410903
 url: "/cdr-researcher-census/researchers/gang-luo-a5036501/"
 layout: "researcher"
 hiddenInHomeList: true

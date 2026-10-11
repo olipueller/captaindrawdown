@@ -1,7 +1,7 @@
 ---
 title: "Bankupalli Satyavathi"
 description: "Bankupalli Satyavathi is a Senior Biochar researcher at Indian Institute of Chemical Technology in IN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.379287
+date: 2026-10-11T02:33:00.415129
 url: "/cdr-researcher-census/researchers/bankupalli-satyavathi-a5102027/"
 layout: "researcher"
 hiddenInHomeList: true

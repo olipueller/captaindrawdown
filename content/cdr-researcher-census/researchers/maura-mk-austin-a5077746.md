@@ -1,7 +1,7 @@
 ---
 title: "Maura M.K. Austin"
 description: "Maura M.K. Austin is an Early-career General CDR researcher at University of Virginia in US. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.384677
+date: 2026-10-11T02:33:00.421469
 url: "/cdr-researcher-census/researchers/maura-mk-austin-a5077746/"
 layout: "researcher"
 hiddenInHomeList: true

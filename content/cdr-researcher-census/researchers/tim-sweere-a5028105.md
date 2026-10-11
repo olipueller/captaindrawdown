@@ -1,7 +1,7 @@
 ---
 title: "Tim Sweere"
 description: "Tim Sweere is a Mid-career Enhanced Weathering researcher at ETH Zurich in CH. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.334926
+date: 2026-10-11T02:32:59.340727
 url: "/cdr-researcher-census/researchers/tim-sweere-a5028105/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Uncertainties of enhanced rock weathering for climate-change mitigation** (2026)
-   12 citations · Enhanced Weathering
+   13 citations · Enhanced Weathering
 
 2. **Trace metal evolution of the Late Cretaceous Ocean** (2024)
    2 citations
 
 3. **An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering** (2026)
-   0 citations · Enhanced Weathering
+   1 citations · Enhanced Weathering
 
 ## External Profiles
 

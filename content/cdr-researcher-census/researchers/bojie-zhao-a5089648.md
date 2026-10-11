@@ -1,7 +1,7 @@
 ---
 title: "Bojie Zhao"
 description: "Bojie Zhao is a Mid-career DAC researcher at Nanjing Tech University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.814355
+date: 2026-10-11T02:32:59.839040
 url: "/cdr-researcher-census/researchers/bojie-zhao-a5089648/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Membrane technology for carbon capture sequestration and direct air capture – Current status and Perspective** (2024)
-   31 citations · DAC
+   35 citations · DAC
 
 ## External Profiles
 

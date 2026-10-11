@@ -1,7 +1,7 @@
 ---
 title: "Dianne Sanchez"
 description: "Dianne Sanchez is a Mid-career General CDR researcher at University of California, Irvine in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.803973
+date: 2026-10-11T02:32:59.828711
 url: "/cdr-researcher-census/researchers/dianne-sanchez-a5100908/"
 layout: "researcher"
 hiddenInHomeList: true

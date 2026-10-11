@@ -1,7 +1,7 @@
 ---
 title: "Hero T. Gollany"
 description: "Hero T. Gollany is a Senior Soil Carbon researcher at Natural Resources Conservation Service in US. With 79 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.120510
+date: 2026-10-11T02:32:59.125128
 url: "/cdr-researcher-census/researchers/hero-t-gollany-a5065715/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    31 citations · Soil Carbon
 
 2. **Can Agricultural Management Induced Changes in Soil Organic Carbon Be Detected Using Mid-Infrared Spectroscopy?** (2021)
-   20 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 3. **Predicting Soil Organic Carbon Dynamics of Integrated Crop-Livestock System in Brazil Using the CQESTR Model** (2022)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 4. **Assessing soil organic carbon responses to tillage and extreme weather in Pakistan using the CQESTR model** (2026)
    0 citations · Soil Carbon

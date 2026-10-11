@@ -1,7 +1,7 @@
 ---
 title: "Tianqiang Zhu"
 description: "Tianqiang Zhu is a Mid-career Ocean CDR researcher at Shandong University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.866070
+date: 2026-10-11T02:32:59.892718
 url: "/cdr-researcher-census/researchers/tianqiang-zhu-a5080106/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Potential Environmental Impacts and Management Strategies for Metal Release during Ocean Alkalinity Enhancement Using Olivine** (2025)
-   15 citations · Enhanced Weathering
+   16 citations · Enhanced Weathering
 
 2. **Sustainable carbon sequestration via olivine based ocean alkalinity enhancement in the east and South China Sea: Adhering to environmental norms for nickel and chromium** (2024)
    14 citations · Enhanced Weathering

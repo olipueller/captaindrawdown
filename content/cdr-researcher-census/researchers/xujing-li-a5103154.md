@@ -1,7 +1,7 @@
 ---
 title: "Xujing Li"
 description: "Xujing Li is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 51 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.412785
+date: 2026-10-11T02:32:59.422280
 url: "/cdr-researcher-census/researchers/xujing-li-a5103154/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Efficient degradation of tetrabromobisphenol A using peroxymonosulfate oxidation activated by a novel nano-CuFe2O4@coconut shell biochar catalyst** (2023)
-   15 citations · Biochar
+   17 citations · Biochar
 
 2. **Fe3o4-Ce@Bc Activates Persulfate for the Degradation of Polycyclic Aromatic Hydrocarbons (Pahs) in Contaminated Soil** (2022)
    0 citations · Biochar

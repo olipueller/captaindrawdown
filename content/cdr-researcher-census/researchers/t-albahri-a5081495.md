@@ -1,7 +1,7 @@
 ---
 title: "T. Albahri"
 description: "T. Albahri is a Mid-career Enhanced Weathering researcher at Royal Bank of Scotland (United Kingdom) in GB. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.119137
+date: 2026-10-11T02:32:59.123790
 url: "/cdr-researcher-census/researchers/t-albahri-a5081495/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -65,16 +65,19 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 5. **Assessing carbon dioxide removal across wollastonite application gradients in mesocosm enhanced rock weathering experiments** (2026)
    0 citations · Enhanced Weathering
 
-6. **Evaluating Total Cation Accounting (TCA) as an MRV Approach for Enhanced Rock Weathering - Insights from a trial in Ontario, Canada** (2025)
-   0 citations · Enhanced Weathering
-
-7. **Quantifying potential carbon dioxide removal via enhanced weathering using porewater from a field trial in Scotland** (2025)
+6. **Quantifying potential carbon dioxide removal via enhanced weathering using porewater from a field trial in Scotland** (2025)
    0 citations
 
-8. **Quantifying Carbon Dioxide Removal using Pore Water Data from Enhanced Rock Weathering Field Trials in Scotland** (2025)
+7. **Evaluating Total Cation Accounting (TCA) as an MRV Approach for Enhanced Rock Weathering - Insights from a trial in Ontario, Canada** (2025)
    0 citations · Enhanced Weathering
 
-9. **Cation Release Dynamics in Basalt-Amended Soils: Implications for Enhanced Rock Weathering** (2025)
+8. **Quantifying potential carbon dioxide removal via enhanced weathering using porewater from a field trial in Scotland** (2025)
+   0 citations
+
+9. **Quantifying Carbon Dioxide Removal using Pore Water Data from Enhanced Rock Weathering Field Trials in Scotland** (2025)
+   0 citations · Enhanced Weathering
+
+10. **Cation Release Dynamics in Basalt-Amended Soils: Implications for Enhanced Rock Weathering** (2025)
    0 citations · Enhanced Weathering
 
 ## External Profiles

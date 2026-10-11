@@ -1,7 +1,7 @@
 ---
 title: "David Franzmann"
 description: "David Franzmann is a Mid-career DAC researcher at Forschungszentrum Jülich in DE. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.774691
+date: 2026-10-11T02:32:59.797864
 url: "/cdr-researcher-census/researchers/david-franzmann-a5085913/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Global Potentials and Costs of Synfuels via Fischer–Tropsch Process** (2023)
-   19 citations · DAC
+   20 citations · DAC
 
 ## External Profiles
 

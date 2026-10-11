@@ -1,7 +1,7 @@
 ---
 title: "Hongli Guo"
 description: "Hongli Guo is a Mid-career Biochar researcher at Changchun University of Technology in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.998410
+date: 2026-10-11T02:33:00.029217
 url: "/cdr-researcher-census/researchers/hongli-guo-a5071563/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The interface mechanism of sludge biochar activating persulfate to remove tetracycline: The role of the C-O-Fe bridge at the carbon surface** (2022)
-   81 citations · Biochar
+   84 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Daniel S. Goll"
 description: "Daniel S. Goll is an Eminent General CDR researcher at University of Paris-Saclay in FR. With 278 publications and an h-index of 58, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.021417
+date: 2026-10-11T02:32:59.024375
 url: "/cdr-researcher-census/researchers/daniel-s-goll-a5063381/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,40 +45,40 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 58 |
 | Citations | 16,698 |
 | Publications | 278 |
-| CDR Focus | 6.8% |
+| CDR Focus | 7.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Potential CO2 removal from enhanced weathering by ecosystem responses to powdered rock** (2021)
-   199 citations · Enhanced Weathering
+   198 citations · Enhanced Weathering
 
 2. **Is the climate change mitigation effect of enhanced silicate weathering governed by biological processes?** (2021)
-   141 citations · Enhanced Weathering
+   133 citations · Enhanced Weathering
 
 3. **Spatially explicit analysis identifies significant potential for bioenergy with carbon capture and storage in China** (2021)
    119 citations · BECCS
 
 4. **Understanding soil phosphorus cycling for sustainable development: A review** (2024)
-   77 citations · Soil Carbon
+   85 citations · Soil Carbon
 
 5. **Enhanced silicate weathering accelerates forest carbon sequestration by stimulating the soil mineral carbon pump** (2024)
-   66 citations · Enhanced Weathering
+   67 citations · Enhanced Weathering
 
 6. **Global soil organic carbon changes and economic revenues with biochar application** (2021)
-   60 citations · Biochar
+   59 citations · Biochar
 
 7. **Enhanced rock weathering increased soil phosphorus availability and altered root phosphorus‐acquisition strategies** (2024)
-   46 citations · Enhanced Weathering
+   47 citations · Enhanced Weathering
 
-8. **Bioenergy Crops for Low Warming Targets Require Half of the Present Agricultural Fertilizer Use** (2021)
-   30 citations · BECCS
+8. **Global cooling induced by biophysical effects of bioenergy crop cultivation** (2021)
+   34 citations · BECCS
 
-9. **Model uncertainty obscures major driver of soil carbon** (2024)
+9. **Bioenergy Crops for Low Warming Targets Require Half of the Present Agricultural Fertilizer Use** (2021)
+   28 citations · BECCS
+
+10. **Model uncertainty obscures major driver of soil carbon** (2024)
    23 citations
-
-10. **Increased precipitation over land due to climate feedback of large-scale bioenergy cultivation** (2023)
-   18 citations · BECCS
 
 ## External Profiles
 

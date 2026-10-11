@@ -1,7 +1,7 @@
 ---
 title: "Tajamul Hussain"
 description: "Tajamul Hussain is a Senior Soil Carbon researcher at Oregon State University in US. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.329517
+date: 2026-10-11T02:32:59.335309
 url: "/cdr-researcher-census/researchers/tajamul-hussain-a5067032/"
 layout: "researcher"
 hiddenInHomeList: true

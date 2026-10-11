@@ -1,7 +1,7 @@
 ---
 title: "Shuchai Gan"
 description: "Shuchai Gan is a Senior Soil Carbon researcher at South China Botanical Garden in CN. With 61 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.194236
+date: 2026-10-11T02:32:59.198221
 url: "/cdr-researcher-census/researchers/shuchai-gan-a5101948/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Fiddler crab bioturbation stimulates methane emissions in mangroves: Insights into microbial mechanisms** (2024)
-   43 citations · Soil Carbon
+   45 citations · Soil Carbon
 
 2. **Fate of soil organic carbon in estuarine mangroves: Evidences from stable isotopes and lignin biomarkers** (2024)
-   30 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 3. **Blue carbon storage of tidal flats and salt marshes: A comparative assessment in two Chinese coastal areas** (2024)
-   26 citations · Ocean CDR
+   28 citations · Ocean CDR
 
 4. **Mangrove sediment carbon burial offset by methane emissions from mangrove tree stems** (2025)
-   8 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 5. **Responses of depth-dependence of C:N:P stoichiometry to check dam in mangrove wetlands** (2024)
    6 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Shanqing Jiang"
 description: "Shanqing Jiang is a Mid-career Biochar researcher at Changzhou University in CN. With 29 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.342839
+date: 2026-10-11T02:32:59.348844
 url: "/cdr-researcher-census/researchers/shanqing-jiang-a5000098/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhancing degradation of atrazine by Fe-phenol modified biochar/ferrate(VI) under alkaline conditions: Analysis of the mechanism and intermediate products** (2021)
-   50 citations · Biochar
+   48 citations · Biochar
 
 2. **Performance and mechanism of tea waste biochar in enhancing the removal of tetracycline by peroxodisulfate** (2022)
-   21 citations · Biochar
+   22 citations · Biochar
 
 ## External Profiles
 

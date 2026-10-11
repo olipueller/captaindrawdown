@@ -1,7 +1,7 @@
 ---
 title: "Mitsutoshi Tomotsune"
 description: "Mitsutoshi Tomotsune is a Mid-career Biochar researcher at Tamagawa University in JP. With 38 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.483365
+date: 2026-10-11T02:32:59.494786
 url: "/cdr-researcher-census/researchers/mitsutoshi-tomotsune-a5024699/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    12 citations · Biochar
 
 2. **Long-Term Effects of Biochar Application on Soil Heterotrophic Respiration in a Warm–Temperate Oak Forest** (2025)
-   4 citations · Biochar
+   5 citations · Biochar
+
+3. **Effect of biochar amendment to the forest floor on net ecosystem production: An 8-year field experiment in a secondary oak forest** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

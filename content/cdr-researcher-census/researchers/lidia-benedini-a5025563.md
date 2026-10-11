@@ -1,7 +1,7 @@
 ---
 title: "Lidia Benedini"
 description: "Lidia Benedini is a Mid-career Biochar researcher at Mental Research Institute in US. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.122549
+date: 2026-10-11T02:33:00.153070
 url: "/cdr-researcher-census/researchers/lidia-benedini-a5025563/"
 layout: "researcher"
 hiddenInHomeList: true

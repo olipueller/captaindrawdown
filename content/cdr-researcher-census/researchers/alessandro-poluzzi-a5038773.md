@@ -1,7 +1,7 @@
 ---
 title: "Alessandro Poluzzi"
 description: "Alessandro Poluzzi is a Mid-career BECCS researcher at University of Milan in IT. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.458279
+date: 2026-10-11T02:32:59.469369
 url: "/cdr-researcher-census/researchers/alessandro-poluzzi-a5038773/"
 layout: "researcher"
 hiddenInHomeList: true

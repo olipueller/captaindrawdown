@@ -1,7 +1,7 @@
 ---
 title: "Wazir Aitizaz Ahsan"
 description: "Wazir Aitizaz Ahsan is a Mid-career Soil Carbon researcher at University of Science and Technology in YE. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.815956
+date: 2026-10-11T02:32:59.840475
 url: "/cdr-researcher-census/researchers/wazir-aitizaz-ahsan-a5046510/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Guangxing Zhao"
 description: "Guangxing Zhao is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.126283
+date: 2026-10-11T02:33:00.156668
 url: "/cdr-researcher-census/researchers/guangxing-zhao-a5086301/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microaggregates regulate the soil organic carbon sequestration and carbon flow of windproof sand fixation forests in desert ecosystems** (2024)
-   15 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 2. **Soil minerals regulate soil organic carbon accumulation through glomalin-related soil protein along an elevation gradient in a mountain arid ecosystem** (2025)
-   10 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 3. **Grazing exclusion significantly reduced soil organic carbon stocks but enhanced soil inorganic carbon stocks in desert steppe of northwest China** (2025)
    7 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Christopher J. Cobos"
 description: "Christopher J. Cobos is a Mid-career Soil Carbon researcher at Texas Tech University in US. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.898488
+date: 2026-10-11T02:32:59.927645
 url: "/cdr-researcher-census/researchers/christopher-j-cobos-a5086809/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Carole Causserand"
 description: "Carole Causserand is a Senior Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.589775
+date: 2026-10-11T02:32:59.606511
 url: "/cdr-researcher-census/researchers/carole-causserand-a5059787/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,7 +47,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Partitioning carbon sources in a tropical watershed (Nyong River, Cameroon) between wetlands and terrestrial ecosystems – Do CO <sub>2</sub> emissions from tropical rivers offset the terrestrial carbon sink?** (2021)
+1. **Partitioning carbon sources between wetland and well-drained ecosystems to a tropical first-order stream – implications for carbon cycling at the watershed scale (Nyong, Cameroon)** (2022)
+   14 citations
+
+2. **Partitioning carbon sources in a tropical watershed (Nyong River, Cameroon) between wetlands and terrestrial ecosystems – Do CO <sub>2</sub> emissions from tropical rivers offset the terrestrial carbon sink?** (2021)
    3 citations · General CDR
 
 ## External Profiles

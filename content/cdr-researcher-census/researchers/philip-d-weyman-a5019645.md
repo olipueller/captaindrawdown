@@ -1,7 +1,7 @@
 ---
 title: "Philip D. Weyman"
 description: "Philip D. Weyman is a Senior Enhanced Weathering researcher at J. Craig Venter Institute in US. With 55 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.146330
+date: 2026-10-11T02:32:59.150473
 url: "/cdr-researcher-census/researchers/philip-d-weyman-a5019645/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    4 citations · General CDR
 
 2. **Synergistic Effects of a Microbial Amendment and Crushed Basalt: Soil Geochemical and Microbial Responses** (2026)
-   1 citations · Enhanced Weathering
+   2 citations · Enhanced Weathering
 
 3. **Author Comment on egusphere-2026-4145: Supplemental Tables and Figures** (2026)
    0 citations · Enhanced Weathering

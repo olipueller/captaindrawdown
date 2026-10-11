@@ -1,7 +1,7 @@
 ---
 title: "Yuhui Niu"
 description: "Yuhui Niu is a Senior Soil Carbon researcher at Shanghai Institute of Landscape Gardening in CN. With 32 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.265724
+date: 2026-10-11T02:32:59.269858
 url: "/cdr-researcher-census/researchers/yuhui-niu-a5014352/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Lower microbial carbon use efficiency reduces cellulose-derived carbon retention in soils amended with compost versus mineral fertilizers** (2021)
-   41 citations · Soil Carbon
+   42 citations · Soil Carbon
 
 2. **Long-Term Compost Amendment Spurs Cellulose Decomposition by Driving Shifts in Fungal Community Composition and Promoting Fungal Diversity and Phylogenetic Relatedness** (2022)
    20 citations · Soil Carbon

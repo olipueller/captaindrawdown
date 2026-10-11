@@ -1,7 +1,7 @@
 ---
 title: "Amritanshu Pathak"
 description: "Amritanshu Pathak is a Mid-career Biochar researcher at Chaudhary Charan Singh University in IN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.367171
+date: 2026-10-11T02:33:00.402782
 url: "/cdr-researcher-census/researchers/amritanshu-pathak-a5034129/"
 layout: "researcher"
 hiddenInHomeList: true

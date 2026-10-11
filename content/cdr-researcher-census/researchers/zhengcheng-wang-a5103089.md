@@ -1,7 +1,7 @@
 ---
 title: "Zhengcheng Wang"
 description: "Zhengcheng Wang is a Senior General CDR researcher at Qingdao University in CN. With 38 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.399935
+date: 2026-10-11T02:32:59.409099
 url: "/cdr-researcher-census/researchers/zhengcheng-wang-a5103089/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Scaled model test into the spatial variability and carbon storage potential of carbon sequestration foamed concrete as a subgrade filler** (2025)
-   4 citations · General CDR
+   5 citations · General CDR
 
 2. **Research on the preparation method and physical-mechanical properties of serpentine-based carbon sequestration lightweight soils** (2025)
    0 citations · Enhanced Weathering

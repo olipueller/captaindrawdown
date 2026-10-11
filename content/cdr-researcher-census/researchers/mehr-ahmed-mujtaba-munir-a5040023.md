@@ -1,7 +1,7 @@
 ---
 title: "Mehr Ahmed Mujtaba Munir"
 description: "Mehr Ahmed Mujtaba Munir is a Senior Biochar researcher at University of Science and Technology of China in CN. With 58 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.092256
+date: 2026-10-11T02:32:59.096845
 url: "/cdr-researcher-census/researchers/mehr-ahmed-mujtaba-munir-a5040023/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,10 +57,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    23 citations · Biochar
 
 3. **Unraveling the mechanisms of free radicals-based transformation and accumulation of potentially toxic metal(loid)s in biochar- and compost-amended soil-plant systems** (2024)
-   15 citations · Biochar
+   17 citations · Biochar
 
 4. **Novel Styrofoam-sludge biochar for Pb and Zn adsorption: Bioavailability and reduction in maize-cultivated contaminated soils** (2026)
-   4 citations · Biochar
+   5 citations · Biochar
 
 ## External Profiles
 

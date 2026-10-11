@@ -1,7 +1,7 @@
 ---
 title: "Fabo Liu"
 description: "Fabo Liu is a Mid-career General CDR researcher at Southwest University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.868343
+date: 2026-10-11T02:32:59.895116
 url: "/cdr-researcher-census/researchers/fabo-liu-a5039975/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **An innovative integrated management strategy drives sustainable vegetable production in southwest China: Higher yield with reduced net GHG emissions** (2025)
-   9 citations · General CDR
+   11 citations · General CDR
 
 ## External Profiles
 

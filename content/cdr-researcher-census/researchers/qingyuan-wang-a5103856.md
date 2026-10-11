@@ -1,7 +1,7 @@
 ---
 title: "Qingyuan Wang"
 description: "Qingyuan Wang is a Mid-career Soil Carbon researcher at Nanjing University of Information Science and Technology in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.970323
+date: 2026-10-11T02:33:00.001777
 url: "/cdr-researcher-census/researchers/qingyuan-wang-a5103856/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Vapor pressure deficit dominates dryness stress on forest biomass carbon in China under global warming** (2025)
-   21 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 ## External Profiles
 

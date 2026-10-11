@@ -1,7 +1,7 @@
 ---
 title: "Kathleen M. Kennedy"
 description: "Kathleen M. Kennedy is a Senior DAC researcher. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.615529
+date: 2026-10-11T02:32:59.632955
 url: "/cdr-researcher-census/researchers/kathleen-m-kennedy-a5016885/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Modeling direct air carbon capture and storage in a 1.5 °C climate future using historical analogs** (2024)
-   41 citations · DAC
+   42 citations · DAC
 
 2. **Carbon management technology pathways for reaching a U.S. Economy-Wide net-Zero emissions goal** (2024)
    20 citations · DAC

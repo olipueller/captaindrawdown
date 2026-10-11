@@ -1,7 +1,7 @@
 ---
 title: "Richard Nayak-Luke"
 description: "Richard Nayak-Luke is a Mid-career General CDR researcher at University of Oxford in GB. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.225376
+date: 2026-10-11T02:32:59.228708
 url: "/cdr-researcher-census/researchers/richard-nayak-luke-a5034941/"
 layout: "researcher"
 hiddenInHomeList: true

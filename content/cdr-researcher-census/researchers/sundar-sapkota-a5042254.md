@@ -1,7 +1,7 @@
 ---
 title: "Sundar Sapkota"
 description: "Sundar Sapkota is a Mid-career Soil Carbon researcher at New Mexico State University in US. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.567991
+date: 2026-10-11T02:32:59.583670
 url: "/cdr-researcher-census/researchers/sundar-sapkota-a5042254/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Greenhouse gas mitigation and soil carbon stabilization potential of forest biochar varied with biochar type and characteristics** (2024)
-   35 citations · Biochar
+   36 citations · Biochar
 
 2. **Soil aggregates and associated carbon and nitrogen storage in circular grass buffer integrated cropping systems** (2024)
    11 citations · Soil Carbon
 
 3. **Regulation of surface and sub-surface soil organic carbon sequestration in water-limited landscapes with integration of circular perennial grass buffer strips** (2024)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 4. **Microbial community responses to feedstock type and modifications determine soil organic carbon sequestration and crop yield in biochar-amended arid soils** (2026)
    1 citations · Biochar

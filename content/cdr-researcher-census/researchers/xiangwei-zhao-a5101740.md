@@ -1,7 +1,7 @@
 ---
 title: "Xiangwei Zhao"
 description: "Xiangwei Zhao is a Senior Soil Carbon researcher at Shihezi University in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.325865
+date: 2026-10-11T02:33:00.358468
 url: "/cdr-researcher-census/researchers/xiangwei-zhao-a5101740/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Organic matter composition and stability in estuarine wetlands depending on soil salinity** (2024)
-   23 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 2. **The accumulation and carbon sequestration potential of biogenic silica in coastal salt marshes: Implications for relative sea-level rise** (2023)
    8 citations · Soil Carbon

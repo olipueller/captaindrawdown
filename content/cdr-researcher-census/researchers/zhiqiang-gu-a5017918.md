@@ -1,7 +1,7 @@
 ---
 title: "Zhiqiang Gu"
 description: "Zhiqiang Gu is a Mid-career Biochar researcher at Nanchang University in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.635640
+date: 2026-10-11T02:32:59.654195
 url: "/cdr-researcher-census/researchers/zhiqiang-gu-a5017918/"
 layout: "researcher"
 hiddenInHomeList: true

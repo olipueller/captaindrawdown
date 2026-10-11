@@ -1,7 +1,7 @@
 ---
 title: "Túlio Augusto Zucareli de Souza"
 description: "Túlio Augusto Zucareli de Souza is a Mid-career BECCS researcher at Universidade Federal do Pampa in BR. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.463950
+date: 2026-10-11T02:32:59.475207
 url: "/cdr-researcher-census/researchers/tulio-augusto-zucareli-de-souza-a5061332/"
 layout: "researcher"
 hiddenInHomeList: true

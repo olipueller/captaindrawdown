@@ -1,7 +1,7 @@
 ---
 title: "Soumya Ranjan Padhy"
 description: "Soumya Ranjan Padhy is a Mid-career Soil Carbon researcher at Central Rice Research Institute in IN. With 47 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.269285
+date: 2026-10-11T02:32:59.273252
 url: "/cdr-researcher-census/researchers/soumya-ranjan-padhy-a5109525/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,22 +53,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **Trade-off between soil aggregate stability and carbon decomposition under 44 years long-term integrated nutrient management in rice-wheat-jute system** (2021)
    9 citations · Soil Carbon
 
-3. **Harnessing the potential of microalgae for carbon sequestration to achieve net-zero emissions** (2025)
-   8 citations · Ocean CDR
+3. **Comparative assessment of biomass, carbon storage and soil CO2 fluxes in degraded mangroves in the major estuarine gradients of the sundarban, India** (2025)
+   8 citations · Soil Carbon
 
-4. **Comparative assessment of biomass, carbon storage and soil CO2 fluxes in degraded mangroves in the major estuarine gradients of the sundarban, India** (2025)
-   7 citations · Soil Carbon
+4. **Harnessing the potential of microalgae for carbon sequestration to achieve net-zero emissions** (2025)
+   8 citations · Ocean CDR
 
 5. **Impact of Conservation Agriculture on Greenhouse Gas Emission and Its Implications** (2021)
    5 citations · General CDR
 
-6. **Blue Carbon Sequestration Potential of Soils in Degraded Mangroves of Sundarban, India: A Geochemical Approach** (2025)
+6. **Carbon Dynamics and Greenhouse Gases Emissions in Coastal Agriculture: Mangrove-Rice Ecology in Sundarban, India** (2022)
+   2 citations · Soil Carbon
+
+7. **Blue Carbon Sequestration Potential of Soils in Degraded Mangroves of Sundarban, India: A Geochemical Approach** (2025)
    1 citations · Soil Carbon
 
-7. **Carbon Dynamics and Greenhouse Gases Emissions in Coastal Agriculture: Mangrove-Rice Ecology in Sundarban, India** (2022)
-   1 citations · Soil Carbon
+8. **Comparative assessment of sediment carbon storage and greenhouse gas dynamics in degraded mangroves and saltmarsh ecosystems of the Sundarban, India** (2026)
+   0 citations
 
-8. **Identification of key carbon-fixation pathways and underlying genes for higher CO2 fixation of mangrove-associated microalgae** (2026)
+9. **Identification of key carbon-fixation pathways and underlying genes for higher CO2 fixation of mangrove-associated microalgae** (2026)
    0 citations
 
 ## External Profiles

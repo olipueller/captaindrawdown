@@ -1,7 +1,7 @@
 ---
 title: "Eli Biton"
 description: "Eli Biton is a Mid-career Ocean CDR researcher at Israel Oceanographic and Limnological Research in IL. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.656087
+date: 2026-10-11T02:32:59.674837
 url: "/cdr-researcher-census/researchers/eli-biton-a5043005/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Coastal-to-offshore submesoscale horizontal stirring enhances wintertime phytoplankton blooms in the ultra-oligotrophic Eastern Mediterranean Sea** (2026)
-   0 citations · Ocean CDR
+   1 citations · Ocean CDR
 
 2. **Submesoscale horizontal stirring enhances seasonal enrichment of low-chlorophyll surface waters in the Eastern Mediterranean** (2025)
    0 citations · Ocean CDR

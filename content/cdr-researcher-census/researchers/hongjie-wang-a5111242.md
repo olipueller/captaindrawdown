@@ -1,7 +1,7 @@
 ---
 title: "Hongjie Wang"
 description: "Hongjie Wang is a Senior Ocean CDR researcher at University of Rhode Island Narragansett Bay Campus in US. With 30 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.392819
+date: 2026-10-11T02:32:59.401090
 url: "/cdr-researcher-census/researchers/hongjie-wang-a5111242/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,28 +45,28 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 14 |
 | Citations | 621 |
 | Publications | 30 |
-| CDR Focus | 20.0% |
-| Trajectory | Declining |
+| CDR Focus | 23.3% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Simulated Impact of Ocean Alkalinity Enhancement on Atmospheric CO<sub>2</sub> Removal in the Bering Sea** (2022)
-   101 citations · General CDR
+   102 citations · General CDR
 
 2. **Enhanced removal of Cu-EDTA in a three-dimensional electrolysis system with highly graphitic activated biochar produced via acidic and K2FeO4 treatment** (2021)
-   68 citations · Biochar
+   69 citations · Biochar
 
 3. **Considerations for hypothetical carbon dioxide removal via alkalinity addition in the Amazon River watershed** (2023)
-   25 citations · Ocean CDR
+   27 citations · Ocean CDR
 
-4. **Considerations for hypothetical carbon dioxide removal via alkalinity addition in the Amazon River watershed** (2023)
+4. **Harnessing nature's buffer: Assessing the role of bivalve shells in coastal alkalinity regeneration** (2025)
+   4 citations · Ocean CDR
+
+5. **Considerations for hypothetical carbon dioxide removal via alkalinity addition in the Amazon River watershed** (2023)
    3 citations
 
-5. **Harnessing nature's buffer: Assessing the role of bivalve shells in coastal alkalinity regeneration** (2025)
-   2 citations · Ocean CDR
-
 6. **A decade of marine inorganic carbon chemistry observations in the northern Gulf of Alaska – insights into an environment in transition** (2024)
-   1 citations · Ocean CDR
+   2 citations · Ocean CDR
 
 7. **A decade of marine inorganic carbon chemistry observations in the northern Gulf of Alaska – Insights to an environment in transition** (2023)
    1 citations · Ocean CDR

@@ -1,7 +1,7 @@
 ---
 title: "Jiaping Yang"
 description: "Jiaping Yang is a Mid-career Soil Carbon researcher at Mianyang Normal University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.176768
+date: 2026-10-11T02:33:00.206833
 url: "/cdr-researcher-census/researchers/jiaping-yang-a5027206/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,11 +56,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **Short-term changes in soil labile carbon and nitrogen pools with biochar application in a suburban native forest in subtropical Australia** (2023)
    6 citations · Biochar
 
-3. **Short-term responses of soil carbon and nitrogen pools as well as their isotopic compositions to biochar applications in a suburban forest in subtropical Australia subjected to prescribed burning** (2023)
-   4 citations · Biochar
+3. **Initial Carbon Quality of Newly Shed Foliar Litter in an Alpine Forest from Proximate Analysis and 13C NMR Spectroscopy Perspectives** (2022)
+   5 citations · Soil Carbon
 
-4. **Initial Carbon Quality of Newly Shed Foliar Litter in an Alpine Forest from Proximate Analysis and 13C NMR Spectroscopy Perspectives** (2022)
-   4 citations · Soil Carbon
+4. **Short-term responses of soil carbon and nitrogen pools as well as their isotopic compositions to biochar applications in a suburban forest in subtropical Australia subjected to prescribed burning** (2023)
+   4 citations · Biochar
 
 5. **Nitrogen fertilization induces microbial carbon limitation in subtropical soils: new evidence from microbial necromass decomposition** (2025)
    0 citations · Soil Carbon

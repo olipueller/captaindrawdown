@@ -1,7 +1,7 @@
 ---
 title: "Hong Pan"
 description: "Hong Pan is a Senior Soil Carbon researcher at Shandong Agricultural University in CN. With 135 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.095702
+date: 2026-10-11T02:32:59.100277
 url: "/cdr-researcher-census/researchers/hong-pan-a5009558/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,16 +54,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    136 citations · Biochar
 
 2. **Aggregate stability and organic carbon stock under different land uses integrally regulated by binding agents and chemical properties in saline‐sodic soils** (2021)
-   63 citations · Soil Carbon
+   65 citations · Soil Carbon
 
 3. **Distinct stabilization characteristics of organic carbon in coastal salt‐affected soils with different salinity under straw return management** (2022)
-   33 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 4. **Chemical Composition of Plant Residues Regulates Soil Organic Carbon Turnover in Typical Soils with Contrasting Textures in Northeast China Plain** (2022)
    21 citations · Soil Carbon
 
 5. **Phosphorus addition increases soil organic matter priming in a coastal saline soil** (2025)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 6. **Interactive effects of warming and drought on soil organic carbon sequestration and methane uptake in straw and biochar amended soils: Mechanisms and global implications** (2025)
    7 citations · Biochar

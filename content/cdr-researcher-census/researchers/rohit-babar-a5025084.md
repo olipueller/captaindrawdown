@@ -1,7 +1,7 @@
 ---
 title: "Rohit Babar"
 description: "Rohit Babar is a Mid-career Soil Carbon researcher at National Institute of Abiotic Stress Management in IN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.400959
+date: 2026-10-11T02:33:00.438965
 url: "/cdr-researcher-census/researchers/rohit-babar-a5025084/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Non-invasive measurements to identify mungbean genotypes for waterlogging tolerance** (2024)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 ## External Profiles
 

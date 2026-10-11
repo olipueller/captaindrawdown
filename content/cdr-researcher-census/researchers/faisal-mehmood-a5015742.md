@@ -1,7 +1,7 @@
 ---
 title: "Faisal Mehmood"
 description: "Faisal Mehmood is a Mid-career Biochar researcher at China Agricultural University in CN. With 34 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.222857
+date: 2026-10-11T02:32:59.226407
 url: "/cdr-researcher-census/researchers/faisal-mehmood-a5015742/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Engineered biochar-metal oxide nanocomposites for targeted dye remediation in textile wastewater** (2026)
-   2 citations · Biochar
+   3 citations · Biochar
 
 2. **Carbon Footprint and Life-cycle Cost of Maize (zea mays l.) Production at Conventional and Regenerative Agricultural Practices.** (2023)
-   0 citations · General CDR
+   1 citations · General CDR
 
 ## External Profiles
 

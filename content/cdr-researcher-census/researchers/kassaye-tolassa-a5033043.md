@@ -1,7 +1,7 @@
 ---
 title: "Kassaye Tolassa"
 description: "Kassaye Tolassa is an Early-career Soil Carbon researcher at Ethiopian Institute of Agricultural Research in ET. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.400113
+date: 2026-10-11T02:33:00.438208
 url: "/cdr-researcher-census/researchers/kassaye-tolassa-a5033043/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of shade tree species on soil biogeochemistry and coffee bean quality in plantation coffee** (2023)
-   29 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 2. **Shade Tree Species Effects on Soil Biogeochemistry and Coffee Bean Quality in Plantation Coffee Agroforestry** (2022)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Mingyi Zhou"
 description: "Mingyi Zhou is an Early-career Soil Carbon researcher at Zhejiang University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.274203
+date: 2026-10-11T02:33:00.304220
 url: "/cdr-researcher-census/researchers/mingyi-zhou-a5062835/"
 layout: "researcher"
 hiddenInHomeList: true

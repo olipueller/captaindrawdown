@@ -1,7 +1,7 @@
 ---
 title: "Connor Turvey"
 description: "Connor Turvey is a Senior Enhanced Weathering researcher at University of Alberta in CA. With 51 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.322183
+date: 2026-10-11T02:32:59.327739
 url: "/cdr-researcher-census/researchers/connor-turvey-a5011973/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    30 citations · Enhanced Weathering
 
 2. **Artificial Laterite from Acid Leaching of Ultramafic Rocks: Mobilization, Enrichment, and Extraction of Critical Metals** (2025)
-   2 citations
+   4 citations
 
 3. **Net negative carbon dioxide nickel mining examined through prospective technoeconomic assessment** (2026)
    1 citations · Enhanced Weathering

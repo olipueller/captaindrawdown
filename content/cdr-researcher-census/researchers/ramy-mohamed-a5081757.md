@@ -1,7 +1,7 @@
 ---
 title: "Ramy Mohamed"
 description: "Ramy Mohamed is a Mid-career Soil Carbon researcher at National Research Centre in EG. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.357289
+date: 2026-10-11T02:33:00.392215
 url: "/cdr-researcher-census/researchers/ramy-mohamed-a5081757/"
 layout: "researcher"
 hiddenInHomeList: true

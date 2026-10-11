@@ -1,7 +1,7 @@
 ---
 title: "To Quyen Truong"
 description: "To Quyen Truong is a Senior Soil Carbon researcher at Korea Institute of Science and Technology in KR. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.613073
+date: 2026-10-11T02:32:59.630488
 url: "/cdr-researcher-census/researchers/to-quyen-truong-a5066519/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effect of Chlorella vulgaris on the Growth and Phytochemical Contents of “Red Russian” Kale (Brassica napus var. Pabularia)** (2022)
-   28 citations · General CDR
+   27 citations · General CDR
 
 ## External Profiles
 

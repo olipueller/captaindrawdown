@@ -1,7 +1,7 @@
 ---
 title: "Esben Øster Mortensen"
 description: "Esben Øster Mortensen is a Mid-career Soil Carbon researcher at Agroécologie in FR. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.966035
+date: 2026-10-11T02:32:59.997200
 url: "/cdr-researcher-census/researchers/esben-ster-mortensen-a5040029/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Cover crop biomass production as a predictor of nitrogen fertilizer replacement value - legumes secure positive effects** (2024)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 2. **Designing productive grassland mixtures to enhance soil carbon storage:the role of species traits and mixture composition** (2026)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Yue Meng"
 description: "Yue Meng is a Mid-career Soil Carbon researcher at Sichuan Agricultural University in CN. With 25 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.360981
+date: 2026-10-11T02:32:59.367927
 url: "/cdr-researcher-census/researchers/yue-meng-a5069274/"
 layout: "researcher"
 hiddenInHomeList: true

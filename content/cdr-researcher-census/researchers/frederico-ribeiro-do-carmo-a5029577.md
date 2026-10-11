@@ -1,7 +1,7 @@
 ---
 title: "Frederico Ribeiro do Carmo"
 description: "Frederico Ribeiro do Carmo is a Mid-career Biochar researcher at Universidade Federal Rural do Semi-Árido in BR. With 44 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.615840
+date: 2026-10-11T02:32:59.633287
 url: "/cdr-researcher-census/researchers/frederico-ribeiro-do-carmo-a5029577/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,24 +45,27 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 11 |
 | Citations | 365 |
 | Publications | 44 |
-| CDR Focus | 11.4% |
+| CDR Focus | 13.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Carbon Sequestration with Biochar: Global Trends, Knowledge Gaps, and Future Directions** (2025)
-   9 citations · Biochar
+   12 citations · Biochar
 
 2. **Life Cycle Assessment of Biochar: A Bibliometric Analysis of Trends and Future Perspectives** (2026)
-   5 citations · Biochar
+   7 citations · Biochar
 
-3. **A Bibliometric‐Based Review of Biochar for Salt‐Affected Soil Restoration: Mapping Research Trends and Future Directions** (2025)
+3. **Beyond bioenergy with carbon capture and storage: RothC-based assessment of biochar systems for removal and land-based carbon offsets in semi-arid soils of Brazil** (2025)
+   2 citations · Biochar
+
+4. **A Bibliometric‐Based Review of Biochar for Salt‐Affected Soil Restoration: Mapping Research Trends and Future Directions** (2025)
    1 citations · Biochar
 
-4. **Beyond bioenergy with carbon capture and storage: RothC-based assessment of biochar systems for removal and land-based carbon offsets in semi-arid soils of Brazil** (2025)
-   1 citations · Biochar
+5. **Integrative Review of Biochar in Semi-Arid Agroecosystems: Global Trends, Potential Feedstocks, Crop-Soil Interactions, and Carbon Lability** (2026)
+   0 citations · Biochar
 
-5. **Trends and hotspots in biochar research for soil quality improvement in tropical and semi-arid regions based on bibliometric analysis** (2026)
+6. **Trends and hotspots in biochar research for soil quality improvement in tropical and semi-arid regions based on bibliometric analysis** (2026)
    0 citations · Biochar
 
 ## External Profiles

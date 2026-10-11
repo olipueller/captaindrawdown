@@ -1,7 +1,7 @@
 ---
 title: "Junwei Pu"
 description: "Junwei Pu is a Mid-career General CDR researcher at Yunnan University in CN. With 53 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.325098
+date: 2026-10-11T02:32:59.330838
 url: "/cdr-researcher-census/researchers/junwei-pu-a5041497/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Achieving the supply-demand balance of ecosystem services through zoning regulation based on land use thresholds** (2024)
-   93 citations
+   98 citations
 
 2. **A new framework for multi-level territorial spatial zoning management: Integrating ecosystem services supply-demand balance and land use structure** (2024)
-   48 citations · General CDR
+   50 citations · General CDR
 
 3. **Agricultural land use transition under multidimensional topographical gradients and its impact on ecosystem service interactions** (2025)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 4. **Study on the Evolution Mechanism of Ecosystem Services in Karst Mountainous Areas from the Perspective of Humanities** (2022)
    4 citations · General CDR

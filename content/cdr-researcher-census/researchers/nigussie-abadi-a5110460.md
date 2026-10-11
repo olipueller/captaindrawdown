@@ -1,7 +1,7 @@
 ---
 title: "Nigussie Abadi"
 description: "Nigussie Abadi is a Mid-career Soil Carbon researcher at Mekelle University in ET. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.782962
+date: 2026-10-11T02:32:59.806789
 url: "/cdr-researcher-census/researchers/nigussie-abadi-a5110460/"
 layout: "researcher"
 hiddenInHomeList: true

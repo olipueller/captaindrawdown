@@ -1,7 +1,7 @@
 ---
 title: "Manon Mathieu"
 description: "Manon Mathieu is an Early-career Biochar researcher at IMT Mines Albi in FR. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.767988
+date: 2026-10-11T02:32:59.791033
 url: "/cdr-researcher-census/researchers/manon-mathieu-a5084948/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A comparative study of chemical treatment by MgCl2, ZnSO4, ZnCl2, and KOH on physicochemical properties and acetaminophen adsorption performance of biobased porous materials from tree bark residues** (2022)
-   120 citations · Biochar
+   122 citations · Biochar
 
 2. **Process Parameters Optimization, Characterization, and Application of KOH-Activated Norway Spruce Bark Graphitic Biochars for Efficient Azo Dye Adsorption** (2022)
    82 citations · Biochar

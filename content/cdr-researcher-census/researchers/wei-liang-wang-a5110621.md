@@ -1,7 +1,7 @@
 ---
 title: "Wei Liang Wang"
 description: "Wei Liang Wang is a Mid-career Biochar researcher at Qingdao University of Technology in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.950333
+date: 2026-10-11T02:32:59.980543
 url: "/cdr-researcher-census/researchers/wei-liang-wang-a5110621/"
 layout: "researcher"
 hiddenInHomeList: true

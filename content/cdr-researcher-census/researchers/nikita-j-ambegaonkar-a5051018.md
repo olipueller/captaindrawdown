@@ -1,7 +1,7 @@
 ---
 title: "Nikita J. Ambegaonkar"
-description: "Nikita J. Ambegaonkar is a Mid-career Biochar researcher at Gujarat University in IN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.341201
+description: "Nikita J. Ambegaonkar is a Mid-career Biochar researcher in IN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:33:00.231816
 url: "/cdr-researcher-census/researchers/nikita-j-ambegaonkar-a5051018/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Nikita J. Ambegaonkar",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/nikita-j-ambegaonkar-a5051018/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Gujarat University"
-  },
   "sameAs": [
     "https://orcid.org/0000-0002-7358-1315",
     "https://openalex.org/A5051018328"
@@ -28,7 +24,7 @@ robots: "index, follow"
 ## Profile
 
 **Nikita J. Ambegaonkar**  
-Gujarat University · 🇮🇳 IN
+🇮🇳 IN
 
 **Career Stage:** Mid-career
 
@@ -43,7 +39,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 110 |
+| Citations | 137 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Growing |

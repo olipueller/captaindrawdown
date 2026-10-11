@@ -1,7 +1,7 @@
 ---
 title: "Karen Vancampenhout"
 description: "Karen Vancampenhout is a Senior Soil Carbon researcher at KU Leuven Association in BE. With 173 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.151554
+date: 2026-10-11T02:32:59.155801
 url: "/cdr-researcher-census/researchers/karen-vancampenhout-a5046317/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,10 +57,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    17 citations · Soil Carbon
 
 3. **Linkages between the molecular composition of dissolved organic matter and soil microbial community in a boreal forest during freeze–thaw cycles** (2023)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 4. **Pedogenic Threshold in Acidity Explains Context-Dependent Tree Species Effects on Soil Carbon** (2021)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 5. **Spatial Variation in Carbon Effluxes Mediated by Grazing–Soil Interactions in a Semi‐Natural Floodplain Grassland of North‐Eastern Belgium** (2025)
    3 citations · Soil Carbon

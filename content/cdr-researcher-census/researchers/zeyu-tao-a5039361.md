@@ -1,7 +1,7 @@
 ---
 title: "Zeyu Tao"
 description: "Zeyu Tao is a Mid-career DAC researcher at City University of Hong Kong in HK. With 25 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.380454
+date: 2026-10-11T02:32:59.388025
 url: "/cdr-researcher-census/researchers/zeyu-tao-a5039361/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,12 +51,12 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Direct air capture of <scp>CO<sub>2</sub></scp> by metal cation‐exchanged <scp>LTA</scp> zeolites: Effect of the charge‐to‐size ratio of cations** (2023)
-   61 citations
+   62 citations
 
-2. **Elucidating the Si/Al Ratio Dependence of N <sub>2</sub> , CO <sub>2</sub> , and NO <sub>2</sub> Adsorption in LTA Zeolites via a Synergistic Guest–Cation Gating Effect** (2026)
-   0 citations · DAC
+2. **Linking adsorbent development to industrial carbon capture: A process-based screening framework for multi-scenario CO2 adsorption** (2026)
+   1 citations · DAC
 
-3. **Linking adsorbent development to industrial carbon capture: A process-based screening framework for multi-scenario CO2 adsorption** (2026)
+3. **Elucidating the Si/Al Ratio Dependence of N <sub>2</sub> , CO <sub>2</sub> , and NO <sub>2</sub> Adsorption in LTA Zeolites via a Synergistic Guest–Cation Gating Effect** (2026)
    0 citations · DAC
 
 4. **Linking Macroscopic Material Chemistry to Industrial Carbon Capture: A Process-Based Screening Framework for Multi-Scenario CO2 Adsorption** (2026)

@@ -1,7 +1,7 @@
 ---
 title: "Anne Merfort"
 description: "Anne Merfort is a Mid-career General CDR researcher at Leibniz Association in DE. With 26 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.769614
+date: 2026-10-11T02:32:59.792521
 url: "/cdr-researcher-census/researchers/anne-merfort-a5022363/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,21 +51,27 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Separating CO2 emission from removal targets comes with limited cost impacts** (2025)
-   15 citations · General CDR
+   17 citations · General CDR
 
 2. **Separating CO2 emission from removal targets comes with limited cost impacts** (2024)
    1 citations
 
-3. **Techno-economics and value judgments of modeling biochar production for carbon removal in climate change mitigation scenarios** (2026)
+3. **Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7** (2026)
+   0 citations · General CDR
+
+4. **Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7** (2026)
+   0 citations · General CDR
+
+5. **Techno-economics and value judgments of modeling biochar production for carbon removal in climate change mitigation scenarios** (2026)
    0 citations · BECCS
 
-4. **Carbon Dioxide Removal Supply Curves: A Multi-Model Assessment** (2026)
+6. **Carbon Dioxide Removal Supply Curves: A Multi-Model Assessment** (2026)
    0 citations · BECCS
 
-5. **Distributional Impacts of 1.5 °C Overshoot Pathways: Food, Energy, and the Limits of Carbon Tax Revenue Recycling** (2026)
+7. **Distributional Impacts of 1.5 °C Overshoot Pathways: Food, Energy, and the Limits of Carbon Tax Revenue Recycling** (2026)
    0 citations
 
-6. **Incorporating Geological Carbon Storage Constraints in Integrated Assessment Models** (2026)
+8. **Incorporating Geological Carbon Storage Constraints in Integrated Assessment Models** (2026)
    0 citations · General CDR
 
 ## External Profiles

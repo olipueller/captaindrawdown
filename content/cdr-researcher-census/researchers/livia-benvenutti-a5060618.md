@@ -1,7 +1,7 @@
 ---
 title: "Lívia Benvenutti"
 description: "Lívia Benvenutti is a Mid-career BECCS researcher at Argonne National Laboratory in US. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.210454
+date: 2026-10-11T02:33:00.239941
 url: "/cdr-researcher-census/researchers/livia-benvenutti-a5060618/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Heqing Cai"
 description: "Heqing Cai is a Mid-career Biochar researcher at IE University in ES. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.140982
+date: 2026-10-11T02:33:00.171261
 url: "/cdr-researcher-census/researchers/heqing-cai-a5061492/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar application rates regulate soil nutrient availability: evidence from an 8-year field study across two soils** (2026)
-   0 citations · Biochar
+   3 citations · Biochar
 
 ## External Profiles
 

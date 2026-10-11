@@ -1,7 +1,7 @@
 ---
 title: "Rupesh Kumar"
 description: "Rupesh Kumar is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.331105
+date: 2026-10-11T02:33:00.364824
 url: "/cdr-researcher-census/researchers/rupesh-kumar-a5083371/"
 layout: "researcher"
 hiddenInHomeList: true

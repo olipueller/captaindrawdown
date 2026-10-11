@@ -1,7 +1,7 @@
 ---
 title: "Felix Seidel"
 description: "Felix Seidel is a Mid-career Soil Carbon researcher at Johann Heinrich von Thünen-Institut in DE. With 39 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.515761
+date: 2026-10-11T02:32:59.529399
 url: "/cdr-researcher-census/researchers/felix-seidel-a5063751/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon sequestration in soils and climate change mitigation—Definitions and pitfalls** (2023)
-   227 citations · General CDR
+   234 citations · General CDR
 
 2. **Increasing root biomass derived carbon input to agricultural soils by genotype selection – a review** (2023)
-   52 citations · General CDR
+   54 citations · General CDR
 
 3. **Reply letter to Munoz et al. ‘on the importance of time in carbon sequestration in soils and climate change mitigation’—Keep carbon sequestration terminologies consistent and functional** (2024)
    17 citations · General CDR
 
 4. **Forage vs. Grain Legumes: Contrasting Effects on Soil Organic Carbon Stocks–Evidence From 30 European Field Experiments** (2025)
-   12 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 5. **Soil carbon-sequestration and climate mitigation – definitions and their implications** (2023)
    2 citations · General CDR

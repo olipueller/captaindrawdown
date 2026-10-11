@@ -1,7 +1,7 @@
 ---
 title: "Hatem Ibrahim"
 description: "Hatem Ibrahim is a Mid-career Soil Carbon researcher at University of Carthage in TN. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.079331
+date: 2026-10-11T02:33:00.109443
 url: "/cdr-researcher-census/researchers/hatem-ibrahim-a5064669/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil OC and N Stocks in the Saline Soil of Tunisian Gataaya Oasis Eight Years after Application of Manure and Compost** (2022)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 2. **Modelling the Organic Evolution of a Mediterranean Limestone Soil under Usual Cropping of Durum Wheat and Faba Bean** (2021)
    2 citations · Soil Carbon

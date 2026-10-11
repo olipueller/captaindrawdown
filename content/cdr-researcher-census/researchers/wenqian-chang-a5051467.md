@@ -1,7 +1,7 @@
 ---
 title: "Wenqian Chang"
 description: "Wenqian Chang is a Mid-career Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.264331
+date: 2026-10-11T02:33:00.294250
 url: "/cdr-researcher-census/researchers/wenqian-chang-a5051467/"
 layout: "researcher"
 hiddenInHomeList: true

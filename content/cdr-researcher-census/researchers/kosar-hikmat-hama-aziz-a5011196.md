@@ -1,7 +1,7 @@
 ---
 title: "Kosar Hikmat Hama Aziz"
 description: "Kosar Hikmat Hama Aziz is an Eminent Biochar researcher at Brandenburgische Technische Universität Cottbus-Senftenberg in DE. With 78 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.040990
+date: 2026-10-11T02:32:59.044172
 url: "/cdr-researcher-census/researchers/kosar-hikmat-hama-aziz-a5011196/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Adsorptive removal of toxic heavy metals from aquatic environment by metal organic framework (MOF): A review** (2025)
-   135 citations
+   144 citations
 
 2. **Recent advances in water remediation from toxic heavy metals using biochar as a green and efficient adsorbent: A review** (2023)
-   108 citations · Biochar
+   112 citations · Biochar
 
 3. **Removal of toxic heavy metals from aquatic systems using low-cost and sustainable biochar: A review** (2024)
-   90 citations · Biochar
+   95 citations · Biochar
 
 4. **Biochar, hydrochar, and their derivative composites for heavy metal adsorption** (2025)
-   15 citations · Biochar
+   16 citations · Biochar
 
 5. **Green synthesized Fe-modified biochar for peroxydisulfate activation and organic pollutant degradation via synergistic radical and non-radical pathways** (2026)
-   1 citations · Biochar
+   3 citations · Biochar
 
 6. **Sustainable and efficient persulfate activation by pristine pumpkin seed pomace biochar: a low-energy regeneration strategy and singlet oxygen-dominated pathways** (2025)
    0 citations · Biochar

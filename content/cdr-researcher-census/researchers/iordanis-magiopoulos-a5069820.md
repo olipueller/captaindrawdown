@@ -1,7 +1,7 @@
 ---
 title: "Iordanis Magiopoulos"
 description: "Iordanis Magiopoulos is a Mid-career Ocean CDR researcher. With 41 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.577264
+date: 2026-10-11T02:32:59.592871
 url: "/cdr-researcher-census/researchers/iordanis-magiopoulos-a5069820/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,27 +46,30 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Plankton do not care: Minimal effects of ocean liming on plankton growth and grazing in the Eastern Mediterranean** (2025)
-   5 citations · Ocean CDR
+   7 citations · Ocean CDR
 
 2. **The effect of ocean alkalinity enhancement on zooplankton standing stock and community composition in the Eastern Mediterranean Sea: a mesocosm study** (2025)
-   3 citations · Ocean CDR
+   5 citations · Ocean CDR
 
-3. **Ocean liming in eutrophic vs. ultraoligotrophic environments and the response of algal calcifiers** (2024)
-   1 citations · General CDR
+3. **The impact of ocean liming on phytoplankton size-structure and the balance of photosynthesis and respiration in two contrasting environments** (2024)
+   2 citations · General CDR
 
-4. **The impact of ocean liming on phytoplankton size-structure and the balance of photosynthesis and respiration in two contrasting environments** (2024)
+4. **Ocean liming in eutrophic vs. ultraoligotrophic environments and the response of algal calcifiers** (2024)
    1 citations · General CDR
 
 5. **Ocean liming in the oligotrophic Eastern Mediterranean: impact on the planktonic microbial food web** (2024)
    1 citations · General CDR
 
-6. **Genus-specific calcification dynamics in coralline algae: insights into Mg incorporation as response to Ocean Alkalinity Enhancement** (2025)
+6. **Response of the Carbonate System to Ocean Alkalinity Enhancement: A Mesocosm-Scale Experiment** (2026)
    0 citations · Ocean CDR
 
-7. **Genus-specific and microanatomical controls on element incorporation in coralline calcification revealed by Ocean Alkalinity Enhancement experiments** (2025)
+7. **Genus-specific calcification dynamics in coralline algae: insights into Mg incorporation as response to Ocean Alkalinity Enhancement** (2025)
    0 citations · Ocean CDR
 
-8. **Coccolithophore response to marine alkalinization: The results of ocean alkalinity enhancement exposure.** (2024)
+8. **Genus-specific and microanatomical controls on element incorporation in coralline calcification revealed by Ocean Alkalinity Enhancement experiments** (2025)
+   0 citations · Ocean CDR
+
+9. **Coccolithophore response to marine alkalinization: The results of ocean alkalinity enhancement exposure.** (2024)
    0 citations · Ocean CDR
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Mohamed Bayad"
 description: "Mohamed Bayad is a Mid-career Soil Carbon researcher at Center For Remote Sensing (United States) in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.152109
+date: 2026-10-11T02:33:00.181980
 url: "/cdr-researcher-census/researchers/mohamed-bayad-a5027709/"
 layout: "researcher"
 hiddenInHomeList: true

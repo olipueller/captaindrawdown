@@ -1,7 +1,7 @@
 ---
 title: "Zhufeng Wang"
 description: "Zhufeng Wang is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.983904
+date: 2026-10-11T02:33:00.015006
 url: "/cdr-researcher-census/researchers/zhufeng-wang-a5103135/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,11 +56,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **Soil nitrogen availability regulates fungal necromass contribution to soil organic carbon during vegetation restoration** (2025)
    4 citations · Soil Carbon
 
-3. **Comparison of soil exchangeable calcium estimated using five extractants and near-infrared spectroscopy** (2024)
-   1 citations
+3. **Long-term calcium fertilization mediates microbial and plant-derived carbon accumulation by influencing iron oxides in red soils** (2025)
+   1 citations · Soil Carbon
 
-4. **Long-term calcium fertilization mediates microbial and plant-derived carbon accumulation by influencing iron oxides in red soils** (2025)
-   0 citations · Soil Carbon
+4. **Comparison of soil exchangeable calcium estimated using five extractants and near-infrared spectroscopy** (2024)
+   1 citations
 
 5. **Soil Nitrogen Availability Regulates Fungal Necromass Contribution to Soil Organic Carbon During Vegetation Restoration: A Meta Analysis** (2025)
    0 citations · Soil Carbon

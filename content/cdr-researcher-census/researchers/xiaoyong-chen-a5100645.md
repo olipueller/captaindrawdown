@@ -1,7 +1,7 @@
 ---
 title: "Xiaoyong Chen"
 description: "Xiaoyong Chen is a Senior Soil Carbon researcher at Governors State University in US. With 94 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.116905
+date: 2026-10-11T02:32:59.121580
 url: "/cdr-researcher-census/researchers/xiaoyong-chen-a5100645/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,16 +54,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Soil Carbon
 
 2. **Thinning Intensity Enhances Soil Multifunctionality and Microbial Residue Contributions to Organic Carbon Sequestration in Chinese Fir Plantations** (2025)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 3. **Biochar-organic fertilizer synergy drives microbial-mediated C-sequestration and N-cycling in mixed forests toward sustainability** (2025)
    6 citations · Biochar
 
-4. **Effects of Litter Removal and Biochar Application on Soil Properties in Urban Forests of Southern China** (2024)
-   3 citations · Biochar
+4. **Temporal dynamics of microbial residues and their role in soil organic carbon sequestration across a chronosequence of Chinese fir plantations in subtropical China** (2026)
+   4 citations · Soil Carbon
 
-5. **Temporal dynamics of microbial residues and their role in soil organic carbon sequestration across a chronosequence of Chinese fir plantations in subtropical China** (2026)
-   1 citations · Soil Carbon
+5. **Effects of Litter Removal and Biochar Application on Soil Properties in Urban Forests of Southern China** (2024)
+   3 citations · Biochar
 
 6. **Drought-Induced Alterations in Carbon and Water Dynamics of Chinese Fir Plantations at the Trunk Wood Stage** (2024)
    1 citations

@@ -1,7 +1,7 @@
 ---
 title: "Tobias Linke"
 description: "Tobias Linke is a Mid-career Enhanced Weathering researcher at Universität Hamburg in DE. With 43 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.055754
+date: 2026-10-11T02:33:00.086116
 url: "/cdr-researcher-census/researchers/tobias-linke-a5081151/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **The geochemical evolution of basalt Enhanced Rock Weathering systems quantified from a natural analogue** (2024)
-   17 citations · Enhanced Weathering
+   19 citations · Enhanced Weathering
 
 2. **Direct evidence of CO2 drawdown through enhanced weathering in soils** (2024)
    11 citations
@@ -56,11 +56,11 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 3. **Soil processes govern alkalinity and cation retention in enhanced weathering for carbon dioxide removal** (2025)
    2 citations · Enhanced Weathering
 
-4. **Supplementary material to "Soil processes govern alkalinity and cation retention in enhanced weathering for carbon dioxide removal"** (2025)
+4. **An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering** (2026)
    1 citations · Enhanced Weathering
 
-5. **An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering** (2026)
-   0 citations · Enhanced Weathering
+5. **Supplementary material to "Soil processes govern alkalinity and cation retention in enhanced weathering for carbon dioxide removal"** (2025)
+   1 citations · Enhanced Weathering
 
 6. **Potential of combining biochar and enhanced weathering and impacts on soil organic carbon and biomass: PyMiCCS project results** (2026)
    0 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Jilin Tian"
 description: "Jilin Tian is a Mid-career Biochar researcher at Duke University in US. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.844769
+date: 2026-10-11T02:32:59.870764
 url: "/cdr-researcher-census/researchers/jilin-tian-a5102931/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    5 citations · Biochar
 
 2. **Preparation of Ni–Fe–Ca catalysts based on activated biochar from H2O-activated fungus bran for use in tar reformation** (2024)
-   4 citations · Biochar
+   5 citations · Biochar
 
 ## External Profiles
 

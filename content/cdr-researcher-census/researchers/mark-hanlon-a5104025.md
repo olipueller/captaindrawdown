@@ -1,7 +1,7 @@
 ---
 title: "Mark Hanlon"
 description: "Mark Hanlon is a Senior Enhanced Weathering researcher at UK Centre for Ecology & Hydrology in GB. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.307289
+date: 2026-10-11T02:33:00.338167
 url: "/cdr-researcher-census/researchers/mark-hanlon-a5104025/"
 layout: "researcher"
 hiddenInHomeList: true

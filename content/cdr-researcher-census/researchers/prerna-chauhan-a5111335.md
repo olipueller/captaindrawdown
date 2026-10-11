@@ -1,7 +1,7 @@
 ---
 title: "Prerna Chauhan"
 description: "Prerna Chauhan is an Early-career Biochar researcher at Chandigarh University in IN. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.240993
+date: 2026-10-11T02:33:00.271015
 url: "/cdr-researcher-census/researchers/prerna-chauhan-a5111335/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Comprehensive heavy metal remediation mechanisms with insights into CRISPR-Cas9 and biochar innovations** (2025)
-   14 citations · Biochar
+   15 citations · Biochar
 
 ## External Profiles
 

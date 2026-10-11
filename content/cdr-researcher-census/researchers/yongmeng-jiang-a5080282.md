@@ -1,7 +1,7 @@
 ---
 title: "Yongmeng Jiang"
 description: "Yongmeng Jiang is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.091002
+date: 2026-10-11T02:33:00.121642
 url: "/cdr-researcher-census/researchers/yongmeng-jiang-a5080282/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,16 +48,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Input of high-quality litter reduces soil carbon losses due to priming in a subtropical pine forest** (2024)
-   47 citations · Soil Carbon
+   50 citations · Soil Carbon
 
 2. **Lignin–microbial necromass carbon coupling drives the vertical stratification mechanism of deep soil carbon sequestration in subtropical forests** (2025)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 3. **Promoting effect of tree mixture on litter quality and microbial diversity governs microbial necromass accrual in previously degraded soils** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 4. **High-quality litter exerts a greater effect on soil carbon gain in unrestored than restored pine plantations** (2024)
-   7 citations
+   8 citations
 
 5. **Introducing tree species of Schima superba and Liquidambar formosana enhances soil carbon sequestration by alleviating microbial phosphorus limitation and modulating microbial metabolism in degraded pine forests** (2026)
    3 citations · Soil Carbon

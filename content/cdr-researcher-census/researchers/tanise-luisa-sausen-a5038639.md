@@ -1,7 +1,7 @@
 ---
 title: "Tanise Luisa Sausen"
 description: "Tanise Luisa Sausen is a Senior Soil Carbon researcher at Universidade Federal do Rio Grande in BR. With 54 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.641532
+date: 2026-10-11T02:32:59.659976
 url: "/cdr-researcher-census/researchers/tanise-luisa-sausen-a5038639/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    15 citations · Soil Carbon
 
 2. **Land management of formerly subtropical Atlantic Forest reduces soil carbon stocks and alters microbial community structure and function** (2023)
-   14 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 3. **Linking understory functional traits to soil organic carbon storage in natural and planted subtropical forests** (2025)
    3 citations · Soil Carbon

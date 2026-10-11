@@ -1,7 +1,7 @@
 ---
 title: "Reham Eltawab"
 description: "Reham Eltawab is a Mid-career Biochar researcher at Jiangsu University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.280343
+date: 2026-10-11T02:32:59.284580
 url: "/cdr-researcher-census/researchers/reham-eltawab-a5058649/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Innovative solutions for coastal wetlands pollution: Application of Spartina alterniflora Loisel. - biochar for cadmium removal and carbon sequestration** (2024)
-   8 citations · Biochar
+   9 citations · Biochar
 
 ## External Profiles
 

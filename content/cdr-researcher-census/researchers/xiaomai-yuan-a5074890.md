@@ -1,7 +1,7 @@
 ---
 title: "Xiaomai Yuan"
 description: "Xiaomai Yuan is an Early-career Biochar researcher at Guangxi University in CN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.030978
+date: 2026-10-11T02:33:00.062203
 url: "/cdr-researcher-census/researchers/xiaomai-yuan-a5074890/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar effects on aggregation and carbon-nitrogen retention in different-sized aggregates of clay and loam soils: A meta-analysis** (2024)
-   39 citations · Biochar
+   43 citations · Biochar
 
 ## External Profiles
 

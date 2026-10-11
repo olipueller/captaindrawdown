@@ -1,7 +1,7 @@
 ---
 title: "Wenbin Ke"
 description: "Wenbin Ke is a Mid-career Soil Carbon researcher at Lanzhou University in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.875078
+date: 2026-10-11T02:32:59.902295
 url: "/cdr-researcher-census/researchers/wenbin-ke-a5033969/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,10 +47,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Identifying a suitable revegetation method for soil organic carbon, nitrogen, and phosphorus sequestration: A 16‐year in situ experiment on abandoned farmland in a semiarid area of the Loess Plateau, China** (2022)
+1. **Fertile island effects across soil depths in drylands of the Tibetan Plateau** (2024)
+   16 citations
+
+2. **Identifying a suitable revegetation method for soil organic carbon, nitrogen, and phosphorus sequestration: A 16‐year in situ experiment on abandoned farmland in a semiarid area of the Loess Plateau, China** (2022)
    10 citations · Soil Carbon
 
-2. **Fertile island effects across soil depths in drylands of the Tibetan Plateau** (2023)
+3. **Fertile island effects across soil depths in drylands of the Tibetan Plateau** (2023)
    1 citations · Soil Carbon
 
 ## External Profiles

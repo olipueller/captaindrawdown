@@ -1,7 +1,7 @@
 ---
 title: "Bożena Dębska"
 description: "Bożena Dębska is a Senior Soil Carbon researcher at Bydgoszcz University of Science and Technology in PL. With 69 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.299547
+date: 2026-10-11T02:32:59.304585
 url: "/cdr-researcher-census/researchers/bozena-debska-a5022634/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    20 citations · Soil Carbon
 
 3. **The Application of Biochar from Waste Biomass to Improve Soil Fertility and Soil Enzyme Activity and Increase Carbon Sequestration** (2022)
-   17 citations · Biochar
+   18 citations · Biochar
 
 4. **Suitability of Various Parameters for the Determination of the Condition of Soil Structure with Dependence to the Quantity and Quality of Soil Organic Matter** (2023)
    2 citations · Soil Carbon

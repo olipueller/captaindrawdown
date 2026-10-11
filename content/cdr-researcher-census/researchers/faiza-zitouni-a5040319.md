@@ -1,7 +1,7 @@
 ---
 title: "Faiza Zitouni"
 description: "Faiza Zitouni is a Senior Biochar researcher at Aswan University in EG. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.096781
+date: 2026-10-11T02:33:00.127502
 url: "/cdr-researcher-census/researchers/faiza-zitouni-a5040319/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Current trends in production, morphology, and real-world environmental applications of biochar for the promotion of sustainability** (2022)
-   94 citations · Biochar
+   95 citations · Biochar
 
 ## External Profiles
 

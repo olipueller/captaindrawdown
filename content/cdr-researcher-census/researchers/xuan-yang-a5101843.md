@@ -1,7 +1,7 @@
 ---
 title: "Xuan Yang"
 description: "Xuan Yang is a Mid-career Soil Carbon researcher at Gansu Agricultural University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.620107
+date: 2026-10-11T02:32:59.637693
 url: "/cdr-researcher-census/researchers/xuan-yang-a5101843/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Divergent contribution of particulate and mineral-associated organic matter to soil carbon in grassland** (2023)
-   79 citations · Soil Carbon
+   80 citations · Soil Carbon
 
 ## External Profiles
 

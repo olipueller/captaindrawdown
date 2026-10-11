@@ -1,7 +1,7 @@
 ---
 title: "Prayasi Nayak"
 description: "Prayasi Nayak is a Mid-career Ocean CDR researcher at Sri Sri University in IN. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.111543
+date: 2026-10-11T02:33:00.142470
 url: "/cdr-researcher-census/researchers/prayasi-nayak-a5057031/"
 layout: "researcher"
 hiddenInHomeList: true

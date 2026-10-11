@@ -1,7 +1,7 @@
 ---
 title: "Abigail Knecht"
 description: "Abigail Knecht is a Senior Enhanced Weathering researcher at Alameda Hospital in US. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.463853
+date: 2026-10-11T02:32:59.475121
 url: "/cdr-researcher-census/researchers/abigail-knecht-a5052815/"
 layout: "researcher"
 hiddenInHomeList: true

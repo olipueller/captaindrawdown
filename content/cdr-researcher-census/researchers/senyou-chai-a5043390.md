@@ -1,7 +1,7 @@
 ---
 title: "Senyou Chai"
 description: "Senyou Chai is a Mid-career Biochar researcher at Qingdao Center of Resource Chemistry and New Materials in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.729847
+date: 2026-10-11T02:32:59.751316
 url: "/cdr-researcher-census/researchers/senyou-chai-a5043390/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The potential of green biochar generated from biogas residue as a heterogeneous persulfate activator and its non-radical degradation pathways: Adsorption and degradation of tetracycline** (2021)
-   37 citations · Biochar
+   38 citations · Biochar
 
 ## External Profiles
 

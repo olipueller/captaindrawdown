@@ -1,7 +1,7 @@
 ---
 title: "Norul Sobuj"
 description: "Norul Sobuj is a Mid-career Soil Carbon researcher at Swedish University of Agricultural Sciences in SE. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.902319
+date: 2026-10-11T02:32:59.931613
 url: "/cdr-researcher-census/researchers/norul-sobuj-a5086935/"
 layout: "researcher"
 hiddenInHomeList: true

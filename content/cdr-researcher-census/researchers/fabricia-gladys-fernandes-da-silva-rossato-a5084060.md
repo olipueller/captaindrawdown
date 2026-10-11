@@ -1,7 +1,7 @@
 ---
 title: "Fabrícia Gladys Fernandes da Silva Rossato"
 description: "Fabrícia Gladys Fernandes da Silva Rossato is a Mid-career General CDR researcher. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.320647
+date: 2026-10-11T02:33:00.352841
 url: "/cdr-researcher-census/researchers/fabricia-gladys-fernandes-da-silva-rossato-a5084060/"
 layout: "researcher"
 hiddenInHomeList: true

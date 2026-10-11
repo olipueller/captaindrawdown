@@ -1,7 +1,7 @@
 ---
 title: "Mohammed Awwal Suleiman"
 description: "Mohammed Awwal Suleiman is an Early-career Biochar researcher at Jubail Industrial College in SA. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.128425
+date: 2026-10-11T02:33:00.158634
 url: "/cdr-researcher-census/researchers/mohammed-awwal-suleiman-a5035941/"
 layout: "researcher"
 hiddenInHomeList: true

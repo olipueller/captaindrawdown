@@ -1,7 +1,7 @@
 ---
 title: "Sandrine Selosse"
 description: "Sandrine Selosse is a Senior General CDR researcher at Mines Paris, Université PSL, Centre de Mathématiques Appliquées (CMA) in FR. With 252 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.236081
+date: 2026-10-11T02:32:59.239606
 url: "/cdr-researcher-census/researchers/sandrine-selosse-a5067314/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Deploying direct air capture at scale: How close to reality?** (2023)
-   29 citations · DAC
+   30 citations · DAC
 
 2. **Feasibility, conditions, and opportunities for achieving net-negative emissions in the global cement industry** (2024)
-   15 citations
+   16 citations
 
 3. **The co-benefits of integrating carbon dioxide removal in the energy system: A review from the prism of natural climate solutions** (2025)
-   7 citations · General CDR
+   8 citations · General CDR
 
 4. **Water use in a sustainable net zero energy system: what are the implications of employing bioenergy with carbon capture and storage?** (2024)
-   4 citations · BECCS
+   5 citations · BECCS
 
 5. **Life Cycle Assessment and System Integration of Carbon Dioxide Removal: Addressing Challenges in Environmental Evaluation and Model Representation** (2025)
    3 citations · General CDR
@@ -68,10 +68,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 6. **Deploying Direct Air Capture at Scale: How Close to Reality?** (2023)
    2 citations · DAC
 
-7. **Feasibility, Conditions, and Opportunities for Achieving Net-Negative Emissions in the Global Cement Industry** (2024)
-   1 citations · General CDR
+7. **Carbon Dioxide Removal in SDGs and Nationally Determined Contributions** (2023)
+   2 citations · General CDR
 
-8. **Carbon Dioxide Removal in SDGs and Nationally Determined Contributions** (2023)
+8. **Feasibility, Conditions, and Opportunities for Achieving Net-Negative Emissions in the Global Cement Industry** (2024)
    1 citations · General CDR
 
 9. **Land–energy nexus to assess the contribution of carbon dioxide removal in net-zero emission pathways** (2026)

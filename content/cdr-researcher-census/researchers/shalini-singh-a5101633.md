@@ -1,7 +1,7 @@
 ---
 title: "Shalini Singh"
 description: "Shalini Singh is a Senior Soil Carbon researcher at Gujarat University in IN. With 49 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.496596
+date: 2026-10-11T02:32:59.508854
 url: "/cdr-researcher-census/researchers/shalini-singh-a5101633/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil fertility management: Role of organic amendments and bio-fertilizers: A review** (2024)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
-2. **Carbon sequestration in agricultural soils: Strategies for climate change mitigation-A Review** (2024)
+2. **Biogas upgrading via hydrogenotrophic methanogenesis and hematite-GAC assisted in-situ CO₂-to-CH₄ conversion** (2025)
+   2 citations · General CDR
+
+3. **Carbon sequestration in agricultural soils: Strategies for climate change mitigation-A Review** (2024)
    2 citations · Biochar
-
-3. **Biogas upgrading via hydrogenotrophic methanogenesis and hematite-GAC assisted in-situ CO₂-to-CH₄ conversion** (2025)
-   1 citations · General CDR
 
 4. **Biogas Upgrading Via Hydrogenotrophic Methanogenesis and Hematite-Gac Assisted Co₂-to-Ch₄ Conversion** (2025)
    0 citations

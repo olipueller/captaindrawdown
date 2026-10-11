@@ -1,7 +1,7 @@
 ---
 title: "Mads Heuckendorff"
 description: "Mads Heuckendorff is a Senior DAC researcher at Cowi (Denmark) in DK. With 29 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.389774
+date: 2026-10-11T02:32:59.397750
 url: "/cdr-researcher-census/researchers/mads-heuckendorff-a5000970/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Techno-economic analysis of two novel direct air capture-to-urea concepts based on process intensification** (2025)
-   12 citations · DAC
+   13 citations · DAC
 
 2. **Prospective life cycle and techno-economic analysis of direct air capture-to-urea production under CBAM** (2025)
-   5 citations · DAC
+   6 citations · DAC
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Devagiri G. Mahalingappa"
 description: "Devagiri G. Mahalingappa is an Early-career BECCS researcher at University of Agricultural and Horticultural Sciences in IN. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.392909
+date: 2026-10-11T02:33:00.430348
 url: "/cdr-researcher-census/researchers/devagiri-g-mahalingappa-a5046870/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Biomass Production and Carbon Sequestration Potential of Different Agroforestry Systems in India: A Critical Review** (2022)
-   101 citations · BECCS
+   103 citations · BECCS
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Tieguang He"
 description: "Tieguang He is a Senior Soil Carbon researcher at Guangxi Academy of Agricultural Science in CN. With 71 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.295168
+date: 2026-10-11T02:32:59.299808
 url: "/cdr-researcher-census/researchers/tieguang-he-a5100568/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Legume cover crops sequester more soil organic carbon than non-legume cover crops by stimulating microbial transformations** (2024)
-   73 citations · Soil Carbon
+   74 citations · Soil Carbon
 
 2. **Biochar effects on aggregation and carbon-nitrogen retention in different-sized aggregates of clay and loam soils: A meta-analysis** (2024)
-   39 citations · Biochar
+   43 citations · Biochar
 
 3. **Bamboo charcoal application altered the mineralization process of soil organic carbon in different succession stages of karst forest land** (2024)
    7 citations · Biochar

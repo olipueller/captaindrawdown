@@ -1,7 +1,7 @@
 ---
 title: "William A. González"
 description: "William A. González is a Mid-career BECCS researcher at Universidad de Sevilla in ES. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.090802
+date: 2026-10-11T02:33:00.121423
 url: "/cdr-researcher-census/researchers/william-a-gonzalez-a5012524/"
 layout: "researcher"
 hiddenInHomeList: true

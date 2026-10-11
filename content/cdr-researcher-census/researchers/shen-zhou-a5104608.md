@@ -1,7 +1,7 @@
 ---
 title: "Shen Zhou"
 description: "Shen Zhou is a Mid-career Biochar researcher at Henan University in CN. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.134369
+date: 2026-10-11T02:33:00.164862
 url: "/cdr-researcher-census/researchers/shen-zhou-a5104608/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Comprehensive performance of iron-loaded biochar adsorption of U(VI) at an industrial scale based on life cycle assessment and economic analysis** (2025)
-   2 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

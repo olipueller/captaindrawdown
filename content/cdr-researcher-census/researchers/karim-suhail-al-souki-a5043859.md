@@ -1,7 +1,7 @@
 ---
 title: "Karim Suhail Al Souki"
 description: "Karim Suhail Al Souki is a Mid-career Soil Carbon researcher at Jan Evangelista Purkyně University in Ústí nad Labem in CZ. With 37 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.615257
+date: 2026-10-11T02:32:59.632687
 url: "/cdr-researcher-census/researchers/karim-suhail-al-souki-a5043859/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Enhanced Carbon Sequestration in Marginal Land Upon Shift towards Perennial C4Miscanthus × giganteus: A Case Study in North-Western Czechia** (2021)
-   27 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 2. **Interactions of Miscanthus × giganteus with microorganisms in degraded lands: potential for ecosystem restoration** (2025)
    3 citations · Soil Carbon

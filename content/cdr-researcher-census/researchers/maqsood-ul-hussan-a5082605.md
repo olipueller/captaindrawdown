@@ -1,7 +1,7 @@
 ---
 title: "Maqsood Ul Hussan"
 description: "Maqsood Ul Hussan is a Mid-career Biochar researcher at ZheJiang Academy of Agricultural Sciences in CN. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.331793
+date: 2026-10-11T02:33:00.365543
 url: "/cdr-researcher-census/researchers/maqsood-ul-hussan-a5082605/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Depth-Wise Assessment of Soil Fertility and Organic Carbon Under Different Land Use Systems: Implications for Climate Change Adaptation and Resilience in Smallholder Agroecosystems** (2026)
-   1 citations
+   2 citations
 
 2. **Depth-Wise Assessment of Soil Fertility and Organic Carbon under Different Land Use Systems: Implications for Climate Change Adaptation and Resilience in Smallholder Agroecosystems** (2026)
    1 citations

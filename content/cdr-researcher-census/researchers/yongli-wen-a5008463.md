@@ -1,7 +1,7 @@
 ---
 title: "Yongli Wen"
 description: "Yongli Wen is a Mid-career Soil Carbon researcher at Shanxi University of Finance and Economics in CN. With 22 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.422567
+date: 2026-10-11T02:32:59.432665
 url: "/cdr-researcher-census/researchers/yongli-wen-a5008463/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    22 citations · Soil Carbon
 
 2. **Soil aggregate carbon stocks and sequestration efficiency under long-term fertilization across China’s croplands** (2025)
-   5 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 3. **Shifts in biotic and abiotic controls of soil organic carbon mineralization across vegetation types and soil depths in Luya Mountain** (2025)
    3 citations · Soil Carbon

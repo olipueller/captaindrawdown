@@ -1,7 +1,7 @@
 ---
 title: "Enqing Hou"
 description: "Enqing Hou is an Eminent Soil Carbon researcher at South China Botanical Garden in CN. With 164 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.029897
+date: 2026-10-11T02:32:59.032903
 url: "/cdr-researcher-census/researchers/enqing-hou-a5058149/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,33 +51,33 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Nitrogen addition stimulates soil aggregation and enhances carbon storage in terrestrial ecosystems of China: A meta‐analysis** (2021)
-   226 citations · Soil Carbon
+   224 citations · Soil Carbon
 
 2. **Phosphorus Supply Increases Nitrogen Transformation Rates and Retention in Soil: A Global Meta‐Analysis** (2022)
-   103 citations · Soil Carbon
+   107 citations · Soil Carbon
 
 3. **Nitrogen availability mediates soil organic carbon cycling in response to phosphorus supply: A global meta-analysis** (2023)
-   66 citations · Soil Carbon
+   68 citations · Soil Carbon
 
 4. **Divergent responses of primary production to increasing precipitation variability in global drylands** (2021)
-   64 citations · Soil Carbon
+   65 citations · Soil Carbon
 
 5. **Altered soil microbial properties and functions after afforestation increase soil carbon and nitrogen but not phosphorus accumulation** (2023)
-   55 citations · Soil Carbon
+   54 citations · Soil Carbon
 
 6. **Bedrock and climate jointly control the phosphorus status of subtropical forests along two elevational gradients** (2021)
-   31 citations
+   32 citations
 
 7. **Biochar rate-dependent regulation of extended nitrogen supply by modifying stable aggregates-N and microbial responses** (2023)
    27 citations · Biochar
 
 8. **Mechanisms of soil organic carbon stabilization and its response to conversion of primary natural broadleaf forests to secondary forests and plantation forests** (2024)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
-9. **Variations and influencing factors of soil organic carbon during the tropical forest succession from plantation to secondary and old–growth forest** (2023)
+9. **Global Distribution and Influencing Factors of Plant‐Available Phosphorus in (Semi‐)Natural Soils** (2025)
    19 citations · Soil Carbon
 
-10. **Changes in the composition of soil microbial communities and their carbon‐cycle genes following the conversion of primary broadleaf forests to plantations and secondary forests** (2021)
+10. **Variations and influencing factors of soil organic carbon during the tropical forest succession from plantation to secondary and old–growth forest** (2023)
    19 citations · Soil Carbon
 
 ## External Profiles

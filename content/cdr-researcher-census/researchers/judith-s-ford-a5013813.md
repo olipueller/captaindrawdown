@@ -1,7 +1,7 @@
 ---
 title: "Judith S. Ford"
 description: "Judith S. Ford is a Mid-career BECCS researcher at University of Leeds in GB. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.360962
+date: 2026-10-11T02:33:00.396672
 url: "/cdr-researcher-census/researchers/judith-s-ford-a5013813/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Perennial biomass cropping and use: Shaping the policy ecosystem in European countries** (2023)
-   55 citations · BECCS
+   56 citations · BECCS
 
 2. **Environmental and economic assessment of biochar production systems from agricultural residues** (2026)
-   10 citations · Biochar
+   11 citations · Biochar
 
 ## External Profiles
 

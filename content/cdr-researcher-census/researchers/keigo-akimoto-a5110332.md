@@ -1,7 +1,7 @@
 ---
 title: "Keigo Akimoto"
 description: "Keigo Akimoto is a Senior General CDR researcher at Research Institute of Innovative Technology for the Earth in JP. With 187 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.080508
+date: 2026-10-11T02:32:59.085344
 url: "/cdr-researcher-census/researchers/keigo-akimoto-a5110332/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Climate change mitigation measures for global net-zero emissions and the roles of CO2 capture and utilization and direct air capture** (2021)
-   93 citations · BECCS
+   94 citations · BECCS
 
 2. **Impacts of ride and car-sharing associated with fully autonomous cars on global energy consumptions and carbon dioxide emissions** (2021)
    80 citations · General CDR
 
 3. **Assessment of road transportation measures for global net-zero emissions considering comprehensive energy systems** (2023)
-   29 citations · DAC
+   30 citations · DAC
 
 4. **Assessment of comprehensive energy systems for achieving carbon neutrality in road transport** (2022)
-   27 citations · General CDR
+   26 citations · General CDR
 
 5. **How great will the demand for critical minerals be to meet the 2 °C and 1.5 °C goals? Insights from various technology deployment scenarios** (2025)
-   3 citations · General CDR
+   4 citations · General CDR
 
 6. **Mitigating trade-offs between global food access and net-zero emissions: the potential contribution of direct air carbon capture and storage** (2023)
    3 citations · DAC

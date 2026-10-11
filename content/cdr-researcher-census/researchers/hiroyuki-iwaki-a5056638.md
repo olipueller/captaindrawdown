@@ -1,7 +1,7 @@
 ---
 title: "Hiroyuki Iwaki"
 description: "Hiroyuki Iwaki is a Senior Enhanced Weathering researcher at Tohoku University in JP. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.540597
+date: 2026-10-11T02:32:59.555556
 url: "/cdr-researcher-census/researchers/hiroyuki-iwaki-a5056638/"
 layout: "researcher"
 hiddenInHomeList: true

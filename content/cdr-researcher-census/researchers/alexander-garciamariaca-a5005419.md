@@ -1,7 +1,7 @@
 ---
 title: "Alexander García‐Mariaca"
 description: "Alexander García‐Mariaca is a Mid-career BECCS researcher at Universidad de Zaragoza in ES. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.077205
+date: 2026-10-11T02:33:00.107743
 url: "/cdr-researcher-census/researchers/alexander-garciamariaca-a5005419/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **On the oxy-combustion of blends of coal and agro-waste biomass under dry and wet conditions** (2024)
-   10 citations · BECCS
+   12 citations · BECCS
+
+2. **Decarbonisation of lime kilns in ironmaking plants through Power to Gas** (2026)
+   0 citations
 
 ## External Profiles
 

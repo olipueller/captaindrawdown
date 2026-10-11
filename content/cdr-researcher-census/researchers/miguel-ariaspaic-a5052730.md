@@ -1,7 +1,7 @@
 ---
 title: "Miguel Arias‐Paić"
 description: "Miguel Arias‐Paić is a Mid-career Biochar researcher at Denver Federal Center in US. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.623793
+date: 2026-10-11T02:32:59.641918
 url: "/cdr-researcher-census/researchers/miguel-ariaspaic-a5052730/"
 layout: "researcher"
 hiddenInHomeList: true

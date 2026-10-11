@@ -1,7 +1,7 @@
 ---
 title: "Manas Ranjan Mohanta"
 description: "Manas Ranjan Mohanta is a Mid-career Soil Carbon researcher at Indian Institute of Technology Kharagpur in IN. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.126967
+date: 2026-10-11T02:33:00.157282
 url: "/cdr-researcher-census/researchers/manas-ranjan-mohanta-a5047891/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Optimising carbon fixation through agroforestry: Estimation of aboveground biomass using multi-sensor data synergy and machine learning** (2023)
-   42 citations · General CDR
+   45 citations · General CDR
 
 2. **Diospyros candolleana Wight (Ebenaceae), an endemic and threatened tree species in India’s Eastern Ghats: Disturbance gradients, Population structure and Carbon storage** (2025)
    0 citations · Soil Carbon

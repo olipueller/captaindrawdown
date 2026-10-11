@@ -1,7 +1,7 @@
 ---
 title: "Huanhuan Wei"
 description: "Huanhuan Wei is a Mid-career Soil Carbon researcher at Shenyang Agricultural University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.703570
+date: 2026-10-11T02:32:59.723823
 url: "/cdr-researcher-census/researchers/huanhuan-wei-a5077188/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Full straw incorporation into a calcareous soil increased N2O emission despite more N2O being reduced to N2 in the winter crop season** (2022)
-   31 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 2. **Hot moment emissions of N2O suppressed by higher native soil organic matter** (2025)
    0 citations · Soil Carbon

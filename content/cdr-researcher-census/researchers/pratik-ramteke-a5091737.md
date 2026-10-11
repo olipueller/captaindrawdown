@@ -1,7 +1,7 @@
 ---
 title: "Pratik Ramteke"
 description: "Pratik Ramteke is a Mid-career Soil Carbon researcher at Dr Panjabrao Deshmukh Krishi Vidyapeeth in IN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.257296
+date: 2026-10-11T02:33:00.287368
 url: "/cdr-researcher-census/researchers/pratik-ramteke-a5091737/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long‐term nutrient management effects on organic carbon fractions and carbon sequestration in Typic Haplusterts soils of Central India** (2023)
-   20 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 2. **Analyzing the Trade-Offs between Soil Health Enhancement, Carbon Sequestration, and Productivity in Central India’s Black Soil through Conservation Agriculture** (2024)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "You Jin Kim"
 description: "You Jin Kim is a Senior Soil Carbon researcher at Hallym University in KR. With 52 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.425632
+date: 2026-10-11T02:32:59.435596
 url: "/cdr-researcher-census/researchers/you-jin-kim-a5112494/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Vulnerability of soil organic carbon in artificially constructed urban green spaces: Linking soil organic carbon physical fractions, microbial dynamics, and soil properties** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 2. **Managing Soil Organic Carbon for Climate Change Mitigation and Food Security** (2021)
    2 citations · General CDR

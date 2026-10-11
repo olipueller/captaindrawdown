@@ -1,7 +1,7 @@
 ---
 title: "Rebecca Ryals"
 description: "Rebecca Ryals is a Mid-career Soil Carbon researcher at University of California, Merced in US. With 58 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.229745
+date: 2026-10-11T02:32:59.233029
 url: "/cdr-researcher-census/researchers/rebecca-ryals-a5019847/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,19 +45,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 19 |
 | Citations | 1,110 |
 | Publications | 58 |
-| CDR Focus | 5.2% |
+| CDR Focus | 6.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Compost amendment to enhance carbon sequestration in rangelands** (2023)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 2. **Assessing deep soil carbon stocks in California nut orchards: insights and opportunities for climate mitigation** (2025)
    1 citations · Soil Carbon
 
 3. **Carbon farming can enhance pollinator resources** (2023)
    1 citations · General CDR
+
+4. **Assessing Compost Carbon Permanence with Solid-State 13C NMR: Advancing Standards for Climate and Carbon Markets** (2025)
+   0 citations · General CDR
 
 ## External Profiles
 

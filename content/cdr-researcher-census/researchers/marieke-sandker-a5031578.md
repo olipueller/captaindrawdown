@@ -1,7 +1,7 @@
 ---
 title: "Marieke Sandker"
 description: "Marieke Sandker is a Senior General CDR researcher at Food and Agriculture Organization of the United Nations in IT. With 30 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.313303
+date: 2026-10-11T02:32:59.318882
 url: "/cdr-researcher-census/researchers/marieke-sandker-a5031578/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Carbon fluxes from land 2000–2020: bringing clarity to countries' reporting** (2022)
-   88 citations · General CDR
+   105 citations · General CDR
 
 2. **Carbon fluxes from land 2000–2020: bringing clarity on countries’ reporting** (2022)
    26 citations · General CDR

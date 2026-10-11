@@ -1,7 +1,7 @@
 ---
 title: "Tessema Zewdu Kelkay"
 description: "Tessema Zewdu Kelkay is a Mid-career Soil Carbon researcher at Debark University in ET. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.400014
+date: 2026-10-11T02:33:00.438107
 url: "/cdr-researcher-census/researchers/tessema-zewdu-kelkay-a5025555/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon Stock and Change Rate under Different Grazing Management Practices in Semiarid Pastoral Ecosystem of Eastern Ethiopia** (2022)
-   15 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 ## External Profiles
 

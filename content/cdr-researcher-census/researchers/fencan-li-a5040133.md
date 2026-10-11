@@ -1,7 +1,7 @@
 ---
 title: "Fencan Li"
 description: "Fencan Li is a Mid-career Soil Carbon researcher at Lanzhou University in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.231794
+date: 2026-10-11T02:33:00.261936
 url: "/cdr-researcher-census/researchers/fencan-li-a5040133/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Plant species richness mediates the responses of microbial necromass carbon accumulation to climate aridity in alpine meadows** (2025)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 2. **Waterlogging increases microbial necromass carbon and particulate organic carbon in alpine meadow soils** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 ## External Profiles
 

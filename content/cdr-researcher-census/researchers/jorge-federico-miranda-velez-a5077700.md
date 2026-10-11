@@ -1,7 +1,7 @@
 ---
 title: "Jorge Federico Miranda-Vélez"
 description: "Jorge Federico Miranda-Vélez is a Mid-career General CDR researcher at Aarhus University in DK. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.280605
+date: 2026-10-11T02:33:00.310669
 url: "/cdr-researcher-census/researchers/jorge-federico-miranda-velez-a5077700/"
 layout: "researcher"
 hiddenInHomeList: true

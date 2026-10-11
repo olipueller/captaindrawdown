@@ -1,7 +1,7 @@
 ---
 title: "Brita Jessen"
 description: "Brita Jessen is a Senior Soil Carbon researcher at South Carolina Sea Grant Consortium in US. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.268693
+date: 2026-10-11T02:33:00.298651
 url: "/cdr-researcher-census/researchers/brita-jessen-a5018463/"
 layout: "researcher"
 hiddenInHomeList: true

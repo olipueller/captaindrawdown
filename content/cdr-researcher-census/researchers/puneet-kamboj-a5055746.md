@@ -1,7 +1,7 @@
 ---
 title: "Puneet Kamboj"
 description: "Puneet Kamboj is a Mid-career General CDR researcher at King Abdullah Petroleum Studies and Research Center in SA. With 37 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.146148
+date: 2026-10-11T02:33:00.175799
 url: "/cdr-researcher-census/researchers/puneet-kamboj-a5055746/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The path to 2060: Saudi Arabia's long-term pathway for GHG emission reduction** (2024)
-   30 citations · General CDR
+   31 citations · General CDR
 
 2. **The role and deployment timing of direct air capture in Saudi Arabia’s net-zero transition** (2024)
-   7 citations · DAC
+   8 citations · DAC
 
 3. **The Path to 2060: Saudi Arabia's Long-Term Pathway for GHG Emission Reduction** (2024)
    3 citations · General CDR

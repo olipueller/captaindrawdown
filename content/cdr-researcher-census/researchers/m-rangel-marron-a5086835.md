@@ -1,7 +1,7 @@
 ---
 title: "M. Rangel-Marrón"
 description: "M. Rangel-Marrón is a Senior Soil Carbon researcher at University of Alicante in ES. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.352933
+date: 2026-10-11T02:33:00.387782
 url: "/cdr-researcher-census/researchers/m-rangel-marron-a5086835/"
 layout: "researcher"
 hiddenInHomeList: true

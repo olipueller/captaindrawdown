@@ -1,7 +1,7 @@
 ---
 title: "Hasanthi L. Senevirathna"
 description: "Hasanthi L. Senevirathna is a Mid-career Enhanced Weathering researcher at Singapore University of Technology and Design in SG. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.090064
+date: 2026-10-11T02:33:00.120678
 url: "/cdr-researcher-census/researchers/hasanthi-l-senevirathna-a5090593/"
 layout: "researcher"
 hiddenInHomeList: true

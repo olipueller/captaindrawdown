@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Athar Khaliq"
 description: "Muhammad Athar Khaliq is a Mid-career Soil Carbon researcher at Lanzhou University in CN. With 12 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.354520
+date: 2026-10-11T02:32:59.360661
 url: "/cdr-researcher-census/researchers/muhammad-athar-khaliq-a5026792/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Estimating carbon stocks and biomass accumulation in three different agroforestry patterns in the semi-arid region of Pakistan** (2021)
-   19 citations · General CDR
+   18 citations · General CDR
+
+2. **Co-application of biochar and hydroxyapatite suppresses lead accumulation in rice via a soil–plant-microbe cascade** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Shuhan Xu"
 description: "Shuhan Xu is a Mid-career Biochar researcher at Shanghai Jiao Tong University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.397182
+date: 2026-10-11T02:33:00.435401
 url: "/cdr-researcher-census/researchers/shuhan-xu-a5027590/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Oxygen-nanobubble-loaded biochar increases soil carbon sequestration in rice paddies** (2025)
-   13 citations · Biochar
+   14 citations · Biochar
 
 ## External Profiles
 

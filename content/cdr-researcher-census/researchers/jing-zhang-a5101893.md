@@ -1,7 +1,7 @@
 ---
 title: "Jing Zhang"
 description: "Jing Zhang is a Senior Soil Carbon researcher at Henan University in CN. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.414021
+date: 2026-10-11T02:32:59.423877
 url: "/cdr-researcher-census/researchers/jing-zhang-a5101893/"
 layout: "researcher"
 hiddenInHomeList: true

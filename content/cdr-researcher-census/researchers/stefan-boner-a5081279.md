@@ -1,7 +1,7 @@
 ---
 title: "Stefan Bößner"
 description: "Stefan Bößner is a Mid-career BECCS researcher. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.011557
+date: 2026-10-11T02:33:00.042659
 url: "/cdr-researcher-census/researchers/stefan-boner-a5081279/"
 layout: "researcher"
 hiddenInHomeList: true

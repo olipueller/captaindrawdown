@@ -1,7 +1,7 @@
 ---
 title: "Wenyan Han"
-description: "Wenyan Han is a Mid-career Enhanced Weathering researcher at Chinese Academy of Agricultural Sciences in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.700402
+description: "Wenyan Han is an Early-career Enhanced Weathering researcher at Second Affiliated Hospital of Inner Mongolia Medical University in CN. With 9 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:33:00.200948
 url: "/cdr-researcher-census/researchers/wenyan-han-a5101153/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/wenyan-han-a5101153/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Chinese Academy of Agricultural Sciences"
+    "name": "Second Affiliated Hospital of Inner Mongolia Medical University"
   },
   "sameAs": "https://openalex.org/A5101153066"
 }
@@ -25,9 +25,9 @@ robots: "index, follow"
 ## Profile
 
 **Wenyan Han**  
-Chinese Academy of Agricultural Sciences · 🇨🇳 CN
+Second Affiliated Hospital of Inner Mongolia Medical University · 🇨🇳 CN
 
-**Career Stage:** Mid-career
+**Career Stage:** Early-career
 
 ## CDR Specialization
 
@@ -39,10 +39,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 309 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| h-index | 2 |
+| Citations | 144 |
+| Publications | 9 |
+| CDR Focus | 11.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

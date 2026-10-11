@@ -1,7 +1,7 @@
 ---
 title: "Naoya Takeda"
 description: "Naoya Takeda is a Mid-career Soil Carbon researcher at Queensland University of Technology in AU. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.022206
+date: 2026-10-11T02:33:00.053564
 url: "/cdr-researcher-census/researchers/naoya-takeda-a5072581/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Making soil carbon credits work for climate change mitigation** (2024)
-   23 citations · General CDR
+   25 citations · General CDR
 
 2. **Soil carbon sequestration potential in subtropical grasslands estimated by DayCent‐CABBI** (2025)
    9 citations · General CDR

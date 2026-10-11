@@ -1,7 +1,7 @@
 ---
 title: "M. Rodríguez"
 description: "M. Rodríguez is a Senior Biochar researcher at University of California, Merced in US. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.241164
+date: 2026-10-11T02:33:00.271186
 url: "/cdr-researcher-census/researchers/m-rodriguez-a5087166/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Recycling Agricultural Waste to Enhance Sustainable Greenhouse Agriculture: Analyzing the Cost-Effectiveness and Agronomic Benefits of Bokashi and Biochar Byproducts as Soil Amendments in Citrus Nursery Production** (2024)
-   5 citations · Biochar
+   6 citations · Biochar
 
 2. **A comprehensive study of carbon dioxide removal from air using ammonia and related technologies** (2025)
    0 citations

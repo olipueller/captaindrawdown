@@ -1,7 +1,7 @@
 ---
 title: "Mingwan Chen"
 description: "Mingwan Chen is a Senior Biochar researcher at Hainan University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.840068
+date: 2026-10-11T02:32:59.865957
 url: "/cdr-researcher-census/researchers/mingwan-chen-a5113530/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effect of Biochar Types and Rates on SOC and Its Active Fractions in Tropical Farmlands of China** (2024)
-   14 citations · Biochar
+   16 citations · Biochar
 
 2. **Biochar‐Induced Shifts in Resource Stoichiometry Shape Potential Nitrogen Limitation and Estimated Microbial Carbon Use Efficiency in Tropical Soils** (2026)
    0 citations · Biochar

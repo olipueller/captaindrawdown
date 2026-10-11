@@ -1,7 +1,7 @@
 ---
 title: "Zuoping Zhao"
 description: "Zuoping Zhao is a Senior Biochar researcher at Shaanxi University of Technology in CN. With 56 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.433560
+date: 2026-10-11T02:32:59.443882
 url: "/cdr-researcher-census/researchers/zuoping-zhao-a5083813/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Single-step synthesis of nitrogen and phosphorus co-doped biochar and its application in dye removal: synergistic effects of adsorption and peroxymonosulfate activation** (2025)
-   19 citations · Biochar
+   21 citations · Biochar
 
 2. **Nitrogen-phosphorus codoped biochar prepared from tannic acid for degradation of trace antibiotics in wastewater** (2024)
    15 citations · Biochar

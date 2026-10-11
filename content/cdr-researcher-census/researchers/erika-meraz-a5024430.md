@@ -1,7 +1,7 @@
 ---
 title: "Erika Meraz"
 description: "Erika Meraz is a Senior Soil Carbon researcher at University of Illinois Chicago in US. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.164263
+date: 2026-10-11T02:33:00.194362
 url: "/cdr-researcher-census/researchers/erika-meraz-a5024430/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Does Pastoral Land-Use Legacy Influence Topsoil Carbon and Nitrogen Accrual Rates in Tallgrass Prairie Restorations?** (2021)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 ## External Profiles
 

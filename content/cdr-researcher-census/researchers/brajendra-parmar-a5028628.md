@@ -1,7 +1,7 @@
 ---
 title: "Brajendra Parmar"
 description: "Brajendra Parmar is a Mid-career Soil Carbon researcher at Indian Institute of Rice Research in IN. With 49 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.263050
+date: 2026-10-11T02:32:59.267127
 url: "/cdr-researcher-census/researchers/brajendra-parmar-a5028628/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Meta-Analysis Approach to Measure the Effect of Integrated Nutrient Management on Crop Performance, Microbial Activity, and Carbon Stocks in Indian Soils** (2021)
-   54 citations · General CDR
+   55 citations · General CDR
 
 2. **Impact of long-term residue burning versus retention on soil organic carbon sequestration under a rice-wheat cropping system** (2022)
    32 citations · Soil Carbon
 
 3. **Hedge and Alder-Based Agroforestry Systems: Potential Interventions to Carbon Sequestration and Better Crop Productivity in Indian Sub-Himalayas** (2022)
-   27 citations · General CDR
+   29 citations · General CDR
 
 4. **Soil Carbon Sequestration and Yield Sustainability in the Lowland Terai Region of India** (2025)
    2 citations · Soil Carbon

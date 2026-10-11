@@ -1,7 +1,7 @@
 ---
 title: "Christopher R. Pearce"
 description: "Christopher R. Pearce is a Senior General CDR researcher at National Oceanography Centre in GB. With 101 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.059054
+date: 2026-10-11T02:32:59.063374
 url: "/cdr-researcher-census/researchers/christopher-r-pearce-a5070628/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,31 +54,31 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    146 citations
 
 2. **Lithium isotope evidence for enhanced weathering and erosion during the Paleocene-Eocene Thermal Maximum** (2021)
-   139 citations · Enhanced Weathering
+   144 citations · Enhanced Weathering
 
 3. **Quantification of CO2 removal in a large-scale enhanced weathering field trial on an oil palm plantation in Sabah, Malaysia** (2022)
-   73 citations · Enhanced Weathering
+   76 citations · Enhanced Weathering
 
 4. **Contrasting Estuarine Processing of Dissolved Organic Matter Derived From Natural and Human‐Impacted Landscapes** (2021)
    43 citations
 
 5. **Seawater carbonate chemistry based carbon dioxide removal: towards commonly agreed principles for carbon monitoring, reporting, and verification** (2025)
-   17 citations · General CDR
+   19 citations · General CDR
 
 6. **Principles for responsible and effective marine carbon dioxide removal development and governance** (2025)
-   8 citations · General CDR
+   9 citations · General CDR
 
-7. **Enhanced weathering in the U.S. Corn Belt delivers carbon removal with agronomic benefits** (2023)
+7. **Expert elicitation on agricultural enhanced weathering reveals carbon dioxide removal potential and uncertainties in loss pathways** (2026)
    5 citations · Enhanced Weathering
 
-8. **Expert elicitation on agricultural enhanced weathering highlights CO2 removal potential and uncertainties in loss pathways** (2025)
+8. **Enhanced weathering in the U.S. Corn Belt delivers carbon removal with agronomic benefits** (2023)
+   5 citations · Enhanced Weathering
+
+9. **Expert elicitation on agricultural enhanced weathering highlights CO2 removal potential and uncertainties in loss pathways** (2025)
    3 citations · Enhanced Weathering
 
-9. **Expert elicitation on agricultural enhanced weathering reveals carbon dioxide removal potential and uncertainties in loss pathways** (2026)
-   2 citations · Enhanced Weathering
-
-10. **Benefit-cost ratios of carbon dioxide removal strategies** (2023)
-   1 citations · General CDR
+10. **An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering** (2026)
+   1 citations · Enhanced Weathering
 
 ## External Profiles
 

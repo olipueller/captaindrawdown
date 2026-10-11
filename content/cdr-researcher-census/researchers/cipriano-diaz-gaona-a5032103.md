@@ -1,7 +1,7 @@
 ---
 title: "Cipriano Díaz-Gaona"
 description: "Cipriano Díaz-Gaona is a Mid-career General CDR researcher. With 38 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.416515
+date: 2026-10-11T02:32:59.426351
 url: "/cdr-researcher-census/researchers/cipriano-diaz-gaona-a5032103/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Carbon sequestration offsets a large share of GHG emissions in dehesa cattle production** (2022)
-   48 citations · General CDR
+   47 citations · General CDR
 
 2. **Free-range acorn feeding results in negative carbon footprint of Iberian pig production in the dehesa agro-forestry system** (2023)
    24 citations

@@ -1,7 +1,7 @@
 ---
 title: "Shengchang Yang"
 description: "Shengchang Yang is a Senior Soil Carbon researcher at Xiamen University in CN. With 49 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.347126
+date: 2026-10-11T02:32:59.353014
 url: "/cdr-researcher-census/researchers/shengchang-yang-a5107809/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Source and stability of soil organic carbon jointly regulate soil carbon pool, but source alteration is more effective in mangrove ecosystem following Spartina alterniflora invasion** (2023)
-   42 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 2. **Loss of microbial functional diversity following Spartina alterniflora invasion reduces the potential of carbon sequestration and nitrogen removal in mangrove sediments—from a gene perspective** (2024)
    30 citations · Soil Carbon
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Soil Carbon
 
 5. **A machine learning framework for modeling and upscaling mangrove carbon productivity (ML-MCP)** (2025)
-   4 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

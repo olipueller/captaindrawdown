@@ -1,7 +1,7 @@
 ---
 title: "Jocelyn M. Lavallee"
 description: "Jocelyn M. Lavallee is a Senior Soil Carbon researcher at Environmental Defense Fund in US. With 69 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.026716
+date: 2026-10-11T02:32:59.029767
 url: "/cdr-researcher-census/researchers/jocelyn-m-lavallee-a5004577/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Different climate sensitivity of particulate and mineral-associated soil organic matter** (2021)
-   555 citations · Soil Carbon
+   563 citations · Soil Carbon
 
 2. **Soil Carbon Saturation: What Do We Really Know?** (2025)
-   128 citations · Soil Carbon
+   149 citations · Soil Carbon
 
 3. **The robust concept of mineral‐associated organic matter saturation: A letter to Begill et al., 2023** (2023)
-   34 citations · Soil Carbon
+   35 citations · Soil Carbon
 
 4. **The need for knowledge transfer and communication among stakeholders in the voluntary carbon market** (2022)
    28 citations · General CDR
@@ -66,7 +66,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    24 citations · General CDR
 
 6. **Climate mitigation through soil amendments: quantification, evidence, and uncertainty** (2023)
-   20 citations · General CDR
+   19 citations · General CDR
 
 7. **Systematic review reveals soil organic carbon benefits of alternative grazing depend on study quality** (2026)
    0 citations

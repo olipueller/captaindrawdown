@@ -1,7 +1,7 @@
 ---
 title: "Yaobin Niu"
 description: "Yaobin Niu is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.032684
+date: 2026-10-11T02:33:00.063751
 url: "/cdr-researcher-census/researchers/yaobin-niu-a5062142/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ashmita Bharali"
 description: "Ashmita Bharali is a Mid-career Biochar researcher at Tezpur University in IN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.013032
+date: 2026-10-11T02:33:00.043697
 url: "/cdr-researcher-census/researchers/ashmita-bharali-a5031496/"
 layout: "researcher"
 hiddenInHomeList: true

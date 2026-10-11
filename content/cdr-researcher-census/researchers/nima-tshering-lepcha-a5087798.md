@@ -1,7 +1,7 @@
 ---
 title: "Nima Tshering Lepcha"
 description: "Nima Tshering Lepcha is a Mid-career Soil Carbon researcher. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.888745
+date: 2026-10-11T02:32:59.916282
 url: "/cdr-researcher-census/researchers/nima-tshering-lepcha-a5087798/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -49,7 +49,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    17 citations · Soil Carbon
 
 3. **Biodiversity and Ecosystems Services of the Agroforestry Systems of the Himalayan Region: An Overview** (2023)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 ## External Profiles
 

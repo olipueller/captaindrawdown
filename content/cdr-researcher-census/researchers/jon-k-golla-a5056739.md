@@ -1,7 +1,7 @@
 ---
 title: "Jon K. Golla"
 description: "Jon K. Golla is a Mid-career Enhanced Weathering researcher at Lawrence Livermore National Laboratory in US. With 29 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.380766
+date: 2026-10-11T02:33:00.416530
 url: "/cdr-researcher-census/researchers/jon-k-golla-a5056739/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Deep Roots Supply Reactivity and Enhance Silicate Weathering in the Bedrock Vadose Zone** (2025)
-   5 citations · Enhanced Weathering
+   6 citations · Enhanced Weathering
 
 2. **Mineral properties identified as most influential drivers of mineral-associated organic carbon formation using a community-based sorption database** (2026)
    0 citations · Soil Carbon

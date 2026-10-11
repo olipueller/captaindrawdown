@@ -1,7 +1,7 @@
 ---
 title: "Jing-Wen Pang"
 description: "Jing-Wen Pang is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.529460
+date: 2026-10-11T02:32:59.543463
 url: "/cdr-researcher-census/researchers/jing-wen-pang-a5091566/"
 layout: "researcher"
 hiddenInHomeList: true

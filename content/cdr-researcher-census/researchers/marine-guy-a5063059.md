@@ -1,7 +1,7 @@
 ---
 title: "Marine Guy"
 description: "Marine Guy is an Early-career Biochar researcher at Chimie ParisTech in FR. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.957398
+date: 2026-10-11T02:32:59.988825
 url: "/cdr-researcher-census/researchers/marine-guy-a5063059/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A comparative study of chemical treatment by MgCl2, ZnSO4, ZnCl2, and KOH on physicochemical properties and acetaminophen adsorption performance of biobased porous materials from tree bark residues** (2022)
-   120 citations · Biochar
+   122 citations · Biochar
 
 2. **Process Parameters Optimization, Characterization, and Application of KOH-Activated Norway Spruce Bark Graphitic Biochars for Efficient Azo Dye Adsorption** (2022)
    82 citations · Biochar

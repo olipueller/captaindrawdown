@@ -1,7 +1,7 @@
 ---
 title: "Jamie L. Wright"
 description: "Jamie L. Wright is a Senior Soil Carbon researcher at Oak Ridge Associated Universities in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.769073
+date: 2026-10-11T02:32:59.792014
 url: "/cdr-researcher-census/researchers/jamie-l-wright-a5012546/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil carbon in tropical savannas mostly derived from grasses** (2023)
-   58 citations · Soil Carbon
+   65 citations · Soil Carbon
 
 ## External Profiles
 

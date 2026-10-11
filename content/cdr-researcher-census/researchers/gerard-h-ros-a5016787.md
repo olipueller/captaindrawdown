@@ -1,7 +1,7 @@
 ---
 title: "Gerard H. Ros"
 description: "Gerard H. Ros is a Senior Soil Carbon researcher at NutriLeads (Netherlands) in NL. With 106 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.073169
+date: 2026-10-11T02:32:59.077963
 url: "/cdr-researcher-census/researchers/gerard-h-ros-a5016787/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,28 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil carbon sequestration – An interplay between soil microbial community and soil organic matter dynamics** (2022)
-   450 citations · Soil Carbon
+   463 citations · Soil Carbon
 
 2. **Global variation in soil carbon sequestration potential through improved cropland management** (2021)
-   250 citations · General CDR
+   257 citations · General CDR
 
 3. **Impacts of agronomic measures on crop, soil, and environmental indicators: A review and synthesis of meta-analysis** (2021)
-   178 citations · Soil Carbon
+   181 citations · Soil Carbon
 
 4. **Soil carbon sequestration, greenhouse gas emissions, and water pollution under different tillage practices** (2022)
-   115 citations · Soil Carbon
+   114 citations · Soil Carbon
 
 5. **Experimental evidence shows minor contribution of nitrogen deposition to global forest carbon sequestration** (2021)
    92 citations · General CDR
 
 6. **High-resolution digital soil mapping of amorphous iron- and aluminium-(hydr)oxides to guide sustainable phosphorus and carbon management** (2024)
    13 citations · Soil Carbon
+
+7. **Microbial adaptation to water erosion stress accelerated organic carbon decomposition** (2026)
+   0 citations · Soil Carbon
+
+8. **Farm-scale ecosystem accounting in Brazil’s Amazonia** (2026)
+   0 citations
 
 ## External Profiles
 

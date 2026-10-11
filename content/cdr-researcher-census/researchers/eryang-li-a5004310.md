@@ -1,7 +1,7 @@
 ---
 title: "Eryang Li"
 description: "Eryang Li is a Mid-career Soil Carbon researcher at Ministry of Natural Resources in RW. With 39 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.141589
+date: 2026-10-11T02:32:59.145840
 url: "/cdr-researcher-census/researchers/eryang-li-a5004310/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Plant-necromass carbon is an important source of soil organic carbon in alpine grassland of Xinjiang** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 2. **Nitrogen source preference and community assembly shape microbial function in biological soil crusts of the Gurbantunggut Desert** (2025)
    0 citations · Soil Carbon

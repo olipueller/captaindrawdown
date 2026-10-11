@@ -1,7 +1,7 @@
 ---
 title: "Qiangwang Wu"
 description: "Qiangwang Wu is a Mid-career Enhanced Weathering researcher at Sinopec (China) in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.337743
+date: 2026-10-11T02:33:00.371865
 url: "/cdr-researcher-census/researchers/qiangwang-wu-a5049338/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    6 citations · Enhanced Weathering
 
 2. **Paleoenvironment fluctuations and conodont size variations in the Baoshan block of eastern Tethys: implications for the late Norian warming event (Late Triassic)** (2025)
-   2 citations
+   3 citations
 
 3. **Paleoenvironment Fluctuations and Conodont Size Variations in the Baoshan Block of Eastern Tethys: Implications for the Alaunian-Sevatian Warming Event (Late Triassic)** (2024)
    0 citations

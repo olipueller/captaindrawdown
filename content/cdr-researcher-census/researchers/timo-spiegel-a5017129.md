@@ -1,7 +1,7 @@
 ---
 title: "Timo Spiegel"
 description: "Timo Spiegel is a Mid-career Enhanced Weathering researcher at Universität Hamburg in DE. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.949718
+date: 2026-10-11T02:32:59.979924
 url: "/cdr-researcher-census/researchers/timo-spiegel-a5017129/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Alkaline mineral addition to anoxic to hypoxic Baltic Sea sediments as a potentially efficient CO2-removal technique** (2024)
-   20 citations · Enhanced Weathering
+   23 citations · Enhanced Weathering
 
 2. **Calcite is an efficient and low-cost material to enhance benthic weathering in shelf sediments of the Baltic Sea** (2025)
-   9 citations · Enhanced Weathering
+   11 citations · Enhanced Weathering
 
 ## External Profiles
 

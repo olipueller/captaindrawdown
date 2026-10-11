@@ -1,7 +1,7 @@
 ---
 title: "Wei Zhang"
 description: "Wei Zhang is an Eminent Soil Carbon researcher at Chinese Academy of Sciences in CN. With 288 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.033823
+date: 2026-10-11T02:32:59.036933
 url: "/cdr-researcher-census/researchers/wei-zhang-a5100682/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effect of forest thinning on soil organic carbon stocks from the perspective of carbon-degrading enzymes** (2022)
-   43 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 2. **Differential responses of fungal and bacterial necromass accumulation in soil to nitrogen deposition in relation to deposition rate** (2022)
-   30 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 3. **The CAZyme family regulates the changes in soil organic carbon composition during vegetation restoration in the Mu Us desert** (2024)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 4. **The importance of fine root protection in topsoil carbon and nitrogen sequestration following land-use changes on sloping karst ecosystems** (2022)
    15 citations · Soil Carbon
@@ -69,7 +69,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Soil Carbon
 
 7. **Dynamics of SOC density and driving factors during the restoration of artificial grassland and abandoned farmland in Mu Us Desert, China** (2023)
-   12 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 8. **Nature–based nutrient management through returning agricultural organic waste enhances soil aggregate organic carbon stability** (2025)
    10 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Joshua L. Breithaupt"
 description: "Joshua L. Breithaupt is a Mid-career Soil Carbon researcher at Florida State University in US. With 51 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.131689
+date: 2026-10-11T02:32:59.136562
 url: "/cdr-researcher-census/researchers/joshua-l-breithaupt-a5083590/"
 layout: "researcher"
 hiddenInHomeList: true

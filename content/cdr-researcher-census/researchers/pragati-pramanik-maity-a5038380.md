@@ -1,7 +1,7 @@
 ---
 title: "Pragati Pramanik Maity"
 description: "Pragati Pramanik Maity is a Senior Soil Carbon researcher at Indian Council of Agricultural Research in IN. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.559650
+date: 2026-10-11T02:32:59.575152
 url: "/cdr-researcher-census/researchers/pragati-pramanik-maity-a5038380/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon sequestration potential, challenges, and strategies towards climate action in smallholder agricultural systems of South Asia** (2022)
-   108 citations · Soil Carbon
+   111 citations · Soil Carbon
 
 2. **Impact of Conservation Agriculture on Soil Carbon Sequestration under a Rice (Oryza sativa)-Wheat (Triticum aestivum)-Mungbean (Vigna radiata) Cropping System in the Indo-Gangetic Plains** (2024)
    2 citations · Soil Carbon

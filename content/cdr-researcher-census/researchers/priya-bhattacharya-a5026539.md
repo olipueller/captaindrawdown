@@ -1,7 +1,7 @@
 ---
 title: "Priya Bhattacharya"
 description: "Priya Bhattacharya is a Mid-career Soil Carbon researcher at Indian Institute of Technology Kharagpur in IN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.280725
+date: 2026-10-11T02:33:00.310778
 url: "/cdr-researcher-census/researchers/priya-bhattacharya-a5026539/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil biochemical quality indices can capture transitional changes of tillage and residue regime in lateritic soils** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 2. **Carbon and Energy Footprints in Conservation Agriculture: Short- and Long-Term Effects** (2026)
    0 citations

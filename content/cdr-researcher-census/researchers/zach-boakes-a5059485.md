@@ -1,7 +1,7 @@
 ---
 title: "Zach Boakes"
 description: "Zach Boakes is a Mid-career Ocean CDR researcher. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.390807
+date: 2026-10-11T02:33:00.428138
 url: "/cdr-researcher-census/researchers/zach-boakes-a5059485/"
 layout: "researcher"
 hiddenInHomeList: true

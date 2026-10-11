@@ -1,7 +1,7 @@
 ---
 title: "Junfeng Su"
 description: "Junfeng Su is an Eminent Biochar researcher at Jiangnan University in CN. With 266 publications and an h-index of 51, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.033678
+date: 2026-10-11T02:32:59.036791
 url: "/cdr-researcher-census/researchers/junfeng-su-a5101652/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,25 +45,25 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 51 |
 | Citations | 7,455 |
 | Publications | 266 |
-| CDR Focus | 5.3% |
+| CDR Focus | 5.6% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Simultaneous removal of nitrate and diethyl phthalate using a novel sponge–based biocarrier combined modified walnut shell biochar with Fe3O4 in the immobilized bioreactor** (2021)
-   73 citations · Biochar
+   74 citations · Biochar
 
 2. **Magnetite-loaded rice husk biochar promoted the denitrification performance of Aquabacterium sp. XL4 under low carbon to nitrogen ratio: Optimization and mechanism** (2022)
    72 citations · Biochar
 
 3. **Removal of oxytetracycline from wastewater by biochar modified with biosynthesized iron oxide nanoparticles and carbon nanotubes: Modification performance and adsorption mechanism** (2023)
-   37 citations · Biochar
+   38 citations · Biochar
 
 4. **Nano iron tetroxide-modified rice husk biochar promoted Feammox performance of Klebsiella sp. FC61 and synergistically removed Ni2+ and ciprofloxacin** (2023)
-   30 citations · Biochar
+   31 citations · Biochar
 
 5. **Simultaneous removal of ammonia, copper ions and sulfamethoxazole from aquaculture wastewater with low carbon to nitrogen ratio enhanced by manganese redox driven by a two-stage synergistic bioreactor: Optimization and potential mechanism** (2024)
-   24 citations
+   25 citations
 
 6. **Degradation of oxytetracycline in wastewater based on activated persulfate by biosynthesized iron oxide nanoparticles and carbon nanotube-modified biochar** (2023)
    24 citations · Biochar
@@ -71,14 +71,14 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 7. **Enhanced nitrate, fluoride, and phenol removal using polyurethane sponges loaded with rice husk biochar in immobilized bioreactor** (2022)
    23 citations · Biochar
 
-8. **Cornstalk biochar promoted the denitrification performance and cellulose degradation rate of Burkholderia sp. CF6** (2021)
+8. **Modified biochar improved simultaneous nitrate removal and soluble microbial products regulation in low carbon wastewater: Insights from the biocarrier and community function** (2024)
    21 citations · Biochar
 
-9. **Loofah sponge crosslinked polyethyleneimine loaded with biochar biofilm reactor for ecological remediation of oligotrophic water: Mechanism, performance, and functional characterization** (2024)
-   20 citations · Biochar
+9. **Hydrophilic spongy biochar crosslinked with starch and polyvinyl alcohol biocarrier for nitrate, phosphorus, and cadmium removal in low carbon wastewater: Enhanced performance mechanism and detoxification** (2022)
+   21 citations · Biochar
 
-10. **Hydrophilic spongy biochar crosslinked with starch and polyvinyl alcohol biocarrier for nitrate, phosphorus, and cadmium removal in low carbon wastewater: Enhanced performance mechanism and detoxification** (2022)
-   20 citations · Biochar
+10. **Cornstalk biochar promoted the denitrification performance and cellulose degradation rate of Burkholderia sp. CF6** (2021)
+   21 citations · Biochar
 
 ## External Profiles
 

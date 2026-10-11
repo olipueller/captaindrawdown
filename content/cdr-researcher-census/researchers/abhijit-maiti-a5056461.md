@@ -1,7 +1,7 @@
 ---
 title: "Abhijit Maiti"
 description: "Abhijit Maiti is a Senior Biochar researcher at Indian Institute of Technology Roorkee in IN. With 83 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.069260
+date: 2026-10-11T02:32:59.073763
 url: "/cdr-researcher-census/researchers/abhijit-maiti-a5056461/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synthesis of biochar from iron-free and iron-containing microalgal biomass for the removal of pharmaceuticals from water** (2022)
-   56 citations · Biochar
+   57 citations · Biochar
 
 2. **A review on biochar composites for soil remediation applications: Comprehensive solution to contemporary challenges** (2023)
-   47 citations · Biochar
+   48 citations · Biochar
 
 3. **Optimized synthesis and characterization of laterite biochar composite for arsenic removal: examining colloidal stability and As(III) oxidation** (2024)
-   22 citations · Biochar
+   24 citations · Biochar
 
 4. **Enhanced arsenic immobilization from contaminated soil to crops, carbon sequestration, and soil fertility using laterite Biochar composites** (2025)
-   9 citations · Biochar
+   10 citations · Biochar
 
-5. **Catalytic adsorption of NO2 at low concentration range from indoor environment using Modified-laterite biochar composite** (2025)
+5. **Comparative Evaluation of Mineral-Modified Biochar: Process Tunability, Characteristics, and Sustainable Application Potential** (2026)
    3 citations · Biochar
 
-6. **Comparative Evaluation of Mineral-Modified Biochar: Process Tunability, Characteristics, and Sustainable Application Potential** (2026)
-   2 citations · Biochar
+6. **Catalytic adsorption of NO2 at low concentration range from indoor environment using Modified-laterite biochar composite** (2025)
+   3 citations · Biochar
 
 ## External Profiles
 

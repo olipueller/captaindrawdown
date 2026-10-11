@@ -1,7 +1,7 @@
 ---
 title: "Zhuonan Hou"
 description: "Zhuonan Hou is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.042357
+date: 2026-10-11T02:33:00.073295
 url: "/cdr-researcher-census/researchers/zhuonan-hou-a5101307/"
 layout: "researcher"
 hiddenInHomeList: true

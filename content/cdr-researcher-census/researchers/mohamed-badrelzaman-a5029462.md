@@ -1,7 +1,7 @@
 ---
 title: "Mohamed Badrelzaman"
 description: "Mohamed Badrelzaman is a Mid-career Biochar researcher at American University of Sharjah in AE. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.188317
+date: 2026-10-11T02:32:59.192380
 url: "/cdr-researcher-census/researchers/mohamed-badrelzaman-a5029462/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Recycling of post-consumption food waste through pyrolysis: Feedstock characteristics, products analysis, reactor performance, and assessment of worldwide implementation potentials** (2022)
-   32 citations · Biochar
+   33 citations · Biochar
 
 2. **Assessment of the pyrolysis products from halophyte Salicornia bigelovii cultivated in a desert environment** (2021)
    29 citations · Biochar

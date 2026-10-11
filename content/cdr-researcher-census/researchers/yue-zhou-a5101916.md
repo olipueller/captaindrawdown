@@ -1,7 +1,7 @@
 ---
 title: "Yue Zhou"
 description: "Yue Zhou is a Senior Soil Carbon researcher at École Normale Supérieure - PSL in FR. With 63 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.152167
+date: 2026-10-11T02:32:59.156404
 url: "/cdr-researcher-census/researchers/yue-zhou-a5101916/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A high-resolution map of soil organic carbon in cropland of Southern China** (2024)
-   61 citations · Soil Carbon
+   63 citations · Soil Carbon
 
 2. **High-resolution soil organic carbon mapping at the field scale in Southern Belgium (Wallonia)** (2022)
    33 citations · Soil Carbon
@@ -59,7 +59,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Assessing Soil Organic Carbon Dynamics Across Croplands and Grasslands: A RothC Model Analysis with Varied Carbon Inputs** (2025)
    1 citations · Soil Carbon
 
-4. **High-resolution soil organic carbon mapping at the field scale in Southern Belgium (Wallonia)&amp;#160;** (2022)
+4. **Eddy covariance diverges from inventory and model-based estimates of soil organic carbon stock change across five crop rotations in Belgian cropland** (2026)
+   0 citations · Soil Carbon
+
+5. **High-resolution soil organic carbon mapping at the field scale in Southern Belgium (Wallonia)&amp;#160;** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

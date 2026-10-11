@@ -1,7 +1,7 @@
 ---
 title: "Sara García‐Poza"
 description: "Sara García‐Poza is a Mid-career Ocean CDR researcher. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.434154
+date: 2026-10-11T02:32:59.444426
 url: "/cdr-researcher-census/researchers/sara-garciapoza-a5090297/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Marine macroalgae as a feasible and complete resource to address and promote Sustainable Development Goals (SDGs)** (2022)
-   48 citations
+   51 citations
 
 2. **Macroalgae: Current Applications in Daily Life and Prospects for the Future** (2023)
    3 citations · Ocean CDR

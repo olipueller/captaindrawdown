@@ -1,7 +1,7 @@
 ---
 title: "Tianli Lan"
 description: "Tianli Lan is a Mid-career Soil Carbon researcher at South China University of Technology in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.962357
+date: 2026-10-11T02:32:59.993532
 url: "/cdr-researcher-census/researchers/tianli-lan-a5064748/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Quantifying the water contributions and carbon consequences of permafrost degradation on the Tibetan Plateau** (2025)
-   9 citations · General CDR
+   10 citations · General CDR
 
 ## External Profiles
 

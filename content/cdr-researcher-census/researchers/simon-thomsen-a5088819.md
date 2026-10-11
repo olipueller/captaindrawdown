@@ -1,7 +1,7 @@
 ---
 title: "Simon Thomsen"
 description: "Simon Thomsen is a Mid-career Biochar researcher at Universität Hamburg in DE. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.802851
+date: 2026-10-11T02:32:59.827378
 url: "/cdr-researcher-census/researchers/simon-thomsen-a5088819/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Soil and vegetation responses to biochar application in terms of its feedback on carbon sequestration under different environmental conditions—LiDELS model overview** (2025)
-   2 citations · Biochar
+   3 citations · Biochar
 
 2. **Soil and vegetation responses to biochar application in terms of its feedback on carbon sequestration under different environmental conditions &amp;#8211; LiDELS model overview** (2025)
    0 citations · Biochar

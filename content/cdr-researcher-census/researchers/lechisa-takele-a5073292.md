@@ -1,7 +1,7 @@
 ---
 title: "Lechisa Takele"
 description: "Lechisa Takele is a Mid-career Soil Carbon researcher at University of Chinese Academy of Sciences in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.269296
+date: 2026-10-11T02:33:00.299209
 url: "/cdr-researcher-census/researchers/lechisa-takele-a5073292/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Contribution of microbial necromass to soil organic carbon in profile depths exhibited opposite patterns across ecosystems: A global meta-analysis** (2025)
-   73 citations · Soil Carbon
+   79 citations · Soil Carbon
 
 2. **Divergent stabilization pathways shape soil carbon sequestration efficiency in restored forests and grasslands** (2026)
    0 citations · Soil Carbon

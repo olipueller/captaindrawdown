@@ -1,7 +1,7 @@
 ---
 title: "Jiaohui Fang"
 description: "Jiaohui Fang is a Mid-career Soil Carbon researcher at Qufu Normal University in CN. With 31 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.219310
+date: 2026-10-11T02:32:59.222864
 url: "/cdr-researcher-census/researchers/jiaohui-fang-a5102355/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The content, composition, and influencing factors of organic carbon in the sediments of two types of constructed wetlands** (2021)
-   29 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 2. **Interference of microplastics on autotrophic microbiome in paddy soils: Shifts in carbon fixation rate, structure, abundance, co-occurrence, and assembly process** (2024)
-   19 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 3. **Microorganisms Directly Affected Sediment Carbon–Nitrogen Coupling in Two Constructed Wetlands** (2024)
    7 citations · Soil Carbon

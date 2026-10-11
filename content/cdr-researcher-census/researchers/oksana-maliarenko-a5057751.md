@@ -1,7 +1,7 @@
 ---
 title: "Oksana Maliarenko"
 description: "Oksana Maliarenko is a Mid-career Soil Carbon researcher at National Academy of Agrarian Sciences of Ukraine in UA. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.740639
+date: 2026-10-11T02:32:59.762909
 url: "/cdr-researcher-census/researchers/oksana-maliarenko-a5057751/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,7 +53,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Greenhouse gas emissions from alluvial soils in grassland and cropland in northern part of Europe's temperate climate zone (Latvia)** (2026)
    0 citations
 
-2. **Carbon dioxide, methane and nitrous oxide fluxes from former peat extraction fields currently used for cranberry (Vaccinium macrocarpon) and highbush blueberry (Vaccinium corymbosum) plantations** (2025)
+2. **Comparative assessment of greenhouse gas emissions and carbon balance of bioenergy crops and winter wheat in the Forest-Steppe of Ukraine** (2025)
+   0 citations · BECCS
+
+3. **Carbon dioxide, methane and nitrous oxide fluxes from former peat extraction fields currently used for cranberry (Vaccinium macrocarpon) and highbush blueberry (Vaccinium corymbosum) plantations** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

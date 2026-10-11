@@ -1,7 +1,7 @@
 ---
 title: "Hua Deng"
 description: "Hua Deng is a Senior Biochar researcher at Guangxi Normal University in CN. With 41 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.236694
+date: 2026-10-11T02:32:59.240167
 url: "/cdr-researcher-census/researchers/hua-deng-a5017874/"
 layout: "researcher"
 hiddenInHomeList: true

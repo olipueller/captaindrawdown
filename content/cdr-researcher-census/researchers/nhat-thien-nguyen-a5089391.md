@@ -1,7 +1,7 @@
 ---
 title: "Nhat-Thien Nguyen"
 description: "Nhat-Thien Nguyen is a Mid-career Biochar researcher at National Taipei University of Technology in TW. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.939187
+date: 2026-10-11T02:32:59.969721
 url: "/cdr-researcher-census/researchers/nhat-thien-nguyen-a5089391/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    9 citations · Biochar
 
 2. **Preparation of Metal Modified onto Biochar from Hazardous Waste for Arsenic Removal** (2021)
-   6 citations · Biochar
+   7 citations · Biochar
 
 3. **Specifically Designed Metal Functional Group Doped Hydrophobic Zeolite for Acetone Removal with Low Temperature Catalytic Reaction** (2022)
    2 citations

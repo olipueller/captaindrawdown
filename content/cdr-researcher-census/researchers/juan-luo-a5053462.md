@@ -1,7 +1,7 @@
 ---
 title: "Juan Luo"
 description: "Juan Luo is a Mid-career Soil Carbon researcher at Hainan University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.294364
+date: 2026-10-11T02:33:00.324475
 url: "/cdr-researcher-census/researchers/juan-luo-a5053462/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Litter stoichiometric traits drive differences in soil organic carbon stability between rubber plantations and natural secondary forests** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
+
+2. **Land Use Change Alters Soil Organic Carbon Mineralization but Not Its Temperature Sensitivity in a Tropical Island of China** (2026)
+   0 citations · Enhanced Weathering
 
 ## External Profiles
 

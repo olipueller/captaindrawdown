@@ -1,7 +1,7 @@
 ---
 title: "Hadewij Sint"
 description: "Hadewij Sint is a Mid-career Soil Carbon researcher at Rothamsted Research in GB. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.659341
+date: 2026-10-11T02:32:59.678303
 url: "/cdr-researcher-census/researchers/hadewij-sint-a5012453/"
 layout: "researcher"
 hiddenInHomeList: true

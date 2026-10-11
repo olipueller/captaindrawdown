@@ -1,7 +1,7 @@
 ---
 title: "Wanning Dai"
 description: "Wanning Dai is a Mid-career Biochar researcher at Shenyang Agricultural University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.176492
+date: 2026-10-11T02:33:00.206566
 url: "/cdr-researcher-census/researchers/wanning-dai-a5109793/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar incorporation increases grain yield, net ecosystem CO2 exchange, and decreases CH4 emissions in an alternate wetting and drying paddy ecosystem** (2024)
-   23 citations · Biochar
+   24 citations · Biochar
 
 2. **Biochar decreased N loss from paddy ecosystem under alternate wetting and drying in the Lower Liaohe River Plain, China** (2024)
-   12 citations · Biochar
+   13 citations · Biochar
 
 3. **Biochar Makes Soil Organic Carbon More Labile, but Its Carbon Sequestration Potential Remains Large in an Alternate Wetting and Drying Paddy Ecosystem** (2025)
-   6 citations · Biochar
+   7 citations · Biochar
 
 4. **Soil Nitrogen Leaching, Distribution, and Migration Behaviors Affected by Biochar Incorporation in Awd Paddies within a Typical Alluvial Plain** (2025)
    0 citations · Biochar

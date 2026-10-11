@@ -1,7 +1,7 @@
 ---
 title: "Xinyu Cha"
 description: "Xinyu Cha is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.025950
+date: 2026-10-11T02:33:00.057252
 url: "/cdr-researcher-census/researchers/xinyu-cha-a5092468/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,15 +48,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The biogeography of soil microbiome potential growth rates** (2024)
-   71 citations
+   72 citations
 
-2. **Metagenomic insights into the carbon decomposition of plant and microbial biomass in forests across biomes** (2025)
-   1 citations
+2. **Nitrogen addition-driven soil organic carbon stability depends on the fractions of particulate and mineral-associated organic carbon** (2024)
+   28 citations
 
-3. **Nitrogen addition-driven soil carbon stability depends on the fractions of particulate and mineral-associated organic carbon** (2023)
+3. **Metagenomic insights into the carbon decomposition of plant and microbial biomass in forests across biomes** (2025)
+   2 citations
+
+4. **Nitrogen addition-driven soil carbon stability depends on the fractions of particulate and mineral-associated organic carbon** (2023)
    0 citations
 
-4. **Nitrogen Addition-Driven Soil Carbon Stability Depends on the Fractions of Particulate and Mineral-Associated Organic Carbon** (2023)
+5. **Nitrogen Addition-Driven Soil Carbon Stability Depends on the Fractions of Particulate and Mineral-Associated Organic Carbon** (2023)
    0 citations · Soil Carbon
 
 ## External Profiles

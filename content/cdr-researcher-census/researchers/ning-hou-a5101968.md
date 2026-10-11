@@ -1,7 +1,7 @@
 ---
 title: "Ning Hou"
 description: "Ning Hou is a Senior Soil Carbon researcher at Northeast Agricultural University in CN. With 119 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.104799
+date: 2026-10-11T02:32:59.109482
 url: "/cdr-researcher-census/researchers/ning-hou-a5101968/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Remediation strategies of biochar and microbial inoculum for PAHs-contaminated soil: Quorum sensing-mediated PAHs degradation and element cycling** (2025)
-   49 citations · Biochar
+   51 citations · Biochar
 
 2. **Study on the screening of high-efficiency salt and alkali-tolerant microbial agents and their roles and mechanisms in enhancing saline-alkaline soil remediation** (2025)
-   38 citations
+   43 citations
 
 3. **Mangrove wetland recovery enhances soil carbon sequestration capacity of soil aggregates and microbial network stability in southeastern China** (2024)
-   28 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 4. **Soil carbon pools and microbial network stability depletion associated with wetland conversion into aquaculture ponds in Southeast China** (2024)
    10 citations · Soil Carbon
 
-5. **Synergistic plant-fungal interactions under Phragmites australis - mangrove mixed growth regimes boost particulate organic carbon sequestration in estuarine wetlands** (2025)
-   3 citations · Ocean CDR
+5. **Vegetation-driven differences in soil CO2 emissions and carbon-sequestering microbiomes of estuarine salt marsh and mangrove wetlands** (2025)
+   4 citations · Soil Carbon
 
-6. **Vegetation-driven differences in soil CO2 emissions and carbon-sequestering microbiomes of estuarine salt marsh and mangrove wetlands** (2025)
-   3 citations · Soil Carbon
+6. **Synergistic plant-fungal interactions under Phragmites australis - mangrove mixed growth regimes boost particulate organic carbon sequestration in estuarine wetlands** (2025)
+   3 citations · Ocean CDR
 
 7. **Impacts of Spartina alterniflora invasion on fractions and fungal communities of mineral-associated organic carbon in subtropical coastal wetlands of China** (2026)
    2 citations · Soil Carbon

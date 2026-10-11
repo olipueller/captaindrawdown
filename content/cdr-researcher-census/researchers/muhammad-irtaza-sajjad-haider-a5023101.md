@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Irtaza Sajjad Haider"
 description: "Muhammad Irtaza Sajjad Haider is a Mid-career Biochar researcher at University of Science and Technology of China in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.796897
+date: 2026-10-11T02:32:59.820610
 url: "/cdr-researcher-census/researchers/muhammad-irtaza-sajjad-haider-a5023101/"
 layout: "researcher"
 hiddenInHomeList: true

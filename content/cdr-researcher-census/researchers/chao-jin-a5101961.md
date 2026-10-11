@@ -1,7 +1,7 @@
 ---
 title: "Chao Jin"
 description: "Chao Jin is a Senior General CDR researcher at Tianjin University in CN. With 170 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.044898
+date: 2026-10-11T02:32:59.048415
 url: "/cdr-researcher-census/researchers/chao-jin-a5101961/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,10 +57,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    50 citations · General CDR
 
 3. **Deployment expectations of multi-gigatonne scale carbon removal could have adverse impacts on Asia’s energy-water-land nexus** (2024)
-   29 citations · General CDR
+   30 citations · General CDR
 
 4. **Does China's pathway to carbon neutrality require the integration of land-based biological negative emission solutions with geochemical and chemical alternatives?** (2023)
-   19 citations · Enhanced Weathering
+   18 citations · Enhanced Weathering
 
 5. **Potential benefits and trade-offs associated with hydrogen transition under diverse carbon dioxide removal strategies** (2023)
    14 citations · General CDR

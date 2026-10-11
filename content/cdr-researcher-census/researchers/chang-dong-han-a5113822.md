@@ -1,7 +1,7 @@
 ---
 title: "Chang-Dong Han"
 description: "Chang-Dong Han is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 42 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.344940
+date: 2026-10-11T02:32:59.350916
 url: "/cdr-researcher-census/researchers/chang-dong-han-a5113822/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    40 citations · Soil Carbon
 
 2. **Organic amendments enhance rhizosphere carbon stabilization in macroaggregates of saline-sodic soils by regulating keystone microbial clusters** (2025)
-   9 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 3. **Root traits determine the effects of organic amendments on aggregate organic carbon by regulating microbial multitrophic networks** (2024)
    3 citations · Soil Carbon

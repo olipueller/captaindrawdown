@@ -1,7 +1,7 @@
 ---
 title: "Zhenjian Bai"
 description: "Zhenjian Bai is a Mid-career Soil Carbon researcher at Northeast Agricultural University in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.911520
+date: 2026-10-11T02:32:59.954791
 url: "/cdr-researcher-census/researchers/zhenjian-bai-a5101137/"
 layout: "researcher"
 hiddenInHomeList: true

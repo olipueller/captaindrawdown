@@ -1,7 +1,7 @@
 ---
 title: "Ashim Datta"
 description: "Ashim Datta is a Senior Soil Carbon researcher at Central Soil Salinity Research Institute in IN. With 99 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.073304
+date: 2026-10-11T02:32:59.078108
 url: "/cdr-researcher-census/researchers/ashim-datta-a5051541/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon sequestration potential, challenges, and strategies towards climate action in smallholder agricultural systems of South Asia** (2022)
-   108 citations · Soil Carbon
+   111 citations · Soil Carbon
 
 2. **Stability of humic acid carbon under conservation agriculture practices** (2021)
-   40 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 3. **Distribution of sequestered carbon in different pools in Alfisols under long-term groundnut system of hot arid region of India** (2022)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 4. **Carbon Sequestration in Degraded Lands: Current Prospects, Practices, and Future Strategies** (2022)
    7 citations · General CDR
@@ -65,11 +65,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Soil Carbon Sequestration for Soil Quality Improvement and Climate Change Mitigation** (2021)
    7 citations · General CDR
 
-6. **Drip-Mediated Deficit Irrigation and Sub-Optimal Fertigation Management Strategy can Boost Yield, Soil Nutrient Availability, Plant Utilization and Soil Organic Carbon in Banana Plantation** (2024)
+6. **Impacts of conservation agriculture on crop yield and soil carbon sequestration: a meta-analysis in the Indian subcontinent** (2024)
    6 citations · Soil Carbon
 
-7. **Impacts of conservation agriculture on crop yield and soil carbon sequestration: a meta-analysis in the Indian subcontinent** (2024)
-   5 citations · Soil Carbon
+7. **Drip-Mediated Deficit Irrigation and Sub-Optimal Fertigation Management Strategy can Boost Yield, Soil Nutrient Availability, Plant Utilization and Soil Organic Carbon in Banana Plantation** (2024)
+   6 citations · Soil Carbon
 
 8. **Editorial: Abiotic stresses in field crops: response, impacts and management under climate change scenario** (2025)
    3 citations · Soil Carbon

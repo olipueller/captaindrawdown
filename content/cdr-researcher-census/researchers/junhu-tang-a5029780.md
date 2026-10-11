@@ -1,7 +1,7 @@
 ---
 title: "Junhu Tang"
 description: "Junhu Tang is a Mid-career Soil Carbon researcher at Xinjiang University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.114679
+date: 2026-10-11T02:33:00.145556
 url: "/cdr-researcher-census/researchers/junhu-tang-a5029780/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    16 citations
 
 2. **The Oasisization Process Promotes the Transformation of Soil Organic Carbon into Soil Inorganic Carbon** (2024)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 ## External Profiles
 

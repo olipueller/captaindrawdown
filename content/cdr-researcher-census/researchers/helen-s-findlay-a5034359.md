@@ -1,7 +1,7 @@
 ---
 title: "Helen S. Findlay"
 description: "Helen S. Findlay is a Senior Ocean CDR researcher at Plymouth Marine Laboratory in GB. With 124 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.041105
+date: 2026-10-11T02:32:59.044303
 url: "/cdr-researcher-census/researchers/helen-s-findlay-a5034359/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Principles for responsible and effective marine carbon dioxide removal development and governance** (2025)
-   8 citations · General CDR
+   9 citations · General CDR
 
-2. **The importance of engagement with fisheries, aquaculture, and Indigenous communities in the planning and implementation of marine carbon dioxide removal (mCDR)** (2025)
+2. **Removal of dissolved inorganic carbon from seawater for climate mitigation: potential marine ecosystem impacts** (2025)
+   6 citations · General CDR
+
+3. **The importance of engagement with fisheries, aquaculture, and Indigenous communities in the planning and implementation of marine carbon dioxide removal (mCDR)** (2025)
    5 citations · General CDR
 
-3. **Perspectives on Marine Carbon Dioxide Removal from the Global Ocean Acidification Observing Network** (2025)
-   5 citations · General CDR
-
-4. **Removal of dissolved inorganic carbon from seawater for climate mitigation: potential marine ecosystem impacts** (2025)
+4. **Perspectives on Marine Carbon Dioxide Removal from the Global Ocean Acidification Observing Network** (2025)
    5 citations · General CDR
 
 5. **Three challenges to marine carbon dioxide removal** (2026)
-   1 citations · General CDR
+   2 citations · General CDR
 
 6. **A sequential gated research framework for addressing potential impacts of marine carbon dioxide removal on fisheries, aquaculture, and Indigenous communities** (2026)
    0 citations · General CDR

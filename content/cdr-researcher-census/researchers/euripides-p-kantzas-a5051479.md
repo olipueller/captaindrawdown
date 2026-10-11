@@ -1,7 +1,7 @@
 ---
 title: "Euripides P. Kantzas"
 description: "Euripides P. Kantzas is a Senior Enhanced Weathering researcher at University of Sheffield in GB. With 55 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.119509
+date: 2026-10-11T02:32:59.124168
 url: "/cdr-researcher-census/researchers/euripides-p-kantzas-a5051479/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Substantial carbon drawdown potential from enhanced rock weathering in the United Kingdom** (2022)
-   164 citations · Enhanced Weathering
+   165 citations · Enhanced Weathering
 
 2. **Environmental and health impacts of atmospheric CO2 removal by enhanced rock weathering depend on nations’ energy mix** (2022)
-   71 citations · Enhanced Weathering
+   72 citations · Enhanced Weathering
 
 3. **Transforming US agriculture for carbon removal with enhanced weathering** (2025)
    59 citations · Enhanced Weathering
 
 4. **The role of enhanced rock weathering deployment with agriculture in limiting future warming and protecting coral reefs** (2021)
-   29 citations · Enhanced Weathering
+   27 citations · Enhanced Weathering
 
 5. **Improving nitrogen cycling in a land surface model (CLM5) to quantify soil N <sub>2</sub> O, NO, and NH <sub>3</sub> emissions from enhanced rock weathering with croplands** (2023)
-   16 citations · Enhanced Weathering
+   20 citations · Enhanced Weathering
 
 6. **Making mistakes in estimating the CO2 sequestration potential of UK croplands with enhanced weathering** (2023)
-   16 citations · Enhanced Weathering
+   17 citations · Enhanced Weathering
 
 7. **Improving nitrogen cycling in a land surface model (CLM5) to quantify soil N <sub>2</sub> O, NO and NH <sub>3</sub> emissions from enhanced rock weathering with croplands** (2023)
    4 citations

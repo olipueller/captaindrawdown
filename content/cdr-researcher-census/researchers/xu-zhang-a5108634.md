@@ -1,7 +1,7 @@
 ---
 title: "Xu Zhang"
 description: "Xu Zhang is a Senior Soil Carbon researcher at Northeast Agricultural University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.039208
+date: 2026-10-11T02:33:00.069963
 url: "/cdr-researcher-census/researchers/xu-zhang-a5108634/"
 layout: "researcher"
 hiddenInHomeList: true

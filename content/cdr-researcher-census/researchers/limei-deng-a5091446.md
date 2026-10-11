@@ -1,7 +1,7 @@
 ---
 title: "Limei Deng"
 description: "Limei Deng is a Senior Enhanced Weathering researcher at Chinese Academy of Sciences in CN. With 25 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.314454
+date: 2026-10-11T02:33:00.345267
 url: "/cdr-researcher-census/researchers/limei-deng-a5091446/"
 layout: "researcher"
 hiddenInHomeList: true

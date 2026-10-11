@@ -1,7 +1,7 @@
 ---
 title: "Ying Zhou"
 description: "Ying Zhou is a Mid-career Enhanced Weathering researcher at University College London in GB. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.338590
+date: 2026-10-11T02:32:59.344375
 url: "/cdr-researcher-census/researchers/ying-zhou-a5053099/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Comparing open versus closed system weathering experiments using lithium isotopes** (2025)
-   9 citations · Enhanced Weathering
+   11 citations · Enhanced Weathering
 
 2. **Soil formation and weathering over the past 60 kyr reconstructed using lithium isotopes from Maar records** (2026)
    1 citations · Enhanced Weathering

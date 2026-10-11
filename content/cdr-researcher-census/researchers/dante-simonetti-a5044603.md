@@ -1,7 +1,7 @@
 ---
 title: "Dante Simonetti"
 description: "Dante Simonetti is a Senior Ocean CDR researcher at University of California, Los Angeles in US. With 71 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.063020
+date: 2026-10-11T02:32:59.067484
 url: "/cdr-researcher-census/researchers/dante-simonetti-a5044603/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 26 |
 | Citations | 3,962 |
 | Publications | 71 |
-| CDR Focus | 9.9% |
-| Trajectory | Declining |
+| CDR Focus | 11.3% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Electrolytic Seawater Mineralization and the Mass Balances That Demonstrate Carbon Dioxide Removal** (2023)
-   72 citations · Ocean CDR
+   79 citations · Ocean CDR
 
 2. **Controls on CO<sub>2</sub> Mineralization Using Natural and Industrial Alkaline Solids under Ambient Conditions** (2021)
-   67 citations · Enhanced Weathering
+   68 citations · Enhanced Weathering
 
 3. **Process Simulations Reveal the Carbon Dioxide Removal Potential of a Process That Mineralizes Industrial Waste Streams via an Ion Exchange-Based Regenerable pH Swing** (2022)
    9 citations · Enhanced Weathering
@@ -65,10 +65,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 5. **Seawater Enables High-Quality Carbon Removal** (2024)
    1 citations · General CDR
 
-6. **Kinetic insights into measurable marine carbon dioxide removal via carbonation of electrolytically alkalinized seawater** (2026)
+6. **Seawater Electrolysis Enables Multipathway Climate Change Mitigation through Atmospheric Carbon Dioxide Removal, Renewable Hydrogen Production, and Cement and Concrete Decarbonization** (2026)
    0 citations · General CDR
 
-7. **Net carbon dioxide removal via electrolytic seawater mineralization** (2023)
+7. **Kinetic insights into measurable marine carbon dioxide removal via carbonation of electrolytically alkalinized seawater** (2026)
+   0 citations · General CDR
+
+8. **Net carbon dioxide removal via electrolytic seawater mineralization** (2023)
    0 citations · Ocean CDR
 
 ## External Profiles

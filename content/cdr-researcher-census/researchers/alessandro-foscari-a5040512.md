@@ -1,7 +1,7 @@
 ---
 title: "Alessandro Foscari"
 description: "Alessandro Foscari is a Mid-career Soil Carbon researcher at University of Udine in IT. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.987548
+date: 2026-10-11T02:33:00.018382
 url: "/cdr-researcher-census/researchers/alessandro-foscari-a5040512/"
 layout: "researcher"
 hiddenInHomeList: true

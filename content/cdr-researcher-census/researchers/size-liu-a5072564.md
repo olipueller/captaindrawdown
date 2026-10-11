@@ -1,7 +1,7 @@
 ---
 title: "Size Liu"
 description: "Size Liu is a Mid-career Soil Carbon researcher at Sichuan Agricultural University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.049621
+date: 2026-10-11T02:33:00.080296
 url: "/cdr-researcher-census/researchers/size-liu-a5072564/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Restoration from grazing on the Tibetan plateau: Pathway-specific soil MAOC sequestration in meadow and peat wetlands** (2024)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 2. **Alpine wetland litter decomposition under wet and dry conditions: A comparative study of native vs. standardized litter** (2024)
-   7 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 3. **Arbuscular mycorrhizal fungi-mediated formation of different carbon fractions in various wetland types enhances carbon sequestration post-restoration on the Tibetan Plateau** (2025)
    3 citations · Soil Carbon

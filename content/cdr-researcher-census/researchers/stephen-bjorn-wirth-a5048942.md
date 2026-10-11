@@ -1,7 +1,7 @@
 ---
 title: "Stephen Björn Wirth"
 description: "Stephen Björn Wirth is a Mid-career Soil Carbon researcher at Leibniz Association in DE. With 44 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.758268
+date: 2026-10-11T02:32:59.781050
 url: "/cdr-researcher-census/researchers/stephen-bjorn-wirth-a5048942/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biological nitrogen fixation of natural and agricultural vegetation simulated with LPJmL 5.7.9** (2024)
-   12 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 2. **Biological nitrogen fixation of natural and agricultural vegetation simulated with LPJmL 5.7.9** (2024)
    4 citations

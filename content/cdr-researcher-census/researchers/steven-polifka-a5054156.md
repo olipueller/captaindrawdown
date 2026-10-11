@@ -1,7 +1,7 @@
 ---
 title: "Steven Polifka"
 description: "Steven Polifka is a Mid-career Biochar researcher at Martin Luther University Halle-Wittenberg in DE. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.629678
+date: 2026-10-11T02:32:59.648451
 url: "/cdr-researcher-census/researchers/steven-polifka-a5054156/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Long-term biochar and soil organic carbon stability – Evidence from field experiments in Germany** (2024)
-   95 citations · Biochar
+   100 citations · Biochar
 
 2. **Long-term biochar and soil organic carbon stability &amp;#8211; evidence from long-term field experiments in Germany** (2024)
    0 citations · Biochar

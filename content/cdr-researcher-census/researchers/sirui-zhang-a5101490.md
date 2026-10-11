@@ -1,7 +1,7 @@
 ---
 title: "Sirui Zhang"
 description: "Sirui Zhang is a Senior Enhanced Weathering researcher at Chinese Academy of Sciences in CN. With 61 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.140545
+date: 2026-10-11T02:32:59.144885
 url: "/cdr-researcher-census/researchers/sirui-zhang-a5101490/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Storage, form, and influencing factors of karst inorganic carbon in a carbonate area in China** (2024)
-   61 citations
+   63 citations
 
 2. **Climate change has enhanced the positive contribution of rock weathering to the major ions in riverine transport** (2023)
-   49 citations · Enhanced Weathering
+   50 citations · Enhanced Weathering
 
 3. **Unexpected response of terrestrial carbon sink to rural depopulation in China** (2024)
-   42 citations · Soil Carbon
+   41 citations · Soil Carbon
 
 4. **Assessment of carbon sinks caused by the chemical weathering of carbonate rocks under the influence of exogenous acids: Methods, progress, and prospects** (2025)
-   33 citations · Enhanced Weathering
+   35 citations · Enhanced Weathering
 
 5. **Response of carbonate rock weathering carbon sink to seismic peak ground acceleration in China** (2025)
-   1 citations · Enhanced Weathering
+   2 citations · Enhanced Weathering
 
 6. **Future decline in the sensitivity of carbon use efficiency to soil formation rates in global karst ecosystems** (2026)
-   0 citations
+   1 citations
 
 7. **Climate Warming Amplifies the Contribution of High‐Altitude Cold Regions to Global Carbonate Weathering Carbon Sink** (2026)
    0 citations

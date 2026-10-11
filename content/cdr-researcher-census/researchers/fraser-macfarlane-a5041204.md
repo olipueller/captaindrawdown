@@ -1,7 +1,7 @@
 ---
 title: "Fraser Macfarlane"
 description: "Fraser Macfarlane is a Mid-career Soil Carbon researcher at James Hutton Institute in GB. With 25 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.210352
+date: 2026-10-11T02:33:00.239856
 url: "/cdr-researcher-census/researchers/fraser-macfarlane-a5041204/"
 layout: "researcher"
 hiddenInHomeList: true

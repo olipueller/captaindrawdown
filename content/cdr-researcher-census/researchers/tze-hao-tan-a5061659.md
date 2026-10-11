@@ -1,7 +1,7 @@
 ---
 title: "Tze Hao Tan"
 description: "Tze Hao Tan is a Mid-career General CDR researcher at University of New South Wales in AU. With 30 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.144022
+date: 2026-10-11T02:32:59.148226
 url: "/cdr-researcher-census/researchers/tze-hao-tan-a5061659/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A model for assessing pathways to integrate intermittent renewable energy for e-methanol production** (2023)
-   54 citations · DAC
+   58 citations · DAC
 
 2. **A Model for Assessing Pathways to Integrate Intermittent Renewable Energy for E-Methanol Production** (2023)
    1 citations · General CDR

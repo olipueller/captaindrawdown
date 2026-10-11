@@ -1,7 +1,7 @@
 ---
 title: "Anggit Raksajati"
 description: "Anggit Raksajati is a Mid-career BECCS researcher at Bandung Institute of Technology in ID. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.459248
+date: 2026-10-11T02:32:59.470413
 url: "/cdr-researcher-census/researchers/anggit-raksajati-a5062668/"
 layout: "researcher"
 hiddenInHomeList: true

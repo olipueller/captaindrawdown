@@ -1,7 +1,7 @@
 ---
 title: "Liwen Zheng"
 description: "Liwen Zheng is a Senior Ocean CDR researcher at Shandong University of Science and Technology in CN. With 44 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.577143
+date: 2026-10-11T02:32:59.592752
 url: "/cdr-researcher-census/researchers/liwen-zheng-a5081995/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,30 +45,36 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 10 |
 | Citations | 396 |
 | Publications | 44 |
-| CDR Focus | 11.4% |
+| CDR Focus | 15.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **The potential of wastewater treatment on carbon storage through ocean alkalinity enhancement** (2025)
-   17 citations · Enhanced Weathering
+   20 citations · Enhanced Weathering
 
 2. **Sustainable carbon sequestration via olivine based ocean alkalinity enhancement in the east and South China Sea: Adhering to environmental norms for nickel and chromium** (2024)
    14 citations · Enhanced Weathering
 
 3. **Alkalinity factory can achieve positive climate benefits within decades** (2025)
-   4 citations · Enhanced Weathering
+   6 citations · Enhanced Weathering
 
 4. **Olivine-induced seasonal dynamics of eukaryotic microalgal and bacterial assemblages in mid-latitude nearshore marine ecosystems** (2025)
-   3 citations · Ocean CDR
+   4 citations · Ocean CDR
 
-5. **Manganese Oxide-Mediated Reactions with Olivine Dissolution Products: A Double-Edged Sword for Ocean Alkalinity Enhancement** (2026)
+5. **Wastewater-based ocean alkalinity enhancement alleviates effluent-induced disturbance on coastal bacterial community** (2026)
    0 citations · Ocean CDR
 
-6. **Alkalinity Factory Can Achieve Positive Climate Benefits Within Decades.** (2025)
+6. **Site-specific seawater conditions modulate bacterial community responses to ocean alkalinity enhancement** (2026)
+   0 citations · General CDR
+
+7. **Manganese Oxide-Mediated Reactions with Olivine Dissolution Products: A Double-Edged Sword for Ocean Alkalinity Enhancement** (2026)
+   0 citations · Ocean CDR
+
+8. **Alkalinity Factory Can Achieve Positive Climate Benefits Within Decades.** (2025)
    0 citations
 
-7. **Sustainable Carbon Sequestration Via Olivine Based Ocean Alkalinity Enhancement in the East and South China Sea: Adhering to Environmental Norms for Nickel and Chromium** (2024)
+9. **Sustainable Carbon Sequestration Via Olivine Based Ocean Alkalinity Enhancement in the East and South China Sea: Adhering to Environmental Norms for Nickel and Chromium** (2024)
    0 citations · General CDR
 
 ## External Profiles

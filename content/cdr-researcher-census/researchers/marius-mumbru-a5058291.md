@@ -1,7 +1,7 @@
 ---
 title: "Màrius Mumbrú"
 description: "Màrius Mumbrú is a Mid-career Biochar researcher at Universitat de Barcelona in ES. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.318689
+date: 2026-10-11T02:33:00.350518
 url: "/cdr-researcher-census/researchers/marius-mumbru-a5058291/"
 layout: "researcher"
 hiddenInHomeList: true

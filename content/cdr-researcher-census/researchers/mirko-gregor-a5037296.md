@@ -1,7 +1,7 @@
 ---
 title: "Mirko Gregor"
 description: "Mirko Gregor is a Senior Soil Carbon researcher. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.699481
+date: 2026-10-11T02:32:59.719748
 url: "/cdr-researcher-census/researchers/mirko-gregor-a5037296/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Impact of Soil Sealing on Soil Carbon Sequestration, Water Storage Potentials and Biomass Productivity in Functional Urban Areas of the European Union and the United Kingdom** (2022)
-   19 citations · General CDR
+   21 citations · General CDR
 
 ## External Profiles
 

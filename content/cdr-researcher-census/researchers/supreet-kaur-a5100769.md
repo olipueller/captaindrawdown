@@ -1,7 +1,7 @@
 ---
 title: "Supreet Kaur"
 description: "Supreet Kaur is a Mid-career Soil Carbon researcher at Indian Institute of Technology Delhi in IN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.091850
+date: 2026-10-11T02:33:00.122462
 url: "/cdr-researcher-census/researchers/supreet-kaur-a5100769/"
 layout: "researcher"
 hiddenInHomeList: true

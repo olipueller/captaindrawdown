@@ -1,7 +1,7 @@
 ---
 title: "Jonas Gisler"
 description: "Jonas Gisler is a Mid-career Soil Carbon researcher at Swiss Federal Institute for Forest, Snow and Landscape Research in CH. With 33 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.760410
+date: 2026-10-11T02:32:59.783429
 url: "/cdr-researcher-census/researchers/jonas-gisler-a5067511/"
 layout: "researcher"
 hiddenInHomeList: true

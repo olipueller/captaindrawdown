@@ -1,7 +1,7 @@
 ---
 title: "Tiangang Tang"
 description: "Tiangang Tang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.759464
+date: 2026-10-11T02:32:59.782355
 url: "/cdr-researcher-census/researchers/tiangang-tang-a5026791/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Bedrock geochemistry regulates glomalin-related soil protein accrual in subtropical karst forest soils, Southwest China** (2025)
-   7 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 2. **Potential Roles of Soil Viruses in Karst Forest Soil Carbon and Nitrogen Cycles** (2025)
    7 citations · Soil Carbon
+
+3. **Carbonate rock weathering substantially promotes soil microbial-derived carbon accumulation** (2026)
+   0 citations
 
 ## External Profiles
 

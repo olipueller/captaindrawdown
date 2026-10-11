@@ -1,7 +1,7 @@
 ---
 title: "Malte Heinemann"
 description: "Malte Heinemann is a Senior Ocean CDR researcher at Christian-Albrechts-Universität zu Kiel in DE. With 48 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.243007
+date: 2026-10-11T02:32:59.246683
 url: "/cdr-researcher-census/researchers/malte-heinemann-a5038456/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Effect of Intensity and Mode of Artificial Upwelling on Particle Flux and Carbon Export** (2021)
-   42 citations · General CDR
+   43 citations · General CDR
 
 2. **Constraining glacial ocean carbon cycle &amp;#8211; A multi-model study** (2024)
    0 citations · Ocean CDR

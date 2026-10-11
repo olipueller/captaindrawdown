@@ -1,7 +1,7 @@
 ---
 title: "Subrata Gorain"
 description: "Subrata Gorain is a Mid-career Soil Carbon researcher at Visva-Bharati University in IN. With 40 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.063186
+date: 2026-10-11T02:33:00.093238
 url: "/cdr-researcher-census/researchers/subrata-gorain-a5060552/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Bamboo for global sustainability: a systematic review of its environmental and ecological implications, climate action, and biodiversity contributions** (2025)
-   31 citations · General CDR
+   35 citations · General CDR
 
 2. **Harnessing green wealth: A two-decade global assessment of forest carbon sequestration and credits and the economic implications of sustainable forest management practices** (2025)
    22 citations · General CDR
@@ -60,10 +60,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Soil Carbon
 
 4. **Nature-Based Solutions (NbS) for Restoration and Management of Dryland Ecosystems** (2025)
-   1 citations · General CDR
+   2 citations · General CDR
 
 5. **Restoration-driven soil processes regulating organic carbon accumulation and stabilization in restored ecosystems** (2026)
-   0 citations
+   1 citations
 
 ## External Profiles
 

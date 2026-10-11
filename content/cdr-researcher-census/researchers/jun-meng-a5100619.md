@@ -1,7 +1,7 @@
 ---
 title: "Jun Meng"
 description: "Jun Meng is an Eminent Biochar researcher at Shenyang Agricultural University in CN. With 173 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.036247
+date: 2026-10-11T02:32:59.039322
 url: "/cdr-researcher-census/researchers/jun-meng-a5100619/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,40 +45,40 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 47 |
 | Citations | 6,942 |
 | Publications | 173 |
-| CDR Focus | 6.4% |
+| CDR Focus | 7.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Long-term effects of biochar amendment on soil aggregate stability and biological binding agents in brown earth** (2021)
-   131 citations · Biochar
+   135 citations · Biochar
 
 2. **Responses of soil respiration and C sequestration efficiency to biochar amendment in maize field of Northeast China** (2022)
-   55 citations · Biochar
+   56 citations · Biochar
 
 3. **Responses of microbial necromass carbon and microbial community structure to straw- and straw-derived biochar in brown earth soil of Northeast China** (2022)
-   53 citations · Biochar
+   55 citations · Biochar
 
 4. **Biochar incorporation increases grain yield, net ecosystem CO2 exchange, and decreases CH4 emissions in an alternate wetting and drying paddy ecosystem** (2024)
+   24 citations · Biochar
+
+5. **Meta-Analysis for Quantifying Carbon Sequestration and Greenhouse Gas Emission in Paddy Soils One Year after Biochar Application** (2022)
    23 citations · Biochar
 
-5. **The phosphorus limitation in the post-fire forest soils increases soil CO2 emission via declining cellular carbon use efficiency and increasing extracellular phosphatase** (2023)
-   23 citations
+6. **The phosphorus limitation in the post-fire forest soils increases soil CO2 emission via declining cellular carbon use efficiency and increasing extracellular phosphatase** (2023)
+   22 citations
 
-6. **Meta-Analysis for Quantifying Carbon Sequestration and Greenhouse Gas Emission in Paddy Soils One Year after Biochar Application** (2022)
-   23 citations · Biochar
+7. **Green synthesis of nanoscale zero-valent iron impregnated walnut shell biochar as efficient adsorbent for metal(loid)s purification: Performance and mechanism insight** (2024)
+   11 citations · Biochar
 
-7. **Green synthesized nanoscale zero-valent iron impregnated tea residue biochar efficiently captures metal(loid)s for sustainable water remediation** (2024)
-   10 citations · Biochar
-
-8. **Green synthesis of nanoscale zero-valent iron impregnated walnut shell biochar as efficient adsorbent for metal(loid)s purification: Performance and mechanism insight** (2024)
+8. **Green synthesized nanoscale zero-valent iron impregnated tea residue biochar efficiently captures metal(loid)s for sustainable water remediation** (2024)
    10 citations · Biochar
 
 9. **Optimizing biochar for carbon sequestration: a synergistic approach using machine learning and natural language processing** (2025)
-   7 citations · Biochar
+   9 citations · Biochar
 
 10. **Biochar Makes Soil Organic Carbon More Labile, but Its Carbon Sequestration Potential Remains Large in an Alternate Wetting and Drying Paddy Ecosystem** (2025)
-   6 citations · Biochar
+   7 citations · Biochar
 
 ## External Profiles
 

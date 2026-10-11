@@ -1,7 +1,7 @@
 ---
 title: "Autumn D. Watkinson"
 description: "Autumn D. Watkinson is a Senior Enhanced Weathering researcher at University of Alberta in CA. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.072738
+date: 2026-10-11T02:33:00.102977
 url: "/cdr-researcher-census/researchers/autumn-d-watkinson-a5026946/"
 layout: "researcher"
 hiddenInHomeList: true

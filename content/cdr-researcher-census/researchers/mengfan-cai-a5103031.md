@@ -1,7 +1,7 @@
 ---
 title: "Mengfan Cai"
 description: "Mengfan Cai is a Mid-career Soil Carbon researcher at Central South University of Forestry and Technology in CN. With 23 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.397894
+date: 2026-10-11T02:32:59.406994
 url: "/cdr-researcher-census/researchers/mengfan-cai-a5103031/"
 layout: "researcher"
 hiddenInHomeList: true

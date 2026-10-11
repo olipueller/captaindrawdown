@@ -1,7 +1,7 @@
 ---
 title: "Sintayehu Eshetu"
 description: "Sintayehu Eshetu is a Mid-career Soil Carbon researcher at Bahir Dar University in ET. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.862809
+date: 2026-10-11T02:32:59.889292
 url: "/cdr-researcher-census/researchers/sintayehu-eshetu-a5053354/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A Systematic Review on the Role of Agroforestry Practices in Climate Change Mitigation and Adaptation** (2025)
-   22 citations · General CDR
+   27 citations · General CDR
+
+2. **Systematic Review on the Impact of Climate Change on Soil Properties: Implications for Sustainable Land Management** (2026)
+   12 citations
 
 ## External Profiles
 

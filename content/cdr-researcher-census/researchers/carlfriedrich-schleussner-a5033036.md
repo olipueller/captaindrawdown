@@ -1,7 +1,7 @@
 ---
 title: "Carl‐Friedrich Schleussner"
 description: "Carl‐Friedrich Schleussner is an Eminent General CDR researcher at International Institute for Applied Systems Analysis in AT. With 380 publications and an h-index of 57, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.023405
+date: 2026-10-11T02:32:59.026471
 url: "/cdr-researcher-census/researchers/carlfriedrich-schleussner-a5033036/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,24 +51,24 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Overconfidence in climate overshoot** (2024)
-   170 citations · General CDR
+   178 citations · General CDR
 
 2. **An emission pathway classification reflecting the Paris Agreement climate objectives** (2022)
    123 citations · General CDR
 
 3. **A prudent planetary limit for geologic carbon storage** (2025)
-   79 citations · General CDR
+   85 citations · General CDR
 
-4. **The deployment length of solar radiation modification: an interplay of mitigation, net-negative emissions and climate uncertainty** (2023)
+4. **The need for carbon-emissions-driven climate projections in CMIP7** (2024)
+   61 citations · General CDR
+
+5. **Evaluating the near- and long-term role of carbon dioxide removal in meeting global climate objectives** (2024)
+   45 citations · General CDR
+
+6. **The deployment length of solar radiation modification: an interplay of mitigation, net-negative emissions and climate uncertainty** (2023)
    44 citations · General CDR
 
-5. **The need for carbon-emissions-driven climate projections in CMIP7** (2024)
-   43 citations · General CDR
-
-6. **Fair distributions of carbon dioxide removal obligations and implications for effective national net-zero targets** (2021)
-   37 citations · General CDR
-
-7. **Evaluating the near- and long-term role of carbon dioxide removal in meeting global climate objectives** (2024)
+7. **Fair distributions of carbon dioxide removal obligations and implications for effective national net-zero targets** (2021)
    36 citations · General CDR
 
 8. **The need for carbon emissions-driven climate projections in CMIP7** (2023)
@@ -77,8 +77,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 9. **An emission pathway classification reflecting the Paris Agreement climate objectives** (2022)
    10 citations
 
-10. **Overconfidence in climate overshoot** (2023)
-   7 citations
+10. **Ten new insights in climate science 2025** (2026)
+   8 citations · General CDR
 
 ## External Profiles
 

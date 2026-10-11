@@ -1,7 +1,7 @@
 ---
 title: "Mohamed N. Khalil"
 description: "Mohamed N. Khalil is a Mid-career Biochar researcher at Donghua University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.985211
+date: 2026-10-11T02:33:00.016315
 url: "/cdr-researcher-census/researchers/mohamed-n-khalil-a5102729/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 8 |
 | Citations | 195 |
 | Publications | 16 |
-| CDR Focus | 6.2% |
+| CDR Focus | 12.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

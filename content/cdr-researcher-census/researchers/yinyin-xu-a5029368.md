@@ -1,7 +1,7 @@
 ---
 title: "Yinyin Xu"
 description: "Yinyin Xu is a Mid-career Biochar researcher at Lanzhou University in CN. With 39 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.260462
+date: 2026-10-11T02:32:59.264305
 url: "/cdr-researcher-census/researchers/yinyin-xu-a5029368/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **MoS2 nanoflowers decorated natural fiber-derived hollow carbon microtubes for boosting perfluorooctanoic acid degradation** (2022)
-   17 citations · Biochar
+   18 citations · Biochar
 
 2. **Co-doped biochar from buckwheat husk for PMS activation: Mechanistic insights into carbamazepine and norfloxacin degradation** (2026)
    0 citations · Biochar

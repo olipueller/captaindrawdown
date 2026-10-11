@@ -1,7 +1,7 @@
 ---
 title: "Satya Eswari Jujjavarappu"
 description: "Satya Eswari Jujjavarappu is a Mid-career General CDR researcher at National Institute of Technology Raipur in IN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.120352
+date: 2026-10-11T02:33:00.151027
 url: "/cdr-researcher-census/researchers/satya-eswari-jujjavarappu-a5044351/"
 layout: "researcher"
 hiddenInHomeList: true

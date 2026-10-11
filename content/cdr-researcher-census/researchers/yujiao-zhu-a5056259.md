@@ -1,7 +1,7 @@
 ---
 title: "Yujiao Zhu"
 description: "Yujiao Zhu is an Early-career Biochar researcher at Ningbo University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.788206
+date: 2026-10-11T02:32:59.812092
 url: "/cdr-researcher-census/researchers/yujiao-zhu-a5056259/"
 layout: "researcher"
 hiddenInHomeList: true

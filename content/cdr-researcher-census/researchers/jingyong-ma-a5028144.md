@@ -1,7 +1,7 @@
 ---
 title: "Jingyong Ma"
 description: "Jingyong Ma is a Mid-career Soil Carbon researcher at Lanzhou University in CN. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.492480
+date: 2026-10-11T02:32:59.504574
 url: "/cdr-researcher-census/researchers/jingyong-ma-a5028144/"
 layout: "researcher"
 hiddenInHomeList: true

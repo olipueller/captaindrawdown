@@ -1,7 +1,7 @@
 ---
 title: "Tamás Kurusta"
 description: "Tamás Kurusta is a Mid-career Enhanced Weathering researcher at University of Miskolc in HU. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.356206
+date: 2026-10-11T02:33:00.391161
 url: "/cdr-researcher-census/researchers/tamas-kurusta-a5021401/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Carbon-dioxide sequestration by mechanical activation of Linz-Donawitz steel slag; the effect of water on CO2 capture** (2023)
-   27 citations · Enhanced Weathering
+   29 citations · Enhanced Weathering
 
 2. **Carbon-Dioxide Sequestration by Mechanical Activation of Linz-Donawitz Slag; the Effect of Water on Co2 Capture** (2022)
    3 citations · Enhanced Weathering

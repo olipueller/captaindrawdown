@@ -1,7 +1,7 @@
 ---
 title: "Eric Oppong Danso"
 description: "Eric Oppong Danso is a Mid-career Enhanced Weathering researcher at University of Ghana in GH. With 39 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.732484
+date: 2026-10-11T02:32:59.754071
 url: "/cdr-researcher-census/researchers/eric-oppong-danso-a5091168/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,14 +50,14 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 ## Top CDR Publications
 
-1. **Enduring increases in maize yield are a co-benefit of enhanced weathering of Greenlandic glacial rock flour in Ghana** (2025)
+1. **Short-term effects of Greenlandic glacial rock flour on soil physical properties and maize yield** (2026)
    1 citations · Enhanced Weathering
 
-2. **Oil palm empty fruit bunch amendments improved the structural and functional properties of a tropical Acrisol** (2026)
-   0 citations · Biochar
+2. **Enduring increases in maize yield are a co-benefit of enhanced weathering of Greenlandic glacial rock flour in Ghana** (2025)
+   1 citations · Enhanced Weathering
 
-3. **Short-term effects of Greenlandic glacial rock flour on soil physical properties and maize yield** (2026)
-   0 citations · Enhanced Weathering
+3. **Oil palm empty fruit bunch amendments improved the structural and functional properties of a tropical Acrisol** (2026)
+   0 citations · Biochar
 
 4. **Correction: Enduring increases in maize yield are a co-benefit of enhanced weathering of Greenlandic glacial rock flour in Ghana** (2025)
    0 citations · Enhanced Weathering

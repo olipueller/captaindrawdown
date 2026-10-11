@@ -1,7 +1,7 @@
 ---
 title: "Mesnan Silalahi"
 description: "Mesnan Silalahi is a Senior BECCS researcher at Gatot Soebroto Army Hospital in ID. With 25 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.181201
+date: 2026-10-11T02:33:00.211121
 url: "/cdr-researcher-census/researchers/mesnan-silalahi-a5065841/"
 layout: "researcher"
 hiddenInHomeList: true

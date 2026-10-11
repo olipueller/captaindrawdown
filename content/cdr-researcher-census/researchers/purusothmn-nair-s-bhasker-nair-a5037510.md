@@ -1,7 +1,7 @@
 ---
 title: "Purusothmn Nair S. Bhasker Nair"
 description: "Purusothmn Nair S. Bhasker Nair is a Mid-career General CDR researcher at University of Nottingham Malaysia Campus in MY. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.876238
+date: 2026-10-11T02:32:59.903690
 url: "/cdr-researcher-census/researchers/purusothmn-nair-s-bhasker-nair-a5037510/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Regional carbon drawdown with enhanced weathering of non-hazardous industrial wastes** (2021)
-   34 citations · Enhanced Weathering
+   35 citations · Enhanced Weathering
 
 2. **Computing optimal carbon dioxide removal portfolios** (2022)
    31 citations · General CDR
 
 3. **Optimization and decision support models for deploying negative emissions technologies** (2023)
-   15 citations · General CDR
+   14 citations · General CDR
 
 4. **DECO2—An Open-Source Energy System Decarbonisation Planning Software including Negative Emissions Technologies** (2023)
-   13 citations · General CDR
+   14 citations · General CDR
 
 5. **A Software Framework for Optimal Multiperiod Carbon-Constrained Energy Planning** (2022)
    3 citations · General CDR

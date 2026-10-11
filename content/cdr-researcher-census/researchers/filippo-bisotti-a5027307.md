@@ -1,7 +1,7 @@
 ---
 title: "Filippo Bisotti"
 description: "Filippo Bisotti is a Mid-career DAC researcher at SINTEF in NO. With 35 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.574448
+date: 2026-10-11T02:32:59.590157
 url: "/cdr-researcher-census/researchers/filippo-bisotti-a5027307/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Direct Air capture (DAC) deployment: A review of the industrial deployment** (2023)
-   139 citations · DAC
+   144 citations · DAC
 
 2. **Direct air capture (DAC) deployment: National context cannot be neglected. A case study applied to Norway** (2023)
    15 citations · DAC

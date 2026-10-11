@@ -1,7 +1,7 @@
 ---
 title: "Bicheng He"
 description: "Bicheng He is a Mid-career Enhanced Weathering researcher at China University of Geosciences (Beijing) in CN. With 14 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.293861
+date: 2026-10-11T02:32:59.298378
 url: "/cdr-researcher-census/researchers/bicheng-he-a5058261/"
 layout: "researcher"
 hiddenInHomeList: true

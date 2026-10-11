@@ -1,7 +1,7 @@
 ---
 title: "Tianduo Peng"
 description: "Tianduo Peng is a Senior General CDR researcher at Tsinghua University in CN. With 35 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.138438
+date: 2026-10-11T02:32:59.142923
 url: "/cdr-researcher-census/researchers/tianduo-peng-a5081445/"
 layout: "researcher"
 hiddenInHomeList: true

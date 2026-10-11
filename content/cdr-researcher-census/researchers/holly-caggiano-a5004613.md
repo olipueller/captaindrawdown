@@ -1,7 +1,7 @@
 ---
 title: "Holly Caggiano"
 description: "Holly Caggiano is a Mid-career General CDR researcher at University of British Columbia in CA. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.646529
+date: 2026-10-11T02:32:59.665291
 url: "/cdr-researcher-census/researchers/holly-caggiano-a5004613/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Carbon removal for a just transition** (2024)
-   17 citations · General CDR
+   21 citations · General CDR
 
 2. **Reimagining ownership and governance for carbon dioxide removal (CDR): exploring existing alternative models to advance equity and justice** (2026)
    0 citations · General CDR

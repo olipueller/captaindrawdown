@@ -1,7 +1,7 @@
 ---
 title: "Juan Antonio Guerrero Barrantes"
 description: "Juan Antonio Guerrero Barrantes is a Mid-career Soil Carbon researcher at Universidad Nacional Agraria La Molina in PE. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.268894
+date: 2026-10-11T02:33:00.298837
 url: "/cdr-researcher-census/researchers/juan-antonio-guerrero-barrantes-a5061096/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil recovery of alluvial gold mine spoils in the Peruvian Amazon using <i>Stylosanthes guianensis</i>, a promising cover crop** (2021)
-   26 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 ## External Profiles
 

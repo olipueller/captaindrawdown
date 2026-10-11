@@ -1,7 +1,7 @@
 ---
 title: "Haidong Gu"
 description: "Haidong Gu is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 69 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.082538
+date: 2026-10-11T02:32:59.087345
 url: "/cdr-researcher-census/researchers/haidong-gu-a5101648/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,18 +51,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Conservation tillage regulates the assembly, network structure and ecological function of the soil bacterial community in black soils** (2022)
-   57 citations · Soil Carbon
+   62 citations · Soil Carbon
 
 2. **Enhancing microbial carbon use efficiency in organic rice farming through improved soil nutrient availability and microbial resource acquisition strategies** (2025)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 3. **Conservation tillage regulates soil bacterial community assemblies, network structures and ecological functions in black soils** (2021)
    5 citations · Soil Carbon
 
 4. **Warming-induced unstable microbial community metabolically lowers straw-carbon sequestration in paddy soils** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
-5. **Organic amendments alter aggregate-scale microbial communities linked to carbon sequestration in Mollisols** (2026)
+5. **Metagenomics insights into functional adaption of the carbon-cycling microbial profiles to long-term fertilization regimes** (2026)
+   1 citations
+
+6. **Organic amendments alter aggregate-scale microbial communities linked to carbon sequestration in Mollisols** (2026)
+   0 citations
+
+7. **Conversion of maize cropping to alfalfa alters spatial stratification of aggregate microbiomes and enhances carbon sequestration in Mollisols** (2026)
    0 citations
 
 ## External Profiles

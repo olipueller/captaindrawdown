@@ -1,7 +1,7 @@
 ---
 title: "Hang Zhai"
 description: "Hang Zhai is a Mid-career Enhanced Weathering researcher at Southwest University in CN. With 34 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.405348
+date: 2026-10-11T02:32:59.414358
 url: "/cdr-researcher-census/researchers/hang-zhai-a5085487/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    51 citations · DAC
 
 2. **Enhancing Aqueous Carbonation of Calcium Silicate through Acid and Base Pretreatments with Implications for Efficient Carbon Mineralization** (2023)
-   33 citations · Enhanced Weathering
+   35 citations · Enhanced Weathering
 
 3. **Enhancing aqueous carbonation via co-milled serpentine and wollastonite: Effects of mechanochemical activation** (2024)
-   14 citations · Enhanced Weathering
+   15 citations · Enhanced Weathering
 
 4. **Trade-off between soil organic carbon accrual and stability driven by 30 years high-level phosphorus fertilization in paddy rice field** (2026)
    0 citations

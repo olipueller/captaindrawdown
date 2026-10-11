@@ -1,7 +1,7 @@
 ---
 title: "Boqiang Gao"
 description: "Boqiang Gao is a Mid-career Biochar researcher at Henan Agricultural University in CN. With 36 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.149869
+date: 2026-10-11T02:32:59.154149
 url: "/cdr-researcher-census/researchers/boqiang-gao-a5042156/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A green strategy for porous biochar fabrication with superior capacity for peroxydisulfate activation to degrade sulfadiazine: the cooperative role of C-sp3 and specific surface area** (2023)
-   32 citations · Biochar
+   33 citations · Biochar
 
 2. **The mechanism differences between sulfadiazine degradation and antibiotic resistant bacteria inactivation by iron-based graphitic biochar and peroxydisulfate system** (2024)
-   21 citations
+   22 citations
 
 3. **The Mechanism Differences between Sulfadiazine Degradation and Antibiotic Resistant Bacteria Inactivation by Iron-Based Graphitic Biochar and Peroxydisulfate System** (2024)
    1 citations · Biochar

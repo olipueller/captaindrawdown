@@ -1,7 +1,7 @@
 ---
 title: "Shimbahri Mesfin"
 description: "Shimbahri Mesfin is a Mid-career Biochar researcher at Norwegian University of Life Sciences in NO. With 24 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.493772
+date: 2026-10-11T02:32:59.505859
 url: "/cdr-researcher-census/researchers/shimbahri-mesfin-a5064506/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar Technology for Sustainable Agriculture at Smallholder Farms: A Case Study of Ethiopia, Malawi, and Tanzania** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 2. **Impact of Biochar Application on Soil Health and Crop Productivity in Sub-Saharan Africa** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
+
+3. **Soil carbon sequestration through community-managed exclosures in Tigray, Ethiopia** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

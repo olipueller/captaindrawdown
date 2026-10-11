@@ -1,7 +1,7 @@
 ---
 title: "Gerelbaatar Sukhbaatar"
 description: "Gerelbaatar Sukhbaatar is a Mid-career Soil Carbon researcher. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.131273
+date: 2026-10-11T02:33:00.161703
 url: "/cdr-researcher-census/researchers/gerelbaatar-sukhbaatar-a5006130/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Afforestation of semi-arid regions of Mongolia: carbon sequestration in trees and increase of soil organic carbon** (2023)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 2. **comparative study of biomass and morpho-physiological traits for different deciduous species in semi-arid afforestation region of Mongolia** (2022)
    0 citations · General CDR

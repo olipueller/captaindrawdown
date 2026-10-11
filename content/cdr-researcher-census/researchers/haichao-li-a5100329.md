@@ -1,7 +1,7 @@
 ---
 title: "Haichao Li"
 description: "Haichao Li is a Senior Soil Carbon researcher at University of Bonn in DE. With 65 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.121027
+date: 2026-10-11T02:32:59.125670
 url: "/cdr-researcher-census/researchers/haichao-li-a5100329/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Modelling biochar long-term carbon storage in soil with harmonized analysis of decomposition data** (2023)
-   89 citations · Biochar
+   97 citations · Biochar
 
 2. **Quantifying CO2 Emissions and Carbon Sequestration from Digestate-Amended Soil Using Natural 13C Abundance as a Tracer** (2023)
    9 citations · Soil Carbon
@@ -59,16 +59,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Modelling Biochar Long-Term Carbon Storage in Soil with Harmonized Analysis of Incubation Data** (2023)
    1 citations · Biochar
 
-4. **Unpublished data: Quantifying CO2 Emissions and Carbon Sequestration from Digestate-Amended Soil Using Natural 13C Abundance as a Tracer** (2023)
-   0 citations · General CDR
-
-5. **Unpublished data: Quantifying CO2 Emissions and Carbon Sequestration from Digestate-Amended Soil Using Natural 13C Abundance as a Tracer** (2023)
+4. **Bomb 14 C for tracing biochar mineralization in soil** (2026)
    0 citations · Biochar
 
+5. **Unpublished data: Quantifying CO2 Emissions and Carbon Sequestration from Digestate-Amended Soil Using Natural 13C Abundance as a Tracer** (2023)
+   0 citations · General CDR
+
 6. **Unpublished data: Quantifying CO2 Emissions and Carbon Sequestration from Digestate-Amended Soil Using Natural 13C Abundance as a Tracer** (2023)
+   0 citations · Biochar
+
+7. **Unpublished data: Quantifying CO2 Emissions and Carbon Sequestration from Digestate-Amended Soil Using Natural 13C Abundance as a Tracer** (2023)
    0 citations · Soil Carbon
 
-7. **Quantifying CO2 emissions and carbon sequestration from digestate-amended soil using natural 13C abundance as a tracer. Supplementary Material.** (2023)
+8. **Quantifying CO2 emissions and carbon sequestration from digestate-amended soil using natural 13C abundance as a tracer. Supplementary Material.** (2023)
    0 citations · Soil Carbon
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Juliana Trindade Martins"
 description: "Juliana Trindade Martins is a Mid-career Soil Carbon researcher at Aarhus University in DK. With 33 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.719025
+date: 2026-10-11T02:32:59.740043
 url: "/cdr-researcher-census/researchers/juliana-trindade-martins-a5085205/"
 layout: "researcher"
 hiddenInHomeList: true

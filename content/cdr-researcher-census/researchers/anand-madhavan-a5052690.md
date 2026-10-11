@@ -1,7 +1,7 @@
 ---
 title: "Anand Madhavan"
 description: "Anand Madhavan is a Senior Biochar researcher at Cochin University of Science and Technology in IN. With 11 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.328964
+date: 2026-10-11T02:32:59.334766
 url: "/cdr-researcher-census/researchers/anand-madhavan-a5052690/"
 layout: "researcher"
 hiddenInHomeList: true

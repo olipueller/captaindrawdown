@@ -1,7 +1,7 @@
 ---
 title: "Nicholas T. Girkin"
 description: "Nicholas T. Girkin is a Senior Soil Carbon researcher at University of Nottingham in GB. With 68 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.139516
+date: 2026-10-11T02:32:59.143925
 url: "/cdr-researcher-census/researchers/nicholas-t-girkin-a5017414/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long‐term zero‐tillage enhances the protection of soil carbon in tropical agriculture** (2021)
-   98 citations · Soil Carbon
+   97 citations · Soil Carbon
 
-2. **Missing the input: the underrepresentation of plant physiology in global soil carbon research** (2025)
-   5 citations · Soil Carbon
+2. **Playing dirty: How soil legacies shape invasive plant dominance and community dynamics** (2025)
+   7 citations
 
-3. **Playing dirty: How soil legacies shape invasive plant dominance and community dynamics** (2025)
-   3 citations
+3. **Missing the input: the underrepresentation of plant physiology in global soil carbon research** (2025)
+   6 citations · Soil Carbon
 
 4. **Effects of land use type on soil aggregate stability and organic carbon fractions in the He Huang Valley, Qinghai-Tibet plateau** (2025)
-   2 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 5. **Missing the input: The underrepresentation of plant physiology in global soil carbon research** (2024)
    2 citations

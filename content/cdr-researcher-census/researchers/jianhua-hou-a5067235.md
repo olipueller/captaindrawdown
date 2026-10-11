@@ -1,7 +1,7 @@
 ---
 title: "Jianhua Hou"
 description: "Jianhua Hou is a Mid-career Biochar researcher at Yangzhou University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.198839
+date: 2026-10-11T02:33:00.229081
 url: "/cdr-researcher-census/researchers/jianhua-hou-a5067235/"
 layout: "researcher"
 hiddenInHomeList: true

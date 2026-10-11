@@ -1,7 +1,7 @@
 ---
 title: "Zhaohai Zeng"
 description: "Zhaohai Zeng is a Senior Soil Carbon researcher at Huazhong Agricultural University in CN. With 111 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.064351
+date: 2026-10-11T02:32:59.068862
 url: "/cdr-researcher-census/researchers/zhaohai-zeng-a5068091/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,27 +51,30 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Legume-based crop diversification reinforces soil health and carbon storage driven by microbial biomass and aggregates** (2023)
-   102 citations · Soil Carbon
+   105 citations · Soil Carbon
 
 2. **Diversified cropping systems benefit soil carbon and nitrogen stocks by increasing aggregate stability: Results of three fractionation methods** (2022)
    86 citations · Soil Carbon
 
 3. **Frequent carbon input primes decomposition of decadal soil organic matter** (2022)
-   64 citations · Soil Carbon
+   65 citations · Soil Carbon
 
-4. **Legume-rice rotations increase rice yields and carbon sequestration potential globally** (2025)
-   53 citations · Soil Carbon
+4. **Not all soil carbon is created equal: Labile and stable pools under nitrogen input** (2024)
+   62 citations · Soil Carbon
 
-5. **Marginal land conversion to perennial energy crops with biomass removal enhances soil carbon sequestration** (2022)
-   36 citations · Soil Carbon
+5. **Legume-rice rotations increase rice yields and carbon sequestration potential globally** (2025)
+   58 citations · Soil Carbon
 
-6. **Long–term rotational and perennial cropping benefit soil organic carbon stocks and ecosystem multifunctionality** (2023)
+6. **Marginal land conversion to perennial energy crops with biomass removal enhances soil carbon sequestration** (2022)
+   37 citations · Soil Carbon
+
+7. **Long–term rotational and perennial cropping benefit soil organic carbon stocks and ecosystem multifunctionality** (2023)
    25 citations
 
-7. **Legume-Based Crop Diversification Reinforces Soil Health and Carbon Storage: Aggregates Mechanisms and Quantitative Evaluation** (2023)
+8. **Legume-Based Crop Diversification Reinforces Soil Health and Carbon Storage: Aggregates Mechanisms and Quantitative Evaluation** (2023)
    1 citations · Soil Carbon
 
-8. **[Effects of Green Manure and Nitrogen Application on Soil Carbon Fractions in a Dryland Winter Wheat Field].** (2025)
+9. **[Effects of Green Manure and Nitrogen Application on Soil Carbon Fractions in a Dryland Winter Wheat Field].** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

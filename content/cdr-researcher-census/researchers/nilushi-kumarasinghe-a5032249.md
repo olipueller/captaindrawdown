@@ -1,7 +1,7 @@
 ---
 title: "Nilushi Kumarasinghe"
 description: "Nilushi Kumarasinghe is a Mid-career General CDR researcher at Ontario Drive & Gear (Canada) in CA. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.064531
+date: 2026-10-11T02:33:00.094715
 url: "/cdr-researcher-census/researchers/nilushi-kumarasinghe-a5032249/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Ten new insights in climate science 2023** (2023)
-   46 citations · General CDR
+   47 citations · General CDR
 
 2. **Ten new insights in climate science 2025** (2026)
-   7 citations · General CDR
+   8 citations · General CDR
 
 3. **Ten New Insights in Climate Science 2025 [accepted manuscript]** (2025)
    0 citations · General CDR

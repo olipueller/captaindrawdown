@@ -1,7 +1,7 @@
 ---
 title: "Rakhwe Kama"
 description: "Rakhwe Kama is a Mid-career Soil Carbon researcher at South China Agricultural University in CN. With 33 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.452118
+date: 2026-10-11T02:32:59.462898
 url: "/cdr-researcher-census/researchers/rakhwe-kama-a5035357/"
 layout: "researcher"
 hiddenInHomeList: true

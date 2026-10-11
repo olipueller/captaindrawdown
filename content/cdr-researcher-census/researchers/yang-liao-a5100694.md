@@ -1,7 +1,7 @@
 ---
 title: "Yang Liao"
 description: "Yang Liao is a Senior Soil Carbon researcher at China University of Geosciences in CN. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.418398
+date: 2026-10-11T02:32:59.428369
 url: "/cdr-researcher-census/researchers/yang-liao-a5100694/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,17 +50,17 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Deciphering microbial drivers of soil organic matter mineralization in surface and subsurface soil during long-term vegetation succession** (2024)
+1. **Inorganic Carbon Should Be Considered for Carbon Sequestration in Agricultural Soils** (2025)
    49 citations · Soil Carbon
 
-2. **Inorganic Carbon Should Be Considered for Carbon Sequestration in Agricultural Soils** (2025)
-   44 citations · Soil Carbon
+2. **Deciphering microbial drivers of soil organic matter mineralization in surface and subsurface soil during long-term vegetation succession** (2024)
+   49 citations · Soil Carbon
 
 3. **Vegetation restoration in the coarse‐textured soil area is more conducive to the accumulation of Fe‐associated C** (2024)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 4. **Microbial regulation mechanisms of soil organic carbon sequestration by biochar application** (2026)
-   6 citations
+   7 citations
 
 5. **Nitrogen‐Fixing Woody Plants Sequester More Soil Mineral‐Associated Carbon and Lose Less Particulate Carbon Than Herbs Post Vegetation Restoration** (2026)
    0 citations · Soil Carbon

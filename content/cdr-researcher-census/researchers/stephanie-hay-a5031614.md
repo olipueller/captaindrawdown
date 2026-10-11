@@ -1,7 +1,7 @@
 ---
 title: "Stephanie Hay"
 description: "Stephanie Hay is a Mid-career General CDR researcher at University of Exeter in GB. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.836987
+date: 2026-10-11T02:32:59.863154
 url: "/cdr-researcher-census/researchers/stephanie-hay-a5031614/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yuhan Jiang"
 description: "Yuhan Jiang is a Mid-career Soil Carbon researcher at Tianjin Centers for Disease Control and Prevention in CN. With 28 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.541585
+date: 2026-10-11T02:32:59.556511
 url: "/cdr-researcher-census/researchers/yuhan-jiang-a5012837/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of the combined application of livestock manure and plant residues on soil organic carbon sequestration in the southern Loess Plateau of China** (2024)
-   30 citations · Soil Carbon
+   35 citations · Soil Carbon
 
 2. **Microbial life-history strategies drive soil carbon stabilization under balanced organic substitution: Trade-offs between yield- and acquisition-oriented metabolisms** (2025)
    1 citations · Soil Carbon

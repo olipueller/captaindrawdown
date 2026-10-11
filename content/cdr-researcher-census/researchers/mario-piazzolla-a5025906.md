@@ -1,7 +1,7 @@
 ---
 title: "Mario Piazzolla"
 description: "Mario Piazzolla is a Mid-career General CDR researcher at Sapienza University of Rome in IT. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.401605
+date: 2026-10-11T02:33:00.439586
 url: "/cdr-researcher-census/researchers/mario-piazzolla-a5025906/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Intraoperative use of extracorporeal CO2 removal (ECCO2R) and emergency ECMO requirement in patients undergoing lung transplant: a case-matched cohort retrospective study** (2022)
-   1 citations · General CDR
+   2 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Wen-Jie Ma"
 description: "Wen-Jie Ma is a Mid-career Biochar researcher at Dalian University of Technology in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.322758
+date: 2026-10-11T02:33:00.355651
 url: "/cdr-researcher-census/researchers/wen-jie-ma-a5101303/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Meta-analyzing the mechanism of pyrogenic biochar strengthens nitrogen removal performance in sulfur-driven autotrophic denitrification system: Evidence from metatranscriptomics** (2024)
-   38 citations · Biochar
+   39 citations · Biochar
+
+2. **Biochar enhances nitrogen removal capacity in sulfur-driven autotrophic denitrification at low temperatures: Performance evaluation, microbial structure analysis, and metabolic pathway reconstruction** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

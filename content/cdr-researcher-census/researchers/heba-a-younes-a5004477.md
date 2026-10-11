@@ -1,7 +1,7 @@
 ---
 title: "Heba A. Younes"
 description: "Heba A. Younes is a Mid-career Biochar researcher at Beni -Suef Unversity, Faculty of postgraduate studies for advanced sciences in EG. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.671857
+date: 2026-10-11T02:32:59.691651
 url: "/cdr-researcher-census/researchers/heba-a-younes-a5004477/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **High-performance activated rice straw biochar: a sustainable triple-bottom-line adsorbent for removal of water pharmaceutical pollution** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

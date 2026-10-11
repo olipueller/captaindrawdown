@@ -1,7 +1,7 @@
 ---
 title: "Xiaozeng Han"
 description: "Xiaozeng Han is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 94 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.076332
+date: 2026-10-11T02:32:59.081120
 url: "/cdr-researcher-census/researchers/xiaozeng-han-a5104005/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Evaluation of the soil aggregate stability under long term manure and chemical fertilizer applications: Insights from organic carbon and humic acid structure in aggregates** (2024)
-   56 citations
+   63 citations
 
 2. **Long-term organic material application enhances black soil productivity by improving aggregate stability and dissolved organic matter dynamics** (2025)
-   32 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 3. **Land use effects on soil carbon retention through glomalin-mediated aggregation** (2025)
    19 citations · Soil Carbon
@@ -60,19 +60,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    18 citations · Biochar
 
 5. **Restoration of Chemical Structure of Soil Organic Matter Under Different Agricultural Practices from a Severely Degraded Mollisol** (2021)
-   12 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 6. **Long‐term grassland restoration exerts stronger impacts on the vertical distribution of labile over recalcitrant organic carbon fractions in Mollisols** (2022)
    9 citations · Soil Carbon
 
-7. **Effects of Organic Materials and Their Incorporation Depths on Humus Substances Structure and Soil Microbial Communities’ Characteristics in a Chinese Mollisol** (2023)
-   5 citations · Soil Carbon
-
-8. **Effects of the construction of fertile and cultivated soil layer on soil fertility and maize yield in Albic soil.** (2023)
+7. **Effects of the construction of fertile and cultivated soil layer on soil fertility and maize yield in Albic soil.** (2023)
    5 citations
 
-9. **Mechanism of biochar decomposition mediated by bacteria shifts the molecular structure of soil organic matter to high molecular aromatic components** (2024)
+8. **Mechanism of biochar decomposition mediated by bacteria shifts the molecular structure of soil organic matter to high molecular aromatic components** (2024)
    4 citations · Biochar
+
+9. **Effects of Organic Materials and Their Incorporation Depths on Humus Substances Structure and Soil Microbial Communities’ Characteristics in a Chinese Mollisol** (2023)
+   4 citations · Soil Carbon
 
 10. **Evaluation of the Soil Aggregate Stability Under Long Term Manure and Chemical Fertilizer Applications: Insights from Organic Carbon and Humic Acid Structure in Aggregates** (2024)
    2 citations · Soil Carbon

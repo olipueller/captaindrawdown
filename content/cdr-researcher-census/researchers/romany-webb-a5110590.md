@@ -1,7 +1,7 @@
 ---
 title: "Romany Webb"
 description: "Romany Webb is a Mid-career General CDR researcher at New York Law School in US. With 98 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.740922
+date: 2026-10-11T02:32:59.763170
 url: "/cdr-researcher-census/researchers/romany-webb-a5110590/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,22 +48,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Climate targets, carbon dioxide removal, and the potential role of ocean alkalinity enhancement** (2023)
-   67 citations · General CDR
+   70 citations · General CDR
 
 2. **Next steps for assessing ocean iron fertilization for marine carbon dioxide removal** (2024)
-   16 citations · General CDR
+   18 citations · General CDR
 
 3. **Legal considerations relevant to research on ocean alkalinity enhancement** (2023)
+   15 citations · General CDR
+
+4. **Principles for responsible and effective marine carbon dioxide removal development and governance** (2025)
    9 citations · General CDR
 
-4. **International laws governing ocean CDR** (2023)
-   9 citations
-
-5. **Principles for responsible and effective marine carbon dioxide removal development and governance** (2025)
-   8 citations · General CDR
+5. **International laws governing ocean CDR** (2023)
+   8 citations
 
 6. **The case for ocean iron fertilization field trials** (2026)
-   5 citations · General CDR
+   7 citations · General CDR
 
 7. **Climate targets, carbon dioxide removal and the potential role of Ocean Alkalinity Enhancement** (2023)
    5 citations

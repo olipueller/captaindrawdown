@@ -1,7 +1,7 @@
 ---
 title: "Kiya Adare Tadesse"
 description: "Kiya Adare Tadesse is a Mid-career Soil Carbon researcher at Haramaya University in ET. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.897654
+date: 2026-10-11T02:32:59.926732
 url: "/cdr-researcher-census/researchers/kiya-adare-tadesse-a5008487/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,16 +47,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Soil humus and aluminum—iron interactions enhance carbon sequestration and yield sustainability after long-term fertilization in three different soils** (2025)
+1. **Long-term substitution of synthetic fertilizer by cattle manure: Effects on carbon footprint, carbon sequestration, and yield in a double rice system** (2025)
+   7 citations · General CDR
+
+2. **Soil humus and aluminum—iron interactions enhance carbon sequestration and yield sustainability after long-term fertilization in three different soils** (2025)
    4 citations · Soil Carbon
 
-2. **Chemical fertilizer and liming-induced changes in aluminum, iron oxides and soil organic carbon fractions: implications for carbon sequestration in an upland red soil** (2025)
+3. **Chemical fertilizer and liming-induced changes in aluminum, iron oxides and soil organic carbon fractions: implications for carbon sequestration in an upland red soil** (2025)
    1 citations · General CDR
 
-3. **Impact of long-term straw and manure incorporation on carbon sequestration and yield through alteration of aluminum and iron oxides in acidic red soil** (2026)
+4. **Impact of long-term straw and manure incorporation on carbon sequestration and yield through alteration of aluminum and iron oxides in acidic red soil** (2026)
    0 citations · Soil Carbon
 
-4. **Soil Carbon Sequestration and Its Role in Agriculture** (2025)
+5. **Soil Carbon Sequestration and Its Role in Agriculture** (2025)
    0 citations · General CDR
 
 ## External Profiles

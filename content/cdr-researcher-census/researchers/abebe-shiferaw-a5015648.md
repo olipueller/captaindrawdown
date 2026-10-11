@@ -1,7 +1,7 @@
 ---
 title: "Abebe Shiferaw"
 description: "Abebe Shiferaw is a Senior Soil Carbon researcher at International Fertilizer Development Center in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.841513
+date: 2026-10-11T02:32:59.867301
 url: "/cdr-researcher-census/researchers/abebe-shiferaw-a5015648/"
 layout: "researcher"
 hiddenInHomeList: true

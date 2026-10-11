@@ -1,7 +1,7 @@
 ---
 title: "Yihan Liu"
 description: "Yihan Liu is a Mid-career Biochar researcher at Tianjin University of Science and Technology in CN. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.887537
+date: 2026-10-11T02:32:59.915050
 url: "/cdr-researcher-census/researchers/yihan-liu-a5008174/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Mn and P co-doped biochar catalyst for persulfate efficient degradation of tetracycline hydrochloride：Process and mechanism** (2024)
-   18 citations · Biochar
+   19 citations · Biochar
 
 2. **Carbon sequestration in the desert** (2025)
    0 citations · Soil Carbon

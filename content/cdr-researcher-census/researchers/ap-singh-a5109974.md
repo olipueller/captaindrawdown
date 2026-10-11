@@ -1,7 +1,7 @@
 ---
 title: "AP Singh"
 description: "AP Singh is a Senior Soil Carbon researcher at University of Agricultural Sciences, Bangalore in IN. With 38 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.131997
+date: 2026-10-11T02:33:00.162409
 url: "/cdr-researcher-census/researchers/ap-singh-a5109974/"
 layout: "researcher"
 hiddenInHomeList: true

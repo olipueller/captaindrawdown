@@ -1,7 +1,7 @@
 ---
 title: "Sheenu Sharma"
 description: "Sheenu Sharma is a Mid-career Biochar researcher. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.785846
+date: 2026-10-11T02:32:59.809791
 url: "/cdr-researcher-census/researchers/sheenu-sharma-a5011860/"
 layout: "researcher"
 hiddenInHomeList: true

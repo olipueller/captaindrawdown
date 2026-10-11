@@ -1,7 +1,7 @@
 ---
 title: "Danilo Enrique Morales Ruiz"
 description: "Danilo Enrique Morales Ruiz is a Mid-career Soil Carbon researcher at Universidad Autónoma de Chiapas in MX. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.961869
+date: 2026-10-11T02:32:59.993081
 url: "/cdr-researcher-census/researchers/danilo-enrique-morales-ruiz-a5019921/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Silvopastoral systems and remnant forests enhance carbon storage in livestock-dominated landscapes in Mexico** (2022)
-   65 citations · Soil Carbon
+   67 citations · Soil Carbon
 
 2. **Biomass recovery along a tropical forest succession: Trends on tree diversity, wood traits and stand structure** (2024)
    27 citations
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    23 citations · Soil Carbon
 
 4. **Silvopastoral systems reduce soil CO2 emissions, enhance carbon stocks, and regulate the micro-environment in tropical grazing lands** (2025)
-   8 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 ## External Profiles
 

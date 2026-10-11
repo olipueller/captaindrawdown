@@ -1,7 +1,7 @@
 ---
 title: "Kamal M. Sassi"
 description: "Kamal M. Sassi is a Senior DAC researcher at University of Bahrain in BH. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.700296
+date: 2026-10-11T02:32:59.720579
 url: "/cdr-researcher-census/researchers/kamal-m-sassi-a5010696/"
 layout: "researcher"
 hiddenInHomeList: true

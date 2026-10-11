@@ -1,7 +1,7 @@
 ---
 title: "Shuangyi Li"
 description: "Shuangyi Li is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 79 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.123196
+date: 2026-10-11T02:32:59.127810
 url: "/cdr-researcher-census/researchers/shuangyi-li-a5101593/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Differential accumulation patterns of microbial necromass induced by maize root vs. shoot residue addition in agricultural Alfisols** (2021)
-   63 citations · Soil Carbon
+   61 citations · Soil Carbon
 
 2. **Effects of farmland landscape pattern on spatial distribution of soil organic carbon in Lower Liaohe Plain of northeastern China** (2022)
    53 citations · General CDR
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    24 citations · Soil Carbon
 
 4. **Crop residue decomposition and nutrient release are independently affected by nitrogen fertilization, plastic film mulching, and residue type** (2022)
-   21 citations
+   23 citations
 
 5. **Distributions of straw-derived carbon in Mollisol’s aggregates under different fertilization practices** (2021)
    14 citations · Soil Carbon
@@ -68,17 +68,17 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 6. **Fungal necromass carbon contributes to organic carbon sequestration within soil macroaggregates under manure application combined with plastic film mulching** (2024)
    9 citations · Biochar
 
-7. **Plastic film mulching maintains soil organic carbon by increasing fungal necromass carbon under manure application** (2023)
+7. **Crop planting promotes the stabilization of straw-derived carbon in fertilized soil by regulating soil stoichiometry** (2025)
+   7 citations
+
+8. **Plastic film mulching maintains soil organic carbon by increasing fungal necromass carbon under manure application** (2023)
    7 citations · Soil Carbon
 
-8. **Crop planting promotes the stabilization of straw-derived carbon in fertilized soil by regulating soil stoichiometry** (2025)
-   5 citations
-
 9. **Cultivating crop reduces microbial necromass carbon accumulation but contributes fungal derived- soil organic carbon formation in fertilized soils with straw addition** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
-10. **Effect of Longterm Tillage Management on Soil Organic Carbon Fractions and Enzyme Activities in Bulk and Rhizosphere Soils** (2025)
-   3 citations · Soil Carbon
+10. **Long‐term fertilization and plastic film mulching modify temporal incorporation of <scp> <sup>13</sup> C </scp> / <scp> <sup>15</sup> N </scp> ‐labelled particulate organic matter** (2023)
+   4 citations · Soil Carbon
 
 ## External Profiles
 

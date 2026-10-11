@@ -1,7 +1,7 @@
 ---
 title: "Pranav Prasannakumar"
 description: "Pranav Prasannakumar is a Mid-career Biochar researcher at Amrita Vishwa Vidyapeetham in IN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.030885
+date: 2026-10-11T02:33:00.062117
 url: "/cdr-researcher-census/researchers/pranav-prasannakumar-a5019966/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yuan Wen"
 description: "Yuan Wen is a Senior Soil Carbon researcher at China Agricultural University in CN. With 77 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.075327
+date: 2026-10-11T02:32:59.080145
 url: "/cdr-researcher-census/researchers/yuan-wen-a5066340/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of soil warming and straw return on soil organic matter and greenhouse gas fluxes in winter wheat seasons in the North China Plain** (2022)
-   85 citations · Soil Carbon
+   87 citations · Soil Carbon
 
 2. **Frequent carbon input primes decomposition of decadal soil organic matter** (2022)
-   64 citations · Soil Carbon
+   65 citations · Soil Carbon
 
 3. **Subsoil <scp>SOC</scp> increased by high C:N ratio straw application with optimized nitrogen supplementation** (2024)
-   14 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 4. **The effect of straw management on energy use efficiency, food security, and environmental costs** (2025)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 ## External Profiles
 

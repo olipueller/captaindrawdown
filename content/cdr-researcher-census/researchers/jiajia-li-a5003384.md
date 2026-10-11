@@ -1,7 +1,7 @@
 ---
 title: "Jiajia Li"
 description: "Jiajia Li is an Early-career Soil Carbon researcher at Institute of Geographic Sciences and Natural Resources Research in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.352170
+date: 2026-10-11T02:33:00.387093
 url: "/cdr-researcher-census/researchers/jiajia-li-a5003384/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Vegetation restoration in the coarse‐textured soil area is more conducive to the accumulation of Fe‐associated C** (2024)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 ## External Profiles
 

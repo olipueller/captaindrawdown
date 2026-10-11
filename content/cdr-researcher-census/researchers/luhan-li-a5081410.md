@@ -1,7 +1,7 @@
 ---
 title: "Luhan Li"
 description: "Luhan Li is a Mid-career Soil Carbon researcher at Soochow University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.624540
+date: 2026-10-11T02:32:59.642755
 url: "/cdr-researcher-census/researchers/luhan-li-a5081410/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Linking prokaryotic life-history strategies to soil organic carbon stability in semi-arid orchard with cover crops** (2025)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 ## External Profiles
 

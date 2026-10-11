@@ -1,7 +1,7 @@
 ---
 title: "Karine Gondret"
 description: "Karine Gondret is a Mid-career Soil Carbon researcher at HES-SO University of Applied Sciences and Arts Western Switzerland in CH. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.269381
+date: 2026-10-11T02:33:00.299330
 url: "/cdr-researcher-census/researchers/karine-gondret-a5088669/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Changes in topsoil organic carbon content in the Swiss leman region cropland from 1993 to present. Insights from large scale on-farm study** (2021)
-   36 citations · General CDR
+   35 citations · General CDR
 
 ## External Profiles
 

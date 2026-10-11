@@ -1,7 +1,7 @@
 ---
 title: "Haojie Luo"
 description: "Haojie Luo is a Mid-career General CDR researcher. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.071935
+date: 2026-10-11T02:33:00.102144
 url: "/cdr-researcher-census/researchers/haojie-luo-a5082545/"
 layout: "researcher"
 hiddenInHomeList: true

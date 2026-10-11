@@ -1,7 +1,7 @@
 ---
 title: "Wenyue Hou"
 description: "Wenyue Hou is an Early-career General CDR researcher at Xihua University in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.278660
+date: 2026-10-11T02:33:00.308740
 url: "/cdr-researcher-census/researchers/wenyue-hou-a5101210/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Matching ecosystem services supply and demand in China's urban agglomerations for multiple-scale management** (2023)
-   87 citations · General CDR
+   90 citations · General CDR
 
 2. **Tradeoffs among ecosystem services under ecological engineering construction: Donor and receiver evaluation of 25 soil and water conservation projects in China** (2025)
    6 citations · General CDR
+
+3. **Quantifying the effects of urban agglomeration on cropland ecological efficiency in the Sichuan–Chongqing region, China** (2026)
+   2 citations
 
 ## External Profiles
 

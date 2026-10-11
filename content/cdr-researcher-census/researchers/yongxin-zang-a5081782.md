@@ -1,7 +1,7 @@
 ---
 title: "Yongxin Zang"
 description: "Yongxin Zang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.643908
+date: 2026-10-11T02:32:59.662268
 url: "/cdr-researcher-census/researchers/yongxin-zang-a5081782/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Refining Amino Sugar‐Based Conversion Factors for Quantification of Microbial Necromass Carbon in Soils** (2025)
-   13 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 2. **Climate and shrubs at different scales jointly drive the changing pattern of moss crust soil multifunctionality in a temperate desert** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

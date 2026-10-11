@@ -1,7 +1,7 @@
 ---
 title: "Ed‐Haun Chang"
 description: "Ed‐Haun Chang is a Senior Biochar researcher at Mackay Junior College of Medicine, Nursing and Management in TW. With 34 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.185637
+date: 2026-10-11T02:32:59.189775
 url: "/cdr-researcher-census/researchers/edhaun-chang-a5049230/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    29 citations · Biochar
 
 2. **Underlying reasons and factors associated with changes in earthworm activities in response to biochar amendment: a review** (2023)
-   16 citations · Biochar
+   17 citations · Biochar
 
 ## External Profiles
 

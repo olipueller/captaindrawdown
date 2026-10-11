@@ -1,7 +1,7 @@
 ---
 title: "Dan Hâncu"
 description: "Dan Hâncu is a Senior General CDR researcher at United States Department of Energy in US. With 37 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.096184
+date: 2026-10-11T02:32:59.100748
 url: "/cdr-researcher-census/researchers/dan-hancu-a5068667/"
 layout: "researcher"
 hiddenInHomeList: true

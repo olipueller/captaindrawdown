@@ -1,7 +1,7 @@
 ---
 title: "Sasha Wilson"
 description: "Sasha Wilson is a Senior Enhanced Weathering researcher at University of Alberta in CA. With 166 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.042106
+date: 2026-10-11T02:32:59.045346
 url: "/cdr-researcher-census/researchers/sasha-wilson-a5073578/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Evaluating feedstocks for carbon dioxide removal by enhanced rock weathering and CO2 mineralization** (2021)
-   56 citations · Enhanced Weathering
+   57 citations · Enhanced Weathering
 
 2. **Direct measurement of CO2 drawdown in mine wastes and rock powders: Implications for enhanced rock weathering** (2021)
-   44 citations · Enhanced Weathering
+   45 citations · Enhanced Weathering
 
-3. **Cation Exchange in Smectites as a New Approach to Mineral Carbonation** (2022)
+3. **Unlocking the potential of hydraulic fracturing flowback and produced water for CO2 removal via mineral carbonation** (2022)
+   32 citations · DAC
+
+4. **Cation Exchange in Smectites as a New Approach to Mineral Carbonation** (2022)
    30 citations · Enhanced Weathering
 
-4. **Geochemical modeling of CO2 sequestration in ultramafic mine wastes from Australia, Canada, and South Africa: Implications for carbon accounting and monitoring** (2023)
-   29 citations · Enhanced Weathering
-
-5. **Unlocking the potential of hydraulic fracturing flowback and produced water for CO2 removal via mineral carbonation** (2022)
-   29 citations · DAC
+5. **Geochemical modeling of CO2 sequestration in ultramafic mine wastes from Australia, Canada, and South Africa: Implications for carbon accounting and monitoring** (2023)
+   28 citations · Enhanced Weathering
 
 6. **Impact of wet-dry cycles on enhanced rock weathering of brucite, wollastonite, serpentinite and kimberlite: Implications for carbon verification** (2023)
    17 citations · Enhanced Weathering
@@ -71,14 +71,14 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 7. **Weathering and cementation of historic kimberlite residues from South Africa: Implications for residue stabilization and CO2 sequestration** (2024)
    6 citations · Enhanced Weathering
 
-8. **CO2 mineralization of kimberlite residues from the Gahcho Kué Diamond Mine, Northwest Territories, Canada** (2025)
+8. **Artificial Laterite from Acid Leaching of Ultramafic Rocks: Mobilization, Enrichment, and Extraction of Critical Metals** (2025)
+   4 citations
+
+9. **Incorporating enhanced rock weathering into sustainable forest management** (2025)
    3 citations · Enhanced Weathering
 
-9. **Artificial Laterite from Acid Leaching of Ultramafic Rocks: Mobilization, Enrichment, and Extraction of Critical Metals** (2025)
-   2 citations
-
-10. **Incorporating enhanced rock weathering into sustainable forest management** (2025)
-   2 citations · Enhanced Weathering
+10. **CO2 mineralization of kimberlite residues from the Gahcho Kué Diamond Mine, Northwest Territories, Canada** (2025)
+   3 citations · Enhanced Weathering
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Xutong Wang"
 description: "Xutong Wang is a Mid-career Biochar researcher at Nuclear and Radiation Safety Center in CN. With 54 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.215052
+date: 2026-10-11T02:32:59.218953
 url: "/cdr-researcher-census/researchers/xutong-wang-a5101472/"
 layout: "researcher"
 hiddenInHomeList: true

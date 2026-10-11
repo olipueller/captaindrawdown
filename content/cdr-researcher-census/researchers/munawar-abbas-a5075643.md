@@ -1,7 +1,7 @@
 ---
 title: "Munawar Abbas"
 description: "Munawar Abbas is a Mid-career BECCS researcher at National Institute for Biotechnology and Genetic Engineering in PK. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.254012
+date: 2026-10-11T02:33:00.283762
 url: "/cdr-researcher-census/researchers/munawar-abbas-a5075643/"
 layout: "researcher"
 hiddenInHomeList: true

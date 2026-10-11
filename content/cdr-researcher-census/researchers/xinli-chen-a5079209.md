@@ -1,7 +1,7 @@
 ---
 title: "Xinli Chen"
 description: "Xinli Chen is a Senior Soil Carbon researcher at Zhejiang A&F University in CN. With 64 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.066902
+date: 2026-10-11T02:32:59.071413
 url: "/cdr-researcher-census/researchers/xinli-chen-a5079209/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Fertilization and tillage influence on soil organic carbon fractions: A global meta-analysis** (2024)
-   58 citations · Soil Carbon
+   62 citations · Soil Carbon
 
 2. **Resource availability enhances positive tree functional diversity effects on carbon and nitrogen accrual in natural forests** (2024)
-   43 citations · General CDR
+   47 citations · General CDR
 
 3. **Effects of co-applied biochar and plant growth-promoting bacteria on soil carbon mineralization and nutrient availability under two nitrogen addition rates** (2023)
    14 citations · Biochar
@@ -66,10 +66,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Soil Carbon
 
 6. **Forested lands have lower soil carbon priming effects than croplands in hedgerow agroforestry systems** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 7. **Increased mowing intensity reduces soil CH4 uptake but diversely affects CO2 emission in an alpine meadow on the Qinghai-Tibetan Plateau** (2025)
    2 citations · Soil Carbon
+
+8. **Tree Species Diversity Suppresses Soil Carbon Priming Effects in a Subtropical Forest** (2026)
+   1 citations
 
 ## External Profiles
 

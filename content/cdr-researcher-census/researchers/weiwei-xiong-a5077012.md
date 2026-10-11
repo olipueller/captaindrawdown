@@ -1,7 +1,7 @@
 ---
 title: "Weiwei Xiong"
 description: "Weiwei Xiong is a Senior General CDR researcher at Laboratoire des Sciences du Climat et de l'Environnement in FR. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.413383
+date: 2026-10-11T02:32:59.423284
 url: "/cdr-researcher-census/researchers/weiwei-xiong-a5077012/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,13 +53,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 1. **Atmospheric methane removal as a third climate intervention: termination risks and air pollutant effects** (2026)
    1 citations · General CDR
 
-2. **Atmospheric Methane Removal as a Third Climate Intervention: Termination Risks and Air Pollutant Effects** (2026)
-   0 citations
+2. **Deliverable D1.2 from the EU Horizon Project RESCUE - Report on CDR portfolio climate neutrality scenarios with and without overshoot including sensitivity analysis, gridding and extensions** (2025)
+   0 citations · BECCS
 
-3. **Atmospheric Methane Removal as a Third Climate Intervention: Termination Risks and Air Pollutant Effects** (2026)
+3. **Emulating an Integrated Assessment Model to Project Long-Term Emissions and Carbon Dioxide Removal Pathways to 2300** (2025)
    0 citations · General CDR
 
-4. **Projecting long-term pathways of greenhouse gas emissions and carbon dioxide removal with an Integrated Assessment Model emulator** (2025)
+4. **Atmospheric Methane Removal as a Third Climate Intervention: Termination Risks and Air Pollutant Effects** (2026)
+   0 citations
+
+5. **Atmospheric Methane Removal as a Third Climate Intervention: Termination Risks and Air Pollutant Effects** (2026)
+   0 citations · General CDR
+
+6. **Projecting long-term pathways of greenhouse gas emissions and carbon dioxide removal with an Integrated Assessment Model emulator** (2025)
    0 citations · DAC
 
 ## External Profiles

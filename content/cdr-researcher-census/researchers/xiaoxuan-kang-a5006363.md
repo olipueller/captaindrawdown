@@ -1,7 +1,7 @@
 ---
 title: "Xiaoxuan Kang"
 description: "Xiaoxuan Kang is a Mid-career Biochar researcher at North China University of Science and Technology in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.833073
+date: 2026-10-11T02:32:59.859305
 url: "/cdr-researcher-census/researchers/xiaoxuan-kang-a5006363/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A Review on Application of Biochar in the Removal of Pharmaceutical Pollutants through Adsorption and Persulfate-Based AOPs** (2022)
-   156 citations · Biochar
+   159 citations · Biochar
 
 2. **Activation of peroxydisulfate by black fungus-derived N-doped biochar for tetracycline degradation via non-radical dominated oxidation pathway** (2022)
    36 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Pedro Sánchez‐Navarrete"
 description: "Pedro Sánchez‐Navarrete is a Mid-career Soil Carbon researcher at Consejo Superior de Investigaciones Científicas in ES. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.980977
+date: 2026-10-11T02:33:00.012275
 url: "/cdr-researcher-census/researchers/pedro-sancheznavarrete-a5002032/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Shrub clearing and extensive livestock as a strategy for enhancing ecosystem services in degraded Mediterranean mid-mountain areas** (2023)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 2. **How do acid or alkaline soil environments affect soil organic carbon stocks in a post-abandonment secondary succession process in Mediterranean mountain areas?** (2023)
    11 citations · Soil Carbon
@@ -59,10 +59,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **A strategy to enhance soil quality and <scp>soil organic carbon</scp> stock in abandoned lands: Pasture regeneration through shrub clearing** (2024)
    9 citations · Soil Carbon
 
-4. **How acidic or alkaline soils affect SOC stock in a post-abandonment secondary succession process: a case study in th Mediterranean mid-mountains.** (2023)
+4. **Management of marginal landscapes in the Mediterranean mountains: Driving soil regulatory functions towards Global Change adaptation.** (2026)
    0 citations · Soil Carbon
 
-5. **Post-land abandonment management through shrub clearing practices as a tool for enhancing soil quality and carbon storage.&amp;#160;** (2022)
+5. **How acidic or alkaline soils affect SOC stock in a post-abandonment secondary succession process: a case study in th Mediterranean mid-mountains.** (2023)
+   0 citations · Soil Carbon
+
+6. **Post-land abandonment management through shrub clearing practices as a tool for enhancing soil quality and carbon storage.&amp;#160;** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

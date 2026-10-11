@@ -1,7 +1,7 @@
 ---
 title: "Piotr Wojewódzki"
 description: "Piotr Wojewódzki is a Mid-career Biochar researcher at Bydgoszcz University of Science and Technology in PL. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.524176
+date: 2026-10-11T02:32:59.538087
 url: "/cdr-researcher-census/researchers/piotr-wojewodzki-a5058027/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The Application of Biochar from Waste Biomass to Improve Soil Fertility and Soil Enzyme Activity and Increase Carbon Sequestration** (2022)
-   17 citations · Biochar
+   18 citations · Biochar
 
 ## External Profiles
 

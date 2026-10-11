@@ -1,7 +1,7 @@
 ---
 title: "Linsen Du"
 description: "Linsen Du is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.668179
+date: 2026-10-11T02:32:59.687670
 url: "/cdr-researcher-census/researchers/linsen-du-a5065600/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    56 citations · Soil Carbon
 
 2. **Rice-Crayfish Farming Increases Soil Organic Carbon** (2021)
-   1 citations · Soil Carbon
+   0 citations · Soil Carbon
 
 ## External Profiles
 

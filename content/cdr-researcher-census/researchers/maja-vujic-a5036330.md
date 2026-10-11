@@ -1,7 +1,7 @@
 ---
 title: "Maja Vujić"
 description: "Maja Vujić is a Mid-career Biochar researcher at University of Novi Sad in RS. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.102493
+date: 2026-10-11T02:33:00.132750
 url: "/cdr-researcher-census/researchers/maja-vujic-a5036330/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Adsorptive Behavior of Corn-Cob- and Straw-Derived Biochar for Polycyclic Aromatic Hydrocarbon Removal from Aqueous Systems** (2025)
-   10 citations · Biochar
+   11 citations · Biochar
 
 ## External Profiles
 

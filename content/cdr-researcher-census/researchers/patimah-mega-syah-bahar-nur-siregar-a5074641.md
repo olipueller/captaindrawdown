@@ -1,7 +1,7 @@
 ---
 title: "Patimah Mega Syah Bahar Nur Siregar"
 description: "Patimah Mega Syah Bahar Nur Siregar is a Mid-career Biochar researcher at Sriwijaya University in ID. With 24 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.573572
+date: 2026-10-11T02:32:59.589261
 url: "/cdr-researcher-census/researchers/patimah-mega-syah-bahar-nur-siregar-a5074641/"
 layout: "researcher"
 hiddenInHomeList: true

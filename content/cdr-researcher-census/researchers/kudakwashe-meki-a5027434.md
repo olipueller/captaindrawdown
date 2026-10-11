@@ -1,7 +1,7 @@
 ---
 title: "Kudakwashe Meki"
 description: "Kudakwashe Meki is a Mid-career Biochar researcher at Harbin Institute of Technology in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.694405
+date: 2026-10-11T02:32:59.715002
 url: "/cdr-researcher-census/researchers/kudakwashe-meki-a5027434/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar application in remediating salt-affected soil to achieve carbon neutrality and abate climate change** (2023)
-   92 citations · Biochar
+   94 citations · Biochar
 
 ## External Profiles
 

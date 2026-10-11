@@ -1,7 +1,7 @@
 ---
 title: "Felizitas Schlederer"
 description: "Felizitas Schlederer is a Mid-career Biochar researcher. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.037685
+date: 2026-10-11T02:33:00.068386
 url: "/cdr-researcher-census/researchers/felizitas-schlederer-a5000365/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Ensuring safety standards in sewage sludge-derived biochar: Impact of pyrolysis process temperature and carrier gas on micropollutant removal** (2024)
-   30 citations · Biochar
+   31 citations · Biochar
 
 ## External Profiles
 

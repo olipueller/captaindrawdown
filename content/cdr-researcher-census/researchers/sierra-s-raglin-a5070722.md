@@ -1,7 +1,7 @@
 ---
 title: "Sierra S. Raglin"
 description: "Sierra S. Raglin is a Mid-career BECCS researcher at Illinois Department of Natural Resources in US. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.392726
+date: 2026-10-11T02:33:00.430161
 url: "/cdr-researcher-census/researchers/sierra-s-raglin-a5070722/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Bioenergy Underground: Challenges and opportunities for phenotyping roots and the microbiome for sustainable bioenergy crop production** (2022)
-   24 citations · BECCS
+   20 citations · BECCS
 
 ## External Profiles
 

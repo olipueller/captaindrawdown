@@ -1,7 +1,7 @@
 ---
 title: "Magali Weissgerber"
 description: "Magali Weissgerber is a Mid-career Soil Carbon researcher at Luther University in KR. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.334525
+date: 2026-10-11T02:33:00.368565
 url: "/cdr-researcher-census/researchers/magali-weissgerber-a5103859/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon stock increase during post-agricultural succession in central France: no change of the superficial soil stock and high variability within forest stages** (2024)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Bojie Wang"
 description: "Bojie Wang is a Senior General CDR researcher at Inner Mongolia Agricultural University in CN. With 25 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.266649
+date: 2026-10-11T02:32:59.270741
 url: "/cdr-researcher-census/researchers/bojie-wang-a5069050/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Exploring ecosystem services interactions in the dryland: Socio-ecological drivers and thresholds for better ecosystem management** (2024)
-   24 citations · General CDR
+   26 citations · General CDR
 
 2. **Relationships between Ecosystem Services and Human Well-Being from a Water–Energy–Food Nexus Perspective: A Case Study of Jiziwan, Yellow River Basin,China** (2024)
    0 citations · General CDR

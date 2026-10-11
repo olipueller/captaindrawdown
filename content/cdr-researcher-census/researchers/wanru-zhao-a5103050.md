@@ -1,7 +1,7 @@
 ---
 title: "Wanru Zhao"
 description: "Wanru Zhao is a Mid-career Soil Carbon researcher at Yunnan Normal University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.078180
+date: 2026-10-11T02:33:00.108449
 url: "/cdr-researcher-census/researchers/wanru-zhao-a5103050/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of straw return on soil carbon sequestration, soil nutrients and rice yield of in acidic farmland soil of Southern China** (2024)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 ## External Profiles
 

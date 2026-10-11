@@ -1,7 +1,7 @@
 ---
 title: "Xiaoli Cheng"
 description: "Xiaoli Cheng is an Eminent Soil Carbon researcher at Yunnan University in CN. With 184 publications and an h-index of 48, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.032126
+date: 2026-10-11T02:32:59.035170
 url: "/cdr-researcher-census/researchers/xiaoli-cheng-a5101867/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    73 citations · Soil Carbon
 
 2. **Increased soil organic carbon response to fertilization is associated with increasing microbial carbon use efficiency: Data synthesis** (2022)
-   55 citations · Soil Carbon
+   60 citations · Soil Carbon
 
 3. **Changes in soil organic carbon and nitrogen pool sizes, dynamics, and biochemical stability during ∼160 years natural vegetation restoration on the Loess Plateau, China** (2022)
-   39 citations · Soil Carbon
+   41 citations · Soil Carbon
 
 4. **Natural revegetation over ∼ 160 years alters carbon and nitrogen sequestration and stabilization in soil organic matter on the Loess Plateau of China** (2022)
    33 citations · Soil Carbon
@@ -66,7 +66,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    13 citations · Soil Carbon
 
 6. **Warming inhibits new soil organic carbon formation with higher bacterial necromass contribution** (2025)
-   8 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 7. **Shifts and drivers in soil carbon and nitrogen sequestration and stabilization along a 2100-m altitudinal gradient from temperate forests to alpine shrub meadow** (2025)
    1 citations · Soil Carbon
@@ -77,8 +77,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 9. **Afforestation alters functions of soil and microbiome but does not drive soil carbon accumulation in two decades** (2022)
    1 citations · Soil Carbon
 
-10. **Enhancing Soil Carbon Sequestration in Soybean-Maize Intercropping Systems of Northeast China's Black Soil Region: A Density-Dependent Root-Microbe Interaction Study** (2025)
-   0 citations · Soil Carbon
+10. **Altitudinal patterns of soil carbon and nitrogen dynamics among contrasting forest and alpine shrub meadow ecosystems on the highest peak of the Qinling Mountains** (2026)
+   0 citations
 
 ## External Profiles
 

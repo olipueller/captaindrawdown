@@ -1,7 +1,7 @@
 ---
 title: "Haiyang Ma"
 description: "Haiyang Ma is a Mid-career Soil Carbon researcher at Chinese Academy of Tropical Agricultural Sciences in CN. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.705931
+date: 2026-10-11T02:32:59.726349
 url: "/cdr-researcher-census/researchers/haiyang-ma-a5102213/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil aggregate carbon stocks and sequestration efficiency under long-term fertilization across China’s croplands** (2025)
-   5 citations · Soil Carbon
+   7 citations · Soil Carbon
 
-2. **Soil carbon pool dynamics, microbial community diversity and pineapple (Ananas comosus) productivity response to partial organic substitution strategies: A four-year study** (2025)
+2. **Dynamics and Drivers of Soil Organic Carbon Sequestration by Cropland Afforestation: A Global Meta‐Analysis** (2025)
+   3 citations · General CDR
+
+3. **Soil carbon pool dynamics, microbial community diversity and pineapple (Ananas comosus) productivity response to partial organic substitution strategies: A four-year study** (2025)
    3 citations · Soil Carbon
-
-3. **Dynamics and Drivers of Soil Organic Carbon Sequestration by Cropland Afforestation: A Global Meta‐Analysis** (2025)
-   2 citations · General CDR
 
 ## External Profiles
 

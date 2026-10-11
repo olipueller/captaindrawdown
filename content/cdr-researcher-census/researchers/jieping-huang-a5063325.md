@@ -1,7 +1,7 @@
 ---
 title: "Jieping Huang"
 description: "Jieping Huang is a Mid-career General CDR researcher at Beijing Institute of Technology in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.650555
+date: 2026-10-11T02:32:59.669700
 url: "/cdr-researcher-census/researchers/jieping-huang-a5063325/"
 layout: "researcher"
 hiddenInHomeList: true

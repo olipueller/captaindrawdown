@@ -1,7 +1,7 @@
 ---
 title: "Arun Jyoti Nath"
 description: "Arun Jyoti Nath is a Senior Soil Carbon researcher at Assam University in IN. With 237 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.053642
+date: 2026-10-11T02:32:59.057853
 url: "/cdr-researcher-census/researchers/arun-jyoti-nath-a5037172/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Degraded land rehabilitation through agroforestry in India: Achievements, current understanding, and future prospectives** (2023)
-   125 citations · Soil Carbon
+   127 citations · Soil Carbon
 
 2. **Quantifying Tree Diversity, Carbon Stocks, and Sequestration Potential for Diverse Land Uses in Northeast India** (2021)
-   73 citations · General CDR
+   75 citations · General CDR
 
 3. **Threats to inland wetlands and uncertainty around global soil carbon stocks and sequestration rates** (2024)
    16 citations · Soil Carbon
@@ -66,19 +66,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    14 citations · Soil Carbon
 
 6. **Biodiversity and Ecosystems Services of the Agroforestry Systems of the Himalayan Region: An Overview** (2023)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
-7. **Carbon Farming with Bamboos in India: Opportunities and Challenges** (2022)
-   5 citations · General CDR
+7. **Prioritizing Tree-Based Systems for Optimizing Carbon Sink in the Indian Sub-Himalayan Region** (2023)
+   9 citations
 
-8. **Prioritizing Tree Based Land Management Options for Optimizing Carbon Sink in the Indian sub-Himalayan Region** (2023)
+8. **Carbon Farming with Bamboos in India: Opportunities and Challenges** (2022)
+   6 citations · General CDR
+
+9. **Prioritizing Tree Based Land Management Options for Optimizing Carbon Sink in the Indian sub-Himalayan Region** (2023)
    4 citations · General CDR
 
-9. **Significance of land management practices under haskap orchards to mitigate the degradations of soil organic carbon stocks and soil health because of land use changes from forest and grassland** (2025)
-   3 citations · Soil Carbon
-
-10. **Biochar-Mediated Soil Amendment for Sustainable Agriculture** (2025)
-   1 citations · Biochar
+10. **Land use change affects net ecosystem production in the Eastern Indian Himalayan region** (2025)
+   3 citations
 
 ## External Profiles
 

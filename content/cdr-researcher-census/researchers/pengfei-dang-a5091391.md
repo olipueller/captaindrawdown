@@ -1,7 +1,7 @@
 ---
 title: "Pengfei Dang"
 description: "Pengfei Dang is a Mid-career Soil Carbon researcher at Agriculture and Forestry University in NP. With 39 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.178122
+date: 2026-10-11T02:32:59.182176
 url: "/cdr-researcher-census/researchers/pengfei-dang-a5091391/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The effects of straw return on soil bacterial diversity and functional profiles: A meta-analysis** (2024)
-   124 citations · Soil Carbon
+   131 citations · Soil Carbon
 
 2. **Effect on greenhouse gas emissions (CH4 and N2O) of straw mulching or its incorporation in farmland ecosystems in China** (2024)
-   44 citations · Soil Carbon
+   46 citations · Soil Carbon
 
 3. **Characteristics of Changes to <scp>POC</scp> and <scp>MAOC</scp> After Straw Returning in China: A Meta‐Analysis** (2025)
-   18 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 4. **Effects of straw returning depth on soil organic carbon sequestration and crop yield in China: A meta-analysis** (2025)
-   17 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 5. **Decreased carbon footprint and increased grain yield under ridge–furrow plastic film mulch with ditch-buried straw returning: A sustainable option for spring maize production in China** (2022)
    16 citations · Soil Carbon

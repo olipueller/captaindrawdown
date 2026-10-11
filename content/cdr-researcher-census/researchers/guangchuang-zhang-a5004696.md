@@ -1,7 +1,7 @@
 ---
 title: "Guangchuang Zhang"
 description: "Guangchuang Zhang is a Mid-career Soil Carbon researcher at Southern University of Science and Technology in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.577965
+date: 2026-10-11T02:32:59.593658
 url: "/cdr-researcher-census/researchers/guangchuang-zhang-a5004696/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The Grain-for-Green project offsets warming-induced soil organic carbon loss and increases soil carbon stock in Chinese Loess Plateau** (2022)
-   74 citations · Soil Carbon
+   75 citations · Soil Carbon
 
 2. **Assessing and predicting hydro-biogeochemical dynamics in the Weihe River basin in a shifting climate** (2025)
    5 citations
 
 3. **A coupled Hydro–Biogeochemical framework for evaluating lateral loss of soil organic carbon under land-use change at the basin scale** (2026)
    1 citations · Soil Carbon
+
+4. **Divergent soil carbon gains from cropland and grassland afforestation in China** (2026)
+   0 citations
 
 ## External Profiles
 

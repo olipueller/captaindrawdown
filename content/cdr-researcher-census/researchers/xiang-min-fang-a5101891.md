@@ -1,7 +1,7 @@
 ---
 title: "Xiang-Min Fang"
 description: "Xiang-Min Fang is a Senior Soil Carbon researcher at Jiangxi Academy of Forestry in CN. With 94 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.115555
+date: 2026-10-11T02:32:59.120192
 url: "/cdr-researcher-census/researchers/xiang-min-fang-a5101891/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,18 +57,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · Soil Carbon
 
 3. **The effects of vegetation type on ecosystem carbon storage and distribution in subtropical plantations** (2023)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 4. **Determining Dominant Factors of Vegetation Change with Machine Learning and Multisource Data in the Ganjiang River Basin, China** (2025)
-   3 citations
+   4 citations
 
 5. **Aggregate-associated soil organic carbon fractions in sub-tropical soil undergoing vegetative restoration** (2022)
    3 citations
 
-6. **The response of plant-derived lignin phenols accumulation to nutrient addition depends on soil depth in a subtropical plantation** (2025)
-   1 citations · Soil Carbon
+6. **Nutrient enrichment weakens the positive feedback of soil organic carbon decomposition to short-term warming in subtropical forests** (2025)
+   2 citations · Soil Carbon
 
-7. **Nutrient enrichment weakens the positive feedback of soil organic carbon decomposition to short-term warming in subtropical forests** (2025)
+7. **The response of plant-derived lignin phenols accumulation to nutrient addition depends on soil depth in a subtropical plantation** (2025)
    1 citations · Soil Carbon
 
 ## External Profiles

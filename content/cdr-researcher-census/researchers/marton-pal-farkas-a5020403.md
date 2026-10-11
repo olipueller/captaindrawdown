@@ -1,7 +1,7 @@
 ---
 title: "Márton Pál Farkas"
 description: "Márton Pál Farkas is a Mid-career DAC researcher at GFZ Helmholtz Centre for Geosciences in DE. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.783258
+date: 2026-10-11T02:32:59.807325
 url: "/cdr-researcher-census/researchers/marton-pal-farkas-a5020403/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,9 +51,12 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Developing a preliminary site selection method for direct air capture and CO2 storage technology with a case study in the North Germany** (2025)
-   5 citations · DAC
+   6 citations · DAC
 
-2. **Integrating vision transformers with multi-criteria analysis for direct air capture and CO2 storage (DACCS) siting** (2026)
+2. **Integrating vision transformers with multi-criteria analysis for direct air capture and CO** (2026)
+   0 citations · DAC
+
+3. **Integrating vision transformers with multi-criteria analysis for direct air capture and CO2 storage (DACCS) siting** (2026)
    0 citations · DAC
 
 ## External Profiles

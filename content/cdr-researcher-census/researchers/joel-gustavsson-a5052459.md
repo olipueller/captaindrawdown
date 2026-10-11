@@ -1,7 +1,7 @@
 ---
 title: "Joel Gustavsson"
 description: "Joel Gustavsson is a Senior BECCS researcher. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.015590
+date: 2026-10-11T02:33:00.046339
 url: "/cdr-researcher-census/researchers/joel-gustavsson-a5052459/"
 layout: "researcher"
 hiddenInHomeList: true

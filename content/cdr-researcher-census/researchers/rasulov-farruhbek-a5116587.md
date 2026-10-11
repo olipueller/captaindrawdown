@@ -1,7 +1,7 @@
 ---
 title: "Rasulov Farruhbek"
 description: "Rasulov Farruhbek is an Early-career Biochar researcher at Andijan State Medical Institute in UZ. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.882668
+date: 2026-10-11T02:32:59.909893
 url: "/cdr-researcher-census/researchers/rasulov-farruhbek-a5116587/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The role of biochar in enhancing soil health &amp; interactions with rhizosphere properties and enzyme activities in organic fertilizer substitution** (2025)
-   96 citations · Biochar
+   107 citations · Biochar
 
 ## External Profiles
 

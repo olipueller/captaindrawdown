@@ -1,7 +1,7 @@
 ---
 title: "Efe Jeffery Isukuru"
 description: "Efe Jeffery Isukuru is a Mid-career Soil Carbon researcher at Texas Tech University in US. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.787343
+date: 2026-10-11T02:32:59.811266
 url: "/cdr-researcher-census/researchers/efe-jeffery-isukuru-a5092351/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Potentials of bamboo and its ecological benefits in Nigeria** (2023)
-   49 citations · General CDR
+   51 citations · General CDR
 
 ## External Profiles
 

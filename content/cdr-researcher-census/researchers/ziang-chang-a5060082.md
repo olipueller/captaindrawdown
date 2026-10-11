@@ -1,7 +1,7 @@
 ---
 title: "Ziang Chang"
 description: "Ziang Chang is a Mid-career Biochar researcher at University of Alberta in CA. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.194608
+date: 2026-10-11T02:33:00.224625
 url: "/cdr-researcher-census/researchers/ziang-chang-a5060082/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **High-efficiency electrocatalytic degradation of recalcitrant organics in real oil sands process water using engineered biochar-reduced graphene oxide-polyaniline composites electrode** (2025)
-   18 citations · Biochar
+   20 citations · Biochar
 
 ## External Profiles
 

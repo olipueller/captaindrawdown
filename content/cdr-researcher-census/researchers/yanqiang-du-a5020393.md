@@ -1,7 +1,7 @@
 ---
 title: "Yanqiang Du"
 description: "Yanqiang Du is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.840921
+date: 2026-10-11T02:32:59.866752
 url: "/cdr-researcher-census/researchers/yanqiang-du-a5020393/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A Comprehensive Assessment of Rice Straw Returning in China Based on Life Cycle Assessment Method: Implications on Soil, Crops, and Environment** (2024)
-   16 citations · General CDR
+   17 citations · General CDR
 
 ## External Profiles
 

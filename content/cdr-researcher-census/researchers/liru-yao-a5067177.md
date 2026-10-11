@@ -1,7 +1,7 @@
 ---
 title: "Liru Yao"
 description: "Liru Yao is a Mid-career Biochar researcher at Anshan Hospital in CN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.142629
+date: 2026-10-11T02:33:00.172882
 url: "/cdr-researcher-census/researchers/liru-yao-a5067177/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A synthesis of soil organic carbon mineralization in response to biochar amendment** (2022)
-   40 citations · Biochar
+   42 citations · Biochar
 
 ## External Profiles
 

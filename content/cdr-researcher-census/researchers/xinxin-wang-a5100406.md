@@ -1,7 +1,7 @@
 ---
 title: "Xinxin Wang"
 description: "Xinxin Wang is a Senior Soil Carbon researcher at Guiyang Medical University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.537760
+date: 2026-10-11T02:32:59.552697
 url: "/cdr-researcher-census/researchers/xinxin-wang-a5100406/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Tradeoffs of fungal and bacterial residues mediate soil carbon dynamics under persistent drought in subtropical evergreen forests** (2022)
-   22 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 ## External Profiles
 

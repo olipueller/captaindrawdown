@@ -1,7 +1,7 @@
 ---
 title: "Pavlos Tziourrou"
 description: "Pavlos Tziourrou is a Mid-career Soil Carbon researcher at University of Patras in GR. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.060872
+date: 2026-10-11T02:33:00.090827
 url: "/cdr-researcher-census/researchers/pavlos-tziourrou-a5009313/"
 layout: "researcher"
 hiddenInHomeList: true

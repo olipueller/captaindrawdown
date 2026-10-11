@@ -1,7 +1,7 @@
 ---
 title: "Helen Gurney‐Smith"
 description: "Helen Gurney‐Smith is a Senior Ocean CDR researcher at Fisheries and Oceans Canada in CA. With 41 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.232351
+date: 2026-10-11T02:32:59.235332
 url: "/cdr-researcher-census/researchers/helen-gurneysmith-a5034960/"
 layout: "researcher"
 hiddenInHomeList: true

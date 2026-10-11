@@ -1,7 +1,7 @@
 ---
 title: "Joaquín Ortiz"
 description: "Joaquín Ortiz is a Mid-career Ocean CDR researcher at Universidad de Las Palmas de Gran Canaria in ES. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.800122
+date: 2026-10-11T02:32:59.824335
 url: "/cdr-researcher-census/researchers/joaquin-ortiz-a5011197/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Effect of Intensity and Mode of Artificial Upwelling on Particle Flux and Carbon Export** (2021)
-   42 citations · General CDR
+   43 citations · General CDR
 
 2. **Assessing the impact of CO <sub>2</sub> -equilibrated ocean alkalinity enhancement on microbial metabolic rates in an oligotrophic system** (2024)
-   22 citations · Ocean CDR
+   25 citations · Ocean CDR
 
 3. **Counteracting effects of nutrient composition (Si:N) on export flux under artificial upwelling** (2023)
    6 citations · Ocean CDR

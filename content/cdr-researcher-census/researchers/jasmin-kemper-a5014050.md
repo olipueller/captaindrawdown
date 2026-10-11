@@ -1,7 +1,7 @@
 ---
 title: "Jasmin Kemper"
 description: "Jasmin Kemper is a Senior General CDR researcher at Hochschule für Angewandte Wissenschaften Kiel in DE. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.047584
+date: 2026-10-11T02:32:59.051298
 url: "/cdr-researcher-census/researchers/jasmin-kemper-a5014050/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Exploring Site‐Specific Carbon Dioxide Removal Options With Storage or Sequestration in the Marine Environment – The 10 Mt CO<sub>2</sub> yr<sup>−1</sup> Removal Challenge for Germany** (2025)
-   8 citations · General CDR
+   9 citations · General CDR
 
 2. **Carbon Dioxide Removal (CDR) Workshop, Bergen, Norway, 28th June 2022** (2022)
    0 citations · General CDR

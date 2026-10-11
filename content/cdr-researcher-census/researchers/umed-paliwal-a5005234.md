@@ -1,7 +1,7 @@
 ---
 title: "Umed Paliwal"
 description: "Umed Paliwal is a Mid-career DAC researcher at University of California, Berkeley in US. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.800217
+date: 2026-10-11T02:32:59.824436
 url: "/cdr-researcher-census/researchers/umed-paliwal-a5005234/"
 layout: "researcher"
 hiddenInHomeList: true

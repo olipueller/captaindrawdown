@@ -1,7 +1,7 @@
 ---
 title: "Lijie Pu"
 description: "Lijie Pu is a Senior Soil Carbon researcher at Ministry of Ecology and Environment in CN. With 105 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.190288
+date: 2026-10-11T02:32:59.194334
 url: "/cdr-researcher-census/researchers/lijie-pu-a5100725/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    18 citations · General CDR
 
 2. **Influences of vegetation distribution on soil organic carbon accumulation and stability in a coastal wetland, Southeast China** (2026)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 3. **MgO-modified biochar for the removal of dissolved humus from water and its potential application as a fertilizer** (2024)
-   3 citations · Biochar
+   4 citations · Biochar
 
 4. **Impact of Coastal Beach Reclamation on Seasonal Greenhouse Gas Emissions: A Study of Diversified Saline–Alkaline Land Use Patterns** (2025)
    2 citations

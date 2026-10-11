@@ -1,7 +1,7 @@
 ---
 title: "Ingred Suellen Carvalho Carregosa"
 description: "Ingred Suellen Carvalho Carregosa is a Mid-career BECCS researcher at Universidade Federal de Sergipe in BR. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.737370
+date: 2026-10-11T02:32:59.759426
 url: "/cdr-researcher-census/researchers/ingred-suellen-carvalho-carregosa-a5085364/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Thermochemical conversion of aquatic weed biomass in a rotary kiln reactor for production of bio-based derivatives** (2023)
-   19 citations · BECCS
+   22 citations · BECCS
 
 2. **Thermovalorization of acerola industrial waste by pyrolysis in a continuous rotary kiln reactor** (2021)
    19 citations · Biochar

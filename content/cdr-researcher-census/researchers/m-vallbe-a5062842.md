@@ -1,7 +1,7 @@
 ---
 title: "M. Vallbé"
 description: "M. Vallbé is a Senior Soil Carbon researcher at Universidad Técnica Particular de Loja in EC. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.907561
+date: 2026-10-11T02:32:59.937090
 url: "/cdr-researcher-census/researchers/m-vallbe-a5062842/"
 layout: "researcher"
 hiddenInHomeList: true

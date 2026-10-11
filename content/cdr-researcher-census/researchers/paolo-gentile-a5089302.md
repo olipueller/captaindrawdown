@@ -1,7 +1,7 @@
 ---
 title: "Paolo Gentile"
 description: "Paolo Gentile is a Senior Ocean CDR researcher at Università degli Studi di Milano-Bicocca in IT. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.521339
+date: 2026-10-11T02:32:59.535275
 url: "/cdr-researcher-census/researchers/paolo-gentile-a5089302/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Pablo Serret"
 description: "Pablo Serret is a Senior Ocean CDR researcher at Universidad de Vigo in ES. With 80 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.130144
+date: 2026-10-11T02:32:59.134982
 url: "/cdr-researcher-census/researchers/pablo-serret-a5018116/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,10 +50,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 ## Top CDR Publications
 
-1. **Ocean liming in eutrophic vs. ultraoligotrophic environments and the response of algal calcifiers** (2024)
-   1 citations · General CDR
+1. **The impact of ocean liming on phytoplankton size-structure and the balance of photosynthesis and respiration in two contrasting environments** (2024)
+   2 citations · General CDR
 
-2. **The impact of ocean liming on phytoplankton size-structure and the balance of photosynthesis and respiration in two contrasting environments** (2024)
+2. **Ocean liming in eutrophic vs. ultraoligotrophic environments and the response of algal calcifiers** (2024)
    1 citations · General CDR
 
 3. **Ocean liming in the oligotrophic Eastern Mediterranean: impact on the planktonic microbial food web** (2024)

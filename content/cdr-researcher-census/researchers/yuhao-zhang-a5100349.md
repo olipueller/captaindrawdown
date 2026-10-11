@@ -1,7 +1,7 @@
 ---
 title: "Yuhao Zhang"
 description: "Yuhao Zhang is a Mid-career Soil Carbon researcher at Chongqing University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.085550
+date: 2026-10-11T02:33:00.115910
 url: "/cdr-researcher-census/researchers/yuhao-zhang-a5100349/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The influence of grazing intensity on soil organic carbon storage in grassland of China: A meta-analysis** (2024)
-   30 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Phillip Williamson"
 description: "Phillip Williamson is an Eminent Ocean CDR researcher at Natural Environment Research Council in GB. With 151 publications and an h-index of 45, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.041376
+date: 2026-10-11T02:32:59.044578
 url: "/cdr-researcher-census/researchers/phillip-williamson-a5039444/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,19 +54,19 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    162 citations · General CDR
 
 2. **The Potential for Ocean-Based Climate Action: Negative Emissions Technologies and Beyond** (2021)
-   144 citations · General CDR
+   141 citations · General CDR
 
 3. **Implementation of marine CO2 removal for climate mitigation: The challenges of additionality, predictability, and governability** (2024)
-   24 citations · General CDR
+   26 citations · General CDR
 
 4. **Limited understanding of basic ocean processes is hindering progress in marine carbon dioxide removal** (2024)
    21 citations · General CDR
 
 5. **Feasibility of Using Biologically-based Processes in the Open Ocean and Coastal Seas for Atmospheric CO2 Removal** (2022)
-   10 citations · General CDR
+   11 citations · General CDR
 
 6. **Scientific evidence does not support oyster farming as a marine carbon dioxide removal strategy for climate mitigation** (2026)
-   3 citations · Ocean CDR
+   4 citations · Ocean CDR
 
 7. **Natural carbon uptake by ocean biology will not deliver credible carbon credits** (2025)
    2 citations · General CDR

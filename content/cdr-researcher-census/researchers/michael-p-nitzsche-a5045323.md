@@ -1,7 +1,7 @@
 ---
 title: "Michael P. Nitzsche"
 description: "Michael P. Nitzsche is a Mid-career Ocean CDR researcher at Moscow Institute of Thermal Technology in RU. With 30 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.582693
+date: 2026-10-11T02:32:59.598976
 url: "/cdr-researcher-census/researchers/michael-p-nitzsche-a5045323/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Redox-Mediated pH Swing Systems for Electrochemical Carbon Capture** (2023)
-   57 citations
+   59 citations
 
 2. **Thermodynamics of Electrochemical Marine Inorganic Carbon Removal** (2024)
    4 citations · DAC

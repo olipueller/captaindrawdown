@@ -1,7 +1,7 @@
 ---
 title: "Kate Scott"
 description: "Kate Scott is a Senior General CDR researcher at The University of Sydney in AU. With 60 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.077967
+date: 2026-10-11T02:32:59.082785
 url: "/cdr-researcher-census/researchers/kate-scott-a5047280/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Energy demand reduction options for meeting national zero-emission targets in the United Kingdom** (2022)
-   190 citations · General CDR
+   191 citations · General CDR
 
 2. **Demand vs supply-side approaches to mitigation: What final energy demand assumptions are made to meet 1.5 and 2 °C targets?** (2021)
-   27 citations · General CDR
+   29 citations · General CDR
 
 3. **Energy demand reduction options for meeting national zero emission targets** (2022)
    2 citations · General CDR

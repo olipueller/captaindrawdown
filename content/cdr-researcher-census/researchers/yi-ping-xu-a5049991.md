@@ -1,7 +1,7 @@
 ---
 title: "Yi-Ping Xu"
 description: "Yi-Ping Xu is an Early-career Soil Carbon researcher at Shandong Academy of Agricultural Sciences in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.700832
+date: 2026-10-11T02:32:59.720969
 url: "/cdr-researcher-census/researchers/yi-ping-xu-a5049991/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of soil warming and straw return on soil organic matter and greenhouse gas fluxes in winter wheat seasons in the North China Plain** (2022)
-   85 citations · Soil Carbon
+   87 citations · Soil Carbon
 
 ## External Profiles
 

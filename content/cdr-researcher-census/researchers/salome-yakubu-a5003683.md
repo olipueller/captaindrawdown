@@ -1,7 +1,7 @@
 ---
 title: "Salome Yakubu"
 description: "Salome Yakubu is a Mid-career Biochar researcher at Henan University of Technology in CN. With 18 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.262449
+date: 2026-10-11T02:32:59.266529
 url: "/cdr-researcher-census/researchers/salome-yakubu-a5003683/"
 layout: "researcher"
 hiddenInHomeList: true

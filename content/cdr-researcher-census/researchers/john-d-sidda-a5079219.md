@@ -1,7 +1,7 @@
 ---
 title: "John D. Sidda"
 description: "John D. Sidda is a Mid-career Soil Carbon researcher at University of Oxford in GB. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.711858
+date: 2026-10-11T02:32:59.732509
 url: "/cdr-researcher-census/researchers/john-d-sidda-a5079219/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Trehalose-6-phosphate signaling regulates lateral root formation in Arabidopsis thaliana** (2023)
-   58 citations · Soil Carbon
+   60 citations · Soil Carbon
 
 ## External Profiles
 

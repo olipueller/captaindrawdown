@@ -1,7 +1,7 @@
 ---
 title: "Yanhui Yuan"
 description: "Yanhui Yuan is a Mid-career DAC researcher at Bridgewater College in US. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.197465
+date: 2026-10-11T02:33:00.227718
 url: "/cdr-researcher-census/researchers/yanhui-yuan-a5088605/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Investigation of Moisture Swing Adsorbents for Direct Air Capture by Dynamic Breakthrough Studies** (2025)
-   38 citations
+   41 citations
 
 2. **Greenhouse Gas Impact of Algal Bio-Crude Production for a Range of CO2 Supply Scenarios** (2021)
-   13 citations
+   14 citations
 
 3. **Global evaluation of economics of microalgae-based biofuel supply chain using GIS-based framework** (2022)
    10 citations · BECCS

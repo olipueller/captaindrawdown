@@ -1,7 +1,7 @@
 ---
 title: "Shihao Tian"
-description: "Shihao Tian is a Mid-career Biochar researcher at Cornell University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.592798
+description: "Shihao Tian is a Mid-career Biochar researcher at State Key Laboratory of Analytical Chemistry for Life Science in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:32:59.761455
 url: "/cdr-researcher-census/researchers/shihao-tian-a5038263/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/shihao-tian-a5038263/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Cornell University"
+    "name": "State Key Laboratory of Analytical Chemistry for Life Science"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-2390-7997",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Shihao Tian**  
-Cornell University · 🇨🇳 CN
+State Key Laboratory of Analytical Chemistry for Life Science · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -42,10 +42,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 383 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| h-index | 6 |
+| Citations | 289 |
+| Publications | 11 |
+| CDR Focus | 9.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

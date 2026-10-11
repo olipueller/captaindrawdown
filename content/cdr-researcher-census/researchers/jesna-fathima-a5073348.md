@@ -1,7 +1,7 @@
 ---
 title: "Jesna Fathima"
 description: "Jesna Fathima is an Early-career General CDR researcher at Memorial University of Newfoundland in CA. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.324222
+date: 2026-10-11T02:33:00.356917
 url: "/cdr-researcher-census/researchers/jesna-fathima-a5073348/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Sustainable agriculture through environmental adaptation engineering for waste management** (2025)
-   21 citations · General CDR
+   24 citations · General CDR
 
 ## External Profiles
 

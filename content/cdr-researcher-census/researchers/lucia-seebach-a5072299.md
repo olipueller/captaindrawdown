@@ -1,7 +1,7 @@
 ---
 title: "Lucia Seebach"
 description: "Lucia Seebach is a Mid-career Soil Carbon researcher at Forest Research Institute in BG. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.739176
+date: 2026-10-11T02:32:59.761288
 url: "/cdr-researcher-census/researchers/lucia-seebach-a5072299/"
 layout: "researcher"
 hiddenInHomeList: true

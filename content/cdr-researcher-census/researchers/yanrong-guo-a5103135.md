@@ -1,7 +1,7 @@
 ---
 title: "Yanrong Guo"
 description: "Yanrong Guo is a Senior Soil Carbon researcher at Inner Mongolia Agricultural University in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.735031
+date: 2026-10-11T02:32:59.756866
 url: "/cdr-researcher-census/researchers/yanrong-guo-a5103135/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A comprehensive review of natural nitrogen deposition and artificial addition in boreal forests: effects on carbon sequestration and the soil carbon cycle under changing climatic conditions** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

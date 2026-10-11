@@ -1,7 +1,7 @@
 ---
 title: "Dengnan Luo"
 description: "Dengnan Luo is an Early-career Soil Carbon researcher at Beijing Normal University in CN. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.832259
+date: 2026-10-11T02:32:59.858551
 url: "/cdr-researcher-census/researchers/dengnan-luo-a5019429/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Grazing exclusion promotes soil organic carbon accumulation in Tibetan grasslands with lower temperatures** (2024)
-   14 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 ## External Profiles
 

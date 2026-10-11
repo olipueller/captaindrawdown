@@ -1,7 +1,7 @@
 ---
 title: "Uday Shashikumar"
-description: "Uday Shashikumar is a Mid-career Biochar researcher at Kaohsiung Medical University in TW. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.979173
+description: "Uday Shashikumar is a Mid-career Biochar researcher at Kaohsiung Medical University in TW. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:32:59.934748
 url: "/cdr-researcher-census/researchers/uday-shashikumar-a5072682/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 197 |
+| h-index | 9 |
+| Citations | 216 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Growing |

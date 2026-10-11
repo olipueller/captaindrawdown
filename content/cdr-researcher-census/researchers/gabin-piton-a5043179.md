@@ -1,7 +1,7 @@
 ---
 title: "Gabin Piton"
 description: "Gabin Piton is a Mid-career Soil Carbon researcher at Centre de Coopération Internationale en Recherche Agronomique pour le Développement in FR. With 35 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.434062
+date: 2026-10-11T02:32:59.444335
 url: "/cdr-researcher-census/researchers/gabin-piton-a5043179/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon and nutrient colimitations control the microbial response to fresh organic carbon inputs in soil at different depths** (2023)
-   25 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 2. **Carbon sequestration-related traits of spontaneous flora under agroecological intensification in European Cropping Systems** (2026)
    0 citations · Soil Carbon

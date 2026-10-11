@@ -1,7 +1,7 @@
 ---
 title: "Lauri Vesa"
 description: "Lauri Vesa is a Senior Soil Carbon researcher at Food and Agriculture Organization of the United Nations in IT. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.603975
+date: 2026-10-11T02:32:59.621480
 url: "/cdr-researcher-census/researchers/lauri-vesa-a5004382/"
 layout: "researcher"
 hiddenInHomeList: true

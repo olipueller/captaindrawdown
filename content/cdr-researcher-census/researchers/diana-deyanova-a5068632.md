@@ -1,7 +1,7 @@
 ---
 title: "Diana Deyanova"
 description: "Diana Deyanova is a Mid-career Ocean CDR researcher at University of Gothenburg in SE. With 36 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.310083
+date: 2026-10-11T02:32:59.315459
 url: "/cdr-researcher-census/researchers/diana-deyanova-a5068632/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Dynamics and fate of blue carbon in a mangrove–seagrass seascape: influence of landscape configuration and land-use change** (2021)
-   63 citations · Ocean CDR
+   64 citations · Ocean CDR
 
 2. **In-situ measurements reveal alkalinity release from cold-temperate seagrass meadows** (2025)
    3 citations · General CDR

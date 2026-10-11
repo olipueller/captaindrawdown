@@ -1,7 +1,7 @@
 ---
 title: "Zhijing Yu"
 description: "Zhijing Yu is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.022103
+date: 2026-10-11T02:33:00.053460
 url: "/cdr-researcher-census/researchers/zhijing-yu-a5082641/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Recalcitrant organic carbon plays a key role in soil carbon sequestration along a long-term vegetation succession on the Loess Plateau** (2023)
-   83 citations · Soil Carbon
+   85 citations · Soil Carbon
 
 2. **Mixed plantations have more soil carbon sequestration benefits than pure plantations in China** (2022)
-   56 citations · Soil Carbon
+   57 citations · Soil Carbon
 
 3. **Vegetation restoration in the coarse‐textured soil area is more conducive to the accumulation of Fe‐associated C** (2024)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 4. **Effects of Vegetation Types on Soil Organic Carbon Stocks in the Mu Us Sandy Land** (2026)
    0 citations · Soil Carbon

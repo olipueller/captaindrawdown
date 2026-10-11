@@ -1,7 +1,7 @@
 ---
 title: "Emily Guest"
 description: "Emily Guest is a Mid-career Soil Carbon researcher at Cranfield University in GB. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.105347
+date: 2026-10-11T02:33:00.135723
 url: "/cdr-researcher-census/researchers/emily-guest-a5056595/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil macroaggregation drives sequestration of organic carbon and nitrogen with three-year grass-clover leys in arable rotations** (2022)
-   42 citations · Soil Carbon
+   40 citations · Soil Carbon
 
 ## External Profiles
 

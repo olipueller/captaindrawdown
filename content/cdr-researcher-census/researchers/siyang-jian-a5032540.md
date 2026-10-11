@@ -1,7 +1,7 @@
 ---
 title: "Siyang Jian"
 description: "Siyang Jian is a Mid-career Soil Carbon researcher at University of Oklahoma in US. With 29 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.137925
+date: 2026-10-11T02:32:59.142417
 url: "/cdr-researcher-census/researchers/siyang-jian-a5032540/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Soil extracellular oxidases mediated nitrogen fertilization effects on soil organic carbon sequestration in bioenergy croplands** (2021)
-   20 citations · Soil Carbon
+1. **Diversified cropping systems with limited carbon accrual but increased nitrogen supply** (2025)
+   21 citations · Soil Carbon
 
-2. **Diversified cropping systems with limited carbon accrual but increased nitrogen supply** (2025)
-   19 citations · Soil Carbon
+2. **Soil extracellular oxidases mediated nitrogen fertilization effects on soil organic carbon sequestration in bioenergy croplands** (2021)
+   20 citations · Soil Carbon
 
 ## External Profiles
 

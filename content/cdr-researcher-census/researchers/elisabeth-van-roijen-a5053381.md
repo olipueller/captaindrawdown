@@ -1,7 +1,7 @@
 ---
 title: "Elisabeth Van Roijen"
 description: "Elisabeth Van Roijen is a Mid-career General CDR researcher at University of California System in US. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.637755
+date: 2026-10-11T02:32:59.656288
 url: "/cdr-researcher-census/researchers/elisabeth-van-roijen-a5053381/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Building materials could store more than 16 billion tonnes of CO <sub>2</sub> annually** (2025)
-   102 citations · General CDR
+   105 citations · General CDR
 
 2. **The climate benefits from cement carbonation are being overestimated** (2024)
-   95 citations · DAC
+   98 citations · DAC
 
 ## External Profiles
 

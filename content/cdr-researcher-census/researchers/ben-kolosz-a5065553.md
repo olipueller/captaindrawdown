@@ -1,7 +1,7 @@
 ---
 title: "Ben Kolosz"
 description: "Ben Kolosz is a Mid-career General CDR researcher at University of Hull in GB. With 28 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.376951
+date: 2026-10-11T02:32:59.384204
 url: "/cdr-researcher-census/researchers/ben-kolosz-a5065553/"
 layout: "researcher"
 hiddenInHomeList: true

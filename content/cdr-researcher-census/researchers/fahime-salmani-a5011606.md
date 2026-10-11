@@ -1,7 +1,7 @@
 ---
 title: "Fahime Salmani"
 description: "Fahime Salmani is a Mid-career General CDR researcher. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.959658
+date: 2026-10-11T02:32:59.990968
 url: "/cdr-researcher-census/researchers/fahime-salmani-a5011606/"
 layout: "researcher"
 hiddenInHomeList: true

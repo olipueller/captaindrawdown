@@ -1,7 +1,7 @@
 ---
 title: "Vincent J. Sieben"
 description: "Vincent J. Sieben is a Senior Ocean CDR researcher at Dalhousie University in CA. With 65 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.163726
+date: 2026-10-11T02:32:59.167848
 url: "/cdr-researcher-census/researchers/vincent-j-sieben-a5018994/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    53 citations · General CDR
 
 2. **Improving the efficiency of a lab-on-a-chip total alkalinity analyzer via Dean flow–driven mixing** (2026)
-   1 citations
+   2 citations
 
 3. **Lab-on-Chip Total Alkalinity Sensor for Highly Resolved, Efficient, and Long-Term Monitoring, Reporting, and Verification of Ocean Alkalinity Enhancement** (2024)
    1 citations · General CDR

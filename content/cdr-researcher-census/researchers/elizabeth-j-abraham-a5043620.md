@@ -1,7 +1,7 @@
 ---
 title: "Elizabeth J. Abraham"
 description: "Elizabeth J. Abraham is a Mid-career General CDR researcher. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.395553
+date: 2026-10-11T02:33:00.433831
 url: "/cdr-researcher-census/researchers/elizabeth-j-abraham-a5043620/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lucas Sens"
 description: "Lucas Sens is a Mid-career DAC researcher at Universität Hamburg in DE. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.456620
+date: 2026-10-11T02:32:59.467787
 url: "/cdr-researcher-census/researchers/lucas-sens-a5082152/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Synthetic natural gas as a green hydrogen carrier – Technical, economic and environmental assessment of several supply chain concepts** (2024)
-   18 citations · DAC
+   19 citations · DAC
 
 ## External Profiles
 

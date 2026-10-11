@@ -1,7 +1,7 @@
 ---
 title: "Madaline D. Young"
 description: "Madaline D. Young is a Mid-career Soil Carbon researcher at Wageningen University & Research in NL. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.375342
+date: 2026-10-11T02:32:59.382700
 url: "/cdr-researcher-census/researchers/madaline-d-young-a5045532/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Global variation in soil carbon sequestration potential through improved cropland management** (2021)
-   250 citations · General CDR
+   257 citations · General CDR
 
 2. **Impacts of agronomic measures on crop, soil, and environmental indicators: A review and synthesis of meta-analysis** (2021)
-   178 citations · Soil Carbon
+   181 citations · Soil Carbon
 
 ## External Profiles
 

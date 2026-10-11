@@ -1,7 +1,7 @@
 ---
 title: "José Juan Bolívar Caballero"
 description: "José Juan Bolívar Caballero is a Mid-career BECCS researcher. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.944594
+date: 2026-10-11T02:32:59.974706
 url: "/cdr-researcher-census/researchers/jose-juan-bolivar-caballero-a5033107/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Reforming processes for syngas production: A mini-review on the current status, challenges, and prospects for biomass conversion to fuels** (2022)
-   131 citations · BECCS
+   137 citations · BECCS
 
 ## External Profiles
 

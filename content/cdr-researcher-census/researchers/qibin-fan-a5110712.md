@@ -1,7 +1,7 @@
 ---
 title: "Qibin Fan"
 description: "Qibin Fan is a Mid-career DAC researcher at Tianjin University of Technology in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.724510
+date: 2026-10-11T02:32:59.745490
 url: "/cdr-researcher-census/researchers/qibin-fan-a5110712/"
 layout: "researcher"
 hiddenInHomeList: true

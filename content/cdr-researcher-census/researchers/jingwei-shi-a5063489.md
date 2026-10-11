@@ -1,7 +1,7 @@
 ---
 title: "Jingwei Shi"
 description: "Jingwei Shi is a Senior Soil Carbon researcher at South China Botanical Garden in CN. With 34 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.256480
+date: 2026-10-11T02:32:59.260244
 url: "/cdr-researcher-census/researchers/jingwei-shi-a5063489/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,31 +51,31 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon stabilization pathways in soil aggregates during long-term forest succession: Implications from δ13C signatures** (2023)
-   105 citations
+   107 citations
 
-2. **Recalcitrant organic carbon plays a key role in soil carbon sequestration along a long-term vegetation succession on the Loess Plateau** (2023)
-   83 citations · Soil Carbon
+2. **Soil Organic Carbon Increases With Decreasing Microbial Carbon Use Efficiency During Vegetation Restoration** (2024)
+   86 citations · Soil Carbon
 
-3. **Soil Organic Carbon Increases With Decreasing Microbial Carbon Use Efficiency During Vegetation Restoration** (2024)
-   81 citations · Soil Carbon
+3. **Recalcitrant organic carbon plays a key role in soil carbon sequestration along a long-term vegetation succession on the Loess Plateau** (2023)
+   85 citations · Soil Carbon
 
-4. **Deciphering microbial drivers of soil organic matter mineralization in surface and subsurface soil during long-term vegetation succession** (2024)
+4. **Inorganic Carbon Should Be Considered for Carbon Sequestration in Agricultural Soils** (2025)
    49 citations · Soil Carbon
 
-5. **Inorganic Carbon Should Be Considered for Carbon Sequestration in Agricultural Soils** (2025)
-   44 citations · Soil Carbon
+5. **Deciphering microbial drivers of soil organic matter mineralization in surface and subsurface soil during long-term vegetation succession** (2024)
+   49 citations · Soil Carbon
 
 6. **Mangrove restoration enhances blue carbon sequestration and its stability in a subtropical tidal wetland** (2025)
    14 citations · Ocean CDR
 
-7. **Nitrogen‐Fixing Woody Plants Sequester More Soil Mineral‐Associated Carbon and Lose Less Particulate Carbon Than Herbs Post Vegetation Restoration** (2026)
+7. **Microbial carbon use efficiency governs the accumulation of microbial-derived carbon in restored mangroves** (2026)
+   1 citations · Soil Carbon
+
+8. **Nitrogen‐Fixing Woody Plants Sequester More Soil Mineral‐Associated Carbon and Lose Less Particulate Carbon Than Herbs Post Vegetation Restoration** (2026)
    0 citations · Soil Carbon
 
-8. **Microbial carbon limitation shapes blue carbon quality during mangrove restoration** (2026)
+9. **Microbial carbon limitation shapes blue carbon quality during mangrove restoration** (2026)
    0 citations
-
-9. **Microbial carbon use efficiency governs the accumulation of microbial-derived carbon in restored mangroves** (2026)
-   0 citations · Soil Carbon
 
 10. **Dynamics and driving mechanisms of soil organic carbon sequestration in grasslands after grazing exclusion: A review.** (2024)
    0 citations · Soil Carbon

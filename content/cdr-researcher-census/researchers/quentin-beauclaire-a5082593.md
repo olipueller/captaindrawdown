@@ -1,7 +1,7 @@
 ---
 title: "Quentin Beauclaire"
 description: "Quentin Beauclaire is a Mid-career Soil Carbon researcher at University of Liège in BE. With 23 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.376250
+date: 2026-10-11T02:33:00.411636
 url: "/cdr-researcher-census/researchers/quentin-beauclaire-a5082593/"
 layout: "researcher"
 hiddenInHomeList: true

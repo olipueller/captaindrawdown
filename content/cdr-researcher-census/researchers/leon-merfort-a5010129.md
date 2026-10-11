@@ -1,7 +1,7 @@
 ---
 title: "Leon Merfort"
 description: "Leon Merfort is a Mid-career General CDR researcher at Leibniz Association in DE. With 51 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.242370
+date: 2026-10-11T02:32:59.246013
 url: "/cdr-researcher-census/researchers/leon-merfort-a5010129/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -60,24 +60,24 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    43 citations · General CDR
 
 4. **Separating CO2 emission from removal targets comes with limited cost impacts** (2025)
-   15 citations · General CDR
+   17 citations · General CDR
 
 5. **Separating CO2 emission from removal targets comes with limited cost impacts** (2024)
    1 citations
 
-6. **Distributional Impacts of 1.5 °C Overshoot Pathways: Food, Energy, and the Limits of Carbon Tax Revenue Recycling** (2026)
-   0 citations
+6. **Deliverable D1.2 from the EU Horizon Project RESCUE - Report on CDR portfolio climate neutrality scenarios with and without overshoot including sensitivity analysis, gridding and extensions** (2025)
+   0 citations · BECCS
 
-7. **Non-CO2 effects of carbon dioxide removal methods influence temperature response in overshoot scenarios** (2026)
-   0 citations · DAC
-
-8. **Assessing Earth system responses in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2026)
+7. **Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7** (2026)
    0 citations · General CDR
 
-9. **Biodiversity side effects of carbon-focused reforestation under Paris-aligned transformation pathways** (2026)
+8. **Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7** (2026)
    0 citations · General CDR
 
-10. **Assessing Earth system feedbacks in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2025)
+9. **Emulating an Integrated Assessment Model to Project Long-Term Emissions and Carbon Dioxide Removal Pathways to 2300** (2025)
+   0 citations · General CDR
+
+10. **Assessing Earth system responses in mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2026)
    0 citations · General CDR
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Shou Mei"
 description: "Shou Mei is a Mid-career Biochar researcher at Wuhan Textile University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.282176
+date: 2026-10-11T02:33:00.312720
 url: "/cdr-researcher-census/researchers/shou-mei-a5108905/"
 layout: "researcher"
 hiddenInHomeList: true

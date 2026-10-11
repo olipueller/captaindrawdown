@@ -1,7 +1,7 @@
 ---
 title: "Yaozu Wang"
 description: "Yaozu Wang is a Mid-career General CDR researcher at Shenyang Ligong University in CN. With 10 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.708404
+date: 2026-10-11T02:32:59.729007
 url: "/cdr-researcher-census/researchers/yaozu-wang-a5101443/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Mixed Diethanolamine and Polyethyleneimine with Enhanced CO<sub>2</sub> Capture Capacity from Air** (2023)
-   64 citations
+   67 citations
 
 2. **Mixed polyamines promotes CO2 adsorption from air** (2022)
-   45 citations
+   46 citations
 
 3. **Additives enhancing supported amines performance in CO<sub>2</sub> capture from air** (2023)
    33 citations
@@ -63,10 +63,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    29 citations · General CDR
 
 5. **Minimizing the effect of oxygen on supported polyamine for direct air capture** (2022)
-   27 citations
+   28 citations
 
 6. **Scalable Synthesis of Amine-Grafted Ultrafine Layered Double Hydroxide Nanosheets with Improved Carbon Dioxide Capture Capacity from Air** (2023)
-   16 citations
+   18 citations
 
 ## External Profiles
 

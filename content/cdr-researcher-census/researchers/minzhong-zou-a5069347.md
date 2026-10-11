@@ -1,7 +1,7 @@
 ---
 title: "Minzhong Zou"
 description: "Minzhong Zou is a Mid-career Soil Carbon researcher. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.705832
+date: 2026-10-11T02:32:59.726243
 url: "/cdr-researcher-census/researchers/minzhong-zou-a5069347/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -49,7 +49,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    10 citations · General CDR
 
 2. **Accelerated integrated watershed management enhances agricultural carbon sequestration and water use efficiency in an endorheic basin** (2023)
-   3 citations · General CDR
+   4 citations · General CDR
 
 ## External Profiles
 

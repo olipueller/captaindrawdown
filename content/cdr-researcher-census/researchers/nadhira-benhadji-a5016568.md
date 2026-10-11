@@ -1,7 +1,7 @@
 ---
 title: "Nadhira Benhadji"
 description: "Nadhira Benhadji is a Mid-career Biochar researcher at University of Szczecin in PL. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.397365
+date: 2026-10-11T02:33:00.435587
 url: "/cdr-researcher-census/researchers/nadhira-benhadji-a5016568/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar as a Multi-Action Substance Used to Improve Soil Properties in Horticultural and Agricultural Crops—A Review** (2024)
-   20 citations · Biochar
+   22 citations · Biochar
 
 ## External Profiles
 

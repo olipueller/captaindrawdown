@@ -1,7 +1,7 @@
 ---
 title: "Marcos Barra"
 description: "Marcos Barra is a Senior Soil Carbon researcher at Städtisches Klinikum Dessau in DE. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.382185
+date: 2026-10-11T02:32:59.389871
 url: "/cdr-researcher-census/researchers/marcos-barra-a5046197/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Back to the future? Conservative grassland management can preserve soil health in the changing landscapes of Uruguay** (2023)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 2. **Back to the future- Conservative grassland management for Anthropocene soils in the changed landscapes of Uruguay?** (2022)
    1 citations · Soil Carbon

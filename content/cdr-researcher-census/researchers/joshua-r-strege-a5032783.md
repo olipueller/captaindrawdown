@@ -1,7 +1,7 @@
 ---
 title: "Joshua R. Strege"
 description: "Joshua R. Strege is a Senior BECCS researcher at University of North Dakota in US. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.174838
+date: 2026-10-11T02:33:00.204984
 url: "/cdr-researcher-census/researchers/joshua-r-strege-a5032783/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,6 +48,9 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Integrated Renewable Combined Heat and Power for Ethanol** (2024)
+   0 citations · BECCS
+
+2. **Impact of BECCS on amine-based CO2 capture solvents in a pilot-scale combustion environment** (2022)
    0 citations · BECCS
 
 ## External Profiles

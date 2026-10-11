@@ -1,7 +1,7 @@
 ---
 title: "Naresh V. Thevathasan"
 description: "Naresh V. Thevathasan is a Senior Soil Carbon researcher at University of Guelph in CA. With 117 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.071922
+date: 2026-10-11T02:32:59.076583
 url: "/cdr-researcher-census/researchers/naresh-v-thevathasan-a5030583/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,30 +51,33 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic carbon enhancement in diverse temperate riparian buffer systems in comparison with adjacent agricultural soils** (2021)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
-2. **Functionality of methane cycling microbiome during methane flux hot moments from riparian buffer systems** (2023)
+2. **Allometric equations for estimating aboveground biomass carbon in five tree species grown in an intercropping agroforestry system in southern Ontario, Canada** (2024)
+   12 citations
+
+3. **Functionality of methane cycling microbiome during methane flux hot moments from riparian buffer systems** (2023)
    9 citations
 
-3. **The effect of land-use conversion from agriculture to perennial biomass crops and nitrogen fertilizer on soil organic carbon stock in southern Ontario, Canada** (2023)
-   6 citations · Soil Carbon
+4. **The effect of land-use conversion from agriculture to perennial biomass crops and nitrogen fertilizer on soil organic carbon stock in southern Ontario, Canada** (2023)
+   5 citations · Soil Carbon
 
-4. **Quantification of the Carbon Sequestration Potential of a 31-year-old Tree-based Intercropping System in Southern Ontario, Canada** (2022)
+5. **Quantification of the Carbon Sequestration Potential of a 31-year-old Tree-based Intercropping System in Southern Ontario, Canada** (2022)
    5 citations
 
-5. **Soil carbon dynamics in perennial biomass crops on marginally productive cropland in southern Canada** (2024)
+6. **Soil carbon dynamics in perennial biomass crops on marginally productive cropland in southern Canada** (2024)
    3 citations · Soil Carbon
 
-6. **Soil Organic Carbon Storage of Different Soil‐Sized Fractions in Perennial Bioenergy Crops on Marginally Productive Cropland in Southern Canada** (2025)
+7. **Soil Organic Carbon Storage of Different Soil‐Sized Fractions in Perennial Bioenergy Crops on Marginally Productive Cropland in Southern Canada** (2025)
    1 citations · BECCS
 
-7. **Soil organic carbon and <sup>13</sup>C changes when annual crops are replaced with perennial biomass crops in southwestern Ontario, Canada** (2024)
+8. **Soil organic carbon and <sup>13</sup>C changes when annual crops are replaced with perennial biomass crops in southwestern Ontario, Canada** (2024)
    1 citations · Soil Carbon
 
-8. **Allometric Equations for Estimating Above-Ground Biomass Carbon sequestration in Five Tree Species grown in an Intercropping Agroforestry System in Southern Ontario, Canada** (2023)
+9. **Allometric Equations for Estimating Above-Ground Biomass Carbon sequestration in Five Tree Species grown in an Intercropping Agroforestry System in Southern Ontario, Canada** (2023)
    1 citations · Soil Carbon
 
-9. **Evidence for the formation of recalcitrant carboxyl-rich alicyclic molecules (CRAM) in an organic soil profile** (2024)
+10. **Evidence for the formation of recalcitrant carboxyl-rich alicyclic molecules (CRAM) in an organic soil profile** (2024)
    0 citations · Soil Carbon
 
 ## External Profiles

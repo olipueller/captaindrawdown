@@ -1,7 +1,7 @@
 ---
 title: "Xiangyang Gui"
 description: "Xiangyang Gui is a Mid-career Soil Carbon researcher at Shanghai Jiao Tong University in CN. With 32 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.173882
+date: 2026-10-11T02:32:59.177995
 url: "/cdr-researcher-census/researchers/xiangyang-gui-a5071964/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biochar-amended soil can further sorb atmospheric CO2 for more carbon sequestration** (2025)
-   39 citations · Biochar
+   42 citations · Biochar
 
 2. **Life‐cycle carbon emissions and sequestration mechanisms under contrasting rice rotation systems** (2026)
    0 citations · Soil Carbon

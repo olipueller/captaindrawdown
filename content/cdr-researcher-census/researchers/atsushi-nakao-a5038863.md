@@ -1,7 +1,7 @@
 ---
 title: "Atsushi Nakao"
 description: "Atsushi Nakao is a Senior Enhanced Weathering researcher at Kyoto Prefectural University in JP. With 141 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.181082
+date: 2026-10-11T02:32:59.185143
 url: "/cdr-researcher-census/researchers/atsushi-nakao-a5038863/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,14 +50,14 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 ## Top CDR Publications
 
-1. **Controls on soil organic carbon across soil depths in tropical and temperate non-volcanic regions** (2025)
+1. **Enhanced CO2 removal and improved carbon budget by enhanced rock weathering: a field experiment in Hokkaido, Japan** (2025)
+   6 citations · Enhanced Weathering
+
+2. **Controls on soil organic carbon across soil depths in tropical and temperate non-volcanic regions** (2025)
    6 citations · Soil Carbon
 
-2. **Effects of long-term application of inorganic fertilizers and organic amendments on the turnover rates of fractionated soil organic carbon and their determining factors in paddy fields** (2024)
+3. **Effects of long-term application of inorganic fertilizers and organic amendments on the turnover rates of fractionated soil organic carbon and their determining factors in paddy fields** (2024)
    6 citations · Soil Carbon
-
-3. **Enhanced CO2 removal and improved carbon budget by enhanced rock weathering: a field experiment in Hokkaido, Japan** (2025)
-   5 citations · Enhanced Weathering
 
 4. **Effects of long-term application of inorganic fertilizer and organic amendments on the amounts of fractionated soil organic carbon and their determining factors in paddy fields** (2024)
    5 citations · Soil Carbon
@@ -66,16 +66,16 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    3 citations · Enhanced Weathering
 
 6. **Impact of basalt application on soil chemical properties and elemental uptake by paddy rice through enhanced rock weathering** (2025)
-   2 citations · Enhanced Weathering
+   3 citations · Enhanced Weathering
 
-7. **Soil physical properties and soil CO <sub>2</sub> dynamics at soybean field under basalt powder application** (2025)
+7. **Direct evidence for enhanced mineral weathering in cropland verified by quantitative X-ray powder diffraction** (2026)
    1 citations · Enhanced Weathering
 
-8. **Enhanced CO2 removal and improved carbon budget by enhanced rock weathering: A field experiment in Hokkaido, Japan** (2024)
-   1 citations
+8. **Soil physical properties and soil CO <sub>2</sub> dynamics at soybean field under basalt powder application** (2025)
+   1 citations · Enhanced Weathering
 
-9. **Direct evidence for enhanced mineral weathering in cropland verified by quantitative X-ray powder diffraction** (2026)
-   0 citations · Enhanced Weathering
+9. **Enhanced CO2 removal and improved carbon budget by enhanced rock weathering: A field experiment in Hokkaido, Japan** (2024)
+   1 citations
 
 10. **Enhanced Rock Weathering–Induced Carbon Dioxide Removal in Flooded Rice Paddies: Mineral-Based Monitoring from Field Experiments in Japan** (2026)
    0 citations · Enhanced Weathering

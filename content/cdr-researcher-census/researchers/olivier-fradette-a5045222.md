@@ -1,7 +1,7 @@
 ---
 title: "Olivier Fradette"
 description: "Olivier Fradette is a Mid-career General CDR researcher at Université du Québec à Chicoutimi in CA. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.396795
+date: 2026-10-11T02:33:00.435038
 url: "/cdr-researcher-census/researchers/olivier-fradette-a5045222/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Additional carbon sequestration potential of abandoned agricultural land afforestation in the boreal zone: A modelling approach** (2021)
-   36 citations
+   34 citations
 
 2. **Funding research using climate change mitigation: The case of the Carbone boréal research infrastructure** (2023)
    2 citations · General CDR

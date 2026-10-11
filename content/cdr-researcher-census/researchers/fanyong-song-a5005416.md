@@ -1,7 +1,7 @@
 ---
 title: "Fanyong Song"
 description: "Fanyong Song is a Senior Biochar researcher at Qilu University of Technology in CN. With 25 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.428567
+date: 2026-10-11T02:32:59.438708
 url: "/cdr-researcher-census/researchers/fanyong-song-a5005416/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Removal of ammonia nitrogen and phosphate from livestock wastewater by magnesite tailings modified biochar: performance and mechanisms** (2025)
-   4 citations · Biochar
+   5 citations · Biochar
 
 2. **Remove of Ammonia Nitrogen and Phosphate from Livestock Wastewater by Magnesite Tailings Modified Biochar: Performance and Mechanisms** (2025)
    0 citations · Biochar

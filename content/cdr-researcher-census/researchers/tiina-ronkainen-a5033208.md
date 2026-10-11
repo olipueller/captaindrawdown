@@ -1,7 +1,7 @@
 ---
 title: "Tiina Ronkainen"
 description: "Tiina Ronkainen is a Mid-career Soil Carbon researcher. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.235855
+date: 2026-10-11T02:32:59.239298
 url: "/cdr-researcher-census/researchers/tiina-ronkainen-a5033208/"
 layout: "researcher"
 hiddenInHomeList: true

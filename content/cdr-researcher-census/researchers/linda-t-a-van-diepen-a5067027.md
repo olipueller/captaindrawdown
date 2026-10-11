@@ -1,7 +1,7 @@
 ---
 title: "Linda T. A. van Diepen"
 description: "Linda T. A. van Diepen is a Senior Soil Carbon researcher at University of Wyoming in US. With 67 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.079281
+date: 2026-10-11T02:32:59.084092
 url: "/cdr-researcher-census/researchers/linda-t-a-van-diepen-a5067027/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of Semiarid Wheat Agriculture Management Practices on Soil Microbial Properties: A Review** (2021)
-   22 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 2. **Sustaining vulnerable agroecosystems with compost: Lasting benefits to soil health and carbon storage in semiarid winter wheat (Triticum aestivum, L.)** (2024)
    6 citations · Soil Carbon
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Soil Carbon
 
 4. **Effects of long‐term flood irrigation and fertilization on greenhouse gas emissions and soil nitrogen in mountain hay meadows** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Xuanyuan Pei"
 description: "Xuanyuan Pei is a Mid-career Biochar researcher at Wuhan Textile University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.960390
+date: 2026-10-11T02:32:59.991695
 url: "/cdr-researcher-census/researchers/xuanyuan-pei-a5021751/"
 layout: "researcher"
 hiddenInHomeList: true

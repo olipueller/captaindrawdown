@@ -1,7 +1,7 @@
 ---
 title: "Ard elshifa M. E. Mohammed"
 description: "Ard elshifa M. E. Mohammed is a Mid-career Biochar researcher at Qassim University in SA. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.229547
+date: 2026-10-11T02:33:00.259772
 url: "/cdr-researcher-census/researchers/ard-elshifa-m-e-mohammed-a5049074/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biofuel production from waste residuals: comprehensive insights into biomass conversion technologies and engineered biochar applications** (2025)
-   58 citations · Biochar
+   67 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Hend Elsawey"
 description: "Hend Elsawey is a Mid-career Enhanced Weathering researcher at Heliopolis University in EG. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.875958
+date: 2026-10-11T02:32:59.903191
 url: "/cdr-researcher-census/researchers/hend-elsawey-a5057053/"
 layout: "researcher"
 hiddenInHomeList: true

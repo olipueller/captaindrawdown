@@ -1,7 +1,7 @@
 ---
 title: "Gustavo Enrique Mendoza-Arroyo"
 description: "Gustavo Enrique Mendoza-Arroyo is a Mid-career Soil Carbon researcher at Instituto Tecnológico Autónomo de México in MX. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.389679
+date: 2026-10-11T02:33:00.426499
 url: "/cdr-researcher-census/researchers/gustavo-enrique-mendoza-arroyo-a5065964/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Organic carbon stock between different grain sizes in Arenosols from the coastal dunes of Campeche Bay, Mexico** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

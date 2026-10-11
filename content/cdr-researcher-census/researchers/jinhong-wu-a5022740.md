@@ -1,7 +1,7 @@
 ---
 title: "Jinhong Wu"
 description: "Jinhong Wu is a Senior Soil Carbon researcher at Shanghai Jiao Tong University in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.909631
+date: 2026-10-11T02:32:59.939519
 url: "/cdr-researcher-census/researchers/jinhong-wu-a5022740/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic matter enhances aboveground biomass in alpine grassland under drought** (2023)
-   54 citations · Soil Carbon
+   53 citations · Soil Carbon
 
 2. **Hydrolases Control Soil Carbon Sequestration in Alpine Grasslands in the Tibetan Plateau** (2024)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

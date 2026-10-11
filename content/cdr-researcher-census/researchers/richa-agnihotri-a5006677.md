@@ -1,7 +1,7 @@
 ---
 title: "Richa Agnihotri"
 description: "Richa Agnihotri is a Senior Soil Carbon researcher at Indian Institute of Technology Palakkad in IN. With 53 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.184039
+date: 2026-10-11T02:32:59.188250
 url: "/cdr-researcher-census/researchers/richa-agnihotri-a5006677/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,25 +51,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Glycoproteins of arbuscular mycorrhiza for soil carbon sequestration: Review of mechanisms and controls** (2021)
-   300 citations
+   302 citations
 
 2. **Deciphering the dynamics of glomalin and heavy metals in soils contaminated with hazardous municipal solid wastes** (2021)
-   65 citations
+   67 citations
 
 3. **Glomalin related protein and C16:1ω5 PLFA associated with AM fungi as potential signatures for assessing the soil C sequestration under contrasting soil management practices** (2021)
-   59 citations · Soil Carbon
+   58 citations · Soil Carbon
 
 4. **Facets of AM Fungi in Sequestering Soil Carbon and Improving Soil Health** (2022)
    9 citations · Soil Carbon
 
 5. **Enhanced soil carbon storage and arbuscular mycorrhizal fungal biomass in a long-term nutrient management under soybean-based cropping system** (2024)
-   3 citations · Soil Carbon
+   6 citations · Soil Carbon
 
-6. **Enhanced soil carbon storage by arbuscular mycorrhizal fungi in a long-term nutrient management under soybean-based cropping system** (2024)
+6. **Belowground–Aboveground climate allies: arbuscular mycorrhizal fungi as ecosystem bridges for greenhouse gas mitigation** (2026)
+   3 citations · General CDR
+
+7. **Enhanced soil carbon storage by arbuscular mycorrhizal fungi in a long-term nutrient management under soybean-based cropping system** (2024)
    2 citations · Soil Carbon
-
-7. **Belowground–Aboveground climate allies: arbuscular mycorrhizal fungi as ecosystem bridges for greenhouse gas mitigation** (2026)
-   1 citations · General CDR
 
 8. **Exploring microbial symbionts for improving soybean production and soil carbon sequestration** (2023)
    0 citations · Soil Carbon

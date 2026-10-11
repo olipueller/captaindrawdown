@@ -1,7 +1,7 @@
 ---
 title: "Mallory Parker"
 description: "Mallory Parker is a Mid-career Biochar researcher at University of Washington in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.827183
+date: 2026-10-11T02:32:59.853424
 url: "/cdr-researcher-census/researchers/mallory-parker-a5044337/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effects of pyrolysis temperature of macroalgal biomass on the structure and mechanical properties of produced biochar** (2025)
-   4 citations · Biochar
+   5 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Mongkolchai Assawadithalerd"
 description: "Mongkolchai Assawadithalerd is a Mid-career Biochar researcher at Center of Excellence on Hazardous Substance Management in TH. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.909168
+date: 2026-10-11T02:32:59.939017
 url: "/cdr-researcher-census/researchers/mongkolchai-assawadithalerd-a5079189/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Sustainable utilization of citrus peel waste: Biochar production, modification, and applications** (2025)
-   4 citations · Biochar
+   6 citations · Biochar
 
 ## External Profiles
 

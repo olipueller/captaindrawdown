@@ -1,7 +1,7 @@
 ---
 title: "Gaihe Yang"
 description: "Gaihe Yang is an Eminent Soil Carbon researcher at Yangon Technological University in MM. With 249 publications and an h-index of 61, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.025643
+date: 2026-10-11T02:32:59.028569
 url: "/cdr-researcher-census/researchers/gaihe-yang-a5044765/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,40 +42,40 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 61 |
 | Citations | 11,333 |
 | Publications | 249 |
-| CDR Focus | 6.0% |
+| CDR Focus | 6.8% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Biochar combined with N fertilization and straw return in wheat-maize agroecosystem: Key practices to enhance crop yields and minimize carbon and nitrogen footprints** (2023)
-   107 citations · Biochar
+   109 citations · Biochar
 
 2. **The biogeography of soil microbiome potential growth rates** (2024)
-   71 citations
+   72 citations
 
 3. **Impact of straw-biochar amendments on microbial activity and soil carbon dynamics in wheat-maize system** (2024)
-   48 citations · Biochar
+   50 citations · Biochar
 
 4. **The contribution of microbial necromass carbon to soil organic carbon in soil aggregates** (2023)
-   44 citations · Soil Carbon
+   48 citations · Soil Carbon
 
 5. **Effect of forest thinning on soil organic carbon stocks from the perspective of carbon-degrading enzymes** (2022)
-   43 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 6. **Plastic film mulching mitigates the straw-induced soil greenhouse gas emissions in summer maize field** (2021)
    37 citations
 
-7. **Assessment and Multiscenario Simulation of Land Use and Ecosystem Services Interactions in Inner Mongolia** (2024)
-   13 citations · General CDR
+7. **Nitrogen addition-driven soil organic carbon stability depends on the fractions of particulate and mineral-associated organic carbon** (2024)
+   28 citations
 
-8. **Divergent mechanisms of rhizosphere and non-rhizosphere soil organic carbon sequestration under precipitation variability: Evidence from microbial life-history strategies** (2025)
+8. **Assessment and Multiscenario Simulation of Land Use and Ecosystem Services Interactions in Inner Mongolia** (2024)
+   14 citations · General CDR
+
+9. **Divergent mechanisms of rhizosphere and non-rhizosphere soil organic carbon sequestration under precipitation variability: Evidence from microbial life-history strategies** (2025)
    10 citations · Soil Carbon
 
-9. **Changes in Soil Aggregate Carbon Components and Responses to Plant Input during Vegetation Restoration in the Loess Plateau, China** (2024)
+10. **Changes in Soil Aggregate Carbon Components and Responses to Plant Input during Vegetation Restoration in the Loess Plateau, China** (2024)
    6 citations · Soil Carbon
-
-10. **Changes of Soil Aggregate Carbon Components and Responses to Plant Input During Vegetation Restoration in the Loess Plateau,China** (2024)
-   4 citations · Soil Carbon
 
 ## External Profiles
 

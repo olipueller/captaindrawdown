@@ -1,7 +1,7 @@
 ---
 title: "Suhua Gong"
 description: "Suhua Gong is a Mid-career Enhanced Weathering researcher at Chinese Academy of Sciences in CN. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.400368
+date: 2026-10-11T02:32:59.409522
 url: "/cdr-researcher-census/researchers/suhua-gong-a5051239/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Climate change has enhanced the positive contribution of rock weathering to the major ions in riverine transport** (2023)
-   49 citations · Enhanced Weathering
+   50 citations · Enhanced Weathering
 
 ## External Profiles
 

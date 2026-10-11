@@ -1,7 +1,7 @@
 ---
 title: "Javaid M. Dad"
 description: "Javaid M. Dad is a Senior Soil Carbon researcher at University of Kashmir in IN. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.693112
+date: 2026-10-11T02:32:59.713679
 url: "/cdr-researcher-census/researchers/javaid-m-dad-a5049971/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The effect of bi-culture cover crops on soil quality, carbon sequestration, and growth characteristics in apple orchards of North Western Himalayas** (2021)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 2. **Role of Grasslands in Soil Carbon Storage: Case Study from Alpine Grasslands of North-Western Kashmir Himalaya** (2022)
    1 citations · Soil Carbon

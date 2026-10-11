@@ -1,7 +1,7 @@
 ---
 title: "Junta Yanai"
 description: "Junta Yanai is a Senior Enhanced Weathering researcher at Kyoto Prefectural University in JP. With 135 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.073438
+date: 2026-10-11T02:32:59.078225
 url: "/cdr-researcher-census/researchers/junta-yanai-a5072198/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,10 +57,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    5 citations · Soil Carbon
 
 3. **Plant Use of Nonexchangeable Potassium in Coarse and Fine Fractions of Granitic Soils in a Temperate Region** (2025)
-   2 citations · Enhanced Weathering
+   3 citations · Enhanced Weathering
 
 4. **Direct evidence for enhanced mineral weathering in cropland verified by quantitative X-ray powder diffraction** (2026)
-   0 citations · Enhanced Weathering
+   1 citations · Enhanced Weathering
 
 5. **Enhanced Rock Weathering–Induced Carbon Dioxide Removal in Flooded Rice Paddies: Mineral-Based Monitoring from Field Experiments in Japan** (2026)
    0 citations · Enhanced Weathering

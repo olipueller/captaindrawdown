@@ -1,7 +1,7 @@
 ---
 title: "Märta Brunberg"
 description: "Märta Brunberg is an Early-career Ocean CDR researcher at University of Helsinki in FI. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.371728
+date: 2026-10-11T02:33:00.407300
 url: "/cdr-researcher-census/researchers/marta-brunberg-a5089380/"
 layout: "researcher"
 hiddenInHomeList: true

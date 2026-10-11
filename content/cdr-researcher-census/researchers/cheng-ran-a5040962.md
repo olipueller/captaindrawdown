@@ -1,7 +1,7 @@
 ---
 title: "Cheng Ran"
 description: "Cheng Ran is a Mid-career Soil Carbon researcher at Affiliated Hospital of Hebei University in CN. With 23 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.404741
+date: 2026-10-11T02:32:59.413795
 url: "/cdr-researcher-census/researchers/cheng-ran-a5040962/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Straw return alleviates the negative effects of saline sodic stress on rice by improving soil chemistry and reducing the accumulation of sodium ions in rice leaves** (2022)
-   50 citations · Soil Carbon
+   52 citations · Soil Carbon
 
 2. **The Application of Straw Return with Nitrogen Fertilizer Increases Rice Yield in Saline–Sodic Soils by Regulating Rice Organ Ion Concentrations and Soil Leaching Parameters** (2024)
    9 citations · Soil Carbon

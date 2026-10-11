@@ -1,7 +1,7 @@
 ---
 title: "Xia Zeng"
 description: "Xia Zeng is a Senior Biochar researcher at Shaanxi University of Technology in CN. With 18 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.358096
+date: 2026-10-11T02:32:59.364797
 url: "/cdr-researcher-census/researchers/xia-zeng-a5112322/"
 layout: "researcher"
 hiddenInHomeList: true

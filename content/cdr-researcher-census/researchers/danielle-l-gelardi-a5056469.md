@@ -1,7 +1,7 @@
 ---
 title: "Danielle L. Gelardi"
 description: "Danielle L. Gelardi is a Mid-career Soil Carbon researcher at Washington Department of Natural Resources in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.247847
+date: 2026-10-11T02:32:59.251660
 url: "/cdr-researcher-census/researchers/danielle-l-gelardi-a5056469/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Grounding United States policies and programs in soil carbon science: strengths, limitations, and opportunities** (2023)
-   21 citations · General CDR
+   23 citations · General CDR
 
 2. **Soils and Beyond: Optimizing Sustainability Opportunities for Biochar** (2021)
-   21 citations · Biochar
+   22 citations · Biochar
 
 3. **Multiscale evaluation of biochar for the delivery of agronomic and soil health benefits in California** (2021)
    0 citations · Biochar

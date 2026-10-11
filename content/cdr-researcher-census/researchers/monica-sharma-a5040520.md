@@ -1,7 +1,7 @@
 ---
 title: "Monica Sharma"
 description: "Monica Sharma is a Mid-career Biochar researcher at Dr. Yashwant Singh Parmar University of Horticulture and Forestry in IN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.392192
+date: 2026-10-11T02:33:00.429614
 url: "/cdr-researcher-census/researchers/monica-sharma-a5040520/"
 layout: "researcher"
 hiddenInHomeList: true

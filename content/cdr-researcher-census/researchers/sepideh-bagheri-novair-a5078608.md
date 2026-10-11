@@ -1,7 +1,7 @@
 ---
 title: "Sepideh Bagheri Novair"
 description: "Sepideh Bagheri Novair is a Mid-career Biochar researcher at University of Tehran in IR. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.535716
+date: 2026-10-11T02:32:59.550387
 url: "/cdr-researcher-census/researchers/sepideh-bagheri-novair-a5078608/"
 layout: "researcher"
 hiddenInHomeList: true

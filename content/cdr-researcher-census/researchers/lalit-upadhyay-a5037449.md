@@ -1,7 +1,7 @@
 ---
 title: "Lalit Upadhyay"
 description: "Lalit Upadhyay is a Mid-career Soil Carbon researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Jammu in IN. With 46 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.159291
+date: 2026-10-11T02:33:00.189467
 url: "/cdr-researcher-census/researchers/lalit-upadhyay-a5037449/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    32 citations · General CDR
 
 2. **Agroforestry Practices and Their Impact on Soil Health and Fertility: A Review** (2024)
-   16 citations · General CDR
+   17 citations · General CDR
 
 3. **Agroforestry Practices as a Keystone for Biodiversity Conservation: A Review** (2024)
    11 citations · Soil Carbon
@@ -63,22 +63,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · General CDR
 
 5. **A Review on Agroforestry Practices for Biodiversity Restoration and Ecosystem Resilience** (2026)
-   3 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 6. **Assessing the Role of Regenerative Practices in Enhancing Soil Carbon Sequestration in Farmlands: A Review** (2025)
    2 citations · General CDR
 
-7. **Impact of Conservation Tillage and Organic Nutrient Sources on Finger Millet Performance in Legume-based Cropping Systems** (2025)
-   1 citations · Soil Carbon
+7. **Advances in Understanding Soil Microbial Diversity and Its Role in Ecosystem Functioning: A Comprehensive Review** (2025)
+   1 citations
 
-8. **The Economics of Carbon Sequestration and Climate Change Mitigation Potential of Different Soil Management Practices** (2025)
+8. **Impact of Climate Change on Global Agriculture: A Review of Adaptation and Mitigation Strategies** (2025)
    1 citations · General CDR
 
-9. **Effects of agroforestry on soil carbon and nutrient cycling: A review** (2026)
-   0 citations
+9. **Impact of Conservation Tillage and Organic Nutrient Sources on Finger Millet Performance in Legume-based Cropping Systems** (2025)
+   1 citations · Soil Carbon
 
-10. **Advances in Understanding Soil Microbial Diversity and Its Role in Ecosystem Functioning: A Comprehensive Review** (2025)
-   0 citations
+10. **The Economics of Carbon Sequestration and Climate Change Mitigation Potential of Different Soil Management Practices** (2025)
+   1 citations · General CDR
 
 ## External Profiles
 

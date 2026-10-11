@@ -1,7 +1,7 @@
 ---
 title: "Johanna Haupt"
 description: "Johanna Haupt is a Mid-career General CDR researcher. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.365847
+date: 2026-10-11T02:33:00.401606
 url: "/cdr-researcher-census/researchers/johanna-haupt-a5076109/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Life cycle assessment of carbon dioxide removal and utilisation strategies: Comparative analysis across Europe** (2024)
-   15 citations · General CDR
+   17 citations · General CDR
 
 2. **Life Cycle Assessments of Carbon Capture, Utilisation, and Storage Strategies – Production of Fuels and Polymers** (2024)
    1 citations · General CDR

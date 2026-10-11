@@ -1,7 +1,7 @@
 ---
 title: "Kelechi E. Anyaoha"
 description: "Kelechi E. Anyaoha is a Mid-career Biochar researcher at Technologiezentrum Dresden (Germany) in DE. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.693567
+date: 2026-10-11T02:32:59.714113
 url: "/cdr-researcher-census/researchers/kelechi-e-anyaoha-a5075264/"
 layout: "researcher"
 hiddenInHomeList: true

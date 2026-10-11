@@ -1,7 +1,7 @@
 ---
 title: "Zahra Ghahremani"
 description: "Zahra Ghahremani is a Mid-career Soil Carbon researcher at Boise State University in US. With 11 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.306069
+date: 2026-10-11T02:33:00.336807
 url: "/cdr-researcher-census/researchers/zahra-ghahremani-a5008464/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **The Spatial Distribution of Soil Inorganic Carbon in the Contiguous United States** (2025)
+1. **A Machine Learning‐Based High‐Resolution Inventory of Soil Inorganic Carbon Across the Contiguous United States** (2026)
+   0 citations
+
+2. **The Spatial Distribution of Soil Inorganic Carbon in the Contiguous United States** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Dharm Pal Malik"
 description: "Dharm Pal Malik is an Early-career Soil Carbon researcher at Chaudhary Charan Singh Haryana Agricultural University in IN. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.384759
+date: 2026-10-11T02:33:00.421583
 url: "/cdr-researcher-census/researchers/dharm-pal-malik-a5014329/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Rice residue management in the Indo-Gangetic Plains for climate and food security. A review** (2022)
-   102 citations · General CDR
+   104 citations · General CDR
 
 ## External Profiles
 

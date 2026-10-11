@@ -1,7 +1,7 @@
 ---
 title: "Weijiang Song"
 description: "Weijiang Song is a Mid-career Soil Carbon researcher at Peking University in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.626381
+date: 2026-10-11T02:32:59.644864
 url: "/cdr-researcher-census/researchers/weijiang-song-a5075082/"
 layout: "researcher"
 hiddenInHomeList: true

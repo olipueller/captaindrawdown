@@ -1,7 +1,7 @@
 ---
 title: "Xin Chen"
 description: "Xin Chen is a Senior Biochar researcher at Chinese Academy of Sciences in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.247158
+date: 2026-10-11T02:33:00.277217
 url: "/cdr-researcher-census/researchers/xin-chen-a5101803/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -55,6 +55,12 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 2. **Effects of Combined Stover and Biochar Return on Soil Organic Matter and Microbial Characteristics** (2025)
    1 citations · Biochar
+
+3. **Effects of wollastonite application doses on rice yield and soil carbon sequestration** (2026)
+   0 citations · Enhanced Weathering
+
+4. **Differential Pathways of Distinct Organic Amendments in Ameliorating the Root Zone Environment of Saline-Alkali Farmland: A Case Study of Straw, Biochar, and Peat** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

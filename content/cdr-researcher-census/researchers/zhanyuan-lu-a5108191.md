@@ -1,7 +1,7 @@
 ---
 title: "Zhanyuan Lu"
 description: "Zhanyuan Lu is a Mid-career Soil Carbon researcher at Inner Mongolia Academy of Agricultural & Animal Husbandry Sciences in CN. With 55 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.291140
+date: 2026-10-11T02:32:59.295510
 url: "/cdr-researcher-census/researchers/zhanyuan-lu-a5108191/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,14 +50,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Bibliometric analysis of research trends in agricultural soil organic carbon components from 2000 to 2023** (2024)
+1. **Organic amendments effects on soil aggregation and carbon sequestration in saline‐alkaline croplands in China** (2023)
+   14 citations · Biochar
+
+2. **Bibliometric analysis of research trends in agricultural soil organic carbon components from 2000 to 2023** (2024)
    13 citations · Soil Carbon
 
-2. **Organic amendments effects on soil aggregation and carbon sequestration in saline‐alkaline croplands in China** (2023)
-   11 citations · Biochar
-
 3. **Organic Nitrogen Substitution Enhances Carbon Sequestration but Increases Greenhouse Gas Emissions in Maize Cropping Systems** (2025)
-   2 citations · General CDR
+   3 citations · General CDR
 
 4. **Effects of Tillage Methods on Carbon and Nitrogen Sequestration and Soil Microbial Stoichiometric Equilibrium in a Black Soil Farmland with Full Return of Straw to the Field** (2025)
    2 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Shihua Zhu"
 description: "Shihua Zhu is a Senior Soil Carbon researcher at Jiangsu Provincial Meteorological Bureau in CN. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.678682
+date: 2026-10-11T02:32:59.698166
 url: "/cdr-researcher-census/researchers/shihua-zhu-a5011901/"
 layout: "researcher"
 hiddenInHomeList: true

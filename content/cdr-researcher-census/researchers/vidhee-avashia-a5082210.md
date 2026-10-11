@@ -1,7 +1,7 @@
 ---
 title: "Vidhee Avashia"
 description: "Vidhee Avashia is a Mid-career General CDR researcher at Indian Institute of Management Ahmedabad in IN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.645089
+date: 2026-10-11T02:32:59.663668
 url: "/cdr-researcher-census/researchers/vidhee-avashia-a5082210/"
 layout: "researcher"
 hiddenInHomeList: true

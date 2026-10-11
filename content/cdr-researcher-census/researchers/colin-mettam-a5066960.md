@@ -1,7 +1,7 @@
 ---
 title: "Colin Mettam"
 description: "Colin Mettam is a Senior Enhanced Weathering researcher at University College London in GB. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.709010
+date: 2026-10-11T02:32:59.729647
 url: "/cdr-researcher-census/researchers/colin-mettam-a5066960/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    2 citations · Enhanced Weathering
 
 2. **A mid‐Proterozoic coupled Sr and Li isotope excursion and its potential connection to enhanced weathering and ocean oxygenation at 1.57 Ga** (2026)
-   0 citations · Enhanced Weathering
+   1 citations · Enhanced Weathering
 
 ## External Profiles
 

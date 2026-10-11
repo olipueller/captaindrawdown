@@ -1,7 +1,7 @@
 ---
 title: "Carlos Sherard Barrow"
 description: "Carlos Sherard Barrow is a Mid-career Soil Carbon researcher at University of Georgia in US. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.392808
+date: 2026-10-11T02:33:00.430258
 url: "/cdr-researcher-census/researchers/carlos-sherard-barrow-a5028394/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **DIRT/3D: 3D root phenotyping for field-grown maize ( <i>Zea mays</i> )** (2021)
-   87 citations · Soil Carbon
+   83 citations · Soil Carbon
 
 ## External Profiles
 

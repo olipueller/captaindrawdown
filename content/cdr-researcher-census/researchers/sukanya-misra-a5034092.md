@@ -1,7 +1,7 @@
 ---
 title: "Sukanya Misra"
 description: "Sukanya Misra is a Senior Biochar researcher at Central Agricultural University in IN. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.583254
+date: 2026-10-11T02:32:59.599526
 url: "/cdr-researcher-census/researchers/sukanya-misra-a5034092/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Grasses improve soil multifunctionality by strengthening aggregate-carbon-enzyme linkage in semi-arid degraded land** (2025)
-   2 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 2. **Biochar aspects in the sustainability of agriculture and environment** (2024)
    1 citations · Biochar

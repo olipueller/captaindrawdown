@@ -1,7 +1,7 @@
 ---
 title: "Shaokui Yan"
 description: "Shaokui Yan is a Senior Enhanced Weathering researcher. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.917065
+date: 2026-10-11T02:32:59.966306
 url: "/cdr-researcher-census/researchers/shaokui-yan-a5100986/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Wollastonite addition stimulates soil organic carbon mineralization: Evidences from 12 land-use types in subtropical China** (2023)
-   51 citations · Enhanced Weathering
+   49 citations · Enhanced Weathering
 
 ## External Profiles
 

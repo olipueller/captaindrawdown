@@ -1,7 +1,7 @@
 ---
 title: "Cuoji Peng"
 description: "Cuoji Peng is a Mid-career Soil Carbon researcher at China Agricultural University in CN. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.533357
+date: 2026-10-11T02:32:59.547646
 url: "/cdr-researcher-census/researchers/cuoji-peng-a5101057/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Climate factors regulate the depth dependency of soil organic carbon under grazing exclusion in Chinese grasslands: A meta‐analysis** (2023)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 ## External Profiles
 

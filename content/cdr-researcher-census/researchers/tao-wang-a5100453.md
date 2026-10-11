@@ -1,7 +1,7 @@
 ---
 title: "Tao Wang"
 description: "Tao Wang is a Mid-career Soil Carbon researcher at Northeast Forestry University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.187988
+date: 2026-10-11T02:33:00.218142
 url: "/cdr-researcher-census/researchers/tao-wang-a5100453/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Factors driving carbon accumulation in forest biomass and soil organic carbon across natural forests and planted forests in China** (2024)
-   23 citations · General CDR
+   24 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Atsu Kludze"
 description: "Atsu Kludze is a Mid-career DAC researcher at Yale University in US. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.475664
+date: 2026-10-11T02:32:59.486901
 url: "/cdr-researcher-census/researchers/atsu-kludze-a5069330/"
 layout: "researcher"
 hiddenInHomeList: true

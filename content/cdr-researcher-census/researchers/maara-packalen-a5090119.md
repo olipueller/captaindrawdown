@@ -1,7 +1,7 @@
 ---
 title: "Maara Packalen"
 description: "Maara Packalen is a Mid-career Soil Carbon researcher at Ministry of Natural Resources and Forestry in CA. With 33 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.109777
+date: 2026-10-11T02:32:59.114419
 url: "/cdr-researcher-census/researchers/maara-packalen-a5090119/"
 layout: "researcher"
 hiddenInHomeList: true

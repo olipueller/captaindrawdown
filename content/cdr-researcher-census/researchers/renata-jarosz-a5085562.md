@@ -1,7 +1,7 @@
 ---
 title: "Renata Jarosz"
 description: "Renata Jarosz is a Senior Soil Carbon researcher at AGH University of Science and Technology in PL. With 32 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.304768
+date: 2026-10-11T02:32:59.309975
 url: "/cdr-researcher-census/researchers/renata-jarosz-a5085562/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effect of organic/inorganic composites as soil amendments on the biomass productivity and root architecture of spring wheat and rapeseed** (2023)
-   25 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 2. **The Effect of New Zeolite Composites from Fly Ashes Mixed with Leonardite and Lignite in Enhancing Soil Organic Matter** (2025)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 ## External Profiles
 

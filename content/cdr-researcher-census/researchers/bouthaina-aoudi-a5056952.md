@@ -1,7 +1,7 @@
 ---
 title: "Bouthaina Aoudi"
 description: "Bouthaina Aoudi is a Mid-career Biochar researcher at University of Alberta in CA. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.985805
+date: 2026-10-11T02:33:00.016837
 url: "/cdr-researcher-census/researchers/bouthaina-aoudi-a5056952/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Softwood biochar-supported Bi2WO6 for photocatalytic degradation of organic contaminant mixture in river water: Role of pyrolysis temperature and surface functionality** (2025)
-   3 citations · Biochar
+   5 citations · Biochar
 
 ## External Profiles
 

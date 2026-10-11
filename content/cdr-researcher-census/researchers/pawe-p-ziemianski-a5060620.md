@@ -1,7 +1,7 @@
 ---
 title: "Paweł P. Ziemiański"
 description: "Paweł P. Ziemiański is a Senior DAC researcher at Medical Components (United States) in US. With 28 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.792624
+date: 2026-10-11T02:32:59.816397
 url: "/cdr-researcher-census/researchers/pawe-p-ziemianski-a5060620/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Hydrophobic Silica Gels and Aerogels for Direct Air Capture: Hybrid Grafting To Suppress Water Uptake and Capillary Condensation** (2025)
-   7 citations
+   8 citations
 
 2. **Circular and athermal atmospheric CO <sub>2</sub> capture by food waste-derived amyloid sorbents** (2026)
    2 citations · DAC

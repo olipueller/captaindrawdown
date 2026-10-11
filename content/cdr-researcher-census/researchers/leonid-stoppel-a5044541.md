@@ -1,7 +1,7 @@
 ---
 title: "Leonid Stoppel"
 description: "Leonid Stoppel is a Senior DAC researcher at Karlsruhe Institute of Technology in DE. With 33 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.259311
+date: 2026-10-11T02:32:59.263178
 url: "/cdr-researcher-census/researchers/leonid-stoppel-a5044541/"
 layout: "researcher"
 hiddenInHomeList: true

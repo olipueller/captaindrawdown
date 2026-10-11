@@ -1,7 +1,7 @@
 ---
 title: "Yaqiang Li"
 description: "Yaqiang Li is a Mid-career Biochar researcher at Beijing Forestry University in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.746968
+date: 2026-10-11T02:32:59.769116
 url: "/cdr-researcher-census/researchers/yaqiang-li-a5048496/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Carbon Sequestration of Silica-Rich Biochar in Cement Accompanied by the Pozzolanic Effect** (2024)
-   29 citations · Biochar
+   33 citations · Biochar
 
 2. **Evaluation on the ability of carbon capture, utilization and storage of cementitious pastes incorporated with CO2-free and CO2-saturated biochar** (2025)
    8 citations · Biochar

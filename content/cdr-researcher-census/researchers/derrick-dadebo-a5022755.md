@@ -1,7 +1,7 @@
 ---
 title: "Derrick Dadebo"
 description: "Derrick Dadebo is a Mid-career Biochar researcher at Egypt-Japan University of Science and Technology in EG. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.765780
+date: 2026-10-11T02:32:59.788964
 url: "/cdr-researcher-census/researchers/derrick-dadebo-a5022755/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Feasibility of anaerobic digestion/phytoremediation/co-pyrolysis pathway for textile industrial wastewater valorization: Performance, life cycle assessment, and techno-economics** (2026)
-   8 citations · Biochar
+   9 citations · Biochar
 
 2. **Biochar Production from Wastewater Sludge for Application in Sustainable Lettuce Plant Cultivation and Climate Change Mitigation** (2023)
    2 citations · Biochar

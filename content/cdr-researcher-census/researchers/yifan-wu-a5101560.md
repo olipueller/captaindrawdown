@@ -1,7 +1,7 @@
 ---
 title: "Yifan Wu"
 description: "Yifan Wu is a Mid-career Soil Carbon researcher at Xi'an Jiaotong University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.754414
+date: 2026-10-11T02:32:59.776775
 url: "/cdr-researcher-census/researchers/yifan-wu-a5101560/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Urbanization promotes carbon storage or not? The evidence during the rapid process of China** (2024)
-   60 citations · General CDR
+   63 citations · General CDR
 
 ## External Profiles
 

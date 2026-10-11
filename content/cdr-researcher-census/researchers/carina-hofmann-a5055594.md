@@ -1,7 +1,7 @@
 ---
 title: "Carina Hofmann"
 description: "Carina Hofmann is a Mid-career General CDR researcher at Technische Universität Darmstadt in DE. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.137758
+date: 2026-10-11T02:33:00.168224
 url: "/cdr-researcher-census/researchers/carina-hofmann-a5055594/"
 layout: "researcher"
 hiddenInHomeList: true

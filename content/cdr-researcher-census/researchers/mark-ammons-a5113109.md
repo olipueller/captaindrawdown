@@ -1,7 +1,7 @@
 ---
 title: "Mark Ammons"
 description: "Mark Ammons is a Senior Soil Carbon researcher at Lawrence Livermore National Laboratory in US. With 35 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.254997
+date: 2026-10-11T02:32:59.258918
 url: "/cdr-researcher-census/researchers/mark-ammons-a5113109/"
 layout: "researcher"
 hiddenInHomeList: true

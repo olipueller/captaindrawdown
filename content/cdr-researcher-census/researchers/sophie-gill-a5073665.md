@@ -1,7 +1,7 @@
 ---
 title: "Sophie Gill"
 description: "Sophie Gill is a Mid-career Ocean CDR researcher at Endometriosis UK in GB. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.484074
+date: 2026-10-11T02:32:59.495576
 url: "/cdr-researcher-census/researchers/sophie-gill-a5073665/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Seawater carbonate chemistry based carbon dioxide removal: towards commonly agreed principles for carbon monitoring, reporting, and verification** (2025)
-   17 citations · General CDR
+   19 citations · General CDR
 
 2. **The Physiological Response of Contrasting Coccolithophore Species to Ocean Alkalinity Enhancement** (2025)
    7 citations · Ocean CDR

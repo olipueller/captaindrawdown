@@ -1,7 +1,7 @@
 ---
 title: "Ángel Galán‐Martín"
 description: "Ángel Galán‐Martín is a Senior General CDR researcher at University of Jaén in ES. With 66 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.101279
+date: 2026-10-11T02:32:59.106027
 url: "/cdr-researcher-census/researchers/angel-galanmartin-a5067787/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Delaying carbon dioxide removal in the European Union puts climate targets at risk** (2021)
-   88 citations · BECCS
+   93 citations · BECCS
 
 2. **The potential role of olive groves to deliver carbon dioxide removal in a carbon-neutral Europe: Opportunities and challenges** (2022)
-   50 citations · General CDR
+   51 citations · General CDR
 
 3. **Human and planetary health implications of negative emissions technologies** (2022)
    50 citations · BECCS
 
 4. **Life cycle optimization of BECCS supply chains in the European Union** (2021)
-   47 citations · BECCS
+   46 citations · BECCS
 
 5. **The role of hydrogen in heavy transport to operate within planetary boundaries** (2021)
    37 citations
@@ -75,7 +75,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    3 citations · BECCS
 
 9. **Assessing Pathways to Carbon Neutrality in the Ceramic Sector: A Prospective Life Cycle Assessment under Energy System Projections and Technology Scenarios** (2025)
-   1 citations · General CDR
+   2 citations · General CDR
 
 10. **Planetary boundary analysis in the environmental assessment of corn stover biorefineries** (2025)
    1 citations

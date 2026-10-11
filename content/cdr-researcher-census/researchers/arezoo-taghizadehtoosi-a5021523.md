@@ -1,7 +1,7 @@
 ---
 title: "Arezoo Taghizadeh‐Toosi"
 description: "Arezoo Taghizadeh‐Toosi is a Senior Soil Carbon researcher at Danish Technological Institute in DK. With 78 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.127882
+date: 2026-10-11T02:32:59.132564
 url: "/cdr-researcher-census/researchers/arezoo-taghizadehtoosi-a5021523/"
 layout: "researcher"
 hiddenInHomeList: true

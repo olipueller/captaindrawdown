@@ -1,7 +1,7 @@
 ---
 title: "Zheyuan Xiao"
 description: "Zheyuan Xiao is a Mid-career Soil Carbon researcher at The University of Texas at Austin in US. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.076094
+date: 2026-10-11T02:33:00.106402
 url: "/cdr-researcher-census/researchers/zheyuan-xiao-a5029071/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effect of Nano-Bubble Irrigation on the Yield and Greenhouse Gas Warming Potential of Greenhouse Tomatoes** (2023)
-   10 citations · General CDR
+   11 citations · General CDR
 
 ## External Profiles
 

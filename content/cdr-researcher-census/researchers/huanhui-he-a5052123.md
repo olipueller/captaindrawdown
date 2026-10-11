@@ -1,7 +1,7 @@
 ---
 title: "Huanhui He"
 description: "Huanhui He is a Mid-career Soil Carbon researcher at Hunan University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.334345
+date: 2026-10-11T02:33:00.368384
 url: "/cdr-researcher-census/researchers/huanhui-he-a5052123/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The CAZyme family regulates the changes in soil organic carbon composition during vegetation restoration in the Mu Us desert** (2024)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 ## External Profiles
 

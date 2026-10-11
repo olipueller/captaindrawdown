@@ -1,7 +1,7 @@
 ---
 title: "Tyler Rohr"
 description: "Tyler Rohr is a Mid-career Ocean CDR researcher at CSIRO Oceans and Atmosphere in AU. With 59 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.462147
+date: 2026-10-11T02:32:59.473671
 url: "/cdr-researcher-census/researchers/tyler-rohr-a5064208/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,27 +45,30 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 11 |
 | Citations | 511 |
 | Publications | 59 |
-| CDR Focus | 6.8% |
+| CDR Focus | 8.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Potential Impacts of Climate Interventions on Marine Ecosystems** (2026)
-   9 citations · General CDR
+   14 citations · General CDR
 
 2. **Mechanistic Constraints on the Drivers of Southern Ocean Meridional Iron Distributions Between Tasmania and Antarctica** (2024)
-   4 citations · Ocean CDR
+   5 citations · Ocean CDR
 
 3. **Potential impacts of climate interventions on marine ecosystems** (2024)
    2 citations
 
-4. **Strategic research priorities for marine climate interventions in Australia** (2026)
+4. **Rethinking ocean alkalinity enhancement** (2026)
+   0 citations · Ocean CDR
+
+5. **Strategic research priorities for marine climate interventions in Australia** (2026)
    0 citations · General CDR
 
-5. **Monitoring, reporting, and verification of marine carbon dioxide removal: Exploring scientific consensus and divergences across continents** (2026)
+6. **Monitoring, reporting, and verification of marine carbon dioxide removal: Exploring scientific consensus and divergences across continents** (2026)
    0 citations · General CDR
 
-6. **Deep Dark Futures: Foresighting Human Impacts on Mesopelagic Ecosystem Services** (2026)
+7. **Deep Dark Futures: Foresighting Human Impacts on Mesopelagic Ecosystem Services** (2026)
    0 citations
 
 ## External Profiles

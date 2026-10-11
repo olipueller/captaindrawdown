@@ -1,7 +1,7 @@
 ---
 title: "Kai Ning"
 description: "Kai Ning is a Mid-career Biochar researcher at Zhejiang Normal University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.380034
+date: 2026-10-11T02:33:00.415850
 url: "/cdr-researcher-census/researchers/kai-ning-a5059553/"
 layout: "researcher"
 hiddenInHomeList: true

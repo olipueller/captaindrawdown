@@ -1,7 +1,7 @@
 ---
 title: "Ahtisham Haider"
 description: "Ahtisham Haider is a Mid-career Biochar researcher at University of Management and Technology in PK. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.676338
+date: 2026-10-11T02:32:59.695940
 url: "/cdr-researcher-census/researchers/ahtisham-haider-a5074579/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Cultivating sustainability: Harnessing biochar-derived composites for carbon-neutral wastewater treatment** (2024)
-   30 citations · Biochar
+   32 citations · Biochar
 
 ## External Profiles
 

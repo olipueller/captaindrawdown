@@ -1,7 +1,7 @@
 ---
 title: "Md. Rezaul Karim"
 description: "Md. Rezaul Karim is a Senior Biochar researcher at Landscape Institute in GB. With 60 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.545415
+date: 2026-10-11T02:32:59.560432
 url: "/cdr-researcher-census/researchers/md-rezaul-karim-a5011466/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 12 |
 | Citations | 423 |
 | Publications | 60 |
-| CDR Focus | 5.0% |
+| CDR Focus | 6.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

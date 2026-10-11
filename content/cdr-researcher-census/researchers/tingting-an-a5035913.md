@@ -1,7 +1,7 @@
 ---
 title: "Tingting An"
 description: "Tingting An is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 64 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.134336
+date: 2026-10-11T02:32:59.139130
 url: "/cdr-researcher-census/researchers/tingting-an-a5035913/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -62,20 +62,20 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **The fungal feeding channel of the soil micro‐food web contributes to the transformation of exogenous C into soil C—A <scp><sup>13</sup>C</scp> labelling microcosm experiment** (2022)
    8 citations · Soil Carbon
 
-5. **Plastic film mulching maintains soil organic carbon by increasing fungal necromass carbon under manure application** (2023)
+5. **Crop planting promotes the stabilization of straw-derived carbon in fertilized soil by regulating soil stoichiometry** (2025)
+   7 citations
+
+6. **Plastic film mulching maintains soil organic carbon by increasing fungal necromass carbon under manure application** (2023)
    7 citations · Soil Carbon
 
-6. **Crop planting promotes the stabilization of straw-derived carbon in fertilized soil by regulating soil stoichiometry** (2025)
-   5 citations
-
 7. **Cultivating crop reduces microbial necromass carbon accumulation but contributes fungal derived- soil organic carbon formation in fertilized soils with straw addition** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 8. **Long‐term fertilization and plastic film mulching modify temporal incorporation of <scp> <sup>13</sup> C </scp> / <scp> <sup>15</sup> N </scp> ‐labelled particulate organic matter** (2023)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 9. **Stover return enhances the transformation and sequestration of photosynthetic carbon through regulating soil food web** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 10. **Long-Term Fertilization Mediates Microbial Keystone Taxa to Regulate Straw-Derived 13C Incorporation in Soil Aggregates** (2025)
    0 citations

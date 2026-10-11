@@ -1,7 +1,7 @@
 ---
 title: "Inês Duarte"
 description: "Inês Duarte is a Senior Soil Carbon researcher. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.274453
+date: 2026-10-11T02:32:59.278706
 url: "/cdr-researcher-census/researchers/ines-duarte-a5077268/"
 layout: "researcher"
 hiddenInHomeList: true

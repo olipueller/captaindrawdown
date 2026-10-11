@@ -1,7 +1,7 @@
 ---
 title: "Xunzhang Pan"
 description: "Xunzhang Pan is a Senior General CDR researcher at Renmin University of China in CN. With 65 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.117254
+date: 2026-10-11T02:32:59.121893
 url: "/cdr-researcher-census/researchers/xunzhang-pan-a5091445/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    45 citations · General CDR
 
 2. **Assessing CCS development uncertainties in China's energy system aligned with carbon neutrality** (2025)
-   13 citations · General CDR
+   14 citations · General CDR
 
 3. **Carbon stocks in coastal wetlands of the Yellow River Delta and their environmental influencing factors** (2025)
    3 citations · Ocean CDR

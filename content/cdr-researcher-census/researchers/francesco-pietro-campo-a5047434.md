@@ -1,7 +1,7 @@
 ---
 title: "Francesco Pietro Campo"
 description: "Francesco Pietro Campo is a Mid-career Ocean CDR researcher at Innovation Engineering (Italy) in IT. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.658425
+date: 2026-10-11T02:32:59.677350
 url: "/cdr-researcher-census/researchers/francesco-pietro-campo-a5047434/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Life cycle assessment of ocean liming for carbon dioxide removal from the atmosphere** (2022)
-   76 citations
+   78 citations
 
 2. **Techno-economic evaluation of buffered accelerated weathering of limestone as a CO2 capture and storage option** (2023)
-   14 citations · Enhanced Weathering
+   15 citations · Enhanced Weathering
 
 3. **Assessment of potential environmental impacts of an Enhanced Rock Weathering process for carbon dioxide removal in the form of bicarbonates by means of Life Cycle Assessment** (2024)
    1 citations · Enhanced Weathering

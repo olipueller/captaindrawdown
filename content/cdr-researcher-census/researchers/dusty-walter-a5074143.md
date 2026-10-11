@@ -1,7 +1,7 @@
 ---
 title: "Dusty Walter"
 description: "Dusty Walter is a Mid-career General CDR researcher at University of Missouri in US. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.989791
+date: 2026-10-11T02:33:00.020621
 url: "/cdr-researcher-census/researchers/dusty-walter-a5074143/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Roberto Schaeffer"
 description: "Roberto Schaeffer is an Eminent General CDR researcher at Universidade Federal do Rio de Janeiro in BR. With 332 publications and an h-index of 62, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.020566
+date: 2026-10-11T02:32:59.023542
 url: "/cdr-researcher-census/researchers/roberto-schaeffer-a5032681/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,40 +45,40 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 62 |
 | Citations | 18,130 |
 | Publications | 332 |
-| CDR Focus | 5.7% |
-| Trajectory | Declining |
+| CDR Focus | 6.3% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Global fossil fuel reduction pathways under different climate mitigation strategies and ambitions** (2023)
-   425 citations · General CDR
+   445 citations · General CDR
 
 2. **Land-based implications of early climate actions without global net-negative emissions** (2021)
    67 citations · General CDR
 
 3. **Long-term deep decarbonisation pathways for Ecuador: Insights from an integrated assessment model** (2021)
-   49 citations · General CDR
+   50 citations · General CDR
 
 4. **Nature‐based solutions are critical for putting Brazil on track towards net‐zero emissions by 2050** (2023)
-   31 citations · General CDR
+   33 citations · General CDR
 
 5. **Are there synergies in the decarbonization of aviation and shipping? An integrated perspective for the case of Brazil** (2022)
-   24 citations · General CDR
+   23 citations · General CDR
 
 6. **Stranded crude oil resources and just transition: Why do crude oil quality, climate ambitions and land-use emissions matter** (2022)
    19 citations
 
 7. **Taking stock of carbon dioxide removal policy in emerging economies: developments in Brazil, China, and India** (2024)
-   15 citations · General CDR
+   18 citations · General CDR
 
 8. **The role of bioenergy in Brazil's low-carbon future** (2023)
-   12 citations · BECCS
+   15 citations · BECCS
 
 9. **Industrial sector pathways to a well-below 2 °C world: A global integrated assessment perspective** (2024)
-   10 citations · General CDR
+   11 citations · General CDR
 
 10. **<scp>BLOEM</scp>: A spatially explicit model of bioenergy and carbon capture and storage, applied to Brazil** (2022)
-   9 citations · BECCS
+   10 citations · BECCS
 
 ## External Profiles
 

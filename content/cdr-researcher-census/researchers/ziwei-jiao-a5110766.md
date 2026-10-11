@@ -1,7 +1,7 @@
 ---
 title: "Ziwei Jiao"
 description: "Ziwei Jiao is a Mid-career Biochar researcher at Yili Normal University in CN. With 34 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.655902
+date: 2026-10-11T02:32:59.674427
 url: "/cdr-researcher-census/researchers/ziwei-jiao-a5110766/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,9 +51,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Conservation farming prefers restoring plant lignin and microbial necromass in the particulate to mineral‐associated organic matter** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
-2. **Salt-Directed Fe Speciation in Lavender-Distilled Residual Waste Biochar for Synergistic As(III) Oxidation and Immobilization** (2026)
+2. **Fungal-templated lavender-residue biochar decorated with Fe₃O₄ nanoparticles: A magnetically separable adsorbent enabling oxidative immobilization of As(III) in water** (2026)
+   0 citations · Biochar
+
+3. **Waste-to-resource: Lavenderdistillation residue-derived nZVI@biochar for simultaneous removal of As(III) and Cd(II)** (2026)
+   0 citations · Biochar
+
+4. **Salt-Directed Fe Speciation in Lavender-Distilled Residual Waste Biochar for Synergistic As(III) Oxidation and Immobilization** (2026)
    0 citations · Biochar
 
 ## External Profiles

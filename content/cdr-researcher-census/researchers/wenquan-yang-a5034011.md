@@ -1,7 +1,7 @@
 ---
 title: "Wenquan Yang"
 description: "Wenquan Yang is a Senior Soil Carbon researcher at Agriculture and Forestry University in NP. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.978268
+date: 2026-10-11T02:33:00.009843
 url: "/cdr-researcher-census/researchers/wenquan-yang-a5034011/"
 layout: "researcher"
 hiddenInHomeList: true

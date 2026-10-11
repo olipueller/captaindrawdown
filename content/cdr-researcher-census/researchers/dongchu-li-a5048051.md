@@ -1,7 +1,7 @@
 ---
 title: "Dongchu Li"
 description: "Dongchu Li is a Senior Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning, Chinese Academy of Agricultural Sciences in CN. With 74 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.080787
+date: 2026-10-11T02:32:59.085625
 url: "/cdr-researcher-census/researchers/dongchu-li-a5048051/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term manuring facilitates glomalin-related soil proteins accumulation by chemical composition shifts and macro-aggregation formation** (2023)
-   57 citations · Soil Carbon
+   58 citations · Soil Carbon
 
 2. **Soil organic carbon pools under long-term mineral and organic amendments: a multisite study** (2024)
    23 citations · Soil Carbon
@@ -59,7 +59,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Chemical fertilizer and liming-induced changes in aluminum, iron oxides and soil organic carbon fractions: implications for carbon sequestration in an upland red soil** (2025)
    1 citations · General CDR
 
-4. **Impact of long-term straw and manure incorporation on carbon sequestration and yield through alteration of aluminum and iron oxides in acidic red soil** (2026)
+4. **Long-term fertilization drives divergent iron–carbon coupling pathways in contrasting arable soils** (2026)
+   0 citations
+
+5. **Impact of long-term straw and manure incorporation on carbon sequestration and yield through alteration of aluminum and iron oxides in acidic red soil** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

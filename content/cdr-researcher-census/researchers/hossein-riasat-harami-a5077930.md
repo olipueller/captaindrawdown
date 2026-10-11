@@ -1,7 +1,7 @@
 ---
 title: "Hossein Riasat Harami"
 description: "Hossein Riasat Harami is a Mid-career Biochar researcher at University of Alabama in US. With 20 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.308901
+date: 2026-10-11T02:32:59.314260
 url: "/cdr-researcher-census/researchers/hossein-riasat-harami-a5077930/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar performance evaluation for heavy metals removal from industrial wastewater based on machine learning: Application for environmental protection** (2023)
-   77 citations · Biochar
+   78 citations · Biochar
 
 2. **Evaluation of the Performance of Biochars for the Separation of Heavy Metals from Industrial Wastewater Based on Genetics Programming: Application for Environmental Protection** (2022)
    0 citations · Biochar

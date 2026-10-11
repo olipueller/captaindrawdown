@@ -1,7 +1,7 @@
 ---
 title: "Qiuxiang Tian"
 description: "Qiuxiang Tian is a Mid-career Soil Carbon researcher at Wuhan Botanical Garden, Chinese Academy of Sciences in CN. With 35 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.274338
+date: 2026-10-11T02:32:59.278607
 url: "/cdr-researcher-census/researchers/qiuxiang-tian-a5111168/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of tree mycorrhizal type on ecosystem carbon stock in a subtropical mountainous forest** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 2. **Nitrogen addition and precipitation reduction regulate soil organic carbon storage with contrasting mechanisms in subtropical forests** (2025)
    1 citations · Soil Carbon

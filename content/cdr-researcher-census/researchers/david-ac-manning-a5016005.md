@@ -1,7 +1,7 @@
 ---
 title: "David A.C. Manning"
 description: "David A.C. Manning is an Eminent Enhanced Weathering researcher at Newcastle University in GB. With 274 publications and an h-index of 57, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.018868
+date: 2026-10-11T02:32:59.021991
 url: "/cdr-researcher-census/researchers/david-ac-manning-a5016005/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,34 +51,34 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Mineral-enriched biochar delivers enhanced nutrient recovery and carbon dioxide removal** (2022)
-   114 citations · Biochar
+   117 citations · Biochar
 
 2. **Initial agronomic benefits of enhanced weathering using basalt: A study of spring oat in a temperate climate** (2024)
    50 citations
 
-3. **Soil carbon management and enhanced rock weathering: The separate fates of organic and inorganic carbon** (2024)
-   25 citations · Enhanced Weathering
-
-4. **Diversified crop rotations and organic amendments as strategies for increasing soil carbon storage and stabilisation in UK arable systems** (2023)
+3. **Diversified crop rotations and organic amendments as strategies for increasing soil carbon storage and stabilisation in UK arable systems** (2023)
    25 citations · Soil Carbon
 
-5. **Removal of atmospheric CO2 by engineered soils in infrastructure projects** (2022)
+4. **Removal of atmospheric CO2 by engineered soils in infrastructure projects** (2022)
    25 citations · Enhanced Weathering
 
+5. **Soil carbon management and enhanced rock weathering: The separate fates of organic and inorganic carbon** (2024)
+   24 citations · Enhanced Weathering
+
 6. **Mineral stabilities in soils: how minerals can feed the world and mitigate climate change** (2022)
-   20 citations · Enhanced Weathering
+   22 citations · Enhanced Weathering
 
 7. **Biochar benefits carbon off-setting in blue-green infrastructure soils - A lysimeter study** (2022)
-   17 citations · Biochar
+   16 citations · Biochar
 
 8. **Role of Subsurface Geo-Energy Pilot and Demonstration Sites in Delivering Net Zero** (2022)
-   10 citations · General CDR
+   11 citations · General CDR
 
 9. **Enhanced rock weathering — A nature-based solution for climate mitigation** (2025)
    3 citations · Enhanced Weathering
 
-10. **Quantifying potential carbon dioxide removal via enhanced weathering using porewater from a field trial in Scotland** (2025)
-   2 citations · Enhanced Weathering
+10. **Mining by-products and circular economy: improving soil health and carbon stocks through rock dust application** (2026)
+   2 citations
 
 ## External Profiles
 

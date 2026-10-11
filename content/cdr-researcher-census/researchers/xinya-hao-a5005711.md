@@ -1,7 +1,7 @@
 ---
 title: "Xinya Hao"
 description: "Xinya Hao is a Mid-career Ocean CDR researcher at City University of Hong Kong in HK. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.090892
+date: 2026-10-11T02:33:00.121524
 url: "/cdr-researcher-census/researchers/xinya-hao-a5005711/"
 layout: "researcher"
 hiddenInHomeList: true

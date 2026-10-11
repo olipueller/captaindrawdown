@@ -1,7 +1,7 @@
 ---
 title: "Xiaojian Zhong"
 description: "Xiaojian Zhong is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.216952
+date: 2026-10-11T02:32:59.220768
 url: "/cdr-researcher-census/researchers/xiaojian-zhong-a5087466/"
 layout: "researcher"
 hiddenInHomeList: true

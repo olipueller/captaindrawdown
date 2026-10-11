@@ -1,7 +1,7 @@
 ---
 title: "Deepesh Singh Chauhan"
 description: "Deepesh Singh Chauhan is a Mid-career BECCS researcher at Indian Institute of Technology Guwahati in IN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.238512
+date: 2026-10-11T02:33:00.268634
 url: "/cdr-researcher-census/researchers/deepesh-singh-chauhan-a5000966/"
 layout: "researcher"
 hiddenInHomeList: true

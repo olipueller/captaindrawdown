@@ -1,7 +1,7 @@
 ---
 title: "Lenaïg G. Hemery"
 description: "Lenaïg G. Hemery is a Senior Ocean CDR researcher at Pacific Northwest National Laboratory Marine Sciences Laboratory in US. With 65 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.272896
+date: 2026-10-11T02:32:59.277125
 url: "/cdr-researcher-census/researchers/lenaig-g-hemery-a5062898/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Methods for Measuring Carbon Dioxide Uptake and Permanence: Review and Implications for Macroalgae Aquaculture** (2023)
-   23 citations · General CDR
+   24 citations · General CDR
 
 2. **Mixing and dilution controls on marine CO<sub>2</sub> removal using alkalinity enhancement** (2024)
-   18 citations · Ocean CDR
+   19 citations · Ocean CDR
 
-3. **Biological response of eelgrass epifauna, Taylor’s sea hare (Phyllaplysia taylori) and eelgrass isopod (Idotea resecata), to elevated ocean alkalinity** (2024)
+3. **Biological response of eelgrass epifauna, Taylor's Sea hare ( <i>Phyllaplysia taylori</i> ) and eelgrass isopod ( <i>Idotea resecata</i> ), to elevated ocean alkalinity** (2025)
+   8 citations · Ocean CDR
+
+4. **Biological response of eelgrass epifauna, Taylor’s sea hare (Phyllaplysia taylori) and eelgrass isopod (Idotea resecata), to elevated ocean alkalinity** (2024)
    6 citations · Ocean CDR
 
-4. **Biological thresholds for marine carbon dioxide removal (mCDR): the effect of changes in carbonate chemistry** (2026)
+5. **Biological thresholds for marine carbon dioxide removal (mCDR): the effect of changes in carbonate chemistry** (2026)
    2 citations · General CDR
-
-5. **Biological response of eelgrass epifauna, Taylor's Sea hare ( <i>Phyllaplysia taylori</i> ) and eelgrass isopod ( <i>Idotea resecata</i> ), to elevated ocean alkalinity** (2025)
-   2 citations · Ocean CDR
 
 6. **Comment on egusphere-2026-1597** (2026)
    0 citations · General CDR

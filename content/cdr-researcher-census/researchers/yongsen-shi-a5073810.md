@@ -1,7 +1,7 @@
 ---
 title: "Yongsen Shi"
 description: "Yongsen Shi is a Mid-career Biochar researcher at Sun Yat-sen University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.535629
+date: 2026-10-11T02:32:59.550290
 url: "/cdr-researcher-census/researchers/yongsen-shi-a5073810/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhancing Anaerobic Biodegradation of Phenanthrene in Polluted Soil by Bioaugmentation and Biostimulation: Focus on the Distribution of Phenanthrene and Microbial Community Analysis** (2023)
-   8 citations · Biochar
+   9 citations · Biochar
 
 2. **Enhancing nitrogen removal in low C/N wastewater via carbon resource recovery from biochar-mediated anaerobic digestion of discarded cefradine residues** (2025)
-   6 citations · Biochar
+   7 citations · Biochar
 
 ## External Profiles
 

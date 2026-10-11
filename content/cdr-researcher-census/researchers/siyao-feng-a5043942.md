@@ -1,7 +1,7 @@
 ---
 title: "Siyao Feng"
 description: "Siyao Feng is a Mid-career Soil Carbon researcher at Yangtze University in CN. With 32 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.143932
+date: 2026-10-11T02:33:00.174154
 url: "/cdr-researcher-census/researchers/siyao-feng-a5043942/"
 layout: "researcher"
 hiddenInHomeList: true

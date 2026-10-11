@@ -1,7 +1,7 @@
 ---
 title: "Liangang Xiao"
 description: "Liangang Xiao is a Senior Soil Carbon researcher at North China University of Water Resources and Electric Power in CN. With 63 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.193608
+date: 2026-10-11T02:32:59.197600
 url: "/cdr-researcher-census/researchers/liangang-xiao-a5048562/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Net effects of conservation agriculture principles on sustainable land use: A synthesis** (2021)
-   74 citations · Soil Carbon
+   76 citations · Soil Carbon
 
 2. **The net and combined effects of minimum tillage and straw mulching on carbon accumulation in global croplands** (2022)
    13 citations · General CDR

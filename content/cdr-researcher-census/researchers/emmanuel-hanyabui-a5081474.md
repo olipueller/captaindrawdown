@@ -1,7 +1,7 @@
 ---
 title: "Emmanuel Hanyabui"
 description: "Emmanuel Hanyabui is a Mid-career Soil Carbon researcher at University of Cape Coast in GH. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.891589
+date: 2026-10-11T02:32:59.919550
 url: "/cdr-researcher-census/researchers/emmanuel-hanyabui-a5081474/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Influence of land use types on the distribution of selected soil properties in tropical soils of the Coastal Savanna zone** (2023)
-   18 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 2. **Influence of Land Use Types on the Distribution of Selected Soil Properties in Tropical Soils of the Coastal Savanna Zone** (2022)
    2 citations

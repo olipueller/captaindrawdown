@@ -1,7 +1,7 @@
 ---
 title: "Tabinda Athar"
 description: "Tabinda Athar is a Mid-career Soil Carbon researcher at Baylor University in US. With 39 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.622892
+date: 2026-10-11T02:32:59.640749
 url: "/cdr-researcher-census/researchers/tabinda-athar-a5044533/"
 layout: "researcher"
 hiddenInHomeList: true

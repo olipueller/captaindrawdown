@@ -1,7 +1,7 @@
 ---
 title: "Xiaohong Wang"
 description: "Xiaohong Wang is a Senior Soil Carbon researcher at Fujian Normal University in CN. With 44 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.308197
+date: 2026-10-11T02:32:59.313528
 url: "/cdr-researcher-census/researchers/xiaohong-wang-a5100455/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Input of high-quality litter reduces soil carbon losses due to priming in a subtropical pine forest** (2024)
-   47 citations · Soil Carbon
+   50 citations · Soil Carbon
 
 2. **Mineral-associated organic carbon predicts the variations in microbial biomass and specific enzyme activities in a subtropical forest** (2023)
-   40 citations · Soil Carbon
+   42 citations · Soil Carbon
 
 3. **Effects of C:N imbalance on soil microbial physiology in subtropical tree plantations associated with ectomycorrhizal and arbuscular mycorrhizal fungi** (2022)
-   29 citations
+   28 citations
 
 4. **Nutrient foraging strategies of arbuscular mycorrhizal tree species in a subtropical evergreen broadleaf forest and their relationship with fine root morphology** (2024)
    0 citations · Soil Carbon

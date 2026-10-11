@@ -1,7 +1,7 @@
 ---
 title: "A.S. Duden"
 description: "A.S. Duden is a Mid-career BECCS researcher. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.112045
+date: 2026-10-11T02:33:00.142988
 url: "/cdr-researcher-census/researchers/as-duden-a5017071/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **So you want to build a BECCS plant: the patchwork policy context for bioelectricity with carbon capture and storage in Europe** (2025)
-   3 citations · BECCS
+   4 citations · BECCS
 
 2. **Comparing GHG Emissions of Residue‐Based BECCS to Alternative Biomass Uses** (2025)
    1 citations · BECCS

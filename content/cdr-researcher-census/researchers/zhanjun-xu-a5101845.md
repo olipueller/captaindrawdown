@@ -1,7 +1,7 @@
 ---
 title: "Zhanjun Xu"
 description: "Zhanjun Xu is a Senior Soil Carbon researcher at Shanxi Agricultural University in CN. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.608347
+date: 2026-10-11T02:32:59.625740
 url: "/cdr-researcher-census/researchers/zhanjun-xu-a5101845/"
 layout: "researcher"
 hiddenInHomeList: true

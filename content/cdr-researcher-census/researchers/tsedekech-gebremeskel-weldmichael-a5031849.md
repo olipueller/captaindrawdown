@@ -1,7 +1,7 @@
 ---
 title: "Tsedekech Gebremeskel Weldmichael"
 description: "Tsedekech Gebremeskel Weldmichael is a Mid-career Biochar researcher at Addis Ababa Science and Technology University in ET. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.255966
+date: 2026-10-11T02:33:00.286036
 url: "/cdr-researcher-census/researchers/tsedekech-gebremeskel-weldmichael-a5031849/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mateusz Kowal"
 description: "Mateusz Kowal is a Mid-career BECCS researcher at Wrocław University of Science and Technology in PL. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.336509
+date: 2026-10-11T02:33:00.370611
 url: "/cdr-researcher-census/researchers/mateusz-kowal-a5057281/"
 layout: "researcher"
 hiddenInHomeList: true

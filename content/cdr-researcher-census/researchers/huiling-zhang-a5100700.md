@@ -1,7 +1,7 @@
 ---
 title: "Huiling Zhang"
 description: "Huiling Zhang is a Senior Biochar researcher at Ministry of Science and Technology in LA. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.939282
+date: 2026-10-11T02:32:59.969804
 url: "/cdr-researcher-census/researchers/huiling-zhang-a5100700/"
 layout: "researcher"
 hiddenInHomeList: true

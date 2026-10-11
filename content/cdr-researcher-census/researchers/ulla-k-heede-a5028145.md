@@ -1,7 +1,7 @@
 ---
 title: "Ulla K. Heede"
 description: "Ulla K. Heede is a Mid-career Ocean CDR researcher. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.466881
+date: 2026-10-11T02:32:59.478283
 url: "/cdr-researcher-census/researchers/ulla-k-heede-a5028145/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 7 |
 | Citations | 505 |
 | Publications | 25 |
-| CDR Focus | 8.0% |
+| CDR Focus | 12.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

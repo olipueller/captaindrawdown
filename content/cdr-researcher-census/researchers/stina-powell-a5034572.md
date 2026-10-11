@@ -1,7 +1,7 @@
 ---
 title: "Stina Powell"
 description: "Stina Powell is a Senior Soil Carbon researcher at Swedish University of Agricultural Sciences in SE. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.776266
+date: 2026-10-11T02:32:59.799430
 url: "/cdr-researcher-census/researchers/stina-powell-a5034572/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,10 +50,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Caring in crises - Unsettling care in soil carbon sequestration** (2026)
-   0 citations · General CDR
+1. **Caring in crises – Unsettling care in soil carbon sequestration** (2026)
+   1 citations · General CDR
 
-2. **Caring in crises – Unsettling care in soil carbon sequestration** (2026)
+2. **Caring in crises - Unsettling care in soil carbon sequestration** (2026)
    0 citations · General CDR
 
 ## External Profiles

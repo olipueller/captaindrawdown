@@ -1,7 +1,7 @@
 ---
 title: "Madeleine C. Oliver"
-description: "Madeleine C. Oliver is a Mid-career General CDR researcher. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.165701
+description: "Madeleine C. Oliver is a Mid-career General CDR researcher at Amentum (United States) in FR. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:33:00.150678
 url: "/cdr-researcher-census/researchers/madeleine-c-oliver-a5073059/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Madeleine C. Oliver",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/madeleine-c-oliver-a5073059/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Amentum (United States)"
+  },
   "sameAs": [
     "https://orcid.org/0000-0003-2359-8802",
     "https://openalex.org/A5073059275"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Madeleine C. Oliver**
+**Madeleine C. Oliver**  
+Amentum (United States) · 🇫🇷 FR
 
 **Career Stage:** Mid-career
 
@@ -38,9 +43,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 145 |
-| Publications | 19 |
-| CDR Focus | 10.5% |
+| Citations | 156 |
+| Publications | 18 |
+| CDR Focus | 11.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

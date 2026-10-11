@@ -1,7 +1,7 @@
 ---
 title: "Yuxin Wei"
 description: "Yuxin Wei is a Mid-career Biochar researcher at Xinjiang Agricultural University in CN. With 38 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.113349
+date: 2026-10-11T02:33:00.144235
 url: "/cdr-researcher-census/researchers/yuxin-wei-a5101306/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar-Based Remediation of Heavy Metal-Contaminated Soils: Mechanisms, Synergies, and Sustainable Prospects** (2025)
-   31 citations · Biochar
+   36 citations · Biochar
 
 2. **Assessing ecosystem services and their spillover effects to inform cost-benefit sharing and horizontal eco-compensation mechanisms in the Qilian Mountains, China** (2025)
-   15 citations · General CDR
+   17 citations · General CDR
 
 3. **Assessing Ecosystem Services and Their Spillover Effects to Inform Cost-Benefit Sharing and Horizontal Eco-Compensation Mechanisms in the Qilian Mountains, China** (2025)
    0 citations · General CDR

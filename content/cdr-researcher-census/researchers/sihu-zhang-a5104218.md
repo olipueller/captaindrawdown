@@ -1,7 +1,7 @@
 ---
 title: "Sihu Zhang"
 description: "Sihu Zhang is a Mid-career Soil Carbon researcher at Xi'an Jiaotong University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.975543
+date: 2026-10-11T02:33:00.007363
 url: "/cdr-researcher-census/researchers/sihu-zhang-a5104218/"
 layout: "researcher"
 hiddenInHomeList: true

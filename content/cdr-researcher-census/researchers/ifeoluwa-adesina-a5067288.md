@@ -1,7 +1,7 @@
 ---
 title: "Ifeoluwa Adesina"
 description: "Ifeoluwa Adesina is a Mid-career Biochar researcher at Adekunle Ajasin University in NG. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.622303
+date: 2026-10-11T02:32:59.640145
 url: "/cdr-researcher-census/researchers/ifeoluwa-adesina-a5067288/"
 layout: "researcher"
 hiddenInHomeList: true

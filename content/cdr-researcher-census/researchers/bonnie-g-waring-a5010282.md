@@ -1,7 +1,7 @@
 ---
 title: "Bonnie G. Waring"
 description: "Bonnie G. Waring is a Senior Enhanced Weathering researcher at Imperial College London in GB. With 110 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.056483
+date: 2026-10-11T02:32:59.060658
 url: "/cdr-researcher-census/researchers/bonnie-g-waring-a5010282/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,28 +54,28 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    24 citations · Soil Carbon
 
 2. **Alleviating Nitrogen and Phosphorus Limitation Does Not Amplify Potassium‐Induced Increase in Terrestrial Biomass** (2025)
-   10 citations
+   13 citations
 
-3. **An Integrated Modelling Framework to Determine Terrestrial Carbon Dioxide Removal via Enhanced Rock Weathering** (2025)
-   4 citations · Enhanced Weathering
+3. **Expert elicitation on agricultural enhanced weathering reveals carbon dioxide removal potential and uncertainties in loss pathways** (2026)
+   5 citations · Enhanced Weathering
 
-4. **Expert elicitation on agricultural enhanced weathering highlights CO2 removal potential and uncertainties in loss pathways** (2025)
+4. **An Integrated Modelling Framework to Determine Terrestrial Carbon Dioxide Removal via Enhanced Rock Weathering** (2025)
+   5 citations · Enhanced Weathering
+
+5. **Expert elicitation on agricultural enhanced weathering highlights CO2 removal potential and uncertainties in loss pathways** (2025)
    3 citations · Enhanced Weathering
-
-5. **Expert elicitation on agricultural enhanced weathering reveals carbon dioxide removal potential and uncertainties in loss pathways** (2026)
-   2 citations · Enhanced Weathering
 
 6. **Utilizing soil centrifugation for accurate estimates of carbon dioxide removal via enhanced rock weathering** (2025)
    2 citations
 
-7. **Utilizing Soil Centrifugation for Accurate Estimates of Carbon Dioxide Removal via Enhanced Rock Weathering** (2025)
+7. **Microbiome manipulation and enhanced weathering influence tree growth in reforestation** (2026)
    1 citations · Enhanced Weathering
 
-8. **Microbiome manipulation and enhanced weathering stimulate CO2 removal in reforestation** (2025)
+8. **Utilizing Soil Centrifugation for Accurate Estimates of Carbon Dioxide Removal via Enhanced Rock Weathering** (2025)
    1 citations · Enhanced Weathering
 
-9. **Microbiome manipulation and enhanced weathering influence tree growth in reforestation** (2026)
-   0 citations · Enhanced Weathering
+9. **Microbiome manipulation and enhanced weathering stimulate CO2 removal in reforestation** (2025)
+   1 citations · Enhanced Weathering
 
 10. **An Integrated Modelling Framework to Determine Terrestrial Carbon Dioxide Removal via Enhanced Rock Weathering** (2026)
    0 citations

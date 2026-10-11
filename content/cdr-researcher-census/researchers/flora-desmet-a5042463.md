@@ -1,7 +1,7 @@
 ---
 title: "Flora Desmet"
 description: "Flora Desmet is a Mid-career Soil Carbon researcher at Agroscope in CH. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.332533
+date: 2026-10-11T02:33:00.366534
 url: "/cdr-researcher-census/researchers/flora-desmet-a5042463/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yacouba Zoungranan"
 description: "Yacouba Zoungranan is a Mid-career Biochar researcher at Ministère de l'Enseignement Superieur et de la Recherche Scientifique in CI. With 23 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.152693
+date: 2026-10-11T02:33:00.182505
 url: "/cdr-researcher-census/researchers/yacouba-zoungranan-a5029090/"
 layout: "researcher"
 hiddenInHomeList: true

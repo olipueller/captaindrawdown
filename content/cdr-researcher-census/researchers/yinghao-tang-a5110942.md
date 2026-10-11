@@ -1,7 +1,7 @@
 ---
 title: "Yinghao Tang"
 description: "Yinghao Tang is a Mid-career Biochar researcher at Wuhan University of Technology in CN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.756055
+date: 2026-10-11T02:32:59.778624
 url: "/cdr-researcher-census/researchers/yinghao-tang-a5110942/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synthesis and characterization of iron-nitrogen-doped biochar catalysts for organic pollutant removal and hexavalent chromium reduction** (2021)
-   84 citations · Biochar
+   86 citations · Biochar
 
 ## External Profiles
 

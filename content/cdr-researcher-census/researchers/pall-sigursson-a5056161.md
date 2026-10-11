@@ -1,7 +1,7 @@
 ---
 title: "Páll Sigurðsson"
 description: "Páll Sigurðsson is a Mid-career Soil Carbon researcher at Agricultural University of Iceland in IS. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.549975
+date: 2026-10-11T02:32:59.565020
 url: "/cdr-researcher-census/researchers/pall-sigursson-a5056161/"
 layout: "researcher"
 hiddenInHomeList: true

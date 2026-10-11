@@ -1,7 +1,7 @@
 ---
 title: "Sneha Priya Pappula Reddy"
 description: "Sneha Priya Pappula Reddy is a Mid-career Soil Carbon researcher. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.331747
+date: 2026-10-11T02:32:59.337464
 url: "/cdr-researcher-census/researchers/sneha-priya-pappula-reddy-a5010179/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Role of Arbuscular Mycorrhizal Fungi in Regulating Growth, Enhancing Productivity, and Potentially Influencing Ecosystems under Abiotic and Biotic Stresses** (2023)
-   523 citations · Soil Carbon
+   557 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Yuqian Cui"
 description: "Yuqian Cui is a Mid-career Biochar researcher at Qilu Hospital of Shandong University in CN. With 33 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.233022
+date: 2026-10-11T02:32:59.236176
 url: "/cdr-researcher-census/researchers/yuqian-cui-a5104094/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **In-situ removal of microcystin aeruginosa and microcystin-LR by biochar supported sulfide nZVI via persulfate activation: Performance, mechanism and degradation pathway** (2024)
-   16 citations · Biochar
+   17 citations · Biochar
 
 2. **Enhanced simultaneous removal of acetamiprid and cadmium from soil and water in paddy fields by Fe-Mn-BC ternary micro-electrolysis: Performance, mechanism and pathway** (2024)
    7 citations · Soil Carbon

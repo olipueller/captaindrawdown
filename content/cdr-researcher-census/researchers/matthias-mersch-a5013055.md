@@ -1,7 +1,7 @@
 ---
 title: "Matthias Mersch"
 description: "Matthias Mersch is a Mid-career General CDR researcher at Imperial College London in GB. With 51 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.646735
+date: 2026-10-11T02:32:59.665584
 url: "/cdr-researcher-census/researchers/matthias-mersch-a5013055/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Dingmeng Hu"
 description: "Dingmeng Hu is a Mid-career Soil Carbon researcher at Wenzhou Medical University in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.269876
+date: 2026-10-11T02:33:00.299780
 url: "/cdr-researcher-census/researchers/dingmeng-hu-a5001338/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zhiying Tang"
 description: "Zhiying Tang is a Mid-career Soil Carbon researcher at International Bamboo and Rattan Organization in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.326124
+date: 2026-10-11T02:33:00.358732
 url: "/cdr-researcher-census/researchers/zhiying-tang-a5004440/"
 layout: "researcher"
 hiddenInHomeList: true

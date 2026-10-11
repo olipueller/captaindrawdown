@@ -1,7 +1,7 @@
 ---
 title: "Hana’a Burezq"
 description: "Hana’a Burezq is a Mid-career Biochar researcher at Kuwait Institute for Scientific Research in KW. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.313728
+date: 2026-10-11T02:33:00.344514
 url: "/cdr-researcher-census/researchers/hanaa-burezq-a5087460/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar from date palm (Phoenix dactylifera L.) residues—a critical review** (2023)
-   45 citations · Biochar
+   44 citations · Biochar
 
 ## External Profiles
 

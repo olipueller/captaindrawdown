@@ -1,7 +1,7 @@
 ---
 title: "Juan Jia"
 description: "Juan Jia is a Senior Soil Carbon researcher at Institute of Botany Chinese Academy of Sciences in CN. With 91 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.103580
+date: 2026-10-11T02:32:59.108332
 url: "/cdr-researcher-census/researchers/juan-jia-a5082763/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,16 +57,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    59 citations · Soil Carbon
 
 3. **Enhanced Mineral Preservation Rather Than Microbial Residue Production Dictates the Accrual of Mineral‐Associated Organic Carbon Along a Weathering Gradient** (2024)
-   47 citations · Soil Carbon
+   51 citations · Soil Carbon
 
 4. **Fast Decomposition of Nitrogen‐Rich Mineral‐Associated Organic Matter in Soils** (2025)
-   22 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 5. **Microbial necromass accrual from newly added labile and native soil carbon in the rhizosphere vs. non-rhizosphere of broadleaved and coniferous trees** (2024)
-   12 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 6. **Microbial Carbon Accumulation Efficiency in Global Soils Resolved via <sup>13</sup> C‐Glucose Amendment Experiments** (2025)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 7. **Microbial Carbon Accumulation Efficiency: Assessing Microbial Carbon Pump Efficiency based on 13C-glucose Amendment Experiment** (2025)
    0 citations · Soil Carbon

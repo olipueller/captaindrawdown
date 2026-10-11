@@ -1,7 +1,7 @@
 ---
 title: "Ruben Gerrits"
 description: "Ruben Gerrits is a Mid-career Enhanced Weathering researcher at Federal Institute For Materials Research and Testing in DE. With 32 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.578056
+date: 2026-10-11T02:32:59.593761
 url: "/cdr-researcher-census/researchers/ruben-gerrits-a5091622/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **The contribution of living organisms to rock weathering in the critical zone** (2022)
-   108 citations · Enhanced Weathering
+   111 citations · Enhanced Weathering
 
 2. **Abiogenic iron oxidation at the olivine surface is required for fungal weathering** (2026)
    0 citations · Enhanced Weathering

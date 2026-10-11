@@ -1,7 +1,7 @@
 ---
 title: "Fredrick Kayusi"
 description: "Fredrick Kayusi is a Mid-career General CDR researcher at Haramaya University in ET. With 69 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.950840
+date: 2026-10-11T02:32:59.981111
 url: "/cdr-researcher-census/researchers/fredrick-kayusi-a5094172/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    8 citations · General CDR
 
 2. **The Role of Mulching in Reducing Greenhouse Gas Emissions and Enhancing Soil Health Among Smallholder Farmers in Zambia, Malawi, Kenya, and Tanzania: An AI-Driven Approach** (2023)
-   3 citations · General CDR
+   4 citations · General CDR
 
 3. **Assessing the Unfulfilled Promises of Agroforestry and Conservation Agriculture as Climate-Smart Solutions for Food Security in Kenya, Tanzania, Uganda, and Zimbabwe** (2025)
    2 citations · General CDR

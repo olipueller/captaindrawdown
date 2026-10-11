@@ -1,7 +1,7 @@
 ---
 title: "Moritz Laub"
 description: "Moritz Laub is a Mid-career Soil Carbon researcher at ETH Zurich in CH. With 97 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.313796
+date: 2026-10-11T02:32:59.319453
 url: "/cdr-researcher-census/researchers/moritz-laub-a5075972/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The six rights of how and when to test for soil C saturation** (2024)
-   58 citations · Soil Carbon
+   60 citations · Soil Carbon
 
 2. **Potentials and barriers to land-based mitigation technologies and practices (LMTs)—a review** (2023)
    14 citations · BECCS
 
 3. **Litter Quality and Microbes Explain Aggregation Differences in a Tropical Sandy Soil** (2021)
-   12 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 4. **The six rights of how and when to test for soil C saturation** (2023)
    7 citations

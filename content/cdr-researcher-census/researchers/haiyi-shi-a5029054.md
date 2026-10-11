@@ -1,7 +1,7 @@
 ---
 title: "Haiyi Shi"
 description: "Haiyi Shi is a Senior Ocean CDR researcher at Guangdong Ocean University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.375117
+date: 2026-10-11T02:33:00.410552
 url: "/cdr-researcher-census/researchers/haiyi-shi-a5029054/"
 layout: "researcher"
 hiddenInHomeList: true

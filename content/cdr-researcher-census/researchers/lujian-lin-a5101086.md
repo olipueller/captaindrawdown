@@ -1,7 +1,7 @@
 ---
 title: "Lujian Lin"
 description: "Lujian Lin is a Mid-career Soil Carbon researcher at Xiamen University in CN. With 20 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.193386
+date: 2026-10-11T02:32:59.197374
 url: "/cdr-researcher-census/researchers/lujian-lin-a5101086/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Enhanced Cr(VI) stabilization by terrestrial-derived soil protein: Photoelectrochemical properties and reduction mechanisms** (2023)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Alix Vidal"
 description: "Alix Vidal is a Senior Enhanced Weathering researcher at Wageningen University & Research in NL. With 82 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.138216
+date: 2026-10-11T02:32:59.142722
 url: "/cdr-researcher-census/researchers/alix-vidal-a5059677/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,15 +51,15 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Organic carbon source controlled microbial olivine dissolution in small-scale flow-through bioreactors, for CO2 removal** (2024)
-   18 citations · Enhanced Weathering
+   16 citations · Enhanced Weathering
 
-2. **Design and Construction of an Experimental Setup to Enhance Mineral Weathering through the Activity of Soil Organisms** (2023)
+2. **From waste to soil: Can we create functioning manufactured soils by recycling rock processing waste?** (2024)
    10 citations · Enhanced Weathering
 
-3. **How earthworms thrive and drive silicate rock weathering in an artificial organo-mineral system** (2024)
-   8 citations · Enhanced Weathering
+3. **Design and Construction of an Experimental Setup to Enhance Mineral Weathering through the Activity of Soil Organisms** (2023)
+   10 citations · Enhanced Weathering
 
-4. **From waste to soil: Can we create functioning manufactured soils by recycling rock processing waste?** (2024)
+4. **How earthworms thrive and drive silicate rock weathering in an artificial organo-mineral system** (2024)
    8 citations · Enhanced Weathering
 
 5. **Alive and dead earthworms capture carbon during mineral weathering through different pathways** (2025)
@@ -68,17 +68,17 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 6. **Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment** (2025)
    3 citations
 
-7. **Can we improve soil properties and plant biomass using rock powder as soil amendment?** (2021)
-   2 citations · Enhanced Weathering
-
-8. **Contribution of dissolved organic carbon to total alkalinity in Enhanced Weathering experiments** (2026)
+7. **Contribution of dissolved organic carbon to total alkalinity in Enhanced Weathering experiments** (2026)
    1 citations · Enhanced Weathering
 
-9. **Effects of spent mushroom substrate and vermicompost on organic matter dynamics in highly weathered soil** (2026)
+8. **Can we improve soil properties and plant biomass using rock powder as soil amendment?** (2021)
+   1 citations · Enhanced Weathering
+
+9. **Effects of novel stover valorization pathways on soil organic matter dynamics in a highly weathered soil** (2026)
    0 citations
 
-10. **Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment** (2025)
-   0 citations · Biochar
+10. **Effects of spent mushroom substrate and vermicompost on organic matter dynamics in highly weathered soil** (2026)
+   0 citations
 
 ## External Profiles
 

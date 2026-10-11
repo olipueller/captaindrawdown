@@ -1,7 +1,7 @@
 ---
 title: "Noelia García-Franco"
 description: "Noelia García-Franco is a Mid-career Soil Carbon researcher at Technische Universität München in DE. With 59 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.078798
+date: 2026-10-11T02:32:59.083609
 url: "/cdr-researcher-census/researchers/noelia-garcia-franco-a5052372/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Pruning residues incorporation and reduced tillage improve soil organic matter stabilization and structure of salt-affected soils in a semi-arid Citrus tree orchard** (2021)
-   58 citations · Soil Carbon
+   60 citations · Soil Carbon
 
 2. **Cover crops improve the long‐term stabilization of soil organic carbon and total nitrogen through physico‐chemical protection in rainfed semiarid Mediterranean woody crop systems** (2024)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 3. **From waste to soil: Can we create functioning manufactured soils by recycling rock processing waste?** (2024)
-   8 citations · Enhanced Weathering
+   10 citations · Enhanced Weathering
 
-4. **Can we improve soil properties and plant biomass using rock powder as soil amendment?** (2021)
-   2 citations · Enhanced Weathering
-
-5. **Pruning residues incorporation and reduced tillage improve soil organic matter stabilization and structure of salt-affected soils in Citrus tree orchard under semi-arid climate conditions&amp;#160;** (2021)
+4. **Pruning residues incorporation and reduced tillage improve soil organic matter stabilization and structure of salt-affected soils in Citrus tree orchard under semi-arid climate conditions&amp;#160;** (2021)
    1 citations · Soil Carbon
+
+5. **Can we improve soil properties and plant biomass using rock powder as soil amendment?** (2021)
+   1 citations · Enhanced Weathering
 
 6. **Soil Health Evaluation for Permanent Crops Under Semiarid Mediterranean Conditions** (2025)
    0 citations

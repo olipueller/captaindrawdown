@@ -1,7 +1,7 @@
 ---
 title: "Michael S. Mbogga"
 description: "Michael S. Mbogga is a Senior General CDR researcher at Makerere University in UG. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.493994
+date: 2026-10-11T02:32:59.506082
 url: "/cdr-researcher-census/researchers/michael-s-mbogga-a5082221/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Carbon stock of Agoro Agu Central Forest reserve, in Lamwo district, Northern Uganda** (2023)
-   13 citations
+   14 citations
 
 2. **Carbon stock of Agoro Agu Central Forest Reserve, in Lamwo District, Northern Uganda** (2022)
    1 citations · General CDR

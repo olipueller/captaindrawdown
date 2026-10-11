@@ -1,7 +1,7 @@
 ---
 title: "Jaya Prasanth Rajakal"
 description: "Jaya Prasanth Rajakal is a Mid-career DAC researcher at Sunway University in MY. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.244857
+date: 2026-10-11T02:33:00.275066
 url: "/cdr-researcher-census/researchers/jaya-prasanth-rajakal-a5089827/"
 layout: "researcher"
 hiddenInHomeList: true

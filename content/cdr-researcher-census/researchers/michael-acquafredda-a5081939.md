@@ -1,7 +1,7 @@
 ---
 title: "Michael Acquafredda"
 description: "Michael Acquafredda is a Mid-career Ocean CDR researcher at North Bay Shellfish (United Kingdom) in GB. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.317220
+date: 2026-10-11T02:33:00.348894
 url: "/cdr-researcher-census/researchers/michael-acquafredda-a5081939/"
 layout: "researcher"
 hiddenInHomeList: true

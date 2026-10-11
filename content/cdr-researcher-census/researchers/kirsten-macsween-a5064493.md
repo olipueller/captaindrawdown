@@ -1,7 +1,7 @@
 ---
 title: "Kirsten MacSween"
 description: "Kirsten MacSween is a Senior Soil Carbon researcher at University of Aberdeen in GB. With 8 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.126637
+date: 2026-10-11T02:33:00.156964
 url: "/cdr-researcher-census/researchers/kirsten-macsween-a5064493/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Assessment of agricultural emissions, climate change mitigation and adaptation practices in Ethiopia** (2022)
-   142 citations · General CDR
+   146 citations · General CDR
 
 2. **Assessment of agricultural emissions, climate change mitigation and adaptation practices in Ethiopia** (2022)
    0 citations

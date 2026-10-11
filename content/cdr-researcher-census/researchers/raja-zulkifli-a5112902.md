@@ -1,7 +1,7 @@
 ---
 title: "Raja Zulkifli"
 description: "Raja Zulkifli is a Mid-career Soil Carbon researcher at Malaysian Palm Oil Board in MY. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.551700
+date: 2026-10-11T02:32:59.566703
 url: "/cdr-researcher-census/researchers/raja-zulkifli-a5112902/"
 layout: "researcher"
 hiddenInHomeList: true

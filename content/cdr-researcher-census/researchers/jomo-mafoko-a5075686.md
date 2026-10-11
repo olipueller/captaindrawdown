@@ -1,7 +1,7 @@
 ---
 title: "Jomo Mafoko"
 description: "Jomo Mafoko is an Early-career General CDR researcher at Human Growth Foundation in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.259762
+date: 2026-10-11T02:33:00.289561
 url: "/cdr-researcher-census/researchers/jomo-mafoko-a5075686/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Framework for a savanna burning emissions abatement methodology applicable to fire-prone miombo woodlands in southern Africa** (2024)
-   13 citations · General CDR
+   16 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Andrei Longo"
 description: "Andrei Longo is a Mid-career Biochar researcher at Polytechnic Institute of Portalegre in PT. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.745044
+date: 2026-10-11T02:32:59.767355
 url: "/cdr-researcher-census/researchers/andrei-longo-a5081830/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The Potential of Waste Phloem Fraction of Quercus cerris Bark in Biochar Production** (2023)
-   6 citations · Biochar
+   7 citations · Biochar
 
 2. **Mobile Pyrolysis Systems for Decentralized Biomass Valorization: Technologies, Products, and Applications** (2026)
-   5 citations · Biochar
+   6 citations · Biochar
 
 ## External Profiles
 

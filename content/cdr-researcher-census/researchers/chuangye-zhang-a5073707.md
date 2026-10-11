@@ -1,7 +1,7 @@
 ---
 title: "Chuangye Zhang"
 description: "Chuangye Zhang is an Early-career Enhanced Weathering researcher at North West Agriculture and Forestry University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.386899
+date: 2026-10-11T02:33:00.423909
 url: "/cdr-researcher-census/researchers/chuangye-zhang-a5073707/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Crop productivity and soil inorganic carbon change mediated by enhanced rock weathering in farmland: A comparative field analysis of multi-agroclimatic regions in central China** (2023)
-   41 citations · Enhanced Weathering
+   40 citations · Enhanced Weathering
 
 ## External Profiles
 

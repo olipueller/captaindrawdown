@@ -1,7 +1,7 @@
 ---
 title: "Mohammed A. Almarshoud"
 description: "Mohammed A. Almarshoud is an Early-career Biochar researcher at University of Jeddah in SA. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.219564
+date: 2026-10-11T02:33:00.249881
 url: "/cdr-researcher-census/researchers/mohammed-a-almarshoud-a5096068/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **CO₂ sequestration pathways in cementitious materials: Mechanisms, material synergies, and deployment challenges for low-carbon construction** (2026)
-   2 citations · Biochar
+   3 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Nicolás Sánchez"
 description: "Nicolás Sánchez is a Senior Ocean CDR researcher at Norwegian University of Science and Technology in NO. With 54 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.043804
+date: 2026-10-11T02:32:59.047238
 url: "/cdr-researcher-census/researchers/nicolas-sanchez-a5027018/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Plankton food web structure and productivity under ocean alkalinity enhancement** (2024)
-   25 citations · General CDR
+   29 citations · General CDR
 
 2. **Early life stages of fish under ocean alkalinity enhancement in coastal plankton communities** (2024)
-   18 citations · Ocean CDR
+   23 citations · Ocean CDR
 
 3. **Ocean alkalinity enhancement in an open-ocean ecosystem: biogeochemical responses and carbon storage durability** (2025)
-   14 citations · Ocean CDR
+   19 citations · Ocean CDR
 
 4. **Supplementary material to "Ocean alkalinity enhancement in an open ocean ecosystem: Biogeochemical responses and carbon storage durability"** (2024)
    8 citations · General CDR
@@ -74,10 +74,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 8. **Resilience of the gelatinous zooplankton species Oikopleura dioica to ocean alkalinity enhancement** (2026)
    1 citations · General CDR
 
-9. **Data underlying figures for: Resilience of the gelatinous zooplankton species Oikopleura dioica to ocean alkalinity enhancement (PONE-D-25-40260)** (2025)
-   0 citations
+9. **A sequential gated research framework for addressing potential impacts of marine carbon dioxide removal on fisheries, aquaculture, and Indigenous communities** (2026)
+   0 citations · General CDR
 
-10. **Data underlying figures for: Resilience of the gelatinous zooplankton species Oikopleura dioica to ocean alkalinity enhancement (PONE-D-25-40260)** (2025)
+10. **Figs 1–14 in KOSMOS 2021 Gran Canaria mesocosm study on ocean alkalinity enhancement: metazoan zooplankton carbon biomass** (2024)
    0 citations · Ocean CDR
 
 ## External Profiles

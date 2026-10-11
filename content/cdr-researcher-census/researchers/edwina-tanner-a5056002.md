@@ -1,7 +1,7 @@
 ---
 title: "Edwina Tanner"
 description: "Edwina Tanner is a Mid-career Ocean CDR researcher at Whale Museum in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.067975
+date: 2026-10-11T02:33:00.098080
 url: "/cdr-researcher-census/researchers/edwina-tanner-a5056002/"
 layout: "researcher"
 hiddenInHomeList: true

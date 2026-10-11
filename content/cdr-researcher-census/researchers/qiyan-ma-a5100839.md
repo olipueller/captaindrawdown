@@ -1,7 +1,7 @@
 ---
 title: "Qiyan Ma"
 description: "Qiyan Ma is a Mid-career Biochar researcher at Beijing Chaoyang Emergency Medical Center in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.960296
+date: 2026-10-11T02:32:59.991610
 url: "/cdr-researcher-census/researchers/qiyan-ma-a5100839/"
 layout: "researcher"
 hiddenInHomeList: true

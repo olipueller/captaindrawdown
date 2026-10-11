@@ -1,7 +1,7 @@
 ---
 title: "Yunfei Li"
 description: "Yunfei Li is a Mid-career Soil Carbon researcher at Karolinska Institutet in SE. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.126154
+date: 2026-10-11T02:33:00.156554
 url: "/cdr-researcher-census/researchers/yunfei-li-a5041611/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Revegetation promotes soil mineral-associated organic carbon sequestration and soil carbon stability in the Tengger Desert, northern China** (2023)
-   65 citations · Soil Carbon
+   69 citations · Soil Carbon
 
 2. **Elevational control on microbial residues contributions to soil organic carbon: Dual regulation by soil moisture and total nitrogen dynamics in semi-arid mountain soils** (2025)
    0 citations · Soil Carbon

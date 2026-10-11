@@ -1,7 +1,7 @@
 ---
 title: "Reza Maddahi"
 description: "Reza Maddahi is a Senior General CDR researcher. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.774613
+date: 2026-10-11T02:32:59.797769
 url: "/cdr-researcher-census/researchers/reza-maddahi-a5019838/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Carbon capture and utilization under EU law: impermanent storage of CO2 in products and pre-combustion carbon capture** (2024)
-   12 citations · General CDR
+   13 citations · General CDR
 
 ## External Profiles
 

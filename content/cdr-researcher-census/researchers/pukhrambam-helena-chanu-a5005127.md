@@ -1,7 +1,7 @@
 ---
 title: "Pukhrambam Helena Chanu"
 description: "Pukhrambam Helena Chanu is a Mid-career Soil Carbon researcher. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.334848
+date: 2026-10-11T02:33:00.368921
 url: "/cdr-researcher-census/researchers/pukhrambam-helena-chanu-a5005127/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kasper van der Cruijsen"
 description: "Kasper van der Cruijsen is a Mid-career BECCS researcher at Graduate School Experimental Plant Sciences in NL. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.266838
+date: 2026-10-11T02:33:00.296799
 url: "/cdr-researcher-census/researchers/kasper-van-der-cruijsen-a5000352/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Novel Miscanthus hybrids: Modelling productivity on marginal land in Europe using dynamics of canopy development determined by light interception** (2023)
-   19 citations · BECCS
+   20 citations · BECCS
 
 ## External Profiles
 

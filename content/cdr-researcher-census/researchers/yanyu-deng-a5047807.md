@@ -1,7 +1,7 @@
 ---
 title: "Yanyu Deng"
 description: "Yanyu Deng is a Mid-career Soil Carbon researcher at University of Wisconsin–Madison in US. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.359643
+date: 2026-10-11T02:33:00.394421
 url: "/cdr-researcher-census/researchers/yanyu-deng-a5047807/"
 layout: "researcher"
 hiddenInHomeList: true

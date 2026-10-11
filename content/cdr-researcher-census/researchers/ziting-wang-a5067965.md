@@ -1,7 +1,7 @@
 ---
 title: "Ziting Wang"
 description: "Ziting Wang is a Mid-career Biochar researcher at Guangxi University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.761395
+date: 2026-10-11T02:32:59.784412
 url: "/cdr-researcher-census/researchers/ziting-wang-a5067965/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar effects on aggregation and carbon-nitrogen retention in different-sized aggregates of clay and loam soils: A meta-analysis** (2024)
-   39 citations · Biochar
+   43 citations · Biochar
 
 ## External Profiles
 

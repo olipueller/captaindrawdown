@@ -1,7 +1,7 @@
 ---
 title: "B. M. Pandey"
 description: "B. M. Pandey is a Senior Soil Carbon researcher. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.892026
+date: 2026-10-11T02:32:59.920083
 url: "/cdr-researcher-census/researchers/b-m-pandey-a5113032/"
 layout: "researcher"
 hiddenInHomeList: true

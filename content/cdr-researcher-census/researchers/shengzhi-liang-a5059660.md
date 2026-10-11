@@ -1,7 +1,7 @@
 ---
 title: "Shengzhi Liang"
 description: "Shengzhi Liang is a Mid-career General CDR researcher at Forschungszentrum Jülich in DE. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.103656
+date: 2026-10-11T02:33:00.134120
 url: "/cdr-researcher-census/researchers/shengzhi-liang-a5059660/"
 layout: "researcher"
 hiddenInHomeList: true

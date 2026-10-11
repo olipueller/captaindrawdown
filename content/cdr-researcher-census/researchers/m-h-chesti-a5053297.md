@@ -1,7 +1,7 @@
 ---
 title: "M. H. Chesti"
 description: "M. H. Chesti is a Senior Soil Carbon researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir in IN. With 35 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.302940
+date: 2026-10-11T02:33:00.334019
 url: "/cdr-researcher-census/researchers/m-h-chesti-a5053297/"
 layout: "researcher"
 hiddenInHomeList: true

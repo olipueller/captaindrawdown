@@ -1,7 +1,7 @@
 ---
 title: "Julia Valentim Tavares"
 description: "Julia Valentim Tavares is a Mid-career Soil Carbon researcher at Uppsala University in SE. With 32 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.226336
+date: 2026-10-11T02:32:59.229577
 url: "/cdr-researcher-census/researchers/julia-valentim-tavares-a5034089/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Background climate conditions regulated the photosynthetic response of Amazon forests to the 2015/2016 El Nino-Southern Oscillation event** (2022)
-   18 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 2. **Amazon forest carbon sinks are surprisingly resilient, but vulnerable to increasing drought length** (2026)
    0 citations · Soil Carbon

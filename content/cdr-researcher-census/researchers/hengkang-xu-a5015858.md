@@ -1,7 +1,7 @@
 ---
 title: "Hengkang Xu"
 description: "Hengkang Xu is a Mid-career Soil Carbon researcher at Beijing Academy of Agriculture and Forestry Sciences in CN. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.655135
+date: 2026-10-11T02:32:59.673649
 url: "/cdr-researcher-census/researchers/hengkang-xu-a5015858/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil nitrogen and climate drive the positive effect of biological soil crusts on soil organic carbon sequestration in drylands: A Meta-analysis** (2021)
-   77 citations · Soil Carbon
+   79 citations · Soil Carbon
 
 2. **Climate factors regulate the depth dependency of soil organic carbon under grazing exclusion in Chinese grasslands: A meta‐analysis** (2023)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 ## External Profiles
 

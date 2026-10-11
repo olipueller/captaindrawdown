@@ -1,7 +1,7 @@
 ---
 title: "Fatemeh Gholipour"
 description: "Fatemeh Gholipour is a Mid-career General CDR researcher at Amirkabir University of Technology in IR. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.620951
+date: 2026-10-11T02:32:59.638605
 url: "/cdr-researcher-census/researchers/fatemeh-gholipour-a5061126/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Separation of 1‐Naphthol from Wastewater Using HF‐Free Microwave‐Assisted Synthesized MIL‐101(Cr): Kinetics, Thermodynamics and Reusability Studies**** (2022)
-   3 citations · General CDR
+   2 citations · General CDR
 
 ## External Profiles
 

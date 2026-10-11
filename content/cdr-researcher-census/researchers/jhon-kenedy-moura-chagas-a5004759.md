@@ -1,7 +1,7 @@
 ---
 title: "Jhon Kenedy Moura Chagas"
 description: "Jhon Kenedy Moura Chagas is a Mid-career Biochar researcher at Universidade de Brasília in BR. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.653775
+date: 2026-10-11T02:32:59.672444
 url: "/cdr-researcher-census/researchers/jhon-kenedy-moura-chagas-a5004759/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Seven‐year effects of sewage sludge biochar on soil organic carbon pools and yield: Understanding the role of biochar on carbon sequestration and productivity** (2024)
-   9 citations · Biochar
+   11 citations · Biochar
 
 2. **Sewage Sludge Biochar** (2022)
    2 citations · Biochar

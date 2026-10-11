@@ -1,7 +1,7 @@
 ---
 title: "Jianhua Lv"
 description: "Jianhua Lv is a Mid-career Soil Carbon researcher at Qingdao Agricultural University in CN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.510668
+date: 2026-10-11T02:32:59.523994
 url: "/cdr-researcher-census/researchers/jianhua-lv-a5055333/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A compartmentation approach to deconstruct ecosystem carbon fluxes of a Moso bamboo forest in subtropical China** (2024)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 ## External Profiles
 

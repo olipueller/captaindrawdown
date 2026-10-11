@@ -1,7 +1,7 @@
 ---
 title: "Zhenfu Wu"
 description: "Zhenfu Wu is a Mid-career Soil Carbon researcher at Zhengzhou University in CN. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.283855
+date: 2026-10-11T02:33:00.314098
 url: "/cdr-researcher-census/researchers/zhenfu-wu-a5110363/"
 layout: "researcher"
 hiddenInHomeList: true

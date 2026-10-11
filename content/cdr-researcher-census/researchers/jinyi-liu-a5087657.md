@@ -1,7 +1,7 @@
 ---
 title: "Jinyi Liu"
 description: "Jinyi Liu is a Mid-career Biochar researcher at Hainan University in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.331349
+date: 2026-10-11T02:33:00.365089
 url: "/cdr-researcher-census/researchers/jinyi-liu-a5087657/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ellen G. Polites"
 description: "Ellen G. Polites is a Mid-career Enhanced Weathering researcher at Pacific Northwest National Laboratory in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.026604
+date: 2026-10-11T02:33:00.057970
 url: "/cdr-researcher-census/researchers/ellen-g-polites-a5003535/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Exotic Carbonate Mineralization Recovered from a Deep Basalt Carbon Storage Demonstration** (2022)
-   53 citations · Enhanced Weathering
+   54 citations · Enhanced Weathering
 
 ## External Profiles
 

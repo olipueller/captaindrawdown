@@ -1,7 +1,7 @@
 ---
 title: "Yueyu Sui"
 description: "Yueyu Sui is a Senior Soil Carbon researcher at Northeast Institute of Geography and Agroecology in CN. With 72 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.071807
+date: 2026-10-11T02:32:59.076458
 url: "/cdr-researcher-census/researchers/yueyu-sui-a5108627/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    159 citations · Soil Carbon
 
 2. **Significant loss of soil inorganic carbon at the continental scale** (2021)
-   146 citations · Soil Carbon
+   144 citations · Soil Carbon
 
 3. **Soil Organic Carbon Mineralization and Its Temperature Sensitivity under Different Substrate Levels in the Mollisols of Northeast China** (2022)
    25 citations · Soil Carbon

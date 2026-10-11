@@ -1,7 +1,7 @@
 ---
 title: "J. L. Meshalkina"
 description: "J. L. Meshalkina is a Senior Soil Carbon researcher at Lomonosov Moscow State University in RU. With 71 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.679907
+date: 2026-10-11T02:32:59.699628
 url: "/cdr-researcher-census/researchers/j-l-meshalkina-a5041662/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Maps of Soil Organic Carbon Sequestration Potential in the Russian Croplands** (2024)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 2. **Forecasting the Carbon Stock Dynamics in the Soils of Cultivated Croplands in European Russia in the Context of the Low-Carbon Development** (2023)
    9 citations · General CDR
@@ -62,19 +62,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Assessment of the Biomass of Coniferous–Deciduous Forest by the Example of the Chashnikovo Training and Experimental Soil Ecological Center of Moscow State University** (2024)
    2 citations
 
-5. **Assessment of the Most Important Carbon Pools in Moscow Oblast Mixed Forests** (2025)
+5. **Comparative Assessment of Methods for Calculating the Carbon Sequestration Potential of Croplands in Russia Based on Dynamic Modelling** (2026)
+   1 citations
+
+6. **Assessment of the Most Important Carbon Pools in Moscow Oblast Mixed Forests** (2025)
    1 citations · Soil Carbon
 
-6. **An assessment of the most important carbon pools in the mixed forests of the Moscow region** (2025)
+7. **An assessment of the most important carbon pools in the mixed forests of the Moscow region** (2025)
    1 citations · Soil Carbon
 
-7. **Soil Organic Carbon Sequestration Potential Maps in the Russian Cropland** (2024)
+8. **Soil Organic Carbon Sequestration Potential Maps in the Russian Cropland** (2024)
    1 citations · General CDR
 
-8. **Sensitivity Analysis of the RothC Model Using Two Climatic Datasets: A Case Study of Arable Soils in Rostov Oblast** (2024)
+9. **Sensitivity Analysis of the RothC Model Using Two Climatic Datasets: A Case Study of Arable Soils in Rostov Oblast** (2024)
    0 citations · Soil Carbon
 
-9. **Map of Potential Sequestration of Carbon by Arable Soils in Rostov Oblast Updated Using Rosstat Data** (2024)
+10. **Map of Potential Sequestration of Carbon by Arable Soils in Rostov Oblast Updated Using Rosstat Data** (2024)
    0 citations · General CDR
 
 ## External Profiles

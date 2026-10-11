@@ -1,7 +1,7 @@
 ---
 title: "Chongzhe Zhang"
 description: "Chongzhe Zhang is a Senior Soil Carbon researcher at Ministry of Agriculture in EE. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.341353
+date: 2026-10-11T02:32:59.347287
 url: "/cdr-researcher-census/researchers/chongzhe-zhang-a5039178/"
 layout: "researcher"
 hiddenInHomeList: true

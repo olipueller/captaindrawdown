@@ -1,7 +1,7 @@
 ---
 title: "Moritz Gutsch"
 description: "Moritz Gutsch is a Mid-career DAC researcher at University of Münster in DE. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.491752
+date: 2026-10-11T02:32:59.503838
 url: "/cdr-researcher-census/researchers/moritz-gutsch-a5009486/"
 layout: "researcher"
 hiddenInHomeList: true

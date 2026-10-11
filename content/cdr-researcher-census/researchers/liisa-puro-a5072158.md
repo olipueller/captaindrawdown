@@ -1,7 +1,7 @@
 ---
 title: "Liisa Puro"
 description: "Liisa Puro is a Senior Biochar researcher at Lappeenranta-Lahti University of Technology in FI. With 17 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.368157
+date: 2026-10-11T02:32:59.375440
 url: "/cdr-researcher-census/researchers/liisa-puro-a5072158/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synthesis of biochar from iron-free and iron-containing microalgal biomass for the removal of pharmaceuticals from water** (2022)
-   56 citations · Biochar
+   57 citations · Biochar
 
 ## External Profiles
 

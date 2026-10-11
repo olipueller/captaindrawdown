@@ -1,7 +1,7 @@
 ---
 title: "K Christie"
 description: "K Christie is a Senior Soil Carbon researcher at University of Tasmania  in AU. With 69 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.239351
+date: 2026-10-11T02:32:59.242904
 url: "/cdr-researcher-census/researchers/k-christie-a5036065/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon, cash, cattle and the climate crisis** (2023)
-   36 citations · General CDR
+   35 citations · General CDR
 
 2. **Extreme weather dominates farm management effects on long-term trends in soil carbon** (2024)
-   14 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 3. **Tailoring Australian carbon farming can realise greater co-benefits** (2026)
-   1 citations · General CDR
+   2 citations · General CDR
 
 4. **Structural inequities shape biodiversity and climate mitigation outcomes in livestock systems** (2026)
    0 citations · General CDR

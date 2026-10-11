@@ -1,7 +1,7 @@
 ---
 title: "Shelby C. McClelland"
 description: "Shelby C. McClelland is a Senior Soil Carbon researcher at Stony Brook University in US. With 40 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.141914
+date: 2026-10-11T02:32:59.146157
 url: "/cdr-researcher-census/researchers/shelby-c-mcclelland-a5043807/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · General CDR
 
 4. **Climate mitigation potential of cover crops in the United States is regionally concentrated and lower than previous estimates** (2024)
-   8 citations · General CDR
+   9 citations · General CDR
 
 5. **Sensationalized soil carbon sequestration estimates excuse further climate inaction** (2023)
    4 citations · General CDR

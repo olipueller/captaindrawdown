@@ -1,7 +1,7 @@
 ---
 title: "Hirendrasinh Padhiyar"
 description: "Hirendrasinh Padhiyar is a Mid-career Ocean CDR researcher at Marwadi University in IN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.445608
+date: 2026-10-11T02:32:59.456115
 url: "/cdr-researcher-census/researchers/hirendrasinh-padhiyar-a5055012/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Ensuring carbon neutrality via algae-based wastewater treatment systems: Progress and future perspectives** (2024)
-   40 citations · Ocean CDR
+   43 citations · Ocean CDR
 
 ## External Profiles
 

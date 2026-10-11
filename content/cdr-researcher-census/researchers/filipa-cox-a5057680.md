@@ -1,7 +1,7 @@
 ---
 title: "Filipa Cox"
 description: "Filipa Cox is a Senior Soil Carbon researcher at The University of Manchester in GB. With 35 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.154435
+date: 2026-10-11T02:32:59.158749
 url: "/cdr-researcher-census/researchers/filipa-cox-a5057680/"
 layout: "researcher"
 hiddenInHomeList: true

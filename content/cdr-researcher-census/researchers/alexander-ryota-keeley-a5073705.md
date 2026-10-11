@@ -1,7 +1,7 @@
 ---
 title: "Alexander Ryota Keeley"
 description: "Alexander Ryota Keeley is a Senior DAC researcher at Kyushu University in JP. With 81 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.112715
+date: 2026-10-11T02:32:59.117350
 url: "/cdr-researcher-census/researchers/alexander-ryota-keeley-a5073705/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Top CDR Publications
 
-1. **The nexus between direct air capture technology and CO2 emissions in the transport sector** (2024)
+1. **Psychological and socio-economic drivers of public acceptance for direct air capture and utilization technology** (2025)
    6 citations · DAC
 
-2. **Psychological and socio-economic drivers of public acceptance for direct air capture and utilization technology** (2025)
-   5 citations · DAC
+2. **The nexus between direct air capture technology and CO2 emissions in the transport sector** (2024)
+   6 citations · DAC
 
 3. **Renewable energy vs. direct air capture and utilization at the macroeconomic level: A Computable General Equilibruim analysis in Japan** (2026)
    1 citations · DAC

@@ -1,7 +1,7 @@
 ---
 title: "Eliza Maher Hasselquist"
 description: "Eliza Maher Hasselquist is a Senior Soil Carbon researcher at Swedish University of Agricultural Sciences in SE. With 77 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.148043
+date: 2026-10-11T02:32:59.152315
 url: "/cdr-researcher-census/researchers/eliza-maher-hasselquist-a5002469/"
 layout: "researcher"
 hiddenInHomeList: true

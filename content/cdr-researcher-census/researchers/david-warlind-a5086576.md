@@ -1,7 +1,7 @@
 ---
 title: "David Wårlind"
 description: "David Wårlind is a Senior General CDR researcher at Lunds universitet Naturvetenskapliga fakulteten in SE. With 118 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.047495
+date: 2026-10-11T02:32:59.051206
 url: "/cdr-researcher-census/researchers/david-warlind-a5086576/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 25 |
 | Citations | 5,191 |
 | Publications | 118 |
-| CDR Focus | 5.1% |
+| CDR Focus | 5.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Bedrock Weathering Controls on Terrestrial Carbon‐Nitrogen‐Climate Interactions** (2021)
-   14 citations · Enhanced Weathering
+   15 citations · Enhanced Weathering
 
 2. **Forestation in CMIP6: wide model spread in tree cover and land carbon uptake** (2025)
    5 citations · General CDR
@@ -59,22 +59,25 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 3. **Phosphorus enrichment does not enlarge the predicted CO <sub>2</sub> fertilization effect on forest carbon sequestration** (2026)
    1 citations
 
-4. **Phosphorus enrichment does not enlarge the predicted CO2 fertilization effect on forest carbon sequestration.** (2026)
+4. **Assessing Earth system responses in mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2026)
+   0 citations · General CDR
+
+5. **Phosphorus enrichment does not enlarge the predicted CO2 fertilization effect on forest carbon sequestration.** (2026)
    0 citations
 
-5. **Assessing Earth system responses in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2026)
+6. **Assessing Earth system responses in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2026)
    0 citations · General CDR
 
-6. **Data from: Phosphorus enrichment does not enlarge the predicted CO2 fertilization effect on forest carbon sequestration** (2026)
+7. **Data from: Phosphorus enrichment does not enlarge the predicted CO2 fertilization effect on forest carbon sequestration** (2026)
    0 citations · General CDR
 
-7. **Assessing Earth system feedbacks in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2025)
+8. **Assessing Earth system feedbacks in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2025)
    0 citations · General CDR
 
-8. **Bottom-up estimate of the carbon dioxide removal potential of land-based mitigation technologies using a coupled ESM/ land-use change model framework** (2025)
+9. **Bottom-up estimate of the carbon dioxide removal potential of land-based mitigation technologies using a coupled ESM/ land-use change model framework** (2025)
    0 citations · General CDR
 
-9. **Representing carbon dioxide removal in Earth System Models: towards an activity-driven framework.** (2025)
+10. **Representing carbon dioxide removal in Earth System Models: towards an activity-driven framework.** (2025)
    0 citations · General CDR
 
 ## External Profiles

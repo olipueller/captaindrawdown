@@ -1,7 +1,7 @@
 ---
 title: "Usman Ali Naeem"
 description: "Usman Ali Naeem is a Senior DAC researcher at University of Engineering and Technology Taxila in PK. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.603070
+date: 2026-10-11T02:32:59.620485
 url: "/cdr-researcher-census/researchers/usman-ali-naeem-a5111106/"
 layout: "researcher"
 hiddenInHomeList: true

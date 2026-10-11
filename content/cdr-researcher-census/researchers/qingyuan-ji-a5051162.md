@@ -1,7 +1,7 @@
 ---
 title: "Qingyuan Ji"
 description: "Qingyuan Ji is an Early-career Soil Carbon researcher. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.768866
+date: 2026-10-11T02:32:59.791796
 url: "/cdr-researcher-census/researchers/qingyuan-ji-a5051162/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Optimizing drip irrigation and nitrogen fertilization regimes to reduce greenhouse gas emissions, increase net ecosystem carbon budget and reduce carbon footprint in saline cotton fields** (2024)
-   64 citations · Soil Carbon
+   65 citations · Soil Carbon
 
 ## External Profiles
 

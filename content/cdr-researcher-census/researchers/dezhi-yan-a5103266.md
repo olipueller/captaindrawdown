@@ -1,7 +1,7 @@
 ---
 title: "Dezhi Yan"
 description: "Dezhi Yan is a Senior Soil Carbon researcher at Yancheng Institute of Technology in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.475386
+date: 2026-10-11T02:32:59.486591
 url: "/cdr-researcher-census/researchers/dezhi-yan-a5103266/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Changes of microbial residues over century-long soil development after tidal flat reclamation in eastern China** (2024)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 ## External Profiles
 

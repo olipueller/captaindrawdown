@@ -1,7 +1,7 @@
 ---
 title: "Siqun Tang"
 description: "Siqun Tang is a Mid-career Biochar researcher at Hunan University in CN. With 34 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.304546
+date: 2026-10-11T02:32:59.309731
 url: "/cdr-researcher-census/researchers/siqun-tang-a5110645/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Co-influence of biochar-supported effective microorganisms and seasonal changes on dissolved organic matter and microbial activity in eutrophic lake** (2024)
-   21 citations · Biochar
+   22 citations · Biochar
 
 2. **Effects of biochar and organic fertilizer on microorganisms and aggregates and their carbon sequestration in sediment** (2025)
    2 citations · Biochar

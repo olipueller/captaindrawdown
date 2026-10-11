@@ -1,7 +1,7 @@
 ---
 title: "Xiuqing Nie"
 description: "Xiuqing Nie is a Mid-career Soil Carbon researcher at Chinese Academy of Forestry in CN. With 39 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.374910
+date: 2026-10-11T02:32:59.382307
 url: "/cdr-researcher-census/researchers/xiuqing-nie-a5101908/"
 layout: "researcher"
 hiddenInHomeList: true

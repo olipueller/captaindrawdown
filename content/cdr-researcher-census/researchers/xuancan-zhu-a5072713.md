@@ -1,7 +1,7 @@
 ---
 title: "Xuancan Zhu"
 description: "Xuancan Zhu is a Senior DAC researcher at Shanghai Jiao Tong University in CN. With 46 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.078674
+date: 2026-10-11T02:32:59.083486
 url: "/cdr-researcher-census/researchers/xuancan-zhu-a5072713/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Recent advances in direct air capture by adsorption** (2022)
-   455 citations
+   460 citations
 
 2. **Operating temperatures affect direct air capture of CO2 in polyamine-loaded mesoporous silica** (2021)
-   151 citations
+   153 citations
 
 3. **Mixed Diethanolamine and Polyethyleneimine with Enhanced CO<sub>2</sub> Capture Capacity from Air** (2023)
-   64 citations
+   67 citations
 
 4. **Modified layered double hydroxides for efficient and reversible carbon dioxide capture from air** (2021)
-   56 citations
+   58 citations
 
 5. **The analysis and evaluation of direct air capture adsorbents on the material characterization level** (2022)
    53 citations
@@ -69,7 +69,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    48 citations
 
 7. **Mixed polyamines promotes CO2 adsorption from air** (2022)
-   45 citations
+   46 citations
 
 8. **Additives enhancing supported amines performance in CO<sub>2</sub> capture from air** (2023)
    33 citations
@@ -78,7 +78,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    31 citations
 
 10. **3D printing of poly(ethyleneimine)-functionalized Mg-Al mixed metal oxide monoliths for direct air capture of CO2** (2024)
-   29 citations
+   30 citations
 
 ## External Profiles
 

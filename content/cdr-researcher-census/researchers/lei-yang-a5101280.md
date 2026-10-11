@@ -1,7 +1,7 @@
 ---
 title: "Lei Yang"
 description: "Lei Yang is a Mid-career Biochar researcher at Ningbo University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.093464
+date: 2026-10-11T02:33:00.124154
 url: "/cdr-researcher-census/researchers/lei-yang-a5101280/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Higher remediation efficiency of Cd and lower CO2 emissions in phytoremediation systems with biochar application** (2025)
-   8 citations · Biochar
+   9 citations · Biochar
 
 ## External Profiles
 

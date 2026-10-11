@@ -1,7 +1,7 @@
 ---
 title: "Arianne Flexa de Castro"
 description: "Arianne Flexa de Castro is a Mid-career Soil Carbon researcher at Vale Technological Institute in BR. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.400295
+date: 2026-10-11T02:33:00.438388
 url: "/cdr-researcher-census/researchers/arianne-flexa-de-castro-a5075712/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Organic farming enhances soil carbon and nitrogen dynamics in oil palm crops from Southeast Amazon** (2022)
-   12 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 2. **Organic farming enhances soil carbon and nitrogen dynamics in oil palm crops from Southeast Amazon** (2022)
    0 citations · Soil Carbon

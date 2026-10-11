@@ -1,7 +1,7 @@
 ---
 title: "Lina Reichenberg"
 description: "Lina Reichenberg is a Mid-career BECCS researcher at Chalmers Tekniska Högskola in SE. With 49 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.268985
+date: 2026-10-11T02:32:59.272938
 url: "/cdr-researcher-census/researchers/lina-reichenberg-a5076735/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Are biofuel mandates cost-effective? - An analysis of transport fuels and biomass usage to achieve emissions targets in the European energy system** (2022)
-   59 citations · BECCS
+   58 citations · BECCS
 
 2. **Diversity of biomass usage pathways to achieve emissions targets in the European energy system** (2025)
    50 citations · BECCS

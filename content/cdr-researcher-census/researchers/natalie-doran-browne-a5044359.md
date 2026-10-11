@@ -1,7 +1,7 @@
 ---
 title: "Natalie Doran-Browne"
 description: "Natalie Doran-Browne is a Mid-career General CDR researcher at Integrity Systems (United States) in US. With 37 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.559752
+date: 2026-10-11T02:32:59.575263
 url: "/cdr-researcher-census/researchers/natalie-doran-browne-a5044359/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Grazing management for soil carbon in Australia: A review** (2023)
-   74 citations · General CDR
+   76 citations · General CDR
 
 2. **Tailoring Australian carbon farming can realise greater co-benefits** (2026)
-   1 citations · General CDR
+   2 citations · General CDR
 
 3. **Structural inequities shape biodiversity and climate mitigation outcomes in livestock systems** (2026)
    0 citations · General CDR

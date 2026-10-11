@@ -1,7 +1,7 @@
 ---
 title: "Guowei Nan"
 description: "Guowei Nan is a Mid-career Soil Carbon researcher at Yan'an University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.356312
+date: 2026-10-11T02:33:00.391254
 url: "/cdr-researcher-census/researchers/guowei-nan-a5031749/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,14 +50,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Identify a sustainable afforestation pattern for soil carbon sequestration: Considering both soil water‐carbon conversion efficiency and their coupling relationship on the Loess Plateau** (2024)
+1. **Soil moisture and soil organic carbon coupled effects in apple orchards on the Loess Plateau, China** (2024)
+   9 citations · Soil Carbon
+
+2. **Identify a sustainable afforestation pattern for soil carbon sequestration: Considering both soil water‐carbon conversion efficiency and their coupling relationship on the Loess Plateau** (2024)
    9 citations · General CDR
 
-2. **Soil moisture and soil organic carbon coupled effects in apple orchards on the Loess Plateau, China** (2024)
-   8 citations · Soil Carbon
-
 3. **Does slope cropland to natural and artificial conversion change patterns of soil moisture–carbon trade-offs in time and depth on the water-scarce Loess Plateau, China?** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 ## External Profiles
 

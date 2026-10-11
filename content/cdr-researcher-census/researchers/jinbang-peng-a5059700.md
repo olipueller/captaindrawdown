@@ -1,7 +1,7 @@
 ---
 title: "Jinbang Peng"
 description: "Jinbang Peng is a Mid-career Soil Carbon researcher at Wenzhou Medical University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.516110
+date: 2026-10-11T02:32:59.529761
 url: "/cdr-researcher-census/researchers/jinbang-peng-a5059700/"
 layout: "researcher"
 hiddenInHomeList: true

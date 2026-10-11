@@ -1,7 +1,7 @@
 ---
 title: "Cailian Zhao"
 description: "Cailian Zhao is a Senior Biochar researcher at Tianjin University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.837209
+date: 2026-10-11T02:32:59.863349
 url: "/cdr-researcher-census/researchers/cailian-zhao-a5000036/"
 layout: "researcher"
 hiddenInHomeList: true

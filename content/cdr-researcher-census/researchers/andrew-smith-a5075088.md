@@ -1,7 +1,7 @@
 ---
 title: "Andrew Smith"
 description: "Andrew Smith is a Mid-career Soil Carbon researcher at Rodale Institute in US. With 35 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.196466
+date: 2026-10-11T02:32:59.200433
 url: "/cdr-researcher-census/researchers/andrew-smith-a5075088/"
 layout: "researcher"
 hiddenInHomeList: true

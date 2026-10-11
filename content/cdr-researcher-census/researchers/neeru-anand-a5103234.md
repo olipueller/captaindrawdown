@@ -1,7 +1,7 @@
 ---
 title: "Neeru Anand"
 description: "Neeru Anand is a Senior Biochar researcher. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.553596
+date: 2026-10-11T02:32:59.568549
 url: "/cdr-researcher-census/researchers/neeru-anand-a5103234/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Prospective of Waste Lignocellulosic Biomass as Precursors for the Production of Biochar: Application, Performance, and Mechanism—A Review** (2023)
-   37 citations · Biochar
+   39 citations · Biochar
 
 2. **Sustainable and Eco-Friendly Biomass Derived Biochars for the Removal of Contaminants from Wastewater: Current Status and Perspectives** (2022)
    2 citations · Biochar

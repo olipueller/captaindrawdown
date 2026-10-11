@@ -1,7 +1,7 @@
 ---
 title: "Shijing Liang"
 description: "Shijing Liang is a Mid-career General CDR researcher at Hong Kong Polytechnic University in HK. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.521788
+date: 2026-10-11T02:32:59.535744
 url: "/cdr-researcher-census/researchers/shijing-liang-a5062836/"
 layout: "researcher"
 hiddenInHomeList: true

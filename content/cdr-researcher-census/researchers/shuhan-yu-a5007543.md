@@ -1,7 +1,7 @@
 ---
 title: "Shuhan Yu"
 description: "Shuhan Yu is a Mid-career Soil Carbon researcher at China University of Geosciences (Beijing) in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.897100
+date: 2026-10-11T02:32:59.926158
 url: "/cdr-researcher-census/researchers/shuhan-yu-a5007543/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **The composition, energy, and carbon stability characteristics of biochars derived from thermo-conversion of biomass in air-limitation, CO2, and N2 at different temperatures** (2022)
    40 citations · Biochar
 
-2. **Changes of microbial life history strategies to soil nutrient limitations following vegetation restoration and its impact on carbon utilization efficiency** (2025)
-   7 citations · Soil Carbon
+2. **Microbial life history strategies regulate soil organic carbon sequestration in response to thinning depending on microbial nutrient limitations** (2025)
+   8 citations · Soil Carbon
 
-3. **Microbial life history strategies regulate soil organic carbon sequestration in response to thinning depending on microbial nutrient limitations** (2025)
-   6 citations · Soil Carbon
+3. **Changes of microbial life history strategies to soil nutrient limitations following vegetation restoration and its impact on carbon utilization efficiency** (2025)
+   8 citations · Soil Carbon
 
 4. **Effects of thinning on soil microbial community and carbon fractions and their relationships in coastal protected forests** (2025)
    5 citations · Soil Carbon

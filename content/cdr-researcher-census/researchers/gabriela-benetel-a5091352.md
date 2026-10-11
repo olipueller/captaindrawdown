@@ -1,7 +1,7 @@
 ---
 title: "Gabriela Benetel"
 description: "Gabriela Benetel is a Mid-career Soil Carbon researcher at Universidade de São Paulo in BR. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.824178
+date: 2026-10-11T02:32:59.849410
 url: "/cdr-researcher-census/researchers/gabriela-benetel-a5091352/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Dietary condensed tannins in bovine faeces and effects on soil microbial dynamics: are there environmental benefits for cattle production systems?** (2021)
-   7 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Marco Maniscalco"
 description: "Marco Maniscalco is a Mid-career Biochar researcher at University of Palermo in IT. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.282417
+date: 2026-10-11T02:33:00.312891
 url: "/cdr-researcher-census/researchers/marco-maniscalco-a5049028/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Slow Pyrolysis as a Method for Biochar Production from Carob Waste: Process Investigation and Products’ Characterization** (2021)
-   28 citations · Biochar
+   27 citations · Biochar
 
 ## External Profiles
 

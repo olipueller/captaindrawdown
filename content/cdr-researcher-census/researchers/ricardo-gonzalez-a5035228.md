@@ -1,7 +1,7 @@
 ---
 title: "Ricardo González"
 description: "Ricardo González is a Mid-career Soil Carbon researcher. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.970156
+date: 2026-10-11T02:33:00.001596
 url: "/cdr-researcher-census/researchers/ricardo-gonzalez-a5035228/"
 layout: "researcher"
 hiddenInHomeList: true

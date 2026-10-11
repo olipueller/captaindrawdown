@@ -1,7 +1,7 @@
 ---
 title: "Ali Yetgin"
 description: "Ali Yetgin is a Mid-career Soil Carbon researcher at Toros University in TR. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.514744
+date: 2026-10-11T02:32:59.528249
 url: "/cdr-researcher-census/researchers/ali-yetgin-a5073335/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **An overall review on influence of root architecture on soil carbon sequestration potential** (2024)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 2. **The role of legume roots in carbon sequestration, soil health enhancement, and salinity mitigation under climate change: A comprehensive review** (2025)
-   21 citations · General CDR
+   23 citations · General CDR
 
 3. **Correction to: An overall review on influence of root architecture on soil carbon sequestration potential** (2024)
    5 citations · Soil Carbon

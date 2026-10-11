@@ -1,7 +1,7 @@
 ---
 title: "Eglantina Lopez‐Echartea"
 description: "Eglantina Lopez‐Echartea is a Mid-career Biochar researcher at Dakota State University in US. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.087629
+date: 2026-10-11T02:33:00.118250
 url: "/cdr-researcher-census/researchers/eglantina-lopezechartea-a5057710/"
 layout: "researcher"
 hiddenInHomeList: true

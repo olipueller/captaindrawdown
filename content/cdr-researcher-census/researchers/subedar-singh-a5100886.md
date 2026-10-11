@@ -1,7 +1,7 @@
 ---
 title: "Subedar Singh"
 description: "Subedar Singh is a Mid-career Soil Carbon researcher at Sardar Vallabhbhai Patel University of Agriculture & Technology in IN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.309224
+date: 2026-10-11T02:33:00.340088
 url: "/cdr-researcher-census/researchers/subedar-singh-a5100886/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil fertility management: Role of organic amendments and bio-fertilizers: A review** (2024)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 2. **The Black Gold: How Biochar Can Save Our Soils and Climate** (2025)
    1 citations · Biochar

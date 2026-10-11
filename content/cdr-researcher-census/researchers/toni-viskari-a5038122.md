@@ -1,7 +1,7 @@
 ---
 title: "Toni Viskari"
 description: "Toni Viskari is a Senior Soil Carbon researcher at Finnish Meteorological Institute in FI. With 80 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.178357
+date: 2026-10-11T02:32:59.182401
 url: "/cdr-researcher-census/researchers/toni-viskari-a5038122/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,28 +51,28 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Towards agricultural soil carbon monitoring, reporting, and verification through the Field Observatory Network (FiON)** (2022)
-   39 citations · General CDR
+   42 citations · General CDR
 
 2. **Implementation of mycorrhizal mechanisms into soil carbon model improves the prediction of long-term processes of plant litter decomposition** (2022)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
-3. **Implementation of mycorrhizal mechanisms into soil carbon model improves the prediction of long-term processes of plant litter decomposition** (2021)
+3. **Implementation and initial calibration of carbon-13 soil organic matter decomposition in the Yasso model** (2022)
+   6 citations · Soil Carbon
+
+4. **Implementation of mycorrhizal mechanisms into soil carbon model improves the prediction of long-term processes of plant litter decomposition** (2021)
    3 citations
 
-4. **Towards agricultural soil carbon monitoring, reporting and verification through Field Observatory Network (FiON)** (2021)
+5. **Towards agricultural soil carbon monitoring, reporting and verification through Field Observatory Network (FiON)** (2021)
    2 citations · General CDR
 
-5. **Implementation and initial calibration of carbon-13 soil organic matter decomposition in Yasso model** (2021)
+6. **Implementation and initial calibration of carbon-13 soil organic matter decomposition in Yasso model** (2021)
    1 citations · Soil Carbon
 
-6. **Comment on egusphere-2025-1102** (2025)
+7. **Comment on egusphere-2025-1102** (2025)
    0 citations
 
-7. **Comment on gi-2021-21** (2021)
+8. **Comment on gi-2021-21** (2021)
    0 citations · General CDR
-
-8. **Comment on bg-2021-275** (2021)
-   0 citations · Soil Carbon
 
 9. **Comment on bg-2021-275** (2021)
    0 citations · Soil Carbon

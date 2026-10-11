@@ -1,7 +1,7 @@
 ---
 title: "Liujie He"
 description: "Liujie He is a Mid-career Soil Carbon researcher at Ministry of Natural Resources and Environment in RU. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.909909
+date: 2026-10-11T02:32:59.939794
 url: "/cdr-researcher-census/researchers/liujie-he-a5101204/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    98 citations
 
 2. **Spatial heterogeneity of natural and socio-economic features shape that of ecosystem services. A large-scale study on the Yangtze River economic Belt, China** (2024)
-   26 citations · General CDR
+   28 citations · General CDR
 
 3. **[Trade-off and Synergy of Ecosystem Services in the Yangtze River Economic Belt and Its Driving Factors].** (2024)
    7 citations · General CDR
 
 4. **Drought diminishes ecosystem service supply and exacerbates trade-offs in the Yangtze River Economic Belt** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 5. **Shifting patterns of ecosystem service trade-offs and synergies: Evidence from the Yangtze River Economic Belt, China** (2025)
    2 citations

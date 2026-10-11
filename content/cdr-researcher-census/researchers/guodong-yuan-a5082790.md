@@ -1,7 +1,7 @@
 ---
 title: "Guodong Yuan"
 description: "Guodong Yuan is a Senior Soil Carbon researcher at Zhaoqing University in CN. With 95 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.057517
+date: 2026-10-11T02:32:59.061794
 url: "/cdr-researcher-census/researchers/guodong-yuan-a5082790/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · Biochar
 
 4. **Enhanced carbon retention in Litchi biochar via in-situ limewater coating and self-limited oxygen pyrolysis regulated by water-fire interaction** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 5. **Soil Carbon Sequestration in Ponds of Gordon Euryale Seed in the Pear River Delta** (2024)
    0 citations · Soil Carbon

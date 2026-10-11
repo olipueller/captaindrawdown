@@ -1,7 +1,7 @@
 ---
 title: "Payam Sadrolodabaee"
 description: "Payam Sadrolodabaee is a Mid-career Biochar researcher at AstraZeneca (United Kingdom) in GB. With 26 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.412055
+date: 2026-10-11T02:32:59.421519
 url: "/cdr-researcher-census/researchers/payam-sadrolodabaee-a5026089/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    7 citations · Biochar
 
 2. **Effect of Metakaolin and Biochar Addition on the Performance of 3D Concrete Printing: A Meta-Analysis Approach** (2025)
-   4 citations · Biochar
+   5 citations · Biochar
 
 3. **An interdisciplinary approach for advancing the use of biochar in buildings** (2026)
    0 citations · Biochar

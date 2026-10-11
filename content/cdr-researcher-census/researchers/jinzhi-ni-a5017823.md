@@ -1,7 +1,7 @@
 ---
 title: "Jinzhi Ni"
 description: "Jinzhi Ni is a Senior Biochar researcher at Fujian Normal University in CN. With 56 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.243327
+date: 2026-10-11T02:32:59.247032
 url: "/cdr-researcher-census/researchers/jinzhi-ni-a5017823/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 19 |
 | Citations | 1,045 |
 | Publications | 56 |
-| CDR Focus | 5.4% |
-| Trajectory | Exiting |
+| CDR Focus | 7.1% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -54,15 +54,18 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    40 citations · Biochar
 
 2. **Biochar-mediated reduction of m-nitrotoluene: Interaction between reduction of m-nitrotoluene and sequestration of contaminants** (2021)
-   13 citations · Biochar
+   14 citations · Biochar
 
 3. **Biochar improved the solubility of triclocarban in aqueous environment: Insight into the role of biochar-derived dissolved organic carbon** (2024)
    8 citations · Biochar
 
-4. **Fe-modified biochar facilitated short-term soil organic C sequestration by the synergistic effect of autotrophic bacteria stimulation and dissolved organic matter selective adsorption** (2025)
-   0 citations
+4. **Fe-modified tea waste biochar enhances short-term soil organic carbon sequestration: Mechanisms and economic benefit** (2026)
+   1 citations · Biochar
 
 5. **Fe-modified biochar facilitated short-term soil organic C sequestration by the synergistic effect of autotrophic bacteria stimulation and dissolved organic matter selective adsorption** (2025)
+   0 citations
+
+6. **Fe-modified biochar facilitated short-term soil organic C sequestration by the synergistic effect of autotrophic bacteria stimulation and dissolved organic matter selective adsorption** (2025)
    0 citations · Biochar
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Ming Cheng"
 description: "Ming Cheng is a Mid-career Soil Carbon researcher at China Geological Survey in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.669669
+date: 2026-10-11T02:32:59.689377
 url: "/cdr-researcher-census/researchers/ming-cheng-a5005142/"
 layout: "researcher"
 hiddenInHomeList: true

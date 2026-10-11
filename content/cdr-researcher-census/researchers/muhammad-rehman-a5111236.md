@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Rehman"
 description: "Muhammad Rehman is a Senior Enhanced Weathering researcher at King Edward Medical University in PK. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.660235
+date: 2026-10-11T02:32:59.679287
 url: "/cdr-researcher-census/researchers/muhammad-rehman-a5111236/"
 layout: "researcher"
 hiddenInHomeList: true

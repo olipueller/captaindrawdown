@@ -1,7 +1,7 @@
 ---
 title: "Shengjie Han"
 description: "Shengjie Han is a Mid-career Soil Carbon researcher at Hebei University of Technology in CN. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.633163
+date: 2026-10-11T02:32:59.651774
 url: "/cdr-researcher-census/researchers/shengjie-han-a5101256/"
 layout: "researcher"
 hiddenInHomeList: true

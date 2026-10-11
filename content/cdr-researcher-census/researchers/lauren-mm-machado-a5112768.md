@@ -1,7 +1,7 @@
 ---
 title: "Lauren M.M. Machado"
 description: "Lauren M.M. Machado is a Mid-career Biochar researcher at Universidade Federal de Santa Maria in BR. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.794677
+date: 2026-10-11T02:32:59.818228
 url: "/cdr-researcher-census/researchers/lauren-mm-machado-a5112768/"
 layout: "researcher"
 hiddenInHomeList: true

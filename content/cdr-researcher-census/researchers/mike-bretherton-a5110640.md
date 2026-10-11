@@ -1,7 +1,7 @@
 ---
 title: "Mike Bretherton"
 description: "Mike Bretherton is a Mid-career Soil Carbon researcher at Massey University in NZ. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.007340
+date: 2026-10-11T02:33:00.038439
 url: "/cdr-researcher-census/researchers/mike-bretherton-a5110640/"
 layout: "researcher"
 hiddenInHomeList: true

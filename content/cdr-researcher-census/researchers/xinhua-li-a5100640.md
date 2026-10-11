@@ -1,7 +1,7 @@
 ---
 title: "Xinhua Li"
 description: "Xinhua Li is a Senior Soil Carbon researcher at Jilin University in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.688709
+date: 2026-10-11T02:32:59.708999
 url: "/cdr-researcher-census/researchers/xinhua-li-a5100640/"
 layout: "researcher"
 hiddenInHomeList: true

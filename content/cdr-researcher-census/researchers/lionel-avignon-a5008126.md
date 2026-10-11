@@ -1,7 +1,7 @@
 ---
 title: "Lionel Avignon"
 description: "Lionel Avignon is an Early-career General CDR researcher. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.371410
+date: 2026-10-11T02:33:00.407012
 url: "/cdr-researcher-census/researchers/lionel-avignon-a5008126/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Moving toward the low-carbon hydrogen economy: Experiences and key learnings from national case studies** (2022)
-   87 citations · General CDR
+   88 citations · General CDR
 
 2. **Tools and options for hydrogen and CCS cluster development and acceleration – UK case study, ELEGANCY project** (2021)
    11 citations · General CDR

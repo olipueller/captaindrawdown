@@ -1,7 +1,7 @@
 ---
 title: "Jing Guo"
 description: "Jing Guo is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.188398
+date: 2026-10-11T02:33:00.218518
 url: "/cdr-researcher-census/researchers/jing-guo-a5067904/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Assessment of Habitat Suitability for Oedaleus decorus asiaticus Using MaxEnt and Frequency Ratio Model in Xilingol League, China** (2025)
-   5 citations · General CDR
+   7 citations · General CDR
 
 ## External Profiles
 

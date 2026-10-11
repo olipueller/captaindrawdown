@@ -1,7 +1,7 @@
 ---
 title: "Amanda Maria Tadini"
 description: "Amanda Maria Tadini is a Senior Soil Carbon researcher at Sorbonne Université in FR. With 61 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.379909
+date: 2026-10-11T02:32:59.387343
 url: "/cdr-researcher-census/researchers/amanda-maria-tadini-a5027442/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Evaluation of soil organic matter from integrated production systems using laser-induced fluorescence spectroscopy** (2021)
-   46 citations
+   48 citations
 
 2. **Linking above and belowground carbon sequestration, soil organic matter properties, and soil health in Brazilian Atlantic Forest restoration** (2023)
    40 citations · General CDR
 
 3. **Chemical characteristics of soil organic matter from integrated agricultural systems in southeastern Brazil** (2021)
-   24 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 4. **Structural characterization using 2D NMR spectroscopy and TMAH-GC × GC-MS: Application to humic acids from soils of an integrated agricultural system and an Atlantic native forest** (2021)
    19 citations · Soil Carbon

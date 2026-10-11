@@ -1,7 +1,7 @@
 ---
 title: "Mariangela Diacono"
 description: "Mariangela Diacono is a Senior Soil Carbon researcher at Consiglio per la ricerca in agricoltura e l'analisi dell'economia agraria in IT. With 106 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.061499
+date: 2026-10-11T02:32:59.065941
 url: "/cdr-researcher-census/researchers/mariangela-diacono-a5068266/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Forage vs. Grain Legumes: Contrasting Effects on Soil Organic Carbon Stocks–Evidence From 30 European Field Experiments** (2025)
-   12 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 2. **Soil hydraulic arrangement and agro-ecological practices in organic rotations: effects on crop performance, soil properties and carbon balance** (2022)
-   6 citations · General CDR
+   7 citations · General CDR
 
 3. **The impact of long-term organic horticultural systems on energy outputs and carbon storages in relation to extreme rainfall events** (2024)
    5 citations · Soil Carbon

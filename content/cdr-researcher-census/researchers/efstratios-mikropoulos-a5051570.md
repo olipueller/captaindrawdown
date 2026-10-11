@@ -1,7 +1,7 @@
 ---
 title: "Efstratios Mikropoulos"
 description: "Efstratios Mikropoulos is an Early-career General CDR researcher at Utrecht University in NL. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.359827
+date: 2026-10-11T02:33:00.395447
 url: "/cdr-researcher-census/researchers/efstratios-mikropoulos-a5051570/"
 layout: "researcher"
 hiddenInHomeList: true

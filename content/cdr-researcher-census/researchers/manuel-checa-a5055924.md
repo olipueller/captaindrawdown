@@ -1,7 +1,7 @@
 ---
 title: "Manuel Checa"
 description: "Manuel Checa is a Mid-career Biochar researcher at University of Hohenheim in DE. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.489003
+date: 2026-10-11T02:32:59.500920
 url: "/cdr-researcher-census/researchers/manuel-checa-a5055924/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Saroj Koirala"
 description: "Saroj Koirala is a Mid-career Soil Carbon researcher at Nepal Academy of Science and Technology in NP. With 34 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.787853
+date: 2026-10-11T02:32:59.811737
 url: "/cdr-researcher-census/researchers/saroj-koirala-a5011851/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Understanding carbon storage dynamics in Ayeyarwady delta's mangrove ecosystem in Myanmar: insights for restoration efforts** (2024)
-   7 citations · General CDR
+   9 citations · General CDR
 
 2. **Soil Organic Carbon Stocks of Myanmar’s Shwe Thaung Yan Coastal Region and Accumulation in Magyi’s Mangroves Over Six Years** (2023)
    1 citations · Soil Carbon

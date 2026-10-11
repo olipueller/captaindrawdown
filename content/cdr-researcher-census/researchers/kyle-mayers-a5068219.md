@@ -1,7 +1,7 @@
 ---
 title: "Kyle Mayers"
 description: "Kyle Mayers is a Mid-career Soil Carbon researcher at Bjerknes Centre for Climate Research in NO. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.445198
+date: 2026-10-11T02:32:59.455706
 url: "/cdr-researcher-census/researchers/kyle-mayers-a5068219/"
 layout: "researcher"
 hiddenInHomeList: true

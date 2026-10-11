@@ -1,7 +1,7 @@
 ---
 title: "Abhijeet Singh"
 description: "Abhijeet Singh is a Mid-career Enhanced Weathering researcher at Uppsala University in SE. With 49 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.366433
+date: 2026-10-11T02:32:59.373641
 url: "/cdr-researcher-census/researchers/abhijeet-singh-a5044155/"
 layout: "researcher"
 hiddenInHomeList: true

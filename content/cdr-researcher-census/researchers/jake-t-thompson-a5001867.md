@@ -1,7 +1,7 @@
 ---
 title: "Jake T. Thompson"
-description: "Jake T. Thompson is a Mid-career Enhanced Weathering researcher at Planetary Science Institute in US. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.752184
+description: "Jake T. Thompson is a Mid-career Enhanced Weathering researcher at Yale University in US. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:32:59.755098
 url: "/cdr-researcher-census/researchers/jake-t-thompson-a5001867/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jake-t-thompson-a5001867/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Planetary Science Institute"
+    "name": "Yale University"
   },
   "sameAs": "https://openalex.org/A5001867335"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Jake T. Thompson**  
-Planetary Science Institute · 🇺🇸 US
+Yale University · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -40,7 +40,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 282 |
+| Citations | 292 |
 | Publications | 10 |
 | CDR Focus | 20.0% |
 | Trajectory | Growing |
@@ -48,10 +48,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering** (2026)
-   0 citations · Enhanced Weathering
+   1 citations · Enhanced Weathering
 
 2. **Integrated Thermal and Phyto-Remediation of Agricultural Soils Impacted by PFAS** (2025)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

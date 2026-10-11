@@ -1,7 +1,7 @@
 ---
 title: "Roberta Farina"
 description: "Roberta Farina is a Senior Soil Carbon researcher at Consiglio per la ricerca in agricoltura e l’analisi dell’economia agraria (CREA) in IT. With 110 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.116290
+date: 2026-10-11T02:32:59.120964
 url: "/cdr-researcher-census/researchers/roberta-farina-a5067921/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    46 citations · Soil Carbon
 
 2. **Moving beyond agriculture and aquaculture to integrated sustainable food systems as part of a circular bioeconomy** (2023)
-   23 citations · General CDR
+   24 citations · General CDR
 
 3. **Modeling Soil Carbon Under Diverse Cropping Systems and Farming Management in Contrasting Climatic Regions in Europe** (2022)
    21 citations · Soil Carbon
@@ -63,21 +63,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    21 citations · Soil Carbon
 
 5. **Estimated effect of crop diversification on soil organic carbon under present and future climate conditions** (2025)
-   3 citations · Soil Carbon
+   5 citations · Soil Carbon
 
-6. **Evaluation of TOC Change Scenarios in Cropping Systems with and Without Diversification Across Different Scales: Insights from a Northern Italian Case Study** (2025)
+6. **Modeling carbon sequestration in Mediterranean agroecosystems using the CAST model** (2026)
+   0 citations
+
+7. **Evaluation of TOC Change Scenarios in Cropping Systems with and Without Diversification Across Different Scales: Insights from a Northern Italian Case Study** (2025)
    0 citations · Soil Carbon
-
-7. **Comment on bg-2020-489** (2021)
-   0 citations · General CDR
 
 8. **Comment on bg-2020-489** (2021)
    0 citations · General CDR
 
-9. **Modelling soil carbon under diverse cropping systems and farming management in contrasting climatic regions in Europe** (2021)
+9. **Comment on bg-2020-489** (2021)
    0 citations · General CDR
 
-10. **Comment on bg-2020-489** (2021)
+10. **Modelling soil carbon under diverse cropping systems and farming management in contrasting climatic regions in Europe** (2021)
    0 citations · General CDR
 
 ## External Profiles

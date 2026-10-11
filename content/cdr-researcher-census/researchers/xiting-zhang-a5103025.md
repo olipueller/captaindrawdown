@@ -1,7 +1,7 @@
 ---
 title: "Xiting Zhang"
 description: "Xiting Zhang is a Mid-career Soil Carbon researcher at Global Strategy Group in US. With 41 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.451924
+date: 2026-10-11T02:32:59.462708
 url: "/cdr-researcher-census/researchers/xiting-zhang-a5103025/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    23 citations · Soil Carbon
 
 2. **Tree diversity and arbuscular mycorrhizal trees increase soil carbon sequestration and stability in 1-m soils as regulated by microbial CAZymes-coworking in high-latitude Northern Hemisphere forests** (2023)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 3. **Tree growth and density enhanced, while diversity and spatial clustering reduced soil mycorrhizal C and N sequestration: Strong interaction with soil properties in northeastern China** (2023)
    12 citations · Soil Carbon
@@ -66,12 +66,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Soil Carbon
 
 6. **SOC sequestration, N and P retention in mineral soils depend on arbuscular mycorrhizal tree dominance and soil microbial traits** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
-7. **Data from: "Arbuscular mycorrhizal dominated forests facilitate organic carbon stabilization in soil aggregates"** (2026)
+7. **Microbial-mediated soil carbon accrual under 12-year reduced nitrogen fertilisation and intercropping** (2026)
+   0 citations
+
+8. **Data from: "Arbuscular mycorrhizal dominated forests facilitate organic carbon stabilization in soil aggregates"** (2026)
    0 citations · Soil Carbon
 
-8. **Diverse Litter and Suitable Tree Species Increased Activation Energy for Soil Respiration in Black Soils in China** (2025)
+9. **Diverse Litter and Suitable Tree Species Increased Activation Energy for Soil Respiration in Black Soils in China** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

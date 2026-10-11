@@ -1,7 +1,7 @@
 ---
 title: "Holger Metzler"
 description: "Holger Metzler is a Mid-career General CDR researcher at Swedish University of Agricultural Sciences in SE. With 36 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.493004
+date: 2026-10-11T02:32:59.505099
 url: "/cdr-researcher-census/researchers/holger-metzler-a5020357/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The climate benefit of carbon sequestration** (2021)
-   59 citations · General CDR
+   63 citations · General CDR
 
 2. **Improving the representation of the fate of harvested wood in global and regional carbon budgets** (2026)
    0 citations · General CDR

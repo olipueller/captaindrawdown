@@ -1,7 +1,7 @@
 ---
 title: "Julie Michel"
 description: "Julie Michel is an Early-career BECCS researcher at Commissariat à l'Énergie Atomique et aux Énergies Alternatives in FR. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.693016
+date: 2026-10-11T02:32:59.713592
 url: "/cdr-researcher-census/researchers/julie-michel-a5036173/"
 layout: "researcher"
 hiddenInHomeList: true

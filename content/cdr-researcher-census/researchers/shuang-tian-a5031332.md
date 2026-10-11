@@ -1,7 +1,7 @@
 ---
 title: "Shuang Tian"
 description: "Shuang Tian is a Mid-career Soil Carbon researcher at Thermal Power Research Institute in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.946180
+date: 2026-10-11T02:32:59.976223
 url: "/cdr-researcher-census/researchers/shuang-tian-a5031332/"
 layout: "researcher"
 hiddenInHomeList: true

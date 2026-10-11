@@ -1,7 +1,7 @@
 ---
 title: "Agapi Vasileiadou"
 description: "Agapi Vasileiadou is a Mid-career BECCS researcher at University of Thessaly in GR. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.659792
+date: 2026-10-11T02:32:59.678789
 url: "/cdr-researcher-census/researchers/agapi-vasileiadou-a5010706/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Advancements in waste-to-energy (WtE) combustion technologies: A review of current trends and future developments** (2025)
-   27 citations · BECCS
+   29 citations · BECCS
 
 ## External Profiles
 

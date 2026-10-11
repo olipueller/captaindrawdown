@@ -1,7 +1,7 @@
 ---
 title: "Manuella Strukelj"
 description: "Manuella Strukelj is a Mid-career Soil Carbon researcher at Université Laval in CA. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.727903
+date: 2026-10-11T02:32:59.749172
 url: "/cdr-researcher-census/researchers/manuella-strukelj-a5024591/"
 layout: "researcher"
 hiddenInHomeList: true

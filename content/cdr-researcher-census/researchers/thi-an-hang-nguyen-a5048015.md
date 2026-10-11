@@ -1,7 +1,7 @@
 ---
 title: "Thi An Hang Nguyen"
 description: "Thi An Hang Nguyen is a Mid-career Ocean CDR researcher at Vietnam National University, Hanoi in VN. With 33 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.203855
+date: 2026-10-11T02:32:59.208150
 url: "/cdr-researcher-census/researchers/thi-an-hang-nguyen-a5048015/"
 layout: "researcher"
 hiddenInHomeList: true

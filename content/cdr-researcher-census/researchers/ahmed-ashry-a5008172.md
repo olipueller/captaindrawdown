@@ -1,7 +1,7 @@
 ---
 title: "Ahmed Ashry"
 description: "Ahmed Ashry is a Senior Biochar researcher at Egyptian Atomic Energy Authority in EG. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.313491
+date: 2026-10-11T02:33:00.344228
 url: "/cdr-researcher-census/researchers/ahmed-ashry-a5008172/"
 layout: "researcher"
 hiddenInHomeList: true

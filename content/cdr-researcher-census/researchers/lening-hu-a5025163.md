@@ -1,7 +1,7 @@
 ---
 title: "Lening Hu"
 description: "Lening Hu is a Senior Biochar researcher at Ministry of Ecology and Environment in CN. With 52 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.562273
+date: 2026-10-11T02:32:59.578150
 url: "/cdr-researcher-census/researchers/lening-hu-a5025163/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -75,7 +75,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    7 citations · Biochar
 
 9. **Potential of Calcium-Modified Biochar for Soil Nutrient and Carbon Sequestration in Citrus Orchards** (2024)
-   4 citations · Biochar
+   6 citations · Biochar
 
 10. **Influence of Lithology on the Stability of Organic Carbon in Typical Soils of Karst in Northwest China** (2024)
    4 citations · Soil Carbon

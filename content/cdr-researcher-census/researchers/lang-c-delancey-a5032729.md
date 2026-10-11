@@ -1,7 +1,7 @@
 ---
 title: "Lang C. DeLancey"
 description: "Lang C. DeLancey is a Mid-career Soil Carbon researcher at University of Minnesota in US. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.650652
+date: 2026-10-11T02:32:59.669783
 url: "/cdr-researcher-census/researchers/lang-c-delancey-a5032729/"
 layout: "researcher"
 hiddenInHomeList: true

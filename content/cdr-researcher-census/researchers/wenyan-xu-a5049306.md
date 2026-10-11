@@ -1,7 +1,7 @@
 ---
 title: "Wenyan Xu"
 description: "Wenyan Xu is a Senior Biochar researcher at China University of Geosciences in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.664781
+date: 2026-10-11T02:32:59.684292
 url: "/cdr-researcher-census/researchers/wenyan-xu-a5049306/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effect of different microalgae-bacterium-fungus symbiont technologies on nutrient removal from aquaculture wastewater and biogas upgrading under a variety of mixed light wavelengths** (2024)
-   12 citations
+   13 citations
 
 2. **Preparation of CeO2/biochar composites by flash Joule heating and the research on its efficient removal performance of VOCs** (2025)
    6 citations · Biochar

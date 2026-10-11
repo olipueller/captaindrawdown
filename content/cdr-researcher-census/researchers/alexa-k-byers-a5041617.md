@@ -1,7 +1,7 @@
 ---
 title: "Alexa K. Byers"
 description: "Alexa K. Byers is a Mid-career Soil Carbon researcher at Lincoln University in NZ. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.003681
+date: 2026-10-11T02:33:00.034459
 url: "/cdr-researcher-census/researchers/alexa-k-byers-a5041617/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil depth as a driver of microbial and carbon dynamics in a planted forest ( <i>Pinus radiata</i> ) pumice soil** (2023)
-   13 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 2. **Large, old pools of carbon and microbial communities are present deep in soils under a temperate planted forest** (2022)
    1 citations · Soil Carbon

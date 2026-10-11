@@ -1,7 +1,7 @@
 ---
 title: "Yu-Xin Hua"
 description: "Yu-Xin Hua is a Mid-career Soil Carbon researcher at Jiaxing University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.236182
+date: 2026-10-11T02:33:00.266411
 url: "/cdr-researcher-census/researchers/yu-xin-hua-a5068203/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Assessing synergies and trade-offs between ecosystem services in highly urbanized area under different scenarios of future land use change** (2024)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 ## External Profiles
 

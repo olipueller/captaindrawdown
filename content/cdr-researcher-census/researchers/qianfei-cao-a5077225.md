@@ -1,7 +1,7 @@
 ---
 title: "Qianfei Cao"
 description: "Qianfei Cao is a Mid-career Biochar researcher at Suzhou University of Science and Technology in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.632395
+date: 2026-10-11T02:32:59.650997
 url: "/cdr-researcher-census/researchers/qianfei-cao-a5077225/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Small biochar addition enhanced anammox granular sludge system for practical wastewater treatment: Performance and microbial community** (2022)
-   49 citations · Biochar
+   50 citations · Biochar
 
 2. **Promotion of nitrogen removal and microbial enrichment on anammox by exogenous substance addition: A critical review** (2022)
-   43 citations
+   44 citations
 
 ## External Profiles
 

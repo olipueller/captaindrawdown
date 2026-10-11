@@ -1,7 +1,7 @@
 ---
 title: "Shuiqing Zhang"
 description: "Shuiqing Zhang is a Senior Soil Carbon researcher at Institute of Plant Nutrition and Environmental Resources Science, Henan Academy of Agricultural Sciences in CN. With 65 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.107738
+date: 2026-10-11T02:32:59.112403
 url: "/cdr-researcher-census/researchers/shuiqing-zhang-a5003830/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon storage in an arable soil combining field measurements, aggregate turnover modeling and climate scenarios** (2022)
-   172 citations · Soil Carbon
+   175 citations · Soil Carbon
 
 2. **Soil organic carbon pools under long-term mineral and organic amendments: a multisite study** (2024)
    23 citations · Soil Carbon
 
-3. **Combined Fertilization Could Increase Crop Productivity and Reduce Greenhouse Gas Intensity through Carbon Sequestration under Rice-Wheat Rotation** (2021)
-   11 citations · Soil Carbon
+3. **Long-term green manure incorporation increases soil carbon sequestration and improves aggregate stability by changing organic carbon components** (2025)
+   12 citations · Soil Carbon
 
-4. **Long-term green manure incorporation increases soil carbon sequestration and improves aggregate stability by changing organic carbon components** (2025)
-   8 citations · Soil Carbon
+4. **Combined Fertilization Could Increase Crop Productivity and Reduce Greenhouse Gas Intensity through Carbon Sequestration under Rice-Wheat Rotation** (2021)
+   11 citations · Soil Carbon
 
 5. **The accumulation of microbially derived carbon under long-term organic matter addition is related to microbial carbon use and acquisition** (2026)
    1 citations · Soil Carbon

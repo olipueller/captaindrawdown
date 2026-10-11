@@ -1,7 +1,7 @@
 ---
 title: "Gongning Chen"
 description: "Gongning Chen is a Mid-career Biochar researcher at Guilin University of Technology in CN. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.542414
+date: 2026-10-11T02:32:59.557304
 url: "/cdr-researcher-census/researchers/gongning-chen-a5101740/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mathijs Harmsen"
 description: "Mathijs Harmsen is a Senior General CDR researcher at Planbureau voor de Leefomgeving in NL. With 88 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.021871
+date: 2026-10-11T02:32:59.024828
 url: "/cdr-researcher-census/researchers/mathijs-harmsen-a5055029/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    158 citations · DAC
 
 2. **Reducing sectoral hard-to-abate emissions to limit reliance on carbon dioxide removal** (2024)
-   108 citations · General CDR
+   112 citations · General CDR
 
 3. **Land-based implications of early climate actions without global net-negative emissions** (2021)
    67 citations · General CDR

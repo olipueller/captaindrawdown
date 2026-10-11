@@ -1,7 +1,7 @@
 ---
 title: "Kun Huang"
 description: "Kun Huang is a Mid-career Soil Carbon researcher at University of New Mexico in US. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.495010
+date: 2026-10-11T02:32:59.507131
 url: "/cdr-researcher-census/researchers/kun-huang-a5030392/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **TECO-CNP Sv1.0: a coupled carbon-nitrogen-phosphorus model with data assimilation for subtropical forests** (2025)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 2. **TECO-CNP Sv1.0: a coupled carbon-nitrogen-phosphorus model  with data assimilation for subtropical forests** (2026)
    0 citations

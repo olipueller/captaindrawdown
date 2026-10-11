@@ -1,7 +1,7 @@
 ---
 title: "Darliane de Castro Santos"
 description: "Darliane de Castro Santos is a Mid-career Soil Carbon researcher at Instituto Federal Goiano in BR. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.763888
+date: 2026-10-11T02:32:59.786956
 url: "/cdr-researcher-census/researchers/darliane-de-castro-santos-a5103175/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Cover crops enhance soil health, crop yield and resilience of tropical agroecosystem** (2025)
-   56 citations · Soil Carbon
+   59 citations · Soil Carbon
 
 ## External Profiles
 

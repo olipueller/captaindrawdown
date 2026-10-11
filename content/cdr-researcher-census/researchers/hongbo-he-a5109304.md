@@ -1,7 +1,7 @@
 ---
 title: "Hongbo He"
 description: "Hongbo He is an Eminent Soil Carbon researcher at University of Chinese Academy of Sciences in CN. With 158 publications and an h-index of 45, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.039979
+date: 2026-10-11T02:32:59.043049
 url: "/cdr-researcher-census/researchers/hongbo-he-a5109304/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Contrasting pathways of carbon sequestration in paddy and upland soils** (2021)
-   427 citations · Soil Carbon
+   438 citations · Soil Carbon
 
 2. **Stoichiometric imbalance and microbial community regulate microbial elements use efficiencies under nitrogen addition** (2021)
-   222 citations
+   224 citations
 
 3. **Fungi determine increased soil organic carbon more than bacteria through their necromass inputs in conservation tillage croplands** (2022)
    163 citations · Soil Carbon
 
 4. **Spartina alterniflora invasion differentially alters microbial residues and their contribution to soil organic C in coastal marsh and mangrove wetlands** (2023)
-   30 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 5. **Enhancing Sustainable Agriculture in China: A Meta-Analysis of the Impact of Straw and Manure on Crop Yield and Soil Fertility** (2024)
-   27 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 6. **Tradeoffs of fungal and bacterial residues mediate soil carbon dynamics under persistent drought in subtropical evergreen forests** (2022)
-   22 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 7. **Effects of long-term conservation tillage on N2 and N2O emission rates and N2O emission microbial pathways in Mollisols** (2023)
    10 citations · Soil Carbon

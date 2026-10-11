@@ -1,7 +1,7 @@
 ---
 title: "Maxwell Rado"
 description: "Maxwell Rado is a Mid-career Soil Carbon researcher at Instituto Nacional de Salud del Niño-San Borja in PE. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.322174
+date: 2026-10-11T02:33:00.354568
 url: "/cdr-researcher-census/researchers/maxwell-rado-a5048927/"
 layout: "researcher"
 hiddenInHomeList: true

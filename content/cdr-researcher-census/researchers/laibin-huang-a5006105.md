@@ -1,7 +1,7 @@
 ---
 title: "Laibin Huang"
 description: "Laibin Huang is a Senior Soil Carbon researcher at Saint Louis University in US. With 69 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.093607
+date: 2026-10-11T02:32:59.098178
 url: "/cdr-researcher-census/researchers/laibin-huang-a5006105/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Plant invasion reshapes the latitudinal pattern of soil microbial necromass and its contribution to soil organic carbon in coastal wetlands** (2022)
-   42 citations · Soil Carbon
+   41 citations · Soil Carbon
 
 2. **Carbon-rich substrates altered microbial communities with indication of carbon metabolism functional shifting in a degraded salt marsh of the Yellow River Delta, China** (2021)
    33 citations · Soil Carbon

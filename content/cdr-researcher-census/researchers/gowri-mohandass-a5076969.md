@@ -1,7 +1,7 @@
 ---
 title: "Gowri Mohandass"
 description: "Gowri Mohandass is a Mid-career DAC researcher at National University of Singapore in SG. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.317578
+date: 2026-10-11T02:33:00.349305
 url: "/cdr-researcher-census/researchers/gowri-mohandass-a5076969/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Electrochemically induced direct air capture via a redox-mediated aqueous flow system incorporating a solid proton–electron carrier** (2025)
-   1 citations · DAC
+   2 citations · DAC
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Scott Hume"
 description: "Scott Hume is a Mid-career BECCS researcher at Electric Power Research Institute in US. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.083176
+date: 2026-10-11T02:33:00.113308
 url: "/cdr-researcher-census/researchers/scott-hume-a5060140/"
 layout: "researcher"
 hiddenInHomeList: true

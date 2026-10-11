@@ -1,7 +1,7 @@
 ---
 title: "Margaret McKeen"
 description: "Margaret McKeen is a Senior Soil Carbon researcher at James Hutton Institute in GB. With 21 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.691684
+date: 2026-10-11T02:32:59.712275
 url: "/cdr-researcher-census/researchers/margaret-mckeen-a5083322/"
 layout: "researcher"
 hiddenInHomeList: true

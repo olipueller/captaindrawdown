@@ -1,7 +1,7 @@
 ---
 title: "Prabhath Ranjan Kumar Soda"
 description: "Prabhath Ranjan Kumar Soda is a Mid-career Biochar researcher at Centre for Sustainable Energy in GB. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.990530
+date: 2026-10-11T02:33:00.021277
 url: "/cdr-researcher-census/researchers/prabhath-ranjan-kumar-soda-a5088373/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **3D printing with stabilized earth: Material development and effect of carbon sequestration on engineering performance** (2024)
-   27 citations · Biochar
+   29 citations · Biochar
 
 2. **Development of Carbon Sequestering 3D-Printable Stabilized Earth Materials: Investigation into Engineering Performance and Resistance Against Acid Attack** (2025)
    1 citations · Biochar

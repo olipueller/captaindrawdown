@@ -1,7 +1,7 @@
 ---
 title: "Sven Verweij"
 description: "Sven Verweij is an Early-career Soil Carbon researcher. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.151839
+date: 2026-10-11T02:33:00.181739
 url: "/cdr-researcher-census/researchers/sven-verweij-a5043609/"
 layout: "researcher"
 hiddenInHomeList: true

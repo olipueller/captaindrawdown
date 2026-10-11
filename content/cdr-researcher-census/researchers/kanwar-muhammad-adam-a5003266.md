@@ -1,7 +1,7 @@
 ---
 title: "Kanwar Muhammad Adam"
 description: "Kanwar Muhammad Adam is a Mid-career Biochar researcher at Tampere University in FI. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.675496
+date: 2026-10-11T02:32:59.695163
 url: "/cdr-researcher-census/researchers/kanwar-muhammad-adam-a5003266/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A green approach to sustainable supercapacitors: Optimized KHCO3 activation of carbon negative biochar** (2026)
-   1 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Shukun Xing"
 description: "Shukun Xing is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.504491
+date: 2026-10-11T02:32:59.517145
 url: "/cdr-researcher-census/researchers/shukun-xing-a5068095/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Response of soil erosion resistance to straw incorporation amount in the black soil region of Northeast China** (2024)
-   34 citations · Soil Carbon
+   35 citations · Soil Carbon
 
 ## External Profiles
 

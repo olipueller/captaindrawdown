@@ -1,7 +1,7 @@
 ---
 title: "Rachel O. Jones"
 description: "Rachel O. Jones is a Mid-career Soil Carbon researcher at Oregon State University in US. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.284298
+date: 2026-10-11T02:33:00.314459
 url: "/cdr-researcher-census/researchers/rachel-o-jones-a5085830/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Interannual climate variability mediates changes in carbon and nitrogen pools caused by annual grass invasion in a semiarid shrubland** (2021)
-   28 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 2. **Interannual climate variability mediates changes in carbon and nitrogen pools caused by annual grass invasion in a semi-arid shrubland** (2021)
    0 citations

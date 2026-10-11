@@ -1,7 +1,7 @@
 ---
 title: "Weixiang Cai"
 description: "Weixiang Cai is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.584454
+date: 2026-10-11T02:32:59.600819
 url: "/cdr-researcher-census/researchers/weixiang-cai-a5056619/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon sequestration of Chinese forests from 2010 to 2060: spatiotemporal dynamics and its regulatory strategies** (2021)
-   192 citations · Soil Carbon
+   191 citations · Soil Carbon
 
 2. **Imbalance of inter-provincial forest carbon sequestration rate from 2010 to 2060 in China and its regulation strategy** (2023)
    17 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "T. M. A. Hossain"
 description: "T. M. A. Hossain is a Senior BECCS researcher at North Carolina State University in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.155615
+date: 2026-10-11T02:33:00.185387
 url: "/cdr-researcher-census/researchers/t-m-a-hossain-a5107990/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Replacing liquid fossil fuels and hydrocarbon chemical feedstocks with liquid biofuels from large-scale nuclear biorefineries** (2021)
-   57 citations · BECCS
+   60 citations · BECCS
 
 ## External Profiles
 

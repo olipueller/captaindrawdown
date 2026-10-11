@@ -1,7 +1,7 @@
 ---
 title: "Hongyu Si"
 description: "Hongyu Si is a Senior Biochar researcher at Zhengzhou University in CN. With 76 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.224556
+date: 2026-10-11T02:32:59.227926
 url: "/cdr-researcher-census/researchers/hongyu-si-a5109724/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Liquid-solid ratio during hydrothermal carbonization affects hydrochar application potential in soil: Based on characteristics comparison and economic benefit analysis** (2023)
-   39 citations · Biochar
+   42 citations · Biochar
 
 2. **Goethite-enriched biochar mitigates soil emissions of CO2 during arsenic passivation: Effect and mechanisms** (2023)
    20 citations · Biochar

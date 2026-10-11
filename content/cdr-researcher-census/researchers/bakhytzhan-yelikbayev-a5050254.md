@@ -1,7 +1,7 @@
 ---
 title: "Bakhytzhan Yelikbayev"
 description: "Bakhytzhan Yelikbayev is a Mid-career Soil Carbon researcher at Satbayev University in KZ. With 39 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.256585
+date: 2026-10-11T02:33:00.286668
 url: "/cdr-researcher-census/researchers/bakhytzhan-yelikbayev-a5050254/"
 layout: "researcher"
 hiddenInHomeList: true

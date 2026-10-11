@@ -1,7 +1,7 @@
 ---
 title: "Qing Xie"
 description: "Qing Xie is a Mid-career Soil Carbon researcher at Shanghai Jiao Tong University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.518807
+date: 2026-10-11T02:32:59.532591
 url: "/cdr-researcher-census/researchers/qing-xie-a5101537/"
 layout: "researcher"
 hiddenInHomeList: true

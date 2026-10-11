@@ -1,7 +1,7 @@
 ---
 title: "Abdelghani Yaacoubi"
 description: "Abdelghani Yaacoubi is a Senior Biochar researcher at Cadi Ayyad University in MA. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.959280
+date: 2026-10-11T02:32:59.990515
 url: "/cdr-researcher-census/researchers/abdelghani-yaacoubi-a5110541/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Optimization, characterization, and DFT study of activated-biochar from lignocellulosic biomass for fluoroquinolone antibiotic adsorption** (2025)
-   16 citations · Biochar
+   18 citations · Biochar
 
 ## External Profiles
 

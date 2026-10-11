@@ -1,7 +1,7 @@
 ---
 title: "Quirin Grossmann"
 description: "Quirin Grossmann is a Mid-career DAC researcher at ETH Zurich in CH. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.835213
+date: 2026-10-11T02:32:59.861506
 url: "/cdr-researcher-census/researchers/quirin-grossmann-a5051401/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,28 +51,28 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **On Comparing Packed Beds and Monoliths for CO<sub>2</sub> Capture from Air Through Experiments, Theory, and Modeling** (2024)
-   62 citations
+   65 citations
 
 2. **Developing Versatile Contactors for Direct Air Capture of CO<sub>2</sub> through Amine Grafting onto Alumina Pellets and Alumina Wash-Coated Monoliths** (2023)
-   58 citations · DAC
+   60 citations · DAC
 
 3. **Measuring and Modeling Water and Carbon Dioxide Adsorption on Amine Functionalized Alumina under Direct Air Capture Conditions** (2025)
-   26 citations
+   27 citations
 
 4. **Mass Transfer of CO<sub>2</sub> in Amine-Functionalized Structured Contactors in Ultra-Dilute Conditions** (2025)
-   22 citations
+   23 citations
 
-5. **Molecular to Process Scale: A Review of Holistic Direct Air Capture Contactor Design** (2021)
-   1 citations
+5. **Structured sorbents for Direct Air Capture: The impact of materials and chemicals on performance** (2026)
+   1 citations · DAC
 
 6. **Structured sorbents for Direct Air Capture: The impact of materials and chemicals on performance** (2026)
    0 citations · DAC
 
-7. **Structured sorbents for Direct Air Capture: The impact of materials and chemicals on performance** (2026)
+7. **Structured sorbents for direct air capture: the impact of materials and chemicals on performance** (2026)
    0 citations · DAC
 
-8. **Structured sorbents for direct air capture: the impact of materials and chemicals on performance** (2026)
-   0 citations · DAC
+8. **Molecular to Process Scale: A Review of Holistic Direct Air Capture Contactor Design** (2021)
+   0 citations
 
 ## External Profiles
 

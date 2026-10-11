@@ -1,7 +1,7 @@
 ---
 title: "Pingan Zhang"
 description: "Pingan Zhang is a Senior Soil Carbon researcher at Xianyang Normal University in CN. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.016281
+date: 2026-10-11T02:33:00.047154
 url: "/cdr-researcher-census/researchers/pingan-zhang-a5101811/"
 layout: "researcher"
 hiddenInHomeList: true

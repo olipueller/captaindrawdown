@@ -1,7 +1,7 @@
 ---
 title: "Walburga Hemetsberger"
 description: "Walburga Hemetsberger is an Early-career DAC researcher at International Life Sciences Institute Europe in BE. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.360693
+date: 2026-10-11T02:33:00.396366
 url: "/cdr-researcher-census/researchers/walburga-hemetsberger-a5087666/"
 layout: "researcher"
 hiddenInHomeList: true

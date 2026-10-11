@@ -1,7 +1,7 @@
 ---
 title: "Sue Rodway‐Dyer"
 description: "Sue Rodway‐Dyer is a Senior General CDR researcher at University of Bristol in GB. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.735116
+date: 2026-10-11T02:32:59.756968
 url: "/cdr-researcher-census/researchers/sue-rodwaydyer-a5080349/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A Review of Life Cycle Assessment Methods to Inform the Scale‐Up of Carbon Dioxide Removal Interventions** (2024)
-   8 citations · General CDR
+   9 citations · General CDR
 
 2. **The new EU carbon removal certification: Landmark legislation or an empty promise?** (2023)
    3 citations · General CDR
+
+3. **Toward Credible Carbon Dioxide Removal: Harmonized Accounting and Data Gaps Across Six CDR Approaches** (2026)
+   0 citations · DAC
 
 ## External Profiles
 

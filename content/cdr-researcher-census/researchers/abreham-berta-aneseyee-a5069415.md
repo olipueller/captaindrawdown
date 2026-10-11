@@ -1,7 +1,7 @@
 ---
 title: "Abreham Berta Aneseyee"
 description: "Abreham Berta Aneseyee is a Mid-career Soil Carbon researcher at Unversity Wolkite in ET. With 38 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.167706
+date: 2026-10-11T02:32:59.171916
 url: "/cdr-researcher-census/researchers/abreham-berta-aneseyee-a5069415/"
 layout: "researcher"
 hiddenInHomeList: true

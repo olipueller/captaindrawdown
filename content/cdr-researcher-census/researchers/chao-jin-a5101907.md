@@ -1,7 +1,7 @@
 ---
 title: "Chao Jin"
 description: "Chao Jin is a Mid-career Biochar researcher at Zhoushan Hospital in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.534705
+date: 2026-10-11T02:32:59.549197
 url: "/cdr-researcher-census/researchers/chao-jin-a5101907/"
 layout: "researcher"
 hiddenInHomeList: true

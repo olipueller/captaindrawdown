@@ -1,7 +1,7 @@
 ---
 title: "Md. Taharia"
 description: "Md. Taharia is a Mid-career Biochar researcher at National Chung Cheng University in TW. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.908920
+date: 2026-10-11T02:32:59.938734
 url: "/cdr-researcher-census/researchers/md-taharia-a5092663/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Microbial induced carbonate precipitation for remediation of heavy metals, ions and radioactive elements: A comprehensive exploration of prospective applications in water and soil treatment** (2024)
-   116 citations
+   122 citations
 
 2. **Comprehensive evaluation of NaOH-modified lotus seed pericarp biochar as a sustainable adsorbent for fluoride removal: Mechanistic and performance study** (2025)
-   4 citations · Biochar
+   5 citations · Biochar
 
 ## External Profiles
 

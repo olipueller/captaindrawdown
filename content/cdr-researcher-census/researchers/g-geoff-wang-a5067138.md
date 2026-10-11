@@ -1,7 +1,7 @@
 ---
 title: "G. Geoff Wang"
 description: "G. Geoff Wang is a Mid-career Soil Carbon researcher at Clemson University in US. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.834235
+date: 2026-10-11T02:32:59.860416
 url: "/cdr-researcher-census/researchers/g-geoff-wang-a5067138/"
 layout: "researcher"
 hiddenInHomeList: true

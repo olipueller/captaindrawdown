@@ -1,7 +1,7 @@
 ---
 title: "M. Signorelli"
 description: "M. Signorelli is a Mid-career DAC researcher at TAE Technologies, Inc (United States) in US. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.910752
+date: 2026-10-11T02:32:59.940888
 url: "/cdr-researcher-census/researchers/m-signorelli-a5042016/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Techno-economic-assessment of the methanol synthesis from captured CO2 and modular nuclear power-based electrolysis** (2025)
-   17 citations · DAC
+   18 citations · DAC
 
 ## External Profiles
 

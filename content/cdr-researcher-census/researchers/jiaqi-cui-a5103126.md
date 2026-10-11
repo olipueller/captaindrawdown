@@ -1,7 +1,7 @@
 ---
 title: "Jiaqi Cui"
 description: "Jiaqi Cui is a Mid-career Biochar researcher at Ministry of Education of the People's Republic of China in CN. With 57 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.203752
+date: 2026-10-11T02:32:59.207946
 url: "/cdr-researcher-census/researchers/jiaqi-cui-a5103126/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Underlying reasons and factors associated with changes in earthworm activities in response to biochar amendment: a review** (2023)
-   16 citations · Biochar
+   17 citations · Biochar
 
 2. **Insight into algae-derived boron-doped biochar for efficient peroxydisulfate activation: The dominant effect of electron-transfer processes** (2025)
    5 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Ling Wang"
 description: "Ling Wang is a Senior Soil Carbon researcher at Northeast Normal University in CN. With 126 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.062090
+date: 2026-10-11T02:32:59.066546
 url: "/cdr-researcher-census/researchers/ling-wang-a5100398/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    17 citations · Soil Carbon
 
 4. **More Than a Decade of Moderate Grazing: No Impact on Soil Organic Carbon Stocks and Enhancement of Mineral‐Associated Organic Carbon via Livestock Diversification** (2025)
-   11 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 5. **Species-specific herbivore grazing of type-specific grassland can assist with promotion of shallow layer of soil carbon sequestration** (2021)
    8 citations · Soil Carbon

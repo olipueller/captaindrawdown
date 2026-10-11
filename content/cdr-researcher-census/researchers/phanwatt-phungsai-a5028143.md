@@ -1,7 +1,7 @@
 ---
 title: "Phanwatt Phungsai"
 description: "Phanwatt Phungsai is a Mid-career Biochar researcher at Khon Kaen University in TH. With 31 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.266334
+date: 2026-10-11T02:32:59.270459
 url: "/cdr-researcher-census/researchers/phanwatt-phungsai-a5028143/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    29 citations · Biochar
 
 2. **Characterization of molecular dissolved organic matter removed by modified eucalyptus-based biochar and disinfection by-product formation potential using Orbitrap mass spectrometric analysis** (2022)
-   18 citations · Biochar
+   17 citations · Biochar
 
 3. **Comparative investigation of known and unknown disinfection by-product precursor removal and microbial community from biological biochar and activated carbon filters** (2024)
-   10 citations · Biochar
+   12 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Regina Menino"
 description: "Regina Menino is a Senior BECCS researcher at Instituto Nacional de Investigação Agrária e Veterinária in PT. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.751886
+date: 2026-10-11T02:32:59.774324
 url: "/cdr-researcher-census/researchers/regina-menino-a5072989/"
 layout: "researcher"
 hiddenInHomeList: true

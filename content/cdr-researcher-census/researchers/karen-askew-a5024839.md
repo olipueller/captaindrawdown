@@ -1,7 +1,7 @@
 ---
 title: "Karen Askew"
 description: "Karen Askew is a Mid-career Soil Carbon researcher at Aberystwyth University in GB. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.110504
+date: 2026-10-11T02:33:00.141234
 url: "/cdr-researcher-census/researchers/karen-askew-a5024839/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Significant difference in <i>Miscanthus</i> species root carbon exudation rate** (2025)
-   3 citations
+   4 citations
 
 2. **Miscanthus Leaf Drop Timing Impacts Autumn and Winter Soil Decomposition Rates** (2026)
    0 citations · Soil Carbon

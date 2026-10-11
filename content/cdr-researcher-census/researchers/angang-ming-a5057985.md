@@ -1,7 +1,7 @@
 ---
 title: "Angang Ming"
 description: "Angang Ming is a Mid-career Soil Carbon researcher at Experimental Center of Tropical Forestry in CN. With 69 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.228143
+date: 2026-10-11T02:32:59.231418
 url: "/cdr-researcher-census/researchers/angang-ming-a5057985/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Introducing N2-fixing tree species into Eucalyptus plantations promotes soil organic carbon sequestration in aggregates by increasing microbial carbon use efficiency** (2023)
-   38 citations · Soil Carbon
+   41 citations · Soil Carbon
 
 2. **Nitrogen-fixing tree species enhance the positive effects of tree species richness on soil organic carbon sequestration by increasing fine root phosphorus loss** (2025)
    14 citations · Soil Carbon
@@ -67,6 +67,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 7. **Exploring the Effects of Thinning on Cunninghamia lanceolata Lamb. Carbon Allocation in Southwestern China Using a Process-Based Model** (2021)
    1 citations · General CDR
+
+8. **Nitrogen-fixing trees rather than tree species richness dominate the molecular diversity of soil organic carbon in subtropical planted forests** (2026)
+   0 citations
 
 ## External Profiles
 

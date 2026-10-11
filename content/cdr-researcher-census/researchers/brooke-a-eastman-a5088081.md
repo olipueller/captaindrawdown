@@ -1,7 +1,7 @@
 ---
 title: "Brooke A. Eastman"
 description: "Brooke A. Eastman is a Mid-career Soil Carbon researcher at West Virginia University in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.772959
+date: 2026-10-11T02:32:59.795996
 url: "/cdr-researcher-census/researchers/brooke-a-eastman-a5088081/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,11 +53,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Altered plant carbon partitioning enhanced forest ecosystem carbon storage after 25 years of nitrogen additions** (2021)
    123 citations · Soil Carbon
 
-2. **Can models adequately reflect how long-term nitrogen enrichment alters the forest soil carbon cycle?** (2023)
-   13 citations
+2. **Can models adequately reflect how long-term nitrogen enrichment alters the forest soil carbon cycle?** (2024)
+   17 citations · Soil Carbon
 
-3. **Can models adequately reflect how long-term nitrogen enrichment alters the forest soil carbon cycle?** (2024)
-   6 citations · Soil Carbon
+3. **Can models adequately reflect how long-term nitrogen enrichment alters the forest soil carbon cycle?** (2023)
+   13 citations
 
 4. **Reply on RC1** (2023)
    0 citations · Soil Carbon

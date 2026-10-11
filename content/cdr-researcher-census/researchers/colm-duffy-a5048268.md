@@ -1,7 +1,7 @@
 ---
 title: "Colm Duffy"
 description: "Colm Duffy is a Senior General CDR researcher at Ollscoil na Gaillimhe – University of Galway in IE. With 55 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.220722
+date: 2026-10-11T02:32:59.224327
 url: "/cdr-researcher-census/researchers/colm-duffy-a5048268/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Climate mitigation efficacy of anaerobic digestion in a decarbonising economy** (2022)
-   41 citations · BECCS
+   43 citations · BECCS
 
-2. **Cattle production strategies to deliver protein with less land and lower environmental impact** (2024)
+2. **National temperature neutrality, agricultural methane and climate policy: reinforcing inequality in the global food system** (2025)
    11 citations
 
-3. **National temperature neutrality, agricultural methane and climate policy: reinforcing inequality in the global food system** (2025)
-   9 citations
+3. **Cattle production strategies to deliver protein with less land and lower environmental impact** (2024)
+   11 citations
 
 4. **Cascading wood use into bioenergy with carbon capture and storage ensures continuous and enduring temperature reduction** (2026)
-   3 citations · BECCS
+   4 citations · BECCS
 
 5. **OptiGob: A decision support tool for Agriculture, Forestry and Other Land Use transitions** (2026)
    0 citations · General CDR

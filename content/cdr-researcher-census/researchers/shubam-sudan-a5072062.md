@@ -1,7 +1,7 @@
 ---
 title: "Shubam Sudan"
 description: "Shubam Sudan is a Mid-career Biochar researcher at Chitkara University in IN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.348171
+date: 2026-10-11T02:33:00.383276
 url: "/cdr-researcher-census/researchers/shubam-sudan-a5072062/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Efficient adsorption of anionic dye (congo red) using copper-carbon dots doped magnetic biochar: kinetic, isothermal, and regeneration studies** (2023)
-   32 citations · Biochar
+   33 citations · Biochar
 
 2. **Encapsulated cobalt-doped coconut husk biochar (Co@CHBc) for the remediation of anionic dye from wastewater** (2024)
    9 citations · Biochar

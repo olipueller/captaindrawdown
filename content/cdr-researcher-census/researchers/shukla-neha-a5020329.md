@@ -1,7 +1,7 @@
 ---
 title: "Shukla Neha"
 description: "Shukla Neha is a Mid-career Biochar researcher at Aarhus University in DK. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.546218
+date: 2026-10-11T02:32:59.561250
 url: "/cdr-researcher-census/researchers/shukla-neha-a5020329/"
 layout: "researcher"
 hiddenInHomeList: true

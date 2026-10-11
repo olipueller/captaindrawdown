@@ -1,7 +1,7 @@
 ---
 title: "Carolyn‐Monika Görres"
 description: "Carolyn‐Monika Görres is a Mid-career Biochar researcher at Hochschule Geisenheim University in DE. With 44 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.443993
+date: 2026-10-11T02:32:59.454356
 url: "/cdr-researcher-census/researchers/carolynmonika-gorres-a5073000/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,11 +53,11 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 1. **Climate-Smart Agriculture Practices for Mitigating Greenhouse Gas Emissions** (2021)
    18 citations · Soil Carbon
 
-2. **Greenhouse Gases from Agriculture** (2021)
-   9 citations
+2. **Long-term integrated organic-inorganic fertilization balances greenhouse gas emissions and soil properties enhancement in subtropical wheat-maize system** (2025)
+   9 citations · General CDR
 
-3. **Long-term integrated organic-inorganic fertilization balances greenhouse gas emissions and soil properties enhancement in subtropical wheat-maize system** (2025)
-   5 citations · General CDR
+3. **Greenhouse Gases from Agriculture** (2021)
+   8 citations
 
 4. **Impact of combined application of biochar and basanite powder on soil-borne greenhouse gas emissions and nitrate leaching** (2025)
    0 citations · Biochar

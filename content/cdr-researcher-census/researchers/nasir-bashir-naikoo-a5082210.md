@@ -1,7 +1,7 @@
 ---
 title: "Nasir Bashir Naikoo"
 description: "Nasir Bashir Naikoo is a Mid-career Soil Carbon researcher at Government College of Science in PK. With 27 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.172738
+date: 2026-10-11T02:33:00.202940
 url: "/cdr-researcher-census/researchers/nasir-bashir-naikoo-a5082210/"
 layout: "researcher"
 hiddenInHomeList: true

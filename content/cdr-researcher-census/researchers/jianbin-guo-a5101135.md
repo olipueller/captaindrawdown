@@ -1,7 +1,7 @@
 ---
 title: "Jianbin Guo"
 description: "Jianbin Guo is a Senior Soil Carbon researcher at Shandong University in CN. With 42 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.553499
+date: 2026-10-11T02:32:59.568413
 url: "/cdr-researcher-census/researchers/jianbin-guo-a5101135/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Spatial–temporal pattern of vegetation carbon sequestration and its response to rocky desertification control measures in a karst area, in Guangxi Province, China** (2022)
-   20 citations
+   21 citations
 
 2. **Spatiotemporal pattern of vegetation water use efficiency between 2003 and 2017 and its coupling relationship with artificial carbon sequestration in the karst region of Southwestern China** (2023)
    14 citations · General CDR

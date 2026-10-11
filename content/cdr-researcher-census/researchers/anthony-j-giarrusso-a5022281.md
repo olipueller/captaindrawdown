@@ -1,7 +1,7 @@
 ---
 title: "Anthony J. Giarrusso"
 description: "Anthony J. Giarrusso is a Senior DAC researcher at Georgia Institute of Technology in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.096162
+date: 2026-10-11T02:33:00.126849
 url: "/cdr-researcher-census/researchers/anthony-j-giarrusso-a5022281/"
 layout: "researcher"
 hiddenInHomeList: true

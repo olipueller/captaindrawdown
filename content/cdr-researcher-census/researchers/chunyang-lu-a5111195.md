@@ -1,7 +1,7 @@
 ---
 title: "Chunyang Lu"
 description: "Chunyang Lu is a Senior Soil Carbon researcher at Research Institute of Tropical Forestry in CN. With 74 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.293496
+date: 2026-10-11T02:32:59.297973
 url: "/cdr-researcher-census/researchers/chunyang-lu-a5111195/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Organic carbon accumulation and aggregate formation in soils under organic and inorganic fertilizer management practices in a rice–wheat cropping system** (2023)
-   69 citations · Soil Carbon
+   71 citations · Soil Carbon
 
 2. **Effects of different tillage and fertilization management practices on soil organic carbon and aggregates under the rice–wheat rotation system** (2021)
    69 citations · Soil Carbon

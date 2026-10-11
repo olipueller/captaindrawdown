@@ -1,7 +1,7 @@
 ---
 title: "Andrew Jenkins"
 description: "Andrew Jenkins is a Senior General CDR researcher at University of Salford in GB. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.725017
+date: 2026-10-11T02:32:59.745986
 url: "/cdr-researcher-census/researchers/andrew-jenkins-a5054378/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The embodied carbon emissions of lettuce production in vertical farming, greenhouse horticulture, and open-field farming in the Netherlands** (2022)
-   126 citations · General CDR
+   129 citations · General CDR
 
 ## External Profiles
 

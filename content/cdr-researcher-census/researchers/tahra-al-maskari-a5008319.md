@@ -1,7 +1,7 @@
 ---
 title: "Tahra Al Maskari"
 description: "Tahra Al Maskari is a Mid-career Biochar researcher at College of Applied Sciences, Nizwa in OM. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.467915
+date: 2026-10-11T02:32:59.479336
 url: "/cdr-researcher-census/researchers/tahra-al-maskari-a5008319/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **An Overview of Green Bioprocessing of Algae-Derived Biochar and Biopolymers: Synthesis, Preparation, and Potential Applications** (2023)
-   51 citations · Biochar
+   50 citations · Biochar
 
 ## External Profiles
 

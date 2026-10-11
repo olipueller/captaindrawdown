@@ -1,7 +1,7 @@
 ---
 title: "Brooke Bruning"
 description: "Brooke Bruning is a Mid-career Soil Carbon researcher at Charles Sturt University in AU. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.691280
+date: 2026-10-11T02:32:59.711867
 url: "/cdr-researcher-census/researchers/brooke-bruning-a5073956/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Fungal endophytes influence soil organic carbon and nitrogen fractions promoting carbon sequestration and improving grain yield in soybean** (2025)
-   10 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 ## External Profiles
 

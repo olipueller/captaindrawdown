@@ -1,7 +1,7 @@
 ---
 title: "Katharina Keiblinger"
 description: "Katharina Keiblinger is a Senior Soil Carbon researcher at Gregor Mendel Institute of Molecular Plant Biology in AT. With 175 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.040129
+date: 2026-10-11T02:32:59.043189
 url: "/cdr-researcher-census/researchers/katharina-keiblinger-a5001652/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    126 citations · Soil Carbon
 
 2. **On-farm soil organic carbon sequestration potentials are dominated by site effects, not by management practices** (2023)
-   41 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 3. **Changes in microbial physiology and carbon-use efficiency upon improving soil habitat conditions in conservation farming systems** (2024)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 4. **Benchmarking carbon sequestration potentials in arable soils by on-farm research on innovative pioneer farms** (2022)
    29 citations

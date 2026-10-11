@@ -1,7 +1,7 @@
 ---
 title: "Elizabeth T. Methratta"
 description: "Elizabeth T. Methratta is a Senior Ocean CDR researcher at NOAA National Marine Fisheries Service in US. With 36 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.277575
+date: 2026-10-11T02:32:59.281952
 url: "/cdr-researcher-census/researchers/elizabeth-t-methratta-a5006603/"
 layout: "researcher"
 hiddenInHomeList: true

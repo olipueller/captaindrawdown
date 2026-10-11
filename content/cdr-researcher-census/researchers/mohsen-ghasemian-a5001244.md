@@ -1,7 +1,7 @@
 ---
 title: "Mohsen Ghasemian"
 description: "Mohsen Ghasemian is a Mid-career DAC researcher at Isfahan University of Technology in IR. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.853702
+date: 2026-10-11T02:32:59.880693
 url: "/cdr-researcher-census/researchers/mohsen-ghasemian-a5001244/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Aizhen Liang"
 description: "Aizhen Liang is a Senior Soil Carbon researcher at Northeast Institute of Geography and Agroecology in CN. With 115 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.081476
+date: 2026-10-11T02:32:59.086263
 url: "/cdr-researcher-census/researchers/aizhen-liang-a5058634/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,28 +45,28 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 32 |
 | Citations | 3,161 |
 | Publications | 115 |
-| CDR Focus | 16.5% |
+| CDR Focus | 18.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Conservation tillage regulates the assembly, network structure and ecological function of the soil bacterial community in black soils** (2022)
-   57 citations · Soil Carbon
+   62 citations · Soil Carbon
 
 2. **Effect of long-term tillage and cropping system on portion of fungal and bacterial necromass carbon in soil organic carbon** (2021)
-   37 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 3. **Cascading Effects Within Soil Food Web Amplify Fungal Biomass and Necromass Production** (2025)
-   32 citations · Soil Carbon
+   33 citations · Soil Carbon
 
 4. **Conservation tillage enhances the sequestration and iron-mediated stabilization of aggregate-associated organic carbon in Mollisols** (2024)
-   25 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 5. **Effects of tillage practices on environment, energy, and economy of maize production in Northeast China** (2024)
-   22 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 6. **Contribution of rhizodeposit associated microbial groups to SOC varies with maize growth stages** (2022)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 7. **Chemical Composition of Plant Residues Regulates Soil Organic Carbon Turnover in Typical Soils with Contrasting Textures in Northeast China Plain** (2022)
    21 citations · Soil Carbon
@@ -78,7 +78,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    14 citations · Soil Carbon
 
 10. **Tillage effects on residue-derived carbon distribution among soil fractions in a Mollisol** (2024)
-   11 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 ## External Profiles
 

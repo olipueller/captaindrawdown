@@ -1,7 +1,7 @@
 ---
 title: "K R Ramesh"
 description: "K R Ramesh is a Mid-career BECCS researcher at Tamil Nadu Agricultural University in IN. With 15 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.206575
+date: 2026-10-11T02:33:00.236108
 url: "/cdr-researcher-census/researchers/k-r-ramesh-a5061399/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Punhoon Khan Korai"
 description: "Punhoon Khan Korai is a Mid-career Biochar researcher at Lasbela University of Agriculture Water and Marine Science in PK. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.326620
+date: 2026-10-11T02:32:59.332429
 url: "/cdr-researcher-census/researchers/punhoon-khan-korai-a5020127/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Leveraging Biochar Amendments to Enhance Food Security and Plant Resilience Under Climate Change** (2025)
-   1 citations · Biochar
+   3 citations · Biochar
+
+2. **Glossary of Soil Science Term** (2025)
+   0 citations
 
 ## External Profiles
 

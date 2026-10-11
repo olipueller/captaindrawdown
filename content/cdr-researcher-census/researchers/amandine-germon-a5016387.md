@@ -1,7 +1,7 @@
 ---
 title: "Amandine Germon"
 description: "Amandine Germon is a Mid-career Soil Carbon researcher. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.361717
+date: 2026-10-11T02:32:59.368833
 url: "/cdr-researcher-census/researchers/amandine-germon-a5016387/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Bioenergy Underground: Challenges and opportunities for phenotyping roots and the microbiome for sustainable bioenergy crop production** (2022)
-   24 citations · BECCS
+   20 citations · BECCS
 
 2. **Fine root production and decomposition of integrated plants under intensified farming systems in Brazil** (2024)
    6 citations · Soil Carbon

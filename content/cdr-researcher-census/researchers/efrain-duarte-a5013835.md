@@ -1,7 +1,7 @@
 ---
 title: "Efraín Duarte"
 description: "Efraín Duarte is a Mid-career Soil Carbon researcher at Agricultural Research Service in US. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.169109
+date: 2026-10-11T02:33:00.198838
 url: "/cdr-researcher-census/researchers/efrain-duarte-a5013835/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Perspective of soil carbon sequestration in Chilean volcanic soils** (2024)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
+
+2. **Assessing soil organic carbon sequestration in agricultural lands using the RothC model: A multi-country evaluation of the FAO-GSP approach in Congo, Chile, Mexico, and the United States of America** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

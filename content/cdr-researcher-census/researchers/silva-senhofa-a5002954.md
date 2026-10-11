@@ -1,7 +1,7 @@
 ---
 title: "Silva Šēnhofa"
 description: "Silva Šēnhofa is a Mid-career Soil Carbon researcher at Latvian State Forest Research Institute \"Silava\" in LV. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.152022
+date: 2026-10-11T02:33:00.181897
 url: "/cdr-researcher-census/researchers/silva-senhofa-a5002954/"
 layout: "researcher"
 hiddenInHomeList: true

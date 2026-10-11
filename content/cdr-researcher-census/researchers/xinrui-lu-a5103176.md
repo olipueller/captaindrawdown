@@ -1,7 +1,7 @@
 ---
 title: "Xinrui Lu"
 description: "Xinrui Lu is a Senior Soil Carbon researcher at Donghua University in CN. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.466082
+date: 2026-10-11T02:32:59.477410
 url: "/cdr-researcher-census/researchers/xinrui-lu-a5103176/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biochar promotes soil aggregate stability and associated organic carbon sequestration and regulates microbial community structures in Mollisols from northeast China** (2023)
-   45 citations · Biochar
+   54 citations · Biochar
 
 2. **Coupling of Biochar and Manure Improves Soil Carbon Pool Stability, Pore Structure, and Microbial Diversity** (2025)
-   16 citations · Biochar
+   18 citations · Biochar
 
 3. **The Residue Chemistry Transformation Linked to the Fungi Keystone Taxa during Different Residue Tissues Incorporation into Mollisols in Northeast China** (2024)
    7 citations · Soil Carbon
@@ -65,16 +65,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Supplementary material to "Biochar promotes soil aggregate stability and associated organic carbon sequestration, and regulates microbial community structures in Mollisols from Northeast China"** (2022)
    1 citations · Biochar
 
-6. **Comment on egusphere-2022-1084** (2023)
-   0 citations · Biochar
+6. **Interactive water-nitrogen effects on tissue-specific maize straw degradation in mollisols** (2026)
+   0 citations · Soil Carbon
 
 7. **Comment on egusphere-2022-1084** (2023)
+   0 citations · Biochar
+
+8. **Comment on egusphere-2022-1084** (2023)
    0 citations
 
-8. **Comment on egusphere-2022-1084** (2022)
+9. **Comment on egusphere-2022-1084** (2022)
    0 citations
 
-9. **Responses of the Soil Aggregates, Associated Organic Carbon Fractions, and Microbial Community Distributions to Successive Biochar Applications in Black Soil** (2022)
+10. **Responses of the Soil Aggregates, Associated Organic Carbon Fractions, and Microbial Community Distributions to Successive Biochar Applications in Black Soil** (2022)
    0 citations · Biochar
 
 ## External Profiles

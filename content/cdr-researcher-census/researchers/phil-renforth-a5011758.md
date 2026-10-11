@@ -1,7 +1,7 @@
 ---
 title: "Phil Renforth"
 description: "Phil Renforth is an Eminent General CDR researcher at Heriot-Watt University in GB. With 159 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.027864
+date: 2026-10-11T02:32:59.030938
 url: "/cdr-researcher-census/researchers/phil-renforth-a5011758/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,31 +51,31 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The cost of direct air capture and storage can be reduced via strategic deployment but is unlikely to fall below stated cost targets** (2023)
-   202 citations · DAC
+   211 citations · DAC
 
-2. **Substantial carbon drawdown potential from enhanced rock weathering in the United Kingdom** (2022)
-   164 citations · Enhanced Weathering
+2. **Stability of alkalinity in ocean alkalinity enhancement (OAE) approaches – consequences for durability of CO <sub>2</sub> storage** (2023)
+   180 citations · General CDR
 
-3. **Stability of alkalinity in ocean alkalinity enhancement (OAE) approaches – consequences for durability of CO <sub>2</sub> storage** (2023)
-   154 citations · General CDR
+3. **Substantial carbon drawdown potential from enhanced rock weathering in the United Kingdom** (2022)
+   165 citations · Enhanced Weathering
 
 4. **Assessing the technical aspects of ocean-alkalinity-enhancement approaches** (2023)
-   113 citations · General CDR
+   126 citations · General CDR
 
 5. **Life Cycle Assessment of Coastal Enhanced Weathering for Carbon Dioxide Removal from Air** (2023)
-   100 citations · Enhanced Weathering
+   96 citations · Enhanced Weathering
 
 6. **Life cycle assessment of ocean liming for carbon dioxide removal from the atmosphere** (2022)
-   76 citations
+   78 citations
 
 7. **Global Carbon Dioxide Removal Potential of Waste Materials From Metal and Diamond Mining** (2021)
-   73 citations · Enhanced Weathering
+   75 citations · Enhanced Weathering
 
 8. **Geochemical Negative Emissions Technologies: Part I. Review** (2022)
-   69 citations · DAC
+   71 citations · DAC
 
 9. **Soil core study indicates limited CO2 removal by enhanced weathering in dry croplands in the UK** (2022)
-   62 citations · Enhanced Weathering
+   66 citations · Enhanced Weathering
 
 10. **Transforming US agriculture for carbon removal with enhanced weathering** (2025)
    59 citations · Enhanced Weathering

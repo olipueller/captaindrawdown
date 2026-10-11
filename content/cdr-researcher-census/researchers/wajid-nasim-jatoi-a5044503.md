@@ -1,7 +1,7 @@
 ---
 title: "Wajid Nasim Jatoi"
 description: "Wajid Nasim Jatoi is a Mid-career Soil Carbon researcher at Islamia University of Bahawalpur in PK. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.617671
+date: 2026-10-11T02:32:59.635157
 url: "/cdr-researcher-census/researchers/wajid-nasim-jatoi-a5044503/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Mitigation of Climate Change Through Carbon Farming** (2023)
-   12 citations · General CDR
+   14 citations · General CDR
 
 ## External Profiles
 

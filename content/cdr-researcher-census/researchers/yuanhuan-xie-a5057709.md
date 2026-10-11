@@ -1,7 +1,7 @@
 ---
 title: "Yuanhuan Xie"
 description: "Yuanhuan Xie is a Mid-career Enhanced Weathering researcher at Chinese Academy of Sciences in CN. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.840280
+date: 2026-10-11T02:32:59.866146
 url: "/cdr-researcher-census/researchers/yuanhuan-xie-a5057709/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Unexpected response of terrestrial carbon sink to rural depopulation in China** (2024)
-   42 citations · Soil Carbon
+   41 citations · Soil Carbon
 
 2. **Response of carbonate rock weathering carbon sink to seismic peak ground acceleration in China** (2025)
-   1 citations · Enhanced Weathering
+   2 citations · Enhanced Weathering
 
 3. **Future decline in the sensitivity of carbon use efficiency to soil formation rates in global karst ecosystems** (2026)
-   0 citations
+   1 citations
 
 4. **Climate Warming Amplifies the Contribution of High‐Altitude Cold Regions to Global Carbonate Weathering Carbon Sink** (2026)
    0 citations

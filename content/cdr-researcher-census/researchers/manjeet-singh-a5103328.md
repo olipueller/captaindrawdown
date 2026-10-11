@@ -1,7 +1,7 @@
 ---
 title: "Manjeet Singh"
 description: "Manjeet Singh is a Mid-career General CDR researcher at Dr. B. R. Ambedkar National Institute of Technology Jalandhar in IN. With 33 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.622786
+date: 2026-10-11T02:32:59.640652
 url: "/cdr-researcher-census/researchers/manjeet-singh-a5103328/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Cradle-to-gate analyses of biochar produced from agricultural crop residues by vacuum pyrolysis** (2024)
-   20 citations · Biochar
+   21 citations · Biochar
 
 2. **Way forward to adopt agricultural practices for paddy straw management based on carbon sequestration and GHG emissions** (2023)
    9 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Katinka Muri Krahn"
 description: "Katinka Muri Krahn is a Mid-career Biochar researcher at Lindum (Norway) in NO. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.853810
+date: 2026-10-11T02:32:59.880787
 url: "/cdr-researcher-census/researchers/katinka-muri-krahn-a5084067/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Sewage sludge biochars as effective PFAS-sorbents** (2022)
-   119 citations · Biochar
+   122 citations · Biochar
 
 2. **Distribution of PAHs, PCBs, and PCDD/Fs in products from full-scale relevant pyrolysis of diverse contaminated organic waste** (2023)
-   59 citations · Biochar
+   58 citations · Biochar
 
 3. **Distribution of Pahs, Pcbs, and Pcdd/Fs in Products from Full-Scale Relevant Pyrolysis of Diverse Contaminated Organic Waste** (2023)
    7 citations · Biochar

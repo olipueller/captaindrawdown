@@ -1,7 +1,7 @@
 ---
 title: "Julian Heitkötter"
 description: "Julian Heitkötter is a Mid-career Soil Carbon researcher at Ruhr University Bochum in DE. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.372815
+date: 2026-10-11T02:32:59.380155
 url: "/cdr-researcher-census/researchers/julian-heitkotter-a5037584/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Root-induced fungal growth triggers macroaggregation in forest subsoils** (2021)
-   68 citations · Soil Carbon
+   69 citations · Soil Carbon
 
 ## External Profiles
 

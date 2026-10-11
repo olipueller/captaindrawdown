@@ -1,7 +1,7 @@
 ---
 title: "Dongsheng An"
 description: "Dongsheng An is a Senior Soil Carbon researcher at Nanjing University in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.201186
+date: 2026-10-11T02:33:00.231150
 url: "/cdr-researcher-census/researchers/dongsheng-an-a5004266/"
 layout: "researcher"
 hiddenInHomeList: true

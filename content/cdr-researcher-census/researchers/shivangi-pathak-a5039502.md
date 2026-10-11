@@ -1,7 +1,7 @@
 ---
 title: "Shivangi Pathak"
 description: "Shivangi Pathak is a Mid-career Biochar researcher at University of Allahabad in IN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.112350
+date: 2026-10-11T02:33:00.143272
 url: "/cdr-researcher-census/researchers/shivangi-pathak-a5039502/"
 layout: "researcher"
 hiddenInHomeList: true

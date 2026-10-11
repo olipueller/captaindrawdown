@@ -1,7 +1,7 @@
 ---
 title: "Yvonne Y. Y. Yau"
 description: "Yvonne Y. Y. Yau is a Mid-career Soil Carbon researcher at Stockholm University in SE. With 58 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.336956
+date: 2026-10-11T02:32:59.342776
 url: "/cdr-researcher-census/researchers/yvonne-y-y-yau-a5015954/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Large Porewater‐Derived Carbon Outwelling Across Mangrove Seascapes Revealed by Radium Isotopes** (2024)
-   12 citations · Ocean CDR
+   13 citations · Ocean CDR
 
 2. **Efficient oxidation attenuates porewater‐derived methane fluxes in mangrove waters** (2024)
    11 citations

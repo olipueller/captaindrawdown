@@ -1,7 +1,7 @@
 ---
 title: "Marie Annie Etoh"
 description: "Marie Annie Etoh is a Mid-career Biochar researcher at University of Douala in CM. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.851789
+date: 2026-10-11T02:32:59.878862
 url: "/cdr-researcher-census/researchers/marie-annie-etoh-a5064134/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synthesis of pozzolan and sugarcane bagasse derived geopolymer-biochar composites for methylene blue sequestration from aqueous medium** (2022)
-   51 citations · Biochar
+   52 citations · Biochar
 
 ## External Profiles
 

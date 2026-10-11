@@ -1,7 +1,7 @@
 ---
 title: "Yuting Chen"
 description: "Yuting Chen is a Mid-career Soil Carbon researcher at Nanjing University of Chinese Medicine in CN. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.775400
+date: 2026-10-11T02:32:59.798530
 url: "/cdr-researcher-census/researchers/yuting-chen-a5100436/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil carbon sequestration in paddy field and its simultaneous mineralization to supply available nutrients for the crops are affected by no-tillage with straw management: A meta-analysis** (2023)
-   37 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 2. **Rice-Fish Co-Culture Promotes Soil Carbon Sequestration Through Alterations in Soil Microbial Community Structure** (2025)
    2 citations · Soil Carbon

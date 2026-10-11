@@ -1,7 +1,7 @@
 ---
 title: "T K Kumara"
 description: "T K Kumara is a Senior Soil Carbon researcher. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.884000
+date: 2026-10-11T02:32:59.911069
 url: "/cdr-researcher-census/researchers/t-k-kumara-a5059131/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Harnessing potential of legumes for sustainable intensification of Indian agriculture** (2023)
-   4 citations · General CDR
+   5 citations · General CDR
 
 ## External Profiles
 

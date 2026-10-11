@@ -1,7 +1,7 @@
 ---
 title: "Mingliang Jiang"
 description: "Mingliang Jiang is a Mid-career Biochar researcher at Nanjing Institute of Geography and Limnology in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.644382
+date: 2026-10-11T02:32:59.662805
 url: "/cdr-researcher-census/researchers/mingliang-jiang-a5002403/"
 layout: "researcher"
 hiddenInHomeList: true

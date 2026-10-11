@@ -1,7 +1,7 @@
 ---
 title: "Xiaoli Liao"
 description: "Xiaoli Liao is a Mid-career Soil Carbon researcher at Jiangsu University in CN. With 35 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.811259
+date: 2026-10-11T02:32:59.836454
 url: "/cdr-researcher-census/researchers/xiaoli-liao-a5100566/"
 layout: "researcher"
 hiddenInHomeList: true

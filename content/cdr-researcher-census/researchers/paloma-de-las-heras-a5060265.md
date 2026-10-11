@@ -1,7 +1,7 @@
 ---
 title: "Paloma de las Heras"
 description: "Paloma de las Heras is a Senior Soil Carbon researcher at Universidad Complutense de Madrid in ES. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.156636
+date: 2026-10-11T02:33:00.186387
 url: "/cdr-researcher-census/researchers/paloma-de-las-heras-a5060265/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Tree species identity rather than species mixing modulates soil organic carbon stocks and respiration in Mediterranean mountain forests** (2025)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

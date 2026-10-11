@@ -1,7 +1,7 @@
 ---
 title: "Fengwei Xu"
 description: "Fengwei Xu is a Mid-career Soil Carbon researcher at Chinese Academy of Forestry in CN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.433261
+date: 2026-10-11T02:32:59.443606
 url: "/cdr-researcher-census/researchers/fengwei-xu-a5027841/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 4. **Assessing the net climate benefits of improved grazing intensity in global rangelands** (2026)
-   0 citations
+   2 citations
 
 ## External Profiles
 

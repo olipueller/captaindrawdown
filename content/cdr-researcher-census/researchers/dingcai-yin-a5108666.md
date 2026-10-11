@@ -1,7 +1,7 @@
 ---
 title: "Dingcai Yin"
 description: "Dingcai Yin is a Mid-career Soil Carbon researcher at Hunan University of Science and Technology in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.764796
+date: 2026-10-11T02:32:59.787907
 url: "/cdr-researcher-census/researchers/dingcai-yin-a5108666/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Comparative Analysis of the Drivers of Soil Organic Carbon, Total Nitrogen, and Phosphorus Stocks in Different Coniferous Plantations on the Eastern Tibetan Plateau** (2023)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
+
+2. **Projected spatiotemporal shifts in forest community suitability in the northeastern Qinghai-Tibet Plateau under climate change** (2026)
+   0 citations
 
 ## External Profiles
 

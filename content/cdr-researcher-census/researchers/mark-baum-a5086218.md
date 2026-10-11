@@ -1,7 +1,7 @@
 ---
 title: "Mark Baum"
 description: "Mark Baum is a Senior Enhanced Weathering researcher at Nano Carbon (Poland) in PL. With 28 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.853391
+date: 2026-10-11T02:32:59.880362
 url: "/cdr-researcher-census/researchers/mark-baum-a5086218/"
 layout: "researcher"
 hiddenInHomeList: true

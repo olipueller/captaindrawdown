@@ -1,7 +1,7 @@
 ---
 title: "Pam Vervoort"
 description: "Pam Vervoort is a Mid-career Enhanced Weathering researcher at University of Birmingham in GB. With 48 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.969443
+date: 2026-10-11T02:33:00.000868
 url: "/cdr-researcher-census/researchers/pam-vervoort-a5087682/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Retracted: Earth System Model Analysis of How Astronomical Forcing Is Imprinted Onto the Marine Geological Record: The Role of the Inorganic (Carbonate) Carbon Cycle and Feedbacks** (2021)
-   35 citations
+   30 citations
 
 2. **Four volcanically driven climatic perturbations led to enhanced continental weathering during the Late Triassic Carnian Pluvial Episode** (2023)
    25 citations · Enhanced Weathering
@@ -66,7 +66,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    4 citations
 
 6. **Earth System Model Analysis of How Astronomical Forcing Is Imprinted Onto the Marine Geological Record: The Role of the Marine Organic Carbon Cycle and Feedbacks** (2025)
-   2 citations
+   3 citations
 
 7. **Modelling the response and impacts of terrestrial feedbacks to orbital forcing** (2026)
    0 citations

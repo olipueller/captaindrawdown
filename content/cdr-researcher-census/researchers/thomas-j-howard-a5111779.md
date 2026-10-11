@@ -1,7 +1,7 @@
 ---
 title: "Thomas J. Howard"
-description: "Thomas J. Howard is a Senior General CDR researcher at Technical University of Denmark in DK. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.991607
+description: "Thomas J. Howard is a Senior General CDR researcher at Indiana University School of Medicine. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:33:00.018702
 url: "/cdr-researcher-census/researchers/thomas-j-howard-a5111779/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/thomas-j-howard-a5111779/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Technical University of Denmark"
+    "name": "Indiana University School of Medicine"
   },
   "sameAs": "https://openalex.org/A5111779344"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Thomas J. Howard**  
-Technical University of Denmark · 🇩🇰 DK
+Indiana University School of Medicine
 
 **Career Stage:** Senior
 
@@ -40,9 +40,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 193 |
-| Publications | 5 |
-| CDR Focus | 20.0% |
+| Citations | 194 |
+| Publications | 4 |
+| CDR Focus | 25.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

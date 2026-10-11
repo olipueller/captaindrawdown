@@ -1,7 +1,7 @@
 ---
 title: "Travis Franck"
 description: "Travis Franck is a Senior General CDR researcher. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.333990
+date: 2026-10-11T02:32:59.339760
 url: "/cdr-researcher-census/researchers/travis-franck-a5113920/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yang Bai"
 description: "Yang Bai is a Mid-career General CDR researcher at China Shenhua Energy (China) in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.083907
+date: 2026-10-11T02:33:00.114224
 url: "/cdr-researcher-census/researchers/yang-bai-a5101628/"
 layout: "researcher"
 hiddenInHomeList: true

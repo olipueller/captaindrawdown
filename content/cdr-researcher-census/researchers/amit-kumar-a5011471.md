@@ -1,7 +1,7 @@
 ---
 title: "Amit Kumar"
 description: "Amit Kumar is a Senior Soil Carbon researcher at United Arab Emirates University in AE. With 83 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.122571
+date: 2026-10-11T02:32:59.127185
 url: "/cdr-researcher-census/researchers/amit-kumar-a5011471/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial necromass in cropland soils: A global meta‐analysis of management effects** (2023)
-   230 citations · Soil Carbon
+   235 citations · Soil Carbon
 
 2. **Arbuscular mycorrhizal fungi and goethite promote carbon sequestration via hyphal-aggregate mineral interactions** (2021)
-   119 citations · Soil Carbon
+   121 citations · Soil Carbon
 
 3. **Carbon sequestration through straw amendment: multi-pool dynamics within soil organic carbon** (2025)
-   44 citations · Soil Carbon
+   48 citations · Soil Carbon
 
 4. **Biochar decreased rhizodeposits stabilization via opposite effects on bacteria and fungi: diminished fungi-promoted aggregation and enhanced bacterial mineralization** (2021)
    42 citations · Biochar
@@ -72,10 +72,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    18 citations · Soil Carbon
 
 8. **Integrated soil–crop system management stabilizes soil organic carbon in saline soils via calcium-mediated synergy between microbial and mineral carbon pumps** (2026)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 9. **Particulate and mineral-associated organic matter in cropland soils: Meta-analysis of management effects** (2026)
-   4 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 10. **Climate Change and Forest Fires: Ecosystem Vulnerability and Resilience** (2025)
    0 citations

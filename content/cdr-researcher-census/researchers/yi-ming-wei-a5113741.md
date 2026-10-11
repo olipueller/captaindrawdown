@@ -1,7 +1,7 @@
 ---
 title: "Yi-Ming Wei"
 description: "Yi-Ming Wei is a Mid-career DAC researcher at Beijing Institute of Technology in CN. With 22 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.090211
+date: 2026-10-11T02:32:59.094747
 url: "/cdr-researcher-census/researchers/yi-ming-wei-a5113741/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Unlocking the economic potential of Direct Air Capture technology: Insights from a component-based learning curve** (2025)
-   8 citations · DAC
+   7 citations · DAC
 
 2. **A literature review of direct air capture technology from a socioeconomic perspective** (2025)
    3 citations · DAC

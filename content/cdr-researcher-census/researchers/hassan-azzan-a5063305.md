@@ -1,7 +1,7 @@
 ---
 title: "Hassan Azzan"
 description: "Hassan Azzan is a Mid-career DAC researcher at Imperial College London in GB. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.809988
+date: 2026-10-11T02:32:59.835123
 url: "/cdr-researcher-census/researchers/hassan-azzan-a5063305/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Measurement of Physicochemical Properties and CO<sub>2</sub>, N<sub>2</sub>, Ar, O<sub>2</sub>, and H<sub>2</sub>O Unary Adsorption Isotherms of Purolite A110 and Lewatit VP OC 1065 for Application in Direct Air Capture** (2023)
-   60 citations
+   63 citations
 
 2. **Physicochemical Properties, Equilibrium Adsorption Performance, Manufacturability, and Stability of TIFSIX-3-Ni for Direct Air Capture of CO <sub>2</sub>** (2024)
-   18 citations
+   19 citations
 
 3. **Physicochemical properties, equilibrium adsorption performance, manufacturability, and stability of TIFSIX-3-Ni for direct air capture** (2024)
    2 citations

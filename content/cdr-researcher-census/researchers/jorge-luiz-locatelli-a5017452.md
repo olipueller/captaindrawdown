@@ -1,7 +1,7 @@
 ---
 title: "Jorge Luiz Locatelli"
 description: "Jorge Luiz Locatelli is a Mid-career Soil Carbon researcher at Hospital Universitário da Universidade de São Paulo in BR. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.652556
+date: 2026-10-11T02:32:59.671371
 url: "/cdr-researcher-census/researchers/jorge-luiz-locatelli-a5017452/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,16 +48,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Cover cropping associated with no-tillage system promotes soil carbon sequestration and increases crop yield in Southern Brazil** (2024)
-   35 citations · Soil Carbon
+   36 citations · Soil Carbon
 
 2. **Greenhouse gas fluxes in brazilian climate-smart agricultural and livestock systems: A systematic and critical overview** (2024)
-   25 citations · General CDR
+   27 citations · General CDR
 
 3. **Soil carbon allocation, composition, and sequestration changes induced by cropping diversification in tropical systems** (2025)
    17 citations · Soil Carbon
 
 4. **Modeling soil organic matter changes under crop diversification strategies and climate change scenarios in the Brazilian Cerrado** (2024)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 5. **Carbon farming in the living soils of the Americas** (2024)
    7 citations

@@ -1,7 +1,7 @@
 ---
 title: "Gülru Bulkan"
 description: "Gülru Bulkan is a Mid-career General CDR researcher at Swedish University of Agricultural Sciences in SE. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.824366
+date: 2026-10-11T02:32:59.834803
 url: "/cdr-researcher-census/researchers/gulru-bulkan-a5004444/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 248 |
+| Citations | 254 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Biogas-based hydrogen production and carbon dioxide removal: Techno-economic and climate impact assessment** (2026)
-   0 citations · General CDR
+   1 citations · General CDR
 
 ## External Profiles
 

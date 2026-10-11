@@ -1,7 +1,7 @@
 ---
 title: "Shizong Zhang"
 description: "Shizong Zhang is a Mid-career Biochar researcher at China University of Mining and Technology in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.313325
+date: 2026-10-11T02:33:00.344036
 url: "/cdr-researcher-census/researchers/shizong-zhang-a5044771/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Tetracycline adsorption on nitrogen-doped furfural residue biochar: Kinetics, thermodynamics and mechanism analysis** (2025)
-   14 citations · Biochar
+   16 citations · Biochar
 
 ## External Profiles
 

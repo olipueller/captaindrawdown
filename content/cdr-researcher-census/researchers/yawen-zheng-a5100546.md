@@ -1,7 +1,7 @@
 ---
 title: "Yawen Zheng"
 description: "Yawen Zheng is a Mid-career General CDR researcher at Guangdong University of Technology in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.166751
+date: 2026-10-11T02:33:00.196819
 url: "/cdr-researcher-census/researchers/yawen-zheng-a5100546/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    36 citations · BECCS
 
 2. **Mapping innovations in direct air capture: A systematic patent review and literature comparison** (2025)
-   6 citations · DAC
+   7 citations · DAC
+
+3. **Exploring the Sustainability of Direct Air Capture Technologies: An Integrated Analysis from Energy, Emergy and Environmental Perspectives** (2026)
+   0 citations · DAC
 
 ## External Profiles
 

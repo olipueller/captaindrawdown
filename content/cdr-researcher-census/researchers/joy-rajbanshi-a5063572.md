@@ -1,7 +1,7 @@
 ---
 title: "Joy Rajbanshi"
 description: "Joy Rajbanshi is a Mid-career Soil Carbon researcher at Council on Energy, Environment and Water in IN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.523681
+date: 2026-10-11T02:32:59.537602
 url: "/cdr-researcher-census/researchers/joy-rajbanshi-a5063572/"
 layout: "researcher"
 hiddenInHomeList: true

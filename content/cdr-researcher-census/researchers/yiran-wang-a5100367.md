@@ -1,7 +1,7 @@
 ---
 title: "Yiran Wang"
 description: "Yiran Wang is a Mid-career Soil Carbon researcher at Northeast Forestry University in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.344725
+date: 2026-10-11T02:33:00.379803
 url: "/cdr-researcher-census/researchers/yiran-wang-a5100367/"
 layout: "researcher"
 hiddenInHomeList: true

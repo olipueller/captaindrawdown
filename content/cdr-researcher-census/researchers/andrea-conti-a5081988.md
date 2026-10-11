@@ -1,7 +1,7 @@
 ---
 title: "Andrea Conti"
 description: "Andrea Conti is an Early-career Enhanced Weathering researcher at TU Wien in AT. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.132087
+date: 2026-10-11T02:33:00.162498
 url: "/cdr-researcher-census/researchers/andrea-conti-a5081988/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **How Water Binds to Microcline Feldspar (001)** (2023)
-   11 citations · Enhanced Weathering
+   13 citations · Enhanced Weathering
 
 2. **How water binds to microcline feldspar (001)** (2023)
    0 citations · Enhanced Weathering

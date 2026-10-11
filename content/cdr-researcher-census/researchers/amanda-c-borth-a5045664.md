@@ -1,7 +1,7 @@
 ---
 title: "Amanda C. Borth"
 description: "Amanda C. Borth is a Mid-career General CDR researcher at George Mason University in US. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.327395
+date: 2026-10-11T02:33:00.360794
 url: "/cdr-researcher-census/researchers/amanda-c-borth-a5045664/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A Deliberative Orientation to Governing Carbon Dioxide Removal: Actionable Recommendations for National-Level Action** (2021)
-   16 citations · General CDR
+   15 citations · General CDR
 
 2. **An earth system governance research agenda for carbon removal** (2024)
    12 citations · General CDR

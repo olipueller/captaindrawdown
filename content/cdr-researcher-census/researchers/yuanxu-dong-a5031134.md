@@ -1,7 +1,7 @@
 ---
 title: "Yuanxu Dong"
 description: "Yuanxu Dong is a Mid-career Ocean CDR researcher at Centre National de la Recherche Scientifique in FR. With 40 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.721752
+date: 2026-10-11T02:32:59.742915
 url: "/cdr-researcher-census/researchers/yuanxu-dong-a5031134/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Accuracy of Ocean CO<sub>2</sub> Uptake Estimates at a Risk by a Reduction in the Data Collection** (2024)
-   18 citations · General CDR
+   17 citations · General CDR
 
 2. **Mechanisms of air–sea CO <sub>2</sub>  exchange in the central Baltic Sea** (2026)
-   0 citations · General CDR
+   1 citations · General CDR
 
 3. **Reply on RC2** (2026)
    0 citations

@@ -1,7 +1,7 @@
 ---
 title: "Long Pan"
 description: "Long Pan is a Senior Biochar researcher at Tongji University in CN. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.774014
+date: 2026-10-11T02:32:59.797136
 url: "/cdr-researcher-census/researchers/long-pan-a5101610/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    10 citations · Biochar
 
 2. **Leaching-resistant armor nano-cobalt embedded biochar for efficient removal of sulfamethoxazole and microcystin-LR via PMS activation** (2025)
-   1 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Pascal da Costa"
 description: "Pascal da Costa is a Senior General CDR researcher at Bouygues (France) in FR. With 129 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.436492
+date: 2026-10-11T02:32:59.446766
 url: "/cdr-researcher-census/researchers/pascal-da-costa-a5037258/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 11 |
 | Citations | 552 |
 | Publications | 129 |
-| CDR Focus | 5.4% |
-| Trajectory | Growing |
+| CDR Focus | 6.2% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **Mapping the landscape of carbon dioxide removal research: a bibliometric analysis** (2024)
-   7 citations · General CDR
+1. **Coordinating the Deployment of Bioenergy with Carbon Capture and Storage** (2022)
+   10 citations · BECCS
 
-2. **Coordinating the Deployment of Bioenergy with Carbon Capture and Storage** (2022)
-   7 citations · BECCS
+2. **Mapping the landscape of carbon dioxide removal research: a bibliometric analysis** (2024)
+   7 citations · General CDR
 
 3. **Global Collaboration in Carbon Dioxide Removal: Navigating a Fragmented Landscape** (2025)
    1 citations · General CDR

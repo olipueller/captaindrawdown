@@ -1,7 +1,7 @@
 ---
 title: "L. Taboada-Ruiz"
 description: "L. Taboada-Ruiz is an Early-career Ocean CDR researcher at Instituto Nacional del Carbón in ES. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.302013
+date: 2026-10-11T02:33:00.333162
 url: "/cdr-researcher-census/researchers/l-taboada-ruiz-a5052377/"
 layout: "researcher"
 hiddenInHomeList: true

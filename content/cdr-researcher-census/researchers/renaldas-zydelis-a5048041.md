@@ -1,7 +1,7 @@
 ---
 title: "Renaldas Žydelis"
 description: "Renaldas Žydelis is a Mid-career Enhanced Weathering researcher at Lithuanian Research Centre for Agriculture and Forestry in LT. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.711294
+date: 2026-10-11T02:32:59.731926
 url: "/cdr-researcher-census/researchers/renaldas-zydelis-a5048041/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Relaunch cropping on marginal soils by incorporating amendments and beneficial trace elements in an interdisciplinary approach** (2021)
-   18 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 2. **Enhanced weathering leads to substantial C accrual on crop macrocosms** (2025)
    0 citations · Enhanced Weathering

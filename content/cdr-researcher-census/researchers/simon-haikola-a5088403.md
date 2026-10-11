@@ -1,7 +1,7 @@
 ---
 title: "Simon Haikola"
 description: "Simon Haikola is a Senior General CDR researcher at Linköping University in SE. With 56 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.265404
+date: 2026-10-11T02:32:59.269539
 url: "/cdr-researcher-census/researchers/simon-haikola-a5088403/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Socio-Economic Determinants for Biochar Deployment in the Southern Highlands of Tanzania** (2021)
-   44 citations · Biochar
+   45 citations · Biochar
 
 2. **Boundary Work and Interpretations in the IPCC Review Process of the Role of Bioenergy With Carbon Capture and Storage (BECCS) in Limiting Global Warming to 1.5°C** (2021)
    36 citations · BECCS
@@ -60,10 +60,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    34 citations · BECCS
 
 4. **Limits to climate action - Narratives of bioenergy with carbon capture and storage** (2021)
-   24 citations · BECCS
+   25 citations · BECCS
 
 5. **Biochar Deployment Drivers and Barriers in Least Developed Countries** (2021)
-   8 citations · Biochar
+   9 citations · Biochar
 
 6. **Biochar Deployment Drivers and Barriers in Least Developed Countries** (2021)
    4 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Zhuangzhuang Wang"
 description: "Zhuangzhuang Wang is a Senior Soil Carbon researcher at Shaanxi Normal University in CN. With 68 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.171271
+date: 2026-10-11T02:32:59.175364
 url: "/cdr-researcher-census/researchers/zhuangzhuang-wang-a5100700/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,24 +51,30 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Coupling human and natural systems for sustainability: experience from China's Loess Plateau** (2022)
-   169 citations · General CDR
+   185 citations · General CDR
 
 2. **Ecosystem water use efficiency and carbon use efficiency respond oppositely to vegetation greening in China's Loess Plateau** (2025)
-   25 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 3. **Exploring the interdependencies of ecosystem services and social-ecological factors on the Loess Plateau through network analysis** (2025)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 4. **Coupling dynamics and feedback mechanisms between ecosystem service flows and socio-economic systems in the loess plateau** (2025)
-   11 citations · General CDR
+   17 citations · General CDR
 
-5. **Coupling Human and Natural Systems for Sustainability: Experiences from China’s Loess Plateau** (2022)
+5. **Linking ecological resilience and ecosystem services to inform spatial conservation planning** (2026)
+   10 citations
+
+6. **Coupling Human and Natural Systems for Sustainability: Experiences from China’s Loess Plateau** (2022)
    9 citations · General CDR
 
-6. **Linking ecological resilience and ecosystem services to inform spatial conservation planning** (2025)
+7. **Assessing spatial linkage of multiple ecosystem services in the Loess Plateau based on landscape types** (2026)
+   3 citations
+
+8. **Linking ecological resilience and ecosystem services to inform spatial conservation planning** (2025)
    0 citations · Soil Carbon
 
-7. **Comment on esd-2022-1** (2022)
+9. **Comment on esd-2022-1** (2022)
    0 citations · General CDR
 
 ## External Profiles

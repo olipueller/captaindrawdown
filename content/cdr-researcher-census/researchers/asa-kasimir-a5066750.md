@@ -1,7 +1,7 @@
 ---
 title: "Åsa Kasimir"
 description: "Åsa Kasimir is a Mid-career Soil Carbon researcher at University of Gothenburg in SE. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.236570
+date: 2026-10-11T02:32:59.240047
 url: "/cdr-researcher-census/researchers/asa-kasimir-a5066750/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Mosses are Important for Soil Carbon Sequestration in Forested Peatlands** (2021)
-   34 citations · Soil Carbon
+   33 citations · Soil Carbon
 
 2. **Importance of mosses and vascular plants in peat soil carbon sequestration** (2021)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Ioan-Alexandru Bărăgău"
 description: "Ioan-Alexandru Bărăgău is a Mid-career Biochar researcher at National Institute of Materials Physics in RO. With 20 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.251517
+date: 2026-10-11T02:32:59.255412
 url: "/cdr-researcher-census/researchers/ioan-alexandru-baragau-a5030603/"
 layout: "researcher"
 hiddenInHomeList: true

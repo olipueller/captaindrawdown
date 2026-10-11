@@ -1,7 +1,7 @@
 ---
 title: "Dabin Zhang"
 description: "Dabin Zhang is a Mid-career Soil Carbon researcher. With 21 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.403048
+date: 2026-10-11T02:32:59.412100
 url: "/cdr-researcher-census/researchers/dabin-zhang-a5103070/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,15 +46,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Priming and balance of soil organic carbon differ with additive C:N ratios and long-term green manuring** (2024)
-   24 citations
+   25 citations
 
 2. **Green manure enhances soil organic carbon sequestration while increasing the risk of soil inorganic carbon loss in calcareous soils** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 3. **Long-term green manuring reduces net greenhouse gas emissions in upland cropping systems in China** (2025)
-   2 citations · General CDR
+   3 citations · General CDR
 
-4. **Capacity and key drivers for reducing the environmental costs of crop production under future climate scenarios by using green manure** (2025)
+4. **Green Manure Species Regulate Carbon Inputs and Soil Organic Carbon Sequestration in a Dryland Winter Wheat System on the Loess Plateau of China** (2026)
+   0 citations · Soil Carbon
+
+5. **Leguminous green manure combined with Bacillus velezensis or sepiolite regulates microbial carbon use efficiency and mitigates soil CO2 emissions in dryland winter wheat** (2026)
+   0 citations
+
+6. **Capacity and key drivers for reducing the environmental costs of crop production under future climate scenarios by using green manure** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

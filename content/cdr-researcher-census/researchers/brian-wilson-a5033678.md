@@ -1,7 +1,7 @@
 ---
 title: "Brian Wilson"
 description: "Brian Wilson is a Senior Soil Carbon researcher at University of New England in AU. With 160 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.056023
+date: 2026-10-11T02:32:59.060216
 url: "/cdr-researcher-census/researchers/brian-wilson-a5033678/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,17 +50,17 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Temporal dynamics in biotic and functional recovery following mining** (2022)
-   24 citations
+1. **Making soil carbon credits work for climate change mitigation** (2024)
+   25 citations · General CDR
 
-2. **Making soil carbon credits work for climate change mitigation** (2024)
-   23 citations · General CDR
+2. **Temporal dynamics in biotic and functional recovery following mining** (2022)
+   24 citations
 
 3. **The Social-Ecological System of Farmers’ Current Soil Carbon Management in Australian Grazing Lands** (2023)
    12 citations · General CDR
 
 4. **Functional Links between Biomass Production and Decomposition of Vetiver (Chrysopogon zizanioides) Grass in Three Australian Soils** (2022)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 5. **Soil Carbon Storage Potential of Tropical Grasses: A Review** (2021)
    8 citations · Soil Carbon

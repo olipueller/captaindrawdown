@@ -1,7 +1,7 @@
 ---
 title: "Fergus Mcilwaine"
 description: "Fergus Mcilwaine is a Mid-career DAC researcher at Heriot-Watt University in GB. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.644506
+date: 2026-10-11T02:32:59.663035
 url: "/cdr-researcher-census/researchers/fergus-mcilwaine-a5087431/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **A roadmap for achieving scalable, safe, and low-cost direct air carbon capture and storage** (2023)
-   119 citations
+   127 citations
 
 2. **Process-informed adsorbent design guidelines for direct air capture** (2022)
    82 citations

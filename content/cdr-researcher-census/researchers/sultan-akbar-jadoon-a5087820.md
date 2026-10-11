@@ -1,7 +1,7 @@
 ---
 title: "Sultan Akbar Jadoon"
 description: "Sultan Akbar Jadoon is a Mid-career Biochar researcher at The University of Agriculture, Peshawar in PK. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.831557
+date: 2026-10-11T02:32:59.857867
 url: "/cdr-researcher-census/researchers/sultan-akbar-jadoon-a5087820/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar particle size coupled with biofertilizer enhances soil carbon-nitrogen microbial pools and CO2 sequestration in lentil** (2023)
-   18 citations · Biochar
+   19 citations · Biochar
 
 2. **Residual Effect of Finely-Ground Biochar Inoculated with Bio-Fertilization Impact on Productivity in a Lentil–Maize Cropping System** (2022)
    15 citations · Biochar

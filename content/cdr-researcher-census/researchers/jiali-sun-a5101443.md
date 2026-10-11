@@ -1,7 +1,7 @@
 ---
 title: "Jiali Sun"
 description: "Jiali Sun is a Mid-career Soil Carbon researcher at Inner Mongolia Agricultural University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.631259
+date: 2026-10-11T02:32:59.649798
 url: "/cdr-researcher-census/researchers/jiali-sun-a5101443/"
 layout: "researcher"
 hiddenInHomeList: true

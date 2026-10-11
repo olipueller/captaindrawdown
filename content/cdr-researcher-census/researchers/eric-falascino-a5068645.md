@@ -1,7 +1,7 @@
 ---
 title: "Eric Falascino"
 description: "Eric Falascino is a Mid-career General CDR researcher at The Ohio State University in US. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.366606
+date: 2026-10-11T02:33:00.402275
 url: "/cdr-researcher-census/researchers/eric-falascino-a5068645/"
 layout: "researcher"
 hiddenInHomeList: true

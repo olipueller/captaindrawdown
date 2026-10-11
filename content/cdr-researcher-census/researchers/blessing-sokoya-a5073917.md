@@ -1,7 +1,7 @@
 ---
 title: "Blessing Sokoya"
 description: "Blessing Sokoya is a Mid-career Soil Carbon researcher at Cooperative Institute for Research in Environmental Sciences in US. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.421501
+date: 2026-10-11T02:32:59.431672
 url: "/cdr-researcher-census/researchers/blessing-sokoya-a5073917/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xingzhi Jin"
 description: "Xingzhi Jin is a Mid-career Biochar researcher at Huazhong Agricultural University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.276105
+date: 2026-10-11T02:33:00.306027
 url: "/cdr-researcher-census/researchers/xingzhi-jin-a5089423/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Injun Park"
 description: "Injun Park is a Senior DAC researcher at Korea Advanced Institute of Science and Technology in KR. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.538211
+date: 2026-10-11T02:32:59.553197
 url: "/cdr-researcher-census/researchers/injun-park-a5065407/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    5 citations
 
 2. **Scale-bridging solid adsorbents for direct air capture: integrating material chemistry, structured contactors, and advanced regeneration processes** (2026)
-   3 citations · DAC
+   4 citations · DAC
 
 3. **Design of Electrified Fiber Sorbents for Direct Air Capture with Electrically‐Driven Temperature Vacuum Swing Adsorption (Adv. Mater. 45/2025)** (2025)
    2 citations

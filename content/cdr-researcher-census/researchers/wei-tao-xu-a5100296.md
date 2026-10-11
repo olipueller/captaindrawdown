@@ -1,7 +1,7 @@
 ---
 title: "Wei-Tao Xu"
 description: "Wei-Tao Xu is a Senior Soil Carbon researcher at Wuhu Fourth People Hospital in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.898130
+date: 2026-10-11T02:32:59.927249
 url: "/cdr-researcher-census/researchers/wei-tao-xu-a5100296/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Key factors influencing the spatial distribution of soil organic carbon and its fractions in Mollisols** (2024)
-   25 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 ## External Profiles
 

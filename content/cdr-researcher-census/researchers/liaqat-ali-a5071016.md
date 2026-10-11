@@ -1,7 +1,7 @@
 ---
 title: "Liaqat Ali"
 description: "Liaqat Ali is a Senior Biochar researcher at Prince of Songkla University in TH. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.203956
+date: 2026-10-11T02:33:00.233749
 url: "/cdr-researcher-census/researchers/liaqat-ali-a5071016/"
 layout: "researcher"
 hiddenInHomeList: true

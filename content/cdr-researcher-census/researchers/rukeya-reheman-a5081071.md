@@ -1,7 +1,7 @@
 ---
 title: "Rukeya Reheman"
 description: "Rukeya Reheman is a Mid-career General CDR researcher at Shaanxi Normal University in CN. With 9 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.716880
+date: 2026-10-11T02:32:59.737979
 url: "/cdr-researcher-census/researchers/rukeya-reheman-a5081071/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Chuifan Zhou"
 description: "Chuifan Zhou is a Senior Soil Carbon researcher at Nanjing Forestry University in CN. With 49 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.190615
+date: 2026-10-11T02:32:59.194667
 url: "/cdr-researcher-census/researchers/chuifan-zhou-a5023639/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,27 +51,30 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil microbial community, dissolved organic matter and nutrient cycling interactions change along an elevation gradient in subtropical China** (2023)
-   61 citations · Soil Carbon
+   62 citations · Soil Carbon
 
 2. **Vegetation restoration shapes soil organic matter chemistry and microbial processes** (2025)
-   40 citations · Soil Carbon
+   44 citations · Soil Carbon
 
-3. **Continuous planting of Chinese fir monocultures significantly influences dissolved organic matter content and microbial assembly processes** (2024)
-   32 citations
+3. **Microbial control of soil DOM transformation during the vegetation restoration in the Loess Plateau** (2024)
+   32 citations · Soil Carbon
 
-4. **Microbial control of soil DOM transformation during the vegetation restoration in the Loess Plateau** (2024)
-   31 citations · Soil Carbon
+4. **Continuous planting of Chinese fir monocultures significantly influences dissolved organic matter content and microbial assembly processes** (2024)
+   31 citations
 
 5. **Linking Microbial Decomposition to Dissolved Organic Matter Composition in the Revegetation of the Red Soil Erosion Area** (2023)
    12 citations · Soil Carbon
 
 6. **Upcycling trace amounts of biomass waste into flash graphene can boost crop yields by more than a quarter and offer climate benefits** (2025)
-   8 citations · Biochar
+   11 citations · Biochar
 
 7. **Molecular shifts in dissolved organic matter and microbial community assembly during vegetation restoration in karst ecosystems** (2026)
    2 citations · Soil Carbon
 
-8. **Microbial Control of Soil Dom Transformation, an Important Prerequisite for Carbon Storage During the Vegetation Restoration in the Loess Plateau** (2022)
+8. **Microbe-mediated changes of soil dissolved organic matter in the rhizosphere of Pinus massoniana during vegetation restoration in a typical red soil erosion region of southern China** (2026)
+   0 citations
+
+9. **Microbial Control of Soil Dom Transformation, an Important Prerequisite for Carbon Storage During the Vegetation Restoration in the Loess Plateau** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Yuhan Guo"
 description: "Yuhan Guo is a Senior Biochar researcher at Hubei University of Arts and Science in CN. With 40 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.279790
+date: 2026-10-11T02:32:59.284038
 url: "/cdr-researcher-census/researchers/yuhan-guo-a5083929/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Analysis of economic and environmental benefits of agricultural straw preparation for biochar returned to the field: A case study at the county scale in China** (2025)
-   1 citations · Biochar
+   2 citations · Biochar
 
 2. **Hydrochar prepared from aquatic and terrestrial biomass: Comparative analysis of characteristics and applications** (2025)
    0 citations · Biochar

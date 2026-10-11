@@ -1,7 +1,7 @@
 ---
 title: "Mamoona Hanif"
 description: "Mamoona Hanif is a Mid-career Soil Carbon researcher at Central Cotton Research Institute in PK. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.455870
+date: 2026-10-11T02:32:59.466983
 url: "/cdr-researcher-census/researchers/mamoona-hanif-a5078845/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Azam Seifi"
 description: "Azam Seifi is a Mid-career Biochar researcher at Kocaeli Üniversitesi in TR. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.640679
+date: 2026-10-11T02:32:59.659162
 url: "/cdr-researcher-census/researchers/azam-seifi-a5102862/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Bamboo-derived adsorbents for environmental remediation: A review of recent progress** (2023)
-   66 citations · Biochar
+   67 citations · Biochar
 
 ## External Profiles
 

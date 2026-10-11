@@ -1,7 +1,7 @@
 ---
 title: "Matthieu Delannoy"
 description: "Matthieu Delannoy is a Mid-career Biochar researcher at Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement in FR. With 92 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.458665
+date: 2026-10-11T02:32:59.469819
 url: "/cdr-researcher-census/researchers/matthieu-delannoy-a5008753/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Adsorption of organochlorinated pesticides: Adsorption kinetic and adsorption isotherm study** (2022)
-   46 citations · Biochar
+   45 citations · Biochar
 
 2. **Organochlorine POPs sequestration strategy by carbonaceous amendments of contaminated soils: Toward a better understanding of the transfer reduction to laying hens** (2022)
+   13 citations
+
+3. **In vitro and in vivo assessment of a CLD sequestration strategy in Nitisol using contrasted carbonaceous materials** (2021)
    11 citations
 
-3. **Effects of particle size and amendment rates of Sargassum biochar on chlordecone sequestration in West Indian soils** (2022)
-   8 citations · Biochar
-
-4. **In vitro and in vivo assessment of a CLD sequestration strategy in Nitisol using contrasted carbonaceous materials** (2021)
-   8 citations
+4. **Effects of particle size and amendment rates of Sargassum biochar on chlordecone sequestration in West Indian soils** (2022)
+   9 citations · Biochar
 
 5. **The Effect of Granulometry of Carbonaceous Materials and Application Rates on the Availability of Soil-Bound Dichlorodiphenyltrichloroethane (DDT) and Its Metabolites** (2024)
    3 citations · Biochar
 
 6. **Assessment of an NDL-PCBs Sequestration Strategy in Soil Using Contrasted Carbonaceous Materials through In Vitro and Cucurbita pepo Assays** (2022)
-   2 citations
+   3 citations
 
 7. **In situ and in vitro evaluation of a technique for sequestering chlordecone in contaminated nitisol using activated carbon and Sargassum biochar** (2026)
    0 citations · Biochar

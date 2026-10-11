@@ -1,7 +1,7 @@
 ---
 title: "Zhiyuan Yang"
 description: "Zhiyuan Yang is a Mid-career General CDR researcher at The University of Melbourne in AU. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.360802
+date: 2026-10-11T02:32:59.367734
 url: "/cdr-researcher-census/researchers/zhiyuan-yang-a5100619/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiaodan Tang"
 description: "Xiaodan Tang is a Mid-career Biochar researcher at Jilin Province Science and Technology Department in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.899762
+date: 2026-10-11T02:32:59.929016
 url: "/cdr-researcher-census/researchers/xiaodan-tang-a5014730/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A green strategy for porous biochar fabrication with superior capacity for peroxydisulfate activation to degrade sulfadiazine: the cooperative role of C-sp3 and specific surface area** (2023)
-   32 citations · Biochar
+   33 citations · Biochar
 
 ## External Profiles
 

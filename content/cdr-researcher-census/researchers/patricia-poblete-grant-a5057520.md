@@ -1,7 +1,7 @@
 ---
 title: "Patricia Poblete-Grant"
 description: "Patricia Poblete-Grant is a Mid-career Soil Carbon researcher at Universidad de Los Lagos in CL. With 28 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.426963
+date: 2026-10-11T02:32:59.437009
 url: "/cdr-researcher-census/researchers/patricia-poblete-grant-a5057520/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Phosphorus fertiliser source determines the allocation of root-derived organic carbon to soil organic matter fractions** (2022)
-   26 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 2. **Innovative agriculture management to foster soil organic carbon sequestration** (2022)
    1 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "João Barreira"
 description: "João Barreira is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.274979
+date: 2026-10-11T02:33:00.304950
 url: "/cdr-researcher-census/researchers/joao-barreira-a5018169/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Large Porewater‐Derived Carbon Outwelling Across Mangrove Seascapes Revealed by Radium Isotopes** (2024)
-   12 citations · Ocean CDR
+   13 citations · Ocean CDR
 
 2. **Efficient oxidation attenuates porewater‐derived methane fluxes in mangrove waters** (2024)
    11 citations

@@ -1,7 +1,7 @@
 ---
 title: "Aniqa Ashraf"
 description: "Aniqa Ashraf is a Mid-career Biochar researcher at University of Science and Technology of China in CN. With 29 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.209331
+date: 2026-10-11T02:32:59.213543
 url: "/cdr-researcher-census/researchers/aniqa-ashraf-a5109683/"
 layout: "researcher"
 hiddenInHomeList: true

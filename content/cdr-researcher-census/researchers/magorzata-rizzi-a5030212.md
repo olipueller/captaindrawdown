@@ -1,7 +1,7 @@
 ---
 title: "Małgorzata Rizzi"
 description: "Małgorzata Rizzi is a Mid-career Enhanced Weathering researcher at University of Copenhagen in DK. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.890962
+date: 2026-10-11T02:32:59.918781
 url: "/cdr-researcher-census/researchers/magorzata-rizzi-a5030212/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,10 +50,16 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 ## Top CDR Publications
 
-1. **Enhanced weathering of glacial rock flour drives coupled inorganic and organic carbon sequestration in a five-year field experiment** (2026)
+1. **An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering** (2026)
+   1 citations · Enhanced Weathering
+
+2. **Enhanced weathering of glacial rock flour drives coupled inorganic and organic carbon sequestration in a five-year field experiment** (2026)
    0 citations · Enhanced Weathering
 
-2. **The relative importance of grain size and mineral weatherability for enhanced rock weathering rates: a comparison of glacial rock flour and basaltic feedstocks** (2025)
+3. **The relative importance of grain size and mineral weatherability for enhanced rock weathering rates: a comparison of glacial rock flour and basaltic feedstocks** (2025)
+   0 citations · Enhanced Weathering
+
+4. **Comparison of Carbon Dioxide Removal estimation methods in Enhanced Rock Weathering** (2023)
    0 citations · Enhanced Weathering
 
 ## External Profiles

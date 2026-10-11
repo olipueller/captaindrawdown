@@ -1,7 +1,7 @@
 ---
 title: "Zuzana Imreová"
 description: "Zuzana Imreová is a Mid-career Biochar researcher at Slovak University of Technology in Bratislava in SK. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.161602
+date: 2026-10-11T02:33:00.191845
 url: "/cdr-researcher-census/researchers/zuzana-imreova-a5006801/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Low-cost carbon-based sorbents for the removal of pharmaceuticals from wastewaters** (2024)
-   27 citations · Biochar
+   29 citations · Biochar
 
 2. **Advancing wastewater treatment: The efficacy of carbon-based electrochemical platforms in removal of pharmaceuticals** (2024)
-   16 citations
+   17 citations
 
 3. **Plum pit waste biochar as a sustainable and efficient adsorbent targeting water contamination: an in-depth analysis of the impact of pyrolysis parameter changes on the adsorption mechanism** (2026)
    0 citations · Biochar

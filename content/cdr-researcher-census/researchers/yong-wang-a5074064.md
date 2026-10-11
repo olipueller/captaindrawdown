@@ -1,7 +1,7 @@
 ---
 title: "Yong Wang"
 description: "Yong Wang is a Mid-career Soil Carbon researcher at Inner Mongolia Normal University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.855964
+date: 2026-10-11T02:32:59.882884
 url: "/cdr-researcher-census/researchers/yong-wang-a5074064/"
 layout: "researcher"
 hiddenInHomeList: true

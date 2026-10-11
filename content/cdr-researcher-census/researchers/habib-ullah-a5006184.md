@@ -1,7 +1,7 @@
 ---
 title: "Habib Ullah"
 description: "Habib Ullah is a Mid-career Biochar researcher at Qingdao University of Science and Technology in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.367845
+date: 2026-10-11T02:33:00.403401
 url: "/cdr-researcher-census/researchers/habib-ullah-a5006184/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Unraveling the mechanisms of free radicals-based transformation and accumulation of potentially toxic metal(loid)s in biochar- and compost-amended soil-plant systems** (2024)
-   15 citations · Biochar
+   17 citations · Biochar
 
 ## External Profiles
 

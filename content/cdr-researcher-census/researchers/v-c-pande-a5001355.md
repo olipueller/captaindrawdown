@@ -1,7 +1,7 @@
 ---
 title: "V. C. Pande"
 description: "V. C. Pande is a Senior Soil Carbon researcher at ICFAI University, Dehradun in IN. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.376426
+date: 2026-10-11T02:32:59.383667
 url: "/cdr-researcher-census/researchers/v-c-pande-a5001355/"
 layout: "researcher"
 hiddenInHomeList: true

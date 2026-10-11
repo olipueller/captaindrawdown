@@ -1,7 +1,7 @@
 ---
 title: "Murat Yılmaz"
 description: "Murat Yılmaz is an Eminent Biochar researcher at Osmaniye Korkut Ata University in TR. With 140 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.068281
+date: 2026-10-11T02:32:59.072814
 url: "/cdr-researcher-census/researchers/murat-ylmaz-a5100637/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,31 +51,31 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **African almond (Terminalia catappa L) leaves biochar prepared through pyrolysis using H3PO4 as chemical activator for sequestration of methylene blue dye** (2022)
-   122 citations · Biochar
+   124 citations · Biochar
 
 2. **Synthesis of high surface area mesoporous ZnCl2–activated cocoa (Theobroma cacao L) leaves biochar derived via pyrolysis for crystal violet dye removal** (2022)
-   93 citations · Biochar
+   96 citations · Biochar
 
 3. **Valorization of microwave-assisted H3PO4-activated plantain (Musa paradisiacal L) leaf biochar for malachite green sequestration: models and mechanism of adsorption** (2023)
    59 citations · Biochar
 
 4. **KMnO4-activated spinach waste biochar: An efficient adsorbent for adsorption of heavy metal ions in aqueous solution** (2024)
-   48 citations · Biochar
+   50 citations · Biochar
 
 5. **Isotherm and kinetic studies of acid yellow 11 dye adsorption from wastewater using Pisum Sativum peels microporous activated carbon** (2023)
-   44 citations · Biochar
+   47 citations · Biochar
 
 6. **Ipoma batatas (sweet potato) leaf and leaf-based biochar as potential adsorbents for procion orange MX-2R removal from aqueous solution** (2024)
    22 citations · Biochar
 
 7. **Cost analysis and adsorption efficiency of chemically activated biochar from rubber wood sawdust for ciprofloxacin removal in environmental remediation** (2026)
+   5 citations · Biochar
+
+8. **Modeling studies of the adsorption of Methyl Red and Acid Yellow 36 dyes by sulphonated Ulva lactuca carbon** (2025)
    4 citations · Biochar
 
-8. **Synthesis of High Surface Area Mesoporous ZnCl2–Activated Cocoa (Theobroma Cacao L) Leaves Biochar Derived Via Pyrolysis for Crystal Violet Dye Removal** (2022)
+9. **Synthesis of High Surface Area Mesoporous ZnCl2–Activated Cocoa (Theobroma Cacao L) Leaves Biochar Derived Via Pyrolysis for Crystal Violet Dye Removal** (2022)
    4 citations · Biochar
-
-9. **Modeling studies of the adsorption of Methyl Red and Acid Yellow 36 dyes by sulphonated Ulva lactuca carbon** (2025)
-   3 citations · Biochar
 
 ## External Profiles
 

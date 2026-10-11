@@ -1,7 +1,7 @@
 ---
 title: "Fantaw Yimer"
 description: "Fantaw Yimer is a Senior Soil Carbon researcher at Hawassa University in ET. With 66 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.113974
+date: 2026-10-11T02:32:59.118619
 url: "/cdr-researcher-census/researchers/fantaw-yimer-a5076055/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Agroforestry practices and on-site charcoal production enhance soil fertility and climate change mitigation in northwestern Ethiopia** (2022)
-   18 citations · Biochar
+   19 citations · Biochar
 
 2. **Exploring compost production potential and its economic benefits and greenhouse gas mitigation in Addis Ababa, Ethiopia** (2024)
    7 citations · General CDR

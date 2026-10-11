@@ -1,7 +1,7 @@
 ---
 title: "Yueshi Li"
 description: "Yueshi Li is an Early-career Biochar researcher at Zhaoqing University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.269779
+date: 2026-10-11T02:33:00.299702
 url: "/cdr-researcher-census/researchers/yueshi-li-a5024987/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    13 citations · Soil Carbon
 
 2. **Enhanced carbon retention in Litchi biochar via in-situ limewater coating and self-limited oxygen pyrolysis regulated by water-fire interaction** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

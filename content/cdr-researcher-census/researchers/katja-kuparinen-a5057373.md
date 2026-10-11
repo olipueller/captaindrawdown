@@ -1,7 +1,7 @@
 ---
 title: "Katja Kuparinen"
 description: "Katja Kuparinen is a Mid-career General CDR researcher at Lappeenranta-Lahti University of Technology in FI. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.605350
+date: 2026-10-11T02:32:59.622902
 url: "/cdr-researcher-census/researchers/katja-kuparinen-a5057373/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,10 +57,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    25 citations · BECCS
 
 3. **Novel BECCS implementation integrating chemical looping combustion with oxygen uncoupling and a kraft pulp mill cogeneration plant** (2023)
-   8 citations · BECCS
+   10 citations · BECCS
 
 4. **Can carbon capture be a new revenue opportunity for the pulp and paper sector?** (2021)
-   4 citations · BECCS
+   5 citations · BECCS
 
 ## External Profiles
 

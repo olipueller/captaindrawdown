@@ -1,7 +1,7 @@
 ---
 title: "Qinggui Wang"
 description: "Qinggui Wang is a Senior Soil Carbon researcher at Qufu Normal University in CN. With 112 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.102228
+date: 2026-10-11T02:32:59.106965
 url: "/cdr-researcher-census/researchers/qinggui-wang-a5064902/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,19 +45,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 28 |
 | Citations | 2,468 |
 | Publications | 112 |
-| CDR Focus | 6.2% |
+| CDR Focus | 7.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Nitrogen deposition caused higher increases in plant-derived organic carbon than microbial-derived organic carbon in forest soils** (2024)
-   30 citations · Soil Carbon
+   33 citations · Soil Carbon
 
 2. **Differential responses of fungal and bacterial necromass accumulation in soil to nitrogen deposition in relation to deposition rate** (2022)
-   30 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 3. **Nitrogen deposition enhances soil organic carbon sequestration through plant–soil–microbe synergies** (2025)
-   20 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 4. **Long-term nitrogen addition further increased carbon sequestration in a boreal forest** (2021)
    19 citations · Soil Carbon
@@ -69,10 +69,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 7. **Long term low-level nitrogen addition enhances microbial carbon use efficiency and turnover rate across different seasons** (2026)
-   2 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 8. **Vertical stratification of microbial necromass carbon and soil organic carbon fractions during natural secondary succession in temperate forests** (2026)
    0 citations
+
+9. **Effects of Long-Term Nitrogen Addition on Glomalin-Related Soil Protein Dynamics, Soil Aggregate Stability and Organic Carbon Sequestration in the Boreal Forest** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

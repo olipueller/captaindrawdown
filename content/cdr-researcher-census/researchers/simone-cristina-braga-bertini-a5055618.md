@@ -1,7 +1,7 @@
 ---
 title: "Simone Cristina Braga Bertini"
 description: "Simone Cristina Braga Bertini is a Mid-career Soil Carbon researcher at University of Tehran in IR. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.740370
+date: 2026-10-11T02:32:59.762632
 url: "/cdr-researcher-census/researchers/simone-cristina-braga-bertini-a5055618/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial contribution to the carbon flux in the soil: A literature review** (2024)
-   22 citations · General CDR
+   24 citations · General CDR
 
 2. **Soil microbe contributions in the regulation of the global carbon cycle** (2022)
    21 citations · General CDR

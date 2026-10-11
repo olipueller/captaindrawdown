@@ -1,7 +1,7 @@
 ---
 title: "Laura Ķēniņa"
 description: "Laura Ķēniņa is a Mid-career General CDR researcher at State Forest Research Institute in IN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.211936
+date: 2026-10-11T02:33:00.242133
 url: "/cdr-researcher-census/researchers/laura-kenina-a5036452/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Carbon carrying capacity in primary forests shows potential for mitigation achieving the European Green Deal 2030 target** (2024)
-   35 citations · General CDR
+   37 citations · General CDR
 
 ## External Profiles
 

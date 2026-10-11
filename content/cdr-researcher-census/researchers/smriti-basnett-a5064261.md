@@ -1,7 +1,7 @@
 ---
 title: "Smriti Basnett"
 description: "Smriti Basnett is a Mid-career General CDR researcher at Government of Sikkim in IN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.763296
+date: 2026-10-11T02:32:59.786351
 url: "/cdr-researcher-census/researchers/smriti-basnett-a5064261/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Ten new insights in climate science 2025** (2026)
-   7 citations · General CDR
+   8 citations · General CDR
 
 2. **Ten New Insights in Climate Science 2025** (2026)
    0 citations · General CDR

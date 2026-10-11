@@ -1,7 +1,7 @@
 ---
 title: "Haoyang You"
 description: "Haoyang You is a Mid-career DAC researcher at University of Chicago in US. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.332469
+date: 2026-10-11T02:32:59.323384
 url: "/cdr-researcher-census/researchers/haoyang-you-a5044308/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 751 |
+| Citations | 788 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |

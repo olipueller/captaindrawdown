@@ -1,7 +1,7 @@
 ---
 title: "Xuesong Mei"
 description: "Xuesong Mei is a Mid-career Soil Carbon researcher at Qufu Normal University in CN. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.070759
+date: 2026-10-11T02:33:00.100856
 url: "/cdr-researcher-census/researchers/xuesong-mei-a5041531/"
 layout: "researcher"
 hiddenInHomeList: true

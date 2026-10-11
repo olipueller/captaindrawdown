@@ -1,7 +1,7 @@
 ---
 title: "Liangxing Shi"
 description: "Liangxing Shi is a Senior Enhanced Weathering researcher at Tianjin University in CN. With 63 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.378908
+date: 2026-10-11T02:32:59.386229
 url: "/cdr-researcher-census/researchers/liangxing-shi-a5078762/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,25 +47,25 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 ## Top CDR Publications
 
-1. **Karst carbon sink mechanism and its contribution to carbon neutralization under land- use management** (2024)
-   27 citations · Enhanced Weathering
+1. **A greening Earth has reversed the trend of decreasing carbonate weathering under a warming climate** (2025)
+   29 citations · Enhanced Weathering
 
-2. **A greening Earth has reversed the trend of decreasing carbonate weathering under a warming climate** (2025)
-   25 citations · Enhanced Weathering
+2. **Karst carbon sink mechanism and its contribution to carbon neutralization under land- use management** (2024)
+   29 citations · Enhanced Weathering
 
 3. **Carbon sinks associated with biological carbon pump in karst surface waters: Progress, challenges, and prospects** (2024)
-   23 citations · General CDR
+   25 citations · General CDR
 
 4. **Carbon capture and storage via enhanced carbonate weathering coupled with aquatic photosynthesis: Potential, cost, and advantages** (2025)
-   11 citations · Enhanced Weathering
+   12 citations · Enhanced Weathering
 
 5. **Nitrate sources and their influence on hydrogeochemistry in karst caves of Southwest China** (2023)
    7 citations
 
-6. **Biological carbon pump drives co-removal of phosphorus and heavy metals in karst lakes** (2026)
-   0 citations
+6. **Dissolved Carbon Dynamics in Artificial Karst Spring Systems: Impacts of Land Use Management** (2026)
+   2 citations
 
-7. **Dissolved Carbon Dynamics in Artificial Karst Spring Systems: Impacts of Land Use Management** (2026)
+7. **Biological carbon pump drives co-removal of phosphorus and heavy metals in karst lakes** (2026)
    0 citations
 
 ## External Profiles

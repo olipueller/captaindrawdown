@@ -1,7 +1,7 @@
 ---
 title: "Zuozheng Xu"
 description: "Zuozheng Xu is a Mid-career Soil Carbon researcher at Collaborative Innovation Center of Advanced Microstructures in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.953768
+date: 2026-10-11T02:32:59.984849
 url: "/cdr-researcher-census/researchers/zuozheng-xu-a5109441/"
 layout: "researcher"
 hiddenInHomeList: true

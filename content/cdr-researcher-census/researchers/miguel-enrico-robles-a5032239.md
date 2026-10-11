@@ -1,7 +1,7 @@
 ---
 title: "Miguel Enrico Robles"
 description: "Miguel Enrico Robles is a Mid-career Soil Carbon researcher at Kongju National University in KR. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.339578
+date: 2026-10-11T02:33:00.373788
 url: "/cdr-researcher-census/researchers/miguel-enrico-robles-a5032239/"
 layout: "researcher"
 hiddenInHomeList: true

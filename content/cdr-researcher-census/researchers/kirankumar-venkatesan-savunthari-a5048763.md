@@ -1,7 +1,7 @@
 ---
 title: "Kirankumar Venkatesan Savunthari"
 description: "Kirankumar Venkatesan Savunthari is a Mid-career Biochar researcher at Northeastern University in US. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.534916
+date: 2026-10-11T02:32:59.549403
 url: "/cdr-researcher-census/researchers/kirankumar-venkatesan-savunthari-a5048763/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Novel African tulip fruit waste-derived biochar nanostructured materials for the removal of widespread pharmaceutical contaminant in wastewaters** (2022)
-   6 citations · Biochar
+   8 citations · Biochar
 
 2. **Remediation of Pb2+ and Cd2+ using rice husk biochar produced at low temperatures** (2021)
    1 citations · Biochar

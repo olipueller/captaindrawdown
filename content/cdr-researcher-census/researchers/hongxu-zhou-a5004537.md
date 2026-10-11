@@ -1,7 +1,7 @@
 ---
 title: "Hongxu Zhou"
 description: "Hongxu Zhou is a Senior Biochar researcher at University of Illinois Urbana-Champaign in US. With 53 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.223597
+date: 2026-10-11T02:32:59.227050
 url: "/cdr-researcher-census/researchers/hongxu-zhou-a5004537/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Identifying effective agricultural management practices for climate change adaptation and mitigation: A win-win strategy in South-Eastern Australia** (2022)
-   41 citations · General CDR
+   40 citations · General CDR
 
 2. **Organic contaminants removal and carbon sequestration using pig manure solid residue-derived biochar: A novel closed-loop strategy for anaerobic liquid digestate** (2023)
-   31 citations · Biochar
+   32 citations · Biochar
 
 3. **Treatment Trains vs. Single-stage Systems: Nutrient removal and economic tradeoffs of biochar-enhanced woodchip bioreactor systems** (2026)
    0 citations · Biochar

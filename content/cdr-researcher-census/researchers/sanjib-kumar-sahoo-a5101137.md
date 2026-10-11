@@ -1,7 +1,7 @@
 ---
 title: "Sanjib Kumar Sahoo"
 description: "Sanjib Kumar Sahoo is a Mid-career Soil Carbon researcher at Odisha University of Agriculture and Technology in IN. With 38 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.943281
+date: 2026-10-11T02:32:59.973347
 url: "/cdr-researcher-census/researchers/sanjib-kumar-sahoo-a5101137/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Soil Carbon
 
 2. **Plant Growth-Promoting Rhizobacteria (PGPR): A Biological Approach to Boost the Carbon Sequestration Potential of Forestry Species** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

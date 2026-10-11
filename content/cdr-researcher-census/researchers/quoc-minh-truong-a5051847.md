@@ -1,7 +1,7 @@
 ---
 title: "Quoc-Minh Truong"
 description: "Quoc-Minh Truong is a Mid-career Biochar researcher at Ho Chi Minh City University of Technology in VN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.379785
+date: 2026-10-11T02:32:59.387217
 url: "/cdr-researcher-census/researchers/quoc-minh-truong-a5051847/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Removal of heavy metals from aqueous solutions by high performance capacitive deionization process using biochar derived from Sargassum hemiphyllum** (2022)
-   61 citations · Biochar
+   62 citations · Biochar
 
 2. **Magnetic biochar derived from macroalgal Sargassum hemiphyllum for highly efficient adsorption of Cu(II): Influencing factors and reusability** (2022)
-   54 citations · Biochar
+   55 citations · Biochar
 
 ## External Profiles
 

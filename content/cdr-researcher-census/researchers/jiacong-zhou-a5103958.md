@@ -1,7 +1,7 @@
 ---
 title: "Jiacong Zhou"
 description: "Jiacong Zhou is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 42 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.587068
+date: 2026-10-11T02:32:59.603791
 url: "/cdr-researcher-census/researchers/jiacong-zhou-a5103958/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -65,16 +65,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **[Responses of soil microbial carbon use efficiency to short-term nitrogen addition in <i>Castanopsis fabri</i> forest].** (2022)
    2 citations · Soil Carbon
 
-6. **Relationship between Soil Bacterial Communities and Dissolved Organic Matter in a Subtropical Pinus Taiwanensis Forest after Short-Term Nitrogen Addition** (2021)
+6. **Manure substitution sustains soil stoichiometry and enhances global crop yields** (2026)
    1 citations
 
-7. **Perennial crops enhance the association between microbial biomass and soil organic carbon sequestration** (2026)
+7. **Relationship between Soil Bacterial Communities and Dissolved Organic Matter in a Subtropical Pinus Taiwanensis Forest after Short-Term Nitrogen Addition** (2021)
+   1 citations
+
+8. **Perennial crops enhance the association between microbial biomass and soil organic carbon sequestration** (2026)
    0 citations · Soil Carbon
 
-8. **The Effect of Soil Physical Structure on Surface Soil Carbon and Nitrogen Content Across Land Use Types** (2024)
+9. **The Effect of Soil Physical Structure on Surface Soil Carbon and Nitrogen Content Across Land Use Types** (2024)
    0 citations · Soil Carbon
 
-9. **The Effect of Soil Physical Structure on Soil Carbon and Nitrogen Sequestration Across Land Use Types** (2024)
+10. **The Effect of Soil Physical Structure on Soil Carbon and Nitrogen Sequestration Across Land Use Types** (2024)
    0 citations · Soil Carbon
 
 ## External Profiles

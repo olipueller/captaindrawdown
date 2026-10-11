@@ -1,7 +1,7 @@
 ---
 title: "Chenglong Zhou"
 description: "Chenglong Zhou is a Mid-career Soil Carbon researcher at China Meteorological Administration in CN. With 61 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.357741
+date: 2026-10-11T02:32:59.364436
 url: "/cdr-researcher-census/researchers/chenglong-zhou-a5101433/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    27 citations
 
 2. **Evaluation of carbon sink in the Taklimakan Desert based on correction of abnormal negative CO2 flux of IRGASON** (2022)
-   23 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 3. **Precipitation Controls on Carbon Sinks in an Artificial Green Space in the Taklimakan Desert** (2024)
    7 citations · Soil Carbon

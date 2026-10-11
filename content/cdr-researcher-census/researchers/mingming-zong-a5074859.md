@@ -1,7 +1,7 @@
 ---
 title: "Mingming Zong"
 description: "Mingming Zong is a Mid-career Soil Carbon researcher at Aarhus University in DK. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.802130
+date: 2026-10-11T02:32:59.826329
 url: "/cdr-researcher-census/researchers/mingming-zong-a5074859/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Ten-year effects of perennial cropping systems on soil organic carbon stock and stability in sandy soils: Mechanisms and biochemical drivers** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 ## External Profiles
 

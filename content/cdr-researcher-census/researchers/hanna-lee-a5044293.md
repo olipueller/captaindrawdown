@@ -1,7 +1,7 @@
 ---
 title: "Hanna Lee"
 description: "Hanna Lee is a Senior General CDR researcher at Norwegian University of Science and Technology in NO. With 193 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.034093
+date: 2026-10-11T02:32:59.037213
 url: "/cdr-researcher-census/researchers/hanna-lee-a5044293/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 35 |
 | Citations | 7,399 |
 | Publications | 193 |
-| CDR Focus | 5.2% |
-| Trajectory | Stable |
+| CDR Focus | 5.7% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -54,16 +54,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    49 citations · General CDR
 
 2. **Environmental consequences of interacting effects of changes in stratospheric ozone, ultraviolet radiation, and climate: UNEP Environmental Effects Assessment Panel, Update 2024** (2025)
-   27 citations
+   28 citations
 
 3. **Carbon cycle feedbacks in an idealized simulation and a scenario simulation of negative emissions in CMIP6 Earth system models** (2024)
-   18 citations · General CDR
+   23 citations · General CDR
 
 4. **Continued permafrost ecosystem carbon loss under net-zero and negative emissions** (2025)
-   17 citations · General CDR
+   18 citations · General CDR
 
 5. **Irreversible Land Water Availability Changes From a Potential ITCZ Shift During Temperature Overshoot** (2025)
-   5 citations · General CDR
+   7 citations · General CDR
 
 6. **Carbon cycle feedbacks in an idealized and a scenario simulation of negative emissions in CMIP6 Earth system models** (2023)
    2 citations · General CDR
@@ -71,13 +71,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 7. **Emit now, mitigate later? Earth system reversibility under overshoots of different magnitude and duration** (2022)
    1 citations · General CDR
 
-8. **Assessing Earth system responses in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2026)
+8. **Assessing Earth system responses in mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2026)
    0 citations · General CDR
 
-9. **Assessing Earth system feedbacks in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2025)
+9. **Assessing Earth system responses in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2026)
    0 citations · General CDR
 
-10. **Potential intensification of permafrost carbon feedback under net-zero and negative emissions** (2023)
+10. **Assessing Earth system feedbacks in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2025)
    0 citations · General CDR
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Sirayu Chanpee"
 description: "Sirayu Chanpee is a Mid-career Biochar researcher at King Mongkut's Institute of Technology Ladkrabang in TH. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.386180
+date: 2026-10-11T02:33:00.423124
 url: "/cdr-researcher-census/researchers/sirayu-chanpee-a5087282/"
 layout: "researcher"
 hiddenInHomeList: true

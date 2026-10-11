@@ -1,7 +1,7 @@
 ---
 title: "Valdecir Ferrari"
 description: "Valdecir Ferrari is a Mid-career Biochar researcher at Rafik Hariri University in LB. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.373024
+date: 2026-10-11T02:32:59.380361
 url: "/cdr-researcher-census/researchers/valdecir-ferrari-a5035035/"
 layout: "researcher"
 hiddenInHomeList: true

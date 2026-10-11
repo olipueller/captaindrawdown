@@ -1,7 +1,7 @@
 ---
 title: "Zengming Chen"
 description: "Zengming Chen is a Senior Soil Carbon researcher at Institute of Soil Science Chinese Academy of Sciences in CN. With 76 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.089882
+date: 2026-10-11T02:32:59.094444
 url: "/cdr-researcher-census/researchers/zengming-chen-a5089690/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Field-aged biochar enhances soil organic carbon by increasing recalcitrant organic carbon fractions and making microbial communities more conducive to carbon sequestration** (2022)
-   92 citations · Biochar
+   95 citations · Biochar
 
 2. **Contribution of microbial necromass to soil organic carbon in profile depths exhibited opposite patterns across ecosystems: A global meta-analysis** (2025)
-   73 citations · Soil Carbon
+   79 citations · Soil Carbon
 
 3. **Lower microbial carbon use efficiency reduces cellulose-derived carbon retention in soils amended with compost versus mineral fertilizers** (2021)
-   41 citations · Soil Carbon
+   42 citations · Soil Carbon
 
 4. **Soil organic carbon trade-offs under conservation tillage: Carbon stock versus stability mediated by particulate and mineral-associated fractions** (2025)
    7 citations · Soil Carbon
@@ -66,7 +66,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    4 citations · Soil Carbon
 
 6. **Contrasting effects of biochar and N fertilization on soil heterotrophic and autotrophic respiration in a maize cropland** (2026)
-   1 citations · Biochar
+   2 citations · Biochar
 
 7. **Divergent stabilization pathways shape soil carbon sequestration efficiency in restored forests and grasslands** (2026)
    0 citations · Soil Carbon

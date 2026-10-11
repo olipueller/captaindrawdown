@@ -1,7 +1,7 @@
 ---
 title: "Taoxia Niu"
 description: "Taoxia Niu is a Mid-career Biochar researcher at Northwest University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.227405
+date: 2026-10-11T02:33:00.257709
 url: "/cdr-researcher-census/researchers/taoxia-niu-a5003484/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Preparation of copper doped walnut shell-based biochar for efficiently removal of organic dyes from aqueous solutions** (2021)
-   49 citations · Biochar
+   50 citations · Biochar
 
 ## External Profiles
 

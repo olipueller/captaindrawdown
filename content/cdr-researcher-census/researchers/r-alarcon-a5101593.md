@@ -1,7 +1,7 @@
 ---
 title: "R. Alarcón"
 description: "R. Alarcón is a Senior Soil Carbon researcher at Institute of Agrifood Research and Technology in ES. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.490553
+date: 2026-10-11T02:32:59.502698
 url: "/cdr-researcher-census/researchers/r-alarcon-a5101593/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Tracking Changes on Soil Structure and Organic Carbon Sequestration after 30 Years of Different Tillage and Management Practices** (2021)
-   31 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Rabindra Singh"
 description: "Rabindra Singh is a Senior General CDR researcher at Indian Institute of Technology BHU in IN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.759552
+date: 2026-10-11T02:32:59.782464
 url: "/cdr-researcher-census/researchers/rabindra-singh-a5088808/"
 layout: "researcher"
 hiddenInHomeList: true

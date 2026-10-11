@@ -1,7 +1,7 @@
 ---
 title: "Hongzhi Yang"
 description: "Hongzhi Yang is a Senior Biochar researcher at Jiangsu University in CN. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.374103
+date: 2026-10-11T02:33:00.409592
 url: "/cdr-researcher-census/researchers/hongzhi-yang-a5101749/"
 layout: "researcher"
 hiddenInHomeList: true

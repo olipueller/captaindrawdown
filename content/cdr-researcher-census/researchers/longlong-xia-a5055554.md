@@ -1,7 +1,7 @@
 ---
 title: "Longlong Xia"
-description: "Longlong Xia is an Eminent Biochar researcher at Karlsruhe Institute of Technology in DE. With 93 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.036370
+description: "Longlong Xia is an Eminent Soil Carbon researcher at Karlsruhe Institute of Technology in DE. With 93 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:32:59.039453
 url: "/cdr-researcher-census/researchers/longlong-xia-a5055554/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Karlsruhe Institute of Technology · 🇩🇪 DE
 
 ## CDR Specialization
 
-**Biochar**
+**Soil Carbon**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -45,40 +45,40 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 41 |
 | Citations | 6,899 |
 | Publications | 93 |
-| CDR Focus | 6.5% |
+| CDR Focus | 7.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Integrated biochar solutions can achieve carbon-neutral staple crop production** (2023)
-   181 citations · Biochar
+   178 citations · Biochar
 
 2. **Can cropland management practices lower net greenhouse emissions without compromising yield?** (2021)
-   141 citations · Soil Carbon
+   142 citations · Soil Carbon
 
 3. **Optimizing cover crop practices as a sustainable solution for global agroecosystem services** (2024)
-   102 citations · Soil Carbon
+   109 citations · Soil Carbon
 
 4. **Biochar application reduced carbon footprint of maize production in the saline−alkali soils** (2024)
    34 citations · Biochar
 
 5. **Upcycling trace amounts of biomass waste into flash graphene can boost crop yields by more than a quarter and offer climate benefits** (2025)
-   8 citations · Biochar
+   11 citations · Biochar
 
-6. **Declines of peatland water table forces climate warming despite methane emission drawdown** (2023)
+6. **Mixed Forestation Outperforms Pure Stands in Soil Carbon Sequestration and Stability** (2026)
+   2 citations · Soil Carbon
+
+7. **Declines of peatland water table forces climate warming despite methane emission drawdown** (2023)
    1 citations
 
-7. **Biochar saved over half of water and nitrogen compared to conventional management by improving soil structure and organic carbon** (2026)
+8. **Biochar saved over half of water and nitrogen compared to conventional management by improving soil structure and organic carbon** (2026)
    0 citations · Biochar
 
-8. **Mixed Forestation Outperforms Pure Stands in Soil Carbon Sequestration and Stability** (2026)
+9. **Mixed Forestation Outperforms Pure Stands in Soil Carbon Sequestration and Stability** (2026)
    0 citations · Soil Carbon
 
-9. **Losing a Hidden Ally: The Shrinking Capacity of Upland Soils to Remove Atmospheric Methane** (2026)
+10. **Losing a Hidden Ally: The Shrinking Capacity of Upland Soils to Remove Atmospheric Methane** (2026)
    0 citations
-
-10. **Reply to Sun: Real-world bulk density changes support high carbon sequestration potential of biochar** (2026)
-   0 citations · Biochar
 
 ## External Profiles
 

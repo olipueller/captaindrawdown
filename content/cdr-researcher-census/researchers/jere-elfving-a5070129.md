@@ -1,7 +1,7 @@
 ---
 title: "Jere Elfving"
 description: "Jere Elfving is a Mid-career DAC researcher at VTT Technical Research Centre of Finland in FI. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.319799
+date: 2026-10-11T02:32:59.325646
 url: "/cdr-researcher-census/researchers/jere-elfving-a5070129/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Kinetic approach to modelling CO2 adsorption from humid air using amine-functionalized resin: Equilibrium isotherms and column dynamics** (2021)
-   88 citations
+   85 citations
 
 2. **Improving adsorption-based direct air capture performance through operating parameter optimization** (2023)
-   46 citations
+   48 citations
 
 3. **Evaluating the viability of ethylenediamine-functionalized Mg-MOF-74 in direct air capture: The challenges of stability and slow adsorption rate** (2024)
    35 citations

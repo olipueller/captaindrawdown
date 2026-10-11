@@ -1,7 +1,7 @@
 ---
 title: "Yogeshwar Singh"
 description: "Yogeshwar Singh is a Senior Soil Carbon researcher at Maharani Laxmi Bai Medical College in IN. With 52 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.277995
+date: 2026-10-11T02:32:59.282399
 url: "/cdr-researcher-census/researchers/yogeshwar-singh-a5111521/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 907 |
 | Publications | 52 |
-| CDR Focus | 11.5% |
+| CDR Focus | 13.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · Soil Carbon
 
 2. **Grasses improve soil multifunctionality by strengthening aggregate-carbon-enzyme linkage in semi-arid degraded land** (2025)
-   2 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 3. **Climate smart land configurations and cropping systems diversification sustaining soil–water–carbon synergy and resource use efficiency** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 4. **Scenario of Crop Residue Generation and Sustainable Management** (2025)
    1 citations · Soil Carbon
@@ -65,7 +65,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Biochar Integration Sustaining Carbon-Nutrient Cycling and Soil Restoration** (2025)
    1 citations · Biochar
 
-6. **Biochemical transformation of agricultural residues into biostimulants for climate‑resilient agriculture: Mechanistic insights and circular bioeconomy** (2026)
+6. **Managing grazing pressure enhances soil carbon sequestration in semi-arid pastureland: Elucidation from δ13C signatures of soil, roots, and excreta** (2026)
+   0 citations · Soil Carbon
+
+7. **Biochemical transformation of agricultural residues into biostimulants for climate‑resilient agriculture: Mechanistic insights and circular bioeconomy** (2026)
    0 citations · Biochar
 
 ## External Profiles

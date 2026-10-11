@@ -1,7 +1,7 @@
 ---
 title: "Mohammed Ouikhalfan"
 description: "Mohammed Ouikhalfan is a Mid-career DAC researcher at Université Mohammed VI Polytechnique in MA. With 16 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.332221
+date: 2026-10-11T02:32:59.337911
 url: "/cdr-researcher-census/researchers/mohammed-ouikhalfan-a5044970/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Toward Energy-Efficient Greenhouse CO<sub>2</sub> Enrichment: Advancements and Challenges in Direct Air Capture with Solid Sorbents** (2025)
-   5 citations · DAC
+   7 citations · DAC
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Sampo Pihlainen"
 description: "Sampo Pihlainen is a Mid-career General CDR researcher at Finnish Environment Institute in FI. With 35 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.540168
+date: 2026-10-11T02:32:59.555191
 url: "/cdr-researcher-census/researchers/sampo-pihlainen-a5085657/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Atsushi Yagioka"
 description: "Atsushi Yagioka is a Mid-career Soil Carbon researcher. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.847317
+date: 2026-10-11T02:32:59.873830
 url: "/cdr-researcher-census/researchers/atsushi-yagioka-a5069118/"
 layout: "researcher"
 hiddenInHomeList: true

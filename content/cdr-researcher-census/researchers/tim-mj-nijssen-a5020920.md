@@ -1,7 +1,7 @@
 ---
 title: "Tim M.J. Nijssen"
 description: "Tim M.J. Nijssen is a Mid-career DAC researcher at Delft University of Technology in NL. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.685498
+date: 2026-10-11T02:32:59.705681
 url: "/cdr-researcher-census/researchers/tim-mj-nijssen-a5020920/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Top CDR Publications
 
-1. **Direct Air Capture with Integrated Electrochemical Conversion through Combined Solid and Liquid Sorbents** (2026)
-   1 citations · DAC
+1. **Model-free control of direct air capture: Optimal rule-based policies tuned via Bayesian optimization** (2026)
+   2 citations · DAC
 
-2. **Model-free control of direct air capture: Optimal rule-based policies tuned via Bayesian optimization** (2026)
-   0 citations · DAC
+2. **Direct Air Capture with Integrated Electrochemical Conversion through Combined Solid and Liquid Sorbents** (2026)
+   1 citations · DAC
 
 3. **Review for "Direct air capture with thermal energy storage: process design and electricity system impacts"** (2025)
    0 citations

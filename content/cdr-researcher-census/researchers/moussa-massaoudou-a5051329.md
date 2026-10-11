@@ -1,7 +1,7 @@
 ---
 title: "Moussa Massaoudou"
 description: "Moussa Massaoudou is a Mid-career Soil Carbon researcher at Université de Maradi in NE. With 33 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.226132
+date: 2026-10-11T02:33:00.256429
 url: "/cdr-researcher-census/researchers/moussa-massaoudou-a5051329/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · General CDR
 
 2. **A review of the direct and indirect effects of African agroforestry trees** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

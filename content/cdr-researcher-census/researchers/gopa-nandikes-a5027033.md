@@ -1,7 +1,7 @@
 ---
 title: "Gopa Nandikes"
 description: "Gopa Nandikes is a Mid-career DAC researcher at Centre National de la Recherche Scientifique in FR. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.857278
+date: 2026-10-11T02:32:59.884187
 url: "/cdr-researcher-census/researchers/gopa-nandikes-a5027033/"
 layout: "researcher"
 hiddenInHomeList: true

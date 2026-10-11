@@ -1,7 +1,7 @@
 ---
 title: "Ishita Mishra"
 description: "Ishita Mishra is a Mid-career Soil Carbon researcher at Govind Ballabh Pant University of Agriculture and Technology in IN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.330410
+date: 2026-10-11T02:33:00.364029
 url: "/cdr-researcher-census/researchers/ishita-mishra-a5040773/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Agroforestry Systems: A Pathway to Resilient and Productive Landscapes** (2024)
-   15 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 ## External Profiles
 

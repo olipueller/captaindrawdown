@@ -1,7 +1,7 @@
 ---
 title: "Liqiang Cui"
 description: "Liqiang Cui is a Mid-career Biochar researcher at Mianyang Central Hospital in CN. With 45 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.349726
+date: 2026-10-11T02:32:59.355720
 url: "/cdr-researcher-census/researchers/liqiang-cui-a5034842/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Organic material additions have stronger effects on humic substances and enzyme activities than soil types** (2022)
-   14 citations · Biochar
+   15 citations · Biochar
 
 2. **Urease and β-glucosidase activity enhanced the transformation of functional groups of humin amended by straw and straw-derived biochar** (2022)
-   8 citations · Biochar
+   9 citations · Biochar
 
 3. **Urease and b-glucosidase activity enhanced the transformation of functional groups of humin amended by straw and straw derived biochar** (2022)
    0 citations · Biochar

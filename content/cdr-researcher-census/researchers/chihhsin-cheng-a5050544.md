@@ -1,7 +1,7 @@
 ---
 title: "Chih‐Hsin Cheng"
 description: "Chih‐Hsin Cheng is a Senior Soil Carbon researcher at National Taiwan University in TW. With 52 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.079174
+date: 2026-10-11T02:32:59.083971
 url: "/cdr-researcher-census/researchers/chihhsin-cheng-a5050544/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Tree Species and Stand Density: The Effects on Soil Organic Matter Contents, Decomposability and Susceptibility to Microbial Priming** (2022)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 2. **Changes in Soil Organic Carbon Concentration and Stock after Forest Regeneration of Agricultural Fields in Taiwan** (2021)
    12 citations · General CDR

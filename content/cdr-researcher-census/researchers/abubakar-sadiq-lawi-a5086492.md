@@ -1,7 +1,7 @@
 ---
 title: "Abubakar Sadiq Lawi"
 description: "Abubakar Sadiq Lawi is a Mid-career Soil Carbon researcher at Anhui University of Science and Technology in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.095642
+date: 2026-10-11T02:33:00.126252
 url: "/cdr-researcher-census/researchers/abubakar-sadiq-lawi-a5086492/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil bacterial community characteristics and its effect on organic carbon under different fertilization treatments** (2024)
-   35 citations · Soil Carbon
+   36 citations · Soil Carbon
 
 ## External Profiles
 

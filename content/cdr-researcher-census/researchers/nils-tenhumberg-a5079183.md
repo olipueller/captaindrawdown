@@ -1,7 +1,7 @@
 ---
 title: "Nils Tenhumberg"
 description: "Nils Tenhumberg is a Mid-career DAC researcher at ThyssenKrupp (Germany) in DE. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.382640
+date: 2026-10-11T02:32:59.390357
 url: "/cdr-researcher-census/researchers/nils-tenhumberg-a5079183/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Production of Sustainable Methanol from Industrial Exhaust Gases** (2024)
-   4 citations · DAC
+   5 citations · DAC
 
 ## External Profiles
 

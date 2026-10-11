@@ -1,7 +1,7 @@
 ---
 title: "Hyeong Ryeol Kim"
 description: "Hyeong Ryeol Kim is a Mid-career Biochar researcher at Korea University in KR. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.841767
+date: 2026-10-11T02:32:59.867579
 url: "/cdr-researcher-census/researchers/hyeong-ryeol-kim-a5088968/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Mechanical Improvement of Biochar-Alginate Composite by Using Melamine Sponge as Support and Application to Cu(II) Removal** (2021)
-   14 citations · Biochar
+   15 citations · Biochar
 
 ## External Profiles
 

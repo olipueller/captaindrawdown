@@ -1,7 +1,7 @@
 ---
 title: "Elena Pagani"
 description: "Elena Pagani is a Mid-career BECCS researcher at University of Bologna in IT. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.364896
+date: 2026-10-11T02:33:00.400645
 url: "/cdr-researcher-census/researchers/elena-pagani-a5102801/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xuying Hai"
 description: "Xuying Hai is a Mid-career Soil Carbon researcher at Ningxia University in CN. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.169310
+date: 2026-10-11T02:32:59.173421
 url: "/cdr-researcher-census/researchers/xuying-hai-a5050137/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Driving factors of ecosystem services and their spatiotemporal change assessment based on land use types in the Loess Plateau** (2022)
-   232 citations · General CDR
+   235 citations · General CDR
 
 2. **Forestation delivers significantly more effective results in soil C and N sequestrations than natural succession on badly degraded areas: Evidence from the Central Loess Plateau case** (2021)
    74 citations · Soil Carbon

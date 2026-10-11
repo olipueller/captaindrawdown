@@ -1,7 +1,7 @@
 ---
 title: "Haofeng Yang"
 description: "Haofeng Yang is a Mid-career Biochar researcher at Zhejiang University of Science and Technology in CN. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.692818
+date: 2026-10-11T02:32:59.713414
 url: "/cdr-researcher-census/researchers/haofeng-yang-a5114178/"
 layout: "researcher"
 hiddenInHomeList: true

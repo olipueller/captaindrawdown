@@ -1,7 +1,7 @@
 ---
 title: "Wenqian Han"
 description: "Wenqian Han is a Senior Soil Carbon researcher at Qingdao University in CN. With 27 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.404875
+date: 2026-10-11T02:32:59.413884
 url: "/cdr-researcher-census/researchers/wenqian-han-a5046437/"
 layout: "researcher"
 hiddenInHomeList: true

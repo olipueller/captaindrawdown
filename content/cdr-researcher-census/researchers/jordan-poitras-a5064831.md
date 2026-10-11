@@ -1,7 +1,7 @@
 ---
 title: "Jordan Poitras"
 description: "Jordan Poitras is a Mid-career Enhanced Weathering researcher at The University of Queensland in AU. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.867412
+date: 2026-10-11T02:32:59.894120
 url: "/cdr-researcher-census/researchers/jordan-poitras-a5064831/"
 layout: "researcher"
 hiddenInHomeList: true

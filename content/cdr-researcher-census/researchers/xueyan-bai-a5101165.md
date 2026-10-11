@@ -1,7 +1,7 @@
 ---
 title: "Xueyan Bai"
 description: "Xueyan Bai is a Senior Soil Carbon researcher at Northeast Agricultural University in CN. With 80 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.467809
+date: 2026-10-11T02:32:59.479253
 url: "/cdr-researcher-census/researchers/xueyan-bai-a5101165/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,11 +47,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Goethite introduction strengthens balck soil carbon sequestration under various water management conditions and its microbial mechanisms** (2024)
-   7 citations · Soil Carbon
+1. **Mechanistic elucidation of citric acid-modified biochar-mediated atrazine degradation and drift risk mitigation in maize rhizosphere soil** (2025)
+   7 citations · Biochar
 
-2. **Mechanistic elucidation of citric acid-modified biochar-mediated atrazine degradation and drift risk mitigation in maize rhizosphere soil** (2025)
-   5 citations · Biochar
+2. **Goethite introduction strengthens balck soil carbon sequestration under various water management conditions and its microbial mechanisms** (2024)
+   7 citations · Soil Carbon
 
 3. **Effects of Severe Wind Erosion on <scp>SOC</scp> Pools Under Different Long‐Term Land Use Types on Arid Sandy Soil** (2025)
    1 citations · Soil Carbon

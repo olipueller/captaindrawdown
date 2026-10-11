@@ -1,7 +1,7 @@
 ---
 title: "Megan C. Davis"
 description: "Megan C. Davis is a Mid-career DAC researcher at Los Alamos National Laboratory in US. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.141618
+date: 2026-10-11T02:33:00.171960
 url: "/cdr-researcher-census/researchers/megan-c-davis-a5071971/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Design of active sites for amine-functionalized direct air capture materials using integrated high-throughput calculations and machine learning** (2025)
-   7 citations
+   8 citations
 
 2. **Enhancing Discovery and Understanding of Atomically Dispersed Single Atom Catalysts for CO<sub>2</sub> Reduction Reaction with Density Functional Theory and Machine Learning** (2024)
    1 citations · DAC

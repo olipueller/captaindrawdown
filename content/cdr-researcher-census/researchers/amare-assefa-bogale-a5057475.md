@@ -1,7 +1,7 @@
 ---
 title: "Amare Assefa Bogale"
 description: "Amare Assefa Bogale is a Mid-career Biochar researcher at Magyar Agrár- és Élettudományi Egyetem in HU. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.229353
+date: 2026-10-11T02:33:00.259604
 url: "/cdr-researcher-census/researchers/amare-assefa-bogale-a5057475/"
 layout: "researcher"
 hiddenInHomeList: true

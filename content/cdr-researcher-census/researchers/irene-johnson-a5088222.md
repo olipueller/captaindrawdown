@@ -1,7 +1,7 @@
 ---
 title: "Irene Johnson"
 description: "Irene Johnson is a Senior Soil Carbon researcher at University of Sheffield in GB. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.357482
+date: 2026-10-11T02:32:59.364114
 url: "/cdr-researcher-census/researchers/irene-johnson-a5088222/"
 layout: "researcher"
 hiddenInHomeList: true

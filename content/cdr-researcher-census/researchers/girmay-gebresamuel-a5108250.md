@@ -1,7 +1,7 @@
 ---
 title: "Girmay Gebresamuel"
 description: "Girmay Gebresamuel is a Senior Soil Carbon researcher at Mekelle University in ET. With 34 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.314716
+date: 2026-10-11T02:32:59.320377
 url: "/cdr-researcher-census/researchers/girmay-gebresamuel-a5108250/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Spatial and temporal dynamics of soil organic carbon stock and carbon sequestration affected by major land-use conversions in Northwestern highlands of Ethiopia** (2021)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 2. **Structural stability and organic carbon stock of soils under three land use systems from semi-arid area of northern Ethiopia** (2024)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 3. **Environmental determinants of tree productivity and biomass carbon stock in semi-arid Ethiopia** (2026)
    0 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Viviana Loaiza"
 description: "Viviana Loaiza is a Senior Soil Carbon researcher at ZHAW Zurich University of Applied Sciences in CH. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.337744
+date: 2026-10-11T02:32:59.343549
 url: "/cdr-researcher-census/researchers/viviana-loaiza-a5090790/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Charlotte Biryol"
 description: "Charlotte Biryol is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.872026
+date: 2026-10-11T02:32:59.899097
 url: "/cdr-researcher-census/researchers/charlotte-biryol-a5082826/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    156 citations
 
 2. **Impacts of Canopy Disturbances by Tree Logging on Soil Biota Increase With Organism Size** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 3. **Soil organism body size as an integrative trait to understand soil functioning and resilience** (2026)
    0 citations

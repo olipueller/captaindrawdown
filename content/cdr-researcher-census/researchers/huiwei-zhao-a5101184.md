@@ -1,7 +1,7 @@
 ---
 title: "Huiwei Zhao"
 description: "Huiwei Zhao is a Mid-career Biochar researcher at Hebei Science and Technology Department in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.824772
+date: 2026-10-11T02:32:59.850140
 url: "/cdr-researcher-census/researchers/huiwei-zhao-a5101184/"
 layout: "researcher"
 hiddenInHomeList: true

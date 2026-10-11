@@ -1,7 +1,7 @@
 ---
 title: "Zahra Eshaghi Gorji"
 description: "Zahra Eshaghi Gorji is a Mid-career DAC researcher at University of Helsinki in FI. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.068082
+date: 2026-10-11T02:33:00.098193
 url: "/cdr-researcher-census/researchers/zahra-eshaghi-gorji-a5073778/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Silica Gel Supported Solid Amine Sorbents for <scp>CO<sub>2</sub></scp> Capture** (2024)
-   40 citations
+   44 citations
 
 2. **Harnessing humidity for direct air capture: Moisture-swing sorbent design and mechanisms** (2025)
-   4 citations · DAC
+   7 citations · DAC
 
 3. **Silica Gel Supported Solid Amine Sorbent for CO2 Capture** (2024)
    2 citations

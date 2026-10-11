@@ -1,7 +1,7 @@
 ---
 title: "Preston Tan"
 description: "Preston Tan is an Early-career General CDR researcher at Nanyang Technological University in SG. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.092746
+date: 2026-10-11T02:33:00.123398
 url: "/cdr-researcher-census/researchers/preston-tan-a5049803/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A techno-economic assessment of the reutilisation of municipal solid waste incineration ash for CO2 capture from incineration flue gases by calcium looping** (2023)
-   64 citations · General CDR
+   65 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Rashmita Sharma"
 description: "Rashmita Sharma is an Early-career Soil Carbon researcher at Indian School of Business in IN. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.315201
+date: 2026-10-11T02:33:00.346072
 url: "/cdr-researcher-census/researchers/rashmita-sharma-a5027088/"
 layout: "researcher"
 hiddenInHomeList: true

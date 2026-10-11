@@ -1,7 +1,7 @@
 ---
 title: "Afsaneh Khajeh"
 description: "Afsaneh Khajeh is a Mid-career BECCS researcher at North Carolina Agricultural and Technical State University in US. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.666087
+date: 2026-10-11T02:32:59.685544
 url: "/cdr-researcher-census/researchers/afsaneh-khajeh-a5041695/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Effects of various carbon-supported iron catalysts on tar removal efficiency and syngas yield during catalytic biomass gasification** (2023)
-   45 citations · BECCS
+   46 citations · BECCS
 
 ## External Profiles
 

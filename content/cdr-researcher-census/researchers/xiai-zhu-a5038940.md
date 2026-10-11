@@ -1,7 +1,7 @@
 ---
 title: "Xiai Zhu"
 description: "Xiai Zhu is a Senior Soil Carbon researcher at Xishuangbanna Tropical Botanical Garden in CN. With 61 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.134834
+date: 2026-10-11T02:32:59.139599
 url: "/cdr-researcher-census/researchers/xiai-zhu-a5038940/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 23 |
 | Citations | 1,887 |
 | Publications | 61 |
-| CDR Focus | 6.6% |
-| Trajectory | Declining |
+| CDR Focus | 8.2% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

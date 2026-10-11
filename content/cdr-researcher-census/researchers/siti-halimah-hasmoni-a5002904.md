@@ -1,7 +1,7 @@
 ---
 title: "Siti Halimah Hasmoni"
 description: "Siti Halimah Hasmoni is a Mid-career Biochar researcher at University of Technology Malaysia in MY. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.005597
+date: 2026-10-11T02:33:00.036656
 url: "/cdr-researcher-census/researchers/siti-halimah-hasmoni-a5002904/"
 layout: "researcher"
 hiddenInHomeList: true

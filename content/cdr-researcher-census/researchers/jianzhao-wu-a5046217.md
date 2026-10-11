@@ -1,7 +1,7 @@
 ---
 title: "Jianzhao Wu"
 description: "Jianzhao Wu is a Senior Soil Carbon researcher at Chinese University of Hong Kong in CN. With 71 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.045221
+date: 2026-10-11T02:32:59.048757
 url: "/cdr-researcher-census/researchers/jianzhao-wu-a5046217/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,34 +51,34 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Driving factors of ecosystem services and their spatiotemporal change assessment based on land use types in the Loess Plateau** (2022)
-   232 citations · General CDR
+   235 citations · General CDR
 
-2. **Recalcitrant organic carbon plays a key role in soil carbon sequestration along a long-term vegetation succession on the Loess Plateau** (2023)
-   83 citations · Soil Carbon
+2. **Soil Organic Carbon Increases With Decreasing Microbial Carbon Use Efficiency During Vegetation Restoration** (2024)
+   86 citations · Soil Carbon
 
-3. **Soil Organic Carbon Increases With Decreasing Microbial Carbon Use Efficiency During Vegetation Restoration** (2024)
-   81 citations · Soil Carbon
+3. **Recalcitrant organic carbon plays a key role in soil carbon sequestration along a long-term vegetation succession on the Loess Plateau** (2023)
+   85 citations · Soil Carbon
 
 4. **Forestation delivers significantly more effective results in soil C and N sequestrations than natural succession on badly degraded areas: Evidence from the Central Loess Plateau case** (2021)
    74 citations · Soil Carbon
 
 5. **Forests have a higher soil C sequestration benefit due to lower C mineralization efficiency: Evidence from the central loess plateau case** (2022)
-   68 citations
+   72 citations
 
 6. **Inorganic Carbon Should Be Considered for Carbon Sequestration in Agricultural Soils** (2025)
-   44 citations · Soil Carbon
+   49 citations · Soil Carbon
 
 7. **Vegetation restoration in the coarse‐textured soil area is more conducive to the accumulation of Fe‐associated C** (2024)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 8. **Patterns and controlling factors of soil microbial necromass carbon in global ecosystems** (2025)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 9. **Microbial regulation mechanisms of soil organic carbon sequestration by biochar application** (2026)
-   6 citations
+   7 citations
 
 10. **Theoretical and Actual Carbon Sequestration Potential in China's Terrestrial Ecosystems** (2026)
-   4 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

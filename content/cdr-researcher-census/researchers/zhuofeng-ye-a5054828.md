@@ -1,7 +1,7 @@
 ---
 title: "Zhuofeng Ye"
 description: "Zhuofeng Ye is an Early-career Biochar researcher. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.372956
+date: 2026-10-11T02:33:00.408491
 url: "/cdr-researcher-census/researchers/zhuofeng-ye-a5054828/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The pH-sensitive sorption governed reduction of Cr(VI) by sludge derived biochar and the accelerating effect of organic acids** (2021)
-   48 citations · Biochar
+   49 citations · Biochar
 
 2. **Hexavalent Chromium Detoxification by Biochars: Influences of Organic and Inorganic Electron Donors** (2024)
    1 citations · Biochar

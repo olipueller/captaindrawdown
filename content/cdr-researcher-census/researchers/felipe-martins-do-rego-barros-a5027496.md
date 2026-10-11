@@ -1,7 +1,7 @@
 ---
 title: "Felipe Martins do Rêgo Barros"
 description: "Felipe Martins do Rêgo Barros is a Mid-career Soil Carbon researcher at Universidade de São Paulo in BR. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.735871
+date: 2026-10-11T02:32:59.757795
 url: "/cdr-researcher-census/researchers/felipe-martins-do-rego-barros-a5027496/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,12 +51,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Rock powder type and soil texture shape microbial community shifts and plant biomass responses in highly weathered tropical soils** (2025)
-   4 citations · Enhanced Weathering
+   6 citations · Enhanced Weathering
 
-2. **Rhizosphere organic acids drive nutrient release from silicate rock powders across contrasting tropical soils** (2026)
+2. **Microbial traits, necromass accumulation, and soil carbon persistence are shaped by oil palm-based agroforestry in the Amazon** (2026)
+   1 citations · Soil Carbon
+
+3. **Rhizosphere organic acids drive nutrient release from silicate rock powders across contrasting tropical soils** (2026)
    0 citations
 
-3. **Microbial Traits, Necromass Accumulation, and Soil Carbon Persistence are Shaped by Oil Palm-based Agroforestry in the Amazon** (2026)
+4. **Microbial Traits, Necromass Accumulation, and Soil Carbon Persistence are Shaped by Oil Palm-based Agroforestry in the Amazon** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

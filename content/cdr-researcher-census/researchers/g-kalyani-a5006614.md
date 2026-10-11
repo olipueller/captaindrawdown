@@ -1,7 +1,7 @@
 ---
 title: "G. Kalyani"
 description: "G. Kalyani is a Mid-career Ocean CDR researcher at JSS Academy of Higher Education and Research in IN. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.124254
+date: 2026-10-11T02:33:00.154722
 url: "/cdr-researcher-census/researchers/g-kalyani-a5006614/"
 layout: "researcher"
 hiddenInHomeList: true

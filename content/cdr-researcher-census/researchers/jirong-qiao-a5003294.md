@@ -1,7 +1,7 @@
 ---
 title: "Jirong Qiao"
 description: "Jirong Qiao is a Mid-career Soil Carbon researcher at Inner Mongolia Agricultural University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.253182
+date: 2026-10-11T02:33:00.282929
 url: "/cdr-researcher-census/researchers/jirong-qiao-a5003294/"
 layout: "researcher"
 hiddenInHomeList: true

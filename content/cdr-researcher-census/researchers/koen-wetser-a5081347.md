@@ -1,7 +1,7 @@
 ---
 title: "Koen Wetser"
 description: "Koen Wetser is a Mid-career DAC researcher at Wageningen University & Research in NL. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.456701
+date: 2026-10-11T02:32:59.467878
 url: "/cdr-researcher-census/researchers/koen-wetser-a5081347/"
 layout: "researcher"
 hiddenInHomeList: true

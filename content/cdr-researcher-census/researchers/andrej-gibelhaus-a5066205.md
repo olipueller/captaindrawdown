@@ -1,7 +1,7 @@
 ---
 title: "Andrej Gibelhaus"
 description: "Andrej Gibelhaus is a Mid-career DAC researcher at RWTH Aachen University in DE. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.873628
+date: 2026-10-11T02:32:59.900880
 url: "/cdr-researcher-census/researchers/andrej-gibelhaus-a5066205/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Environmental process optimisation of an adsorption-based direct air carbon capture and storage system** (2024)
-   48 citations · DAC
+   53 citations · DAC
 
 ## External Profiles
 

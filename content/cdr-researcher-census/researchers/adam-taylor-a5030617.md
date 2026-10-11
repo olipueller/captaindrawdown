@@ -1,7 +1,7 @@
 ---
 title: "Adam Taylor"
 description: "Adam Taylor is a Senior Soil Carbon researcher at Shropshire Council in GB. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.399760
+date: 2026-10-11T02:33:00.437848
 url: "/cdr-researcher-census/researchers/adam-taylor-a5030617/"
 layout: "researcher"
 hiddenInHomeList: true

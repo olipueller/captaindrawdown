@@ -1,7 +1,7 @@
 ---
 title: "Junjie Wei"
 description: "Junjie Wei is an Early-career Biochar researcher at Zhejiang Institute of Science and Technology Information in CN. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.367507
+date: 2026-10-11T02:33:00.403075
 url: "/cdr-researcher-census/researchers/junjie-wei-a5043532/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Lanthanum-modified biochar for dual removal of particulate/dissolved phosphorus in agricultural runoff: Performance and reuse as slow-release fertilizer** (2026)
-   1 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

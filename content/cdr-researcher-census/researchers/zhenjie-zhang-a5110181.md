@@ -1,7 +1,7 @@
 ---
 title: "Zhenjie Zhang"
 description: "Zhenjie Zhang is a Mid-career Biochar researcher at Xinjiang Institute of Engineering in CN. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.661069
+date: 2026-10-11T02:32:59.680194
 url: "/cdr-researcher-census/researchers/zhenjie-zhang-a5110181/"
 layout: "researcher"
 hiddenInHomeList: true

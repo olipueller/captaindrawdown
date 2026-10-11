@@ -1,7 +1,7 @@
 ---
 title: "Nathan G. Walworth"
 description: "Nathan G. Walworth is a Mid-career General CDR researcher at University of Southern California in US. With 48 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.210870
+date: 2026-10-11T02:32:59.215016
 url: "/cdr-researcher-census/researchers/nathan-g-walworth-a5057733/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Responses of globally important phytoplankton species to olivine dissolution products and implications for carbon dioxide removal via ocean alkalinity enhancement** (2023)
-   39 citations · General CDR
+   57 citations · General CDR
 
 2. **Responses of globally important phytoplankton species to olivine dissolution products and implications for carbon dioxide removal via ocean alkalinity enhancement** (2023)
    19 citations
 
 3. **Public engagement and collaboration for carbon dioxide removal: lessons from a project in the Dominican Republic** (2024)
-   13 citations · General CDR
+   14 citations · General CDR
 
 4. **Localized governance of carbon dioxide removal in small island developing states** (2023)
-   10 citations · General CDR
+   11 citations · General CDR
 
 5. **Metal bioaccumulation and effects of olivine sand exposure on benthic marine invertebrates** (2024)
    7 citations · Enhanced Weathering
@@ -71,10 +71,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 7. **Localized governance of carbon dioxide removal in Small Island Developing States** (2022)
    5 citations · General CDR
 
-8. **Design, TEA, and LCA of reactor-based bio-enhanced rock weathering** (2024)
-   0 citations · Enhanced Weathering
+8. **Effects of Olivine Sand on Marine Invertebrates Survival and Trace Metal Bioaccumulation** (2024)
+   1 citations · Enhanced Weathering
 
-9. **Effects of Olivine Sand on Marine Invertebrates Survival and Trace Metal Bioaccumulation** (2024)
+9. **Design, TEA, and LCA of reactor-based bio-enhanced rock weathering** (2024)
    0 citations · Enhanced Weathering
 
 10. **Reply on RC1** (2023)

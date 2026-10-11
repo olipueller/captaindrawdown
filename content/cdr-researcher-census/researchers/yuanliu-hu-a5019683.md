@@ -1,7 +1,7 @@
 ---
 title: "Yuanliu Hu"
 description: "Yuanliu Hu is a Mid-career Soil Carbon researcher at Guangxi University in CN. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.777454
+date: 2026-10-11T02:32:59.800518
 url: "/cdr-researcher-census/researchers/yuanliu-hu-a5019683/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    25 citations · Soil Carbon
 
 2. **Soil Organic Carbon Sequestration after 20-Year Afforestation of Mangrove Plantations on Qi’ao Island, Southern China** (2023)
-   7 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 3. **Estimating microbial necromass contribution to mineral-associated organic matter: comparison of stoichiometric and biomarker methods** (2025)
    3 citations · Soil Carbon

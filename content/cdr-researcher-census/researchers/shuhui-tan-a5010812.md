@@ -1,7 +1,7 @@
 ---
 title: "Shuhui Tan"
 description: "Shuhui Tan is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.375640
+date: 2026-10-11T02:33:00.411083
 url: "/cdr-researcher-census/researchers/shuhui-tan-a5010812/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Phytolith‐occluded carbon in leaves of <scp><i>Dendrocalamus Ronganensis</i></scp> influenced by drought during growing season** (2022)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 2. **Drought influences the phytolith morphology variation and its occluded carbon of leaves in Dendrocalamus Ronganensis during growing season** (2021)
    0 citations

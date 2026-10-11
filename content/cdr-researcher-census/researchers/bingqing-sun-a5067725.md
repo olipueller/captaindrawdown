@@ -1,7 +1,7 @@
 ---
 title: "Bingqing Sun"
 description: "Bingqing Sun is a Mid-career Soil Carbon researcher at Jiangsu University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.363844
+date: 2026-10-11T02:33:00.399704
 url: "/cdr-researcher-census/researchers/bingqing-sun-a5067725/"
 layout: "researcher"
 hiddenInHomeList: true

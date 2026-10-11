@@ -1,7 +1,7 @@
 ---
 title: "Zhenxi Xie"
 description: "Zhenxi Xie is an Early-career Ocean CDR researcher at South China Agricultural University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.363570
+date: 2026-10-11T02:33:00.399414
 url: "/cdr-researcher-census/researchers/zhenxi-xie-a5079266/"
 layout: "researcher"
 hiddenInHomeList: true

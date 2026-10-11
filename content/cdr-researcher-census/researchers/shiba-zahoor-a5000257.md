@@ -1,7 +1,7 @@
 ---
 title: "Shiba Zahoor"
 description: "Shiba Zahoor is a Mid-career Soil Carbon researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir in IN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.381768
+date: 2026-10-11T02:33:00.417623
 url: "/cdr-researcher-census/researchers/shiba-zahoor-a5000257/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Apple-based agroforestry systems for biomass production and carbon sequestration: implication for food security and climate change contemplates in temperate region of Northern Himalaya, India** (2021)
-   40 citations · Soil Carbon
+   42 citations · Soil Carbon
 
 2. **Carbon density and C‐sequestration of tree plantation ecosystems in the mid‐hills of the <scp>NW‐</scp>Himalayas: Implications for climate change mitigation** (2022)
    22 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Stella Owusu-Nketia"
 description: "Stella Owusu-Nketia is a Mid-career Biochar researcher at University of Ghana in GH. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.386631
+date: 2026-10-11T02:33:00.423624
 url: "/cdr-researcher-census/researchers/stella-owusu-nketia-a5006989/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Impact of Biochar Application on Soil Physical and Biogeochemical Characteristics: A Review** (2025)
-   8 citations · Biochar
+   10 citations · Biochar
 
 2. **Short‐Term Alteration of Soil Physicochemical Characteristics Induced by Biochar Application on a <i>Ferric Acrisol</i>** (2025)
-   2 citations · Biochar
+   5 citations · Biochar
 
 ## External Profiles
 

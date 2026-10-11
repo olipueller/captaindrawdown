@@ -1,7 +1,7 @@
 ---
 title: "Renjie Hou"
 description: "Renjie Hou is a Senior Soil Carbon researcher at Northeast Agricultural University in CN. With 120 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.071434
+date: 2026-10-11T02:32:59.076080
 url: "/cdr-researcher-census/researchers/renjie-hou-a5108886/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Characteristics of greenhouse gas emissions from farmland soils based on a structural equation model: Regulation mechanism of biochar** (2021)
-   79 citations · Biochar
+   82 citations · Biochar
 
-2. **A critical review of biochar as an environmental functional material in soil ecosystems for migration and transformation mechanisms and ecological risk assessment** (2024)
-   51 citations · Biochar
+2. **Soil environment, carbon and nitrogen cycle functional genes in response to freeze-thaw cycles and biochar** (2024)
+   54 citations · Biochar
 
-3. **Soil environment, carbon and nitrogen cycle functional genes in response to freeze-thaw cycles and biochar** (2024)
-   51 citations · Biochar
+3. **A critical review of biochar as an environmental functional material in soil ecosystems for migration and transformation mechanisms and ecological risk assessment** (2024)
+   52 citations · Biochar
 
 4. **Modified biochar reduces the greenhouse gas emission intensity and enhances the net ecosystem economic budget in black soil soybean fields** (2023)
-   42 citations · Biochar
+   45 citations · Biochar
 
 5. **Mechanisms of soil respiration and its temperature sensitivity in black soil farmland** (2023)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 6. **Effects of coupled biochar and snow cover on soil carbon components and CO2 emissions in seasonally frozen soil areas under climate change conditions** (2024)
-   13 citations · Biochar
+   15 citations · Biochar
 
 7. **Effects of plastic film mulching and biochar on soil carbon sequestration and soybean yield in cold regions: Based on the pathways of photosynthetic carbon allocation and microbial functional genes regulation** (2025)
    6 citations · Biochar

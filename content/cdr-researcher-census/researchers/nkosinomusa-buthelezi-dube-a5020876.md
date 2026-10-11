@@ -1,7 +1,7 @@
 ---
 title: "Nkosinomusa Buthelezi-Dube"
 description: "Nkosinomusa Buthelezi-Dube is a Mid-career Soil Carbon researcher at University of KwaZulu-Natal in ZA. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.042804
+date: 2026-10-11T02:33:00.073723
 url: "/cdr-researcher-census/researchers/nkosinomusa-buthelezi-dube-a5020876/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-Term Effects of Nitrogen and Lime Application on Plant–Microbial Interactions and Soil Carbon Stability in a Semi-Arid Grassland** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

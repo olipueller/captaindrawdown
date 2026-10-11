@@ -1,7 +1,7 @@
 ---
 title: "Chris Holdsworth"
 description: "Chris Holdsworth is a Mid-career General CDR researcher at Administration of Occupational Safety and Health in IS. With 18 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.390714
+date: 2026-10-11T02:33:00.428041
 url: "/cdr-researcher-census/researchers/chris-holdsworth-a5006205/"
 layout: "researcher"
 hiddenInHomeList: true

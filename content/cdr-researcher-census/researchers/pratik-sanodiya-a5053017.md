@@ -1,7 +1,7 @@
 ---
 title: "Pratik Sanodiya"
 description: "Pratik Sanodiya is a Mid-career Soil Carbon researcher at Banaras Hindu University in IN. With 31 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.054444
+date: 2026-10-11T02:33:00.085130
 url: "/cdr-researcher-census/researchers/pratik-sanodiya-a5053017/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -58,6 +58,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 3. **Long‐term conservation agriculture improves soil carbon, energy efficiency, weed suppression, and productivity in the rice–wheat cropping system** (2026)
    0 citations · Soil Carbon
+
+4. **Integrating Nitrogen-FixingBiofertilizers into Climate-ResilientCropping Systems** (2026)
+   0 citations
 
 ## External Profiles
 

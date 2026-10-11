@@ -1,7 +1,7 @@
 ---
 title: "Emi Matsumura"
 description: "Emi Matsumura is a Mid-career Soil Carbon researcher at National Agriculture and Food Research Organization in JP. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.336090
+date: 2026-10-11T02:33:00.370178
 url: "/cdr-researcher-census/researchers/emi-matsumura-a5038086/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Enhanced Weathering
 
 2. **Formation of mineral-associated organic matter via rock weathering: an experimental test for the organo-metallic glue hypothesis** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

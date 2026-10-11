@@ -1,7 +1,7 @@
 ---
 title: "Anna M. Visscher"
 description: "Anna M. Visscher is a Mid-career Soil Carbon researcher at Radboud University Nijmegen in NL. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.258664
+date: 2026-10-11T02:33:00.288480
 url: "/cdr-researcher-census/researchers/anna-m-visscher-a5068669/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Agroforestry enhances biological activity, diversity and soil‐based ecosystem functions in mountain agroecosystems of Latin America: A meta‐analysis** (2023)
-   30 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 ## External Profiles
 

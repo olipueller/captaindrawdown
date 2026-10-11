@@ -1,7 +1,7 @@
 ---
 title: "Otho Mantegazza"
 description: "Otho Mantegazza is a Mid-career Soil Carbon researcher at Joint Research Centre in IT. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.470005
+date: 2026-10-11T02:32:59.481297
 url: "/cdr-researcher-census/researchers/otho-mantegazza-a5063978/"
 layout: "researcher"
 hiddenInHomeList: true

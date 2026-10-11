@@ -1,7 +1,7 @@
 ---
 title: "Jannatul Rumky"
 description: "Jannatul Rumky is a Mid-career Biochar researcher at Cornell University in US. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.800881
+date: 2026-10-11T02:32:59.825009
 url: "/cdr-researcher-census/researchers/jannatul-rumky-a5091123/"
 layout: "researcher"
 hiddenInHomeList: true

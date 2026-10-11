@@ -1,7 +1,7 @@
 ---
 title: "Mohamed Allam"
 description: "Mohamed Allam is a Senior Biochar researcher at Università degli Studi della Tuscia in IT. With 39 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.709499
+date: 2026-10-11T02:32:59.730128
 url: "/cdr-researcher-census/researchers/mohamed-allam-a5078167/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Microbial Indices to Assess Soil Health under Different Tillage and Fertilization in Potato (Solanum tuberosum L.) Crop** (2022)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 2. **Carbon farming strategies for mediterranean agriculture: the role of biochar in climate-smart agroecosystems** (2026)
    0 citations · Biochar

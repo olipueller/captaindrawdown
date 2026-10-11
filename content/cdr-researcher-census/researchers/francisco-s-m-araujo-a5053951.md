@@ -1,7 +1,7 @@
 ---
 title: "Francisco S. M. Araujo"
 description: "Francisco S. M. Araujo is a Mid-career General CDR researcher. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.773651
+date: 2026-10-11T02:32:59.796698
 url: "/cdr-researcher-census/researchers/francisco-s-m-araujo-a5053951/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Pathways, roundabouts, roadblocks, and shortcuts to safe and sustainable deployment of enhanced rock weathering in agriculture** (2023)
-   14 citations · Enhanced Weathering
+   15 citations · Enhanced Weathering
 
 2. **Adapting and Verifying the Liming Index for Enhanced Rock Weathering Minerals as an Alternative Liming Approach** (2024)
    3 citations

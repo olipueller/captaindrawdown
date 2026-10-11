@@ -1,7 +1,7 @@
 ---
 title: "Runze Yu"
 description: "Runze Yu is a Mid-career Soil Carbon researcher at California State University Fresno in US. With 28 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.368973
+date: 2026-10-11T02:32:59.376204
 url: "/cdr-researcher-census/researchers/runze-yu-a5047784/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Application of Fractions of Crop Evapotranspiration Affects Carbon Partitioning of Grapevine Differentially in a Hot Climate** (2021)
-   32 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 2. **Site characteristics determine the effectiveness of tillage and cover crops on the net ecosystem carbon balance in California vineyard agroecosystems** (2022)
    16 citations · Soil Carbon

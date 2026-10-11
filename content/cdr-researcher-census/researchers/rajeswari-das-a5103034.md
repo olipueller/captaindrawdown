@@ -1,7 +1,7 @@
 ---
 title: "Rajeswari Das"
 description: "Rajeswari Das is a Mid-career Soil Carbon researcher at GIET University in IN. With 27 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.003072
+date: 2026-10-11T02:33:00.033879
 url: "/cdr-researcher-census/researchers/rajeswari-das-a5103034/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · General CDR
 
 3. **Potentials and Prospects of AMF for Soil Carbon Sequestration and Nutrient Cycling in Rice-Based Cropping System** (2024)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 4. **Re-Carbonation of Terrestrial Production Landscapes Through Regenerative Agriculture** (2024)
    0 citations · General CDR

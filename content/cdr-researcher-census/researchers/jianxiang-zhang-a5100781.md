@@ -1,7 +1,7 @@
 ---
 title: "Jianxiang Zhang"
 description: "Jianxiang Zhang is a Mid-career Soil Carbon researcher at Nanjing Normal University in CN. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.349812
+date: 2026-10-11T02:32:59.355814
 url: "/cdr-researcher-census/researchers/jianxiang-zhang-a5100781/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Interactions between the Grain‐for‐Green Program and check dams increased vegetation carbon sequestration in the Yanhe basin, Loess Plateau** (2023)
-   13 citations · General CDR
+   14 citations · General CDR
 
 2. **Responses of carbon sequestration services to multiple soil and water conservation projects in Yanhe Basin, Loess Plateau** (2022)
    0 citations · General CDR

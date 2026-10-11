@@ -1,7 +1,7 @@
 ---
 title: "Bezaye Tessema"
 description: "Bezaye Tessema is a Mid-career Soil Carbon researcher at Planetary Science Institute in US. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.867891
+date: 2026-10-11T02:32:59.894610
 url: "/cdr-researcher-census/researchers/bezaye-tessema-a5084565/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Functional Links between Biomass Production and Decomposition of Vetiver (Chrysopogon zizanioides) Grass in Three Australian Soils** (2022)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 2. **Soil Carbon Storage Potential of Tropical Grasses: A Review** (2021)
    8 citations · Soil Carbon

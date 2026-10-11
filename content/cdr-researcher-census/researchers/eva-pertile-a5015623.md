@@ -1,7 +1,7 @@
 ---
 title: "Eva Pertile"
 description: "Eva Pertile is a Senior Biochar researcher at VSB - Technical University of Ostrava in CZ. With 40 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.790790
+date: 2026-10-11T02:32:59.814478
 url: "/cdr-researcher-census/researchers/eva-pertile-a5015623/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Conventional and microwave-assisted pyrolysis biochars: comparative mechanistic insights, structural evolution, and environmental remediation applications** (2026)
-   14 citations · Biochar
+   21 citations · Biochar
 
 2. **Engineered biochar for microplastic remediation in aquatic environments: Interfacial mechanisms, modification strategies, and future perspectives** (2026)
    1 citations · Biochar
+
+3. **Sustainable utilization of peanut shells: Global trends, technologies, and future perspectives** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

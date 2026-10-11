@@ -1,7 +1,7 @@
 ---
 title: "Claudia Laurenzano"
 description: "Claudia Laurenzano is a Mid-career Soil Carbon researcher at United States Geological Survey in US. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.970071
+date: 2026-10-11T02:33:00.001500
 url: "/cdr-researcher-census/researchers/claudia-laurenzano-a5064374/"
 layout: "researcher"
 hiddenInHomeList: true

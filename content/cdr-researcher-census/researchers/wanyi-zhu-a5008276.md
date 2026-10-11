@@ -1,7 +1,7 @@
 ---
 title: "Wanyi Zhu"
 description: "Wanyi Zhu is a Mid-career Soil Carbon researcher at Nanjing University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.069907
+date: 2026-10-11T02:33:00.099970
 url: "/cdr-researcher-census/researchers/wanyi-zhu-a5008276/"
 layout: "researcher"
 hiddenInHomeList: true

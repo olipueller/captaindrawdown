@@ -1,7 +1,7 @@
 ---
 title: "Bassel A. Abdelkader"
 description: "Bassel A. Abdelkader is a Mid-career Ocean CDR researcher at McMaster University in CA. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.815512
+date: 2026-10-11T02:32:59.840100
 url: "/cdr-researcher-census/researchers/bassel-a-abdelkader-a5072880/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Ocean Alkalinity Enhancement Using Bipolar Membrane Electrodialysis: Technical Analysis and Cost Breakdown of a Full-Scale Plant** (2025)
-   21 citations · General CDR
+   24 citations · General CDR
+
+2. **Chlorine-Induced Membrane Degradation in Bipolar Membrane Electrodialysis: Mechanisms, Performance Impacts, and Mitigation Strategies** (2026)
+   0 citations · General CDR
 
 ## External Profiles
 

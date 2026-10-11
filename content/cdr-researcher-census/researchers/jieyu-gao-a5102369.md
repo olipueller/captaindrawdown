@@ -1,7 +1,7 @@
 ---
 title: "Jieyu Gao"
 description: "Jieyu Gao is a Mid-career Soil Carbon researcher at China Geological Survey in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.023051
+date: 2026-10-11T02:33:00.054414
 url: "/cdr-researcher-census/researchers/jieyu-gao-a5102369/"
 layout: "researcher"
 hiddenInHomeList: true

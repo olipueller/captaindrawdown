@@ -1,7 +1,7 @@
 ---
 title: "Hollie Folkard‐Tapp"
 description: "Hollie Folkard‐Tapp is a Mid-career General CDR researcher at Zoological Society of London in GB. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.746519
+date: 2026-10-11T02:32:59.768754
 url: "/cdr-researcher-census/researchers/hollie-folkardtapp-a5043602/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Nature‐based Solutions to tackle climate change and restore biodiversity** (2021)
-   28 citations · General CDR
+   32 citations · General CDR
 
 ## External Profiles
 

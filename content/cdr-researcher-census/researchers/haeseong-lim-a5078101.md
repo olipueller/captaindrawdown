@@ -1,7 +1,7 @@
 ---
 title: "Haeseong Lim"
 description: "Haeseong Lim is a Mid-career DAC researcher at Korea Advanced Institute of Science and Technology in KR. With 14 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.310655
+date: 2026-10-11T02:32:59.316045
 url: "/cdr-researcher-census/researchers/haeseong-lim-a5078101/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Amine Chemistry of Porous CO<sub>2</sub> Adsorbents** (2023)
-   106 citations · DAC
+   112 citations · DAC
 
 ## External Profiles
 

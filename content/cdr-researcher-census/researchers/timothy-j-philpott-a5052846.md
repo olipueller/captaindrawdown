@@ -1,7 +1,7 @@
 ---
 title: "Timothy J. Philpott"
 description: "Timothy J. Philpott is a Mid-career Soil Carbon researcher at Government of British Columbia in CA. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.711476
+date: 2026-10-11T02:32:59.732126
 url: "/cdr-researcher-census/researchers/timothy-j-philpott-a5052846/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Manganese limitations and the enhanced soil carbon sequestration of temperate rainforests** (2021)
-   27 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 ## External Profiles
 

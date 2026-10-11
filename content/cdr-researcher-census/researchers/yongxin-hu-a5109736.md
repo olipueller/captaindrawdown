@@ -1,7 +1,7 @@
 ---
 title: "Yongxin Hu"
 description: "Yongxin Hu is a Senior DAC researcher. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.519165
+date: 2026-10-11T02:32:59.532954
 url: "/cdr-researcher-census/researchers/yongxin-hu-a5109736/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Assessing the future impact of 12 direct air capture technologies** (2024)
-   19 citations · DAC
+   21 citations · DAC
 
 2. **Direct air capture: recent progress in materials, equipment, and process engineering** (2025)
    2 citations · DAC

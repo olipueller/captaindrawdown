@@ -1,7 +1,7 @@
 ---
 title: "Nils Matzner"
 description: "Nils Matzner is a Senior General CDR researcher at Technical University of Munich in DE. With 37 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.227994
+date: 2026-10-11T02:33:00.258347
 url: "/cdr-researcher-census/researchers/nils-matzner-a5063403/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,11 +53,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 1. **Let Us Get Regional: Exploring Prospects for Biomass-Based Carbon Dioxide Removal on the Ground** (2024)
    7 citations · General CDR
 
-2. **Scenario Storylines for Carbon Dioxide Removal in Germany: Drawing From Regional Perspectives** (2025)
+2. **The role of BECCS in Germany: a key to sustainable and permanent CO<sub>2</sub> removal?** (2025)
    4 citations · BECCS
 
-3. **The role of BECCS in Germany: a key to sustainable and permanent CO<sub>2</sub> removal?** (2025)
-   3 citations · BECCS
+3. **Scenario Storylines for Carbon Dioxide Removal in Germany: Drawing From Regional Perspectives** (2025)
+   4 citations · BECCS
 
 4. **Hurdles still outweigh opportunities for bioCDR: Reports from stakeholder workshops on biomass-based carbon dioxide removal (CDR)** (2025)
    0 citations · General CDR

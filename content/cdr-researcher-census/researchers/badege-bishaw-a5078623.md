@@ -1,7 +1,7 @@
 ---
 title: "Badege Bishaw"
 description: "Badege Bishaw is a Senior General CDR researcher at Oregon State University in US. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.452308
+date: 2026-10-11T02:32:59.463095
 url: "/cdr-researcher-census/researchers/badege-bishaw-a5078623/"
 layout: "researcher"
 hiddenInHomeList: true

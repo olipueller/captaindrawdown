@@ -1,7 +1,7 @@
 ---
 title: "Helene Muri"
 description: "Helene Muri is a Senior General CDR researcher at NILU in NO. With 144 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.060586
+date: 2026-10-11T02:32:59.064983
 url: "/cdr-researcher-census/researchers/helene-muri-a5010735/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,29 +53,32 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 1. **Efficacy of individual and combined terrestrial and marine carbon dioxide removal** (2025)
    2 citations · BECCS
 
-2. **Prospects and Challenges of Investigating Ocean-Based Negative Emission Technologies: Insights from the OceanNETs Project** (2025)
+2. **Advancing Monitoring Reporting and Verification for marine Carbon Dioxide Removal** (2026)
    1 citations · General CDR
 
-3. **EMB Future Science Brief: Monitoring, Reporting and Verification for marine Carbon Dioxide Removal** (2025)
+3. **Monitoring, Reporting and Verification for Marine Carbon Dioxide Removal** (2025)
+   1 citations
+
+4. **Prospects and Challenges of Investigating Ocean-Based Negative Emission Technologies: Insights from the OceanNETs Project** (2025)
+   1 citations · General CDR
+
+5. **Assessing Earth system responses in mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2026)
    0 citations · General CDR
 
-4. **Advancing Monitoring Reporting and Verification for marine Carbon Dioxide Removal** (2026)
+6. **A Research Strategy for Ocean-based Carbon Dioxide Removal and Sequestration: Governance: Legal, Policy, Justice, and Social Considerations** (2026)
    0 citations · General CDR
 
-5. **Assessing Earth system responses in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2026)
+7. **EMB Future Science Brief: Monitoring, Reporting and Verification for marine Carbon Dioxide Removal** (2025)
    0 citations · General CDR
 
-6. **Towards Net Zero: Evaluating Combined Terrestrial and Marine CDR Approaches** (2025)
+8. **Assessing Earth system responses in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2026)
    0 citations · General CDR
 
-7. **Report on carbon cycle interactions and efficacy of land-based CDRs (e.g. BECCS), when combined with oceanic CDRs (individually or in a portfolio)** (2024)
+9. **Towards Net Zero: Evaluating Combined Terrestrial and Marine CDR Approaches** (2025)
+   0 citations · General CDR
+
+10. **Report on carbon cycle interactions and efficacy of land-based CDRs (e.g. BECCS), when combined with oceanic CDRs (individually or in a portfolio)** (2024)
    0 citations · BECCS
-
-8. **Open access dataset of ESM simulations of combined land- and ocean-based NETs** (2024)
-   0 citations · General CDR
-
-9. **CO2 Removal Potential of Two Ocean-based NETs in Earth System Models in a Realistic Deployment Scenario** (2024)
-   0 citations · General CDR
 
 ## External Profiles
 

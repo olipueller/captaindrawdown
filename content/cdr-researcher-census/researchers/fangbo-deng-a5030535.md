@@ -1,7 +1,7 @@
 ---
 title: "Fangbo Deng"
 description: "Fangbo Deng is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.681441
+date: 2026-10-11T02:32:59.701377
 url: "/cdr-researcher-census/researchers/fangbo-deng-a5030535/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Revisiting the quantitative contribution of microbial necromass to soil carbon pool: Stoichiometric control by microbes and soil** (2021)
-   124 citations · Soil Carbon
+   125 citations · Soil Carbon
 
 2. **Shifts in microbial metabolic pathway for soil carbon accumulation along subtropical forest succession** (2021)
    66 citations · Soil Carbon

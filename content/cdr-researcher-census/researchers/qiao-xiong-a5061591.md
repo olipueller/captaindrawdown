@@ -1,7 +1,7 @@
 ---
 title: "Qiao Xiong"
 description: "Qiao Xiong is a Mid-career Biochar researcher at University of British Columbia in CA. With 38 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.353119
+date: 2026-10-11T02:32:59.359421
 url: "/cdr-researcher-census/researchers/qiao-xiong-a5061591/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    9 citations · Biochar
 
 2. **Food waste digestate-derived Ca-rich biochar for sustainable phosphate capture and recovery: synergistic co-pyrolysis, mechanistic insights and reusability** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Piyush Behari Lal"
 description: "Piyush Behari Lal is a Mid-career BECCS researcher at Kasturba Medical College, Manipal in IN. With 27 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.949327
+date: 2026-10-11T02:32:59.979515
 url: "/cdr-researcher-census/researchers/piyush-behari-lal-a5036771/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,18 +51,18 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Recent advances in biomass deconstruction, microbial conversion, artificial intelligence, and carbon capture for sustainable bioenergy** (2026)
+   1 citations · BECCS
+
+2. **Recent advances in biomass deconstruction, microbial conversion, artificial intelligence, and carbon capture for sustainable bioenergy** (2026)
    0 citations · BECCS
 
-2. **Additional file 1 of Recent advances in biomass deconstruction, microbial conversion, artificial intelligence, and carbon capture for sustainable bioenergy** (2026)
+3. **Additional file 1 of Recent advances in biomass deconstruction, microbial conversion, artificial intelligence, and carbon capture for sustainable bioenergy** (2026)
    0 citations · BECCS
 
-3. **Recent advances in biomass deconstruction, microbial conversion, artificial intelligence, and carbon capture for sustainable bioenergy** (2026)
+4. **Recent advances in biomass deconstruction, microbial conversion, artificial intelligence, and carbon capture for sustainable bioenergy** (2026)
    0 citations · BECCS
 
-4. **Additional file 1 of Recent advances in biomass deconstruction, microbial conversion, artificial intelligence, and carbon capture for sustainable bioenergy** (2026)
-   0 citations · BECCS
-
-5. **Recent advances in biomass deconstruction, microbial conversion, artificial intelligence, and carbon capture for sustainable bioenergy** (2026)
+5. **Additional file 1 of Recent advances in biomass deconstruction, microbial conversion, artificial intelligence, and carbon capture for sustainable bioenergy** (2026)
    0 citations · BECCS
 
 ## External Profiles

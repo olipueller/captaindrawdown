@@ -1,7 +1,7 @@
 ---
 title: "Thi Cuc Phuong Tran"
 description: "Thi Cuc Phuong Tran is a Mid-career Biochar researcher at Hue University in VN. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.484903
+date: 2026-10-11T02:32:59.496429
 url: "/cdr-researcher-census/researchers/thi-cuc-phuong-tran-a5103976/"
 layout: "researcher"
 hiddenInHomeList: true

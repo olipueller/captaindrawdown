@@ -1,7 +1,7 @@
 ---
 title: "Rajni Yadav"
 description: "Rajni Yadav is a Mid-career Biochar researcher at Institute of Ecology and Botany in HU. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.085811
+date: 2026-10-11T02:33:00.116214
 url: "/cdr-researcher-census/researchers/rajni-yadav-a5101194/"
 layout: "researcher"
 hiddenInHomeList: true

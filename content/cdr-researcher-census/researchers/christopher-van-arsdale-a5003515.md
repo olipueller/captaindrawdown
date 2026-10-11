@@ -1,7 +1,7 @@
 ---
 title: "Christopher Van Arsdale"
 description: "Christopher Van Arsdale is a Mid-career General CDR researcher at Google (United States) in US. With 25 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.074534
+date: 2026-10-11T02:33:00.104895
 url: "/cdr-researcher-census/researchers/christopher-van-arsdale-a5003515/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,18 +51,21 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Negative Emission Enabled by Combining Ocean Alkalinity Enhancement and Waste Concrete Upcycling** (2025)
-   7 citations · General CDR
+   9 citations · General CDR
 
-2. **Sustained Neutralization of the Warming Response to Emissions through a Portfolio of GHG Mitigation Strategies** (2026)
+2. **Sustained Neutralization of the Warming Response to Emissions through Multiple Mitigation Strategies** (2026)
    0 citations · General CDR
 
-3. **A Possible Path Toward Profitable Carbon Removal: A Techno-Economic Analysis on Combined Ocean Alkalinity Enhancement and Waste Concrete Upcycling** (2025)
+3. **Sustained Neutralization of the Warming Response to Emissions through a Portfolio of GHG Mitigation Strategies** (2026)
    0 citations · General CDR
 
-4. **Negative emission enabled by combining ocean alkalinity enhancement and waste concrete upcycling** (2024)
+4. **A Possible Path Toward Profitable Carbon Removal: A Techno-Economic Analysis on Combined Ocean Alkalinity Enhancement and Waste Concrete Upcycling** (2025)
+   0 citations · General CDR
+
+5. **Negative emission enabled by combining ocean alkalinity enhancement and waste concrete upcycling** (2024)
    0 citations
 
-5. **CO2 capture by pumping surface acidity to the deep ocean** (2021)
+6. **CO2 capture by pumping surface acidity to the deep ocean** (2021)
    0 citations · DAC
 
 ## External Profiles

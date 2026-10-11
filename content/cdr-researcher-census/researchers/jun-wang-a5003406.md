@@ -1,7 +1,7 @@
 ---
 title: "Jun Wang"
 description: "Jun Wang is a Senior Soil Carbon researcher at South China Botanical Garden, CAS in CN. With 159 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.070254
+date: 2026-10-11T02:32:59.074865
 url: "/cdr-researcher-census/researchers/jun-wang-a5003406/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Faster accumulation and greater contribution of glomalin to the soil organic carbon pool than amino sugars do under tropical coastal forest restoration** (2022)
-   106 citations · Soil Carbon
+   107 citations · Soil Carbon
 
 2. **Divergent accumulation of amino sugars and lignins mediated by soil functional carbon pools under tropical forest conversion** (2023)
-   48 citations · Soil Carbon
+   50 citations · Soil Carbon
 
 3. **Rethinking the Ecosystem Functions of Dicranopteris, a Widespread Genus of Ferns** (2021)
-   45 citations
+   47 citations
 
 4. **Intensified rainfall in the wet season alters the microbial contribution to soil carbon storage** (2022)
    31 citations · Soil Carbon
 
 5. **Long‐term irrigation reduces soil carbon sequestration by affecting soil microbial communities in agricultural ecosystems of northern China** (2021)
-   20 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 6. **Roots Dominate Over Extraradical Hyphae in Driving Soil Organic Carbon Accumulation During Tropical Forest Succession** (2025)
-   18 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 7. **Cross-scale spatial variability and associations of carbon pools provide insight into regulating carbon sequestration in tropical montane rainforests** (2024)
    5 citations · Soil Carbon

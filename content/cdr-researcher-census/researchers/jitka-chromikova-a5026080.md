@@ -1,7 +1,7 @@
 ---
 title: "Jitka Chromíková"
 description: "Jitka Chromíková is a Mid-career Biochar researcher at VSB - Technical University of Ostrava in CZ. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.327107
+date: 2026-10-11T02:33:00.359742
 url: "/cdr-researcher-census/researchers/jitka-chromikova-a5026080/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Conventional and microwave-assisted pyrolysis biochars: comparative mechanistic insights, structural evolution, and environmental remediation applications** (2026)
-   14 citations · Biochar
+   21 citations · Biochar
 
 2. **Engineered biochar for microplastic remediation in aquatic environments: Interfacial mechanisms, modification strategies, and future perspectives** (2026)
    1 citations · Biochar

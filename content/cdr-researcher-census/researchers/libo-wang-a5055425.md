@@ -1,7 +1,7 @@
 ---
 title: "Libo Wang"
 description: "Libo Wang is a Mid-career Soil Carbon researcher at University of Electronic Science and Technology of China in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.376838
+date: 2026-10-11T02:33:00.412269
 url: "/cdr-researcher-census/researchers/libo-wang-a5055425/"
 layout: "researcher"
 hiddenInHomeList: true

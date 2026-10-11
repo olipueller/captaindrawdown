@@ -1,7 +1,7 @@
 ---
 title: "Nishu Goyal"
 description: "Nishu Goyal is an Early-career Biochar researcher at Universidad Politécnica de El Salvador in SV. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.952628
+date: 2026-10-11T02:32:59.983451
 url: "/cdr-researcher-census/researchers/nishu-goyal-a5083664/"
 layout: "researcher"
 hiddenInHomeList: true

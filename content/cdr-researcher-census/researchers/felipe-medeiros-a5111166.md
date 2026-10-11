@@ -1,7 +1,7 @@
 ---
 title: "Felipe Medeiros"
 description: "Felipe Medeiros is a Senior Enhanced Weathering researcher at Universidade Federal de Minas Gerais in BR. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.795904
+date: 2026-10-11T02:32:59.819468
 url: "/cdr-researcher-census/researchers/felipe-medeiros-a5111166/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **The combination of crushed rock and organic matter enhances the capture of inorganic carbon in tropical soils** (2024)
-   8 citations · Enhanced Weathering
+   9 citations · Enhanced Weathering
 
 ## External Profiles
 

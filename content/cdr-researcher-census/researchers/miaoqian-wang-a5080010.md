@@ -1,7 +1,7 @@
 ---
 title: "Miaoqian Wang"
 description: "Miaoqian Wang is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.258036
+date: 2026-10-11T02:33:00.287936
 url: "/cdr-researcher-census/researchers/miaoqian-wang-a5080010/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **[Carbon Sequestration Characteristics Under Natural Vegetation Restoration in Ziwuling Area of the Loess Plateau].** (2023)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 2. **Carbon Sequestration Benefit and Influencing Factors in Terraces with Different Cover Types of Soil in the Loess Hilly Region** (2025)
    0 citations · Soil Carbon

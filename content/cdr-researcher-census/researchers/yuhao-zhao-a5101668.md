@@ -1,7 +1,7 @@
 ---
 title: "Yuhao Zhao"
 description: "Yuhao Zhao is a Senior Enhanced Weathering researcher. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.011026
+date: 2026-10-11T02:33:00.042175
 url: "/cdr-researcher-census/researchers/yuhao-zhao-a5101668/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Carbon capture and storage via enhanced carbonate weathering coupled with aquatic photosynthesis: Potential, cost, and advantages** (2025)
-   11 citations · Enhanced Weathering
+   12 citations · Enhanced Weathering
 
 2. **Effects of Nitrogen Deposition on Leaf Litter Decomposition and Soil Organic Carbon Density in Arid and Barren Rocky Mountainous Regions: A Case Study of Yimeng Mountain** (2023)
    7 citations · Soil Carbon

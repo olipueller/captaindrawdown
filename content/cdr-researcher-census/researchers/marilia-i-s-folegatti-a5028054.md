@@ -1,7 +1,7 @@
 ---
 title: "Marília I. S. Folegatti"
 description: "Marília I. S. Folegatti is a Mid-career BECCS researcher at Brazilian Agricultural Research Corporation in BR. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.947596
+date: 2026-10-11T02:32:59.977721
 url: "/cdr-researcher-census/researchers/marilia-i-s-folegatti-a5028054/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Negative emission strategies to reduce the carbon intensity of Brazilian sugarcane ethanol under RenovaBio** (2025)
-   2 citations · BECCS
+   3 citations · BECCS
 
 2. **Carbon Stocks in Sugarcane Biomass and Their Implications on Land Use Change <scp> CO <sub>2</sub> </scp> Balance in Brazil** (2026)
    0 citations

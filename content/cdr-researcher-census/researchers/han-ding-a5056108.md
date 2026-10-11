@@ -1,7 +1,7 @@
 ---
 title: "Han Ding"
 description: "Han Ding is a Mid-career Biochar researcher at Huazhong Agricultural University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.753523
+date: 2026-10-11T02:32:59.775914
 url: "/cdr-researcher-census/researchers/han-ding-a5056108/"
 layout: "researcher"
 hiddenInHomeList: true

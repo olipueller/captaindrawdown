@@ -1,7 +1,7 @@
 ---
 title: "Quanxin Zeng"
 description: "Quanxin Zeng is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 50 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.513818
+date: 2026-10-11T02:32:59.527257
 url: "/cdr-researcher-census/researchers/quanxin-zeng-a5043467/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil particulate organic carbon regulates microbial carbon use efficiency in subtropical forests under nitrogen addition in different seasons** (2024)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 2. **Contrasting priming effect intensities and drivers in single and repeated glucose additions to a forest soil receiving long-term N fertilization** (2023)
    9 citations

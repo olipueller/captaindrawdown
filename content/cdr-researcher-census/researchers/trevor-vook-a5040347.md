@@ -1,7 +1,7 @@
 ---
 title: "Trevor Vook"
 description: "Trevor Vook is an Early-career Biochar researcher at North Carolina State University in US. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.291609
+date: 2026-10-11T02:33:00.321877
 url: "/cdr-researcher-census/researchers/trevor-vook-a5040347/"
 layout: "researcher"
 hiddenInHomeList: true

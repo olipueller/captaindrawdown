@@ -1,7 +1,7 @@
 ---
 title: "Shivangi Jha"
 description: "Shivangi Jha is a Mid-career Biochar researcher at University of Saskatchewan in CA. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.502186
+date: 2026-10-11T02:32:59.514713
 url: "/cdr-researcher-census/researchers/shivangi-jha-a5023134/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    19 citations · Biochar
 
 2. **Investigations of thermal effects during pyrolysis of agro-forestry biomass and physicochemical characterizations of biofuel products** (2024)
-   16 citations · Biochar
+   17 citations · Biochar
 
 3. **Steam activation of camelina meal biochar to remediate PFOA-contaminated wastewater** (2025)
    5 citations · Biochar

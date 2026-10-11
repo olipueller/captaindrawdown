@@ -1,7 +1,7 @@
 ---
 title: "Tannis Thorlakson"
-description: "Tannis Thorlakson is a Mid-career Enhanced Weathering researcher. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.189432
+description: "Tannis Thorlakson is a Mid-career Enhanced Weathering researcher. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:32:59.193545
 url: "/cdr-researcher-census/researchers/tannis-thorlakson-a5030138/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -38,9 +38,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 1,363 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| Citations | 1,364 |
+| Publications | 9 |
+| CDR Focus | 11.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

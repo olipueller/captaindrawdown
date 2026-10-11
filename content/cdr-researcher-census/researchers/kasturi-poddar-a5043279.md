@@ -1,7 +1,7 @@
 ---
 title: "Kasturi Poddar"
 description: "Kasturi Poddar is a Mid-career Biochar researcher at National Institute of Technology Rourkela in IN. With 32 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.373758
+date: 2026-10-11T02:32:59.381126
 url: "/cdr-researcher-census/researchers/kasturi-poddar-a5043279/"
 layout: "researcher"
 hiddenInHomeList: true

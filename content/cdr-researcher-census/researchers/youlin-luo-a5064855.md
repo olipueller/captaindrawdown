@@ -1,7 +1,7 @@
 ---
 title: "Youlin Luo"
 description: "Youlin Luo is a Mid-career Soil Carbon researcher at Sichuan Agricultural University in CN. With 42 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.373544
+date: 2026-10-11T02:32:59.380897
 url: "/cdr-researcher-census/researchers/youlin-luo-a5064855/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Loss of organic carbon in suburban soil upon urbanization of Chengdu megacity, China** (2021)
-   37 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 2. **Temperature effects on cropland soil particulate and mineral-associated organic carbon are governed by agricultural land-use types** (2024)
-   16 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 3. **Pore size and organic carbon of biochar limit the carbon sequestration potential of Bacillus cereus SR** (2024)
    10 citations · Biochar
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · Soil Carbon
 
 5. **Impact of suburban cropland intensification and afforestation on microbial biodiversity and C sequestration in paddy soils** (2023)
-   6 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 6. **Carbon-fixing strain-based biochar outperforms biochar alone in enhancing microbial symbiosis and soil organic carbon** (2026)
    0 citations · Biochar

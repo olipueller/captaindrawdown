@@ -1,7 +1,7 @@
 ---
 title: "Carmen Vázquez"
 description: "Carmen Vázquez is a Mid-career Soil Carbon researcher at Wageningen University & Research in NL. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.740275
+date: 2026-10-11T02:32:59.762536
 url: "/cdr-researcher-census/researchers/carmen-vazquez-a5101687/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The challenge of selecting an appropriate soil organic carbon simulation model: A comprehensive global review and validation assessment** (2023)
-   63 citations · General CDR
+   65 citations · General CDR
 
 2. **Evaluating and Improving the Performance of the Models Underlying the Soil Navigator Tool on Drained Peat Grasslands** (2025)
    0 citations · Soil Carbon

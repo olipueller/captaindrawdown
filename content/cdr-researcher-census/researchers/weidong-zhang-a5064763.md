@@ -1,7 +1,7 @@
 ---
 title: "Weidong Zhang"
 description: "Weidong Zhang is a Mid-career Enhanced Weathering researcher at Anhui Agricultural University in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.380634
+date: 2026-10-11T02:33:00.416427
 url: "/cdr-researcher-census/researchers/weidong-zhang-a5064763/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Wollastonite addition stimulates soil organic carbon mineralization: Evidences from 12 land-use types in subtropical China** (2023)
-   51 citations · Enhanced Weathering
+   49 citations · Enhanced Weathering
 
 2. **Similar mineral-associated organic carbon formation but distinct efficiencies by powdered wollastonite addition between two soils** (2025)
-   5 citations · Enhanced Weathering
+   7 citations · Enhanced Weathering
 
 3. **The effect of enhanced rock weathering on soil respiration was modulated by understory removal in a subtropical fir plantation** (2025)
    2 citations · Enhanced Weathering

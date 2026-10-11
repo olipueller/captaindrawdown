@@ -1,7 +1,7 @@
 ---
 title: "Paligwendé Nikièma"
 description: "Paligwendé Nikièma is a Senior Soil Carbon researcher at Government of Manitoba in CA. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.799657
+date: 2026-10-11T02:32:59.823858
 url: "/cdr-researcher-census/researchers/paligwende-nikiema-a5108447/"
 layout: "researcher"
 hiddenInHomeList: true

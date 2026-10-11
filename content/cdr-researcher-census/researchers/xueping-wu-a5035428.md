@@ -1,7 +1,7 @@
 ---
 title: "Xueping Wu"
 description: "Xueping Wu is a Senior Soil Carbon researcher at South China Agricultural University in CN. With 143 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.100813
+date: 2026-10-11T02:32:59.105513
 url: "/cdr-researcher-census/researchers/xueping-wu-a5035428/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,31 +51,31 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A global meta‐analysis of the impacts of no‐tillage on soil aggregation and aggregate‐associated organic carbon** (2021)
-   131 citations · Soil Carbon
+   130 citations · Soil Carbon
 
 2. **Microbial regulation of aggregate stability and carbon sequestration under long-term conservation tillage and nitrogen application** (2023)
    66 citations · Soil Carbon
 
 3. **Understanding how conservation tillage promotes soil carbon accumulation: Insights into extracellular enzyme activities and carbon flows between aggregate fractions** (2023)
-   63 citations · Soil Carbon
+   65 citations · Soil Carbon
 
 4. **Altered microbial resource limitation regulates soil organic carbon sequestration based on ecoenzyme stoichiometry under long‐term tillage systems** (2022)
-   37 citations · Soil Carbon
+   40 citations · Soil Carbon
 
 5. **The need to update and refine concepts relating to mineral-associated organic matter saturation in soil** (2024)
-   25 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 6. **Conservation tillage enhances the sequestration and iron-mediated stabilization of aggregate-associated organic carbon in Mollisols** (2024)
-   25 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 7. **Conservation tillage enhances both organic and inorganic carbon in dryland: Insights from a 20-year field experiment and meta-analysis** (2025)
-   13 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 8. **Conservation tillage and wheat straw managements improve soil organic carbon sequestration via calcium-mediated microbial communities and aggregate stability in Calcaric Cambisols** (2025)
-   9 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 9. **Conservation Tillage Increases Carbon Storage by Regulating Mineral‐Mediated Aggregate Stability and Carbon Chemistry** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 10. **Synergistic Promotion of Particulate and Mineral-Associated Organic Carbon Within Soil Aggregates After 10 Years of Organic Fertilization in Wheat-Maize Systems** (2024)
    2 citations · Soil Carbon

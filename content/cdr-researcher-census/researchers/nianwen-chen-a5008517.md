@@ -1,7 +1,7 @@
 ---
 title: "Nianwen Chen"
 description: "Nianwen Chen is a Senior Soil Carbon researcher at Shandong University in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.379566
+date: 2026-10-11T02:33:00.415411
 url: "/cdr-researcher-census/researchers/nianwen-chen-a5008517/"
 layout: "researcher"
 hiddenInHomeList: true

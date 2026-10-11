@@ -1,7 +1,7 @@
 ---
 title: "Chandrika Ashwinikumar Pal"
 description: "Chandrika Ashwinikumar Pal is a Mid-career Biochar researcher at Kwangwoon University in KR. With 17 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.623695
+date: 2026-10-11T02:32:59.641817
 url: "/cdr-researcher-census/researchers/chandrika-ashwinikumar-pal-a5046403/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Insights into kinetics, thermodynamics, and mechanisms of chemically activated sunflower stem biochar for removal of phenol and bisphenol-A from wastewater** (2024)
-   63 citations · Biochar
+   65 citations · Biochar
 
 ## External Profiles
 

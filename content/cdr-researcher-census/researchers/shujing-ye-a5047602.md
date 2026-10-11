@@ -1,7 +1,7 @@
 ---
 title: "Shujing Ye"
 description: "Shujing Ye is an Eminent Biochar researcher at Guangxi University in CN. With 76 publications and an h-index of 46, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.023947
+date: 2026-10-11T02:32:59.026986
 url: "/cdr-researcher-census/researchers/shujing-ye-a5047602/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    11 citations · Biochar
 
 3. **From solid wastes to functional catalysts for persulfate Activation: Biochar with structured Fe mediated non-radical pathway for chlorinated phenols removal** (2025)
-   7 citations · Biochar
+   8 citations · Biochar
 
 4. **Boosting electron transfer and metabolic regulation: Biochar mediated simultaneous nitrification denitrification system for landfill leachate treatment** (2025)
    2 citations · Biochar
+
+5. **Reconstructing Biochar Interfaces for Regulating Active Sites to Achieve Pathway Transition in Persulfate: Realizing Selective and Safe Pollutant Removal** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Yajun Peng"
 description: "Yajun Peng is a Senior Soil Carbon researcher at Hunan University in CN. With 47 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.398247
+date: 2026-10-11T02:32:59.407334
 url: "/cdr-researcher-census/researchers/yajun-peng-a5101332/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,16 +48,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Influence of cover crops at the four spheres: A review of ecosystem services, potential barriers, and future directions for North America** (2022)
-   122 citations · Soil Carbon
+   124 citations · Soil Carbon
 
 2. **Maximizing soil organic carbon stocks under cover cropping: insights from long-term agricultural experiments in North America** (2023)
-   62 citations · General CDR
+   64 citations · General CDR
 
 3. **Comparison of equivalent soil mass approaches to estimate soil organic carbon stocks under long-term tillage** (2024)
-   36 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 4. **Surface soil sampling underestimates soil carbon and nitrogen storage of long-term cover cropping** (2024)
-   10 citations
+   12 citations
 
 5. **Surface Soil Sampling Underestimates Soil Carbon and Nitrogen Storage of Long-Term Cover Cropping** (2024)
    2 citations · Soil Carbon

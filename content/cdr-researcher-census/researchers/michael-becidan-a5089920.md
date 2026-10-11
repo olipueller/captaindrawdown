@@ -1,7 +1,7 @@
 ---
 title: "Michaël Becidan"
 description: "Michaël Becidan is a Senior General CDR researcher at Sintef Energi As in NO. With 66 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.172338
+date: 2026-10-11T02:32:59.176373
 url: "/cdr-researcher-census/researchers/michael-becidan-a5089920/"
 layout: "researcher"
 hiddenInHomeList: true

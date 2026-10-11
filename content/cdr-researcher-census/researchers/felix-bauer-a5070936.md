@@ -1,7 +1,7 @@
 ---
 title: "Felix Bauer"
 description: "Felix Bauer is a Senior Soil Carbon researcher at Forschungszentrum Jülich in DE. With 33 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.339903
+date: 2026-10-11T02:32:59.345728
 url: "/cdr-researcher-census/researchers/felix-bauer-a5070936/"
 layout: "researcher"
 hiddenInHomeList: true

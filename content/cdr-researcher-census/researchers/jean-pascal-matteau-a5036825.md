@@ -1,7 +1,7 @@
 ---
 title: "Jean-Pascal Matteau"
 description: "Jean-Pascal Matteau is a Mid-career Soil Carbon researcher at Ministère de l'Agriculture, des Pêcheries et de l'Alimentation in CA. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.325405
+date: 2026-10-11T02:33:00.357985
 url: "/cdr-researcher-census/researchers/jean-pascal-matteau-a5036825/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    13 citations · Soil Carbon
 
 2. **Tillage effects on growing season nitrous oxide emissions in Canadian cropland soils** (2023)
-   8 citations · General CDR
+   9 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Timothée Bourgeois"
 description: "Timothée Bourgeois is a Mid-career General CDR researcher at Bjerknes Centre for Climate Research in NO. With 60 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.538339
+date: 2026-10-11T02:32:59.553332
 url: "/cdr-researcher-census/researchers/timothee-bourgeois-a5041193/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,33 +51,33 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **On the emission-path dependency of the efficiency of ocean alkalinity enhancement** (2024)
-   19 citations · Ocean CDR
+   23 citations · Ocean CDR
 
 2. **Efficacy of individual and combined terrestrial and marine carbon dioxide removal** (2025)
    2 citations · BECCS
 
-3. **Enhanced carbon loss in the Southern Ocean under mitigation scenarios** (2026)
+3. **Overshoot and (ir)reversibility to 2300 in two CO <sub>2</sub> -emissions driven Earth System Models** (2025)
+   2 citations · General CDR
+
+4. **Assessing Earth system responses in mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2026)
+   0 citations · General CDR
+
+5. **Enhanced carbon loss in the Southern Ocean under mitigation scenarios** (2026)
    0 citations
 
-4. **Assessing Earth system responses in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2026)
+6. **Assessing Earth system responses in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2026)
    0 citations · General CDR
 
-5. **Overshoot and (ir)reversibility to 2300 in two CO <sub>2</sub> -emissions driven Earth System Models** (2025)
+7. **On the emission-path dependence of the efficiency of ocean alkalinity enhancement** (2025)
    0 citations · General CDR
 
-6. **On the emission-path dependence of the efficiency of ocean alkalinity enhancement** (2025)
+8. **Assessing Earth system feedbacks in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2025)
    0 citations · General CDR
 
-7. **Assessing Earth system feedbacks in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2025)
+9. **Representing carbon dioxide removal in Earth System Models: towards an activity-driven framework.** (2025)
    0 citations · General CDR
 
-8. **Representing carbon dioxide removal in Earth System Models: towards an activity-driven framework.** (2025)
-   0 citations · General CDR
-
-9. **Towards Net Zero: Evaluating Combined Terrestrial and Marine CDR Approaches** (2025)
-   0 citations · General CDR
-
-10. **On the emission-scenario dependence of the efficiency of ocean alkalinity enhancement** (2024)
+10. **Towards Net Zero: Evaluating Combined Terrestrial and Marine CDR Approaches** (2025)
    0 citations · General CDR
 
 ## External Profiles

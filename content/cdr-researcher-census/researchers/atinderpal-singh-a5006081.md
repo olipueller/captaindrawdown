@@ -1,7 +1,7 @@
 ---
 title: "Atinderpal Singh"
 description: "Atinderpal Singh is a Mid-career Soil Carbon researcher at New Mexico State University in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.589887
+date: 2026-10-11T02:32:59.606612
 url: "/cdr-researcher-census/researchers/atinderpal-singh-a5006081/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil profile carbon sequestration and nutrient responses varied with cover crops in irrigated forage rotations** (2024)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
-2. **Soil carbon sequestration and biological health under pecan orchards of varying ages** (2025)
+2. **Can occasional tillage fit into long-term no-tillage systems? Soil carbon, nitrogen, and greenhouse gas emissions responses in semiarid drylands** (2026)
    1 citations · Soil Carbon
 
-3. **Can occasional tillage fit into long-term no-tillage systems? Soil carbon, nitrogen, and greenhouse gas emissions responses in semiarid drylands** (2026)
-   0 citations · Soil Carbon
+3. **Soil carbon sequestration and biological health under pecan orchards of varying ages** (2025)
+   1 citations · Soil Carbon
 
 4. **Regenerative Agriculture for Soil Health and Sustainability in a Changing World** (2026)
    0 citations · Soil Carbon

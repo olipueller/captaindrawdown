@@ -1,7 +1,7 @@
 ---
 title: "Mahdi Al-Kaisi"
 description: "Mahdi Al-Kaisi is a Mid-career Biochar researcher. With 8 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.866934
+date: 2026-10-11T02:32:59.893667
 url: "/cdr-researcher-census/researchers/mahdi-al-kaisi-a5078506/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effect of chemical fertilizer and straw-derived organic amendments on continuous maize yield, soil carbon sequestration and soil quality in a Chinese Mollisol** (2021)
-   154 citations · Biochar
+   157 citations · Biochar
 
 ## External Profiles
 

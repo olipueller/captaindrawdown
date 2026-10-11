@@ -1,7 +1,7 @@
 ---
 title: "Miguel Valdez"
 description: "Miguel Valdez is a Mid-career Soil Carbon researcher at Taiwan Agricultural Research Institute Council of Agriculture, Executive Yuan in TW. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.554438
+date: 2026-10-11T02:32:59.569359
 url: "/cdr-researcher-census/researchers/miguel-valdez-a5054930/"
 layout: "researcher"
 hiddenInHomeList: true

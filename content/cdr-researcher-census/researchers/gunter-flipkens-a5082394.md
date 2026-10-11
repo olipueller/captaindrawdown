@@ -1,7 +1,7 @@
 ---
 title: "Gunter Flipkens"
 description: "Gunter Flipkens is a Mid-career Enhanced Weathering researcher at University of Antwerp in BE. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.014826
+date: 2026-10-11T02:33:00.045589
 url: "/cdr-researcher-census/researchers/gunter-flipkens-a5082394/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Deriving Nickel (Ni(II)) and Chromium (Cr(III)) Based Environmentally Safe Olivine Guidelines for Coastal Enhanced Silicate Weathering** (2021)
-   76 citations · Enhanced Weathering
+   88 citations · Enhanced Weathering
 
 2. **Enhanced olivine dissolution in seawater through continuous grain collisions** (2023)
-   44 citations · Enhanced Weathering
+   47 citations · Enhanced Weathering
 
 3. **Acute bioaccumulation and chronic toxicity of olivine in the marine amphipod Gammarus locusta** (2023)
-   21 citations · Enhanced Weathering
+   22 citations · Enhanced Weathering
 
 4. **Olivine avoidance behaviour by marine gastropods (Littorina littorea L.) and amphipods (Gammarus locusta L.) within the context of ocean alkalinity enhancement** (2023)
-   10 citations · Enhanced Weathering
+   12 citations · Enhanced Weathering
 
 5. **The carbon dioxide removal potential of cement and lime kiln dust via ocean alkalinity enhancement** (2026)
-   2 citations · Ocean CDR
+   4 citations · Ocean CDR
 
 6. **The carbon dioxide removal potential of cement and lime kiln dust via ocean alkalinity enhancement** (2025)
    1 citations

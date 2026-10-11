@@ -1,7 +1,7 @@
 ---
 title: "Huaxia Sheng"
 description: "Huaxia Sheng is a Mid-career Ocean CDR researcher at Faculty of 1000 (United Kingdom) in GB. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.464905
+date: 2026-10-11T02:32:59.476173
 url: "/cdr-researcher-census/researchers/huaxia-sheng-a5083537/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Epipelagic nitrous oxide production offsets carbon sequestration by the biological pump** (2022)
-   40 citations · Ocean CDR
+   39 citations · Ocean CDR
 
 2. **Nitrogen cycle in the Northwest Pacific: from source-sink structure to multi-interface fluxes** (2026)
    0 citations · Soil Carbon

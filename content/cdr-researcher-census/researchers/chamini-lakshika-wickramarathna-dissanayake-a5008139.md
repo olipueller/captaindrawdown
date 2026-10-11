@@ -1,7 +1,7 @@
 ---
 title: "Chamini Lakshika Wickramarathna Dissanayake"
 description: "Chamini Lakshika Wickramarathna Dissanayake is an Early-career Biochar researcher at Estonian University of Life Sciences in EE. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.368112
+date: 2026-10-11T02:33:00.403697
 url: "/cdr-researcher-census/researchers/chamini-lakshika-wickramarathna-dissanayake-a5008139/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Ahmed Waqas"
 description: "Muhammad Ahmed Waqas is a Mid-career Soil Carbon researcher at Aarhus University in DK. With 38 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.163056
+date: 2026-10-11T02:32:59.167056
 url: "/cdr-researcher-census/researchers/muhammad-ahmed-waqas-a5101955/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,25 +51,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial Metabolic Quotient is a Dynamic Indicator of Soil Health: Trends, Implications and Perspectives (Review)** (2022)
-   70 citations · General CDR
+   73 citations · General CDR
 
 2. **Long‐term manure application enhances organic carbon and nitrogen stocks in Mollisol subsoil** (2022)
-   28 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 3. **Legume Inclusion in Wheat Rotations Increases Long‐Term Soil Carbon Storage via Carbon Management Indices and Microbial Stoichiometry** (2025)
-   11 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 4. **Organic carbon sequestration in global croplands: evidenced through a bibliometric approach** (2025)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
-5. **Organic carbon and nitrogen accrual evidenced by the underpinning protection mechanisms in soil profile following contrasting 35-year fertilization regimes** (2025)
+5. **Methods for quantifying and incorporating biomass carbon sequestration by trees in life cycle assessments** (2025)
+   6 citations · General CDR
+
+6. **Organic carbon and nitrogen accrual evidenced by the underpinning protection mechanisms in soil profile following contrasting 35-year fertilization regimes** (2025)
    6 citations · Soil Carbon
 
-6. **Methods for quantifying and incorporating biomass carbon sequestration by trees in life cycle assessments** (2025)
-   5 citations · General CDR
-
 7. **Legume-based diversified cropping systems increase soil organic carbon labile pools and microbial carbon use efficiency in a 12-year long-term field trial** (2026)
-   2 citations
+   3 citations
 
 ## External Profiles
 

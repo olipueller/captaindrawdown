@@ -1,7 +1,7 @@
 ---
 title: "Yunfeng Tan"
 description: "Yunfeng Tan is a Mid-career Biochar researcher at Ningbo University in CN. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.316513
+date: 2026-10-11T02:32:59.322247
 url: "/cdr-researcher-census/researchers/yunfeng-tan-a5114063/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,18 +42,21 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 12 |
 | Citations | 790 |
 | Publications | 40 |
-| CDR Focus | 5.0% |
+| CDR Focus | 7.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Adsorption-enhanced PMS activation over waste iron sludge-derived Fe/biochar for sulfamethoxazole degradation: A singlet oxygen-dominated pathway** (2026)
+1. **Adsorption-coupled PMS activation over waste iron sludge-derived Fe/biochar for sulfamethoxazole degradation: A singlet oxygen-associated oxidation pathway** (2026)
    0 citations · Biochar
 
 2. **Adsorption-enhanced PMS activation over waste iron sludge-derived Fe/biochar for sulfamethoxazole degradation: A singlet oxygen-dominated pathway** (2026)
    0 citations · Biochar
 
 3. **Adsorption-enhanced PMS activation over waste iron sludge-derived Fe/biochar for sulfamethoxazole degradation: A singlet oxygen-dominated pathway** (2026)
+   0 citations · Biochar
+
+4. **Adsorption-enhanced PMS activation over waste iron sludge-derived Fe/biochar for sulfamethoxazole degradation: A singlet oxygen-dominated pathway** (2026)
    0 citations · Biochar
 
 ## External Profiles

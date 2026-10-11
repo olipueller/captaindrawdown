@@ -1,7 +1,7 @@
 ---
 title: "Karen M. Foley"
 description: "Karen M. Foley is a Mid-career Soil Carbon researcher at Utah State University in US. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.339389
+date: 2026-10-11T02:33:00.373575
 url: "/cdr-researcher-census/researchers/karen-m-foley-a5014402/"
 layout: "researcher"
 hiddenInHomeList: true

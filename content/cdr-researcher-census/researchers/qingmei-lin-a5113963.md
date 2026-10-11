@@ -1,7 +1,7 @@
 ---
 title: "Qingmei Lin"
 description: "Qingmei Lin is a Senior Soil Carbon researcher at Foshan Maternity and Child Health Care Hospital in CN. With 76 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.207139
+date: 2026-10-11T02:32:59.211192
 url: "/cdr-researcher-census/researchers/qingmei-lin-a5113963/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Pool complexity and molecular diversity shaped topsoil organic matter accumulation following decadal forest restoration in a karst terrain** (2022)
-   63 citations · Soil Carbon
+   64 citations · Soil Carbon
 
 2. **Amendment of crop residue in different forms shifted micro-pore system structure and potential functionality of macroaggregates while changed their mass proportion and carbon storage of paddy topsoil** (2021)
-   47 citations · Soil Carbon
+   49 citations · Soil Carbon
 
 3. **Developing diversity indicators from organic matter and microbe to depict their changes across different soil-landscapes in a subtropical hilly area** (2025)
    3 citations · Soil Carbon

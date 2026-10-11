@@ -1,7 +1,7 @@
 ---
 title: "G. R. Thibaud"
 description: "G. R. Thibaud is a Senior Soil Carbon researcher at Gauteng Department of Agriculture and Rural Development in ZA. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.487859
+date: 2026-10-11T02:32:59.499653
 url: "/cdr-researcher-census/researchers/g-r-thibaud-a5076597/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term frequent fires do not decrease topsoil carbon and nitrogen in an Afromontane grassland** (2022)
-   27 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 ## External Profiles
 

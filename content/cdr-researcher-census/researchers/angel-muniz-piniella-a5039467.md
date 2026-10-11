@@ -1,7 +1,7 @@
 ---
 title: "Ángel Muñiz Piniella"
 description: "Ángel Muñiz Piniella is a Mid-career Ocean CDR researcher at Directorate-General for Maritime Affairs and Fisheries in BE. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.050805
+date: 2026-10-11T02:33:00.081747
 url: "/cdr-researcher-census/researchers/angel-muniz-piniella-a5039467/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 ## Top CDR Publications
 
-1. **Standardized environmental impact assessment methodologies to understand and manage human impacts and their associated risks for the deep sea.** (2025)
+1. **Advancing Monitoring Reporting and Verification for marine Carbon Dioxide Removal** (2026)
+   1 citations · General CDR
+
+2. **Standardized environmental impact assessment methodologies to understand and manage human impacts and their associated risks for the deep sea.** (2025)
    0 citations · General CDR
 
 ## External Profiles

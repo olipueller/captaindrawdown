@@ -1,7 +1,7 @@
 ---
 title: "Pauline Latour"
 description: "Pauline Latour is a Mid-career Ocean CDR researcher at Australian Antarctic Division in AU. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.834044
+date: 2026-10-11T02:32:59.860238
 url: "/cdr-researcher-census/researchers/pauline-latour-a5035519/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Mechanistic Constraints on the Drivers of Southern Ocean Meridional Iron Distributions Between Tasmania and Antarctica** (2024)
-   4 citations · Ocean CDR
+   5 citations · Ocean CDR
 
 2. **Effects of ocean alkalinity enhancement on Southern Ocean phytoplankton growth and community composition** (2026)
    0 citations · Ocean CDR

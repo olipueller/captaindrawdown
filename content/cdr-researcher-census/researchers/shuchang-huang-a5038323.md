@@ -1,7 +1,7 @@
 ---
 title: "Shuchang Huang"
 description: "Shuchang Huang is a Mid-career Biochar researcher at Jiangxi University of Science and Technology in CN. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.370543
+date: 2026-10-11T02:32:59.377840
 url: "/cdr-researcher-census/researchers/shuchang-huang-a5038323/"
 layout: "researcher"
 hiddenInHomeList: true

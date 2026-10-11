@@ -1,7 +1,7 @@
 ---
 title: "Lucinda Watt"
 description: "Lucinda Watt is a Mid-career General CDR researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.340375
+date: 2026-10-11T02:33:00.374698
 url: "/cdr-researcher-census/researchers/lucinda-watt-a5025818/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Tailoring Australian carbon farming can realise greater co-benefits** (2026)
-   1 citations · General CDR
+   2 citations · General CDR
 
 2. **Structural inequities shape biodiversity and climate mitigation outcomes in livestock systems** (2026)
    0 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Katarzyna Anna Koryś"
 description: "Katarzyna Anna Koryś is a Mid-career Biochar researcher. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.552171
+date: 2026-10-11T02:32:59.567166
 url: "/cdr-researcher-census/researchers/katarzyna-anna-korys-a5041511/"
 layout: "researcher"
 hiddenInHomeList: true

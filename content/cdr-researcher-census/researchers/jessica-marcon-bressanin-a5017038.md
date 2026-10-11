@@ -1,7 +1,7 @@
 ---
 title: "Jéssica Marcon Bressanin"
 description: "Jéssica Marcon Bressanin is a Mid-career BECCS researcher at Instituto de Tecnologia de Pernambuco in BR. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.736956
+date: 2026-10-11T02:32:59.759005
 url: "/cdr-researcher-census/researchers/jessica-marcon-bressanin-a5017038/"
 layout: "researcher"
 hiddenInHomeList: true

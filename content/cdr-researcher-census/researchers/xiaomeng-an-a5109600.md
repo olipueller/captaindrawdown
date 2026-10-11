@@ -1,7 +1,7 @@
 ---
 title: "Xiaomeng An"
 description: "Xiaomeng An is a Mid-career Biochar researcher at Fudan University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.817925
+date: 2026-10-11T02:32:59.842581
 url: "/cdr-researcher-census/researchers/xiaomeng-an-a5109600/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,7 +47,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Top CDR Publications
 
-1. **Construction of cobalt-doped biochar catalysts from buckwheat hull on peroxymonosulfate activation for antibiotics degradation** (2025)
+1. **Co-doped biochar from buckwheat husk for PMS activation: Mechanistic insights into carbamazepine and norfloxacin degradation** (2026)
+   0 citations · Biochar
+
+2. **Construction of cobalt-doped biochar catalysts from buckwheat hull on peroxymonosulfate activation for antibiotics degradation** (2025)
    0 citations · Biochar
 
 ## External Profiles

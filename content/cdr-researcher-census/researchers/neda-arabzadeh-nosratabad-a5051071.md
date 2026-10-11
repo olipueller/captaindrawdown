@@ -1,7 +1,7 @@
 ---
 title: "Neda Arabzadeh Nosratabad"
 description: "Neda Arabzadeh Nosratabad is a Mid-career Biochar researcher at Missouri University of Science and Technology in US. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.908743
+date: 2026-10-11T02:32:59.938529
 url: "/cdr-researcher-census/researchers/neda-arabzadeh-nosratabad-a5051071/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Exploring nanomaterial-modified biochar for environmental remediation applications** (2024)
-   77 citations · Biochar
+   84 citations · Biochar
 
 ## External Profiles
 

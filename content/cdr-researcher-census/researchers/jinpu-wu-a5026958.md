@@ -1,7 +1,7 @@
 ---
 title: "Jinpu Wu"
 description: "Jinpu Wu is a Senior Soil Carbon researcher at University of Science and Technology of China in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.328515
+date: 2026-10-11T02:32:59.334352
 url: "/cdr-researcher-census/researchers/jinpu-wu-a5026958/"
 layout: "researcher"
 hiddenInHomeList: true

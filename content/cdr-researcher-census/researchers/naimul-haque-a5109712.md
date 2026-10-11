@@ -1,7 +1,7 @@
 ---
 title: "Naimul Haque"
 description: "Naimul Haque is an Early-career Biochar researcher at North Carolina State University in US. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.354871
+date: 2026-10-11T02:33:00.389958
 url: "/cdr-researcher-census/researchers/naimul-haque-a5109712/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Upconversion of non-recycled MSW paper fractions into biochar via slow pyrolysis and life cycle analysis: Pathways to net negative GHG emission** (2025)
-   3 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Songsong Shen"
 description: "Songsong Shen is a Mid-career Biochar researcher at Hebei Agricultural University in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.374826
+date: 2026-10-11T02:33:00.410277
 url: "/cdr-researcher-census/researchers/songsong-shen-a5001742/"
 layout: "researcher"
 hiddenInHomeList: true

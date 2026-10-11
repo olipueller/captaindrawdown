@@ -1,7 +1,7 @@
 ---
 title: "Yuepeng Zhai"
 description: "Yuepeng Zhai is a Mid-career Soil Carbon researcher. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.578338
+date: 2026-10-11T02:32:59.594075
 url: "/cdr-researcher-census/researchers/yuepeng-zhai-a5051838/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,10 +46,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of microbial groups on soil organic carbon accrual and mineralization during high- and low-quality litter decomposition** (2024)
-   41 citations · Soil Carbon
+   42 citations · Soil Carbon
 
 2. **Fast Decomposition of Nitrogen‐Rich Mineral‐Associated Organic Matter in Soils** (2025)
-   22 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 ## External Profiles
 

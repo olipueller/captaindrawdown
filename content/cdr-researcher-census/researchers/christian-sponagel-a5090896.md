@@ -1,7 +1,7 @@
 ---
 title: "Christian Sponagel"
 description: "Christian Sponagel is a Mid-career General CDR researcher at University of Hohenheim in DE. With 28 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.253371
+date: 2026-10-11T02:33:00.283163
 url: "/cdr-researcher-census/researchers/christian-sponagel-a5090896/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **How effective and efficient is the generation of nature-based carbon removal quantified according to the regulation on carbon removal and carbon farming certification? An evaluation based on the example of a hypothetical agroforestry system in Baden-Württemberg** (2025)
-   3 citations · General CDR
+   4 citations · General CDR
 
 2. **Model-based analysis of the impact of an eco-scheme premium on the climate protection potential of short rotation coppice in Baden-Württemberg** (2024)
    3 citations · BECCS

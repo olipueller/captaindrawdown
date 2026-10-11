@@ -1,7 +1,7 @@
 ---
 title: "Beyhan Y. Amichev"
 description: "Beyhan Y. Amichev is a Senior General CDR researcher at US Department of Agriculture in US. With 35 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.289947
+date: 2026-10-11T02:32:59.294228
 url: "/cdr-researcher-census/researchers/beyhan-y-amichev-a5070836/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Carbon life cycle assessment of shelterbelts in Saskatchewan, Canada** (2021)
-   21 citations · General CDR
+   20 citations · General CDR
 
 2. **Shelterbelt Management Practices for Maximized Ecosystem Carbon Stocks on Agricultural Landscapes in Saskatchewan, Canada** (2021)
    3 citations · General CDR

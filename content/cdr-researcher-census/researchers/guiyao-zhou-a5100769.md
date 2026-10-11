@@ -1,7 +1,7 @@
 ---
 title: "Guiyao Zhou"
 description: "Guiyao Zhou is a Senior Soil Carbon researcher at Consejo Superior de Investigaciones Científicas in ES. With 169 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.051768
+date: 2026-10-11T02:32:59.055808
 url: "/cdr-researcher-census/researchers/guiyao-zhou-a5100769/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    107 citations · Soil Carbon
 
 2. **New perspectives on microbiome and nutrient sequestration in soil aggregates during long‐term grazing exclusion** (2023)
-   65 citations · Soil Carbon
+   66 citations · Soil Carbon
 
 3. **Temperature and Rainfall Patterns Constrain the Multidimensional Rewilding of Global Forests** (2022)
    45 citations · Soil Carbon
@@ -63,10 +63,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    29 citations · Biochar
 
 5. **Tradeoffs of fungal and bacterial residues mediate soil carbon dynamics under persistent drought in subtropical evergreen forests** (2022)
-   22 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 6. **Meta-analysis shows that microplastics affect ecosystem services in terrestrial environments** (2024)
-   16 citations
+   17 citations
 
 7. **Root traits regulate the capacity of the rhizosphere to support multiple ecosystem services under intercropping and phosphorus fertilization** (2024)
    14 citations · Soil Carbon
@@ -75,7 +75,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 9. **Soil microbial networks mediate long‐term effects of nitrogen fertilization on ecosystem multiservices** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 10. **A transition from arbuscular to ectomycorrhizal forests halts soil carbon sequestration during subtropical forest rewilding** (2024)
    4 citations · Soil Carbon

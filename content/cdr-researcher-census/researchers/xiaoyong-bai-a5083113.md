@@ -1,7 +1,7 @@
 ---
 title: "Xiaoyong Bai"
 description: "Xiaoyong Bai is an Eminent Soil Carbon researcher at Guizhou University in CN. With 137 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.052492
+date: 2026-10-11T02:32:59.056637
 url: "/cdr-researcher-census/researchers/xiaoyong-bai-a5083113/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,27 +51,30 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Storage, form, and influencing factors of karst inorganic carbon in a carbonate area in China** (2024)
-   61 citations
+   63 citations
 
 2. **Climate change has enhanced the positive contribution of rock weathering to the major ions in riverine transport** (2023)
-   49 citations · Enhanced Weathering
+   50 citations · Enhanced Weathering
 
 3. **Unexpected response of terrestrial carbon sink to rural depopulation in China** (2024)
-   42 citations · Soil Carbon
+   41 citations · Soil Carbon
 
 4. **Assessment of carbon sinks caused by the chemical weathering of carbonate rocks under the influence of exogenous acids: Methods, progress, and prospects** (2025)
-   33 citations · Enhanced Weathering
+   35 citations · Enhanced Weathering
 
 5. **Vegetation restoration promotes soil carbon stability by enhancing mineral-associated organic carbon and microbial necromass accumulation in karst ecosystems** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
-6. **Editorial: Impact of climate change on carbon sequestration in terrestrial ecosystems** (2026)
+6. **Response of carbonate rock weathering carbon sink to seismic peak ground acceleration in China** (2025)
+   2 citations · Enhanced Weathering
+
+7. **Editorial: Impact of climate change on carbon sequestration in terrestrial ecosystems** (2026)
    1 citations · General CDR
 
-7. **Response of carbonate rock weathering carbon sink to seismic peak ground acceleration in China** (2025)
-   1 citations · Enhanced Weathering
+8. **Climate Warming Amplifies the Contribution of High‐Altitude Cold Regions to Global Carbonate Weathering Carbon Sink** (2026)
+   0 citations
 
-8. **The Interaction between Growing Season Extension and Soil Respiration Changes the Terrestrial Carbon Balance in China** (2025)
+9. **The Interaction between Growing Season Extension and Soil Respiration Changes the Terrestrial Carbon Balance in China** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

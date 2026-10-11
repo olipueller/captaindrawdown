@@ -1,7 +1,7 @@
 ---
 title: "Olive Mekontchou Yemele"
 description: "Olive Mekontchou Yemele is a Mid-career Biochar researcher at Hohai University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.397457
+date: 2026-10-11T02:33:00.435697
 url: "/cdr-researcher-census/researchers/olive-mekontchou-yemele-a5094213/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar application as a green clean-up method: bibliometric analysis of current trends and future perspectives** (2025)
-   15 citations · Biochar
+   17 citations · Biochar
 
 ## External Profiles
 

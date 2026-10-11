@@ -1,7 +1,7 @@
 ---
 title: "Qiyue Ma"
 description: "Qiyue Ma is a Senior Soil Carbon researcher at Tongji University in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.400770
+date: 2026-10-11T02:33:00.438783
 url: "/cdr-researcher-census/researchers/qiyue-ma-a5101288/"
 layout: "researcher"
 hiddenInHomeList: true

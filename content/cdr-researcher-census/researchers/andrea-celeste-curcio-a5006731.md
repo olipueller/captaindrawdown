@@ -1,7 +1,7 @@
 ---
 title: "Andrea Celeste Curcio"
 description: "Andrea Celeste Curcio is a Mid-career Soil Carbon researcher at Universidad de Cádiz in ES. With 14 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.339827
+date: 2026-10-11T02:33:00.374080
 url: "/cdr-researcher-census/researchers/andrea-celeste-curcio-a5006731/"
 layout: "researcher"
 hiddenInHomeList: true

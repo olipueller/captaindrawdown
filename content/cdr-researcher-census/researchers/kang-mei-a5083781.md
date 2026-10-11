@@ -1,7 +1,7 @@
 ---
 title: "Kang Mei"
 description: "Kang Mei is a Mid-career Soil Carbon researcher at Jiangsu University in CN. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.463675
+date: 2026-10-11T02:32:59.474926
 url: "/cdr-researcher-census/researchers/kang-mei-a5083781/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Spatial heterogeneity in chemical composition and stability of glomalin-related soil protein in the coastal wetlands** (2022)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 2. **Spatial and Temporal Heterogeneity in Chemical Composition and Stability of Glomalin-Related Soil Protein in Coastal Wetlands** (2021)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Soh Sugihara"
 description: "Soh Sugihara is a Senior Soil Carbon researcher at Tokyo University of Agriculture and Technology in JP. With 101 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.245988
+date: 2026-10-11T02:32:59.249815
 url: "/cdr-researcher-census/researchers/soh-sugihara-a5022325/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon and nutrient colimitations control the microbial response to fresh organic carbon inputs in soil at different depths** (2023)
-   25 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 2. **No Tillage Increases SOM in Labile Fraction but Not Stable Fraction of Andosols from a Long-Term Experiment in Japan** (2022)
    19 citations · Soil Carbon

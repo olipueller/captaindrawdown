@@ -1,7 +1,7 @@
 ---
 title: "Jishuai Su"
 description: "Jishuai Su is a Mid-career Soil Carbon researcher at Hebei University of Technology in CN. With 53 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.238213
+date: 2026-10-11T02:32:59.241699
 url: "/cdr-researcher-census/researchers/jishuai-su-a5077686/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · General CDR
 
 5. **Assessing the net climate benefits of improved grazing intensity in global rangelands** (2026)
-   0 citations
+   2 citations
 
 ## External Profiles
 

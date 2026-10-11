@@ -1,7 +1,7 @@
 ---
 title: "Ruitao Lou"
 description: "Ruitao Lou is a Mid-career Soil Carbon researcher at First Affiliated Hospital Zhejiang University in CN. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.253095
+date: 2026-10-11T02:33:00.282847
 url: "/cdr-researcher-census/researchers/ruitao-lou-a5084028/"
 layout: "researcher"
 hiddenInHomeList: true

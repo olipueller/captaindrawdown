@@ -1,7 +1,7 @@
 ---
 title: "Berileena Hazarika"
 description: "Berileena Hazarika is an Early-career Biochar researcher at National Institute Of Technology Silchar in IN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.731857
+date: 2026-10-11T02:32:59.753424
 url: "/cdr-researcher-census/researchers/berileena-hazarika-a5063806/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Visible-light-driven photocatalytic degradation of Rose Bengal and Methylene Blue using low-cost sawdust derived SnO2 QDs@g-C3N4/biochar nanocomposite** (2023)
-   37 citations · Biochar
+   36 citations · Biochar
 
 ## External Profiles
 

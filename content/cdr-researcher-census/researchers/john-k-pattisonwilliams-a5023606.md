@@ -1,7 +1,7 @@
 ---
 title: "John K. Pattison‐Williams"
 description: "John K. Pattison‐Williams is a Mid-career Soil Carbon researcher at University of Alberta in CA. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.707774
+date: 2026-10-11T02:32:59.728397
 url: "/cdr-researcher-census/researchers/john-k-pattisonwilliams-a5023606/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Can Restoration of Freshwater Mineral Soil Wetlands Deliver Nature-Based Climate Solutions to Agricultural Landscapes?** (2022)
-   29 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 2. **Agronomic and economic effects of wetlands on crop yields using precision agriculture data** (2024)
-   12 citations · General CDR
+   13 citations · General CDR
 
 ## External Profiles
 

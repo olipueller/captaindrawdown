@@ -1,7 +1,7 @@
 ---
 title: "Shiming Tang"
 description: "Shiming Tang is a Senior Soil Carbon researcher at Anhui Medical University in CN. With 61 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.259886
+date: 2026-10-11T02:32:59.263732
 url: "/cdr-researcher-census/researchers/shiming-tang-a5029286/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    35 citations · Soil Carbon
 
 2. **Land use shapes the microbial community structure by altering soil aggregates and dissolved organic matter components** (2024)
-   25 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 3. **Influence of Initial Soil Organic Carbon in Grassland on the Sensitivity of Carbon Changes to Climate After Grassland‐to‐Cropland Conversion** (2025)
    7 citations · Soil Carbon
 
 4. **Optimal Grazing Exclusion Duration to Enhance Soil Carbon Sequestration in Degraded Grasslands** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

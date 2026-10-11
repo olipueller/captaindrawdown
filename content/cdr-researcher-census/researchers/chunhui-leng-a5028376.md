@@ -1,7 +1,7 @@
 ---
 title: "Chunhui Leng"
 description: "Chunhui Leng is a Mid-career Soil Carbon researcher at Jianghan University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.376932
+date: 2026-10-11T02:33:00.412361
 url: "/cdr-researcher-census/researchers/chunhui-leng-a5028376/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Converting Chinese fir plantations into mixed stands: Effects of density on soil organic carbon mineralization and its temperature sensitivity** (2026)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

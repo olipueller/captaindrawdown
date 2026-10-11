@@ -1,7 +1,7 @@
 ---
 title: "Marie‐Pascale Colace"
 description: "Marie‐Pascale Colace is a Senior Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.193708
+date: 2026-10-11T02:32:59.197693
 url: "/cdr-researcher-census/researchers/mariepascale-colace-a5112653/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,9 +51,12 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Shrub encroachment modifies soil properties through plant resource economics traits** (2025)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
-2. **Plant traits and soil organic matter quality drive fungal functional groups in shrub-encroached subalpine grasslands** (2026)
+2. **Shrub encroachment modifies soil properties through plant resource economic traits** (2024)
+   1 citations
+
+3. **Plant traits and soil organic matter quality drive fungal functional groups in shrub-encroached subalpine grasslands** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

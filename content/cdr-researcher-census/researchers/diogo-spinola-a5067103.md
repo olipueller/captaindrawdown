@@ -1,7 +1,7 @@
 ---
 title: "Diogo Spinola"
 description: "Diogo Spinola is a Mid-career Soil Carbon researcher at University of Northern British Columbia in CA. With 34 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.219625
+date: 2026-10-11T02:32:59.223272
 url: "/cdr-researcher-census/researchers/diogo-spinola-a5067103/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,15 +51,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Rapid soil formation and carbon accumulation along a Little Ice Age soil chronosequence in southeast Alaska** (2024)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 2. **Assessing decadal soil redistribution rates using <sup>239+240</sup> Pu across diverse lithologies in Southeast Alaska** (2024)
    6 citations · Soil Carbon
 
-3. **Rapid Soil Formation and Carbon Accumulation Along a Little Ice Age Soil Chronosequence in Southeast Alaska** (2024)
+3. **A continental-scale study of Spodosols across North America and implications for soil organic carbon dynamics** (2025)
+   2 citations · Soil Carbon
+
+4. **Rapid Soil Formation and Carbon Accumulation Along a Little Ice Age Soil Chronosequence in Southeast Alaska** (2024)
    0 citations · Soil Carbon
 
-4. **Assessing Decadal Soil Redistribution Rates Using 239+240pu Across Varied Lithologies in the Coastal Temperate Rainforest of Southeast Alaska** (2023)
+5. **Assessing Decadal Soil Redistribution Rates Using 239+240pu Across Varied Lithologies in the Coastal Temperate Rainforest of Southeast Alaska** (2023)
    0 citations
 
 ## External Profiles

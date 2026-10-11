@@ -1,7 +1,7 @@
 ---
 title: "Kimitoshi Sakaguchi"
 description: "Kimitoshi Sakaguchi is a Senior Soil Carbon researcher at Miyoshi Kasei (Japan) in JP. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.329485
+date: 2026-10-11T02:33:00.363011
 url: "/cdr-researcher-census/researchers/kimitoshi-sakaguchi-a5057911/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Thomas Gasser"
 description: "Thomas Gasser is an Eminent General CDR researcher at International Institute for Applied Systems Analysis in AT. With 267 publications and an h-index of 49, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.020404
+date: 2026-10-11T02:32:59.023369
 url: "/cdr-researcher-census/researchers/thomas-gasser-a5062044/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,40 +45,40 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 49 |
 | Citations | 18,406 |
 | Publications | 267 |
-| CDR Focus | 8.6% |
+| CDR Focus | 9.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Overconfidence in climate overshoot** (2024)
-   170 citations · General CDR
+   178 citations · General CDR
 
 2. **Delayed use of bioenergy crops might threaten climate and food security** (2022)
-   134 citations · BECCS
+   131 citations · BECCS
 
 3. **The carbon dioxide removal gap** (2024)
-   91 citations
+   106 citations
 
 4. **Quantifying global carbon dioxide removal deployment** (2023)
-   57 citations · DAC
+   56 citations · DAC
 
 5. **Impact of bioenergy crop expansion on climate–carbon cycle feedbacks in overshoot scenarios** (2022)
-   38 citations · BECCS
+   46 citations · BECCS
 
 6. **Evaluating the near- and long-term role of carbon dioxide removal in meeting global climate objectives** (2024)
-   36 citations · General CDR
+   45 citations · General CDR
 
 7. **Secure robust carbon dioxide removal policy through credible certification** (2023)
-   35 citations · General CDR
+   34 citations · General CDR
 
-8. **Temperature Changes Induced by Biogeochemical and Biophysical Effects of Bioenergy Crop Cultivation** (2023)
+8. **Global cooling induced by biophysical effects of bioenergy crop cultivation** (2021)
+   34 citations · BECCS
+
+9. **Temperature Changes Induced by Biogeochemical and Biophysical Effects of Bioenergy Crop Cultivation** (2023)
    17 citations · BECCS
 
-9. **Impact of bioenergy crops expansion on climate-carbon cycle feedbacks in overshoot scenarios** (2021)
+10. **Impact of bioenergy crops expansion on climate-carbon cycle feedbacks in overshoot scenarios** (2021)
    16 citations · BECCS
-
-10. **A review of influencing factors for policy interventions in the deployment of bioenergy with carbon capture and storage** (2024)
-   11 citations · BECCS
 
 ## External Profiles
 

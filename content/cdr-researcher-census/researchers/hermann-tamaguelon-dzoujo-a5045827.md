@@ -1,7 +1,7 @@
 ---
 title: "Hermann Tamaguelon Dzoujo"
 description: "Hermann Tamaguelon Dzoujo is a Mid-career Biochar researcher. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.175982
+date: 2026-10-11T02:33:00.206059
 url: "/cdr-researcher-census/researchers/hermann-tamaguelon-dzoujo-a5045827/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synthesis of pozzolan and sugarcane bagasse derived geopolymer-biochar composites for methylene blue sequestration from aqueous medium** (2022)
-   51 citations · Biochar
+   52 citations · Biochar
 
 ## External Profiles
 

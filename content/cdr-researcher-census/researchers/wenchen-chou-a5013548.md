@@ -1,7 +1,7 @@
 ---
 title: "Wen‐Chen Chou"
 description: "Wen‐Chen Chou is a Senior Ocean CDR researcher at National Taiwan Ocean University in TW. With 60 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.157917
+date: 2026-10-11T02:32:59.162387
 url: "/cdr-researcher-census/researchers/wenchen-chou-a5013548/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,17 +50,23 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 ## Top CDR Publications
 
-1. **Contrasting CO <sub>2</sub> Dynamics in Seagrass Meadows Between Organic Carbon (OC)‐Rich Reef and OC‐Poor Terrestrial Sediments: Implications for Enhanced Alkalinity Production** (2025)
+1. **A Unique Diel Pattern in Carbonate Chemistry in the Seagrass Meadows of Dongsha Island: The Enhancement of Metabolic Carbonate Dissolution in a Semienclosed Lagoon** (2021)
+   23 citations · Ocean CDR
+
+2. **Contrasting CO <sub>2</sub> Dynamics in Seagrass Meadows Between Organic Carbon (OC)‐Rich Reef and OC‐Poor Terrestrial Sediments: Implications for Enhanced Alkalinity Production** (2025)
    10 citations · Ocean CDR
 
-2. **Assessing CO2 sources and sinks in and around Taiwan: Implication for achieving regional carbon neutrality by 2050** (2024)
+3. **Assessing CO2 sources and sinks in and around Taiwan: Implication for achieving regional carbon neutrality by 2050** (2024)
    10 citations · General CDR
 
-3. **The Role of Benthic TA and DIC Fluxes on Carbon Sequestration in Seagrass Meadows of Dongsha Island** (2024)
+4. **The Role of Benthic TA and DIC Fluxes on Carbon Sequestration in Seagrass Meadows of Dongsha Island** (2024)
    8 citations · Ocean CDR
 
-4. **Wastewater treatment-induced carbonate chemistry alteration and its implications for ocean alkalinity enhancement** (2026)
+5. **Wastewater treatment-induced carbonate chemistry alteration and its implications for ocean alkalinity enhancement** (2026)
    0 citations · Ocean CDR
+
+6. **High-Density Sampling Reveals Seasonal Spatiotemporal Variations in Partial Pressure of Carbon Dioxide in a Tropical Lagoon** (2026)
+   0 citations
 
 ## External Profiles
 

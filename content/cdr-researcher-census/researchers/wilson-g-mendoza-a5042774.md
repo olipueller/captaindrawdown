@@ -1,7 +1,7 @@
 ---
 title: "Wilson G. Mendoza"
 description: "Wilson G. Mendoza is a Senior Soil Carbon researcher at Oak Ridge Institute for Science and Education in US. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.614294
+date: 2026-10-11T02:32:59.631704
 url: "/cdr-researcher-census/researchers/wilson-g-mendoza-a5042774/"
 layout: "researcher"
 hiddenInHomeList: true

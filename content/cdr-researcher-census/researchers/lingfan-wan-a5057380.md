@@ -1,7 +1,7 @@
 ---
 title: "Lingfan Wan"
 description: "Lingfan Wan is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 33 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.551248
+date: 2026-10-11T02:32:59.566267
 url: "/cdr-researcher-census/researchers/lingfan-wan-a5057380/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Optimizing grazing exclusion duration for carbon sequestration in grasslands: Incorporating temporal heterogeneity of aboveground biomass and soil organic carbon** (2024)
-   24 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 2. **Global Meta‐Analysis Reveals the Responses of Carbon Cycle to Grazing Exclusion in Grasslands** (2025)
-   2 citations · General CDR
+   3 citations · General CDR
 
 3. **Optimizing cropping patterns under emission reduction constraints: Balancing food production, carbon sequestration, and profit** (2026)
    0 citations · General CDR

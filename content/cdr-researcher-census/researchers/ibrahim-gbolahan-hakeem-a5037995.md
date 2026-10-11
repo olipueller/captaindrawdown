@@ -1,7 +1,7 @@
 ---
 title: "Ibrahim Gbolahan Hakeem"
 description: "Ibrahim Gbolahan Hakeem is a Mid-career Biochar researcher at RMIT University in AU. With 50 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.223249
+date: 2026-10-11T02:32:59.226777
 url: "/cdr-researcher-census/researchers/ibrahim-gbolahan-hakeem-a5037995/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    24 citations · Biochar
 
 3. **The pyrolysis of biosolids in a novel fluidized bed heat exchanger reactor: Pilot plant trials, biochar properties, gas emissions testing, and fate of PFAS** (2025)
-   2 citations · Biochar
+   3 citations · Biochar
 
 4. **Chemical vapour deposition of biogas over biosolids biochar catalyst: Effects of operating conditions, process modelling, and techno-economic assessment** (2026)
    0 citations · Biochar

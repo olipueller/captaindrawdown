@@ -1,7 +1,7 @@
 ---
 title: "Faiz Almansour"
 description: "Faiz Almansour is a Mid-career DAC researcher at Innovation Research Center in US. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.798490
+date: 2026-10-11T02:32:59.822662
 url: "/cdr-researcher-census/researchers/faiz-almansour-a5027781/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,14 +50,14 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Top CDR Publications
 
-1. **High-capacity and rechargeable zeolite-templated carbon for direct air capture of CO2** (2026)
-   1 citations · DAC
+1. **Resolving mass-transfer limitations in direct air capture (400 ppm CO2): Insights from TGA, fixed-bed/MS, and static volumetric measurements** (2026)
+   3 citations · DAC
 
-2. **Resolving mass-transfer limitations in direct air capture (400 ppm CO2): Insights from TGA, fixed-bed/MS, and static volumetric measurements** (2026)
-   1 citations · DAC
+2. **Quantitative analysis of temperature-dependent transition of CO2 adsorption mechanisms by adsorbents – From enthalpy-driven interactions to pore-filling capture** (2026)
+   2 citations
 
-3. **Quantitative analysis of temperature-dependent transition of CO2 adsorption mechanisms by adsorbents – From enthalpy-driven interactions to pore-filling capture** (2026)
-   1 citations
+3. **High-capacity and rechargeable zeolite-templated carbon for direct air capture of CO2** (2026)
+   1 citations · DAC
 
 4. **Structure-dependent ion spatial distribution enables energy-efficient direct air capture using electrochemically modified carbon** (2026)
    0 citations · DAC

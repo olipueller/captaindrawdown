@@ -1,7 +1,7 @@
 ---
 title: "Hairong Shen"
 description: "Hairong Shen is a Mid-career Biochar researcher at Shenzhen Pingle Orthopedic Hospital in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.138146
+date: 2026-10-11T02:33:00.168566
 url: "/cdr-researcher-census/researchers/hairong-shen-a5048422/"
 layout: "researcher"
 hiddenInHomeList: true

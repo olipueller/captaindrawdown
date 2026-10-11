@@ -1,7 +1,7 @@
 ---
 title: "Hassan Shokry"
 description: "Hassan Shokry is a Senior Biochar researcher at Egypt-Japan University of Science and Technology in EG. With 99 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.098978
+date: 2026-10-11T02:32:59.103526
 url: "/cdr-researcher-census/researchers/hassan-shokry-a5058291/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,25 +51,31 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biosorption of Congo Red dye from aqueous solutions using pristine biochar and ZnO biochar from green pea peels** (2022)
-   118 citations · Biochar
+   119 citations · Biochar
 
 2. **Effective decontamination of methylene blue from aqueous solutions using novel nano-magnetic biochar from green pea peels** (2023)
    47 citations · Biochar
 
 3. **Green approach for fabricating hybrids of food waste-derived biochar/zinc oxide for effective degradation of bromothymol blue dye in a photocatalysis/persulfate activation system** (2024)
-   23 citations · Biochar
+   25 citations · Biochar
 
 4. **Effective degradation of synthetic micropollutants and real textile wastewater via a visible light-activated persulfate system using novel spinach leaf-derived biochar** (2024)
-   21 citations · Biochar
+   23 citations · Biochar
 
 5. **Sustainable utilization of plastic-derived graphene for tetracycline wastewater treatment and its recycling for biogas and biochar production** (2024)
-   13 citations · Biochar
+   14 citations · Biochar
 
 6. **Efficient oxidative degradation of organic pollutants in real industrial effluents using a green-synthesized magnetite supported on biochar catalyst** (2025)
-   8 citations · Biochar
+   10 citations · Biochar
 
 7. **Courgette Biochar-Activated Periodate System for Efficient Atrazine Degradation: Optimization, Kinetics, Effect of Coexisting Substances, and Real Wastewater Application** (2025)
-   3 citations · Biochar
+   4 citations · Biochar
+
+8. **Dual-Stage Response Surface Methodology Optimization of Sugarcane Bagasse Biochar Production and Methylene Blue Adsorption** (2026)
+   1 citations · Biochar
+
+9. **Biosorption of Congo Red dye from aqueous solutions using pristine biochar and ZnO biochar from green pea peels** (2023)
+   0 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Marcelo Panichini"
 description: "Marcelo Panichini is a Senior Soil Carbon researcher at Instituto de Investigaciones Agropecuarias in CL. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.410562
+date: 2026-10-11T02:32:59.419915
 url: "/cdr-researcher-census/researchers/marcelo-panichini-a5052229/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · General CDR
 
 3. **How Natural Regeneration After Severe Disturbance Affects Ecosystem Services Provision of Andean Forest Soils at Contrasting Timescales** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 4. **Impact of Post-Disturbance Null Management at Contrasting Regeneration Stages on Microbial Communities, Carbon Sequestration and Physico-Chemical Properties in Native Andean Forest Soils** (2024)
    0 citations · Soil Carbon

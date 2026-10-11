@@ -1,7 +1,7 @@
 ---
 title: "Weiqi Li"
 description: "Weiqi Li is a Mid-career Biochar researcher at Shenzhen Baoan High School Group in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.716237
+date: 2026-10-11T02:32:59.737374
 url: "/cdr-researcher-census/researchers/weiqi-li-a5100651/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **N self-doping hierarchical porous biochar from Chinese medicine residues for efficient removal of malachite green: Critical contribution of N doping to π-π electron donor-donor interactions** (2024)
-   19 citations · Biochar
+   20 citations · Biochar
 
 ## External Profiles
 

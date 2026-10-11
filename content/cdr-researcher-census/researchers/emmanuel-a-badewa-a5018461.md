@@ -1,7 +1,7 @@
 ---
 title: "Emmanuel A. Badewa"
 description: "Emmanuel A. Badewa is a Mid-career Soil Carbon researcher at University College of the North in CA. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.375366
+date: 2026-10-11T02:33:00.410812
 url: "/cdr-researcher-census/researchers/emmanuel-a-badewa-a5018461/"
 layout: "researcher"
 hiddenInHomeList: true

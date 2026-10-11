@@ -1,7 +1,7 @@
 ---
 title: "Yifei Yang"
 description: "Yifei Yang is a Mid-career Enhanced Weathering researcher at Tongji University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.016548
+date: 2026-10-11T02:33:00.047444
 url: "/cdr-researcher-census/researchers/yifei-yang-a5111057/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,11 +47,11 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 ## Top CDR Publications
 
-1. **Machine Learning-Based Prediction and Optimization of Heavy Metal Adsorption Performance of Biochar** (2026)
-   0 citations · Biochar
+1. **Human Activities Induced Stronger Silicate Weathering in the Red River Basin: A Growing Carbon Sink During the Late Holocene** (2025)
+   1 citations · Enhanced Weathering
 
-2. **Human Activities Induced Stronger Silicate Weathering in the Red River Basin: A Growing Carbon Sink During the Late Holocene** (2025)
-   0 citations · Enhanced Weathering
+2. **Machine Learning-Based Prediction and Optimization of Heavy Metal Adsorption Performance of Biochar** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

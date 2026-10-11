@@ -1,7 +1,7 @@
 ---
 title: "Muhammad M. Habib"
 description: "Muhammad M. Habib is a Mid-career Soil Carbon researcher at University of Abou Bekr Belkaïd in DZ. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.196352
+date: 2026-10-11T02:33:00.226495
 url: "/cdr-researcher-census/researchers/muhammad-m-habib-a5086419/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiaohong Guo"
 description: "Xiaohong Guo is an Early-career Soil Carbon researcher at University of Science and Technology of China in CN. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.357189
+date: 2026-10-11T02:33:00.392123
 url: "/cdr-researcher-census/researchers/xiaohong-guo-a5111120/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Response of Soil Organic Carbon and Bacterial Community to Amendments in Saline‐Alkali Soils of the Yellow River Delta** (2025)
-   89 citations · Soil Carbon
+   97 citations · Soil Carbon
 
 2. **Straw plus straw interlayer alter soil organic carbon and bacterial community in a saline-alkali soil from the Yellow River Delta** (2026)
-   6 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 3. **Film mulching and organic fertilizer improve soil quality and maize yield in saline-alkali soils by enhancing soil organic carbon fractions and modulating microbial community structure** (2026)
    1 citations

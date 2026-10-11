@@ -1,7 +1,7 @@
 ---
 title: "Zeyang Liu"
 description: "Zeyang Liu is a Mid-career Enhanced Weathering researcher at Huazhong Agricultural University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.052204
+date: 2026-10-11T02:33:00.083041
 url: "/cdr-researcher-census/researchers/zeyang-liu-a5029844/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Changes in continental weathering across the Permian-Triassic transition: A global review** (2025)
-   4 citations · Enhanced Weathering
+   5 citations · Enhanced Weathering
 
 ## External Profiles
 

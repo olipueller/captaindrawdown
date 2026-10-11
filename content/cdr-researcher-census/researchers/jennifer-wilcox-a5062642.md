@@ -1,7 +1,7 @@
 ---
 title: "Jennifer Wilcox"
 description: "Jennifer Wilcox is an Eminent General CDR researcher at University of Pennsylvania in US. With 219 publications and an h-index of 63, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.017754
+date: 2026-10-11T02:32:59.020898
 url: "/cdr-researcher-census/researchers/jennifer-wilcox-a5062642/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,33 +51,33 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A review of direct air capture (DAC): scaling up commercial technologies and innovating for the future** (2021)
-   715 citations · DAC
+   709 citations · DAC
 
 2. **Environmental trade-offs of direct air capture technologies in climate change mitigation toward 2100** (2022)
    158 citations · DAC
 
 3. **Atmospheric methane removal: a research agenda** (2021)
-   128 citations · General CDR
+   123 citations · General CDR
 
 4. **Natural Gas vs. Electricity for Solvent-Based Direct Air Capture** (2021)
-   90 citations
+   88 citations
 
 5. **An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage** (2025)
-   45 citations · General CDR
+   54 citations · General CDR
 
 6. **The promise of scalable direct air capture** (2021)
-   24 citations
+   25 citations
 
 7. **Direct Air Capture: Resource Considerations and Costs for Carbon Removal** (2021)
    10 citations · DAC
 
 8. **Advancing geothermal energy utilization opportunities: potential and strategies for integrating direct air capture** (2025)
-   8 citations · DAC
+   9 citations · DAC
 
-9. **Specialty grand challenge: renaming our section to “Carbon Dioxide Removal”** (2023)
-   6 citations · General CDR
+9. **Assessment of the carbon abatement and removal opportunities of the Arabian Gulf Countries** (2021)
+   8 citations · General CDR
 
-10. **Assessment of the carbon abatement and removal opportunities of the Arabian Gulf Countries** (2021)
+10. **Specialty grand challenge: renaming our section to “Carbon Dioxide Removal”** (2023)
    6 citations · General CDR
 
 ## External Profiles

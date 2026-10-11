@@ -1,7 +1,7 @@
 ---
 title: "Xiao Zhu"
 description: "Xiao Zhu is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.697160
+date: 2026-10-11T02:32:59.717605
 url: "/cdr-researcher-census/researchers/xiao-zhu-a5002387/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Contrasting effects of straw and straw-derived biochar applications on soil carbon accumulation and nitrogen use efficiency in double-rice cropping systems** (2021)
-   184 citations · Biochar
+   183 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Clair Gough"
 description: "Clair Gough is a Senior General CDR researcher at The University of Manchester in GB. With 89 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.067148
+date: 2026-10-11T02:32:59.071685
 url: "/cdr-researcher-census/researchers/clair-gough-a5052404/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The greenhouse gas removal potential of bioenergy with carbon capture and storage (BECCS) to support the UK's net-zero emission target** (2021)
-   112 citations · BECCS
+   110 citations · BECCS
 
 2. **Bringing greenhouse gas removal down to earth: Stakeholder supply chain appraisals reveal complex challenges** (2021)
    27 citations · BECCS

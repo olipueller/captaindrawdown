@@ -1,7 +1,7 @@
 ---
 title: "Jalil Shadbahr"
 description: "Jalil Shadbahr is a Mid-career General CDR researcher at National Research Council Canada in CA. With 24 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.526805
+date: 2026-10-11T02:32:59.540743
 url: "/cdr-researcher-census/researchers/jalil-shadbahr-a5018526/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zhan Shi"
 description: "Zhan Shi is a Mid-career Soil Carbon researcher at University of Padua in IT. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.573792
+date: 2026-10-11T02:32:59.589487
 url: "/cdr-researcher-census/researchers/zhan-shi-a5076914/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biogas slurry purification-lettuce growth nexus: Nutrients absorption and pollutants removal** (2023)
-   24 citations
+   26 citations
 
 2. **Optimal soil organic matter mapping using an ensemble model incorporating moderate resolution imaging spectroradiometer, portable X-ray fluorescence, and visible near-infrared data** (2023)
-   22 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 3. **Optimizing fertilization strategies for low-carbon agriculture: Balancing greenhouse gas mitigation, soil health, and productivity** (2025)
-   12 citations · Biochar
+   13 citations · Biochar
 
 4. **Application of carbon biological sequestration technology in CCUS: Potential and optimization strategies for inorganic carbon absorption by plant root and CO2 carriers by biogas slurry** (2025)
    8 citations · Biochar

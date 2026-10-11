@@ -1,7 +1,7 @@
 ---
 title: "Feifan Zhao"
 description: "Feifan Zhao is a Mid-career Biochar researcher at Shandong University of Aeronautics in CN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.499720
+date: 2026-10-11T02:32:59.512080
 url: "/cdr-researcher-census/researchers/feifan-zhao-a5027039/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Interfacial stabilization of alkali metal oxides on carbon spheres for high-performance CO2 chemisorption** (2025)
-   3 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

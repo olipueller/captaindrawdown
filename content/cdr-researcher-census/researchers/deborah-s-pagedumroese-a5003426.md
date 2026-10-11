@@ -1,7 +1,7 @@
 ---
 title: "Deborah S. Page‐Dumroese"
 description: "Deborah S. Page‐Dumroese is a Senior Biochar researcher at US Department of Agriculture Forest Service in US. With 198 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.059300
+date: 2026-10-11T02:32:59.063623
 url: "/cdr-researcher-census/researchers/deborah-s-pagedumroese-a5003426/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Role of biochar made from low‐value woody forest residues in ecological sustainability and carbon neutrality** (2024)
-   22 citations · Biochar
+   24 citations · Biochar
 
 2. **Biochar Utilization as a Forestry Climate-Smart Tool** (2024)
-   22 citations · Biochar
+   23 citations · Biochar
 
 3. **Forest management and biochar for continued ecosystem services** (2022)
-   21 citations · Biochar
+   20 citations · Biochar
 
 4. **Decreasing the urban carbon footprint with woody biomass biochar in the united states of america** (2023)
    5 citations · Biochar

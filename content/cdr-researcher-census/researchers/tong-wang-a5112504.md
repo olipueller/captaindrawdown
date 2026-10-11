@@ -1,7 +1,7 @@
 ---
 title: "Tong Wang"
 description: "Tong Wang is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.901133
+date: 2026-10-11T02:32:59.930443
 url: "/cdr-researcher-census/researchers/tong-wang-a5112504/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,15 +51,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Improving the microenvironment of tracking photovoltaic systems promotes soil organic carbon accumulation by mediating plant carbon inputs and microbial necromass retention** (2025)
-   16 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 2. **Soil microbial metabolic strategies and the imbalance between available phosphorus and nitrogen controls the root exudate-induced priming effect by grassland tumbleweed (Cleistogenes squarrosa and Saposhnikovia divaricata) root exudates** (2026)
-   3 citations
+   4 citations
 
-3. **Synergistic mechanism of Bio-based sulfonate liquid in regulating organic carbon degradation and sequestration in calcareous soils** (2025)
+3. **Tumbleweeds mitigate loss of native soil carbon and promote new soil carbon formation in degraded grasslands** (2026)
+   0 citations
+
+4. **Synergistic mechanism of Bio-based sulfonate liquid in regulating organic carbon degradation and sequestration in calcareous soils** (2025)
    0 citations · Soil Carbon
 
-4. **Analysis of the Phosphorus Mobilization, Uptake, Transport, and Utilization Processes of Dominant C3 and C4 Grasses in a Grassland in Northern China Based on a Conceptual Phosphorus–Carbon Economy System** (2025)
+5. **Analysis of the Phosphorus Mobilization, Uptake, Transport, and Utilization Processes of Dominant C3 and C4 Grasses in a Grassland in Northern China Based on a Conceptual Phosphorus–Carbon Economy System** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

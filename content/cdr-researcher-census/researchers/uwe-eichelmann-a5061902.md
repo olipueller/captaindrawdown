@@ -1,7 +1,7 @@
 ---
 title: "Uwe Eichelmann"
 description: "Uwe Eichelmann is a Senior Soil Carbon researcher. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.116076
+date: 2026-10-11T02:32:59.120721
 url: "/cdr-researcher-census/researchers/uwe-eichelmann-a5061902/"
 layout: "researcher"
 hiddenInHomeList: true

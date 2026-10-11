@@ -1,7 +1,7 @@
 ---
 title: "Owais Ali Wani"
 description: "Owais Ali Wani is a Senior Soil Carbon researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir in IN. With 85 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.089991
+date: 2026-10-11T02:32:59.094554
 url: "/cdr-researcher-census/researchers/owais-ali-wani-a5039747/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,19 +48,28 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Multi-scale processes influencing global carbon storage and land-carbon-climate nexus: A critical review** (2022)
-   86 citations · General CDR
+   85 citations · General CDR
 
-2. **Prospects of the sugarcane industry in Fiji for carbon sequestration and environmental sustainability amidst changing climate: a critical overview** (2024)
+2. **Biochar for Food Security and Environmental Sustainability Under Current Climate Change Scenario** (2024)
+   5 citations · Biochar
+
+3. **Prospects of the sugarcane industry in Fiji for carbon sequestration and environmental sustainability amidst changing climate: a critical overview** (2024)
    3 citations · General CDR
-
-3. **Biochar for Food Security and Environmental Sustainability Under Current Climate Change Scenario** (2024)
-   2 citations · Biochar
 
 4. **Pyrolyzed and unpyrolyzed residues enhance maize yield under varying rates of application and fertilization regimes** (2024)
    2 citations · Biochar
 
 5. **Impact of Climate Change on Soil Carbon-Improving Farming Practices Reduces the Carbon Footprint** (2022)
    2 citations · Soil Carbon
+
+6. **Biochar and Pulse Yield Enhancement: Soil Improvement, Nutrient Dynamics, and Legume-Rhizobia Interactions** (2026)
+   0 citations · Biochar
+
+7. **Biochar’s Role in Soil Chemical Properties and Its Impact on Yield Enhancement** (2026)
+   0 citations · Biochar
+
+8. **Biochar and Cereal Yield Enhancement** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

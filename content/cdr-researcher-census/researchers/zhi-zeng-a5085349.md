@@ -1,7 +1,7 @@
 ---
 title: "Zhi Zeng"
 description: "Zhi Zeng is a Mid-career Biochar researcher at South China University of Technology in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.312626
+date: 2026-10-11T02:32:59.318164
 url: "/cdr-researcher-census/researchers/zhi-zeng-a5085349/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Degradation of Phenol by Immobilized Alcaligenes faecalis Strain JH1 in Fe3O4-Modified Biochar from Pharmaceutical Residues** (2023)
-   11 citations · Biochar
+   12 citations · Biochar
 
 ## External Profiles
 

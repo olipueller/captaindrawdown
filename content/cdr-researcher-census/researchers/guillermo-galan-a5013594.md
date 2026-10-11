@@ -1,7 +1,7 @@
 ---
 title: "Guillermo Galán"
 description: "Guillermo Galán is a Senior General CDR researcher at Universidad de Salamanca in ES. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.074425
+date: 2026-10-11T02:33:00.104773
 url: "/cdr-researcher-census/researchers/guillermo-galan-a5013594/"
 layout: "researcher"
 hiddenInHomeList: true

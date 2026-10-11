@@ -1,7 +1,7 @@
 ---
 title: "Khulakpam Apshahana"
 description: "Khulakpam Apshahana is an Early-career BECCS researcher at North Eastern Hill University in IN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.310581
+date: 2026-10-11T02:33:00.341409
 url: "/cdr-researcher-census/researchers/khulakpam-apshahana-a5055522/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Biomass Production and Carbon Sequestration Potential of Different Agroforestry Systems in India: A Critical Review** (2022)
-   101 citations · BECCS
+   103 citations · BECCS
 
 2. **Bamboo-based agroforestry systems: a nature-based solution for degraded land restoration** (2026)
-   0 citations
+   1 citations
 
 ## External Profiles
 

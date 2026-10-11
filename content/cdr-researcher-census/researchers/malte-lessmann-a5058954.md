@@ -1,7 +1,7 @@
 ---
 title: "Malte Lessmann"
 description: "Malte Lessmann is an Early-career Soil Carbon researcher at Wageningen University & Research in NL. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.722506
+date: 2026-10-11T02:32:59.743648
 url: "/cdr-researcher-census/researchers/malte-lessmann-a5058954/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Global variation in soil carbon sequestration potential through improved cropland management** (2021)
-   250 citations · General CDR
+   257 citations · General CDR
 
 ## External Profiles
 

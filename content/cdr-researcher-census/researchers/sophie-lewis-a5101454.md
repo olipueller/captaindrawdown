@@ -1,7 +1,7 @@
 ---
 title: "Sophie Lewis"
 description: "Sophie Lewis is a Mid-career General CDR researcher at Chulalongkorn University in TH. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.366203
+date: 2026-10-11T02:33:00.401927
 url: "/cdr-researcher-census/researchers/sophie-lewis-a5101454/"
 layout: "researcher"
 hiddenInHomeList: true

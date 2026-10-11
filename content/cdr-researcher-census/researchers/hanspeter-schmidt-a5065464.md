@@ -1,7 +1,7 @@
 ---
 title: "Hans‐Peter Schmidt"
 description: "Hans‐Peter Schmidt is an Eminent Biochar researcher at Ithaka Institute in CH. With 200 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.028017
+date: 2026-10-11T02:32:59.031076
 url: "/cdr-researcher-census/researchers/hanspeter-schmidt-a5065464/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar in agriculture – A systematic review of 26 global meta‐analyses** (2021)
-   480 citations · Biochar
+   491 citations · Biochar
 
 2. **Wood Ash as an Additive in Biomass Pyrolysis: Effects on Biochar Yield, Properties, and Agricultural Performance** (2022)
    62 citations · Biochar
 
-3. **Low tech biochar production could be a highly effective nature-based solution for climate change mitigation in the developing world** (2021)
+3. **Biochar Permanence—A Policy Commentary** (2025)
+   16 citations · Biochar
+
+4. **Low tech biochar production could be a highly effective nature-based solution for climate change mitigation in the developing world** (2021)
    15 citations · Biochar
 
-4. **Real wastewater micropollutant removal by wood waste biomass biochars: A mechanistic interpretation related to various biochar physico-chemical properties** (2022)
-   13 citations · Biochar
-
-5. **Biochar Permanence—A Policy Commentary** (2025)
-   12 citations · Biochar
+5. **Real wastewater micropollutant removal by wood waste biomass biochars: A mechanistic interpretation related to various biochar physico-chemical properties** (2022)
+   14 citations · Biochar
 
 6. **Proxies for use in biochar decay models: Hydropyrolysis, electric conductivity, and H/Corg molar ratio** (2025)
    9 citations · Biochar

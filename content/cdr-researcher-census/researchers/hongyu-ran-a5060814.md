@@ -1,7 +1,7 @@
 ---
 title: "Hongyu Ran"
 description: "Hongyu Ran is a Senior Soil Carbon researcher at Chongqing Jiaotong University in CN. With 39 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.365301
+date: 2026-10-11T02:32:59.372590
 url: "/cdr-researcher-census/researchers/hongyu-ran-a5060814/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Conservation tillage facilitated soil carbon sequestration through diversified carbon conversions** (2022)
-   63 citations · Soil Carbon
+   65 citations · Soil Carbon
 
 2. **Short-term nutrient addition increases soil organic carbon accumulation in tropical forest** (2025)
    5 citations · Soil Carbon

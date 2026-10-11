@@ -1,7 +1,7 @@
 ---
 title: "Bo-jie Wang"
 description: "Bo-jie Wang is a Senior Soil Carbon researcher at Ministry of Education of the People's Republic of China in CN. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.365095
+date: 2026-10-11T02:33:00.400837
 url: "/cdr-researcher-census/researchers/bo-jie-wang-a5028876/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Rajesh Agnihorti"
 description: "Rajesh Agnihorti is a Mid-career Soil Carbon researcher at Birbal Sahni Institute of Palaeosciences in IN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.127777
+date: 2026-10-11T02:33:00.158010
 url: "/cdr-researcher-census/researchers/rajesh-agnihorti-a5063588/"
 layout: "researcher"
 hiddenInHomeList: true

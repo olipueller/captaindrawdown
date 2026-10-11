@@ -1,7 +1,7 @@
 ---
 title: "Enze Song"
 description: "Enze Song is a Mid-career Biochar researcher at HUN-REN Centre for Ecological Research in HU. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.292475
+date: 2026-10-11T02:33:00.322693
 url: "/cdr-researcher-census/researchers/enze-song-a5109672/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effects of Biochar on Soil Organic Carbon in Relation to Soil Nutrient Contents, Climate Zones and Cropping Systems: A Chinese Meta-Analysis** (2024)
-   10 citations · Biochar
+   11 citations · Biochar
 
 ## External Profiles
 

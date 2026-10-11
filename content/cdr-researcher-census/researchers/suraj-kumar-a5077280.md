@@ -1,7 +1,7 @@
 ---
 title: "Suraj Kumar"
 description: "Suraj Kumar is a Mid-career Enhanced Weathering researcher at Indian Institute of Technology Madras in IN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.064625
+date: 2026-10-11T02:33:00.094802
 url: "/cdr-researcher-census/researchers/suraj-kumar-a5077280/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    40 citations
 
 2. **Basalt-Based EnhancedRock Weathering for Long-TermCO2 Storage: Insights from Mineral Carbonation Experiments** (2026)
-   0 citations · Enhanced Weathering
+   1 citations · Enhanced Weathering
 
 ## External Profiles
 

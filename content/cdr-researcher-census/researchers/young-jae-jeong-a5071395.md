@@ -1,7 +1,7 @@
 ---
 title: "Young-Jae Jeong"
 description: "Young-Jae Jeong is a Mid-career Soil Carbon researcher at Rural Development Administration in KR. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.751691
+date: 2026-10-11T02:32:59.774148
 url: "/cdr-researcher-census/researchers/young-jae-jeong-a5071395/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil salinity, fertility and carbon content, and rice yield of salt-affected paddy with different cultivation period in southwestern coastal area of South Korea** (2021)
-   38 citations · Soil Carbon
+   37 citations · Soil Carbon
 
 2. **Effect of fertilizer and food waste compost on soil carbon, nitrogen use efficiency, and yield of Chinese cabbage (Brassica Rapa L.)** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

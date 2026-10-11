@@ -1,7 +1,7 @@
 ---
 title: "Zhongqing Fan"
 description: "Zhongqing Fan is a Senior Biochar researcher at Soil and Fertilizer Institute of Hunan Province in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.289999
+date: 2026-10-11T02:33:00.320064
 url: "/cdr-researcher-census/researchers/zhongqing-fan-a5102496/"
 layout: "researcher"
 hiddenInHomeList: true

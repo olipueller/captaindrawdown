@@ -1,7 +1,7 @@
 ---
 title: "Marina M. Atilano-Camino"
 description: "Marina M. Atilano-Camino is a Mid-career Biochar researcher at Universidad de Sonora in MX. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.080967
+date: 2026-10-11T02:33:00.111227
 url: "/cdr-researcher-census/researchers/marina-m-atilano-camino-a5086146/"
 layout: "researcher"
 hiddenInHomeList: true

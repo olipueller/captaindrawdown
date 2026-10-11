@@ -1,7 +1,7 @@
 ---
 title: "Joe Johnson"
 description: "Joe Johnson is a Senior Soil Carbon researcher at Mitchell Institute in US. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.254108
+date: 2026-10-11T02:33:00.283848
 url: "/cdr-researcher-census/researchers/joe-johnson-a5084455/"
 layout: "researcher"
 hiddenInHomeList: true

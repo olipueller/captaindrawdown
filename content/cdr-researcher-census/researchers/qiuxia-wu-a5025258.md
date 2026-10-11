@@ -1,7 +1,7 @@
 ---
 title: "Qiuxia Wu"
 description: "Qiuxia Wu is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.021157
+date: 2026-10-11T02:33:00.052574
 url: "/cdr-researcher-census/researchers/qiuxia-wu-a5025258/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Partitioning of root, litter and microbial respiration by plant input manipulation in forests** (2023)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 ## External Profiles
 

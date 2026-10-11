@@ -1,7 +1,7 @@
 ---
 title: "Erin J. Daly"
 description: "Erin J. Daly is a Senior Soil Carbon researcher at University of Guelph in CA. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.697813
+date: 2026-10-11T02:32:59.718196
 url: "/cdr-researcher-census/researchers/erin-j-daly-a5042202/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic matter pools response to perennial grain cropping and nitrogen fertilizer** (2022)
-   51 citations · Soil Carbon
+   52 citations · Soil Carbon
 
 2. **Arbuscular mycorrhizal fungi community linkages to soil nutrient availability across contrasting agroecosystems** (2022)
    30 citations
 
 3. **Carbon and water dynamics of a perennial versus an annual grain crop in temperate agroecosystems** (2022)
-   23 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 ## External Profiles
 

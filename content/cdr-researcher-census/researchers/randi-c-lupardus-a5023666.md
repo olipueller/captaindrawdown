@@ -1,7 +1,7 @@
 ---
 title: "Randi C. Lupardus"
 description: "Randi C. Lupardus is a Mid-career Soil Carbon researcher at Bureau of Land Management in US. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.321580
+date: 2026-10-11T02:33:00.353860
 url: "/cdr-researcher-census/researchers/randi-c-lupardus-a5023666/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Dryland soil recovery after disturbance across soil and climate gradients of the Colorado Plateau** (2024)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

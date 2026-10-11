@@ -1,7 +1,7 @@
 ---
 title: "Yuwei Weng"
 description: "Yuwei Weng is a Mid-career BECCS researcher at Tsinghua University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.448259
+date: 2026-10-11T02:32:59.458934
 url: "/cdr-researcher-census/researchers/yuwei-weng-a5044770/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Evaluating the use of BECCS and afforestation under China’s carbon-neutral target for 2060** (2021)
-   187 citations · BECCS
+   185 citations · BECCS
 
 ## External Profiles
 

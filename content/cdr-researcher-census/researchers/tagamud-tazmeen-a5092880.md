@@ -1,7 +1,7 @@
 ---
 title: "Tagamud Tazmeen"
 description: "Tagamud Tazmeen is an Early-career Biochar researcher at National Institute of Technology Srinagar in IN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.384115
+date: 2026-10-11T02:33:00.420249
 url: "/cdr-researcher-census/researchers/tagamud-tazmeen-a5092880/"
 layout: "researcher"
 hiddenInHomeList: true

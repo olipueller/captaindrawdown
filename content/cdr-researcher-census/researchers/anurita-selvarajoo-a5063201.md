@@ -1,7 +1,7 @@
 ---
 title: "Anurita Selvarajoo"
 description: "Anurita Selvarajoo is a Senior Biochar researcher at University of Nottingham Malaysia Faculty of Engineering in MY. With 66 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.132341
+date: 2026-10-11T02:32:59.137141
 url: "/cdr-researcher-census/researchers/anurita-selvarajoo-a5063201/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    50 citations · Biochar
 
 2. **Energy-saving drying strategy of spent coffee grounds for co-firing fuel by adding biochar for carbon sequestration to approach net zero** (2022)
-   34 citations · Biochar
+   35 citations · Biochar
 
 3. **Potential green applications of biochar derived from biomass** (2022)
    8 citations · Biochar

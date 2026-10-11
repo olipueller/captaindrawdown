@@ -1,7 +1,7 @@
 ---
 title: "Xiaocui Liang"
 description: "Xiaocui Liang is a Mid-career Soil Carbon researcher at Central South University of Forestry and Technology in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.107360
+date: 2026-10-11T02:33:00.137914
 url: "/cdr-researcher-census/researchers/xiaocui-liang-a5067462/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Temporal dynamics of microbial residues and their role in soil organic carbon sequestration across a chronosequence of Chinese fir plantations in subtropical China** (2026)
-   1 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 2. **Optimized Fertilization Balances Microbial Carbon and Nitrogen Use Efficiency: Evidence From Microbial Communities** (2026)
    0 citations · Soil Carbon

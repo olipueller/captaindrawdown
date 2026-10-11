@@ -1,7 +1,7 @@
 ---
 title: "Simone Marzeddu"
 description: "Simone Marzeddu is a Mid-career Biochar researcher at Istituto Superiore per la Protezione e la Ricerca Ambientale in IT. With 21 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.538442
+date: 2026-10-11T02:32:59.553442
 url: "/cdr-researcher-census/researchers/simone-marzeddu-a5053325/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    89 citations · Biochar
 
 2. **A Life Cycle Assessment of an Energy-Biochar Chain Involving a Gasification Plant in Italy** (2021)
-   62 citations · Biochar
+   63 citations · Biochar
 
 3. **LCA Sensitivity Analysis of an Energy-Biochar Chain from an Italian Gasification Plant: Environmental Trade-offs Assessment** (2023)
    3 citations · Biochar

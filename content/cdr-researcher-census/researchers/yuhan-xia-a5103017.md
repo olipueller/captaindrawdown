@@ -1,7 +1,7 @@
 ---
 title: "Yuhan Xia"
 description: "Yuhan Xia is a Mid-career Soil Carbon researcher at North Sichuan Medical University in CN. With 53 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.153507
+date: 2026-10-11T02:32:59.157751
 url: "/cdr-researcher-census/researchers/yuhan-xia-a5103017/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,13 +53,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Optimal rate of biochar application has positive effects on soil functional microbial abundance and agroecological function in a black soil of Northeast China** (2025)
    2 citations · Biochar
 
-2. **Magnetic separation reveals overestimation of soil organic matter due to undecomposed particulate residues** (2025)
+2. **Distribution of soil organic carbon in root zones at different distances from the maize basal stem axis and its response to organic materials** (2026)
    0 citations
 
-3. **Distribution of Soil Organic Carbon in Root Zones at Different Distances from the Central Axis of Maize Rhizomes and Its Response to the Regulation of Organic Material** (2025)
+3. **Operational POM increases are over-interpreted as SOM stabilization:quantifying untransformed straw and biochar residues via magnetic separation** (2026)
+   0 citations · Biochar
+
+4. **Magnetic separation reveals overestimation of soil organic matter due to undecomposed particulate residues** (2025)
+   0 citations
+
+5. **Distribution of Soil Organic Carbon in Root Zones at Different Distances from the Central Axis of Maize Rhizomes and Its Response to the Regulation of Organic Material** (2025)
    0 citations · Soil Carbon
 
-4. **Effects of Biochar on the Diversity and Potential Functions of Soil Microbial Communities in a Black Soil of Northeast China** (2023)
+6. **Effects of Biochar on the Diversity and Potential Functions of Soil Microbial Communities in a Black Soil of Northeast China** (2023)
    0 citations · Biochar
 
 ## External Profiles

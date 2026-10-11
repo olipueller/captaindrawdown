@@ -1,7 +1,7 @@
 ---
 title: "Vasileios Gkisakis"
 description: "Vasileios Gkisakis is a Senior Soil Carbon researcher at Hellenic Aerospace Industry (Greece) in GR. With 25 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.591155
+date: 2026-10-11T02:32:59.607968
 url: "/cdr-researcher-census/researchers/vasileios-gkisakis-a5075674/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Cover Crops for Carbon Mitigation and Biodiversity Enhancement: A Case Study of an Olive Grove in Messinia, Greece** (2025)
-   5 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 2. **Soil Organic Carbon Stocks and Saturation Deficit in Mediterranean Olive Groves: Effects of Intensification and Management Practices** (2026)
    0 citations · Soil Carbon

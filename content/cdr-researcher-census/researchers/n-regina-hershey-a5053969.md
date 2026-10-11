@@ -1,7 +1,7 @@
 ---
 title: "N. Regina Hershey"
 description: "N. Regina Hershey is a Mid-career Soil Carbon researcher at Cochin University of Science and Technology in IN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.274468
+date: 2026-10-11T02:33:00.304466
 url: "/cdr-researcher-census/researchers/n-regina-hershey-a5053969/"
 layout: "researcher"
 hiddenInHomeList: true

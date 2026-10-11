@@ -1,7 +1,7 @@
 ---
 title: "Tarit Kumar Baul"
 description: "Tarit Kumar Baul is a Senior Soil Carbon researcher at University of Eastern Finland in FI. With 54 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.324052
+date: 2026-10-11T02:32:59.329668
 url: "/cdr-researcher-census/researchers/tarit-kumar-baul-a5076979/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,12 +51,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon stocks of homestead forests have a mitigation potential to climate change in Bangladesh** (2021)
-   23 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 2. **Role of Homestead Forests in Adaptation to Climate Change: A Study on Households’ Perceptions and Relevant Factors in Bandarban Hill District, Bangladesh** (2022)
    14 citations · Soil Carbon
 
-3. **Homegardens in the Crises of Climate Change, Biodiversity Conservation and Gender Equity** (2025)
+3. **Effects of stand structure on ecosystem carbon stocks in woodlot plantation, riparian, and coastal forests in southeastern Bangladesh** (2026)
+   0 citations · Soil Carbon
+
+4. **Homegardens in the Crises of Climate Change, Biodiversity Conservation and Gender Equity** (2025)
    0 citations · General CDR
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Xiaofeng Bu"
 description: "Xiaofeng Bu is a Mid-career Soil Carbon researcher at Forestry Commission in ZW. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.394700
+date: 2026-10-11T02:33:00.432107
 url: "/cdr-researcher-census/researchers/xiaofeng-bu-a5066224/"
 layout: "researcher"
 hiddenInHomeList: true

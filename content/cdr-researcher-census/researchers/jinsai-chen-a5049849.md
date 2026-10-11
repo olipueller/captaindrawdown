@@ -1,7 +1,7 @@
 ---
 title: "Jinsai Chen"
 description: "Jinsai Chen is a Mid-career Soil Carbon researcher at Beijing Academy of Agriculture and Forestry Sciences in CN. With 26 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.414200
+date: 2026-10-11T02:32:59.424104
 url: "/cdr-researcher-census/researchers/jinsai-chen-a5049849/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Greenhouse gas emissions from the wheat-maize cropping system under different tillage and crop residue management practices in the North China Plain** (2022)
-   47 citations · Soil Carbon
+   48 citations · Soil Carbon
 
 2. **Effects of tillage and straw management on grain yield and SOC storage in a wheat-maize cropping system** (2022)
    38 citations · Soil Carbon
 
 3. **Effects of conservation agriculture on carbon mineralization: A global meta-analysis** (2023)
-   34 citations · Soil Carbon
+   36 citations · Soil Carbon
 
 4. **From growth to decline: The dynamic effects of maize-based cropping systems on soil organic carbon storage in Northeast China** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 5. **Unraveling carbon mineralization patterns and mechanisms in conservation agriculture: A global synthesis and multi-point experiment** (2025)
    5 citations · Soil Carbon

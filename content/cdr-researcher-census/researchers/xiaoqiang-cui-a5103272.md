@@ -1,7 +1,7 @@
 ---
 title: "Xiaoqiang Cui"
 description: "Xiaoqiang Cui is a Senior Biochar researcher at Tianjin University in CN. With 79 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.065902
+date: 2026-10-11T02:32:59.070444
 url: "/cdr-researcher-census/researchers/xiaoqiang-cui-a5103272/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    93 citations · Biochar
 
 2. **Catalytic pyrolysis of biogas residues with incineration bottom ash by TG-MS: Kinetics analysis and biochar stability** (2022)
-   35 citations · Biochar
+   34 citations · Biochar
 
 3. **Pyrolysis of exhausted hydrochar sorbent for cadmium separation and biochar regeneration** (2022)
    29 citations · Biochar

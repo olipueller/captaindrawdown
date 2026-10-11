@@ -1,7 +1,7 @@
 ---
 title: "David Quiroz"
 description: "David Quiroz is a Mid-career DAC researcher at Ohio University in US. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.717152
+date: 2026-10-11T02:32:59.738240
 url: "/cdr-researcher-census/researchers/david-quiroz-a5103256/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,6 +51,9 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **High-Alkalinity Algal Cultivation with Direct Air Capture: An Economic Feasibility Analysis** (2026)
+   0 citations · DAC
+
+2. **High-Alkalinity Algal Cultivation with Direct Air Capture: An Economic Feasibility Analysis** (2026)
    0 citations · DAC
 
 ## External Profiles

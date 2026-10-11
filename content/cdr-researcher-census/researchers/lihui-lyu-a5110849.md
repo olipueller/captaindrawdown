@@ -1,7 +1,7 @@
 ---
 title: "Lihui Lyu"
 description: "Lihui Lyu is a Mid-career Soil Carbon researcher at Institute of Soil Science in CN. With 13 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.755255
+date: 2026-10-11T02:32:59.777651
 url: "/cdr-researcher-census/researchers/lihui-lyu-a5110849/"
 layout: "researcher"
 hiddenInHomeList: true

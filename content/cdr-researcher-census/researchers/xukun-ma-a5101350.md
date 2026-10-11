@@ -1,7 +1,7 @@
 ---
 title: "Xukun Ma"
 description: "Xukun Ma is a Mid-career Biochar researcher at Shaoxing University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.343272
+date: 2026-10-11T02:33:00.378134
 url: "/cdr-researcher-census/researchers/xukun-ma-a5101350/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,11 +47,11 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Top CDR Publications
 
-1. **Facile design and construction for novel sequestrators via co–functionalization of Ti3AlC2 and biochar with nano-sized FeS in efficient selenite sequestration** (2025)
-   3 citations
+1. **Preparation of negative carbon cement soil by corn straw biochar collaborative carbonization technology: Mechanical properties, carbon sequestration evaluation, microscopic mechanism** (2026)
+   3 citations · Biochar
 
-2. **Preparation of negative carbon cement soil by corn straw biochar collaborative carbonization technology: Mechanical properties, carbon sequestration evaluation, microscopic mechanism** (2026)
-   2 citations · Biochar
+2. **Facile design and construction for novel sequestrators via co–functionalization of Ti3AlC2 and biochar with nano-sized FeS in efficient selenite sequestration** (2025)
+   3 citations
 
 3. **Evolution of properties and microstructure of recycled aggregate mortars containing rice husk biochar under CO2 curing** (2025)
    1 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Mahmudul Islam Piash"
 description: "Mahmudul Islam Piash is a Mid-career Biochar researcher at Hokkaido University in JP. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.840167
+date: 2026-10-11T02:32:59.866041
 url: "/cdr-researcher-census/researchers/mahmudul-islam-piash-a5056534/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Superior nutrient recovery and release by chicken manure-derived biochar over hydrochar and compost for soil fertilization** (2024)
-   14 citations · Biochar
+   17 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Quanming Hou"
 description: "Quanming Hou is an Early-career Soil Carbon researcher at Northwest Institute of Mechanical and Electrical Engineering in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.182714
+date: 2026-10-11T02:33:00.212533
 url: "/cdr-researcher-census/researchers/quanming-hou-a5032229/"
 layout: "researcher"
 hiddenInHomeList: true

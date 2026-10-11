@@ -1,7 +1,7 @@
 ---
 title: "Zhaoyang Shi"
 description: "Zhaoyang Shi is a Mid-career Enhanced Weathering researcher at Southwest Jiaotong University in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.006314
+date: 2026-10-11T02:33:00.037375
 url: "/cdr-researcher-census/researchers/zhaoyang-shi-a5101182/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Synergistic mineral-microbial regulation dominates mineral-associated organic carbon accrual by carbonate weathering** (2025)
-   0 citations · Enhanced Weathering
+   3 citations · Enhanced Weathering
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Yawouvi Dodji Soviadan"
 description: "Yawouvi Dodji Soviadan is a Mid-career Ocean CDR researcher at Centre National de la Recherche Scientifique in FR. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.137288
+date: 2026-10-11T02:33:00.167783
 url: "/cdr-researcher-census/researchers/yawouvi-dodji-soviadan-a5035081/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,16 +50,19 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 ## Top CDR Publications
 
-1. **Marine snow morphology drives sinking and attenuation in the ocean interior** (2024)
+1. **Marine snow morphology drives sinking and attenuation in the ocean interior** (2025)
+   5 citations · General CDR
+
+2. **Marine snow morphology drives sinking and attenuation in the ocean interior** (2024)
    2 citations · Ocean CDR
 
-2. **Reply on AC1** (2025)
+3. **Reply on AC1** (2025)
    0 citations · Ocean CDR
 
-3. **Reply on RC2** (2025)
+4. **Reply on RC2** (2025)
    0 citations · Ocean CDR
 
-4. **Reply on RC1** (2025)
+5. **Reply on RC1** (2025)
    0 citations · Ocean CDR
 
 ## External Profiles

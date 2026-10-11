@@ -1,7 +1,7 @@
 ---
 title: "Maimuna Binte Hasan Raisa"
 description: "Maimuna Binte Hasan Raisa is an Early-career General CDR researcher at Bangladesh University of Professionals in BD. With 3 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.356112
+date: 2026-10-11T02:33:00.391069
 url: "/cdr-researcher-census/researchers/maimuna-binte-hasan-raisa-a5115867/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Unravelling the effects of climate change on the soil-plant-atmosphere interactions: A critical review** (2025)
-   108 citations · General CDR
+   112 citations · General CDR
 
 ## External Profiles
 

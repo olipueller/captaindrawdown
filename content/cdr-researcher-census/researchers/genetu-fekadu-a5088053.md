@@ -1,7 +1,7 @@
 ---
 title: "Genetu Fekadu"
 description: "Genetu Fekadu is a Mid-career Soil Carbon researcher at Injibara University in ET. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.221656
+date: 2026-10-11T02:33:00.251955
 url: "/cdr-researcher-census/researchers/genetu-fekadu-a5088053/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Heterotrophic and autotrophic soil respiration under different land use types and soil depths: Insights from the Northwestern highlands of Ethiopia** (2026)
-   1 citations
+1. **Cover crops for soil carbon sequestration and sustainable agroecosystem: a review of ecological processes** (2026)
+   1 citations · Soil Carbon
 
-2. **Cover crops for soil carbon sequestration and sustainable agroecosystem: a review of ecological processes** (2026)
-   0 citations · Soil Carbon
+2. **Heterotrophic and autotrophic soil respiration under different land use types and soil depths: Insights from the Northwestern highlands of Ethiopia** (2026)
+   1 citations
 
 ## External Profiles
 

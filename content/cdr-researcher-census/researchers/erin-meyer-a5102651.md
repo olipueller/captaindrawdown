@@ -1,7 +1,7 @@
 ---
 title: "Erin Meyer"
 description: "Erin Meyer is a Mid-career Soil Carbon researcher at UMass Memorial Health Care in US. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.919388
+date: 2026-10-11T02:32:59.968524
 url: "/cdr-researcher-census/researchers/erin-meyer-a5102651/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Wanying Lei"
 description: "Wanying Lei is a Mid-career Soil Carbon researcher at Xi'an University of Architecture and Technology in CN. With 23 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.170468
+date: 2026-10-11T02:32:59.174552
 url: "/cdr-researcher-census/researchers/wanying-lei-a5103195/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    24 citations · Soil Carbon
 
 2. **Restoration of Chemical Structure of Soil Organic Matter Under Different Agricultural Practices from a Severely Degraded Mollisol** (2021)
-   12 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 3. **Long‐term grassland restoration exerts stronger impacts on the vertical distribution of labile over recalcitrant organic carbon fractions in Mollisols** (2022)
    9 citations · Soil Carbon

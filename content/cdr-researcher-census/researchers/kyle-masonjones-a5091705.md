@@ -1,7 +1,7 @@
 ---
 title: "Kyle Mason‐Jones"
 description: "Kyle Mason‐Jones is a Senior Soil Carbon researcher at Terrestrial Ecosystem Research Network in AU. With 61 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.113360
+date: 2026-10-11T02:32:59.118007
 url: "/cdr-researcher-census/researchers/kyle-masonjones-a5091705/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Formation of necromass-derived soil organic carbon determined by microbial death pathways** (2023)
-   426 citations · Soil Carbon
+   435 citations · Soil Carbon
 
 2. **Stability of iron-carbon complexes determines carbon sequestration efficiency in iron-rich soils** (2025)
-   17 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 3. **Grassland above- and below-ground inputs have similar effects on soil organic matter: A five-year field trial** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 4. **Microbial necromass ≠ microbial biomass: Microbial death pathways affect soil organic carbon sequestration** (2023)
    0 citations · Soil Carbon

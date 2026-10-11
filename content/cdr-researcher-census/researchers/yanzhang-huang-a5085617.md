@@ -1,7 +1,7 @@
 ---
 title: "Yanzhang Huang"
 description: "Yanzhang Huang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.652800
+date: 2026-10-11T02:32:59.671577
 url: "/cdr-researcher-census/researchers/yanzhang-huang-a5085617/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    28 citations · Soil Carbon
 
 2. **Ecosystem water use efficiency and carbon use efficiency respond oppositely to vegetation greening in China's Loess Plateau** (2025)
-   25 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 3. **Topsoil carbon sequestration of vegetation restoration on the Loess Plateau** (2022)
    21 citations · Soil Carbon
 
 4. **Afforestation Reduces Deep Soil Carbon Sequestration in Semiarid Regions: Lessons From Variations of Soil Water and Carbon Along Afforestation Stages in China's Loess Plateau** (2024)
-   15 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 ## External Profiles
 

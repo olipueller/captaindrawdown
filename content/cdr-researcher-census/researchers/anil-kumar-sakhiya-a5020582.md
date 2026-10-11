@@ -1,7 +1,7 @@
 ---
 title: "Anil Kumar Sakhiya"
 description: "Anil Kumar Sakhiya is a Mid-career Biochar researcher at Indian Institute of Technology Delhi in IN. With 26 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.187029
+date: 2026-10-11T02:32:59.191110
 url: "/cdr-researcher-census/researchers/anil-kumar-sakhiya-a5020582/"
 layout: "researcher"
 hiddenInHomeList: true

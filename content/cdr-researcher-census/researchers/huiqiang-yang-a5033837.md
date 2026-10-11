@@ -1,7 +1,7 @@
 ---
 title: "Huiqiang Yang"
 description: "Huiqiang Yang is a Mid-career Soil Carbon researcher at Kunming University of Science and Technology in CN. With 23 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.563403
+date: 2026-10-11T02:32:59.579224
 url: "/cdr-researcher-census/researchers/huiqiang-yang-a5033837/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon emissions and priming effects derived from crop residues and their responses to nitrogen inputs** (2024)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 2. **Freeze–Thaw Cycle Events Enable the Deep Disintegration of Biochar: Release of Dissolved Black Carbon and Its Structural-Dependent Carbon Sequestration Capacity** (2024)
-   19 citations · Biochar
+   20 citations · Biochar
 
 3. **Additional carbon conversion driven by microbial metabolic limitations in long-term phosphorus-fertilized soil: The role of reactive oxygen species** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

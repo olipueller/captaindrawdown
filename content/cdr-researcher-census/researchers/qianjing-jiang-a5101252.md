@@ -1,7 +1,7 @@
 ---
 title: "Qianjing Jiang"
 description: "Qianjing Jiang is a Mid-career Soil Carbon researcher at First Affiliated Hospital Zhejiang University in CN. With 66 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.325842
+date: 2026-10-11T02:32:59.331607
 url: "/cdr-researcher-census/researchers/qianjing-jiang-a5101252/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,13 +53,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **Maximizing the carbon sink function of paddy systems in China with machine learning** (2023)
    11 citations · Soil Carbon
 
-3. **Quantifying microbial necromass contributions to soil carbon sequestration under diverse cropland management practices: A meta-analysis** (2025)
+3. **Simulation of soil temperature under maize: An inter-comparison among 33 maize models** (2024)
+   10 citations
+
+4. **Quantifying microbial necromass contributions to soil carbon sequestration under diverse cropland management practices: A meta-analysis** (2025)
    9 citations · General CDR
 
-4. **Potential contribution of water management practices under intensive crop production to climate-change-associated global warming** (2024)
-   8 citations
-
-5. **Simulation of soil temperature under maize: An inter-comparison among 33 maize models** (2024)
+5. **Potential contribution of water management practices under intensive crop production to climate-change-associated global warming** (2024)
    8 citations
 
 6. **Cover crops potentially enhance soil organic carbon sequestration to offset greenhouse gas emissions without yield penalty towards net-zero rice agriculture** (2025)

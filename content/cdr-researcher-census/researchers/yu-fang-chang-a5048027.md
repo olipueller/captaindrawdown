@@ -1,7 +1,7 @@
 ---
 title: "Yu-Fang Chang"
 description: "Yu-Fang Chang is a Mid-career Biochar researcher at National Ilan University in TW. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.093380
+date: 2026-10-11T02:33:00.124066
 url: "/cdr-researcher-census/researchers/yu-fang-chang-a5048027/"
 layout: "researcher"
 hiddenInHomeList: true

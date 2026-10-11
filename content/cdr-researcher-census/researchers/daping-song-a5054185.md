@@ -1,7 +1,7 @@
 ---
 title: "Daping Song"
 description: "Daping Song is a Mid-career Soil Carbon researcher at Southwest University of Science and Technology in CN. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.607891
+date: 2026-10-11T02:32:59.625338
 url: "/cdr-researcher-census/researchers/daping-song-a5054185/"
 layout: "researcher"
 hiddenInHomeList: true

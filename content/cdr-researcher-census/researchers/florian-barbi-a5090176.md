@@ -1,7 +1,7 @@
 ---
 title: "Florian Barbi"
 description: "Florian Barbi is a Mid-career Soil Carbon researcher at Swedish University of Agricultural Sciences in SE. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.630171
+date: 2026-10-11T02:32:59.648796
 url: "/cdr-researcher-census/researchers/florian-barbi-a5090176/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Phosphorus limitation promotes soil carbon storage in a boreal forest exposed to long‐term nitrogen fertilization** (2024)
-   32 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 2. **Contrasting stability of fungal and bacterial communities during long-term decomposition of fungal necromass in Arctic tundra** (2025)
-   8 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 ## External Profiles
 

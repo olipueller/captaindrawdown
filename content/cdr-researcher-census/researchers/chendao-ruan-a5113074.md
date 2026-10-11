@@ -1,7 +1,7 @@
 ---
 title: "Chendao Ruan"
 description: "Chendao Ruan is a Mid-career Biochar researcher at Zhejiang University of Science and Technology in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.271118
+date: 2026-10-11T02:33:00.301023
 url: "/cdr-researcher-census/researchers/chendao-ruan-a5113074/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Hierarchically porous Fe/Mg-modified biochar for simultaneous sequestration of PFAS and Cr(VI) in water: Experimental evaluation and DFT verification** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

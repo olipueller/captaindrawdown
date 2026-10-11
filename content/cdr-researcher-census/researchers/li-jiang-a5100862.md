@@ -1,7 +1,7 @@
 ---
 title: "Li Jiang"
 description: "Li Jiang is a Senior Soil Carbon researcher at Jiangsu University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.205498
+date: 2026-10-11T02:33:00.235140
 url: "/cdr-researcher-census/researchers/li-jiang-a5100862/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Functional Characteristics and Cellulose Degradation Genes of the Microbial Community in Soils with Different Initial pH Values** (2025)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "M. R. Reyes"
 description: "M. R. Reyes is a Mid-career Soil Carbon researcher at Secretaría de Ciencia Tecnología e Innovación in MX. With 45 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.771516
+date: 2026-10-11T02:32:59.794285
 url: "/cdr-researcher-census/researchers/m-r-reyes-a5080094/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    23 citations · General CDR
 
 2. **Silvopastoral systems reduce soil CO2 emissions, enhance carbon stocks, and regulate the micro-environment in tropical grazing lands** (2025)
-   8 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 3. **Effect of tree inclination and the distance from tree row on fine root biomass and soil organic carbon in the milpa intercropped with fruit trees agroforestry system** (2025)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Navprem Singh"
 description: "Navprem Singh is a Mid-career Soil Carbon researcher at Punjab Agricultural University in IN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.001143
+date: 2026-10-11T02:33:00.031975
 url: "/cdr-researcher-census/researchers/navprem-singh-a5110499/"
 layout: "researcher"
 hiddenInHomeList: true

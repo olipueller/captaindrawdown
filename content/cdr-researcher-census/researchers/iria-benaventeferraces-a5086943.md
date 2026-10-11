@@ -1,7 +1,7 @@
 ---
 title: "Iria Benavente‐Ferraces"
 description: "Iria Benavente‐Ferraces is a Mid-career Biochar researcher at Consejo Superior de Investigaciones Científicas in ES. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.422202
+date: 2026-10-11T02:32:59.432297
 url: "/cdr-researcher-census/researchers/iria-benaventeferraces-a5086943/"
 layout: "researcher"
 hiddenInHomeList: true

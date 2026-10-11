@@ -1,7 +1,7 @@
 ---
 title: "Yihao Wang"
 description: "Yihao Wang is a Mid-career Biochar researcher at Institute of Agricultural Resources and Regional Planning in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.829388
+date: 2026-10-11T02:32:59.855654
 url: "/cdr-researcher-census/researchers/yihao-wang-a5046786/"
 layout: "researcher"
 hiddenInHomeList: true

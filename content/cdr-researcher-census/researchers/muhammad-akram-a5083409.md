@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Akram"
 description: "Muhammad Akram is a Mid-career General CDR researcher at University of Sheffield in GB. With 56 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.254656
+date: 2026-10-11T02:32:59.258600
 url: "/cdr-researcher-census/researchers/muhammad-akram-a5083409/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Sustainable aviation fuel (SAF) production through power-to-liquid (PtL): A combined techno-economic and life cycle assessment** (2023)
-   170 citations · DAC
+   180 citations · DAC
 
 2. **Bioenergy with carbon capture and storage (BECCS) potential in jet fuel production from forestry residues: A combined Techno-Economic and Life Cycle Assessment approach** (2022)
-   102 citations · BECCS
+   100 citations · BECCS
 
 3. **Techno economic and life cycle assessment of olefin production through CO2 hydrogenation within the power-to-X concept** (2024)
-   24 citations · DAC
+   29 citations · DAC
 
 4. **The effect of biomass ashes and potassium salts on MEA degradation for BECCS** (2021)
    8 citations · BECCS
 
-5. **Negative Emissions in the Waste-to-Energy Sector: An Overview of the Newest-CCUS Programme** (2021)
-   4 citations · General CDR
+5. **Pilot-scale demonstration and practical challenges of bioenergy with CCS (BECCS) using rotating packed bed** (2025)
+   4 citations · BECCS
 
-6. **Pilot-scale demonstration and practical challenges of bioenergy with CCS (BECCS) using rotating packed bed** (2025)
-   3 citations · BECCS
+6. **Negative Emissions in the Waste-to-Energy Sector: An Overview of the Newest-CCUS Programme** (2021)
+   4 citations · General CDR
 
 7. **Comparison of TERC and TNO’s LR2 CO2 capture rigs for normal and accelerated degradation** (2022)
    3 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Buyanbaatar Avirmed"
 description: "Buyanbaatar Avirmed is a Mid-career Soil Carbon researcher at Mongolian University of Life Sciences in MN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.369703
+date: 2026-10-11T02:33:00.405304
 url: "/cdr-researcher-census/researchers/buyanbaatar-avirmed-a5074401/"
 layout: "researcher"
 hiddenInHomeList: true

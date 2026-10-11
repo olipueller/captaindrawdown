@@ -1,7 +1,7 @@
 ---
 title: "Edmund A. Halfyard"
 description: "Edmund A. Halfyard is a Mid-career Enhanced Weathering researcher at Stroke Association in GB. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.378081
+date: 2026-10-11T02:32:59.385417
 url: "/cdr-researcher-census/researchers/edmund-a-halfyard-a5060224/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Title: Addition of Alkalinity to Rivers: a new CO2 Removal Strategy** (2023)
-   8 citations
+   7 citations
 
 2. **Addition of Alkalinity to Rivers: a novel strategy for Ocean Alkalinity Enhancement** (2023)
    1 citations · Enhanced Weathering

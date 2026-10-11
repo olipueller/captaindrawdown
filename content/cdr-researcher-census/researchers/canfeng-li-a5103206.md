@@ -1,7 +1,7 @@
 ---
 title: "Canfeng Li"
 description: "Canfeng Li is a Mid-career Soil Carbon researcher at China Geological Survey in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.035852
+date: 2026-10-11T02:33:00.066628
 url: "/cdr-researcher-census/researchers/canfeng-li-a5103206/"
 layout: "researcher"
 hiddenInHomeList: true

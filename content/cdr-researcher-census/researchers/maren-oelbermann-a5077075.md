@@ -1,7 +1,7 @@
 ---
 title: "Maren Oelbermann"
 description: "Maren Oelbermann is a Senior Soil Carbon researcher at University of Waterloo in CA. With 106 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.118562
+date: 2026-10-11T02:32:59.123199
 url: "/cdr-researcher-census/researchers/maren-oelbermann-a5077075/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biochar in temperate soils: opportunities and challenges** (2021)
-   33 citations · Biochar
+   34 citations · Biochar
 
 2. **Guidelines for improved quantification and reporting of carbon stocks and additional carbon storage in agroforestry systems** (2025)
-   24 citations · General CDR
+   26 citations · General CDR
 
 3. **Compost  and biosolids increase long-term soil organic carbon stocks** (2023)
    19 citations · General CDR
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations
 
 5. **Transitioning to soil health and carbon sequestration with agroforestry and perennial crop systems** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 6. **Soil carbon dynamics in perennial biomass crops on marginally productive cropland in southern Canada** (2024)
    3 citations · Soil Carbon

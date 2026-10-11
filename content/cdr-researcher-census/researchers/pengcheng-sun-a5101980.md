@@ -1,7 +1,7 @@
 ---
 title: "Pengcheng Sun"
 description: "Pengcheng Sun is a Mid-career Soil Carbon researcher at Yellow River Institute of Hydraulic Research in CN. With 32 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.235167
+date: 2026-10-11T02:32:59.238598
 url: "/cdr-researcher-census/researchers/pengcheng-sun-a5101980/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The Grain-for-Green project offsets warming-induced soil organic carbon loss and increases soil carbon stock in Chinese Loess Plateau** (2022)
-   74 citations · Soil Carbon
+   75 citations · Soil Carbon
 
 2. **Impacts of climate change and vegetation greening driven by natural and anthropogenic factors on carbon sink in Chinese Loess Plateau after ecological restoration** (2025)
    12 citations · General CDR

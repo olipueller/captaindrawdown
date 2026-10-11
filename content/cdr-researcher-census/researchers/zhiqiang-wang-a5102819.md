@@ -1,7 +1,7 @@
 ---
 title: "Zhiqiang Wang"
 description: "Zhiqiang Wang is an Early-career Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.357478
+date: 2026-10-11T02:33:00.392376
 url: "/cdr-researcher-census/researchers/zhiqiang-wang-a5102819/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon emissions and priming effects derived from crop residues and their responses to nitrogen inputs** (2024)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 ## External Profiles
 

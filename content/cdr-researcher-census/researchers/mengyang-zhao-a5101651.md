@@ -1,7 +1,7 @@
 ---
 title: "Mengyang Zhao"
 description: "Mengyang Zhao is a Mid-career Biochar researcher at Hunan University in CN. With 51 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.302689
+date: 2026-10-11T02:32:59.307995
 url: "/cdr-researcher-census/researchers/mengyang-zhao-a5101651/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Silica from rice husk for sludge-based biochar modification: As a novel adsorbent for lead** (2024)
-   17 citations · Biochar
+   18 citations · Biochar
 
 2. **Insight into the key factors for the tetracycline removal in biochar-mediated oxidative system** (2024)
-   8 citations · Biochar
+   9 citations · Biochar
 
 3. **Removal of Pb2+ by Sludge-Based Biochar Modified by the Silica Derived from Rice Husk** (2023)
    0 citations · Biochar

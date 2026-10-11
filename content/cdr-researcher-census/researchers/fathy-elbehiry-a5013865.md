@@ -1,7 +1,7 @@
 ---
 title: "Fathy Elbehiry"
 description: "Fathy Elbehiry is a Senior Soil Carbon researcher at Higher institute for agricultural cooperation in EG. With 60 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.189341
+date: 2026-10-11T02:32:59.193454
 url: "/cdr-researcher-census/researchers/fathy-elbehiry-a5013865/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Plant Nutrition under Climate Change and Soil Carbon Sequestration** (2022)
-   184 citations · General CDR
+   183 citations · General CDR
 
 2. **Nano-Nutrients for Carbon Sequestration: A Short Communication** (2021)
    11 citations · General CDR

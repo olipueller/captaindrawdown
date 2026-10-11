@@ -1,7 +1,7 @@
 ---
 title: "Avirup Panja"
 description: "Avirup Panja is a Mid-career Biochar researcher. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.777555
+date: 2026-10-11T02:32:59.800626
 url: "/cdr-researcher-census/researchers/avirup-panja-a5061929/"
 layout: "researcher"
 hiddenInHomeList: true

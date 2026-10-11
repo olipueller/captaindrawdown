@@ -1,7 +1,7 @@
 ---
 title: "T. Moloney"
 description: "T. Moloney is a Mid-career Soil Carbon researcher at Waterford Institute of Technology in IE. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.059681
+date: 2026-10-11T02:33:00.089427
 url: "/cdr-researcher-census/researchers/t-moloney-a5003812/"
 layout: "researcher"
 hiddenInHomeList: true

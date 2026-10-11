@@ -1,7 +1,7 @@
 ---
 title: "Hanwoong Kim"
 description: "Hanwoong Kim is a Mid-career General CDR researcher at Princeton University in US. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.798378
+date: 2026-10-11T02:32:59.822504
 url: "/cdr-researcher-census/researchers/hanwoong-kim-a5041776/"
 layout: "researcher"
 hiddenInHomeList: true

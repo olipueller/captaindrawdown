@@ -1,7 +1,7 @@
 ---
 title: "Anil Kumar"
 description: "Anil Kumar is a Mid-career Soil Carbon researcher at Acharya Narendra Deva University of Agriculture and Technology in IN. With 48 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.215976
+date: 2026-10-11T02:33:00.245974
 url: "/cdr-researcher-census/researchers/anil-kumar-a5101971/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil fertility management: Role of organic amendments and bio-fertilizers: A review** (2024)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 2. **The role of agroforestry in carbon sequestration and climate adaptation: A review** (2025)
    8 citations · General CDR

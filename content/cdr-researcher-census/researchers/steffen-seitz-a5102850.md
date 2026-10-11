@@ -1,7 +1,7 @@
 ---
 title: "Steffen Seitz"
 description: "Steffen Seitz is a Mid-career Ocean CDR researcher at Hochschule für Technik und Wirtschaft Dresden – University of Applied Sciences in DE. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.385024
+date: 2026-10-11T02:33:00.421895
 url: "/cdr-researcher-census/researchers/steffen-seitz-a5102850/"
 layout: "researcher"
 hiddenInHomeList: true

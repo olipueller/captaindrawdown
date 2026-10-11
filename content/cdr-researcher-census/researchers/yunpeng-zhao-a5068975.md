@@ -1,7 +1,7 @@
 ---
 title: "Yunpeng Zhao"
 description: "Yunpeng Zhao is a Mid-career Soil Carbon researcher at University of Helsinki in FI. With 27 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.384214
+date: 2026-10-11T02:32:59.391976
 url: "/cdr-researcher-census/researchers/yunpeng-zhao-a5068975/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Sphagnum increases soil’s sequestration capacity of mineral-associated organic carbon via activating metal oxides** (2023)
-   108 citations · Soil Carbon
+   110 citations · Soil Carbon
 
 2. **Understanding the mechanisms and potential pathways of soil carbon sequestration from the biogeochemistry perspective** (2024)
    59 citations · Soil Carbon
 
 3. **Enhanced Mineral Preservation Rather Than Microbial Residue Production Dictates the Accrual of Mineral‐Associated Organic Carbon Along a Weathering Gradient** (2024)
-   47 citations · Soil Carbon
+   51 citations · Soil Carbon
 
 4. **High-Dose Biochar Hinders Micro/Nanoplastic-Induced Soil Positive Priming by Reducing Substrate Quality and Microbial Activity** (2026)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 ## External Profiles
 

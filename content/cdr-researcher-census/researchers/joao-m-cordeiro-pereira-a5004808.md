@@ -1,7 +1,7 @@
 ---
 title: "João M. Cordeiro Pereira"
 description: "João M. Cordeiro Pereira is a Mid-career Soil Carbon researcher at Forest Research Institute in DE. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.161773
+date: 2026-10-11T02:33:00.192028
 url: "/cdr-researcher-census/researchers/joao-m-cordeiro-pereira-a5004808/"
 layout: "researcher"
 hiddenInHomeList: true

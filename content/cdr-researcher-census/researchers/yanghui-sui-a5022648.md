@@ -1,7 +1,7 @@
 ---
 title: "Yanghui Sui"
 description: "Yanghui Sui is a Mid-career Biochar researcher at Liaoning Academy of Agricultural Sciences in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.024711
+date: 2026-10-11T02:33:00.055997
 url: "/cdr-researcher-census/researchers/yanghui-sui-a5022648/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Different roles of biochar in mitigating greenhouse gas emissions from paddy fields in northern and southern China** (2025)
-   7 citations · Biochar
+   8 citations · Biochar
 
 ## External Profiles
 

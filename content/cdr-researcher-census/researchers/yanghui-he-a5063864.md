@@ -1,7 +1,7 @@
 ---
 title: "Yanghui He"
 description: "Yanghui He is a Senior Soil Carbon researcher at Northeast Forestry University in CN. With 53 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.098455
+date: 2026-10-11T02:32:59.103042
 url: "/cdr-researcher-census/researchers/yanghui-he-a5063864/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    29 citations · Biochar
 
 3. **Tradeoffs of fungal and bacterial residues mediate soil carbon dynamics under persistent drought in subtropical evergreen forests** (2022)
-   22 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 4. **A transition from arbuscular to ectomycorrhizal forests halts soil carbon sequestration during subtropical forest rewilding** (2024)
    4 citations · Soil Carbon

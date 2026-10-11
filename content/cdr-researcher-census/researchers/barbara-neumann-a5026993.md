@@ -1,7 +1,7 @@
 ---
 title: "Barbara Neumann"
 description: "Barbara Neumann is a Senior Ocean CDR researcher at Research Institute For Sustainability – Helmholtz Centre Potsdam in DE. With 59 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.052031
+date: 2026-10-11T02:32:59.056075
 url: "/cdr-researcher-census/researchers/barbara-neumann-a5026993/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Ocean-based negative emissions technologies: a governance framework review** (2023)
-   21 citations · General CDR
+   22 citations · General CDR
 
 2. **Marine carbon dioxide removal: an emerging topic for ocean governance and the sustainability agenda** (2026)
    1 citations · General CDR
@@ -62,13 +62,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 4. **Achieving Climate Neutrality and Paris Agreement Goals: Opportunities for Ocean-Based Methods of Carbon Dioxide Removal, Science Policy Brief** (2022)
    1 citations · General CDR
 
-5. **Governance of marine carbon dioxide removal - gaps, challenges and pathways** (2025)
+5. **20: Marine carbon dioxide removal: an emerging topic for ocean governance and the sustainability agenda** (2026)
    0 citations · General CDR
 
-6. **Good governance of marine carbon dioxide removal, Policy Brief** (2024)
+6. **Governance of marine carbon dioxide removal - gaps, challenges and pathways** (2025)
    0 citations · General CDR
 
-7. **Global governance of ocean-based negative emission technologies. Exploring gaps, challenges, and opportunities** (2022)
+7. **Good governance of marine carbon dioxide removal, Policy Brief** (2024)
+   0 citations · General CDR
+
+8. **Global governance of ocean-based negative emission technologies. Exploring gaps, challenges, and opportunities** (2022)
    0 citations · General CDR
 
 ## External Profiles

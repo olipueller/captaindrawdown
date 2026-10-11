@@ -1,7 +1,7 @@
 ---
 title: "Shamsoddin Ghiami"
 description: "Shamsoddin Ghiami is a Mid-career BECCS researcher at Edinburgh Napier University in GB. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.851612
+date: 2026-10-11T02:32:59.878641
 url: "/cdr-researcher-census/researchers/shamsoddin-ghiami-a5071866/"
 layout: "researcher"
 hiddenInHomeList: true

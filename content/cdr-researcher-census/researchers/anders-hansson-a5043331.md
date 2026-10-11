@@ -1,7 +1,7 @@
 ---
 title: "Anders Hansson"
 description: "Anders Hansson is an Eminent General CDR researcher. With 178 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.058158
+date: 2026-10-11T02:32:59.062491
 url: "/cdr-researcher-census/researchers/anders-hansson-a5043331/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Socio-Economic Determinants for Biochar Deployment in the Southern Highlands of Tanzania** (2021)
-   44 citations · Biochar
+   45 citations · Biochar
 
 2. **Boundary Work and Interpretations in the IPCC Review Process of the Role of Bioenergy With Carbon Capture and Storage (BECCS) in Limiting Global Warming to 1.5°C** (2021)
    36 citations · BECCS
@@ -52,16 +52,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    34 citations · BECCS
 
 4. **Forerunner city or net-zero opportunist? Carbon dioxide removal in Stockholm, residual emissions and risks of mitigation deterrence** (2024)
-   26 citations · BECCS
+   28 citations · BECCS
 
 5. **Limits to climate action - Narratives of bioenergy with carbon capture and storage** (2021)
-   24 citations · BECCS
+   25 citations · BECCS
 
 6. **Novel carbon dioxide removals techniques must be integrated into the European Union’s climate policies** (2023)
-   23 citations · General CDR
+   24 citations · General CDR
 
 7. **Biochar Deployment Drivers and Barriers in Least Developed Countries** (2021)
-   8 citations · Biochar
+   9 citations · Biochar
 
 8. **Specialty grand challenge: renaming our section to “Carbon Dioxide Removal”** (2023)
    6 citations · General CDR

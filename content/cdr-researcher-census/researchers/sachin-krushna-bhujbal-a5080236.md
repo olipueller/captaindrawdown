@@ -1,7 +1,7 @@
 ---
 title: "Sachin Krushna Bhujbal"
 description: "Sachin Krushna Bhujbal is a Mid-career Biochar researcher at Indian Institute of Technology Delhi in IN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.458364
+date: 2026-10-11T02:32:59.469470
 url: "/cdr-researcher-census/researchers/sachin-krushna-bhujbal-a5080236/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar application for greenhouse gas mitigation, contaminants immobilization and soil fertility enhancement: A state-of-the-art review** (2022)
-   253 citations · Biochar
+   256 citations · Biochar
 
 ## External Profiles
 

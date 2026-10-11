@@ -1,7 +1,7 @@
 ---
 title: "Nery Gaona-Jiménez"
 description: "Nery Gaona-Jiménez is a Mid-career Soil Carbon researcher at Universidad Nacional de San Martín in PE. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.331018
+date: 2026-10-11T02:33:00.364729
 url: "/cdr-researcher-census/researchers/nery-gaona-jimenez-a5065716/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon reserves in coffee agroforestry in the Peruvian Amazon** (2024)
-   21 citations
+   22 citations
 
 2. **Soil Organic Carbon Variability in Tropical Cropping Systems: Interactions With Texture, pH, Macronutrients, and Organic Matter** (2026)
    1 citations · Soil Carbon

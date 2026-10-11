@@ -1,7 +1,7 @@
 ---
 title: "Judit Kockat"
 description: "Judit Kockat is a Mid-career General CDR researcher at Buildings Performance Institute Europe in BE. With 26 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.238918
+date: 2026-10-11T02:33:00.269220
 url: "/cdr-researcher-census/researchers/judit-kockat-a5000041/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,11 +47,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Top CDR Publications
 
-1. **Carbon Dioxide Storage and Removal in EU Buildings** (2025)
-   1 citations · General CDR
+1. **Biogenic carbon dioxide storage and mineral carbonation uptake in EU buildings** (2026)
+   1 citations · Enhanced Weathering
 
-2. **Biogenic carbon dioxide storage and mineral carbonation uptake in EU buildings** (2026)
-   0 citations · Enhanced Weathering
+2. **Carbon Dioxide Storage and Removal in EU Buildings** (2025)
+   1 citations · General CDR
 
 ## External Profiles
 

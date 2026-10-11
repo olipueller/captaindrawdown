@@ -1,7 +1,7 @@
 ---
 title: "Gregory F. Nemet"
 description: "Gregory F. Nemet is an Eminent General CDR researcher at University of Wisconsin–Madison in US. With 219 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.025489
+date: 2026-10-11T02:32:59.028404
 url: "/cdr-researcher-census/researchers/gregory-f-nemet-a5033478/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,28 +51,28 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The carbon dioxide removal gap** (2024)
-   91 citations
+   106 citations
 
 2. **Technological innovation enables low cost climate change mitigation** (2023)
-   56 citations · General CDR
+   57 citations · General CDR
 
-3. **Near-term deployment of novel carbon removal to facilitate longer-term deployment** (2023)
+3. **Ten new insights in climate science 2023** (2023)
    47 citations · General CDR
 
-4. **Ten new insights in climate science 2023** (2023)
+4. **Near-term deployment of novel carbon removal to facilitate longer-term deployment** (2023)
    46 citations · General CDR
 
-5. **Dataset on the adoption of historical technologies informs the scale-up of emerging carbon dioxide removal measures** (2023)
-   42 citations · General CDR
+5. **Modeling direct air carbon capture and storage in a 1.5 °C climate future using historical analogs** (2024)
+   42 citations · DAC
 
-6. **Modeling direct air carbon capture and storage in a 1.5 °C climate future using historical analogs** (2024)
-   41 citations · DAC
+6. **Dataset on the adoption of historical technologies informs the scale-up of emerging carbon dioxide removal measures** (2023)
+   41 citations · General CDR
 
 7. **Proposing a 1.0°C climate target for a safer future** (2023)
    35 citations · General CDR
 
 8. **Scientific literature on carbon dioxide removal revealed as much larger through AI-enhanced systematic mapping** (2025)
-   17 citations · General CDR
+   20 citations · General CDR
 
 9. **Lessons for scaling direct air capture from the history of ammonia synthesis** (2024)
    8 citations · DAC

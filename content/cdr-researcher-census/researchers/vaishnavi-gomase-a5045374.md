@@ -1,7 +1,7 @@
 ---
 title: "Vaishnavi Gomase"
 description: "Vaishnavi Gomase is a Mid-career Biochar researcher at Rashtrasant Tukadoji Maharaj Nagpur University in IN. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.398880
+date: 2026-10-11T02:32:59.407995
 url: "/cdr-researcher-census/researchers/vaishnavi-gomase-a5045374/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Chitosan-Biopolymer-Entrapped Activated Charcoal for Adsorption of Reactive Orange Dye from Aqueous Phase and CO2 from Gaseous Phase** (2023)
-   58 citations
+   59 citations
 
 2. **Doubly pertinent p-nitrobenzaldehyde-grafted chitosan for adsorptive sequestration of aqueous anionic surfactant and gaseous CO2** (2025)
    11 citations

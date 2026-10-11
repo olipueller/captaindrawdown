@@ -1,7 +1,7 @@
 ---
 title: "K. S. Sreenivasan"
 description: "K. S. Sreenivasan is a Mid-career DAC researcher at University of Wisconsin–Madison in US. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.050907
+date: 2026-10-11T02:33:00.081834
 url: "/cdr-researcher-census/researchers/k-s-sreenivasan-a5110932/"
 layout: "researcher"
 hiddenInHomeList: true

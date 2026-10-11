@@ -1,7 +1,7 @@
 ---
 title: "Hongtao Jia"
 description: "Hongtao Jia is a Senior Soil Carbon researcher at College of Grassland and Environment Science, Xinjiang Agricultural University in CN. With 81 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.132908
+date: 2026-10-11T02:32:59.137731
 url: "/cdr-researcher-census/researchers/hongtao-jia-a5063286/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Abundances of agricultural microplastics and their contribution to the soil organic carbon pool in plastic film mulching fields of Xinjiang, China** (2023)
-   63 citations · Soil Carbon
+   67 citations · Soil Carbon
 
 2. **Grassland degradation-induced soil organic carbon loss associated with micro-food web simplification** (2024)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 3. **Grazing and reclamation-induced microbiome alterations drive organic carbon stability within soil aggregates in alpine steppes** (2023)
    27 citations · Soil Carbon
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    15 citations · Soil Carbon
 
 5. **Biochar Aged for Five Years Altered Carbon Fractions and Enzyme Activities of Sandy Soil** (2023)
-   13 citations · Biochar
+   15 citations · Biochar
 
 6. **Microbial community assembly mediated by soil organic carbon stability in aggregates under long-term enclosure alpine meadows** (2026)
    1 citations

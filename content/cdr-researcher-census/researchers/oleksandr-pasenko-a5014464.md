@@ -1,7 +1,7 @@
 ---
 title: "Oleksandr Pasenko"
 description: "Oleksandr Pasenko is a Mid-career Biochar researcher at Dniprovsk State Technical University in UA. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.365755
+date: 2026-10-11T02:33:00.401345
 url: "/cdr-researcher-census/researchers/oleksandr-pasenko-a5014464/"
 layout: "researcher"
 hiddenInHomeList: true

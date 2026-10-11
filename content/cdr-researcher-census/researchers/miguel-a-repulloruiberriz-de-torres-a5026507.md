@@ -1,7 +1,7 @@
 ---
 title: "Miguel A. Repullo‐Ruibérriz de Torres"
 description: "Miguel A. Repullo‐Ruibérriz de Torres is a Mid-career Soil Carbon researcher at European Steel Association in BE. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.501546
+date: 2026-10-11T02:32:59.514067
 url: "/cdr-researcher-census/researchers/miguel-a-repulloruiberriz-de-torres-a5026507/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Cover Crop Contributions to Improve the Soil Nitrogen and Carbon Sequestration in Almond Orchards (SW Spain)** (2021)
-   39 citations · Soil Carbon
+   40 citations · Soil Carbon
 
 2. **Carbon Sequestration Through Groundcovers and Pruning Residues in Sustainable Olive Orchards Under Different Edaphoclimatic Conditions** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

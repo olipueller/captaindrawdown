@@ -1,7 +1,7 @@
 ---
 title: "Saimon Lihpai"
 description: "Saimon Lihpai is a Senior Ocean CDR researcher at Micronesia Conservation Trust in FM. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.220633
+date: 2026-10-11T02:33:00.250922
 url: "/cdr-researcher-census/researchers/saimon-lihpai-a5050583/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Estimation of total fine root production using continuous inflow methods in tropical mangrove forest on Pohnpei Island, Micronesia: Fine root necromass accumulation is a substantial contributor to blue carbon stocks** (2021)
-   16 citations · Ocean CDR
+   15 citations · Ocean CDR
 
 ## External Profiles
 

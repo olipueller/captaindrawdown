@@ -1,7 +1,7 @@
 ---
 title: "A.K. Amjad"
 description: "A.K. Amjad is a Mid-career Biochar researcher at Government College University, Faisalabad in PK. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.283028
+date: 2026-10-11T02:33:00.313430
 url: "/cdr-researcher-census/researchers/ak-amjad-a5062842/"
 layout: "researcher"
 hiddenInHomeList: true

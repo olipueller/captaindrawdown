@@ -1,7 +1,7 @@
 ---
 title: "Zirun Wang"
 description: "Zirun Wang is a Mid-career Biochar researcher at University of Science and Technology of China in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.284818
+date: 2026-10-11T02:32:59.289506
 url: "/cdr-researcher-census/researchers/zirun-wang-a5062105/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **CQDs/biochar from reed straw modified Z-scheme MgIn2S4/BiOCl with enhanced visible-light photocatalytic performance for carbamazepine degradation in water** (2021)
-   81 citations · Biochar
+   82 citations · Biochar
 
 ## External Profiles
 

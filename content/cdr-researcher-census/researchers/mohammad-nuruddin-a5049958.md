@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Nuruddin"
 description: "Mohammad Nuruddin is an Early-career Biochar researcher at National Institute of Technology Warangal in IN. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.213958
+date: 2026-10-11T02:33:00.244034
 url: "/cdr-researcher-census/researchers/mohammad-nuruddin-a5049958/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **State-of-the-Art Review on the Geotechnical and Geoenvironmental Feasibility of Select Biochars** (2023)
-   26 citations · Biochar
+   27 citations · Biochar
 
 ## External Profiles
 

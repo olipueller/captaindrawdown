@@ -1,7 +1,7 @@
 ---
 title: "Yiming Zhao"
 description: "Yiming Zhao is a Mid-career Biochar researcher at Ministry of Education of the People's Republic of China in CN. With 31 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.254524
+date: 2026-10-11T02:32:59.258480
 url: "/cdr-researcher-census/researchers/yiming-zhao-a5112500/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The co-promoting mechanism of EMEA/DEEA/PZ ternary water-lean solvent on CO2 capture- a study based on 13C-qNMR and DFT calculations** (2024)
-   11 citations
+   12 citations
 
 2. **Increasing the Environmental Sustainability of Greenhouse Vegetable Production by Combining Biochar Application and Drip Fertigation—Effects on Soil N2O Emissions and Carbon Sequestrations** (2022)
    5 citations · Biochar

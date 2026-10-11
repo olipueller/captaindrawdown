@@ -1,7 +1,7 @@
 ---
 title: "Ammar B. Bhandari"
 description: "Ammar B. Bhandari is a Mid-career Soil Carbon researcher at Agricultural Research Service in US. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.788125
+date: 2026-10-11T02:32:59.812003
 url: "/cdr-researcher-census/researchers/ammar-b-bhandari-a5008875/"
 layout: "researcher"
 hiddenInHomeList: true

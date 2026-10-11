@@ -1,7 +1,7 @@
 ---
 title: "Chandra Agung Septiadi Putra"
 description: "Chandra Agung Septiadi Putra is a Mid-career Soil Carbon researcher. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.046481
+date: 2026-10-11T02:33:00.077218
 url: "/cdr-researcher-census/researchers/chandra-agung-septiadi-putra-a5072113/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Natural climate solutions in Indonesia: wetlands are the key to achieve Indonesia’s national climate commitment** (2022)
-   34 citations · General CDR
+   35 citations · General CDR
 
 2. **Greenhouse gas fluxes of different land uses in mangrove ecosystem of East Kalimantan, Indonesia** (2024)
    15 citations

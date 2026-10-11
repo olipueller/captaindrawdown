@@ -1,7 +1,7 @@
 ---
 title: "Elsayed Said Mohamed"
 description: "Elsayed Said Mohamed is a Senior Soil Carbon researcher at National Authority for Remote Sensing and Space Sciences in EG. With 77 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.114178
+date: 2026-10-11T02:32:59.118828
 url: "/cdr-researcher-census/researchers/elsayed-said-mohamed-a5077001/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -59,7 +59,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Soil organic carbon losses following conversion of natural forests into agriculture: Insights from Eritrea** (2025)
    1 citations · Soil Carbon
 
-4. **Estimating carbon sequestration potential of dryland enclosures: A comparative assessment assisted by Sentinel 2 time-series and machine learning framework** (2026)
+4. **Modelling Soil Organic Carbon Across a Rugged Altitudinal Gradient in Drylands: A Machine Learning Approach Using Multi-Source Covariates** (2026)
+   0 citations
+
+5. **Estimating carbon sequestration potential of dryland enclosures: A comparative assessment assisted by Sentinel 2 time-series and machine learning framework** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

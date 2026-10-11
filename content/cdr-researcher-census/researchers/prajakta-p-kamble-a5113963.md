@@ -1,7 +1,7 @@
 ---
 title: "Prajakta P. Kamble"
 description: "Prajakta P. Kamble is a Mid-career Biochar researcher at Dr. D. Y. Patil Medical College, Hospital and Research Centre in IN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.103766
+date: 2026-10-11T02:33:00.134217
 url: "/cdr-researcher-census/researchers/prajakta-p-kamble-a5113963/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Statistical comparison of various agricultural and non-agricultural waste biomass-derived biochar for methylene blue dye sorption** (2021)
-   33 citations · Biochar
+   34 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Achiraya Chaichaloempreecha"
 description: "Achiraya Chaichaloempreecha is a Mid-career General CDR researcher at National Institute for Environmental Studies in JP. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.903237
+date: 2026-10-11T02:32:59.932598
 url: "/cdr-researcher-census/researchers/achiraya-chaichaloempreecha-a5090720/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Thailand’s net-zero emissions by 2050: analysis of economy-wide impacts** (2023)
-   42 citations · General CDR
+   43 citations · General CDR
 
 2. **Energy system transformation for attainability of net zero emissions in Thailand** (2022)
-   27 citations · General CDR
+   28 citations · General CDR
 
 3. **Thailand’s mid-century greenhouse gas emission pathways to achieve the 2 degrees Celsius target** (2022)
-   25 citations · General CDR
+   24 citations · General CDR
 
 4. **Scaling up climate ambition post-2030: a long-term GHG mitigation analysis for Thailand** (2022)
    7 citations · General CDR

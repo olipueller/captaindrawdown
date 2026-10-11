@@ -1,7 +1,7 @@
 ---
 title: "Yuwen Zhang"
 description: "Yuwen Zhang is a Senior Soil Carbon researcher at Ministry of Agriculture in EE. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.847399
+date: 2026-10-11T02:32:59.873924
 url: "/cdr-researcher-census/researchers/yuwen-zhang-a5100342/"
 layout: "researcher"
 hiddenInHomeList: true

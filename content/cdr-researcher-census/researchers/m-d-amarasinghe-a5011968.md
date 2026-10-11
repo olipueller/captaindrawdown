@@ -1,7 +1,7 @@
 ---
 title: "M. D. Amarasinghe"
 description: "M. D. Amarasinghe is a Senior Biochar researcher at University of Kelaniya in LK. With 39 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.161730
+date: 2026-10-11T02:32:59.166086
 url: "/cdr-researcher-census/researchers/m-d-amarasinghe-a5011968/"
 layout: "researcher"
 hiddenInHomeList: true

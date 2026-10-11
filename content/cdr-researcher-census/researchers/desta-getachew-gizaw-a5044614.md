@@ -1,7 +1,7 @@
 ---
 title: "Desta Getachew Gizaw"
 description: "Desta Getachew Gizaw is a Mid-career Biochar researcher at Adama Science and Technology University in ET. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.543057
+date: 2026-10-11T02:32:59.558067
 url: "/cdr-researcher-census/researchers/desta-getachew-gizaw-a5044614/"
 layout: "researcher"
 hiddenInHomeList: true

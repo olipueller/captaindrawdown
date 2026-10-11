@@ -1,7 +1,7 @@
 ---
 title: "Xuejuan Bai"
 description: "Xuejuan Bai is a Senior Soil Carbon researcher. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.662838
+date: 2026-10-11T02:32:59.682077
 url: "/cdr-researcher-census/researchers/xuejuan-bai-a5102080/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,10 +43,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of microbial groups on soil organic carbon accrual and mineralization during high- and low-quality litter decomposition** (2024)
-   41 citations · Soil Carbon
+   42 citations · Soil Carbon
 
 2. **Belowground allocation and fate of tree assimilates in plant–soil–microorganisms system: 13C labeling and tracing under field conditions** (2021)
-   27 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 3. **Composition and contribution of Stipa bungeana root exudates to soil organic carbon fractions in the Loess Plateau** (2023)
    15 citations · Soil Carbon

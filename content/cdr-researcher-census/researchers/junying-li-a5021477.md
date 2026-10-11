@@ -1,7 +1,7 @@
 ---
 title: "Junying Li"
 description: "Junying Li is an Early-career Soil Carbon researcher at Soil and Fertilizer Institute of Hunan Province in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.382149
+date: 2026-10-11T02:33:00.418021
 url: "/cdr-researcher-census/researchers/junying-li-a5021477/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Behavior of soil aggregates in reclaimed farmland with different restoration durations: Mediating factors and mechanisms** (2024)
-   17 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 ## External Profiles
 

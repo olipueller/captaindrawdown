@@ -1,7 +1,7 @@
 ---
 title: "Mike Kelland"
 description: "Mike Kelland is a Mid-career General CDR researcher at PPG Industries (United States) in US. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.276381
+date: 2026-10-11T02:32:59.280709
 url: "/cdr-researcher-census/researchers/mike-kelland-a5075310/"
 layout: "researcher"
 hiddenInHomeList: true

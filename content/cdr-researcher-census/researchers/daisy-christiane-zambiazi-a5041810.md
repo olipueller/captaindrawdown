@@ -1,7 +1,7 @@
 ---
 title: "Daisy Christiane Zambiazi"
 description: "Daisy Christiane Zambiazi is a Mid-career Soil Carbon researcher. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.209648
+date: 2026-10-11T02:33:00.239245
 url: "/cdr-researcher-census/researchers/daisy-christiane-zambiazi-a5041810/"
 layout: "researcher"
 hiddenInHomeList: true

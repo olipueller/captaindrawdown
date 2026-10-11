@@ -1,7 +1,7 @@
 ---
 title: "Fairooz Ahmad Khan"
 description: "Fairooz Ahmad Khan is a Mid-career Biochar researcher at Mithila Minority Dental College And Hospital in IN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.153624
+date: 2026-10-11T02:33:00.183500
 url: "/cdr-researcher-census/researchers/fairooz-ahmad-khan-a5002236/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Adsorption of crystal violet dye using <i>Platanus orientalis</i> (Chinar tree) leaf powder and its biochar: equilibrium, kinetics and thermodynamics study** (2021)
-   50 citations · Biochar
+   52 citations · Biochar
 
 2. **Characterization and adsorption of malachite green dye from aqueous solution onto <i>Salix alba</i> L. (Willow tree) leaves powder and its respective biochar** (2022)
    20 citations · Biochar

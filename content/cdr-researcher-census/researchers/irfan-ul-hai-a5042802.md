@@ -1,7 +1,7 @@
 ---
 title: "Irfan Ul Hai"
 description: "Irfan Ul Hai is a Mid-career BECCS researcher at Nottingham Trent University in GB. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.479070
+date: 2026-10-11T02:32:59.490485
 url: "/cdr-researcher-census/researchers/irfan-ul-hai-a5042802/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Cutting-edge biomass gasification technologies for renewable energy generation and achieving net zero emissions** (2024)
-   137 citations · BECCS
+   146 citations · BECCS
 
 2. **Bioenergy with carbon capture and storage technology to achieve net zero emissions–A review** (2024)
-   40 citations · BECCS
+   44 citations · BECCS
 
 ## External Profiles
 

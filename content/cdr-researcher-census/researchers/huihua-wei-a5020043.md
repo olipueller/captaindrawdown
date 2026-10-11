@@ -1,7 +1,7 @@
 ---
 title: "Huihua Wei"
 description: "Huihua Wei is a Mid-career Ocean CDR researcher at Ministry of Natural Resources in RW. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.973519
+date: 2026-10-11T02:33:00.005286
 url: "/cdr-researcher-census/researchers/huihua-wei-a5020043/"
 layout: "researcher"
 hiddenInHomeList: true

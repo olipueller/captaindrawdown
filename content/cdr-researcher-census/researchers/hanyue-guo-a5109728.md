@@ -1,7 +1,7 @@
 ---
 title: "Hanyue Guo"
 description: "Hanyue Guo is a Mid-career Soil Carbon researcher at Pingdingshan University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.419999
+date: 2026-10-11T02:32:59.430042
 url: "/cdr-researcher-census/researchers/hanyue-guo-a5109728/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Active microbial population dynamics and life strategies drive the enhanced carbon use efficiency in high-organic matter soils** (2024)
-   50 citations · Soil Carbon
+   54 citations · Soil Carbon
 
 2. **Enhanced carbon use efficiency and warming resistance of soil microorganisms under organic amendment** (2024)
-   13 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 ## External Profiles
 

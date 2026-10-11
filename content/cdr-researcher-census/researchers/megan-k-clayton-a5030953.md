@@ -1,7 +1,7 @@
 ---
 title: "Megan K. Clayton"
 description: "Megan K. Clayton is a Senior Soil Carbon researcher at Texas A&M University System in US. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.132627
+date: 2026-10-11T02:33:00.163005
 url: "/cdr-researcher-census/researchers/megan-k-clayton-a5030953/"
 layout: "researcher"
 hiddenInHomeList: true

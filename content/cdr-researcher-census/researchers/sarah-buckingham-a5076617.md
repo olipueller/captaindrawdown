@@ -1,7 +1,7 @@
 ---
 title: "Sarah Buckingham"
 description: "Sarah Buckingham is a Senior Soil Carbon researcher. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.503649
+date: 2026-10-11T02:32:59.516224
 url: "/cdr-researcher-census/researchers/sarah-buckingham-a5076617/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Estimating maximum fine-fraction organic carbon in UK grasslands** (2021)
-   7 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 2. **Understanding carbon sequestration in upland habitats** (2021)
    1 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Tandu Ramba"
 description: "Tandu Ramba is an Early-career Biochar researcher at Committee on Climate Change in GB. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.333760
+date: 2026-10-11T02:33:00.367789
 url: "/cdr-researcher-census/researchers/tandu-ramba-a5020805/"
 layout: "researcher"
 hiddenInHomeList: true

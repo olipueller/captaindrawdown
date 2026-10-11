@@ -1,7 +1,7 @@
 ---
 title: "Zhiyuan Huang"
 description: "Zhiyuan Huang is a Senior Soil Carbon researcher at National Agricultural Research Institute in PG. With 39 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.536529
+date: 2026-10-11T02:32:59.551269
 url: "/cdr-researcher-census/researchers/zhiyuan-huang-a5009750/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -55,6 +55,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 2. **On- and off-year management-induced changes in microbial communities cause microbial necromass carbon variation in subtropical Moso bamboo forests** (2025)
    2 citations · Soil Carbon
+
+3. **Bamboo-sourced organic fertilizer regulates soil microbial nutrient limitation in Moso bamboo plantations: Insights from ecological enzyme stoichiometry** (2026)
+   1 citations
 
 ## External Profiles
 

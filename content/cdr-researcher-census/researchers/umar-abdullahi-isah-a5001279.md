@@ -1,7 +1,7 @@
 ---
 title: "Umar Abdullahi Isah"
 description: "Umar Abdullahi Isah is a Mid-career Biochar researcher at University of Maiduguri in NG. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.380514
+date: 2026-10-11T02:33:00.416304
 url: "/cdr-researcher-census/researchers/umar-abdullahi-isah-a5001279/"
 layout: "researcher"
 hiddenInHomeList: true

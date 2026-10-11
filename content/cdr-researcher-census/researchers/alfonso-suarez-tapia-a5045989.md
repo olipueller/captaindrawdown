@@ -1,7 +1,7 @@
 ---
 title: "Alfonso Suárez-Tapia"
 description: "Alfonso Suárez-Tapia is a Mid-career Soil Carbon researcher. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.305536
+date: 2026-10-11T02:33:00.336382
 url: "/cdr-researcher-census/researchers/alfonso-suarez-tapia-a5045989/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Nutrient Contribution and Carbon Sequestration of an Agroforestry System of Coffea canephora Cultivated by Conventional and Organic Management in the Ecuadorian Amazon** (2024)
-   4 citations · General CDR
+   7 citations · General CDR
 
 ## External Profiles
 

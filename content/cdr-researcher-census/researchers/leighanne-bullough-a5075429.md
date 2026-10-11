@@ -1,7 +1,7 @@
 ---
 title: "Leigh‐Anne Bullough"
 description: "Leigh‐Anne Bullough is a Mid-career General CDR researcher at University of Oxford in GB. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.102271
+date: 2026-10-11T02:33:00.132552
 url: "/cdr-researcher-census/researchers/leighanne-bullough-a5075429/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Enabling conditions for conservation on Indigenous and community lands** (2025)
-   2 citations · General CDR
+   4 citations · General CDR
 
 ## External Profiles
 

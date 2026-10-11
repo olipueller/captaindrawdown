@@ -1,7 +1,7 @@
 ---
 title: "Diana Nebeská"
 description: "Diana Nebeská is a Mid-career Soil Carbon researcher. With 26 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.680193
+date: 2026-10-11T02:32:59.699958
 url: "/cdr-researcher-census/researchers/diana-nebeska-a5069258/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,10 +46,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Enhanced Carbon Sequestration in Marginal Land Upon Shift towards Perennial C4Miscanthus × giganteus: A Case Study in North-Western Czechia** (2021)
-   27 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 2. **Rhizodegradation of diesel and PAH contaminated soils with Miscanthus × giganteus: Soil, plants, microbes and pollutants interactions after two seasons** (2025)
-   12 citations
+   15 citations
 
 3. **Interactions of Miscanthus × giganteus with microorganisms in degraded lands: potential for ecosystem restoration** (2025)
    3 citations · Soil Carbon

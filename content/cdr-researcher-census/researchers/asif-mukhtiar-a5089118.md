@@ -1,7 +1,7 @@
 ---
 title: "Asif Mukhtiar"
 description: "Asif Mukhtiar is a Mid-career Soil Carbon researcher at University of Faisalabad in PK. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.334689
+date: 2026-10-11T02:33:00.368739
 url: "/cdr-researcher-census/researchers/asif-mukhtiar-a5089118/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jianzhuang Pang"
 description: "Jianzhuang Pang is a Senior Soil Carbon researcher at Beijing Forestry University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.656440
+date: 2026-10-11T02:32:59.675239
 url: "/cdr-researcher-census/researchers/jianzhuang-pang-a5048702/"
 layout: "researcher"
 hiddenInHomeList: true

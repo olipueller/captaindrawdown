@@ -1,7 +1,7 @@
 ---
 title: "Angélica Cruz-Cruz"
 description: "Angélica Cruz-Cruz is a Mid-career Biochar researcher at Tecnológico de Monterrey in MX. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.839382
+date: 2026-10-11T02:32:59.865277
 url: "/cdr-researcher-census/researchers/angelica-cruz-cruz-a5071971/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "S. S. Rattan"
 description: "S. S. Rattan is a Senior Biochar researcher. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.282622
+date: 2026-10-11T02:33:00.313098
 url: "/cdr-researcher-census/researchers/s-s-rattan-a5033368/"
 layout: "researcher"
 hiddenInHomeList: true

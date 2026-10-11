@@ -1,7 +1,7 @@
 ---
 title: "Larissa Ghodszad"
 description: "Larissa Ghodszad is a Mid-career Biochar researcher at University of Tabriz in IR. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.639264
+date: 2026-10-11T02:32:59.657819
 url: "/cdr-researcher-census/researchers/larissa-ghodszad-a5031546/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Nutrient recovery in pyrolysis biochars for agricultural applications–Biochemical compositions and nutrient extraction techniques** (2025)
-   10 citations · Biochar
+   11 citations · Biochar
 
 ## External Profiles
 

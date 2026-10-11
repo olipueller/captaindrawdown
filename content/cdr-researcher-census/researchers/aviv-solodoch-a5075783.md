@@ -1,7 +1,7 @@
 ---
 title: "Aviv Solodoch"
 description: "Aviv Solodoch is a Senior Ocean CDR researcher at Hebrew University of Jerusalem in IL. With 41 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.692362
+date: 2026-10-11T02:32:59.712938
 url: "/cdr-researcher-census/researchers/aviv-solodoch-a5075783/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Coastal-to-offshore submesoscale horizontal stirring enhances wintertime phytoplankton blooms in the ultra-oligotrophic Eastern Mediterranean Sea** (2026)
-   0 citations · Ocean CDR
+   1 citations · Ocean CDR
 
 2. **Submesoscale horizontal stirring enhances seasonal enrichment of low-chlorophyll surface waters in the Eastern Mediterranean** (2025)
    0 citations · Ocean CDR

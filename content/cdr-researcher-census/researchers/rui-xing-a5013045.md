@@ -1,7 +1,7 @@
 ---
 title: "Rui Xing"
 description: "Rui Xing is a Senior DAC researcher at Tianjin University of Science and Technology in CN. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.735206
+date: 2026-10-11T02:32:59.757074
 url: "/cdr-researcher-census/researchers/rui-xing-a5013045/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Technology, technology, technology: An integrated assessment of deep decarbonization pathways for the Canadian oil sands** (2022)
-   30 citations · DAC
+   31 citations · DAC
 
 2. **The techno-economic analysis of renewable methanol** (2025)
-   3 citations · DAC
+   5 citations · DAC
 
 ## External Profiles
 

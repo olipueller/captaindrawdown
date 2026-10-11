@@ -1,7 +1,7 @@
 ---
 title: "Lukas Marx"
 description: "Lukas Marx is a Mid-career Ocean CDR researcher at Marine and Freshwater Research Institute in IS. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.202250
+date: 2026-10-11T02:33:00.232304
 url: "/cdr-researcher-census/researchers/lukas-marx-a5002822/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Microbial ecosystem responses to alkalinity enhancement in the North Atlantic Subtropical Gyre** (2022)
-   69 citations · General CDR
+   64 citations · General CDR
 
-2. **A tracer study for the development of in-water monitoring, reporting, and verification (MRV) of ship-based ocean alkalinity enhancement** (2025)
-   8 citations · General CDR
+2. **Mineral formation during shipboard ocean alkalinity enhancement experiments in the North Atlantic** (2025)
+   12 citations · Ocean CDR
 
-3. **Mineral formation during shipboard ocean alkalinity enhancement experiments in the North Atlantic** (2025)
-   7 citations · Ocean CDR
+3. **A tracer study for the development of in-water monitoring, reporting, and verification (MRV) of ship-based ocean alkalinity enhancement** (2025)
+   10 citations · General CDR
 
 4. **Development of the ecological activity index as an integrative ecosystem assessment and monitoring asset for ocean alkalinity enhancement** (2025)
    4 citations · General CDR
 
-5. **Mineral Formation during Shipboard Ocean Alkalinity Enhancement Experiments in the North Atlantic** (2025)
-   3 citations
+5. **The effects of elevated seawater pH and total alkalinity following dosing of sodium hydroxide in <i>Calanus finmarchicus</i>** (2026)
+   3 citations · General CDR
 
-6. **The effects of elevated seawater pH and total alkalinity following dosing of sodium hydroxide in <i>Calanus finmarchicus</i>** (2026)
-   2 citations · General CDR
+6. **Mineral Formation during Shipboard Ocean Alkalinity Enhancement Experiments in the North Atlantic** (2025)
+   3 citations
 
 7. **A tracer study for the development of in-water monitoring, reporting, and verification (MRV) of ship-based ocean alkalinity enhancement** (2025)
    2 citations

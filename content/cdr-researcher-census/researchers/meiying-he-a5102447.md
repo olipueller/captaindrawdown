@@ -1,7 +1,7 @@
 ---
 title: "Meiying He"
 description: "Meiying He is a Mid-career Biochar researcher at Guangdong University of Technology in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.478901
+date: 2026-10-11T02:32:59.490296
 url: "/cdr-researcher-census/researchers/meiying-he-a5102447/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Facile Modification of Biochar Derived from Agricultural Straw Waste with Effective Adsorption and Removal of Phosphorus from Domestic Sewage** (2021)
-   27 citations · Biochar
+   29 citations · Biochar
 
 ## External Profiles
 

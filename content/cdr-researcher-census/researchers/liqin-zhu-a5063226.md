@@ -1,7 +1,7 @@
 ---
 title: "Liqin Zhu"
 description: "Liqin Zhu is a Senior Soil Carbon researcher at Fujian Normal University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.205308
+date: 2026-10-11T02:33:00.234978
 url: "/cdr-researcher-census/researchers/liqin-zhu-a5063226/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Initial effects of crop tree release and traditional thinning on productivity and carbon storage of Cunninghamia lanceolata plantation** (2023)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 ## External Profiles
 

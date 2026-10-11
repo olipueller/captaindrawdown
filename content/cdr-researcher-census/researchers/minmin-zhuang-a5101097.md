@@ -1,7 +1,7 @@
 ---
 title: "Minmin Zhuang"
 description: "Minmin Zhuang is a Mid-career Ocean CDR researcher at Shanghai Ocean University in CN. With 20 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.396739
+date: 2026-10-11T02:32:59.405673
 url: "/cdr-researcher-census/researchers/minmin-zhuang-a5101097/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Removable carbon and storage carbon of golden tides** (2023)
-   10 citations · Ocean CDR
+   11 citations · Ocean CDR
 
 ## External Profiles
 

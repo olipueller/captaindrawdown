@@ -1,7 +1,7 @@
 ---
 title: "Katy E. Limpert"
 description: "Katy E. Limpert is a Mid-career Soil Carbon researcher at Deakin University in AU. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.177930
+date: 2026-10-11T02:33:00.207915
 url: "/cdr-researcher-census/researchers/katy-e-limpert-a5085502/"
 layout: "researcher"
 hiddenInHomeList: true

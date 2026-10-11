@@ -1,7 +1,7 @@
 ---
 title: "Jeevan Mathew Tharayil"
 description: "Jeevan Mathew Tharayil is a Mid-career Biochar researcher at Amrita Vishwa Vidyapeetham in IN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.041060
+date: 2026-10-11T02:33:00.071947
 url: "/cdr-researcher-census/researchers/jeevan-mathew-tharayil-a5032590/"
 layout: "researcher"
 hiddenInHomeList: true

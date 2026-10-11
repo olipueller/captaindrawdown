@@ -1,7 +1,7 @@
 ---
 title: "Rémi Pagès"
 description: "Rémi Pagès is a Mid-career Ocean CDR researcher at University of Alaska Fairbanks in US. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.899127
+date: 2026-10-11T02:32:59.928391
 url: "/cdr-researcher-census/researchers/remi-pages-a5054909/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Regional ocean biogeochemical modeling challenges for predicting the effectiveness of marine carbon dioxide removal** (2025)
-   4 citations · General CDR
+   6 citations · General CDR
 
 2. **Integrating laboratory-based secondary precipitation thresholds with ocean biogeochemistry models to advance ocean alkalinity enhancement decision-making** (2026)
    0 citations · Ocean CDR

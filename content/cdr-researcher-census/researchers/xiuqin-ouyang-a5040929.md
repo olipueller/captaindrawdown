@@ -1,7 +1,7 @@
 ---
 title: "Xiuqin Ouyang"
 description: "Xiuqin Ouyang is a Mid-career Soil Carbon researcher at Xinyu University in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.393545
+date: 2026-10-11T02:33:00.430990
 url: "/cdr-researcher-census/researchers/xiuqin-ouyang-a5040929/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of Cow-Dung Vermicomposting on Soil Carbon Mineralization and Temperature Sensitivity in Camellia oleifera Forest** (2024)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Kajsa Henryson"
 description: "Kajsa Henryson is a Mid-career Soil Carbon researcher at Swedish University of Agricultural Sciences in SE. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.795271
+date: 2026-10-11T02:32:59.818782
 url: "/cdr-researcher-census/researchers/kajsa-henryson-a5067205/"
 layout: "researcher"
 hiddenInHomeList: true

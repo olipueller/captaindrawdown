@@ -1,7 +1,7 @@
 ---
 title: "Fude Liu"
 description: "Fude Liu is a Mid-career Soil Carbon researcher at First Affiliated Hospital of Xi'an Jiaotong University in CN. With 26 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.368710
+date: 2026-10-11T02:33:00.404330
 url: "/cdr-researcher-census/researchers/fude-liu-a5115594/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Co-existence strategies and carbon sequestration contributions of bacterial generalists and specialists in natural wetlands under land use and land cover change** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 2. **Contrasting soil organic carbon sequestration mechanisms in intertidal and supratidal habitats of coastal wetlands divided by seawalls** (2025)
    3 citations · Soil Carbon

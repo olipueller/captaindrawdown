@@ -1,7 +1,7 @@
 ---
 title: "Kaikai Fang"
 description: "Kaikai Fang is a Mid-career Soil Carbon researcher at Zhejiang University of Science and Technology in CN. With 31 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.323547
+date: 2026-10-11T02:32:59.329135
 url: "/cdr-researcher-census/researchers/kaikai-fang-a5102379/"
 layout: "researcher"
 hiddenInHomeList: true

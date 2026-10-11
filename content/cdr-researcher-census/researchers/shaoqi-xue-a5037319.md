@@ -1,7 +1,7 @@
 ---
 title: "Shaoqi Xue"
 description: "Shaoqi Xue is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.012457
+date: 2026-10-11T02:33:00.043257
 url: "/cdr-researcher-census/researchers/shaoqi-xue-a5037319/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term tillage and cropping systems affect soil organic carbon components and mineralization in aggregates in semiarid regions** (2023)
-   52 citations · Soil Carbon
+   55 citations · Soil Carbon
 
-2. **Soil carbon sequestration and aggregate stability improvement by tillage methods in China’s Loess Plateau** (2022)
+2. **Green manure enhances soil organic carbon sequestration while increasing the risk of soil inorganic carbon loss in calcareous soils** (2025)
    7 citations · Soil Carbon
 
-3. **Green manure enhances soil organic carbon sequestration while increasing the risk of soil inorganic carbon loss in calcareous soils** (2025)
-   6 citations · Soil Carbon
+3. **Soil carbon sequestration and aggregate stability improvement by tillage methods in China’s Loess Plateau** (2022)
+   7 citations · Soil Carbon
 
 4. **Temperature Sensitivity of Soil Organic Carbon Mineralization Is Regulated by Exogenous Organic Matter Forms and the Degree of Soil Salinization** (2024)
    3 citations · Soil Carbon

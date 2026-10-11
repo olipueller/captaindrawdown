@@ -1,7 +1,7 @@
 ---
 title: "Tianqi Guo"
 description: "Tianqi Guo is a Mid-career Soil Carbon researcher at Baotou Medical College in CN. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.673516
+date: 2026-10-11T02:32:59.693366
 url: "/cdr-researcher-census/researchers/tianqi-guo-a5101407/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,12 +51,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Changes in soil moisture and organic carbon under deep-rooted trees of different stand ages on the Chinese Loess Plateau** (2022)
-   48 citations · Soil Carbon
+   50 citations · Soil Carbon
 
 2. **Effects of long-term diversified crop rotations on soil carbon dynamics mediated by microbial carbon degradation genes in the Loess Plateau** (2026)
    3 citations · Soil Carbon
 
-3. **Regulation of Soil Carbon Fractions by Microbial C Degradation Genes Under Long-Term Crop Rotation on the Loess Plateau** (2024)
+3. **Spatiotemporal variations of carbon-water-hydraulic risk for Pinus tabuliformis L. Plantations on the Loess Plateau under Future Climate Change** (2026)
+   0 citations
+
+4. **Regulation of Soil Carbon Fractions by Microbial C Degradation Genes Under Long-Term Crop Rotation on the Loess Plateau** (2024)
    0 citations · Soil Carbon
 
 ## External Profiles

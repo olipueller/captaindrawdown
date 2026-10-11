@@ -1,7 +1,7 @@
 ---
 title: "Ronak Patel"
-description: "Ronak Patel is a Senior Biochar researcher at L.D. College of Engineering in IN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.089430
+description: "Ronak Patel is a Mid-career Biochar researcher at L.D. College of Engineering in IN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:33:00.252035
 url: "/cdr-researcher-census/researchers/ronak-patel-a5101672/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -30,7 +30,7 @@ robots: "index, follow"
 **Ronak Patel**  
 L.D. College of Engineering · 🇮🇳 IN
 
-**Career Stage:** Senior
+**Career Stage:** Mid-career
 
 ## CDR Specialization
 
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 164 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 133 |
+| Publications | 8 |
+| CDR Focus | 12.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

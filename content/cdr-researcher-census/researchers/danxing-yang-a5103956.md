@@ -1,7 +1,7 @@
 ---
 title: "Danxing Yang"
 description: "Danxing Yang is a Mid-career Biochar researcher at State Key Laboratory of Pollution Control and Resource Reuse in CN. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.287068
+date: 2026-10-11T02:32:59.291948
 url: "/cdr-researcher-census/researchers/danxing-yang-a5103956/"
 layout: "researcher"
 hiddenInHomeList: true

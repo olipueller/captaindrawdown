@@ -1,7 +1,7 @@
 ---
 title: "Erniza Mohd Johan Jaya"
 description: "Erniza Mohd Johan Jaya is an Early-career Biochar researcher at Universiti Sains Malaysia in MY. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.150039
+date: 2026-10-11T02:33:00.179816
 url: "/cdr-researcher-census/researchers/erniza-mohd-johan-jaya-a5078088/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Single-stage microwave assisted coconut shell based activated carbon for removal of Zn(II) ions from aqueous solution – Optimization and batch studies** (2022)
-   66 citations · Biochar
+   65 citations · Biochar
 
 2. **Single-Stage Microwave-Assisted Coconut-Shell-Based Activated Carbon for Removal of Dichlorodiphenyltrichloroethane (DDT) from Aqueous Solution: Optimization and Batch Studies** (2021)
    33 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Elmar Zozmann"
 description: "Elmar Zozmann is an Early-career Biochar researcher at Institute for Ecological Economy Research in DE. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.390551
+date: 2026-10-11T02:33:00.427845
 url: "/cdr-researcher-census/researchers/elmar-zozmann-a5014692/"
 layout: "researcher"
 hiddenInHomeList: true

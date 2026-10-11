@@ -1,7 +1,7 @@
 ---
 title: "Heath Hasemer"
 description: "Heath Hasemer is an Early-career Enhanced Weathering researcher at Australian National University in AU. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.944031
+date: 2026-10-11T02:32:59.974235
 url: "/cdr-researcher-census/researchers/heath-hasemer-a5080400/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Stabilisation of soil organic matter with rock dust partially counteracted by plants** (2023)
-   67 citations · Enhanced Weathering
+   69 citations · Enhanced Weathering
 
 2. **Applying minerals to soil to draw down atmospheric carbon dioxide through synergistic organic and inorganic pathways** (2024)
    52 citations · Biochar

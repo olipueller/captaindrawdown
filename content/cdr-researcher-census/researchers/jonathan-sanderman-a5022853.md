@@ -1,7 +1,7 @@
 ---
 title: "Jonathan Sanderman"
 description: "Jonathan Sanderman is an Eminent Soil Carbon researcher at Woodwell Climate Research Center in US. With 254 publications and an h-index of 58, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.018059
+date: 2026-10-11T02:32:59.021180
 url: "/cdr-researcher-census/researchers/jonathan-sanderman-a5022853/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Future carbon emissions from global mangrove forest loss** (2021)
-   254 citations · General CDR
+   272 citations · General CDR
 
 2. **The global potential for increased storage of carbon on land** (2022)
-   241 citations · General CDR
+   236 citations · General CDR
 
 3. **Crediting agricultural soil carbon sequestration** (2022)
-   211 citations · General CDR
+   214 citations · General CDR
 
 4. **Declines in soil carbon storage under no tillage can be alleviated in the long run** (2022)
-   102 citations · Soil Carbon
+   101 citations · Soil Carbon
 
 5. **Potential of globally distributed topsoil mid-infrared spectral library for organic carbon estimation** (2023)
-   30 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 6. **The need for knowledge transfer and communication among stakeholders in the voluntary carbon market** (2022)
    28 citations · General CDR
@@ -72,13 +72,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    24 citations · General CDR
 
 8. **Climate mitigation through soil amendments: quantification, evidence, and uncertainty** (2023)
-   20 citations · General CDR
+   19 citations · General CDR
 
 9. **Can Agricultural Management Induced Changes in Soil Organic Carbon Be Detected Using Mid-Infrared Spectroscopy?** (2021)
-   20 citations · Soil Carbon
+   19 citations · Soil Carbon
 
-10. **Comparison of pyrogenic carbon abundance in coarse-textured soil by hydrogen pyrolysis, NMR and dichromate oxidation and MIR-PLSR** (2025)
-   6 citations · Biochar
+10. **Coupling Remote Sensing With a Process Model for the Simulation of Rangeland Carbon Dynamics** (2025)
+   7 citations · Soil Carbon
 
 ## External Profiles
 

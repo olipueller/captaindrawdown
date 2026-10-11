@@ -1,7 +1,7 @@
 ---
 title: "Lulu Zhang"
 description: "Lulu Zhang is a Mid-career Soil Carbon researcher at Hebei University of Science and Technology in CN. With 32 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.476119
+date: 2026-10-11T02:32:59.487406
 url: "/cdr-researcher-census/researchers/lulu-zhang-a5100431/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Fiddler crab bioturbation stimulates methane emissions in mangroves: Insights into microbial mechanisms** (2024)
-   43 citations · Soil Carbon
+   45 citations · Soil Carbon
 
 2. **Fate of soil organic carbon in estuarine mangroves: Evidences from stable isotopes and lignin biomarkers** (2024)
-   30 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 3. **Blue carbon storage of tidal flats and salt marshes: A comparative assessment in two Chinese coastal areas** (2024)
-   26 citations · Ocean CDR
+   28 citations · Ocean CDR
 
 4. **Mangrove restoration enhances blue carbon sequestration and its stability in a subtropical tidal wetland** (2025)
    14 citations · Ocean CDR

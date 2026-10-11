@@ -1,7 +1,7 @@
 ---
 title: "Haibo Zhai"
 description: "Haibo Zhai is a Senior BECCS researcher at University of Wyoming in US. With 106 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.072498
+date: 2026-10-11T02:32:59.077207
 url: "/cdr-researcher-census/researchers/haibo-zhai-a5073584/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    25 citations · General CDR
 
 2. **Consumptive life cycle water use of biomass-to-power plants with carbon capture and sequestration** (2021)
-   24 citations · BECCS
+   25 citations · BECCS
 
 3. **Energy-efficient and water-saving sorbent regeneration at near room temperature for direct air capture** (2023)
-   19 citations
+   20 citations
 
 4. **Fossil-Fuel Options for Power Sector Net-Zero Emissions with Sequestration Tax Credits** (2022)
    10 citations · BECCS

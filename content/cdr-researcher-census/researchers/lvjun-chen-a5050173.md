@@ -1,7 +1,7 @@
 ---
 title: "Lvjun Chen"
 description: "Lvjun Chen is a Senior Biochar researcher at Nanjing University of Science and Technology in CN. With 42 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.397705
+date: 2026-10-11T02:32:59.406773
 url: "/cdr-researcher-census/researchers/lvjun-chen-a5050173/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Removal of Phosphorus from Domestic Sewage in Rural Areas Using Oyster Shell-Modified Agricultural Waste–Rice Husk Biochar** (2023)
-   20 citations · Biochar
+   21 citations · Biochar
 
 2. **Adsorption Removal of Phosphate from Rural Domestic Sewage by Ca-Modified Biochar Derived from Waste Eggshell and Sawdust** (2023)
    13 citations · Biochar

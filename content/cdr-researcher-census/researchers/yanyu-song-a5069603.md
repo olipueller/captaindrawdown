@@ -1,7 +1,7 @@
 ---
 title: "Yanyu Song"
 description: "Yanyu Song is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 45 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.358583
+date: 2026-10-11T02:32:59.365336
 url: "/cdr-researcher-census/researchers/yanyu-song-a5069603/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,27 +51,33 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Research progress and perspectives on ecological processes and carbon feedback in permafrost wetlands under changing climate conditions** (2024)
-   9 citations · General CDR
+   11 citations · General CDR
 
 2. **Soil water content and RubisCO activity control the carbon storage in soil under different land uses in Sanjiang Plain, China** (2024)
    8 citations · Soil Carbon
 
-3. **Soil CO2-fixation by cbbL-harboring microorganisms in different types of permafrost peatlands** (2025)
+3. **Optimizing green manure application for achieving reduced greenhouse gas emissions and sustained crop yields** (2026)
+   3 citations
+
+4. **Soil CO2-fixation by cbbL-harboring microorganisms in different types of permafrost peatlands** (2025)
    3 citations · Soil Carbon
 
-4. **Soil moisture content, cbbM gene abundance and salinity-alkalinity are crucial factors for soil carbon content during wetland reclamation and restoration** (2025)
+5. **Soil moisture content, cbbM gene abundance and salinity-alkalinity are crucial factors for soil carbon content during wetland reclamation and restoration** (2025)
    2 citations · Soil Carbon
 
-5. **Changes of Soil Carbon Driven by Soil Water and Carbon Fixing Microbe Under Different Wetland Use in Songnen Plain, China** (2025)
+6. **Changes of Soil Carbon Driven by Soil Water and Carbon Fixing Microbe under Different Wetland Use in Songnen Plain, China** (2026)
    0 citations
 
-6. **Changes of Soil Carbon Driven by Soil Water and Carbon Fixing Microbe Under Different Wetland Use in Songnen Plain, China** (2025)
+7. **Changes of Soil Carbon Driven by Soil Water and Carbon Fixing Microbe Under Different Wetland Use in Songnen Plain, China** (2025)
+   0 citations
+
+8. **Changes of Soil Carbon Driven by Soil Water and Carbon Fixing Microbe Under Different Wetland Use in Songnen Plain, China** (2025)
    0 citations · Soil Carbon
 
-7. **Soil Water Content, Cbbm Gene Abundance and Saline-Alkaline are Crucial Factors for Soil Carbon Content During Wetland Reclamation and Restoration** (2025)
+9. **Soil Water Content, Cbbm Gene Abundance and Saline-Alkaline are Crucial Factors for Soil Carbon Content During Wetland Reclamation and Restoration** (2025)
    0 citations · Soil Carbon
 
-8. **Elevated salinity decreases soil microbial CO2-fixation rates and alters carbon fixation pathway in wetlands of Songnen Plain** (2024)
+10. **Elevated salinity decreases soil microbial CO2-fixation rates and alters carbon fixation pathway in wetlands of Songnen Plain** (2024)
    0 citations · Soil Carbon
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Steven Pearce"
 description: "Steven Pearce is a Senior Enhanced Weathering researcher at Environment Agency in GB. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.387090
+date: 2026-10-11T02:33:00.424097
 url: "/cdr-researcher-census/researchers/steven-pearce-a5005712/"
 layout: "researcher"
 hiddenInHomeList: true

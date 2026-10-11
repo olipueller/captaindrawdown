@@ -1,7 +1,7 @@
 ---
 title: "Luis D. Loor-Úrgilés"
 description: "Luis D. Loor-Úrgilés is a Mid-career General CDR researcher at Serviço Nacional de Aprendizagem Industrial in BR. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.097970
+date: 2026-10-11T02:33:00.128723
 url: "/cdr-researcher-census/researchers/luis-d-loor-urgiles-a5013267/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -52,6 +52,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 1. **Basics and fundamentals of the mechanisms of electrochemical reactors** (2024)
    2 citations · General CDR
+
+2. **Advanced oxidation and photocatalytic processes utilising biochar for wastewater treatment** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

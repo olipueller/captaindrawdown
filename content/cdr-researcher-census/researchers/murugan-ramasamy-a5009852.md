@@ -1,7 +1,7 @@
 ---
 title: "Murugan Ramasamy"
 description: "Murugan Ramasamy is a Mid-career Ocean CDR researcher at Leibniz Centre for Tropical Marine Research in DE. With 34 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.624839
+date: 2026-10-11T02:32:59.643207
 url: "/cdr-researcher-census/researchers/murugan-ramasamy-a5009852/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Regional potential of coastal ocean alkalinization with olivine within 100 years** (2024)
-   11 citations · Enhanced Weathering
+   13 citations · Enhanced Weathering
 
 2. **Exploring Site‐Specific Carbon Dioxide Removal Options With Storage or Sequestration in the Marine Environment – The 10 Mt CO<sub>2</sub> yr<sup>−1</sup> Removal Challenge for Germany** (2025)
-   8 citations · General CDR
+   9 citations · General CDR
 
 3. **Exploring site-specific carbon dioxide removal options with storage or sequestration in the marine environment - The 10 Mt CO2 yr-1 removal challenge for Germany** (2024)
    0 citations · General CDR

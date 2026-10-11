@@ -1,7 +1,7 @@
 ---
 title: "Melkamu Kassaye"
 description: "Melkamu Kassaye is a Mid-career Soil Carbon researcher at Jigjiga University in ET. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.382252
+date: 2026-10-11T02:33:00.418134
 url: "/cdr-researcher-census/researchers/melkamu-kassaye-a5054928/"
 layout: "researcher"
 hiddenInHomeList: true

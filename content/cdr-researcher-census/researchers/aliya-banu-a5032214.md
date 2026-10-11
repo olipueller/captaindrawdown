@@ -1,7 +1,7 @@
 ---
 title: "Aliya Banu"
 description: "Aliya Banu is a Mid-career DAC researcher at Hamad bin Khalifa University in QA. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.753724
+date: 2026-10-11T02:32:59.776108
 url: "/cdr-researcher-census/researchers/aliya-banu-a5032214/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -58,6 +58,9 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 3. **Advanced direct air capture of CO2 using air conditioning systems: a life cycle assessment** (2025)
    3 citations · DAC
+
+4. **Integrated DAC-HVAC systems for CO <sub>2</sub> capture and sustainable hydrogen production from condensed water** (2026)
+   0 citations · DAC
 
 ## External Profiles
 

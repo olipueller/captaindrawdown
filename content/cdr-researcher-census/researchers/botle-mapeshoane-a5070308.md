@@ -1,7 +1,7 @@
 ---
 title: "Botle Mapeshoane"
 description: "Botle Mapeshoane is a Mid-career Soil Carbon researcher at National University of Lesotho in LS. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.375815
+date: 2026-10-11T02:33:00.411275
 url: "/cdr-researcher-census/researchers/botle-mapeshoane-a5070308/"
 layout: "researcher"
 hiddenInHomeList: true

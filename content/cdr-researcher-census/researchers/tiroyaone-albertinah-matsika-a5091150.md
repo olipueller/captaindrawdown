@@ -1,7 +1,7 @@
 ---
 title: "Tiroyaone Albertinah Matsika"
 description: "Tiroyaone Albertinah Matsika is a Mid-career Soil Carbon researcher at University of Botswana in BW. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.097251
+date: 2026-10-11T02:33:00.127970
 url: "/cdr-researcher-census/researchers/tiroyaone-albertinah-matsika-a5091150/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Conservation Agriculture for Sustainable Soil Health Management: A Review of Impacts, Benefits and Future Directions** (2025)
-   33 citations · Soil Carbon
+   37 citations · Soil Carbon
 
 2. **Biochar Characteristics and Application: Effects on Soil Ecosystem Services and Nutrient Dynamics for Enhanced Crop Yields** (2025)
-   32 citations · Biochar
+   34 citations · Biochar
 
 ## External Profiles
 

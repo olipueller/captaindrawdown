@@ -1,7 +1,7 @@
 ---
 title: "Thidarat Rupngam"
 description: "Thidarat Rupngam is a Mid-career Soil Carbon researcher at Chiang Mai University in TH. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.129455
+date: 2026-10-11T02:33:00.159797
 url: "/cdr-researcher-census/researchers/thidarat-rupngam-a5046433/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Unraveling the Interactions between Flooding Dynamics and Agricultural Productivity in a Changing Climate** (2024)
-   88 citations
+   96 citations
 
 2. **A Critical Review of Regenerative Soil Management: A Novel Scoring System for <scp>SOC</scp> and <scp>GHG</scp> Emissions in Southeast Asia** (2025)
    5 citations · General CDR

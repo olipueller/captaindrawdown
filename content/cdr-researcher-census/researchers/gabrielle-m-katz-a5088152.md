@@ -1,7 +1,7 @@
 ---
 title: "Gabrielle M. Katz"
 description: "Gabrielle M. Katz is a Mid-career General CDR researcher at University of Toronto in CA. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.892481
+date: 2026-10-11T02:32:59.920632
 url: "/cdr-researcher-census/researchers/gabrielle-m-katz-a5088152/"
 layout: "researcher"
 hiddenInHomeList: true

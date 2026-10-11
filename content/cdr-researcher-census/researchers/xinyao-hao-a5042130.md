@@ -1,7 +1,7 @@
 ---
 title: "Xinyao Hao"
 description: "Xinyao Hao is a Mid-career Soil Carbon researcher at Tianjin University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.702438
+date: 2026-10-11T02:32:59.722582
 url: "/cdr-researcher-census/researchers/xinyao-hao-a5042130/"
 layout: "researcher"
 hiddenInHomeList: true

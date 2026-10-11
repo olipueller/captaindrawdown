@@ -1,7 +1,7 @@
 ---
 title: "Madan Prasad Singh"
 description: "Madan Prasad Singh is a Mid-career Soil Carbon researcher at Institute of Wood Science and Technology in IN. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.401225
+date: 2026-10-11T02:33:00.439247
 url: "/cdr-researcher-census/researchers/madan-prasad-singh-a5005270/"
 layout: "researcher"
 hiddenInHomeList: true

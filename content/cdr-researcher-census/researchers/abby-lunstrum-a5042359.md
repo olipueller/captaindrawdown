@@ -1,7 +1,7 @@
 ---
 title: "Abby Lunstrum"
-description: "Abby Lunstrum is a Mid-career Enhanced Weathering researcher at Yale University in US. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.500740
+description: "Abby Lunstrum is a Mid-career General CDR researcher at Yale University in US. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:32:59.513204
 url: "/cdr-researcher-census/researchers/abby-lunstrum-a5042359/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Yale University · 🇺🇸 US
 
 ## CDR Specialization
 
-**Enhanced Weathering**
+**General CDR**
 
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,31 +45,31 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 9 |
 | Citations | 467 |
 | Publications | 20 |
-| CDR Focus | 30.0% |
-| Trajectory | Stable |
+| CDR Focus | 45.0% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   62 citations · General CDR
+   61 citations · General CDR
 
 2. **CaCO3 dissolution in carbonate-poor shelf sands increases with ocean acidification and porewater residence time** (2022)
-   31 citations · Enhanced Weathering
+   32 citations · Enhanced Weathering
 
 3. **An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering** (2026)
-   0 citations · Enhanced Weathering
+   1 citations · Enhanced Weathering
 
-4. **Chapter 10: Costs and Potentials, The State of Carbon Dioxide Removal - 3rd Edition (2026)** (2026)
-   0 citations · General CDR
+4. **A framework for understanding efficiency losses of Ocean Alkalinity Enhancement** (2025)
+   1 citations · Ocean CDR
 
 5. **Chapter 10: Costs and Potentials, The State of Carbon Dioxide Removal - 3rd Edition (2026)** (2026)
    0 citations · General CDR
 
-6. **The State of Carbon Dioxide Removal - 3rd Edition (2026)** (2026)
+6. **Chapter 10: Costs and Potentials, The State of Carbon Dioxide Removal - 3rd Edition (2026)** (2026)
    0 citations · General CDR
 
-7. **A framework for understanding efficiency losses of Ocean Alkalinity Enhancement** (2025)
-   0 citations · Ocean CDR
+7. **The State of Carbon Dioxide Removal - 3rd Edition (2026)** (2026)
+   0 citations · General CDR
 
 8. **Sediment consumption of added alkalinity reduces the efficacy of ocean alkalinity enhancement** (2024)
    0 citations · Ocean CDR

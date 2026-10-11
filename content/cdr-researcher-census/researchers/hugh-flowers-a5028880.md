@@ -1,7 +1,7 @@
 ---
 title: "Hugh Flowers"
 description: "Hugh Flowers is a Senior Soil Carbon researcher at University of Glasgow in GB. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.073277
+date: 2026-10-11T02:33:00.103449
 url: "/cdr-researcher-census/researchers/hugh-flowers-a5028880/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Identifying and understanding how critical landscapes for carbon sequestration respond to development for low carbon energy production: Insight to inform optimal land planning and management strategies** (2025)
-   0 citations · General CDR
+   1 citations · General CDR
 
 ## External Profiles
 

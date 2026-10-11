@@ -1,7 +1,7 @@
 ---
 title: "Wenkai Hui"
 description: "Wenkai Hui is a Mid-career Soil Carbon researcher at Sichuan Agricultural University in CN. With 79 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.319450
+date: 2026-10-11T02:32:59.325278
 url: "/cdr-researcher-census/researchers/wenkai-hui-a5018941/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Conversion effects of farmland to Zanthoxylum bungeanum plantations on soil organic carbon fractions in the arid valley of the upper reaches of the yangtze river, china** (2022)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 2. **Conversion effects of farmland to Zanthoxylum bungeanum plantations on soil organic carbon mineralization in the arid valley of the upper reaches of Yangtze River, China** (2022)
    8 citations · Soil Carbon

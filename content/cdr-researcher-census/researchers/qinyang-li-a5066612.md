@@ -1,7 +1,7 @@
 ---
 title: "Qinyang Li"
 description: "Qinyang Li is a Mid-career Biochar researcher at Aesthetic Surgery Center in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.249273
+date: 2026-10-11T02:33:00.279070
 url: "/cdr-researcher-census/researchers/qinyang-li-a5066612/"
 layout: "researcher"
 hiddenInHomeList: true

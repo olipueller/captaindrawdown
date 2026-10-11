@@ -1,7 +1,7 @@
 ---
 title: "Sunita Barot"
 description: "Sunita Barot is a Mid-career BECCS researcher at Analytical Services in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.396176
+date: 2026-10-11T02:33:00.434407
 url: "/cdr-researcher-census/researchers/sunita-barot-a5081021/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Biomass and Bioenergy: Resources, Conversion and Application** (2022)
-   38 citations · BECCS
+   39 citations · BECCS
 
 ## External Profiles
 

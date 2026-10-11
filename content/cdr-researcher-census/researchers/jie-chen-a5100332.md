@@ -1,7 +1,7 @@
 ---
 title: "Jie Chen"
 description: "Jie Chen is a Senior Soil Carbon researcher at Huanggang Normal University in CN. With 63 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.170244
+date: 2026-10-11T02:32:59.174345
 url: "/cdr-researcher-census/researchers/jie-chen-a5100332/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    15 citations · Soil Carbon
 
 2. **Successive walnut plantations alter soil carbon quantity and quality by modifying microbial communities and enzyme activities** (2022)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 3. **Response of soil microbial community to plant composition changes in broad-leaved forests of the karst area in Mid-Subtropical China** (2022)
    12 citations · Soil Carbon
 
 4. **Plant Functional Traits Define Microbial Response to Nutrient Availability in Tropical Rainforest Soil** (2025)
-   8 citations
+   9 citations
 
 5. **Long-Term Phosphorus Addition Alleviates Co2 and N2o Emissions Via Altering Soil Microbial Functions in Secondary Rather Primary Tropical Forests** (2022)
    1 citations · Soil Carbon

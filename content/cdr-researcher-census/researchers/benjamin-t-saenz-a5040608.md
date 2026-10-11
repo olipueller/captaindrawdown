@@ -1,7 +1,7 @@
 ---
 title: "Benjamin T. Saenz"
 description: "Benjamin T. Saenz is a Mid-career Ocean CDR researcher at University of Colorado Boulder in US. With 42 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.416843
+date: 2026-10-11T02:32:59.426761
 url: "/cdr-researcher-census/researchers/benjamin-t-saenz-a5040608/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    41 citations · Ocean CDR
 
 2. **Biophysical potential and uncertainties of global seaweed farming** (2022)
-   7 citations · General CDR
+   6 citations · General CDR
 
 3. **ROMS-Tools: Reproducible Preprocessing and Analysis for Regional Ocean Modeling with ROMS** (2026)
    0 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Balaji Baduru"
 description: "Balaji Baduru is a Mid-career Ocean CDR researcher at Indian Institute of Tropical Meteorology in IN. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.143088
+date: 2026-10-11T02:33:00.173321
 url: "/cdr-researcher-census/researchers/balaji-baduru-a5082749/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Indian Ocean Acidification and Its Driving Mechanisms Over the Last Four Decades (1980–2019)** (2024)
-   21 citations · Ocean CDR
+   23 citations · Ocean CDR
 
 2. **Response of Surface Ocean pCO<sub>2</sub> to Tropical Cyclones in Two Contrasting Basins of the Northern Indian Ocean** (2023)
    9 citations · Ocean CDR

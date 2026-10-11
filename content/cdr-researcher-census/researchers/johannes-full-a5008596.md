@@ -1,7 +1,7 @@
 ---
 title: "Johannes Full"
 description: "Johannes Full is a Senior BECCS researcher at Fraunhofer-Institut für Produktionstechnik und Automatisierung IPA in DE. With 23 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.342168
+date: 2026-10-11T02:32:59.348210
 url: "/cdr-researcher-census/researchers/johannes-full-a5008596/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -59,11 +59,11 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 3. **Carbon‐negative hydrogen production: Fundamentals for a techno‐economic and environmental assessment of HyBECCS approaches** (2022)
    27 citations · BECCS
 
-4. **Carbon-Negative Hydrogen Production (HyBECCS) from Organic Waste Materials in Germany: How to Estimate Bioenergy and Greenhouse Gas Mitigation Potential** (2021)
-   21 citations · BECCS
+4. **Perspectives of Biogas Plants as BECCS Facilities: A Comparative Analysis of Biomethane vs. Biohydrogen Production with Carbon Capture and Storage or Use (CCS/CCU)** (2023)
+   22 citations · BECCS
 
-5. **Perspectives of Biogas Plants as BECCS Facilities: A Comparative Analysis of Biomethane vs. Biohydrogen Production with Carbon Capture and Storage or Use (CCS/CCU)** (2023)
-   19 citations · BECCS
+5. **Carbon-Negative Hydrogen Production (HyBECCS) from Organic Waste Materials in Germany: How to Estimate Bioenergy and Greenhouse Gas Mitigation Potential** (2021)
+   22 citations · BECCS
 
 6. **Biogas Plants as Hydrogen Production Facilities and Greenhouse Gas Sinks: Technology Comparison, Challenges and Potentials for Carbon Negative Hydrogen Production (HyBECCS)** (2022)
    7 citations · BECCS

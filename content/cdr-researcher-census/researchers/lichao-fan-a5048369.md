@@ -1,7 +1,7 @@
 ---
 title: "Lichao Fan"
 description: "Lichao Fan is a Senior Soil Carbon researcher at University of Goettingen in DE. With 55 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.133026
+date: 2026-10-11T02:32:59.137854
 url: "/cdr-researcher-census/researchers/lichao-fan-a5048369/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,30 +51,33 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Nitrogen fertilizer builds soil organic carbon under straw return mainly via microbial necromass formation** (2023)
-   209 citations · Soil Carbon
+   217 citations · Soil Carbon
 
 2. **Visualization and quantification of carbon “rusty sink” by rice root iron plaque: Mechanisms, functions, and global implications** (2022)
-   86 citations · Soil Carbon
+   90 citations · Soil Carbon
 
 3. **Nitrification-induced acidity controls CO2 emission from soil carbonates** (2024)
-   38 citations · Soil Carbon
+   40 citations · Soil Carbon
 
 4. **Anthropogenic land-use driven changes in soil stoichiometry reduce microbial carbon use efficiency** (2025)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 5. **High-Dose Biochar Hinders Micro/Nanoplastic-Induced Soil Positive Priming by Reducing Substrate Quality and Microbial Activity** (2026)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
-6. **Nitrogen Fertilizer Builds Up Soil Organic Carbon Under Straw Return Via Microbial Necromass Formation** (2023)
+6. **Organic and inorganic carbon losses in straw amended saline and sodic soils** (2026)
+   3 citations
+
+7. **Nitrogen Fertilizer Builds Up Soil Organic Carbon Under Straw Return Via Microbial Necromass Formation** (2023)
    1 citations · Soil Carbon
 
-7. **Nitrogen Fertilizers Prime Bacterial Necromass Formation and Carbon Sequestration in Soil** (2022)
+8. **Nitrogen Fertilizers Prime Bacterial Necromass Formation and Carbon Sequestration in Soil** (2022)
    1 citations · Soil Carbon
 
-8. **Soil Acidification by Nitrification Controls Co 2  Emission from Soil Carbonates: 14 C Labeling of Caco 3** (2023)
+9. **Soil Acidification by Nitrification Controls Co 2  Emission from Soil Carbonates: 14 C Labeling of Caco 3** (2023)
    0 citations
 
-9. **Nitrogen fertilizers control CO2 emission from calcareous soils:&amp;#160;implications for land management and global warming** (2022)
+10. **Nitrogen fertilizers control CO2 emission from calcareous soils:&amp;#160;implications for land management and global warming** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

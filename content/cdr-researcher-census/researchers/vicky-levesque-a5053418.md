@@ -1,7 +1,7 @@
 ---
 title: "Vicky Lévesque"
 description: "Vicky Lévesque is a Mid-career Soil Carbon researcher at Agriculture and Agri-Food Canada in CA. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.563509
+date: 2026-10-11T02:32:59.579318
 url: "/cdr-researcher-census/researchers/vicky-levesque-a5053418/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biochar in temperate soils: opportunities and challenges** (2021)
-   33 citations · Biochar
+   34 citations · Biochar
 
 2. **Effect of Ramial Chipped Wood Amendment on Crop Yield and Soil Health in the Boreal Region of Canada** (2025)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Rajasekaran Murugan"
 description: "Rajasekaran Murugan is a Senior Soil Carbon researcher at BOKU University in AT. With 63 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.243534
+date: 2026-10-11T02:32:59.247273
 url: "/cdr-researcher-census/researchers/rajasekaran-murugan-a5058359/"
 layout: "researcher"
 hiddenInHomeList: true

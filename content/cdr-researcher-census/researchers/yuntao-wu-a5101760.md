@@ -1,7 +1,7 @@
 ---
 title: "Yuntao Wu"
 description: "Yuntao Wu is a Mid-career Soil Carbon researcher at Lishui University in CN. With 31 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.372715
+date: 2026-10-11T02:32:59.380058
 url: "/cdr-researcher-census/researchers/yuntao-wu-a5101760/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **High potential of stable carbon sequestration in phytoliths of China's grasslands** (2022)
-   55 citations · Soil Carbon
+   57 citations · Soil Carbon
 
 2. **Organic matter composition and stability in estuarine wetlands depending on soil salinity** (2024)
-   23 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 3. **Ecological stoichiometry of carbon, nitrogen, phosphorus, and silicon in coastal salt marsh plants and its implications for carbon sink management** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 4. **Phytolith biogeochemistry and silicon regulation of terrestrial biogeochemical carbon cycle** (2021)
    0 citations · Soil Carbon

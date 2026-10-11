@@ -1,7 +1,7 @@
 ---
 title: "Deepalakshmi Subramanian"
 description: "Deepalakshmi Subramanian is a Mid-career BECCS researcher at Institute of Advanced Research in IN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.550628
+date: 2026-10-11T02:32:59.565666
 url: "/cdr-researcher-census/researchers/deepalakshmi-subramanian-a5088741/"
 layout: "researcher"
 hiddenInHomeList: true

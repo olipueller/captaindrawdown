@@ -1,7 +1,7 @@
 ---
 title: "Zewei Shen"
 description: "Zewei Shen is a Mid-career BECCS researcher at Shaoxing University in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.005227
+date: 2026-10-11T02:33:00.036231
 url: "/cdr-researcher-census/researchers/zewei-shen-a5113031/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Qingxian Kong"
 description: "Qingxian Kong is a Senior Soil Carbon researcher at Tobacco Research Institute in CN. With 14 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.400257
+date: 2026-10-11T02:32:59.409421
 url: "/cdr-researcher-census/researchers/qingxian-kong-a5110363/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Hydrochar more effectively mitigated nitrous oxide emissions than pyrochar from a coastal soil of the Yellow River Delta, China** (2022)
-   30 citations
+   31 citations
 
 2. **Variation in microbial communities and network ecological clusters driven by soil organic carbon in an inshore saline soil amended with hydrochar in Yellow River Delta, China** (2024)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 ## External Profiles
 

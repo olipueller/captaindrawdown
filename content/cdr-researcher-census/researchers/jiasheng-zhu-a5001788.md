@@ -1,7 +1,7 @@
 ---
 title: "Jiasheng Zhu"
 description: "Jiasheng Zhu is a Mid-career Biochar researcher at RMIT University in AU. With 21 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.591685
+date: 2026-10-11T02:32:59.608556
 url: "/cdr-researcher-census/researchers/jiasheng-zhu-a5001788/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -55,6 +55,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 2. **Effect of fine-grained wood biochar on the geotechnical and microstructural behaviour of expansive clay as pavement subgrade** (2025)
    17 citations · Biochar
+
+3. **Effect of fine-grained wood biochar on the geotechnical and microstructural behaviour of expansive clay as pavement subgrade** (2025)
+   0 citations · Biochar
 
 ## External Profiles
 

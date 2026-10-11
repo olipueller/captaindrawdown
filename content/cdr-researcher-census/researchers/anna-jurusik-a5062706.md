@@ -1,7 +1,7 @@
 ---
 title: "Anna Jurusik"
 description: "Anna Jurusik is a Mid-career Soil Carbon researcher at University of California, Merced in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.319981
+date: 2026-10-11T02:33:00.352033
 url: "/cdr-researcher-census/researchers/anna-jurusik-a5062706/"
 layout: "researcher"
 hiddenInHomeList: true

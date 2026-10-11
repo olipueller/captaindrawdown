@@ -1,7 +1,7 @@
 ---
 title: "Tianfu Han"
 description: "Tianfu Han is a Senior Soil Carbon researcher at Zhengzhou University in CN. With 60 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.199527
+date: 2026-10-11T02:32:59.203474
 url: "/cdr-researcher-census/researchers/tianfu-han-a5102974/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,21 +51,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Declines in soil carbon storage under no tillage can be alleviated in the long run** (2022)
-   102 citations · Soil Carbon
+   101 citations · Soil Carbon
 
 2. **Carbon sequestration rate, nitrogen use efficiency and rice yield responses to long-term substitution of chemical fertilizer by organic manure in a rice–rice cropping system** (2022)
-   53 citations · General CDR
+   55 citations · General CDR
 
 3. **Long-Term Effect of Fertilizations on Yield Sustainability, Soil Organic Carbon Sequestration and Apparent Phosphorus Balance in Acidic Paddy Soil** (2022)
    13 citations · Soil Carbon
 
 4. **Long-term substitution of synthetic fertilizer by cattle manure: Effects on carbon footprint, carbon sequestration, and yield in a double rice system** (2025)
-   6 citations · General CDR
+   7 citations · General CDR
 
-5. **Inorganic amendments increase soil carbon sequestration across global acidic agroecosystems: A meta-analysis** (2025)
-   1 citations · Soil Carbon
+5. **Subsurface soil inorganic carbon gains offset half of surface losses in China’s upland croplands over the last four decades** (2026)
+   4 citations
 
-6. **Non-sustainable of no-till agriculture for soil carbon storage increase** (2022)
+6. **Inorganic amendments increase soil carbon sequestration across global acidic agroecosystems: A meta-analysis** (2025)
+   2 citations · Soil Carbon
+
+7. **Non-sustainable of no-till agriculture for soil carbon storage increase** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

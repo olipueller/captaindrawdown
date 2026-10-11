@@ -1,7 +1,7 @@
 ---
 title: "Zhenxing Bian"
 description: "Zhenxing Bian is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 54 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.473917
+date: 2026-10-11T02:32:59.485025
 url: "/cdr-researcher-census/researchers/zhenxing-bian-a5046846/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -59,11 +59,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Anthropogenic controls over soil organic carbon distribution from the cultivated lands in Northeast China** (2021)
    30 citations · Soil Carbon
 
-4. **Integrating Landscape Pattern Metrics to Map Spatial Distribution of Farmland Soil Organic Carbon on Lower Liaohe Plain of Northeast China** (2023)
+4. **Responses of farmland soil organic carbon to key natural and landscape factors: Threshold effects and nonlinearity** (2024)
    12 citations · Soil Carbon
 
-5. **Responses of farmland soil organic carbon to key natural and landscape factors: Threshold effects and nonlinearity** (2024)
-   11 citations · Soil Carbon
+5. **Integrating Landscape Pattern Metrics to Map Spatial Distribution of Farmland Soil Organic Carbon on Lower Liaohe Plain of Northeast China** (2023)
+   12 citations · Soil Carbon
 
 6. **Soil organic carbon sequestration can be promoted through the improvement of landscape configuration heterogeneity in typical agricultural regions of northeast China** (2024)
    6 citations · Soil Carbon

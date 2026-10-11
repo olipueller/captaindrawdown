@@ -1,7 +1,7 @@
 ---
 title: "Ting Liang"
 description: "Ting Liang is a Mid-career Soil Carbon researcher at Sichuan Agricultural University in CN. With 36 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.358977
+date: 2026-10-11T02:32:59.365713
 url: "/cdr-researcher-census/researchers/ting-liang-a5101884/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,21 +51,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term green manuring increases soil carbon sequestration via decreasing qCO2 caused by lower microbial phosphorus limitation in a dry land field** (2024)
-   43 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 2. **Appropriately delayed flooding before rice transplanting increases net ecosystem economic benefit in the winter green manure-rice rotation system** (2024)
-   14 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 3. **Long-term organic fertilization decreases soil carbon biodegradability by mediating molecular transformation of dissolved organic matter** (2025)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 4. **Green manuring outperforms cattle manure in soil carbon sequestration by reshaping dissolved organic matter composition and fungal life strategies** (2026)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
-5. **Using ethylene combined with green manuring to enhance rice productivity, economic benefit, and energy efficiency in double-rice paddy field** (2026)
+5. **Delayed flooding after green manure incorporation enhances microbial necromass formation and stabilization in paddy soils** (2026)
    0 citations
 
-6. **Co-Incorporating Dom from Chinese Milk Vetch and Rice Straw with Rape Straw Biochar Mitigates Cd Uptake by Rice: The Physiology and Passivation Mechanism** (2024)
+6. **Using ethylene combined with green manuring to enhance rice productivity, economic benefit, and energy efficiency in double-rice paddy field** (2026)
+   0 citations
+
+7. **Co-Incorporating Dom from Chinese Milk Vetch and Rice Straw with Rape Straw Biochar Mitigates Cd Uptake by Rice: The Physiology and Passivation Mechanism** (2024)
    0 citations · Biochar
 
 ## External Profiles

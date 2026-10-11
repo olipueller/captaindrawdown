@@ -1,7 +1,7 @@
 ---
 title: "Tim D. Smith"
 description: "Tim D. Smith is a Senior Enhanced Weathering researcher. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.689728
+date: 2026-10-11T02:32:59.710087
 url: "/cdr-researcher-census/researchers/tim-d-smith-a5103443/"
 layout: "researcher"
 hiddenInHomeList: true

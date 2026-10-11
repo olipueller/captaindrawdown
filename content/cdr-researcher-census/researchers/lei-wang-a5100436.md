@@ -1,7 +1,7 @@
 ---
 title: "Lei Wang"
 description: "Lei Wang is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 26 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.615072
+date: 2026-10-11T02:32:59.632507
 url: "/cdr-researcher-census/researchers/lei-wang-a5100436/"
 layout: "researcher"
 hiddenInHomeList: true

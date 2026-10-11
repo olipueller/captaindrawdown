@@ -1,7 +1,7 @@
 ---
 title: "Mohaddeseh Shahabi Nejad"
 description: "Mohaddeseh Shahabi Nejad is a Mid-career Biochar researcher at Slovak Academy of Sciences in SK. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.722073
+date: 2026-10-11T02:32:59.743239
 url: "/cdr-researcher-census/researchers/mohaddeseh-shahabi-nejad-a5005706/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Super-efficient removal of arsenic and mercury ions from wastewater by nanoporous biochar-supported poly 2-aminothiophenol** (2022)
-   44 citations · Biochar
+   43 citations · Biochar
 
 ## External Profiles
 

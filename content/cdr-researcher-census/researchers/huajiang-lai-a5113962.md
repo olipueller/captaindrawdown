@@ -1,7 +1,7 @@
 ---
 title: "Huajiang Lai"
 description: "Huajiang Lai is a Mid-career Soil Carbon researcher at Shandong Agricultural University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.109280
+date: 2026-10-11T02:33:00.139997
 url: "/cdr-researcher-census/researchers/huajiang-lai-a5113962/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Optimizing residue and tillage management practices to improve soil carbon sequestration in a wheat–peanut rotation system** (2022)
-   33 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 ## External Profiles
 

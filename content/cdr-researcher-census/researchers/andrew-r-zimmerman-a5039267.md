@@ -1,7 +1,7 @@
 ---
 title: "Andrew R. Zimmerman"
 description: "Andrew R. Zimmerman is an Eminent Biochar researcher at University of Florida in US. With 231 publications and an h-index of 76, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.015576
+date: 2026-10-11T02:32:59.018994
 url: "/cdr-researcher-census/researchers/andrew-r-zimmerman-a5039267/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Sewage sludge biochars as effective PFAS-sorbents** (2022)
-   119 citations · Biochar
+   122 citations · Biochar
 
 2. **Microwave biochars produced with activated carbon catalyst: Characterization and sorption of volatile organic compounds (VOCs)** (2022)
    89 citations · Biochar
@@ -59,23 +59,23 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 3. **Microwave-assisted pyrolysis derived biochar for volatile organic compounds treatment: Characteristics and adsorption performance** (2022)
    78 citations · Biochar
 
-4. **Removal of aqueous eriochrome blue-black R by novel Na-bentonite/hickory biochar composites** (2023)
+4. **Adsorption of extracellular enzymes by biochar: Impacts of enzyme and biochar properties** (2024)
+   33 citations · Biochar
+
+5. **Removal of aqueous eriochrome blue-black R by novel Na-bentonite/hickory biochar composites** (2023)
    29 citations · Biochar
 
-5. **Adsorption of extracellular enzymes by biochar: Impacts of enzyme and biochar properties** (2024)
-   27 citations · Biochar
-
-6. **Mineralogic controls are harbingers of hydrological controls on soil organic matter content in warmer boreal forests** (2022)
-   16 citations
+6. **Biochar Permanence—A Policy Commentary** (2025)
+   16 citations · Biochar
 
 7. **Efficient removal of cationic malachite green using co-pyrolyzed corn straw biochar-montmorillonite composites** (2025)
-   14 citations · Biochar
+   15 citations · Biochar
 
-8. **Biochar Permanence—A Policy Commentary** (2025)
-   12 citations · Biochar
+8. **Mineralogic controls are harbingers of hydrological controls on soil organic matter content in warmer boreal forests** (2022)
+   15 citations
 
 9. **Large Losses of Pyrogenic Carbon (Biochar) and Native Soil Carbon During a 15-Month Field Study in North Florida, USA** (2025)
-   4 citations · Biochar
+   7 citations · Biochar
 
 10. **Comparison of three quantification methods used to detect biochar carbon migration in a tropical soil: A 4.5-year field experiment in Zambia** (2024)
    3 citations · Biochar

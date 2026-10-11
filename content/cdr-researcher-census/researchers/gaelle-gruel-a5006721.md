@@ -1,7 +1,7 @@
 ---
 title: "Gaëlle Gruel"
 description: "Gaëlle Gruel is a Mid-career Biochar researcher at Ecologie des Forêts de Guyane in GF. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.975455
+date: 2026-10-11T02:33:00.007285
 url: "/cdr-researcher-census/researchers/gaelle-gruel-a5006721/"
 layout: "researcher"
 hiddenInHomeList: true

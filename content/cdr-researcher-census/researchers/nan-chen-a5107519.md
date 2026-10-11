@@ -1,7 +1,7 @@
 ---
 title: "Nan Chen"
 description: "Nan Chen is a Mid-career Biochar researcher at Anhui University of Science and Technology in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.911436
+date: 2026-10-11T02:32:59.954698
 url: "/cdr-researcher-census/researchers/nan-chen-a5107519/"
 layout: "researcher"
 hiddenInHomeList: true

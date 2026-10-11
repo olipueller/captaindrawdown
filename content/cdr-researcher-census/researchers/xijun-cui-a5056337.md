@@ -1,7 +1,7 @@
 ---
 title: "Xijun Cui"
 description: "Xijun Cui is a Mid-career Biochar researcher at Shenyang Environmental Protection Bureau in CN. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.068395
+date: 2026-10-11T02:33:00.098483
 url: "/cdr-researcher-census/researchers/xijun-cui-a5056337/"
 layout: "researcher"
 hiddenInHomeList: true

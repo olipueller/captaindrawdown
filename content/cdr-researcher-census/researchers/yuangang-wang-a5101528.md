@@ -1,7 +1,7 @@
 ---
 title: "Yuangang Wang"
 description: "Yuangang Wang is a Mid-career Soil Carbon researcher at Institute of Ecology and Geography in MD. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.803266
+date: 2026-10-11T02:32:59.827852
 url: "/cdr-researcher-census/researchers/yuangang-wang-a5101528/"
 layout: "researcher"
 hiddenInHomeList: true

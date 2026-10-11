@@ -1,7 +1,7 @@
 ---
 title: "Xushun Gu"
 description: "Xushun Gu is a Mid-career Biochar researcher at Shanghai Jiao Tong University in CN. With 44 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.193506
+date: 2026-10-11T02:32:59.197496
 url: "/cdr-researcher-census/researchers/xushun-gu-a5032702/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Boosting the denitrification efficiency of iron-based constructed wetlands in-situ via plant biomass-derived biochar: Intensified iron redox cycle and microbial responses** (2024)
-   133 citations · Biochar
+   137 citations · Biochar
 
 2. **Function of aquatic plants on nitrogen removal and greenhouse gas emission in enhanced denitrification constructed wetlands: Iris pseudacorus for example** (2021)
-   94 citations
+   95 citations
 
 3. **Tracing the electron transfer behavior driven by hydrophyte-derived carbon materials empowered autotrophic denitrification in iron-based constructed wetlands: Efficacy and enhancement mechanism** (2025)
-   66 citations · Soil Carbon
+   71 citations · Soil Carbon
 
 4. **Role of hydrophytes in constructed wetlands for nitrogen removal and greenhouse gases reduction** (2023)
-   32 citations
+   34 citations
 
 5. **Functional group-modified biochar synergistically enhances nitrogen removal in iron-based constructed wetlands: The pivotal role of quinone groups in mediating iron redox and microbial electron transfer** (2026)
    0 citations · Biochar

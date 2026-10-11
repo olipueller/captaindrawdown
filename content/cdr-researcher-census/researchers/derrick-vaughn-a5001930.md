@@ -1,7 +1,7 @@
 ---
 title: "Derrick Vaughn"
 description: "Derrick Vaughn is a Senior Soil Carbon researcher at Utah State University in US. With 40 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.501928
+date: 2026-10-11T02:32:59.514430
 url: "/cdr-researcher-census/researchers/derrick-vaughn-a5001930/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lidong Li"
 description: "Lidong Li is a Mid-career Soil Carbon researcher at University of Nebraska–Lincoln in US. With 39 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.289297
+date: 2026-10-11T02:32:59.293653
 url: "/cdr-researcher-census/researchers/lidong-li-a5101531/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of pyrolysis temperature and feedstock type on biochar characteristics pertinent to soil carbon and soil health: A meta‐analysis** (2022)
-   131 citations · Biochar
+   137 citations · Biochar
 
 2. **Soil organic carbon fractionation in sandy soils in the semiarid grasslands and forested areas of Nebraska Sandhills** (2025)
    2 citations · Soil Carbon

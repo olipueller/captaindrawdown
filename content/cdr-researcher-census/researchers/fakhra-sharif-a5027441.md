@@ -1,7 +1,7 @@
 ---
 title: "Fakhra Sharif"
 description: "Fakhra Sharif is a Mid-career Biochar researcher at Government College University, Faisalabad in PK. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.096519
+date: 2026-10-11T02:33:00.127220
 url: "/cdr-researcher-census/researchers/fakhra-sharif-a5027441/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Preparation of novel biochar-based ternary composite using graphitic carbon nitride and layer double hydroxide for Cr(VI) removal in wastewater** (2025)
-   6 citations · Biochar
+   7 citations · Biochar
 
 ## External Profiles
 

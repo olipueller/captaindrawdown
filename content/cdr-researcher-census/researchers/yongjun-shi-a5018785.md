@@ -1,7 +1,7 @@
 ---
 title: "Yongjun Shi"
 description: "Yongjun Shi is a Senior Soil Carbon researcher at Guiyang University in CN. With 106 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.120641
+date: 2026-10-11T02:32:59.125281
 url: "/cdr-researcher-census/researchers/yongjun-shi-a5018785/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,16 +54,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    47 citations · Soil Carbon
 
 2. **Interactions between soil properties and the rhizome-root distribution in a 12-year Moso bamboo reforested region: Combining ground-penetrating radar and soil coring in the field** (2021)
-   26 citations · Soil Carbon
+   27 citations · Soil Carbon
 
-3. **Rhizome extension characteristics, structure and carbon storage relationships with culms in a 10-year moso bamboo reforestation period** (2021)
+3. **Growing in Mixed Stands Increased Leaf Photosynthesis and Physiological Stress Resistance in Moso Bamboo and Mature Chinese Fir Plantations** (2021)
    25 citations · Soil Carbon
 
-4. **Effects of Climate on Variation of Soil Organic Carbon and Alkali-Hydrolyzed Nitrogen in Subtropical Forests: A Case Study of Zhejiang Province, China** (2023)
+4. **Rhizome extension characteristics, structure and carbon storage relationships with culms in a 10-year moso bamboo reforestation period** (2021)
    24 citations · Soil Carbon
 
-5. **Growing in Mixed Stands Increased Leaf Photosynthesis and Physiological Stress Resistance in Moso Bamboo and Mature Chinese Fir Plantations** (2021)
-   24 citations · Soil Carbon
+5. **Effects of Climate on Variation of Soil Organic Carbon and Alkali-Hydrolyzed Nitrogen in Subtropical Forests: A Case Study of Zhejiang Province, China** (2023)
+   23 citations · Soil Carbon
 
 6. **The phytolith carbon sequestration in terrestrial ecosystems: the underestimated potential of bamboo forest** (2023)
    17 citations · Soil Carbon
@@ -74,11 +74,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 8. **The current status and potential research directions of soil microbial carbon in bamboo forest** (2022)
    9 citations · Soil Carbon
 
-9. **An Analysis of the Factors Affecting Forest Mortality and Research on Forecasting Models in Southern China: A Case Study in Zhejiang Province** (2023)
-   7 citations
+9. **Biofertilizer outcompete chemical fertilizer in enhancing carbon sequestration in Moso bamboo (Phyllostachys edulis (Carriere) J. Houzeau) forests** (2025)
+   7 citations · Soil Carbon
 
-10. **Biofertilizer outcompete chemical fertilizer in enhancing carbon sequestration in Moso bamboo (Phyllostachys edulis (Carriere) J. Houzeau) forests** (2025)
-   6 citations · Soil Carbon
+10. **An Analysis of the Factors Affecting Forest Mortality and Research on Forecasting Models in Southern China: A Case Study in Zhejiang Province** (2023)
+   7 citations
 
 ## External Profiles
 

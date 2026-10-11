@@ -1,7 +1,7 @@
 ---
 title: "Gmar Bensidhom"
 description: "Gmar Bensidhom is a Mid-career Biochar researcher at Research and Technology Center of Energy in TN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.726454
+date: 2026-10-11T02:32:59.747560
 url: "/cdr-researcher-census/researchers/gmar-bensidhom-a5016981/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Insights into olive pomace pyrolysis conversion to biofuels and biochars: Characterization and techno-economic evaluation** (2023)
-   26 citations · Biochar
+   27 citations · Biochar
 
 2. **Sustainable Valorization of Olive Pomace Waste to Renewable Biofuels, Biomaterials and Biochemicals Via Pyrolysis Process: Experimental and Numerical Investigation** (2021)
    3 citations · Biochar

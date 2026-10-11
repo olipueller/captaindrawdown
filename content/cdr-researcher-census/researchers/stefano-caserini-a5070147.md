@@ -1,7 +1,7 @@
 ---
 title: "Stefano Caserini"
 description: "Stefano Caserini is a Senior Ocean CDR researcher at University of Parma in IT. With 126 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.138062
+date: 2026-10-11T02:32:59.142549
 url: "/cdr-researcher-census/researchers/stefano-caserini-a5070147/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **The Availability of Limestone and Other Raw Materials for Ocean Alkalinity Enhancement** (2022)
-   129 citations · Enhanced Weathering
+   125 citations · Enhanced Weathering
 
-2. **Alkalinization Scenarios in the Mediterranean Sea for Efficient Removal of Atmospheric CO2 and the Mitigation of Ocean Acidification** (2021)
-   80 citations · General CDR
+2. **Life cycle assessment of ocean liming for carbon dioxide removal from the atmosphere** (2022)
+   78 citations
 
-3. **Life cycle assessment of ocean liming for carbon dioxide removal from the atmosphere** (2022)
-   76 citations
+3. **Alkalinization Scenarios in the Mediterranean Sea for Efficient Removal of Atmospheric CO2 and the Mitigation of Ocean Acidification** (2021)
+   76 citations · General CDR
 
 4. **Use of aircraft in ocean alkalinity enhancement** (2022)
    32 citations · Ocean CDR
@@ -66,13 +66,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    23 citations · Ocean CDR
 
 6. **Techno-economic evaluation of buffered accelerated weathering of limestone as a CO2 capture and storage option** (2023)
-   14 citations · Enhanced Weathering
+   15 citations · Enhanced Weathering
 
 7. **Chemical Aspect of Ocean Liming for CO<sub>2</sub> Removal: Dissolution Kinetics of Calcium Hydroxide in Seawater** (2024)
    13 citations
 
 8. **Energy demand and savings opportunities in the supply of limestone and olivine-rich rocks for geochemical carbon dioxide removal** (2024)
-   9 citations · Enhanced Weathering
+   10 citations · Enhanced Weathering
 
 9. **Evaluating rainbowing for ocean alkalinity enhancement** (2024)
    1 citations · Ocean CDR

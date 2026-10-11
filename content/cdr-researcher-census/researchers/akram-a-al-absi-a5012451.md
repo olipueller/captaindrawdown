@@ -1,7 +1,7 @@
 ---
 title: "Akram A. Al-Absi"
 description: "Akram A. Al-Absi is a Mid-career DAC researcher. With 13 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.396480
+date: 2026-10-11T02:32:59.405361
 url: "/cdr-researcher-census/researchers/akram-a-al-absi-a5012451/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,19 +46,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Development of in situ polymerized amines into mesoporous silica for direct air CO2 capture** (2022)
-   108 citations
+   110 citations
 
 2. **CO2 capture using in-situ polymerized amines into pore-expanded-SBA-15: Performance evaluation, kinetics, and adsorption isotherms** (2022)
-   62 citations
+   67 citations
 
 3. **Ambient and sub-ambient temperature direct air CO<sub>2</sub> capture (DAC) by novel supported <i>in situ</i> polymerized amines** (2024)
-   30 citations · General CDR
+   32 citations · General CDR
 
 4. **Amine Sorbents for Sustainable Direct Air Capture: Long-Term Stability and Extended Aging Study** (2024)
-   27 citations
+   29 citations
 
 5. **Review of polyethylenimine through ring-opening polymerization reactions and its application in CO2 capture** (2024)
-   23 citations
+   24 citations
 
 6. **Co2 Capture Using In-Situ Polymerized Amines into Pore-Expanded-Sba-15: Performance Evaluation, Kinetics, and Adsorption Isotherms** (2022)
    5 citations · DAC

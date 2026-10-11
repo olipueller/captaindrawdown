@@ -1,7 +1,7 @@
 ---
 title: "Wenzhi Zhou"
 description: "Wenzhi Zhou is a Mid-career Soil Carbon researcher at Guizhou University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.192264
+date: 2026-10-11T02:33:00.222297
 url: "/cdr-researcher-census/researchers/wenzhi-zhou-a5104103/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -49,6 +49,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 1. **Vegetation type and Fe and Al oxides are important factors influencing the spatial distributions of soil organic carbon and mineral-associated organic carbon in mountain ecosystems** (2025)
    2 citations · Soil Carbon
+
+2. **Spatial patterns of soil multifunctionality trade-offs and their relationships with microbial diversity in warm-temperate mountain forests of North China** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

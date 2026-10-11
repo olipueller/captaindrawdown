@@ -1,7 +1,7 @@
 ---
 title: "Amanda Cano"
-description: "Amanda Cano is a Mid-career Soil Carbon researcher at Tetra Tech (United States) in US. With 14 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.403244
+description: "Amanda Cano is a Mid-career Soil Carbon researcher. With 12 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:32:59.418675
 url: "/cdr-researcher-census/researchers/amanda-cano-a5079892/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Amanda Cano",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/amanda-cano-a5079892/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Tetra Tech (United States)"
-  },
   "sameAs": [
     "https://orcid.org/0000-0001-7047-0479",
     "https://openalex.org/A5079892830"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Amanda Cano**  
-Tetra Tech (United States) · 🇺🇸 US
+**Amanda Cano**
 
 **Career Stage:** Mid-career
 
@@ -42,10 +37,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 12 |
-| Citations | 603 |
-| Publications | 14 |
-| CDR Focus | 7.1% |
+| h-index | 11 |
+| Citations | 594 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

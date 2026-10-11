@@ -1,7 +1,7 @@
 ---
 title: "Yinan Xu"
 description: "Yinan Xu is a Mid-career Soil Carbon researcher at Ministry of Education of the People's Republic of China in CN. With 32 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.022873
+date: 2026-10-11T02:33:00.054262
 url: "/cdr-researcher-census/researchers/yinan-xu-a5100306/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    33 citations · Soil Carbon
 
 2. **The effect on the carbon footprint of the rice-wheat system of substituting chemical fertilizers by pig manure: The results of a field experiment** (2024)
-   12 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 ## External Profiles
 

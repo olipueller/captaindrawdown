@@ -1,7 +1,7 @@
 ---
 title: "Kehan Wang"
 description: "Kehan Wang is a Senior Soil Carbon researcher at Liaoning Academy of Agricultural Sciences in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.945832
+date: 2026-10-11T02:32:59.975872
 url: "/cdr-researcher-census/researchers/kehan-wang-a5072572/"
 layout: "researcher"
 hiddenInHomeList: true

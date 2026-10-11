@@ -1,7 +1,7 @@
 ---
 title: "Setu Pelz"
 description: "Setu Pelz is a Mid-career General CDR researcher at International Institute for Applied Systems Analysis in AT. With 100 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.316625
+date: 2026-10-11T02:32:59.322353
 url: "/cdr-researcher-census/researchers/setu-pelz-a5004175/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,18 +54,21 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    16 citations · General CDR
 
 2. **Fair carbon removal obligations under climate response uncertainty** (2025)
-   5 citations · General CDR
+   6 citations · General CDR
 
-3. **Equitable cooperation deepens the solution space for high ambition pathways** (2026)
+3. **Broader CO2 Removal Portfolios Expand What Is Achievable but Cannot Substitute for Strong Emissions Reductions** (2026)
+   0 citations
+
+4. **Equitable cooperation deepens the solution space for high ambition pathways** (2026)
    0 citations · General CDR
 
-4. **Exploring Real Zero definitions** (2026)
+5. **Exploring Real Zero definitions** (2026)
    0 citations · General CDR
 
-5. **Managing Overshoot Through Collective Carbon Debt Drawdown** (2026)
+6. **Managing Overshoot Through Collective Carbon Debt Drawdown** (2026)
    0 citations · General CDR
 
-6. **Preventive carbon dioxide removal under climate response uncertainty** (2025)
+7. **Preventive carbon dioxide removal under climate response uncertainty** (2025)
    0 citations · General CDR
 
 ## External Profiles

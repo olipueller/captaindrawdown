@@ -1,7 +1,7 @@
 ---
 title: "S. S. Nasreen"
 description: "S. S. Nasreen is a Mid-career Soil Carbon researcher at Bangladesh Agricultural Research Institute in BD. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.062730
+date: 2026-10-11T02:33:00.092794
 url: "/cdr-researcher-census/researchers/s-s-nasreen-a5103941/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term Conservation Agriculture increases sulfur pools in soils together with increased soil organic carbon compared to conventional practices** (2022)
-   47 citations · Soil Carbon
+   46 citations · Soil Carbon
 
 ## External Profiles
 

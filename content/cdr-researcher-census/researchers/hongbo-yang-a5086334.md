@@ -1,7 +1,7 @@
 ---
 title: "Hongbo Yang"
 description: "Hongbo Yang is a Senior Soil Carbon researcher at Smithsonian Conservation Biology Institute in US. With 116 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.083475
+date: 2026-10-11T02:32:59.088337
 url: "/cdr-researcher-census/researchers/hongbo-yang-a5086334/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term manuring facilitates glomalin-related soil proteins accumulation by chemical composition shifts and macro-aggregation formation** (2023)
-   57 citations · Soil Carbon
+   58 citations · Soil Carbon
 
 2. **No-tillage facilitates soil organic carbon sequestration by enhancing arbuscular mycorrhizal fungi-related soil proteins accumulation and aggregation** (2024)
-   41 citations · Soil Carbon
+   42 citations · Soil Carbon
 
 3. **Long-Term Manuring Enhanced Compositional Stability of Glomalin-Related Soil Proteins through Arbuscular Mycorrhizal Fungi Regulation** (2024)
    13 citations · Soil Carbon

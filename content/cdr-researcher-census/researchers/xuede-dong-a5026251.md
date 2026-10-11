@@ -1,7 +1,7 @@
 ---
 title: "Xuede Dong"
 description: "Xuede Dong is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 35 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.500247
+date: 2026-10-11T02:32:59.512619
 url: "/cdr-researcher-census/researchers/xuede-dong-a5026251/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    20 citations
 
 2. **Improving the microenvironment of tracking photovoltaic systems promotes soil organic carbon accumulation by mediating plant carbon inputs and microbial necromass retention** (2025)
-   16 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 3. **Carbon isotopic measurements from coastal zone protected forests in northern China: Soil carbon decomposition assessment and its influencing factors** (2021)
    10 citations · Soil Carbon

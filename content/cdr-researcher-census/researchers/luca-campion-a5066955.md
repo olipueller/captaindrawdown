@@ -1,7 +1,7 @@
 ---
 title: "Luca Campion"
 description: "Luca Campion is a Mid-career Biochar researcher at Hasselt University in BE. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.404647
+date: 2026-10-11T02:32:59.413711
 url: "/cdr-researcher-census/researchers/luca-campion-a5066955/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The costs and benefits of biochar production and use: A systematic review** (2023)
-   264 citations · Biochar
+   274 citations · Biochar
+
+2. **Lifecycle environmental impacts of biochar in Belgium: The influence of biochar feedstocks, production temperatures, and applications** (2026)
+   1 citations · Biochar
+
+3. **Policy mixes and industry emergence: actor heterogeneity in the Danish biochar value chainat** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

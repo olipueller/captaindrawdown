@@ -1,7 +1,7 @@
 ---
 title: "Fangyuan Bian"
 description: "Fangyuan Bian is a Mid-career Soil Carbon researcher at China National Bamboo Research Center in CN. With 27 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.340744
+date: 2026-10-11T02:32:59.346617
 url: "/cdr-researcher-census/researchers/fangyuan-bian-a5103047/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Determining changes in microbial nutrient limitations in bamboo soils under different management practices via enzyme stoichiometry** (2023)
-   26 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 2. **Changes in Soil Organic Carbon Fractions and Fungal Communities, Subsequent to Different Management Practices in Moso Bamboo Plantations** (2022)
-   25 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 3. **Metagenomic insights into the characteristics of soil microbial communities in the decomposing biomass of Moso bamboo forests under different management practices** (2022)
    16 citations
@@ -68,7 +68,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 6. **Introducing sedum affects root‐soil interface phytoremediation of heavy metals in <i>lei</i> bamboo forest and potential risks from edible bamboo shoots** (2022)
    4 citations
 
-7. **Effects of Bamboo-Sourced Organic Fertilizer on the Soil Microbial Necromass Carbon and Its Contribution to Soil Organic Carbon in Moso Bamboo (Phyllostachys edulis) Forest** (2025)
+7. **Bamboo-sourced liquid microbial fertilizer improves soil quality and ecological multifunctionality via regulating microbial necromass carbon** (2026)
+   2 citations · Soil Carbon
+
+8. **On- and off-year management-induced changes in microbial communities cause microbial necromass carbon variation in subtropical Moso bamboo forests** (2025)
+   2 citations · Soil Carbon
+
+9. **Bamboo-sourced organic fertilizer regulates soil microbial nutrient limitation in Moso bamboo plantations: Insights from ecological enzyme stoichiometry** (2026)
+   1 citations
+
+10. **Bamboo-sourced microbial fertilizers impact soil carbon cycling: Metagenomic insights from Moso bamboo plantations** (2025)
    1 citations · Soil Carbon
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Deborah Cristina Crominski da Silva Medeiros"
 description: "Deborah Cristina Crominski da Silva Medeiros is a Mid-career Biochar researcher at University of Alberta in CA. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.642520
+date: 2026-10-11T02:32:59.660925
 url: "/cdr-researcher-census/researchers/deborah-cristina-crominski-da-silva-medeiros-a5050448/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    43 citations
 
 2. **Sludge-based activated biochar for adsorption treatment of real oil sands process water: Selectivity of naphthenic acids, reusability of spent biochar, leaching potential, and acute toxicity removal** (2023)
-   37 citations · Biochar
+   38 citations · Biochar
 
 ## External Profiles
 

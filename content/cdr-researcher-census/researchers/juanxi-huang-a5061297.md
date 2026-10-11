@@ -1,7 +1,7 @@
 ---
 title: "Juanxi Huang"
 description: "Juanxi Huang is a Mid-career Biochar researcher at Guangzhou University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.392270
+date: 2026-10-11T02:33:00.429706
 url: "/cdr-researcher-census/researchers/juanxi-huang-a5061297/"
 layout: "researcher"
 hiddenInHomeList: true

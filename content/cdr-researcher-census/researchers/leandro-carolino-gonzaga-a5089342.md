@@ -1,7 +1,7 @@
 ---
 title: "Leandro Carolino Gonzaga"
 description: "Leandro Carolino Gonzaga is a Mid-career Biochar researcher at Universidade Estadual de Campinas (UNICAMP) in BR. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.699267
+date: 2026-10-11T02:32:59.719576
 url: "/cdr-researcher-census/researchers/leandro-carolino-gonzaga-a5089342/"
 layout: "researcher"
 hiddenInHomeList: true

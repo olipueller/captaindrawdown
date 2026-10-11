@@ -1,7 +1,7 @@
 ---
 title: "Cuiping Gao"
 description: "Cuiping Gao is a Mid-career Biochar researcher at Inner Mongolia Agricultural University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.189989
+date: 2026-10-11T02:33:00.220128
 url: "/cdr-researcher-census/researchers/cuiping-gao-a5076051/"
 layout: "researcher"
 hiddenInHomeList: true

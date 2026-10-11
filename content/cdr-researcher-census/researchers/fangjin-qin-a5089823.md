@@ -1,7 +1,7 @@
 ---
 title: "Fangjin Qin"
 description: "Fangjin Qin is a Mid-career Soil Carbon researcher. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.231262
+date: 2026-10-11T02:33:00.261421
 url: "/cdr-researcher-census/researchers/fangjin-qin-a5089823/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Asif Akhtar"
 description: "Muhammad Asif Akhtar is a Senior Biochar researcher at University of Engineering and Technology Lahore in PK. With 20 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.524089
+date: 2026-10-11T02:32:59.537988
 url: "/cdr-researcher-census/researchers/muhammad-asif-akhtar-a5011627/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synergistic effects of N-containing heterocyclic and Ca ligand structures on the phosphorus adsorption of N/Ca co-doped biochar** (2024)
-   18 citations · Biochar
+   19 citations · Biochar
 
 ## External Profiles
 

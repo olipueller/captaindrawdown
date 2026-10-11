@@ -1,7 +1,7 @@
 ---
 title: "Saikat Ranjan Das"
 description: "Saikat Ranjan Das is a Mid-career Soil Carbon researcher at Visva-Bharati University in IN. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.273842
+date: 2026-10-11T02:33:00.303834
 url: "/cdr-researcher-census/researchers/saikat-ranjan-das-a5028020/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Potential soil organic carbon sequestration vis-a-vis methane emission in lowland rice agroecosystem** (2023)
-   24 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 2. **Impact of Conservation Agriculture on Soil Health and Environmental Sustainability** (2024)
    11 citations · General CDR

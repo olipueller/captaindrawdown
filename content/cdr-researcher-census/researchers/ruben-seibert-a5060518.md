@@ -1,7 +1,7 @@
 ---
 title: "Ruben Seibert"
 description: "Ruben Seibert is a Mid-career BECCS researcher at Justus-Liebig-Universität Gießen in DE. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.645273
+date: 2026-10-11T02:32:59.663970
 url: "/cdr-researcher-census/researchers/ruben-seibert-a5060518/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Dynamics of bio-based carbon dioxide removal in Germany** (2024)
-   7 citations
+   9 citations
 
 2. **Dynamics of bio-based carbon dioxide removal in Germany** (2023)
    3 citations · BECCS

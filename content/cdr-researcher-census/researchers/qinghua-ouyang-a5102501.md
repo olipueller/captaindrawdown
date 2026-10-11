@@ -1,7 +1,7 @@
 ---
 title: "Qinghua Ouyang"
 description: "Qinghua Ouyang is an Early-career Biochar researcher at SK Group (Japan) in JP. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.333338
+date: 2026-10-11T02:33:00.367370
 url: "/cdr-researcher-census/researchers/qinghua-ouyang-a5102501/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Caixia Fang"
 description: "Caixia Fang is a Senior Biochar researcher at Anhui Normal University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.829082
+date: 2026-10-11T02:32:59.855385
 url: "/cdr-researcher-census/researchers/caixia-fang-a5012979/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhanced adsorption of Rhodamine B over Zoysia sinica Hance-based carbon activated by amminium chloride and sodium hydroxide treatments** (2021)
-   50 citations · Biochar
+   51 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Salam Suresh Singh"
 description: "Salam Suresh Singh is a Mid-career Soil Carbon researcher at Mizoram University in IN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.265232
+date: 2026-10-11T02:33:00.295162
 url: "/cdr-researcher-census/researchers/salam-suresh-singh-a5001928/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Elevation and management-induced vegetation and soil carbon shift in Eastern Himalayan forests: Advancing nature-based sustainability solutions (NbS)** (2025)
-   11 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 2. **Carbon continuum across Eastern Himalayan forests: Elevational shifts in productivity, storage and turnover** (2026)
-   0 citations
+   1 citations
 
 ## External Profiles
 

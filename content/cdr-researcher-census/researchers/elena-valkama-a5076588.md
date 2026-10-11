@@ -1,7 +1,7 @@
 ---
 title: "Elena Valkama"
 description: "Elena Valkama is a Senior Soil Carbon researcher at Natural Resources Institute Finland (Luke) in FI. With 91 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.122805
+date: 2026-10-11T02:32:59.127420
 url: "/cdr-researcher-census/researchers/elena-valkama-a5076588/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **New pedotransfer approaches to predict soil bulk density using WoSIS soil data and environmental covariates in Mediterranean agro-ecosystems** (2021)
-   81 citations
+   78 citations
 
 2. **Trade‐offs and synergies of soil carbon sequestration: Addressing knowledge gaps related to soil management strategies** (2024)
-   39 citations · General CDR
+   41 citations · General CDR
 
 3. **Computation of total soil organic carbon stock and its standard deviation from layered soils** (2022)
    36 citations · Soil Carbon

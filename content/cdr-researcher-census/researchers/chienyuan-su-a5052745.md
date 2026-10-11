@@ -1,7 +1,7 @@
 ---
 title: "Chien‐Yuan Su"
 description: "Chien‐Yuan Su is a Mid-career Biochar researcher at Industrial Technology Research Institute in TW. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.343359
+date: 2026-10-11T02:33:00.378243
 url: "/cdr-researcher-census/researchers/chienyuan-su-a5052745/"
 layout: "researcher"
 hiddenInHomeList: true

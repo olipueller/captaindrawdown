@@ -1,7 +1,7 @@
 ---
 title: "Naoki Ishibashi"
 description: "Naoki Ishibashi is a Senior DAC researcher at Musashino University in JP. With 30 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.202758
+date: 2026-10-11T02:33:00.232781
 url: "/cdr-researcher-census/researchers/naoki-ishibashi-a5109064/"
 layout: "researcher"
 hiddenInHomeList: true

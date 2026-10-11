@@ -1,7 +1,7 @@
 ---
 title: "Kunliang Shu"
 description: "Kunliang Shu is a Senior Soil Carbon researcher at Jilin Academy of Agricultural Sciences in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.320226
+date: 2026-10-11T02:33:00.352330
 url: "/cdr-researcher-census/researchers/kunliang-shu-a5002729/"
 layout: "researcher"
 hiddenInHomeList: true

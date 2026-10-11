@@ -1,7 +1,7 @@
 ---
 title: "Chengzhu Liu"
 description: "Chengzhu Liu is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 39 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.265216
+date: 2026-10-11T02:32:59.269333
 url: "/cdr-researcher-census/researchers/chengzhu-liu-a5004500/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Sphagnum increases soil’s sequestration capacity of mineral-associated organic carbon via activating metal oxides** (2023)
-   108 citations · Soil Carbon
+   110 citations · Soil Carbon
 
 2. **Understanding the mechanisms and potential pathways of soil carbon sequestration from the biogeochemistry perspective** (2024)
    59 citations · Soil Carbon

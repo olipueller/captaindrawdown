@@ -1,7 +1,7 @@
 ---
 title: "Sarah Rodgers"
 description: "Sarah Rodgers is a Mid-career DAC researcher at University of Nottingham in GB. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.353878
+date: 2026-10-11T02:33:00.388999
 url: "/cdr-researcher-census/researchers/sarah-rodgers-a5063801/"
 layout: "researcher"
 hiddenInHomeList: true

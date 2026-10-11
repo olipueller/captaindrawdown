@@ -1,7 +1,7 @@
 ---
 title: "Yanhu Yang"
 description: "Yanhu Yang is an Early-career Biochar researcher at Yili Normal University in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.353283
+date: 2026-10-11T02:33:00.388030
 url: "/cdr-researcher-census/researchers/yanhu-yang-a5101394/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Sludge biochar accelerates transformative phenolic compounds removal from wastewater via the coupling mechanism** (2024)
-   30 citations · Biochar
+   31 citations · Biochar
 
 ## External Profiles
 

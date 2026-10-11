@@ -1,7 +1,7 @@
 ---
 title: "Ning Chai"
 description: "Ning Chai is a Mid-career Soil Carbon researcher at Peoples' Friendship University of Russia in RU. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.940808
+date: 2026-10-11T02:32:59.971147
 url: "/cdr-researcher-census/researchers/ning-chai-a5028493/"
 layout: "researcher"
 hiddenInHomeList: true

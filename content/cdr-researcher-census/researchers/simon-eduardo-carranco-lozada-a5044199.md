@@ -1,7 +1,7 @@
 ---
 title: "Simón Eduardo Carranco Lozada"
 description: "Simón Eduardo Carranco Lozada is a Mid-career Soil Carbon researcher at Secretaría de Ciencia, Humanidades, Tecnología e Innovación in MX. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.294557
+date: 2026-10-11T02:33:00.324668
 url: "/cdr-researcher-census/researchers/simon-eduardo-carranco-lozada-a5044199/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Haijiang Yang"
 description: "Haijiang Yang is a Mid-career General CDR researcher at Lanzhou University in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.782690
+date: 2026-10-11T02:32:59.806454
 url: "/cdr-researcher-census/researchers/haijiang-yang-a5111100/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,12 +48,18 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Assessing ecosystem services and their spillover effects to inform cost-benefit sharing and horizontal eco-compensation mechanisms in the Qilian Mountains, China** (2025)
-   15 citations · General CDR
+   17 citations · General CDR
 
-2. **Assessing Ecosystem Services and Their Spillover Effects to Inform Cost-Benefit Sharing and Horizontal Eco-Compensation Mechanisms in the Qilian Mountains, China** (2025)
+2. **Climate and vegetation-driven variations, ecological thresholds and mechanisms of ecosystem services in China’s drylands** (2026)
+   1 citations
+
+3. **Optimizing nitrogen management in alpine meadows: Insights from an 11-year experiment on ecosystem services trade-offs** (2026)
+   0 citations
+
+4. **Assessing Ecosystem Services and Their Spillover Effects to Inform Cost-Benefit Sharing and Horizontal Eco-Compensation Mechanisms in the Qilian Mountains, China** (2025)
    0 citations · General CDR
 
-3. **Assessing Ecosystem Services and Their Spillover Effects to Inform Cost-Benefit Sharing and Horizontal Eco-Compensation Mechanisms in the Qilian Mountains, China** (2024)
+5. **Assessing Ecosystem Services and Their Spillover Effects to Inform Cost-Benefit Sharing and Horizontal Eco-Compensation Mechanisms in the Qilian Mountains, China** (2024)
    0 citations · General CDR
 
 ## External Profiles

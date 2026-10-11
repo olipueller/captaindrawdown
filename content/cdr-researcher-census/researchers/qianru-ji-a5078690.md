@@ -1,7 +1,7 @@
 ---
 title: "Qianru Ji"
 description: "Qianru Ji is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.252994
+date: 2026-10-11T02:33:00.282735
 url: "/cdr-researcher-census/researchers/qianru-ji-a5078690/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,18 +54,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Soil Carbon
 
 2. **Farmland Afforestation by Poplar Shelterbelts Increased Soil Inorganic Carbon but Showed Ambiguous Effects on Soil Organic Carbon as Revealed by Carbon Isotopic Composition: Inter-Fraction and Inter-Site Differences in Northern China** (2025)
-   5 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 3. **Tree diversity-related soil P accumulation in high latitude temperate forests of China is regulated by soil C and N amounts as well as microbial network and denitrification genes** (2025)
    3 citations · Soil Carbon
 
-4. **Tree spatial arrangement and size outweigh species diversity in regulating soil particulate and mineral-associated carbon accrual: mediated by soil properties and microbes** (2026)
+4. **SOC sequestration, N and P retention in mineral soils depend on arbuscular mycorrhizal tree dominance and soil microbial traits** (2025)
+   3 citations · Soil Carbon
+
+5. **Tree spatial arrangement and size outweigh species diversity in regulating soil particulate and mineral-associated carbon accrual: mediated by soil properties and microbes** (2026)
    2 citations
 
-5. **Rhizosphere affects the accrual of aggregate-associated soil organic carbon and its fractions across four dominant tree species in Northeast China** (2025)
-   2 citations · Soil Carbon
-
-6. **SOC sequestration, N and P retention in mineral soils depend on arbuscular mycorrhizal tree dominance and soil microbial traits** (2025)
+6. **Rhizosphere affects the accrual of aggregate-associated soil organic carbon and its fractions across four dominant tree species in Northeast China** (2025)
    2 citations · Soil Carbon
 
 7. **Diverse Litter and Suitable Tree Species Increased Activation Energy for Soil Respiration in Black Soils in China** (2025)

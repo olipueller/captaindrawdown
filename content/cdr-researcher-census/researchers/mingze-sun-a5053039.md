@@ -1,7 +1,7 @@
 ---
 title: "Mingze Sun"
 description: "Mingze Sun is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.373426
+date: 2026-10-11T02:32:59.380773
 url: "/cdr-researcher-census/researchers/mingze-sun-a5053039/"
 layout: "researcher"
 hiddenInHomeList: true

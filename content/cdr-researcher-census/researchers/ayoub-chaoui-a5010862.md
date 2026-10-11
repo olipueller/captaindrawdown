@@ -1,7 +1,7 @@
 ---
 title: "Ayoub Chaoui"
 description: "Ayoub Chaoui is a Mid-career Biochar researcher at Universidade do Porto in PT. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.692728
+date: 2026-10-11T02:32:59.713323
 url: "/cdr-researcher-census/researchers/ayoub-chaoui-a5010862/"
 layout: "researcher"
 hiddenInHomeList: true

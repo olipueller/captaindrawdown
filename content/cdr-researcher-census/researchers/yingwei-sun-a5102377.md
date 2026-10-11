@@ -1,7 +1,7 @@
 ---
 title: "Yingwei Sun"
 description: "Yingwei Sun is a Senior Soil Carbon researcher at Shenyang Center for Disease Control and Prevention in CN. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.235872
+date: 2026-10-11T02:33:00.266103
 url: "/cdr-researcher-census/researchers/yingwei-sun-a5102377/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Evaluation of carbon sink in the Taklimakan Desert based on correction of abnormal negative CO2 flux of IRGASON** (2022)
-   23 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 2. **Precipitation Controls on Carbon Sinks in an Artificial Green Space in the Taklimakan Desert** (2024)
    7 citations · Soil Carbon

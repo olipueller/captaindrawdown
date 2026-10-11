@@ -1,7 +1,7 @@
 ---
 title: "Henriikka Vekuri"
 description: "Henriikka Vekuri is a Mid-career Soil Carbon researcher at Finnish Meteorological Institute in FI. With 62 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.738063
+date: 2026-10-11T02:32:59.760188
 url: "/cdr-researcher-census/researchers/henriikka-vekuri-a5032581/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Towards agricultural soil carbon monitoring, reporting, and verification through the Field Observatory Network (FiON)** (2022)
-   39 citations · General CDR
+   42 citations · General CDR
 
 2. **Impact of weather and management practices on greenhouse gas flux dynamics on an agricultural grassland in Southern Finland** (2024)
    16 citations · General CDR

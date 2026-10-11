@@ -1,7 +1,7 @@
 ---
 title: "Jinyan Sun"
 description: "Jinyan Sun is a Mid-career Soil Carbon researcher at Heilongjiang Academy of Sciences in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.823904
+date: 2026-10-11T02:32:59.849103
 url: "/cdr-researcher-census/researchers/jinyan-sun-a5110068/"
 layout: "researcher"
 hiddenInHomeList: true

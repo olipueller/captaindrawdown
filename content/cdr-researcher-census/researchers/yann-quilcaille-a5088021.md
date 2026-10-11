@@ -1,7 +1,7 @@
 ---
 title: "Yann Quilcaille"
 description: "Yann Quilcaille is a Mid-career General CDR researcher at ETH Zurich in CH. With 108 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.175989
+date: 2026-10-11T02:32:59.180056
 url: "/cdr-researcher-census/researchers/yann-quilcaille-a5088021/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Overconfidence in climate overshoot** (2024)
-   170 citations · General CDR
+   178 citations · General CDR
 
 2. **Impact of bioenergy crop expansion on climate–carbon cycle feedbacks in overshoot scenarios** (2022)
-   38 citations · BECCS
+   46 citations · BECCS
 
 3. **Impact of bioenergy crops expansion on climate-carbon cycle feedbacks in overshoot scenarios** (2021)
    16 citations · BECCS
@@ -62,13 +62,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 4. **Overconfidence in climate overshoot** (2023)
    7 citations
 
-5. **Fire Weather Compromises Large Scale Afforestation Scenarios** (2023)
+5. **Using regional ESM emulators to assess climate feedbacks to IAMs: The "FASTMIP" experimental protocol** (2024)
    3 citations · General CDR
 
-6. **Extreme events and land use changes in the climate crisis** (2024)
-   2 citations · General CDR
+6. **Fire Weather Compromises Large Scale Afforestation Scenarios** (2023)
+   3 citations · General CDR
 
-7. **Using regional ESM emulators to assess climate feedbacks to IAMs: The "FASTMIP" experimental protocol** (2024)
+7. **Extreme events and land use changes in the climate crisis** (2024)
    2 citations · General CDR
 
 8. **Comment on egusphere-2024-1941** (2024)

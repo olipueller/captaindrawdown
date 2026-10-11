@@ -1,7 +1,7 @@
 ---
 title: "Tamanna Mamun Novera"
 description: "Tamanna Mamun Novera is a Mid-career Biochar researcher at University of Alberta in CA. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.716527
+date: 2026-10-11T02:32:59.737630
 url: "/cdr-researcher-census/researchers/tamanna-mamun-novera-a5015068/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar Affects Greenhouse Gas Emissions from Urban Forestry Waste** (2025)
-   2 citations · Biochar
+   3 citations
 
 2. **Biochar Affects Greenhouse Gas Emissions from Urban Forestry Waste** (2025)
-   1 citations
+   2 citations · Biochar
 
 ## External Profiles
 

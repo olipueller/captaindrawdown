@@ -1,7 +1,7 @@
 ---
 title: "Xianni Yang"
 description: "Xianni Yang is a Mid-career Biochar researcher at Sichuan University in CN. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.384896
+date: 2026-10-11T02:32:59.392703
 url: "/cdr-researcher-census/researchers/xianni-yang-a5043840/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Carbon defects in biochar facilitated nitrogen doping: The significant role of pyridinic nitrogen in peroxymonosulfate activation and ciprofloxacin degradation** (2022)
-   232 citations · Biochar
+   237 citations · Biochar
 
 2. **Carbon matrix of biochar from biomass modeling components facilitates electron transfer from zero-valent iron to Cr(VI)** (2021)
-   29 citations · Biochar
+   30 citations · Biochar
 
 3. **Noncondensed aromatic carbon of sludge-derived biochar predominated peroxydisulfate activation mechanism for tetracycline degradation via an electron transfer pathway** (2023)
    3 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Jyotirmaya Sahoo"
 description: "Jyotirmaya Sahoo is a Mid-career Soil Carbon researcher at Bundelkhand University in IN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.879065
+date: 2026-10-11T02:32:59.906570
 url: "/cdr-researcher-census/researchers/jyotirmaya-sahoo-a5110605/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Influence of Clay Mineralogy on Soil Organic Carbon Stabilization under Tropical Climate, India** (2022)
-   34 citations · Soil Carbon
+   35 citations · Soil Carbon
 
 2. **Continuous pyrolysis of rice husk for sustainable biochar production and carbon sequestration: Recent advances and techno-economic perspectives** (2025)
-   10 citations · Biochar
+   12 citations · Biochar
 
 3. **Impact of Long-term Residue Management on Soil Aggregation and Carbon Accumulation Under Wheat-based Cropping Systems in a Typic Haplustept** (2025)
    3 citations · Soil Carbon

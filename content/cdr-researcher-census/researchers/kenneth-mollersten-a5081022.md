@@ -1,7 +1,7 @@
 ---
 title: "Kenneth Möllersten"
 description: "Kenneth Möllersten is a Senior General CDR researcher at KTH Royal Institute of Technology in SE. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.158751
+date: 2026-10-11T02:32:59.163163
 url: "/cdr-researcher-census/researchers/kenneth-mollersten-a5081022/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Incentivizing BECCS—A Swedish Case Study** (2021)
-   45 citations · BECCS
+   47 citations · BECCS
 
 2. **Novel carbon dioxide removals techniques must be integrated into the European Union’s climate policies** (2023)
-   23 citations · General CDR
+   24 citations · General CDR
 
 3. **Policies for the promotion of BECCS in the Nordic countries** (2021)
    9 citations · BECCS
@@ -66,7 +66,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    4 citations · BECCS
 
 6. **Nordic net-zero: counterbalancing residual emissions in the context of unevenly distributed BECCS potentials** (2025)
-   2 citations · BECCS
+   3 citations · BECCS
 
 7. **IImplementing Beccs in Swedish District Heating – An SDG Assessment** (2022)
    2 citations · BECCS

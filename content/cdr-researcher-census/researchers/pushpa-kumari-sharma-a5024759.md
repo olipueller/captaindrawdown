@@ -1,7 +1,7 @@
 ---
 title: "Pushpa Kumari Sharma"
 description: "Pushpa Kumari Sharma is a Senior Biochar researcher at Aryabhatta Knowledge University in IN. With 28 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.371797
+date: 2026-10-11T02:32:59.379045
 url: "/cdr-researcher-census/researchers/pushpa-kumari-sharma-a5024759/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Rice husk biochar - A novel engineered bio-based material for transforming groundwater-mediated fluoride cycling in natural environments** (2023)
-   66 citations · Biochar
+   67 citations · Biochar
 
 2. **Synthesis and exploration of physical properties of nanobiochar synthesized from rice straw for its applications in arsenic remediation from contaminated water environments** (2023)
    9 citations · Biochar

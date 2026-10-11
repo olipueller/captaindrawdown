@@ -1,7 +1,7 @@
 ---
 title: "Jyoti K. Chetri"
 description: "Jyoti K. Chetri is a Mid-career Biochar researcher at jacobs engineering group inc in US. With 50 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.347737
+date: 2026-10-11T02:32:59.353608
 url: "/cdr-researcher-census/researchers/jyoti-k-chetri-a5023398/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,14 +53,14 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 1. **Investigation of different biogeochemical cover configurations for mitigation of landfill gas emissions: laboratory column experiments** (2022)
    31 citations
 
-2. **Biogeochemical versus Conventional Landfill Soil Covers: Analysis of Gas Flow Profiles, Microbial Communities, and Mineralogy** (2022)
-   21 citations · Biochar
+2. **Use of methanotrophically activated biochar in novel biogeochemical cover system for carbon sequestration: Microbial characterization** (2022)
+   23 citations · Biochar
 
-3. **Use of methanotrophically activated biochar in novel biogeochemical cover system for carbon sequestration: Microbial characterization** (2022)
+3. **Biogeochemical versus Conventional Landfill Soil Covers: Analysis of Gas Flow Profiles, Microbial Communities, and Mineralogy** (2022)
    21 citations · Biochar
 
 4. **Evaluating the efficacy of biogeochemical cover system in mitigating landfill gas emissions: A large-scale laboratory simulation** (2024)
-   15 citations
+   16 citations
 
 5. **Spatial variation of methane oxidation and carbon dioxide sequestration in landfill biogeochemical cover** (2024)
    12 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Xiaoyan Jiao"
 description: "Xiaoyan Jiao is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.737849
+date: 2026-10-11T02:32:59.759941
 url: "/cdr-researcher-census/researchers/xiaoyan-jiao-a5088207/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 289 |
 | Publications | 14 |
-| CDR Focus | 21.4% |
-| Trajectory | Stable |
+| CDR Focus | 28.6% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Long-term manure applications to increase carbon sequestration and macroaggregate-stabilized carbon** (2022)
-   83 citations · Soil Carbon
+   87 citations · Soil Carbon
 
 2. **Long-term organic fertilization combined with deep ploughing enhances carbon sequestration in a rainfed sorghum-maize rotation system** (2024)
-   18 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 3. **Long-Term Low-Rate Biochar Application Enhances Soil Organic Carbon Without Affecting Sorghum Yield in a Calcaric Cambisol** (2025)
    5 citations · Biochar

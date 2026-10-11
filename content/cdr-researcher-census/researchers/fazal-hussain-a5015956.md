@@ -1,7 +1,7 @@
 ---
 title: "Fazal Hussain"
 description: "Fazal Hussain is a Mid-career Biochar researcher at Texas A&M University – Corpus Christi in US. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.370963
+date: 2026-10-11T02:33:00.406484
 url: "/cdr-researcher-census/researchers/fazal-hussain-a5015956/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Top CDR Publications
 
-1. **Development of multifunctional cementitious composite using biochar** (2024)
-   15 citations · Biochar
+1. **Sustainable multifunctional biochar-based cementitious composites for carbon sequestration, energy storage, and smart infrastructure applications: A review** (2025)
+   17 citations · Biochar
 
-2. **Sustainable multifunctional biochar-based cementitious composites for carbon sequestration, energy storage, and smart infrastructure applications: A review** (2025)
-   14 citations · Biochar
+2. **Development of multifunctional cementitious composite using biochar** (2024)
+   15 citations · Biochar
 
 ## External Profiles
 

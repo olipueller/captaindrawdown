@@ -1,7 +1,7 @@
 ---
 title: "Baoling Duan"
 description: "Baoling Duan is a Senior General CDR researcher at Shanxi University of Finance and Economics in CN. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.654208
+date: 2026-10-11T02:32:59.672816
 url: "/cdr-researcher-census/researchers/baoling-duan-a5056333/"
 layout: "researcher"
 hiddenInHomeList: true

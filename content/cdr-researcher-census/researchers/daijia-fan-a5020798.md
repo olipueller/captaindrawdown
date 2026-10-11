@@ -1,7 +1,7 @@
 ---
 title: "Daijia Fan"
 description: "Daijia Fan is a Mid-career Soil Carbon researcher at Beijing Academy of Agriculture and Forestry Sciences in CN. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.332776
+date: 2026-10-11T02:32:59.338381
 url: "/cdr-researcher-census/researchers/daijia-fan-a5020798/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jianyang Gao"
 description: "Jianyang Gao is a Mid-career Soil Carbon researcher at Aluminum Corporation of China (China) in CN. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.383195
+date: 2026-10-11T02:32:59.390932
 url: "/cdr-researcher-census/researchers/jianyang-gao-a5036318/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Dynamics of dissolved organic carbon turnover and microbial communities reconstruction associated with giant reed during the soil-like formation in bauxite residue** (2025)
-   4 citations · Biochar
+   5 citations · Biochar
 
 2. **Dynamics of Dissolved Organic Carbon Turnover and Assembly of Core Microbial Communities Mediated by Giant Reed During the Soil-Formation in Bauxite Residue** (2025)
    0 citations · Soil Carbon

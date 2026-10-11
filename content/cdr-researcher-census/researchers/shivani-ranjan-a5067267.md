@@ -1,7 +1,7 @@
 ---
 title: "Shivani Ranjan"
 description: "Shivani Ranjan is a Mid-career Soil Carbon researcher at Dr. Rajendra Prasad Central Agriculture University in IN. With 42 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.559555
+date: 2026-10-11T02:32:59.575033
 url: "/cdr-researcher-census/researchers/shivani-ranjan-a5067267/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,21 +51,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Influence of 36 years of integrated nutrient management on soil carbon sequestration, environmental footprint and agronomic productivity of wheat under rice-wheat cropping system** (2023)
-   35 citations · Soil Carbon
+   36 citations · Soil Carbon
 
 2. **Ecosystem Services Through Agroforestry Systems and Its Sustainability** (2024)
-   22 citations · General CDR
+   23 citations · General CDR
 
 3. **Trash Amended with Trichoderma Effects on Cane Yield, Soil Carbon Dynamics, and Enzymatic Activities under Plant–Ratoon System of Sugarcane in Calcareous Soil** (2024)
-   13 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 4. **Agroforestry and Soil Carbon Sequestration: A Nexus for System Sustainability** (2024)
    2 citations · General CDR
 
-5. **Productivity, carbon dynamics and soil fertility of eucalyptus based agroforestry system under different winter crops** (2026)
+5. **Combined Effects of Hybrid Pressurized Irrigation and High-Intensity Legume Intercropping on Productivity, Water Use Efficiency, and Soil Carbon Dynamics in Sugarcane-Based Cropping Systems** (2026)
+   0 citations · Soil Carbon
+
+6. **Productivity, carbon dynamics and soil fertility of eucalyptus based agroforestry system under different winter crops** (2026)
    0 citations
 
-6. **Response of Soil Microbial Communities to Climate Change** (2025)
+7. **Response of Soil Microbial Communities to Climate Change** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

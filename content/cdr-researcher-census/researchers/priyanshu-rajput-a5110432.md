@@ -1,7 +1,7 @@
 ---
 title: "Priyanshu Rajput"
 description: "Priyanshu Rajput is an Early-career Biochar researcher at University of Delhi in IN. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.396378
+date: 2026-10-11T02:33:00.434593
 url: "/cdr-researcher-census/researchers/priyanshu-rajput-a5110432/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Predicting biochar adsorption capacity for methylene blue removal using machine learning** (2024)
-   39 citations · Biochar
+   41 citations · Biochar
 
 2. **Machine learning-driven prediction of biochar adsorption capacity for effective removal of Congo red dye** (2025)
-   22 citations · Biochar
+   29 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Jiahui Liao"
 description: "Jiahui Liao is a Mid-career Soil Carbon researcher at Nanjing Forestry University in CN. With 23 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.428790
+date: 2026-10-11T02:32:59.438935
 url: "/cdr-researcher-census/researchers/jiahui-liao-a5021789/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Accumulation of soil microbial extracellular and cellular residues during forest rewilding: Implications for soil carbon stabilization in older plantations** (2023)
-   58 citations · Soil Carbon
+   57 citations · Soil Carbon
 
 2. **Forest development induces soil aggregate formation and stabilization: Implications for sequestration of soil carbon and nitrogen** (2024)
-   31 citations · Soil Carbon
+   36 citations · Soil Carbon
 
 3. **Unreported role of earthworms as decomposers of soil extracellular polymeric substance** (2024)
-   10 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 ## External Profiles
 

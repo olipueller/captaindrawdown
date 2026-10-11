@@ -1,7 +1,7 @@
 ---
 title: "J. Dinakaran"
 description: "J. Dinakaran is a Senior Biochar researcher at University of Delhi in IN. With 28 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.553082
+date: 2026-10-11T02:32:59.568025
 url: "/cdr-researcher-census/researchers/j-dinakaran-a5078098/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Comparative analysis of biochar production methods and their impacts on biochar physico-chemical properties and adsorption of heavy metals** (2024)
-   23 citations · Biochar
+   24 citations · Biochar
 
 2. **Soil Carbon Sequestration Potential of Terrestrial Ecosystems: Trends And Soil Priming Effects** (2022)
    4 citations · Soil Carbon

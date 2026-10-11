@@ -1,7 +1,7 @@
 ---
 title: "How Sing Sii"
 description: "How Sing Sii is a Senior Biochar researcher at University of Technology Sarawak. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.899422
+date: 2026-10-11T02:32:59.928666
 url: "/cdr-researcher-census/researchers/how-sing-sii-a5040755/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Microwave physicochemical activation: an advanced approach to produce activated biochar for palm oil mill effluent treatment** (2022)
-   8 citations · Biochar
+   9 citations · Biochar
 
 ## External Profiles
 

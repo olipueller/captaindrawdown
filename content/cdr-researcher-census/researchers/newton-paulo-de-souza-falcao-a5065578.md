@@ -1,7 +1,7 @@
 ---
 title: "Newton Paulo de Souza Falção"
 description: "Newton Paulo de Souza Falção is a Senior Biochar researcher at National Institute for Amazonian Research in BR. With 71 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.199295
+date: 2026-10-11T02:32:59.203249
 url: "/cdr-researcher-census/researchers/newton-paulo-de-souza-falcao-a5065578/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Investigation, Prospects, and Economic Scenarios for the Use of Biochar in Small-Scale Agriculture in Tropical** (2025)
-   5 citations · Biochar
+   6 citations · Biochar
 
 2. **Biochar from biomass wastes: Advancing sustainable circular agriculture and the water–energy–food nexus** (2025)
    1 citations · Biochar

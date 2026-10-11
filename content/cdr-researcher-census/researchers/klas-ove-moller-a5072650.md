@@ -1,7 +1,7 @@
 ---
 title: "Klas Ove Möller"
 description: "Klas Ove Möller is a Mid-career Ocean CDR researcher at Helmholtz-Zentrum Hereon in DE. With 57 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.192392
+date: 2026-10-11T02:32:59.196422
 url: "/cdr-researcher-census/researchers/klas-ove-moller-a5072650/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Impact of aggregate‐colonizing copepods on the biological carbon pump in a high‐latitude fjord** (2024)
-   5 citations · General CDR
+   6 citations · General CDR
 
 2. **Monitoring, reporting, and verification of marine carbon dioxide removal: Exploring scientific consensus and divergences across continents** (2026)
    0 citations · General CDR

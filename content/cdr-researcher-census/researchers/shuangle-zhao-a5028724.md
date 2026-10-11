@@ -1,7 +1,7 @@
 ---
 title: "Shuangle Zhao"
 description: "Shuangle Zhao is a Senior General CDR researcher at Xiamen University of Technology in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.657217
+date: 2026-10-11T02:32:59.676028
 url: "/cdr-researcher-census/researchers/shuangle-zhao-a5028724/"
 layout: "researcher"
 hiddenInHomeList: true

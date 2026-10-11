@@ -1,7 +1,7 @@
 ---
 title: "P Ashoka"
 description: "P Ashoka is a Mid-career Soil Carbon researcher at University of Agricultural Sciences, Dharwad in IN. With 89 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.585283
+date: 2026-10-11T02:32:59.601874
 url: "/cdr-researcher-census/researchers/p-ashoka-a5070588/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -59,23 +59,23 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Carbon-Based Nanomaterials for Soil Amendment: A Paradigm Shift in Agriculture Practices** (2024)
    5 citations · Biochar
 
-5. **Impact of Organic Agriculture on Soil Quality and Ecosystem Services: A Review** (2025)
+5. **The Role of Biofertilizers in Soil Health Improvement and Sustainable Farming: A Comprehensive Review** (2025)
+   3 citations · Soil Carbon
+
+6. **Impact of Organic Agriculture on Soil Quality and Ecosystem Services: A Review** (2025)
    2 citations · General CDR
 
-6. **The Role of Biofertilizers in Soil Health Improvement and Sustainable Farming: A Comprehensive Review** (2025)
-   2 citations · Soil Carbon
+7. **Advances in Understanding Soil Microbial Diversity and Its Role in Ecosystem Functioning: A Comprehensive Review** (2025)
+   1 citations
 
-7. **The Black Gold: How Biochar Can Save Our Soils and Climate** (2025)
+8. **Impact of Climate Change on Global Agriculture: A Review of Adaptation and Mitigation Strategies** (2025)
+   1 citations · General CDR
+
+9. **The Black Gold: How Biochar Can Save Our Soils and Climate** (2025)
    1 citations · Biochar
 
-8. **Sustainable Soil Management Practices in Modern Agriculture: A Systematic Review** (2026)
+10. **Sustainable Soil Management Practices in Modern Agriculture: A Systematic Review** (2026)
    0 citations · Biochar
-
-9. **Advances in Understanding Soil Microbial Diversity and Its Role in Ecosystem Functioning: A Comprehensive Review** (2025)
-   0 citations
-
-10. **Impact of Climate Change on Global Agriculture: A Review of Adaptation and Mitigation Strategies** (2025)
-   0 citations · General CDR
 
 ## External Profiles
 

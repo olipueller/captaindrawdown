@@ -1,7 +1,7 @@
 ---
 title: "Maryam Badamaki"
 description: "Maryam Badamaki is an Early-career General CDR researcher at Kharazmi University in IR. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.391944
+date: 2026-10-11T02:33:00.429333
 url: "/cdr-researcher-census/researchers/maryam-badamaki-a5018563/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Biotechnology for carbon capture and fixation: Critical review and future directions** (2021)
-   101 citations · General CDR
+   104 citations · General CDR
 
 ## External Profiles
 

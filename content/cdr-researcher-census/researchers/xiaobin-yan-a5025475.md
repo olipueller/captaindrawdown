@@ -1,7 +1,7 @@
 ---
 title: "Xiaobin Yan"
 description: "Xiaobin Yan is a Senior Soil Carbon researcher at Shanxi Agricultural University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.151506
+date: 2026-10-11T02:33:00.181398
 url: "/cdr-researcher-census/researchers/xiaobin-yan-a5025475/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Interactive effects of conservation tillage on the aggregate stability and soil organic carbon** (2022)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 ## External Profiles
 

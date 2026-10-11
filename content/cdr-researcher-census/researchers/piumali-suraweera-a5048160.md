@@ -1,7 +1,7 @@
 ---
 title: "Piumali Suraweera"
 description: "Piumali Suraweera is an Early-career Soil Carbon researcher at University of Peradeniya in LK. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.404100
+date: 2026-10-11T02:32:59.413222
 url: "/cdr-researcher-census/researchers/piumali-suraweera-a5048160/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Role of organic farming for achieving sustainability in agriculture** (2023)
-   603 citations · General CDR
+   611 citations · General CDR
 
 ## External Profiles
 

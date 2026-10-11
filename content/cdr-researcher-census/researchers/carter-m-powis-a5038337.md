@@ -1,7 +1,7 @@
 ---
 title: "Carter M. Powis"
 description: "Carter M. Powis is a Mid-career General CDR researcher at University of Oxford in GB. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.153147
+date: 2026-10-11T02:32:59.157411
 url: "/cdr-researcher-census/researchers/carter-m-powis-a5038337/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The carbon dioxide removal gap** (2024)
-   91 citations
+   106 citations
 
 2. **Quantifying global carbon dioxide removal deployment** (2023)
-   57 citations · DAC
+   56 citations · DAC
 
 3. **The carbon dioxide removal gap** (2023)
    8 citations · General CDR

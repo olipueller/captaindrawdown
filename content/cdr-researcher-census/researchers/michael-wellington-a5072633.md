@@ -1,7 +1,7 @@
 ---
 title: "Michael Wellington"
 description: "Michael Wellington is a Mid-career Soil Carbon researcher at Australian National University in AU. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.009817
+date: 2026-10-11T02:33:00.041075
 url: "/cdr-researcher-census/researchers/michael-wellington-a5072633/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Grazing management for soil carbon in Australia: A review** (2023)
-   74 citations · General CDR
+   76 citations · General CDR
 
 ## External Profiles
 

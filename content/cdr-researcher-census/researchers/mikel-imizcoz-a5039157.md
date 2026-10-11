@@ -1,7 +1,7 @@
 ---
 title: "Mikel Imízcoz"
 description: "Mikel Imízcoz is a Mid-career DAC researcher at Ollscoil na Gaillimhe – University of Galway in IE. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.543610
+date: 2026-10-11T02:32:59.558638
 url: "/cdr-researcher-census/researchers/mikel-imizcoz-a5039157/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Selecting microporous materials for direct CO₂ capture from air and conversion into methane** (2026)
-   0 citations · DAC
+   1 citations · DAC
 
 ## External Profiles
 

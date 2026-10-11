@@ -1,7 +1,7 @@
 ---
 title: "Xiaodong Ge"
 description: "Xiaodong Ge is a Senior General CDR researcher at Tsinghua University in CN. With 24 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.590668
+date: 2026-10-11T02:32:59.607439
 url: "/cdr-researcher-census/researchers/xiaodong-ge-a5000760/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    16 citations · General CDR
 
 2. **Estimation of carbon sequestration potential and air quality impacts of biochar production from straw in China** (2024)
-   6 citations · Biochar
+   7 citations · Biochar
 
 ## External Profiles
 

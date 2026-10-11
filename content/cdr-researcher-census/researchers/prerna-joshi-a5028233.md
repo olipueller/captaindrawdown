@@ -1,7 +1,7 @@
 ---
 title: "Prerna Joshi"
 description: "Prerna Joshi is a Mid-career Soil Carbon researcher at National Institute of Disaster Management in IN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.204548
+date: 2026-10-11T02:33:00.234268
 url: "/cdr-researcher-census/researchers/prerna-joshi-a5028233/"
 layout: "researcher"
 hiddenInHomeList: true

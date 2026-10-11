@@ -1,7 +1,7 @@
 ---
 title: "Xuanxuan Du"
-description: "Xuanxuan Du is a Mid-career DAC researcher at Walker (United States) in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.869614
+description: "Xuanxuan Du is a Mid-career DAC researcher at Texas Materials Institute in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:32:59.849627
 url: "/cdr-researcher-census/researchers/xuanxuan-du-a5027003/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xuanxuan-du-a5027003/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Walker (United States)"
+    "name": "Texas Materials Institute"
   },
   "sameAs": "https://openalex.org/A5027003174"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Xuanxuan Du**  
-Walker (United States) · 🇺🇸 US
+Texas Materials Institute · 🇺🇸 US
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 229 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 248 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

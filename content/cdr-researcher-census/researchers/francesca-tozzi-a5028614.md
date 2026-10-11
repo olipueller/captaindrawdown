@@ -1,7 +1,7 @@
 ---
 title: "Francesca Tozzi"
 description: "Francesca Tozzi is a Senior Soil Carbon researcher at Consorzio Oncotech in IT. With 32 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.681161
+date: 2026-10-11T02:32:59.701055
 url: "/cdr-researcher-census/researchers/francesca-tozzi-a5028614/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Is soil sampling appropriate for quantitative carbon accounting for biochar? An experimental investigation to assess soil carbon accumulation** (2025)
-   3 citations · Biochar
+   4 citations · Biochar
 
 2. **First Data on the (Poly)phenolic Profiling of Farmacista Honorati Persimmon Fruit (Diospyros kaki Thunb.) at Commercial Harvest and after Treatments for Astringency Removal** (2024)
    2 citations

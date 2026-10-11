@@ -1,7 +1,7 @@
 ---
 title: "Thomas Abindaw"
 description: "Thomas Abindaw is a Mid-career Soil Carbon researcher at University of Energy and Natural Resources in GH. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.368978
+date: 2026-10-11T02:33:00.404616
 url: "/cdr-researcher-census/researchers/thomas-abindaw-a5073094/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Influence of land use types on the distribution of selected soil properties in tropical soils of the Coastal Savanna zone** (2023)
-   18 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 2. **Influence of Land Use Types on the Distribution of Selected Soil Properties in Tropical Soils of the Coastal Savanna Zone** (2022)
    2 citations

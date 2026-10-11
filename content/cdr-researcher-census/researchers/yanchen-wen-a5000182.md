@@ -1,7 +1,7 @@
 ---
 title: "Yanchen Wen"
 description: "Yanchen Wen is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.271431
+date: 2026-10-11T02:32:59.275564
 url: "/cdr-researcher-census/researchers/yanchen-wen-a5000182/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term organic fertilizer-induced carbonate neoformation increases carbon sequestration in soil** (2023)
-   66 citations · Soil Carbon
+   68 citations · Soil Carbon
 
 ## External Profiles
 

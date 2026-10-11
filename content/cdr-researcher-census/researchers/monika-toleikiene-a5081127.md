@@ -1,7 +1,7 @@
 ---
 title: "Monika Toleikienė"
 description: "Monika Toleikienė is a Mid-career Soil Carbon researcher at Lithuanian Research Centre for Agriculture and Forestry in LT. With 54 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.258134
+date: 2026-10-11T02:32:59.261985
 url: "/cdr-researcher-census/researchers/monika-toleikiene-a5081127/"
 layout: "researcher"
 hiddenInHomeList: true

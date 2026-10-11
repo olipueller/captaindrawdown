@@ -1,7 +1,7 @@
 ---
 title: "Weiqiang Dou"
 description: "Weiqiang Dou is a Mid-career Soil Carbon researcher at Ministry of Natural Resources in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.221114
+date: 2026-10-11T02:33:00.251407
 url: "/cdr-researcher-census/researchers/weiqiang-dou-a5001111/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 2. **Long-term biocrust restoration enhances microbial carbon use efficiency but shifts soil organic carbon sequestration pathways** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 3. **Precipitation reduction threshold dictates the shifts of biocrust net carbon flux induced by climate warming** (2026)
    0 citations

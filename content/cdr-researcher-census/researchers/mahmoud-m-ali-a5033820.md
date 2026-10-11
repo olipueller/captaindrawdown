@@ -1,7 +1,7 @@
 ---
 title: "Mahmoud M. Ali"
 description: "Mahmoud M. Ali is a Senior Biochar researcher at Ministry of Agriculture in LV. With 23 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.810430
+date: 2026-10-11T02:32:59.835593
 url: "/cdr-researcher-census/researchers/mahmoud-m-ali-a5033820/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Insight into synthesis and catalytic performance of mesoporous electroactive biochar for aqueous sulfide adsorptive oxidation** (2023)
-   11 citations · Biochar
+   12 citations · Biochar
 
 2. **Synthesis, modification, and characterization of new biochar adsorbents for some organic species and low-level radioactive liquid waste treatment** (2025)
    0 citations · Biochar

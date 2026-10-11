@@ -1,7 +1,7 @@
 ---
 title: "Raana Fahim"
 description: "Raana Fahim is a Mid-career Biochar researcher at Hohai University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.821895
+date: 2026-10-11T02:32:59.846920
 url: "/cdr-researcher-census/researchers/raana-fahim-a5051595/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar and Compost Effects on Soil Physico-Chemical and Biological Properties: Implications for Remediation and Climate Mitigation** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Mengxin Song"
 description: "Mengxin Song is a Mid-career Soil Carbon researcher at Shanxi University in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.163992
+date: 2026-10-11T02:33:00.194112
 url: "/cdr-researcher-census/researchers/mengxin-song-a5085976/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Optimizing organic substitution: Balancing carbon sequestration and priming effects of a six-year field experiment for sustainable vegetable production** (2023)
-   19 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 ## External Profiles
 

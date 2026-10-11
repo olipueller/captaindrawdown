@@ -1,7 +1,7 @@
 ---
 title: "X. Y. Zhang"
 description: "X. Y. Zhang is a Senior Soil Carbon researcher at Institute of Forest Ecology of the Slovak Academy of Sciences in SK. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.695687
+date: 2026-10-11T02:32:59.716322
 url: "/cdr-researcher-census/researchers/x-y-zhang-a5001020/"
 layout: "researcher"
 hiddenInHomeList: true

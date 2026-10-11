@@ -1,7 +1,7 @@
 ---
 title: "Yabing Meng"
 description: "Yabing Meng is a Mid-career Ocean CDR researcher at Xiamen University in CN. With 29 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.369559
+date: 2026-10-11T02:32:59.376779
 url: "/cdr-researcher-census/researchers/yabing-meng-a5078367/"
 layout: "researcher"
 hiddenInHomeList: true

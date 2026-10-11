@@ -1,7 +1,7 @@
 ---
 title: "Guangruo Zeng"
 description: "Guangruo Zeng is a Mid-career Soil Carbon researcher at Jiangxi Academy of Forestry in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.219953
+date: 2026-10-11T02:33:00.250260
 url: "/cdr-researcher-census/researchers/guangruo-zeng-a5000545/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ashley Colby"
 description: "Ashley Colby is a Mid-career Soil Carbon researcher at Illinois Department of Natural Resources in US. With 20 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.771858
+date: 2026-10-11T02:32:59.794691
 url: "/cdr-researcher-census/researchers/ashley-colby-a5063797/"
 layout: "researcher"
 hiddenInHomeList: true

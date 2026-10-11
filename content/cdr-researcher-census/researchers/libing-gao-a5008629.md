@@ -1,7 +1,7 @@
 ---
 title: "Libing Gao"
 description: "Libing Gao is a Mid-career Biochar researcher at Taiyuan University of Science and Technology in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.179230
+date: 2026-10-11T02:33:00.209083
 url: "/cdr-researcher-census/researchers/libing-gao-a5008629/"
 layout: "researcher"
 hiddenInHomeList: true

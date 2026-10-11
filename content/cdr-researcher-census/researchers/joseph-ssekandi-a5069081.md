@@ -1,7 +1,7 @@
 ---
 title: "Joseph Ssekandi"
 description: "Joseph Ssekandi is an Early-career Soil Carbon researcher at Uganda Martyrs University in UG. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.687836
+date: 2026-10-11T02:32:59.708088
 url: "/cdr-researcher-census/researchers/joseph-ssekandi-a5069081/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Roles of Arbuscular Mycorrhizal Fungi on Soil Fertility: Contribution in the Improvement of Physical, Chemical, and Biological Properties of the Soil** (2022)
-   264 citations · Soil Carbon
+   275 citations · Soil Carbon
 
 ## External Profiles
 

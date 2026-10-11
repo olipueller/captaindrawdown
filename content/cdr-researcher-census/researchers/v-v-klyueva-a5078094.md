@@ -1,7 +1,7 @@
 ---
 title: "V. V. Klyueva"
 description: "V. V. Klyueva is a Mid-career Soil Carbon researcher at V.V. Dokuchaev Soil Science Institute in RU. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.144805
+date: 2026-10-11T02:33:00.174884
 url: "/cdr-researcher-census/researchers/v-v-klyueva-a5078094/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Physical mechanisms of carbon stabilization in soils (a review)** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Hongyang Zou"
 description: "Hongyang Zou is a Mid-career General CDR researcher at Tianjin University in CN. With 28 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.272291
+date: 2026-10-11T02:32:59.276438
 url: "/cdr-researcher-census/researchers/hongyang-zou-a5062602/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Targeted carbon dioxide removal measures are essential for the cost and energy transformation of the electricity sector by 2050** (2025)
-   15 citations · General CDR
+   17 citations · General CDR
 
 2. **Quantifying the Transformational Requirements of the Electricity Sector Under Uncertain Expectations of Carbon Removal** (2024)
    0 citations · General CDR

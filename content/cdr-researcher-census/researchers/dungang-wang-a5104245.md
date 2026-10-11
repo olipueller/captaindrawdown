@@ -1,7 +1,7 @@
 ---
 title: "Dungang Wang"
 description: "Dungang Wang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.990014
+date: 2026-10-11T02:33:00.020811
 url: "/cdr-researcher-census/researchers/dungang-wang-a5104245/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial metabolic traits drive the differential contribution of microbial necromass to soil organic carbon between the rhizosphere of absorptive roots and transport roots** (2024)
-   44 citations · Soil Carbon
+   46 citations · Soil Carbon
 
 2. **The accumulation capacity of microbial residues in the rhizosphere increased along an elevation gradient** (2024)
    22 citations · Soil Carbon
+
+3. **Microbial necromass carbon accumulation is associated with soil microbial life history strategies and multitrophic network complexity under nitrogen addition in alpine forests** (2026)
+   2 citations
 
 ## External Profiles
 

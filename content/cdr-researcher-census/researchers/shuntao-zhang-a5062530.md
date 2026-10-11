@@ -1,7 +1,7 @@
 ---
 title: "Shuntao Zhang"
 description: "Shuntao Zhang is a Mid-career Soil Carbon researcher at Huazhong Agricultural University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.827273
+date: 2026-10-11T02:32:59.853531
 url: "/cdr-researcher-census/researchers/shuntao-zhang-a5062530/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Oilseed rape-rice rotation with recommended fertilization and straw returning enhances soil organic carbon sequestration through influencing macroaggregates and molecular complexity** (2024)
-   40 citations · Soil Carbon
+   41 citations · Soil Carbon
 
 ## External Profiles
 

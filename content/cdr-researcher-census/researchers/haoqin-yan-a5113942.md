@@ -1,7 +1,7 @@
 ---
 title: "Haoqin Yan"
 description: "Haoqin Yan is a Mid-career Biochar researcher at Hunan University in CN. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.574625
+date: 2026-10-11T02:32:59.590319
 url: "/cdr-researcher-census/researchers/haoqin-yan-a5113942/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Silica from rice husk for sludge-based biochar modification: As a novel adsorbent for lead** (2024)
-   17 citations · Biochar
+   18 citations · Biochar
 
 2. **Removal of Pb2+ by Sludge-Based Biochar Modified by the Silica Derived from Rice Husk** (2023)
    0 citations · Biochar

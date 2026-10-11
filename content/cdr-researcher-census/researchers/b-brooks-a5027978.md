@@ -1,7 +1,7 @@
 ---
 title: "B. Brooks"
 description: "B. Brooks is a Senior DAC researcher at Carbon Solutions (United States) in US. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.712152
+date: 2026-10-11T02:32:59.732897
 url: "/cdr-researcher-census/researchers/b-brooks-a5027978/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 8 |
 | Citations | 302 |
 | Publications | 28 |
-| CDR Focus | 10.7% |
+| CDR Focus | 14.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Effect of Lower Tidal Volume Ventilation Facilitated by Extracorporeal Carbon Dioxide Removal vs Standard Care Ventilation on 90-Day Mortality in Patients With Acute Hypoxemic Respiratory Failure** (2021)
-   223 citations
+   227 citations
 
 2. **The performance of solvent-based direct air capture across geospatial and temporal climate regimes** (2024)
-   22 citations · DAC
+   21 citations · DAC
 
 3. **Meeting Net-Zero America Direct Air Capture Targets with Sedimentary Basin Geothermal Heat While Considering Environmental Justice** (2024)
    2 citations · DAC
@@ -62,7 +62,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 4. **Spatial Heterogeneity in Technology Costs and Preferences for Direct Air Capture in the United States** (2026)
    0 citations · DAC
 
-5. **Spatial Granularity Matters: Weather Data Resolution Impacts Direct Air Capture Performance and Siting Decisions** (2024)
+5. **Geospatial cost comparison of thermal energy technologies: a sorbent-based direct air capture case study** (2026)
+   0 citations · DAC
+
+6. **Spatial Granularity Matters: Weather Data Resolution Impacts Direct Air Capture Performance and Siting Decisions** (2024)
    0 citations
 
 ## External Profiles

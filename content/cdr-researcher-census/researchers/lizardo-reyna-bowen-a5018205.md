@@ -1,7 +1,7 @@
 ---
 title: "Lizardo Reyna-Bowen"
 description: "Lizardo Reyna-Bowen is a Mid-career Soil Carbon researcher at University of Agriculture in Krakow in PL. With 30 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.325502
+date: 2026-10-11T02:33:00.358112
 url: "/cdr-researcher-census/researchers/lizardo-reyna-bowen-a5018205/"
 layout: "researcher"
 hiddenInHomeList: true

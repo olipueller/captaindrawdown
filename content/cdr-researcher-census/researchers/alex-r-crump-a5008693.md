@@ -1,7 +1,7 @@
 ---
 title: "Alex R. Crump"
 description: "Alex R. Crump is a Mid-career Biochar researcher at University of Idaho in US. With 43 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.301237
+date: 2026-10-11T02:32:59.306441
 url: "/cdr-researcher-census/researchers/alex-r-crump-a5008693/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Reactivity of Fe-amended biochar for phosphorus removal and recycling from wastewater** (2023)
-   27 citations · Biochar
+   29 citations · Biochar
 
 2. **Biochar integrated reactive filtration of wastewater for P removal and recovery, micropollutant catalytic oxidation, and negative CO<sub>2</sub>e: Process operation and mechanism** (2023)
    8 citations · Biochar
 
 3. **Availability of Recycled Phosphorus on Biochar Reacted with Wastewater to Support Growth of Lactuca sativa** (2024)
-   3 citations · Biochar
+   5 citations · Biochar
 
 ## External Profiles
 

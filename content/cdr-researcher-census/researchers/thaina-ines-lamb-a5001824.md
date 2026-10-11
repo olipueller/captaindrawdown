@@ -1,7 +1,7 @@
 ---
 title: "Thainá Inês Lamb"
 description: "Thainá Inês Lamb is a Mid-career Biochar researcher at Univates in BR. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.969061
+date: 2026-10-11T02:33:00.000459
 url: "/cdr-researcher-census/researchers/thaina-ines-lamb-a5001824/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Rice plants treated with biochar derived from Spirulina (Arthrospira platensis) optimize resource allocation towards seed production** (2024)
-   11 citations · Biochar
+   13 citations · Biochar
 
 ## External Profiles
 

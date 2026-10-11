@@ -1,7 +1,7 @@
 ---
 title: "Funmilayo Omotoyosi Fapohunda"
 description: "Funmilayo Omotoyosi Fapohunda is a Mid-career Biochar researcher at Jiangsu University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.437519
+date: 2026-10-11T02:32:59.447788
 url: "/cdr-researcher-census/researchers/funmilayo-omotoyosi-fapohunda-a5024985/"
 layout: "researcher"
 hiddenInHomeList: true

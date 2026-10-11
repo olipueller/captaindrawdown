@@ -1,7 +1,7 @@
 ---
 title: "Ruilin Chen"
 description: "Ruilin Chen is a Senior Soil Carbon researcher at University of Graz in AT. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.280832
+date: 2026-10-11T02:33:00.310870
 url: "/cdr-researcher-census/researchers/ruilin-chen-a5101815/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Climate and shrubs at different scales jointly drive the changing pattern of moss crust soil multifunctionality in a temperate desert** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

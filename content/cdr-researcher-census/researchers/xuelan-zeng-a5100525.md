@@ -1,7 +1,7 @@
 ---
 title: "Xuelan Zeng"
 description: "Xuelan Zeng is a Mid-career General CDR researcher at Guangdong University of Technology in CN. With 58 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.290037
+date: 2026-10-11T02:32:59.294342
 url: "/cdr-researcher-census/researchers/xuelan-zeng-a5100525/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Energetic and Life Cycle Assessment of Direct Air Capture: A Review** (2022)
-   51 citations · DAC
+   52 citations · DAC
 
 2. **Can bioenergy with carbon capture and storage deliver negative emissions? A critical review of life cycle assessment** (2023)
    36 citations · BECCS
 
 3. **Exploring soil carbon drivers across natural mangroves, restored mangroves, and tidal flats: Implications for subtropical coastal carbon management** (2025)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
+
+4. **Exploring the Sustainability of Direct Air Capture Technologies: An Integrated Analysis from Energy, Emergy and Environmental Perspectives** (2026)
+   0 citations · DAC
 
 ## External Profiles
 

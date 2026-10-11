@@ -1,7 +1,7 @@
 ---
 title: "Jean Raymond Lucien Meva’a"
 description: "Jean Raymond Lucien Meva’a is a Mid-career General CDR researcher at Université de Yaoundé I in CM. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.360770
+date: 2026-10-11T02:33:00.396467
 url: "/cdr-researcher-census/researchers/jean-raymond-lucien-mevaa-a5028040/"
 layout: "researcher"
 hiddenInHomeList: true

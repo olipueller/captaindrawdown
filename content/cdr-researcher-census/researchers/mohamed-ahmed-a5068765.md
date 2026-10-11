@@ -1,7 +1,7 @@
 ---
 title: "Mohamed Ahmed"
 description: "Mohamed Ahmed is a Senior General CDR researcher at University of Calgary in CA. With 58 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.449054
+date: 2026-10-11T02:32:59.459692
 url: "/cdr-researcher-census/researchers/mohamed-ahmed-a5068765/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Canada's marine carbon sink: an early career perspective on the state of research and existing knowledge gaps** (2023)
-   18 citations · General CDR
+   17 citations · General CDR
 
 2. **A novel approach to mapping and monitoring land carbon sinks by combining remote sensing and biogeochemical modeling: A case study in Burkina Faso** (2025)
    2 citations · General CDR

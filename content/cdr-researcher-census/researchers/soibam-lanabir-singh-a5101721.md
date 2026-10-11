@@ -1,7 +1,7 @@
 ---
 title: "Soibam Lanabir Singh"
 description: "Soibam Lanabir Singh is a Mid-career Soil Carbon researcher at Dr. Rajendra Prasad Central Agriculture University in IN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.552269
+date: 2026-10-11T02:32:59.567251
 url: "/cdr-researcher-census/researchers/soibam-lanabir-singh-a5101721/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Quantifying Tree Diversity, Carbon Stocks, and Sequestration Potential for Diverse Land Uses in Northeast India** (2021)
-   73 citations · General CDR
+   75 citations · General CDR
 
 2. **Productivity, carbon dynamics and soil fertility of eucalyptus based agroforestry system under different winter crops** (2026)
    0 citations

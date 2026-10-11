@@ -1,7 +1,7 @@
 ---
 title: "Ken Leong"
 description: "Ken Leong is a Senior Biochar researcher at National Defence University of Malaysia in MY. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.619658
+date: 2026-10-11T02:32:59.637223
 url: "/cdr-researcher-census/researchers/ken-leong-a5034651/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Gasification biochar from horticultural waste: An exemplar of the circular economy in Singapore** (2021)
-   47 citations · Biochar
+   48 citations · Biochar
 
 ## External Profiles
 

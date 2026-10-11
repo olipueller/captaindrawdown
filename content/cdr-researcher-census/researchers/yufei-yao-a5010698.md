@@ -1,7 +1,7 @@
 ---
 title: "Yufei Yao"
 description: "Yufei Yao is a Senior Soil Carbon researcher at Northwest University in CN. With 61 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.207546
+date: 2026-10-11T02:32:59.211625
 url: "/cdr-researcher-census/researchers/yufei-yao-a5010698/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,19 +53,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **The fate of carbon in check dam sediments** (2021)
    41 citations · Soil Carbon
 
-2. **Cropland-to-shrubland conversion reduces soil water storage and contributes little to soil carbon sequestration in a dryland area** (2023)
+2. **Mechanisms controlling the stability and sequestration of mineral associated organic carbon upon erosion and deposition** (2024)
    33 citations · Soil Carbon
 
-3. **Mechanisms controlling the stability and sequestration of mineral associated organic carbon upon erosion and deposition** (2024)
-   32 citations · Soil Carbon
+3. **Cropland-to-shrubland conversion reduces soil water storage and contributes little to soil carbon sequestration in a dryland area** (2023)
+   33 citations · Soil Carbon
 
 4. **Responses of soil organic carbon mineralization and its temperature sensitivity to re-vegetation in the agro-pastoral ecotone of northern China** (2021)
    11 citations · Soil Carbon
 
-5. **An empirical approach to predict regional organic carbon in deep soils** (2023)
+5. **Spatiotemporal variability in divergent accrual of particulate and mineral-associated organic carbon by vegetation restoration on the Loess Plateau** (2025)
    8 citations · Soil Carbon
 
-6. **Spatiotemporal variability in divergent accrual of particulate and mineral-associated organic carbon by vegetation restoration on the Loess Plateau** (2025)
+6. **An empirical approach to predict regional organic carbon in deep soils** (2023)
    7 citations · Soil Carbon
 
 ## External Profiles

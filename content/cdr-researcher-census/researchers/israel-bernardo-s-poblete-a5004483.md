@@ -1,7 +1,7 @@
 ---
 title: "Israel Bernardo S. Poblete"
 description: "Israel Bernardo S. Poblete is a Mid-career General CDR researcher at Universidade Federal do Rio de Janeiro in BR. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.396098
+date: 2026-10-11T02:33:00.434322
 url: "/cdr-researcher-census/researchers/israel-bernardo-s-poblete-a5004483/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Sewage-Water Treatment and Sewage-Sludge Management with Power Production as Bioenergy with Carbon Capture System: A Review** (2022)
-   25 citations · BECCS
+   27 citations · BECCS
 
 2. **Sewage-water treatment with bio-energy production and carbon capture and storage** (2021)
-   22 citations · BECCS
+   23 citations · BECCS
 
 3. **Landfill-gas-to-biomethane via a new carbon capture and utilization technology: One-pot sodium chloride batch mineralization** (2024)
    4 citations · General CDR

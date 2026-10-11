@@ -1,7 +1,7 @@
 ---
 title: "Pei Yuan"
 description: "Pei Yuan is a Senior Soil Carbon researcher at Xi'an University of Technology in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.522653
+date: 2026-10-11T02:32:59.536637
 url: "/cdr-researcher-census/researchers/pei-yuan-a5101484/"
 layout: "researcher"
 hiddenInHomeList: true

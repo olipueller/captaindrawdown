@@ -1,7 +1,7 @@
 ---
 title: "Jiguang Feng"
 description: "Jiguang Feng is a Senior Soil Carbon researcher at Inner Mongolia University in CN. With 79 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.080144
+date: 2026-10-11T02:32:59.085007
 url: "/cdr-researcher-census/researchers/jiguang-feng-a5046920/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Changes in plant inputs alter soil carbon and microbial communities in forest ecosystems** (2022)
-   404 citations · Soil Carbon
+   416 citations · Soil Carbon
 
 2. **The patterns of forest soil particulate and mineral associated organic carbon characteristics with latitude and soil depth across eastern China** (2024)
-   23 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 3. **Sustained Green Manure‐Rice Rotations Can Mitigate Methane Emissions by Enhancing Microbial Methane Oxidation in Southern China** (2025)
    8 citations · Soil Carbon
 
-4. **Terrestrial ecosystem nitrogen cycling in response to field warming: Global patterns and future trends** (2026)
-   5 citations · Soil Carbon
+4. **Soil Carbon Availability Drives Depth‐Dependent Responses of Microbial Nitrogen Use Efficiency to Warming** (2025)
+   7 citations · Soil Carbon
 
-5. **Soil Carbon Availability Drives Depth‐Dependent Responses of Microbial Nitrogen Use Efficiency to Warming** (2025)
-   5 citations · Soil Carbon
+5. **Terrestrial ecosystem nitrogen cycling in response to field warming: Global patterns and future trends** (2026)
+   6 citations · Soil Carbon
 
 6. **Changes in plant detritus inputs alter soil carbon and microbial communities in forest ecosystems** (2022)
    1 citations · Soil Carbon

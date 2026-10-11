@@ -1,7 +1,7 @@
 ---
 title: "Lalita Kumar Mohanty"
 description: "Lalita Kumar Mohanty is an Early-career Soil Carbon researcher at Odisha University of Agriculture and Technology in IN. With 30 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.292601
+date: 2026-10-11T02:33:00.322816
 url: "/cdr-researcher-census/researchers/lalita-kumar-mohanty-a5023605/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,32 +47,32 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Impact of Conservation Tillage and Organic Nutrient Sources on Finger Millet Performance in Legume-based Cropping Systems** (2025)
-   1 citations · Soil Carbon
+1. **Biochar: A Sustainable Solution for Soil Health and Climate Change Mitigation** (2025)
+   2 citations · Biochar
 
-2. **The Economics of Carbon Sequestration and Climate Change Mitigation Potential of Different Soil Management Practices** (2025)
+2. **Advances in Understanding Soil Microbial Diversity and Its Role in Ecosystem Functioning: A Comprehensive Review** (2025)
+   1 citations
+
+3. **Impact of Climate Change on Global Agriculture: A Review of Adaptation and Mitigation Strategies** (2025)
    1 citations · General CDR
 
-3. **The Black Gold: How Biochar Can Save Our Soils and Climate** (2025)
+4. **Impact of Conservation Tillage and Organic Nutrient Sources on Finger Millet Performance in Legume-based Cropping Systems** (2025)
+   1 citations · Soil Carbon
+
+5. **The Economics of Carbon Sequestration and Climate Change Mitigation Potential of Different Soil Management Practices** (2025)
+   1 citations · General CDR
+
+6. **The Black Gold: How Biochar Can Save Our Soils and Climate** (2025)
    1 citations · Biochar
 
-4. **Impact of Organic Farming Practices on Crop Productivity and Soil Health: A Review** (2026)
+7. **Impact of Organic Farming Practices on Crop Productivity and Soil Health: A Review** (2026)
    0 citations
 
-5. **Sustainable Soil Management Practices in Modern Agriculture: A Systematic Review** (2026)
+8. **Sustainable Soil Management Practices in Modern Agriculture: A Systematic Review** (2026)
    0 citations · Biochar
 
-6. **Advances in Understanding Soil Microbial Diversity and Its Role in Ecosystem Functioning: A Comprehensive Review** (2025)
-   0 citations
-
-7. **Soil Carbon Sequestration Strategies and Carbon Crediting for Mitigating Climate Change: A Review of Recent Developments** (2025)
+9. **Soil Carbon Sequestration Strategies and Carbon Crediting for Mitigating Climate Change: A Review of Recent Developments** (2025)
    0 citations · General CDR
-
-8. **Impact of Climate Change on Global Agriculture: A Review of Adaptation and Mitigation Strategies** (2025)
-   0 citations · General CDR
-
-9. **Biochar: A Sustainable Solution for Soil Health and Climate Change Mitigation** (2025)
-   0 citations · Biochar
 
 ## External Profiles
 

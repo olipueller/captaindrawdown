@@ -1,7 +1,7 @@
 ---
 title: "Claudia Hinrichs"
 description: "Claudia Hinrichs is a Senior Ocean CDR researcher at Federal Maritime and Hydrographic Agency of Germany in DE. With 36 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.427564
+date: 2026-10-11T02:32:59.437620
 url: "/cdr-researcher-census/researchers/claudia-hinrichs-a5048504/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 ## Top CDR Publications
 
-1. **Alkalinity biases in CMIP6 Earth System Models and implications for simulated CO2 drawdown via artificial alkalinity enhancement** (2023)
-   17 citations · General CDR
+1. **Alkalinity biases in CMIP6 Earth system models and implications for simulated CO <sub>2</sub> drawdown via artificial alkalinity enhancement** (2023)
+   31 citations · General CDR
 
-2. **Alkalinity biases in CMIP6 Earth system models and implications for simulated CO <sub>2</sub> drawdown via artificial alkalinity enhancement** (2023)
-   16 citations · General CDR
+2. **Alkalinity biases in CMIP6 Earth System Models and implications for simulated CO2 drawdown via artificial alkalinity enhancement** (2023)
+   17 citations · General CDR
 
 3. **Alkalinity and Sensitivity to Alkalinity Enhancement in CMIP6 Earth System Models** (2023)
    1 citations · Ocean CDR

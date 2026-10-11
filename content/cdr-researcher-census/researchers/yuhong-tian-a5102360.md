@@ -1,7 +1,7 @@
 ---
 title: "Yuhong Tian"
 description: "Yuhong Tian is a Senior Soil Carbon researcher at Beijing Normal University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.771767
+date: 2026-10-11T02:32:59.794609
 url: "/cdr-researcher-census/researchers/yuhong-tian-a5102360/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hao Yuan"
 description: "Hao Yuan is a Mid-career Soil Carbon researcher at Jiangnan University in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.020675
+date: 2026-10-11T02:33:00.051957
 url: "/cdr-researcher-census/researchers/hao-yuan-a5115604/"
 layout: "researcher"
 hiddenInHomeList: true

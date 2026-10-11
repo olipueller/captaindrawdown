@@ -1,7 +1,7 @@
 ---
 title: "Rakesh Chandra Nainwal"
 description: "Rakesh Chandra Nainwal is a Mid-career Biochar researcher at National Botanical Research Institute in IN. With 26 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.113443
+date: 2026-10-11T02:33:00.144331
 url: "/cdr-researcher-census/researchers/rakesh-chandra-nainwal-a5049844/"
 layout: "researcher"
 hiddenInHomeList: true

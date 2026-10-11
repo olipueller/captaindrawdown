@@ -1,7 +1,7 @@
 ---
 title: "Sina Herceg"
 description: "Sina Herceg is a Mid-career BECCS researcher at Fraunhofer Institute for Solar Energy Systems in DE. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.621806
+date: 2026-10-11T02:32:59.639579
 url: "/cdr-researcher-census/researchers/sina-herceg-a5004144/"
 layout: "researcher"
 hiddenInHomeList: true

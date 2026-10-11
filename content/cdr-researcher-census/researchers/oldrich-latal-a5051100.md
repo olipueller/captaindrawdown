@@ -1,7 +1,7 @@
 ---
 title: "Oldřich Látal"
 description: "Oldřich Látal is a Mid-career Soil Carbon researcher at Moravian Museum in CZ. With 76 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.471835
+date: 2026-10-11T02:32:59.483125
 url: "/cdr-researcher-census/researchers/oldrich-latal-a5051100/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    24 citations · General CDR
 
 2. **Utilization of Diversified Cover Crops as Green Manure-Enhanced Soil Organic Carbon, Nutrient Transformation, Microbial Activity, and Maize Growth** (2024)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 3. **Time-dependent impact of co-matured manure with elemental sulfur and biochar on the soil agro-ecological properties and plant biomass** (2023)
-   11 citations · Biochar
+   12 citations · Biochar
 
 4. **Deciphering the Effectiveness of Humic Substances and Biochar Modified Digestates on Soil Quality and Plant Biomass Accumulation** (2022)
    11 citations · Biochar

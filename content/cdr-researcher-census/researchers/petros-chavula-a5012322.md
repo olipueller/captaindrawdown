@@ -1,7 +1,7 @@
 ---
 title: "Petros Chavula"
 description: "Petros Chavula is a Mid-career General CDR researcher at University of Zambia in ZM. With 74 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.786763
+date: 2026-10-11T02:32:59.810693
 url: "/cdr-researcher-census/researchers/petros-chavula-a5012322/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,11 +53,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 1. **Article Context and Technological Integration: AI's Role in Climate Change Research** (2025)
    8 citations · General CDR
 
-2. **An Overview of Trees in Smallholder Farmers' Agricultural Landscapes: A Case Study from Sub-Saharan Africa** (2024)
-   4 citations
+2. **The Role of Mulching in Reducing Greenhouse Gas Emissions and Enhancing Soil Health Among Smallholder Farmers in Zambia, Malawi, Kenya, and Tanzania: An AI-Driven Approach** (2023)
+   4 citations · General CDR
 
-3. **The Role of Mulching in Reducing Greenhouse Gas Emissions and Enhancing Soil Health Among Smallholder Farmers in Zambia, Malawi, Kenya, and Tanzania: An AI-Driven Approach** (2023)
-   3 citations · General CDR
+3. **An Overview of Trees in Smallholder Farmers' Agricultural Landscapes: A Case Study from Sub-Saharan Africa** (2024)
+   4 citations
 
 4. **Assessing the Unfulfilled Promises of Agroforestry and Conservation Agriculture as Climate-Smart Solutions for Food Security in Kenya, Tanzania, Uganda, and Zimbabwe** (2025)
    2 citations · General CDR

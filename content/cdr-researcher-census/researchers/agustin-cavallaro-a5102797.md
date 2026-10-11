@@ -1,7 +1,7 @@
 ---
 title: "Agustín Cavallaro"
 description: "Agustín Cavallaro is a Mid-career Soil Carbon researcher at National Agricultural Technology Institute in AR. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.020494
+date: 2026-10-11T02:33:00.051774
 url: "/cdr-researcher-census/researchers/agustin-cavallaro-a5102797/"
 layout: "researcher"
 hiddenInHomeList: true

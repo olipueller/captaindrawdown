@@ -1,7 +1,7 @@
 ---
 title: "Lichen Yu"
 description: "Lichen Yu is a Mid-career General CDR researcher at Nanjing University of Science and Technology in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.394337
+date: 2026-10-11T02:33:00.431711
 url: "/cdr-researcher-census/researchers/lichen-yu-a5110926/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Khaled Baamran"
 description: "Khaled Baamran is a Mid-career DAC researcher at Defense Logistics Agency in US. With 34 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.375573
+date: 2026-10-11T02:32:59.382938
 url: "/cdr-researcher-census/researchers/khaled-baamran-a5051419/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Integrated direct air capture and oxidative dehydrogenation of propane with CO2 at isothermal conditions** (2021)
-   50 citations · DAC
+   51 citations · DAC
 
 2. **Formulation and processing of dual functional Adsorbent/Catalyst structured monoliths using an additively manufactured contactor for direct Capture/Conversion of CO2 with cogeneration of ethylene** (2021)
    38 citations
@@ -60,7 +60,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    8 citations
 
 5. **Scalable High Performance Flat Sheet Adsorbents for Gas Capture** (2026)
-   1 citations · DAC
+   2 citations · DAC
 
 6. **Scalable High Performance Flat Sheet Adsorbents for Carbon Capture** (2025)
    1 citations

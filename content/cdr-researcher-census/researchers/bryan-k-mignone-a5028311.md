@@ -1,7 +1,7 @@
 ---
 title: "Bryan K. Mignone"
 description: "Bryan K. Mignone is a Senior General CDR researcher at ExxonMobil (United States) in US. With 68 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.169197
+date: 2026-10-11T02:32:59.173323
 url: "/cdr-researcher-census/researchers/bryan-k-mignone-a5028311/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Trade-offs in land-based carbon removal measures under 1.5 °C and 2 °C futures** (2024)
-   54 citations · BECCS
+   52 citations · BECCS
 
 2. **Drivers and implications of alternative routes to fuels decarbonization in net-zero energy systems** (2024)
-   42 citations · General CDR
+   47 citations · General CDR
 
 3. **Mutual reinforcement of land-based carbon dioxide removal and international emissions trading in deep decarbonization scenarios** (2024)
    16 citations · General CDR

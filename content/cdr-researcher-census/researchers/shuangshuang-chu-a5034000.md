@@ -1,7 +1,7 @@
 ---
 title: "Shuangshuang Chu"
 description: "Shuangshuang Chu is a Mid-career Soil Carbon researcher at Jiangxi Agricultural University in CN. With 28 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.586675
+date: 2026-10-11T02:32:59.603271
 url: "/cdr-researcher-census/researchers/shuangshuang-chu-a5034000/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of Cow-Dung Vermicomposting on Soil Carbon Mineralization and Temperature Sensitivity in Camellia oleifera Forest** (2024)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 2. **Lowland-ecotype switchgrass (Panicum virgatum L.) with moderate nitrogen enhances long-term productivity and ecosystem multifunctionality in acidic soils: A six-year field experiment** (2026)
    0 citations · Soil Carbon

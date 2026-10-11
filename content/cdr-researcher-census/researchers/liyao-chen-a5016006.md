@@ -1,7 +1,7 @@
 ---
 title: "Liyao Chen"
 description: "Liyao Chen is a Mid-career Soil Carbon researcher at Nanjing University of Chinese Medicine in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.268351
+date: 2026-10-11T02:32:59.272357
 url: "/cdr-researcher-census/researchers/liyao-chen-a5016006/"
 layout: "researcher"
 hiddenInHomeList: true

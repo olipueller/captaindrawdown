@@ -1,7 +1,7 @@
 ---
 title: "Ashrafun Nessa"
 description: "Ashrafun Nessa is a Mid-career Biochar researcher at Griffith University in AU. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.262847
+date: 2026-10-11T02:33:00.292835
 url: "/cdr-researcher-census/researchers/ashrafun-nessa-a5102793/"
 layout: "researcher"
 hiddenInHomeList: true

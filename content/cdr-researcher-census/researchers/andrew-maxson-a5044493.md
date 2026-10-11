@@ -1,7 +1,7 @@
 ---
 title: "Andrew Maxson"
 description: "Andrew Maxson is a Mid-career BECCS researcher. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.040788
+date: 2026-10-11T02:33:00.071655
 url: "/cdr-researcher-census/researchers/andrew-maxson-a5044493/"
 layout: "researcher"
 hiddenInHomeList: true

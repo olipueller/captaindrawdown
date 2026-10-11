@@ -1,7 +1,7 @@
 ---
 title: "Brice Jamieson"
 description: "Brice Jamieson is a Senior General CDR researcher at Universidad Francisco Marroquín in GT. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.482828
+date: 2026-10-11T02:32:59.494238
 url: "/cdr-researcher-census/researchers/brice-jamieson-a5067579/"
 layout: "researcher"
 hiddenInHomeList: true

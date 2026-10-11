@@ -1,7 +1,7 @@
 ---
 title: "Loreto Suárez"
-description: "Loreto Suárez is a Mid-career DAC researcher at Instituto Nacional del Carbón in ES. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.386039
+description: "Loreto Suárez is a Mid-career DAC researcher at Instituto Nacional del Carbón in ES. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:32:59.386326
 url: "/cdr-researcher-census/researchers/loreto-suarez-a5030435/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,15 +40,15 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 632 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| Citations | 644 |
+| Publications | 9 |
+| CDR Focus | 11.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Operating parameters and sorbent properties affecting Ca(OH)2 carbonation for direct air Capture (DAC) applications** (2026)
-   0 citations · DAC
+   1 citations · DAC
 
 ## External Profiles
 

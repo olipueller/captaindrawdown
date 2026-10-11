@@ -1,7 +1,7 @@
 ---
 title: "William Shobe"
 description: "William Shobe is a Senior General CDR researcher at University of Virginia in US. With 76 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.185451
+date: 2026-10-11T02:32:59.189607
 url: "/cdr-researcher-census/researchers/william-shobe-a5025016/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Diverse carbon dioxide removal approaches could reduce impacts on the energy–water–land system** (2023)
-   202 citations · General CDR
+   199 citations · General CDR
 
 2. **The role of direct air capture and negative emissions technologies in the shared socioeconomic pathways towards +1.5 °C and +2 °C futures** (2021)
-   112 citations · DAC
+   107 citations · DAC
 
-3. **Effects of Direct Air Capture Technology Availability on Stranded Assets and Committed Emissions in the Power Sector** (2021)
-   25 citations · BECCS
+3. **The role of negative emissions in meeting China’s 2060 carbon neutrality goal** (2021)
+   51 citations · DAC
 
-4. **Regional implications of carbon dioxide removal in meeting net zero targets for the United States** (2023)
+4. **Effects of Direct Air Capture Technology Availability on Stranded Assets and Committed Emissions in the Power Sector** (2021)
+   24 citations · BECCS
+
+5. **Regional implications of carbon dioxide removal in meeting net zero targets for the United States** (2023)
    11 citations · DAC
 
-5. **The impact of regional resources and technology availability on carbon dioxide removal potential in the United States** (2024)
-   9 citations · General CDR
-
-6. **The role of negative emissions in meeting China’s 2060 carbon neutrality goal** (2021)
-   8 citations · DAC
+6. **The impact of regional resources and technology availability on carbon dioxide removal potential in the United States** (2024)
+   10 citations · General CDR
 
 7. **Diverse carbon dioxide removal approaches could reduce energy-water-land impacts** (2023)
    1 citations · General CDR

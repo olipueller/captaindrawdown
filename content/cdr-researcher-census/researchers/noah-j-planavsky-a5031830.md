@@ -1,7 +1,7 @@
 ---
 title: "Noah J. Planavsky"
 description: "Noah J. Planavsky is an Eminent Enhanced Weathering researcher at Planetary Science Institute in US. With 538 publications and an h-index of 85, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.015428
+date: 2026-10-11T02:32:59.018686
 url: "/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 85 |
 | Citations | 29,582 |
 | Publications | 538 |
-| CDR Focus | 11.9% |
+| CDR Focus | 13.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -57,13 +57,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    119 citations · Enhanced Weathering
 
 3. **Ocean alkalinity enhancement through restoration of blue carbon ecosystems** (2023)
-   74 citations · Ocean CDR
+   75 citations · Ocean CDR
 
 4. **Initial Validation of a Soil-Based Mass-Balance Approach for Empirical Monitoring of Enhanced Rock Weathering Rates** (2023)
    68 citations
 
 5. **River chemistry constraints on the carbon capture potential of surficial enhanced rock weathering** (2022)
-   63 citations · Enhanced Weathering
+   64 citations · Enhanced Weathering
 
 6. **Transforming US agriculture for carbon removal with enhanced weathering** (2025)
    59 citations · Enhanced Weathering
@@ -75,10 +75,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    52 citations
 
 9. **Lithium isotopic constraints on the evolution of continental clay mineral factory and marine oxygenation in the earliest Paleozoic Era** (2024)
-   48 citations · General CDR
+   49 citations · General CDR
 
 10. **Impact of Climate on the Global Capacity for Enhanced Rock Weathering on Croplands** (2023)
-   43 citations · Enhanced Weathering
+   42 citations · Enhanced Weathering
 
 ## External Profiles
 

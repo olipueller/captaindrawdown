@@ -1,7 +1,7 @@
 ---
 title: "Guocheng Shan"
 description: "Guocheng Shan is a Mid-career Biochar researcher at Environmental Protection Department of Jiangsu Province in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.249831
+date: 2026-10-11T02:33:00.279602
 url: "/cdr-researcher-census/researchers/guocheng-shan-a5025134/"
 layout: "researcher"
 hiddenInHomeList: true

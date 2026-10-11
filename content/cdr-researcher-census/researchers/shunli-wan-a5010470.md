@@ -1,7 +1,7 @@
 ---
 title: "Shunli Wan"
 description: "Shunli Wan is a Senior Biochar researcher at Huangshan University in CN. With 44 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.143795
+date: 2026-10-11T02:32:59.148000
 url: "/cdr-researcher-census/researchers/shunli-wan-a5010470/"
 layout: "researcher"
 hiddenInHomeList: true

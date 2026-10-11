@@ -1,7 +1,7 @@
 ---
 title: "Shyamal Karmakar"
 description: "Shyamal Karmakar is a Senior Soil Carbon researcher at University of Chittagong in BD. With 42 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.561598
+date: 2026-10-11T02:32:59.577352
 url: "/cdr-researcher-census/researchers/shyamal-karmakar-a5002697/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,15 +51,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon stocks of homestead forests have a mitigation potential to climate change in Bangladesh** (2021)
-   23 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 2. **Role of Homestead Forests in Adaptation to Climate Change: A Study on Households’ Perceptions and Relevant Factors in Bandarban Hill District, Bangladesh** (2022)
    14 citations · Soil Carbon
 
-3. **Influence of adjacent mangrove ecosystem on Soil Carbon Stock Potential of Saltmarsh habitat** (2026)
+3. **Effects of stand structure on ecosystem carbon stocks in woodlot plantation, riparian, and coastal forests in southeastern Bangladesh** (2026)
    0 citations · Soil Carbon
 
-4. **Soil Carbon Stock Potential of Saltmarsh habitat in the context of Natural, Converted and Artificially Planted Mangrove Ecosystems** (2025)
+4. **Influence of adjacent mangrove ecosystem on Soil Carbon Stock Potential of Saltmarsh habitat** (2026)
+   0 citations · Soil Carbon
+
+5. **Soil Carbon Stock Potential of Saltmarsh habitat in the context of Natural, Converted and Artificially Planted Mangrove Ecosystems** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

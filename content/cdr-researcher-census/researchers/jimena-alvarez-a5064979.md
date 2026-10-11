@@ -1,7 +1,7 @@
 ---
 title: "Jimena Alvarez"
 description: "Jimena Alvarez is a Senior Ocean CDR researcher at University of Oxford in GB. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.166239
+date: 2026-10-11T02:33:00.196332
 url: "/cdr-researcher-census/researchers/jimena-alvarez-a5064979/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Climate benefits from establishing marine protected areas targeted at blue carbon solutions** (2022)
-   61 citations · General CDR
+   60 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Lyla L. Taylor"
 description: "Lyla L. Taylor is a Senior Enhanced Weathering researcher at University of Sheffield in GB. With 57 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.077856
+date: 2026-10-11T02:32:59.082685
 url: "/cdr-researcher-census/researchers/lyla-l-taylor-a5001741/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,28 +45,28 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 23 |
 | Citations | 3,317 |
 | Publications | 57 |
-| CDR Focus | 14.0% |
+| CDR Focus | 15.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Substantial carbon drawdown potential from enhanced rock weathering in the United Kingdom** (2022)
-   164 citations · Enhanced Weathering
+   165 citations · Enhanced Weathering
 
 2. **Effects of mineralogy, chemistry and physical properties of basalts on carbon capture potential and plant-nutrient element release via enhanced weathering** (2021)
-   161 citations · Enhanced Weathering
+   162 citations · Enhanced Weathering
 
 3. **Increased carbon capture by a silicate-treated forested watershed affected by acid deposition** (2021)
-   95 citations · Enhanced Weathering
+   101 citations · Enhanced Weathering
 
 4. **Transforming US agriculture for carbon removal with enhanced weathering** (2025)
    59 citations · Enhanced Weathering
 
 5. **Enhanced Rock Weathering for Carbon Removal–Monitoring and Mitigating Potential Environmental Impacts on Agricultural Land** (2024)
-   45 citations · Enhanced Weathering
+   47 citations · Enhanced Weathering
 
 6. **Improving nitrogen cycling in a land surface model (CLM5) to quantify soil N <sub>2</sub> O, NO, and NH <sub>3</sub> emissions from enhanced rock weathering with croplands** (2023)
-   16 citations · Enhanced Weathering
+   20 citations · Enhanced Weathering
 
 7. **Improving nitrogen cycling in a land surface model (CLM5) to quantify soil N <sub>2</sub> O, NO and NH <sub>3</sub> emissions from enhanced rock weathering with croplands** (2023)
    4 citations

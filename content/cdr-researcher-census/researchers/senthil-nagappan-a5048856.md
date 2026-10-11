@@ -1,7 +1,7 @@
 ---
 title: "Senthil Nagappan"
 description: "Senthil Nagappan is a Mid-career BECCS researcher at Sardar Swaran Singh National Institute of Bio-Energy in IN. With 34 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.158108
+date: 2026-10-11T02:32:59.162584
 url: "/cdr-researcher-census/researchers/senthil-nagappan-a5048856/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Bioenergy carbon capture storage and utilization: a critical review of market dynamics and policy implications** (2026)
-   2 citations · BECCS
+   3 citations · BECCS
 
 2. **Harnessing Plant Innate Immunity for Improved Biomass Production in Bioenergy Crops** (2024)
    0 citations · BECCS

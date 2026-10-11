@@ -1,7 +1,7 @@
 ---
 title: "Ying-Ying Zong"
 description: "Ying-Ying Zong is a Mid-career Soil Carbon researcher at Jiangxi Academy of Forestry in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.552384
+date: 2026-10-11T02:32:59.567345
 url: "/cdr-researcher-census/researchers/ying-ying-zong-a5071697/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The effects of vegetation type on ecosystem carbon storage and distribution in subtropical plantations** (2023)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 2. **The response of plant-derived lignin phenols accumulation to nutrient addition depends on soil depth in a subtropical plantation** (2025)
    1 citations · Soil Carbon

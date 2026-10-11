@@ -1,7 +1,7 @@
 ---
 title: "Nikolaos Karapetsas"
 description: "Nikolaos Karapetsas is a Mid-career Soil Carbon researcher at Aristotle University of Thessaloniki in GR. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.961375
+date: 2026-10-11T02:32:59.992563
 url: "/cdr-researcher-census/researchers/nikolaos-karapetsas-a5016219/"
 layout: "researcher"
 hiddenInHomeList: true

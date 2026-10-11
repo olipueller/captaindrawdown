@@ -1,7 +1,7 @@
 ---
 title: "Rebecca B. Neumann"
 description: "Rebecca B. Neumann is a Senior Enhanced Weathering researcher at Frontier Climate in US. With 140 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.057936
+date: 2026-10-11T02:32:59.062229
 url: "/cdr-researcher-census/researchers/rebecca-b-neumann-a5018422/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,20 +50,20 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 ## Top CDR Publications
 
-1. **Expert elicitation on agricultural enhanced weathering highlights CO2 removal potential and uncertainties in loss pathways** (2025)
+1. **Expert elicitation on agricultural enhanced weathering reveals carbon dioxide removal potential and uncertainties in loss pathways** (2026)
+   5 citations · Enhanced Weathering
+
+2. **Expert elicitation on agricultural enhanced weathering highlights CO2 removal potential and uncertainties in loss pathways** (2025)
    3 citations · Enhanced Weathering
 
-2. **Riverine photosynthesis influences the carbon sequestration potential of enhanced rock weathering** (2025)
-   3 citations · Enhanced Weathering
-
-3. **Expert elicitation on agricultural enhanced weathering reveals carbon dioxide removal potential and uncertainties in loss pathways** (2026)
+3. **Riverine photosynthesis influences the carbon sequestration potential of enhanced rock weathering** (2025)
    2 citations · Enhanced Weathering
 
-4. **&lt;p&gt;How Carbon Dioxide Removal Lost Its Way: Tracing the Origin and Transformation of the 10-Gt Durable CDR Target&lt;/p&gt;** (2026)
-   0 citations · General CDR
+4. **An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering** (2026)
+   1 citations · Enhanced Weathering
 
-5. **An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering** (2026)
-   0 citations · Enhanced Weathering
+5. **&lt;p&gt;How Carbon Dioxide Removal Lost Its Way: Tracing the Origin and Transformation of the 10-Gt Durable CDR Target&lt;/p&gt;** (2026)
+   0 citations · General CDR
 
 6. **How carbon dioxide removal lost its way: tracing the origin and transformation of the 10-Gt durable CDR target** (2026)
    0 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Dipal Baruah"
 description: "Dipal Baruah is a Mid-career BECCS researcher at Tezpur University in IN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.321489
+date: 2026-10-11T02:32:59.327313
 url: "/cdr-researcher-census/researchers/dipal-baruah-a5017944/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Green and sustainable biomass supply chain for environmental, social and economic benefits** (2023)
-   124 citations · BECCS
+   127 citations · BECCS
 
 ## External Profiles
 

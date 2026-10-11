@@ -1,7 +1,7 @@
 ---
 title: "Zhaolei Li"
 description: "Zhaolei Li is a Senior Soil Carbon researcher at Southwest University in CN. With 114 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.049597
+date: 2026-10-11T02:32:59.053472
 url: "/cdr-researcher-census/researchers/zhaolei-li-a5005341/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,24 +51,27 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Plant height as an indicator for alpine carbon sequestration and ecosystem response to warming** (2024)
-   88 citations · Soil Carbon
+   95 citations · Soil Carbon
 
 2. **Soil carbon sequestration benefits of active versus natural restoration vary with initial carbon content and soil layer** (2023)
-   53 citations · Soil Carbon
+   54 citations · Soil Carbon
 
 3. **Microbial traits dictate soil necromass accumulation coefficient: A global synthesis** (2023)
-   48 citations · Soil Carbon
+   50 citations · Soil Carbon
 
 4. **Augmenting the stability of soil aggregate carbon with nutrient management in worldwide croplands** (2024)
-   22 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 5. **Nature–based nutrient management through returning agricultural organic waste enhances soil aggregate organic carbon stability** (2025)
    10 citations · Soil Carbon
 
-6. **Effects of Organic Fertilizer Substitution on Soil Carbon Loss and Sedimentary Carbon Fractions** (2026)
+6. **Soil pH Amelioration Synergizes Carbon Accrual with Yield Gains Under Organic Substitution** (2026)
    0 citations · Soil Carbon
 
-7. **Influence of Organic Fertilization on Soil Organic Matter Erosion Loss from Slope Croplands** (2024)
+7. **Effects of Organic Fertilizer Substitution on Soil Carbon Loss and Sedimentary Carbon Fractions** (2026)
+   0 citations · Soil Carbon
+
+8. **Influence of Organic Fertilization on Soil Organic Matter Erosion Loss from Slope Croplands** (2024)
    0 citations · Soil Carbon
 
 ## External Profiles

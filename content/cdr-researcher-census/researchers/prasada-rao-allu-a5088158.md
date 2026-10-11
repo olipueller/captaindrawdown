@@ -1,7 +1,7 @@
 ---
 title: "Prasada Rao Allu"
 description: "Prasada Rao Allu is a Mid-career General CDR researcher at Sikkim University in IN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.378825
+date: 2026-10-11T02:33:00.414660
 url: "/cdr-researcher-census/researchers/prasada-rao-allu-a5088158/"
 layout: "researcher"
 hiddenInHomeList: true

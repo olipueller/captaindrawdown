@@ -1,7 +1,7 @@
 ---
 title: "Xinxin Jin"
 description: "Xinxin Jin is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 101 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.088224
+date: 2026-10-11T02:32:59.093092
 url: "/cdr-researcher-census/researchers/xinxin-jin-a5101520/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -69,7 +69,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 7. **Long‐term fertilization and plastic film mulching modify temporal incorporation of <scp> <sup>13</sup> C </scp> / <scp> <sup>15</sup> N </scp> ‐labelled particulate organic matter** (2023)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 8. **Biochar and moisture variability shape soil carbon pools via microbial carbon-degrading genes** (2025)
    1 citations · Biochar

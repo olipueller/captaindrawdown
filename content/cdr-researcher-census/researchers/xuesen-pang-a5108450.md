@@ -1,7 +1,7 @@
 ---
 title: "Xuesen Pang"
 description: "Xuesen Pang is a Senior Soil Carbon researcher at Northeast Forestry University in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.249957
+date: 2026-10-11T02:32:59.253686
 url: "/cdr-researcher-census/researchers/xuesen-pang-a5108450/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The biogeography of soil microbiome potential growth rates** (2024)
-   71 citations
+   72 citations
 
 2. **Mineral protection mediates soil carbon temperature sensitivity of nine old-growth temperate forests across the latitude transect** (2024)
    6 citations · Soil Carbon

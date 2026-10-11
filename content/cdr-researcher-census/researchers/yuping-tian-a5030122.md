@@ -1,7 +1,7 @@
 ---
 title: "Yuping Tian"
 description: "Yuping Tian is a Mid-career Soil Carbon researcher at Ministry of Education of the People's Republic of China in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.706837
+date: 2026-10-11T02:32:59.727280
 url: "/cdr-researcher-census/researchers/yuping-tian-a5030122/"
 layout: "researcher"
 hiddenInHomeList: true

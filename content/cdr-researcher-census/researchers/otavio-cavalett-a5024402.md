@@ -1,7 +1,7 @@
 ---
 title: "Otávio Cavalett"
 description: "Otávio Cavalett is an Eminent General CDR researcher at Laboratório Nacional de Ciência e Tecnologia do Bioetanol in BR. With 117 publications and an h-index of 45, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.038111
+date: 2026-10-11T02:32:59.041218
 url: "/cdr-researcher-census/researchers/otavio-cavalett-a5024402/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Potential of land-based climate change mitigation strategies on abandoned cropland** (2023)
-   94 citations · BECCS
+   98 citations · BECCS
 
 2. **Climate change impacts of e-fuels for aviation in Europe under present-day conditions and future policy scenarios** (2023)
-   77 citations · DAC
+   74 citations · DAC
 
 3. **Life-cycle assessment to unravel co-benefits and trade-offs of large-scale biochar deployment in Norwegian agriculture** (2021)
-   69 citations · Biochar
+   71 citations · Biochar
 
 4. **LCA and negative emission potential of retrofitted cement plants under oxyfuel conditions at high biogenic fuel shares** (2022)
-   50 citations · BECCS
+   51 citations · BECCS
 
 5. **Climate change mitigation potentials of biofuels produced from perennial crops and natural regrowth on abandoned and degraded cropland in Nordic countries** (2022)
-   44 citations · BECCS
+   45 citations · BECCS
 
 6. **Advanced technologies for electricity production in the sugarcane value chain are a strategic option in a carbon reward policy context** (2021)
    21 citations · BECCS

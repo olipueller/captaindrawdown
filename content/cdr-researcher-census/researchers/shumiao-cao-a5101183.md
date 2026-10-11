@@ -1,7 +1,7 @@
 ---
 title: "Shumiao Cao"
 description: "Shumiao Cao is a Mid-career Biochar researcher at Xi'an University of Architecture and Technology in CN. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.562136
+date: 2026-10-11T02:32:59.577998
 url: "/cdr-researcher-census/researchers/shumiao-cao-a5101183/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Removal of oxytetracycline from wastewater by biochar modified with biosynthesized iron oxide nanoparticles and carbon nanotubes: Modification performance and adsorption mechanism** (2023)
-   37 citations · Biochar
+   38 citations · Biochar
 
 2. **Degradation of oxytetracycline in wastewater based on activated persulfate by biosynthesized iron oxide nanoparticles and carbon nanotube-modified biochar** (2023)
    24 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Chengxuan Zhou"
 description: "Chengxuan Zhou is a Mid-career Biochar researcher at Hunan Agricultural University in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.167878
+date: 2026-10-11T02:33:00.197713
 url: "/cdr-researcher-census/researchers/chengxuan-zhou-a5000549/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhancing pyrolysis oil quality through in-situ catalytic pyrolysis of biochar with temperature-driven nitrogen configuration modulation: Mechanistic insights into the catalytic process** (2025)
-   4 citations · Biochar
+   6 citations · Biochar
 
 ## External Profiles
 

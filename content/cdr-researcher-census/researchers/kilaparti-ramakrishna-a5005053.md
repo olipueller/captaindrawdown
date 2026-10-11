@@ -1,7 +1,7 @@
 ---
 title: "Kilaparti Ramakrishna"
 description: "Kilaparti Ramakrishna is a Senior Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 45 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.991862
+date: 2026-10-11T02:33:00.022513
 url: "/cdr-researcher-census/researchers/kilaparti-ramakrishna-a5005053/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Next steps for assessing ocean iron fertilization for marine carbon dioxide removal** (2024)
-   16 citations · General CDR
+   18 citations · General CDR
 
 2. **The case for ocean iron fertilization field trials** (2026)
-   5 citations · General CDR
+   7 citations · General CDR
 
 3. **Dusting the rust off ocean iron fertilization research studies for mCDR** (2026)
    0 citations · General CDR

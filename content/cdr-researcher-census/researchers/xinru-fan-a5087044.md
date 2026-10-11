@@ -1,7 +1,7 @@
 ---
 title: "Xinru Fan"
 description: "Xinru Fan is a Mid-career Biochar researcher at Anhui Agricultural University in CN. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.952205
+date: 2026-10-11T02:32:59.982956
 url: "/cdr-researcher-census/researchers/xinru-fan-a5087044/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effect of chitosan modification on the properties of magnetic porous biochar and its adsorption performance towards tetracycline and Cu2+** (2023)
-   57 citations · Biochar
+   58 citations · Biochar
 
 2. **Preparation of mesoporous biogas residue biochar via a self-template strategy for efficient removal of ciprofloxacin: Effect of pyrolysis temperature** (2024)
-   27 citations · Biochar
+   30 citations · Biochar
 
 ## External Profiles
 

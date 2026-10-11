@@ -1,7 +1,7 @@
 ---
 title: "Wencheng Wu"
 description: "Wencheng Wu is a Mid-career Biochar researcher at Sun Yat-sen University in CN. With 40 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.292379
+date: 2026-10-11T02:32:59.296810
 url: "/cdr-researcher-census/researchers/wencheng-wu-a5026345/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Simultaneous removal of Cd(II) and As(V) by ferrihydrite-biochar composite: Enhanced effects of As(V) on Cd(II) adsorption** (2023)
-   43 citations · Biochar
+   45 citations · Biochar
 
 2. **Profile and nano-scale distribution of soil organic carbon for upland and paddy soils from an alluvial plain in South China** (2023)
    6 citations · Soil Carbon

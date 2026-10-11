@@ -1,7 +1,7 @@
 ---
 title: "Vasthi Alonso Chávez"
 description: "Vasthi Alonso Chávez is a Mid-career Soil Carbon researcher at Rothamsted Research in GB. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.760321
+date: 2026-10-11T02:32:59.783325
 url: "/cdr-researcher-census/researchers/vasthi-alonso-chavez-a5037749/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Trade-offs associated with changing cropping patterns in semi-arid areas of Morocco** (2025)
-   2 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 2. **Trade-Offs Associated with Changing Cropping Patterns in Semi-Arid Areas of Morocco** (2024)
    0 citations

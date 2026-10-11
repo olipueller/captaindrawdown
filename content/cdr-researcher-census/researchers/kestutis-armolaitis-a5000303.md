@@ -1,7 +1,7 @@
 ---
 title: "Kęstutis Armolaitis"
 description: "Kęstutis Armolaitis is a Senior Soil Carbon researcher at Vytautas Magnus University in LT. With 75 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.129936
+date: 2026-10-11T02:32:59.134745
 url: "/cdr-researcher-census/researchers/kestutis-armolaitis-a5000303/"
 layout: "researcher"
 hiddenInHomeList: true

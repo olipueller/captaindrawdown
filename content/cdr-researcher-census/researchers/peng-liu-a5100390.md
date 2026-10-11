@@ -1,7 +1,7 @@
 ---
 title: "Peng Liu"
 description: "Peng Liu is a Mid-career DAC researcher at Universidad del Noreste in MX. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.266562
+date: 2026-10-11T02:33:00.296516
 url: "/cdr-researcher-census/researchers/peng-liu-a5100390/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Optimal Planning of Dual-Zero Microgrid on an Island Toward Net-Zero Carbon Emission** (2023)
-   60 citations · DAC
+   61 citations · DAC
 
 ## External Profiles
 

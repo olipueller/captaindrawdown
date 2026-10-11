@@ -1,7 +1,7 @@
 ---
 title: "Xintong Xu"
 description: "Xintong Xu is a Senior Soil Carbon researcher at Jiangxi Agricultural University in CN. With 50 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.293067
+date: 2026-10-11T02:32:59.297550
 url: "/cdr-researcher-census/researchers/xintong-xu-a5050124/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biochar addition stabilized soil carbon sequestration by reducing temperature sensitivity of mineralization and altering the microbial community in a greenhouse vegetable field** (2022)
-   62 citations · Biochar
+   65 citations · Biochar
 
 2. **Biochar single application and reapplication decreased soil greenhouse gas and nitrogen oxide emissions from rice–wheat rotation: A three-year field observation** (2023)
-   46 citations · Biochar
+   47 citations · Biochar
 
 3. **Optimizing organic substitution: Balancing carbon sequestration and priming effects of a six-year field experiment for sustainable vegetable production** (2023)
-   19 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 4. **General patterns of soil nutrient stoichiometry, microbial metabolic limitation and carbon use efficiency in paddy and vegetable fields along a climatic transect of eastern China** (2024)
    13 citations · Soil Carbon
@@ -65,7 +65,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Tree species diversity enhances dark microbial CO2 fixation rates in soil of a subtropical forest** (2025)
    1 citations · Soil Carbon
 
-6. **Upland switchgrass enhances phytoremediation and promotes carbon sequestration in cadmium-contaminated soils** (2025)
+6. **Lowland-ecotype switchgrass (Panicum virgatum L.) with moderate nitrogen enhances long-term productivity and ecosystem multifunctionality in acidic soils: A six-year field experiment** (2026)
+   0 citations · Soil Carbon
+
+7. **Upland switchgrass enhances phytoremediation and promotes carbon sequestration in cadmium-contaminated soils** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

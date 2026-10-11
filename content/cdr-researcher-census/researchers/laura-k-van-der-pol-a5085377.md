@@ -1,7 +1,7 @@
 ---
 title: "Laura K. van der Pol"
 description: "Laura K. van der Pol is a Mid-career Soil Carbon researcher at The Land Institute in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.914152
+date: 2026-10-11T02:32:59.958062
 url: "/cdr-researcher-census/researchers/laura-k-van-der-pol-a5085377/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Perennial grain Kernza<sup>®</sup> fields have higher particulate organic carbon at depth than annual grain fields** (2022)
-   34 citations · Soil Carbon
+   35 citations · Soil Carbon
 
 2. **Mechanisms of soil organic matter formation for perennial grain Kernza® under contrasting nitrogen management** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

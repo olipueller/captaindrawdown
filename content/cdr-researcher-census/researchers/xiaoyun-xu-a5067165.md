@@ -1,7 +1,7 @@
 ---
 title: "Xiaoyun Xu"
 description: "Xiaoyun Xu is an Eminent Biochar researcher at Shanghai Jiao Tong University in CN. With 163 publications and an h-index of 57, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.024533
+date: 2026-10-11T02:32:59.027567
 url: "/cdr-researcher-census/researchers/xiaoyun-xu-a5067165/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,31 +51,31 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Impacts of different activation processes on the carbon stability of biochar for oxidation resistance** (2021)
-   166 citations · Biochar
+   169 citations · Biochar
 
 2. **Evaluation of long-term carbon sequestration of biochar in soil with biogeochemical field model** (2022)
-   95 citations · Biochar
+   101 citations · Biochar
 
 3. **Stabilization of dissolvable biochar by soil minerals: Release reduction and organo-mineral complexes formation** (2021)
-   81 citations · Biochar
+   84 citations · Biochar
 
 4. **Development of phosphorus composite biochar for simultaneous enhanced carbon sink and heavy metal immobilization in soil** (2022)
-   70 citations · Biochar
+   69 citations · Biochar
 
 5. **Minerals: A missing role for enhanced biochar carbon sequestration from the thermal conversion of biomass to the application in soil** (2022)
-   55 citations · Biochar
+   56 citations · Biochar
 
 6. **Trends in valorization of citrus by-products from the net-zero perspective: Green processing innovation combined with applications in emission reduction** (2023)
-   46 citations · General CDR
+   50 citations · General CDR
 
 7. **Biochar-amended soil can further sorb atmospheric CO2 for more carbon sequestration** (2025)
-   39 citations · Biochar
+   42 citations · Biochar
 
 8. **Synergistic role of bulk carbon and iron minerals inherent in the sludge-derived biochar for As(V) immobilization** (2021)
-   30 citations · Biochar
+   31 citations · Biochar
 
 9. **Converting coastal silt into subgrade soil with biochar as reinforcing agent, CO2 adsorbent, and carbon sequestrating material** (2023)
-   18 citations · Biochar
+   20 citations · Biochar
 
 10. **Beyond universal application: dissecting the differential amelioration and carbon sequestration performance of biochar in chloride-, sulfate-, and soda saline-alkali soils** (2026)
    3 citations · Biochar

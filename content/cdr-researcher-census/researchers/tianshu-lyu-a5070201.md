@@ -1,7 +1,7 @@
 ---
 title: "Tianshu Lyu"
 description: "Tianshu Lyu is a Mid-career Soil Carbon researcher at Qufu Normal University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.771596
+date: 2026-10-11T02:32:59.794413
 url: "/cdr-researcher-census/researchers/tianshu-lyu-a5070201/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Interference of microplastics on autotrophic microbiome in paddy soils: Shifts in carbon fixation rate, structure, abundance, co-occurrence, and assembly process** (2024)
-   19 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 ## External Profiles
 

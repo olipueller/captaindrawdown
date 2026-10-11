@@ -1,7 +1,7 @@
 ---
 title: "Enzhao Wang"
 description: "Enzhao Wang is a Mid-career Soil Carbon researcher at Shanghai University of Traditional Chinese Medicine in CN. With 27 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.417828
+date: 2026-10-11T02:32:59.427752
 url: "/cdr-researcher-census/researchers/enzhao-wang-a5002589/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Keystone microbial taxa drive the accelerated decompositions of cellulose and lignin by long-term resource enrichments** (2022)
-   51 citations · Soil Carbon
+   52 citations · Soil Carbon
 
 2. **Low Carbon Loss from Long-Term Manure-Applied Soil during Abrupt Warming Is Realized through Soil and Microbiome Interplay** (2024)
-   33 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 3. **Linking microbial taxa and the effect of mineral nitrogen forms on residue decomposition at the early stage in arable soil by DNA-qSIP** (2021)
-   22 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 ## External Profiles
 

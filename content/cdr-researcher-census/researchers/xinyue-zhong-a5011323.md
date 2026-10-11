@@ -1,7 +1,7 @@
 ---
 title: "Xinyue Zhong"
 description: "Xinyue Zhong is a Mid-career Soil Carbon researcher at Institute of Soil Science in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.364472
+date: 2026-10-11T02:33:00.400291
 url: "/cdr-researcher-census/researchers/xinyue-zhong-a5011323/"
 layout: "researcher"
 hiddenInHomeList: true

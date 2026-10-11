@@ -1,7 +1,7 @@
 ---
 title: "Hongbin Ma"
 description: "Hongbin Ma is a Senior Soil Carbon researcher at Ningxia University in CN. With 69 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.460340
+date: 2026-10-11T02:32:59.471588
 url: "/cdr-researcher-census/researchers/hongbin-ma-a5109300/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Organic material additions have stronger effects on humic substances and enzyme activities than soil types** (2022)
-   14 citations · Biochar
+   15 citations · Biochar
 
 2. **<i>Caragana korshinskii</i> Kom. plantation reduced soil aggregate stability and aggregate-associated organic carbon on desert steppe** (2022)
-   11 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 3. **Terracing stabilizes and enhances soil organic carbon sequestration benefits of revegetation on the Loess Plateau, China** (2025)
    4 citations · Soil Carbon

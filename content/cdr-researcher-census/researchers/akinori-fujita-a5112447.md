@@ -1,7 +1,7 @@
 ---
 title: "Akinori Fujita"
 description: "Akinori Fujita is a Senior Biochar researcher at University of Hyogo in JP. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.030789
+date: 2026-10-11T02:33:00.062025
 url: "/cdr-researcher-census/researchers/akinori-fujita-a5112447/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhancement of Water Hyacinth Juice Treatment in an Anaerobic Sequential Batch Reactor with Coffee Husk–Derived Biochar** (2023)
-   6 citations · Biochar
+   8 citations · Biochar
 
 2. **Enhancement of water hyacinth juice treatment in an anaerobic sequential batch reactor with coffee husk–derived biochar** (2022)
    2 citations

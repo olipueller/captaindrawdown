@@ -1,7 +1,7 @@
 ---
 title: "Jingran Li"
 description: "Jingran Li is a Mid-career Biochar researcher at China University of Geosciences (Beijing) in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.778660
+date: 2026-10-11T02:32:59.801809
 url: "/cdr-researcher-census/researchers/jingran-li-a5034533/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Efficient activation of peroxyacetic acid by cobalt-iron alloy/oxide heterojunctions anchored in defect-rich biochar for pesticide degradation in water: Unravelling the radical-unradical mechanism** (2024)
-   19 citations · Biochar
+   22 citations · Biochar
 
 2. **Efficient activation of peroxymonosulfate for trichloroethylene degradation by cobalt ferrites anchored on CeO2 surfaces: Radical to non-radical pathway shift** (2024)
    6 citations

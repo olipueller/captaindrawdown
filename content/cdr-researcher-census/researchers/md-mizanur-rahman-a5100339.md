@@ -1,7 +1,7 @@
 ---
 title: "Md. Mizanur Rahman"
-description: "Md. Mizanur Rahman is a Mid-career Biochar researcher at Bangladesh Agricultural Research Institute in BD. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.332049
+description: "Md. Mizanur Rahman is a Mid-career Biochar researcher at Gazipur Agricultural University in BD. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:33:00.359995
 url: "/cdr-researcher-census/researchers/md-mizanur-rahman-a5100339/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/md-mizanur-rahman-a5100339/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Bangladesh Agricultural Research Institute"
+    "name": "Gazipur Agricultural University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-4004-5636",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Md. Mizanur Rahman**  
-Bangladesh Agricultural Research Institute · 🇧🇩 BD
+Gazipur Agricultural University · 🇧🇩 BD
 
 **Career Stage:** Mid-career
 
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 112 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| Citations | 113 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

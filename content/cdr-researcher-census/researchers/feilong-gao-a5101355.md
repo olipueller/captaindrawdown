@@ -1,7 +1,7 @@
 ---
 title: "Feilong Gao"
 description: "Feilong Gao is a Mid-career Biochar researcher at National University of Singapore in SG. With 40 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.268568
+date: 2026-10-11T02:32:59.272559
 url: "/cdr-researcher-census/researchers/feilong-gao-a5101355/"
 layout: "researcher"
 hiddenInHomeList: true

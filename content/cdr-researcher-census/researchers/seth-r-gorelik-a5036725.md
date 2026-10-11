@@ -1,7 +1,7 @@
 ---
 title: "Seth R. Gorelik"
 description: "Seth R. Gorelik is a Mid-career Soil Carbon researcher. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.334336
+date: 2026-10-11T02:32:59.340128
 url: "/cdr-researcher-census/researchers/seth-r-gorelik-a5036725/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The global potential for increased storage of carbon on land** (2022)
-   241 citations · General CDR
+   236 citations · General CDR
 
 ## External Profiles
 

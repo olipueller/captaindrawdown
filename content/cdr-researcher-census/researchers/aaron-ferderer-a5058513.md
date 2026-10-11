@@ -1,7 +1,7 @@
 ---
 title: "Aaron Ferderer"
 description: "Aaron Ferderer is a Mid-career Ocean CDR researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.668711
+date: 2026-10-11T02:32:59.688343
 url: "/cdr-researcher-census/researchers/aaron-ferderer-a5058513/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,31 +51,31 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Assessing the influence of ocean alkalinity enhancement on a coastal phytoplankton community** (2022)
-   162 citations · Ocean CDR
+   159 citations · Ocean CDR
 
 2. **Investigating the effect of nickel concentration on phytoplankton growth to assess potential side-effects of ocean alkalinity enhancement** (2022)
-   62 citations · Enhanced Weathering
+   64 citations · Enhanced Weathering
 
 3. **Investigating the effect of silicate- and calcium-based ocean alkalinity enhancement on diatom silicification** (2024)
-   34 citations · Ocean CDR
+   47 citations · Ocean CDR
 
-4. **Investigating the effect of silicate and calcium based ocean alkalinity enhancement on diatom silicification** (2023)
+4. **Winners and losers under hydroxide‐based ocean alkalinity enhancement in a Tasmanian plankton community** (2025)
+   15 citations · Ocean CDR
+
+5. **Investigating the effect of silicate and calcium based ocean alkalinity enhancement on diatom silicification** (2023)
    14 citations · Ocean CDR
 
-5. **Winners and losers under hydroxide‐based ocean alkalinity enhancement in a Tasmanian plankton community** (2025)
-   11 citations · Ocean CDR
-
 6. **Technical note: Ocean Alkalinity Enhancement Pelagic Impact Intercomparison Project (OAEPIIP)** (2024)
-   10 citations · Ocean CDR
+   13 citations · Ocean CDR
 
 7. **Assessing the influence of ocean alkalinity enhancement on a coastal phytoplankton community** (2022)
    10 citations
 
-8. **Investigating the effect of nickel concentration on phytoplankton growth to inform the assessment of ocean alkalinity enhancement** (2022)
-   4 citations · Enhanced Weathering
+8. **Carbonate chemistry fitness landscapes inform diatom resilience to future perturbations** (2025)
+   5 citations
 
-9. **Carbonate chemistry fitness landscapes inform diatom resilience to future perturbations** (2025)
-   3 citations
+9. **Investigating the effect of nickel concentration on phytoplankton growth to inform the assessment of ocean alkalinity enhancement** (2022)
+   4 citations · Enhanced Weathering
 
 10. **Technical note: Ocean Alkalinity Enhancement Pelagic Impact Intercomparison Project (OAEPIIP)** (2024)
    1 citations

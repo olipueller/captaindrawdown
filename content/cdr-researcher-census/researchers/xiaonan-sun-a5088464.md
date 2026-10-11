@@ -1,7 +1,7 @@
 ---
 title: "Xiaonan Sun"
 description: "Xiaonan Sun is a Mid-career Biochar researcher at Hohai University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.844518
+date: 2026-10-11T02:32:59.870503
 url: "/cdr-researcher-census/researchers/xiaonan-sun-a5088464/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Eggshell-enhanced biochar with in-situ formed CaO/Ca(OH)2 for efficient removal of Pb2+ and Cd2+ from wastewater: Performance and mechanistic insights** (2024)
-   32 citations · Biochar
+   34 citations · Biochar
 
 2. **Soil Microbiome Drives Depth-Specific Priming Effects in Picea schrenkiana Forests Following Labile Carbon Input** (2025)
    5 citations · Soil Carbon

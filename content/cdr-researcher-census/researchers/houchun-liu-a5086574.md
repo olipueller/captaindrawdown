@@ -1,7 +1,7 @@
 ---
 title: "Hou‐Chun Liu"
 description: "Hou‐Chun Liu is a Mid-career Enhanced Weathering researcher at National Cheng Kung University in TW. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.413924
+date: 2026-10-11T02:32:59.423770
 url: "/cdr-researcher-census/researchers/houchun-liu-a5086574/"
 layout: "researcher"
 hiddenInHomeList: true

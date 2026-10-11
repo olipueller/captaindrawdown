@@ -1,7 +1,7 @@
 ---
 title: "Liuzheng Yuan"
 description: "Liuzheng Yuan is a Mid-career Soil Carbon researcher. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.557224
+date: 2026-10-11T02:32:59.572364
 url: "/cdr-researcher-census/researchers/liuzheng-yuan-a5058036/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,10 +46,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Estimation of maize straw production and appropriate straw return rate in China** (2022)
-   73 citations
+   75 citations
 
 2. **Combing public-private partnership and large-scale farming increased net ecosystem carbon budget and reduced carbon footprint of maize production** (2022)
-   38 citations · General CDR
+   37 citations · General CDR
 
 ## External Profiles
 

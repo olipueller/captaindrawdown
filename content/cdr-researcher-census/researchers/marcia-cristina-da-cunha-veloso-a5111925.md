@@ -1,7 +1,7 @@
 ---
 title: "Márcia Cristina da Cunha Veloso"
 description: "Márcia Cristina da Cunha Veloso is a Senior Biochar researcher at Universidade Federal Fluminense in BR. With 38 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.519442
+date: 2026-10-11T02:32:59.533231
 url: "/cdr-researcher-census/researchers/marcia-cristina-da-cunha-veloso-a5111925/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Highly Functionalized Microporous Activated Biochar from Syagrus coronata Waste: Production, Characterization, and Application in Adsorption Studies** (2022)
-   11 citations · Biochar
+   12 citations · Biochar
 
 2. **Banana peel biochar from pyrolysis for the removal of nitrofurantoin in wastewater** (2024)
-   4 citations · Biochar
+   5 citations · Biochar
 
 ## External Profiles
 

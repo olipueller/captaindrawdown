@@ -1,7 +1,7 @@
 ---
 title: "Lijuan Yan"
 description: "Lijuan Yan is a Senior Soil Carbon researcher at BASF Services Europe GmbH in DE. With 99 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.123788
+date: 2026-10-11T02:32:59.128381
 url: "/cdr-researcher-census/researchers/lijuan-yan-a5012011/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of extreme rainfall frequency on soil organic carbon fractions and carbon pool in a wet meadow on the Qinghai-Tibet Plateau** (2022)
-   39 citations · Soil Carbon
+   40 citations · Soil Carbon
 
 2. **Soil nitrogen and carbon storages and carbon pool management index under sustainable conservation tillage strategy** (2023)
    30 citations · Soil Carbon
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    18 citations
 
 4. **Effects of land use patterns on soil properties and nitrous oxide flux on a semi-arid environmental conditions of Loess Plateau China** (2024)
-   8 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 5. **Nitrogen fertilizer reduction and biochar addition change the microbial carbon and nitrogen use efficiency of farmland soils in arid areas** (2025)
    2 citations · Biochar

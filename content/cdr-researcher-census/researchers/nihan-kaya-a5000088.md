@@ -1,7 +1,7 @@
 ---
 title: "Nihan Kaya"
 description: "Nihan Kaya is a Senior Biochar researcher at Ondokuz Mayıs University in TR. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.514487
+date: 2026-10-11T02:32:59.527956
 url: "/cdr-researcher-census/researchers/nihan-kaya-a5000088/"
 layout: "researcher"
 hiddenInHomeList: true

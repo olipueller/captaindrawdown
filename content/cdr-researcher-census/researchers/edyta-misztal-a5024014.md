@@ -1,7 +1,7 @@
 ---
 title: "Edyta Misztal"
 description: "Edyta Misztal is a Mid-career Biochar researcher. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.712796
+date: 2026-10-11T02:32:59.733597
 url: "/cdr-researcher-census/researchers/edyta-misztal-a5024014/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Various biomass pyrolysis conditions influence the porosity and pore size distribution of biochar** (2022)
-   251 citations · Biochar
+   260 citations · Biochar
 
 2. **Perspectives of Using Sewage Sludge Char in CO2 Sequestration on Degraded and Brownfield Sites** (2023)
    7 citations · Biochar

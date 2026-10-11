@@ -1,7 +1,7 @@
 ---
 title: "Um-E-Habiba Alvi"
 description: "Um-E-Habiba Alvi is a Mid-career General CDR researcher at Shaheed Zulfiqar Ali Bhutto Institute of Science and Technology in PK. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.589264
+date: 2026-10-11T02:32:59.605979
 url: "/cdr-researcher-census/researchers/um-e-habiba-alvi-a5050040/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A roadmap to achieving net-zero emissions** (2025)
-   1 citations · General CDR
+   2 citations · General CDR
 
 ## External Profiles
 

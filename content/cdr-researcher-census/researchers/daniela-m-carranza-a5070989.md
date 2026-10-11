@@ -1,7 +1,7 @@
 ---
 title: "Daniela M. Carranza"
 description: "Daniela M. Carranza is a Mid-career Ocean CDR researcher. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.261188
+date: 2026-10-11T02:33:00.291327
 url: "/cdr-researcher-census/researchers/daniela-m-carranza-a5070989/"
 layout: "researcher"
 hiddenInHomeList: true

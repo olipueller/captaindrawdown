@@ -1,7 +1,7 @@
 ---
 title: "N. B. Sadovnikova"
 description: "N. B. Sadovnikova is a Senior Soil Carbon researcher at Lomonosov Moscow State University in RU. With 48 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.590204
+date: 2026-10-11T02:32:59.606892
 url: "/cdr-researcher-census/researchers/n-b-sadovnikova-a5028424/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Simulation Modeling and Practical Use of the Hydrological Function of Detritus in Soil-Engineering Technologies** (2023)
    5 citations · Soil Carbon
 
-2. **Balance Assessment of Carbon Dioxide Dynamics in the Soil of MSU Large Lysimeters** (2021)
-   3 citations
+2. **Carbon Sequestration as a Driver of Pine Forest Succession on Sandy Alluvium: Quantitative Assessment and Process Modeling** (2025)
+   3 citations · Soil Carbon
 
-3. **Carbon Sequestration as a Driver of Pine Forest Succession on Sandy Alluvium: Quantitative Assessment and Process Modeling** (2025)
-   2 citations · Soil Carbon
+3. **Balance Assessment of Carbon Dioxide Dynamics in the Soil of MSU Large Lysimeters** (2021)
+   3 citations
 
 4. **SIMULATION MODELING AND PRACTICAL USE OF THE HYDROLOGICAL FUNCTION OF DETRITUS IN SOIL ENGINEERING TECHNOLOGIES** (2023)
    0 citations · Soil Carbon

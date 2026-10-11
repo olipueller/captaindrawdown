@@ -1,7 +1,7 @@
 ---
 title: "Renshan Li"
 description: "Renshan Li is a Senior Enhanced Weathering researcher at Luoyang Normal University in CN. With 40 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.498326
+date: 2026-10-11T02:32:59.510669
 url: "/cdr-researcher-census/researchers/renshan-li-a5042380/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Wollastonite addition stimulates soil organic carbon mineralization: Evidences from 12 land-use types in subtropical China** (2023)
-   51 citations · Enhanced Weathering
+   49 citations · Enhanced Weathering
 
 2. **The effect of enhanced rock weathering on soil respiration was modulated by understory removal in a subtropical fir plantation** (2025)
    2 citations · Enhanced Weathering

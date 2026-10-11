@@ -1,7 +1,7 @@
 ---
 title: "Dean Ansell"
 description: "Dean Ansell is a Senior General CDR researcher at Australian National University in AU. With 31 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.584631
+date: 2026-10-11T02:32:59.601223
 url: "/cdr-researcher-census/researchers/dean-ansell-a5006085/"
 layout: "researcher"
 hiddenInHomeList: true

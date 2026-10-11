@@ -1,7 +1,7 @@
 ---
 title: "Yanrong Lin"
 description: "Yanrong Lin is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.131648
+date: 2026-10-11T02:33:00.162074
 url: "/cdr-researcher-census/researchers/yanrong-lin-a5025474/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Manure substitution with appropriate N rate enhanced the soil quality, crop productivity and net ecosystem economic benefit: A sustainable rainfed wheat practice** (2023)
-   43 citations · Soil Carbon
+   46 citations · Soil Carbon
 
 ## External Profiles
 

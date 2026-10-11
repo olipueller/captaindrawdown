@@ -1,7 +1,7 @@
 ---
 title: "Manuel Gabriel Velásquez Ramírez"
 description: "Manuel Gabriel Velásquez Ramírez is a Senior Soil Carbon researcher at Instituto de Investigaciones de la Amazonía Peruana in PE. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.131470
+date: 2026-10-11T02:33:00.161894
 url: "/cdr-researcher-census/researchers/manuel-gabriel-velasquez-ramirez-a5016279/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil recovery of alluvial gold mine spoils in the Peruvian Amazon using <i>Stylosanthes guianensis</i>, a promising cover crop** (2021)
-   26 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 ## External Profiles
 

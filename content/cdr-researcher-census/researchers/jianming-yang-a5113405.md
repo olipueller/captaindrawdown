@@ -1,7 +1,7 @@
 ---
 title: "Jianming Yang"
 description: "Jianming Yang is a Senior Biochar researcher at Anhui University of Technology in CN. With 14 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.379475
+date: 2026-10-11T02:33:00.415317
 url: "/cdr-researcher-census/researchers/jianming-yang-a5113405/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochars and modified-biochars for toxic-metal/metalloid ions sorption in various mixed solution systems: A review on kinetic and isotherm models** (2024)
-   14 citations · Biochar
+   15 citations · Biochar
 
 ## External Profiles
 

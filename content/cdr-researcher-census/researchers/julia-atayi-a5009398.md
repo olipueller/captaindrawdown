@@ -1,7 +1,7 @@
 ---
 title: "Julia Atayi"
 description: "Julia Atayi is a Mid-career Soil Carbon researcher at Morgan State University in US. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.388517
+date: 2026-10-11T02:33:00.425382
 url: "/cdr-researcher-census/researchers/julia-atayi-a5009398/"
 layout: "researcher"
 hiddenInHomeList: true

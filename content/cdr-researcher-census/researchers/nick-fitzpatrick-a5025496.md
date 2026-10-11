@@ -1,7 +1,7 @@
 ---
 title: "Nick Fitzpatrick"
-description: "Nick Fitzpatrick is an Early-career BECCS researcher at Aarhus University in DK. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.814041
+description: "Nick Fitzpatrick is an Early-career General CDR researcher at Aarhus University in DK. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:32:59.799537
 url: "/cdr-researcher-census/researchers/nick-fitzpatrick-a5025496/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,24 +34,30 @@ Aarhus University · 🇩🇰 DK
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 252 |
-| Publications | 11 |
-| CDR Focus | 9.1% |
+| Citations | 270 |
+| Publications | 13 |
+| CDR Focus | 15.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Undermining climate action? Challenges of public-private co-financing of carbon removal in the Global North** (2026)
+1. **Beyond techno-economic assessments: A comparative political economy framework for assessing national carbon dioxide removal (CDR) deployment** (2026)
+   0 citations · General CDR
+
+2. **Undermining climate action? Challenges of public-private co-financing of carbon removal in the Global North** (2026)
    0 citations · BECCS
+
+3. **Plentitude of Pathways: Expert Views on the Benefits and Risks of Carbon Dioxide Removal in Six Countries** (2026)
+   0 citations · General CDR
 
 ## External Profiles
 

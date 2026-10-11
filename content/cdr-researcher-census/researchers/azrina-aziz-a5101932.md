@@ -1,7 +1,7 @@
 ---
 title: "Azrina Aziz"
 description: "Azrina Aziz is a Mid-career Biochar researcher at Universiti Malaysia Pahang Al-Sultan Abdullah in MY. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.314518
+date: 2026-10-11T02:32:59.320179
 url: "/cdr-researcher-census/researchers/azrina-aziz-a5101932/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Conversion of teak wood waste into microwave-irradiated activated carbon for cationic methylene blue dye removal: Optimization and batch studies** (2022)
-   71 citations
+   70 citations
 
 2. **Single-Stage Microwave-Assisted Coconut-Shell-Based Activated Carbon for Removal of Dichlorodiphenyltrichloroethane (DDT) from Aqueous Solution: Optimization and Batch Studies** (2021)
    33 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Thi-Phuong-Tu Nguyen"
 description: "Thi-Phuong-Tu Nguyen is a Mid-career Biochar researcher at Trường ĐH Nguyễn Tất Thành in VN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.342198
+date: 2026-10-11T02:33:00.376933
 url: "/cdr-researcher-census/researchers/thi-phuong-tu-nguyen-a5004878/"
 layout: "researcher"
 hiddenInHomeList: true

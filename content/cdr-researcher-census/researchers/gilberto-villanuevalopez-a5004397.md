@@ -1,7 +1,7 @@
 ---
 title: "Gilberto Villanueva‐López"
 description: "Gilberto Villanueva‐López is a Mid-career Soil Carbon researcher at El Colegio de la Frontera Sur in MX. With 49 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.400601
+date: 2026-10-11T02:32:59.409761
 url: "/cdr-researcher-census/researchers/gilberto-villanuevalopez-a5004397/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,15 +54,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    23 citations · General CDR
 
 2. **Silvopastoral systems reduce soil CO2 emissions, enhance carbon stocks, and regulate the micro-environment in tropical grazing lands** (2025)
-   8 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 3. **Soil Organic Carbon Storage in Cof fee Agroforestry Systems: A review** (2025)
    1 citations · Soil Carbon
 
-4. **Carbon balance of tropical semi-evergreen forests along a secondary succession in the Yucatan Peninsula, Mexico** (2026)
+4. **Soil carbon and nitrogen storage and biomass carbon reserves in silvopastoral systems of the subhumid tropics of Mexico** (2026)
+   0 citations · Soil Carbon
+
+5. **Carbon balance of tropical semi-evergreen forests along a secondary succession in the Yucatan Peninsula, Mexico** (2026)
    0 citations
 
-5. **Soil CO2 fluxes and carbon storage in livestock systems with native trees in pastures in the subhumid tropics of Mexico** (2025)
+6. **Effect of tree inclination and the distance from tree row on fine root biomass and soil organic carbon in the milpa intercropped with fruit trees agroforestry system** (2025)
+   0 citations · Soil Carbon
+
+7. **Soil CO2 fluxes and carbon storage in livestock systems with native trees in pastures in the subhumid tropics of Mexico** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

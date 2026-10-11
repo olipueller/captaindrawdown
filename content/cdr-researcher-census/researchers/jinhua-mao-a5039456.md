@@ -1,7 +1,7 @@
 ---
 title: "Jinhua Mao"
 description: "Jinhua Mao is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.872224
+date: 2026-10-11T02:32:59.899312
 url: "/cdr-researcher-census/researchers/jinhua-mao-a5039456/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Unexpected high retention of<sup>15</sup>N‐labeled nitrogen in a tropical legume forest under long‐term nitrogen enrichment** (2021)
-   30 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 ## External Profiles
 

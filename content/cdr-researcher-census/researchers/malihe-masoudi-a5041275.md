@@ -1,7 +1,7 @@
 ---
 title: "Malihe Masoudi"
 description: "Malihe Masoudi is a Mid-career Soil Carbon researcher at Shiraz University in IR. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.047098
+date: 2026-10-11T02:33:00.077820
 url: "/cdr-researcher-census/researchers/malihe-masoudi-a5041275/"
 layout: "researcher"
 hiddenInHomeList: true

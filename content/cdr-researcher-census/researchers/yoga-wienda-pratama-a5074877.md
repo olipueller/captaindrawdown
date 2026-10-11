@@ -1,7 +1,7 @@
 ---
 title: "Yoga Wienda Pratama"
 description: "Yoga Wienda Pratama is a Mid-career General CDR researcher at International Institute for Applied Systems Analysis in AT. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.495857
+date: 2026-10-11T02:32:59.508063
 url: "/cdr-researcher-census/researchers/yoga-wienda-pratama-a5074877/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The carbon dioxide removal gap** (2024)
-   91 citations
+   106 citations
 
 2. **Current national proposals are off track to meet carbon dioxide removal needs** (2024)
    7 citations · General CDR
@@ -65,10 +65,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 5. **Author Correction: Current national proposals are off track to meet carbon dioxide removal needs** (2024)
    1 citations · General CDR
 
-6. **Carbon Dioxide Removal Supply Curves: A Multi-Model Assessment** (2026)
-   0 citations · BECCS
+6. **Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7** (2026)
+   0 citations · General CDR
 
-7. **Towards sustainability-aware carbon dioxide removal deployment** (2026)
+7. **Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7** (2026)
+   0 citations · General CDR
+
+8. **Broader CO2 Removal Portfolios Expand What Is Achievable but Cannot Substitute for Strong Emissions Reductions** (2026)
+   0 citations
+
+9. **Carbon dioxide removal consistent with climate pledges: a multi-model assessment of regional potential** (2026)
+   0 citations · Biochar
+
+10. **Carbon Dioxide Removal Supply Curves: A Multi-Model Assessment** (2026)
    0 citations · BECCS
 
 ## External Profiles

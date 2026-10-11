@@ -1,7 +1,7 @@
 ---
 title: "Alison Nord"
 description: "Alison Nord is a Mid-career Soil Carbon researcher at University of Michigan in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.155433
+date: 2026-10-11T02:33:00.185205
 url: "/cdr-researcher-census/researchers/alison-nord-a5064700/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Smallholder farms have and can store more carbon than previously estimated** (2022)
-   12 citations · General CDR
+   13 citations · General CDR
 
 ## External Profiles
 

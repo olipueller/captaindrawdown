@@ -1,7 +1,7 @@
 ---
 title: "Wanqing Yu"
 description: "Wanqing Yu is an Early-career Soil Carbon researcher at Zhejiang Water Conservancy and Hydropower Survey and Design Institute in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.093645
+date: 2026-10-11T02:33:00.124358
 url: "/cdr-researcher-census/researchers/wanqing-yu-a5063041/"
 layout: "researcher"
 hiddenInHomeList: true

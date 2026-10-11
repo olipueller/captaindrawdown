@@ -1,7 +1,7 @@
 ---
 title: "Ye-Ji Jang"
 description: "Ye-Ji Jang is a Mid-career General CDR researcher at Ildong (South Korea) in KR. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.192665
+date: 2026-10-11T02:33:00.222708
 url: "/cdr-researcher-census/researchers/ye-ji-jang-a5003838/"
 layout: "researcher"
 hiddenInHomeList: true

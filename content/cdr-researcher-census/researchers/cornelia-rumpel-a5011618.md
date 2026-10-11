@@ -1,7 +1,7 @@
 ---
 title: "Cornélia Rumpel"
 description: "Cornélia Rumpel is an Eminent Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 466 publications and an h-index of 79, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.015755
+date: 2026-10-11T02:32:59.019177
 url: "/cdr-researcher-census/researchers/cornelia-rumpel-a5011618/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,40 +45,40 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 79 |
 | Citations | 27,643 |
 | Publications | 466 |
-| CDR Focus | 5.4% |
+| CDR Focus | 5.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **How does soil water status influence the fate of soil organic matter? A review of processes across scales** (2022)
-   84 citations
+   82 citations
 
 2. **Iron’s role in soil organic carbon (de)stabilization in mangroves under land use change** (2024)
    79 citations · Soil Carbon
 
 3. **Soil Carbon Sequestration: Much More Than a Climate Solution** (2023)
-   60 citations · General CDR
+   63 citations · General CDR
 
 4. **Managing Soil Organic Carbon for Mitigating Climate Change and Increasing Food Security** (2021)
-   30 citations · General CDR
+   32 citations · General CDR
 
 5. **The role of soil carbon sequestration in enhancing human resilience in tackling global crises including pandemics** (2022)
-   29 citations · General CDR
+   30 citations · General CDR
 
 6. **Is plant biomass input driving soil organic matter formation processes in grassland soil under contrasting management?** (2023)
-   27 citations · Soil Carbon
+   28 citations · Soil Carbon
 
-7. **Current NPP cannot predict future soil organic carbon sequestration potential. Comment on “Photosynthetic limits on carbon sequestration in croplands”** (2022)
-   26 citations · Soil Carbon
+7. **Phosphorus fertiliser source determines the allocation of root-derived organic carbon to soil organic matter fractions** (2022)
+   28 citations · Soil Carbon
 
-8. **Phosphorus fertiliser source determines the allocation of root-derived organic carbon to soil organic matter fractions** (2022)
+8. **Current NPP cannot predict future soil organic carbon sequestration potential. Comment on “Photosynthetic limits on carbon sequestration in croplands”** (2022)
    26 citations · Soil Carbon
 
 9. **Effect of decomposition products produced in the presence or absence of epigeic earthworms and minerals on soil carbon stabilization** (2021)
-   22 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 10. **Mechanisms and kinetics of (de-)protection of soil organic carbon in earthworm casts in a tropical environment** (2022)
-   19 citations
+   20 citations
 
 ## External Profiles
 

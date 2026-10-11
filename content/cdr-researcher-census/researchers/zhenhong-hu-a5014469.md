@@ -1,7 +1,7 @@
 ---
 title: "Zhenhong Hu"
 description: "Zhenhong Hu is a Mid-career Soil Carbon researcher at Northwest A & F University in CN. With 43 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.176477
+date: 2026-10-11T02:32:59.180511
 url: "/cdr-researcher-census/researchers/zhenhong-hu-a5014469/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The formation of humic acid and micro-aggregates facilitated long-time soil organic carbon sequestration after Medicago sativa L. introduction on abandoned farmlands** (2024)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 2. **Agricultural management-driven soil inorganic carbon dynamics: Evidence from Chinese field experiments** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 3. **Deep soil biota drive trade-offs between above and belowground functioning during dryland restoration** (2026)
    0 citations · Soil Carbon

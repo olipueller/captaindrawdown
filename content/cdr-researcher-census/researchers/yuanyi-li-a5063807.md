@@ -1,7 +1,7 @@
 ---
 title: "Yuanyi Li"
 description: "Yuanyi Li is a Mid-career Biochar researcher at Dalian Ocean University in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.628681
+date: 2026-10-11T02:32:59.647147
 url: "/cdr-researcher-census/researchers/yuanyi-li-a5063807/"
 layout: "researcher"
 hiddenInHomeList: true

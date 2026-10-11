@@ -1,7 +1,7 @@
 ---
 title: "Rudong Zhao"
 description: "Rudong Zhao is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 37 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.372019
+date: 2026-10-11T02:32:59.379272
 url: "/cdr-researcher-census/researchers/rudong-zhao-a5028804/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Soil Carbon
 
 3. **Impact of nitrogen addition on soil organic carbon across ecosystems: Microbial roles and environmental regulation** (2025)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 4. **Nitrogen addition and precipitation reduction regulate soil organic carbon storage with contrasting mechanisms in subtropical forests** (2025)
    1 citations · Soil Carbon

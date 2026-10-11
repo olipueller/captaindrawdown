@@ -1,7 +1,7 @@
 ---
 title: "Haline Rocha"
 description: "Haline Rocha is a Mid-career General CDR researcher at Universidade de São Paulo in BR. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.360179
+date: 2026-10-11T02:33:00.395822
 url: "/cdr-researcher-census/researchers/haline-rocha-a5030072/"
 layout: "researcher"
 hiddenInHomeList: true

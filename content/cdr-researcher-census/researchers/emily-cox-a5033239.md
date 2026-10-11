@@ -1,7 +1,7 @@
 ---
 title: "Emily Cox"
 description: "Emily Cox is a Mid-career General CDR researcher at Cardiff University in GB. With 49 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.238554
+date: 2026-10-11T02:32:59.242143
 url: "/cdr-researcher-census/researchers/emily-cox-a5033239/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,34 +51,34 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Exploring cross-national public support for the use of enhanced weathering as a land-based carbon dioxide removal strategy** (2021)
-   54 citations · Enhanced Weathering
+   55 citations · Enhanced Weathering
 
 2. **But They Told Us It Was Safe! Carbon Dioxide Removal, Fracking, and Ripple Effects in Risk Perceptions** (2021)
    41 citations · General CDR
 
 3. **Deliberating enhanced weathering: Public frames, iconic ecosystems and the governance of carbon removal at scale** (2022)
-   25 citations · Enhanced Weathering
+   26 citations · Enhanced Weathering
 
-4. **Carbon removal demonstrations and problems of public perception** (2023)
+4. **Public attitudes and emotions toward novel carbon removal methods in alternative sociotechnical scenarios** (2024)
    23 citations · General CDR
 
-5. **Public attitudes and emotions toward novel carbon removal methods in alternative sociotechnical scenarios** (2024)
-   20 citations · General CDR
+5. **Carbon removal demonstrations and problems of public perception** (2023)
+   23 citations · General CDR
 
 6. **Public engagement and collaboration for carbon dioxide removal: lessons from a project in the Dominican Republic** (2024)
-   13 citations · General CDR
+   14 citations · General CDR
 
 7. **Localized governance of carbon dioxide removal in small island developing states** (2023)
-   10 citations · General CDR
+   11 citations · General CDR
 
 8. **Editorial: Governing Carbon Dioxide Removal** (2021)
    10 citations · General CDR
 
 9. **Question-Led Innovation: Public priorities for enhanced weathering research in Malaysia** (2024)
-   8 citations · Enhanced Weathering
+   9 citations · Enhanced Weathering
 
-10. **Localized governance of carbon dioxide removal in Small Island Developing States** (2022)
-   5 citations · General CDR
+10. **Attention and positive sentiments towards carbon dioxide removal have grown on social media over the past decade** (2024)
+   6 citations · General CDR
 
 ## External Profiles
 

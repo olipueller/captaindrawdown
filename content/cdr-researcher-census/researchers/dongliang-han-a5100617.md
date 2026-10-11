@@ -1,7 +1,7 @@
 ---
 title: "Dongliang Han"
 description: "Dongliang Han is a Mid-career Soil Carbon researcher at Lanzhou University in CN. With 32 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.397427
+date: 2026-10-11T02:32:59.406438
 url: "/cdr-researcher-census/researchers/dongliang-han-a5100617/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    27 citations
 
 2. **Evaluation of carbon sink in the Taklimakan Desert based on correction of abnormal negative CO2 flux of IRGASON** (2022)
-   23 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 3. **Impacts of Urbanization on Atmospheric Oxygen: High‐Resolution Observational Evidence** (2026)
-   0 citations
+   1 citations
 
 4. **Carbon sequestration in the desert** (2025)
    0 citations · Soil Carbon

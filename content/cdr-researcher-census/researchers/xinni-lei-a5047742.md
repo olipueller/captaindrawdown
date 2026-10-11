@@ -1,7 +1,7 @@
 ---
 title: "Xinni Lei"
 description: "Xinni Lei is an Early-career Biochar researcher at Central South University in CN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.950093
+date: 2026-10-11T02:32:59.980283
 url: "/cdr-researcher-census/researchers/xinni-lei-a5047742/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Machine learning predicting and engineering the yield, N content, and specific surface area of biochar derived from pyrolysis of biomass** (2022)
-   140 citations · Biochar
+   146 citations · Biochar
 
 ## External Profiles
 

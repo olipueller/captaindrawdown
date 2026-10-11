@@ -1,7 +1,7 @@
 ---
 title: "Charlotte M. Wentz"
 description: "Charlotte M. Wentz is a Mid-career DAC researcher. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.752496
+date: 2026-10-11T02:32:59.774838
 url: "/cdr-researcher-census/researchers/charlotte-m-wentz-a5086526/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,6 +50,9 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 2. **A Synthetic Methodology for Preparing Impregnated and Grafted Amine-Based Silica Composites for Carbon Capture** (2023)
    5 citations
+
+3. **Impact of Repeated Temperature Cycling on the Low-Concentration CO2 Adsorption Capacity of Grafted Silica-Amine †** (2026)
+   0 citations
 
 ## External Profiles
 

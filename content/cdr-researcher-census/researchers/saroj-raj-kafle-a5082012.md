@@ -1,7 +1,7 @@
 ---
 title: "Saroj Raj Kafle"
 description: "Saroj Raj Kafle is a Mid-career Biochar researcher at Chungbuk National University in KR. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.676234
+date: 2026-10-11T02:32:59.695846
 url: "/cdr-researcher-census/researchers/saroj-raj-kafle-a5082012/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Surface Modification of Biochar for Dye Removal from Wastewater** (2022)
-   150 citations · Biochar
+   153 citations · Biochar
 
 ## External Profiles
 

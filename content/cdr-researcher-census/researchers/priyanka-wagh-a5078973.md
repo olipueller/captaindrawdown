@@ -1,7 +1,7 @@
 ---
 title: "Priyanka Wagh"
 description: "Priyanka Wagh is a Mid-career Biochar researcher at Dr. D.Y. Patil Vidyapeeth, Pune in IN. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.634267
+date: 2026-10-11T02:32:59.652632
 url: "/cdr-researcher-census/researchers/priyanka-wagh-a5078973/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Bibliometric analysis of trends in biochar research and thermochemical production methods for sustainable waste management** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

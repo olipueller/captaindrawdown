@@ -1,7 +1,7 @@
 ---
 title: "Ben Joseph"
 description: "Ben Joseph is a Mid-career Biochar researcher. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.361957
+date: 2026-10-11T02:33:00.397681
 url: "/cdr-researcher-census/researchers/ben-joseph-a5026814/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Urbain Nzotcha"
 description: "Urbain Nzotcha is a Mid-career DAC researcher at Forschungszentrum Jülich in DE. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.581653
+date: 2026-10-11T02:32:59.597852
 url: "/cdr-researcher-census/researchers/urbain-nzotcha-a5034791/"
 layout: "researcher"
 hiddenInHomeList: true

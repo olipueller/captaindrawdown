@@ -1,7 +1,7 @@
 ---
 title: "Aranya Venkatesh"
 description: "Aranya Venkatesh is a Senior General CDR researcher at Electric Power Research Institute in US. With 42 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.201100
+date: 2026-10-11T02:32:59.205073
 url: "/cdr-researcher-census/researchers/aranya-venkatesh-a5066283/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Diverse decarbonization pathways under near cost-optimal futures** (2024)
-   43 citations · DAC
+   48 citations · DAC
 
 2. **Drivers and implications of alternative routes to fuels decarbonization in net-zero energy systems** (2024)
-   42 citations · General CDR
+   47 citations · General CDR
 
 3. **State-led climate action can cut emissions at near-federal costs but favors different technologies** (2025)
    9 citations · DAC
@@ -62,10 +62,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 4. **Diverse Decarbonization Pathways Under Near Cost-Optimal Futures** (2023)
    2 citations
 
-5. **Energy technology choices shaping the air quality and health effects of a Net-Zero transition** (2026)
+5. **A Multi-Model Assessment of the Air Quality and Health Impacts of U.S. Energy Decarbonization** (2026)
    0 citations · General CDR
 
 6. **Energy technology choices shaping the air quality and health effects of a Net-Zero transition** (2026)
+   0 citations · General CDR
+
+7. **Energy technology choices shaping the air quality and health effects of a Net-Zero transition** (2026)
    0 citations · General CDR
 
 ## External Profiles

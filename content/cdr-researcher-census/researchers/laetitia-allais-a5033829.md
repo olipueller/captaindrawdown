@@ -1,7 +1,7 @@
 ---
 title: "Laetitia Allais"
 description: "Laetitia Allais is a Senior Ocean CDR researcher at Aarhus University in DK. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.310757
+date: 2026-10-11T02:33:00.341505
 url: "/cdr-researcher-census/researchers/laetitia-allais-a5033829/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Salinity, mineralogy, porosity, and hydrodynamics as drivers of carbon burial in urban mangroves from a megacity** (2023)
-   21 citations · Ocean CDR
+   22 citations · Ocean CDR
 
 ## External Profiles
 

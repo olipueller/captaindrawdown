@@ -1,7 +1,7 @@
 ---
 title: "Dapinder Deep Singh"
 description: "Dapinder Deep Singh is a Mid-career Soil Carbon researcher at Guru Angad Dev Veterinary and Animal Sciences University in IN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.830654
+date: 2026-10-11T02:32:59.856848
 url: "/cdr-researcher-census/researchers/dapinder-deep-singh-a5108737/"
 layout: "researcher"
 hiddenInHomeList: true

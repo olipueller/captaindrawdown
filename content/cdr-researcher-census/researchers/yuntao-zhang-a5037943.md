@@ -1,7 +1,7 @@
 ---
 title: "Yuntao Zhang"
 description: "Yuntao Zhang is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.791658
+date: 2026-10-11T02:32:59.815381
 url: "/cdr-researcher-census/researchers/yuntao-zhang-a5037943/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial carbon use efficiency in different ecosystems: A meta‐analysis based on a biogeochemical equilibrium model** (2023)
-   120 citations · Soil Carbon
+   123 citations · Soil Carbon
 
 ## External Profiles
 

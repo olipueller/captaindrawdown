@@ -1,7 +1,7 @@
 ---
 title: "Gokulan Ravindiran"
 description: "Gokulan Ravindiran is a Senior Biochar researcher at Dayananda Sagar College of Engineering in IN. With 67 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.114613
+date: 2026-10-11T02:32:59.119275
 url: "/cdr-researcher-census/researchers/gokulan-ravindiran-a5009348/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Production and modifications of biochar to engineered materials and its application for environmental sustainability: a review** (2024)
-   183 citations · Biochar
+   192 citations · Biochar
 
 2. **Techno-economic feasibility of biochar as biosorbent for basic dye sequestration** (2021)
-   161 citations · Biochar
+   163 citations · Biochar
 
 3. **Evaluation of the adsorptive removal of cationic dyes by greening biochar derived from agricultural bio-waste of rice husk** (2021)
    67 citations · Biochar
@@ -63,7 +63,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    10 citations · Biochar
 
 5. **Adsorption Performance and Life Cycle Assessment of Raw and Chemically Modified Coconut Shell Biochar for Methylene Blue Removal** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

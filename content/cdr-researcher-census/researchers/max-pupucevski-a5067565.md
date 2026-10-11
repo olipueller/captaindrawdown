@@ -1,7 +1,7 @@
 ---
 title: "Max Pupucevski"
 description: "Max Pupucevski is a Mid-career DAC researcher at Giner (United States) in US. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.592894
+date: 2026-10-11T02:32:59.609677
 url: "/cdr-researcher-census/researchers/max-pupucevski-a5067565/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **High-Performance Binary Mo–Ni Catalysts for Efficient Carbon Removal during Carbon Dioxide Reforming of Methane** (2021)
-   154 citations
+   156 citations
 
 2. **(<i>Invited</i>) Harnessing Renewable Electricity for Decarbonization and CO2-Negative Fuel Production Via Electrolysis** (2025)
    0 citations · DAC

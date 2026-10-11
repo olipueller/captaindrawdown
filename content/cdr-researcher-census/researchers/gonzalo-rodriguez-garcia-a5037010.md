@@ -1,7 +1,7 @@
 ---
 title: "Gonzalo Rodriguez-García"
 description: "Gonzalo Rodriguez-García is a Mid-career General CDR researcher at National Institute of Standards and Technology in US. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.202807
+date: 2026-10-11T02:32:59.206960
 url: "/cdr-researcher-census/researchers/gonzalo-rodriguez-garcia-a5037010/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Putting the genie back in the bottle: Decarbonizing petroleum with direct air capture and enhanced oil recovery** (2024)
-   4 citations · DAC
+   5 citations · DAC
 
 2. **Carbon Removal Accounting for a Sustainable Future: Distributing CO2 Flows in Multiservice Systems** (2024)
    2 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Shahid Shuja Shafai"
 description: "Shahid Shuja Shafai is a Mid-career Soil Carbon researcher at Lovely Professional University in IN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.123087
+date: 2026-10-11T02:33:00.153513
 url: "/cdr-researcher-census/researchers/shahid-shuja-shafai-a5049917/"
 layout: "researcher"
 hiddenInHomeList: true

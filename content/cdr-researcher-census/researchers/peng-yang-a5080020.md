@@ -1,7 +1,7 @@
 ---
 title: "Peng Yang"
 description: "Peng Yang is a Mid-career Soil Carbon researcher at Advanced Semiconductor Engineering (Taiwan) in TW. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.293463
+date: 2026-10-11T02:33:00.323624
 url: "/cdr-researcher-census/researchers/peng-yang-a5080020/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of the long-term rice expansion on ecosystem carbon budget in the typical agricultural area of Northeast China** (2024)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 ## External Profiles
 

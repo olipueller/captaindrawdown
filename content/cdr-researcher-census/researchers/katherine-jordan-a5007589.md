@@ -1,7 +1,7 @@
 ---
 title: "Katherine Jordan"
 description: "Katherine Jordan is a Mid-career DAC researcher at Toyota Motor Corporation (Switzerland) in CH. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.375683
+date: 2026-10-11T02:32:59.383047
 url: "/cdr-researcher-census/researchers/katherine-jordan-a5007589/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Diverse decarbonization pathways under near cost-optimal futures** (2024)
-   43 citations · DAC
+   48 citations · DAC
 
 2. **State-led climate action can cut emissions at near-federal costs but favors different technologies** (2025)
    9 citations · DAC

@@ -1,7 +1,7 @@
 ---
 title: "Ava Rani Phukan"
 description: "Ava Rani Phukan is a Senior Biochar researcher at Assam Agricultural University in IN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.373785
+date: 2026-10-11T02:33:00.409311
 url: "/cdr-researcher-census/researchers/ava-rani-phukan-a5109404/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,7 +47,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Top CDR Publications
 
-1. **Biochar from Oil Cakes: An Efficient Adsorbent for the Removal of Acid Dyes From Wool Dye House Effluent** (2021)
+1. **Biochar from oil cakes: an efficient and economical adsorbent for the removal of acid dyes from wool dye house effluent** (2022)
+   7 citations · Biochar
+
+2. **Biochar from Oil Cakes: An Efficient Adsorbent for the Removal of Acid Dyes From Wool Dye House Effluent** (2021)
    0 citations · Biochar
 
 ## External Profiles

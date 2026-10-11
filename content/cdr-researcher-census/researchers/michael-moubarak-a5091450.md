@@ -1,7 +1,7 @@
 ---
 title: "Michael Moubarak"
 description: "Michael Moubarak is an Early-career Soil Carbon researcher at Hamilton College in US. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.073370
+date: 2026-10-11T02:33:00.103541
 url: "/cdr-researcher-census/researchers/michael-moubarak-a5091450/"
 layout: "researcher"
 hiddenInHomeList: true

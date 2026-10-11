@@ -1,7 +1,7 @@
 ---
 title: "Wenbo Liu"
 description: "Wenbo Liu is a Mid-career Soil Carbon researcher at Zhejiang University of Science and Technology in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.969989
+date: 2026-10-11T02:33:00.001411
 url: "/cdr-researcher-census/researchers/wenbo-liu-a5013123/"
 layout: "researcher"
 hiddenInHomeList: true

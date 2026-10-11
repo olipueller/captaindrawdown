@@ -1,7 +1,7 @@
 ---
 title: "Wenling Zhang"
 description: "Wenling Zhang is a Mid-career Biochar researcher at Central South University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.820722
+date: 2026-10-11T02:32:59.845659
 url: "/cdr-researcher-census/researchers/wenling-zhang-a5115593/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effect of degradable microplastics, biochar and their coexistence on soil organic matter decomposition: A critical review** (2024)
-   159 citations · Biochar
+   160 citations · Biochar
 
 ## External Profiles
 

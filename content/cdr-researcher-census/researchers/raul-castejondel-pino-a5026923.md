@@ -1,7 +1,7 @@
 ---
 title: "Raúl Castejón‐del Pino"
 description: "Raúl Castejón‐del Pino is a Mid-career Biochar researcher at Centro de Edafología y Biología Aplicada del Segura in ES. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.380128
+date: 2026-10-11T02:33:00.415934
 url: "/cdr-researcher-census/researchers/raul-castejondel-pino-a5026923/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Field Assessment of Biochar Interactions With Chemical and Biological N Fertilization in Pointed White Cabbage** (2024)
-   4 citations · Biochar
+   5 citations · Biochar
 
 ## External Profiles
 

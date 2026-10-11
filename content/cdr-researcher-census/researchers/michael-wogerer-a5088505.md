@@ -1,7 +1,7 @@
 ---
 title: "Michael Wögerer"
 description: "Michael Wögerer is a Mid-career BECCS researcher at International Institute for Applied Systems Analysis in AT. With 35 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.071297
+date: 2026-10-11T02:33:00.101494
 url: "/cdr-researcher-census/researchers/michael-wogerer-a5088505/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Biodiversity implications of land-intensive carbon dioxide removal** (2026)
-   6 citations · BECCS
+   7 citations · BECCS
 
 2. **Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment** (2026)
    0 citations · BECCS

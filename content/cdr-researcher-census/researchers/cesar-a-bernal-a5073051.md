@@ -1,7 +1,7 @@
 ---
 title: "César A. Bernal"
 description: "César A. Bernal is a Senior Ocean CDR researcher at United Nations Economic Commission for Latin America and the Caribbean in CL. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.219737
+date: 2026-10-11T02:33:00.250048
 url: "/cdr-researcher-census/researchers/cesar-a-bernal-a5073051/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Seagrass blue carbon stocks and sequestration rates in the Colombian Caribbean** (2021)
-   73 citations
+   72 citations
 
 2. **Seasonal Upwelling Conditions Modulate the Calcification Response of a Tropical Scleractinian Coral** (2023)
-   9 citations · Ocean CDR
+   10 citations · Ocean CDR
 
 ## External Profiles
 

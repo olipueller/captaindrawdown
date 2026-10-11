@@ -1,7 +1,7 @@
 ---
 title: "Magdalena Bednik"
 description: "Magdalena Bednik is a Mid-career Biochar researcher at Wrocław University of Environmental and Life Sciences in PL. With 22 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.531185
+date: 2026-10-11T02:32:59.545211
 url: "/cdr-researcher-census/researchers/magdalena-bednik-a5049786/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effect of Six Different Feedstocks on Biochar’s Properties and Expected Stability** (2022)
-   47 citations · Biochar
+   48 citations · Biochar
 
 2. **Deashed Wheat-Straw Biochar as a Potential Superabsorbent for Pesticides** (2023)
-   36 citations · Biochar
+   35 citations · Biochar
 
 3. **Enzyme Activity and Dissolved Organic Carbon Content in Soils Amended with Different Types of Biochar and Exogenous Organic Matter** (2023)
-   19 citations
+   27 citations
 
-4. **Effective Carbon Dioxide Mitigation and Improvement of Compost Nutrients with the Use of Composts’ Biochar** (2024)
+4. **Biochar and Organic Fertilizer Co-Application Enhances Soil Carbon Priming, Increasing CO2 Fluxes in Two Contrasting Arable Soils** (2023)
+   15 citations
+
+5. **Effective Carbon Dioxide Mitigation and Improvement of Compost Nutrients with the Use of Composts’ Biochar** (2024)
    13 citations · Biochar
-
-5. **Biochar and Organic Fertilizer Co-Application Enhances Soil Carbon Priming, Increasing CO2 Fluxes in Two Contrasting Arable Soils** (2023)
-   13 citations
 
 6. **Enzyme Activity and Dissolved Organic Carbon Content in Soils Amended with Different Types of Biochar and Exogenous Organic Matter** (2023)
    7 citations · Biochar

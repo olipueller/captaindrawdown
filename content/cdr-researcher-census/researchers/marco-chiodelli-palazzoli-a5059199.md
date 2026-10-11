@@ -1,7 +1,7 @@
 ---
 title: "Marco Chiodelli Palazzoli"
 description: "Marco Chiodelli Palazzoli is an Early-career Soil Carbon researcher at Forschungsinstitut für biologischen Landbau in DE. With 4 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.220298
+date: 2026-10-11T02:33:00.250604
 url: "/cdr-researcher-census/researchers/marco-chiodelli-palazzoli-a5059199/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Reduced tillage in organic farming affects soil organic carbon stocks in temperate Europe** (2021)
-   133 citations · Soil Carbon
+   134 citations · Soil Carbon
 
 2. **Carbon Sequestration By Organic Conservation Tillage – A Comprehensive Sampling Campaign In Nine European Long-Term Trials** (2021)
    0 citations

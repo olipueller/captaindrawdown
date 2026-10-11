@@ -1,7 +1,7 @@
 ---
 title: "Mathieu Lucquiaud"
 description: "Mathieu Lucquiaud is a Senior General CDR researcher at University of Sheffield in GB. With 138 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.110486
+date: 2026-10-11T02:32:59.115142
 url: "/cdr-researcher-census/researchers/mathieu-lucquiaud-a5084791/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **On the cost of zero carbon hydrogen: A techno-economic analysis of steam methane reforming with carbon capture and storage** (2023)
-   56 citations · DAC
+   57 citations · DAC
 
 2. **Research and Innovation Needs for the Waste-To-Energy Sector towards a Net-Zero Circular Economy** (2023)
    28 citations
 
 3. **Assessing Best Practices in Natural Gas Production and Emerging CO<sub>2</sub> Capture Techniques to Minimize the Carbon Footprint of Electricity Generation** (2024)
-   9 citations
+   10 citations
 
-4. **On the Cost of Zero Carbon Hydrogen: A Techno-Economic Analysis of Steam Methane Reforming with Carbon Capture and Storage** (2022)
+4. **A performance modelling study of integrating a MEA direct air capture unit with a CCGT absorber** (2022)
+   5 citations · DAC
+
+5. **On the Cost of Zero Carbon Hydrogen: A Techno-Economic Analysis of Steam Methane Reforming with Carbon Capture and Storage** (2022)
    5 citations · General CDR
-
-5. **A performance modelling study of integrating a MEA direct air capture unit with a CCGT absorber** (2022)
-   4 citations · DAC
 
 6. **The development of UK CCUS strategy and current plans for large-scale deployment of this technology** (2022)
    4 citations · General CDR
@@ -75,10 +75,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    3 citations · BECCS
 
 9. **Potential advantages for combining DACCS with amine post-combustion capture plants – CoDACCS - and ways to make new plants CoDACCS-ready** (2025)
-   0 citations · BECCS
+   1 citations · BECCS
 
-10. **Life Cycle Assessment of Four Waste-to-Energy Plant Configurations Equipped with Post-Combustion Carbon Capture and Storage** (2025)
-   0 citations · General CDR
+10. **Co-DAC – Integration of a MEA Direct Air Capture Unit with Post Combustion Capture Technology** (2024)
+   1 citations
 
 ## External Profiles
 

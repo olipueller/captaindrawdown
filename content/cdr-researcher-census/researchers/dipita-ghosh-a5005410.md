@@ -1,7 +1,7 @@
 ---
 title: "Dipita Ghosh"
 description: "Dipita Ghosh is a Mid-career Biochar researcher at Indian Institute of Technology Dhanbad in IN. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.504211
+date: 2026-10-11T02:32:59.516815
 url: "/cdr-researcher-census/researchers/dipita-ghosh-a5005410/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    26 citations · Biochar
 
 2. **Role of biochar made from low‐value woody forest residues in ecological sustainability and carbon neutrality** (2024)
-   22 citations · Biochar
+   24 citations · Biochar
 
 3. **Invasive weed‐based biochar facilitated the restoration of coal mine degraded land by modulating the enzyme activity and carbon sequestration** (2022)
-   22 citations · Biochar
+   23 citations · Biochar
 
 4. **Comparative assessment of biochar reactor technologies for biomass conversion: Design, performance, and application suitability** (2025)
    6 citations · Biochar

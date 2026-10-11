@@ -1,7 +1,7 @@
 ---
 title: "Jelita Rahma Hidayati"
 description: "Jelita Rahma Hidayati is a Mid-career Soil Carbon researcher at Universitas Maritim Raja Ali Haji in ID. With 35 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.127296
+date: 2026-10-11T02:33:00.157506
 url: "/cdr-researcher-census/researchers/jelita-rahma-hidayati-a5003303/"
 layout: "researcher"
 hiddenInHomeList: true

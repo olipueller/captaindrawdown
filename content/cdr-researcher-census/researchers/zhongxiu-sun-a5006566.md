@@ -1,7 +1,7 @@
 ---
 title: "Zhong‐Xiu Sun"
 description: "Zhong‐Xiu Sun is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.644001
+date: 2026-10-11T02:32:59.662396
 url: "/cdr-researcher-census/researchers/zhongxiu-sun-a5006566/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    20 citations · Soil Carbon
 
 2. **Cultivation Management Reshapes Soil Profile Configuration and Organic Carbon Sequestration: Evidence from a 45-Year Field Study** (2026)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

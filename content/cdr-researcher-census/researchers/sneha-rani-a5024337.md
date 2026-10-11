@@ -1,7 +1,7 @@
 ---
 title: "Sneha Rani"
 description: "Sneha Rani is a Mid-career Soil Carbon researcher. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.497771
+date: 2026-10-11T02:32:59.510097
 url: "/cdr-researcher-census/researchers/sneha-rani-a5024337/"
 layout: "researcher"
 hiddenInHomeList: true

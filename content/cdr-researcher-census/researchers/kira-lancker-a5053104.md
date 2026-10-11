@@ -1,7 +1,7 @@
 ---
 title: "Kira Lancker"
 description: "Kira Lancker is a Mid-career Ocean CDR researcher at University of Copenhagen in DK. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.062185
+date: 2026-10-11T02:33:00.092196
 url: "/cdr-researcher-census/researchers/kira-lancker-a5053104/"
 layout: "researcher"
 hiddenInHomeList: true

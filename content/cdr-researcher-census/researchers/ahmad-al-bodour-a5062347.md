@@ -1,7 +1,7 @@
 ---
 title: "Ahmad Al-Bodour"
 description: "Ahmad Al-Bodour is a Mid-career DAC researcher at Western Michigan University in US. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.830847
+date: 2026-10-11T02:32:59.857032
 url: "/cdr-researcher-census/researchers/ahmad-al-bodour-a5062347/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **A Review on Direct Air Capture of Carbon Dioxide: Sorbent Materials, Process Engineering, Industrial Scale-Up, and Future Perspectives** (2026)
-   0 citations · DAC
+   2 citations · DAC
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Cristian Méndez Rodríguez"
 description: "Cristian Méndez Rodríguez is a Senior Soil Carbon researcher at Fundación Universitaria de Popayán in CO. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.347089
+date: 2026-10-11T02:33:00.382240
 url: "/cdr-researcher-census/researchers/cristian-mendez-rodriguez-a5054844/"
 layout: "researcher"
 hiddenInHomeList: true

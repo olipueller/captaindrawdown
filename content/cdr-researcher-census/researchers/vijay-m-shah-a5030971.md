@@ -1,7 +1,7 @@
 ---
 title: "Vijay M. Shah"
 description: "Vijay M. Shah is a Mid-career DAC researcher at University of Illinois Urbana-Champaign in US. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.286750
+date: 2026-10-11T02:33:00.316808
 url: "/cdr-researcher-census/researchers/vijay-m-shah-a5030971/"
 layout: "researcher"
 hiddenInHomeList: true

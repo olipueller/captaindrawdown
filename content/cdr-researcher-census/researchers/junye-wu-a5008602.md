@@ -1,7 +1,7 @@
 ---
 title: "Junye Wu"
 description: "Junye Wu is a Mid-career DAC researcher at Institute of Refrigeration in GB. With 21 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.243224
+date: 2026-10-11T02:32:59.246923
 url: "/cdr-researcher-census/researchers/junye-wu-a5008602/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Recent advances in direct air capture by adsorption** (2022)
-   455 citations
+   460 citations
 
 2. **Modified layered double hydroxides for efficient and reversible carbon dioxide capture from air** (2021)
-   56 citations
+   58 citations
 
 3. **The analysis and evaluation of direct air capture adsorbents on the material characterization level** (2022)
    53 citations
@@ -60,22 +60,22 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    48 citations
 
 5. **A direct air capture rotary adsorber for CO2 enrichment in greenhouses** (2024)
-   20 citations
+   21 citations
 
 6. **Large-scale applications and challenges of adsorption-based carbon capture technologies** (2021)
    17 citations · DAC
 
 7. **Feasibility and Effectivity of an Amine-Grafted Alumina Adsorbent for Direct Air Capture** (2024)
-   8 citations
+   11 citations
 
 8. **Cost-effective and water-stable CO2 capture from humid gases via amine-functionalized hollow nanoparticles** (2025)
-   6 citations
+   8 citations
 
 9. **Toward Sustainable Agriculture: The Design of Environmentally Friendly, Economical, and Modular Vertical Farming Systems** (2025)
-   4 citations · DAC
+   5 citations · DAC
 
 10. **Rapid Steam‐Assisted Temperature Swing Adsorption for Direct Air Capture Using a Rotary Adsorber** (2026)
-   2 citations
+   3 citations
 
 ## External Profiles
 

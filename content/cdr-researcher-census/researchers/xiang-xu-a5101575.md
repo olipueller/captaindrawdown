@@ -1,7 +1,7 @@
 ---
 title: "Xiang Xu"
 description: "Xiang Xu is a Mid-career Biochar researcher at Hangzhou Dianzi University in CN. With 20 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.331704
+date: 2026-10-11T02:33:00.365434
 url: "/cdr-researcher-census/researchers/xiang-xu-a5101575/"
 layout: "researcher"
 hiddenInHomeList: true

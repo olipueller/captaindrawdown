@@ -1,7 +1,7 @@
 ---
 title: "Lal Chand Malav"
 description: "Lal Chand Malav is a Mid-career Soil Carbon researcher at ICAR-National Bureau of Soil Survey and Land Use Planning in IN. With 54 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.155149
+date: 2026-10-11T02:32:59.159522
 url: "/cdr-researcher-census/researchers/lal-chand-malav-a5040938/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **An eco-sustainable approach towards heavy metals remediation by mangroves from the coastal environment: A critical review** (2023)
-   38 citations
+   40 citations
 
 2. **Regional-scale predictive mapping of soil organic carbon in South Gujarat, India using machine learning algorithms** (2026)
    2 citations

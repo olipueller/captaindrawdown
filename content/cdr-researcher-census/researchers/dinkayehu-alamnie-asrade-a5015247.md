@@ -1,7 +1,7 @@
 ---
 title: "Dinkayehu Alamnie Asrade"
 description: "Dinkayehu Alamnie Asrade is a Mid-career Soil Carbon researcher at Czech University of Life Sciences Prague in CZ. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.357573
+date: 2026-10-11T02:33:00.392467
 url: "/cdr-researcher-census/researchers/dinkayehu-alamnie-asrade-a5015247/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The Effect of Long-Term Farmyard Manure and Mineral Fertilizer Application on the Increase in Soil Organic Matter Quality of Cambisols** (2023)
-   9 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 2. **Long-Term Application of Manure and Different Mineral Fertilization in Relation to the Soil Organic Matter Quality of Luvisols** (2023)
    9 citations · Soil Carbon

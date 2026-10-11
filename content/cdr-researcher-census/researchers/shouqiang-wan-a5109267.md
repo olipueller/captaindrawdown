@@ -1,7 +1,7 @@
 ---
 title: "Shouqiang Wan"
 description: "Shouqiang Wan is a Mid-career Biochar researcher at Tianjin University of Technology in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.077655
+date: 2026-10-11T02:33:00.108088
 url: "/cdr-researcher-census/researchers/shouqiang-wan-a5109267/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Rosa Francaviglia"
 description: "Rosa Francaviglia is a Senior Soil Carbon researcher at Consiglio per la ricerca in agricoltura e l'analisi dell'economia agraria (CREA) in IT. With 185 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.072377
+date: 2026-10-11T02:32:59.077074
 url: "/cdr-researcher-census/researchers/rosa-francaviglia-a5090724/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Conservation Agriculture and Soil Organic Carbon: Principles, Processes, Practices and Policy Options** (2023)
-   207 citations · General CDR
+   216 citations · General CDR
 
 2. **Yield trends, soil carbon fractions and sequestration in a rice-rice system of North-East India: Effect of 32 years of INM practices** (2021)
    35 citations · Soil Carbon
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    21 citations · Soil Carbon
 
 4. **Modeling Land Use and Climate Change Effects on Soil Organic Carbon Storage under Different Plantation Systems in Mizoram, Northeast India** (2023)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 5. **Editorial: Agricultural diversification: Benefits and barriers for sustainable soil management** (2022)
    7 citations · Soil Carbon

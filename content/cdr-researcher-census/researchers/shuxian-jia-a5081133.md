@@ -1,7 +1,7 @@
 ---
 title: "Shuxian Jia"
 description: "Shuxian Jia is a Mid-career Soil Carbon researcher at East China Normal University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.780546
+date: 2026-10-11T02:32:59.803768
 url: "/cdr-researcher-census/researchers/shuxian-jia-a5081133/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Decreased glomalin-related soil protein with nitrogen deposition in a 3-year-old Cunninghamia lanceolata plantation** (2021)
-   9 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 ## External Profiles
 

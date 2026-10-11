@@ -1,7 +1,7 @@
 ---
 title: "Runze Sun"
 description: "Runze Sun is a Mid-career Biochar researcher at University of Missouri in US. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.457670
+date: 2026-10-11T02:32:59.468879
 url: "/cdr-researcher-census/researchers/runze-sun-a5038236/"
 layout: "researcher"
 hiddenInHomeList: true

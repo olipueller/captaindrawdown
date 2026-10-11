@@ -1,7 +1,7 @@
 ---
 title: "Christopher M. Murray"
 description: "Christopher M. Murray is a Senior Ocean CDR researcher. With 69 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.311116
+date: 2026-10-11T02:32:59.316506
 url: "/cdr-researcher-census/researchers/christopher-m-murray-a5009725/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **The effects of elevated seawater pH and total alkalinity following dosing of sodium hydroxide in <i>Calanus finmarchicus</i>** (2026)
-   2 citations · General CDR
+   3 citations · General CDR
 
 2. **Biological thresholds for marine carbon dioxide removal (mCDR): the effect of changes in carbonate chemistry** (2026)
    2 citations · General CDR

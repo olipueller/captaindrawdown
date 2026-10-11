@@ -1,7 +1,7 @@
 ---
 title: "Anuj Saraswat"
 description: "Anuj Saraswat is a Mid-career Soil Carbon researcher at Al Ain University in AE. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.356701
+date: 2026-10-11T02:32:59.363109
 url: "/cdr-researcher-census/researchers/anuj-saraswat-a5041712/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    14 citations · Soil Carbon
 
 2. **Enhanced arsenic immobilization from contaminated soil to crops, carbon sequestration, and soil fertility using laterite Biochar composites** (2025)
-   9 citations · Biochar
+   10 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Nandita Das"
 description: "Nandita Das is a Mid-career General CDR researcher at Assam University in IN. With 38 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.577767
+date: 2026-10-11T02:32:59.593420
 url: "/cdr-researcher-census/researchers/nandita-das-a5000920/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Energy crop-based rhizoremediation and lignocellulosic biomass production as sustainable bioeconomy-driven solution for biofuel generation and waste mitigation** (2024)
-   31 citations · BECCS
+   32 citations · BECCS
 
 2. **Resilience of Microorganisms in the Face of Climate Change: Key Conclusions** (2025)
    2 citations · General CDR

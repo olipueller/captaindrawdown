@@ -1,7 +1,7 @@
 ---
 title: "Mari E. Deinhart"
 description: "Mari E. Deinhart is a Mid-career Ocean CDR researcher. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.378650
+date: 2026-10-11T02:33:00.414463
 url: "/cdr-researcher-census/researchers/mari-e-deinhart-a5007763/"
 layout: "researcher"
 hiddenInHomeList: true

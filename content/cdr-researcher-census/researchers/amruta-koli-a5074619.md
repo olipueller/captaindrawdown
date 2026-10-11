@@ -1,7 +1,7 @@
 ---
 title: "Amruta Koli"
 description: "Amruta Koli is a Mid-career Biochar researcher at Jodhpur National University in IN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.869808
+date: 2026-10-11T02:32:59.896630
 url: "/cdr-researcher-census/researchers/amruta-koli-a5074619/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Hierarchical Porous Activated Carbon from Wheat Bran Agro‐Waste: Applications in Carbon Dioxide Capture, Dye Removal, Oxygen and Hydrogen Evolution Reactions** (2023)
-   20 citations · Biochar
+   21 citations · Biochar
 
 ## External Profiles
 

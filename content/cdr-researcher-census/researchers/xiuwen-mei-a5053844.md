@@ -1,7 +1,7 @@
 ---
 title: "Xiuwen Mei"
 description: "Xiuwen Mei is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.990115
+date: 2026-10-11T02:33:00.020911
 url: "/cdr-researcher-census/researchers/xiuwen-mei-a5053844/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Crop planting promotes the stabilization of straw-derived carbon in fertilized soil by regulating soil stoichiometry** (2025)
-   5 citations
+   7 citations
 
 2. **Cultivating crop reduces microbial necromass carbon accumulation but contributes fungal derived- soil organic carbon formation in fertilized soils with straw addition** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 3. **[Distribution and sequestration of straw carbon in surface and deep soil aggregates under different fertilization treatments].** (2022)
    0 citations · Soil Carbon

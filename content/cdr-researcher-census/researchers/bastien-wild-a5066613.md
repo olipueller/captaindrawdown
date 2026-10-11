@@ -1,7 +1,7 @@
 ---
 title: "Bastien Wild"
 description: "Bastien Wild is a Senior Enhanced Weathering researcher at Centre National de la Recherche Scientifique in FR. With 56 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.338998
+date: 2026-10-11T02:32:59.344845
 url: "/cdr-researcher-census/researchers/bastien-wild-a5066613/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **The contribution of living organisms to rock weathering in the critical zone** (2022)
-   108 citations · Enhanced Weathering
+   111 citations · Enhanced Weathering
 
 2. **Nano- to Global-Scale Uncertainties in Terrestrial Enhanced Weathering** (2022)
-   84 citations · Enhanced Weathering
+   86 citations · Enhanced Weathering
 
 3. **Soil microbial community response to glacial rock flour amendment: insights from a microcosm experiment** (2025)
    0 citations · Enhanced Weathering

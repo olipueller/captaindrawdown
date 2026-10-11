@@ -1,7 +1,7 @@
 ---
 title: "Peng Ning"
 description: "Peng Ning is a Senior Soil Carbon researcher at China Agricultural University in CN. With 39 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.230073
+date: 2026-10-11T02:32:59.233316
 url: "/cdr-researcher-census/researchers/peng-ning-a5067853/"
 layout: "researcher"
 hiddenInHomeList: true

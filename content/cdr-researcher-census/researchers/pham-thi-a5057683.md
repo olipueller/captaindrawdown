@@ -1,7 +1,7 @@
 ---
 title: "Phạm Thị"
 description: "Phạm Thị is a Senior Biochar researcher at Ho Chi Minh City University of Technology in VN. With 38 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.763495
+date: 2026-10-11T02:32:59.786563
 url: "/cdr-researcher-census/researchers/pham-thi-a5057683/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Current application of seaweed waste for composting and biochar: A review** (2023)
-   67 citations · Biochar
+   68 citations · Biochar
 
 2. **Sorption of four antibiotics onto pristine biochar derived from macadamia nutshell** (2024)
-   50 citations · Biochar
+   51 citations · Biochar
 
 ## External Profiles
 

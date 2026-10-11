@@ -1,7 +1,7 @@
 ---
 title: "Singam Laxmana Swamy"
 description: "Singam Laxmana Swamy is a Mid-career Soil Carbon researcher at Indira Gandhi Agricultural University in IN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.659156
+date: 2026-10-11T02:32:59.678110
 url: "/cdr-researcher-census/researchers/singam-laxmana-swamy-a5112849/"
 layout: "researcher"
 hiddenInHomeList: true

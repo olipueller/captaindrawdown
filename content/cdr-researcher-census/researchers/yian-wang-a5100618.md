@@ -1,7 +1,7 @@
 ---
 title: "Yian Wang"
 description: "Yian Wang is a Senior Soil Carbon researcher at Jinggangshan University in CN. With 50 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.566455
+date: 2026-10-11T02:32:59.582127
 url: "/cdr-researcher-census/researchers/yian-wang-a5100618/"
 layout: "researcher"
 hiddenInHomeList: true

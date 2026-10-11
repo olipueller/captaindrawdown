@@ -1,7 +1,7 @@
 ---
 title: "Xiaoping Zhang"
 description: "Xiaoping Zhang is a Senior Soil Carbon researcher at China National Bamboo Research Center in CN. With 170 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.061381
+date: 2026-10-11T02:32:59.065810
 url: "/cdr-researcher-census/researchers/xiaoping-zhang-a5100363/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Determining changes in microbial nutrient limitations in bamboo soils under different management practices via enzyme stoichiometry** (2023)
-   26 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 2. **Changes in Soil Organic Carbon Fractions and Fungal Communities, Subsequent to Different Management Practices in Moso Bamboo Plantations** (2022)
-   25 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 3. **Metagenomic insights into the characteristics of soil microbial communities in the decomposing biomass of Moso bamboo forests under different management practices** (2022)
    16 citations
@@ -65,20 +65,20 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Forest management alters soil microbial necromass and its contribution to soil organic carbon in Moso bamboo plantations in subtropical China** (2024)
    13 citations · Soil Carbon
 
-6. **Linking Rock-Eval parameters to soil heterotrophic respiration and microbial residues in a black soil** (2023)
-   11 citations · Soil Carbon
+6. **Native Bamboo (Indosasa shibataeoides McClure) Invasion of Broadleaved Forests Promotes Soil Organic Carbon Sequestration in South China Karst** (2023)
+   10 citations · Soil Carbon
 
-7. **Native Bamboo (Indosasa shibataeoides McClure) Invasion of Broadleaved Forests Promotes Soil Organic Carbon Sequestration in South China Karst** (2023)
+7. **Linking Rock-Eval parameters to soil heterotrophic respiration and microbial residues in a black soil** (2023)
    10 citations · Soil Carbon
 
 8. **Introducing sedum affects root‐soil interface phytoremediation of heavy metals in <i>lei</i> bamboo forest and potential risks from edible bamboo shoots** (2022)
    4 citations
 
-9. **On- and off-year management-induced changes in microbial communities cause microbial necromass carbon variation in subtropical Moso bamboo forests** (2025)
+9. **Bamboo-sourced liquid microbial fertilizer improves soil quality and ecological multifunctionality via regulating microbial necromass carbon** (2026)
    2 citations · Soil Carbon
 
-10. **Bamboo-sourced microbial fertilizers impact soil carbon cycling: Metagenomic insights from Moso bamboo plantations** (2025)
-   1 citations · Soil Carbon
+10. **On- and off-year management-induced changes in microbial communities cause microbial necromass carbon variation in subtropical Moso bamboo forests** (2025)
+   2 citations · Soil Carbon
 
 ## External Profiles
 

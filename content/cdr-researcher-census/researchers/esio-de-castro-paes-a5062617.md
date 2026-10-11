@@ -1,7 +1,7 @@
 ---
 title: "Ésio de Castro Paes"
 description: "Ésio de Castro Paes is a Mid-career Soil Carbon researcher at Universidade Federal de Viçosa in BR. With 39 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.231357
+date: 2026-10-11T02:33:00.261517
 url: "/cdr-researcher-census/researchers/esio-de-castro-paes-a5062617/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon accumulation in the soil and biomass of macauba palm commercial plantations** (2024)
-   9 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 2. **Spatial Variability and Age Cropping of Macauba Palm Drive Stocks of Soil Organic Carbon** (2023)
    1 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Andrea Crosino"
 description: "Andrea Crosino is a Mid-career Soil Carbon researcher at University of Turin in IT. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.183641
+date: 2026-10-11T02:33:00.213418
 url: "/cdr-researcher-census/researchers/andrea-crosino-a5041215/"
 layout: "researcher"
 hiddenInHomeList: true

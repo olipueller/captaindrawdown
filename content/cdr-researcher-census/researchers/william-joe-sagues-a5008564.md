@@ -1,7 +1,7 @@
 ---
 title: "William Joe Sagues"
 description: "William Joe Sagues is a Mid-career General CDR researcher at North Carolina State University in US. With 59 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.212363
+date: 2026-10-11T02:32:59.216315
 url: "/cdr-researcher-census/researchers/william-joe-sagues-a5008564/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   62 citations · General CDR
+   61 citations · General CDR
 
 2. **Leveraging the bioeconomy for carbon drawdown** (2023)
-   58 citations · BECCS
+   60 citations · BECCS
 
 3. **A techno-economic assessment of carbon dioxide removal pathways via biochemical conversion of lignocellulose to biofuels and bioplastics** (2025)
-   12 citations · BECCS
+   13 citations · BECCS
 
 4. **Green Needle Coke Production from Pyrolysis Biocrude toward Bio-based Anode Material Manufacture: Biochar Fines Addition Effect as “Physical Template” on the Crystalline Order** (2023)
    11 citations · Biochar
@@ -69,7 +69,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    6 citations · BECCS
 
 7. **Biogenic carbon capture at pulp mills via sodium spiking and oxy-fuel calcination** (2025)
-   4 citations · BECCS
+   5 citations · BECCS
 
 8. **Coupling Circularity With Carbon Negativity in Food and Agriculture Systems** (2022)
    4 citations · General CDR
@@ -77,8 +77,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 9. **Gaseous carbon dioxide removal from composting of biomass and cotton textile waste** (2025)
    1 citations · Biochar
 
-10. **Quantifying atmospheric carbon removal at pulp and paper mills: a life cycle assessment across system boundaries** (2026)
-   0 citations · BECCS
+10. **Techno-economic assessment of atmospheric carbon removal via anaerobic digestion of biomass waste** (2026)
+   0 citations · General CDR
 
 ## External Profiles
 

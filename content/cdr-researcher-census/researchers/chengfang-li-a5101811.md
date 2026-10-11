@@ -1,7 +1,7 @@
 ---
 title: "Chengfang Li"
 description: "Chengfang Li is a Senior Soil Carbon researcher at College of Plant Science and Technology in CN. With 136 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.086133
+date: 2026-10-11T02:32:59.091040
 url: "/cdr-researcher-census/researchers/chengfang-li-a5101811/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of long-term no tillage and straw return on greenhouse gas emissions and crop yields from a rice-wheat system in central China** (2021)
-   125 citations · Soil Carbon
+   127 citations · Soil Carbon
 
 2. **Application rates of nitrogen fertilizers change the pattern of soil organic carbon fractions in a rice-wheat rotation system in China** (2022)
-   37 citations · Soil Carbon
+   36 citations · Soil Carbon
 
 3. **The rice–edible mushroom pattern promotes the transformation of composted straw-C to soil organic carbon** (2023)
    18 citations · Soil Carbon

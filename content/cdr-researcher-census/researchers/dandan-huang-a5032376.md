@@ -1,7 +1,7 @@
 ---
 title: "Dandan Huang"
 description: "Dandan Huang is a Senior Soil Carbon researcher at Chongqing University in CN. With 82 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.157267
+date: 2026-10-11T02:32:59.161722
 url: "/cdr-researcher-census/researchers/dandan-huang-a5032376/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effect of long-term tillage and cropping system on portion of fungal and bacterial necromass carbon in soil organic carbon** (2021)
-   37 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 2. **Contribution of rhizodeposit associated microbial groups to SOC varies with maize growth stages** (2022)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 3. **Tillage-induced effects on organic carbon in earthworm casts through changes in their physical and structural stability parameters** (2021)
    14 citations · Soil Carbon
 
 4. **Linking Rock-Eval parameters to soil heterotrophic respiration and microbial residues in a black soil** (2023)
-   11 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 5. **Effect of Longterm Tillage Management on Soil Organic Carbon Fractions and Enzyme Activities in Bulk and Rhizosphere Soils** (2025)
    3 citations · Soil Carbon

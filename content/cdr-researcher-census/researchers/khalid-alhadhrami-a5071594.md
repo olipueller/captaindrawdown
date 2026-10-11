@@ -1,7 +1,7 @@
 ---
 title: "Khalid Alhadhrami"
 description: "Khalid Alhadhrami is an Early-career BECCS researcher at King Abdullah Petroleum Studies and Research Center in SA. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.372666
+date: 2026-10-11T02:33:00.408226
 url: "/cdr-researcher-census/researchers/khalid-alhadhrami-a5071594/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Which bioenergy with carbon capture and storage (BECCS) pathways can provide net-negative emissions?** (2024)
-   31 citations · BECCS
+   33 citations · BECCS
 
 2. **Which Bioenergy with Carbon Capture and Storage (Beccs) Pathways Can Provide Net-Negative Emissions?** (2023)
    4 citations · BECCS

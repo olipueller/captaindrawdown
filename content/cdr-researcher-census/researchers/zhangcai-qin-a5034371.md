@@ -1,7 +1,7 @@
 ---
 title: "Zhangcai Qin"
 description: "Zhangcai Qin is a Senior Soil Carbon researcher at Sun Yat-sen University in CN. With 161 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.039698
+date: 2026-10-11T02:32:59.042786
 url: "/cdr-researcher-census/researchers/zhangcai-qin-a5034371/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,28 +51,28 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Global spatially explicit carbon emissions from land-use change over the past six decades (1961–2020)** (2024)
-   82 citations · General CDR
+   84 citations · General CDR
 
 2. **Increased straw return promoted soil organic carbon accumulation in China's croplands over the past 40 years** (2024)
-   42 citations · Soil Carbon
+   45 citations · Soil Carbon
 
 3. **Carbon sequestration in soil and biomass under native and non-native mangrove ecosystems** (2022)
-   31 citations · Soil Carbon
+   32 citations · Soil Carbon
 
-4. **Building soil to reduce climate change impacts on global crop yield** (2023)
-   30 citations · Soil Carbon
+4. **Land availability and policy commitments limit global climate mitigation from forestation** (2025)
+   29 citations · General CDR
 
-5. **Land availability and policy commitments limit global climate mitigation from forestation** (2025)
-   27 citations · General CDR
+5. **Building soil to reduce climate change impacts on global crop yield** (2023)
+   29 citations · Soil Carbon
 
 6. **Sustainable bioenergy contributes to cost-effective climate change mitigation in China** (2024)
-   19 citations · BECCS
+   21 citations · BECCS
 
 7. **Asynchronous Methane and Carbon Dioxide Fluxes Drive Temporal Variability of Mangrove Blue Carbon Sequestration** (2024)
-   18 citations
+   19 citations
 
 8. **Methane and nitrous oxide emissions and related microbial communities from mangrove stems on Qi'ao Island, Pearl River Estuary in China** (2024)
-   13 citations
+   14 citations
 
 9. **Animal waste use and implications to agricultural greenhouse gas emissions in the United States** (2021)
    12 citations · Soil Carbon

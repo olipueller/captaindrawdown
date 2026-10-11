@@ -1,7 +1,7 @@
 ---
 title: "Chen Zhang"
 description: "Chen Zhang is a Mid-career Soil Carbon researcher at Zhejiang University in CN. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.525968
+date: 2026-10-11T02:32:59.539878
 url: "/cdr-researcher-census/researchers/chen-zhang-a5100374/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    38 citations · Soil Carbon
 
 2. **Long-term nitrogen deposition suppresses microbial necromass carbon with depth- and season-specific patterns in forest soils** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 ## External Profiles
 

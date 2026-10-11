@@ -1,7 +1,7 @@
 ---
 title: "Lihua Xue"
 description: "Lihua Xue is a Mid-career Biochar researcher at Xinjiang Academy of Agricultural Sciences in CN. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.632794
+date: 2026-10-11T02:32:59.651386
 url: "/cdr-researcher-census/researchers/lihua-xue-a5100652/"
 layout: "researcher"
 hiddenInHomeList: true

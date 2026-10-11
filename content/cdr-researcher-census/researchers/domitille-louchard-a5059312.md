@@ -1,7 +1,7 @@
 ---
 title: "Domitille Louchard"
 description: "Domitille Louchard is a Mid-career Ocean CDR researcher at École Polytechnique Fédérale de Lausanne in CH. With 15 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.303597
+date: 2026-10-11T02:33:00.334614
 url: "/cdr-researcher-census/researchers/domitille-louchard-a5059312/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **The Impact of the Amazon on the Biological Pump and the Air‐Sea CO<sub>2</sub> Balance of the Western Tropical Atlantic** (2021)
-   27 citations · Ocean CDR
+   29 citations · Ocean CDR
 
 ## External Profiles
 

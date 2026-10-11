@@ -1,7 +1,7 @@
 ---
 title: "Qiuyu Liu"
 description: "Qiuyu Liu is a Senior Soil Carbon researcher at Xi'an Jiaotong University in CN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.542964
+date: 2026-10-11T02:32:59.557894
 url: "/cdr-researcher-census/researchers/qiuyu-liu-a5004438/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Positive effects of species mixing on soil carbon sequestration and water retention in global forest plantations** (2026)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Felix Lippkau"
 description: "Felix Lippkau is an Early-career DAC researcher at University of Stuttgart in DE. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.971970
+date: 2026-10-11T02:33:00.003629
 url: "/cdr-researcher-census/researchers/felix-lippkau-a5032400/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Global Potentials and Costs of Synfuels via Fischer–Tropsch Process** (2023)
-   19 citations · DAC
+   20 citations · DAC
 
 ## External Profiles
 

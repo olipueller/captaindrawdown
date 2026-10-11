@@ -1,7 +1,7 @@
 ---
 title: "Alvina Aui"
-description: "Alvina Aui is a Mid-career General CDR researcher at Lawrence Livermore National Laboratory in US. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.471402
+description: "Alvina Aui is a Mid-career DAC researcher at Lawrence Livermore National Laboratory in US. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:32:59.482691
 url: "/cdr-researcher-census/researchers/alvina-aui-a5086825/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Lawrence Livermore National Laboratory · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 10 |
 | Citations | 499 |
 | Publications | 18 |
-| CDR Focus | 16.7% |
+| CDR Focus | 22.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    6 citations · DAC
 
 2. **Land-based resources for engineered carbon dioxide removal in the United States exceed the expected needs** (2025)
-   2 citations · General CDR
+   4 citations · General CDR
 
 3. **Improving Performance and Cost of Direct Air Capture in Dynamic Conditions through Modeling and System Design** (2026)
    0 citations · DAC

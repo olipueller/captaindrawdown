@@ -1,7 +1,7 @@
 ---
 title: "Nicolas Greggio"
 description: "Nicolas Greggio is a Senior Biochar researcher at Università degli Studi di Bologna in IT. With 76 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.196163
+date: 2026-10-11T02:32:59.200135
 url: "/cdr-researcher-census/researchers/nicolas-greggio-a5073096/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Inclusion of biochar in a C dynamics model based on observations from an 8-year field experiment** (2022)
-   29 citations · Biochar
+   32 citations · Biochar
 
 2. **Benchmarking biochar with activated carbon for immobilizing leachable PAH and heterocyclic PAH in contaminated soils** (2023)
-   19 citations · Biochar
+   20 citations · Biochar
 
 3. **The Long-Term Experiment Platform for the Study of Agronomical and Environmental Effects of the Biochar: Methodological Framework** (2022)
    10 citations · Biochar
@@ -62,14 +62,14 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 4. **LTEP-Biochar** (2022)
    8 citations · Biochar
 
-5. **Combining soil microbial communities and greenhouse gas fluxes along a salinity gradient in temperate Mediterranean coastal wetlands** (2026)
+5. **LTEP-Biochar** (2022)
+   8 citations · Biochar
+
+6. **Combining soil microbial communities and greenhouse gas fluxes along a salinity gradient in temperate Mediterranean coastal wetlands** (2026)
    1 citations · Soil Carbon
 
-6. **Long Term Experiment Platform : proposition for a global site network and experience coordination for the study of agronomical and environmental effects of biochar** (2023)
+7. **Long Term Experiment Platform : proposition for a global site network and experience coordination for the study of agronomical and environmental effects of biochar** (2023)
    1 citations · Biochar
-
-7. **LTEP-Biochar** (2022)
-   0 citations · Biochar
 
 8. **Effects of Aging Under Field Conditions on Biochar Properties** (2023)
    0 citations · Biochar

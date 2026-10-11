@@ -1,7 +1,7 @@
 ---
 title: "Yurong Gao"
 description: "Yurong Gao is a Senior Biochar researcher at Chaohu University in CN. With 43 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.229964
+date: 2026-10-11T02:32:59.233218
 url: "/cdr-researcher-census/researchers/yurong-gao-a5100602/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    12 citations · Biochar
 
 2. **Optimizing biochar for carbon sequestration: a synergistic approach using machine learning and natural language processing** (2025)
-   7 citations · Biochar
+   9 citations · Biochar
 
 3. **Interpretable Machine Learning for Predicting Heavy Metal Removal and Optimizing Biochar Characteristics** (2024)
    1 citations · Biochar

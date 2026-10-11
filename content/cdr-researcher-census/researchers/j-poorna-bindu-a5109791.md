@@ -1,7 +1,7 @@
 ---
 title: "J. Poorna Bindu"
 description: "J. Poorna Bindu is a Mid-career Biochar researcher at Central Tobacco Research Institute in IN. With 17 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.999224
+date: 2026-10-11T02:33:00.030222
 url: "/cdr-researcher-census/researchers/j-poorna-bindu-a5109791/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A review on biochar’s effect on soil properties and crop growth** (2023)
-   150 citations · Biochar
+   156 citations · Biochar
 
 ## External Profiles
 

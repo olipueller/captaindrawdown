@@ -1,7 +1,7 @@
 ---
 title: "Narges Hemati Matin"
 description: "Narges Hemati Matin is a Mid-career Biochar researcher at Slovak University of Agriculture in Nitra in SK. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.703204
+date: 2026-10-11T02:32:59.723521
 url: "/cdr-researcher-census/researchers/narges-hemati-matin-a5038823/"
 layout: "researcher"
 hiddenInHomeList: true

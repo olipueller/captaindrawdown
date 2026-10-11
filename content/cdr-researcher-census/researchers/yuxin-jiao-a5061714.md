@@ -1,7 +1,7 @@
 ---
 title: "Yuxin Jiao"
 description: "Yuxin Jiao is a Mid-career Biochar researcher at Guizhou Minzu University in CN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.361768
+date: 2026-10-11T02:33:00.397490
 url: "/cdr-researcher-census/researchers/yuxin-jiao-a5061714/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A scientometric review of biochar preparation research from 2006 to 2019** (2021)
-   44 citations · Biochar
+   46 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "J. M. S. Tomar"
 description: "J. M. S. Tomar is a Senior Soil Carbon researcher at ICAR Indian Institute of Soil and Water Conservation in IN. With 59 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.254885
+date: 2026-10-11T02:32:59.258821
 url: "/cdr-researcher-census/researchers/j-m-s-tomar-a5090965/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    15 citations · Soil Carbon
 
 3. **Distribution of soil carbon fractions under different bamboo species in northwest Himalayan foothills, India** (2022)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 4. **Tree species traits and soil biochemical properties drive carbon stability and temperature sensitivity of soil aggregates in agroforestry systems of subtropical northeast India** (2025)
    4 citations · Soil Carbon

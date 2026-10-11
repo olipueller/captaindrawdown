@@ -1,7 +1,7 @@
 ---
 title: "Chenghan Tang"
 description: "Chenghan Tang is a Mid-career Biochar researcher at Southwest Jiaotong University in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.359205
+date: 2026-10-11T02:33:00.393992
 url: "/cdr-researcher-census/researchers/chenghan-tang-a5051919/"
 layout: "researcher"
 hiddenInHomeList: true

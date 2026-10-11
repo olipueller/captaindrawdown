@@ -1,7 +1,7 @@
 ---
 title: "Ifeanyi Chidozie Oli"
 description: "Ifeanyi Chidozie Oli is a Mid-career Soil Carbon researcher at Hohai University in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.376628
+date: 2026-10-11T02:33:00.412067
 url: "/cdr-researcher-census/researchers/ifeanyi-chidozie-oli-a5044635/"
 layout: "researcher"
 hiddenInHomeList: true

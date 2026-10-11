@@ -1,7 +1,7 @@
 ---
 title: "Zeqiang Sun"
 description: "Zeqiang Sun is a Senior Soil Carbon researcher at Ministry of Agriculture in BW. With 45 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.624151
+date: 2026-10-11T02:32:59.642337
 url: "/cdr-researcher-census/researchers/zeqiang-sun-a5015581/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Soil Carbon
 
 2. **Straw Incorporation and Nitrogen Fertilization Enhance Soil Organic Carbon Sequestration by Promoting Aggregate Stability and Iron Oxide Transformation** (2025)
-   7 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 3. **Response of the Stabilization of Organic Carbon to Straw Incorporation and Nitrogen Application: Evidence from Carbon Fractions and Bacterial Survival Strategies** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Juan Pedro Martín‐Sanz"
 description: "Juan Pedro Martín‐Sanz is a Mid-career Soil Carbon researcher at Universidad Complutense de Madrid in ES. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.865626
+date: 2026-10-11T02:32:59.892238
 url: "/cdr-researcher-census/researchers/juan-pedro-martinsanz-a5086924/"
 layout: "researcher"
 hiddenInHomeList: true

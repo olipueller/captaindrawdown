@@ -1,7 +1,7 @@
 ---
 title: "Zahiruddin Fitri Abu Hassan"
 description: "Zahiruddin Fitri Abu Hassan is a Mid-career Enhanced Weathering researcher at University of Malaya in MY. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.270945
+date: 2026-10-11T02:32:59.275065
 url: "/cdr-researcher-census/researchers/zahiruddin-fitri-abu-hassan-a5054368/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Critical review of methods, mechanisms, and feedstocks in mineral carbonation for enhanced carbon neutrality: From waste to climate solution** (2025)
-   19 citations · Enhanced Weathering
+   22 citations · Enhanced Weathering
 
 ## External Profiles
 

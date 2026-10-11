@@ -1,7 +1,7 @@
 ---
 title: "Sourena Sami"
 description: "Sourena Sami is a Mid-career DAC researcher at Hakim Sabzevari University in IR. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.988512
+date: 2026-10-11T02:33:00.019500
 url: "/cdr-researcher-census/researchers/sourena-sami-a5083250/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **A comprehensive 5E analysis of synthetic natural gas production through direct air capture and renewable hydrogen: Based on a specified-scale residential application** (2025)
-   6 citations · DAC
+   7 citations · DAC
 
 ## External Profiles
 

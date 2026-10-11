@@ -1,7 +1,7 @@
 ---
 title: "Philipp Günther"
 description: "Philipp Günther is a Mid-career General CDR researcher. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.987959
+date: 2026-10-11T02:33:00.019059
 url: "/cdr-researcher-census/researchers/philipp-gunther-a5024676/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    37 citations · BECCS
 
 2. **Balancing climate goals and biodiversity protection: legal implications of the 30x30 target for land-based carbon removal** (2023)
-   18 citations · General CDR
+   19 citations · General CDR
 
 3. **Correction: Günther, P.; Ekardt, F. Human Rights and Large-Scale Carbon Dioxide Removal: Potential Limits to BECCS and DACCS Deployment. Land 2022, 11, 2153** (2024)
    0 citations · BECCS

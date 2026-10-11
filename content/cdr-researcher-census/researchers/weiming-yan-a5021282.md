@@ -1,7 +1,7 @@
 ---
 title: "Weiming Yan"
 description: "Weiming Yan is a Senior Soil Carbon researcher at Shenzhen University in CN. With 69 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.072160
+date: 2026-10-11T02:32:59.076836
 url: "/cdr-researcher-census/researchers/weiming-yan-a5021282/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Optimizing cover crop practices as a sustainable solution for global agroecosystem services** (2024)
-   102 citations · Soil Carbon
+   109 citations · Soil Carbon
 
 2. **Shifts in the fungal community promote soil carbon accumulation in microaggregates during long‐term secondary succession** (2025)
-   15 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 3. **Antagonistic and synergistic interactions dominate GHGs fluxes, soil properties and yield responses to biochar and N addition** (2023)
    12 citations · Biochar

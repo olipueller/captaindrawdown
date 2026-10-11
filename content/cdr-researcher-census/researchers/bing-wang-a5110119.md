@@ -1,7 +1,7 @@
 ---
 title: "Bing Wang"
 description: "Bing Wang is a Senior Enhanced Weathering researcher at Cornell University in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.991504
+date: 2026-10-11T02:33:00.022111
 url: "/cdr-researcher-census/researchers/bing-wang-a5110119/"
 layout: "researcher"
 hiddenInHomeList: true

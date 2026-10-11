@@ -1,7 +1,7 @@
 ---
 title: "Zhouyao He"
 description: "Zhouyao He is a Senior Soil Carbon researcher at Sichuan Agricultural University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.274109
+date: 2026-10-11T02:33:00.304121
 url: "/cdr-researcher-census/researchers/zhouyao-he-a5017853/"
 layout: "researcher"
 hiddenInHomeList: true

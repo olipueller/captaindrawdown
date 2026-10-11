@@ -1,7 +1,7 @@
 ---
 title: "Yun‐Ya Yang"
 description: "Yun‐Ya Yang is a Senior Enhanced Weathering researcher at Alameda Hospital in US. With 45 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.125066
+date: 2026-10-11T02:32:59.129743
 url: "/cdr-researcher-census/researchers/yunya-yang-a5059875/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Harnessing Microbes to Weather Native Silicates in Agricultural Soils for Scalable Carbon Dioxide Removal** (2025)
-   15 citations · Enhanced Weathering
+   16 citations · Enhanced Weathering
 
 2. **Quantification of soil inorganic carbon using sulfamic acid and gas chromatography** (2025)
    4 citations · General CDR
 
-3. **Microbially-enhanced silicate weathering in agricultural soils to remove carbon dioxide** (2024)
+3. **Synergistic Effects of a Microbial Amendment and Crushed Basalt: Soil Geochemical and Microbial Responses** (2026)
    2 citations · Enhanced Weathering
 
-4. **Synergistic Effects of a Microbial Amendment and Crushed Basalt: Soil Geochemical and Microbial Responses** (2026)
-   1 citations · Enhanced Weathering
+4. **Microbially-enhanced silicate weathering in agricultural soils to remove carbon dioxide** (2024)
+   2 citations · Enhanced Weathering
 
 5. **Microbially-enhanced silicate weathering in agricultural soils to remove carbon dioxide** (2024)
    1 citations

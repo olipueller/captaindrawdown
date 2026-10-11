@@ -1,7 +1,7 @@
 ---
 title: "Kaylin Lee"
 description: "Kaylin Lee is a Mid-career General CDR researcher at International Council on Clean Transportation in DE. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.570142
+date: 2026-10-11T02:32:59.586130
 url: "/cdr-researcher-census/researchers/kaylin-lee-a5013882/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Fair distributions of carbon dioxide removal obligations and implications for effective national net-zero targets** (2021)
-   37 citations · General CDR
+   36 citations · General CDR
 
 ## External Profiles
 

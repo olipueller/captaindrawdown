@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Kordzanganeh"
 description: "Mohammad Kordzanganeh is a Mid-career General CDR researcher. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.589683
+date: 2026-10-11T02:32:59.606414
 url: "/cdr-researcher-census/researchers/mohammad-kordzanganeh-a5041400/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Quantum Algorithms Applied to Satellite Mission Planning for Earth Observation** (2023)
-   64 citations · General CDR
+   60 citations · General CDR
 
 2. **Quantum algorithms applied to satellite mission planning for Earth observation** (2023)
    1 citations · General CDR

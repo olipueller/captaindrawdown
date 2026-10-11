@@ -1,7 +1,7 @@
 ---
 title: "Niel Verbrigghe"
 description: "Niel Verbrigghe is a Mid-career Soil Carbon researcher at Vlaams Instituut voor Biotechnologie in BE. With 34 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.916216
+date: 2026-10-11T02:32:59.964637
 url: "/cdr-researcher-census/researchers/niel-verbrigghe-a5008982/"
 layout: "researcher"
 hiddenInHomeList: true

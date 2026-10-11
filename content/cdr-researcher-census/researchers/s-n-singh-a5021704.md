@@ -1,7 +1,7 @@
 ---
 title: "S. N. Singh"
 description: "S. N. Singh is a Senior Soil Carbon researcher at Indira Gandhi Delhi Technical University for Women in IN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.731387
+date: 2026-10-11T02:32:59.752881
 url: "/cdr-researcher-census/researchers/s-n-singh-a5021704/"
 layout: "researcher"
 hiddenInHomeList: true

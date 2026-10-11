@@ -1,7 +1,7 @@
 ---
 title: "Kushal Sachan"
 description: "Kushal Sachan is a Mid-career Soil Carbon researcher at Chandra Shekhar Azad University of Agriculture and Technology in IN. With 32 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.965476
+date: 2026-10-11T02:32:59.996722
 url: "/cdr-researcher-census/researchers/kushal-sachan-a5019767/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil Microbes Expertly Balancing Nutrient Demands and Environmental Preservation and Ensuring the Delicate Stability of Our Ecosystems- A Review** (2023)
-   33 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 2. **The Revolutionary Impact of Regenerative Agriculture on Ecosystem Restoration and Land Vitality: A Review** (2024)
    8 citations · General CDR

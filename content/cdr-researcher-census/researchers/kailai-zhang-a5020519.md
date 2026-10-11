@@ -1,7 +1,7 @@
 ---
 title: "Kailai Zhang"
 description: "Kailai Zhang is a Mid-career Biochar researcher at Liaoning University in CN. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.239707
+date: 2026-10-11T02:32:59.243270
 url: "/cdr-researcher-census/researchers/kailai-zhang-a5020519/"
 layout: "researcher"
 hiddenInHomeList: true

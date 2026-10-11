@@ -1,7 +1,7 @@
 ---
 title: "Yuyao Zhu"
 description: "Yuyao Zhu is a Mid-career General CDR researcher at The University of Sydney in AU. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.392200
+date: 2026-10-11T02:32:59.400456
 url: "/cdr-researcher-census/researchers/yuyao-zhu-a5054888/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Enhanced food system efficiency is the key to China’s 2060 carbon neutrality target** (2023)
-   83 citations · General CDR
+   81 citations · General CDR
 
 ## External Profiles
 

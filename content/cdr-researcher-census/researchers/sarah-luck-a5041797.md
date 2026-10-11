@@ -1,7 +1,7 @@
 ---
 title: "Sarah Lück"
 description: "Sarah Lück is a Mid-career General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.419510
+date: 2026-10-11T02:32:59.429514
 url: "/cdr-researcher-census/researchers/sarah-luck-a5041797/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Assessing global urban CO2 removal** (2024)
-   61 citations · General CDR
+   63 citations · General CDR
 
 2. **An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage** (2025)
-   45 citations · General CDR
+   54 citations · General CDR
 
 3. **A taxonomy to map evidence on the co-benefits, challenges, and limits of carbon dioxide removal** (2024)
-   37 citations · General CDR
+   40 citations · General CDR
 
 4. **Scientific literature on carbon dioxide removal revealed as much larger through AI-enhanced systematic mapping** (2025)
-   17 citations · General CDR
+   20 citations · General CDR
 
 5. **Scientific literature on carbon dioxide removal much larger than previously suggested: insights from an AI-enhanced systematic map** (2024)
    7 citations · General CDR
 
 6. **Governance of carbon dioxide removal: an AI-enhanced systematic map of the scientific literature** (2024)
-   3 citations · General CDR
+   4 citations · General CDR
 
 7. **A new taxonomy to map evidence on carbon dioxide removal side effects** (2023)
    3 citations · General CDR
@@ -74,11 +74,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 8. **Towards carbon-neutral cities: an assessment of urban CO2 removal and albedo management** (2023)
    3 citations · General CDR
 
-9. **A Coding Protocol for Labeling Scientific Literature on Carbon Dioxide Removal to Train Machine Learning Models v1** (2025)
-   1 citations · General CDR
+9. **An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering** (2026)
+   1 citations · Enhanced Weathering
 
-10. **An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering** (2026)
-   0 citations · Enhanced Weathering
+10. **A Coding Protocol for Labeling Scientific Literature on Carbon Dioxide Removal to Train Machine Learning Models v1** (2025)
+   1 citations · General CDR
 
 ## External Profiles
 

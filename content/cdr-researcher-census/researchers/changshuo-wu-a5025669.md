@@ -1,7 +1,7 @@
 ---
 title: "Changshuo Wu"
 description: "Changshuo Wu is an Early-career Biochar researcher at Liaoning Normal University in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.133763
+date: 2026-10-11T02:33:00.164284
 url: "/cdr-researcher-census/researchers/changshuo-wu-a5025669/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Preparation of porous biochar from heavy bio-oil for adsorption of methylene blue in wastewater** (2022)
-   52 citations · Biochar
+   54 citations · Biochar
 
 2. **Preparation of Porous Biochar from Heavy Bio-Oil for Adsorption of Methylene Blue in Wastewater** (2022)
    1 citations · Biochar

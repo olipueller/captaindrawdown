@@ -1,7 +1,7 @@
 ---
 title: "Xiaocui Xie"
 description: "Xiaocui Xie is a Mid-career Biochar researcher at Zhejiang A & F University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.867021
+date: 2026-10-11T02:32:59.893744
 url: "/cdr-researcher-census/researchers/xiaocui-xie-a5108715/"
 layout: "researcher"
 hiddenInHomeList: true

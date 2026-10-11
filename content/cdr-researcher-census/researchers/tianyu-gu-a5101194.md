@@ -1,7 +1,7 @@
 ---
 title: "Tianyu Gu"
 description: "Tianyu Gu is a Mid-career Biochar researcher at Hunan University of Science and Technology in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.047487
+date: 2026-10-11T02:33:00.078187
 url: "/cdr-researcher-census/researchers/tianyu-gu-a5101194/"
 layout: "researcher"
 hiddenInHomeList: true

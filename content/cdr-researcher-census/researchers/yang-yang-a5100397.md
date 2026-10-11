@@ -1,7 +1,7 @@
 ---
 title: "Yang Yang"
 description: "Yang Yang is a Mid-career Soil Carbon researcher. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.816467
+date: 2026-10-11T02:32:59.840922
 url: "/cdr-researcher-census/researchers/yang-yang-a5100397/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon storage of the forest and its spatial pattern in Tibet, China** (2021)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 ## External Profiles
 

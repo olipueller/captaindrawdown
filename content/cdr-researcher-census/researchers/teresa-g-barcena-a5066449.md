@@ -1,7 +1,7 @@
 ---
 title: "Téresa G. Bárcena"
 description: "Téresa G. Bárcena is a Senior Soil Carbon researcher at Norwegian Institute of Bioeconomy Research in NO. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.340210
+date: 2026-10-11T02:32:59.346055
 url: "/cdr-researcher-census/researchers/teresa-g-barcena-a5066449/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Achievable agricultural soil carbon sequestration across Europe from country‐specific estimates** (2021)
-   75 citations · General CDR
+   78 citations · General CDR
 
 2. **Boreal tree species change as a climate mitigation strategy: impact on ecosystem C and N stocks and soil nutrient levels** (2021)
    20 citations · Soil Carbon
 
 3. **Forage vs. Grain Legumes: Contrasting Effects on Soil Organic Carbon Stocks–Evidence From 30 European Field Experiments** (2025)
-   12 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 4. **Soil Organic Carbon Sequestration over 50 Years in Resampled Afforestation Chronosequences on Former Cropland** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 5. **The fate of cover crop carbon inputs in a Norwegian soil** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

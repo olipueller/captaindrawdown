@@ -1,7 +1,7 @@
 ---
 title: "Anders Ødegård"
 description: "Anders Ødegård is a Mid-career DAC researcher at SINTEF in NO. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.301462
+date: 2026-10-11T02:33:00.332599
 url: "/cdr-researcher-census/researchers/anders-degard-a5047998/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Renewable hydrogen and synthetic fuels versus fossil fuels for trucking, shipping and aviation: A holistic cost model** (2023)
-   76 citations · DAC
+   77 citations · DAC
 
 ## External Profiles
 

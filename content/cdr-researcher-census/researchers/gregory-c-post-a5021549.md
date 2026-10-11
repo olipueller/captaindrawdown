@@ -1,7 +1,7 @@
 ---
 title: "Gregory C. Post"
 description: "Gregory C. Post is a Mid-career Soil Carbon researcher at Clemson University in US. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.843689
+date: 2026-10-11T02:32:59.869671
 url: "/cdr-researcher-census/researchers/gregory-c-post-a5021549/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · General CDR
 
 2. **Quantifying Damages to Soil Health and Emissions from Land Development in the State of Illinois (USA)** (2023)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 3. **Spatiotemporal Analysis of Soil Quality Degradation and Emissions in the State of Iowa (USA)** (2024)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 4. **Question of Liability for Emissions from Land Development in Relation to New York State Climate Change Plan** (2023)
    2 citations · General CDR

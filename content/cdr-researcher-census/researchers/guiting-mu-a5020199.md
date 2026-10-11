@@ -1,7 +1,7 @@
 ---
 title: "Guiting Mu"
 description: "Guiting Mu is a Mid-career Soil Carbon researcher at Guizhou Academy of Sciences in CN. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.113149
+date: 2026-10-11T02:33:00.144051
 url: "/cdr-researcher-census/researchers/guiting-mu-a5020199/"
 layout: "researcher"
 hiddenInHomeList: true

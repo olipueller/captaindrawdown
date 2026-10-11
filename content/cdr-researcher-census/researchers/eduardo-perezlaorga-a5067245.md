@@ -1,7 +1,7 @@
 ---
 title: "Eduardo Pérez‐Laorga"
 description: "Eduardo Pérez‐Laorga is a Mid-career General CDR researcher at Generalitat Valenciana in ES. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.247948
+date: 2026-10-11T02:33:00.277818
 url: "/cdr-researcher-census/researchers/eduardo-perezlaorga-a5067245/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The Database of European Forest Insect and Disease Disturbances: <scp>DEFID2</scp>** (2023)
-   36 citations · General CDR
+   37 citations · General CDR
 
 ## External Profiles
 

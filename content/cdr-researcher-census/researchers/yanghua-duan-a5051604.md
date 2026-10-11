@@ -1,7 +1,7 @@
 ---
 title: "Yanghua Duan"
 description: "Yanghua Duan is a Mid-career Enhanced Weathering researcher at Colorado State University in US. With 27 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.305857
+date: 2026-10-11T02:32:59.311113
 url: "/cdr-researcher-census/researchers/yanghua-duan-a5051604/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    32 citations · Enhanced Weathering
 
 2. **Combined UV/H2O2 and biochar processes for enhanced removal of contaminants of emerging concern in dry wells** (2025)
-   6 citations · Biochar
+   8 citations · Biochar
 
 ## External Profiles
 

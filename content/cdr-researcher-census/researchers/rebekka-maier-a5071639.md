@@ -1,7 +1,7 @@
 ---
 title: "Rebekka Maier"
 description: "Rebekka Maier is a Mid-career Soil Carbon researcher at University of Freiburg in DE. With 21 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.028904
+date: 2026-10-11T02:33:00.060190
 url: "/cdr-researcher-census/researchers/rebekka-maier-a5071639/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,11 +47,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Gliricidia intercropping supports soil organic matter stabilization at Makoka Research Station, Malawi** (2023)
-   9 citations · Soil Carbon
+1. **Hydrological and pedological effects of combining Italian alder and blackberries in an agroforestry windbreak system in South Africa** (2024)
+   8 citations
 
-2. **Hydrological and pedological effects of combining Italian alder and blackberries in an agroforestry windbreak system in South Africa** (2024)
-   5 citations
+2. **Gliricidia intercropping supports soil organic matter stabilization at Makoka Research Station, Malawi** (2023)
+   8 citations · Soil Carbon
 
 3. **Hydrological and pedological effects of combining Italian alder and blackberries in an agroforestry windbreak system in South Africa** (2023)
    3 citations
@@ -59,14 +59,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Multivariate characterisation of a blackberry–alder agroforestry system in South Africa: hydrological, pedological, dendrological and meteorological measurements** (2024)
    2 citations
 
-5. **Coupling of soil carbon and water cycles in two agroforestry systems in Malawi** (2025)
+5. **Coupling of soil carbon and water dynamics in two agroforestry systems in Malawi** (2026)
+   1 citations · Soil Carbon
+
+6. **Coupling of soil carbon and water cycles in two agroforestry systems in Malawi** (2025)
    1 citations · General CDR
 
-6. **Coupling of soil carbon and water dynamics in two agroforestry systems in Malawi** (2026)
-   0 citations
-
 7. **Coupling of soil carbon and water dynamics in two agroforestry systems in Malawi** (2026)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

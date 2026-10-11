@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Syakir"
 description: "Muhammad Syakir is a Senior Soil Carbon researcher at Universiti Sains Malaysia in MY. With 27 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.101743
+date: 2026-10-11T02:33:00.132118
 url: "/cdr-researcher-census/researchers/muhammad-syakir-a5102899/"
 layout: "researcher"
 hiddenInHomeList: true

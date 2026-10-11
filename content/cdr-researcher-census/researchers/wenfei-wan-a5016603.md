@@ -1,7 +1,7 @@
 ---
 title: "Wenfei Wan"
 description: "Wenfei Wan is a Mid-career General CDR researcher at China Electronic Product Reliability and Environmental Test Institute in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.073557
+date: 2026-10-11T02:33:00.103715
 url: "/cdr-researcher-census/researchers/wenfei-wan-a5016603/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A Numerical Study on Removal of CO<sub>2</sub> by 2-(tert-Butylamino) Ethanol in a Hollow Fiber Membrane Contactor** (2022)
-   8 citations · General CDR
+   9 citations · General CDR
 
 ## External Profiles
 

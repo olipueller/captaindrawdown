@@ -1,7 +1,7 @@
 ---
 title: "Jingwen Chen"
 description: "Jingwen Chen is a Senior Soil Carbon researcher at Institute of Genetics and Developmental Biology in CN. With 33 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.621241
+date: 2026-10-11T02:32:59.638886
 url: "/cdr-researcher-census/researchers/jingwen-chen-a5107539/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    25 citations · Soil Carbon
 
 2. **Soil Organic Carbon Sequestration after 20-Year Afforestation of Mangrove Plantations on Qi’ao Island, Southern China** (2023)
-   7 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 3. **Soil Organic Carbon Stock, Source, and Stability after 20-Year Mangrove Afforestation in Southern China** (2023)
    1 citations · Soil Carbon

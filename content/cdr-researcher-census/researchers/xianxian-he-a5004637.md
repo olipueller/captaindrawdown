@@ -1,7 +1,7 @@
 ---
 title: "Xianxian He"
 description: "Xianxian He is a Mid-career Soil Carbon researcher at Beijing Institute of Technology in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.443571
+date: 2026-10-11T02:32:59.453838
 url: "/cdr-researcher-census/researchers/xianxian-he-a5004637/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects on soil organic carbon accumulation and mineralization of long-term vegetation restoration in Southwest China karst** (2022)
-   55 citations · Soil Carbon
+   57 citations · Soil Carbon
 
 2. **Impact of Nitrogen Fertilizer Application on Soil Organic Carbon and Its Active Fractions in Moso Bamboo Forests** (2024)
-   12 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 ## External Profiles
 

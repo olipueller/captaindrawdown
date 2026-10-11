@@ -1,7 +1,7 @@
 ---
 title: "Jimena E. Chaves"
 description: "Jimena E. Chaves is a Senior Soil Carbon researcher at National University of Tierra del Fuego in AR. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.621513
+date: 2026-10-11T02:32:59.639213
 url: "/cdr-researcher-census/researchers/jimena-e-chaves-a5036408/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Forest carbon management strategies influence storage compartmentalization in <i>Nothofagus antarctica</i> forest landscapes** (2023)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 2. **Carbon Storage in Silvopastoral Systems and Other Land Uses, Argentina** (2024)
    3 citations · General CDR

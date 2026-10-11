@@ -1,7 +1,7 @@
 ---
 title: "Atcharaporn Youngwilai"
 description: "Atcharaporn Youngwilai is a Mid-career Biochar researcher. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.137973
+date: 2026-10-11T02:33:00.168390
 url: "/cdr-researcher-census/researchers/atcharaporn-youngwilai-a5041587/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Comparative investigation of known and unknown disinfection by-product precursor removal and microbial community from biological biochar and activated carbon filters** (2024)
-   10 citations · Biochar
+   12 citations · Biochar
 
 ## External Profiles
 

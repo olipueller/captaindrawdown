@@ -1,7 +1,7 @@
 ---
 title: "Siqi Yang"
 description: "Siqi Yang is a Mid-career General CDR researcher at Yunnan Normal University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.385438
+date: 2026-10-11T02:33:00.422302
 url: "/cdr-researcher-census/researchers/siqi-yang-a5069395/"
 layout: "researcher"
 hiddenInHomeList: true

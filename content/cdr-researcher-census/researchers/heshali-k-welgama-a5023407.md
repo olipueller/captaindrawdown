@@ -1,7 +1,7 @@
 ---
 title: "Heshali K. Welgama"
 description: "Heshali K. Welgama is a Mid-career DAC researcher at University at Buffalo, State University of New York in US. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.307584
+date: 2026-10-11T02:33:00.338444
 url: "/cdr-researcher-census/researchers/heshali-k-welgama-a5023407/"
 layout: "researcher"
 hiddenInHomeList: true

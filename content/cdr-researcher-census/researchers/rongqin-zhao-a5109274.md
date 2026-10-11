@@ -1,7 +1,7 @@
 ---
 title: "Rongqin Zhao"
 description: "Rongqin Zhao is a Senior Soil Carbon researcher at North China University of Water Resources and Electric Power in CN. With 79 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.091460
+date: 2026-10-11T02:32:59.096040
 url: "/cdr-researcher-census/researchers/rongqin-zhao-a5109274/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Net effects of conservation agriculture principles on sustainable land use: A synthesis** (2021)
-   74 citations · Soil Carbon
+   76 citations · Soil Carbon
 
 2. **The net and combined effects of minimum tillage and straw mulching on carbon accumulation in global croplands** (2022)
    13 citations · General CDR

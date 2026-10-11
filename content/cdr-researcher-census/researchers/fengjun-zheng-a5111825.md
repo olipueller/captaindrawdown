@@ -1,7 +1,7 @@
 ---
 title: "Fengjun Zheng"
 description: "Fengjun Zheng is a Senior Soil Carbon researcher at Henan Agricultural University in CN. With 25 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.318591
+date: 2026-10-11T02:32:59.324407
 url: "/cdr-researcher-census/researchers/fengjun-zheng-a5111825/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,16 +48,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A global meta‐analysis of the impacts of no‐tillage on soil aggregation and aggregate‐associated organic carbon** (2021)
-   131 citations · Soil Carbon
+   130 citations · Soil Carbon
 
 2. **Microbial regulation of aggregate stability and carbon sequestration under long-term conservation tillage and nitrogen application** (2023)
    66 citations · Soil Carbon
 
 3. **Altered microbial resource limitation regulates soil organic carbon sequestration based on ecoenzyme stoichiometry under long‐term tillage systems** (2022)
-   37 citations · Soil Carbon
+   40 citations · Soil Carbon
 
 4. **Conservation tillage and wheat straw managements improve soil organic carbon sequestration via calcium-mediated microbial communities and aggregate stability in Calcaric Cambisols** (2025)
-   9 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 ## External Profiles
 

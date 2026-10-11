@@ -1,7 +1,7 @@
 ---
 title: "Sarah Vieira Novais"
 description: "Sarah Vieira Novais is a Mid-career Biochar researcher. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.577566
+date: 2026-10-11T02:32:59.593204
 url: "/cdr-researcher-census/researchers/sarah-vieira-novais-a5035054/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Short‐term biochar effects on greenhouse gas emissions and phosphorus availability for maize** (2021)
-   3 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

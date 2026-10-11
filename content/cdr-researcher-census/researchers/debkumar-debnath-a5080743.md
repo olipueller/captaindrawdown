@@ -1,7 +1,7 @@
 ---
 title: "Debkumar Debnath"
 description: "Debkumar Debnath is a Mid-career Soil Carbon researcher at Michigan State University in US. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.258881
+date: 2026-10-11T02:33:00.288689
 url: "/cdr-researcher-census/researchers/debkumar-debnath-a5080743/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Enriched Molecular-Level View of Saline Wetland Soil Carbon by Sensitivity-Enhanced Solid-State NMR** (2024)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 2. **Chronological Molecular Fingerprint of Wetland Soil by Sensitivity-Enhanced Solid-State NMR** (2023)
    1 citations · Soil Carbon

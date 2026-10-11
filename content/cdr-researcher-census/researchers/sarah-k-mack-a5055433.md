@@ -1,7 +1,7 @@
 ---
 title: "Sarah K. Mack"
 description: "Sarah K. Mack is a Senior Soil Carbon researcher at University of Stuttgart in DE. With 23 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.518633
+date: 2026-10-11T02:32:59.532382
 url: "/cdr-researcher-census/researchers/sarah-k-mack-a5055433/"
 layout: "researcher"
 hiddenInHomeList: true

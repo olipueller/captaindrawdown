@@ -1,7 +1,7 @@
 ---
 title: "Ziyuan Yang"
 description: "Ziyuan Yang is a Senior Biochar researcher at Hirosaki University in JP. With 15 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.629870
+date: 2026-10-11T02:32:59.648624
 url: "/cdr-researcher-census/researchers/ziyuan-yang-a5090296/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Internal and external synergistic CO2 capture of cement-based materials using modified biochar** (2025)
-   12 citations · Biochar
+   13 citations · Biochar
 
 ## External Profiles
 

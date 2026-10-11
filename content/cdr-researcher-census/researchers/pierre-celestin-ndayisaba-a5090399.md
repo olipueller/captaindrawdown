@@ -1,7 +1,7 @@
 ---
 title: "Pierre Celestin Ndayisaba"
 description: "Pierre Celestin Ndayisaba is a Mid-career Soil Carbon researcher. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.723024
+date: 2026-10-11T02:32:59.744122
 url: "/cdr-researcher-census/researchers/pierre-celestin-ndayisaba-a5090399/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Push-pull technology improves carbon stocks in rainfed smallholder agriculture in Western Kenya** (2022)
-   27 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 ## External Profiles
 

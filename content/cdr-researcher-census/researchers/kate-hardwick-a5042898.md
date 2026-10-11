@@ -1,7 +1,7 @@
 ---
 title: "Kate Hardwick"
 description: "Kate Hardwick is a Senior Soil Carbon researcher at Royal Botanic Gardens, Kew in GB. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.184998
+date: 2026-10-11T02:32:59.189203
 url: "/cdr-researcher-census/researchers/kate-hardwick-a5042898/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Towards a co‐crediting system for carbon and biodiversity** (2023)
-   23 citations · General CDR
+   24 citations · General CDR
 
 2. **Co-crediting system for carbon and biodiversity** (2022)
    1 citations · General CDR

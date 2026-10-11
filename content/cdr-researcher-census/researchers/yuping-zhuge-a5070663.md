@@ -1,7 +1,7 @@
 ---
 title: "Yuping Zhuge"
 description: "Yuping Zhuge is a Senior Soil Carbon researcher at Ministry of Natural Resources in CN. With 116 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.100690
+date: 2026-10-11T02:32:59.105377
 url: "/cdr-researcher-census/researchers/yuping-zhuge-a5070663/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,16 +54,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    136 citations · Biochar
 
 2. **Aggregate stability and organic carbon stock under different land uses integrally regulated by binding agents and chemical properties in saline‐sodic soils** (2021)
-   63 citations · Soil Carbon
+   65 citations · Soil Carbon
 
 3. **Distinct stabilization characteristics of organic carbon in coastal salt‐affected soils with different salinity under straw return management** (2022)
-   33 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 4. **Drying-rewetting events enhance the priming effect on soil organic matter mineralization by maize straw addition** (2024)
    26 citations · Soil Carbon
 
 5. **Phosphorus addition increases soil organic matter priming in a coastal saline soil** (2025)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 6. **CO2 emission and source partitioning from carbonate and non-carbonate soils during incubation** (2021)
    9 citations

@@ -1,7 +1,7 @@
 ---
 title: "Qiuxia Liu"
 description: "Qiuxia Liu is a Senior Biochar researcher at Shanxi Agricultural University in CN. With 69 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.145662
+date: 2026-10-11T02:32:59.149858
 url: "/cdr-researcher-census/researchers/qiuxia-liu-a5101723/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Long-term organic fertilization combined with deep ploughing enhances carbon sequestration in a rainfed sorghum-maize rotation system** (2024)
-   18 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 2. **Long-Term Low-Rate Biochar Application Enhances Soil Organic Carbon Without Affecting Sorghum Yield in a Calcaric Cambisol** (2025)
    5 citations · Biochar

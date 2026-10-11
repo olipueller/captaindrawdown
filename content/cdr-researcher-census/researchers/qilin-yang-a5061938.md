@@ -1,7 +1,7 @@
 ---
 title: "Qilin Yang"
 description: "Qilin Yang is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.346549
+date: 2026-10-11T02:33:00.381721
 url: "/cdr-researcher-census/researchers/qilin-yang-a5061938/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Linking Soil Ecological Stoichiometry of Nutrients and Microbial Enzyme Activity to Bulk and Aggregate‐Associated Organic Carbon in Karst Rocky Desertification** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 2. **Extracellular polymeric substances regulate depth-and-season-dependent soil organic carbon stabilization under prescribed fire in karst soils** (2026)
    0 citations

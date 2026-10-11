@@ -1,7 +1,7 @@
 ---
 title: "Jonathan R. Leake"
 description: "Jonathan R. Leake is an Eminent Soil Carbon researcher at University of Sheffield in GB. With 200 publications and an h-index of 75, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.021722
+date: 2026-10-11T02:32:59.024717
 url: "/cdr-researcher-census/researchers/jonathan-r-leake-a5082439/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of mineralogy, chemistry and physical properties of basalts on carbon capture potential and plant-nutrient element release via enhanced weathering** (2021)
-   161 citations · Enhanced Weathering
+   162 citations · Enhanced Weathering
 
 2. **Legume–microbiome interactions unlock mineral nutrients in regrowing tropical forests** (2021)
    78 citations · Enhanced Weathering
 
-3. **Soil macroaggregation drives sequestration of organic carbon and nitrogen with three-year grass-clover leys in arable rotations** (2022)
-   42 citations · Soil Carbon
+3. **Soil quality regeneration by grass-clover leys in arable rotations compared to permanent grassland: Effects on wheat yield and resilience to drought and flooding** (2021)
+   41 citations · Soil Carbon
 
-4. **Soil quality regeneration by grass-clover leys in arable rotations compared to permanent grassland: Effects on wheat yield and resilience to drought and flooding** (2021)
-   42 citations · Soil Carbon
+4. **Soil macroaggregation drives sequestration of organic carbon and nitrogen with three-year grass-clover leys in arable rotations** (2022)
+   40 citations · Soil Carbon
 
 5. **Consistent soil organic carbon accumulation under hedges driven by increase in light particulate organic matter** (2025)
    7 citations · Soil Carbon

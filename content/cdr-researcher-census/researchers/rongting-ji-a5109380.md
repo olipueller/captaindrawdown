@@ -1,7 +1,7 @@
 ---
 title: "Rongting Ji"
 description: "Rongting Ji is a Senior Biochar researcher at Ministry of Ecology and Environment in CN. With 52 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.200891
+date: 2026-10-11T02:32:59.204848
 url: "/cdr-researcher-census/researchers/rongting-ji-a5109380/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,22 +48,25 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Insights into the potential release of dissolved organic matter from different agro-forest waste-derived hydrochars: A pilot study** (2021)
-   28 citations
+   29 citations
 
 2. **New insight into the role of FDOM in heavy metal leaching behavior from MSWI bottom ash during accelerated weathering using fluorescence EEM-PARAFAC** (2022)
    15 citations
 
 3. **Capturing differences in the release potential of dissolved organic matter from biochar and hydrochar: Insights from component characterization and molecular identification** (2024)
-   11 citations · Biochar
+   13 citations · Biochar
 
 4. **Sequential carbonization of pig manure biogas residue into engineered biochar for diethyl phthalate removal toward environmental sustainability** (2024)
    6 citations · Biochar
 
-5. **Micro-mesoporous biochars derived from the copyrolysis of agroforestry residue and eggshell for removing plasticizer from water** (2025)
+5. **Tunable nanoarchitectonics of porous biochar through sequential calcium and potassium salt activation for high-efficiency removal of emerging pollutants** (2026)
+   3 citations · Biochar
+
+6. **Micro-mesoporous biochars derived from the copyrolysis of agroforestry residue and eggshell for removing plasticizer from water** (2025)
    3 citations
 
-6. **Tunable nanoarchitectonics of porous biochar through sequential calcium and potassium salt activation for high-efficiency removal of emerging pollutants** (2026)
-   2 citations · Biochar
+7. **Meso/microporous biochar derived from coactivation with calcium and potassium salts for efficient removal of emerging contaminants** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

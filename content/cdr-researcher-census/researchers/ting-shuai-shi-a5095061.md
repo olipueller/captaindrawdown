@@ -1,7 +1,7 @@
 ---
 title: "Ting-Shuai Shi"
 description: "Ting-Shuai Shi is an Early-career Soil Carbon researcher at Lanzhou University in CN. With 7 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.069615
+date: 2026-10-11T02:33:00.099680
 url: "/cdr-researcher-census/researchers/ting-shuai-shi-a5095061/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A global meta-analysis on the effects of organic and inorganic fertilization on grasslands and croplands** (2024)
-   166 citations · General CDR
+   174 citations · General CDR
 
 ## External Profiles
 

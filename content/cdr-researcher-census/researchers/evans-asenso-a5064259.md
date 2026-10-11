@@ -1,7 +1,7 @@
 ---
 title: "Evans Asenso"
 description: "Evans Asenso is a Mid-career Soil Carbon researcher at University of Ghana in GH. With 52 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.216508
+date: 2026-10-11T02:32:59.220369
 url: "/cdr-researcher-census/researchers/evans-asenso-a5064259/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,16 +54,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    14 citations · Ocean CDR
 
 2. **Impact of Biochar Application on Soil Physical and Biogeochemical Characteristics: A Review** (2025)
-   8 citations · Biochar
+   10 citations · Biochar
 
 3. **Short‐Term Alteration of Soil Physicochemical Characteristics Induced by Biochar Application on a <i>Ferric Acrisol</i>** (2025)
-   2 citations · Biochar
+   5 citations · Biochar
 
-4. **Estimation of mangrove blue carbon stock in Ghana, West Africa** (2026)
+4. **Microbial carbon use efficiency governs the accumulation of microbial-derived carbon in restored mangroves** (2026)
+   1 citations · Soil Carbon
+
+5. **Estimation of mangrove blue carbon stock in Ghana, West Africa** (2026)
    0 citations
-
-5. **Microbial carbon use efficiency governs the accumulation of microbial-derived carbon in restored mangroves** (2026)
-   0 citations · Soil Carbon
 
 6. **Investigating the use of dual-stage filtration system for E. coli removal in wastewater** (2025)
    0 citations

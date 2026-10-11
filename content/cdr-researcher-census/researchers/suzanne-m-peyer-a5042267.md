@@ -1,7 +1,7 @@
 ---
 title: "Suzanne M. Peyer"
 description: "Suzanne M. Peyer is a Senior Soil Carbon researcher at University of Wisconsin–Madison in US. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.330445
+date: 2026-10-11T02:32:59.336165
 url: "/cdr-researcher-census/researchers/suzanne-m-peyer-a5042267/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Spatial Database of Planted Trees (SDPT Version 2.0)** (2024)
-   53 citations · Soil Carbon
+   54 citations · Soil Carbon
 
 ## External Profiles
 

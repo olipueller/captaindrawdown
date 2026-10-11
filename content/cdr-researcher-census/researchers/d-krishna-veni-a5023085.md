@@ -1,7 +1,7 @@
 ---
 title: "D. Krishna Veni"
 description: "D. Krishna Veni is a Mid-career Biochar researcher. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.194706
+date: 2026-10-11T02:33:00.224729
 url: "/cdr-researcher-census/researchers/d-krishna-veni-a5023085/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Nano-Biochar: A Soil Conditioner for Sustainable Soil Health** (2024)
-   3 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Jin-Ju Yun"
 description: "Jin-Ju Yun is a Mid-career Soil Carbon researcher at Rural Development Administration in KR. With 41 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.650467
+date: 2026-10-11T02:32:59.669620
 url: "/cdr-researcher-census/researchers/jin-ju-yun-a5029515/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Soil Carbon
 
 2. **Effect of fertilizer and food waste compost on soil carbon, nitrogen use efficiency, and yield of Chinese cabbage (Brassica Rapa L.)** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 3. **Effects of Food Waste-Mixed Pellet Compost on Soil Carbon Form and Growth of Kimchi Cabbage (Brassica rapa L.) in Upland Field** (2025)
    0 citations · Biochar

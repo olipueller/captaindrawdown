@@ -1,7 +1,7 @@
 ---
 title: "J.X. Zhang"
 description: "J.X. Zhang is an Early-career Biochar researcher at Heilongjiang University in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.337058
+date: 2026-10-11T02:33:00.371181
 url: "/cdr-researcher-census/researchers/jx-zhang-a5013553/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **High-efficiency electrochemical removal of tetracycline using a stainless steel electrode coated with activated chestnut shell biochar** (2025)
-   3 citations · Biochar
+   5 citations · Biochar
 
 2. **Preparation of Sugarcane Bagasse Porous Carbon and its Adsorption Performance on Organic Pollutants in Water** (2026)
    0 citations

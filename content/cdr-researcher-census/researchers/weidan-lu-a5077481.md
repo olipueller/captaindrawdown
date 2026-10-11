@@ -1,7 +1,7 @@
 ---
 title: "Weidan Lu"
 description: "Weidan Lu is an Early-career Soil Carbon researcher at Xinjiang Academy of Agricultural Sciences in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.709191
+date: 2026-10-11T02:32:59.729823
 url: "/cdr-researcher-census/researchers/weidan-lu-a5077481/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Organic fertilizer substitution promotes soil organic carbon sequestration by regulating permanganate oxidizable carbon fractions transformation in oasis wheat fields** (2022)
-   49 citations · Soil Carbon
+   48 citations · Soil Carbon
 
 ## External Profiles
 

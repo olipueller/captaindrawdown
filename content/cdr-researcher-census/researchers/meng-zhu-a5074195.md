@@ -1,7 +1,7 @@
 ---
 title: "Meng Zhu"
 description: "Meng Zhu is a Senior Soil Carbon researcher at Northwest Institute of Eco-Environment and Resources in CN. With 94 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.107276
+date: 2026-10-11T02:32:59.111901
 url: "/cdr-researcher-census/researchers/meng-zhu-a5074195/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    15 citations · Soil Carbon
 
 2. **Divergent effects of biomass-derived carbon dots application and sweetpotato planting on accumulations of soil microbial necromass carbon in Vertisol** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 3. **Identification of Priority Supply Areas for Carbon Sinks Based on Ecosystem Service Flow: A Case Study for the Hexi Region in Northwestern China** (2024)
    3 citations · General CDR

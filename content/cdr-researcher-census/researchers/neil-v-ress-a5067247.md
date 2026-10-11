@@ -1,7 +1,7 @@
 ---
 title: "Neil V. Ress"
 description: "Neil V. Ress is an Early-career Biochar researcher at University of Birmingham in GB. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.866512
+date: 2026-10-11T02:32:59.893183
 url: "/cdr-researcher-census/researchers/neil-v-ress-a5067247/"
 layout: "researcher"
 hiddenInHomeList: true

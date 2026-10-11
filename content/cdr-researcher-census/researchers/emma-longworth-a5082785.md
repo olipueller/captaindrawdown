@@ -1,7 +1,7 @@
 ---
 title: "Emma Longworth"
 description: "Emma Longworth is a Senior General CDR researcher at Toowoomba Hospital in AU. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.806151
+date: 2026-10-11T02:32:59.831211
 url: "/cdr-researcher-census/researchers/emma-longworth-a5082785/"
 layout: "researcher"
 hiddenInHomeList: true

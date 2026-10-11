@@ -1,7 +1,7 @@
 ---
 title: "A. Sankara Reddy"
 description: "A. Sankara Reddy is a Mid-career Soil Carbon researcher at Sardar Patel University in IN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.017480
+date: 2026-10-11T02:33:00.048448
 url: "/cdr-researcher-census/researchers/a-sankara-reddy-a5080648/"
 layout: "researcher"
 hiddenInHomeList: true

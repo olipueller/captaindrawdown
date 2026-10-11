@@ -1,7 +1,7 @@
 ---
 title: "Francesco Lovat"
 description: "Francesco Lovat is an Early-career DAC researcher at Danish Energy Agency in DK. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.184016
+date: 2026-10-11T02:33:00.214323
 url: "/cdr-researcher-census/researchers/francesco-lovat-a5068875/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Fairness and feasibility in deep mitigation pathways with novel carbon dioxide removal considering institutional capacity to mitigate** (2023)
-   36 citations · DAC
+   39 citations · DAC
 
 2. **Fairness and feasibility in deep mitigation pathways with novel carbon dioxide removal considering institutional capacity to mitigate** (2023)
    3 citations

@@ -1,7 +1,7 @@
 ---
 title: "Carlotta Carlini"
 description: "Carlotta Carlini is a Mid-career Biochar researcher at University of Bologna in IT. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.373059
+date: 2026-10-11T02:33:00.408597
 url: "/cdr-researcher-census/researchers/carlotta-carlini-a5040499/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Benchmarking biochar with activated carbon for immobilizing leachable PAH and heterocyclic PAH in contaminated soils** (2023)
-   19 citations · Biochar
+   20 citations · Biochar
 
 2. **LTEP-Biochar** (2022)
    8 citations · Biochar
 
 3. **LTEP-Biochar** (2022)
-   0 citations · Biochar
+   8 citations · Biochar
 
 4. **Effects of Aging Under Field Conditions on Biochar Properties** (2023)
    0 citations · Biochar

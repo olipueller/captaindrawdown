@@ -1,7 +1,7 @@
 ---
 title: "Amrender Singh Rao"
 description: "Amrender Singh Rao is a Mid-career General CDR researcher. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.568373
+date: 2026-10-11T02:32:59.584093
 url: "/cdr-researcher-census/researchers/amrender-singh-rao-a5044269/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Plant Functional Traits: A Key Framework for Understanding and Managing Ecosystem Responses to Global Environmental Challenges** (2024)
-   5 citations · General CDR
+   6 citations · General CDR
 
 2. **Urban Green Infrastructure for Carbon Sequestration: Integrating Land Restoration, Biodiversity Conservation and Climate Mitigation** (2026)
    0 citations

@@ -1,7 +1,7 @@
 ---
 title: "Kirstine Skov"
 description: "Kirstine Skov is a Senior Enhanced Weathering researcher at Royal Bank of Scotland (United Kingdom) in GB. With 46 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.487285
+date: 2026-10-11T02:32:59.498998
 url: "/cdr-researcher-census/researchers/kirstine-skov-a5042164/"
 layout: "researcher"
 hiddenInHomeList: true

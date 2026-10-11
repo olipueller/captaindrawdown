@@ -1,7 +1,7 @@
 ---
 title: "Theodora Angelopoulou"
 description: "Theodora Angelopoulou is a Mid-career Soil Carbon researcher at GFZ Helmholtz Centre for Geosciences in DE. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.366817
+date: 2026-10-11T02:32:59.374008
 url: "/cdr-researcher-census/researchers/theodora-angelopoulou-a5049516/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Earth Observation technologies for agricultural carbon credits: a review** (2025)
-   3 citations · General CDR
+   4 citations · General CDR
 
 ## External Profiles
 

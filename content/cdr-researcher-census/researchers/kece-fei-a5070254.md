@@ -1,7 +1,7 @@
 ---
 title: "Kece Fei"
 description: "Kece Fei is a Mid-career General CDR researcher at Chinese Academy of Sciences in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.839749
+date: 2026-10-11T02:32:59.865691
 url: "/cdr-researcher-census/researchers/kece-fei-a5070254/"
 layout: "researcher"
 hiddenInHomeList: true

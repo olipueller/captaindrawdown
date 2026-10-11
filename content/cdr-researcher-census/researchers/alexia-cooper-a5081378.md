@@ -1,7 +1,7 @@
 ---
 title: "Alexia Cooper"
 description: "Alexia Cooper is an Early-career Soil Carbon researcher. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.838735
+date: 2026-10-11T02:32:59.864726
 url: "/cdr-researcher-census/researchers/alexia-cooper-a5081378/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Compost amendment to enhance carbon sequestration in rangelands** (2023)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 2. **Assessing deep soil carbon stocks in California nut orchards: insights and opportunities for climate mitigation** (2025)
    1 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Allan Gao"
 description: "Allan Gao is a Mid-career General CDR researcher. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.254765
+date: 2026-10-11T02:32:59.258703
 url: "/cdr-researcher-census/researchers/allan-gao-a5011898/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sixian Li"
 description: "Sixian Li is a Senior Soil Carbon researcher at Chongqing Technology and Business University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.228370
+date: 2026-10-11T02:33:00.258695
 url: "/cdr-researcher-census/researchers/sixian-li-a5049590/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Tailored synthesis of metal clusters modified g-C3N4 photocatalysts for energy and environmental applications** (2024)
-   43 citations
+   48 citations
 
 2. **Co-culture of rice and aquatic animals enhances soil organic carbon: A meta-analysis** (2024)
    10 citations · Soil Carbon

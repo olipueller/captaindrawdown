@@ -1,7 +1,7 @@
 ---
 title: "Patrick von Jeetze"
 description: "Patrick von Jeetze is a Mid-career BECCS researcher at Potsdam Institute for Climate Impact Research in DE. With 43 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.290831
+date: 2026-10-11T02:32:59.295208
 url: "/cdr-researcher-census/researchers/patrick-von-jeetze-a5002714/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,18 +51,24 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Food and land system transformations under different societal perspectives on sustainable development** (2024)
-   12 citations · General CDR
+   13 citations · General CDR
 
-2. **Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment** (2026)
+2. **Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7** (2026)
+   0 citations · General CDR
+
+3. **Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7** (2026)
+   0 citations · General CDR
+
+4. **Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment** (2026)
    0 citations · BECCS
 
-3. **Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment** (2026)
+5. **Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment** (2026)
    0 citations · BECCS
 
-4. **Biodiversity conservation policies alter the solution space of climate mitigation scenarios** (2026)
+6. **Biodiversity conservation policies alter the solution space of climate mitigation scenarios** (2026)
    0 citations · BECCS
 
-5. **Biodiversity side effects of carbon-focused reforestation under Paris-aligned transformation pathways** (2026)
+7. **Biodiversity side effects of carbon-focused reforestation under Paris-aligned transformation pathways** (2026)
    0 citations · General CDR
 
 ## External Profiles

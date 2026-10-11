@@ -1,7 +1,7 @@
 ---
 title: "Ruxiao Sun"
 description: "Ruxiao Sun is a Mid-career Soil Carbon researcher at Weihai Chest Hospital in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.042006
+date: 2026-10-11T02:33:00.072953
 url: "/cdr-researcher-census/researchers/ruxiao-sun-a5051697/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Ecoenzymatic stoichiometry reveals phosphorus addition alleviates microbial nutrient limitation and promotes soil carbon sequestration in agricultural ecosystems** (2021)
-   60 citations · Soil Carbon
+   64 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Nafiseh Kakhani"
 description: "Nafiseh Kakhani is a Mid-career Soil Carbon researcher at Bernstein Center for Computational Neuroscience Tübingen in DE. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.164170
+date: 2026-10-11T02:33:00.194284
 url: "/cdr-researcher-census/researchers/nafiseh-kakhani-a5057185/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **SSL-SoilNet: A Hybrid Transformer-Based Framework With Self-Supervised Learning for Large-Scale Soil Organic Carbon Prediction** (2024)
-   27 citations
+   32 citations
 
 2. **SSL-SoilNet: A Hybrid Transformer-based Framework with Self-Supervised Learning for Large-scale Soil Organic Carbon Prediction** (2023)
    5 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Zexin Li"
 description: "Zexin Li is an Early-career Ocean CDR researcher at Beibu Gulf University in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.368438
+date: 2026-10-11T02:33:00.404042
 url: "/cdr-researcher-census/researchers/zexin-li-a5111190/"
 layout: "researcher"
 hiddenInHomeList: true

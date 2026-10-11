@@ -1,7 +1,7 @@
 ---
 title: "Jinhai Yu"
 description: "Jinhai Yu is a Mid-career Soil Carbon researcher at Henan University in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.054852
+date: 2026-10-11T02:33:00.085468
 url: "/cdr-researcher-census/researchers/jinhai-yu-a5057916/"
 layout: "researcher"
 hiddenInHomeList: true

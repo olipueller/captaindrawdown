@@ -1,7 +1,7 @@
 ---
 title: "Yuanting Qiao"
 description: "Yuanting Qiao is a Mid-career General CDR researcher at Swansea University in GB. With 23 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.398018
+date: 2026-10-11T02:32:59.407104
 url: "/cdr-researcher-census/researchers/yuanting-qiao-a5011504/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    45 citations · General CDR
 
 2. **Biochar production, activation, and applications: A comprehensive technical review** (2025)
-   32 citations · Biochar
+   35 citations · Biochar
 
 3. **From Innovation to Integration: The Evolving Role of Carbon Capture and Storage in Global Decarbonization** (2025)
-   14 citations · General CDR
+   19 citations · General CDR
 
 ## External Profiles
 

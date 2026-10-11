@@ -1,7 +1,7 @@
 ---
 title: "Yunying Fang"
 description: "Yunying Fang is an Eminent Soil Carbon researcher at Griffith University in AU. With 159 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.046271
+date: 2026-10-11T02:32:59.049893
 url: "/cdr-researcher-census/researchers/yunying-fang-a5005260/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,28 +54,28 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    222 citations · Soil Carbon
 
 2. **Priming, stabilization and temperature sensitivity of native SOC is controlled by microbial responses and physicochemical properties of biochar** (2021)
-   93 citations · Biochar
+   94 citations · Biochar
 
-3. **Effects of nitrogen-enriched biochar on rice growth and yield, iron dynamics, and soil carbon storage and emissions: A tool to improve sustainable rice cultivation** (2021)
-   72 citations · Biochar
+3. **Organic blue carbon sequestration in vegetated coastal wetlands: Processes and influencing factors** (2024)
+   74 citations · Soil Carbon
 
-4. **Organic blue carbon sequestration in vegetated coastal wetlands: Processes and influencing factors** (2024)
-   66 citations · Soil Carbon
+4. **Effects of nitrogen-enriched biochar on rice growth and yield, iron dynamics, and soil carbon storage and emissions: A tool to improve sustainable rice cultivation** (2021)
+   74 citations · Biochar
 
 5. **Microbial Necromass, Lignin, and Glycoproteins for Determining and Optimizing Blue Carbon Formation** (2023)
-   58 citations · Ocean CDR
+   59 citations · Ocean CDR
 
 6. **Effects of slag and biochar amendments on microorganisms and fractions of soil organic carbon during flooding in a paddy field after two years in southeastern China** (2022)
    46 citations · Biochar
 
 7. **Mangrove restoration built soil organic carbon stocks over six decades: a chronosequence study** (2022)
-   36 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 8. **Combined slag and biochar amendments to subtropical paddy soils lead to a short-term change of bacteria community structure and rise of soil organic carbon** (2022)
-   32 citations · Biochar
+   33 citations · Biochar
 
 9. **Effects of addition of nitrogen-enriched biochar on bacteria and fungi community structure and C, N, P, and Fe stoichiometry in subtropical paddy soils** (2021)
-   32 citations · Biochar
+   33 citations · Biochar
 
 10. **Current and future potential soil organic carbon stocks of vegetated coastal ecosystems and their controls in the Bohai Rim Region, China** (2023)
    26 citations · Ocean CDR

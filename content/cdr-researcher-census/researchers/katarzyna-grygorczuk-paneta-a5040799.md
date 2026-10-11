@@ -1,7 +1,7 @@
 ---
 title: "Katarzyna Grygorczuk-Płaneta"
 description: "Katarzyna Grygorczuk-Płaneta is a Mid-career Biochar researcher at Institute of Agrophysics, Polish Academy of Sciences in PL. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.246431
+date: 2026-10-11T02:33:00.276521
 url: "/cdr-researcher-census/researchers/katarzyna-grygorczuk-paneta-a5040799/"
 layout: "researcher"
 hiddenInHomeList: true

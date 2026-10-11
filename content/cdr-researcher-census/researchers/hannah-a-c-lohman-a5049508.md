@@ -1,7 +1,7 @@
 ---
 title: "Hannah A. C. Lohman"
 description: "Hannah A. C. Lohman is a Mid-career Biochar researcher at University of Illinois Urbana-Champaign in US. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.623982
+date: 2026-10-11T02:32:59.642139
 url: "/cdr-researcher-census/researchers/hannah-a-c-lohman-a5049508/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Financial Viability and Environmental Sustainability of Fecal Sludge Treatment with Pyrolysis Omni Processors** (2022)
-   30 citations · Biochar
+   27 citations · Biochar
 
 2. **Financial viability and environmental sustainability of fecal sludge treatment with Omni Processors** (2022)
    0 citations · General CDR

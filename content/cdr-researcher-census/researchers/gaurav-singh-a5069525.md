@@ -1,7 +1,7 @@
 ---
 title: "Gaurav Singh"
 description: "Gaurav Singh is a Senior Soil Carbon researcher at Indian Institute of Soil and Water Conservation in IN. With 38 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.538893
+date: 2026-10-11T02:32:59.553909
 url: "/cdr-researcher-census/researchers/gaurav-singh-a5069525/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Degraded land rehabilitation through agroforestry in India: Achievements, current understanding, and future prospectives** (2023)
-   125 citations · Soil Carbon
+   127 citations · Soil Carbon
 
 2. **Agroforestry for controlling soil erosion and enhancing system productivity in ravine lands of Western India under climate change scenario** (2022)
    95 citations · Soil Carbon

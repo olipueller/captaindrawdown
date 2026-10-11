@@ -1,7 +1,7 @@
 ---
 title: "Peipei Miao"
 description: "Peipei Miao is a Mid-career General CDR researcher at Yunnan Normal University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.764979
+date: 2026-10-11T02:32:59.788090
 url: "/cdr-researcher-census/researchers/peipei-miao-a5008312/"
 layout: "researcher"
 hiddenInHomeList: true

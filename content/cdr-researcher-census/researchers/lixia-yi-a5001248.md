@@ -1,7 +1,7 @@
 ---
 title: "Lixia Yi"
 description: "Lixia Yi is a Senior Soil Carbon researcher at Royal Society of Medicine in GB. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.617762
+date: 2026-10-11T02:32:59.635247
 url: "/cdr-researcher-census/researchers/lixia-yi-a5001248/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yaqin Jia"
 description: "Yaqin Jia is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.132707
+date: 2026-10-11T02:33:00.163098
 url: "/cdr-researcher-census/researchers/yaqin-jia-a5064511/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,7 +47,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Subsoiling tillage enhances wheat productivity, soil carbon and available nutrients status in dryland fields** (2022)
+1. **Subsoil tillage enhances wheat productivity, soil organic carbon and available nutrient status in dryland fields** (2023)
+   42 citations · Soil Carbon
+
+2. **Subsoiling tillage enhances wheat productivity, soil carbon and available nutrients status in dryland fields** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

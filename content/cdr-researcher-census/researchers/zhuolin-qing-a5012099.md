@@ -1,7 +1,7 @@
 ---
 title: "Zhuolin Qing"
-description: "Zhuolin Qing is a Mid-career Biochar researcher at Southwest Jiaotong University in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.799847
+description: "Zhuolin Qing is a Mid-career Biochar researcher at Southwest Jiaotong University in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:32:59.785891
 url: "/cdr-researcher-census/researchers/zhuolin-qing-a5012099/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 259 |
+| h-index | 8 |
+| Citations | 277 |
 | Publications | 11 |
 | CDR Focus | 9.1% |
 | Trajectory | Growing |

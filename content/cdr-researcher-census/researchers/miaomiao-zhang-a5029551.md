@@ -1,7 +1,7 @@
 ---
 title: "Miaomiao Zhang"
 description: "Miaomiao Zhang is a Senior Soil Carbon researcher at Shandong University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.663042
+date: 2026-10-11T02:32:59.682261
 url: "/cdr-researcher-census/researchers/miaomiao-zhang-a5029551/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Characteristics of Changes to <scp>POC</scp> and <scp>MAOC</scp> After Straw Returning in China: A Meta‐Analysis** (2025)
-   18 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 ## External Profiles
 

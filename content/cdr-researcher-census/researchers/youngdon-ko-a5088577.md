@@ -1,7 +1,7 @@
 ---
 title: "Youngdon Ko"
 description: "Youngdon Ko is a Mid-career DAC researcher at Brookhaven National Laboratory in US. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.285411
+date: 2026-10-11T02:32:59.290124
 url: "/cdr-researcher-census/researchers/youngdon-ko-a5088577/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Direct CO<sub>2</sub> Capture and Reduction to High‐End Chemicals with Tetraalkylammonium Borohydrides** (2021)
-   59 citations
+   61 citations
 
 2. **Direct CO<sub>2</sub> Capture and Reduction to High‐End Chemicals with Tetraalkylammonium Borohydrides** (2021)
-   3 citations
+   4 citations
 
 3. **(Keynote) Electrochemical Conversion of Atmospheric CO<sub>2</sub> to Value-Added Products** (2024)
    1 citations · DAC

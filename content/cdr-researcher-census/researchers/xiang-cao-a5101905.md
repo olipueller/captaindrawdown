@@ -1,7 +1,7 @@
 ---
 title: "Xiang Cao"
 description: "Xiang Cao is a Senior DAC researcher. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.014476
+date: 2026-10-11T02:33:00.044948
 url: "/cdr-researcher-census/researchers/xiang-cao-a5101905/"
 layout: "researcher"
 hiddenInHomeList: true

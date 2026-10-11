@@ -1,7 +1,7 @@
 ---
 title: "Ruan Carnier"
 description: "Ruan Carnier is a Mid-career Biochar researcher at Brazilian Agricultural Research Corporation in BR. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.219398
+date: 2026-10-11T02:33:00.249723
 url: "/cdr-researcher-census/researchers/ruan-carnier-a5088709/"
 layout: "researcher"
 hiddenInHomeList: true

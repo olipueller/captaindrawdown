@@ -1,7 +1,7 @@
 ---
 title: "Sini Kurien"
 description: "Sini Kurien is an Early-career Biochar researcher at University of Kerala in IN. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.368355
+date: 2026-10-11T02:33:00.403960
 url: "/cdr-researcher-census/researchers/sini-kurien-a5108994/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar: A Sustainable Approach towards Carbon Neutrality** (2024)
-   1 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

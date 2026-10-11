@@ -1,7 +1,7 @@
 ---
 title: "Yantian Ma"
 description: "Yantian Ma is a Mid-career Soil Carbon researcher at Nanchang University in CN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.807582
+date: 2026-10-11T02:32:59.832567
 url: "/cdr-researcher-census/researchers/yantian-ma-a5101736/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Impact of litter quality on the stability and storage of soil carbon in flooded wetlands** (2022)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 ## External Profiles
 

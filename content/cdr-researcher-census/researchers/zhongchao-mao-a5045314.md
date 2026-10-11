@@ -1,7 +1,7 @@
 ---
 title: "Zhongchao Mao"
 description: "Zhongchao Mao is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.356809
+date: 2026-10-11T02:33:00.391782
 url: "/cdr-researcher-census/researchers/zhongchao-mao-a5045314/"
 layout: "researcher"
 hiddenInHomeList: true

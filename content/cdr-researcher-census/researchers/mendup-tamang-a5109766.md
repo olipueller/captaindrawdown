@@ -1,7 +1,7 @@
 ---
 title: "Mendup Tamang"
 description: "Mendup Tamang is a Mid-career General CDR researcher at North Bengal Agricultural University in IN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.915773
+date: 2026-10-11T02:32:59.961399
 url: "/cdr-researcher-census/researchers/mendup-tamang-a5109766/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,15 +48,18 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Biomass Production and Carbon Sequestration Potential of Different Agroforestry Systems in India: A Critical Review** (2022)
-   101 citations · BECCS
+   103 citations · BECCS
 
 2. **Stand Structure, Biomass and Carbon Storage in Gmelina arborea Plantation at Agricultural Landscape in Foothills of Eastern Himalayas** (2021)
-   46 citations · General CDR
+   44 citations · General CDR
 
-3. **Forest Degradation: Its Impact and Conservation Efforts in India** (2025)
+3. **Prioritizing Tree-Based Systems for Optimizing Carbon Sink in the Indian Sub-Himalayan Region** (2023)
+   9 citations
+
+4. **Forest Degradation: Its Impact and Conservation Efforts in India** (2025)
    4 citations
 
-4. **Prioritizing Tree Based Land Management Options for Optimizing Carbon Sink in the Indian sub-Himalayan Region** (2023)
+5. **Prioritizing Tree Based Land Management Options for Optimizing Carbon Sink in the Indian sub-Himalayan Region** (2023)
    4 citations · General CDR
 
 ## External Profiles

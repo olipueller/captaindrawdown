@@ -1,7 +1,7 @@
 ---
 title: "Andrea Fiorini"
 description: "Andrea Fiorini is a Senior Soil Carbon researcher at Università Cattolica del Sacro Cuore in IT. With 73 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.222459
+date: 2026-10-11T02:32:59.225993
 url: "/cdr-researcher-census/researchers/andrea-fiorini-a5047645/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Duaa H. Altamer"
 description: "Duaa H. Altamer is a Mid-career Biochar researcher at College of Science/Mosul University in IQ. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.327022
+date: 2026-10-11T02:33:00.359654
 url: "/cdr-researcher-census/researchers/duaa-h-altamer-a5027040/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Batch adsorptive removal of Cr (VI) from aqueous phase using magnetic activated carbon nanocomposite prepared from walnut shells by ZnCl <sub>2</sub> -FeCl <sub>3</sub> activation** (2024)
-   16 citations · Biochar
+   20 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Yufang Shen"
 description: "Yufang Shen is a Senior Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 58 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.119029
+date: 2026-10-11T02:32:59.123674
 url: "/cdr-researcher-census/researchers/yufang-shen-a5112281/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Ecoenzymatic stoichiometry reveals phosphorus addition alleviates microbial nutrient limitation and promotes soil carbon sequestration in agricultural ecosystems** (2021)
-   60 citations · Soil Carbon
+   64 citations · Soil Carbon
 
 2. **Carbon footprint, yield and economic performance assessment of different mulching strategies in a semi-arid spring maize system** (2022)
    37 citations · Soil Carbon
 
 3. **Legume straw incorporation with optimal nitrogen fertilizer improves soil quality and reduces the carbon footprint of farmland ecosystems in semiarid areas** (2025)
-   13 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 4. **Rhizosphere microbial community and function activation in rain-fed agricultural areas confer growth advantages to spring maize** (2025)
    1 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Alex Cabral"
 description: "Alex Cabral is a Mid-career Ocean CDR researcher at Trinity College Dublin in IE. With 44 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.324738
+date: 2026-10-11T02:32:59.330446
 url: "/cdr-researcher-census/researchers/alex-cabral-a5053593/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Fresh and saline submarine groundwater discharge as sources of carbon and nutrients to the Japan Sea** (2023)
-   39 citations · Ocean CDR
+   40 citations · Ocean CDR
 
 2. **Large Porewater‐Derived Carbon Outwelling Across Mangrove Seascapes Revealed by Radium Isotopes** (2024)
-   12 citations · Ocean CDR
+   13 citations · Ocean CDR
 
 3. **Efficient oxidation attenuates porewater‐derived methane fluxes in mangrove waters** (2024)
    11 citations

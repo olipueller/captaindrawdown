@@ -1,7 +1,7 @@
 ---
 title: "Haoyu Dong"
 description: "Haoyu Dong is a Mid-career Soil Carbon researcher at Microsoft Research (United Kingdom) in GB. With 64 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.550292
+date: 2026-10-11T02:32:59.565314
 url: "/cdr-researcher-census/researchers/haoyu-dong-a5102019/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of anthropogenic disturbances on the carbon sink function of Yangtze River estuary wetlands: A review of performance, process, and mechanism** (2024)
-   28 citations · General CDR
+   27 citations · General CDR
 
 2. **The high organic carbon accumulation in estuarine wetlands necessarily does not represent a high CO2 sequestration capacity** (2023)
-   26 citations · Ocean CDR
+   27 citations · Ocean CDR
 
 3. **Estuarine wetland tidal organic carbon activates microbial carbon pump and increases long-term soil carbon stability** (2024)
    10 citations · Soil Carbon
@@ -63,10 +63,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    4 citations · Soil Carbon
 
 5. **Biomarker analysis revealed tidal organic carbon input enhanced soil respiration and weakened carbon sequestration function of estuarine wetland: Field validation of the Jiuduansha Wetland in the Yangtze River estuary** (2024)
-   3 citations · Ocean CDR
+   4 citations · Ocean CDR
 
 6. **Particle size is an important factor influencing the effects of biochar return to woodland soils: An evaluation from the perspective of sapling growth and soil microbial carbon processes** (2024)
-   2 citations · Biochar
+   3 citations · Biochar
 
 7. **The High Organic Carbon Accumulation in Estuarine Wetlands Necessarily Does Not Represent a High Co2 Sequestration Capacity** (2022)
    1 citations · General CDR

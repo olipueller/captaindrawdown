@@ -1,7 +1,7 @@
 ---
 title: "Fangrui Cai"
 description: "Fangrui Cai is a Mid-career Biochar researcher at Australian Water Quality Centre in AU. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.915248
+date: 2026-10-11T02:32:59.959556
 url: "/cdr-researcher-census/researchers/fangrui-cai-a5049321/"
 layout: "researcher"
 hiddenInHomeList: true

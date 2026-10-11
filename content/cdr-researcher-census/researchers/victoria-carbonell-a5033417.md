@@ -1,7 +1,7 @@
 ---
 title: "Victoria Carbonell"
 description: "Victoria Carbonell is a Mid-career Soil Carbon researcher at Karlsruhe Institute of Technology in DE. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.400662
+date: 2026-10-11T02:33:00.438706
 url: "/cdr-researcher-census/researchers/victoria-carbonell-a5033417/"
 layout: "researcher"
 hiddenInHomeList: true

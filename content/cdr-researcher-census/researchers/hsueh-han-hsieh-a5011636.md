@@ -1,7 +1,7 @@
 ---
 title: "Hsueh-Han Hsieh"
 description: "Hsueh-Han Hsieh is a Mid-career Ocean CDR researcher at National Sun Yat-sen University in TW. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.086795
+date: 2026-10-11T02:33:00.117409
 url: "/cdr-researcher-census/researchers/hsueh-han-hsieh-a5011636/"
 layout: "researcher"
 hiddenInHomeList: true

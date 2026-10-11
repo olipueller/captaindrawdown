@@ -1,7 +1,7 @@
 ---
 title: "Yong-Guan Zhu"
 description: "Yong-Guan Zhu is a Mid-career Soil Carbon researcher at Research Center for Eco-Environmental Sciences in CN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.420178
+date: 2026-10-11T02:32:59.430237
 url: "/cdr-researcher-census/researchers/yong-guan-zhu-a5110635/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Adaptive expression of phage auxiliary metabolic genes in paddy soils and their contribution toward global carbon sequestration** (2024)
-   65 citations · Soil Carbon
+   66 citations · Soil Carbon
 
 ## External Profiles
 

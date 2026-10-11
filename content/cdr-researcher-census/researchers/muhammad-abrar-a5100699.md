@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Abrar"
 description: "Muhammad Abrar is a Senior Soil Carbon researcher at Quaid-i-Azam University in PK. With 78 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.101145
+date: 2026-10-11T02:32:59.105880
 url: "/cdr-researcher-census/researchers/muhammad-abrar-a5100699/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term fertilization enhanced carbon mineralization and maize biomass through physical protection of organic carbon in fractions under continuous maize cropping** (2021)
-   88 citations · Soil Carbon
+   87 citations · Soil Carbon
 
 2. **Long‐term manure application enhances organic carbon and nitrogen stocks in Mollisol subsoil** (2022)
-   28 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 3. **Organic carbon sequestration in global croplands: evidenced through a bibliometric approach** (2025)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 4. **Organic carbon and nitrogen accrual evidenced by the underpinning protection mechanisms in soil profile following contrasting 35-year fertilization regimes** (2025)
    6 citations · Soil Carbon
 
 5. **The interactions between rhizobacteria and arbuscular mycorrhizal fungi enhance global soil carbon sequestration in drylands: A global meta-analysis** (2026)
-   2 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

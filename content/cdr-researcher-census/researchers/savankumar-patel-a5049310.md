@@ -1,7 +1,7 @@
 ---
 title: "Savankumar Patel"
 description: "Savankumar Patel is a Senior Biochar researcher at RMIT University in AU. With 51 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.148540
+date: 2026-10-11T02:32:59.152806
 url: "/cdr-researcher-census/researchers/savankumar-patel-a5049310/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,13 +57,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    24 citations · Biochar
 
 3. **Ammonium nitrogen (NH4+-N) recovery from synthetic wastewater using biosolids-derived biochar** (2023)
-   13 citations · Biochar
+   14 citations · Biochar
 
 4. **Enhancing energy efficiency and by-product quality of anaerobic co-digestion of food and garden waste: hybridisation with thermochemical conversion to create a sustainable circular economy** (2026)
    4 citations · Biochar
 
 5. **The pyrolysis of biosolids in a novel fluidized bed heat exchanger reactor: Pilot plant trials, biochar properties, gas emissions testing, and fate of PFAS** (2025)
-   2 citations · Biochar
+   3 citations · Biochar
 
 6. **Chemical vapour deposition of biogas over biosolids biochar catalyst: Effects of operating conditions, process modelling, and techno-economic assessment** (2026)
    0 citations · Biochar

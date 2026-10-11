@@ -1,7 +1,7 @@
 ---
 title: "Xianlei Fan"
 description: "Xianlei Fan is a Mid-career Soil Carbon researcher at Northeast Normal University in CN. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.422797
+date: 2026-10-11T02:32:59.432860
 url: "/cdr-researcher-census/researchers/xianlei-fan-a5043015/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -61,6 +61,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 4. **Soil priming effect in the organic and mineral layers regulated by nitrogen mining mechanism in a temperate forest** (2024)
    3 citations · Soil Carbon
+
+5. **Future Litter Decomposition Research Should Prioritize the Litter to Soil Flux** (2026)
+   0 citations
 
 ## External Profiles
 

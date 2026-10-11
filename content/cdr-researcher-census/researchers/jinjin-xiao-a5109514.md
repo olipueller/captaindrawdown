@@ -1,7 +1,7 @@
 ---
 title: "Jinjin Xiao"
 description: "Jinjin Xiao is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.742115
+date: 2026-10-11T02:32:59.764358
 url: "/cdr-researcher-census/researchers/jinjin-xiao-a5109514/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    26 citations · Soil Carbon
 
 2. **Soil organic carbon stability of vegetation restoration during 11-year-old grassland succession** (2023)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 ## External Profiles
 

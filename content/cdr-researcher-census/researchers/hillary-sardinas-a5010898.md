@@ -1,7 +1,7 @@
 ---
 title: "Hillary Sardiñas"
 description: "Hillary Sardiñas is a Mid-career Soil Carbon researcher at California Department of Fish and Wildlife in US. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.096867
+date: 2026-10-11T02:32:59.101453
 url: "/cdr-researcher-census/researchers/hillary-sardinas-a5010898/"
 layout: "researcher"
 hiddenInHomeList: true

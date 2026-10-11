@@ -1,7 +1,7 @@
 ---
 title: "Florian Thomas Payen"
 description: "Florian Thomas Payen is a Mid-career Soil Carbon researcher at Warwickshire College in GB. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.603165
+date: 2026-10-11T02:32:59.620607
 url: "/cdr-researcher-census/researchers/florian-thomas-payen-a5061423/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    15 citations · General CDR
 
 3. **Why do French winegrowers adopt soil organic carbon sequestration practices? Understanding motivations and barriers** (2023)
-   11 citations · General CDR
+   12 citations · General CDR
+
+4. **Soil carbon sequestration by agriculture** (2022)
+   12 citations · General CDR
 
 ## External Profiles
 

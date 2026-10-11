@@ -1,7 +1,7 @@
 ---
 title: "Jacobo Canal"
 description: "Jacobo Canal is a Mid-career General CDR researcher at Repsol (Spain) in ES. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.372105
+date: 2026-10-11T02:33:00.407674
 url: "/cdr-researcher-census/researchers/jacobo-canal-a5103989/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Hubs and clusters approach to unlock the development of carbon capture and storage – Case study in Spain** (2021)
-   101 citations · General CDR
+   102 citations · General CDR
 
 2. **Leading the Way: Brazil's Pioneering Steps Toward Direct Air Capture (DAC) Deployment in South America** (2025)
    1 citations · DAC

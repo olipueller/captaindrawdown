@@ -1,7 +1,7 @@
 ---
 title: "A. R. Chichaghare"
 description: "A. R. Chichaghare is a Mid-career Soil Carbon researcher. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.348726
+date: 2026-10-11T02:32:59.354628
 url: "/cdr-researcher-census/researchers/a-r-chichaghare-a5082976/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,10 +46,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon Sequestration Potential of Commercial Agroforestry Systems in Indo-Gangetic Plains of India: Poplar and Eucalyptus-Based Agroforestry Systems** (2023)
-   77 citations · Soil Carbon
+   79 citations · Soil Carbon
 
 2. **Optimizing planting geometries in eucalyptus-based food production systems for enhanced yield and carbon sequestration** (2024)
-   15 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 ## External Profiles
 

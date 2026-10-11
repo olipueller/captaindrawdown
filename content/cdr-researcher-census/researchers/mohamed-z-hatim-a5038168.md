@@ -1,7 +1,7 @@
 ---
 title: "Mohamed Z. Hatim"
 description: "Mohamed Z. Hatim is a Mid-career General CDR researcher at Wageningen University & Research in NL. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.326122
+date: 2026-10-11T02:32:59.331920
 url: "/cdr-researcher-census/researchers/mohamed-z-hatim-a5038168/"
 layout: "researcher"
 hiddenInHomeList: true

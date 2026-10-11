@@ -1,7 +1,7 @@
 ---
 title: "Fabio Attore"
 description: "Fabio Attore is a Mid-career Soil Carbon researcher at Sapienza University of Rome in IT. With 14 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.476760
+date: 2026-10-11T02:32:59.488046
 url: "/cdr-researcher-census/researchers/fabio-attore-a5113003/"
 layout: "researcher"
 hiddenInHomeList: true

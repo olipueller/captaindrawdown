@@ -1,7 +1,7 @@
 ---
 title: "Tingting Wang"
 description: "Tingting Wang is a Mid-career Biochar researcher at Longyan University in CN. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.396288
+date: 2026-10-11T02:33:00.434505
 url: "/cdr-researcher-census/researchers/tingting-wang-a5113404/"
 layout: "researcher"
 hiddenInHomeList: true

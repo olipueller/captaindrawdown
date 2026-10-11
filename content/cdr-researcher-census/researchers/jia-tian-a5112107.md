@@ -1,7 +1,7 @@
 ---
 title: "Jia Tian"
 description: "Jia Tian is a Mid-career Soil Carbon researcher at Ningxia University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.026238
+date: 2026-10-11T02:33:00.057519
 url: "/cdr-researcher-census/researchers/jia-tian-a5112107/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Increasing stand density promoted soil organic carbon sequestration by improving necromass carbon accumulation in Robinia pseudoacacia plantations** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

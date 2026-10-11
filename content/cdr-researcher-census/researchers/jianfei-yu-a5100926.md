@@ -1,7 +1,7 @@
 ---
 title: "Jianfei Yu"
 description: "Jianfei Yu is a Senior Soil Carbon researcher at Shanxi Provincial Cancer Hospital in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.399481
+date: 2026-10-11T02:33:00.437589
 url: "/cdr-researcher-census/researchers/jianfei-yu-a5100926/"
 layout: "researcher"
 hiddenInHomeList: true

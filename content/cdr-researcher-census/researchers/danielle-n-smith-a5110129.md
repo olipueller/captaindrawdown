@@ -1,7 +1,7 @@
 ---
 title: "Danielle N. Smith"
 description: "Danielle N. Smith is a Senior DAC researcher at University of South Carolina in US. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.179556
+date: 2026-10-11T02:33:00.209354
 url: "/cdr-researcher-census/researchers/danielle-n-smith-a5110129/"
 layout: "researcher"
 hiddenInHomeList: true

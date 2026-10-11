@@ -1,7 +1,7 @@
 ---
 title: "Yingxue Xuan"
 description: "Yingxue Xuan is a Mid-career Biochar researcher at Beijing Botanical Garden in CN. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.505425
+date: 2026-10-11T02:32:59.518183
 url: "/cdr-researcher-census/researchers/yingxue-xuan-a5004454/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Priming, stabilization and temperature sensitivity of native SOC is controlled by microbial responses and physicochemical properties of biochar** (2021)
-   93 citations · Biochar
+   94 citations · Biochar
 
 2. **Nitrogen biogeochemical cycling in forest ecosystems with the globalization of nitrogen deposition** (2026)
    1 citations · General CDR

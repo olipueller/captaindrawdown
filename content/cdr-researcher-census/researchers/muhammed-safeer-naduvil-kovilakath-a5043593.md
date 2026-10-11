@@ -1,7 +1,7 @@
 ---
 title: "Muhammed Safeer Naduvil Kovilakath"
 description: "Muhammed Safeer Naduvil Kovilakath is a Mid-career Biochar researcher at Jagiellonian University in PL. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.689512
+date: 2026-10-11T02:32:59.709857
 url: "/cdr-researcher-census/researchers/muhammed-safeer-naduvil-kovilakath-a5043593/"
 layout: "researcher"
 hiddenInHomeList: true

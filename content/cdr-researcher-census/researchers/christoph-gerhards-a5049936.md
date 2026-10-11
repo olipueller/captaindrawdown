@@ -1,7 +1,7 @@
 ---
 title: "Christoph Gerhards"
 description: "Christoph Gerhards is an Early-career General CDR researcher at Lappeenranta-Lahti University of Technology in FI. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.095824
+date: 2026-10-11T02:33:00.126526
 url: "/cdr-researcher-census/researchers/christoph-gerhards-a5049936/"
 layout: "researcher"
 hiddenInHomeList: true

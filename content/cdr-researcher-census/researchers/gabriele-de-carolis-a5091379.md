@@ -1,7 +1,7 @@
 ---
 title: "Gabriele De Carolis"
 description: "Gabriele De Carolis is a Mid-career Soil Carbon researcher at Cereal Research Centre in IT. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.339743
+date: 2026-10-11T02:33:00.373981
 url: "/cdr-researcher-census/researchers/gabriele-de-carolis-a5091379/"
 layout: "researcher"
 hiddenInHomeList: true

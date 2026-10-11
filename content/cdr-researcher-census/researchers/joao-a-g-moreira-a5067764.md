@@ -1,7 +1,7 @@
 ---
 title: "João A. G. Moreira"
 description: "João A. G. Moreira is a Mid-career Soil Carbon researcher at Ministry of Health in TT. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.681963
+date: 2026-10-11T02:32:59.701945
 url: "/cdr-researcher-census/researchers/joao-a-g-moreira-a5067764/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Fertility and carbon stocks in Oxisols under Urochloa pastures and Eucalyptus-based agrosilvopastoral systems established in the Brazilian Cerrado** (2025)
-   5 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 ## External Profiles
 

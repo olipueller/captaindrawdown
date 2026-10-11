@@ -1,7 +1,7 @@
 ---
 title: "Yuanyuan Zhang"
 description: "Yuanyuan Zhang is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.215015
+date: 2026-10-11T02:33:00.245058
 url: "/cdr-researcher-census/researchers/yuanyuan-zhang-a5014046/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Urbanization promotes carbon storage or not? The evidence during the rapid process of China** (2024)
-   60 citations · General CDR
+   63 citations · General CDR
 
 ## External Profiles
 

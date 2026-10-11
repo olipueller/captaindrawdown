@@ -1,7 +1,7 @@
 ---
 title: "Dhamodharan Hemnath Shreeharan"
 description: "Dhamodharan Hemnath Shreeharan is an Early-career General CDR researcher at Saveetha University in IN. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.387173
+date: 2026-10-11T02:33:00.424181
 url: "/cdr-researcher-census/researchers/dhamodharan-hemnath-shreeharan-a5107785/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Artificial intelligence‐driven sustainability: Enhancing carbon capture for sustainable development goals– A review** (2024)
-   102 citations · General CDR
+   106 citations · General CDR
 
 ## External Profiles
 

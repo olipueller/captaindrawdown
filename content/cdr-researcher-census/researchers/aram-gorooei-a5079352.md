@@ -1,7 +1,7 @@
 ---
 title: "Aram Gorooei"
 description: "Aram Gorooei is a Mid-career Soil Carbon researcher at Forschungszentrum Jülich in DE. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.173723
+date: 2026-10-11T02:33:00.203973
 url: "/cdr-researcher-census/researchers/aram-gorooei-a5079352/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Cropping systems and agricultural management strategies affect soil organic carbon dynamics in semi-arid regions** (2023)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 ## External Profiles
 

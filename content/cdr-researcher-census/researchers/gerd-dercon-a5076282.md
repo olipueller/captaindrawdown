@@ -1,7 +1,7 @@
 ---
 title: "Gerd Dercon"
 description: "Gerd Dercon is a Senior Soil Carbon researcher at International Atomic Energy Agency in AT. With 110 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.124951
+date: 2026-10-11T02:32:59.129631
 url: "/cdr-researcher-census/researchers/gerd-dercon-a5076282/"
 layout: "researcher"
 hiddenInHomeList: true

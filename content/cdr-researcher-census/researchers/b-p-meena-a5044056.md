@@ -1,7 +1,7 @@
 ---
 title: "B. P. Meena"
 description: "B. P. Meena is a Senior Soil Carbon researcher at Indian Institute of Soil Science in IN. With 89 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.220931
+date: 2026-10-11T02:32:59.224532
 url: "/cdr-researcher-census/researchers/b-p-meena-a5044056/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Plans and Policies for Soil Carbon Storage** (2022)
-   8 citations · General CDR
+   7 citations · General CDR
 
 2. **Priming effect of pigeon pea and wood biochar on carbon mineralization of native soil organic carbon and applied municipal solid waste compost** (2024)
    5 citations · Biochar

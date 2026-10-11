@@ -1,7 +1,7 @@
 ---
 title: "Martha Lustosa Carvalho"
 description: "Martha Lustosa Carvalho is a Mid-career Soil Carbon researcher at Universidade de São Paulo in BR. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.956172
+date: 2026-10-11T02:32:59.987657
 url: "/cdr-researcher-census/researchers/martha-lustosa-carvalho-a5034505/"
 layout: "researcher"
 hiddenInHomeList: true

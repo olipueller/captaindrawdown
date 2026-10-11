@@ -1,7 +1,7 @@
 ---
 title: "Kamran Valizadeh"
 description: "Kamran Valizadeh is a Mid-career Biochar researcher at University of Miami in US. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.517310
+date: 2026-10-11T02:32:59.531087
 url: "/cdr-researcher-census/researchers/kamran-valizadeh-a5056733/"
 layout: "researcher"
 hiddenInHomeList: true

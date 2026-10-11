@@ -1,7 +1,7 @@
 ---
 title: "Lisa Ashton"
 description: "Lisa Ashton is a Mid-career Soil Carbon researcher at University of Guelph in CA. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.013866
+date: 2026-10-11T02:33:00.044382
 url: "/cdr-researcher-census/researchers/lisa-ashton-a5025637/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Md. Istiak Sobhan"
 description: "Md. Istiak Sobhan is a Mid-career Soil Carbon researcher. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.149247
+date: 2026-10-11T02:33:00.178631
 url: "/cdr-researcher-census/researchers/md-istiak-sobhan-a5012699/"
 layout: "researcher"
 hiddenInHomeList: true

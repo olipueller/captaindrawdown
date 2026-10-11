@@ -1,7 +1,7 @@
 ---
 title: "Maurice Dörr"
 description: "Maurice Dörr is a Mid-career DAC researcher at SINTEF in NO. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.742997
+date: 2026-10-11T02:32:59.765397
 url: "/cdr-researcher-census/researchers/maurice-dorr-a5041665/"
 layout: "researcher"
 hiddenInHomeList: true

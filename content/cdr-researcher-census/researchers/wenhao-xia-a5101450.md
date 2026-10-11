@@ -1,7 +1,7 @@
 ---
 title: "Wenhao Xia"
 description: "Wenhao Xia is a Senior Soil Carbon researcher at Chengdu Normal University in CN. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.546813
+date: 2026-10-11T02:32:59.561797
 url: "/cdr-researcher-census/researchers/wenhao-xia-a5101450/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of Irrigation and Nitrogen Fertilizer on Soil Carbon Leaching in Cotton Fields in Arid Areas** (2023)
-   6 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 2. **Effects of Irrigation and Nitrogen Fertilizer on Soil Carbon Leaching in Cotton Field in Arid Area** (2023)
    5 citations · Soil Carbon

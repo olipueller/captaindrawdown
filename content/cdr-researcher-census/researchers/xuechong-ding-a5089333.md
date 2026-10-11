@@ -1,7 +1,7 @@
 ---
 title: "Xuechong Ding"
 description: "Xuechong Ding is a Mid-career General CDR researcher. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.881931
+date: 2026-10-11T02:32:59.909219
 url: "/cdr-researcher-census/researchers/xuechong-ding-a5089333/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Superstructure-based carbon capture and utilization process design** (2023)
-   14 citations · General CDR
+   15 citations · General CDR
 
 ## External Profiles
 

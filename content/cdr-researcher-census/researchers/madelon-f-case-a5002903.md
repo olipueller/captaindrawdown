@@ -1,7 +1,7 @@
 ---
 title: "Madelon F. Case"
 description: "Madelon F. Case is a Mid-career Soil Carbon researcher at U.S. Department of the Interior in US. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.330761
+date: 2026-10-11T02:32:59.336476
 url: "/cdr-researcher-census/researchers/madelon-f-case-a5002903/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Limited increases in savanna carbon stocks over decades of fire suppression** (2022)
-   99 citations · Soil Carbon
+   94 citations · Soil Carbon
 
 2. **Soil carbon in tropical savannas mostly derived from grasses** (2023)
-   58 citations · Soil Carbon
+   65 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Katherine D. Holmes"
 description: "Katherine D. Holmes is a Mid-career Soil Carbon researcher at Binghamton University in US. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.560418
+date: 2026-10-11T02:32:59.575999
 url: "/cdr-researcher-census/researchers/katherine-d-holmes-a5039054/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Benefits and Risks of Intercropping for Crop Resilience and Pest Management** (2022)
-   258 citations · Soil Carbon
+   260 citations · Soil Carbon
 
 ## External Profiles
 

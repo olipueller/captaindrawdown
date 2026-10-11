@@ -1,7 +1,7 @@
 ---
 title: "Haowei Ni"
 description: "Haowei Ni is a Mid-career Soil Carbon researcher at University of Chinese Academy of Sciences in CN. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.268071
+date: 2026-10-11T02:32:59.272079
 url: "/cdr-researcher-census/researchers/haowei-ni-a5022530/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Response of global farmland soil organic carbon to nitrogen application over time depends on soil type** (2021)
-   40 citations · Soil Carbon
+   38 citations · Soil Carbon
+
+2. **Nitrogen fertilization drives bacterial turnover versus fungal persistence for straw-derived C and N stabilization in a wheat-maize rotation** (2026)
+   2 citations · Soil Carbon
 
 ## External Profiles
 

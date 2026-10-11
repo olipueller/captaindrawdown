@@ -1,7 +1,7 @@
 ---
 title: "Nathalie Monnerie"
 description: "Nathalie Monnerie is a Senior DAC researcher. With 118 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.169093
+date: 2026-10-11T02:32:59.173212
 url: "/cdr-researcher-census/researchers/nathalie-monnerie-a5065748/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -49,7 +49,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    42 citations
 
 2. **Techno-Economic Assessment of the Integration of Direct Air Capture and the Production of Solar Fuels** (2022)
-   20 citations · DAC
+   21 citations · DAC
 
 3. **Synergies between Direct Air Capture Technologies and Solar Thermochemical Cycles in the Production of Methanol** (2021)
    15 citations · DAC

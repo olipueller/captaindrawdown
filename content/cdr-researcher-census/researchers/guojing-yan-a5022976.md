@@ -1,7 +1,7 @@
 ---
 title: "Guojing Yan"
 description: "Guojing Yan is a Mid-career Soil Carbon researcher at University of Chinese Academy of Sciences in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.283957
+date: 2026-10-11T02:33:00.314186
 url: "/cdr-researcher-census/researchers/guojing-yan-a5022976/"
 layout: "researcher"
 hiddenInHomeList: true

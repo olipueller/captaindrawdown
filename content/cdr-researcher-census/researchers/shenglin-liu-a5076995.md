@@ -1,7 +1,7 @@
 ---
 title: "Shenglin Liu"
 description: "Shenglin Liu is a Senior Soil Carbon researcher at Gannan University of Science and Technology in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.288427
+date: 2026-10-11T02:33:00.318488
 url: "/cdr-researcher-census/researchers/shenglin-liu-a5076995/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Straw Incorporation and Nitrogen Fertilization Enhance Soil Organic Carbon Sequestration by Promoting Aggregate Stability and Iron Oxide Transformation** (2025)
-   7 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 2. **Response of the Stabilization of Organic Carbon to Straw Incorporation and Nitrogen Application: Evidence from Carbon Fractions and Bacterial Survival Strategies** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

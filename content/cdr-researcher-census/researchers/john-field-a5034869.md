@@ -1,7 +1,7 @@
 ---
 title: "John Field"
 description: "John Field is a Senior General CDR researcher at Oak Ridge National Laboratory in US. With 125 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.070611
+date: 2026-10-11T02:32:59.075224
 url: "/cdr-researcher-census/researchers/john-field-a5034869/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Supply chain optimization of sustainable aviation fuel from carinata in the Southeastern United States** (2022)
-   43 citations · General CDR
+   44 citations · General CDR
 
 2. **Modeling Yield, Biogenic Emissions, and Carbon Sequestration in Southeastern Cropping Systems With Winter Carinata** (2022)
-   20 citations · General CDR
+   19 citations · General CDR
 
 3. **A multi-product landscape life-cycle assessment approach for evaluating local climate mitigation potential** (2022)
    15 citations · General CDR
 
 4. **The Role of Biofuels and Biomass Feedstocks for Decarbonizing the U.S. Economy by 2050 - (DECARB) Decarbonizing Energy Through Collaborative Analysis of Routes and Benefits** (2024)
-   5 citations · BECCS
+   6 citations · BECCS
 
-5. **Land conversion to energy crops for sustainable aviation fuel production reduces greenhouse gas emissions in the United States** (2025)
+5. **Which Plant Traits Increase Soil Carbon Sequestration? Empirical Evidence From a Long‐Term Poplar Genetic Diversity Trial** (2025)
+   5 citations · General CDR
+
+6. **Land conversion to energy crops for sustainable aviation fuel production reduces greenhouse gas emissions in the United States** (2025)
    4 citations · BECCS
-
-6. **Which Plant Traits Increase Soil Carbon Sequestration? Empirical Evidence From a Long‐Term Poplar Genetic Diversity Trial** (2025)
-   4 citations · General CDR
 
 7. **Modeling the yield, biogenic emissions, and soil carbon sequestration outcomes of Brassica carinata grown in the southeastern US as a winter cash crop and sustainable aviation fuel feedstock** (2022)
    1 citations · BECCS

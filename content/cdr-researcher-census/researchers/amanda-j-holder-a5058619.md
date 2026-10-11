@@ -1,7 +1,7 @@
 ---
 title: "Amanda J. Holder"
 description: "Amanda J. Holder is a Mid-career Soil Carbon researcher at Aberystwyth University in GB. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.301796
+date: 2026-10-11T02:33:00.332944
 url: "/cdr-researcher-census/researchers/amanda-j-holder-a5058619/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Significant difference in <i>Miscanthus</i> species root carbon exudation rate** (2025)
-   3 citations
+   4 citations
 
 2. **Effect of tillage method on early root growth of <i>Miscanthus</i>** (2025)
    3 citations · BECCS

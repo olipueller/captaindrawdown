@@ -1,7 +1,7 @@
 ---
 title: "Shishu Zhu"
 description: "Shishu Zhu is a Senior Biochar researcher at South China University of Technology in CN. With 69 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.039828
+date: 2026-10-11T02:32:59.042902
 url: "/cdr-researcher-census/researchers/shishu-zhu-a5057582/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,18 +51,21 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effects of biochar on anaerobic treatment systems: Some perspectives** (2022)
-   54 citations · Biochar
+   57 citations · Biochar
 
 2. **Aggregate size mediates the stability and temperature sensitivity of soil organic carbon in response to decadal biochar and straw amendments** (2025)
-   18 citations · Biochar
+   20 citations · Biochar
 
 3. **Biochar and straw application reshape organic carbon pool via altering soil carbon pump function based on a decadal field experiment** (2025)
-   10 citations · Biochar
+   11 citations · Biochar
 
 4. **High-Dose Biochar Hinders Micro/Nanoplastic-Induced Soil Positive Priming by Reducing Substrate Quality and Microbial Activity** (2026)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
-5. **Environmental Stability of Biochar in Natural Systems** (2025)
+5. **The degradation and greenhouse gas emissions of microplastic-derived dissolved organic matter: Role of mineral and polymer types** (2026)
+   2 citations
+
+6. **Environmental Stability of Biochar in Natural Systems** (2025)
    0 citations · Biochar
 
 ## External Profiles

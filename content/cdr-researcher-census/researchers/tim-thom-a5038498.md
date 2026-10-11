@@ -1,7 +1,7 @@
 ---
 title: "Tim Thom"
 description: "Tim Thom is a Mid-career Soil Carbon researcher at South West Yorkshire Partnership NHS Foundation Trust in GB. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.260827
+date: 2026-10-11T02:32:59.264736
 url: "/cdr-researcher-census/researchers/tim-thom-a5038498/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Panagiotis Regkouzas"
 description: "Panagiotis Regkouzas is a Mid-career Biochar researcher at Technical University of Crete in GR. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.837313
+date: 2026-10-11T02:32:59.863464
 url: "/cdr-researcher-census/researchers/panagiotis-regkouzas-a5025220/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **BIOCHAR PRODUCTION FROM WASTE BIOMASS: CHARACTERIZATION AND EVALUATION FOR AGRONOMIC AND ENVIRONMENTAL APPLICATIONS** (2021)
-   15 citations · Biochar
+   16 citations · Biochar
 
 2. **The role of biochar in a circular economy: from agriculture to water and wastewater treatment applications** (2024)
    1 citations · Biochar

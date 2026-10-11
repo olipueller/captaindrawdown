@@ -1,7 +1,7 @@
 ---
 title: "Seunghyun Cheon"
 description: "Seunghyun Cheon is a Mid-career General CDR researcher at Ulsan National Institute of Science and Technology in KR. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.611602
+date: 2026-10-11T02:32:59.628956
 url: "/cdr-researcher-census/researchers/seunghyun-cheon-a5006703/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Mitigating climate change for negative CO2 emission via syngas methanation: Techno-economic and life-cycle assessments of renewable methane production** (2023)
-   39 citations · General CDR
+   40 citations · General CDR
 
 ## External Profiles
 

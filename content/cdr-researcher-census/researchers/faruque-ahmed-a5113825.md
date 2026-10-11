@@ -1,7 +1,7 @@
 ---
 title: "Faruque Ahmed"
 description: "Faruque Ahmed is a Senior Soil Carbon researcher. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.864454
+date: 2026-10-11T02:32:59.890998
 url: "/cdr-researcher-census/researchers/faruque-ahmed-a5113825/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of Organic Amendments on Soil Aggregate Stability, Carbon Sequestration, and Energy Use Efficiency in Wetland Paddy Cultivation** (2022)
-   43 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 ## External Profiles
 

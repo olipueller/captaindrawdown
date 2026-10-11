@@ -1,7 +1,7 @@
 ---
 title: "A. Keerthika"
 description: "A. Keerthika is a Mid-career Soil Carbon researcher at Vinayaka Missions University in IN. With 67 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.487664
+date: 2026-10-11T02:32:59.499434
 url: "/cdr-researcher-census/researchers/a-keerthika-a5018376/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Optimizing planting geometries in eucalyptus-based food production systems for enhanced yield and carbon sequestration** (2024)
-   15 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 2. **Quantification and Economic Valuation of Carbon Sequestration from Smallholder Multifunctional Agroforestry: A Study from The Foothills of The Nilgiris, India** (2022)
    11 citations · General CDR

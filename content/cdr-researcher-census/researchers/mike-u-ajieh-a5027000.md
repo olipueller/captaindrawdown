@@ -1,7 +1,7 @@
 ---
 title: "Mike U. Ajieh"
 description: "Mike U. Ajieh is a Mid-career Biochar researcher at Delta State University in NG. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.292696
+date: 2026-10-11T02:33:00.322915
 url: "/cdr-researcher-census/researchers/mike-u-ajieh-a5027000/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Carmen R. Forero"
 description: "Carmen R. Forero is a Senior General CDR researcher at Universidad del Valle in CO. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.345427
+date: 2026-10-11T02:32:59.351380
 url: "/cdr-researcher-census/researchers/carmen-r-forero-a5083201/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,9 +51,12 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Use of a Low-Cost Colombian Manganese Mineral as a Solid Oxygen Carrier in Chemical Looping Combustion Technology** (2021)
-   7 citations · General CDR
+   6 citations · General CDR
 
-2. **Evaluation of the Mineral Manganese OXMN009 and OXMN009P in the Chemical Looping Combustion (CLC) Process Using Thermogravimetry** (2024)
+2. **Economic, social and environmental potential of bioenergy technologies with CO2 capture in biorefineries** (2024)
+   0 citations
+
+3. **Evaluation of the Mineral Manganese OXMN009 and OXMN009P in the Chemical Looping Combustion (CLC) Process Using Thermogravimetry** (2024)
    0 citations · General CDR
 
 ## External Profiles

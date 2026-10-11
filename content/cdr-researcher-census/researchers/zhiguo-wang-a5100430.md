@@ -1,7 +1,7 @@
 ---
 title: "Zhiguo Wang"
 description: "Zhiguo Wang is a Senior Soil Carbon researcher at Ghent University in BE. With 38 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.410650
+date: 2026-10-11T02:32:59.420048
 url: "/cdr-researcher-census/researchers/zhiguo-wang-a5100430/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of legume intercropping and nitrogen input on net greenhouse gas balances, intensity, carbon footprint and crop productivity in sweet maize cropland in South China** (2021)
-   78 citations · Soil Carbon
+   79 citations · Soil Carbon
 
 2. **Nitrogen addition promotes soil phosphorus availability in the subalpine forest of eastern Tibetan Plateau** (2021)
-   42 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 ## External Profiles
 

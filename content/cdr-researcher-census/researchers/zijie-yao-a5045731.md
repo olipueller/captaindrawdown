@@ -1,7 +1,7 @@
 ---
 title: "Zijie Yao"
 description: "Zijie Yao is an Early-career Soil Carbon researcher at Henan University in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.325037
+date: 2026-10-11T02:33:00.357647
 url: "/cdr-researcher-census/researchers/zijie-yao-a5045731/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Climate change stress alleviation through nature based solutions: A global perspective** (2022)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Auke Hoekstra"
 description: "Auke Hoekstra is a Mid-career General CDR researcher at Eindhoven University of Technology in NL. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.280239
+date: 2026-10-11T02:32:59.284477
 url: "/cdr-researcher-census/researchers/auke-hoekstra-a5005754/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **On the History and Future of 100% Renewable Energy Systems Research** (2022)
-   582 citations · General CDR
+   588 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Priyanka Saha"
 description: "Priyanka Saha is a Senior General CDR researcher at Techno India University in IN. With 116 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.170361
+date: 2026-10-11T02:32:59.174457
 url: "/cdr-researcher-census/researchers/priyanka-saha-a5101601/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Synergizing sustainability: a critical review on harnessing agroforestry for biomass, carbon sequestration, and water-food-energy nexus** (2024)
-   10 citations · BECCS
+   11 citations · BECCS
 
 2. **Agroforestry for Food Security and Ecological Sustainability Under Changing Climatic Scenarios** (2024)
    5 citations · General CDR
 
 3. **The interplay between external residue addition, and soil organic carbon dynamics and mineralization kinetics: Experiences from a 12-year old conservation agriculture** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 4. **Soil Carbon Sequestration Potential in Achieving the Land Degradation Neutrality (LDN)** (2025)
    2 citations · General CDR

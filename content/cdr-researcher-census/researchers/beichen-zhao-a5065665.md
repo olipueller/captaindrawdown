@@ -1,7 +1,7 @@
 ---
 title: "Beichen Zhao"
 description: "Beichen Zhao is an Early-career Biochar researcher at Hunan University in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.084526
+date: 2026-10-11T02:33:00.114866
 url: "/cdr-researcher-census/researchers/beichen-zhao-a5065665/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **When biochar is involved in rhizosphere dissipation and plant absorption of pesticides: A meta-analysis** (2023)
-   37 citations · Biochar
+   38 citations · Biochar
 
 2. **Effects of activated carbon, biochar, and carbon nanotubes on the heterogeneous Fenton oxidation catalyzed by pyrite for ciprofloxacin degradation** (2022)
    36 citations · Biochar

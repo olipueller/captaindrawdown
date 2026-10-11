@@ -1,7 +1,7 @@
 ---
 title: "Junliang Lin"
 description: "Junliang Lin is a Mid-career General CDR researcher at Nantong University in CN. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.348903
+date: 2026-10-11T02:32:59.354794
 url: "/cdr-researcher-census/researchers/junliang-lin-a5031585/"
 layout: "researcher"
 hiddenInHomeList: true

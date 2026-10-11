@@ -1,7 +1,7 @@
 ---
 title: "Long T. Duong"
 description: "Long T. Duong is a Mid-career Biochar researcher at Lancaster University in GB. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.336955
+date: 2026-10-11T02:33:00.371090
 url: "/cdr-researcher-census/researchers/long-t-duong-a5084357/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Flexible MIL-53(Al)/Biochar composite for enhanced norfloxacin Removal: Synergistic effects and adsorption mechanisms** (2025)
-   4 citations · Biochar
+   5 citations · Biochar
 
 ## External Profiles
 

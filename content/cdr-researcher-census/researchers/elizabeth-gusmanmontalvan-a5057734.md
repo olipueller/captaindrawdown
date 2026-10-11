@@ -1,7 +1,7 @@
 ---
 title: "Elizabeth Gusmán‐Montalván"
 description: "Elizabeth Gusmán‐Montalván is a Mid-career Soil Carbon researcher at Universidad Técnica Particular de Loja in EC. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.343218
+date: 2026-10-11T02:32:59.349234
 url: "/cdr-researcher-census/researchers/elizabeth-gusmanmontalvan-a5057734/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term grazing exclusion enhances soil carbon and nitrogen stocks in tropical dry forests of southern Ecuador** (2025)
-   3 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

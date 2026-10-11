@@ -1,7 +1,7 @@
 ---
 title: "Zainab Salah"
 description: "Zainab Salah is a Mid-career Biochar researcher at Centers for Disease Control and Prevention in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.077872
+date: 2026-10-11T02:33:00.108260
 url: "/cdr-researcher-census/researchers/zainab-salah-a5013456/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Assessment of Water Hyacinth Biochar as a Soil Amendment for Sandy Soils** (2021)
-   15 citations · Biochar
+   16 citations · Biochar
 
 ## External Profiles
 

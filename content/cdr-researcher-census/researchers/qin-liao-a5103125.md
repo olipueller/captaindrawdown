@@ -1,7 +1,7 @@
 ---
 title: "Qin Liao"
 description: "Qin Liao is a Senior Biochar researcher at Sichuan Agricultural University in CN. With 30 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.079123
+date: 2026-10-11T02:33:00.109263
 url: "/cdr-researcher-census/researchers/qin-liao-a5103125/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhanced removal of metal-cyanide complexes from wastewater by Fe-impregnated biochar: Adsorption performance and removal mechanism** (2023)
-   21 citations
+   22 citations
 
 2. **Returning low C/N crop straw to the paddy field can achieve the dual benefits of reduced methane emissions and enhanced yield stability** (2025)
-   7 citations · Biochar
+   9 citations · Biochar
 
 3. **Enhanced Removal of Metal-Cyanide Complexes from Wastewater by Fe-Impregnated Biochar: Adsorption Performance and Removal Mechanism** (2023)
    0 citations · Biochar

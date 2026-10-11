@@ -1,7 +1,7 @@
 ---
 title: "Xuehui Sun"
 description: "Xuehui Sun is a Senior Biochar researcher at Tobacco Research Institute in CN. With 39 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.152397
+date: 2026-10-11T02:32:59.156643
 url: "/cdr-researcher-census/researchers/xuehui-sun-a5100861/"
 layout: "researcher"
 hiddenInHomeList: true

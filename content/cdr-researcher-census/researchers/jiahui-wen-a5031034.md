@@ -1,7 +1,7 @@
 ---
 title: "Jiahui Wen"
 description: "Jiahui Wen is a Mid-career Soil Carbon researcher at Fujian Agriculture and Forestry University in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.646335
+date: 2026-10-11T02:32:59.665106
 url: "/cdr-researcher-census/researchers/jiahui-wen-a5031034/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Spartina alterniflora invasion differentially alters microbial residues and their contribution to soil organic C in coastal marsh and mangrove wetlands** (2023)
-   30 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 ## External Profiles
 

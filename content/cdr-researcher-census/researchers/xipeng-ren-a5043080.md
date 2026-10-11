@@ -1,7 +1,7 @@
 ---
 title: "Xipeng Ren"
 description: "Xipeng Ren is a Mid-career Soil Carbon researcher at Central Queensland University in AU. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.381051
+date: 2026-10-11T02:33:00.416810
 url: "/cdr-researcher-census/researchers/xipeng-ren-a5043080/"
 layout: "researcher"
 hiddenInHomeList: true

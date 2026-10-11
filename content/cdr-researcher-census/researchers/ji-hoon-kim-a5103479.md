@@ -1,7 +1,7 @@
 ---
 title: "Ji Hoon Kim"
 description: "Ji Hoon Kim is a Senior Biochar researcher at Chungnam National University in KR. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.240064
+date: 2026-10-11T02:32:59.243586
 url: "/cdr-researcher-census/researchers/ji-hoon-kim-a5103479/"
 layout: "researcher"
 hiddenInHomeList: true

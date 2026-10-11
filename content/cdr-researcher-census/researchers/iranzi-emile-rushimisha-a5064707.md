@@ -1,7 +1,7 @@
 ---
 title: "Iranzi Emile Rushimisha"
 description: "Iranzi Emile Rushimisha is a Mid-career Biochar researcher at Shantou University in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.820353
+date: 2026-10-11T02:32:59.845278
 url: "/cdr-researcher-census/researchers/iranzi-emile-rushimisha-a5064707/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Application of biochar on soil bioelectrochemical remediation: behind roles, progress, and potential** (2022)
-   26 citations · Biochar
+   28 citations · Biochar
 
 2. **Effect of fresh and aged biochar on electrogenic hydrocarbon degradation in soil microbial electrochemical remediation** (2022)
    24 citations · Biochar

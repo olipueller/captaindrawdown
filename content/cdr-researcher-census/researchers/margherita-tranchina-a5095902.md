@@ -1,7 +1,7 @@
 ---
 title: "Margherita Tranchina"
 description: "Margherita Tranchina is an Early-career Soil Carbon researcher at Scuola Superiore Sant'Anna in IT. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.310849
+date: 2026-10-11T02:33:00.341607
 url: "/cdr-researcher-census/researchers/margherita-tranchina-a5095902/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **What challenges impede the adoption of agroforestry practices? A global perspective through a systematic literature review** (2024)
-   106 citations · General CDR
+   110 citations · General CDR
 
 ## External Profiles
 

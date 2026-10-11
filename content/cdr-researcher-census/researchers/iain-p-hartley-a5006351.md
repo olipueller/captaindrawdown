@@ -1,7 +1,7 @@
 ---
 title: "Iain P. Hartley"
 description: "Iain P. Hartley is an Eminent Soil Carbon researcher at University of Exeter in GB. With 213 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.032314
+date: 2026-10-11T02:32:59.035334
 url: "/cdr-researcher-census/researchers/iain-p-hartley-a5006351/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,34 +51,34 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Direct evidence for phosphorus limitation on Amazon forest productivity** (2022)
-   240 citations
+   246 citations
 
 2. **Storage, patterns and influencing factors for soil organic carbon in coastal wetlands of China** (2022)
-   159 citations · Soil Carbon
+   163 citations · Soil Carbon
 
 3. **<i>Spartina alterniflora</i> invasion controls organic carbon stocks in coastal marsh and mangrove soils across tropics and subtropics** (2021)
-   137 citations · Soil Carbon
+   139 citations · Soil Carbon
 
 4. **Patterns and determinants of plant‐derived lignin phenols in coastal wetlands: Implications for organic C accumulation** (2023)
-   57 citations · Soil Carbon
+   59 citations · Soil Carbon
 
 5. **Fine roots stimulate nutrient release during early stages of leaf litter decomposition in a Central Amazon rainforest** (2021)
-   54 citations
+   56 citations
 
 6. **Current and future potential soil organic carbon stocks of vegetated coastal ecosystems and their controls in the Bohai Rim Region, China** (2023)
    26 citations · Ocean CDR
 
-7. **Organic matter composition and stability in estuarine wetlands depending on soil salinity** (2024)
-   23 citations · Soil Carbon
+7. **Patterns and drivers of soil organic carbon fractions and persistence in coastal wetlands of China** (2025)
+   24 citations · Soil Carbon
 
-8. **Patterns and drivers of soil organic carbon fractions and persistence in coastal wetlands of China** (2025)
-   22 citations · Soil Carbon
+8. **Organic matter composition and stability in estuarine wetlands depending on soil salinity** (2024)
+   24 citations · Soil Carbon
 
 9. **Mineral Association and Microbial Processing Jointly Prolong Carbon Turnover in Coastal Wetlands** (2026)
-   15 citations · Soil Carbon
+   19 citations · Soil Carbon
 
-10. **Specific PhytOC fractions in rice straw and consequent implications for potential of phytolith carbon sequestration in global paddy fields** (2022)
-   12 citations · Soil Carbon
+10. **Organic phosphorus cycling may control grassland responses to nitrogen deposition: a long-term field manipulation and modelling study** (2021)
+   14 citations · Soil Carbon
 
 ## External Profiles
 

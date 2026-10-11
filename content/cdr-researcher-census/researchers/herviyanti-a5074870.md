@@ -1,7 +1,7 @@
 ---
 title: "Herviyanti"
 description: "Herviyanti is a Mid-career Soil Carbon researcher at Andalas University in ID. With 28 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.386274
+date: 2026-10-11T02:33:00.423227
 url: "/cdr-researcher-census/researchers/herviyanti-a5074870/"
 layout: "researcher"
 hiddenInHomeList: true

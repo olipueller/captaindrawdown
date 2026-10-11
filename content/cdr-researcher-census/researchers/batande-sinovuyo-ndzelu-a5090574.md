@@ -1,7 +1,7 @@
 ---
 title: "Batande Sinovuyo Ndzelu"
 description: "Batande Sinovuyo Ndzelu is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.528982
+date: 2026-10-11T02:32:59.542996
 url: "/cdr-researcher-census/researchers/batande-sinovuyo-ndzelu-a5090574/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Tillage effects on humus composition and humic acid structural characteristics in soil aggregate-size fractions** (2021)
-   77 citations · Soil Carbon
+   78 citations · Soil Carbon
 
 2. **Contrasting effects of straw and straw-derived biochar application on soil organic matter and corn yield in a Chinese Mollisol** (2023)
    14 citations · Biochar
@@ -62,17 +62,17 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **The Different Roles of Mineralogy in Soil Organic Carbon Accumulation in Northern and Southern China** (2023)
    3 citations · Soil Carbon
 
-5. **Distribution pattern of extractable and non-extractable new carbon from biochar exhibited opposite trends with prolonged soil incubation** (2025)
-   0 citations · Biochar
+5. **Mineralization of Soil Organic Carbon and Its Control Mechanisms Under Different Tea Plantations in Southwest Yunnan, China** (2025)
+   1 citations · Soil Carbon
 
 6. **Distribution pattern of extractable and non-extractable new carbon from biochar exhibited opposite trends with prolonged soil incubation** (2025)
    0 citations · Biochar
 
-7. **Tillage Intensity and Corn Straw Residues Alter the Composition of Dissolved and Mineral-Associated Organic Matter Formation: Evidence from Fluorescence and Ultraviolet-Visible Spectroscopy** (2025)
-   0 citations
+7. **Distribution pattern of extractable and non-extractable new carbon from biochar exhibited opposite trends with prolonged soil incubation** (2025)
+   0 citations · Biochar
 
-8. **Mineralization of Soil Organic Carbon and Its Control Mechanisms Under Different Tea Plantations in Southwest Yunnan, China** (2025)
-   0 citations · Soil Carbon
+8. **Tillage Intensity and Corn Straw Residues Alter the Composition of Dissolved and Mineral-Associated Organic Matter Formation: Evidence from Fluorescence and Ultraviolet-Visible Spectroscopy** (2025)
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "I. B. Kantola"
 description: "I. B. Kantola is a Mid-career Enhanced Weathering researcher at University of Illinois Urbana-Champaign in US. With 61 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.142591
+date: 2026-10-11T02:32:59.146798
 url: "/cdr-researcher-census/researchers/i-b-kantola-a5084112/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Effects of mineralogy, chemistry and physical properties of basalts on carbon capture potential and plant-nutrient element release via enhanced weathering** (2021)
-   161 citations · Enhanced Weathering
+   162 citations · Enhanced Weathering
 
 2. **Enhanced weathering in the US Corn Belt delivers carbon removal with agronomic benefits** (2024)
    146 citations
@@ -60,13 +60,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    87 citations · Enhanced Weathering
 
 4. **In silico assessment of the potential of basalt amendments to reduce N<sub>2</sub>O emissions from bioenergy crops** (2020)
-   66 citations · BECCS
+   64 citations · BECCS
 
 5. **A review of transformative strategies for climate mitigation by grasslands** (2021)
-   42 citations
+   41 citations
 
 6. **Improving nitrogen cycling in a land surface model (CLM5) to quantify soil N <sub>2</sub> O, NO, and NH <sub>3</sub> emissions from enhanced rock weathering with croplands** (2023)
-   16 citations · Enhanced Weathering
+   20 citations · Enhanced Weathering
 
 7. **Iron Chelation in Soil: Scalable Biotechnology for Accelerating Carbon Dioxide Removal by Enhanced Rock Weathering** (2024)
    9 citations · Enhanced Weathering
@@ -77,7 +77,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 9. **Improving nitrogen cycling in a land surface model (CLM5) to quantify soil N <sub>2</sub> O, NO and NH <sub>3</sub> emissions from enhanced rock weathering with croplands** (2023)
    4 citations
 
-10. **Validating assumptions in calculating carbon dioxide removal by enhanced rock weathering in Kantola et al., 2023** (2023)
+10. **Effects of rock amendment on soil physicochemical properties and organic carbon stabilization** (2025)
    3 citations · Enhanced Weathering
 
 ## External Profiles

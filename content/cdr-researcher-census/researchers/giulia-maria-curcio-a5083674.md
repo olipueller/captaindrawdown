@@ -1,7 +1,7 @@
 ---
 title: "Giulia Maria Curcio"
 description: "Giulia Maria Curcio is a Mid-career BECCS researcher at University of Calabria in IT. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.486301
+date: 2026-10-11T02:32:59.497964
 url: "/cdr-researcher-census/researchers/giulia-maria-curcio-a5083674/"
 layout: "researcher"
 hiddenInHomeList: true

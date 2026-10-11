@@ -1,7 +1,7 @@
 ---
 title: "Natalia Rodríguez-Berbel"
 description: "Natalia Rodríguez-Berbel is a Mid-career Soil Carbon researcher at Mediterranean Agronomic Institute of Chania in GR. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.806996
+date: 2026-10-11T02:32:59.831984
 url: "/cdr-researcher-census/researchers/natalia-rodriguez-berbel-a5051287/"
 layout: "researcher"
 hiddenInHomeList: true

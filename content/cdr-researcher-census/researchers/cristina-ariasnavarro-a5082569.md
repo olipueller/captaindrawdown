@@ -1,7 +1,7 @@
 ---
 title: "Cristina Arias‐Navarro"
 description: "Cristina Arias‐Navarro is a Mid-career Soil Carbon researcher at European Commission in BE. With 25 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.147679
+date: 2026-10-11T02:32:59.151963
 url: "/cdr-researcher-census/researchers/cristina-ariasnavarro-a5082569/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Towards a modular, multi-ecosystem monitoring, reporting and verification (MRV) framework for soil organic carbon stock change assessment** (2024)
-   29 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 2. **Circasa; coordination of international Research cooperation and Soil Carbon sequestration in Agriculture** (2021)
    0 citations · General CDR

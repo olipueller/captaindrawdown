@@ -1,7 +1,7 @@
 ---
 title: "Johanna Schild"
 description: "Johanna Schild is a Senior Soil Carbon researcher at Netherlands Environmental Assessment Agency in NL. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.901920
+date: 2026-10-11T02:32:59.931250
 url: "/cdr-researcher-census/researchers/johanna-schild-a5026846/"
 layout: "researcher"
 hiddenInHomeList: true

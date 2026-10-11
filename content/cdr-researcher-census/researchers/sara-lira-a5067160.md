@@ -1,7 +1,7 @@
 ---
 title: "Sara Lira"
 description: "Sara Lira is a Mid-career Soil Carbon researcher at Corteva (United States) in US. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.271397
+date: 2026-10-11T02:33:00.301281
 url: "/cdr-researcher-census/researchers/sara-lira-a5067160/"
 layout: "researcher"
 hiddenInHomeList: true

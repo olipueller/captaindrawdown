@@ -1,7 +1,7 @@
 ---
 title: "Divya Bisen"
 description: "Divya Bisen is a Mid-career General CDR researcher at Lovely Professional University in IN. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.984764
+date: 2026-10-11T02:33:00.015790
 url: "/cdr-researcher-census/researchers/divya-bisen-a5085719/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Vincent Dufour‐Décieux"
 description: "Vincent Dufour‐Décieux is a Mid-career DAC researcher at ETH Zurich in CH. With 21 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.378070
+date: 2026-10-11T02:33:00.413835
 url: "/cdr-researcher-census/researchers/vincent-dufourdecieux-a5012073/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,24 +51,27 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage** (2025)
-   45 citations · General CDR
+   54 citations · General CDR
 
 2. **(How to) avoid the inflationary labeling of emissions as “hard to abate”** (2025)
-   6 citations · General CDR
+   8 citations · General CDR
 
 3. **Efficient Prediction of Multicomponent Adsorption Isotherms and Enthalpies of Adsorption in MOFs Using Classical Density Functional Theory** (2026)
-   4 citations
+   5 citations
 
 4. **Structured sorbents for Direct Air Capture: The impact of materials and chemicals on performance** (2026)
-   0 citations · DAC
+   1 citations · DAC
 
 5. **Structured sorbents for direct air capture: the impact of materials and chemicals on performance** (2026)
    0 citations · DAC
 
-6. **Author response for "An Ecosystem of Carbon Dioxide Removal Reviews - Part 1: Direct Air CO2 Capture and Storage"** (2025)
+6. **Efficient prediction of multicomponent adsorption isotherms and enthalpies of adsorption in MOFs using classical density functional theory** (2026)
    0 citations
 
 7. **Author response for "An Ecosystem of Carbon Dioxide Removal Reviews - Part 1: Direct Air CO2 Capture and Storage"** (2025)
+   0 citations
+
+8. **Author response for "An Ecosystem of Carbon Dioxide Removal Reviews - Part 1: Direct Air CO2 Capture and Storage"** (2025)
    0 citations · General CDR
 
 ## External Profiles

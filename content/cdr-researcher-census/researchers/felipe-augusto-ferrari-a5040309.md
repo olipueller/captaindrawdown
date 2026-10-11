@@ -1,7 +1,7 @@
 ---
 title: "Felipe Augusto Ferrari"
 description: "Felipe Augusto Ferrari is a Senior BECCS researcher. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.212948
+date: 2026-10-11T02:33:00.243052
 url: "/cdr-researcher-census/researchers/felipe-augusto-ferrari-a5040309/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Integrated e-Methanol and Drop-in Fuels Hydrothermal Liquefaction Platform─Techno-Economic and GHG Emissions Assessment for Grid-Connected Plants under Flexible BECCU(S) Operation** (2024)
-   5 citations · BECCS
+   6 citations · BECCS
 
 ## External Profiles
 

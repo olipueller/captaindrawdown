@@ -1,7 +1,7 @@
 ---
 title: "Alasdair C. G. Knight"
 description: "Alasdair C. G. Knight is a Mid-career Enhanced Weathering researcher at University of Cambridge in GB. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.099927
+date: 2026-10-11T02:33:00.130607
 url: "/cdr-researcher-census/researchers/alasdair-c-g-knight-a5074796/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Quantifying CO<sub>2</sub> Removal at Enhanced Weathering Sites: a Multiproxy Approach** (2023)
-   35 citations · Enhanced Weathering
+   36 citations · Enhanced Weathering
 
 2. **Periglacial Regions as Hotspots of Oxidative Weathering that Drive Deglacial Acceleration of Rock Carbon Release** (2026)
    0 citations

@@ -1,7 +1,7 @@
 ---
 title: "Wieke Vervuurt"
 description: "Wieke Vervuurt is an Early-career Soil Carbon researcher at Wageningen University & Research in NL. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.358736
+date: 2026-10-11T02:33:00.393508
 url: "/cdr-researcher-census/researchers/wieke-vervuurt-a5034169/"
 layout: "researcher"
 hiddenInHomeList: true

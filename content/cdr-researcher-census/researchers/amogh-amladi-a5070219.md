@@ -1,7 +1,7 @@
 ---
 title: "Amogh Amladi"
 description: "Amogh Amladi is a Mid-career BECCS researcher at University of Groningen in NL. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.239826
+date: 2026-10-11T02:33:00.269965
 url: "/cdr-researcher-census/researchers/amogh-amladi-a5070219/"
 layout: "researcher"
 hiddenInHomeList: true

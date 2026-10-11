@@ -1,7 +1,7 @@
 ---
 title: "Masahiro Sugiyama"
 description: "Masahiro Sugiyama is a Senior General CDR researcher at University of Tokyo in JP. With 139 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.093838
+date: 2026-10-11T02:32:59.098410
 url: "/cdr-researcher-census/researchers/masahiro-sugiyama-a5064075/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    17 citations · General CDR
 
 2. **Public perception of carbon dioxide removal in three Asian regions** (2024)
-   8 citations · General CDR
+   9 citations · General CDR
 
 3. **Navigating the obstacles of carbon-negative technologies** (2024)
    6 citations · General CDR
 
 4. **Public perception of carbon dioxide removal (CDR) and its influencing factors: evidence from a survey in Malaysia** (2024)
-   4 citations · General CDR
+   5 citations · General CDR
 
 5. **JMIP 2 Part 1: Technology uncertainty and robustness in Japan’s net-zero pathways** (2025)
    3 citations · General CDR

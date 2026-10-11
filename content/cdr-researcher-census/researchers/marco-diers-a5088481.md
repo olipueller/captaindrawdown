@@ -1,7 +1,7 @@
 ---
 title: "Marco Diers"
 description: "Marco Diers is an Early-career Soil Carbon researcher. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.319904
+date: 2026-10-11T02:33:00.351936
 url: "/cdr-researcher-census/researchers/marco-diers-a5088481/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,10 +46,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Are northern German Scots pine plantations climate smart? The impact of large-scale conifer planting on climate, soil and the water cycle** (2022)
-   31 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 2. **Soil carbon and nutrient stocks under Scots pine plantations in comparison to European beech forests: a paired-plot study across forests with different management history and precipitation regimes** (2021)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Jinju Hou"
 description: "Jinju Hou is a Mid-career Biochar researcher at Shanghai Institute of Technology in CN. With 34 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.281340
+date: 2026-10-11T02:32:59.285536
 url: "/cdr-researcher-census/researchers/jinju-hou-a5010269/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Functionalized construction of highly aromatic condensed graphitized biochar for tetracycline adsorption** (2024)
-   22 citations · Biochar
+   23 citations · Biochar
 
 2. **Efficient sulfamethoxazole degradation via staged PMS activation on magnetic pyrite–biochar: Enhanced mineralization and mechanism** (2026)
    8 citations · Biochar

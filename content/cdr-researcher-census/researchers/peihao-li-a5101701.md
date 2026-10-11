@@ -1,7 +1,7 @@
 ---
 title: "Peihao Li"
 description: "Peihao Li is a Mid-career DAC researcher at University of Illinois Urbana-Champaign in US. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.584919
+date: 2026-10-11T02:32:59.601509
 url: "/cdr-researcher-census/researchers/peihao-li-a5101701/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Haitao Ding"
 description: "Haitao Ding is a Senior Biochar researcher at Polar Research Institute of China in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.917609
+date: 2026-10-11T02:32:59.967089
 url: "/cdr-researcher-census/researchers/haitao-ding-a5101580/"
 layout: "researcher"
 hiddenInHomeList: true

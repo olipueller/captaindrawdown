@@ -1,7 +1,7 @@
 ---
 title: "André Rovai"
 description: "André Rovai is a Senior Soil Carbon researcher at Smithsonian Environmental Research Center in US. With 110 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.109316
+date: 2026-10-11T02:32:59.113973
 url: "/cdr-researcher-census/researchers/andre-rovai-a5029054/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Brazilian Mangroves: Blue Carbon Hotspots of National and Global Relevance to Natural Climate Solutions** (2022)
-   71 citations · General CDR
+1. **Deconstructing the mangrove carbon cycle: Gains, transformation, and losses** (2024)
+   72 citations · Soil Carbon
 
-2. **Deconstructing the mangrove carbon cycle: Gains, transformation, and losses** (2024)
-   69 citations · Soil Carbon
+2. **Brazilian Mangroves: Blue Carbon Hotspots of National and Global Relevance to Natural Climate Solutions** (2022)
+   70 citations · General CDR
 
 3. **Above- and Belowground Biomass Carbon Stock and Net Primary Productivity Maps for Tidal Herbaceous Marshes of the United States** (2023)
    20 citations
@@ -71,10 +71,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 7. **Incorporating uncertainty in a wetland soil accretion model (NUMAN 2.0) to test generality across coastal environmental settings of south Florida** (2025)
    2 citations · Soil Carbon
 
-8. **From pixels to patterns: Coupling Optical Coherence Tomography and machine learning for monitoring coastal wetland root systems** (2025)
+8. **Probabilistic forecasting of coastal wetland elevation and soil carbon response to sea‐level rise** (2026)
+   0 citations
+
+9. **From pixels to patterns: Coupling Optical Coherence Tomography and machine learning for monitoring coastal wetland root systems** (2025)
    0 citations · Soil Carbon
 
-9. **Incorporating Uncertainty in a Wetland Soil Accretion Model (Numan 2.0) to Test Generality Across Coastal Environmental Settings of South Florida** (2024)
+10. **Incorporating Uncertainty in a Wetland Soil Accretion Model (Numan 2.0) to Test Generality Across Coastal Environmental Settings of South Florida** (2024)
    0 citations · Soil Carbon
 
 ## External Profiles

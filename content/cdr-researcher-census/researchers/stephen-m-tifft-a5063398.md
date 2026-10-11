@@ -1,7 +1,7 @@
 ---
 title: "Stephen M. Tifft"
 description: "Stephen M. Tifft is a Mid-career BECCS researcher at National Laboratory of the Rockies in US. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.774097
+date: 2026-10-11T02:32:59.797224
 url: "/cdr-researcher-census/researchers/stephen-m-tifft-a5063398/"
 layout: "researcher"
 hiddenInHomeList: true

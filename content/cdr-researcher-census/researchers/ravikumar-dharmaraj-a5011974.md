@@ -1,7 +1,7 @@
 ---
 title: "Ravikumar Dharmaraj"
 description: "Ravikumar Dharmaraj is an Early-career BECCS researcher at University of Agricultural and Horticultural Sciences in IN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.356902
+date: 2026-10-11T02:33:00.391857
 url: "/cdr-researcher-census/researchers/ravikumar-dharmaraj-a5011974/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Biomass Production and Carbon Sequestration Potential of Different Agroforestry Systems in India: A Critical Review** (2022)
-   101 citations · BECCS
+   103 citations · BECCS
 
 ## External Profiles
 

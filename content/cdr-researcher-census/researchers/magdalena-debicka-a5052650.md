@@ -1,7 +1,7 @@
 ---
 title: "Magdalena Dębicka"
 description: "Magdalena Dębicka is a Senior Soil Carbon researcher at Wrocław University of Environmental and Life Sciences in PL. With 42 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.422442
+date: 2026-10-11T02:32:59.432545
 url: "/cdr-researcher-census/researchers/magdalena-debicka-a5052650/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Properties of humin isolated from Polish arable soils: The most recalcitrant fraction of soil organic matter that prevent soil degradation** (2024)
-   9 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 2. **Changes in Soil Humin Macromolecular Structure Resulting from Long-Term Catch Cropping** (2024)
    6 citations · Soil Carbon
@@ -62,16 +62,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Molecular characteristics of humin fraction isolated from soils of temperate climate: a study on Chernozems and Phaeozems in Poland** (2023)
    1 citations
 
-5. **Response of the Soil Organic Matter to Clear-cutting in the Face of Climate Change – a Report from the East Sudety Mountains, South-West Poland** (2024)
+5. **Insights from Lithuanian long-term soil management experiments: soil organic matter stability and carbon sequestration** (2026)
    0 citations · Soil Carbon
 
-6. **Soil management effects on soil organic matter properties and carbon sequestration (SOMPACS)** (2023)
+6. **Response of the Soil Organic Matter to Clear-cutting in the Face of Climate Change – a Report from the East Sudety Mountains, South-West Poland** (2024)
+   0 citations · Soil Carbon
+
+7. **Soil management effects on soil organic matter properties and carbon sequestration (SOMPACS)** (2023)
    0 citations · General CDR
 
-7. **Luminescence properties of the humin fraction isolated from Chernozems and Phaeozems from various regions of Poland&amp;#160;** (2022)
+8. **Luminescence properties of the humin fraction isolated from Chernozems and Phaeozems from various regions of Poland&amp;#160;** (2022)
    0 citations · Soil Carbon
 
-8. **Selected properties of the humin fraction isolated from Chernozems and Phaeozems from various regions of Poland&amp;#160;** (2021)
+9. **Selected properties of the humin fraction isolated from Chernozems and Phaeozems from various regions of Poland&amp;#160;** (2021)
    0 citations · Soil Carbon
 
 ## External Profiles

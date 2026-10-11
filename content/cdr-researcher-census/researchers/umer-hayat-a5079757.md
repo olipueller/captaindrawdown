@@ -1,7 +1,7 @@
 ---
 title: "Umer Hayat"
 description: "Umer Hayat is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.188308
+date: 2026-10-11T02:33:00.218414
 url: "/cdr-researcher-census/researchers/umer-hayat-a5079757/"
 layout: "researcher"
 hiddenInHomeList: true

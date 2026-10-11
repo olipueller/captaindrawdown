@@ -1,7 +1,7 @@
 ---
 title: "Dominic Kain"
 description: "Dominic Kain is a Senior Soil Carbon researcher at Seqwater in AU. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.823527
+date: 2026-10-11T02:32:59.848692
 url: "/cdr-researcher-census/researchers/dominic-kain-a5060347/"
 layout: "researcher"
 hiddenInHomeList: true

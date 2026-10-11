@@ -1,7 +1,7 @@
 ---
 title: "Prabha Susan Philip"
 description: "Prabha Susan Philip is a Mid-career Biochar researcher at Kerala Agricultural University in IN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.128605
+date: 2026-10-11T02:33:00.158855
 url: "/cdr-researcher-census/researchers/prabha-susan-philip-a5001732/"
 layout: "researcher"
 hiddenInHomeList: true

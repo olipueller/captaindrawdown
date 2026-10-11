@@ -1,7 +1,7 @@
 ---
 title: "Yanfang Xue"
 description: "Yanfang Xue is a Senior Soil Carbon researcher at Shandong Academy of Agricultural Sciences in CN. With 50 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.119382
+date: 2026-10-11T02:32:59.124042
 url: "/cdr-researcher-census/researchers/yanfang-xue-a5101137/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Underestimated sequestration of soil organic carbon in China** (2025)
-   25 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 2. **Particulate and mineral-associated organic matter in cropland soils: Meta-analysis of management effects** (2026)
-   4 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 3. **Pursuing zero net greenhouse gas emission in crop production in China** (2025)
    2 citations · General CDR

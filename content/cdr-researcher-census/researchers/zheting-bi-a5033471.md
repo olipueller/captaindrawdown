@@ -1,7 +1,7 @@
 ---
 title: "Zheting Bi"
 description: "Zheting Bi is a Mid-career Biochar researcher at University of Minnesota in US. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.618315
+date: 2026-10-11T02:32:59.635787
 url: "/cdr-researcher-census/researchers/zheting-bi-a5033471/"
 layout: "researcher"
 hiddenInHomeList: true

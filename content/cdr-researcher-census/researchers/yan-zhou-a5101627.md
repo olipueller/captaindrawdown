@@ -1,7 +1,7 @@
 ---
 title: "Yan Zhou"
 description: "Yan Zhou is a Senior Biochar researcher at China Three Gorges University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.276633
+date: 2026-10-11T02:32:59.280991
 url: "/cdr-researcher-census/researchers/yan-zhou-a5101627/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Efficient removal of nutrient from municipal wastewater: Performance and mechanisms of biochar-based materials** (2025)
-   2 citations · Biochar
+   3 citations · Biochar
 
 ## External Profiles
 

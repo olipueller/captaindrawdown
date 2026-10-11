@@ -1,7 +1,7 @@
 ---
 title: "Runjuan Zhou"
 description: "Runjuan Zhou is a Mid-career Biochar researcher at Anhui Polytechnic University in CN. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.393729
+date: 2026-10-11T02:32:59.402033
 url: "/cdr-researcher-census/researchers/runjuan-zhou-a5030783/"
 layout: "researcher"
 hiddenInHomeList: true

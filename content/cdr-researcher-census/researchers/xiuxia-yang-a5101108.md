@@ -1,7 +1,7 @@
 ---
 title: "Xiuxia Yang"
 description: "Xiuxia Yang is a Senior Biochar researcher at Kunming University of Science and Technology in CN. With 28 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.192865
+date: 2026-10-11T02:32:59.196869
 url: "/cdr-researcher-census/researchers/xiuxia-yang-a5101108/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Net global warming potential, greenhouse gas intensity and carbon footprint as affected by different tillage systems from Chinese double-cropping paddy fields** (2021)
-   48 citations · Soil Carbon
+   49 citations · Soil Carbon
 
 2. **Serpentine-modified biochar from dual wastes for enhanced copper removal: Performance and mechanism** (2026)
-   3 citations · Biochar
+   5 citations · Biochar
 
 ## External Profiles
 

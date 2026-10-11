@@ -1,7 +1,7 @@
 ---
 title: "Kazuki Togami"
 description: "Kazuki Togami is a Senior Soil Carbon researcher at Tohoku Agricultural Research Center in JP. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.025493
+date: 2026-10-11T02:33:00.056795
 url: "/cdr-researcher-census/researchers/kazuki-togami-a5081761/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yiheng Wang"
 description: "Yiheng Wang is a Senior Soil Carbon researcher at Fudan University in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.102056
+date: 2026-10-11T02:33:00.132369
 url: "/cdr-researcher-census/researchers/yiheng-wang-a5033050/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Interplay between saltmarsh carbon burial and lateral exchange in coastal wetlands: The role of biomorphodynamic feedback** (2025)
-   2 citations · General CDR
+   4 citations · General CDR
 
 ## External Profiles
 

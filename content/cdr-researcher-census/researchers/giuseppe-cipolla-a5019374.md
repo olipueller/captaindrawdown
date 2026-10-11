@@ -1,7 +1,7 @@
 ---
 title: "Giuseppe Cipolla"
 description: "Giuseppe Cipolla is a Senior Enhanced Weathering researcher at AECOM (China) in CN. With 52 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.429896
+date: 2026-10-11T02:32:59.440051
 url: "/cdr-researcher-census/researchers/giuseppe-cipolla-a5019374/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Nano- to Global-Scale Uncertainties in Terrestrial Enhanced Weathering** (2022)
-   84 citations · Enhanced Weathering
+   86 citations · Enhanced Weathering
 
 2. **The role of hydrology on enhanced weathering for carbon sequestration I. Modeling rock-dissolution reactions coupled to plant, soil moisture, and carbon dynamics** (2021)
-   43 citations · Enhanced Weathering
+   41 citations · Enhanced Weathering
 
-3. **The role of hydrology on enhanced weathering for carbon sequestration II. From hydroclimatic scenarios to carbon-sequestration efficiencies** (2021)
+3. **Effects of precipitation seasonality, irrigation, vegetation cycle and soil type on enhanced weathering – modeling of cropland case studies across four sites** (2022)
+   28 citations · Enhanced Weathering
+
+4. **The role of hydrology on enhanced weathering for carbon sequestration II. From hydroclimatic scenarios to carbon-sequestration efficiencies** (2021)
    24 citations · Enhanced Weathering
-
-4. **Effects of precipitation seasonality, irrigation, vegetation cycle and soil type on enhanced weathering – modeling of cropland case studies across four sites** (2022)
-   23 citations · Enhanced Weathering
 
 5. **Advancing Enhanced Weathering Modeling in Soils: Critical Comparison With Experimental Data** (2024)
    13 citations · Enhanced Weathering

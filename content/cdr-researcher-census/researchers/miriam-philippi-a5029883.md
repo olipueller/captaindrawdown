@@ -1,7 +1,7 @@
 ---
 title: "Miriam Philippi"
 description: "Miriam Philippi is a Senior Ocean CDR researcher at Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung in DE. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.401550
+date: 2026-10-11T02:32:59.410770
 url: "/cdr-researcher-census/researchers/miriam-philippi-a5029883/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Exploring Site‐Specific Carbon Dioxide Removal Options With Storage or Sequestration in the Marine Environment – The 10 Mt CO<sub>2</sub> yr<sup>−1</sup> Removal Challenge for Germany** (2025)
-   8 citations · General CDR
+   9 citations · General CDR
 
 2. **Exploring site-specific carbon dioxide removal options with storage or sequestration in the marine environment - The 10 Mt CO2 yr-1 removal challenge for Germany** (2024)
    0 citations · General CDR

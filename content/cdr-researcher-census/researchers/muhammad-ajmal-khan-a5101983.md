@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Ajmal Khan"
 description: "Muhammad Ajmal Khan is a Senior BECCS researcher at National University of Sciences and Technology in PK. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.642921
+date: 2026-10-11T02:32:59.661310
 url: "/cdr-researcher-census/researchers/muhammad-ajmal-khan-a5101983/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Recycling of post-consumption food waste through pyrolysis: Feedstock characteristics, products analysis, reactor performance, and assessment of worldwide implementation potentials** (2022)
-   32 citations · Biochar
+   33 citations · Biochar
 
 2. **Assessments of sustainable chemicals and bioenergy potentials of selected lignocellulosic biomass feedstocks in Poland via physicochemical characterisation and pyrolysis** (2025)
    8 citations · BECCS

@@ -1,7 +1,7 @@
 ---
 title: "Chul-U Bak"
 description: "Chul-U Bak is a Mid-career BECCS researcher. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.876591
+date: 2026-10-11T02:32:59.904008
 url: "/cdr-researcher-census/researchers/chul-u-bak-a5063755/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Colin McCormick"
 description: "Colin McCormick is a Senior General CDR researcher at Georgetown University in US. With 105 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.111004
+date: 2026-10-11T02:32:59.115644
 url: "/cdr-researcher-census/researchers/colin-mccormick-a5064487/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A review of direct air capture (DAC): scaling up commercial technologies and innovating for the future** (2021)
-   715 citations · DAC
+   709 citations · DAC
 
 2. **Biomass Carbon Removal and Storage (BiRCS) Roadmap** (2021)
-   52 citations · General CDR
+   53 citations · General CDR
 
-3. **Towards Responsible and Informed Ocean-Based Carbon Dioxide Removal: Research and Governance Priorities** (2022)
-   12 citations · General CDR
+3. **Assessing the optimal uses of biomass: Carbon and energy price conditions for the Aines Principle to apply** (2022)
+   12 citations · BECCS
 
-4. **Assessing the optimal uses of biomass: Carbon and energy price conditions for the Aines Principle to apply** (2022)
-   11 citations · BECCS
+4. **Towards Responsible and Informed Ocean-Based Carbon Dioxide Removal: Research and Governance Priorities** (2022)
+   10 citations · General CDR
 
 5. **Assessing the Optimal Uses of Biomass: Carbon and Energy Price Conditions for the Aines Principle to Apply** (2022)
    1 citations · BECCS

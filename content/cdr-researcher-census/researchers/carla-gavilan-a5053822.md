@@ -1,7 +1,7 @@
 ---
 title: "Carla Gavilán"
 description: "Carla Gavilán is a Mid-career Soil Carbon researcher at Rutgers, The State University of New Jersey in US. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.029179
+date: 2026-10-11T02:33:00.060503
 url: "/cdr-researcher-census/researchers/carla-gavilan-a5053822/"
 layout: "researcher"
 hiddenInHomeList: true

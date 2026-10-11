@@ -1,7 +1,7 @@
 ---
 title: "Yuri Kim"
 description: "Yuri Kim is a Senior General CDR researcher at Korea Institute of Geoscience and Mineral Resources in KR. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.012819
+date: 2026-10-11T02:33:00.043517
 url: "/cdr-researcher-census/researchers/yuri-kim-a5100623/"
 layout: "researcher"
 hiddenInHomeList: true

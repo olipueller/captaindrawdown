@@ -1,7 +1,7 @@
 ---
 title: "Pengpeng Duan"
 description: "Pengpeng Duan is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 89 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.133807
+date: 2026-10-11T02:32:59.138646
 url: "/cdr-researcher-census/researchers/pengpeng-duan-a5073985/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -65,13 +65,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Promoting soil carbon sequestration by diversifying tree species** (2024)
    1 citations · Soil Carbon
 
-6. **High Tree Species Diversity Promotes Thermal Enhancement Response of Microbial Carbon Use Efficiency** (2026)
+6. **Carbonate rock weathering substantially promotes soil microbial-derived carbon accumulation** (2026)
    0 citations
 
-7. **Lithological controls on soil microbial resource limitation in subtropical forests of southwest China** (2026)
+7. **High Tree Species Diversity Promotes Thermal Enhancement Response of Microbial Carbon Use Efficiency** (2026)
    0 citations
 
-8. **[Research advances in soil microbial carbon use efficiency in response to climate change].** (2026)
+8. **Lithological controls on soil microbial resource limitation in subtropical forests of southwest China** (2026)
+   0 citations
+
+9. **[Research advances in soil microbial carbon use efficiency in response to climate change].** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

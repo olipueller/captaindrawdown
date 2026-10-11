@@ -1,7 +1,7 @@
 ---
 title: "Irene Ingrando"
 description: "Irene Ingrando is a Mid-career Biochar researcher at European Food Safety Authority in IT. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.366972
+date: 2026-10-11T02:33:00.402620
 url: "/cdr-researcher-census/researchers/irene-ingrando-a5089084/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochars intended for water filtration: A comparative study with activated carbons of their physicochemical properties and removal efficiency towards neutral and anionic organic pollutants** (2021)
-   42 citations · Biochar
+   44 citations · Biochar
 
 ## External Profiles
 

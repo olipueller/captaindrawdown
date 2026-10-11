@@ -1,7 +1,7 @@
 ---
 title: "Yanhui Ye"
 description: "Yanhui Ye is a Senior Soil Carbon researcher at Ministry of Education of the People's Republic of China in CN. With 39 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.370106
+date: 2026-10-11T02:33:00.405682
 url: "/cdr-researcher-census/researchers/yanhui-ye-a5035986/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,10 +50,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Effects of nitrogen addition on SOC in alpine grasslands of the Qinghai-Tibetan Plateau and adjacent mountain regions: a meta-analysis** (2025)
    5 citations · Soil Carbon
 
-2. **Microbial Transcriptional and Metabolic Shifts Mediate Rhizosphere Organic Carbon Accumulation in Alpine Grasslands Following Six Years of Continuous Nitrogen Addition** (2026)
+2. **Nitrogen-Driven Microbial Functional Rewiring Dictates Soil Carbon Dynamics in High-Altitude Apple Orchards: A Metagenomic Perspective** (2026)
    0 citations
 
-3. **Is Grass Planting Suitable for Orchard Sustainability in Xizang? Insights from the Ecosystem Services Valuation of a 4-Year Apple Orchard Grass Planting Practice** (2025)
+3. **Microbial Transcriptional and Metabolic Shifts Mediate Rhizosphere Organic Carbon Accumulation in Alpine Grasslands Following Six Years of Continuous Nitrogen Addition** (2026)
+   0 citations
+
+4. **Is Grass Planting Suitable for Orchard Sustainability in Xizang? Insights from the Ecosystem Services Valuation of a 4-Year Apple Orchard Grass Planting Practice** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

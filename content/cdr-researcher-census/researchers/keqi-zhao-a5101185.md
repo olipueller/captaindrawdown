@@ -1,7 +1,7 @@
 ---
 title: "Keqi Zhao"
 description: "Keqi Zhao is a Mid-career Biochar researcher at Hunan Agricultural University in CN. With 28 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.361357
+date: 2026-10-11T02:32:59.368461
 url: "/cdr-researcher-census/researchers/keqi-zhao-a5101185/"
 layout: "researcher"
 hiddenInHomeList: true

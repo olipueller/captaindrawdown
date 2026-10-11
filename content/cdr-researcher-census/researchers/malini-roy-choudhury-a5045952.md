@@ -1,7 +1,7 @@
 ---
 title: "Malini Roy Choudhury"
 description: "Malini Roy Choudhury is a Mid-career General CDR researcher at The University of Queensland in AU. With 65 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.276214
+date: 2026-10-11T02:32:59.280552
 url: "/cdr-researcher-census/researchers/malini-roy-choudhury-a5045952/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Bamboo for global sustainability: a systematic review of its environmental and ecological implications, climate action, and biodiversity contributions** (2025)
-   31 citations · General CDR
+   35 citations · General CDR
 
 2. **Harnessing green wealth: A two-decade global assessment of forest carbon sequestration and credits and the economic implications of sustainable forest management practices** (2025)
    22 citations · General CDR
 
 3. **Mangroves in the Anthropocene: A global synthesis of carbon storage, biodiversity, and coastal resilience under climate and anthropogenic stressors** (2026)
-   15 citations · General CDR
+   16 citations · General CDR
 
 4. **Synergizing sustainability: a critical review on harnessing agroforestry for biomass, carbon sequestration, and water-food-energy nexus** (2024)
-   10 citations · BECCS
+   11 citations · BECCS
 
 5. **Navigating the Future: Climate Change Impacts, Mitigation Strategies, and Adaptation Pathways in Agriculture** (2025)
    3 citations · General CDR

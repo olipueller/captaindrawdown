@@ -1,7 +1,7 @@
 ---
 title: "Yuehong Yang"
 description: "Yuehong Yang is a Mid-career Biochar researcher at Kunming University of Science and Technology in CN. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.349097
+date: 2026-10-11T02:33:00.384121
 url: "/cdr-researcher-census/researchers/yuehong-yang-a5101115/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Cu/Fe co-modified nitrogen self-doped biochar as a heterogeneous Fenton-like catalyst for degradation of organic pollutants: Synthesis, performance, and mechanistic study** (2023)
-   59 citations · Biochar
+   61 citations · Biochar
 
 2. **Metal-modified nitrogen self-doped biochar as an electrode plate for electrocatalytic removal of methylene blue** (2026)
    1 citations · Biochar

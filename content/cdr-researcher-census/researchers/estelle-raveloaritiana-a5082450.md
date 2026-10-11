@@ -1,7 +1,7 @@
 ---
 title: "Estelle Raveloaritiana"
 description: "Estelle Raveloaritiana is a Mid-career Soil Carbon researcher. With 29 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.570054
+date: 2026-10-11T02:32:59.585832
 url: "/cdr-researcher-census/researchers/estelle-raveloaritiana-a5082450/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term agricultural diversification increases financial profitability, biodiversity, and ecosystem services: a second-order meta-analysis** (2026)
-   12 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 2. **Decades matter: Agricultural diversification increases financial profitability, biodiversity, and ecosystem services over time** (2024)
    2 citations · Soil Carbon

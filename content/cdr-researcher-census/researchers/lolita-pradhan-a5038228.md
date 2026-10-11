@@ -1,7 +1,7 @@
 ---
 title: "Lolita Pradhan"
 description: "Lolita Pradhan is a Senior General CDR researcher. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.587959
+date: 2026-10-11T02:32:59.604655
 url: "/cdr-researcher-census/researchers/lolita-pradhan-a5038228/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Comparative Economic Analysis and Environmental Benefits of Agroforestry Systems: A Case Study from Saharanpur, India with Global Perspectives** (2025)
-   1 citations · General CDR
+   2 citations · General CDR
 
 ## External Profiles
 

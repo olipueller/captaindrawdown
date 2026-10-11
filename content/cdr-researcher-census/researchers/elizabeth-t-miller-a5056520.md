@@ -1,7 +1,7 @@
 ---
 title: "Elizabeth T. Miller"
 description: "Elizabeth T. Miller is a Senior Ocean CDR researcher at Planetary Science Institute in US. With 19 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.188103
+date: 2026-10-11T02:32:59.192176
 url: "/cdr-researcher-census/researchers/elizabeth-t-miller-a5056520/"
 layout: "researcher"
 hiddenInHomeList: true

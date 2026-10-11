@@ -1,7 +1,7 @@
 ---
 title: "Xianjin He"
 description: "Xianjin He is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 85 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.162055
+date: 2026-10-11T02:32:59.166392
 url: "/cdr-researcher-census/researchers/xianjin-he-a5074904/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,22 +54,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    97 citations · Soil Carbon
 
 2. **Understanding soil phosphorus cycling for sustainable development: A review** (2024)
-   77 citations · Soil Carbon
+   85 citations · Soil Carbon
 
 3. **Bedrock and climate jointly control the phosphorus status of subtropical forests along two elevational gradients** (2021)
-   31 citations
+   32 citations
 
 4. **Model uncertainty obscures major driver of soil carbon** (2024)
    23 citations
 
-5. **Changes in the composition of soil microbial communities and their carbon‐cycle genes following the conversion of primary broadleaf forests to plantations and secondary forests** (2021)
+5. **Global Distribution and Influencing Factors of Plant‐Available Phosphorus in (Semi‐)Natural Soils** (2025)
    19 citations · Soil Carbon
 
-6. **Global Distribution and Influencing Factors of Plant‐Available Phosphorus in (Semi‐)Natural Soils** (2025)
-   18 citations · Soil Carbon
+6. **Effects of Elevation Gradient on Soil Carbon and Nitrogen in a Typical Karst Region of Chongqing, Southwest China** (2022)
+   19 citations · Soil Carbon
 
-7. **Effects of Elevation Gradient on Soil Carbon and Nitrogen in a Typical Karst Region of Chongqing, Southwest China** (2022)
-   18 citations · Soil Carbon
+7. **Changes in the composition of soil microbial communities and their carbon‐cycle genes following the conversion of primary broadleaf forests to plantations and secondary forests** (2021)
+   19 citations · Soil Carbon
 
 8. **Divergent responses of carbon and nitrogen functional genes composition to enhanced rock weathering** (2025)
    8 citations · Enhanced Weathering

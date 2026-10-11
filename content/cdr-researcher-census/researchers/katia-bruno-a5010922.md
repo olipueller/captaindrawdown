@@ -1,7 +1,7 @@
 ---
 title: "Katia Bruno"
 description: "Katia Bruno is a Senior General CDR researcher at Azienda Universitaria Ospedaliera Consorziale - Policlinico Bari in IT. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.916482
+date: 2026-10-11T02:32:59.965886
 url: "/cdr-researcher-census/researchers/katia-bruno-a5010922/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Intraoperative use of extracorporeal CO2 removal (ECCO2R) and emergency ECMO requirement in patients undergoing lung transplant: a case-matched cohort retrospective study** (2022)
-   1 citations · General CDR
+   2 citations · General CDR
 
 ## External Profiles
 

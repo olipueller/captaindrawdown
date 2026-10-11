@@ -1,7 +1,7 @@
 ---
 title: "Fengyi Xu"
 description: "Fengyi Xu is an Early-career Soil Carbon researcher at Qinghai University for Nationalities in CN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.052480
+date: 2026-10-11T02:33:00.083289
 url: "/cdr-researcher-census/researchers/fengyi-xu-a5027146/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Organic amendments affect soil organic carbon sequestration and fractions in fields with long-term contrasting nitrogen applications** (2021)
-   65 citations · Soil Carbon
+   66 citations · Soil Carbon
 
 ## External Profiles
 

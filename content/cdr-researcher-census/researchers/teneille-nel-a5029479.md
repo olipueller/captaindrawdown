@@ -1,7 +1,7 @@
 ---
 title: "Teneille Nel"
 description: "Teneille Nel is a Mid-career Soil Carbon researcher at University of Wisconsin–Madison in US. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.263891
+date: 2026-10-11T02:33:00.293837
 url: "/cdr-researcher-census/researchers/teneille-nel-a5029479/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Oxalate and oxalotrophy: an environmental perspective** (2024)
-   26 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 2. **Carbon dynamics in termite mounds: The effect of land use on microbial oxalotrophy** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

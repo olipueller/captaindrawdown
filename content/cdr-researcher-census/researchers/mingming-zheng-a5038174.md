@@ -1,7 +1,7 @@
 ---
 title: "Mingming Zheng"
 description: "Mingming Zheng is a Mid-career Biochar researcher at Zhejiang University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.086431
+date: 2026-10-11T02:33:00.116795
 url: "/cdr-researcher-census/researchers/mingming-zheng-a5038174/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Fe3C active sites enable synergistic adsorption-oxidation in mechanochemically engineered steel slag-biochar composites for tetracycline and cadmium co-removal** (2026)
-   3 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

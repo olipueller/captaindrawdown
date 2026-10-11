@@ -1,7 +1,7 @@
 ---
 title: "Peduruhewa H. Jeewani"
 description: "Peduruhewa H. Jeewani is a Mid-career Soil Carbon researcher at Bangor University in GB. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.372198
+date: 2026-10-11T02:32:59.379478
 url: "/cdr-researcher-census/researchers/peduruhewa-h-jeewani-a5016466/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Organic matter chemistry and bacterial community structure regulate decomposition processes in post-fire forest soils** (2021)
-   121 citations
+   123 citations
 
 2. **Arbuscular mycorrhizal fungi and goethite promote carbon sequestration via hyphal-aggregate mineral interactions** (2021)
-   119 citations · Soil Carbon
+   121 citations · Soil Carbon
 
 3. **Abiotic and biotic regulation on carbon mineralization and stabilization in paddy soils along iron oxide gradients** (2021)
-   112 citations · Soil Carbon
+   114 citations · Soil Carbon
 
 4. **The coupling between iron and carbon and iron reducing bacteria control carbon sequestration in paddy soils** (2023)
-   54 citations · Soil Carbon
+   53 citations · Soil Carbon
 
 5. **Rewetting alongside biochar and sulphate addition mitigates greenhouse gas emissions and retain carbon in degraded upland peatlands** (2025)
-   8 citations · Biochar
+   10 citations · Biochar
 
 6. **Greenhouse gas removal in agricultural peatland via raised water levels and soil amendment** (2025)
-   7 citations · Biochar
+   9 citations · Biochar
 
 7. **Distinct Mechanisms Govern Sucrose Mineralization and Soil Organic Carbon Priming in Biochar Amended Soils: Evidence from 10-Years Field Studies** (2023)
    0 citations · Biochar

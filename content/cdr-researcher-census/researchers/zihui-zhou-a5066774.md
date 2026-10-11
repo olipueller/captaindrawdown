@@ -1,7 +1,7 @@
 ---
 title: "Zihui Zhou"
 description: "Zihui Zhou is a Mid-career DAC researcher at King Abdulaziz City for Science and Technology in SA. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.230415
+date: 2026-10-11T02:32:59.233599
 url: "/cdr-researcher-census/researchers/zihui-zhou-a5066774/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,19 +45,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 9 |
 | Citations | 1,105 |
 | Publications | 16 |
-| CDR Focus | 6.2% |
+| CDR Focus | 12.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Carbon dioxide capture from open air using covalent organic frameworks** (2024)
-   424 citations
+   440 citations
 
 2. **Bonding of Polyethylenimine in Covalent Organic Frameworks for CO<sub>2</sub> Capture from Air** (2024)
-   119 citations
+   128 citations
 
 3. **Fast and selective CO2 capture from outdoor air by covalent organic frameworks** (2026)
-   32 citations
+   40 citations
 
 4. **Molecular Origins of CO2 Capture Behavior in Amine-Appended Nanoporous Frameworks** (2026)
    1 citations · DAC

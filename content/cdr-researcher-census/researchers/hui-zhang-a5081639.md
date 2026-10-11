@@ -1,7 +1,7 @@
 ---
 title: "Hui Zhang"
 description: "Hui Zhang is a Mid-career Soil Carbon researcher at Sichuan Agricultural University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.042531
+date: 2026-10-11T02:33:00.073459
 url: "/cdr-researcher-census/researchers/hui-zhang-a5081639/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Dynamic Simulation of Land Use Change and Assessment of Ecosystem Services Under Climate Change Scenarios: A Case Study of Shanghai, China** (2025)
-   6 citations · General CDR
+   8 citations · General CDR
 
 ## External Profiles
 

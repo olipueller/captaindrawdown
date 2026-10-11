@@ -1,7 +1,7 @@
 ---
 title: "Yutaro Akimoto"
 description: "Yutaro Akimoto is a Senior Enhanced Weathering researcher at University of Tsukuba in JP. With 68 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.533739
+date: 2026-10-11T02:32:59.548156
 url: "/cdr-researcher-census/researchers/yutaro-akimoto-a5065451/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Energy consumption assessment of silicate rock comminution options for enhanced weathering** (2025)
-   4 citations · Enhanced Weathering
+   5 citations · Enhanced Weathering
 
 2. **Benefit-cost analysis of enhanced rock weathering in Japan using experimentally derived agronomic responses and site-specific supply-chain parameters** (2026)
    0 citations · Enhanced Weathering

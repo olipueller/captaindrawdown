@@ -1,7 +1,7 @@
 ---
 title: "Karoliina Huusko"
 description: "Karoliina Huusko is a Mid-career Soil Carbon researcher at University of Helsinki in FI. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.740002
+date: 2026-10-11T02:32:59.762266
 url: "/cdr-researcher-census/researchers/karoliina-huusko-a5059410/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 2. **Effects of biochar, ligneous soil amendments, and a microbial stimulant on soil biological activity, and carbon content and stability after two-years of their application in a boreal cropland** (2025)
-   1 citations · Biochar
+   2 citations · Biochar
 
 3. **Climate-smart agriculture: microbiological impacts of plant diversity to soil carbon (C) sequestration.** (2021)
    0 citations · General CDR

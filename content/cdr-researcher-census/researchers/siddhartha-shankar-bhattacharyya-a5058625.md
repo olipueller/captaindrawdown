@@ -1,7 +1,7 @@
 ---
 title: "Siddhartha Shankar Bhattacharyya"
 description: "Siddhartha Shankar Bhattacharyya is a Mid-career Soil Carbon researcher at Texas A&M University in US. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.315107
+date: 2026-10-11T02:32:59.320753
 url: "/cdr-researcher-census/researchers/siddhartha-shankar-bhattacharyya-a5058625/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil carbon sequestration – An interplay between soil microbial community and soil organic matter dynamics** (2022)
-   450 citations · Soil Carbon
+   463 citations · Soil Carbon
 
 2. **Soil carbon sequestration, greenhouse gas emissions, and water pollution under different tillage practices** (2022)
-   115 citations · Soil Carbon
+   114 citations · Soil Carbon
 
 3. **A paradigm shift to CO2 sequestration to manage global warming – With the emphasis on developing countries** (2021)
-   72 citations · General CDR
+   71 citations · General CDR
 
 4. **Interplay between Plant Functional Traits and Soil Carbon Sequestration under Ambient and Elevated CO2 Levels** (2023)
    12 citations · Soil Carbon

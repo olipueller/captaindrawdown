@@ -1,7 +1,7 @@
 ---
 title: "Dibyajyoti Panda"
 description: "Dibyajyoti Panda is a Mid-career Soil Carbon researcher at Banaras Hindu University in IN. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.318371
+date: 2026-10-11T02:33:00.350201
 url: "/cdr-researcher-census/researchers/dibyajyoti-panda-a5111224/"
 layout: "researcher"
 hiddenInHomeList: true

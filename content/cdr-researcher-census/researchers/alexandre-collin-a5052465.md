@@ -1,7 +1,7 @@
 ---
 title: "Alexandre Collin"
 description: "Alexandre Collin is a Senior Soil Carbon researcher at Université du Québec en Outaouais in CA. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.054643
+date: 2026-10-11T02:33:00.085291
 url: "/cdr-researcher-census/researchers/alexandre-collin-a5052465/"
 layout: "researcher"
 hiddenInHomeList: true

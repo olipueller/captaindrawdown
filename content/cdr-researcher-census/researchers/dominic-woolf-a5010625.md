@@ -1,7 +1,7 @@
 ---
 title: "Dominic Woolf"
 description: "Dominic Woolf is a Senior General CDR researcher at Cornell University in US. With 54 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.042528
+date: 2026-10-11T02:32:59.045809
 url: "/cdr-researcher-census/researchers/dominic-woolf-a5010625/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,28 +51,28 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Biochar in climate change mitigation** (2021)
-   923 citations · Biochar
+   949 citations · Biochar
 
 2. **Global crop production increase by soil organic carbon** (2023)
-   294 citations · General CDR
+   299 citations · General CDR
 
 3. **Greenhouse Gas Inventory Model for Biochar Additions to Soil** (2021)
-   222 citations · Biochar
+   224 citations · Biochar
 
 4. **Potential for biochar carbon sequestration from crop residues: A global spatially explicit assessment** (2023)
-   54 citations · Biochar
+   56 citations · Biochar
 
 5. **Perceptions of naturalness predict US public support for Soil Carbon Storage as a climate solution** (2021)
-   37 citations · General CDR
+   36 citations · General CDR
 
 6. **Importance of Terrain and Climate for Predicting Soil Organic Carbon Is Highly Variable across Local to Continental Scales** (2024)
-   28 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 7. **Greenhouse gas mitigation on croplands: clarifying the debate on knowns, unknowns and risks to move forward with effective management interventions** (2024)
    24 citations · General CDR
 
 8. **Biochar Permanence—A Policy Commentary** (2025)
-   12 citations · Biochar
+   16 citations · Biochar
 
 9. **Biochar, greenhouse gas accounting, and climate change mitigation** (2024)
    10 citations · Biochar

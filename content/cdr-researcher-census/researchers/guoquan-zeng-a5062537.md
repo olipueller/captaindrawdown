@@ -1,7 +1,7 @@
 ---
 title: "Guoquan Zeng"
 description: "Guoquan Zeng is a Mid-career Biochar researcher at Sichuan University in CN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.295740
+date: 2026-10-11T02:32:59.300423
 url: "/cdr-researcher-census/researchers/guoquan-zeng-a5062537/"
 layout: "researcher"
 hiddenInHomeList: true

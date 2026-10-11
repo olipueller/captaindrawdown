@@ -1,7 +1,7 @@
 ---
 title: "Mike C. Rowley"
 description: "Mike C. Rowley is a Mid-career Soil Carbon researcher at Lawrence Berkeley National Laboratory in US. With 37 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.185206
+date: 2026-10-11T02:32:59.189389
 url: "/cdr-researcher-census/researchers/mike-c-rowley-a5045378/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Wildfire Produces Transient Minerals: Speciation, Reactivity, and Fate of Iron and Manganese in Surface Soils Post Wildfire** (2025)
-   5 citations
+   7 citations
 
 2. **Reconstructing soil exchangeable calcium and magnesium in central Africa (DRC) during the Late Holocene Rainforest Crisis using a new biomarker lipid tool** (2026)
    0 citations · Soil Carbon

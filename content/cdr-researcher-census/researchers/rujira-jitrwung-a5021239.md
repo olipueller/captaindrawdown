@@ -1,7 +1,7 @@
 ---
 title: "Rujira Jitrwung"
 description: "Rujira Jitrwung is a Mid-career BECCS researcher at Thailand Institute of Scientific and Technological Research in TH. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.266260
+date: 2026-10-11T02:33:00.296253
 url: "/cdr-researcher-census/researchers/rujira-jitrwung-a5021239/"
 layout: "researcher"
 hiddenInHomeList: true

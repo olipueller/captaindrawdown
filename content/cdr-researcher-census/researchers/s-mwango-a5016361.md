@@ -1,7 +1,7 @@
 ---
 title: "S. Mwango"
 description: "S. Mwango is a Mid-career Soil Carbon researcher at Mikocheni Agricultural Research Institute in TZ. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.977891
+date: 2026-10-11T02:33:00.009486
 url: "/cdr-researcher-census/researchers/s-mwango-a5016361/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Improving upland rice (Oryza sativa l.) performance through enhanced soil fertility and water conservation methods** (2024)
+1. **The Status of Soil Organic Carbon and Carbon Stocks from Agricultural Fields in the Mbeya Region, Tanzania** (2024)
+   0 citations · Soil Carbon
+
+2. **Improving upland rice (Oryza sativa l.) performance through enhanced soil fertility and water conservation methods** (2024)
    0 citations · Soil Carbon
 
 ## External Profiles

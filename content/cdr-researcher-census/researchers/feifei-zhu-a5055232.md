@@ -1,7 +1,7 @@
 ---
 title: "Feifei Zhu"
 description: "Feifei Zhu is a Senior Enhanced Weathering researcher at Rice Research Institute in CN. With 57 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.160220
+date: 2026-10-11T02:32:59.164595
 url: "/cdr-researcher-census/researchers/feifei-zhu-a5055232/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,22 +45,22 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 24 |
 | Citations | 1,600 |
 | Publications | 57 |
-| CDR Focus | 12.3% |
-| Trajectory | Stable |
+| CDR Focus | 14.0% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Meta-analysis unveils differential effects of agroforestry on soil properties in different zonobiomes** (2023)
-   77 citations
+   76 citations
 
 2. **Meta-analysis of 21st century studies shows that deforestation induces profound changes in soil characteristics, particularly soil organic carbon accumulation** (2024)
-   44 citations · Soil Carbon
+   46 citations · Soil Carbon
 
 3. **Wollastonite powder application increases rice yield and CO2 sequestration in a paddy field in Northeast China** (2024)
-   14 citations · Enhanced Weathering
+   15 citations · Enhanced Weathering
 
 4. **Similar mineral-associated organic carbon formation but distinct efficiencies by powdered wollastonite addition between two soils** (2025)
-   5 citations · Enhanced Weathering
+   7 citations · Enhanced Weathering
 
 5. **Wollastonite improves soybean yield without toxic trace elements enrichment** (2025)
    2 citations · Enhanced Weathering

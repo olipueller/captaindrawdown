@@ -1,7 +1,7 @@
 ---
 title: "Yusong Cao"
 description: "Yusong Cao is a Senior Enhanced Weathering researcher at Jinggangshan University in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.671427
+date: 2026-10-11T02:32:59.691078
 url: "/cdr-researcher-census/researchers/yusong-cao-a5010681/"
 layout: "researcher"
 hiddenInHomeList: true

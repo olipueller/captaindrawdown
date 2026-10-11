@@ -1,7 +1,7 @@
 ---
 title: "Wenya Lei"
 description: "Wenya Lei is a Mid-career Biochar researcher at Kunming University of Science and Technology in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.379753
+date: 2026-10-11T02:33:00.415594
 url: "/cdr-researcher-census/researchers/wenya-lei-a5032996/"
 layout: "researcher"
 hiddenInHomeList: true

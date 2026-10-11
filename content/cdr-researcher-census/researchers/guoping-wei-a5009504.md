@@ -1,7 +1,7 @@
 ---
 title: "Guoping Wei"
 description: "Guoping Wei is a Mid-career Biochar researcher at Technology Holding (United States) in US. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.015926
+date: 2026-10-11T02:33:00.046728
 url: "/cdr-researcher-census/researchers/guoping-wei-a5009504/"
 layout: "researcher"
 hiddenInHomeList: true

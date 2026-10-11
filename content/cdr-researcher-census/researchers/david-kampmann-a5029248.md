@@ -1,7 +1,7 @@
 ---
 title: "David Kampmann"
 description: "David Kampmann is an Early-career General CDR researcher at University of Oxford in GB. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.158436
+date: 2026-10-11T02:33:00.188606
 url: "/cdr-researcher-census/researchers/david-kampmann-a5029248/"
 layout: "researcher"
 hiddenInHomeList: true

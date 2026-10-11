@@ -1,7 +1,7 @@
 ---
 title: "Pareshkumar G. Moradeeya"
 description: "Pareshkumar G. Moradeeya is a Mid-career Biochar researcher at National Environmental Engineering Research Institute in IN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.731567
+date: 2026-10-11T02:32:59.753061
 url: "/cdr-researcher-census/researchers/pareshkumar-g-moradeeya-a5039041/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Adsorption performance, adsorber design, and pyrolysis kinetics for methylene blue removal using surface-modified biochar** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

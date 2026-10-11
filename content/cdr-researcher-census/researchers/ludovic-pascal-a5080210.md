@@ -1,7 +1,7 @@
 ---
 title: "Ludovic Pascal"
 description: "Ludovic Pascal is a Mid-career Ocean CDR researcher at Université du Québec à Rimouski in CA. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.738159
+date: 2026-10-11T02:32:59.760287
 url: "/cdr-researcher-census/researchers/ludovic-pascal-a5080210/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **New Deoxygenation Threshold for N<sub>2</sub> and N<sub>2</sub>O Production in Coastal Waters and Sediments** (2025)
-   6 citations · Ocean CDR
+   7 citations · Ocean CDR
 
 2. **Fixed-nitrogen loss in a deoxygenating coastal ocean: Insights from the Estuary and Gulf of St. Lawrence** (2024)
    0 citations · Ocean CDR

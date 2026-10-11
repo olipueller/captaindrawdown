@@ -1,7 +1,7 @@
 ---
 title: "Van-Tung Tra"
 description: "Van-Tung Tra is a Mid-career Biochar researcher at Trường ĐH Nguyễn Tất Thành in VN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.954741
+date: 2026-10-11T02:32:59.986179
 url: "/cdr-researcher-census/researchers/van-tung-tra-a5056494/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Per- and polyfluoroalkyl substances (PFAS) removal by microalgae-derived biochar: Valorising from spent biomass after lipid extraction** (2025)
-   5 citations · Biochar
+   8 citations · Biochar
 
 2. **Utilization of Modified Biochar for Removal of Dyes From Industrial Effluent** (2024)
    5 citations

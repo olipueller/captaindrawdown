@@ -1,7 +1,7 @@
 ---
 title: "Li Zhang"
 description: "Li Zhang is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 87 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.198856
+date: 2026-10-11T02:32:59.202783
 url: "/cdr-researcher-census/researchers/li-zhang-a5100425/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    31 citations · Soil Carbon
 
 2. **Temporal dynamics of mixed litter humification in an alpine treeline ecotone** (2021)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 3. **Characteristics of Soil Organic Carbon Fractions and Stability along a Chronosequence of Cryptomeria japonica var. sinensis Plantation in the Rainy Area of Western China** (2022)
    13 citations · Soil Carbon
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Soil Carbon
 
 5. **Forest Gaps Slow the Humification Process of Fir (Abies faxoniana Rehder &amp; E.H.Wilson) Twig Litter during Eight Years of Decomposition in an Alpine Forest** (2023)
-   9 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 6. **Exploring the role of the rhizosphere in soil carbon cycling: impacts on pools and components of SOC along a chronosequence of Cryptomeria japonica plantations in subtropical China** (2025)
    4 citations · Soil Carbon

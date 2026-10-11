@@ -1,7 +1,7 @@
 ---
 title: "Graciele Angnes"
 description: "Graciele Angnes is a Mid-career Soil Carbon researcher at Forest Science and Research Institute in BR. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.889608
+date: 2026-10-11T02:32:59.917231
 url: "/cdr-researcher-census/researchers/graciele-angnes-a5005284/"
 layout: "researcher"
 hiddenInHomeList: true

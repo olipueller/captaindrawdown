@@ -1,7 +1,7 @@
 ---
 title: "Md. Habibur Rahman"
 description: "Md. Habibur Rahman is a Senior Soil Carbon researcher at Khulna University in BD. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.383196
+date: 2026-10-11T02:33:00.419200
 url: "/cdr-researcher-census/researchers/md-habibur-rahman-a5100686/"
 layout: "researcher"
 hiddenInHomeList: true

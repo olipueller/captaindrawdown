@@ -1,7 +1,7 @@
 ---
 title: "Yuzhou Huang"
 description: "Yuzhou Huang is a Mid-career Biochar researcher at Central South University in CN. With 28 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.292658
+date: 2026-10-11T02:32:59.297097
 url: "/cdr-researcher-census/researchers/yuzhou-huang-a5101952/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Iron-doped biochar boosting salt marsh blue carbon via regulation of microbial metabolism and intensified mineral-associated organic carbon** (2025)
-   7 citations · Biochar
+   10 citations · Biochar
 
 2. **Biochar Promotes Carbon Storage and Reduces Global Warming Potential in Salt Marsh on a Century Scale** (2023)
    0 citations · Biochar

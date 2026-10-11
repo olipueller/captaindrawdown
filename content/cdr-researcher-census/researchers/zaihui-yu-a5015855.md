@@ -1,7 +1,7 @@
 ---
 title: "Zaihui Yu"
 description: "Zaihui Yu is a Mid-career Soil Carbon researcher. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.165019
+date: 2026-10-11T02:33:00.195082
 url: "/cdr-researcher-census/researchers/zaihui-yu-a5015855/"
 layout: "researcher"
 hiddenInHomeList: true

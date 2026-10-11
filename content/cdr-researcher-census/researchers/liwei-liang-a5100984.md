@@ -1,7 +1,7 @@
 ---
 title: "Liwei Liang"
 description: "Liwei Liang is a Senior Biochar researcher at Guangxi University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.095463
+date: 2026-10-11T02:33:00.126089
 url: "/cdr-researcher-census/researchers/liwei-liang-a5100984/"
 layout: "researcher"
 hiddenInHomeList: true

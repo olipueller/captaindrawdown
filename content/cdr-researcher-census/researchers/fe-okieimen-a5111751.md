@@ -1,7 +1,7 @@
 ---
 title: "FE Okieimen"
 description: "FE Okieimen is a Senior Biochar researcher at University of Science and Technology of Benin in BJ. With 16 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.117574
+date: 2026-10-11T02:33:00.148425
 url: "/cdr-researcher-census/researchers/fe-okieimen-a5111751/"
 layout: "researcher"
 hiddenInHomeList: true

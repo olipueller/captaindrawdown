@@ -1,7 +1,7 @@
 ---
 title: "Sam Abernethy"
 description: "Sam Abernethy is a Mid-career General CDR researcher at Climate Central in US. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.090090
+date: 2026-10-11T02:32:59.094658
 url: "/cdr-researcher-census/researchers/sam-abernethy-a5014865/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Atmospheric methane removal: a research agenda** (2021)
-   128 citations · General CDR
+   123 citations · General CDR
 
 2. **Methane removal and the proportional reductions in surface temperature and ozone** (2021)
-   85 citations · General CDR
+   82 citations · General CDR
 
 3. **Opinion: A research roadmap for exploring atmospheric methane removal via iron salt aerosol** (2024)
-   12 citations · General CDR
+   13 citations · General CDR
 
 4. **Exploring potential atmospheric methane removal approaches: an example research roadmap for chlorine radical enhancement** (2023)
    1 citations · General CDR

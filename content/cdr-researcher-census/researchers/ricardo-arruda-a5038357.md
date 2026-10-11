@@ -1,7 +1,7 @@
 ---
 title: "Ricardo Arruda"
 description: "Ricardo Arruda is a Mid-career Ocean CDR researcher at Dalhousie University in CA. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.395260
+date: 2026-10-11T02:33:00.433565
 url: "/cdr-researcher-census/researchers/ricardo-arruda-a5038357/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Canada's marine carbon sink: an early career perspective on the state of research and existing knowledge gaps** (2023)
-   18 citations · General CDR
+   17 citations · General CDR
 
 ## External Profiles
 

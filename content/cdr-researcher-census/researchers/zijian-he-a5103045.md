@@ -1,7 +1,7 @@
 ---
 title: "Zijian He"
 description: "Zijian He is a Mid-career Soil Carbon researcher at South China Normal University in CN. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.427853
+date: 2026-10-11T02:32:59.437914
 url: "/cdr-researcher-census/researchers/zijian-he-a5103045/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Optimizing drip irrigation and nitrogen fertilization regimes to reduce greenhouse gas emissions, increase net ecosystem carbon budget and reduce carbon footprint in saline cotton fields** (2024)
-   64 citations · Soil Carbon
+   65 citations · Soil Carbon
 
 ## External Profiles
 

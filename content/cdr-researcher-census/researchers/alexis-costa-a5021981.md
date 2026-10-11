@@ -1,7 +1,7 @@
 ---
 title: "Alexis Costa"
 description: "Alexis Costa is a Mid-career DAC researcher at University of Mons in BE. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.044001
+date: 2026-10-11T02:33:00.074981
 url: "/cdr-researcher-census/researchers/alexis-costa-a5021981/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Energy, Exergy, Economic and Environmental (4E) analysis of integrated direct air capture and CO <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si96.svg" display="inline" id="d1e968"> <mml:msub> <mml:mrow/> <mml:mrow> <mml:mn>2</mml:mn> </mml:mrow> </mml:msub> </mml:math> methanation under uncertainty** (2023)
-   31 citations · DAC
+   34 citations · DAC
 
 2. **Towards the integration of Remote Renewable Energy Hubs with CCUS chain for a future energy system: the Belgian case** (2026)
    0 citations · DAC

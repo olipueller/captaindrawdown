@@ -1,7 +1,7 @@
 ---
 title: "Stephanie M. Herbstritt"
 description: "Stephanie M. Herbstritt is a Mid-career BECCS researcher at Pennsylvania State University in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.005145
+date: 2026-10-11T02:33:00.036102
 url: "/cdr-researcher-census/researchers/stephanie-m-herbstritt-a5079216/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Florian Humpenöder"
 description: "Florian Humpenöder is an Eminent General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 174 publications and an h-index of 52, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.017459
+date: 2026-10-11T02:32:59.020641
 url: "/cdr-researcher-census/researchers/florian-humpenoder-a5060104/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 52 |
 | Citations | 22,375 |
 | Publications | 174 |
-| CDR Focus | 8.6% |
+| CDR Focus | 9.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    571 citations · General CDR
 
 2. **Carbon dioxide removal technologies are not born equal** (2021)
-   126 citations · BECCS
+   123 citations · BECCS
 
 3. **Land-based implications of early climate actions without global net-negative emissions** (2021)
    67 citations · General CDR
@@ -66,13 +66,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    43 citations · General CDR
 
 6. **Multiple pathways towards sustainable development goals and climate targets** (2024)
-   38 citations · General CDR
+   40 citations · General CDR
 
 7. **Food and land system transformations under different societal perspectives on sustainable development** (2024)
-   12 citations · General CDR
+   13 citations · General CDR
 
 8. **Biodiversity implications of land-intensive carbon dioxide removal** (2026)
-   6 citations · BECCS
+   7 citations · BECCS
 
 9. **ENGAGE Global Scenarios** (2021)
    6 citations

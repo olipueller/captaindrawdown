@@ -1,7 +1,7 @@
 ---
 title: "Conor Hickey"
 description: "Conor Hickey is a Mid-career General CDR researcher at University of Oxford in GB. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.432444
+date: 2026-10-11T02:32:59.442788
 url: "/cdr-researcher-census/researchers/conor-hickey-a5021184/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A review of commercialisation mechanisms for carbon dioxide removal** (2023)
-   44 citations · General CDR
+   45 citations · General CDR
 
 2. **Economics of enhanced methane oxidation relative to carbon dioxide removal** (2024)
    10 citations · General CDR
 
 3. **Carbon storage portfolios for the transition to net zero** (2025)
-   1 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

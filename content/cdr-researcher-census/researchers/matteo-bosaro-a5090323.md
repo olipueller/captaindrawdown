@@ -1,7 +1,7 @@
 ---
 title: "Matteo Bosaro"
 description: "Matteo Bosaro is a Mid-career Biochar researcher at Italian Association for Cancer Research in IT. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.208151
+date: 2026-10-11T02:33:00.237930
 url: "/cdr-researcher-census/researchers/matteo-bosaro-a5090323/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **An integrated Metagenomic-Pangenomic strategy revealed native microbes and magnetic biochar cooperation in plasticizer degradation** (2023)
-   25 citations · Biochar
+   24 citations · Biochar
 
 ## External Profiles
 

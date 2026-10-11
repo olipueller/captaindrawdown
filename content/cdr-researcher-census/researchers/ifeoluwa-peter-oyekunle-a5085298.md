@@ -1,7 +1,7 @@
 ---
 title: "Ifeoluwa Peter Oyekunle"
 description: "Ifeoluwa Peter Oyekunle is a Mid-career Biochar researcher at Florida State University in US. With 34 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.357274
+date: 2026-10-11T02:32:59.363894
 url: "/cdr-researcher-census/researchers/ifeoluwa-peter-oyekunle-a5085298/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    7 citations · Biochar
 
 2. **Production and characterization of sunflower stalk biochar and ash: a study on batch versus semi-batch gasifier systems** (2025)
-   5 citations · BECCS
+   6 citations · BECCS
 
 ## External Profiles
 

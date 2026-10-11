@@ -1,7 +1,7 @@
 ---
 title: "Maximilian Meyer"
 description: "Maximilian Meyer is a Mid-career Soil Carbon researcher at University of Bonn in DE. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.716795
+date: 2026-10-11T02:32:59.737893
 url: "/cdr-researcher-census/researchers/maximilian-meyer-a5034576/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Natural and Human Disturbances Have Non‐Linear Effects on Whole‐Ecosystem Carbon Storage in an African Savanna** (2025)
-   15 citations · General CDR
+   17 citations · General CDR
 
 ## External Profiles
 

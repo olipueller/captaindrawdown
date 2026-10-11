@@ -1,7 +1,7 @@
 ---
 title: "Victor D. N. Santos"
 description: "Victor D. N. Santos is a Senior DAC researcher at Universidade Federal de Pelotas in BR. With 59 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.565739
+date: 2026-10-11T02:32:59.581497
 url: "/cdr-researcher-census/researchers/victor-d-n-santos-a5050342/"
 layout: "researcher"
 hiddenInHomeList: true

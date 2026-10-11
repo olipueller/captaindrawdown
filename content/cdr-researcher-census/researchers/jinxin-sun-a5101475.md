@@ -1,7 +1,7 @@
 ---
 title: "Jinxin Sun"
 description: "Jinxin Sun is a Mid-career Soil Carbon researcher at Shandong Normal University in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.076294
+date: 2026-10-11T02:33:00.106599
 url: "/cdr-researcher-census/researchers/jinxin-sun-a5101475/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Appropriately delayed flooding before rice transplanting increases net ecosystem economic benefit in the winter green manure-rice rotation system** (2024)
-   14 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 2. **[Spatiotemporal Evolution and Simulation Prediction of Ecosystem Carbon Storage in the Yellow River Basin Before and After the Grain for Green Project].** (2024)
    7 citations · General CDR

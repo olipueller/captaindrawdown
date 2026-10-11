@@ -1,7 +1,7 @@
 ---
 title: "Nader Marzban"
 description: "Nader Marzban is a Mid-career Biochar researcher at Linköping University in DE. With 59 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.222581
+date: 2026-10-11T02:32:59.226110
 url: "/cdr-researcher-census/researchers/nader-marzban-a5071788/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,25 +51,25 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Advances and challenges in humic acid production technologies from natural carbonaceous material wastes** (2024)
-   75 citations
+   76 citations
 
 2. **Smart integrated biorefineries in bioeconomy: A concept toward zero-waste, emission reduction, and self-sufficient energy production** (2025)
-   59 citations · Biochar
+   64 citations · Biochar
 
 3. **Transitioning from hydrothermal carbonization to humification for producing artificial humic substances** (2025)
-   23 citations · Biochar
+   25 citations · Biochar
 
 4. **Integrating machine learning with experimental investigation for optimizing photocatalytic degradation of Rhodamine B using neodymium-doped titanium dioxide: a comprehensive approach with toxicity assessment** (2024)
-   14 citations
+   16 citations
 
 5. **Progress and challenges in thermochemical technologies for biomass humification: A comprehensive review** (2026)
-   4 citations · Biochar
+   5 citations · Biochar
 
-6. **CAN HYDROTHERMAL BIOMASS PROCESSING SERVE AS AN ANALOGUE OF MILLENNIA-SCALE NATURAL CARBON MATURATION? A UNIFIED PERSPECTIVE ON CARBONISATION, HUMIFICATION, AND FULVIFICATION** (2026)
+6. **Biochar from poplar sawdust for digestate nutrient recovery and potential for long-term carbon sequestration** (2026)
    1 citations · Biochar
 
-7. **Biochar from poplar sawdust for digestate nutrient recovery and potential for long-term carbon sequestration** (2026)
-   0 citations · Biochar
+7. **CAN HYDROTHERMAL BIOMASS PROCESSING SERVE AS AN ANALOGUE OF MILLENNIA-SCALE NATURAL CARBON MATURATION? A UNIFIED PERSPECTIVE ON CARBONISATION, HUMIFICATION, AND FULVIFICATION** (2026)
+   1 citations · Biochar
 
 8. **Artificial Humic Substances Via Hydrothermal Conversion of Biomass: Unlocking the Transition from Carbonization to Humification** (2025)
    0 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Miranda Boettcher"
 description: "Miranda Boettcher is a Mid-career General CDR researcher at Stiftung Wissenschaft und Politik Deutsches Institut für Internationale Politik und Sicherheit in DE. With 52 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.328850
+date: 2026-10-11T02:32:59.334675
 url: "/cdr-researcher-census/researchers/miranda-boettcher-a5061263/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,34 +45,34 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 15 |
 | Citations | 758 |
 | Publications | 52 |
-| CDR Focus | 46.2% |
-| Trajectory | Stable |
+| CDR Focus | 48.1% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **A prudent planetary limit for geologic carbon storage** (2025)
-   79 citations · General CDR
+   85 citations · General CDR
 
 2. **Navigating Potential Hype and Opportunity in Governing Marine Carbon Removal** (2021)
    66 citations · General CDR
 
-3. **Secure robust carbon dioxide removal policy through credible certification** (2023)
-   35 citations · General CDR
+3. **The formative phase of German carbon dioxide removal policy: Positioning between precaution, pragmatism and innovation** (2023)
+   36 citations · General CDR
 
-4. **The formative phase of German carbon dioxide removal policy: Positioning between precaution, pragmatism and innovation** (2023)
-   35 citations · General CDR
+4. **Secure robust carbon dioxide removal policy through credible certification** (2023)
+   34 citations · General CDR
 
 5. **Novel carbon dioxide removals techniques must be integrated into the European Union’s climate policies** (2023)
-   23 citations · General CDR
+   24 citations · General CDR
 
 6. **Social considerations and best practices to apply to engaging publics on ocean alkalinity enhancement** (2023)
-   19 citations · General CDR
+   23 citations · General CDR
 
-7. **An earth system governance research agenda for carbon removal** (2024)
+7. **A holistic assessment framework for marine carbon dioxide removal options** (2025)
    12 citations · General CDR
 
-8. **A holistic assessment framework for marine carbon dioxide removal options** (2025)
-   11 citations · General CDR
+8. **An earth system governance research agenda for carbon removal** (2024)
+   12 citations · General CDR
 
 9. **Specialty grand challenge: renaming our section to “Carbon Dioxide Removal”** (2023)
    6 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Qiyu Zhou"
 description: "Qiyu Zhou is a Mid-career Enhanced Weathering researcher at North Carolina State University in US. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.281249
+date: 2026-10-11T02:33:00.311254
 url: "/cdr-researcher-census/researchers/qiyu-zhou-a5026962/"
 layout: "researcher"
 hiddenInHomeList: true

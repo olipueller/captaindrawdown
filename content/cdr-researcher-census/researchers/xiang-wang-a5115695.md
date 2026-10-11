@@ -1,7 +1,7 @@
 ---
 title: "Xiang Wang"
 description: "Xiang Wang is a Senior Soil Carbon researcher at Jiangxi University of Traditional Chinese Medicine in CN. With 164 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.121968
+date: 2026-10-11T02:32:59.126608
 url: "/cdr-researcher-census/researchers/xiang-wang-a5115695/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,28 +51,28 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biochar application significantly increases soil organic carbon under conservation tillage: an 11-year field experiment** (2023)
-   124 citations · Biochar
+   127 citations · Biochar
 
 2. **Inducing Inorganic Carbon Accrual in Subsoil through Biochar Application on Calcareous Topsoil** (2023)
-   73 citations · Biochar
+   76 citations · Biochar
 
 3. **Salt-affected marginal lands: a solution for biochar production** (2023)
-   49 citations · Biochar
+   51 citations · Biochar
 
 4. **Stabilization of organic carbon in top- and subsoil by biochar application into calcareous farmland** (2023)
-   34 citations · Biochar
+   38 citations · Biochar
 
 5. **Microplastics Generate Less Mineral Protection of Soil Carbon and More CO<sub>2</sub> Emissions** (2024)
-   32 citations · Soil Carbon
+   33 citations · Soil Carbon
 
 6. **Effects of erosion and deposition on the extent and characteristics of organic carbon associated with soil minerals in Mollisol landscape** (2023)
-   32 citations · Soil Carbon
+   33 citations · Soil Carbon
 
 7. **Crop diversity significantly enhances soil carbon sequestration via alleviating soil inorganic carbon decline caused by rhizobium inoculation** (2024)
    14 citations · Soil Carbon
 
 8. **Intercropping significantly elevates carbon sequestration by mitigating the decline in soil total carbon caused by excessive phosphorus-application** (2025)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 9. **Effects of Long-Term Cotton Straw Return on Soil Carbon and Bacterial Community in Topsoil and Deep Soil** (2025)
    3 citations · Soil Carbon

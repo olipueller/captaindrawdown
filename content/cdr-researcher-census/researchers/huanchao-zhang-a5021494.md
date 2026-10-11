@@ -1,7 +1,7 @@
 ---
 title: "Huanchao Zhang"
 description: "Huanchao Zhang is a Senior Soil Carbon researcher at Nanjing Forestry University in CN. With 75 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.273530
+date: 2026-10-11T02:32:59.277772
 url: "/cdr-researcher-census/researchers/huanchao-zhang-a5021494/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Exogenous calcium-induced carbonate formation to increase carbon sequestration in coastal saline-alkali soil** (2024)
-   18 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 2. **Controls on soil dissolved organic carbon along the 4000 km North-South forest transect in Eastern China** (2022)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 3. **Soil carbon quantity and form are controlled predominantly by mean annual temperature along 4000 km North-South transect of Eastern China** (2022)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 4. **Visualizing the Landscape and Evolution of Phosphorus Research in Saline-Alkali Soils by Scientometric Analysis** (2026)
    0 citations

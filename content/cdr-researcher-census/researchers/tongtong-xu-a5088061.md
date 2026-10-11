@@ -1,7 +1,7 @@
 ---
 title: "Tongtong Xu"
 description: "Tongtong Xu is a Mid-career Soil Carbon researcher at Zhejiang Sci-Tech University in CN. With 36 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.378209
+date: 2026-10-11T02:32:59.385566
 url: "/cdr-researcher-census/researchers/tongtong-xu-a5088061/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Enhanced silicate weathering accelerates forest carbon sequestration by stimulating the soil mineral carbon pump** (2024)
-   66 citations · Enhanced Weathering
+   67 citations · Enhanced Weathering
 
 2. **Enhanced rock weathering increased soil phosphorus availability and altered root phosphorus‐acquisition strategies** (2024)
-   46 citations · Enhanced Weathering
+   47 citations · Enhanced Weathering
 
 3. **Grazing effects on the relationship between plant functional diversity and soil carbon sequestration regulated by livestock species** (2024)
    21 citations · Soil Carbon
@@ -63,10 +63,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    20 citations · Soil Carbon
 
 5. **Enhanced Rock Weathering Promotes Soil Organic Carbon Accumulation: A Global Meta‐Analysis Based on Experimental Evidence** (2025)
-   15 citations · Enhanced Weathering
+   16 citations · Enhanced Weathering
 
 6. **More Than a Decade of Moderate Grazing: No Impact on Soil Organic Carbon Stocks and Enhancement of Mineral‐Associated Organic Carbon via Livestock Diversification** (2025)
-   11 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 7. **Divergent responses of carbon and nitrogen functional genes composition to enhanced rock weathering** (2025)
    8 citations · Enhanced Weathering

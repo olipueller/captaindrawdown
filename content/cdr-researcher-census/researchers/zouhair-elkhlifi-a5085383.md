@@ -1,7 +1,7 @@
 ---
 title: "Zouhair Elkhlifi"
 description: "Zouhair Elkhlifi is a Mid-career Biochar researcher at Huazhong University of Science and Technology in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.421990
+date: 2026-10-11T02:32:59.432081
 url: "/cdr-researcher-census/researchers/zouhair-elkhlifi-a5085383/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Potential Role of Biochar on Capturing Soil Nutrients, Carbon Sequestration and Managing Environmental Challenges: A Review** (2023)
-   191 citations · Biochar
+   194 citations · Biochar
 
 ## External Profiles
 

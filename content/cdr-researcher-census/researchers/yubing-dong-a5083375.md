@@ -1,7 +1,7 @@
 ---
 title: "Yubing Dong"
 description: "Yubing Dong is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 25 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.355519
+date: 2026-10-11T02:32:59.361763
 url: "/cdr-researcher-census/researchers/yubing-dong-a5083375/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biochar single application and reapplication decreased soil greenhouse gas and nitrogen oxide emissions from rice–wheat rotation: A three-year field observation** (2023)
-   46 citations · Biochar
+   47 citations · Biochar
 
 2. **Optimizing organic substitution: Balancing carbon sequestration and priming effects of a six-year field experiment for sustainable vegetable production** (2023)
-   19 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 3. **Divergent effects of legume cover crops on microbial necromass accumulation at surface versus subsurface soils in subtropical paddy fields** (2025)
    8 citations · Soil Carbon

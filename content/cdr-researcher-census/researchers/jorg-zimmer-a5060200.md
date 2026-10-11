@@ -1,7 +1,7 @@
 ---
 title: "Jörg Zimmer"
 description: "Jörg Zimmer is a Mid-career Soil Carbon researcher. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.031513
+date: 2026-10-11T02:33:00.062715
 url: "/cdr-researcher-census/researchers/jorg-zimmer-a5060200/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic carbon sequestration in agricultural long-term field experiments as derived from particulate and mineral-associated organic matter** (2023)
-   79 citations · Soil Carbon
+   83 citations · Soil Carbon
 
 ## External Profiles
 

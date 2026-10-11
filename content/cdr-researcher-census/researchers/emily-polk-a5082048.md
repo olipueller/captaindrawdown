@@ -1,7 +1,7 @@
 ---
 title: "Emily Polk"
 description: "Emily Polk is a Mid-career DAC researcher at University of California, Santa Barbara in US. With 33 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.854664
+date: 2026-10-11T02:32:59.881682
 url: "/cdr-researcher-census/researchers/emily-polk-a5082048/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Communities conditionally support deployment of direct air capture for carbon dioxide removal in the United States** (2024)
-   33 citations · DAC
+   38 citations · DAC
 
 2. **Community perceptions of and preconditions for direct air capture in the U.S.** (2023)
    4 citations · DAC

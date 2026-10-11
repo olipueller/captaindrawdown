@@ -1,7 +1,7 @@
 ---
 title: "R. Saranya"
 description: "R. Saranya is a Mid-career Biochar researcher at Bharathiar University in IN. With 35 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.994094
+date: 2026-10-11T02:33:00.024677
 url: "/cdr-researcher-census/researchers/r-saranya-a5112366/"
 layout: "researcher"
 hiddenInHomeList: true

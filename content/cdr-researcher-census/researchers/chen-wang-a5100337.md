@@ -1,7 +1,7 @@
 ---
 title: "Chen Wang"
 description: "Chen Wang is a Mid-career Soil Carbon researcher at Ministry of Natural Resources in CN. With 31 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.764289
+date: 2026-10-11T02:32:59.787413
 url: "/cdr-researcher-census/researchers/chen-wang-a5100337/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil microbial communities regulate the threshold effect of salinity stress on SOM decomposition in coastal salt marshes** (2023)
-   50 citations · Soil Carbon
+   52 citations · Soil Carbon
 
 2. **Impacts of Ecological Restoration Projects on Ecosystem Carbon Storage of Tongluo Mountain Mining Area, Chongqing, in Southwest China** (2025)
    1 citations · Soil Carbon

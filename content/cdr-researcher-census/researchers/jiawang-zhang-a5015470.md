@@ -1,7 +1,7 @@
 ---
 title: "Jiawang Zhang"
 description: "Jiawang Zhang is an Early-career General CDR researcher at Chang'an University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.205120
+date: 2026-10-11T02:33:00.234829
 url: "/cdr-researcher-census/researchers/jiawang-zhang-a5015470/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Social-ecological system sustainability in China from the perspective of supply-demand balance for ecosystem services** (2025)
-   71 citations · General CDR
+   76 citations · General CDR
 
 ## External Profiles
 

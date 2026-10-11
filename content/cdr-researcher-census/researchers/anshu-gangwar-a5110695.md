@@ -1,7 +1,7 @@
 ---
 title: "Anshu Gangwar"
 description: "Anshu Gangwar is a Mid-career Soil Carbon researcher at Dr. Rajendra Prasad Central Agriculture University in IN. With 37 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.333941
+date: 2026-10-11T02:33:00.367960
 url: "/cdr-researcher-census/researchers/anshu-gangwar-a5110695/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Asfandyar Shahab"
 description: "Asfandyar Shahab is a Senior Biochar researcher at Hainan University in CN. With 92 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.080380
+date: 2026-10-11T02:32:59.085224
 url: "/cdr-researcher-census/researchers/asfandyar-shahab-a5087014/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,25 +51,25 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Comparative study on characterization and adsorption properties of phosphoric acid activated biochar and nitrogen-containing modified biochar employing Eucalyptus as a precursor** (2021)
-   144 citations · Biochar
+   145 citations · Biochar
 
 2. **Efficient performance of magnesium oxide loaded biochar for the significant removal of Pb2+ and Cd2+ from aqueous solution** (2021)
    128 citations · Biochar
 
 3. **Synthesis of novel magnetic activated carbon for effective Cr(VI) removal via synergistic adsorption and chemical reduction** (2023)
-   79 citations · Biochar
+   80 citations · Biochar
 
 4. **Machine learning approach to predict adsorption capacity of Fe-modified biochar for selenium** (2023)
-   55 citations · Biochar
+   57 citations · Biochar
 
 5. **Efficient removal of Cd(II) from aqueous environment by potassium permanganate-modified eucalyptus biochar** (2021)
-   36 citations · Biochar
+   38 citations · Biochar
 
 6. **Fabrication and characterization of magnetic eucalyptus carbon for efficient Cr(VI) removal in aqueous solution and its mechanisms** (2023)
    17 citations · Biochar
 
 7. **A systematic review on machine learning-aided design of engineered biochar for soil and water contaminant removal** (2025)
-   5 citations · Biochar
+   7 citations · Biochar
 
 ## External Profiles
 

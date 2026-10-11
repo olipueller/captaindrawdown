@@ -1,7 +1,7 @@
 ---
 title: "Sabine Fuss"
 description: "Sabine Fuss is an Eminent General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 233 publications and an h-index of 48, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.018408
+date: 2026-10-11T02:32:59.021524
 url: "/cdr-researcher-census/researchers/sabine-fuss-a5011197/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,37 +45,37 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 48 |
 | Citations | 20,049 |
 | Publications | 233 |
-| CDR Focus | 14.2% |
-| Trajectory | Stable |
+| CDR Focus | 15.5% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Overconfidence in climate overshoot** (2024)
-   170 citations · General CDR
+   178 citations · General CDR
 
 2. **Atmospheric methane removal: a research agenda** (2021)
-   128 citations · General CDR
+   123 citations · General CDR
 
 3. **Net-zero approaches must consider Earth system impacts to achieve climate goals** (2023)
-   92 citations · General CDR
+   90 citations · General CDR
 
 4. **Assessing global urban CO2 removal** (2024)
-   61 citations · General CDR
+   63 citations · General CDR
 
 5. **The BECCS Implementation Gap–A Swedish Case Study** (2021)
-   61 citations · BECCS
+   59 citations · BECCS
 
 6. **Ten new insights in climate science 2023** (2023)
-   46 citations · General CDR
+   47 citations · General CDR
 
 7. **A taxonomy to map evidence on the co-benefits, challenges, and limits of carbon dioxide removal** (2024)
-   37 citations · General CDR
+   40 citations · General CDR
 
 8. **Understanding the carbon dioxide removal range in 1.5 °C compatible and high overshoot pathways** (2023)
    37 citations · General CDR
 
 9. **Scientific literature on carbon dioxide removal revealed as much larger through AI-enhanced systematic mapping** (2025)
-   17 citations · General CDR
+   20 citations · General CDR
 
 10. **Doing burden-sharing right to deliver natural climate solutions for carbon dioxide removal** (2022)
    17 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Abebe Nigussie"
 description: "Abebe Nigussie is a Mid-career Soil Carbon researcher at Jimma University  in ET. With 65 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.183286
+date: 2026-10-11T02:32:59.187420
 url: "/cdr-researcher-census/researchers/abebe-nigussie-a5072657/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "R. K. Naitam"
 description: "R. K. Naitam is a Mid-career Soil Carbon researcher at ICAR-National Bureau of Soil Survey and Land Use Planning in IN. With 34 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.868748
+date: 2026-10-11T02:32:59.895556
 url: "/cdr-researcher-census/researchers/r-k-naitam-a5111873/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,15 +42,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 229 |
 | Publications | 34 |
-| CDR Focus | 5.9% |
+| CDR Focus | 8.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Impact of long-term rice–rice monocropping on soil properties and organic carbon stocks in the NSLC command area: A case study from Telangana, India** (2025)
+1. **Regional-scale predictive mapping of soil organic carbon in South Gujarat, India using machine learning algorithms** (2026)
+   2 citations
+
+2. **Impact of long-term rice–rice monocropping on soil properties and organic carbon stocks in the NSLC command area: A case study from Telangana, India** (2025)
    2 citations · Soil Carbon
 
-2. **Contrasting effects of long term dominant agricultural land use types on carbon and nitrogen dynamics in Vertisols of Central India** (2025)
+3. **Digital mapping of soil organic carbon using machine learning: A framework for state-level carbon-smart land management** (2026)
+   0 citations · Soil Carbon
+
+4. **Contrasting effects of long term dominant agricultural land use types on carbon and nitrogen dynamics in Vertisols of Central India** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

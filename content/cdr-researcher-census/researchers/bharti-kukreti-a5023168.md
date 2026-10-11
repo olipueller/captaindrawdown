@@ -1,7 +1,7 @@
 ---
 title: "Bharti Kukreti"
 description: "Bharti Kukreti is a Mid-career Soil Carbon researcher at Govind Ballabh Pant University of Agriculture and Technology in IN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.571726
+date: 2026-10-11T02:32:59.587433
 url: "/cdr-researcher-census/researchers/bharti-kukreti-a5023168/"
 layout: "researcher"
 hiddenInHomeList: true

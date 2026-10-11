@@ -1,7 +1,7 @@
 ---
 title: "Caroline Acen"
 description: "Caroline Acen is a Mid-career General CDR researcher at Chengdu University of Information Technology in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.472687
+date: 2026-10-11T02:32:59.483852
 url: "/cdr-researcher-census/researchers/caroline-acen-a5015214/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The complementary role of carbon dioxide removal: A catalyst for advancing the COP28 pledges towards the 1.5 °C Paris Agreement target** (2024)
-   32 citations · General CDR
+   35 citations · General CDR
 
 2. **Socio-economic implications of deploying COP28 pledged negative emission technologies** (2026)
    0 citations · General CDR

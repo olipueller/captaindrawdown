@@ -1,7 +1,7 @@
 ---
 title: "Ján Ferenčík"
 description: "Ján Ferenčík is a Mid-career General CDR researcher at Štátne Lesy Tatranského Národního Parku in SK. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.526057
+date: 2026-10-11T02:32:59.539975
 url: "/cdr-researcher-census/researchers/jan-ferencik-a5056910/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The Database of European Forest Insect and Disease Disturbances: <scp>DEFID2</scp>** (2023)
-   36 citations · General CDR
+   37 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Charithea Charalambous"
 description: "Charithea Charalambous is a Mid-career General CDR researcher at Rocky Mountain Institute in US. With 48 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.239966
+date: 2026-10-11T02:32:59.243486
 url: "/cdr-researcher-census/researchers/charithea-charalambous-a5040855/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,27 +51,27 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The cost of direct air capture and storage can be reduced via strategic deployment but is unlikely to fall below stated cost targets** (2023)
-   202 citations · DAC
+   211 citations · DAC
 
 2. **A roadmap for achieving scalable, safe, and low-cost direct air carbon capture and storage** (2023)
-   119 citations
+   127 citations
 
 3. **The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.** (2022)
-   12 citations
+   11 citations
 
 4. **The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.** (2022)
    5 citations · DAC
 
-5. **The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.** (2022)
-   4 citations
-
-6. **Breaking Barriers in Carbon Dioxide Removal with Electrochemistry** (2025)
+5. **Breaking Barriers in Carbon Dioxide Removal with Electrochemistry** (2025)
    3 citations · General CDR
+
+6. **A Roadmap for Achieving Scalable, Safe, and Low-cost Direct Air Carbon Capture and Storage** (2023)
+   3 citations
 
 7. **A Roadmap for Achieving Scalable, Safe, and Low-cost Direct Air Carbon Capture and Storage** (2023)
    3 citations
 
-8. **A Roadmap for Achieving Scalable, Safe, and Low-cost Direct Air Carbon Capture and Storage** (2023)
+8. **The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.** (2022)
    3 citations
 
 9. **A Roadmap for Achieving Scalable, Safe, and Low-cost Direct Air Carbon Capture and Storage** (2023)

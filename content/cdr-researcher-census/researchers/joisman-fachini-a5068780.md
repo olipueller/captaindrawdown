@@ -1,7 +1,7 @@
 ---
 title: "Jóisman Fachini"
 description: "Jóisman Fachini is a Mid-career Biochar researcher at Universidade de Brasília in BR. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.842831
+date: 2026-10-11T02:32:59.868773
 url: "/cdr-researcher-census/researchers/joisman-fachini-a5068780/"
 layout: "researcher"
 hiddenInHomeList: true

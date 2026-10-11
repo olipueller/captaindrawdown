@@ -1,7 +1,7 @@
 ---
 title: "James Fox"
 description: "James Fox is a Mid-career Ocean CDR researcher at Oregon State University in US. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.436381
+date: 2026-10-11T02:32:59.446661
 url: "/cdr-researcher-census/researchers/james-fox-a5014038/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 ## Top CDR Publications
 
-1. **Influence of amino acids on bacterioplankton production, biomass and community composition at Ocean Station Papa in the subarctic Pacific** (2023)
-   15 citations · Ocean CDR
+1. **Reconciliation of total particulate organic carbon and nitrogen measurements determined using contrasting methods in the North Pacific Ocean as part of the NASA EXPORTS field campaign** (2023)
+   15 citations
 
-2. **Reconciliation of total particulate organic carbon and nitrogen measurements determined using contrasting methods in the North Pacific Ocean as part of the NASA EXPORTS field campaign** (2023)
-   14 citations
+2. **Influence of amino acids on bacterioplankton production, biomass and community composition at Ocean Station Papa in the subarctic Pacific** (2023)
+   15 citations · Ocean CDR
 
 ## External Profiles
 

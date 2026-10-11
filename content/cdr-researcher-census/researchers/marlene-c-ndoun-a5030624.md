@@ -1,7 +1,7 @@
 ---
 title: "Marlene C. Ndoun"
 description: "Marlene C. Ndoun is a Mid-career Biochar researcher at Pennsylvania State University in US. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.068491
+date: 2026-10-11T02:33:00.098571
 url: "/cdr-researcher-census/researchers/marlene-c-ndoun-a5030624/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,9 +51,12 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Fixed bed column experiments using cotton gin waste and walnut shells-derived biochar as low-cost solutions to removing pharmaceuticals from aqueous solutions** (2023)
-   40 citations · Biochar
+   42 citations · Biochar
 
 2. **Cotton Gin Waste and Walnut Shells-Derived Biochar as Low-Cost Solutions to Removing Pharmaceuticals from Aqueous Solutions** (2023)
+   1 citations · Biochar
+
+3. **Physicochemical characterization of biochar derived from the pyrolysis of cotton gin waste and walnut shells** (2022)
    1 citations · Biochar
 
 ## External Profiles

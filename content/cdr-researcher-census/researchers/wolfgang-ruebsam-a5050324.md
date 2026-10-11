@@ -1,7 +1,7 @@
 ---
 title: "Wolfgang Ruebsam"
 description: "Wolfgang Ruebsam is a Senior Enhanced Weathering researcher at Kiel University in DE. With 74 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.186532
+date: 2026-10-11T02:32:59.190603
 url: "/cdr-researcher-census/researchers/wolfgang-ruebsam-a5050324/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Impact of the Jenkyns Event (early Toarcian) on dinosaurs: Comparison with the Triassic/Jurassic transition** (2022)
-   30 citations · Enhanced Weathering
+   29 citations · Enhanced Weathering
 
 2. **The Toarcian Oceanic Anoxic Event: where do we stand?** (2021)
    27 citations · Enhanced Weathering
@@ -59,11 +59,11 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 3. **About this title - Carbon Cycle and Ecosystem Response to the Jenkyns Event in the Early Toarcian (Jurassic)** (2021)
    7 citations · Enhanced Weathering
 
-4. **Dinosaur extinctions related to the Jenkyns Event (early Toarcian, Jurassic)** (2022)
-   3 citations · Enhanced Weathering
+4. **Carbon and nitrogen cycling in response to global environmental change during the Carnian Pluvial Episode (late Triassic)** (2025)
+   3 citations
 
-5. **Carbon and nitrogen cycling in response to global environmental change during the Carnian Pluvial Episode (late Triassic)** (2025)
-   2 citations
+5. **Dinosaur extinctions related to the Jenkyns Event (early Toarcian, Jurassic)** (2022)
+   3 citations · Enhanced Weathering
 
 6. **Comment on cp-2022-87** (2023)
    0 citations

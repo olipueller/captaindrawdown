@@ -1,7 +1,7 @@
 ---
 title: "John P. Holland"
 description: "John P. Holland is a Senior Soil Carbon researcher. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.542874
+date: 2026-10-11T02:32:59.557814
 url: "/cdr-researcher-census/researchers/john-p-holland-a5009333/"
 layout: "researcher"
 hiddenInHomeList: true

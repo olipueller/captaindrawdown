@@ -1,7 +1,7 @@
 ---
 title: "Mustafa Erguvan"
 description: "Mustafa Erguvan is a Mid-career DAC researcher at University of Alabama in US. With 34 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.758733
+date: 2026-10-11T02:32:59.781532
 url: "/cdr-researcher-census/researchers/mustafa-erguvan-a5091594/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **A cradle-to-gate life cycle assessment of green methanol production using direct air capture** (2024)
-   52 citations · DAC
+   54 citations · DAC
 
 2. **Investigation of microwave-based CO2 regeneration in a packed bed reactor for Direct Air Capture** (2024)
    16 citations
@@ -59,19 +59,22 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 3. **An experimental study on microwave-assisted direct air capture of CO<sub>2</sub> under fluidized bed conditions** (2025)
    8 citations
 
-4. **Integrated solar organic Rankine Cycle and Direct Air Capture System for sustainable automotive manufacturing plants** (2025)
+4. **Microwave-assisted regeneration of amine-functionalized sorbents for direct air capture** (2026)
+   5 citations
+
+5. **Integrated solar organic Rankine Cycle and Direct Air Capture System for sustainable automotive manufacturing plants** (2025)
    2 citations · DAC
 
-5. **Effect of humidity on microwave-based direct air capture under fluidization** (2025)
+6. **Effect of humidity on microwave-based direct air capture under fluidization** (2025)
    1 citations
 
-6. **Comparison of Packed and Fluidized Bed Reactors for Direct Air Capture Under Microwave** (2025)
+7. **Comparison of Packed and Fluidized Bed Reactors for Direct Air Capture Under Microwave** (2025)
    1 citations
 
-7. **Green Methanol Production Using Direct Air Capture: a Comparative Life-cycle Assessment of Sustainable Energy Prospects** (2024)
+8. **Green Methanol Production Using Direct Air Capture: a Comparative Life-cycle Assessment of Sustainable Energy Prospects** (2024)
    1 citations · DAC
 
-8. **Effects of Reactor Scale on Temperature Distribution Under Microwave Condition for Regeneration of Co2 in Fluidized Bed** (2024)
+9. **Effects of Reactor Scale on Temperature Distribution Under Microwave Condition for Regeneration of Co2 in Fluidized Bed** (2024)
    0 citations
 
 ## External Profiles

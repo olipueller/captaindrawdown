@@ -1,7 +1,7 @@
 ---
 title: "Ingrid Smet"
 description: "Ingrid Smet is a Senior Enhanced Weathering researcher at Carbon Drawdown Initiative in BE. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.435501
+date: 2026-10-11T02:32:59.445816
 url: "/cdr-researcher-census/researchers/ingrid-smet-a5101641/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -75,6 +75,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    0 citations · Enhanced Weathering
 
 9. **Total Alkalinity, Electrical Conductivity and pH as Potential MRV Proxies for Enhanced Weathering A Guided Tour Through Our Data From A Two-Year Greenhouse Experiment** (2026)
+   0 citations · Enhanced Weathering
+
+10. **Is biomass yield increase a potential indicator for CDR performance of enhanced weathering?** (2026)
    0 citations · Enhanced Weathering
 
 ## External Profiles

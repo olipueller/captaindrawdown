@@ -1,7 +1,7 @@
 ---
 title: "Erlend Sørmo"
 description: "Erlend Sørmo is a Mid-career Biochar researcher at Norwegian University of Life Sciences in NO. With 42 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.231910
+date: 2026-10-11T02:32:59.234905
 url: "/cdr-researcher-census/researchers/erlend-srmo-a5015468/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Sewage sludge biochars as effective PFAS-sorbents** (2022)
-   119 citations · Biochar
+   122 citations · Biochar
 
 2. **Distribution of PAHs, PCBs, and PCDD/Fs in products from full-scale relevant pyrolysis of diverse contaminated organic waste** (2023)
-   59 citations · Biochar
+   58 citations · Biochar
 
 3. **Industrially relevant pyrolysis of diverse contaminated organic wastes: Gas compositions and emissions to air** (2023)
    26 citations · Biochar
@@ -64,6 +64,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 5. **Sewage Sludge Biochars as Effective Pfas-Sorbents** (2022)
    1 citations · Biochar
+
+6. **Current state of biochar as a carbon dioxide removal solution : status report for Mission Innovation Countries and Beyond** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

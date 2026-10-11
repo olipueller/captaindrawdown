@@ -1,7 +1,7 @@
 ---
 title: "Zoltàn Kun"
 description: "Zoltàn Kun is a Mid-career General CDR researcher at Wildlife Information Liaison Development in IN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.479590
+date: 2026-10-11T02:32:59.490880
 url: "/cdr-researcher-census/researchers/zoltan-kun-a5033546/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Carbon carrying capacity in primary forests shows potential for mitigation achieving the European Green Deal 2030 target** (2024)
-   35 citations · General CDR
+   37 citations · General CDR
 
 ## External Profiles
 

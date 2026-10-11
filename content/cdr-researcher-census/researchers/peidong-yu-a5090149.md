@@ -1,7 +1,7 @@
 ---
 title: "Peidong Yu"
 description: "Peidong Yu is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.035202
+date: 2026-10-11T02:33:00.066117
 url: "/cdr-researcher-census/researchers/peidong-yu-a5090149/"
 layout: "researcher"
 hiddenInHomeList: true

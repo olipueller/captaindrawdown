@@ -1,7 +1,7 @@
 ---
 title: "Yanli Qin"
 description: "Yanli Qin is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.762145
+date: 2026-10-11T02:32:59.785189
 url: "/cdr-researcher-census/researchers/yanli-qin-a5010997/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial necromass carbon drives soil organic carbon accumulation during long‐term vegetation succession** (2025)
-   37 citations · Soil Carbon
+   40 citations · Soil Carbon
 
 ## External Profiles
 

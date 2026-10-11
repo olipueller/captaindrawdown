@@ -1,7 +1,7 @@
 ---
 title: "Zuzheng Li"
 description: "Zuzheng Li is a Mid-career Soil Carbon researcher at Beijing Academy of Forestry and Landscape Architecture in CN. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.395828
+date: 2026-10-11T02:32:59.404573
 url: "/cdr-researcher-census/researchers/zuzheng-li-a5027453/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Trade-offs between carbon storage and habitat quality in the Yellow River Basin: Re-evaluating ecosystem service dynamics under large-scale greening** (2026)
-   2 citations
+   4 citations
 
 2. **The Effect of Soil Physical Structure on Surface Soil Carbon and Nitrogen Content Across Land Use Types** (2024)
    0 citations · Soil Carbon

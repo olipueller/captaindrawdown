@@ -1,7 +1,7 @@
 ---
 title: "Tajda Potrč Obrecht"
 description: "Tajda Potrč Obrecht is a Mid-career General CDR researcher at Graz University of Technology in AT. With 23 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.350095
+date: 2026-10-11T02:32:59.356250
 url: "/cdr-researcher-census/researchers/tajda-potrc-obrecht-a5039913/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Whole-life greenhouse gas emission reduction and removal strategies for buildings: Impacts and diffusion potentials across EU Member States** (2024)
-   43 citations · General CDR
+   44 citations · General CDR
 
-2. **Carbon Dioxide Storage and Removal in EU Buildings** (2025)
+2. **Biogenic carbon dioxide storage and mineral carbonation uptake in EU buildings** (2026)
+   1 citations · Enhanced Weathering
+
+3. **Carbon Dioxide Storage and Removal in EU Buildings** (2025)
    1 citations · General CDR
-
-3. **Biogenic carbon dioxide storage and mineral carbonation uptake in EU buildings** (2026)
-   0 citations · Enhanced Weathering
 
 ## External Profiles
 

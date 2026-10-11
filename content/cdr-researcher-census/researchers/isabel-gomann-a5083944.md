@@ -1,7 +1,7 @@
 ---
 title: "Isabel Goßmann"
 description: "Isabel Goßmann is a Mid-career Ocean CDR researcher at Carl von Ossietzky Universität Oldenburg in DE. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.388990
+date: 2026-10-11T02:32:59.396870
 url: "/cdr-researcher-census/researchers/isabel-gomann-a5083944/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Hitchhiking into the Deep: How Microplastic Particles are Exported through the Biological Carbon Pump in the North Atlantic Ocean** (2022)
-   87 citations · Ocean CDR
+   89 citations · Ocean CDR
 
 ## External Profiles
 

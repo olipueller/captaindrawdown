@@ -1,7 +1,7 @@
 ---
 title: "José Luis Vicente‐Vicente"
 description: "José Luis Vicente‐Vicente is a Mid-career Soil Carbon researcher at IEGD - CSIC in ES. With 54 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.059644
+date: 2026-10-11T02:32:59.064004
 url: "/cdr-researcher-census/researchers/jose-luis-vicentevicente-a5014415/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Conservation Agriculture and Soil Organic Carbon: Principles, Processes, Practices and Policy Options** (2023)
-   207 citations · General CDR
+   216 citations · General CDR
 
 2. **Effects of herbaceous covers and mineral fertilizers on the nutrient stocks and fluxes in a Mediterranean olive grove** (2022)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 3. **Role of Clay Mineralogy in the Stabilization of Soil Organic Carbon in Olive Groves under Contrasted Soil Management** (2022)
-   16 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 4. **Divergent Nutrient Stocks and Fluxes in Herbaceous Vegetation Versus Olive Trees Explain Competition Outcomes in a Mediterranean Olive Grove** (2022)
    1 citations

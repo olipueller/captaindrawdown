@@ -1,7 +1,7 @@
 ---
 title: "Antoine Rogeau"
 description: "Antoine Rogeau is a Mid-career General CDR researcher at École Nationale Supérieure des Mines de Paris in FR. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.642333
+date: 2026-10-11T02:32:59.660750
 url: "/cdr-researcher-census/researchers/antoine-rogeau-a5084209/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Decarbonisation modelling for key industrial sectors focusing on process changes in a cost-optimised pathway** (2025)
-   15 citations · General CDR
+   18 citations · General CDR
 
 2. **Industry Decarbonisation Bottom-Up Modelling in a Cost Optimised Trajectory** (2024)
-   0 citations · General CDR
+   1 citations · General CDR
 
 3. **Prospective bottom-up modelling of industry: what place for electrification in a cost optimised trajectory ?** (2023)
-   0 citations · BECCS
+   1 citations · BECCS
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Jorge Montaño-Pisfil"
 description: "Jorge Montaño-Pisfil is a Mid-career General CDR researcher at Universidad Nacional del Callao in PE. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.272060
+date: 2026-10-11T02:33:00.302119
 url: "/cdr-researcher-census/researchers/jorge-montano-pisfil-a5092432/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Applications of Renewable Energies in Low-Temperature Regions: A Scientometric Analysis of Recent Advancements and Future Research Directions** (2025)
-   5 citations
+   9 citations
 
 2. **Applications of Renewable Energies in Low-Temperature Regions: A Scientometric Analysis of Recent Advancements and Future Research Directions** (2025)
    3 citations · General CDR

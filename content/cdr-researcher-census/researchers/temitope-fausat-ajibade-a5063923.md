@@ -1,7 +1,7 @@
 ---
 title: "Temitope Fausat Ajibade"
 description: "Temitope Fausat Ajibade is a Senior Biochar researcher at Federal University of Technology Akure School of Engineering and Engineering Technology in NG. With 65 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.189536
+date: 2026-10-11T02:32:59.193647
 url: "/cdr-researcher-census/researchers/temitope-fausat-ajibade-a5063923/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Impact of biochar amendment on antibiotic removal and ARGs accumulation in constructed wetlands for low C/N wastewater treatment** (2023)
-   97 citations · Biochar
+   100 citations · Biochar
 
 2. **Microbial impact on climate-smart agricultural practices** (2022)
    21 citations · General CDR
 
-3. **A Review of Green Chemistry Integration with Carbon Capture and Utilization: Opportunities for Sustainable Circular Pathways** (2026)
-   2 citations · General CDR
+3. **Nature-Based Solutions for Climate Change Adaptation in a Smart City Paradigm in Climate-Related Disasters and Urban Resilience** (2026)
+   2 citations
 
-4. **Nature-Based Solutions for Climate Change Adaptation in a Smart City Paradigm in Climate-Related Disasters and Urban Resilience** (2026)
-   1 citations
+4. **A Review of Green Chemistry Integration with Carbon Capture and Utilization: Opportunities for Sustainable Circular Pathways** (2026)
+   2 citations · General CDR
 
 5. **Impact of Biochar Amended on Antibiotic Removal and Resistant Genes Accumulation in Constructed Wetlands for Low C/N Wastewater Treatment: Performance and Mechanism** (2022)
    1 citations · Biochar

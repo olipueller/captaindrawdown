@@ -1,7 +1,7 @@
 ---
 title: "Aline F. Rodrigues"
 description: "Aline F. Rodrigues is a Senior Biochar researcher at Pontifícia Universidade Católica do Rio de Janeiro in BR. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.488220
+date: 2026-10-11T02:32:59.500074
 url: "/cdr-researcher-census/researchers/aline-f-rodrigues-a5082146/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    4 citations · Biochar
 
 2. **Perspectives and opportunities for the intensive use of biochar in Brazil** (2026)
-   1 citations
+   2 citations
 
 3. **Biochar and legumes improve pastures in Brazil: environmental and socioeconomic analysis of three forage grasses in a field experiment** (2022)
    0 citations · Biochar

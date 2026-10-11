@@ -1,7 +1,7 @@
 ---
 title: "Lijun Wu"
 description: "Lijun Wu is a Senior Soil Carbon researcher at Peanut Institute in US. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.388974
+date: 2026-10-11T02:33:00.425799
 url: "/cdr-researcher-census/researchers/lijun-wu-a5100572/"
 layout: "researcher"
 hiddenInHomeList: true

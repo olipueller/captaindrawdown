@@ -1,7 +1,7 @@
 ---
 title: "Eric Verrecchia"
 description: "Eric Verrecchia is a Mid-career Soil Carbon researcher at University of Lausanne in CH. With 64 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.139392
+date: 2026-10-11T02:32:59.143806
 url: "/cdr-researcher-census/researchers/eric-verrecchia-a5055610/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Reactive transport modelling the oxalate-carbonate pathway of the Iroko tree; Investigation of calcium and carbon sinks and sources** (2021)
-   16 citations
+   17 citations
 
 2. **Adjustments to the Rock-Eval® thermal analysis for soil organic and inorganic carbon quantification** (2023)
-   12 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 3. **Soil organic matter thermal pools as influenced by depth, tillage, and soil texture – A Rock-Eval® analysis study on the cropland soils of the Swiss Plateau** (2024)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 4. **Coupling Infrared Isotopic Gas Analysis and Thermal Ramped Analysis to Characterise Soil Organic and Inorganic Carbon** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 5. **Adjustments of the Rock-Eval® thermal analysis for soil organic and inorganic carbon quantification** (2023)
    2 citations · Soil Carbon

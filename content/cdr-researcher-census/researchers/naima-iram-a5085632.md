@@ -1,7 +1,7 @@
 ---
 title: "Naima Iram"
 description: "Naima Iram is a Mid-career Soil Carbon researcher at Griffith University in AU. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.628264
+date: 2026-10-11T02:32:59.646779
 url: "/cdr-researcher-census/researchers/naima-iram-a5085632/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Deconstructing the mangrove carbon cycle: Gains, transformation, and losses** (2024)
-   69 citations · Soil Carbon
+   72 citations · Soil Carbon
 
 2. **Climate change mitigation and improvement of water quality from the restoration of a subtropical coastal wetland** (2022)
-   49 citations · Soil Carbon
+   51 citations · Soil Carbon
 
 3. **Soil greenhouse gas fluxes from tropical coastal wetlands and alternative agricultural land uses** (2021)
-   31 citations · Soil Carbon
+   35 citations · Soil Carbon
 
-4. **Organic matter decomposition and associated microbial communities in wetlands: insights from tropical and subtropical Melaleuca forests in Australia** (2023)
-   6 citations
+4. **Abundant and active acetogens enhance the carbon dioxide sink of Blue Carbon ecosystems** (2025)
+   5 citations · Ocean CDR
 
-5. **Abundant and active acetogens enhance the carbon dioxide sink of Blue Carbon ecosystems** (2025)
-   4 citations · Ocean CDR
+5. **Organic matter decomposition and associated microbial communities in wetlands: insights from tropical and subtropical Melaleuca forests in Australia** (2023)
+   5 citations
 
 6. **Greenhouse gas emissions from tropical coastal wetlands and their alternative agricultural lands: Where significant mitigation gains lie** (2021)
    3 citations · General CDR
@@ -71,14 +71,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 7. **Abundant and active acetogens enhance the carbon dioxide sink of Blue Carbon ecosystems** (2025)
    2 citations
 
-8. **Reply on RC2** (2026)
+8. **Landscape- and site-scale spatial variability of blue carbon stocks and fluxes in tropical seagrass meadows** (2026)
    0 citations
 
-9. **Comment on egusphere-2025-6519** (2026)
-   0 citations · Ocean CDR
+9. **Reply on RC2** (2026)
+   0 citations
 
-10. **Reply on RC1** (2026)
-   0 citations · Soil Carbon
+10. **Comment on egusphere-2025-6519** (2026)
+   0 citations · Ocean CDR
 
 ## External Profiles
 

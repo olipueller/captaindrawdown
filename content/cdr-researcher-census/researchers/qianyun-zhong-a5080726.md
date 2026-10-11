@@ -1,7 +1,7 @@
 ---
 title: "Qianyun Zhong"
 description: "Qianyun Zhong is a Mid-career Biochar researcher at Beijing Normal-Hong Kong Baptist University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.342261
+date: 2026-10-11T02:32:59.348298
 url: "/cdr-researcher-census/researchers/qianyun-zhong-a5080726/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "ShouWei Han"
 description: "ShouWei Han is a Senior Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 64 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.106783
+date: 2026-10-11T02:32:59.111439
 url: "/cdr-researcher-census/researchers/shouwei-han-a5110428/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Strategic tillage achieves lower carbon footprints with higher carbon accumulation and grain yield in a wheat-maize cropping system** (2021)
-   59 citations · Soil Carbon
+   58 citations · Soil Carbon
 
 2. **Enhancing soil ecosystem multifunctionality through combined conservation tillage and legume-based crop rotation in the North China Plain** (2024)
-   31 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 3. **Effects of fertilizer application strategies on soil organic carbon and total nitrogen storage under different agronomic practices: A meta‐analysis** (2023)
    28 citations · General CDR
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · Soil Carbon
 
 5. **Aridity Drives the Response of Soil Organic Carbon and Inorganic Carbon to Drought in Cropland** (2025)
-   5 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 6. **Unraveling carbon mineralization patterns and mechanisms in conservation agriculture: A global synthesis and multi-point experiment** (2025)
    5 citations · Soil Carbon

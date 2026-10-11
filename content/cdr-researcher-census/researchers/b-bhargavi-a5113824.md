@@ -1,7 +1,7 @@
 ---
 title: "B. Bhargavi"
 description: "B. Bhargavi is a Senior Biochar researcher. With 29 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.374732
+date: 2026-10-11T02:33:00.410191
 url: "/cdr-researcher-census/researchers/b-bhargavi-a5113824/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,10 +43,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Climate Change Impacts on Agricultural Systems Mitigation and Adaptation Strategies: A Review** (2024)
-   18 citations · General CDR
+   19 citations · General CDR
 
 2. **Nano-Biochar: A promising tool for sustainable agriculture under climate change era** (2025)
-   4 citations · Biochar
+   5 citations · Biochar
 
 ## External Profiles
 

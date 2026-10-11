@@ -1,7 +1,7 @@
 ---
 title: "Renato Rodrigues"
 description: "Renato Rodrigues is a Mid-career General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 54 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.153033
+date: 2026-10-11T02:32:59.157294
 url: "/cdr-researcher-census/researchers/renato-rodrigues-a5073007/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    571 citations · General CDR
 
 2. **Tightening EU ETS targets in line with the European Green Deal: Impacts on the decarbonization of the EU power sector** (2021)
-   316 citations
+   314 citations
 
 3. **Narrative-driven alternative roads to achieve mid-century CO2 net neutrality in Europe** (2021)
-   93 citations · General CDR
+   89 citations · General CDR
 
 4. **Food matters: Dietary shifts increase the feasibility of 1.5°C pathways in line with the Paris Agreement** (2024)
    43 citations · General CDR

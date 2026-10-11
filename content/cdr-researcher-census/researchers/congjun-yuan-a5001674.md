@@ -1,7 +1,7 @@
 ---
 title: "Congjun Yuan"
 description: "Congjun Yuan is a Mid-career Soil Carbon researcher at Guizhou Forestry Science Research Institute in CN. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.338564
+date: 2026-10-11T02:33:00.372670
 url: "/cdr-researcher-census/researchers/congjun-yuan-a5001674/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of Soil Microorganisms on Carbon Sequestration under Different Mixed Modification Models in Pinus massoniana L. Plantation** (2024)
-   4 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 2. **Effects of Soil Microorganisms on Carbon Sequestration under Different Mixed Modification Modes of &lt;em&gt;Pinus massoniana&lt;/em&gt;** (2024)
    3 citations · Soil Carbon

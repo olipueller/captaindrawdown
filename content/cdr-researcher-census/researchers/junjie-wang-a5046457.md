@@ -1,7 +1,7 @@
 ---
 title: "Junjie Wang"
 description: "Junjie Wang is a Mid-career Soil Carbon researcher at Jiangsu Normal University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.156334
+date: 2026-10-11T02:33:00.186118
 url: "/cdr-researcher-census/researchers/junjie-wang-a5046457/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Integrating fractional-order derivatives of soil and leaf hyperspectral reflectance for improved estimation of mangrove soil organic carbon** (2025)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 ## External Profiles
 

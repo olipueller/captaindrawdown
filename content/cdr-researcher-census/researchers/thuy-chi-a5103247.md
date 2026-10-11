@@ -1,7 +1,7 @@
 ---
 title: "Thuy Chi"
 description: "Thuy Chi is a Mid-career Soil Carbon researcher at Thai Nguyen University in VN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.321241
+date: 2026-10-11T02:33:00.353424
 url: "/cdr-researcher-census/researchers/thuy-chi-a5103247/"
 layout: "researcher"
 hiddenInHomeList: true

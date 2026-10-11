@@ -1,7 +1,7 @@
 ---
 title: "Min Zhang"
 description: "Min Zhang is a Senior Soil Carbon researcher at Fujian Polytechnic of Information Technology in CN. With 59 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.194126
+date: 2026-10-11T02:32:59.198124
 url: "/cdr-researcher-census/researchers/min-zhang-a5058540/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil microbial trait-based strategies drive the storage and stability of the soil carbon pool in Robinia pseudoacacia plantations** (2022)
-   38 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 2. **Nonlinear response of soil organic carbon sequestration to deadwood decomposition in a subtropical–temperate ecotonal forest** (2025)
    5 citations · Soil Carbon

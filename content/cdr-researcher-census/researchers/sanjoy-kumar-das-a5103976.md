@@ -1,7 +1,7 @@
 ---
 title: "Sanjoy Kumar Das"
 description: "Sanjoy Kumar Das is a Senior Soil Carbon researcher at Central Institute of Brackishwater Aquaculture in IN. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.659976
+date: 2026-10-11T02:32:59.678979
 url: "/cdr-researcher-census/researchers/sanjoy-kumar-das-a5103976/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Changes in soil microbial biomass and organic C pools improve the sustainability of perennial grass and legume system under organic nutrient management** (2023)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 2. **"Quantification of litter fall and estimation of nutrient release through in-situ decomposition of leaf litter from some important mangrove species for projected carbon sequestration of Indian Sundarbans"** (2022)
    2 citations · Soil Carbon

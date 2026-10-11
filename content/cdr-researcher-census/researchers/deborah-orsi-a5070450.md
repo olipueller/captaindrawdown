@@ -1,7 +1,7 @@
 ---
 title: "Deborah Orsi"
 description: "Deborah Orsi is a Mid-career General CDR researcher at Albert Einstein College of Medicine in US. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.004127
+date: 2026-10-11T02:33:00.034901
 url: "/cdr-researcher-census/researchers/deborah-orsi-a5070450/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jake Carrier"
 description: "Jake Carrier is a Mid-career DAC researcher at Florida International University in US. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.348343
+date: 2026-10-11T02:33:00.383431
 url: "/cdr-researcher-census/researchers/jake-carrier-a5074988/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Lignin-Based Platform as a Potential Low-Cost Sorbent for the Direct Air Capture of CO<sub>2</sub>** (2024)
-   17 citations · DAC
+   18 citations · DAC
 
 ## External Profiles
 

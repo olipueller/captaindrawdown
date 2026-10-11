@@ -1,7 +1,7 @@
 ---
 title: "Thiago Altair"
 description: "Thiago Altair is a Mid-career Ocean CDR researcher at College of the Atlantic in US. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.155254
+date: 2026-10-11T02:33:00.185005
 url: "/cdr-researcher-census/researchers/thiago-altair-a5086577/"
 layout: "researcher"
 hiddenInHomeList: true

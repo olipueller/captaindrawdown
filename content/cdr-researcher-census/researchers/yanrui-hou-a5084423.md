@@ -1,7 +1,7 @@
 ---
 title: "Yanrui Hou"
 description: "Yanrui Hou is a Mid-career Biochar researcher at Central South University in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.491090
+date: 2026-10-11T02:32:59.503243
 url: "/cdr-researcher-census/researchers/yanrui-hou-a5084423/"
 layout: "researcher"
 hiddenInHomeList: true

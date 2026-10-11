@@ -1,7 +1,7 @@
 ---
 title: "Hongxiang Zhao"
 description: "Hongxiang Zhao is a Senior Soil Carbon researcher at Jiaxing University in CN. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.573443
+date: 2026-10-11T02:32:59.589172
 url: "/cdr-researcher-census/researchers/hongxiang-zhao-a5049724/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Water-Saving and Yield-Increasing Strategies for Maize Under Drip Irrigation and Straw Mulching in Semi-Arid Regions** (2025)
-   3 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 2. **Tillage and Straw Returning Modulate Aggregate Stability, Root Metabolism, and Soil Biotic Interactions for Ecosystem Productivity** (2026)
    0 citations · Soil Carbon

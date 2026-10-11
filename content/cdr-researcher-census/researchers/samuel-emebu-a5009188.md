@@ -1,7 +1,7 @@
 ---
 title: "Samuel Emebu"
 description: "Samuel Emebu is a Mid-career BECCS researcher at Lappeenranta-Lahti University of Technology in FI. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.764706
+date: 2026-10-11T02:32:59.787819
 url: "/cdr-researcher-census/researchers/samuel-emebu-a5009188/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Renewable Energy Potential and CO2 Performance of Main Biomasses Used in Brazil** (2023)
-   25 citations · BECCS
+   28 citations · BECCS
 
 ## External Profiles
 

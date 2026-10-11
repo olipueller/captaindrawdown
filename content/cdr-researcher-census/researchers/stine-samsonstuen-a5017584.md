@@ -1,7 +1,7 @@
 ---
 title: "Stine Samsonstuen"
 description: "Stine Samsonstuen is a Mid-career Soil Carbon researcher at Norwegian Institute for Sustainability Research in NO. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.147996
+date: 2026-10-11T02:33:00.177507
 url: "/cdr-researcher-census/researchers/stine-samsonstuen-a5017584/"
 layout: "researcher"
 hiddenInHomeList: true

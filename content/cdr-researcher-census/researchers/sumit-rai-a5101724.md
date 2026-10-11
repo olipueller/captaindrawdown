@@ -1,7 +1,7 @@
 ---
 title: "Sumit Rai"
 description: "Sumit Rai is a Senior Soil Carbon researcher at G.B. Pant Institute of Himalayan Environment and Development in IN. With 62 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.477256
+date: 2026-10-11T02:32:59.488540
 url: "/cdr-researcher-census/researchers/sumit-rai-a5101724/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,24 +51,27 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial Responses to Carbon Sequestration Soil Amendment and Productivity** (2023)
-   8 citations · Biochar
+   9 citations · Biochar
 
 2. **Conservation Agriculture for Soil Health and Carbon Sequestration in the Indian Himalayan Region** (2023)
    5 citations · Soil Carbon
 
-3. **Sustainable Soil Management Practices in Modern Agriculture: A Systematic Review** (2026)
-   0 citations · Biochar
+3. **Advances in Understanding Soil Microbial Diversity and Its Role in Ecosystem Functioning: A Comprehensive Review** (2025)
+   1 citations
 
-4. **Atmospheric CO₂ Reduction, and Climate Warming Mitigation by Plantations of Shorea robusta, Pinus roxburghii, and Bambusa tulda, along with adjacent grassland ecosystems in the Indian Himalayan Region** (2026)
-   0 citations · General CDR
-
-5. **Atmospheric CO₂ Reduction, and Climate Warming Mitigation by Plantations of Shorea robusta, Pinus roxburghii, and Bambusa tulda, along with adjacent grassland ecosystems in the Indian Himalayan Region** (2026)
-   0 citations · Soil Carbon
-
-6. **Advances in Understanding Soil Microbial Diversity and Its Role in Ecosystem Functioning: A Comprehensive Review** (2025)
+4. **Arbuscular mycorrhizal fungi and soil microbiome interactions: implications for ecosystem functioning and climate resilience** (2026)
    0 citations
 
-7. **Soil Carbon Sequestration Strategies and Carbon Crediting for Mitigating Climate Change: A Review of Recent Developments** (2025)
+5. **Sustainable Soil Management Practices in Modern Agriculture: A Systematic Review** (2026)
+   0 citations · Biochar
+
+6. **Atmospheric CO₂ Reduction, and Climate Warming Mitigation by Plantations of Shorea robusta, Pinus roxburghii, and Bambusa tulda, along with adjacent grassland ecosystems in the Indian Himalayan Region** (2026)
+   0 citations · General CDR
+
+7. **Atmospheric CO₂ Reduction, and Climate Warming Mitigation by Plantations of Shorea robusta, Pinus roxburghii, and Bambusa tulda, along with adjacent grassland ecosystems in the Indian Himalayan Region** (2026)
+   0 citations · Soil Carbon
+
+8. **Soil Carbon Sequestration Strategies and Carbon Crediting for Mitigating Climate Change: A Review of Recent Developments** (2025)
    0 citations · General CDR
 
 ## External Profiles

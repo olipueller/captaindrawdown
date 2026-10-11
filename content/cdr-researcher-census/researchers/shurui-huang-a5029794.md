@@ -1,7 +1,7 @@
 ---
 title: "Shurui Huang"
 description: "Shurui Huang is a Senior Soil Carbon researcher at Huawei Technologies (China) in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.139709
+date: 2026-10-11T02:33:00.170107
 url: "/cdr-researcher-census/researchers/shurui-huang-a5029794/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Short-term warming supports mineral-associated carbon accrual in abandoned croplands** (2025)
-   48 citations · Soil Carbon
+   51 citations · Soil Carbon
 
 ## External Profiles
 

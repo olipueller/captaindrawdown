@@ -1,7 +1,7 @@
 ---
 title: "Florian Wichern"
 description: "Florian Wichern is a Senior Soil Carbon researcher at Hochschule Rhein Waal in DE. With 111 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.061721
+date: 2026-10-11T02:32:59.066174
 url: "/cdr-researcher-census/researchers/florian-wichern-a5087895/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Functions of elements in soil microorganisms** (2021)
-   161 citations
+   158 citations
 
 2. **Organic carbon loading of soils determines the fate of added fresh plant-derived organic matter** (2024)
    27 citations · Soil Carbon
 
 3. **Long-term differences in fertilisation type change the bacteria:archaea:fungi ratios and reveal a heterogeneous response of the soil microbial ionome in a Haplic Luvisol** (2022)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 4. **Disentangling the effects of mineral fertiliser N, P and K on microbial biomass, necromass and ionome in soil from the Askov long-term field experiment** (2024)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 5. **Transect sampling for soil organic carbon monitoring in temperate alley cropping systems - A review and standardized guideline** (2024)
-   12 citations · General CDR
+   13 citations · General CDR
 
 6. **Turnover of fungal glucosamine and bacterial muramic acid in comparison with soil organic carbon in two arable soils with distinct fungal communities** (2025)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 7. **Interplay between living or dead plant carbon input and soil organic matter – key drivers and agricultural management for soil carbon sequestration** (2023)
    8 citations · Soil Carbon

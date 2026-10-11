@@ -1,7 +1,7 @@
 ---
 title: "Stefan Bube"
 description: "Stefan Bube is a Mid-career General CDR researcher at Universität Hamburg in DE. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.715760
+date: 2026-10-11T02:32:59.736898
 url: "/cdr-researcher-census/researchers/stefan-bube-a5032168/"
 layout: "researcher"
 hiddenInHomeList: true

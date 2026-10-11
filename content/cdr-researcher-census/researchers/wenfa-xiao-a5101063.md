@@ -1,7 +1,7 @@
 ---
 title: "Wenfa Xiao"
 description: "Wenfa Xiao is a Senior Soil Carbon researcher at China Three Gorges University in CN. With 165 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.067899
+date: 2026-10-11T02:32:59.072460
 url: "/cdr-researcher-census/researchers/wenfa-xiao-a5101063/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 34 |
 | Citations | 3,715 |
 | Publications | 165 |
-| CDR Focus | 8.5% |
+| CDR Focus | 9.1% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    34 citations
 
 5. **Contrasting change patterns of lignin and microbial necromass carbon and the determinants in a chronosequence of subtropical Pinus massoniana plantations** (2024)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 6. **Soil microbial residue characteristics in Pinus massoniana lamb. Plantations** (2023)
    14 citations · Soil Carbon
@@ -68,11 +68,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 7. **The Carbon Neutral Potential of Forests in the Yangtze River Economic Belt of China** (2022)
    10 citations · General CDR
 
-8. **Phenological season-dependent temperature effects on soil respiration in a subtropical Pinus massoniana forest** (2022)
+8. **Smooth vetch covering alters soil aggregate microbial metabolic limitations in citrus orchards** (2024)
    9 citations · Soil Carbon
 
-9. **Smooth vetch covering alters soil aggregate microbial metabolic limitations in citrus orchards** (2024)
-   8 citations · Soil Carbon
+9. **Phenological season-dependent temperature effects on soil respiration in a subtropical Pinus massoniana forest** (2022)
+   9 citations · Soil Carbon
 
 10. **Nitrogen addition enhances nitrogen but not carbon mineralization in aggregate size fractions of soils in a Pinus massonia plantation** (2024)
    5 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Yaya Idrissou"
 description: "Yaya Idrissou is a Mid-career Soil Carbon researcher at Université de Parakou in BJ. With 33 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.098068
+date: 2026-10-11T02:33:00.128814
 url: "/cdr-researcher-census/researchers/yaya-idrissou-a5032028/"
 layout: "researcher"
 hiddenInHomeList: true

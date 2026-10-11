@@ -1,7 +1,7 @@
 ---
 title: "Marie Sünnemann"
 description: "Marie Sünnemann is a Mid-career Soil Carbon researcher. With 29 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.286476
+date: 2026-10-11T02:32:59.291219
 url: "/cdr-researcher-census/researchers/marie-sunnemann-a5077046/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,10 +46,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Tree diversity effects on litter decomposition are mediated by litterfall and microbial processes** (2023)
-   31 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 2. **Sustainable Land Use Enhances Soil Microbial Respiration Responses to Experimental Heat Stress** (2025)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 ## External Profiles
 

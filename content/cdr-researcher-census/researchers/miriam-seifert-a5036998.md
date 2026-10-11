@@ -1,7 +1,7 @@
 ---
 title: "Miriam Seifert"
 description: "Miriam Seifert is a Mid-career Ocean CDR researcher at Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung in DE. With 38 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.651784
+date: 2026-10-11T02:32:59.670725
 url: "/cdr-researcher-census/researchers/miriam-seifert-a5036998/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Interactions between ocean alkalinity enhancement and phytoplankton in an Earth system model** (2025)
-   4 citations · General CDR
+   6 citations · General CDR
 
 2. **Alkalinity enhancement in subduction regions and the global ocean: efficiency, earth system feedbacks, and scenario sensitivity** (2025)
-   3 citations · General CDR
+   5 citations · General CDR
 
 3. **Efficacy of individual and combined terrestrial and marine carbon dioxide removal** (2025)
    2 citations · BECCS
 
-4. **Prospects and Challenges of Investigating Ocean-Based Negative Emission Technologies: Insights from the OceanNETs Project** (2025)
+4. **New/refined parameterizations for modelling ocean alkalinization effects on biogeochemistry and plankton dynamics** (2024)
+   2 citations · Ocean CDR
+
+5. **Prospects and Challenges of Investigating Ocean-Based Negative Emission Technologies: Insights from the OceanNETs Project** (2025)
    1 citations · General CDR
 
-5. **Interactions between ocean alkalinity enhancement and phytoplankton in an Earth System Model** (2025)
+6. **Interactions between ocean alkalinity enhancement and phytoplankton in an Earth System Model** (2025)
    1 citations
-
-6. **New/refined parameterizations for modelling ocean alkalinization effects on biogeochemistry and plankton dynamics** (2024)
-   1 citations · Ocean CDR
 
 7. **New/refined parameterizations for modelling ocean alkalinization effects on biogeochemistry and plankton dynamics - Version 2.0.** (2025)
    0 citations · General CDR

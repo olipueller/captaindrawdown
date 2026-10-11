@@ -1,7 +1,7 @@
 ---
 title: "S. Möckel"
 description: "S. Möckel is a Mid-career Enhanced Weathering researcher at University of Iceland in IS. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.057753
+date: 2026-10-11T02:33:00.087721
 url: "/cdr-researcher-census/researchers/s-mockel-a5111990/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **The geochemical evolution of basalt Enhanced Rock Weathering systems quantified from a natural analogue** (2024)
-   17 citations · Enhanced Weathering
+   19 citations · Enhanced Weathering
 
 2. **Direct evidence of CO2 drawdown through enhanced weathering in soils** (2024)
    11 citations

@@ -1,7 +1,7 @@
 ---
 title: "Jinghan Zhang"
 description: "Jinghan Zhang is a Mid-career General CDR researcher at Shanghai University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.814670
+date: 2026-10-11T02:32:59.839342
 url: "/cdr-researcher-census/researchers/jinghan-zhang-a5048286/"
 layout: "researcher"
 hiddenInHomeList: true

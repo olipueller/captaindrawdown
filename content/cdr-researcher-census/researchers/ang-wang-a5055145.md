@@ -1,7 +1,7 @@
 ---
 title: "Ang Wang"
 description: "Ang Wang is a Senior Enhanced Weathering researcher at Shanghai Jiao Tong University in CN. With 151 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.127351
+date: 2026-10-11T02:32:59.132000
 url: "/cdr-researcher-census/researchers/ang-wang-a5055145/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 25 |
 | Citations | 2,001 |
 | Publications | 151 |
-| CDR Focus | 5.3% |
+| CDR Focus | 6.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,16 +54,16 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    36 citations
 
 2. **Wollastonite powder application increases rice yield and CO2 sequestration in a paddy field in Northeast China** (2024)
-   14 citations · Enhanced Weathering
+   15 citations · Enhanced Weathering
 
 3. **CO2 removal with enhanced wollastonite weathering in acidic and calcareous soils** (2024)
    9 citations · Enhanced Weathering
 
 4. **Similar mineral-associated organic carbon formation but distinct efficiencies by powdered wollastonite addition between two soils** (2025)
-   5 citations · Enhanced Weathering
+   7 citations · Enhanced Weathering
 
 5. **Carbon sequestration induced by enhanced silicate rock weathering in a temperate larch plantation in Northeastern China** (2025)
-   3 citations · Enhanced Weathering
+   4 citations · Enhanced Weathering
 
 6. **Wollastonite improves soybean yield without toxic trace elements enrichment** (2025)
    2 citations · Enhanced Weathering

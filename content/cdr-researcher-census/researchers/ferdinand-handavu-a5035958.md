@@ -1,7 +1,7 @@
 ---
 title: "Ferdinand Handavu"
 description: "Ferdinand Handavu is a Mid-career General CDR researcher at Zambia Forestry College in ZM. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.832459
+date: 2026-10-11T02:32:59.858732
 url: "/cdr-researcher-census/researchers/ferdinand-handavu-a5035958/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    4 citations · General CDR
 
 2. **A review of carbon dynamics and REDD+ projects in the Miombo Ecoregion: opportunities and challenges** (2026)
-   1 citations · General CDR
+   2 citations · General CDR
 
 ## External Profiles
 

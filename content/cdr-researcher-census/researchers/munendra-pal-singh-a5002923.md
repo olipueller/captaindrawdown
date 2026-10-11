@@ -1,7 +1,7 @@
 ---
 title: "Munendra Pal Singh"
 description: "Munendra Pal Singh is a Mid-career General CDR researcher at Nanjing Tech University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.994961
+date: 2026-10-11T02:33:00.025826
 url: "/cdr-researcher-census/researchers/munendra-pal-singh-a5002923/"
 layout: "researcher"
 hiddenInHomeList: true

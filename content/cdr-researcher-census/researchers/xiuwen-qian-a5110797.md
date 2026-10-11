@@ -1,7 +1,7 @@
 ---
 title: "Xiuwen Qian"
 description: "Xiuwen Qian is a Mid-career Biochar researcher at Southeast University in CN. With 44 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.418926
+date: 2026-10-11T02:32:59.428909
 url: "/cdr-researcher-census/researchers/xiuwen-qian-a5110797/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,12 +48,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Evaluation of carbon and phosphorus metabolism in biochar-pyrite amended constructed wetland towards low C/N ratio wastewater: Performance, ecological stability and mechanisms revelation** (2026)
-   5 citations · Biochar
+   6 citations · Biochar
 
-2. **Reinforced biofilm-mediated electron transfer and perfluorooctanoic acid removal: Neglected macrophyte roles in iron-biochar-based constructed wetlands** (2026)
+2. **Plant-driven microbiome reorganization sustains multifunctionality of iron-biochar constructed wetlands under chronic PFOA exposure** (2026)
    0 citations · Biochar
 
-3. **Iron/sulfur cycling in pyrite-biochar constructed wetlands enhances PFOA removal, nutrient metabolism and greenhouse gas mitigation** (2026)
+3. **Reinforced biofilm-mediated electron transfer and perfluorooctanoic acid removal: Neglected macrophyte roles in iron-biochar-based constructed wetlands** (2026)
+   0 citations · Biochar
+
+4. **Iron/sulfur cycling in pyrite-biochar constructed wetlands enhances PFOA removal, nutrient metabolism and greenhouse gas mitigation** (2026)
    0 citations · Biochar
 
 ## External Profiles

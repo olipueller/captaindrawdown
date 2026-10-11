@@ -1,7 +1,7 @@
 ---
 title: "Yutong Zong"
 description: "Yutong Zong is a Senior Soil Carbon researcher at Qingdao Agricultural University in CN. With 33 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.166642
+date: 2026-10-11T02:32:59.170722
 url: "/cdr-researcher-census/researchers/yutong-zong-a5101414/"
 layout: "researcher"
 hiddenInHomeList: true

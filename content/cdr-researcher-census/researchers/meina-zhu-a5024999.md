@@ -1,7 +1,7 @@
 ---
 title: "Meina Zhu"
 description: "Meina Zhu is a Senior Soil Carbon researcher at Wayne State College in US. With 104 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.110253
+date: 2026-10-11T02:32:59.114867
 url: "/cdr-researcher-census/researchers/meina-zhu-a5024999/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,17 +50,17 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Northeastern China shelterbelt-farmland glomalin differences depend on geo-climates, soil depth, and microbial interaction: Carbon sequestration, nutrient retention and implication** (2023)
+1. **Tree diversity and arbuscular mycorrhizal trees increase soil carbon sequestration and stability in 1-m soils as regulated by microbial CAZymes-coworking in high-latitude Northern Hemisphere forests** (2023)
    17 citations · Soil Carbon
 
-2. **Tree diversity and arbuscular mycorrhizal trees increase soil carbon sequestration and stability in 1-m soils as regulated by microbial CAZymes-coworking in high-latitude Northern Hemisphere forests** (2023)
-   16 citations · Soil Carbon
+2. **Northeastern China shelterbelt-farmland glomalin differences depend on geo-climates, soil depth, and microbial interaction: Carbon sequestration, nutrient retention and implication** (2023)
+   17 citations · Soil Carbon
 
 3. **Tree growth and density enhanced, while diversity and spatial clustering reduced soil mycorrhizal C and N sequestration: Strong interaction with soil properties in northeastern China** (2023)
    12 citations · Soil Carbon
 
 4. **Farmland Afforestation by Poplar Shelterbelts Increased Soil Inorganic Carbon but Showed Ambiguous Effects on Soil Organic Carbon as Revealed by Carbon Isotopic Composition: Inter-Fraction and Inter-Site Differences in Northern China** (2025)
-   5 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 5. **Arbuscular mycorrhizal dominated forests facilitate organic carbon stabilization in soil aggregates** (2026)
    3 citations · Soil Carbon

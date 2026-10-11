@@ -1,7 +1,7 @@
 ---
 title: "Pinshang Xu"
 description: "Pinshang Xu is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 25 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.262966
+date: 2026-10-11T02:32:59.267024
 url: "/cdr-researcher-census/researchers/pinshang-xu-a5013481/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    20 citations · Biochar
 
 2. **The effect of straw management on energy use efficiency, food security, and environmental costs** (2025)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 ## External Profiles
 

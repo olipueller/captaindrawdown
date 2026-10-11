@@ -1,7 +1,7 @@
 ---
 title: "Mengwen Pang"
 description: "Mengwen Pang is a Mid-career Ocean CDR researcher in HK. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.276270
+date: 2026-10-11T02:33:00.306195
 url: "/cdr-researcher-census/researchers/mengwen-pang-a5058274/"
 layout: "researcher"
 hiddenInHomeList: true

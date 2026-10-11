@@ -1,7 +1,7 @@
 ---
 title: "Viera Špalková"
 description: "Viera Špalková is a Mid-career Biochar researcher at Slovak University of Technology in Bratislava in SK. With 17 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.373106
+date: 2026-10-11T02:32:59.380464
 url: "/cdr-researcher-census/researchers/viera-spalkova-a5091051/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar – An efficient sorption material for the removal of pharmaceutically active compounds, DNA and RNA fragments from wastewater** (2021)
-   42 citations · Biochar
+   43 citations · Biochar
 
 ## External Profiles
 

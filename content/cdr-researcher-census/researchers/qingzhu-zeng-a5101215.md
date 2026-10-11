@@ -1,7 +1,7 @@
 ---
 title: "Qingzhu Zeng"
 description: "Qingzhu Zeng is a Mid-career Biochar researcher at Shaanxi University of Science and Technology in CN. With 28 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.342742
+date: 2026-10-11T02:32:59.348761
 url: "/cdr-researcher-census/researchers/qingzhu-zeng-a5101215/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kelpie Wilson"
 description: "Kelpie Wilson is a Mid-career Biochar researcher at Biosearch Technologies (United States) in US. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.808911
+date: 2026-10-11T02:32:59.833750
 url: "/cdr-researcher-census/researchers/kelpie-wilson-a5079696/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    5 citations · Biochar
 
 2. **A Carbon Conservation Corps to Restore Forests with Biochar Using Flame Cap Kilns** (2021)
-   4 citations · Biochar
+   3 citations · Biochar
 
 ## External Profiles
 

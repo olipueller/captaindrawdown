@@ -1,7 +1,7 @@
 ---
 title: "Xiaozhen Wang"
 description: "Xiaozhen Wang is a Senior Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.481755
+date: 2026-10-11T02:32:59.493159
 url: "/cdr-researcher-census/researchers/xiaozhen-wang-a5100659/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Driving factors of ecosystem services and their spatiotemporal change assessment based on land use types in the Loess Plateau** (2022)
-   232 citations · General CDR
+   235 citations · General CDR
 
 2. **Forestation delivers significantly more effective results in soil C and N sequestrations than natural succession on badly degraded areas: Evidence from the Central Loess Plateau case** (2021)
    74 citations · Soil Carbon
@@ -60,10 +60,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    44 citations · Soil Carbon
 
 4. **SOC erosion reduction of the “Grain for green” program on the Loess Plateau, China** (2025)
-   8 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 5. **Theoretical and Actual Carbon Sequestration Potential in China's Terrestrial Ecosystems** (2026)
-   4 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 6. **Deep soil carbon reshapes the assessment of restoration-driven carbon sequestration on the Loess Plateau** (2026)
    0 citations · Soil Carbon

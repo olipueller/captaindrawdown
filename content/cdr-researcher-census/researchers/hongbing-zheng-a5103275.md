@@ -1,7 +1,7 @@
 ---
 title: "Hongbing Zheng"
 description: "Hongbing Zheng is a Senior Soil Carbon researcher at East China University of Science and Technology in CN. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.501187
+date: 2026-10-11T02:32:59.513692
 url: "/cdr-researcher-census/researchers/hongbing-zheng-a5103275/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    16 citations · Soil Carbon
 
 2. **Sustainable Soil Management in Alkaline Soils: The Role of Biochar and Organic Nitrogen in Enhancing Soil Fertility** (2024)
-   4 citations
+   9 citations
 
 3. **Sustainable Soil Management in Alkaline Soils: The Role of Biochar and Organic Nitrogen in Enhancing Soil Fertility** (2024)
    4 citations · Biochar

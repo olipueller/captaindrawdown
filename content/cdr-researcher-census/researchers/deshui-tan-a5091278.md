@@ -1,7 +1,7 @@
 ---
 title: "Deshui Tan"
 description: "Deshui Tan is a Senior Soil Carbon researcher at Shandong Academy of Agricultural Sciences in CN. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.311513
+date: 2026-10-11T02:32:59.316887
 url: "/cdr-researcher-census/researchers/deshui-tan-a5091278/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Double gains: Boosting crop productivity and reducing carbon footprints through maize-legume intercropping in the Yellow River Delta, China** (2023)
-   6 citations · Soil Carbon
+1. **Enhancing soil organic carbon fixation with modified bentonite composites** (2025)
+   7 citations · Soil Carbon
 
-2. **Enhancing soil organic carbon fixation with modified bentonite composites** (2025)
-   4 citations · Soil Carbon
+2. **Double gains: Boosting crop productivity and reducing carbon footprints through maize-legume intercropping in the Yellow River Delta, China** (2023)
+   6 citations · Soil Carbon
 
 ## External Profiles
 

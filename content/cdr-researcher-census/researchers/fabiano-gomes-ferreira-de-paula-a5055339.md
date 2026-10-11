@@ -1,7 +1,7 @@
 ---
 title: "Fabiano Gomes Ferreira de Paula"
 description: "Fabiano Gomes Ferreira de Paula is a Mid-career Biochar researcher. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.704577
+date: 2026-10-11T02:32:59.724937
 url: "/cdr-researcher-census/researchers/fabiano-gomes-ferreira-de-paula-a5055339/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Low temperature sulfonated biochar from Macauba’s endocarp for lead adsorption from wastewater** (2023)
-   14 citations · Biochar
+   15 citations · Biochar
 
 ## External Profiles
 

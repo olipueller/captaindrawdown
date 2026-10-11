@@ -1,7 +1,7 @@
 ---
 title: "Sanna Kanerva"
 description: "Sanna Kanerva is a Senior Soil Carbon researcher at University of Helsinki in FI. With 55 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.261654
+date: 2026-10-11T02:32:59.265679
 url: "/cdr-researcher-census/researchers/sanna-kanerva-a5087092/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Contribution of water erosion to organic carbon and total nitrogen loads in agricultural discharge from boreal mineral soils** (2023)
-   13 citations · Soil Carbon
+   12 citations · Soil Carbon
 
-2. **Stocks and stoichiometry of carbon, nitrogen, and phosphorus in agricultural mineral soil profiles with views on the carbon sequestration** (2026)
+2. **Effects of biochar, ligneous soil amendments, and a microbial stimulant on soil biological activity, and carbon content and stability after two-years of their application in a boreal cropland** (2025)
+   2 citations · Biochar
+
+3. **Stocks and stoichiometry of carbon, nitrogen, and phosphorus in agricultural mineral soil profiles with views on the carbon sequestration** (2026)
    1 citations · Soil Carbon
-
-3. **Effects of biochar, ligneous soil amendments, and a microbial stimulant on soil biological activity, and carbon content and stability after two-years of their application in a boreal cropland** (2025)
-   1 citations · Biochar
 
 4. **Can seasonal waterlogging alter carbon stability in boreal mineral soils?** (2025)
    0 citations · Soil Carbon

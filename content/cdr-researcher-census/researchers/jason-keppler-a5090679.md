@@ -1,7 +1,7 @@
 ---
 title: "Jason Keppler"
 description: "Jason Keppler is a Senior Soil Carbon researcher at Maryland Department of Natural Resources in US. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.542207
+date: 2026-10-11T02:32:59.557124
 url: "/cdr-researcher-census/researchers/jason-keppler-a5090679/"
 layout: "researcher"
 hiddenInHomeList: true

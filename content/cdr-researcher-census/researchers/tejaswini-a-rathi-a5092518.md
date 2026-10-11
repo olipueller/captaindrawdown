@@ -1,7 +1,7 @@
 ---
 title: "Tejaswini A. Rathi"
 description: "Tejaswini A. Rathi is a Mid-career Biochar researcher at Rashtrasant Tukadoji Maharaj Nagpur University in IN. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.092477
+date: 2026-10-11T02:33:00.123110
 url: "/cdr-researcher-census/researchers/tejaswini-a-rathi-a5092518/"
 layout: "researcher"
 hiddenInHomeList: true

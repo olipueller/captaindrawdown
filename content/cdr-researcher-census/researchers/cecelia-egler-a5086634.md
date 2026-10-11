@@ -1,7 +1,7 @@
 ---
 title: "Cecelia Egler"
 description: "Cecelia Egler is an Early-career Soil Carbon researcher at University of Vermont in US. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.345999
+date: 2026-10-11T02:33:00.381197
 url: "/cdr-researcher-census/researchers/cecelia-egler-a5086634/"
 layout: "researcher"
 hiddenInHomeList: true

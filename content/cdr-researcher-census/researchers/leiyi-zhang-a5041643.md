@@ -1,7 +1,7 @@
 ---
 title: "Leiyi Zhang"
 description: "Leiyi Zhang is a Senior Soil Carbon researcher at Jiangsu University in CN. With 60 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.180427
+date: 2026-10-11T02:32:59.184436
 url: "/cdr-researcher-census/researchers/leiyi-zhang-a5041643/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Factors shaping soil organic carbon stocks in grass covered orchards across China: A meta-analysis** (2021)
-   80 citations · Soil Carbon
+   82 citations · Soil Carbon
 
 2. **Mixed plantations enhance more soil organic carbon stocks than monocultures across China: Implication for optimizing afforestation/reforestation strategies** (2022)
-   71 citations · Soil Carbon
+   73 citations · Soil Carbon
 
 3. **Profile and nano-scale distribution of soil organic carbon for upland and paddy soils from an alluvial plain in South China** (2023)
    6 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "James Price"
 description: "James Price is a Senior General CDR researcher at University College London in GB. With 72 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.091356
+date: 2026-10-11T02:32:59.095935
 url: "/cdr-researcher-census/researchers/james-price-a5021739/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Energy demand reduction options for meeting national zero-emission targets in the United Kingdom** (2022)
-   190 citations · General CDR
+   191 citations · General CDR
 
 2. **Narrative-driven alternative roads to achieve mid-century CO2 net neutrality in Europe** (2021)
-   93 citations · General CDR
+   89 citations · General CDR
 
 3. **The role of new nuclear power in the UK's net-zero emissions energy system** (2022)
-   72 citations · General CDR
+   71 citations · General CDR
 
 4. **Energy demand reduction options for meeting national zero emission targets** (2022)
    2 citations · General CDR

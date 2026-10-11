@@ -1,7 +1,7 @@
 ---
 title: "Hao Tang"
 description: "Hao Tang is a Mid-career Soil Carbon researcher at Ministry of Natural Resources in CN. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.010174
+date: 2026-10-11T02:33:00.041368
 url: "/cdr-researcher-census/researchers/hao-tang-a5085872/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Restoration from grazing on the Tibetan plateau: Pathway-specific soil MAOC sequestration in meadow and peat wetlands** (2024)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 2. **Alpine wetland litter decomposition under wet and dry conditions: A comparative study of native vs. standardized litter** (2024)
-   7 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 3. **Soil Conservation Measures Enhanced Soil Organic Carbon Storage Across China** (2025)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 4. **Arbuscular mycorrhizal fungi-mediated formation of different carbon fractions in various wetland types enhances carbon sequestration post-restoration on the Tibetan Plateau** (2025)
    3 citations · Soil Carbon

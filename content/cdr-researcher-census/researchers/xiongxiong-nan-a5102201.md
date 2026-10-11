@@ -1,7 +1,7 @@
 ---
 title: "Xiongxiong Nan"
 description: "Xiongxiong Nan is a Senior Soil Carbon researcher at Ningxia University in CN. With 37 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.978091
+date: 2026-10-11T02:33:00.009663
 url: "/cdr-researcher-census/researchers/xiongxiong-nan-a5102201/"
 layout: "researcher"
 hiddenInHomeList: true

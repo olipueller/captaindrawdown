@@ -1,7 +1,7 @@
 ---
 title: "R.B. Burnett"
 description: "R.B. Burnett is a Senior Biochar researcher at Rainbow Medical (Israel) in IL. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.150683
+date: 2026-10-11T02:33:00.180520
 url: "/cdr-researcher-census/researchers/rb-burnett-a5112555/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Combination of Biochar‐Based Fertilisers and Reactive Barriers Improved Soil Carbon Storage, Soil Moisture Retention, and Crop Yield in Short Term** (2025)
-   14 citations · Biochar
+   13 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Michael S. Shafer"
 description: "Michael S. Shafer is a Senior Biochar researcher at Heart Foundation in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.598784
+date: 2026-10-11T02:32:59.615691
 url: "/cdr-researcher-census/researchers/michael-s-shafer-a5101963/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 6 |
 | Citations | 378 |
 | Publications | 16 |
-| CDR Focus | 31.2% |
+| CDR Focus | 37.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -56,13 +56,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 2. **Can an NGO Create Value and Achieve Economic Sustainability at the Same Time? Verifying Smallholder Carbon Sequestration Using Low-Tech Biochar** (2022)
    1 citations · Biochar
 
-3. **The Challenge and Opportunity for the Reduction of Atmospheric Carbon: MRV for Artisanal (or Distributed) Biochar** (2025)
+3. **What's causing the biochar adoption gap? Practitioner reflections on perceived barriers and opportunities among smallholder farmers in Southeast Asia** (2026)
    0 citations · Biochar
 
-4. **Biochar: Not Just Carbon Removal but a Path to Global Resilience** (2025)
+4. **The Challenge and Opportunity for the Reduction of Atmospheric Carbon: MRV for Artisanal (or Distributed) Biochar** (2025)
    0 citations · Biochar
 
-5. **Why not Artisanal Biochar? A Biochar Life, PBC Case Study** (2024)
+5. **Biochar: Not Just Carbon Removal but a Path to Global Resilience** (2025)
+   0 citations · Biochar
+
+6. **Why not Artisanal Biochar? A Biochar Life, PBC Case Study** (2024)
    0 citations · Biochar
 
 ## External Profiles

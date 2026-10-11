@@ -1,7 +1,7 @@
 ---
 title: "Taiji Kou"
 description: "Taiji Kou is a Senior Soil Carbon researcher at Henan University of Science and Technology in CN. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.499190
+date: 2026-10-11T02:32:59.511560
 url: "/cdr-researcher-census/researchers/taiji-kou-a5024127/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Grassland degradation-induced soil organic carbon loss associated with micro-food web simplification** (2024)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 2. **Mung Bean Is Better Than Soybean in the Legume–Wheat Rotation System for Soil Carbon and Nitrogen Sequestration in Calcareous Soils of a Semiarid Region** (2023)
    5 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Yudie Liu"
 description: "Yudie Liu is a Mid-career Biochar researcher at Center for Agricultural Resources Research in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.183718
+date: 2026-10-11T02:33:00.213498
 url: "/cdr-researcher-census/researchers/yudie-liu-a5059361/"
 layout: "researcher"
 hiddenInHomeList: true

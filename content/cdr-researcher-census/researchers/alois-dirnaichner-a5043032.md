@@ -1,7 +1,7 @@
 ---
 title: "Alois Dirnaichner"
 description: "Alois Dirnaichner is a Mid-career General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 42 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.077211
+date: 2026-10-11T02:32:59.081942
 url: "/cdr-researcher-census/researchers/alois-dirnaichner-a5043032/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    571 citations · General CDR
 
 2. **PRospective EnvironMental Impact asSEment (premise): A streamlined approach to producing databases for prospective life cycle assessment using integrated assessment models** (2022)
-   553 citations · DAC
+   559 citations · DAC
 
 3. **How to make climate-neutral aviation fly** (2023)
-   133 citations
+   134 citations
 
 4. **Multiple pathways towards sustainable development goals and climate targets** (2024)
-   38 citations · General CDR
+   40 citations · General CDR
 
 5. **PRospective EnvironMental Impact asSEment (premise): astreamlined approach to producing databases for prospective Life Cycle Assessment using Integrated Assessment Models** (2022)
    37 citations · DAC

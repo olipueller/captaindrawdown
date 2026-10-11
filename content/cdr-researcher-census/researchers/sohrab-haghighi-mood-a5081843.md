@@ -1,7 +1,7 @@
 ---
 title: "Sohrab Haghighi Mood"
 description: "Sohrab Haghighi Mood is a Mid-career Biochar researcher at Washington State University in US. With 29 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.118097
+date: 2026-10-11T02:32:59.122746
 url: "/cdr-researcher-census/researchers/sohrab-haghighi-mood-a5081843/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Perspectives of Engineered Biochar for Environmental Applications: A Review** (2022)
-   101 citations · Biochar
+   104 citations · Biochar
 
 2. **Novel Amorphous Carbons for the Adsorption of Phosphate: Part I. Elucidation of Chemical Structure of N-Metal-Doped Chars** (2022)
-   12 citations · Biochar
+   13 citations · Biochar
 
 ## External Profiles
 

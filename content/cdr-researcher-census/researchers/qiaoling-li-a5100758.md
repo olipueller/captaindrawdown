@@ -1,7 +1,7 @@
 ---
 title: "Qiaoling Li"
 description: "Qiaoling Li is a Senior Soil Carbon researcher at National Agricultural Research Institute in PG. With 55 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.436932
+date: 2026-10-11T02:32:59.447187
 url: "/cdr-researcher-census/researchers/qiaoling-li-a5100758/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Determining changes in microbial nutrient limitations in bamboo soils under different management practices via enzyme stoichiometry** (2023)
-   26 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 2. **Changes in Soil Organic Carbon Fractions and Fungal Communities, Subsequent to Different Management Practices in Moso Bamboo Plantations** (2022)
-   25 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 3. **Forest management alters soil microbial necromass and its contribution to soil organic carbon in Moso bamboo plantations in subtropical China** (2024)
    13 citations · Soil Carbon

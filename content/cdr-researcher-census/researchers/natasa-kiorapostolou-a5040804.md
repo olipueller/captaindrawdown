@@ -1,7 +1,7 @@
 ---
 title: "Natasa Kiorapostolou"
 description: "Natasa Kiorapostolou is a Mid-career Soil Carbon researcher at Forest Research Institute in BG. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.428109
+date: 2026-10-11T02:32:59.438233
 url: "/cdr-researcher-census/researchers/natasa-kiorapostolou-a5040804/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shaofeng Qin"
 description: "Shaofeng Qin is a Mid-career Biochar researcher at Shenzhen University in CN. With 29 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.484991
+date: 2026-10-11T02:32:59.496534
 url: "/cdr-researcher-census/researchers/shaofeng-qin-a5046851/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,10 +50,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Top CDR Publications
 
-1. **Effect of biochar-enabled internal CO<sub>2</sub> curing on CO<sub>2</sub> sequestration and mechanical properties of magnesia cement-based lightweight concrete** (2026)
-   0 citations · Biochar
+1. **Effect of Biochar-Enabled Internal Co2 Curing on Co2 Sequestration and Mechanical Properties of Magnesia Cement-Based Lightweight Concrete** (2025)
+   2 citations · Biochar
 
-2. **Effect of Biochar-Enabled Internal Co2 Curing on Co2 Sequestration and Mechanical Properties of Magnesia Cement-Based Lightweight Concrete** (2025)
+2. **Effect of biochar-enabled internal CO<sub>2</sub> curing on CO<sub>2</sub> sequestration and mechanical properties of magnesia cement-based lightweight concrete** (2026)
    0 citations · Biochar
 
 ## External Profiles

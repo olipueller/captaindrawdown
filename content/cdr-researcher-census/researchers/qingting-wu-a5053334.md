@@ -1,7 +1,7 @@
 ---
 title: "Qingting Wu"
 description: "Qingting Wu is a Mid-career Enhanced Weathering researcher at Guangzhou Medical University in CN. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.117944
+date: 2026-10-11T02:33:00.148801
 url: "/cdr-researcher-census/researchers/qingting-wu-a5053334/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    6 citations
 
 2. **Changes in continental weathering across the Permian-Triassic transition: A global review** (2025)
-   4 citations · Enhanced Weathering
+   5 citations · Enhanced Weathering
 
 3. **Modeling the impact of explosive volcanism on biogeochemical cycling at the peak of the Late Paleozoic icehouse** (2025)
    3 citations

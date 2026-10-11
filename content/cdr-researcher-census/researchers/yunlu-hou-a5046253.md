@@ -1,7 +1,7 @@
 ---
 title: "Yunlu Hou"
 description: "Yunlu Hou is a Mid-career Biochar researcher at Institute of Rock and Soil Mechanics in CN. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.694194
+date: 2026-10-11T02:32:59.714775
 url: "/cdr-researcher-census/researchers/yunlu-hou-a5046253/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **In-situ mineral carbonation of ultramafic tailings for carbon dioxide removal: A critical review** (2025)
-   8 citations · Enhanced Weathering
+   9 citations · Enhanced Weathering
 
 2. **Experimental investigation of marine soil stabilization with recycled aggregates and MgO: implications for CO<sub>2</sub> sequestration** (2025)
    8 citations · General CDR

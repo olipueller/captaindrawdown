@@ -1,7 +1,7 @@
 ---
 title: "Sabine Egerer"
 description: "Sabine Egerer is a Mid-career General CDR researcher at Ludwig-Maximilians-Universität München in DE. With 35 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.465639
+date: 2026-10-11T02:32:59.476925
 url: "/cdr-researcher-census/researchers/sabine-egerer-a5010898/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Top CDR Publications
 
-1. **Forestation in CMIP6: wide model spread in tree cover and land carbon uptake** (2025)
-   5 citations · General CDR
+1. **How to measure the efficiency of bioenergy crops compared to forestation** (2024)
+   6 citations · BECCS
 
-2. **How to measure the efficiency of bioenergy crops compared to forestation** (2024)
-   5 citations · BECCS
+2. **Forestation in CMIP6: wide model spread in tree cover and land carbon uptake** (2025)
+   5 citations · General CDR
 
 3. **Reply on RC1** (2024)
    0 citations · BECCS

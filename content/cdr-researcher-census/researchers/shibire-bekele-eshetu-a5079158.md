@@ -1,7 +1,7 @@
 ---
 title: "Shibire Bekele Eshetu"
 description: "Shibire Bekele Eshetu is a Mid-career General CDR researcher at International Development Research Centre in CA. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.289722
+date: 2026-10-11T02:33:00.319815
 url: "/cdr-researcher-census/researchers/shibire-bekele-eshetu-a5079158/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Youwei Zhi"
 description: "Youwei Zhi is a Mid-career Biochar researcher at China XD Group (China) in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.611786
+date: 2026-10-11T02:32:59.629120
 url: "/cdr-researcher-census/researchers/youwei-zhi-a5076773/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Dianne Keller"
 description: "Dianne Keller is a Senior Enhanced Weathering researcher at Colgate University in US. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.038205
+date: 2026-10-11T02:33:00.068887
 url: "/cdr-researcher-census/researchers/dianne-keller-a5088548/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Udayan Singh"
 description: "Udayan Singh is a Senior General CDR researcher at Argonne National Laboratory in US. With 61 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.287981
+date: 2026-10-11T02:32:59.292160
 url: "/cdr-researcher-census/researchers/udayan-singh-a5009334/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,20 +50,20 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Top CDR Publications
 
-1. **Implications of CO<sub>2</sub> Sourcing on the Life-Cycle Greenhouse Gas Emissions and Costs of Algae Biofuels** (2023)
-   30 citations · BECCS
+1. **Capture or curtail: The potential and performance of direct air capture powered through excess renewable electricity** (2022)
+   30 citations · DAC
 
-2. **Capture or curtail: The potential and performance of direct air capture powered through excess renewable electricity** (2022)
-   29 citations · DAC
+2. **Implications of CO<sub>2</sub> Sourcing on the Life-Cycle Greenhouse Gas Emissions and Costs of Algae Biofuels** (2023)
+   29 citations · BECCS
 
 3. **The Role of Biofuels and Biomass Feedstocks for Decarbonizing the U.S. Economy by 2050 - (DECARB) Decarbonizing Energy Through Collaborative Analysis of Routes and Benefits** (2024)
-   5 citations · BECCS
+   6 citations · BECCS
 
 4. **Putting the genie back in the bottle: Decarbonizing petroleum with direct air capture and enhanced oil recovery** (2024)
-   4 citations · DAC
+   5 citations · DAC
 
 5. **What Is the Best Use of Biomass? A Harmonized <scp>LCA</scp> ‐ <scp>TEA</scp> Framework Quantifying Economic and Environmental Metrics for Bioenergy Pathways** (2026)
-   2 citations
+   4 citations
 
 6. **A Novel Framework to Evaluate the Costs and Potential of Bioenergy in Decarbonization of the U.S. Economy** (2024)
    0 citations · BECCS

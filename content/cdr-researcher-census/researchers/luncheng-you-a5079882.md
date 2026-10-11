@@ -1,7 +1,7 @@
 ---
 title: "Luncheng You"
 description: "Luncheng You is a Mid-career Soil Carbon researcher at Shandong Agricultural University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.447183
+date: 2026-10-11T02:32:59.457848
 url: "/cdr-researcher-census/researchers/luncheng-you-a5079882/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **11 years of controlled-release potassium fertilization reshaped maize ecosystems and drove sustainable soil quality: insights from physical-chemical-biological interactions** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

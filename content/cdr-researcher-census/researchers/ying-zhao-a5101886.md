@@ -1,7 +1,7 @@
 ---
 title: "Ying Zhao"
 description: "Ying Zhao is a Mid-career Biochar researcher at Dalian Institute of Chemical Physics in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.992603
+date: 2026-10-11T02:33:00.023153
 url: "/cdr-researcher-census/researchers/ying-zhao-a5101886/"
 layout: "researcher"
 hiddenInHomeList: true

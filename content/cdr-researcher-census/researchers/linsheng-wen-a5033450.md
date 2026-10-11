@@ -1,7 +1,7 @@
 ---
 title: "Linsheng Wen"
 description: "Linsheng Wen is a Mid-career General CDR researcher at Fujian Normal University in CN. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.585371
+date: 2026-10-11T02:32:59.601963
 url: "/cdr-researcher-census/researchers/linsheng-wen-a5033450/"
 layout: "researcher"
 hiddenInHomeList: true

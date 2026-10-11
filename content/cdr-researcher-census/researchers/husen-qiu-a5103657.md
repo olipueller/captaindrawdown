@@ -1,7 +1,7 @@
 ---
 title: "Husen Qiu"
 description: "Husen Qiu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 43 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.382740
+date: 2026-10-11T02:32:59.390462
 url: "/cdr-researcher-census/researchers/husen-qiu-a5103657/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effect of biochar application rate on changes in soil labile organic carbon fractions and the association between bacterial community assembly and carbon metabolism with time** (2022)
-   75 citations · Biochar
+   77 citations · Biochar
 
 2. **Effect of Biochar on Labile Organic Carbon Fractions and Soil Carbon Pool Management Index** (2023)
    26 citations · Biochar

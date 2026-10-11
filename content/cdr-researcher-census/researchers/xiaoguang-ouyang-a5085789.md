@@ -1,7 +1,7 @@
 ---
 title: "Xiaoguang Ouyang"
 description: "Xiaoguang Ouyang is a Senior Soil Carbon researcher at Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou) in CN. With 61 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.117482
+date: 2026-10-11T02:32:59.122126
 url: "/cdr-researcher-census/researchers/xiaoguang-ouyang-a5085789/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Patterns and drivers of soil organic carbon fractions and persistence in coastal wetlands of China** (2025)
-   22 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 2. **Mineral Association and Microbial Processing Jointly Prolong Carbon Turnover in Coastal Wetlands** (2026)
-   15 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 3. **Exploring soil carbon drivers across natural mangroves, restored mangroves, and tidal flats: Implications for subtropical coastal carbon management** (2025)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 4. **Differential carbon stocks and burial rates in natural versus planted mangrove forests under varied hydrogeomorphic conditions** (2025)
-   7 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 5. **Introduction** (2022)
    1 citations · General CDR
+
+6. **Urbanization drives coupled shifts in soil-carbon stocks, sources, and stability across natural and restored mangroves and tidal flats** (2026)
+   0 citations
 
 ## External Profiles
 

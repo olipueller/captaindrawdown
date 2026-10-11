@@ -1,7 +1,7 @@
 ---
 title: "Lila Warszawski"
 description: "Lila Warszawski is a Senior General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 57 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.031185
+date: 2026-10-11T02:32:59.034228
 url: "/cdr-researcher-census/researchers/lila-warszawski-a5019145/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **All options, not silver bullets, needed to limit global warming to 1.5 °C: a scenario appraisal** (2021)
-   107 citations · General CDR
+   105 citations · General CDR
 
 2. **Stockholm to Stockholm: Achieving a safe Earth requires goals that incorporate a just approach** (2021)
    17 citations · General CDR
 
 3. **Ten new insights in climate science 2025** (2026)
-   7 citations · General CDR
+   8 citations · General CDR
 
 4. **Ten New Insights in Climate Science 2025 [accepted manuscript]** (2025)
    0 citations · General CDR

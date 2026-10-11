@@ -1,7 +1,7 @@
 ---
 title: "Luiz Bernardo Baptista"
 description: "Luiz Bernardo Baptista is a Mid-career General CDR researcher at Universidade Federal do Rio de Janeiro in BR. With 46 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.453215
+date: 2026-10-11T02:32:59.464032
 url: "/cdr-researcher-census/researchers/luiz-bernardo-baptista-a5021199/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,24 +51,30 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Are there synergies in the decarbonization of aviation and shipping? An integrated perspective for the case of Brazil** (2022)
-   24 citations · General CDR
+   23 citations · General CDR
 
 2. **The role of bioenergy in Brazil's low-carbon future** (2023)
-   12 citations · BECCS
+   15 citations · BECCS
 
 3. **Industrial sector pathways to a well-below 2 °C world: A global integrated assessment perspective** (2024)
-   10 citations · General CDR
+   11 citations · General CDR
 
 4. **Are There Synergies in the Decarbonization of Aviation and Shipping? An Integrated Perspective for the Case of Brazil** (2022)
    3 citations · General CDR
 
-5. **Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment** (2026)
+5. **Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7** (2026)
+   0 citations · General CDR
+
+6. **Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7** (2026)
+   0 citations · General CDR
+
+7. **Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment** (2026)
    0 citations · BECCS
 
-6. **Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment** (2026)
+8. **Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment** (2026)
    0 citations · BECCS
 
-7. **Probabilistic assessment of uncertainty of carbon capture and storage for achieving Paris-Aligned goals** (2026)
+9. **Probabilistic assessment of uncertainty of carbon capture and storage for achieving Paris-Aligned goals** (2026)
    0 citations
 
 ## External Profiles

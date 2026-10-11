@@ -1,7 +1,7 @@
 ---
 title: "Xuedong Ma"
 description: "Xuedong Ma is a Senior Biochar researcher at Northwest University in CN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.338507
+date: 2026-10-11T02:32:59.344284
 url: "/cdr-researcher-census/researchers/xuedong-ma-a5103029/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **N self-doping hierarchical porous biochar from Chinese medicine residues for efficient removal of malachite green: Critical contribution of N doping to π-π electron donor-donor interactions** (2024)
-   19 citations · Biochar
+   20 citations · Biochar
 
 ## External Profiles
 

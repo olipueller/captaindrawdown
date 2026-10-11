@@ -1,7 +1,7 @@
 ---
 title: "Huarui Gong"
 description: "Huarui Gong is a Mid-career Soil Carbon researcher at 中国科学院地理科学与资源研究所 in CN. With 38 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.352661
+date: 2026-10-11T02:32:59.358991
 url: "/cdr-researcher-census/researchers/huarui-gong-a5077000/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Mitigated Greenhouse Gas Emissions in Cropping Systems by Organic Fertilizer and Tillage Management** (2022)
-   30 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 2. **Continuous crop rotation increases soil organic carbon stocks in river deltas: A 40-year field evidence** (2023)
    25 citations · Soil Carbon
@@ -69,7 +69,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations
 
 7. **Optimising crop calendars with management practices promotes climate-smart agriculture in wheat-maize rotations of the North China Plain** (2025)
-   3 citations · General CDR
+   4 citations · General CDR
 
 8. **Shift From Promotion to Inhibition: Factors Affecting Soil Organic Carbon Sequestration in Intensive Croplands of the <scp>N</scp> orth <scp>C</scp> hina Plain** (2026)
    0 citations · Soil Carbon

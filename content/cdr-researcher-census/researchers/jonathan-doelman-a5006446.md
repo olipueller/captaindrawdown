@@ -1,7 +1,7 @@
 ---
 title: "Jonathan Doelman"
 description: "Jonathan Doelman is an Eminent General CDR researcher at PBL Netherland Environmental Assessment Agency in NL. With 175 publications and an h-index of 48, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.017579
+date: 2026-10-11T02:32:59.020764
 url: "/cdr-researcher-census/researchers/jonathan-doelman-a5006446/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,25 +51,25 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Reducing sectoral hard-to-abate emissions to limit reliance on carbon dioxide removal** (2024)
-   108 citations · General CDR
+   112 citations · General CDR
 
 2. **Multiple pathways towards sustainable development goals and climate targets** (2024)
-   38 citations · General CDR
+   40 citations · General CDR
 
-3. **Climate policy and the SDGs agenda: how does near-term action on nexus SDGs influence the achievement of long-term climate goals?** (2024)
+3. **Food and land system transformations under different societal perspectives on sustainable development** (2024)
    13 citations · General CDR
 
-4. **Food and land system transformations under different societal perspectives on sustainable development** (2024)
-   12 citations · General CDR
+4. **Climate policy and the SDGs agenda: how does near-term action on nexus SDGs influence the achievement of long-term climate goals?** (2024)
+   13 citations · General CDR
 
 5. **Regional variation in the effectiveness of methane-based and land-based climate mitigation options** (2021)
-   9 citations · BECCS
+   10 citations · BECCS
 
 6. **Biodiversity implications of land-intensive carbon dioxide removal** (2026)
-   6 citations · BECCS
+   7 citations · BECCS
 
 7. **Uncertain effectiveness of <i>Miscanthus</i> bioenergy expansion for climate change mitigation explored using land surface, agronomic and integrated assessment models** (2022)
-   6 citations · BECCS
+   7 citations · BECCS
 
 8. **Fire Weather Compromises Large Scale Afforestation Scenarios** (2023)
    3 citations · General CDR

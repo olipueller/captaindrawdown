@@ -1,7 +1,7 @@
 ---
 title: "C Christensen"
 description: "C Christensen is a Senior Biochar researcher at Aarhus University in DK. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.679791
+date: 2026-10-11T02:32:59.699495
 url: "/cdr-researcher-census/researchers/c-christensen-a5036566/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Deciphering Physicochemical Principles Guiding PFAS Adsorption and Thermal Degradation on Regenerable Waste-Derived Biochar** (2026)
-   5 citations · Biochar
+   7 citations · Biochar
 
 ## External Profiles
 

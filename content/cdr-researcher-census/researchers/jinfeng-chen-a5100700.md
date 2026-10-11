@@ -1,7 +1,7 @@
 ---
 title: "Jinfeng Chen"
 description: "Jinfeng Chen is a Senior Soil Carbon researcher at Shaanxi Provincial Hospital of Traditional Chinese Medicine in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.375207
+date: 2026-10-11T02:33:00.410639
 url: "/cdr-researcher-census/researchers/jinfeng-chen-a5100700/"
 layout: "researcher"
 hiddenInHomeList: true

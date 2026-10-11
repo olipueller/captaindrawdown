@@ -1,7 +1,7 @@
 ---
 title: "Erika Salas"
 description: "Erika Salas is an Early-career Soil Carbon researcher at University of Vienna in AT. With 17 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.346722
+date: 2026-10-11T02:33:00.381894
 url: "/cdr-researcher-census/researchers/erika-salas-a5045521/"
 layout: "researcher"
 hiddenInHomeList: true

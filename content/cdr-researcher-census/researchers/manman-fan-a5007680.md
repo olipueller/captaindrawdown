@@ -1,7 +1,7 @@
 ---
 title: "Manman Fan"
 description: "Manman Fan is a Mid-career Soil Carbon researcher at Huaiyin Normal University in CN. With 29 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.317694
+date: 2026-10-11T02:32:59.323556
 url: "/cdr-researcher-census/researchers/manman-fan-a5007680/"
 layout: "researcher"
 hiddenInHomeList: true

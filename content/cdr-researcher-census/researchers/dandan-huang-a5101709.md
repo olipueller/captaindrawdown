@@ -1,7 +1,7 @@
 ---
 title: "Dandan Huang"
 description: "Dandan Huang is a Senior Biochar researcher at East China University of Technology in CN. With 118 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.150558
+date: 2026-10-11T02:32:59.154797
 url: "/cdr-researcher-census/researchers/dandan-huang-a5101709/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The influencing mechanism of O2, H2O, and CO2 on the H2S removal of food waste digestate-derived biochar with abundant minerals** (2022)
-   23 citations · Biochar
+   25 citations · Biochar
 
 2. **Effects of tillage practices on environment, energy, and economy of maize production in Northeast China** (2024)
-   22 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 3. **The efficiency and mechanism of humidity in alleviating CO2 inhibition on H2S adsorption to straw biochars** (2022)
-   13 citations · Biochar
+   14 citations · Biochar
 
 4. **Tillage effects on residue-derived carbon distribution among soil fractions in a Mollisol** (2024)
-   11 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 5. **Microbial assembly regulated microbial succession of biochar-mediated CH4 biofiltration to resume function under H2S stress** (2025)
-   8 citations · Biochar
+   10 citations · Biochar
 
 6. **Biochar-based rhizosphere engineering for enhanced CH4 removal in landfill cover soil** (2025)
    4 citations · Biochar

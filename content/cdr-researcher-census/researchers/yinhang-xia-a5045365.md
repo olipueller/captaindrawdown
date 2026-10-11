@@ -1,7 +1,7 @@
 ---
 title: "Yinhang Xia"
 description: "Yinhang Xia is a Mid-career Soil Carbon researcher at Changsha University in CN. With 27 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.177601
+date: 2026-10-11T02:32:59.181644
 url: "/cdr-researcher-census/researchers/yinhang-xia-a5045365/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Contrasting pathways of carbon sequestration in paddy and upland soils** (2021)
-   427 citations · Soil Carbon
+   438 citations · Soil Carbon
 
 2. **Shifts in organic carbon protection mechanism in agricultural soils across climatic gradients** (2024)
    9 citations · Soil Carbon
 
 3. **Microbial carbon use efficiency and necromass turnover drive persistent carbon formation in paddy soils under straw-returned complex rotation** (2026)
-   4 citations
+   5 citations
 
 ## External Profiles
 

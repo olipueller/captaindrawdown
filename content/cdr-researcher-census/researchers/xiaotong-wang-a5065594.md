@@ -1,7 +1,7 @@
 ---
 title: "Xiaotong Wang"
 description: "Xiaotong Wang is a Mid-career Ocean CDR researcher at Affiliated Hospital of Xuzhou Medical College in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.020859
+date: 2026-10-11T02:33:00.052042
 url: "/cdr-researcher-census/researchers/xiaotong-wang-a5065594/"
 layout: "researcher"
 hiddenInHomeList: true

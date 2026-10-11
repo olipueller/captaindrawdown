@@ -1,7 +1,7 @@
 ---
 title: "Jinyu Hui"
 description: "Jinyu Hui is a Mid-career Soil Carbon researcher. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.734136
+date: 2026-10-11T02:32:59.755897
 url: "/cdr-researcher-census/researchers/jinyu-hui-a5032148/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Projected soil organic carbon loss in response to climate warming and soil water content in a loess watershed** (2021)
-   90 citations · Soil Carbon
+   89 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Hans Anton Tvete"
 description: "Hans Anton Tvete is a Mid-career DAC researcher at DNV (Norway) in NO. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.348514
+date: 2026-10-11T02:33:00.383609
 url: "/cdr-researcher-census/researchers/hans-anton-tvete-a5047862/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jiashu Zhou"
 description: "Jiashu Zhou is a Mid-career Biochar researcher at Zhejiang A & F University in CN. With 26 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.417529
+date: 2026-10-11T02:32:59.427433
 url: "/cdr-researcher-census/researchers/jiashu-zhou-a5111136/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -58,6 +58,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 4. **Effects of maize straw and its biochar application on soil organic carbon chemical composition and carbon degradation genes in a Moso bamboo forest.** (2023)
    1 citations · Biochar
+
+5. **Straw pyrolysis reverses forest soil N2O emissions from stimulation to suppression by altering organic C quality and N cycling pathways** (2026)
+   0 citations
 
 ## External Profiles
 

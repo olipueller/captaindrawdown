@@ -1,7 +1,7 @@
 ---
 title: "Lingxia Wang"
 description: "Lingxia Wang is a Senior Soil Carbon researcher. With 70 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.170132
+date: 2026-10-11T02:32:59.174239
 url: "/cdr-researcher-census/researchers/lingxia-wang-a5101817/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,13 +46,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Unbalanced social-ecological development within the Dongting Lake basin: Inspiration from evaluation of ecological restoration projects** (2021)
-   80 citations · General CDR
+   81 citations · General CDR
 
 2. **Land use change induced by the implementation of ecological restoration Programs increases future terrestrial ecosystem carbon sequestration in red soil hilly region of China** (2021)
-   39 citations · General CDR
+   40 citations · General CDR
 
 3. **Factors controlling soil organic carbon with depth at the basin scale** (2022)
-   28 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 4. **Erosion-induced recovery CO2 sink offset the horizontal soil organic carbon removal at the basin scale** (2024)
    12 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Yahaya Abdullahi Umar"
 description: "Yahaya Abdullahi Umar is a Mid-career Soil Carbon researcher at Universiti Sains Malaysia in MY. With 37 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.399666
+date: 2026-10-11T02:33:00.437770
 url: "/cdr-researcher-census/researchers/yahaya-abdullahi-umar-a5032322/"
 layout: "researcher"
 hiddenInHomeList: true

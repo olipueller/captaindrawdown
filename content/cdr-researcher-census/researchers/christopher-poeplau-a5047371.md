@@ -1,7 +1,7 @@
 ---
 title: "Christopher Poeplau"
 description: "Christopher Poeplau is an Eminent Soil Carbon researcher at Johann Heinrich von Thünen-Institut in DE. With 207 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.031993
+date: 2026-10-11T02:32:59.035037
 url: "/cdr-researcher-census/researchers/christopher-poeplau-a5047371/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **No detectable upper limit of mineral‐associated organic carbon in temperate agricultural soils** (2023)
-   192 citations · Soil Carbon
+   200 citations · Soil Carbon
 
 2. **Soil Carbon Saturation: What Do We Really Know?** (2025)
-   128 citations · Soil Carbon
+   149 citations · Soil Carbon
 
 3. **Priming effects decrease with the quantity of cover crop residues – Potential implications for soil carbon sequestration** (2023)
-   67 citations · Soil Carbon
+   69 citations · Soil Carbon
 
 4. **Grassland soil organic carbon stocks along management intensity and warming gradients** (2021)
    59 citations · Soil Carbon
 
 5. **Root litter quality drives the dynamic of native mineral-associated organic carbon in a temperate agricultural soil** (2023)
-   30 citations
+   32 citations
 
 6. **Flower strips as a carbon sequestration measure in temperate croplands** (2022)
    20 citations · Soil Carbon
@@ -72,7 +72,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    16 citations · Soil Carbon
 
 8. **Ten-year effects of perennial cropping systems on soil organic carbon stock and stability in sandy soils: Mechanisms and biochemical drivers** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 9. **Increased Retention of Litter‐Derived Organic Carbon With Increasing Initial Carbon Content in Temperate Agricultural Soils** (2025)
    5 citations · Soil Carbon

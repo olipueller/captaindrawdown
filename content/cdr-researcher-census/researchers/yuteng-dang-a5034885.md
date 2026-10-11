@@ -1,7 +1,7 @@
 ---
 title: "Yuteng Dang"
 description: "Yuteng Dang is an Early-career Biochar researcher at Northwest A&F University in CN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.374285
+date: 2026-10-11T02:33:00.409767
 url: "/cdr-researcher-census/researchers/yuteng-dang-a5034885/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A synthesis of soil organic carbon mineralization in response to biochar amendment** (2022)
-   40 citations · Biochar
+   42 citations · Biochar
 
 ## External Profiles
 

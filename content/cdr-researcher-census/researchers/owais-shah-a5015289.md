@@ -1,7 +1,7 @@
 ---
 title: "Owais Shah"
 description: "Owais Shah is an Early-career Biochar researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir in IN. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.329182
+date: 2026-10-11T02:33:00.362692
 url: "/cdr-researcher-census/researchers/owais-shah-a5015289/"
 layout: "researcher"
 hiddenInHomeList: true

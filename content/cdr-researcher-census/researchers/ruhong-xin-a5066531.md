@@ -1,7 +1,7 @@
 ---
 title: "Ruhong Xin"
 description: "Ruhong Xin is a Mid-career General CDR researcher at Southwest University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.599291
+date: 2026-10-11T02:32:59.616179
 url: "/cdr-researcher-census/researchers/ruhong-xin-a5066531/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Identifying the potential areas of afforestation projects using cost-benefit analysis based on ecosystem services and farmland suitability: A case study of the Grain for Green Project in Jinan, China** (2021)
-   40 citations · General CDR
+   39 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Lisa Essich"
 description: "Lisa Essich is a Mid-career Soil Carbon researcher at University of Hohenheim in DE. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.363183
+date: 2026-10-11T02:33:00.399022
 url: "/cdr-researcher-census/researchers/lisa-essich-a5088046/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Evaluating N <sub>2</sub> O emissions and carbon sequestration in temperate croplands with cover crops: insights from field trials** (2025)
-   4 citations · General CDR
+   10 citations · General CDR
 
 2. **Managing Soil Nitrogen Surplus: The Role of Winter Cover Crops in N <sub>2</sub> O Emissions and Carbon Sequestration** (2024)
    4 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Feng Shi"
 description: "Feng Shi is a Mid-career Biochar researcher at Southwest Forestry University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.874086
+date: 2026-10-11T02:32:59.901365
 url: "/cdr-researcher-census/researchers/feng-shi-a5008869/"
 layout: "researcher"
 hiddenInHomeList: true

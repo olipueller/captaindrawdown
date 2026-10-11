@@ -1,7 +1,7 @@
 ---
 title: "Gernot Bodner"
 description: "Gernot Bodner is a Senior Soil Carbon researcher at Universität für Bodenkultur Wien in AT. With 149 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.049158
+date: 2026-10-11T02:32:59.052955
 url: "/cdr-researcher-census/researchers/gernot-bodner-a5051932/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    126 citations · Soil Carbon
 
 2. **Conversion of SIC to SOC enhances soil carbon sequestration and soil structural stability in alpine ecosystems of the Qinghai-Tibet Plateau** (2024)
-   57 citations
+   63 citations
 
 3. **On-farm soil organic carbon sequestration potentials are dominated by site effects, not by management practices** (2023)
-   41 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 4. **Changes in microbial physiology and carbon-use efficiency upon improving soil habitat conditions in conservation farming systems** (2024)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 5. **Benchmarking carbon sequestration potentials in arable soils by on-farm research on innovative pioneer farms** (2022)
    29 citations

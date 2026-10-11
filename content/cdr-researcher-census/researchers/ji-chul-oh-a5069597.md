@@ -1,7 +1,7 @@
 ---
 title: "Ji Chul Oh"
 description: "Ji Chul Oh is a Mid-career Ocean CDR researcher at Korea Fisheries Resources Agency in KR. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.384392
+date: 2026-10-11T02:33:00.421123
 url: "/cdr-researcher-census/researchers/ji-chul-oh-a5069597/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    8 citations · Ocean CDR
 
 3. **Carbon dioxide removal (CDR) potential in temperate macroalgal forests: A comparative study of chemical and biological net ecosystem production (NEP)** (2024)
-   5 citations · Ocean CDR
+   6 citations · Ocean CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Fenglin Zuo"
 description: "Fenglin Zuo is a Mid-career Soil Carbon researcher at National Natural Science Foundation of China in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.052036
+date: 2026-10-11T02:33:00.082874
 url: "/cdr-researcher-census/researchers/fenglin-zuo-a5052314/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Spatiotemporal variability of dissolved carbon and sources of dissolved inorganic carbon influenced by freeze–thaw and subsurface flow in an alpine headwater catchment of the Qinghai-Tibetan Plateau** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

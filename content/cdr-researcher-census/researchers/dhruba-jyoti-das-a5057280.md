@@ -1,7 +1,7 @@
 ---
 title: "Dhruba Jyoti Das"
 description: "Dhruba Jyoti Das is a Mid-career Soil Carbon researcher at Indian Council of Forestry Research and Education in IN. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.038596
+date: 2026-10-11T02:33:00.069285
 url: "/cdr-researcher-census/researchers/dhruba-jyoti-das-a5057280/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Quantifying Tree Diversity, Carbon Stocks, and Sequestration Potential for Diverse Land Uses in Northeast India** (2021)
-   73 citations · General CDR
+   75 citations · General CDR
 
 ## External Profiles
 

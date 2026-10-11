@@ -1,7 +1,7 @@
 ---
 title: "Manisha Chirania"
 description: "Manisha Chirania is an Early-career Biochar researcher at Sikkim University in IN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.374467
+date: 2026-10-11T02:33:00.409926
 url: "/cdr-researcher-census/researchers/manisha-chirania-a5099471/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Integrating biochar production in biorefineries: towards a sustainable future and circular economy** (2024)
-   28 citations · Biochar
+   31 citations · Biochar
 
 ## External Profiles
 

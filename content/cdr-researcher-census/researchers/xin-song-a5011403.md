@@ -1,7 +1,7 @@
 ---
 title: "Xin Song"
 description: "Xin Song is a Senior Soil Carbon researcher at Dalian Ocean University in CN. With 79 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.205842
+date: 2026-10-11T02:32:59.210118
 url: "/cdr-researcher-census/researchers/xin-song-a5011403/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The formation of humic acid and micro-aggregates facilitated long-time soil organic carbon sequestration after Medicago sativa L. introduction on abandoned farmlands** (2024)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 2. **Distinct mechanisms of soil organic carbon formation in natural and legume-based grasslands on the Loess Plateau, China** (2025)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 3. **Soil organic carbon and nitrogen sequestration following grazing exclusion on the Loess Plateau, China** (2023)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 4. **Identifying a suitable revegetation method for soil organic carbon, nitrogen, and phosphorus sequestration: A 16‐year in situ experiment on abandoned farmland in a semiarid area of the Loess Plateau, China** (2022)
    10 citations · Soil Carbon

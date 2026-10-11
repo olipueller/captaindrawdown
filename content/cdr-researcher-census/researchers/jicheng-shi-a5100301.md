@@ -1,7 +1,7 @@
 ---
 title: "Jicheng Shi"
 description: "Jicheng Shi is a Mid-career Biochar researcher at Dalian Jiaotong University in CN. With 9 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.380535
+date: 2026-10-11T02:32:59.388137
 url: "/cdr-researcher-census/researchers/jicheng-shi-a5100301/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Application of biochar for the adsorption of organic pollutants from wastewater: Modification strategies, mechanisms and challenges** (2022)
-   638 citations · Biochar
+   649 citations · Biochar
 
 ## External Profiles
 

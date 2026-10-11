@@ -1,7 +1,7 @@
 ---
 title: "Suman Sen"
 description: "Suman Sen is a Senior Soil Carbon researcher at Indian Agricultural Research Institute in IN. With 73 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.279446
+date: 2026-10-11T02:32:59.283755
 url: "/cdr-researcher-census/researchers/suman-sen-a5071659/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Influence of Clay Mineralogy on Soil Organic Carbon Stabilization under Tropical Climate, India** (2022)
-   34 citations · Soil Carbon
+   35 citations · Soil Carbon
 
 2. **The interplay between external residue addition, and soil organic carbon dynamics and mineralization kinetics: Experiences from a 12-year old conservation agriculture** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 3. **Biochar enhances carbon stability and regulates greenhouse gas flux under crop production systems** (2024)
    1 citations · Biochar

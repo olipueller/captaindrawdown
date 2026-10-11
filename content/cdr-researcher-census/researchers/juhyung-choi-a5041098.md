@@ -1,7 +1,7 @@
 ---
 title: "Juhyung Choi"
 description: "Juhyung Choi is a Mid-career DAC researcher at Seoul National University in KR. With 34 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.230856
+date: 2026-10-11T02:32:59.234015
 url: "/cdr-researcher-census/researchers/juhyung-choi-a5041098/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Dynamic Evolution from Single-Atom Catalysts to Active Nanograins for CO<sub>2</sub> Reduction** (2025)
-   25 citations · General CDR
+   27 citations · General CDR
 
 2. **Atomically Dispersed Catalysts for Electrochemical CO 2 Conversion** (2026)
    0 citations · DAC

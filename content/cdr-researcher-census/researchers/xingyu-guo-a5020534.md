@@ -1,7 +1,7 @@
 ---
 title: "Xingyu Guo"
 description: "Xingyu Guo is a Mid-career Soil Carbon researcher at Nanjing Tech University in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.127184
+date: 2026-10-11T02:33:00.157396
 url: "/cdr-researcher-census/researchers/xingyu-guo-a5020534/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    28 citations · Soil Carbon
 
 2. **Carbon trade-off and energy budgeting under conventional and conservation tillage in a rice-wheat double cropping system** (2024)
-   23 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 3. **Effects of 12-year cropping systems and tillage practices on crop yield and carbon trade-off in dryland Loess Plateau** (2024)
    12 citations · Soil Carbon

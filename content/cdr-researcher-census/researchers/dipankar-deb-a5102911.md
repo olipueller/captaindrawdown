@@ -1,7 +1,7 @@
 ---
 title: "Dipankar Deb"
 description: "Dipankar Deb is a Senior Soil Carbon researcher at Tripura University in IN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.089124
+date: 2026-10-11T02:33:00.119742
 url: "/cdr-researcher-census/researchers/dipankar-deb-a5102911/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Evaluating the Role of Community-Managed Forest in Carbon Sequestration and Climate Change Mitigation of Tripura, India** (2021)
-   24 citations
+   25 citations
 
 2. **Biomass carbon stock and sequestration potential of tree-based agroecosystem in Tripura, Northeast India** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 3. **Fluctuation of soil organic carbon storage along the canopy density gradients of different natural forests in Tripura** (2025)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Kristina Röing de Nowina"
 description: "Kristina Röing de Nowina is a Senior Biochar researcher at Swedish University of Agricultural Sciences in SE. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.456244
+date: 2026-10-11T02:32:59.467370
 url: "/cdr-researcher-census/researchers/kristina-roing-de-nowina-a5011372/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Soils, sinks, and smallholder farmers: Examining the benefits of biochar energy transitions in Kenya** (2021)
-   21 citations · Biochar
+   24 citations · Biochar
 
 ## External Profiles
 

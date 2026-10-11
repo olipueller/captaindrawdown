@@ -1,7 +1,7 @@
 ---
 title: "Sara Massoli"
 description: "Sara Massoli is a Mid-career BECCS researcher at University of Perugia in IT. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.681068
+date: 2026-10-11T02:32:59.700960
 url: "/cdr-researcher-census/researchers/sara-massoli-a5007747/"
 layout: "researcher"
 hiddenInHomeList: true

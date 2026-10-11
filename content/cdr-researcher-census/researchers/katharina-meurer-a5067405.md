@@ -1,7 +1,7 @@
 ---
 title: "Katharina Meurer"
 description: "Katharina Meurer is a Mid-career Soil Carbon researcher at Swedish University of Agricultural Sciences in SE. With 92 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.212117
+date: 2026-10-11T02:32:59.216091
 url: "/cdr-researcher-census/researchers/katharina-meurer-a5067405/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,27 +51,30 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Interactions between soil structure dynamics, hydrological processes, and organic matter cycling: A new soil‐crop model** (2024)
-   57 citations · Soil Carbon
+   58 citations · Soil Carbon
 
-2. **Emissions of CO2, N2O and CH4 From Cultivated and Set Aside Drained Peatland in Central Sweden** (2021)
-   35 citations · Soil Carbon
+2. **Higher carbon sequestration on Swedish dairy farms compared with other farm types as revealed by national soil inventories** (2022)
+   29 citations · Soil Carbon
 
-3. **Higher carbon sequestration on Swedish dairy farms compared with other farm types as revealed by national soil inventories** (2022)
+3. **Emissions of CO2, N2O and CH4 From Cultivated and Set Aside Drained Peatland in Central Sweden** (2021)
    29 citations · Soil Carbon
 
 4. **Towards climate-smart sustainable management of agricultural soils : Deliverable 2.7 Report on the current availability and use of soil knowledge** (2021)
    2 citations
 
-5. **Editorial for the Second <scp>EJP SOIL</scp> Special Issue: “Climate‐Smart Sustainable Agricultural Soil Management for the Future II”** (2026)
-   0 citations · General CDR
-
-6. **Simulating variable fertilizer application ‘rates’ of synthetic and bio-based fertilizers in potato and maize fields to optimize nutrient management and validate environmental sustainability** (2025)
+5. **Crop diversification – a lever to manipulate the soil microbial carbon pump towards enhanced carbon sequestration?** (2026)
    0 citations
 
-7. **Editorial for the <scp>EJP SOIL</scp> Special Issue 1 on “Climate‐Smart Sustainable Agricultural Soil Management for the Future”** (2025)
+6. **Editorial for the Second <scp>EJP SOIL</scp> Special Issue: “Climate‐Smart Sustainable Agricultural Soil Management for the Future II”** (2026)
    0 citations · General CDR
 
-8. **Coupled modelling of soil structure dynamics, carbon cycling, hydrological processes and crop production** (2023)
+7. **Simulating variable fertilizer application ‘rates’ of synthetic and bio-based fertilizers in potato and maize fields to optimize nutrient management and validate environmental sustainability** (2025)
+   0 citations
+
+8. **Editorial for the <scp>EJP SOIL</scp> Special Issue 1 on “Climate‐Smart Sustainable Agricultural Soil Management for the Future”** (2025)
+   0 citations · General CDR
+
+9. **Coupled modelling of soil structure dynamics, carbon cycling, hydrological processes and crop production** (2023)
    0 citations · General CDR
 
 ## External Profiles

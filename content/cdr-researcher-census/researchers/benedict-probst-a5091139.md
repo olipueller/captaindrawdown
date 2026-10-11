@@ -1,7 +1,7 @@
 ---
 title: "Benedict Probst"
 description: "Benedict Probst is a Mid-career General CDR researcher at University of Cambridge in GB. With 58 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.246104
+date: 2026-10-11T02:32:59.249953
 url: "/cdr-researcher-census/researchers/benedict-probst-a5091139/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Scientific literature on carbon dioxide removal revealed as much larger through AI-enhanced systematic mapping** (2025)
-   17 citations · General CDR
+   20 citations · General CDR
 
 2. **Ten new insights in climate science 2025** (2026)
-   7 citations · General CDR
+   8 citations · General CDR
 
 3. **Scientific literature on carbon dioxide removal much larger than previously suggested: insights from an AI-enhanced systematic map** (2024)
    7 citations · General CDR

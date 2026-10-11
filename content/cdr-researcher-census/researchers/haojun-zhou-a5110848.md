@@ -1,7 +1,7 @@
 ---
 title: "Haojun Zhou"
 description: "Haojun Zhou is a Mid-career Enhanced Weathering researcher at Guangdong Shunde Innovative Design Institute in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.202445
+date: 2026-10-11T02:33:00.232503
 url: "/cdr-researcher-census/researchers/haojun-zhou-a5110848/"
 layout: "researcher"
 hiddenInHomeList: true

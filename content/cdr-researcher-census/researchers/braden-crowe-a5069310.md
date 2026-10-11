@@ -1,7 +1,7 @@
 ---
 title: "Braden Crowe"
 description: "Braden Crowe is a Senior Ocean CDR researcher. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.335581
+date: 2026-10-11T02:32:59.341410
 url: "/cdr-researcher-census/researchers/braden-crowe-a5069310/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **A newly isolated alkaliphilic cyanobacterium for biomass production with direct air CO2 capture** (2023)
-   22 citations
+   20 citations
 
 2. **Mass transfer coefficients, kL, and air-CO2 ingassing rates in 3.4 m2 and 1-acre raceway ponds.** (2022)
    1 citations · Ocean CDR

@@ -1,7 +1,7 @@
 ---
 title: "Linjing Ren"
 description: "Linjing Ren is a Mid-career Soil Carbon researcher at East China Normal University in CN. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.627488
+date: 2026-10-11T02:32:59.646035
 url: "/cdr-researcher-census/researchers/linjing-ren-a5036659/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Ratoon rice with direct seeding improves soil carbon sequestration in rice fields and increases grain quality** (2022)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 2. **Invasion of Spartina species enhance blue carbon functions by increasing CO2 uptake and reducing methane emissions in Chinese and Danish coastal wetlands** (2025)
-   5 citations · Ocean CDR
+   6 citations · Ocean CDR
 
 ## External Profiles
 

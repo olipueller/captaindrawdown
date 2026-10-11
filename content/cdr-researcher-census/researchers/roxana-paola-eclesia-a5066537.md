@@ -1,7 +1,7 @@
 ---
 title: "Roxana Paola Eclesia"
 description: "Roxana Paola Eclesia is a Mid-career Soil Carbon researcher at Universidad Autónoma de Entre Ríos in AR. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.648095
+date: 2026-10-11T02:32:59.666832
 url: "/cdr-researcher-census/researchers/roxana-paola-eclesia-a5066537/"
 layout: "researcher"
 hiddenInHomeList: true

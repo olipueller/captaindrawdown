@@ -1,7 +1,7 @@
 ---
 title: "Yanan Huang"
 description: "Yanan Huang is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.348817
+date: 2026-10-11T02:32:59.354715
 url: "/cdr-researcher-census/researchers/yanan-huang-a5101330/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Effects of substitution of chemical fertilizer by Chinese milk vetch on distribution and composition of aggregates-associated organic carbon fractions in paddy soils** (2022)
-   23 citations
+1. **Effects of long-term green manure application on organic carbon fractions and clay minerals and their interactions in paddy soil aggregates** (2023)
+   22 citations · Soil Carbon
 
-2. **Effects of long-term green manure application on organic carbon fractions and clay minerals and their interactions in paddy soil aggregates** (2023)
-   20 citations · Soil Carbon
+2. **Effects of substitution of chemical fertilizer by Chinese milk vetch on distribution and composition of aggregates-associated organic carbon fractions in paddy soils** (2022)
+   22 citations
 
 3. **The Different Roles of Mineralogy in Soil Organic Carbon Accumulation in Northern and Southern China** (2023)
    3 citations · Soil Carbon

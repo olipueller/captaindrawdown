@@ -1,7 +1,7 @@
 ---
 title: "Ali Abdelshafy"
 description: "Ali Abdelshafy is a Mid-career Biochar researcher at Delft University of Technology in NL. With 32 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.116189
+date: 2026-10-11T02:33:00.147129
 url: "/cdr-researcher-census/researchers/ali-abdelshafy-a5067012/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Using miscanthus and biochar as sustainable substrates in horticulture: An economic and carbon footprint assessment of their primary and cascading value chains** (2024)
-   12 citations · Biochar
+   13 citations · Biochar
 
 2. **Developing a framework towards global biochar supply chains to optimize regional production cost** (2025)
-   5 citations · Biochar
+   7 citations · Biochar
 
 3. **Evaluation of biomass utilization pathways – a methodological framework** (2025)
    1 citations

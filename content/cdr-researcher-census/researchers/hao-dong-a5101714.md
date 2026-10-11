@@ -1,7 +1,7 @@
 ---
 title: "Hao Dong"
 description: "Hao Dong is a Mid-career Biochar researcher at Shanghai Polytechnic University in CN. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.310176
+date: 2026-10-11T02:32:59.315559
 url: "/cdr-researcher-census/researchers/hao-dong-a5101714/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Reed biochar by microwave-assisted pyrolysis for the removal of tetracycline in water** (2025)
-   9 citations · Biochar
+   10 citations · Biochar
 
 2. **Activation of peroxydisulfate by phosphoric acid-modified microwave biochar for tetracycline removal in water: Mechanistic insights** (2025)
    3 citations · Biochar

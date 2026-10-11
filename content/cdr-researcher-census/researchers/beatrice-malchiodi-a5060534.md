@@ -1,7 +1,7 @@
 ---
 title: "Beatrice Malchiodi"
 description: "Beatrice Malchiodi is a Mid-career Biochar researcher at École Polytechnique Fédérale de Lausanne in CH. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.032359
+date: 2026-10-11T02:33:00.063487
 url: "/cdr-researcher-census/researchers/beatrice-malchiodi-a5060534/"
 layout: "researcher"
 hiddenInHomeList: true

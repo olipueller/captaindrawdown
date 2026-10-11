@@ -1,7 +1,7 @@
 ---
 title: "Yuan Gong"
 description: "Yuan Gong is a Senior Soil Carbon researcher. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.147887
+date: 2026-10-11T02:33:00.177418
 url: "/cdr-researcher-census/researchers/yuan-gong-a5058531/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Characterizing Growing Season Length of Subtropical Coniferous Forests with a Phenological Model** (2021)
-   8 citations
+   9 citations
 
 2. **Uncertainty in parameterizing a flux‐based model of vegetation carbon phenology using ecosystem respiration** (2022)
    4 citations

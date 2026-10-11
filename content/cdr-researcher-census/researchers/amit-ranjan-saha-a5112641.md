@@ -1,7 +1,7 @@
 ---
 title: "Amit Ranjan Saha"
 description: "Amit Ranjan Saha is a Mid-career Soil Carbon researcher at Central Research Institute for Jute and Allied Fibres in IN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.677294
+date: 2026-10-11T02:32:59.696796
 url: "/cdr-researcher-census/researchers/amit-ranjan-saha-a5112641/"
 layout: "researcher"
 hiddenInHomeList: true

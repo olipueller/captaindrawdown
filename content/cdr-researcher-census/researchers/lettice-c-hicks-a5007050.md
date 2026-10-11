@@ -1,7 +1,7 @@
 ---
 title: "Lettice C. Hicks"
 description: "Lettice C. Hicks is a Senior Soil Carbon researcher at Lund University in SE. With 73 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.171505
+date: 2026-10-11T02:32:59.175584
 url: "/cdr-researcher-census/researchers/lettice-c-hicks-a5007050/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Semi-continuous C supply reveals that priming due to N-mining is driven by microbial growth demands in temperate forest plantations** (2022)
-   14 citations · Soil Carbon
+1. **How do root exudates prime the decomposition of soil organic matter following drought?** (2025)
+   15 citations · Soil Carbon
 
-2. **How do root exudates prime the decomposition of soil organic matter following drought?** (2025)
-   13 citations · Soil Carbon
+2. **Semi-continuous C supply reveals that priming due to N-mining is driven by microbial growth demands in temperate forest plantations** (2022)
+   14 citations · Soil Carbon
 
 3. **Plant diversity increases microbial resistance to drought and soil carbon accumulation** (2026)
    5 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Yichao Xue"
 description: "Yichao Xue is a Mid-career Biochar researcher at Ministry of Ecology and Environment in CN. With 8 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.806444
+date: 2026-10-11T02:32:59.831471
 url: "/cdr-researcher-census/researchers/yichao-xue-a5007430/"
 layout: "researcher"
 hiddenInHomeList: true

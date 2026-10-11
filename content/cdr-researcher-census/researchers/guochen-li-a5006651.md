@@ -1,7 +1,7 @@
 ---
 title: "Guochen Li"
 description: "Guochen Li is a Mid-career Enhanced Weathering researcher at Chinese Academy of Sciences in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.476952
+date: 2026-10-11T02:32:59.488249
 url: "/cdr-researcher-census/researchers/guochen-li-a5006651/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Integrating microbial community properties, biomass and necromass to predict cropland soil organic carbon** (2023)
-   146 citations · Soil Carbon
+   149 citations · Soil Carbon
 
 2. **Enhanced silicate weathering accelerates forest carbon sequestration by stimulating the soil mineral carbon pump** (2024)
-   66 citations · Enhanced Weathering
+   67 citations · Enhanced Weathering
 
 3. **Enhanced rock weathering increased soil phosphorus availability and altered root phosphorus‐acquisition strategies** (2024)
-   46 citations · Enhanced Weathering
+   47 citations · Enhanced Weathering
 
 4. **Wollastonite powder application increases rice yield and CO2 sequestration in a paddy field in Northeast China** (2024)
-   14 citations · Enhanced Weathering
+   15 citations · Enhanced Weathering
 
 5. **Divergent responses of carbon and nitrogen functional genes composition to enhanced rock weathering** (2025)
    8 citations · Enhanced Weathering

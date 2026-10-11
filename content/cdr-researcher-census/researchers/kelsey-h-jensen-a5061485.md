@@ -1,7 +1,7 @@
 ---
 title: "Kelsey H. Jensen"
 description: "Kelsey H. Jensen is a Mid-career Soil Carbon researcher at Environmental Defense Fund in US. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.050711
+date: 2026-10-11T02:33:00.081657
 url: "/cdr-researcher-census/researchers/kelsey-h-jensen-a5061485/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Caroline De Clerck"
 description: "Caroline De Clerck is a Mid-career Soil Carbon researcher at Nanjing University of Finance and Economics in CN. With 53 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.374062
+date: 2026-10-11T02:32:59.381456
 url: "/cdr-researcher-census/researchers/caroline-de-clerck-a5059426/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **No-tillage facilitates soil organic carbon sequestration by enhancing arbuscular mycorrhizal fungi-related soil proteins accumulation and aggregation** (2024)
-   41 citations · Soil Carbon
+   42 citations · Soil Carbon
 
 2. **Long-Term Manuring Enhanced Compositional Stability of Glomalin-Related Soil Proteins through Arbuscular Mycorrhizal Fungi Regulation** (2024)
    13 citations · Soil Carbon

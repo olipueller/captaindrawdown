@@ -1,7 +1,7 @@
 ---
 title: "Raveena Choudhary"
 description: "Raveena Choudhary is a Mid-career Biochar researcher at Thapar Institute of Engineering & Technology in IN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.147092
+date: 2026-10-11T02:33:00.176696
 url: "/cdr-researcher-census/researchers/raveena-choudhary-a5104035/"
 layout: "researcher"
 hiddenInHomeList: true

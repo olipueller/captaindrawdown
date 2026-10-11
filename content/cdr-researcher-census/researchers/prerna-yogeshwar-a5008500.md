@@ -1,7 +1,7 @@
 ---
 title: "Prerna Yogeshwar"
 description: "Prerna Yogeshwar is an Early-career Enhanced Weathering researcher at Indian Institute of Technology Madras in IN. With 8 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.365664
+date: 2026-10-11T02:33:00.394596
 url: "/cdr-researcher-census/researchers/prerna-yogeshwar-a5008500/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 106 |
+| Citations | 107 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
 | Trajectory | Growing |
@@ -48,7 +48,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Basalt-Based EnhancedRock Weathering for Long-TermCO2 Storage: Insights from Mineral Carbonation Experiments** (2026)
-   0 citations · Enhanced Weathering
+   1 citations · Enhanced Weathering
 
 ## External Profiles
 

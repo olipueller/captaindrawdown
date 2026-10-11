@@ -1,7 +1,7 @@
 ---
 title: "Anna Wawra"
 description: "Anna Wawra is a Mid-career Soil Carbon researcher at Austrian Agency for Health and Food Safety in AT. With 27 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.813199
+date: 2026-10-11T02:32:59.838082
 url: "/cdr-researcher-census/researchers/anna-wawra-a5046055/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Functional redundant soil fauna and microbial groups and processes were fairly resistant to drought in an agroecosystem** (2023)
-   21 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 2. **Cover crop C inputs; Multiple aerial and isotope insights from a long-term field trial.** (2023)
    0 citations · Soil Carbon

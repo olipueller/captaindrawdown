@@ -1,7 +1,7 @@
 ---
 title: "Norbert Bischoff"
 description: "Norbert Bischoff is a Mid-career Soil Carbon researcher at Landesamt für Bergbau, Energie und Geologie in DE. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.101636
+date: 2026-10-11T02:33:00.132015
 url: "/cdr-researcher-census/researchers/norbert-bischoff-a5060435/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Dynamics of soil organic carbon in the steppes of Russia and Kazakhstan under past and future climate and land use** (2021)
-   25 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 2. **Six Questions About Soil Carbon Storage Potentials on Cropland** (2026)
    0 citations · Soil Carbon

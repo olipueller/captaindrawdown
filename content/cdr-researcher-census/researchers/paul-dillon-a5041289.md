@@ -1,7 +1,7 @@
 ---
 title: "Paul Dillon"
 description: "Paul Dillon is a Senior DAC researcher. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.366800
+date: 2026-10-11T02:33:00.402455
 url: "/cdr-researcher-census/researchers/paul-dillon-a5041289/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yassir Makkawi"
 description: "Yassir Makkawi is a Senior Biochar researcher at American University of Sharjah in AE. With 61 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.182665
+date: 2026-10-11T02:32:59.186772
 url: "/cdr-researcher-census/researchers/yassir-makkawi-a5018909/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Recycling of post-consumption food waste through pyrolysis: Feedstock characteristics, products analysis, reactor performance, and assessment of worldwide implementation potentials** (2022)
-   32 citations · Biochar
+   33 citations · Biochar
 
 2. **Assessment of the pyrolysis products from halophyte Salicornia bigelovii cultivated in a desert environment** (2021)
    29 citations · Biochar
 
 3. **A comparative analysis of second-generation biofuels and its potentials for large-scale production in arid and semi-arid regions** (2023)
-   17 citations · BECCS
+   18 citations · BECCS
 
 4. **Co-Pyrolysis of Date Palm Waste and <i>Salicornia Bigelovii</i>: Insights for Bioenergy Development in Arid and Semi-Arid Regions** (2024)
-   3 citations · BECCS
+   4 citations · BECCS
 
 5. **Solar-thermal-assisted biomass pyrolysis in an inclined tubular reactor with fluidization-like behavior: Experiments, CFD modeling, and scale-up analysis** (2026)
-   1 citations · Biochar
+   3 citations · Biochar
 
 6. **Pyrolysis of anaerobically digested and undigested sewage sludge: Comparative assessment of product quality, emissions, and carbon sequestration** (2025)
    1 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Ziyang Wang"
 description: "Ziyang Wang is a Senior Soil Carbon researcher at Yanshan University in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.466649
+date: 2026-10-11T02:32:59.478055
 url: "/cdr-researcher-census/researchers/ziyang-wang-a5073613/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of Freeze–Thaw Cycles on Soil Aggregate Stability and Organic Carbon Distribution Under Different Land Uses** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

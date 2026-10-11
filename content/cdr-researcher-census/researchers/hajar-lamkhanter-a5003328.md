@@ -1,7 +1,7 @@
 ---
 title: "Hajar Lamkhanter"
 description: "Hajar Lamkhanter is a Mid-career Biochar researcher at University of Milano-Bicocca in IT. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.359285
+date: 2026-10-11T02:33:00.394086
 url: "/cdr-researcher-census/researchers/hajar-lamkhanter-a5003328/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **the main types of derivatives of plant matter and agricultural waste used as bio-adsorbents for the removal of heavy metals and dyes: a review** (2024)
-   16 citations · Biochar
+   17 citations · Biochar
 
 ## External Profiles
 

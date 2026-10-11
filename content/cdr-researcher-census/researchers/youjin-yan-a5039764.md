@@ -1,7 +1,7 @@
 ---
 title: "Youjin Yan"
 description: "Youjin Yan is a Mid-career Soil Carbon researcher at Guizhou University in CN. With 75 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.233748
+date: 2026-10-11T02:32:59.237033
 url: "/cdr-researcher-census/researchers/youjin-yan-a5039764/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,14 +50,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Latitudinal and Altitudinal Patterns and Influencing Factors of Soil Humus Carbon in the Low-Latitude Plateau Regions** (2023)
+1. **Litter input promoted dissolved organic carbon migration in karst soil** (2024)
    11 citations · Soil Carbon
 
-2. **Litter input promoted dissolved organic carbon migration in karst soil** (2024)
-   10 citations · Soil Carbon
+2. **Latitudinal and Altitudinal Patterns and Influencing Factors of Soil Humus Carbon in the Low-Latitude Plateau Regions** (2023)
+   11 citations · Soil Carbon
 
 3. **Effects of soil and rock microhabitats on soil organic carbon stability in a karst peak-cluster depression region of Southwestern China** (2023)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 4. **Variability in Carbon Stocks across a Chronosequence of Masson Pine Plantations and the Trade-Off between Plant and Soil Systems** (2021)
    5 citations · Soil Carbon
@@ -66,7 +66,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Soil Carbon
 
 6. **Bamboo expansion into broadleaf forests restructures topsoil carbon, nitrogen, phosphorus and potassium pools: A trade-off between carbon sink enhancement and nutrient limitation** (2026)
-   0 citations
+   1 citations
 
 7. **Effects of latitude and altitude on the composition of humus in forest soils in the Low Latitude Plateau** (2022)
    0 citations · Soil Carbon

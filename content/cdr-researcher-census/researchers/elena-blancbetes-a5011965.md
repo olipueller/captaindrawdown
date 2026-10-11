@@ -1,7 +1,7 @@
 ---
 title: "Elena Blanc‐Betes"
 description: "Elena Blanc‐Betes is a Senior BECCS researcher at University of Illinois Urbana-Champaign in US. With 65 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.255567
+date: 2026-10-11T02:32:59.259352
 url: "/cdr-researcher-census/researchers/elena-blancbetes-a5011965/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,19 +54,19 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    87 citations · Enhanced Weathering
 
 2. **In silico assessment of the potential of basalt amendments to reduce N<sub>2</sub>O emissions from bioenergy crops** (2020)
-   66 citations · BECCS
+   64 citations · BECCS
 
 3. **A review of transformative strategies for climate mitigation by grasslands** (2021)
-   42 citations
+   41 citations
 
 4. **Assessing the Returns to Land and Greenhouse Gas Savings from Producing Energy Crops on Conservation Reserve Program Land** (2021)
-   25 citations
+   24 citations
 
-5. **Bioenergy Underground: Challenges and opportunities for phenotyping roots and the microbiome for sustainable bioenergy crop production** (2022)
-   24 citations · BECCS
+5. **Improving nitrogen cycling in a land surface model (CLM5) to quantify soil N <sub>2</sub> O, NO, and NH <sub>3</sub> emissions from enhanced rock weathering with croplands** (2023)
+   20 citations · Enhanced Weathering
 
-6. **Improving nitrogen cycling in a land surface model (CLM5) to quantify soil N <sub>2</sub> O, NO, and NH <sub>3</sub> emissions from enhanced rock weathering with croplands** (2023)
-   16 citations · Enhanced Weathering
+6. **Bioenergy Underground: Challenges and opportunities for phenotyping roots and the microbiome for sustainable bioenergy crop production** (2022)
+   20 citations · BECCS
 
 7. **Climate vs Energy Security: Quantifying the Trade-offs of BECCS Deployment and Overcoming Opportunity Costs on Set-Aside Land** (2023)
    11 citations · BECCS

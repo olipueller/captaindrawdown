@@ -1,7 +1,7 @@
 ---
 title: "Laura Castañeda‐Gómez"
 description: "Laura Castañeda‐Gómez is a Mid-career Soil Carbon researcher at Department of Biological Sciences in BY. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.283054
+date: 2026-10-11T02:32:59.287175
 url: "/cdr-researcher-census/researchers/laura-castanedagomez-a5003960/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,18 +51,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Non-mycorrhizal root-associated fungi increase soil C stocks and stability via diverse mechanisms** (2024)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 2. **Deciphering the Complex Interactions between Litter Inputs and Microbial Responses in Modulating Long-Term Soil Organic Matter Dynamics** (2025)
    5 citations · Soil Carbon
 
-3. **Three Decades of Litter Manipulation Distinctly Shifts Soil Organic Matter Composition and Constrains Soil Carbon Sequestration in Temperate Forest Soils** (2026)
-   0 citations · Soil Carbon
+3. **Phosphorus enrichment does not enlarge the predicted CO <sub>2</sub> fertilization effect on forest carbon sequestration** (2026)
+   1 citations
 
-4. **Non-mycorrhizal root-associated fungi increase soil C stocks and stability via diverse mechanisms** (2023)
+4. **Phosphorus enrichment does not enlarge the predicted CO2 fertilization effect on forest carbon sequestration.** (2026)
    0 citations
 
-5. **A diversity of fungal pathways contribute to improved soil carbon stability and storage** (2023)
+5. **Three Decades of Litter Manipulation Distinctly Shifts Soil Organic Matter Composition and Constrains Soil Carbon Sequestration in Temperate Forest Soils** (2026)
+   0 citations · Soil Carbon
+
+6. **Non-mycorrhizal root-associated fungi increase soil C stocks and stability via diverse mechanisms** (2023)
+   0 citations
+
+7. **A diversity of fungal pathways contribute to improved soil carbon stability and storage** (2023)
    0 citations · Soil Carbon
 
 ## External Profiles

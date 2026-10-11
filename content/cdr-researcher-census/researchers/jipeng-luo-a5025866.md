@@ -1,7 +1,7 @@
 ---
 title: "Jipeng Luo"
 description: "Jipeng Luo is a Senior Soil Carbon researcher at Indiana University Bloomington in CN. With 58 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.107513
+date: 2026-10-11T02:32:59.112188
 url: "/cdr-researcher-census/researchers/jipeng-luo-a5025866/"
 layout: "researcher"
 hiddenInHomeList: true

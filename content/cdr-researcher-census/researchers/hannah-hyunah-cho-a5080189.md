@@ -1,7 +1,7 @@
 ---
 title: "Hannah Hyunah Cho"
 description: "Hannah Hyunah Cho is a Mid-career General CDR researcher at Macquarie University in AU. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.456063
+date: 2026-10-11T02:32:59.467160
 url: "/cdr-researcher-census/researchers/hannah-hyunah-cho-a5080189/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sahar Saleem"
 description: "Sahar Saleem is a Mid-career General CDR researcher at National University of Sciences and Technology in PK. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.300895
+date: 2026-10-11T02:33:00.331972
 url: "/cdr-researcher-census/researchers/sahar-saleem-a5057631/"
 layout: "researcher"
 hiddenInHomeList: true

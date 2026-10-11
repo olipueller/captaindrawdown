@@ -1,7 +1,7 @@
 ---
 title: "David B. Rogers"
 description: "David B. Rogers is a Senior General CDR researcher at Stanford University in US. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.725585
+date: 2026-10-11T02:32:59.746553
 url: "/cdr-researcher-census/researchers/david-b-rogers-a5044005/"
 layout: "researcher"
 hiddenInHomeList: true

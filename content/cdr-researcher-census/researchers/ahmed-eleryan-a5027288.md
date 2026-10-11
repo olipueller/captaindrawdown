@@ -1,7 +1,7 @@
 ---
 title: "Ahmed Eleryan"
 description: "Ahmed Eleryan is a Mid-career Biochar researcher at National Institute of Oceanography and Fisheries in EG. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.475845
+date: 2026-10-11T02:32:59.487103
 url: "/cdr-researcher-census/researchers/ahmed-eleryan-a5027288/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Kinetic and isotherm studies of Acid Orange 7 dye absorption using sulphonated mandarin biochar treated with TETA** (2023)
-   48 citations · Biochar
+   49 citations · Biochar
 
 ## External Profiles
 

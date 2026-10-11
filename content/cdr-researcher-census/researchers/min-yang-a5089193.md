@@ -1,7 +1,7 @@
 ---
 title: "Min Yang"
 description: "Min Yang is an Early-career Biochar researcher at Shandong Academy of Sciences in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.136567
+date: 2026-10-11T02:33:00.166872
 url: "/cdr-researcher-census/researchers/min-yang-a5089193/"
 layout: "researcher"
 hiddenInHomeList: true

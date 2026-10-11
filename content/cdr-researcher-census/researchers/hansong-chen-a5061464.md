@@ -1,7 +1,7 @@
 ---
 title: "Hansong Chen"
 description: "Hansong Chen is a Senior Biochar researcher at Center for Drug Evaluation and Research in US. With 53 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.146941
+date: 2026-10-11T02:32:59.151257
 url: "/cdr-researcher-census/researchers/hansong-chen-a5061464/"
 layout: "researcher"
 hiddenInHomeList: true

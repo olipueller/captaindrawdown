@@ -1,7 +1,7 @@
 ---
 title: "Fengxia Sun"
 description: "Fengxia Sun is a Senior Biochar researcher. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.532341
+date: 2026-10-11T02:32:59.546607
 url: "/cdr-researcher-census/researchers/fengxia-sun-a5109585/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Steven L. Dowhower"
 description: "Steven L. Dowhower is a Senior Soil Carbon researcher. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.942845
+date: 2026-10-11T02:32:59.972983
 url: "/cdr-researcher-census/researchers/steven-l-dowhower-a5112813/"
 layout: "researcher"
 hiddenInHomeList: true

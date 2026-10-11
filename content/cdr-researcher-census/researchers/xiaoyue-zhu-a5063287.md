@@ -1,7 +1,7 @@
 ---
 title: "Xiaoyue Zhu"
 description: "Xiaoyue Zhu is a Mid-career Soil Carbon researcher at Beijing University of Chemical Technology in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.191272
+date: 2026-10-11T02:33:00.221395
 url: "/cdr-researcher-census/researchers/xiaoyue-zhu-a5063287/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Vegetation restoration altered the soil organic carbon composition and favoured its stability in a Robinia pseudoacacia plantation** (2023)
-   71 citations · Soil Carbon
+   76 citations · Soil Carbon
 
 ## External Profiles
 

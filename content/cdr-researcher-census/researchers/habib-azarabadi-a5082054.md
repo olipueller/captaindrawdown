@@ -1,7 +1,7 @@
 ---
 title: "Habib Azarabadi"
 description: "Habib Azarabadi is a Mid-career DAC researcher at Carbon180 in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.221262
+date: 2026-10-11T02:32:59.224817
 url: "/cdr-researcher-census/researchers/habib-azarabadi-a5082054/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Buying down the Cost of Direct Air Capture** (2021)
-   112 citations · DAC
+   110 citations · DAC
 
 ## External Profiles
 

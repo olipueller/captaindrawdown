@@ -1,7 +1,7 @@
 ---
 title: "J.L.B. Walker"
 description: "J.L.B. Walker is a Senior BECCS researcher. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.379027
+date: 2026-10-11T02:33:00.414860
 url: "/cdr-researcher-census/researchers/jlb-walker-a5019115/"
 layout: "researcher"
 hiddenInHomeList: true

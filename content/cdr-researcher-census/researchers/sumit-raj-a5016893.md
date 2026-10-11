@@ -1,7 +1,7 @@
 ---
 title: "Sumit Raj"
 description: "Sumit Raj is a Mid-career Soil Carbon researcher at Patna Medical College and Hospital in IN. With 50 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.894045
+date: 2026-10-11T02:32:59.922645
 url: "/cdr-researcher-census/researchers/sumit-raj-a5016893/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    32 citations · General CDR
 
 2. **Soil Management Practices to Enhance Carbon Sequestration Rates- A Review** (2023)
-   10 citations · General CDR
+   12 citations · General CDR
 
 3. **Soil Carbon Sequestration in the Age of Climate Change: A Review** (2023)
    2 citations · General CDR

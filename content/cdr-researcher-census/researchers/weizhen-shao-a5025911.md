@@ -1,7 +1,7 @@
 ---
 title: "Weizhen Shao"
 description: "Weizhen Shao is a Mid-career Biochar researcher at Nanjing Forestry University in CN. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.509777
+date: 2026-10-11T02:32:59.522936
 url: "/cdr-researcher-census/researchers/weizhen-shao-a5025911/"
 layout: "researcher"
 hiddenInHomeList: true

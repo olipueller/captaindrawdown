@@ -1,7 +1,7 @@
 ---
 title: "Floriane Jamoteau"
 description: "Floriane Jamoteau is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 31 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.304587
+date: 2026-10-11T02:33:00.335566
 url: "/cdr-researcher-census/researchers/floriane-jamoteau-a5040447/"
 layout: "researcher"
 hiddenInHomeList: true

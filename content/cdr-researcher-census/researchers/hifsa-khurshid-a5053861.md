@@ -1,7 +1,7 @@
 ---
 title: "Hifsa Khurshid"
 description: "Hifsa Khurshid is a Mid-career Biochar researcher at King Fahd University of Petroleum and Minerals in SA. With 29 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.532566
+date: 2026-10-11T02:32:59.546813
 url: "/cdr-researcher-census/researchers/hifsa-khurshid-a5053861/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Adsorption of chromium, copper, lead and mercury ions from aqueous solution using bio and nano adsorbents: A review of recent trends in the application of AC, BC, nZVI and MXene** (2022)
-   77 citations
+   78 citations
 
-2. **A Comprehensive Insight on Adsorption of Polyaromatic Hydrocarbons, Chemical Oxygen Demand, Pharmaceuticals, and Chemical Dyes in Wastewaters Using Biowaste Carbonaceous Adsorbents** (2022)
+2. **Evaluation of Contemporary Computational Techniques to Optimize Adsorption Process for Simultaneous Removal of COD and TOC in Wastewater** (2022)
    12 citations · Biochar
 
-3. **Evaluation of Contemporary Computational Techniques to Optimize Adsorption Process for Simultaneous Removal of COD and TOC in Wastewater** (2022)
-   11 citations · Biochar
+3. **A Comprehensive Insight on Adsorption of Polyaromatic Hydrocarbons, Chemical Oxygen Demand, Pharmaceuticals, and Chemical Dyes in Wastewaters Using Biowaste Carbonaceous Adsorbents** (2022)
+   12 citations · Biochar
 
 ## External Profiles
 

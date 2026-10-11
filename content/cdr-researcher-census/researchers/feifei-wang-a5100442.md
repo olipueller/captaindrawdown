@@ -1,7 +1,7 @@
 ---
 title: "Feifei Wang"
 description: "Feifei Wang is a Senior Soil Carbon researcher at Huazhong University of Science and Technology in CN. With 64 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.155989
+date: 2026-10-11T02:32:59.160418
 url: "/cdr-researcher-census/researchers/feifei-wang-a5100442/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Conservation tillage facilitated soil carbon sequestration through diversified carbon conversions** (2022)
-   63 citations · Soil Carbon
+   65 citations · Soil Carbon
 
 2. **Source and stability of soil organic carbon jointly regulate soil carbon pool, but source alteration is more effective in mangrove ecosystem following Spartina alterniflora invasion** (2023)
-   42 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 3. **Loss of microbial functional diversity following Spartina alterniflora invasion reduces the potential of carbon sequestration and nitrogen removal in mangrove sediments—from a gene perspective** (2024)
    30 citations · Soil Carbon
@@ -66,7 +66,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Soil Carbon
 
 6. **A machine learning framework for modeling and upscaling mangrove carbon productivity (ML-MCP)** (2025)
-   4 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

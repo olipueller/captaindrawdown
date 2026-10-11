@@ -1,7 +1,7 @@
 ---
 title: "Yijia Zhang"
 description: "Yijia Zhang is a Mid-career General CDR researcher at Beijing Institute of Technology in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.989693
+date: 2026-10-11T02:33:00.020542
 url: "/cdr-researcher-census/researchers/yijia-zhang-a5002011/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Potential of ecosystem carbon sinks to “neutralize” carbon emissions: A case study of Qinghai in west China and a tale of two stages** (2022)
-   14 citations · General CDR
+   13 citations · General CDR
 
 ## External Profiles
 

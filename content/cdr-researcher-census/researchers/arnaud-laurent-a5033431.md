@@ -1,7 +1,7 @@
 ---
 title: "﻿Arnaud Laurent"
 description: "﻿Arnaud Laurent is a Senior Ocean CDR researcher at Dalhousie University in CA. With 80 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.180850
+date: 2026-10-11T02:32:59.184880
 url: "/cdr-researcher-census/researchers/arnaud-laurent-a5033431/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,21 +51,21 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Modelling considerations for research on ocean alkalinity enhancement (OAE)** (2023)
-   39 citations · General CDR
+   60 citations · General CDR
 
 2. **Modeling considerations for research on Ocean Alkalinity Enhancement (OAE)** (2023)
    21 citations · General CDR
 
 3. **Maximizing the Detectability of Ocean Alkalinity Enhancement (OAE) While Minimizing Its Exposure Risks: Insights From a Numerical Study** (2025)
-   12 citations · General CDR
+   14 citations · General CDR
 
-4. **A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord** (2025)
+4. **A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord** (2026)
+   6 citations · General CDR
+
+5. **A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord** (2025)
    3 citations
 
-5. **Prospective site-specific life cycle assessment of ocean alkalinity enhancement** (2026)
-   2 citations · General CDR
-
-6. **A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord** (2026)
+6. **Prospective site-specific life cycle assessment of ocean alkalinity enhancement** (2026)
    2 citations · General CDR
 
 7. **Numerical dye tracer experiments in Bedford Basin in support of Ocean Alkalinity Enhancement research** (2024)

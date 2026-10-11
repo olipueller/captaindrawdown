@@ -1,7 +1,7 @@
 ---
 title: "Pengfei Zhao"
 description: "Pengfei Zhao is a Senior Soil Carbon researcher at Guangxi University in CN. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.059583
+date: 2026-10-11T02:33:00.089334
 url: "/cdr-researcher-census/researchers/pengfei-zhao-a5101654/"
 layout: "researcher"
 hiddenInHomeList: true

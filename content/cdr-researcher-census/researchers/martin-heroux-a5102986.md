@@ -1,7 +1,7 @@
 ---
 title: "Martin Héroux"
 description: "Martin Héroux is a Senior Soil Carbon researcher at Université de Sherbrooke in CA. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.773155
+date: 2026-10-11T02:32:59.796199
 url: "/cdr-researcher-census/researchers/martin-heroux-a5102986/"
 layout: "researcher"
 hiddenInHomeList: true

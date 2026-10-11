@@ -1,7 +1,7 @@
 ---
 title: "Moses Shyam Davala"
 description: "Moses Shyam Davala is a Mid-career Biochar researcher at International Crops Research Institute for the Semi-Arid Tropics in IN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.219141
+date: 2026-10-11T02:33:00.249470
 url: "/cdr-researcher-census/researchers/moses-shyam-davala-a5035322/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Harnessing the potential of pigeonpea and maize feedstock biochar for carbon sequestration, energy generation, and environmental sustainability** (2024)
-   34 citations
+   37 citations
 
 2. **Harnessing the Potential of Pigeonpea and Maize Feedstock Biochar for Carbon Sequestration, Energy Generation, and Environmental Sustainability** (2023)
    1 citations · Biochar

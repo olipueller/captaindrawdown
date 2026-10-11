@@ -1,7 +1,7 @@
 ---
 title: "Jérôme Gennen"
 description: "Jérôme Gennen is a Senior Biochar researcher. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.334422
+date: 2026-10-11T02:32:59.340218
 url: "/cdr-researcher-census/researchers/jerome-gennen-a5048557/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biogas residues in the battle for terrestrial carbon sequestration: A comparative decomposition study in the grassland soils of the Greater Region** (2021)
-   13 citations · Biochar
+   14 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Souvik Paul"
 description: "Souvik Paul is a Senior Soil Carbon researcher at Chicago Department of Public Health in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.034785
+date: 2026-10-11T02:33:00.065770
 url: "/cdr-researcher-census/researchers/souvik-paul-a5005096/"
 layout: "researcher"
 hiddenInHomeList: true

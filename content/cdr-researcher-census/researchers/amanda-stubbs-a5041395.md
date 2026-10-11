@@ -1,7 +1,7 @@
 ---
 title: "Amanda Stubbs"
 description: "Amanda Stubbs is a Senior Enhanced Weathering researcher at Royal Bank of Scotland (United Kingdom) in GB. With 57 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.416044
+date: 2026-10-11T02:32:59.425966
 url: "/cdr-researcher-census/researchers/amanda-stubbs-a5041395/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Evaluating feedstocks for carbon dioxide removal by enhanced rock weathering and CO2 mineralization** (2021)
-   56 citations · Enhanced Weathering
+   57 citations · Enhanced Weathering
 
 2. **Rates of atmospheric CO2 capture using magnesium oxide powder** (2022)
    46 citations
 
 3. **Direct measurement of CO2 drawdown in mine wastes and rock powders: Implications for enhanced rock weathering** (2021)
-   44 citations · Enhanced Weathering
+   45 citations · Enhanced Weathering
 
 4. **Cation Exchange in Smectites as a New Approach to Mineral Carbonation** (2022)
    30 citations · Enhanced Weathering

@@ -1,7 +1,7 @@
 ---
 title: "Valters Samariks"
 description: "Valters Samariks is a Mid-career Soil Carbon researcher at Latvian State Forest Research Institute \"Silava\" in LV. With 32 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.266377
+date: 2026-10-11T02:33:00.296354
 url: "/cdr-researcher-census/researchers/valters-samariks-a5081565/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiaoling Bu"
 description: "Xiaoling Bu is a Mid-career Biochar researcher at Beijing University of Chinese Medicine in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.061897
+date: 2026-10-11T02:33:00.091897
 url: "/cdr-researcher-census/researchers/xiaoling-bu-a5032016/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Comparing the linkages between carbon components and soil aggregates in vegetable fields to continuous input of different carbon sources** (2025)
-   3 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

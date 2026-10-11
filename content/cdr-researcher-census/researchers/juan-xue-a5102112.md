@@ -1,7 +1,7 @@
 ---
 title: "Juan Xue"
 description: "Juan Xue is a Mid-career Soil Carbon researcher at Ministry of Natural Resources in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.900768
+date: 2026-10-11T02:32:59.930070
 url: "/cdr-researcher-census/researchers/juan-xue-a5102112/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · Soil Carbon
 
 2. **From active biomarkers to legacy effects: Linking microbial life strategies to carbon sequestration in alpine grassland restoration** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 3. **Deciphering moisture-driven divergence in soil carbon limitation via microbial necromass dynamics across arid versus humid alpine grassland restoration chronosequences** (2025)
    2 citations · Soil Carbon
 
 4. **Revealing Divergence in Soil Carbon Limitation Through Microbial Necromass in Humid and Arid Chronosequences of Alpine Grassland Restoration** (2025)
    1 citations · Soil Carbon
+
+5. **Climate filtering of soil food webs drives divergent bottom-up and top-down regulation during grasslands recovery** (2026)
+   0 citations
 
 ## External Profiles
 

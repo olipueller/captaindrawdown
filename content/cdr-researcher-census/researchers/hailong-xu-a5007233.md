@@ -1,7 +1,7 @@
 ---
 title: "Hailong Xu"
 description: "Hailong Xu is a Mid-career Soil Carbon researcher. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.381509
+date: 2026-10-11T02:33:00.417325
 url: "/cdr-researcher-census/researchers/hailong-xu-a5007233/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,10 +43,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Rhizosphere microecological mechanism of carbon sequestration and its emission mitigation in rice ratooning** (2024)
-   12 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 2. **Mechanisms of high yield formation and carbon budget surplus in ratoon rice and its rhizosphere microecological responses** (2025)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

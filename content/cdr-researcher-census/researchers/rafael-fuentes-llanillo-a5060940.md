@@ -1,7 +1,7 @@
 ---
 title: "Rafael Fuentes-Llanillo"
 description: "Rafael Fuentes-Llanillo is a Mid-career Soil Carbon researcher at Instituto Agronômico do Paraná in BR. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.907924
+date: 2026-10-11T02:32:59.937436
 url: "/cdr-researcher-census/researchers/rafael-fuentes-llanillo-a5060940/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **No-Tillage System: A genuine Brazilian technology that meets current global demands** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
+
+2. **The carbon harvest: Unlocking the Value of Environmental Underground Economy into Farm Revenue** (2026)
+   0 citations
 
 ## External Profiles
 

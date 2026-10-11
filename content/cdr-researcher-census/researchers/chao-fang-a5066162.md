@@ -1,7 +1,7 @@
 ---
 title: "Chao Fang"
 description: "Chao Fang is a Senior Soil Carbon researcher at Nanjing University of Information Science and Technology in CN. With 69 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.167286
+date: 2026-10-11T02:32:59.171523
 url: "/cdr-researcher-census/researchers/chao-fang-a5066162/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The formation of humic acid and micro-aggregates facilitated long-time soil organic carbon sequestration after Medicago sativa L. introduction on abandoned farmlands** (2024)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 2. **Distinct mechanisms of soil organic carbon formation in natural and legume-based grasslands on the Loess Plateau, China** (2025)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 3. **Soil organic carbon and nitrogen sequestration following grazing exclusion on the Loess Plateau, China** (2023)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 4. **Decreased temperature sensitivity of soil respiration induced by warming slowed topsoil carbon turnover in a semi-arid grassland** (2022)
    10 citations · Soil Carbon
@@ -68,7 +68,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 6. **How to develop nature-based solutions for revegetation on abandoned farmland in the Loess Plateau of China?** (2024)
    9 citations · Soil Carbon
 
-7. **A Dual Soil Carbon Framework for Enhanced Silicate Rock Weathering: Integrating Organic and Inorganic Carbon Pathways Across Forest and Cropland Ecosystems** (2026)
+7. **Plant and microbial pathways driving soil carbon sequestration in dryland leguminous shrublands** (2026)
+   3 citations · Soil Carbon
+
+8. **A Dual Soil Carbon Framework for Enhanced Silicate Rock Weathering: Integrating Organic and Inorganic Carbon Pathways Across Forest and Cropland Ecosystems** (2026)
    1 citations · Enhanced Weathering
 
 ## External Profiles

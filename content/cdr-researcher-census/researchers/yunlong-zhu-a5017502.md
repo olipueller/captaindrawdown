@@ -1,7 +1,7 @@
 ---
 title: "Yunlong Zhu"
 description: "Yunlong Zhu is a Mid-career Biochar researcher at Harbin Engineering University in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.286083
+date: 2026-10-11T02:33:00.316143
 url: "/cdr-researcher-census/researchers/yunlong-zhu-a5017502/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Amira Askri"
 description: "Amira Askri is a Mid-career Soil Carbon researcher at United Arab Emirates University in AE. With 14 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.023133
+date: 2026-10-11T02:33:00.054492
 url: "/cdr-researcher-census/researchers/amira-askri-a5005722/"
 layout: "researcher"
 hiddenInHomeList: true

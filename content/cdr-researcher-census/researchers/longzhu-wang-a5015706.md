@@ -1,7 +1,7 @@
 ---
 title: "Longzhu Wang"
 description: "Longzhu Wang is an Early-career Soil Carbon researcher. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.775688
+date: 2026-10-11T02:32:59.798830
 url: "/cdr-researcher-census/researchers/longzhu-wang-a5015706/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon sequestration of Chinese forests from 2010 to 2060: spatiotemporal dynamics and its regulatory strategies** (2021)
-   192 citations · Soil Carbon
+   191 citations · Soil Carbon
 
 ## External Profiles
 

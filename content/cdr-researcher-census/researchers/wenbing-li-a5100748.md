@@ -1,7 +1,7 @@
 ---
 title: "Wenbing Li"
 description: "Wenbing Li is a Senior Biochar researcher at Wuhan University of Science and Technology in CN. With 35 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.365908
+date: 2026-10-11T02:32:59.373159
 url: "/cdr-researcher-census/researchers/wenbing-li-a5100748/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Facile synthesis of magnetic Ce-Fe3O4/banana peel biochar nanocomposite by in situ self-activation for enhanced Rhodamine B removal: Performance and mechanism** (2025)
-   2 citations · Biochar
+   3 citations · Biochar
 
 2. **Preparation of Heterogeneous Nano Composite Based on Biochar Synergistically Using Fe3O4 and Cerium** (2026)
    0 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Biplov Oli"
 description: "Biplov Oli is an Early-career Soil Carbon researcher at Florida International University in US. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.737577
+date: 2026-10-11T02:32:59.759640
 url: "/cdr-researcher-census/researchers/biplov-oli-a5072717/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biochar application: A sustainable approach to improve soil health** (2023)
-   256 citations · Biochar
+   258 citations · Biochar
 
 2. **Greenhouse Gases (GHG) Emissions from Agricultural Soil: A Review** (2024)
    3 citations · Soil Carbon

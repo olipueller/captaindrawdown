@@ -1,7 +1,7 @@
 ---
 title: "Zhe Zhao"
 description: "Zhe Zhao is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.012252
+date: 2026-10-11T02:33:00.043153
 url: "/cdr-researcher-census/researchers/zhe-zhao-a5071336/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Enhancing Sustainable Agriculture in China: A Meta-Analysis of the Impact of Straw and Manure on Crop Yield and Soil Fertility** (2024)
-   27 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 ## External Profiles
 

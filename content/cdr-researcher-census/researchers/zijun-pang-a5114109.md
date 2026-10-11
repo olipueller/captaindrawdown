@@ -1,7 +1,7 @@
 ---
 title: "Zijun Pang"
 description: "Zijun Pang is a Mid-career Biochar researcher at Qinghai University in CN. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.396565
+date: 2026-10-11T02:32:59.405463
 url: "/cdr-researcher-census/researchers/zijun-pang-a5114109/"
 layout: "researcher"
 hiddenInHomeList: true

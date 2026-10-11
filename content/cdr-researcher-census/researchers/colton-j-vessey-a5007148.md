@@ -1,7 +1,7 @@
 ---
 title: "Colton J. Vessey"
 description: "Colton J. Vessey is a Mid-career Enhanced Weathering researcher at University of Alberta in CA. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.946729
+date: 2026-10-11T02:32:59.976838
 url: "/cdr-researcher-census/researchers/colton-j-vessey-a5007148/"
 layout: "researcher"
 hiddenInHomeList: true

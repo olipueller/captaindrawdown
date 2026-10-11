@@ -1,7 +1,7 @@
 ---
 title: "Toshiya Oga"
 description: "Toshiya Oga is a Senior Soil Carbon researcher. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.369612
+date: 2026-10-11T02:33:00.405217
 url: "/cdr-researcher-census/researchers/toshiya-oga-a5091408/"
 layout: "researcher"
 hiddenInHomeList: true

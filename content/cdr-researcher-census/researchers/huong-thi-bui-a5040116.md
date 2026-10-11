@@ -1,7 +1,7 @@
 ---
 title: "Huong-Thi Bui"
 description: "Huong-Thi Bui is a Mid-career Soil Carbon researcher at Chungbuk National University in KR. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.166324
+date: 2026-10-11T02:33:00.196430
 url: "/cdr-researcher-census/researchers/huong-thi-bui-a5040116/"
 layout: "researcher"
 hiddenInHomeList: true

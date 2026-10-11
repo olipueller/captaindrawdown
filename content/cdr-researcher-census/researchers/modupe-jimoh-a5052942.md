@@ -1,7 +1,7 @@
 ---
 title: "Modupe Jimoh"
 description: "Modupe Jimoh is a Mid-career Biochar researcher at University of Warwick in GB. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.341281
+date: 2026-10-11T02:33:00.375636
 url: "/cdr-researcher-census/researchers/modupe-jimoh-a5052942/"
 layout: "researcher"
 hiddenInHomeList: true

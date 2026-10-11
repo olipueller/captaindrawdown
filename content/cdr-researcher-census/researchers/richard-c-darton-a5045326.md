@@ -1,7 +1,7 @@
 ---
 title: "Richard C. Darton"
 description: "Richard C. Darton is a Senior Enhanced Weathering researcher at University of Oxford in GB. With 83 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.105473
+date: 2026-10-11T02:32:59.110122
 url: "/cdr-researcher-census/researchers/richard-c-darton-a5045326/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Kinetics-informed global assessment of mine tailings for CO2 removal** (2021)
-   50 citations · Enhanced Weathering
+   51 citations · Enhanced Weathering
 
-2. **Potential of enhanced weathering of calcite in packed bubble columns with seawater for carbon dioxide removal** (2021)
-   25 citations · Enhanced Weathering
+2. **Numerical Modeling and Comparative Analysis of Electrolysis and Electrodialysis Systems for Direct Air Capture** (2024)
+   26 citations · DAC
 
-3. **Numerical Modeling and Comparative Analysis of Electrolysis and Electrodialysis Systems for Direct Air Capture** (2024)
-   24 citations · DAC
+3. **Potential of enhanced weathering of calcite in packed bubble columns with seawater for carbon dioxide removal** (2021)
+   26 citations · Enhanced Weathering
 
 4. **Enhanced weathering to capture atmospheric carbon dioxide: Modeling of a trickle‐bed reactor** (2021)
    16 citations · Enhanced Weathering

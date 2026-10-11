@@ -1,7 +1,7 @@
 ---
 title: "Jieyuan Liu"
 description: "Jieyuan Liu is a Mid-career DAC researcher at University of Toronto in CA. With 37 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.079390
+date: 2026-10-11T02:32:59.084196
 url: "/cdr-researcher-census/researchers/jieyuan-liu-a5024820/"
 layout: "researcher"
 hiddenInHomeList: true

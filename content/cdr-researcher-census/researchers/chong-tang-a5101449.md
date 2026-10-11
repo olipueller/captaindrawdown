@@ -1,7 +1,7 @@
 ---
 title: "Chong Tang"
 description: "Chong Tang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.088644
+date: 2026-10-11T02:33:00.119267
 url: "/cdr-researcher-census/researchers/chong-tang-a5101449/"
 layout: "researcher"
 hiddenInHomeList: true

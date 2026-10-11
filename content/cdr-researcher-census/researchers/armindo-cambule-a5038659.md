@@ -1,7 +1,7 @@
 ---
 title: "Armindo Cambule"
 description: "Armindo Cambule is a Senior Soil Carbon researcher at Universidade Eduardo Mondlane in MZ. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.645169
+date: 2026-10-11T02:32:59.663768
 url: "/cdr-researcher-census/researchers/armindo-cambule-a5038659/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,6 +51,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Vegetation succession enhances soil organic carbon sequestration by modulating microbial carbon cycling genes in coastal marshes, eastern China** (2026)
+   0 citations · Soil Carbon
+
+2. **[Effects of Salt-tolerant Rice Cultivation on Organic Carbon Pool and Carbon Conversion Enzyme Activities in Coastal Saline Soil].** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

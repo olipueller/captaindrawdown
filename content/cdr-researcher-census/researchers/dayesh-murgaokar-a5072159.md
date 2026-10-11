@@ -1,7 +1,7 @@
 ---
 title: "Dayesh Murgaokar"
 description: "Dayesh Murgaokar is a Mid-career Soil Carbon researcher at Central Coastal Agricultural Research Institute in IN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.996680
+date: 2026-10-11T02:33:00.027712
 url: "/cdr-researcher-census/researchers/dayesh-murgaokar-a5072159/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "David Daniel Joh Dina"
 description: "David Daniel Joh Dina is a Mid-career Biochar researcher at University of Douala in CM. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.213054
+date: 2026-10-11T02:33:00.243148
 url: "/cdr-researcher-census/researchers/david-daniel-joh-dina-a5110876/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synthesis of pozzolan and sugarcane bagasse derived geopolymer-biochar composites for methylene blue sequestration from aqueous medium** (2022)
-   51 citations · Biochar
+   52 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Xiaomeng Wei"
 description: "Xiaomeng Wei is a Senior Soil Carbon researcher at Union Hospital in CN. With 90 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.072032
+date: 2026-10-11T02:32:59.076709
 url: "/cdr-researcher-census/researchers/xiaomeng-wei-a5108697/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Decreasing microbial phosphorus limitation increases soil carbon release** (2022)
-   125 citations · Soil Carbon
+   129 citations · Soil Carbon
 
 2. **Intercropping regulates plant- and microbe-derived carbon accumulation by influencing soil physicochemical and microbial physiological properties** (2024)
-   79 citations · Soil Carbon
+   81 citations · Soil Carbon
 
 3. **Differential contribution of microbial and plant-derived organic matter to soil organic carbon sequestration over two decades of natural revegetation and cropping** (2024)
-   17 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 4. **Microbial metabolism strengths carbon sequestration and crop yield in upland red soil after long-term ex situ incorporation of straw** (2024)
    5 citations · Soil Carbon

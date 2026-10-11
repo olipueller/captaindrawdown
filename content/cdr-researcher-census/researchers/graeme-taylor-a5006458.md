@@ -1,7 +1,7 @@
 ---
 title: "Graeme Taylor"
 description: "Graeme Taylor is a Senior General CDR researcher at TB Alliance in US. With 39 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.536745
+date: 2026-10-11T02:32:59.551504
 url: "/cdr-researcher-census/researchers/graeme-taylor-a5006458/"
 layout: "researcher"
 hiddenInHomeList: true

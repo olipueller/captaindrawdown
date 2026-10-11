@@ -1,7 +1,7 @@
 ---
 title: "Matthew E. Sherman"
 description: "Matthew E. Sherman is a Senior BECCS researcher at University of Maryland, Baltimore in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.018489
+date: 2026-10-11T02:33:00.049801
 url: "/cdr-researcher-census/researchers/matthew-e-sherman-a5046389/"
 layout: "researcher"
 hiddenInHomeList: true

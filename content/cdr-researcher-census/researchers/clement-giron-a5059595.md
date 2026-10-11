@@ -1,7 +1,7 @@
 ---
 title: "Clément Giron"
 description: "Clément Giron is a Mid-career General CDR researcher. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.194036
+date: 2026-10-11T02:32:59.198023
 url: "/cdr-researcher-census/researchers/clement-giron-a5059595/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Comparing national greenhouse gas budgets reported in UNFCCC inventories against atmospheric inversions** (2022)
-   210 citations · General CDR
+   230 citations · General CDR
 
 2. **Comparing national greenhouse gas budgets reported in UNFCCC inventories against atmospheric inversions** (2021)
    29 citations

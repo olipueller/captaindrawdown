@@ -1,7 +1,7 @@
 ---
 title: "Marianne Zanon-Zotin"
 description: "Marianne Zanon-Zotin is a Mid-career General CDR researcher at Utrecht University in NL. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.136476
+date: 2026-10-11T02:33:00.166791
 url: "/cdr-researcher-census/researchers/marianne-zanon-zotin-a5059119/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Industrial sector pathways to a well-below 2 °C world: A global integrated assessment perspective** (2024)
-   10 citations · General CDR
+   11 citations · General CDR
 
 ## External Profiles
 

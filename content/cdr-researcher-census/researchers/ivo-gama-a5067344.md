@@ -1,7 +1,7 @@
 ---
 title: "Ivo Gama"
 description: "Ivo Gama is a Mid-career Soil Carbon researcher at Universidade do Porto in PT. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.110126
+date: 2026-10-11T02:33:00.140822
 url: "/cdr-researcher-census/researchers/ivo-gama-a5067344/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,6 +54,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    14 citations · General CDR
 
 2. **Advancing Integrated Fire Management and Closer-to-Nature Forest Management: A Holistic Approach to Wildfire Risk Reduction and Ecosystem Resilience in Quinta da França, Portugal** (2025)
+   7 citations
+
+3. **Advancing Integrated Fire Management and Closer-to-Nature Forest Management: A Holistic Approach to Wildfire Risk Reduction and Ecosystem Resilience in Quinta da França, Portugal** (2025)
    2 citations
 
 ## External Profiles

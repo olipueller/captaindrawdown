@@ -1,7 +1,7 @@
 ---
 title: "Kristiina Lång"
 description: "Kristiina Lång is a Mid-career Soil Carbon researcher at Natural Resources Institute Finland in FI. With 41 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.480431
+date: 2026-10-11T02:32:59.491780
 url: "/cdr-researcher-census/researchers/kristiina-lang-a5025641/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Impact of crop type on the greenhouse gas (GHG) emissions of a rewetted cultivated peatland** (2024)
-   7 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 2. **Offset ratios and temporary contract designs for climate integrity in carbon farming** (2024)
-   3 citations · General CDR
+   4 citations · General CDR
 
 3. **Improved subsurface drainage increased small grain cereal yield but not the soil carbon stock of a boreal clay soil** (2026)
    1 citations · Soil Carbon

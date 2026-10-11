@@ -1,7 +1,7 @@
 ---
 title: "Qinsi He"
 description: "Qinsi He is a Mid-career Soil Carbon researcher at University of Technology Sydney in AU. With 28 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.279105
+date: 2026-10-11T02:32:59.283438
 url: "/cdr-researcher-census/researchers/qinsi-he-a5039597/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Optimizing cover crop practices as a sustainable solution for global agroecosystem services** (2024)
-   102 citations · Soil Carbon
+   109 citations · Soil Carbon
 
 2. **Identifying effective agricultural management practices for climate change adaptation and mitigation: A win-win strategy in South-Eastern Australia** (2022)
-   41 citations · General CDR
+   40 citations · General CDR
 
 3. **Reconciling the climate–productivity trade-off in cover cropping systems for agrifood transitions** (2026)
    0 citations

@@ -1,7 +1,7 @@
 ---
 title: "Shujing Zhu"
 description: "Shujing Zhu is a Senior Biochar researcher at Fujian Medical University in CN. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.267639
+date: 2026-10-11T02:32:59.271666
 url: "/cdr-researcher-census/researchers/shujing-zhu-a5100533/"
 layout: "researcher"
 hiddenInHomeList: true

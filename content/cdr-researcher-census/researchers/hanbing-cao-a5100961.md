@@ -1,7 +1,7 @@
 ---
 title: "Hanbing Cao"
 description: "Hanbing Cao is a Senior Soil Carbon researcher at Shanxi Agricultural University in CN. With 35 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.212910
+date: 2026-10-11T02:32:59.216838
 url: "/cdr-researcher-census/researchers/hanbing-cao-a5100961/"
 layout: "researcher"
 hiddenInHomeList: true

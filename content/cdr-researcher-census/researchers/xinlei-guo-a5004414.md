@@ -1,7 +1,7 @@
 ---
 title: "Xinlei Guo"
 description: "Xinlei Guo is a Mid-career Biochar researcher at China University of Mining and Technology in CN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.600418
+date: 2026-10-11T02:32:59.617410
 url: "/cdr-researcher-census/researchers/xinlei-guo-a5004414/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhanced sulfate adsorption in mine water via Fe-Zr bimetal modified ginkgo leaf-derived biochar: Mechanistic insights and DFT calculations** (2025)
-   4 citations · Biochar
+   5 citations · Biochar
 
 ## External Profiles
 

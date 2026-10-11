@@ -1,7 +1,7 @@
 ---
 title: "Claire Soligot"
 description: "Claire Soligot is a Senior Biochar researcher at Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement in FR. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.687475
+date: 2026-10-11T02:32:59.707711
 url: "/cdr-researcher-census/researchers/claire-soligot-a5011952/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effects of particle size and amendment rates of Sargassum biochar on chlordecone sequestration in West Indian soils** (2022)
-   8 citations · Biochar
+   9 citations · Biochar
 
 2. **The Effect of Granulometry of Carbonaceous Materials and Application Rates on the Availability of Soil-Bound Dichlorodiphenyltrichloroethane (DDT) and Its Metabolites** (2024)
    3 citations · Biochar

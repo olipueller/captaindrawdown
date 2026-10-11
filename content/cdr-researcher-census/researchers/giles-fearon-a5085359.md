@@ -1,7 +1,7 @@
 ---
 title: "Giles Fearon"
 description: "Giles Fearon is a Mid-career Ocean CDR researcher. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.392440
+date: 2026-10-11T02:33:00.429863
 url: "/cdr-researcher-census/researchers/giles-fearon-a5085359/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Do whales really increase the oceanic removal of atmospheric carbon?** (2023)
-   18 citations · General CDR
+   19 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Yuan Yao"
 description: "Yuan Yao is a Senior General CDR researcher at Yale University in US. With 119 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.041642
+date: 2026-10-11T02:32:59.044855
 url: "/cdr-researcher-census/researchers/yuan-yao-a5000537/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,34 +51,34 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **An integrated techno-economic and environmental assessment for carbon capture in hydrogen production by biomass gasification** (2022)
-   140 citations · BECCS
+   144 citations · BECCS
 
 2. **Sustainable aviation fuel pathways: Emissions, costs and uncertainty** (2025)
    75 citations · BECCS
 
 3. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   62 citations · General CDR
+   61 citations · General CDR
 
 4. **Techno-Economic and Life Cycle Assessment of Enhanced Rock Weathering: A Case Study from the Midwestern United States** (2023)
-   35 citations · Enhanced Weathering
+   36 citations · Enhanced Weathering
 
-5. **Dynamic life-cycle carbon analysis for fast pyrolysis biofuel produced from pine residues: implications of carbon temporal effects** (2021)
+5. **Life Cycle Assessment in the Monitoring, Reporting, and Verification of Land-Based Carbon Dioxide Removal: Gaps and Opportunities** (2025)
+   32 citations · General CDR
+
+6. **Dynamic life-cycle carbon analysis for fast pyrolysis biofuel produced from pine residues: implications of carbon temporal effects** (2021)
    30 citations · Biochar
 
-6. **Life Cycle Assessment in the Monitoring, Reporting, and Verification of Land-Based Carbon Dioxide Removal: Gaps and Opportunities** (2025)
-   27 citations · General CDR
-
 7. **Analyzing Co-Benefits and Rock Sourcing in Life Cycle and Techno-Economic Assessment of Enhanced Rock Weathering** (2026)
-   2 citations · Enhanced Weathering
+   4 citations · Enhanced Weathering
 
 8. **Correction to “Techno-Economic and Life Cycle Assessment of Enhanced Rock Weathering: A Case Study from the Midwestern United States”** (2023)
    2 citations · Enhanced Weathering
 
 9. **An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering** (2026)
-   0 citations · Enhanced Weathering
+   1 citations · Enhanced Weathering
 
 10. **Integrated Thermal and Phyto-Remediation of Agricultural Soils Impacted by PFAS** (2025)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

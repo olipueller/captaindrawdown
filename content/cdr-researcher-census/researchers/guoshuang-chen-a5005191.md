@@ -1,7 +1,7 @@
 ---
 title: "Guoshuang Chen"
 description: "Guoshuang Chen is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 33 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.583121
+date: 2026-10-11T02:32:59.599415
 url: "/cdr-researcher-census/researchers/guoshuang-chen-a5005191/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biochar promotes soil aggregate stability and associated organic carbon sequestration and regulates microbial community structures in Mollisols from northeast China** (2023)
-   45 citations · Biochar
+   54 citations · Biochar
 
 2. **The Residue Chemistry Transformation Linked to the Fungi Keystone Taxa during Different Residue Tissues Incorporation into Mollisols in Northeast China** (2024)
    7 citations · Soil Carbon
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations
 
 4. **Straw tissue quality influence the formation pathways of soil organic carbon via living microbes or microbial necromass in a Mollisols, Northeast China** (2025)
-   1 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 5. **Supplementary material to "Biochar promotes soil aggregate stability and associated organic carbon sequestration, and regulates microbial community structures in Mollisols from Northeast China"** (2022)
    1 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Deyin Tian"
 description: "Deyin Tian is an Early-career Biochar researcher at Hefei University of Technology in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.396997
+date: 2026-10-11T02:33:00.435247
 url: "/cdr-researcher-census/researchers/deyin-tian-a5102658/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Accelerated carbonation curing of biochar-cement mortar: Effects of biochar pyrolysis temperatures on carbon sequestration, mechanical properties and microstructure** (2024)
-   66 citations · Biochar
+   69 citations · Biochar
 
 2. **Biochar-enhanced cement composites as carbon sink under accelerated carbonation curing: Carbon sequestration potential stimulated by biochar porosity** (2025)
-   13 citations · Biochar
+   17 citations · Biochar
 
 ## External Profiles
 

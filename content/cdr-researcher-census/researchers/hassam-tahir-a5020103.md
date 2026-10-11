@@ -1,7 +1,7 @@
 ---
 title: "Hassam Tahir"
 description: "Hassam Tahir is a Mid-career Soil Carbon researcher at Hainan University in CN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.904582
+date: 2026-10-11T02:32:59.933813
 url: "/cdr-researcher-census/researchers/hassam-tahir-a5020103/"
 layout: "researcher"
 hiddenInHomeList: true

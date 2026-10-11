@@ -1,7 +1,7 @@
 ---
 title: "Derek Pierson"
 description: "Derek Pierson is a Mid-career Biochar researcher at Rocky Mountain Research Station in US. With 59 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.263869
+date: 2026-10-11T02:32:59.267994
 url: "/cdr-researcher-census/researchers/derek-pierson-a5015158/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Mineral stabilization of soil carbon is suppressed by live roots, outweighing influences from litter quality or quantity** (2021)
-   61 citations · Soil Carbon
+   60 citations · Soil Carbon
 
 2. **Biochar Utilization as a Forestry Climate-Smart Tool** (2024)
-   22 citations · Biochar
+   23 citations · Biochar
 
 3. **Competing Processes Drive the Resistance of Soil Carbon to Alterations in Organic Inputs** (2021)
    19 citations · Soil Carbon

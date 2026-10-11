@@ -1,7 +1,7 @@
 ---
 title: "Khandakar Rafiq Islam"
 description: "Khandakar Rafiq Islam is a Senior Soil Carbon researcher at The Ohio State University in US. With 52 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.333797
+date: 2026-10-11T02:32:59.339569
 url: "/cdr-researcher-census/researchers/khandakar-rafiq-islam-a5089251/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,16 +54,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    84 citations · Biochar
 
 2. **Deforestation impacts soil organic carbon and nitrogen pools and carbon lability under Mediterranean climates** (2022)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 3. **Conservation agriculture’s impact on total and labile organic carbon pools in calcareous and non-calcareous floodplain soils under a sub-tropical rice-based system** (2023)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
-4. **Alfalfa–organic amendments impact soil carbon sequestration and its lability in reclaimed loess** (2023)
+4. **Long-term continuous no-till corn-soybean systems: Examining soil carbon sequestration and nitrogen accumulation across various pools** (2025)
    5 citations · Soil Carbon
 
-5. **Long-term continuous no-till corn-soybean systems: Examining soil carbon sequestration and nitrogen accumulation across various pools** (2025)
-   4 citations · Soil Carbon
+5. **Alfalfa–organic amendments impact soil carbon sequestration and its lability in reclaimed loess** (2023)
+   5 citations · Soil Carbon
 
 6. **Shrub-Willow Living Snow Fences Impact on Soil Carbon and Nitrogen Pools and their Lability** (2024)
    0 citations · General CDR

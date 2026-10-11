@@ -1,7 +1,7 @@
 ---
 title: "Yasir Hanif Mir"
 description: "Yasir Hanif Mir is a Mid-career Soil Carbon researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir in IN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.025233
+date: 2026-10-11T02:33:00.056536
 url: "/cdr-researcher-census/researchers/yasir-hanif-mir-a5006362/"
 layout: "researcher"
 hiddenInHomeList: true

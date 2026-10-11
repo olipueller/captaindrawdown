@@ -1,7 +1,7 @@
 ---
 title: "Ying Wang"
 description: "Ying Wang is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 56 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.167606
+date: 2026-10-11T02:32:59.171805
 url: "/cdr-researcher-census/researchers/ying-wang-a5100347/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil Organic Carbon and Humus Characteristics: Response and Evolution to Long-Term Direct/Carbonized Straw Return to Field** (2024)
-   17 citations · Biochar
+   19 citations · Biochar
 
 2. **Soil microbial networks mediate long‐term effects of nitrogen fertilization on ecosystem multiservices** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 3. **Forms of nitrogen deposition shift soil microbial resource limitation and carbon use efficiency in temperate forest** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

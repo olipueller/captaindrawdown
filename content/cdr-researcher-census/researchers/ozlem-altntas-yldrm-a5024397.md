@@ -1,7 +1,7 @@
 ---
 title: "Özlem Altıntaş Yıldırım"
 description: "Özlem Altıntaş Yıldırım is a Senior Biochar researcher at Konya Technical University in TR. With 28 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.270398
+date: 2026-10-11T02:32:59.274473
 url: "/cdr-researcher-census/researchers/ozlem-altntas-yldrm-a5024397/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Removal of methylene blue using a novel generation photocatalyst based on nano-SnO <sub>2</sub> /wild plumb kernel shell biochar composite** (2022)
-   13 citations · Biochar
+   12 citations · Biochar
 
 2. **The Role and Significance of Biochars for the Photodegradation of Selected Organic Dyes in Water and Wastewater** (2024)
    3 citations · Biochar

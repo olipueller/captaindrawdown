@@ -1,7 +1,7 @@
 ---
 title: "T.S. Rajaraman"
-description: "T.S. Rajaraman is a Mid-career Biochar researcher at Gujarat University in IN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.523358
+description: "T.S. Rajaraman is a Mid-career Biochar researcher. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:32:59.502857
 url: "/cdr-researcher-census/researchers/ts-rajaraman-a5061252/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,18 +14,13 @@ robots: "index, follow"
   "@type": "Person",
   "name": "T.S. Rajaraman",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ts-rajaraman-a5061252/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Gujarat University"
-  },
   "sameAs": "https://openalex.org/A5061252404"
 }
 </script>
 
 ## Profile
 
-**T.S. Rajaraman**  
-Gujarat University · 🇮🇳 IN
+**T.S. Rajaraman**
 
 **Career Stage:** Mid-career
 
@@ -40,7 +35,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 445 |
+| Citations | 479 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
 | Trajectory | Growing |

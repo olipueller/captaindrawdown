@@ -1,7 +1,7 @@
 ---
 title: "Kyle Hofstetter"
 description: "Kyle Hofstetter is a Mid-career DAC researcher at Venice International University in IT. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.286177
+date: 2026-10-11T02:32:59.290927
 url: "/cdr-researcher-census/researchers/kyle-hofstetter-a5065822/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Industrial scaling of molten carbonate electrolytic carbon capture and production of graphene allotropes** (2025)
-   7 citations
+   9 citations
 
 2. **Large-scale electrolytic molten carbonate carbon capture and transformation to carbon nanotubes and other graphene nanocarbons** (2025)
-   1 citations · DAC
+   2 citations · DAC
 
 ## External Profiles
 

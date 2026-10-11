@@ -1,7 +1,7 @@
 ---
 title: "Bryce Van Dam"
 description: "Bryce Van Dam is a Mid-career Ocean CDR researcher at Helmholtz-Zentrum Hereon in DE. With 76 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.196758
+date: 2026-10-11T02:32:59.200719
 url: "/cdr-researcher-census/researchers/bryce-van-dam-a5012805/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,19 +50,22 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 ## Top CDR Publications
 
-1. **Calcification-driven CO2 emissions exceed “Blue Carbon” sequestration in a carbonate seagrass meadow** (2021)
+1. **Calcification-driven CO 2 emissions exceed “Blue Carbon” sequestration in a carbonate seagrass meadow** (2021)
+   95 citations
+
+2. **Calcification-driven CO2 emissions exceed “Blue Carbon” sequestration in a carbonate seagrass meadow** (2021)
    17 citations · Ocean CDR
 
-2. **Towards a fair, reliable, and practical verification framework for Blue Carbon-based CDR** (2024)
-   13 citations · General CDR
+3. **Towards a fair, reliable, and practical verification framework for Blue Carbon-based CDR** (2024)
+   14 citations · General CDR
 
-3. **Perspectives on Marine Carbon Dioxide Removal from the Global Ocean Acidification Observing Network** (2025)
+4. **Perspectives on Marine Carbon Dioxide Removal from the Global Ocean Acidification Observing Network** (2025)
    5 citations · General CDR
 
-4. **Minerogenic Salt Marsh Soil Responses to Increasing Rainfall Intensity and Soil CO2:&amp;#160;Implications for Alkalinity Generation** (2024)
+5. **Minerogenic Salt Marsh Soil Responses to Increasing Rainfall Intensity and Soil CO2:&amp;#160;Implications for Alkalinity Generation** (2024)
    0 citations · Ocean CDR
 
-5. **Comment on bg-2022-82** (2022)
+6. **Comment on bg-2022-82** (2022)
    0 citations
 
 ## External Profiles

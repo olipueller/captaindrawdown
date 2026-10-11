@@ -1,7 +1,7 @@
 ---
 title: "Lennel A. Camuy‐Vélez"
 description: "Lennel A. Camuy‐Vélez is a Mid-career Soil Carbon researcher at North Dakota State University in US. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.889081
+date: 2026-10-11T02:32:59.916649
 url: "/cdr-researcher-census/researchers/lennel-a-camuyvelez-a5058366/"
 layout: "researcher"
 hiddenInHomeList: true

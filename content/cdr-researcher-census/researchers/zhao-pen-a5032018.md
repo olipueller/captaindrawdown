@@ -1,7 +1,7 @@
 ---
 title: "Zhao Pen"
 description: "Zhao Pen is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 59 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.501456
+date: 2026-10-11T02:32:59.513966
 url: "/cdr-researcher-census/researchers/zhao-pen-a5032018/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term nitrogen addition raises the annual carbon sink of a boreal forest to a new steady-state** (2022)
-   24 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 2. **Shift in irrigation methods affects soil carbon dynamics: Respiration and its temperature-hysteresis responses, and carbon sequestration potential in vineyard** (2026)
    0 citations · Soil Carbon

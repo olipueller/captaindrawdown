@@ -1,7 +1,7 @@
 ---
 title: "Michael Baumecker"
 description: "Michael Baumecker is a Senior Soil Carbon researcher. With 51 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.227820
+date: 2026-10-11T02:32:59.231035
 url: "/cdr-researcher-census/researchers/michael-baumecker-a5057091/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,13 +43,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic carbon sequestration in agricultural long-term field experiments as derived from particulate and mineral-associated organic matter** (2023)
-   79 citations · Soil Carbon
+   83 citations · Soil Carbon
 
 2. **Organic Manure Increases Carbon Sequestration Far beyond the “4 per 1000 Initiative” Goal on a Sandy Soil in the Thyrow Long-Term Field Experiment DIV.2** (2022)
-   31 citations · General CDR
+   30 citations · General CDR
 
 3. **Effect of crop rotation and straw application in combination with mineral nitrogen fertilization on soil carbon sequestration in the Thyrow long-term experiment Thy_D5** (2022)
-   16 citations
+   17 citations
 
 4. **Effect of Crop Rotation and Straw Application in Combination With Mineral Nitrogen Fertilization on Soil Carbon Sequestration in the Thyrow Long-term Experiment Thy_D5** (2022)
    0 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Qiandong Zhu"
 description: "Qiandong Zhu is a Mid-career Soil Carbon researcher at Jinan University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.260174
+date: 2026-10-11T02:33:00.289967
 url: "/cdr-researcher-census/researchers/qiandong-zhu-a5049780/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Exploring the Worldwide Publishing, Research Progress and Hotspots on Soil Carbon Stocks from 2015 to 2024** (2025)
-   0 citations · General CDR
+   1 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Emily Pidgeon"
 description: "Emily Pidgeon is a Senior Ocean CDR researcher at Conservation International in US. With 35 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.065217
+date: 2026-10-11T02:32:59.069754
 url: "/cdr-researcher-census/researchers/emily-pidgeon-a5090618/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Carbon sequestration and climate change mitigation using macroalgae: a state of knowledge review** (2023)
-   177 citations · General CDR
+   179 citations · General CDR
 
 2. **Carbon removal and climate change mitigation by seaweed farming: A state of knowledge review** (2024)
-   84 citations · General CDR
+   88 citations · General CDR
 
 ## External Profiles
 

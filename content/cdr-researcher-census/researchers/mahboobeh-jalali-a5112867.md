@@ -1,7 +1,7 @@
 ---
 title: "Mahboobeh Jalali"
 description: "Mahboobeh Jalali is a Mid-career Soil Carbon researcher at Lorestan University in IR. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.293962
+date: 2026-10-11T02:33:00.324093
 url: "/cdr-researcher-census/researchers/mahboobeh-jalali-a5112867/"
 layout: "researcher"
 hiddenInHomeList: true

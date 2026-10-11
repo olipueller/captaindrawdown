@@ -1,7 +1,7 @@
 ---
 title: "Rajeev Kumar Srivastava"
 description: "Rajeev Kumar Srivastava is a Senior Biochar researcher at Govind Ballabh Pant University of Agriculture and Technology in IN. With 40 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.598892
+date: 2026-10-11T02:32:59.615790
 url: "/cdr-researcher-census/researchers/rajeev-kumar-srivastava-a5101814/"
 layout: "researcher"
 hiddenInHomeList: true

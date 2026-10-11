@@ -1,7 +1,7 @@
 ---
 title: "Benjamin Stuch"
 description: "Benjamin Stuch is a Mid-career Soil Carbon researcher at University of Kassel in DE. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.480684
+date: 2026-10-11T02:32:59.492044
 url: "/cdr-researcher-census/researchers/benjamin-stuch-a5008187/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Modeling the effect of land-based mitigation technologies on the carbon cycle and climate** (2023)
-   0 citations · General CDR
+   1 citations · General CDR
 
 ## External Profiles
 

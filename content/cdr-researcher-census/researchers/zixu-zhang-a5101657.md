@@ -1,7 +1,7 @@
 ---
 title: "Zixu Zhang"
 description: "Zixu Zhang is a Mid-career Soil Carbon researcher at State Forestry and Grassland Administration in CN. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.697697
+date: 2026-10-11T02:32:59.718095
 url: "/cdr-researcher-census/researchers/zixu-zhang-a5101657/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,14 +53,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Carbon isotopic measurements from coastal zone protected forests in northern China: Soil carbon decomposition assessment and its influencing factors** (2021)
    10 citations · Soil Carbon
 
-2. **Changes of microbial life history strategies to soil nutrient limitations following vegetation restoration and its impact on carbon utilization efficiency** (2025)
-   7 citations · Soil Carbon
+2. **Microbial life history strategies regulate soil organic carbon sequestration in response to thinning depending on microbial nutrient limitations** (2025)
+   8 citations · Soil Carbon
 
-3. **Thinning shelter forest reduced the soil priming effect and soil microbial respiration by altering the contribution of soil organic carbon from different sources** (2024)
-   7 citations · Soil Carbon
+3. **Changes of microbial life history strategies to soil nutrient limitations following vegetation restoration and its impact on carbon utilization efficiency** (2025)
+   8 citations · Soil Carbon
 
-4. **Microbial life history strategies regulate soil organic carbon sequestration in response to thinning depending on microbial nutrient limitations** (2025)
-   6 citations · Soil Carbon
+4. **Thinning shelter forest reduced the soil priming effect and soil microbial respiration by altering the contribution of soil organic carbon from different sources** (2024)
+   7 citations · Soil Carbon
 
 5. **Effects of thinning on soil microbial community and carbon fractions and their relationships in coastal protected forests** (2025)
    5 citations · Soil Carbon

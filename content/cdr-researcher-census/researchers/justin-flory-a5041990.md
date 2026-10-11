@@ -1,7 +1,7 @@
 ---
 title: "Justin Flory"
 description: "Justin Flory is a Mid-career DAC researcher at Planetary Science Institute in US. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.111664
+date: 2026-10-11T02:33:00.142594
 url: "/cdr-researcher-census/researchers/justin-flory-a5041990/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Moisture-driven CO2 pump for direct air capture** (2023)
-   26 citations
+   25 citations
 
 2. **Comprehensive structural characterization of charged polymers involved in moisture-driven direct air capture** (2026)
    1 citations

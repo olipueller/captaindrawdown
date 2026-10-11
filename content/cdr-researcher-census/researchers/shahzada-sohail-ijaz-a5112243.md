@@ -1,7 +1,7 @@
 ---
 title: "Shahzada Sohail Ijaz"
 description: "Shahzada Sohail Ijaz is a Mid-career Soil Carbon researcher at Pir Mehr Ali Shah Arid Agriculture University in PK. With 45 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.335295
+date: 2026-10-11T02:32:59.341113
 url: "/cdr-researcher-census/researchers/shahzada-sohail-ijaz-a5112243/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic carbon sequestration and modeling under conservation tillage and cropping systems in a rainfed agriculture** (2023)
-   48 citations · Soil Carbon
+   47 citations · Soil Carbon
 
 2. **Impacts of Conservation Tillage on Agricultural Land Development: A Review** (2024)
-   34 citations · Soil Carbon
+   36 citations · Soil Carbon
 
 3. **Combined Effects of Reduced Tillage and Strip Intercropping on Soil Carbon Sequestration in Semi-Arid Environment** (2025)
    8 citations · Soil Carbon

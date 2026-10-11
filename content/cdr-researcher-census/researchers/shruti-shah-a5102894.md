@@ -1,7 +1,7 @@
 ---
 title: "Shruti Shah"
 description: "Shruti Shah is a Senior BECCS researcher at Kumaun University in IN. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.152604
+date: 2026-10-11T02:33:00.182413
 url: "/cdr-researcher-census/researchers/shruti-shah-a5102894/"
 layout: "researcher"
 hiddenInHomeList: true

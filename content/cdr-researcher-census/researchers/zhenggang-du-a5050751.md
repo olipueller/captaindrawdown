@@ -1,7 +1,7 @@
 ---
 title: "Zhenggang Du"
 description: "Zhenggang Du is a Senior Soil Carbon researcher at 东北林业大学 in CN. With 67 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.133591
+date: 2026-10-11T02:32:59.138441
 url: "/cdr-researcher-census/researchers/zhenggang-du-a5050751/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    45 citations · Soil Carbon
 
 2. **Tradeoffs of fungal and bacterial residues mediate soil carbon dynamics under persistent drought in subtropical evergreen forests** (2022)
-   22 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 3. **A transition from arbuscular to ectomycorrhizal forests halts soil carbon sequestration during subtropical forest rewilding** (2024)
    4 citations · Soil Carbon

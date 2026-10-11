@@ -1,7 +1,7 @@
 ---
 title: "Olga Romzaykina"
 description: "Olga Romzaykina is a Mid-career General CDR researcher at Peoples' Friendship University of Russia in RU. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.738999
+date: 2026-10-11T02:32:59.761124
 url: "/cdr-researcher-census/researchers/olga-romzaykina-a5069876/"
 layout: "researcher"
 hiddenInHomeList: true

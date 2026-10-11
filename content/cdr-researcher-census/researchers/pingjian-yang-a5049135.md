@@ -1,7 +1,7 @@
 ---
 title: "Pingjian Yang"
 description: "Pingjian Yang is a Senior General CDR researcher at Chinese Research Academy of Environmental Sciences in CN. With 53 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.245843
+date: 2026-10-11T02:32:59.249695
 url: "/cdr-researcher-census/researchers/pingjian-yang-a5049135/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    35 citations · General CDR
 
 2. **Targeted carbon dioxide removal measures are essential for the cost and energy transformation of the electricity sector by 2050** (2025)
-   15 citations · General CDR
+   17 citations · General CDR
 
 3. **Deployment of carbon removal technologies could reduce the rapid and potentially disruptive pace of decarbonization in South Africa's climate ambitions** (2024)
-   6 citations · General CDR
+   5 citations · General CDR
 
 4. **Quantifying the Transformational Requirements of the Electricity Sector Under Uncertain Expectations of Carbon Removal** (2024)
    0 citations · General CDR

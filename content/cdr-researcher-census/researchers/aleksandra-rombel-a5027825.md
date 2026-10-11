@@ -1,7 +1,7 @@
 ---
 title: "Aleksandra Rombel"
 description: "Aleksandra Rombel is an Early-career Biochar researcher at Maria Curie-Skłodowska University in PL. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.999773
+date: 2026-10-11T02:33:00.030702
 url: "/cdr-researcher-census/researchers/aleksandra-rombel-a5027825/"
 layout: "researcher"
 hiddenInHomeList: true

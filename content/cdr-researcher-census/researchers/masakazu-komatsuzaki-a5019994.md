@@ -1,7 +1,7 @@
 ---
 title: "Masakazu Komatsuzaki"
 description: "Masakazu Komatsuzaki is a Senior Soil Carbon researcher at Japan International Research Center for Agricultural Sciences in JP. With 168 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.125412
+date: 2026-10-11T02:32:59.130085
 url: "/cdr-researcher-census/researchers/masakazu-komatsuzaki-a5019994/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -60,10 +60,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    19 citations · Soil Carbon
 
 4. **Addition of biochar decreased soil respiration in a permanent no-till cover crop system for organic soybean production** (2023)
-   10 citations · Biochar
+   12 citations · Biochar
 
 5. **Long‐term no‐tillage and rye cover crops affect soil biological indicators on Andosols in a humid, subtropical climate** (2022)
-   8 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 6. **Enhancing agroecosystem sustainability: Integrative soil health strategies in regenerative organic soybean production on Andosol in Japan** (2024)
    7 citations
@@ -72,13 +72,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Biochar
 
 8. **The Effects of Tillage Systems and Cover Crops on Soil Quality and Soybean Yield** (2024)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
-9. **No-tillage intercropping with a robotic mower: Advancing a high productivity, low-carbon and energy-efficient organic farming system** (2025)
+9. **Field Validation of the DNDC-Rice Model for Crop Yield, Nitrous Oxide Emissions and Carbon Sequestration in a Soybean System with Rye Cover Crop Management** (2025)
+   2 citations
+
+10. **No-tillage intercropping with a robotic mower: Advancing a high productivity, low-carbon and energy-efficient organic farming system** (2025)
    2 citations · Soil Carbon
-
-10. **No‐Tillage History and Residue Application Methods Regulate Net Carbon Balance via Contrasting Priming Responses in Andosols** (2026)
-   1 citations
 
 ## External Profiles
 

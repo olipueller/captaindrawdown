@@ -1,7 +1,7 @@
 ---
 title: "István Mihály Kulmány"
 description: "István Mihály Kulmány is a Mid-career Soil Carbon researcher at Széchenyi István University in HU. With 30 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.859123
+date: 2026-10-11T02:32:59.885897
 url: "/cdr-researcher-census/researchers/istvan-mihaly-kulmany-a5013745/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Utilizing Different Crop Rotation Systems for Agricultural and Environmental Sustainability: A Review** (2025)
-   36 citations · Soil Carbon
+   40 citations · Soil Carbon
 
 2. **Unveiling the Role of Edaphic Microalgae in Soil Carbon Sequestration: Potential for Agricultural Inoculants in Climate Change Mitigation** (2024)
    17 citations · Soil Carbon

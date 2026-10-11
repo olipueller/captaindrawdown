@@ -1,7 +1,7 @@
 ---
 title: "Tao Long"
 description: "Tao Long is a Mid-career Biochar researcher. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.012077
+date: 2026-10-11T02:33:00.043074
 url: "/cdr-researcher-census/researchers/tao-long-a5103235/"
 layout: "researcher"
 hiddenInHomeList: true

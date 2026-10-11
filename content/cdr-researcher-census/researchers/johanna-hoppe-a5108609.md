@@ -1,7 +1,7 @@
 ---
 title: "Johanna Hoppe"
 description: "Johanna Hoppe is an Early-career General CDR researcher at Technische Universität Berlin in DE. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.103450
+date: 2026-10-11T02:33:00.133933
 url: "/cdr-researcher-census/researchers/johanna-hoppe-a5108609/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Multiple pathways towards sustainable development goals and climate targets** (2024)
-   38 citations · General CDR
+   40 citations · General CDR
 
 2. **FEED Study of CarbonCapture Inc DAC and CarbonCure Utilization Technologies Using United States Steel’s Gary Works Plant Waste Heat (Final Report)** (2024)
    1 citations · DAC

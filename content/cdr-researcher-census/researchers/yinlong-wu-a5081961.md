@@ -1,7 +1,7 @@
 ---
 title: "Yinlong Wu"
 description: "Yinlong Wu is a Mid-career BECCS researcher at Sun Yat-sen University in CN. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.325639
+date: 2026-10-11T02:32:59.331380
 url: "/cdr-researcher-census/researchers/yinlong-wu-a5081961/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Energy and CO2 emission analysis of a Bio-Energy with CCS system: Biomass gasification-solid oxide fuel cell-mini gas turbine-CO2 capture** (2022)
-   54 citations · BECCS
+   53 citations · BECCS
 
 2. **Energy and Co2 Emission Analysis of a Bio-Energy with Ccs System: Biomass Gasification-Solid Oxide Fuel Cell-Mini Gas Turbine-Co2 Capture** (2022)
    2 citations · BECCS

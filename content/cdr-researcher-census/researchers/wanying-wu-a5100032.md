@@ -1,7 +1,7 @@
 ---
 title: "Wanying Wu"
 description: "Wanying Wu is an Early-career BECCS researcher at University of Wyoming in US. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.365280
+date: 2026-10-11T02:33:00.401016
 url: "/cdr-researcher-census/researchers/wanying-wu-a5100032/"
 layout: "researcher"
 hiddenInHomeList: true

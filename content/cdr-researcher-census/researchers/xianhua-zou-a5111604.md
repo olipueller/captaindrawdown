@@ -1,7 +1,7 @@
 ---
 title: "Xianhua Zou"
 description: "Xianhua Zou is a Mid-career Soil Carbon researcher at North China University of Water Resources and Electric Power in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.832357
+date: 2026-10-11T02:32:59.858641
 url: "/cdr-researcher-census/researchers/xianhua-zou-a5111604/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Initial effects of crop tree release and traditional thinning on productivity and carbon storage of Cunninghamia lanceolata plantation** (2023)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 ## External Profiles
 

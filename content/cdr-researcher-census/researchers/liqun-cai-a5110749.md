@@ -1,7 +1,7 @@
 ---
 title: "Liqun Cai"
 description: "Liqun Cai is a Senior Soil Carbon researcher at Sun Yat-sen University in CN. With 110 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.153283
+date: 2026-10-11T02:32:59.157547
 url: "/cdr-researcher-census/researchers/liqun-cai-a5110749/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    192 citations · Biochar
 
 2. **Changes in soil particulate and mineral-associated organic carbon concentrations under nitrogen addition in China—a meta-analysis** (2023)
-   50 citations · Soil Carbon
+   49 citations · Soil Carbon
 
 3. **Effects of Different Straw Incorporation Amounts on Soil Organic Carbon, Microbial Biomass, and Enzyme Activities in Dry-Crop Farmland** (2024)
    25 citations · Soil Carbon
@@ -62,10 +62,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Effect of different biochar application rates on soil organic carbon in the semi-arid Loess Plateau, China** (2021)
    8 citations · Biochar
 
-6. **Dynamics of Soil Organic Carbon Mineralization Under Straw Addition: Evidence from a Controlled Incubation Experiment** (2025)
-   5 citations · Soil Carbon
+6. **Responses of Soil Aggregate Stability and SOC to Different Tillage Modes and Straw Input Level** (2025)
+   7 citations · Soil Carbon
 
-7. **Responses of Soil Aggregate Stability and SOC to Different Tillage Modes and Straw Input Level** (2025)
+7. **Dynamics of Soil Organic Carbon Mineralization Under Straw Addition: Evidence from a Controlled Incubation Experiment** (2025)
    5 citations · Soil Carbon
 
 8. **Soil organic carbon (SOC) and soil aggregate stability as effected by returned farmland to forestland or grassland in the Loess Plateau Centre Gansu region of China** (2024)

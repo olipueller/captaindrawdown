@@ -1,7 +1,7 @@
 ---
 title: "Maria Victoria Migo-Sumagang"
 description: "Maria Victoria Migo-Sumagang is a Mid-career General CDR researcher. With 36 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.534603
+date: 2026-10-11T02:32:59.549046
 url: "/cdr-researcher-census/researchers/maria-victoria-migo-sumagang-a5048614/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -55,7 +55,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    18 citations · BECCS
 
 4. **Optimization and decision support models for deploying negative emissions technologies** (2023)
-   15 citations · General CDR
+   14 citations · General CDR
 
 5. **Process integration methods for multi-period carbon trading** (2024)
    9 citations · General CDR
@@ -64,7 +64,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    8 citations · BECCS
 
 7. **P-graph and Monte Carlo simulation approach for sustainable and risk-managed CDR portfolios** (2024)
-   5 citations · General CDR
+   6 citations · General CDR
 
 8. **Multi-period Carbon Credit Trading Scheme Generation Using Graph-Theoretic Model: Managing Budget and Risk of Carbon Leakage** (2025)
    4 citations · General CDR
@@ -72,7 +72,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 9. **Process integration technique for targeting carbon credit price subsidy** (2024)
    3 citations · General CDR
 
-10. **Plan Durable Carbon Dioxide Removal with Pinch Analysis** (2024)
+10. **A fuzzy linear program for optimal allocation of carbon credits in multi-product firms** (2025)
    2 citations · General CDR
 
 ## External Profiles

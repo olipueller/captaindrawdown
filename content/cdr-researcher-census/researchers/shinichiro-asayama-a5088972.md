@@ -1,7 +1,7 @@
 ---
 title: "Shinichiro Asayama"
 description: "Shinichiro Asayama is a Senior General CDR researcher at National Institute for Environmental Studies in JP. With 46 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.284680
+date: 2026-10-11T02:32:59.289412
 url: "/cdr-researcher-census/researchers/shinichiro-asayama-a5088972/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The Oxymoron of Carbon Dioxide Removal: Escaping Carbon Lock-In and yet Perpetuating the Fossil Status Quo?** (2021)
-   41 citations · General CDR
+   43 citations · General CDR
 
 2. **Alternative, but expensive, energy transition scenario featuring carbon capture and utilization can preserve existing energy demand technologies** (2023)
-   31 citations · DAC
+   30 citations · DAC
 
 3. **An earth system governance research agenda for carbon removal** (2024)
    12 citations · General CDR
@@ -63,7 +63,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    10 citations · General CDR
 
 5. **International financial support to achieve the net-zero emissions goal could help resolve equity trade-off between developing and developed countries** (2026)
-   4 citations · General CDR
+   5 citations · General CDR
 
 6. **Editorial: Carbon dioxide removal: perspectives from the social sciences and humanities** (2024)
    3 citations · General CDR

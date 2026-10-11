@@ -1,7 +1,7 @@
 ---
 title: "Maokui Lyu"
 description: "Maokui Lyu is a Senior Soil Carbon researcher at Fujian Normal University in CN. With 53 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.202573
+date: 2026-10-11T02:32:59.206741
 url: "/cdr-researcher-census/researchers/maokui-lyu-a5042101/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Input of high-quality litter reduces soil carbon losses due to priming in a subtropical pine forest** (2024)
-   47 citations · Soil Carbon
+   50 citations · Soil Carbon
 
 2. **Mineral-associated organic carbon predicts the variations in microbial biomass and specific enzyme activities in a subtropical forest** (2023)
-   40 citations · Soil Carbon
+   42 citations · Soil Carbon
 
 3. **Lignin–microbial necromass carbon coupling drives the vertical stratification mechanism of deep soil carbon sequestration in subtropical forests** (2025)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 4. **Promoting effect of tree mixture on litter quality and microbial diversity governs microbial necromass accrual in previously degraded soils** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 5. **High-quality litter exerts a greater effect on soil carbon gain in unrestored than restored pine plantations** (2024)
-   7 citations
+   8 citations
 
 6. **Functional complementarity of abundant and rare taxa mediates soil carbon sequestration during subtropical forest restoration** (2026)
    2 citations · Soil Carbon

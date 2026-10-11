@@ -1,7 +1,7 @@
 ---
 title: "Jinming Liu"
 description: "Jinming Liu is a Mid-career Soil Carbon researcher at Sun Yat-sen University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.216499
+date: 2026-10-11T02:33:00.246464
 url: "/cdr-researcher-census/researchers/jinming-liu-a5019481/"
 layout: "researcher"
 hiddenInHomeList: true

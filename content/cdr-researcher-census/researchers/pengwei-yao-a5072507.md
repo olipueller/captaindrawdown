@@ -1,7 +1,7 @@
 ---
 title: "Pengwei Yao"
 description: "Pengwei Yao is a Mid-career Soil Carbon researcher at China Tobacco in CN. With 26 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.389963
+date: 2026-10-11T02:32:59.397972
 url: "/cdr-researcher-census/researchers/pengwei-yao-a5072507/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 3. **Greenhouse gas emissions and net ecosystem carbon budget from tobacco-planted soil with different organic amendments** (2021)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 4. **Legume Cover Crops Differentially Alter Soil Organic Carbon Fractions Across Species and Over Time: Microbial-Mediated Mechanisms and Carbon Sequestration Implications** (2025)
    0 citations

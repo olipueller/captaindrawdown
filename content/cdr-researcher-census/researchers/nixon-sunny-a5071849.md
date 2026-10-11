@@ -1,7 +1,7 @@
 ---
 title: "Nixon Sunny"
 description: "Nixon Sunny is a Mid-career General CDR researcher at Saudi Aramco (Saudi Arabia) in SA. With 39 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.132649
+date: 2026-10-11T02:32:59.137501
 url: "/cdr-researcher-census/researchers/nixon-sunny-a5071849/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A comparative analysis of the efficiency, timing, and permanence of CO<sub>2</sub> removal pathways** (2022)
-   96 citations · General CDR
+   101 citations · General CDR
 
 2. **Moving toward the low-carbon hydrogen economy: Experiences and key learnings from national case studies** (2022)
-   87 citations · General CDR
+   88 citations · General CDR
 
 3. **Responsible carbon dioxide removals and the EU’s 2040 climate target** (2024)
    14 citations · General CDR
@@ -69,7 +69,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    4 citations · General CDR
 
 7. **The Efficiency, Timing and Permanence of CDR Pathways: A Comparative Analysis** (2022)
-   3 citations · General CDR
+   4 citations · General CDR
 
 8. **Marginal Cost Curves Show Least-Cost, Full Decarbonisation of European Cement Includes CO2 Capture and Storage, Alternative Clinkers, and Carbon Dioxide Removal** (2024)
    2 citations · General CDR

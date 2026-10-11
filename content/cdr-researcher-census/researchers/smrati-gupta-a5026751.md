@@ -1,7 +1,7 @@
 ---
 title: "Smrati Gupta"
 description: "Smrati Gupta is a Mid-career Soil Carbon researcher at Indian Institute of Tropical Meteorology in IN. With 7 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.330683
+date: 2026-10-11T02:33:00.364308
 url: "/cdr-researcher-census/researchers/smrati-gupta-a5026751/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Understanding carbon sequestration trends using model and satellite data under different ecosystems in India** (2023)
-   11 citations · General CDR
+   12 citations · General CDR
 
 2. **A study on the linkage between extreme temperature and atmospheric Carbon dioxide variability over India** (2022)
    0 citations

@@ -1,7 +1,7 @@
 ---
 title: "K. Yamamoto"
 description: "K. Yamamoto is a Senior Ocean CDR researcher at University of California, Santa Barbara in US. With 48 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.863552
+date: 2026-10-11T02:32:59.890040
 url: "/cdr-researcher-census/researchers/k-yamamoto-a5080484/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Metrics for quantifying the efficiency of atmospheric CO <sub>2</sub> reduction by marine carbon dioxide removal (mCDR)** (2024)
-   10 citations · DAC
+   12 citations · DAC
 
 2. **Metrics for quantifying the efficiency of atmospheric CO2 reduction by marine carbon dioxide removal (mCDR)** (2024)
    1 citations · DAC

@@ -1,7 +1,7 @@
 ---
 title: "Xiaojia Wei"
 description: "Xiaojia Wei is a Senior Biochar researcher at Nantong University in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.554983
+date: 2026-10-11T02:32:59.569936
 url: "/cdr-researcher-census/researchers/xiaojia-wei-a5049459/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Facile-prepared Fe/Mn co-doped biochar is an efficient catalyst for mediating the degradation of aqueous ibuprofen via catalytic ozonation** (2023)
-   82 citations · Biochar
+   86 citations · Biochar
 
 ## External Profiles
 

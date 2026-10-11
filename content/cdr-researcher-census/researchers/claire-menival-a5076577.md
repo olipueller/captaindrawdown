@@ -1,7 +1,7 @@
 ---
 title: "Claire Ménival"
 description: "Claire Ménival is an Early-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.997055
+date: 2026-10-11T02:33:00.027978
 url: "/cdr-researcher-census/researchers/claire-menival-a5076577/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    156 citations
 
 2. **Impacts of Canopy Disturbances by Tree Logging on Soil Biota Increase With Organism Size** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 3. **Forest soils can increase climate change mitigation with targeted management** (2023)
    0 citations

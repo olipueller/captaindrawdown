@@ -1,7 +1,7 @@
 ---
 title: "Philippe Becquet"
 description: "Philippe Becquet is a Senior Soil Carbon researcher at Centre Hospitalier de Mulhouse in FR. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.434922
+date: 2026-10-11T02:32:59.445256
 url: "/cdr-researcher-census/researchers/philippe-becquet-a5015364/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Role of livestock in circular bioeconomy systems** (2025)
-   13 citations
+   14 citations
 
 2. **Circular bioeconomy: animal by-products from livestock carcass processing** (2025)
-   10 citations
+   11 citations
 
 3. **Livestock—an essential component of a circular bioeconomy** (2025)
    7 citations · Soil Carbon

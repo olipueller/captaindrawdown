@@ -1,7 +1,7 @@
 ---
 title: "A. Hammam"
 description: "A. Hammam is a Mid-career Biochar researcher. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.692909
+date: 2026-10-11T02:32:59.713500
 url: "/cdr-researcher-census/researchers/a-hammam-a5043592/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Assessment of Water Hyacinth Biochar as a Soil Amendment for Sandy Soils** (2021)
-   15 citations · Biochar
+   16 citations · Biochar
 
 ## External Profiles
 

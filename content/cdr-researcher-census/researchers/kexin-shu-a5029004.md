@@ -1,7 +1,7 @@
 ---
 title: "Kexin Shu"
 description: "Kexin Shu is an Early-career Soil Carbon researcher at Yangzhou University in CN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.207352
+date: 2026-10-11T02:33:00.237230
 url: "/cdr-researcher-census/researchers/kexin-shu-a5029004/"
 layout: "researcher"
 hiddenInHomeList: true

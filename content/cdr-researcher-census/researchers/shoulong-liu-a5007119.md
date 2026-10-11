@@ -1,7 +1,7 @@
 ---
 title: "Shoulong Liu"
 description: "Shoulong Liu is a Senior Soil Carbon researcher at Ludong University in CN. With 72 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.061606
+date: 2026-10-11T02:32:59.066057
 url: "/cdr-researcher-census/researchers/shoulong-liu-a5007119/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    222 citations · Soil Carbon
 
 2. **Granulated organic amendment enhances recalcitrant carbon accumulation through soil aggregation in a barren paddy field** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 3. **Granulated organic amendments enhance soil organic carbon sequestration and saturation by modulating functional pools in infertile paddy soils** (2026)
    0 citations · Soil Carbon

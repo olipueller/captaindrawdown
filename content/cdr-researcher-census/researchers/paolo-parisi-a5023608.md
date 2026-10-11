@@ -1,7 +1,7 @@
 ---
 title: "Paolo Parisi"
 description: "Paolo Parisi is a Senior DAC researcher. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.328168
+date: 2026-10-11T02:33:00.361636
 url: "/cdr-researcher-census/researchers/paolo-parisi-a5023608/"
 layout: "researcher"
 hiddenInHomeList: true

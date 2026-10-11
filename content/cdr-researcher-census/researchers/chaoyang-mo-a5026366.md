@@ -1,7 +1,7 @@
 ---
 title: "Chaoyang Mo"
 description: "Chaoyang Mo is a Mid-career Soil Carbon researcher at Zhejiang University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.807497
+date: 2026-10-11T02:32:59.832483
 url: "/cdr-researcher-census/researchers/chaoyang-mo-a5026366/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Conversion from double-rice to maize-rice increases iron-bound organic carbon by “iron gate” and “enzyme latch” mechanisms** (2021)
-   23 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 2. **Impact of rhizosphere priming on soil organic carbon dynamics: Insights from the perspective of carbon fractions** (2023)
-   14 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 ## External Profiles
 

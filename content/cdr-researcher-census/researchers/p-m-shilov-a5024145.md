@@ -1,7 +1,7 @@
 ---
 title: "P. M. Shilov"
 description: "P. M. Shilov is a Mid-career Soil Carbon researcher at V.V. Dokuchaev Soil Science Institute in RU. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.264964
+date: 2026-10-11T02:33:00.294904
 url: "/cdr-researcher-census/researchers/p-m-shilov-a5024145/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Towards a national model of humus (carbon) budget management in soils of agroecosystems in the Russian Federation** (2024)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 ## External Profiles
 

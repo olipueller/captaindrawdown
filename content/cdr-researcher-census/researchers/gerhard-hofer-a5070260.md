@@ -1,7 +1,7 @@
 ---
 title: "Gerhard Höfer"
 description: "Gerhard Höfer is a Senior DAC researcher at Energy Foundation in CN. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.150331
+date: 2026-10-11T02:33:00.180134
 url: "/cdr-researcher-census/researchers/gerhard-hofer-a5070260/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,18 +51,21 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Revisiting TSAand TVSA for DAC: Operating Windows,Thermodynamic Bounds, and Exergy Efficiency** (2026)
+   1 citations · DAC
+
+2. **CO2–H2O Co-Adsorption in Continuous TVSA Direct Air Capture: Process-Level Thermodynamic Implications for Energy Demand and Exergy Efficiency** (2026)
    0 citations · DAC
 
-2. **TEA Simulation Framework – CUSP Edition (v1.0)** (2026)
+3. **TEA Simulation Framework – CUSP Edition (v1.0)** (2026)
    0 citations · DAC
 
-3. **TEA Simulation Framework (v1.0)** (2026)
+4. **TEA Simulation Framework (v1.0)** (2026)
    0 citations · DAC
 
-4. **TEA Simulation Framework – CUSP Edition (v1.0)** (2026)
+5. **TEA Simulation Framework – CUSP Edition (v1.0)** (2026)
    0 citations · DAC
 
-5. **Hybrid Carbon Management in Oil and Gas: Opportunities for Direct Air Capture, Gas Sweetening, and Waste-to-Energy** (2025)
+6. **Hybrid Carbon Management in Oil and Gas: Opportunities for Direct Air Capture, Gas Sweetening, and Waste-to-Energy** (2025)
    0 citations · DAC
 
 ## External Profiles

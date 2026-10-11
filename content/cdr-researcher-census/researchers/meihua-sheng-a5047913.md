@@ -1,7 +1,7 @@
 ---
 title: "Meihua Sheng"
 description: "Meihua Sheng is a Mid-career Soil Carbon researcher at Sichuan University in CN. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.715213
+date: 2026-10-11T02:32:59.736293
 url: "/cdr-researcher-census/researchers/meihua-sheng-a5047913/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The formation of small macro‐aggregates induces soil organic carbon stocks in the restoration process used on cut slopes in alpine regions of China** (2022)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 2. **Slope Aspect Influences the Organic Carbon Content and Stock in Soil Aggregates of Cut Slopes in the Alpine Region of Southwest China** (2025)
    2 citations · Soil Carbon

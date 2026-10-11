@@ -1,7 +1,7 @@
 ---
 title: "Muneeba Khalid"
 description: "Muneeba Khalid is a Mid-career Biochar researcher at China Pharmaceutical University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.683642
+date: 2026-10-11T02:32:59.703918
 url: "/cdr-researcher-census/researchers/muneeba-khalid-a5046523/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synthesis and characterization of nanobiochar from rice husk biochar for the removal of safranin and malachite green from water** (2023)
-   76 citations · Biochar
+   80 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Kai Wang"
 description: "Kai Wang is a Mid-career Biochar researcher at Wuhan Institute of Technology in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.673077
+date: 2026-10-11T02:32:59.692942
 url: "/cdr-researcher-census/researchers/kai-wang-a5100437/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Martina Iori"
 description: "Martina Iori is a Mid-career DAC researcher at Università Cattolica del Sacro Cuore in IT. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.892384
+date: 2026-10-11T02:32:59.920522
 url: "/cdr-researcher-census/researchers/martina-iori-a5036839/"
 layout: "researcher"
 hiddenInHomeList: true

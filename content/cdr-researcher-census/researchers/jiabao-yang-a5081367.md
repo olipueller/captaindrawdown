@@ -1,7 +1,7 @@
 ---
 title: "Jiabao Yang"
 description: "Jiabao Yang is a Mid-career Biochar researcher at China University of Petroleum, East China in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.171310
+date: 2026-10-11T02:33:00.201759
 url: "/cdr-researcher-census/researchers/jiabao-yang-a5081367/"
 layout: "researcher"
 hiddenInHomeList: true

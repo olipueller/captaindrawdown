@@ -1,7 +1,7 @@
 ---
 title: "Mohamed Roshan Abu Firnass Mustaffa"
 description: "Mohamed Roshan Abu Firnass Mustaffa is a Mid-career Biochar researcher at Tamil Nadu Agricultural University in IN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.624729
+date: 2026-10-11T02:32:59.642972
 url: "/cdr-researcher-census/researchers/mohamed-roshan-abu-firnass-mustaffa-a5109759/"
 layout: "researcher"
 hiddenInHomeList: true

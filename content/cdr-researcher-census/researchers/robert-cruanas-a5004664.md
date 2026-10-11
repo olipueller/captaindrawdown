@@ -1,7 +1,7 @@
 ---
 title: "Robert Cruañas"
 description: "Robert Cruañas is a Senior Biochar researcher at Universitat de Barcelona in ES. With 18 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.235260
+date: 2026-10-11T02:32:59.238684
 url: "/cdr-researcher-census/researchers/robert-cruanas-a5004664/"
 layout: "researcher"
 hiddenInHomeList: true

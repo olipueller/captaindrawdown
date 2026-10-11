@@ -1,7 +1,7 @@
 ---
 title: "Sufeng Zhu"
 description: "Sufeng Zhu is a Mid-career Soil Carbon researcher at Chinese Academy of Forestry in CN. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.891675
+date: 2026-10-11T02:32:59.919663
 url: "/cdr-researcher-census/researchers/sufeng-zhu-a5102648/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Contrasting change patterns of lignin and microbial necromass carbon and the determinants in a chronosequence of subtropical Pinus massoniana plantations** (2024)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 2. **Patterns and Determinants of Lignin and Microbial Necromass Carbon in a Chronosequence of Subtropical Pinus Massoniana Plantations** (2023)
    0 citations · Soil Carbon

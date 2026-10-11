@@ -1,7 +1,7 @@
 ---
 title: "Xiaoshuai Zhang"
 description: "Xiaoshuai Zhang is a Senior Soil Carbon researcher at University of Glasgow in GB. With 66 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.140434
+date: 2026-10-11T02:32:59.144775
 url: "/cdr-researcher-census/researchers/xiaoshuai-zhang-a5115593/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Soil Carbon
 
 4. **Seasonal Drought Reduces Carbon Sequestration in Coastal Wetlands** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 5. **Soil CO2 not CH4 flux determines soil carbon emission response to seasonal precipitation variation in a brackish wetland** (2025)
    0 citations · Soil Carbon

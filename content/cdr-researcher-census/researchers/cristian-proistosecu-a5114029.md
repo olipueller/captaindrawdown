@@ -1,7 +1,7 @@
 ---
 title: "Cristian Proistosecu"
 description: "Cristian Proistosecu is an Early-career General CDR researcher at University of Illinois Urbana-Champaign in US. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.683109
+date: 2026-10-11T02:32:59.703304
 url: "/cdr-researcher-census/researchers/cristian-proistosecu-a5114029/"
 layout: "researcher"
 hiddenInHomeList: true

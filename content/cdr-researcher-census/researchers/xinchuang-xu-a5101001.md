@@ -1,7 +1,7 @@
 ---
 title: "Xinchuang Xu"
 description: "Xinchuang Xu is a Mid-career Soil Carbon researcher at Hubei University of Science and Technology in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.315450
+date: 2026-10-11T02:33:00.346347
 url: "/cdr-researcher-census/researchers/xinchuang-xu-a5101001/"
 layout: "researcher"
 hiddenInHomeList: true

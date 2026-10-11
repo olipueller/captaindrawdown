@@ -1,7 +1,7 @@
 ---
 title: "Snowie Jane C. Galgo"
 description: "Snowie Jane C. Galgo is a Mid-career Soil Carbon researcher. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.638621
+date: 2026-10-11T02:32:59.657190
 url: "/cdr-researcher-census/researchers/snowie-jane-c-galgo-a5051971/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,10 +46,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Advancements in modified biochar production techniques and soil application: a critical review** (2025)
-   50 citations · Biochar
+   57 citations · Biochar
 
 2. **Importance of biochar as a key amendment to convert rice paddy into carbon negative** (2023)
-   17 citations · Biochar
+   18 citations · Biochar
 
 3. **Biochar manure decreases ammonia volatilization loss and sustains crop productivity in rice paddy** (2024)
    12 citations · Biochar

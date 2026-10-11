@@ -1,7 +1,7 @@
 ---
 title: "Shiping Long"
 description: "Shiping Long is a Mid-career Biochar researcher at Institute of Agricultural Resources and Regional Planning in CN. With 28 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.880148
+date: 2026-10-11T02:32:59.907687
 url: "/cdr-researcher-census/researchers/shiping-long-a5045802/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Removal of humic substances by the synergistic effect of biochar adsorption and activation of persulfate** (2021)
-   42 citations · Biochar
+   43 citations · Biochar
 
 2. **Aggregate mass and carbon stocks in a paddy soil after long‐term application of chemical or organic fertilizers** (2022)
    13 citations · Soil Carbon

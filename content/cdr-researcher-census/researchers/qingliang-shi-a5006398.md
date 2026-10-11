@@ -1,7 +1,7 @@
 ---
 title: "Qingliang Shi"
 description: "Qingliang Shi is a Mid-career Biochar researcher at Guilin University of Technology in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.798755
+date: 2026-10-11T02:32:59.822937
 url: "/cdr-researcher-census/researchers/qingliang-shi-a5006398/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    128 citations · Biochar
 
 2. **Efficient removal of Cd(II) from aqueous environment by potassium permanganate-modified eucalyptus biochar** (2021)
-   36 citations · Biochar
+   38 citations · Biochar
 
 3. **Fabrication and characterization of magnetic eucalyptus carbon for efficient Cr(VI) removal in aqueous solution and its mechanisms** (2023)
    17 citations · Biochar

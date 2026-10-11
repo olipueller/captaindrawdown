@@ -1,7 +1,7 @@
 ---
 title: "Nicole Scheunemann"
 description: "Nicole Scheunemann is a Senior Soil Carbon researcher at Senckenberg Museum für Naturkunde Görlitz in DE. With 36 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.336629
+date: 2026-10-11T02:32:59.342475
 url: "/cdr-researcher-census/researchers/nicole-scheunemann-a5033179/"
 layout: "researcher"
 hiddenInHomeList: true

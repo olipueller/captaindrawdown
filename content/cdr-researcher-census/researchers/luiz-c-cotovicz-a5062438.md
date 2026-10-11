@@ -1,7 +1,7 @@
 ---
 title: "Luiz C. Cotovicz"
 description: "Luiz C. Cotovicz is a Mid-career Ocean CDR researcher at Universidade Federal do Paraná in BR. With 56 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.229319
+date: 2026-10-11T02:32:59.232619
 url: "/cdr-researcher-census/researchers/luiz-c-cotovicz-a5062438/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    19 citations · General CDR
 
 3. **Large Porewater‐Derived Carbon Outwelling Across Mangrove Seascapes Revealed by Radium Isotopes** (2024)
-   12 citations · Ocean CDR
+   13 citations · Ocean CDR
 
 4. **Efficient oxidation attenuates porewater‐derived methane fluxes in mangrove waters** (2024)
    11 citations

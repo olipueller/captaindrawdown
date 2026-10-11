@@ -1,7 +1,7 @@
 ---
 title: "Vijay Anand K. Gopalakrishnan"
-description: "Vijay Anand K. Gopalakrishnan is a Mid-career Ocean CDR researcher at Central Salt and Marine Chemicals Research Institute in IN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.128868
+description: "Vijay Anand K. Gopalakrishnan is a Mid-career Ocean CDR researcher at Central Salt and Marine Chemicals Research Institute in IN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:32:59.775825
 url: "/cdr-researcher-census/researchers/vijay-anand-k-gopalakrishnan-a5041076/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 154 |
+| h-index | 7 |
+| Citations | 281 |
 | Publications | 19 |
 | CDR Focus | 5.3% |
 | Trajectory | Growing |

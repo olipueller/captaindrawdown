@@ -1,7 +1,7 @@
 ---
 title: "Arthur Groß"
 description: "Arthur Groß is a Mid-career Soil Carbon researcher at Martin Luther University Halle-Wittenberg in DE. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.311751
+date: 2026-10-11T02:32:59.317167
 url: "/cdr-researcher-census/researchers/arthur-gro-a5072098/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,33 +51,33 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Meta-analysis on how manure application changes soil organic carbon storage** (2021)
-   337 citations · Soil Carbon
+   348 citations · Soil Carbon
 
 2. **Soil Organic Carbon Sequestration after Biochar Application: A Global Meta-Analysis** (2021)
-   207 citations · Biochar
+   204 citations · Biochar
 
 3. **Long-term biochar and soil organic carbon stability – Evidence from field experiments in Germany** (2024)
-   95 citations · Biochar
+   100 citations · Biochar
 
 4. **Effects of recultivation on soil organic carbon sequestration in abandoned coal mining sites: a meta-analysis** (2022)
-   30 citations
+   34 citations
 
 5. **Impact of Biochar Aging on Soil Physicochemical Properties** (2024)
-   25 citations · Biochar
+   26 citations · Biochar
 
 6. **Relevance of biochar metabolization—evidence from a long-term biochar field experiment** (2025)
-   7 citations · Biochar
+   8 citations · Biochar
 
 7. **Weathering of biochar: implications to soil health, carbon sequestration and soil remediation** (2026)
-   3 citations · Biochar
+   6 citations · Biochar
 
 8. **Impact of Biochar Aging on Soil Physicochemical Properties** (2025)
    1 citations
 
-9. **Vertical biochar transport in soil in a long-term field experiment in Germany** (2025)
+9. **Weathering of biochar : implications to soil health, carbon sequestration and soil remediation** (2026)
    0 citations · Biochar
 
-10. **Long-term biochar and soil organic carbon stability &amp;#8211; evidence from long-term field experiments in Germany** (2024)
+10. **Biochar: From Terra Preta Discovery to Modern Industry** (2026)
    0 citations · Biochar
 
 ## External Profiles

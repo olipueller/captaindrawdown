@@ -1,7 +1,7 @@
 ---
 title: "Jianni Sun"
-description: "Jianni Sun is a Mid-career Soil Carbon researcher at Shandong University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.776471
+description: "Jianni Sun is a Mid-career Soil Carbon researcher at Shandong University of Aeronautics in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:32:59.790718
 url: "/cdr-researcher-census/researchers/jianni-sun-a5076426/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jianni-sun-a5076426/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Shandong University"
+    "name": "Shandong University of Aeronautics"
   },
   "sameAs": "https://openalex.org/A5076426729"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Jianni Sun**  
-Shandong University · 🇨🇳 CN
+Shandong University of Aeronautics · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -39,8 +39,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 270 |
+| h-index | 7 |
+| Citations | 275 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
 | Trajectory | Growing |

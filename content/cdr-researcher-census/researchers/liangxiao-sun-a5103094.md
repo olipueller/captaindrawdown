@@ -1,7 +1,7 @@
 ---
 title: "Liangxiao Sun"
 description: "Liangxiao Sun is a Mid-career Soil Carbon researcher at Jiangsu Provincial Meteorological Bureau in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.200779
+date: 2026-10-11T02:33:00.230821
 url: "/cdr-researcher-census/researchers/liangxiao-sun-a5103094/"
 layout: "researcher"
 hiddenInHomeList: true

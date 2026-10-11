@@ -1,7 +1,7 @@
 ---
 title: "S. Sreelekshmi"
 description: "S. Sreelekshmi is a Mid-career Soil Carbon researcher at Cochin University of Science and Technology in IN. With 40 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.395470
+date: 2026-10-11T02:32:59.404159
 url: "/cdr-researcher-census/researchers/s-sreelekshmi-a5056599/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon stocks and sequestration rate in mangroves and its major influencing factors from highly urbanised port city, southern India** (2023)
-   43 citations · Soil Carbon
+   42 citations · Soil Carbon
 
 2. **Ecosystem Carbon Stock and Stable Isotopic Signatures of Soil Organic Carbon Sources Across the Mangrove Ecosystems of Kerala, Southern India** (2022)
    23 citations · Soil Carbon

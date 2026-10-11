@@ -1,7 +1,7 @@
 ---
 title: "Eltson Eteckji Fonkeng"
 description: "Eltson Eteckji Fonkeng is a Mid-career Soil Carbon researcher at Université de Dschang in CM. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.393637
+date: 2026-10-11T02:33:00.431084
 url: "/cdr-researcher-census/researchers/eltson-eteckji-fonkeng-a5004658/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Dynamics of soil organic carbon pools following conversion of savannah to cocoa agroforestry systems in the Centre region of Cameroon** (2024)
-   19 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 ## External Profiles
 

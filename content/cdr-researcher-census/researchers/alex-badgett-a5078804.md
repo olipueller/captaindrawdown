@@ -1,7 +1,7 @@
 ---
 title: "Alex Badgett"
 description: "Alex Badgett is a Mid-career General CDR researcher at National Renewable Energy Laboratory in US. With 41 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.303756
+date: 2026-10-11T02:32:59.309018
 url: "/cdr-researcher-census/researchers/alex-badgett-a5078804/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Gahyun Annie Lee"
 description: "Gahyun Annie Lee is a Mid-career DAC researcher at Earth Island Institute in US. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.060679
+date: 2026-10-11T02:33:00.090638
 url: "/cdr-researcher-census/researchers/gahyun-annie-lee-a5000914/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Water-stable MOFs and hydrophobically encapsulated MOFs for CO2 capture from ambient air and wet flue gas** (2023)
-   117 citations
+   121 citations
 
 2. **Encapsulation of Nanoparticle Organic Hybrid Materials within Electrospun Hydrophobic Polymer/Ceramic Fibers for Enhanced CO<sub>2</sub> Capture** (2023)
    11 citations

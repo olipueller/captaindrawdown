@@ -1,7 +1,7 @@
 ---
 title: "Shisuo Fan"
 description: "Shisuo Fan is a Senior Biochar researcher at Anhui Agricultural University in CN. With 74 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.048557
+date: 2026-10-11T02:32:59.052290
 url: "/cdr-researcher-census/researchers/shisuo-fan-a5022283/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effect of Fe–N modification on the properties of biochars and their adsorption behavior on tetracycline removal from aqueous solution** (2021)
-   448 citations
+   452 citations
 
 2. **Simultaneous carbonization, activation, and magnetization for producing tea waste biochar and its application in tetracycline removal from the aquatic environment** (2021)
    89 citations · Biochar
@@ -60,25 +60,25 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    67 citations · Biochar
 
 4. **Effect of chitosan modification on the properties of magnetic porous biochar and its adsorption performance towards tetracycline and Cu2+** (2023)
-   57 citations · Biochar
+   58 citations · Biochar
 
-5. **Enhanced adsorption performance of tetracycline in aqueous solutions by KOH-modified peanut shell-derived biochar** (2021)
+5. **Preparation of magnetic porous biochar through hydrothermal pretreatment combined with K2FeO4 activation to improve tetracycline removal** (2022)
    50 citations · Biochar
 
-6. **Preparation of magnetic porous biochar through hydrothermal pretreatment combined with K2FeO4 activation to improve tetracycline removal** (2022)
-   49 citations · Biochar
+6. **Enhanced adsorption performance of tetracycline in aqueous solutions by KOH-modified peanut shell-derived biochar** (2021)
+   50 citations · Biochar
 
 7. **The Removal of Tetracycline from Aqueous Solutions Using Peanut Shell Biochars Prepared at Different Pyrolysis Temperatures** (2023)
    33 citations · Biochar
 
-8. **Chemical speciation distribution, desorption characteristics, and quantitative adsorption mechanisms of cadmium/lead ions adsorbed on biochars** (2024)
-   28 citations · Biochar
+8. **Preparation of mesoporous biogas residue biochar via a self-template strategy for efficient removal of ciprofloxacin: Effect of pyrolysis temperature** (2024)
+   30 citations · Biochar
 
-9. **Preparation of mesoporous biogas residue biochar via a self-template strategy for efficient removal of ciprofloxacin: Effect of pyrolysis temperature** (2024)
-   27 citations · Biochar
+9. **Chemical speciation distribution, desorption characteristics, and quantitative adsorption mechanisms of cadmium/lead ions adsorbed on biochars** (2024)
+   29 citations · Biochar
 
 10. **Magnetic mesoporous corncob biochar for tetracycline adsorption: 2D-FTIR-COS analysis and quantitative mechanistic insight** (2025)
-   19 citations · Biochar
+   21 citations · Biochar
 
 ## External Profiles
 

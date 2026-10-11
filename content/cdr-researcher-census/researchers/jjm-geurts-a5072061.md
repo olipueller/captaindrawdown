@@ -1,7 +1,7 @@
 ---
 title: "J.J.M. Geurts"
 description: "J.J.M. Geurts is a Senior Soil Carbon researcher at Radboud University Nijmegen in NL. With 31 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.209868
+date: 2026-10-11T02:32:59.214090
 url: "/cdr-researcher-census/researchers/jjm-geurts-a5072061/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Paludiculture crops and nitrogen kick-start ecosystem service provisioning in rewetted peat soils** (2022)
-   19 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 2. **Removing 10 cm of degraded peat mitigates unwanted effects of peatland rewetting: a mesocosm study** (2023)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 3. **Paludiculture Crops And Nitrogen Kick-Start Ecosystem Service Provisioning In Rewetted Peat Soils** (2021)
    2 citations · Soil Carbon

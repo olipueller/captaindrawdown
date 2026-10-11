@@ -1,7 +1,7 @@
 ---
 title: "Chunyu Tang"
 description: "Chunyu Tang is a Mid-career Soil Carbon researcher at Zhejiang Ocean University in CN. With 45 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.191297
+date: 2026-10-11T02:32:59.195345
 url: "/cdr-researcher-census/researchers/chunyu-tang-a5004017/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,34 +51,34 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Artificial humic substances improve microbial activity for binding CO2** (2021)
-   62 citations · Soil Carbon
+   65 citations · Soil Carbon
 
 2. **Artificial humic acid facilitates biological carbon sequestration under freezing-thawing conditions** (2022)
-   36 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 3. **Application of typical artificial carbon materials from biomass in environmental remediation and improvement: A review** (2021)
-   34 citations · Biochar
+   35 citations · Biochar
 
 4. **Carbon Materials Advancing Microorganisms in Driving Soil Organic Carbon Regulation** (2022)
-   33 citations · General CDR
+   34 citations · General CDR
 
-5. **Moderating carbon dynamics in black soil by combined application of biochar and an artificial humic substance** (2022)
+5. **Effects of artificial humic acid on decomposition of returning straw and enhancement of carbon sequestration** (2024)
+   18 citations · Soil Carbon
+
+6. **Moderating carbon dynamics in black soil by combined application of biochar and an artificial humic substance** (2022)
    16 citations · Biochar
 
-6. **Effects of artificial humic acid on decomposition of returning straw and enhancement of carbon sequestration** (2024)
-   15 citations · Soil Carbon
-
 7. **An essential strategy to enhance carbon accumulation within coastal wetlands: Introducing Spartina alterniflora-biochar facilitating microbial carbon sequestration in subtidal zone** (2025)
-   4 citations · Biochar
+   5 citations · Biochar
 
 8. **A potentially overlooked benefit of Spartina alterniflora invasion: tidal transport of root-exuded active sugars enhancing soil carbon accumulation via microbial-mediated processes in adjacent mudflats** (2026)
    2 citations · Soil Carbon
 
-9. **Biologically enhanced biochar strengthening the ability of carbon sequestration and emission reduction in poor soils** (2026)
+9. **Drying and rewetting cycles promote microbial-derived carbon accumulation in mudflats, but salinity stress inhibits the process** (2026)
    0 citations
 
 10. **Biologically enhanced biochar strengthening the ability of carbon sequestration and emission reduction in poor soils** (2026)
-   0 citations · Biochar
+   0 citations
 
 ## External Profiles
 

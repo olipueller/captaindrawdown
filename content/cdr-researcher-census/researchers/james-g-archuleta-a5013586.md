@@ -1,7 +1,7 @@
 ---
 title: "James G. Archuleta"
 description: "James G. Archuleta is a Mid-career Biochar researcher. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.333848
+date: 2026-10-11T02:33:00.367874
 url: "/cdr-researcher-census/researchers/james-g-archuleta-a5013586/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Forest management and biochar for continued ecosystem services** (2022)
-   21 citations · Biochar
+   20 citations · Biochar
 
 2. **Continuous In-woods Production of Biochar Using a Trailer-mounted Air Curtain Burner** (2024)
    4 citations · Biochar

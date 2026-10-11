@@ -1,7 +1,7 @@
 ---
 title: "Yukun Zou"
 description: "Yukun Zou is a Senior Soil Carbon researcher at Hainan University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.047572
+date: 2026-10-11T02:33:00.078262
 url: "/cdr-researcher-census/researchers/yukun-zou-a5032968/"
 layout: "researcher"
 hiddenInHomeList: true

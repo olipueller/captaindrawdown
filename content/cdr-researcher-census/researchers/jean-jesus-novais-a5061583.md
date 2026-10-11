@@ -1,7 +1,7 @@
 ---
 title: "Jean Jesus Novais"
 description: "Jean Jesus Novais is a Mid-career Soil Carbon researcher. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.187731
+date: 2026-10-11T02:33:00.217863
 url: "/cdr-researcher-census/researchers/jean-jesus-novais-a5061583/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil health in Latin America and the Caribbean** (2025)
-   31 citations · Soil Carbon
+   36 citations · Soil Carbon
+
+2. **Space-time mapping of soil organic carbon through remote sensing and machine learning** (2024)
+   10 citations · Soil Carbon
 
 ## External Profiles
 

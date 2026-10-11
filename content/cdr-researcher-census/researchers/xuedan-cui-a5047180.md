@@ -1,7 +1,7 @@
 ---
 title: "Xuedan Cui"
 description: "Xuedan Cui is a Mid-career Biochar researcher at Research Center for Eco-Environmental Sciences in CN. With 23 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.581860
+date: 2026-10-11T02:32:59.598094
 url: "/cdr-researcher-census/researchers/xuedan-cui-a5047180/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Degradation of trichloroethylene by biochar supported nano zero-valent iron (BC-nZVI): The role of specific surface area and electrochemical properties** (2023)
-   64 citations · Biochar
+   66 citations · Biochar
 
 2. **High-efficiency control of pesticide and heavy metal combined pollution in paddy soil using biochar/g-C3N4 photoresponsive soil remediation agent** (2022)
-   61 citations · Biochar
+   62 citations · Biochar
 
 3. **Degradation of Trichloroethylene by Biochar Supported Nano Zero-Valent Iron (Bc-Nzvi): The Role of Specific Surface Area and Electrochemical Properties** (2023)
    8 citations · Biochar

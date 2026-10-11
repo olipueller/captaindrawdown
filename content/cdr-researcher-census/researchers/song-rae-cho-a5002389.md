@@ -1,7 +1,7 @@
 ---
 title: "Song Rae Cho"
 description: "Song Rae Cho is a Mid-career Biochar researcher at Rural Development Administration in KR. With 32 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.490878
+date: 2026-10-11T02:32:59.503064
 url: "/cdr-researcher-census/researchers/song-rae-cho-a5002389/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Importance of biochar as a key amendment to convert rice paddy into carbon negative** (2023)
-   17 citations · Biochar
+   18 citations · Biochar
 
 2. **Biochar manure decreases ammonia volatilization loss and sustains crop productivity in rice paddy** (2024)
    12 citations · Biochar

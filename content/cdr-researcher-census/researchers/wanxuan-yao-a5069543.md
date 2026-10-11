@@ -1,7 +1,7 @@
 ---
 title: "Wanxuan Yao"
 description: "Wanxuan Yao is a Mid-career Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.211843
+date: 2026-10-11T02:33:00.242024
 url: "/cdr-researcher-census/researchers/wanxuan-yao-a5069543/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,40 +45,40 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 7 |
 | Citations | 134 |
 | Publications | 21 |
-| CDR Focus | 42.9% |
+| CDR Focus | 47.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Misconceptions of the marine biological carbon pump in a changing climate: Thinking outside the “export” box** (2024)
-   37 citations · General CDR
+   39 citations · General CDR
 
 2. **A holistic assessment framework for marine carbon dioxide removal options** (2025)
-   11 citations · General CDR
+   12 citations · General CDR
 
 3. **Exploring Site‐Specific Carbon Dioxide Removal Options With Storage or Sequestration in the Marine Environment – The 10 Mt CO<sub>2</sub> yr<sup>−1</sup> Removal Challenge for Germany** (2025)
-   8 citations · General CDR
+   9 citations · General CDR
 
 4. **Nearshore Macroalgae Cultivation for Carbon Sequestration by Biomass Harvesting: Evaluating Potential and Impacts With an Earth System Model** (2025)
-   4 citations · Ocean CDR
+   5 citations · Ocean CDR
 
 5. **Monitoring marine carbon dioxide removal: quantitative analysis of indicators for carbon removed and environmental side-effects** (2025)
-   1 citations · General CDR
+   4 citations · General CDR
 
 6. **Nearshore Macroalgae Cultivation for Carbon Sequestration by Biomass Harvesting: Evaluating Potential and Impacts with An Earth System Model** (2024)
    1 citations
 
-7. **The 10 Mt CO2 removal per year challenge for marine Carbon Dioxide Removal options for Germany-creating compariablility for the mCDR implementations** (2024)
+7. **Sachbericht zum Verwendungsnachweis** (2025)
    0 citations · General CDR
 
-8. **ASMASY -B (GEOMAR): Bewertungsrahmen für marine CO2-Entnahme und Synthese des aktuellen Wissenstandes, Vorhaben: Modellierungsbasierte Evaluierung, Bewertung und Transfer** (2025)
+8. **The 10 Mt CO2 removal per year challenge for marine Carbon Dioxide Removal options for Germany-creating compariablility for the mCDR implementations** (2024)
    0 citations · General CDR
 
-9. **Exploring site-specific carbon dioxide removal options with storage or sequestration in the marine environment - The 10 Mt CO2 yr-1 removal challenge for Germany** (2024)
+9. **ASMASY -B (GEOMAR): Bewertungsrahmen für marine CO2-Entnahme und Synthese des aktuellen Wissenstandes, Vorhaben: Modellierungsbasierte Evaluierung, Bewertung und Transfer** (2025)
    0 citations · General CDR
 
-10. **Misconceptions of the marine biological carbon pump in a changing climate: Thinking outside the &amp;#8220;export&amp;#8221; box** (2024)
-   0 citations · Ocean CDR
+10. **Exploring site-specific carbon dioxide removal options with storage or sequestration in the marine environment - The 10 Mt CO2 yr-1 removal challenge for Germany** (2024)
+   0 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Longtian Huang"
 description: "Longtian Huang is a Mid-career Ocean CDR researcher at Fudan University in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.093947
+date: 2026-10-11T02:33:00.124535
 url: "/cdr-researcher-census/researchers/longtian-huang-a5018232/"
 layout: "researcher"
 hiddenInHomeList: true

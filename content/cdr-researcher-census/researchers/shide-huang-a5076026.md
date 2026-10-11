@@ -1,7 +1,7 @@
 ---
 title: "Shide Huang"
 description: "Shide Huang is a Senior Soil Carbon researcher. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.078387
+date: 2026-10-11T02:33:00.108655
 url: "/cdr-researcher-census/researchers/shide-huang-a5076026/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil microbial community, dissolved organic matter and nutrient cycling interactions change along an elevation gradient in subtropical China** (2023)
-   61 citations · Soil Carbon
+   62 citations · Soil Carbon
+
+2. **Species and structural diversity jointly drive carbon storage enhancement in degraded mid-subtropical forest ecosystems** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Tristan Briard"
 description: "Tristan Briard is a Mid-career Biochar researcher at Arts et Métiers in FR. With 14 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.227887
+date: 2026-10-11T02:33:00.258156
 url: "/cdr-researcher-census/researchers/tristan-briard-a5087289/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Top CDR Publications
 
-1. **An analytical framework to support the early design of resilient nature-based solutions for carbon removal: application to a biochar project in an industrial setting** (2026)
+1. **A comprehensive design framework for nature-based solutions projects focused on carbon dioxide removal: A systematic literature review of approaches, models and tools** (2026)
+   1 citations · General CDR
+
+2. **An analytical framework to support the early design of resilient nature-based solutions for carbon removal: application to a biochar project in an industrial setting** (2026)
    0 citations · Biochar
 
 ## External Profiles

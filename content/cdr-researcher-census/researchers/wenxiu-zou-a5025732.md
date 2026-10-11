@@ -1,7 +1,7 @@
 ---
 title: "Wenxiu Zou"
 description: "Wenxiu Zou is a Senior Soil Carbon researcher at Iowa State University in US. With 93 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.184474
+date: 2026-10-11T02:32:59.188708
 url: "/cdr-researcher-census/researchers/wenxiu-zou-a5025732/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Evaluation of the soil aggregate stability under long term manure and chemical fertilizer applications: Insights from organic carbon and humic acid structure in aggregates** (2024)
-   56 citations
+   63 citations
 
 2. **Long-term organic material application enhances black soil productivity by improving aggregate stability and dissolved organic matter dynamics** (2025)
-   32 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 3. **Land use effects on soil carbon retention through glomalin-mediated aggregation** (2025)
    19 citations · Soil Carbon
@@ -62,14 +62,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Temporal dynamics of density separated soil organic carbon pools as revealed by δ13C changes under 17 years of straw return** (2023)
    18 citations · Biochar
 
-5. **Effects of Organic Materials and Their Incorporation Depths on Humus Substances Structure and Soil Microbial Communities’ Characteristics in a Chinese Mollisol** (2023)
-   5 citations · Soil Carbon
-
-6. **Effects of the construction of fertile and cultivated soil layer on soil fertility and maize yield in Albic soil.** (2023)
+5. **Effects of the construction of fertile and cultivated soil layer on soil fertility and maize yield in Albic soil.** (2023)
    5 citations
 
-7. **Mechanism of biochar decomposition mediated by bacteria shifts the molecular structure of soil organic matter to high molecular aromatic components** (2024)
+6. **Mechanism of biochar decomposition mediated by bacteria shifts the molecular structure of soil organic matter to high molecular aromatic components** (2024)
    4 citations · Biochar
+
+7. **Effects of Organic Materials and Their Incorporation Depths on Humus Substances Structure and Soil Microbial Communities’ Characteristics in a Chinese Mollisol** (2023)
+   4 citations · Soil Carbon
 
 8. **Evaluation of the Soil Aggregate Stability Under Long Term Manure and Chemical Fertilizer Applications: Insights from Organic Carbon and Humic Acid Structure in Aggregates** (2024)
    2 citations · Soil Carbon

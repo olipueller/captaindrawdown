@@ -1,7 +1,7 @@
 ---
 title: "Pietro Bazzicalupo"
 description: "Pietro Bazzicalupo is a Mid-career Ocean CDR researcher at University of Milano-Bicocca in IT. With 34 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.894685
+date: 2026-10-11T02:32:59.923654
 url: "/cdr-researcher-census/researchers/pietro-bazzicalupo-a5022390/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **The effect of ocean alkalinity enhancement on zooplankton standing stock and community composition in the Eastern Mediterranean Sea: a mesocosm study** (2025)
-   3 citations · Ocean CDR
+   5 citations · Ocean CDR
 
 2. **Ocean liming in eutrophic vs. ultraoligotrophic environments and the response of algal calcifiers** (2024)
    1 citations · General CDR

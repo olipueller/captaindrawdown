@@ -1,7 +1,7 @@
 ---
 title: "Wenbo Du"
 description: "Wenbo Du is a Mid-career Soil Carbon researcher at Farmland Irrigation Research Institute in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.974792
+date: 2026-10-11T02:33:00.006634
 url: "/cdr-researcher-census/researchers/wenbo-du-a5102830/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **High-Resolution Mapping of Cropland Soil Organic Carbon in Northern China** (2025)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

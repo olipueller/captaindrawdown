@@ -1,7 +1,7 @@
 ---
 title: "Viktor Walter"
 description: "Viktor Walter is a Senior BECCS researcher at Region Västra Götaland in SE. With 38 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.513292
+date: 2026-10-11T02:32:59.526742
 url: "/cdr-researcher-census/researchers/viktor-walter-a5087027/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    29 citations · BECCS
 
 2. **The Role of Biomass Gasification in the Future Flexible Power System – BECCS or CCU?** (2021)
-   3 citations · BECCS
+   2 citations · BECCS
 
 ## External Profiles
 

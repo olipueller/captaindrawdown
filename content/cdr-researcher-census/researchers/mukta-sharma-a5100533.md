@@ -1,7 +1,7 @@
 ---
 title: "Mukta Sharma"
 description: "Mukta Sharma is a Senior Soil Carbon researcher at Shobhit University in IN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.807088
+date: 2026-10-11T02:32:59.832080
 url: "/cdr-researcher-census/researchers/mukta-sharma-a5100533/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Exploration of Extremophiles: Potential Applications in Agriculture and Soil Health Improvement Utilizing Extremophiles** (2024)
-   3 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

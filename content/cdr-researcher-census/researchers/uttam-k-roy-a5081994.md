@@ -1,7 +1,7 @@
 ---
 title: "Uttam K. Roy"
 description: "Uttam K. Roy is a Senior Biochar researcher at Loughborough University in GB. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.833715
+date: 2026-10-11T02:32:59.859940
 url: "/cdr-researcher-census/researchers/uttam-k-roy-a5081994/"
 layout: "researcher"
 hiddenInHomeList: true

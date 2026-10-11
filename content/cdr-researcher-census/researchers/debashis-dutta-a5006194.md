@@ -1,7 +1,7 @@
 ---
 title: "Debashis Dutta"
 description: "Debashis Dutta is a Mid-career Soil Carbon researcher at Government of West Bengal in IN. With 60 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.283679
+date: 2026-10-11T02:32:59.288462
 url: "/cdr-researcher-census/researchers/debashis-dutta-a5006194/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long‐term impact of organic and inorganic fertilizers on soil organic carbon dynamics in a rice‐ wheat system** (2022)
-   28 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 2. **Sustainable Soil Management for Climate Resilience: Long-Term Management Effects on Soil Carbon Sequestration and Nitrogen Dynamics in a Semi-Arid Tropical Inceptisol of India** (2024)
-   15 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 3. **Influence of Different Nutrient Management Practices and Cropping Systems on Organic Carbon Pools in Typic Ustochrept Soil of Indo-Gangetic Plains in India** (2022)
    8 citations · Soil Carbon

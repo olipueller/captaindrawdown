@@ -1,7 +1,7 @@
 ---
 title: "Aigerim Mamirova"
 description: "Aigerim Mamirova is a Mid-career Biochar researcher at Al-Farabi Kazakh National University in KZ. With 55 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.473021
+date: 2026-10-11T02:32:59.484145
 url: "/cdr-researcher-census/researchers/aigerim-mamirova-a5042598/"
 layout: "researcher"
 hiddenInHomeList: true

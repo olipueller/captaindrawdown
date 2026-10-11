@@ -1,7 +1,7 @@
 ---
 title: "Elizabeth B. Jewett"
 description: "Elizabeth B. Jewett is a Senior Ocean CDR researcher at Office of Oceanic and Atmospheric Research in US. With 23 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.294512
+date: 2026-10-11T02:32:59.299078
 url: "/cdr-researcher-census/researchers/elizabeth-b-jewett-a5060285/"
 layout: "researcher"
 hiddenInHomeList: true

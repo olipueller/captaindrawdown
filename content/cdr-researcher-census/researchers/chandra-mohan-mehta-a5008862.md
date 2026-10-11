@@ -1,7 +1,7 @@
 ---
 title: "Chandra Mohan Mehta"
 description: "Chandra Mohan Mehta is a Mid-career Biochar researcher at Lovely Professional University in IN. With 65 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.238768
+date: 2026-10-11T02:32:59.242341
 url: "/cdr-researcher-census/researchers/chandra-mohan-mehta-a5008862/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,24 +51,30 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A comparative study of fresh and residual biochar effects on wheat growth and yield metrics** (2025)
-   5 citations · Biochar
+   6 citations · Biochar
 
 2. **Nanobiochar application and its impact on sustainable agriculture: A concise review** (2024)
    3 citations · Biochar
 
-3. **Biochar-mediated improvements in soil fertility and wheat (Triticum Aestivum L.) productivity in the Indo-Gangetic Plains** (2026)
+3. **A comparative study of fresh and residual biochar effects on wheat growth and yield metrics** (2025)
    0 citations · Biochar
 
-4. **A comparative study of fresh and residual biochar effects on wheat growth and yield metrics** (2025)
+4. **Biochar-mediated improvements in soil fertility and wheat (Triticum Aestivum L.) productivity in the Indo-Gangetic Plains** (2026)
    0 citations · Biochar
 
-5. **Biochar-Based Integrated Nutrient Management Improves Soil Quality and Biological Functioning in a Rice–Wheat Cropping System** (2026)
+5. **Biochar-based integrated nutrient management improves soil quality and biological functioning in a rice–wheat cropping system** (2026)
    0 citations · Biochar
 
-6. **Probing the impact of biochar combined with organic and inorganic amendments on soil carbon pools of rice (Oryza sativa) - wheat (Triticum aestivum) cropping system ** (2022)
+6. **A comparative study of fresh and residual biochar effects on wheat growth and yield metrics** (2025)
+   0 citations · Biochar
+
+7. **Biochar-Based Integrated Nutrient Management Improves Soil Quality and Biological Functioning in a Rice–Wheat Cropping System** (2026)
+   0 citations · Biochar
+
+8. **Probing the impact of biochar combined with organic and inorganic amendments on soil carbon pools of rice (Oryza sativa) - wheat (Triticum aestivum) cropping system ** (2022)
    0 citations
 
-7. **Probing the impact of biochar combined with organic and inorganic amendments on soil carbon pools of rice (Oryza sativa) - wheat (Triticum aestivum) cropping system ** (2022)
+9. **Probing the impact of biochar combined with organic and inorganic amendments on soil carbon pools of rice (Oryza sativa) - wheat (Triticum aestivum) cropping system ** (2022)
    0 citations · Biochar
 
 ## External Profiles

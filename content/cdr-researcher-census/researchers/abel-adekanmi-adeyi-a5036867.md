@@ -1,7 +1,7 @@
 ---
 title: "Abel Adekanmi Adeyi"
 description: "Abel Adekanmi Adeyi is a Mid-career Biochar researcher at Universiti Putra Malaysia in MY. With 51 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.490278
+date: 2026-10-11T02:32:59.502420
 url: "/cdr-researcher-census/researchers/abel-adekanmi-adeyi-a5036867/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,7 +56,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 2. **Sustainable removal of toxic brilliant green dye from aqueous solution using KMnO4-modified coconut husk based biochar** (2026)
    0 citations · Biochar
 
-3. **Novel &lt;i&gt;Blighia sapida&lt;/i&gt; Leave-Derived Biochar (BSLB) for Highly Efficient Removal of Cefuroxime from Aqueous Media** (2025)
+3. **Parametric optimization and kinetic analysis of cephalexin sequestration from simulated wastewater by KMnO4 modified Milicia excelsa biochar** (2026)
+   0 citations · Biochar
+
+4. **Novel &lt;i&gt;Blighia sapida&lt;/i&gt; Leave-Derived Biochar (BSLB) for Highly Efficient Removal of Cefuroxime from Aqueous Media** (2025)
    0 citations · Biochar
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Zhu Chen"
 description: "Zhu Chen is a Senior Enhanced Weathering researcher at Institute of Applied Physics and Computational Mathematics in CN. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.334252
+date: 2026-10-11T02:32:59.340042
 url: "/cdr-researcher-census/researchers/zhu-chen-a5100449/"
 layout: "researcher"
 hiddenInHomeList: true

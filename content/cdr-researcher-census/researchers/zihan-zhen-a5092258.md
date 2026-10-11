@@ -1,7 +1,7 @@
 ---
 title: "Zihan Zhen"
 description: "Zihan Zhen is a Mid-career DAC researcher at Tsinghua University in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.979272
+date: 2026-10-11T02:33:00.010751
 url: "/cdr-researcher-census/researchers/zihan-zhen-a5092258/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Dalton Kei Sasaki"
-description: "Dalton Kei Sasaki is a Mid-career Ocean CDR researcher at Northeastern University in US. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.023408
+description: "Dalton Kei Sasaki is a Mid-career Ocean CDR researcher at Northeastern University in US. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:33:00.054684
 url: "/cdr-researcher-census/researchers/dalton-kei-sasaki-a5041603/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
+| h-index | 9 |
 | Citations | 183 |
-| Publications | 28 |
-| CDR Focus | 7.1% |
+| Publications | 25 |
+| CDR Focus | 8.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,7 +54,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    1 citations · General CDR
 
 2. **A high-resolution coupled physical-biogeochemical model of the northeastern US continental shelf: MOM6-COBALT-NEUS25v1.0** (2026)
-   0 citations · General CDR
+   1 citations · General CDR
 
 3. **Reply on RC1** (2026)
    0 citations · General CDR

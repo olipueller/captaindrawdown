@@ -1,7 +1,7 @@
 ---
 title: "Yinying Jiao"
 description: "Yinying Jiao is a Mid-career Soil Carbon researcher at Gansu Agricultural University in CN. With 33 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.288996
+date: 2026-10-11T02:32:59.293313
 url: "/cdr-researcher-census/researchers/yinying-jiao-a5000794/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Agricultural activities increased soil organic carbon in Shiyang River Basin, a typical inland river basin in China** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 2. **Terraced fields increased soil organic carbon content in croplands of the loess plateau** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 3. **Agricultural Activities Increased Soil Organic Carbon in Shiyang River Basin, a typical inland river basin in China** (2024)
    1 citations

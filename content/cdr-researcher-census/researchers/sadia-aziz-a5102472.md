@@ -1,7 +1,7 @@
 ---
 title: "Sadia Aziz"
 description: "Sadia Aziz is a Mid-career Biochar researcher at International Islamic University, Islamabad in PK. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.855191
+date: 2026-10-11T02:32:59.882188
 url: "/cdr-researcher-census/researchers/sadia-aziz-a5102472/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synthesis and characterization of nanobiochar from rice husk biochar for the removal of safranin and malachite green from water** (2023)
-   76 citations · Biochar
+   80 citations · Biochar
 
 ## External Profiles
 

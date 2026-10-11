@@ -1,7 +1,7 @@
 ---
 title: "Xuejun Zhang"
 description: "Xuejun Zhang is a Senior Enhanced Weathering researcher at Linyi University in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.765966
+date: 2026-10-11T02:32:59.789167
 url: "/cdr-researcher-census/researchers/xuejun-zhang-a5109792/"
 layout: "researcher"
 hiddenInHomeList: true

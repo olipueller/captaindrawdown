@@ -1,7 +1,7 @@
 ---
 title: "Yijia Tian"
 description: "Yijia Tian is a Mid-career Soil Carbon researcher at Women's Hospital, School of Medicine, Zhejiang University in CN. With 25 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.953089
+date: 2026-10-11T02:32:59.984002
 url: "/cdr-researcher-census/researchers/yijia-tian-a5058056/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Exogenous carbon turnover within the soil food web strengthens soil carbon sequestration through microbial necromass accumulation** (2023)
-   88 citations · Soil Carbon
+   89 citations · Soil Carbon
 
 2. **Stover return enhances the transformation and sequestration of photosynthetic carbon through regulating soil food web** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 3. **[Application of stable isotope techniques in soil food web research].** (2023)
    0 citations · Soil Carbon

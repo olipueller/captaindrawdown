@@ -1,7 +1,7 @@
 ---
 title: "Pitchaiah Sudalaimuthu"
 description: "Pitchaiah Sudalaimuthu is a Mid-career Biochar researcher at National Institute of Technology Tiruchirappalli in IN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.845563
+date: 2026-10-11T02:32:59.871616
 url: "/cdr-researcher-census/researchers/pitchaiah-sudalaimuthu-a5006798/"
 layout: "researcher"
 hiddenInHomeList: true

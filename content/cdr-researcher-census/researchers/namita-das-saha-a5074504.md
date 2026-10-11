@@ -1,7 +1,7 @@
 ---
 title: "Namita Das Saha"
 description: "Namita Das Saha is a Senior Soil Carbon researcher at ICAR – National Research Centre on Litchi in NP. With 44 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.744523
+date: 2026-10-11T02:32:59.766804
 url: "/cdr-researcher-census/researchers/namita-das-saha-a5074504/"
 layout: "researcher"
 hiddenInHomeList: true

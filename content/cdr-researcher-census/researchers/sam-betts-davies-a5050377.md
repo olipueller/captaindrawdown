@@ -1,7 +1,7 @@
 ---
 title: "Sam Betts-Davies"
 description: "Sam Betts-Davies is a Mid-career General CDR researcher at University of Leeds in GB. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.636207
+date: 2026-10-11T02:32:59.654747
 url: "/cdr-researcher-census/researchers/sam-betts-davies-a5050377/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Energy demand reduction options for meeting national zero-emission targets in the United Kingdom** (2022)
-   190 citations · General CDR
+   191 citations · General CDR
 
 2. **Comparative analysis of UK net-zero scenarios: The role of energy demand reduction** (2023)
    23 citations · General CDR

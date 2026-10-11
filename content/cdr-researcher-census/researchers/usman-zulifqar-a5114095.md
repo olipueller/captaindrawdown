@@ -1,7 +1,7 @@
 ---
 title: "Usman Zulifqar"
 description: "Usman Zulifqar is an Early-career Soil Carbon researcher at Islamia University of Bahawalpur in PK. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.955360
+date: 2026-10-11T02:32:59.986826
 url: "/cdr-researcher-census/researchers/usman-zulifqar-a5114095/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon Sequestration to Avoid Soil Degradation: A Review on the Role of Conservation Tillage** (2021)
-   176 citations · Soil Carbon
+   179 citations · Soil Carbon
 
 ## External Profiles
 

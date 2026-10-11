@@ -1,7 +1,7 @@
 ---
 title: "Ashley Dinauer"
 description: "Ashley Dinauer is a Mid-career Ocean CDR researcher at University of Bern in CH. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.697470
+date: 2026-10-11T02:32:59.717887
 url: "/cdr-researcher-census/researchers/ashley-dinauer-a5040966/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **What Controls the Large‐Scale Efficiency of Carbon Transfer Through the Ocean's Mesopelagic Zone? Insights From a New, Mechanistic Model (MSPACMAM)** (2022)
-   27 citations · Ocean CDR
+   25 citations · Ocean CDR
 
 2. **Impacts of dynamically simulated biogenic particles and iron on the marine carbon cycle** (2024)
    0 citations

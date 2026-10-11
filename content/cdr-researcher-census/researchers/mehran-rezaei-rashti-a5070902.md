@@ -1,7 +1,7 @@
 ---
 title: "Mehran Rezaei Rashti"
 description: "Mehran Rezaei Rashti is a Senior Soil Carbon researcher at Griffith University Griffith Sciences in AU. With 74 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.139105
+date: 2026-10-11T02:32:59.143549
 url: "/cdr-researcher-census/researchers/mehran-rezaei-rashti-a5070902/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Application of Rice Husk Biochar for Achieving Sustainable Agriculture and Environment** (2021)
-   187 citations · Biochar
+   188 citations · Biochar
 
 2. **Soil greenhouse gas fluxes from tropical coastal wetlands and alternative agricultural land uses** (2021)
-   31 citations · Soil Carbon
+   35 citations · Soil Carbon
 
 3. **Combination of Biochar‐Based Fertilisers and Reactive Barriers Improved Soil Carbon Storage, Soil Moisture Retention, and Crop Yield in Short Term** (2025)
-   14 citations · Biochar
+   13 citations · Biochar
 
 4. **Greenhouse gas emissions from tropical coastal wetlands and their alternative agricultural lands: Where significant mitigation gains lie** (2021)
    3 citations · General CDR

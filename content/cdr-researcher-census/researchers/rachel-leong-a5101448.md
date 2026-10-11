@@ -1,7 +1,7 @@
 ---
 title: "Rachel Leong"
 description: "Rachel Leong is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.025319
+date: 2026-10-11T02:33:00.056627
 url: "/cdr-researcher-census/researchers/rachel-leong-a5101448/"
 layout: "researcher"
 hiddenInHomeList: true

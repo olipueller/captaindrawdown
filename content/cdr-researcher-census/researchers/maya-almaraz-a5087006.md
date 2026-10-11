@@ -1,7 +1,7 @@
 ---
 title: "Maya Almaraz"
 description: "Maya Almaraz is a Mid-career General CDR researcher at Yale University in US. With 56 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.213679
+date: 2026-10-11T02:32:59.217612
 url: "/cdr-researcher-census/researchers/maya-almaraz-a5087006/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,34 +51,34 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Enhanced Rock Weathering for Carbon Removal–Monitoring and Mitigating Potential Environmental Impacts on Agricultural Land** (2024)
-   45 citations · Enhanced Weathering
+   47 citations · Enhanced Weathering
 
 2. **Soil carbon sequestration in global working lands as a gateway for negative emission technologies** (2023)
    38 citations · General CDR
 
 3. **Methods for determining the CO2 removal capacity of enhanced weathering in agronomic settings** (2022)
-   37 citations · Enhanced Weathering
+   38 citations · Enhanced Weathering
 
 4. **Reduced accrual of mineral-associated organic matter after two years of enhanced rock weathering in cropland soils, though no net losses of soil organic carbon** (2024)
-   34 citations · Enhanced Weathering
+   36 citations · Enhanced Weathering
 
 5. **A review of carbon farming impacts on nitrogen cycling, retention, and loss** (2021)
    22 citations · General CDR
 
-6. **Reduced accrual of mineral-associated organic matter after two years of enhanced rock weathering in cropland soils, though no net losses of soil organic carbon** (2024)
+6. **Expert elicitation on agricultural enhanced weathering reveals carbon dioxide removal potential and uncertainties in loss pathways** (2026)
+   5 citations · Enhanced Weathering
+
+7. **Reduced accrual of mineral-associated organic matter after two years of enhanced rock weathering in cropland soils, though no net losses of soil organic carbon** (2024)
    4 citations
 
-7. **Expert elicitation on agricultural enhanced weathering highlights CO2 removal potential and uncertainties in loss pathways** (2025)
+8. **Expert elicitation on agricultural enhanced weathering highlights CO2 removal potential and uncertainties in loss pathways** (2025)
    3 citations · Enhanced Weathering
 
-8. **Enhanced Weathering May Benefit From Co‐Application With Organic Amendments** (2025)
+9. **Enhanced Weathering May Benefit From Co‐Application With Organic Amendments** (2025)
    3 citations · Enhanced Weathering
 
-9. **Undervaluing soil carbon sequestration potential enables climate inaction** (2023)
+10. **Undervaluing soil carbon sequestration potential enables climate inaction** (2023)
    3 citations · General CDR
-
-10. **Expert elicitation on agricultural enhanced weathering reveals carbon dioxide removal potential and uncertainties in loss pathways** (2026)
-   2 citations · Enhanced Weathering
 
 ## External Profiles
 

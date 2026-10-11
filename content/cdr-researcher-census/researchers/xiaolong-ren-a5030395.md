@@ -1,7 +1,7 @@
 ---
 title: "Xiaolong Ren"
 description: "Xiaolong Ren is an Eminent Soil Carbon researcher at Central Hospital of Zibo in CN. With 154 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.052375
+date: 2026-10-11T02:32:59.056501
 url: "/cdr-researcher-census/researchers/xiaolong-ren-a5030395/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon Sequestration to Avoid Soil Degradation: A Review on the Role of Conservation Tillage** (2021)
-   176 citations · Soil Carbon
+   179 citations · Soil Carbon
 
 2. **Environment and agricultural practices regulate enhanced biochar-induced soil carbon pools and crop yield: A meta-analysis** (2023)
-   56 citations · Biochar
+   59 citations · Biochar
 
 3. **Interactive Effects of Maize Straw-Derived Biochar and N Fertilization on Soil Bulk Density and Porosity, Maize Productivity and Nitrogen Use Efficiency in Arid Areas** (2022)
    47 citations · Biochar
 
-4. **Nitrogen application at a lower rate reduce net field global warming potential and greenhouse gas intensity in winter wheat grown in semi-arid region of the Loess Plateau** (2022)
+4. **Manure substitution with appropriate N rate enhanced the soil quality, crop productivity and net ecosystem economic benefit: A sustainable rainfed wheat practice** (2023)
+   46 citations · Soil Carbon
+
+5. **Nitrogen application at a lower rate reduce net field global warming potential and greenhouse gas intensity in winter wheat grown in semi-arid region of the Loess Plateau** (2022)
    45 citations
 
-5. **Manure substitution with appropriate N rate enhanced the soil quality, crop productivity and net ecosystem economic benefit: A sustainable rainfed wheat practice** (2023)
-   43 citations · Soil Carbon
-
 6. **Appropriate fertilization increases carbon and nitrogen sequestration and economic benefit for straw-incorporated upland farming** (2024)
-   38 citations · Soil Carbon
+   40 citations · Soil Carbon
 
 7. **Straw-derived biochar optimizes water consumption, shoot and root characteristics to improve water productivity of maize under reduced nitrogen** (2024)
    12 citations · Biochar

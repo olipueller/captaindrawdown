@@ -1,7 +1,7 @@
 ---
 title: "Saba Zafar"
 description: "Saba Zafar is an Early-career Ocean CDR researcher at Government College University, Faisalabad in PK. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.051000
+date: 2026-10-11T02:33:00.081916
 url: "/cdr-researcher-census/researchers/saba-zafar-a5039426/"
 layout: "researcher"
 hiddenInHomeList: true

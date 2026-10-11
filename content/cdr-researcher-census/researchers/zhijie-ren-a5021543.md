@@ -1,7 +1,7 @@
 ---
 title: "Zhijie Ren"
 description: "Zhijie Ren is a Senior Soil Carbon researcher at 西北农林科技大学 in CN. With 37 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.162333
+date: 2026-10-11T02:32:59.166682
 url: "/cdr-researcher-census/researchers/zhijie-ren-a5021543/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-Term Minimum Tillage and Straw Retention Promote Macroaggregate Formation, Carbon and Nitrogen Sequestration under Wheat-Maize Rotation in Northern China** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 2. **Long-Term Minimum Tillage and Straw Retention Promote Macroaggregate Formation and Carbon and Nitrogen Sequestration in a Semi-Arid Area of Northern China** (2024)
    0 citations · Soil Carbon

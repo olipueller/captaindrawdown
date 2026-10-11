@@ -1,7 +1,7 @@
 ---
 title: "B. L. Manjunath"
 description: "B. L. Manjunath is a Senior Biochar researcher at Indian Institute of Horticultural Research in IN. With 49 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.556115
+date: 2026-10-11T02:32:59.571205
 url: "/cdr-researcher-census/researchers/b-l-manjunath-a5109876/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -67,6 +67,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 6. **Soil microbiome diversity and stress regulation** (2025)
    0 citations
+
+7. **Upgrading the Rice Husk Biochar Characteristics Through Microwave Assisted Phosphoric Acid Pretreatment Followed by Copyrolysis with Ldpe** (2022)
+   0 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Divyesh Patel"
 description: "Divyesh Patel is a Mid-career Biochar researcher at Maharaja Sayajirao University of Baroda in IN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.793060
+date: 2026-10-11T02:32:59.816763
 url: "/cdr-researcher-census/researchers/divyesh-patel-a5031665/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Repurposing the domestic organic waste into green emissive carbon dots and carbonized adsorbent: A sustainable zero waste process for metal sensing and dye sequestration** (2021)
-   72 citations · Biochar
+   71 citations · Biochar
 
 ## External Profiles
 

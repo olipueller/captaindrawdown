@@ -1,7 +1,7 @@
 ---
 title: "Ram Swaroop Meena"
 description: "Ram Swaroop Meena is an Eminent Soil Carbon researcher at Banaras Hindu University in IN. With 414 publications and an h-index of 66, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.024263
+date: 2026-10-11T02:32:59.027298
 url: "/cdr-researcher-census/researchers/ram-swaroop-meena-a5080095/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    102 citations · General CDR
 
 5. **Carbon sequestration potential and CO2 fluxes in a tropical forest ecosystem** (2022)
-   97 citations · Soil Carbon
+   100 citations · Soil Carbon
 
 6. **Interaction impact of biocompost on nutrient dynamics and relations with soil biota, carbon fractions index, societal value of CO2 equivalent and ecosystem services in the wheat-rice farming** (2023)
    88 citations · General CDR
@@ -75,7 +75,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    71 citations · General CDR
 
 9. **Soil Carbon Stock and Sequestration: Implications for Climate Change Adaptation and Mitigation** (2021)
-   61 citations · General CDR
+   62 citations · General CDR
 
 10. **Agroforestry a model for ecological sustainability** (2022)
    45 citations · Soil Carbon

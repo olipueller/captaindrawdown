@@ -1,7 +1,7 @@
 ---
 title: "Shuang‐Guo Zhu"
 description: "Shuang‐Guo Zhu is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 30 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.332684
+date: 2026-10-11T02:32:59.338275
 url: "/cdr-researcher-census/researchers/shuangguo-zhu-a5102788/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    13 citations · Soil Carbon
 
 2. **Environmental and Economic Impacts of Biodegradable Plastic Film Mulching on Rainfed Maize: Evaluations on Sustainability and Productivity** (2022)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 ## External Profiles
 

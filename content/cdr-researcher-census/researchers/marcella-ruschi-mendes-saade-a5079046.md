@@ -1,7 +1,7 @@
 ---
 title: "Marcella Ruschi Mendes Saade"
 description: "Marcella Ruschi Mendes Saade is a Senior General CDR researcher at Graz University of Technology in AT. With 77 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.084860
+date: 2026-10-11T02:32:59.089773
 url: "/cdr-researcher-census/researchers/marcella-ruschi-mendes-saade-a5079046/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Future trends in materials manufacturing for low carbon building stocks: A prospective macro-scale analysis at the provincial level** (2022)
-   38 citations · General CDR
+   39 citations · General CDR
 
 2. **Future Life-Cycle Greenhouse Gas Emission Scenarios for the Austrian Building Stock: A Systematic Approach** (2025)
-   9 citations · General CDR
+   10 citations · General CDR
 
-3. **Carbon Dioxide Storage and Removal in EU Buildings** (2025)
+3. **Biogenic carbon dioxide storage and mineral carbonation uptake in EU buildings** (2026)
+   1 citations · Enhanced Weathering
+
+4. **Increasing the Evidence: The Role of Wooden Buildings and Forest Carbon Sinks on the Path to net-zero GHG emissions** (2025)
    1 citations · General CDR
 
-4. **Biogenic carbon dioxide storage and mineral carbonation uptake in EU buildings** (2026)
-   0 citations · Enhanced Weathering
+5. **Carbon Dioxide Storage and Removal in EU Buildings** (2025)
+   1 citations · General CDR
 
 ## External Profiles
 

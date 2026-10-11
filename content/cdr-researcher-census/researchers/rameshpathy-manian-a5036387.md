@@ -1,7 +1,7 @@
 ---
 title: "Rameshpathy Manian"
 description: "Rameshpathy Manian is a Mid-career Biochar researcher at Vellore Institute of Technology University in IN. With 33 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.684254
+date: 2026-10-11T02:32:59.704466
 url: "/cdr-researcher-census/researchers/rameshpathy-manian-a5036387/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Advances in biochar production from microalgae: techniques, challenges, and environmental benefits** (2025)
-   7 citations · Biochar
+   8 citations · Biochar
 
 2. **Integrated utilization of residual microalgal biochar as an anode material in microbial fuel cells for simultaneous wastewater treatment and energy recovery** (2026)
    0 citations · Biochar

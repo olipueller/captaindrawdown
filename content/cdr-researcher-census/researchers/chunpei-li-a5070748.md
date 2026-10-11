@@ -1,7 +1,7 @@
 ---
 title: "Chunpei Li"
 description: "Chunpei Li is a Mid-career Enhanced Weathering researcher at Yunnan Agricultural University in CN. With 61 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.275611
+date: 2026-10-11T02:32:59.279950
 url: "/cdr-researcher-census/researchers/chunpei-li-a5070748/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,11 +53,11 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 1. **Acidic condition accelerates cation release from purple rock in Southwestern China** (2022)
    7 citations · Enhanced Weathering
 
-2. **Effects of nitrogen fertilizers on the bacterial community diversity and the weathering of purple mudstone in Southwest China** (2023)
-   3 citations
+2. **Synergistic mineral-microbial regulation dominates mineral-associated organic carbon accrual by carbonate weathering** (2025)
+   3 citations · Enhanced Weathering
 
-3. **Synergistic mineral-microbial regulation dominates mineral-associated organic carbon accrual by carbonate weathering** (2025)
-   0 citations · Enhanced Weathering
+3. **Effects of nitrogen fertilizers on the bacterial community diversity and the weathering of purple mudstone in Southwest China** (2023)
+   3 citations
 
 4. **Bacteria Promoted the Weathering Degree of Purple Mudstone Under Nitrogen Fertilizer Addition** (2022)
    0 citations · Enhanced Weathering

@@ -1,7 +1,7 @@
 ---
 title: "Hina Chaudhary"
 description: "Hina Chaudhary is a Mid-career Biochar researcher at University of Delhi in IN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.302731
+date: 2026-10-11T02:33:00.333801
 url: "/cdr-researcher-census/researchers/hina-chaudhary-a5057090/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Comparative analysis of biochar production methods and their impacts on biochar physico-chemical properties and adsorption of heavy metals** (2024)
-   23 citations · Biochar
+   24 citations · Biochar
 
 ## External Profiles
 

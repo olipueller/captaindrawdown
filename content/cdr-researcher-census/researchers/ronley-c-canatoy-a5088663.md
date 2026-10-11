@@ -1,7 +1,7 @@
 ---
 title: "Ronley C. Canatoy"
 description: "Ronley C. Canatoy is a Mid-career Soil Carbon researcher at Central Mindanao University in PH. With 33 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.638517
+date: 2026-10-11T02:32:59.657088
 url: "/cdr-researcher-census/researchers/ronley-c-canatoy-a5088663/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Advancements in modified biochar production techniques and soil application: a critical review** (2025)
-   50 citations · Biochar
+   57 citations · Biochar
 
 2. **Importance of biochar as a key amendment to convert rice paddy into carbon negative** (2023)
-   17 citations · Biochar
+   18 citations · Biochar
 
 3. **Biochar manure decreases ammonia volatilization loss and sustains crop productivity in rice paddy** (2024)
    12 citations · Biochar

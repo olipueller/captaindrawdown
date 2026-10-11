@@ -1,7 +1,7 @@
 ---
 title: "Zhaofeng Chang"
 description: "Zhaofeng Chang is a Senior Biochar researcher at Kunming University of Science and Technology in CN. With 74 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.214952
+date: 2026-10-11T02:32:59.218844
 url: "/cdr-researcher-census/researchers/zhaofeng-chang-a5003993/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,16 +54,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    54 citations · Biochar
 
 2. **Biomass power generation: A pathway to carbon neutrality** (2024)
-   43 citations · BECCS
+   45 citations · BECCS
 
 3. **Biochar rate-dependent regulation of extended nitrogen supply by modifying stable aggregates-N and microbial responses** (2023)
    27 citations · Biochar
 
 4. **Global Distribution and Influencing Factors of Plant‐Available Phosphorus in (Semi‐)Natural Soils** (2025)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 5. **Environmental implications of residual pyrogenic carbonaceous materials from incomplete biomass combustion: a review** (2024)
-   12 citations · Biochar
+   13 citations · Biochar
 
 6. **The dual effect of disodium anthraquinone-2,6-disulfonate (AQDS) on the Cr(VI) removal by biochar: The enhanced electron transfer and the inhibited adsorption** (2023)
    7 citations · Biochar

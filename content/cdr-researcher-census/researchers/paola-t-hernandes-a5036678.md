@@ -1,7 +1,7 @@
 ---
 title: "Paola T. Hernandes"
 description: "Paola T. Hernandes is a Mid-career Biochar researcher at Universidade Federal de Santa Maria in BR. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.223186
+date: 2026-10-11T02:33:00.253730
 url: "/cdr-researcher-census/researchers/paola-t-hernandes-a5036678/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Investigation of biochar from Cedrella fissilis applied to the adsorption of atrazine herbicide from an aqueous medium** (2022)
-   57 citations · Biochar
+   59 citations · Biochar
 
 ## External Profiles
 

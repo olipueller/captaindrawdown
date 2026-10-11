@@ -1,7 +1,7 @@
 ---
 title: "Jennifer Kelly"
 description: "Jennifer Kelly is a Senior Soil Carbon researcher. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.105748
+date: 2026-10-11T02:33:00.136119
 url: "/cdr-researcher-census/researchers/jennifer-kelly-a5041215/"
 layout: "researcher"
 hiddenInHomeList: true

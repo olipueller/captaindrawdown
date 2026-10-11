@@ -1,7 +1,7 @@
 ---
 title: "Taiwo Fadeke Adegbembo"
 description: "Taiwo Fadeke Adegbembo is a Mid-career DAC researcher at Federal University of Technology in NG. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.232595
+date: 2026-10-11T02:33:00.262736
 url: "/cdr-researcher-census/researchers/taiwo-fadeke-adegbembo-a5080635/"
 layout: "researcher"
 hiddenInHomeList: true

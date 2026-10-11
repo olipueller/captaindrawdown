@@ -1,7 +1,7 @@
 ---
 title: "Loredana Loy"
 description: "Loredana Loy is a Mid-career General CDR researcher at University of Miami in US. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.026796
+date: 2026-10-11T02:33:00.058197
 url: "/cdr-researcher-census/researchers/loredana-loy-a5062199/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The IPCC in the hybrid public sphere: divergent responses to climate mitigation solutions in mainstream and social media** (2024)
-   7 citations · General CDR
+   8 citations · General CDR
 
 ## External Profiles
 

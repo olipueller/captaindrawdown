@@ -1,7 +1,7 @@
 ---
 title: "Yuling Tang"
 description: "Yuling Tang is a Senior Biochar researcher at Sichuan University in CN. With 62 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.168656
+date: 2026-10-11T02:32:59.172847
 url: "/cdr-researcher-census/researchers/yuling-tang-a5101174/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    48 citations · Biochar
 
 2. **An iron–based biochar for persulfate activation with highly efficient and durable removal of refractory dyes** (2021)
-   31 citations · Biochar
+   33 citations · Biochar
 
 3. **Resource utilization of tannery sludge to prepare biochar as persulfate activators for highly efficient degradation of tetracycline** (2022)
    26 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Ngoc Phuong Nguyen"
 description: "Ngoc Phuong Nguyen is a Mid-career Biochar researcher. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.792956
+date: 2026-10-11T02:32:59.816678
 url: "/cdr-researcher-census/researchers/ngoc-phuong-nguyen-a5009671/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Modern Carbon–Based Materials for Adsorptive Removal of Organic and Inorganic Pollutants from Water and Wastewater** (2021)
-   196 citations
+   199 citations
 
 2. **Performance and kinetics of biochar for the treatment of landfill leachate containing COD and heavy metal pollutants** (2026)
    0 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Mike Bastidas"
 description: "Mike Bastidas is a Mid-career Soil Carbon researcher at Bioversity International in CO. With 33 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.314244
+date: 2026-10-11T02:33:00.345064
 url: "/cdr-researcher-census/researchers/mike-bastidas-a5032806/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lili Niu"
 description: "Lili Niu is a Mid-career Soil Carbon researcher at Guizhou University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.214809
+date: 2026-10-11T02:33:00.244853
 url: "/cdr-researcher-census/researchers/lili-niu-a5108089/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of conservation tillage and straw mulching on crop yield, water use efficiency, carbon sequestration and economic benefits in the Loess Plateau region of China: A meta-analysis** (2024)
-   71 citations · Soil Carbon
+   76 citations · Soil Carbon
 
 ## External Profiles
 

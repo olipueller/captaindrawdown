@@ -1,7 +1,7 @@
 ---
 title: "Congting Sun"
 description: "Congting Sun is a Mid-career Biochar researcher at Liaoning University in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.837426
+date: 2026-10-11T02:32:59.863574
 url: "/cdr-researcher-census/researchers/congting-sun-a5101139/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhanced activation of PMS via Fe-MOFs-derives@BC for efficient removal of dyes: Complementary between radical and nonradical pathways** (2025)
-   13 citations · Biochar
+   16 citations · Biochar
+
+2. **Carbon vacancies modulated confined Fe single-atoms on loofah-derived biochar for Fenton-like process via non-radical PAA activation** (2026)
+   3 citations · Biochar
 
 ## External Profiles
 

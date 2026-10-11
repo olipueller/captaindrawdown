@@ -1,7 +1,7 @@
 ---
 title: "Asmat Ullah Khan"
 description: "Asmat Ullah Khan is a Mid-career General CDR researcher at Universiti Malaysia Pahang Al-Sultan Abdullah in MY. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.474364
+date: 2026-10-11T02:32:59.485550
 url: "/cdr-researcher-census/researchers/asmat-ullah-khan-a5103076/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Benzoic Acid-Assisted defect engineering of iron-based MOF (MIL-100(Fe)) for enhanced CO2 adsorption: Structural, kinetic, and thermodynamic insights** (2025)
-   6 citations
+   7 citations
 
 2. **SYNTHESIS AND CHARACTERIZATION OF BIMETALLIC MOF HKUST-1(Cu, Mg) ADSORBENTS AND THEIR APPLICATION IN NATURAL GAS PURIFICATION** (2024)
-   3 citations · General CDR
+   4 citations · General CDR
 
 ## External Profiles
 

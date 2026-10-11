@@ -1,7 +1,7 @@
 ---
 title: "Song Zhang"
 description: "Song Zhang is an Early-career Soil Carbon researcher at Yunnan University in CN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.347460
+date: 2026-10-11T02:33:00.382322
 url: "/cdr-researcher-census/researchers/song-zhang-a5147532/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Decades of reforestation significantly change microbial necromass, glomalin, and their contributions to soil organic carbon** (2023)
-   75 citations · Soil Carbon
+   76 citations · Soil Carbon
 
 ## External Profiles
 

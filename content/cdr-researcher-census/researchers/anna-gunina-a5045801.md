@@ -1,7 +1,7 @@
 ---
 title: "Anna Gunina"
 description: "Anna Gunina is an Eminent Soil Carbon researcher at University of Kassel in DE. With 153 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.042261
+date: 2026-10-11T02:32:59.045521
 url: "/cdr-researcher-census/researchers/anna-gunina-a5045801/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,25 +51,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Organic matter chemistry and bacterial community structure regulate decomposition processes in post-fire forest soils** (2021)
-   121 citations
+   123 citations
 
 2. **Carbon stabilization pathways in soil aggregates during long-term forest succession: Implications from δ13C signatures** (2023)
-   105 citations
+   107 citations
 
 3. **Diversified cropping systems benefit soil carbon and nitrogen stocks by increasing aggregate stability: Results of three fractionation methods** (2022)
    86 citations · Soil Carbon
 
 4. **Carbon sequestration through straw amendment: multi-pool dynamics within soil organic carbon** (2025)
-   44 citations · Soil Carbon
+   48 citations · Soil Carbon
 
 5. **Unfolding the Potential of Soil Microbial Community Diversity for Accumulation of Necromass Carbon at Large Scale** (2025)
-   42 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 6. **Mitigation of carbon dioxide by accelerated sequestration from long-term biochar amended paddy soil** (2021)
    38 citations · Biochar
 
 7. **Conversion from double-rice to maize-rice increases iron-bound organic carbon by “iron gate” and “enzyme latch” mechanisms** (2021)
-   23 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 8. **Regulation of soil organic carbon dynamics by microbial communities during reforestation of Chinese fir plantations after clear‐cutting** (2024)
    17 citations · Soil Carbon
@@ -77,7 +77,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 9. **Subsurface application of organic ameliorant in saline soils increases microbial necromass accumulation in mineral-associated organic matter** (2025)
    9 citations · Soil Carbon
 
-10. **From energy to (soil organic) matter** (2022)
+10. **Integrated soil–crop system management stabilizes soil organic carbon in saline soils via calcium-mediated synergy between microbial and mineral carbon pumps** (2026)
    6 citations · Soil Carbon
 
 ## External Profiles

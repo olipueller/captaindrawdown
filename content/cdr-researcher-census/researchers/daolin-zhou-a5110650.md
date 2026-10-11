@@ -1,7 +1,7 @@
 ---
 title: "Daolin Zhou"
 description: "Daolin Zhou is a Mid-career Biochar researcher at Changzhou University in CN. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.227789
+date: 2026-10-11T02:33:00.258042
 url: "/cdr-researcher-census/researchers/daolin-zhou-a5110650/"
 layout: "researcher"
 hiddenInHomeList: true

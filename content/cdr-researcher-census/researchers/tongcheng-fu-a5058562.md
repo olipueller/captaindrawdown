@@ -1,7 +1,7 @@
 ---
 title: "Tongcheng Fu"
 description: "Tongcheng Fu is a Mid-career Soil Carbon researcher at Changsha University in CN. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.580789
+date: 2026-10-11T02:32:59.596864
 url: "/cdr-researcher-census/researchers/tongcheng-fu-a5058562/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,16 +50,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Carbon sequestration potential and its main drivers in soils under alfalfa (Medicago sativa L.)** (2024)
+1. **Marginal land conversion to perennial energy crops with biomass removal enhances soil carbon sequestration** (2022)
+   37 citations · Soil Carbon
+
+2. **Carbon sequestration potential and its main drivers in soils under alfalfa (Medicago sativa L.)** (2024)
    26 citations · Soil Carbon
 
-2. **The efficiency and stability of soil organic carbon sequestration by perennial energy crops cultivation on marginal land depended on root traits** (2023)
+3. **The efficiency and stability of soil organic carbon sequestration by perennial energy crops cultivation on marginal land depended on root traits** (2023)
    24 citations · Soil Carbon
 
-3. **Effects of soil physics, chemistry, and microbiology on soil carbon sequestration in infertile red soils after long‐term cultivation of perennial grasses** (2022)
+4. **Effects of soil physics, chemistry, and microbiology on soil carbon sequestration in infertile red soils after long‐term cultivation of perennial grasses** (2022)
    10 citations · General CDR
 
-4. **Long‐Term Cultivation of Perennial Energy Crops Enhance Ecosystem Multifunctionality on Marginal Red Soil Without Trade‐Offs** (2026)
+5. **Long‐Term Cultivation of Perennial Energy Crops Enhance Ecosystem Multifunctionality on Marginal Red Soil Without Trade‐Offs** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

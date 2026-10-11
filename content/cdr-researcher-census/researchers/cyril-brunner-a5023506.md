@@ -1,7 +1,7 @@
 ---
 title: "Cyril Brunner"
 description: "Cyril Brunner is a Mid-career General CDR researcher at ETH Zurich in CH. With 38 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.898934
+date: 2026-10-11T02:32:59.928191
 url: "/cdr-researcher-census/researchers/cyril-brunner-a5023506/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Durability of carbon dioxide removal is critical for Paris climate goals** (2024)
-   62 citations · General CDR
+   67 citations · General CDR
 
 2. **Anchoring overshoot in reality** (2026)
    0 citations · General CDR

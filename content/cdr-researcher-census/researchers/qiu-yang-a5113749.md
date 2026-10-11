@@ -1,7 +1,7 @@
 ---
 title: "Qiu Yang"
 description: "Qiu Yang is a Senior Soil Carbon researcher at China Academy of Engineering Physics in CN. With 78 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.102447
+date: 2026-10-11T02:32:59.107190
 url: "/cdr-researcher-census/researchers/qiu-yang-a5113749/"
 layout: "researcher"
 hiddenInHomeList: true

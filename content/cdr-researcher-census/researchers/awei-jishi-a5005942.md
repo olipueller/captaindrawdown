@@ -1,7 +1,7 @@
 ---
 title: "Awei Ji‐Shi"
 description: "Awei Ji‐Shi is an Early-career Soil Carbon researcher at State Key Laboratory of Herbage Improvement and Grassland Agro-ecosystems. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.393257
+date: 2026-10-11T02:33:00.430724
 url: "/cdr-researcher-census/researchers/awei-jishi-a5005942/"
 layout: "researcher"
 hiddenInHomeList: true

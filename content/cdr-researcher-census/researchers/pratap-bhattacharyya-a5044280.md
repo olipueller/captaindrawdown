@@ -1,7 +1,7 @@
 ---
 title: "Pratap Bhattacharyya"
 description: "Pratap Bhattacharyya is an Eminent Soil Carbon researcher at Central Rice Research Institute in IN. With 173 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.048670
+date: 2026-10-11T02:32:59.052416
 url: "/cdr-researcher-census/researchers/pratap-bhattacharyya-a5044280/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long‐term manure application for crop yield stability and carbon sequestration in subtropical region** (2021)
-   26 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 2. **Spatial variation of algal diversity due to conversion of mangrove to rice ecology in Sundarban, India** (2024)
    11 citations
@@ -59,25 +59,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Trade-off between soil aggregate stability and carbon decomposition under 44 years long-term integrated nutrient management in rice-wheat-jute system** (2021)
    9 citations · Soil Carbon
 
-4. **Harnessing the potential of microalgae for carbon sequestration to achieve net-zero emissions** (2025)
-   8 citations · Ocean CDR
+4. **Comparative assessment of biomass, carbon storage and soil CO2 fluxes in degraded mangroves in the major estuarine gradients of the sundarban, India** (2025)
+   8 citations · Soil Carbon
 
-5. **Comparative assessment of biomass, carbon storage and soil CO2 fluxes in degraded mangroves in the major estuarine gradients of the sundarban, India** (2025)
-   7 citations · Soil Carbon
+5. **Harnessing the potential of microalgae for carbon sequestration to achieve net-zero emissions** (2025)
+   8 citations · Ocean CDR
 
 6. **Impact of Conservation Agriculture on Greenhouse Gas Emission and Its Implications** (2021)
    5 citations · General CDR
 
-7. **Blue Carbon Sequestration Potential of Soils in Degraded Mangroves of Sundarban, India: A Geochemical Approach** (2025)
+7. **Carbon Dynamics and Greenhouse Gases Emissions in Coastal Agriculture: Mangrove-Rice Ecology in Sundarban, India** (2022)
+   2 citations · Soil Carbon
+
+8. **Blue Carbon Sequestration Potential of Soils in Degraded Mangroves of Sundarban, India: A Geochemical Approach** (2025)
    1 citations · Soil Carbon
 
-8. **Pricing of Carbon Sequestration and Environmental Regulation** (2022)
+9. **Pricing of Carbon Sequestration and Environmental Regulation** (2022)
    1 citations · General CDR
 
-9. **Carbon Dynamics and Greenhouse Gases Emissions in Coastal Agriculture: Mangrove-Rice Ecology in Sundarban, India** (2022)
-   1 citations · Soil Carbon
-
-10. **Identification of key carbon-fixation pathways and underlying genes for higher CO2 fixation of mangrove-associated microalgae** (2026)
+10. **Mangrove species regulated root-microbe interactions governing GHGs emissions in the coastal wetland** (2026)
    0 citations
 
 ## External Profiles

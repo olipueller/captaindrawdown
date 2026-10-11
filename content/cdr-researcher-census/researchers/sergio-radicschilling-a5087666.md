@@ -1,7 +1,7 @@
 ---
 title: "Sergio Radic‐Schilling"
 description: "Sergio Radic‐Schilling is a Mid-career Soil Carbon researcher at Universidad de Magallanes in CL. With 27 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.113708
+date: 2026-10-11T02:33:00.144626
 url: "/cdr-researcher-census/researchers/sergio-radicschilling-a5087666/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Perspective of soil carbon sequestration in Chilean volcanic soils** (2024)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 2. **Vegas (Mallínes): Patagonian wetlands still underexplored by soil science. An international and multidisciplinary effort to highlight their soil-based ecosystems functions** (2025)
    0 citations · Soil Carbon

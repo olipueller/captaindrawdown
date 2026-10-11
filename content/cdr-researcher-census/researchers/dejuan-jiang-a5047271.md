@@ -1,7 +1,7 @@
 ---
 title: "Dejuan Jiang"
 description: "Dejuan Jiang is a Senior Biochar researcher at Chinese Academy of Sciences in CN. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.279328
+date: 2026-10-11T02:32:59.283662
 url: "/cdr-researcher-census/researchers/dejuan-jiang-a5047271/"
 layout: "researcher"
 hiddenInHomeList: true

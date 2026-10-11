@@ -1,7 +1,7 @@
 ---
 title: "Tobias Klöffel"
 description: "Tobias Klöffel is a Mid-career Soil Carbon researcher at University of Copenhagen in DK. With 26 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.544994
+date: 2026-10-11T02:32:59.559995
 url: "/cdr-researcher-census/researchers/tobias-kloffel-a5006174/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Interactions between soil structure dynamics, hydrological processes, and organic matter cycling: A new soil‐crop model** (2024)
-   57 citations · Soil Carbon
+   58 citations · Soil Carbon
 
 2. **Effects of rock amendment on soil physicochemical properties and organic carbon stabilization** (2025)
-   2 citations · Enhanced Weathering
+   3 citations · Enhanced Weathering
 
 3. **The Daisy model: A tool for simulating agricultural systems – Recent (2012–2025) developments, calibrations and validations** (2026)
    0 citations

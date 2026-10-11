@@ -1,7 +1,7 @@
 ---
 title: "Ruoyu Du"
 description: "Ruoyu Du is a Mid-career Biochar researcher at Chongqing Technology and Business University in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.530383
+date: 2026-10-11T02:32:59.544354
 url: "/cdr-researcher-census/researchers/ruoyu-du-a5005395/"
 layout: "researcher"
 hiddenInHomeList: true

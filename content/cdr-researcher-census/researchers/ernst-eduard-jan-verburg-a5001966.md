@@ -1,7 +1,7 @@
 ---
 title: "Ernst Eduard Jan Verburg"
 description: "Ernst Eduard Jan Verburg is a Mid-career Soil Carbon researcher at University of Saskatchewan in CA. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.017394
+date: 2026-10-11T02:33:00.048354
 url: "/cdr-researcher-census/researchers/ernst-eduard-jan-verburg-a5001966/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Thermal stability of soil organic carbon after long-term manure application across land uses and tillage systems in an oxisol** (2021)
-   26 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 ## External Profiles
 

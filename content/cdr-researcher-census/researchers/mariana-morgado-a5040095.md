@@ -1,7 +1,7 @@
 ---
 title: "Mariana Morgado"
 description: "Mariana Morgado is a Mid-career Soil Carbon researcher at Estonian University of Life Sciences in EE. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.047013
+date: 2026-10-11T02:33:00.077742
 url: "/cdr-researcher-census/researchers/mariana-morgado-a5040095/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Carbon and Nitrogen storage in Baltic coastal wetlands** (2022)
+1. **Unravelling drivers of organic matter dynamics in Baltic coastal wetlands using the TBI method** (2026)
+   1 citations
+
+2. **Carbon and Nitrogen storage in Baltic coastal wetlands** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

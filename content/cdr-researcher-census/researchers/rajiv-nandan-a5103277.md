@@ -1,7 +1,7 @@
 ---
 title: "Rajiv Nandan"
 description: "Rajiv Nandan is a Senior Soil Carbon researcher at Central Agricultural University in IN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.432121
+date: 2026-10-11T02:32:59.442387
 url: "/cdr-researcher-census/researchers/rajiv-nandan-a5103277/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Climate smart land configurations and cropping systems diversification sustaining soil–water–carbon synergy and resource use efficiency** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

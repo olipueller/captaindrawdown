@@ -1,7 +1,7 @@
 ---
 title: "Qirui Qin"
 description: "Qirui Qin is a Mid-career Biochar researcher at Southwest Jiaotong University in CN. With 11 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.968295
+date: 2026-10-11T02:32:59.999499
 url: "/cdr-researcher-census/researchers/qirui-qin-a5025433/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -49,6 +49,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 1. **Recent Advance on Torrefaction Valorization and Application of Biochar from Agricultural Waste for Soil Remediation** (2021)
    13 citations · Biochar
+
+2. **Corn stalk-zeolite Co-pyrolyzed biochar modified by Mg and chitosan coating: Adsorption mechanism and nutrient slow-release properties** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

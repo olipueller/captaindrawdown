@@ -1,7 +1,7 @@
 ---
 title: "Jinting Jiang"
-description: "Jinting Jiang is a Mid-career Biochar researcher at Weifang University of Science and Technology in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.221742
+description: "Jinting Jiang is a Mid-career Biochar researcher at Sichuan University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:33:00.219526
 url: "/cdr-researcher-census/researchers/jinting-jiang-a5063405/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jinting-jiang-a5063405/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Weifang University of Science and Technology"
+    "name": "Sichuan University"
   },
   "sameAs": "https://openalex.org/A5063405838"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Jinting Jiang**  
-Weifang University of Science and Technology · 🇨🇳 CN
+Sichuan University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,15 +40,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 133 |
-| Publications | 7 |
-| CDR Focus | 14.3% |
+| Citations | 140 |
+| Publications | 9 |
+| CDR Focus | 11.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **In Situ-Grown MIL-100(Fe) for Interfacial Regulation of KTBC and Its Adsorption Performance and Mechanism for Xylenol Orange Removal** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

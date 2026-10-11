@@ -1,7 +1,7 @@
 ---
 title: "Ruma Das"
 description: "Ruma Das is a Senior Soil Carbon researcher at ICAR-National Bureau of Soil Survey and Land Use Planning RC Kolkata in IN. With 50 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.285617
+date: 2026-10-11T02:32:59.290349
 url: "/cdr-researcher-census/researchers/ruma-das-a5101446/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 14 |
 | Citations | 880 |
 | Publications | 50 |
-| CDR Focus | 14.0% |
-| Trajectory | Declining |
+| CDR Focus | 16.0% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Influence of Clay Mineralogy on Soil Organic Carbon Stabilization under Tropical Climate, India** (2022)
-   34 citations · Soil Carbon
+   35 citations · Soil Carbon
 
 2. **Development of unique soil organic carbon stability index under influence of integrated nutrient management in four major soil orders of India** (2024)
    8 citations · Soil Carbon
@@ -68,16 +68,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 6. **Role of Clay-humus Complexes in Soil Organic Carbon Stabilization Across Paddy Soils in Diverse Indian Soil Orders** (2024)
    1 citations · Soil Carbon
 
-7. **Is cinchona (Cinchona sp.) a sustainable land use practice in the Eastern Himalayas of India? A comparative study with other land uses in relation to soil properties and carbon indices** (2026)
+7. **Soil Health Management Under Drought: Carbon Sequestration, Microbiome, and Structural Resilience** (2026)
+   0 citations · Biochar
+
+8. **Is cinchona (Cinchona sp.) a sustainable land use practice in the Eastern Himalayas of India? A comparative study with other land uses in relation to soil properties and carbon indices** (2026)
    0 citations
 
-8. **Impact of Forest Land Conversion on Soil Organic Carbon and Enzyme Activity Across Different Land‐Use Systems in the Indo‐Gangetic Plains, India: Assessment Through Machine Learning** (2026)
+9. **Impact of Forest Land Conversion on Soil Organic Carbon and Enzyme Activity Across Different Land‐Use Systems in the Indo‐Gangetic Plains, India: Assessment Through Machine Learning** (2026)
    0 citations
 
-9. **Stability of Organic Carbon in Soil Under Rice and Non-Rice-Based Cropping Systems in Indo-Gangetic Plains of India** (2026)
-   0 citations · Soil Carbon
-
-10. **Long-Term Effect of Organic Agriculture on Carbon Stability in Clay-Organic Complex and its Role in Soil Aggregation** (2021)
+10. **Stability of Organic Carbon in Soil Under Rice and Non-Rice-Based Cropping Systems in Indo-Gangetic Plains of India** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

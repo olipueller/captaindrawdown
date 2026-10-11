@@ -1,7 +1,7 @@
 ---
 title: "Tobias Haas"
 description: "Tobias Haas is a Senior General CDR researcher at Research Institute for Sustainability at GFZ in DE. With 74 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.326233
+date: 2026-10-11T02:32:59.332021
 url: "/cdr-researcher-census/researchers/tobias-haas-a5025637/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    33 citations · General CDR
 
 2. **Whose negative emissions? Exploring emergent perspectives on CDR from the EU's hard to abate and fossil industries** (2024)
-   19 citations · General CDR
+   18 citations · General CDR
 
 3. **Next stop carbon dioxide removal? German climate policies and the risky road to negative emission technologies** (2024)
    4 citations · General CDR

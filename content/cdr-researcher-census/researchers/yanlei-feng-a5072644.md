@@ -1,7 +1,7 @@
 ---
 title: "Yanlei Feng"
 description: "Yanlei Feng is a Mid-career General CDR researcher at IIT@MIT in US. With 32 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.672221
+date: 2026-10-11T02:32:59.692106
 url: "/cdr-researcher-census/researchers/yanlei-feng-a5072644/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Global biomethane and carbon dioxide removal potential through anaerobic digestion of waste biomass** (2024)
-   31 citations
+   32 citations
 
 2. **Challenges of Integrating Direct Air Capture with Methanol Synthesis: A Techno-Economic Analysis** (2025)
    3 citations

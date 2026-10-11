@@ -1,7 +1,7 @@
 ---
 title: "Lingling Shi"
 description: "Lingling Shi is a Senior Soil Carbon researcher at University of Tuebingen in DE. With 140 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.059748
+date: 2026-10-11T02:32:59.064125
 url: "/cdr-researcher-census/researchers/lingling-shi-a5033376/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    33 citations · Soil Carbon
 
 2. **Necromass responses to warming: A faster microbial turnover in favor of soil carbon stabilisation** (2024)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 3. **Organic carbon loading of soils determines the fate of added fresh plant-derived organic matter** (2024)
    27 citations · Soil Carbon
@@ -63,15 +63,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    26 citations · Soil Carbon
 
 5. **Microplastic contamination accelerates soil carbon loss through positive priming** (2024)
-   21 citations
+   23 citations
 
 6. **Microbial efficiency drives depth-dependent soil carbon storage under organic fertilization** (2026)
-   6 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 7. **Trade-offs between stock and stability: Reversing land-use for soil carbon sequestration in a warming world** (2026)
    2 citations · Soil Carbon
 
-8. **Fungal biomass and guild dominance jointly determine soil organic carbon pools in alpine treeline ecosystems** (2026)
+8. **Microbial carbon and energy use efficiency after a centennial history of land use** (2026)
+   0 citations
+
+9. **Fungal biomass and guild dominance jointly determine soil organic carbon pools in alpine treeline ecosystems** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

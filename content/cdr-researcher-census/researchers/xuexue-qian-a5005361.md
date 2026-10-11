@@ -1,7 +1,7 @@
 ---
 title: "Xuexue Qian"
 description: "Xuexue Qian is a Mid-career General CDR researcher at Shanghai Normal University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.894486
+date: 2026-10-11T02:32:59.923196
 url: "/cdr-researcher-census/researchers/xuexue-qian-a5005361/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Spatial and temporal coordinated development research on ecosystem services and human well-being in the typical pastoral area of the Qinghai-Tibet Plateau** (2024)
-   18 citations · General CDR
+   21 citations · General CDR
 
 ## External Profiles
 

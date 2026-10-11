@@ -1,7 +1,7 @@
 ---
 title: "Peng Ling"
-description: "Peng Ling is a Mid-career Soil Carbon researcher at Shandong University in CN. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.180304
+description: "Peng Ling is a Mid-career Soil Carbon researcher at Hainan University in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:33:00.365821
 url: "/cdr-researcher-census/researchers/peng-ling-a5102020/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/peng-ling-a5102020/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Shandong University"
+    "name": "Hainan University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-6459-0244",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Peng Ling**  
-Shandong University · 🇨🇳 CN
+Hainan University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 142 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| h-index | 4 |
+| Citations | 112 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

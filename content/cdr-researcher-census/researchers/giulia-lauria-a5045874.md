@@ -1,7 +1,7 @@
 ---
 title: "Giulia Lauria"
 description: "Giulia Lauria is a Mid-career Biochar researcher at University of Pisa in IT. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.793158
+date: 2026-10-11T02:32:59.816843
 url: "/cdr-researcher-census/researchers/giulia-lauria-a5045874/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar as a soil amendment in the tree establishment phase: What are the consequences for tree physiology, soil quality and carbon sequestration?** (2022)
-   16 citations · Biochar
+   17 citations · Biochar
 
 2. **Biochar as Soil Amendment for the Tree Establishment Phase: What Consequences for Tree Physiology, Soil Quality and Carbon Sequestration?** (2022)
    2 citations · Biochar

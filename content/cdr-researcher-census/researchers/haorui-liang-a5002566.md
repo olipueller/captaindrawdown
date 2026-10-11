@@ -1,7 +1,7 @@
 ---
 title: "Haorui Liang"
 description: "Haorui Liang is a Mid-career Ocean CDR researcher at Ministry of Natural Resources in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.048852
+date: 2026-10-11T02:33:00.079569
 url: "/cdr-researcher-census/researchers/haorui-liang-a5002566/"
 layout: "researcher"
 hiddenInHomeList: true

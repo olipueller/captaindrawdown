@@ -1,7 +1,7 @@
 ---
 title: "Danielle Alderson"
 description: "Danielle Alderson is a Senior Soil Carbon researcher at University of Manchester in GB. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.991053
+date: 2026-10-11T02:33:00.021711
 url: "/cdr-researcher-census/researchers/danielle-alderson-a5063109/"
 layout: "researcher"
 hiddenInHomeList: true

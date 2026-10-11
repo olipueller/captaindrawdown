@@ -1,7 +1,7 @@
 ---
 title: "Yusuf Timilehin Ayinde"
 description: "Yusuf Timilehin Ayinde is an Early-career Biochar researcher at Federal University of Technology in NG. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.999125
+date: 2026-10-11T02:33:00.030134
 url: "/cdr-researcher-census/researchers/yusuf-timilehin-ayinde-a5015955/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **African almond (Terminalia catappa L) leaves biochar prepared through pyrolysis using H3PO4 as chemical activator for sequestration of methylene blue dye** (2022)
-   122 citations · Biochar
+   124 citations · Biochar
 
 2. **Characterization of prepared eco-friendly biochar from almond (Terminalia catappa L) leaf for sequestration of bromophenol blue (BPB) from aqueous solution** (2021)
    68 citations

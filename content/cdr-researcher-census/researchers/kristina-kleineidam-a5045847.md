@@ -1,7 +1,7 @@
 ---
 title: "Kristina Kleineidam"
 description: "Kristina Kleineidam is a Senior Soil Carbon researcher at Justus Liebig Universität Gießen in DE. With 45 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.167939
+date: 2026-10-11T02:32:59.172140
 url: "/cdr-researcher-census/researchers/kristina-kleineidam-a5045847/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    18 citations · Soil Carbon
 
 2. **Greenhouse Gases from Agriculture** (2021)
-   9 citations
+   8 citations
 
 3. **Impact of Long-Term Phosphorus Fertilization on Nitrogen and Carbon Cycle Dynamics, Greenhouse Gas Fluxes and Plant Growth in an Irish Grassland Soil** (2025)
    0 citations · Soil Carbon

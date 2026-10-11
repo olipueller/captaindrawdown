@@ -1,7 +1,7 @@
 ---
 title: "Shuangjie Xiao"
 description: "Shuangjie Xiao is a Mid-career Biochar researcher at Hunan University in CN. With 24 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.213799
+date: 2026-10-11T02:32:59.217702
 url: "/cdr-researcher-census/researchers/shuangjie-xiao-a5033199/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Electrochemical behaviors of biochar materials during pollutant removal in wastewater: A review** (2021)
-   55 citations · Biochar
+   56 citations · Biochar
 
 2. **Rapid reduction of chloramphenicol by sodium bicarbonate-activated biochar loaded with nano zero-valent iron: Influence of pyrolysis parameters and the key role of graphitic carbon structure** (2025)
-   6 citations · Biochar
+   8 citations · Biochar
 
 ## External Profiles
 

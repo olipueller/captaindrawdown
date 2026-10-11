@@ -1,7 +1,7 @@
 ---
 title: "Xianshu Zhou"
 description: "Xianshu Zhou is a Mid-career Biochar researcher at Guangxi University of Science and Technology in CN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.353474
+date: 2026-10-11T02:33:00.388385
 url: "/cdr-researcher-census/researchers/xianshu-zhou-a5078051/"
 layout: "researcher"
 hiddenInHomeList: true

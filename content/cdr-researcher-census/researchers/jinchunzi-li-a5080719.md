@@ -1,7 +1,7 @@
 ---
 title: "Jinchunzi Li"
 description: "Jinchunzi Li is a Mid-career Biochar researcher at Wuzhou University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.842746
+date: 2026-10-11T02:32:59.868693
 url: "/cdr-researcher-census/researchers/jinchunzi-li-a5080719/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -52,6 +52,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 1. **Enhanced removal of Cr(VI) using MnS-functionalized self-nitrogenated hydrochar: Synthesis, performance, and mechanisms** (2025)
    2 citations · Biochar
+
+2. **Synergistic Iron and Nitrogen Dual-Active Sites on Magnetic Biochar for Superior Hexavalent Chromium Remediation: Facile Synthesis, Enhanced Performance, and Mechanistic Insights** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

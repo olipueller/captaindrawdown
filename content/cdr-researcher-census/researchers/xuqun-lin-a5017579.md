@@ -1,7 +1,7 @@
 ---
 title: "Xuqun Lin"
 description: "Xuqun Lin is a Mid-career Biochar researcher at University of Technology Sydney in AU. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.685754
+date: 2026-10-11T02:32:59.706007
 url: "/cdr-researcher-census/researchers/xuqun-lin-a5017579/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar-cement concrete toward decarbonisation and sustainability for construction: Characteristic, performance and perspective** (2023)
-   123 citations · Biochar
+   131 citations · Biochar
 
 ## External Profiles
 

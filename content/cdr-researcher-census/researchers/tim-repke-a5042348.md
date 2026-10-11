@@ -1,7 +1,7 @@
 ---
 title: "Tim Repke"
 description: "Tim Repke is a Mid-career General CDR researcher at Leibniz Association in DE. With 55 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.427177
+date: 2026-10-11T02:32:59.437222
 url: "/cdr-researcher-census/researchers/tim-repke-a5042348/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,25 +51,25 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage** (2025)
-   45 citations · General CDR
+   54 citations · General CDR
 
 2. **Scientific literature on carbon dioxide removal revealed as much larger through AI-enhanced systematic mapping** (2025)
-   17 citations · General CDR
+   20 citations · General CDR
 
 3. **Scientific literature on carbon dioxide removal much larger than previously suggested: insights from an AI-enhanced systematic map** (2024)
    7 citations · General CDR
 
 4. **Attention and positive sentiments towards carbon dioxide removal have grown on social media over the past decade** (2024)
-   4 citations · General CDR
+   6 citations · General CDR
 
 5. **Growing online attention and positive sentiments towards carbon dioxide removal** (2024)
    2 citations · General CDR
 
-6. **Tweets on carbon dioxide removal** (2023)
-   1 citations
+6. **An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering** (2026)
+   1 citations · Enhanced Weathering
 
-7. **An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering** (2026)
-   0 citations · Enhanced Weathering
+7. **Tweets on carbon dioxide removal** (2023)
+   1 citations
 
 8. **Author response for "An Ecosystem of Carbon Dioxide Removal Reviews - Part 1: Direct Air CO2 Capture and Storage"** (2025)
    0 citations

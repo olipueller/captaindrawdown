@@ -1,7 +1,7 @@
 ---
 title: "Yanpeng Li"
 description: "Yanpeng Li is a Senior Soil Carbon researcher at Research Institute of Tropical Forestry in CN. With 100 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.242896
+date: 2026-10-11T02:32:59.246546
 url: "/cdr-researcher-census/researchers/yanpeng-li-a5084732/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Divergent effects of moderate grazing duration on carbon sequestration between temperate and alpine grasslands in China** (2022)
-   21 citations · General CDR
+   20 citations · General CDR
 
 2. **Soil organic carbon stock responded more sensitively to degradation in alpine meadows than in alpine steppes on the <scp>Qinghai‐Tibetan</scp> Plateau** (2022)
    20 citations · Soil Carbon
 
 3. **Plant Functional Traits Define Microbial Response to Nutrient Availability in Tropical Rainforest Soil** (2025)
-   8 citations
+   9 citations
 
 4. **Cross-scale spatial variability and associations of carbon pools provide insight into regulating carbon sequestration in tropical montane rainforests** (2024)
    5 citations · Soil Carbon

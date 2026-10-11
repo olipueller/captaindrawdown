@@ -1,7 +1,7 @@
 ---
 title: "Aaron Bizimana"
 description: "Aaron Bizimana is an Early-career General CDR researcher at Tongji University in CN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.245880
+date: 2026-10-11T02:33:00.276028
 url: "/cdr-researcher-census/researchers/aaron-bizimana-a5063463/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Pablo Bruna"
 description: "Pablo Bruna is a Mid-career Soil Carbon researcher at Universidad de La Frontera in CL. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.299111
+date: 2026-10-11T02:33:00.329466
 url: "/cdr-researcher-census/researchers/pablo-bruna-a5077423/"
 layout: "researcher"
 hiddenInHomeList: true

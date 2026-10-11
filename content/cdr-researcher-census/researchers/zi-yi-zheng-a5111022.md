@@ -1,7 +1,7 @@
 ---
 title: "Zi-Yi Zheng"
 description: "Zi-Yi Zheng is a Mid-career Soil Carbon researcher at Peking University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.389345
+date: 2026-10-11T02:33:00.426162
 url: "/cdr-researcher-census/researchers/zi-yi-zheng-a5111022/"
 layout: "researcher"
 hiddenInHomeList: true

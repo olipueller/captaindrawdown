@@ -1,7 +1,7 @@
 ---
 title: "Peng Gao"
 description: "Peng Gao is a Senior Soil Carbon researcher at Xinjiang Agricultural University in CN. With 34 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.336454
+date: 2026-10-11T02:32:59.342288
 url: "/cdr-researcher-census/researchers/peng-gao-a5086699/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    10 citations · Soil Carbon
 
 2. **Changes of microbial life history strategies to soil nutrient limitations following vegetation restoration and its impact on carbon utilization efficiency** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 3. **Influence of soil organic carbon fractions on the soil priming effect under different vegetation restoration modes** (2024)
    5 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Michelle C. Lallawmkimi"
 description: "Michelle C. Lallawmkimi is a Mid-career Soil Carbon researcher. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.093562
+date: 2026-10-11T02:33:00.124267
 url: "/cdr-researcher-census/researchers/michelle-c-lallawmkimi-a5057404/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Agroforestry Practices and Their Impact on Soil Health and Fertility: A Review** (2024)
-   16 citations · General CDR
+   17 citations · General CDR
 
 2. **Agroforestry: Multifunctional Benefits and Implementation Strategies** (2024)
    13 citations · General CDR
@@ -52,7 +52,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    11 citations · Soil Carbon
 
 4. **Harnessing Edaphic Microalgae for Soil Carbon Sequestration and Climate-smart Agriculture** (2025)
-   2 citations · General CDR
+   3 citations · General CDR
+
+5. **A Review of Natural Farming and Soil Health Restoration: Mechanisms and Long-Term Impacts** (2026)
+   0 citations
 
 ## External Profiles
 

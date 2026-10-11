@@ -1,7 +1,7 @@
 ---
 title: "Ploy Achakulwisut"
 description: "Ploy Achakulwisut is a Mid-career General CDR researcher at Stockholm Environment Institute in US. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.142924
+date: 2026-10-11T02:32:59.147191
 url: "/cdr-researcher-census/researchers/ploy-achakulwisut-a5059921/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Global fossil fuel reduction pathways under different climate mitigation strategies and ambitions** (2023)
-   425 citations · General CDR
+   445 citations · General CDR
 
 2. **Ten new insights in climate science 2023** (2023)
-   46 citations · General CDR
+   47 citations · General CDR
 
 ## External Profiles
 

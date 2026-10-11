@@ -1,7 +1,7 @@
 ---
 title: "Yingyang Song"
 description: "Yingyang Song is a Mid-career DAC researcher at Shanghai Jiao Tong University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.018319
+date: 2026-10-11T02:33:00.049602
 url: "/cdr-researcher-census/researchers/yingyang-song-a5002729/"
 layout: "researcher"
 hiddenInHomeList: true

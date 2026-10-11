@@ -1,7 +1,7 @@
 ---
 title: "Prachi Gaur"
-description: "Prachi Gaur is a Mid-career Biochar researcher at Amity University in IN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.001579
+description: "Prachi Gaur is a Mid-career Biochar researcher at Amity University in IN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:32:59.982178
 url: "/cdr-researcher-census/researchers/prachi-gaur-a5007036/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,10 +39,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 190 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| h-index | 7 |
+| Citations | 205 |
+| Publications | 16 |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

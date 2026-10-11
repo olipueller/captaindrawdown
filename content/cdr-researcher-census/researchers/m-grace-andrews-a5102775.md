@@ -1,7 +1,7 @@
 ---
 title: "M. Grace Andrews"
 description: "M. Grace Andrews is a Mid-career General CDR researcher at Climate Central in US. With 25 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.145926
+date: 2026-10-11T02:32:59.150115
 url: "/cdr-researcher-census/researchers/m-grace-andrews-a5102775/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Quantification of CO2 removal in a large-scale enhanced weathering field trial on an oil palm plantation in Sabah, Malaysia** (2022)
-   73 citations · Enhanced Weathering
+   76 citations · Enhanced Weathering
 
 2. **Responses of globally important phytoplankton species to olivine dissolution products and implications for carbon dioxide removal via ocean alkalinity enhancement** (2023)
-   39 citations · General CDR
+   57 citations · General CDR
 
 3. **Responses of globally important phytoplankton species to olivine dissolution products and implications for carbon dioxide removal via ocean alkalinity enhancement** (2023)
    19 citations
 
 4. **Public engagement and collaboration for carbon dioxide removal: lessons from a project in the Dominican Republic** (2024)
-   13 citations · General CDR
+   14 citations · General CDR
 
 5. **Localized governance of carbon dioxide removal in small island developing states** (2023)
-   10 citations · General CDR
+   11 citations · General CDR
 
 6. **Metal bioaccumulation and effects of olivine sand exposure on benthic marine invertebrates** (2024)
    7 citations · Enhanced Weathering
@@ -74,10 +74,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 8. **Limited impact on oysters in first-of-its-kind field trial of marine carbon dioxide removal (mCDR) strategy** (2025)
    1 citations · General CDR
 
-9. **Impact on oysters in first-of-its-kind field trial of marine Enhanced Rock Weathering (mERW) with olivine as carbon dioxide removal (CDR) strategy** (2026)
-   0 citations · Enhanced Weathering
+9. **Effects of Olivine Sand on Marine Invertebrates Survival and Trace Metal Bioaccumulation** (2024)
+   1 citations · Enhanced Weathering
 
-10. **Olivine-based marine carbon dioxide removal field trial shows no adverse effects on the benthic community** (2026)
+10. **Impact on oysters in first-of-its-kind field trial of marine Enhanced Rock Weathering (mERW) with olivine as carbon dioxide removal (CDR) strategy** (2026)
    0 citations · Enhanced Weathering
 
 ## External Profiles

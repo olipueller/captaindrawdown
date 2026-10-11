@@ -1,7 +1,7 @@
 ---
 title: "Ghulam Yasin"
 description: "Ghulam Yasin is a Senior Soil Carbon researcher at University of Sargodha in PK. With 106 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.116788
+date: 2026-10-11T02:32:59.121470
 url: "/cdr-researcher-census/researchers/ghulam-yasin-a5065692/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Role of Traditional Agroforestry Systems in Climate Change Mitigation through Carbon Sequestration: An Investigation from the Semi-Arid Region of Pakistan** (2023)
-   50 citations · General CDR
+   49 citations · General CDR
 
 2. **Carbon Storage Potential of Agroforestry System near Brick Kilns in Irrigated Agro-Ecosystem** (2022)
    24 citations · Soil Carbon
 
 3. **Assessing the Contribution of Citrus Orchards in Climate Change Mitigation through Carbon Sequestration in Sargodha District, Pakistan** (2021)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 4. **Estimating carbon stocks and biomass accumulation in three different agroforestry patterns in the semi-arid region of Pakistan** (2021)
-   19 citations · General CDR
+   18 citations · General CDR
 
-5. **Agroforestry status, services, and its role in climate change mitigation through carbon sequestration under semi-arid conditions** (2024)
+5. **Carbon Sequestration by Native Tree Species around the Industrial Areas of Southern Punjab, Pakistan** (2022)
    15 citations · General CDR
 
-6. **Carbon Sequestration by Native Tree Species around the Industrial Areas of Southern Punjab, Pakistan** (2022)
-   15 citations · General CDR
+6. **Agroforestry status, services, and its role in climate change mitigation through carbon sequestration under semi-arid conditions** (2024)
+   14 citations · General CDR
 
 7. **Urban Parks and Native Trees: A Profitable Strategy for Carbon Sequestration and Climate Resilience** (2025)
    7 citations · General CDR

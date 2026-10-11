@@ -1,7 +1,7 @@
 ---
 title: "Zhikuan Jia"
 description: "Zhikuan Jia is an Eminent Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 257 publications and an h-index of 51, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.030760
+date: 2026-10-11T02:32:59.033811
 url: "/cdr-researcher-census/researchers/zhikuan-jia-a5109008/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,22 +48,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Environment and agricultural practices regulate enhanced biochar-induced soil carbon pools and crop yield: A meta-analysis** (2023)
-   56 citations · Biochar
+   59 citations · Biochar
 
 2. **Interactive Effects of Maize Straw-Derived Biochar and N Fertilization on Soil Bulk Density and Porosity, Maize Productivity and Nitrogen Use Efficiency in Arid Areas** (2022)
    47 citations · Biochar
 
 3. **Appropriate fertilization increases carbon and nitrogen sequestration and economic benefit for straw-incorporated upland farming** (2024)
+   40 citations · Soil Carbon
+
+4. **Degradable film mulching increases soil carbon sequestration in major Chinese dryland agroecosystems** (2025)
    38 citations · Soil Carbon
 
-4. **Integrated straw-derived biochar utilization to increase net ecosystem carbon budget and economic benefit and reduce the environmental footprint** (2024)
-   37 citations · Biochar
-
-5. **Degradable film mulching increases soil carbon sequestration in major Chinese dryland agroecosystems** (2025)
-   34 citations · Soil Carbon
+5. **Integrated straw-derived biochar utilization to increase net ecosystem carbon budget and economic benefit and reduce the environmental footprint** (2024)
+   38 citations · Biochar
 
 6. **Can soil organic carbon sequestration and the carbon management index be improved by changing the film mulching methods in the semiarid region?** (2023)
-   19 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 7. **Can straw recycling achieve sustainable agriculture at the smallholder level? A case in a semi-arid region** (2024)
    16 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Sebastian Drużyński"
 description: "Sebastian Drużyński is a Senior Biochar researcher at Nicolaus Copernicus University in PL. With 35 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.877125
+date: 2026-10-11T02:32:59.904562
 url: "/cdr-researcher-census/researchers/sebastian-druzynski-a5016044/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **New Separation Material Obtained from Waste Rapeseed Cake for Copper(II) and Zinc(II) Removal from the Industrial Wastewater** (2021)
-   16 citations · Biochar
+   17 citations · Biochar
 
 2. **The Application of Pyrolysis Biochar Obtained from Waste Rapeseed Cake to Remove Copper from Industrial Wastewater: An Overview** (2024)
    12 citations · Biochar

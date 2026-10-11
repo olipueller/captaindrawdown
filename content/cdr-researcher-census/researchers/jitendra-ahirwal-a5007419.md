@@ -1,7 +1,7 @@
 ---
 title: "Jitendra Ahirwal"
 description: "Jitendra Ahirwal is a Senior Soil Carbon researcher at University of Allahabad in IN. With 59 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.127122
+date: 2026-10-11T02:32:59.131738
 url: "/cdr-researcher-census/researchers/jitendra-ahirwal-a5007419/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    63 citations
 
 2. **Stability of soil organic carbon pools affected by land use and land cover changes in forests of eastern Himalayan region, India** (2022)
-   42 citations · Soil Carbon
+   45 citations · Soil Carbon
 
 3. **Evaluating the Role of Community-Managed Forest in Carbon Sequestration and Climate Change Mitigation of Tripura, India** (2021)
-   24 citations
+   25 citations
 
 4. **Modeling Land Use and Climate Change Effects on Soil Organic Carbon Storage under Different Plantation Systems in Mizoram, Northeast India** (2023)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 5. **Variability of carbon stored in inland freshwater wetland in Northeast India** (2022)
    15 citations · Soil Carbon

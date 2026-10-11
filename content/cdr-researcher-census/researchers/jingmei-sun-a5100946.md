@@ -1,7 +1,7 @@
 ---
 title: "Jingmei Sun"
 description: "Jingmei Sun is a Senior Soil Carbon researcher at Harbin Medical University in CN. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.816158
+date: 2026-10-11T02:32:59.840669
 url: "/cdr-researcher-census/researchers/jingmei-sun-a5100946/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of vegetation restoration on soil organic carbon in the Loess Plateau: A meta‐analysis** (2022)
-   31 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 ## External Profiles
 

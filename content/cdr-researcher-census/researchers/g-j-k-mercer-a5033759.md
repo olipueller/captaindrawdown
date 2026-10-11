@@ -1,7 +1,7 @@
 ---
 title: "G. J. K. Mercer"
 description: "G. J. K. Mercer is a Senior Biochar researcher at AgResearch Ltd in NZ. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.654650
+date: 2026-10-11T02:32:59.673163
 url: "/cdr-researcher-census/researchers/g-j-k-mercer-a5033759/"
 layout: "researcher"
 hiddenInHomeList: true

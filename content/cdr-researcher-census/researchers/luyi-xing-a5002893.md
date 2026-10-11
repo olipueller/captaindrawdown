@@ -1,7 +1,7 @@
 ---
 title: "Luyi Xing"
 description: "Luyi Xing is a Mid-career Biochar researcher at Henan University of Science and Technology in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.648512
+date: 2026-10-11T02:32:59.667835
 url: "/cdr-researcher-census/researchers/luyi-xing-a5002893/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Boosting active sites of protogenetic sludge-based biochar by boron doping for electro-Fenton degradation towards emerging organic contaminants** (2022)
-   50 citations · Biochar
+   51 citations · Biochar
 
 ## External Profiles
 

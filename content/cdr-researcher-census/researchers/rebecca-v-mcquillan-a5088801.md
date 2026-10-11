@@ -1,7 +1,7 @@
 ---
 title: "Rebecca V. McQuillan"
 description: "Rebecca V. McQuillan is a Mid-career DAC researcher at The University of Melbourne in AU. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.563076
+date: 2026-10-11T02:32:59.578915
 url: "/cdr-researcher-census/researchers/rebecca-v-mcquillan-a5088801/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Direct air capture of CO2 using green amino acid salts** (2023)
-   55 citations
+   58 citations
 
 2. **Evaluation of potassium glycinate as a green solvent for direct air capture and modelling its performance in hollow fiber membrane contactors** (2024)
    23 citations

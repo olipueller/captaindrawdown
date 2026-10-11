@@ -1,7 +1,7 @@
 ---
 title: "Keerthi Mandyam"
 description: "Keerthi Mandyam is a Senior Soil Carbon researcher at South Dakota State University in US. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.180513
+date: 2026-10-11T02:32:59.184530
 url: "/cdr-researcher-census/researchers/keerthi-mandyam-a5030334/"
 layout: "researcher"
 hiddenInHomeList: true

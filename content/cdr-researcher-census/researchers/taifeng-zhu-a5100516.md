@@ -1,7 +1,7 @@
 ---
 title: "Taifeng Zhu"
 description: "Taifeng Zhu is a Mid-career Biochar researcher at Chinese Academy of Medical Sciences & Peking Union Medical College in CN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.254324
+date: 2026-10-11T02:33:00.284039
 url: "/cdr-researcher-census/researchers/taifeng-zhu-a5100516/"
 layout: "researcher"
 hiddenInHomeList: true

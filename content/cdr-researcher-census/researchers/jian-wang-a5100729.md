@@ -1,7 +1,7 @@
 ---
 title: "Jian Wang"
 description: "Jian Wang is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 21 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.147437
+date: 2026-10-11T02:33:00.176996
 url: "/cdr-researcher-census/researchers/jian-wang-a5100729/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    4 citations · Biochar
 
 2. **Glomalin related soil protein enhances the capacity of PAH natural attenuation in soils through modulation of soil organic matter and microbiota** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

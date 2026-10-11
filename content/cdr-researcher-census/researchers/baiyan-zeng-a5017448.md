@@ -1,7 +1,7 @@
 ---
 title: "Baiyan Zeng"
 description: "Baiyan Zeng is an Early-career Biochar researcher at Xinjiang New Energy Research Institute (China) in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.120857
+date: 2026-10-11T02:33:00.151504
 url: "/cdr-researcher-census/researchers/baiyan-zeng-a5017448/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    85 citations · Biochar
 
 2. **Modification of sludge-based biochar using air roasting-oxidation and its performance in adsorption of uranium(VI) from aqueous solutions** (2022)
-   56 citations · Biochar
+   57 citations · Biochar
 
 ## External Profiles
 

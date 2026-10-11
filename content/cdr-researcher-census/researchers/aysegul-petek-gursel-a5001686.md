@@ -1,7 +1,7 @@
 ---
 title: "Aysegul Petek Gursel"
 description: "Aysegul Petek Gursel is a Senior Biochar researcher at University of California, Berkeley in US. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.164764
+date: 2026-10-11T02:32:59.168790
 url: "/cdr-researcher-census/researchers/aysegul-petek-gursel-a5001686/"
 layout: "researcher"
 hiddenInHomeList: true

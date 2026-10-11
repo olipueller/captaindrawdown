@@ -1,7 +1,7 @@
 ---
 title: "Pranshu Shrivastava"
 description: "Pranshu Shrivastava is a Mid-career Biochar researcher at Energy and Resources Institute in IN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.980697
+date: 2026-10-11T02:33:00.011995
 url: "/cdr-researcher-census/researchers/pranshu-shrivastava-a5011776/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Comparative Investigation of Yield and Quality of Bio-Oil and Biochar from Pyrolysis of Woody and Non-Woody Biomasses** (2021)
-   83 citations · Biochar
+   86 citations · Biochar
 
 ## External Profiles
 

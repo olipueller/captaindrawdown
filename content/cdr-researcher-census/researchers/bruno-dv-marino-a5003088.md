@@ -1,7 +1,7 @@
 ---
 title: "Bruno D.V Marino"
 description: "Bruno D.V Marino is a Senior General CDR researcher. With 42 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.127557
+date: 2026-10-11T02:32:59.132213
 url: "/cdr-researcher-census/researchers/bruno-dv-marino-a5003088/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,15 +46,18 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Science to Commerce: A Commercial-Scale Protocol for Carbon Trading Applied to a 28-Year Record of Forest Carbon Monitoring at the Harvard Forest** (2021)
-   20 citations · General CDR
+   17 citations · General CDR
 
 2. **Commercial Forest Carbon Protocol Over-Credit Bias Delimited by Zero-Threshold Carbon Accounting** (2021)
    6 citations
 
-3. **Commercial Forest Carbon Protocol Over-credit Bias Delimited by Zero-threshold Carbon Accounting** (2021)
+3. **Howland Forest, ME, USA: Multi-Gas Flux (CO2, CH4, N2O) Social Cost Product Underscores Limited Carbon Proxies** (2021)
+   6 citations
+
+4. **Commercial Forest Carbon Protocol Over-credit Bias Delimited by Zero-threshold Carbon Accounting** (2021)
    2 citations · General CDR
 
-4. **Howland Forest, ME, USA: Multi-Gas Flux Record (CO2, CH4, N2O) Establishes New Forest Products Linked to Social Cost of Emission in Contrast to Carbon Limited Sequestration Proxies** (2021)
+5. **Howland Forest, ME, USA: Multi-Gas Flux Record (CO2, CH4, N2O) Establishes New Forest Products Linked to Social Cost of Emission in Contrast to Carbon Limited Sequestration Proxies** (2021)
    1 citations · General CDR
 
 ## External Profiles

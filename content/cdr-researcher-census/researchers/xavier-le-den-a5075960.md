@@ -1,7 +1,7 @@
 ---
 title: "Xavier Le Den"
 description: "Xavier Le Den is a Mid-career General CDR researcher at Ramboll (United Kingdom) in GB. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.250339
+date: 2026-10-11T02:33:00.280248
 url: "/cdr-researcher-census/researchers/xavier-le-den-a5075960/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Whole-life greenhouse gas emission reduction and removal strategies for buildings: Impacts and diffusion potentials across EU Member States** (2024)
-   43 citations · General CDR
+   44 citations · General CDR
 
 ## External Profiles
 

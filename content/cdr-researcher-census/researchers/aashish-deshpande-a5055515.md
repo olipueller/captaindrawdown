@@ -1,7 +1,7 @@
 ---
 title: "Aashish Deshpande"
 description: "Aashish Deshpande is a Senior General CDR researcher at Symbiosis International University in IN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.964213
+date: 2026-10-11T02:32:59.995499
 url: "/cdr-researcher-census/researchers/aashish-deshpande-a5055515/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Direct and indirect air pollutant reductions as co-benefits of the energy transition toward carbon-neutrality in India's residential sector** (2023)
-   15 citations · General CDR
+   14 citations · General CDR
 
 2. **Direct and Indirect Air Pollutant Reductions as Co-Benefits of the Energy Transition Toward Carbon-Neutrality in India's Residential Sector** (2023)
    1 citations

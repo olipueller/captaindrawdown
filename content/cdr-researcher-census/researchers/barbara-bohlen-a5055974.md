@@ -1,7 +1,7 @@
 ---
 title: "Barbara Bohlen"
 description: "Barbara Bohlen is a Senior DAC researcher at Bauhaus Luftfahrt in DE. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.857185
+date: 2026-10-11T02:32:59.884070
 url: "/cdr-researcher-census/researchers/barbara-bohlen-a5055974/"
 layout: "researcher"
 hiddenInHomeList: true

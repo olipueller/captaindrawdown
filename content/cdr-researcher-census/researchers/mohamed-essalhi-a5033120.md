@@ -1,7 +1,7 @@
 ---
 title: "Mohamed Essalhi"
 description: "Mohamed Essalhi is a Mid-career DAC researcher at King Fahd University of Petroleum and Minerals in SA. With 54 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.040684
+date: 2026-10-11T02:33:00.071511
 url: "/cdr-researcher-census/researchers/mohamed-essalhi-a5033120/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Structural design of covalent organic frameworks and their recent advancements in carbon capture applications: A review** (2025)
-   19 citations
+   20 citations
 
 2. **Robust Amine-Grafted Porous Organic Polymer for Highly Selective Carbon Dioxide Capture from Air** (2025)
    8 citations

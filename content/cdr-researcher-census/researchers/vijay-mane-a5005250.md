@@ -1,7 +1,7 @@
 ---
 title: "Vijay Mane"
 description: "Vijay Mane is an Early-career Biochar researcher at Dr. Babasaheb Ambedkar Marathwada University in IN. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.805537
+date: 2026-10-11T02:32:59.830454
 url: "/cdr-researcher-census/researchers/vijay-mane-a5005250/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Evaluating the Mechanisms of Decolouration and Degradation in Textile Dyes Environmental Impacts and Sustainable Solutions** (2025)
-   5 citations · Biochar
+   6 citations · Biochar
 
 ## External Profiles
 

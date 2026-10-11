@@ -1,7 +1,7 @@
 ---
 title: "P. Poonia"
 description: "P. Poonia is a Senior Biochar researcher at Jai Narain Vyas University in IN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.150728
+date: 2026-10-11T02:32:59.154992
 url: "/cdr-researcher-census/researchers/p-poonia-a5036109/"
 layout: "researcher"
 hiddenInHomeList: true

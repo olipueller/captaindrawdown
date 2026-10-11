@@ -1,7 +1,7 @@
 ---
 title: "Agnes Förster"
 description: "Agnes Förster is a Mid-career Soil Carbon researcher at University of Göttingen in DE. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.982975
+date: 2026-10-11T02:33:00.014141
 url: "/cdr-researcher-census/researchers/agnes-forster-a5054112/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Are northern German Scots pine plantations climate smart? The impact of large-scale conifer planting on climate, soil and the water cycle** (2022)
-   31 citations · Soil Carbon
+   30 citations · Soil Carbon
+
+2. **Prospects for climate change mitigation of Scots pine and European beech forests** (2022)
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Safia Gul"
 description: "Safia Gul is a Mid-career Biochar researcher at Abdul Wali Khan University Mardan in PK. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.489357
+date: 2026-10-11T02:32:59.501329
 url: "/cdr-researcher-census/researchers/safia-gul-a5013960/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar Production and Characteristics, Its Impacts on Soil Health, Crop Production, and Yield Enhancement: A Review** (2024)
-   278 citations · Biochar
+   293 citations · Biochar
 
 ## External Profiles
 

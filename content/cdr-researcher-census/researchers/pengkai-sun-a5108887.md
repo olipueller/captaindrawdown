@@ -1,7 +1,7 @@
 ---
 title: "Pengkai Sun"
 description: "Pengkai Sun is a Mid-career Biochar researcher at Changchun Observatory in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.227693
+date: 2026-10-11T02:33:00.257954
 url: "/cdr-researcher-census/researchers/pengkai-sun-a5108887/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Efficient removal of cationic malachite green using co-pyrolyzed corn straw biochar-montmorillonite composites** (2025)
-   14 citations · Biochar
+   15 citations · Biochar
 
 2. **One-step calcination synthesis of rice husk biochar-doped g-C3N4 for efficient photodegradation of norfloxacin** (2026)
    0 citations · Biochar

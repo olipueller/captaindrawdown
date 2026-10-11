@@ -1,7 +1,7 @@
 ---
 title: "Antoine Couëdel"
 description: "Antoine Couëdel is a Mid-career Soil Carbon researcher at CIRAD in FR. With 75 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.280131
+date: 2026-10-11T02:32:59.284373
 url: "/cdr-researcher-census/researchers/antoine-couedel-a5055074/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Fangxia Yu"
 description: "Fangxia Yu is an Early-career Biochar researcher at Fuzhou University in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.328534
+date: 2026-10-11T02:33:00.361980
 url: "/cdr-researcher-census/researchers/fangxia-yu-a5053234/"
 layout: "researcher"
 hiddenInHomeList: true

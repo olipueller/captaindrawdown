@@ -1,7 +1,7 @@
 ---
 title: "Anders Eriksson"
 description: "Anders Eriksson is a Senior BECCS researcher at Forestry Research Institute of Sweden in SE. With 25 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.618215
+date: 2026-10-11T02:32:59.635695
 url: "/cdr-researcher-census/researchers/anders-eriksson-a5103206/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Large-Scale Implementation of Bioenergy With Carbon Capture and Storage in the Swedish Pulp and Paper Industry Involving Biomass Supply at the Regional Level** (2021)
-   17 citations · BECCS
+   19 citations · BECCS
 
 2. **Ccs in the Pulp and Paper Industry – Implications on Regional Biomass Supply** (2021)
    2 citations · BECCS

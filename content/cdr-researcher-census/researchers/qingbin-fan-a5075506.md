@@ -1,7 +1,7 @@
 ---
 title: "Qingbin Fan"
 description: "Qingbin Fan is a Mid-career Soil Carbon researcher at Nanyang Normal University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.965709
+date: 2026-10-11T02:32:59.996899
 url: "/cdr-researcher-census/researchers/qingbin-fan-a5075506/"
 layout: "researcher"
 hiddenInHomeList: true

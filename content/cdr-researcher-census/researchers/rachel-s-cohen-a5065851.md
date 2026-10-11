@@ -1,7 +1,7 @@
 ---
 title: "Rachel S. Cohen"
 description: "Rachel S. Cohen is a Mid-career General CDR researcher at Rainforest Alliance in US. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.964016
+date: 2026-10-11T02:32:59.995272
 url: "/cdr-researcher-census/researchers/rachel-s-cohen-a5065851/"
 layout: "researcher"
 hiddenInHomeList: true

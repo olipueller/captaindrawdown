@@ -1,7 +1,7 @@
 ---
 title: "Lingying Xu"
 description: "Lingying Xu is a Mid-career Soil Carbon researcher at Institute of Soil Science in CN. With 39 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.413820
+date: 2026-10-11T02:32:59.423678
 url: "/cdr-researcher-census/researchers/lingying-xu-a5013603/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,21 +51,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effect of vegetation restoration on soil erosion control and soil carbon and nitrogen dynamics: A meta-analysis** (2023)
-   61 citations · Soil Carbon
+   64 citations · Soil Carbon
 
 2. **Organic Fertilization Leads to N Limitation Rather than P Limitation in Both Vegetable Soils** (2025)
-   5 citations · Biochar
+   6 citations · Biochar
 
 3. **[Effects of Vegetation Restoration on Soil Organic Carbon Sequestration and Aggregate Stability in Water-Eroded Environment: A Meta-analysis].** (2023)
    3 citations · Soil Carbon
 
-4. **Contrasting microbial carbon transformation pathways drive differential SOC sequestration in long-term biochar-amended paddy and upland soils** (2026)
+4. **Global potential and synergistic benefits of soil amendments for saline-alkali soil amelioration, soil carbon sequestration, and plant productivity: A meta-analysis** (2026)
+   0 citations · Soil Carbon
+
+5. **Contrasting microbial carbon transformation pathways drive differential SOC sequestration in long-term biochar-amended paddy and upland soils** (2026)
    0 citations · Biochar
 
-5. **Humic substances from various coal sources alter <sup>15</sup> N-Labeled urea nitrogen distribution in soil** (2025)
+6. **Humic substances from various coal sources alter <sup>15</sup> N-Labeled urea nitrogen distribution in soil** (2025)
    0 citations
 
-6. **The improvement of SOC sequestration mediated by soil structure in the greenhouse vegetable soil converted from paddy field** (2021)
+7. **The improvement of SOC sequestration mediated by soil structure in the greenhouse vegetable soil converted from paddy field** (2021)
    0 citations · Soil Carbon
 
 ## External Profiles

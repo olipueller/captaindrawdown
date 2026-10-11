@@ -1,7 +1,7 @@
 ---
 title: "Huichun Xie"
 description: "Huichun Xie is a Mid-career Soil Carbon researcher at Qinghai University in CN. With 36 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.010281
+date: 2026-10-11T02:33:00.041462
 url: "/cdr-researcher-census/researchers/huichun-xie-a5100530/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -55,6 +55,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 2. **Differential diversity and structure of autotrophs in agricultural soils of Qinghai Province** (2025)
    2 citations · Soil Carbon
+
+3. **Necromass carbon but not microbes constrain soil carbon release in restoration of degraded alpine grassland** (2026)
+   0 citations
 
 ## External Profiles
 

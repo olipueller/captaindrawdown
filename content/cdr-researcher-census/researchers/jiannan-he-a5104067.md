@@ -1,7 +1,7 @@
 ---
 title: "Jiannan He"
 description: "Jiannan He is a Mid-career Soil Carbon researcher at North China University of Science and Technology in CN. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.346251
+date: 2026-10-11T02:33:00.381447
 url: "/cdr-researcher-census/researchers/jiannan-he-a5104067/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Prediction of Soil Organic Carbon Content in <i>Spartina alterniflora</i> by Using UAV Multispectral and LiDAR Data** (2025)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 2. **Spartina alterniflora invasion-induced soil organic carbon content changes: An assessment by time-series remote sensing and machine learning** (2026)
-   3 citations
+   4 citations
 
 ## External Profiles
 

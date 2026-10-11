@@ -1,7 +1,7 @@
 ---
 title: "Fuhao Liu"
 description: "Fuhao Liu is a Mid-career Soil Carbon researcher at South China Normal University in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.042176
+date: 2026-10-11T02:33:00.073125
 url: "/cdr-researcher-census/researchers/fuhao-liu-a5087877/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The effect of redox fluctuation on carbon mineralization in riparian soil: An analysis of the hotspot zone of reactive oxygen species production** (2024)
-   46 citations · Soil Carbon
+   47 citations · Soil Carbon
 
 2. **Carbon emissions and priming effects derived from crop residues and their responses to nitrogen inputs** (2024)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 3. **Additional carbon conversion driven by microbial metabolic limitations in long-term phosphorus-fertilized soil: The role of reactive oxygen species** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

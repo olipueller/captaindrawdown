@@ -1,7 +1,7 @@
 ---
 title: "Xuelian Bao"
 description: "Xuelian Bao is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 53 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.137401
+date: 2026-10-11T02:32:59.141958
 url: "/cdr-researcher-census/researchers/xuelian-bao-a5101177/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    32 citations · Soil Carbon
 
 4. **Stover and biochar can improve soil microbial necromass carbon, and enzymatic transformation at the genetic level** (2022)
-   29 citations · Biochar
+   31 citations · Biochar
 
 5. **Bacterial community structure and assembly dynamics hinge on plant litter quality** (2023)
    11 citations
@@ -74,10 +74,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 8. **[Effects of conservation tillage on soil microbial community and the function of soil carbon cycling].** (2021)
    1 citations · Soil Carbon
 
-9. **Biochemical Heterogeneity of Soil Components Manipulating Long-Term Organic Carbon Pool Buildup Over Mineral Protection in the Mollisol** (2024)
-   0 citations · Soil Carbon
+9. **Stover returning practices alter the functional diversity of genes associated with carbon conversion in Mollisol of Northeast China** (2026)
+   0 citations · Biochar
 
-10. **Distinct Allocations of Microbial Versus Plant Residues in Mineral Particles Counterbalance the Accumulation and Stabilization of Soil Organic Carbon** (2023)
+10. **Biochemical Heterogeneity of Soil Components Manipulating Long-Term Organic Carbon Pool Buildup Over Mineral Protection in the Mollisol** (2024)
    0 citations · Soil Carbon
 
 ## External Profiles

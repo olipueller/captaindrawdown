@@ -1,7 +1,7 @@
 ---
 title: "Xiaobin Guo"
 description: "Xiaobin Guo is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 34 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.103808
+date: 2026-10-11T02:32:59.108545
 url: "/cdr-researcher-census/researchers/xiaobin-guo-a5111045/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial metabolic capacity regulates the accrual of mineral-associated organic carbon in subtropical paddy soils** (2024)
-   86 citations · Soil Carbon
+   88 citations · Soil Carbon
 
 2. **Vegetation restoration enhancing soil carbon sequestration in karst rocky desertification ecosystems: A meta-analysis** (2024)
-   65 citations · Soil Carbon
+   66 citations · Soil Carbon
 
 3. **Microbial metabolism strengths carbon sequestration and crop yield in upland red soil after long-term ex situ incorporation of straw** (2024)
    5 citations · Soil Carbon
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Soil Carbon
 
 5. **Granulated organic amendment enhances recalcitrant carbon accumulation through soil aggregation in a barren paddy field** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 6. **Balancing carbon sequestration and emissions: Granulated organic amendments enhance ecosystem-economic benefits in subtropical infertile paddy fields** (2025)
    0 citations · Soil Carbon

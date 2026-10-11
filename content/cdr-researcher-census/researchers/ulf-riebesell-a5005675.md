@@ -1,7 +1,7 @@
 ---
 title: "Ulf Riebesell"
 description: "Ulf Riebesell is an Eminent Ocean CDR researcher at GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel in DE. With 874 publications and an h-index of 99, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.014527
+date: 2026-10-11T02:32:59.017737
 url: "/cdr-researcher-census/researchers/ulf-riebesell-a5005675/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,34 +51,34 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Stability of alkalinity in ocean alkalinity enhancement (OAE) approaches – consequences for durability of CO <sub>2</sub> storage** (2023)
-   154 citations · General CDR
+   180 citations · General CDR
 
-2. **Effect of Intensity and Mode of Artificial Upwelling on Particle Flux and Carbon Export** (2021)
-   42 citations · General CDR
+2. **Investigating the effect of silicate- and calcium-based ocean alkalinity enhancement on diatom silicification** (2024)
+   47 citations · Ocean CDR
 
 3. **Ocean alkalinity enhancement approaches and the predictability of runaway precipitation processes: results of an experimental study to determine critical alkalinity ranges for safe and sustainable application scenarios** (2024)
-   36 citations · General CDR
+   45 citations · General CDR
 
-4. **Investigating the effect of silicate- and calcium-based ocean alkalinity enhancement on diatom silicification** (2024)
-   34 citations · Ocean CDR
+4. **Effect of Intensity and Mode of Artificial Upwelling on Particle Flux and Carbon Export** (2021)
+   43 citations · General CDR
 
 5. **Plankton food web structure and productivity under ocean alkalinity enhancement** (2024)
-   25 citations · General CDR
+   29 citations · General CDR
 
-6. **Stability of alkalinity in Ocean Alkalinity Enhancement (OAE) approaches – consequences for durability of CO <sub>2</sub> storage** (2022)
+6. **Phytoplankton response to increased nickel in the context of ocean alkalinity enhancement** (2024)
+   26 citations · General CDR
+
+7. **Assessing the impact of CO <sub>2</sub> -equilibrated ocean alkalinity enhancement on microbial metabolic rates in an oligotrophic system** (2024)
+   25 citations · Ocean CDR
+
+8. **Stability of alkalinity in Ocean Alkalinity Enhancement (OAE) approaches – consequences for durability of CO <sub>2</sub> storage** (2022)
    25 citations
 
-7. **Resilience of Phytoplankton and Microzooplankton Communities under Ocean Alkalinity Enhancement in the Oligotrophic Ocean** (2024)
-   22 citations · General CDR
+9. **Resilience of Phytoplankton and Microzooplankton Communities under Ocean Alkalinity Enhancement in the Oligotrophic Ocean** (2024)
+   23 citations · General CDR
 
-8. **Assessing the impact of CO <sub>2</sub> -equilibrated ocean alkalinity enhancement on microbial metabolic rates in an oligotrophic system** (2024)
-   22 citations · Ocean CDR
-
-9. **Early life stages of fish under ocean alkalinity enhancement in coastal plankton communities** (2024)
-   18 citations · Ocean CDR
-
-10. **Phytoplankton response to increased nickel in the context of ocean alkalinity enhancement** (2024)
-   17 citations · General CDR
+10. **Early life stages of fish under ocean alkalinity enhancement in coastal plankton communities** (2024)
+   23 citations · Ocean CDR
 
 ## External Profiles
 

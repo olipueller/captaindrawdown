@@ -1,7 +1,7 @@
 ---
 title: "Juanjuan Wan"
 description: "Juanjuan Wan is a Mid-career Biochar researcher at Shihezi University in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.606036
+date: 2026-10-11T02:32:59.623574
 url: "/cdr-researcher-census/researchers/juanjuan-wan-a5060371/"
 layout: "researcher"
 hiddenInHomeList: true

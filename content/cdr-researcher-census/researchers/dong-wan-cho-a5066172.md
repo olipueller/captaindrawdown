@@ -1,7 +1,7 @@
 ---
 title: "Dong-Wan Cho"
 description: "Dong-Wan Cho is a Senior Biochar researcher at Government of the Republic of Korea in KR. With 111 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.049499
+date: 2026-10-11T02:32:59.053343
 url: "/cdr-researcher-census/researchers/dong-wan-cho-a5066172/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Co-pyrolysis route of chlorella sp. and bauxite tailings to fabricate metal-biochar as persulfate activator** (2021)
-   51 citations · Biochar
+   52 citations · Biochar
 
 2. **Practical approach of As(V) adsorption by fabricating biochar with low basicity from FeCl3 and lignin** (2023)
    41 citations · Biochar

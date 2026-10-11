@@ -1,7 +1,7 @@
 ---
 title: "Holly J. Stover"
 description: "Holly J. Stover is a Mid-career Soil Carbon researcher at University of California, Berkeley in US. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.910165
+date: 2026-10-11T02:32:59.940060
 url: "/cdr-researcher-census/researchers/holly-j-stover-a5000307/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Impacts of Compost Amendment Type and Application Frequency on a Fire-Impacted Grassland Ecosystem** (2024)
-   4 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

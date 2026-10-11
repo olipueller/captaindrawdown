@@ -1,7 +1,7 @@
 ---
 title: "S. K. Chaudhari"
 description: "S. K. Chaudhari is a Senior Soil Carbon researcher at Indian Council of Agricultural Research in IN. With 107 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.105950
+date: 2026-10-11T02:32:59.110615
 url: "/cdr-researcher-census/researchers/s-k-chaudhari-a5112044/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,19 +48,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon sequestration potential, challenges, and strategies towards climate action in smallholder agricultural systems of South Asia** (2022)
-   108 citations · Soil Carbon
+   111 citations · Soil Carbon
 
 2. **The food-energy-water-carbon nexus of the rice-wheat production system in the western Indo-Gangetic Plain of India: An impact of irrigation system, conservational tillage and residue management** (2022)
-   57 citations · Soil Carbon
+   58 citations · Soil Carbon
 
 3. **Organic farming: A prospect for food, environment and livelihood security in Indian agriculture** (2021)
-   45 citations · Soil Carbon
+   46 citations · Soil Carbon
 
-4. **Land and water conservation technologies for building carbon positive villages in India** (2021)
+4. **Fourteen-years impact of crop establishment, tillage and residue management on carbon input, soil carbon sequestration, crop productivity and profitability of rice-wheat system** (2024)
    12 citations · General CDR
 
-5. **Fourteen-years impact of crop establishment, tillage and residue management on carbon input, soil carbon sequestration, crop productivity and profitability of rice-wheat system** (2024)
-   11 citations · General CDR
+5. **Land and water conservation technologies for building carbon positive villages in India** (2021)
+   12 citations · General CDR
 
 6. **Intensification of Rice-Fallow Agroecosystem of South Asia with Oilseeds and Pulses: Impacts on System Productivity, Soil Carbon Dynamics and Energetics** (2023)
    9 citations · Soil Carbon

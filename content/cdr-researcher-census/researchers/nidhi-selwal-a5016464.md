@@ -1,7 +1,7 @@
 ---
 title: "Nidhi Selwal"
 description: "Nidhi Selwal is a Mid-career Biochar researcher at Lovely Professional University in IN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.849193
+date: 2026-10-11T02:32:59.875906
 url: "/cdr-researcher-census/researchers/nidhi-selwal-a5016464/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Emerging technologies in biomass conversion: Bioengineering and nanocatalysts to AI-driven process optimization** (2025)
-   17 citations · Biochar
+   18 citations · Biochar
 
 ## External Profiles
 

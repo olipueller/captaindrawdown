@@ -1,7 +1,7 @@
 ---
 title: "G. Ranjith Kumar"
 description: "G. Ranjith Kumar is a Mid-career Soil Carbon researcher at Sri Venkateswara University in IN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.345226
+date: 2026-10-11T02:33:00.380365
 url: "/cdr-researcher-census/researchers/g-ranjith-kumar-a5100562/"
 layout: "researcher"
 hiddenInHomeList: true

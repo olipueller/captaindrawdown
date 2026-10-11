@@ -1,7 +1,7 @@
 ---
 title: "Melissa A. Rose"
 description: "Melissa A. Rose is a Mid-career Soil Carbon researcher at Argonne National Laboratory in US. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.137006
+date: 2026-10-11T02:33:00.167498
 url: "/cdr-researcher-census/researchers/melissa-a-rose-a5113513/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,9 +48,12 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Spatial Database of Planted Trees (SDPT Version 2.0)** (2024)
-   53 citations · Soil Carbon
+   54 citations · Soil Carbon
 
-2. **Revised and updated geospatial monitoring of twenty-first century forest carbon fluxes** (2024)
+2. **Revised and updated geospatial monitoring of 21st century forest carbon fluxes** (2025)
+   22 citations
+
+3. **Revised and updated geospatial monitoring of twenty-first century forest carbon fluxes** (2024)
    0 citations · Soil Carbon
 
 ## External Profiles

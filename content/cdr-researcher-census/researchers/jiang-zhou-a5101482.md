@@ -1,7 +1,7 @@
 ---
 title: "Jiang Zhou"
 description: "Jiang Zhou is a Senior Soil Carbon researcher. With 40 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.503569
+date: 2026-10-11T02:32:59.516143
 url: "/cdr-researcher-census/researchers/jiang-zhou-a5101482/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Demonstrating the Potential of a Low-Cost Soil Moisture Sensor Network** (2022)
-   43 citations
+   41 citations
 
 2. **A Data-Driven Approach for Building the Profile of Water Storage Capacity of Soils** (2023)
    2 citations · Soil Carbon

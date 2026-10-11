@@ -1,7 +1,7 @@
 ---
 title: "Nabir Mamnun"
 description: "Nabir Mamnun is a Mid-career Ocean CDR researcher at Imperial College London in GB. With 36 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.557525
+date: 2026-10-11T02:32:59.572675
 url: "/cdr-researcher-census/researchers/nabir-mamnun-a5016520/"
 layout: "researcher"
 hiddenInHomeList: true

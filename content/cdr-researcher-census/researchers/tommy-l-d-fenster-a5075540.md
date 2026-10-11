@@ -1,7 +1,7 @@
 ---
 title: "Tommy L. D. Fenster"
 description: "Tommy L. D. Fenster is an Early-career Soil Carbon researcher at University of California System in US. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.199770
+date: 2026-10-11T02:33:00.229863
 url: "/cdr-researcher-census/researchers/tommy-l-d-fenster-a5075540/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Investigating Ecosystem-Scale Responses to Compost Amendments in a Grazed Grassland** (2023)
-   9 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 2. **Compost Amendment to a Grazed California Annual Grassland Increases Gross Primary Productivity Due To a Longer Growing Season** (2023)
    6 citations · Soil Carbon

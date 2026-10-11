@@ -1,7 +1,7 @@
 ---
 title: "R Manasa"
 description: "R Manasa is a Mid-career Ocean CDR researcher at Dayananda Sagar College of Engineering in IN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.219481
+date: 2026-10-11T02:33:00.249806
 url: "/cdr-researcher-census/researchers/r-manasa-a5082550/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shikun Sun"
 description: "Shikun Sun is a Senior Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 63 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.110362
+date: 2026-10-11T02:32:59.114997
 url: "/cdr-researcher-census/researchers/shikun-sun-a5101818/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Nutrient limitation of soil organic carbon stocks under straw return** (2024)
-   62 citations
+   67 citations
 
 2. **Environment and agricultural practices regulate enhanced biochar-induced soil carbon pools and crop yield: A meta-analysis** (2023)
-   56 citations · Biochar
+   59 citations · Biochar
 
 3. **Polyethylene film mulching enhances the microbial carbon-use efficiency, physical and chemical protection of straw-derived carbon in an Entisol of the Loess Plateau** (2021)
    24 citations
 
 4. **Can soil organic carbon sequestration and the carbon management index be improved by changing the film mulching methods in the semiarid region?** (2023)
-   19 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 5. **Biochar induced trade-offs and synergies between ecosystem services and crop productivity** (2024)
    10 citations · Biochar
 
 6. **Biochar application increases maize yield under film mulching due to higher soil organic content and soil aggregate stability in a semi-arid area** (2023)
    10 citations · Biochar
+
+7. **Water-nitrogen coupling optimizes soil microbial carbon use efficiency by alleviating metabolic limitations in cropland soils** (2026)
+   0 citations
 
 ## External Profiles
 

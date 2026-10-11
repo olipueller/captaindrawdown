@@ -1,7 +1,7 @@
 ---
 title: "Francisco Ruíz"
 description: "Francisco Ruíz is a Senior Soil Carbon researcher at ESALQ - University of São Paulo in BR. With 95 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.191423
+date: 2026-10-11T02:32:59.195475
 url: "/cdr-researcher-census/researchers/francisco-ruiz-a5086701/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    79 citations · Soil Carbon
 
 2. **How do soil processes control the provision of ecosystem services in coastal wetlands?** (2024)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 3. **Soil greenhouse gas fluxes partially reduce the net gains in carbon sequestration in mangroves of the Brazilian Amazon** (2024)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 4. **Soil organic matter stabilization during early stages of Technosol development from Ca, Mg and pyrite-rich parent material** (2023)
-   11 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 5. **Changes in soil organic matter content and quality in Amazonian mangrove forests converted to shrimp farms** (2026)
    4 citations · Soil Carbon

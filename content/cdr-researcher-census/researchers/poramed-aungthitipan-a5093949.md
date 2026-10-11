@@ -1,7 +1,7 @@
 ---
 title: "Poramed Aungthitipan"
 description: "Poramed Aungthitipan is an Early-career Biochar researcher at Mahasarakham University in TH. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.373239
+date: 2026-10-11T02:33:00.408795
 url: "/cdr-researcher-census/researchers/poramed-aungthitipan-a5093949/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Slow Pyrolysis of Waste Cow Bone for Biochar Production and Its Application in Copper Removal From Acidic Solutions** (2024)
-   27 citations · Biochar
+   29 citations · Biochar
 
 2. **Mesoporous biochar composite derived from hardwood and post-recycled plastic waste in Thailand: A case study of nickel removal in acidic solution** (2025)
    15 citations · Biochar

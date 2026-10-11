@@ -1,7 +1,7 @@
 ---
 title: "Ruijie Teng"
 description: "Ruijie Teng is a Mid-career Biochar researcher at Xi'an University of Technology in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.077765
+date: 2026-10-11T02:33:00.108177
 url: "/cdr-researcher-census/researchers/ruijie-teng-a5108900/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Joshua L. Ratcliffe"
 description: "Joshua L. Ratcliffe is a Mid-career Soil Carbon researcher at Swedish University of Agricultural Sciences in SE. With 47 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.519609
+date: 2026-10-11T02:32:59.533410
 url: "/cdr-researcher-census/researchers/joshua-l-ratcliffe-a5007546/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term nitrogen addition raises the annual carbon sink of a boreal forest to a new steady-state** (2022)
-   24 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 2. **Catchment characteristics control boreal mire nutrient regime and vegetation patterns over ~5000 years of landscape development** (2023)
    8 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Antti Kinnunen"
 description: "Antti Kinnunen is a Mid-career Soil Carbon researcher. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.968884
+date: 2026-10-11T02:33:00.000275
 url: "/cdr-researcher-census/researchers/antti-kinnunen-a5046122/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon sequestration and storage potential of urban residential environment – A review** (2022)
-   81 citations · General CDR
+   80 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Sharmita Bera"
 description: "Sharmita Bera is a Mid-career Biochar researcher at Indian Institute of Technology Kharagpur in IN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.223640
+date: 2026-10-11T02:33:00.254173
 url: "/cdr-researcher-census/researchers/sharmita-bera-a5027035/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Upconversion of non-recycled MSW paper fractions into biochar via slow pyrolysis and life cycle analysis: Pathways to net negative GHG emission** (2025)
-   3 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

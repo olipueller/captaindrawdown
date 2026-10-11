@@ -1,7 +1,7 @@
 ---
 title: "Xiaodong Niu"
 description: "Xiaodong Niu is a Mid-career Soil Carbon researcher at Chinese Academy of Forestry in CN. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.164364
+date: 2026-10-11T02:33:00.194449
 url: "/cdr-researcher-census/researchers/xiaodong-niu-a5036688/"
 layout: "researcher"
 hiddenInHomeList: true

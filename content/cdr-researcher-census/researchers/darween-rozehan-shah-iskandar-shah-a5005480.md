@@ -1,7 +1,7 @@
 ---
 title: "Darween Rozehan Shah Iskandar Shah"
 description: "Darween Rozehan Shah Iskandar Shah is an Early-career Biochar researcher at University of Malaya in MY. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.282720
+date: 2026-10-11T02:33:00.313179
 url: "/cdr-researcher-census/researchers/darween-rozehan-shah-iskandar-shah-a5005480/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Optimization and mechanistic insights into amoxicillin adsorption by KOH-modified palm kernel shell biochar: Experimental, Box-Behnken response surface methodology, and density functional theory analysis** (2025)
-   6 citations · Biochar
+   8 citations · Biochar
 
 ## External Profiles
 

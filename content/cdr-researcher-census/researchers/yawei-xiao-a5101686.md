@@ -1,7 +1,7 @@
 ---
 title: "Yawei Xiao"
 description: "Yawei Xiao is a Mid-career Biochar researcher at Hainan Normal University in CN. With 37 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.281549
+date: 2026-10-11T02:32:59.285716
 url: "/cdr-researcher-census/researchers/yawei-xiao-a5101686/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Microstructure regulation to manifold catalysis sites of magnetic hydrochar for enhancing Fenton-like degradation of tetracycline** (2025)
-   7 citations · Biochar
+   8 citations · Biochar
 
 2. **Oxidative carbothermal reduction for preparation of high-loading nano-zero-valent iron doped biochar for removal of tetracyclines and fluoroquinolones** (2026)
-   2 citations · Biochar
+   3 citations · Biochar
 
 3. **A robust nano zero-valent iron doped biochar prepared by inherent oxidation-driven carbothermal reduction for activating peroxymonosulfate to degrade antibiotics and phenols** (2026)
    0 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Huifang Han"
 description: "Huifang Han is a Senior Soil Carbon researcher at Ministry of Agriculture in EE. With 39 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.359342
+date: 2026-10-11T02:32:59.366098
 url: "/cdr-researcher-census/researchers/huifang-han-a5044804/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    15 citations · Soil Carbon
 
 2. **Improvement of soil aggregate-associated carbon sequestration capacity after 14 years of conservation tillage** (2022)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 3. **Effects of Subsoiling Depth on Soil Aggregate Stability and Carbon Storage in a Clay-Loam Soil** (2023)
    12 citations · Soil Carbon

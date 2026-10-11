@@ -1,7 +1,7 @@
 ---
 title: "Neal Stolpe"
 description: "Neal Stolpe is a Senior Soil Carbon researcher at University of Concepción in CL. With 50 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.406841
+date: 2026-10-11T02:32:59.415943
 url: "/cdr-researcher-census/researchers/neal-stolpe-a5074269/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · General CDR
 
 3. **How Natural Regeneration After Severe Disturbance Affects Ecosystem Services Provision of Andean Forest Soils at Contrasting Timescales** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 4. **Impact of Post-Disturbance Null Management at Contrasting Regeneration Stages on Microbial Communities, Carbon Sequestration and Physico-Chemical Properties in Native Andean Forest Soils** (2024)
    0 citations · Soil Carbon

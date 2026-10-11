@@ -1,7 +1,7 @@
 ---
 title: "Mengli Zhao"
 description: "Mengli Zhao is a Senior Soil Carbon researcher at Inner Mongolia Agricultural University in CN. With 95 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.122192
+date: 2026-10-11T02:32:59.126811
 url: "/cdr-researcher-census/researchers/mengli-zhao-a5102352/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Luís André Mendes"
 description: "Luís André Mendes is a Senior Soil Carbon researcher at Universidad Politécnica de Madrid in ES. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.869023
+date: 2026-10-11T02:32:59.895849
 url: "/cdr-researcher-census/researchers/luis-andre-mendes-a5049242/"
 layout: "researcher"
 hiddenInHomeList: true

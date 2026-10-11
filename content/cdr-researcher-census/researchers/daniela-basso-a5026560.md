@@ -1,7 +1,7 @@
 ---
 title: "Daniela Basso"
 description: "Daniela Basso is a Senior Ocean CDR researcher at Università degli Studi di Milano-Bicocca in IT. With 274 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.071699
+date: 2026-10-11T02:32:59.076346
 url: "/cdr-researcher-census/researchers/daniela-basso-a5026560/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 31 |
 | Citations | 3,535 |
 | Publications | 274 |
-| CDR Focus | 5.8% |
-| Trajectory | Stable |
+| CDR Focus | 6.9% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -54,27 +54,27 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    23 citations · Ocean CDR
 
 2. **The response of phytoplankton to pH-equilibrated ocean alkalinization: A mesocosm experiment with harbour waters** (2025)
-   8 citations · Ocean CDR
+   10 citations · Ocean CDR
 
 3. **Mesocosm experiments in ocean alkalinity enhancement research** (2023)
    8 citations
 
 4. **Plankton do not care: Minimal effects of ocean liming on plankton growth and grazing in the Eastern Mediterranean** (2025)
+   7 citations · Ocean CDR
+
+5. **The effect of ocean alkalinity enhancement on zooplankton standing stock and community composition in the Eastern Mediterranean Sea: a mesocosm study** (2025)
    5 citations · Ocean CDR
 
-5. **Data reporting and sharing for ocean alkalinity enhancement research** (2023)
-   4 citations · General CDR
+6. **Data reporting and sharing for ocean alkalinity enhancement research** (2023)
+   5 citations · General CDR
 
-6. **The effect of ocean alkalinity enhancement on zooplankton standing stock and community composition in the Eastern Mediterranean Sea: a mesocosm study** (2025)
-   3 citations · Ocean CDR
+7. **The impact of ocean liming on phytoplankton size-structure and the balance of photosynthesis and respiration in two contrasting environments** (2024)
+   2 citations · General CDR
 
-7. **Data reporting and sharing for ocean alkalinity enhancement research** (2023)
+8. **Data reporting and sharing for ocean alkalinity enhancement research** (2023)
    2 citations
 
-8. **Ocean liming in eutrophic vs. ultraoligotrophic environments and the response of algal calcifiers** (2024)
-   1 citations · General CDR
-
-9. **The impact of ocean liming on phytoplankton size-structure and the balance of photosynthesis and respiration in two contrasting environments** (2024)
+9. **Ocean liming in eutrophic vs. ultraoligotrophic environments and the response of algal calcifiers** (2024)
    1 citations · General CDR
 
 10. **Ocean liming in the oligotrophic Eastern Mediterranean: impact on the planktonic microbial food web** (2024)

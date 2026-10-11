@@ -1,7 +1,7 @@
 ---
 title: "Shizhou Ma"
 description: "Shizhou Ma is an Early-career Soil Carbon researcher at University of Toronto in CA. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.311472
+date: 2026-10-11T02:33:00.342270
 url: "/cdr-researcher-census/researchers/shizhou-ma-a5061743/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Practical Guide to Measuring Wetland Carbon Pools and Fluxes** (2023)
-   89 citations
+   85 citations
 
 2. **Factors Regulating the Potential for Freshwater Mineral Soil Wetlands to Function as Natural Climate Solutions** (2025)
-   6 citations · General CDR
+   7 citations · General CDR
 
 ## External Profiles
 

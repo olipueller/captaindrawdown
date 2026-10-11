@@ -1,7 +1,7 @@
 ---
 title: "Yanhong Lu"
 description: "Yanhong Lu is a Senior Soil Carbon researcher at Kai Biotech (South Korea) in KR. With 113 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.053759
+date: 2026-10-11T02:32:59.057979
 url: "/cdr-researcher-census/researchers/yanhong-lu-a5040504/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effect of reduced mineral fertilization (NPK) combined with green manure on aggregate stability and soil organic carbon fractions in a fluvo-aquic paddy soil** (2021)
-   90 citations
+   88 citations
 
 2. **The effects of co-utilizing green manure and rice straw on soil aggregates and soil carbon stability in a paddy soil in southern China** (2022)
-   41 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 3. **Effects of substitution of chemical fertilizer by Chinese milk vetch on distribution and composition of aggregates-associated organic carbon fractions in paddy soils** (2022)
-   23 citations
+   22 citations
 
 4. **Paddy fields can gain high productivity with low net global warming potential by utilizing green manure** (2025)
-   13 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 5. **Aggregate mass and carbon stocks in a paddy soil after long‐term application of chemical or organic fertilizers** (2022)
    13 citations · Soil Carbon

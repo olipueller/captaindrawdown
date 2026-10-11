@@ -1,7 +1,7 @@
 ---
 title: "Harriet Smith"
 description: "Harriet Smith is a Senior Enhanced Weathering researcher at Cardiff University in GB. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.286351
+date: 2026-10-11T02:33:00.316381
 url: "/cdr-researcher-census/researchers/harriet-smith-a5025000/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Who pays for carbon dioxide removal? Public perceptions of risk and fairness of enhanced rock weathering in the UK** (2025)
-   2 citations · Enhanced Weathering
+   3 citations · Enhanced Weathering
 
 ## External Profiles
 

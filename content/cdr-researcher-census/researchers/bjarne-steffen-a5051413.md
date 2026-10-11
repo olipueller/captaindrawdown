@@ -1,7 +1,7 @@
 ---
 title: "Bjarne Steffen"
 description: "Bjarne Steffen is a Senior General CDR researcher at ETH Zurich in CH. With 117 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.051113
+date: 2026-10-11T02:32:59.055107
 url: "/cdr-researcher-census/researchers/bjarne-steffen-a5051413/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Considering technology characteristics to project future costs of direct air capture** (2024)
-   167 citations · DAC
+   168 citations · DAC
 
 2. **Sequencing Carbon Dioxide Removal into the EU ETS** (2024)
    10 citations · General CDR
 
 3. **How the EU can utilize its carbon market to scale up carbon dioxide removal** (2026)
-   3 citations · BECCS
+   4 citations · BECCS
 
 4. **A global analysis of expected revenues from carbon dioxide removal** (2026)
    1 citations · General CDR

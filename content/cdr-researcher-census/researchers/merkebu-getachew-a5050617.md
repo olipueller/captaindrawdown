@@ -1,7 +1,7 @@
 ---
 title: "Merkebu Getachew"
 description: "Merkebu Getachew is a Mid-career Soil Carbon researcher at Jimma University in ET. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.070000
+date: 2026-10-11T02:33:00.100062
 url: "/cdr-researcher-census/researchers/merkebu-getachew-a5050617/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of shade tree species on soil biogeochemistry and coffee bean quality in plantation coffee** (2023)
-   29 citations · Soil Carbon
+   28 citations · Soil Carbon
+
+2. **Shade Tree Species Effects on Soil Biogeochemistry and Coffee Bean Quality in Plantation Coffee Agroforestry** (2022)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

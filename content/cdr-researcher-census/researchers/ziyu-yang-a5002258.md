@@ -1,7 +1,7 @@
 ---
 title: "Ziyu Yang"
 description: "Ziyu Yang is a Mid-career Soil Carbon researcher at Hunan Agricultural University in CN. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.631687
+date: 2026-10-11T02:32:59.650260
 url: "/cdr-researcher-census/researchers/ziyu-yang-a5002258/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Intercropping regulates plant- and microbe-derived carbon accumulation by influencing soil physicochemical and microbial physiological properties** (2024)
-   79 citations · Soil Carbon
+   81 citations · Soil Carbon
 
 2. **Intercropping-driven effects on soil organic carbon mineralization and its temperature sensitivity are associated with soil C-N-P stoichiometry and carbon-acquiring microorganisms and enzymes** (2025)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 ## External Profiles
 

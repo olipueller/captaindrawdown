@@ -1,7 +1,7 @@
 ---
 title: "Yaling Yuan"
 description: "Yaling Yuan is a Mid-career Soil Carbon researcher. With 21 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.901436
+date: 2026-10-11T02:32:59.930766
 url: "/cdr-researcher-census/researchers/yaling-yuan-a5009066/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Fertilization effects on soil organic matter chemistry** (2024)
-   30 citations · Soil Carbon
+   35 citations · Soil Carbon
 
 2. **Characteristics of Soil Organic Carbon Fractions and Stability along a Chronosequence of Cryptomeria japonica var. sinensis Plantation in the Rainy Area of Western China** (2022)
    13 citations · Soil Carbon

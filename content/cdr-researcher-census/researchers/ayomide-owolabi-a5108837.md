@@ -1,7 +1,7 @@
 ---
 title: "Ayomide Owolabi"
 description: "Ayomide Owolabi is an Early-career Ocean CDR researcher at University of Ibadan in NG. With 12 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.267628
+date: 2026-10-11T02:33:00.297660
 url: "/cdr-researcher-census/researchers/ayomide-owolabi-a5108837/"
 layout: "researcher"
 hiddenInHomeList: true

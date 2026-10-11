@@ -1,7 +1,7 @@
 ---
 title: "Mingjian Geng"
 description: "Mingjian Geng is a Senior Soil Carbon researcher at Huazhong Agricultural University in CN. With 77 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.192627
+date: 2026-10-11T02:32:59.196659
 url: "/cdr-researcher-census/researchers/mingjian-geng-a5103090/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effect of reduced mineral fertilization (NPK) combined with green manure on aggregate stability and soil organic carbon fractions in a fluvo-aquic paddy soil** (2021)
-   90 citations
+   88 citations
 
 2. **Co-utilization of green manure with straw return enhances the stability of soil organic carbon by regulating iron-mediated stabilization of aggregate-associated organic carbon in paddy soil** (2025)
-   38 citations · Soil Carbon
+   43 citations · Soil Carbon
 
-3. **Effects of substitution of chemical fertilizer by Chinese milk vetch on distribution and composition of aggregates-associated organic carbon fractions in paddy soils** (2022)
-   23 citations
+3. **Effects of long-term green manure application on organic carbon fractions and clay minerals and their interactions in paddy soil aggregates** (2023)
+   22 citations · Soil Carbon
 
-4. **Effects of long-term green manure application on organic carbon fractions and clay minerals and their interactions in paddy soil aggregates** (2023)
-   20 citations · Soil Carbon
+4. **Effects of substitution of chemical fertilizer by Chinese milk vetch on distribution and composition of aggregates-associated organic carbon fractions in paddy soils** (2022)
+   22 citations
 
 5. **Long-term green manure incorporation increases soil carbon sequestration and improves aggregate stability by changing organic carbon components** (2025)
-   8 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 6. **Sustained Green Manure‐Rice Rotations Can Mitigate Methane Emissions by Enhancing Microbial Methane Oxidation in Southern China** (2025)
    8 citations · Soil Carbon

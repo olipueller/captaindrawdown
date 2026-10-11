@@ -1,7 +1,7 @@
 ---
 title: "Rahul Ramesh Nair"
 description: "Rahul Ramesh Nair is a Mid-career Biochar researcher at Leibniz University Hannover in DE. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.530093
+date: 2026-10-11T02:32:59.544086
 url: "/cdr-researcher-census/researchers/rahul-ramesh-nair-a5000469/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Modern Carbon–Based Materials for Adsorptive Removal of Organic and Inorganic Pollutants from Water and Wastewater** (2021)
-   196 citations
+   199 citations
 
 2. **Physico-chemical characterization of walnut shell biochar from uncontrolled pyrolysis in a garden oven and surface modification by ex-situ chemical magnetization** (2023)
    36 citations · Biochar

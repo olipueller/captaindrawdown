@@ -1,7 +1,7 @@
 ---
 title: "Xiangtao Jiang"
 description: "Xiangtao Jiang is a Mid-career Ocean CDR researcher at Multichannel (China) in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.711386
+date: 2026-10-11T02:32:59.732025
 url: "/cdr-researcher-census/researchers/xiangtao-jiang-a5048179/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Hitchhiking into the Deep: How Microplastic Particles are Exported through the Biological Carbon Pump in the North Atlantic Ocean** (2022)
-   87 citations · Ocean CDR
+   89 citations · Ocean CDR
 
 ## External Profiles
 

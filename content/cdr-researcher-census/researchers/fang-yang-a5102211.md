@@ -1,7 +1,7 @@
 ---
 title: "Fang Yang"
 description: "Fang Yang is a Senior Soil Carbon researcher at Planetary Science Institute in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.780455
+date: 2026-10-11T02:32:59.803675
 url: "/cdr-researcher-census/researchers/fang-yang-a5102211/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Variation of soil organic carbon components and enzyme activities during the ecological restoration in a temperate forest** (2024)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 ## External Profiles
 

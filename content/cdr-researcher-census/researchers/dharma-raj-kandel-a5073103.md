@@ -1,7 +1,7 @@
 ---
 title: "Dharma Raj Kandel"
 description: "Dharma Raj Kandel is a Mid-career Biochar researcher at Jeonbuk National University in KR. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.401331
+date: 2026-10-11T02:32:59.410536
 url: "/cdr-researcher-census/researchers/dharma-raj-kandel-a5073103/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Cold plasma-assisted regeneration of biochar for dye adsorption** (2022)
-   54 citations · Biochar
+   55 citations · Biochar
 
 2. **Decoration of dandelion-like manganese-doped iron oxide microflowers on plasma-treated biochar for alleviation of heavy metal pollution in water** (2024)
    24 citations · Biochar

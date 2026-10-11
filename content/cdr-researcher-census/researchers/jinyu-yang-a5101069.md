@@ -1,7 +1,7 @@
 ---
 title: "Jinyu Yang"
 description: "Jinyu Yang is a Senior Soil Carbon researcher at Shenyang University of Chemical Technology in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.335092
+date: 2026-10-11T02:33:00.369189
 url: "/cdr-researcher-census/researchers/jinyu-yang-a5101069/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -49,6 +49,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 1. **Influence of Long-Term Fertilization on Carbon, Nitrogen, and Phosphorus Allocation and Homeostasis in Cotton Under the Regulation of Phosphorus Availability** (2025)
    4 citations · Soil Carbon
+
+2. **Microbial network stability is linked to soil multifunctionality and functional trade-offs under long-term fertilization in a dryland agroecosystem** (2026)
+   0 citations
 
 ## External Profiles
 

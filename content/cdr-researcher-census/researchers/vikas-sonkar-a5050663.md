@@ -1,7 +1,7 @@
 ---
 title: "Vikas Sonkar"
 description: "Vikas Sonkar is a Mid-career Biochar researcher at Indian Institute of Technology Hyderabad in IN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.866851
+date: 2026-10-11T02:32:59.893579
 url: "/cdr-researcher-census/researchers/vikas-sonkar-a5050663/"
 layout: "researcher"
 hiddenInHomeList: true

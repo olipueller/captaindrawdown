@@ -1,7 +1,7 @@
 ---
 title: "Xiaona Liang"
 description: "Xiaona Liang is a Mid-career Soil Carbon researcher at Huaiyin Normal University in CN. With 40 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.327751
+date: 2026-10-11T02:32:59.333628
 url: "/cdr-researcher-census/researchers/xiaona-liang-a5102025/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Tradeoffs of fungal and bacterial residues mediate soil carbon dynamics under persistent drought in subtropical evergreen forests** (2022)
-   22 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 2. **Complementation between Microbial Necromass and Plant Debris Governs Long-Term Build-Up of Soil Organic Carbon Pool in a Conservation Agriculture** (2022)
    1 citations · Soil Carbon

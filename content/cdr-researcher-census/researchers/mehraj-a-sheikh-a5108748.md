@@ -1,7 +1,7 @@
 ---
 title: "Mehraj A. Sheikh"
 description: "Mehraj A. Sheikh is a Senior Soil Carbon researcher at Aligarh Muslim University in IN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.386810
+date: 2026-10-11T02:32:59.394630
 url: "/cdr-researcher-census/researchers/mehraj-a-sheikh-a5108748/"
 layout: "researcher"
 hiddenInHomeList: true

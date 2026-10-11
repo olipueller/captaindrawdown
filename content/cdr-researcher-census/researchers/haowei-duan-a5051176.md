@@ -1,7 +1,7 @@
 ---
 title: "Haowei Duan"
 description: "Haowei Duan is a Mid-career Soil Carbon researcher at University of Shanghai for Science and Technology in CN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.349336
+date: 2026-10-11T02:32:59.355274
 url: "/cdr-researcher-census/researchers/haowei-duan-a5051176/"
 layout: "researcher"
 hiddenInHomeList: true

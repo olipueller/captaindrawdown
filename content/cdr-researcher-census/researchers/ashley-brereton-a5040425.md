@@ -1,7 +1,7 @@
 ---
 title: "Ashley Brereton"
 description: "Ashley Brereton is a Mid-career Soil Carbon researcher at Lawrence Berkeley National Laboratory in US. With 34 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.630804
+date: 2026-10-11T02:32:59.649351
 url: "/cdr-researcher-census/researchers/ashley-brereton-a5040425/"
 layout: "researcher"
 hiddenInHomeList: true

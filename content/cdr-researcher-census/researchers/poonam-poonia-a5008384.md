@@ -1,7 +1,7 @@
 ---
 title: "Poonam Poonia"
 description: "Poonam Poonia is a Mid-career Biochar researcher at University of Engineering & Management in IN. With 36 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.354704
+date: 2026-10-11T02:33:00.389772
 url: "/cdr-researcher-census/researchers/poonam-poonia-a5008384/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar from invasive weeds for enhanced removal of organic pollutants and pathogens from municipal wastewater** (2025)
-   3 citations · Biochar
+   4 citations · Biochar
 
 2. **Optimization and Characterization of Biochar Obtained from the Weedy Biomass of Calotropis gigantea Using Vacuum Pyrolysis** (2024)
    2 citations · Biochar

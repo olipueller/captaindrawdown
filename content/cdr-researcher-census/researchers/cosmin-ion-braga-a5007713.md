@@ -1,7 +1,7 @@
 ---
 title: "Cosmin Ion Bragă"
 description: "Cosmin Ion Bragă is a Mid-career Soil Carbon researcher at National Institute for Research and Development in Forestry \"Marin Drăcea\" in RO. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.094495
+date: 2026-10-11T02:33:00.125117
 url: "/cdr-researcher-census/researchers/cosmin-ion-braga-a5007713/"
 layout: "researcher"
 hiddenInHomeList: true

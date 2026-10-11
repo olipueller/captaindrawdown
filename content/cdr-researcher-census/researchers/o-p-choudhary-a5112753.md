@@ -1,7 +1,7 @@
 ---
 title: "O. P. Choudhary"
 description: "O. P. Choudhary is a Senior Soil Carbon researcher at Public Works Department Buildings and Roads in IN. With 80 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.158868
+date: 2026-10-11T02:32:59.163260
 url: "/cdr-researcher-census/researchers/o-p-choudhary-a5112753/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,19 +48,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Structural Stability and Organic Matter Stabilization in Soils: Differential Impacts of Soil Salinity and Sodicity** (2023)
-   49 citations · Soil Carbon
+   51 citations · Soil Carbon
 
 2. **Landscape position and slope aspects impacts on soil organic carbon pool and biological indicators of a fragile ecosystem in high-altitude cold arid region** (2022)
-   28 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 3. **Impact of 38-year integrated nutrient management on soil carbon sequestration and greenhouse gas emissions of a rice-wheat cropping system** (2025)
-   9 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 4. **Way forward to adopt agricultural practices for paddy straw management based on carbon sequestration and GHG emissions** (2023)
    9 citations · General CDR
 
 5. **Improvement in soil fertility under long-term intensive irrigated agriculture Punjab (North-west India) scenario** (2023)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 ## External Profiles
 

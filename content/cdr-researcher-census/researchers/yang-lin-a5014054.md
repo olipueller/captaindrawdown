@@ -1,7 +1,7 @@
 ---
 title: "Yang Lin"
 description: "Yang Lin is a Senior Soil Carbon researcher at University of Florida in US. With 70 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.174091
+date: 2026-10-11T02:32:59.178200
 url: "/cdr-researcher-census/researchers/yang-lin-a5014054/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil Carbon Saturation: What Do We Really Know?** (2025)
-   128 citations · Soil Carbon
+   149 citations · Soil Carbon
 
 2. **Three years of cover crops management increased soil organic matter and labile carbon pools in a subtropical vegetable agroecosystem** (2024)
    25 citations · Soil Carbon

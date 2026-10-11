@@ -1,7 +1,7 @@
 ---
 title: "Wenxin Wu"
 description: "Wenxin Wu is a Mid-career Enhanced Weathering researcher at University of Waterloo in CA. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.047654
+date: 2026-10-11T02:33:00.078412
 url: "/cdr-researcher-census/researchers/wenxin-wu-a5022550/"
 layout: "researcher"
 hiddenInHomeList: true

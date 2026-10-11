@@ -1,7 +1,7 @@
 ---
 title: "Theophilus Olufemi Isimikalu"
 description: "Theophilus Olufemi Isimikalu is a Mid-career Biochar researcher at University of Ilorin in NG. With 18 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.386715
+date: 2026-10-11T02:33:00.423718
 url: "/cdr-researcher-census/researchers/theophilus-olufemi-isimikalu-a5031266/"
 layout: "researcher"
 hiddenInHomeList: true

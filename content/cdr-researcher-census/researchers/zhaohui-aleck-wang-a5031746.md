@@ -1,7 +1,7 @@
 ---
 title: "Zhaohui Aleck Wang"
 description: "Zhaohui Aleck Wang is a Senior Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 97 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.088085
+date: 2026-10-11T02:32:59.092942
 url: "/cdr-researcher-census/researchers/zhaohui-aleck-wang-a5031746/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,25 +51,25 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Practical Guide to Measuring Wetland Carbon Pools and Fluxes** (2023)
-   89 citations
+   85 citations
 
 2. **Site selection for ocean alkalinity enhancement informed by passive tracer simulations** (2025)
-   12 citations · Ocean CDR
+   13 citations · Ocean CDR
 
 3. **A tracer study for the development of in-water monitoring, reporting, and verification (MRV) of ship-based ocean alkalinity enhancement** (2025)
-   8 citations · General CDR
+   10 citations · General CDR
 
 4. **Random and systematic uncertainty in ship‐based seawater carbonate chemistry observations** (2024)
-   8 citations · General CDR
+   10 citations · General CDR
 
 5. **The δ<sup>13</sup>C Signature of Dissolved Organic and Inorganic Carbon Reveals Complex Carbon Transformations Within a Salt Marsh** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 6. **The inorganic carbon system across the land-to-ocean continuum** (2023)
    7 citations · General CDR
 
 7. **The effects of elevated seawater pH and total alkalinity following dosing of sodium hydroxide in <i>Calanus finmarchicus</i>** (2026)
-   2 citations · General CDR
+   3 citations · General CDR
 
 8. **Carbonate System Site Selection Characteristics for Ocean Alkalinity Enhancement in the US Northeast Shelf and Slope** (2025)
    2 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Chameera Jayarathna"
 description: "Chameera Jayarathna is a Mid-career Ocean CDR researcher at Norsk Hydro (Norway) in NO. With 38 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.521251
+date: 2026-10-11T02:32:59.535189
 url: "/cdr-researcher-census/researchers/chameera-jayarathna-a5019801/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Review on CO2 removal from ocean with an emphasis on direct ocean capture (DOC) technologies** (2024)
-   29 citations · General CDR
+   31 citations · General CDR
 
 2. **Review on direct ocean capture (DOC) technologies** (2022)
-   8 citations · Ocean CDR
+   7 citations · Ocean CDR
 
 ## External Profiles
 

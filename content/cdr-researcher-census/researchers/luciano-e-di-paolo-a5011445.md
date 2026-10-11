@@ -1,7 +1,7 @@
 ---
 title: "Luciano E. Di Paolo"
 description: "Luciano E. Di Paolo is an Early-career Soil Carbon researcher at Food and Agriculture Organization of the United Nations in IT. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.270281
+date: 2026-10-11T02:32:59.274252
 url: "/cdr-researcher-census/researchers/luciano-e-di-paolo-a5011445/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,7 +47,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Argentina: Soil Organic Carbon Sequestration Potential National Map. National Report. Version 1.0. Year: 2021** (2021)
+1. **Assessing soil organic carbon sequestration in agricultural lands using the RothC model: A multi-country evaluation of the FAO-GSP approach in Congo, Chile, Mexico, and the United States of America** (2026)
+   0 citations · Soil Carbon
+
+2. **Argentina: Soil Organic Carbon Sequestration Potential National Map. National Report. Version 1.0. Year: 2021** (2021)
    0 citations · General CDR
 
 ## External Profiles

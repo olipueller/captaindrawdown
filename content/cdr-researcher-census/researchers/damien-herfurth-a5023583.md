@@ -1,7 +1,7 @@
 ---
 title: "Damien Herfurth"
 description: "Damien Herfurth is a Mid-career Soil Carbon researcher at Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement in FR. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.050165
+date: 2026-10-11T02:33:00.080804
 url: "/cdr-researcher-census/researchers/damien-herfurth-a5023583/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Intra and inter-annual climatic conditions have stronger effect than grazing intensity on root growth of permanent grasslands** (2021)
-   1 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

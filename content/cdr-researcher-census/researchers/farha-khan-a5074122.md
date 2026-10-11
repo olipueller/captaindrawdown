@@ -1,7 +1,7 @@
 ---
 title: "Farha Khan"
 description: "Farha Khan is a Senior General CDR researcher at King Abdullah University of Science and Technology in SA. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.087114
+date: 2026-10-11T02:33:00.117687
 url: "/cdr-researcher-census/researchers/farha-khan-a5074122/"
 layout: "researcher"
 hiddenInHomeList: true

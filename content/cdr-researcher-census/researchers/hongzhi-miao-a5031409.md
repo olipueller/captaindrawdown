@@ -1,7 +1,7 @@
 ---
 title: "Hongzhi Miao"
 description: "Hongzhi Miao is an Early-career Soil Carbon researcher at Northwest A&F University in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.387509
+date: 2026-10-11T02:33:00.424460
 url: "/cdr-researcher-census/researchers/hongzhi-miao-a5031409/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long‐term vegetation restoration increases carbon sequestration of different soil particles in a semi‐arid desert** (2021)
-   31 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 2. **Ecological restoration stimulates environmental outcomes but exacerbates water shortage in the Loess Plateau** (2022)
    7 citations

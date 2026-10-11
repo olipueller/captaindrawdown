@@ -1,7 +1,7 @@
 ---
 title: "Qinwen Zheng"
 description: "Qinwen Zheng is an Early-career Biochar researcher at Guizhou University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.765875
+date: 2026-10-11T02:32:59.789062
 url: "/cdr-researcher-census/researchers/qinwen-zheng-a5100586/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The impact of straw and its post-pyrolysis incorporation on functional microbes and mineralization of organic carbon in yellow paddy soil** (2025)
-   4 citations · Biochar
+   5 citations · Biochar
 
 ## External Profiles
 

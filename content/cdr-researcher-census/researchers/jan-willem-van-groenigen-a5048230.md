@@ -1,7 +1,7 @@
 ---
 title: "Jan Willem van Groenigen"
 description: "Jan Willem van Groenigen is an Eminent Enhanced Weathering researcher at Wageningen University & Research in NL. With 260 publications and an h-index of 64, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.020704
+date: 2026-10-11T02:32:59.023680
 url: "/cdr-researcher-census/researchers/jan-willem-van-groenigen-a5048230/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Is the climate change mitigation effect of enhanced silicate weathering governed by biological processes?** (2021)
-   141 citations · Enhanced Weathering
+   133 citations · Enhanced Weathering
 
 2. **Photosynthetic limits on carbon sequestration in croplands** (2022)
    127 citations · Soil Carbon
 
 3. **Synthesizing the evidence of nitrous oxide mitigation practices in agroecosystems** (2022)
-   64 citations · Soil Carbon
+   65 citations · Soil Carbon
 
 4. **Biochar application differentially affects soil micro-, meso-macro-fauna and plant productivity within a nature restoration grassland** (2022)
-   30 citations · Biochar
+   31 citations · Biochar
 
 5. **Organic carbon source controlled microbial olivine dissolution in small-scale flow-through bioreactors, for CO2 removal** (2024)
-   18 citations · Enhanced Weathering
+   16 citations · Enhanced Weathering
 
 6. **Climate change mitigation through soil carbon sequestration in working lands: A reality check** (2023)
    11 citations · General CDR

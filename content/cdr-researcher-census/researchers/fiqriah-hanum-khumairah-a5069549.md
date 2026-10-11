@@ -1,7 +1,7 @@
 ---
 title: "Fiqriah Hanum Khumairah"
 description: "Fiqriah Hanum Khumairah is a Mid-career Soil Carbon researcher at Center for Plant Conservation in US. With 40 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.795089
+date: 2026-10-11T02:32:59.818614
 url: "/cdr-researcher-census/researchers/fiqriah-hanum-khumairah-a5069549/"
 layout: "researcher"
 hiddenInHomeList: true

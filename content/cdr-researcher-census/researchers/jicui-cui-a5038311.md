@@ -1,7 +1,7 @@
 ---
 title: "Jicui Cui"
 description: "Jicui Cui is a Mid-career Biochar researcher at Shanghai Jiao Tong University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.100811
+date: 2026-10-11T02:33:00.131250
 url: "/cdr-researcher-census/researchers/jicui-cui-a5038311/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Near-full-component sewage sludge valorization via integrated alkali-mediated pyrolysis and sub-boiling temperature crystallization of hierarchical carbon-zeolite composites from carbonaceous and inorganic constituents** (2025)
-   3 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

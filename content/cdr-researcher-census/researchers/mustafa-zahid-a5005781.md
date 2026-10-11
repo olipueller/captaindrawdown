@@ -1,7 +1,7 @@
 ---
 title: "Mustafa Zahid"
 description: "Mustafa Zahid is a Mid-career General CDR researcher at University of California, Berkeley in US. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.307192
+date: 2026-10-11T02:33:00.338075
 url: "/cdr-researcher-census/researchers/mustafa-zahid-a5005781/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Wan-Tao Zhang"
 description: "Wan-Tao Zhang is a Mid-career Soil Carbon researcher at Ningxia Seismological Bureau in CN. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.136117
+date: 2026-10-11T02:33:00.166447
 url: "/cdr-researcher-census/researchers/wan-tao-zhang-a5090312/"
 layout: "researcher"
 hiddenInHomeList: true

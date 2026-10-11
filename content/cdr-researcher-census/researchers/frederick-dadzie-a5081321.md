@@ -1,7 +1,7 @@
 ---
 title: "Frederick Dadzie"
 description: "Frederick Dadzie is a Mid-career Soil Carbon researcher at IP Australia in AU. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.874801
+date: 2026-10-11T02:32:59.902020
 url: "/cdr-researcher-census/researchers/frederick-dadzie-a5081321/"
 layout: "researcher"
 hiddenInHomeList: true

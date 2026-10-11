@@ -1,7 +1,7 @@
 ---
 title: "Abel Rodrigues"
 description: "Abel Rodrigues is a Senior General CDR researcher at Instituto Nacional de Investigação Agrária e Veterinária in PT. With 89 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.107611
+date: 2026-10-11T02:32:59.112295
 url: "/cdr-researcher-census/researchers/abel-rodrigues-a5084326/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Production of Biochar from Vine Pruning: Waste Recovery in the Wine Industry** (2021)
-   41 citations · Biochar
+   42 citations · Biochar
 
 2. **Short rotation woody coppices for biomass production: An integrated analysis of the potential as an energy alternative** (2021)
    18 citations

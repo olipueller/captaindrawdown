@@ -1,7 +1,7 @@
 ---
 title: "Luke Farrow"
 description: "Luke Farrow is a Mid-career General CDR researcher at Agri Food and Biosciences Institute in GB. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.744727
+date: 2026-10-11T02:32:59.766988
 url: "/cdr-researcher-census/researchers/luke-farrow-a5064317/"
 layout: "researcher"
 hiddenInHomeList: true

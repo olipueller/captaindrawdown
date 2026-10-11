@@ -1,7 +1,7 @@
 ---
 title: "Gebhard Schüler"
 description: "Gebhard Schüler is a Senior Soil Carbon researcher at Technische Hochschule Ingolstadt in DE. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.585744
+date: 2026-10-11T02:32:59.602324
 url: "/cdr-researcher-census/researchers/gebhard-schuler-a5103721/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Humera Quadriya"
-description: "Humera Quadriya is a Mid-career Biochar researcher at Indian Institute of Rice Research in IN. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.390364
+description: "Humera Quadriya is a Mid-career Biochar researcher at Indian Institute of Rice Research in IN. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:33:00.388290
 url: "/cdr-researcher-census/researchers/humera-quadriya-a5085279/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 102 |
-| Publications | 10 |
-| CDR Focus | 10.0% |
+| Citations | 108 |
+| Publications | 12 |
+| CDR Focus | 8.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

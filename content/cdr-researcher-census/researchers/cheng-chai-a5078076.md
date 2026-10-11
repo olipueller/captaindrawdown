@@ -1,7 +1,7 @@
 ---
 title: "Cheng Chai"
 description: "Cheng Chai is a Senior Biochar researcher at Xi'an University of Architecture and Technology in CN. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.908830
+date: 2026-10-11T02:32:59.938638
 url: "/cdr-researcher-census/researchers/cheng-chai-a5078076/"
 layout: "researcher"
 hiddenInHomeList: true

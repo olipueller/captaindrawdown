@@ -1,7 +1,7 @@
 ---
 title: "Wu Chunfei"
 description: "Wu Chunfei is a Senior Biochar researcher. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.751055
+date: 2026-10-11T02:32:59.773493
 url: "/cdr-researcher-census/researchers/wu-chunfei-a5063462/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar production, activation, and applications: A comprehensive technical review** (2025)
-   32 citations · Biochar
+   35 citations · Biochar
 
 ## External Profiles
 

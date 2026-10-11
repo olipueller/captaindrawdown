@@ -1,7 +1,7 @@
 ---
 title: "Guanqiao Li"
 description: "Guanqiao Li is a Mid-career Biochar researcher at Northeast Normal University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.373910
+date: 2026-10-11T02:33:00.409388
 url: "/cdr-researcher-census/researchers/guanqiao-li-a5041157/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Cu2O-modified magnetic iron-nitrogen co-doped biochar effective peroxymonosulfate activation for degradation of phthalate esters in reclaimed water** (2025)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

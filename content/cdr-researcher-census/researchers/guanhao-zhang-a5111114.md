@@ -1,7 +1,7 @@
 ---
 title: "Guanhao Zhang"
 description: "Guanhao Zhang is a Mid-career Biochar researcher at Hunan Research Academy of Environmental Sciences in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.342980
+date: 2026-10-11T02:33:00.377817
 url: "/cdr-researcher-census/researchers/guanhao-zhang-a5111114/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar from phytoremediation plant residues: a review of its characteristics and potential applications** (2024)
-   12 citations · Biochar
+   14 citations · Biochar
 
 ## External Profiles
 

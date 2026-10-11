@@ -1,7 +1,7 @@
 ---
 title: "Tharindu N. Karunaratne"
 description: "Tharindu N. Karunaratne is a Mid-career Biochar researcher at Mississippi State University in US. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.023767
+date: 2026-10-11T02:33:00.055067
 url: "/cdr-researcher-census/researchers/tharindu-n-karunaratne-a5083118/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    49 citations · Biochar
 
 2. **Pyrolytic synthesis of graphene-encapsulated zero-valent iron nanoparticles supported on biochar for heavy metal removal** (2022)
-   46 citations · Biochar
+   48 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Baobao Pan"
 description: "Baobao Pan is a Mid-career Soil Carbon researcher at The University of Melbourne in AU. With 24 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.216046
+date: 2026-10-11T02:32:59.219946
 url: "/cdr-researcher-census/researchers/baobao-pan-a5082931/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Total nitrogen levels as a key constraint on soil organic carbon stocks across Australian agricultural soils** (2025)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 2. **Optimising crop calendars with management practices promotes climate-smart agriculture in wheat-maize rotations of the North China Plain** (2025)
-   3 citations · General CDR
+   4 citations · General CDR
 
 3. **Unravelling depth-dependent pedoclimatic controls on measurable soil organic carbon fractions across climatic gradients in Australian agricultural soils** (2026)
    2 citations · Soil Carbon

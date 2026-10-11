@@ -1,7 +1,7 @@
 ---
 title: "Mengmei Zheng"
 description: "Mengmei Zheng is a Mid-career Soil Carbon researcher at Henan Normal University in CN. With 18 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.219408
+date: 2026-10-11T02:32:59.222953
 url: "/cdr-researcher-census/researchers/mengmei-zheng-a5086094/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Global change and China's terrestrial carbon sink: A quantitative review of 30 years' ecosystem manipulative experiments** (2025)
-   20 citations · General CDR
+   21 citations · General CDR
 
 2. **Long‐term litter removal rather than litter addition enhances ecosystem carbon sequestration in a temperate steppe** (2021)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 ## External Profiles
 

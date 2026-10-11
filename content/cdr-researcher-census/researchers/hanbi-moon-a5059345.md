@@ -1,7 +1,7 @@
 ---
 title: "Hanbi Moon"
 description: "Hanbi Moon is a Mid-career Ocean CDR researcher at Kunsan National University in KR. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.268431
+date: 2026-10-11T02:33:00.298362
 url: "/cdr-researcher-census/researchers/hanbi-moon-a5059345/"
 layout: "researcher"
 hiddenInHomeList: true

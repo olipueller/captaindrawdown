@@ -1,7 +1,7 @@
 ---
 title: "Dongxia Jia"
 description: "Dongxia Jia is a Mid-career Biochar researcher at Nanjing Forestry University in CN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.779326
+date: 2026-10-11T02:32:59.802513
 url: "/cdr-researcher-census/researchers/dongxia-jia-a5007849/"
 layout: "researcher"
 hiddenInHomeList: true

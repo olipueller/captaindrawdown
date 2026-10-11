@@ -1,7 +1,7 @@
 ---
 title: "Virna Estefania Moran-Rodas"
 description: "Virna Estefania Moran-Rodas is a Mid-career Soil Carbon researcher at Julius Kühn-Institut in DE. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.106020
+date: 2026-10-11T02:33:00.136434
 url: "/cdr-researcher-census/researchers/virna-estefania-moran-rodas-a5053344/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Does liming improve microbial carbon use efficiency after maize litter addition in a tropical acidic soil?** (2023)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 ## External Profiles
 

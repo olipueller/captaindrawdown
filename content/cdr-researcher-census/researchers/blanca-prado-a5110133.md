@@ -1,7 +1,7 @@
 ---
 title: "Blanca Prado"
 description: "Blanca Prado is a Senior Soil Carbon researcher at Universidad Autónoma de la Ciudad de México in MX. With 45 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.376529
+date: 2026-10-11T02:32:59.383777
 url: "/cdr-researcher-census/researchers/blanca-prado-a5110133/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -55,6 +55,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 3. **Soil ecosystem services of an urban park in Mexico as a basis for planning** (2023)
    1 citations · Soil Carbon
+
+4. **Assessing soil organic carbon sequestration in agricultural lands using the RothC model: A multi-country evaluation of the FAO-GSP approach in Congo, Chile, Mexico, and the United States of America** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

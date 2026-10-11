@@ -1,7 +1,7 @@
 ---
 title: "Wahiba Lemlikchi"
 description: "Wahiba Lemlikchi is a Mid-career Biochar researcher at University of Algiers Benyoucef Benkhedda in DZ. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.111026
+date: 2026-10-11T02:33:00.141753
 url: "/cdr-researcher-census/researchers/wahiba-lemlikchi-a5109370/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Removal of Cibacron Blue P-3R (RB 49) dye from aqueous solution using chemo-physically activated biochar from Agave fiber waste** (2021)
-   8 citations · Biochar
+   6 citations · Biochar
+
+2. **Use of pomegranate peels for the effective removal of the hazardous dye Solophenyl Blue GL (CI Direct Blue 71) from aqueous solution** (2026)
+   0 citations
 
 ## External Profiles
 

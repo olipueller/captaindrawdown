@@ -1,7 +1,7 @@
 ---
 title: "Kees Teuling"
 description: "Kees Teuling is a Mid-career Soil Carbon researcher at Wageningen University & Research in NL. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.017092
+date: 2026-10-11T02:33:00.048059
 url: "/cdr-researcher-census/researchers/kees-teuling-a5078228/"
 layout: "researcher"
 hiddenInHomeList: true

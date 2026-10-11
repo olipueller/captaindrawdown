@@ -1,7 +1,7 @@
 ---
 title: "Mathias Fridahl"
 description: "Mathias Fridahl is a Senior General CDR researcher at Linköping University in SE. With 75 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.136407
+date: 2026-10-11T02:32:59.141024
 url: "/cdr-researcher-census/researchers/mathias-fridahl-a5081929/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Carbon Dioxide Removal Policy in the Making: Assessing Developments in 9 OECD Cases** (2021)
-   151 citations · General CDR
+   152 citations · General CDR
 
 2. **Integrating Carbon Dioxide Removal Into European Emissions Trading** (2021)
    121 citations · DAC
 
 3. **Cancel (Out) Emissions? The Envisaged Role of Carbon Dioxide Removal Technologies in Long-Term National Climate Strategies** (2021)
-   56 citations · General CDR
+   55 citations · General CDR
 
 4. **Procure, Bank, Release: Carbon Removal Certificate Reserves to Manage Carbon Prices on the Path to Net-Zero** (2022)
-   46 citations · General CDR
+   45 citations · General CDR
 
 5. **Socio-Economic Determinants for Biochar Deployment in the Southern Highlands of Tanzania** (2021)
-   44 citations · Biochar
+   45 citations · Biochar
 
 6. **Boundary Work and Interpretations in the IPCC Review Process of the Role of Bioenergy With Carbon Capture and Storage (BECCS) in Limiting Global Warming to 1.5°C** (2021)
    36 citations · BECCS
@@ -74,11 +74,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 8. **What are the potential paths for carbon capture and storage in Sweden? A multi-level assessment of historical and current developments** (2021)
    34 citations · BECCS
 
-9. **The missing piece in policy for carbon dioxide removal: reverse auctions as an interim solution** (2022)
-   27 citations · BECCS
+9. **Forerunner city or net-zero opportunist? Carbon dioxide removal in Stockholm, residual emissions and risks of mitigation deterrence** (2024)
+   28 citations · BECCS
 
-10. **Forerunner city or net-zero opportunist? Carbon dioxide removal in Stockholm, residual emissions and risks of mitigation deterrence** (2024)
-   26 citations · BECCS
+10. **The missing piece in policy for carbon dioxide removal: reverse auctions as an interim solution** (2022)
+   27 citations · BECCS
 
 ## External Profiles
 

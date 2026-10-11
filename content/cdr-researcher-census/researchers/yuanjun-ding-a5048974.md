@@ -1,7 +1,7 @@
 ---
 title: "Yuanjun Ding"
 description: "Yuanjun Ding is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.021817
+date: 2026-10-11T02:33:00.053203
 url: "/cdr-researcher-census/researchers/yuanjun-ding-a5048974/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    24 citations · Biochar
 
 2. **Crop Residue Biochar Rather Than Manure and Straw Return Provided Short Term Synergism Among Grain Production, Carbon Sequestration, and Greenhouse Gas Emission Reduction in a Paddy Under Rice‐Wheat Rotation** (2024)
-   10 citations · Biochar
+   9 citations · Biochar
 
 3. **Changes in Aggregate C Pools and Chemical Composition of Topsoil Organic Matter Following Crop Residue Amendment in Different Forms in a Paddy** (2023)
    0 citations · Soil Carbon

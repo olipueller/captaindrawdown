@@ -1,7 +1,7 @@
 ---
 title: "Shurui Xu"
 description: "Shurui Xu is a Mid-career Biochar researcher at Dongguan University of Technology in CN. With 40 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.275425
+date: 2026-10-11T02:32:59.279756
 url: "/cdr-researcher-census/researchers/shurui-xu-a5102246/"
 layout: "researcher"
 hiddenInHomeList: true

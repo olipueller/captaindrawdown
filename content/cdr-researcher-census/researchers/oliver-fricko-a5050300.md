@@ -1,7 +1,7 @@
 ---
 title: "Oliver Fricko"
 description: "Oliver Fricko is a Senior General CDR researcher at International Institute for Applied Systems Analysis in AT. With 135 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.018538
+date: 2026-10-11T02:32:59.021659
 url: "/cdr-researcher-census/researchers/oliver-fricko-a5050300/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Fairness and feasibility in deep mitigation pathways with novel carbon dioxide removal considering institutional capacity to mitigate** (2023)
-   36 citations · DAC
+   39 citations · DAC
 
 2. **ENGAGE Global Scenarios** (2021)
    6 citations
@@ -59,26 +59,26 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 3. **Fairness and feasibility in deep mitigation pathways with novel carbon dioxide removal considering institutional capacity to mitigate** (2023)
    3 citations
 
-4. **ENGAGE Global Scenarios** (2021)
+4. **Challenges and opportunities of the full phase-out of fossil fuels under the 1.5 °C goal** (2026)
+   2 citations · General CDR
+
+5. **ENGAGE Global Scenarios** (2021)
    2 citations
 
-5. **Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment** (2026)
-   0 citations · BECCS
-
-6. **Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment** (2026)
-   0 citations · BECCS
-
-7. **Equitable cooperation deepens the solution space for high ambition pathways** (2026)
+6. **Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7** (2026)
    0 citations · General CDR
 
-8. **Biodiversity conservation policies alter the solution space of climate mitigation scenarios** (2026)
-   0 citations · BECCS
-
-9. **Challenges and opportunities of the full phase-out of fossil fuels under the 1.5 °C goal** (2026)
+7. **Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7** (2026)
    0 citations · General CDR
 
-10. **Towards sustainability-aware carbon dioxide removal deployment** (2026)
+8. **Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment** (2026)
    0 citations · BECCS
+
+9. **Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment** (2026)
+   0 citations · BECCS
+
+10. **Equitable cooperation deepens the solution space for high ambition pathways** (2026)
+   0 citations · General CDR
 
 ## External Profiles
 

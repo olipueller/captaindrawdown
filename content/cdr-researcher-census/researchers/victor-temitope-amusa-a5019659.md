@@ -1,7 +1,7 @@
 ---
 title: "Victor Temitope Amusa"
 description: "Victor Temitope Amusa is a Mid-career Biochar researcher at Kwara State University in NG. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.783353
+date: 2026-10-11T02:32:59.807427
 url: "/cdr-researcher-census/researchers/victor-temitope-amusa-a5019659/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Adsorption of crude oil from aqueous solution: A review** (2022)
-   97 citations
+   98 citations
 
 2. **Thermal recycling strategy of Coca-Cola PVC label films by its co-carbonization with Terminalia ivorensis leaves** (2022)
    41 citations · Biochar
 
 3. **Hybrid biochar production from biomass and pigmented plastic for sustainable waste-to-energy** (2023)
-   32 citations · Biochar
+   33 citations · Biochar
 
 ## External Profiles
 

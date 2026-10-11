@@ -1,7 +1,7 @@
 ---
 title: "Johan Ahlström"
 description: "Johan Ahlström is a Mid-career BECCS researcher at RISE Research Institutes of Sweden in SE. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.672971
+date: 2026-10-11T02:32:59.692844
 url: "/cdr-researcher-census/researchers/johan-ahlstrom-a5021816/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,15 +51,15 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Sustainable aviation fuels – Options for negative emissions and high carbon efficiency** (2023)
-   29 citations · BECCS
+   30 citations · BECCS
 
 2. **The role of biomass gasification in the future flexible power system – BECCS or CCU?** (2022)
    29 citations · BECCS
 
-3. **The Role of Biomass Gasification in the Future Flexible Power System – BECCS or CCU?** (2021)
-   3 citations · BECCS
+3. **Sustainable Aviation Fuels – Options for Negative Emissions and High Carbon Efficiency** (2022)
+   2 citations · BECCS
 
-4. **Sustainable Aviation Fuels – Options for Negative Emissions and High Carbon Efficiency** (2022)
+4. **The Role of Biomass Gasification in the Future Flexible Power System – BECCS or CCU?** (2021)
    2 citations · BECCS
 
 ## External Profiles

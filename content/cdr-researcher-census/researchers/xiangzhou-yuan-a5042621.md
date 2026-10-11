@@ -1,7 +1,7 @@
 ---
 title: "Xiangzhou Yuan"
 description: "Xiangzhou Yuan is a Senior Biochar researcher at Southeast University in CN. With 121 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.048785
+date: 2026-10-11T02:32:59.052550
 url: "/cdr-researcher-census/researchers/xiangzhou-yuan-a5042621/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Machine learning exploration of the direct and indirect roles of Fe impregnation on Cr(VI) removal by engineered biochar** (2021)
-   98 citations · Biochar
+   100 citations · Biochar
 
 2. **Biochar production, activation, and applications: A comprehensive technical review** (2025)
-   32 citations · Biochar
+   35 citations · Biochar
 
 3. **Solar thermal energy-assisted direct capture of CO2 from ambient air for methanol synthesis** (2024)
-   32 citations · DAC
+   33 citations · DAC
 
 4. **Plasma-modified biochar for energy and environmental sustainability** (2025)
-   15 citations · Biochar
+   16 citations · Biochar
 
 5. **Direct air capture-assisted sustainable fuel solution in maritime sector: a carbon footprint perspective** (2025)
    10 citations · DAC

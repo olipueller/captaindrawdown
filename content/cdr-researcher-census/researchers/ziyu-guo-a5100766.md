@@ -1,7 +1,7 @@
 ---
 title: "Ziyu Guo"
 description: "Ziyu Guo is a Mid-career Biochar researcher at Central South University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.251527
+date: 2026-10-11T02:33:00.281381
 url: "/cdr-researcher-census/researchers/ziyu-guo-a5100766/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "May Zaw Win"
 description: "May Zaw Win is a Mid-career DAC researcher at Chungnam National University in KR. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.332449
+date: 2026-10-11T02:33:00.366446
 url: "/cdr-researcher-census/researchers/may-zaw-win-a5075893/"
 layout: "researcher"
 hiddenInHomeList: true

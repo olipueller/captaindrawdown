@@ -1,7 +1,7 @@
 ---
 title: "Hasara Samaraweera"
 description: "Hasara Samaraweera is a Mid-career Biochar researcher at Western University in CA. With 26 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.484810
+date: 2026-10-11T02:32:59.496326
 url: "/cdr-researcher-census/researchers/hasara-samaraweera-a5068501/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Sustainable phosphate removal using Mg/Ca-modified biochar hybrids: Current trends and future outlooks** (2023)
-   29 citations · Biochar
+   31 citations · Biochar
 
 2. **Engineered biochar as a potential adsorbent for carbon dioxide capture** (2022)
    1 citations · Biochar

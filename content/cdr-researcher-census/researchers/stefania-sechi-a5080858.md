@@ -1,7 +1,7 @@
 ---
 title: "Stefania Sechi"
 description: "Stefania Sechi is a Senior General CDR researcher at University of Sassari in IT. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.979516
+date: 2026-10-11T02:33:00.010940
 url: "/cdr-researcher-census/researchers/stefania-sechi-a5080858/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Top CDR Publications
 
-1. **Applying an indirect method to assess the net carbon footprint of dairy sheep farms with a special focus on suckling lamb** (2025)
+1. **CO2 removal to reach net zero warming of global methane and nitrous oxide emissions of livestock: Comparison of two metrics under different 2050 FAO scenarios** (2025)
    7 citations · General CDR
 
-2. **CO2 removal to reach net zero warming of global methane and nitrous oxide emissions of livestock: Comparison of two metrics under different 2050 FAO scenarios** (2025)
-   6 citations · General CDR
+2. **Applying an indirect method to assess the net carbon footprint of dairy sheep farms with a special focus on suckling lamb** (2025)
+   7 citations · General CDR
 
 ## External Profiles
 

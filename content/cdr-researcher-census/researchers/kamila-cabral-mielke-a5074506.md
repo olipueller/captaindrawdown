@@ -1,7 +1,7 @@
 ---
 title: "Kamila Cabral Mielke"
 description: "Kamila Cabral Mielke is a Mid-career Biochar researcher at Universidade Federal de Viçosa in BR. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.861490
+date: 2026-10-11T02:32:59.888108
 url: "/cdr-researcher-census/researchers/kamila-cabral-mielke-a5074506/"
 layout: "researcher"
 hiddenInHomeList: true

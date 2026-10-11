@@ -1,7 +1,7 @@
 ---
 title: "Juliana Hayden"
 description: "Juliana Hayden is a Senior Ocean CDR researcher at Universidade Federal de Santa Catarina in BR. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.898310
+date: 2026-10-11T02:32:59.927446
 url: "/cdr-researcher-census/researchers/juliana-hayden-a5109637/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Large Porewater‐Derived Carbon Outwelling Across Mangrove Seascapes Revealed by Radium Isotopes** (2024)
-   12 citations · Ocean CDR
+   13 citations · Ocean CDR
 
 2. **Large porewater-derived carbon outwelling across two mangrove-seascapes revealed by radium isotopes** (2024)
    0 citations · Ocean CDR

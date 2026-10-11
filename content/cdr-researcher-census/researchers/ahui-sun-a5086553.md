@@ -1,7 +1,7 @@
 ---
 title: "Ahui Sun"
 description: "Ahui Sun is a Senior Biochar researcher at Hainan Normal University in CN. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.560238
+date: 2026-10-11T02:32:59.575888
 url: "/cdr-researcher-census/researchers/ahui-sun-a5086553/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Oxidative hydrothermal carbonization to fabricate versatile magnetic biochar for Fenton-like degradation of phenolic compounds** (2024)
-   16 citations · Biochar
+   17 citations · Biochar
 
 2. **Preparation of highly adsorptive biochar by sequential iron impregnation under refluxing and pyrolysis at low temperature for removal of tetracycline** (2024)
-   14 citations · Biochar
+   15 citations · Biochar
 
-3. **Synergistic Effect of Potassium Ferrate and Sodium Hydroxide in Lowering Carbothermal Reduction Temperature: Preparation of Magnetic Zero-Valent Iron-Doped Biochar for Antibiotic Removal** (2025)
+3. **Oxidative carbothermal reduction for preparation of high-loading nano-zero-valent iron doped biochar for removal of tetracyclines and fluoroquinolones** (2026)
    3 citations · Biochar
 
-4. **Oxidative carbothermal reduction for preparation of high-loading nano-zero-valent iron doped biochar for removal of tetracyclines and fluoroquinolones** (2026)
-   2 citations · Biochar
+4. **Synergistic Effect of Potassium Ferrate and Sodium Hydroxide in Lowering Carbothermal Reduction Temperature: Preparation of Magnetic Zero-Valent Iron-Doped Biochar for Antibiotic Removal** (2025)
+   3 citations · Biochar
 
 5. **A robust nano zero-valent iron doped biochar prepared by inherent oxidation-driven carbothermal reduction for activating peroxymonosulfate to degrade antibiotics and phenols** (2026)
    0 citations · Biochar

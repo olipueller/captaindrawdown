@@ -1,7 +1,7 @@
 ---
 title: "Bernhard Pribyl-Kranewitter"
 description: "Bernhard Pribyl-Kranewitter is a Mid-career DAC researcher at Paul Scherrer Institut in CH. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.684972
+date: 2026-10-11T02:32:59.705186
 url: "/cdr-researcher-census/researchers/bernhard-pribyl-kranewitter-a5048333/"
 layout: "researcher"
 hiddenInHomeList: true

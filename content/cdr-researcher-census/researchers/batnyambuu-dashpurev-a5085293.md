@@ -1,7 +1,7 @@
 ---
 title: "Batnyambuu Dashpurev"
 description: "Batnyambuu Dashpurev is a Mid-career Soil Carbon researcher at Karlsruhe Institute of Technology in DE. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.397824
+date: 2026-10-11T02:33:00.436059
 url: "/cdr-researcher-census/researchers/batnyambuu-dashpurev-a5085293/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Resul Sahin"
 description: "Resul Sahin is an Early-career DAC researcher at University of Stuttgart in DE. With 7 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.372291
+date: 2026-10-11T02:33:00.407864
 url: "/cdr-researcher-census/researchers/resul-sahin-a5040656/"
 layout: "researcher"
 hiddenInHomeList: true

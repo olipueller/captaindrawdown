@@ -1,7 +1,7 @@
 ---
 title: "Peter N. Eze"
 description: "Peter N. Eze is a Senior Soil Carbon researcher at Botswana International University of Science and Technology in BW. With 58 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.190032
+date: 2026-10-11T02:32:59.194087
 url: "/cdr-researcher-census/researchers/peter-n-eze-a5022436/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Formation pathways, ecosystem functions, and the impacts of land use and environmental stressors on soil aggregates** (2025)
-   19 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 2. **Differential impacts of land use regimes on soil aggregate stability and aggregate-associated organic carbon sequestration in semi-arid Vertisols** (2025)
-   5 citations · Soil Carbon
+   7 citations · Soil Carbon
 
-3. **Pedogenic and Sedimentary Controls on Secondary Carbonate Accumulation in Semi-Arid Fluvial Landscape, Central Botswana** (2026)
+3. **A Multi-Proxy Pedosedimentary Insight into Calcium Origin, Sediment Provenance, and Depositional Environments in a NW Botswana Landform** (2025)
+   2 citations
+
+4. **Pedogenic and Sedimentary Controls on Secondary Carbonate Accumulation in Semi-Arid Fluvial Landscape, Central Botswana** (2026)
    1 citations · Enhanced Weathering
-
-4. **A Multi-Proxy Pedosedimentary Insight into Calcium Origin, Sediment Provenance, and Depositional Environments in a NW Botswana Landform** (2025)
-   1 citations
 
 ## External Profiles
 

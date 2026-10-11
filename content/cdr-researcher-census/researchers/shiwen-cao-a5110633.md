@@ -1,7 +1,7 @@
 ---
 title: "Shiwen Cao"
 description: "Shiwen Cao is a Senior Soil Carbon researcher at Huazhong Agricultural University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.394809
+date: 2026-10-11T02:32:59.403293
 url: "/cdr-researcher-census/researchers/shiwen-cao-a5110633/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Synergic impact mechanisms of cover crop residue on Cd and As availability and native organic carbon mineralization in Cd and As co-contaminated paddy soil** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Christian Baatz"
 description: "Christian Baatz is a Senior General CDR researcher at Hochschule für Angewandte Wissenschaften Kiel in DE. With 44 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.404391
+date: 2026-10-11T02:32:59.413424
 url: "/cdr-researcher-census/researchers/christian-baatz-a5012164/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,11 +53,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 1. **The ABC of Governance Principles for Carbon Dioxide Removal Policy** (2022)
    45 citations · General CDR
 
-2. **Reassessing the need for carbon dioxide removal: moral implications of alternative climate target pathways** (2024)
+2. **A holistic assessment framework for marine carbon dioxide removal options** (2025)
    12 citations · General CDR
 
-3. **A holistic assessment framework for marine carbon dioxide removal options** (2025)
-   11 citations · General CDR
+3. **Reassessing the need for carbon dioxide removal: moral implications of alternative climate target pathways** (2024)
+   12 citations · General CDR
 
 4. **How to govern carbon dioxide removal: an assessment framework for policy instruments** (2025)
    9 citations · General CDR

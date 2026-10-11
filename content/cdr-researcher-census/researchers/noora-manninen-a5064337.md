@@ -1,7 +1,7 @@
 ---
 title: "Noora Manninen"
 description: "Noora Manninen is a Mid-career Soil Carbon researcher. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.205039
+date: 2026-10-11T02:33:00.234749
 url: "/cdr-researcher-census/researchers/noora-manninen-a5064337/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Contribution of water erosion to organic carbon and total nitrogen loads in agricultural discharge from boreal mineral soils** (2023)
-   13 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 ## External Profiles
 

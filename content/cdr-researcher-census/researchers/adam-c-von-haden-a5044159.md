@@ -1,7 +1,7 @@
 ---
 title: "Adam C. von Haden"
 description: "Adam C. von Haden is a Senior BECCS researcher at University of Wisconsin System in US. With 40 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.389679
+date: 2026-10-11T02:32:59.397649
 url: "/cdr-researcher-census/researchers/adam-c-von-haden-a5044159/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    87 citations · Enhanced Weathering
 
 2. **Bioenergy Underground: Challenges and opportunities for phenotyping roots and the microbiome for sustainable bioenergy crop production** (2022)
-   24 citations · BECCS
+   20 citations · BECCS
 
 ## External Profiles
 

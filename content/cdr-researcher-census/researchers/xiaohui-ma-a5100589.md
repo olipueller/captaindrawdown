@@ -1,7 +1,7 @@
 ---
 title: "Xiaohui Ma"
 description: "Xiaohui Ma is a Mid-career Biochar researcher at Tianjin University in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.354609
+date: 2026-10-11T02:33:00.389671
 url: "/cdr-researcher-census/researchers/xiaohui-ma-a5100589/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effective removal of 4-Chloroaniline through an alginate – biochar immobilized functional bacterial consortium** (2025)
-   2 citations · Biochar
+   3 citations · Biochar
 
 ## External Profiles
 

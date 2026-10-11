@@ -1,7 +1,7 @@
 ---
 title: "Rui Jiang"
 description: "Rui Jiang is a Senior Soil Carbon researcher at Southwest University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.371218
+date: 2026-10-11T02:33:00.406569
 url: "/cdr-researcher-census/researchers/rui-jiang-a5100623/"
 layout: "researcher"
 hiddenInHomeList: true

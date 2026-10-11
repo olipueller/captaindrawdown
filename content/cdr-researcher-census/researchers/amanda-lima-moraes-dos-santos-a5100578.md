@@ -1,7 +1,7 @@
 ---
 title: "Amanda Lima Moraes dos Santos"
 description: "Amanda Lima Moraes dos Santos is a Mid-career Biochar researcher at Brazilian Institute of Environment and Renewable Natural Resources in BR. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.377772
+date: 2026-10-11T02:33:00.413234
 url: "/cdr-researcher-census/researchers/amanda-lima-moraes-dos-santos-a5100578/"
 layout: "researcher"
 hiddenInHomeList: true

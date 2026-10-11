@@ -1,7 +1,7 @@
 ---
 title: "Yijin Yang"
 description: "Yijin Yang is a Senior Biochar researcher at Zhengzhou University in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.654847
+date: 2026-10-11T02:32:59.673350
 url: "/cdr-researcher-census/researchers/yijin-yang-a5109744/"
 layout: "researcher"
 hiddenInHomeList: true

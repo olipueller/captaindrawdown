@@ -1,7 +1,7 @@
 ---
 title: "Jianbing Lu"
 description: "Jianbing Lu is a Senior Biochar researcher. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.036164
+date: 2026-10-11T02:33:00.066907
 url: "/cdr-researcher-census/researchers/jianbing-lu-a5084413/"
 layout: "researcher"
 hiddenInHomeList: true

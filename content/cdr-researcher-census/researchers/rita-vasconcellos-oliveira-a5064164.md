@@ -1,7 +1,7 @@
 ---
 title: "Rita Vasconcellos Oliveira"
 description: "Rita Vasconcellos Oliveira is a Mid-career DAC researcher. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.116471
+date: 2026-10-11T02:33:00.147410
 url: "/cdr-researcher-census/researchers/rita-vasconcellos-oliveira-a5064164/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Investigating the socio-political acceptance of negative emission technologies: A group model building approach** (2024)
-   5 citations · BECCS
+   6 citations · BECCS
 
 ## External Profiles
 

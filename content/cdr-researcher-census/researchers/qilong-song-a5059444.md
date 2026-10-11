@@ -1,7 +1,7 @@
 ---
 title: "Qilong Song"
 description: "Qilong Song is a Mid-career Soil Carbon researcher at Gansu Agricultural University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.766080
+date: 2026-10-11T02:32:59.789271
 url: "/cdr-researcher-census/researchers/qilong-song-a5059444/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A three-year record of CO2, CH4 and N2O emissions in maize fields influenced by mulching methods on the Loess Plateau, China** (2024)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 2. **Long-term film mulching with manure amendment increases crop yield and water productivity but decreases the soil carbon and nitrogen sequestration potential in semiarid farmland** (2022)
-   23 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 3. **Long-Term Film Mulching with Manure Amendment Increase Crop Yield and Water Use Eﬃciency But Decrease the Soil Carbon and Nitrogen Sequestration Potential in Semiarid Farmland** (2022)
    0 citations · Soil Carbon

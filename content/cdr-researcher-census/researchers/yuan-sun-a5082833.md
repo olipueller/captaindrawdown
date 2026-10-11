@@ -1,7 +1,7 @@
 ---
 title: "Yuan Sun"
 description: "Yuan Sun is a Senior Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 52 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.203097
+date: 2026-10-11T02:32:59.207265
 url: "/cdr-researcher-census/researchers/yuan-sun-a5082833/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,11 +53,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Effects of elevated CO2 on the C:N stoichiometry of plants, soils, and microorganisms in terrestrial ecosystems** (2021)
    46 citations
 
-2. **Comparing soil organic carbon stock and fractions under natural secondary forest and Pinus massoniana plantation in subtropical China** (2022)
-   39 citations · Soil Carbon
+2. **Rising global temperatures reduce soil microbial diversity over the long term** (2025)
+   40 citations · Soil Carbon
 
-3. **Rising global temperatures reduce soil microbial diversity over the long term** (2025)
-   31 citations · Soil Carbon
+3. **Comparing soil organic carbon stock and fractions under natural secondary forest and Pinus massoniana plantation in subtropical China** (2022)
+   39 citations · Soil Carbon
 
 4. **Phosphorus fertilization enhances terrestrial carbon cycling in phosphorus-deficient ecosystems** (2023)
    13 citations · Soil Carbon

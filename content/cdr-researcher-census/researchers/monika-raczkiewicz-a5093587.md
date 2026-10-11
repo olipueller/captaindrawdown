@@ -1,7 +1,7 @@
 ---
 title: "Monika Raczkiewicz"
-description: "Monika Raczkiewicz is a Mid-career Biochar researcher at Maria Curie-Skłodowska University in PL. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.102890
+description: "Monika Raczkiewicz is a Mid-career Biochar researcher at Maria Curie-Skłodowska University in PL. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:33:00.045042
 url: "/cdr-researcher-census/researchers/monika-raczkiewicz-a5093587/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 160 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| h-index | 7 |
+| Citations | 186 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

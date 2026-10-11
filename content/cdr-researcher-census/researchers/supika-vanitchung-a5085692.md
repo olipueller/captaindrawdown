@@ -1,7 +1,7 @@
 ---
 title: "Supika Vanitchung"
 description: "Supika Vanitchung is a Senior Biochar researcher. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.277808
+date: 2026-10-11T02:33:00.307836
 url: "/cdr-researcher-census/researchers/supika-vanitchung-a5085692/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Malgorzata Borchers"
 description: "Malgorzata Borchers is a Mid-career General CDR researcher at Helmholtz Centre for Environmental Research in DE. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.788595
+date: 2026-10-11T02:32:59.812458
 url: "/cdr-researcher-census/researchers/malgorzata-borchers-a5078304/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,32 +50,32 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Top CDR Publications
 
-1. **Framework for Assessing the Feasibility of Carbon Dioxide Removal Options Within the National Context of Germany** (2022)
+1. **Scoping carbon dioxide removal options for Germany–What is their potential contribution to Net-Zero CO2?** (2022)
    38 citations · General CDR
 
-2. **Scoping carbon dioxide removal options for Germany–What is their potential contribution to Net-Zero CO2?** (2022)
+2. **Framework for Assessing the Feasibility of Carbon Dioxide Removal Options Within the National Context of Germany** (2022)
    37 citations · General CDR
 
 3. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2024)
-   24 citations · BECCS
+   25 citations · BECCS
 
 4. **Scientific literature on carbon dioxide removal revealed as much larger through AI-enhanced systematic mapping** (2025)
-   17 citations · General CDR
+   20 citations · General CDR
 
 5. **Potential contribution of biogas to net zero energy systems – A comparative study of Canada and Germany** (2025)
-   17 citations · BECCS
+   20 citations · BECCS
 
 6. **Exploring Site‐Specific Carbon Dioxide Removal Options With Storage or Sequestration in the Marine Environment – The 10 Mt CO<sub>2</sub> yr<sup>−1</sup> Removal Challenge for Germany** (2025)
-   8 citations · General CDR
+   9 citations · General CDR
 
 7. **Dynamics of bio-based carbon dioxide removal in Germany** (2024)
-   7 citations
+   9 citations
 
 8. **Scientific literature on carbon dioxide removal much larger than previously suggested: insights from an AI-enhanced systematic map** (2024)
    7 citations · General CDR
 
 9. **The role of BECCS in Germany: a key to sustainable and permanent CO<sub>2</sub> removal?** (2025)
-   3 citations · BECCS
+   4 citations · BECCS
 
 10. **Dynamics of bio-based carbon dioxide removal in Germany** (2023)
    3 citations · BECCS

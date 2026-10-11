@@ -1,7 +1,7 @@
 ---
 title: "Cailing Shi"
 description: "Cailing Shi is a Mid-career Soil Carbon researcher at Qingdao University of Science and Technology in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.274866
+date: 2026-10-11T02:33:00.304855
 url: "/cdr-researcher-census/researchers/cailing-shi-a5102617/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Salinity decreases the soil organic carbon stock while increasing its stability: A case study in the coastal region of China** (2025)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 2. **Straw mineralization and carbon dioxide emissions in soils with different salinity levels** (2025)
    3 citations · Soil Carbon

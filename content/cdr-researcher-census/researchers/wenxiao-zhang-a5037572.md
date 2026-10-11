@@ -1,7 +1,7 @@
 ---
 title: "Wenxiao Zhang"
 description: "Wenxiao Zhang is a Mid-career Biochar researcher at Max Planck Institute for Chemistry in DE. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.179854
+date: 2026-10-11T02:33:00.209530
 url: "/cdr-researcher-census/researchers/wenxiao-zhang-a5037572/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Top CDR Publications
 
-1. **Fe‐C Micro‐Electrolysis Driven Dyeing Wastewater Purification in Constructed Wetlands** (2026)
-   0 citations · Biochar
+1. **Iron‑carbon micro-electrolysis enhanced treatment of dyeing wastewater in intermittently aerated constructed wetlands** (2025)
+   1 citations
 
-2. **Iron‑carbon micro-electrolysis enhanced treatment of dyeing wastewater in intermittently aerated constructed wetlands** (2025)
-   0 citations
+2. **Fe‐C Micro‐Electrolysis Driven Dyeing Wastewater Purification in Constructed Wetlands** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

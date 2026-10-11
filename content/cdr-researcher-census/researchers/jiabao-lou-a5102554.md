@@ -1,7 +1,7 @@
 ---
 title: "Jiabao Lou"
 description: "Jiabao Lou is a Mid-career Soil Carbon researcher at Jiangsu University in CN. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.614706
+date: 2026-10-11T02:32:59.632114
 url: "/cdr-researcher-census/researchers/jiabao-lou-a5102554/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Spartina alterniflora invasion altered soil greenhouse gas emissions via affecting labile organic carbon in a coastal wetland** (2024)
-   57 citations · Soil Carbon
+   59 citations · Soil Carbon
 
 2. **Remediation of microplastics-contaminated agricultural soils by unmodified and modified biochar derived from Solidago canadensis L.** (2025)
-   12 citations · Biochar
+   13 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Yang Cao"
 description: "Yang Cao is a Senior Soil Carbon researcher at Guizhou University in CN. With 37 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.291244
+date: 2026-10-11T02:32:59.295611
 url: "/cdr-researcher-census/researchers/yang-cao-a5115600/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biochar production, activation, and applications: A comprehensive technical review** (2025)
-   32 citations · Biochar
+   35 citations · Biochar
 
 2. **Beyond monocultures: Optimizing soil carbon sequestration with diverse planting strategies on the Loess Plateau** (2024)
    19 citations · Soil Carbon

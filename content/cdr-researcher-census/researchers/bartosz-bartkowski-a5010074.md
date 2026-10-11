@@ -1,7 +1,7 @@
 ---
 title: "Bartosz Bartkowski"
 description: "Bartosz Bartkowski is a Senior General CDR researcher at Martin Luther University Halle-Wittenberg in DE. With 111 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.096988
+date: 2026-10-11T02:32:59.101574
 url: "/cdr-researcher-census/researchers/bartosz-bartkowski-a5010074/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,24 +51,27 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Carbon farming: Are soil carbon certificates a suitable tool for climate change mitigation?** (2023)
-   203 citations · General CDR
+   208 citations · General CDR
 
 2. **Foundations for a national assessment of soil biodiversity** (2024)
    12 citations · General CDR
 
-3. **Uncovering the German public's perception of agricultural carbon dioxide removal measures : evidence from deliberative workshops** (2026)
+3. **Uncovering the German public's perception of agricultural carbon dioxide removal measures - Evidence from deliberative workshops** (2026)
+   1 citations · General CDR
+
+4. **Quantifying the importance of ecosystem services in the context of agricultural carbon dioxide removal and rewetting – A deliberative choice experiment** (2026)
    0 citations · General CDR
 
-4. **Uncovering the German public's perception of agricultural carbon dioxide removal measures - Evidence from deliberative workshops** (2026)
+5. **Uncovering the German public's perception of agricultural carbon dioxide removal measures : evidence from deliberative workshops** (2026)
    0 citations · General CDR
 
-5. **Foundations for a national assessment of soil biodiversity** (2024)
+6. **Foundations for a national assessment of soil biodiversity** (2024)
    0 citations
 
-6. **Quantifying the Importance of Ecosystem Services in the Context of Agricultural Carbon Dioxide Removal and Rewetting – a Deliberative Choice Experiment** (2025)
+7. **Quantifying the Importance of Ecosystem Services in the Context of Agricultural Carbon Dioxide Removal and Rewetting – a Deliberative Choice Experiment** (2025)
    0 citations · General CDR
 
-7. **Suitability of soil carbon certificates for climate change mitigation** (2022)
+8. **Suitability of soil carbon certificates for climate change mitigation** (2022)
    0 citations · General CDR
 
 ## External Profiles

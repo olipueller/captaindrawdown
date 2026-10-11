@@ -1,7 +1,7 @@
 ---
 title: "Mel George"
 description: "Mel George is a Senior BECCS researcher at University of Maryland, College Park in US. With 39 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.702610
+date: 2026-10-11T02:32:59.722779
 url: "/cdr-researcher-census/researchers/mel-george-a5040357/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,10 +50,19 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 
 ## Top CDR Publications
 
-1. **Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment** (2026)
+1. **Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7** (2026)
+   0 citations · General CDR
+
+2. **Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7** (2026)
+   0 citations · General CDR
+
+3. **Carbon dioxide removal consistent with climate pledges: a multi-model assessment of regional potential** (2026)
+   0 citations · Biochar
+
+4. **Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment** (2026)
    0 citations · BECCS
 
-2. **Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment** (2026)
+5. **Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment** (2026)
    0 citations · BECCS
 
 ## External Profiles

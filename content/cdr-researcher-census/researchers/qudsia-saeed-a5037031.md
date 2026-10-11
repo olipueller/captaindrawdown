@@ -1,7 +1,7 @@
 ---
 title: "Qudsia Saeed"
 description: "Qudsia Saeed is a Senior Soil Carbon researcher at Nishtar Medical College and Hospital in PK. With 41 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.110597
+date: 2026-10-11T02:32:59.115262
 url: "/cdr-researcher-census/researchers/qudsia-saeed-a5037031/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,22 +48,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term fertilization enhanced carbon mineralization and maize biomass through physical protection of organic carbon in fractions under continuous maize cropping** (2021)
-   88 citations · Soil Carbon
+   87 citations · Soil Carbon
 
 2. **Manure replacing synthetic fertilizer improves crop yield sustainability and reduces carbon footprint under winter wheat–summer maize cropping system** (2024)
-   40 citations · Soil Carbon
+   42 citations · Soil Carbon
 
 3. **Beyond one-size-fits-all: tailoring engineered biochar for purpose-specific rhizosphere engineering in crop production, protection, and soil remediation** (2026)
-   22 citations · Biochar
+   24 citations · Biochar
 
 4. **Combined application of chemical and organic fertilizers enhances soil organic carbon sequestration and crop productivity by improving carbon stability and management index in a rice–rice cropping system** (2025)
-   21 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 5. **Physically separated soil organic matter pools as indicators of carbon and nitrogen change under long-term fertilization in a Chinese Mollisol** (2022)
    21 citations
 
 6. **Root traits and rhizosphere responses as emerging bioindicators of microplastic pollution in agricultural soils: A review** (2026)
-   3 citations
+   5 citations
 
 7. **Manure Replacing Synthetic Fertilizer Improves Crop Yield Sustainability and Reduces the Carbon Footprint Under a Double Cropping System** (2023)
    0 citations

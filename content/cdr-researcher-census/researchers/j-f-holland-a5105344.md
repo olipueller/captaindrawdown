@@ -1,7 +1,7 @@
 ---
 title: "J. F. Holland"
 description: "J. F. Holland is a Senior Soil Carbon researcher at The University of Melbourne in AU. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.508386
+date: 2026-10-11T02:32:59.521363
 url: "/cdr-researcher-census/researchers/j-f-holland-a5105344/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ute Susanne Kaden"
 description: "Ute Susanne Kaden is a Mid-career Soil Carbon researcher at Helmholtz Centre for Environmental Research in DE. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.940715
+date: 2026-10-11T02:32:59.971060
 url: "/cdr-researcher-census/researchers/ute-susanne-kaden-a5063794/"
 layout: "researcher"
 hiddenInHomeList: true

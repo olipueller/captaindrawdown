@@ -1,7 +1,7 @@
 ---
 title: "Jixian Ding"
 description: "Jixian Ding is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.307990
+date: 2026-10-11T02:32:59.313313
 url: "/cdr-researcher-census/researchers/jixian-ding-a5109596/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Global decline in microbial-derived carbon stocks with climate warming and its future projections** (2024)
-   25 citations
+   26 citations
 
 2. **Enhancement of rice production and soil carbon sequestration utilizing nitrogen-fixing cyanobacteria** (2025)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 ## External Profiles
 

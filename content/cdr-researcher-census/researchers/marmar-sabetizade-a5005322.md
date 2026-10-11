@@ -1,7 +1,7 @@
 ---
 title: "Marmar Sabetizade"
-description: "Marmar Sabetizade is a Mid-career Soil Carbon researcher at UCLouvain in BE. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.848586
+description: "Marmar Sabetizade is a Mid-career Soil Carbon researcher at UCLouvain in BE. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:32:59.852192
 url: "/cdr-researcher-census/researchers/marmar-sabetizade-a5005322/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 8 |
-| Citations | 237 |
-| Publications | 15 |
-| CDR Focus | 6.7% |
+| Citations | 247 |
+| Publications | 17 |
+| CDR Focus | 5.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

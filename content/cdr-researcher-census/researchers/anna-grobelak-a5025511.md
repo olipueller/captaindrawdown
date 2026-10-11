@@ -1,7 +1,7 @@
 ---
 title: "Anna Grobelak"
 description: "Anna Grobelak is a Senior Soil Carbon researcher at Czestochowa University of Technology in PL. With 142 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.060352
+date: 2026-10-11T02:32:59.064723
 url: "/cdr-researcher-census/researchers/anna-grobelak-a5025511/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,30 +54,30 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    38 citations · Biochar
 
 2. **Conditioning Biomass for Biogas Plants: Innovative Pre-Treatment and Digestate Valorization Techniques to Enhance Soil Health and Fertility** (2025)
-   17 citations · BECCS
+   20 citations · BECCS
 
 3. **Carbon Footprint for Post-Mining Soils: The Dynamic of Net CO2 Fluxes and SOC Sequestration at Different Soil Remediation Stages under Reforestation** (2022)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 4. **Potential and Mechanisms for Stable C Storage in the Post-Mining Soils under Long-Term Study in Mitigation of Climate Change** (2021)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 5. **Carbon Sequestration in Remediated Post-Mining Soils: A New Indicator for the Vertical Soil Organic Carbon Variability Evaluation in Remediated Post-Mining Soils** (2023)
    5 citations · Soil Carbon
 
-6. **Maximizing soil carbon storage: Leveraging microbial factors and limitations for carbon remediation** (2024)
+6. **Implication of sewage sludge use for sustainable soil management: Soil health and carbon sequestration under the EU ‘Soil Deal for Europe’** (2025)
    1 citations · Soil Carbon
 
-7. **Integrating phytoremediation and regenerative agriculture for the management of emerging contaminants in soils** (2026)
-   0 citations
+7. **Maximizing soil carbon storage: Leveraging microbial factors and limitations for carbon remediation** (2024)
+   1 citations · Soil Carbon
 
-8. **Chapter Five - Implication of sewage sludge use for sustainable soil management: Soil health and carbon sequestration under the EU 'Soil Deal for Europe'** (2025)
-   0 citations · Soil Carbon
+8. **Integrating phytoremediation and regenerative agriculture for the management of emerging contaminants in soils** (2026)
+   0 citations
 
 9. **Chapter Five - Implication of sewage sludge use for sustainable soil management: Soil health and carbon sequestration under the EU 'Soil Deal for Europe'** (2025)
    0 citations · Soil Carbon
 
-10. **Soil carbon sequestration via plant–soil interactions** (2025)
+10. **Chapter Five - Implication of sewage sludge use for sustainable soil management: Soil health and carbon sequestration under the EU 'Soil Deal for Europe'** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

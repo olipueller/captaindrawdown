@@ -1,7 +1,7 @@
 ---
 title: "Valdis Bisters"
 description: "Valdis Bisters is a Mid-career Biochar researcher at University of Latvia in LV. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.902672
+date: 2026-10-11T02:32:59.932072
 url: "/cdr-researcher-census/researchers/valdis-bisters-a5026688/"
 layout: "researcher"
 hiddenInHomeList: true

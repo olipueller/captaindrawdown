@@ -1,7 +1,7 @@
 ---
 title: "Thaksina Poyai"
 description: "Thaksina Poyai is a Mid-career Biochar researcher at Chulalongkorn University in TH. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.185705
+date: 2026-10-11T02:33:00.215934
 url: "/cdr-researcher-census/researchers/thaksina-poyai-a5025306/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Two-step pyrolysis of malic acid-activated corncob biochar for hydrocarbon pollutant removal from non-aqueous solvent** (2025)
-   2 citations · Biochar
+   3 citations · Biochar
+
+2. **Fixed-bed adsorption and techno-economic analysis of malic acid-activated corncob biochar within a solvent recovery system** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

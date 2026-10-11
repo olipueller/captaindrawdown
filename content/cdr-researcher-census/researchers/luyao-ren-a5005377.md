@@ -1,7 +1,7 @@
 ---
 title: "Luyao Ren"
 description: "Luyao Ren is a Mid-career Biochar researcher at Northwest A&F University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.349581
+date: 2026-10-11T02:33:00.384546
 url: "/cdr-researcher-census/researchers/luyao-ren-a5005377/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Freeze–Thaw Cycle Events Enable the Deep Disintegration of Biochar: Release of Dissolved Black Carbon and Its Structural-Dependent Carbon Sequestration Capacity** (2024)
-   19 citations · Biochar
+   20 citations · Biochar
 
 ## External Profiles
 

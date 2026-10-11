@@ -1,7 +1,7 @@
 ---
 title: "Zanbu Geng"
 description: "Zanbu Geng is a Mid-career Enhanced Weathering researcher at Chinese Academy of Sciences in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.689077
+date: 2026-10-11T02:32:59.709457
 url: "/cdr-researcher-census/researchers/zanbu-geng-a5041610/"
 layout: "researcher"
 hiddenInHomeList: true

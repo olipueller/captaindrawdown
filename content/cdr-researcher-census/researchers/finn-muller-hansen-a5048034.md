@@ -1,7 +1,7 @@
 ---
 title: "Finn Müller-Hansen"
 description: "Finn Müller-Hansen is a Mid-career General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 71 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.128796
+date: 2026-10-11T02:32:59.133571
 url: "/cdr-researcher-census/researchers/finn-muller-hansen-a5048034/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Technological innovation enables low cost climate change mitigation** (2023)
-   56 citations · General CDR
+   57 citations · General CDR
 
 2. **Dataset on the adoption of historical technologies informs the scale-up of emerging carbon dioxide removal measures** (2023)
-   42 citations · General CDR
+   41 citations · General CDR
 
 3. **Scientific literature on carbon dioxide removal revealed as much larger through AI-enhanced systematic mapping** (2025)
-   17 citations · General CDR
+   20 citations · General CDR
 
 4. **Scientific literature on carbon dioxide removal much larger than previously suggested: insights from an AI-enhanced systematic map** (2024)
    7 citations · General CDR
 
-5. **Climate change mitigation easier than suggested by models 1** (2021)
-   7 citations · General CDR
+5. **Attention and positive sentiments towards carbon dioxide removal have grown on social media over the past decade** (2024)
+   6 citations · General CDR
 
-6. **Attention and positive sentiments towards carbon dioxide removal have grown on social media over the past decade** (2024)
-   4 citations · General CDR
+6. **Climate change mitigation easier than suggested by models 1** (2021)
+   6 citations · General CDR
 
 7. **Growing online attention and positive sentiments towards carbon dioxide removal** (2024)
    2 citations · General CDR

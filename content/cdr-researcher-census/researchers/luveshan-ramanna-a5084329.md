@@ -1,7 +1,7 @@
 ---
 title: "Luveshan Ramanna"
 description: "Luveshan Ramanna is a Mid-career Ocean CDR researcher at Durban University of Technology in ZA. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.228245
+date: 2026-10-11T02:32:59.231524
 url: "/cdr-researcher-census/researchers/luveshan-ramanna-a5084329/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Microalgae-driven carbon sequestration and bio-fertiliser: Steps towards a sustainable future** (2025)
-   17 citations · General CDR
+   18 citations · General CDR
 
 ## External Profiles
 

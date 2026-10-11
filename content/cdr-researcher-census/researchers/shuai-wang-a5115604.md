@@ -1,7 +1,7 @@
 ---
 title: "Shuai Wang"
 description: "Shuai Wang is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 160 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.055458
+date: 2026-10-11T02:32:59.059627
 url: "/cdr-researcher-census/researchers/shuai-wang-a5115604/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    30 citations · Soil Carbon
 
 4. **Soil carbon sequestration potential of cultivated lands and its controlling factors in China** (2023)
-   25 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 5. **Impact of future climate warming on soil organic carbon stocks in Inner Mongolia, China** (2023)
    12 citations · Soil Carbon

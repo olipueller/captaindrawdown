@@ -1,7 +1,7 @@
 ---
 title: "Alexandru Zaharia"
 description: "Alexandru Zaharia is a Senior Soil Carbon researcher at Delft University of Technology in NL. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.531722
+date: 2026-10-11T02:32:59.545802
 url: "/cdr-researcher-census/researchers/alexandru-zaharia-a5047124/"
 layout: "researcher"
 hiddenInHomeList: true

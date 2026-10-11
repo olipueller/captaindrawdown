@@ -1,7 +1,7 @@
 ---
 title: "Sachin Payyanad"
 description: "Sachin Payyanad is an Early-career Biochar researcher at Jain University in IN. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.955002
+date: 2026-10-11T02:32:59.986426
 url: "/cdr-researcher-census/researchers/sachin-payyanad-a5078794/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Review of Large-Scale Biochar Field-Trials for Soil Amendment and the Observed Influences on Crop Yield Variations** (2021)
-   163 citations · Biochar
+   166 citations · Biochar
 
 ## External Profiles
 

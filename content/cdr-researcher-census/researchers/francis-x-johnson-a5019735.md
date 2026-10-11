@@ -1,7 +1,7 @@
 ---
 title: "Francis X. Johnson"
 description: "Francis X. Johnson is a Senior General CDR researcher at Stockholm Environment Institute in SE. With 118 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.037272
+date: 2026-10-11T02:32:59.040407
 url: "/cdr-researcher-census/researchers/francis-x-johnson-a5019735/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Bioenergy for climate change mitigation: Scale and sustainability** (2021)
-   143 citations · BECCS
+   146 citations · BECCS
 
 2. **Potentials and barriers to land-based mitigation technologies and practices (LMTs)—a review** (2023)
    14 citations · BECCS

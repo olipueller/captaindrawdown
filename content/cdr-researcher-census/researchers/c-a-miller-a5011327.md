@@ -1,7 +1,7 @@
 ---
 title: "C. A. Miller"
 description: "C. A. Miller is a Senior Ocean CDR researcher at Universiteit Utrecht in NL. With 88 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.103255
+date: 2026-10-11T02:32:59.107996
 url: "/cdr-researcher-census/researchers/c-a-miller-a5011327/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    3 citations · Ocean CDR
 
 2. **Alkaline mineral dissolution can impair embryonic development in the Pacific oyster ( <i>Magallana gigas</i> ), raising caution for ocean alkalinity enhancement** (2026)
-   1 citations · General CDR
+   2 citations · General CDR
 
 3. **Supplementary material to "Effectiveness of olivine dissolution in beach simulations for ocean alkalinity enhancement – insights from flow-through experiments"** (2026)
    0 citations · Enhanced Weathering

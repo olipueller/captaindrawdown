@@ -1,7 +1,7 @@
 ---
 title: "Danyi Feng"
 description: "Danyi Feng is a Mid-career Enhanced Weathering researcher at Heilongjiang University of Chinese Medicine in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.698466
+date: 2026-10-11T02:32:59.718918
 url: "/cdr-researcher-census/researchers/danyi-feng-a5091304/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Environmental, human health, and CO2 payback estimation and comparison of enhanced weathering for carbon capture using wollastonite** (2023)
-   26 citations · Enhanced Weathering
+   25 citations · Enhanced Weathering
 
 ## External Profiles
 

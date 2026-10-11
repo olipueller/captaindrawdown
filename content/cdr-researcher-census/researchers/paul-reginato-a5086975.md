@@ -1,7 +1,7 @@
 ---
 title: "Paul Reginato"
 description: "Paul Reginato is a Mid-career General CDR researcher at Broad Institute in US. With 42 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.234688
+date: 2026-10-11T02:32:59.238125
 url: "/cdr-researcher-census/researchers/paul-reginato-a5086975/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,30 +51,33 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Geochemical Negative Emissions Technologies: Part I. Review** (2022)
-   69 citations · DAC
+   71 citations · DAC
 
 2. **Geochemical Negative Emissions Technologies: Part II. Roadmap** (2022)
-   20 citations
+   17 citations
 
 3. **Biotechnology in direct air capture, enhanced weathering, and methane removal: emerging opportunities and gaps** (2025)
-   4 citations · DAC
+   5 citations · DAC
 
-4. **Design, TEA, and LCA of reactor-based bio-enhanced rock weathering** (2024)
-   0 citations · Enhanced Weathering
-
-5. **Problem Statement: Measuring CO2 exchange rates in small solvent volumes** (2023)
+4. **Liquid absorbent direct air capture with pH-swing regeneration can be competitive but challenges remain** (2026)
    0 citations · DAC
 
-6. **Executive Summary: Part 1: Roadmap for biotech in industrial CDR using aqueous solutions** (2023)
+5. **Design, TEA, and LCA of reactor-based bio-enhanced rock weathering** (2024)
+   0 citations · Enhanced Weathering
+
+6. **Problem Statement: Measuring CO2 exchange rates in small solvent volumes** (2023)
+   0 citations · DAC
+
+7. **Executive Summary: Part 1: Roadmap for biotech in industrial CDR using aqueous solutions** (2023)
    0 citations · BECCS
 
-7. **Problem Statement: Techno-economic analysis to guide development of bio-enhanced DAC** (2023)
+8. **Problem Statement: Techno-economic analysis to guide development of bio-enhanced DAC** (2023)
    0 citations · General CDR
 
-8. **Introduction: Roadmap for impact of biotechnology in carbon dioxide removal** (2023)
+9. **Introduction: Roadmap for impact of biotechnology in carbon dioxide removal** (2023)
    0 citations · General CDR
 
-9. **Part 1: Industrial CDR using aqueous solvents** (2023)
+10. **Part 1: Industrial CDR using aqueous solvents** (2023)
    0 citations · General CDR
 
 ## External Profiles

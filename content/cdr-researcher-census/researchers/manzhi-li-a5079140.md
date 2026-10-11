@@ -1,7 +1,7 @@
 ---
 title: "Manzhi Li"
 description: "Manzhi Li is a Senior Biochar researcher. With 42 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.291025
+date: 2026-10-11T02:32:59.295405
 url: "/cdr-researcher-census/researchers/manzhi-li-a5079140/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,10 +43,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The pH-sensitive sorption governed reduction of Cr(VI) by sludge derived biochar and the accelerating effect of organic acids** (2021)
-   48 citations · Biochar
+   49 citations · Biochar
 
 2. **Degradation of Phenol by Immobilized Alcaligenes faecalis Strain JH1 in Fe3O4-Modified Biochar from Pharmaceutical Residues** (2023)
-   11 citations · Biochar
+   12 citations · Biochar
 
 3. **Hexavalent Chromium Detoxification by Biochars: Influences of Organic and Inorganic Electron Donors** (2024)
    1 citations · Biochar

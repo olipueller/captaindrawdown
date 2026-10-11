@@ -1,7 +1,7 @@
 ---
 title: "Tianchu Shu"
 description: "Tianchu Shu is a Mid-career Biochar researcher at Zhongkai University of Agriculture and Engineering in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.318525
+date: 2026-10-11T02:33:00.350362
 url: "/cdr-researcher-census/researchers/tianchu-shu-a5004522/"
 layout: "researcher"
 hiddenInHomeList: true

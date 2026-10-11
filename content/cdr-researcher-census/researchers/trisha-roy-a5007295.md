@@ -1,7 +1,7 @@
 ---
 title: "Trisha Roy"
 description: "Trisha Roy is a Senior Soil Carbon researcher at Central Drug Research Institute in IN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.296962
+date: 2026-10-11T02:33:00.327360
 url: "/cdr-researcher-census/researchers/trisha-roy-a5007295/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biomass Recycling for Soil and Environmental Sustainability in the Indian Himalayas** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

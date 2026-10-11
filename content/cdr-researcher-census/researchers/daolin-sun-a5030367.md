@@ -1,7 +1,7 @@
 ---
 title: "Daolin Sun"
 description: "Daolin Sun is a Mid-career Soil Carbon researcher at South China Agricultural University in CN. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.517585
+date: 2026-10-11T02:32:59.531372
 url: "/cdr-researcher-census/researchers/daolin-sun-a5030367/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil carbon sequestration in paddy field and its simultaneous mineralization to supply available nutrients for the crops are affected by no-tillage with straw management: A meta-analysis** (2023)
-   37 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 2. **Biochar-Seaweed Fertilizer Blend: A Multifaceted Strategy for Mitigating Nitrous Oxide Emissions, Soil Rejuvenation, and Improving Rice Crop Performance** (2025)
    3 citations · Biochar

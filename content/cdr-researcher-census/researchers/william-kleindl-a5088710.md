@@ -1,7 +1,7 @@
 ---
 title: "William Kleindl"
 description: "William Kleindl is a Senior General CDR researcher at Montana State University in US. With 32 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.974702
+date: 2026-10-11T02:33:00.006542
 url: "/cdr-researcher-census/researchers/william-kleindl-a5088710/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Insights Into Nature‐Based Climate Solutions: Managing Forests for Climate Resilience and Carbon Stability** (2025)
-   9 citations · General CDR
+   8 citations · General CDR
 
 2. **Insights for Nature-based Climate Solutions: Managing Forests for Climate Resilience and Carbon Stability** (2024)
    1 citations · General CDR

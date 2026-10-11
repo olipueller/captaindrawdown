@@ -1,7 +1,7 @@
 ---
 title: "Joris Tulumello"
 description: "Joris Tulumello is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.939890
+date: 2026-10-11T02:32:59.970331
 url: "/cdr-researcher-census/researchers/joris-tulumello-a5034596/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Land use and plant genotype modulate rhizosheath traits, root-associated microbiota, and soil carbon sequestration potential** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 2. **Land Use and Plant Genotype Modulate Rhizosheath Traits, Root-Associated Microbiota, and Soil Carbon Sequestration Potential** (2025)
    0 citations

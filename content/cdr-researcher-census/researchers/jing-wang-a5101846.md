@@ -1,7 +1,7 @@
 ---
 title: "Jing Wang"
 description: "Jing Wang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.657729
+date: 2026-10-11T02:32:59.676585
 url: "/cdr-researcher-census/researchers/jing-wang-a5101846/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Greater soil microbial biomass loss at low frequency of N addition in an Inner Mongolia grassland** (2022)
-   12 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Elwin Hunter‐Sellars"
 description: "Elwin Hunter‐Sellars is a Mid-career General CDR researcher at Lawrence Livermore National Laboratory in US. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.343761
+date: 2026-10-11T02:32:59.349733
 url: "/cdr-researcher-census/researchers/elwin-huntersellars-a5057320/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,28 +51,28 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   62 citations · General CDR
+   61 citations · General CDR
 
-2. **Competing Kinetic Consequences of CO<sub>2</sub> on the Oxidative Degradation of Branched Poly(ethylenimine)** (2024)
-   18 citations
+2. **Understanding and mitigating degradation in amine-based sorbents for CO2 direct air capture** (2026)
+   20 citations
 
-3. **Understanding and mitigating degradation in amine-based sorbents for CO2 direct air capture** (2026)
-   15 citations
+3. **Competing Kinetic Consequences of CO<sub>2</sub> on the Oxidative Degradation of Branched Poly(ethylenimine)** (2024)
+   19 citations
 
 4. **Oxidation of Supported Amines for CO <sub>2</sub> Direct Air Capture: Assessing Impact on Physical Properties and Mobility via NMR Relaxometry** (2024)
-   13 citations
+   14 citations
 
 5. **Understanding the Role of Hydroxyl Functionalization in Linear Poly(Ethylenimine) for Oxidation‐Resistant Direct Air Capture of CO <sub>2</sub>** (2025)
    9 citations
 
 6. **Improving the direct air capture capacity of grafted amines <i>via</i> thermal treatment** (2024)
-   6 citations
+   7 citations
 
 7. **The Potential and Cost of Carbon Dioxide Removal Using Direct Air Capture with Land-Based Wind and Utility-Scale Photovoltaics** (2026)
-   2 citations · DAC
+   4 citations · DAC
 
 8. **Land-based resources for engineered carbon dioxide removal in the United States exceed the expected needs** (2025)
-   2 citations · General CDR
+   4 citations · General CDR
 
 9. **Detecting Reactive Products in Carbon Capture Polymers with Chemical Shift Anisotropy and Machine Learning** (2025)
    2 citations

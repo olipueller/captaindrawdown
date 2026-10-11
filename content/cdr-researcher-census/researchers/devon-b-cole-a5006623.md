@@ -1,7 +1,7 @@
 ---
 title: "Devon B. Cole"
 description: "Devon B. Cole is a Senior Enhanced Weathering researcher at Climate Central in US. With 58 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.103031
+date: 2026-10-11T02:32:59.107749
 url: "/cdr-researcher-census/researchers/devon-b-cole-a5006623/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Microbial Community Structure in Contrasting Hawaiian Coastal Sediments** (2025)
-   2 citations
+   3 citations
 
 2. **Hawaiian beaches as natural analogues for enhanced silicate weathering of olivine** (2025)
    1 citations · Enhanced Weathering

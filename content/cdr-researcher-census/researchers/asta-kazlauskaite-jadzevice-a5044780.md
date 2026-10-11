@@ -1,7 +1,7 @@
 ---
 title: "Asta Kazlauskaitė-Jadzevičė"
 description: "Asta Kazlauskaitė-Jadzevičė is a Mid-career Soil Carbon researcher at Lithuanian Research Centre for Agriculture and Forestry in LT. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.325687
+date: 2026-10-11T02:33:00.358297
 url: "/cdr-researcher-census/researchers/asta-kazlauskaite-jadzevice-a5044780/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Changes in Organic Carbon in Mineral Topsoil of a Formerly Cultivated Arenosol under Different Land Uses in Lithuania** (2022)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 2. **Effect of Long-Term Different Land Uses on Improving Stable Humic Compounds in Arenosol** (2024)
-   5 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 3. **Natural and Managed Grasslands Productivity during Multiyear in Ex-Arable Lands (in the Context of Climate Change)** (2021)
    5 citations · Soil Carbon
 
 4. **Perennial Grasses on Stony Sandy Loam Arenosol: Summary of Results of Long-Term Experiment in Northern Europe Region (1995–2024)** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Lixiong Zeng"
 description: "Lixiong Zeng is a Senior Soil Carbon researcher at Central South University in CN. With 128 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.097577
+date: 2026-10-11T02:32:59.102179
 url: "/cdr-researcher-census/researchers/lixiong-zeng-a5066577/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -62,17 +62,17 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Soil microbial residue characteristics in Pinus massoniana lamb. Plantations** (2023)
    14 citations · Soil Carbon
 
-5. **Phenological season-dependent temperature effects on soil respiration in a subtropical Pinus massoniana forest** (2022)
+5. **Smooth vetch covering alters soil aggregate microbial metabolic limitations in citrus orchards** (2024)
    9 citations · Soil Carbon
 
-6. **Smooth vetch covering alters soil aggregate microbial metabolic limitations in citrus orchards** (2024)
-   8 citations · Soil Carbon
+6. **Phenological season-dependent temperature effects on soil respiration in a subtropical Pinus massoniana forest** (2022)
+   9 citations · Soil Carbon
 
 7. **Nitrogen addition enhances nitrogen but not carbon mineralization in aggregate size fractions of soils in a Pinus massonia plantation** (2024)
    5 citations · Soil Carbon
 
 8. **Spatial matching of ecosystem service supply and stakeholder preferences insights for regional management in the Shennongjia forest region, China** (2026)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 9. **Season-Dependent Temperature Effects on Soil Respiration in a Subtropical Pinus Massoniana Forest** (2021)
    0 citations · Soil Carbon

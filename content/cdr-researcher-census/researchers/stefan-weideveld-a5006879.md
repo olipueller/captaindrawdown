@@ -1,7 +1,7 @@
 ---
 title: "Stefan Weideveld"
 description: "Stefan Weideveld is a Mid-career Ocean CDR researcher at Radboud University Nijmegen in NL. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.752285
+date: 2026-10-11T02:32:59.774636
 url: "/cdr-researcher-census/researchers/stefan-weideveld-a5006879/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Removing 10 cm of degraded peat mitigates unwanted effects of peatland rewetting: a mesocosm study** (2023)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 2. **Addition of iron does not ameliorate sulfide toxicity by sargassum influx to mangroves but dampens methane and nitrous oxide emissions** (2024)
    5 citations · Ocean CDR

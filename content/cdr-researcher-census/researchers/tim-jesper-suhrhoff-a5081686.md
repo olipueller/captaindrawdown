@@ -1,7 +1,7 @@
 ---
 title: "Tim Jesper Suhrhoff"
 description: "Tim Jesper Suhrhoff is a Mid-career General CDR researcher at Planetary Science Institute in US. With 66 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.275214
+date: 2026-10-11T02:32:59.279499
 url: "/cdr-researcher-census/researchers/tim-jesper-suhrhoff-a5081686/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 12 |
 | Citations | 914 |
 | Publications | 66 |
-| CDR Focus | 34.8% |
+| CDR Focus | 39.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,31 +54,31 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    68 citations
 
 2. **A review of measurement for quantification of carbon dioxide removal by enhanced weathering in soil** (2024)
-   55 citations · Enhanced Weathering
+   61 citations · Enhanced Weathering
 
 3. **Enhanced Rock Weathering for Carbon Removal–Monitoring and Mitigating Potential Environmental Impacts on Agricultural Land** (2024)
-   45 citations · Enhanced Weathering
+   47 citations · Enhanced Weathering
 
-4. **Phytoprevention of Heavy Metal Contamination From Terrestrial Enhanced Weathering: Can Plants Save the Day?** (2022)
-   19 citations · Enhanced Weathering
+4. **Soil cation storage is a key control on the carbon removal dynamics of enhanced weathering** (2025)
+   21 citations · Enhanced Weathering
 
-5. **Soil cation storage is a key control on the carbon removal dynamics of enhanced weathering** (2025)
-   16 citations · Enhanced Weathering
+5. **Phytoprevention of Heavy Metal Contamination From Terrestrial Enhanced Weathering: Can Plants Save the Day?** (2022)
+   20 citations · Enhanced Weathering
 
 6. **A tool for assessing the sensitivity of soil-based approaches for quantifying enhanced weathering: a US case study** (2024)
-   13 citations · Enhanced Weathering
+   12 citations · Enhanced Weathering
 
 7. **On error, uncertainty, and assumptions in calculating carbon dioxide removal rates by enhanced rock weathering in Kantola et al., 2023** (2023)
    10 citations · Enhanced Weathering
 
 8. **Weathering without realizing inorganic CO <sub>2</sub> removal revealed through base cation monitoring** (2026)
-   5 citations · Enhanced Weathering
+   8 citations · Enhanced Weathering
 
 9. **Reviews and syntheses: Carbon vs. cation based MRV of Enhanced Rock Weathering and the issue of soil organic carbon** (2026)
-   3 citations · Enhanced Weathering
+   8 citations · Enhanced Weathering
 
-10. **Expert elicitation on agricultural enhanced weathering highlights CO2 removal potential and uncertainties in loss pathways** (2025)
-   3 citations · Enhanced Weathering
+10. **Expert elicitation on agricultural enhanced weathering reveals carbon dioxide removal potential and uncertainties in loss pathways** (2026)
+   5 citations · Enhanced Weathering
 
 ## External Profiles
 

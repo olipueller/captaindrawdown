@@ -1,7 +1,7 @@
 ---
 title: "Shraddha Gupta"
 description: "Shraddha Gupta is a Senior General CDR researcher at University of Petroleum and Energy Studies in IN. With 57 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.760928
+date: 2026-10-11T02:32:59.783969
 url: "/cdr-researcher-census/researchers/shraddha-gupta-a5052634/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,21 +45,24 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 10 |
 | Citations | 277 |
 | Publications | 57 |
-| CDR Focus | 7.0% |
+| CDR Focus | 8.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Regional perspective of terrestrial carbon dioxide removal on land-atmosphere coupling and heat extremes** (2026)
+1. **Assessing Earth system responses in mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2026)
    0 citations · General CDR
 
-2. **Assessing Earth system responses in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2026)
+2. **Regional perspective of terrestrial carbon dioxide removal on land-atmosphere coupling and heat extremes** (2026)
    0 citations · General CDR
 
-3. **Assessing Earth system feedbacks in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2025)
+3. **Assessing Earth system responses in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2026)
    0 citations · General CDR
 
-4. **Representing carbon dioxide removal in Earth System Models: towards an activity-driven framework.** (2025)
+4. **Assessing Earth system feedbacks in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2025)
+   0 citations · General CDR
+
+5. **Representing carbon dioxide removal in Earth System Models: towards an activity-driven framework.** (2025)
    0 citations · General CDR
 
 ## External Profiles

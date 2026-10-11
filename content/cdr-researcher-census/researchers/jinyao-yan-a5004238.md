@@ -1,7 +1,7 @@
 ---
 title: "Jinyao Yan"
 description: "Jinyao Yan is a Mid-career Soil Carbon researcher at Jilin Academy of Agricultural Sciences in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.371512
+date: 2026-10-11T02:32:59.378737
 url: "/cdr-researcher-census/researchers/jinyao-yan-a5004238/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Soil Carbon
 
 2. **Combined application of straw and bio-organic fertilizer improved organic carbon sequestration efficiency and carbon pool management index of degraded Mollisol** (2026)
-   0 citations
+   1 citations
 
 ## External Profiles
 

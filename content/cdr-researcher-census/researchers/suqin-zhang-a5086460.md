@@ -1,7 +1,7 @@
 ---
 title: "Suqin Zhang"
 description: "Suqin Zhang is a Senior General CDR researcher at Yunnan Normal University in CN. With 75 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.814148
+date: 2026-10-11T02:32:59.838857
 url: "/cdr-researcher-census/researchers/suqin-zhang-a5086460/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Asymmetric response of South Asian summer monsoon rainfall in a carbon dioxide removal scenario** (2023)
-   28 citations · General CDR
+   27 citations · General CDR
 
 2. **Reduced rainfall over the Amazon basin in an idealized CO2 removal scenario: Remote dynamic processes** (2024)
    3 citations · General CDR

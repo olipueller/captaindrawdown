@@ -1,7 +1,7 @@
 ---
 title: "Iqra Ghafoor"
 description: "Iqra Ghafoor is a Mid-career Soil Carbon researcher at University of Agriculture Faisalabad in PK. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.682946
+date: 2026-10-11T02:32:59.703114
 url: "/cdr-researcher-census/researchers/iqra-ghafoor-a5064936/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil Physical Properties and Their Influence on Plant Growth** (2025)
-   5 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 ## External Profiles
 

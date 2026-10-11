@@ -1,7 +1,7 @@
 ---
 title: "Wenhao Teng"
 description: "Wenhao Teng is a Mid-career Soil Carbon researcher at Fujian Medical University in CN. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.852177
+date: 2026-10-11T02:32:59.879221
 url: "/cdr-researcher-census/researchers/wenhao-teng-a5029366/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Artificial humic acid regulates the impact of fungal community on soil macroaggregates formation** (2023)
-   38 citations · Soil Carbon
+   40 citations · Soil Carbon
 
 2. **Effects of artificial humic acid on decomposition of returning straw and enhancement of carbon sequestration** (2024)
-   15 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 3. **Artificial carbon materials’ impact on soil fertility and greenhouse gas emission** (2024)
    11 citations · Biochar

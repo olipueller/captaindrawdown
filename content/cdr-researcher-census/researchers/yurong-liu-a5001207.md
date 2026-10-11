@@ -1,7 +1,7 @@
 ---
 title: "Yurong Liu"
 description: "Yurong Liu is a Mid-career Biochar researcher at Sichuan University in CN. With 16 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.298000
+date: 2026-10-11T02:32:59.302938
 url: "/cdr-researcher-census/researchers/yurong-liu-a5001207/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A SAXS study of the pore structure evolution in biochar during gasification in H2O, CO2 and H2O/CO2** (2021)
-   54 citations · Biochar
+   55 citations · Biochar
 
 ## External Profiles
 

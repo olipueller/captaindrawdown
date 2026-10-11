@@ -1,7 +1,7 @@
 ---
 title: "Yicheng He"
 description: "Yicheng He is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.398313
+date: 2026-10-11T02:33:00.436431
 url: "/cdr-researcher-census/researchers/yicheng-he-a5061521/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    29 citations
 
 2. **Climate factors regulate the depth dependency of soil organic carbon under grazing exclusion in Chinese grasslands: A meta‐analysis** (2023)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 ## External Profiles
 

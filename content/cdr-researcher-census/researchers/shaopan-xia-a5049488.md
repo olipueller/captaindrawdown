@@ -1,7 +1,7 @@
 ---
 title: "Shaopan Xia"
 description: "Shaopan Xia is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 47 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.134084
+date: 2026-10-11T02:32:59.138889
 url: "/cdr-researcher-census/researchers/shaopan-xia-a5049488/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,25 +51,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Storage, patterns and influencing factors for soil organic carbon in coastal wetlands of China** (2022)
-   159 citations · Soil Carbon
+   163 citations · Soil Carbon
 
 2. **<i>Spartina alterniflora</i> invasion controls organic carbon stocks in coastal marsh and mangrove soils across tropics and subtropics** (2021)
-   137 citations · Soil Carbon
+   139 citations · Soil Carbon
 
 3. **Microbial Necromass, Lignin, and Glycoproteins for Determining and Optimizing Blue Carbon Formation** (2023)
-   58 citations · Ocean CDR
+   59 citations · Ocean CDR
 
 4. **Patterns and determinants of plant‐derived lignin phenols in coastal wetlands: Implications for organic C accumulation** (2023)
-   57 citations · Soil Carbon
+   59 citations · Soil Carbon
 
-5. **Organic matter composition and stability in estuarine wetlands depending on soil salinity** (2024)
-   23 citations · Soil Carbon
+5. **Patterns and drivers of soil organic carbon fractions and persistence in coastal wetlands of China** (2025)
+   24 citations · Soil Carbon
 
-6. **Patterns and drivers of soil organic carbon fractions and persistence in coastal wetlands of China** (2025)
-   22 citations · Soil Carbon
+6. **Organic matter composition and stability in estuarine wetlands depending on soil salinity** (2024)
+   24 citations · Soil Carbon
 
 7. **Mineral Association and Microbial Processing Jointly Prolong Carbon Turnover in Coastal Wetlands** (2026)
-   15 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 8. **Substrate quality overrides soil salinity in mediating microbial respiration in coastal wetlands** (2023)
    14 citations · Soil Carbon

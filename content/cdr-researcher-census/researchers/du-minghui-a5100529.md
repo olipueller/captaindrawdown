@@ -1,7 +1,7 @@
 ---
 title: "DU Minghui"
 description: "DU Minghui is a Mid-career Ocean CDR researcher at East China Normal University in CN. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.330334
+date: 2026-10-11T02:33:00.363948
 url: "/cdr-researcher-census/researchers/du-minghui-a5100529/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Replacing Spartina alterniflora with northward-afforested mangroves has the potential to acquire extra blue carbon** (2024)
-   10 citations · Ocean CDR
+   11 citations · Ocean CDR
 
 ## External Profiles
 

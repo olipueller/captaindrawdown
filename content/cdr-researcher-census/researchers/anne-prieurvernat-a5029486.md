@@ -1,7 +1,7 @@
 ---
 title: "Anne Prieur‐Vernat"
 description: "Anne Prieur‐Vernat is a Mid-career General CDR researcher at Engie (France) in FR. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.614625
+date: 2026-10-11T02:32:59.631989
 url: "/cdr-researcher-census/researchers/anne-prieurvernat-a5029486/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xingyun Huang"
 description: "Xingyun Huang is a Senior Soil Carbon researcher at South China Botanical Garden in CN. With 56 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.184173
+date: 2026-10-11T02:32:59.188373
 url: "/cdr-researcher-census/researchers/xingyun-huang-a5101790/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,20 +50,20 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Fiddler crab bioturbation stimulates methane emissions in mangroves: Insights into microbial mechanisms** (2024)
-   43 citations · Soil Carbon
+1. **Spartina alterniflora invasion benefits blue carbon sequestration in China** (2024)
+   47 citations
 
-2. **Spartina alterniflora invasion benefits blue carbon sequestration in China** (2024)
-   41 citations
+2. **Fiddler crab bioturbation stimulates methane emissions in mangroves: Insights into microbial mechanisms** (2024)
+   45 citations · Soil Carbon
 
 3. **Fate of soil organic carbon in estuarine mangroves: Evidences from stable isotopes and lignin biomarkers** (2024)
-   30 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 4. **Grassland degradation-induced soil organic carbon loss associated with micro-food web simplification** (2024)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 5. **Blue carbon storage of tidal flats and salt marshes: A comparative assessment in two Chinese coastal areas** (2024)
-   26 citations · Ocean CDR
+   28 citations · Ocean CDR
 
 6. **Mangrove restoration enhances blue carbon sequestration and its stability in a subtropical tidal wetland** (2025)
    14 citations · Ocean CDR
@@ -72,13 +72,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Soil Carbon
 
 8. **Mangrove sediment carbon burial offset by methane emissions from mangrove tree stems** (2025)
-   8 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 9. **Responses of depth-dependence of C:N:P stoichiometry to check dam in mangrove wetlands** (2024)
    6 citations · Soil Carbon
 
-10. **Estimation of mangrove blue carbon stock in Ghana, West Africa** (2026)
-   0 citations
+10. **Microbial carbon use efficiency governs the accumulation of microbial-derived carbon in restored mangroves** (2026)
+   1 citations · Soil Carbon
 
 ## External Profiles
 

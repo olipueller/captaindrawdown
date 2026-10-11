@@ -1,7 +1,7 @@
 ---
 title: "Jussi Heinonsalo"
 description: "Jussi Heinonsalo is an Eminent Soil Carbon researcher at University of Helsinki in FI. With 237 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.061966
+date: 2026-10-11T02:32:59.066413
 url: "/cdr-researcher-census/researchers/jussi-heinonsalo-a5053391/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Towards agricultural soil carbon monitoring, reporting, and verification through the Field Observatory Network (FiON)** (2022)
-   39 citations · General CDR
+   42 citations · General CDR
 
 2. **The impact of biochar on wood-inhabiting bacterial community and its function in a boreal pine forest** (2022)
    19 citations · Biochar
@@ -65,19 +65,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Effects of biochar and ligneous soil amendments on greenhouse gas exchange during extremely dry growing season in a Finnish cropland** (2022)
    7 citations · Biochar
 
-6. **Towards agricultural soil carbon monitoring, reporting and verification through Field Observatory Network (FiON)** (2021)
+6. **Implementation and initial calibration of carbon-13 soil organic matter decomposition in the Yasso model** (2022)
+   6 citations · Soil Carbon
+
+7. **Effects of biochar, ligneous soil amendments, and a microbial stimulant on soil biological activity, and carbon content and stability after two-years of their application in a boreal cropland** (2025)
+   2 citations · Biochar
+
+8. **Towards agricultural soil carbon monitoring, reporting and verification through Field Observatory Network (FiON)** (2021)
    2 citations · General CDR
 
-7. **Stocks and stoichiometry of carbon, nitrogen, and phosphorus in agricultural mineral soil profiles with views on the carbon sequestration** (2026)
+9. **Stocks and stoichiometry of carbon, nitrogen, and phosphorus in agricultural mineral soil profiles with views on the carbon sequestration** (2026)
    1 citations · Soil Carbon
 
-8. **Effects of biochar, ligneous soil amendments, and a microbial stimulant on soil biological activity, and carbon content and stability after two-years of their application in a boreal cropland** (2025)
-   1 citations · Biochar
-
-9. **Implementation and initial calibration of carbon-13 soil organic matter decomposition in Yasso model** (2021)
-   1 citations · Soil Carbon
-
-10. **Soil contents and stoichiometry of carbon, nitrogen, and phosphorus in Finnish farmland and feedbacks on management patterns** (2021)
+10. **Implementation and initial calibration of carbon-13 soil organic matter decomposition in Yasso model** (2021)
    1 citations · Soil Carbon
 
 ## External Profiles

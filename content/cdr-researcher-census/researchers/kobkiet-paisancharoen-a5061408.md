@@ -1,7 +1,7 @@
 ---
 title: "Kobkiet Paisancharoen"
 description: "Kobkiet Paisancharoen is a Senior Soil Carbon researcher at Khon Kaen University in TH. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.344259
+date: 2026-10-11T02:33:00.379268
 url: "/cdr-researcher-census/researchers/kobkiet-paisancharoen-a5061408/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon Sequestration and Soil Fertility Management in Sandy and Clayey Soils Revealed by Over Four Decades of Long‐Term Field Experiments in Thailand** (2024)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 ## External Profiles
 

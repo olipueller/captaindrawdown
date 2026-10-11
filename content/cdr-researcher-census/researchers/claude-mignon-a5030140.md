@@ -1,7 +1,7 @@
 ---
 title: "Claude Mignon"
 description: "Claude Mignon is a Mid-career Ocean CDR researcher at Centre National de la Recherche Scientifique in FR. With 28 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.309832
+date: 2026-10-11T02:33:00.340715
 url: "/cdr-researcher-census/researchers/claude-mignon-a5030140/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    15 citations · General CDR
 
 2. **An updated synthesis of ocean total alkalinity and dissolved inorganic carbon measurements from 1993 to 2023: the SNAPO-CO <sub>2</sub> -v2 dataset** (2025)
-   8 citations · General CDR
+   10 citations · General CDR
 
 3. **An updated synthesis of ocean total alkalinity and dissolved inorganic carbon measurements from 1993 to 2023: the SNAPO-CO2-v2 dataset** (2024)
    1 citations · General CDR

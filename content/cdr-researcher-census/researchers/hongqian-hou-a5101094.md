@@ -1,7 +1,7 @@
 ---
 title: "Hongqian Hou"
 description: "Hongqian Hou is a Senior Soil Carbon researcher at Experimental Station in US. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.473811
+date: 2026-10-11T02:32:59.484913
 url: "/cdr-researcher-census/researchers/hongqian-hou-a5101094/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of long-term manure substitution regimes on soil organic carbon composition in a red paddy soil of southern China** (2022)
-   74 citations · Soil Carbon
+   75 citations · Soil Carbon
 
 2. **Long-Term Effect of Fertilizations on Yield Sustainability, Soil Organic Carbon Sequestration and Apparent Phosphorus Balance in Acidic Paddy Soil** (2022)
    13 citations · Soil Carbon

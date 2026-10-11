@@ -1,7 +1,7 @@
 ---
 title: "Zhizhuang Wu"
 description: "Zhizhuang Wu is a Mid-career Soil Carbon researcher at China National Bamboo Research Center in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.904169
+date: 2026-10-11T02:32:59.933423
 url: "/cdr-researcher-census/researchers/zhizhuang-wu-a5046698/"
 layout: "researcher"
 hiddenInHomeList: true

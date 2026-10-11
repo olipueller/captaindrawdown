@@ -1,7 +1,7 @@
 ---
 title: "Jingqin Ji"
-description: "Jingqin Ji is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.832634
+description: "Jingqin Ji is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:32:59.574252
 url: "/cdr-researcher-census/researchers/jingqin-ji-a5010541/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,16 +39,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 5 |
-| Citations | 244 |
-| Publications | 6 |
-| CDR Focus | 16.7% |
+| h-index | 8 |
+| Citations | 411 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Resource utilization of chicken manure to produce biochar for effective removal of levofloxacin hydrochloride through peroxymonosulfate activation: The synergetic function of graphitization and nitrogen functionality** (2022)
-   38 citations · Biochar
+   40 citations · Biochar
 
 ## External Profiles
 

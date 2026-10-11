@@ -1,7 +1,7 @@
 ---
 title: "Hayato Maruyama"
 description: "Hayato Maruyama is a Senior Enhanced Weathering researcher at Hokkaido University in JP. With 87 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.391921
+date: 2026-10-11T02:32:59.400178
 url: "/cdr-researcher-census/researchers/hayato-maruyama-a5044914/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Enhanced CO2 removal and improved carbon budget by enhanced rock weathering: a field experiment in Hokkaido, Japan** (2025)
-   5 citations · Enhanced Weathering
+   6 citations · Enhanced Weathering
 
 2. **Impact of basalt application on soil chemical properties and elemental uptake by paddy rice through enhanced rock weathering** (2025)
-   2 citations · Enhanced Weathering
+   3 citations · Enhanced Weathering
 
 3. **Soil physical properties and soil CO <sub>2</sub> dynamics at soybean field under basalt powder application** (2025)
    1 citations · Enhanced Weathering

@@ -1,7 +1,7 @@
 ---
 title: "Seungwoo Kang"
 description: "Seungwoo Kang is a Mid-career General CDR researcher. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.448162
+date: 2026-10-11T02:32:59.458834
 url: "/cdr-researcher-census/researchers/seungwoo-kang-a5105461/"
 layout: "researcher"
 hiddenInHomeList: true

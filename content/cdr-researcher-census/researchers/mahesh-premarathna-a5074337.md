@@ -1,7 +1,7 @@
 ---
 title: "Mahesh Premarathna"
 description: "Mahesh Premarathna is a Mid-career Soil Carbon researcher at National Institute of Fundamental Studies in LK. With 39 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.350682
+date: 2026-10-11T02:33:00.385637
 url: "/cdr-researcher-census/researchers/mahesh-premarathna-a5074337/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Organic material inputs are not essential for paddy soil carbon sequestration** (2022)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 2. **Biofilm Biofertilizer Stabilizes Sequestered Paddy Soil Carbon While Cutting Down Chemical Fertilizers: Answers for Climate and Fertilizer Issues** (2023)
    6 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Amany G. M. Shoaib"
 description: "Amany G. M. Shoaib is a Senior Biochar researcher at National Institute of Oceanography and Fisheries in EG. With 12 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.601849
+date: 2026-10-11T02:32:59.619118
 url: "/cdr-researcher-census/researchers/amany-g-m-shoaib-a5012484/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Modeling studies of the adsorption of Methyl Red and Acid Yellow 36 dyes by sulphonated Ulva lactuca carbon** (2025)
-   3 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

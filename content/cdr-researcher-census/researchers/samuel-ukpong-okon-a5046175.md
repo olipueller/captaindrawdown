@@ -1,7 +1,7 @@
 ---
 title: "Samuel Ukpong Okon"
 description: "Samuel Ukpong Okon is a Mid-career Biochar researcher at Ocean University of China in CN. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.591518
+date: 2026-10-11T02:32:59.608354
 url: "/cdr-researcher-census/researchers/samuel-ukpong-okon-a5046175/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Asynchronous application of modified biochar and exogenous fungus Scedosporium sp. ZYY for enhanced degradation of oil-contaminated intertidal mudflat sediment** (2024)
-   2 citations · Biochar
+   4 citations · Biochar
 
 2. **Bacterial community response to modified-biochar and exogenous fungi inoculation during degradation of oil-contaminated clayey sediment in slurry phase** (2023)
    0 citations · Biochar

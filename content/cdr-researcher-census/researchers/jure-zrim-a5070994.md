@@ -1,7 +1,7 @@
 ---
 title: "Jure Zrim"
 description: "Jure Zrim is an Early-career Biochar researcher. With 8 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.333579
+date: 2026-10-11T02:33:00.367626
 url: "/cdr-researcher-census/researchers/jure-zrim-a5070994/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Potential of Biochar to Reduce Greenhouse Gas Emissions and Increase Nitrogen Use Efficiency in Boreal Arable Soils in the Long-Term** (2022)
-   82 citations · Biochar
+   81 citations · Biochar
 
 ## External Profiles
 

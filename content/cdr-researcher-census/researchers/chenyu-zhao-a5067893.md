@@ -1,7 +1,7 @@
 ---
 title: "Chenyu Zhao"
 description: "Chenyu Zhao is a Mid-career Soil Carbon researcher at Singapore University of Technology and Design in SG. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.350949
+date: 2026-10-11T02:33:00.385931
 url: "/cdr-researcher-census/researchers/chenyu-zhao-a5067893/"
 layout: "researcher"
 hiddenInHomeList: true

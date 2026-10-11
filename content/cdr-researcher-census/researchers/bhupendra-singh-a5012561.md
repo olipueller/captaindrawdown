@@ -1,7 +1,7 @@
 ---
 title: "Bhupendra Singh"
 description: "Bhupendra Singh is a Senior Soil Carbon researcher at Hemwati Nandan Bahuguna Garhwal University in IN. With 84 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.340628
+date: 2026-10-11T02:32:59.346480
 url: "/cdr-researcher-census/researchers/bhupendra-singh-a5012561/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Comparison of Carbon Sequestration Potential of Quercus leucotrichophora–Based Agroforestry Systems and Natural Forest in Central Himalaya, India** (2021)
-   53 citations · General CDR
+   52 citations · General CDR
 
 2. **Carbon Sequestration Potential of Agroforestry versus Adjoining Forests at Different Altitudes in the Garhwal Himalayas** (2024)
-   27 citations
+   28 citations
 
 3. **Vegetation composition, soil properties, and carbon stock of montane forests along a disturbance in the Garhwal Himalaya, India** (2023)
-   21 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 4. **Tree diversity, carbon sequestration and production potential of Oryza sativa L. in traditional agroforestry systems of Garhwal Himalaya, India** (2025)
-   11 citations · General CDR
+   13 citations · General CDR
 
 5. **Effect of altitudes and aspects on carbon sequestration potential of Quercus floribunda forests of Garhwal Himalayas** (2024)
    9 citations · Soil Carbon
@@ -74,7 +74,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 8. **Carbon sequestration potential of Alnus nepalensis at different land use systems and elevations of Gyalshing Forest Division, Sikkim, Eastern Himalaya, India** (2025)
    2 citations
 
-9. **Assessment of carbon stocks and soil carbon pools in temperate oak forests of the Garhwal Himalaya, India** (2026)
+9. **Integration of Medicinal Plants in Agroforestry Systems to Enhance the Farmer Income** (2026)
+   0 citations
+
+10. **Himalayan altitude gradient drives divergent carbon storage: conifer biomass peaks, broadleaf soils stabilize** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

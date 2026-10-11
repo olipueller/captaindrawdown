@@ -1,7 +1,7 @@
 ---
 title: "Xilin Wu"
 description: "Xilin Wu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.780092
+date: 2026-10-11T02:32:59.803265
 url: "/cdr-researcher-census/researchers/xilin-wu-a5103200/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Coupling human and natural systems for sustainability: experience from China's Loess Plateau** (2022)
-   169 citations · General CDR
+   185 citations · General CDR
 
 2. **Exploring the interdependencies of ecosystem services and social-ecological factors on the Loess Plateau through network analysis** (2025)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 3. **Coupling Human and Natural Systems for Sustainability: Experiences from China’s Loess Plateau** (2022)
    9 citations · General CDR

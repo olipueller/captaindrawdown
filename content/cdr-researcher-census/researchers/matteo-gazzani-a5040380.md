@@ -1,7 +1,7 @@
 ---
 title: "Matteo Gazzani"
 description: "Matteo Gazzani is a Senior DAC researcher at Technische Universiteit Eindhoven in NL. With 126 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.037590
+date: 2026-10-11T02:32:59.040729
 url: "/cdr-researcher-census/researchers/matteo-gazzani-a5040380/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,34 +45,34 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 38 |
 | Citations | 6,741 |
 | Publications | 126 |
-| CDR Focus | 6.3% |
-| Trajectory | Declining |
+| CDR Focus | 7.9% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **A comparative energy and costs assessment and optimization for direct air capture technologies** (2021)
-   429 citations · DAC
+   432 citations · DAC
 
 2. **Optimal Design and Operation of Solid Sorbent Direct Air Capture Processes at Varying Ambient Conditions** (2022)
-   144 citations
+   143 citations
 
 3. **Modeling, Optimization, and Techno-Economic Analysis of Bipolar Membrane Electrodialysis for Direct Air Capture Processes** (2022)
-   66 citations · DAC
+   70 citations · DAC
 
 4. **Direct air capture based on ionic liquids: From molecular design to process assessment** (2023)
-   58 citations
+   59 citations
 
 5. **Cost-Effective Locations for Producing Fuels and Chemicals from Carbon Dioxide and Low-Carbon Hydrogen in the Future** (2024)
    19 citations · DAC
 
 6. **How Would Ideal Sorbents Improve the Technical and Economic Performance of Adsorption-Based Direct Air Capture?** (2024)
-   17 citations · DAC
+   18 citations · DAC
 
 7. **Integrating direct air capture with small modular nuclear reactors: understanding performance, cost, and potential** (2024)
    16 citations · DAC
 
 8. **A Machine Learning-Aided Equilibrium Model of VTSA Processes for Sorbents Screening Applied to CO<sub>2</sub> Capture from Diluted Sources** (2022)
-   14 citations · DAC
+   15 citations · DAC
 
 9. **On the climate impacts of blue hydrogen production** (2021)
    12 citations · BECCS

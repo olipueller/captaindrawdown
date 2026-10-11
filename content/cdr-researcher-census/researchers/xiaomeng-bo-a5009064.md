@@ -1,7 +1,7 @@
 ---
 title: "Xiaomeng Bo"
 description: "Xiaomeng Bo is a Mid-career Biochar researcher at Nanjing Agricultural University in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.985984
+date: 2026-10-11T02:33:00.017011
 url: "/cdr-researcher-census/researchers/xiaomeng-bo-a5009064/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Benefits and limitations of biochar for climate-smart agriculture: a review and case study from China** (2023)
-   123 citations · Biochar
+   124 citations · Biochar
 
 ## External Profiles
 

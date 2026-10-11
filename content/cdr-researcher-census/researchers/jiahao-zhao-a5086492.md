@@ -1,7 +1,7 @@
 ---
 title: "Jiahao Zhao"
 description: "Jiahao Zhao is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.949152
+date: 2026-10-11T02:32:59.979301
 url: "/cdr-researcher-census/researchers/jiahao-zhao-a5086492/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 2. **Long-term thinning effects on fine root biomass, morphology, and chemistry in a Pinus massoniana forest** (2025)
-   0 citations
+   1 citations
 
 3. **A comprehensive evaluation of forest value based on carbon sequestration stock prediction** (2022)
    0 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Bin Peng"
 description: "Bin Peng is a Mid-career Soil Carbon researcher at University of Illinois Urbana-Champaign in US. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.815301
+date: 2026-10-11T02:32:59.839919
 url: "/cdr-researcher-census/researchers/bin-peng-a5101501/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Assessing the Impact of Agrivoltaics on Water, Energy, and Carbon Cycles Using the Community Land Model Version 5** (2026)
-   7 citations · General CDR
+   8 citations · General CDR
 
 2. **Knowledge-guided graph machine learning improves corn yield mapping in the U.S. Midwest** (2026)
-   5 citations
+   7 citations
 
 ## External Profiles
 

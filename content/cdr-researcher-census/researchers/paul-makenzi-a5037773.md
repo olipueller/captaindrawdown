@@ -1,7 +1,7 @@
 ---
 title: "Paul Makenzi"
 description: "Paul Makenzi is a Senior Soil Carbon researcher at Egerton University in KE. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.562659
+date: 2026-10-11T02:32:59.578496
 url: "/cdr-researcher-census/researchers/paul-makenzi-a5037773/"
 layout: "researcher"
 hiddenInHomeList: true

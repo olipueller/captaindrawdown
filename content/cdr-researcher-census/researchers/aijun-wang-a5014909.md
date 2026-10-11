@@ -1,7 +1,7 @@
 ---
 title: "Aijun Wang"
 description: "Aijun Wang is a Senior Soil Carbon researcher at Ministry of Natural Resources in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.345407
+date: 2026-10-11T02:33:00.380568
 url: "/cdr-researcher-census/researchers/aijun-wang-a5014909/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    26 citations
 
 2. **Interplay between saltmarsh carbon burial and lateral exchange in coastal wetlands: The role of biomorphodynamic feedback** (2025)
-   2 citations · General CDR
+   4 citations · General CDR
 
 ## External Profiles
 

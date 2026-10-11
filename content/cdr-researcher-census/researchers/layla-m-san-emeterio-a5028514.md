@@ -1,7 +1,7 @@
 ---
 title: "Layla M. San Emeterio"
 description: "Layla M. San Emeterio is a Mid-career Soil Carbon researcher at Swedish University of Agricultural Sciences in SE. With 51 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.763698
+date: 2026-10-11T02:32:59.786772
 url: "/cdr-researcher-census/researchers/layla-m-san-emeterio-a5028514/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,12 +54,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations
 
 2. **Impact of organic amendments on carbon stability and carbon use efficiency in acidic and alkaline soils** (2025)
-   2 citations · Soil Carbon
+   4 citations · Soil Carbon
 
-3. **Effects of Contrasting Organic Amendments on Carbon Stability and Soil Carbon Dynamics in Acidic and Alkaline Soils&amp;#160;** (2024)
+3. **Residue mulching differentially enhances soil organic carbon fractions and stabilization in Mediterranean subtropical orchards** (2026)
+   2 citations
+
+4. **Effects of Contrasting Organic Amendments on Carbon Stability and Soil Carbon Dynamics in Acidic and Alkaline Soils&amp;#160;** (2024)
    2 citations · Biochar
 
-4. **Turnover of soil organic matter and microbial biomass under C3-C4 vegetation change: implications for carbon sequestration in Mediterranean agricultural soils.** (2023)
+5. **Turnover of soil organic matter and microbial biomass under C3-C4 vegetation change: implications for carbon sequestration in Mediterranean agricultural soils.** (2023)
    0 citations · Soil Carbon
 
 ## External Profiles

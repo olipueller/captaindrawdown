@@ -1,7 +1,7 @@
 ---
 title: "Sara M. Leslie"
 description: "Sara M. Leslie is a Mid-career Ocean CDR researcher at Hologic (Germany) in DE. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.649896
+date: 2026-10-11T02:32:59.669136
 url: "/cdr-researcher-census/researchers/sara-m-leslie-a5075572/"
 layout: "researcher"
 hiddenInHomeList: true

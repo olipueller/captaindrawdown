@@ -1,7 +1,7 @@
 ---
 title: "Mahnaz Roohi"
 description: "Mahnaz Roohi is a Mid-career Soil Carbon researcher at Government College University, Faisalabad in PK. With 8 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.614980
+date: 2026-10-11T02:32:59.632407
 url: "/cdr-researcher-census/researchers/mahnaz-roohi-a5079893/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Role of fertilization regime on soil carbon sequestration and crop yield in a maize-cowpea intercropping system on low fertility soils** (2022)
-   76 citations · Soil Carbon
+   75 citations · Soil Carbon
 
 ## External Profiles
 

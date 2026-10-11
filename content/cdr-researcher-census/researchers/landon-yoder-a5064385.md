@@ -1,7 +1,7 @@
 ---
 title: "Landon Yoder"
 description: "Landon Yoder is a Mid-career Soil Carbon researcher at Indiana University in US. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.678958
+date: 2026-10-11T02:32:59.698441
 url: "/cdr-researcher-census/researchers/landon-yoder-a5064385/"
 layout: "researcher"
 hiddenInHomeList: true

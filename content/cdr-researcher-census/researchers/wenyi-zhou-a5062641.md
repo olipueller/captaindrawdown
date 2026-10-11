@@ -1,7 +1,7 @@
 ---
 title: "Wenyi Zhou"
 description: "Wenyi Zhou is an Early-career Biochar researcher at China University of Geosciences in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.395181
+date: 2026-10-11T02:33:00.432559
 url: "/cdr-researcher-census/researchers/wenyi-zhou-a5062641/"
 layout: "researcher"
 hiddenInHomeList: true

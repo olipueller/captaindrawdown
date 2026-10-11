@@ -1,7 +1,7 @@
 ---
 title: "Liguo Xin"
 description: "Liguo Xin is a Mid-career General CDR researcher at Shandong University in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.806819
+date: 2026-10-11T02:32:59.831812
 url: "/cdr-researcher-census/researchers/liguo-xin-a5018994/"
 layout: "researcher"
 hiddenInHomeList: true

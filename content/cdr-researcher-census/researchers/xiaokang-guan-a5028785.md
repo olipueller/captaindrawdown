@@ -1,7 +1,7 @@
 ---
 title: "Xiaokang Guan"
 description: "Xiaokang Guan is a Senior Soil Carbon researcher at Henan Agricultural University in CN. With 27 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.225771
+date: 2026-10-11T02:32:59.229094
 url: "/cdr-researcher-census/researchers/xiaokang-guan-a5028785/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Does continuous straw returning keep China farmland soil organic carbon continued increase? A meta-analysis** (2021)
-   236 citations · Soil Carbon
+   243 citations · Soil Carbon
 
 2. **The potential for soil C sequestration and N fixation under different planting patterns depends on the carbon and nitrogen content and stability of soil aggregates** (2023)
-   58 citations · Soil Carbon
+   61 citations · Soil Carbon
 
 3. **Enhancing productivity while reducing water footprint and groundwater depletion: Optimizing irrigation strategies in a wheat-soybean planting system** (2024)
-   15 citations
+   16 citations
 
 ## External Profiles
 

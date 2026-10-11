@@ -1,7 +1,7 @@
 ---
 title: "Shiyuan Fu"
 description: "Shiyuan Fu is a Mid-career Biochar researcher at Zhejiang University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.950424
+date: 2026-10-11T02:32:59.980641
 url: "/cdr-researcher-census/researchers/shiyuan-fu-a5010229/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    10 citations · Biochar
 
 2. **Synergistic removal of carbon and phosphorus by modified carbon-based magnetic materials** (2024)
-   8 citations · Biochar
+   9 citations · Biochar
 
 3. **N-Doped Citrate-Sludge-Derived Carbon (Ncsc) Effectively Promotes Peroxymonosulfate Activation for Perfluorooctanoic Acid (Pfoa) Removal with Surface-Mediated Electron Transfer Mechanism** (2023)
    0 citations

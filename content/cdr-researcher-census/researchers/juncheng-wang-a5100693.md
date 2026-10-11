@@ -1,7 +1,7 @@
 ---
 title: "Juncheng Wang"
 description: "Juncheng Wang is a Mid-career Biochar researcher at Qilu University of Technology in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.781406
+date: 2026-10-11T02:32:59.805182
 url: "/cdr-researcher-census/researchers/juncheng-wang-a5100693/"
 layout: "researcher"
 hiddenInHomeList: true

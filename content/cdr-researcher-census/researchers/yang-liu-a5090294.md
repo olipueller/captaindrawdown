@@ -1,7 +1,7 @@
 ---
 title: "Yang Liu"
 description: "Yang Liu is a Mid-career Soil Carbon researcher at Xinjiang Academy of Agricultural and Reclamation Science in CN. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.368799
+date: 2026-10-11T02:33:00.404423
 url: "/cdr-researcher-census/researchers/yang-liu-a5090294/"
 layout: "researcher"
 hiddenInHomeList: true

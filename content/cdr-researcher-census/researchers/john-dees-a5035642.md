@@ -1,7 +1,7 @@
 ---
 title: "John Dees"
 description: "John Dees is a Mid-career BECCS researcher at University of California, Berkeley in US. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.157989
+date: 2026-10-11T02:33:00.188176
 url: "/cdr-researcher-census/researchers/john-dees-a5035642/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,9 +51,12 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Leveraging the bioeconomy for carbon drawdown** (2023)
-   58 citations · BECCS
+   60 citations · BECCS
 
-2. **Leveraging the bioeconomy for carbon drawdown** (2023)
+2. **Accounting for short-term durability in carbon offsetting** (2026)
+   0 citations
+
+3. **Leveraging the bioeconomy for carbon drawdown** (2023)
    0 citations
 
 ## External Profiles

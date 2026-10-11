@@ -1,7 +1,7 @@
 ---
 title: "Alessandro Persiani"
 description: "Alessandro Persiani is a Mid-career Soil Carbon researcher at Consiglio per la ricerca in agricoltura e l’analisi dell’economia agraria in IT. With 52 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.251342
+date: 2026-10-11T02:32:59.255227
 url: "/cdr-researcher-census/researchers/alessandro-persiani-a5082535/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil hydraulic arrangement and agro-ecological practices in organic rotations: effects on crop performance, soil properties and carbon balance** (2022)
-   6 citations · General CDR
+   7 citations · General CDR
 
 2. **The impact of long-term organic horticultural systems on energy outputs and carbon storages in relation to extreme rainfall events** (2024)
    5 citations · Soil Carbon

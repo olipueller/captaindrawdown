@@ -1,7 +1,7 @@
 ---
 title: "Guangping Xu"
 description: "Guangping Xu is a Senior Soil Carbon researcher at Hohai University in CN. With 55 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.124382
+date: 2026-10-11T02:32:59.129039
 url: "/cdr-researcher-census/researchers/guangping-xu-a5101663/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,21 +45,27 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 21 |
 | Citations | 2,047 |
 | Publications | 55 |
-| CDR Focus | 5.5% |
+| CDR Focus | 9.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **The conversion of forests to agricultural land reduced the content of soil black carbon fractions in a karst rocky desertification area of Southwest China** (2024)
+1. **Vegetation restoration increases soil aggregate stability and aggregate-associated black carbon content in a karst rocky desertification area in southwestern Guangxi** (2026)
+   2 citations
+
+2. **The conversion of forests to agricultural land reduced the content of soil black carbon fractions in a karst rocky desertification area of Southwest China** (2024)
    1 citations · Soil Carbon
 
-2. **Biochar Application Improves Soil Aggregate Stability and Aggregate-Associated Carbon Fractions Through Microbial Community Regulation in Eucalyptus Plantations—A Seven-Year Field Experiment** (2026)
+3. **Vegetation restoration drives soil carbon sequestration via increased SOC and BC in a karst rocky desertification region of Southwest China** (2026)
+   0 citations · Soil Carbon
+
+4. **Biochar Application Improves Soil Aggregate Stability and Aggregate-Associated Carbon Fractions Through Microbial Community Regulation in Eucalyptus Plantations—A Seven-Year Field Experiment** (2026)
    0 citations · Biochar
 
-3. **Soil black carbon decline following deforestation and farming in karst rocky desertification Southwest Guangxi, China** (2026)
+5. **Soil black carbon decline following deforestation and farming in karst rocky desertification Southwest Guangxi, China** (2026)
    0 citations · Biochar
 
-4. **Vegetation Restoration Facilitate Soil Carbon Sequestration Via Black Carbon Accumulation in a Karst Rocky Desertification Area, Southwest China** (2023)
+6. **Vegetation Restoration Facilitate Soil Carbon Sequestration Via Black Carbon Accumulation in a Karst Rocky Desertification Area, Southwest China** (2023)
    0 citations · Biochar
 
 ## External Profiles

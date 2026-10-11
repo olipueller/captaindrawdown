@@ -1,7 +1,7 @@
 ---
 title: "Shanti Devi Bamboriya"
 description: "Shanti Devi Bamboriya is a Mid-career Soil Carbon researcher at ICAR-Indian Institute of Maize Research in IN. With 42 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.517775
+date: 2026-10-11T02:32:59.531556
 url: "/cdr-researcher-census/researchers/shanti-devi-bamboriya-a5056472/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    81 citations · Soil Carbon
 
 2. **Identifying optimum residue levels for stable crop and water productivity and carbon sequestration under a conservation agriculture based rice-wheat system** (2023)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 3. **Crop Residue Management: A Novel Technique for Restoring Soil Health and Sustainable Intensification in India** (2021)
    10 citations · Soil Carbon

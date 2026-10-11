@@ -1,7 +1,7 @@
 ---
 title: "Eritrina Windyarini"
 description: "Eritrina Windyarini is a Mid-career Soil Carbon researcher at Ministry of Environment in KR. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.327183
+date: 2026-10-11T02:33:00.359823
 url: "/cdr-researcher-census/researchers/eritrina-windyarini-a5059029/"
 layout: "researcher"
 hiddenInHomeList: true

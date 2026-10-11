@@ -1,7 +1,7 @@
 ---
 title: "Shayan Sharafi Laleh"
 description: "Shayan Sharafi Laleh is a Mid-career BECCS researcher at University of Tabriz in IR. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.520660
+date: 2026-10-11T02:32:59.534513
 url: "/cdr-researcher-census/researchers/shayan-sharafi-laleh-a5063788/"
 layout: "researcher"
 hiddenInHomeList: true

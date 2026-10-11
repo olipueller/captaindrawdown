@@ -1,7 +1,7 @@
 ---
 title: "Zejiang Cai"
 description: "Zejiang Cai is a Senior Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 59 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.150831
+date: 2026-10-11T02:32:59.155093
 url: "/cdr-researcher-census/researchers/zejiang-cai-a5034551/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term manuring facilitates glomalin-related soil proteins accumulation by chemical composition shifts and macro-aggregation formation** (2023)
-   57 citations · Soil Carbon
+   58 citations · Soil Carbon
 
-2. **Long-Term Manuring Enhanced Compositional Stability of Glomalin-Related Soil Proteins through Arbuscular Mycorrhizal Fungi Regulation** (2024)
+2. **Divergent effects of long-term fertilization on the carbon management index across soil profiles in key Chinese croplands** (2024)
+   14 citations · Soil Carbon
+
+3. **Long-Term Manuring Enhanced Compositional Stability of Glomalin-Related Soil Proteins through Arbuscular Mycorrhizal Fungi Regulation** (2024)
    13 citations · Soil Carbon
-
-3. **Divergent effects of long-term fertilization on the carbon management index across soil profiles in key Chinese croplands** (2024)
-   12 citations · Soil Carbon
 
 ## External Profiles
 

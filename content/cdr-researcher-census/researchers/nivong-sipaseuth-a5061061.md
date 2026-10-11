@@ -1,7 +1,7 @@
 ---
 title: "Nivong Sipaseuth"
 description: "Nivong Sipaseuth is a Senior Soil Carbon researcher at Ministry of Agriculture and Land Reclamation in EG. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.170581
+date: 2026-10-11T02:33:00.200234
 url: "/cdr-researcher-census/researchers/nivong-sipaseuth-a5061061/"
 layout: "researcher"
 hiddenInHomeList: true

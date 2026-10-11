@@ -1,7 +1,7 @@
 ---
 title: "Tobias Nützel"
 description: "Tobias Nützel is a Mid-career General CDR researcher at Max Planck Institute for Meteorology in DE. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.280573
+date: 2026-10-11T02:32:59.284812
 url: "/cdr-researcher-census/researchers/tobias-nutzel-a5004400/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Canadian net forest CO2 uptake enhanced by heat drought via reduced respiration** (2026)
-   7 citations
+   8 citations
 
-2. **CMIP6 models agree on similar carbon cycle feedbacks between enhancing terrestrial and marine carbon sinks** (2025)
+2. **No compromise in efficiency from the co-application of a marine and a terrestrial CDR method** (2025)
+   8 citations · General CDR
+
+3. **CMIP6 models agree on similar carbon cycle feedbacks between enhancing terrestrial and marine carbon sinks** (2025)
    7 citations · General CDR
 
-3. **No compromise in efficiency from the co-application of a marine and a terrestrial CDR method** (2025)
-   5 citations · General CDR
-
 4. **How to measure the efficiency of bioenergy crops compared to forestation** (2024)
-   5 citations · BECCS
+   6 citations · BECCS
 
 5. **Improving the representation of the fate of harvested wood in global and regional carbon budgets** (2026)
    0 citations · General CDR

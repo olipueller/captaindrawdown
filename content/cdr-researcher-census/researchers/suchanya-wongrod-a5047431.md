@@ -1,7 +1,7 @@
 ---
 title: "Suchanya Wongrod"
 description: "Suchanya Wongrod is a Mid-career Biochar researcher at King Mongkut's University of Technology Thonburi in TH. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.653669
+date: 2026-10-11T02:32:59.672356
 url: "/cdr-researcher-census/researchers/suchanya-wongrod-a5047431/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Adsorption Kinetics of Cadmium and Lead by Biochars in Single- and Bisolute Brackish Water Systems** (2023)
-   22 citations · Biochar
+   24 citations · Biochar
 
 2. **Simultaneous sequestration of cadmium and lead in brackish aquaculture water by biochars: A mechanistic insight** (2024)
    2 citations · Biochar

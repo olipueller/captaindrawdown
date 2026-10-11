@@ -1,7 +1,7 @@
 ---
 title: "Hadeel Hosney"
 description: "Hadeel Hosney is a Senior Biochar researcher at IHE Delft Institute for Water Education in NL. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.646634
+date: 2026-10-11T02:32:59.665394
 url: "/cdr-researcher-census/researchers/hadeel-hosney-a5014442/"
 layout: "researcher"
 hiddenInHomeList: true

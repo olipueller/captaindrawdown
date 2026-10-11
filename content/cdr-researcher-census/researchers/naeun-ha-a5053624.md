@@ -1,7 +1,7 @@
 ---
 title: "Naeun Ha"
 description: "Naeun Ha is a Mid-career Biochar researcher at Chungnam National University in KR. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.954565
+date: 2026-10-11T02:32:59.985995
 url: "/cdr-researcher-census/researchers/naeun-ha-a5053624/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Unique CO2 adsorption of pine needle biochar-based activated carbons by induction of functionality transition** (2023)
-   32 citations · Biochar
+   31 citations · Biochar
 
 ## External Profiles
 

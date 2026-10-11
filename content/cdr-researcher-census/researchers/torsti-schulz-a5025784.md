@@ -1,7 +1,7 @@
 ---
 title: "Torsti Schulz"
 description: "Torsti Schulz is a Mid-career BECCS researcher at University of Helsinki in FI. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.517139
+date: 2026-10-11T02:32:59.530912
 url: "/cdr-researcher-census/researchers/torsti-schulz-a5025784/"
 layout: "researcher"
 hiddenInHomeList: true

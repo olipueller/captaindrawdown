@@ -1,7 +1,7 @@
 ---
 title: "Amy Swan"
 description: "Amy Swan is a Senior General CDR researcher at Colorado State University in US. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.185323
+date: 2026-10-11T02:32:59.189487
 url: "/cdr-researcher-census/researchers/amy-swan-a5018941/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   62 citations · General CDR
+   61 citations · General CDR
 
 2. **Modeling Yield, Biogenic Emissions, and Carbon Sequestration in Southeastern Cropping Systems With Winter Carinata** (2022)
-   20 citations · General CDR
+   19 citations · General CDR
 
 3. **Carbon dioxide removal–What’s worth doing? A biophysical and public need perspective** (2023)
    17 citations · General CDR

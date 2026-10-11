@@ -1,7 +1,7 @@
 ---
 title: "Narinder Panotra"
 description: "Narinder Panotra is a Senior Soil Carbon researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir in IN. With 105 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.684152
+date: 2026-10-11T02:32:59.704364
 url: "/cdr-researcher-census/researchers/narinder-panotra-a5024454/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,28 +56,28 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **A thorough Analysis of Crop Stubble Burning Mitigation Using Pusa Decomposer: A Comprehensive Review** (2025)
    2 citations · Soil Carbon
 
-3. **Impact of Conservation Tillage and Organic Nutrient Sources on Finger Millet Performance in Legume-based Cropping Systems** (2025)
-   1 citations · Soil Carbon
+3. **Biochar: A Sustainable Solution for Soil Health and Climate Change Mitigation** (2025)
+   2 citations · Biochar
 
-4. **The Economics of Carbon Sequestration and Climate Change Mitigation Potential of Different Soil Management Practices** (2025)
+4. **Advances in Understanding Soil Microbial Diversity and Its Role in Ecosystem Functioning: A Comprehensive Review** (2025)
+   1 citations
+
+5. **Impact of Climate Change on Global Agriculture: A Review of Adaptation and Mitigation Strategies** (2025)
    1 citations · General CDR
 
-5. **The Black Gold: How Biochar Can Save Our Soils and Climate** (2025)
+6. **Impact of Conservation Tillage and Organic Nutrient Sources on Finger Millet Performance in Legume-based Cropping Systems** (2025)
+   1 citations · Soil Carbon
+
+7. **The Economics of Carbon Sequestration and Climate Change Mitigation Potential of Different Soil Management Practices** (2025)
+   1 citations · General CDR
+
+8. **The Black Gold: How Biochar Can Save Our Soils and Climate** (2025)
    1 citations · Biochar
 
-6. **Impact of Organic Farming Practices on Crop Productivity and Soil Health: A Review** (2026)
-   0 citations
+9. **Soil Carbon Sequestration Potential of Climate-Smart Agronomic Practices: A Critical Review** (2026)
+   0 citations · Biochar
 
-7. **Advances in Understanding Soil Microbial Diversity and Its Role in Ecosystem Functioning: A Comprehensive Review** (2025)
-   0 citations
-
-8. **Soil Carbon Sequestration Strategies and Carbon Crediting for Mitigating Climate Change: A Review of Recent Developments** (2025)
-   0 citations · General CDR
-
-9. **Impact of Climate Change on Global Agriculture: A Review of Adaptation and Mitigation Strategies** (2025)
-   0 citations · General CDR
-
-10. **Biochar’s New Role: A Sustainable Amendment for Soil Health and Climate Resilience** (2025)
+10. **Carbon Sequestration in Agricultural Soils through Agronomic Management: Mechanisms, Evidence, Accounting Boundaries and Research Priorities** (2026)
    0 citations · Biochar
 
 ## External Profiles

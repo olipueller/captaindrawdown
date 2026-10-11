@@ -1,7 +1,7 @@
 ---
 title: "Stephanie Spahr"
 description: "Stephanie Spahr is a Mid-career Biochar researcher at Leibniz Institute of Freshwater Ecology and Inland Fisheries in DE. With 79 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.166748
+date: 2026-10-11T02:32:59.170976
 url: "/cdr-researcher-census/researchers/stephanie-spahr-a5013723/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    62 citations · Biochar
 
 2. **Black Carbon-Amended Engineered Media Filters for Improved Treatment of Stormwater Runoff** (2022)
-   29 citations · Biochar
+   30 citations · Biochar
 
 3. **Predicting PFAS and Hydrophilic Trace Organic Contaminant Transport in Black Carbon-Amended Engineered Media Filters for Improved Stormwater Runoff Treatment** (2023)
    25 citations · Biochar

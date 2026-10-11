@@ -1,7 +1,7 @@
 ---
 title: "Trishala Gurung"
 description: "Trishala Gurung is an Early-career BECCS researcher at North Bengal Agricultural University in IN. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.381587
+date: 2026-10-11T02:33:00.417414
 url: "/cdr-researcher-census/researchers/trishala-gurung-a5074910/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Biomass Production and Carbon Sequestration Potential of Different Agroforestry Systems in India: A Critical Review** (2022)
-   101 citations · BECCS
+   103 citations · BECCS
 
 ## External Profiles
 

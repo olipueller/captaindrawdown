@@ -1,7 +1,7 @@
 ---
 title: "Yijing Ding"
 description: "Yijing Ding is a Mid-career Biochar researcher at Jilin University in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.008807
+date: 2026-10-11T02:33:00.040127
 url: "/cdr-researcher-census/researchers/yijing-ding-a5102509/"
 layout: "researcher"
 hiddenInHomeList: true

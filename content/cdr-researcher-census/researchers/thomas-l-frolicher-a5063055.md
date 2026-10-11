@@ -1,7 +1,7 @@
 ---
 title: "Thomas L. Frölicher"
 description: "Thomas L. Frölicher is an Eminent General CDR researcher at University of Bern in CH. With 288 publications and an h-index of 66, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.021061
+date: 2026-10-11T02:32:59.024034
 url: "/cdr-researcher-census/researchers/thomas-l-frolicher-a5063055/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Overconfidence in climate overshoot** (2024)
-   170 citations · General CDR
+   178 citations · General CDR
 
 2. **Ocean carbon from space: Current status and priorities for the next decade** (2023)
-   64 citations · General CDR
+   63 citations · General CDR
 
 3. **Ten new insights in climate science 2023** (2023)
-   46 citations · General CDR
+   47 citations · General CDR
 
 4. **Ten new insights in climate science 2025** (2026)
-   7 citations · General CDR
+   8 citations · General CDR
 
 5. **Overconfidence in climate overshoot** (2023)
    7 citations
@@ -69,13 +69,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    2 citations · General CDR
 
 7. **Subsurface dissolution reduces the efficiency of mineral-based open-ocean alkalinity enhancement** (2026)
-   1 citations · General CDR
+   2 citations · General CDR
 
-8. **Subsurface dissolution reduces the efficiency of mineral-based ocean alkalinity enhancement** (2025)
-   1 citations · General CDR
+8. **The efficiency and ocean acidification mitigation potential of ocean alkalinity enhancement on multi-centennial timescales** (2026)
+   2 citations · General CDR
 
-9. **The efficiency and ocean acidification mitigation potential of ocean alkalinity enhancement on multi-centennial timescales** (2026)
-   0 citations · General CDR
+9. **Subsurface dissolution reduces the efficiency of mineral-based ocean alkalinity enhancement** (2025)
+   1 citations · General CDR
 
 10. **The efficiency and ocean acidification mitigation potential of ocean alkalinity enhancement on multi-centennial timescales** (2026)
    0 citations · General CDR

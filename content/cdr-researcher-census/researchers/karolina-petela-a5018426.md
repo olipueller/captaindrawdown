@@ -1,7 +1,7 @@
 ---
 title: "Karolina Petela"
 description: "Karolina Petela is a Mid-career BECCS researcher at Silesian University of Technology in PL. With 31 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.977112
+date: 2026-10-11T02:33:00.008827
 url: "/cdr-researcher-census/researchers/karolina-petela-a5018426/"
 layout: "researcher"
 hiddenInHomeList: true

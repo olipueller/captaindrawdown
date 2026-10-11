@@ -1,7 +1,7 @@
 ---
 title: "Ulrich Zuberbühler"
 description: "Ulrich Zuberbühler is a Senior DAC researcher at Zentrum für Sonnenenergie- und Wasserstoff-Forschung Baden-Württemberg in DE. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.748085
+date: 2026-10-11T02:32:59.770193
 url: "/cdr-researcher-census/researchers/ulrich-zuberbuhler-a5030559/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,7 +47,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Top CDR Publications
 
-1. **Direct Air Capture – Technology Status and Challenges in Technology Scaling** (2025)
+1. **Abschlussbericht zur BMBF Förderrichtlinie: "CO 2 als nachhaltige Kohlenstoffquelle - Wege zur industriellen Nutzung (CO 2-WIN)" im Rahmen der Strategie zur Forschung für Nachhaltigkeit (FONA)** (2025)
+   0 citations · DAC
+
+2. **Direct Air Capture – Technology Status and Challenges in Technology Scaling** (2025)
    0 citations · DAC
 
 ## External Profiles

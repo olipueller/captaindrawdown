@@ -1,7 +1,7 @@
 ---
 title: "Sulekha Toraskar"
 description: "Sulekha Toraskar is an Early-career Soil Carbon researcher at Central Coastal Agricultural Research Institute in IN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.055515
+date: 2026-10-11T02:33:00.085989
 url: "/cdr-researcher-census/researchers/sulekha-toraskar-a5045753/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term effect of rice-rice and rice-cowpea systems on soil carbon and soil quality indicators under rice-based cropping systems in West Coast India** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

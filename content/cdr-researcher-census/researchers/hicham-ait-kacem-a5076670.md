@@ -1,7 +1,7 @@
 ---
 title: "Hicham Ait Kacem"
 description: "Hicham Ait Kacem is a Mid-career Ocean CDR researcher at Canadian Anesthesia Research Foundation in CA. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.160586
+date: 2026-10-11T02:33:00.190815
 url: "/cdr-researcher-census/researchers/hicham-ait-kacem-a5076670/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shiwei Huang"
 description: "Shiwei Huang is a Mid-career Soil Carbon researcher at Central South University in CN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.016738
+date: 2026-10-11T02:33:00.047658
 url: "/cdr-researcher-census/researchers/shiwei-huang-a5008086/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    25 citations · Soil Carbon
 
 3. **Ecological Restoration of the Soil-Like Function in the Bauxite Residue: Natural Microbiomes Mediated Molecular Transformation of Dissolved Organic Matter** (2026)
-   0 citations
+   2 citations
 
 4. **Dual regulatory role of Penicillium oxalicum and Lolium perenne in bauxite residue soilization: Labile organic carbon dynamics and community assembly** (2025)
    0 citations · Soil Carbon

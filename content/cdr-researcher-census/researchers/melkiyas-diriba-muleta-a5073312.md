@@ -1,7 +1,7 @@
 ---
 title: "Melkiyas Diriba Muleta"
 description: "Melkiyas Diriba Muleta is a Mid-career Biochar researcher at Haramaya University in ET. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.251347
+date: 2026-10-11T02:33:00.281192
 url: "/cdr-researcher-census/researchers/melkiyas-diriba-muleta-a5073312/"
 layout: "researcher"
 hiddenInHomeList: true

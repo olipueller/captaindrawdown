@@ -1,7 +1,7 @@
 ---
 title: "Saurajyoti Kar"
 description: "Saurajyoti Kar is a Senior BECCS researcher at Argonne National Laboratory in US. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.558912
+date: 2026-10-11T02:32:59.574361
 url: "/cdr-researcher-census/researchers/saurajyoti-kar-a5003767/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,14 +50,17 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 
 ## Top CDR Publications
 
-1. **Effects of greenhouse gas emissions timing on alternative biomass and fossil energy sources for district heating** (2021)
+1. **The Role of Biofuels and Biomass Feedstocks for Decarbonizing the U.S. Economy by 2050 - (DECARB) Decarbonizing Energy Through Collaborative Analysis of Routes and Benefits** (2024)
    6 citations · BECCS
 
-2. **The Role of Biofuels and Biomass Feedstocks for Decarbonizing the U.S. Economy by 2050 - (DECARB) Decarbonizing Energy Through Collaborative Analysis of Routes and Benefits** (2024)
-   5 citations · BECCS
+2. **Effects of greenhouse gas emissions timing on alternative biomass and fossil energy sources for district heating** (2021)
+   6 citations · BECCS
 
 3. **What Is the Best Use of Biomass? A Harmonized <scp>LCA</scp> ‐ <scp>TEA</scp> Framework Quantifying Economic and Environmental Metrics for Bioenergy Pathways** (2026)
-   2 citations
+   4 citations
+
+4. **Process, Energy, and Emissions Relationship for High-Flow U.S. Wastewater Resource Recovery Facilities** (2026)
+   0 citations
 
 ## External Profiles
 

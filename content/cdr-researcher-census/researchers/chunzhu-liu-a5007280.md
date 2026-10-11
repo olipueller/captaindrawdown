@@ -1,7 +1,7 @@
 ---
 title: "Chunzhu Liu"
 description: "Chunzhu Liu is a Senior Soil Carbon researcher at Xian Central Hospital in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.575099
+date: 2026-10-11T02:32:59.590793
 url: "/cdr-researcher-census/researchers/chunzhu-liu-a5007280/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Evaluation of the soil aggregate stability under long term manure and chemical fertilizer applications: Insights from organic carbon and humic acid structure in aggregates** (2024)
-   56 citations
+   63 citations
 
 2. **Responses of Soil Humus Composition and Humic Acid Structural Characteristics to the Addition of Different Types of Biochar in Phaeozems** (2023)
    21 citations · Biochar

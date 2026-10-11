@@ -1,7 +1,7 @@
 ---
 title: "Muyuan Zhang"
 description: "Muyuan Zhang is a Mid-career Biochar researcher at Southwest University in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.720921
+date: 2026-10-11T02:32:59.742154
 url: "/cdr-researcher-census/researchers/muyuan-zhang-a5041678/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Co-hydrothermal carbonization of lignocellulosic biomass and swine manure: Optimal parameters for enhanced nutrient reclamation, carbon sequestration, and heavy metals passivation** (2024)
-   36 citations · Biochar
+   38 citations · Biochar
 
 ## External Profiles
 

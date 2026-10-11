@@ -1,7 +1,7 @@
 ---
 title: "Daniel J. Nowakowski"
 description: "Daniel J. Nowakowski is a Senior Biochar researcher at Aston University in GB. With 49 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.086015
+date: 2026-10-11T02:32:59.090927
 url: "/cdr-researcher-census/researchers/daniel-j-nowakowski-a5077175/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    7 citations · Biochar
 
 2. **Effect of Metakaolin and Biochar Addition on the Performance of 3D Concrete Printing: A Meta-Analysis Approach** (2025)
-   4 citations · Biochar
+   5 citations · Biochar
 
 3. **Influence of Biochar and Industrial By-Products on the Long-Term Performance of Cement Grouts** (2026)
    0 citations · Biochar

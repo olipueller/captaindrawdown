@@ -1,7 +1,7 @@
 ---
 title: "Bingbing Han"
 description: "Bingbing Han is a Senior Soil Carbon researcher at Southwest University in CN. With 48 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.472909
+date: 2026-10-11T02:32:59.484046
 url: "/cdr-researcher-census/researchers/bingbing-han-a5101542/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial traits dictate soil necromass accumulation coefficient: A global synthesis** (2023)
-   48 citations · Soil Carbon
+   50 citations · Soil Carbon
 
 2. **Augmenting the stability of soil aggregate carbon with nutrient management in worldwide croplands** (2024)
-   22 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 3. **Nature–based nutrient management through returning agricultural organic waste enhances soil aggregate organic carbon stability** (2025)
    10 citations · Soil Carbon
+
+4. **Soil pH Amelioration Synergizes Carbon Accrual with Yield Gains Under Organic Substitution** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "R. Moriarty"
 description: "R. Moriarty is a Senior General CDR researcher at University College Cork in IE. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.325435
+date: 2026-10-11T02:32:59.331175
 url: "/cdr-researcher-census/researchers/r-moriarty-a5060614/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,12 +51,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **National temperature neutrality, agricultural methane and climate policy: reinforcing inequality in the global food system** (2025)
-   9 citations
+   11 citations
 
-2. **Missed opportunities & backsliding—agricultural methane, 'no additional warming' & global food system inequality** (2025)
-   0 citations · General CDR
+2. **Towards a national integrated model for land, energy, agriculture and forest systems (TIM-LEAF v1.0)** (2026)
+   0 citations
 
 3. **Missed opportunities & backsliding—agricultural methane, 'no additional warming' & global food system inequality** (2025)
+   0 citations · General CDR
+
+4. **Missed opportunities & backsliding—agricultural methane, 'no additional warming' & global food system inequality** (2025)
    0 citations · General CDR
 
 ## External Profiles

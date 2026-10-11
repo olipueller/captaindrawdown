@@ -1,7 +1,7 @@
 ---
 title: "Caesar Flonasca Sorino"
 description: "Caesar Flonasca Sorino is a Mid-career Ocean CDR researcher at Qatar University in QA. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.398234
+date: 2026-10-11T02:33:00.436325
 url: "/cdr-researcher-census/researchers/caesar-flonasca-sorino-a5023914/"
 layout: "researcher"
 hiddenInHomeList: true

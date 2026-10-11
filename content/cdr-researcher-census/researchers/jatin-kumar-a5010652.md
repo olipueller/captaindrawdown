@@ -1,7 +1,7 @@
 ---
 title: "Jatin Kumar"
 description: "Jatin Kumar is a Mid-career Soil Carbon researcher at Dr. Yashwant Singh Parmar University of Horticulture and Forestry in IN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.214617
+date: 2026-10-11T02:33:00.244660
 url: "/cdr-researcher-census/researchers/jatin-kumar-a5010652/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    22 citations · Soil Carbon
 
 2. **Land use and altitudinal variability in biomass and carbon storage potential in mid-hill and sub-humid conditions of north-western Himalayas** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 3. **Land use impacts on soil aggregation and carbon storage in the dry temperate himalayas: strategies for sustainable ecosystem management** (2025)
    2 citations · Soil Carbon

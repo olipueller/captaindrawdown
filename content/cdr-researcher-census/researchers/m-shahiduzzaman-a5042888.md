@@ -1,7 +1,7 @@
 ---
 title: "M Shahiduzzaman"
-description: "M Shahiduzzaman is a Senior Biochar researcher at Bangladesh Agricultural University in BD. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.284564
+description: "M Shahiduzzaman is a Senior Biochar researcher at Bangladesh Agricultural University in BD. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:32:59.292385
 url: "/cdr-researcher-census/researchers/m-shahiduzzaman-a5042888/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 12 |
-| Citations | 885 |
-| Publications | 40 |
-| CDR Focus | 5.0% |
+| Citations | 875 |
+| Publications | 32 |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

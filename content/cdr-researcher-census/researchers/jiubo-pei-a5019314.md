@@ -1,7 +1,7 @@
 ---
 title: "Jiubo Pei"
 description: "Jiubo Pei is a Mid-career Soil Carbon researcher at Shenyang Agricultural University in CN. With 35 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.293981
+date: 2026-10-11T02:32:59.298490
 url: "/cdr-researcher-census/researchers/jiubo-pei-a5019314/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,10 +53,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Crop root vs. shoot incorporation drives microbial residue carbon accumulation in soil aggregate fractions** (2022)
    23 citations
 
-2. **Estimating soil organic carbon sequestration potential in the Chinese Mollisols region** (2024)
-   3 citations · Soil Carbon
+2. **Long‐term fertilization and plastic film mulching modify temporal incorporation of <scp> <sup>13</sup> C </scp> / <scp> <sup>15</sup> N </scp> ‐labelled particulate organic matter** (2023)
+   4 citations · Soil Carbon
 
-3. **Long‐term fertilization and plastic film mulching modify temporal incorporation of <scp> <sup>13</sup> C </scp> / <scp> <sup>15</sup> N </scp> ‐labelled particulate organic matter** (2023)
+3. **Estimating soil organic carbon sequestration potential in the Chinese Mollisols region** (2024)
    3 citations · Soil Carbon
 
 4. **Maize residue components dictate soil organic carbon allocation and microbial C use: Contrasting impacts modulated by soil fertility** (2026)

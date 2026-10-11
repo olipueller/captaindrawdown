@@ -1,7 +1,7 @@
 ---
 title: "Wenjing Shi"
 description: "Wenjing Shi is a Mid-career General CDR researcher at Xiamen University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.311842
+date: 2026-10-11T02:32:59.317265
 url: "/cdr-researcher-census/researchers/wenjing-shi-a5054408/"
 layout: "researcher"
 hiddenInHomeList: true

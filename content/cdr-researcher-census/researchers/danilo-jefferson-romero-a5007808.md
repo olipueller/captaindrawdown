@@ -1,7 +1,7 @@
 ---
 title: "Danilo Jefferson Romero"
 description: "Danilo Jefferson Romero is a Senior Soil Carbon researcher. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.421614
+date: 2026-10-11T02:32:59.431777
 url: "/cdr-researcher-census/researchers/danilo-jefferson-romero-a5007808/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,10 +46,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Recovery of Soil Processes in Replanted Mangroves: Implications for Soil Functions** (2022)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 2. **Masked diversity and contrasting soil processes in tropical seagrass meadows: the control of environmental settings** (2023)
-   5 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 3. **Masked diversity and contrasting soil processes in tropical seagrass meadows: the control of environmental settings** (2022)
    2 citations

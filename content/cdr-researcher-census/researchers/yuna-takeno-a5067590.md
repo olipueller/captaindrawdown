@@ -1,7 +1,7 @@
 ---
 title: "Yuna Takeno"
 description: "Yuna Takeno is a Mid-career DAC researcher at Toyota Central Research and Development Laboratories (Japan) in JP. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.385526
+date: 2026-10-11T02:33:00.422401
 url: "/cdr-researcher-census/researchers/yuna-takeno-a5067590/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Oleksii Tomin"
 description: "Oleksii Tomin is a Mid-career Biochar researcher at National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute” in UA. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.245990
+date: 2026-10-11T02:33:00.276113
 url: "/cdr-researcher-census/researchers/oleksii-tomin-a5071825/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synthesis and efficiency comparison of reed straw-based biochar as a mesoporous adsorbent for ionic dyes removal** (2024)
-   37 citations · Biochar
+   38 citations · Biochar
 
 2. **Tailoring metal-impregnated biochars for selective removal of natural organic matter and dissolved phosphorus from the aqueous phase** (2021)
-   35 citations · Biochar
+   34 citations · Biochar
 
 ## External Profiles
 

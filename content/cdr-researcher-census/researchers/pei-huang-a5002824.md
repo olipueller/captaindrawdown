@@ -1,7 +1,7 @@
 ---
 title: "Pei Huang"
 description: "Pei Huang is a Mid-career General CDR researcher at Sichuan Normal University in CN. With 28 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.454375
+date: 2026-10-11T02:32:59.465400
 url: "/cdr-researcher-census/researchers/pei-huang-a5002824/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Achieving the supply-demand balance of ecosystem services through zoning regulation based on land use thresholds** (2024)
-   93 citations
+   98 citations
 
 2. **A new framework for multi-level territorial spatial zoning management: Integrating ecosystem services supply-demand balance and land use structure** (2024)
-   48 citations · General CDR
+   50 citations · General CDR
 
 3. **Study on the Evolution Mechanism of Ecosystem Services in Karst Mountainous Areas from the Perspective of Humanities** (2022)
    4 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Ítalo Braz Gonçalves de Lima"
 description: "Ítalo Braz Gonçalves de Lima is a Mid-career Soil Carbon researcher at Universidade Federal de Lavras in BR. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.186762
+date: 2026-10-11T02:33:00.216933
 url: "/cdr-researcher-census/researchers/italo-braz-goncalves-de-lima-a5043384/"
 layout: "researcher"
 hiddenInHomeList: true

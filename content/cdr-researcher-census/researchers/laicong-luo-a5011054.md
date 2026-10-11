@@ -1,7 +1,7 @@
 ---
 title: "Laicong Luo"
 description: "Laicong Luo is a Mid-career BECCS researcher at Experimental Center of Subtropical Forestry in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.006502
+date: 2026-10-11T02:33:00.037570
 url: "/cdr-researcher-census/researchers/laicong-luo-a5011054/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Effects of Biofuel Crop Switchgrass (Panicum virgatum) Cultivation on Soil Carbon Sequestration and Greenhouse Gas Emissions: A Review** (2022)
-   21 citations · BECCS
+   23 citations · BECCS
 
 ## External Profiles
 

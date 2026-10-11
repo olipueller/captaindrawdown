@@ -1,7 +1,7 @@
 ---
 title: "Weibo Qiao"
 description: "Weibo Qiao is a Mid-career General CDR researcher at Beijing Research Institute of Mechanical and Electrical Technology in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.681875
+date: 2026-10-11T02:32:59.701862
 url: "/cdr-researcher-census/researchers/weibo-qiao-a5040584/"
 layout: "researcher"
 hiddenInHomeList: true

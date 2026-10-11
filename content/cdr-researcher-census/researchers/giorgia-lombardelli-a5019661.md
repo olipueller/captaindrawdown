@@ -1,7 +1,7 @@
 ---
 title: "Giorgia Lombardelli"
 description: "Giorgia Lombardelli is a Mid-career BECCS researcher. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.806350
+date: 2026-10-11T02:32:59.831386
 url: "/cdr-researcher-census/researchers/giorgia-lombardelli-a5019661/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Bio-methanol with negative CO2 emissions from residual forestry biomass gasification: Modelling and techno-economic assessment of different process configurations** (2024)
-   33 citations · BECCS
+   35 citations · BECCS
 
 ## External Profiles
 

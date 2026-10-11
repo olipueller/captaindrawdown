@@ -1,7 +1,7 @@
 ---
 title: "Alberto Fossà"
 description: "Alberto Fossà is a Mid-career BECCS researcher at Vyoma GmbH in DE. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.377601
+date: 2026-10-11T02:33:00.413039
 url: "/cdr-researcher-census/researchers/alberto-fossa-a5066739/"
 layout: "researcher"
 hiddenInHomeList: true

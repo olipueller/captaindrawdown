@@ -1,7 +1,7 @@
 ---
 title: "Rajeev Joshi"
 description: "Rajeev Joshi is a Mid-career Soil Carbon researcher at Agriculture and Forestry University in NP. With 45 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.676783
+date: 2026-10-11T02:32:59.696387
 url: "/cdr-researcher-census/researchers/rajeev-joshi-a5030963/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    53 citations · General CDR
 
 2. **Quantifying Carbon Stock Variability and Aspect-Slope Impact in Sal and Pine-Dominated Forests of Nepal** (2024)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 3. **Examining the Fluctuation of Soil Organic Carbon Levels: An Analysis of the Shuklaphanta National Park in Nepal** (2023)
    1 citations · Soil Carbon

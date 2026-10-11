@@ -1,7 +1,7 @@
 ---
 title: "Xiangrong Cheng"
 description: "Xiangrong Cheng is a Senior Soil Carbon researcher at Jiangnan University in CN. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.039039
+date: 2026-10-11T02:33:00.069778
 url: "/cdr-researcher-census/researchers/xiangrong-cheng-a5102125/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Conversion of monoculture plantation to two-aged mixed plantation enhances soil organic carbon via increased microbial residue carbon accrual** (2024)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 2. **Temporal and depth‐dependent variations in soil aggregate‐associated organic carbon in reclaimed coastal poplar plantations** (2024)
    3 citations · Soil Carbon

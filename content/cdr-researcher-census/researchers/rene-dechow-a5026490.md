@@ -1,7 +1,7 @@
 ---
 title: "René Dechow"
 description: "René Dechow is a Senior Soil Carbon researcher at Johann Heinrich von Thünen-Institut in DE. With 147 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.139836
+date: 2026-10-11T02:32:59.144233
 url: "/cdr-researcher-census/researchers/rene-dechow-a5026490/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The potential of cover crops to increase soil organic carbon storage in German croplands** (2022)
-   106 citations · Soil Carbon
+   109 citations · Soil Carbon
 
 2. **Flower strips as a carbon sequestration measure in temperate croplands** (2022)
    20 citations · Soil Carbon
 
 3. **Evaluating N <sub>2</sub> O emissions and carbon sequestration in temperate croplands with cover crops: insights from field trials** (2025)
-   4 citations · General CDR
+   10 citations · General CDR
 
 4. **Managing Soil Nitrogen Surplus: The Role of Winter Cover Crops in N <sub>2</sub> O Emissions and Carbon Sequestration** (2024)
    4 citations · Soil Carbon

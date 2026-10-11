@@ -1,7 +1,7 @@
 ---
 title: "Lina Che"
 description: "Lina Che is a Mid-career Soil Carbon researcher at Harbin Normal University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.106571
+date: 2026-10-11T02:33:00.137040
 url: "/cdr-researcher-census/researchers/lina-che-a5029340/"
 layout: "researcher"
 hiddenInHomeList: true

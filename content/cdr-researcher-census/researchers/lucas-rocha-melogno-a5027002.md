@@ -1,7 +1,7 @@
 ---
 title: "Lucas Rocha-Melogno"
 description: "Lucas Rocha-Melogno is a Mid-career DAC researcher. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.489085
+date: 2026-10-11T02:32:59.501023
 url: "/cdr-researcher-census/researchers/lucas-rocha-melogno-a5027002/"
 layout: "researcher"
 hiddenInHomeList: true

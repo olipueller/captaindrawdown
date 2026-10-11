@@ -1,7 +1,7 @@
 ---
 title: "Zhouwen Ma"
 description: "Zhouwen Ma is a Mid-career Biochar researcher at Sichuan Agricultural University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.309027
+date: 2026-10-11T02:33:00.339856
 url: "/cdr-researcher-census/researchers/zhouwen-ma-a5101558/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,19 +45,22 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 6 |
 | Citations | 116 |
 | Publications | 16 |
-| CDR Focus | 6.2% |
+| CDR Focus | 18.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Nano zero-valent iron-modified biochar regulates soil carbon mineralization and stability across aggregates in alpine degraded grassland** (2026)
-   1 citations · Biochar
+   2 citations · Biochar
 
 2. **Decade-long active restoration induced positive priming effects on soil organic carbon in desertified grassland: The amplifying effect of biochar** (2025)
    1 citations · Biochar
 
 3. **Simulated Root Exudation Gradient Reveals Dosage‐Dependent Carbon Sequestration in Desertification Ecosystems** (2026)
    0 citations
+
+4. **The rising power of females: Dioecious shrub enhances soil organic carbon sequestration via fungal necromass in chronosequence of desertified alpine grassland restoration** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

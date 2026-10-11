@@ -1,7 +1,7 @@
 ---
 title: "D. K. Shahi"
 description: "D. K. Shahi is a Senior Biochar researcher at Birsa Agricultural University in IN. With 38 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.252105
+date: 2026-10-11T02:32:59.256064
 url: "/cdr-researcher-census/researchers/d-k-shahi-a5082420/"
 layout: "researcher"
 hiddenInHomeList: true

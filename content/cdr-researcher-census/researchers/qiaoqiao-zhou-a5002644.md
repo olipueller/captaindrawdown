@@ -1,7 +1,7 @@
 ---
 title: "Qiaoqiao Zhou"
 description: "Qiaoqiao Zhou is a Senior BECCS researcher at Nanjing Tech University in CN. With 38 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.292264
+date: 2026-10-11T02:32:59.296705
 url: "/cdr-researcher-census/researchers/qiaoqiao-zhou-a5002644/"
 layout: "researcher"
 hiddenInHomeList: true

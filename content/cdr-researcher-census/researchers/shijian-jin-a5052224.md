@@ -1,7 +1,7 @@
 ---
 title: "Shijian Jin"
 description: "Shijian Jin is a Mid-career Ocean CDR researcher at Google LLC in US. With 36 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.128538
+date: 2026-10-11T02:32:59.133300
 url: "/cdr-researcher-census/researchers/shijian-jin-a5052224/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Direct air capture of CO2 in an electrochemical hybrid flow cell with a spatially isolated phenazine electrode** (2025)
-   23 citations
+   25 citations
 
 2. **Negative Emission Enabled by Combining Ocean Alkalinity Enhancement and Waste Concrete Upcycling** (2025)
-   7 citations · General CDR
+   9 citations · General CDR
 
 3. **Direct air capture of CO2 in a hybrid electrochemical flow cell** (2024)
    4 citations

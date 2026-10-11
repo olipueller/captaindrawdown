@@ -1,7 +1,7 @@
 ---
 title: "Sofia Biffi"
 description: "Sofia Biffi is a Mid-career Soil Carbon researcher at University of Leeds in GB. With 38 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.784013
+date: 2026-10-11T02:32:59.808057
 url: "/cdr-researcher-census/researchers/sofia-biffi-a5054840/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil carbon sequestration potential of planting hedgerows in agricultural landscapes** (2022)
-   61 citations · Soil Carbon
+   64 citations · Soil Carbon
 
 2. **Planting hedgerows: Biomass carbon sequestration and contribution towards net-zero targets** (2023)
    20 citations · BECCS

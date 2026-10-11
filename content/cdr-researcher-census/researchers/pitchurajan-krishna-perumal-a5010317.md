@@ -1,7 +1,7 @@
 ---
 title: "Pitchurajan Krishna Perumal"
 description: "Pitchurajan Krishna Perumal is a Mid-career Ocean CDR researcher at University of Science and Technology in YE. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.440619
+date: 2026-10-11T02:32:59.450779
 url: "/cdr-researcher-census/researchers/pitchurajan-krishna-perumal-a5010317/"
 layout: "researcher"
 hiddenInHomeList: true

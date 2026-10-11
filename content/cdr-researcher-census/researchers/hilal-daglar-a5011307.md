@@ -1,7 +1,7 @@
 ---
 title: "Hilal Daglar"
 description: "Hilal Daglar is a Senior DAC researcher at University of Chicago in US. With 28 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.116171
+date: 2026-10-11T02:32:59.120825
 url: "/cdr-researcher-census/researchers/hilal-daglar-a5011307/"
 layout: "researcher"
 hiddenInHomeList: true

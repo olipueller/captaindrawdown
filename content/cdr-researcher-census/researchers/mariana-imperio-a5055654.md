@@ -1,7 +1,7 @@
 ---
 title: "Mariana Império"
 description: "Mariana Império is a Mid-career General CDR researcher at Universidade Federal do Rio de Janeiro in BR. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.437937
+date: 2026-10-11T02:32:59.448191
 url: "/cdr-researcher-census/researchers/mariana-imperio-a5055654/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Long-term deep decarbonisation pathways for Ecuador: Insights from an integrated assessment model** (2021)
-   49 citations · General CDR
+   50 citations · General CDR
 
 2. **Nature‐based solutions are critical for putting Brazil on track towards net‐zero emissions by 2050** (2023)
-   31 citations · General CDR
+   33 citations · General CDR
 
 3. **The role of bioenergy in Brazil's low-carbon future** (2023)
-   12 citations · BECCS
+   15 citations · BECCS
 
 4. **Climate strategies for oil and gas production under the lens of an Integrated Assessment Model: The case of Brazil** (2024)
-   6 citations · General CDR
+   8 citations · General CDR
 
 5. **Nature-Based Solutions Are Critical for Putting Brazil on Track Towards Net Zero** (2022)
    3 citations · General CDR

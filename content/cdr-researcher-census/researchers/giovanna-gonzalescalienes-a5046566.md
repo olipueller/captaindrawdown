@@ -1,7 +1,7 @@
 ---
 title: "Giovanna Gonzales‐Calienes"
 description: "Giovanna Gonzales‐Calienes is a Mid-career General CDR researcher at National Research Council Canada in CA. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.056441
+date: 2026-10-11T02:33:00.086749
 url: "/cdr-researcher-census/researchers/giovanna-gonzalescalienes-a5046566/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -52,6 +52,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 1. **Impact of waste management and conversion technologies on cost and carbon footprint - Case studies in rural and urban cities** (2022)
    19 citations · General CDR
+
+2. **Advancing synthetic fuel technology: A model study for the integration of direct air carbon capture and diesel synthesis** (2026)
+   1 citations · DAC
 
 ## External Profiles
 

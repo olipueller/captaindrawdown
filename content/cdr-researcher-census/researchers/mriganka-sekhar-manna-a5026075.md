@@ -1,7 +1,7 @@
 ---
 title: "Mriganka Sekhar Manna"
 description: "Mriganka Sekhar Manna is a Mid-career Biochar researcher at National Institute of Technology Agartala in IN. With 39 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.304118
+date: 2026-10-11T02:32:59.309326
 url: "/cdr-researcher-census/researchers/mriganka-sekhar-manna-a5026075/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Adsorption of malachite green by Aegle marmelos-derived activated biochar: Novelty assessment through phytotoxicity tests and economic analysis** (2024)
-   31 citations · Biochar
+   32 citations · Biochar
 
 2. **Biochar-mediated removal of pollutants** (2026)
    0 citations · Biochar

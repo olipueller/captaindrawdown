@@ -1,7 +1,7 @@
 ---
 title: "Jacob Smeds"
 description: "Jacob Smeds is a Mid-career Soil Carbon researcher at Swedish University of Agricultural Sciences in SE. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.264785
+date: 2026-10-11T02:33:00.294696
 url: "/cdr-researcher-census/researchers/jacob-smeds-a5031216/"
 layout: "researcher"
 hiddenInHomeList: true

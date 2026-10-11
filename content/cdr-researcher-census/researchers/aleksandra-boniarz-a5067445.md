@@ -1,7 +1,7 @@
 ---
 title: "Aleksandra Błoniarz"
 description: "Aleksandra Błoniarz is a Mid-career Biochar researcher. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.318057
+date: 2026-10-11T02:33:00.349806
 url: "/cdr-researcher-census/researchers/aleksandra-boniarz-a5067445/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Valorisation of food industry waste into high-performance biochar for environmental applications** (2025)
-   11 citations · Biochar
+   17 citations · Biochar
 
 ## External Profiles
 

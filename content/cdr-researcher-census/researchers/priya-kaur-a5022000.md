@@ -1,7 +1,7 @@
 ---
 title: "Priya Kaur"
 description: "Priya Kaur is an Early-career Soil Carbon researcher at Dr. A.P.J. Abdul Kalam Technical University in IN. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.344079
+date: 2026-10-11T02:33:00.379067
 url: "/cdr-researcher-census/researchers/priya-kaur-a5022000/"
 layout: "researcher"
 hiddenInHomeList: true

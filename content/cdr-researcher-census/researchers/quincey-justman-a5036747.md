@@ -1,7 +1,7 @@
 ---
 title: "Quincey Justman"
 description: "Quincey Justman is a Senior Enhanced Weathering researcher at Harvard University in US. With 33 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.761679
+date: 2026-10-11T02:32:59.784688
 url: "/cdr-researcher-census/researchers/quincey-justman-a5036747/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hannah C. Turner"
 description: "Hannah C. Turner is a Mid-career Soil Carbon researcher at University of Vermont in US. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.986849
+date: 2026-10-11T02:33:00.017782
 url: "/cdr-researcher-census/researchers/hannah-c-turner-a5068719/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Spatial mapping and predictive modeling of soil organic carbon stocks in Vermont agricultural lands using machine learning and environmental variables** (2025)
-   13 citations · General CDR
+   15 citations · General CDR
 
 ## External Profiles
 

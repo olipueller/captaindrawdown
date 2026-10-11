@@ -1,7 +1,7 @@
 ---
 title: "Linda Yeboah"
 description: "Linda Yeboah is a Mid-career Biochar researcher at University of Ghana in GH. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.104308
+date: 2026-10-11T02:33:00.134742
 url: "/cdr-researcher-census/researchers/linda-yeboah-a5063758/"
 layout: "researcher"
 hiddenInHomeList: true

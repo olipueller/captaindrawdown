@@ -1,7 +1,7 @@
 ---
 title: "Mingjing He"
 description: "Mingjing He is a Senior Biochar researcher at Hong Kong Polytechnic University in CN. With 35 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.050401
+date: 2026-10-11T02:32:59.054337
 url: "/cdr-researcher-census/researchers/mingjing-he-a5068928/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Life-cycle assessment of pyrolysis processes for sustainable production of biochar from agro-residues** (2022)
-   243 citations · Biochar
+   249 citations · Biochar
 
 2. **Insights into the adsorption of pharmaceuticals and personal care products (PPCPs) on biochar and activated carbon with the aid of machine learning** (2021)
-   213 citations · Biochar
+   214 citations · Biochar
 
 3. **Impacts of different activation processes on the carbon stability of biochar for oxidation resistance** (2021)
-   166 citations · Biochar
+   169 citations · Biochar
 
 ## External Profiles
 

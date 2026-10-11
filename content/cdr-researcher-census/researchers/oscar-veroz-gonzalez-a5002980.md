@@ -1,7 +1,7 @@
 ---
 title: "Óscar Veroz-González"
 description: "Óscar Veroz-González is a Mid-career Soil Carbon researcher at Andalusian Institute of Agricultural and Fisheries Research and Training in ES. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.455114
+date: 2026-10-11T02:32:59.466220
 url: "/cdr-researcher-census/researchers/oscar-veroz-gonzalez-a5002980/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    11 citations · General CDR
 
 2. **Carbon Sequestration Through Groundcovers and Pruning Residues in Sustainable Olive Orchards Under Different Edaphoclimatic Conditions** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 3. **Climate smart agriculture for Africa: the potential role of conservation agriculture in climate smart agriculture.** (2022)
    1 citations · General CDR

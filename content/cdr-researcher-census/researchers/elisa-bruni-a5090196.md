@@ -1,7 +1,7 @@
 ---
 title: "Elisa Bruni"
 description: "Elisa Bruni is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 57 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.301047
+date: 2026-10-11T02:32:59.306234
 url: "/cdr-researcher-census/researchers/elisa-bruni-a5090196/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    46 citations · Soil Carbon
 
 2. **Long-term nitrogen fertilization alters microbial respiration sensitivity to temperature and moisture, potentially enhancing soil carbon retention in a boreal Scots pine forest** (2025)
-   2 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 3. **Reduced microbial respiration sensitivity to soil moisture following long-term N fertilization enhances soil C retention in a boreal Scots pine forest** (2024)
    2 citations · Soil Carbon

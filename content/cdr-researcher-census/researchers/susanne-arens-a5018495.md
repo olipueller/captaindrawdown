@@ -1,7 +1,7 @@
 ---
 title: "Susanne Arens"
 description: "Susanne Arens is a Senior Soil Carbon researcher at Geocenter Denmark in DK. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.522215
+date: 2026-10-11T02:32:59.536185
 url: "/cdr-researcher-census/researchers/susanne-arens-a5018495/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A dynamic local-scale vegetation model for lycopsids (LYCOm v1.0)** (2022)
-   4 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 2. **A dynamic local scale vegetation model for lycophytes (LYCOm)** (2021)
    2 citations · Soil Carbon

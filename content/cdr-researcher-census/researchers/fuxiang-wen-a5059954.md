@@ -1,7 +1,7 @@
 ---
 title: "Fuxiang Wen"
 description: "Fuxiang Wen is a Mid-career General CDR researcher at Zhejiang University in CN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.228992
+date: 2026-10-11T02:32:59.232298
 url: "/cdr-researcher-census/researchers/fuxiang-wen-a5059954/"
 layout: "researcher"
 hiddenInHomeList: true

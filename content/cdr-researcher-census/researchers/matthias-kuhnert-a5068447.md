@@ -1,7 +1,7 @@
 ---
 title: "Matthias Kuhnert"
 description: "Matthias Kuhnert is a Senior Soil Carbon researcher at University of Aberdeen in GB. With 154 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.085784
+date: 2026-10-11T02:32:59.090710
 url: "/cdr-researcher-census/researchers/matthias-kuhnert-a5068447/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,11 +53,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Soil organic carbon stocks potentially at risk of decline with organic farming expansion** (2023)
    62 citations · Soil Carbon
 
-2. **The consolidated European synthesis of CO <sub>2</sub> emissions and removals for the European Union and United Kingdom: 1990–2018** (2021)
-   57 citations
+2. **A comprehensive review of soil organic carbon estimates: Integrating remote sensing and machine learning technologies** (2024)
+   57 citations · General CDR
 
-3. **A comprehensive review of soil organic carbon estimates: Integrating remote sensing and machine learning technologies** (2024)
-   54 citations · General CDR
+3. **The consolidated European synthesis of CO <sub>2</sub> emissions and removals for the European Union and United Kingdom: 1990–2018** (2021)
+   57 citations
 
 4. **The consolidated European synthesis of CO <sub>2</sub> emissions and removals for the European Union and United Kingdom: 1990–2020** (2023)
    16 citations

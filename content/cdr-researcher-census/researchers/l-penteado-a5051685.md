@@ -1,7 +1,7 @@
 ---
 title: "L. Penteado"
 description: "L. Penteado is a Senior Soil Carbon researcher at Agronomical Institute of Campinas in BR. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.644087
+date: 2026-10-11T02:32:59.662507
 url: "/cdr-researcher-census/researchers/l-penteado-a5051685/"
 layout: "researcher"
 hiddenInHomeList: true

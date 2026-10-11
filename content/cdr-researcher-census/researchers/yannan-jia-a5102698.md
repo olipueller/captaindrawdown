@@ -1,7 +1,7 @@
 ---
 title: "Yannan Jia"
 description: "Yannan Jia is a Senior Biochar researcher at China Institute of Water Resources and Hydropower Research in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.717252
+date: 2026-10-11T02:32:59.738333
 url: "/cdr-researcher-census/researchers/yannan-jia-a5102698/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 7 |
 | Citations | 300 |
 | Publications | 12 |
-| CDR Focus | 8.3% |
+| CDR Focus | 16.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -51,6 +51,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    0 citations · Biochar
 
 2. **Mn/N co-doped biochar-activated persulfate degradation of tetracycline in water** (2026)
+   0 citations · Biochar
+
+3. **Mn/N co-doped biochar-activated persulfate degradation of tetracycline in water** (2026)
    0 citations · Biochar
 
 ## External Profiles

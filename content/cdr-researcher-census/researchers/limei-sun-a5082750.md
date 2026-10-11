@@ -1,7 +1,7 @@
 ---
 title: "Limei Sun"
 description: "Limei Sun is a Mid-career Biochar researcher at Jiangsu Normal University in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.093195
+date: 2026-10-11T02:33:00.123865
 url: "/cdr-researcher-census/researchers/limei-sun-a5082750/"
 layout: "researcher"
 hiddenInHomeList: true

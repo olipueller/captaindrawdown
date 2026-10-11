@@ -1,7 +1,7 @@
 ---
 title: "Lan‐Feng Fan"
 description: "Lan‐Feng Fan is a Senior Ocean CDR researcher at National Taiwan Ocean University in TW. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.956842
+date: 2026-10-11T02:32:59.988286
 url: "/cdr-researcher-census/researchers/lanfeng-fan-a5080017/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **A Unique Diel Pattern in Carbonate Chemistry in the Seagrass Meadows of Dongsha Island: The Enhancement of Metabolic Carbonate Dissolution in a Semienclosed Lagoon** (2021)
-   24 citations · Ocean CDR
+   23 citations · Ocean CDR
 
 2. **Contrasting CO <sub>2</sub> Dynamics in Seagrass Meadows Between Organic Carbon (OC)‐Rich Reef and OC‐Poor Terrestrial Sediments: Implications for Enhanced Alkalinity Production** (2025)
    10 citations · Ocean CDR

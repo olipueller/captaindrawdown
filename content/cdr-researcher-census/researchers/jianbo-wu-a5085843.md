@@ -1,7 +1,7 @@
 ---
 title: "Jianbo Wu"
 description: "Jianbo Wu is a Senior Soil Carbon researcher at Institute of Mountain Hazards and Environment in CN. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.452922
+date: 2026-10-11T02:32:59.463722
 url: "/cdr-researcher-census/researchers/jianbo-wu-a5085843/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Reduced Soil Organic Carbon Sequestration Driven by Long-Term Nitrogen Deposition-Induced Increases in Microbial Biomass Carbon-to-Phosphorus Ratio in Alpine Grassland** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 2. **Reduced soil organic carbon sequestration driven by nitrogen deposition–induced increases in microbial carbon to phosphorus ratio in alpine grassland** (2024)
    0 citations · Soil Carbon

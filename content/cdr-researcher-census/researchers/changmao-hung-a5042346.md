@@ -1,7 +1,7 @@
 ---
 title: "Chang‐Mao Hung"
 description: "Chang‐Mao Hung is a Senior Biochar researcher at National Kaohsiung University of Science and Technology in TW. With 122 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.065671
+date: 2026-10-11T02:32:59.070222
 url: "/cdr-researcher-census/researchers/changmao-hung-a5042346/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The Role of Biochar in Regulating the Carbon, Phosphorus, and Nitrogen Cycles Exemplified by Soil Systems** (2021)
-   108 citations · Biochar
+   112 citations · Biochar
 
 2. **Algae-derived metal-free boron-doped biochar as an efficient bioremediation pretreatment for persistent organic pollutants in marine sediments** (2022)
    75 citations · Biochar
 
 3. **Metal-free single heteroatom (N, O, and B)-doped coconut-shell biochar for enhancing the degradation of sulfathiazole antibiotics by peroxymonosulfate and its effects on bacterial community dynamics** (2022)
-   40 citations · Biochar
+   41 citations · Biochar
 
 4. **Performance and bacterial community dynamics of lignin-based biochar-coupled calcium peroxide pretreatment of waste-activated sludge for the removal of 4-nonylphenol** (2022)
    36 citations · Biochar
@@ -72,7 +72,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    15 citations · Biochar
 
 8. **Advanced sustainable processes via functionalized Fe–N co-doped fishbone biochar for the remediation of plasticizer di-(2-ethylhexyl) phthalate-contaminated marine sediment** (2024)
-   6 citations · Biochar
+   7 citations · Biochar
 
 9. **Pretreatment of marine sediment for the removal of di-(2-ethylhexyl) phthalate by sulfite in the presence of sorghum distillery residue-derived biochar and its effect on microbiota response** (2023)
    4 citations · Biochar

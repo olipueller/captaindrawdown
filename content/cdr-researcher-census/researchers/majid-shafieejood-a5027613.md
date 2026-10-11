@@ -1,7 +1,7 @@
 ---
 title: "Majid Shafiee‐Jood"
 description: "Majid Shafiee‐Jood is a Mid-career General CDR researcher at University of Virginia in US. With 40 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.237550
+date: 2026-10-11T02:32:59.241026
 url: "/cdr-researcher-census/researchers/majid-shafieejood-a5027613/"
 layout: "researcher"
 hiddenInHomeList: true

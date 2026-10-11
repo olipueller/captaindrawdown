@@ -1,7 +1,7 @@
 ---
 title: "M. Häkkinen"
 description: "M. Häkkinen is a Senior Soil Carbon researcher. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.128692
+date: 2026-10-11T02:33:00.158949
 url: "/cdr-researcher-census/researchers/m-hakkinen-a5070496/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The costs of monitoring changes in forest soil carbon stocks** (2024)
-   53 citations · Soil Carbon
+   52 citations · Soil Carbon
 
 ## External Profiles
 

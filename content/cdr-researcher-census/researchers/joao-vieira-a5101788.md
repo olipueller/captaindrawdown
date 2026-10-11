@@ -1,7 +1,7 @@
 ---
 title: "João Vieira"
 description: "João Vieira is a Senior Soil Carbon researcher at Universidade do Algarve - Campus de Gambelas in PT. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.698142
+date: 2026-10-11T02:32:59.718470
 url: "/cdr-researcher-census/researchers/joao-vieira-a5101788/"
 layout: "researcher"
 hiddenInHomeList: true

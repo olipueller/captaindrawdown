@@ -1,7 +1,7 @@
 ---
 title: "M. Shanthi"
 description: "M. Shanthi is a Mid-career Biochar researcher at National Institute of Technology Tiruchirappalli in IN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.158537
+date: 2026-10-11T02:33:00.188720
 url: "/cdr-researcher-census/researchers/m-shanthi-a5013716/"
 layout: "researcher"
 hiddenInHomeList: true

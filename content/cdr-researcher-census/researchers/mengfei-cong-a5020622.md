@@ -1,7 +1,7 @@
 ---
 title: "Mengfei Cong"
 description: "Mengfei Cong is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.558029
+date: 2026-10-11T02:32:59.573272
 url: "/cdr-researcher-census/researchers/mengfei-cong-a5020622/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,19 +48,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Grassland degradation-induced soil organic carbon loss associated with micro-food web simplification** (2024)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 2. **Grazing and reclamation-induced microbiome alterations drive organic carbon stability within soil aggregates in alpine steppes** (2023)
    27 citations · Soil Carbon
 
 3. **Microaggregates regulate the soil organic carbon sequestration and carbon flow of windproof sand fixation forests in desert ecosystems** (2024)
-   15 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 4. **Soil bacteria mediate organic carbon stability during alpine wetland biogeomorphic succession in the arid region of Central Asia** (2023)
    15 citations · Soil Carbon
 
 5. **Soil minerals regulate soil organic carbon accumulation through glomalin-related soil protein along an elevation gradient in a mountain arid ecosystem** (2025)
-   10 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 6. **Shrub Afforestation Increases Microbial‐Derived Carbon in Arid Regions** (2025)
    5 citations · Soil Carbon
@@ -69,7 +69,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Soil Carbon
 
 8. **Shifts in microbial life-history strategies drive soil organic carbon accumulation during arid-land afforestation** (2026)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 9. **Plant to carbonate: A microbial bridge for atmospheric CO2 sequestration into soil inorganic carbon revealed by in-situ 13CO2 labeling** (2026)
    0 citations

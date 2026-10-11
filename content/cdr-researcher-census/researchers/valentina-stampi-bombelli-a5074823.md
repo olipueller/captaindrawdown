@@ -1,7 +1,7 @@
 ---
 title: "Valentina Stampi-Bombelli"
 description: "Valentina Stampi-Bombelli is a Mid-career DAC researcher at ETH Zurich in CH. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.725812
+date: 2026-10-11T02:32:59.746903
 url: "/cdr-researcher-census/researchers/valentina-stampi-bombelli-a5074823/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,19 +48,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **On Comparing Packed Beds and Monoliths for CO<sub>2</sub> Capture from Air Through Experiments, Theory, and Modeling** (2024)
-   62 citations
+   65 citations
 
 2. **Developing Versatile Contactors for Direct Air Capture of CO<sub>2</sub> through Amine Grafting onto Alumina Pellets and Alumina Wash-Coated Monoliths** (2023)
-   58 citations · DAC
+   60 citations · DAC
 
 3. **Exploring Geometric Properties and Cycle Design in Packed Bed and Monolith Contactors Using Temperature-Vacuum Swing Adsorption Modeling for Direct Air Capture** (2024)
-   34 citations
+   38 citations
 
 4. **Correction to: Analysis of direct capture of CO2 from ambient air via steam-assisted temperature–vacuum swing adsorption** (2021)
    4 citations
 
 5. **Molecular to Process Scale: A Review of Holistic Direct Air Capture Contactor Design** (2021)
-   1 citations
+   0 citations
 
 ## External Profiles
 

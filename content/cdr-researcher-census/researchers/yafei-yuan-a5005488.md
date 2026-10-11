@@ -1,7 +1,7 @@
 ---
 title: "Yafei Yuan"
 description: "Yafei Yuan is a Mid-career Soil Carbon researcher at China Power Engineering Consulting Group (China) in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.983159
+date: 2026-10-11T02:33:00.014314
 url: "/cdr-researcher-census/researchers/yafei-yuan-a5005488/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The impact of ecological restoration on ecosystem services change modulated by drought and rising <scp>CO<sub>2</sub></scp>** (2023)
-   59 citations · Soil Carbon
+   60 citations · Soil Carbon
 
 ## External Profiles
 

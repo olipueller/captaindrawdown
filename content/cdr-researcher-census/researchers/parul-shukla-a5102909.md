@@ -1,7 +1,7 @@
 ---
 title: "Parul Shukla"
 description: "Parul Shukla is a Mid-career Biochar researcher at Indian Institute of Technology Guwahati in IN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.257527
+date: 2026-10-11T02:32:59.261253
 url: "/cdr-researcher-census/researchers/parul-shukla-a5102909/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Lignocellulosic biomass-based engineered biochar composites: A facile strategy for abatement of emerging pollutants and utilization in industrial applications** (2021)
-   105 citations · Biochar
+   106 citations · Biochar
 
 2. **Biochar: A sustainable solution for the management of agri-wastes and environment** (2022)
    3 citations · Biochar

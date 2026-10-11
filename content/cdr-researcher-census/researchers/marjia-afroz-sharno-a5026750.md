@@ -1,7 +1,7 @@
 ---
 title: "Marjia Afroz Sharno"
 description: "Marjia Afroz Sharno is an Early-career BECCS researcher at University of Dhaka in BD. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.087378
+date: 2026-10-11T02:33:00.117953
 url: "/cdr-researcher-census/researchers/marjia-afroz-sharno-a5026750/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Green and sustainable biomass supply chain for environmental, social and economic benefits** (2023)
-   124 citations · BECCS
+   127 citations · BECCS
 
 ## External Profiles
 

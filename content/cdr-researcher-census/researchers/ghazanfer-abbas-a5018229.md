@@ -1,7 +1,7 @@
 ---
 title: "Ghazanfer Abbas"
 description: "Ghazanfer Abbas is a Mid-career Soil Carbon researcher at Tamil Nadu Agricultural University in IN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.390638
+date: 2026-10-11T02:33:00.427937
 url: "/cdr-researcher-census/researchers/ghazanfer-abbas-a5018229/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Climate Resilient Agroforestry Systems for Sustainable Land Use and Livelihood** (2024)
-   43 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 2. **Agroforestry: A Practical Means of Achieving the “Net-Zero” Target** (2024)
    3 citations · General CDR

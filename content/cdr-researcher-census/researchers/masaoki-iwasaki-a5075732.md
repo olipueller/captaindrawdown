@@ -1,7 +1,7 @@
 ---
 title: "Masaoki Iwasaki"
 description: "Masaoki Iwasaki is a Senior DAC researcher at Toyota Motor Corporation (Switzerland) in CH. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.265521
+date: 2026-10-11T02:32:59.269679
 url: "/cdr-researcher-census/researchers/masaoki-iwasaki-a5075732/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,16 +53,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 1. **Continuous CO synthesis from ambient air by integrating direct air capture and direct carbonate reduction using an alkaline CO2-absorbing electrolyte operating at room temperature** (2024)
    3 citations
 
-2. **Continuous electrolytic methanol synthesis from air-captured CO2 at ordinary temperature and pressure** (2025)
+2. **Understanding Mass Transport and Reaction Environment to Optimize CO2 Electrodialysis Systems** (2026)
    0 citations · DAC
 
-3. **Electrodialysis Processes to Activate (Bi)Carbonate Solutions in Equilibrium with Atmospheric Low-Concentration CO <sub>2</sub>** (2025)
+3. **Continuous electrolytic methanol synthesis from air-captured CO2 at ordinary temperature and pressure** (2025)
    0 citations · DAC
 
-4. **Continuous electrolytic methanol synthesis from air-captured CO2 at ordinary temperature and pressure** (2025)
+4. **Electrodialysis Processes to Activate (Bi)Carbonate Solutions in Equilibrium with Atmospheric Low-Concentration CO <sub>2</sub>** (2025)
+   0 citations · DAC
+
+5. **Continuous electrolytic methanol synthesis from air-captured CO2 at ordinary temperature and pressure** (2025)
    0 citations
 
-5. **Continuous Co Synthesis from Ambient Air by Integrating Direct Air Capture and Direct Carbonate Reduction Using an Alkaline Co2-Absorbing Electrolyte Operating at Room Temperature** (2024)
+6. **Continuous Co Synthesis from Ambient Air by Integrating Direct Air Capture and Direct Carbonate Reduction Using an Alkaline Co2-Absorbing Electrolyte Operating at Room Temperature** (2024)
    0 citations
 
 ## External Profiles

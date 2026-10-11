@@ -1,7 +1,7 @@
 ---
 title: "Erica Patterson"
 description: "Erica Patterson is a Mid-career Soil Carbon researcher at Colorado State University in US. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.324849
+date: 2026-10-11T02:33:00.357459
 url: "/cdr-researcher-census/researchers/erica-patterson-a5051179/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Ruminating on soil carbon: Applying current understanding to inform grazing management** (2024)
-   74 citations · Soil Carbon
+   81 citations · Soil Carbon
+
+2. **Modeling the effects of livestock rotation frequency on forage production and soil carbon using a spatially explicit grazing distribution** (2026)
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Anjali Jha"
 description: "Anjali Jha is a Mid-career General CDR researcher at Banaras Hindu University in IN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.379116
+date: 2026-10-11T02:33:00.414939
 url: "/cdr-researcher-census/researchers/anjali-jha-a5072190/"
 layout: "researcher"
 hiddenInHomeList: true

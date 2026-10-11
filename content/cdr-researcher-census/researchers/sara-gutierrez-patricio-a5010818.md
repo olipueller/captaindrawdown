@@ -1,7 +1,7 @@
 ---
 title: "Sara Gutiérrez-Patricio"
 description: "Sara Gutiérrez-Patricio is a Mid-career Soil Carbon researcher at Consejo Superior de Investigaciones Científicas in ES. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.041721
+date: 2026-10-11T02:33:00.072700
 url: "/cdr-researcher-census/researchers/sara-gutierrez-patricio-a5010818/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Impact of organic amendments on carbon stability and carbon use efficiency in acidic and alkaline soils** (2025)
-   2 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 2. **From waste to worth: Harnessing residual biomass to boost soil quality and carbon sequestration** (2025)
    0 citations · Soil Carbon

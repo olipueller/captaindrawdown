@@ -1,7 +1,7 @@
 ---
 title: "Xiaoxiao Zhang"
 description: "Xiaoxiao Zhang is a Senior Biochar researcher at Ningbo University in CN. With 58 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.246719
+date: 2026-10-11T02:32:59.250602
 url: "/cdr-researcher-census/researchers/xiaoxiao-zhang-a5100328/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effect of pyrolysis temperature on composition, carbon fraction and abiotic stability of straw biochars: correlation and quantitative analysis** (2022)
-   66 citations · Biochar
+   67 citations · Biochar
 
 2. **Biochar production, activation, and applications: A comprehensive technical review** (2025)
-   32 citations · Biochar
+   35 citations · Biochar
 
 3. **Climate-driven paleoceanography change controls on petrology and organic matter accumulation in the upper Permian Dalong Formation, western Hubei Province, southern China** (2022)
-   16 citations
+   17 citations
 
 4. **Two-dimensional correlation infrared spectroscopy reveals the evolution of functional groups governing biochar oxidation resistance** (2026)
-   6 citations · Biochar
+   8 citations · Biochar
 
 ## External Profiles
 

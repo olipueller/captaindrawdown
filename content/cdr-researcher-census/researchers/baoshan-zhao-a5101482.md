@@ -1,7 +1,7 @@
 ---
 title: "Baoshan Zhao"
 description: "Baoshan Zhao is a Senior Soil Carbon researcher at Chinese Academy of Tropical Agricultural Sciences in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.910000
+date: 2026-10-11T02:32:59.939876
 url: "/cdr-researcher-census/researchers/baoshan-zhao-a5101482/"
 layout: "researcher"
 hiddenInHomeList: true

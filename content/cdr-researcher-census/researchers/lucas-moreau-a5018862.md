@@ -1,7 +1,7 @@
 ---
 title: "Lucas Moreau"
 description: "Lucas Moreau is a Mid-career General CDR researcher at Institut Supérieur d'Électronique de Paris in FR. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.184604
+date: 2026-10-11T02:33:00.214880
 url: "/cdr-researcher-census/researchers/lucas-moreau-a5018862/"
 layout: "researcher"
 hiddenInHomeList: true

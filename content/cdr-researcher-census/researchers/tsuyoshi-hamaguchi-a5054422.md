@@ -1,7 +1,7 @@
 ---
 title: "Tsuyoshi Hamaguchi"
 description: "Tsuyoshi Hamaguchi is a Senior DAC researcher at 豊田中央研究所 in JP. With 38 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.377479
+date: 2026-10-11T02:32:59.384781
 url: "/cdr-researcher-census/researchers/tsuyoshi-hamaguchi-a5054422/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,13 +50,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Top CDR Publications
 
-1. **Continuous electrolytic methanol synthesis from air-captured CO2 at ordinary temperature and pressure** (2025)
+1. **Understanding Mass Transport and Reaction Environment to Optimize CO2 Electrodialysis Systems** (2026)
    0 citations · DAC
 
-2. **Electrodialysis Processes to Activate (Bi)Carbonate Solutions in Equilibrium with Atmospheric Low-Concentration CO <sub>2</sub>** (2025)
+2. **Continuous electrolytic methanol synthesis from air-captured CO2 at ordinary temperature and pressure** (2025)
    0 citations · DAC
 
-3. **Continuous electrolytic methanol synthesis from air-captured CO2 at ordinary temperature and pressure** (2025)
+3. **Electrodialysis Processes to Activate (Bi)Carbonate Solutions in Equilibrium with Atmospheric Low-Concentration CO <sub>2</sub>** (2025)
+   0 citations · DAC
+
+4. **Continuous electrolytic methanol synthesis from air-captured CO2 at ordinary temperature and pressure** (2025)
    0 citations
 
 ## External Profiles

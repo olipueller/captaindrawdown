@@ -1,7 +1,7 @@
 ---
 title: "M. Manca Zeichen"
-description: "M. Manca Zeichen is a Senior Ocean CDR researcher at Istituto Superiore per la Protezione e la Ricerca Ambientale in IT. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.145916
+description: "M. Manca Zeichen is a Senior Ocean CDR researcher at Istituto Superiore per la Protezione e la Ricerca Ambientale in IT. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:33:00.175587
 url: "/cdr-researcher-census/researchers/m-manca-zeichen-a5080028/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -41,8 +41,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 |--------|-------|
 | h-index | 5 |
 | Citations | 150 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

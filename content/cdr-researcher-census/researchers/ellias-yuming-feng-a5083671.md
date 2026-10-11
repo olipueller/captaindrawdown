@@ -1,7 +1,7 @@
 ---
 title: "Ellias Yuming Feng"
 description: "Ellias Yuming Feng is a Mid-career General CDR researcher at Ocean University of China in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.394281
+date: 2026-10-11T02:32:59.402759
 url: "/cdr-researcher-census/researchers/ellias-yuming-feng-a5083671/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 7 |
 | Citations | 618 |
 | Publications | 14 |
-| CDR Focus | 35.7% |
+| CDR Focus | 42.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -53,16 +53,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 1. **Carbon dioxide removal dilemma of macroalgae products: Evidence from carbon footprint and profitability** (2025)
    7 citations · General CDR
 
-2. **Using Carbon Dioxide Removal for a Habitable Post-2050 Net-Zero Emission World: Contributions and Limitations** (2026)
+2. **Life Cycle Perspective-Based Modeling Assessment of Ocean Alkalinity Enhancement** (2026)
+   3 citations · Enhanced Weathering
+
+3. **Using Carbon Dioxide Removal for a Habitable Post-2050 Net-Zero Emission World: Contributions and Limitations** (2026)
+   1 citations · General CDR
+
+4. **Model-based assessment of carbon dioxide removal effect through different ocean alkalinity enhancement technologies** (2025)
    0 citations · General CDR
 
-3. **Model-based assessment of carbon dioxide removal effect through different ocean alkalinity enhancement technologies** (2025)
-   0 citations · General CDR
-
-4. **Earth system modeling-based comparison between afforestation and bioenergy with carbon capture and storage** (2025)
+5. **Earth system modeling-based comparison between afforestation and bioenergy with carbon capture and storage** (2025)
    0 citations · BECCS
 
-5. **Assessing Climate Engineering's Impact on Earth System Feedback** (2025)
+6. **Assessing Climate Engineering's Impact on Earth System Feedback** (2025)
    0 citations · General CDR
 
 ## External Profiles

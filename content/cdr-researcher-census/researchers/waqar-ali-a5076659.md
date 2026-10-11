@@ -1,7 +1,7 @@
 ---
 title: "Waqar Ali"
 description: "Waqar Ali is a Senior Soil Carbon researcher at The University of Agriculture, Peshawar in PK. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.767362
+date: 2026-10-11T02:32:59.790471
 url: "/cdr-researcher-census/researchers/waqar-ali-a5076659/"
 layout: "researcher"
 hiddenInHomeList: true

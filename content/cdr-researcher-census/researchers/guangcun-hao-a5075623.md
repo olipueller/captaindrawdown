@@ -1,7 +1,7 @@
 ---
 title: "Guangcun Hao"
 description: "Guangcun Hao is a Mid-career Soil Carbon researcher at China Communications Construction Company (China) in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.016919
+date: 2026-10-11T02:33:00.047852
 url: "/cdr-researcher-census/researchers/guangcun-hao-a5075623/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Vegetation succession accelerated the accumulation of soil organic carbon on road-cut slopes by changing the structure of the bacterial community** (2023)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 ## External Profiles
 

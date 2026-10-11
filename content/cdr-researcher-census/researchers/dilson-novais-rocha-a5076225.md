@@ -1,7 +1,7 @@
 ---
 title: "Dilson Novais Rocha"
 description: "Dilson Novais Rocha is a Mid-career BECCS researcher at Universidade Federal de Viçosa in BR. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.079755
+date: 2026-10-11T02:33:00.109786
 url: "/cdr-researcher-census/researchers/dilson-novais-rocha-a5076225/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Potential of microalgae cultivation for carbon sequestration and stock associated with biofertilizer production** (2026)
-   3 citations · BECCS
+   4 citations · BECCS
 
 ## External Profiles
 

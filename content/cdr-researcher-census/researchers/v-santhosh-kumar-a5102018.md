@@ -1,7 +1,7 @@
 ---
 title: "V. Santhosh Kumar"
 description: "V. Santhosh Kumar is a Mid-career Soil Carbon researcher at National Institute of Technology Kurukshetra in IN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.051712
+date: 2026-10-11T02:33:00.082617
 url: "/cdr-researcher-census/researchers/v-santhosh-kumar-a5102018/"
 layout: "researcher"
 hiddenInHomeList: true

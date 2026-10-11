@@ -1,7 +1,7 @@
 ---
 title: "Jin-Chu Luo"
 description: "Jin-Chu Luo is a Senior General CDR researcher at Beijing Botanical Garden in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.155788
+date: 2026-10-11T02:33:00.185575
 url: "/cdr-researcher-census/researchers/jin-chu-luo-a5101635/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Carbon storage capacity of Castanopsis hystrix plantations at different stand–ages in South China** (2023)
-   26 citations · General CDR
+   27 citations · General CDR
 
 ## External Profiles
 

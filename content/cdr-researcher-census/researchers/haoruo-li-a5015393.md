@@ -1,7 +1,7 @@
 ---
 title: "Haoruo Li"
 description: "Haoruo Li is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 32 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.665080
+date: 2026-10-11T02:32:59.684606
 url: "/cdr-researcher-census/researchers/haoruo-li-a5015393/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,28 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **High soil salinity reduces straw decomposition but primes soil organic carbon loss** (2025)
-   54 citations · Soil Carbon
+   60 citations · Soil Carbon
 
 2. **Divergent responses of particulate and mineral-associated organic carbon with soil depth under straw interlayer in saline-alkali soil** (2024)
-   37 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 3. **Mechanisms and sources of organic carbon accrual in deep soil under long-term straw return** (2026)
    7 citations · Soil Carbon
 
-4. **Mitigating soil salinity–alkalinity and reshaping bacterial community to improve soil organic carbon sequestration in the Hetao Irrigation District: a combined approach of organic ameliorant and microbial agents** (2026)
+4. **Subsurface organic ameliorant is beneficial in reducing inorganic carbon loss and improving carbon sequestration in saline soils** (2025)
+   2 citations · Soil Carbon
+
+5. **Mitigating soil salinity–alkalinity and reshaping bacterial community to improve soil organic carbon sequestration in the Hetao Irrigation District: a combined approach of organic ameliorant and microbial agents** (2026)
    1 citations · Soil Carbon
 
-5. **Deep incorporation of organic amendments enhances soil organic carbon through contrasting pathways in coastal saline land: structure-driven in topsoil versus quality-driven in subsoil** (2026)
-   0 citations
+6. **Divergent pathways of straw versus biochar integration with manure to enhance SOC sequestration in coastal saline soils** (2026)
+   0 citations · Biochar
 
-6. **Subsurface organic ameliorant is beneficial in reducing inorganic carbon loss and improving carbon sequestration in saline soils** (2025)
+7. **Subsurface split manure application increased soil organic carbon accumulation and stability by enhancing aggregation and recalcitrant carbon fractions with depth-dependent mechanisms** (2026)
    0 citations · Soil Carbon
+
+8. **Deep incorporation of organic amendments enhances soil organic carbon through contrasting pathways in coastal saline land: structure-driven in topsoil versus quality-driven in subsoil** (2026)
+   0 citations
 
 ## External Profiles
 

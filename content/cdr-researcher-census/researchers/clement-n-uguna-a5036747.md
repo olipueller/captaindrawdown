@@ -1,7 +1,7 @@
 ---
 title: "Clement N. Uguna"
 description: "Clement N. Uguna is a Senior Biochar researcher at University of Nottingham in GB. With 50 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.255320
+date: 2026-10-11T02:32:59.259117
 url: "/cdr-researcher-census/researchers/clement-n-uguna-a5036747/"
 layout: "researcher"
 hiddenInHomeList: true

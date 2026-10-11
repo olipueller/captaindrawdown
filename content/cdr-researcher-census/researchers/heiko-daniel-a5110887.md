@@ -1,7 +1,7 @@
 ---
 title: "Heiko Daniel"
 description: "Heiko Daniel is a Senior Soil Carbon researcher at University of New England in US. With 48 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.450042
+date: 2026-10-11T02:32:59.460709
 url: "/cdr-researcher-census/researchers/heiko-daniel-a5110887/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Functional Links between Biomass Production and Decomposition of Vetiver (Chrysopogon zizanioides) Grass in Three Australian Soils** (2022)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 2. **Soil Carbon Storage Potential of Tropical Grasses: A Review** (2021)
    8 citations · Soil Carbon

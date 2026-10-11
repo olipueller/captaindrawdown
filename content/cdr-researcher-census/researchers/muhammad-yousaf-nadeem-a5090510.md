@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Yousaf Nadeem"
 description: "Muhammad Yousaf Nadeem is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.854107
+date: 2026-10-11T02:32:59.881063
 url: "/cdr-researcher-census/researchers/muhammad-yousaf-nadeem-a5090510/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term fertilizer postponing promotes soil organic carbon sequestration in paddy soils by accelerating lignin degradation and increasing microbial necromass** (2022)
-   89 citations · Soil Carbon
+   91 citations · Soil Carbon
 
 2. **Long-term straw returning improved soil nitrogen sequestration by accelerating the accumulation of amino acid nitrogen** (2023)
-   41 citations · Soil Carbon
+   45 citations · Soil Carbon
 
 3. **Long-Term Straw Returning Improved Soil Nitrogen Sequestration by Accelerating the Accumulation of Amino Acid Nitrogen Derived from Microbial Metabolism** (2023)
    0 citations · Soil Carbon

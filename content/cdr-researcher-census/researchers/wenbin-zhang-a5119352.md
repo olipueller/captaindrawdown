@@ -1,7 +1,7 @@
 ---
 title: "Wenbin Zhang"
 description: "Wenbin Zhang is a Mid-career Biochar researcher at Shenzhen University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.005854
+date: 2026-10-11T02:33:00.036925
 url: "/cdr-researcher-census/researchers/wenbin-zhang-a5119352/"
 layout: "researcher"
 hiddenInHomeList: true

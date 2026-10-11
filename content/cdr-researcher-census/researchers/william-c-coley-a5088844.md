@@ -1,7 +1,7 @@
 ---
 title: "William C. Coley"
 description: "William C. Coley is a Mid-career General CDR researcher at University of California, Riverside in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.746616
+date: 2026-10-11T02:32:59.768847
 url: "/cdr-researcher-census/researchers/william-c-coley-a5088844/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Progress in carbon dioxide capture materials for deep decarbonization** (2022)
-   122 citations · General CDR
+   123 citations · General CDR
 
 ## External Profiles
 

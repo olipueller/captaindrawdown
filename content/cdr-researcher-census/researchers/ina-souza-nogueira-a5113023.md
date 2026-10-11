@@ -1,7 +1,7 @@
 ---
 title: "Ina Souza Nogueira"
 description: "Ina Souza Nogueira is a Senior Enhanced Weathering researcher at Fraunhofer Institute for Telecommunications, Heinrich Hertz Institute in DE. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.080306
+date: 2026-10-11T02:33:00.110630
 url: "/cdr-researcher-census/researchers/ina-souza-nogueira-a5113023/"
 layout: "researcher"
 hiddenInHomeList: true

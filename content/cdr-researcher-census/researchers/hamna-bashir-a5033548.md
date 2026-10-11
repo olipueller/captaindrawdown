@@ -1,7 +1,7 @@
 ---
 title: "Hamna Bashir"
 description: "Hamna Bashir is a Mid-career Soil Carbon researcher at Bahauddin Zakariya University in PK. With 26 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.553693
+date: 2026-10-11T02:32:59.568651
 url: "/cdr-researcher-census/researchers/hamna-bashir-a5033548/"
 layout: "researcher"
 hiddenInHomeList: true

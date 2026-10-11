@@ -1,7 +1,7 @@
 ---
 title: "Yifei Qiu"
 description: "Yifei Qiu is a Mid-career Soil Carbon researcher at Harbin Institute of Technology in CN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.320634
+date: 2026-10-11T02:32:59.326481
 url: "/cdr-researcher-census/researchers/yifei-qiu-a5004109/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effect of organic material addition on active soil organic carbon and microbial diversity: A meta-analysis** (2024)
-   74 citations · Soil Carbon
+   79 citations · Soil Carbon
 
 2. **Global patterns of organic carbon transfer and accumulation across the land–ocean continuum constrained by radiocarbon data** (2024)
-   31 citations · Ocean CDR
+   32 citations · Ocean CDR
 
 3. **Global patterns of organic carbon transferand accumulation across the land&amp;#8211;oceancontinuum constrained by radiocarbon data** (2025)
    0 citations

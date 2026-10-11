@@ -1,7 +1,7 @@
 ---
 title: "Jeiveison Gobério Soares Santos Maia"
 description: "Jeiveison Gobério Soares Santos Maia is a Mid-career BECCS researcher at Universidade Federal do Rio de Janeiro in BR. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.328244
+date: 2026-10-11T02:33:00.361718
 url: "/cdr-researcher-census/researchers/jeiveison-goberio-soares-santos-maia-a5004555/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Bioenergy production from sugarcane bagasse with carbon capture and storage: Surrogate models for techno-economic decisions** (2021)
-   36 citations · BECCS
+   37 citations · BECCS
 
 ## External Profiles
 

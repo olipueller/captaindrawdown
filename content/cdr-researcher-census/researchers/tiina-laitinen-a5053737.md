@@ -1,7 +1,7 @@
 ---
 title: "Tiina Laitinen"
 description: "Tiina Laitinen is a Mid-career Biochar researcher at University of Oulu in FI. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.505963
+date: 2026-10-11T02:32:59.518758
 url: "/cdr-researcher-census/researchers/tiina-laitinen-a5053737/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jinxin Zhang"
 description: "Jinxin Zhang is a Senior General CDR researcher at Beijing Academy of Artificial Intelligence in CN. With 27 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.435193
+date: 2026-10-11T02:32:59.445524
 url: "/cdr-researcher-census/researchers/jinxin-zhang-a5100741/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Assessing the ecological effects of the World’s Largest Forestry Eco-engineering: Three-North Protective Forest Program within the initially scheduled range from 1978 to 2022** (2024)
-   37 citations
+   40 citations
 
 2. **A large carbon sink induced by the implementation of the largest afforestation program on Earth** (2023)
-   36 citations · General CDR
+   37 citations · General CDR
 
 3. **Carbon sink of forest ecosystems: Concept, time effect and improvement approaches.** (2024)
    3 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Shenglong Zhao"
 description: "Shenglong Zhao is a Senior Soil Carbon researcher at Tianshui Normal University in CN. With 28 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.488508
+date: 2026-10-11T02:32:59.500378
 url: "/cdr-researcher-census/researchers/shenglong-zhao-a5101409/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    10 citations · Soil Carbon
 
 2. **Optimized organic-inorganic fertilization enhances soil carbon sequestration and wheat productivity: Evidence from hierarchical carbon pool analysis** (2025)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 ## External Profiles
 

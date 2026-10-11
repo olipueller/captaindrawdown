@@ -1,7 +1,7 @@
 ---
 title: "Vivian Akoto-Adjepong"
-description: "Vivian Akoto-Adjepong is a Mid-career Biochar researcher at University of Energy and Natural Resources in GH. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.312334
+description: "Vivian Akoto-Adjepong is a Mid-career Biochar researcher at University of Energy and Natural Resources in GH. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:33:00.290906
 url: "/cdr-researcher-census/researchers/vivian-akoto-adjepong-a5014080/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 | Metric | Value |
 |--------|-------|
-| h-index | 4 |
-| Citations | 116 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| h-index | 5 |
+| Citations | 126 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

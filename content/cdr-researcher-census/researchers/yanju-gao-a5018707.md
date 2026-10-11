@@ -1,7 +1,7 @@
 ---
 title: "Yanju Gao"
 description: "Yanju Gao is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 41 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.284118
+date: 2026-10-11T02:32:59.288916
 url: "/cdr-researcher-census/researchers/yanju-gao-a5018707/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil minerals regulate soil organic carbon accumulation through glomalin-related soil protein along an elevation gradient in a mountain arid ecosystem** (2025)
-   10 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 2. **Long‐term fate of photosynthetic carbon in desert plants: microbial necromass‐driven pathways for soil carbon stabilization** (2025)
    3 citations · Soil Carbon
 
 3. **Shifts in microbial life-history strategies drive soil organic carbon accumulation during arid-land afforestation** (2026)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 4. **Microbial carbon-cycling processes drives soil organic carbon accumulation during afforestation in hyper-arid regions** (2026)
    0 citations · Soil Carbon

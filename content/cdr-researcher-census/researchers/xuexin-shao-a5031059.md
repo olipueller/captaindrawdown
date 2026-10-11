@@ -1,7 +1,7 @@
 ---
 title: "Xuexin Shao"
 description: "Xuexin Shao is a Senior Soil Carbon researcher at Zhejiang Lab in CN. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.597681
+date: 2026-10-11T02:32:59.614472
 url: "/cdr-researcher-census/researchers/xuexin-shao-a5031059/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,14 +56,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **Microplastics Alter Growth and Reproduction Strategy of Scirpus mariqueter by Modifying Soil Nutrient Availability** (2025)
    3 citations
 
-3. **Polymer type more strongly than concentration drives root responses to microplastics: root biomass–efficiency trade-offs and biogeochemical risks in coastal wetlands** (2025)
-   0 citations
+3. **Spartina alterniflora-Derived Biochar Alters Biomass Allocation and Root Traits of Native Scirpus mariqueter** (2025)
+   2 citations · Biochar
 
-4. **Polymer type overrides concentration in driving plant-soil responses to microplastics: root decoupling strategy and biogeochemical risks in coastal wetlands** (2025)
-   0 citations
+4. **Polymer type more strongly than concentration drives root responses to microplastics: root biomass–efficiency trade-offs and biogeochemical risks in coastal wetlands** (2025)
+   1 citations
 
-5. **Spartina alterniflora-Derived Biochar Alters Biomass Allocation and Root Traits of Native Scirpus mariqueter** (2025)
-   0 citations · Biochar
+5. **Polymer type overrides concentration in driving plant-soil responses to microplastics: root decoupling strategy and biogeochemical risks in coastal wetlands** (2025)
+   0 citations
 
 ## External Profiles
 

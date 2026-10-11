@@ -1,7 +1,7 @@
 ---
 title: "Fiorella Massa"
 description: "Fiorella Massa is a Mid-career Biochar researcher at National Research Council in IT. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.174930
+date: 2026-10-11T02:33:00.205071
 url: "/cdr-researcher-census/researchers/fiorella-massa-a5069690/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,10 +50,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Top CDR Publications
 
-1. **Attrition-DrivenCarbon and Mineral Matter Distributionduring Biochar Production from Pine Bark in Fluidized Beds** (2026)
-   0 citations · Biochar
+1. **Attrition-Driven Carbon and Mineral Matter Distribution during Biochar Production from Pine Bark in Fluidized Beds** (2026)
+   1 citations · Biochar
 
-2. **Attrition-Driven Carbon and Mineral Matter Distribution during Biochar Production from Pine Bark in Fluidized Beds** (2026)
+2. **Attrition-DrivenCarbon and Mineral Matter Distributionduring Biochar Production from Pine Bark in Fluidized Beds** (2026)
    0 citations · Biochar
 
 ## External Profiles

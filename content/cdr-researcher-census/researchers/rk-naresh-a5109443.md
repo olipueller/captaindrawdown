@@ -1,7 +1,7 @@
 ---
 title: "RK Naresh"
 description: "RK Naresh is a Mid-career Soil Carbon researcher at Sardar Vallabhbhai Patel University of Agriculture & Technology in IN. With 55 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.072996
+date: 2026-10-11T02:33:00.103190
 url: "/cdr-researcher-census/researchers/rk-naresh-a5109443/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sean J. Dee"
 description: "Sean J. Dee is a Mid-career BECCS researcher at Exponent (United States) in US. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.391305
+date: 2026-10-11T02:33:00.428699
 url: "/cdr-researcher-census/researchers/sean-j-dee-a5061605/"
 layout: "researcher"
 hiddenInHomeList: true

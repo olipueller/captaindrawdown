@@ -1,7 +1,7 @@
 ---
 title: "Federica Persico"
 description: "Federica Persico is a Mid-career Biochar researcher. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.597580
+date: 2026-10-11T02:32:59.614368
 url: "/cdr-researcher-census/researchers/federica-persico-a5025484/"
 layout: "researcher"
 hiddenInHomeList: true

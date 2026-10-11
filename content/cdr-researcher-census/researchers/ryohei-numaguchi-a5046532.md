@@ -1,7 +1,7 @@
 ---
 title: "Ryohei Numaguchi"
 description: "Ryohei Numaguchi is a Senior DAC researcher at Kawasaki Heavy Industries (Japan) in JP. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.521440
+date: 2026-10-11T02:32:59.535384
 url: "/cdr-researcher-census/researchers/ryohei-numaguchi-a5046532/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Riquan Liao"
 description: "Riquan Liao is a Mid-career Soil Carbon researcher at Beibu Gulf University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.508945
+date: 2026-10-11T02:32:59.521981
 url: "/cdr-researcher-census/researchers/riquan-liao-a5038058/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Sources of organic carbon in the surface sediments of the mangrove reserve in the Beilun River Estuary** (2025)
+1. **Historical organic carbon accumulation and sources in mangrove swamps in Beibu Gulf, China** (2026)
+   0 citations
+
+2. **Sources of organic carbon in the surface sediments of the mangrove reserve in the Beilun River Estuary** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

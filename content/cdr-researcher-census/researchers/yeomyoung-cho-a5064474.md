@@ -1,7 +1,7 @@
 ---
 title: "Yeo‐Myoung Cho"
 description: "Yeo‐Myoung Cho is a Senior Biochar researcher at Stanford University in US. With 32 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.259514
+date: 2026-10-11T02:32:59.263377
 url: "/cdr-researcher-census/researchers/yeomyoung-cho-a5064474/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Black Carbon-Amended Engineered Media Filters for Improved Treatment of Stormwater Runoff** (2022)
-   29 citations · Biochar
+   30 citations · Biochar
 
 2. **Predicting PFAS and Hydrophilic Trace Organic Contaminant Transport in Black Carbon-Amended Engineered Media Filters for Improved Stormwater Runoff Treatment** (2023)
    25 citations · Biochar

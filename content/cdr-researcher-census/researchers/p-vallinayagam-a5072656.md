@@ -1,7 +1,7 @@
 ---
 title: "P. Vallinayagam"
 description: "P. Vallinayagam is an Early-career Biochar researcher. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.973259
+date: 2026-10-11T02:33:00.005012
 url: "/cdr-researcher-census/researchers/p-vallinayagam-a5072656/"
 layout: "researcher"
 hiddenInHomeList: true

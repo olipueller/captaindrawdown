@@ -1,7 +1,7 @@
 ---
 title: "Humphrey Adun"
 description: "Humphrey Adun is a Senior General CDR researcher at Near East University in CY. With 87 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.086496
+date: 2026-10-11T02:32:59.091387
 url: "/cdr-researcher-census/researchers/humphrey-adun-a5027923/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The synergistic role of carbon dioxide removal and emission reductions in achieving the Paris Agreement goal** (2024)
-   82 citations · General CDR
+   81 citations · General CDR
 
 2. **Prioritizing Non-Carbon Dioxide Removal Mitigation Strategies Could Reduce the Negative Impacts Associated with Large-Scale Reliance on Negative Emissions** (2024)
    52 citations · General CDR
@@ -60,22 +60,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    50 citations · General CDR
 
 4. **The complementary role of carbon dioxide removal: A catalyst for advancing the COP28 pledges towards the 1.5 °C Paris Agreement target** (2024)
-   32 citations · General CDR
+   35 citations · General CDR
 
 5. **Deployment expectations of multi-gigatonne scale carbon removal could have adverse impacts on Asia’s energy-water-land nexus** (2024)
-   29 citations · General CDR
+   30 citations · General CDR
 
 6. **Sustainability implications of different carbon dioxide removal technologies in the context of Europe's climate neutrality goal** (2024)
    26 citations · General CDR
 
 7. **Near-term carbon dioxide removal deployment can minimize disruptive pace of decarbonization and economic risks towards United States’ net-zero goal** (2024)
-   19 citations · General CDR
+   20 citations · General CDR
 
 8. **Does China's pathway to carbon neutrality require the integration of land-based biological negative emission solutions with geochemical and chemical alternatives?** (2023)
-   19 citations · Enhanced Weathering
+   18 citations · Enhanced Weathering
 
 9. **Targeted carbon dioxide removal measures are essential for the cost and energy transformation of the electricity sector by 2050** (2025)
-   15 citations · General CDR
+   17 citations · General CDR
 
 10. **Potential benefits and trade-offs associated with hydrogen transition under diverse carbon dioxide removal strategies** (2023)
    14 citations · General CDR

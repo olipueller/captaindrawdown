@@ -1,7 +1,7 @@
 ---
 title: "Fabian Rosner"
 description: "Fabian Rosner is a Mid-career General CDR researcher at University of California, Los Angeles in US. With 51 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.367383
+date: 2026-10-11T02:32:59.374552
 url: "/cdr-researcher-census/researchers/fabian-rosner-a5077038/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -59,7 +59,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 3. **Emerging concepts in carbon dioxide storage** (2022)
    1 citations · DAC
 
-4. **Kinetic insights into measurable marine carbon dioxide removal via carbonation of electrolytically alkalinized seawater** (2026)
+4. **Seawater Electrolysis Enables Multipathway Climate Change Mitigation through Atmospheric Carbon Dioxide Removal, Renewable Hydrogen Production, and Cement and Concrete Decarbonization** (2026)
+   0 citations · General CDR
+
+5. **Kinetic insights into measurable marine carbon dioxide removal via carbonation of electrolytically alkalinized seawater** (2026)
    0 citations · General CDR
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Sang-Ho Jeon"
 description: "Sang-Ho Jeon is a Mid-career Soil Carbon researcher at Rural Development Administration in KR. With 72 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.488619
+date: 2026-10-11T02:32:59.500529
 url: "/cdr-researcher-census/researchers/sang-ho-jeon-a5107908/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,22 +57,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    30 citations · Enhanced Weathering
 
 3. **Mapping peat thickness and carbon stock of a degraded peatland in West Sumatra, Indonesia** (2023)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 4. **Soil management priorities in Korea** (2022)
-   11 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 5. **Long-term fertilization and liming increase soil fertility but reduce carbon stratification and stocks of paddy rice soils** (2024)
    7 citations · Soil Carbon
 
 6. **Determination of optimal mixing ratio of organic fertilizer and biochar derived from agricultural waste to increase crop growth and soil carbon sequestration** (2025)
-   4 citations · Biochar
+   5 citations · Biochar
 
 7. **Effect of Different Type of Organic Matter Application on Rice Yield and Soil Organic Carbon Stock in Paddy Soil** (2024)
    3 citations · Soil Carbon
 
 8. **Effect of fertilizer and food waste compost on soil carbon, nitrogen use efficiency, and yield of Chinese cabbage (Brassica Rapa L.)** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 9. **Optimizing biochar use under different soil pH conditions for sustainable crop production and soil carbon sequestration** (2026)
    0 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Xiangru Yuan"
 description: "Xiangru Yuan is a Mid-career Biochar researcher. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.294883
+date: 2026-10-11T02:32:59.299463
 url: "/cdr-researcher-census/researchers/xiangru-yuan-a5112618/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,10 +43,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effect of pyrolysis temperature on composition, carbon fraction and abiotic stability of straw biochars: correlation and quantitative analysis** (2022)
-   66 citations · Biochar
+   67 citations · Biochar
 
 2. **Two-dimensional correlation infrared spectroscopy reveals the evolution of functional groups governing biochar oxidation resistance** (2026)
-   6 citations · Biochar
+   8 citations · Biochar
 
 3. **Environmental leaching of biochar: a full factorial analysis of composition and redundancy** (2025)
    4 citations · Biochar

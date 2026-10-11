@@ -1,7 +1,7 @@
 ---
 title: "Marie-Élise Samson"
 description: "Marie-Élise Samson is a Mid-career Soil Carbon researcher at Université Laval in CA. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.686592
+date: 2026-10-11T02:32:59.706843
 url: "/cdr-researcher-census/researchers/marie-elise-samson-a5061276/"
 layout: "researcher"
 hiddenInHomeList: true

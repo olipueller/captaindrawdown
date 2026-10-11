@@ -1,7 +1,7 @@
 ---
 title: "Goodluck Msigwa"
 description: "Goodluck Msigwa is a Mid-career General CDR researcher at Université Toulouse III - Paul Sabatier in FR. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.074331
+date: 2026-10-11T02:32:59.079137
 url: "/cdr-researcher-census/researchers/goodluck-msigwa-a5005216/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Circular economy strategies for combating climate change and other environmental issues** (2022)
-   806 citations · General CDR
+   823 citations · General CDR
 
 ## External Profiles
 

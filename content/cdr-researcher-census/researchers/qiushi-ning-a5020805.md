@@ -1,7 +1,7 @@
 ---
 title: "Qiushi Ning"
 description: "Qiushi Ning is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.616661
+date: 2026-10-11T02:32:59.634088
 url: "/cdr-researcher-census/researchers/qiushi-ning-a5020805/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Greater soil microbial biomass loss at low frequency of N addition in an Inner Mongolia grassland** (2022)
-   12 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 2. **Nitrogen addition decouples the microbial necro-mass from soil organic carbon formation in a temperate grassland** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

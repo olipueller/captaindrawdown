@@ -1,7 +1,7 @@
 ---
 title: "Lucey Moropeng"
 description: "Lucey Moropeng is a Mid-career General CDR researcher at Tshwane University of Technology in ZA. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.426242
+date: 2026-10-11T02:32:59.436240
 url: "/cdr-researcher-census/researchers/lucey-moropeng-a5002799/"
 layout: "researcher"
 hiddenInHomeList: true

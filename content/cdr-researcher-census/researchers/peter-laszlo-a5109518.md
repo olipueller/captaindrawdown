@@ -1,7 +1,7 @@
 ---
 title: "Péter László"
 description: "Péter László is a Senior Soil Carbon researcher at Agrárközgazdasági Intézet in HU. With 37 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.618648
+date: 2026-10-11T02:32:59.636086
 url: "/cdr-researcher-census/researchers/peter-laszlo-a5109518/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Achievable agricultural soil carbon sequestration across Europe from country‐specific estimates** (2021)
-   75 citations · General CDR
+   78 citations · General CDR
 
 2. **Testing PRISMA hyperspectral satellite imagery in predicting soil carbon content based on synthetized LUCAS spectral data** (2021)
    2 citations · Soil Carbon

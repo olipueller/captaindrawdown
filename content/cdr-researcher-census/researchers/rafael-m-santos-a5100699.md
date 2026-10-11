@@ -1,7 +1,7 @@
 ---
 title: "Rafael M. Santos"
 description: "Rafael M. Santos is a Senior Enhanced Weathering researcher at University of Guelph in CA. With 247 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.040756
+date: 2026-10-11T02:32:59.043875
 url: "/cdr-researcher-census/researchers/rafael-m-santos-a5100699/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Natural and Human-Induced Factors on the Accumulation and Migration of Pedogenic Carbonate in Soil: A Review** (2022)
-   44 citations · Soil Carbon
+   48 citations · Soil Carbon
 
 2. **Mineral–Soil–Plant–Nutrient Synergisms of Enhanced Weathering for Agriculture: Short-Term Investigations Using Fast-Weathering Wollastonite Skarn** (2022)
    39 citations · Enhanced Weathering
@@ -71,11 +71,11 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 7. **Soil carbon allocation, composition, and sequestration changes induced by cropping diversification in tropical systems** (2025)
    17 citations · Soil Carbon
 
-8. **Multiscale Process Intensification of Waste Valorization Reactions** (2023)
-   14 citations · General CDR
+8. **Pathways, roundabouts, roadblocks, and shortcuts to safe and sustainable deployment of enhanced rock weathering in agriculture** (2023)
+   15 citations · Enhanced Weathering
 
-9. **Pathways, roundabouts, roadblocks, and shortcuts to safe and sustainable deployment of enhanced rock weathering in agriculture** (2023)
-   14 citations · Enhanced Weathering
+9. **Multiscale Process Intensification of Waste Valorization Reactions** (2023)
+   14 citations · General CDR
 
 10. **Monitoring Pedogenic Inorganic Carbon Accumulation Due to Weathering of Amended Silicate Minerals in Agricultural Soils.** (2021)
    13 citations · Enhanced Weathering

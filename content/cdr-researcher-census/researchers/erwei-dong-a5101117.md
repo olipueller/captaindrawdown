@@ -1,7 +1,7 @@
 ---
 title: "Erwei Dong"
 description: "Erwei Dong is a Mid-career Biochar researcher at Shanxi Agricultural University in CN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.108938
+date: 2026-10-11T02:33:00.139671
 url: "/cdr-researcher-census/researchers/erwei-dong-a5101117/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 5 |
 | Citations | 158 |
 | Publications | 17 |
-| CDR Focus | 17.6% |
+| CDR Focus | 23.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Long-term organic fertilization combined with deep ploughing enhances carbon sequestration in a rainfed sorghum-maize rotation system** (2024)
-   18 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 2. **Long-Term Low-Rate Biochar Application Enhances Soil Organic Carbon Without Affecting Sorghum Yield in a Calcaric Cambisol** (2025)
    5 citations · Biochar

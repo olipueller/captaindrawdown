@@ -1,7 +1,7 @@
 ---
 title: "Ali Mohammed Saleh"
 description: "Ali Mohammed Saleh is a Senior Biochar researcher at Northern Technical University in IQ. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.597067
+date: 2026-10-11T02:32:59.613862
 url: "/cdr-researcher-census/researchers/ali-mohammed-saleh-a5072113/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,19 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Isotherm and kinetic models of SO2 adsorption on palm kernel shell-activated carbon and xerogel blends: Effect of flow rate and contact time** (2025)
-   12 citations
+   13 citations
 
 2. **Waste-to-Energy Innovations and Advances in Hydrothermal Carbonization, Microwave, and Pyrolysis Processes: A Review** (2026)
-   2 citations · Biochar
+   3 citations · Biochar
 
 3. **Optimization for the Effects of Coconut Shell Activated Carbon Xerogel Weight and Temperature on the Hydrogen Sulphide Adsorption Using Response Surface Methodology** (2024)
-   1 citations · Biochar
+   2 citations · Biochar
 
 4. **Hybrid palm kernel shell activated carbon–Xerogel adsorbents for efficient SO <sub>2</sub> capture: Synthesis, characterization, and process optimization** (2026)
-   0 citations
+   1 citations
+
+5. **Development and optimization of palm kernel shell activated carbon blended with xerogel for SO2 capture: experimental, isotherms, and kinetic studies** (2025)
+   0 citations · Biochar
 
 ## External Profiles
 

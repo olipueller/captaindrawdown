@@ -1,7 +1,7 @@
 ---
 title: "Maria Barbarosou"
 description: "Maria Barbarosou is a Senior General CDR researcher at Hellenic Air Force in GR. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.338106
+date: 2026-10-11T02:33:00.372223
 url: "/cdr-researcher-census/researchers/maria-barbarosou-a5041538/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The Critical Role of IoT for Enabling the UK’s Built Environment Transition to Net Zero** (2025)
-   0 citations · General CDR
+   1 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Dimitris Triantakonstantis"
 description: "Dimitris Triantakonstantis is a Senior Soil Carbon researcher at University of Patras in GR. With 52 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.433155
+date: 2026-10-11T02:32:59.443504
 url: "/cdr-researcher-census/researchers/dimitris-triantakonstantis-a5051525/"
 layout: "researcher"
 hiddenInHomeList: true

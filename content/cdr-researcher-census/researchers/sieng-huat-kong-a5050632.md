@@ -1,7 +1,7 @@
 ---
 title: "Sieng Huat Kong"
 description: "Sieng Huat Kong is a Mid-career Biochar researcher at Universiti Malaysia Sarawak in MY. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.292569
+date: 2026-10-11T02:32:59.296997
 url: "/cdr-researcher-census/researchers/sieng-huat-kong-a5050632/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Role of Biochar in Carbon Sequestration and Climate Change Mitigation** (2025)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

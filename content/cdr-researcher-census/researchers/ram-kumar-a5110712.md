@@ -1,7 +1,7 @@
 ---
 title: "Ram Kumar"
 description: "Ram Kumar is a Senior DAC researcher at Indian Grassland and Fodder Research Institute in IN. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.865150
+date: 2026-10-11T02:32:59.891760
 url: "/cdr-researcher-census/researchers/ram-kumar-a5110712/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Silvopasture systems for restoration of degraded lands in a semiarid region of India** (2022)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 2. **Life cycle impact and cost analysis of quarry materials for land-based enhanced weathering in Northern California** (2024)
    16 citations · DAC

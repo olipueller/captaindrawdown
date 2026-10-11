@@ -1,7 +1,7 @@
 ---
 title: "Qiufeng Xu"
 description: "Qiufeng Xu is a Senior Biochar researcher at Shanxi University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.102691
+date: 2026-10-11T02:33:00.132931
 url: "/cdr-researcher-census/researchers/qiufeng-xu-a5104184/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Warming increases CO2 emissions in biochar-amended cropland soil** (2026)
-   6 citations · Biochar
+   14 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Vinícius Guidotti"
 description: "Vinícius Guidotti is a Mid-career Soil Carbon researcher at Instituto Florestal in BR. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.688510
+date: 2026-10-11T02:32:59.708818
 url: "/cdr-researcher-census/researchers/vinicius-guidotti-a5077815/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Coupling remote sensing and eDNA to monitor environmental impact: A pilot to quantify the environmental benefits of sustainable agriculture in the Brazilian Amazon** (2024)
-   22 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 2. **Coupling remote sensing and eDNA to monitor environmental impact: A pilot to quantify the environmental benefits of sustainable agriculture in the Brazilian Amazon** (2023)
    0 citations

@@ -1,7 +1,7 @@
 ---
 title: "Guang Li"
 description: "Guang Li is a Mid-career Biochar researcher at Gansu Agricultural University in CN. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.749467
+date: 2026-10-11T02:32:59.771736
 url: "/cdr-researcher-census/researchers/guang-li-a5101451/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,10 +53,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 1. **Nitrogen fertilizer reduction and biochar addition change the microbial carbon and nitrogen use efficiency of farmland soils in arid areas** (2025)
    2 citations · Biochar
 
-2. **Effects of Biochar Addition on Topsoil Carbon–Nitrogen Cycling and CO2 Emissions in Reduced-Nitrogen, Film-Mulched Drip-Irrigated Silage Maize Systems** (2025)
+2. **Regulating wheat yield, soil quality, and nitrous oxide emissions: Integrated effects of long-term straw mulching and nitrogen fertilization in dryland cropping systems** (2026)
+   1 citations
+
+3. **Effects of Biochar Addition on Topsoil Carbon–Nitrogen Cycling and CO2 Emissions in Reduced-Nitrogen, Film-Mulched Drip-Irrigated Silage Maize Systems** (2025)
    0 citations · Biochar
 
-3. **Effects of High Nitrogen and Biochar Addition on the Stability of Soil Organic Carbon Pools in Restored Grassland on the Chinese Loess Plateau** (2025)
+4. **Effects of High Nitrogen and Biochar Addition on the Stability of Soil Organic Carbon Pools in Restored Grassland on the Chinese Loess Plateau** (2025)
    0 citations · Biochar
 
 ## External Profiles

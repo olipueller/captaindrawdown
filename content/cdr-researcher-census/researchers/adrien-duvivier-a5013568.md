@@ -1,7 +1,7 @@
 ---
 title: "Adrien Duvivier"
 description: "Adrien Duvivier is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 29 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.387797
+date: 2026-10-11T02:33:00.424737
 url: "/cdr-researcher-census/researchers/adrien-duvivier-a5013568/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,10 +50,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Structure and Chemical Composition of Soil C-Rich Al–Si–Fe Coprecipitates at Nanometer Scale** (2023)
    15 citations · Soil Carbon
 
-2. **What are the organo-mineral associations called 'nanoCLICs'?** (2026)
-   0 citations · Soil Carbon
+2. **Land use and plant genotype modulate rhizosheath traits, root-associated microbiota, and soil carbon sequestration potential** (2025)
+   1 citations · Soil Carbon
 
-3. **Land use and plant genotype modulate rhizosheath traits, root-associated microbiota, and soil carbon sequestration potential** (2025)
+3. **What are the organo-mineral associations called 'nanoCLICs'?** (2026)
    0 citations · Soil Carbon
 
 4. **Land Use and Plant Genotype Modulate Rhizosheath Traits, Root-Associated Microbiota, and Soil Carbon Sequestration Potential** (2025)

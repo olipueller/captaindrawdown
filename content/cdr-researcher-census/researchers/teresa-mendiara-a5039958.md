@@ -1,7 +1,7 @@
 ---
 title: "Teresa Mendiara"
 description: "Teresa Mendiara is a Senior BECCS researcher at Instituto de Carboquímica in ES. With 96 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.062721
+date: 2026-10-11T02:32:59.067175
 url: "/cdr-researcher-census/researchers/teresa-mendiara-a5039958/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,11 +56,11 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 2. **Behavior of a manganese-iron mixed oxide doped with titanium in reducing the oxygen demand for CLC of biomass** (2021)
    18 citations · BECCS
 
-3. **Bioenergy with Carbon Capture and Storage (BECCS) developed by coupling a Pressurised Chemical Looping combustor with a turbo expander: How to optimize plant efficiency** (2022)
-   16 citations · BECCS
+3. **Life Cycle Assessment of Wheat Straw Pyrolysis with Volatile Fractions Chemical Looping Combustion** (2024)
+   16 citations · Biochar
 
-4. **Life Cycle Assessment of Wheat Straw Pyrolysis with Volatile Fractions Chemical Looping Combustion** (2024)
-   13 citations · Biochar
+4. **Bioenergy with Carbon Capture and Storage (BECCS) developed by coupling a Pressurised Chemical Looping combustor with a turbo expander: How to optimize plant efficiency** (2022)
+   16 citations · BECCS
 
 5. **Evaluation of the effect of pressure and heat transfer on the efficiency of a batch fuel reactor, using Iron-based Oxygen Carrier with a CFD model** (2022)
    6 citations · BECCS

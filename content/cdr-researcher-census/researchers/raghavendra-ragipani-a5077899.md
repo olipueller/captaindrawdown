@@ -1,7 +1,7 @@
 ---
 title: "Raghavendra Ragipani"
 description: "Raghavendra Ragipani is a Mid-career DAC researcher. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.665897
+date: 2026-10-11T02:32:59.685330
 url: "/cdr-researcher-census/researchers/raghavendra-ragipani-a5077899/"
 layout: "researcher"
 hiddenInHomeList: true

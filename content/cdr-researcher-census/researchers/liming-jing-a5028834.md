@@ -1,7 +1,7 @@
 ---
 title: "Liming Jing"
 description: "Liming Jing is a Mid-career Biochar researcher at Shaanxi University of Science and Technology in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.844863
+date: 2026-10-11T02:32:59.870846
 url: "/cdr-researcher-census/researchers/liming-jing-a5028834/"
 layout: "researcher"
 hiddenInHomeList: true

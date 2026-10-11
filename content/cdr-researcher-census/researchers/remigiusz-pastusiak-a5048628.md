@@ -1,7 +1,7 @@
 ---
 title: "Remigiusz Pastusiak"
 description: "Remigiusz Pastusiak is a Mid-career DAC researcher at Siemens (Germany) in DE. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.385611
+date: 2026-10-11T02:33:00.422505
 url: "/cdr-researcher-census/researchers/remigiusz-pastusiak-a5048628/"
 layout: "researcher"
 hiddenInHomeList: true

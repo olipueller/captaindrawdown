@@ -1,7 +1,7 @@
 ---
 title: "Yunqi Ma"
 description: "Yunqi Ma is a Mid-career Biochar researcher at Nanjing Normal University in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.287598
+date: 2026-10-11T02:33:00.317666
 url: "/cdr-researcher-census/researchers/yunqi-ma-a5071791/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar and Nitrogen Fertilizer Synergies: Enhancing Soil Properties and Jujube Fruit Quality in Saline–Alkali Orchards of Southern Xinjiang** (2025)
-   1 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

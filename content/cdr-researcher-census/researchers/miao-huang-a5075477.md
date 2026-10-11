@@ -1,7 +1,7 @@
 ---
 title: "Miao Huang"
 description: "Miao Huang is a Mid-career Soil Carbon researcher at China University of Geosciences in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.283750
+date: 2026-10-11T02:33:00.314013
 url: "/cdr-researcher-census/researchers/miao-huang-a5075477/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Archaeal lipids in soils and sediments: Water impact and consequences for microbial carbon sequestration** (2022)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 ## External Profiles
 

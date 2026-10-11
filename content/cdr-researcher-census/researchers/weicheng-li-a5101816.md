@@ -1,7 +1,7 @@
 ---
 title: "Weicheng Li"
 description: "Weicheng Li is a Senior Biochar researcher at Anhui Agricultural University in CN. With 48 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.559139
+date: 2026-10-11T02:32:59.574571
 url: "/cdr-researcher-census/researchers/weicheng-li-a5101816/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Magnetic mesoporous corncob biochar for tetracycline adsorption: 2D-FTIR-COS analysis and quantitative mechanistic insight** (2025)
-   19 citations · Biochar
+   21 citations · Biochar
 
 2. **Unveiling the critical role of functional groups in pristine biochar for photocatalytic Cr(VI) remediation under visible light** (2025)
    5 citations · Biochar
 
 3. **Coupling adsorption with photocatalysis in biochar: The critical roles of pyrolysis temperature and inherent minerals in tetracycline removal** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Edith Bai"
 description: "Edith Bai is an Eminent Soil Carbon researcher at Institute of Applied Ecology Chinese Academy of Sciences in CN. With 190 publications and an h-index of 50, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.028406
+date: 2026-10-11T02:32:59.031449
 url: "/cdr-researcher-census/researchers/edith-bai-a5063317/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil Organic Carbon Increases With Decreasing Microbial Carbon Use Efficiency During Vegetation Restoration** (2024)
-   81 citations · Soil Carbon
+   86 citations · Soil Carbon
 
 2. **Cascading Effects Within Soil Food Web Amplify Fungal Biomass and Necromass Production** (2025)
-   32 citations · Soil Carbon
+   33 citations · Soil Carbon
 
 3. **Drying-rewetting events enhance the priming effect on soil organic matter mineralization by maize straw addition** (2024)
    26 citations · Soil Carbon
 
-4. **Erosion effects on soil microbial carbon use efficiency in the mollisol cropland in northeast China** (2023)
+4. **Differential contribution of microbial and plant-derived organic matter to soil organic carbon sequestration over two decades of natural revegetation and cropping** (2024)
+   21 citations · Soil Carbon
+
+5. **Erosion effects on soil microbial carbon use efficiency in the mollisol cropland in northeast China** (2023)
    20 citations · Soil Carbon
 
-5. **Differential contribution of microbial and plant-derived organic matter to soil organic carbon sequestration over two decades of natural revegetation and cropping** (2024)
-   17 citations · Soil Carbon
-
 6. **Refining Amino Sugar‐Based Conversion Factors for Quantification of Microbial Necromass Carbon in Soils** (2025)
-   13 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 7. **Temperature effects on microbial carbon use efficiency and priming effects in soils under vegetation restoration** (2024)
    12 citations · Soil Carbon

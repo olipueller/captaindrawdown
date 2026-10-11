@@ -1,7 +1,7 @@
 ---
 title: "Ryan K. Henning"
 description: "Ryan K. Henning is a Senior DAC researcher at Energy and Resources Institute in IN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.905394
+date: 2026-10-11T02:32:59.934575
 url: "/cdr-researcher-census/researchers/ryan-k-henning-a5084698/"
 layout: "researcher"
 hiddenInHomeList: true

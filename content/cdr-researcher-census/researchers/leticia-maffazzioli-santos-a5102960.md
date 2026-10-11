@@ -1,7 +1,7 @@
 ---
 title: "Letícia Maffazzioli Santos"
 description: "Letícia Maffazzioli Santos is a Senior Biochar researcher at Instituto Tecnológico de Aeronáutica in BR. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.134193
+date: 2026-10-11T02:33:00.164711
 url: "/cdr-researcher-census/researchers/leticia-maffazzioli-santos-a5102960/"
 layout: "researcher"
 hiddenInHomeList: true

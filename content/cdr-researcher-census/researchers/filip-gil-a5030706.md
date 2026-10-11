@@ -1,7 +1,7 @@
 ---
 title: "Filip Gil"
 description: "Filip Gil is a Mid-career Biochar researcher at Wrocław University of Science and Technology in PL. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.949903
+date: 2026-10-11T02:32:59.980117
 url: "/cdr-researcher-census/researchers/filip-gil-a5030706/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Maithili Khapre"
 description: "Maithili Khapre is a Mid-career Biochar researcher. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.697056
+date: 2026-10-11T02:32:59.717520
 url: "/cdr-researcher-census/researchers/maithili-khapre-a5006020/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kleopatra Miserli"
 description: "Kleopatra Miserli is a Mid-career Biochar researcher at University of Ioannina in GR. With 12 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.631080
+date: 2026-10-11T02:32:59.649615
 url: "/cdr-researcher-census/researchers/kleopatra-miserli-a5015194/"
 layout: "researcher"
 hiddenInHomeList: true

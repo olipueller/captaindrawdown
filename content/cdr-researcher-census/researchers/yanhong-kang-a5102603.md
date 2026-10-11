@@ -1,7 +1,7 @@
 ---
 title: "Yanhong Kang"
 description: "Yanhong Kang is a Mid-career Biochar researcher at Dongzhimen Hospital Affiliated to Beijing University of Chinese Medicine in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.172372
+date: 2026-10-11T02:33:00.202548
 url: "/cdr-researcher-census/researchers/yanhong-kang-a5102603/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar promotes soil organic carbon sequestration and reduces net global warming potential in apple orchard: A two-year study in the Loess Plateau of China** (2021)
-   71 citations · Biochar
+   73 citations · Biochar
 
 ## External Profiles
 

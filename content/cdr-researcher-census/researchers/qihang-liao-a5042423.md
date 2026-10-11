@@ -1,7 +1,7 @@
 ---
 title: "Qihang Liao"
 description: "Qihang Liao is a Mid-career Soil Carbon researcher at Zhejiang Normal University in CN. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.363037
+date: 2026-10-11T02:32:59.370357
 url: "/cdr-researcher-census/researchers/qihang-liao-a5042423/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    41 citations · Soil Carbon
 
 2. **Plant and microbial-mediated soil organic carbon accumulation and stabilization in an estuary salt marsh wetland: Implications for blue carbon formation** (2025)
-   6 citations · Ocean CDR
+   7 citations · Ocean CDR
 
 3. **Compositional shifts in arbuscular mycorrhizal fungal communities drive soil carbon sequestration in coastal salt marshes** (2026)
    0 citations · Soil Carbon

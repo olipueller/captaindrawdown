@@ -1,7 +1,7 @@
 ---
 title: "Chen Fang"
 description: "Chen Fang is an Early-career General CDR researcher at Tsinghua University in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.051091
+date: 2026-10-11T02:33:00.082006
 url: "/cdr-researcher-census/researchers/chen-fang-a5018989/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Enhanced food system efficiency is the key to China’s 2060 carbon neutrality target** (2023)
-   83 citations · General CDR
+   81 citations · General CDR
 
 2. **Negative emission technology is key to decarbonizing China's cement industry** (2022)
-   78 citations · General CDR
+   80 citations · General CDR
 
 3. **A socio-ecological view of the geographical transitions of environmental services and soil integrity in Chongqing, China’s urban–rural ecotone** (2026)
    1 citations · Soil Carbon

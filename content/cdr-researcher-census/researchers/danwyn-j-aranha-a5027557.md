@@ -1,7 +1,7 @@
 ---
 title: "Danwyn J. Aranha"
 description: "Danwyn J. Aranha is an Early-career BECCS researcher at The Ohio State University in US. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.115493
+date: 2026-10-11T02:33:00.146365
 url: "/cdr-researcher-census/researchers/danwyn-j-aranha-a5027557/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Life-cycle greenhouse gas mitigation of biomass technologies for various bioproducts** (2026)
-   1 citations · BECCS
+   2 citations · BECCS
 
 ## External Profiles
 

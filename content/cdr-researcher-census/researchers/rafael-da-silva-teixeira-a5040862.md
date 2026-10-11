@@ -1,7 +1,7 @@
 ---
 title: "Rafael da Silva Teixeira"
 description: "Rafael da Silva Teixeira is a Mid-career Soil Carbon researcher at Universidade Federal de Viçosa in BR. With 41 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.797266
+date: 2026-10-11T02:32:59.821025
 url: "/cdr-researcher-census/researchers/rafael-da-silva-teixeira-a5040862/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · General CDR
 
 2. **N fertilization did not raise soil greenhouse gas emissions in a reforested reclaimed-mine site over a short-term study** (2023)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 3. **Iron ore Tailling-enriched biochar for carbon improvement in coarse textured soils** (2025)
    1 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Main Uddin"
 description: "Mohammad Main Uddin is a Mid-career Soil Carbon researcher at The University of Queensland in AU. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.499364
+date: 2026-10-11T02:32:59.511730
 url: "/cdr-researcher-census/researchers/mohammad-main-uddin-a5015360/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Importance of mangrove plantations for climate change mitigation in Bangladesh** (2023)
-   45 citations · General CDR
+   47 citations · General CDR
 
 ## External Profiles
 

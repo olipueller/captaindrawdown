@@ -1,7 +1,7 @@
 ---
 title: "Meiqing Jin"
 description: "Meiqing Jin is a Senior Biochar researcher at California University of Pennsylvania in US. With 66 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.145141
+date: 2026-10-11T02:32:59.149330
 url: "/cdr-researcher-census/researchers/meiqing-jin-a5028994/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,17 +50,17 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Top CDR Publications
 
-1. **Carbon sequestration potential of biochar-modified building materials: A critical review** (2025)
-   4 citations · Biochar
+1. **Formation, Stability, and Mobility of Biochar Colloids in Soil Environments** (2026)
+   5 citations · Biochar
 
-2. **Application of Biochar-Based Catalysts for Soil and Water Pollution Control** (2024)
-   4 citations · Biochar
+2. **Carbon sequestration potential of biochar-modified building materials: A critical review** (2025)
+   5 citations · Biochar
 
-3. **Formation, Stability, and Mobility of Biochar Colloids in Soil Environments** (2026)
-   3 citations · Biochar
+3. **Application of Biochar-Based Catalysts for Soil and Water Pollution Control** (2024)
+   4 citations · Biochar
 
 4. **Biochar-induced strong microbial carbon limitation prompts organic carbon sequestration and plant growth in antibiotic-contaminated soil** (2025)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

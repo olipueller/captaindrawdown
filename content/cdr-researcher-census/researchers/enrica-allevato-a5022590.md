@@ -1,7 +1,7 @@
 ---
 title: "Enrica Allevato"
 description: "Enrica Allevato is a Mid-career Biochar researcher at University of Ferrara in IT. With 34 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.278451
+date: 2026-10-11T02:32:59.282809
 url: "/cdr-researcher-census/researchers/enrica-allevato-a5022590/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar aged or combined with humic substances: fabrication and implications for sustainable agriculture and environment-a review** (2023)
-   70 citations · Biochar
+   59 citations · Biochar
 
 2. **Sulfur-functionalized biochar: Synthesis, characterization, and utilization for contaminated soil and water remediation-a review** (2024)
-   33 citations
+   36 citations
 
 3. **Research Trend of Aging Biochar for Agro-environmental Applications: a Bibliometric Data Analysis and Visualization of the Last Decade (2011–2023)** (2023)
    17 citations · Biochar

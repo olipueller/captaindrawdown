@@ -1,7 +1,7 @@
 ---
 title: "Zaike Gu"
 description: "Zaike Gu is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.275834
+date: 2026-10-11T02:33:00.305755
 url: "/cdr-researcher-census/researchers/zaike-gu-a5114094/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Climate-mediated land use effects on soil organic carbon storage in karst ecosystems** (2025)
-   1 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

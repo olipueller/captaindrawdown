@@ -1,7 +1,7 @@
 ---
 title: "Nicole E. Soltis"
 description: "Nicole E. Soltis is a Mid-career Soil Carbon researcher. With 20 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.372100
+date: 2026-10-11T02:32:59.379368
 url: "/cdr-researcher-census/researchers/nicole-e-soltis-a5001752/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon opportunity cost increases carbon footprint advantage of grain-finished beef** (2023)
-   18 citations · General CDR
+   17 citations · General CDR
 
 ## External Profiles
 

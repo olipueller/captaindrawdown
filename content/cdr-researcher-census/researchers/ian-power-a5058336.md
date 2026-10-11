@@ -1,7 +1,7 @@
 ---
 title: "Ian Power"
 description: "Ian Power is an Eminent Enhanced Weathering researcher at Trent University in CA. With 369 publications and an h-index of 49, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.029461
+date: 2026-10-11T02:32:59.032475
 url: "/cdr-researcher-census/researchers/ian-power-a5058336/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,37 +45,37 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 49 |
 | Citations | 8,610 |
 | Publications | 369 |
-| CDR Focus | 8.4% |
+| CDR Focus | 8.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Evaluating feedstocks for carbon dioxide removal by enhanced rock weathering and CO2 mineralization** (2021)
-   56 citations · Enhanced Weathering
+   57 citations · Enhanced Weathering
 
 2. **Rates of atmospheric CO2 capture using magnesium oxide powder** (2022)
    46 citations
 
 3. **Direct measurement of CO2 drawdown in mine wastes and rock powders: Implications for enhanced rock weathering** (2021)
-   44 citations · Enhanced Weathering
+   45 citations · Enhanced Weathering
 
-4. **The Mining Industry’s Role in Enhanced Weathering and Mineralization for CO<sub>2</sub> Removal** (2023)
-   40 citations · Enhanced Weathering
+4. **Passive direct air capture using calcium oxide powder: The importance of water vapor** (2024)
+   40 citations
 
-5. **Passive direct air capture using calcium oxide powder: The importance of water vapor** (2024)
-   37 citations
+5. **The Mining Industry’s Role in Enhanced Weathering and Mineralization for CO<sub>2</sub> Removal** (2023)
+   38 citations · Enhanced Weathering
 
 6. **Impacts of dissolved phosphorus and soil-mineral-fluid interactions on CO2 removal through enhanced weathering of wollastonite in soils** (2022)
-   31 citations · Enhanced Weathering
+   32 citations · Enhanced Weathering
 
-7. **Cation Exchange in Smectites as a New Approach to Mineral Carbonation** (2022)
+7. **Are enhanced rock weathering rates overestimated? A few geochemical and mineralogical pitfalls** (2025)
    30 citations · Enhanced Weathering
 
-8. **Are enhanced rock weathering rates overestimated? A few geochemical and mineralogical pitfalls** (2025)
-   29 citations · Enhanced Weathering
+8. **Cation Exchange in Smectites as a New Approach to Mineral Carbonation** (2022)
+   30 citations · Enhanced Weathering
 
 9. **Geochemical modeling of CO2 sequestration in ultramafic mine wastes from Australia, Canada, and South Africa: Implications for carbon accounting and monitoring** (2023)
-   29 citations · Enhanced Weathering
+   28 citations · Enhanced Weathering
 
 10. **Impact of wet-dry cycles on enhanced rock weathering of brucite, wollastonite, serpentinite and kimberlite: Implications for carbon verification** (2023)
    17 citations · Enhanced Weathering

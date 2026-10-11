@@ -1,7 +1,7 @@
 ---
 title: "Erxiong Zhu"
 description: "Erxiong Zhu is a Senior Soil Carbon researcher at Beijing Botanical Garden in CN. With 47 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.214486
+date: 2026-10-11T02:32:59.218420
 url: "/cdr-researcher-census/researchers/erxiong-zhu-a5054840/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    59 citations · Soil Carbon
 
 2. **Enhanced Mineral Preservation Rather Than Microbial Residue Production Dictates the Accrual of Mineral‐Associated Organic Carbon Along a Weathering Gradient** (2024)
-   47 citations · Soil Carbon
+   51 citations · Soil Carbon
 
 3. **Organic Carbon and Lignin Protection by Metal Oxides Versus Silicate Clay: Comparative Study Based on Wetland and Upland Soils** (2023)
-   37 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 4. **Leucaena leucocephala plantations can increase soil organic carbon storage by increasing labile fractions without reducing stability in dry-hot valley savannas** (2025)
    1 citations · Soil Carbon

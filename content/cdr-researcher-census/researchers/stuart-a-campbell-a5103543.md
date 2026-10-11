@@ -1,7 +1,7 @@
 ---
 title: "Stuart A. Campbell"
 description: "Stuart A. Campbell is a Senior Enhanced Weathering researcher at University of Sheffield in GB. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.739273
+date: 2026-10-11T02:32:59.761370
 url: "/cdr-researcher-census/researchers/stuart-a-campbell-a5103543/"
 layout: "researcher"
 hiddenInHomeList: true

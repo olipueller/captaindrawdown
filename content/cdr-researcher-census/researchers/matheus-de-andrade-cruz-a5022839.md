@@ -1,7 +1,7 @@
 ---
 title: "Matheus de Andrade Cruz"
 description: "Matheus de Andrade Cruz is a Mid-career BECCS researcher at Universidade Federal do Rio de Janeiro in BR. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.301908
+date: 2026-10-11T02:33:00.333054
 url: "/cdr-researcher-census/researchers/matheus-de-andrade-cruz-a5022839/"
 layout: "researcher"
 hiddenInHomeList: true

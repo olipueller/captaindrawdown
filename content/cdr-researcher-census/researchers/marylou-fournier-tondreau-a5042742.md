@@ -1,7 +1,7 @@
 ---
 title: "Marylou Fournier-Tondreau"
 description: "Marylou Fournier-Tondreau is a Mid-career Enhanced Weathering researcher at University of Oxford in GB. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.429581
+date: 2026-10-11T02:32:59.439727
 url: "/cdr-researcher-census/researchers/marylou-fournier-tondreau-a5042742/"
 layout: "researcher"
 hiddenInHomeList: true

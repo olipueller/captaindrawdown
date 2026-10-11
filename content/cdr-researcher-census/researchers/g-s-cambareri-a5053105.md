@@ -1,7 +1,7 @@
 ---
 title: "G. S. Cambareri"
 description: "G. S. Cambareri is a Senior Soil Carbon researcher at National Agricultural Technology Institute in AR. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.098277
+date: 2026-10-11T02:33:00.128996
 url: "/cdr-researcher-census/researchers/g-s-cambareri-a5053105/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A paradigm shift to CO2 sequestration to manage global warming – With the emphasis on developing countries** (2021)
-   72 citations · General CDR
+   71 citations · General CDR
 
 2. **Types of silvopastoral systems: adding trees to pasture/rangelands** (2025)
    0 citations · Soil Carbon

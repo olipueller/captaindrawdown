@@ -1,7 +1,7 @@
 ---
 title: "Sylwia Pindral"
 description: "Sylwia Pindral is a Mid-career Soil Carbon researcher at Institute of Soil Science and Plant Cultivation in PL. With 38 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.018045
+date: 2026-10-11T02:33:00.049065
 url: "/cdr-researcher-census/researchers/sylwia-pindral-a5003988/"
 layout: "researcher"
 hiddenInHomeList: true

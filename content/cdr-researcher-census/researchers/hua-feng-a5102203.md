@@ -1,7 +1,7 @@
 ---
 title: "Hua Feng"
 description: "Hua Feng is a Senior Soil Carbon researcher at Zunyi Medical University in CN. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.841391
+date: 2026-10-11T02:32:59.867219
 url: "/cdr-researcher-census/researchers/hua-feng-a5102203/"
 layout: "researcher"
 hiddenInHomeList: true

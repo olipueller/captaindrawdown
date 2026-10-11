@@ -1,7 +1,7 @@
 ---
 title: "Gwangnam Kang"
 description: "Gwangnam Kang is an Early-career Biochar researcher at Hyosung Corporation (South Korea) in KR. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.373705
+date: 2026-10-11T02:33:00.409231
 url: "/cdr-researcher-census/researchers/gwangnam-kang-a5050325/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hanyi Li"
 description: "Hanyi Li is a Mid-career Soil Carbon researcher at Kunming University of Science and Technology in CN. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.511605
+date: 2026-10-11T02:32:59.525095
 url: "/cdr-researcher-census/researchers/hanyi-li-a5075354/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Spatial heterogeneity in chemical composition and stability of glomalin-related soil protein in the coastal wetlands** (2022)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 2. **Enhanced Cr(VI) stabilization by terrestrial-derived soil protein: Photoelectrochemical properties and reduction mechanisms** (2023)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 3. **Network architecture across trophic levels governs ecosystem multifunctionality in subtropical riparian soils** (2026)
    0 citations

@@ -1,7 +1,7 @@
 ---
 title: "Abebe Worku"
 description: "Abebe Worku is a Mid-career Biochar researcher at Addis Ababa Science and Technology University in ET. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.507861
+date: 2026-10-11T02:32:59.520820
 url: "/cdr-researcher-census/researchers/abebe-worku-a5102903/"
 layout: "researcher"
 hiddenInHomeList: true

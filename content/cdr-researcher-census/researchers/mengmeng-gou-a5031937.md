@@ -1,7 +1,7 @@
 ---
 title: "Mengmeng Gou"
 description: "Mengmeng Gou is a Mid-career Soil Carbon researcher at Harbin University of Science and Technology in CN. With 28 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.247960
+date: 2026-10-11T02:32:59.251780
 url: "/cdr-researcher-census/researchers/mengmeng-gou-a5031937/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,9 +54,12 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    87 citations · General CDR
 
 2. **Contrasting change patterns of lignin and microbial necromass carbon and the determinants in a chronosequence of subtropical Pinus massoniana plantations** (2024)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
-3. **Patterns and Determinants of Lignin and Microbial Necromass Carbon in a Chronosequence of Subtropical Pinus Massoniana Plantations** (2023)
+3. **Root- and mycelium-mediated pathways differentially regulating mineral-associated organic carbon accrual during citrus–vetch interactions** (2026)
+   0 citations
+
+4. **Patterns and Determinants of Lignin and Microbial Necromass Carbon in a Chronosequence of Subtropical Pinus Massoniana Plantations** (2023)
    0 citations · Soil Carbon
 
 ## External Profiles

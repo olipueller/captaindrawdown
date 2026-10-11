@@ -1,7 +1,7 @@
 ---
 title: "Zhao‐lei Qu"
 description: "Zhao‐lei Qu is a Mid-career Soil Carbon researcher at Nanjing Forestry University in CN. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.503134
+date: 2026-10-11T02:32:59.515700
 url: "/cdr-researcher-census/researchers/zhaolei-qu-a5029879/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil Fungal Community and Potential Function in Different Forest Ecosystems** (2022)
-   67 citations · Soil Carbon
+   68 citations · Soil Carbon
 
 2. **The impact of biochar on wood-inhabiting bacterial community and its function in a boreal pine forest** (2022)
    19 citations · Biochar

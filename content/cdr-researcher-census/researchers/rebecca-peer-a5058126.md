@@ -1,7 +1,7 @@
 ---
 title: "Rebecca Peer"
 description: "Rebecca Peer is a Mid-career General CDR researcher at University of Canterbury in NZ. With 83 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.322057
+date: 2026-10-11T02:32:59.327631
 url: "/cdr-researcher-census/researchers/rebecca-peer-a5058126/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    11 citations · BECCS
 
 2. **From carbon neutral to carbon negative: a theoretical bioenergy and CO <sub>2</sub> removal retrofit at Ngāwhā geothermal power station** (2024)
-   4 citations · BECCS
+   5 citations · BECCS
 
 3. **Carbon Negative Geothermal: Theoretical Efficiency and Sequestration Potential of Geothermal-Beccs Energy Cycles** (2022)
    2 citations · BECCS

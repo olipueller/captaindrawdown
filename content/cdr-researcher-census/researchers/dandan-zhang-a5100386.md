@@ -1,7 +1,7 @@
 ---
 title: "Dandan Zhang"
 description: "Dandan Zhang is a Senior Biochar researcher at Nanjing Forestry University in CN. With 57 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.328405
+date: 2026-10-11T02:32:59.334248
 url: "/cdr-researcher-census/researchers/dandan-zhang-a5100386/"
 layout: "researcher"
 hiddenInHomeList: true

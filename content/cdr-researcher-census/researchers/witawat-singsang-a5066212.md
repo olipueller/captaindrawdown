@@ -1,7 +1,7 @@
 ---
 title: "Witawat Singsang"
 description: "Witawat Singsang is a Senior Biochar researcher at Rambhai Barni Rajabhat University in TH. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.353367
+date: 2026-10-11T02:33:00.388113
 url: "/cdr-researcher-census/researchers/witawat-singsang-a5066212/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ting Gong"
 description: "Ting Gong is a Mid-career Soil Carbon researcher at Capital University of Physical Education and Sports in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.191510
+date: 2026-10-11T02:33:00.221584
 url: "/cdr-researcher-census/researchers/ting-gong-a5101491/"
 layout: "researcher"
 hiddenInHomeList: true

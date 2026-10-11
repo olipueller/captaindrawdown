@@ -1,7 +1,7 @@
 ---
 title: "Laura C. Ganley"
 description: "Laura C. Ganley is a Mid-career Ocean CDR researcher at New England Aquarium in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.879418
+date: 2026-10-11T02:32:59.906949
 url: "/cdr-researcher-census/researchers/laura-c-ganley-a5024697/"
 layout: "researcher"
 hiddenInHomeList: true

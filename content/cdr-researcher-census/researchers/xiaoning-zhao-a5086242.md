@@ -1,7 +1,7 @@
 ---
 title: "Xiaoning Zhao"
 description: "Xiaoning Zhao is a Senior Soil Carbon researcher at Shaanxi University of Technology in CN. With 84 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.165998
+date: 2026-10-11T02:32:59.170090
 url: "/cdr-researcher-census/researchers/xiaoning-zhao-a5086242/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil Chemical Properties Depending on Fertilization and Management in China: A Meta-Analysis** (2022)
-   51 citations · Soil Carbon
+   53 citations · Soil Carbon
 
 2. **Analysis of the consequences of land-use changes and soil types on organic carbon storage in the Tarim River Basin from 2000 to 2020** (2021)
    51 citations · Soil Carbon

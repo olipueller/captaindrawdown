@@ -1,7 +1,7 @@
 ---
 title: "Sarah Mayes"
 description: "Sarah Mayes is a Mid-career Soil Carbon researcher. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.319747
+date: 2026-10-11T02:33:00.351752
 url: "/cdr-researcher-census/researchers/sarah-mayes-a5077933/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Does agri-environmental management enhance biodiversity and multiple ecosystem services?: A farm-scale experiment** (2021)
-   53 citations · General CDR
+   51 citations · General CDR
 
 ## External Profiles
 

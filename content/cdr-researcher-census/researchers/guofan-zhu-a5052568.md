@@ -1,7 +1,7 @@
 ---
 title: "Guofan Zhu"
 description: "Guofan Zhu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.827093
+date: 2026-10-11T02:32:59.853329
 url: "/cdr-researcher-census/researchers/guofan-zhu-a5052568/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Interaction between nematodes and bacteria enhances soil carbon sequestration under organic material amendments** (2023)
-   39 citations · Soil Carbon
+   42 citations · Soil Carbon
 
 ## External Profiles
 

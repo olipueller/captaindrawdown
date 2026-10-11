@@ -1,7 +1,7 @@
 ---
 title: "Yongqiang Xia"
 description: "Yongqiang Xia is a Mid-career General CDR researcher at Dalian University of Technology in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.880698
+date: 2026-10-11T02:32:59.908216
 url: "/cdr-researcher-census/researchers/yongqiang-xia-a5034247/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Coupling dynamics and feedback mechanisms between ecosystem service flows and socio-economic systems in the loess plateau** (2025)
-   11 citations · General CDR
+   17 citations · General CDR
 
 2. **Assessing spatial linkage of multiple ecosystem services in the Loess Plateau based on landscape types** (2026)
-   2 citations
+   3 citations
 
 ## External Profiles
 

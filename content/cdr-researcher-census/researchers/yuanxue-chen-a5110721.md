@@ -1,7 +1,7 @@
 ---
 title: "Yuanxue Chen"
 description: "Yuanxue Chen is a Senior Soil Carbon researcher at University of Electronic Science and Technology of China in CN. With 49 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.422098
+date: 2026-10-11T02:32:59.432196
 url: "/cdr-researcher-census/researchers/yuanxue-chen-a5110721/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial life‐history strategies mediate microbial carbon pump efficacy in response to N management depending on stoichiometry of microbial demand** (2024)
-   146 citations · Soil Carbon
+   150 citations · Soil Carbon
 
 2. **Long-term nitrogen application decreased mineral-associated organic carbon while increasing particulate organic carbon in purple soil in southwest China** (2024)
    15 citations · Soil Carbon
 
 3. **Organic Amendments Drive Soil Organic Carbon Sequestration and Crop Growth via Microorganisms and Aggregates** (2025)
-   8 citations · Biochar
+   9 citations · Biochar
 
 ## External Profiles
 

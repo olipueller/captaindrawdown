@@ -1,7 +1,7 @@
 ---
 title: "Yufu Jia"
 description: "Yufu Jia is a Mid-career Soil Carbon researcher at Beijing Botanical Garden in CN. With 36 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.235764
+date: 2026-10-11T02:32:59.239212
 url: "/cdr-researcher-census/researchers/yufu-jia-a5063382/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    57 citations · Soil Carbon
 
 3. **Fast Decomposition of Nitrogen‐Rich Mineral‐Associated Organic Matter in Soils** (2025)
-   22 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 4. **Microbial necromass accrual from newly added labile and native soil carbon in the rhizosphere vs. non-rhizosphere of broadleaved and coniferous trees** (2024)
-   12 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 ## External Profiles
 

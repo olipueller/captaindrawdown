@@ -1,7 +1,7 @@
 ---
 title: "Zoushuang Li"
-description: "Zoushuang Li is a Mid-career DAC researcher at Argonne National Laboratory in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.175020
+description: "Zoushuang Li is a Mid-career DAC researcher at Argonne National Laboratory in US. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:33:00.192126
 url: "/cdr-researcher-census/researchers/zoushuang-li-a5036451/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 143 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| Citations | 146 |
+| Publications | 17 |
+| CDR Focus | 5.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

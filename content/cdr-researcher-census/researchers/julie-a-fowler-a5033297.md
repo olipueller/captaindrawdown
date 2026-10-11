@@ -1,7 +1,7 @@
 ---
 title: "Julie A. Fowler"
 description: "Julie A. Fowler is a Mid-career Soil Carbon researcher at Colorado State University in US. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.740471
+date: 2026-10-11T02:32:59.762734
 url: "/cdr-researcher-census/researchers/julie-a-fowler-a5033297/"
 layout: "researcher"
 hiddenInHomeList: true

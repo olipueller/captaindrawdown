@@ -1,7 +1,7 @@
 ---
 title: "Sergio Sammarchi"
 description: "Sergio Sammarchi is a Mid-career BECCS researcher at Hong Kong University of Science and Technology in HK. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.189757
+date: 2026-10-11T02:33:00.219912
 url: "/cdr-researcher-census/researchers/sergio-sammarchi-a5049995/"
 layout: "researcher"
 hiddenInHomeList: true

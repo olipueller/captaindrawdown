@@ -1,7 +1,7 @@
 ---
 title: "S. M. Shamsuzzaman"
 description: "S. M. Shamsuzzaman is a Mid-career Biochar researcher at Bangladesh Institute of Development Studies in BD. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.016012
+date: 2026-10-11T02:33:00.046850
 url: "/cdr-researcher-census/researchers/s-m-shamsuzzaman-a5057106/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    45 citations · Biochar
 
 2. **Changes in Acidic Soil Chemical Properties and Carbon Dioxide Emission Due to Biochar and Lime Treatments** (2021)
-   36 citations · Biochar
+   37 citations · Biochar
 
 ## External Profiles
 

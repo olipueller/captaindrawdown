@@ -1,7 +1,7 @@
 ---
 title: "Yizhu Wu"
 description: "Yizhu Wu is a Mid-career Soil Carbon researcher at South China Agricultural University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.247383
+date: 2026-10-11T02:33:00.277383
 url: "/cdr-researcher-census/researchers/yizhu-wu-a5038313/"
 layout: "researcher"
 hiddenInHomeList: true

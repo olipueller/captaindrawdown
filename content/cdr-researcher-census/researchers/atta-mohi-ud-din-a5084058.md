@@ -1,7 +1,7 @@
 ---
 title: "Atta Mohi Ud Din"
 description: "Atta Mohi Ud Din is a Senior Soil Carbon researcher at Islamia University of Bahawalpur in PK. With 43 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.241601
+date: 2026-10-11T02:32:59.245184
 url: "/cdr-researcher-census/researchers/atta-mohi-ud-din-a5084058/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic carbon sequestration and modeling under conservation tillage and cropping systems in a rainfed agriculture** (2023)
-   48 citations · Soil Carbon
+   47 citations · Soil Carbon
 
 2. **Combined Effects of Reduced Tillage and Strip Intercropping on Soil Carbon Sequestration in Semi-Arid Environment** (2025)
    8 citations · Soil Carbon

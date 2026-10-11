@@ -1,7 +1,7 @@
 ---
 title: "Zhihang He"
 description: "Zhihang He is a Mid-career Soil Carbon researcher at Shenyang University of Technology in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.174327
+date: 2026-10-11T02:33:00.204554
 url: "/cdr-researcher-census/researchers/zhihang-he-a5030144/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiangbin Yao"
 description: "Xiangbin Yao is a Mid-career Soil Carbon researcher at South China Agricultural University in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.940101
+date: 2026-10-11T02:32:59.970516
 url: "/cdr-researcher-census/researchers/xiangbin-yao-a5035880/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A 40 % paddy surface soil organic carbon increase after 5-year no-tillage is linked with shifts in soil bacterial composition and functions** (2022)
-   36 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 2. **Effects of contrasting tillage managements on the vertical distribution of plant- and microbial-derived carbon in rice paddy** (2023)
    30 citations · Soil Carbon

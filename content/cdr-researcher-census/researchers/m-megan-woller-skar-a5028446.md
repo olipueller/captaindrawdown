@@ -1,7 +1,7 @@
 ---
 title: "M. Megan Woller-Skar"
 description: "M. Megan Woller-Skar is a Senior Soil Carbon researcher at Grand Valley State University in US. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.279887
+date: 2026-10-11T02:33:00.309944
 url: "/cdr-researcher-census/researchers/m-megan-woller-skar-a5028446/"
 layout: "researcher"
 hiddenInHomeList: true

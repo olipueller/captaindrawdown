@@ -1,7 +1,7 @@
 ---
 title: "Éowyn Lucas"
 description: "Éowyn Lucas is a Mid-career General CDR researcher at California Institute of Technology in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.899514
+date: 2026-10-11T02:32:59.928754
 url: "/cdr-researcher-census/researchers/eowyn-lucas-a5086548/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,10 +50,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Top CDR Publications
 
-1. **Acid and base generation via an electrochemical hydrogen-looping cell tailored for carbon removal applications** (2024)
-   16 citations · General CDR
+1. **Analysis of bipolar membranes for electrochemical CO 2 capture from air and oceanwater** (2023)
+   100 citations · Ocean CDR
 
-2. **Exploring Bipolar Membranes for Electrochemical Carbon Capture** (2023)
+2. **Acid and base generation via an electrochemical hydrogen-looping cell tailored for carbon removal applications** (2024)
+   17 citations · General CDR
+
+3. **Exploring Bipolar Membranes for Electrochemical Carbon Capture** (2023)
    3 citations
 
 ## External Profiles

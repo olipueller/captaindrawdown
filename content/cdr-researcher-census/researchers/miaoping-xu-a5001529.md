@@ -1,7 +1,7 @@
 ---
 title: "Miaoping Xu"
 description: "Miaoping Xu is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 32 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.209023
+date: 2026-10-11T02:32:59.213203
 url: "/cdr-researcher-census/researchers/miaoping-xu-a5001529/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The contribution of microbial necromass carbon to soil organic carbon in soil aggregates** (2023)
-   44 citations · Soil Carbon
+   48 citations · Soil Carbon
 
 2. **Effect of forest thinning on soil organic carbon stocks from the perspective of carbon-degrading enzymes** (2022)
-   43 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 3. **A three-year record of CO2, CH4 and N2O emissions in maize fields influenced by mulching methods on the Loess Plateau, China** (2024)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 4. **[Changes in Soil Microbial Carbon-Degrading Enzymes and Their Relationships with Carbon Pool Components During the Restoration Process of <i>Robinia pseudoacacia</i>].** (2022)
    0 citations

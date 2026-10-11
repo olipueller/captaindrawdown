@@ -1,7 +1,7 @@
 ---
 title: "Fabio Turco"
 description: "Fabio Turco is an Early-career Soil Carbon researcher at ETH Zurich in CH. With 12 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.238409
+date: 2026-10-11T02:33:00.268536
 url: "/cdr-researcher-census/researchers/fabio-turco-a5111144/"
 layout: "researcher"
 hiddenInHomeList: true

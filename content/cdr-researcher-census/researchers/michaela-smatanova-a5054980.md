@@ -1,7 +1,7 @@
 ---
 title: "Michaela Smatanová"
 description: "Michaela Smatanová is a Senior Soil Carbon researcher at Central Institute for Supervising and Testing in Agriculture in CZ. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.625971
+date: 2026-10-11T02:32:59.644443
 url: "/cdr-researcher-census/researchers/michaela-smatanova-a5054980/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-Term Application of Organic Fertilizers in Relation to Soil Organic Matter Quality** (2023)
-   38 citations · Soil Carbon
+   40 citations · Soil Carbon
 
 2. **The Effect of Long-Term Farmyard Manure and Mineral Fertilizer Application on the Increase in Soil Organic Matter Quality of Cambisols** (2023)
-   9 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 3. **Long-Term Application of Manure and Different Mineral Fertilization in Relation to the Soil Organic Matter Quality of Luvisols** (2023)
    9 citations · Soil Carbon

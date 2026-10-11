@@ -1,7 +1,7 @@
 ---
 title: "Yixian Yao"
 description: "Yixian Yao is a Mid-career Biochar researcher at East China Normal University in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.992892
+date: 2026-10-11T02:33:00.023399
 url: "/cdr-researcher-census/researchers/yixian-yao-a5010242/"
 layout: "researcher"
 hiddenInHomeList: true

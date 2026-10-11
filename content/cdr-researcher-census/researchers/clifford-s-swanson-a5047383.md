@@ -1,7 +1,7 @@
 ---
 title: "Clifford S. Swanson"
 description: "Clifford S. Swanson is a Mid-career Soil Carbon researcher at Knoxville College in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.200363
+date: 2026-10-11T02:33:00.230449
 url: "/cdr-researcher-census/researchers/clifford-s-swanson-a5047383/"
 layout: "researcher"
 hiddenInHomeList: true

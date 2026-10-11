@@ -1,7 +1,7 @@
 ---
 title: "Yanbo Yang"
 description: "Yanbo Yang is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.829938
+date: 2026-10-11T02:32:59.856170
 url: "/cdr-researcher-census/researchers/yanbo-yang-a5036406/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Soil Carbon
 
 5. **SOC sequestration, N and P retention in mineral soils depend on arbuscular mycorrhizal tree dominance and soil microbial traits** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 6. **Soil functional carbon fraction accrual in temperate forests is linked to understory herbs, soil nutrients and microbial alterations** (2026)
    1 citations

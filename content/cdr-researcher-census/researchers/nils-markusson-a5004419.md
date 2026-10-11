@@ -1,7 +1,7 @@
 ---
 title: "Nils Markusson"
 description: "Nils Markusson is a Senior General CDR researcher at Lancaster University in GB. With 78 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.095988
+date: 2026-10-11T02:32:59.100530
 url: "/cdr-researcher-census/researchers/nils-markusson-a5004419/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,19 +45,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 24 |
 | Citations | 2,659 |
 | Publications | 78 |
-| CDR Focus | 11.5% |
+| CDR Focus | 12.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Why residual emissions matter right now** (2023)
-   189 citations · General CDR
+   188 citations · General CDR
 
 2. **Is carbon removal delaying emission reductions?** (2023)
    124 citations · General CDR
 
 3. **Net zero and the unexplored politics of residual emissions** (2023)
-   71 citations · General CDR
+   68 citations · General CDR
 
 4. **Political obstacles to carbon capture and storage for carbon removal** (2024)
    15 citations · General CDR
@@ -69,16 +69,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    10 citations · General CDR
 
 7. **Little big: Sizing up the risk of mitigation deterrence from carbon removal** (2025)
-   4 citations · General CDR
+   6 citations · General CDR
 
 8. **Beyond ‘doing both’—framing carbon removal carefully** (2026)
-   3 citations · General CDR
+   5 citations · General CDR
 
-9. **Beyond 'doing both'-framing carbon removal carefully** (2026)
-   0 citations
-
-10. **Beyond ‘doing both’ : framing carbon removal carefully** (2026)
+9. **Mitigation deterrence in emissions trading schemes: Managing low quality demand for carbon removal** (2026)
    0 citations · General CDR
+
+10. **Beyond 'doing both'-framing carbon removal carefully** (2026)
+   0 citations
 
 ## External Profiles
 

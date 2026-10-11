@@ -1,7 +1,7 @@
 ---
 title: "Vaira Obuka"
 description: "Vaira Obuka is a Mid-career Biochar researcher at University of Latvia in LV. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.107938
+date: 2026-10-11T02:33:00.138715
 url: "/cdr-researcher-census/researchers/vaira-obuka-a5005547/"
 layout: "researcher"
 hiddenInHomeList: true

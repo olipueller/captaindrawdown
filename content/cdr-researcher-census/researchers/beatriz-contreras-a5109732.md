@@ -1,7 +1,7 @@
 ---
 title: "Beatriz Contreras"
 description: "Beatriz Contreras is a Mid-career General CDR researcher at Universidade Federal do Rio de Janeiro in BR. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.142999
+date: 2026-10-11T02:33:00.173238
 url: "/cdr-researcher-census/researchers/beatriz-contreras-a5109732/"
 layout: "researcher"
 hiddenInHomeList: true

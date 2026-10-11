@@ -1,7 +1,7 @@
 ---
 title: "Gang Tang"
 description: "Gang Tang is a Senior General CDR researcher at The University of Melbourne in AU. With 39 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.478809
+date: 2026-10-11T02:32:59.490212
 url: "/cdr-researcher-census/researchers/gang-tang-a5050677/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Synthesizing global carbon–nitrogen coupling effects – the MAGICC coupled carbon–nitrogen cycle model v1.0** (2025)
-   3 citations · General CDR
+   5 citations · General CDR
 
 2. **Coupled Carbon-Nitrogen Cycle in MAGICC v1.0.0: Model Description and Calibration** (2024)
    2 citations · General CDR

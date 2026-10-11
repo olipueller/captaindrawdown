@@ -1,7 +1,7 @@
 ---
 title: "Maija J. Raudsepp"
 description: "Maija J. Raudsepp is a Senior Enhanced Weathering researcher at University of Alberta in CA. With 53 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.505781
+date: 2026-10-11T02:32:59.518573
 url: "/cdr-researcher-census/researchers/maija-j-raudsepp-a5078428/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Unlocking the potential of hydraulic fracturing flowback and produced water for CO2 removal via mineral carbonation** (2022)
-   29 citations · DAC
+   32 citations · DAC
 
 2. **The fate of CO2, Ca, and Mg after terrestrial rock weathering** (2025)
    2 citations · Enhanced Weathering

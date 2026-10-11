@@ -1,7 +1,7 @@
 ---
 title: "Dana Ram Palsaniya"
 description: "Dana Ram Palsaniya is a Mid-career Soil Carbon researcher at Indian Grassland and Fodder Research Institute in IN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.061716
+date: 2026-10-11T02:33:00.091715
 url: "/cdr-researcher-census/researchers/dana-ram-palsaniya-a5104085/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    6 citations · Soil Carbon
 
 2. **Application of Invasive Weed Biochar as Soil Amendment Improves Soil Organic Carbon Fractions and Yield of Fodder Oat in a Semi-Arid Region** (2024)
-   2 citations · Biochar
+   3 citations · Biochar
 
 ## External Profiles
 

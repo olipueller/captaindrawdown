@@ -1,7 +1,7 @@
 ---
 title: "Miyako Kato"
 description: "Miyako Kato is a Senior DAC researcher at Mizuho (Japan) in JP. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.339488
+date: 2026-10-11T02:32:59.345342
 url: "/cdr-researcher-census/researchers/miyako-kato-a5109946/"
 layout: "researcher"
 hiddenInHomeList: true

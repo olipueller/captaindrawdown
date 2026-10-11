@@ -1,7 +1,7 @@
 ---
 title: "Anna Kühnel"
 description: "Anna Kühnel is a Senior Soil Carbon researcher at Technical University of Munich in DE. With 66 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.093032
+date: 2026-10-11T02:32:59.097574
 url: "/cdr-researcher-census/researchers/anna-kuhnel-a5089084/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic carbon sequestration in temperate agroforestry systems – A meta-analysis** (2021)
-   184 citations · Soil Carbon
+   182 citations · Soil Carbon
 
 2. **Soil carbon sequestration by agroforestry systems in China: A meta-analysis** (2021)
    88 citations · General CDR
 
 3. **From waste to soil: Can we create functioning manufactured soils by recycling rock processing waste?** (2024)
-   8 citations · Enhanced Weathering
+   10 citations · Enhanced Weathering
 
 4. **Can we improve soil properties and plant biomass using rock powder as soil amendment?** (2021)
-   2 citations · Enhanced Weathering
+   1 citations · Enhanced Weathering
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Satyajit M. Deshmukh"
 description: "Satyajit M. Deshmukh is a Mid-career Biochar researcher at University of Mumbai in IN. With 21 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.705634
+date: 2026-10-11T02:32:59.726063
 url: "/cdr-researcher-census/researchers/satyajit-m-deshmukh-a5039839/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Review on removal of heavy metals from industrial effluents by adsorption** (2024)
-   19 citations
+   23 citations
 
 2. **A review of carbon-based adsorbents for the removal of organic and inorganic components** (2024)
    17 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Aline Romero-Natale"
 description: "Aline Romero-Natale is a Mid-career Soil Carbon researcher at Universidad Autónoma del Estado de Hidalgo in MX. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.382704
+date: 2026-10-11T02:33:00.418641
 url: "/cdr-researcher-census/researchers/aline-romero-natale-a5048438/"
 layout: "researcher"
 hiddenInHomeList: true

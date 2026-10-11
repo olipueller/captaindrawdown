@@ -1,7 +1,7 @@
 ---
 title: "Xingshuai Tian"
 description: "Xingshuai Tian is a Mid-career Soil Carbon researcher at China Agricultural University in CN. With 38 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.335100
+date: 2026-10-11T02:32:59.340906
 url: "/cdr-researcher-census/researchers/xingshuai-tian-a5023272/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Underestimated sequestration of soil organic carbon in China** (2025)
-   25 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 2. **Pursuing zero net greenhouse gas emission in crop production in China** (2025)
    2 citations · General CDR

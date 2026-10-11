@@ -1,7 +1,7 @@
 ---
 title: "Liping Zhang"
 description: "Liping Zhang is a Senior Biochar researcher at Hebei Academy of Sciences in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.308749
+date: 2026-10-11T02:33:00.339590
 url: "/cdr-researcher-census/researchers/liping-zhang-a5100426/"
 layout: "researcher"
 hiddenInHomeList: true

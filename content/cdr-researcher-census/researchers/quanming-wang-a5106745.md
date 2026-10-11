@@ -1,7 +1,7 @@
 ---
 title: "Quanming Wang"
 description: "Quanming Wang is a Senior Ocean CDR researcher at Ministry of Ecology and Environment in CN. With 53 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.718546
+date: 2026-10-11T02:32:59.739566
 url: "/cdr-researcher-census/researchers/quanming-wang-a5106745/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Estimation of blue carbon stock in the Liaohe Estuary wetland based on soil thickness and multi-scenario modeling** (2025)
-   11 citations · General CDR
+   12 citations · General CDR
 
 2. **Classification of Wetlands in the Liaohe Estuary Based on MRMR-RF-CV Feature Preference of Multisource Remote Sensing Images** (2025)
-   9 citations · General CDR
+   12 citations · General CDR
 
 3. **Distribution of habitat suitability for Suaeda salsa in the Liaohe River Estuary and its relationship with carbon storage** (2024)
    8 citations · Soil Carbon

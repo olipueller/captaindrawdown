@@ -1,7 +1,7 @@
 ---
 title: "Gandhiv Kafle"
 description: "Gandhiv Kafle is a Senior Soil Carbon researcher at Agriculture and Forestry University in NP. With 46 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.613499
+date: 2026-10-11T02:32:59.630889
 url: "/cdr-researcher-census/researchers/gandhiv-kafle-a5082244/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Landscape‐Level Assessment of Topographic Influences on Organic Carbon Storage in Forests of Far Western Nepal** (2025)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 2. **Assessing Carbon Sequestration in Agroforestry Systems in Churiya Range of Nepal** (2025)
    4 citations · General CDR
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Soil Carbon
 
 4. **Soil organic carbon and nutrient status in forest and agroforestry lands in tropical region of Nepal** (2023)
-   1 citations · General CDR
+   2 citations · General CDR
 
 5. **Soil Carbon and Nutrient Status Under Different Vegetation Types in a Mountain Watershed of Nepal** (2026)
    0 citations · Soil Carbon

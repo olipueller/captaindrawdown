@@ -1,7 +1,7 @@
 ---
 title: "Nishant K. Sinha"
 description: "Nishant K. Sinha is a Senior Soil Carbon researcher at ICAR- Indian Institute of Soil Science in IN. With 164 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.078251
+date: 2026-10-11T02:32:59.083045
 url: "/cdr-researcher-census/researchers/nishant-k-sinha-a5010646/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,11 +56,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **Regional soil organic carbon prediction models based on a multivariate analysis of the Mid-infrared hyperspectral data in the middle Indo-Gangetic plains of India** (2022)
    14 citations · Soil Carbon
 
-3. **Conservation Agriculture for Carbon Sequestration and Mitigation of Climate Change** (2021)
-   8 citations · General CDR
+3. **Optimizing soil fertility and climate resilience: Superiority of organic farming in enhancing carbon sequestration and nitrogen supply** (2025)
+   8 citations · Soil Carbon
 
-4. **Optimizing soil fertility and climate resilience: Superiority of organic farming in enhancing carbon sequestration and nitrogen supply** (2025)
-   7 citations · Soil Carbon
+4. **Conservation Agriculture for Carbon Sequestration and Mitigation of Climate Change** (2021)
+   8 citations · General CDR
 
 5. **Soil Carbon Sequestration Through Conservation Tillage and Residue Management** (2021)
    5 citations · Soil Carbon
@@ -68,13 +68,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 6. **Conservation Agriculture: Issues, Prospects, and Challenges in Rainfed Regions of India** (2021)
    3 citations · Soil Carbon
 
-7. **Effects of tillage intensity and crop diversification on soil bulk density and organic carbon in a vertisol of central India** (2024)
+7. **Carbon sequestration and sustainable land management through temperate fruit orchards in Himalayan landscapes: implications for climate-resilient agroecosystems** (2026)
+   0 citations
+
+8. **Effects of tillage intensity and crop diversification on soil bulk density and organic carbon in a vertisol of central India** (2024)
    0 citations · Soil Carbon
 
-8. **Contrasting effects of long term dominant agricultural land use types on carbon and nitrogen dynamics in Vertisols of Central India** (2025)
+9. **Contrasting effects of long term dominant agricultural land use types on carbon and nitrogen dynamics in Vertisols of Central India** (2025)
    0 citations · Soil Carbon
 
-9. **Impact of Tillage, Residue and Nutrient on Soil Active Carbon, Nitrogen and Crop Yields in a Soybean-Wheat Rotation in Vertisols of Central India** (2024)
+10. **Impact of Tillage, Residue and Nutrient on Soil Active Carbon, Nitrogen and Crop Yields in a Soybean-Wheat Rotation in Vertisols of Central India** (2024)
    0 citations · Soil Carbon
 
 ## External Profiles

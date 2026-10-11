@@ -1,7 +1,7 @@
 ---
 title: "Emanuele Mancosu"
 description: "Emanuele Mancosu is a Mid-career Soil Carbon researcher at Universidad de Málaga in ES. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.224472
+date: 2026-10-11T02:33:00.254969
 url: "/cdr-researcher-census/researchers/emanuele-mancosu-a5061263/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Impact of Soil Sealing on Soil Carbon Sequestration, Water Storage Potentials and Biomass Productivity in Functional Urban Areas of the European Union and the United Kingdom** (2022)
-   19 citations · General CDR
+   21 citations · General CDR
 
 ## External Profiles
 

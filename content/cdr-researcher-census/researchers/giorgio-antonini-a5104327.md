@@ -1,7 +1,7 @@
 ---
 title: "Giorgio Antonini"
 description: "Giorgio Antonini is a Mid-career BECCS researcher. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.979884
+date: 2026-10-11T02:33:00.011314
 url: "/cdr-researcher-census/researchers/giorgio-antonini-a5104327/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Comparative techno-environmental analysis of grey, blue, green/yellow and pale-blue hydrogen production** (2025)
-   93 citations · BECCS
+   105 citations · BECCS
 
 ## External Profiles
 

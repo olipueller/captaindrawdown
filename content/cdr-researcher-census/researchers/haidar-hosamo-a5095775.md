@@ -1,7 +1,7 @@
 ---
 title: "Haidar Hosamo"
 description: "Haidar Hosamo is a Mid-career General CDR researcher at OsloMet – Oslo Metropolitan University in NO. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.945341
+date: 2026-10-11T02:32:59.975433
 url: "/cdr-researcher-census/researchers/haidar-hosamo-a5095775/"
 layout: "researcher"
 hiddenInHomeList: true

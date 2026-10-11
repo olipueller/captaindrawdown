@@ -1,7 +1,7 @@
 ---
 title: "Isabela Butnar"
 description: "Isabela Butnar is a Senior General CDR researcher at University College, London in GB. With 104 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.131064
+date: 2026-10-11T02:32:59.135911
 url: "/cdr-researcher-census/researchers/isabela-butnar-a5058440/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    12 citations · BECCS
 
 2. **A Review of Life Cycle Assessment Methods to Inform the Scale‐Up of Carbon Dioxide Removal Interventions** (2024)
-   8 citations · General CDR
+   9 citations · General CDR
 
 3. **Economic feasibility of low-carbon ethylene, propylene and jet fuel production** (2025)
-   6 citations · General CDR
+   7 citations · General CDR
 
 4. **Accounting for non-equivalence of carbon emissions and removals in meeting national net zero emissions targets in the United Kingdom** (2026)
    0 citations

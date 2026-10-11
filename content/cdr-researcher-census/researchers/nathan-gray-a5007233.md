@@ -1,7 +1,7 @@
 ---
 title: "Nathan Gray"
 description: "Nathan Gray is a Mid-career DAC researcher at Pacific Northwest National Laboratory in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.364481
+date: 2026-10-11T02:32:59.371749
 url: "/cdr-researcher-census/researchers/nathan-gray-a5007233/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **The role of direct air carbon capture in decarbonising aviation** (2024)
-   23 citations · DAC
+   27 citations · DAC
+
+2. **Assessing biogenic carbon dioxide resource for synthetic e-fuel production to decarbonise shipping** (2026)
+   0 citations · DAC
 
 ## External Profiles
 

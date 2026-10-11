@@ -1,7 +1,7 @@
 ---
 title: "Wanderlei Bieluczyk"
 description: "Wanderlei Bieluczyk is a Senior Soil Carbon researcher at Universidade Federal de São Carlos in BR. With 55 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.428894
+date: 2026-10-11T02:32:59.439042
 url: "/cdr-researcher-census/researchers/wanderlei-bieluczyk-a5036147/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    40 citations · General CDR
 
 2. **Greenhouse gas fluxes in brazilian climate-smart agricultural and livestock systems: A systematic and critical overview** (2024)
-   25 citations · General CDR
+   27 citations · General CDR
 
 3. **Fine root production and decomposition of integrated plants under intensified farming systems in Brazil** (2024)
    6 citations · Soil Carbon

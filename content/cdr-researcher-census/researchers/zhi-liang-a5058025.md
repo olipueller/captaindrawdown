@@ -1,7 +1,7 @@
 ---
 title: "Zhi Liang"
 description: "Zhi Liang is a Senior Soil Carbon researcher at Aarhus University in DK. With 99 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.181648
+date: 2026-10-11T02:32:59.185767
 url: "/cdr-researcher-census/researchers/zhi-liang-a5058025/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Priming effects decrease with the quantity of cover crop residues – Potential implications for soil carbon sequestration** (2023)
-   67 citations · Soil Carbon
+   69 citations · Soil Carbon
 
 2. **Root litter quality drives the dynamic of native mineral-associated organic carbon in a temperate agricultural soil** (2023)
-   30 citations
+   32 citations
 
 3. **Efficiency of Plant Biomass Processing Pathways for Long‐Term Soil Carbon Storage** (2025)
    9 citations · General CDR
 
 4. **Ten-year effects of perennial cropping systems on soil organic carbon stock and stability in sandy soils: Mechanisms and biochemical drivers** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 5. **Microbial and plant-derived carbon contributions to particulate and mineral-associated organic carbon in perennial and annual cropping systems** (2026)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 6. **Nitrogen sustainability and soil carbon sequestration in fresh grain legume-based rotations: The vital role of the cover crop mixture** (2026)
    2 citations · Soil Carbon

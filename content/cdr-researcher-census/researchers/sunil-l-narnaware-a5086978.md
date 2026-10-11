@@ -1,7 +1,7 @@
 ---
 title: "Sunil L. Narnaware"
 description: "Sunil L. Narnaware is a Mid-career BECCS researcher at Central Agricultural University in IN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.600042
+date: 2026-10-11T02:32:59.616983
 url: "/cdr-researcher-census/researchers/sunil-l-narnaware-a5086978/"
 layout: "researcher"
 hiddenInHomeList: true

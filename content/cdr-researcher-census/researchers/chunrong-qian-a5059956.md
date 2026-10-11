@@ -1,7 +1,7 @@
 ---
 title: "Chunrong Qian"
 description: "Chunrong Qian is a Senior Soil Carbon researcher at Army Medical University in CN. With 44 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.200572
+date: 2026-10-11T02:32:59.204556
 url: "/cdr-researcher-census/researchers/chunrong-qian-a5059956/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Climate-smart agriculture practice promotes sustainable maize production in northeastern China: Higher grain yield while less carbon footprint** (2023)
-   31 citations · General CDR
+   33 citations · General CDR
 
 2. **Effects of depth of straw returning on maize yield potential and greenhouse gas emissions** (2024)
    18 citations · Soil Carbon
 
 3. **Divergent responses of soil particulate and mineral-associated organic carbon to climate gradients in managed croplands of Northeast China** (2026)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

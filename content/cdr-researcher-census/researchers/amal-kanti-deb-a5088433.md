@@ -1,7 +1,7 @@
 ---
 title: "Amal Kanti Deb"
 description: "Amal Kanti Deb is a Mid-career Biochar researcher at University of Dhaka in BD. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.600331
+date: 2026-10-11T02:32:59.617305
 url: "/cdr-researcher-census/researchers/amal-kanti-deb-a5088433/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Magnetically separable mesoporous alginate polymer beads assist adequate removal of aqueous methylene blue over broad solution pH** (2021)
-   47 citations
+   48 citations
 
 2. **Comparative immobilization of 30 PFAS mixtures onto biochar, clay, nanoparticle, and polymer derived engineered adsorbents: Machine learning insights into carbon chain length and removal mechanism** (2025)
-   23 citations · Biochar
+   25 citations · Biochar
 
 3. **Metal organic frameworks (MOFs) and functionalized MOF derivatives for PFAS remediation from water: synthesis strategies, removal performance, and mechanisms** (2026)
    0 citations · Biochar

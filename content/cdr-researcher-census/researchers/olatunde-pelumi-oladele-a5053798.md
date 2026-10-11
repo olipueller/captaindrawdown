@@ -1,7 +1,7 @@
 ---
 title: "Olatunde Pelumi Oladele"
 description: "Olatunde Pelumi Oladele is a Mid-career Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.006950
+date: 2026-10-11T02:33:00.038085
 url: "/cdr-researcher-census/researchers/olatunde-pelumi-oladele-a5053798/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Management‐induced changes in soil organic carbon and related crop yield dynamics in China's cropland** (2023)
-   106 citations · Soil Carbon
+   109 citations · Soil Carbon
 
 2. **Conservation tillage increases surface soil organic carbon stock by altering fungal communities and enzyme activity** (2023)
    25 citations · Soil Carbon
@@ -59,10 +59,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Unraveling carbon mineralization patterns and mechanisms in conservation agriculture: A global synthesis and multi-point experiment** (2025)
    5 citations · Soil Carbon
 
-4. **A 13C-PLFA approach to assess the crop carbon allocation efficiency and arbuscular mycorrhizal assimilation capacity under conservation tillage** (2025)
-   0 citations · Soil Carbon
+4. **Legume-cereal intercropping effects on soil carbon and microbes: A systematic review** (2024)
+   1 citations · Soil Carbon
 
-5. **Legume-cereal intercropping effects on soil carbon and microbes: A systematic review** (2024)
+5. **A 13C-PLFA approach to assess the crop carbon allocation efficiency and arbuscular mycorrhizal assimilation capacity under conservation tillage** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Abbas Abdullah Ajlan"
 description: "Abbas Abdullah Ajlan is a Mid-career Biochar researcher at Taiz University in YE. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.446884
+date: 2026-10-11T02:32:59.457535
 url: "/cdr-researcher-census/researchers/abbas-abdullah-ajlan-a5070433/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar for agronomy, animal farming, anaerobic digestion, composting, water treatment, soil remediation, construction, energy storage, and carbon sequestration: a review** (2022)
-   504 citations · Biochar
+   511 citations · Biochar
 
 ## External Profiles
 

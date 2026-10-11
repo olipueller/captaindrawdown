@@ -1,7 +1,7 @@
 ---
 title: "Junge Hyun"
 description: "Junge Hyun is a Mid-career Soil Carbon researcher at Kyung Hee University in KR. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.096068
+date: 2026-10-11T02:33:00.126745
 url: "/cdr-researcher-census/researchers/junge-hyun-a5063948/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Vulnerability of soil organic carbon in artificially constructed urban green spaces: Linking soil organic carbon physical fractions, microbial dynamics, and soil properties** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 2. **Beyond Total C: Integrative Analysis of Carbon Forms in Urban Soils** (2025)
-   1 citations · General CDR
+   2 citations · General CDR
 
 3. **The urban green carbon index (UGCI): A spatial framework for suggesting urban carbon management** (2026)
    0 citations

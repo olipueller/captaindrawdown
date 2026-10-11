@@ -1,7 +1,7 @@
 ---
 title: "Jonathan G.M. Lee"
 description: "Jonathan G.M. Lee is a Senior BECCS researcher at Newcastle University in GB. With 51 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.178873
+date: 2026-10-11T02:32:59.182939
 url: "/cdr-researcher-census/researchers/jonathan-gm-lee-a5028121/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    19 citations · General CDR
 
 3. **Pilot-scale demonstration and practical challenges of bioenergy with CCS (BECCS) using rotating packed bed** (2025)
-   3 citations · BECCS
+   4 citations · BECCS
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Maegen Simmonds"
 description: "Maegen Simmonds is a Mid-career Soil Carbon researcher at Lawrence Berkeley National Laboratory in US. With 33 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.622407
+date: 2026-10-11T02:32:59.640248
 url: "/cdr-researcher-census/researchers/maegen-simmonds-a5066763/"
 layout: "researcher"
 hiddenInHomeList: true

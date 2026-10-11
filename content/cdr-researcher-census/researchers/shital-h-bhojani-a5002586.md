@@ -1,7 +1,7 @@
 ---
 title: "Shital H. Bhojani"
 description: "Shital H. Bhojani is a Mid-career Soil Carbon researcher at Anand Agricultural University in IN. With 8 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.199117
+date: 2026-10-11T02:33:00.229343
 url: "/cdr-researcher-census/researchers/shital-h-bhojani-a5002586/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **The Economics of Carbon Sequestration and Climate Change Mitigation Potential of Different Soil Management Practices** (2025)
-   1 citations · General CDR
+1. **Biochar: A Sustainable Solution for Soil Health and Climate Change Mitigation** (2025)
+   2 citations · Biochar
 
-2. **Biochar: A Sustainable Solution for Soil Health and Climate Change Mitigation** (2025)
-   0 citations · Biochar
+2. **The Economics of Carbon Sequestration and Climate Change Mitigation Potential of Different Soil Management Practices** (2025)
+   1 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Lianghan Cong"
 description: "Lianghan Cong is a Mid-career Enhanced Weathering researcher at University of Vaasa in FI. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.287695
+date: 2026-10-11T02:33:00.317776
 url: "/cdr-researcher-census/researchers/lianghan-cong-a5108997/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **CO₂ sequestration and soil improvement in enhanced rock weathering: A review from an experimental perspective** (2024)
-   20 citations · Enhanced Weathering
+   21 citations · Enhanced Weathering
 
 2. **Harnessing enhanced rock weathering for carbon neutrality: potential and challenges in China** (2025)
-   8 citations · Enhanced Weathering
+   10 citations · Enhanced Weathering
 
 3. **Basalt mineralization with soda saline soil for enhanced CO₂ sequestration: An experimental study** (2025)
    3 citations · Enhanced Weathering

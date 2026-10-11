@@ -1,7 +1,7 @@
 ---
 title: "Elina Brutschin"
 description: "Elina Brutschin is a Senior General CDR researcher at International Institute for Applied Systems Analysis in AT. With 73 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.113506
+date: 2026-10-11T02:32:59.118158
 url: "/cdr-researcher-census/researchers/elina-brutschin-a5005798/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,39 +45,39 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 21 |
 | Citations | 2,229 |
 | Publications | 73 |
-| CDR Focus | 16.4% |
-| Trajectory | Stable |
+| CDR Focus | 19.2% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Global fossil fuel reduction pathways under different climate mitigation strategies and ambitions** (2023)
-   425 citations · General CDR
+   445 citations · General CDR
 
 2. **A prudent planetary limit for geologic carbon storage** (2025)
-   79 citations · General CDR
+   85 citations · General CDR
 
 3. **Fairness and feasibility in deep mitigation pathways with novel carbon dioxide removal considering institutional capacity to mitigate** (2023)
-   36 citations · DAC
+   39 citations · DAC
 
 4. **Secure robust carbon dioxide removal policy through credible certification** (2023)
-   35 citations · General CDR
+   34 citations · General CDR
 
 5. **Drivers and attitudes of public support for technological solutions to climate change in 30 countries** (2024)
-   17 citations · General CDR
+   19 citations · General CDR
 
 6. **Taking stock of carbon dioxide removal policy in emerging economies: developments in Brazil, China, and India** (2024)
-   15 citations · General CDR
+   18 citations · General CDR
 
 7. **A new hope or phantom menace? Exploring climate emotions and public support for climate interventions across 30 countries** (2025)
-   10 citations · General CDR
+   11 citations · General CDR
 
 8. **Fairness and feasibility in deep mitigation pathways with novel carbon dioxide removal considering institutional capacity to mitigate** (2023)
    3 citations
 
-9. **Mapping conflicts in carbon removal narratives** (2026)
-   0 citations · General CDR
+9. **Broader CO2 Removal Portfolios Expand What Is Achievable but Cannot Substitute for Strong Emissions Reductions** (2026)
+   0 citations
 
-10. **Equitable cooperation deepens the solution space for high ambition pathways** (2026)
+10. **Mapping conflicts in carbon removal narratives** (2026)
    0 citations · General CDR
 
 ## External Profiles

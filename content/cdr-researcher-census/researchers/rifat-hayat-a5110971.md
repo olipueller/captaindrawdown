@@ -1,7 +1,7 @@
 ---
 title: "Rifat Hayat"
 description: "Rifat Hayat is a Senior Soil Carbon researcher at Pir Mehr Ali Shah Arid Agriculture University in PK. With 79 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.054164
+date: 2026-10-11T02:32:59.058404
 url: "/cdr-researcher-census/researchers/rifat-hayat-a5110971/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Physio-Chemical Characterization of Biochar, Compost and Co-Composted Biochar Derived from Green Waste** (2021)
-   105 citations · Biochar
+   104 citations · Biochar
 
 2. **Biofertilizers in sustainable agriculture: mechanisms, applications, and future prospects** (2025)
-   46 citations · Soil Carbon
+   55 citations · Soil Carbon
 
 3. **Soil carbon and legumes** (2022)
    5 citations · Soil Carbon

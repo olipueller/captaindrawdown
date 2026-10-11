@@ -1,7 +1,7 @@
 ---
 title: "Raíssa de Araujo Dantas"
 description: "Raíssa de Araujo Dantas is a Mid-career Soil Carbon researcher at Brazilian Agricultural Research Corporation in BR. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.359019
+date: 2026-10-11T02:33:00.393780
 url: "/cdr-researcher-census/researchers/raissa-de-araujo-dantas-a5043834/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Junkang Guo"
 description: "Junkang Guo is an Eminent Biochar researcher at Xi'an Jiaotong University in CN. With 123 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.058601
+date: 2026-10-11T02:32:59.062930
 url: "/cdr-researcher-census/researchers/junkang-guo-a5110599/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Programmable synthesis of exfoliated biochar nanosheets for selective and highly efficient adsorption of thallium** (2022)
-   52 citations · Biochar
+   53 citations · Biochar
 
 2. **Scalable interlinked hierarchical porous biochar-nanosheets for efficient removal of thallium from aquatic environment** (2025)
-   10 citations · Biochar
+   11 citations · Biochar
 
 3. **Divergent pathways of shaping soil organic carbon accumulation in a riparian wetland modulated by vegetation type and microbial‑iron coupling** (2025)
    4 citations · Soil Carbon
 
-4. **Programmable Synthesis of Exfoliated Biochar NanoSheets for Selective and Highly Efficient Adsorption of Thallium** (2021)
+4. **Hierarchical porous biochar with Fe/Zn co-activation derived from orange waste: enhanced methylene blue adsorption and mechanistic insights** (2026)
    2 citations · Biochar
 
-5. **Hierarchical porous biochar with Fe/Zn co-activation derived from orange waste: enhanced methylene blue adsorption and mechanistic insights** (2026)
-   1 citations · Biochar
+5. **Programmable Synthesis of Exfoliated Biochar NanoSheets for Selective and Highly Efficient Adsorption of Thallium** (2021)
+   2 citations · Biochar
 
 6. **Effects of Manganese Oxide Amendments On Greenhouse Gas Emissions and the Methanogenic Archaeal Community in Paddy Soil** (2025)
    0 citations · Soil Carbon

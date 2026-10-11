@@ -1,7 +1,7 @@
 ---
 title: "Yang Liu"
 description: "Yang Liu is a Mid-career Soil Carbon researcher at Shanghai Institute of Quality Inspection and Technical Research in CN. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.835430
+date: 2026-10-11T02:32:59.861709
 url: "/cdr-researcher-census/researchers/yang-liu-a5102595/"
 layout: "researcher"
 hiddenInHomeList: true

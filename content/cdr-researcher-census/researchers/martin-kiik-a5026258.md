@@ -1,7 +1,7 @@
 ---
 title: "Martin Kiik"
 description: "Martin Kiik is a Mid-career Soil Carbon researcher at King's College London in GB. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.638198
+date: 2026-10-11T02:32:59.656718
 url: "/cdr-researcher-census/researchers/martin-kiik-a5026258/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Towards a co‐crediting system for carbon and biodiversity** (2023)
-   23 citations · General CDR
+   24 citations · General CDR
 
 2. **Co-crediting system for carbon and biodiversity** (2022)
    1 citations · General CDR

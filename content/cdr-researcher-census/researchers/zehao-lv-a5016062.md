@@ -1,7 +1,7 @@
 ---
 title: "Zehao Lv"
 description: "Zehao Lv is a Mid-career Soil Carbon researcher at Wuhan University in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.076647
+date: 2026-10-11T02:33:00.107000
 url: "/cdr-researcher-census/researchers/zehao-lv-a5016062/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil Depth Matters: Divergent Drivers of Ecosystem Productivity in Alpine Ecosystems** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

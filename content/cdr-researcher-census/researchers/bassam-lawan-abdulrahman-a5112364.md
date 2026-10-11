@@ -1,7 +1,7 @@
 ---
 title: "Bassam Lawan Abdulrahman"
 description: "Bassam Lawan Abdulrahman is a Mid-career Biochar researcher at Bayero University Kano in NG. With 10 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.383383
+date: 2026-10-11T02:33:00.419419
 url: "/cdr-researcher-census/researchers/bassam-lawan-abdulrahman-a5112364/"
 layout: "researcher"
 hiddenInHomeList: true

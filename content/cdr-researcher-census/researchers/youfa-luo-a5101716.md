@@ -1,7 +1,7 @@
 ---
 title: "Youfa Luo"
 description: "Youfa Luo is a Mid-career Soil Carbon researcher at Guizhou University in CN. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.436263
+date: 2026-10-11T02:32:59.446565
 url: "/cdr-researcher-census/researchers/youfa-luo-a5101716/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Organic amendment application affects the release behaviour, bioavailability, and speciation of heavy metals in zinc smelting slag: Insight into dissolved organic matter** (2023)
-   45 citations · Soil Carbon
+   50 citations · Soil Carbon
 
 2. **Metagenomic insight into microbial regulation of nutrient cycling in amended bauxite residue under various planting strategies: Implications for soil formation** (2025)
-   3 citations
+   5 citations
 
 3. **Mechanistic insights into organic carbon fraction sequestration in eco-engineered bauxite residue: Roles of aggregate formation and Fe/Al oxide interactions** (2025)
-   2 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 4. **Microbial and mineral drivers of organic carbon sequestration in soilless revegetated zinc smelting slag site: Insights from a 12-year field study** (2025)
    0 citations · Soil Carbon

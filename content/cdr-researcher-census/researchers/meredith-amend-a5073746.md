@@ -1,7 +1,7 @@
 ---
 title: "Meredith Amend"
 description: "Meredith Amend is a Mid-career General CDR researcher. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.718201
+date: 2026-10-11T02:32:59.739208
 url: "/cdr-researcher-census/researchers/meredith-amend-a5073746/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Bordin Weerasuk"
 description: "Bordin Weerasuk is a Mid-career Biochar researcher. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.342002
+date: 2026-10-11T02:33:00.376725
 url: "/cdr-researcher-census/researchers/bordin-weerasuk-a5063441/"
 layout: "researcher"
 hiddenInHomeList: true

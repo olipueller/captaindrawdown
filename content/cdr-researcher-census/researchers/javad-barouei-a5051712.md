@@ -1,7 +1,7 @@
 ---
 title: "Javad Barouei"
 description: "Javad Barouei is a Senior Soil Carbon researcher at Prairie View A&M University in US. With 38 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.334715
+date: 2026-10-11T02:32:59.340502
 url: "/cdr-researcher-census/researchers/javad-barouei-a5051712/"
 layout: "researcher"
 hiddenInHomeList: true

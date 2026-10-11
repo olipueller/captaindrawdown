@@ -1,7 +1,7 @@
 ---
 title: "Yiqun Xu"
 description: "Yiqun Xu is a Mid-career Biochar researcher at Yangzhou University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.377686
+date: 2026-10-11T02:33:00.413139
 url: "/cdr-researcher-census/researchers/yiqun-xu-a5101519/"
 layout: "researcher"
 hiddenInHomeList: true

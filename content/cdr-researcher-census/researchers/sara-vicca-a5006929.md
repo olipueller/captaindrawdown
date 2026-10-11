@@ -1,7 +1,7 @@
 ---
 title: "Sara Vicca"
 description: "Sara Vicca is an Eminent Enhanced Weathering researcher at University of Antwerp in BE. With 244 publications and an h-index of 58, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.020920
+date: 2026-10-11T02:32:59.023904
 url: "/cdr-researcher-census/researchers/sara-vicca-a5006929/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,40 +45,40 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 58 |
 | Citations | 17,516 |
 | Publications | 244 |
-| CDR Focus | 23.8% |
+| CDR Focus | 24.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Potential CO2 removal from enhanced weathering by ecosystem responses to powdered rock** (2021)
-   199 citations · Enhanced Weathering
+   198 citations · Enhanced Weathering
 
 2. **Is the climate change mitigation effect of enhanced silicate weathering governed by biological processes?** (2021)
-   141 citations · Enhanced Weathering
+   133 citations · Enhanced Weathering
 
 3. **Enhanced Weathering Using Basalt Rock Powder: Carbon Sequestration, Co-benefits and Risks in a Mesocosm Study With Solanum tuberosum** (2022)
-   126 citations · Enhanced Weathering
+   128 citations · Enhanced Weathering
 
 4. **Soil properties as key predictors of global grassland production: Have we overlooked micronutrients?** (2021)
-   71 citations · Soil Carbon
+   70 citations · Soil Carbon
 
 5. **Enhanced silicate weathering accelerates forest carbon sequestration by stimulating the soil mineral carbon pump** (2024)
-   66 citations · Enhanced Weathering
+   67 citations · Enhanced Weathering
 
 6. **Can arbuscular mycorrhizal fungi speed up carbon sequestration by enhanced weathering?** (2021)
-   53 citations · Enhanced Weathering
+   55 citations · Enhanced Weathering
 
 7. **Exploring the synergy of enhanced weathering and <i>Bacillus subtilis</i>: A promising strategy for sustainable agriculture** (2024)
-   27 citations · Enhanced Weathering
+   26 citations · Enhanced Weathering
 
 8. **Earthworms in an enhanced weathering mesocosm experiment: Effects on soil carbon sequestration, base cation exchange and soil CO2 efflux** (2024)
-   24 citations · Enhanced Weathering
+   25 citations · Enhanced Weathering
 
-9. **Organic carbon source controlled microbial olivine dissolution in small-scale flow-through bioreactors, for CO2 removal** (2024)
-   18 citations · Enhanced Weathering
+9. **Beyond Inorganic C: Soil Organic C as a Key Pathway for Carbon Sequestration in Enhanced Weathering** (2025)
+   20 citations · Enhanced Weathering
 
 10. **Negative erosion and negative emissions: Combining multiple land-based carbon dioxide removal techniques to rebuild fertile topsoils and enhance food production** (2022)
-   16 citations · General CDR
+   17 citations · General CDR
 
 ## External Profiles
 

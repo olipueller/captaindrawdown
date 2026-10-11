@@ -1,7 +1,7 @@
 ---
 title: "Yulin Liu"
 description: "Yulin Liu is a Senior Soil Carbon researcher at Shanxi Agricultural University in CN. With 61 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.135989
+date: 2026-10-11T02:32:59.140573
 url: "/cdr-researcher-census/researchers/yulin-liu-a5100343/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Driving factors of ecosystem services and their spatiotemporal change assessment based on land use types in the Loess Plateau** (2022)
-   232 citations · General CDR
+   235 citations · General CDR
 
 2. **Carbon stabilization pathways in soil aggregates during long-term forest succession: Implications from δ13C signatures** (2023)
-   105 citations
+   107 citations
 
 3. **Forestation delivers significantly more effective results in soil C and N sequestrations than natural succession on badly degraded areas: Evidence from the Central Loess Plateau case** (2021)
    74 citations · Soil Carbon
 
 4. **Forests have a higher soil C sequestration benefit due to lower C mineralization efficiency: Evidence from the central loess plateau case** (2022)
-   68 citations
+   72 citations
 
 5. **Dynamics of litter decomposition rate and soil organic carbon sequestration following vegetation succession on the Loess Plateau, China** (2023)
    44 citations · Soil Carbon

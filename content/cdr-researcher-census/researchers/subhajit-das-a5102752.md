@@ -1,7 +1,7 @@
 ---
 title: "Subhajit Das"
 description: "Subhajit Das is a Mid-career Biochar researcher at University of Engineering & Management in IN. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.555927
+date: 2026-10-11T02:32:59.570936
 url: "/cdr-researcher-census/researchers/subhajit-das-a5102752/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Fabrication of biochar from jarul (Lagerstroemia speciosa) seed hull for ultrasound aided sequestration of ofloxacin from water: Phytotoxic assessments and cost analysis** (2023)
-   97 citations · Biochar
+   98 citations · Biochar
 
 2. **Enhanced performance of Lagerstroemia speciosa seed biochar and polypyrrole composite for the sequestration of emerging contaminant from wastewater sample: Case study of ofloxacin drug** (2024)
-   53 citations · Biochar
+   55 citations · Biochar
 
 3. **Cost analysis and adsorption efficiency of chemically activated biochar from rubber wood sawdust for ciprofloxacin removal in environmental remediation** (2026)
-   4 citations · Biochar
+   5 citations · Biochar
 
 4. **Augmented Efficacy of Rubber Wood Sawdust Biochar and Polypyrrole Composite for the Sequestration of Ciprofloxacin from Aqueous Solution** (2026)
    3 citations · Biochar

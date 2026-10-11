@@ -1,7 +1,7 @@
 ---
 title: "Rose Rustowicz"
-description: "Rose Rustowicz is a Mid-career Soil Carbon researcher at Climate Central in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.020764
+description: "Rose Rustowicz is a Mid-career Soil Carbon researcher. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:33:00.130315
 url: "/cdr-researcher-census/researchers/rose-rustowicz-a5085308/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,10 +14,6 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Rose Rustowicz",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/rose-rustowicz-a5085308/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Climate Central"
-  },
   "sameAs": [
     "https://orcid.org/0000-0002-2468-7674",
     "https://openalex.org/A5085308450"
@@ -27,8 +23,7 @@ robots: "index, follow"
 
 ## Profile
 
-**Rose Rustowicz**  
-Climate Central · 🇺🇸 US
+**Rose Rustowicz**
 
 **Career Stage:** Mid-career
 
@@ -42,10 +37,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 184 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| h-index | 5 |
+| Citations | 161 |
+| Publications | 14 |
+| CDR Focus | 7.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

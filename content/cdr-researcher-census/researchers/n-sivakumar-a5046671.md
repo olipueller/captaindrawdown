@@ -1,7 +1,7 @@
 ---
 title: "N. Sivakumar"
 description: "N. Sivakumar is a Senior Soil Carbon researcher at Madurai Kamaraj University in IN. With 149 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.077472
+date: 2026-10-11T02:32:59.082188
 url: "/cdr-researcher-census/researchers/n-sivakumar-a5046671/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    17 citations · Soil Carbon
 
 2. **Effects of using palm flower biochar in mechanical and water purification properties of pervious concrete** (2022)
-   13 citations · Biochar
+   14 citations · Biochar
 
 3. **THE CURRENT ROLE AND IMPORTANCE OF AGROFORESTRY – A REVIEW ARTICLE** (2024)
    6 citations · General CDR

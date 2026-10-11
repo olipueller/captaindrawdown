@@ -1,7 +1,7 @@
 ---
 title: "Haomin Huang"
 description: "Haomin Huang is a Mid-career Biochar researcher at South China University of Technology in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.986142
+date: 2026-10-11T02:33:00.017192
 url: "/cdr-researcher-census/researchers/haomin-huang-a5103056/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Iron-doped biochar boosting salt marsh blue carbon via regulation of microbial metabolism and intensified mineral-associated organic carbon** (2025)
-   7 citations · Biochar
+   10 citations · Biochar
 
 ## External Profiles
 

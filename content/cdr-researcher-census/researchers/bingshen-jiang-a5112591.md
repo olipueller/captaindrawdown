@@ -1,7 +1,7 @@
 ---
 title: "Bingshen Jiang"
 description: "Bingshen Jiang is a Mid-career Biochar researcher. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.525208
+date: 2026-10-11T02:32:59.539162
 url: "/cdr-researcher-census/researchers/bingshen-jiang-a5112591/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Contrasting effects of straw and straw-derived biochar applications on soil carbon accumulation and nitrogen use efficiency in double-rice cropping systems** (2021)
-   184 citations · Biochar
+   183 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Rodolfo Andrade Schaffner"
 description: "Rodolfo Andrade Schaffner is a Mid-career BECCS researcher. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.672756
+date: 2026-10-11T02:32:59.692638
 url: "/cdr-researcher-census/researchers/rodolfo-andrade-schaffner-a5112348/"
 layout: "researcher"
 hiddenInHomeList: true

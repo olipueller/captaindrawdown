@@ -1,7 +1,7 @@
 ---
 title: "Erica Lilles"
 description: "Erica Lilles is a Mid-career Soil Carbon researcher at Ministry of Forests in CA. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.704138
+date: 2026-10-11T02:32:59.724401
 url: "/cdr-researcher-census/researchers/erica-lilles-a5045737/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon 5–60 Years After Fire: Planting Trees Does Not Compensate for Losses in Dead Wood Stores** (2022)
-   12 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 ## External Profiles
 

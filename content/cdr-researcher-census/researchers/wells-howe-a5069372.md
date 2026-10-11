@@ -1,7 +1,7 @@
 ---
 title: "Wells Howe"
 description: "Wells Howe is an Early-career Soil Carbon researcher at Instituto de Montañas in US. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.377110
+date: 2026-10-11T02:33:00.412542
 url: "/cdr-researcher-census/researchers/wells-howe-a5069372/"
 layout: "researcher"
 hiddenInHomeList: true

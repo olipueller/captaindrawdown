@@ -1,7 +1,7 @@
 ---
 title: "Huimin Zhang"
 description: "Huimin Zhang is a Mid-career DAC researcher at National Institute of Clean and Low-Carbon Energy in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.005018
+date: 2026-10-11T02:33:00.035969
 url: "/cdr-researcher-census/researchers/huimin-zhang-a5100381/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **The techno-economic analysis of renewable methanol** (2025)
-   3 citations · DAC
+   5 citations · DAC
 
 ## External Profiles
 

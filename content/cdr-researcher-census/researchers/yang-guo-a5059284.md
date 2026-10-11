@@ -1,7 +1,7 @@
 ---
 title: "Yang Guo"
 description: "Yang Guo is a Senior Soil Carbon researcher at Minzu University of China in CN. With 57 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.331647
+date: 2026-10-11T02:32:59.337357
 url: "/cdr-researcher-census/researchers/yang-guo-a5059284/"
 layout: "researcher"
 hiddenInHomeList: true

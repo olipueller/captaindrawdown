@@ -1,7 +1,7 @@
 ---
 title: "Xiaoqin Lai"
 description: "Xiaoqin Lai is a Senior BECCS researcher at Zhongshan Hospital of Xiamen University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.252654
+date: 2026-10-11T02:32:59.256670
 url: "/cdr-researcher-census/researchers/xiaoqin-lai-a5062094/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Effects of Biofuel Crop Switchgrass (Panicum virgatum) Cultivation on Soil Carbon Sequestration and Greenhouse Gas Emissions: A Review** (2022)
-   21 citations · BECCS
+   23 citations · BECCS
 
 ## External Profiles
 

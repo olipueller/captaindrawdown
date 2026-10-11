@@ -1,7 +1,7 @@
 ---
 title: "Ronghua Kang"
 description: "Ronghua Kang is a Mid-career Enhanced Weathering researcher at Institute of Applied Ecology Chinese Academy of Sciences in CN. With 68 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.391064
+date: 2026-10-11T02:32:59.399221
 url: "/cdr-researcher-census/researchers/ronghua-kang-a5032068/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Wollastonite powder application increases rice yield and CO2 sequestration in a paddy field in Northeast China** (2024)
-   14 citations · Enhanced Weathering
+   15 citations · Enhanced Weathering
 
 2. **CO2 removal with enhanced wollastonite weathering in acidic and calcareous soils** (2024)
    9 citations · Enhanced Weathering
 
 3. **Climate warming reduces soil gaseous nitrogen losses in a temperate forest** (2025)
-   4 citations
+   6 citations
 
 4. **Carbon sequestration induced by enhanced silicate rock weathering in a temperate larch plantation in Northeastern China** (2025)
-   3 citations · Enhanced Weathering
+   4 citations · Enhanced Weathering
 
 5. **Wollastonite improves soybean yield without toxic trace elements enrichment** (2025)
    2 citations · Enhanced Weathering

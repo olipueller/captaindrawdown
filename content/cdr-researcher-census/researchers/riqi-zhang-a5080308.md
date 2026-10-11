@@ -1,7 +1,7 @@
 ---
 title: "Riqi Zhang"
 description: "Riqi Zhang is a Mid-career General CDR researcher at Imperial College London in GB. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.351999
+date: 2026-10-11T02:33:00.386931
 url: "/cdr-researcher-census/researchers/riqi-zhang-a5080308/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Constructing a multi-leveled ecological security pattern for improving ecosystem connectivity in the Asian water Tower region** (2023)
-   30 citations
+   32 citations
 
 2. **Identifying Ecological Priority Areas for Synergistic Conservation across Scales in the Asian Water Tower Region** (2023)
    12 citations · General CDR

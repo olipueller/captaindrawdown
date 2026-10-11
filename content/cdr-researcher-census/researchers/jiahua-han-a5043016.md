@@ -1,7 +1,7 @@
 ---
 title: "Jiahua Han"
 description: "Jiahua Han is a Mid-career Soil Carbon researcher at Tibet University in CN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.978742
+date: 2026-10-11T02:33:00.010285
 url: "/cdr-researcher-census/researchers/jiahua-han-a5043016/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -49,6 +49,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 1. **How do forest types regulate soil organic carbon quantity and quality in southeastern Xizang? Evidence from soil organic carbon and the carbon pool management index** (2026)
    1 citations · Soil Carbon
+
+2. **Spatial patterns of carbon storage and carbon sequestration potential in multi-component carbon pools of forest ecosystems in southeastern Xizang** (2026)
+   0 citations
 
 ## External Profiles
 

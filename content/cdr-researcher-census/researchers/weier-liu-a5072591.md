@@ -1,7 +1,7 @@
 ---
 title: "Weier Liu"
 description: "Weier Liu is a Mid-career General CDR researcher at Xianghu Laboratory in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.700503
+date: 2026-10-11T02:32:59.720662
 url: "/cdr-researcher-census/researchers/weier-liu-a5072591/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   62 citations · General CDR
+   61 citations · General CDR
 
 ## External Profiles
 

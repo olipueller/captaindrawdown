@@ -1,7 +1,7 @@
 ---
 title: "Sibo Zeng"
 description: "Sibo Zeng is a Mid-career Enhanced Weathering researcher at Southwest University in CN. With 42 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.245303
+date: 2026-10-11T02:32:59.249143
 url: "/cdr-researcher-census/researchers/sibo-zeng-a5072963/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,33 +51,33 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Large-scale CO2 removal by enhanced carbonate weathering from changes in land-use practices** (2022)
-   51 citations · Enhanced Weathering
+   55 citations · Enhanced Weathering
 
 2. **A greening Earth has reversed the trend of decreasing carbonate weathering under a warming climate** (2025)
-   25 citations · Enhanced Weathering
+   29 citations · Enhanced Weathering
 
 3. **Carbon sinks associated with biological carbon pump in karst surface waters: Progress, challenges, and prospects** (2024)
-   23 citations · General CDR
+   25 citations · General CDR
 
 4. **High stability of carbonate weathering relevant carbon sink under biological pump effect in inland waters: Insights from Shawan Karst Experimental Site, Southwest China** (2024)
    15 citations · Enhanced Weathering
 
 5. **Carbon capture and storage via enhanced carbonate weathering coupled with aquatic photosynthesis: Potential, cost, and advantages** (2025)
-   11 citations · Enhanced Weathering
+   12 citations · Enhanced Weathering
 
 6. **Vegetation productivity and soil CO₂ correlation were decoupled during post-wildfire recovery in karst landscapes** (2026)
+   4 citations
+
+7. **Carbon fertilization of autochthonous production in karst surface waters and its role in carbon reduction and eutrophication mitigation—a nature-based solution (NbS)** (2025)
+   3 citations · General CDR
+
+8. **Dissolved Carbon Dynamics in Artificial Karst Spring Systems: Impacts of Land Use Management** (2026)
    2 citations
 
-7. **Extreme dry climate conditions undermine the benefits of ecological restoration on carbonate weathering: A case study from 7 years of monitoring data for an underground river in a typical karst trough valley, in Southwest China** (2025)
+9. **Extreme dry climate conditions undermine the benefits of ecological restoration on carbonate weathering: A case study from 7 years of monitoring data for an underground river in a typical karst trough valley, in Southwest China** (2025)
    2 citations
 
-8. **Carbon fertilization of autochthonous production in karst surface waters and its role in carbon reduction and eutrophication mitigation—a nature-based solution (NbS)** (2025)
-   2 citations · General CDR
-
-9. **Biological carbon pump drives co-removal of phosphorus and heavy metals in karst lakes** (2026)
-   0 citations
-
-10. **The Stratified Microbial Carbon Pump: Thermal Stratification Enhances Refractory Dissolved Organic Carbon Production and Stabilizes Carbon in Alkaline Karst Waters through Keystone Microbial Interaction Networks** (2026)
+10. **Biological carbon pump drives co-removal of phosphorus and heavy metals in karst lakes** (2026)
    0 citations
 
 ## External Profiles

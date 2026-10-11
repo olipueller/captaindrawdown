@@ -1,7 +1,7 @@
 ---
 title: "Ridhwan Lawal"
 description: "Ridhwan Lawal is a Mid-career DAC researcher at Colorado School of Mines in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.385337
+date: 2026-10-11T02:33:00.422203
 url: "/cdr-researcher-census/researchers/ridhwan-lawal-a5016051/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **CO2 capture and conversion using graphene-based materials: a review on recent progresses and future outlooks** (2024)
-   54 citations · DAC
+   58 citations · DAC
 
 2. **CO2 Adsorption Using Graphene-Based Materials: A Review** (2025)
-   23 citations
+   25 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Kathrin Deiglmayr"
 description: "Kathrin Deiglmayr is a Senior Soil Carbon researcher at Hochschule Osnabrück in DE. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.309512
+date: 2026-10-11T02:32:59.314858
 url: "/cdr-researcher-census/researchers/kathrin-deiglmayr-a5033413/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Perennial Roots, Lasting Structure: How Silphium perfoliatum Alters pore structure to shape carbon storage and water flow** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 2. **Perennial roots, lasting structure: how silphium perfoliatum alters pore structure to shape carbon storage and water flow** (2025)
    0 citations

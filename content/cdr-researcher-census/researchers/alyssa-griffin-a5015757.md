@@ -1,7 +1,7 @@
 ---
 title: "Alyssa Griffin"
 description: "Alyssa Griffin is a Mid-career Ocean CDR researcher at University of California, Davis in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.637842
+date: 2026-10-11T02:32:59.656367
 url: "/cdr-researcher-census/researchers/alyssa-griffin-a5015757/"
 layout: "researcher"
 hiddenInHomeList: true

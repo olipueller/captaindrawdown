@@ -1,7 +1,7 @@
 ---
 title: "Kian P. Lopez"
 description: "Kian P. Lopez is a Mid-career General CDR researcher at University of Colorado Boulder in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.731758
+date: 2026-10-11T02:32:59.753324
 url: "/cdr-researcher-census/researchers/kian-p-lopez-a5017154/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,18 +45,21 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 292 |
 | Publications | 16 |
-| CDR Focus | 6.2% |
+| CDR Focus | 12.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Performance Testing and Stability Characterization of Liquid Water Membranes for Carbon Dioxide Removal and Humidity Condensation** (2026)
-   0 citations · General CDR
+1. **Evaluating the fundamental limits of carbon dioxide separation membranes** (2026)
+   0 citations
 
 2. **Performance Testing and Stability Characterization of Liquid Water Membranes for Carbon Dioxide Removal and Humidity Condensation** (2026)
    0 citations · General CDR
 
-3. **Liquid Water Membranes for Carbon Dioxide Removal and Humidity Condensation in Spaceflight Systems** (2025)
+3. **Performance Testing and Stability Characterization of Liquid Water Membranes for Carbon Dioxide Removal and Humidity Condensation** (2026)
+   0 citations · General CDR
+
+4. **Liquid Water Membranes for Carbon Dioxide Removal and Humidity Condensation in Spaceflight Systems** (2025)
    0 citations
 
 ## External Profiles

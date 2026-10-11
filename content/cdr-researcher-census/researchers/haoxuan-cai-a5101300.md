@@ -1,7 +1,7 @@
 ---
 title: "Haoxuan Cai"
 description: "Haoxuan Cai is a Mid-career Biochar researcher at Shandong University of Science and Technology in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.102788
+date: 2026-10-11T02:33:00.133021
 url: "/cdr-researcher-census/researchers/haoxuan-cai-a5101300/"
 layout: "researcher"
 hiddenInHomeList: true

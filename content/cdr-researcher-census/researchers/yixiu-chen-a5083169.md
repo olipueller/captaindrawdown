@@ -1,7 +1,7 @@
 ---
 title: "Yi‐Xiu Chen"
 description: "Yi‐Xiu Chen is a Senior General CDR researcher at National Cheng Kung University in TW. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.166410
+date: 2026-10-11T02:33:00.196522
 url: "/cdr-researcher-census/researchers/yixiu-chen-a5083169/"
 layout: "researcher"
 hiddenInHomeList: true

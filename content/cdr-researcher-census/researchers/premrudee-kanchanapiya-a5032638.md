@@ -1,7 +1,7 @@
 ---
 title: "Premrudee Kanchanapiya"
 description: "Premrudee Kanchanapiya is a Senior BECCS researcher at National Science and Technology Development Agency in TH. With 38 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.533842
+date: 2026-10-11T02:32:59.548241
 url: "/cdr-researcher-census/researchers/premrudee-kanchanapiya-a5032638/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Enhancing carbon reduction and sustainable agriculture in Thailand: An assessment of rice straw utilization strategies** (2024)
-   10 citations · BECCS
+   11 citations · BECCS
 
 2. **CO2 storage infrastructure and cost estimation for bioenergy with carbon capture and storage in Northern Thailand** (2025)
    5 citations · BECCS

@@ -1,7 +1,7 @@
 ---
 title: "Yuanxiao Duan"
 description: "Yuanxiao Duan is a Mid-career Biochar researcher at Ministry of Ecology and Environment in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.471716
+date: 2026-10-11T02:32:59.483008
 url: "/cdr-researcher-census/researchers/yuanxiao-duan-a5082736/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Simultaneous removal of Cd(II) and As(V) by ferrihydrite-biochar composite: Enhanced effects of As(V) on Cd(II) adsorption** (2023)
-   43 citations · Biochar
+   45 citations · Biochar
 
 2. **Simultaneous Removal of Cd(Ii) and As(V) by Ferrihydrite-Biochar Composite: Enhanced Effects of As(V) on Cd(Ii) Adsorption** (2022)
    2 citations · Biochar

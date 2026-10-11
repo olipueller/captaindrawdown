@@ -1,7 +1,7 @@
 ---
 title: "Mirabela Marin"
 description: "Mirabela Marin is a Mid-career Soil Carbon researcher at National Institute for Research and Development in Forestry \"Marin Drăcea\" in RO. With 30 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.564622
+date: 2026-10-11T02:32:59.580360
 url: "/cdr-researcher-census/researchers/mirabela-marin-a5035374/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Pine afforestation on degraded lands: a global review of carbon sequestration potential** (2025)
-   14 citations · General CDR
+1. **The Role of Trees in Sand Dune Rehabilitation: Insights from Global Experiences** (2025)
+   16 citations
 
-2. **The Role of Trees in Sand Dune Rehabilitation: Insights from Global Experiences** (2025)
-   14 citations
+2. **Pine afforestation on degraded lands: a global review of carbon sequestration potential** (2025)
+   14 citations · General CDR
 
 3. **Essential Forest Mitigation Indicators to support management decisions for climate-resilient forest ecosystems** (2026)
    0 citations

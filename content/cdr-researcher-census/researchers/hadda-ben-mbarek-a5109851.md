@@ -1,7 +1,7 @@
 ---
 title: "Hadda Ben Mbarek"
 description: "Hadda Ben Mbarek is a Mid-career Soil Carbon researcher at University of Sfax in TN. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.901814
+date: 2026-10-11T02:32:59.931164
 url: "/cdr-researcher-census/researchers/hadda-ben-mbarek-a5109851/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Olive-based agroforestry system as an alternative farming system in arid area: stakeholders perception based on a Delphi conference methodology** (2025)
-   4 citations
+   6 citations
 
 2. **The Short-Term Effect of Olive Mill Wastewater Application on Humic Acid in Subsurface Soil Layers of the Arid Region of Tunisia** (2023)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 3. **Long-Term Land Use Effects on Soil Quality and Organic Carbon Content in Calcaric Regosol Profiles of Arid Ecosystems** (2025)
    1 citations · Soil Carbon

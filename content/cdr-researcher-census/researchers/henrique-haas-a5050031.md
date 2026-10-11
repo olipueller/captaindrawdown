@@ -1,7 +1,7 @@
 ---
 title: "Henrique Haas"
 description: "Henrique Haas is a Mid-career General CDR researcher at New Mexico State University in US. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.275462
+date: 2026-10-11T02:33:00.305375
 url: "/cdr-researcher-census/researchers/henrique-haas-a5050031/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Understanding the effects of afforestation on water quantity and quality at watershed scale by considering the influences of tree species and local moisture recycling** (2024)
-   11 citations · General CDR
+   13 citations · General CDR
 
 ## External Profiles
 

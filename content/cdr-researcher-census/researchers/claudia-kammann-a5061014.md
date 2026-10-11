@@ -1,7 +1,7 @@
 ---
 title: "Claudia Kammann"
 description: "Claudia Kammann is an Eminent Biochar researcher at Hochschule Geisenheim University in DE. With 195 publications and an h-index of 56, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.022445
+date: 2026-10-11T02:32:59.025527
 url: "/cdr-researcher-census/researchers/claudia-kammann-a5061014/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,25 +51,25 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar in climate change mitigation** (2021)
-   923 citations · Biochar
+   949 citations · Biochar
 
 2. **Biochar in agriculture – A systematic review of 26 global meta‐analyses** (2021)
-   480 citations · Biochar
+   491 citations · Biochar
 
 3. **Potential of Land‐Neutral Negative Emissions Through Biochar Sequestration** (2022)
    33 citations · Biochar
 
-4. **Acidified manure and nitrogen-enriched biochar showed short-term agronomic benefits on cotton–wheat cropping systems under alkaline arid field conditions** (2023)
-   20 citations · Biochar
+4. **Scientific literature on carbon dioxide removal revealed as much larger through AI-enhanced systematic mapping** (2025)
+   20 citations · General CDR
 
-5. **Scientific literature on carbon dioxide removal revealed as much larger through AI-enhanced systematic mapping** (2025)
-   17 citations · General CDR
+5. **Acidified manure and nitrogen-enriched biochar showed short-term agronomic benefits on cotton–wheat cropping systems under alkaline arid field conditions** (2023)
+   19 citations · Biochar
 
 6. **Biochar Permanence—A Policy Commentary** (2025)
-   12 citations · Biochar
+   16 citations · Biochar
 
 7. **Biochar for durable carbon removal: soil erosion reduction as a key mechanism** (2026)
-   8 citations · Biochar
+   12 citations · Biochar
 
 8. **Pyrogenic carbon and carbonating minerals for carbon capture and storage (PyMiCCS) part I: production, physico-chemical characterization and C-sink potential** (2025)
    7 citations · Biochar

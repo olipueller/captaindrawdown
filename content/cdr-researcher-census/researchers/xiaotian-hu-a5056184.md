@@ -1,7 +1,7 @@
 ---
 title: "Xiaotian Hu"
 description: "Xiaotian Hu is a Mid-career Biochar researcher at King University in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.130073
+date: 2026-10-11T02:33:00.160478
 url: "/cdr-researcher-census/researchers/xiaotian-hu-a5056184/"
 layout: "researcher"
 hiddenInHomeList: true

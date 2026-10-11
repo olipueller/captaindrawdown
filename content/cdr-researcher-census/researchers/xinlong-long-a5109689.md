@@ -1,7 +1,7 @@
 ---
 title: "Xinlong Long"
 description: "Xinlong Long is an Early-career Biochar researcher at Chongqing University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.251261
+date: 2026-10-11T02:33:00.281096
 url: "/cdr-researcher-census/researchers/xinlong-long-a5109689/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The application of machine learning methods for prediction of heavy metal by activated carbons, biochars, and carbon nanotubes** (2024)
-   37 citations · Biochar
+   43 citations · Biochar
 
 2. **The Application of Machine Learning Methods for Prediction of Heavy Metal by Activated Carbons, Biochars, and Carbon Nanotubes** (2023)
    1 citations · Biochar

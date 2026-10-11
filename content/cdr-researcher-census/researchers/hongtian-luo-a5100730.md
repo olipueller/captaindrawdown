@@ -1,7 +1,7 @@
 ---
 title: "Hongtian Luo"
 description: "Hongtian Luo is a Mid-career Ocean CDR researcher at Hainan University in CN. With 24 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.530984
+date: 2026-10-11T02:32:59.544998
 url: "/cdr-researcher-census/researchers/hongtian-luo-a5100730/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    35 citations · Ocean CDR
 
 2. **Understanding and estimating the role of large-scale seaweed cultivation for carbon sequestration on a global scale over the past two decades** (2024)
-   13 citations · Ocean CDR
+   14 citations · Ocean CDR
 
 ## External Profiles
 

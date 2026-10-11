@@ -1,7 +1,7 @@
 ---
 title: "Azhar Uddin"
 description: "Azhar Uddin is a Senior DAC researcher at Mewar University in CA. With 37 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.717358
+date: 2026-10-11T02:32:59.738431
 url: "/cdr-researcher-census/researchers/azhar-uddin-a5044889/"
 layout: "researcher"
 hiddenInHomeList: true

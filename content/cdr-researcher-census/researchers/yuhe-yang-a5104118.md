@@ -1,7 +1,7 @@
 ---
 title: "Yuhe Yang"
 description: "Yuhe Yang is a Mid-career Soil Carbon researcher at East China University of Science and Technology in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.038679
+date: 2026-10-11T02:33:00.069381
 url: "/cdr-researcher-census/researchers/yuhe-yang-a5104118/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial metabolism in wormcast affected the perturbation on soil organic matter by microplastics under decabromodiphenyl ethane stress** (2025)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 ## External Profiles
 

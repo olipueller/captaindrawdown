@@ -1,7 +1,7 @@
 ---
 title: "Ana Lopes"
 description: "Ana Lopes is a Mid-career Soil Carbon researcher at University of Aveiro in PT. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.987743
+date: 2026-10-11T02:33:00.018540
 url: "/cdr-researcher-census/researchers/ana-lopes-a5101739/"
 layout: "researcher"
 hiddenInHomeList: true

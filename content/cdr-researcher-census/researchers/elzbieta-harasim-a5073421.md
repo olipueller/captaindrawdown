@@ -1,7 +1,7 @@
 ---
 title: "Elżbieta Harasim"
 description: "Elżbieta Harasim is a Senior Soil Carbon researcher at University of Life Sciences in PL. With 90 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.379349
+date: 2026-10-11T02:32:59.386757
 url: "/cdr-researcher-census/researchers/elzbieta-harasim-a5073421/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Strategies of Climate Change Mitigation in Agriculture Plant Production—A Critical Review** (2023)
-   24 citations · General CDR
+   26 citations · General CDR
 
 2. **The impact of crop production on boosting CO2 sequestration with particular emphasis on catch crop cultivation** (2026)
    0 citations

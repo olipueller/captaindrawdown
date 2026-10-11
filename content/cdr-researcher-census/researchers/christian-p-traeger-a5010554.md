@@ -1,7 +1,7 @@
 ---
 title: "Christian P. Traeger"
 description: "Christian P. Traeger is a Senior General CDR researcher at Ifo Institute for Economic Research in DE. With 81 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.151188
+date: 2026-10-11T02:32:59.155449
 url: "/cdr-researcher-census/researchers/christian-p-traeger-a5010554/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **From Gross to Net: Carbon Dioxide Removal in an Analytic Climate Economy** (2026)
-   0 citations · DAC
+   1 citations · General CDR
 
 2. **From Gross to Net: Carbon Dioxide Removal in an Analytic Climate Economy** (2026)
-   0 citations · General CDR
+   0 citations · DAC
 
 3. **Replication Data for: From Gross to Net: Carbon Dioxide Removal in an Analytic Climate Economy** (2026)
    0 citations · General CDR

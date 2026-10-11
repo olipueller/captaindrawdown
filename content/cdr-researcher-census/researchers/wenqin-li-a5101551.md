@@ -1,7 +1,7 @@
 ---
 title: "Wenqin Li"
 description: "Wenqin Li is a Senior General CDR researcher at Universidad de Valladolid in ES. With 60 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.159684
+date: 2026-10-11T02:32:59.164087
 url: "/cdr-researcher-census/researchers/wenqin-li-a5101551/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,12 +54,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    6 citations · DAC
 
 2. **Land-based resources for engineered carbon dioxide removal in the United States exceed the expected needs** (2025)
-   2 citations · General CDR
+   4 citations · General CDR
 
-3. **Direct Air Reactive Capture and Conversion for Utility-Scale Energy Storage (Final Report)** (2025)
+3. **Improving Performance and Cost of Direct Air Capture in Dynamic Conditions through Modeling and System Design** (2026)
    0 citations · DAC
 
-4. **Direct Air Capture-Based Carbon Dioxide Removal with United States Low-Carbon Energy and Sinks AOI 2: Initial Engineering Design of Carbon Capture Utilization and Storage Systems (TRL 6) for Direct Air Capture** (2024)
+4. **Direct Air Reactive Capture and Conversion for Utility-Scale Energy Storage (Final Report)** (2025)
+   0 citations · DAC
+
+5. **Direct Air Capture-Based Carbon Dioxide Removal with United States Low-Carbon Energy and Sinks AOI 2: Initial Engineering Design of Carbon Capture Utilization and Storage Systems (TRL 6) for Direct Air Capture** (2024)
    0 citations · DAC
 
 ## External Profiles

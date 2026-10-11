@@ -1,7 +1,7 @@
 ---
 title: "Qian Yang"
 description: "Qian Yang is a Senior Soil Carbon researcher at University of Texas at Austin in US. With 30 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.203000
+date: 2026-10-11T02:32:59.207157
 url: "/cdr-researcher-census/researchers/qian-yang-a5085101/"
 layout: "researcher"
 hiddenInHomeList: true

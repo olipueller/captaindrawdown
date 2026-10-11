@@ -1,7 +1,7 @@
 ---
 title: "Janine Börker"
 description: "Janine Börker is a Mid-career Enhanced Weathering researcher at Universität Hamburg in DE. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.405236
+date: 2026-10-11T02:32:59.414250
 url: "/cdr-researcher-census/researchers/janine-borker-a5068311/"
 layout: "researcher"
 hiddenInHomeList: true

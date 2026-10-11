@@ -1,7 +1,7 @@
 ---
 title: "Yongqi Qian"
 description: "Yongqi Qian is an Early-career Soil Carbon researcher at Zhengzhou University in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.377403
+date: 2026-10-11T02:33:00.412846
 url: "/cdr-researcher-census/researchers/yongqi-qian-a5109760/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,7 +56,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **Microbial-mediated shifts regulate the trade-off between soil organic carbon content and stability after cropland afforestation in Eastern China** (2026)
    2 citations · Soil Carbon
 
-3. **Cropland-to-planted forest conversion reconfigures soil microbial communities and shifts soil multifunctionality** (2026)
+3. **Interactive Effects of Tillage and Compaction Coupled With Straw on Soil Organic Carbon Partitioning Into Particulate and Mineral‐Associated Forms in a Black Soil of Northeast China** (2026)
+   0 citations · Soil Carbon
+
+4. **Cropland-to-planted forest conversion reconfigures soil microbial communities and shifts soil multifunctionality** (2026)
    0 citations
 
 ## External Profiles

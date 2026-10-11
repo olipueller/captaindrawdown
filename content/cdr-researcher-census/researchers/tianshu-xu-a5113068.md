@@ -1,7 +1,7 @@
 ---
 title: "Tianshu Xu"
 description: "Tianshu Xu is a Mid-career General CDR researcher at Heidelberg University in DE. With 28 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.212138
+date: 2026-10-11T02:33:00.242350
 url: "/cdr-researcher-census/researchers/tianshu-xu-a5113068/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yuye Han"
 description: "Yuye Han is a Mid-career Ocean CDR researcher at Xiamen University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.133468
+date: 2026-10-11T02:33:00.164001
 url: "/cdr-researcher-census/researchers/yuye-han-a5032111/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Microbial promotion of biogenic CaCO3 dissolution in oversaturated seawater: a laboratory incubation study** (2025)
-   0 citations · Ocean CDR
+   1 citations · Ocean CDR
 
 ## External Profiles
 

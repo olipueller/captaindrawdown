@@ -1,7 +1,7 @@
 ---
 title: "Manisha Dhiman"
 description: "Manisha Dhiman is an Early-career Biochar researcher at Chandigarh University in IN. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.994874
+date: 2026-10-11T02:33:00.025736
 url: "/cdr-researcher-census/researchers/manisha-dhiman-a5088438/"
 layout: "researcher"
 hiddenInHomeList: true

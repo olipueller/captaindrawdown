@@ -1,7 +1,7 @@
 ---
 title: "Jishuai Zhu"
 description: "Jishuai Zhu is a Mid-career Soil Carbon researcher at Jilin University in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.201828
+date: 2026-10-11T02:33:00.231738
 url: "/cdr-researcher-census/researchers/jishuai-zhu-a5051842/"
 layout: "researcher"
 hiddenInHomeList: true

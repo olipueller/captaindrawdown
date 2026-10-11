@@ -1,7 +1,7 @@
 ---
 title: "Claudia Eisenring"
 description: "Claudia Eisenring is a Senior Ocean CDR researcher. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.494493
+date: 2026-10-11T02:32:59.506601
 url: "/cdr-researcher-census/researchers/claudia-eisenring-a5042328/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Rosie Everett"
 description: "Rosie Everett is a Mid-career General CDR researcher at Scotland's Rural College in GB. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.967256
+date: 2026-10-11T02:32:59.998552
 url: "/cdr-researcher-census/researchers/rosie-everett-a5060086/"
 layout: "researcher"
 hiddenInHomeList: true

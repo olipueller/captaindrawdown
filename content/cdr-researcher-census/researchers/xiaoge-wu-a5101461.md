@@ -1,7 +1,7 @@
 ---
 title: "Xiaoge Wu"
 description: "Xiaoge Wu is a Senior Biochar researcher at Xi'an Institute of Optics and Precision Mechanics in CN. With 54 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.161522
+date: 2026-10-11T02:32:59.165861
 url: "/cdr-researcher-census/researchers/xiaoge-wu-a5101461/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Ultrasonic Activated Biochar and Its Removal of Harmful Substances in Environment** (2022)
-   47 citations · Biochar
+   49 citations · Biochar
 
 2. **<i>Microcystis aeruginosa</i> removal by the combination of ultrasound and TiO<sub>2</sub>/biochar** (2021)
    10 citations · Biochar

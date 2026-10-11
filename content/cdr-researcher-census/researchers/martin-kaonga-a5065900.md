@@ -1,7 +1,7 @@
 ---
 title: "Martin Kaonga"
 description: "Martin Kaonga is a Senior Soil Carbon researcher at Isaac Newton Institute for Mathematical Sciences in GB. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.288906
+date: 2026-10-11T02:32:59.293207
 url: "/cdr-researcher-census/researchers/martin-kaonga-a5065900/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Nitrogen-fixing trees increase organic carbon sequestration in forest and agroforestry ecosystems in the Congo basin** (2021)
-   34 citations · General CDR
+   37 citations · General CDR
 
 ## External Profiles
 

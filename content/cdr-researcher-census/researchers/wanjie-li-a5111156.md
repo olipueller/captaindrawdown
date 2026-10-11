@@ -1,7 +1,7 @@
 ---
 title: "Wanjie Li"
 description: "Wanjie Li is a Mid-career Biochar researcher at Xinjiang Production and Construction Corps in CN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.750434
+date: 2026-10-11T02:32:59.772797
 url: "/cdr-researcher-census/researchers/wanjie-li-a5111156/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Preparation of highly adsorptive biochar by sequential iron impregnation under refluxing and pyrolysis at low temperature for removal of tetracycline** (2024)
-   14 citations · Biochar
+   15 citations · Biochar
 
 ## External Profiles
 

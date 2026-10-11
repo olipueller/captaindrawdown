@@ -1,7 +1,7 @@
 ---
 title: "Alberto Imbernón-Mulero"
 description: "Alberto Imbernón-Mulero is a Mid-career Soil Carbon researcher at Universidad Politécnica de Cartagena in ES. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.186933
+date: 2026-10-11T02:33:00.217106
 url: "/cdr-researcher-census/researchers/alberto-imbernon-mulero-a5070152/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil Carbon Dioxide Emissions and Carbon Sequestration with Implementation of Alley Cropping in a Mediterranean Citrus Orchard** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

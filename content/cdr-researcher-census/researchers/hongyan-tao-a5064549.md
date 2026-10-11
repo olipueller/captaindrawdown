@@ -1,7 +1,7 @@
 ---
 title: "Hong‐Yan Tao"
 description: "Hong‐Yan Tao is a Senior Soil Carbon researcher at Gansu Agricultural University in CN. With 53 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.216276
+date: 2026-10-11T02:32:59.220171
 url: "/cdr-researcher-census/researchers/hongyan-tao-a5064549/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,19 +48,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Cereal-legume intercropping stimulates straw decomposition and promotes soil organic carbon stability** (2025)
-   33 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 2. **Priming effects of nZVI on carbon sequestration and iron uptake are positively mediated by AM fungus in semiarid agricultural soils** (2023)
    13 citations · Soil Carbon
 
 3. **Plastic footprint deteriorates dryland carbon footprint across soil–plant-atmosphere continuum** (2024)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 4. **Moss-dominated biocrust-based biodiversity enhances carbon sequestration via water interception and plant-soil-microbe interactions** (2022)
    11 citations · Soil Carbon
 
 5. **Environmental and Economic Impacts of Biodegradable Plastic Film Mulching on Rainfed Maize: Evaluations on Sustainability and Productivity** (2022)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Chenyue Zhang"
 description: "Chenyue Zhang is a Mid-career Biochar researcher at Nanjing Forestry University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.189184
+date: 2026-10-11T02:33:00.219288
 url: "/cdr-researcher-census/researchers/chenyue-zhang-a5101640/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,6 +54,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    0 citations · Biochar
 
 2. **Mn/N co-doped biochar-activated persulfate degradation of tetracycline in water** (2026)
+   0 citations · Biochar
+
+3. **Mn/N co-doped biochar-activated persulfate degradation of tetracycline in water** (2026)
    0 citations · Biochar
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Gagandeep Kaur"
 description: "Gagandeep Kaur is a Senior Soil Carbon researcher at Atal Bihari Vajpayee Indian Institute of Information Technology and Management in IN. With 49 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.341893
+date: 2026-10-11T02:32:59.347921
 url: "/cdr-researcher-census/researchers/gagandeep-kaur-a5001787/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · Soil Carbon
 
 2. **Impact of fertilization and tillage practices on transformations of carbon, essential plant nutrients and microbial biota composition in soils: a review** (2023)
-   7 citations · General CDR
+   8 citations · General CDR
 
 3. **Climate-Smart Technologies for an Improved Organic Carbon Pool in Soils Under Sugarcane (Saccharum officinarum L.) Production** (2025)
    0 citations · Soil Carbon

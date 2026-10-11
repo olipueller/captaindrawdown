@@ -1,7 +1,7 @@
 ---
 title: "Mulugeta Betemariyam"
 description: "Mulugeta Betemariyam is a Mid-career Soil Carbon researcher at Madda Walabu University in ET. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.320389
+date: 2026-10-11T02:33:00.352529
 url: "/cdr-researcher-census/researchers/mulugeta-betemariyam-a5086278/"
 layout: "researcher"
 hiddenInHomeList: true

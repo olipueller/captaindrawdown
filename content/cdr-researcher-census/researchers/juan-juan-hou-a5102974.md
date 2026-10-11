@@ -1,7 +1,7 @@
 ---
 title: "Juan-Juan Hou"
 description: "Juan-Juan Hou is a Mid-career BECCS researcher at Beijing Normal University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.437146
+date: 2026-10-11T02:32:59.447381
 url: "/cdr-researcher-census/researchers/juan-juan-hou-a5102974/"
 layout: "researcher"
 hiddenInHomeList: true

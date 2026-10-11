@@ -1,7 +1,7 @@
 ---
 title: "G. I. Ameereh"
 description: "G. I. Ameereh is a Senior DAC researcher at Imam Abdulrahman Bin Faisal University in SA. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.384842
+date: 2026-10-11T02:33:00.421695
 url: "/cdr-researcher-census/researchers/g-i-ameereh-a5007238/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Techno-Economic Assessment of Hybrid Renewable Energy Systems for Direct Air Capture in Saudi Arabia** (2025)
-   5 citations · DAC
+   7 citations · DAC
 
 ## External Profiles
 

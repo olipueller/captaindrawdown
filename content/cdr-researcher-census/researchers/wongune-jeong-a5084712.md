@@ -1,7 +1,7 @@
 ---
 title: "Won‐Gune Jeong"
 description: "Won‐Gune Jeong is a Senior Biochar researcher at Jeonbuk National University in KR. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.792737
+date: 2026-10-11T02:32:59.816498
 url: "/cdr-researcher-census/researchers/wongune-jeong-a5084712/"
 layout: "researcher"
 hiddenInHomeList: true

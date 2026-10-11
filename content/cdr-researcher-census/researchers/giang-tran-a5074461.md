@@ -1,7 +1,7 @@
 ---
 title: "Giang Tran"
 description: "Giang Tran is a Senior General CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 27 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.991736
+date: 2026-10-11T02:33:00.022398
 url: "/cdr-researcher-census/researchers/giang-tran-a5074461/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 7 |
 | Citations | 192 |
 | Publications | 27 |
-| CDR Focus | 22.2% |
+| CDR Focus | 25.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Earth system responses to carbon dioxide removal as exemplified by ocean alkalinity enhancement: tradeoffs and lags** (2024)
-   13 citations · General CDR
+   14 citations · General CDR
 
 2. **Material to reproduce "The coupled uncertainties in carbon dioxide removal and transient climate response to cumulative CO2 emissions". Di Natale et al. 2025** (2025)
    1 citations
@@ -62,22 +62,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 4. **Model output from historical and future scenarios related to 'Carbon Dioxide Removal: Tradeoffs and Lags'** (2024)
    1 citations · General CDR
 
-5. **Integrating Carbon Dioxide Removal into Climate Models: An Overview** (2025)
+5. **Carbon dioxide removal** (2026)
    0 citations · General CDR
 
-6. **Material to reproduce "The coupled uncertainties in carbon dioxide removal and transient climate response to cumulative CO2 emissions". Di Natale et al. 2025** (2025)
-   0 citations
+6. **Integrating Carbon Dioxide Removal into Climate Models: An Overview** (2025)
+   0 citations · General CDR
 
 7. **Material to reproduce "The coupled uncertainties in carbon dioxide removal and transient climate response to cumulative CO2 emissions". Di Natale et al. 2025** (2025)
    0 citations
 
 8. **Material to reproduce "The coupled uncertainties in carbon dioxide removal and transient climate response to cumulative CO2 emissions". Di Natale et al. 2025** (2025)
+   0 citations
+
+9. **Material to reproduce "The coupled uncertainties in carbon dioxide removal and transient climate response to cumulative CO2 emissions". Di Natale et al. 2025** (2025)
    0 citations · General CDR
 
-9. **Model output from historical and future scenarios related to 'Carbon Dioxide Removal: Tradeoffs and Lags'** (2023)
-   0 citations · General CDR
-
-10. **Assessing the Mitigation Potential and Ecological Impacts of Carbon Dioxide Removal Technologies on Ocean Ecosystems** (2024)
+10. **Model output from historical and future scenarios related to 'Carbon Dioxide Removal: Tradeoffs and Lags'** (2023)
    0 citations · General CDR
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Qinggong Mao"
 description: "Qinggong Mao is a Senior Soil Carbon researcher at South China Botanical Garden in CN. With 60 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.081179
+date: 2026-10-11T02:32:59.085958
 url: "/cdr-researcher-census/researchers/qinggong-mao-a5110649/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Nitrogen deposition accelerates soil carbon sequestration in tropical forests** (2021)
-   308 citations · Soil Carbon
+   312 citations · Soil Carbon
 
 2. **Unexpected high retention of<sup>15</sup>N‐labeled nitrogen in a tropical legume forest under long‐term nitrogen enrichment** (2021)
-   30 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 3. **Do long-term high nitrogen inputs change the composition of soil dissolved organic matter in a primary tropical forest?** (2022)
    18 citations · Soil Carbon
@@ -62,16 +62,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Adsorption/desorption processes dominate the soil P fractions dynamic under long-term N/P addition in a subtropical forest** (2025)
    9 citations
 
-6. **Drivers of Deposited Nitrogen Retention and Its Contribution to Carbon Sequestration in Chinese Forests** (2026)
+6. **Enhanced Root Exudation as an Adaptation Mechanism to Facilitate Phosphorus Mobilization in a Primary Tropical Forest Under Chronic Nitrogen Deposition** (2026)
+   2 citations
+
+7. **Drivers of Deposited Nitrogen Retention and Its Contribution to Carbon Sequestration in Chinese Forests** (2026)
    1 citations · Soil Carbon
 
-7. **Soil Quality Assessment for Sustainable Management: A Minimum Dataset for Long-Term Fertilization in Subtropical Plantations in South China** (2025)
+8. **Soil Quality Assessment for Sustainable Management: A Minimum Dataset for Long-Term Fertilization in Subtropical Plantations in South China** (2025)
    1 citations
 
-8. **Data from: Drivers of deposited nitrogen retention and its contribution to carbon sequestration in Chinese forests** (2026)
-   0 citations
-
-9. **Enhanced Root Exudation as an Adaptation Mechanism to Facilitate Phosphorus Mobilization in a Primary Tropical Forest Under Chronic Nitrogen Deposition** (2026)
+9. **Data from: Drivers of deposited nitrogen retention and its contribution to carbon sequestration in Chinese forests** (2026)
    0 citations
 
 ## External Profiles

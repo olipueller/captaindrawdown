@@ -1,7 +1,7 @@
 ---
 title: "Yuan Gao"
 description: "Yuan Gao is an Early-career Biochar researcher at Nanjing Agricultural University in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.154329
+date: 2026-10-11T02:33:00.184129
 url: "/cdr-researcher-census/researchers/yuan-gao-a5007438/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Environment and agricultural practices regulate enhanced biochar-induced soil carbon pools and crop yield: A meta-analysis** (2023)
-   56 citations · Biochar
+   59 citations · Biochar
 
 ## External Profiles
 

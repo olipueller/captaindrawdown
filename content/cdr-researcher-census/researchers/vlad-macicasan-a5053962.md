@@ -1,7 +1,7 @@
 ---
 title: "Vlad Măcicășan"
 description: "Vlad Măcicășan is a Mid-career Soil Carbon researcher. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.622507
+date: 2026-10-11T02:32:59.640344
 url: "/cdr-researcher-census/researchers/vlad-macicasan-a5053962/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **How Can Land Use Management in Traditional Cultural Landscapes Become a Policy Instrument for Soil Organic Carbon Sequestration and Climate Change Mitigation? A Transylvanian Case Study** (2024)
-   8 citations · General CDR
+   7 citations · General CDR
 
 ## External Profiles
 

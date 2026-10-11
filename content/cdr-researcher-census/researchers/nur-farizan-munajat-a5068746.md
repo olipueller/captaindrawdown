@@ -1,7 +1,7 @@
 ---
 title: "Nur Farizan Munajat"
 description: "Nur Farizan Munajat is a Mid-career Biochar researcher at Universiti Malaysia Terengganu in MY. With 28 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.198349
+date: 2026-10-11T02:33:00.228625
 url: "/cdr-researcher-census/researchers/nur-farizan-munajat-a5068746/"
 layout: "researcher"
 hiddenInHomeList: true

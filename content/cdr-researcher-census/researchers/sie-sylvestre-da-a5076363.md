@@ -1,7 +1,7 @@
 ---
 title: "Sié Sylvestre Da"
 description: "Sié Sylvestre Da is a Mid-career Biochar researcher at West African Science Service Centre on Climate Change and Adapted Land Use in GH. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.952995
+date: 2026-10-11T02:32:59.983887
 url: "/cdr-researcher-census/researchers/sie-sylvestre-da-a5076363/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effect of Invasive Aquatic Plants (Azolla a., Myriophyllum a. and Cyperus a.) Biochar Amendment on Maize Growth: An Assessment** (2021)
-   4 citations · Biochar
+   5 citations · Biochar
 
 ## External Profiles
 

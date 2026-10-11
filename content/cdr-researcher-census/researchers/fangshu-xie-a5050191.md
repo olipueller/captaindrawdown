@@ -1,7 +1,7 @@
 ---
 title: "Fangshu Xie"
 description: "Fangshu Xie is a Mid-career Biochar researcher at Xi'an University of Architecture and Technology in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.719122
+date: 2026-10-11T02:32:59.740141
 url: "/cdr-researcher-census/researchers/fangshu-xie-a5050191/"
 layout: "researcher"
 hiddenInHomeList: true

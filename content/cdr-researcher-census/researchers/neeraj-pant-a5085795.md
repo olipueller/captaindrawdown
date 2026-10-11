@@ -1,7 +1,7 @@
 ---
 title: "Neeraj Pant"
 description: "Neeraj Pant is a Mid-career Soil Carbon researcher at Western Sydney University in AU. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.685831
+date: 2026-10-11T02:32:59.706102
 url: "/cdr-researcher-census/researchers/neeraj-pant-a5085795/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Floodplains landforms, clay deposition and irrigation return flow govern arsenic occurrence, prevalence and mobilization: A geochemical and isotopic study of the mid-Gangetic floodplains** (2021)
-   27 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Cassendra P. C. Bong"
 description: "Cassendra P. C. Bong is a Mid-career Biochar researcher at University of Technology Malaysia in MY. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.570704
+date: 2026-10-11T02:32:59.586702
 url: "/cdr-researcher-census/researchers/cassendra-p-c-bong-a5110655/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A Review On The Comparison Between Slow Pyrolysis And Fast Pyrolysis On The Quality Of Lignocellulosic And Lignin-Based Biochar** (2021)
-   140 citations · Biochar
+   143 citations · Biochar
 
 ## External Profiles
 

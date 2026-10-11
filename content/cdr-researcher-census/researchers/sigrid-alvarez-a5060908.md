@@ -1,7 +1,7 @@
 ---
 title: "Sigrid Alvarez"
 description: "Sigrid Alvarez is a Senior Soil Carbon researcher at National University of Saint Anthony the Abbot in Cuzco in PE. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.358094
+date: 2026-10-11T02:33:00.392899
 url: "/cdr-researcher-census/researchers/sigrid-alvarez-a5060908/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Seasonal Effects of Wildfires on the Physical and Chemical Properties of Soil in Andean Grassland Ecosystems in Cusco, Peru: Pending Challenges** (2024)
-   3 citations
+   6 citations
 
 2. **Seasonal Effects of Wildfires on the Physical and Chemical Properties of Soil in Andean Grassland Ecosystems in Cusco, Peru: Pending Challenges** (2024)
    3 citations · Soil Carbon

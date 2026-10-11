@@ -1,7 +1,7 @@
 ---
 title: "Hongguang Cai"
 description: "Hongguang Cai is a Senior Soil Carbon researcher at Inner Mongolia Electric Power (China) in CN. With 40 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.162921
+date: 2026-10-11T02:32:59.166933
 url: "/cdr-researcher-census/researchers/hongguang-cai-a5110627/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,19 +48,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effect of chemical fertilizer and straw-derived organic amendments on continuous maize yield, soil carbon sequestration and soil quality in a Chinese Mollisol** (2021)
-   154 citations · Biochar
+   157 citations · Biochar
 
 2. **Soil organic carbon accumulation mechanisms in soil amended with straw and biochar: entombing effect or biochemical protection?** (2025)
-   43 citations · Biochar
+   48 citations · Biochar
 
 3. **Climate-smart agriculture practice promotes sustainable maize production in northeastern China: Higher grain yield while less carbon footprint** (2023)
-   31 citations · General CDR
+   33 citations · General CDR
 
 4. **Soil Enzyme Activities Affect SOC and TN in Aggregate Fractions in Sodic-Alkali Soils, Northeast of China** (2022)
    20 citations · Soil Carbon
 
 5. **Deep tillage with straw retention increased organic carbon sequestration and enhanced homogenization of microbial communities and functions across soil depths** (2025)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 6. **Rice Straw Biochar is More Beneficial to Soil Organic Carbon Accumulation and Stabilization than Rice Straw and Rice Straw Ash** (2023)
    11 citations · Biochar
@@ -72,7 +72,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations
 
 9. **Influence of straw, compost, and biochar on soil carbon and aggregates in Chernozem** (2025)
-   6 citations · Biochar
+   7 citations · Biochar
 
 10. **Differences in soil organic carbon among soil layers caused by microbial necromass carbon accumulation under different tillage and carbon input regimes** (2026)
    2 citations · Soil Carbon

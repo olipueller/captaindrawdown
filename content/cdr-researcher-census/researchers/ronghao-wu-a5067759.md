@@ -1,7 +1,7 @@
 ---
 title: "Ronghao Wu"
 description: "Ronghao Wu is a Mid-career Biochar researcher at Fujian Normal University in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.710773
+date: 2026-10-11T02:32:59.731429
 url: "/cdr-researcher-census/researchers/ronghao-wu-a5067759/"
 layout: "researcher"
 hiddenInHomeList: true

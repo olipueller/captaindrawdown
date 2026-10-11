@@ -1,7 +1,7 @@
 ---
 title: "Nahid Khan"
 description: "Nahid Khan is a Senior Soil Carbon researcher at University of Helsinki in FI. With 69 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.084735
+date: 2026-10-11T02:32:59.089659
 url: "/cdr-researcher-census/researchers/nahid-khan-a5013261/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil Carbon Stock and Sequestration: Implications for Climate Change Adaptation and Mitigation** (2021)
-   61 citations · General CDR
+   62 citations · General CDR
 
 2. **Agroforestry a model for ecological sustainability** (2022)
    45 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Lars Baetcke"
 description: "Lars Baetcke is a Mid-career General CDR researcher at Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR) in DE. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.047846
+date: 2026-10-11T02:33:00.078593
 url: "/cdr-researcher-census/researchers/lars-baetcke-a5006124/"
 layout: "researcher"
 hiddenInHomeList: true

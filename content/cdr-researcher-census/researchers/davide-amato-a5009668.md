@@ -1,7 +1,7 @@
 ---
 title: "Davide Amato"
 description: "Davide Amato is an Early-career Biochar researcher at Istituto Centrale per la Ricerca Scientifica e Tecnologica Applicata al Mare in IT. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.208610
+date: 2026-10-11T02:33:00.238360
 url: "/cdr-researcher-census/researchers/davide-amato-a5009668/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Pyrolysis Temperature Affects Biochar Properties in a Soil–Plant System** (2026)
-   1 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

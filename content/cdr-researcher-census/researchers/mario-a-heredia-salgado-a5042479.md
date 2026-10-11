@@ -1,7 +1,7 @@
 ---
 title: "Mario A. Heredia Salgado"
 description: "Mario A. Heredia Salgado is a Senior Biochar researcher at XLAB (Slovenia) in SI. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.871107
+date: 2026-10-11T02:32:59.898063
 url: "/cdr-researcher-census/researchers/mario-a-heredia-salgado-a5042479/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Potential for Farmers’ Cooperatives to Convert Coffee Husks into Biochar and Promote the Bioeconomy in the North Ecuadorian Amazon** (2021)
-   23 citations · Biochar
+   25 citations · Biochar
 
 2. **Post-extractivism and Bioeconomy: An Experimental Analysis of Combustion and Pyrolysis Processes as Alternatives to Add Value to Agro-Residues (Coffee Husks) Generated in Farmer Cooperatives of the Ecuadorian Amazon** (2024)
-   3 citations · Biochar
+   5 citations · Biochar
 
 3. **Post-Extractivism and Bioeconomy: An Experimental Analysis of Combustion and Pyrolysis Processes as Alternatives to Add Value to Agro-Residues (Coffee Husks) Generated in Farmer Cooperatives of the Ecuadorian Amazon** (2024)
    1 citations

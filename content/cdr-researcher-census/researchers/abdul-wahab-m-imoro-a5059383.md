@@ -1,7 +1,7 @@
 ---
 title: "Abdul-Wahab M. Imoro"
 description: "Abdul-Wahab M. Imoro is an Early-career Soil Carbon researcher at Navrongo Health Research Centre in GH. With 17 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.340286
+date: 2026-10-11T02:33:00.374578
 url: "/cdr-researcher-census/researchers/abdul-wahab-m-imoro-a5059383/"
 layout: "researcher"
 hiddenInHomeList: true

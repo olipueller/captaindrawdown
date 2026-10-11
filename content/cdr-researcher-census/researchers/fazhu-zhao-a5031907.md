@@ -1,7 +1,7 @@
 ---
 title: "Fazhu Zhao"
 description: "Fazhu Zhao is an Eminent Soil Carbon researcher at Northwest University in CN. With 103 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.046741
+date: 2026-10-11T02:32:59.050433
 url: "/cdr-researcher-census/researchers/fazhu-zhao-a5031907/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 40 |
 | Citations | 5,348 |
 | Publications | 103 |
-| CDR Focus | 8.7% |
+| CDR Focus | 9.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **The biogeography of soil microbiome potential growth rates** (2024)
-   71 citations
+   72 citations
 
 2. **Cover cropping promotes soil carbon sequestration by enhancing microaggregate-protected and mineral-associated carbon** (2023)
-   31 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 3. **Long-Term Chemical and Organic Fertilization Differently Affect Soil Aggregates and Associated Carbon and Nitrogen in the Loess Plateau of China** (2023)
-   17 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 4. **Mechanisms of cover crop-derived carbon sequestration in winter wheat fields: Insights from 13C labeling** (2025)
    7 citations · Soil Carbon
@@ -66,15 +66,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Soil Carbon
 
 7. **Metagenomic insights into the carbon decomposition of plant and microbial biomass in forests across biomes** (2025)
-   1 citations
+   2 citations
 
-8. **Regulation of Microbial Necromass Carbon in Restoring Alpine Meadows: Key Roles of Soil Properties and Fungal Network Stability** (2026)
+8. **Contrasting mechanisms of soil carbon sequestration in upland soils: Fungal-driven physical protection with straw versus bacterial-driven mineral stabilization with biochar** (2026)
+   0 citations · Biochar
+
+9. **Regulation of Microbial Necromass Carbon in Restoring Alpine Meadows: Key Roles of Soil Properties and Fungal Network Stability** (2026)
    0 citations · Soil Carbon
 
-9. **Divergent Microbial and Enzymatic Drivers Regulate Particulate and Mineral-Associated Organic Carbon During Alpine Meadow Restoration** (2026)
-   0 citations · Soil Carbon
-
-10. **[Effects of Green Manure and Nitrogen Application on Soil Carbon Fractions in a Dryland Winter Wheat Field].** (2025)
+10. **Divergent Microbial and Enzymatic Drivers Regulate Particulate and Mineral-Associated Organic Carbon During Alpine Meadow Restoration** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

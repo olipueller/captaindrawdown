@@ -1,7 +1,7 @@
 ---
 title: "Tobi Michael Alabi"
 description: "Tobi Michael Alabi is a Mid-career General CDR researcher. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.345325
+date: 2026-10-11T02:32:59.351285
 url: "/cdr-researcher-census/researchers/tobi-michael-alabi-a5026228/"
 layout: "researcher"
 hiddenInHomeList: true

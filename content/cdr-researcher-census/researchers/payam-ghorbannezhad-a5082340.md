@@ -1,7 +1,7 @@
 ---
 title: "Payam Ghorbannezhad"
 description: "Payam Ghorbannezhad is a Senior Biochar researcher at Karlsruhe Institute of Technology in DE. With 34 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.349537
+date: 2026-10-11T02:32:59.355504
 url: "/cdr-researcher-census/researchers/payam-ghorbannezhad-a5082340/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    86 citations · Biochar
 
 2. **Co-pyrolysis of municipal and horticultural wastes for enhanced biochar and bio-oil production: A response surface methodology approach** (2023)
-   16 citations · Biochar
+   17 citations · Biochar
 
 ## External Profiles
 

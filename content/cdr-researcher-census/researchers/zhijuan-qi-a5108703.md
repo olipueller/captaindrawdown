@@ -1,7 +1,7 @@
 ---
 title: "Zhijuan Qi"
 description: "Zhijuan Qi is a Mid-career Soil Carbon researcher at Community Health Center in US. With 24 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.422682
+date: 2026-10-11T02:32:59.432764
 url: "/cdr-researcher-census/researchers/zhijuan-qi-a5108703/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Agricultural diversification promotes sustainable and resilient global rice production** (2023)
-   99 citations
+   100 citations
 
 2. **The effect of biochar types on carbon cycles in farmland soils: A meta analysis** (2024)
    27 citations · Biochar

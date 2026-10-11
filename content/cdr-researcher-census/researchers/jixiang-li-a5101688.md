@@ -1,7 +1,7 @@
 ---
 title: "Jixiang Li"
 description: "Jixiang Li is a Senior Biochar researcher at Kunming University of Science and Technology in CN. With 120 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.089474
+date: 2026-10-11T02:32:59.094325
 url: "/cdr-researcher-census/researchers/jixiang-li-a5101688/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Characterization of highly stable biochar and its application for removal of phenol** (2022)
-   38 citations · Biochar
+   40 citations · Biochar
 
 2. **Degradation-Resistant Biochar Improves Soil Organic Carbon Storage: Promoting Autotrophic Metabolism &amp; Increasing Refractory Organic Carbon** (2025)
-   24 citations · Biochar
+   27 citations · Biochar
 
 3. **Effects of cellulase treatment on properties of lignocellulose-based biochar** (2024)
-   19 citations · Biochar
+   21 citations · Biochar
 
 4. **Enhancing soil carbon sequestration capacity: Synergistic effect of low-release biochar and autotrophic microbial agents over one year** (2025)
-   7 citations · Biochar
+   8 citations · Biochar
 
 5. **Interface selectivity-based biochar: Directional evolution of properties, application &amp; carbon neutralization evaluation** (2025)
    5 citations · Biochar

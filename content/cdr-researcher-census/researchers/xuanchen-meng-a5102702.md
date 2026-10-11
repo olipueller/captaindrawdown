@@ -1,7 +1,7 @@
 ---
 title: "Xuanchen Meng"
 description: "Xuanchen Meng is a Mid-career Soil Carbon researcher. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.016107
+date: 2026-10-11T02:33:00.046955
 url: "/cdr-researcher-census/researchers/xuanchen-meng-a5102702/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A meta-analysis of conservation tillage management effects on soil organic carbon sequestration and soil greenhouse gas flux** (2024)
-   51 citations · Soil Carbon
+   52 citations · Soil Carbon
 
 2. **The effect of biochar types on carbon cycles in farmland soils: A meta analysis** (2024)
    27 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Guangjun Fu"
 description: "Guangjun Fu is a Mid-career Soil Carbon researcher at Chinese Academy of Forestry in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.387605
+date: 2026-10-11T02:33:00.424548
 url: "/cdr-researcher-census/researchers/guangjun-fu-a5113962/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long‐term vegetation restoration increases carbon sequestration of different soil particles in a semi‐arid desert** (2021)
-   31 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 2. **Dissimilar evolution of soil dissolved organic matter chemical properties during revegetation with arbor and shrub in desertified land of the Mu Us Desert** (2022)
    30 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Devin Todd"
 description: "Devin Todd is a Mid-career General CDR researcher at University of Victoria in CA. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.089618
+date: 2026-10-11T02:33:00.120221
 url: "/cdr-researcher-census/researchers/devin-todd-a5001197/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    8 citations · Enhanced Weathering
 
 2. **Thinking at the megaton scale: Community reflections across three different marine carbon-dioxide removal strategies** (2026)
-   1 citations · DAC
+   3 citations · DAC
 
 3. **Solid Carbon – a Gigaton-Scale Ocean Rock Solid Climate Solution** (2025)
    1 citations · Enhanced Weathering

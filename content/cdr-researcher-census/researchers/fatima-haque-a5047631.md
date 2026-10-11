@@ -1,7 +1,7 @@
 ---
 title: "Fatima Haque"
 description: "Fatima Haque is a Senior Enhanced Weathering researcher at University of Guelph in CA. With 40 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.176223
+date: 2026-10-11T02:32:59.180327
 url: "/cdr-researcher-census/researchers/fatima-haque-a5047631/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -60,13 +60,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    23 citations · Enhanced Weathering
 
 4. **Pathways, roundabouts, roadblocks, and shortcuts to safe and sustainable deployment of enhanced rock weathering in agriculture** (2023)
-   14 citations · Enhanced Weathering
+   15 citations · Enhanced Weathering
 
 5. **Monitoring Pedogenic Inorganic Carbon Accumulation Due to Weathering of Amended Silicate Minerals in Agricultural Soils.** (2021)
    13 citations · Enhanced Weathering
 
 6. **Tracking pedogenic carbonate formation and alkalinity migration in agricultural soils amended with crushed wollastonite ore – Evidence from field trials in Southwestern Ontario** (2025)
-   6 citations · Enhanced Weathering
+   7 citations · Enhanced Weathering
 
 7. **Monitoring Pedogenic Inorganic Carbon Accumulation Due to Weathering of Amended Silicate Minerals in Agricultural Soils.** (2021)
    6 citations

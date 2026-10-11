@@ -1,7 +1,7 @@
 ---
 title: "Jihua Liu"
 description: "Jihua Liu is a Senior Ocean CDR researcher at Shandong University in CN. With 191 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.045994
+date: 2026-10-11T02:32:59.049585
 url: "/cdr-researcher-census/researchers/jihua-liu-a5100629/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,34 +51,34 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Biodegradation of Terrigenous Organic Matter in a Stratified Large-Volume Water Column: Implications of the Removal of Terrigenous Organic Matter in the Coastal Ocean** (2022)
-   28 citations
+   29 citations
 
 2. **Response of a Coastal Microbial Community to Olivine Addition in the Muping Marine Ranch, Yantai** (2022)
-   23 citations · Enhanced Weathering
+   24 citations · Enhanced Weathering
 
 3. **The potential of wastewater treatment on carbon storage through ocean alkalinity enhancement** (2025)
-   17 citations · Enhanced Weathering
+   20 citations · Enhanced Weathering
 
-4. **Ocean negative carbon emissions: A new UN Decade program** (2022)
+4. **Integrating bicarbonate-based microalgal production with alkaline sewage for ocean negative carbon emissions** (2024)
+   17 citations · Ocean CDR
+
+5. **Ocean negative carbon emissions: A new UN Decade program** (2022)
    17 citations · General CDR
 
-5. **Integrating bicarbonate-based microalgal production with alkaline sewage for ocean negative carbon emissions** (2024)
-   16 citations · Ocean CDR
-
 6. **Potential Environmental Impacts and Management Strategies for Metal Release during Ocean Alkalinity Enhancement Using Olivine** (2025)
-   15 citations · Enhanced Weathering
+   16 citations · Enhanced Weathering
 
 7. **Sustainable carbon sequestration via olivine based ocean alkalinity enhancement in the east and South China Sea: Adhering to environmental norms for nickel and chromium** (2024)
    14 citations · Enhanced Weathering
 
 8. **Synergistic CO <sub>2</sub> Removal via Enhanced Olivine Weathering and Diatom Growth in the Ocean** (2024)
-   9 citations · Enhanced Weathering
+   10 citations · Enhanced Weathering
 
 9. **Potential of CO2 sequestration by olivine addition in offshore waters: A ship-based deck incubation experiment** (2024)
-   7 citations · Enhanced Weathering
+   8 citations · Enhanced Weathering
 
 10. **Alkalinity factory can achieve positive climate benefits within decades** (2025)
-   4 citations · Enhanced Weathering
+   6 citations · Enhanced Weathering
 
 ## External Profiles
 

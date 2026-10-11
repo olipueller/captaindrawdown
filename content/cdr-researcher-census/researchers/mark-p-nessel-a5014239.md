@@ -1,7 +1,7 @@
 ---
 title: "Mark P. Nessel"
 description: "Mark P. Nessel is a Mid-career Soil Carbon researcher at Oklahoma State University in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.853197
+date: 2026-10-11T02:32:59.880184
 url: "/cdr-researcher-census/researchers/mark-p-nessel-a5014239/"
 layout: "researcher"
 hiddenInHomeList: true

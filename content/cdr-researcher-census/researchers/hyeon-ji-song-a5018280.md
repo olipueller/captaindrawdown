@@ -1,7 +1,7 @@
 ---
 title: "Hyeon Ji Song"
 description: "Hyeon Ji Song is a Mid-career Soil Carbon researcher at Gyeongsang National University in KR. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.570805
+date: 2026-10-11T02:32:59.586799
 url: "/cdr-researcher-census/researchers/hyeon-ji-song-a5018280/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Soil Carbon
 
 2. **Enhancing soil C sequestration through organic matter recycling: A comparative study of paddy and upland fields** (2025)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 3. **Agricultural practices to improve soil carbon sequestration in rice paddy soils** (2022)
    1 citations · Soil Carbon

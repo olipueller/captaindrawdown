@@ -1,7 +1,7 @@
 ---
 title: "Daniel A. Salas"
 description: "Daniel A. Salas is a Senior BECCS researcher at Escuela Superior Politecnica del Litoral in EC. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.289192
+date: 2026-10-11T02:32:59.293548
 url: "/cdr-researcher-census/researchers/daniel-a-salas-a5072798/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Life cycle assessment of bioenergy with carbon capture and storage: A review** (2024)
-   34 citations · BECCS
+   36 citations · BECCS
 
 2. **Carbon Footprint of Electricity Generation in a Conceptual Bioenergy Power Plant With Carbon Capture and Storage** (2023)
    0 citations · BECCS

@@ -1,7 +1,7 @@
 ---
 title: "Huili Zhao"
 description: "Huili Zhao is a Mid-career Soil Carbon researcher at Qingdao University in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.409138
+date: 2026-10-11T02:32:59.418301
 url: "/cdr-researcher-census/researchers/huili-zhao-a5101960/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Response of Soil Organic Carbon and Bacterial Community to Amendments in Saline‐Alkali Soils of the Yellow River Delta** (2025)
-   89 citations · Soil Carbon
+   97 citations · Soil Carbon
 
 2. **Effect of Straw and Wood Ash on Soil Carbon Sequestration and Bacterial Community in a Calcareous Soil** (2022)
    14 citations
 
 3. **Straw plus straw interlayer alter soil organic carbon and bacterial community in a saline-alkali soil from the Yellow River Delta** (2026)
-   6 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 4. **Distribution of soil organic carbon and nitrogen under reduced nitrogen application in the Guanzhong plain of China<sup>#</sup>** (2021)
    5 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Qutob"
 description: "Mohammad Qutob is a Mid-career Biochar researcher at University of Malaya in MY. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.414807
+date: 2026-10-11T02:32:59.424657
 url: "/cdr-researcher-census/researchers/mohammad-qutob-a5040465/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Melamine-assisted synthesis of mesoporous biochar from palm kernel shells for enhanced paraquat removal from aqueous solutions** (2025)
-   6 citations · Biochar
+   7 citations · Biochar
 
 2. **Melamine-nitrogenated mesoporous biochar derived from palm kernel shells for diuron adsorption in contaminated water** (2024)
    4 citations · Biochar

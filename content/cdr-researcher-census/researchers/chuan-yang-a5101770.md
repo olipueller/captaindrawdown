@@ -1,7 +1,7 @@
 ---
 title: "Chuan Yang"
 description: "Chuan Yang is a Senior Soil Carbon researcher at Chinese Academy of Tropical Agricultural Sciences Rubber Research Institute in CN. With 55 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.303337
+date: 2026-10-11T02:32:59.308632
 url: "/cdr-researcher-census/researchers/chuan-yang-a5101770/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,7 +56,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **Spatial variation of soil organic carbon under major rubber planting regions in China** (2024)
    2 citations · Soil Carbon
 
-3. **Rubber based agroforestry systems enhance soil organic carbon sequestration through changes in soil properties and microbial community structure** (2026)
+3. **Multifunctional sustainability benefits of rubber agroforestry: Evidence from rubber–Alpinia oxyphylla systems in tropical China** (2026)
+   0 citations · Soil Carbon
+
+4. **Rubber based agroforestry systems enhance soil organic carbon sequestration through changes in soil properties and microbial community structure** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

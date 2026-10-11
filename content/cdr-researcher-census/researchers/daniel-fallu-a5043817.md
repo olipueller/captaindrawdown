@@ -1,7 +1,7 @@
 ---
 title: "Daniel Fallu"
 description: "Daniel Fallu is a Mid-career Soil Carbon researcher at Centre for Arctic Gas Hydrate, Environment and Climate in NO. With 40 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.633273
+date: 2026-10-11T02:32:59.651883
 url: "/cdr-researcher-census/researchers/daniel-fallu-a5043817/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    6 citations · Soil Carbon
 
 4. **Coupled geomorphic and climate-driven biogeochemical processes regulate soil organic carbon stocks in agricultural terraces** (2026)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 5. **Coupled geomorphic and climate-driven biogeochemical processes regulate soil organic carbon stocks in agricultural terraces** (2026)
    0 citations · Soil Carbon

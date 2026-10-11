@@ -1,7 +1,7 @@
 ---
 title: "Guangdou Qi"
 description: "Guangdou Qi is a Mid-career Biochar researcher at Xuzhou University of Technology in CN. With 24 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.335012
+date: 2026-10-11T02:32:59.340813
 url: "/cdr-researcher-census/researchers/guangdou-qi-a5000341/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Microwave biochar produced with activated carbon catalyst: Characterization and adsorption of heavy metals** (2022)
-   103 citations · Biochar
+   104 citations · Biochar
 
 2. **Microwave biochars produced with activated carbon catalyst: Characterization and sorption of volatile organic compounds (VOCs)** (2022)
    89 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Quan Wang"
 description: "Quan Wang is a Senior General CDR researcher at Guizhou University of Finance and Economics in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.435298
+date: 2026-10-11T02:32:59.445616
 url: "/cdr-researcher-census/researchers/quan-wang-a5100418/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zheming Liu"
 description: "Zheming Liu is a Mid-career Biochar researcher at Southeast University in BD. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.712419
+date: 2026-10-11T02:32:59.733210
 url: "/cdr-researcher-census/researchers/zheming-liu-a5052400/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar–supported sulfurized nanoscale zero–valent iron facilitates extensive dechlorination and rapid removal of 2,4,6–trichlorophenol in aqueous solution** (2023)
-   26 citations · Biochar
+   30 citations · Biochar
 
 ## External Profiles
 

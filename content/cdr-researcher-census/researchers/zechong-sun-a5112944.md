@@ -1,7 +1,7 @@
 ---
 title: "Zechong Sun"
 description: "Zechong Sun is a Mid-career Soil Carbon researcher at Chang'an University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.098918
+date: 2026-10-11T02:33:00.129589
 url: "/cdr-researcher-census/researchers/zechong-sun-a5112944/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Identification of priority protected areas in Yellow River Basin and detection of key factors for its optimal management based on multi-scenario trade-off of ecosystem services** (2023)
-   53 citations · General CDR
+   52 citations · General CDR
 
 2. **Atmospheric water demand dominates terrestrial ecosystem productivity in China** (2024)
-   25 citations
+   27 citations
 
 3. **Reconciling ecosystem service supply-demand mismatches through ecological compensation in the Tibetan plateau** (2025)
    3 citations · General CDR

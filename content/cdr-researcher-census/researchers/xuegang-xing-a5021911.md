@@ -1,7 +1,7 @@
 ---
 title: "Xuegang Xing"
-description: "Xuegang Xing is a Mid-career Soil Carbon researcher at Guizhou University in CN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.055610
+description: "Xuegang Xing is a Mid-career Soil Carbon researcher at Guizhou Education University in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:33:00.063914
 url: "/cdr-researcher-census/researchers/xuegang-xing-a5021911/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xuegang-xing-a5021911/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Guizhou University"
+    "name": "Guizhou Education University"
   },
   "sameAs": "https://openalex.org/A5021911944"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Xuegang Xing**  
-Guizhou University · 🇨🇳 CN
+Guizhou Education University · 🇨🇳 CN
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 174 |
-| Publications | 16 |
-| CDR Focus | 6.2% |
+| Citations | 180 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

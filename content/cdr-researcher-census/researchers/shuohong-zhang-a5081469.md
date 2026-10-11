@@ -1,7 +1,7 @@
 ---
 title: "Shuohong Zhang"
 description: "Shuohong Zhang is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.461158
+date: 2026-10-11T02:32:59.472630
 url: "/cdr-researcher-census/researchers/shuohong-zhang-a5081469/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Metagenomic insights into the carbon decomposition of plant and microbial biomass in forests across biomes** (2025)
-   1 citations
+   2 citations
 
 2. **Trade-offs between microbial growth yield and resource acquisition govern the long-term fertilized soil organic carbon storage** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

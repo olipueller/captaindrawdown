@@ -1,7 +1,7 @@
 ---
 title: "Alpana Singh"
 description: "Alpana Singh is a Mid-career DAC researcher at Rajiv Gandhi Institute of Petroleum Technology in IN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.710211
+date: 2026-10-11T02:32:59.730861
 url: "/cdr-researcher-census/researchers/alpana-singh-a5101904/"
 layout: "researcher"
 hiddenInHomeList: true

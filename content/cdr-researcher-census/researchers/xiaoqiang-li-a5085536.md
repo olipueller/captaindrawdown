@@ -1,7 +1,7 @@
 ---
 title: "Xiaoqiang Li"
 description: "Xiaoqiang Li is a Mid-career Soil Carbon researcher at Changchun Normal University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.956349
+date: 2026-10-11T02:32:59.987831
 url: "/cdr-researcher-census/researchers/xiaoqiang-li-a5085536/"
 layout: "researcher"
 hiddenInHomeList: true

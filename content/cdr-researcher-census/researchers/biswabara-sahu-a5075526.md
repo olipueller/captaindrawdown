@@ -1,7 +1,7 @@
 ---
 title: "Biswabara Sahu"
 description: "Biswabara Sahu is a Mid-career Soil Carbon researcher at Indian Council for Research on International Economic Relations in IN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.304481
+date: 2026-10-11T02:33:00.335464
 url: "/cdr-researcher-census/researchers/biswabara-sahu-a5075526/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Moh Moh Thant Zin"
 description: "Moh Moh Thant Zin is a Mid-career Biochar researcher at University of Missouri in US. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.786292
+date: 2026-10-11T02:32:59.810239
 url: "/cdr-researcher-census/researchers/moh-moh-thant-zin-a5103156/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar-seeded struvite production from combination of on-farm and industrial wastewater: A review** (2025)
-   3 citations · Biochar
+   2 citations · Biochar
 
 2. **Role of Technology to Predict Impacts of Climate Change on Health Toxicity** (2025)
    1 citations · General CDR

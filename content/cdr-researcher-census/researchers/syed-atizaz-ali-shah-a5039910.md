@@ -1,7 +1,7 @@
 ---
 title: "Syed Atizaz Ali Shah"
 description: "Syed Atizaz Ali Shah is a Senior Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 21 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.263740
+date: 2026-10-11T02:32:59.267875
 url: "/cdr-researcher-census/researchers/syed-atizaz-ali-shah-a5039910/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term fertilization enhanced carbon mineralization and maize biomass through physical protection of organic carbon in fractions under continuous maize cropping** (2021)
-   88 citations · Soil Carbon
+   87 citations · Soil Carbon
 
 2. **Long‐term manure application enhances organic carbon and nitrogen stocks in Mollisol subsoil** (2022)
-   28 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 ## External Profiles
 

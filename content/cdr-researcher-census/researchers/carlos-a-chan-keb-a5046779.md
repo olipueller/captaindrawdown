@@ -1,7 +1,7 @@
 ---
 title: "Carlos A. Chan-Keb"
 description: "Carlos A. Chan-Keb is a Mid-career Soil Carbon researcher at Autonomous University of Campeche in MX. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.309924
+date: 2026-10-11T02:33:00.340806
 url: "/cdr-researcher-census/researchers/carlos-a-chan-keb-a5046779/"
 layout: "researcher"
 hiddenInHomeList: true

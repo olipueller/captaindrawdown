@@ -1,7 +1,7 @@
 ---
 title: "Peng Cheng"
 description: "Peng Cheng is a Mid-career Soil Carbon researcher at Southwest University of Science and Technology in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.122440
+date: 2026-10-11T02:33:00.152974
 url: "/cdr-researcher-census/researchers/peng-cheng-a5011282/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Beyond environmental sustainability: Low‐carbon land use policies can contribute to the realization of comprehensive sustainable development** (2024)
-   25 citations · General CDR
+   26 citations · General CDR
 
 ## External Profiles
 

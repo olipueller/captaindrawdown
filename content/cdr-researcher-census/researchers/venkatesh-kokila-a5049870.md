@@ -1,7 +1,7 @@
 ---
 title: "Venkatesh Kokila"
 description: "Venkatesh Kokila is a Mid-career Soil Carbon researcher at Indian Agricultural Statistics Research Institute in IN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.294732
+date: 2026-10-11T02:33:00.324840
 url: "/cdr-researcher-census/researchers/venkatesh-kokila-a5049870/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yubin Hu"
 description: "Yubin Hu is a Mid-career Ocean CDR researcher at Shandong University in CN. With 70 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.298670
+date: 2026-10-11T02:32:59.303638
 url: "/cdr-researcher-census/researchers/yubin-hu-a5040781/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 17 |
 | Citations | 840 |
 | Publications | 70 |
-| CDR Focus | 10.0% |
+| CDR Focus | 11.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,24 +54,27 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    49 citations · Ocean CDR
 
 2. **Response of a Coastal Microbial Community to Olivine Addition in the Muping Marine Ranch, Yantai** (2022)
-   23 citations · Enhanced Weathering
+   24 citations · Enhanced Weathering
 
 3. **The potential of wastewater treatment on carbon storage through ocean alkalinity enhancement** (2025)
-   17 citations · Enhanced Weathering
+   20 citations · Enhanced Weathering
 
 4. **Potential of CO2 sequestration by olivine addition in offshore waters: A ship-based deck incubation experiment** (2024)
-   7 citations · Enhanced Weathering
+   8 citations · Enhanced Weathering
 
 5. **Olivine-induced seasonal dynamics of eukaryotic microalgal and bacterial assemblages in mid-latitude nearshore marine ecosystems** (2025)
-   3 citations · Ocean CDR
+   4 citations · Ocean CDR
 
 6. **Differential impacts of ocean acidification and alkalinization on shell microstructure and molecular responses in Mytilus edulis** (2026)
    1 citations · Ocean CDR
 
-7. **Differential responses of size-fractionated eukaryotic microalgae to ocean alkalinity enhancement in oligotrophic seawaters** (2026)
+7. **Site-specific seawater conditions modulate bacterial community responses to ocean alkalinity enhancement** (2026)
+   0 citations · General CDR
+
+8. **Differential responses of size-fractionated eukaryotic microalgae to ocean alkalinity enhancement in oligotrophic seawaters** (2026)
    0 citations · Ocean CDR
 
-8. **Potential of CO2 sequestration by olivine addition in offshore waters: A ship-based deck incubation experiment** (2025)
+9. **Potential of CO2 sequestration by olivine addition in offshore waters: A ship-based deck incubation experiment** (2025)
    0 citations
 
 ## External Profiles

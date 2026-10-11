@@ -1,7 +1,7 @@
 ---
 title: "Júnior Melo Damian"
 description: "Júnior Melo Damian is a Mid-career Soil Carbon researcher at Embrapa Agricultura Digital in BR. With 60 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.365702
+date: 2026-10-11T02:32:59.372966
 url: "/cdr-researcher-census/researchers/junior-melo-damian-a5051326/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Impact of land use intensification on key drivers of soil organic carbon pools in Brazil’s Central-West** (2024)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 2. **Soil carbon sequestration through adopting sustainable management practices: potential and opportunity for the American countries** (2021)
    7 citations · General CDR
@@ -61,6 +61,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 4. **Predicting carbon stocks in deeper soil layers using topsoil data** (2026)
    0 citations
+
+5. **Soil Carbon Dynamics and Physicochemical Properties in an 11-Years Old Crop-Livestock-Forestry System of Central Brazil** (2023)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Kaili He"
 description: "Kaili He is a Mid-career Biochar researcher at Hainan University in CN. With 19 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.478012
+date: 2026-10-11T02:32:59.489368
 url: "/cdr-researcher-census/researchers/kaili-he-a5004665/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Oxidative hydrothermal carbonization to fabricate versatile magnetic biochar for Fenton-like degradation of phenolic compounds** (2024)
-   16 citations · Biochar
+   17 citations · Biochar
 
 2. **Microstructure regulation to manifold catalysis sites of magnetic hydrochar for enhancing Fenton-like degradation of tetracycline** (2025)
-   7 citations · Biochar
+   8 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Mohamed S. H. Moustafa"
 description: "Mohamed S. H. Moustafa is a Mid-career Enhanced Weathering researcher at Sultan Qaboos University in OM. With 37 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.117833
+date: 2026-10-11T02:33:00.148695
 url: "/cdr-researcher-census/researchers/mohamed-s-h-moustafa-a5054760/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Experimental studies on CO2 sequestration via enhanced rock weathering in seawater: Insights for climate change mitigation strategies in coastal and open ocean environments** (2024)
-   5 citations · Enhanced Weathering
+   4 citations · Enhanced Weathering
 
 2. **Developing reactive CO₂ removal materials from thermally activated lizardite and marble waste: A pathway toward sustainable climate mitigation** (2025)
    0 citations · Enhanced Weathering

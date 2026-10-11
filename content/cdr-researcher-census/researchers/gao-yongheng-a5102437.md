@@ -1,7 +1,7 @@
 ---
 title: "Gao Yongheng"
 description: "Gao Yongheng is a Mid-career Enhanced Weathering researcher at Chinese Academy of Sciences in CN. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.019374
+date: 2026-10-11T02:33:00.050681
 url: "/cdr-researcher-census/researchers/gao-yongheng-a5102437/"
 layout: "researcher"
 hiddenInHomeList: true

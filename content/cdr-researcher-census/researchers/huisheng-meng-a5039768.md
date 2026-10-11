@@ -1,7 +1,7 @@
 ---
 title: "Huisheng Meng"
 description: "Huisheng Meng is a Senior Soil Carbon researcher at Shanxi Agricultural University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.596632
+date: 2026-10-11T02:32:59.613416
 url: "/cdr-researcher-census/researchers/huisheng-meng-a5039768/"
 layout: "researcher"
 hiddenInHomeList: true

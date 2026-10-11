@@ -1,7 +1,7 @@
 ---
 title: "Liang Wei"
 description: "Liang Wei is a Senior Soil Carbon researcher at Ningbo University in CN. With 40 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.193290
+date: 2026-10-11T02:32:59.197280
 url: "/cdr-researcher-census/researchers/liang-wei-a5103137/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Visualization and quantification of carbon “rusty sink” by rice root iron plaque: Mechanisms, functions, and global implications** (2022)
-   86 citations · Soil Carbon
+   90 citations · Soil Carbon
 
 2. **Carbon stabilization by iron plaque on rice roots: The role of oxygen loss** (2025)
    23 citations · Soil Carbon
 
 3. **Bacterial necromass decomposition and priming effects in paddy soils depend on long-term fertilization** (2025)
-   17 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 4. **Coupling of microbial-explicit model and machine learning improves the prediction and turnover process simulation of soil organic carbon** (2024)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 5. **Influence of Vegetation Type and Park Age on Soil Dissolved Organic Matter Composition in Subtropical Urban Parks** (2026)
    2 citations · Soil Carbon

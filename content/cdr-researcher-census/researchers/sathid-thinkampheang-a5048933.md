@@ -1,7 +1,7 @@
 ---
 title: "Sathid Thinkampheang"
 description: "Sathid Thinkampheang is a Mid-career Soil Carbon researcher at Kasetsart University in TH. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.369910
+date: 2026-10-11T02:33:00.405487
 url: "/cdr-researcher-census/researchers/sathid-thinkampheang-a5048933/"
 layout: "researcher"
 hiddenInHomeList: true

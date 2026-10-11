@@ -1,7 +1,7 @@
 ---
 title: "Khudayberdi Nazarov"
 description: "Khudayberdi Nazarov is a Mid-career Soil Carbon researcher at Tashkent State Agrarian University in UZ. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.356417
+date: 2026-10-11T02:33:00.391341
 url: "/cdr-researcher-census/researchers/khudayberdi-nazarov-a5041532/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The long-term nitrogen fertilizer management strategy based on straw return can improve the productivity of wheat-maize rotation system and reduce carbon emissions by increasing soil carbon and nitrogen sequestration** (2024)
-   48 citations · Soil Carbon
+   54 citations · Soil Carbon
 
 ## External Profiles
 

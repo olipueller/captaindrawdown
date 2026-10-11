@@ -1,7 +1,7 @@
 ---
 title: "Ying-Chao Ji"
 description: "Ying-Chao Ji is a Mid-career Soil Carbon researcher at Beijing Forestry University in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.294459
+date: 2026-10-11T02:33:00.324570
 url: "/cdr-researcher-census/researchers/ying-chao-ji-a5103233/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Network Meta-Analysis of Factors Influencing the Carbon Sink Capacity of Urban Park Green Spaces** (2025)
-   1 citations · General CDR
+   2 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Andrea Cappelli"
 description: "Andrea Cappelli is a Senior Biochar researcher at Sapienza University of Rome in IT. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.060574
+date: 2026-10-11T02:33:00.090517
 url: "/cdr-researcher-census/researchers/andrea-cappelli-a5042667/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A Life Cycle Assessment of an Energy-Biochar Chain Involving a Gasification Plant in Italy** (2021)
-   62 citations · Biochar
+   63 citations · Biochar
 
 2. **LCA Sensitivity Analysis of an Energy-Biochar Chain from an Italian Gasification Plant: Environmental Trade-offs Assessment** (2023)
    3 citations · Biochar

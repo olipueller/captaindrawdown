@@ -1,7 +1,7 @@
 ---
 title: "Xiaoyu Chen"
 description: "Xiaoyu Chen is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.678382
+date: 2026-10-11T02:32:59.697883
 url: "/cdr-researcher-census/researchers/xiaoyu-chen-a5100386/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Modified soil physicochemical properties promoted sequestration of organic and inorganic carbon synergistically during revegetation in desertified land** (2021)
-   38 citations · Soil Carbon
+   37 citations · Soil Carbon
 
 2. **Dissimilar evolution of soil dissolved organic matter chemical properties during revegetation with arbor and shrub in desertified land of the Mu Us Desert** (2022)
    30 citations · Soil Carbon
 
 3. **Effects of arbuscular mycorrhizal tree dominance and soil depth on microbial biomass and soil organic carbon fractions in a subtropical forest across the wet and dry seasons** (2026)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

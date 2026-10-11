@@ -1,7 +1,7 @@
 ---
 title: "Anita Kumawat"
 description: "Anita Kumawat is a Senior Soil Carbon researcher at ICAR Indian Institute of Soil and Water Conservation in IN. With 63 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.308441
+date: 2026-10-11T02:32:59.313762
 url: "/cdr-researcher-census/researchers/anita-kumawat-a5044790/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    81 citations · Soil Carbon
 
 2. **Integrated watershed management for transforming dryland livelihoods: A climate-smart strategy for sustainable dryland agriculture in India** (2025)
-   22 citations · General CDR
+   25 citations · General CDR
 
-3. **Agroforestry and Its Services for Soil Management and Sustainability** (2021)
+3. **Soil Amendments: An Ecofriendly Approach for Soil Health Improvement and Sustainable Oilseed Production** (2022)
    17 citations · Soil Carbon
 
-4. **Soil Amendments: An Ecofriendly Approach for Soil Health Improvement and Sustainable Oilseed Production** (2022)
-   16 citations · Soil Carbon
+4. **Agroforestry and Its Services for Soil Management and Sustainability** (2021)
+   17 citations · Soil Carbon
 
 5. **Crop Residue Management: A Novel Technique for Restoring Soil Health and Sustainable Intensification in India** (2021)
    10 citations · Soil Carbon

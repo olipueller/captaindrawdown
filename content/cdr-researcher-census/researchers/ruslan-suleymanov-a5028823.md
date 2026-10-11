@@ -1,7 +1,7 @@
 ---
 title: "Ruslan Suleymanov"
 description: "Ruslan Suleymanov is a Senior Soil Carbon researcher at Ufa Institute of Chemistry in RU. With 67 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.555632
+date: 2026-10-11T02:32:59.570634
 url: "/cdr-researcher-census/researchers/ruslan-suleymanov-a5028823/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · Soil Carbon
 
 3. **Carbon Sequestration at Different Stages of Succession During Pine (Pinus sylvestris) Afforestation of Abandoned Lands** (2024)
-   4 citations · General CDR
+   5 citations · General CDR
 
 4. **Productivity of vegetation and carbon stock in meadow steppe on fallow areas in the Bashkir Cis‐Urals (Southern Urals region), Russia** (2024)
    3 citations · Soil Carbon

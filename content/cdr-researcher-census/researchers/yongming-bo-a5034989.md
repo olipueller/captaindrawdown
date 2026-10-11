@@ -1,7 +1,7 @@
 ---
 title: "Yongming Bo"
 description: "Yongming Bo is a Mid-career Soil Carbon researcher at University of Nottingham Ningbo China in CN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.300220
+date: 2026-10-11T02:33:00.330656
 url: "/cdr-researcher-census/researchers/yongming-bo-a5034989/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Gema Bárcenas-Moreno"
 description: "Gema Bárcenas-Moreno is a Senior Soil Carbon researcher at Universidad de Sevilla in ES. With 29 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.195782
+date: 2026-10-11T02:32:59.199726
 url: "/cdr-researcher-census/researchers/gema-barcenas-moreno-a5086594/"
 layout: "researcher"
 hiddenInHomeList: true

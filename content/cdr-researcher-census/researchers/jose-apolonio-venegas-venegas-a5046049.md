@@ -1,7 +1,7 @@
 ---
 title: "José Apolonio Venegas Venegas"
 description: "José Apolonio Venegas Venegas is a Mid-career Soil Carbon researcher at Universidad Autónoma de Chiapas in MX. With 38 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.109735
+date: 2026-10-11T02:33:00.140435
 url: "/cdr-researcher-census/researchers/jose-apolonio-venegas-venegas-a5046049/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    23 citations · General CDR
 
 2. **Silvopastoral systems reduce soil CO2 emissions, enhance carbon stocks, and regulate the micro-environment in tropical grazing lands** (2025)
-   8 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 3. **Soil Organic Carbon Storage in Cof fee Agroforestry Systems: A review** (2025)
    1 citations · Soil Carbon

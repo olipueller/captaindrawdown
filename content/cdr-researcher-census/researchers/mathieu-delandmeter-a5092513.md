@@ -1,7 +1,7 @@
 ---
 title: "Mathieu Delandmeter"
 description: "Mathieu Delandmeter is a Mid-career Soil Carbon researcher at University of Liège in BE. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.369513
+date: 2026-10-11T02:33:00.405093
 url: "/cdr-researcher-census/researchers/mathieu-delandmeter-a5092513/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A multi model ensemble reveals net climate benefits from regenerative practices in US Midwest croplands** (2025)
-   16 citations · General CDR
+   17 citations · General CDR
 
 2. **Livestock Integration Into Cropping Systems Enhances Their Climate Change Resistance and Mitigation While Reducing Their Environmental Impacts** (2026)
-   3 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 3. **Agroecological transitions reveal trade-offs and synergies among ecosystem services** (2026)
    0 citations

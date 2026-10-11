@@ -1,7 +1,7 @@
 ---
 title: "Alok Kumar Singh"
 description: "Alok Kumar Singh is a Senior General CDR researcher at Banaras Hindu University in IN. With 39 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.046664
+date: 2026-10-11T02:33:00.077387
 url: "/cdr-researcher-census/researchers/alok-kumar-singh-a5100661/"
 layout: "researcher"
 hiddenInHomeList: true

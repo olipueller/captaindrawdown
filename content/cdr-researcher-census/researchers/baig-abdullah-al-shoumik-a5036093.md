@@ -1,7 +1,7 @@
 ---
 title: "Baig Abdullah Al Shoumik"
 description: "Baig Abdullah Al Shoumik is a Mid-career Soil Carbon researcher. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.458877
+date: 2026-10-11T02:32:59.470015
 url: "/cdr-researcher-census/researchers/baig-abdullah-al-shoumik-a5036093/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,10 +46,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Dynamics of soil organic carbon and total nitrogen in particulate and mineral-associated organic matter fractions under different continuous land use patterns across Europe** (2024)
-   39 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 2. **Although invisible, fungi are recognized as the engines of a microbial powerhouse that drives soil ecosystem services** (2025)
-   12 citations
+   14 citations
 
 3. **Dynamics of soil carbon stock in response to land use conversion in European woodland and shrubland in the last decade** (2025)
    1 citations · Soil Carbon

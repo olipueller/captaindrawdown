@@ -1,7 +1,7 @@
 ---
 title: "Vinod Prasad Khanduri"
 description: "Vinod Prasad Khanduri is a Senior Soil Carbon researcher at Veer Chandra Singh Garhwali Uttarakhand University of Horticulture & Forestry in IN. With 103 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.267982
+date: 2026-10-11T02:32:59.271956
 url: "/cdr-researcher-census/researchers/vinod-prasad-khanduri-a5082455/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon Sequestration Potential of Agroforestry versus Adjoining Forests at Different Altitudes in the Garhwal Himalayas** (2024)
-   27 citations
+   28 citations
 
 2. **Vegetation composition, soil properties, and carbon stock of montane forests along a disturbance in the Garhwal Himalaya, India** (2023)
-   21 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 3. **Carbon Sequestration Potential of Different Land Use Sectors of Western Himalaya** (2021)
    18 citations
 
 4. **Tree diversity, carbon sequestration and production potential of Oryza sativa L. in traditional agroforestry systems of Garhwal Himalaya, India** (2025)
-   11 citations · General CDR
+   13 citations · General CDR
 
 5. **Effect of altitudes and aspects on carbon sequestration potential of Quercus floribunda forests of Garhwal Himalayas** (2024)
    9 citations · Soil Carbon

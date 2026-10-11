@@ -1,7 +1,7 @@
 ---
 title: "Zhibo Liang"
 description: "Zhibo Liang is a Mid-career Biochar researcher at Dalian University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.246260
+date: 2026-10-11T02:33:00.276357
 url: "/cdr-researcher-census/researchers/zhibo-liang-a5013256/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Optimization of ethylene thiourea, cyanide, and heavy metals removal and gas production enhancement in organosulfur pesticide wastewater using ferromagnetic biochar in anaerobic membrane bioreactor** (2024)
-   1 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

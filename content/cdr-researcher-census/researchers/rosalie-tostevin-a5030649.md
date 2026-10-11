@@ -1,7 +1,7 @@
 ---
 title: "Rosalie Tostevin"
 description: "Rosalie Tostevin is a Mid-career Enhanced Weathering researcher at University of Oxford in GB. With 74 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.112161
+date: 2026-10-11T02:32:59.116806
 url: "/cdr-researcher-census/researchers/rosalie-tostevin-a5030649/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -65,13 +65,16 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 5. **Assessing carbon dioxide removal across wollastonite application gradients in mesocosm enhanced rock weathering experiments** (2026)
    0 citations · Enhanced Weathering
 
-6. **Evaluating Total Cation Accounting (TCA) as an MRV Approach for Enhanced Rock Weathering - Insights from a trial in Ontario, Canada** (2025)
-   0 citations · Enhanced Weathering
-
-7. **Quantifying potential carbon dioxide removal via enhanced weathering using porewater from a field trial in Scotland** (2025)
+6. **Quantifying potential carbon dioxide removal via enhanced weathering using porewater from a field trial in Scotland** (2025)
    0 citations
 
-8. **Novel extraction method designed to estimate the topsoil pore water reservoir of carbon dioxide removal through enhanced weathering of silicate minerals** (2025)
+7. **Evaluating Total Cation Accounting (TCA) as an MRV Approach for Enhanced Rock Weathering - Insights from a trial in Ontario, Canada** (2025)
+   0 citations · Enhanced Weathering
+
+8. **Quantifying potential carbon dioxide removal via enhanced weathering using porewater from a field trial in Scotland** (2025)
+   0 citations
+
+9. **Novel extraction method designed to estimate the topsoil pore water reservoir of carbon dioxide removal through enhanced weathering of silicate minerals** (2025)
    0 citations · Enhanced Weathering
 
 ## External Profiles

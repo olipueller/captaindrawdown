@@ -1,7 +1,7 @@
 ---
 title: "Marius L. van der Vyver"
 description: "Marius L. van der Vyver is a Mid-career Soil Carbon researcher at Nelson Mandela University in ZA. With 8 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.810800
+date: 2026-10-11T02:32:59.835950
 url: "/cdr-researcher-census/researchers/marius-l-van-der-vyver-a5076802/"
 layout: "researcher"
 hiddenInHomeList: true

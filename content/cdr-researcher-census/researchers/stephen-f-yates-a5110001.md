@@ -1,7 +1,7 @@
 ---
 title: "Stephen F. Yates"
 description: "Stephen F. Yates is a Senior General CDR researcher at Algonquin College in CA. With 41 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.279919
+date: 2026-10-11T02:32:59.284160
 url: "/cdr-researcher-census/researchers/stephen-f-yates-a5110001/"
 layout: "researcher"
 hiddenInHomeList: true

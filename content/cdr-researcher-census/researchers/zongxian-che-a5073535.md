@@ -1,7 +1,7 @@
 ---
 title: "Zongxian Che"
 description: "Zongxian Che is a Senior Soil Carbon researcher at Gansu Academy of Agricultural Sciences in CN. With 38 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.446058
+date: 2026-10-11T02:32:59.456538
 url: "/cdr-researcher-census/researchers/zongxian-che-a5073535/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term green manuring increases soil carbon sequestration via decreasing qCO2 caused by lower microbial phosphorus limitation in a dry land field** (2024)
-   43 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 2. **Changes in soil organic carbon pools following long-term fertilization under a rain-fed cropping system in the Loess Plateau, China** (2021)
    18 citations · General CDR
 
 3. **Green manuring outperforms cattle manure in soil carbon sequestration by reshaping dissolved organic matter composition and fungal life strategies** (2026)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 4. **Multi-year intercropping with green manure increases maize yield by improving soil quality, regulating element content, and influencing microbial communities** (2025)
    0 citations · Soil Carbon

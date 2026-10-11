@@ -1,7 +1,7 @@
 ---
 title: "Jianqin Zhou"
 description: "Jianqin Zhou is a Senior Soil Carbon researcher at Climate Central in US. With 34 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.403141
+date: 2026-10-11T02:32:59.412210
 url: "/cdr-researcher-census/researchers/jianqin-zhou-a5100832/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Grazing and reclamation-induced microbiome alterations drive organic carbon stability within soil aggregates in alpine steppes** (2023)
    27 citations · Soil Carbon
 
-2. **Microbial-derived carbon is key to mineral-associated organic carbon accumulation in arid cropland soils** (2026)
+2. **Microbial community assembly mediated by soil organic carbon stability in aggregates under long-term enclosure alpine meadows** (2026)
+   1 citations
+
+3. **Microbial-derived carbon is key to mineral-associated organic carbon accumulation in arid cropland soils** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

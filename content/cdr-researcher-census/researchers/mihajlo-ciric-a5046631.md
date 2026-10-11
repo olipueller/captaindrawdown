@@ -1,7 +1,7 @@
 ---
 title: "Mihajlo Ćirić"
 description: "Mihajlo Ćirić is a Mid-career Soil Carbon researcher at Institute of Field and Vegetable Crops in RS. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.114589
+date: 2026-10-11T02:33:00.145468
 url: "/cdr-researcher-census/researchers/mihajlo-ciric-a5046631/"
 layout: "researcher"
 hiddenInHomeList: true

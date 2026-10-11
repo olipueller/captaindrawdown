@@ -1,7 +1,7 @@
 ---
 title: "Kelly Ann Bona"
 description: "Kelly Ann Bona is a Senior Soil Carbon researcher at Environment and Climate Change Canada in CA. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.492890
+date: 2026-10-11T02:32:59.504987
 url: "/cdr-researcher-census/researchers/kelly-ann-bona-a5032781/"
 layout: "researcher"
 hiddenInHomeList: true

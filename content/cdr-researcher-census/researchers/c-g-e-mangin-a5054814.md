@@ -1,7 +1,7 @@
 ---
 title: "C G E Mangin"
 description: "C G E Mangin is a Senior General CDR researcher at University of Michigan in US. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.480608
+date: 2026-10-11T02:32:59.491960
 url: "/cdr-researcher-census/researchers/c-g-e-mangin-a5054814/"
 layout: "researcher"
 hiddenInHomeList: true

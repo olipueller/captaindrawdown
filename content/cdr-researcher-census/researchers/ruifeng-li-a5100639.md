@@ -1,7 +1,7 @@
 ---
 title: "Ruifeng Li"
 description: "Ruifeng Li is a Senior Soil Carbon researcher. With 42 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.452030
+date: 2026-10-11T02:32:59.462807
 url: "/cdr-researcher-census/researchers/ruifeng-li-a5100639/"
 layout: "researcher"
 hiddenInHomeList: true

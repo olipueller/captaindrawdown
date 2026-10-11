@@ -1,7 +1,7 @@
 ---
 title: "Christopher Just"
 description: "Christopher Just is a Mid-career Soil Carbon researcher at Institute of Forestry in RS. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.838083
+date: 2026-10-11T02:32:59.864163
 url: "/cdr-researcher-census/researchers/christopher-just-a5031354/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 241 |
 | Publications | 21 |
-| CDR Focus | 14.3% |
+| CDR Focus | 19.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Soil organic carbon sequestration in agricultural long-term field experiments as derived from particulate and mineral-associated organic matter** (2023)
-   79 citations · Soil Carbon
+   83 citations · Soil Carbon
 
 2. **Balancing Organic and Inorganic Carbon Dynamics in Enhanced Rock Weathering: Implications for Carbon Sequestration** (2025)
-   23 citations · Enhanced Weathering
+   22 citations · Enhanced Weathering
 
 3. **Enhanced Rock Weathering Affects Formation of Mineral-Associated Organic Carbon in Soil** (2026)
    0 citations · Enhanced Weathering

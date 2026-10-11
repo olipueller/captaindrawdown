@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Rahimi"
 description: "Mohammad Rahimi is a Senior Ocean CDR researcher at University of Houston in US. With 47 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.115989
+date: 2026-10-11T02:32:59.120627
 url: "/cdr-researcher-census/researchers/mohammad-rahimi-a5074012/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Electrochemical Carbon Dioxide Capture and Release with a Redox-Active Amine** (2022)
-   149 citations · DAC
+   147 citations · DAC
 
 2. **Direct ocean capture: the emergence of electrochemical processes for oceanic carbon removal** (2023)
-   73 citations · Ocean CDR
+   75 citations · Ocean CDR
 
 3. **Development of a Membraneless Flow-Through Electrochemical Cell for Direct Ocean Capture** (2026)
    0 citations · General CDR

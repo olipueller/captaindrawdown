@@ -1,7 +1,7 @@
 ---
 title: "Ayesha Abdul Qadir"
 description: "Ayesha Abdul Qadir is a Mid-career Soil Carbon researcher at Tianjin University in CN. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.681610
+date: 2026-10-11T02:32:59.701591
 url: "/cdr-researcher-census/researchers/ayesha-abdul-qadir-a5062461/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Assessment of the Change in Soil Properties and Aggregates Formation of Freshly Restored Texturally Different Marginally Salt-Affected Soils Under Various Soil Amelioration Strategies** (2024)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 2. **Gypsum and Manure Impacts on Contrasting Textured Saline-Sodic Soils and Greenhouse Gas Emissions** (2025)
    2 citations · Soil Carbon

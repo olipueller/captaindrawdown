@@ -1,7 +1,7 @@
 ---
 title: "Xibin Sun"
 description: "Xibin Sun is a Mid-career Soil Carbon researcher at Sun Yat-sen University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.984044
+date: 2026-10-11T02:33:00.015100
 url: "/cdr-researcher-census/researchers/xibin-sun-a5005810/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Meta-analysis shows that planting nitrogen-fixing species increases soil organic carbon stock** (2025)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 2. **Divergent responses of soil and microbial stoichiometry to plant detritus reduction across global forests** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

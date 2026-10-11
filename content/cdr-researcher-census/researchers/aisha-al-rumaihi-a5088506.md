@@ -1,7 +1,7 @@
 ---
 title: "Aisha Al-Rumaihi"
 description: "Aisha Al-Rumaihi is a Mid-career Biochar researcher at Hamad bin Khalifa University in QA. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.254141
+date: 2026-10-11T02:32:59.258193
 url: "/cdr-researcher-census/researchers/aisha-al-rumaihi-a5088506/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A review of pyrolysis technologies and feedstock: A blending approach for plastic and biomass towards optimum biochar yield** (2022)
-   642 citations · Biochar
+   653 citations · Biochar
 
 2. **Assessing plastic and biomass-based biochar's potential for carbon sequestration: an energy-water-environment approach** (2023)
    19 citations · Biochar

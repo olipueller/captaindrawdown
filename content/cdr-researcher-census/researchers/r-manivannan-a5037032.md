@@ -1,7 +1,7 @@
 ---
 title: "R. Manivannan"
 description: "R. Manivannan is a Mid-career Soil Carbon researcher at Indian Institute of Oilseeds Research in IN. With 38 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.368628
+date: 2026-10-11T02:33:00.404237
 url: "/cdr-researcher-census/researchers/r-manivannan-a5037032/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Priyanka Rajput"
 description: "Priyanka Rajput is a Mid-career Soil Carbon researcher at Institute of Minerals and Materials Technology in IN. With 39 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.558435
+date: 2026-10-11T02:32:59.573734
 url: "/cdr-researcher-census/researchers/priyanka-rajput-a5089736/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon stock inventory and biomass production in different land use systems of Northwestern Himalaya** (2023)
-   8 citations · General CDR
+   9 citations · General CDR
 
 2. **Land use and altitudinal variability in biomass and carbon storage potential in mid-hill and sub-humid conditions of north-western Himalayas** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

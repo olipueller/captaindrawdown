@@ -1,7 +1,7 @@
 ---
 title: "Katrin Sievert"
 description: "Katrin Sievert is a Mid-career General CDR researcher at ETH Zurich in CH. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.941401
+date: 2026-10-11T02:32:59.971869
 url: "/cdr-researcher-census/researchers/katrin-sievert-a5094051/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Considering technology characteristics to project future costs of direct air capture** (2024)
-   167 citations · DAC
+   168 citations · DAC
 
 2. **Utilizing CO<sub>2</sub> as a strategy to scale up direct air capture may face fewer short-term barriers than directly storing CO<sub>2</sub>** (2024)
-   11 citations · DAC
+   12 citations · DAC
 
 3. **Sequencing Carbon Dioxide Removal into the EU ETS** (2024)
    10 citations · General CDR
 
 4. **(How to) avoid the inflationary labeling of emissions as “hard to abate”** (2025)
-   6 citations · General CDR
+   8 citations · General CDR
 
 5. **How the EU can utilize its carbon market to scale up carbon dioxide removal** (2026)
-   3 citations · BECCS
+   4 citations · BECCS
 
 6. **How the EU can utilize its carbon market to scale up carbon dioxide removal** (2026)
    0 citations · General CDR

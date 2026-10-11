@@ -1,7 +1,7 @@
 ---
 title: "Qiyu Shi"
 description: "Qiyu Shi is a Mid-career Biochar researcher at Xi'an University of Architecture and Technology in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.415349
+date: 2026-10-11T02:32:59.425248
 url: "/cdr-researcher-census/researchers/qiyu-shi-a5001703/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Fe/S co-doped biochar catalysts for enhanced peroxymonosulfate activation: Synergistic effects of catalysis and anti-deactivation on antibiotic degradation** (2025)
-   27 citations · Biochar
+   31 citations · Biochar
 
 2. **A highly-efficient peroxymonosulfate activator using a sewage sludge derived biochar supported cobalt oxide: Mechanism and characteristics** (2024)
-   16 citations · Biochar
+   17 citations · Biochar
 
 ## External Profiles
 

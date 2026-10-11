@@ -1,7 +1,7 @@
 ---
 title: "Stuart Jenkins"
 description: "Stuart Jenkins is a Senior General CDR researcher at University of Oxford in GB. With 87 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.094457
+date: 2026-10-11T02:32:59.099028
 url: "/cdr-researcher-census/researchers/stuart-jenkins-a5077411/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Net Zero: Science, Origins, and Implications** (2022)
-   220 citations · General CDR
+   219 citations · General CDR
 
 2. **Geological Net Zero and the need for disaggregated accounting for carbon sinks** (2024)
-   87 citations · General CDR
+   89 citations · General CDR
 
 3. **Upstream decarbonization through a carbon takeback obligation: An affordable backstop climate policy** (2021)
-   59 citations · General CDR
+   58 citations · General CDR
 
 4. **Responsible carbon dioxide removals and the EU’s 2040 climate target** (2024)
    14 citations · General CDR
 
 5. **Carbon storage portfolios for the transition to net zero** (2025)
-   1 citations · Biochar
+   2 citations · Biochar
 
 6. **Certification and MRV requirements to operationalise geological offsets in the aviation sector** (2026)
    0 citations · BECCS

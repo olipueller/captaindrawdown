@@ -1,7 +1,7 @@
 ---
 title: "Zhikang Deng"
 description: "Zhikang Deng is a Mid-career Biochar researcher at Shanghai University of Engineering Science in CN. With 55 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.274831
+date: 2026-10-11T02:32:59.279083
 url: "/cdr-researcher-census/researchers/zhikang-deng-a5049819/"
 layout: "researcher"
 hiddenInHomeList: true

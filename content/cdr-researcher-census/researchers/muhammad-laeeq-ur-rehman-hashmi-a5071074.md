@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Laeeq ur Rehman Hashmi"
 description: "Muhammad Laeeq ur Rehman Hashmi is a Mid-career Soil Carbon researcher at Department of Ecology and Environment of Hainan Province in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.415162
+date: 2026-10-11T02:32:59.425070
 url: "/cdr-researcher-census/researchers/muhammad-laeeq-ur-rehman-hashmi-a5071074/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of land use type on soil aggregate stability and organic carbon fractions in the He Huang Valley, Qinghai-Tibet plateau** (2025)
-   2 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

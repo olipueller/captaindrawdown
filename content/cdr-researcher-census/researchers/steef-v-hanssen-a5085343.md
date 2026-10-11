@@ -1,7 +1,7 @@
 ---
 title: "Steef V. Hanssen"
 description: "Steef V. Hanssen is a Mid-career General CDR researcher at Radboud University Nijmegen in NL. With 45 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.110043
+date: 2026-10-11T02:32:59.114632
 url: "/cdr-researcher-census/researchers/steef-v-hanssen-a5085343/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Global implications of crop‐based bioenergy with carbon capture and storage for terrestrial vertebrate biodiversity** (2021)
-   53 citations · BECCS
+   51 citations · BECCS
 
 2. **Increased but not pristine soil organic carbon stocks in restored ecosystems** (2025)
-   43 citations · General CDR
+   49 citations · General CDR
 
 3. **The global mismatch between equitable carbon dioxide removal liability and capacity** (2023)
    33 citations · General CDR

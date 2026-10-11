@@ -1,7 +1,7 @@
 ---
 title: "Ayibanoa Lekoo Ibaba"
 description: "Ayibanoa Lekoo Ibaba is a Mid-career Biochar researcher at Landmark University in NG. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.362135
+date: 2026-10-11T02:33:00.397871
 url: "/cdr-researcher-census/researchers/ayibanoa-lekoo-ibaba-a5001211/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar: A Sustainable Solution for Mitigating Greenhouse Gas Emissions and Enhancing Soil Productivity—A Review** (2026)
-   7 citations · Biochar
+   10 citations · Biochar
 
 ## External Profiles
 

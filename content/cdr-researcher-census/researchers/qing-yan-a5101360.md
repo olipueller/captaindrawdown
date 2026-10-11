@@ -1,7 +1,7 @@
 ---
 title: "Qing Yan"
 description: "Qing Yan is a Senior Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.559854
+date: 2026-10-11T02:32:59.575364
 url: "/cdr-researcher-census/researchers/qing-yan-a5101360/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Elucidating the impact of mulching film on organic carbon mineralization from the perspective of aggregate level** (2024)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 ## External Profiles
 

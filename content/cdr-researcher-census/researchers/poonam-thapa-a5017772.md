@@ -1,7 +1,7 @@
 ---
 title: "Poonam Thapa"
 description: "Poonam Thapa is a Senior Soil Carbon researcher at South China Botanical Garden in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.651075
+date: 2026-10-11T02:32:59.670190
 url: "/cdr-researcher-census/researchers/poonam-thapa-a5017772/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Fiddling with the blue carbon: Fiddler crab burrows enhance CO2 and CH4 efflux in saltmarsh** (2022)
-   40 citations · Soil Carbon
+   41 citations · Soil Carbon
 
 2. **Nitrogen deposition in low-phosphorus tropical forests benefits soil C sequestration but not stabilization** (2022)
-   15 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 3. **Enhanced abundance of generalist and litter saprotrophs explain increased tropical forest soil carbon with long‐term nitrogen deposition** (2023)
    12 citations · Soil Carbon

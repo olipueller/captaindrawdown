@@ -1,7 +1,7 @@
 ---
 title: "Guangdao Bao"
 description: "Guangdao Bao is a Mid-career Soil Carbon researcher at Jilin Provincial Academy of Forestry Science in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.596722
+date: 2026-10-11T02:32:59.613517
 url: "/cdr-researcher-census/researchers/guangdao-bao-a5015819/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Grazing‐N addition interactions drive soil carbon priming and balance via bacterial assimilation in a meadow steppe** (2025)
+1. **Urban agroforestry compositions influence ecosystem multifunctionality and service interactions** (2026)
    2 citations · Soil Carbon
 
-2. **Urban agroforestry compositions influence ecosystem multifunctionality and service interactions** (2026)
-   1 citations · Soil Carbon
+2. **Grazing‐N addition interactions drive soil carbon priming and balance via bacterial assimilation in a meadow steppe** (2025)
+   2 citations · Soil Carbon
 
 ## External Profiles
 

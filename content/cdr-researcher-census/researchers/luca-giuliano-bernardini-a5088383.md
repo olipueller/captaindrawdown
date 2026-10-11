@@ -1,7 +1,7 @@
 ---
 title: "Luca Giuliano Bernardini"
 description: "Luca Giuliano Bernardini is a Mid-career Soil Carbon researcher at Universitätsklinikum Tulln in AT. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.062395
+date: 2026-10-11T02:33:00.092411
 url: "/cdr-researcher-census/researchers/luca-giuliano-bernardini-a5088383/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **On-farm soil organic carbon sequestration potentials are dominated by site effects, not by management practices** (2023)
-   41 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 2. **Benchmarking carbon sequestration potentials in arable soils by on-farm research on innovative pioneer farms** (2022)
    29 citations

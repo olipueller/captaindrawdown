@@ -1,7 +1,7 @@
 ---
 title: "Lianbao Zhang"
 description: "Lianbao Zhang is a Senior Ocean CDR researcher at Marine Biomedical Research Institute of Qingdao in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.896092
+date: 2026-10-11T02:32:59.925175
 url: "/cdr-researcher-census/researchers/lianbao-zhang-a5005258/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,12 +48,18 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Biodegradation of Terrigenous Organic Matter in a Stratified Large-Volume Water Column: Implications of the Removal of Terrigenous Organic Matter in the Coastal Ocean** (2022)
-   28 citations
+   29 citations
 
 2. **Olivine-induced seasonal dynamics of eukaryotic microalgal and bacterial assemblages in mid-latitude nearshore marine ecosystems** (2025)
-   3 citations · Ocean CDR
+   4 citations · Ocean CDR
 
-3. **Influence of Alkalinity Enhancement with Olivine or Steel Slag on a Bacterial Community in Activated Sludge Systems** (2025)
+3. **Wastewater-based ocean alkalinity enhancement alleviates effluent-induced disturbance on coastal bacterial community** (2026)
+   0 citations · Ocean CDR
+
+4. **Site-specific seawater conditions modulate bacterial community responses to ocean alkalinity enhancement** (2026)
+   0 citations · General CDR
+
+5. **Influence of Alkalinity Enhancement with Olivine or Steel Slag on a Bacterial Community in Activated Sludge Systems** (2025)
    0 citations · Enhanced Weathering
 
 ## External Profiles

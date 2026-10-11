@@ -1,7 +1,7 @@
 ---
 title: "Yu-Qi Liang"
 description: "Yu-Qi Liang is a Senior Soil Carbon researcher at Shandong University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.983786
+date: 2026-10-11T02:33:00.014899
 url: "/cdr-researcher-census/researchers/yu-qi-liang-a5009206/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effect of Nano-Bubble Irrigation on the Yield and Greenhouse Gas Warming Potential of Greenhouse Tomatoes** (2023)
-   10 citations · General CDR
+   11 citations · General CDR
 
 ## External Profiles
 

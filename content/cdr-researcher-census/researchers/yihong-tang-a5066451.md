@@ -1,7 +1,7 @@
 ---
 title: "Yihong Tang"
 description: "Yihong Tang is a Senior Biochar researcher at McGill University in HK. With 51 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.210998
+date: 2026-10-11T02:32:59.215128
 url: "/cdr-researcher-census/researchers/yihong-tang-a5066451/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,15 +51,21 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **CO2-sequestering ability of lightweight concrete based on reactive magnesia cement and high-dosage biochar aggregate** (2024)
-   38 citations · Biochar
+   42 citations · Biochar
 
-2. **Enhanced CO2-sequestering capacity and mechanical property of lightweight biochar-dosed reactive MgO cement concrete by recycled pulp** (2025)
+2. **Effect of Biochar-Enabled Internal Co2 Curing on Co2 Sequestration and Mechanical Properties of Magnesia Cement-Based Lightweight Concrete** (2025)
    2 citations · Biochar
 
-3. **Effect of biochar-enabled internal CO<sub>2</sub> curing on CO<sub>2</sub> sequestration and mechanical properties of magnesia cement-based lightweight concrete** (2026)
+3. **Enhanced CO2-sequestering capacity and mechanical property of lightweight biochar-dosed reactive MgO cement concrete by recycled pulp** (2025)
+   2 citations · Biochar
+
+4. **Engineering Biochar-Magnesia Concrete (BMC) for Enhanced Ambient-Level CO2 Sequestration** (2026)
    0 citations · Biochar
 
-4. **Effect of Biochar-Enabled Internal Co2 Curing on Co2 Sequestration and Mechanical Properties of Magnesia Cement-Based Lightweight Concrete** (2025)
+5. **Engineering Biochar-Magnesia Concrete (BMC) for Enhanced Ambient-Level CO2 Sequestration** (2026)
+   0 citations · Biochar
+
+6. **Effect of biochar-enabled internal CO<sub>2</sub> curing on CO<sub>2</sub> sequestration and mechanical properties of magnesia cement-based lightweight concrete** (2026)
    0 citations · Biochar
 
 ## External Profiles

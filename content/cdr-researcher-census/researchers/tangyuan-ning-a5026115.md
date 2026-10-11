@@ -1,7 +1,7 @@
 ---
 title: "Tangyuan Ning"
 description: "Tangyuan Ning is a Senior Soil Carbon researcher at Ministry of Agriculture in EE. With 102 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.087573
+date: 2026-10-11T02:32:59.092452
 url: "/cdr-researcher-census/researchers/tangyuan-ning-a5026115/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,34 +51,34 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Physical, chemical and biological subsoiling for sustainable agriculture** (2022)
-   112 citations
+   111 citations
 
 2. **Rotary and subsoiling tillage rotations influence soil carbon and nitrogen sequestration and crop yield** (2022)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 3. **Energy storage and stability of soil organic matter during the natural restoration of abandoned cropland** (2024)
-   21 citations · Soil Carbon
+   24 citations · Soil Carbon
 
-4. **Long-term subsoiling and tillage rotation increase carbon storage in soil aggregates and the abundance of autotrophs** (2024)
-   15 citations · Soil Carbon
+4. **Crop – Livestock integration via maize straw recycling increased carbon sequestration and crop production in China** (2023)
+   16 citations · Soil Carbon
 
-5. **Crop – Livestock integration via maize straw recycling increased carbon sequestration and crop production in China** (2023)
+5. **Long-term subsoiling and tillage rotation increase carbon storage in soil aggregates and the abundance of autotrophs** (2024)
    15 citations · Soil Carbon
 
 6. **Improvement of soil aggregate-associated carbon sequestration capacity after 14 years of conservation tillage** (2022)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 7. **Long-term conservation tillage and straw return affect thermal stability of soil organic matter** (2025)
    9 citations · Soil Carbon
 
-8. **Returned straw type over soil temperature dominates microbial hotspot dynamics and SOC sequestration** (2026)
+8. **Thermal and microbial stability of organic matter during soil restoration** (2026)
+   3 citations
+
+9. **Returned straw type over soil temperature dominates microbial hotspot dynamics and SOC sequestration** (2026)
    1 citations
 
-9. **Comparative Assessment of Carbon Sequestration of Diverse Organic Waste for Sustainable Crop Production in China** (2022)
+10. **Comparative Assessment of Carbon Sequestration of Diverse Organic Waste for Sustainable Crop Production in China** (2022)
    1 citations · Soil Carbon
-
-10. **Tillage and Straw Returning Modulate Aggregate Stability, Root Metabolism, and Soil Biotic Interactions for Ecosystem Productivity** (2026)
-   0 citations · Soil Carbon
 
 ## External Profiles
 

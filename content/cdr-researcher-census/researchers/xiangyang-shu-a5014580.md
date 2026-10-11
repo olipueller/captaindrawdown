@@ -1,7 +1,7 @@
 ---
 title: "Xiangyang Shu"
 description: "Xiangyang Shu is a Mid-career Soil Carbon researcher at Ministry of Natural Resources in CN. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.349994
+date: 2026-10-11T02:32:59.356144
 url: "/cdr-researcher-census/researchers/xiangyang-shu-a5014580/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Alpine wetland litter decomposition under wet and dry conditions: A comparative study of native vs. standardized litter** (2024)
-   7 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 2. **Mixed Forestation Outperforms Pure Stands in Soil Carbon Sequestration and Stability** (2026)
    2 citations · Soil Carbon

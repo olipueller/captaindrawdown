@@ -1,7 +1,7 @@
 ---
 title: "Mahadev Bera"
 description: "Mahadev Bera is a Mid-career General CDR researcher at Ramakrishna Mission Vidyamandira in IN. With 37 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.669400
+date: 2026-10-11T02:32:59.689115
 url: "/cdr-researcher-census/researchers/mahadev-bera-a5005927/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Synergizing sustainability: a critical review on harnessing agroforestry for biomass, carbon sequestration, and water-food-energy nexus** (2024)
-   10 citations · BECCS
+   11 citations · BECCS
 
 2. **Navigating the Future: Climate Change Impacts, Mitigation Strategies, and Adaptation Pathways in Agriculture** (2025)
    3 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "K. Suganya"
 description: "K. Suganya is a Mid-career Soil Carbon researcher at Gastroenterology Medical Center and Hospital in IN. With 57 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.729561
+date: 2026-10-11T02:32:59.751016
 url: "/cdr-researcher-census/researchers/k-suganya-a5078084/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,11 +53,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **Biosolids towards Back–To–Earth alternative concept (BEA) for environmental sustainability: a review** (2021)
    18 citations
 
-3. **THE CURRENT ROLE AND IMPORTANCE OF AGROFORESTRY – A REVIEW ARTICLE** (2024)
-   6 citations · General CDR
+3. **Myco-assisted phytoextraction of heavy metals with vetiver grass: a green technology for cleaning tannery effluent contaminated sites** (2024)
+   6 citations
 
-4. **Myco-assisted phytoextraction of heavy metals with vetiver grass: a green technology for cleaning tannery effluent contaminated sites** (2024)
-   5 citations
+4. **THE CURRENT ROLE AND IMPORTANCE OF AGROFORESTRY – A REVIEW ARTICLE** (2024)
+   6 citations · General CDR
 
 5. **Potential of activated biochar for sequestration of chromium (VI) from aqueous solution: parameters optimised by RSM, Isotherm and kinetics study** (2021)
    3 citations · Biochar

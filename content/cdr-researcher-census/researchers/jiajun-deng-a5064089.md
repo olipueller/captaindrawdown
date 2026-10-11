@@ -1,7 +1,7 @@
 ---
 title: "Jiajun Deng"
 description: "Jiajun Deng is a Senior Soil Carbon researcher at Anhui Medical University in CN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.083351
+date: 2026-10-11T02:33:00.113494
 url: "/cdr-researcher-census/researchers/jiajun-deng-a5064089/"
 layout: "researcher"
 hiddenInHomeList: true

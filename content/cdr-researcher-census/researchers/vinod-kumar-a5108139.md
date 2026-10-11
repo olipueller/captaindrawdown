@@ -1,7 +1,7 @@
 ---
 title: "Vinod Kumar"
 description: "Vinod Kumar is a Senior Soil Carbon researcher at Indian Council of Agricultural Research in IN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.978927
+date: 2026-10-11T02:33:00.010479
 url: "/cdr-researcher-census/researchers/vinod-kumar-a5108139/"
 layout: "researcher"
 hiddenInHomeList: true

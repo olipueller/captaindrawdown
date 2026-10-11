@@ -1,7 +1,7 @@
 ---
 title: "Shiqi Xu"
 description: "Shiqi Xu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.306576
+date: 2026-10-11T02:33:00.337219
 url: "/cdr-researcher-census/researchers/shiqi-xu-a5046633/"
 layout: "researcher"
 hiddenInHomeList: true

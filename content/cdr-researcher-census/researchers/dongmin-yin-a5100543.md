@@ -1,7 +1,7 @@
 ---
 title: "Dongmin Yin"
 description: "Dongmin Yin is a Mid-career Biochar researcher at Harbin Institute of Technology in CN. With 39 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.203399
+date: 2026-10-11T02:32:59.207595
 url: "/cdr-researcher-census/researchers/dongmin-yin-a5100543/"
 layout: "researcher"
 hiddenInHomeList: true

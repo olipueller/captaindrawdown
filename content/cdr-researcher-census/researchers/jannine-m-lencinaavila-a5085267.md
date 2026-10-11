@@ -1,7 +1,7 @@
 ---
 title: "Jannine M. Lencina‐Avila"
 description: "Jannine M. Lencina‐Avila is a Mid-career Ocean CDR researcher at Universidade Federal do Rio Grande in BR. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.773535
+date: 2026-10-11T02:32:59.796566
 url: "/cdr-researcher-census/researchers/jannine-m-lencinaavila-a5085267/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Exploring Site‐Specific Carbon Dioxide Removal Options With Storage or Sequestration in the Marine Environment – The 10 Mt CO<sub>2</sub> yr<sup>−1</sup> Removal Challenge for Germany** (2025)
-   8 citations · General CDR
+   9 citations · General CDR
 
 2. **Direct effects of ocean alkalinity enhancement in the Baltic Sea–results from in-silico experiments** (2025)
-   3 citations · Ocean CDR
+   4 citations · Ocean CDR
 
 3. **Monitoring, reporting, and verification of marine carbon dioxide removal: Exploring scientific consensus and divergences across continents** (2026)
    0 citations · General CDR

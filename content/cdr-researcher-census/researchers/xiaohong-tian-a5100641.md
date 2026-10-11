@@ -1,7 +1,7 @@
 ---
 title: "Xiaohong Tian"
 description: "Xiaohong Tian is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.451098
+date: 2026-10-11T02:32:59.461828
 url: "/cdr-researcher-census/researchers/xiaohong-tian-a5100641/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Biochar
 
 3. **Biodegradable Plastic Film Residues Impede Soil Organic Carbon Sequestration and Macroaggregate-Associated Carbon Storage in Agricultural Soil** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 4. **Microbial life-history strategies drive soil carbon stabilization under balanced organic substitution: Trade-offs between yield- and acquisition-oriented metabolisms** (2025)
    1 citations · Soil Carbon

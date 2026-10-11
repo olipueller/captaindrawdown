@@ -1,7 +1,7 @@
 ---
 title: "Soumyaranjan Sahoo"
 description: "Soumyaranjan Sahoo is a Mid-career Soil Carbon researcher at National Institute of Hydrology in IN. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.384285
+date: 2026-10-11T02:33:00.420460
 url: "/cdr-researcher-census/researchers/soumyaranjan-sahoo-a5054898/"
 layout: "researcher"
 hiddenInHomeList: true

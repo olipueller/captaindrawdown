@@ -1,7 +1,7 @@
 ---
 title: "Dinesh Arora"
 description: "Dinesh Arora is a Senior Biochar researcher at Maharshi Dayanand University in IN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.396549
+date: 2026-10-11T02:33:00.434764
 url: "/cdr-researcher-census/researchers/dinesh-arora-a5113089/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar-modified constructed wetlands using Eclipta alba as a plant for sustainable rural wastewater treatment** (2024)
-   19 citations · Biochar
+   20 citations · Biochar
 
 2. **Horizontal flow biochar amended constructed wetlands as a sustainable approach for rural wastewater treatment** (2024)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

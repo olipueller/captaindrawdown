@@ -1,7 +1,7 @@
 ---
 title: "Mengke Chen"
 description: "Mengke Chen is a Mid-career Enhanced Weathering researcher at Chinese Academy of Sciences in CN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.490456
+date: 2026-10-11T02:32:59.502613
 url: "/cdr-researcher-census/researchers/mengke-chen-a5007420/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Glaciation enhanced chemical weathering in a cold glacial catchment, western Nyaingêntanglha Mountains, central Tibetan Plateau** (2021)
-   30 citations · Enhanced Weathering
+   31 citations · Enhanced Weathering
 
 ## External Profiles
 

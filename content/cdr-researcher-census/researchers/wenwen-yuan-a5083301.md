@@ -1,7 +1,7 @@
 ---
 title: "Wenwen Yuan"
 description: "Wenwen Yuan is a Mid-career Biochar researcher at Kunming University of Science and Technology in CN. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.873903
+date: 2026-10-11T02:32:59.901186
 url: "/cdr-researcher-census/researchers/wenwen-yuan-a5083301/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Cu/Fe co-modified nitrogen self-doped biochar as a heterogeneous Fenton-like catalyst for degradation of organic pollutants: Synthesis, performance, and mechanistic study** (2023)
-   59 citations · Biochar
+   61 citations · Biochar
 
 ## External Profiles
 

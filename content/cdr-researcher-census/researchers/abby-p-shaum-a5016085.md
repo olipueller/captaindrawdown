@@ -1,7 +1,7 @@
 ---
 title: "Abby P. Shaum"
 description: "Abby P. Shaum is a Mid-career Ocean CDR researcher at California Institute of Technology in US. With 33 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.124151
+date: 2026-10-11T02:33:00.154619
 url: "/cdr-researcher-census/researchers/abby-p-shaum-a5016085/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **How well do global ocean approaches constrain local fCO <sub>2</sub> ?** (2026)
-   0 citations · General CDR
+   1 citations · General CDR
 
 2. **How well do global ocean approaches constrain local pCO2?** (2026)
    0 citations · General CDR

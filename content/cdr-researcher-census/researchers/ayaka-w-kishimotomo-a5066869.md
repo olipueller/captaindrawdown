@@ -1,7 +1,7 @@
 ---
 title: "Ayaka W. Kishimoto‐Mo"
 description: "Ayaka W. Kishimoto‐Mo is a Mid-career Biochar researcher at National Agriculture and Food Research Organization in JP. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.275805
+date: 2026-10-11T02:32:59.280134
 url: "/cdr-researcher-census/researchers/ayaka-w-kishimotomo-a5066869/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Greenhouse Gas Inventory Model for Biochar Additions to Soil** (2021)
-   222 citations · Biochar
+   224 citations · Biochar
 
 2. **Wood gasification biochar enhances soil carbon sequestration without affecting greenhouse gas fluxes or wheat yield in sub-alkaline soil** (2025)
    8 citations · Biochar

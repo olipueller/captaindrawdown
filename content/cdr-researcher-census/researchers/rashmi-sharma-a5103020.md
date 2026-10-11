@@ -1,7 +1,7 @@
 ---
 title: "Rashmi Sharma"
 description: "Rashmi Sharma is a Senior Biochar researcher at Devi Ahilya Vishwavidyalaya in IN. With 67 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.295374
+date: 2026-10-11T02:32:59.300045
 url: "/cdr-researcher-census/researchers/rashmi-sharma-a5103020/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar application in constructed wetlands for wastewater treatment: A critical review** (2024)
-   59 citations · Biochar
+   63 citations · Biochar
 
 2. **Biochar Integration Sustaining Carbon-Nutrient Cycling and Soil Restoration** (2025)
    1 citations · Biochar

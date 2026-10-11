@@ -1,7 +1,7 @@
 ---
 title: "Ruoxu Shang"
 description: "Ruoxu Shang is a Mid-career General CDR researcher at University of California, Riverside in US. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.454634
+date: 2026-10-11T02:32:59.465714
 url: "/cdr-researcher-census/researchers/ruoxu-shang-a5033074/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Progress in carbon dioxide capture materials for deep decarbonization** (2022)
-   122 citations · General CDR
+   123 citations · General CDR
 
 2. **Forging a sustainable sky: Unveiling the pillars of aviation e-fuel production for carbon emission circularity** (2024)
-   71 citations · DAC
+   73 citations · DAC
 
 ## External Profiles
 

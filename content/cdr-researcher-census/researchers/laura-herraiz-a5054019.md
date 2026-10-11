@@ -1,7 +1,7 @@
 ---
 title: "Laura Herraiz"
 description: "Laura Herraiz is a Senior BECCS researcher at Heriot-Watt University in GB. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.233050
+date: 2026-10-11T02:33:00.263243
 url: "/cdr-researcher-census/researchers/laura-herraiz-a5054019/"
 layout: "researcher"
 hiddenInHomeList: true

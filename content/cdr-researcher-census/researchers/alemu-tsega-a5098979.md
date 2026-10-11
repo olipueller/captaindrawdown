@@ -1,7 +1,7 @@
 ---
 title: "Alemu Tsega"
 description: "Alemu Tsega is an Early-career Soil Carbon researcher at Jigjiga University in ET. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.369804
+date: 2026-10-11T02:33:00.405395
 url: "/cdr-researcher-census/researchers/alemu-tsega-a5098979/"
 layout: "researcher"
 hiddenInHomeList: true

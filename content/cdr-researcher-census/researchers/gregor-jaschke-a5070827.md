@@ -1,7 +1,7 @@
 ---
 title: "Gregor Jaschke"
 description: "Gregor Jaschke is a Senior General CDR researcher at Leipzig University in DE. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.884817
+date: 2026-10-11T02:32:59.911979
 url: "/cdr-researcher-census/researchers/gregor-jaschke-a5070827/"
 layout: "researcher"
 hiddenInHomeList: true

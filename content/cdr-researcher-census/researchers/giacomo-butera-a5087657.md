@@ -1,7 +1,7 @@
 ---
 title: "Giacomo Butera"
 description: "Giacomo Butera is a Mid-career Biochar researcher at Stiesdal SkyClean A/S in DK. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.658297
+date: 2026-10-11T02:32:59.677223
 url: "/cdr-researcher-census/researchers/giacomo-butera-a5087657/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Heat integration in digestate-to-methanol systems based on pyrolysis and alkaline water electrolysis: A comparative assessment of digestate drying and heat supply strategies** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Tajana Simetić"
 description: "Tajana Simetić is a Mid-career Biochar researcher at University of Novi Sad in RS. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.232767
+date: 2026-10-11T02:33:00.262924
 url: "/cdr-researcher-census/researchers/tajana-simetic-a5029350/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar in the Remediation of Organic Pollutants in Water: A Review of Polycyclic Aromatic Hydrocarbon and Pesticide Removal** (2024)
-   61 citations · Biochar
+   66 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Diego Camargo"
 description: "Diego Camargo is a Senior Biochar researcher at Universidad Pontificia Bolivariana in CO. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.849488
+date: 2026-10-11T02:32:59.876244
 url: "/cdr-researcher-census/researchers/diego-camargo-a5103062/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biogenic nanoporous oxides recovery from by-products of bioenergy production: Rice husks and corncob biochars** (2022)
-   15 citations · Biochar
+   16 citations · Biochar
 
 2. **Biogenic Nanoporous Oxides Recovery from By-Products of Bioenergy Production: Rice Husks and Corncob Biochars** (2022)
    1 citations · Biochar

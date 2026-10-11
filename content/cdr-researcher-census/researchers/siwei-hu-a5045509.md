@@ -1,7 +1,7 @@
 ---
 title: "Siwei Hu"
 description: "Siwei Hu is a Mid-career Soil Carbon researcher at Chongqing University in CN. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.750014
+date: 2026-10-11T02:32:59.772343
 url: "/cdr-researcher-census/researchers/siwei-hu-a5045509/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of Elevation Gradient on Soil Carbon and Nitrogen in a Typical Karst Region of Chongqing, Southwest China** (2022)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 2. **Understanding organic agriculture based on coupled human-earth systems for sustainable land use and rural development in China** (2025)
    9 citations · General CDR

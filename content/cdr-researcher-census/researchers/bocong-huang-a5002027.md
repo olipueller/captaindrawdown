@@ -1,7 +1,7 @@
 ---
 title: "Bocong Huang"
 description: "Bocong Huang is a Mid-career Soil Carbon researcher at Chongqing Jiaotong University in CN. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.859325
+date: 2026-10-11T02:32:59.886111
 url: "/cdr-researcher-census/researchers/bocong-huang-a5002027/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The formation of small macro‐aggregates induces soil organic carbon stocks in the restoration process used on cut slopes in alpine regions of China** (2022)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 2. **Enhancing soil carbon storage through carbon-iron coupling in small macro-aggregates during cut slope restorations** (2025)
    2 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Liyu Chen"
 description: "Liyu Chen is a Mid-career Soil Carbon researcher at Inner Mongolia Academy of Agricultural & Animal Husbandry Sciences in CN. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.003955
+date: 2026-10-11T02:33:00.034741
 url: "/cdr-researcher-census/researchers/liyu-chen-a5100698/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Organic Nitrogen Substitution Enhances Carbon Sequestration but Increases Greenhouse Gas Emissions in Maize Cropping Systems** (2025)
-   2 citations · General CDR
+   3 citations · General CDR
 
 2. **Effects of tillage practices on aggregate-associated soil organic carbon fractions and maize yield** (2026)
    0 citations · Soil Carbon

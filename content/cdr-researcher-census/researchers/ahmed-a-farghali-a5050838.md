@@ -1,7 +1,7 @@
 ---
 title: "Ahmed A. Farghali"
 description: "Ahmed A. Farghali is a Mid-career Biochar researcher at Misr University for Science and Technology in EG. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.095553
+date: 2026-10-11T02:33:00.126172
 url: "/cdr-researcher-census/researchers/ahmed-a-farghali-a5050838/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **High-performance activated rice straw biochar: a sustainable triple-bottom-line adsorbent for removal of water pharmaceutical pollution** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

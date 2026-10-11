@@ -1,7 +1,7 @@
 ---
 title: "Peter Beatrice"
 description: "Peter Beatrice is a Mid-career Biochar researcher at University of Insubria in IT. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.355235
+date: 2026-10-11T02:33:00.390304
 url: "/cdr-researcher-census/researchers/peter-beatrice-a5060531/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Woody and herbaceous invasive alien plant species‐derived biochars are potentially optimal for soil amendment, soil remediation, and carbon storage** (2024)
-   15 citations · Biochar
+   16 citations · Biochar
 
 ## External Profiles
 

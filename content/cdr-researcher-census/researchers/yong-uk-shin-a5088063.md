@@ -1,7 +1,7 @@
 ---
 title: "Yong-Uk Shin"
 description: "Yong-Uk Shin is a Mid-career Biochar researcher at Hanyang University in KR. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.582994
+date: 2026-10-11T02:32:59.599282
 url: "/cdr-researcher-census/researchers/yong-uk-shin-a5088063/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhanced capacitive deionization using a biochar-integrated novel flow-electrode** (2022)
-   60 citations · Biochar
+   61 citations · Biochar
 
 ## External Profiles
 

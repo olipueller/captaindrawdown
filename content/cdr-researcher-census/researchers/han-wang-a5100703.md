@@ -1,7 +1,7 @@
 ---
 title: "Han Wang"
 description: "Han Wang is a Senior Soil Carbon researcher at King University in US. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.670606
+date: 2026-10-11T02:32:59.690272
 url: "/cdr-researcher-census/researchers/han-wang-a5100703/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    15 citations · Soil Carbon
 
 2. **Long-term conservation tillage increase cotton rhizosphere sequestration of soil organic carbon by changing specific microbial CO2 fixation pathways in coastal saline soil** (2024)
-   13 citations · Biochar
+   14 citations · Biochar
 
 3. **Effects of Mulching Cultivation Practices on Nitrogen Use Efficiency, Soil Carbon Sequestration and Net Ecosystem Economic Budget of Rainfed Summer Maize in Sub‐Humid but Drought‐Prone Regions of Northwest China** (2025)
    0 citations · Soil Carbon

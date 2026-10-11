@@ -1,7 +1,7 @@
 ---
 title: "Xiangyue Liu"
 description: "Xiangyue Liu is a Mid-career Biochar researcher at Nanjing Tech University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.896711
+date: 2026-10-11T02:32:59.925888
 url: "/cdr-researcher-census/researchers/xiangyue-liu-a5103111/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Co-pyrolysis of wood chips and bentonite/kaolin: Influence of temperatures and minerals on characteristics and carbon sequestration potential of biochar** (2022)
-   61 citations · Biochar
+   63 citations · Biochar
 
 ## External Profiles
 

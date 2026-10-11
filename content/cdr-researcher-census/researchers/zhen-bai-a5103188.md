@@ -1,7 +1,7 @@
 ---
 title: "Zhen Bai"
 description: "Zhen Bai is a Senior Soil Carbon researcher at Fudan University in CN. With 53 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.339306
+date: 2026-10-11T02:32:59.345142
 url: "/cdr-researcher-census/researchers/zhen-bai-a5103188/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Stover and biochar can improve soil microbial necromass carbon, and enzymatic transformation at the genetic level** (2022)
-   29 citations · Biochar
+   31 citations · Biochar
 
 2. **Biochemical heterogeneity of soil components manipulating long-term organic carbon pool buildup over mineral protection in the mollisol** (2025)
    8 citations

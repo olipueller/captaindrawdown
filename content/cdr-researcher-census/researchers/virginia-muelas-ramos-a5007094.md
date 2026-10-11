@@ -1,7 +1,7 @@
 ---
 title: "Virginia Muelas-Ramos"
 description: "Virginia Muelas-Ramos is a Mid-career Biochar researcher at Universidad Politécnica de Madrid in ES. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.320192
+date: 2026-10-11T02:32:59.326054
 url: "/cdr-researcher-census/researchers/virginia-muelas-ramos-a5007094/"
 layout: "researcher"
 hiddenInHomeList: true

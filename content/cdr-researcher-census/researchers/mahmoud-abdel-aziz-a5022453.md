@@ -1,7 +1,7 @@
 ---
 title: "Mahmoud Abdel-Aziz"
 description: "Mahmoud Abdel-Aziz is a Mid-career Soil Carbon researcher at University Medical Center Groningen in NL. With 42 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.295269
+date: 2026-10-11T02:32:59.299931
 url: "/cdr-researcher-census/researchers/mahmoud-abdel-aziz-a5022453/"
 layout: "researcher"
 hiddenInHomeList: true

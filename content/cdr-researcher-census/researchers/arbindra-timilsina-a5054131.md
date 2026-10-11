@@ -1,7 +1,7 @@
 ---
 title: "Arbindra Timilsina"
 description: "Arbindra Timilsina is a Mid-career Soil Carbon researcher at Center for Agricultural Resources Research in CN. With 30 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.550082
+date: 2026-10-11T02:32:59.565121
 url: "/cdr-researcher-census/researchers/arbindra-timilsina-a5054131/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,11 +53,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Cereal-Legume Mixed Residue Addition Increases Yield and Reduces Soil Greenhouse Gas Emissions from Fertilized Winter Wheat in the North China Plain** (2024)
    13 citations · Soil Carbon
 
-2. **Long‐term conservation tillage practices affect total carbon and contribute to the formation of soil aggregates in the semi‐arid North China Plain** (2024)
-   7 citations · Soil Carbon
+2. **Understanding carbon storage dynamics in Ayeyarwady delta's mangrove ecosystem in Myanmar: insights for restoration efforts** (2024)
+   9 citations · General CDR
 
-3. **Understanding carbon storage dynamics in Ayeyarwady delta's mangrove ecosystem in Myanmar: insights for restoration efforts** (2024)
-   7 citations · General CDR
+3. **Long‐term conservation tillage practices affect total carbon and contribute to the formation of soil aggregates in the semi‐arid North China Plain** (2024)
+   8 citations · Soil Carbon
 
 ## External Profiles
 

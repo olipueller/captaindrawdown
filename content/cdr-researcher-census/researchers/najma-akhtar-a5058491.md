@@ -1,7 +1,7 @@
 ---
 title: "Najma Akhtar"
 description: "Najma Akhtar is a Senior DAC researcher. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.957114
+date: 2026-10-11T02:32:59.988543
 url: "/cdr-researcher-census/researchers/najma-akhtar-a5058491/"
 layout: "researcher"
 hiddenInHomeList: true

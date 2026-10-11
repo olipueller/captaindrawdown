@@ -1,7 +1,7 @@
 ---
 title: "Nanhai Zhang"
 description: "Nanhai Zhang is a Mid-career Soil Carbon researcher at Jiangxi University of Traditional Chinese Medicine in CN. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.882569
+date: 2026-10-11T02:32:59.909804
 url: "/cdr-researcher-census/researchers/nanhai-zhang-a5055881/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Environment and agricultural practices regulate enhanced biochar-induced soil carbon pools and crop yield: A meta-analysis** (2023)
-   56 citations · Biochar
+   59 citations · Biochar
 
 2. **Degradable film mulching increases soil carbon sequestration in major Chinese dryland agroecosystems** (2025)
-   34 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 3. **Can soil organic carbon sequestration and the carbon management index be improved by changing the film mulching methods in the semiarid region?** (2023)
-   19 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 ## External Profiles
 

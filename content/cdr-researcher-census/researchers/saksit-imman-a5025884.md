@@ -1,7 +1,7 @@
 ---
 title: "Saksit Imman"
 description: "Saksit Imman is a Mid-career Biochar researcher at University of Phayao in TH. With 57 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.333131
+date: 2026-10-11T02:32:59.338809
 url: "/cdr-researcher-census/researchers/saksit-imman-a5025884/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    15 citations · Biochar
 
 2. **Co-pyrolyzed sawdust–polypropylene biochar as a sustainable adsorbent for heavy-metal removal in wastewater** (2026)
-   2 citations · Biochar
+   4 citations · Biochar
 
 3. **Integrated Techno-Economic, Environmental Screening, and Social Return on Investment Analysis of Community-Scale Sawdust–Polypropylene Co-Pyrolysis for Heavy-Metal Adsorbent Production in Rural Area, Thailand** (2026)
    0 citations · Biochar

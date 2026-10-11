@@ -1,7 +1,7 @@
 ---
 title: "Shengquan Zeng"
 description: "Shengquan Zeng is a Mid-career Biochar researcher at Nanjing Normal University in CN. With 26 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.296826
+date: 2026-10-11T02:32:59.301549
 url: "/cdr-researcher-census/researchers/shengquan-zeng-a5054134/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Freia Harzendorf"
 description: "Freia Harzendorf is a Mid-career DAC researcher at Forschungszentrum Jülich in DE. With 46 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.040433
+date: 2026-10-11T02:33:00.071272
 url: "/cdr-researcher-census/researchers/freia-harzendorf-a5028836/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Weather conditions severely impact optimal direct air capture siting** (2025)
-   20 citations · DAC
+   19 citations · DAC
 
 2. **Towards water-conscious green hydrogen and methanol production: A techno-economic review** (2025)
-   12 citations · DAC
+   13 citations · DAC
 
 3. **Weather-dependent direct air capture process modeling for techno-economic assessments** (2026)
-   11 citations · DAC
+   10 citations · DAC
 
 4. **Criteria for effective site selection of direct air capture and storage projects** (2024)
-   7 citations · DAC
+   6 citations · DAC
 
 5. **From Diverse Perspectives to Informed Policymaking -An Interdisciplinary Perspective on the Assessment of DACCS and Other Terrestrial CDR Technologies** (2025)
    5 citations · DAC
@@ -68,14 +68,14 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 6. **Global strategic deployment of Direct Air Capture technologies** (2026)
    1 citations · DAC
 
-7. **Water-Conscious and CO<sup>2</sup>-Negative Hydrogen Production in the European Union** (2025)
+7. **Global strategic deployment of Direct Air Capture technologies** (2026)
    1 citations · DAC
 
-8. **Exploring Weather Impacts on Direct Air Capture Through Process and Techno-Economic Modeling** (2025)
+8. **Water-Conscious and CO<sup>2</sup>-Negative Hydrogen Production in the European Union** (2025)
    1 citations · DAC
 
-9. **Global strategic deployment of Direct Air Capture technologies** (2026)
-   0 citations · DAC
+9. **Exploring Weather Impacts on Direct Air Capture Through Process and Techno-Economic Modeling** (2025)
+   1 citations · DAC
 
 10. **Global strategic deployment of Direct Air Capture technologies** (2026)
    0 citations · DAC

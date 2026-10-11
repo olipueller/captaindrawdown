@@ -1,7 +1,7 @@
 ---
 title: "Fan Zhang"
 description: "Fan Zhang is a Senior Soil Carbon researcher at Hebei Science and Technology Department in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.790694
+date: 2026-10-11T02:32:59.814385
 url: "/cdr-researcher-census/researchers/fan-zhang-a5100403/"
 layout: "researcher"
 hiddenInHomeList: true

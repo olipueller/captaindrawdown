@@ -1,7 +1,7 @@
 ---
 title: "Rajeeva Guhey"
 description: "Rajeeva Guhey is a Mid-career Enhanced Weathering researcher at Bastar University in IN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.121330
+date: 2026-10-11T02:33:00.151997
 url: "/cdr-researcher-census/researchers/rajeeva-guhey-a5080486/"
 layout: "researcher"
 hiddenInHomeList: true

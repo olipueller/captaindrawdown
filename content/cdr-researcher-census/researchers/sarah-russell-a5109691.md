@@ -1,7 +1,7 @@
 ---
 title: "Sarah Russell"
 description: "Sarah Russell is a Mid-career Soil Carbon researcher at University of British Columbia in CA. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.543524
+date: 2026-10-11T02:32:59.558538
 url: "/cdr-researcher-census/researchers/sarah-russell-a5109691/"
 layout: "researcher"
 hiddenInHomeList: true

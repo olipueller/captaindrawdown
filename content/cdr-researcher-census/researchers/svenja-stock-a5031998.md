@@ -1,7 +1,7 @@
 ---
 title: "Svenja Stock"
 description: "Svenja Stock is a Mid-career Biochar researcher at University of Tübingen in DE. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.347218
+date: 2026-10-11T02:32:59.353111
 url: "/cdr-researcher-census/researchers/svenja-stock-a5031998/"
 layout: "researcher"
 hiddenInHomeList: true

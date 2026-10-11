@@ -1,7 +1,7 @@
 ---
 title: "Kavya Laxmisagara Sagar"
 description: "Kavya Laxmisagara Sagar is a Mid-career Biochar researcher at University of Idaho in US. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.027821
+date: 2026-10-11T02:33:00.059181
 url: "/cdr-researcher-census/researchers/kavya-laxmisagara-sagar-a5009780/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Availability of Recycled Phosphorus on Biochar Reacted with Wastewater to Support Growth of Lactuca sativa** (2024)
-   3 citations · Biochar
+   5 citations · Biochar
 
 ## External Profiles
 

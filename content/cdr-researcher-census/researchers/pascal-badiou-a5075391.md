@@ -1,7 +1,7 @@
 ---
 title: "Pascal Badiou"
 description: "Pascal Badiou is a Senior Soil Carbon researcher at Institute for Wetland and Waterfowl Research, Ducks Unlimited Canada in CA. With 60 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.186702
+date: 2026-10-11T02:32:59.190800
 url: "/cdr-researcher-census/researchers/pascal-badiou-a5075391/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Can Restoration of Freshwater Mineral Soil Wetlands Deliver Nature-Based Climate Solutions to Agricultural Landscapes?** (2022)
-   29 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 2. **Land Management Strategies Influence Soil Organic Carbon Stocks of Prairie Potholes of North America** (2021)
    8 citations · Soil Carbon
 
 3. **Factors Regulating the Potential for Freshwater Mineral Soil Wetlands to Function as Natural Climate Solutions** (2025)
-   6 citations · General CDR
+   7 citations · General CDR
 
 ## External Profiles
 

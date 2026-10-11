@@ -1,7 +1,7 @@
 ---
 title: "Yichi Ma"
 description: "Yichi Ma is an Early-career Soil Carbon researcher at China University of Mining and Technology in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.388783
+date: 2026-10-11T02:33:00.425638
 url: "/cdr-researcher-census/researchers/yichi-ma-a5018813/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **CO<sub>2</sub> Sequestration Potential and Soil Improvement Effects by Carbon‐Fixing Bacteria Isolated From Degraded Soils in Shendong Coal Mining Area Located in Northwest China** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

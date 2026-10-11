@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Tahsin Karimi Nezhad"
 description: "Mohammad Tahsin Karimi Nezhad is a Mid-career Soil Carbon researcher at Institute of Landscape Ecology of the Slovak Academy of Sciences in SK. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.495629
+date: 2026-10-11T02:32:59.507751
 url: "/cdr-researcher-census/researchers/mohammad-tahsin-karimi-nezhad-a5038367/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    21 citations
 
 2. **Divergent effects of long-term fertilization on the carbon management index across soil profiles in key Chinese croplands** (2024)
-   12 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 3. **Comparing carbon sequestration efficiency in chemically separated soil organic carbon fractions under long-term fertilization in three major Chinese croplands** (2024)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 4. **Soil Carbon Sequestration Following Natural Vegetation Recovery on Abandoned European Lands: Review and Research Needs** (2026)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

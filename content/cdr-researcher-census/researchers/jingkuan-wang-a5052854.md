@@ -1,7 +1,7 @@
 ---
 title: "Jingkuan Wang"
 description: "Jingkuan Wang is an Eminent Soil Carbon researcher at Shenyang Agricultural University in CN. With 219 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.038831
+date: 2026-10-11T02:32:59.041940
 url: "/cdr-researcher-census/researchers/jingkuan-wang-a5052854/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Differential accumulation patterns of microbial necromass induced by maize root vs. shoot residue addition in agricultural Alfisols** (2021)
-   63 citations · Soil Carbon
+   61 citations · Soil Carbon
 
 2. **Influence of environmental factors on soil organic carbon in different soil layers for Chinese Mollisols under intensive maize cropping** (2022)
    24 citations · Soil Carbon
@@ -60,12 +60,12 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    23 citations
 
 4. **Crop residue decomposition and nutrient release are independently affected by nitrogen fertilization, plastic film mulching, and residue type** (2022)
-   21 citations
+   23 citations
 
-5. **Maize residue types and soil fertility levels influence sequestration of newly associated carbon in aggregates with in situ experiments** (2023)
-   18 citations · Soil Carbon
+5. **Residence time of carbon in paddy soils** (2023)
+   19 citations · Soil Carbon
 
-6. **Residence time of carbon in paddy soils** (2023)
+6. **Maize residue types and soil fertility levels influence sequestration of newly associated carbon in aggregates with in situ experiments** (2023)
    18 citations · Soil Carbon
 
 7. **Distributions of straw-derived carbon in Mollisol’s aggregates under different fertilization practices** (2021)

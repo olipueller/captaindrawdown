@@ -1,7 +1,7 @@
 ---
 title: "Ahmed Sodiq"
 description: "Ahmed Sodiq is a Mid-career DAC researcher at Summit University in QA. With 32 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.089119
+date: 2026-10-11T02:32:59.093963
 url: "/cdr-researcher-census/researchers/ahmed-sodiq-a5005608/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **A review on progress made in direct air capture of CO <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e1035" altimg="si1.svg"> <mml:msub> <mml:mrow/> <mml:mrow> <mml:mn>2</mml:mn> </mml:mrow> </mml:msub> </mml:math>** (2022)
-   276 citations · DAC
+   280 citations · DAC
 
 2. **Emerging trends in direct air capture of CO<sub>2</sub>: a review of technology options targeting net-zero emissions** (2023)
-   111 citations · DAC
+   112 citations · DAC
 
 3. **Comparative analysis of amine-functionalized silica for direct air capture (DAC): Material characterization, performance, and thermodynamic efficiency** (2024)
-   52 citations
+   57 citations
 
 4. **Optimizing chemisorption based direct air capture unit efficiency in HVAC systems: A study on the impact of DAC location and adsorption conditions as a response to the climate crisis and indoor air quality** (2023)
-   39 citations · DAC
+   40 citations · DAC
 
 5. **Amine free direct air capture integrated with buildings’ cooling systems in humid environments** (2025)
    6 citations
 
 6. **Unlocking the potentials of integrating direct air capture with HVAC system** (2023)
-   3 citations
+   6 citations
 
 7. **From powder equilibria to contactor design: An experimentally anchored material based framework for direct air capture on TEPA impregnated SBA-15** (2026)
    0 citations · DAC

@@ -1,7 +1,7 @@
 ---
 title: "M. Astrid Campos Mata"
 description: "M. Astrid Campos Mata is a Mid-career General CDR researcher at Rice University in US. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.409542
+date: 2026-10-11T02:32:59.418767
 url: "/cdr-researcher-census/researchers/m-astrid-campos-mata-a5012256/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A comprehensive overview of carbon dioxide capture: From materials, methods to industrial status** (2022)
-   67 citations · General CDR
+   69 citations · General CDR
 
 ## External Profiles
 

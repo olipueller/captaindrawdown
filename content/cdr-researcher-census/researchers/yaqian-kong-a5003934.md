@@ -1,7 +1,7 @@
 ---
 title: "Yaqian Kong"
 description: "Yaqian Kong is a Mid-career Biochar researcher at Huazhong University of Science and Technology Hospital in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.942160
+date: 2026-10-11T02:32:59.972322
 url: "/cdr-researcher-census/researchers/yaqian-kong-a5003934/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Photogeneration of Reactive Species from Biochar-Derived Dissolved Black Carbon for the Degradation of Amine and Phenolic Pollutants** (2021)
-   136 citations · Biochar
+   137 citations · Biochar
 
 ## External Profiles
 

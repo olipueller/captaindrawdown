@@ -1,7 +1,7 @@
 ---
 title: "Abdelmagid Ali Elmobarak"
 description: "Abdelmagid Ali Elmobarak is a Mid-career Soil Carbon researcher at Soil Science Society of America in US. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.311024
+date: 2026-10-11T02:33:00.341790
 url: "/cdr-researcher-census/researchers/abdelmagid-ali-elmobarak-a5035977/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Using environmental covariates to predict soil organic carbon stocks in Vertisols of Sudan** (2022)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 ## External Profiles
 

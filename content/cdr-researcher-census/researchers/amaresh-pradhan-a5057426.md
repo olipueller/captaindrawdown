@@ -1,7 +1,7 @@
 ---
 title: "Amaresh Pradhan"
 description: "Amaresh Pradhan is a Mid-career Soil Carbon researcher at Bastar University in IN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.049800
+date: 2026-10-11T02:33:00.080459
 url: "/cdr-researcher-census/researchers/amaresh-pradhan-a5057426/"
 layout: "researcher"
 hiddenInHomeList: true

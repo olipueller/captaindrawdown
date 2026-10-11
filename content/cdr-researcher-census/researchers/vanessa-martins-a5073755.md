@@ -1,7 +1,7 @@
 ---
 title: "Vanessa Martins"
 description: "Vanessa Martins is a Mid-career Soil Carbon researcher at Universidade Federal do Piauí in BR. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.183907
+date: 2026-10-11T02:33:00.179195
 url: "/cdr-researcher-census/researchers/vanessa-martins-a5073755/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 141 |
+| Citations | 149 |
 | Publications | 20 |
 | CDR Focus | 5.0% |
 | Trajectory | Growing |

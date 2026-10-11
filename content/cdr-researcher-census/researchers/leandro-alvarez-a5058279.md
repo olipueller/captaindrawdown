@@ -1,7 +1,7 @@
 ---
 title: "Leandro Álvarez"
 description: "Leandro Álvarez is a Mid-career Soil Carbon researcher at Universidad Nacional de Cuyo in AR. With 35 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.252698
+date: 2026-10-11T02:33:00.282459
 url: "/cdr-researcher-census/researchers/leandro-alvarez-a5058279/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Relationships between land-use intensity, woody species diversity, and carbon storage in an arid woodland ecosystem** (2022)
-   25 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 2. **Relationships between Land-Use Intensity, Biodiversity and Carbon Storage in an Arid Woodland Ecosystem** (2022)
    0 citations · Soil Carbon

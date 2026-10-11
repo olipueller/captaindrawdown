@@ -1,7 +1,7 @@
 ---
 title: "Changhong Lai"
 description: "Changhong Lai is a Senior General CDR researcher at Sichuan Academy of Forestry in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.226036
+date: 2026-10-11T02:33:00.256342
 url: "/cdr-researcher-census/researchers/changhong-lai-a5046719/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jutao Zhang"
 description: "Jutao Zhang is a Senior Soil Carbon researcher at Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences in CN. With 53 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.237024
+date: 2026-10-11T02:32:59.240489
 url: "/cdr-researcher-census/researchers/jutao-zhang-a5037983/"
 layout: "researcher"
 hiddenInHomeList: true

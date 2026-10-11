@@ -1,7 +1,7 @@
 ---
 title: "May-Yin Low"
 description: "May-Yin Low is an Early-career DAC researcher at Imperial College London in GB. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.908456
+date: 2026-10-11T02:32:59.938239
 url: "/cdr-researcher-census/researchers/may-yin-low-a5060992/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,16 +48,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Analytical review of the current state of knowledge of adsorption materials and processes for direct air capture** (2022)
-   100 citations
+   92 citations
 
 2. **Measurement of Physicochemical Properties and CO<sub>2</sub>, N<sub>2</sub>, Ar, O<sub>2</sub>, and H<sub>2</sub>O Unary Adsorption Isotherms of Purolite A110 and Lewatit VP OC 1065 for Application in Direct Air Capture** (2023)
-   60 citations
+   63 citations
 
 3. **Quantification of temperature-dependent CO2 adsorption kinetics in Lewatit VP OC 1065, Purolite A110, and TIFSIX-3-Ni for direct air capture** (2025)
-   30 citations
+   38 citations
 
 4. **Physicochemical Properties, Equilibrium Adsorption Performance, Manufacturability, and Stability of TIFSIX-3-Ni for Direct Air Capture of CO <sub>2</sub>** (2024)
-   18 citations
+   19 citations
 
 5. **Quantification of temperature-dependent CO2 adsorption kinetics in Lewatit VP OC 1065, Purolite A110, and TIFSIX-3-Ni for direct air capture** (2024)
    4 citations

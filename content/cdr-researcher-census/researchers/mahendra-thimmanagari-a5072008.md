@@ -1,7 +1,7 @@
 ---
 title: "Mahendra Thimmanagari"
 description: "Mahendra Thimmanagari is a Mid-career Soil Carbon researcher at Ministry of Agriculture, Food and Rural Affairs in CA. With 31 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.295470
+date: 2026-10-11T02:32:59.300147
 url: "/cdr-researcher-census/researchers/mahendra-thimmanagari-a5072008/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The effect of land-use conversion from agriculture to perennial biomass crops and nitrogen fertilizer on soil organic carbon stock in southern Ontario, Canada** (2023)
-   6 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 2. **Soil organic carbon and <sup>13</sup>C changes when annual crops are replaced with perennial biomass crops in southwestern Ontario, Canada** (2024)
    1 citations · Soil Carbon

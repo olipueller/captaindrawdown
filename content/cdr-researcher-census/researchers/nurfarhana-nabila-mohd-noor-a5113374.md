@@ -1,7 +1,7 @@
 ---
 title: "Nurfarhana Nabila Mohd Noor"
 description: "Nurfarhana Nabila Mohd Noor is a Mid-career Biochar researcher at Pukyong National University in KR. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.368027
+date: 2026-10-11T02:33:00.403587
 url: "/cdr-researcher-census/researchers/nurfarhana-nabila-mohd-noor-a5113374/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Utilization of tubular bamboo biochar anode with different lengths in sediment microbial fuel cells** (2024)
-   14 citations · Biochar
+   16 citations · Biochar
 
 2. **Boosting bioelectricity performance in sediment microbial fuel cells with raw bamboo biochar as a sustainable energy source** (2025)
-   12 citations · Biochar
+   13 citations · Biochar
 
 3. **Minimal bamboo biochar dosing as sediment additive in sediment microbial fuel cells for bioelectricity production and benthic nutrient removal** (2025)
    1 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Seung Tak Jeong"
 description: "Seung Tak Jeong is a Mid-career Soil Carbon researcher at Gyeongsang National University in KR. With 34 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.266441
+date: 2026-10-11T02:32:59.270560
 url: "/cdr-researcher-census/researchers/seung-tak-jeong-a5001430/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Importance of biochar as a key amendment to convert rice paddy into carbon negative** (2023)
-   17 citations · Biochar
+   18 citations · Biochar
 
 2. **Effect of biochar and organic amendments on improving soil quality and apple orchard productivity: a 2-year field study** (2025)
    5 citations · Biochar

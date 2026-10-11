@@ -1,7 +1,7 @@
 ---
 title: "Kevin O’Brien"
 description: "Kevin O’Brien is a Senior DAC researcher at Intel (United Kingdom) in GB. With 50 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.334162
+date: 2026-10-11T02:32:59.339945
 url: "/cdr-researcher-census/researchers/kevin-obrien-a5103478/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Delphine Gilliard"
 description: "Delphine Gilliard is a Senior Ocean CDR researcher at Institute for Work and Health in CH. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.263337
+date: 2026-10-11T02:33:00.293318
 url: "/cdr-researcher-census/researchers/delphine-gilliard-a5068531/"
 layout: "researcher"
 hiddenInHomeList: true

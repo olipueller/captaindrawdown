@@ -1,7 +1,7 @@
 ---
 title: "Janshah Moktar"
 description: "Janshah Moktar is a Mid-career Biochar researcher at Universiti of Malaysia Sabah in MY. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.176953
+date: 2026-10-11T02:33:00.207001
 url: "/cdr-researcher-census/researchers/janshah-moktar-a5075143/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Impact of pelletisation on torrefied oil palm empty fruit bunch biochar** (2024)
-   0 citations · Biochar
+   1 citations · Biochar
+
+2. **Evaluating Aboveground Biomass And Carbon Stock of Leucaena leucocephala in Bandar Jeli, Kelantan** (2024)
+   0 citations
 
 ## External Profiles
 

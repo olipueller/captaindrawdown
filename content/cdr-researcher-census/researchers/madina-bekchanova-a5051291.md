@@ -1,7 +1,7 @@
 ---
 title: "Madina Bekchanova"
 description: "Madina Bekchanova is an Early-career Biochar researcher at Urgench State University in UZ. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.520488
+date: 2026-10-11T02:32:59.534328
 url: "/cdr-researcher-census/researchers/madina-bekchanova-a5051291/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The costs and benefits of biochar production and use: A systematic review** (2023)
-   264 citations · Biochar
+   274 citations · Biochar
 
 2. **Biochar’s effect on the soil carbon cycle: a rapid review and meta-analysis** (2024)
-   67 citations · Biochar
+   72 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Ruirui He"
 description: "Ruirui He is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.352748
+date: 2026-10-11T02:33:00.387612
 url: "/cdr-researcher-census/researchers/ruirui-he-a5043853/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Disturbance‐Driven Litter‐Soil‐Microbe Interactions Affect Microbial Carbon Use Efficiency** (2026)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

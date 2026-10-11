@@ -1,7 +1,7 @@
 ---
 title: "Ye Huang"
 description: "Ye Huang is a Mid-career Soil Carbon researcher at Université Paris-Saclay in FR. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.050081
+date: 2026-10-11T02:33:00.080727
 url: "/cdr-researcher-census/researchers/ye-huang-a5106332/"
 layout: "researcher"
 hiddenInHomeList: true

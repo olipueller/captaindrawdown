@@ -1,7 +1,7 @@
 ---
 title: "Mingzhen Zhang"
 description: "Mingzhen Zhang is a Mid-career Biochar researcher at Xiamen University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.059878
+date: 2026-10-11T02:33:00.089622
 url: "/cdr-researcher-census/researchers/mingzhen-zhang-a5100717/"
 layout: "researcher"
 hiddenInHomeList: true

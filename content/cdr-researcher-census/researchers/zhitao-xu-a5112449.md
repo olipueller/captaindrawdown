@@ -1,7 +1,7 @@
 ---
 title: "Zhitao Xu"
 description: "Zhitao Xu is a Mid-career Soil Carbon researcher at Daqing Oilfield General Hospital in CN. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.414103
+date: 2026-10-11T02:32:59.423981
 url: "/cdr-researcher-census/researchers/zhitao-xu-a5112449/"
 layout: "researcher"
 hiddenInHomeList: true

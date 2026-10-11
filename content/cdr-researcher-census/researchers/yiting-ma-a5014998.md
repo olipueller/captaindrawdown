@@ -1,7 +1,7 @@
 ---
 title: "Yiting Ma"
 description: "Yiting Ma is a Mid-career Biochar researcher at Nanjing Agricultural University in CN. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.976892
+date: 2026-10-11T02:33:00.008666
 url: "/cdr-researcher-census/researchers/yiting-ma-a5014998/"
 layout: "researcher"
 hiddenInHomeList: true

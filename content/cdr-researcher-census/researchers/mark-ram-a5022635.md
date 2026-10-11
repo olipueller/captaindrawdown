@@ -1,7 +1,7 @@
 ---
 title: "Mark Ram"
 description: "Mark Ram is a Mid-career Soil Carbon researcher at James Cook University in AU. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.358925
+date: 2026-10-11T02:33:00.393688
 url: "/cdr-researcher-census/researchers/mark-ram-a5022635/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Blue carbon stock of restored mangrove forests is lower than naturally recruited mangroves** (2026)
-   0 citations · General CDR
+   1 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Tomohiro Hajima"
 description: "Tomohiro Hajima is a Senior General CDR researcher at Japan Agency for Marine-Earth Science and Technology in JP. With 138 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.038657
+date: 2026-10-11T02:32:59.041783
 url: "/cdr-researcher-census/researchers/tomohiro-hajima-a5028193/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,39 +45,39 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 30 |
 | Citations | 6,518 |
 | Publications | 138 |
-| CDR Focus | 6.5% |
+| CDR Focus | 8.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The need for carbon-emissions-driven climate projections in CMIP7** (2024)
-   43 citations · General CDR
+   61 citations · General CDR
 
 2. **Impact of bioenergy crop expansion on climate–carbon cycle feedbacks in overshoot scenarios** (2022)
-   38 citations · BECCS
+   46 citations · BECCS
 
 3. **Carbon cycle feedbacks in an idealized simulation and a scenario simulation of negative emissions in CMIP6 Earth system models** (2024)
-   18 citations · General CDR
+   23 citations · General CDR
 
 4. **The need for carbon emissions-driven climate projections in CMIP7** (2023)
    17 citations · General CDR
 
-5. **Impact of bioenergy crops expansion on climate-carbon cycle feedbacks in overshoot scenarios** (2021)
+5. **Limited Mitigation Potential of Forestation Under a High Emissions Scenario: Results From Multi‐Model and Single Model Ensembles** (2023)
+   16 citations · General CDR
+
+6. **Impact of bioenergy crops expansion on climate-carbon cycle feedbacks in overshoot scenarios** (2021)
    16 citations · BECCS
 
-6. **Limited Mitigation Potential of Forestation Under a High Emissions Scenario: Results From Multi‐Model and Single Model Ensembles** (2023)
-   15 citations · General CDR
+7. **CMIP6 models agree on similar carbon cycle feedbacks between enhancing terrestrial and marine carbon sinks** (2025)
+   7 citations · General CDR
 
-7. **Carbon cycle feedbacks in an idealized and a scenario simulation of negative emissions in CMIP6 Earth system models** (2023)
+8. **Carbon cycle feedbacks in an idealized and a scenario simulation of negative emissions in CMIP6 Earth system models** (2023)
    2 citations · General CDR
 
-8. **Land carbon response to positive, zero, and negative CO <sub>2</sub> emissions across Earth system models** (2026)
+9. **Land carbon response to positive, zero, and negative CO 2 emissions across Earth system models** (2026)
    0 citations · General CDR
 
-9. **Comment on egusphere-2026-120** (2026)
-   0 citations · General CDR
-
-10. **Multi-centennial ocean biogeochemical responses to extended Shared Socioeconomic Pathways** (2026)
+10. **Land carbon response to positive, zero, and negative CO <sub>2</sub> emissions across Earth system models** (2026)
    0 citations · General CDR
 
 ## External Profiles

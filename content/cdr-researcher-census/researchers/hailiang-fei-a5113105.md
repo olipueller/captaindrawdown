@@ -1,7 +1,7 @@
 ---
 title: "Hailiang Fei"
 description: "Hailiang Fei is a Mid-career Biochar researcher at Zhejiang Sci-Tech University in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.794988
+date: 2026-10-11T02:32:59.818520
 url: "/cdr-researcher-census/researchers/hailiang-fei-a5113105/"
 layout: "researcher"
 hiddenInHomeList: true

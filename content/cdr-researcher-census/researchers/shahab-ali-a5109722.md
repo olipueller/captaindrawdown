@@ -1,7 +1,7 @@
 ---
 title: "Shahab Ali"
 description: "Shahab Ali is a Mid-career Soil Carbon researcher at Institute of Botany of the Slovak Academy of Sciences in SK. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.691895
+date: 2026-10-11T02:32:59.712476
 url: "/cdr-researcher-census/researchers/shahab-ali-a5109722/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Dryland agroforestry** (2024)
-   11 citations · General CDR
+   12 citations · General CDR
 
 2. **Role of forest's woody vegetation in the climate change mitigation through carbon sequestration in the northern Pakistan** (2024)
    5 citations · General CDR

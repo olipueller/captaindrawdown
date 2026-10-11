@@ -1,7 +1,7 @@
 ---
 title: "Guanghui Xu"
 description: "Guanghui Xu is a Mid-career Biochar researcher at University of Science and Technology of China in CN. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.814777
+date: 2026-10-11T02:32:59.839444
 url: "/cdr-researcher-census/researchers/guanghui-xu-a5079632/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Degradation of bensulfuron methyl by nitrogen/boron codoped biochar activated peroxydisulfate at lower temperature** (2023)
-   22 citations · Biochar
+   23 citations · Biochar
 
 2. **Simultaneous achievement of removing bensulfuron-methyl and reducing CO2 emission in paddy soil by Acinetobacter YH0317 immobilized boron-doping biochar** (2024)
    10 citations · Biochar

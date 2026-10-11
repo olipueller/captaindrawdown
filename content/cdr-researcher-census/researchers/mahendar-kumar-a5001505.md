@@ -1,7 +1,7 @@
 ---
 title: "Mahendar Kumar"
 description: "Mahendar Kumar is a Mid-career Soil Carbon researcher at Institute of Environment and Sustainable Development in Agriculture in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.110670
+date: 2026-10-11T02:33:00.141400
 url: "/cdr-researcher-census/researchers/mahendar-kumar-a5001505/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Application of novel organically derived fulvic acids in soil aggregate size distribution, fraction, organic carbon, and nitrogen content in three distinct soils** (2025)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

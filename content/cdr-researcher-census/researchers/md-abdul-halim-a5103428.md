@@ -1,7 +1,7 @@
 ---
 title: "Md. Abdul Halim"
-description: "Md. Abdul Halim is a Senior Soil Carbon researcher at Rural Development Academy, Bangladesh in BD. With 50 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.379575
+description: "Md. Abdul Halim is a Senior Biochar researcher at Rural Development Academy, Bangladesh in BD. With 50 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:32:59.386997
 url: "/cdr-researcher-census/researchers/md-abdul-halim-a5103428/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Rural Development Academy, Bangladesh · 🇧🇩 BD
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 14 |
 | Citations | 642 |
 | Publications | 50 |
-| CDR Focus | 10.0% |
+| CDR Focus | 12.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -62,13 +62,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Short-Term Effects of Biochar on Soil Fluxes of Methane, Carbon Dioxide, and Water Vapour in a Tea Agroforestry System** (2026)
    2 citations · Biochar
 
-5. **Biochar enhances methane uptake in engineered green roof substrate** (2026)
-   0 citations · Biochar
+5. **Comparative responses of legume vs. non-legume tropical trees to biochar additions** (2026)
+   1 citations · Biochar
 
 6. **Biochar enhances methane uptake in engineered green roof substrate** (2026)
    0 citations · Biochar
 
-7. **Short-Term Biochar Effects on Soil Fluxes of Methane, Carbon Dioxide, and Water Vapour in a Tea Agroforestry System** (2025)
+7. **Biochar enhances methane uptake in engineered green roof substrate** (2026)
+   0 citations · Biochar
+
+8. **Short-Term Biochar Effects on Soil Fluxes of Methane, Carbon Dioxide, and Water Vapour in a Tea Agroforestry System** (2025)
    0 citations · Biochar
 
 ## External Profiles

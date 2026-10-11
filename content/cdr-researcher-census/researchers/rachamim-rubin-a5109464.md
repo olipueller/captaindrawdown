@@ -1,7 +1,7 @@
 ---
 title: "Rachamim Rubin"
 description: "Rachamim Rubin is a Senior Soil Carbon researcher at Weizmann Institute of Science in IL. With 28 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.311205
+date: 2026-10-11T02:32:59.316606
 url: "/cdr-researcher-census/researchers/rachamim-rubin-a5109464/"
 layout: "researcher"
 hiddenInHomeList: true

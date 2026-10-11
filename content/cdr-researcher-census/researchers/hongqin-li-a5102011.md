@@ -1,7 +1,7 @@
 ---
 title: "Hongqin Li"
 description: "Hongqin Li is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 65 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.273823
+date: 2026-10-11T02:32:59.278067
 url: "/cdr-researcher-census/researchers/hongqin-li-a5102011/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    18 citations
 
 3. **Root biomass and altitude jointly regulate the response of topsoil organic carbon density to severe degradation of high‐altitude alpine meadows** (2023)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 4. **A dataset of the observations of carbon, water and heat fluxes over an alpine shrubland in Haibei (2011&amp;ndash;2020)** (2023)
    3 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Enshuo Zhang"
 description: "Enshuo Zhang is an Early-career Biochar researcher at Changchun Observatory in CN. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.342110
+date: 2026-10-11T02:33:00.376833
 url: "/cdr-researcher-census/researchers/enshuo-zhang-a5011189/"
 layout: "researcher"
 hiddenInHomeList: true

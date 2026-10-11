@@ -1,7 +1,7 @@
 ---
 title: "Kemal Aktaş"
 description: "Kemal Aktaş is an Early-career Biochar researcher at University of British Columbia in CA. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.302322
+date: 2026-10-11T02:33:00.333501
 url: "/cdr-researcher-census/researchers/kemal-aktas-a5087668/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Treatment of aqueous phase from hydrothermal liquefaction of municipal sludge by adsorption: Comparison of biochar, hydrochar, and granular activated carbon** (2024)
-   39 citations · Biochar
+   41 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Sabrina Marecos"
 description: "Sabrina Marecos is a Mid-career Enhanced Weathering researcher at Cornell University in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.387000
+date: 2026-10-11T02:33:00.424002
 url: "/cdr-researcher-census/researchers/sabrina-marecos-a5083234/"
 layout: "researcher"
 hiddenInHomeList: true

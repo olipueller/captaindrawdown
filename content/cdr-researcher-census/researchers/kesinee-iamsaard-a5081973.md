@@ -1,7 +1,7 @@
 ---
 title: "Kesinee Iamsaard"
 description: "Kesinee Iamsaard is a Mid-career Biochar researcher at National Chung Hsing University in TW. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.748963
+date: 2026-10-11T02:32:59.771226
 url: "/cdr-researcher-census/researchers/kesinee-iamsaard-a5081973/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Systematic optimization of biochars derived from corn wastes, pineapple leaf, and sugarcane bagasse for Cu(II) adsorption through response surface methodology** (2023)
-   44 citations · Biochar
+   46 citations · Biochar
 
 2. **An impact of agroforestry-based coffee cultivation and nitrogen fertilization on soil carbon dynamics and microbial metabolic activity: a controlled incubation study** (2025)
    0 citations · Soil Carbon

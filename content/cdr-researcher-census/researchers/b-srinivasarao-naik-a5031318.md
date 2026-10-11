@@ -1,7 +1,7 @@
 ---
 title: "B. Srinivasarao Naik"
 description: "B. Srinivasarao Naik is a Mid-career Biochar researcher. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.589597
+date: 2026-10-11T02:32:59.606322
 url: "/cdr-researcher-census/researchers/b-srinivasarao-naik-a5031318/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Mixture of biochar as a green additive in cement-based materials for carbon dioxide sequestration** (2024)
-   23 citations · Biochar
+   24 citations · Biochar
 
 ## External Profiles
 

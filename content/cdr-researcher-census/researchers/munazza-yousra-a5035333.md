@@ -1,7 +1,7 @@
 ---
 title: "Munazza Yousra"
 description: "Munazza Yousra is a Mid-career Soil Carbon researcher at Pir Mehr Ali Shah Arid Agriculture University in PK. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.557800
+date: 2026-10-11T02:32:59.573021
 url: "/cdr-researcher-census/researchers/munazza-yousra-a5035333/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Optimizing nutrient stoichiometry for enhanced carbon sequestration in agricultural soils** (2025)
-   3 citations · Soil Carbon
+1. **Legume-based diversified cropping systems increase soil organic carbon labile pools and microbial carbon use efficiency in a 12-year long-term field trial** (2026)
+   3 citations
 
-2. **Legume-based diversified cropping systems increase soil organic carbon labile pools and microbial carbon use efficiency in a 12-year long-term field trial** (2026)
-   2 citations
+2. **Optimizing nutrient stoichiometry for enhanced carbon sequestration in agricultural soils** (2025)
+   3 citations · Soil Carbon
 
 3. **Exploration of Soil Carbon Sequestrationin Relation to C:N:P:S Stoichiometryunder Dynamic Cropping Systems** (2024)
    1 citations · Soil Carbon

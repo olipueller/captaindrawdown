@@ -1,7 +1,7 @@
 ---
 title: "Silvia González-Rojo"
 description: "Silvia González-Rojo is a Mid-career Biochar researcher at Universidad de León in ES. With 38 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.322849
+date: 2026-10-11T02:32:59.328401
 url: "/cdr-researcher-census/researchers/silvia-gonzalez-rojo-a5090218/"
 layout: "researcher"
 hiddenInHomeList: true

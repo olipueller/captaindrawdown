@@ -1,7 +1,7 @@
 ---
 title: "Lianhui Shi"
 description: "Lianhui Shi is a Mid-career Soil Carbon researcher at Shandong Agricultural University in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.654437
+date: 2026-10-11T02:32:59.672975
 url: "/cdr-researcher-census/researchers/lianhui-shi-a5104033/"
 layout: "researcher"
 hiddenInHomeList: true

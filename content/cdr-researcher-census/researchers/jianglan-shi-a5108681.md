@@ -1,7 +1,7 @@
 ---
 title: "Jianglan Shi"
 description: "Jianglan Shi is a Senior Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 70 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.108628
+date: 2026-10-11T02:32:59.113310
 url: "/cdr-researcher-census/researchers/jianglan-shi-a5108681/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,27 +48,27 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Nitrogen fertilizer builds soil organic carbon under straw return mainly via microbial necromass formation** (2023)
-   209 citations · Soil Carbon
+   217 citations · Soil Carbon
 
 2. **Organic amendments affect soil organic carbon sequestration and fractions in fields with long-term contrasting nitrogen applications** (2021)
-   65 citations · Soil Carbon
+   66 citations · Soil Carbon
 
 3. **Effect of the combined addition of mineral nitrogen and crop residue on soil respiration, organic carbon sequestration, and exogenous nitrogen in stable organic matter** (2021)
    59 citations · Soil Carbon
 
 4. **Integrated wheat-maize straw and tillage management strategies influence economic profit and carbon footprint in the Guanzhong Plain of China** (2021)
-   47 citations · Soil Carbon
+   49 citations · Soil Carbon
 
 5. **Effects of the combined application of livestock manure and plant residues on soil organic carbon sequestration in the southern Loess Plateau of China** (2024)
-   30 citations · Soil Carbon
+   35 citations · Soil Carbon
 
 6. **Long-Term Nitrogen and Straw Application Improves Wheat Production and Soil Organic Carbon Sequestration** (2022)
    23 citations · Soil Carbon
 
-7. **Integrated mulching and nitrogen management strategies influence carbon footprint and sustainability of wheat production on the Loess Plateau of China** (2023)
-   19 citations · Soil Carbon
+7. **Increasing soil organic carbon sequestration and yield stability by no‐tillage and straw‐returning in wheat–maize rotation** (2022)
+   21 citations · Soil Carbon
 
-8. **Increasing soil organic carbon sequestration and yield stability by no‐tillage and straw‐returning in wheat–maize rotation** (2022)
+8. **Integrated mulching and nitrogen management strategies influence carbon footprint and sustainability of wheat production on the Loess Plateau of China** (2023)
    19 citations · Soil Carbon
 
 9. **Long‐term effects of straw mulching coupled with N application on soil organic carbon sequestration and soil aggregation in a winter wheat monoculture system** (2021)

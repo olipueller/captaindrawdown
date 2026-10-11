@@ -1,7 +1,7 @@
 ---
 title: "Tingting Sun"
 description: "Tingting Sun is a Senior Soil Carbon researcher at Guangxi University in CN. With 71 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.210487
+date: 2026-10-11T02:32:59.214690
 url: "/cdr-researcher-census/researchers/tingting-sun-a5101580/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil nitrogen availability mediates the positive effects of intercropping on soil organic carbon at global scales** (2024)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 2. **Soil nitrogen availability regulates fungal necromass contribution to soil organic carbon during vegetation restoration** (2025)
    4 citations · Soil Carbon
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Soil Carbon
 
 4. **Long-term calcium fertilization mediates microbial and plant-derived carbon accumulation by influencing iron oxides in red soils** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 5. **Soil Nitrogen Availability Regulates Fungal Necromass Contribution to Soil Organic Carbon During Vegetation Restoration: A Meta Analysis** (2025)
    0 citations · Soil Carbon

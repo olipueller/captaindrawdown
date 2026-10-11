@@ -1,7 +1,7 @@
 ---
 title: "Chenyu Qi"
 description: "Chenyu Qi is a Mid-career Biochar researcher at China Agricultural University in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.673175
+date: 2026-10-11T02:32:59.693047
 url: "/cdr-researcher-census/researchers/chenyu-qi-a5001683/"
 layout: "researcher"
 hiddenInHomeList: true

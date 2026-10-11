@@ -1,7 +1,7 @@
 ---
 title: "Aizhong Yu"
 description: "Aizhong Yu is a Senior Soil Carbon researcher at Gansu Agricultural University in CN. With 114 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.071096
+date: 2026-10-11T02:32:59.075719
 url: "/cdr-researcher-census/researchers/aizhong-yu-a5112127/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,21 +48,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Green manure and maize intercropping with reduced chemical N enhances productivity and carbon mitigation of farmland in arid areas** (2023)
-   35 citations · Soil Carbon
+   37 citations · Soil Carbon
 
 2. **Reducing nitrogen application by 20% under the condition of multiple cropping using green manure after wheat harvesting can mitigate carbon emission without sacrificing maize yield in arid areas** (2023)
-   32 citations · Soil Carbon
+   33 citations · Soil Carbon
 
-3. **Metagenomic insights into carbon, nitrogen, and phosphorus cycling in a no-till intercropping system** (2025)
+3. **Green manure incorporation with 20 % nitrogen reduction enhances soil organic carbon storage by improving aggregate stability and functional group composition** (2026)
+   10 citations · Soil Carbon
+
+4. **Metagenomic insights into carbon, nitrogen, and phosphorus cycling in a no-till intercropping system** (2025)
    10 citations
 
-4. **Green manure incorporation with 20 % nitrogen reduction enhances soil organic carbon storage by improving aggregate stability and functional group composition** (2026)
-   9 citations · Soil Carbon
+5. **No-tillage mulch with green manure retention can mitigate carbon emissions, increase crop productivity, and promote agricultural sustainability** (2024)
+   8 citations · Soil Carbon
 
-5. **Mechanistic Insights into Farmland Soil Carbon Sequestration: A Review of Substituting Green Manure for Nitrogen Fertilizer** (2025)
-   7 citations · Soil Carbon
-
-6. **No-tillage mulch with green manure retention can mitigate carbon emissions, increase crop productivity, and promote agricultural sustainability** (2024)
+6. **Mechanistic Insights into Farmland Soil Carbon Sequestration: A Review of Substituting Green Manure for Nitrogen Fertilizer** (2025)
    7 citations · Soil Carbon
 
 7. **A review of mechanisms underlying soil carbon sequestration and enhancement strategies via diversified planting and green manure integration** (2026)

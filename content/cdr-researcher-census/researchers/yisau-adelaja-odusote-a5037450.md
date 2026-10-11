@@ -1,7 +1,7 @@
 ---
 title: "Yisau Adelaja Odusote"
 description: "Yisau Adelaja Odusote is a Senior Biochar researcher at Federal University of Technology Akure in NG. With 37 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.278751
+date: 2026-10-11T02:32:59.283087
 url: "/cdr-researcher-census/researchers/yisau-adelaja-odusote-a5037450/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **African almond (Terminalia catappa L) leaves biochar prepared through pyrolysis using H3PO4 as chemical activator for sequestration of methylene blue dye** (2022)
-   122 citations · Biochar
+   124 citations · Biochar
 
 2. **Synthesis of high surface area mesoporous ZnCl2–activated cocoa (Theobroma cacao L) leaves biochar derived via pyrolysis for crystal violet dye removal** (2022)
-   93 citations · Biochar
+   96 citations · Biochar
 
 3. **Valorization of microwave-assisted H3PO4-activated plantain (Musa paradisiacal L) leaf biochar for malachite green sequestration: models and mechanism of adsorption** (2023)
    59 citations · Biochar

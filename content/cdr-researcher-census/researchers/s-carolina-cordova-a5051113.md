@@ -1,7 +1,7 @@
 ---
 title: "S. Carolina Córdova"
 description: "S. Carolina Córdova is a Mid-career BECCS researcher at University of Nebraska–Lincoln in US. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.245508
+date: 2026-10-11T02:32:59.249370
 url: "/cdr-researcher-census/researchers/s-carolina-cordova-a5051113/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Switchgrass ( <i>Panicum Virgatum</i> ) and Miscanthus ( <i>Miscanthus</i> × <i>Giganteus</i> ) Long‐Term Yield Patterns Reveal Consistent Productivity Declines** (2025)
-   2 citations · BECCS
+   3 citations · BECCS
 
 ## External Profiles
 

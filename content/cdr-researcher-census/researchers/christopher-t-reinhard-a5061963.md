@@ -1,7 +1,7 @@
 ---
 title: "Christopher T. Reinhard"
 description: "Christopher T. Reinhard is an Eminent General CDR researcher at Georgia Institute of Technology in US. With 287 publications and an h-index of 59, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.022291
+date: 2026-10-11T02:32:59.025368
 url: "/cdr-researcher-census/researchers/christopher-t-reinhard-a5061963/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 59 |
 | Citations | 15,386 |
 | Publications | 287 |
-| CDR Focus | 14.3% |
+| CDR Focus | 15.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -54,13 +54,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    146 citations
 
 2. **Ocean alkalinity enhancement through restoration of blue carbon ecosystems** (2023)
-   74 citations · Ocean CDR
+   75 citations · Ocean CDR
 
 3. **Initial Validation of a Soil-Based Mass-Balance Approach for Empirical Monitoring of Enhanced Rock Weathering Rates** (2023)
    68 citations
 
 4. **River chemistry constraints on the carbon capture potential of surficial enhanced rock weathering** (2022)
-   63 citations · Enhanced Weathering
+   64 citations · Enhanced Weathering
 
 5. **Transforming US agriculture for carbon removal with enhanced weathering** (2025)
    59 citations · Enhanced Weathering
@@ -69,10 +69,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    59 citations · General CDR
 
 7. **Enhanced Rock Weathering for Carbon Removal–Monitoring and Mitigating Potential Environmental Impacts on Agricultural Land** (2024)
-   45 citations · Enhanced Weathering
+   47 citations · Enhanced Weathering
 
 8. **Impact of Climate on the Global Capacity for Enhanced Rock Weathering on Croplands** (2023)
-   43 citations · Enhanced Weathering
+   42 citations · Enhanced Weathering
 
 9. **New estimates of the storage permanence and ocean co-benefits of enhanced rock weathering** (2023)
    39 citations · Enhanced Weathering

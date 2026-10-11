@@ -1,7 +1,7 @@
 ---
 title: "Andrés Carranza-Abaíd"
 description: "Andrés Carranza-Abaíd is a Mid-career Ocean CDR researcher at Equinor (Norway) in NO. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.050440
+date: 2026-10-11T02:33:00.081399
 url: "/cdr-researcher-census/researchers/andres-carranza-abaid-a5064650/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Analysis and selection of optimal solvent-based technologies for biogas upgrading** (2021)
-   68 citations
+   71 citations
 
 2. **Review on CO2 removal from ocean with an emphasis on direct ocean capture (DOC) technologies** (2024)
-   29 citations · General CDR
+   31 citations · General CDR
 
 ## External Profiles
 

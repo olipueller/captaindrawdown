@@ -1,7 +1,7 @@
 ---
 title: "Candelaria Bergero"
 description: "Candelaria Bergero is a Mid-career General CDR researcher at University of Wisconsin–Madison in US. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.319682
+date: 2026-10-11T02:32:59.325513
 url: "/cdr-researcher-census/researchers/candelaria-bergero-a5081360/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    411 citations · General CDR
 
 2. **Diverse carbon dioxide removal approaches could reduce impacts on the energy–water–land system** (2023)
-   202 citations · General CDR
+   199 citations · General CDR
 
 3. **Technology, technology, technology: An integrated assessment of deep decarbonization pathways for the Canadian oil sands** (2022)
-   30 citations · DAC
+   31 citations · DAC
 
 4. **Biochar as a carbon dioxide removal strategy in integrated long-run mitigation scenarios** (2024)
-   17 citations · Biochar
+   27 citations · Biochar
 
 5. **Biochar as a carbon dioxide removal strategy in integrated long-run climate scenarios** (2022)
    10 citations · Biochar
@@ -71,13 +71,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 7. **Diverse carbon dioxide removal approaches could reduce energy-water-land impacts** (2023)
    1 citations · General CDR
 
-8. **Residual emissions may perpetuate community-scale inequalities in US air pollution** (2026)
+8. **Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7** (2026)
    0 citations · General CDR
 
-9. **The climate implications of failing to manage carbon** (2025)
-   0 citations
+9. **Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7** (2026)
+   0 citations · General CDR
 
-10. **Residual emissions may perpetuate community-scale inequalities of U.S. air pollution in net-zero scenarios** (2025)
+10. **Residual emissions may perpetuate community-scale inequalities in US air pollution** (2026)
    0 citations · General CDR
 
 ## External Profiles

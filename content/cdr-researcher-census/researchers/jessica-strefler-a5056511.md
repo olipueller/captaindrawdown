@@ -1,7 +1,7 @@
 ---
 title: "Jessica Strefler"
 description: "Jessica Strefler is a Senior General CDR researcher at Leibniz Association in DE. With 104 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.024093
+date: 2026-10-11T02:32:59.027130
 url: "/cdr-researcher-census/researchers/jessica-strefler-a5056511/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 30 |
 | Citations | 13,238 |
 | Publications | 104 |
-| CDR Focus | 16.3% |
-| Trajectory | Stable |
+| CDR Focus | 20.2% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -54,31 +54,31 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    571 citations · General CDR
 
 2. **Carbon dioxide removal technologies are not born equal** (2021)
-   126 citations · BECCS
+   123 citations · BECCS
 
 3. **Alternative carbon price trajectories can avoid excessive carbon removal** (2021)
-   113 citations · General CDR
+   114 citations · General CDR
 
-4. **Bioenergy-induced land-use-change emissions with sectorally fragmented policies** (2023)
+4. **An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage** (2025)
+   54 citations · General CDR
+
+5. **Bioenergy-induced land-use-change emissions with sectorally fragmented policies** (2023)
    48 citations · BECCS
-
-5. **An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage** (2025)
-   45 citations · General CDR
 
 6. **Understanding the carbon dioxide removal range in 1.5 °C compatible and high overshoot pathways** (2023)
    37 citations · General CDR
 
 7. **Exploring risks and benefits of overshooting a 1.5 °C carbon budget over space and time** (2023)
-   25 citations · General CDR
+   26 citations · General CDR
 
-8. **Marine carbon dioxide removal by alkalinization should no longer be overlooked** (2024)
-   16 citations · General CDR
+8. **Separating CO2 emission from removal targets comes with limited cost impacts** (2025)
+   17 citations · General CDR
 
-9. **Separating CO2 emission from removal targets comes with limited cost impacts** (2025)
-   15 citations · General CDR
+9. **Marine carbon dioxide removal by alkalinization should no longer be overlooked** (2024)
+   17 citations · General CDR
 
 10. **Ocean liming can help achieve the Paris climate target** (2025)
-   3 citations · General CDR
+   4 citations · General CDR
 
 ## External Profiles
 

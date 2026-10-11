@@ -1,7 +1,7 @@
 ---
 title: "Pasquale Arca"
 description: "Pasquale Arca is a Mid-career Soil Carbon researcher at Istituto per il Sistema Produzione Animale in Ambiente Mediterraneo in IT. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.109369
+date: 2026-10-11T02:33:00.140084
 url: "/cdr-researcher-census/researchers/pasquale-arca-a5062520/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    28 citations · General CDR
 
 2. **Looking for the ecological transition of Mediterranean small ruminant sector. Characterization and main drivers of environmental performance of the Sardinian sheep farming systems** (2024)
-   7 citations · General CDR
+   8 citations · General CDR
 
 ## External Profiles
 

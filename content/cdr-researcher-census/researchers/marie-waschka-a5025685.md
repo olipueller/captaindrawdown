@@ -1,7 +1,7 @@
 ---
 title: "Marie Waschka"
 description: "Marie Waschka is a Senior General CDR researcher. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.963913
+date: 2026-10-11T02:32:59.995176
 url: "/cdr-researcher-census/researchers/marie-waschka-a5025685/"
 layout: "researcher"
 hiddenInHomeList: true

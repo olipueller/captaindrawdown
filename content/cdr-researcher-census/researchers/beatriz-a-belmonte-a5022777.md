@@ -1,7 +1,7 @@
 ---
 title: "Beatriz A. Belmonte"
 description: "Beatriz A. Belmonte is a Mid-career Biochar researcher at University of Santo Tomas in PH. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.036690
+date: 2026-10-11T02:33:00.067468
 url: "/cdr-researcher-census/researchers/beatriz-a-belmonte-a5022777/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Top CDR Publications
 
-1. **A fuzzy optimization model for planning integrated terrestrial carbon management networks** (2021)
-   12 citations · General CDR
+1. **Optimization of enhanced weathering networks with alternative transportation modes** (2022)
+   12 citations · Enhanced Weathering
 
-2. **Optimization of enhanced weathering networks with alternative transportation modes** (2022)
-   11 citations · Enhanced Weathering
+2. **A fuzzy optimization model for planning integrated terrestrial carbon management networks** (2021)
+   12 citations · General CDR
 
 3. **A rough set-based model for predicting soil greenhouse gases response to biochar** (2024)
    2 citations · Biochar

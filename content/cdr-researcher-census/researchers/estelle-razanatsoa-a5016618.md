@@ -1,7 +1,7 @@
 ---
 title: "Estelle Razanatsoa"
 description: "Estelle Razanatsoa is a Mid-career General CDR researcher at University of Cape Town in ZA. With 36 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.500838
+date: 2026-10-11T02:32:59.513291
 url: "/cdr-researcher-census/researchers/estelle-razanatsoa-a5016618/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Ten new insights in climate science 2025** (2026)
-   7 citations · General CDR
+   8 citations · General CDR
 
 2. **Ten New Insights in Climate Science 2025 [accepted manuscript]** (2025)
    0 citations · General CDR

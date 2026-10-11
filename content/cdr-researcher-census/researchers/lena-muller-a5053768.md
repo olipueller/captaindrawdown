@@ -1,7 +1,7 @@
 ---
 title: "Lena Müller"
 description: "Lena Müller is a Senior Soil Carbon researcher at Salk Institute for Biological Studies in US. With 19 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.516192
+date: 2026-10-11T02:32:59.529844
 url: "/cdr-researcher-census/researchers/lena-muller-a5053768/"
 layout: "researcher"
 hiddenInHomeList: true

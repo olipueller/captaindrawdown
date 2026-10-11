@@ -1,7 +1,7 @@
 ---
 title: "Lei Meng"
 description: "Lei Meng is a Mid-career Soil Carbon researcher at Nanjing Normal University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.216795
+date: 2026-10-11T02:33:00.246751
 url: "/cdr-researcher-census/researchers/lei-meng-a5083117/"
 layout: "researcher"
 hiddenInHomeList: true

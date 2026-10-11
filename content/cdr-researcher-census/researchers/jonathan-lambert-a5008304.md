@@ -1,7 +1,7 @@
 ---
 title: "Jonathan Lambert"
 description: "Jonathan Lambert is a Senior General CDR researcher. With 59 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.326339
+date: 2026-10-11T02:32:59.332122
 url: "/cdr-researcher-census/researchers/jonathan-lambert-a5008304/"
 layout: "researcher"
 hiddenInHomeList: true

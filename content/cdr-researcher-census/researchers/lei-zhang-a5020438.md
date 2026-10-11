@@ -1,7 +1,7 @@
 ---
 title: "Lei Zhang"
 description: "Lei Zhang is a Senior Soil Carbon researcher at University of Michigan in US. With 115 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.094804
+date: 2026-10-11T02:32:59.099396
 url: "/cdr-researcher-census/researchers/lei-zhang-a5020438/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A review on digital mapping of soil carbon in cropland: progress, challenge, and prospect** (2022)
-   71 citations · General CDR
+   72 citations · General CDR
 
 2. **Spatio-temporal mapping reveals changes in soil organic carbon stocks across the contiguous United States since 1955** (2025)
    15 citations · Soil Carbon
@@ -68,10 +68,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 6. **Microbial-mediated shifts regulate the trade-off between soil organic carbon content and stability after cropland afforestation in Eastern China** (2026)
    2 citations · Soil Carbon
 
-7. **Ecosystem-dependent two-stage changes in soil organic carbon stock across the contiguous United States from 1970 to 2014** (2025)
+7. **Assessment of cropland carbon sequestration potential and its relationship with human activities: a case study in Jiangsu Province, China** (2026)
+   0 citations
+
+8. **Ecosystem-dependent two-stage changes in soil organic carbon stock across the contiguous United States from 1970 to 2014** (2025)
    0 citations · Soil Carbon
 
-8. **Synergistic Adsorption and Photodegradation of Ciprofloxacin in Water by Biochar-Supported Titanates: Mechanistic Analysis, Dft Calculations and Toxicity Risk Assessment** (2024)
+9. **Synergistic Adsorption and Photodegradation of Ciprofloxacin in Water by Biochar-Supported Titanates: Mechanistic Analysis, Dft Calculations and Toxicity Risk Assessment** (2024)
    0 citations · Biochar
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Terre Satterfield"
 description: "Terre Satterfield is an Eminent General CDR researcher at University of British Columbia in CA. With 189 publications and an h-index of 49, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.023828
+date: 2026-10-11T02:32:59.026880
 url: "/cdr-researcher-census/researchers/terre-satterfield-a5087921/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,25 +51,25 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Sociotechnical Considerations About Ocean Carbon Dioxide Removal** (2022)
-   77 citations · General CDR
+   78 citations · General CDR
 
 2. **Climate targets, carbon dioxide removal, and the potential role of ocean alkalinity enhancement** (2023)
-   67 citations · General CDR
+   70 citations · General CDR
 
 3. **Public evaluations of four approaches to ocean-based carbon dioxide removal** (2023)
-   58 citations · General CDR
+   59 citations · General CDR
 
 4. **Exploring public acceptability of direct air carbon capture with storage: climate urgency, moral hazards and perceptions of the ‘whole versus the parts’** (2023)
    55 citations · General CDR
 
 5. **Social considerations and best practices to apply to engaging publics on ocean alkalinity enhancement** (2023)
-   19 citations · General CDR
+   23 citations · General CDR
 
 6. **Towards just, responsible, and socially viable carbon removal: lessons from offshore DACCS research for early-stage carbon removal projects** (2023)
-   19 citations · DAC
+   21 citations · DAC
 
 7. **Principles for responsible and effective marine carbon dioxide removal development and governance** (2025)
-   8 citations · General CDR
+   9 citations · General CDR
 
 8. **Climate targets, carbon dioxide removal and the potential role of Ocean Alkalinity Enhancement** (2023)
    5 citations
@@ -78,7 +78,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    5 citations · General CDR
 
 10. **Thinking at the megaton scale: Community reflections across three different marine carbon-dioxide removal strategies** (2026)
-   1 citations · DAC
+   3 citations · DAC
 
 ## External Profiles
 

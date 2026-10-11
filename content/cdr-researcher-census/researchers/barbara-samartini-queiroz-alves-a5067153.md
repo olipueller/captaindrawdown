@@ -1,7 +1,7 @@
 ---
 title: "Bárbara Samartini Queiroz Alves"
 description: "Bárbara Samartini Queiroz Alves is a Mid-career Biochar researcher at National Agency of Petroleum, Natural Gas and Biofuels in BR. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.217944
+date: 2026-10-11T02:33:00.248306
 url: "/cdr-researcher-census/researchers/barbara-samartini-queiroz-alves-a5067153/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effect of sewage sludge and sugarcane bagasse biochar on soil properties and sugar beet production** (2021)
-   49 citations · Biochar
+   48 citations · Biochar
 
 2. **A Bibliometric‐Based Review of Biochar for Salt‐Affected Soil Restoration: Mapping Research Trends and Future Directions** (2025)
    1 citations · Biochar

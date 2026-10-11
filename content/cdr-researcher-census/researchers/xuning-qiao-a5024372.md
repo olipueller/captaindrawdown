@@ -1,7 +1,7 @@
 ---
 title: "Xuning Qiao"
 description: "Xuning Qiao is a Senior General CDR researcher at Henan Polytechnic University in CN. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.378551
+date: 2026-10-11T02:32:59.385893
 url: "/cdr-researcher-census/researchers/xuning-qiao-a5024372/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Identifying the spatial relationships and drivers of ecosystem service supply–demand matching: A case of Yiluo River Basin** (2024)
-   65 citations · Soil Carbon
+   67 citations · Soil Carbon
 
 2. **How does urbanization impact the supply–demand relationship of agroecosystem services? Insights from farmland loss in the Huaihe River Basin, China** (2023)
-   20 citations
+   22 citations
 
 3. **How to optimize ecological compensation to alleviate the ecosystem services supply and demand mismatch in the Luo River Basin?** (2025)
-   12 citations · General CDR
+   13 citations · General CDR
 
 4. **Drivers and dominant pathways for ecosystem service trade-offs in the Luo River Basin at the local optimal scale** (2026)
    3 citations

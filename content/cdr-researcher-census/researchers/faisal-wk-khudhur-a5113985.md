@@ -1,7 +1,7 @@
 ---
 title: "Faisal W.K. Khudhur"
 description: "Faisal W.K. Khudhur is an Early-career Enhanced Weathering researcher at University of Edinburgh in GB. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.378573
+date: 2026-10-11T02:33:00.414373
 url: "/cdr-researcher-census/researchers/faisal-wk-khudhur-a5113985/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -49,6 +49,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 1. **Optimizing the management of quarry fines for on-site carbon removal: Implications of grain size and mineralogy on CO2 mineralization** (2025)
    2 citations · Enhanced Weathering
+
+2. **Potential for atmospheric carbon dioxide removal in mafic quarries via enhanced rock weathering of basalt fines** (2024)
+   0 citations · Enhanced Weathering
 
 ## External Profiles
 

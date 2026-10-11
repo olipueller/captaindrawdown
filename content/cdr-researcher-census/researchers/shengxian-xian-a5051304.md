@@ -1,7 +1,7 @@
 ---
 title: "Shengxian Xian"
 description: "Shengxian Xian is a Mid-career BECCS researcher. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.973427
+date: 2026-10-11T02:33:00.005198
 url: "/cdr-researcher-census/researchers/shengxian-xian-a5051304/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Synergistic Conversion and Catalytic Upgrading of Seaweed Biomass for Sustainable Bioenergy: Advances, Challenges, and Future Prospects** (2025)
-   3 citations · BECCS
+   4 citations · BECCS
 
 ## External Profiles
 

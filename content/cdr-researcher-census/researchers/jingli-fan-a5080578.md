@@ -1,7 +1,7 @@
 ---
 title: "Jingli Fan"
-description: "Jingli Fan is a Mid-career General CDR researcher at China University of Mining and Technology in CN. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.095726
+description: "Jingli Fan is a Mid-career General CDR researcher at China University of Mining and Technology - Beijing. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:33:00.138000
 url: "/cdr-researcher-census/researchers/jingli-fan-a5080578/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jingli-fan-a5080578/",
   "affiliation": {
     "@type": "Organization",
-    "name": "China University of Mining and Technology"
+    "name": "China University of Mining and Technology - Beijing"
   },
   "sameAs": "https://openalex.org/A5080578676"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Jingli Fan**  
-China University of Mining and Technology · 🇨🇳 CN
+China University of Mining and Technology - Beijing
 
 **Career Stage:** Mid-career
 
@@ -40,9 +40,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 162 |
-| Publications | 19 |
-| CDR Focus | 5.3% |
+| Citations | 159 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

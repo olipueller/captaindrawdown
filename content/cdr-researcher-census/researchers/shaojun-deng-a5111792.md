@@ -1,7 +1,7 @@
 ---
 title: "Shaojun Deng"
 description: "Shaojun Deng is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.900667
+date: 2026-10-11T02:32:59.929961
 url: "/cdr-researcher-census/researchers/shaojun-deng-a5111792/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,11 +47,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **The accumulation capacity of microbial residues in the rhizosphere increased along an elevation gradient** (2024)
-   22 citations · Soil Carbon
+1. **Long‐term irrigation reduces soil carbon sequestration by affecting soil microbial communities in agricultural ecosystems of northern China** (2021)
+   23 citations · Soil Carbon
 
-2. **Long‐term irrigation reduces soil carbon sequestration by affecting soil microbial communities in agricultural ecosystems of northern China** (2021)
-   20 citations · Soil Carbon
+2. **The accumulation capacity of microbial residues in the rhizosphere increased along an elevation gradient** (2024)
+   22 citations · Soil Carbon
 
 ## External Profiles
 

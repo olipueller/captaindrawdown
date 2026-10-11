@@ -1,7 +1,7 @@
 ---
 title: "Sylvie Tremblay"
 description: "Sylvie Tremblay is a Senior Soil Carbon researcher at Ministère des Ressources naturelles et des Forêts (Québec) in CA. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.707874
+date: 2026-10-11T02:32:59.728500
 url: "/cdr-researcher-census/researchers/sylvie-tremblay-a5102829/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Afforestation of abandoned agricultural lands for carbon sequestration: how does it compare with natural succession?** (2022)
-   20 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 2. **Thibault et al_Fallow lands** (2022)
    0 citations · Soil Carbon

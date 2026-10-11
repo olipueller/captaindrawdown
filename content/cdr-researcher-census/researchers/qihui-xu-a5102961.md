@@ -1,7 +1,7 @@
 ---
 title: "Qihui Xu"
 description: "Qihui Xu is a Mid-career Biochar researcher at Harbin Institute of Technology in CN. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.474453
+date: 2026-10-11T02:32:59.485657
 url: "/cdr-researcher-census/researchers/qihui-xu-a5102961/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    5 citations · Biochar
 
 2. **Double sulfuration promotes the activation of peroxydisulfate by Fe-based N/S co-doped biochar composites to degrade sulfapyridine: Synergistic effect and degradation mechanism** (2026)
-   1 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

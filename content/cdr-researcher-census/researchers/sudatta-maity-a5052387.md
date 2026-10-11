@@ -1,7 +1,7 @@
 ---
 title: "Sudatta Maity"
 description: "Sudatta Maity is a Senior General CDR researcher at Techno India University in IN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.026884
+date: 2026-10-11T02:33:00.058278
 url: "/cdr-researcher-census/researchers/sudatta-maity-a5052387/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A circular economy approach for harnessing inorganic and organic carbons coupled with waste remediation using Chlorella minutissima for sustainable biodiesel production** (2025)
-   5 citations · General CDR
+   6 citations · General CDR
 
 ## External Profiles
 

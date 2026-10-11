@@ -1,7 +1,7 @@
 ---
 title: "Weibin You"
 description: "Weibin You is a Mid-career Soil Carbon researcher at Southern Research Station in US. With 31 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.460517
+date: 2026-10-11T02:32:59.471762
 url: "/cdr-researcher-census/researchers/weibin-you-a5100430/"
 layout: "researcher"
 hiddenInHomeList: true

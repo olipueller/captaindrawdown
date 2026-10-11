@@ -1,7 +1,7 @@
 ---
 title: "Purnima Baidya"
 description: "Purnima Baidya is a Mid-career Enhanced Weathering researcher at Tribhuvan University in NP. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.388088
+date: 2026-10-11T02:33:00.424993
 url: "/cdr-researcher-census/researchers/purnima-baidya-a5056070/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Bacteria-Induced Calcite Precipitation for Engineering and Environmental Applications** (2023)
-   25 citations · Enhanced Weathering
+   28 citations · Enhanced Weathering
 
 2. **Soil Microbes and Carbon Sequestration** (2025)
    2 citations · Soil Carbon

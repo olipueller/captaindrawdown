@@ -1,7 +1,7 @@
 ---
 title: "Xinjie Ni"
 description: "Xinjie Ni is a Senior Biochar researcher at National Chung Hsing University in TW. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.313412
+date: 2026-10-11T02:33:00.344136
 url: "/cdr-researcher-census/researchers/xinjie-ni-a5111221/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Yeast-derived phosphorus for eco-friendly synthesis of Cu3P/biochar catalysts with enhanced hydrogen peroxide-based Fenton-like reaction** (2025)
-   6 citations · Biochar
+   7 citations · Biochar
 
 2. **Confined coordination-engineered Cu–Ni/biochar via mechanochemical synthesis for highly efficient and durable peroxymonosulfate activation in water purification** (2026)
    1 citations · Biochar

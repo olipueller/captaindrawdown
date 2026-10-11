@@ -1,7 +1,7 @@
 ---
 title: "Vanessa Pino"
 description: "Vanessa Pino is a Mid-career Soil Carbon researcher at The University of Sydney in AU. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.471289
+date: 2026-10-11T02:32:59.482581
 url: "/cdr-researcher-census/researchers/vanessa-pino-a5022294/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    31 citations
 
 2. **Soil Microbial Blueprint: Predicting Soil Dominant Bacterial Genera Distribution Across Australia** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 ## External Profiles
 

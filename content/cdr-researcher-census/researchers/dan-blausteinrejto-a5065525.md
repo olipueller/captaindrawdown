@@ -1,7 +1,7 @@
 ---
 title: "Dan Blaustein‐Rejto"
 description: "Dan Blaustein‐Rejto is a Mid-career Soil Carbon researcher at Breakthrough Institute in US. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.766722
+date: 2026-10-11T02:32:59.789883
 url: "/cdr-researcher-census/researchers/dan-blausteinrejto-a5065525/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon opportunity cost increases carbon footprint advantage of grain-finished beef** (2023)
-   18 citations · General CDR
+   17 citations · General CDR
 
 ## External Profiles
 

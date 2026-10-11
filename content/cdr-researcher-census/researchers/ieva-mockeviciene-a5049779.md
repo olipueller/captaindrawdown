@@ -1,7 +1,7 @@
 ---
 title: "Ieva Mockevičienė"
 description: "Ieva Mockevičienė is a Mid-career Soil Carbon researcher at Lithuanian Research Centre for Agriculture and Forestry in LT. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.832069
+date: 2026-10-11T02:32:59.858358
 url: "/cdr-researcher-census/researchers/ieva-mockeviciene-a5049779/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effect of long-term application of organic fertilizers on improving organic matter quality in acid soil** (2021)
-   57 citations
+   56 citations
 
 2. **Soil Aggregate Dynamics and Stability: Natural and Anthropogenic Drivers** (2025)
-   29 citations · General CDR
+   40 citations · General CDR
 
 3. **Influence of Liming Intensity on Fractions of Humified Organic Carbon in Acid Soil: A Case Study** (2022)
-   14 citations
+   15 citations
 
-4. **Assessment of Management Practices to Prevent Soil Degradation Threats on Lithuanian Acid Soils** (2024)
+4. **Root-soil interactions a key driver of aggregate formation and stability: a trait-based and mechanistic review** (2026)
+   10 citations
+
+5. **Assessment of Management Practices to Prevent Soil Degradation Threats on Lithuanian Acid Soils** (2024)
    8 citations · Soil Carbon
 
-5. **Root-soil interactions a key driver of aggregate formation and stability: a trait-based and mechanistic review** (2026)
-   6 citations
-
 6. **The Response of Retisol’s Carbon Storage Potential to Various Organic Matter Inputs** (2023)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

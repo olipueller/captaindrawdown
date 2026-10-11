@@ -1,7 +1,7 @@
 ---
 title: "Sijin Dong"
 description: "Sijin Dong is a Mid-career DAC researcher at Dalian University of Technology in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.123604
+date: 2026-10-11T02:33:00.153964
 url: "/cdr-researcher-census/researchers/sijin-dong-a5075044/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Biomass-Derived Carbon Materials for Direct Air Capture: A Review and Perspective** (2026)
-   1 citations · DAC
+   2 citations · DAC
 
 2. **Amine-loaded sepiolite/carbon aerogels engineered with conductive frameworks for efficient direct air capture and solar/electric-thermal desorption** (2026)
    0 citations · DAC

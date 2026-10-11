@@ -1,7 +1,7 @@
 ---
 title: "Nataliya Bilyera"
 description: "Nataliya Bilyera is a Mid-career Soil Carbon researcher at University of Tuebingen in DE. With 61 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.286379
+date: 2026-10-11T02:32:59.291135
 url: "/cdr-researcher-census/researchers/nataliya-bilyera-a5026820/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    26 citations · Soil Carbon
 
 2. **Localized fertilizer co-applied with biochar suspension can increase phosphorus uptake by maize while enabling carbon-sequestration benefits** (2026)
-   2 citations · Biochar
+   3 citations · Biochar
 
 3. **Localized fertilizer co-applied with biochar suspension increases phosphorus uptake by maize** (2025)
    0 citations · Biochar

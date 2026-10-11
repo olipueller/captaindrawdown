@@ -1,7 +1,7 @@
 ---
 title: "Richard Heede"
 description: "Richard Heede is a Mid-career DAC researcher at Climate Centre in NL. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.137257
+date: 2026-10-11T02:32:59.141832
 url: "/cdr-researcher-census/researchers/richard-heede-a5035683/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Wenfei Huang"
 description: "Wenfei Huang is a Mid-career Biochar researcher at Sichuan University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.650245
+date: 2026-10-11T02:32:59.669436
 url: "/cdr-researcher-census/researchers/wenfei-huang-a5044013/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Gaseous hydrophilic/hydrophobic volatile organic compound removal and power production by bioelectrochemical systems comprising agro-waste-based biochar-optimized proton exchange membranes** (2025)
-   3 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

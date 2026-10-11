@@ -1,7 +1,7 @@
 ---
 title: "Meiniu Yang"
 description: "Meiniu Yang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.013566
+date: 2026-10-11T02:33:00.044125
 url: "/cdr-researcher-census/researchers/meiniu-yang-a5077000/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Glomalin-Related Soil Protein Plays Different Roles in Soil Organic Carbon Pool Maintaining among Different Grassland Types** (2024)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 2. **Shrub Encroachment: A Catalyst for Enhanced Soil Nutrients Storage in the Altai Mountains** (2025)
    3 citations · Soil Carbon

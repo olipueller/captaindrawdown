@@ -1,7 +1,7 @@
 ---
 title: "Steffen Swoboda"
 description: "Steffen Swoboda is an Early-career Ocean CDR researcher at Helmholtz Centre for Environmental Research in DE. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.384495
+date: 2026-10-11T02:33:00.421235
 url: "/cdr-researcher-census/researchers/steffen-swoboda-a5057218/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,10 +50,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 ## Top CDR Publications
 
-1. **Carbon dioxide removal through mangrove forest (re-)establishment: Key drivers, uncertainties and challenges for long-term success** (2026)
+1. **Ocean alkalinity enhancement: Insights and considerations for application** (2026)
    0 citations · General CDR
 
-2. **Assessing the Potential of Seaweed-based Marine Carbon Dioxide Removal (mCDR)** (2025)
+2. **Carbon dioxide removal through mangrove forest (re-)establishment: Key drivers, uncertainties and challenges for long-term success** (2026)
+   0 citations · General CDR
+
+3. **Assessing the Potential of Seaweed-based Marine Carbon Dioxide Removal (mCDR)** (2025)
    0 citations · Ocean CDR
 
 ## External Profiles

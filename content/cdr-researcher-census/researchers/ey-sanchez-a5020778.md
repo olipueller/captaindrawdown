@@ -1,7 +1,7 @@
 ---
 title: "E.Y. Sanchez"
 description: "E.Y. Sanchez is a Mid-career Biochar researcher at National University of San Juan in AR. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.465358
+date: 2026-10-11T02:32:59.476609
 url: "/cdr-researcher-census/researchers/ey-sanchez-a5020778/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Almond shell biochar: characterization and application in soilless cultivation of Eruca sativa** (2023)
-   42 citations · Biochar
+   43 citations · Biochar
 
 2. **Biochar as a Substrate in Soilless Crops** (2026)
    0 citations · Biochar

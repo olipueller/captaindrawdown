@@ -1,7 +1,7 @@
 ---
 title: "Tianfei Dai"
 description: "Tianfei Dai is a Mid-career Soil Carbon researcher at Green Technology in US. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.054548
+date: 2026-10-11T02:33:00.085213
 url: "/cdr-researcher-census/researchers/tianfei-dai-a5108662/"
 layout: "researcher"
 hiddenInHomeList: true

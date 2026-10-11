@@ -1,7 +1,7 @@
 ---
 title: "Yongchen Xu"
 description: "Yongchen Xu is a Senior Soil Carbon researcher at Ocean University of China in CN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.280296
+date: 2026-10-11T02:33:00.310339
 url: "/cdr-researcher-census/researchers/yongchen-xu-a5101040/"
 layout: "researcher"
 hiddenInHomeList: true

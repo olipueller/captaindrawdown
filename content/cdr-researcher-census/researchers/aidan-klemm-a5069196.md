@@ -1,7 +1,7 @@
 ---
 title: "Aidan Klemm"
 description: "Aidan Klemm is a Mid-career DAC researcher at Oak Ridge National Laboratory in US. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.458190
+date: 2026-10-11T02:32:59.469268
 url: "/cdr-researcher-census/researchers/aidan-klemm-a5069196/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Deep Eutectic Solvent Formed by Imidazolium Cyanopyrrolide and Ethylene Glycol for Reactive CO<sub>2</sub> Separations** (2021)
-   101 citations
+   104 citations
 
 2. **Perspective and challenges in electrochemical approaches for reactive CO2 separations** (2021)
    56 citations · DAC
 
 3. **Ionic Liquid Functionalizes the Metal Organic Framework for Microwave-Assisted Direct Air Capture of CO<sub>2</sub>** (2024)
-   35 citations
+   36 citations
 
 4. **Microwave Regeneration and Thermal and Oxidative Stability of Imidazolium Cyanopyrrolide Ionic Liquid for Direct Air Capture of Carbon Dioxide** (2023)
-   27 citations
+   28 citations
 
 5. **Ionic Liquid–Glycol Mixtures for Direct Air Capture of CO<sub>2</sub>: Decreased Viscosity and Mitigation of Evaporation Via Encapsulation** (2024)
-   24 citations
+   25 citations
 
 6. **Water-stable direct air capture of CO <sub>2</sub> with microcapsules of task-specific ionic liquid and their electrothermal regeneration** (2026)
-   0 citations · DAC
+   1 citations · DAC
 
 ## External Profiles
 

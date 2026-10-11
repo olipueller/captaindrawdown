@@ -1,7 +1,7 @@
 ---
 title: "Jinchan Zheng"
 description: "Jinchan Zheng is a Mid-career Soil Carbon researcher at Henan Polytechnic University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.284405
+date: 2026-10-11T02:33:00.314553
 url: "/cdr-researcher-census/researchers/jinchan-zheng-a5079683/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Identifying the spatial relationships and drivers of ecosystem service supply–demand matching: A case of Yiluo River Basin** (2024)
-   65 citations · Soil Carbon
+   67 citations · Soil Carbon
 
 2. **How does urbanization impact the supply–demand relationship of agroecosystem services? Insights from farmland loss in the Huaihe River Basin, China** (2023)
-   20 citations
+   22 citations
 
 ## External Profiles
 

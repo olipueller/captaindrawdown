@@ -1,7 +1,7 @@
 ---
 title: "Wanzhi Qiao"
 description: "Wanzhi Qiao is a Mid-career Soil Carbon researcher at Sichuan Academy of Forestry in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.271209
+date: 2026-10-11T02:33:00.301120
 url: "/cdr-researcher-census/researchers/wanzhi-qiao-a5078823/"
 layout: "researcher"
 hiddenInHomeList: true

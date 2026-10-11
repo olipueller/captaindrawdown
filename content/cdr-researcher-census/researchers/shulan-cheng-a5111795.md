@@ -1,7 +1,7 @@
 ---
 title: "Shulan Cheng"
 description: "Shulan Cheng is a Senior Soil Carbon researcher at University of Chinese Academy of Sciences in CN. With 52 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.169526
+date: 2026-10-11T02:32:59.173613
 url: "/cdr-researcher-census/researchers/shulan-cheng-a5111795/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,24 +45,27 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 25 |
 | Citations | 1,509 |
 | Publications | 52 |
-| CDR Focus | 7.7% |
+| CDR Focus | 9.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Linkages between the molecular composition of dissolved organic matter and soil microbial community in a boreal forest during freeze–thaw cycles** (2023)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 2. **Long-term urea application reshapes forest soil nitrogen cycling and enhances N2O emissions** (2026)
    1 citations
 
-3. **Organic Fertilization Enhances Microbial-Mediated Dissolved Organic Matter Composition and Transformation in Paddy Soil** (2025)
+3. **Dissolved organic matter molecular diversity and transformation potential are associated with microbial carbon use efficiency in paddy soils** (2026)
    0 citations · Biochar
 
-4. **Exogenous Carbon Additions Enhance Dom Stability in Paddy Soils Through Improving Microbial-Mediated Carbon Processes** (2024)
+4. **Organic Fertilization Enhances Microbial-Mediated Dissolved Organic Matter Composition and Transformation in Paddy Soil** (2025)
+   0 citations · Biochar
+
+5. **Exogenous Carbon Additions Enhance Dom Stability in Paddy Soils Through Improving Microbial-Mediated Carbon Processes** (2024)
    0 citations · Soil Carbon
 
-5. **Linking Soil Microbial Community to the Molecular Composition of Dissolved Organic Matter in a Boreal Forest During Freeze-Thaw Cycles** (2022)
+6. **Linking Soil Microbial Community to the Molecular Composition of Dissolved Organic Matter in a Boreal Forest During Freeze-Thaw Cycles** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

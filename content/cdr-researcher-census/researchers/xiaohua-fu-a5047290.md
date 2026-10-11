@@ -1,7 +1,7 @@
 ---
 title: "Xiaohua Fu"
 description: "Xiaohua Fu is a Senior Soil Carbon researcher at PowerChina (China) in CN. With 126 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.123560
+date: 2026-10-11T02:32:59.128153
 url: "/cdr-researcher-census/researchers/xiaohua-fu-a5047290/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The high organic carbon accumulation in estuarine wetlands necessarily does not represent a high CO2 sequestration capacity** (2023)
-   26 citations · Ocean CDR
+   27 citations · Ocean CDR
 
 2. **Estuarine wetland tidal organic carbon activates microbial carbon pump and increases long-term soil carbon stability** (2024)
    10 citations · Soil Carbon
@@ -60,19 +60,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    10 citations · Soil Carbon
 
 4. **Tidal organic input restricts CO2 sequestration capacity of estuarine wetlands** (2023)
-   9 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 5. **The combined effects of soil moisture and salinity on the spatial differences of soil humification intensity in the Yangtze River estuarine wetlands** (2025)
    4 citations · Soil Carbon
 
-6. **Large-Scale Biochar Incorporation Does Not Necessarily Promote the Carbon Sink of Estuarine Wetland Soil** (2023)
+6. **Biomarker analysis revealed tidal organic carbon input enhanced soil respiration and weakened carbon sequestration function of estuarine wetland: Field validation of the Jiuduansha Wetland in the Yangtze River estuary** (2024)
+   4 citations · Ocean CDR
+
+7. **Large-Scale Biochar Incorporation Does Not Necessarily Promote the Carbon Sink of Estuarine Wetland Soil** (2023)
    4 citations · Biochar
 
-7. **Biomarker analysis revealed tidal organic carbon input enhanced soil respiration and weakened carbon sequestration function of estuarine wetland: Field validation of the Jiuduansha Wetland in the Yangtze River estuary** (2024)
-   3 citations · Ocean CDR
-
 8. **Particle size is an important factor influencing the effects of biochar return to woodland soils: An evaluation from the perspective of sapling growth and soil microbial carbon processes** (2024)
-   2 citations · Biochar
+   3 citations · Biochar
 
 9. **The High Organic Carbon Accumulation in Estuarine Wetlands Necessarily Does Not Represent a High Co2 Sequestration Capacity** (2022)
    1 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Dan Yang"
 description: "Dan Yang is a Mid-career Ocean CDR researcher at XinHua Hospital in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.316164
+date: 2026-10-11T02:33:00.347178
 url: "/cdr-researcher-census/researchers/dan-yang-a5101326/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Invasion of Spartina species enhance blue carbon functions by increasing CO2 uptake and reducing methane emissions in Chinese and Danish coastal wetlands** (2025)
-   5 citations · Ocean CDR
+   6 citations · Ocean CDR
 
 ## External Profiles
 

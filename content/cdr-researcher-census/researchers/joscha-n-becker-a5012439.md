@@ -1,7 +1,7 @@
 ---
 title: "Joscha N. Becker"
 description: "Joscha N. Becker is a Mid-career Biochar researcher at Universität Hamburg in DE. With 77 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.177364
+date: 2026-10-11T02:32:59.181403
 url: "/cdr-researcher-census/researchers/joscha-n-becker-a5012439/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Factors controlling soil organic carbon stocks in hardwood floodplain forests of the lower middle Elbe River** (2021)
-   32 citations · Soil Carbon
+   33 citations · Soil Carbon
 
 2. **Pyrogenic carbon and carbonating minerals for carbon capture and storage (PyMiCCS) part II: organic and inorganic carbon dioxide removal in an Oxisol** (2025)
    10 citations · Biochar
@@ -65,20 +65,20 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 5. **The Impact of Soil-Plant Interactions on Soil Organic Carbon Sequestration across spatial scales** (2025)
    1 citations · Soil Carbon
 
-6. **Rock-enhanced biochar exhibits similar priming effect as pure biochar application while improving short-term carbon stabilization in agricultural soils** (2026)
+6. **Quantifying aggregation bias in marsh carbon flux estimates caused by rhizosphere oxygen heterogeneity** (2026)
+   0 citations
+
+7. **Rock-enhanced biochar exhibits similar priming effect as pure biochar application while improving short-term carbon stabilization in agricultural soils** (2026)
    0 citations · Biochar
 
-7. **Potential of combining biochar and enhanced weathering and impacts on soil organic carbon and biomass: PyMiCCS project results** (2026)
+8. **Potential of combining biochar and enhanced weathering and impacts on soil organic carbon and biomass: PyMiCCS project results** (2026)
    0 citations · Biochar
 
-8. **Influence of co-applied biochar and enhanced basanite weathering on soil enzyme kinetics in an agricultural soil** (2025)
+9. **Influence of co-applied biochar and enhanced basanite weathering on soil enzyme kinetics in an agricultural soil** (2025)
    0 citations · Biochar
 
-9. **Impact of combined application of biochar and basanite powder on soil-borne greenhouse gas emissions and nitrate leaching** (2025)
+10. **Impact of combined application of biochar and basanite powder on soil-borne greenhouse gas emissions and nitrate leaching** (2025)
    0 citations · Biochar
-
-10. **Exploring effects of variation in plant root traits on carbon emissions from estuarine marshes** (2024)
-   0 citations · Soil Carbon
 
 ## External Profiles
 

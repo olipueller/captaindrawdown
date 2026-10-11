@@ -1,7 +1,7 @@
 ---
 title: "Wenyan Duan"
 description: "Wenyan Duan is a Senior Biochar researcher at Kunming University of Science and Technology in CN. With 97 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.050300
+date: 2026-10-11T02:32:59.054230
 url: "/cdr-researcher-census/researchers/wenyan-duan-a5110588/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biomass power generation: A pathway to carbon neutrality** (2024)
-   43 citations · BECCS
+   45 citations · BECCS
 
 2. **Mechanism of Modified Biochar in Mitigating Carbon and Nitrogen Loss in Drought Soil with Green Manure Application** (2025)
    2 citations · Biochar

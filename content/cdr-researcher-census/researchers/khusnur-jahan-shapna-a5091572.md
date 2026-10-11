@@ -1,7 +1,7 @@
 ---
 title: "Khusnur Jahan Shapna"
 description: "Khusnur Jahan Shapna is a Mid-career Soil Carbon researcher at Khulna University of Engineering and Technology in BD. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.340954
+date: 2026-10-11T02:33:00.375424
 url: "/cdr-researcher-census/researchers/khusnur-jahan-shapna-a5091572/"
 layout: "researcher"
 hiddenInHomeList: true

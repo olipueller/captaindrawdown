@@ -1,7 +1,7 @@
 ---
 title: "Summera Jahan"
 description: "Summera Jahan is a Mid-career Biochar researcher at University of the Punjab in PK. With 37 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.969141
+date: 2026-10-11T02:33:00.000550
 url: "/cdr-researcher-census/researchers/summera-jahan-a5087461/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Maryam Kazempour Larsary"
 description: "Maryam Kazempour Larsary is a Mid-career Soil Carbon researcher at University of Guilan in IR. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.872495
+date: 2026-10-11T02:32:59.899616
 url: "/cdr-researcher-census/researchers/maryam-kazempour-larsary-a5000350/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Decoupled abiotic and biotic drivers of aboveground and topsoil organic carbon stocks in temperate forests** (2022)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 ## External Profiles
 

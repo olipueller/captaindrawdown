@@ -1,7 +1,7 @@
 ---
 title: "Shutang Liu"
 description: "Shutang Liu is a Senior Soil Carbon researcher at Qingdao University in CN. With 44 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.309003
+date: 2026-10-11T02:32:59.314357
 url: "/cdr-researcher-census/researchers/shutang-liu-a5110535/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Stimulatory effects of nutrient addition on microbial necromass C formation depend on soil stoichiometry** (2025)
-   22 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 2. **Long-Term Organic Amendments Combined with Nitrogen Fertilization Regulates Soil Organic Carbon Sequestration in Calcareous Soil** (2023)
    22 citations · Soil Carbon
 
 3. **44-Years of Fertilization Altered Soil Microbial Community Structure by Changing Soil Physical, Chemical Properties and Enzyme Activity** (2024)
-   18 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 4. **Long‐term organic amendments improved soil carbon sequestration to support crop production** (2021)
    8 citations · General CDR

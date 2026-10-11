@@ -1,7 +1,7 @@
 ---
 title: "Prakash Chand Ghasal"
 description: "Prakash Chand Ghasal is a Senior Soil Carbon researcher at Sardar Vallabhbhai Patel University of Agriculture & Technology in IN. With 53 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.335393
+date: 2026-10-11T02:32:59.341222
 url: "/cdr-researcher-census/researchers/prakash-chand-ghasal-a5004855/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,13 +50,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Influence of Different Nutrient Management Practices and Cropping Systems on Organic Carbon Pools in Typic Ustochrept Soil of Indo-Gangetic Plains in India** (2022)
+1. **Sustainable Soil Management for Climate Resilience: Long-Term Management Effects on Soil Carbon Sequestration and Nitrogen Dynamics in a Semi-Arid Tropical Inceptisol of India** (2024)
+   17 citations · Soil Carbon
+
+2. **Influence of Different Nutrient Management Practices and Cropping Systems on Organic Carbon Pools in Typic Ustochrept Soil of Indo-Gangetic Plains in India** (2022)
    8 citations · Soil Carbon
 
-2. **Strategies and Management Practices for Enhancing Long-Term Sustainability Through Resilient Farming Systems** (2025)
+3. **Building climate-resilient agricultural systems for a sustainable future of food, land and water** (2025)
+   0 citations · Soil Carbon
+
+4. **Strategies and Management Practices for Enhancing Long-Term Sustainability Through Resilient Farming Systems** (2025)
    0 citations · General CDR
 
-3. **Evaluation of soil health under conventional and integrated organic farming systems models for upper Gangetic plain zone** (2025)
+5. **Evaluation of soil health under conventional and integrated organic farming systems models for upper Gangetic plain zone** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Fengchun Lv"
 description: "Fengchun Lv is a Mid-career Soil Carbon researcher at Chinese Research Academy of Environmental Sciences in CN. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.393178
+date: 2026-10-11T02:33:00.430645
 url: "/cdr-researcher-census/researchers/fengchun-lv-a5071101/"
 layout: "researcher"
 hiddenInHomeList: true

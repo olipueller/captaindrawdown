@@ -1,7 +1,7 @@
 ---
 title: "Obey Gotore"
 description: "Obey Gotore is a Mid-career Biochar researcher at Kyushu University in JP. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.522864
+date: 2026-10-11T02:32:59.536807
 url: "/cdr-researcher-census/researchers/obey-gotore-a5059089/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar derived from non-customized matamba fruit shell as an adsorbent for wastewater treatment** (2022)
-   147 citations · Biochar
+   148 citations · Biochar
 
 2. **The immobilization and adsorption mechanisms of agro-waste based biochar: A review on the effectiveness of pyrolytic temperatures on heavy metal removal** (2024)
-   52 citations · Biochar
+   53 citations · Biochar
 
 ## External Profiles
 

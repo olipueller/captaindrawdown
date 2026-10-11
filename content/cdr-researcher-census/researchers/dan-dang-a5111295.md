@@ -1,7 +1,7 @@
 ---
 title: "Dan Dang"
 description: "Dan Dang is a Mid-career Biochar researcher at Henan University of Technology in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.181669
+date: 2026-10-11T02:33:00.211532
 url: "/cdr-researcher-census/researchers/dan-dang-a5111295/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synthesis of Nanoporous Biochar from Rice Husk for Adsorption of Methylene Blue** (2023)
-   13 citations · Biochar
+   12 citations · Biochar
 
 ## External Profiles
 

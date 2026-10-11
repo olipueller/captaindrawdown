@@ -1,7 +1,7 @@
 ---
 title: "Maria Roberta Bruno"
 description: "Maria Roberta Bruno is a Mid-career Soil Carbon researcher at University of Basilicata in IT. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.043902
+date: 2026-10-11T02:33:00.074885
 url: "/cdr-researcher-census/researchers/maria-roberta-bruno-a5019807/"
 layout: "researcher"
 hiddenInHomeList: true

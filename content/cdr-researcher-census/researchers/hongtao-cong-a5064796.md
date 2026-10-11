@@ -1,7 +1,7 @@
 ---
 title: "Hong‐Tao Cong"
 description: "Hong‐Tao Cong is a Senior Ocean CDR researcher at Xiamen University in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.836876
+date: 2026-10-11T02:32:59.863064
 url: "/cdr-researcher-census/researchers/hongtao-cong-a5064796/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Coupling Electrochemical Alkalinization and Mineral Dissolution for Ambient Removal of Both Influent CO<sub>2</sub> and Dissolved Nitrite in Seawater** (2024)
-   9 citations · General CDR
+   10 citations · General CDR
 
 ## External Profiles
 

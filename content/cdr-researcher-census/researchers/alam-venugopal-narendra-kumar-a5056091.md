@@ -1,7 +1,7 @@
 ---
 title: "Alam Venugopal Narendra Kumar"
 description: "Alam Venugopal Narendra Kumar is a Mid-career Biochar researcher at SRM University in IN. With 34 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.385226
+date: 2026-10-11T02:32:59.393115
 url: "/cdr-researcher-census/researchers/alam-venugopal-narendra-kumar-a5056091/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Periodate activation and pH regulation using ball-milled metal-oxide-mineral-biochar composite for removal of antibiotics from contaminated water** (2024)
-   17 citations · Biochar
+   18 citations · Biochar
 
 2. **Enhanced catalytic activity of rice husk biochar for antibiotics degradation: Synergistic effects of copolymerization and mineral removal** (2025)
    3 citations · Biochar

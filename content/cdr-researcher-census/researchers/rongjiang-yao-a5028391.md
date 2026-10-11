@@ -1,7 +1,7 @@
 ---
 title: "Rongjiang Yao"
 description: "Rongjiang Yao is a Senior Soil Carbon researcher at Institute of Soil Science in CN. With 113 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.095858
+date: 2026-10-11T02:32:59.100396
 url: "/cdr-researcher-census/researchers/rongjiang-yao-a5028391/"
 layout: "researcher"
 hiddenInHomeList: true

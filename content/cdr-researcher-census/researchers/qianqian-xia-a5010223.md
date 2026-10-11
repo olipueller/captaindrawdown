@@ -1,7 +1,7 @@
 ---
 title: "Qianqian Xia"
 description: "Qianqian Xia is a Mid-career Soil Carbon researcher at Tongji University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.744629
+date: 2026-10-11T02:32:59.766895
 url: "/cdr-researcher-census/researchers/qianqian-xia-a5010223/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Exploring Multi-Scale Synergies, Trade-Offs, and Driving Mechanisms of Ecosystem Services in Arid Regions: A Case Study of the Ili River Valley** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

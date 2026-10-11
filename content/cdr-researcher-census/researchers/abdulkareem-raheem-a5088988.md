@@ -1,7 +1,7 @@
 ---
 title: "Abdulkareem Raheem"
 description: "Abdulkareem Raheem is a Mid-career Soil Carbon researcher at Jiangsu University in CN. With 24 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.537139
+date: 2026-10-11T02:32:59.551966
 url: "/cdr-researcher-census/researchers/abdulkareem-raheem-a5088988/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Unraveling the ecological threads: How invasive alien plants influence soil carbon dynamics** (2024)
-   38 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 2. **Remediation of microplastics-contaminated agricultural soils by unmodified and modified biochar derived from Solidago canadensis L.** (2025)
-   12 citations · Biochar
+   13 citations · Biochar
 
 ## External Profiles
 

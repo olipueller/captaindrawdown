@@ -1,7 +1,7 @@
 ---
 title: "Chenyu Zeng"
 description: "Chenyu Zeng is a Mid-career Biochar researcher at Guangxi University of Science and Technology in CN. With 47 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.418185
+date: 2026-10-11T02:32:59.428161
 url: "/cdr-researcher-census/researchers/chenyu-zeng-a5087549/"
 layout: "researcher"
 hiddenInHomeList: true

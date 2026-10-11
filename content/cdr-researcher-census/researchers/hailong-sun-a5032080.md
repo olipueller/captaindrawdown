@@ -1,7 +1,7 @@
 ---
 title: "Hailong Sun"
 description: "Hailong Sun is a Senior Ocean CDR researcher at Institute of Geochemistry in CN. With 96 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.138334
+date: 2026-10-11T02:32:59.142827
 url: "/cdr-researcher-census/researchers/hailong-sun-a5032080/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,22 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **A greening Earth has reversed the trend of decreasing carbonate weathering under a warming climate** (2025)
-   25 citations · Enhanced Weathering
+   29 citations · Enhanced Weathering
 
 2. **Carbon sinks associated with biological carbon pump in karst surface waters: Progress, challenges, and prospects** (2024)
-   23 citations · General CDR
+   25 citations · General CDR
 
-3. **High stability of carbonate weathering relevant carbon sink under biological pump effect in inland waters: Insights from Shawan Karst Experimental Site, Southwest China** (2024)
+3. **Enhanced biological pump and carbonate pump synergy: The primary pathway for phosphorus clearance in the century-long dynamics of a karst lake** (2025)
+   15 citations · Ocean CDR
+
+4. **High stability of carbonate weathering relevant carbon sink under biological pump effect in inland waters: Insights from Shawan Karst Experimental Site, Southwest China** (2024)
    15 citations · Enhanced Weathering
 
-4. **Enhanced biological pump and carbonate pump synergy: The primary pathway for phosphorus clearance in the century-long dynamics of a karst lake** (2025)
-   14 citations · Ocean CDR
-
 5. **Carbon fertilization of autochthonous production in karst surface waters and its role in carbon reduction and eutrophication mitigation—a nature-based solution (NbS)** (2025)
-   2 citations · General CDR
+   3 citations · General CDR
+
+6. **Dissolved Carbon Dynamics in Artificial Karst Spring Systems: Impacts of Land Use Management** (2026)
+   2 citations
 
 ## External Profiles
 

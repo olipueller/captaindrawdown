@@ -1,7 +1,7 @@
 ---
 title: "Zeeshan Arshad"
 description: "Zeeshan Arshad is a Mid-career Biochar researcher at Université Mohammed VI Polytechnique in MA. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.346901
+date: 2026-10-11T02:33:00.382063
 url: "/cdr-researcher-census/researchers/zeeshan-arshad-a5007519/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Advances in Biomass‐Derived Carbon Materials: Production, Functionalization, and Applications for Contaminant Removal** (2025)
-   13 citations · Biochar
+   15 citations · Biochar
 
 ## External Profiles
 

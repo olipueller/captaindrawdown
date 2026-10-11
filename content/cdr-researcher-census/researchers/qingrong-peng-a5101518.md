@@ -1,7 +1,7 @@
 ---
 title: "Qingrong Peng"
 description: "Qingrong Peng is a Senior Biochar researcher at China Agricultural University in CN. With 54 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.251139
+date: 2026-10-11T02:32:59.255023
 url: "/cdr-researcher-census/researchers/qingrong-peng-a5101518/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **An achieved strategy for magnetic biochar for removal of tetracyclines and fluoroquinolones: Adsorption and mechanism studies** (2022)
-   147 citations · Biochar
+   148 citations · Biochar
 
 2. **In situ assembly of Cu/N dual active sites on biochar via a metal ionic liquid for nonradical peroxydisulfate activation and efficient tetracycline degradation** (2026)
-   3 citations · Biochar
+   4 citations · Biochar
 
 3. **An Achieved Strategy for Magnetic Biochar for Removal of Tetracyclines and Fluoroquinolones: Adsorption and Mechanistic Studies** (2022)
    0 citations · Biochar

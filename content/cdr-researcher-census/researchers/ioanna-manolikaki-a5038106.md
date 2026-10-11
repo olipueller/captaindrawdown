@@ -1,7 +1,7 @@
 ---
 title: "Ioanna Manolikaki"
 description: "Ioanna Manolikaki is a Senior Soil Carbon researcher. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.522993
+date: 2026-10-11T02:32:59.536930
 url: "/cdr-researcher-census/researchers/ioanna-manolikaki-a5038106/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,10 +46,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **BIOCHAR PRODUCTION FROM WASTE BIOMASS: CHARACTERIZATION AND EVALUATION FOR AGRONOMIC AND ENVIRONMENTAL APPLICATIONS** (2021)
-   15 citations · Biochar
+   16 citations · Biochar
 
 2. **Contribution of a Seeded Cover Crop Mixture on Biomass Production and Nutrition Status Compared to Natural Vegetation in a Mediterranean Olive Grove** (2022)
-   7 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

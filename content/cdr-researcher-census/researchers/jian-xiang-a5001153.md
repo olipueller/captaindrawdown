@@ -1,7 +1,7 @@
 ---
 title: "Jian Xiang"
 description: "Jian Xiang is a Mid-career Soil Carbon researcher at Nanjing Forestry University in CN. With 40 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.187367
+date: 2026-10-11T02:32:59.191446
 url: "/cdr-researcher-census/researchers/jian-xiang-a5001153/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Biogas residue biochar shifted bacterial community, mineralization, and molecular structure of organic carbon in a sandy loam Alfisol** (2021)
-   21 citations · Biochar
+1. **Exogenous calcium-induced carbonate formation to increase carbon sequestration in coastal saline-alkali soil** (2024)
+   20 citations · Soil Carbon
 
-2. **Exogenous calcium-induced carbonate formation to increase carbon sequestration in coastal saline-alkali soil** (2024)
-   18 citations · Soil Carbon
+2. **Biogas residue biochar shifted bacterial community, mineralization, and molecular structure of organic carbon in a sandy loam Alfisol** (2021)
+   20 citations · Biochar
 
 3. **Visualizing the Landscape and Evolution of Phosphorus Research in Saline-Alkali Soils by Scientometric Analysis** (2026)
    0 citations

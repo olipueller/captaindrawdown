@@ -1,7 +1,7 @@
 ---
 title: "Irene O. Aninye"
 description: "Irene O. Aninye is a Senior Soil Carbon researcher at Society for Women's Health Research in US. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.490989
+date: 2026-10-11T02:32:59.503159
 url: "/cdr-researcher-census/researchers/irene-o-aninye-a5077912/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zhe Wang"
 description: "Zhe Wang is a Mid-career Biochar researcher at Nanjing Agricultural University in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.436168
+date: 2026-10-11T02:32:59.446462
 url: "/cdr-researcher-census/researchers/zhe-wang-a5100407/"
 layout: "researcher"
 hiddenInHomeList: true

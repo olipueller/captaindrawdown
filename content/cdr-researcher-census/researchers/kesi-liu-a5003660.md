@@ -1,7 +1,7 @@
 ---
 title: "Kesi Liu"
 description: "Kesi Liu is a Senior Soil Carbon researcher at China Agricultural University in CN. With 71 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.145265
+date: 2026-10-11T02:32:59.149456
 url: "/cdr-researcher-census/researchers/kesi-liu-a5003660/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Salt-affected marginal lands: a solution for biochar production** (2023)
-   49 citations · Biochar
+   51 citations · Biochar
 
 2. **Climate factors regulate the depth dependency of soil organic carbon under grazing exclusion in Chinese grasslands: A meta‐analysis** (2023)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 3. **Influence of Initial Soil Organic Carbon in Grassland on the Sensitivity of Carbon Changes to Climate After Grassland‐to‐Cropland Conversion** (2025)
    7 citations · Soil Carbon
@@ -62,19 +62,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Effects of Long-Term Cotton Straw Return on Soil Carbon and Bacterial Community in Topsoil and Deep Soil** (2025)
    3 citations · Soil Carbon
 
-5. **Grazing regimes modulate organic carbon distribution in soil aggregates over varying soil depths in steppe grasslands** (2026)
+5. **Deep soil inorganic carbon, an overlooked carbon sink in alkaline croplands** (2026)
+   1 citations
+
+6. **Grazing regimes modulate organic carbon distribution in soil aggregates over varying soil depths in steppe grasslands** (2026)
    0 citations
 
-6. **Species richness increases vegetation carbon sequestration but decreases soil carbon storage in temperate grasslands of China** (2026)
+7. **Species richness increases vegetation carbon sequestration but decreases soil carbon storage in temperate grasslands of China** (2026)
    0 citations · Soil Carbon
 
-7. **Grassland Grazing Regimes Modulate Organic Carbon Distribution in Soil Aggregates Over Varying Soil Depths** (2025)
+8. **Grassland Grazing Regimes Modulate Organic Carbon Distribution in Soil Aggregates Over Varying Soil Depths** (2025)
    0 citations
 
-8. **Grassland Using Patterns Modulate Organic Carbon Distribution in Soil Aggregates Over Varying Soil Depths** (2025)
+9. **Grassland Using Patterns Modulate Organic Carbon Distribution in Soil Aggregates Over Varying Soil Depths** (2025)
    0 citations · Soil Carbon
 
-9. **Effects of Cotton Straw Return Time on Carbon Stocks at Subsoil in Saline-Alkaline Soil** (2022)
+10. **Effects of Cotton Straw Return Time on Carbon Stocks at Subsoil in Saline-Alkaline Soil** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

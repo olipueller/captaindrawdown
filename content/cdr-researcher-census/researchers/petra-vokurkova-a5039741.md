@@ -1,7 +1,7 @@
 ---
 title: "Petra Vokurková"
 description: "Petra Vokurková is a Senior Soil Carbon researcher at Czech University of Life Sciences Prague in CZ. With 38 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.524391
+date: 2026-10-11T02:32:59.538304
 url: "/cdr-researcher-census/researchers/petra-vokurkova-a5039741/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Dongyan Jin"
 description: "Dongyan Jin is a Mid-career Soil Carbon researcher at Agricultural Information Institute in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.421399
+date: 2026-10-11T02:32:59.431574
 url: "/cdr-researcher-census/researchers/dongyan-jin-a5063194/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yicheng Wang"
 description: "Yicheng Wang is a Mid-career Soil Carbon researcher at Xichang University in CN. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.838421
+date: 2026-10-11T02:32:59.864450
 url: "/cdr-researcher-census/researchers/yicheng-wang-a5100411/"
 layout: "researcher"
 hiddenInHomeList: true

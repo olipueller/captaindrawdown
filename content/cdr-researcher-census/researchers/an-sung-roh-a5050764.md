@@ -1,7 +1,7 @@
 ---
 title: "An-Sung Roh"
 description: "An-Sung Roh is a Mid-career Soil Carbon researcher at National Institute of Agricultural Science and Technology in KR. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.914320
+date: 2026-10-11T02:32:59.958275
 url: "/cdr-researcher-census/researchers/an-sung-roh-a5050764/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effect of fertilizer and food waste compost on soil carbon, nitrogen use efficiency, and yield of Chinese cabbage (Brassica Rapa L.)** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

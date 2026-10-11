@@ -1,7 +1,7 @@
 ---
 title: "Consuelo Spoto"
 description: "Consuelo Spoto is a Mid-career Biochar researcher at Politecnico di Torino in IT. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.031156
+date: 2026-10-11T02:33:00.062358
 url: "/cdr-researcher-census/researchers/consuelo-spoto-a5069098/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar-based concrete as biocompatible building material for marine artificial structures** (2025)
-   7 citations · Biochar
+   8 citations · Biochar
 
 ## External Profiles
 

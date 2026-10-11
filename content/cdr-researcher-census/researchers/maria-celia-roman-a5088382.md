@@ -1,7 +1,7 @@
 ---
 title: "María Celia Román"
 description: "María Celia Román is a Mid-career Biochar researcher at National University of San Juan in AR. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.750597
+date: 2026-10-11T02:32:59.773033
 url: "/cdr-researcher-census/researchers/maria-celia-roman-a5088382/"
 layout: "researcher"
 hiddenInHomeList: true

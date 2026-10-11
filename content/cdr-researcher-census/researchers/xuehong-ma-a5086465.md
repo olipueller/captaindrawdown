@@ -1,7 +1,7 @@
 ---
 title: "Xuehong Ma"
 description: "Xuehong Ma is a Mid-career Soil Carbon researcher at Nanjing Forestry University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.557432
+date: 2026-10-11T02:32:59.572573
 url: "/cdr-researcher-census/researchers/xuehong-ma-a5086465/"
 layout: "researcher"
 hiddenInHomeList: true

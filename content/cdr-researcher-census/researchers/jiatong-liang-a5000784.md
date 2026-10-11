@@ -1,7 +1,7 @@
 ---
 title: "Jiatong Liang"
 description: "Jiatong Liang is a Mid-career Biochar researcher at Wuhan University in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.317974
+date: 2026-10-11T02:33:00.349730
 url: "/cdr-researcher-census/researchers/jiatong-liang-a5000784/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhancing lead adsorption capacity prediction in biochar: a comparative study of machine learning models and parameter optimization** (2023)
-   5 citations · Biochar
+   6 citations · Biochar
 
 ## External Profiles
 

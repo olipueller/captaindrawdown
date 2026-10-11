@@ -1,7 +1,7 @@
 ---
 title: "Sicong Gao"
 description: "Sicong Gao is a Mid-career Soil Carbon researcher at CSIRO Land and Water in AU. With 58 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.278103
+date: 2026-10-11T02:32:59.282510
 url: "/cdr-researcher-census/researchers/sicong-gao-a5052038/"
 layout: "researcher"
 hiddenInHomeList: true

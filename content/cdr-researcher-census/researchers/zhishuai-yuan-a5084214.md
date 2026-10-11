@@ -1,7 +1,7 @@
 ---
 title: "Zhishuai Yuan"
 description: "Zhishuai Yuan is a Mid-career General CDR researcher at Harbin Institute of Technology in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.343860
+date: 2026-10-11T02:33:00.378844
 url: "/cdr-researcher-census/researchers/zhishuai-yuan-a5084214/"
 layout: "researcher"
 hiddenInHomeList: true

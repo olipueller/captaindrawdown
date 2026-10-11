@@ -1,7 +1,7 @@
 ---
 title: "Nanjiang Shu"
 description: "Nanjiang Shu is a Senior Soil Carbon researcher at Stockholms Universitet in SE. With 38 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.135875
+date: 2026-10-11T02:32:59.140466
 url: "/cdr-researcher-census/researchers/nanjiang-shu-a5101420/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Biochar
 
 2. **CO<sub>2</sub> Sequestration Potential and Soil Improvement Effects by Carbon‐Fixing Bacteria Isolated From Degraded Soils in Shendong Coal Mining Area Located in Northwest China** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

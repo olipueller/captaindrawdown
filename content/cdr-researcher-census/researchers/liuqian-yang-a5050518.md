@@ -1,7 +1,7 @@
 ---
 title: "Liuqian Yang"
 description: "Liuqian Yang is a Mid-career Biochar researcher at Electric Power Research Institute in US. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.952369
+date: 2026-10-11T02:32:59.983163
 url: "/cdr-researcher-census/researchers/liuqian-yang-a5050518/"
 layout: "researcher"
 hiddenInHomeList: true

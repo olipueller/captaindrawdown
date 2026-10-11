@@ -1,7 +1,7 @@
 ---
 title: "Abdul Rahman Abdul Rahim"
 description: "Abdul Rahman Abdul Rahim is a Mid-career Biochar researcher at Universiti Teknologi Petronas in MY. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.985309
+date: 2026-10-11T02:33:00.016407
 url: "/cdr-researcher-census/researchers/abdul-rahman-abdul-rahim-a5103932/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,14 +47,14 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Top CDR Publications
 
-1. **Synthesis and characterization of secondary amine-functionalized silica for CO<sub>2</sub> capture** (2021)
+1. **Adsorptive removal of carbon dioxide gas by TEA-activated biochar prepared using different biomass precursor** (2023)
+   3 citations · Biochar
+
+2. **Synthesis and characterization of secondary amine-functionalized silica for CO<sub>2</sub> capture** (2021)
    3 citations
 
-2. **Adsorptive removal of carbon dioxide gas by TEA-activated biochar prepared using different biomass precursor** (2023)
-   2 citations · Biochar
-
 3. **Magnetic Biochar Adsorbent for Adsorptive Removal of Microplastics** (2026)
-   1 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

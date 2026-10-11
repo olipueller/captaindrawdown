@@ -1,7 +1,7 @@
 ---
 title: "Yuan Shen"
 description: "Yuan Shen is a Senior Biochar researcher at University of California Santa Cruz in US. With 74 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.100478
+date: 2026-10-11T02:32:59.105154
 url: "/cdr-researcher-census/researchers/yuan-shen-a5047395/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    50 citations · Biochar
 
 2. **Biochar and nitrogen fertilizer co-application changed SOC content and fraction composition in Huang-Huai-Hai plain, China** (2021)
-   46 citations · Biochar
+   47 citations · Biochar
 
 3. **Straw type and returning amount affects SOC fractions and Fe/Al oxides in a rice-wheat rotation system** (2022)
    37 citations · Soil Carbon
 
 4. **Limited microbial degradation of elevated concentrations of dissolved organic carbon in the deep ocean** (2025)
-   14 citations · Ocean CDR
+   13 citations · Ocean CDR
 
 ## External Profiles
 

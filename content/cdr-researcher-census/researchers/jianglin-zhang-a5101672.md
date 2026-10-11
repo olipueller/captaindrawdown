@@ -1,7 +1,7 @@
 ---
 title: "Jianglin Zhang"
 description: "Jianglin Zhang is a Senior Soil Carbon researcher at Hunan Academy of Agricultural Sciences in CN. With 32 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.320406
+date: 2026-10-11T02:32:59.326237
 url: "/cdr-researcher-census/researchers/jianglin-zhang-a5101672/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Rice straw returning under winter green manuring enhances soil carbon pool via stoichiometric regulation of extracellular enzymes** (2025)
-   17 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 2. **Paddy fields can gain high productivity with low net global warming potential by utilizing green manure** (2025)
-   13 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 3. **Study on the Effects of Reducing Nitrogen Fertilizer: Stabilizing Yield and Carbon Sequestration by Synergistic Utilization of Chinese Milk Vetch and Rice Straw in Double-Cropping Rice Area** (2024)
    5 citations · Soil Carbon

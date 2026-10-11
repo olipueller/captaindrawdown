@@ -1,7 +1,7 @@
 ---
 title: "Ying Liu"
 description: "Ying Liu is a Senior Biochar researcher at Jinan University in CN. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.385757
+date: 2026-10-11T02:32:59.393653
 url: "/cdr-researcher-census/researchers/ying-liu-a5100414/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Desheng Lyu"
 description: "Desheng Lyu is a Mid-career Soil Carbon researcher at Harbin Institute of Technology in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.063087
+date: 2026-10-11T02:33:00.093142
 url: "/cdr-researcher-census/researchers/desheng-lyu-a5108257/"
 layout: "researcher"
 hiddenInHomeList: true

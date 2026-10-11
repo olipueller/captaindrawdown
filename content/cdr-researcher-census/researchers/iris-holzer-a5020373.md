@@ -1,7 +1,7 @@
 ---
 title: "Iris Holzer"
 description: "Iris Holzer is a Mid-career Enhanced Weathering researcher at University of California, Santa Barbara in US. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.966689
+date: 2026-10-11T02:32:59.998026
 url: "/cdr-researcher-census/researchers/iris-holzer-a5020373/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,28 +45,28 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 7 |
 | Citations | 199 |
 | Publications | 18 |
-| CDR Focus | 50.0% |
-| Trajectory | Declining |
+| CDR Focus | 55.6% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **Direct evidence for atmospheric carbon dioxide removal via enhanced weathering in cropland soil** (2023)
-   38 citations · Enhanced Weathering
-
-2. **Soil carbon sequestration in global working lands as a gateway for negative emission technologies** (2023)
+1. **Soil carbon sequestration in global working lands as a gateway for negative emission technologies** (2023)
    38 citations · General CDR
 
-3. **Methods for determining the CO2 removal capacity of enhanced weathering in agronomic settings** (2022)
+2. **Methods for determining the CO2 removal capacity of enhanced weathering in agronomic settings** (2022)
+   38 citations · Enhanced Weathering
+
+3. **Direct evidence for atmospheric carbon dioxide removal via enhanced weathering in cropland soil** (2023)
    37 citations · Enhanced Weathering
 
 4. **Reduced accrual of mineral-associated organic matter after two years of enhanced rock weathering in cropland soils, though no net losses of soil organic carbon** (2024)
-   34 citations · Enhanced Weathering
+   36 citations · Enhanced Weathering
 
 5. **Combining organic amendments with enhanced rock weathering shifts soil carbon storage in croplands** (2025)
-   12 citations · Enhanced Weathering
+   13 citations · Enhanced Weathering
 
 6. **Preliminary assessment of crushed rock, compost, and biochar amendments on soil physical properties** (2025)
-   6 citations · Biochar
+   7 citations · Biochar
 
 7. **Reduced accrual of mineral-associated organic matter after two years of enhanced rock weathering in cropland soils, though no net losses of soil organic carbon** (2024)
    4 citations
@@ -75,7 +75,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    3 citations · General CDR
 
 9. **An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering** (2026)
-   0 citations · Enhanced Weathering
+   1 citations · Enhanced Weathering
 
 10. **Testing the potential of ERW in California working lands: challenges and opportunities** (2024)
    0 citations · Enhanced Weathering

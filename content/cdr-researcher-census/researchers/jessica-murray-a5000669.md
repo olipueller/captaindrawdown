@@ -1,7 +1,7 @@
 ---
 title: "Jessica Murray"
 description: "Jessica Murray is a Mid-career Soil Carbon researcher at Utah State University in US. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.728694
+date: 2026-10-11T02:32:59.750072
 url: "/cdr-researcher-census/researchers/jessica-murray-a5000669/"
 layout: "researcher"
 hiddenInHomeList: true

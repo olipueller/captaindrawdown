@@ -1,7 +1,7 @@
 ---
 title: "Junyan Lv"
-description: "Junyan Lv is a Mid-career Enhanced Weathering researcher at Chinese Academy of Agricultural Sciences in CN. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.608909
+description: "Junyan Lv is a Mid-career Enhanced Weathering researcher at Chinese Academy of Agricultural Sciences in CN. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:32:59.665481
 url: "/cdr-researcher-census/researchers/junyan-lv-a5035923/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 11 |
-| Citations | 372 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| Citations | 344 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

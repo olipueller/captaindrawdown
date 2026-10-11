@@ -1,7 +1,7 @@
 ---
 title: "Francesco Campo"
 description: "Francesco Campo is an Early-career Ocean CDR researcher at Politecnico di Milano in IT. With 3 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.989275
+date: 2026-10-11T02:33:00.020208
 url: "/cdr-researcher-census/researchers/francesco-campo-a5102487/"
 layout: "researcher"
 hiddenInHomeList: true

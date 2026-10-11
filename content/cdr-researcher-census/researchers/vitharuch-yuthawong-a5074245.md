@@ -1,7 +1,7 @@
 ---
 title: "Vitharuch Yuthawong"
 description: "Vitharuch Yuthawong is a Mid-career Biochar researcher at Kasetsart University in TH. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.212241
+date: 2026-10-11T02:33:00.242439
 url: "/cdr-researcher-census/researchers/vitharuch-yuthawong-a5074245/"
 layout: "researcher"
 hiddenInHomeList: true

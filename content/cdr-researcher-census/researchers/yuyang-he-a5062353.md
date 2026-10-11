@@ -1,7 +1,7 @@
 ---
 title: "Yuyang He"
 description: "Yuyang He is a Senior Soil Carbon researcher at Chengdu Organic Chemicals (China) in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.001313
+date: 2026-10-11T02:33:00.032142
 url: "/cdr-researcher-census/researchers/yuyang-he-a5062353/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Cropping systems and environment shape SOC-SIC dynamics in global agroecosystems: A meta-analysis of carbon trade-offs** (2025)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Alex Woodley"
 description: "Alex Woodley is a Mid-career Enhanced Weathering researcher at North Carolina State University in US. With 54 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.343340
+date: 2026-10-11T02:32:59.349338
 url: "/cdr-researcher-census/researchers/alex-woodley-a5067604/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 12 |
 | Citations | 721 |
 | Publications | 54 |
-| CDR Focus | 5.6% |
+| CDR Focus | 7.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Evaluating biomass sustainability: Why below-ground carbon sequestration matters** (2024)
-   55 citations · BECCS
+   58 citations · BECCS
 
 2. **Direct Measurement of Carbon Dioxide Removal Due to Enhanced Weathering** (2025)
    4 citations · Enhanced Weathering

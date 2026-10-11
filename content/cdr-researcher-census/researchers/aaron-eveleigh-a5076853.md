@@ -1,7 +1,7 @@
 ---
 title: "Aaron Eveleigh"
 description: "Aaron Eveleigh is a Mid-career Biochar researcher at University College London in GB. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.541384
+date: 2026-10-11T02:32:59.556314
 url: "/cdr-researcher-census/researchers/aaron-eveleigh-a5076853/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zena Smith"
 description: "Zena Smith is a Senior Enhanced Weathering researcher at Jackson State University in US. With 5 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.551143
+date: 2026-10-11T02:32:59.566173
 url: "/cdr-researcher-census/researchers/zena-smith-a5038737/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Phytoremediation potential of Nerium oleander and Salix alba for heavy metal removal in rock-amended soils: a natural and cost-effective approach** (2025)
-   0 citations · Enhanced Weathering
+   1 citations · Enhanced Weathering
 
 2. **Efficiency of Elephant Grass (Cenchrus purpureus) as Bioaccumulator Plant and Soil Weathering Enhancer** (2025)
    0 citations · Enhanced Weathering

@@ -1,7 +1,7 @@
 ---
 title: "Debabrata Nath"
 description: "Debabrata Nath is a Mid-career Soil Carbon researcher at International Rice Research Institute in PH. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.847871
+date: 2026-10-11T02:32:59.874490
 url: "/cdr-researcher-census/researchers/debabrata-nath-a5086386/"
 layout: "researcher"
 hiddenInHomeList: true

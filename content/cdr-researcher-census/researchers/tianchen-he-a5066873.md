@@ -1,7 +1,7 @@
 ---
 title: "Tianchen He"
 description: "Tianchen He is a Senior Enhanced Weathering researcher at Taiyuan Normal University in GB. With 68 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.122934
+date: 2026-10-11T02:32:59.127551
 url: "/cdr-researcher-census/researchers/tianchen-he-a5066873/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    61 citations
 
 2. **A chemical weathering control on the delivery of particulate iron to the continental shelf** (2021)
-   37 citations · Enhanced Weathering
+   38 citations · Enhanced Weathering
 
 3. **First record of the early Toarcian Oceanic Anoxic Event in the Hebrides Basin (UK) and implications for redox and weathering changes** (2021)
-   27 citations · Enhanced Weathering
+   29 citations · Enhanced Weathering
 
 4. **Heterogeneous sulfide reoxidation buffered oxygen release in the Ediacaran Shuram ocean** (2023)
    10 citations
@@ -71,10 +71,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 7. **Barium Isotopes Indicate Spatiotemporal Heterogeneity of Marine Primary Productivity During the Toarcian Oceanic Anoxic Event** (2026)
    1 citations
 
-8. **Multiproxy Geochemical Records of the Carnian Pluvial Episode in Laurasia** (2026)
+8. **Shallow-water deoxygenation during the late Cambrian SPICE event on the North China Platform: Insights from sulfur and iodine records** (2026)
    0 citations
 
-9. **A new record of the Toarcian oceanic anoxic event from Scotland (UK) and environmental responses** (2021)
+9. **Multiproxy Geochemical Records of the Carnian Pluvial Episode in Laurasia** (2026)
+   0 citations
+
+10. **A new record of the Toarcian oceanic anoxic event from Scotland (UK) and environmental responses** (2021)
    0 citations
 
 ## External Profiles

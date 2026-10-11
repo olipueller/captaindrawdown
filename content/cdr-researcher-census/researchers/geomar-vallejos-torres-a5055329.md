@@ -1,7 +1,7 @@
 ---
 title: "Geomar Vallejos-Torres"
 description: "Geomar Vallejos-Torres is a Mid-career Soil Carbon researcher at National Agrarian University in NI. With 45 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.669583
+date: 2026-10-11T02:32:59.689293
 url: "/cdr-researcher-census/researchers/geomar-vallejos-torres-a5055329/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,13 +50,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Soil Organic Carbon Variability in Tropical Cropping Systems: Interactions With Texture, pH, Macronutrients, and Organic Matter** (2026)
+1. **Climate, carbon, and soil stability: a key link in coffee-growing landscapes of the Peruvian Amazon** (2026)
+   2 citations
+
+2. **Soil Organic Carbon Variability in Tropical Cropping Systems: Interactions With Texture, pH, Macronutrients, and Organic Matter** (2026)
    1 citations · Soil Carbon
 
-2. **Correction: Production of biochar derived from guinea pig manure as a soil amendment in high Andean and coastal acidic soils in Peru: agronomic potential and cost analysis for sustainable circularity** (2026)
+3. **Correction: Production of biochar derived from guinea pig manure as a soil amendment in high Andean and coastal acidic soils in Peru: agronomic potential and cost analysis for sustainable circularity** (2026)
    0 citations · Biochar
 
-3. **Carbon stocks in coffee farms and secondary forest systems in the Peruvian Amazon rainforest** (2023)
+4. **Carbon stocks in coffee farms and secondary forest systems in the Peruvian Amazon rainforest** (2023)
    0 citations · Soil Carbon
 
 ## External Profiles

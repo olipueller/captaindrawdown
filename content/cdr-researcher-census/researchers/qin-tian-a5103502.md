@@ -1,7 +1,7 @@
 ---
 title: "Qin Tian"
 description: "Qin Tian is a Senior Biochar researcher at Guizhou Normal University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.081072
+date: 2026-10-11T02:33:00.111340
 url: "/cdr-researcher-census/researchers/qin-tian-a5103502/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar and iron minerals facilitate the reduction of pollution and sequestration of carbon in chloramphenicol-contaminated soil under dry conditions** (2025)
-   7 citations · Biochar
+   8 citations · Biochar
 
 ## External Profiles
 

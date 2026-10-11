@@ -1,7 +1,7 @@
 ---
 title: "Yuejing Rong"
 description: "Yuejing Rong is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 34 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.309196
+date: 2026-10-11T02:32:59.314549
 url: "/cdr-researcher-census/researchers/yuejing-rong-a5102381/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Identifying the potential areas of afforestation projects using cost-benefit analysis based on ecosystem services and farmland suitability: A case study of the Grain for Green Project in Jinan, China** (2021)
-   40 citations · General CDR
+   39 citations · General CDR
 
 2. **Integrating ecosystem service importance and ecological sensitivity to identify priority areas for ecological conservation and restoration in Miyun Reservoir Basin** (2023)
    12 citations · Soil Carbon

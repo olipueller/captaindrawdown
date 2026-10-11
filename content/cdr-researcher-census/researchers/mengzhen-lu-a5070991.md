@@ -1,7 +1,7 @@
 ---
 title: "Mengzhen Lu"
 description: "Mengzhen Lu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.058854
+date: 2026-10-11T02:33:00.088674
 url: "/cdr-researcher-census/researchers/mengzhen-lu-a5070991/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of tree mycorrhizal type on ecosystem carbon stock in a subtropical mountainous forest** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 2. **Accumulation of microbial residuals and lignin phenols in forest soils along the latitude** (2023)
    1 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Fengxiang Wang"
 description: "Fengxiang Wang is a Senior BECCS researcher at Chinese Academy of Sciences in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.712240
+date: 2026-10-11T02:32:59.733003
 url: "/cdr-researcher-census/researchers/fengxiang-wang-a5115597/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Low-Carbon Economic Dispatch of an Integrated Agricultural Energy System Considering Biomass Power Generation** (2024)
-   0 citations · BECCS
+   1 citations · BECCS
 
 ## External Profiles
 

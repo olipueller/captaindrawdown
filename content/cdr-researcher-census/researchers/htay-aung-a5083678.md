@@ -1,7 +1,7 @@
 ---
 title: "Htay Aung"
 description: "Htay Aung is a Senior Soil Carbon researcher at St. Christopher's Hospital for Children in US. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.345589
+date: 2026-10-11T02:33:00.380753
 url: "/cdr-researcher-census/researchers/htay-aung-a5083678/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Understanding carbon storage dynamics in Ayeyarwady delta's mangrove ecosystem in Myanmar: insights for restoration efforts** (2024)
-   7 citations · General CDR
+   9 citations · General CDR
 
 2. **Soil Organic Carbon Stocks of Myanmar’s Shwe Thaung Yan Coastal Region and Accumulation in Magyi’s Mangroves Over Six Years** (2023)
    1 citations · Soil Carbon

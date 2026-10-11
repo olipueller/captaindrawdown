@@ -1,7 +1,7 @@
 ---
 title: "Cathy L. Thomas"
 description: "Cathy L. Thomas is a Senior Enhanced Weathering researcher at Rothamsted Research in GB. With 28 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.306288
+date: 2026-10-11T02:32:59.311544
 url: "/cdr-researcher-census/researchers/cathy-l-thomas-a5059122/"
 layout: "researcher"
 hiddenInHomeList: true

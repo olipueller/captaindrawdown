@@ -1,7 +1,7 @@
 ---
 title: "Zhijian Gao"
 description: "Zhijian Gao is a Senior Soil Carbon researcher at Xinjiang Production and Construction Corps in CN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.751609
+date: 2026-10-11T02:32:59.774057
 url: "/cdr-researcher-census/researchers/zhijian-gao-a5010065/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of Irrigation and Nitrogen Fertilizer on Soil Carbon Leaching in Cotton Fields in Arid Areas** (2023)
-   6 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 2. **Effects of Irrigation and Nitrogen Fertilizer on Soil Carbon Leaching in Cotton Field in Arid Area** (2023)
    5 citations · Soil Carbon

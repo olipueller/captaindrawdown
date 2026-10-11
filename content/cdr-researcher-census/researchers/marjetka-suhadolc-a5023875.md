@@ -1,7 +1,7 @@
 ---
 title: "Marjetka Suhadolc"
 description: "Marjetka Suhadolc is a Senior Soil Carbon researcher at University of Ljubljana in SI. With 81 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.249280
+date: 2026-10-11T02:32:59.253203
 url: "/cdr-researcher-census/researchers/marjetka-suhadolc-a5023875/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Trade‐offs and synergies of soil carbon sequestration: Addressing knowledge gaps related to soil management strategies** (2024)
-   39 citations · General CDR
+   41 citations · General CDR
 
 2. **Combined effects of long-term tillage and fertilisation regimes on soil organic carbon, microbial biomass, and abundance of the total microbial communities and N-functional guilds** (2023)
    38 citations · Soil Carbon

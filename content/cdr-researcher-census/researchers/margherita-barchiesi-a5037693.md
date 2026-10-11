@@ -1,7 +1,7 @@
 ---
 title: "Margherita Barchiesi"
 description: "Margherita Barchiesi is a Mid-career Biochar researcher at Wageningen University & Research in NL. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.842496
+date: 2026-10-11T02:32:59.868412
 url: "/cdr-researcher-census/researchers/margherita-barchiesi-a5037693/"
 layout: "researcher"
 hiddenInHomeList: true

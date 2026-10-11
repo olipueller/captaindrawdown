@@ -1,7 +1,7 @@
 ---
 title: "João Carlos de Moraes Sá"
 description: "João Carlos de Moraes Sá is a Senior Soil Carbon researcher at College of Food, Agricultural, and Environmental Sciences, Ohio State University in US. With 78 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.057814
+date: 2026-10-11T02:32:59.062114
 url: "/cdr-researcher-census/researchers/joao-carlos-de-moraes-sa-a5039530/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -60,16 +60,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    15 citations · General CDR
 
 4. **Why no-till system sequesters more carbon and is more resilient and productive with contrasting fertilization regimes in a highly weathered soil?** (2024)
-   10 citations
+   11 citations
 
 5. **Accessing and modelling soil organic carbon stocks in Prairies, Savannas, and forests** (2024)
    7 citations
 
 6. **Sixty Years of Sugarcane Monoculture Alters Carbon Preservation in Large Soil Macroaggregates in Tropical Soil** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 7. **Relationship of Microbial and Fertility Attributes to Organic Carbon Accumulation in a Subtropical Weathered Soil Impacted by a Long-Term Tillage Chronosequence** (2024)
    1 citations · Soil Carbon
+
+8. **The carbon harvest: Unlocking the Value of Environmental Underground Economy into Farm Revenue** (2026)
+   0 citations
 
 ## External Profiles
 

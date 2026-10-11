@@ -1,7 +1,7 @@
 ---
 title: "Zhiguo Hao"
 description: "Zhiguo Hao is a Senior Soil Carbon researcher at Xi'an Jiaotong University in CN. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.699803
+date: 2026-10-11T02:32:59.720090
 url: "/cdr-researcher-census/researchers/zhiguo-hao-a5112043/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    26 citations · Soil Carbon
 
 2. **Soil organic carbon stability of vegetation restoration during 11-year-old grassland succession** (2023)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 3. **Microbial-derived C increased more than plant-derived in soil under plantation versus grassland 11 years after landslide** (2024)
    1 citations · Soil Carbon

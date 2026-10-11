@@ -1,7 +1,7 @@
 ---
 title: "Klaus Lorenz"
 description: "Klaus Lorenz is a Senior Soil Carbon researcher at The Ohio State University in US. With 116 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.038355
+date: 2026-10-11T02:32:59.041495
 url: "/cdr-researcher-census/researchers/klaus-lorenz-a5046739/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -68,13 +68,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 6. **Soil Organic Carbon Sequestration** (2022)
    4 citations · Soil Carbon
 
-7. **Effects of Organic Agriculture on the Soil Carbon Stock** (2022)
+7. **Soil Inorganic Carbon Stocks in Terrestrial Biomes** (2022)
+   3 citations · Soil Carbon
+
+8. **Effects of Organic Agriculture on the Soil Carbon Stock** (2022)
    2 citations · Soil Carbon
 
-8. **Soil Organic Carbon Stocks** (2022)
-   2 citations · Soil Carbon
-
-9. **Soil Inorganic Carbon Stocks in Terrestrial Biomes** (2022)
+9. **Soil Organic Carbon Stocks** (2022)
    2 citations · Soil Carbon
 
 10. **Terrestrial Land of the United States of America** (2022)

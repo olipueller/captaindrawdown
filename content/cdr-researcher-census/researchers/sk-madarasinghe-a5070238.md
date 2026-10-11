@@ -1,7 +1,7 @@
 ---
 title: "S.K. Madarasinghe"
 description: "S.K. Madarasinghe is a Mid-career Soil Carbon researcher at University of Ruhuna in LK. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.118948
+date: 2026-10-11T02:33:00.149531
 url: "/cdr-researcher-census/researchers/sk-madarasinghe-a5070238/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Climate and intertidal zonation drive variability in the carbon stocks of Sri Lankan mangrove forests** (2021)
-   55 citations · Soil Carbon
+   56 citations · Soil Carbon
 
 ## External Profiles
 

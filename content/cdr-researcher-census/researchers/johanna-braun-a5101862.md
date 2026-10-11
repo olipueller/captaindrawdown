@@ -1,7 +1,7 @@
 ---
 title: "Johanna Braun"
 description: "Johanna Braun is a Senior General CDR researcher. With 39 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.971323
+date: 2026-10-11T02:33:00.002913
 url: "/cdr-researcher-census/researchers/johanna-braun-a5101862/"
 layout: "researcher"
 hiddenInHomeList: true

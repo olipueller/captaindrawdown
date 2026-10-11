@@ -1,7 +1,7 @@
 ---
 title: "Nejib Mohammed"
 description: "Nejib Mohammed is a Mid-career Soil Carbon researcher at Arba Minch University in ET. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.377298
+date: 2026-10-11T02:33:00.412741
 url: "/cdr-researcher-census/researchers/nejib-mohammed-a5028920/"
 layout: "researcher"
 hiddenInHomeList: true

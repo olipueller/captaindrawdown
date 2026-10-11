@@ -1,7 +1,7 @@
 ---
 title: "Binghao Zhang"
 description: "Binghao Zhang is a Mid-career General CDR researcher at Adamson University in PH. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.793974
+date: 2026-10-11T02:32:59.817583
 url: "/cdr-researcher-census/researchers/binghao-zhang-a5103043/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Lung- and diaphragm-protective strategies in acute respiratory failure: an in silico trial** (2024)
-   8 citations · General CDR
+   9 citations · General CDR
 
 ## External Profiles
 

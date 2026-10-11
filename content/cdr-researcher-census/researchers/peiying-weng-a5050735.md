@@ -1,7 +1,7 @@
 ---
 title: "Peiying Weng"
 description: "Peiying Weng is a Mid-career Soil Carbon researcher at Fujian Agriculture and Forestry University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.847668
+date: 2026-10-11T02:32:59.874243
 url: "/cdr-researcher-census/researchers/peiying-weng-a5050735/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Mechanisms of high yield formation and carbon budget surplus in ratoon rice and its rhizosphere microecological responses** (2025)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

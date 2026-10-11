@@ -1,7 +1,7 @@
 ---
 title: "Guido Raos"
 description: "Guido Raos is a Senior Ocean CDR researcher at Politecnico di Milano in IT. With 168 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.060850
+date: 2026-10-11T02:32:59.065249
 url: "/cdr-researcher-census/researchers/guido-raos-a5052105/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,30 +51,30 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Techno-economic evaluation of buffered accelerated weathering of limestone as a CO2 capture and storage option** (2023)
-   14 citations · Enhanced Weathering
+   15 citations · Enhanced Weathering
 
 2. **Chemical Aspect of Ocean Liming for CO<sub>2</sub> Removal: Dissolution Kinetics of Calcium Hydroxide in Seawater** (2024)
    13 citations
 
 3. **The response of phytoplankton to pH-equilibrated ocean alkalinization: A mesocosm experiment with harbour waters** (2025)
-   8 citations · Ocean CDR
+   10 citations · Ocean CDR
 
 4. **The effect of ocean alkalinity enhancement on zooplankton standing stock and community composition in the Eastern Mediterranean Sea: a mesocosm study** (2025)
-   3 citations · Ocean CDR
+   5 citations · Ocean CDR
 
 5. **Ocean liming in eutrophic vs. ultraoligotrophic environments and the response of algal calcifiers** (2024)
    1 citations · General CDR
 
-6. **Regional seawater-chemistry controls on ocean alkalinity enhancement efficiency: Carbonate precipitation risk under pH-equilibrated OAE** (2026)
+6. **Response of the Carbonate System to Ocean Alkalinity Enhancement: A Mesocosm-Scale Experiment** (2026)
    0 citations · Ocean CDR
 
 7. **Bipolar Membrane Electrodialysis for Ocean Alkalinity Enhancement: Configuration feasibility and CO2 injection pathways** (2026)
    0 citations · Ocean CDR
 
-8. **Bipolar Membrane Electrodialysis for Ocean Alkalinity Enhancement: Configuration feasibility and CO2 injection pathways** (2026)
-   0 citations · Ocean CDR
+8. **Chemical stability of bicarbonate-enriched solution in seawater for ocean-based carbon dioxide storage: A mesocosm study** (2026)
+   0 citations
 
-9. **Bipolar Membrane Electrodialysis for Ocean Alkalinity Enhancement: Configuration feasibility and CO2 injection pathways** (2026)
+9. **Regional seawater-chemistry controls on ocean alkalinity enhancement efficiency: Carbonate precipitation risk under pH-equilibrated OAE** (2026)
    0 citations · Ocean CDR
 
 10. **Bipolar Membrane Electrodialysis for Ocean Alkalinity Enhancement: Configuration feasibility and CO2 injection pathways** (2026)

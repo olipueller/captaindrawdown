@@ -1,7 +1,7 @@
 ---
 title: "Zhi-Nian Deng"
 description: "Zhi-Nian Deng is a Senior Biochar researcher at Sugarcane Research Center (Brazil) in BR. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.134648
+date: 2026-10-11T02:33:00.165132
 url: "/cdr-researcher-census/researchers/zhi-nian-deng-a5102029/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar and its impact on soil profile and plant development** (2024)
-   26 citations · Biochar
+   28 citations · Biochar
 
 ## External Profiles
 

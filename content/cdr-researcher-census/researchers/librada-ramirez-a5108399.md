@@ -1,7 +1,7 @@
 ---
 title: "Librada Ramírez"
 description: "Librada Ramírez is a Senior Ocean CDR researcher at Universidad de Málaga in ES. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.842131
+date: 2026-10-11T02:32:59.868042
 url: "/cdr-researcher-census/researchers/librada-ramirez-a5108399/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Ocean alkalinity enhancement (OAE) does not cause cellular stress in a phytoplankton community of the subtropical Atlantic Ocean** (2025)
-   13 citations · General CDR
+   21 citations · General CDR
 
 2. **Ocean alkalinity enhancement using sodium carbonate salts does not lead to measurable changes in Fe dynamics in a mesocosm experiment** (2024)
-   6 citations · Ocean CDR
+   8 citations · Ocean CDR
 
 3. **Ocean Alkalinity Enhancement (OAE) does not cause cellular stress in a phytoplankton community of the sub-tropical Atlantic Ocean** (2024)
    5 citations

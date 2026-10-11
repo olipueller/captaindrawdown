@@ -1,7 +1,7 @@
 ---
 title: "Rongbin Yin"
 description: "Rongbin Yin is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.993908
+date: 2026-10-11T02:33:00.024472
 url: "/cdr-researcher-census/researchers/rongbin-yin-a5018013/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Vegetation-driven differences in soil CO2 emissions and carbon-sequestering microbiomes of estuarine salt marsh and mangrove wetlands** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 2. **Soil organic carbon fractions and stability shifts in response to plant mixed-growth in coastal wetlands of southeastern China** (2025)
    2 citations · Soil Carbon

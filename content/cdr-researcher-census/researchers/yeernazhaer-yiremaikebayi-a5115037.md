@@ -1,7 +1,7 @@
 ---
 title: "Yeernazhaer Yiremaikebayi"
 description: "Yeernazhaer Yiremaikebayi is an Early-career Biochar researcher at Shihezi University in CN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.277627
+date: 2026-10-11T02:33:00.307643
 url: "/cdr-researcher-census/researchers/yeernazhaer-yiremaikebayi-a5115037/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar in sustainable agriculture and Climate Mitigation: Mechanisms, challenges, and applications in the circular bioeconomy** (2024)
-   100 citations · Biochar
+   103 citations · Biochar
 
 2. **Plant root-mediated carbon sequestration and nutrient cycling in grassland ecosystems under land use and climate change** (2025)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 ## External Profiles
 

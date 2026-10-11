@@ -1,7 +1,7 @@
 ---
 title: "Xinliang Dong"
 description: "Xinliang Dong is a Mid-career Soil Carbon researcher. With 28 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.260551
+date: 2026-10-11T02:32:59.264400
 url: "/cdr-researcher-census/researchers/xinliang-dong-a5043034/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term saline water irrigation decreased soil organic carbon and inorganic carbon contents** (2022)
-   52 citations · Soil Carbon
+   53 citations · Soil Carbon
 
 2. **Biochar promoted halophyte growth and enhanced soil carbon stock in a coastal salt-affected soil** (2024)
    8 citations · Biochar

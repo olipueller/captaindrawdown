@@ -1,7 +1,7 @@
 ---
 title: "Tao Zhang"
 description: "Tao Zhang is a Senior Biochar researcher at University of International Business and Economics in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.897179
+date: 2026-10-11T02:32:59.926242
 url: "/cdr-researcher-census/researchers/tao-zhang-a5100375/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Meseret Kassie"
 description: "Meseret Kassie is a Mid-career Soil Carbon researcher at University of Gondar in ET. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.144611
+date: 2026-10-11T02:33:00.174725
 url: "/cdr-researcher-census/researchers/meseret-kassie-a5021317/"
 layout: "researcher"
 hiddenInHomeList: true

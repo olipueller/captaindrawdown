@@ -1,7 +1,7 @@
 ---
 title: "Lingjun Tan"
 description: "Lingjun Tan is a Mid-career DAC researcher at Shenzhen Metro (China) in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.998316
+date: 2026-10-11T02:33:00.029135
 url: "/cdr-researcher-census/researchers/lingjun-tan-a5030570/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **EGDE-induced crosslinking of PEI@D500 adsorbents for direct air capture: Enhanced hydrothermal and oxidative stability** (2026)
-   23 citations · DAC
+   36 citations · DAC
 
 2. **Extrusion-shaped PEI@B/MC-M560 adsorbents for direct air capture: Balancing mechanical strength and CO2 adsorption efficiency** (2026)
    0 citations · DAC

@@ -1,7 +1,7 @@
 ---
 title: "Changxun Dong"
 description: "Changxun Dong is a Senior Biochar researcher at Nanjing Agricultural University in CN. With 39 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.138997
+date: 2026-10-11T02:32:59.143445
 url: "/cdr-researcher-census/researchers/changxun-dong-a5101818/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Simultaneous removal of Cd(II) and As(V) by ferrihydrite-biochar composite: Enhanced effects of As(V) on Cd(II) adsorption** (2023)
-   43 citations · Biochar
+   45 citations · Biochar
 
 2. **Simultaneous Removal of Cd(Ii) and As(V) by Ferrihydrite-Biochar Composite: Enhanced Effects of As(V) on Cd(Ii) Adsorption** (2022)
    2 citations · Biochar

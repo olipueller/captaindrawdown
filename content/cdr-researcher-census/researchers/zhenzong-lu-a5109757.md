@@ -1,7 +1,7 @@
 ---
 title: "Zhenzong Lu"
 description: "Zhenzong Lu is a Mid-career Soil Carbon researcher at Ocean University of China in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.895998
+date: 2026-10-11T02:32:59.925068
 url: "/cdr-researcher-census/researchers/zhenzong-lu-a5109757/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Sustainability of Maize–Soybean Rotation for Future Climate Change Scenarios in Northeast China** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

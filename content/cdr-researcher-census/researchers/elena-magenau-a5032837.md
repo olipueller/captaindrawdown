@@ -1,7 +1,7 @@
 ---
 title: "Elena Magenau"
 description: "Elena Magenau is a Mid-career BECCS researcher at University of Hohenheim in DE. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.652319
+date: 2026-10-11T02:32:59.671176
 url: "/cdr-researcher-census/researchers/elena-magenau-a5032837/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Perennial biomass cropping and use: Shaping the policy ecosystem in European countries** (2023)
-   55 citations · BECCS
+   56 citations · BECCS
 
 2. **Novel Miscanthus hybrids: Modelling productivity on marginal land in Europe using dynamics of canopy development determined by light interception** (2023)
-   19 citations · BECCS
+   20 citations · BECCS
 
 3. **Early impacts of marginal land‐use transition to<i>Miscanthus</i>on soil quality and soil carbon storage across Europe** (2024)
    8 citations · Soil Carbon

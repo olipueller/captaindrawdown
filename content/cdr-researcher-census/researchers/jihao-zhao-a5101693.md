@@ -1,7 +1,7 @@
 ---
 title: "Jihao Zhao"
 description: "Jihao Zhao is a Senior Soil Carbon researcher at Shandong Academy of Agricultural Sciences in CN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.467379
+date: 2026-10-11T02:32:59.478819
 url: "/cdr-researcher-census/researchers/jihao-zhao-a5101693/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Optimizing residue and tillage management practices to improve soil carbon sequestration in a wheat–peanut rotation system** (2022)
-   33 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Pujia Yu"
 description: "Pujia Yu is a Senior Soil Carbon researcher at Southwest University in CN. With 50 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.126646
+date: 2026-10-11T02:32:59.131293
 url: "/cdr-researcher-census/researchers/pujia-yu-a5026455/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The increased soil aggregate stability and aggregate-associated carbon by farmland use change in a karst region of Southwest China** (2023)
-   73 citations · Soil Carbon
+   74 citations · Soil Carbon
 
 2. **Afforestation influences soil organic carbon and its fractions associated with aggregates in a karst region of Southwest China** (2021)
-   73 citations · Soil Carbon
+   71 citations · Soil Carbon
 
 3. **Changes in soil aggregate stability and aggregate-associated carbon under different slope positions in a karst region of Southwest China** (2024)
-   31 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 4. **Effects of vegetation succession on soil organic carbon fractions and stability in a karst valley area, Southwest China** (2022)
    23 citations · Soil Carbon
@@ -71,14 +71,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 7. **[Effects of Land Use Change on Soil Aggregate Stability and Soil Aggregate Organic Carbon in Karst Area of Southwest China].** (2024)
    5 citations · Soil Carbon
 
-8. **Soil Organic Carbon Storage and Stratification in Land Use Types in the Source Area of the Tarim River Basin** (2024)
+8. **Vegetation productivity and soil CO₂ correlation were decoupled during post-wildfire recovery in karst landscapes** (2026)
+   4 citations
+
+9. **Soil Organic Carbon Storage and Stratification in Land Use Types in the Source Area of the Tarim River Basin** (2024)
    4 citations · Soil Carbon
 
-9. **Impacts of Different Vegetation Types on Soil Aggregate Stability in the Key Ecological Rehabilitation Area of the Tarim River Basin, Northwest China** (2024)
+10. **Impacts of Different Vegetation Types on Soil Aggregate Stability in the Key Ecological Rehabilitation Area of the Tarim River Basin, Northwest China** (2024)
    3 citations · Soil Carbon
-
-10. **Vegetation productivity and soil CO₂ correlation were decoupled during post-wildfire recovery in karst landscapes** (2026)
-   2 citations
 
 ## External Profiles
 

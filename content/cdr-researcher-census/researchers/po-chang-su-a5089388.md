@@ -1,7 +1,7 @@
 ---
 title: "Po-Chang Su"
 description: "Po-Chang Su is a Senior DAC researcher at Institute of Food Science and Technology in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.765161
+date: 2026-10-11T02:32:59.788280
 url: "/cdr-researcher-census/researchers/po-chang-su-a5089388/"
 layout: "researcher"
 hiddenInHomeList: true

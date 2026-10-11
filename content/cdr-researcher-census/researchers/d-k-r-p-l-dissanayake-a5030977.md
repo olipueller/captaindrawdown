@@ -1,7 +1,7 @@
 ---
 title: "D. K. R. P. L. Dissanayake"
 description: "D. K. R. P. L. Dissanayake is a Mid-career Soil Carbon researcher at Griffith University in AU. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.743306
+date: 2026-10-11T02:32:59.765707
 url: "/cdr-researcher-census/researchers/d-k-r-p-l-dissanayake-a5030977/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Agroforestry—a key tool in the climate-smart agriculture context: a review on coconut cultivation in Sri Lanka** (2023)
-   73 citations · General CDR
+   74 citations · General CDR
 
 2. **Sustainable Utilization of King Coconut Husk as a Feedstock in Biochar Production with the Highest Conversion Efficiency and Desirable Properties** (2023)
    18 citations · Biochar
 
 3. **Combination of Biochar‐Based Fertilisers and Reactive Barriers Improved Soil Carbon Storage, Soil Moisture Retention, and Crop Yield in Short Term** (2025)
-   14 citations · Biochar
+   13 citations · Biochar
 
 ## External Profiles
 

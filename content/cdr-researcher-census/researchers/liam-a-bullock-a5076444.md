@@ -1,7 +1,7 @@
 ---
 title: "Liam A. Bullock"
 description: "Liam A. Bullock is a Mid-career Enhanced Weathering researcher at Instituto Geológico y Minero de España in ES. With 57 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.386176
+date: 2026-10-11T02:32:59.393952
 url: "/cdr-researcher-census/researchers/liam-a-bullock-a5076444/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,22 +45,22 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 15 |
 | Citations | 631 |
 | Publications | 57 |
-| CDR Focus | 29.8% |
+| CDR Focus | 31.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Global Carbon Dioxide Removal Potential of Waste Materials From Metal and Diamond Mining** (2021)
-   73 citations · Enhanced Weathering
+   75 citations · Enhanced Weathering
 
 2. **Kinetics-informed global assessment of mine tailings for CO2 removal** (2021)
-   50 citations · Enhanced Weathering
+   51 citations · Enhanced Weathering
 
 3. **Geochemical carbon dioxide removal potential of Spain** (2022)
    30 citations · Enhanced Weathering
 
 4. **Potential of enhanced weathering of calcite in packed bubble columns with seawater for carbon dioxide removal** (2021)
-   25 citations · Enhanced Weathering
+   26 citations · Enhanced Weathering
 
 5. **Catalogue of South African mine tailings for geochemical carbon dioxide removal purposes** (2023)
    11 citations · Enhanced Weathering
@@ -71,13 +71,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 7. **Global carbon dioxide removal potential of waste materials from metal and diamond mining** (2021)
    4 citations · Enhanced Weathering
 
-8. **Spain's realistic potential for ocean alkalinity enhancement: Carbon dioxide removal through industrial integration** (2026)
-   0 citations · General CDR
+8. **An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering** (2026)
+   1 citations · Enhanced Weathering
 
-9. **An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering** (2026)
-   0 citations · Enhanced Weathering
+9. **Assessing urban green roofs for CO2 removal via enhanced rock weathering in Europe** (2026)
+   1 citations · Enhanced Weathering
 
-10. **Dissolution kinetics of platinum mine by-products for nature-based and engineered carbon dioxide removal** (2026)
+10. **Spain's realistic potential for ocean alkalinity enhancement: Carbon dioxide removal through industrial integration** (2026)
    0 citations · General CDR
 
 ## External Profiles

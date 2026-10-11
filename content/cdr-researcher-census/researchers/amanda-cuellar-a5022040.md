@@ -1,7 +1,7 @@
 ---
 title: "Amanda Cuéllar"
 description: "Amanda Cuéllar is a Senior BECCS researcher at University of San Diego in US. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.248132
+date: 2026-10-11T02:32:59.252041
 url: "/cdr-researcher-census/researchers/amanda-cuellar-a5022040/"
 layout: "researcher"
 hiddenInHomeList: true

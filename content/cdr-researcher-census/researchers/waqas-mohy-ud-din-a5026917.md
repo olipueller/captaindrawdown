@@ -1,7 +1,7 @@
 ---
 title: "Waqas Mohy-Ud-Din"
 description: "Waqas Mohy-Ud-Din is a Mid-career Soil Carbon researcher at Tianjin University in CN. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.317404
+date: 2026-10-11T02:32:59.323199
 url: "/cdr-researcher-census/researchers/waqas-mohy-ud-din-a5026917/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Divergent responses of phosphorus solubilizing bacteria with P-laden biochar for enhancing nutrient recovery, growth, and yield of canola (Brassica napus L.)** (2024)
-   17 citations · Biochar
+   20 citations · Biochar
 
 2. **Assessment of the Change in Soil Properties and Aggregates Formation of Freshly Restored Texturally Different Marginally Salt-Affected Soils Under Various Soil Amelioration Strategies** (2024)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 ## External Profiles
 

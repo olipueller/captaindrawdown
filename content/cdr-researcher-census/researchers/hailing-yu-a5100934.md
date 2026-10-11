@@ -1,7 +1,7 @@
 ---
 title: "Hailing Yu"
 description: "Hailing Yu is a Senior Biochar researcher at Health Commission of Jilin Province in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.282078
+date: 2026-10-11T02:33:00.312638
 url: "/cdr-researcher-census/researchers/hailing-yu-a5100934/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Remediation of atrazine in environment by persulfate activation via N/B co-doped Si-rich biochar: Performance, mechanisms, degradation pathways and phytotoxicity** (2023)
-   28 citations · Biochar
+   32 citations · Biochar
 
 2. **Remediation of Atrazine in Environment by Persulfate Activation Via N/B Co-Doped Si-Rich Biochar: Performance, Mechanisms, Degradation Pathways and Phytotoxicity** (2023)
    0 citations · Biochar

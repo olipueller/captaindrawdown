@@ -1,7 +1,7 @@
 ---
 title: "Chelsea J. Mitchell"
 description: "Chelsea J. Mitchell is a Mid-career Biochar researcher at GC Systems (United States) in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.846754
+date: 2026-10-11T02:32:59.873175
 url: "/cdr-researcher-census/researchers/chelsea-j-mitchell-a5027542/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar and fungi as bioretention amendments for bacteria and PAH removal from stormwater** (2022)
-   16 citations · Biochar
+   17 citations · Biochar
 
 ## External Profiles
 

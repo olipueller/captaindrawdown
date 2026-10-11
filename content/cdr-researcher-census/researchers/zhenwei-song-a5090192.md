@@ -1,7 +1,7 @@
 ---
 title: "Zhenwei Song"
 description: "Zhenwei Song is a Senior Soil Carbon researcher at Institute of Crop Sciences, Chinese Academy of Agricultural Sciences in CN. With 107 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.074232
+date: 2026-10-11T02:32:59.079039
 url: "/cdr-researcher-census/researchers/zhenwei-song-a5090192/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 35 |
 | Citations | 3,433 |
 | Publications | 107 |
-| CDR Focus | 5.6% |
-| Trajectory | Stable |
+| CDR Focus | 6.5% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Climate-smart agriculture practice promotes sustainable maize production in northeastern China: Higher grain yield while less carbon footprint** (2023)
-   31 citations · General CDR
+   33 citations · General CDR
 
 2. **Estimation of soil organic carbon stock and its controlling factors in cropland of Yunnan Province, China** (2022)
    17 citations · Soil Carbon
@@ -60,15 +60,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    14 citations · General CDR
 
 4. **Impacts of inorganic and organic fertilization on soil organic carbon and crop production: a meta-analysis** (2026)
-   6 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 5. **Sustainability of Maize–Soybean Rotation for Future Climate Change Scenarios in Northeast China** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
-6. **Research landscape and emerging pathways of sewage sludge application for soil carbon sequestration** (2026)
+6. **Optimizing N rates enhanced crop yields and mitigated N2O emissions in a peanut–wheat cropping system in the North China Plain** (2026)
+   0 citations · Soil Carbon
+
+7. **Research landscape and emerging pathways of sewage sludge application for soil carbon sequestration** (2026)
    0 citations · Biochar
 
-7. **Effects of low-temperature stress during heading stage on carbon and nitrogen allocation in paddy eco-system of northeastern China** (2024)
+8. **Effects of low-temperature stress during heading stage on carbon and nitrogen allocation in paddy eco-system of northeastern China** (2024)
    0 citations
 
 ## External Profiles

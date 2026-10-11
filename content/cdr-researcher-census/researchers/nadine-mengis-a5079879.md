@@ -1,7 +1,7 @@
 ---
 title: "Nadine Mengis"
 description: "Nadine Mengis is a Senior General CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 143 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.155630
+date: 2026-10-11T02:32:59.160051
 url: "/cdr-researcher-census/researchers/nadine-mengis-a5079879/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,32 +53,32 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 1. **Navigating Potential Hype and Opportunity in Governing Marine Carbon Removal** (2021)
    66 citations · General CDR
 
-2. **Perspectives and challenges of marine carbon dioxide removal** (2025)
-   44 citations · General CDR
+2. **The need for carbon-emissions-driven climate projections in CMIP7** (2024)
+   61 citations · General CDR
 
-3. **The need for carbon-emissions-driven climate projections in CMIP7** (2024)
-   43 citations · General CDR
+3. **Perspectives and challenges of marine carbon dioxide removal** (2025)
+   47 citations · General CDR
 
-4. **Framework for Assessing the Feasibility of Carbon Dioxide Removal Options Within the National Context of Germany** (2022)
+4. **Counting (on) blue carbon—Challenges and ways forward for carbon accounting of ecosystem-based carbon removal in marine environments** (2023)
    38 citations · General CDR
 
 5. **Scoping carbon dioxide removal options for Germany–What is their potential contribution to Net-Zero CO2?** (2022)
+   38 citations · General CDR
+
+6. **Framework for Assessing the Feasibility of Carbon Dioxide Removal Options Within the National Context of Germany** (2022)
    37 citations · General CDR
 
-6. **Counting (on) blue carbon—Challenges and ways forward for carbon accounting of ecosystem-based carbon removal in marine environments** (2023)
-   35 citations · General CDR
-
 7. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2024)
-   24 citations · BECCS
+   25 citations · BECCS
 
 8. **The need for carbon emissions-driven climate projections in CMIP7** (2023)
    17 citations · General CDR
 
-9. **Reassessing the need for carbon dioxide removal: moral implications of alternative climate target pathways** (2024)
+9. **A holistic assessment framework for marine carbon dioxide removal options** (2025)
    12 citations · General CDR
 
-10. **A holistic assessment framework for marine carbon dioxide removal options** (2025)
-   11 citations · General CDR
+10. **Reassessing the need for carbon dioxide removal: moral implications of alternative climate target pathways** (2024)
+   12 citations · General CDR
 
 ## External Profiles
 

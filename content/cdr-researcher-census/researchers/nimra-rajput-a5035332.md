@@ -1,7 +1,7 @@
 ---
 title: "Nimra Rajput"
 description: "Nimra Rajput is a Mid-career Biochar researcher at Yangzhou University in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.002478
+date: 2026-10-11T02:33:00.033318
 url: "/cdr-researcher-census/researchers/nimra-rajput-a5035332/"
 layout: "researcher"
 hiddenInHomeList: true

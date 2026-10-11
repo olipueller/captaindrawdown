@@ -1,7 +1,7 @@
 ---
 title: "P. Priyadharshini"
 description: "P. Priyadharshini is a Mid-career Soil Carbon researcher at Tamil Nadu Agricultural University in IN. With 41 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.615959
+date: 2026-10-11T02:32:59.633390
 url: "/cdr-researcher-census/researchers/p-priyadharshini-a5001370/"
 layout: "researcher"
 hiddenInHomeList: true

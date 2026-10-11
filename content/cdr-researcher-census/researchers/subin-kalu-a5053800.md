@@ -1,7 +1,7 @@
 ---
 title: "Subin Kalu"
 description: "Subin Kalu is a Mid-career Soil Carbon researcher at North Carolina State University in US. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.427369
+date: 2026-10-11T02:32:59.437414
 url: "/cdr-researcher-census/researchers/subin-kalu-a5053800/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biochar reduced the mineralization of native and added soil organic carbon: evidence of negative priming and enhanced microbial carbon use efficiency** (2024)
-   107 citations · Biochar
+   112 citations · Biochar
 
 2. **Potential of Biochar to Reduce Greenhouse Gas Emissions and Increase Nitrogen Use Efficiency in Boreal Arable Soils in the Long-Term** (2022)
-   82 citations · Biochar
+   81 citations · Biochar
 
 3. **Effects of a tree row on greenhouse gas fluxes, growing conditions and soil microbial communities on an oat field in Southern Finland** (2023)
    7 citations · Soil Carbon
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    6 citations
 
 5. **Effects of biochar, ligneous soil amendments, and a microbial stimulant on soil biological activity, and carbon content and stability after two-years of their application in a boreal cropland** (2025)
-   1 citations · Biochar
+   2 citations · Biochar
 
 6. **Organic soil amendments as a tool to increase biological activity and C sequestration in clay soil** (2021)
    0 citations · Soil Carbon

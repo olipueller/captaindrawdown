@@ -1,7 +1,7 @@
 ---
 title: "Shengxian Chen"
 description: "Shengxian Chen is a Mid-career Soil Carbon researcher at Jiangsu Academy of Agricultural Sciences in CN. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.852651
+date: 2026-10-11T02:32:59.879713
 url: "/cdr-researcher-census/researchers/shengxian-chen-a5032151/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil net carbon balance depends on soil C: N: P stoichiometry** (2024)
-   47 citations · Soil Carbon
+   49 citations · Soil Carbon
 
 2. **Shelterbelt farmland-afforestation induced SOC accrual with higher temperature stability: Cross-sites 1 m soil profiles analysis in NE China** (2021)
    23 citations · Soil Carbon
 
 3. **Tree diversity and arbuscular mycorrhizal trees increase soil carbon sequestration and stability in 1-m soils as regulated by microbial CAZymes-coworking in high-latitude Northern Hemisphere forests** (2023)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 4. **Arbuscular mycorrhizal dominated forests facilitate organic carbon stabilization in soil aggregates** (2026)
    3 citations · Soil Carbon

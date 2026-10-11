@@ -1,7 +1,7 @@
 ---
 title: "Anran Zhang"
 description: "Anran Zhang is a Mid-career Biochar researcher at Wuhan University of Technology in CN. With 13 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.604832
+date: 2026-10-11T02:32:59.622344
 url: "/cdr-researcher-census/researchers/anran-zhang-a5109720/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A study on the role of high-energy holes and reactive oxygen species in photocatalytic degradation using oxygen-doped/biochar-modified 2D carbon nitride** (2024)
-   14 citations · Biochar
+   15 citations · Biochar
 
 2. **Biomass-assisted synthesis of long-rod TiO2 with oxygen vacancies active sites and biomass carbon for efficient photocatalytic reduction of Cr(VI) under visible light** (2024)
    13 citations

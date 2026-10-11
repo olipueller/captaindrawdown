@@ -1,7 +1,7 @@
 ---
 title: "D. Dugaya"
 description: "D. Dugaya is a Senior General CDR researcher at Indian Institute of Forest Management in IN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.217003
+date: 2026-10-11T02:33:00.246940
 url: "/cdr-researcher-census/researchers/d-dugaya-a5082091/"
 layout: "researcher"
 hiddenInHomeList: true

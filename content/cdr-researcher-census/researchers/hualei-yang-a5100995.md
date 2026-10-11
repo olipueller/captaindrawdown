@@ -1,7 +1,7 @@
 ---
 title: "Hualei Yang"
 description: "Hualei Yang is a Mid-career Soil Carbon researcher at Ningxia Water Conservancy in CN. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.330228
+date: 2026-10-11T02:32:59.335957
 url: "/cdr-researcher-census/researchers/hualei-yang-a5100995/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Restoration of native saltmarshes enhances carbon sequestration and mitigates warming effects following <i>Spartina alterniflora</i> removal** (2025)
-   10 citations · Ocean CDR
+   13 citations · Ocean CDR
 
 2. **Replacing Spartina alterniflora with northward-afforested mangroves has the potential to acquire extra blue carbon** (2024)
-   10 citations · Ocean CDR
+   11 citations · Ocean CDR
 
 3. **Unlocking the Impact of Temperature and Salinity on Greenhouse Gas Emissions From Estuarine Salt Marsh Soils** (2026)
    1 citations · Soil Carbon

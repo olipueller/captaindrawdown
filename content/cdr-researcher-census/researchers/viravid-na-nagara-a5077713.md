@@ -1,7 +1,7 @@
 ---
 title: "Viravid Na Nagara"
 description: "Viravid Na Nagara is a Mid-career Biochar researcher at Stevens Institute of Technology in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.011242
+date: 2026-10-11T02:33:00.042383
 url: "/cdr-researcher-census/researchers/viravid-na-nagara-a5077713/"
 layout: "researcher"
 hiddenInHomeList: true

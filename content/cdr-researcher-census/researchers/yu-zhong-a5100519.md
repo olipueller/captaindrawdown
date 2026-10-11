@@ -1,7 +1,7 @@
 ---
 title: "Yu Zhong"
 description: "Yu Zhong is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.955453
+date: 2026-10-11T02:32:59.986917
 url: "/cdr-researcher-census/researchers/yu-zhong-a5100519/"
 layout: "researcher"
 hiddenInHomeList: true

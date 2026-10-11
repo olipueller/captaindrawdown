@@ -1,7 +1,7 @@
 ---
 title: "Yingcui Yu"
 description: "Yingcui Yu is a Mid-career Biochar researcher at Hebei Medical University in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.219314
+date: 2026-10-11T02:33:00.249642
 url: "/cdr-researcher-census/researchers/yingcui-yu-a5104089/"
 layout: "researcher"
 hiddenInHomeList: true

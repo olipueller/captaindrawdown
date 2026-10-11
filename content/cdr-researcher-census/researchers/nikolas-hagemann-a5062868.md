@@ -1,7 +1,7 @@
 ---
 title: "Nikolas Hagemann"
 description: "Nikolas Hagemann is a Senior Biochar researcher at Ithaka Institute for Carbon Strategies in DE. With 87 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.060221
+date: 2026-10-11T02:32:59.064583
 url: "/cdr-researcher-census/researchers/nikolas-hagemann-a5062868/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,22 +45,22 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 22 |
 | Citations | 4,145 |
 | Publications | 87 |
-| CDR Focus | 29.9% |
+| CDR Focus | 32.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Biochar in agriculture – A systematic review of 26 global meta‐analyses** (2021)
-   480 citations · Biochar
+   491 citations · Biochar
 
 2. **Wood Ash as an Additive in Biomass Pyrolysis: Effects on Biochar Yield, Properties, and Agricultural Performance** (2022)
    62 citations · Biochar
 
-3. **Carbon farming: The foundation for carbon farming schemes – lessons learned from 160 European schemes** (2025)
-   14 citations · General CDR
+3. **Biochar Permanence—A Policy Commentary** (2025)
+   16 citations · Biochar
 
-4. **Biochar Permanence—A Policy Commentary** (2025)
-   12 citations · Biochar
+4. **Carbon farming: The foundation for carbon farming schemes – lessons learned from 160 European schemes** (2025)
+   16 citations · General CDR
 
 5. **Pyrogenic carbon and carbonating minerals for carbon capture and storage (PyMiCCS) part II: organic and inorganic carbon dioxide removal in an Oxisol** (2025)
    10 citations · Biochar

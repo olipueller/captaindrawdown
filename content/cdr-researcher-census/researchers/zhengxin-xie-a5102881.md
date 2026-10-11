@@ -1,7 +1,7 @@
 ---
 title: "Zhengxin Xie"
 description: "Zhengxin Xie is a Senior Biochar researcher at Anhui Agricultural University in CN. With 39 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.158322
+date: 2026-10-11T02:32:59.162768
 url: "/cdr-researcher-census/researchers/zhengxin-xie-a5102881/"
 layout: "researcher"
 hiddenInHomeList: true

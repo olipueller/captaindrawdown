@@ -1,7 +1,7 @@
 ---
 title: "Guoxiang Chen"
 description: "Guoxiang Chen is a Mid-career Soil Carbon researcher. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.986935
+date: 2026-10-11T02:33:00.017869
 url: "/cdr-researcher-census/researchers/guoxiang-chen-a5013210/"
 layout: "researcher"
 hiddenInHomeList: true

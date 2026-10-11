@@ -1,7 +1,7 @@
 ---
 title: "Neha Jeena"
 description: "Neha Jeena is a Mid-career Biochar researcher at Central University of Rajasthan in IN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.694762
+date: 2026-10-11T02:32:59.715422
 url: "/cdr-researcher-census/researchers/neha-jeena-a5051162/"
 layout: "researcher"
 hiddenInHomeList: true

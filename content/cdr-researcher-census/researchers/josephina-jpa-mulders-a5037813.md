@@ -1,7 +1,7 @@
 ---
 title: "Josephina J.P.A. Mulders"
 description: "Josephina J.P.A. Mulders is a Mid-career Enhanced Weathering researcher. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.166160
+date: 2026-10-11T02:33:00.196235
 url: "/cdr-researcher-census/researchers/josephina-jpa-mulders-a5037813/"
 layout: "researcher"
 hiddenInHomeList: true

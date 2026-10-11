@@ -1,7 +1,7 @@
 ---
 title: "Kiran Kumari"
 description: "Kiran Kumari is a Senior Soil Carbon researcher. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.256687
+date: 2026-10-11T02:33:00.286773
 url: "/cdr-researcher-census/researchers/kiran-kumari-a5081254/"
 layout: "researcher"
 hiddenInHomeList: true

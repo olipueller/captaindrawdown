@@ -1,7 +1,7 @@
 ---
 title: "Petra Fransson"
 description: "Petra Fransson is a Senior Soil Carbon researcher at Swedish University of Agricultural Sciences in SE. With 74 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.099821
+date: 2026-10-11T02:32:59.104373
 url: "/cdr-researcher-census/researchers/petra-fransson-a5043731/"
 layout: "researcher"
 hiddenInHomeList: true

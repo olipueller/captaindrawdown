@@ -1,7 +1,7 @@
 ---
 title: "Dajana Radujković"
 description: "Dajana Radujković is a Mid-career Soil Carbon researcher at University of Antwerp in BE. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.227918
+date: 2026-10-11T02:32:59.231149
 url: "/cdr-researcher-census/researchers/dajana-radujkovic-a5072674/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil properties as key predictors of global grassland production: Have we overlooked micronutrients?** (2021)
-   71 citations · Soil Carbon
+   70 citations · Soil Carbon
 
 2. **Intact polar lipids as biomarkers for nitrogen fixation and nitrification in European soils ** (2026)
    0 citations · Soil Carbon

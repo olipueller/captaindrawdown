@@ -1,0 +1,63 @@
+---
+title: "Wenkai Huang"
+description: "Wenkai Huang is a Mid-career Biochar researcher at China Three Gorges University in CN. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:32:59.702126
+url: "/cdr-researcher-census/researchers/wenkai-huang-a5004986/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Wenkai Huang",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/wenkai-huang-a5004986/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "China Three Gorges University"
+  },
+  "sameAs": [
+    "https://orcid.org/0009-0005-3885-5033",
+    "https://openalex.org/A5004986160"
+  ]
+}
+</script>
+
+## Profile
+
+**Wenkai Huang**  
+China Three Gorges University · 🇨🇳 CN
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**Biochar**
+
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 11 |
+| Citations | 319 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
+| Trajectory | Growing |
+
+## Top CDR Publications
+
+1. **Upcycling Yak Dung into B, N-co-Doped Porous Biochar for 3-Aminophenol Removal and Real-World Sheep and Pig Manure Wastewater Treatment** (2026)
+   0 citations · Biochar
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0009-0005-3885-5033)
+- [OpenAlex](https://openalex.org/A5004986160)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

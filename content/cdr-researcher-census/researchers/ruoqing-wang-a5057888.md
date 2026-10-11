@@ -1,7 +1,7 @@
 ---
 title: "Ruoqing Wang"
 description: "Ruoqing Wang is a Mid-career General CDR researcher at Nankai University in CN. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.521882
+date: 2026-10-11T02:32:59.535827
 url: "/cdr-researcher-census/researchers/ruoqing-wang-a5057888/"
 layout: "researcher"
 hiddenInHomeList: true

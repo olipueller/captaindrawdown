@@ -1,7 +1,7 @@
 ---
 title: "Ran Xiao"
 description: "Ran Xiao is a Senior Biochar researcher at Chongqing Normal University in CN. With 78 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.040254
+date: 2026-10-11T02:32:59.043345
 url: "/cdr-researcher-census/researchers/ran-xiao-a5084328/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,27 +42,30 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 37 |
 | Citations | 6,143 |
 | Publications | 78 |
-| CDR Focus | 6.4% |
+| CDR Focus | 7.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Co-hydrothermal carbonization of lignocellulosic biomass and swine manure: Optimal parameters for enhanced nutrient reclamation, carbon sequestration, and heavy metals passivation** (2024)
-   36 citations · Biochar
+   38 citations · Biochar
 
 2. **Impact of residual antibiotics on microbial decomposition of livestock manures in Eutric Regosol: Implications for sustainable nutrient recycling and soil carbon sequestration** (2023)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 3. **Characteristics of adsorption behavior of potentially toxic metals by biochar derived from fallen leaves (Platanus) and its mechanism** (2022)
    20 citations · Biochar
 
 4. **Hydrochar as an effective amendment for enhancing soil aggregation and carbon sequestration: evidence from comparative microcosm experiments** (2026)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
-5. **Co-composting and organic amendments as tools to accelerate soil maturation in purple soils: Insights into soil properties and agricultural potential** (2026)
+5. **Contrasting soil carbon stabilization pathways following spent mushroom substrate valorization into compost, hydrochar and biochar** (2026)
+   0 citations · Biochar
+
+6. **Co-composting and organic amendments as tools to accelerate soil maturation in purple soils: Insights into soil properties and agricultural potential** (2026)
    0 citations
 
-6. **Contrasting soil carbon stabilization pathways following spent mushroom substrate valorization into compost, hydrochar and biochar** (2026)
+7. **Contrasting soil carbon stabilization pathways following spent mushroom substrate valorization into compost, hydrochar and biochar** (2026)
    0 citations · Biochar
 
 ## External Profiles

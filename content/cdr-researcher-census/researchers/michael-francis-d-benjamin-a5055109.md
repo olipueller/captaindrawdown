@@ -1,7 +1,7 @@
 ---
 title: "Michael Francis D. Benjamin"
 description: "Michael Francis D. Benjamin is a Mid-career General CDR researcher at University of Santo Tomas in PH. With 49 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.383308
+date: 2026-10-11T02:32:59.391053
 url: "/cdr-researcher-census/researchers/michael-francis-d-benjamin-a5055109/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Top CDR Publications
 
-1. **A fuzzy optimization model for planning integrated terrestrial carbon management networks** (2021)
-   12 citations · General CDR
+1. **Optimization of enhanced weathering networks with alternative transportation modes** (2022)
+   12 citations · Enhanced Weathering
 
-2. **Optimization of enhanced weathering networks with alternative transportation modes** (2022)
-   11 citations · Enhanced Weathering
+2. **A fuzzy optimization model for planning integrated terrestrial carbon management networks** (2021)
+   12 citations · General CDR
 
 3. **A rough set-based model for predicting soil greenhouse gases response to biochar** (2024)
    2 citations · Biochar

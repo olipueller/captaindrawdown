@@ -1,7 +1,7 @@
 ---
 title: "Shu Yang"
 description: "Shu Yang is a Mid-career Enhanced Weathering researcher at Guizhou Normal University in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.996389
+date: 2026-10-11T02:33:00.027428
 url: "/cdr-researcher-census/researchers/shu-yang-a5100546/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Storage, form, and influencing factors of karst inorganic carbon in a carbonate area in China** (2024)
-   61 citations
+   63 citations
 
 2. **Response of carbonate rock weathering carbon sink to seismic peak ground acceleration in China** (2025)
-   1 citations · Enhanced Weathering
+   2 citations · Enhanced Weathering
 
 ## External Profiles
 

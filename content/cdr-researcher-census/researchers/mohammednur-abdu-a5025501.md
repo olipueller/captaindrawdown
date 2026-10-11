@@ -1,7 +1,7 @@
 ---
 title: "Mohammednur Abdu"
 description: "Mohammednur Abdu is a Mid-career Biochar researcher at Addis Ababa Science and Technology University in ET. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.302114
+date: 2026-10-11T02:33:00.333264
 url: "/cdr-researcher-census/researchers/mohammednur-abdu-a5025501/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The development of Giant reed biochar for adsorption of Basic Blue 41 and Eriochrome Black T. azo dyes from wastewater** (2024)
-   48 citations · Biochar
+   50 citations · Biochar
 
 ## External Profiles
 

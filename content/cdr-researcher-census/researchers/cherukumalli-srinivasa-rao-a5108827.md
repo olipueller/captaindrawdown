@@ -1,7 +1,7 @@
 ---
 title: "Cherukumalli Srinivasa Rao"
 description: "Cherukumalli Srinivasa Rao is a Senior Soil Carbon researcher at National Academy of Agricultural Research Management in IN. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.196949
+date: 2026-10-11T02:32:59.200927
 url: "/cdr-researcher-census/researchers/cherukumalli-srinivasa-rao-a5108827/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil Inorganic Carbon as a Potential Sink in Carbon Storage in Dryland Soils—A Review** (2022)
-   145 citations · Soil Carbon
+   146 citations · Soil Carbon
 
 2. **Nature‐based solutions in soil restoration for improving agricultural productivity** (2022)
-   65 citations · Soil Carbon
+   69 citations · Soil Carbon
 
 3. **Soil Organic Carbon Restoration in India** (2021)
-   21 citations · General CDR
+   20 citations · General CDR
 
 4. **Effect of Conservation Agriculture Practices on Carbon Pools in a Sandy Loam Soil of Indo-Gangetic Plains** (2023)
    8 citations · Soil Carbon

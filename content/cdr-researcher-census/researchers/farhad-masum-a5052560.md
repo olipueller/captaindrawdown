@@ -1,7 +1,7 @@
 ---
 title: "Farhad Masum"
 description: "Farhad Masum is a Senior General CDR researcher at Argonne National Laboratory in US. With 38 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.471180
+date: 2026-10-11T02:32:59.482471
 url: "/cdr-researcher-census/researchers/farhad-masum-a5052560/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Supply chain optimization of sustainable aviation fuel from carinata in the Southeastern United States** (2022)
-   43 citations · General CDR
+   44 citations · General CDR
 
 2. **Modeling Yield, Biogenic Emissions, and Carbon Sequestration in Southeastern Cropping Systems With Winter Carinata** (2022)
-   20 citations · General CDR
+   19 citations · General CDR
 
 3. **Life Cycle Emissions and Health Cost Impacts of Producing Ethanol and Electricity from Willow and Switchgrass in the Riparian Buffers of Mid-Atlantic United States** (2025)
    2 citations · BECCS

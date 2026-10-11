@@ -1,7 +1,7 @@
 ---
 title: "Mengyuan Jiang"
 description: "Mengyuan Jiang is an Early-career Biochar researcher at Wuhan Textile University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.584030
+date: 2026-10-11T02:32:59.600384
 url: "/cdr-researcher-census/researchers/mengyuan-jiang-a5068048/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar for the Removal of Emerging Pollutants from Aquatic Systems: A Review** (2023)
-   134 citations · Biochar
+   137 citations · Biochar
 
 ## External Profiles
 

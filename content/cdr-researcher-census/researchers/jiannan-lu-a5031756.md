@@ -1,7 +1,7 @@
 ---
 title: "Jiannan Lu"
 description: "Jiannan Lu is a Mid-career Soil Carbon researcher at Northwest Institute of Eco-Environment and Resources in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.848303
+date: 2026-10-11T02:32:59.874975
 url: "/cdr-researcher-census/researchers/jiannan-lu-a5031756/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ayooluwa Tomiwa Akintola"
 description: "Ayooluwa Tomiwa Akintola is a Mid-career Biochar researcher at Media and Process Technology (United States) in US. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.354338
+date: 2026-10-11T02:33:00.389368
 url: "/cdr-researcher-census/researchers/ayooluwa-tomiwa-akintola-a5027954/"
 layout: "researcher"
 hiddenInHomeList: true

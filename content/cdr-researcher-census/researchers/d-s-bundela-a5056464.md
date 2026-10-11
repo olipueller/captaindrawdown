@@ -1,7 +1,7 @@
 ---
 title: "D. S. Bundela"
 description: "D. S. Bundela is a Mid-career Soil Carbon researcher at Central Soil Salinity Research Institute in IN. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.449726
+date: 2026-10-11T02:32:59.460380
 url: "/cdr-researcher-census/researchers/d-s-bundela-a5056464/"
 layout: "researcher"
 hiddenInHomeList: true

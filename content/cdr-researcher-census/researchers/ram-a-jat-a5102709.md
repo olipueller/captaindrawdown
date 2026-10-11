@@ -1,7 +1,7 @@
 ---
 title: "Ram A. Jat"
 description: "Ram A. Jat is a Senior Soil Carbon researcher at Chaudhary Charan Singh Haryana Agricultural University in IN. With 39 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.597857
+date: 2026-10-11T02:32:59.614660
 url: "/cdr-researcher-census/researchers/ram-a-jat-a5102709/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    28 citations · Soil Carbon
 
 2. **Integrated watershed management for transforming dryland livelihoods: A climate-smart strategy for sustainable dryland agriculture in India** (2025)
-   22 citations · General CDR
+   25 citations · General CDR
 
 ## External Profiles
 

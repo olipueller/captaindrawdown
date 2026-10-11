@@ -1,7 +1,7 @@
 ---
 title: "Yingyi Fu"
 description: "Yingyi Fu is a Senior Soil Carbon researcher at Institute of Geography in KZ. With 48 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.102558
+date: 2026-10-11T02:32:59.107295
 url: "/cdr-researcher-census/researchers/yingyi-fu-a5067121/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Organic matter chemistry and bacterial community structure regulate decomposition processes in post-fire forest soils** (2021)
-   121 citations
+   123 citations
 
 2. **Arbuscular mycorrhizal fungi and goethite promote carbon sequestration via hyphal-aggregate mineral interactions** (2021)
-   119 citations · Soil Carbon
+   121 citations · Soil Carbon
 
 3. **Biochar accelerates soil organic carbon mineralization via rhizodeposit-activated Actinobacteria** (2022)
-   81 citations · Biochar
+   84 citations · Biochar
 
 4. **Biochar decreased rhizodeposits stabilization via opposite effects on bacteria and fungi: diminished fungi-promoted aggregation and enhanced bacterial mineralization** (2021)
    42 citations · Biochar
@@ -66,7 +66,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    25 citations · Biochar
 
 6. **Diversity loss of soil microbiome stimulates soil carbon emissions** (2025)
-   6 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 ## External Profiles
 

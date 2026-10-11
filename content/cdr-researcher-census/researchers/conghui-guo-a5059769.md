@@ -1,7 +1,7 @@
 ---
 title: "Conghui Guo"
 description: "Conghui Guo is a Mid-career Soil Carbon researcher at Forschungszentrum Jülich in DE. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.369308
+date: 2026-10-11T02:33:00.404890
 url: "/cdr-researcher-census/researchers/conghui-guo-a5059769/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Global Distribution and Influencing Factors of Plant‐Available Phosphorus in (Semi‐)Natural Soils** (2025)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 2. **Increasing tree diversity reduces spatial heterogeneity of soil organic carbon and promotes carbon storage in subtropical forests** (2024)
    9 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Francisco Matus"
 description: "Francisco Matus is a Senior Soil Carbon researcher at Universidad de La Frontera in CL. With 139 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.089000
+date: 2026-10-11T02:32:59.093832
 url: "/cdr-researcher-census/researchers/francisco-matus-a5068811/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,25 +51,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Fine silt and clay content is the main factor defining maximal C and N accumulations in soils: a meta-analysis** (2021)
-   190 citations · Soil Carbon
+   194 citations · Soil Carbon
 
 2. **Biological Crusts to Increase Soil Carbon Sequestration: New Challenges in a New Environment** (2021)
-   28 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 3. **Management and liming-induced changes in organo-Al/Fe complexes and amorphous mineral-associated organic carbon: Implications for carbon sequestration in volcanic soils** (2024)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 4. **Perspective of soil carbon sequestration in Chilean volcanic soils** (2024)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 5. **Upper limit of mineral-associated organic carbon in temperate and sub-tropical soils: How far is it?** (2024)
-   11 citations · Soil Carbon
+   13 citations · Soil Carbon
 
-6. **Microbial weathering of iron-bearing minerals in deep hydrothermally altered granitic rock of a semi-arid environment (Chilean Coastal Cordillera)** (2025)
+6. **Freezing–thawing cycles affect organic matter decomposition in periglacial maritime Antarctic soils** (2023)
+   4 citations · Soil Carbon
+
+7. **Microbial weathering of iron-bearing minerals in deep hydrothermally altered granitic rock of a semi-arid environment (Chilean Coastal Cordillera)** (2025)
    3 citations
-
-7. **Freezing–thawing cycles affect organic matter decomposition in periglacial maritime Antarctic soils** (2023)
-   3 citations · Soil Carbon
 
 8. **Mineral-associated carbon persistence arises from steady-state dynamics, not saturation** (2025)
    1 citations

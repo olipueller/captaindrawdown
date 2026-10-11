@@ -1,7 +1,7 @@
 ---
 title: "Asad Ali Khan"
 description: "Asad Ali Khan is a Senior Biochar researcher at The University of Agriculture, Peshawar in PK. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.743713
+date: 2026-10-11T02:32:59.766089
 url: "/cdr-researcher-census/researchers/asad-ali-khan-a5101706/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar in Combination with Nitrogen Fertilizer is a Technique: To Enhance Physiological and Morphological Traits of Rice (Oryza sativa L.) by Improving Soil Physio-biochemical Properties** (2021)
-   51 citations · Biochar
+   50 citations · Biochar
 
 ## External Profiles
 

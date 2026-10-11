@@ -1,7 +1,7 @@
 ---
 title: "Albert C. Brangarí"
 description: "Albert C. Brangarí is a Mid-career Soil Carbon researcher at University of Amsterdam in NL. With 50 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.410474
+date: 2026-10-11T02:32:59.419801
 url: "/cdr-researcher-census/researchers/albert-c-brangari-a5059186/"
 layout: "researcher"
 hiddenInHomeList: true

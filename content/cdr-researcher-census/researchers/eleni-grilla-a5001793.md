@@ -1,7 +1,7 @@
 ---
 title: "Eleni Grilla"
 description: "Eleni Grilla is a Mid-career Biochar researcher at Hellenic Open University in GR. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.728437
+date: 2026-10-11T02:32:59.749778
 url: "/cdr-researcher-census/researchers/eleni-grilla-a5001793/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Revitalizing Degraded Soils: The Role of Biochar in Enhancing Soil Health and Productivity** (2025)
-   10 citations · Biochar
+   11 citations · Biochar
 
 2. **The Role of Biochar and Earthworms in Pharmaceutical Remediation of Contaminated Soil: A Systematic Review** (2026)
-   1 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

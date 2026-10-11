@@ -1,7 +1,7 @@
 ---
 title: "Giuseppe Campesi"
 description: "Giuseppe Campesi is a Mid-career Soil Carbon researcher at Istituto per il Sistema Produzione Animale in Ambiente Mediterraneo in IT. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.082241
+date: 2026-10-11T02:33:00.112424
 url: "/cdr-researcher-census/researchers/giuseppe-campesi-a5058473/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Combined effects of microenvironment and land use on C fluxes in a Mediterranean agro-silvopastoral system** (2021)
-   16 citations · General CDR
+   18 citations · General CDR
 
 ## External Profiles
 

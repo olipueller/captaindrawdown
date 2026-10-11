@@ -1,7 +1,7 @@
 ---
 title: "Hung The Nguyen"
 description: "Hung The Nguyen is a Senior Biochar researcher at Kyushu University in JP. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.855573
+date: 2026-10-11T02:32:59.882538
 url: "/cdr-researcher-census/researchers/hung-the-nguyen-a5102904/"
 layout: "researcher"
 hiddenInHomeList: true

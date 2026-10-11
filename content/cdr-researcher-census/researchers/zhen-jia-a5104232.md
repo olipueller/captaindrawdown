@@ -1,7 +1,7 @@
 ---
 title: "Zhen Jia"
 description: "Zhen Jia is a Mid-career Biochar researcher at PLA Information Engineering University in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.088024
+date: 2026-10-11T02:33:00.118640
 url: "/cdr-researcher-census/researchers/zhen-jia-a5104232/"
 layout: "researcher"
 hiddenInHomeList: true

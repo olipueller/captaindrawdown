@@ -1,7 +1,7 @@
 ---
 title: "Johanna Beiron"
 description: "Johanna Beiron is a Mid-career General CDR researcher at Chalmers University of Technology in SE. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.664488
+date: 2026-10-11T02:32:59.683990
 url: "/cdr-researcher-census/researchers/johanna-beiron-a5012902/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A techno-economic assessment of CO2 capture in biomass and waste-fired combined heat and power plants – A Swedish case study** (2022)
-   72 citations · BECCS
+   76 citations · BECCS
 
 2. **Plant and system-level performance of combined heat and power plants equipped with different carbon capture technologies** (2023)
-   35 citations · BECCS
+   37 citations · BECCS
 
 3. **Integration of sorbent-based direct air capture into combined heat and power plants with post-combustion carbon capture** (2025)
-   8 citations
+   9 citations
 
 4. **A Case Study of the Potential for CCS in Swedish Combined Heat and Power Plants** (2021)
    6 citations · BECCS

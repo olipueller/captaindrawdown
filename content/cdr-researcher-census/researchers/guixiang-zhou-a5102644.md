@@ -1,7 +1,7 @@
 ---
 title: "Guixiang Zhou"
 description: "Guixiang Zhou is a Senior Soil Carbon researcher at Gansu Academy of Agricultural Sciences in CN. With 82 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.092882
+date: 2026-10-11T02:32:59.097473
 url: "/cdr-researcher-census/researchers/guixiang-zhou-a5102644/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    65 citations · Soil Carbon
 
 2. **Calcium carbonate regulates soil organic carbon accumulation by mediating microbial communities in northern China** (2023)
-   50 citations · Soil Carbon
+   53 citations · Soil Carbon
 
 3. **Nitrogen input level modulates straw-derived organic carbon physical fractions accumulation by stimulating specific fungal groups during decomposition** (2022)
    43 citations · Soil Carbon
@@ -60,16 +60,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    40 citations · Soil Carbon
 
 5. **Impact of Virus‐Mediated Modifications in Bacterial Communities on the Accumulation of Soil Organic Carbon** (2025)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 6. **Organic amendments enhance rhizosphere carbon stabilization in macroaggregates of saline-sodic soils by regulating keystone microbial clusters** (2025)
-   9 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 7. **Intercropping enhances soil organic carbon accumulation by modulating microbial interactions in saline-alkali soils** (2026)
-   3 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 8. **Dual mechanisms of mineral-microbial interactions in suppressing organic carbon sequestration in calcareous soils** (2026)
-   3 citations
+   5 citations
 
 9. **Root traits determine the effects of organic amendments on aggregate organic carbon by regulating microbial multitrophic networks** (2024)
    3 citations · Soil Carbon

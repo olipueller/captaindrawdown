@@ -1,7 +1,7 @@
 ---
 title: "Andreas Aditya Hermawan"
 description: "Andreas Aditya Hermawan is a Mid-career Biochar researcher at Monash University Malaysia in MY. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.876046
+date: 2026-10-11T02:32:59.903298
 url: "/cdr-researcher-census/researchers/andreas-aditya-hermawan-a5010263/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Optimising spent mushroom compost biochar for heavy metal removal: Mechanisms and kinetics in mine water treatment** (2024)
-   19 citations · Biochar
+   21 citations · Biochar
 
 ## External Profiles
 

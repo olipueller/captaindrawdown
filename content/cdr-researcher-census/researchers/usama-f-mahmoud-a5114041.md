@@ -1,7 +1,7 @@
 ---
 title: "Usama F. Mahmoud"
 description: "Usama F. Mahmoud is a Senior Biochar researcher at Al-Azhar University in EG. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.768341
+date: 2026-10-11T02:32:59.791327
 url: "/cdr-researcher-census/researchers/usama-f-mahmoud-a5114041/"
 layout: "researcher"
 hiddenInHomeList: true

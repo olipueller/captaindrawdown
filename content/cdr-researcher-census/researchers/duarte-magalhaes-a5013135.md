@@ -1,7 +1,7 @@
 ---
 title: "Duarte Magalhães"
 description: "Duarte Magalhães is a Mid-career Biochar researcher at Washington University in St. Louis in US. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.507661
+date: 2026-10-11T02:32:59.520604
 url: "/cdr-researcher-census/researchers/duarte-magalhaes-a5013135/"
 layout: "researcher"
 hiddenInHomeList: true

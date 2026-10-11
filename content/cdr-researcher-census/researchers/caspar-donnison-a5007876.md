@@ -1,7 +1,7 @@
 ---
 title: "Caspar Donnison"
 description: "Caspar Donnison is a Mid-career General CDR researcher at University of Southampton in GB. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.646956
+date: 2026-10-11T02:32:59.665809
 url: "/cdr-researcher-census/researchers/caspar-donnison-a5007876/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Top CDR Publications
 
-1. **A net-zero storyline for success? News media analysis of the social legitimacy of bioenergy with carbon capture and storage in the United Kingdom** (2023)
-   34 citations · BECCS
+1. **Land-use change from food to energy: meta-analysis unravels effects of bioenergy on biodiversity and cultural ecosystem services** (2021)
+   38 citations · BECCS
 
-2. **Land-use change from food to energy: meta-analysis unravels effects of bioenergy on biodiversity and cultural ecosystem services** (2021)
-   34 citations · BECCS
+2. **A net-zero storyline for success? News media analysis of the social legitimacy of bioenergy with carbon capture and storage in the United Kingdom** (2023)
+   36 citations · BECCS
 
 3. **Land-use change from food to energy: meta-analysis unravels effects of bioenergy on biodiversity and amenity** (2021)
    3 citations · BECCS

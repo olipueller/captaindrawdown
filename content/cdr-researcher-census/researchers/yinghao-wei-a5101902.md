@@ -1,7 +1,7 @@
 ---
 title: "Yinghao Wei"
 description: "Yinghao Wei is a Senior Soil Carbon researcher at Hebei University of Engineering in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.324537
+date: 2026-10-11T02:33:00.357192
 url: "/cdr-researcher-census/researchers/yinghao-wei-a5101902/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Wetland restoration enhances soil carbon sequestration in lake ecosystems: Integrating multi-source remote sensing and optimized ensemble machine learning to map soil organic carbon density** (2025)
-   8 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Anna C. Savage"
 description: "Anna C. Savage is a Mid-career Ocean CDR researcher at Annexon Biosciences (United States) in US. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.377970
+date: 2026-10-11T02:32:59.385296
 url: "/cdr-researcher-census/researchers/anna-c-savage-a5048716/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,10 +50,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 ## Top CDR Publications
 
-1. **Quantifying Regional Efficiency of Marine Carbon Dioxide Removal (mCDR) via Alkalinity Enhancement using the ECCO-Darwin Ocean Biogeochemistry State Estimate and an Idealized Vertical 1-D Model** (2024)
+1. **Quantifying Marine Carbon Dioxide Removal via Alkalinity Enhancement Across Circulation Regimes Using ECCO‐Darwin and 1D Models** (2025)
    4 citations · General CDR
 
-2. **Quantifying Marine Carbon Dioxide Removal via Alkalinity Enhancement Across Circulation Regimes Using ECCO‐Darwin and 1D Models** (2025)
+2. **Quantifying Regional Efficiency of Marine Carbon Dioxide Removal (mCDR) via Alkalinity Enhancement using the ECCO-Darwin Ocean Biogeochemistry State Estimate and an Idealized Vertical 1-D Model** (2024)
    3 citations · General CDR
 
 3. **In-situ deep ocean monitoring reveals rapid kelp degradation limits marine biomass-based carbon sequestration potential and alters benthic ecosystems** (2026)

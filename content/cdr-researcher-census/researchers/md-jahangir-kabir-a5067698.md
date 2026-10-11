@@ -1,7 +1,7 @@
 ---
 title: "Md Jahangir Kabir"
 description: "Md Jahangir Kabir is a Senior Soil Carbon researcher at University of Southern Queensland in AU. With 28 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.085163
+date: 2026-10-11T02:33:00.115549
 url: "/cdr-researcher-census/researchers/md-jahangir-kabir-a5067698/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Extreme weather dominates farm management effects on long-term trends in soil carbon** (2024)
-   14 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 2. **Structural inequities shape biodiversity and climate mitigation outcomes in livestock systems** (2026)
    0 citations · General CDR

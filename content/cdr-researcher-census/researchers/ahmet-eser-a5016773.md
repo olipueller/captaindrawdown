@@ -1,7 +1,7 @@
 ---
 title: "Ahmet Eser"
-description: "Ahmet Eser is a Mid-career Biochar researcher at Manisa Celal Bayar University in TR. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.141066
+description: "Ahmet Eser is a Mid-career Biochar researcher at Manisa Celal Bayar University in TR. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:33:00.159148
 url: "/cdr-researcher-census/researchers/ahmet-eser-a5016773/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 5 |
-| Citations | 151 |
-| Publications | 12 |
-| CDR Focus | 8.3% |
+| Citations | 154 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

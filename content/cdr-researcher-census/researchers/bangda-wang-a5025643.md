@@ -1,7 +1,7 @@
 ---
 title: "Bangda Wang"
 description: "Bangda Wang is a Mid-career Biochar researcher at Sichuan University in CN. With 36 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.248532
+date: 2026-10-11T02:32:59.252410
 url: "/cdr-researcher-census/researchers/bangda-wang-a5025643/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **New insights into the green cement composites with low carbon footprint: The role of biochar as cement additive/alternative** (2023)
-   99 citations · Biochar
+   102 citations · Biochar
 
 2. **Hierarchical porous biochar from plant-based biomass through selectively removing lignin carbon from biochar for enhanced removal of toluene** (2021)
-   84 citations · Biochar
+   85 citations · Biochar
 
 3. **Current Research on NO2 Removal from Flue Gas Using Adsorption Methods** (2026)
    2 citations

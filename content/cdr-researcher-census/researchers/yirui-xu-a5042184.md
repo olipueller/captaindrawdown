@@ -1,7 +1,7 @@
 ---
 title: "Yirui Xu"
 description: "Yirui Xu is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.306168
+date: 2026-10-11T02:33:00.336889
 url: "/cdr-researcher-census/researchers/yirui-xu-a5042184/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Mechanisms, Processes, and Climate Change Responses of Carbon Cycling in Chinese Subtropical Forest Ecosystems** (2026)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

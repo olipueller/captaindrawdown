@@ -1,7 +1,7 @@
 ---
 title: "Kangning Xiong"
 description: "Kangning Xiong is an Early-career Soil Carbon researcher at Guizhou Normal University in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.278743
+date: 2026-10-11T02:33:00.308829
 url: "/cdr-researcher-census/researchers/kangning-xiong-a5108030/"
 layout: "researcher"
 hiddenInHomeList: true

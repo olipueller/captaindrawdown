@@ -1,7 +1,7 @@
 ---
 title: "Giuliano Marchi"
 description: "Giuliano Marchi is a Senior Enhanced Weathering researcher at Empresa Brasileira de Pesquisa Agropecuária in BR. With 77 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.403450
+date: 2026-10-11T02:32:59.412449
 url: "/cdr-researcher-census/researchers/giuliano-marchi-a5041552/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,24 +45,30 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 14 |
 | Citations | 602 |
 | Publications | 77 |
-| CDR Focus | 5.2% |
+| CDR Focus | 6.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Impact of Silicate Agrominerals on Charge Generation in Cerrado Soil** (2026)
-   2 citations · Enhanced Weathering
+1. **Co-Pyrolysis of Sewage Sludge and Zeolitic Basalt: Physicochemical Characterization, Stability and Carbon Sequestration Potential** (2025)
+   5 citations · Biochar
 
-2. **Co-Pyrolysis of Sewage Sludge and Zeolitic Basalt: Physicochemical Characterization, Stability and Carbon Sequestration Potential** (2025)
-   2 citations · Biochar
-
-3. **Chemical and Mineralogical Classification of Silicate Agrominerals** (2026)
+2. **Chemical and Mineralogical Classification of Silicate Agrominerals** (2026)
    1 citations · Enhanced Weathering
 
-4. **AGROGEOLOGICAL POTENTIAL OF SCHISTS FROM THE RIO DAS VELHAS SUPERGROUP: A STUDY OF THE WASTE ROCK FROM THE ITABIRA IRON MINE, MG** (2026)
+3. **Impact of Silicate Agrominerals on Charge Generation in Cerrado Soil** (2026)
+   1 citations · Enhanced Weathering
+
+4. **Agrogeological potential of schists from the Rio das Velhas Supergroup: A study of mining co-products from the Itabira Iron Mine, Minas Gerais, Brazil** (2026)
+   0 citations · Enhanced Weathering
+
+5. **A meta-analysis of the agronomic benefits of silicate rock powders in Brazil in the context of a novel classification** (2026)
    0 citations
 
-5. **An assessment of the agronomic benefits of silicate rock powders in Brazil in the context of a novel classification** (2025)
+6. **AGROGEOLOGICAL POTENTIAL OF SCHISTS FROM THE RIO DAS VELHAS SUPERGROUP: A STUDY OF THE WASTE ROCK FROM THE ITABIRA IRON MINE, MG** (2026)
+   0 citations
+
+7. **An assessment of the agronomic benefits of silicate rock powders in Brazil in the context of a novel classification** (2025)
    0 citations · Enhanced Weathering
 
 ## External Profiles

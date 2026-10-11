@@ -1,7 +1,7 @@
 ---
 title: "Mubarak A. Amoloye"
 description: "Mubarak A. Amoloye is a Mid-career Biochar researcher at University of Ilorin in NG. With 25 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.577473
+date: 2026-10-11T02:32:59.593067
 url: "/cdr-researcher-census/researchers/mubarak-a-amoloye-a5083523/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Production and characterization of sunflower stalk biochar and ash: a study on batch versus semi-batch gasifier systems** (2025)
-   5 citations · BECCS
+   6 citations · BECCS
 
 2. **Comparative Study of Biochars from the Retort Co-Carbonization of Corn Cob and Polyethylene Wastes** (2023)
    3 citations · Biochar

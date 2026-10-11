@@ -1,7 +1,7 @@
 ---
 title: "Marilya Gabryella Sousa"
 description: "Marilya Gabryella Sousa is a Mid-career Soil Carbon researcher at Universidade Federal Rural de Pernambuco in BR. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.355657
+date: 2026-10-11T02:33:00.390727
 url: "/cdr-researcher-census/researchers/marilya-gabryella-sousa-a5029962/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Changes in organic carbon and microbiology community structure due to long-term irrigated agriculture on Luvisols in the Brazilian semi-arid region** (2022)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 2. **Weathering of anorthosite saprolite: Influence on soil formation in the Borborema province (northeastern Brazil)** (2025)
    5 citations
 
 3. **Climatic control on the genesis of iron oxides in chromic Luvisols developed from amphibolite under semiarid conditions** (2026)
-   0 citations
+   1 citations
 
 ## External Profiles
 

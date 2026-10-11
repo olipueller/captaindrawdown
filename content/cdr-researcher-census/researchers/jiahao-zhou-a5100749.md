@@ -1,7 +1,7 @@
 ---
 title: "Jiahao Zhou"
 description: "Jiahao Zhou is a Mid-career Biochar researcher at Institute of Bast Fiber Crops in CN. With 25 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.249549
+date: 2026-10-11T02:32:59.253388
 url: "/cdr-researcher-census/researchers/jiahao-zhou-a5100749/"
 layout: "researcher"
 hiddenInHomeList: true

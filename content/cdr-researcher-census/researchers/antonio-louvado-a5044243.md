@@ -1,7 +1,7 @@
 ---
 title: "António Louvado"
 description: "António Louvado is a Mid-career Ocean CDR researcher at University of Aveiro in PT. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.494394
+date: 2026-10-11T02:32:59.506506
 url: "/cdr-researcher-census/researchers/antonio-louvado-a5044243/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Ocean liming effect on a North Atlantic microbial community: changes in composition and rates** (2025)
-   5 citations · General CDR
+   8 citations · General CDR
 
 2. **Influence of Inorganic Nutrients on a North Atlantic Microbial Community’s Response to Ocean Alkalinity Enhancement** (2025)
-   1 citations · Ocean CDR
+   3 citations · Ocean CDR
 
 3. **Influence of Inorganic Nutrients on a North Atlantic Community Response to Ocean Alkalinity Enhancement** (2025)
    0 citations · Ocean CDR

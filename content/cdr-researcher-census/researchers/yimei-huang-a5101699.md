@@ -1,7 +1,7 @@
 ---
 title: "Yimei Huang"
 description: "Yimei Huang is a Senior Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 85 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.092634
+date: 2026-10-11T02:32:59.097229
 url: "/cdr-researcher-census/researchers/yimei-huang-a5101699/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Initial soil formation by biocrusts: Nitrogen demand and clay protection control microbial necromass accrual and recycling** (2022)
-   209 citations · Soil Carbon
+   211 citations · Soil Carbon
 
 2. **Metabolic pathways of CO2 fixing microorganisms determined C-fixation rates in grassland soils along the precipitation gradient** (2022)
-   150 citations · Soil Carbon
+   152 citations · Soil Carbon
 
 3. **Belowground allocation and fate of tree assimilates in plant–soil–microorganisms system: 13C labeling and tracing under field conditions** (2021)
-   27 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 4. **Composition and contribution of Stipa bungeana root exudates to soil organic carbon fractions in the Loess Plateau** (2023)
    15 citations · Soil Carbon
@@ -71,7 +71,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 7. **[Soil microbial carbon pump conceptual framework 2.0].** (2024)
    6 citations · General CDR
 
-8. **Orchard soils exhibit the highest microbial CO2 fixation potential and contribution to soil organic carbon across land-use types in Qaidam Basin** (2025)
+8. **13C-traced microbial CO2 fixation in grassland topsoil: More bacterial necromass carbon enrichment than shrub and forest soils** (2026)
+   1 citations · Soil Carbon
+
+9. **Orchard soils exhibit the highest microbial CO2 fixation potential and contribution to soil organic carbon across land-use types in Qaidam Basin** (2025)
    1 citations · Soil Carbon
 
 ## External Profiles

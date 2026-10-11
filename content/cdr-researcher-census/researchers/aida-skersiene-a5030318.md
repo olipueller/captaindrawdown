@@ -1,7 +1,7 @@
 ---
 title: "Aida Skersienė"
 description: "Aida Skersienė is a Mid-career Soil Carbon researcher at Lithuanian Research Centre for Agriculture and Forestry in LT. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.101950
+date: 2026-10-11T02:33:00.132292
 url: "/cdr-researcher-census/researchers/aida-skersiene-a5030318/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ahsan Ali"
 description: "Ahsan Ali is a Senior Enhanced Weathering researcher at University of New Mexico in US. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.069233
+date: 2026-10-11T02:33:00.099309
 url: "/cdr-researcher-census/researchers/ahsan-ali-a5075110/"
 layout: "researcher"
 hiddenInHomeList: true

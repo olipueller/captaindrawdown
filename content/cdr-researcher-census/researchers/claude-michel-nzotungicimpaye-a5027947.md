@@ -1,7 +1,7 @@
 ---
 title: "Claude-Michel Nzotungicimpaye"
 description: "Claude-Michel Nzotungicimpaye is a Mid-career General CDR researcher at Environment and Climate Change Canada in CA. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.876359
+date: 2026-10-11T02:32:59.903795
 url: "/cdr-researcher-census/researchers/claude-michel-nzotungicimpaye-a5027947/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Top CDR Publications
 
-1. **Temporary Nature-based Carbon Removal Can Lower Peak Warming in a Well-below 2°C Scenario** (2021)
+1. **Quantifying land carbon cycle feedbacks under negative CO <sub>2</sub> emissions** (2023)
    15 citations · General CDR
 
-2. **Quantifying land carbon cycle feedbacks under negative CO <sub>2</sub> emissions** (2023)
-   10 citations · General CDR
+2. **Temporary Nature-based Carbon Removal Can Lower Peak Warming in a Well-below 2°C Scenario** (2021)
+   15 citations · General CDR
 
 3. **Quantifying land carbon cycle feedbacks under negative CO <sub>2</sub> emissions** (2022)
    5 citations

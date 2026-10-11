@@ -1,7 +1,7 @@
 ---
 title: "Yuchuan Fan"
 description: "Yuchuan Fan is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 60 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.388894
+date: 2026-10-11T02:32:59.396769
 url: "/cdr-researcher-census/researchers/yuchuan-fan-a5075374/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,19 +57,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    14 citations · Biochar
 
 3. **Decadal manure substitution reshapes microbial communities to drive plant and microbial carbon accumulation in soil carbon fractions** (2025)
-   10 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 4. **From Microbial Functions to Measurable Indicators: A Framework for Predicting Grassland Productivity and Stability** (2025)
-   9 citations · General CDR
+   12 citations · General CDR
 
 5. **Effects of Adding Different Corn Residue Components on Soil and Aggregate Organic Carbon** (2025)
    8 citations · Soil Carbon
 
-6. **Divergent but complementary: vegetation-driven POC in marshes vs. mineral-shielded MAOC in tidal flats secure estuarine blue carbon** (2025)
-   3 citations · Soil Carbon
+6. **From nitrogen addition to productivity: above–belowground mechanisms and nonlinear thresholds in Grasslands** (2026)
+   4 citations · Soil Carbon
 
-7. **From nitrogen addition to productivity: above–belowground mechanisms and nonlinear thresholds in Grasslands** (2026)
-   2 citations · Soil Carbon
+7. **Divergent but complementary: vegetation-driven POC in marshes vs. mineral-shielded MAOC in tidal flats secure estuarine blue carbon** (2025)
+   4 citations · Soil Carbon
 
 8. **Recalcitrant organic carbon in deep soils plays a greater role in soil carbon sequestration under tidal flat than vegetated salt marsh** (2025)
    2 citations · Soil Carbon
@@ -77,8 +77,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 9. **Editorial: Understanding the relationship between extreme climate events and forest soil hydrology: implications for ecosystem functions** (2025)
    2 citations · Soil Carbon
 
-10. **Recycling Agricultural Liquid Waste and Industrial Waste for Improving Nitrate and Veterinary Antibiotics by Woodchip Bioreactor** (2022)
-   0 citations · Biochar
+10. **Bamboo expansion into broadleaf forests restructures topsoil carbon, nitrogen, phosphorus and potassium pools: A trade-off between carbon sink enhancement and nutrient limitation** (2026)
+   1 citations
 
 ## External Profiles
 

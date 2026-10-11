@@ -1,7 +1,7 @@
 ---
 title: "Chunjuan Lyu"
 description: "Chunjuan Lyu is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.124048
+date: 2026-10-11T02:33:00.154327
 url: "/cdr-researcher-census/researchers/chunjuan-lyu-a5075506/"
 layout: "researcher"
 hiddenInHomeList: true

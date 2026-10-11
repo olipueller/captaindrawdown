@@ -1,7 +1,7 @@
 ---
 title: "Tyler W. Hodges"
 description: "Tyler W. Hodges is a Senior DAC researcher at Laboratoire de Réactivité de Surface in FR. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.387123
+date: 2026-10-11T02:32:59.394927
 url: "/cdr-researcher-census/researchers/tyler-w-hodges-a5068140/"
 layout: "researcher"
 hiddenInHomeList: true

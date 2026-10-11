@@ -1,7 +1,7 @@
 ---
 title: "Ronny Surey"
 description: "Ronny Surey is a Mid-career Soil Carbon researcher at Martin Luther University Halle-Wittenberg in DE. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.602307
+date: 2026-10-11T02:32:59.619658
 url: "/cdr-researcher-census/researchers/ronny-surey-a5055107/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microscale carbon distribution around pores and particulate organic matter varies with soil moisture regime** (2022)
-   196 citations · Soil Carbon
+   195 citations · Soil Carbon
 
 ## External Profiles
 

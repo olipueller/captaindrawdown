@@ -1,7 +1,7 @@
 ---
 title: "Yanlei Zhu"
 description: "Yanlei Zhu is a Senior General CDR researcher at Tianjin University of Technology in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.792843
+date: 2026-10-11T02:32:59.816585
 url: "/cdr-researcher-census/researchers/yanlei-zhu-a5102437/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Negative emission technology is key to decarbonizing China's cement industry** (2022)
-   78 citations · General CDR
+   80 citations · General CDR
 
 ## External Profiles
 

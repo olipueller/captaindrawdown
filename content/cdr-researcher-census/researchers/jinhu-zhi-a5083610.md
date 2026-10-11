@@ -1,7 +1,7 @@
 ---
 title: "Jinhu Zhi"
 description: "Jinhu Zhi is a Mid-career Soil Carbon researcher at Xinjiang Production and Construction Corps in CN. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.891502
+date: 2026-10-11T02:32:59.919411
 url: "/cdr-researcher-census/researchers/jinhu-zhi-a5083610/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of Irrigation and Nitrogen Fertilizer on Soil Carbon Leaching in Cotton Fields in Arid Areas** (2023)
-   6 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 2. **Effects of Irrigation and Nitrogen Fertilizer on Soil Carbon Leaching in Cotton Field in Arid Area** (2023)
    5 citations · Soil Carbon
 
 3. **Global assessment of the fate of nitrogen deposition in forest ecosystems: Insights from <sup>15</sup> N tracer studies** (2025)
-   1 citations
+   2 citations
+
+4. **Organic Amendment Quality Regulates Greenhouse Gas Trade-Offs and Short-Term Carbon Retention During Reductive Soil Disinfestation** (2026)
+   0 citations
 
 ## External Profiles
 

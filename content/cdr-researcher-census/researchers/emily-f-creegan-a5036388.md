@@ -1,7 +1,7 @@
 ---
 title: "Emily F. Creegan"
 description: "Emily F. Creegan is a Senior Biochar researcher at New Mexico State University in US. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.001053
+date: 2026-10-11T02:33:00.031886
 url: "/cdr-researcher-census/researchers/emily-f-creegan-a5036388/"
 layout: "researcher"
 hiddenInHomeList: true

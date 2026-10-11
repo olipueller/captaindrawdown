@@ -1,7 +1,7 @@
 ---
 title: "Jerzy Weber"
 description: "Jerzy Weber is a Senior Soil Carbon researcher at Wroclaw University of Environmental and Life Sciences in PL. With 74 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.195584
+date: 2026-10-11T02:32:59.199541
 url: "/cdr-researcher-census/researchers/jerzy-weber-a5082684/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Properties of humin isolated from Polish arable soils: The most recalcitrant fraction of soil organic matter that prevent soil degradation** (2024)
-   9 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 2. **Changes in Soil Humin Macromolecular Structure Resulting from Long-Term Catch Cropping** (2024)
    6 citations · Soil Carbon
@@ -59,22 +59,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Molecular characteristics of humin fraction isolated from soils of temperate climate: a study on Chernozems and Phaeozems in Poland** (2023)
    1 citations
 
-4. **Soil microbiome as an essential player in climate change and plant health control: a review** (2026)
-   0 citations
-
-5. **Influence of management practices on soil organic matter composition evaluated by complementary analytical techniques: XANES and mass spectrometry** (2025)
+4. **Insights from Lithuanian long-term soil management experiments: soil organic matter stability and carbon sequestration** (2026)
    0 citations · Soil Carbon
 
-6. **Soil management effects on soil organic matter properties and carbon sequestration (SOMPACS)** (2023)
-   0 citations · General CDR
+5. **Soil microbiome as an essential player in climate change and plant health control: a review** (2026)
+   0 citations
+
+6. **Influence of management practices on soil organic matter composition evaluated by complementary analytical techniques: XANES and mass spectrometry** (2025)
+   0 citations · Soil Carbon
 
 7. **Soil management effects on soil organic matter properties and carbon sequestration (SOMPACS)** (2023)
+   0 citations · General CDR
+
+8. **Soil management effects on soil organic matter properties and carbon sequestration (SOMPACS)** (2023)
    0 citations
 
-8. **Luminescence properties of the humin fraction isolated from Chernozems and Phaeozems from various regions of Poland&amp;#160;** (2022)
+9. **Luminescence properties of the humin fraction isolated from Chernozems and Phaeozems from various regions of Poland&amp;#160;** (2022)
    0 citations · Soil Carbon
 
-9. **Selected properties of the humin fraction isolated from Chernozems and Phaeozems from various regions of Poland&amp;#160;** (2021)
+10. **Selected properties of the humin fraction isolated from Chernozems and Phaeozems from various regions of Poland&amp;#160;** (2021)
    0 citations · Soil Carbon
 
 ## External Profiles

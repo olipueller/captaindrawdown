@@ -1,7 +1,7 @@
 ---
 title: "Zhijian Gong"
 description: "Zhijian Gong is a Senior Soil Carbon researcher at Guizhou Normal University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.891765
+date: 2026-10-11T02:32:59.919767
 url: "/cdr-researcher-census/researchers/zhijian-gong-a5101033/"
 layout: "researcher"
 hiddenInHomeList: true

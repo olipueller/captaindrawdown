@@ -1,7 +1,7 @@
 ---
 title: "Christos Damianidis"
 description: "Christos Damianidis is a Mid-career Soil Carbon researcher at Aristotle University of Thessaloniki in GR. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.086247
+date: 2026-10-11T02:33:00.116628
 url: "/cdr-researcher-census/researchers/christos-damianidis-a5086880/"
 layout: "researcher"
 hiddenInHomeList: true

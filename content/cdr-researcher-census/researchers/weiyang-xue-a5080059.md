@@ -1,7 +1,7 @@
 ---
 title: "Weiyang Xue"
 description: "Weiyang Xue is a Mid-career Biochar researcher at Liaoning University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.165484
+date: 2026-10-11T02:33:00.195514
 url: "/cdr-researcher-census/researchers/weiyang-xue-a5080059/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Selective production of singlet oxygen by hercynite-doped biochar activated persulfate: Selective organic contaminants removal and catalytic mechanism** (2025)
-   15 citations · Biochar
+   17 citations · Biochar
 
 ## External Profiles
 

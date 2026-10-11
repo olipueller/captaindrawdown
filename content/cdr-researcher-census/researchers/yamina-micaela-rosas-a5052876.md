@@ -1,7 +1,7 @@
 ---
 title: "Yamina Micaela Rosas"
 description: "Yamina Micaela Rosas is a Mid-career Soil Carbon researcher at Københavns Universitet in DK. With 61 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.300266
+date: 2026-10-11T02:32:59.305350
 url: "/cdr-researcher-census/researchers/yamina-micaela-rosas-a5052876/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil Organic Carbon Sequestration over 50 Years in Resampled Afforestation Chronosequences on Former Cropland** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 2. **Development of forest ecosystems and biodiversity through natural colonization and planting in former agricultural land – the first 50 years after abandonment** (2025)
    0 citations · General CDR

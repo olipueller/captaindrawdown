@@ -1,7 +1,7 @@
 ---
 title: "Tahani A. Y. Asseri"
 description: "Tahani A. Y. Asseri is a Mid-career Biochar researcher at King Khalid University in SA. With 33 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.864276
+date: 2026-10-11T02:32:59.890825
 url: "/cdr-researcher-census/researchers/tahani-a-y-asseri-a5084551/"
 layout: "researcher"
 hiddenInHomeList: true

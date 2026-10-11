@@ -1,7 +1,7 @@
 ---
 title: "Yan-Shu Xiong"
 description: "Yan-Shu Xiong is a Mid-career Biochar researcher at Guangxi University in CN. With 20 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.464164
+date: 2026-10-11T02:32:59.475390
 url: "/cdr-researcher-census/researchers/yan-shu-xiong-a5106403/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Multifunctional cellulose-rich bagasse magnetic biochar capable of efficient elimination and separation of purine compounds in beer: DFT calculation and practical system applications** (2025)
-   6 citations · Biochar
+   7 citations · Biochar
 
 ## External Profiles
 

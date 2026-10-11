@@ -1,7 +1,7 @@
 ---
 title: "Qipei Shangguan"
 description: "Qipei Shangguan is a Mid-career Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.319136
+date: 2026-10-11T02:33:00.351005
 url: "/cdr-researcher-census/researchers/qipei-shangguan-a5089599/"
 layout: "researcher"
 hiddenInHomeList: true

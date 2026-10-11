@@ -1,7 +1,7 @@
 ---
 title: "Erika Callagon La Plante"
 description: "Erika Callagon La Plante is a Mid-career Ocean CDR researcher at University of California, Davis in US. With 67 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.206377
+date: 2026-10-11T02:32:59.210350
 url: "/cdr-researcher-census/researchers/erika-callagon-la-plante-a5071999/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Electrolytic Seawater Mineralization and the Mass Balances That Demonstrate Carbon Dioxide Removal** (2023)
-   72 citations · Ocean CDR
+   79 citations · Ocean CDR
 
 2. **Controls on CO<sub>2</sub> Mineralization Using Natural and Industrial Alkaline Solids under Ambient Conditions** (2021)
-   67 citations · Enhanced Weathering
+   68 citations · Enhanced Weathering
 
 3. **Seawater carbonate chemistry based carbon dioxide removal: towards commonly agreed principles for carbon monitoring, reporting, and verification** (2025)
-   17 citations · General CDR
+   19 citations · General CDR
 
 4. **Process Simulations Reveal the Carbon Dioxide Removal Potential of a Process That Mineralizes Industrial Waste Streams via an Ion Exchange-Based Regenerable pH Swing** (2022)
    9 citations · Enhanced Weathering
@@ -71,14 +71,14 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 7. **Seawater Enables High-Quality Carbon Removal** (2024)
    1 citations · General CDR
 
-8. **Kinetic insights into measurable marine carbon dioxide removal via carbonation of electrolytically alkalinized seawater** (2026)
+8. **Seawater Electrolysis Enables Multipathway Climate Change Mitigation through Atmospheric Carbon Dioxide Removal, Renewable Hydrogen Production, and Cement and Concrete Decarbonization** (2026)
    0 citations · General CDR
 
-9. **Direct Air Capture and Ocean Storage with Hydrogen Production** (2025)
-   0 citations · DAC
+9. **Kinetic insights into measurable marine carbon dioxide removal via carbonation of electrolytically alkalinized seawater** (2026)
+   0 citations · General CDR
 
-10. **Net carbon dioxide removal via electrolytic seawater mineralization** (2023)
-   0 citations · Ocean CDR
+10. **Direct Air Capture and Ocean Storage with Hydrogen Production** (2025)
+   0 citations · DAC
 
 ## External Profiles
 

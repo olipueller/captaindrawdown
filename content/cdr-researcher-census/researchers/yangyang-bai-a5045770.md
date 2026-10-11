@@ -1,7 +1,7 @@
 ---
 title: "Yangyang Bai"
 description: "Yangyang Bai is a Mid-career Biochar researcher at Xi'an University of Architecture and Technology in CN. With 19 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.629475
+date: 2026-10-11T02:32:59.648259
 url: "/cdr-researcher-census/researchers/yangyang-bai-a5045770/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Cyclic utilization of livestock wastes into nitrogen-doped porous biochar for efficient treatment of real livestock wastewater and its bio-toxicological assessment via zebrafish (Danio rerio) model** (2025)
-   4 citations · Biochar
+   5 citations · Biochar
 
 ## External Profiles
 

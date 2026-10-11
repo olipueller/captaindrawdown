@@ -1,7 +1,7 @@
 ---
 title: "Mengru He"
 description: "Mengru He is a Mid-career Biochar researcher at Zhengzhou University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.918309
+date: 2026-10-11T02:32:59.967758
 url: "/cdr-researcher-census/researchers/mengru-he-a5011663/"
 layout: "researcher"
 hiddenInHomeList: true

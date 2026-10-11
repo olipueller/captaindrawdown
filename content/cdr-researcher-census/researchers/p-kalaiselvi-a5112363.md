@@ -1,7 +1,7 @@
 ---
 title: "P. Kalaiselvi"
 description: "P. Kalaiselvi is a Senior Soil Carbon researcher at Tamil Nadu Agricultural University in IN. With 57 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.755577
+date: 2026-10-11T02:32:59.778154
 url: "/cdr-researcher-census/researchers/p-kalaiselvi-a5112363/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Unlocking the Carbon Sequestration Potential of Horticultural Crops** (2024)
-   6 citations · General CDR
+   7 citations · General CDR
 
 2. **Potential of activated biochar for sequestration of chromium (VI) from aqueous solution: parameters optimised by RSM, Isotherm and kinetics study** (2021)
    3 citations · Biochar

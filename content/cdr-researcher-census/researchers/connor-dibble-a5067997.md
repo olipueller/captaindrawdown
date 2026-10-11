@@ -1,7 +1,7 @@
 ---
 title: "Connor Dibble"
 description: "Connor Dibble is a Mid-career Ocean CDR researcher at Fleet Science Center in US. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.239305
+date: 2026-10-11T02:33:00.269547
 url: "/cdr-researcher-census/researchers/connor-dibble-a5067997/"
 layout: "researcher"
 hiddenInHomeList: true

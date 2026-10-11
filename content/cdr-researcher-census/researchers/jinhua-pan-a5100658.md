@@ -1,7 +1,7 @@
 ---
 title: "Jinhua Pan"
 description: "Jinhua Pan is a Senior Soil Carbon researcher at Lincoln University in NZ. With 34 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.538787
+date: 2026-10-11T02:32:59.553803
 url: "/cdr-researcher-census/researchers/jinhua-pan-a5100658/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 2. **Soil organic nitrogen fraction and sequestration in a buried paddy soil since the Neolithic age** (2023)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

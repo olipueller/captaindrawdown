@@ -1,7 +1,7 @@
 ---
 title: "Danbi Lee"
 description: "Danbi Lee is a Mid-career Soil Carbon researcher. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.834529
+date: 2026-10-11T02:32:59.860752
 url: "/cdr-researcher-census/researchers/danbi-lee-a5114043/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "B. C. Verma"
 description: "B. C. Verma is a Senior Soil Carbon researcher at Madhya Pradesh Bhoj Open University in IN. With 39 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.647665
+date: 2026-10-11T02:32:59.666562
 url: "/cdr-researcher-census/researchers/b-c-verma-a5059114/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **System productivity, soil carbon and nitrogen sequestration of intensive rice-based cropping systems can be improved through legume crop inclusion with appropriate fertilizer application and crop residues incorporation in the eastern Indo-Gangatic plain** (2023)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 2. **Diverse rice-based cropping systems and crop residue recycling with appropriate nutrient application influenced the system productivity, soil carbon and nitrogen sequestration in Inceptisols of eastern Indo-Gangatic plain** (2023)
    0 citations · Soil Carbon

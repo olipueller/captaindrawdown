@@ -1,7 +1,7 @@
 ---
 title: "Yuhui Ge"
 description: "Yuhui Ge is a Mid-career Biochar researcher at The University of Queensland in AU. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.381359
+date: 2026-10-11T02:32:59.389015
 url: "/cdr-researcher-census/researchers/yuhui-ge-a5049651/"
 layout: "researcher"
 hiddenInHomeList: true

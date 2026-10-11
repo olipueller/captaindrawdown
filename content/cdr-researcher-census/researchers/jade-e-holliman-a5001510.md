@@ -1,7 +1,7 @@
 ---
 title: "Jade E. Holliman"
 description: "Jade E. Holliman is a Mid-career Enhanced Weathering researcher at Pacific Northwest National Laboratory in US. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.129118
+date: 2026-10-11T02:33:00.159456
 url: "/cdr-researcher-census/researchers/jade-e-holliman-a5001510/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Exotic Carbonate Mineralization Recovered from a Deep Basalt Carbon Storage Demonstration** (2022)
-   53 citations · Enhanced Weathering
+   54 citations · Enhanced Weathering
 
 ## External Profiles
 

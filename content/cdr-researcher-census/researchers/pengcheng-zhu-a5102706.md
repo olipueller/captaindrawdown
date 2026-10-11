@@ -1,7 +1,7 @@
 ---
 title: "Pengcheng Zhu"
 description: "Pengcheng Zhu is a Senior Biochar researcher at Army Medical University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.199026
+date: 2026-10-11T02:33:00.229263
 url: "/cdr-researcher-census/researchers/pengcheng-zhu-a5102706/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Preparation of Biochar from Straw in Northeast China to Assist in Carbon Neutrality:Data Visualization and Comprehensive Evaluation** (2025)
-   24 citations · Biochar
+   25 citations · Biochar
 
 ## External Profiles
 

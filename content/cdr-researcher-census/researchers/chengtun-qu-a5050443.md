@@ -1,7 +1,7 @@
 ---
 title: "Chengtun Qu"
 description: "Chengtun Qu is a Mid-career Biochar researcher at Xi'an Shiyou University in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.864367
+date: 2026-10-11T02:32:59.890914
 url: "/cdr-researcher-census/researchers/chengtun-qu-a5050443/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Optimizing biochar selection for soil amendment: Unraveling the feedstock-texture interplay for enhanced crop performance** (2026)
-   2 citations · Biochar
+   3 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Aneesh Kumar Chandel"
 description: "Aneesh Kumar Chandel is a Mid-career Biochar researcher at Cornell University in US. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.354248
+date: 2026-10-11T02:33:00.389287
 url: "/cdr-researcher-census/researchers/aneesh-kumar-chandel-a5038038/"
 layout: "researcher"
 hiddenInHomeList: true

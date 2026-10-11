@@ -1,7 +1,7 @@
 ---
 title: "Lianghua Qi"
 description: "Lianghua Qi is a Senior Soil Carbon researcher at International Bamboo and Rattan Organization in CN. With 51 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.485374
+date: 2026-10-11T02:32:59.496964
 url: "/cdr-researcher-census/researchers/lianghua-qi-a5102400/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,7 +53,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **The Dominant Factor Affecting Soil Organic Carbon in Subtropical Phyllostachys edulis Forests Is Climatic Factors Rather Than Soil Physicochemical Properties** (2023)
    8 citations · Soil Carbon
 
-3. **Changes in Surface Soil Organic Carbon Fractions and Their Pool Management Indices Along an Altitudinal Gradient in Karst Mountains in Relation to the Expansion Degrees of Chimonobambusa utilis** (2025)
+3. **Northward expansion and southward contraction of potential bamboo forest distribution in China under future climate change scenarios based on the MaxEnt model** (2026)
+   1 citations
+
+4. **Changes in Surface Soil Organic Carbon Fractions and Their Pool Management Indices Along an Altitudinal Gradient in Karst Mountains in Relation to the Expansion Degrees of Chimonobambusa utilis** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

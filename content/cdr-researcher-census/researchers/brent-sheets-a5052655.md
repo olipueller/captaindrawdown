@@ -1,7 +1,7 @@
 ---
 title: "Brent Sheets"
 description: "Brent Sheets is a Mid-career DAC researcher at University of Alaska Fairbanks in US. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.175446
+date: 2026-10-11T02:33:00.205549
 url: "/cdr-researcher-census/researchers/brent-sheets-a5052655/"
 layout: "researcher"
 hiddenInHomeList: true

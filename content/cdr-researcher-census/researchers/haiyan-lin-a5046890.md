@@ -1,7 +1,7 @@
 ---
 title: "Haiyan Lin"
 description: "Haiyan Lin is a Mid-career Biochar researcher at Nanjing Agricultural University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.491224
+date: 2026-10-11T02:32:59.503342
 url: "/cdr-researcher-census/researchers/haiyan-lin-a5046890/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Benefits and limitations of biochar for climate-smart agriculture: a review and case study from China** (2023)
-   123 citations · Biochar
+   124 citations · Biochar
 
 ## External Profiles
 

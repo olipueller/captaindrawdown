@@ -1,7 +1,7 @@
 ---
 title: "Yumei Peng"
 description: "Yumei Peng is a Mid-career Soil Carbon researcher at China Agricultural University in CN. With 29 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.266125
+date: 2026-10-11T02:32:59.270237
 url: "/cdr-researcher-census/researchers/yumei-peng-a5086112/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Mechanisms controlling the stability and sequestration of mineral associated organic carbon upon erosion and deposition** (2024)
-   32 citations · Soil Carbon
+   33 citations · Soil Carbon
 
 2. **Effects of erosion and deposition on the extent and characteristics of organic carbon associated with soil minerals in Mollisol landscape** (2023)
-   32 citations · Soil Carbon
+   33 citations · Soil Carbon
 
 3. **Soil organic carbon pool distribution and stability with grazing and topography in a Mongolian grassland** (2023)
    28 citations · Soil Carbon
@@ -60,13 +60,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    17 citations · Soil Carbon
 
 5. **Microplastic Mixture Diversity Destabilizes Mineral-Associated Carbon via Constraining the Accumulation of Microbial Necromass** (2025)
-   10 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 6. **Changes in long-term land use alter deep soil microbial necromass and organic carbon stabilization** (2025)
    8 citations · Soil Carbon
 
 7. **Substrate-specific priming of mineral-associated organic carbon in various cropland soils** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Astrid Hylén"
 description: "Astrid Hylén is a Mid-career Enhanced Weathering researcher at CEREGE in FR. With 62 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.509991
+date: 2026-10-11T02:32:59.523195
 url: "/cdr-researcher-census/researchers/astrid-hylen-a5047703/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,34 +51,34 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Review and syntheses: Ocean alkalinity enhancement and carbon dioxide removal through marine enhanced rock weathering using olivine** (2025)
-   37 citations · Enhanced Weathering
+   43 citations · Enhanced Weathering
 
 2. **Microbial Community Structure in Contrasting Hawaiian Coastal Sediments** (2025)
-   2 citations
+   3 citations
 
-3. **Ocean alkalinity enhancement through enhanced silicate weathering in coastal areas: a long-term mesocosm study** (2023)
+3. **The CDR potential of olivine-based enhanced rock weathering in marine systems: a case study for the coastal zone of France** (2025)
    2 citations · Enhanced Weathering
 
-4. **Hawaiian beaches as natural analogues for enhanced silicate weathering of olivine** (2025)
+4. **Ocean alkalinity enhancement through enhanced silicate weathering in coastal areas: a long-term mesocosm study** (2023)
+   2 citations · Enhanced Weathering
+
+5. **Hawaiian beaches as natural analogues for enhanced silicate weathering of olivine** (2025)
    1 citations · Enhanced Weathering
 
-5. **Microbial community structure in contrasting Hawaiian coastal sediments** (2025)
+6. **Microbial community structure in contrasting Hawaiian coastal sediments** (2025)
    1 citations
 
-6. **Review and syntheses: Ocean alkalinity enhancement and carbon dioxide removal through coastal enhanced silicate weathering with olivine** (2024)
+7. **Review and syntheses: Ocean alkalinity enhancement and carbon dioxide removal through coastal enhanced silicate weathering with olivine** (2024)
    1 citations · Enhanced Weathering
 
-7. **Grain scale investigation of olivine dissolution: Uncertainty in dissolution rate calculation** (2025)
+8. **Rethinking ocean alkalinity enhancement** (2026)
+   0 citations · Ocean CDR
+
+9. **Alkalinity generation and trace metal dynamics during olivine-based marine enhanced rock weathering in bioturbated sediments** (2026)
    0 citations · Enhanced Weathering
 
-8. **A natural analogue of enhanced rock weathering: microbial communities in the olivine-rich Papakōlea Beach (Hawaii, USA)** (2025)
+10. **Grain scale investigation of olivine dissolution: Uncertainty in dissolution rate calculation** (2025)
    0 citations · Enhanced Weathering
-
-9. **The CDR potential of olivine-based enhanced rock weathering in marine systems: a case study for the coastal zone of France** (2025)
-   0 citations · Enhanced Weathering
-
-10. **The age of reason for mineral-based ocean alkalinity enhancement?** (2024)
-   0 citations · General CDR
 
 ## External Profiles
 

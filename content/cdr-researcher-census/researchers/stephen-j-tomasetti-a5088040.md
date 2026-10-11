@@ -1,7 +1,7 @@
 ---
 title: "Stephen J. Tomasetti"
 description: "Stephen J. Tomasetti is a Mid-career Ocean CDR researcher at University of Maryland Eastern Shore in US. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.694495
+date: 2026-10-11T02:32:59.715113
 url: "/cdr-researcher-census/researchers/stephen-j-tomasetti-a5088040/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Oyster reefs' control of carbonate chemistry—Implications for oyster reef restoration in estuaries subject to coastal ocean acidification** (2023)
-   18 citations
+   20 citations
 
 2. **Scientific evidence does not support oyster farming as a marine carbon dioxide removal strategy for climate mitigation** (2026)
-   3 citations · Ocean CDR
+   4 citations · Ocean CDR
 
 3. **Scientific evidence does not support oyster farming as a marine carbon dioxide removal strategy** (2026)
    0 citations

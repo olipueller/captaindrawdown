@@ -1,7 +1,7 @@
 ---
 title: "Deb Raj Aryal"
 description: "Deb Raj Aryal is a Mid-career Soil Carbon researcher at El Colegio de la Frontera Sur in MX. With 89 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.241377
+date: 2026-10-11T02:32:59.244969
 url: "/cdr-researcher-census/researchers/deb-raj-aryal-a5052542/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Silvopastoral systems and remnant forests enhance carbon storage in livestock-dominated landscapes in Mexico** (2022)
-   65 citations · Soil Carbon
+   67 citations · Soil Carbon
 
 2. **Cover crop residue quality regulates litter decomposition dynamics and soil carbon mineralization kinetics in semi-arid cropping systems** (2023)
-   41 citations · Soil Carbon
+   47 citations · Soil Carbon
 
 3. **Biomass recovery along a tropical forest succession: Trends on tree diversity, wood traits and stand structure** (2024)
    27 citations
@@ -69,15 +69,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · General CDR
 
 7. **Silvopastoral systems reduce soil CO2 emissions, enhance carbon stocks, and regulate the micro-environment in tropical grazing lands** (2025)
-   8 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 8. **Soil profile distribution of organic, inorganic, and labile carbon and nitrogen fractions vary in semi‐arid drylands under long‐term conservation tillage systems** (2024)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 9. **Land use-driven shifts in labile carbon fractions regulated total profile sequestration of soil organic and inorganic carbon in arid environments** (2025)
    2 citations · Soil Carbon
 
-10. **Soil Organic Carbon Storage in Cof fee Agroforestry Systems: A review** (2025)
+10. **Can occasional tillage fit into long-term no-tillage systems? Soil carbon, nitrogen, and greenhouse gas emissions responses in semiarid drylands** (2026)
    1 citations · Soil Carbon
 
 ## External Profiles

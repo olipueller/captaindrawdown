@@ -1,7 +1,7 @@
 ---
 title: "Chaoying Jiang"
 description: "Chaoying Jiang is a Mid-career Biochar researcher at Shandong University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.386355
+date: 2026-10-11T02:33:00.423319
 url: "/cdr-researcher-census/researchers/chaoying-jiang-a5113098/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Response of soil N2O production pathways to biochar amendment and its isotope discrimination methods** (2023)
-   15 citations · Biochar
+   14 citations · Biochar
 
 ## External Profiles
 

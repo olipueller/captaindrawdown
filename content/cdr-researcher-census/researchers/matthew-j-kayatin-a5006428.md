@@ -1,7 +1,7 @@
 ---
 title: "Matthew J. Kayatin"
 description: "Matthew J. Kayatin is a Senior General CDR researcher at Marshall Space Flight Center in US. With 34 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.813626
+date: 2026-10-11T02:32:59.838448
 url: "/cdr-researcher-census/researchers/matthew-j-kayatin-a5006428/"
 layout: "researcher"
 hiddenInHomeList: true

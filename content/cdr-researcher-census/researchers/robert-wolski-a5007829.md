@@ -1,7 +1,7 @@
 ---
 title: "Robert Wolski"
 description: "Robert Wolski is a Mid-career Biochar researcher at Adam Mickiewicz University in Poznań in PL. With 39 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.556569
+date: 2026-10-11T02:32:59.571660
 url: "/cdr-researcher-census/researchers/robert-wolski-a5007829/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Removal of Methyl Red from Aqueous Solution Using Biochar Derived from Fennel Seeds** (2023)
-   26 citations · Biochar
+   27 citations · Biochar
 
 2. **Activated Bio-Carbons Prepared from the Residue of Supercritical Extraction of Raw Plants and Their Application for Removal of Nitrogen Dioxide and Hydrogen Sulfide from the Gas Phase** (2021)
    15 citations · Biochar

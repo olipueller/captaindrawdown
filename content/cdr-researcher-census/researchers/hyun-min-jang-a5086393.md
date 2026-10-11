@@ -1,7 +1,7 @@
 ---
 title: "Hyun Min Jang"
 description: "Hyun Min Jang is a Senior Biochar researcher at Jeonbuk National University in KR. With 55 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.074806
+date: 2026-10-11T02:32:59.079631
 url: "/cdr-researcher-census/researchers/hyun-min-jang-a5086393/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Comparative study on characteristics and mechanism of levofloxacin adsorption on swine manure biochar** (2022)
-   69 citations · Biochar
+   71 citations · Biochar
 
 2. **Investigating the adsorption behavior and mechanisms of swine manure-derived biochar in tetracycline removal** (2025)
-   7 citations · Biochar
+   8 citations · Biochar
 
 3. **Mechanistic insights into tetracycline adsorption by alkaline-modified biochar derived from anaerobically digested sludge** (2025)
-   1 citations · Biochar
+   2 citations · Biochar
 
 4. **Effect of Pyrolysis Temperature on the Characteristics and Levofloxacin Adsorption Capacity of Swine Manure Biochar** (2022)
    0 citations · Biochar

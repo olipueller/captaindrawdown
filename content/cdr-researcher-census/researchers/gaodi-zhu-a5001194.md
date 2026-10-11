@@ -1,7 +1,7 @@
 ---
 title: "Gaodi Zhu"
 description: "Gaodi Zhu is a Mid-career Enhanced Weathering researcher at Zhejiang A & F University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.767668
+date: 2026-10-11T02:32:59.780818
 url: "/cdr-researcher-census/researchers/gaodi-zhu-a5001194/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 7 |
-| Citations | 275 |
+| Citations | 279 |
 | Publications | 15 |
 | CDR Focus | 6.7% |
 | Trajectory | Growing |

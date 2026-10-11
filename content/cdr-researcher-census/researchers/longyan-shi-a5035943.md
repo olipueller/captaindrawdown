@@ -1,7 +1,7 @@
 ---
 title: "Longyan Shi"
 description: "Longyan Shi is a Mid-career Soil Carbon researcher at First Affiliated Hospital of Zhengzhou University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.119806
+date: 2026-10-11T02:33:00.150330
 url: "/cdr-researcher-census/researchers/longyan-shi-a5035943/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 2. **Long-term thinning effects on fine root biomass, morphology, and chemistry in a Pinus massoniana forest** (2025)
-   0 citations
+   1 citations
 
 ## External Profiles
 

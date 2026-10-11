@@ -1,7 +1,7 @@
 ---
 title: "P. S. Yadava"
 description: "P. S. Yadava is a Senior Soil Carbon researcher at Manipur University in IN. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.301552
+date: 2026-10-11T02:32:59.306746
 url: "/cdr-researcher-census/researchers/p-s-yadava-a5084718/"
 layout: "researcher"
 hiddenInHomeList: true

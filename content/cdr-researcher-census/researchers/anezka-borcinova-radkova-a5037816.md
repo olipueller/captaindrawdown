@@ -1,7 +1,7 @@
 ---
 title: "Anežka Borčinová Radková"
 description: "Anežka Borčinová Radková is a Mid-career Enhanced Weathering researcher. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.715632
+date: 2026-10-11T02:32:59.736780
 url: "/cdr-researcher-census/researchers/anezka-borcinova-radkova-a5037816/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,19 +54,22 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 4. **Quantifying potential carbon dioxide removal via enhanced weathering using porewater from a field trial in Scotland** (2025)
    0 citations
 
-5. **Novel extraction method designed to estimate the topsoil pore water reservoir of carbon dioxide removal through enhanced weathering of silicate minerals** (2025)
+5. **Quantifying potential carbon dioxide removal via enhanced weathering using porewater from a field trial in Scotland** (2025)
+   0 citations
+
+6. **Novel extraction method designed to estimate the topsoil pore water reservoir of carbon dioxide removal through enhanced weathering of silicate minerals** (2025)
    0 citations · Enhanced Weathering
 
-6. **The Impact of Soil Texture on Basalt-Enhanced Rock Weathering: Insights from a Field Mesocosm Study in a Temperate Climate.** (2025)
+7. **The Impact of Soil Texture on Basalt-Enhanced Rock Weathering: Insights from a Field Mesocosm Study in a Temperate Climate.** (2025)
    0 citations · Enhanced Weathering
 
-7. **Quantifying Carbon Dioxide Removal using Pore Water Data from Enhanced Rock Weathering Field Trials in Scotland** (2025)
+8. **Quantifying Carbon Dioxide Removal using Pore Water Data from Enhanced Rock Weathering Field Trials in Scotland** (2025)
    0 citations · Enhanced Weathering
 
-8. **Cation Release Dynamics in Basalt-Amended Soils: Implications for Enhanced Rock Weathering** (2025)
+9. **Cation Release Dynamics in Basalt-Amended Soils: Implications for Enhanced Rock Weathering** (2025)
    0 citations · Enhanced Weathering
 
-9. **Application of an Innovative Centrifuge-Based Soil Pore Water Sampling Method in Basalt Enhanced Weathering Field Trials.** (2024)
+10. **Application of an Innovative Centrifuge-Based Soil Pore Water Sampling Method in Basalt Enhanced Weathering Field Trials.** (2024)
    0 citations · Enhanced Weathering
 
 ## External Profiles

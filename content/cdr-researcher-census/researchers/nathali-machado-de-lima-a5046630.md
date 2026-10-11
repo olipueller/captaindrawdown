@@ -1,7 +1,7 @@
 ---
 title: "Náthali Machado de Lima"
 description: "Náthali Machado de Lima is a Mid-career Soil Carbon researcher at UNSW Sydney in AU. With 38 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.627818
+date: 2026-10-11T02:32:59.646311
 url: "/cdr-researcher-census/researchers/nathali-machado-de-lima-a5046630/"
 layout: "researcher"
 hiddenInHomeList: true

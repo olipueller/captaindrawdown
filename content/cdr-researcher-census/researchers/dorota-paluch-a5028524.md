@@ -1,7 +1,7 @@
 ---
 title: "Dorota Paluch"
 description: "Dorota Paluch is a Mid-career Biochar researcher at Adam Mickiewicz University in Poznań in PL. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.349480
+date: 2026-10-11T02:33:00.384459
 url: "/cdr-researcher-census/researchers/dorota-paluch-a5028524/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Removal of Methyl Red from Aqueous Solution Using Biochar Derived from Fennel Seeds** (2023)
-   26 citations · Biochar
+   27 citations · Biochar
 
 2. **Fennel Seed Biochar: A Sustainable Approach for Methylene Blue Removal from Aqueous Solutions** (2024)
    9 citations · Biochar

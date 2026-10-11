@@ -1,7 +1,7 @@
 ---
 title: "Shanshan Liao"
 description: "Shanshan Liao is a Mid-career Soil Carbon researcher at Hunan University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.053384
+date: 2026-10-11T02:33:00.084133
 url: "/cdr-researcher-census/researchers/shanshan-liao-a5076160/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Factors controlling soil organic carbon with depth at the basin scale** (2022)
-   28 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 2. **Labile organic matter components drive the accumulation of microbial necromass carbon in seasonal flooded wetland soils** (2025)
    2 citations · Soil Carbon

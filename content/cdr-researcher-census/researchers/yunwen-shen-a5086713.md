@@ -1,7 +1,7 @@
 ---
 title: "Yunwen Shen"
 description: "Yunwen Shen is a Mid-career Ocean CDR researcher. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.380957
+date: 2026-10-11T02:33:00.416709
 url: "/cdr-researcher-census/researchers/yunwen-shen-a5086713/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Thanapon Yooyen"
 description: "Thanapon Yooyen is a Senior Biochar researcher at Thaksin University in TH. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.979012
+date: 2026-10-11T02:33:00.010570
 url: "/cdr-researcher-census/researchers/thanapon-yooyen-a5027179/"
 layout: "researcher"
 hiddenInHomeList: true

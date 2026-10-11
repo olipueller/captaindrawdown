@@ -1,7 +1,7 @@
 ---
 title: "Istem Fer"
 description: "Istem Fer is a Mid-career Soil Carbon researcher at Finnish Meteorological Institute in FI. With 59 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.348634
+date: 2026-10-11T02:32:59.354533
 url: "/cdr-researcher-census/researchers/istem-fer-a5061079/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Towards agricultural soil carbon monitoring, reporting, and verification through the Field Observatory Network (FiON)** (2022)
-   39 citations · General CDR
+   42 citations · General CDR
 
 2. **Impact of weather and management practices on greenhouse gas flux dynamics on an agricultural grassland in Southern Finland** (2024)
    16 citations · General CDR

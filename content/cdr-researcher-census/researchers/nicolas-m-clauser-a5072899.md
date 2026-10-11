@@ -1,7 +1,7 @@
 ---
 title: "Nicolás M. Clauser"
 description: "Nicolás M. Clauser is a Mid-career General CDR researcher at Consejo Nacional de Investigaciones Científicas y Técnicas in AR. With 47 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.297910
+date: 2026-10-11T02:32:59.302823
 url: "/cdr-researcher-census/researchers/nicolas-m-clauser-a5072899/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   62 citations · General CDR
+   61 citations · General CDR
 
 2. **A techno-economic assessment of carbon dioxide removal pathways via biochemical conversion of lignocellulose to biofuels and bioplastics** (2025)
-   12 citations · BECCS
+   13 citations · BECCS
 
 3. **Biomass composting with gaseous carbon dioxide capture** (2024)
    6 citations · BECCS

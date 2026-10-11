@@ -1,7 +1,7 @@
 ---
 title: "Swetha Sridhar"
 description: "Swetha Sridhar is a Mid-career Soil Carbon researcher at Bangalore Medical College and Research Institute in IN. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.608437
+date: 2026-10-11T02:32:59.625823
 url: "/cdr-researcher-census/researchers/swetha-sridhar-a5062201/"
 layout: "researcher"
 hiddenInHomeList: true

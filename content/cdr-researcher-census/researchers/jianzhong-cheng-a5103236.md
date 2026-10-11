@@ -1,7 +1,7 @@
 ---
 title: "Jianzhong Cheng"
 description: "Jianzhong Cheng is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 44 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.283395
+date: 2026-10-11T02:32:59.288142
 url: "/cdr-researcher-census/researchers/jianzhong-cheng-a5103236/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    34 citations · Biochar
 
 3. **Response of soil N2O production pathways to biochar amendment and its isotope discrimination methods** (2023)
-   15 citations · Biochar
+   14 citations · Biochar
 
 4. **The conversion of biomass to biochar decreases soil organic and inorganic carbon-derived CO2 emissions under different water conditions in karst regions** (2024)
    5 citations · Biochar

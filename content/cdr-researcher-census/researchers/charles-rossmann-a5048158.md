@@ -1,7 +1,7 @@
 ---
 title: "Charles Rossmann"
 description: "Charles Rossmann is a Mid-career DAC researcher at Southern Company (United States) in US. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.271956
+date: 2026-10-11T02:33:00.302033
 url: "/cdr-researcher-census/researchers/charles-rossmann-a5048158/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Evolving electricity supply and demand to achieve net-zero emissions: Insights from the EMF-37 study** (2025)
-   8 citations · DAC
+   10 citations · DAC
 
 ## External Profiles
 

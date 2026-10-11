@@ -1,7 +1,7 @@
 ---
 title: "Logan R Thompson"
 description: "Logan R Thompson is a Mid-career General CDR researcher at Kansas State University in US. With 46 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.730959
+date: 2026-10-11T02:32:59.752430
 url: "/cdr-researcher-census/researchers/logan-r-thompson-a5101553/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Ecosystem management using livestock: embracing diversity and respecting ecological principles** (2023)
-   55 citations
+   53 citations
 
 2. **Challenges for the balanced attribution of livestock’s environmental impacts: the art of conveying simple messages around complex realities** (2023)
-   31 citations · Ocean CDR
+   30 citations · Ocean CDR
 
 3. **Computational approaches for enteric methane mitigation research: from fermi calculations to artificial intelligence paradigms** (2024)
    7 citations

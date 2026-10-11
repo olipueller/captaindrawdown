@@ -1,7 +1,7 @@
 ---
 title: "Xiaomei Huo"
 description: "Xiaomei Huo is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 29 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.229191
+date: 2026-10-11T02:32:59.232505
 url: "/cdr-researcher-census/researchers/xiaomei-huo-a5064569/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Regulatory effects of nano-carbon on poplar growth and rhizosphere soil organic carbon accumulation** (2025)
-   5 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 2. **Enhance soil organic carbon accumulation in degraded poplar forests via microbial activation: Stump grafting transformed pure forests surpassing mixed forests** (2025)
    3 citations · Soil Carbon

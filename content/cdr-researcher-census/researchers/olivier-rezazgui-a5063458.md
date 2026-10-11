@@ -1,7 +1,7 @@
 ---
 title: "Olivier Rezazgui"
 description: "Olivier Rezazgui is a Mid-career Biochar researcher at Cegep de Trois-Rivieres in CA. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.090348
+date: 2026-10-11T02:33:00.120967
 url: "/cdr-researcher-census/researchers/olivier-rezazgui-a5063458/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Pyrolytic conversion of construction, renovation, and demolition (CRD) wood wastes in Québec to biochar: Production, characterization, and identifying relevant stability indices for carbon sequestration** (2025)
-   26 citations · Biochar
+   31 citations · Biochar
 
 2. **Turning Construction, Renovation, and Demolition (CRD) Wood Waste into Biochar: A Scalable and Sustainable Solution for Energy and Environmental Applications** (2025)
    2 citations · Biochar

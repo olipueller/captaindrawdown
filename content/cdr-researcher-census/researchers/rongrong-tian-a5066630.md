@@ -1,7 +1,7 @@
 ---
 title: "Rongrong Tian"
 description: "Rongrong Tian is a Mid-career Biochar researcher at Northwest A&F University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.890146
+date: 2026-10-11T02:32:59.917862
 url: "/cdr-researcher-census/researchers/rongrong-tian-a5066630/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    29 citations
 
 2. **Redistribution of aggregate-associated calcium and soil organic carbon and their synergistic relationship in saline‒sodic soil two decades after a single application of flue gas desulfurization gypsum** (2025)
-   3 citations · Biochar
+   4 citations · Biochar
 
 3. **Water Wettability Alteration of Co2-Water-Shale System Due to Nanoparticles: Implications for Co2 Geo-Storage** (2022)
    1 citations

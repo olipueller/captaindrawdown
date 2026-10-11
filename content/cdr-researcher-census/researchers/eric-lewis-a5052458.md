@@ -1,7 +1,7 @@
 ---
 title: "Eric Lewis"
 description: "Eric Lewis is a Mid-career BECCS researcher at National Energy Technology Laboratory in US. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.366888
+date: 2026-10-11T02:33:00.402539
 url: "/cdr-researcher-census/researchers/eric-lewis-a5052458/"
 layout: "researcher"
 hiddenInHomeList: true

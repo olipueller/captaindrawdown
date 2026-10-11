@@ -1,7 +1,7 @@
 ---
 title: "Huifang He"
 description: "Huifang He is a Mid-career Soil Carbon researcher at China Institute of Water Resources and Hydropower Research in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.095111
+date: 2026-10-11T02:33:00.125753
 url: "/cdr-researcher-census/researchers/huifang-he-a5007028/"
 layout: "researcher"
 hiddenInHomeList: true

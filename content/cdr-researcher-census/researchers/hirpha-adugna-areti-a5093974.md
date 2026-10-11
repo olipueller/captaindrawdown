@@ -1,7 +1,7 @@
 ---
 title: "Hirpha Adugna Areti"
 description: "Hirpha Adugna Areti is a Mid-career Biochar researcher at Haramaya University in ET. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.995648
+date: 2026-10-11T02:33:00.026597
 url: "/cdr-researcher-census/researchers/hirpha-adugna-areti-a5093974/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Response surface method based parametric optimization of Cr(VI) removal from tannery wastewater using a mixed banana peel and corn cob activated carbon: Kinetic and isotherm modeling studies** (2024)
-   39 citations
+   41 citations
 
 2. **Adsorptive performances and valorization of green synthesized biochar–based activated carbon from banana peel and corn cob composites for the abatement of Cr(VI) from synthetic solutions: Parameters, isotherms, and remediation studies** (2024)
    25 citations · Biochar

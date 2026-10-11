@@ -1,7 +1,7 @@
 ---
 title: "Erika Blanco"
 description: "Erika Blanco is a Mid-career Enhanced Weathering researcher at University of the Coast in CO. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.996847
+date: 2026-10-11T02:33:00.027873
 url: "/cdr-researcher-census/researchers/erika-blanco-a5109463/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Possibilities of using silicate rock powder: An overview** (2021)
-   103 citations · Enhanced Weathering
+   100 citations · Enhanced Weathering
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Pietro Andreoni"
 description: "Pietro Andreoni is a Mid-career DAC researcher at CMCC Foundation - Euro-Mediterranean Center on Climate Change in IT. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.124485
+date: 2026-10-11T02:33:00.154943
 url: "/cdr-researcher-census/researchers/pietro-andreoni-a5057397/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Inequality repercussions of financing negative emissions** (2023)
-   29 citations · General CDR
+   28 citations · General CDR
 
 2. **Inequality repercussions of financing negative emissions** (2022)
    7 citations

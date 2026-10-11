@@ -1,7 +1,7 @@
 ---
 title: "Yinan Niu"
 description: "Yinan Niu is a Mid-career Soil Carbon researcher at Hebei Agricultural University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.118035
+date: 2026-10-11T02:33:00.148882
 url: "/cdr-researcher-census/researchers/yinan-niu-a5016298/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Ecoenzymatic stoichiometry reveals phosphorus addition alleviates microbial nutrient limitation and promotes soil carbon sequestration in agricultural ecosystems** (2021)
-   60 citations · Soil Carbon
+   64 citations · Soil Carbon
 
 ## External Profiles
 

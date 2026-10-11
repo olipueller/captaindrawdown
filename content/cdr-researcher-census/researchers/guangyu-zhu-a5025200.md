@@ -1,7 +1,7 @@
 ---
 title: "Guangyu Zhu"
 description: "Guangyu Zhu is a Mid-career Soil Carbon researcher at Chongqing University in CN. With 39 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.152814
+date: 2026-10-11T02:32:59.157073
 url: "/cdr-researcher-census/researchers/guangyu-zhu-a5025200/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of land use changes on soil organic carbon, nitrogen and their losses in a typical watershed of the Loess Plateau, China** (2021)
-   50 citations · Soil Carbon
+   49 citations · Soil Carbon
 
 2. **Effects of Elevation Gradient on Soil Carbon and Nitrogen in a Typical Karst Region of Chongqing, Southwest China** (2022)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 3. **Patterns and causes of soil heavy metals and carbon stock in green spaces along an urbanization gradient** (2024)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

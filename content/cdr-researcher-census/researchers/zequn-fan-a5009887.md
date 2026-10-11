@@ -1,7 +1,7 @@
 ---
 title: "Zequn Fan"
 description: "Zequn Fan is a Senior Biochar researcher at Hohai University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.006140
+date: 2026-10-11T02:33:00.037202
 url: "/cdr-researcher-census/researchers/zequn-fan-a5009887/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar mitigates biodegradable microplastic-induced greenhouse gas emissions in lake sediments: Unraveling microbial mechanisms and particle-size effects** (2025)
-   1 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

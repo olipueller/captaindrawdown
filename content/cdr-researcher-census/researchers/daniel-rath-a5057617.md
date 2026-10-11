@@ -1,7 +1,7 @@
 ---
 title: "Daniel Rath"
 description: "Daniel Rath is a Mid-career Soil Carbon researcher at Natural Resources Defense Council in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.214909
+date: 2026-10-11T02:33:00.244955
 url: "/cdr-researcher-census/researchers/daniel-rath-a5057617/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Grounding United States policies and programs in soil carbon science: strengths, limitations, and opportunities** (2023)
-   21 citations · General CDR
+   23 citations · General CDR
 
 ## External Profiles
 

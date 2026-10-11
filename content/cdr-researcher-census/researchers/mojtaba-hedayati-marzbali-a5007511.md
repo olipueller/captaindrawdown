@@ -1,7 +1,7 @@
 ---
 title: "Mojtaba Hedayati Marzbali"
 description: "Mojtaba Hedayati Marzbali is a Mid-career Biochar researcher at RMIT University in AU. With 26 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.265825
+date: 2026-10-11T02:32:59.269950
 url: "/cdr-researcher-census/researchers/mojtaba-hedayati-marzbali-a5007511/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    30 citations · Biochar
 
 2. **Ammonium nitrogen (NH4+-N) recovery from synthetic wastewater using biosolids-derived biochar** (2023)
-   13 citations · Biochar
+   14 citations · Biochar
 
 3. **Chemical vapour deposition of biogas over biosolids biochar catalyst: Effects of operating conditions, process modelling, and techno-economic assessment** (2026)
    0 citations · Biochar

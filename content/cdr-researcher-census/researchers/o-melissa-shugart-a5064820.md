@@ -1,7 +1,7 @@
 ---
 title: "O. Melissa Shugart"
 description: "O. Melissa Shugart is an Early-career Ocean CDR researcher at University of South Carolina in US. With 4 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.390461
+date: 2026-10-11T02:33:00.427748
 url: "/cdr-researcher-census/researchers/o-melissa-shugart-a5064820/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Simulated Impact of Ocean Alkalinity Enhancement on Atmospheric CO<sub>2</sub> Removal in the Bering Sea** (2022)
-   101 citations · General CDR
+   102 citations · General CDR
 
 2. **Bering10K BEST_NPZ ROMS model: Carbon dioxide removal simulation output** (2022)
    0 citations

@@ -1,7 +1,7 @@
 ---
 title: "Xinyu Wang"
 description: "Xinyu Wang is a Mid-career Biochar researcher at Inner Mongolia Agricultural University in CN. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.689267
+date: 2026-10-11T02:32:59.709674
 url: "/cdr-researcher-census/researchers/xinyu-wang-a5100352/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Purification mechanism of city tail water by constructed wetland substrate with NaOH-modified corn straw biochar** (2022)
-   65 citations · Biochar
+   64 citations · Biochar
 
 2. **Study on city tail water treatment in constructed wetland with straw biochar substrate modified by freeze–thaw cycles** (2022)
    11 citations · Biochar

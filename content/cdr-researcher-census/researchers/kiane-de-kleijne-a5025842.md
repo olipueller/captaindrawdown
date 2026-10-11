@@ -1,7 +1,7 @@
 ---
 title: "Kiane de Kleijne"
 description: "Kiane de Kleijne is a Mid-career General CDR researcher at Eindhoven University of Technology in NL. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.309415
+date: 2026-10-11T02:32:59.314756
 url: "/cdr-researcher-census/researchers/kiane-de-kleijne-a5025842/"
 layout: "researcher"
 hiddenInHomeList: true

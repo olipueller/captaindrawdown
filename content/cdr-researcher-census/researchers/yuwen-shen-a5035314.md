@@ -1,7 +1,7 @@
 ---
 title: "Yuwen Shen"
 description: "Yuwen Shen is a Senior Soil Carbon researcher at Shandong University in CN. With 40 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.237217
+date: 2026-10-11T02:32:59.240712
 url: "/cdr-researcher-census/researchers/yuwen-shen-a5035314/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Enhancing soil organic carbon fixation with modified bentonite composites** (2025)
-   4 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 2. **Controlled-Release Nitrogen Fertilizer Enhances Saline–Alkali Soil Organic Carbon by Activating Straw Decomposition Agents** (2025)
    2 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Hui Wang"
 description: "Hui Wang is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 29 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.467693
+date: 2026-10-11T02:32:59.479139
 url: "/cdr-researcher-census/researchers/hui-wang-a5107234/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Divergent factors shape the stability of Pinus massoniana rhizosphere organic carbon in subtropical mixed plantations** (2026)
+1. **The synergistic effect of species diversity and functional diversity in subtropical naturally regenerating forests promotes environmental adaptability of biomass accumulation** (2025)
+   3 citations · Soil Carbon
+
+2. **Divergent factors shape the stability of Pinus massoniana rhizosphere organic carbon in subtropical mixed plantations** (2026)
    2 citations · Soil Carbon
 
-2. **The synergistic effect of species diversity and functional diversity in subtropical naturally regenerating forests promotes environmental adaptability of biomass accumulation** (2025)
-   2 citations · Soil Carbon
+3. **Nitrogen-fixing trees rather than tree species richness dominate the molecular diversity of soil organic carbon in subtropical planted forests** (2026)
+   0 citations
 
 ## External Profiles
 

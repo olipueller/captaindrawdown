@@ -1,7 +1,7 @@
 ---
 title: "Saiyong Zhu"
 description: "Saiyong Zhu is a Mid-career Biochar researcher at Zhejiang Ecological Civilization Academy in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.790894
+date: 2026-10-11T02:32:59.814571
 url: "/cdr-researcher-census/researchers/saiyong-zhu-a5107723/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A review on soil amendments for cadmium sequestration and methane emission reduction in paddy soils** (2025)
-   10 citations · Biochar
+   11 citations · Biochar
 
 ## External Profiles
 

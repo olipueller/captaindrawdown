@@ -1,7 +1,7 @@
 ---
 title: "Sukaran S. Arora"
 description: "Sukaran S. Arora is a Mid-career DAC researcher at Dow Chemical (United States) in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.509124
+date: 2026-10-11T02:32:59.522182
 url: "/cdr-researcher-census/researchers/sukaran-s-arora-a5069023/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Process and techno-economic analyses of ethylene production by electrochemical reduction of aqueous alkaline carbonates** (2024)
-   29 citations
+   30 citations
 
 2. **Process Simulations and Technoeconomic Analysis of Ethylene Production By Electrochemical Reduction of Carbon Capture Solutions** (2024)
    1 citations · DAC

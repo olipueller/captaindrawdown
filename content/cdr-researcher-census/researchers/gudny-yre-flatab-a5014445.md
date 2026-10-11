@@ -1,7 +1,7 @@
 ---
 title: "Gudny Øyre Flatabø"
 description: "Gudny Øyre Flatabø is a Mid-career Biochar researcher at University of South-Eastern Norway in NO. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.146447
+date: 2026-10-11T02:33:00.176125
 url: "/cdr-researcher-census/researchers/gudny-yre-flatab-a5014445/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Distribution of PAHs, PCBs, and PCDD/Fs in products from full-scale relevant pyrolysis of diverse contaminated organic waste** (2023)
-   59 citations · Biochar
+   58 citations · Biochar
 
 2. **Industrially relevant pyrolysis of diverse contaminated organic wastes: Gas compositions and emissions to air** (2023)
    26 citations · Biochar

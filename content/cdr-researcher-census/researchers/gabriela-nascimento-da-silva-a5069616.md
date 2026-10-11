@@ -1,7 +1,7 @@
 ---
 title: "Gabriela Nascimento da Silva"
 description: "Gabriela Nascimento da Silva is a Mid-career General CDR researcher at Universidade Federal do Rio de Janeiro in BR. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.878580
+date: 2026-10-11T02:32:59.906116
 url: "/cdr-researcher-census/researchers/gabriela-nascimento-da-silva-a5069616/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Climate strategies for oil and gas production under the lens of an Integrated Assessment Model: The case of Brazil** (2024)
-   6 citations · General CDR
+   8 citations · General CDR
 
 2. **Climate Strategies for Oil and Gas Production Under the Lens of an Integrated Assessment Model: The Case of Brazil** (2023)
    0 citations · General CDR

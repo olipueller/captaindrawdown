@@ -1,7 +1,7 @@
 ---
 title: "Rama Sinha"
 description: "Rama Sinha is a Mid-career Biochar researcher at Nalanda University in IN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.178556
+date: 2026-10-11T02:32:59.182612
 url: "/cdr-researcher-census/researchers/rama-sinha-a5046987/"
 layout: "researcher"
 hiddenInHomeList: true

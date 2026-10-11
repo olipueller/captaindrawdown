@@ -1,7 +1,7 @@
 ---
 title: "Olivier Torres"
 description: "Olivier Torres is a Mid-career Ocean CDR researcher at Centre National de la Recherche Scientifique in FR. With 54 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.217684
+date: 2026-10-11T02:32:59.221456
 url: "/cdr-researcher-census/researchers/olivier-torres-a5040372/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **The representation of alkalinity and the carbonate pump from CMIP5 to CMIP6 Earth system models and implications for the carbon cycle** (2023)
-   41 citations · General CDR
+   50 citations · General CDR
 
 2. **The representation of alkalinity and the carbonate pump from CMIP5 to CMIP6 ESMs and implications for the ocean carbon cycle** (2022)
    9 citations · Ocean CDR
 
 3. **Declining coral calcification to enhance twenty-first-century ocean carbon uptake by gigatonnes** (2025)
-   5 citations · Ocean CDR
+   7 citations · Ocean CDR
 
 4. **Comment on egusphere-2022-1041** (2022)
    0 citations · General CDR

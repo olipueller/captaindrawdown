@@ -1,7 +1,7 @@
 ---
 title: "Jing Sun"
 description: "Jing Sun is a Mid-career Enhanced Weathering researcher. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.695315
+date: 2026-10-11T02:32:59.715984
 url: "/cdr-researcher-census/researchers/jing-sun-a5103585/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Isolation, Identification, and Carbonate Mineralization Characteristics of a Newly Carbonic Anhydrase–Producing Strain** (2024)
-   16 citations · Enhanced Weathering
+   19 citations · Enhanced Weathering
 
 ## External Profiles
 

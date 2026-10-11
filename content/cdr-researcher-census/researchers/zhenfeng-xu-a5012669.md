@@ -1,7 +1,7 @@
 ---
 title: "Zhenfeng Xu"
 description: "Zhenfeng Xu is a Senior Soil Carbon researcher at Shijiazhuang University in CN. With 159 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.068880
+date: 2026-10-11T02:32:59.073412
 url: "/cdr-researcher-census/researchers/zhenfeng-xu-a5012669/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,34 +48,34 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Return of crop residues to arable land stimulates N2O emission but mitigates NO3− leaching: a meta-analysis** (2021)
-   84 citations · Soil Carbon
+   86 citations · Soil Carbon
 
 2. **Environmental conditions and litter nutrients are key determinants of soluble C, N, and P release during litter mixture decomposition** (2021)
    46 citations
 
-3. **Decreased Soil Organic Carbon under Litter Input in Three Subalpine Forests** (2021)
-   31 citations · Soil Carbon
+3. **Fertilization effects on soil organic matter chemistry** (2024)
+   35 citations · Soil Carbon
 
-4. **Fertilization effects on soil organic matter chemistry** (2024)
-   30 citations · Soil Carbon
+4. **Decreased Soil Organic Carbon under Litter Input in Three Subalpine Forests** (2021)
+   31 citations · Soil Carbon
 
 5. **Heavy Nitrogen Application Rate and Long-Term Duration Decrease the Soil Organic Carbon and Nitrogen Sequestration Rates in Forest Ecosystems** (2024)
    17 citations · Soil Carbon
 
 6. **Temporal dynamics of mixed litter humification in an alpine treeline ecotone** (2021)
+   15 citations · Soil Carbon
+
+7. **Forest thinning effects on soil carbon stocks and dynamics: Perspective of soil organic carbon sequestration rates** (2025)
    14 citations · Soil Carbon
 
-7. **Characteristics of Soil Organic Carbon Fractions and Stability along a Chronosequence of Cryptomeria japonica var. sinensis Plantation in the Rainy Area of Western China** (2022)
+8. **Characteristics of Soil Organic Carbon Fractions and Stability along a Chronosequence of Cryptomeria japonica var. sinensis Plantation in the Rainy Area of Western China** (2022)
    13 citations · Soil Carbon
-
-8. **Forest thinning effects on soil carbon stocks and dynamics: Perspective of soil organic carbon sequestration rates** (2025)
-   12 citations · Soil Carbon
 
 9. **The Contributions of Soil Fauna to the Accumulation of Humic Substances during Litter Humification in Cold Forests** (2022)
    12 citations · Soil Carbon
 
 10. **Forest Gaps Slow the Humification Process of Fir (Abies faxoniana Rehder &amp; E.H.Wilson) Twig Litter during Eight Years of Decomposition in an Alpine Forest** (2023)
-   9 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 ## External Profiles
 

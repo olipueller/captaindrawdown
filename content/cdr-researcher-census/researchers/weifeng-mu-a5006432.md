@@ -1,7 +1,7 @@
 ---
 title: "Weifeng Mu"
 description: "Weifeng Mu is a Senior General CDR researcher at City University of Hong Kong, Shenzhen Research Institute in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.135769
+date: 2026-10-11T02:33:00.166116
 url: "/cdr-researcher-census/researchers/weifeng-mu-a5006432/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Potential of ecosystem carbon sinks to “neutralize” carbon emissions: A case study of Qinghai in west China and a tale of two stages** (2022)
-   14 citations · General CDR
+   13 citations · General CDR
 
 ## External Profiles
 

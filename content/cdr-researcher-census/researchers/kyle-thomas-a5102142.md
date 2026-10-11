@@ -1,7 +1,7 @@
 ---
 title: "Kyle Thomas"
 description: "Kyle Thomas is a Senior General CDR researcher at Duke University in US. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.111952
+date: 2026-10-11T02:33:00.142863
 url: "/cdr-researcher-census/researchers/kyle-thomas-a5102142/"
 layout: "researcher"
 hiddenInHomeList: true

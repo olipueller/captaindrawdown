@@ -1,0 +1,66 @@
+---
+title: "Thibault Salou"
+description: "Thibault Salou is a Mid-career BECCS researcher at Université de Montpellier in FR. With 39 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:32:59.403489
+url: "/cdr-researcher-census/researchers/thibault-salou-a5102755/"
+layout: "researcher"
+hiddenInHomeList: true
+robots: "index, follow"
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Thibault Salou",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/thibault-salou-a5102755/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Universit\u00e9 de Montpellier"
+  },
+  "sameAs": [
+    "https://orcid.org/0000-0001-9143-7977",
+    "https://openalex.org/A5102755684"
+  ]
+}
+</script>
+
+## Profile
+
+**Thibault Salou**  
+Université de Montpellier · 🇫🇷 FR
+
+**Career Stage:** Mid-career
+
+## CDR Specialization
+
+**BECCS**
+
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
+
+## Metrics
+
+| Metric | Value |
+|--------|-------|
+| h-index | 11 |
+| Citations | 618 |
+| Publications | 39 |
+| CDR Focus | 5.1% |
+| Trajectory | Exiting |
+
+## Top CDR Publications
+
+1. **Life cycle assessment of bioenergy with carbon capture and storage systems: Critical review of life cycle inventories** (2023)
+   57 citations · BECCS
+
+2. **Life cycle assessment of BECCS systems: critical review of life cycle inventories** (2022)
+   2 citations · BECCS
+
+## External Profiles
+
+- [ORCID](https://orcid.org/0000-0001-9143-7977)
+- [OpenAlex](https://openalex.org/A5102755684)
+
+---
+
+**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)

@@ -1,7 +1,7 @@
 ---
 title: "Tania Timmermann"
 description: "Tania Timmermann is a Senior Enhanced Weathering researcher at Alameda Hospital in US. With 25 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.224247
+date: 2026-10-11T02:32:59.227653
 url: "/cdr-researcher-census/researchers/tania-timmermann-a5054841/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Harnessing Microbes to Weather Native Silicates in Agricultural Soils for Scalable Carbon Dioxide Removal** (2025)
-   15 citations · Enhanced Weathering
+   16 citations · Enhanced Weathering
 
 2. **Quantification of soil inorganic carbon using sulfamic acid and gas chromatography** (2025)
    4 citations · General CDR
 
 3. **Synergistic Effects of a Microbial Amendment and Crushed Basalt: Soil Geochemical and Microbial Responses** (2026)
-   1 citations · Enhanced Weathering
+   2 citations · Enhanced Weathering
 
 4. **Author Comment on egusphere-2026-4145: Supplemental Tables and Figures** (2026)
    0 citations · Enhanced Weathering

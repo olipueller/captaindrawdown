@@ -1,7 +1,7 @@
 ---
 title: "Masoud Derakhshandeh"
 description: "Masoud Derakhshandeh is a Mid-career General CDR researcher at İstanbul Gelişim Üniversitesi in TR. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.721642
+date: 2026-10-11T02:32:59.742810
 url: "/cdr-researcher-census/researchers/masoud-derakhshandeh-a5110733/"
 layout: "researcher"
 hiddenInHomeList: true

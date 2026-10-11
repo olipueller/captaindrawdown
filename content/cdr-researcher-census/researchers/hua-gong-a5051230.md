@@ -1,7 +1,7 @@
 ---
 title: "Hua Gong"
 description: "Hua Gong is a Mid-career Soil Carbon researcher. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.889003
+date: 2026-10-11T02:32:59.916562
 url: "/cdr-researcher-census/researchers/hua-gong-a5051230/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Heavy metal pollution and net greenhouse gas emissions in a rice-wheat rotation system as influenced by partial organic substitution** (2022)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 ## External Profiles
 

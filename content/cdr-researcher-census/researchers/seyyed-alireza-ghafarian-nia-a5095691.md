@@ -1,7 +1,7 @@
 ---
 title: "Seyyed Alireza Ghafarian Nia"
 description: "Seyyed Alireza Ghafarian Nia is a Mid-career Biochar researcher at University of Tehran in IR. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.157618
+date: 2026-10-11T02:33:00.187414
 url: "/cdr-researcher-census/researchers/seyyed-alireza-ghafarian-nia-a5095691/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Progress and challenges in thermochemical technologies for biomass humification: A comprehensive review** (2026)
-   4 citations · Biochar
+   5 citations · Biochar
 
 ## External Profiles
 

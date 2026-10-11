@@ -1,7 +1,7 @@
 ---
 title: "Hefa Yang"
 description: "Hefa Yang is a Senior Soil Carbon researcher at Quzhou University in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.346940
+date: 2026-10-11T02:32:59.352819
 url: "/cdr-researcher-census/researchers/hefa-yang-a5011228/"
 layout: "researcher"
 hiddenInHomeList: true

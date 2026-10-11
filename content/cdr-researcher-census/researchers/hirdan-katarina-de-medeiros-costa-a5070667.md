@@ -1,7 +1,7 @@
 ---
 title: "Hirdan Katarina de Medeiros Costa"
 description: "Hirdan Katarina de Medeiros Costa is a Mid-career BECCS researcher at Universidade Estadual do Ceará in BR. With 57 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.285990
+date: 2026-10-11T02:32:59.290727
 url: "/cdr-researcher-census/researchers/hirdan-katarina-de-medeiros-costa-a5070667/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,18 +51,21 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Bioenergy with Carbon Capture and Storage (BECCS) in Brazil: A Review** (2023)
-   36 citations · BECCS
+   37 citations · BECCS
 
 2. **Análise do CBIO como passo inicial ao desenvolvimento de BECCS no Brasil** (2023)
    3 citations · BECCS
 
-3. **Building knowledge on climate change issues: the methodological development of data collection by the RCGI group** (2023)
+3. **Pesquisa e disseminação do conhecimento sobre BECCS no Brasil** (2025)
    0 citations · BECCS
 
-4. **Estratégias e Políticas Brasileiras de Mitigação de Gases de Efeito Estufa: Análise de Possíveis Impactos na Implementação de Beccs, com Base em Experiências Internacionais** (2022)
+4. **Building knowledge on climate change issues: the methodological development of data collection by the RCGI group** (2023)
    0 citations · BECCS
 
-5. **The benefit of the RenovaBio Programme for the BECCS market in Brazil** (2022)
+5. **Estratégias e Políticas Brasileiras de Mitigação de Gases de Efeito Estufa: Análise de Possíveis Impactos na Implementação de Beccs, com Base em Experiências Internacionais** (2022)
+   0 citations · BECCS
+
+6. **The benefit of the RenovaBio Programme for the BECCS market in Brazil** (2022)
    0 citations · BECCS
 
 ## External Profiles

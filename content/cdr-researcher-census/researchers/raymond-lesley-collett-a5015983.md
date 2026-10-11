@@ -1,7 +1,7 @@
 ---
 title: "Raymond Lesley Collett"
 description: "Raymond Lesley Collett is an Early-career Soil Carbon researcher at Julius Kühn-Institut in DE. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.269104
+date: 2026-10-11T02:33:00.299013
 url: "/cdr-researcher-census/researchers/raymond-lesley-collett-a5015983/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Linking Nematode Communities and Soil Health under Climate Change** (2023)
-   54 citations · Soil Carbon
+   56 citations · Soil Carbon
 
 ## External Profiles
 

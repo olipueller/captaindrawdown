@@ -1,7 +1,7 @@
 ---
 title: "Peter Johnston"
 description: "Peter Johnston is a Senior DAC researcher at Environment and Climate Change Canada in CA. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.096252
+date: 2026-10-11T02:33:00.126926
 url: "/cdr-researcher-census/researchers/peter-johnston-a5032483/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Modeling the energy mix and economic costs of deep decarbonization scenarios in a CGE framework** (2023)
-   10 citations · DAC
+   11 citations · DAC
 
 ## External Profiles
 

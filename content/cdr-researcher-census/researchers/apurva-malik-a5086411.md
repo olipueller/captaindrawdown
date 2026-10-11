@@ -1,7 +1,7 @@
 ---
 title: "Apurva Malik"
 description: "Apurva Malik is a Mid-career General CDR researcher at Forest Research Institute in IN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.897373
+date: 2026-10-11T02:32:59.926440
 url: "/cdr-researcher-census/researchers/apurva-malik-a5086411/"
 layout: "researcher"
 hiddenInHomeList: true

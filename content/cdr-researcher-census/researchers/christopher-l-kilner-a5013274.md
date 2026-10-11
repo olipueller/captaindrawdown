@@ -1,7 +1,7 @@
 ---
 title: "Christopher L. Kilner"
 description: "Christopher L. Kilner is a Mid-career Soil Carbon researcher at Endometriosis UK in GB. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.623185
+date: 2026-10-11T02:32:59.641049
 url: "/cdr-researcher-census/researchers/christopher-l-kilner-a5013274/"
 layout: "researcher"
 hiddenInHomeList: true

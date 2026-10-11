@@ -1,7 +1,7 @@
 ---
 title: "Chinmoy Baroi"
 description: "Chinmoy Baroi is a Senior DAC researcher at Idaho National Laboratory in US. With 40 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.273420
+date: 2026-10-11T02:32:59.277654
 url: "/cdr-researcher-census/researchers/chinmoy-baroi-a5040576/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,25 +53,28 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 1. **FEED Study of CarbonCapture Inc DAC and CarbonCure Utilization Technologies Using United States Steel’s Gary Works Plant Waste Heat (Final Report)** (2024)
    1 citations · DAC
 
-2. **Direct Air Capture-Based Carbon Dioxide Removal with United States Low-Carbon Energy and Sinks** (2024)
+2. **FEED Study of CarbonCapture Inc. DAC and CarbonCure Utilization Technologies Using United States Steel's Gary Works Plant Waste Heat** (2022)
    0 citations · DAC
 
-3. **Advanced Nuclear Reactor Driven Direct Air Capture for Achieving Net-Negative Emissions** (2025)
+3. **Direct Air Capture-Based Carbon Dioxide Removal with United States Low-Carbon Energy and Sinks** (2024)
+   0 citations · DAC
+
+4. **Advanced Nuclear Reactor Driven Direct Air Capture for Achieving Net-Negative Emissions** (2025)
    0 citations
 
-4. **Colorado (Pueblo) Regional Direct Air Capture (DAC) Hub** (2025)
+5. **Colorado (Pueblo) Regional Direct Air Capture (DAC) Hub** (2025)
    0 citations · DAC
 
-5. **Direct Air Capture and Utilization System (DACUS): FEED Study of CarbonCapture Inc. DAC and CarbonCure Utilization Technologies Using United States Steel’s Gary Works Plant Waste Heat** (2024)
+6. **Direct Air Capture and Utilization System (DACUS): FEED Study of CarbonCapture Inc. DAC and CarbonCure Utilization Technologies Using United States Steel’s Gary Works Plant Waste Heat** (2024)
    0 citations · DAC
 
-6. **Capture and In-Situ Conversion of CO2 Using Novel Plasma Technology Under Ambient Conditions** (2024)
+7. **Capture and In-Situ Conversion of CO2 Using Novel Plasma Technology Under Ambient Conditions** (2024)
    0 citations
 
-7. **Florida Regional Direct Air Capture (DAC) Hub** (2024)
+8. **Florida Regional Direct Air Capture (DAC) Hub** (2024)
    0 citations · DAC
 
-8. **Illinois Basin Direct Air Capture (DAC) Hub: A Master Planned Community** (2024)
+9. **Illinois Basin Direct Air Capture (DAC) Hub: A Master Planned Community** (2024)
    0 citations · DAC
 
 ## External Profiles

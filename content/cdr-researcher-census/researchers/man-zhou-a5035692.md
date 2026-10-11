@@ -1,7 +1,7 @@
 ---
 title: "Man Zhou"
 description: "Man Zhou is a Mid-career Soil Carbon researcher at Jiangsu University in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.821016
+date: 2026-10-11T02:32:59.845965
 url: "/cdr-researcher-census/researchers/man-zhou-a5035692/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Vegetation restoration limited microbial carbon sequestration in areas affected by soil erosion** (2024)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 2. **Vegetation Restoration Reduces the Capacity of Autotrophic Microbes to Fix <scp> CO <sub>2</sub> </scp> in Eroded Areas** (2025)
    1 citations · Soil Carbon

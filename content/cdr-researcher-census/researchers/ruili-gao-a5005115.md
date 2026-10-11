@@ -1,7 +1,7 @@
 ---
 title: "Ruili Gao"
 description: "Ruili Gao is a Mid-career Soil Carbon researcher at China University of Petroleum, East China in CN. With 30 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.242251
+date: 2026-10-11T02:32:59.245876
 url: "/cdr-researcher-census/researchers/ruili-gao-a5005115/"
 layout: "researcher"
 hiddenInHomeList: true

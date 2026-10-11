@@ -1,7 +1,7 @@
 ---
 title: "Aino Seppänen"
 description: "Aino Seppänen is an Early-career Biochar researcher at University of Helsinki in FI. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.125643
+date: 2026-10-11T02:33:00.156044
 url: "/cdr-researcher-census/researchers/aino-seppanen-a5006856/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar reduced the mineralization of native and added soil organic carbon: evidence of negative priming and enhanced microbial carbon use efficiency** (2024)
-   107 citations · Biochar
+   112 citations · Biochar
 
 ## External Profiles
 

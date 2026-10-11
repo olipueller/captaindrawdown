@@ -1,7 +1,7 @@
 ---
 title: "Sebastian Rauner"
 description: "Sebastian Rauner is a Mid-career General CDR researcher at Leibniz Association in DE. With 27 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.197993
+date: 2026-10-11T02:32:59.201928
 url: "/cdr-researcher-census/researchers/sebastian-rauner-a5086574/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Multiple pathways towards sustainable development goals and climate targets** (2024)
-   38 citations · General CDR
+   40 citations · General CDR
 
 2. **Food and land system transformations under different societal perspectives on sustainable development** (2024)
-   12 citations · General CDR
+   13 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Longkai Qiao"
 description: "Longkai Qiao is a Mid-career Soil Carbon researcher at Xi'an Jiaotong University in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.435780
+date: 2026-10-11T02:32:59.446093
 url: "/cdr-researcher-census/researchers/longkai-qiao-a5073528/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The soil microbial carbon pump for carbon sequestration** (2025)
-   17 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 ## External Profiles
 

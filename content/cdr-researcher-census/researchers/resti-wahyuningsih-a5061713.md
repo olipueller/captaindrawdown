@@ -1,7 +1,7 @@
 ---
 title: "Resti Wahyuningsih"
 description: "Resti Wahyuningsih is a Mid-career Soil Carbon researcher at Fatmawati Hospital in ID. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.695231
+date: 2026-10-11T02:32:59.715893
 url: "/cdr-researcher-census/researchers/resti-wahyuningsih-a5061713/"
 layout: "researcher"
 hiddenInHomeList: true

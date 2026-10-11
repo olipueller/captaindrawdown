@@ -1,7 +1,7 @@
 ---
 title: "Riying Qi"
 description: "Riying Qi is a Mid-career Biochar researcher at Shenzhen University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.071572
+date: 2026-10-11T02:33:00.101779
 url: "/cdr-researcher-census/researchers/riying-qi-a5004801/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,9 +48,12 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Insight into synthesis and catalytic performance of mesoporous electroactive biochar for aqueous sulfide adsorptive oxidation** (2023)
-   11 citations · Biochar
+   12 citations · Biochar
 
-2. **MOF-Derived Cu/N-Doped Biochar Composites for Efficient H2S Removal: Dynamic Adsorption Behavior, Sulfur Conversion and Regeneration Performance** (2026)
+2. **Structure-performance relationship of MOF-derived cu/N-doped biochar composites for efficient H2S removal: Insights into adsorption and regeneration mechanisms** (2026)
+   0 citations · Biochar
+
+3. **MOF-Derived Cu/N-Doped Biochar Composites for Efficient H2S Removal: Dynamic Adsorption Behavior, Sulfur Conversion and Regeneration Performance** (2026)
    0 citations · Biochar
 
 ## External Profiles

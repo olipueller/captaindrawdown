@@ -1,7 +1,7 @@
 ---
 title: "Fei Fei Chen"
 description: "Fei Fei Chen is a Senior Enhanced Weathering researcher at Jeonju University in KR. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.708917
+date: 2026-10-11T02:32:59.729528
 url: "/cdr-researcher-census/researchers/fei-fei-chen-a5112724/"
 layout: "researcher"
 hiddenInHomeList: true

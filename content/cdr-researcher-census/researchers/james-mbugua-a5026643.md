@@ -1,7 +1,7 @@
 ---
 title: "James Mbugua"
 description: "James Mbugua is a Mid-career Biochar researcher at Tsuru University in JP. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.770660
+date: 2026-10-11T02:32:59.793514
 url: "/cdr-researcher-census/researchers/james-mbugua-a5026643/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The Role of Biochar in Sustainable Wastewater Management in Kenya: Current Practices, Challenges, and Future Prospects** (2025)
-   6 citations · Biochar
+   7 citations · Biochar
 
 2. **Biochar for Urban Climate Resilience in Nature-Based Solutions: A Bibliometric Review of Trends and Outlooks** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 3. **Harnessing Biochar for Urban Climate Resilience: Integrating Bioswales, Water Filtration, and Green Infrastructure** (2026)
    0 citations · Biochar

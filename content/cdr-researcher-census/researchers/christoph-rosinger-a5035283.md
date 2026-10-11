@@ -1,7 +1,7 @@
 ---
 title: "Christoph Rosinger"
 description: "Christoph Rosinger is a Senior Soil Carbon researcher at University of Cologne in DE. With 82 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.184700
+date: 2026-10-11T02:32:59.188918
 url: "/cdr-researcher-census/researchers/christoph-rosinger-a5035283/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    126 citations · Soil Carbon
 
 2. **On-farm soil organic carbon sequestration potentials are dominated by site effects, not by management practices** (2023)
-   41 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 3. **Changes in microbial physiology and carbon-use efficiency upon improving soil habitat conditions in conservation farming systems** (2024)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 4. **Benchmarking carbon sequestration potentials in arable soils by on-farm research on innovative pioneer farms** (2022)
    29 citations
@@ -74,10 +74,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 8. **Conservation tillage practices facilitate soil organic carbon sequestration and aggregate stability via fungal abundance and necromass** (2022)
    1 citations · Soil Carbon
 
-9. **Soil microbial resource limitation along a postmining chronosequence** (2026)
-   0 citations · Soil Carbon
+9. **Crop diversification – a lever to manipulate the soil microbial carbon pump towards enhanced carbon sequestration?** (2026)
+   0 citations
 
-10. **Cover crop diversification alters microbial life-death cycle and enhances carbon sequestration in agricultural soil** (2024)
+10. **Soil microbial resource limitation along a postmining chronosequence** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

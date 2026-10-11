@@ -1,7 +1,7 @@
 ---
 title: "Xianglong Xi"
 description: "Xianglong Xi is a Mid-career Soil Carbon researcher. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.481978
+date: 2026-10-11T02:32:59.493331
 url: "/cdr-researcher-census/researchers/xianglong-xi-a5029843/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Coral island primary succession improves soil aggregate distributions, organic carbon sequestration and turnover** (2025)
+1. **Carbon distribution characteristics and influencing factors in soil profiles under different land use types in the East Dongting Lake Wetlands** (2026)
+   0 citations
+
+2. **Coral island primary succession improves soil aggregate distributions, organic carbon sequestration and turnover** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

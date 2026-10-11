@@ -1,7 +1,7 @@
 ---
 title: "Jikai Lu"
 description: "Jikai Lu is a Mid-career Biochar researcher at Ocean University of China in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.114963
+date: 2026-10-11T02:33:00.145842
 url: "/cdr-researcher-census/researchers/jikai-lu-a5037724/"
 layout: "researcher"
 hiddenInHomeList: true

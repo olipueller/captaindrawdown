@@ -1,7 +1,7 @@
 ---
 title: "Kristine Karstens"
 description: "Kristine Karstens is a Mid-career General CDR researcher at Leibniz Association in DE. With 54 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.391804
+date: 2026-10-11T02:32:59.400066
 url: "/cdr-researcher-census/researchers/kristine-karstens-a5086008/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,40 +45,40 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 10 |
 | Citations | 622 |
 | Publications | 54 |
-| CDR Focus | 16.7% |
-| Trajectory | Stable |
+| CDR Focus | 20.4% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Exploring risks and benefits of overshooting a 1.5 °C carbon budget over space and time** (2023)
-   25 citations · General CDR
+   26 citations · General CDR
 
 2. **Food and land system transformations under different societal perspectives on sustainable development** (2024)
-   12 citations · General CDR
+   13 citations · General CDR
 
 3. **Exploring risks and benefits of overshooting a 1.5°C carbon budget over space and time** (2023)
    1 citations · General CDR
 
-4. **Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment** (2026)
+4. **Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7** (2026)
+   0 citations · General CDR
+
+5. **Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7** (2026)
+   0 citations · General CDR
+
+6. **Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment** (2026)
    0 citations · BECCS
 
-5. **Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment** (2026)
+7. **Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment** (2026)
    0 citations · BECCS
 
-6. **Carbon Dioxide Removal Supply Curves: A Multi-Model Assessment** (2026)
+8. **Carbon Dioxide Removal Supply Curves: A Multi-Model Assessment** (2026)
    0 citations · BECCS
 
-7. **Potential of combining biochar and enhanced weathering and impacts on soil organic carbon and biomass: PyMiCCS project results** (2026)
+9. **Potential of combining biochar and enhanced weathering and impacts on soil organic carbon and biomass: PyMiCCS project results** (2026)
    0 citations · Biochar
 
-8. **Scaling Carbon Dioxide Removal in Germany: Insights from the CDRterra Framework and Scenario** (2025)
+10. **Scaling Carbon Dioxide Removal in Germany: Insights from the CDRterra Framework and Scenario** (2025)
    0 citations · General CDR
-
-9. **Exploring risks and benefits of overshooting a 1.5 &amp;#9702;C carbon budget over space and time** (2024)
-   0 citations · General CDR
-
-10. **Exploring risks and benefits of overshooting a 1.5°C carbon budget over space and time** (2023)
-   0 citations
 
 ## External Profiles
 

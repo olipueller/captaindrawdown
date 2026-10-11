@@ -1,7 +1,7 @@
 ---
 title: "Rozainah Mohamad Zakaria"
 description: "Rozainah Mohamad Zakaria is a Mid-career Soil Carbon researcher at University of Malaya in MY. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.457111
+date: 2026-10-11T02:32:59.468285
 url: "/cdr-researcher-census/researchers/rozainah-mohamad-zakaria-a5040995/"
 layout: "researcher"
 hiddenInHomeList: true

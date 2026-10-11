@@ -1,7 +1,7 @@
 ---
 title: "Dali Song"
 description: "Dali Song is a Mid-career Soil Carbon researcher at Environment and Plant Protection Research Institute in CN. With 33 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.154179
+date: 2026-10-11T02:32:59.158478
 url: "/cdr-researcher-census/researchers/dali-song-a5063551/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Andreas Altinalmazis‐Kondylis"
 description: "Andreas Altinalmazis‐Kondylis is a Mid-career Soil Carbon researcher at Emisphere Technologies (United States) in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.371515
+date: 2026-10-11T02:33:00.407113
 url: "/cdr-researcher-census/researchers/andreas-altinalmaziskondylis-a5048738/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil secrets and tree tales: An in-depth comparison of carbon storage in mixed and pure stands of pine and birch** (2025)
-   5 citations · General CDR
+   6 citations · General CDR
 
 2. **Exploring inorganic carbon dynamics in soil via the Oxalate-carbonate pathway: A methodological approach for monitoring carbon dioxide removal** (2025)
    0 citations · General CDR

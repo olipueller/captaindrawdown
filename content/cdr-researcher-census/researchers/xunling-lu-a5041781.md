@@ -1,7 +1,7 @@
 ---
 title: "Xunling Lu"
 description: "Xunling Lu is a Senior Soil Carbon researcher at Henan University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.059069
+date: 2026-10-11T02:33:00.088870
 url: "/cdr-researcher-census/researchers/xunling-lu-a5041781/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of Land Reclamation on the Stability of Soil Organic Carbon Pool in Floodplains** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

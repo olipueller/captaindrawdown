@@ -1,7 +1,7 @@
 ---
 title: "Al Ibtida Sultana"
 description: "Al Ibtida Sultana is a Mid-career Biochar researcher at Los Alamos National Laboratory in US. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.671524
+date: 2026-10-11T02:32:59.691316
 url: "/cdr-researcher-census/researchers/al-ibtida-sultana-a5088917/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Recent Progress on Emerging Applications of Hydrochar** (2022)
-   67 citations · Biochar
+   68 citations · Biochar
 
 2. **Multifunctional Loblolly Pine-Derived Superactivated Hydrochar: Effect of Hydrothermal Carbonization on Hydrogen and Electron Storage with Carbon Dioxide and Dye Removal** (2022)
    17 citations · Biochar

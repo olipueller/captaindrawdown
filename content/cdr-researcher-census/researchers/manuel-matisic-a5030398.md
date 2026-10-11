@@ -1,7 +1,7 @@
 ---
 title: "Manuel Matišić"
 description: "Manuel Matišić is an Early-career Soil Carbon researcher at University of Zagreb in HR. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.337398
+date: 2026-10-11T02:33:00.371520
 url: "/cdr-researcher-census/researchers/manuel-matisic-a5030398/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Challenges in Sustainable Agriculture—The Role of Organic Amendments** (2024)
-   90 citations · General CDR
+   96 citations · General CDR
 
 2. **Cropping systems and amendment management impact on temporal soil carbon emissions and soil water content variability in Croatian croplands** (2025)
    0 citations · Soil Carbon

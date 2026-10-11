@@ -1,7 +1,7 @@
 ---
 title: "Simon Rufer"
 description: "Simon Rufer is a Mid-career Ocean CDR researcher at Massachusetts Institute of Technology in US. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.004840
+date: 2026-10-11T02:33:00.035792
 url: "/cdr-researcher-census/researchers/simon-rufer-a5012886/"
 layout: "researcher"
 hiddenInHomeList: true

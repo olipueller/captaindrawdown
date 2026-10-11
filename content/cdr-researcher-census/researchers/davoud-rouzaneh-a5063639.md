@@ -1,7 +1,7 @@
 ---
 title: "Davoud Rouzaneh"
 description: "Davoud Rouzaneh is a Mid-career Soil Carbon researcher at Ramin Agriculture and Natural Resources University of Khouzestan in IR. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.989493
+date: 2026-10-11T02:33:00.020377
 url: "/cdr-researcher-census/researchers/davoud-rouzaneh-a5063639/"
 layout: "researcher"
 hiddenInHomeList: true

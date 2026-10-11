@@ -1,7 +1,7 @@
 ---
 title: "Florian Möllenbruck"
 description: "Florian Möllenbruck is a Mid-career General CDR researcher at Mitsubishi Heavy Industries (Germany) in DE. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.175801
+date: 2026-10-11T02:33:00.205890
 url: "/cdr-researcher-census/researchers/florian-mollenbruck-a5033934/"
 layout: "researcher"
 hiddenInHomeList: true

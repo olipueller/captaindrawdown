@@ -1,7 +1,7 @@
 ---
 title: "Elif Günal"
 description: "Elif Günal is a Mid-career Soil Carbon researcher at Tokat Gaziosmanpaşa Üniversitesi in TR. With 40 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.667896
+date: 2026-10-11T02:32:59.687346
 url: "/cdr-researcher-census/researchers/elif-gunal-a5075971/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Improvement of spatial estimation for soil organic carbon stocks in Yuksekova plain using Sentinel 2 imagery and gradient descent–boosted regression tree** (2023)
-   24 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 2. **The impact of corncob biochar and poultry litter on pepper (Capsicum annuum L.) growth and chemical properties of a silty-clay soil** (2022)
-   19 citations · Biochar
+   20 citations · Biochar
 
 3. **Improvement of Spatial Estimation for Soil Organic Carbon Stocks in Yuksekova Plain using Sentinel 2 imagery and Gradient Descent Boosted Regression Tree** (2022)
    0 citations · Soil Carbon

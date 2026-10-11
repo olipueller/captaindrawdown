@@ -1,7 +1,7 @@
 ---
 title: "Yitzhak Jacobson"
 description: "Yitzhak Jacobson is a Mid-career Ocean CDR researcher at Israel Oceanographic and Limnological Research in IL. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.395372
+date: 2026-10-11T02:33:00.433657
 url: "/cdr-researcher-census/researchers/yitzhak-jacobson-a5035419/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Desalination brines as a potential vector for CO2 sequestration in the deep sea** (2023)
-   15 citations · General CDR
+   16 citations · General CDR
 
 ## External Profiles
 

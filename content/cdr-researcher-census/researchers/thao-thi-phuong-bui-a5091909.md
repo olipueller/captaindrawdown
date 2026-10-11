@@ -1,7 +1,7 @@
 ---
 title: "Thao Thi Phuong Bui"
 description: "Thao Thi Phuong Bui is a Mid-career Biochar researcher at Auckland University of Technology in NZ. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.704759
+date: 2026-10-11T02:32:59.725123
 url: "/cdr-researcher-census/researchers/thao-thi-phuong-bui-a5091909/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Life cycle assessment of both cement and sand-replaced biochar concrete** (2026)
-   2 citations · Biochar
+   5 citations · Biochar
 
 ## External Profiles
 

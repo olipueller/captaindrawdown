@@ -1,7 +1,7 @@
 ---
 title: "Bothwell Nyoni"
 description: "Bothwell Nyoni is a Mid-career Biochar researcher at Nelson Mandela University in ZA. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.631167
+date: 2026-10-11T02:32:59.649713
 url: "/cdr-researcher-census/researchers/bothwell-nyoni-a5016077/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Sustainable wastewater treatment: Mechanistic, environmental, and economic insights into biochar for synthetic dye removal** (2025)
-   30 citations · Biochar
+   37 citations · Biochar
 
 2. **The nexuses of micro(nano)plastics at environmental interfaces: Challenges in wastewater treatment and sustainable water management** (2025)
-   13 citations · Biochar
+   14 citations · Biochar
 
 3. **Effectiveness of African Wattle Tree (Peltophorum africanum) Biochar in Removing Carmoisine Dye from Wastewater** (2025)
    2 citations · Biochar

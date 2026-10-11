@@ -1,7 +1,7 @@
 ---
 title: "Vafa Feyzi"
 description: "Vafa Feyzi is a Mid-career DAC researcher at IMDEA Energy Institute in ES. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.881830
+date: 2026-10-11T02:32:59.909132
 url: "/cdr-researcher-census/researchers/vafa-feyzi-a5090987/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -52,6 +52,9 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 1. **Life cycle assessment of ionic liquid-based absorption direct air capture technology: Environmental trade-offs and comparison with conventional technologies** (2025)
    4 citations · DAC
+
+2. **Blue hydrogen production from hazardous flare gases incorporating a novel acid gas removal system: techno-econo-environmental assessment** (2026)
+   0 citations
 
 ## External Profiles
 

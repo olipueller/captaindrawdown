@@ -1,7 +1,7 @@
 ---
 title: "Ankita Trivedi"
 description: "Ankita Trivedi is a Senior Soil Carbon researcher at Sardar Vallabhbhai Patel University of Agriculture & Technology in IN. With 40 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.703840
+date: 2026-10-11T02:32:59.724137
 url: "/cdr-researcher-census/researchers/ankita-trivedi-a5002670/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Influence of Clay Mineralogy on Soil Organic Carbon Stabilization under Tropical Climate, India** (2022)
-   34 citations · Soil Carbon
+   35 citations · Soil Carbon
 
 2. **60 years of fertilization and liming impacts on soil organic carbon stabilization in a sub-tropical Alfisol** (2021)
    7 citations · Soil Carbon
@@ -59,7 +59,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Soil Health and Climate Change** (2024)
    5 citations · General CDR
 
-4. **Stability of Organic Carbon in Soil Under Rice and Non-Rice-Based Cropping Systems in Indo-Gangetic Plains of India** (2026)
+4. **Soil Fertility Management Strategies in Semi-Arid Dryland Ecosystem** (2026)
+   0 citations
+
+5. **Stability of Organic Carbon in Soil Under Rice and Non-Rice-Based Cropping Systems in Indo-Gangetic Plains of India** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

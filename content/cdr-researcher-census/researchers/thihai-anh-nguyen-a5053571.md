@@ -1,7 +1,7 @@
 ---
 title: "Thi‐Hai Anh Nguyen"
 description: "Thi‐Hai Anh Nguyen is a Mid-career Biochar researcher at University of Ulsan in KR. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.251180
+date: 2026-10-11T02:33:00.280994
 url: "/cdr-researcher-census/researchers/thihai-anh-nguyen-a5053571/"
 layout: "researcher"
 hiddenInHomeList: true

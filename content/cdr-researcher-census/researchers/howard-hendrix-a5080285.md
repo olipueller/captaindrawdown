@@ -1,7 +1,7 @@
 ---
 title: "Howard Hendrix"
 description: "Howard Hendrix is a Senior DAC researcher at Hendrix College in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.222447
+date: 2026-10-11T02:33:00.252998
 url: "/cdr-researcher-census/researchers/howard-hendrix-a5080285/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    21 citations · DAC
 
 2. **Greenhouse Gas Impact of Algal Bio-Crude Production for a Range of CO2 Supply Scenarios** (2021)
-   13 citations
+   14 citations
 
 3. **Positive Power with Negative Emission Flexible NGCC Enable by Modular Direct Air Capture (Final Report)** (2022)
    1 citations · DAC

@@ -1,7 +1,7 @@
 ---
 title: "Ignacio Sevillano"
 description: "Ignacio Sevillano is a Senior Soil Carbon researcher at Norwegian Institute of Bioeconomy Research in NO. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.971598
+date: 2026-10-11T02:33:00.003189
 url: "/cdr-researcher-census/researchers/ignacio-sevillano-a5034353/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,9 +51,12 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Improved forest management for increased carbon sequestration: An assessment of the most prominent approaches in Norway** (2025)
-   10 citations · General CDR
+   11 citations · General CDR
 
-2. **Improved Forest Management for Increased Carbon Sequestration: An Assessment of the Most Prominent Approaches in Norway** (2024)
+2. **From breeding to landscape: how genetic improvement and forest management shape multifunctionality in Norway** (2026)
+   0 citations
+
+3. **Improved Forest Management for Increased Carbon Sequestration: An Assessment of the Most Prominent Approaches in Norway** (2024)
    0 citations · General CDR
 
 ## External Profiles

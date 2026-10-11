@@ -1,7 +1,7 @@
 ---
 title: "Claudia Günther"
 description: "Claudia Günther is a Mid-career General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.300399
+date: 2026-10-11T02:33:00.331420
 url: "/cdr-researcher-census/researchers/claudia-gunther-a5108923/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    10 citations · General CDR
 
 2. **How the EU can utilize its carbon market to scale up carbon dioxide removal** (2026)
-   3 citations · BECCS
+   4 citations · BECCS
 
 3. **How the EU can utilize its carbon market to scale up carbon dioxide removal** (2026)
    0 citations · General CDR

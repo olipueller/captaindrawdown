@@ -1,7 +1,7 @@
 ---
 title: "Yuxin Xiao"
 description: "Yuxin Xiao is a Mid-career Biochar researcher at Tianjin University of Science and Technology in CN. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.759178
+date: 2026-10-11T02:32:59.782036
 url: "/cdr-researcher-census/researchers/yuxin-xiao-a5067515/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synthesis of magnetic biochar-supported Fe-Cu bimetallic catalyst from pulp and paper mill wastes for the Fenton-like removal of rhodamine B dye** (2023)
-   50 citations · Biochar
+   54 citations · Biochar
 
 2. **Metal-modified biochars prepared from blue algae and their ability of adsorbing phosphates from water and utilization as soil amendment** (2024)
    19 citations · Biochar

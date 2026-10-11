@@ -1,7 +1,7 @@
 ---
 title: "Walter Mucha"
 description: "Walter Mucha is a Senior Biochar researcher at Silesian University of Technology in PL. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.097534
+date: 2026-10-11T02:33:00.128260
 url: "/cdr-researcher-census/researchers/walter-mucha-a5062327/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jiannan Xiao"
 description: "Jiannan Xiao is a Senior Soil Carbon researcher at Chinese University of Hong Kong in HK. With 47 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.204066
+date: 2026-10-11T02:32:59.208353
 url: "/cdr-researcher-census/researchers/jiannan-xiao-a5100620/"
 layout: "researcher"
 hiddenInHomeList: true

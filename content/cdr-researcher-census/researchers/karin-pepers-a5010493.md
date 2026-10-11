@@ -1,7 +1,7 @@
 ---
 title: "Karin Pepers"
 description: "Karin Pepers is a Mid-career Soil Carbon researcher at Avans University of Applied Sciences in NL. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.279450
+date: 2026-10-11T02:33:00.309551
 url: "/cdr-researcher-census/researchers/karin-pepers-a5010493/"
 layout: "researcher"
 hiddenInHomeList: true

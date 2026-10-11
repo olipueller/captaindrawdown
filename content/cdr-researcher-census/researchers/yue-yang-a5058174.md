@@ -1,7 +1,7 @@
 ---
 title: "Yue Yang"
 description: "Yue Yang is a Mid-career Soil Carbon researcher at Chengde Medical University in CN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.248816
+date: 2026-10-11T02:33:00.278629
 url: "/cdr-researcher-census/researchers/yue-yang-a5058174/"
 layout: "researcher"
 hiddenInHomeList: true

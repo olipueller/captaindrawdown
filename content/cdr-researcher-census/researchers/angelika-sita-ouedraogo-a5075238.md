@@ -1,7 +1,7 @@
 ---
 title: "Angelika Sita Ouedraogo"
 description: "Angelika Sita Ouedraogo is a Mid-career Biochar researcher at Oklahoma State University in US. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.443777
+date: 2026-10-11T02:32:59.454138
 url: "/cdr-researcher-census/researchers/angelika-sita-ouedraogo-a5075238/"
 layout: "researcher"
 hiddenInHomeList: true

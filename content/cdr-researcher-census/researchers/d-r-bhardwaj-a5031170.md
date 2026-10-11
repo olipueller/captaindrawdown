@@ -1,7 +1,7 @@
 ---
 title: "D. R. Bhardwaj"
 description: "D. R. Bhardwaj is a Senior Soil Carbon researcher at Dr. Yashwant Singh Parmar University of Horticulture and Forestry in IN. With 149 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.155754
+date: 2026-10-11T02:32:59.160194
 url: "/cdr-researcher-census/researchers/d-r-bhardwaj-a5031170/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biomass Production and Carbon Sequestration Potential of Different Agroforestry Systems in India: A Critical Review** (2022)
-   101 citations · BECCS
+   103 citations · BECCS
 
 2. **Climate Resilient Agroforestry Systems for Sustainable Land Use and Livelihood** (2024)
-   43 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 3. **Agroforestry systems in the mid-hills of the north-western Himalaya: A sustainable pathway to improved soil health and climate resilience** (2023)
    40 citations · General CDR
@@ -66,16 +66,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    22 citations · General CDR
 
 6. **Biomass Partitioning, Carbon Storage, and Pea (Pisum sativum L.) Crop Production under a Grewia optiva-Based Agroforestry System in the Mid-Hills of the Northwestern Himalayas** (2024)
-   9 citations · General CDR
+   11 citations · General CDR
 
 7. **Carbon stock inventory and biomass production in different land use systems of Northwestern Himalaya** (2023)
-   8 citations · General CDR
+   9 citations · General CDR
 
-8. **Traditional Grewia optiva based agroforestry systems in the northwestern himalayas: a comprehensive study of carbon, soil health, and nutritional value** (2025)
+8. **Land use and altitudinal variability in biomass and carbon storage potential in mid-hill and sub-humid conditions of north-western Himalayas** (2024)
+   4 citations · Soil Carbon
+
+9. **Traditional Grewia optiva based agroforestry systems in the northwestern himalayas: a comprehensive study of carbon, soil health, and nutritional value** (2025)
    3 citations · General CDR
-
-9. **Land use and altitudinal variability in biomass and carbon storage potential in mid-hill and sub-humid conditions of north-western Himalayas** (2024)
-   3 citations · Soil Carbon
 
 10. **Land use impacts on soil aggregation and carbon storage in the dry temperate himalayas: strategies for sustainable ecosystem management** (2025)
    2 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Weifang Hu"
 description: "Weifang Hu is a Mid-career Soil Carbon researcher at Guangdong Academy of Agricultural Sciences in CN. With 38 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.122669
+date: 2026-10-11T02:32:59.127286
 url: "/cdr-researcher-census/researchers/weifang-hu-a5057350/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    34 citations · Soil Carbon
 
 2. **Associations of soil Fe oxides and organic carbon vary in different aggregate fractions under warming** (2023)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 3. **Vegetation restoration in the coarse‐textured soil area is more conducive to the accumulation of Fe‐associated C** (2024)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 4. **Typical mineral additions promote soil mineral-associated organic carbon sequestration: Interactions between Fe oxides and microbial-derived peptides** (2026)
    3 citations · Soil Carbon

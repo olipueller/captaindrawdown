@@ -1,7 +1,7 @@
 ---
 title: "Jiaheng Shen"
 description: "Jiaheng Shen is a Mid-career Ocean CDR researcher at Peking University in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.208813
+date: 2026-10-11T02:33:00.238541
 url: "/cdr-researcher-census/researchers/jiaheng-shen-a5032302/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -59,7 +59,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 3. **Kinetic isotope effect of decomposing fatty acids in the continental shelf sediment of the northern South China Sea** (2024)
    1 citations · Ocean CDR
 
-4. **Erosion-driven Delayed Warming and Marine Stress prior to the end-Permian Mass Extinction** (2025)
+4. **Enhanced water-column denitrification and marine anoxia during the end-Guadalupian biotic crisis** (2026)
+   0 citations
+
+5. **Erosion-driven Delayed Warming and Marine Stress prior to the end-Permian Mass Extinction** (2025)
    0 citations
 
 ## External Profiles

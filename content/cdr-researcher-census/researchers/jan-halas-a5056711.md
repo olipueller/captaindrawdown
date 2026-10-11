@@ -1,7 +1,7 @@
 ---
 title: "Ján Halas"
 description: "Ján Halas is a Senior Soil Carbon researcher at National Agricultural and Food Centre in SK. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.149151
+date: 2026-10-11T02:33:00.178534
 url: "/cdr-researcher-census/researchers/jan-halas-a5056711/"
 layout: "researcher"
 hiddenInHomeList: true

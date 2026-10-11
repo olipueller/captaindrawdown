@@ -1,7 +1,7 @@
 ---
 title: "Dongbao Sun"
 description: "Dongbao Sun is a Mid-career Soil Carbon researcher at Institute of Environment and Sustainable Development in Agriculture in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.538990
+date: 2026-10-11T02:32:59.554003
 url: "/cdr-researcher-census/researchers/dongbao-sun-a5012662/"
 layout: "researcher"
 hiddenInHomeList: true

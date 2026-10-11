@@ -1,7 +1,7 @@
 ---
 title: "Pragya Paudel"
 description: "Pragya Paudel is an Early-career Biochar researcher at Purbanchal University in NP. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.783546
+date: 2026-10-11T02:32:59.807606
 url: "/cdr-researcher-census/researchers/pragya-paudel-a5012782/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar application: A sustainable approach to improve soil health** (2023)
-   256 citations · Biochar
+   258 citations · Biochar
 
 ## External Profiles
 

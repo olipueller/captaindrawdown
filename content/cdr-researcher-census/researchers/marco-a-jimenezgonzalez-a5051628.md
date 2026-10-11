@@ -1,7 +1,7 @@
 ---
 title: "Marco A. Jiménez‐González"
 description: "Marco A. Jiménez‐González is a Mid-career Soil Carbon researcher at Universidad Autónoma de Madrid in ES. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.486677
+date: 2026-10-11T02:32:59.498315
 url: "/cdr-researcher-census/researchers/marco-a-jimenezgonzalez-a5051628/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -58,6 +58,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 3. **Chemical diversity and molecular signature of soil humic fractions used as proxies of soil quality under contrasted tillage management** (2021)
    5 citations · Soil Carbon
+
+4. **Patterns of water-extractable organic matter across management and depth in Mediterranean perennial cropping systems** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

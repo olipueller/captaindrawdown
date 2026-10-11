@@ -1,7 +1,7 @@
 ---
 title: "Subhashree Patra"
 description: "Subhashree Patra is a Mid-career Soil Carbon researcher at Suzuki (Japan) in JP. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.987437
+date: 2026-10-11T02:33:00.018301
 url: "/cdr-researcher-census/researchers/subhashree-patra-a5045508/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Traditional Agroecosystems of Northeast India and Their Role in Climate Change Mitigation** (2024)
-   5 citations · General CDR
+   6 citations · General CDR
 
 ## External Profiles
 

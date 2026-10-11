@@ -1,7 +1,7 @@
 ---
 title: "Oluwadamilola Oluwatoyin Hazzan"
 description: "Oluwadamilola Oluwatoyin Hazzan is a Mid-career Biochar researcher at Northwest University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.364272
+date: 2026-10-11T02:33:00.400116
 url: "/cdr-researcher-census/researchers/oluwadamilola-oluwatoyin-hazzan-a5109667/"
 layout: "researcher"
 hiddenInHomeList: true

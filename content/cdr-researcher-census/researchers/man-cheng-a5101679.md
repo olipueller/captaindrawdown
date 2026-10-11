@@ -1,7 +1,7 @@
 ---
 title: "Man Cheng"
 description: "Man Cheng is a Mid-career Soil Carbon researcher at Chinese Academy of Tropical Agricultural Sciences in CN. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.307468
+date: 2026-10-11T02:32:59.312795
 url: "/cdr-researcher-census/researchers/man-cheng-a5101679/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term Conservation Agriculture increases sulfur pools in soils together with increased soil organic carbon compared to conventional practices** (2022)
-   47 citations · Soil Carbon
+   46 citations · Soil Carbon
 
 2. **Soil Organic Carbon Sequestration under Long-Term Chemical and Manure Fertilization in a Cinnamon Soil, Northern China** (2022)
    22 citations · Soil Carbon
 
 3. **Soil aggregate carbon stocks and sequestration efficiency under long-term fertilization across China’s croplands** (2025)
-   5 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 4. **Organic–Inorganic Fertilization Enhances Soil Carbon but Weakens Its Stability via Reduced Microbial Necromass in Reclaimed Mining Land** (2026)
    3 citations
@@ -65,7 +65,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Shifts in biotic and abiotic controls of soil organic carbon mineralization across vegetation types and soil depths in Luya Mountain** (2025)
    3 citations · Soil Carbon
 
-6. **Unveiling the Carbon Secrets: How Forestry Projects Transform Biomass and Soil Carbon on the Tibet Plateau** (2025)
+6. **Vegetation-Mediated Soil Organic Carbon Differentiation and Carbon Sequestration Strategies in a Typical Wetland of the North China Plain** (2026)
+   1 citations · Soil Carbon
+
+7. **Unveiling the Carbon Secrets: How Forestry Projects Transform Biomass and Soil Carbon on the Tibet Plateau** (2025)
    1 citations · General CDR
 
 ## External Profiles

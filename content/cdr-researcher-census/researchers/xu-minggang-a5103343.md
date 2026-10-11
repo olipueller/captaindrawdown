@@ -1,7 +1,7 @@
 ---
 title: "Xu MingGang"
 description: "Xu MingGang is a Senior Soil Carbon researcher at North China University of Technology in CN. With 54 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.594930
+date: 2026-10-11T02:32:59.611805
 url: "/cdr-researcher-census/researchers/xu-minggang-a5103343/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,12 +48,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term fertilization enhanced carbon mineralization and maize biomass through physical protection of organic carbon in fractions under continuous maize cropping** (2021)
-   88 citations · Soil Carbon
+   87 citations · Soil Carbon
 
 2. **Stability of soil organic carbon under long-term fertilization: Results from 13C NMR analysis and laboratory incubation** (2021)
-   76 citations · Soil Carbon
+   75 citations · Soil Carbon
 
-3. **Adsorption characteristics of dissolved organic carbon under different fertilization treatments in typical farmland soils in China** (2022)
+3. **Physically separated soil organic matter pools as indicators of carbon and nitrogen change under long-term fertilization in a Chinese Mollisol** (2022)
+   21 citations
+
+4. **Adsorption characteristics of dissolved organic carbon under different fertilization treatments in typical farmland soils in China** (2022)
    1 citations · Soil Carbon
 
 ## External Profiles

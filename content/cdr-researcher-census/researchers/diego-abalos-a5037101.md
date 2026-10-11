@@ -1,7 +1,7 @@
 ---
 title: "Diego Ábalos"
 description: "Diego Ábalos is a Senior Soil Carbon researcher at Aarhus University in DK. With 147 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.041518
+date: 2026-10-11T02:32:59.044716
 url: "/cdr-researcher-census/researchers/diego-abalos-a5037101/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A review and meta-analysis of mitigation measures for nitrous oxide emissions from crop residues** (2022)
-   129 citations · Soil Carbon
+   132 citations · Soil Carbon
 
 2. **Synthesizing the evidence of nitrous oxide mitigation practices in agroecosystems** (2022)
-   64 citations · Soil Carbon
+   65 citations · Soil Carbon
 
 3. **Ten-year effects of perennial cropping systems on soil organic carbon stock and stability in sandy soils: Mechanisms and biochemical drivers** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 4. **Microbial and plant-derived carbon contributions to particulate and mineral-associated organic carbon in perennial and annual cropping systems** (2026)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 5. **Symbiosis Type in Nitrogen Fixing Trees Determines Soil Greenhouse Gas Emissions: A Global Meta‐Analysis** (2026)
    1 citations · Soil Carbon

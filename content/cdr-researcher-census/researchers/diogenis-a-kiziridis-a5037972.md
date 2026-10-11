@@ -1,7 +1,7 @@
 ---
 title: "Diogenis A. Kiziridis"
 description: "Diogenis A. Kiziridis is a Mid-career Soil Carbon researcher at Forest Research Institute, Hellenic Agricultural Organization \"DIMITRA\" in GR. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.192774
+date: 2026-10-11T02:33:00.222812
 url: "/cdr-researcher-census/researchers/diogenis-a-kiziridis-a5037972/"
 layout: "researcher"
 hiddenInHomeList: true

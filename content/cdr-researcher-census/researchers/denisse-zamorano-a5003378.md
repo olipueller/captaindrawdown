@@ -1,7 +1,7 @@
 ---
 title: "Denisse Zamorano"
 description: "Denisse Zamorano is a Mid-career Soil Carbon researcher at Universidad de La Frontera in CL. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.126050
+date: 2026-10-11T02:33:00.156456
 url: "/cdr-researcher-census/researchers/denisse-zamorano-a5003378/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Management and liming-induced changes in organo-Al/Fe complexes and amorphous mineral-associated organic carbon: Implications for carbon sequestration in volcanic soils** (2024)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 2. **Perspective of soil carbon sequestration in Chilean volcanic soils** (2024)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 ## External Profiles
 

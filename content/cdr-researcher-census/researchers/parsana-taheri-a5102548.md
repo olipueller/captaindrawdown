@@ -1,7 +1,7 @@
 ---
 title: "Parsana Taheri"
 description: "Parsana Taheri is an Early-career Biochar researcher. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.365381
+date: 2026-10-11T02:33:00.401101
 url: "/cdr-researcher-census/researchers/parsana-taheri-a5102548/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Advanced adsorbents for ibuprofen removal from aquatic environments: a review** (2023)
-   106 citations · Biochar
+   109 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Nida Jabeen"
 description: "Nida Jabeen is an Early-career Biochar researcher at Chongqing University of Posts and Telecommunications in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.329259
+date: 2026-10-11T02:33:00.362783
 url: "/cdr-researcher-census/researchers/nida-jabeen-a5093017/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The role of biochar in enhancing soil health &amp; interactions with rhizosphere properties and enzyme activities in organic fertilizer substitution** (2025)
-   96 citations · Biochar
+   107 citations · Biochar
 
 ## External Profiles
 

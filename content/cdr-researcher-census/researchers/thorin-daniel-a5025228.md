@@ -1,7 +1,7 @@
 ---
 title: "Thorin Daniel"
 description: "Thorin Daniel is a Mid-career DAC researcher at University of Surrey in GB. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.290475
+date: 2026-10-11T02:33:00.320701
 url: "/cdr-researcher-census/researchers/thorin-daniel-a5025228/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Techno-economic Analysis of Direct Air Carbon Capture with CO2 Utilisation** (2021)
-   74 citations · DAC
+   75 citations · DAC
 
 ## External Profiles
 

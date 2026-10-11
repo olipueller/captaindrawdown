@@ -1,7 +1,7 @@
 ---
 title: "Benedikt Nilges"
 description: "Benedikt Nilges is a Mid-career DAC researcher at RWTH Aachen University in DE. With 27 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.378173
+date: 2026-10-11T02:33:00.413941
 url: "/cdr-researcher-census/researchers/benedikt-nilges-a5103178/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Low-cost negative emissions by demand-side management for adsorption-based direct air carbon capture and storage** (2025)
-   21 citations · DAC
+   22 citations · DAC
 
 2. **Demand-Side Management for Direct Air Carbon Capture and Storage: An Enabler for Low-Cost Negative Emissions?** (2023)
    0 citations · DAC

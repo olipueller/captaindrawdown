@@ -1,7 +1,7 @@
 ---
 title: "Magdalena Sut‐Lohmann"
 description: "Magdalena Sut‐Lohmann is a Mid-career Soil Carbon researcher at Technische Universität Braunschweig in DE. With 40 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.747808
+date: 2026-10-11T02:32:59.769896
 url: "/cdr-researcher-census/researchers/magdalena-sutlohmann-a5001842/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Adam R. Zeilinger"
 description: "Adam R. Zeilinger is a Senior Soil Carbon researcher at University of California Berkeley in US. With 34 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.250733
+date: 2026-10-11T02:32:59.254599
 url: "/cdr-researcher-census/researchers/adam-r-zeilinger-a5085521/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Investigating Ecosystem-Scale Responses to Compost Amendments in a Grazed Grassland** (2023)
-   9 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 2. **Compost Amendment to a Grazed California Annual Grassland Increases Gross Primary Productivity Due To a Longer Growing Season** (2023)
    6 citations · Soil Carbon

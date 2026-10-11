@@ -1,7 +1,7 @@
 ---
 title: "Lisa Schile-Beers"
 description: "Lisa Schile-Beers is a Mid-career Soil Carbon researcher at Smithsonian Environmental Research Center in US. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.186794
+date: 2026-10-11T02:32:59.190891
 url: "/cdr-researcher-census/researchers/lisa-schile-beers-a5028902/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Incorporation of uncertainty to improve projections of tidal wetland elevation and carbon accumulation with sea-level rise** (2021)
-   33 citations · Soil Carbon
+   35 citations · Soil Carbon
 
 ## External Profiles
 

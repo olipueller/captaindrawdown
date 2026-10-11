@@ -1,7 +1,7 @@
 ---
 title: "Nina Hennings"
 description: "Nina Hennings is a Mid-career Soil Carbon researcher at University of Göttingen in DE. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.234981
+date: 2026-10-11T02:32:59.238408
 url: "/cdr-researcher-census/researchers/nina-hennings-a5039471/"
 layout: "researcher"
 hiddenInHomeList: true

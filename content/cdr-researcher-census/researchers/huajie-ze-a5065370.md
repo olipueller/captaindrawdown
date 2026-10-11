@@ -1,7 +1,7 @@
 ---
 title: "Huajie Ze"
 description: "Huajie Ze is a Mid-career General CDR researcher at Northwestern University in US. With 31 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.201597
+date: 2026-10-11T02:32:59.205641
 url: "/cdr-researcher-census/researchers/huajie-ze-a5065370/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,16 +48,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Recoverable operation strategy for selective and stable electrochemical carbon dioxide reduction to methane** (2025)
-   24 citations
+   28 citations
 
 2. **Electrosynthesis of CO from an electrically pH-shifted DAC post-capture liquid using a catalyst:support amide linkage** (2025)
-   19 citations
+   20 citations
 
-3. **Electrified reversible surface mineralization of CO2 for direct air capture** (2026)
-   8 citations
+3. **Dilute alloy electrocatalysts enable asymmetric C–C coupling for ethylene production from a CO2 post-capture liquid** (2026)
+   9 citations · General CDR
 
-4. **Dilute alloy electrocatalysts enable asymmetric C–C coupling for ethylene production from a CO2 post-capture liquid** (2026)
-   6 citations · General CDR
+4. **Electrified reversible surface mineralization of CO2 for direct air capture** (2026)
+   9 citations
 
 5. **Electrified release of pure CO <sub>2</sub> from postcapture liquid: A two-stage system lowers the total energy cost** (2026)
    3 citations · DAC

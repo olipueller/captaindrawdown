@@ -1,7 +1,7 @@
 ---
 title: "Weigen Huang"
 description: "Weigen Huang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.399186
+date: 2026-10-11T02:32:59.408327
 url: "/cdr-researcher-census/researchers/weigen-huang-a5111165/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Enhancement of rice production and soil carbon sequestration utilizing nitrogen-fixing cyanobacteria** (2025)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 ## External Profiles
 

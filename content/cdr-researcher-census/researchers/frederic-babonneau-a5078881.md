@@ -1,7 +1,7 @@
 ---
 title: "Frédéric Babonneau"
 description: "Frédéric Babonneau is a Senior General CDR researcher at Ordecsys (Switzerland) in CL. With 109 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.216157
+date: 2026-10-11T02:32:59.220064
 url: "/cdr-researcher-census/researchers/frederic-babonneau-a5078881/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,22 +57,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    22 citations · DAC
 
 3. **GCC Countries Strategic Options in a Global Transition to Zero-Net Emissions** (2023)
-   13 citations · General CDR
+   17 citations · General CDR
 
 4. **Reaching Paris Agreement goal through carbon dioxide removal development: A compact OR model** (2022)
-   10 citations · General CDR
+   11 citations · General CDR
 
 5. **GCC countries strategic options in a global transition to zero-net emissions** (2022)
    6 citations · DAC
 
 6. **A robust asymptotic control model to analyze climate policy with CDR options** (2025)
-   3 citations · General CDR
+   4 citations · General CDR
 
 7. **A Robust Asymptotic Control Model to Analyze Climate Policy with CDR Options** (2024)
    3 citations · General CDR
 
 8. **A robust infinite-horizon optimal control approach to climate economics** (2025)
-   1 citations · General CDR
+   2 citations · General CDR
 
 9. **Hydrogen Technology Pathways in Metropolitan Energy Systems: An Application to Montréal** (2026)
    0 citations

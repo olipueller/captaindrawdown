@@ -1,7 +1,7 @@
 ---
 title: "Kai Zhuang"
 description: "Kai Zhuang is a Senior General CDR researcher at Xiamen Tobacco Industry (China) in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.789712
+date: 2026-10-11T02:32:59.813508
 url: "/cdr-researcher-census/researchers/kai-zhuang-a5021058/"
 layout: "researcher"
 hiddenInHomeList: true

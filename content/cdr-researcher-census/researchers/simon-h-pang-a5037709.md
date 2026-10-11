@@ -1,7 +1,7 @@
 ---
 title: "Simon H. Pang"
 description: "Simon H. Pang is a Senior General CDR researcher at Lawrence Livermore National Laboratory in US. With 99 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.075208
+date: 2026-10-11T02:32:59.080030
 url: "/cdr-researcher-census/researchers/simon-h-pang-a5037709/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 29 |
 | Citations | 3,408 |
 | Publications | 99 |
-| CDR Focus | 8.1% |
+| CDR Focus | 9.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Contributions of CO <sub>2</sub> , O <sub>2</sub> , and H <sub>2</sub> O to the Oxidative Stability of Solid Amine Direct Air Capture Sorbents at Intermediate Temperature** (2023)
-   68 citations
+   71 citations
 
 2. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   62 citations · General CDR
+   61 citations · General CDR
 
 3. **Volatile Products of the Autoxidation of Poly(ethylenimine) in CO<sub>2</sub> Sorbents** (2022)
    35 citations
@@ -63,22 +63,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    31 citations
 
 5. **Fundamental Insight into Humid CO <sub>2</sub> Uptake in Direct Air Capture Nanocomposites Using Fluorescence and Portable NMR Relaxometry** (2023)
-   29 citations
+   30 citations
 
 6. **Probing the Kinetic Origin of Varying Oxidative Stability of Ethyl‐ vs. Propyl‐spaced Amines for Direct Air Capture** (2022)
-   26 citations
+   24 citations
 
-7. **Competing Kinetic Consequences of CO<sub>2</sub> on the Oxidative Degradation of Branched Poly(ethylenimine)** (2024)
-   18 citations
+7. **Understanding and mitigating degradation in amine-based sorbents for CO2 direct air capture** (2026)
+   20 citations
 
-8. **Fluorescent Probe of Aminopolymer Mobility in Bulk and in Nanoconfined Direct Air CO<sub>2</sub> Capture Supports** (2022)
+8. **Competing Kinetic Consequences of CO<sub>2</sub> on the Oxidative Degradation of Branched Poly(ethylenimine)** (2024)
+   19 citations
+
+9. **Application of Solid-Supported Amines for Thermocatalytic Reactive CO<sub>2</sub> Capture** (2025)
+   16 citations · DAC
+
+10. **Fluorescent Probe of Aminopolymer Mobility in Bulk and in Nanoconfined Direct Air CO<sub>2</sub> Capture Supports** (2022)
    16 citations
-
-9. **Understanding and mitigating degradation in amine-based sorbents for CO2 direct air capture** (2026)
-   15 citations
-
-10. **Application of Solid-Supported Amines for Thermocatalytic Reactive CO<sub>2</sub> Capture** (2025)
-   14 citations · DAC
 
 ## External Profiles
 

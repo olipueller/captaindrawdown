@@ -1,7 +1,7 @@
 ---
 title: "Shuailin Li"
 description: "Shuailin Li is a Mid-career Soil Carbon researcher at Institute of Applied Ecology Chinese Academy of Sciences in CN. With 38 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.251243
+date: 2026-10-11T02:32:59.255131
 url: "/cdr-researcher-census/researchers/shuailin-li-a5088148/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial nutrient limitations limit carbon sequestration but promote nitrogen and phosphorus cycling: A case study in an agroecosystem with long-term straw return** (2023)
-   64 citations · Soil Carbon
+   66 citations · Soil Carbon
 
 2. **Applying biochar under topsoil facilitates soil carbon sequestration: A case study in a dryland agricultural system on the Loess Plateau** (2021)
    19 citations · Biochar

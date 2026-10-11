@@ -1,7 +1,7 @@
 ---
 title: "R.R. Ratnayake"
 description: "R.R. Ratnayake is a Mid-career Soil Carbon researcher at National Institute of Fundamental Studies in LK. With 40 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.675125
+date: 2026-10-11T02:32:59.694861
 url: "/cdr-researcher-census/researchers/rr-ratnayake-a5019977/"
 layout: "researcher"
 hiddenInHomeList: true

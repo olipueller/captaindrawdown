@@ -1,7 +1,7 @@
 ---
 title: "M. K. Gajendra Babu"
 description: "M. K. Gajendra Babu is a Senior DAC researcher at University of California, Riverside in US. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.044087
+date: 2026-10-11T02:33:00.075069
 url: "/cdr-researcher-census/researchers/m-k-gajendra-babu-a5103030/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Forging a sustainable sky: Unveiling the pillars of aviation e-fuel production for carbon emission circularity** (2024)
-   71 citations · DAC
+   73 citations · DAC
 
 ## External Profiles
 

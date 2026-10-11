@@ -1,7 +1,7 @@
 ---
 title: "A SENGUPTA"
 description: "A SENGUPTA is a Senior DAC researcher at Lehigh University in US. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.524854
+date: 2026-10-11T02:32:59.538760
 url: "/cdr-researcher-census/researchers/a-sengupta-a5008283/"
 layout: "researcher"
 hiddenInHomeList: true

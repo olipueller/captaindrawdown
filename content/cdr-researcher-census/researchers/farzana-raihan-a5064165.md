@@ -1,7 +1,7 @@
 ---
 title: "Farzana Raihan"
 description: "Farzana Raihan is a Mid-career Soil Carbon researcher at IPB University in ID. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.444757
+date: 2026-10-11T02:32:59.455245
 url: "/cdr-researcher-census/researchers/farzana-raihan-a5064165/"
 layout: "researcher"
 hiddenInHomeList: true

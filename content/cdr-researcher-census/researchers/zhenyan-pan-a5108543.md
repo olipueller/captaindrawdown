@@ -1,7 +1,7 @@
 ---
 title: "Zhenyan Pan"
 description: "Zhenyan Pan is a Senior Biochar researcher at Yantai Academy of Agricultural Sciences in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.858167
+date: 2026-10-11T02:32:59.885036
 url: "/cdr-researcher-census/researchers/zhenyan-pan-a5108543/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **DFT study on adsorption of Pb(Ⅱ) by biochar: focusing on molecular structure and alkali and alkaline earth metals** (2025)
-   14 citations · Biochar
+   15 citations · Biochar
 
 ## External Profiles
 

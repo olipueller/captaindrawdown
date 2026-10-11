@@ -1,7 +1,7 @@
 ---
 title: "Junzhen Li"
 description: "Junzhen Li is a Mid-career Biochar researcher at Sichuan University in CN. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.125547
+date: 2026-10-11T02:33:00.155945
 url: "/cdr-researcher-census/researchers/junzhen-li-a5077374/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    3 citations
 
 2. **Spartina alterniflora-Derived Biochar Alters Biomass Allocation and Root Traits of Native Scirpus mariqueter** (2025)
-   0 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

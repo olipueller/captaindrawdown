@@ -1,7 +1,7 @@
 ---
 title: "Mingshuang Xu"
 description: "Mingshuang Xu is a Senior Soil Carbon researcher at Huazhong Agricultural University in CN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.430381
+date: 2026-10-11T02:32:59.440604
 url: "/cdr-researcher-census/researchers/mingshuang-xu-a5001922/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Integrated rice-aquatic animals culture systems promote the sustainable development of agriculture by improving soil fertility and reducing greenhouse gas emissions** (2023)
-   42 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 2. **Rice-crayfish farming increases soil organic carbon sequestration by promoting aggregate protection and microbial necromass accumulation** (2025)
-   15 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 3. **Rice-Crayfish Farming Increases Soil Organic Carbon Sequestration by Promoting Soil Aggregate Protection and Microbial Necromass Accumulation** (2024)
    0 citations · Soil Carbon

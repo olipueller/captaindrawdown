@@ -1,7 +1,7 @@
 ---
 title: "Wen Feng"
 description: "Wen Feng is a Mid-career Biochar researcher at Qingdao University of Science and Technology in CN. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.147197
+date: 2026-10-11T02:33:00.176796
 url: "/cdr-researcher-census/researchers/wen-feng-a5108818/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Guoqi Wen"
 description: "Guoqi Wen is a Mid-career Soil Carbon researcher at Université Laval in CA. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.439516
+date: 2026-10-11T02:32:59.449688
 url: "/cdr-researcher-census/researchers/guoqi-wen-a5049432/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of 3-year biochar application on carbon sequestration, nitrogen retention and nitrate leaching of fluvo-aquic soil profiles in vegetable rotation fields** (2024)
-   29 citations · Biochar
+   32 citations · Biochar
 
 2. **Foliar Application of Biostimulants Alleviates Water Stress in Canola ( <i>Brassica napus</i> L.)** (2025)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Lorena Jacqueline Gómez-Godínez"
 description: "Lorena Jacqueline Gómez-Godínez is a Mid-career Soil Carbon researcher at Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias in MX. With 38 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.487761
+date: 2026-10-11T02:32:59.499547
 url: "/cdr-researcher-census/researchers/lorena-jacqueline-gomez-godinez-a5026839/"
 layout: "researcher"
 hiddenInHomeList: true

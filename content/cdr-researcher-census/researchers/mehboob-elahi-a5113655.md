@@ -1,7 +1,7 @@
 ---
 title: "Mehboob Elahi"
 description: "Mehboob Elahi is a Mid-career Soil Carbon researcher at University of Agriculture Faisalabad in PK. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.055078
+date: 2026-10-11T02:33:00.085664
 url: "/cdr-researcher-census/researchers/mehboob-elahi-a5113655/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon Footprint and Life-cycle Cost of Maize (zea mays l.) Production at Conventional and Regenerative Agricultural Practices.** (2023)
-   0 citations · General CDR
+   1 citations · General CDR
 
 ## External Profiles
 

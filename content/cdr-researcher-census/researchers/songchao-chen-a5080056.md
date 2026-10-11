@@ -1,7 +1,7 @@
 ---
 title: "Songchao Chen"
 description: "Songchao Chen is an Eminent Soil Carbon researcher at Zhejiang University in CN. With 284 publications and an h-index of 55, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.026339
+date: 2026-10-11T02:32:59.029232
 url: "/cdr-researcher-census/researchers/songchao-chen-a5080056/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,21 +51,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Improving pedotransfer functions for predicting soil mineral associated organic carbon by ensemble machine learning** (2022)
-   79 citations
+   80 citations
 
 2. **A high-resolution map of soil organic carbon in cropland of Southern China** (2024)
-   61 citations · Soil Carbon
+   63 citations · Soil Carbon
 
 3. **Potential of globally distributed topsoil mid-infrared spectral library for organic carbon estimation** (2023)
-   30 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 4. **Quantification of the effects of long-term straw return on soil organic matter spatiotemporal variation: a case study in a typical black soil region** (2023)
-   14 citations · Soil Carbon
+   20 citations · Soil Carbon
 
-5. **Using visible-near infrared spectroscopy to estimate whole-profile soil organic carbon and its fractions** (2024)
-   11 citations · Soil Carbon
+5. **Effects of straw return on soil carbon sequestration, soil nutrients and rice yield of in acidic farmland soil of Southern China** (2024)
+   12 citations · Soil Carbon
 
-6. **Effects of straw return on soil carbon sequestration, soil nutrients and rice yield of in acidic farmland soil of Southern China** (2024)
+6. **Using visible-near infrared spectroscopy to estimate whole-profile soil organic carbon and its fractions** (2024)
    11 citations · Soil Carbon
 
 7. **Organic carbon storage potential of cropland topsoils in East China: Indispensable roles of cropping systems and soil managements** (2021)
@@ -75,7 +75,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    10 citations · Soil Carbon
 
 9. **Integrating Historical Crop Rotation Changes Into Soil Organic Matter Mapping in the Cropland of Southeastern China** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 10. **Quantification of the effects of long-term straw return on soil organic matter spatiotemporal variation: A case study in typical black soil region** (2022)
    5 citations · Soil Carbon

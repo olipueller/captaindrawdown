@@ -1,7 +1,7 @@
 ---
 title: "Yoon Park"
 description: "Yoon Park is a Senior Biochar researcher. With 14 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.367343
+date: 2026-10-11T02:33:00.402868
 url: "/cdr-researcher-census/researchers/yoon-park-a5089694/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Valorization of pine bark extracts for microporous biochar production and enhanced diazinon adsorption performance** (2025)
-   4 citations · Biochar
+   6 citations · Biochar
 
 2. **Evaluation of removal efficiency of fluopyram using biochar and activated carbon prepared from larch** (2024)
    0 citations · Biochar

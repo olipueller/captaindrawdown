@@ -1,7 +1,7 @@
 ---
 title: "Haibin Fu"
 description: "Haibin Fu is a Mid-career Biochar researcher at Shenyang Agricultural University in CN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.417143
+date: 2026-10-11T02:32:59.427039
 url: "/cdr-researcher-census/researchers/haibin-fu-a5003339/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Assessment of livestock manure-derived hydrochar as cleaner products: Insights into basic properties, nutrient composition, and heavy metal content** (2021)
-   81 citations · Biochar
+   82 citations · Biochar
 
 ## External Profiles
 

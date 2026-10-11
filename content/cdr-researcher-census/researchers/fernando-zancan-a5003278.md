@@ -1,7 +1,7 @@
 ---
 title: "Fernando Zancan"
 description: "Fernando Zancan is a Senior BECCS researcher. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.074328
+date: 2026-10-11T02:33:00.104686
 url: "/cdr-researcher-census/researchers/fernando-zancan-a5003278/"
 layout: "researcher"
 hiddenInHomeList: true

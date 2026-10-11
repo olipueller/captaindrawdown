@@ -1,7 +1,7 @@
 ---
 title: "Felicitas Beier"
 description: "Felicitas Beier is a Mid-career BECCS researcher at Potsdam Institute for Climate Impact Research in DE. With 56 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.110705
+date: 2026-10-11T02:32:59.115356
 url: "/cdr-researcher-census/researchers/felicitas-beier-a5028805/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Food and land system transformations under different societal perspectives on sustainable development** (2024)
-   12 citations · General CDR
+   13 citations · General CDR
 
 2. **Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment** (2026)
    0 citations · BECCS

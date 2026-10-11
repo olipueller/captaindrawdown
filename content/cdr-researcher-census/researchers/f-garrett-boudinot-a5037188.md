@@ -1,7 +1,7 @@
 ---
 title: "F. Garrett Boudinot"
 description: "F. Garrett Boudinot is a Mid-career Soil Carbon researcher at University of Colorado System in US. With 28 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.763985
+date: 2026-10-11T02:32:59.787045
 url: "/cdr-researcher-census/researchers/f-garrett-boudinot-a5037188/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Madhuwanthi Rupasinghe"
 description: "Madhuwanthi Rupasinghe is a Mid-career Biochar researcher at The University of Melbourne in AU. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.479959
+date: 2026-10-11T02:32:59.491257
 url: "/cdr-researcher-census/researchers/madhuwanthi-rupasinghe-a5040926/"
 layout: "researcher"
 hiddenInHomeList: true

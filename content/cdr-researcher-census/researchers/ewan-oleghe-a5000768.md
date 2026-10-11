@@ -1,7 +1,7 @@
 ---
 title: "Ewan Oleghe"
 description: "Ewan Oleghe is a Mid-career Soil Carbon researcher at Rutgers, The State University of New Jersey in US. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.285569
+date: 2026-10-11T02:33:00.315619
 url: "/cdr-researcher-census/researchers/ewan-oleghe-a5000768/"
 layout: "researcher"
 hiddenInHomeList: true

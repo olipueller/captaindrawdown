@@ -1,7 +1,7 @@
 ---
 title: "Katherine Hornbostel"
 description: "Katherine Hornbostel is a Mid-career Ocean CDR researcher at University of Pittsburgh in US. With 28 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.327414
+date: 2026-10-11T02:32:59.333281
 url: "/cdr-researcher-census/researchers/katherine-hornbostel-a5112901/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    42 citations
 
 2. **Demonstration of direct ocean carbon capture using hollow fiber membrane contactors** (2023)
-   23 citations · Ocean CDR
+   22 citations · Ocean CDR
 
 3. **Parametric simulations of hierarchical core–shell MOF materials for direct air capture** (2023)
    16 citations
@@ -74,11 +74,11 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 8. **Direct ocean carbon capture using membrane contactors** (2022)
    1 citations · Ocean CDR
 
-9. **A Comparative Review of terrestrial and marine carbon dioxide removal (CDR) methods** (2025)
-   0 citations · BECCS
+9. **Design Considerations for Integrating Direct Air Capture with a Nuclear Power Plant** (2023)
+   0 citations · DAC
 
-10. **Core-Shell Metal-Organic-Frameworks for Direct Air Capture** (2022)
-   0 citations
+10. **A Comparative Review of terrestrial and marine carbon dioxide removal (CDR) methods** (2025)
+   0 citations · BECCS
 
 ## External Profiles
 

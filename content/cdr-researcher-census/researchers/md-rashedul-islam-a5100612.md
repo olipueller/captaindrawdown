@@ -1,7 +1,7 @@
 ---
 title: "Md. Rashedul Islam"
 description: "Md. Rashedul Islam is a Mid-career Ocean CDR researcher at Jahangirnagar University in BD. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.232416
+date: 2026-10-11T02:33:00.262558
 url: "/cdr-researcher-census/researchers/md-rashedul-islam-a5100612/"
 layout: "researcher"
 hiddenInHomeList: true

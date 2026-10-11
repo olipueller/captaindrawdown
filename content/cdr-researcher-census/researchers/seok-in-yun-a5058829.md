@@ -1,7 +1,7 @@
 ---
 title: "Seok-In Yun"
 description: "Seok-In Yun is a Senior Biochar researcher at Wrocław University of Environmental and Life Sciences in PL. With 75 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.384703
+date: 2026-10-11T02:32:59.392488
 url: "/cdr-researcher-census/researchers/seok-in-yun-a5058829/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A Review on International Carbon Credit Certification Methodologies for Biochar as a Soil Amendment** (2023)
-   13 citations · Biochar
+   14 citations · Biochar
 
 2. **Net CO2 removal of rice husk biochar as soil amendment depending on energy reuse in the production stage** (2024)
    10 citations · Biochar
@@ -61,6 +61,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 4. **CO2 sequestration potential over 100 years of cattle manure biochar in soil as affected by different feedstocks and pyrolysis temperatures** (2025)
    2 citations · Biochar
+
+5. **Integrated fertilization strategy for climate-smart soil management: A concise review for policy suggestion** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

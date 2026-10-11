@@ -1,7 +1,7 @@
 ---
 title: "Lukas Albrecht"
 description: "Lukas Albrecht is a Mid-career Soil Carbon researcher. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.541664
+date: 2026-10-11T02:32:59.556633
 url: "/cdr-researcher-census/researchers/lukas-albrecht-a5045246/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microscale carbon distribution around pores and particulate organic matter varies with soil moisture regime** (2022)
-   196 citations · Soil Carbon
+   195 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Ti‐Feng Shan"
 description: "Ti‐Feng Shan is an Early-career Ocean CDR researcher at Institute of Oceanology in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.870249
+date: 2026-10-11T02:32:59.897109
 url: "/cdr-researcher-census/researchers/tifeng-shan-a5091744/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Kelp aquaculture in China: a retrospective and future prospects** (2021)
-   173 citations · Ocean CDR
+   164 citations · Ocean CDR
 
 ## External Profiles
 

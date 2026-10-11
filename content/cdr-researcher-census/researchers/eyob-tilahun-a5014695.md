@@ -1,7 +1,7 @@
 ---
 title: "Eyob Tilahun"
 description: "Eyob Tilahun is a Mid-career Soil Carbon researcher at Mekelle University in ET. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.209200
+date: 2026-10-11T02:33:00.238795
 url: "/cdr-researcher-census/researchers/eyob-tilahun-a5014695/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Spatial and temporal dynamics of soil organic carbon stock and carbon sequestration affected by major land-use conversions in Northwestern highlands of Ethiopia** (2021)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 ## External Profiles
 

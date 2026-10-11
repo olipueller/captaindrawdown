@@ -1,7 +1,7 @@
 ---
 title: "Bijay B. Pradhan"
 description: "Bijay B. Pradhan is a Mid-career General CDR researcher at Thammasat University in TH. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.642146
+date: 2026-10-11T02:32:59.660563
 url: "/cdr-researcher-census/researchers/bijay-b-pradhan-a5087955/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Thailand’s net-zero emissions by 2050: analysis of economy-wide impacts** (2023)
-   42 citations · General CDR
+   43 citations · General CDR
 
 2. **Energy system transformation for attainability of net zero emissions in Thailand** (2022)
-   27 citations · General CDR
+   28 citations · General CDR
 
 3. **Scaling up climate ambition post-2030: a long-term GHG mitigation analysis for Thailand** (2022)
    7 citations · General CDR

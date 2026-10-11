@@ -1,7 +1,7 @@
 ---
 title: "Anil Somenahally"
 description: "Anil Somenahally is a Senior Soil Carbon researcher at Texas A&M University System in US. With 57 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.116652
+date: 2026-10-11T02:32:59.121331
 url: "/cdr-researcher-census/researchers/anil-somenahally-a5061227/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Response of soil microbial Communities, inorganic and organic soil carbon pools in arid saline soils to alternative land use practices** (2023)
-   34 citations · Soil Carbon
+   35 citations · Soil Carbon
 
 2. **Machine learning soil-environmental impacts on agroecosystems for relating microbial biomass to soil carbon sequestration** (2023)
    16 citations · Soil Carbon
 
 3. **Cover crops in organic cotton influence greenhouse gas emissions and soil microclimate** (2024)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 4. **Assessing organic carbon sequestration in soil aggregates for building high quality carbon stocks in improved grazing lands** (2024)
    3 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Yuefeng Tang"
 description: "Yuefeng Tang is a Mid-career Soil Carbon researcher at Institute of Environment and Sustainable Development in Agriculture in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.263511
+date: 2026-10-11T02:33:00.293487
 url: "/cdr-researcher-census/researchers/yuefeng-tang-a5015959/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of organic material addition on carbon cycling and soil fertility in paddy soil** (2025)
-   14 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 ## External Profiles
 

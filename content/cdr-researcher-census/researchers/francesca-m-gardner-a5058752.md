@@ -1,7 +1,7 @@
 ---
 title: "Francesca M. Gardner"
 description: "Francesca M. Gardner is a Mid-career BECCS researcher at University of Maryland, Baltimore in US. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.570445
+date: 2026-10-11T02:32:59.586422
 url: "/cdr-researcher-census/researchers/francesca-m-gardner-a5058752/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Physicochemical characterization of biological and synthetic forms of two lipid A-based TLR4 agonists** (2023)
-   17 citations
+   18 citations
 
 2. **Development of a nano-emulsion based multivalent protein subunit vaccine against Pseudomonas aeruginosa** (2024)
-   8 citations
+   9 citations
 
 3. **Enhancing protective efficacy and immunogenicity of hemagglutinin-based influenza vaccine utilizing adjuvants developed by BECC** (2025)
    2 citations · BECCS

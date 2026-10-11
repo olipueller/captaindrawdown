@@ -1,7 +1,7 @@
 ---
 title: "Zhao Fang"
 description: "Zhao Fang is a Mid-career Soil Carbon researcher at Henan Institute of Science and Technology in CN. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.760132
+date: 2026-10-11T02:32:59.783125
 url: "/cdr-researcher-census/researchers/zhao-fang-a5039601/"
 layout: "researcher"
 hiddenInHomeList: true

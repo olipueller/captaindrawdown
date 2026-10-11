@@ -1,7 +1,7 @@
 ---
 title: "Pramod Ghimire"
 description: "Pramod Ghimire is a Mid-career Soil Carbon researcher at Agriculture and Forestry University in NP. With 47 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.807193
+date: 2026-10-11T02:32:59.832187
 url: "/cdr-researcher-census/researchers/pramod-ghimire-a5050843/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 255 |
 | Publications | 47 |
-| CDR Focus | 8.5% |
+| CDR Focus | 10.6% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Impact of Land Use Types on Soil Organic Carbon and Nitrogen Stocks: A Study from the Lal Bakaiya Watershed in Central Nepal** (2023)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 2. **Carbon storage potential of Dendrocalamus hamiltonii Nees outside forest across different elevation ranges in central Nepal** (2025)
    2 citations · General CDR
@@ -62,7 +62,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Carbon Sequestration in Pinus roxburghii. Sarg Forest on Two Different Aspects in Daman Hill, Nepal** (2023)
    1 citations · Soil Carbon
 
-5. **Carbon stock assessment of Rani community forest in Makawanpur district and its role in climate change mitigation** (2025)
+5. **Variation of soil organic carbon and nitrogen stocks in forest and agricultural land use in Chure landscape, Nepal** (2022)
+   0 citations · Soil Carbon
+
+6. **Carbon stock assessment of Rani community forest in Makawanpur district and its role in climate change mitigation** (2025)
    0 citations
 
 ## External Profiles

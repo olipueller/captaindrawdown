@@ -1,7 +1,7 @@
 ---
 title: "S. Ravikumar"
 description: "S. Ravikumar is a Mid-career General CDR researcher at Kuvempu University in IN. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.470865
+date: 2026-10-11T02:32:59.482166
 url: "/cdr-researcher-census/researchers/s-ravikumar-a5075211/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,7 +56,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 3. **Synergistic photocatalytic removal of organic pollutants in the aqueous medium using TiO2–Co3O4 decorated graphene oxide nanocomposite** (2021)
    2 citations
 
-4. **Biomass and Carbon Stock Assessment in Agroforestry Practices: A Study in Southern Transition zone of Karnataka, India** (2025)
+4. **Evaluation of soil and biomass carbon stock across different land use systems in the Vitalapura sub-watershed, Kadur taluk, Chikkamagaluru district-Karnataka, India** (2026)
+   0 citations · General CDR
+
+5. **Biomass and Carbon Stock Assessment in Agroforestry Practices: A Study in Southern Transition zone of Karnataka, India** (2025)
    0 citations · General CDR
 
 ## External Profiles

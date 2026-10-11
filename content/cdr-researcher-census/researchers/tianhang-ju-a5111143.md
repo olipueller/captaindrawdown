@@ -1,7 +1,7 @@
 ---
 title: "Tianhang Ju"
 description: "Tianhang Ju is a Mid-career Soil Carbon researcher at Jilin University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.000958
+date: 2026-10-11T02:33:00.031804
 url: "/cdr-researcher-census/researchers/tianhang-ju-a5111143/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Vladimí­r Šimanský"
 description: "Vladimí­r Šimanský is a Senior Soil Carbon researcher at Slovenská Po?nohospodárska Univerzita v Nitre in SK. With 160 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.143916
+date: 2026-10-11T02:32:59.148128
 url: "/cdr-researcher-census/researchers/vladimir-simansky-a5054911/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Improving the soil physical properties and relationships between soil properties in arable soils of contrasting texture enhancement using biochar substrates: Case study in Slovakia** (2021)
-   25 citations · Biochar
+   26 citations · Biochar
 
 2. **Soil structure as a significant indirect factor affecting crop yields** (2021)
    9 citations · Soil Carbon
@@ -77,7 +77,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 9. **Application of Degradable Carbon and Nitrogen Moderates Carbon Sequestration Potential of Biochar in Arable Soils** (2021)
    1 citations · Biochar
 
-10. **A field study on the management practices in a productive vineyard for efficient C sequestration and improved water resistance of soil structure** (2023)
+10. **Calculation of carbon sequestration in soil based on actual crop yield and soil-climatic conditions** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

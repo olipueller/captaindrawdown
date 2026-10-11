@@ -1,7 +1,7 @@
 ---
 title: "Rongyan Bu"
 description: "Rongyan Bu is a Mid-career Soil Carbon researcher. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.695592
+date: 2026-10-11T02:32:59.716242
 url: "/cdr-researcher-census/researchers/rongyan-bu-a5045563/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Appropriately delayed flooding before rice transplanting increases net ecosystem economic benefit in the winter green manure-rice rotation system** (2024)
-   14 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 ## External Profiles
 

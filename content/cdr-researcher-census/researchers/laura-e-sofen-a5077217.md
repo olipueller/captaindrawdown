@@ -1,7 +1,7 @@
 ---
 title: "Laura E. Sofen"
 description: "Laura E. Sofen is a Mid-career Ocean CDR researcher at Bigelow Laboratory for Ocean Sciences in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.881622
+date: 2026-10-11T02:32:59.909038
 url: "/cdr-researcher-census/researchers/laura-e-sofen-a5077217/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **A Cost Model for Ocean Iron Fertilization as a Means of Carbon Dioxide Removal That Compares Ship‐ and Aerial‐Based Delivery, and Estimates Verification Costs** (2024)
-   7 citations · General CDR
+   8 citations · General CDR
 
 2. **Daily microbial rhythms of the surface ocean interrupted by the new moon—a lipidomic study** (2025)
    2 citations

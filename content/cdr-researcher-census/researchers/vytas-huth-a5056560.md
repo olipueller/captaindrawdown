@@ -1,7 +1,7 @@
 ---
 title: "Vytas Huth"
 description: "Vytas Huth is a Senior Soil Carbon researcher at Universitätsmedizin Greifswald in DE. With 52 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.243105
+date: 2026-10-11T02:32:59.246789
 url: "/cdr-researcher-census/researchers/vytas-huth-a5056560/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The climate benefits of topsoil removal and <scp><i>Sphagnum</i></scp> introduction in raised bog restoration** (2021)
-   30 citations · General CDR
+   28 citations · General CDR
 
 2. **Stopping the Leak and Rebuilding the Sink? Positioning Peatland Rewetting as a Climate Change Mitigation Measure** (2026)
    0 citations · General CDR

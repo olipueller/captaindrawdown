@@ -1,7 +1,7 @@
 ---
 title: "Chuck Hassebrook"
-description: "Chuck Hassebrook is a Senior Enhanced Weathering researcher. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.377951
+description: "Chuck Hassebrook is a Senior Enhanced Weathering researcher at National Center for Appropriate Technology in US. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:33:00.401269
 url: "/cdr-researcher-census/researchers/chuck-hassebrook-a5050073/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Chuck Hassebrook",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/chuck-hassebrook-a5050073/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "National Center for Appropriate Technology"
+  },
   "sameAs": "https://openalex.org/A5050073094"
 }
 </script>
 
 ## Profile
 
-**Chuck Hassebrook**
+**Chuck Hassebrook**  
+National Center for Appropriate Technology · 🇺🇸 US
 
 **Career Stage:** Senior
 
@@ -35,7 +40,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Metric | Value |
 |--------|-------|
 | h-index | 3 |
-| Citations | 104 |
+| Citations | 106 |
 | Publications | 10 |
 | CDR Focus | 10.0% |
 | Trajectory | Stable |

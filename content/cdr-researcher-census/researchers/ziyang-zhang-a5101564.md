@@ -1,7 +1,7 @@
 ---
 title: "Ziyang Zhang"
 description: "Ziyang Zhang is a Mid-career Biochar researcher at Shanghai University of Engineering Science in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.401779
+date: 2026-10-11T02:33:00.439783
 url: "/cdr-researcher-census/researchers/ziyang-zhang-a5101564/"
 layout: "researcher"
 hiddenInHomeList: true

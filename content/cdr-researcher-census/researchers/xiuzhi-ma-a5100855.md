@@ -1,7 +1,7 @@
 ---
 title: "Xiuzhi Ma"
 description: "Xiuzhi Ma is a Senior Soil Carbon researcher at Inner Mongolia Agricultural University in CN. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.614201
+date: 2026-10-11T02:32:59.631622
 url: "/cdr-researcher-census/researchers/xiuzhi-ma-a5100855/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,13 +47,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Spatiotemporal Dynamics of the Carbon Storage in Yellow River Basin of Inner Mongolia, China, from 1990 to 2020** (2025)
-   0 citations · Soil Carbon
+1. **Effects of grazing on soil respiration and associated factors in artificial Caragana korshinskii shrublands in Inner Mongolia, China** (2025)
+   1 citations · Soil Carbon
 
 2. **Spatiotemporal Dynamics of the Carbon Storage in Yellow River Basin of Inner Mongolia, China, from 1990 to 2020** (2025)
    0 citations · Soil Carbon
 
-3. **Effects of grazing on soil respiration and associated factors in artificial Caragana korshinskii shrublands in Inner Mongolia, China** (2025)
+3. **Spatiotemporal Dynamics of the Carbon Storage in Yellow River Basin of Inner Mongolia, China, from 1990 to 2020** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

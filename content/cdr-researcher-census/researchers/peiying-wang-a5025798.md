@@ -1,7 +1,7 @@
 ---
 title: "Peiying Wang"
 description: "Peiying Wang is a Mid-career General CDR researcher at Northwestern University in US. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.307754
+date: 2026-10-11T02:33:00.338608
 url: "/cdr-researcher-census/researchers/peiying-wang-a5025798/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Dilute alloy electrocatalysts enable asymmetric C–C coupling for ethylene production from a CO2 post-capture liquid** (2026)
-   6 citations · General CDR
+   9 citations · General CDR
 
 ## External Profiles
 

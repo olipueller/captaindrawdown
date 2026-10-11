@@ -1,7 +1,7 @@
 ---
 title: "B. M. Kamble"
 description: "B. M. Kamble is a Senior General CDR researcher at Mahatma Phule Krishi Vidyapeeth in IN. With 63 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.001891
+date: 2026-10-11T02:33:00.032760
 url: "/cdr-researcher-census/researchers/b-m-kamble-a5112194/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,13 +53,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 2. **A Review of Carbon Neutrality to Climate Resilience Evolving Strategies in Agriculture** (2025)
    1 citations · General CDR
 
-3. **Carbon Neutrality: Human Well-being and Ecosystem Sustainability** (2025)
+3. **Biochar insights: Sustainable production, market evolution, and climate change mitigation** (2026)
+   0 citations · Biochar
+
+4. **Rising CO2 and ecosystem sustainability: The role of carbon fertilisation** (2026)
+   0 citations
+
+5. **Carbon Neutrality: Human Well-being and Ecosystem Sustainability** (2025)
    0 citations · General CDR
 
-4. **Evaluating the Impact of Resource Conservation Practices on Soil Carbon Sequestration in Agriculture** (2025)
+6. **Evaluating the Impact of Resource Conservation Practices on Soil Carbon Sequestration in Agriculture** (2025)
    0 citations · Soil Carbon
 
-5. **Clay Mineral Nanotechnology: Innovation in Agriculture** (2023)
+7. **Clay Mineral Nanotechnology: Innovation in Agriculture** (2023)
    0 citations
 
 ## External Profiles

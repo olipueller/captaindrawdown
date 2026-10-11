@@ -1,7 +1,7 @@
 ---
 title: "Jan Výtisk"
 description: "Jan Výtisk is a Mid-career Biochar researcher at VSB - Technical University of Ostrava in CZ. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.197908
+date: 2026-10-11T02:33:00.228189
 url: "/cdr-researcher-census/researchers/jan-vytisk-a5083880/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Softwood and solid recovered fuel gasification residual chars as sorbents for flue gas mercury capture** (2022)
-   31 citations · Biochar
+   32 citations · Biochar
 
 2. **Softwood and Srf Gasification Residual Chars as Sorbents for Flue Gas Mercury Capture** (2022)
    2 citations

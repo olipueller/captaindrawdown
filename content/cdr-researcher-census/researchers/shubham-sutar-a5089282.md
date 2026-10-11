@@ -1,7 +1,7 @@
 ---
 title: "Shubham Sutar"
 description: "Shubham Sutar is a Mid-career Biochar researcher at Shivaji University in IN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.455209
+date: 2026-10-11T02:32:59.466304
 url: "/cdr-researcher-census/researchers/shubham-sutar-a5089282/"
 layout: "researcher"
 hiddenInHomeList: true

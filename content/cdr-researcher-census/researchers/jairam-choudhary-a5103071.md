@@ -1,7 +1,7 @@
 ---
 title: "Jairam Choudhary"
 description: "Jairam Choudhary is a Senior Soil Carbon researcher at Indian Agricultural Statistics Research Institute in IN. With 54 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.256839
+date: 2026-10-11T02:32:59.260570
 url: "/cdr-researcher-census/researchers/jairam-choudhary-a5103071/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Sustainable Soil Management for Climate Resilience: Long-Term Management Effects on Soil Carbon Sequestration and Nitrogen Dynamics in a Semi-Arid Tropical Inceptisol of India** (2024)
-   15 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 2. **Influence of Different Nutrient Management Practices and Cropping Systems on Organic Carbon Pools in Typic Ustochrept Soil of Indo-Gangetic Plains in India** (2022)
    8 citations · Soil Carbon

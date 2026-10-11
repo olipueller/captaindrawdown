@@ -1,7 +1,7 @@
 ---
 title: "Mak Đukan"
 description: "Mak Đukan is a Mid-career DAC researcher at Forschungszentrum Jülich in DE. With 38 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.831050
+date: 2026-10-11T02:32:59.857405
 url: "/cdr-researcher-census/researchers/mak-ukan-a5013904/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,18 +54,30 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    1 citations · DAC
 
 2. **Global strategic deployment of Direct Air Capture technologies** (2026)
+   1 citations · DAC
+
+3. **Tracking Direct Air Capture Innovation Patent Analysis through LLM-Driven** (2026)
    0 citations · DAC
 
-3. **Global strategic deployment of Direct Air Capture technologies** (2026)
+4. **Global strategic deployment of Direct Air Capture technologies** (2026)
    0 citations · DAC
 
-4. **Impulse für eine Forschungsagenda zu Negativemissionstechnologien in der Energiesystemanalyse** (2026)
+5. **Global strategic deployment of Direct Air Capture technologies** (2026)
+   0 citations · DAC
+
+6. **Beyond Capture: Global Techno-Economic Potential of Direct Air Carbon Capture and Storage** (2026)
+   0 citations · DAC
+
+7. **Impulse für eine Forschungsagenda zu Negativemissionstechnologien in der Energiesystemanalyse** (2026)
    0 citations · General CDR
 
-5. **Impulse für eine Forschungsagenda zu Negativemissionstechnologien in der Energiesystemanalyse** (2026)
+8. **Impulse für eine Forschungsagenda zu Negativemissionstechnologien in der Energiesystemanalyse** (2026)
    0 citations · General CDR
 
-6. **Global strategic deployment of Direct Air Capture technologies** (2026)
+9. **Global Cost Drivers of Direct Air Capture: Insights from Interviews and Techno-Economic Assessment** (2026)
+   0 citations · DAC
+
+10. **Global strategic deployment of Direct Air Capture technologies** (2026)
    0 citations
 
 ## External Profiles

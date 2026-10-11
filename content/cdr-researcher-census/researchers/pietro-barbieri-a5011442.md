@@ -1,7 +1,7 @@
 ---
 title: "Pietro Barbieri"
 description: "Pietro Barbieri is a Senior Soil Carbon researcher at Université de Bordeaux in FR. With 39 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.263464
+date: 2026-10-11T02:32:59.267598
 url: "/cdr-researcher-census/researchers/pietro-barbieri-a5011442/"
 layout: "researcher"
 hiddenInHomeList: true

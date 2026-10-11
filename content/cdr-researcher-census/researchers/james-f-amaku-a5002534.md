@@ -1,7 +1,7 @@
 ---
 title: "James F. Amaku"
 description: "James F. Amaku is a Mid-career Biochar researcher at Michael Okpara University of Agriculture in NG. With 61 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.188539
+date: 2026-10-11T02:32:59.192614
 url: "/cdr-researcher-census/researchers/james-f-amaku-a5002534/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar from coconut residues: An overview of production, properties, and applications** (2023)
-   106 citations · Biochar
+   109 citations · Biochar
 
 2. **Removal of bromophenol blue dye from water onto biomass, activated carbon, biochar, polymer, nanoparticle, and composite adsorbents** (2022)
    42 citations · Biochar
@@ -59,11 +59,14 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 3. **Aqueous phase adsorption of aromatic organoarsenic compounds: A review** (2022)
    40 citations
 
-4. **Facile synthesis of ZnONP/carbon-coated-eggshell nanocomposite: fast and efficient adsorbents for amoxicillin sequestration** (2025)
+4. **Phytogenic TiO <sub>2</sub> –biochar nanocomposite derived from <i>Prunus dulcis</i> for enhanced Rhodamine B removal from aqueous systems** (2025)
    2 citations · Biochar
 
-5. **Phytogenic TiO <sub>2</sub> –biochar nanocomposite derived from <i>Prunus dulcis</i> for enhanced Rhodamine B removal from aqueous systems** (2025)
-   1 citations · Biochar
+5. **Facile synthesis of ZnONP/carbon-coated-eggshell nanocomposite: fast and efficient adsorbents for amoxicillin sequestration** (2025)
+   2 citations · Biochar
+
+6. **State-of-the-art adsorbents for Eriochrome Black T removal: material potential and performance factors** (2026)
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Osamu Nishiura"
 description: "Osamu Nishiura is a Mid-career General CDR researcher at National Institute for Environmental Studies in JP. With 42 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.207249
+date: 2026-10-11T02:33:00.237139
 url: "/cdr-researcher-census/researchers/osamu-nishiura-a5037582/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,21 +54,27 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    17 citations · General CDR
 
 2. **International financial support to achieve the net-zero emissions goal could help resolve equity trade-off between developing and developed countries** (2026)
-   4 citations · General CDR
+   5 citations · General CDR
 
 3. **JMIP 2 Part 1: Technology uncertainty and robustness in Japan’s net-zero pathways** (2025)
    3 citations · General CDR
 
-4. **Development of a computable general equilibrium model representing direct air capture and carbon dioxide utilization** (2026)
+4. **Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7** (2026)
+   0 citations · General CDR
+
+5. **Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7** (2026)
+   0 citations · General CDR
+
+6. **Development of a computable general equilibrium model representing direct air capture and carbon dioxide utilization** (2026)
    0 citations · DAC
 
-5. **Transient reliance on carbon removal and storage in long-term energy system transitions** (2026)
+7. **Transient reliance on carbon removal and storage in long-term energy system transitions** (2026)
    0 citations · General CDR
 
-6. **Financial transfer to resolve the equity trade-off between developed and developing countries for national net-zero commitments** (2025)
+8. **Financial transfer to resolve the equity trade-off between developed and developing countries for national net-zero commitments** (2025)
    0 citations · General CDR
 
-7. **AN ASSESSMENT OF DIRECT AIR CAPTURE IN THE CLIMATE CHANGE MITIGATION SCENARIOS USING THE COMPUTABLE GENERAL EQUILIBRIUM MODEL** (2022)
+9. **AN ASSESSMENT OF DIRECT AIR CAPTURE IN THE CLIMATE CHANGE MITIGATION SCENARIOS USING THE COMPUTABLE GENERAL EQUILIBRIUM MODEL** (2022)
    0 citations · DAC
 
 ## External Profiles

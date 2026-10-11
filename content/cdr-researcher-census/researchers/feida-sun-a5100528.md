@@ -1,7 +1,7 @@
 ---
 title: "Feida Sun"
 description: "Feida Sun is a Senior Biochar researcher at Sichuan Agricultural University in CN. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.501364
+date: 2026-10-11T02:32:59.513870
 url: "/cdr-researcher-census/researchers/feida-sun-a5100528/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Nano zero-valent iron-modified biochar regulates soil carbon mineralization and stability across aggregates in alpine degraded grassland** (2026)
-   1 citations · Biochar
+   2 citations · Biochar
 
 2. **Decade-long active restoration induced positive priming effects on soil organic carbon in desertified grassland: The amplifying effect of biochar** (2025)
    1 citations · Biochar

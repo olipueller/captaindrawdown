@@ -1,7 +1,7 @@
 ---
 title: "Abhishek Raj"
 description: "Abhishek Raj is a Senior Soil Carbon researcher at Jagannath University in IN. With 167 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.131216
+date: 2026-10-11T02:32:59.136058
 url: "/cdr-researcher-census/researchers/abhishek-raj-a5044144/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    71 citations · Soil Carbon
 
 3. **Soil Carbon Stock and Sequestration: Implications for Climate Change Adaptation and Mitigation** (2021)
-   61 citations · General CDR
+   62 citations · General CDR
 
 4. **Agroforestry a model for ecological sustainability** (2022)
    45 citations · Soil Carbon
@@ -75,7 +75,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    14 citations
 
 9. **Carbon Sequestration in Agroforestry and Horticulture Based Farming Systems: Mitigating Climate Change and Advancing Food and Nutrition Security** (2023)
-   6 citations · General CDR
+   7 citations · General CDR
 
 10. **Climate Change Impacts and Mitigation Through Sustainable Agroforestry Practices** (2021)
    6 citations · General CDR

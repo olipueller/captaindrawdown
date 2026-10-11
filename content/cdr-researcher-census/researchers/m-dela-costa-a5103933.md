@@ -1,7 +1,7 @@
 ---
 title: "M Dela Costa"
-description: "M Dela Costa is a Mid-career Soil Carbon researcher at Deakin University in AU. With 13 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.845963
+description: "M Dela Costa is a Mid-career Soil Carbon researcher at Deakin University in AU. With 8 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:32:59.923303
 url: "/cdr-researcher-census/researchers/m-dela-costa-a5103933/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,10 +39,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 2 |
-| Citations | 238 |
-| Publications | 13 |
-| CDR Focus | 15.4% |
+| h-index | 1 |
+| Citations | 220 |
+| Publications | 8 |
+| CDR Focus | 25.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

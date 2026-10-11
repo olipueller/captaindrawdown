@@ -1,7 +1,7 @@
 ---
 title: "Yohanna Haile Fseha"
 description: "Yohanna Haile Fseha is a Mid-career Biochar researcher at Khalifa University of Science and Technology in AE. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.284205
+date: 2026-10-11T02:32:59.289005
 url: "/cdr-researcher-census/researchers/yohanna-haile-fseha-a5061480/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The effect of pyrolysis temperature and feedstock on date palm waste derived biochar to remove single and multi-metals in aqueous solutions** (2021)
-   86 citations · Biochar
+   87 citations · Biochar
 
 ## External Profiles
 

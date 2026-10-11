@@ -1,7 +1,7 @@
 ---
 title: "Mohammed Awad Mousa"
 description: "Mohammed Awad Mousa is a Senior Biochar researcher at University of Waterloo in CA. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.662542
+date: 2026-10-11T02:32:59.681777
 url: "/cdr-researcher-census/researchers/mohammed-awad-mousa-a5037227/"
 layout: "researcher"
 hiddenInHomeList: true

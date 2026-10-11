@@ -1,7 +1,7 @@
 ---
 title: "Terry T. Isson"
 description: "Terry T. Isson is a Senior Enhanced Weathering researcher at University of Waikato in NZ. With 59 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.144280
+date: 2026-10-11T02:32:59.148476
 url: "/cdr-researcher-census/researchers/terry-t-isson-a5005970/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    33 citations
 
 2. **Lithium isotopic evidence for enhanced reverse weathering during the Early Triassic warm period** (2024)
-   19 citations · Enhanced Weathering
+   21 citations · Enhanced Weathering
 
 3. **Zinc isotope perspective on global carbon cycling during the onset of the late Paleozoic icehouse** (2024)
-   14 citations
+   15 citations
 
 4. **Enhanced phosphorus weathering contributed to Late Miocene cooling** (2025)
    6 citations · Enhanced Weathering

@@ -1,7 +1,7 @@
 ---
 title: "Douglas Goodwin"
 description: "Douglas Goodwin is a Mid-career Soil Carbon researcher at Texas A&M University System in US. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.196479
+date: 2026-10-11T02:33:00.226588
 url: "/cdr-researcher-census/researchers/douglas-goodwin-a5011574/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -49,6 +49,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 1. **Soil health and nutrient dynamics in pasturelands: A decadal study on the effects of alternative vs. prevailing grazing management** (2025)
    2 citations · Soil Carbon
+
+2. **Modeling the effects of livestock rotation frequency on forage production and soil carbon using a spatially explicit grazing distribution** (2026)
+   0 citations
 
 ## External Profiles
 

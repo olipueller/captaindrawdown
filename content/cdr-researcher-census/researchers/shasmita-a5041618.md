@@ -1,7 +1,7 @@
 ---
 title: "Shasmita"
 description: "Shasmita is a Mid-career Biochar researcher at Indira Gandhi Institute of Technology in IN. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.707505
+date: 2026-10-11T02:32:59.728118
 url: "/cdr-researcher-census/researchers/shasmita-a5041618/"
 layout: "researcher"
 hiddenInHomeList: true

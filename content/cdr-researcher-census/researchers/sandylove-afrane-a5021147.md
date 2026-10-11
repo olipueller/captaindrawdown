@@ -1,7 +1,7 @@
 ---
 title: "Sandylove Afrane"
 description: "Sandylove Afrane is a Senior General CDR researcher at Tianjin University in CN. With 52 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.116447
+date: 2026-10-11T02:32:59.121122
 url: "/cdr-researcher-census/researchers/sandylove-afrane-a5021147/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,13 +57,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    35 citations · General CDR
 
 4. **Deployment expectations of multi-gigatonne scale carbon removal could have adverse impacts on Asia’s energy-water-land nexus** (2024)
-   29 citations · General CDR
+   30 citations · General CDR
 
 5. **Does China's pathway to carbon neutrality require the integration of land-based biological negative emission solutions with geochemical and chemical alternatives?** (2023)
-   19 citations · Enhanced Weathering
+   18 citations · Enhanced Weathering
 
 6. **Targeted carbon dioxide removal measures are essential for the cost and energy transformation of the electricity sector by 2050** (2025)
-   15 citations · General CDR
+   17 citations · General CDR
 
 7. **Potential benefits and trade-offs associated with hydrogen transition under diverse carbon dioxide removal strategies** (2023)
    14 citations · General CDR
@@ -75,7 +75,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    8 citations · General CDR
 
 10. **Deployment of carbon removal technologies could reduce the rapid and potentially disruptive pace of decarbonization in South Africa's climate ambitions** (2024)
-   6 citations · General CDR
+   5 citations · General CDR
 
 ## External Profiles
 

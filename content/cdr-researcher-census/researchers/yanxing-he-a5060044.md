@@ -1,7 +1,7 @@
 ---
 title: "Yanxing He"
 description: "Yanxing He is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.364374
+date: 2026-10-11T02:33:00.400211
 url: "/cdr-researcher-census/researchers/yanxing-he-a5060044/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Vegetation restoration changed the soil aggregate stability and aggregate carbon stabilization pathway according to δ13C signatures** (2024)
-   14 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 2. **Effects of aridity on soil dissolved organic matter in abandoned grasslands of the central Loess Plateau** (2026)
    0 citations · Soil Carbon

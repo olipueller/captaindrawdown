@@ -1,7 +1,7 @@
 ---
 title: "Jerome Ignatius T. Garces"
 description: "Jerome Ignatius T. Garces is an Early-career General CDR researcher at Department of Science and Technology in PH. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.146020
+date: 2026-10-11T02:33:00.175675
 url: "/cdr-researcher-census/researchers/jerome-ignatius-t-garces-a5042518/"
 layout: "researcher"
 hiddenInHomeList: true

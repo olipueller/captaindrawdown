@@ -1,7 +1,7 @@
 ---
 title: "Jihan Zhang"
 description: "Jihan Zhang is a Mid-career Biochar researcher at Johns Hopkins University in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.308291
+date: 2026-10-11T02:33:00.339129
 url: "/cdr-researcher-census/researchers/jihan-zhang-a5015461/"
 layout: "researcher"
 hiddenInHomeList: true

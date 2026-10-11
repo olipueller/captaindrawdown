@@ -1,7 +1,7 @@
 ---
 title: "Jinghui Wu"
 description: "Jinghui Wu is a Mid-career Biochar researcher at Henan University of Science and Technology in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.108740
+date: 2026-10-11T02:33:00.139487
 url: "/cdr-researcher-census/researchers/jinghui-wu-a5036458/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Cu2O-modified magnetic iron-nitrogen co-doped biochar effective peroxymonosulfate activation for degradation of phthalate esters in reclaimed water** (2025)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

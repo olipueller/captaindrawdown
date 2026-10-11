@@ -1,7 +1,7 @@
 ---
 title: "Huajun Yin"
 description: "Huajun Yin is a Senior Soil Carbon researcher at ???????????? in CN. With 124 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.069533
+date: 2026-10-11T02:32:59.074131
 url: "/cdr-researcher-census/researchers/huajun-yin-a5087425/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial metabolic traits drive the differential contribution of microbial necromass to soil organic carbon between the rhizosphere of absorptive roots and transport roots** (2024)
-   44 citations · Soil Carbon
+   46 citations · Soil Carbon
 
 2. **Reference carbon cycle dataset for typical Chinese forests via colocated observations and data assimilation** (2021)
-   32 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 3. **The accumulation capacity of microbial residues in the rhizosphere increased along an elevation gradient** (2024)
    22 citations · Soil Carbon
@@ -63,13 +63,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    22 citations · Soil Carbon
 
 5. **Nitrogen deposition induces a greater soil C sequestration in the rhizosphere than bulk soil in an alpine forest** (2023)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 6. **Climate Sensitivities of Carbon Turnover Times in Soil and Vegetation: Understanding Their Effects on Forest Carbon Sequestration** (2022)
    12 citations · Soil Carbon
 
 7. **Nitrogen addition enhances stable soil carbon accumulation during ectomycorrhizal hyphae decomposition** (2024)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 8. **Microbial necromass carbon accumulation is associated with soil microbial life history strategies and multitrophic network complexity under nitrogen addition in alpine forests** (2026)
    2 citations
@@ -78,7 +78,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Soil Carbon
 
 10. **Conservative roots confer a larger microbial carbon pump efficacy than acquisitive roots by regulating microbial life‐history strategy** (2026)
-   0 citations
+   1 citations
 
 ## External Profiles
 

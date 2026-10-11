@@ -1,7 +1,7 @@
 ---
 title: "Esko Salo"
 description: "Esko Salo is a Mid-career Biochar researcher at VTT Technical Research Centre of Finland in FI. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.037791
+date: 2026-10-11T02:33:00.068497
 url: "/cdr-researcher-census/researchers/esko-salo-a5086975/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Nordic perspectives on the emerging biochar business** (2024)
-   23 citations · Biochar
+   24 citations · Biochar
 
 2. **Co-Designing Urban Carbon Sink Parks: Case Carbon Lane in Helsinki** (2021)
    15 citations · Biochar

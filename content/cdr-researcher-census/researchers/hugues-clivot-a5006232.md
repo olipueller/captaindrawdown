@@ -1,7 +1,7 @@
 ---
 title: "Hugues Clivot"
 description: "Hugues Clivot is a Senior Soil Carbon researcher at Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement in FR. With 92 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.199632
+date: 2026-10-11T02:32:59.203590
 url: "/cdr-researcher-census/researchers/hugues-clivot-a5006232/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -60,15 +60,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    1 citations · Biochar
 
 4. **The crop residue conundrum: maintaining long-term soil organic carbon stocks while reinforcing the bioeconomy, compatible endeavors?** (2022)
+   1 citations
+
+5. **The crop residue conundrum: maintaining long-term soil organic carbon stocks while reinforcing the bioeconomy, compatible endeavors?** (2022)
    1 citations · Soil Carbon
 
-5. **Simulation of decadal variations in soil organic carbon stocks in French forests** (2026)
+6. **Simulation of decadal variations in soil organic carbon stocks in French forests** (2026)
    0 citations · Soil Carbon
 
-6. **Applying the AMG Soil Organic Carbon model to assess the carbon trends within French forests** (2023)
-   0 citations · General CDR
-
-7. **Comment on bg-2020-489** (2021)
+7. **Applying the AMG Soil Organic Carbon model to assess the carbon trends within French forests** (2023)
    0 citations · General CDR
 
 8. **Comment on bg-2020-489** (2021)
@@ -77,8 +77,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 9. **Comment on bg-2020-489** (2021)
    0 citations · General CDR
 
-10. **The crop residue conundrum: maintaining long-term soil organic carbon stocks while reinforcing the bioeconomy, compatible endeavors?** (2022)
-   0 citations
+10. **Comment on bg-2020-489** (2021)
+   0 citations · General CDR
 
 ## External Profiles
 

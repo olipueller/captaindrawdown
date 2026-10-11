@@ -1,7 +1,7 @@
 ---
 title: "Yanfei Tang"
 description: "Yanfei Tang is a Mid-career Biochar researcher at Cornell University in US. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.272488
+date: 2026-10-11T02:32:59.276638
 url: "/cdr-researcher-census/researchers/yanfei-tang-a5029582/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xichen Zhao"
 description: "Xichen Zhao is a Mid-career Biochar researcher at Institute of Subtropical Agriculture in CN. With 37 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.431675
+date: 2026-10-11T02:32:59.441918
 url: "/cdr-researcher-census/researchers/xichen-zhao-a5078594/"
 layout: "researcher"
 hiddenInHomeList: true

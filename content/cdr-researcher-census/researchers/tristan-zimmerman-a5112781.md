@@ -1,7 +1,7 @@
 ---
 title: "Tristan Zimmerman"
 description: "Tristan Zimmerman is a Mid-career Ocean CDR researcher. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.392356
+date: 2026-10-11T02:33:00.429789
 url: "/cdr-researcher-census/researchers/tristan-zimmerman-a5112781/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 ## Top CDR Publications
 
-1. **Calcification-driven CO2 emissions exceed “Blue Carbon” sequestration in a carbonate seagrass meadow** (2021)
+1. **Calcification-driven CO 2 emissions exceed “Blue Carbon” sequestration in a carbonate seagrass meadow** (2021)
+   95 citations
+
+2. **Calcification-driven CO2 emissions exceed “Blue Carbon” sequestration in a carbonate seagrass meadow** (2021)
    17 citations · Ocean CDR
 
 ## External Profiles

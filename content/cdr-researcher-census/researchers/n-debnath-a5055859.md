@@ -1,7 +1,7 @@
 ---
 title: "N. Debnath"
 description: "N. Debnath is a Mid-career Soil Carbon researcher at Assam University in IN. With 30 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.079228
+date: 2026-10-11T02:33:00.109352
 url: "/cdr-researcher-census/researchers/n-debnath-a5055859/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    14 citations · Soil Carbon
 
 2. **Carbon Farming with Bamboos in India: Opportunities and Challenges** (2022)
-   5 citations · General CDR
+   6 citations · General CDR
 
 3. **Recycling of Waste Utilizing Novcom Composting Technology towards GHG Abatement from Source** (2022)
    4 citations · General CDR

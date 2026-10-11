@@ -1,7 +1,7 @@
 ---
 title: "Pathikrit Saha"
 description: "Pathikrit Saha is a Mid-career Biochar researcher at University of Minnesota in US. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.495961
+date: 2026-10-11T02:32:59.508158
 url: "/cdr-researcher-census/researchers/pathikrit-saha-a5084110/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Nano-Biochar as a Sustainable Catalyst for Anaerobic Digestion: A Synergetic Closed-Loop Approach** (2022)
-   81 citations · Biochar
+   82 citations · Biochar
 
 ## External Profiles
 

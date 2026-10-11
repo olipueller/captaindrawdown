@@ -1,7 +1,7 @@
 ---
 title: "Jiacheng Sun"
 description: "Jiacheng Sun is an Early-career Biochar researcher at Nankai University in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.671765
+date: 2026-10-11T02:32:59.691546
 url: "/cdr-researcher-census/researchers/jiacheng-sun-a5030738/"
 layout: "researcher"
 hiddenInHomeList: true

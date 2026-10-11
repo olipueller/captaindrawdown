@@ -1,7 +1,7 @@
 ---
 title: "Haobo Guo"
 description: "Haobo Guo is a Mid-career Biochar researcher at Beijing University of Posts and Telecommunications in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.138224
+date: 2026-10-11T02:33:00.168653
 url: "/cdr-researcher-census/researchers/haobo-guo-a5007140/"
 layout: "researcher"
 hiddenInHomeList: true

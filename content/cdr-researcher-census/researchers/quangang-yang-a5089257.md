@@ -1,7 +1,7 @@
 ---
 title: "Quangang Yang"
 description: "Quangang Yang is a Senior Soil Carbon researcher at Soil and Fertilizer Institute of Hunan Province in CN. With 53 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.257425
+date: 2026-10-11T02:32:59.261050
 url: "/cdr-researcher-census/researchers/quangang-yang-a5089257/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,16 +54,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    136 citations · Biochar
 
 2. **Distinct stabilization characteristics of organic carbon in coastal salt‐affected soils with different salinity under straw return management** (2022)
-   33 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 3. **Phosphorus addition increases soil organic matter priming in a coastal saline soil** (2025)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 4. **Interactive effects of warming and drought on soil organic carbon sequestration and methane uptake in straw and biochar amended soils: Mechanisms and global implications** (2025)
    7 citations · Biochar
 
 5. **Divergent carbon sequestration pathways in saline-alkali soils: Dual mechanisms of macroaggregate protection and chemoautotrophic compensation mediated by composted fermented straw amendments** (2025)
    2 citations · Soil Carbon
+
+6. **Salinity and straw amendment regulate soil organic carbon level by reshaping the microbial carbon source utilization capacity in coastal saline farmland soil** (2026)
+   0 citations
 
 ## External Profiles
 

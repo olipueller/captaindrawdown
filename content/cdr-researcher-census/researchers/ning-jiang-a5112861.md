@@ -1,7 +1,7 @@
 ---
 title: "Ning Jiang"
 description: "Ning Jiang is a Senior Soil Carbon researcher at Northeast Forestry University in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.400480
+date: 2026-10-11T02:33:00.438547
 url: "/cdr-researcher-census/researchers/ning-jiang-a5112861/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Responses of seven wetlands carbon sources and sinks to permafrost degradation in Northeast China** (2022)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 ## External Profiles
 

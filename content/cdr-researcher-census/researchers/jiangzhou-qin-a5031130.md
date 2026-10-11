@@ -1,7 +1,7 @@
 ---
 title: "Jiangzhou Qin"
 description: "Jiangzhou Qin is a Mid-career Biochar researcher at Guizhou University in CN. With 50 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.195464
+date: 2026-10-11T02:32:59.199421
 url: "/cdr-researcher-census/researchers/jiangzhou-qin-a5031130/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 1. **Preparation and study of straw porous biochar with aromatic ring structure for adsorption performance and mechanism toward TNT red water** (2023)
    11 citations · Biochar
 
-2. **Adsorption-enhanced PMS activation over waste iron sludge-derived Fe/biochar for sulfamethoxazole degradation: A singlet oxygen-dominated pathway** (2026)
+2. **Adsorption-coupled PMS activation over waste iron sludge-derived Fe/biochar for sulfamethoxazole degradation: A singlet oxygen-associated oxidation pathway** (2026)
    0 citations · Biochar
 
 3. **Adsorption-enhanced PMS activation over waste iron sludge-derived Fe/biochar for sulfamethoxazole degradation: A singlet oxygen-dominated pathway** (2026)
@@ -59,7 +59,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 4. **Adsorption-enhanced PMS activation over waste iron sludge-derived Fe/biochar for sulfamethoxazole degradation: A singlet oxygen-dominated pathway** (2026)
    0 citations · Biochar
 
-5. **Preparation and Study of Straw Porous Biochar with Aromatic Ring Structure for Adsorption Performance and Mechanism towards TNT Red Water** (2023)
+5. **Adsorption-enhanced PMS activation over waste iron sludge-derived Fe/biochar for sulfamethoxazole degradation: A singlet oxygen-dominated pathway** (2026)
+   0 citations · Biochar
+
+6. **Preparation and Study of Straw Porous Biochar with Aromatic Ring Structure for Adsorption Performance and Mechanism towards TNT Red Water** (2023)
    0 citations · Biochar
 
 ## External Profiles

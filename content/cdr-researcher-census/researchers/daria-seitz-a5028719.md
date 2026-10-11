@@ -1,7 +1,7 @@
 ---
 title: "Daria Seitz"
 description: "Daria Seitz is a Mid-career Soil Carbon researcher at Johann Heinrich von Thünen-Institut in DE. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.505007
+date: 2026-10-11T02:32:59.517706
 url: "/cdr-researcher-census/researchers/daria-seitz-a5028719/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon sequestration in soils and climate change mitigation—Definitions and pitfalls** (2023)
-   227 citations · General CDR
+   234 citations · General CDR
 
 2. **The potential of cover crops to increase soil organic carbon storage in German croplands** (2022)
-   106 citations · Soil Carbon
+   109 citations · Soil Carbon
 
 3. **Achievable agricultural soil carbon sequestration across Europe from country‐specific estimates** (2021)
-   75 citations · General CDR
+   78 citations · General CDR
 
 4. **Reply letter to Munoz et al. ‘on the importance of time in carbon sequestration in soils and climate change mitigation’—Keep carbon sequestration terminologies consistent and functional** (2024)
    17 citations · General CDR
 
 5. **Forage vs. Grain Legumes: Contrasting Effects on Soil Organic Carbon Stocks–Evidence From 30 European Field Experiments** (2025)
-   12 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 6. **Soil carbon-sequestration and climate mitigation – definitions and their implications** (2023)
    2 citations · General CDR
@@ -74,11 +74,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 8. **Feasible Carbon Sequestration Potential in European Agricultural Mineral Soils Through Improved Management** (2026)
    1 citations · Biochar
 
-9. **A baseline projection of soil organic carbon stocks in German mineral croplands** (2026)
-   0 citations · General CDR
+9. **What limits carbon sequestration in soils?** (2023)
+   1 citations · General CDR
 
-10. **Biochar from Cereal Straw Can Offset Soil Carbon Losses from Increased Straw Harvest in German Croplands** (2026)
-   0 citations · Biochar
+10. **A baseline projection of soil organic carbon stocks in German mineral croplands** (2026)
+   0 citations · General CDR
 
 ## External Profiles
 

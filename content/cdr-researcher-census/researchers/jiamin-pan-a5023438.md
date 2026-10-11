@@ -1,7 +1,7 @@
 ---
 title: "Jiamin Pan"
 description: "Jiamin Pan is a Mid-career Biochar researcher at South China University of Technology in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.882041
+date: 2026-10-11T02:32:59.909310
 url: "/cdr-researcher-census/researchers/jiamin-pan-a5023438/"
 layout: "researcher"
 hiddenInHomeList: true

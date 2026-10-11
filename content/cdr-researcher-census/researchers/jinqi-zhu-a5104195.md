@@ -1,7 +1,7 @@
 ---
 title: "Jinqi Zhu"
 description: "Jinqi Zhu is a Senior Soil Carbon researcher at Northeast Forestry University in CN. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.859549
+date: 2026-10-11T02:32:59.886320
 url: "/cdr-researcher-census/researchers/jinqi-zhu-a5104195/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Spatial heterogeneity of natural and socio-economic features shape that of ecosystem services. A large-scale study on the Yangtze River economic Belt, China** (2024)
-   26 citations · General CDR
+   28 citations · General CDR
 
 2. **Drought diminishes ecosystem service supply and exacerbates trade-offs in the Yangtze River Economic Belt** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 3. **Shifting patterns of ecosystem service trade-offs and synergies: Evidence from the Yangtze River Economic Belt, China** (2025)
    2 citations

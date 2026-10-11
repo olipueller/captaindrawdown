@@ -1,7 +1,7 @@
 ---
 title: "Yuchen Jiang"
 description: "Yuchen Jiang is a Mid-career Biochar researcher at Guangdong University of Technology in CN. With 57 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.333496
+date: 2026-10-11T02:32:59.339214
 url: "/cdr-researcher-census/researchers/yuchen-jiang-a5053950/"
 layout: "researcher"
 hiddenInHomeList: true

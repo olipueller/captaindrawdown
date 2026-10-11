@@ -1,7 +1,7 @@
 ---
 title: "Rui Zhao"
 description: "Rui Zhao is a Senior Soil Carbon researcher at China Meteorological Administration in CN. With 37 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.314123
+date: 2026-10-11T02:32:59.319720
 url: "/cdr-researcher-census/researchers/rui-zhao-a5101414/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,15 +51,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Cultivated Land Use Zoning Based on Soil Function Evaluation from the Perspective of Black Soil Protection** (2021)
-   30 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 2. **Soil Health Evaluation of Farmland Based on Functional Soil Management—A Case Study of Yixing City, Jiangsu Province, China** (2021)
-   28 citations · Soil Carbon
+   27 citations · Soil Carbon
 
-3. **Understanding trade-offs and synergies among soil functions to support decision-making for sustainable cultivated land use** (2022)
-   20 citations · Soil Carbon
+3. **Organo-mineral complexes alter bacterial composition and induce carbon and nitrogen cycling in the rhizosphere** (2022)
+   22 citations · Soil Carbon
 
-4. **Organo-mineral complexes alter bacterial composition and induce carbon and nitrogen cycling in the rhizosphere** (2022)
+4. **Understanding trade-offs and synergies among soil functions to support decision-making for sustainable cultivated land use** (2022)
    20 citations · Soil Carbon
 
 ## External Profiles

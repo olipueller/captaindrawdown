@@ -1,7 +1,7 @@
 ---
 title: "Vahid Ebrahimpour Ahmadi"
 description: "Vahid Ebrahimpour Ahmadi is a Mid-career General CDR researcher at Sabancı Üniversitesi in TR. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.453340
+date: 2026-10-11T02:32:59.464126
 url: "/cdr-researcher-census/researchers/vahid-ebrahimpour-ahmadi-a5047749/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Performance evaluation of two-phase direct-to-chip liquid cooling combined with air cooling for data centers** (2026)
-   9 citations · General CDR
+   10 citations · General CDR
 
 ## External Profiles
 

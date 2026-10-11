@@ -1,7 +1,7 @@
 ---
 title: "Johannes Döhn"
 description: "Johannes Döhn is a Mid-career General CDR researcher at Universität Ulm in DE. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.250524
+date: 2026-10-11T02:33:00.280444
 url: "/cdr-researcher-census/researchers/johannes-dohn-a5053161/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Exploring the Mechanism of the Electrochemical Polymerization of CO <sub>2</sub> to Hard Carbon over CeO <sub>2</sub> (110)** (2024)
-   12 citations · General CDR
+   13 citations · General CDR
 
 2. **Exploring the Mechanism of the Electrochemical Polymerization of CO2 to hard carbon over CeO2 (110)** (2023)
    2 citations

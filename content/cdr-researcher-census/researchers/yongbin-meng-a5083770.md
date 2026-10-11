@@ -1,7 +1,7 @@
 ---
 title: "Yongbin Meng"
 description: "Yongbin Meng is a Mid-career Soil Carbon researcher at Yan'an University in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.778557
+date: 2026-10-11T02:32:59.801621
 url: "/cdr-researcher-census/researchers/yongbin-meng-a5083770/"
 layout: "researcher"
 hiddenInHomeList: true

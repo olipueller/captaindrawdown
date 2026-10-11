@@ -1,7 +1,7 @@
 ---
 title: "Sining Liu"
 description: "Sining Liu is a Senior Soil Carbon researcher at Sichuan Agricultural University in CN. With 96 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.260180
+date: 2026-10-11T02:32:59.264045
 url: "/cdr-researcher-census/researchers/sining-liu-a5100638/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Fertilization effects on soil organic matter chemistry** (2024)
-   30 citations · Soil Carbon
+   35 citations · Soil Carbon
 
-2. **Characteristics of Soil Organic Carbon Fractions and Stability along a Chronosequence of Cryptomeria japonica var. sinensis Plantation in the Rainy Area of Western China** (2022)
+2. **Forest thinning effects on soil carbon stocks and dynamics: Perspective of soil organic carbon sequestration rates** (2025)
+   14 citations · Soil Carbon
+
+3. **Characteristics of Soil Organic Carbon Fractions and Stability along a Chronosequence of Cryptomeria japonica var. sinensis Plantation in the Rainy Area of Western China** (2022)
    13 citations · Soil Carbon
 
-3. **Forest thinning effects on soil carbon stocks and dynamics: Perspective of soil organic carbon sequestration rates** (2025)
-   12 citations · Soil Carbon
-
 4. **Forest Gaps Slow the Humification Process of Fir (Abies faxoniana Rehder &amp; E.H.Wilson) Twig Litter during Eight Years of Decomposition in an Alpine Forest** (2023)
-   9 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 5. **Exploring the role of the rhizosphere in soil carbon cycling: impacts on pools and components of SOC along a chronosequence of Cryptomeria japonica plantations in subtropical China** (2025)
    4 citations · Soil Carbon
 
 6. **Is the Effect of Ectomycorrhizal Fungal Diversity on Seedling Growth of Picea Asperata Mast Related to Enzyme Changes?** (2021)
-   1 citations
+   2 citations
 
 ## External Profiles
 

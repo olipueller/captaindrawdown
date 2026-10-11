@@ -1,7 +1,7 @@
 ---
 title: "Hilor Pathak"
 description: "Hilor Pathak is a Mid-career Soil Carbon researcher at Indian Council of Agricultural Research in IN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.178779
+date: 2026-10-11T02:33:00.208736
 url: "/cdr-researcher-census/researchers/hilor-pathak-a5107391/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Assessment of gains in productivity and water-energy-carbon nexus with tillage, trash retention and fertigation practices in drip irrigated sugarcane** (2025)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 ## External Profiles
 

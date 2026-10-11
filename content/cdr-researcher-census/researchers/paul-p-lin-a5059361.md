@@ -1,7 +1,7 @@
 ---
 title: "Paul P. Lin"
 description: "Paul P. Lin is a Senior Biochar researcher at Institute of Biological Chemistry, Academia Sinica in TW. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.296914
+date: 2026-10-11T02:32:59.301640
 url: "/cdr-researcher-census/researchers/paul-p-lin-a5059361/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Guangrong Hu"
 description: "Guangrong Hu is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.852367
+date: 2026-10-11T02:32:59.879392
 url: "/cdr-researcher-census/researchers/guangrong-hu-a5069121/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    31 citations
 
 2. **Spatiotemporal variability of dissolved carbon and sources of dissolved inorganic carbon influenced by freeze–thaw and subsurface flow in an alpine headwater catchment of the Qinghai-Tibetan Plateau** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Abumalé Cruz‐Salomón"
 description: "Abumalé Cruz‐Salomón is a Mid-career Biochar researcher at Universidad Autonoma de Chiapas in MX. With 31 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.454723
+date: 2026-10-11T02:32:59.465812
 url: "/cdr-researcher-census/researchers/abumale-cruzsalomon-a5085985/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Activated Biochar from Pineapple Crown Biomass: A High-Efficiency Adsorbent for Organic Dye Removal** (2024)
-   39 citations · Biochar
+   49 citations · Biochar
 
 2. **Carica papaya seed− derived functionalized biochar: an environmentally friendly and efficient alternative for dye adsorption** (2025)
-   30 citations · Biochar
+   35 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "A.S.M. Mohiuddin"
 description: "A.S.M. Mohiuddin is a Mid-career Soil Carbon researcher at University of Dhaka in BD. With 27 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.265144
+date: 2026-10-11T02:33:00.295070
 url: "/cdr-researcher-census/researchers/asm-mohiuddin-a5109843/"
 layout: "researcher"
 hiddenInHomeList: true

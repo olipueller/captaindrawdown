@@ -1,7 +1,7 @@
 ---
 title: "Victoria Janes‐Bassett"
 description: "Victoria Janes‐Bassett is a Mid-career Soil Carbon researcher at University of Liverpool in GB. With 38 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.461611
+date: 2026-10-11T02:32:59.473132
 url: "/cdr-researcher-census/researchers/victoria-janesbassett-a5047933/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Organic phosphorus cycling may control grassland responses to nitrogen deposition: a long-term field manipulation and modelling study** (2021)
-   12 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 2. **Terrestrial carbon sequestration under future climate, nutrient and land use change and management scenarios: a national-scale UK case study** (2022)
    8 citations · Soil Carbon

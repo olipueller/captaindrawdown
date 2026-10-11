@@ -1,7 +1,7 @@
 ---
 title: "Yawen Huang"
 description: "Yawen Huang is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 24 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.184304
+date: 2026-10-11T02:32:59.188592
 url: "/cdr-researcher-census/researchers/yawen-huang-a5046118/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,27 +45,30 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 1,393 |
 | Publications | 24 |
-| CDR Focus | 25.0% |
-| Trajectory | Stable |
+| CDR Focus | 29.2% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Benefits and limitations of biochar for climate-smart agriculture: a review and case study from China** (2023)
-   123 citations · Biochar
+   124 citations · Biochar
 
 2. **A global synthesis of biochar's sustainability in climate-smart agriculture - Evidence from field and laboratory experiments** (2022)
    78 citations · Biochar
 
 3. **Location-optimized remediation measures for soil multifunctionality and carbon sequestration of saline-alkali land in China** (2025)
-   24 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 4. **Waste baijiu distillers’ grains-derived biochar for efficient removal of organophosphate esters from water through adsorption** (2024)
-   15 citations · Biochar
+   16 citations · Biochar
 
-5. **Global patterns of microbial metabolic regulation under conservation tillage and implications for soil carbon cycling** (2026)
-   0 citations · Soil Carbon
+5. **Can Alternative Tillage Sequester Carbon Deeper? A Global Synthesis of Deep‐Soil Carbon Stocks and Fractions** (2025)
+   1 citations · Soil Carbon
 
-6. **Can Alternative Tillage Sequester Carbon Deeper? A Global Synthesis of Deep‐Soil Carbon Stocks and Fractions** (2025)
+6. **Spatially Explicit Biochar Deployment Enhances Food Security and Advances Carbon Neutrality in China's Staple Crops** (2026)
+   0 citations · Biochar
+
+7. **Global patterns of microbial metabolic regulation under conservation tillage and implications for soil carbon cycling** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

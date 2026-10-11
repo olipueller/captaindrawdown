@@ -1,7 +1,7 @@
 ---
 title: "Milan Dabhi"
 description: "Milan Dabhi is a Mid-career Soil Carbon researcher at Gujarat University in IN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.400203
+date: 2026-10-11T02:33:00.438297
 url: "/cdr-researcher-census/researchers/milan-dabhi-a5070765/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biofilms: The Unsung Heroes of Soil Health and Crop Productivity** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

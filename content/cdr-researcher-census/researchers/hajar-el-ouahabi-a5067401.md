@@ -1,7 +1,7 @@
 ---
 title: "Hajar El Ouahabi"
 description: "Hajar El Ouahabi is an Early-career Biochar researcher at Abdelmalek Essaâdi University in MA. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.395996
+date: 2026-10-11T02:33:00.434220
 url: "/cdr-researcher-census/researchers/hajar-el-ouahabi-a5067401/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar revolution: Harnessing pyrolysis for climate resilience and circular environmental solutions** (2026)
-   8 citations · Biochar
+   9 citations · Biochar
 
 2. **Carbon sources for the development of Power-to-X chains: Case studies in Morocco** (2025)
    0 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Iris Feigenwinter"
 description: "Iris Feigenwinter is a Mid-career Soil Carbon researcher at ETH Zurich in CH. With 60 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.083143
+date: 2026-10-11T02:32:59.087974
 url: "/cdr-researcher-census/researchers/iris-feigenwinter-a5031100/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,11 +53,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Net Ecosystem <scp>CO<sub>2</sub></scp> Exchange of a Subalpine Spruce Forest in Switzerland Over 26 Years: Effects of Phenology and Contributions of Abiotic Drivers at Daily Time Scales** (2025)
    7 citations · Soil Carbon
 
-2. **Evaluation of the ECOSSE Model for Estimating Soil Respiration from Eight European Permanent Grassland Sites** (2023)
-   3 citations · Soil Carbon
+2. **Evaluation of the ECOSSE-Model for Estimating Soil Respiration from Eight European Permanent Grassland Sites** (2023)
+   6 citations · General CDR
 
-3. **Evaluation of the ECOSSE-Model for Estimating Soil Respiration from Eight European Permanent Grassland Sites** (2023)
-   3 citations · General CDR
+3. **Evaluation of the ECOSSE Model for Estimating Soil Respiration from Eight European Permanent Grassland Sites** (2023)
+   3 citations · Soil Carbon
 
 4. **Forest under stress: responses and recovery of water relations across scales during the compound drought in summer 2022** (2026)
    0 citations

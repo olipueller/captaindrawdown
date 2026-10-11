@@ -1,7 +1,7 @@
 ---
 title: "Zainab Afailal"
 description: "Zainab Afailal is a Mid-career Biochar researcher at Universidad de Zaragoza in ES. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.213446
+date: 2026-10-11T02:33:00.243552
 url: "/cdr-researcher-census/researchers/zainab-afailal-a5012351/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Production of Antioxidant Additives and High-quality Activated Biochar from Pyrolysis of Argan Shells** (2023)
-   7 citations · Biochar
+   8 citations · Biochar
 
 ## External Profiles
 

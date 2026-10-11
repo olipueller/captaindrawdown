@@ -1,7 +1,7 @@
 ---
 title: "Astley Hastings"
 description: "Astley Hastings is an Eminent BECCS researcher at University of Aberdeen in GB. With 211 publications and an h-index of 43, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.030500
+date: 2026-10-11T02:32:59.033550
 url: "/cdr-researcher-census/researchers/astley-hastings-a5058476/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Perennial biomass cropping and use: Shaping the policy ecosystem in European countries** (2023)
-   55 citations · BECCS
+   56 citations · BECCS
 
 2. **Soil Organic Carbon Significantly Increases When Perennial Biomass Plantations Are Reverted Back to Annual Arable Crops** (2023)
    20 citations · Soil Carbon
 
 3. **Novel Miscanthus hybrids: Modelling productivity on marginal land in Europe using dynamics of canopy development determined by light interception** (2023)
-   19 citations · BECCS
+   20 citations · BECCS
 
 4. **Expanding the <i>Miscanthus</i> market in the <scp>UK</scp>: Growers in profile and experience, benefits and drawbacks of the bioenergy crop** (2022)
    18 citations · BECCS
@@ -66,13 +66,13 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    14 citations · BECCS
 
 6. **A Review of Life Cycle Assessment Methods to Inform the Scale‐Up of Carbon Dioxide Removal Interventions** (2024)
-   8 citations · General CDR
+   9 citations · General CDR
 
 7. **Uncertain effectiveness of <i>Miscanthus</i> bioenergy expansion for climate change mitigation explored using land surface, agronomic and integrated assessment models** (2022)
-   6 citations · BECCS
+   7 citations · BECCS
 
 8. **Assessing the Sustainability of Miscanthus and Willow as Global Bioenergy Crops: Current and Future Climate Conditions (Part 2)** (2025)
-   2 citations
+   3 citations
 
 9. **Assessing the Sustainability of Miscanthus and Willow as Global Bioenergy Crops: Current and Future Climate Conditions (Part 2)** (2025)
    1 citations · BECCS

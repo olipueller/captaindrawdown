@@ -1,7 +1,7 @@
 ---
 title: "Serge Wiltshire"
 description: "Serge Wiltshire is a Senior Soil Carbon researcher at The Nature Conservancy in US. With 28 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.555310
+date: 2026-10-11T02:32:59.570307
 url: "/cdr-researcher-census/researchers/serge-wiltshire-a5051287/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    35 citations · General CDR
 
 2. **Integrating climate change into projections of soil carbon sequestration from regenerative agriculture** (2023)
-   8 citations · General CDR
+   7 citations · General CDR
 
 3. **Granularity of model input data impacts estimates of carbon storage in soils** (2024)
    4 citations · General CDR

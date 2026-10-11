@@ -1,7 +1,7 @@
 ---
 title: "Jiaojiao Du"
 description: "Jiaojiao Du is a Mid-career Soil Carbon researcher at Guizhou University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.046924
+date: 2026-10-11T02:33:00.077658
 url: "/cdr-researcher-census/researchers/jiaojiao-du-a5061495/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations
 
 2. **Climate-mediated land use effects on soil organic carbon storage in karst ecosystems** (2025)
-   1 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 3. **Bacteria drive SOC sequestration within aggregates under nutrient limitation in broadleaf-modified coniferous plantations** (2026)
    0 citations

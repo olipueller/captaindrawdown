@@ -1,7 +1,7 @@
 ---
 title: "Shasha Wang"
 description: "Shasha Wang is a Mid-career Biochar researcher at Fujian Academy of Agricultural Sciences in CN. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.731052
+date: 2026-10-11T02:32:59.752538
 url: "/cdr-researcher-census/researchers/shasha-wang-a5100434/"
 layout: "researcher"
 hiddenInHomeList: true

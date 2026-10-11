@@ -1,7 +1,7 @@
 ---
 title: "Eseoghene Kupa"
 description: "Eseoghene Kupa is a Mid-career BECCS researcher at Matrix Engineering (United States) in US. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.803632
+date: 2026-10-11T02:32:59.828268
 url: "/cdr-researcher-census/researchers/eseoghene-kupa-a5098941/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Land use dynamics and bioenergy: A critical review of environmental and socioeconomic interactions** (2024)
-   9 citations · BECCS
+   10 citations · BECCS
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Sheng‐Kai Sun"
 description: "Sheng‐Kai Sun is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.331300
+date: 2026-10-11T02:32:59.337011
 url: "/cdr-researcher-census/researchers/shengkai-sun-a5051697/"
 layout: "researcher"
 hiddenInHomeList: true

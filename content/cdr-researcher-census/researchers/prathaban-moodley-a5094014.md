@@ -1,7 +1,7 @@
 ---
 title: "Prathaban Moodley"
 description: "Prathaban Moodley is an Early-career General CDR researcher at South African National Energy Development Institute in ZA. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.375022
+date: 2026-10-11T02:33:00.410458
 url: "/cdr-researcher-census/researchers/prathaban-moodley-a5094014/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Artificial intelligence-based forecasting models for integrated energy system management planning: An exploration of the prospects for South Africa** (2024)
-   30 citations · General CDR
+   32 citations · General CDR
 
 ## External Profiles
 

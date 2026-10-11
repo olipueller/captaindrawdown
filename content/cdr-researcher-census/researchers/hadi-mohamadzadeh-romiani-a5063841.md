@@ -1,7 +1,7 @@
 ---
 title: "Hadi Mohamadzadeh Romiani"
 description: "Hadi Mohamadzadeh Romiani is a Mid-career Enhanced Weathering researcher at Buein Zahra Technical University in IR. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.250696
+date: 2026-10-11T02:33:00.280606
 url: "/cdr-researcher-census/researchers/hadi-mohamadzadeh-romiani-a5063841/"
 layout: "researcher"
 hiddenInHomeList: true

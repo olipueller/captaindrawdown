@@ -1,7 +1,7 @@
 ---
 title: "Prithwiraj Dey"
 description: "Prithwiraj Dey is a Senior Soil Carbon researcher at Indian Institute of Technology Kharagpur in IN. With 67 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.356365
+date: 2026-10-11T02:32:59.362777
 url: "/cdr-researcher-census/researchers/prithwiraj-dey-a5027973/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Soil Carbon
 
 3. **Soil biochemical quality indices can capture transitional changes of tillage and residue regime in lateritic soils** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 4. **Carbon and Energy Footprints in Conservation Agriculture: Short- and Long-Term Effects** (2026)
    0 citations

@@ -1,7 +1,7 @@
 ---
 title: "Artur Runge-Metzger"
 description: "Artur Runge-Metzger is a Senior General CDR researcher at Leibniz Association in DE. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.660418
+date: 2026-10-11T02:32:59.679583
 url: "/cdr-researcher-census/researchers/artur-runge-metzger-a5073228/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **On the Governance of Carbon Dioxide Removal – a Public Economics Perspective** (2023)
-   26 citations · General CDR
+   27 citations · General CDR
 
 2. **On the Governance of Carbon Dioxide Removal – A Public Economics Perspective** (2024)
    10 citations
 
 3. **Countries need to provide clarity on the role of carbon dioxide removal in their climate pledges** (2024)
-   5 citations · General CDR
+   6 citations · General CDR
 
 4. **Removals and Emissions from Agriculture and Forestry** (2024)
    1 citations

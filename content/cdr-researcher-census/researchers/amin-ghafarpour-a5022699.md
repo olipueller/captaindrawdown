@@ -1,7 +1,7 @@
 ---
 title: "Amin Ghafarpour"
 description: "Amin Ghafarpour is a Mid-career Enhanced Weathering researcher at University of Tübingen in DE. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.959565
+date: 2026-10-11T02:32:59.990695
 url: "/cdr-researcher-census/researchers/amin-ghafarpour-a5022699/"
 layout: "researcher"
 hiddenInHomeList: true

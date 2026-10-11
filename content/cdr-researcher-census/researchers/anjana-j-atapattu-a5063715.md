@@ -1,7 +1,7 @@
 ---
 title: "Anjana J. Atapattu"
 description: "Anjana J. Atapattu is a Mid-career Soil Carbon researcher at Coconut Research Institute in LK. With 90 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.253306
+date: 2026-10-11T02:32:59.257392
 url: "/cdr-researcher-census/researchers/anjana-j-atapattu-a5063715/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Agroforestry—a key tool in the climate-smart agriculture context: a review on coconut cultivation in Sri Lanka** (2023)
-   73 citations · General CDR
+   74 citations · General CDR
 
 2. **Synergies Between Tree Crops and Ecosystems in Tropical Agroforestry** (2024)
    33 citations · General CDR
@@ -60,10 +60,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    18 citations · Biochar
 
 4. **Integrating Organic Fertilizers in Coconut Farming: Best Practices and Application Techniques** (2025)
-   6 citations
+   9 citations
 
 5. **Agroforestry System: A Game Changer for Sustainable Land Use Practices** (2025)
-   4 citations · General CDR
+   6 citations · General CDR
 
 6. **Evaluation of the nutritional composition of king coconut husk waste biochar and ash soil conditioners: a comprehensive analysis** (2025)
    4 citations · Biochar

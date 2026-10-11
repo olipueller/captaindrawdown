@@ -1,7 +1,7 @@
 ---
 title: "Yifan Xu"
 description: "Yifan Xu is a Mid-career Soil Carbon researcher at University of Birmingham in GB. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.447530
+date: 2026-10-11T02:32:59.458198
 url: "/cdr-researcher-census/researchers/yifan-xu-a5100626/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Increased straw return promoted soil organic carbon accumulation in China's croplands over the past 40 years** (2024)
-   42 citations · Soil Carbon
+   45 citations · Soil Carbon
 
 2. **Land availability and policy commitments limit global climate mitigation from forestation** (2025)
-   27 citations · General CDR
+   29 citations · General CDR
 
 3. **Sustainable bioenergy contributes to cost-effective climate change mitigation in China** (2024)
-   19 citations · BECCS
+   21 citations · BECCS
 
 4. **Unlocking Synergies: Climate Mitigation, Clean Air, and Health Benefits of Sustainable Bioenergy in China** (2025)
    3 citations · BECCS

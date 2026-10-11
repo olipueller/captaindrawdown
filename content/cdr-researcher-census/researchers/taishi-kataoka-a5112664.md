@@ -1,7 +1,7 @@
 ---
 title: "Taishi Kataoka"
 description: "Taishi Kataoka is an Early-career DAC researcher at Kyoto University of Education in JP. With 26 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.395721
+date: 2026-10-11T02:33:00.434018
 url: "/cdr-researcher-census/researchers/taishi-kataoka-a5112664/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Photo-thermal CO2 desorption from amine-modified silica / carbon aerogel for direct air capture** (2024)
-   45 citations
+   47 citations
 
 2. **Photothermal Release of CO<sub>2</sub> Using Carbon/Silica Composite toward Direct Air Capture** (2023)
-   21 citations
+   22 citations
 
 3. **Photothermal release of CO2 using carbon/silica composite toward direct air capture** (2023)
    0 citations · DAC

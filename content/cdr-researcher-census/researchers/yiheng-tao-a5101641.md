@@ -1,7 +1,7 @@
 ---
 title: "Yiheng Tao"
 description: "Yiheng Tao is a Mid-career General CDR researcher at Shenyang Agricultural University in CN. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.615725
+date: 2026-10-11T02:32:59.633171
 url: "/cdr-researcher-census/researchers/yiheng-tao-a5101641/"
 layout: "researcher"
 hiddenInHomeList: true

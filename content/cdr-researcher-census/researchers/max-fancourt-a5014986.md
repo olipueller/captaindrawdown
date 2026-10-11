@@ -1,7 +1,7 @@
 ---
 title: "Max Fancourt"
 description: "Max Fancourt is a Mid-career Soil Carbon researcher at Natural England in GB. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.914233
+date: 2026-10-11T02:32:59.958171
 url: "/cdr-researcher-census/researchers/max-fancourt-a5014986/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Background climate conditions regulated the photosynthetic response of Amazon forests to the 2015/2016 El Nino-Southern Oscillation event** (2022)
-   18 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 ## External Profiles
 

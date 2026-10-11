@@ -1,7 +1,7 @@
 ---
 title: "Kangming Tan"
 description: "Kangming Tan is a Senior Soil Carbon researcher at Guangdong University of Technology in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.999689
+date: 2026-10-11T02:33:00.030619
 url: "/cdr-researcher-census/researchers/kangming-tan-a5017587/"
 layout: "researcher"
 hiddenInHomeList: true

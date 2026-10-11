@@ -1,7 +1,7 @@
 ---
 title: "Jinjing Zhang"
 description: "Jinjing Zhang is a Senior Soil Carbon researcher at Jilin Agricultural University in CN. With 92 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.117371
+date: 2026-10-11T02:32:59.122006
 url: "/cdr-researcher-census/researchers/jinjing-zhang-a5101530/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic carbon accumulation mechanisms in soil amended with straw and biochar: entombing effect or biochemical protection?** (2025)
-   43 citations · Biochar
+   48 citations · Biochar
 
 2. **Rice Straw Biochar is More Beneficial to Soil Organic Carbon Accumulation and Stabilization than Rice Straw and Rice Straw Ash** (2023)
    11 citations · Biochar
@@ -60,12 +60,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    10 citations · Soil Carbon
 
 4. **Insight in the characteristics of humic substances with cotton straw derived organic materials amendments** (2025)
-   6 citations · Biochar
+   7 citations · Biochar
 
 5. **Influence of straw, compost, and biochar on soil carbon and aggregates in Chernozem** (2025)
-   6 citations · Biochar
+   7 citations · Biochar
 
-6. **Insight in the characteristics of humic substances with cotton straw derived organic materials amendments** (2024)
+6. **Impacts of Straw and Biochar Amendment on Content and Chemical Composition of Soil Dissolved Organic Matter** (2026)
+   0 citations · Biochar
+
+7. **Insight in the characteristics of humic substances with cotton straw derived organic materials amendments** (2024)
    0 citations
 
 ## External Profiles

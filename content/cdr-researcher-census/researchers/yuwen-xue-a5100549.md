@@ -1,7 +1,7 @@
 ---
 title: "Yuwen Xue"
 description: "Yuwen Xue is a Mid-career Biochar researcher at Southwest Forestry University in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.272160
+date: 2026-10-11T02:33:00.302212
 url: "/cdr-researcher-census/researchers/yuwen-xue-a5100549/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Engineered synthesis of Fe-Mn bimetallic anchored hierarchical bamboo-derived activated carbon: Dual-functional platform for ultrahigh-capacity phenol adsorption and high-energy supercapacitors** (2025)
-   25 citations · Biochar
+   26 citations · Biochar
 
 ## External Profiles
 

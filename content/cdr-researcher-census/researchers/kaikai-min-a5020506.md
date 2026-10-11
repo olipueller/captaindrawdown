@@ -1,7 +1,7 @@
 ---
 title: "Kaikai Min"
 description: "Kaikai Min is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.143659
+date: 2026-10-11T02:33:00.173875
 url: "/cdr-researcher-census/researchers/kaikai-min-a5020506/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    23 citations · Soil Carbon
 
 2. **Ecotypes shape extracellular enzyme stoichiometries via microbial resource allocation** (2024)
-   12 citations
+   15 citations
 
 3. **Bacterial community structure and assembly dynamics hinge on plant litter quality** (2023)
    11 citations

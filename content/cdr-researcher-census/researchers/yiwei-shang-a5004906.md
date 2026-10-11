@@ -1,7 +1,7 @@
 ---
 title: "Yiwei Shang"
 description: "Yiwei Shang is a Mid-career Soil Carbon researcher at Aarhus University in DK. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.698041
+date: 2026-10-11T02:32:59.718381
 url: "/cdr-researcher-census/researchers/yiwei-shang-a5004906/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,18 +51,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Perennial cropping systems increased topsoil carbon and nitrogen stocks over annual systems—a nine-year field study** (2024)
-   44 citations · Soil Carbon
+   45 citations · Soil Carbon
 
 2. **Microbial and plant-derived carbon contributions to particulate and mineral-associated organic carbon in perennial and annual cropping systems** (2026)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 3. **Perennial Cropping Systems Increased Soil Carbon and Nitrogen Stocks Over Annual Systems – a Nine-Year Field Study** (2023)
    1 citations · Soil Carbon
 
-4. **Inconsistent methods compromise estimates of soil organic carbon stock changes following conversion from annual to perennial cropping systems: A meta-analysis** (2026)
+4. **Subsurface split manure application increased soil organic carbon accumulation and stability by enhancing aggregation and recalcitrant carbon fractions with depth-dependent mechanisms** (2026)
    0 citations · Soil Carbon
 
-5. **Enhancing plant-derived carbon is key to building stabilized soil organic carbon with perennial crops** (2025)
+5. **Inconsistent methods compromise estimates of soil organic carbon stock changes following conversion from annual to perennial cropping systems: A meta-analysis** (2026)
+   0 citations · Soil Carbon
+
+6. **Enhancing plant-derived carbon is key to building stabilized soil organic carbon with perennial crops** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

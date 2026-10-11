@@ -1,7 +1,7 @@
 ---
 title: "P. Phothilangka"
 description: "P. Phothilangka is a Senior General CDR researcher at Lampang Rajabhat University in TH. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.724071
+date: 2026-10-11T02:32:59.745098
 url: "/cdr-researcher-census/researchers/p-phothilangka-a5088462/"
 layout: "researcher"
 hiddenInHomeList: true

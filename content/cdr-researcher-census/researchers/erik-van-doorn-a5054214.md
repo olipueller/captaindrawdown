@@ -1,7 +1,7 @@
 ---
 title: "Erik van Doorn"
 description: "Erik van Doorn is a Mid-career Ocean CDR researcher at University of Wollongong in AU. With 34 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.611274
+date: 2026-10-11T02:32:59.628671
 url: "/cdr-researcher-census/researchers/erik-van-doorn-a5054214/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **A holistic assessment framework for marine carbon dioxide removal options** (2025)
-   11 citations · General CDR
+   12 citations · General CDR
 
 2. **Can coastal and marine carbon dioxide removal help to close the emissions gap? Scientific, legal, economic, and governance considerations** (2024)
-   9 citations · General CDR
+   10 citations · General CDR
 
 ## External Profiles
 

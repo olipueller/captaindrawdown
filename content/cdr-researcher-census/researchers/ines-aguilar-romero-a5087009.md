@@ -1,7 +1,7 @@
 ---
 title: "Inés Aguilar-Romero"
 description: "Inés Aguilar-Romero is a Mid-career Ocean CDR researcher at Consejo Superior de Investigaciones Científicas in ES. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.850837
+date: 2026-10-11T02:32:59.877781
 url: "/cdr-researcher-census/researchers/ines-aguilar-romero-a5087009/"
 layout: "researcher"
 hiddenInHomeList: true

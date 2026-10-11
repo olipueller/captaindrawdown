@@ -1,7 +1,7 @@
 ---
 title: "Zhangtao Li"
 description: "Zhangtao Li is a Mid-career Biochar researcher at Zhejiang University of Science and Technology in CN. With 20 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.128997
+date: 2026-10-11T02:32:59.133764
 url: "/cdr-researcher-census/researchers/zhangtao-li-a5036494/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,10 +50,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Top CDR Publications
 
-1. **Green synthesized nanoscale zero-valent iron impregnated tea residue biochar efficiently captures metal(loid)s for sustainable water remediation** (2024)
-   10 citations · Biochar
+1. **Green synthesis of nanoscale zero-valent iron impregnated walnut shell biochar as efficient adsorbent for metal(loid)s purification: Performance and mechanism insight** (2024)
+   11 citations · Biochar
 
-2. **Green synthesis of nanoscale zero-valent iron impregnated walnut shell biochar as efficient adsorbent for metal(loid)s purification: Performance and mechanism insight** (2024)
+2. **Green synthesized nanoscale zero-valent iron impregnated tea residue biochar efficiently captures metal(loid)s for sustainable water remediation** (2024)
    10 citations · Biochar
 
 ## External Profiles

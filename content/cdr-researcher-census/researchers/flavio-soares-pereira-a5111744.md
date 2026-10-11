@@ -1,7 +1,7 @@
 ---
 title: "Flavio Soares Pereira"
 description: "Flavio Soares Pereira is a Senior General CDR researcher at Universidade Federal do Rio de Janeiro in BR. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.202869
+date: 2026-10-11T02:33:00.232871
 url: "/cdr-researcher-census/researchers/flavio-soares-pereira-a5111744/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Thermo-Energetic Analysis of Electrolytic Oxygen Valorization via Biomass Oxy-Fuel Combustion: A Case Study Applied to a Power-to-Liquid Route for Methanol Synthesis** (2025)
-   2 citations
+   3 citations
 
 2. **Thermo-Energetic Analysis of Electrolytic Oxygen Valorization via Biomass Oxy-Fuel Combustion: A Case Study Applied to a Power-to-Liquid Route for Methanol Synthesis** (2025)
    1 citations · General CDR

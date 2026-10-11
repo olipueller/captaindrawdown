@@ -1,7 +1,7 @@
 ---
 title: "Weiming Li"
 description: "Weiming Li is a Mid-career Soil Carbon researcher at UNSW Sydney in AU. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.351905
+date: 2026-10-11T02:33:00.386843
 url: "/cdr-researcher-census/researchers/weiming-li-a5058533/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Salinity decreases the soil organic carbon stock while increasing its stability: A case study in the coastal region of China** (2025)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 2. **Straw mineralization and carbon dioxide emissions in soils with different salinity levels** (2025)
    3 citations · Soil Carbon

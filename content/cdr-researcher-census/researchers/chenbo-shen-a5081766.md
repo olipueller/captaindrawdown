@@ -1,7 +1,7 @@
 ---
 title: "Chenbo Shen"
 description: "Chenbo Shen is a Mid-career Soil Carbon researcher at Carnegie Mellon University in US. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.078909
+date: 2026-10-11T02:33:00.109066
 url: "/cdr-researcher-census/researchers/chenbo-shen-a5081766/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Organo-mineral complexes alter bacterial composition and induce carbon and nitrogen cycling in the rhizosphere** (2022)
-   20 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 ## External Profiles
 

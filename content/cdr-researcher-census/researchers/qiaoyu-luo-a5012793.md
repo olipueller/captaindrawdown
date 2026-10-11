@@ -1,7 +1,7 @@
 ---
 title: "Qiaoyu Luo"
 description: "Qiaoyu Luo is a Mid-career Soil Carbon researcher at Qinghai Normal University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.279996
+date: 2026-10-11T02:33:00.310051
 url: "/cdr-researcher-census/researchers/qiaoyu-luo-a5012793/"
 layout: "researcher"
 hiddenInHomeList: true

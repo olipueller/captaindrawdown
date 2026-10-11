@@ -1,7 +1,7 @@
 ---
 title: "Sze Yu Lau"
 description: "Sze Yu Lau is a Mid-career Biochar researcher at Biographics (United States) in US. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.960680
+date: 2026-10-11T02:32:59.991939
 url: "/cdr-researcher-census/researchers/sze-yu-lau-a5058369/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Coupled effects of elevated CO2 and biochar on microbial communities of vegetated soil** (2023)
-   21 citations · Biochar
+   22 citations · Biochar
 
 2. **Effects of elevated CO2 on hydraulic performance and carbon assimilation of Schefflera arboricola** (2022)
    3 citations

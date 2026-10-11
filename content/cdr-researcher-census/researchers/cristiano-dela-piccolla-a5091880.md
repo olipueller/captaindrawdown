@@ -1,7 +1,7 @@
 ---
 title: "Cristiano Dela Piccolla"
 description: "Cristiano Dela Piccolla is a Senior Biochar researcher at Universidade de São Paulo in BR. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.135009
+date: 2026-10-11T02:33:00.165410
 url: "/cdr-researcher-census/researchers/cristiano-dela-piccolla-a5091880/"
 layout: "researcher"
 hiddenInHomeList: true

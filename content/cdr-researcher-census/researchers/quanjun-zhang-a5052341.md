@@ -1,7 +1,7 @@
 ---
 title: "Quanjun Zhang"
 description: "Quanjun Zhang is a Senior Soil Carbon researcher. With 34 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.003275
+date: 2026-10-11T02:33:00.034072
 url: "/cdr-researcher-census/researchers/quanjun-zhang-a5052341/"
 layout: "researcher"
 hiddenInHomeList: true

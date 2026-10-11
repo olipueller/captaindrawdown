@@ -1,7 +1,7 @@
 ---
 title: "Rahmatullah Hashimi"
 description: "Rahmatullah Hashimi is a Mid-career Soil Carbon researcher at The University of Texas at El Paso in US. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.559252
+date: 2026-10-11T02:32:59.574693
 url: "/cdr-researcher-census/researchers/rahmatullah-hashimi-a5042532/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Soil Carbon
 
 2. **Addition of biochar decreased soil respiration in a permanent no-till cover crop system for organic soybean production** (2023)
-   10 citations · Biochar
+   12 citations · Biochar
 
 3. **Enhancing agroecosystem sustainability: Integrative soil health strategies in regenerative organic soybean production on Andosol in Japan** (2024)
    7 citations

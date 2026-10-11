@@ -1,7 +1,7 @@
 ---
 title: "Piumi Amasha Withana"
 description: "Piumi Amasha Withana is a Mid-career Biochar researcher at University of Vermont in US. With 21 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.312946
+date: 2026-10-11T02:32:59.318509
 url: "/cdr-researcher-census/researchers/piumi-amasha-withana-a5006624/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Arsenic removal from water and soils using pristine and modified biochars** (2022)
-   88 citations · Biochar
+   91 citations · Biochar
 
 2. **Sustainable biochar: Market development and commercialization to achieve ESG goals** (2025)
-   31 citations · Biochar
+   39 citations · Biochar
 
 3. **Engineered biochar as a potential adsorbent for carbon dioxide capture** (2022)
    1 citations · Biochar

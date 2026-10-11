@@ -1,7 +1,7 @@
 ---
 title: "Zhenhang Liu"
 description: "Zhenhang Liu is a Mid-career Soil Carbon researcher at Ministry of Natural Resources in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.357751
+date: 2026-10-11T02:33:00.392646
 url: "/cdr-researcher-census/researchers/zhenhang-liu-a5034353/"
 layout: "researcher"
 hiddenInHomeList: true

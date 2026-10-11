@@ -1,7 +1,7 @@
 ---
 title: "Sadikul Islam"
 description: "Sadikul Islam is a Mid-career Soil Carbon researcher at ICAR Indian Institute of Soil and Water Conservation in IN. With 50 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.478105
+date: 2026-10-11T02:32:59.489468
 url: "/cdr-researcher-census/researchers/sadikul-islam-a5101978/"
 layout: "researcher"
 hiddenInHomeList: true

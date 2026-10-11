@@ -1,7 +1,7 @@
 ---
 title: "Lingke Guo"
 description: "Lingke Guo is a Mid-career Soil Carbon researcher at Huazhong Agricultural University in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.793575
+date: 2026-10-11T02:32:59.817211
 url: "/cdr-researcher-census/researchers/lingke-guo-a5056857/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Impact of suburban cropland intensification and afforestation on microbial biodiversity and C sequestration in paddy soils** (2023)
-   6 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Giulia Ischia"
 description: "Giulia Ischia is a Mid-career Biochar researcher at Max Planck Institute of Colloids and Interfaces in DE. With 24 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.313207
+date: 2026-10-11T02:32:59.318774
 url: "/cdr-researcher-census/researchers/giulia-ischia-a5002457/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Transitioning from hydrothermal carbonization to humification for producing artificial humic substances** (2025)
-   23 citations · Biochar
+   25 citations · Biochar
 
 2. **Progress and challenges in thermochemical technologies for biomass humification: A comprehensive review** (2026)
-   4 citations · Biochar
+   5 citations · Biochar
 
 3. **Artificial Humic Substances Via Hydrothermal Conversion of Biomass: Unlocking the Transition from Carbonization to Humification** (2025)
    0 citations · Biochar

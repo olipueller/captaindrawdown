@@ -1,7 +1,7 @@
 ---
 title: "Ram Kishor Fagodiya"
 description: "Ram Kishor Fagodiya is a Senior Soil Carbon researcher at Central Soil Salinity Research Institute in IN. With 75 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.138551
+date: 2026-10-11T02:32:59.143048
 url: "/cdr-researcher-census/researchers/ram-kishor-fagodiya-a5046352/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biochar for environmental sustainability in the energy-water-agroecosystem nexus** (2021)
-   137 citations · Biochar
+   139 citations · Biochar
 
 2. **The food-energy-water-carbon nexus of the rice-wheat production system in the western Indo-Gangetic Plain of India: An impact of irrigation system, conservational tillage and residue management** (2022)
-   57 citations · Soil Carbon
+   58 citations · Soil Carbon
 
 3. **Greenhouse Gas Emissions from Salt-Affected Soils: Mechanistic Understanding of Interplay Factors and Reclamation Approaches** (2022)
    50 citations · Soil Carbon
@@ -63,10 +63,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    30 citations · Soil Carbon
 
 5. **Fourteen-years impact of crop establishment, tillage and residue management on carbon input, soil carbon sequestration, crop productivity and profitability of rice-wheat system** (2024)
-   11 citations · General CDR
+   12 citations · General CDR
 
 6. **Assessment of gains in productivity and water-energy-carbon nexus with tillage, trash retention and fertigation practices in drip irrigated sugarcane** (2025)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 7. **Sub-surface drainage: A win-win technology for achieving carbon neutrality and land amelioration in salt-affected Vertisols of India** (2023)
    7 citations · Soil Carbon

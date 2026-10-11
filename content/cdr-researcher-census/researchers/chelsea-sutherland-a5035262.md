@@ -1,7 +1,7 @@
 ---
 title: "Chelsea Sutherland"
 description: "Chelsea Sutherland is a Senior Soil Carbon researcher at University of Saskatchewan in CA. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.257714
+date: 2026-10-11T02:33:00.287826
 url: "/cdr-researcher-census/researchers/chelsea-sutherland-a5035262/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Correlating Genetically Modified Crops, Glyphosate Use and Increased Carbon Sequestration** (2021)
-   32 citations · Soil Carbon
+   33 citations · Soil Carbon
 
 2. **Exploring Herbicide-Tolerant Canola's Contribution to the Carbon Sequestered in Saskatchewan Agricultural Soils Over the Last Twenty-Five Years** (2021)
    0 citations · Soil Carbon

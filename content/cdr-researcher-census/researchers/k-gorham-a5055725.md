@@ -1,7 +1,7 @@
 ---
 title: "K. Gorham"
 description: "K. Gorham is a Senior General CDR researcher. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.464380
+date: 2026-10-11T02:32:59.475580
 url: "/cdr-researcher-census/researchers/k-gorham-a5055725/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Opinion: A research roadmap for exploring atmospheric methane removal via iron salt aerosol** (2024)
-   12 citations · General CDR
+   13 citations · General CDR
 
 2. **Exploring potential atmospheric methane removal approaches: an example research roadmap for chlorine radical enhancement** (2023)
    1 citations · General CDR

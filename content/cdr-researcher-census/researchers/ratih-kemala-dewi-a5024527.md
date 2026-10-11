@@ -1,7 +1,7 @@
 ---
 title: "Ratih Kemala Dewi"
 description: "Ratih Kemala Dewi is a Mid-career Soil Carbon researcher at IPB University in ID. With 49 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.900313
+date: 2026-10-11T02:32:59.929607
 url: "/cdr-researcher-census/researchers/ratih-kemala-dewi-a5024527/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    42 citations · Soil Carbon
 
 2. **Addition of biochar decreased soil respiration in a permanent no-till cover crop system for organic soybean production** (2023)
-   10 citations · Biochar
+   12 citations · Biochar
 
 3. **Enhancing agroecosystem sustainability: Integrative soil health strategies in regenerative organic soybean production on Andosol in Japan** (2024)
    7 citations
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Biochar
 
 5. **The Effects of Tillage Systems and Cover Crops on Soil Quality and Soybean Yield** (2024)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 6. **No-tillage intercropping with a robotic mower: Advancing a high productivity, low-carbon and energy-efficient organic farming system** (2025)
    2 citations · Soil Carbon

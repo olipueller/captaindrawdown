@@ -1,7 +1,7 @@
 ---
 title: "Anne B. Ottenbros"
 description: "Anne B. Ottenbros is a Mid-career DAC researcher at Radboud University Nijmegen in NL. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.296164
+date: 2026-10-11T02:33:00.326644
 url: "/cdr-researcher-census/researchers/anne-b-ottenbros-a5025245/"
 layout: "researcher"
 hiddenInHomeList: true

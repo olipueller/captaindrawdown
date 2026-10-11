@@ -1,7 +1,7 @@
 ---
 title: "Kermue Vasco Jarnda"
 description: "Kermue Vasco Jarnda is an Early-career Soil Carbon researcher at Central South University in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.394412
+date: 2026-10-11T02:33:00.431805
 url: "/cdr-researcher-census/researchers/kermue-vasco-jarnda-a5093830/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Wenyuan Zhu"
 description: "Wenyuan Zhu is a Senior Biochar researcher at Nanjing Forestry University in CN. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.267546
+date: 2026-10-11T02:33:00.297559
 url: "/cdr-researcher-census/researchers/wenyuan-zhu-a5102789/"
 layout: "researcher"
 hiddenInHomeList: true

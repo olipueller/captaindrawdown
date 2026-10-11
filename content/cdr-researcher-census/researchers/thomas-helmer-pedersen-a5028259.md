@@ -1,7 +1,7 @@
 ---
 title: "Thomas Helmer Pedersen"
 description: "Thomas Helmer Pedersen is a Senior General CDR researcher at Aalborg University in DK. With 135 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.072847
+date: 2026-10-11T02:32:59.077597
 url: "/cdr-researcher-census/researchers/thomas-helmer-pedersen-a5028259/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,34 +51,34 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Systematical analysis of sludge treatment and disposal technologies for carbon footprint reduction** (2022)
-   67 citations · General CDR
+   68 citations · General CDR
 
-2. **Climate change impacts of bioenergy technologies: A comparative consequential LCA of sustainable fuels production with CCUS** (2024)
-   30 citations · BECCS
+2. **Techno-economic study of integrated high-temperature direct air capture with hydrogen-based calcination and Fischer–Tropsch synthesis for jet fuel production** (2024)
+   32 citations · DAC
 
-3. **Techno-economic study of integrated high-temperature direct air capture with hydrogen-based calcination and Fischer–Tropsch synthesis for jet fuel production** (2024)
-   29 citations · DAC
+3. **Climate change impacts of bioenergy technologies: A comparative consequential LCA of sustainable fuels production with CCUS** (2024)
+   31 citations · BECCS
 
 4. **Techno-economic evaluation of carbon capture via physical absorption from HTL gas phase derived from woody biomass and sewage sludge** (2021)
    19 citations · BECCS
 
 5. **Techno-economic analysis of two novel direct air capture-to-urea concepts based on process intensification** (2025)
-   12 citations · DAC
+   13 citations · DAC
 
 6. **Prospective life cycle and techno-economic analysis of direct air capture-to-urea production under CBAM** (2025)
-   5 citations · DAC
+   6 citations · DAC
 
-7. **Impact of adsorption kinetics on the integration of temperature vacuum swing adsorption-based direct air capture (TVSA-DAC) with e-methanol production** (2025)
+7. **Integrated e-Methanol and Drop-in Fuels Hydrothermal Liquefaction Platform─Techno-Economic and GHG Emissions Assessment for Grid-Connected Plants under Flexible BECCU(S) Operation** (2024)
+   6 citations · BECCS
+
+8. **Is solid calcium looping a scalable technology for mega-ton carbon dioxide removal?** (2025)
+   5 citations · General CDR
+
+9. **Impact of adsorption kinetics on the integration of temperature vacuum swing adsorption-based direct air capture (TVSA-DAC) with e-methanol production** (2025)
    5 citations
 
-8. **Integrated e-Methanol and Drop-in Fuels Hydrothermal Liquefaction Platform─Techno-Economic and GHG Emissions Assessment for Grid-Connected Plants under Flexible BECCU(S) Operation** (2024)
-   5 citations · BECCS
-
-9. **Is solid calcium looping a scalable technology for mega-ton carbon dioxide removal?** (2025)
-   4 citations · General CDR
-
-10. **Solving the Water Loss Challenge in Potassium Hydroxide-Based Liquid Direct Air Capture Systems by Tolerating Concentration Fluctuations** (2026)
-   0 citations · DAC
+10. **Techno-economic assessment of direct air capture using curtailed wind power as a niche application: A prospective outlook** (2026)
+   1 citations
 
 ## External Profiles
 

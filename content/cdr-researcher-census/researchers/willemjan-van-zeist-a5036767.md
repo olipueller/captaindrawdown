@@ -1,7 +1,7 @@
 ---
 title: "Willem‐Jan van Zeist"
 description: "Willem‐Jan van Zeist is a Senior General CDR researcher at Wageningen University and Research Centre in NL. With 83 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.057106
+date: 2026-10-11T02:32:59.061432
 url: "/cdr-researcher-census/researchers/willemjan-van-zeist-a5036767/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,19 +50,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Top CDR Publications
 
-1. **Multiple pathways towards sustainable development goals and climate targets** (2024)
-   38 citations · General CDR
+1. **Reducing sectoral hard-to-abate emissions to limit reliance on carbon dioxide removal** (2024)
+   112 citations · General CDR
 
-2. **Food and land system transformations under different societal perspectives on sustainable development** (2024)
-   12 citations · General CDR
+2. **Multiple pathways towards sustainable development goals and climate targets** (2024)
+   40 citations · General CDR
 
-3. **Reducing sectoral hard to abate emissions to limit reliance of Carbon Dioxide Removal in 1.5°C scenarios** (2023)
+3. **Food and land system transformations under different societal perspectives on sustainable development** (2024)
+   13 citations · General CDR
+
+4. **Reducing sectoral hard to abate emissions to limit reliance of Carbon Dioxide Removal in 1.5°C scenarios** (2023)
    1 citations · General CDR
 
-4. **Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment** (2026)
+5. **Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment** (2026)
    0 citations · BECCS
 
-5. **Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment** (2026)
+6. **Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment** (2026)
    0 citations · BECCS
 
 ## External Profiles

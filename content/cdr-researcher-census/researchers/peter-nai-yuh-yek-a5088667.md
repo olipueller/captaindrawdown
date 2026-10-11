@@ -1,7 +1,7 @@
 ---
 title: "Peter Nai Yuh Yek"
 description: "Peter Nai Yuh Yek is a Senior Biochar researcher at University College of Technology Sarawak in MY. With 83 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.047235
+date: 2026-10-11T02:32:59.050956
 url: "/cdr-researcher-census/researchers/peter-nai-yuh-yek-a5088667/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    9 citations · Biochar
 
 3. **Microwave physicochemical activation: an advanced approach to produce activated biochar for palm oil mill effluent treatment** (2022)
-   8 citations · Biochar
+   9 citations · Biochar
 
 4. **Microwave co-pyrolysis of seaweed and lignocellulosic biomass for advanced nano-biochar production** (2026)
    1 citations · Biochar

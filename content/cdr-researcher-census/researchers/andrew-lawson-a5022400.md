@@ -1,7 +1,7 @@
 ---
 title: "Andrew Lawson"
 description: "Andrew Lawson is a Senior Soil Carbon researcher. With 36 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.431961
+date: 2026-10-11T02:32:59.442201
 url: "/cdr-researcher-census/researchers/andrew-lawson-a5022400/"
 layout: "researcher"
 hiddenInHomeList: true

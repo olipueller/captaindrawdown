@@ -1,7 +1,7 @@
 ---
 title: "Shiv Vendra Singh"
 description: "Shiv Vendra Singh is a Mid-career Biochar researcher at Central Agricultural University in IN. With 58 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.331540
+date: 2026-10-11T02:32:59.337250
 url: "/cdr-researcher-census/researchers/shiv-vendra-singh-a5001338/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Characterization, bioenergy value, and thermal stability of biochars derived from diverse agriculture and forestry lignocellulosic wastes** (2021)
-   90 citations · Biochar
+   92 citations · Biochar
 
 2. **Biochar application in constructed wetlands for wastewater treatment: A critical review** (2024)
-   59 citations · Biochar
+   63 citations · Biochar
 
 3. **Soil carbon-nutrient cycling, energetics, and carbon footprint in calcareous soils with adoption of long-term conservation tillage practices and cropping systems diversification** (2023)
    43 citations · Soil Carbon
@@ -62,14 +62,14 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 4. **Microbial dynamics and carbon stability under biochar-amended soils** (2024)
    5 citations · Biochar
 
-5. **Holistic Approaches to Enhancing Climate Resilience and Biodiversity Conservation for Food Security** (2025)
+5. **Climate smart land configurations and cropping systems diversification sustaining soil–water–carbon synergy and resource use efficiency** (2025)
+   3 citations · Soil Carbon
+
+6. **Holistic Approaches to Enhancing Climate Resilience and Biodiversity Conservation for Food Security** (2025)
    3 citations · General CDR
 
-6. **Crop waste conversion into biochar: an overview** (2024)
+7. **Crop waste conversion into biochar: an overview** (2024)
    3 citations · Biochar
-
-7. **Climate smart land configurations and cropping systems diversification sustaining soil–water–carbon synergy and resource use efficiency** (2025)
-   2 citations · Soil Carbon
 
 8. **Scenario of Crop Residue Generation and Sustainable Management** (2025)
    1 citations · Soil Carbon

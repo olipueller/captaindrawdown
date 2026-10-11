@@ -1,7 +1,7 @@
 ---
 title: "Tongtian Guo"
 description: "Tongtian Guo is a Mid-career Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 28 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.548078
+date: 2026-10-11T02:32:59.563154
 url: "/cdr-researcher-census/researchers/tongtian-guo-a5069829/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Subsurface leaf and root litter enhance soil carbon formation compared to surface litter: Direct evidence from a <scp> <sup>13</sup> C </scp> ‐labelled incubation experiment** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 2. **Grassland restoration increases soil C release rates but reduces its temperature sensitivity at the topmost and subsurface layers** (2025)
    1 citations · Soil Carbon

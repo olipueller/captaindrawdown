@@ -1,7 +1,7 @@
 ---
 title: "Alperen Meral"
 description: "Alperen Meral is a Mid-career Soil Carbon researcher at Bingöl University in TR. With 57 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.886478
+date: 2026-10-11T02:32:59.913608
 url: "/cdr-researcher-census/researchers/alperen-meral-a5062881/"
 layout: "researcher"
 hiddenInHomeList: true

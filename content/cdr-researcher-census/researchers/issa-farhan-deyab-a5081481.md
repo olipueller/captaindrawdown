@@ -1,7 +1,7 @@
 ---
 title: "Issa Farhan Deyab"
 description: "Issa Farhan Deyab is a Mid-career Biochar researcher at Al-Mustaqbal University. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.456150
+date: 2026-10-11T02:32:59.467287
 url: "/cdr-researcher-census/researchers/issa-farhan-deyab-a5081481/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Utilizing pomegranate peel biochar for effective malachite green adsorption** (2025)
-   16 citations · Biochar
+   17 citations · Biochar
 
 ## External Profiles
 

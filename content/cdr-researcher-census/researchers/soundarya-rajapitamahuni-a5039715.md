@@ -1,7 +1,7 @@
 ---
 title: "Soundarya Rajapitamahuni"
 description: "Soundarya Rajapitamahuni is a Mid-career Soil Carbon researcher at Ben-Gurion University of the Negev in IL. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.036273
+date: 2026-10-11T02:33:00.066998
 url: "/cdr-researcher-census/researchers/soundarya-rajapitamahuni-a5039715/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sefiu Olaitan Amusat"
 description: "Sefiu Olaitan Amusat is a Mid-career Biochar researcher at University of South Africa in ZA. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.468437
+date: 2026-10-11T02:32:59.479810
 url: "/cdr-researcher-census/researchers/sefiu-olaitan-amusat-a5067875/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,19 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Ball-milling synthesis of biochar and biochar–based nanocomposites and prospects for removal of emerging contaminants: A review** (2021)
-   322 citations · Biochar
+   324 citations · Biochar
 
 2. **Sustainable wastewater treatment: Mechanistic, environmental, and economic insights into biochar for synthetic dye removal** (2025)
-   30 citations · Biochar
+   37 citations · Biochar
 
 3. **Green Synthesis of Surface Modified Biochar for Simultaneous Removal of Steroidal Hormones and Heavy Metals from Wastewater: Optimisation by Central Composite Design** (2023)
    11 citations · Biochar
 
 4. **Biochar-reinforced biodegradable mulching films: Toward climate-resilient and sustainable agriculture** (2026)
    3 citations · Biochar
+
+5. **Electrochemical Processes for SAF Synthesis** (2026)
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Yidan Gong"
 description: "Yidan Gong is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.308580
+date: 2026-10-11T02:33:00.339400
 url: "/cdr-researcher-census/researchers/yidan-gong-a5073146/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Modified biochar reduces the greenhouse gas emission intensity and enhances the net ecosystem economic budget in black soil soybean fields** (2023)
-   42 citations · Biochar
+   45 citations · Biochar
 
 ## External Profiles
 

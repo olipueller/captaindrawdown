@@ -1,7 +1,7 @@
 ---
 title: "Xiaodong Nie"
 description: "Xiaodong Nie is a Senior Soil Carbon researcher at Hunan Normal University in CN. With 110 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.055108
+date: 2026-10-11T02:32:59.059217
 url: "/cdr-researcher-census/researchers/xiaodong-nie-a5101202/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,16 +48,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Unbalanced social-ecological development within the Dongting Lake basin: Inspiration from evaluation of ecological restoration projects** (2021)
-   80 citations · General CDR
+   81 citations · General CDR
 
 2. **Land use change induced by the implementation of ecological restoration Programs increases future terrestrial ecosystem carbon sequestration in red soil hilly region of China** (2021)
-   39 citations · General CDR
+   40 citations · General CDR
 
 3. **Sediment organic carbon dynamics response to land use change in diverse watershed anthropogenic activities** (2023)
-   37 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 4. **Factors controlling soil organic carbon with depth at the basin scale** (2022)
-   28 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 5. **Erosion-induced recovery CO2 sink offset the horizontal soil organic carbon removal at the basin scale** (2024)
    12 citations · Soil Carbon

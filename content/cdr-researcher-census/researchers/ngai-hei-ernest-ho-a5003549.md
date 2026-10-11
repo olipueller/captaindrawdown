@@ -1,7 +1,7 @@
 ---
 title: "Ngai Hei Ernest Ho"
 description: "Ngai Hei Ernest Ho is a Mid-career BECCS researcher at National Cheng Kung University in TW. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.002101
+date: 2026-10-11T02:33:00.032943
 url: "/cdr-researcher-census/researchers/ngai-hei-ernest-ho-a5003549/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Unlocking the potential of microalgae as sustainable bioresources from up to downstream processing: A critical review** (2024)
-   53 citations · BECCS
+   56 citations · BECCS
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Junjian An"
 description: "Junjian An is a Senior Biochar researcher at Hubei University of Technology in CN. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.581340
+date: 2026-10-11T02:32:59.597511
 url: "/cdr-researcher-census/researchers/junjian-an-a5091300/"
 layout: "researcher"
 hiddenInHomeList: true

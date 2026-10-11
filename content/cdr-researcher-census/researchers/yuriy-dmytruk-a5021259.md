@@ -1,7 +1,7 @@
 ---
 title: "Yuriy Dmytruk"
 description: "Yuriy Dmytruk is a Mid-career Soil Carbon researcher at Podillia State University in UA. With 32 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.220125
+date: 2026-10-11T02:33:00.250432
 url: "/cdr-researcher-census/researchers/yuriy-dmytruk-a5021259/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,7 +53,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Challenges and opportunities of modelling carbon dioxide sequestration potential in Ukrainian soils** (2021)
    4 citations · General CDR
 
-2. **SUSTAINABLE RESTORATION OF AGRICULTURAL LANDSCAPES AFFECTED BY MILITARY ACTIVITIES** (2023)
+2. **Monitoring and conservation of soils as a component of a sustainable management for agroecosystems at the local level** (2021)
+   3 citations · Soil Carbon
+
+3. **SUSTAINABLE RESTORATION OF AGRICULTURAL LANDSCAPES AFFECTED BY MILITARY ACTIVITIES** (2023)
    1 citations · Soil Carbon
 
 ## External Profiles

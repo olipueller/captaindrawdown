@@ -1,7 +1,7 @@
 ---
 title: "Rasmus O. Jensen"
 description: "Rasmus O. Jensen is a Senior General CDR researcher. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.214202
+date: 2026-10-11T02:32:59.218099
 url: "/cdr-researcher-census/researchers/rasmus-o-jensen-a5110166/"
 layout: "researcher"
 hiddenInHomeList: true

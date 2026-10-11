@@ -1,7 +1,7 @@
 ---
 title: "P. R. Oraon"
 description: "P. R. Oraon is a Mid-career Soil Carbon researcher at Birsa Agricultural University in IN. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.049227
+date: 2026-10-11T02:33:00.079912
 url: "/cdr-researcher-census/researchers/p-r-oraon-a5034388/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon sequestration and credit potential of gamhar (Gmelina arborea Roxb.) based agroforestry system for zero carbon emission of India** (2024)
-   25 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 2. **Emission, sequestration, credit and trading of carbon under gamhar (Gmelina arborea Roxb.) based agroforestry system towards net zero carbon emission of India** (2023)
    1 citations · General CDR

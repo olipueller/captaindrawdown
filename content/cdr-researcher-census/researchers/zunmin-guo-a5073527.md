@@ -1,7 +1,7 @@
 ---
 title: "Zunmin Guo"
 description: "Zunmin Guo is a Mid-career DAC researcher at University of Toronto in CA. With 41 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.271145
+date: 2026-10-11T02:32:59.275283
 url: "/cdr-researcher-census/researchers/zunmin-guo-a5073527/"
 layout: "researcher"
 hiddenInHomeList: true

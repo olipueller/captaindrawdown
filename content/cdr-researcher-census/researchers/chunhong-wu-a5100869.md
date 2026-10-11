@@ -1,7 +1,7 @@
 ---
 title: "Chunhong Wu"
 description: "Chunhong Wu is a Senior Soil Carbon researcher at Shandong University of Aeronautics in CN. With 25 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.310011
+date: 2026-10-11T02:33:00.340886
 url: "/cdr-researcher-census/researchers/chunhong-wu-a5100869/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Baohua Xiao"
 description: "Baohua Xiao is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 52 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.148426
+date: 2026-10-11T02:32:59.152683
 url: "/cdr-researcher-census/researchers/baohua-xiao-a5001960/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of Ca<sup>2+</sup> on migration of dissolved organic matter in limestone soils of the southwest China karst area** (2021)
-   31 citations · Soil Carbon
+   33 citations · Soil Carbon
 
 2. **Prospecting the engineered environmental carbon sinks and ensuring long-term sustainability of karst areas impacted by heavy metal** (2025)
    10 citations · General CDR
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · General CDR
 
 4. **The interactions between Al‐/Fe‐(hydr)oxides and soil organic carbon mediate the aggregation of yellow soils** (2022)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 5. **Effects of Ca2+ on migration of dissolved organic matter in limestone soils of the southwest China karst area** (2021)
    1 citations · Soil Carbon

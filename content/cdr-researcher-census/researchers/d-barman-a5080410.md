@@ -1,7 +1,7 @@
 ---
 title: "D. Barman"
 description: "D. Barman is a Mid-career Soil Carbon researcher at Techno India University in IN. With 71 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.430819
+date: 2026-10-11T02:32:59.441101
 url: "/cdr-researcher-census/researchers/d-barman-a5080410/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Impact of 28 year old agroforestry systems on soil carbon dynamics in Eastern Himalayas** (2021)
-   59 citations · Soil Carbon
+   60 citations · Soil Carbon
 
 2. **Contribution of Mangrove Ecosystem Services to Local Livelihoods in the Indian Sundarbans** (2024)
-   27 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 3. **Trade-off between soil aggregate stability and carbon decomposition under 44 years long-term integrated nutrient management in rice-wheat-jute system** (2021)
    9 citations · Soil Carbon

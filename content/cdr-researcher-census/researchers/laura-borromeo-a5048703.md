@@ -1,7 +1,7 @@
 ---
 title: "Laura Borromeo"
 description: "Laura Borromeo is a Mid-career Ocean CDR researcher at University of Milano-Bicocca in IT. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.773738
+date: 2026-10-11T02:32:59.796832
 url: "/cdr-researcher-census/researchers/laura-borromeo-a5048703/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,10 +50,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 ## Top CDR Publications
 
-1. **Genus-specific calcification dynamics in coralline algae: insights into Mg incorporation as response to Ocean Alkalinity Enhancement** (2025)
+1. **Response of the Carbonate System to Ocean Alkalinity Enhancement: A Mesocosm-Scale Experiment** (2026)
    0 citations · Ocean CDR
 
-2. **Genus-specific and microanatomical controls on element incorporation in coralline calcification revealed by Ocean Alkalinity Enhancement experiments** (2025)
+2. **Genus-specific calcification dynamics in coralline algae: insights into Mg incorporation as response to Ocean Alkalinity Enhancement** (2025)
+   0 citations · Ocean CDR
+
+3. **Genus-specific and microanatomical controls on element incorporation in coralline calcification revealed by Ocean Alkalinity Enhancement experiments** (2025)
    0 citations · Ocean CDR
 
 ## External Profiles

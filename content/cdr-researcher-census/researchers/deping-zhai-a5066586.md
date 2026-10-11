@@ -1,7 +1,7 @@
 ---
 title: "Deping Zhai"
 description: "Deping Zhai is a Mid-career Soil Carbon researcher at Yunnan University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.237574
+date: 2026-10-11T02:33:00.267728
 url: "/cdr-researcher-census/researchers/deping-zhai-a5066586/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Warming inhibits new soil organic carbon formation with higher bacterial necromass contribution** (2025)
-   8 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 2. **Forest types predominantly regulate soil-dissolved organic matter dynamics along an elevational gradient in the Hengduan Mountains** (2025)
    1 citations · Soil Carbon

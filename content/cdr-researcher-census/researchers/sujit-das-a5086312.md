@@ -1,7 +1,7 @@
 ---
 title: "Sujit Das"
 description: "Sujit Das is an Early-career Soil Carbon researcher at Tripura University in IN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.345316
+date: 2026-10-11T02:33:00.380467
 url: "/cdr-researcher-census/researchers/sujit-das-a5086312/"
 layout: "researcher"
 hiddenInHomeList: true

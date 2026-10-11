@@ -1,7 +1,7 @@
 ---
 title: "Jinfeng Zhou"
 description: "Jinfeng Zhou is a Mid-career Biochar researcher at Huazhong University of Science and Technology in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.938619
+date: 2026-10-11T02:32:59.969214
 url: "/cdr-researcher-census/researchers/jinfeng-zhou-a5046547/"
 layout: "researcher"
 hiddenInHomeList: true

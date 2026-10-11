@@ -1,7 +1,7 @@
 ---
 title: "Qaiser Hussain"
 description: "Qaiser Hussain is an Eminent Soil Carbon researcher at Pir Mehr Ali Shah Arid Agriculture University in PK. With 151 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.034981
+date: 2026-10-11T02:32:59.038078
 url: "/cdr-researcher-census/researchers/qaiser-hussain-a5042485/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Physio-Chemical Characterization of Biochar, Compost and Co-Composted Biochar Derived from Green Waste** (2021)
-   105 citations · Biochar
+   104 citations · Biochar
 
 2. **Biochar promotes soil organic carbon sequestration and reduces net global warming potential in apple orchard: A two-year study in the Loess Plateau of China** (2021)
-   71 citations · Biochar
+   73 citations · Biochar
 
 3. **Optimizing Management Practices under Straw Regimes for Global Sustainable Agricultural Production** (2023)
    29 citations · General CDR
@@ -63,19 +63,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    25 citations · Soil Carbon
 
 5. **Managing trade-offs among yield, carbon, and nitrogen footprints of wheat-maize cropping system under straw mulching and N fertilizer application in China's Loess Plateau** (2025)
-   20 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 6. **Utilisation of Climate‐Smart Conservation Agriculture Practices for Improved Soil Carbon Sequestration, Greenhouse Gas Mitigation and Sustainable Crop Productivity** (2025)
-   16 citations · General CDR
+   19 citations · General CDR
 
 7. **Organic material additions have stronger effects on humic substances and enzyme activities than soil types** (2022)
-   14 citations · Biochar
+   15 citations · Biochar
 
 8. **Urease and β-glucosidase activity enhanced the transformation of functional groups of humin amended by straw and straw-derived biochar** (2022)
-   8 citations · Biochar
+   9 citations · Biochar
 
 9. **Insight in the characteristics of humic substances with cotton straw derived organic materials amendments** (2025)
-   6 citations · Biochar
+   7 citations · Biochar
 
 10. **Soil carbon and legumes** (2022)
    5 citations · Soil Carbon

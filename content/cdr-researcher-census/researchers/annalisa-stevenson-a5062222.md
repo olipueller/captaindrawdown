@@ -1,7 +1,7 @@
 ---
 title: "Annalisa Stevenson"
 description: "Annalisa Stevenson is an Early-career Soil Carbon researcher at Soil Science Society of America in US. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.368886
+date: 2026-10-11T02:33:00.404519
 url: "/cdr-researcher-census/researchers/annalisa-stevenson-a5062222/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Rates of soil organic carbon change in cultivated and afforested sandy soils** (2023)
-   31 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 2. **Soil Carbon in Sandy Soils Under Forest and Agriculture in Wisconsin, USA** (2023)
    0 citations · Soil Carbon

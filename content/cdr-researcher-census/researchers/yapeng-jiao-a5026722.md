@@ -1,7 +1,7 @@
 ---
 title: "Yapeng Jiao"
 description: "Yapeng Jiao is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.596235
+date: 2026-10-11T02:32:59.613017
 url: "/cdr-researcher-census/researchers/yapeng-jiao-a5026722/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,31 +48,34 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Nitrogen fertilizer builds soil organic carbon under straw return mainly via microbial necromass formation** (2023)
-   209 citations · Soil Carbon
+   217 citations · Soil Carbon
 
 2. **Effect of the combined addition of mineral nitrogen and crop residue on soil respiration, organic carbon sequestration, and exogenous nitrogen in stable organic matter** (2021)
    59 citations · Soil Carbon
 
 3. **Changes in soil particulate and mineral-associated organic carbon concentrations under nitrogen addition in China—a meta-analysis** (2023)
-   50 citations · Soil Carbon
+   49 citations · Soil Carbon
 
 4. **Long-Term Nitrogen and Straw Application Improves Wheat Production and Soil Organic Carbon Sequestration** (2022)
    23 citations · Soil Carbon
 
-5. **Microbial life-history strategies drive soil carbon stabilization under balanced organic substitution: Trade-offs between yield- and acquisition-oriented metabolisms** (2025)
+5. **Organic amendment quality and quantity govern microbial necromass contributions to soil carbon sequestration: a meta-analysis** (2026)
    1 citations · Soil Carbon
 
-6. **Nitrogen Fertilizer Builds Up Soil Organic Carbon Under Straw Return Via Microbial Necromass Formation** (2023)
+6. **Microbial life-history strategies drive soil carbon stabilization under balanced organic substitution: Trade-offs between yield- and acquisition-oriented metabolisms** (2025)
    1 citations · Soil Carbon
 
-7. **Nitrogen Fertilizers Prime Bacterial Necromass Formation and Carbon Sequestration in Soil** (2022)
+7. **Nitrogen Fertilizer Builds Up Soil Organic Carbon Under Straw Return Via Microbial Necromass Formation** (2023)
    1 citations · Soil Carbon
 
-8. **Organic amendment quality and quantity govern microbial necromass contributions to soil carbon sequestration: a meta-analysis** (2026)
-   0 citations · Soil Carbon
+8. **Nitrogen Fertilizers Prime Bacterial Necromass Formation and Carbon Sequestration in Soil** (2022)
+   1 citations · Soil Carbon
 
-9. **Changes in soil particulate and mineral-associated organic carbon contents under nitrogen addition** (2022)
-   0 citations · Soil Carbon
+9. **Green manure modifies particulate and mineral-associated organic carbon accumulation under contrasting organic amendments in a dryland wheat system** (2026)
+   0 citations
+
+10. **Changes in Soil Particulate and Mineral-Associated Organic Carbon Contents Under Nitrogen Addition** (2022)
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Stephen J. Romaniello"
 description: "Stephen J. Romaniello is a Senior Enhanced Weathering researcher at Arizona State University in US. With 168 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.052854
+date: 2026-10-11T02:32:59.057040
 url: "/cdr-researcher-census/researchers/stephen-j-romaniello-a5079734/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Responses of globally important phytoplankton species to olivine dissolution products and implications for carbon dioxide removal via ocean alkalinity enhancement** (2023)
-   39 citations · General CDR
+   57 citations · General CDR
 
 2. **Responses of globally important phytoplankton species to olivine dissolution products and implications for carbon dioxide removal via ocean alkalinity enhancement** (2023)
    19 citations
@@ -66,19 +66,19 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    5 citations · General CDR
 
 6. **Microbial Community Structure in Contrasting Hawaiian Coastal Sediments** (2025)
-   2 citations
+   3 citations
 
-7. **Hawaiian beaches as natural analogues for enhanced silicate weathering of olivine** (2025)
-   1 citations · Enhanced Weathering
-
-8. **Microbial community structure in contrasting Hawaiian coastal sediments** (2025)
+7. **Is anomalous molybdenum isotope fractionation in Proterozoic ocean analogue driven by colloidal organic matter?** (2026)
    1 citations
 
-9. **Is anomalous molybdenum isotope fractionation in Proterozoic ocean analogue driven by colloidal organic matter?** (2026)
-   0 citations
+8. **Hawaiian beaches as natural analogues for enhanced silicate weathering of olivine** (2025)
+   1 citations · Enhanced Weathering
 
-10. **A natural analogue of enhanced rock weathering: microbial communities in the olivine-rich Papakōlea Beach (Hawaii, USA)** (2025)
-   0 citations · Enhanced Weathering
+9. **Microbial community structure in contrasting Hawaiian coastal sediments** (2025)
+   1 citations
+
+10. **Effects of Olivine Sand on Marine Invertebrates Survival and Trace Metal Bioaccumulation** (2024)
+   1 citations · Enhanced Weathering
 
 ## External Profiles
 

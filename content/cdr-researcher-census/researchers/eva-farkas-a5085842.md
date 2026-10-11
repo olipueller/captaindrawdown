@@ -1,7 +1,7 @@
 ---
 title: "Éva Farkas"
 description: "Éva Farkas is a Mid-career Soil Carbon researcher at Norwegian Institute of Bioeconomy Research in NO. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.641259
+date: 2026-10-11T02:32:59.659694
 url: "/cdr-researcher-census/researchers/eva-farkas-a5085842/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The fate of cover crop carbon inputs in a Norwegian soil** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 2. **Interactive Effects of Biochar and Pesticides on Native Soil Organic Matter Mineralisation** (2025)
    0 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "L. Arul Pragasan"
 description: "L. Arul Pragasan is a Senior Soil Carbon researcher at Bharathiar University in IN. With 49 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.388421
+date: 2026-10-11T02:32:59.396281
 url: "/cdr-researcher-census/researchers/l-arul-pragasan-a5087930/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,16 +56,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **Assessment of Carbon Stock Potential of Arecanut Plantations in Coimbatore District of Tamil Nadu, India** (2025)
    1 citations · Soil Carbon
 
-3. **Phytolith Carbon Sequestration as a Sustainable Pathway for Climate Change Mitigation** (2026)
+3. **Unlocking the Science behind the Soil Phytolith Extraction: New Insights on Terrestrial Carbon Reservoirs** (2025)
+   0 citations
+
+4. **Phytolith Carbon Sequestration as a Sustainable Pathway for Climate Change Mitigation** (2026)
    0 citations · General CDR
 
-4. **Assessment of Phytolith-Occluded Carbon Sequestration Potential in Uncultivated Grasses of Coimbatore, India** (2025)
+5. **Assessment of Phytolith-Occluded Carbon Sequestration Potential in Uncultivated Grasses of Coimbatore, India** (2025)
    0 citations · Soil Carbon
 
-5. **Impact of Increasing CO2 Levels on Mangifera indica Growth and Carbon Sequestration Potential at Different Nitrogen Addition levels** (2025)
+6. **Impact of Increasing CO2 Levels on Mangifera indica Growth and Carbon Sequestration Potential at Different Nitrogen Addition levels** (2025)
    0 citations · Soil Carbon
 
-6. **Assessment of Soil Carbon Stock Potential in Different Soil Layers of Grassland Ecosystems** (2024)
+7. **Assessment of Soil Carbon Stock Potential in Different Soil Layers of Grassland Ecosystems** (2024)
    0 citations · Soil Carbon
 
 ## External Profiles

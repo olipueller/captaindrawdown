@@ -1,7 +1,7 @@
 ---
 title: "Anuradha Sankaran"
 description: "Anuradha Sankaran is a Mid-career Biochar researcher at University of Madras in IN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.980434
+date: 2026-10-11T02:33:00.011751
 url: "/cdr-researcher-census/researchers/anuradha-sankaran-a5061527/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,7 +47,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Top CDR Publications
 
-1. **Biochar from Oil Cakes: An Efficient Adsorbent for the Removal of Acid Dyes From Wool Dye House Effluent** (2021)
+1. **Biochar from oil cakes: an efficient and economical adsorbent for the removal of acid dyes from wool dye house effluent** (2022)
+   7 citations · Biochar
+
+2. **Biochar from Oil Cakes: An Efficient Adsorbent for the Removal of Acid Dyes From Wool Dye House Effluent** (2021)
    0 citations · Biochar
 
 ## External Profiles

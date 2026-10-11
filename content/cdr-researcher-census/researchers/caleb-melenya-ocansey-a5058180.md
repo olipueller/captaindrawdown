@@ -1,7 +1,7 @@
 ---
 title: "Caleb Melenya Ocansey"
 description: "Caleb Melenya Ocansey is a Mid-career Soil Carbon researcher at Magyar Agrár- és Élettudományi Egyetem in HU. With 31 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.901702
+date: 2026-10-11T02:32:59.931062
 url: "/cdr-researcher-census/researchers/caleb-melenya-ocansey-a5058180/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Variation in Soil Organic Carbon and Total Nitrogen Stocks Across Elevation Gradients and Soil Depths in the Mount Kenya East Forest** (2025)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 2. **Soil properties of thickets and adjacent land use types in coastal savanna landscape of Ghana** (2024)
    3 citations · Soil Carbon

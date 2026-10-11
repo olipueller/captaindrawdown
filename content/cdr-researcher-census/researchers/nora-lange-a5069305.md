@@ -1,7 +1,7 @@
 ---
 title: "Nora Lange"
 description: "Nora Lange is an Early-career BECCS researcher. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.223017
+date: 2026-10-11T02:33:00.253552
 url: "/cdr-researcher-census/researchers/nora-lange-a5069305/"
 layout: "researcher"
 hiddenInHomeList: true

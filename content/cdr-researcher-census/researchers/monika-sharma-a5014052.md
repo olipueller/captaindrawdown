@@ -1,7 +1,7 @@
 ---
 title: "Monika Sharma"
 description: "Monika Sharma is a Mid-career Biochar researcher at Lanzhou University in CN. With 29 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.351584
+date: 2026-10-11T02:32:59.357898
 url: "/cdr-researcher-census/researchers/monika-sharma-a5014052/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Applications of plant and animal-based biochar: Insight into environmental remediation and biofuel production** (2025)
-   7 citations · Biochar
+   9 citations · Biochar
 
 2. **Agroforestry as Scientific Tool for Promoting Sustainable Livelihood in Rural Communities: A Review** (2025)
    1 citations · Soil Carbon

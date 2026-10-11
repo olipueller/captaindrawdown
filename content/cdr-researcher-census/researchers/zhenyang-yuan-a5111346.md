@@ -1,7 +1,7 @@
 ---
 title: "Zhenyang Yuan"
 description: "Zhenyang Yuan is a Mid-career General CDR researcher at Southeast University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.398832
+date: 2026-10-11T02:33:00.436905
 url: "/cdr-researcher-census/researchers/zhenyang-yuan-a5111346/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    23 citations · Enhanced Weathering
 
 2. **Durability against dry-wet and freeze-thaw cycles of carbon sequestration foamed concrete utilizing abandoned soil and waste serpentine** (2024)
-   13 citations · General CDR
+   15 citations · General CDR
 
 3. **Performance and Sustainability of Carbon-Sequestration Foamed Concrete Utilizing CO2 Gas, Abandoned Soil, and Waste Serpentine** (2025)
    0 citations · General CDR

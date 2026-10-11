@@ -1,7 +1,7 @@
 ---
 title: "Xiaopeng Shi"
 description: "Xiaopeng Shi is a Mid-career Soil Carbon researcher at Dingxi City People's Hospital in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.795706
+date: 2026-10-11T02:32:59.819289
 url: "/cdr-researcher-census/researchers/xiaopeng-shi-a5029671/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The effects of plastic film mulching and straw mulching on licorice root yield and soil organic carbon content in a dryland farming** (2022)
-   40 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 ## External Profiles
 

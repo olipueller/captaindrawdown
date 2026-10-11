@@ -1,7 +1,7 @@
 ---
 title: "Carlos Eduardo Rodrigues Barquilha"
 description: "Carlos Eduardo Rodrigues Barquilha is a Mid-career Biochar researcher at Universidade Federal do Paraná in BR. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.387217
+date: 2026-10-11T02:32:59.395050
 url: "/cdr-researcher-census/researchers/carlos-eduardo-rodrigues-barquilha-a5006345/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Removal of recalcitrant organic matter of landfill leachate by adsorption onto biochar from sewage sludge: A quali-quantitative analysis** (2023)
-   29 citations · Biochar
+   28 citations · Biochar
 
 ## External Profiles
 

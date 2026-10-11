@@ -1,7 +1,7 @@
 ---
 title: "Zaijun Xin"
 description: "Zaijun Xin is a Senior Soil Carbon researcher at Jiangxi Academy of Sciences in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.750174
+date: 2026-10-11T02:32:59.772506
 url: "/cdr-researcher-census/researchers/zaijun-xin-a5000172/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Mean residence times of active and slow soil organic carbon pools in croplands across China** (2021)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 ## External Profiles
 

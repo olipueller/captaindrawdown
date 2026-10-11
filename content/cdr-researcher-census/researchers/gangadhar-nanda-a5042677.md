@@ -1,7 +1,7 @@
 ---
 title: "Gangadhar Nanda"
 description: "Gangadhar Nanda is a Mid-career Soil Carbon researcher. With 51 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.540700
+date: 2026-10-11T02:32:59.555664
 url: "/cdr-researcher-census/researchers/gangadhar-nanda-a5042677/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long term effects of fertilizer and manure application on productivity, sustainability and soil properties in a rice-rice system on Inceptisols of Eastern India** (2021)
-   24 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 2. **Long-Term Field and Horticultural Crops Intensification in Semiarid Regions Influence the Soil Physiobiochemical Properties and Nutrients Status** (2022)
    9 citations · Soil Carbon
@@ -58,7 +58,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Soil Carbon
 
 5. **Micro-level sustainability benefits through weather-based farm interventions in Bihar, India** (2025)
-   1 citations · General CDR
+   2 citations · General CDR
 
 ## External Profiles
 

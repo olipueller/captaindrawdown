@@ -1,7 +1,7 @@
 ---
 title: "Xiangfei Cui"
 description: "Xiangfei Cui is a Senior Biochar researcher at Shandong University of Science and Technology in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.724803
+date: 2026-10-11T02:32:59.745776
 url: "/cdr-researcher-census/researchers/xiangfei-cui-a5013229/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Application of biochar cement-based materials for carbon sequestration** (2023)
-   106 citations · Biochar
+   111 citations · Biochar
 
 ## External Profiles
 

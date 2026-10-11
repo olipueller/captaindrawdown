@@ -1,7 +1,7 @@
 ---
 title: "Jiabao Zhang"
 description: "Jiabao Zhang is a Mid-career Soil Carbon researcher at Shandong University of Traditional Chinese Medicine in CN. With 58 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.261958
+date: 2026-10-11T02:32:59.266014
 url: "/cdr-researcher-census/researchers/jiabao-zhang-a5030822/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,21 +51,30 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Global decline in microbial-derived carbon stocks with climate warming and its future projections** (2024)
-   25 citations
+   26 citations
 
 2. **Impact of Virus‐Mediated Modifications in Bacterial Communities on the Accumulation of Soil Organic Carbon** (2025)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
-3. **Organic amendments enhance rhizosphere carbon stabilization in macroaggregates of saline-sodic soils by regulating keystone microbial clusters** (2025)
-   9 citations · Soil Carbon
+3. **Upcycling trace amounts of biomass waste into flash graphene can boost crop yields by more than a quarter and offer climate benefits** (2025)
+   11 citations · Biochar
 
-4. **Upcycling trace amounts of biomass waste into flash graphene can boost crop yields by more than a quarter and offer climate benefits** (2025)
-   8 citations · Biochar
+4. **Organic amendments enhance rhizosphere carbon stabilization in macroaggregates of saline-sodic soils by regulating keystone microbial clusters** (2025)
+   11 citations · Soil Carbon
 
-5. **Impacts of multitrophic biological loop on soil carbon sequestration** (2026)
+5. **Intercropping enhances soil organic carbon accumulation by modulating microbial interactions in saline-alkali soils** (2026)
+   5 citations · Soil Carbon
+
+6. **Dual mechanisms of mineral-microbial interactions in suppressing organic carbon sequestration in calcareous soils** (2026)
+   5 citations
+
+7. **Impacts of multitrophic biological loop on soil carbon sequestration** (2026)
    0 citations · Soil Carbon
 
-6. **Dual mechanisms of mineral-microbial interactions in suppressing organic carbon sequestration in calcareous soils** (2025)
+8. **Dissolved organic carbon-mediated multi-trophic networks define microbial necromass accumulation in Mollisols of Northeast China** (2026)
+   0 citations · Soil Carbon
+
+9. **Dual mechanisms of mineral-microbial interactions in suppressing organic carbon sequestration in calcareous soils** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

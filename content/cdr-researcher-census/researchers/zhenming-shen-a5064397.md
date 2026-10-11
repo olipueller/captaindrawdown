@@ -1,7 +1,7 @@
 ---
 title: "Zhenming Shen"
 description: "Zhenming Shen is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.740184
+date: 2026-10-11T02:32:59.762444
 url: "/cdr-researcher-census/researchers/zhenming-shen-a5064397/"
 layout: "researcher"
 hiddenInHomeList: true

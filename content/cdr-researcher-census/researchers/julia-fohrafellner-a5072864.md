@@ -1,7 +1,7 @@
 ---
 title: "Julia Fohrafellner"
 description: "Julia Fohrafellner is a Mid-career Soil Carbon researcher at Austrian Agency for Health and Food Safety in AT. With 47 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.870052
+date: 2026-10-11T02:32:59.896871
 url: "/cdr-researcher-census/researchers/julia-fohrafellner-a5072864/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Achievable agricultural soil carbon sequestration across Europe from country‐specific estimates** (2021)
-   75 citations · General CDR
+   78 citations · General CDR
 
 2. **Quality assessment of meta-analyses on soil organic carbon** (2023)
    35 citations · General CDR

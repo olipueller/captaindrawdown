@@ -1,7 +1,7 @@
 ---
 title: "Ahsan Jalal"
 description: "Ahsan Jalal is a Senior Biochar researcher at Bilkent University in TR. With 26 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.248628
+date: 2026-10-11T02:32:59.252511
 url: "/cdr-researcher-census/researchers/ahsan-jalal-a5045844/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Competitive adsorption of antibiotics on waste-derived hybrid biochar: Performance, mechanism, and life cycle assessment** (2025)
-   8 citations · Biochar
+   9 citations · Biochar
 
 2. **Mechanistic and Data-Guided Design of Biochar Adsorbents for Gas Phase Pollution Control: A State-of-the-Art Review** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Maria Ellenita G. de Castro"
 description: "Maria Ellenita G. de Castro is a Mid-career Soil Carbon researcher at University of the Philippines in PH. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.994780
+date: 2026-10-11T02:33:00.025445
 url: "/cdr-researcher-census/researchers/maria-ellenita-g-de-castro-a5047729/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Vegetation diversity as a factor in carbon sequestration and storage: examples from the ultramafic forests in Palawan Island, Philippines** (2024)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 2. **The carbon storage potential of selected ultramafic soils in Puerto Princesa City and Bataraza, Palawan, Philippines** (2024)
    0 citations · Soil Carbon

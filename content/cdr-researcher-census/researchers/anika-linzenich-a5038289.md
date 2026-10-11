@@ -1,7 +1,7 @@
 ---
 title: "Anika Linzenich"
 description: "Anika Linzenich is a Mid-career DAC researcher at RWTH Aachen University in DE. With 23 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.397002
+date: 2026-10-11T02:32:59.405980
 url: "/cdr-researcher-census/researchers/anika-linzenich-a5038289/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Eliciting laypeople's mental models and risk perceptions of direct air carbon capture and storage: Implications for effective risk communication** (2024)
-   16 citations · DAC
+   18 citations · DAC
 
 2. **“Maybe it can be stored out in space?” : Mental models and perceptions of Direct Air Carbon Capturing and Storage (DACCS) for improving risk communication** (2023)
    0 citations · DAC

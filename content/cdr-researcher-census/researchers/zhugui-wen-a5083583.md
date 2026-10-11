@@ -1,7 +1,7 @@
 ---
 title: "Zhugui Wen"
 description: "Zhugui Wen is a Mid-career Soil Carbon researcher at Yancheng Teachers University in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.686513
+date: 2026-10-11T02:32:59.706755
 url: "/cdr-researcher-census/researchers/zhugui-wen-a5083583/"
 layout: "researcher"
 hiddenInHomeList: true

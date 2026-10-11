@@ -1,7 +1,7 @@
 ---
 title: "Abby Wallwork"
 description: "Abby Wallwork is a Mid-career Soil Carbon researcher at Lancaster University in GB. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.324954
+date: 2026-10-11T02:33:00.357557
 url: "/cdr-researcher-census/researchers/abby-wallwork-a5003698/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil carbon storage is related to tree functional composition in naturally regenerating tropical forests** (2022)
-   36 citations · Soil Carbon
+   35 citations · Soil Carbon
 
 2. **Tropical forest above‐ground productivity is maintained by nutrients cycled in litter** (2024)
    25 citations · General CDR

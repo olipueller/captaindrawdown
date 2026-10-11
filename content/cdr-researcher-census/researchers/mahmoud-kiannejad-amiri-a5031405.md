@@ -1,7 +1,7 @@
 ---
 title: "Mahmoud Kiannejad Amiri"
 description: "Mahmoud Kiannejad Amiri is a Mid-career DAC researcher at Kyung Hee University in KR. With 22 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.340008
+date: 2026-10-11T02:32:59.345819
 url: "/cdr-researcher-census/researchers/mahmoud-kiannejad-amiri-a5031405/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,9 +51,12 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Techno-economic feasibility and life cycle carbon assessment of an integrated bioenergy driven direct air capture for sustainable hydrogen carrier production** (2026)
-   1 citations · DAC
+   2 citations · DAC
 
-2. **Direct Air Capture in Low-Carbon Energy Systems: Regeneration Penalties, Renewable Integration, and Carbon Storage Pathways** (2026)
+2. **Regional technoeconomic and life-cycle carbon assessment of direct air capture–based power-to-liquid sustainable aviation fuel production** (2026)
+   0 citations · DAC
+
+3. **Direct Air Capture in Low-Carbon Energy Systems: Regeneration Penalties, Renewable Integration, and Carbon Storage Pathways** (2026)
    0 citations · DAC
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Ayaz"
 description: "Muhammad Ayaz is a Mid-career Biochar researcher at University of Malakand in PK. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.235450
+date: 2026-10-11T02:32:59.238864
 url: "/cdr-researcher-census/researchers/muhammad-ayaz-a5002414/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar and carbon-negative technologies: exploring opportunities for climate change mitigation** (2025)
-   23 citations · Biochar
+   26 citations · Biochar
 
 2. **Biochar and carbon-negative technologies: exploring opportunities for climate change mitigation** (2025)
    0 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Mengke Li"
 description: "Mengke Li is a Mid-career Biochar researcher at Xiangtan University in CN. With 47 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.222766
+date: 2026-10-11T02:32:59.226280
 url: "/cdr-researcher-census/researchers/mengke-li-a5100730/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    33 citations · Biochar
 
 2. **Highly efficient persulfate catalyst prepared from modified electrolytic manganese residues coupled with biochar for the roxarsone removal** (2022)
-   31 citations · Biochar
+   30 citations · Biochar
 
 3. **Molecular selective fractionation of biochar-derived DOM in Fe Cr co-precipitation and post-adsorption systems: Its roles in carbon sequestration and Cr(III) immobilization** (2025)
    4 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Joris Jourquin"
 description: "Joris Jourquin is a Mid-career Soil Carbon researcher at Vlaams Instituut voor Biotechnologie in BE. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.473333
+date: 2026-10-11T02:32:59.484454
 url: "/cdr-researcher-census/researchers/joris-jourquin-a5073186/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Trehalose-6-phosphate signaling regulates lateral root formation in Arabidopsis thaliana** (2023)
-   58 citations · Soil Carbon
+   60 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Qiuyan Yan"
 description: "Qiuyan Yan is a Senior Soil Carbon researcher at Shanxi Agricultural University in CN. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.427074
+date: 2026-10-11T02:32:59.437112
 url: "/cdr-researcher-census/researchers/qiuyan-yan-a5101827/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,10 +50,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **[Effects of different tillage measures on soil organic carbon in dryland wheat fields on the Loess Plateau, Northwest China based on meta-analysis].** (2024)
+1. **Subsoil tillage enhances wheat productivity, soil organic carbon and available nutrient status in dryland fields** (2023)
+   42 citations · Soil Carbon
+
+2. **Dynamics of Soil Organic Carbon and Nitrogen Fractions in Dryland Wheat Fields as Affected by Tillage Practices on the Loess Plateau of China** (2026)
    0 citations · Soil Carbon
 
-2. **Subsoiling tillage enhances wheat productivity, soil carbon and available nutrients status in dryland fields** (2022)
+3. **[Effects of different tillage measures on soil organic carbon in dryland wheat fields on the Loess Plateau, Northwest China based on meta-analysis].** (2024)
+   0 citations · Soil Carbon
+
+4. **Subsoiling tillage enhances wheat productivity, soil carbon and available nutrients status in dryland fields** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

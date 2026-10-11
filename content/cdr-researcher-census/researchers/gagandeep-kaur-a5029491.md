@@ -1,7 +1,7 @@
 ---
 title: "Gagandeep Kaur"
 description: "Gagandeep Kaur is a Senior Soil Carbon researcher. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.999609
+date: 2026-10-11T02:33:00.030542
 url: "/cdr-researcher-census/researchers/gagandeep-kaur-a5029491/"
 layout: "researcher"
 hiddenInHomeList: true

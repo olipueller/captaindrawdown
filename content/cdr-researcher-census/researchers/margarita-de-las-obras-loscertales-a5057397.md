@@ -1,7 +1,7 @@
 ---
 title: "Margarita de Las Obras Loscertales"
 description: "Margarita de Las Obras Loscertales is a Mid-career BECCS researcher at Instituto de Carboquímica in ES. With 50 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.589398
+date: 2026-10-11T02:32:59.606131
 url: "/cdr-researcher-census/researchers/margarita-de-las-obras-loscertales-a5057397/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    16 citations · BECCS
 
 3. **Reaction kinetics of a NiO-based oxygen carrier with ethanol to be applied in chemical looping processes** (2023)
-   13 citations · BECCS
+   14 citations · BECCS
 
 4. **Evaluation of the effect of pressure and heat transfer on the efficiency of a batch fuel reactor, using Iron-based Oxygen Carrier with a CFD model** (2022)
    6 citations · BECCS

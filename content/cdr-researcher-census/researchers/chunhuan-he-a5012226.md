@@ -1,7 +1,7 @@
 ---
 title: "Chunhuan He"
 description: "Chunhuan He is a Senior Soil Carbon researcher at Jinan University in CN. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.336131
+date: 2026-10-11T02:32:59.341983
 url: "/cdr-researcher-census/researchers/chunhuan-he-a5012226/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Fertilization and tillage influence on soil organic carbon fractions: A global meta-analysis** (2024)
-   58 citations · Soil Carbon
+   62 citations · Soil Carbon
 
 2. **Changes in the microbial necromass carbon and iron-bound organic carbon following land use and salinity in estuary soils** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 3. **Divergent accumulations of microbial-derived carbon and iron-bound organic carbon in mangrove soil organic matter fractions along a salinity gradient** (2025)
-   4 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

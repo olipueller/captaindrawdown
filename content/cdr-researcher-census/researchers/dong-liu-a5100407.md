@@ -1,7 +1,7 @@
 ---
 title: "Dong Liu"
 description: "Dong Liu is a Senior Soil Carbon researcher at Kunming Institute of Botany in CN. With 87 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.109066
+date: 2026-10-11T02:32:59.113722
 url: "/cdr-researcher-census/researchers/dong-liu-a5100407/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Decades of reforestation significantly change microbial necromass, glomalin, and their contributions to soil organic carbon** (2023)
-   75 citations · Soil Carbon
+   76 citations · Soil Carbon
 
 2. **Crop–Mushroom Rotation: A Comprehensive Review of Its Multifaceted Impacts on Soil Quality, Agricultural Sustainability, and Ecosystem Health** (2025)
-   25 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 3. **Wollastonite powder application increases rice yield and CO2 sequestration in a paddy field in Northeast China** (2024)
-   14 citations · Enhanced Weathering
+   15 citations · Enhanced Weathering
 
 4. **Biological soil crusts significantly improve soil fertility and change soil microbiomes in Qinghai–Tibetan alpine grasslands** (2024)
    4 citations · Soil Carbon

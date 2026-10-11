@@ -1,7 +1,7 @@
 ---
 title: "Reza Shahouni"
 description: "Reza Shahouni is a Mid-career General CDR researcher at Iran University of Science and Technology in IR. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.273384
+date: 2026-10-11T02:33:00.303348
 url: "/cdr-researcher-census/researchers/reza-shahouni-a5098758/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Modelling and optimising of MED-TVC seawater desalination plants assisted with electric heaters** (2024)
-   16 citations · General CDR
+   17 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Thi Minh Hoa Duong"
 description: "Thi Minh Hoa Duong is a Mid-career Biochar researcher at Agriculture and Forestry University in NP. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.367589
+date: 2026-10-11T02:33:00.403163
 url: "/cdr-researcher-census/researchers/thi-minh-hoa-duong-a5056061/"
 layout: "researcher"
 hiddenInHomeList: true

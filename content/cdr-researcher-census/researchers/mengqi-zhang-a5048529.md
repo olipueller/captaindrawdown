@@ -1,7 +1,7 @@
 ---
 title: "Mengqi Zhang"
 description: "Mengqi Zhang is an Early-career Soil Carbon researcher at Northwest A&F University in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.321400
+date: 2026-10-11T02:33:00.353663
 url: "/cdr-researcher-census/researchers/mengqi-zhang-a5048529/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Short-term grazing exclusion is more conducive to the rate of soil organic carbon stock in alpine grassland of the Tibetan Plateau** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 ## External Profiles
 

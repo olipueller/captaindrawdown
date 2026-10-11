@@ -1,7 +1,7 @@
 ---
 title: "Lihua Yang"
 description: "Lihua Yang is a Senior DAC researcher at Xiamen Tobacco Industry (China) in CN. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.166862
+date: 2026-10-11T02:33:00.196908
 url: "/cdr-researcher-census/researchers/lihua-yang-a5101885/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Net-zero carbon configuration approach for direct air carbon capture based integrated energy system considering dynamic characteristics of CO2 adsorption and desorption** (2024)
-   22 citations · DAC
+   23 citations · DAC
 
 2. **Optimal Configuration of a Negative Carbon Emission Energy System for Green Agriculture** (2022)
    8 citations · DAC

@@ -1,7 +1,7 @@
 ---
 title: "Fenliang Fan"
 description: "Fenliang Fan is a Senior Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 78 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.049257
+date: 2026-10-11T02:32:59.053058
 url: "/cdr-researcher-census/researchers/fenliang-fan-a5110921/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Keystone microbial taxa drive the accelerated decompositions of cellulose and lignin by long-term resource enrichments** (2022)
-   51 citations · Soil Carbon
+   52 citations · Soil Carbon
 
 2. **Low Carbon Loss from Long-Term Manure-Applied Soil during Abrupt Warming Is Realized through Soil and Microbiome Interplay** (2024)
-   33 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 3. **A Global Relationship Between Genome Size and Encoded Carbon Metabolic Strategies of Soil Bacteria** (2025)
-   29 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 4. **Linking microbial taxa and the effect of mineral nitrogen forms on residue decomposition at the early stage in arable soil by DNA-qSIP** (2021)
-   22 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 ## External Profiles
 

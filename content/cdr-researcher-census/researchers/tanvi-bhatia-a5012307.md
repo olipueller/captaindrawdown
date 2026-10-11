@@ -1,7 +1,7 @@
 ---
 title: "Tanvi Bhatia"
 description: "Tanvi Bhatia is a Mid-career Biochar researcher at Chaudhary Charan Singh Haryana Agricultural University in IN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.276369
+date: 2026-10-11T02:33:00.306278
 url: "/cdr-researcher-census/researchers/tanvi-bhatia-a5012307/"
 layout: "researcher"
 hiddenInHomeList: true

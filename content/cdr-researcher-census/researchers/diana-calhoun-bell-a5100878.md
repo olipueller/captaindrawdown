@@ -1,7 +1,7 @@
 ---
 title: "Diana Calhoun Bell"
 description: "Diana Calhoun Bell is a Senior Soil Carbon researcher. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.994262
+date: 2026-10-11T02:33:00.024864
 url: "/cdr-researcher-census/researchers/diana-calhoun-bell-a5100878/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Donald Mlambo"
 description: "Donald Mlambo is a Senior General CDR researcher at National University of Science and Technology in ZW. With 49 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.516410
+date: 2026-10-11T02:32:59.530034
 url: "/cdr-researcher-census/researchers/donald-mlambo-a5031805/"
 layout: "researcher"
 hiddenInHomeList: true

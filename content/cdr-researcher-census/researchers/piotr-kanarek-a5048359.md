@@ -1,7 +1,7 @@
 ---
 title: "Piotr Kanarek"
 description: "Piotr Kanarek is a Mid-career Soil Carbon researcher at Bydgoszcz University of Science and Technology in PL. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.215864
+date: 2026-10-11T02:33:00.245865
 url: "/cdr-researcher-census/researchers/piotr-kanarek-a5048359/"
 layout: "researcher"
 hiddenInHomeList: true

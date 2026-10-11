@@ -1,7 +1,7 @@
 ---
 title: "Jacob Pecenka"
 description: "Jacob Pecenka is a Mid-career Soil Carbon researcher at Rodale Institute in US. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.539470
+date: 2026-10-11T02:32:59.554519
 url: "/cdr-researcher-census/researchers/jacob-pecenka-a5047698/"
 layout: "researcher"
 hiddenInHomeList: true

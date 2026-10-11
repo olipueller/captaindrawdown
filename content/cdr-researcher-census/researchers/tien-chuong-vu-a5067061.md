@@ -1,7 +1,7 @@
 ---
 title: "Tien-Chuong Vu"
 description: "Tien-Chuong Vu is a Senior Biochar researcher at Industrial University of Ho Chi Minh City in VN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.374003
+date: 2026-10-11T02:33:00.409473
 url: "/cdr-researcher-census/researchers/tien-chuong-vu-a5067061/"
 layout: "researcher"
 hiddenInHomeList: true

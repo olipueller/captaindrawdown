@@ -1,7 +1,7 @@
 ---
 title: "Pascal S. Thue"
 description: "Pascal S. Thue is a Senior Biochar researcher at Universidade Federal de Pelotas in CM. With 74 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.062350
+date: 2026-10-11T02:32:59.066814
 url: "/cdr-researcher-census/researchers/pascal-s-thue-a5002122/"
 layout: "researcher"
 hiddenInHomeList: true

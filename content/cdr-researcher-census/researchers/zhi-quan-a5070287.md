@@ -1,7 +1,7 @@
 ---
 title: "Zhi Quan"
 description: "Zhi Quan is a Senior Enhanced Weathering researcher at Institute of Applied Ecology Chinese Academy of Sciences in CN. With 63 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.207444
+date: 2026-10-11T02:32:59.211504
 url: "/cdr-researcher-census/researchers/zhi-quan-a5070287/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Wollastonite powder application increases rice yield and CO2 sequestration in a paddy field in Northeast China** (2024)
-   14 citations · Enhanced Weathering
+   15 citations · Enhanced Weathering
 
 2. **Effects of long-term conservation tillage on N2 and N2O emission rates and N2O emission microbial pathways in Mollisols** (2023)
    10 citations · Soil Carbon

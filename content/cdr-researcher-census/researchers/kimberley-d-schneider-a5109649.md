@@ -1,7 +1,7 @@
 ---
 title: "Kimberley D. Schneider"
 description: "Kimberley D. Schneider is a Mid-career Soil Carbon researcher at University of Guelph in CA. With 28 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.376839
+date: 2026-10-11T02:32:59.384098
 url: "/cdr-researcher-census/researchers/kimberley-d-schneider-a5109649/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Adaptive multi-paddock grazing increases soil carbon stocks and decreases the carbon footprint of beef production in Ontario, Canada** (2024)
-   13 citations · General CDR
+   16 citations · General CDR
 
 2. **The effect of land-use conversion from agriculture to perennial biomass crops and nitrogen fertilizer on soil organic carbon stock in southern Ontario, Canada** (2023)
-   6 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 3. **Soil organic carbon and <sup>13</sup>C changes when annual crops are replaced with perennial biomass crops in southwestern Ontario, Canada** (2024)
    1 citations · Soil Carbon

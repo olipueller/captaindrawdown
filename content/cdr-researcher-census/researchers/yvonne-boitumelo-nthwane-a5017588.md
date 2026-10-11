@@ -1,7 +1,7 @@
 ---
 title: "Yvonne Boitumelo Nthwane"
 description: "Yvonne Boitumelo Nthwane is a Mid-career Biochar researcher at Tshwane University of Technology in ZA. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.810077
+date: 2026-10-11T02:32:59.835225
 url: "/cdr-researcher-census/researchers/yvonne-boitumelo-nthwane-a5017588/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synthesis and Characterization of MC/TiO<sub>2</sub> NPs Nanocomposite for Removal of Pb<sup>2+</sup> and Reuse of Spent Adsorbent for Blood Fingerprint Detection** (2023)
-   16 citations · Biochar
+   17 citations · Biochar
 
 ## External Profiles
 

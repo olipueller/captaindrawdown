@@ -1,7 +1,7 @@
 ---
 title: "Rahul Warke"
 description: "Rahul Warke is an Early-career Soil Carbon researcher at Ipca Laboratories (India) in IN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.298209
+date: 2026-10-11T02:33:00.328538
 url: "/cdr-researcher-census/researchers/rahul-warke-a5088318/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil microbiome: An intrinsic driver for climate smart agriculture** (2024)
-   30 citations · General CDR
+   33 citations · General CDR
 
 ## External Profiles
 

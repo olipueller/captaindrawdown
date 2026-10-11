@@ -1,7 +1,7 @@
 ---
 title: "Willem-Jan van Zeist"
 description: "Willem-Jan van Zeist is a Mid-career General CDR researcher. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.291834
+date: 2026-10-11T02:32:59.296304
 url: "/cdr-researcher-census/researchers/willem-jan-van-zeist-a5112526/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Reducing sectoral hard-to-abate emissions to limit reliance on carbon dioxide removal** (2024)
-   108 citations · General CDR
+   112 citations · General CDR
 
 ## External Profiles
 

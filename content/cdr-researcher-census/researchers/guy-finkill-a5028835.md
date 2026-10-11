@@ -1,7 +1,7 @@
 ---
 title: "Guy Finkill"
-description: "Guy Finkill is an Early-career BECCS researcher at Tyndall Centre in GB. With 9 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.365575
+description: "Guy Finkill is an Early-career BECCS researcher at Tyndall Centre in GB. With 8 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:33:00.369607
 url: "/cdr-researcher-census/researchers/guy-finkill-a5028835/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Metric | Value |
 |--------|-------|
 | h-index | 2 |
-| Citations | 106 |
-| Publications | 9 |
-| CDR Focus | 11.1% |
+| Citations | 111 |
+| Publications | 8 |
+| CDR Focus | 12.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

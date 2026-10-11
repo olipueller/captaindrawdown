@@ -1,7 +1,7 @@
 ---
 title: "Tiane Ma"
-description: "Tiane Ma is a Mid-career Soil Carbon researcher at Guangdong Province Environmental Monitoring Center in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.175129
+description: "Tiane Ma is a Mid-career Soil Carbon researcher. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:33:00.200845
 url: "/cdr-researcher-census/researchers/tiane-ma-a5047719/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,18 +14,13 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Tiane Ma",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/tiane-ma-a5047719/",
-  "affiliation": {
-    "@type": "Organization",
-    "name": "Guangdong Province Environmental Monitoring Center"
-  },
   "sameAs": "https://openalex.org/A5047719544"
 }
 </script>
 
 ## Profile
 
-**Tiane Ma**  
-Guangdong Province Environmental Monitoring Center · 🇨🇳 CN
+**Tiane Ma**
 
 **Career Stage:** Mid-career
 
@@ -40,7 +35,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Metric | Value |
 |--------|-------|
 | h-index | 4 |
-| Citations | 143 |
+| Citations | 144 |
 | Publications | 5 |
 | CDR Focus | 20.0% |
 | Trajectory | Growing |

@@ -1,7 +1,7 @@
 ---
 title: "Satyendra Kumar"
 description: "Satyendra Kumar is a Senior Soil Carbon researcher at BNMV College Sahugarh Madhepura in IN. With 74 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.173981
+date: 2026-10-11T02:32:59.178092
 url: "/cdr-researcher-census/researchers/satyendra-kumar-a5103853/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Gypsum and pressmud amelioration improve soil organic carbon storage and stability in sodic agroecosystems** (2021)
-   59 citations · Soil Carbon
+   61 citations · Soil Carbon
 
 2. **The food-energy-water-carbon nexus of the rice-wheat production system in the western Indo-Gangetic Plain of India: An impact of irrigation system, conservational tillage and residue management** (2022)
-   57 citations · Soil Carbon
+   58 citations · Soil Carbon
 
 3. **Restoring soil quality and carbon sequestration potential of waterlogged saline land using subsurface drainage technology to achieve land degradation neutrality in India** (2023)
    30 citations · Soil Carbon

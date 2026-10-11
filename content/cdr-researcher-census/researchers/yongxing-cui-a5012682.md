@@ -1,7 +1,7 @@
 ---
 title: "Yongxing Cui"
 description: "Yongxing Cui is an Eminent Soil Carbon researcher at Peking University in CN. With 108 publications and an h-index of 48, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.035522
+date: 2026-10-11T02:32:59.038633
 url: "/cdr-researcher-census/researchers/yongxing-cui-a5012682/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,34 +45,34 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 48 |
 | Citations | 7,086 |
 | Publications | 108 |
-| CDR Focus | 13.0% |
+| CDR Focus | 13.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Ecoenzymatic stoichiometry reveals widespread soil phosphorus limitation to microbial metabolism across Chinese forests** (2022)
-   167 citations · Soil Carbon
+   170 citations · Soil Carbon
 
 2. **Decreasing microbial phosphorus limitation increases soil carbon release** (2022)
-   125 citations · Soil Carbon
+   129 citations · Soil Carbon
 
 3. **Soil aggregate development and associated microbial metabolic limitations alter grassland carbon storage following livestock removal** (2022)
-   100 citations
+   101 citations
 
 4. **Heavy metal pollution increases soil microbial carbon limitation: Evidence from ecological enzyme stoichiometry** (2021)
-   70 citations · Soil Carbon
+   72 citations · Soil Carbon
 
 5. **Microbial nutrient limitations limit carbon sequestration but promote nitrogen and phosphorus cycling: A case study in an agroecosystem with long-term straw return** (2023)
-   64 citations · Soil Carbon
+   66 citations · Soil Carbon
 
 6. **Ecoenzymatic stoichiometry reveals phosphorus addition alleviates microbial nutrient limitation and promotes soil carbon sequestration in agricultural ecosystems** (2021)
-   60 citations · Soil Carbon
+   64 citations · Soil Carbon
 
 7. **Microbial metabolic limitation response to experimental warming along an altitudinal gradient in alpine grasslands, eastern Tibetan Plateau** (2022)
-   58 citations
+   60 citations
 
 8. **Soil microbial trait-based strategies drive the storage and stability of the soil carbon pool in Robinia pseudoacacia plantations** (2022)
-   38 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 9. **Consistent Plant and Microbe Nutrient Limitation Patterns During Natural Vegetation Restoration** (2022)
    35 citations · Soil Carbon

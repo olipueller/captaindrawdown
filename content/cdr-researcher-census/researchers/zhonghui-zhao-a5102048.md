@@ -1,7 +1,7 @@
 ---
 title: "Zhonghui Zhao"
 description: "Zhonghui Zhao is a Senior Soil Carbon researcher at Shandong University of Science and Technology in CN. With 39 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.279217
+date: 2026-10-11T02:32:59.283560
 url: "/cdr-researcher-census/researchers/zhonghui-zhao-a5102048/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    47 citations · Soil Carbon
 
 2. **Mapping Chinese annual gross primary productivity with eddy covariance measurements and machine learning** (2022)
-   45 citations
+   46 citations
 
 3. **A dataset of annual gross primary productivity in China&amp;rsquo;s terrestrial ecosystems during 2000-2020** (2023)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 4. **rTRIPLEXCWFlux: An R package for carbon–water coupling model to simulate net ecosystem productivity and evapotranspiration in forests** (2023)
    8 citations · Soil Carbon
 
 5. **Long-term field observations of the impacts of drought and stand development on runoff in a forested watershed** (2025)
-   3 citations
+   5 citations
 
 ## External Profiles
 

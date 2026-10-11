@@ -1,7 +1,7 @@
 ---
 title: "Rafael Gabriel da Rosa"
 description: "Rafael Gabriel da Rosa is a Mid-career BECCS researcher at Universidade Estadual de Campinas (UNICAMP) in BR. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.794570
+date: 2026-10-11T02:32:59.818131
 url: "/cdr-researcher-census/researchers/rafael-gabriel-da-rosa-a5037982/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Bioenergy and bioproducts from cashew apple bagasse: a scientometric overview and strategies for sustainable utilization** (2024)
-   11 citations · BECCS
+   12 citations · BECCS
 
 ## External Profiles
 

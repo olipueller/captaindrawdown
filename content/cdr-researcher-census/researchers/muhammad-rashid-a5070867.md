@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Rashid"
 description: "Muhammad Rashid is a Senior Biochar researcher at University of Kansas in US. With 66 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.141684
+date: 2026-10-11T02:32:59.145937
 url: "/cdr-researcher-census/researchers/muhammad-rashid-a5070867/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Rita Choudhary"
 description: "Rita Choudhary is a Mid-career Soil Carbon researcher at Manav Rachna International Institute of Research and Studies in IN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.891224
+date: 2026-10-11T02:32:59.919087
 url: "/cdr-researcher-census/researchers/rita-choudhary-a5038188/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Arbuscular mycorrhizal fungi (AMF): a pathway to sustainable soil health, carbon sequestration, and greenhouse gas mitigation** (2025)
-   36 citations · Soil Carbon
+   42 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Abdi Nemera Emana"
 description: "Abdi Nemera Emana is a Mid-career Biochar researcher at Haramaya University in ET. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.385890
+date: 2026-10-11T02:33:00.422830
 url: "/cdr-researcher-census/researchers/abdi-nemera-emana-a5084030/"
 layout: "researcher"
 hiddenInHomeList: true

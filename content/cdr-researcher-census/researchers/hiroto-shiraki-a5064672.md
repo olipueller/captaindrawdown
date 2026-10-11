@@ -1,7 +1,7 @@
 ---
 title: "Hiroto Shiraki"
 description: "Hiroto Shiraki is a Mid-career General CDR researcher at Nagoya University in JP. With 54 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.326930
+date: 2026-10-11T02:32:59.332779
 url: "/cdr-researcher-census/researchers/hiroto-shiraki-a5064672/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Alternative, but expensive, energy transition scenario featuring carbon capture and utilization can preserve existing energy demand technologies** (2023)
-   31 citations · DAC
+   30 citations · DAC
 
 2. **International financial support to achieve the net-zero emissions goal could help resolve equity trade-off between developing and developed countries** (2026)
-   4 citations · General CDR
+   5 citations · General CDR
 
 3. **JMIP 2 Part 1: Technology uncertainty and robustness in Japan’s net-zero pathways** (2025)
    3 citations · General CDR

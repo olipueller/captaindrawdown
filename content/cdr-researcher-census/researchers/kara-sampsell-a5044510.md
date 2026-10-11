@@ -1,7 +1,7 @@
 ---
 title: "Kara Sampsell"
 description: "Kara Sampsell is a Mid-career Enhanced Weathering researcher at University of Calgary in CA. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.177042
+date: 2026-10-11T02:33:00.207086
 url: "/cdr-researcher-census/researchers/kara-sampsell-a5044510/"
 layout: "researcher"
 hiddenInHomeList: true

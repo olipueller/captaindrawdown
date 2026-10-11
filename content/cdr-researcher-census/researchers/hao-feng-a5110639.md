@@ -1,7 +1,7 @@
 ---
 title: "Hao Feng"
 description: "Hao Feng is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 70 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.209767
+date: 2026-10-11T02:32:59.213960
 url: "/cdr-researcher-census/researchers/hao-feng-a5110639/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Black biodegradable mulching increases grain yield and net return while decreasing carbon footprint in rain-fed conditions of the Loess Plateau** (2024)
-   104 citations · Soil Carbon
+   108 citations · Soil Carbon
 
 2. **Ammoniated straw returning: A win-win strategy for increasing crop production and soil carbon sequestration** (2024)
-   31 citations · Biochar
+   32 citations · Biochar
 
 3. **Plastic film-mulched ridges and straw-mulched furrows increase soil carbon sequestration and net ecosystem economic benefit in a wheat-maize rotation** (2022)
    25 citations · Soil Carbon
 
 4. **Effect of plastic mulching on soil organic carbon chemical stability: Insights from soil organic carbon chemical fractions and structure** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

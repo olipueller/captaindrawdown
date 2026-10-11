@@ -1,7 +1,7 @@
 ---
 title: "Tatsuki Tokoro"
 description: "Tatsuki Tokoro is a Senior Ocean CDR researcher at Hiroshima University in JP. With 57 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.415564
+date: 2026-10-11T02:32:59.425482
 url: "/cdr-researcher-census/researchers/tatsuki-tokoro-a5043760/"
 layout: "researcher"
 hiddenInHomeList: true

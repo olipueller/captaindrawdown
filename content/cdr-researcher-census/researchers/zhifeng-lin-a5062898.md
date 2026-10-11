@@ -1,7 +1,7 @@
 ---
 title: "Zhifeng Lin"
 description: "Zhifeng Lin is a Mid-career Biochar researcher at Foshan University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.813728
+date: 2026-10-11T02:32:59.838553
 url: "/cdr-researcher-census/researchers/zhifeng-lin-a5062898/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **NaOH-modified biochar supported Fe/Mn bimetallic composites as efficient peroxymonosulfate activator for enhance tetracycline removal** (2022)
-   145 citations · Biochar
+   148 citations · Biochar
 
 ## External Profiles
 

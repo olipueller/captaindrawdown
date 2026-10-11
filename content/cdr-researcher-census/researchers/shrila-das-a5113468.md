@@ -1,7 +1,7 @@
 ---
 title: "Shrila Das"
 description: "Shrila Das is a Senior Soil Carbon researcher at Indian Agricultural Statistics Research Institute in IN. With 65 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.198408
+date: 2026-10-11T02:32:59.202313
 url: "/cdr-researcher-census/researchers/shrila-das-a5113468/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 15 |
 | Citations | 1,292 |
 | Publications | 65 |
-| CDR Focus | 16.9% |
+| CDR Focus | 18.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Long-term agroforestry enhances soil organic carbon pools and deep soil carbon sequestration in the Indian Himalayas** (2025)
-   17 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 2. **Soil organic carbon stabilization inside microaggregates within macroaggregates is the major mechanism of carbon sequestration under a long-term agroforestry system in the foot hills of the Indian Himalayas** (2025)
-   11 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 3. **Temporal Effects of Conservation Agriculture-Based Rice–Wheat Cropping System on Soil Aggregation and Organic Carbon Dynamics in Northwestern Indo-Gangetic Plains** (2025)
    10 citations · Soil Carbon
@@ -59,11 +59,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Elevated CO2 alters aggregate‑carbon and microbial community but does not affect total soil organic C in the semi-arid tropics** (2023)
    10 citations · Soil Carbon
 
-5. **Soil Carbon Sequestration for Soil Quality Improvement and Climate Change Mitigation** (2021)
-   7 citations · General CDR
+5. **Exploring soil organic carbon fractions, stocks, and carbon management index across land uses in subtropical ecosystems of Tripura, India** (2025)
+   7 citations · Soil Carbon
 
-6. **Exploring soil organic carbon fractions, stocks, and carbon management index across land uses in subtropical ecosystems of Tripura, India** (2025)
-   6 citations · Soil Carbon
+6. **Soil Carbon Sequestration for Soil Quality Improvement and Climate Change Mitigation** (2021)
+   7 citations · General CDR
 
 7. **Impact of agro-geotextiles on soil aggregation and organic carbon sequestration under a conservation-tilled maize-based cropping system in the Indian Himalayas** (2023)
    5 citations · Soil Carbon

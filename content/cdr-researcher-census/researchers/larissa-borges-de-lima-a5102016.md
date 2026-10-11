@@ -1,7 +1,7 @@
 ---
 title: "Larissa Borges de Lima"
 description: "Larissa Borges de Lima is a Mid-career Soil Carbon researcher at Universidade Federal de Mato Grosso in BR. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.820915
+date: 2026-10-11T02:32:59.845854
 url: "/cdr-researcher-census/researchers/larissa-borges-de-lima-a5102016/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Activated Biochar-Based Organomineral Fertilizer Delays Nitrogen Release and Reduces N2O Emission** (2022)
-   21 citations · Biochar
+   22 citations · Biochar
 
 2. **Soil organic carbon dynamics in the Cerrado–Amazon ecotone: Effects of land-use change on organic carbon sequestration and losses** (2025)
    6 citations · Soil Carbon

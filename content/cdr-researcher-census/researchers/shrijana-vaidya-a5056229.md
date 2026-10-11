@@ -1,7 +1,7 @@
 ---
 title: "Shrijana Vaidya"
 description: "Shrijana Vaidya is a Mid-career Soil Carbon researcher at Leibniz Centre for Agricultural Landscape Research in DE. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.188657
+date: 2026-10-11T02:33:00.218793
 url: "/cdr-researcher-census/researchers/shrijana-vaidya-a5056229/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ziheng Peng"
 description: "Ziheng Peng is a Senior Soil Carbon researcher at Peking University in CN. With 37 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.181458
+date: 2026-10-11T02:32:59.185565
 url: "/cdr-researcher-census/researchers/ziheng-peng-a5103109/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A Global Relationship Between Genome Size and Encoded Carbon Metabolic Strategies of Soil Bacteria** (2025)
-   29 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 2. **Core autotrophic microbes drive functional stability of soil cbbL-containing autotrophic microbes during desertification** (2023)
    9 citations
 
 3. **Diversity loss of soil microbiome stimulates soil carbon emissions** (2025)
-   6 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 ## External Profiles
 

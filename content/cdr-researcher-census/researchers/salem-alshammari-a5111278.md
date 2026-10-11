@@ -1,7 +1,7 @@
 ---
 title: "Salem Alshammari"
 description: "Salem Alshammari is a Mid-career Enhanced Weathering researcher at Saudi Aramco (Saudi Arabia) in SA. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.184849
+date: 2026-10-11T02:33:00.215106
 url: "/cdr-researcher-census/researchers/salem-alshammari-a5111278/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Carbonated Alkaline Fluid (CAF): A CO <sub>2</sub> Mineralization Approach for Sustainable Produced-Water Reinjection** (2025)
-   8 citations · Enhanced Weathering
+   11 citations · Enhanced Weathering
 
 ## External Profiles
 

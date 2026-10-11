@@ -1,7 +1,7 @@
 ---
 title: "Dou Haitao"
 description: "Dou Haitao is an Early-career Biochar researcher at Chinese Academy of Sciences in CN. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.397273
+date: 2026-10-11T02:33:00.435487
 url: "/cdr-researcher-census/researchers/dou-haitao-a5115037/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar in sustainable agriculture and Climate Mitigation: Mechanisms, challenges, and applications in the circular bioeconomy** (2024)
-   100 citations · Biochar
+   103 citations · Biochar
 
 ## External Profiles
 

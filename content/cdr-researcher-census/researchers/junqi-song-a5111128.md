@@ -1,7 +1,7 @@
 ---
 title: "Junqi Song"
 description: "Junqi Song is an Early-career Biochar researcher at Xi'an University of Technology in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.297161
+date: 2026-10-11T02:33:00.327542
 url: "/cdr-researcher-census/researchers/junqi-song-a5111128/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Salahedin Moradi"
 description: "Salahedin Moradi is a Mid-career Biochar researcher at Payame Noor University in IR. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.011856
+date: 2026-10-11T02:33:00.042900
 url: "/cdr-researcher-census/researchers/salahedin-moradi-a5058881/"
 layout: "researcher"
 hiddenInHomeList: true

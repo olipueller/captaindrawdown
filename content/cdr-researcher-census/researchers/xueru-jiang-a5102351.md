@@ -1,7 +1,7 @@
 ---
 title: "Xueru Jiang"
 description: "Xueru Jiang is a Mid-career Soil Carbon researcher at Jiangxi Agricultural University in CN. With 32 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.533164
+date: 2026-10-11T02:32:59.547436
 url: "/cdr-researcher-census/researchers/xueru-jiang-a5102351/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Urbanization-induced soil organic carbon loss and microbial-enzymatic drivers: insights from aggregate size classes in Nanchang city, China** (2024)
-   28 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 2. **Reforestation Increases the Aggregate Organic Carbon Concentration Induced by Soil Microorganisms in a Degraded Red Soil, Subtropical China** (2023)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 ## External Profiles
 

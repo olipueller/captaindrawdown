@@ -1,7 +1,7 @@
 ---
 title: "Yves Uwiragiye"
 description: "Yves Uwiragiye is a Mid-career Soil Carbon researcher at Anhui University in CN. With 52 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.299777
+date: 2026-10-11T02:32:59.304863
 url: "/cdr-researcher-census/researchers/yves-uwiragiye-a5070602/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Meta-analysis unveils differential effects of agroforestry on soil properties in different zonobiomes** (2023)
-   77 citations
+   76 citations
 
 2. **Degradable film mulching increases soil carbon sequestration in major Chinese dryland agroecosystems** (2025)
-   34 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 3. **Low-level nitrogen and short-term addition increase soil carbon sequestration in Chinese forest ecosystems** (2022)
    22 citations

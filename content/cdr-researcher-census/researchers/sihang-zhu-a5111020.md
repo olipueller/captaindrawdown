@@ -1,7 +1,7 @@
 ---
 title: "Sihang Zhu"
 description: "Sihang Zhu is a Mid-career Biochar researcher at Ministry of Agriculture and Rural Affairs in CN. With 13 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.296610
+date: 2026-10-11T02:32:59.301360
 url: "/cdr-researcher-census/researchers/sihang-zhu-a5111020/"
 layout: "researcher"
 hiddenInHomeList: true

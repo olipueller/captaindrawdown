@@ -1,7 +1,7 @@
 ---
 title: "Emre Babür"
 description: "Emre Babür is a Mid-career Soil Carbon researcher at Kahramanmaraş Sütçü İmam Üniversitesi in TR. With 70 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.194875
+date: 2026-10-11T02:32:59.198848
 url: "/cdr-researcher-census/researchers/emre-babur-a5075270/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,27 +51,30 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Wattle fencing improved soil aggregate stability, organic carbon stocks and biochemical quality by restoring highly eroded mountain region soil** (2021)
-   47 citations · Soil Carbon
+   48 citations · Soil Carbon
 
 2. **Nitrogen Fertilizer Effects on Microbial Respiration, Microbial Biomass, and Carbon Sequestration in a Mediterranean Grassland Ecosystem** (2021)
-   26 citations
+   27 citations
 
 3. **Corn and Wheat Residue Management Effects on Greenhouse Gas Emissions in the Mid-Atlantic USA** (2022)
-   20 citations
+   21 citations
 
 4. **Relationship between organic matter and microbial biomass in different vegetation types** (2022)
-   17 citations · Soil Carbon
+   16 citations · Soil Carbon
 
-5. **IMPACT OF CEDRUS LIBANI AFFORESTATION ON SOIL CARBON AND NITROGEN STOCKS IN THE UPPER MEDITERRANEAN BASIN** (2025)
-   5 citations · Soil Carbon
+5. **Significant Differences in Microbial Soil Properties, Stoichiometry and Tree Growth Occurred within 15 Years after Afforestation on Different Parent Material** (2024)
+   11 citations
 
-6. **Significant Differences in Microbial Soil Properties, Stoichiometry, and Tree Growth Occurred within 15 Years after Afforestation on Different Parent Material** (2024)
-   4 citations · Soil Carbon
+6. **IMPACT OF CEDRUS LIBANI AFFORESTATION ON SOIL CARBON AND NITROGEN STOCKS IN THE UPPER MEDITERRANEAN BASIN** (2025)
+   6 citations · Soil Carbon
 
 7. **Soil Physicochemical and Biochemical Differentiation Under Dominant Broadleaf Forest Species in the Eastern Black Sea Region** (2026)
-   2 citations
+   5 citations
 
-8. **Climate change impacts on forest and soil ecosystems: Microbial responses, carbon cycling, and future perspectives** (2026)
+8. **Significant Differences in Microbial Soil Properties, Stoichiometry, and Tree Growth Occurred within 15 Years after Afforestation on Different Parent Material** (2024)
+   4 citations · Soil Carbon
+
+9. **Climate change impacts on forest and soil ecosystems: Microbial responses, carbon cycling, and future perspectives** (2026)
    0 citations
 
 ## External Profiles

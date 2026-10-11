@@ -1,7 +1,7 @@
 ---
 title: "Michael U. Ben-Eli"
 description: "Michael U. Ben-Eli is a Senior Soil Carbon researcher. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.871489
+date: 2026-10-11T02:32:59.898490
 url: "/cdr-researcher-census/researchers/michael-u-ben-eli-a5112747/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of grazing control on ecosystem recovery, biological productivity gains, and soil carbon sequestration in long‐term degraded loess farmlands in the Northern Negev, Israel** (2021)
-   25 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 ## External Profiles
 

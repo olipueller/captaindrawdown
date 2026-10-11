@@ -1,7 +1,7 @@
 ---
 title: "Chhavi Sirohi"
 description: "Chhavi Sirohi is a Mid-career Soil Carbon researcher at Chaudhary Charan Singh Haryana Agricultural University in IN. With 45 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.709395
+date: 2026-10-11T02:32:59.730024
 url: "/cdr-researcher-census/researchers/chhavi-sirohi-a5013456/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon Sequestration Potential of Commercial Agroforestry Systems in Indo-Gangetic Plains of India: Poplar and Eucalyptus-Based Agroforestry Systems** (2023)
-   77 citations · Soil Carbon
+   79 citations · Soil Carbon
 
 2. **Optimizing planting geometries in eucalyptus-based food production systems for enhanced yield and carbon sequestration** (2024)
-   15 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 3. **Perspective Chapter: Agroforestry Strategies for Integrated Soil and Water Conservation** (2024)
    3 citations · Soil Carbon
+
+4. **Stalwarts who globally shaped the concept and science called agroforestry** (2022)
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "I. J. J. Otene"
 description: "I. J. J. Otene is a Mid-career Soil Carbon researcher at Kogi State University in NG. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.278470
+date: 2026-10-11T02:33:00.308528
 url: "/cdr-researcher-census/researchers/i-j-j-otene-a5087125/"
 layout: "researcher"
 hiddenInHomeList: true

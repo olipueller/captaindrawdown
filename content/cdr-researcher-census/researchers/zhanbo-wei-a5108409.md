@@ -1,7 +1,7 @@
 ---
 title: "Zhanbo Wei"
 description: "Zhanbo Wei is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 30 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.383733
+date: 2026-10-11T02:32:59.391484
 url: "/cdr-researcher-census/researchers/zhanbo-wei-a5108409/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Humic acid modulates growth, photosynthesis, hormone and osmolytes system of maize under drought conditions** (2022)
-   126 citations · Soil Carbon
+   124 citations · Soil Carbon
 
 2. **Effects of corn stalks returning on soil microbial carbon use efficiency and corn yield in semi-arid cropland** (2023)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

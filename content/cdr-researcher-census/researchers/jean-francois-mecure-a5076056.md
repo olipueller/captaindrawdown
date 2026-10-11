@@ -1,7 +1,7 @@
 ---
 title: "Jean-Francois Mecure"
 description: "Jean-Francois Mecure is an Early-career Enhanced Weathering researcher. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.083542
+date: 2026-10-11T02:33:00.113814
 url: "/cdr-researcher-census/researchers/jean-francois-mecure-a5076056/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Substantial carbon drawdown potential from enhanced rock weathering in the United Kingdom** (2022)
-   164 citations · Enhanced Weathering
+   165 citations · Enhanced Weathering
 
 2. **Transforming U.S. agriculture with crushed rock for CO$_2$ sequestration and increased production** (2023)
    1 citations · Enhanced Weathering

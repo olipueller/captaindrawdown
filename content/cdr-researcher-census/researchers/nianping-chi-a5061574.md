@@ -1,7 +1,7 @@
 ---
 title: "Nianping Chi"
 description: "Nianping Chi is a Senior Biochar researcher at Hunan City University in CN. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.559043
+date: 2026-10-11T02:32:59.574469
 url: "/cdr-researcher-census/researchers/nianping-chi-a5061574/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,9 +48,12 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Silica from rice husk for sludge-based biochar modification: As a novel adsorbent for lead** (2024)
-   17 citations · Biochar
+   18 citations · Biochar
 
-2. **Removal of Pb2+ by Sludge-Based Biochar Modified by the Silica Derived from Rice Husk** (2023)
+2. **Preparation of Biochar-Supported N,S-BiOBr Photocatalytic Material and Optimization of Its Performance for Tetracycline Degradation** (2026)
+   0 citations · Biochar
+
+3. **Removal of Pb2+ by Sludge-Based Biochar Modified by the Silica Derived from Rice Husk** (2023)
    0 citations · Biochar
 
 ## External Profiles

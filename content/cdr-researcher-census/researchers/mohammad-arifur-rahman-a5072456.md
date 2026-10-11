@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Arifur Rahman"
 description: "Mohammad Arifur Rahman is a Senior Biochar researcher at Center for Environmental and Geographic Information Services in BD. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.586169
+date: 2026-10-11T02:32:59.602770
 url: "/cdr-researcher-census/researchers/mohammad-arifur-rahman-a5072456/"
 layout: "researcher"
 hiddenInHomeList: true

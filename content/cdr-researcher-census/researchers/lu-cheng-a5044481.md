@@ -1,7 +1,7 @@
 ---
 title: "Lu Cheng"
 description: "Lu Cheng is a Mid-career General CDR researcher at Central South University in CN. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.775298
+date: 2026-10-11T02:32:59.798425
 url: "/cdr-researcher-census/researchers/lu-cheng-a5044481/"
 layout: "researcher"
 hiddenInHomeList: true

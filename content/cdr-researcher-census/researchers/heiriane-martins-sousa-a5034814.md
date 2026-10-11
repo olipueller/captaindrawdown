@@ -1,7 +1,7 @@
 ---
 title: "Heiriane Martins Sousa"
 description: "Heiriane Martins Sousa is a Mid-career Biochar researcher at Instituto Federal do Amazonas in BR. With 21 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.016371
+date: 2026-10-11T02:33:00.047253
 url: "/cdr-researcher-census/researchers/heiriane-martins-sousa-a5034814/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Investigation, Prospects, and Economic Scenarios for the Use of Biochar in Small-Scale Agriculture in Tropical** (2025)
-   5 citations · Biochar
+   6 citations · Biochar
 
 2. **Açaí-Derived Biochar Improves Soil Fertility, Microbial Activity, and Cowpea Yield in an Acidic Amazonian Ferralsol** (2026)
    0 citations · Biochar

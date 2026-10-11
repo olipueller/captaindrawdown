@@ -1,7 +1,7 @@
 ---
 title: "Pavol Bezák"
 description: "Pavol Bezák is a Mid-career Soil Carbon researcher at Výskumný Ústav Pôdoznalectva a Ochrany Pôdy in SK. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.571383
+date: 2026-10-11T02:32:59.587065
 url: "/cdr-researcher-census/researchers/pavol-bezak-a5078536/"
 layout: "researcher"
 hiddenInHomeList: true

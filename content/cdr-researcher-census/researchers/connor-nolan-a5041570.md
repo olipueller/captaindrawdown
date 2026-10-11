@@ -1,7 +1,7 @@
 ---
 title: "Connor Nolan"
 description: "Connor Nolan is a Senior Soil Carbon researcher at Stanford University in US. With 24 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.164381
+date: 2026-10-11T02:32:59.168383
 url: "/cdr-researcher-census/researchers/connor-nolan-a5041570/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Constraints and enablers for increasing carbon storage in the terrestrial biosphere** (2021)
-   106 citations · General CDR
+   105 citations · General CDR
 
 2. **Additionality, baselines, and the proper accounting for land-based climate change mitigation efforts** (2024)
-   7 citations · General CDR
+   8 citations · General CDR
 
 ## External Profiles
 

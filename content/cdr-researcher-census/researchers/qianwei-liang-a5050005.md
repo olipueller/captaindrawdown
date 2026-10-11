@@ -1,7 +1,7 @@
 ---
 title: "Qianwei Liang"
 description: "Qianwei Liang is an Early-career Biochar researcher at Beijing University of Technology in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.893105
+date: 2026-10-11T02:32:59.921492
 url: "/cdr-researcher-census/researchers/qianwei-liang-a5050005/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Construction and application of biochar-based composite phase change materials** (2022)
-   148 citations · Biochar
+   151 citations · Biochar
 
 ## External Profiles
 

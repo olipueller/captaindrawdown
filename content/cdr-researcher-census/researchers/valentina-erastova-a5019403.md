@@ -1,7 +1,7 @@
 ---
 title: "Valentina Erastova"
 description: "Valentina Erastova is a Senior Biochar researcher at University of Edinburgh in GB. With 58 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.208915
+date: 2026-10-11T02:32:59.213098
 url: "/cdr-researcher-census/researchers/valentina-erastova-a5019403/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,21 +51,24 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Development of biochar molecular models with controlled porosity** (2024)
-   34 citations · Biochar
+   36 citations · Biochar
 
 2. **Biochars at the molecular level. Part 2 -- Development of realistic molecular models of biochars** (2023)
    5 citations · Biochar
 
-3. **Mechanisms of Mn(II) Removal from Mining-Impacted Waters by Biochar: Decoupling Precipitation and Surface Complexation via Experiments and Atomistic Simulations** (2026)
+3. **Mechanisms of Mn(II) removal from mining-impacted waters by biochar: Decoupling precipitation and surface complexation via experiments and atomistic simulations** (2026)
    0 citations · Biochar
 
-4. **Decoupling Precipitation and Surface Complexation during Mn(II) Removal by Biochar via Experiments and Atomistic Simulations** (2026)
+4. **Mechanisms of Mn(II) Removal from Mining-Impacted Waters by Biochar: Decoupling Precipitation and Surface Complexation via Experiments and Atomistic Simulations** (2026)
    0 citations · Biochar
 
 5. **Decoupling Precipitation and Surface Complexation during Mn(II) Removal by Biochar via Experiments and Atomistic Simulations** (2026)
    0 citations · Biochar
 
-6. **Biochars at the Molecular Level&amp;nbsp;Part 2 – Development of Realistic Molecular Models of Biochars** (2023)
+6. **Decoupling Precipitation and Surface Complexation during Mn(II) Removal by Biochar via Experiments and Atomistic Simulations** (2026)
+   0 citations · Biochar
+
+7. **Biochars at the Molecular Level&amp;nbsp;Part 2 – Development of Realistic Molecular Models of Biochars** (2023)
    0 citations · Biochar
 
 ## External Profiles

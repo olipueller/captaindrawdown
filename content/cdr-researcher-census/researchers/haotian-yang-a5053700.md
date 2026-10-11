@@ -1,7 +1,7 @@
 ---
 title: "Haotian Yang"
 description: "Haotian Yang is a Senior Soil Carbon researcher at Shapotou Desert Research and Experiment Station, Northwest Institute of Eco-environment and Resources, Chinese Academy of Sciences in CN. With 68 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.239132
+date: 2026-10-11T02:32:59.242683
 url: "/cdr-researcher-census/researchers/haotian-yang-a5053700/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Revegetation promotes soil mineral-associated organic carbon sequestration and soil carbon stability in the Tengger Desert, northern China** (2023)
-   65 citations · Soil Carbon
+   69 citations · Soil Carbon
 
 2. **Variations in organic carbon mineralization of the biological soil crusts following revegetation in the Tengger Desert, North China** (2022)
    17 citations · Soil Carbon
@@ -60,12 +60,12 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    17 citations · Soil Carbon
 
 4. **Divergent changes of carbon and nitrogen in the density fractions of soil organic matter after revegetation in the Tengger Desert, north China** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
-5. **Elevational control on microbial residues contributions to soil organic carbon: Dual regulation by soil moisture and total nitrogen dynamics in semi-arid mountain soils** (2025)
-   0 citations · Soil Carbon
+5. **Development stage of biocrusts regulates soil carbon mineralization and its hydrothermal sensitivity in a temperate desert ecosystem** (2025)
+   1 citations · Soil Carbon
 
-6. **Development stage of biocrusts regulates soil carbon mineralization and its hydrothermal sensitivity in a temperate desert ecosystem** (2025)
+6. **Elevational control on microbial residues contributions to soil organic carbon: Dual regulation by soil moisture and total nitrogen dynamics in semi-arid mountain soils** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

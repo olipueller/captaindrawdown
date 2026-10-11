@@ -1,7 +1,7 @@
 ---
 title: "Corey Myers"
 description: "Corey Myers is a Mid-career General CDR researcher at Lawrence Livermore National Laboratory in US. With 34 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.848698
+date: 2026-10-11T02:32:59.875326
 url: "/cdr-researcher-census/researchers/corey-myers-a5065047/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Carbon accounting for carbon dioxide removal** (2024)
-   25 citations · General CDR
+   26 citations · General CDR
 
 2. **The cost of carbon dioxide removal via Direct Air Mineralization of natural rocks: Case studies in Japan** (2021)
    1 citations · Enhanced Weathering

@@ -1,7 +1,7 @@
 ---
 title: "Jingting Feng"
 description: "Jingting Feng is a Senior Biochar researcher at Xi'an University of Architecture and Technology in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.167477
+date: 2026-10-11T02:33:00.197455
 url: "/cdr-researcher-census/researchers/jingting-feng-a5038954/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Simultaneous removal of ammonia, copper ions and sulfamethoxazole from aquaculture wastewater with low carbon to nitrogen ratio enhanced by manganese redox driven by a two-stage synergistic bioreactor: Optimization and potential mechanism** (2024)
-   24 citations
+   25 citations
 
 2. **Simultaneous removal of ammonia, cadmium, and oxytetracycline via a double-layer immobilized bioreactor driven by manganese redox: Optimization and potential mechanism** (2025)
-   15 citations
+   16 citations
 
 3. **δ-MnO2-modified peanut shell biochar and humic acid promoted Mn(IV) reduction-driven ammonium oxidation with Cr(VI) removal** (2025)
    5 citations · Biochar

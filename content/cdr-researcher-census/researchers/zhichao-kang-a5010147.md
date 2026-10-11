@@ -1,7 +1,7 @@
 ---
 title: "Zhichao Kang"
 description: "Zhichao Kang is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.138415
+date: 2026-10-11T02:33:00.168827
 url: "/cdr-researcher-census/researchers/zhichao-kang-a5010147/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Degradation of bensulfuron methyl by nitrogen/boron codoped biochar activated peroxydisulfate at lower temperature** (2023)
-   22 citations · Biochar
+   23 citations · Biochar
 
 2. **Simultaneous achievement of removing bensulfuron-methyl and reducing CO2 emission in paddy soil by Acinetobacter YH0317 immobilized boron-doping biochar** (2024)
    10 citations · Biochar
@@ -57,7 +57,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    2 citations · Soil Carbon
 
 4. **Synergistic enhancement of atrazine biodegradation and fertility restoration in black soil via microbial colonization and carbon flux modulation with the Paenarthrobacter-biochar hybrid system** (2025)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

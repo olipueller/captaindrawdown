@@ -1,7 +1,7 @@
 ---
 title: "Yanji Jin"
 description: "Yanji Jin is an Early-career Biochar researcher at Southeast University in CN. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.297478
+date: 2026-10-11T02:33:00.327815
 url: "/cdr-researcher-census/researchers/yanji-jin-a5080048/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    9 citations · Biochar
 
 2. **Field-ready acceleration of supersulfated cement using ambient-synthesized ettringite seeds: Early-age hydration kinetics and constructability enhancement** (2026)
-   4 citations
+   5 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Adolf Acheampong"
 description: "Adolf Acheampong is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.716427
+date: 2026-10-11T02:32:59.737543
 url: "/cdr-researcher-census/researchers/adolf-acheampong-a5067952/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The management of Cd in rice with biochar and selenium: effects, efficiency, and practices** (2023)
-   26 citations · Biochar
+   28 citations · Biochar
 
 ## External Profiles
 

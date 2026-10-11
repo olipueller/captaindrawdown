@@ -1,7 +1,7 @@
 ---
 title: "Xiaoying Min"
 description: "Xiaoying Min is a Mid-career Soil Carbon researcher at Sun Yat-sen University in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.664075
+date: 2026-10-11T02:32:59.683447
 url: "/cdr-researcher-census/researchers/xiaoying-min-a5055023/"
 layout: "researcher"
 hiddenInHomeList: true

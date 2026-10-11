@@ -1,7 +1,7 @@
 ---
 title: "Naomi E. Vaughan"
 description: "Naomi E. Vaughan is a Senior General CDR researcher at University of East Anglia in GB. With 77 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.062236
+date: 2026-10-11T02:32:59.066707
 url: "/cdr-researcher-census/researchers/naomi-e-vaughan-a5022069/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,25 +45,25 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 29 |
 | Citations | 4,042 |
 | Publications | 77 |
-| CDR Focus | 19.5% |
+| CDR Focus | 23.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The carbon dioxide removal gap** (2024)
-   91 citations
+   106 citations
 
 2. **Long-term national climate strategies bet on forests and soils to reach net-zero** (2022)
-   75 citations · General CDR
+   76 citations · General CDR
 
-3. **Bringing greenhouse gas removal down to earth: Stakeholder supply chain appraisals reveal complex challenges** (2021)
+3. **Residual emissions in long-term national climate strategies show limited climate ambition** (2024)
+   27 citations · General CDR
+
+4. **Bringing greenhouse gas removal down to earth: Stakeholder supply chain appraisals reveal complex challenges** (2021)
    27 citations · BECCS
 
-4. **Residual emissions in long-term national climate strategies show limited climate ambition** (2024)
-   26 citations · General CDR
-
 5. **Implementation of marine CO2 removal for climate mitigation: The challenges of additionality, predictability, and governability** (2024)
-   24 citations · General CDR
+   26 citations · General CDR
 
 6. **The carbon dioxide removal gap** (2023)
    8 citations · General CDR
@@ -72,10 +72,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    7 citations · General CDR
 
 8. **Uncertain effectiveness of <i>Miscanthus</i> bioenergy expansion for climate change mitigation explored using land surface, agronomic and integrated assessment models** (2022)
-   6 citations · BECCS
+   7 citations · BECCS
 
 9. **Countries need to provide clarity on the role of carbon dioxide removal in their climate pledges** (2024)
-   5 citations · General CDR
+   6 citations · General CDR
 
 10. **A dataset of emissions and removals from scenarios and pathways within long-term national climate strategies – the LTS-SP dataset** (2025)
    2 citations · General CDR

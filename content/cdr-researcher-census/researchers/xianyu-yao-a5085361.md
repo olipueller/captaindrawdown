@@ -1,7 +1,7 @@
 ---
 title: "Xianyu Yao"
 description: "Xianyu Yao is a Mid-career Soil Carbon researcher at Guangxi University in CN. With 37 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.689974
+date: 2026-10-11T02:32:59.710317
 url: "/cdr-researcher-census/researchers/xianyu-yao-a5085361/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil Organic Carbon Sequestration after 20-Year Afforestation of Mangrove Plantations on Qi’ao Island, Southern China** (2023)
-   7 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 2. **Estimating microbial necromass contribution to mineral-associated organic matter: comparison of stoichiometric and biomarker methods** (2025)
    3 citations · Soil Carbon
@@ -62,10 +62,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Nitrogen-Fixing Trees Shift Soil Organic Carbon Toward Mineral-Associated Stability by Enhancing Microbial-Derived Carbon in Subtropical Plantations** (2026)
    0 citations
 
-5. **Nitrogen-fixing Trees Increase Weathering Indices and Soil Nutrients in coral sand substrates** (2026)
+5. **Enhancement of mineral-associated organic carbon by microbial necromass in Eucalyptus mixed plantations with N-fixing trees** (2026)
+   0 citations
+
+6. **Nitrogen-fixing Trees Increase Weathering Indices and Soil Nutrients in coral sand substrates** (2026)
    0 citations · Enhanced Weathering
 
-6. **Introduction of Dalbergia Odorifera Enhances Nitrogen Absorption on Eucalyputs Through Stimulating Microbially Mediated Soil Nitrogen-cycling** (2021)
+7. **Introduction of Dalbergia Odorifera Enhances Nitrogen Absorption on Eucalyputs Through Stimulating Microbially Mediated Soil Nitrogen-cycling** (2021)
    0 citations · Soil Carbon
 
 ## External Profiles

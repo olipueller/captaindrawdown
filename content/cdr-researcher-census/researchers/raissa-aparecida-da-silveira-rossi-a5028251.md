@@ -1,7 +1,7 @@
 ---
 title: "Raíssa Aparecida da Silveira Rossi"
-description: "Raíssa Aparecida da Silveira Rossi is a Mid-career Biochar researcher at Technical University of Denmark in DK. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.286255
+description: "Raíssa Aparecida da Silveira Rossi is a Mid-career Biochar researcher at Technical University of Denmark in DK. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:33:00.279498
 url: "/cdr-researcher-census/researchers/raissa-aparecida-da-silveira-rossi-a5028251/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,9 +43,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 121 |
-| Publications | 17 |
-| CDR Focus | 5.9% |
+| Citations | 128 |
+| Publications | 19 |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Paolo Isoni"
 description: "Paolo Isoni is a Mid-career General CDR researcher at ATS Sardegna (Italy) in IT. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.004638
+date: 2026-10-11T02:33:00.035588
 url: "/cdr-researcher-census/researchers/paolo-isoni-a5061629/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Combined Renal-Pulmonary Extracorporeal Support with Low Blood Flow Techniques: A Retrospective Observational Study (CICERO Study)** (2021)
-   20 citations · General CDR
+   19 citations · General CDR
 
 2. **Supplementary Material for: Combined Renal-Pulmonary Extracorporeal Support with Low Blood Flow Techniques: A Retrospective Observational Study (CICERO Study)** (2021)
    0 citations

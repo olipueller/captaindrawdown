@@ -1,7 +1,7 @@
 ---
 title: "Hans-Peter Haslmayr"
 description: "Hans-Peter Haslmayr is a Mid-career Soil Carbon researcher at Austrian Agency for Health and Food Safety in AT. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.612812
+date: 2026-10-11T02:32:59.630198
 url: "/cdr-researcher-census/researchers/hans-peter-haslmayr-a5014934/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Optimizing Carbon Sequestration in Croplands: A Synthesis** (2021)
-   187 citations · General CDR
+   191 citations · General CDR
 
 2. **Organic soil carbon in Austria – Status quo and foreseeable trends** (2021)
    20 citations · Soil Carbon

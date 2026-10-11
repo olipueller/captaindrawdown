@@ -1,7 +1,7 @@
 ---
 title: "Libing Song"
 description: "Libing Song is a Mid-career Soil Carbon researcher at Shihezi University in CN. With 22 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.360895
+date: 2026-10-11T02:32:59.367829
 url: "/cdr-researcher-census/researchers/libing-song-a5102598/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    40 citations · Soil Carbon
 
 2. **Multi-objective optimization of saline water irrigation in arid oasis regions: Integrating water-saving, salinity control, yield enhancement, and CO2 emission reduction for sustainable cotton production** (2023)
-   30 citations · General CDR
+   31 citations · General CDR
 
 ## External Profiles
 

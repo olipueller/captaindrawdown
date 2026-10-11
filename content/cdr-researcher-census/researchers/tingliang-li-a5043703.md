@@ -1,7 +1,7 @@
 ---
 title: "Tingliang Li"
 description: "Tingliang Li is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 51 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.437639
+date: 2026-10-11T02:32:59.447901
 url: "/cdr-researcher-census/researchers/tingliang-li-a5043703/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Rejuvenation of iron oxides enhances carbon sequestration by the ‘iron gate’ and ‘enzyme latch’ mechanisms in a rice-wheat cropping system** (2022)
-   28 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 2. **Combined Application of Chemical and Organic Fertilizers Promoted Soil Carbon Sequestration and Bacterial Community Diversity in Dryland Wheat Fields** (2024)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 3. **Combined Application of Balanced Chemical and Organic Fertilizers on Improving Crop Yield by Affecting Soil Macroaggregation and Carbon Sequestration** (2024)
-   13 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 4. **Towards a mechanistic understanding of microbial and nonmicrobial mediated topsoil organic carbon sequestration efficiency in a rice-wheat cropping system** (2021)
    13 citations · Soil Carbon
 
 5. **The Effects of Various Long-Term Fertilizer Applications on Soil Carbon Fractions in a Winter Wheat Monoculture Area** (2023)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 6. **Long-Term Flat-Film Hole-Sowing Increases Soil Organic Carbon Stocks and Resilience Under Future Climate Change Scenarios** (2025)
    1 citations · Soil Carbon

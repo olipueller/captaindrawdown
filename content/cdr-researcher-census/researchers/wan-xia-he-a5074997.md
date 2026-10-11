@@ -1,7 +1,7 @@
 ---
 title: "Wan-Xia He"
 description: "Wan-Xia He is a Mid-career Soil Carbon researcher at Yangtze University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.338648
+date: 2026-10-11T02:33:00.372771
 url: "/cdr-researcher-census/researchers/wan-xia-he-a5074997/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Hairy Vetch Intercropping Attenuates Mycorrhizal Benefits to Walnut Growth and Soil Organic Carbon Sequestration via Glomalin** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 ## External Profiles
 

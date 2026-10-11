@@ -1,7 +1,7 @@
 ---
 title: "Zihuai Xu"
 description: "Zihuai Xu is a Mid-career General CDR researcher at Changzhou University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.860550
+date: 2026-10-11T02:32:59.887377
 url: "/cdr-researcher-census/researchers/zihuai-xu-a5113034/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Advancements in the development of porous nanomaterials for CO2 capture of deep decarbonization: Pore structure and chemical group optimization** (2024)
-   16 citations · General CDR
+   17 citations · General CDR
 
 ## External Profiles
 

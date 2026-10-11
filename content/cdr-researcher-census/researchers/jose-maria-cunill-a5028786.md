@@ -1,7 +1,7 @@
 ---
 title: "Jose Maria Cunill"
 description: "Jose Maria Cunill is an Early-career Soil Carbon researcher at Universidad Politécnica de Puebla in MX. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.219907
+date: 2026-10-11T02:32:59.223453
 url: "/cdr-researcher-census/researchers/jose-maria-cunill-a5028786/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Exploration of Extremophiles: Potential Applications in Agriculture and Soil Health Improvement Utilizing Extremophiles** (2024)
-   3 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

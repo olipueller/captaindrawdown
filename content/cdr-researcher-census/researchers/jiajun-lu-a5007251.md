@@ -1,7 +1,7 @@
 ---
 title: "Jiajun Lu"
 description: "Jiajun Lu is an Early-career Biochar researcher at Guangxi University in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.001486
+date: 2026-10-11T02:33:00.032302
 url: "/cdr-researcher-census/researchers/jiajun-lu-a5007251/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Preparation of highly functionalised biochar from hydrochloric acid activated bagasse for the efficient removal of metal ions** (2025)
-   14 citations · Biochar
+   15 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Viola Becattini"
 description: "Viola Becattini is a Mid-career General CDR researcher at ETH Zurich in CH. With 58 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.142137
+date: 2026-10-11T02:32:59.146370
 url: "/cdr-researcher-census/researchers/viola-becattini-a5055416/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Role of Carbon Capture, Storage, and Utilization to Enable a Net-Zero-CO<sub>2</sub>-Emissions Aviation Sector** (2021)
-   151 citations · DAC
+   153 citations · DAC
 
 2. **How to make climate-neutral aviation fly** (2023)
-   133 citations
+   134 citations
 
 3. **Carbon dioxide mineralization in recycled concrete aggregates can contribute immediately to carbon-neutrality** (2022)
-   103 citations · BECCS
+   102 citations · BECCS
 
 4. **Assessment of Potential and Techno-Economic Performance of Solid Sorbent Direct Air Capture with CO<sub>2</sub> Storage in Europe** (2024)
-   66 citations · DAC
+   69 citations · DAC
 
 5. **Cost-Effective Locations for Producing Fuels and Chemicals from Carbon Dioxide and Low-Carbon Hydrogen in the Future** (2024)
    19 citations · DAC

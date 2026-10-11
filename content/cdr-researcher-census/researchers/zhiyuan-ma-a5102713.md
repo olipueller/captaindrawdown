@@ -1,7 +1,7 @@
 ---
 title: "Zhiyuan Ma"
 description: "Zhiyuan Ma is a Senior Soil Carbon researcher at Sichuan University in CN. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.701458
+date: 2026-10-11T02:32:59.721579
 url: "/cdr-researcher-census/researchers/zhiyuan-ma-a5102713/"
 layout: "researcher"
 hiddenInHomeList: true

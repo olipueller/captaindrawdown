@@ -1,7 +1,7 @@
 ---
 title: "Chiao-Wen Lin"
 description: "Chiao-Wen Lin is a Mid-career Soil Carbon researcher at National Chung Hsing University in TW. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.651198
+date: 2026-10-11T02:32:59.670299
 url: "/cdr-researcher-census/researchers/chiao-wen-lin-a5078657/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    16 citations · General CDR
 
 4. **Exploring Spatial and Temporal Variations in Stem-Mediated Greenhouse Gas Emissions from Different Species of Mangroves** (2025)
-   3 citations · General CDR
+   4 citations · General CDR
 
 5. **Comment on egusphere-2024-533** (2024)
    0 citations

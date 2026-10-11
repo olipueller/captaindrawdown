@@ -1,7 +1,7 @@
 ---
 title: "Yufei Cui"
 description: "Yufei Cui is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.711759
+date: 2026-10-11T02:32:59.732410
 url: "/cdr-researcher-census/researchers/yufei-cui-a5100411/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of no-till on upland crop yield and soil organic carbon: a global meta-analysis** (2022)
-   43 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 2. **Trade-offs between crop yield and soil organic carbon sequestration under straw return across cropping systems** (2026)
-   1 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

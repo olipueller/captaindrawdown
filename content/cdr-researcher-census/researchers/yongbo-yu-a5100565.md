@@ -1,7 +1,7 @@
 ---
 title: "Yongbo Yu"
 description: "Yongbo Yu is a Mid-career Biochar researcher at University of Nottingham Ningbo China in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.354438
+date: 2026-10-11T02:33:00.389481
 url: "/cdr-researcher-census/researchers/yongbo-yu-a5100565/"
 layout: "researcher"
 hiddenInHomeList: true

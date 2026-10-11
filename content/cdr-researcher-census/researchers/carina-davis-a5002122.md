@@ -1,7 +1,7 @@
 ---
 title: "Carina Davis"
 description: "Carina Davis is a Mid-career Soil Carbon researcher at Manaaki Whenua – Landcare Research in NZ. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.054336
+date: 2026-10-11T02:33:00.085028
 url: "/cdr-researcher-census/researchers/carina-davis-a5002122/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Labile carbon inputs support the recovery of bacterial communities, but not fungal communities, from a simulated bovine urine event** (2023)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 2. **Labile carbon inputs support the recovery of prokaryotic communities, but not fungal communities, from a simulated bovine urine event.** (2022)
    0 citations

@@ -1,7 +1,7 @@
 ---
 title: "Maoling Juan"
 description: "Maoling Juan is an Early-career Biochar researcher at Tongji University in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.240134
+date: 2026-10-11T02:33:00.270243
 url: "/cdr-researcher-census/researchers/maoling-juan-a5069875/"
 layout: "researcher"
 hiddenInHomeList: true

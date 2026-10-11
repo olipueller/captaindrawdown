@@ -1,7 +1,7 @@
 ---
 title: "Ife Elegbeleye"
 description: "Ife Elegbeleye is a Mid-career DAC researcher at University of Pretoria in ZA. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.301576
+date: 2026-10-11T02:33:00.332709
 url: "/cdr-researcher-census/researchers/ife-elegbeleye-a5039977/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **The Role of Carbon Capture, Utilization, and Storage (CCUS) Technologies and Artificial Intelligence (AI) in Achieving Net-Zero Carbon Footprint: Advances, Implementation Challenges, and Future Perspectives** (2025)
-   10 citations · DAC
+   13 citations · DAC
 
 2. **The Role of Carbon Capture Utilization and Storage (CCUS) Technologies and Artificial Intelligence (AI) in Achieving Net Zero Carbon Footprint: Advances, Implementation Challenges, and Future Perspectives** (2025)
    2 citations · DAC

@@ -1,7 +1,7 @@
 ---
 title: "Shicheng Yuan"
 description: "Shicheng Yuan is a Mid-career Biochar researcher at Aviation Industry Corporation of China (China) in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.896551
+date: 2026-10-11T02:32:59.925720
 url: "/cdr-researcher-census/researchers/shicheng-yuan-a5114209/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Calcium carbonate self fixed crayfish shell composite biochar for removing tetracycline from water** (2025)
-   10 citations · Biochar
+   11 citations · Biochar
 
 ## External Profiles
 

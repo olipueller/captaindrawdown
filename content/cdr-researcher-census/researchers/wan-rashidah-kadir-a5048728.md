@@ -1,7 +1,7 @@
 ---
 title: "Wan Rashidah Kadir"
 description: "Wan Rashidah Kadir is a Senior Soil Carbon researcher at Forest Research Institute Malaysia in MY. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.729159
+date: 2026-10-11T02:32:59.750516
 url: "/cdr-researcher-census/researchers/wan-rashidah-kadir-a5048728/"
 layout: "researcher"
 hiddenInHomeList: true

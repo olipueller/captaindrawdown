@@ -1,7 +1,7 @@
 ---
 title: "David Pires"
 description: "David Pires is a Mid-career Soil Carbon researcher at University of Évora in PT. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.787254
+date: 2026-10-11T02:32:59.811189
 url: "/cdr-researcher-census/researchers/david-pires-a5066790/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Linking Nematode Communities and Soil Health under Climate Change** (2023)
-   54 citations · Soil Carbon
+   56 citations · Soil Carbon
 
 ## External Profiles
 

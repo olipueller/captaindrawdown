@@ -1,7 +1,7 @@
 ---
 title: "Eva Sinha"
 description: "Eva Sinha is a Senior BECCS researcher at Pacific Northwest National Laboratory in US. With 38 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.137506
+date: 2026-10-11T02:32:59.142058
 url: "/cdr-researcher-census/researchers/eva-sinha-a5054929/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    40 citations · BECCS
 
 2. **Modeling Perennial Bioenergy Crops in the E3SM Land Model (ELMv2)** (2022)
-   17 citations · BECCS
+   19 citations · BECCS
 
 3. **Modeling perennial bioenergy crops in the E3SM land model** (2021)
    1 citations · BECCS

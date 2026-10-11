@@ -1,7 +1,7 @@
 ---
 title: "David C. Rode"
 description: "David C. Rode is a Senior DAC researcher at Decision Sciences (United States) in US. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.640427
+date: 2026-10-11T02:32:59.658889
 url: "/cdr-researcher-census/researchers/david-c-rode-a5015456/"
 layout: "researcher"
 hiddenInHomeList: true

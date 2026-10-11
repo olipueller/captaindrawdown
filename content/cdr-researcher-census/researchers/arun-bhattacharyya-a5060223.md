@@ -1,7 +1,7 @@
 ---
 title: "Arun Bhattacharyya"
 description: "Arun Bhattacharyya is a Senior General CDR researcher at Lockheed Martin (United States) in US. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.949234
+date: 2026-10-11T02:32:59.979420
 url: "/cdr-researcher-census/researchers/arun-bhattacharyya-a5060223/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lydie‐Stella Koutika"
 description: "Lydie‐Stella Koutika is a Senior Soil Carbon researcher at CRDPI in CG. With 92 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.104259
+date: 2026-10-11T02:32:59.108933
 url: "/cdr-researcher-census/researchers/lydiestella-koutika-a5067455/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Nitrogen-fixing trees increase organic carbon sequestration in forest and agroforestry ecosystems in the Congo basin** (2021)
-   34 citations · General CDR
+   37 citations · General CDR
 
 2. **The role of soil carbon sequestration in enhancing human resilience in tackling global crises including pandemics** (2022)
-   29 citations · General CDR
+   30 citations · General CDR
 
 3. **Current NPP cannot predict future soil organic carbon sequestration potential. Comment on “Photosynthetic limits on carbon sequestration in croplands”** (2022)
    26 citations · Soil Carbon
@@ -63,19 +63,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    17 citations · General CDR
 
 5. **Does the Introduction of N2-Fixing Trees in Forest Plantations on Tropical Soils Ameliorate Low Fertility and Enhance Carbon Sequestration via Interactions Between Biota and Nutrient Availability? Case Studies From Central Africa and South America** (2021)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 6. **Influence of human activities on soil microbial diversity, carbon sequestration, and resilience in Central African Forest Ecosystems** (2024)
    10 citations · Soil Carbon
 
 7. **Enhancing “4 per 1000” initiative implementation through region-specific agricultural and forestry practices** (2025)
-   3 citations · General CDR
+   5 citations · General CDR
 
 8. **National Soil Organic Carbon Stocks Inventories under Different Mangrove Forest Types in Gabon** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 9. **The contribution of agroforestry systems to improving soil carbon sequestration** (2022)
    3 citations · Soil Carbon
+
+10. **Assessing soil organic carbon sequestration in agricultural lands using the RothC model: A multi-country evaluation of the FAO-GSP approach in Congo, Chile, Mexico, and the United States of America** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Benjamas Rossopa"
 description: "Benjamas Rossopa is a Mid-career Biochar researcher at Ministry of Agriculture and Cooperatives in TH. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.737671
+date: 2026-10-11T02:32:59.759742
 url: "/cdr-researcher-census/researchers/benjamas-rossopa-a5080962/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    37 citations · Biochar
 
 2. **The response of greenhouse gas emissions, crop yield, and soil health to water scarcity and biochar application in rice cultivation** (2024)
-   6 citations · Biochar
+   7 citations · Biochar
 
 ## External Profiles
 

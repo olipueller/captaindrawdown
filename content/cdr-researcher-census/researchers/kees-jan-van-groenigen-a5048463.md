@@ -1,7 +1,7 @@
 ---
 title: "Kees Jan van Groenigen"
 description: "Kees Jan van Groenigen is an Eminent Soil Carbon researcher at University of Exeter in GB. With 158 publications and an h-index of 59, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.019390
+date: 2026-10-11T02:32:59.022601
 url: "/cdr-researcher-census/researchers/kees-jan-van-groenigen-a5048463/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Integrated biochar solutions can achieve carbon-neutral staple crop production** (2023)
-   181 citations · Biochar
+   178 citations · Biochar
 
 2. **Photosynthetic limits on carbon sequestration in croplands** (2022)
    127 citations · Soil Carbon
 
 3. **Synthesizing the evidence of nitrous oxide mitigation practices in agroecosystems** (2022)
-   64 citations · Soil Carbon
+   65 citations · Soil Carbon
 
 4. **Residence time of carbon in paddy soils** (2023)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
-5. **Climate change mitigation through soil carbon sequestration in working lands: A reality check** (2023)
+5. **Upcycling trace amounts of biomass waste into flash graphene can boost crop yields by more than a quarter and offer climate benefits** (2025)
+   11 citations · Biochar
+
+6. **Climate change mitigation through soil carbon sequestration in working lands: A reality check** (2023)
    11 citations · General CDR
-
-6. **Upcycling trace amounts of biomass waste into flash graphene can boost crop yields by more than a quarter and offer climate benefits** (2025)
-   8 citations · Biochar
 
 7. **Contrasting responses of particulate and mineral-associated organic carbon stocks to grazing exclusion in an alpine meadow** (2026)
    5 citations · Soil Carbon

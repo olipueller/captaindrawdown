@@ -1,7 +1,7 @@
 ---
 title: "Shenglan Ma"
 description: "Shenglan Ma is a Senior Soil Carbon researcher at Fujian University of Technology in CN. With 60 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.346737
+date: 2026-10-11T02:32:59.352647
 url: "/cdr-researcher-census/researchers/shenglan-ma-a5007672/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial assemblies with distinct trophic strategies drive changes in soil microbial carbon use efficiency along vegetation primary succession in a glacier retreat area of the southeastern Tibetan Plateau** (2023)
-   70 citations · Soil Carbon
+   72 citations · Soil Carbon
 
 2. **Increased microbial carbon use efficiency and turnover rate drive soil organic carbon storage in old-aged forest on the southeastern Tibetan Plateau** (2024)
    21 citations · Soil Carbon

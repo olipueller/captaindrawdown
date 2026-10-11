@@ -1,7 +1,7 @@
 ---
 title: "Zhenye Tong"
 description: "Zhenye Tong is a Mid-career Biochar researcher at Nanjing Tech University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.682126
+date: 2026-10-11T02:32:59.702218
 url: "/cdr-researcher-census/researchers/zhenye-tong-a5023578/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effect of biochar on antibiotics and antibiotic resistance genes variations during co-composting of pig manure and corn straw** (2022)
-   54 citations · Biochar
+   56 citations · Biochar
 
 ## External Profiles
 

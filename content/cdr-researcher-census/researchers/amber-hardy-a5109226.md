@@ -1,7 +1,7 @@
 ---
 title: "Amber Hardy"
 description: "Amber Hardy is a Mid-career Soil Carbon researcher at University of Rhode Island in US. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.209287
+date: 2026-10-11T02:33:00.238901
 url: "/cdr-researcher-census/researchers/amber-hardy-a5109226/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon sequestration in back‐barrier tidal marsh soils** (2022)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

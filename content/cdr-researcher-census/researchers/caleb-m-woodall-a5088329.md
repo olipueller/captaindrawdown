@@ -1,7 +1,7 @@
 ---
 title: "Caleb M. Woodall"
 description: "Caleb M. Woodall is a Senior BECCS researcher at Global Policy Institute in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.495415
+date: 2026-10-11T02:32:59.507534
 url: "/cdr-researcher-census/researchers/caleb-m-woodall-a5088329/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Assessing the optimal uses of biomass: Carbon and energy price conditions for the Aines Principle to apply** (2022)
-   11 citations · BECCS
+   12 citations · BECCS
 
 2. **Assessing the Optimal Uses of Biomass: Carbon and Energy Price Conditions for the Aines Principle to Apply** (2022)
    1 citations · BECCS

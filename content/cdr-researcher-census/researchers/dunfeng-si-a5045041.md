@@ -1,7 +1,7 @@
 ---
 title: "Dunfeng Si"
 description: "Dunfeng Si is a Mid-career Biochar researcher at State Key Laboratory of Pollution Control and Resource Reuse in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.555828
+date: 2026-10-11T02:32:59.570828
 url: "/cdr-researcher-census/researchers/dunfeng-si-a5045041/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Activating soil nitrification by co-application of peanut straw biochar and organic fertilizer in a rare earth mining soil** (2023)
-   14 citations · Biochar
+   15 citations · Biochar
 
 ## External Profiles
 

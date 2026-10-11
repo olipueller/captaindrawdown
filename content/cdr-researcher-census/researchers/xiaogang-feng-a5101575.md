@@ -1,7 +1,7 @@
 ---
 title: "Xiaogang Feng"
 description: "Xiaogang Feng is a Mid-career Soil Carbon researcher at Xi'an University of Architecture and Technology in CN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.390891
+date: 2026-10-11T02:33:00.428256
 url: "/cdr-researcher-census/researchers/xiaogang-feng-a5101575/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of Urban Greening Renewal on Local Ecological Benefits: A Case Study of Residential Green Space** (2025)
-   1 citations · General CDR
+   2 citations · General CDR
 
 ## External Profiles
 

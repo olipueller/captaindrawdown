@@ -1,7 +1,7 @@
 ---
 title: "Wanxin Huang"
 description: "Wanxin Huang is a Mid-career Soil Carbon researcher at University of Electronic Science and Technology of China in CN. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.099194
+date: 2026-10-11T02:33:00.129879
 url: "/cdr-researcher-census/researchers/wanxin-huang-a5100572/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Soil Carbon
 
 3. **Seasonal Drought Reduces Carbon Sequestration in Coastal Wetlands** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 4. **Soil CO2 not CH4 flux determines soil carbon emission response to seasonal precipitation variation in a brackish wetland** (2025)
    0 citations · Soil Carbon

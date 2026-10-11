@@ -1,7 +1,7 @@
 ---
 title: "Zhong-Fang Sun"
 description: "Zhong-Fang Sun is a Mid-career Biochar researcher at Harbin Institute of Technology in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.331079
+date: 2026-10-11T02:32:59.336777
 url: "/cdr-researcher-census/researchers/zhong-fang-sun-a5023397/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Sewage sludge derived biochar for environmental improvement: Advances, challenges, and solutions** (2023)
-   178 citations · Biochar
+   182 citations · Biochar
 
 ## External Profiles
 

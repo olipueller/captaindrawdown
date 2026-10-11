@@ -1,7 +1,7 @@
 ---
 title: "Xuejun Du"
 description: "Xuejun Du is a Mid-career Soil Carbon researcher at Center for Effective Philanthropy in US. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.965086
+date: 2026-10-11T02:32:59.996359
 url: "/cdr-researcher-census/researchers/xuejun-du-a5001956/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term rice cultivation increases contributions of plant and microbial-derived carbon to soil organic carbon in saline-sodic soils** (2023)
-   58 citations · Soil Carbon
+   56 citations · Soil Carbon
 
 2. **Fractions, stability, and influencing factors of soil organic carbon under different land-use in sodic soils** (2022)
-   13 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 ## External Profiles
 

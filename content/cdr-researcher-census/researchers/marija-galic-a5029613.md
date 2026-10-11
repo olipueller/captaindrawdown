@@ -1,7 +1,7 @@
 ---
 title: "Marija Galić"
 description: "Marija Galić is a Senior Soil Carbon researcher at University of Zagreb in HR. With 51 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.971881
+date: 2026-10-11T02:33:00.003525
 url: "/cdr-researcher-census/researchers/marija-galic-a5029613/"
 layout: "researcher"
 hiddenInHomeList: true

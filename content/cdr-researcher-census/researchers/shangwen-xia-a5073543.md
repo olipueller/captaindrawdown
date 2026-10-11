@@ -1,7 +1,7 @@
 ---
 title: "Shangwen Xia"
 description: "Shangwen Xia is a Mid-career Soil Carbon researcher at Xishuangbanna Tropical Botanical Garden in CN. With 49 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.347939
+date: 2026-10-11T02:32:59.353796
 url: "/cdr-researcher-census/researchers/shangwen-xia-a5073543/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,12 +51,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Plant–rodent interactions after a heavy snowfall decrease plant regeneration and soil carbon emission in an old-growth forest** (2021)
-   9 citations · Soil Carbon
+   8 citations · Soil Carbon
 
-2. **Accumulation of glomalin-related soil protein to soil carbon storage in forest ecosystems along an elevation gradient** (2025)
+2. **Tree diversity–soil organic carbon relationships strengthen under colder and more arid conditions** (2026)
+   6 citations
+
+3. **Accumulation of glomalin-related soil protein to soil carbon storage in forest ecosystems along an elevation gradient** (2025)
    3 citations · Soil Carbon
 
-3. **Biochar–soil–tea nexus: a review of soil health, microbial interactions, and sustainable Camellia sinensis cultivation** (2026)
+4. **Biochar–soil–tea nexus: a review of soil health, microbial interactions, and sustainable Camellia sinensis cultivation** (2026)
    2 citations · Biochar
 
 ## External Profiles

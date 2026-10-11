@@ -1,7 +1,7 @@
 ---
 title: "Shafeeq Ur Rahman"
 description: "Shafeeq Ur Rahman is a Senior Soil Carbon researcher at Shenzhen University in CN. With 105 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.080924
+date: 2026-10-11T02:32:59.085735
 url: "/cdr-researcher-census/researchers/shafeeq-ur-rahman-a5072428/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,28 +51,28 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Role of Traditional Agroforestry Systems in Climate Change Mitigation through Carbon Sequestration: An Investigation from the Semi-Arid Region of Pakistan** (2023)
-   50 citations · General CDR
+   49 citations · General CDR
 
 2. **Assessing the Contribution of Citrus Orchards in Climate Change Mitigation through Carbon Sequestration in Sargodha District, Pakistan** (2021)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 3. **Estimating carbon stocks and biomass accumulation in three different agroforestry patterns in the semi-arid region of Pakistan** (2021)
-   19 citations · General CDR
+   18 citations · General CDR
 
-4. **Agroforestry status, services, and its role in climate change mitigation through carbon sequestration under semi-arid conditions** (2024)
+4. **Carbon Sequestration by Native Tree Species around the Industrial Areas of Southern Punjab, Pakistan** (2022)
    15 citations · General CDR
 
-5. **Carbon Sequestration by Native Tree Species around the Industrial Areas of Southern Punjab, Pakistan** (2022)
-   15 citations · General CDR
+5. **Agroforestry status, services, and its role in climate change mitigation through carbon sequestration under semi-arid conditions** (2024)
+   14 citations · General CDR
 
-6. **Enhancing Soil and Atmospheric Carbon Regulation Through Bombax Ceiba-Based Agroforestry in Drylands** (2026)
+6. **Biomonitoring and bioremediating potential of commonly grown tree species against trace elements with seasonal and site allocation: a region-based study** (2025)
+   2 citations
+
+7. **Enhancing Soil and Atmospheric Carbon Regulation Through Bombax Ceiba-Based Agroforestry in Drylands** (2026)
    1 citations · Soil Carbon
 
-7. **Species-driven variability in soil health and carbon storage across bamboo plantations** (2026)
+8. **Species-driven variability in soil health and carbon storage across bamboo plantations** (2026)
    1 citations · Soil Carbon
-
-8. **Biomonitoring and bioremediating potential of commonly grown tree species against trace elements with seasonal and site allocation: a region-based study** (2025)
-   1 citations
 
 9. **Comparative evaluation of carbon sequestration and climate change mitigation in commercially planted eucalyptus-based agroforestry systems in a semi-arid region** (2025)
    0 citations · Soil Carbon

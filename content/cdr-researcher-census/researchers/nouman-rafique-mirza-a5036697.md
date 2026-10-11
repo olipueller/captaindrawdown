@@ -1,7 +1,7 @@
 ---
 title: "Nouman Rafique Mirza"
 description: "Nouman Rafique Mirza is a Mid-career DAC researcher at CSIRO in AU. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.383639
+date: 2026-10-11T02:32:59.391385
 url: "/cdr-researcher-census/researchers/nouman-rafique-mirza-a5036697/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,15 +51,21 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Reclaiming water from a direct air capture plant using vacuum membrane distillation – A bench-scale study** (2022)
-   9 citations · DAC
+   10 citations · DAC
 
-2. **Mineralisation as a carbon sink for DAC: A case-study for solar thermal process integration** (2025)
+2. **Towards the integration of direct air capture and CO2 mineralisation processes employing potassium glycinate, and α- and β- alaninate** (2026)
+   2 citations · DAC
+
+3. **Mineralisation as a carbon sink for DAC: A case-study for solar thermal process integration** (2025)
    1 citations · DAC
 
-3. **Reclaiming Water from a Direct Air Capture Plant Using Vacuum Membrane Distillation – a Bench-Scale Study** (2022)
+4. **Reclaiming Water from a Direct Air Capture Plant Using Vacuum Membrane Distillation – a Bench-Scale Study** (2022)
    1 citations
 
-4. **Integrated Direct Air Capture – CO2 Mineralisation Process Employing Potassium Glycinate, and α- and β- Alaninate** (2026)
+5. **Evaluation of the potassium salts of a series of five linear aliphatic amino acids for direct air capture** (2026)
+   0 citations · DAC
+
+6. **Integrated Direct Air Capture – CO2 Mineralisation Process Employing Potassium Glycinate, and α- and β- Alaninate** (2026)
    0 citations · DAC
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Lisa Suatoni"
 description: "Lisa Suatoni is a Mid-career Ocean CDR researcher at Natural Resources Defense Council in US. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.374145
+date: 2026-10-11T02:32:59.381558
 url: "/cdr-researcher-census/researchers/lisa-suatoni-a5053471/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **A Code of Conduct Is Imperative for Ocean Carbon Dioxide Removal Research** (2022)
-   39 citations · General CDR
+   37 citations · General CDR
 
 ## External Profiles
 

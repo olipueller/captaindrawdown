@@ -1,7 +1,7 @@
 ---
 title: "Xiaofei Ma"
 description: "Xiaofei Ma is a Senior Soil Carbon researcher at Shanxi Agricultural University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.091094
+date: 2026-10-11T02:33:00.121734
 url: "/cdr-researcher-census/researchers/xiaofei-ma-a5100697/"
 layout: "researcher"
 hiddenInHomeList: true

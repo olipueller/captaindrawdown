@@ -1,7 +1,7 @@
 ---
 title: "Wei Quan"
 description: "Wei Quan is a Senior General CDR researcher at Inner Mongolia Agricultural University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.741568
+date: 2026-10-11T02:32:59.763825
 url: "/cdr-researcher-census/researchers/wei-quan-a5101493/"
 layout: "researcher"
 hiddenInHomeList: true

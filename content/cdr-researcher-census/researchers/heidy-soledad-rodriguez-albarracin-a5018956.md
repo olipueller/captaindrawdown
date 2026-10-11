@@ -1,7 +1,7 @@
 ---
 title: "Heidy Soledad Rodríguez Albarracín"
 description: "Heidy Soledad Rodríguez Albarracín is a Mid-career Soil Carbon researcher. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.757115
+date: 2026-10-11T02:32:59.779700
 url: "/cdr-researcher-census/researchers/heidy-soledad-rodriguez-albarracin-a5018956/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Potential of Soil Minerals to Sequester Soil Organic Carbon** (2022)
    4 citations · Soil Carbon
 
-4. **Carbon geomicrobiology, saturation deficit and sequestration potential of Brazilian agricultural soils** (2024)
+4. **A soil sensing mechanism to reach carbon flux at a country scale** (2026)
+   0 citations
+
+5. **Carbon geomicrobiology, saturation deficit and sequestration potential of Brazilian agricultural soils** (2024)
    0 citations · General CDR
 
 ## External Profiles

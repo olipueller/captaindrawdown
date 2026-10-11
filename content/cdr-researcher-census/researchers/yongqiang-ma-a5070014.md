@@ -1,7 +1,7 @@
 ---
 title: "Yongqiang Ma"
 description: "Yongqiang Ma is a Mid-career General CDR researcher at Fujian Agriculture and Forestry University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.284934
+date: 2026-10-11T02:33:00.314986
 url: "/cdr-researcher-census/researchers/yongqiang-ma-a5070014/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Low-Carbon Ecological Tea: The Key to Transforming the Tea Industry towards Sustainability** (2024)
-   9 citations · General CDR
+   11 citations · General CDR
 
 ## External Profiles
 

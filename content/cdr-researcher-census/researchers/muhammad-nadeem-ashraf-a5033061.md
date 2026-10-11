@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Nadeem Ashraf"
 description: "Muhammad Nadeem Ashraf is a Senior Soil Carbon researcher at University of Agriculture Faisalabad in PK. With 70 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.133243
+date: 2026-10-11T02:32:59.138084
 url: "/cdr-researcher-census/researchers/muhammad-nadeem-ashraf-a5033061/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial Metabolic Quotient is a Dynamic Indicator of Soil Health: Trends, Implications and Perspectives (Review)** (2022)
-   70 citations · General CDR
+   73 citations · General CDR
 
 2. **Role of Traditional Agroforestry Systems in Climate Change Mitigation through Carbon Sequestration: An Investigation from the Semi-Arid Region of Pakistan** (2023)
-   50 citations · General CDR
+   49 citations · General CDR
 
 3. **Agroforestry status, services, and its role in climate change mitigation through carbon sequestration under semi-arid conditions** (2024)
-   15 citations · General CDR
+   14 citations · General CDR
 
 4. **Legume Inclusion in Wheat Rotations Increases Long‐Term Soil Carbon Storage via Carbon Management Indices and Microbial Stoichiometry** (2025)
-   11 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 5. **Combined Effects of Reduced Tillage and Strip Intercropping on Soil Carbon Sequestration in Semi-Arid Environment** (2025)
    8 citations · Soil Carbon
@@ -68,13 +68,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 6. **Long-term grass lawn management increases soil organic carbon sequestration and microbial carbon use efficiency** (2025)
    4 citations · Soil Carbon
 
-7. **Optimizing nutrient stoichiometry for enhanced carbon sequestration in agricultural soils** (2025)
+7. **Legume-based diversified cropping systems increase soil organic carbon labile pools and microbial carbon use efficiency in a 12-year long-term field trial** (2026)
+   3 citations
+
+8. **Optimizing nutrient stoichiometry for enhanced carbon sequestration in agricultural soils** (2025)
    3 citations · Soil Carbon
 
-8. **Gypsum and Manure Impacts on Contrasting Textured Saline-Sodic Soils and Greenhouse Gas Emissions** (2025)
+9. **Gypsum and Manure Impacts on Contrasting Textured Saline-Sodic Soils and Greenhouse Gas Emissions** (2025)
    2 citations · Soil Carbon
 
-9. **Correction: Combined Effects of Reduced Tillage and Strip Intercropping on Soil Carbon Sequestration in Semi-Arid Environment** (2025)
+10. **Correction: Combined Effects of Reduced Tillage and Strip Intercropping on Soil Carbon Sequestration in Semi-Arid Environment** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

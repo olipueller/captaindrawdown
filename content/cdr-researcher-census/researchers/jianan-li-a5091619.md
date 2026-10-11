@@ -1,7 +1,7 @@
 ---
 title: "Jianan Li"
 description: "Jianan Li is a Mid-career Soil Carbon researcher at Huai'an University in CN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.220040
+date: 2026-10-11T02:33:00.250344
 url: "/cdr-researcher-census/researchers/jianan-li-a5091619/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Straw return increases crop production by improving soil organic carbon sequestration and soil aggregation in a long-term wheat–cotton cropping system** (2023)
-   42 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 ## External Profiles
 

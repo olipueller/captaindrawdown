@@ -1,7 +1,7 @@
 ---
 title: "Hanzhi Li"
 description: "Hanzhi Li is a Mid-career Soil Carbon researcher at China Rehabilitation Research Center in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.085900
+date: 2026-10-11T02:33:00.116293
 url: "/cdr-researcher-census/researchers/hanzhi-li-a5103258/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Causes and research prospects of the decline of &amp;lt;italic&amp;gt;Pinus sylvestris &amp;lt;/italic&amp;gt;var.&amp;lt;italic&amp;gt; mongolica&amp;lt;/italic&amp;gt; plantation** (2023)
-   8 citations · General CDR
+   9 citations · General CDR
 
 ## External Profiles
 

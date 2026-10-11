@@ -1,7 +1,7 @@
 ---
 title: "Radomir Schmidt"
 description: "Radomir Schmidt is a Senior Enhanced Weathering researcher at University of California System in US. With 50 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.130039
+date: 2026-10-11T02:32:59.134866
 url: "/cdr-researcher-census/researchers/radomir-schmidt-a5029955/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,21 +51,24 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Reduced accrual of mineral-associated organic matter after two years of enhanced rock weathering in cropland soils, though no net losses of soil organic carbon** (2024)
-   34 citations · Enhanced Weathering
+   36 citations · Enhanced Weathering
 
 2. **Combining organic amendments with enhanced rock weathering shifts soil carbon storage in croplands** (2025)
-   12 citations · Enhanced Weathering
+   13 citations · Enhanced Weathering
 
 3. **Reduced accrual of mineral-associated organic matter after two years of enhanced rock weathering in cropland soils, though no net losses of soil organic carbon** (2024)
    4 citations
 
-4. **Synergistic effects of enhanced rock weathering and organic inputs on soil carbon accrual.** (2025)
+4. **Organic co-amendments reshape soil microbial community responses to enhanced rock weathering in croplands** (2026)
+   0 citations · Biochar
+
+5. **Synergistic effects of enhanced rock weathering and organic inputs on soil carbon accrual.** (2025)
    0 citations · Enhanced Weathering
 
-5. **Testing the potential of ERW in California working lands: challenges and opportunities** (2024)
+6. **Testing the potential of ERW in California working lands: challenges and opportunities** (2024)
    0 citations · Enhanced Weathering
 
-6. **Influence of enhanced silicate weathering on microbial processes and soil carbon formation in agricultural soil** (2023)
+7. **Influence of enhanced silicate weathering on microbial processes and soil carbon formation in agricultural soil** (2023)
    0 citations · Enhanced Weathering
 
 ## External Profiles

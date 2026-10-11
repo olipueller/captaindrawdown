@@ -1,7 +1,7 @@
 ---
 title: "Zihan Xing"
 description: "Zihan Xing is a Mid-career Soil Carbon researcher at Jilin University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.997469
+date: 2026-10-11T02:33:00.028347
 url: "/cdr-researcher-census/researchers/zihan-xing-a5074399/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Mapping Topsoil Carbon Storage Dynamics of Croplands Based on Temporal Mosaicking Images of Landsat and Machine Learning Approach** (2024)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

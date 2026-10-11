@@ -1,7 +1,7 @@
 ---
 title: "Stéphanie Arcusa"
 description: "Stéphanie Arcusa is a Mid-career General CDR researcher at Arizona State University in US. With 52 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.656920
+date: 2026-10-11T02:32:59.675838
 url: "/cdr-researcher-census/researchers/stephanie-arcusa-a5041208/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Snapshot of the Carbon Dioxide Removal certification and standards ecosystem (2021–2022)** (2022)
-   37 citations · General CDR
+   38 citations · General CDR
 
 2. **Snapshot of the Carbon Dioxide Removal Certification and Standards Ecosystem (2021-2022)** (2022)
    4 citations

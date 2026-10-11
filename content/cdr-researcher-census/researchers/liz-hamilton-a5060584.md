@@ -1,7 +1,7 @@
 ---
 title: "Liz Hamilton"
 description: "Liz Hamilton is a Senior Soil Carbon researcher at Universities UK in GB. With 52 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.181099
+date: 2026-10-11T02:33:00.211014
 url: "/cdr-researcher-census/researchers/liz-hamilton-a5060584/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Quantification and uncertainty of root growth stimulation by elevated CO2 in a mature temperate deciduous forest** (2022)
-   21 citations
+   24 citations
 
 2. **Quantification and uncertainty of root growth stimulation by elevated CO <sub>2</sub> in mature temperate deciduous forest** (2021)
    3 citations · General CDR

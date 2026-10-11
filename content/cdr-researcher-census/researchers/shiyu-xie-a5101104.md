@@ -1,7 +1,7 @@
 ---
 title: "Shiyu Xie"
 description: "Shiyu Xie is a Senior Biochar researcher at Beijing University of Posts and Telecommunications in CN. With 39 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.809708
+date: 2026-10-11T02:32:59.834634
 url: "/cdr-researcher-census/researchers/shiyu-xie-a5101104/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,7 +53,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 1. **Machine learning-enabled optimization of biochar resource utilization and carbon mitigation pathways: mechanisms and challenges** (2025)
    6 citations · Biochar
 
-2. **Hydrochar Production for Soil Environmental Improvement** (2023)
+2. **Priming of labile and stable organic matter decomposition depending on soil moisture and nitrogen availability in Mollisols** (2026)
+   1 citations
+
+3. **Hydrochar Production for Soil Environmental Improvement** (2023)
    0 citations · Biochar
 
 ## External Profiles

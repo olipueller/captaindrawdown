@@ -1,7 +1,7 @@
 ---
 title: "Yang Ya-li"
 description: "Yang Ya-li is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 71 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.550948
+date: 2026-10-11T02:32:59.565948
 url: "/cdr-researcher-census/researchers/yang-ya-li-a5009326/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    163 citations · Soil Carbon
 
 2. **Enhancing Sustainable Agriculture in China: A Meta-Analysis of the Impact of Straw and Manure on Crop Yield and Soil Fertility** (2024)
-   27 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 3. **Long-term plastic mulching decreases rhizoplane soil carbon sequestration by decreasing microbial anabolism** (2023)
    10 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Guangxuan Lin"
 description: "Guangxuan Lin is a Senior Ocean CDR researcher at Qingdao University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.593757
+date: 2026-10-11T02:32:59.610588
 url: "/cdr-researcher-census/researchers/guangxuan-lin-a5101060/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Soil organic carbon contents and their major influencing factors in mangrove tidal flats: a comparison between estuarine and non-estuarine areas** (2025)
-   17 citations · Ocean CDR
+   18 citations · Ocean CDR
 
 ## External Profiles
 

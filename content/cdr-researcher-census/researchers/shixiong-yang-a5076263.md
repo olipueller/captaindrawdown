@@ -1,7 +1,7 @@
 ---
 title: "Shixiong Yang"
 description: "Shixiong Yang is a Mid-career Soil Carbon researcher at Jingdezhen Ceramic Institute in CN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.399843
+date: 2026-10-11T02:33:00.437925
 url: "/cdr-researcher-census/researchers/shixiong-yang-a5076263/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Source and degradation of soil organic matter in different vegetations along a salinity gradient in the Yellow River Delta wetland** (2024)
-   27 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 ## External Profiles
 

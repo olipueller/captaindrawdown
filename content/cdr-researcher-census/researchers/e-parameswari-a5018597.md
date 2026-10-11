@@ -1,7 +1,7 @@
 ---
 title: "E. Parameswari"
 description: "E. Parameswari is a Senior Soil Carbon researcher at Tamil Nadu Agricultural University in IN. With 127 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.192769
+date: 2026-10-11T02:32:59.196780
 url: "/cdr-researcher-census/researchers/e-parameswari-a5018597/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,25 +51,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A review on biochar’s effect on soil properties and crop growth** (2023)
-   150 citations · Biochar
+   156 citations · Biochar
 
 2. **Organo-monomers coated slow-release fertilizers: Current understanding and future prospects** (2024)
    23 citations
 
 3. **Harnessing regenerative agriculture for climate change mitigation: a comprehensive review and meta-analysis** (2025)
-   9 citations · General CDR
+   10 citations · General CDR
 
-4. **Silicon Fertilization for Carbon Sequestration Through PhytOC Production in Plants** (2024)
+4. **Unlocking the Carbon Sequestration Potential of Horticultural Crops** (2024)
+   7 citations · General CDR
+
+5. **Myco-assisted phytoextraction of heavy metals with vetiver grass: a green technology for cleaning tannery effluent contaminated sites** (2024)
    6 citations
 
-5. **Unlocking the Carbon Sequestration Potential of Horticultural Crops** (2024)
-   6 citations · General CDR
-
-6. **Myco-assisted phytoextraction of heavy metals with vetiver grass: a green technology for cleaning tannery effluent contaminated sites** (2024)
-   5 citations
+6. **Silicon Fertilization for Carbon Sequestration Through PhytOC Production in Plants** (2024)
+   6 citations
 
 7. **Transforming mining waste into resources: a review on sustainable construction and agricultural utilization** (2025)
-   4 citations
+   5 citations
 
 8. **Potential of activated biochar for sequestration of chromium (VI) from aqueous solution: parameters optimised by RSM, Isotherm and kinetics study** (2021)
    3 citations · Biochar

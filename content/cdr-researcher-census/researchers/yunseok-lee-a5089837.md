@@ -1,7 +1,7 @@
 ---
 title: "Yunseok Lee"
 description: "Yunseok Lee is a Mid-career DAC researcher at Georgia Institute of Technology in US. With 32 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.379023
+date: 2026-10-11T02:32:59.386430
 url: "/cdr-researcher-census/researchers/yunseok-lee-a5089837/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Climatic Conditions and Amine Loading Impact the Performance of Laminate-Supported Poly(ethylenimine) Direct Air Capture Sorbents** (2025)
-   9 citations · DAC
+   10 citations · DAC
 
 2. **Impregnation of liquid-like nanoparticle organic hybrid materials in mesoporous fiber sorbent with hierarchical structures for scalable direct air capture** (2026)
    0 citations · DAC

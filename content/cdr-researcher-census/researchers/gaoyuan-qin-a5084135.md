@@ -1,7 +1,7 @@
 ---
 title: "Gaoyuan Qin"
 description: "Gaoyuan Qin is a Senior Biochar researcher at China Power Engineering Consulting Group (China) in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.819536
+date: 2026-10-11T02:32:59.844266
 url: "/cdr-researcher-census/researchers/gaoyuan-qin-a5084135/"
 layout: "researcher"
 hiddenInHomeList: true

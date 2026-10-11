@@ -1,7 +1,7 @@
 ---
 title: "Shofiyah S. Al Mustaniroh"
 description: "Shofiyah S. Al Mustaniroh is a Mid-career Soil Carbon researcher at Universitas Sumatera Utara in ID. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.088738
+date: 2026-10-11T02:33:00.119343
 url: "/cdr-researcher-census/researchers/shofiyah-s-al-mustaniroh-a5049626/"
 layout: "researcher"
 hiddenInHomeList: true

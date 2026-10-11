@@ -1,7 +1,7 @@
 ---
 title: "Wooiklee S. Paye"
 description: "Wooiklee S. Paye is a Mid-career Soil Carbon researcher at New England Plant, Soil and Water Research Laboratory in US. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.836144
+date: 2026-10-11T02:32:59.862358
 url: "/cdr-researcher-census/researchers/wooiklee-s-paye-a5024736/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Limited impacts of occasional tillage on dry aggregate size distribution and soil carbon and nitrogen fractions in semi-arid drylands** (2023)
-   32 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 2. **Linking soil health and fertility with sustainable crop production in Sub-Saharan Africa for improving food security and resilience** (2026)
    0 citations

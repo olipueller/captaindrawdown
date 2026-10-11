@@ -1,7 +1,7 @@
 ---
 title: "Christopher Bataille"
 description: "Christopher Bataille is a Mid-career DAC researcher at Institut du Développement Durable et des Relations Internationales in FR. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.282723
+date: 2026-10-11T02:32:59.286840
 url: "/cdr-researcher-census/researchers/christopher-bataille-a5112601/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Climate Change 2022: Mitigation of Climate Change. Contribution of Working Group III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change, Chapter 11** (2022)
-   89 citations · DAC
+   90 citations · DAC
 
 2. **Defining ‘abated’ fossil fuel and industrial process emissions** (2025)
    8 citations · General CDR

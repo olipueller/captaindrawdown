@@ -1,7 +1,7 @@
 ---
 title: "Yaguang Xue"
 description: "Yaguang Xue is a Senior Soil Carbon researcher at Jiangsu Academy of Agricultural Sciences in CN. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.298764
+date: 2026-10-11T02:32:59.303738
 url: "/cdr-researcher-census/researchers/yaguang-xue-a5048711/"
 layout: "researcher"
 hiddenInHomeList: true

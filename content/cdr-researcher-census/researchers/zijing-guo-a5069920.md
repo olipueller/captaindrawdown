@@ -1,7 +1,7 @@
 ---
 title: "Zijing Guo"
 description: "Zijing Guo is a Mid-career Biochar researcher at The University of Tokyo in JP. With 28 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.407657
+date: 2026-10-11T02:32:59.416751
 url: "/cdr-researcher-census/researchers/zijing-guo-a5069920/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Preparation of highly adsorptive biochar by sequential iron impregnation under refluxing and pyrolysis at low temperature for removal of tetracycline** (2024)
-   14 citations · Biochar
+   15 citations · Biochar
 
 2. **Microstructure regulation to manifold catalysis sites of magnetic hydrochar for enhancing Fenton-like degradation of tetracycline** (2025)
-   7 citations · Biochar
+   8 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Jiayu Lu"
 description: "Jiayu Lu is a Mid-career Soil Carbon researcher at Tianjin University in CN. With 28 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.474011
+date: 2026-10-11T02:32:59.485144
 url: "/cdr-researcher-census/researchers/jiayu-lu-a5064603/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Continuous remobilization from below‐ground provides more than half of all carbon and nitrogen in regrowing shoots after grassland defoliation** (2023)
-   9 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 2. **A Dynamic Succession-Based Life-Cycle Simulation Model for Projecting Carbon Source–Sink Transitions in Urban Plant Communities** (2026)
    0 citations

@@ -1,7 +1,7 @@
 ---
 title: "Danqi She"
 description: "Danqi She is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.996598
+date: 2026-10-11T02:33:00.027621
 url: "/cdr-researcher-census/researchers/danqi-she-a5087595/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Tree diversity and arbuscular mycorrhizal trees increase soil carbon sequestration and stability in 1-m soils as regulated by microbial CAZymes-coworking in high-latitude Northern Hemisphere forests** (2023)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 2. **Tree size and spatial clustering drive contrasting carbon sequestration in soil aggregates in temperate forests in China** (2025)
    4 citations · Soil Carbon

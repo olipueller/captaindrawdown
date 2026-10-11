@@ -1,7 +1,7 @@
 ---
 title: "Saïd Elfouki"
 description: "Saïd Elfouki is a Mid-career Soil Carbon researcher at Agroscope in CH. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.258243
+date: 2026-10-11T02:33:00.288041
 url: "/cdr-researcher-census/researchers/said-elfouki-a5011955/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon storage in agricultural topsoils and subsoils is promoted by including temporary grasslands into the crop rotation** (2022)
-   46 citations · General CDR
+   49 citations · General CDR
 
 2. **Increasing topsoil and subsoil organic carbon storage with improved rotation in cropland-grassland agroecosystems** (2022)
    0 citations · Soil Carbon

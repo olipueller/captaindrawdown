@@ -1,7 +1,7 @@
 ---
 title: "Carolina Mayoral"
 description: "Carolina Mayoral is a Mid-career Soil Carbon researcher at University College Birmingham in GB. With 40 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.592616
+date: 2026-10-11T02:32:59.609472
 url: "/cdr-researcher-census/researchers/carolina-mayoral-a5035719/"
 layout: "researcher"
 hiddenInHomeList: true

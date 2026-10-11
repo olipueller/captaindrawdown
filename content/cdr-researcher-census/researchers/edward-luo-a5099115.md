@@ -1,7 +1,7 @@
 ---
 title: "Edward Luo"
 description: "Edward Luo is an Early-career DAC researcher at University of Chicago in US. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.667334
+date: 2026-10-11T02:32:59.686731
 url: "/cdr-researcher-census/researchers/edward-luo-a5099115/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Distributed direct air capture by carbon nanofiber air filters** (2025)
-   13 citations
+   15 citations
 
 2. **Distributed direct air capture by carbon nanofiber air filters** (2025)
    0 citations

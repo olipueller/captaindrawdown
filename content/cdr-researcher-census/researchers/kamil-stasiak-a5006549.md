@@ -1,7 +1,7 @@
 ---
 title: "Kamil Stasiak"
 description: "Kamil Stasiak is a Mid-career BECCS researcher at Gdańsk University of Technology in PL. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.913047
+date: 2026-10-11T02:32:59.956659
 url: "/cdr-researcher-census/researchers/kamil-stasiak-a5006549/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Mathematical modelling of gasification process of sewage sludge in reactor of negative CO2 emission power plant** (2021)
-   46 citations · BECCS
+   45 citations · BECCS
 
 2. **Selected Aspects of Performance of Organic Rankine Cycles Incorporated Into Bioenergy With Carbon Capture and Storage Using Gasification of Sewage Sludge** (2023)
    12 citations · BECCS

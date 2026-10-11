@@ -1,7 +1,7 @@
 ---
 title: "Najeeb Al-Amin Iddris"
 description: "Najeeb Al-Amin Iddris is a Mid-career Soil Carbon researcher at University of Bonn in DE. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.878215
+date: 2026-10-11T02:32:59.905710
 url: "/cdr-researcher-census/researchers/najeeb-al-amin-iddris-a5063486/"
 layout: "researcher"
 hiddenInHomeList: true

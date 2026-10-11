@@ -1,7 +1,7 @@
 ---
 title: "Bridget E. Diagi"
 description: "Bridget E. Diagi is a Mid-career Soil Carbon researcher at Federal University of Technology Owerri in NG. With 40 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.388209
+date: 2026-10-11T02:33:00.425112
 url: "/cdr-researcher-census/researchers/bridget-e-diagi-a5022427/"
 layout: "researcher"
 hiddenInHomeList: true

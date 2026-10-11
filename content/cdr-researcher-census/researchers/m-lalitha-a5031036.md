@@ -1,7 +1,7 @@
 ---
 title: "M. Lalitha"
 description: "M. Lalitha is a Senior Soil Carbon researcher at ICAR-National Bureau of Soil Survey and Land Use Planning in IN. With 146 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.147937
+date: 2026-10-11T02:32:59.152213
 url: "/cdr-researcher-census/researchers/m-lalitha-a5031036/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,28 +53,31 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Impact of Rubber Cultivation on Soil Quality and Carbon Stocks in Southern Peninsular India** (2025)
    5 citations · Soil Carbon
 
-2. **Mapping of soil organic carbon stock and carbon sequestration potential in Vemagal Hobli, Kolar district, Karnataka, India** (2025)
+2. **Carbon Sequestration in Low Land Paddy Soils: Effect of Certain Cultural and Nutrient Management Practices: A Review** (2023)
+   5 citations · Soil Carbon
+
+3. **Mapping of soil organic carbon stock and carbon sequestration potential in Vemagal Hobli, Kolar district, Karnataka, India** (2025)
    1 citations · Soil Carbon
 
-3. **Quantification and mapping of the carbon sequestration potential of soils via a quantile regression forest model** (2024)
+4. **Quantification and mapping of the carbon sequestration potential of soils via a quantile regression forest model** (2024)
    1 citations · General CDR
 
-4. **Application of remote sensing in terrestrial soil organic carbon determination: a review** (2024)
+5. **Application of remote sensing in terrestrial soil organic carbon determination: a review** (2024)
    1 citations · Soil Carbon
 
-5. **Carbon Sequestration Potential of Natural Sandalwood Forest in Southern Western Ghats, India** (2023)
+6. **Carbon Sequestration Potential of Natural Sandalwood Forest in Southern Western Ghats, India** (2023)
    1 citations · Soil Carbon
 
-6. **Carbon Sequestering Potential of Arid Soils and Their Characterization in Southern Deccan Plateau for Climate-Smart Agriculture** (2021)
+7. **Carbon Sequestering Potential of Arid Soils and Their Characterization in Southern Deccan Plateau for Climate-Smart Agriculture** (2021)
    1 citations · Soil Carbon
 
-7. **Shaded Coffee Landscapes in the Western Ghats: A Triple Benefit for Carbon Credits, Climate Resilience, and Soil Quality** (2026)
+8. **Shaded Coffee Landscapes in the Western Ghats: A Triple Benefit for Carbon Credits, Climate Resilience, and Soil Quality** (2026)
    0 citations
 
-8. **Prediction and mapping of soil organic carbon stock via large datasets coupled with pedotransfer functions** (2025)
+9. **Mapping the spatial variability of soil organic carbon stocks in the South-Eastern Ghats region of India for ecosystem sustainability** (2025)
    0 citations · Soil Carbon
 
-9. **Assessment of soil organic carbon stocks in Sahyadri mountain range Karnataka, India** (2023)
+10. **Prediction and mapping of soil organic carbon stock via large datasets coupled with pedotransfer functions** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

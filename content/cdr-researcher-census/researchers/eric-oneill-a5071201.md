@@ -1,7 +1,7 @@
 ---
 title: "Eric O’Neill"
 description: "Eric O’Neill is a Senior BECCS researcher at Mansfield University in US. With 52 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.175001
+date: 2026-10-11T02:32:59.179061
 url: "/cdr-researcher-census/researchers/eric-oneill-a5071201/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Integrated spatially explicit landscape and cellulosic biofuel supply chain optimization under biomass yield uncertainty** (2022)
-   40 citations · BECCS
+   41 citations · BECCS
 
 2. **Available land for cellulosic biofuel production: a supply chain centered comparison** (2024)
    3 citations · BECCS

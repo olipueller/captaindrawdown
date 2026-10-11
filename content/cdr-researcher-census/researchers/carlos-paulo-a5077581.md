@@ -1,7 +1,7 @@
 ---
 title: "Carlos Paulo"
 description: "Carlos Paulo is a Senior Enhanced Weathering researcher at Trent University in CA. With 61 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.306907
+date: 2026-10-11T02:32:59.312236
 url: "/cdr-researcher-census/researchers/carlos-paulo-a5077581/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,28 +51,28 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Evaluating feedstocks for carbon dioxide removal by enhanced rock weathering and CO2 mineralization** (2021)
-   56 citations · Enhanced Weathering
+   57 citations · Enhanced Weathering
 
 2. **Rates of atmospheric CO2 capture using magnesium oxide powder** (2022)
    46 citations
 
 3. **Direct measurement of CO2 drawdown in mine wastes and rock powders: Implications for enhanced rock weathering** (2021)
-   44 citations · Enhanced Weathering
+   45 citations · Enhanced Weathering
 
 4. **The Mining Industry’s Role in Enhanced Weathering and Mineralization for CO<sub>2</sub> Removal** (2023)
-   40 citations · Enhanced Weathering
+   38 citations · Enhanced Weathering
 
 5. **Cation Exchange in Smectites as a New Approach to Mineral Carbonation** (2022)
    30 citations · Enhanced Weathering
 
 6. **Geochemical modeling of CO2 sequestration in ultramafic mine wastes from Australia, Canada, and South Africa: Implications for carbon accounting and monitoring** (2023)
-   29 citations · Enhanced Weathering
+   28 citations · Enhanced Weathering
 
 7. **Impact of wet-dry cycles on enhanced rock weathering of brucite, wollastonite, serpentinite and kimberlite: Implications for carbon verification** (2023)
    17 citations · Enhanced Weathering
 
 8. **Geochemical Drivers of Enhanced Rock Weathering in Soils** (2025)
-   7 citations · Enhanced Weathering
+   8 citations · Enhanced Weathering
 
 9. **Weathering and cementation of historic kimberlite residues from South Africa: Implications for residue stabilization and CO2 sequestration** (2024)
    6 citations · Enhanced Weathering

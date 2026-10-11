@@ -1,7 +1,7 @@
 ---
 title: "Talia Jeanneret"
 description: "Talia Jeanneret is a Mid-career Ocean CDR researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.523999
+date: 2026-10-11T02:32:59.537883
 url: "/cdr-researcher-census/researchers/talia-jeanneret-a5053657/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Stakeholders have knowledge priorities beyond local impacts for responsible marine-based carbon dioxide removal in Tasmania** (2025)
-   5 citations · General CDR
+   6 citations · General CDR
 
 2. **Local capacity assessment is integral to stakeholder engagement for responsible marine carbon dioxide removal** (2025)
    4 citations · General CDR
 
 3. **Beyond environmental identity: Testing public support for novel carbon dioxide removal in Australia using structural modelling** (2025)
-   2 citations · DAC
+   3 citations · DAC
 
 4. **Stories of soil and sea: Comparing narratives of land- and marine-based carbon dioxide removal for responsible deployment** (2026)
    1 citations · Enhanced Weathering

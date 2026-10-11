@@ -1,7 +1,7 @@
 ---
 title: "Avijit Ghosh"
 description: "Avijit Ghosh is a Senior Soil Carbon researcher at Indian Grassland and Fodder Research Institute in IN. With 161 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.084414
+date: 2026-10-11T02:32:59.089272
 url: "/cdr-researcher-census/researchers/avijit-ghosh-a5069313/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,31 +45,31 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 29 |
 | Citations | 3,068 |
 | Publications | 161 |
-| CDR Focus | 13.0% |
+| CDR Focus | 14.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Organic farming: A prospect for food, environment and livelihood security in Indian agriculture** (2021)
-   45 citations · Soil Carbon
+   46 citations · Soil Carbon
 
 2. **Eco-restoration of degraded lands through trees and grasses improves soil carbon sequestration and biological activity in tropical climates** (2021)
-   43 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 3. **Long‐term manure application for crop yield stability and carbon sequestration in subtropical region** (2021)
-   26 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 4. **Silvopasture systems for restoration of degraded lands in a semiarid region of India** (2022)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 5. **Long-term agroforestry enhances soil organic carbon pools and deep soil carbon sequestration in the Indian Himalayas** (2025)
-   17 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 6. **Nature-based solutions for enhancing CO2 sequestration and rehabilitating degraded lands through silvo-aromatic system and soil moisture conservation techniques** (2025)
    16 citations · Soil Carbon
 
 7. **Soil organic carbon stabilization inside microaggregates within macroaggregates is the major mechanism of carbon sequestration under a long-term agroforestry system in the foot hills of the Indian Himalayas** (2025)
-   11 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 8. **Elevated CO2 alters aggregate‑carbon and microbial community but does not affect total soil organic C in the semi-arid tropics** (2023)
    10 citations · Soil Carbon

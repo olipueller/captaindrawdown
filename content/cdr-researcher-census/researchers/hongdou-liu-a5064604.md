@@ -1,7 +1,7 @@
 ---
 title: "Hongdou Liu"
 description: "Hongdou Liu is a Senior Soil Carbon researcher at Griffith University in AU. With 59 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.244205
+date: 2026-10-11T02:32:59.247907
 url: "/cdr-researcher-census/researchers/hongdou-liu-a5064604/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A comprehensive review of soil organic carbon estimates: Integrating remote sensing and machine learning technologies** (2024)
-   54 citations · General CDR
+   57 citations · General CDR
 
 2. **Soil Organic Carbon Estimation via Remote Sensing and Machine Learning Techniques: Global Topic Modeling and Research Trend Exploration** (2024)
-   34 citations · General CDR
+   38 citations · General CDR
 
 3. **Combination of Biochar‐Based Fertilisers and Reactive Barriers Improved Soil Carbon Storage, Soil Moisture Retention, and Crop Yield in Short Term** (2025)
-   14 citations · Biochar
+   13 citations · Biochar
 
 ## External Profiles
 

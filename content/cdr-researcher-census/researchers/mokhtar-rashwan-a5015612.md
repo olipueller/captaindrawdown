@@ -1,7 +1,7 @@
 ---
 title: "Mokhtar Rashwan"
 description: "Mokhtar Rashwan is a Mid-career General CDR researcher at Argonne National Laboratory in US. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.162052
+date: 2026-10-11T02:33:00.192372
 url: "/cdr-researcher-census/researchers/mokhtar-rashwan-a5015612/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    23 citations
 
 2. **Direct observation of carbon dioxide adsorption and binding at the air/aqueous interface** (2025)
-   8 citations · General CDR
+   10 citations · General CDR
 
 3. **Carbon Dioxide Capture by Niobium Polyoxometalate Fragments** (2024)
    1 citations

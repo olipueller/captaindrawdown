@@ -1,7 +1,7 @@
 ---
 title: "Shuwen Hu"
 description: "Shuwen Hu is a Senior Soil Carbon researcher at China Agricultural University in CN. With 95 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.092139
+date: 2026-10-11T02:32:59.096741
 url: "/cdr-researcher-census/researchers/shuwen-hu-a5033662/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,18 +48,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Aggregate stability and organic carbon stock under different land uses integrally regulated by binding agents and chemical properties in saline‐sodic soils** (2021)
-   63 citations · Soil Carbon
+   65 citations · Soil Carbon
 
 2. **Long-term rice cultivation increases contributions of plant and microbial-derived carbon to soil organic carbon in saline-sodic soils** (2023)
-   58 citations · Soil Carbon
+   56 citations · Soil Carbon
 
 3. **The accumulation of plant- and microbial-derived carbon and its contribution to soil organic carbon in reclaimed saline-sodic farmland** (2024)
    21 citations · Soil Carbon
 
-4. **Fractions, stability, and influencing factors of soil organic carbon under different land-use in sodic soils** (2022)
-   13 citations · Soil Carbon
+4. **Artificial utilization of saline-sodic land promotes carbon stock: The importance of large macroaggregates** (2024)
+   12 citations · Soil Carbon
 
-5. **Artificial utilization of saline-sodic land promotes carbon stock: The importance of large macroaggregates** (2024)
+5. **Fractions, stability, and influencing factors of soil organic carbon under different land-use in sodic soils** (2022)
    12 citations · Soil Carbon
 
 6. **Amendment of saline-alkali soils promotes the formation and stability of iron-bound organic carbon** (2025)

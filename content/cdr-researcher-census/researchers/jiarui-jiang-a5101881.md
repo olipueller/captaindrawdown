@@ -1,7 +1,7 @@
 ---
 title: "Jiarui Jiang"
 description: "Jiarui Jiang is a Mid-career Soil Carbon researcher at Shanghai University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.215654
+date: 2026-10-11T02:33:00.245646
 url: "/cdr-researcher-census/researchers/jiarui-jiang-a5101881/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Elucidating the impact of mulching film on organic carbon mineralization from the perspective of aggregate level** (2024)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 ## External Profiles
 

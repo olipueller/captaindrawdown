@@ -1,7 +1,7 @@
 ---
 title: "Freya Chay"
 description: "Freya Chay is an Early-career General CDR researcher at Carbon180 in US. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.115886
+date: 2026-10-11T02:33:00.146816
 url: "/cdr-researcher-census/researchers/freya-chay-a5038250/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    31 citations · General CDR
 
 2. **Consistent temporal accounting supports credible CDR use** (2026)
-   1 citations · General CDR
+   2 citations · General CDR
 
 3. **Recentering goals: A guide to CDR policymaking for a net-negative world** (2026)
    0 citations

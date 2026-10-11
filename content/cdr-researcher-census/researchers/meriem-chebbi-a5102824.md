@@ -1,7 +1,7 @@
 ---
 title: "Meriem Chebbi"
 description: "Meriem Chebbi is a Mid-career Biochar researcher at University of Biskra in DZ. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.261734
+date: 2026-10-11T02:33:00.291825
 url: "/cdr-researcher-census/researchers/meriem-chebbi-a5102824/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synthesis and characterization of pine cones biochar for the removal of an antibiotic (Metronidazole) from aqueous solutions** (2023)
-   41 citations · Biochar
+   43 citations · Biochar
 
 2. **Sustainable pine cone adsorbent: Removal of prednisolone and pre-treatment of a medical lab wastewater** (2024)
    15 citations

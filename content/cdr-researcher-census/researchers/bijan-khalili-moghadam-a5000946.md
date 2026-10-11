@@ -1,7 +1,7 @@
 ---
 title: "Bijan Khalili Moghadam"
 description: "Bijan Khalili Moghadam is a Mid-career Biochar researcher at Sari Agricultural Sciences and Natural Resources University in IR. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.887627
+date: 2026-10-11T02:32:59.915139
 url: "/cdr-researcher-census/researchers/bijan-khalili-moghadam-a5000946/"
 layout: "researcher"
 hiddenInHomeList: true

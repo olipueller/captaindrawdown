@@ -1,7 +1,7 @@
 ---
 title: "Tatiana Maris Ferraresi"
 description: "Tatiana Maris Ferraresi is a Senior Soil Carbon researcher at Brazilian Agricultural Research Corporation in BR. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.387993
+date: 2026-10-11T02:33:00.424905
 url: "/cdr-researcher-census/researchers/tatiana-maris-ferraresi-a5041521/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Impact of land use intensification on key drivers of soil organic carbon pools in Brazil’s Central-West** (2024)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 2. **Soil carbon stock changes in a crop-livestock-forestry integration in Southern Goiás State, Brazil** (2024)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
+
+3. **Soil Carbon Dynamics and Physicochemical Properties in an 11-Years Old Crop-Livestock-Forestry System of Central Brazil** (2023)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

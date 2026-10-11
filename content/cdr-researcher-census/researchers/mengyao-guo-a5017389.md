@@ -1,7 +1,7 @@
 ---
 title: "Mengyao Guo"
 description: "Mengyao Guo is a Mid-career Soil Carbon researcher at Taiyuan University of Science and Technology in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.042618
+date: 2026-10-11T02:33:00.073544
 url: "/cdr-researcher-census/researchers/mengyao-guo-a5017389/"
 layout: "researcher"
 hiddenInHomeList: true

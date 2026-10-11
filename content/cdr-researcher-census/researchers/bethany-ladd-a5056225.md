@@ -1,7 +1,7 @@
 ---
 title: "Bethany Ladd"
 description: "Bethany Ladd is a Mid-career Enhanced Weathering researcher at University of British Columbia in CA. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.366629
+date: 2026-10-11T02:32:59.373819
 url: "/cdr-researcher-census/researchers/bethany-ladd-a5056225/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Quantitative analysis of diurnal CO <sub>2</sub> flux variations above an alkaline playa** (2023)
-   1 citations · Enhanced Weathering
+   2 citations · Enhanced Weathering
 
 2. **Measuring CO<sub>2</sub> Exchange over the Hydromagnesite-Magnesite Playas in Atlin, B.C.** (2022)
    0 citations · Enhanced Weathering

@@ -1,7 +1,7 @@
 ---
 title: "Le Thuy Hang"
 description: "Le Thuy Hang is a Mid-career Soil Carbon researcher at University of Hildesheim in DE. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.805175
+date: 2026-10-11T02:32:59.830030
 url: "/cdr-researcher-census/researchers/le-thuy-hang-a5078035/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Traditional agroforestry systems in Europe revisited: a systematic review** (2025)
-   11 citations · General CDR
+   12 citations · General CDR
 
 ## External Profiles
 

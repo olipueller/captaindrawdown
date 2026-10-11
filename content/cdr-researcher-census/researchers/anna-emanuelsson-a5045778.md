@@ -1,7 +1,7 @@
 ---
 title: "Anna Emanuelsson"
 description: "Anna Emanuelsson is a Senior DAC researcher at Chalmers University of Technology in SE. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.971509
+date: 2026-10-11T02:33:00.003079
 url: "/cdr-researcher-census/researchers/anna-emanuelsson-a5045778/"
 layout: "researcher"
 hiddenInHomeList: true

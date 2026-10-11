@@ -1,7 +1,7 @@
 ---
 title: "Bayu Dume"
 description: "Bayu Dume is a Mid-career Soil Carbon researcher at Jimma University in ET. With 26 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.525533
+date: 2026-10-11T02:32:59.539463
 url: "/cdr-researcher-census/researchers/bayu-dume-a5045521/"
 layout: "researcher"
 hiddenInHomeList: true

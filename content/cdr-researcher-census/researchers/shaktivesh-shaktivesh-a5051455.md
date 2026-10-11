@@ -1,7 +1,7 @@
 ---
 title: "Shaktivesh Shaktivesh"
 description: "Shaktivesh Shaktivesh is a Mid-career Soil Carbon researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.877673
+date: 2026-10-11T02:32:59.905121
 url: "/cdr-researcher-census/researchers/shaktivesh-shaktivesh-a5051455/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Life at the borderlands: microbiomes of interfaces critical to One Health** (2024)
-   32 citations · Soil Carbon
+   36 citations · Soil Carbon
 
 ## External Profiles
 

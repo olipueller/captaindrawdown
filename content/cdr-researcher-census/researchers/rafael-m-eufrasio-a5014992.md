@@ -1,7 +1,7 @@
 ---
 title: "Rafael M. Eufrasio"
 description: "Rafael M. Eufrasio is a Mid-career Enhanced Weathering researcher at University of Sheffield in GB. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.256243
+date: 2026-10-11T02:32:59.260033
 url: "/cdr-researcher-census/researchers/rafael-m-eufrasio-a5014992/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Substantial carbon drawdown potential from enhanced rock weathering in the United Kingdom** (2022)
-   164 citations · Enhanced Weathering
+   165 citations · Enhanced Weathering
 
 2. **Environmental and health impacts of atmospheric CO2 removal by enhanced rock weathering depend on nations’ energy mix** (2022)
-   71 citations · Enhanced Weathering
+   72 citations · Enhanced Weathering
 
 3. **Transforming US agriculture for carbon removal with enhanced weathering** (2025)
    59 citations · Enhanced Weathering

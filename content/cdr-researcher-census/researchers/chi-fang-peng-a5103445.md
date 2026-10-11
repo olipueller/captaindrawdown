@@ -1,7 +1,7 @@
 ---
 title: "Chi Fang Peng"
 description: "Chi Fang Peng is a Senior Biochar researcher at Education Department of Heilongjiang Province in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.262361
+date: 2026-10-11T02:32:59.266439
 url: "/cdr-researcher-census/researchers/chi-fang-peng-a5103445/"
 layout: "researcher"
 hiddenInHomeList: true

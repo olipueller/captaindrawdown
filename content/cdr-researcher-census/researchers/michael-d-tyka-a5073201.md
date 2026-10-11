@@ -1,7 +1,7 @@
 ---
 title: "Michael D. Tyka"
 description: "Michael D. Tyka is a Senior Ocean CDR researcher at Google Inc in US. With 58 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.039138
+date: 2026-10-11T02:32:59.042232
 url: "/cdr-researcher-census/researchers/michael-d-tyka-a5073201/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,40 +45,40 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 23 |
 | Citations | 6,310 |
 | Publications | 58 |
-| CDR Focus | 29.3% |
+| CDR Focus | 31.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Limits and CO <sub>2</sub> equilibration of near-coast alkalinity enhancement** (2023)
-   150 citations · Ocean CDR
+   169 citations · Ocean CDR
 
 2. **Toward a consensus framework to evaluate air–sea <scp>CO<sub>2</sub></scp> equilibration for marine <scp>CO<sub>2</sub></scp> removal** (2023)
-   82 citations · General CDR
+   83 citations · General CDR
 
 3. **Mapping the global variation in the efficiency of ocean alkalinity enhancement for carbon dioxide removal** (2024)
-   57 citations · Ocean CDR
+   62 citations · Ocean CDR
 
 4. **Limits and CO2 equilibration of near-coast alkalinity enhancement** (2022)
    25 citations
 
 5. **Limits and CO2 equilibration of near-coast alkalinity enhancement** (2023)
-   22 citations · Ocean CDR
+   19 citations · Ocean CDR
 
 6. **Efficiency metrics for ocean alkalinity enhancements under responsive and prescribed atmospheric <i>p</i> CO <sub>2</sub> conditions** (2025)
-   10 citations · DAC
+   15 citations · DAC
 
-7. **Mapping the global variation in the efficiency of ocean alkalinity enhancement for carbon dioxide removal** (2024)
+7. **Using magnesium hydroxide for ocean alkalinity enhancement: elucidating the role of formation conditions on material properties and dissolution kinetics** (2025)
+   9 citations · Ocean CDR
+
+8. **Negative Emission Enabled by Combining Ocean Alkalinity Enhancement and Waste Concrete Upcycling** (2025)
    9 citations · General CDR
 
-8. **Using magnesium hydroxide for ocean alkalinity enhancement: elucidating the role of formation conditions on material properties and dissolution kinetics** (2025)
-   7 citations · Ocean CDR
+9. **Mapping the global variation in the efficiency of ocean alkalinity enhancement for carbon dioxide removal** (2024)
+   9 citations · General CDR
 
-9. **Negative Emission Enabled by Combining Ocean Alkalinity Enhancement and Waste Concrete Upcycling** (2025)
+10. **Impulse response functions as a framework for quantifying ocean-based carbon dioxide removal** (2025)
    7 citations · General CDR
-
-10. **Lethal by design? Guiding environmental assessments of ocean alkalinity enhancement toward realistic contextualization of the alkalinity perturbation** (2025)
-   4 citations · General CDR
 
 ## External Profiles
 

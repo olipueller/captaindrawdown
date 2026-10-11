@@ -1,7 +1,7 @@
 ---
 title: "Ana Carla Medeiros Morato de Aquino"
 description: "Ana Carla Medeiros Morato de Aquino is a Senior Soil Carbon researcher at Forest Science and Research Institute in BR. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.445509
+date: 2026-10-11T02:32:59.456011
 url: "/cdr-researcher-census/researchers/ana-carla-medeiros-morato-de-aquino-a5070546/"
 layout: "researcher"
 hiddenInHomeList: true

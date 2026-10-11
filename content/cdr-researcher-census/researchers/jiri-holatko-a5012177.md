@@ -1,7 +1,7 @@
 ---
 title: "Jiří Holátko"
 description: "Jiří Holátko is a Senior Soil Carbon researcher at Mendel University in Brno in CZ. With 125 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.074122
+date: 2026-10-11T02:32:59.078907
 url: "/cdr-researcher-census/researchers/jiri-holatko-a5012177/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,17 +50,17 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Carbon-enriched organic amendments differently affect the soil chemical, biological properties and plant biomass in a cultivation time-dependent manner** (2022)
+1. **Beyond one-size-fits-all: tailoring engineered biochar for purpose-specific rhizosphere engineering in crop production, protection, and soil remediation** (2026)
+   24 citations · Biochar
+
+2. **Carbon-enriched organic amendments differently affect the soil chemical, biological properties and plant biomass in a cultivation time-dependent manner** (2022)
    24 citations · General CDR
 
-2. **Beyond one-size-fits-all: tailoring engineered biochar for purpose-specific rhizosphere engineering in crop production, protection, and soil remediation** (2026)
-   22 citations · Biochar
-
 3. **Utilization of Diversified Cover Crops as Green Manure-Enhanced Soil Organic Carbon, Nutrient Transformation, Microbial Activity, and Maize Growth** (2024)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 4. **Time-dependent impact of co-matured manure with elemental sulfur and biochar on the soil agro-ecological properties and plant biomass** (2023)
-   11 citations · Biochar
+   12 citations · Biochar
 
 5. **Deciphering the Effectiveness of Humic Substances and Biochar Modified Digestates on Soil Quality and Plant Biomass Accumulation** (2022)
    11 citations · Biochar

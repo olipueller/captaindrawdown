@@ -1,7 +1,7 @@
 ---
 title: "Etienne Schneider"
 description: "Etienne Schneider is a Mid-career General CDR researcher at University of Vienna in AT. With 43 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.392670
+date: 2026-10-11T02:32:59.400958
 url: "/cdr-researcher-census/researchers/etienne-schneider-a5089196/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Carbon dioxide removal and mitigation deterrence in EU climate policy: Towards a research approach** (2023)
-   46 citations · General CDR
+   48 citations · General CDR
 
 2. **Whose negative emissions? Exploring emergent perspectives on CDR from the EU's hard to abate and fossil industries** (2024)
-   19 citations · General CDR
+   18 citations · General CDR
 
 3. **Carbon removal, mitigation deterrence and the politics of target separation. Evidence from the EU 2040 climate target negotiation** (2025)
-   11 citations · General CDR
+   13 citations · General CDR
 
 4. **The politics of carbon management in Austria: Emerging fault lines on carbon capture, storage, utilization and removal** (2024)
-   9 citations · General CDR
+   10 citations · General CDR
 
 5. **Existing demand-side climate change mitigation policies neglect avoid options** (2025)
    8 citations · General CDR
@@ -68,7 +68,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 6. **Existing demand-side climate change mitigation policies neglect avoid options** (2025)
    1 citations
 
-7. **The renaissance of carbon capture and storage in Germany and the politics of conditionality** (2026)
+7. **Mitigation deterrence in emissions trading schemes: Managing low quality demand for carbon removal** (2026)
+   0 citations · General CDR
+
+8. **The renaissance of carbon capture and storage in Germany and the politics of conditionality** (2026)
    0 citations · General CDR
 
 ## External Profiles

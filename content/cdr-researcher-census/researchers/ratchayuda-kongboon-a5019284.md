@@ -1,7 +1,7 @@
 ---
 title: "Ratchayuda Kongboon"
 description: "Ratchayuda Kongboon is a Mid-career Biochar researcher at Research Unit for Energy, Economic and Ecological Management in TH. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.123802
+date: 2026-10-11T02:33:00.154138
 url: "/cdr-researcher-census/researchers/ratchayuda-kongboon-a5019284/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Zero-Burning Strategies for PM2.5 and GHG Mitigation: A Spatial-Temporal Assessment of Crop Residue Burning in Northern Thailand** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

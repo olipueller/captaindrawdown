@@ -1,7 +1,7 @@
 ---
 title: "Julian Burhenne"
 description: "Julian Burhenne is an Early-career DAC researcher at Universität Hamburg in DE. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.244669
+date: 2026-10-11T02:33:00.274891
 url: "/cdr-researcher-census/researchers/julian-burhenne-a5056642/"
 layout: "researcher"
 hiddenInHomeList: true

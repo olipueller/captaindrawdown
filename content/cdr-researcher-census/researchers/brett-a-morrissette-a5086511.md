@@ -1,7 +1,7 @@
 ---
 title: "Brett A. Morrissette"
 description: "Brett A. Morrissette is a Senior Soil Carbon researcher at Oregon State University in US. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.626572
+date: 2026-10-11T02:32:59.645069
 url: "/cdr-researcher-census/researchers/brett-a-morrissette-a5086511/"
 layout: "researcher"
 hiddenInHomeList: true

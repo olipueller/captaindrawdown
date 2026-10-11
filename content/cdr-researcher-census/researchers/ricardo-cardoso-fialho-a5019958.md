@@ -1,7 +1,7 @@
 ---
 title: "Ricardo Cardoso Fialho"
 description: "Ricardo Cardoso Fialho is a Mid-career Soil Carbon researcher at Universidade Federal de Viçosa in BR. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.049896
+date: 2026-10-11T02:33:00.080549
 url: "/cdr-researcher-census/researchers/ricardo-cardoso-fialho-a5019958/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **N fertilization did not raise soil greenhouse gas emissions in a reforested reclaimed-mine site over a short-term study** (2023)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 2. **The impact of fast-growing eucalypt plantations on C emissions in tropical soil: effect of belowground and aboveground C inputs** (2023)
    1 citations · Soil Carbon

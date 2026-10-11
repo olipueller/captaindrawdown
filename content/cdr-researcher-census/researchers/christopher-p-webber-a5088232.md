@@ -1,7 +1,7 @@
 ---
 title: "Christopher P. Webber"
 description: "Christopher P. Webber is a Mid-career BECCS researcher at University of Reading in GB. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.379676
+date: 2026-10-11T02:32:59.387112
 url: "/cdr-researcher-census/researchers/christopher-p-webber-a5088232/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Regional variation in the effectiveness of methane-based and land-based climate mitigation options** (2021)
-   9 citations · BECCS
+   10 citations · BECCS
 
 ## External Profiles
 

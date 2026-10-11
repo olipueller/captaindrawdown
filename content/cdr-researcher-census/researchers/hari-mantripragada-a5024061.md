@@ -1,7 +1,7 @@
 ---
 title: "Hari Mantripragada"
 description: "Hari Mantripragada is a Senior General CDR researcher at University of Pittsburgh in US. With 29 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.233150
+date: 2026-10-11T02:32:59.236318
 url: "/cdr-researcher-census/researchers/hari-mantripragada-a5024061/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Direct Air Capture Case Studies: Sorbent System** (2022)
-   25 citations
+   24 citations
 
-2. **Direct Air Capture Case Studies: Solvent System** (2022)
+2. **Assessment of Nuclear Energy to Support Negative Emission Technologies** (2023)
+   14 citations · DAC
+
+3. **Direct Air Capture Case Studies: Solvent System** (2022)
    14 citations
-
-3. **Assessment of Nuclear Energy to Support Negative Emission Technologies** (2023)
-   13 citations · DAC
 
 4. **A comparative assessment of the economic viability of nuclear-integrated direct air capture systems** (2026)
    2 citations · DAC

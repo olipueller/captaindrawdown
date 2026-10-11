@@ -1,7 +1,7 @@
 ---
 title: "Joyson Ahongshangbam"
 description: "Joyson Ahongshangbam is a Mid-career Soil Carbon researcher at University of Helsinki in FI. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.762322
+date: 2026-10-11T02:32:59.785361
 url: "/cdr-researcher-census/researchers/joyson-ahongshangbam-a5000276/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon sequestration in different urban vegetation types in Southern Finland** (2025)
-   14 citations · General CDR
+   16 citations · General CDR
 
 2. **Observations and modelling of urban carbon and water fluxes to aid cities in climate mitigation and adaptation** (2023)
    1 citations · General CDR

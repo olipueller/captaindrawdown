@@ -1,7 +1,7 @@
 ---
 title: "David P. Keller"
 description: "David P. Keller is a Senior Ocean CDR researcher at Carbon to Sea Initiative in US. With 171 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.104476
+date: 2026-10-11T02:32:59.109147
 url: "/cdr-researcher-census/researchers/david-p-keller-a5068205/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 25 |
 | Citations | 2,413 |
 | Publications | 171 |
-| CDR Focus | 22.8% |
+| CDR Focus | 24.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbon dioxide removal via macroalgae open-ocean mariculture and sinking: an Earth system modeling study** (2023)
-   84 citations · Ocean CDR
+   103 citations · Ocean CDR
 
 2. **Modelling considerations for research on ocean alkalinity enhancement (OAE)** (2023)
-   39 citations · General CDR
+   60 citations · General CDR
 
 3. **Carbon Dioxide Removal via Macroalgae Open-ocean Mariculture and Sinking: An Earth System Modeling Study** (2022)
    27 citations
@@ -66,13 +66,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    17 citations · Ocean CDR
 
 6. **Earth system responses to carbon dioxide removal as exemplified by ocean alkalinity enhancement: tradeoffs and lags** (2024)
-   13 citations · General CDR
+   14 citations · General CDR
 
 7. **A holistic assessment framework for marine carbon dioxide removal options** (2025)
-   11 citations · General CDR
+   12 citations · General CDR
 
 8. **Exploring Site‐Specific Carbon Dioxide Removal Options With Storage or Sequestration in the Marine Environment – The 10 Mt CO<sub>2</sub> yr<sup>−1</sup> Removal Challenge for Germany** (2025)
-   8 citations · General CDR
+   9 citations · General CDR
 
 9. **CMIP6 models agree on similar carbon cycle feedbacks between enhancing terrestrial and marine carbon sinks** (2025)
    7 citations · General CDR

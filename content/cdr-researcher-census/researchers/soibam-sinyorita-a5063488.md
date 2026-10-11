@@ -1,7 +1,7 @@
 ---
 title: "Soibam Sinyorita"
 description: "Soibam Sinyorita is a Mid-career Soil Carbon researcher at ICAR Research Complex for NEH Region in IN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.311814
+date: 2026-10-11T02:33:00.342616
 url: "/cdr-researcher-census/researchers/soibam-sinyorita-a5063488/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Uwe Langenmayr"
 description: "Uwe Langenmayr is a Mid-career General CDR researcher at Karlsruhe Institute of Technology in DE. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.212851
+date: 2026-10-11T02:33:00.242952
 url: "/cdr-researcher-census/researchers/uwe-langenmayr-a5069699/"
 layout: "researcher"
 hiddenInHomeList: true

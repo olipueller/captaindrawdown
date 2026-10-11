@@ -1,7 +1,7 @@
 ---
 title: "Erik Karltun"
 description: "Erik Karltun is a Senior Biochar researcher at Swedish University of Agricultural Sciences in SE. With 115 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.056132
+date: 2026-10-11T02:32:59.060324
 url: "/cdr-researcher-census/researchers/erik-karltun-a5078282/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A group of ectomycorrhizal fungi restricts organic matter accumulation in boreal forest** (2021)
-   177 citations · Soil Carbon
+   180 citations · Soil Carbon
 
 2. **Modelling biochar long-term carbon storage in soil with harmonized analysis of decomposition data** (2023)
-   89 citations · Biochar
+   97 citations · Biochar
 
 3. **Life cycle assessment of urban uses of biochar and case study in Uppsala, Sweden** (2022)
-   56 citations · Biochar
+   54 citations · Biochar
 
 4. **Assessing the diverse environmental effects of biochar systems: An evaluation framework** (2021)
    44 citations · Biochar
 
 5. **A spatial framework for prioritizing biochar application to arable land: A case study for Sweden** (2022)
-   16 citations
+   17 citations
 
 6. **A spatial framework for prioritizing biochar application to arable land: a case study for Sweden** (2022)
    2 citations
@@ -74,7 +74,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 8. **A Spatial Framework for Prioritizing Biochar Application to Arable Land: A Case Study for Sweden** (2022)
    1 citations · Biochar
 
-9. **Short Rotation Forestry Expansion Drives Carbon Sequestration in Biomass but Not in Soil** (2025)
+9. **Bomb 14 C for tracing biochar mineralization in soil** (2026)
+   0 citations · Biochar
+
+10. **Short Rotation Forestry Expansion Drives Carbon Sequestration in Biomass but Not in Soil** (2025)
    0 citations · BECCS
 
 ## External Profiles

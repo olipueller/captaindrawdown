@@ -1,7 +1,7 @@
 ---
 title: "S. DelGrosso"
 description: "S. DelGrosso is a Senior Soil Carbon researcher at Agricultural Research Service in US. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.400473
+date: 2026-10-11T02:32:59.409637
 url: "/cdr-researcher-census/researchers/s-delgrosso-a5027976/"
 layout: "researcher"
 hiddenInHomeList: true

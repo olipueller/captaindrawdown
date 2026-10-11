@@ -1,7 +1,7 @@
 ---
 title: "Laura Marín-Samper"
 description: "Laura Marín-Samper is an Early-career Ocean CDR researcher at Universidad de Las Palmas de Gran Canaria in ES. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.908324
+date: 2026-10-11T02:32:59.938117
 url: "/cdr-researcher-census/researchers/laura-marin-samper-a5013241/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,31 +51,31 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Stability of alkalinity in ocean alkalinity enhancement (OAE) approaches – consequences for durability of CO <sub>2</sub> storage** (2023)
-   154 citations · General CDR
+   180 citations · General CDR
 
-2. **Stability of alkalinity in Ocean Alkalinity Enhancement (OAE) approaches – consequences for durability of CO <sub>2</sub> storage** (2022)
+2. **Assessing the impact of CO <sub>2</sub> -equilibrated ocean alkalinity enhancement on microbial metabolic rates in an oligotrophic system** (2024)
+   25 citations · Ocean CDR
+
+3. **Stability of alkalinity in Ocean Alkalinity Enhancement (OAE) approaches – consequences for durability of CO <sub>2</sub> storage** (2022)
    25 citations
 
-3. **Assessing the impact of CO <sub>2</sub> -equilibrated ocean alkalinity enhancement on microbial metabolic rates in an oligotrophic system** (2024)
-   22 citations · Ocean CDR
-
 4. **Responses of microbial metabolic rates to non-equilibrated silicate- versus calcium-based ocean alkalinity enhancement** (2024)
-   6 citations · General CDR
+   8 citations · General CDR
 
-5. **Assessing the impact of CO <sub>2</sub> equilibrated ocean alkalinity enhancement on microbial metabolic rates in an oligotrophic system** (2023)
+5. **Carbon fixation of a temperate plankton community in response to calcium- and silicate-based Ocean Alkalinity Enhancement using air-sea gas exchange measurements** (2026)
+   4 citations · Ocean CDR
+
+6. **Assessing the impact of CO <sub>2</sub> equilibrated ocean alkalinity enhancement on microbial metabolic rates in an oligotrophic system** (2023)
    3 citations
 
-6. **Carbon fixation of a temperate plankton community in response to calcium- and silicate-based Ocean Alkalinity Enhancement using air-sea gas exchange measurements** (2026)
-   2 citations · Ocean CDR
-
-7. **Air-sea gas exchange measurements helped derive in-situ organic and inorganic carbon fixation in response to Ocean Alkalinity Enhancement in a temperate plankton community** (2025)
+7. **Ocean alkalinity enhancement reduces silica ballasting during export due to amplified dissolution** (2026)
    1 citations · General CDR
 
-8. **Supplementary material to "Assessing the impact of CO <sub>2</sub> equilibrated ocean alkalinity enhancement on microbial metabolic rates in an oligotrophic system"** (2023)
+8. **Air-sea gas exchange measurements helped derive in-situ organic and inorganic carbon fixation in response to Ocean Alkalinity Enhancement in a temperate plankton community** (2025)
    1 citations · General CDR
 
-9. **Ocean alkalinity enhancement reduces silica ballasting during export due to amplified dissolution** (2026)
-   0 citations · General CDR
+9. **Supplementary material to "Assessing the impact of CO <sub>2</sub> equilibrated ocean alkalinity enhancement on microbial metabolic rates in an oligotrophic system"** (2023)
+   1 citations · General CDR
 
 10. **Ocean alkalinity enhancement reduces silica ballasting during export due to amplified dissolution** (2026)
    0 citations · Ocean CDR

@@ -1,7 +1,7 @@
 ---
 title: "Nicki Taws"
 description: "Nicki Taws is a Mid-career Soil Carbon researcher. With 14 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.335014
+date: 2026-10-11T02:33:00.369095
 url: "/cdr-researcher-census/researchers/nicki-taws-a5086642/"
 layout: "researcher"
 hiddenInHomeList: true

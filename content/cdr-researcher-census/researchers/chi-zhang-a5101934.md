@@ -1,7 +1,7 @@
 ---
 title: "Chi Zhang"
 description: "Chi Zhang is a Mid-career Soil Carbon researcher at Hohai University in CN. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.369095
+date: 2026-10-11T02:33:00.404721
 url: "/cdr-researcher-census/researchers/chi-zhang-a5101934/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Current Progress and Future Trends in Carbon Sources and Sinks in Farmland Ecosystems: A Bibliometric Analysis (2002–2023)** (2025)
-   8 citations · General CDR
+   9 citations · General CDR
 
 2. **Field Cultivation of Medicinal Earthworms Increases Soil Large Macroaggregates and Subsurface Organic Carbon Storage** (2026)
    1 citations · Soil Carbon

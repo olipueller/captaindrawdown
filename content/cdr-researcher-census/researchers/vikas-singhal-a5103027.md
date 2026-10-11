@@ -1,7 +1,7 @@
 ---
 title: "Vikas Singhal"
 description: "Vikas Singhal is a Senior Soil Carbon researcher at Indian Grassland and Fodder Research Institute in IN. With 34 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.733297
+date: 2026-10-11T02:32:59.754878
 url: "/cdr-researcher-census/researchers/vikas-singhal-a5103027/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · Soil Carbon
 
 2. **Grasses improve soil multifunctionality by strengthening aggregate-carbon-enzyme linkage in semi-arid degraded land** (2025)
-   2 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

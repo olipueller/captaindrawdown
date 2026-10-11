@@ -1,7 +1,7 @@
 ---
 title: "N. Bijayalaxmi Devi"
 description: "N. Bijayalaxmi Devi is a Senior Soil Carbon researcher at Manipur University in IN. With 16 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.329073
+date: 2026-10-11T02:32:59.334875
 url: "/cdr-researcher-census/researchers/n-bijayalaxmi-devi-a5044978/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Quantifying Tree Diversity, Carbon Stocks, and Sequestration Potential for Diverse Land Uses in Northeast India** (2021)
-   73 citations · General CDR
+   75 citations · General CDR
 
 2. **Urban sacred grove forests are potential carbon stores: A case study from Sikkim Himalaya** (2021)
    31 citations · Soil Carbon
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    17 citations · Soil Carbon
 
 4. **Biodiversity and Ecosystems Services of the Agroforestry Systems of the Himalayan Region: An Overview** (2023)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 ## External Profiles
 

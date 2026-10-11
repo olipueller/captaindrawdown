@@ -1,7 +1,7 @@
 ---
 title: "Lillian Lower"
 description: "Lillian Lower is a Mid-career Soil Carbon researcher at North Carolina State University in US. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.687077
+date: 2026-10-11T02:32:59.707306
 url: "/cdr-researcher-census/researchers/lillian-lower-a5085504/"
 layout: "researcher"
 hiddenInHomeList: true

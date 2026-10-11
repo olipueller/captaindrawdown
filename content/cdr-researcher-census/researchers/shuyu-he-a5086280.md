@@ -1,7 +1,7 @@
 ---
 title: "Shuyu He"
 description: "Shuyu He is a Mid-career General CDR researcher at Beijing Forestry University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.270329
+date: 2026-10-11T02:33:00.300249
 url: "/cdr-researcher-census/researchers/shuyu-he-a5086280/"
 layout: "researcher"
 hiddenInHomeList: true

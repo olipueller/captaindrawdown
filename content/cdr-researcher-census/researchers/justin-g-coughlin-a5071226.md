@@ -1,7 +1,7 @@
 ---
 title: "Justin G. Coughlin"
 description: "Justin G. Coughlin is a Mid-career Enhanced Weathering researcher at US Forest Service in US. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.684882
+date: 2026-10-11T02:32:59.705079
 url: "/cdr-researcher-census/researchers/justin-g-coughlin-a5071226/"
 layout: "researcher"
 hiddenInHomeList: true

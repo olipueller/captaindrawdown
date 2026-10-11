@@ -1,7 +1,7 @@
 ---
 title: "Tingcang Hu"
 description: "Tingcang Hu is a Mid-career Soil Carbon researcher at Tianjin University of Technology in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.358642
+date: 2026-10-11T02:33:00.393418
 url: "/cdr-researcher-census/researchers/tingcang-hu-a5055965/"
 layout: "researcher"
 hiddenInHomeList: true

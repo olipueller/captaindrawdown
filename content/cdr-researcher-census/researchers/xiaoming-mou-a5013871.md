@@ -1,7 +1,7 @@
 ---
 title: "Xiaoming Mou"
 description: "Xiaoming Mou is a Senior Soil Carbon researcher at Inner Mongolia University for Nationalities in CN. With 42 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.608081
+date: 2026-10-11T02:32:59.625551
 url: "/cdr-researcher-census/researchers/xiaoming-mou-a5013871/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,30 +51,33 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Contrasting contributions of microbial and plant-derived C to soil carbon in desertified grassland restoration** (2025)
-   15 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 2. **Plant species richness mediates the responses of microbial necromass carbon accumulation to climate aridity in alpine meadows** (2025)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 3. **Plant species richness and legume presence increase microbial necromass carbon accumulation** (2024)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 4. **Reduced plant species diversity and soil carbon and nitrogen contents driven by vegetation patchiness in alpine meadows** (2024)
-   8 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 5. **Waterlogging increases microbial necromass carbon and particulate organic carbon in alpine meadow soils** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 6. **Afforestation of severely desertified land in semi-arid areas promotes soil carbon and nitrogen accumulation through microbial necromass** (2026)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 7. **Source data for Afforestation of severely desertified land in semi-arid areas promotes soil carbon and nitrogen accumulation through microbial necromass** (2026)
    1 citations
 
-8. **Source data for Afforestation of severely desertified land in semi-arid areas promotes soil carbon and nitrogen accumulation through microbial necromass** (2026)
+8. **Shrubification increases spatial heterogeneity in soil C:N:P stoichiometry to considerable depth in grazed alpine meadows** (2026)
+   0 citations
+
+9. **Source data for Afforestation of severely desertified land in semi-arid areas promotes soil carbon and nitrogen accumulation through microbial necromass** (2026)
    0 citations · Soil Carbon
 
-9. **Patterns of soil organic carbon accumulation and microbiological mechanisms in mountain ecosystems** (2025)
+10. **Patterns of soil organic carbon accumulation and microbiological mechanisms in mountain ecosystems** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

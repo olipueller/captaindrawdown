@@ -1,7 +1,7 @@
 ---
 title: "Bart L. Fischer"
 description: "Bart L. Fischer is a Mid-career Soil Carbon researcher at Agricultural & Applied Economics Association in US. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.969899
+date: 2026-10-11T02:33:00.001325
 url: "/cdr-researcher-census/researchers/bart-l-fischer-a5074891/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Dinesh B. Madhavan"
 description: "Dinesh B. Madhavan is a Mid-career Biochar researcher. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.525433
+date: 2026-10-11T02:32:59.539373
 url: "/cdr-researcher-census/researchers/dinesh-b-madhavan-a5055106/"
 layout: "researcher"
 hiddenInHomeList: true

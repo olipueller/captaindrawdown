@@ -1,7 +1,7 @@
 ---
 title: "Yalou Guo"
 description: "Yalou Guo is a Mid-career DAC researcher at Institute of Process Engineering in CN. With 32 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.477913
+date: 2026-10-11T02:32:59.489284
 url: "/cdr-researcher-census/researchers/yalou-guo-a5008470/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,16 +48,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Hydrogen production from the air** (2022)
-   160 citations · General CDR
+   161 citations · General CDR
 
 2. **Direct air capture technologies: innovations, integration, and pathways to scale** (2026)
-   3 citations · DAC
+   4 citations · DAC
 
-3. **Hydrogen Production from the Air** (2021)
+3. **Incorporation of azolate-based ionic liquids into MCM-41 silica for direct air capture of CO2** (2026)
    2 citations
 
-4. **Incorporation of azolate-based ionic liquids into MCM-41 silica for direct air capture of CO2** (2026)
-   1 citations
+4. **Hydrogen Production from the Air** (2021)
+   2 citations
 
 5. **Direct Air Capture Technologies: Innovations, Integration, and Pathways to Scale** (2026)
    0 citations · DAC

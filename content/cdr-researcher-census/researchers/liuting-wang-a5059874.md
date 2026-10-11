@@ -1,7 +1,7 @@
 ---
 title: "Liuting Wang"
 description: "Liuting Wang is a Senior Ocean CDR researcher at Xiangtan University in CN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.011655
+date: 2026-10-11T02:33:00.042743
 url: "/cdr-researcher-census/researchers/liuting-wang-a5059874/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Shahbaz Farooq"
 description: "Muhammad Shahbaz Farooq is a Mid-career Soil Carbon researcher at Jiangsu University in CN. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.433043
+date: 2026-10-11T02:32:59.443399
 url: "/cdr-researcher-census/researchers/muhammad-shahbaz-farooq-a5102797/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Utilisation of Climate‐Smart Conservation Agriculture Practices for Improved Soil Carbon Sequestration, Greenhouse Gas Mitigation and Sustainable Crop Productivity** (2025)
-   16 citations · General CDR
+   19 citations · General CDR
 
 2. **Cyanobacteria as multifunctional bioinputs for sustainable intensification, soil health enhancement, and climate resilience in rice‐based cropping systems** (2026)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

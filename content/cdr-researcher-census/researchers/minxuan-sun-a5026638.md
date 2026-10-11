@@ -1,7 +1,7 @@
 ---
 title: "Minxuan Sun"
 description: "Minxuan Sun is a Mid-career General CDR researcher at Ministry of Education in ME. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.583948
+date: 2026-10-11T02:32:59.600299
 url: "/cdr-researcher-census/researchers/minxuan-sun-a5026638/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,13 +53,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 1. **Contributions of countries without a carbon neutrality target to limit global warming** (2025)
    10 citations · BECCS
 
-2. **Carbon dioxide removal potential of biochar with biomass supply from bioenergy crops in China** (2026)
-   0 citations · BECCS
-
-3. **Afforestation on Abandoned Croplands in China Has the Potential to Increase Carbon Sequestration by half** (2025)
+2. **Forest Carbon Exchange Dynamics and Integrated Carbon Budget of a Subtropical Island Ecosystem** (2026)
    0 citations · General CDR
 
-4. **Contributions of countries without a carbon neutrality target to limit global warming** (2024)
+3. **Carbon dioxide removal potential of biochar with biomass supply from bioenergy crops in China** (2026)
+   0 citations · BECCS
+
+4. **Afforestation on Abandoned Croplands in China Has the Potential to Increase Carbon Sequestration by half** (2025)
+   0 citations · General CDR
+
+5. **Contributions of countries without a carbon neutrality target to limit global warming** (2024)
    0 citations
 
 ## External Profiles

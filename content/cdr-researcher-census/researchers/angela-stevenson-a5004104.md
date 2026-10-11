@@ -1,7 +1,7 @@
 ---
 title: "Angela Stevenson"
 description: "Angela Stevenson is a Mid-career General CDR researcher at Plymouth Marine Laboratory in GB. With 46 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.411508
+date: 2026-10-11T02:32:59.421018
 url: "/cdr-researcher-census/researchers/angela-stevenson-a5004104/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,14 +50,14 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Top CDR Publications
 
-1. **Framework for Assessing the Feasibility of Carbon Dioxide Removal Options Within the National Context of Germany** (2022)
+1. **Scoping carbon dioxide removal options for Germany–What is their potential contribution to Net-Zero CO2?** (2022)
    38 citations · General CDR
 
-2. **Scoping carbon dioxide removal options for Germany–What is their potential contribution to Net-Zero CO2?** (2022)
+2. **Framework for Assessing the Feasibility of Carbon Dioxide Removal Options Within the National Context of Germany** (2022)
    37 citations · General CDR
 
 3. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2024)
-   24 citations · BECCS
+   25 citations · BECCS
 
 4. **A storyline approach: integrating comprehensive, interdisciplinary research results to create narratives – in the context of the net-zero target in Germany** (2024)
    2 citations · General CDR

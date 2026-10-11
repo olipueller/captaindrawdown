@@ -1,7 +1,7 @@
 ---
 title: "Chuhan Fu"
 description: "Chuhan Fu is a Senior DAC researcher at University of Science and Technology of China in CN. With 30 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.291660
+date: 2026-10-11T02:32:59.296115
 url: "/cdr-researcher-census/researchers/chuhan-fu-a5101696/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Direct air capture technologies: innovations, integration, and pathways to scale** (2026)
-   3 citations · DAC
+   4 citations · DAC
 
 2. **Combined aperture widening and strong polarization in Li+-exchanged mordenite for efficient direct air capture of CO2** (2026)
    2 citations

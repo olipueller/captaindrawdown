@@ -1,7 +1,7 @@
 ---
 title: "Parisa Yekan Motlagh"
 description: "Parisa Yekan Motlagh is a Mid-career Biochar researcher. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.459956
+date: 2026-10-11T02:32:59.471178
 url: "/cdr-researcher-census/researchers/parisa-yekan-motlagh-a5065139/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Palladium nanoparticles supported on biochar/graphitic carbon nitride as a heterogeneous catalyst for pharmaceutical degradation** (2024)
-   11 citations · Biochar
+   13 citations · Biochar
 
 ## External Profiles
 

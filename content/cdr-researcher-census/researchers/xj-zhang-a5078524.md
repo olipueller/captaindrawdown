@@ -1,7 +1,7 @@
 ---
 title: "X.J. Zhang"
 description: "X.J. Zhang is a Mid-career General CDR researcher at Shandong University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.166642
+date: 2026-10-11T02:33:00.196729
 url: "/cdr-researcher-census/researchers/xj-zhang-a5078524/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,19 +48,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Sorption direct air capture with CO2 utilization** (2023)
-   317 citations · DAC
+   323 citations · DAC
 
 2. **Temperature-vacuum swing adsorption for direct air capture by using low-grade heat** (2023)
-   54 citations · DAC
+   55 citations · DAC
 
 3. **Moisture swing adsorption for direct air capture: Establishment of thermodynamic cycle** (2024)
-   41 citations
+   43 citations
 
 4. **Cost-effective carbon-based amine adsorbents for carbon capture: Equilibrium, kinetics and selectivity** (2023)
-   40 citations · General CDR
+   41 citations · General CDR
 
 5. **Solar-assisted temperature vacuum swing adsorption for direct air capture: Effect of relative humidity** (2023)
-   32 citations
+   31 citations
 
 6. **Understandings on design and application for direct air capture: From advanced sorbents to thermal cycles** (2023)
    19 citations · DAC

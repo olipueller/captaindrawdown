@@ -1,7 +1,7 @@
 ---
 title: "Samreen Shehzadi"
 description: "Samreen Shehzadi is a Mid-career Biochar researcher at Pakistan Institute of Nuclear Science and Technology in PK. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.073743
+date: 2026-10-11T02:33:00.103908
 url: "/cdr-researcher-census/researchers/samreen-shehzadi-a5051456/"
 layout: "researcher"
 hiddenInHomeList: true

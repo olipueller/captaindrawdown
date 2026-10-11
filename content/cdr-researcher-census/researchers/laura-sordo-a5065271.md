@@ -1,7 +1,7 @@
 ---
 title: "Laura Sordo"
 description: "Laura Sordo is a Senior Ocean CDR researcher at University of Algarve in PT. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.751988
+date: 2026-10-11T02:32:59.774427
 url: "/cdr-researcher-census/researchers/laura-sordo-a5065271/"
 layout: "researcher"
 hiddenInHomeList: true

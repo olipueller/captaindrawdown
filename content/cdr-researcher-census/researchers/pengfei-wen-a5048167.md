@@ -1,7 +1,7 @@
 ---
 title: "Pengfei Wen"
 description: "Pengfei Wen is a Mid-career Soil Carbon researcher at Henan Agricultural University in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.139127
+date: 2026-10-11T02:33:00.169493
 url: "/cdr-researcher-census/researchers/pengfei-wen-a5048167/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The potential for soil C sequestration and N fixation under different planting patterns depends on the carbon and nitrogen content and stability of soil aggregates** (2023)
-   58 citations · Soil Carbon
+   61 citations · Soil Carbon
 
 2. **Enhancing productivity while reducing water footprint and groundwater depletion: Optimizing irrigation strategies in a wheat-soybean planting system** (2024)
-   15 citations
+   16 citations
 
 ## External Profiles
 

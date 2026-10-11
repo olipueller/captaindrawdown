@@ -1,7 +1,7 @@
 ---
 title: "Xinyi Peng"
 description: "Xinyi Peng is an Early-career Soil Carbon researcher at Guangxi University in CN. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.078595
+date: 2026-10-11T02:33:00.108827
 url: "/cdr-researcher-census/researchers/xinyi-peng-a5102487/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Repeated labile carbon inputs trigger soil microbial necromass decomposition through increasing microbial diversity and hierarchical interactions** (2024)
-   43 citations · Soil Carbon
+   47 citations · Soil Carbon
 
 ## External Profiles
 

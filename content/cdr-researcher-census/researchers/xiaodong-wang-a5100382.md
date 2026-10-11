@@ -1,7 +1,7 @@
 ---
 title: "Xiaodong Wang"
 description: "Xiaodong Wang is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 10 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.821550
+date: 2026-10-11T02:32:59.846552
 url: "/cdr-researcher-census/researchers/xiaodong-wang-a5100382/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Precipitation increase promotes soil organic carbon formation and stability via the mycorrhizal fungal pathway** (2025)
-   22 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 ## External Profiles
 

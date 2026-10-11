@@ -1,7 +1,7 @@
 ---
 title: "Heehyang Kim"
 description: "Heehyang Kim is a Mid-career General CDR researcher at Ulsan National Institute of Science and Technology in KR. With 30 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.263640
+date: 2026-10-11T02:32:59.267794
 url: "/cdr-researcher-census/researchers/heehyang-kim-a5018824/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Mitigating climate change for negative CO2 emission via syngas methanation: Techno-economic and life-cycle assessments of renewable methane production** (2023)
-   39 citations · General CDR
+   40 citations · General CDR
 
 2. **Carbon dioxide removal from the oceans: Carbon dioxide emission and techno-economic analyses of producing renewable synthetic methane** (2023)
    9 citations · General CDR

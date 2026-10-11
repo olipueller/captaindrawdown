@@ -1,7 +1,7 @@
 ---
 title: "Johannes Biala"
 description: "Johannes Biala is a Senior Soil Carbon researcher at The University of Queensland in AU. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.639595
+date: 2026-10-11T02:32:59.658105
 url: "/cdr-researcher-census/researchers/johannes-biala-a5077922/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Environmental and economic trade‐offs of using composted or stockpiled manure as partial substitute for synthetic fertilizer** (2021)
-   21 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 2. **Compost use** (2022)
-   10 citations
+   11 citations
 
 3. **The potential for enhancing soil carbon levels through the use of organic soil amendments in Queensland, Australia** (2021)
    10 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Ruimin Qin"
 description: "Ruimin Qin is a Mid-career Soil Carbon researcher at Xi'an Jiaotong University in CN. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.437332
+date: 2026-10-11T02:32:59.447601
 url: "/cdr-researcher-census/researchers/ruimin-qin-a5032896/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Wei Wang"
 description: "Wei Wang is a Senior Ocean CDR researcher at Southern University of Science and Technology in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.350487
+date: 2026-10-11T02:33:00.385444
 url: "/cdr-researcher-census/researchers/wei-wang-a5042104/"
 layout: "researcher"
 hiddenInHomeList: true

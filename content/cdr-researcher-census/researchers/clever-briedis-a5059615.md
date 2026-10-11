@@ -1,7 +1,7 @@
 ---
 title: "Cléver Briedis"
 description: "Cléver Briedis is a Senior Soil Carbon researcher at Federal University of Viçosa in BR. With 76 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.129471
+date: 2026-10-11T02:32:59.134250
 url: "/cdr-researcher-census/researchers/clever-briedis-a5059615/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -63,13 +63,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Soil Carbon
 
 5. **Why no-till system sequesters more carbon and is more resilient and productive with contrasting fertilization regimes in a highly weathered soil?** (2024)
-   10 citations
+   11 citations
 
 6. **Improving soil carbon in semiarid agroecosystems: reclaimed water and mulch effects in cactus-sorghum intercropping** (2026)
    1 citations · Soil Carbon
 
 7. **Relationship of Microbial and Fertility Attributes to Organic Carbon Accumulation in a Subtropical Weathered Soil Impacted by a Long-Term Tillage Chronosequence** (2024)
    1 citations · Soil Carbon
+
+8. **The carbon harvest: Unlocking the Value of Environmental Underground Economy into Farm Revenue** (2026)
+   0 citations
 
 ## External Profiles
 

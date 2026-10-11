@@ -1,7 +1,7 @@
 ---
 title: "A. M. Sajina"
 description: "A. M. Sajina is a Senior Soil Carbon researcher at Central Inland Fisheries Research Institute in IN. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.760227
+date: 2026-10-11T02:32:59.783226
 url: "/cdr-researcher-census/researchers/a-m-sajina-a5032070/"
 layout: "researcher"
 hiddenInHomeList: true

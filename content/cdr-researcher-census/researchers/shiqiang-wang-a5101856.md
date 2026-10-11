@@ -1,7 +1,7 @@
 ---
 title: "Shiqiang Wang"
 description: "Shiqiang Wang is a Senior Soil Carbon researcher at Institute of Forest Resource Information Techniques in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.505512
+date: 2026-10-11T02:32:59.518273
 url: "/cdr-researcher-census/researchers/shiqiang-wang-a5101856/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Afforestation species and slope as key drivers of soil carbon sequestration in plantations of the tropical-subtropical transition zone: a case study from Xishuangbanna, Southwest China** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 2. **Soil phosphorus and biomass carbon co-determine plantation soil organic carbon density: a case study in western Beijing, China** (2023)
    2 citations · Soil Carbon

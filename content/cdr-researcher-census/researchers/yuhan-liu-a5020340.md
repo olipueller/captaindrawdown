@@ -1,7 +1,7 @@
 ---
 title: "Yuhan Liu"
 description: "Yuhan Liu is a Senior Biochar researcher at North China University of Science and Technology in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.852077
+date: 2026-10-11T02:32:59.879128
 url: "/cdr-researcher-census/researchers/yuhan-liu-a5020340/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Research on the Application of Biochar in Carbon Sequestration: A Bibliometric Analysis** (2025)
-   6 citations · Biochar
+   7 citations · Biochar
 
 ## External Profiles
 

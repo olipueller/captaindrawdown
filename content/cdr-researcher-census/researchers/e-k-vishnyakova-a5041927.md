@@ -1,7 +1,7 @@
 ---
 title: "E. K. Vishnyakova"
 description: "E. K. Vishnyakova is a Mid-career Soil Carbon researcher at Russian Academy of Sciences in RU. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.316413
+date: 2026-10-11T02:33:00.347455
 url: "/cdr-researcher-census/researchers/e-k-vishnyakova-a5041927/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **. Productivity changes of wetland and grassland ecosystems along a latitudal gradient** (2022)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 ## External Profiles
 

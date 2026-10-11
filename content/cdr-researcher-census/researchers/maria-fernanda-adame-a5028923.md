@@ -1,7 +1,7 @@
 ---
 title: "María Fernanda Adame"
 description: "María Fernanda Adame is an Eminent Soil Carbon researcher at Griffith University in AU. With 170 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.035121
+date: 2026-10-11T02:32:59.038230
 url: "/cdr-researcher-census/researchers/maria-fernanda-adame-a5028923/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,31 +51,31 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Future carbon emissions from global mangrove forest loss** (2021)
-   254 citations · General CDR
+   272 citations · General CDR
 
 2. **An Australian blue carbon method to estimate climate change mitigation benefits of coastal wetland restoration** (2022)
-   155 citations · General CDR
+   158 citations · General CDR
 
 3. **Deconstructing the mangrove carbon cycle: Gains, transformation, and losses** (2024)
-   69 citations · Soil Carbon
+   72 citations · Soil Carbon
 
 4. **Climate change mitigation and improvement of water quality from the restoration of a subtropical coastal wetland** (2022)
-   49 citations · Soil Carbon
+   51 citations · Soil Carbon
 
-5. **Ecosystem type drives tea litter decomposition and associated prokaryotic microbiome communities in freshwater and coastal wetlands at a continental scale** (2021)
+5. **Soil greenhouse gas fluxes from tropical coastal wetlands and alternative agricultural land uses** (2021)
+   35 citations · Soil Carbon
+
+6. **Ecosystem type drives tea litter decomposition and associated prokaryotic microbiome communities in freshwater and coastal wetlands at a continental scale** (2021)
    33 citations
 
-6. **Soil greenhouse gas fluxes from tropical coastal wetlands and alternative agricultural land uses** (2021)
+7. **Mangrove sinkholes ( <i>cenotes</i> ) of the Yucatan Peninsula, a global hotspot of carbon sequestration** (2021)
    31 citations · Soil Carbon
 
-7. **Mangrove sinkholes ( <i>cenotes</i> ) of the Yucatan Peninsula, a global hotspot of carbon sequestration** (2021)
-   30 citations · Soil Carbon
+8. **Abundant and active acetogens enhance the carbon dioxide sink of Blue Carbon ecosystems** (2025)
+   5 citations · Ocean CDR
 
-8. **Organic matter decomposition and associated microbial communities in wetlands: insights from tropical and subtropical Melaleuca forests in Australia** (2023)
-   6 citations
-
-9. **Abundant and active acetogens enhance the carbon dioxide sink of Blue Carbon ecosystems** (2025)
-   4 citations · Ocean CDR
+9. **Organic matter decomposition and associated microbial communities in wetlands: insights from tropical and subtropical Melaleuca forests in Australia** (2023)
+   5 citations
 
 10. **Greenhouse gas emissions from tropical coastal wetlands and their alternative agricultural lands: Where significant mitigation gains lie** (2021)
    3 citations · General CDR

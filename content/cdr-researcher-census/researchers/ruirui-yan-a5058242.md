@@ -1,7 +1,7 @@
 ---
 title: "Ruirui Yan"
 description: "Ruirui Yan is a Senior Soil Carbon researcher at Institute of Natural Resource and Regional Planning, CAAS in CN. With 88 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.153610
+date: 2026-10-11T02:32:59.157864
 url: "/cdr-researcher-census/researchers/ruirui-yan-a5058242/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Grassland Ecosystem Progress: A Review and Bibliometric Analysis Based on Research Publication over the Last Three Decades** (2023)
-   18 citations · General CDR
+   20 citations · General CDR
 
 2. **Light grazing tends to enhance ecosystem carbon sequestration and resource use efficiency in a meadow steppe of northern China** (2025)
-   15 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 3. **Stocking rate changed the magnitude of carbon sequestration and flow within the plant-soil system of a meadow steppe ecosystem** (2021)
    11 citations · Soil Carbon
@@ -62,7 +62,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Different responses of spatial heterogeneity of grassland vegetation to grazing intensity in northern China** (2024)
    3 citations · Soil Carbon
 
-5. **Variation of Livestock Grazing Intensity Modified the Magnitude of Carbon Sequestration and Flow within the Plant-Soil System of a Meadow Steppe Ecosystem** (2021)
+5. **Mapping ecosystem service supply–demand interactions using spatial clustering: Insights for sustainable grassland management** (2026)
+   0 citations
+
+6. **Variation of Livestock Grazing Intensity Modified the Magnitude of Carbon Sequestration and Flow within the Plant-Soil System of a Meadow Steppe Ecosystem** (2021)
    0 citations · Soil Carbon
 
 ## External Profiles

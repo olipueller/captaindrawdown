@@ -1,7 +1,7 @@
 ---
 title: "Nina Bednaršek"
 description: "Nina Bednaršek is a Senior Ocean CDR researcher at University of California, Los Angeles in US. With 114 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.054852
+date: 2026-10-11T02:32:59.059114
 url: "/cdr-researcher-census/researchers/nina-bednarsek-a5075209/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Natural Analogues in pH Variability and Predictability across the Coastal Pacific Estuaries: Extrapolation of the Increased Oyster Dissolution under Increased pH Amplitude and Low Predictability Related to Ocean Acidification** (2022)
-   35 citations · Ocean CDR
+   34 citations · Ocean CDR
 
 2. **Assessment framework to predict sensitivity of marine calcifiers to ocean alkalinity enhancement – identification of biological thresholds and importance of precautionary principle** (2025)
-   20 citations · Ocean CDR
+   26 citations · Ocean CDR
 
 3. **Substantial Limitations of Ocean Alkalinity Enhancement in Mitigating the Negative Impacts of Ocean Acidification on Marine Calcifiers** (2025)
-   6 citations · Ocean CDR
+   7 citations · Ocean CDR
 
 4. **Supplementary material to "Unifying framework for assessing sensitivity for marine calcifiers to ocean alkalinity enhancement identifies winners, losers and biological thresholds – importance of caution with precautionary principle"** (2024)
    2 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Ghulam Haidar"
 description: "Ghulam Haidar is an Early-career Biochar researcher at University of Haripur in PK. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.208238
+date: 2026-10-11T02:33:00.238018
 url: "/cdr-researcher-census/researchers/ghulam-haidar-a5003842/"
 layout: "researcher"
 hiddenInHomeList: true

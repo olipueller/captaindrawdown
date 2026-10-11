@@ -1,7 +1,7 @@
 ---
 title: "Jitao Lv"
 description: "Jitao Lv is a Senior Soil Carbon researcher at Qingdao University of Science and Technology in CN. With 86 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.044260
+date: 2026-10-11T02:32:59.047711
 url: "/cdr-researcher-census/researchers/jitao-lv-a5110294/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,25 +51,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon Sequestration Strategies in Soil Using Biochar: Advances, Challenges, and Opportunities** (2023)
-   306 citations · Biochar
+   312 citations · Biochar
 
 2. **Biochar induces mineralization of soil recalcitrant components by activation of biochar responsive bacteria groups** (2022)
    164 citations · Biochar
 
-3. **Distribution and bioaccessibility of polycyclic aromatic hydrocarbons in industrially contaminated site soils as affected by thermal treatment** (2021)
-   37 citations
+3. **Evaluating soil dissolved organic matter as a proxy for soil organic matter properties across diverse ecosystems** (2025)
+   40 citations · Soil Carbon
 
 4. **Rethinking Organic Carbon Sequestration in Agricultural Soils From the Elemental Stoichiometry Perspective** (2025)
-   35 citations · General CDR
+   37 citations · General CDR
 
-5. **Evaluating soil dissolved organic matter as a proxy for soil organic matter properties across diverse ecosystems** (2025)
-   35 citations · Soil Carbon
+5. **Distribution and bioaccessibility of polycyclic aromatic hydrocarbons in industrially contaminated site soils as affected by thermal treatment** (2021)
+   37 citations
 
 6. **Soil organic matter degradation and methylmercury dynamics in Hg-contaminated soils: Relationships and driving factors** (2024)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 7. **Does greater molecular diversity in soil organic matter imply greater persistence: Insights from molecular and multi-property analyses in Western China** (2025)
-   9 citations
+   10 citations
 
 8. **Effects and mechanisms of warming on the relationship between soil organic matter degradation and methylmercury production in Hg-contaminated soil** (2025)
    5 citations
@@ -77,8 +77,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 9. **Contrasting carbon processing and stabilization pathways in low- and high-mercury contaminated soils** (2025)
    3 citations · Soil Carbon
 
-10. **Influence of winter-fallow management strategies on the stability of soil organic matter in a typical rice paddy region of southwestern China** (2026)
-   0 citations · Soil Carbon
+10. **Environmental fate of POPs under climate change: Regulation of POPs distribution by soil organic matter and microbial communities during glacial retreat** (2025)
+   1 citations
 
 ## External Profiles
 

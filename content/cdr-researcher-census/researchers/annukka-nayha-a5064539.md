@@ -1,7 +1,7 @@
 ---
 title: "Annukka Näyhä"
 description: "Annukka Näyhä is a Mid-career Biochar researcher at University of Jyväskylä in FI. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.307341
+date: 2026-10-11T02:32:59.312672
 url: "/cdr-researcher-census/researchers/annukka-nayha-a5064539/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Nordic perspectives on the emerging biochar business** (2024)
-   23 citations · Biochar
+   24 citations · Biochar
 
 2. **Emerging Business Models of Nordic Biochar Producers: A Sustainable Business Model Typology** (2026)
    0 citations · Biochar

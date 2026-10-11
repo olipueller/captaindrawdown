@@ -1,7 +1,7 @@
 ---
 title: "Yingwen Li"
 description: "Yingwen Li is a Senior Soil Carbon researcher at 中国科学院华南植物园 in CN. With 94 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.088482
+date: 2026-10-11T02:32:59.093337
 url: "/cdr-researcher-census/researchers/yingwen-li-a5103220/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Contributions of plant‐ and microbial‐derived residuals to mangrove soil carbon stocks: Implications for blue carbon sequestration** (2024)
-   97 citations · General CDR
+   99 citations · General CDR
 
 2. **Nitrogen deposition enhances soil organic carbon and microbial residual carbon in a tropical forest** (2022)
    33 citations · Soil Carbon
@@ -60,10 +60,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    31 citations · Soil Carbon
 
 4. **Blue carbon storage of tidal flats and salt marshes: A comparative assessment in two Chinese coastal areas** (2024)
-   26 citations · Ocean CDR
+   28 citations · Ocean CDR
 
 5. **Responses of tropical forest soil organic matter pools to shifts in precipitation patterns** (2024)
-   22 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 6. **Nutrient addition enhances carbon sequestration in soil but not plant biomass in a coastal shelter plantation in South China** (2021)
    7 citations · Soil Carbon

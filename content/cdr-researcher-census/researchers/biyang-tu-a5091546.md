@@ -1,7 +1,7 @@
 ---
 title: "Biyang Tu"
 description: "Biyang Tu is a Mid-career Biochar researcher at Nanjing University of Posts and Telecommunications in CN. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.441737
+date: 2026-10-11T02:32:59.451847
 url: "/cdr-researcher-census/researchers/biyang-tu-a5091546/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhanced adsorption of Rhodamine B over Zoysia sinica Hance-based carbon activated by amminium chloride and sodium hydroxide treatments** (2021)
-   50 citations · Biochar
+   51 citations · Biochar
 
 ## External Profiles
 

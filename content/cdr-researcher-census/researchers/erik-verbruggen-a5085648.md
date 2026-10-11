@@ -1,7 +1,7 @@
 ---
 title: "Erik Verbruggen"
 description: "Erik Verbruggen is an Eminent Enhanced Weathering researcher at University of Antwerp in BE. With 166 publications and an h-index of 46, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.028680
+date: 2026-10-11T02:32:59.031732
 url: "/cdr-researcher-census/researchers/erik-verbruggen-a5085648/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,25 +45,25 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 46 |
 | Citations | 8,833 |
 | Publications | 166 |
-| CDR Focus | 6.6% |
+| CDR Focus | 7.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Is the climate change mitigation effect of enhanced silicate weathering governed by biological processes?** (2021)
-   141 citations · Enhanced Weathering
+   133 citations · Enhanced Weathering
 
 2. **Soil properties as key predictors of global grassland production: Have we overlooked micronutrients?** (2021)
-   71 citations · Soil Carbon
+   70 citations · Soil Carbon
 
 3. **Can arbuscular mycorrhizal fungi speed up carbon sequestration by enhanced weathering?** (2021)
-   53 citations · Enhanced Weathering
+   55 citations · Enhanced Weathering
 
 4. **Unraveling microbial processes involved in carbon and nitrogen cycling and greenhouse gas emissions in rewetted peatlands by molecular biology** (2024)
-   19 citations
+   22 citations
 
 5. **Negative erosion and negative emissions: Combining multiple land-based carbon dioxide removal techniques to rebuild fertile topsoils and enhance food production** (2022)
-   16 citations · General CDR
+   17 citations · General CDR
 
 6. **Basalt addition improves the performance of young grassland monocultures under more persistent weather featuring longer dry and wet spells** (2023)
    13 citations · Enhanced Weathering
@@ -77,8 +77,8 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 9. **Enhanced weathering in acid and alkaline agricultural soils: greenhouse gas emissions and soil bacterial communities implications** (2022)
    1 citations · Enhanced Weathering
 
-10. **Intact polar lipids as biomarkers for nitrogen fixation and nitrification in European soils ** (2026)
-   0 citations · Soil Carbon
+10. **Interactions between silicate weathering and ectomycorrhiza in severely acidified forests** (2026)
+   0 citations · Enhanced Weathering
 
 ## External Profiles
 

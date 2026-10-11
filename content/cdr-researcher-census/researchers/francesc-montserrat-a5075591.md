@@ -1,7 +1,7 @@
 ---
 title: "Francesc Montserrat"
 description: "Francesc Montserrat is a Senior Enhanced Weathering researcher at Universiteit van Amsterdam in NL. With 39 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.174452
+date: 2026-10-11T02:32:59.178535
 url: "/cdr-researcher-census/researchers/francesc-montserrat-a5075591/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,18 +57,21 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    5 citations · General CDR
 
 3. **Microbial Community Structure in Contrasting Hawaiian Coastal Sediments** (2025)
-   2 citations
+   3 citations
 
 4. **Microbial community structure in contrasting Hawaiian coastal sediments** (2025)
    1 citations
 
-5. **A natural analogue of enhanced rock weathering: microbial communities in the olivine-rich Papakōlea Beach (Hawaii, USA)** (2025)
+5. **Effects of Olivine Sand on Marine Invertebrates Survival and Trace Metal Bioaccumulation** (2024)
+   1 citations · Enhanced Weathering
+
+6. **Progress towards small-scale field trials of coastal enhanced weathering of olivine** (2021)
+   1 citations · Enhanced Weathering
+
+7. **Alkalinity generation and trace metal dynamics during olivine-based marine enhanced rock weathering in bioturbated sediments** (2026)
    0 citations · Enhanced Weathering
 
-6. **Effects of Olivine Sand on Marine Invertebrates Survival and Trace Metal Bioaccumulation** (2024)
-   0 citations · Enhanced Weathering
-
-7. **Progress towards small-scale field trials of coastal enhanced weathering of olivine** (2021)
+8. **A natural analogue of enhanced rock weathering: microbial communities in the olivine-rich Papakōlea Beach (Hawaii, USA)** (2025)
    0 citations · Enhanced Weathering
 
 ## External Profiles

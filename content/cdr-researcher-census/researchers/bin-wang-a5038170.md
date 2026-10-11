@@ -1,7 +1,7 @@
 ---
 title: "Bin Wang"
 description: "Bin Wang is a Senior Ocean CDR researcher at Second Institute of Oceanography in CN. With 84 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.283807
+date: 2026-10-11T02:32:59.288597
 url: "/cdr-researcher-census/researchers/bin-wang-a5038170/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Maximizing the Detectability of Ocean Alkalinity Enhancement (OAE) While Minimizing Its Exposure Risks: Insights From a Numerical Study** (2025)
-   12 citations · General CDR
+   14 citations · General CDR
 
-2. **Lethal by design? Guiding environmental assessments of ocean alkalinity enhancement toward realistic contextualization of the alkalinity perturbation** (2025)
+2. **A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord** (2026)
+   6 citations · General CDR
+
+3. **Lethal by design? Guiding environmental assessments of ocean alkalinity enhancement toward realistic contextualization of the alkalinity perturbation** (2025)
    4 citations · General CDR
 
-3. **A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord** (2025)
+4. **A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord** (2025)
    3 citations
-
-4. **A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord** (2026)
-   2 citations · General CDR
 
 5. **Numerical dye tracer experiments in Bedford Basin in support of Ocean Alkalinity Enhancement research** (2024)
    1 citations · General CDR

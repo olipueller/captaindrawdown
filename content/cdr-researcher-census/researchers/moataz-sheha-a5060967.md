@@ -1,7 +1,7 @@
 ---
 title: "Moataz Sheha"
 description: "Moataz Sheha is a Mid-career DAC researcher at Massachusetts Institute of Technology in US. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.623511
+date: 2026-10-11T02:32:59.641624
 url: "/cdr-researcher-census/researchers/moataz-sheha-a5060967/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Optimization of a combined power plant CO<sub>2</sub> capture and direct air capture concept for flexible power plant operation** (2024)
-   16 citations · DAC
+   17 citations · DAC
 
 2. **Techno-economic analysis of a combined power plant CO2 capture and direct air capture concept for flexible power plant operation** (2023)
    4 citations · DAC

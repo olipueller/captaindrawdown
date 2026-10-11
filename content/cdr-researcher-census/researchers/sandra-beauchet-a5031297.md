@@ -1,7 +1,7 @@
 ---
 title: "Sandra Beauchet"
 description: "Sandra Beauchet is a Mid-career BECCS researcher at IFP Énergies nouvelles in FR. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.721865
+date: 2026-10-11T02:32:59.743036
 url: "/cdr-researcher-census/researchers/sandra-beauchet-a5031297/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Life cycle assessment of bioenergy with carbon capture and storage systems: Critical review of life cycle inventories** (2023)
-   55 citations · BECCS
+   57 citations · BECCS
 
 2. **Assessing a bio-energy system with carbon capture and storage (BECCS) through dynamic life cycle assessment and land-water-energy nexus** (2022)
-   47 citations · BECCS
+   48 citations · BECCS
 
 3. **Life cycle assessment of BECCS systems: critical review of life cycle inventories** (2022)
    2 citations · BECCS

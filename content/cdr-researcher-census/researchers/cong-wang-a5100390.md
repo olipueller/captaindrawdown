@@ -1,7 +1,7 @@
 ---
 title: "Cong Wang"
 description: "Cong Wang is a Mid-career Biochar researcher at Hebei University of Environmental Engineering in CN. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.867308
+date: 2026-10-11T02:32:59.894001
 url: "/cdr-researcher-census/researchers/cong-wang-a5100390/"
 layout: "researcher"
 hiddenInHomeList: true

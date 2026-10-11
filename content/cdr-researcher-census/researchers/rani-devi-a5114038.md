@@ -1,7 +1,7 @@
 ---
 title: "Rani Devi"
 description: "Rani Devi is a Senior Biochar researcher at PSG INSTITUTE OF TECHNOLOGY AND APPLIED RESEARCH in IN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.482262
+date: 2026-10-11T02:32:59.493637
 url: "/cdr-researcher-census/researchers/rani-devi-a5114038/"
 layout: "researcher"
 hiddenInHomeList: true

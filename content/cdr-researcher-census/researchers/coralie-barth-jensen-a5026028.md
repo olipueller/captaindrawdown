@@ -1,7 +1,7 @@
 ---
 title: "Coralie Barth-Jensen"
 description: "Coralie Barth-Jensen is a Mid-career Ocean CDR researcher at UiT The Arctic University of Norway in NO. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.678141
+date: 2026-10-11T02:32:59.697673
 url: "/cdr-researcher-census/researchers/coralie-barth-jensen-a5026028/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Impact of aggregate‐colonizing copepods on the biological carbon pump in a high‐latitude fjord** (2024)
-   5 citations · General CDR
+   6 citations · General CDR
 
 ## External Profiles
 

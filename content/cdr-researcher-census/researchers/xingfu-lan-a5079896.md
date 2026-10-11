@@ -1,7 +1,7 @@
 ---
 title: "Xingfu Lan"
 description: "Xingfu Lan is a Mid-career Biochar researcher at Fujian Normal University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.287307
+date: 2026-10-11T02:33:00.317360
 url: "/cdr-researcher-census/researchers/xingfu-lan-a5079896/"
 layout: "researcher"
 hiddenInHomeList: true

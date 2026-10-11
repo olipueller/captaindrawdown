@@ -1,7 +1,7 @@
 ---
 title: "Mert Temiz"
 description: "Mert Temiz is a Mid-career General CDR researcher at Ontario Tech University in CA. With 43 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.232928
+date: 2026-10-11T02:32:59.236071
 url: "/cdr-researcher-census/researchers/mert-temiz-a5042223/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A new integrated system for carbon capture and clean hydrogen production for sustainable societal utilization** (2024)
-   8 citations · General CDR
+   9 citations · General CDR
 
 2. **A new carbon-negative hydrogen production cycle for better sustainability** (2024)
    3 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Alyson Silva de Araujo"
 description: "Alyson Silva de Araujo is a Mid-career Biochar researcher at Universidade de Brasília in BR. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.804502
+date: 2026-10-11T02:32:59.829319
 url: "/cdr-researcher-census/researchers/alyson-silva-de-araujo-a5069111/"
 layout: "researcher"
 hiddenInHomeList: true

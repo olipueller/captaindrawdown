@@ -1,7 +1,7 @@
 ---
 title: "Xianlin Ke"
 description: "Xianlin Ke is a Mid-career Biochar researcher at University of Copenhagen in DK. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.027637
+date: 2026-10-11T02:33:00.059012
 url: "/cdr-researcher-census/researchers/xianlin-ke-a5002678/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Dissolved organic matter (DOM) – Driven variations of cadmium mobility and bioavailability in waterlogged paddy soil** (2025)
-   36 citations
+   47 citations
 
 2. **Effects of 3-year biochar application on carbon sequestration, nitrogen retention and nitrate leaching of fluvo-aquic soil profiles in vegetable rotation fields** (2024)
-   29 citations · Biochar
+   32 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Ayman H. Mansee"
 description: "Ayman H. Mansee is a Senior Biochar researcher at Alexandria University in EG. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.869526
+date: 2026-10-11T02:32:59.896385
 url: "/cdr-researcher-census/researchers/ayman-h-mansee-a5000698/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Sustainable activated biochar as a high-performance adsorbent/filter for effective p-nitrophenol (PNP) sequestration from wastewater** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

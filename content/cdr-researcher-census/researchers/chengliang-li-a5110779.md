@@ -1,7 +1,7 @@
 ---
 title: "Chengliang Li"
 description: "Chengliang Li is a Senior Soil Carbon researcher at Soil and Fertilizer Institute of Hunan Province in CN. With 48 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.141791
+date: 2026-10-11T02:32:59.146044
 url: "/cdr-researcher-census/researchers/chengliang-li-a5110779/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,16 +48,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Straw returning combined with controlled-release nitrogen fertilizer affected organic carbon storage and crop yield by changing humic acid composition and aggregate distribution** (2023)
-   63 citations · Soil Carbon
+   66 citations · Soil Carbon
 
 2. **Aggregate stability and organic carbon stock under different land uses integrally regulated by binding agents and chemical properties in saline‐sodic soils** (2021)
-   63 citations · Soil Carbon
+   65 citations · Soil Carbon
 
 3. **Effects of straw returning combined with blended controlled-release urea fertilizer on crop yields, greenhouse gas emissions, and net ecosystem economic benefits: A nine-year field trial** (2024)
-   30 citations
+   35 citations
 
 4. **Microbial community structure in rhizosphere soil rather than that in bulk soil characterizes aggregate-associated organic carbon under long-term forest conversion in subtropical region** (2021)
    17 citations · Soil Carbon
+
+5. **Straw return combined with controlled-release urea enhances wheat yield and soil fertility by regulating soil organic carbon fractions: a 10-year field experiment** (2026)
+   0 citations
 
 ## External Profiles
 

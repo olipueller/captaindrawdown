@@ -1,7 +1,7 @@
 ---
 title: "R. Nandhakumar"
 description: "R. Nandhakumar is a Senior BECCS researcher at Tamil Nadu Agricultural University in IN. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.389961
+date: 2026-10-11T02:33:00.426774
 url: "/cdr-researcher-census/researchers/r-nandhakumar-a5101818/"
 layout: "researcher"
 hiddenInHomeList: true

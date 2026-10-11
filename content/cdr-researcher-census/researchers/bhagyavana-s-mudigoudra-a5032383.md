@@ -1,7 +1,7 @@
 ---
 title: "Bhagyavana S. Mudigoudra"
 description: "Bhagyavana S. Mudigoudra is a Mid-career Biochar researcher at Cluster University Srinagar in IN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.511334
+date: 2026-10-11T02:32:59.524777
 url: "/cdr-researcher-census/researchers/bhagyavana-s-mudigoudra-a5032383/"
 layout: "researcher"
 hiddenInHomeList: true

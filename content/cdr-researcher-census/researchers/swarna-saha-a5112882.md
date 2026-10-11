@@ -1,7 +1,7 @@
 ---
 title: "Swarna Saha"
 description: "Swarna Saha is a Mid-career Biochar researcher at Florida Institute of Technology in US. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.475210
+date: 2026-10-11T02:32:59.486416
 url: "/cdr-researcher-census/researchers/swarna-saha-a5112882/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Recent Progress on Emerging Applications of Hydrochar** (2022)
-   67 citations · Biochar
+   68 citations · Biochar
 
 ## External Profiles
 

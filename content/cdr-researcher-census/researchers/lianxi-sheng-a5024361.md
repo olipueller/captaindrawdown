@@ -1,7 +1,7 @@
 ---
 title: "Lianxi Sheng"
 description: "Lianxi Sheng is a Senior Soil Carbon researcher at Northeast Normal University in CN. With 107 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.061092
+date: 2026-10-11T02:32:59.065522
 url: "/cdr-researcher-census/researchers/lianxi-sheng-a5024361/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Purification mechanism of city tail water by constructed wetland substrate with NaOH-modified corn straw biochar** (2022)
-   65 citations · Biochar
+   64 citations · Biochar
 
 2. **Study on treatment of city tail water by constructed wetland with corn straw biochar substrate** (2022)
    42 citations · Biochar
@@ -66,7 +66,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    10 citations · Soil Carbon
 
 6. **Freeze-thaw carry-over effect promotes decomposition of recalcitrant carbon in peatlands by nitrogen limitation** (2025)
-   5 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 7. **Snow removal promotes microbial-mediated organic carbon stabilization within soil aggregates in a peatland of Northeast China** (2024)
    2 citations · Soil Carbon

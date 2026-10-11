@@ -1,7 +1,7 @@
 ---
 title: "Sayan Das"
 description: "Sayan Das is a Mid-career BECCS researcher at University of Maryland, Baltimore in US. With 33 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.676029
+date: 2026-10-11T02:32:59.695663
 url: "/cdr-researcher-census/researchers/sayan-das-a5074312/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Physicochemical characterization of biological and synthetic forms of two lipid A-based TLR4 agonists** (2023)
-   17 citations
+   18 citations
 
 2. **Development of a nano-emulsion based multivalent protein subunit vaccine against Pseudomonas aeruginosa** (2024)
-   8 citations
+   9 citations
 
 3. **BECC-engineered live-attenuated Shigella vaccine candidates display reduced endotoxicity with robust immunogenicity in mice** (2025)
    3 citations

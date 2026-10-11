@@ -1,7 +1,7 @@
 ---
 title: "Szu-Han Wang"
 description: "Szu-Han Wang is a Mid-career Biochar researcher at National Taiwan University in TW. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.502356
+date: 2026-10-11T02:32:59.514881
 url: "/cdr-researcher-census/researchers/szu-han-wang-a5101620/"
 layout: "researcher"
 hiddenInHomeList: true

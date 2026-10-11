@@ -1,7 +1,7 @@
 ---
 title: "Raphael Longuinhos"
 description: "Raphael Longuinhos is a Mid-career Biochar researcher at Universidade Federal de Lavras in BR. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.502959
+date: 2026-10-11T02:32:59.515477
 url: "/cdr-researcher-census/researchers/raphael-longuinhos-a5086115/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochars from modified sugarcane bagasse for manganese removal from mining effluents** (2023)
-   34 citations · Biochar
+   35 citations · Biochar
 
 2. **Influence of Mn precursor on pre-pyrolysis modification of sugarcane bagasse biochar for enhanced removal of 2,4-dichlorophenoxyacetic acid from aqueous solutions: Experimental and theoretical insights** (2024)
-   21 citations · Biochar
+   20 citations · Biochar
 
 ## External Profiles
 

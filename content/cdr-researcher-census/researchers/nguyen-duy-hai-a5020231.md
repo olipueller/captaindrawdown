@@ -1,7 +1,7 @@
 ---
 title: "Nguyen Duy Hai"
 description: "Nguyen Duy Hai is a Mid-career Biochar researcher at National Central University in TW. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.621050
+date: 2026-10-11T02:32:59.638700
 url: "/cdr-researcher-census/researchers/nguyen-duy-hai-a5020231/"
 layout: "researcher"
 hiddenInHomeList: true

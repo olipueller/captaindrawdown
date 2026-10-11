@@ -1,7 +1,7 @@
 ---
 title: "Xiangrui Xu"
 description: "Xiangrui Xu is a Senior Soil Carbon researcher at Changzhou City Planning and Design Institute in CN. With 34 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.215134
+date: 2026-10-11T02:32:59.219059
 url: "/cdr-researcher-census/researchers/xiangrui-xu-a5004366/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A systematic analysis and review of soil organic carbon stocks in urban greenspaces** (2024)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 2. **Biochar Application for Soil Carbon Sequestration and Greenhouse Gas Mitigation in Forest Ecosystems: A Bibliometric Analysis Using CiteSpace** (2025)
    0 citations · Biochar

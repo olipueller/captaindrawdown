@@ -1,7 +1,7 @@
 ---
 title: "Bing Jia"
 description: "Bing Jia is a Mid-career Soil Carbon researcher at Ministry of Education of the People's Republic of China in CN. With 26 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.443102
+date: 2026-10-11T02:32:59.453341
 url: "/cdr-researcher-census/researchers/bing-jia-a5102495/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic carbon distribution and multi-scale drivers in semi-arid alpine Regions: Implications for carbon storage function stability** (2025)
-   7 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 2. **Effects of ecological afforestation on soil inorganic carbon in arid region: a case study of desert margin in Alxa region, China** (2025)
    2 citations · Soil Carbon

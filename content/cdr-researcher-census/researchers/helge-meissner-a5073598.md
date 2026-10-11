@@ -1,7 +1,7 @@
 ---
 title: "Helge Meissner"
 description: "Helge Meissner is a Mid-career Soil Carbon researcher at Norwegian Institute of Bioeconomy Research in NO. With 18 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.221387
+date: 2026-10-11T02:33:00.251704
 url: "/cdr-researcher-census/researchers/helge-meissner-a5073598/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The fate of cover crop carbon inputs in a Norwegian soil** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

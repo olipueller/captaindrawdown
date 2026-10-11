@@ -1,7 +1,7 @@
 ---
 title: "Soumen Mandal"
 description: "Soumen Mandal is a Senior Biochar researcher at Hanyang University in KR. With 50 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.184901
+date: 2026-10-11T02:32:59.189118
 url: "/cdr-researcher-census/researchers/soumen-mandal-a5066774/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    17 citations · Biochar
 
 2. **Temperature-modulated surface features of neem seed biochar for sustainable thermal energy storage applications** (2026)
-   8 citations · Biochar
+   10 citations · Biochar
 
 3. **Optimizing ZnCl2-activated coffee ground biochar and MDEA for superior CO2 sequestration performance in sustainable cement mortar composites** (2026)
    1 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Jean-Christophe Mouny"
 description: "Jean-Christophe Mouny is a Mid-career Soil Carbon researcher. With 8 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.127406
+date: 2026-10-11T02:33:00.157606
 url: "/cdr-researcher-census/researchers/jean-christophe-mouny-a5077136/"
 layout: "researcher"
 hiddenInHomeList: true

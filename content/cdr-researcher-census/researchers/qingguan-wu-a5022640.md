@@ -1,7 +1,7 @@
 ---
 title: "Qingguan Wu"
 description: "Qingguan Wu is a Mid-career Soil Carbon researcher at University of Wisconsin–Madison in US. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.795990
+date: 2026-10-11T02:32:59.819558
 url: "/cdr-researcher-census/researchers/qingguan-wu-a5022640/"
 layout: "researcher"
 hiddenInHomeList: true

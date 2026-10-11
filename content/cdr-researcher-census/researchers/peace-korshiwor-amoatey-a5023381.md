@@ -1,7 +1,7 @@
 ---
 title: "Peace Korshiwor Amoatey"
 description: "Peace Korshiwor Amoatey is a Mid-career Biochar researcher at University of Ghana in GH. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.342457
+date: 2026-10-11T02:33:00.377252
 url: "/cdr-researcher-census/researchers/peace-korshiwor-amoatey-a5023381/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Impact of Biochar Application on Soil Physical and Biogeochemical Characteristics: A Review** (2025)
-   8 citations · Biochar
+   10 citations · Biochar
 
 2. **Short‐Term Alteration of Soil Physicochemical Characteristics Induced by Biochar Application on a <i>Ferric Acrisol</i>** (2025)
-   2 citations · Biochar
+   5 citations · Biochar
 
 3. **Investigating the use of dual-stage filtration system for E. coli removal in wastewater** (2025)
    0 citations

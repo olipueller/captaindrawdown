@@ -1,7 +1,7 @@
 ---
 title: "Weibo Shen"
 description: "Weibo Shen is a Senior Biochar researcher at Institute of Soil and Water Conservation in CN. With 37 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.290931
+date: 2026-10-11T02:32:59.295308
 url: "/cdr-researcher-census/researchers/weibo-shen-a5028717/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Recovery of phosphate from aqueous solution by dewatered dry sludge biochar and its feasibility in fertilizer use** (2021)
-   71 citations · Biochar
+   70 citations · Biochar
 
 2. **Critical role of mid-elevation in microbial regulation of soil carbon dynamics on the southern foothills of the Qinling Mountains** (2025)
-   2 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

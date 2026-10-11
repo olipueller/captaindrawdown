@@ -1,7 +1,7 @@
 ---
 title: "Shuihong Yao"
 description: "Shuihong Yao is a Senior Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 52 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.177136
+date: 2026-10-11T02:32:59.181182
 url: "/cdr-researcher-census/researchers/shuihong-yao-a5035039/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Responses of soil mineral-associated and particulate organic carbon to carbon input: A meta-analysis** (2022)
-   104 citations · Soil Carbon
+   106 citations · Soil Carbon
 
 2. **Soil organic carbon increase via microbial assimilation or soil protection against the priming effect is mediated by the availability of soil N relative to input C** (2024)
-   36 citations · Soil Carbon
+   39 citations · Soil Carbon
 
-3. **Straw chemistry overrides microbial and environmental controls on straw decomposition in high-latitude mollisols** (2026)
+3. **Mineralization of Soil Organic Carbon and Its Control Mechanisms Under Different Tea Plantations in Southwest Yunnan, China** (2025)
+   1 citations · Soil Carbon
+
+4. **Straw chemistry overrides microbial and environmental controls on straw decomposition in high-latitude mollisols** (2026)
    0 citations
-
-4. **Mineralization of Soil Organic Carbon and Its Control Mechanisms Under Different Tea Plantations in Southwest Yunnan, China** (2025)
-   0 citations · Soil Carbon
 
 ## External Profiles
 

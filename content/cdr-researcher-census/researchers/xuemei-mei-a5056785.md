@@ -1,7 +1,7 @@
 ---
 title: "Xuemei Mei"
 description: "Xuemei Mei is a Mid-career Soil Carbon researcher at Zhengzhou University in CN. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.715108
+date: 2026-10-11T02:32:59.736189
 url: "/cdr-researcher-census/researchers/xuemei-mei-a5056785/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of afforestation and upslope distance on soil moisture and organic carbon, and trade-off between them, on the Loess Plateau hillslopes** (2023)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 2. **Effects of vegetation restoration on deep soil carbon sequestration and its controlling mechanisms on the Loess Plateau** (2026)
    0 citations · Soil Carbon

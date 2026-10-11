@@ -1,7 +1,7 @@
 ---
 title: "Yongen Min"
 description: "Yongen Min is a Mid-career Soil Carbon researcher at Northeast Normal University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.236588
+date: 2026-10-11T02:33:00.266811
 url: "/cdr-researcher-census/researchers/yongen-min-a5074810/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    18 citations · Soil Carbon
 
 2. **Freeze-thaw carry-over effect promotes decomposition of recalcitrant carbon in peatlands by nitrogen limitation** (2025)
-   5 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 ## External Profiles
 

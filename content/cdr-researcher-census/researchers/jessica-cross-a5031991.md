@@ -1,7 +1,7 @@
 ---
 title: "Jessica Cross"
 description: "Jessica Cross is a Senior Ocean CDR researcher at Pacific Northwest National Laboratory in US. With 104 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.067747
+date: 2026-10-11T02:32:59.072295
 url: "/cdr-researcher-census/researchers/jessica-cross-a5031991/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,31 +45,31 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 27 |
 | Citations | 3,718 |
 | Publications | 104 |
-| CDR Focus | 11.5% |
+| CDR Focus | 12.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Simulated Impact of Ocean Alkalinity Enhancement on Atmospheric CO<sub>2</sub> Removal in the Bering Sea** (2022)
-   101 citations · General CDR
+   102 citations · General CDR
 
 2. **The Science We Need to Assess Marine Carbon Dioxide Removal** (2023)
    19 citations · General CDR
 
 3. **Regional ocean biogeochemical modeling challenges for predicting the effectiveness of marine carbon dioxide removal** (2025)
-   4 citations · General CDR
+   6 citations · General CDR
 
 4. **Towards Marine Carbon Dioxide Removal (mCDR) Centers of Excellence** (2024)
    2 citations · DAC
 
-5. **Hybrid-Energy-Powered Electrochemical Ocean Alkalinity Enhancement Model: Plant Operation, Cost, and Profitability** (2026)
+5. **A decade of marine inorganic carbon chemistry observations in the northern Gulf of Alaska – insights into an environment in transition** (2024)
+   2 citations · Ocean CDR
+
+6. **Hybrid-Energy-Powered Electrochemical Ocean Alkalinity Enhancement Model: Plant Operation, Cost, and Profitability** (2026)
    1 citations · General CDR
 
-6. **Marine carbon dioxide removal (mCDR) test site needs: A joint PNNL-PMEL workshop report** (2023)
+7. **Marine carbon dioxide removal (mCDR) test site needs: A joint PNNL-PMEL workshop report** (2023)
    1 citations · General CDR
-
-7. **A decade of marine inorganic carbon chemistry observations in the northern Gulf of Alaska – insights into an environment in transition** (2024)
-   1 citations · Ocean CDR
 
 8. **A decade of marine inorganic carbon chemistry observations in the northern Gulf of Alaska – Insights to an environment in transition** (2023)
    1 citations · Ocean CDR

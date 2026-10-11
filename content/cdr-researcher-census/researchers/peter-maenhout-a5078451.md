@@ -1,7 +1,7 @@
 ---
 title: "Peter Maenhout"
 description: "Peter Maenhout is a Mid-career Soil Carbon researcher at Vlaams Instituut voor Biotechnologie in BE. With 36 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.689627
+date: 2026-10-11T02:32:59.709983
 url: "/cdr-researcher-census/researchers/peter-maenhout-a5078451/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Trade‐offs and synergies of soil carbon sequestration: Addressing knowledge gaps related to soil management strategies** (2024)
-   39 citations · General CDR
+   41 citations · General CDR
 
 2. **Do Soil Microbes Drive the Trade-Off Between C Sequestration and Non-CO2 GHG Emissions in EU Agricultural Soils? A Systematic Review** (2025)
    3 citations · General CDR

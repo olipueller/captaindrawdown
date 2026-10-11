@@ -1,7 +1,7 @@
 ---
 title: "Caiting Wang"
 description: "Caiting Wang is a Mid-career Biochar researcher at Anhui University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.794881
+date: 2026-10-11T02:32:59.818430
 url: "/cdr-researcher-census/researchers/caiting-wang-a5085177/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar-mediated reduction of m-nitrotoluene: Interaction between reduction of m-nitrotoluene and sequestration of contaminants** (2021)
-   13 citations · Biochar
+   14 citations · Biochar
 
 ## External Profiles
 

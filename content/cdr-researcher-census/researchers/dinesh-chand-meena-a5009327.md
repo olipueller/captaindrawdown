@@ -1,7 +1,7 @@
 ---
 title: "Dinesh Chand Meena"
 description: "Dinesh Chand Meena is a Mid-career Soil Carbon researcher at Indian Council of Agricultural Research in IN. With 41 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.000264
+date: 2026-10-11T02:33:00.031213
 url: "/cdr-researcher-census/researchers/dinesh-chand-meena-a5009327/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,16 +54,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    14 citations · General CDR
 
 2. **Trade-offs and synergies in agroecosystem services with organic and integrated nutrient management in South Asian agri-food systems: Evidence from a meta-analysis** (2026)
-   9 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 3. **Harnessing potential of legumes for sustainable intensification of Indian agriculture** (2023)
-   4 citations · General CDR
+   5 citations · General CDR
 
 4. **Soil carbon sequestration potential of different land use systems: evidence from sub-humid southern plains and Aravalli hills of Rajasthan, India** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 5. **Biostimulants for sustainable transformation of agri-food production system: evidence from field experiments** (2026)
-   1 citations
+   2 citations
 
 6. **Biostimulants for sustainable transformation of agri-food production system: evidence from field experiments** (2026)
    0 citations · Soil Carbon

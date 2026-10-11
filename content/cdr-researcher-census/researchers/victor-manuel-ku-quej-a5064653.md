@@ -1,7 +1,7 @@
 ---
 title: "Víctor Manuel Kú-Quej"
 description: "Víctor Manuel Kú-Quej is a Mid-career Soil Carbon researcher at Autonomous University of Campeche in MX. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.260921
+date: 2026-10-11T02:32:59.264826
 url: "/cdr-researcher-census/researchers/victor-manuel-ku-quej-a5064653/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Carbon balance of tropical semi-evergreen forests along a secondary succession in the Yucatan Peninsula, Mexico** (2026)
-   0 citations
+1. **Organic carbon stock between different grain sizes in Arenosols from the coastal dunes of Campeche Bay, Mexico** (2025)
+   1 citations · Soil Carbon
 
-2. **Organic carbon stock between different grain sizes in Arenosols from the coastal dunes of Campeche Bay, Mexico** (2025)
-   0 citations · Soil Carbon
+2. **Carbon balance of tropical semi-evergreen forests along a secondary succession in the Yucatan Peninsula, Mexico** (2026)
+   0 citations
 
 ## External Profiles
 

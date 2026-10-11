@@ -1,7 +1,7 @@
 ---
 title: "Bing Wang"
 description: "Bing Wang is a Mid-career Biochar researcher at Shanxi Medical University in CN. With 62 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.269399
+date: 2026-10-11T02:32:59.273350
 url: "/cdr-researcher-census/researchers/bing-wang-a5100382/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Liquid-solid ratio during hydrothermal carbonization affects hydrochar application potential in soil: Based on characteristics comparison and economic benefit analysis** (2023)
-   39 citations · Biochar
+   42 citations · Biochar
 
 2. **Protection mechanisms and influencing factors of soil organic carbon pools in the Larix gmelinii forests** (2023)
-   10 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 3. **Analysis of economic and environmental benefits of agricultural straw preparation for biochar returned to the field: A case study at the county scale in China** (2025)
-   1 citations · Biochar
+   2 citations · Biochar
 
 4. **Hydrochar prepared from aquatic and terrestrial biomass: Comparative analysis of characteristics and applications** (2025)
    0 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Bowen Song"
 description: "Bowen Song is a Mid-career Soil Carbon researcher at Nano Carbon (Poland) in PL. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.074716
+date: 2026-10-11T02:33:00.105089
 url: "/cdr-researcher-census/researchers/bowen-song-a5081544/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Distribution Patterns of Humus and Mineral Composition in Dark-Brown, Meadow, and Paddy Soils in Northeast China** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 ## External Profiles
 

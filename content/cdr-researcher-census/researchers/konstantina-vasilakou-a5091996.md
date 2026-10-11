@@ -1,7 +1,7 @@
 ---
 title: "Konstantina Vasilakou"
 description: "Konstantina Vasilakou is an Early-career Enhanced Weathering researcher at University of Antwerp in BE. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.350014
+date: 2026-10-11T02:33:00.384976
 url: "/cdr-researcher-census/researchers/konstantina-vasilakou-a5091996/"
 layout: "researcher"
 hiddenInHomeList: true

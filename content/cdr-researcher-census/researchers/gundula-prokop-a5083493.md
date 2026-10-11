@@ -1,7 +1,7 @@
 ---
 title: "Gundula Prokop"
 description: "Gundula Prokop is a Senior Soil Carbon researcher at Environment Agency Austria in AT. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.745498
+date: 2026-10-11T02:32:59.767767
 url: "/cdr-researcher-census/researchers/gundula-prokop-a5083493/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Impact of Soil Sealing on Soil Carbon Sequestration, Water Storage Potentials and Biomass Productivity in Functional Urban Areas of the European Union and the United Kingdom** (2022)
-   19 citations · General CDR
+   21 citations · General CDR
 
 ## External Profiles
 

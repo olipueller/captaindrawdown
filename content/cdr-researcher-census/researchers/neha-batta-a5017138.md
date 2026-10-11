@@ -1,7 +1,7 @@
 ---
 title: "Neha Batta"
 description: "Neha Batta is a Mid-career Biochar researcher. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.743416
+date: 2026-10-11T02:32:59.765801
 url: "/cdr-researcher-census/researchers/neha-batta-a5017138/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Daphne López-Marcos"
 description: "Daphne López-Marcos is a Mid-career Soil Carbon researcher at Universidad de Valladolid in ES. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.987842
+date: 2026-10-11T02:33:00.018618
 url: "/cdr-researcher-census/researchers/daphne-lopez-marcos-a5078008/"
 layout: "researcher"
 hiddenInHomeList: true

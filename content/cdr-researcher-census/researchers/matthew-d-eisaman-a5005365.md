@@ -1,7 +1,7 @@
 ---
 title: "Matthew D. Eisaman"
 description: "Matthew D. Eisaman is a Senior Ocean CDR researcher at Yale University in US. With 113 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.048136
+date: 2026-10-11T02:32:59.051867
 url: "/cdr-researcher-census/researchers/matthew-d-eisaman-a5005365/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,34 +51,34 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Assessing the technical aspects of ocean-alkalinity-enhancement approaches** (2023)
-   113 citations · General CDR
+   126 citations · General CDR
 
 2. **Simulated Impact of Ocean Alkalinity Enhancement on Atmospheric CO<sub>2</sub> Removal in the Bering Sea** (2022)
-   101 citations · General CDR
+   102 citations · General CDR
 
 3. **An assessment of ocean alkalinity enhancement using aqueous hydroxides: kinetics, efficiency, and precipitation thresholds** (2024)
-   36 citations · Ocean CDR
+   43 citations · Ocean CDR
 
 4. **Pathways for marine carbon dioxide removal using electrochemical acid-base generation** (2024)
-   26 citations · General CDR
+   28 citations · General CDR
 
 5. **Assessing technical aspects of ocean alkalinity enhancement approaches** (2023)
    23 citations · General CDR
 
 6. **Mixing and dilution controls on marine CO<sub>2</sub> removal using alkalinity enhancement** (2024)
-   18 citations · Ocean CDR
+   19 citations · Ocean CDR
 
 7. **Using magnesium hydroxide for ocean alkalinity enhancement: elucidating the role of formation conditions on material properties and dissolution kinetics** (2025)
-   7 citations · Ocean CDR
+   9 citations · Ocean CDR
 
-8. **Biological response of eelgrass epifauna, Taylor’s sea hare (Phyllaplysia taylori) and eelgrass isopod (Idotea resecata), to elevated ocean alkalinity** (2024)
+8. **Biological response of eelgrass epifauna, Taylor's Sea hare ( <i>Phyllaplysia taylori</i> ) and eelgrass isopod ( <i>Idotea resecata</i> ), to elevated ocean alkalinity** (2025)
+   8 citations · Ocean CDR
+
+9. **Biological response of eelgrass epifauna, Taylor’s sea hare (Phyllaplysia taylori) and eelgrass isopod (Idotea resecata), to elevated ocean alkalinity** (2024)
    6 citations · Ocean CDR
 
-9. **A comprehensive assessment of electrochemical ocean alkalinity enhancement in seawater: kinetics, efficiency, and precipitation thresholds** (2024)
+10. **A comprehensive assessment of electrochemical ocean alkalinity enhancement in seawater: kinetics, efficiency, and precipitation thresholds** (2024)
    6 citations · General CDR
-
-10. **Biological response of eelgrass epifauna, Taylor's Sea hare ( <i>Phyllaplysia taylori</i> ) and eelgrass isopod ( <i>Idotea resecata</i> ), to elevated ocean alkalinity** (2025)
-   2 citations · Ocean CDR
 
 ## External Profiles
 

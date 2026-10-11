@@ -1,7 +1,7 @@
 ---
 title: "Battuya Byambaa"
 description: "Battuya Byambaa is a Mid-career Biochar researcher at Seoul National University of Science and Technology in KR. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.952287
+date: 2026-10-11T02:32:59.983057
 url: "/cdr-researcher-census/researchers/battuya-byambaa-a5031577/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Insight into disparate nonradical mechanisms of peroxymonosulfate and peroxydisulfate activation by N-doped oxygen-rich biochar: Unraveling the role of active sites** (2023)
-   40 citations · Biochar
+   41 citations · Biochar
 
 ## External Profiles
 

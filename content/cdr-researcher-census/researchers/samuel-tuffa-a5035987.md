@@ -1,7 +1,7 @@
 ---
 title: "Samuel Tuffa"
 description: "Samuel Tuffa is a Mid-career Soil Carbon researcher at Ethiopian Institute of Agricultural Research in ET. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.330253
+date: 2026-10-11T02:33:00.363858
 url: "/cdr-researcher-census/researchers/samuel-tuffa-a5035987/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon Stock and Change Rate under Different Grazing Management Practices in Semiarid Pastoral Ecosystem of Eastern Ethiopia** (2022)
-   15 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 ## External Profiles
 

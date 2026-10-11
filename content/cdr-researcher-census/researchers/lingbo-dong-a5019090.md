@@ -1,7 +1,7 @@
 ---
 title: "Lingbo Dong"
 description: "Lingbo Dong is a Senior Soil Carbon researcher at Oregon State University in US. With 149 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.113250
+date: 2026-10-11T02:32:59.117888
 url: "/cdr-researcher-census/researchers/lingbo-dong-a5019090/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    74 citations · Soil Carbon
 
 2. **Forests have a higher soil C sequestration benefit due to lower C mineralization efficiency: Evidence from the central loess plateau case** (2022)
-   68 citations
+   72 citations
 
 3. **Inorganic Carbon Should Be Considered for Carbon Sequestration in Agricultural Soils** (2025)
-   44 citations · Soil Carbon
+   49 citations · Soil Carbon
 
 4. **Dynamics of litter decomposition rate and soil organic carbon sequestration following vegetation succession on the Loess Plateau, China** (2023)
    44 citations · Soil Carbon
@@ -66,16 +66,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    42 citations · Soil Carbon
 
 6. **Appropriate N addition improves soil aggregate stability through<scp>AMF</scp>and glomalin‐related soil proteins in a semiarid agroecosystem** (2022)
-   34 citations · Soil Carbon
+   37 citations · Soil Carbon
 
 7. **The contributions of stand characteristics on carbon sequestration potential are triple that of climate variables for Larix spp. plantations in northeast China** (2023)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 8. **Factors driving carbon accumulation in forest biomass and soil organic carbon across natural forests and planted forests in China** (2024)
-   23 citations · General CDR
+   24 citations · General CDR
 
 9. **Vegetation restoration in the coarse‐textured soil area is more conducive to the accumulation of Fe‐associated C** (2024)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 10. **Variations on the maximum density-size lines to climate and site factors for Larix spp. plantations in northeast China** (2024)
    6 citations

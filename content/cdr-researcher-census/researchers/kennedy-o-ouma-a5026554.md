@@ -1,7 +1,7 @@
 ---
 title: "Kennedy O. Ouma"
 description: "Kennedy O. Ouma is a Mid-career General CDR researcher at Copperbelt University in ZM. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.556320
+date: 2026-10-11T02:32:59.571426
 url: "/cdr-researcher-census/researchers/kennedy-o-ouma-a5026554/"
 layout: "researcher"
 hiddenInHomeList: true

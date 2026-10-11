@@ -1,7 +1,7 @@
 ---
 title: "Bofu Zheng"
 description: "Bofu Zheng is a Senior Soil Carbon researcher at Ministry of Natural Resources and Environment in RU. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.586579
+date: 2026-10-11T02:32:59.603182
 url: "/cdr-researcher-census/researchers/bofu-zheng-a5102151/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,10 +57,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    35 citations · Soil Carbon
 
 3. **Spatial heterogeneity of natural and socio-economic features shape that of ecosystem services. A large-scale study on the Yangtze River economic Belt, China** (2024)
-   26 citations · General CDR
+   28 citations · General CDR
 
 4. **Drought diminishes ecosystem service supply and exacerbates trade-offs in the Yangtze River Economic Belt** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 5. **Shifting patterns of ecosystem service trade-offs and synergies: Evidence from the Yangtze River Economic Belt, China** (2025)
    2 citations

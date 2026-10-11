@@ -1,7 +1,7 @@
 ---
 title: "Abba Paltahe"
 description: "Abba Paltahe is a Mid-career Biochar researcher at University of Maroua in CM. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.218889
+date: 2026-10-11T02:33:00.249230
 url: "/cdr-researcher-census/researchers/abba-paltahe-a5110162/"
 layout: "researcher"
 hiddenInHomeList: true

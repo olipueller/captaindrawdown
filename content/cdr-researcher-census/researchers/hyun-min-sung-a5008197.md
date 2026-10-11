@@ -1,7 +1,7 @@
 ---
 title: "Hyun Min Sung"
 description: "Hyun Min Sung is a Mid-career General CDR researcher at Korea Meteorological Administration in KR. With 35 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.641960
+date: 2026-10-11T02:32:59.660379
 url: "/cdr-researcher-census/researchers/hyun-min-sung-a5008197/"
 layout: "researcher"
 hiddenInHomeList: true

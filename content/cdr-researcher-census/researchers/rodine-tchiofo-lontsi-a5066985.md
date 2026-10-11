@@ -1,7 +1,7 @@
 ---
 title: "Rodine Tchiofo Lontsi"
 description: "Rodine Tchiofo Lontsi is a Mid-career Soil Carbon researcher at Institute of Forest Ecology, Environment and Protection in CN. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.359115
+date: 2026-10-11T02:33:00.393893
 url: "/cdr-researcher-census/researchers/rodine-tchiofo-lontsi-a5066985/"
 layout: "researcher"
 hiddenInHomeList: true

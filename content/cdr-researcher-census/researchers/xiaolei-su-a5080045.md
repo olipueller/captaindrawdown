@@ -1,7 +1,7 @@
 ---
 title: "Xiaolei Su"
 description: "Xiaolei Su is a Mid-career Soil Carbon researcher at Southwest University in CN. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.488799
+date: 2026-10-11T02:32:59.500737
 url: "/cdr-researcher-census/researchers/xiaolei-su-a5080045/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Evaluating soil dissolved organic matter as a proxy for soil organic matter properties across diverse ecosystems** (2025)
-   35 citations · Soil Carbon
+   40 citations · Soil Carbon
 
 2. **Does greater molecular diversity in soil organic matter imply greater persistence: Insights from molecular and multi-property analyses in Western China** (2025)
-   9 citations
+   10 citations
 
 3. **Ecosystem-specific patterns in soil dissolved organic matter (DOM) biodegradability: validated by a multi-property persistence index (PI) for linking DOM and soil organic matter (SOM) intrinsic characteristics** (2026)
    0 citations · Soil Carbon

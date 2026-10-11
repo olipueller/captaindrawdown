@@ -1,7 +1,7 @@
 ---
 title: "Rongrong Miao"
 description: "Rongrong Miao is a Senior Biochar researcher at Kunming University of Science and Technology in CN. With 55 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.163172
+date: 2026-10-11T02:32:59.167165
 url: "/cdr-researcher-census/researchers/rongrong-miao-a5003865/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    59 citations · Biochar
 
 2. **Mn-embedded porous rubber seed shell biochar for enhanced removal of copper ions and catalytic efficacy of the used adsorbent for hydrogenation of furfural** (2022)
-   30 citations · Biochar
+   32 citations · Biochar
 
 3. **Sludge-derived biochar applied in peroxymonosulfate (PMS) activation: Regulation of active sites and synergistic production of reaction oxygen species** (2025)
-   14 citations · Biochar
+   16 citations · Biochar
 
 4. **Mn-Embedded Porous Rubber Seed Shell Biochar for Enhanced Removal of Copper Ions and its Ingeniously Re-Functionalizing** (2022)
    3 citations · Biochar

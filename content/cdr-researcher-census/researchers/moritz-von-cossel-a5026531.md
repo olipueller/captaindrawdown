@@ -1,7 +1,7 @@
 ---
 title: "Moritz von Cossel"
 description: "Moritz von Cossel is a Senior Soil Carbon researcher at University of Hohenheim in DE. With 96 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.150194
+date: 2026-10-11T02:32:59.154463
 url: "/cdr-researcher-census/researchers/moritz-von-cossel-a5026531/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Perennial biomass cropping and use: Shaping the policy ecosystem in European countries** (2023)
-   55 citations · BECCS
+   56 citations · BECCS
 
 2. **Valorisation of marginal agricultural land in the bioeconomy** (2023)
-   6 citations · General CDR
+   7 citations · General CDR
 
 3. **Biochar and carbon variations across diverse industrial crops and cultivated wild plant species: implications for flexible biomass supply chains and Biochar Carbon Removals** (2026)
    0 citations · Biochar

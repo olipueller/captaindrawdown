@@ -1,7 +1,7 @@
 ---
 title: "Juraj Priščák"
 description: "Juraj Priščák is a Mid-career BECCS researcher at BEST - Bioenergy and Sustainable Technologies (Austria) in AT. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.064799
+date: 2026-10-11T02:33:00.094973
 url: "/cdr-researcher-census/researchers/juraj-priscak-a5028699/"
 layout: "researcher"
 hiddenInHomeList: true

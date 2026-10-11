@@ -1,7 +1,7 @@
 ---
 title: "Petteri Peltola"
 description: "Petteri Peltola is a Senior General CDR researcher at VTT Technical Research Centre of Finland in FI. With 26 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.352303
+date: 2026-10-11T02:32:59.358651
 url: "/cdr-researcher-census/researchers/petteri-peltola-a5007939/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Novel BECCS implementation integrating chemical looping combustion with oxygen uncoupling and a kraft pulp mill cogeneration plant** (2023)
-   8 citations · BECCS
+   10 citations · BECCS
 
 2. **Electrochemical approaches for direct ocean capture of CO2: Status, challenges, and future perspectives** (2026)
    0 citations · General CDR

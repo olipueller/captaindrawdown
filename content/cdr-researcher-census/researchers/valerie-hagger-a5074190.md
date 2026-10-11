@@ -1,7 +1,7 @@
 ---
 title: "Valerie Hagger"
 description: "Valerie Hagger is a Mid-career Soil Carbon researcher at The University of Queensland in AU. With 38 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.154084
+date: 2026-10-11T02:32:59.158374
 url: "/cdr-researcher-census/researchers/valerie-hagger-a5074190/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **An Australian blue carbon method to estimate climate change mitigation benefits of coastal wetland restoration** (2022)
-   155 citations · General CDR
+   158 citations · General CDR
 
 2. **Opportunities for coastal wetland restoration for blue carbon with co-benefits for biodiversity, coastal fisheries, and water quality** (2022)
-   111 citations · Soil Carbon
+   112 citations · Soil Carbon
 
 3. **Opportunities for blue carbon restoration projects in degraded agricultural land of the coastal zone in Queensland, Australia** (2023)
-   22 citations · General CDR
+   21 citations · General CDR
 
 ## External Profiles
 

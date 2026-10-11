@@ -1,7 +1,7 @@
 ---
 title: "Emily E. Oldfield"
 description: "Emily E. Oldfield is a Senior General CDR researcher at Environmental Defense Fund in US. With 57 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.068017
+date: 2026-10-11T02:32:59.072585
 url: "/cdr-researcher-census/researchers/emily-e-oldfield-a5059752/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Crediting agricultural soil carbon sequestration** (2022)
-   211 citations · General CDR
+   214 citations · General CDR
 
 2. **Soil organic matter protects US maize yields and lowers crop insurance payouts under drought** (2021)
-   125 citations
+   124 citations
 
 3. **The need for knowledge transfer and communication among stakeholders in the voluntary carbon market** (2022)
    28 citations · General CDR
@@ -63,13 +63,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    24 citations · General CDR
 
 5. **Climate mitigation through soil amendments: quantification, evidence, and uncertainty** (2023)
-   20 citations · General CDR
+   19 citations · General CDR
 
-6. **Expert elicitation on agricultural enhanced weathering highlights CO2 removal potential and uncertainties in loss pathways** (2025)
+6. **Expert elicitation on agricultural enhanced weathering reveals carbon dioxide removal potential and uncertainties in loss pathways** (2026)
+   5 citations · Enhanced Weathering
+
+7. **Expert elicitation on agricultural enhanced weathering highlights CO2 removal potential and uncertainties in loss pathways** (2025)
    3 citations · Enhanced Weathering
-
-7. **Expert elicitation on agricultural enhanced weathering reveals carbon dioxide removal potential and uncertainties in loss pathways** (2026)
-   2 citations · Enhanced Weathering
 
 8. **The impact of enhanced rock weathering on soil organic carbon** (2026)
    0 citations · Enhanced Weathering

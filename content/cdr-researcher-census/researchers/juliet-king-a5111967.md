@@ -1,7 +1,7 @@
 ---
 title: "Juliet King"
 description: "Juliet King is a Senior Soil Carbon researcher at Save the Elephants in KE. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.437735
+date: 2026-10-11T02:32:59.447993
 url: "/cdr-researcher-census/researchers/juliet-king-a5111967/"
 layout: "researcher"
 hiddenInHomeList: true

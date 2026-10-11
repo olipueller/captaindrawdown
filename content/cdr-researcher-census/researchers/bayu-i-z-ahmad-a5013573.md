@@ -1,7 +1,7 @@
 ---
 title: "Bayu I. Z. Ahmad"
 description: "Bayu I. Z. Ahmad is an Early-career General CDR researcher at Cornell University in US. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.348688
+date: 2026-10-11T02:33:00.383781
 url: "/cdr-researcher-census/researchers/bayu-i-z-ahmad-a5013573/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,9 +48,12 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Dynamic Evolution from Single-Atom Catalysts to Active Nanograins for CO<sub>2</sub> Reduction** (2025)
-   25 citations · General CDR
+   27 citations · General CDR
 
 2. **A Fully Light-Driven Approach to Separate Carbon Dioxide from Emission Streams** (2024)
+   7 citations
+
+3. **A Fully Light-Driven Approach to Separate Carbon Dioxide from Emission Streams** (2024)
    0 citations
 
 ## External Profiles

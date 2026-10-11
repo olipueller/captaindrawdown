@@ -1,7 +1,7 @@
 ---
 title: "Xudong Wang"
 description: "Xudong Wang is a Senior Soil Carbon researcher at Sun Yat-sen University in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.424472
+date: 2026-10-11T02:32:59.434480
 url: "/cdr-researcher-census/researchers/xudong-wang-a5101979/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Managing trade-offs among yield, carbon, and nitrogen footprints of wheat-maize cropping system under straw mulching and N fertilizer application in China's Loess Plateau** (2025)
-   20 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 ## External Profiles
 

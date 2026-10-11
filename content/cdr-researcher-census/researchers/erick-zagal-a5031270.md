@@ -1,7 +1,7 @@
 ---
 title: "Erick Zagal"
 description: "Erick Zagal is a Senior Soil Carbon researcher at Universidad de Concepción in CL. With 139 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.079649
+date: 2026-10-11T02:32:59.084475
 url: "/cdr-researcher-census/researchers/erick-zagal-a5031270/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,10 +57,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · General CDR
 
 3. **How Natural Regeneration After Severe Disturbance Affects Ecosystem Services Provision of Andean Forest Soils at Contrasting Timescales** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 4. **Back to the future? Conservative grassland management can preserve soil health in the changing landscapes of Uruguay** (2023)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 5. **Soil Carbon Sequestration in Nothofagus obliqua Forests with Different Canopy Cover Levels Under Silvopastoral Management** (2025)
    1 citations · General CDR

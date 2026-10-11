@@ -1,7 +1,7 @@
 ---
 title: "Fanlong Kong"
 description: "Fanlong Kong is a Senior Soil Carbon researcher at Qingdao University in CN. With 95 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.091045
+date: 2026-10-11T02:32:59.095616
 url: "/cdr-researcher-census/researchers/fanlong-kong-a5101777/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    54 citations · Biochar
 
 2. **Plant invasion reshapes the latitudinal pattern of soil microbial necromass and its contribution to soil organic carbon in coastal wetlands** (2022)
-   42 citations · Soil Carbon
+   41 citations · Soil Carbon
 
 3. **In-situ removal of microcystin aeruginosa and microcystin-LR by biochar supported sulfide nZVI via persulfate activation: Performance, mechanism and degradation pathway** (2024)
-   16 citations · Biochar
+   17 citations · Biochar
 
 4. **Enhanced simultaneous removal of acetamiprid and cadmium from soil and water in paddy fields by Fe-Mn-BC ternary micro-electrolysis: Performance, mechanism and pathway** (2024)
    7 citations · Soil Carbon

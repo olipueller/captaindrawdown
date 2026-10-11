@@ -1,7 +1,7 @@
 ---
 title: "Łukasz Musielok"
 description: "Łukasz Musielok is a Mid-career Soil Carbon researcher at Jagiellonian University in PL. With 39 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.529570
+date: 2026-10-11T02:32:59.543598
 url: "/cdr-researcher-census/researchers/ukasz-musielok-a5078498/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    4 citations · Soil Carbon
 
 2. **Stabilization of organic matter in topsoils under different tundra vegetation in Central Spitsbergen (high Arctic)** (2026)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 3. **Soil type matters: forest succession and soil organic matter stability in the Gorce Mountains (S Poland)** (2026)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Yanping Liu"
 description: "Yanping Liu is a Senior Biochar researcher at Guizhou University of Finance and Economics in CN. With 38 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.443188
+date: 2026-10-11T02:32:59.453450
 url: "/cdr-researcher-census/researchers/yanping-liu-a5101920/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Efficient degradation of tetrabromobisphenol A using peroxymonosulfate oxidation activated by a novel nano-CuFe2O4@coconut shell biochar catalyst** (2023)
-   15 citations · Biochar
+   17 citations · Biochar
 
 2. **Structural equation modeling revealed optimized ridge-furrow configuration integrated with straw-soil crust enhancing carbon sequestration and sainfoin yield in semiarid agroecosystems** (2026)
    2 citations · Soil Carbon

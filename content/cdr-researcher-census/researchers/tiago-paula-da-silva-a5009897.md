@@ -1,7 +1,7 @@
 ---
 title: "Tiago Paula da Silva"
 description: "Tiago Paula da Silva is a Mid-career Soil Carbon researcher at Universidade Federal Rural do Rio de Janeiro in BR. With 37 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.205810
+date: 2026-10-11T02:33:00.235407
 url: "/cdr-researcher-census/researchers/tiago-paula-da-silva-a5009897/"
 layout: "researcher"
 hiddenInHomeList: true

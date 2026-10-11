@@ -1,7 +1,7 @@
 ---
 title: "Magdolna Makó"
 description: "Magdolna Makó is a Mid-career Biochar researcher at Ahmadu Bello University in NG. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.976803
+date: 2026-10-11T02:33:00.008587
 url: "/cdr-researcher-census/researchers/magdolna-mako-a5020154/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar application in organics and ultra-violet quenching substances removal from sludge dewatering leachate for algae production** (2021)
-   12 citations · Biochar
+   13 citations · Biochar
 
 ## External Profiles
 

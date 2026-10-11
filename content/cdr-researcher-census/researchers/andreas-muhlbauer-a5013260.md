@@ -1,7 +1,7 @@
 ---
 title: "Andreas Mühlbauer"
 description: "Andreas Mühlbauer is a Senior General CDR researcher at Stanford University in US. With 60 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.234487
+date: 2026-10-11T02:32:59.237889
 url: "/cdr-researcher-census/researchers/andreas-muhlbauer-a5013260/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,17 +53,17 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 1. **Proposing a 1.0°C climate target for a safer future** (2023)
    35 citations · General CDR
 
-2. **Assessment of technologies and economics for carbon dioxide removal from a portfolio perspective** (2025)
+2. **Energy, Health, and Climate Costs of Carbon-Capture and Direct-Air-Capture versus 100%-Wind-Water-Solar Climate Policies in 149 Countries** (2025)
+   32 citations · General CDR
+
+3. **Assessment of technologies and economics for carbon dioxide removal from a portfolio perspective** (2025)
    31 citations · DAC
 
-3. **Energy, Health, and Climate Costs of Carbon-Capture and Direct-Air-Capture versus 100%-Wind-Water-Solar Climate Policies in 149 Countries** (2025)
-   30 citations · General CDR
-
 4. **Analysis of production routes for silicon carbide using air as carbon source empowering negative emissions** (2024)
-   26 citations · DAC
+   27 citations · DAC
 
 5. **Techno-economic insights and deployment prospects of permanent carbon dioxide sequestration in solid carbonates** (2024)
-   25 citations · Enhanced Weathering
+   26 citations · Enhanced Weathering
 
 6. **Costs and benefits of afforestation with renewable electricity-based desalination: Case study for Egypt** (2025)
    5 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Jiehuizi Wen"
 description: "Jiehuizi Wen is an Early-career Biochar researcher at Sichuan University in CN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.374198
+date: 2026-10-11T02:33:00.409684
 url: "/cdr-researcher-census/researchers/jiehuizi-wen-a5109612/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **New insights into the green cement composites with low carbon footprint: The role of biochar as cement additive/alternative** (2023)
-   99 citations · Biochar
+   102 citations · Biochar
 
 2. **Integrated carbon sequestration: Upcycling waste biomass residue into dual-function composites for climate-resilient** (2026)
    0 citations

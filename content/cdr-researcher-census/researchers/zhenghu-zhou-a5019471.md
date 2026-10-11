@@ -1,7 +1,7 @@
 ---
 title: "Zhenghu Zhou"
 description: "Zhenghu Zhou is a Senior Soil Carbon researcher at Northeast Forestry University in CN. With 79 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.050800
+date: 2026-10-11T02:32:59.054761
 url: "/cdr-researcher-census/researchers/zhenghu-zhou-a5019471/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 33 |
 | Citations | 4,879 |
 | Publications | 79 |
-| CDR Focus | 7.6% |
+| CDR Focus | 8.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The biogeography of soil microbiome potential growth rates** (2024)
-   71 citations
+   72 citations
 
 2. **Carbon gain in upper but loss in deeper cropland soils across China over the last four decades** (2024)
-   47 citations · Soil Carbon
+   48 citations · Soil Carbon
 
 3. **Global distribution and predictors of the mineral-associated to total soil organic carbon ratio: an indicator of soil carbon stability** (2025)
    10 citations · Soil Carbon
@@ -63,21 +63,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    6 citations · Soil Carbon
 
 5. **Subsurface soil inorganic carbon gains offset half of surface losses in China’s upland croplands over the last four decades** (2026)
+   4 citations
+
+6. **Mixed Forestation Outperforms Pure Stands in Soil Carbon Sequestration and Stability** (2026)
+   2 citations · Soil Carbon
+
+7. **Metagenomic insights into the carbon decomposition of plant and microbial biomass in forests across biomes** (2025)
    2 citations
 
-6. **Metagenomic insights into the carbon decomposition of plant and microbial biomass in forests across biomes** (2025)
-   1 citations
-
-7. **Species compositions determine the ecosystem services of alternative forest transitions in the boreal‐temperate ecotone** (2026)
+8. **Species compositions determine the ecosystem services of alternative forest transitions in the boreal‐temperate ecotone** (2026)
    0 citations · Soil Carbon
 
-8. **Microbial life-history strategies regulate soil organic carbon formation and stability across soil depths during 300 years of the temperate forest succession** (2026)
+9. **Microbial life-history strategies regulate soil organic carbon formation and stability across soil depths during 300 years of the temperate forest succession** (2026)
    0 citations
 
-9. **Global patterns of tree diversity effects on soil respiration and their linkages to soil organic carbon** (2026)
-   0 citations · Soil Carbon
-
-10. **Mixed Forestation Outperforms Pure Stands in Soil Carbon Sequestration and Stability** (2026)
+10. **Global patterns of tree diversity effects on soil respiration and their linkages to soil organic carbon** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Yatong Ji"
 description: "Yatong Ji is a Mid-career Biochar researcher at Hangzhou Special Equipment Inspection and Research Institute in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.591342
+date: 2026-10-11T02:32:59.608183
 url: "/cdr-researcher-census/researchers/yatong-ji-a5057815/"
 layout: "researcher"
 hiddenInHomeList: true

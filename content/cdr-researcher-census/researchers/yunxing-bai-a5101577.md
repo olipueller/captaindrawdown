@@ -1,7 +1,7 @@
 ---
 title: "Yunxing Bai"
 description: "Yunxing Bai is a Mid-career Soil Carbon researcher at Guizhou University in CN. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.426468
+date: 2026-10-11T02:32:59.436465
 url: "/cdr-researcher-census/researchers/yunxing-bai-a5101577/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -59,14 +59,17 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Soil phosphorus compared to nitrogen limitation increases the uncertainty of subsoil organic carbon sequestration in Pinus massoniana mixed forests** (2024)
    7 citations · Soil Carbon
 
-4. **Grazing Intensity Alters Vertical Nutrient Stratification Through Plant–Soil Cascading Effects in Karst Grasslands of Southern Guizhou, China** (2025)
-   2 citations · Soil Carbon
+4. **Climate-mediated land use effects on soil organic carbon storage in karst ecosystems** (2025)
+   3 citations · Soil Carbon
 
-5. **Climate-mediated land use effects on soil organic carbon storage in karst ecosystems** (2025)
-   1 citations · Soil Carbon
+5. **Grazing Intensity Alters Vertical Nutrient Stratification Through Plant–Soil Cascading Effects in Karst Grasslands of Southern Guizhou, China** (2025)
+   2 citations · Soil Carbon
 
 6. **Litter mixing ratios alter humification in subtropical conifer–broadleaf plantations** (2026)
    0 citations
+
+7. **Mycorrhizal types of mixed tree species mediates soil carbon and nitrogen co-accumulation in mixed pine forests** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

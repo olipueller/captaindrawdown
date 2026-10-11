@@ -1,7 +1,7 @@
 ---
 title: "S Slezack"
 description: "S Slezack is a Senior Biochar researcher at Université de Lorraine in FR. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.726630
+date: 2026-10-11T02:32:59.747765
 url: "/cdr-researcher-census/researchers/s-slezack-a5111546/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Assessment of an NDL-PCBs Sequestration Strategy in Soil Using Contrasted Carbonaceous Materials through In Vitro and Cucurbita pepo Assays** (2022)
-   2 citations
+   3 citations
 
 2. **PIEGEAge des Composés Halogénés Lipophiles Organiques Rémanents (PIEGEACHLOR)** (2021)
    0 citations · Biochar

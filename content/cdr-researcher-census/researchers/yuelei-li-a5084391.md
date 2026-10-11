@@ -1,7 +1,7 @@
 ---
 title: "Yuelei Li"
 description: "Yuelei Li is a Senior Soil Carbon researcher at California Institute of Technology in US. With 56 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.174556
+date: 2026-10-11T02:32:59.178635
 url: "/cdr-researcher-census/researchers/yuelei-li-a5084391/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Artificial humic substances improve microbial activity for binding CO2** (2021)
-   62 citations · Soil Carbon
+   65 citations · Soil Carbon
 
 2. **Machine learning enhancing biochar abatement predictions: Advancing China climate goals for food production and promoting application** (2025)
-   4 citations · Biochar
+   5 citations · Biochar
 
 3. **Artificial Humic Substances Improve Microbial Activity for Binding CO &lt;sub&gt;2&lt;/sub&gt;** (2021)
    0 citations · Soil Carbon

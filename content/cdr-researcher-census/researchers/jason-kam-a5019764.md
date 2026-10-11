@@ -1,7 +1,7 @@
 ---
 title: "Jason Kam"
 description: "Jason Kam is a Senior BECCS researcher at University of Lincoln in GB. With 38 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.204400
+date: 2026-10-11T02:32:59.208686
 url: "/cdr-researcher-census/researchers/jason-kam-a5019764/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 
 ## Top CDR Publications
 
-1. **A parsimonious model for calculating the greenhouse gas emissions of miscanthus cultivation using current commercial practice in the United Kingdom** (2021)
-   20 citations · General CDR
+1. **Novel Miscanthus hybrids: Modelling productivity on marginal land in Europe using dynamics of canopy development determined by light interception** (2023)
+   20 citations · BECCS
 
-2. **Novel Miscanthus hybrids: Modelling productivity on marginal land in Europe using dynamics of canopy development determined by light interception** (2023)
-   19 citations · BECCS
+2. **A parsimonious model for calculating the greenhouse gas emissions of miscanthus cultivation using current commercial practice in the United Kingdom** (2021)
+   20 citations · General CDR
 
 3. **Expanding the <i>Miscanthus</i> market in the <scp>UK</scp>: Growers in profile and experience, benefits and drawbacks of the bioenergy crop** (2022)
    18 citations · BECCS

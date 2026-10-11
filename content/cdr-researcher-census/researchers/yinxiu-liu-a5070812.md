@@ -1,7 +1,7 @@
 ---
 title: "Yinxiu Liu"
 description: "Yinxiu Liu is an Early-career Soil Carbon researcher at Soil and Fertilizer Institute of Hunan Province in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.326552
+date: 2026-10-11T02:33:00.359162
 url: "/cdr-researcher-census/researchers/yinxiu-liu-a5070812/"
 layout: "researcher"
 hiddenInHomeList: true

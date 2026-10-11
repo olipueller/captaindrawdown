@@ -1,7 +1,7 @@
 ---
 title: "Kyle E. Hinson"
 description: "Kyle E. Hinson is a Mid-career Ocean CDR researcher at Pacific Northwest National Laboratory in US. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.649685
+date: 2026-10-11T02:32:59.668967
 url: "/cdr-researcher-census/researchers/kyle-e-hinson-a5045880/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 8 |
 | Citations | 341 |
 | Publications | 29 |
-| CDR Focus | 6.9% |
+| CDR Focus | 10.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Regional ocean biogeochemical modeling challenges for predicting the effectiveness of marine carbon dioxide removal** (2025)
-   4 citations · General CDR
+   6 citations · General CDR
 
 2. **Integrating laboratory-based secondary precipitation thresholds with ocean biogeochemistry models to advance ocean alkalinity enhancement decision-making** (2026)
    0 citations · Ocean CDR

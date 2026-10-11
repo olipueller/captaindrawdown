@@ -1,7 +1,7 @@
 ---
 title: "Luzhen Chen"
 description: "Luzhen Chen is a Senior Soil Carbon researcher at Xiamen University in CN. With 87 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.090557
+date: 2026-10-11T02:32:59.095099
 url: "/cdr-researcher-census/researchers/luzhen-chen-a5066225/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Blue carbon sequestration following mangrove restoration: evidence from a carbon neutral case in China** (2022)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
-2. **Changes in Mangrove Blue Carbon under Elevated Atmospheric CO <sub>2</sub>** (2023)
+2. **Blue carbon potential from rehabilitating urban mangrove forests in coastal city** (2025)
    9 citations · General CDR
 
-3. **Blue carbon potential from rehabilitating urban mangrove forests in coastal city** (2025)
-   8 citations · General CDR
+3. **Changes in Mangrove Blue Carbon under Elevated Atmospheric CO <sub>2</sub>** (2023)
+   9 citations · General CDR
 
 4. **Enhancing Carbon Storage in Mangrove Ecosystems of China through Sustainable Restoration and Aquaculture Actions** (2021)
-   8 citations · General CDR
+   9 citations · General CDR
 
 5. **Role of mangrove afforestation in the high saline zone of Bangladesh: Changes of carbon stock with stand age and species composition** (2024)
    6 citations · Soil Carbon
 
 6. **Interplay between saltmarsh carbon burial and lateral exchange in coastal wetlands: The role of biomorphodynamic feedback** (2025)
-   2 citations · General CDR
+   4 citations · General CDR
 
 7. **Carbon storage dynamics and growth modelling across tree growth classes in the Sundarbans mangrove plantations** (2026)
    0 citations

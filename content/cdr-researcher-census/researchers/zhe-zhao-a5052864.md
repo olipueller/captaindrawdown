@@ -1,7 +1,7 @@
 ---
 title: "Zhe Zhao"
 description: "Zhe Zhao is a Senior General CDR researcher at Taizhou University in CN. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.405992
+date: 2026-10-11T02:32:59.415031
 url: "/cdr-researcher-census/researchers/zhe-zhao-a5052864/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Global soil organic carbon changes and economic revenues with biochar application** (2021)
-   60 citations · Biochar
+   59 citations · Biochar
 
 2. **Temperature Changes Induced by Biogeochemical and Biophysical Effects of Bioenergy Crop Cultivation** (2023)
    17 citations · BECCS
+
+3. **Forest Carbon Exchange Dynamics and Integrated Carbon Budget of a Subtropical Island Ecosystem** (2026)
+   0 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Tommy Schmitt"
 description: "Tommy Schmitt is an Early-career Ocean CDR researcher at National Energy Technology Laboratory in US. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.384588
+date: 2026-10-11T02:33:00.421336
 url: "/cdr-researcher-census/researchers/tommy-schmitt-a5013690/"
 layout: "researcher"
 hiddenInHomeList: true

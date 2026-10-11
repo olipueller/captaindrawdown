@@ -1,7 +1,7 @@
 ---
 title: "Kärg Kama"
 description: "Kärg Kama is a Mid-career Soil Carbon researcher at University of Birmingham in GB. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.702527
+date: 2026-10-11T02:32:59.722682
 url: "/cdr-researcher-census/researchers/karg-kama-a5034451/"
 layout: "researcher"
 hiddenInHomeList: true

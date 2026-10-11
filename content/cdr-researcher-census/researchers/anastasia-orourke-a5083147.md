@@ -1,7 +1,7 @@
 ---
 title: "Anastasia O’Rourke"
 description: "Anastasia O’Rourke is a Senior General CDR researcher. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.405138
+date: 2026-10-11T02:32:59.414161
 url: "/cdr-researcher-census/researchers/anastasia-orourke-a5083147/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   62 citations · General CDR
+   61 citations · General CDR
 
 ## External Profiles
 

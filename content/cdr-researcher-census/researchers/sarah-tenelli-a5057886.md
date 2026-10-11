@@ -1,7 +1,7 @@
 ---
 title: "Sarah Tenelli"
 description: "Sarah Tenelli is a Mid-career Soil Carbon researcher at Forest Science and Research Institute in BR. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.413696
+date: 2026-10-11T02:32:59.423576
 url: "/cdr-researcher-census/researchers/sarah-tenelli-a5057886/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Soil Carbon
 
 4. **Incorporating Biochar Into Biogeochemical Models: Achievements and Challenges** (2025)
-   3 citations · Biochar
+   4 citations · Biochar
 
 5. **Advances in sugarcane management towards greater environmental sustainability** (2026)
    0 citations

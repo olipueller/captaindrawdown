@@ -1,7 +1,7 @@
 ---
 title: "Matthew Binsted"
 description: "Matthew Binsted is a Senior General CDR researcher at Joint Global Change Research Institute in US. With 87 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.203646
+date: 2026-10-11T02:32:59.207839
 url: "/cdr-researcher-census/researchers/matthew-binsted-a5032822/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Net-zero CO2 by 2050 scenarios for the United States in the Energy Modeling Forum 37 study** (2023)
-   106 citations · DAC
+   105 citations · DAC
 
 2. **Technology, technology, technology: An integrated assessment of deep decarbonization pathways for the Canadian oil sands** (2022)
-   30 citations · DAC
+   31 citations · DAC
 
 3. **Effects of Direct Air Capture Technology Availability on Stranded Assets and Committed Emissions in the Power Sector** (2021)
-   25 citations · BECCS
+   24 citations · BECCS
 
 4. **Carbon management technology pathways for reaching a U.S. Economy-Wide net-Zero emissions goal** (2024)
    20 citations · DAC
 
 5. **Evolving electricity supply and demand to achieve net-zero emissions: Insights from the EMF-37 study** (2025)
-   8 citations · DAC
+   10 citations · DAC
 
 6. **The Role of Biofuels and Biomass Feedstocks for Decarbonizing the U.S. Economy by 2050 - (DECARB) Decarbonizing Energy Through Collaborative Analysis of Routes and Benefits** (2024)
-   5 citations · BECCS
+   6 citations · BECCS
 
 7. **Bioenergy pathways within United States net-zero CO2 emissions scenarios in the Energy Modeling Forum 37 study** (2025)
    2 citations · BECCS

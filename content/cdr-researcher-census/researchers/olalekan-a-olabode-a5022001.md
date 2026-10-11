@@ -1,7 +1,7 @@
 ---
 title: "Olalekan A. Olabode"
 description: "Olalekan A. Olabode is a Mid-career Biochar researcher at Osun State University in NG. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.152791
+date: 2026-10-11T02:33:00.182589
 url: "/cdr-researcher-census/researchers/olalekan-a-olabode-a5022001/"
 layout: "researcher"
 hiddenInHomeList: true

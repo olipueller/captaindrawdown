@@ -1,7 +1,7 @@
 ---
 title: "Mani Modayil Korah"
 description: "Mani Modayil Korah is a Mid-career DAC researcher at Arizona State University in US. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.336253
+date: 2026-10-11T02:33:00.370351
 url: "/cdr-researcher-census/researchers/mani-modayil-korah-a5081362/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Activated Carbon Fiber Felt Composites for the Direct Air Capture of Carbon Dioxide** (2024)
-   16 citations
+   17 citations
 
 2. **Electrospun Poly(vinyl alcohol)–<scp>l</scp>-Arginine Nanofiber Composites for Direct Air Capture of CO<sub>2</sub>** (2022)
-   15 citations
+   14 citations
 
 3. **Abstract for CRADA between NETL and the AZ Board of Regents on behalf of Arizona State University** (2024)
    0 citations · DAC

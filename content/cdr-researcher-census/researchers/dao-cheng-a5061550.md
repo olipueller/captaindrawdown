@@ -1,7 +1,7 @@
 ---
 title: "Dao Cheng"
 description: "Dao Cheng is a Mid-career Biochar researcher at Donghua University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.995560
+date: 2026-10-11T02:33:00.026502
 url: "/cdr-researcher-census/researchers/dao-cheng-a5061550/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Abundant porous biochar derived from luffa vine for removal of methylene blue: Selective adsorption and mechanistic studies** (2024)
-   44 citations · Biochar
+   45 citations · Biochar
 
 ## External Profiles
 

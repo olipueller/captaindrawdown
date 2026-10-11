@@ -1,7 +1,7 @@
 ---
 title: "Ghada Eshaq"
 description: "Ghada Eshaq is a Mid-career Biochar researcher at Egyptian Petroleum Research Institute in EG. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.416225
+date: 2026-10-11T02:32:59.426153
 url: "/cdr-researcher-census/researchers/ghada-eshaq-a5032296/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synthesis of biochar from iron-free and iron-containing microalgal biomass for the removal of pharmaceuticals from water** (2022)
-   56 citations · Biochar
+   57 citations · Biochar
 
 ## External Profiles
 

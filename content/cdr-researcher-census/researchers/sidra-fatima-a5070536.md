@@ -1,7 +1,7 @@
 ---
 title: "Sidra Fatima"
 description: "Sidra Fatima is a Mid-career Soil Carbon researcher at Beijing Forestry University in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.309402
+date: 2026-10-11T02:33:00.340283
 url: "/cdr-researcher-census/researchers/sidra-fatima-a5070536/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Sustainable forestry and environmental impacts: Assessing the economic, environmental, and social benefits of adopting sustainable agricultural practices** (2024)
-   34 citations · General CDR
+   37 citations · General CDR
 
 2. **Agroforestry‐Based Soil Health: Impact of Tillage and Mulching on Soil Properties, Microbial Communities, and Microbial Necromass in Calcareous Soils** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

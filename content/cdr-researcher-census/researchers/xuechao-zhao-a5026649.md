@@ -1,7 +1,7 @@
 ---
 title: "Xuechao Zhao"
 description: "Xuechao Zhao is a Mid-career Soil Carbon researcher at Anhui Agricultural University in CN. With 82 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.244537
+date: 2026-10-11T02:32:59.248246
 url: "/cdr-researcher-census/researchers/xuechao-zhao-a5026649/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Nitrogen deposition caused higher increases in plant-derived organic carbon than microbial-derived organic carbon in forest soils** (2024)
-   30 citations · Soil Carbon
+   33 citations · Soil Carbon
 
 2. **Differential responses of fungal and bacterial necromass accumulation in soil to nitrogen deposition in relation to deposition rate** (2022)
-   30 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 3. **Non-additive effects of nitrogen and phosphorus fertilization on microbial biomass and residue distribution in a subtropical plantation** (2021)
-   18 citations
+   17 citations
 
 4. **Greater influences of nitrogen addition on priming effect in forest subsoil than topsoil regardless of incubation warming** (2024)
-   16 citations
+   15 citations
 
 5. **Carbon and nitrogen addition-derived enzyme activities in topsoil but nitrogen availability in subsoil controls the response of soil organic carbon decomposition to warming** (2024)
    6 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Vandana Patyal"
 description: "Vandana Patyal is a Mid-career Biochar researcher at Symbiosis International University in IN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.884400
+date: 2026-10-11T02:32:59.911455
 url: "/cdr-researcher-census/researchers/vandana-patyal-a5054823/"
 layout: "researcher"
 hiddenInHomeList: true

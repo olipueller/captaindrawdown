@@ -1,7 +1,7 @@
 ---
 title: "Kasra Pirzadeh"
 description: "Kasra Pirzadeh is a Mid-career General CDR researcher at University of Calgary in CA. With 19 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.378318
+date: 2026-10-11T02:32:59.385672
 url: "/cdr-researcher-census/researchers/kasra-pirzadeh-a5111751/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A Comprehensive Review of Chemical Looping Processes: From Fundamentals to Applications** (2026)
-   4 citations · General CDR
+   5 citations · General CDR
 
 ## External Profiles
 

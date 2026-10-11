@@ -1,7 +1,7 @@
 ---
 title: "Khaulenbek Akhmadi"
 description: "Khaulenbek Akhmadi is a Mid-career General CDR researcher at Mongolian Academy of Sciences in MN. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.157795
+date: 2026-10-11T02:33:00.187597
 url: "/cdr-researcher-census/researchers/khaulenbek-akhmadi-a5042031/"
 layout: "researcher"
 hiddenInHomeList: true

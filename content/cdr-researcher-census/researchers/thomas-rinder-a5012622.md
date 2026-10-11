@@ -1,7 +1,7 @@
 ---
 title: "Thomas Rinder"
 description: "Thomas Rinder is a Senior Enhanced Weathering researcher at AFRY (Austria) in AT. With 49 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.486956
+date: 2026-10-11T02:32:59.498644
 url: "/cdr-researcher-census/researchers/thomas-rinder-a5012622/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **The influence of particle size on the potential of enhanced basalt weathering for carbon dioxide removal - Insights from a regional assessment** (2021)
-   93 citations · Enhanced Weathering
+   97 citations · Enhanced Weathering
 
 2. **The potential of carbon dioxide removal through enhanced weathering of basalt on agricultural land in Austria** (2021)
    1 citations · Enhanced Weathering

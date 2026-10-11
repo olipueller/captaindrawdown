@@ -1,7 +1,7 @@
 ---
 title: "Débora Federici dos Santos"
 description: "Débora Federici dos Santos is a Mid-career Biochar researcher at Centro Universitário Cesumar in BR. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.039930
+date: 2026-10-11T02:33:00.070747
 url: "/cdr-researcher-census/researchers/debora-federici-dos-santos-a5004515/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Top CDR Publications
 
-1. **Comparison between produced Tingui biochar <scp><i>versus</i></scp> commercial Norit in the adsorption of acetaminophen and diclofenac: characterization, batch, and fixed bed system** (2024)
+1. **Removal of Emerging Contaminants from Water by Using Carbon Materials Derived from Tingui Shells** (2024)
+   8 citations · Biochar
+
+2. **Comparison between produced Tingui biochar <scp><i>versus</i></scp> commercial Norit in the adsorption of acetaminophen and diclofenac: characterization, batch, and fixed bed system** (2024)
    3 citations · Biochar
 
 ## External Profiles

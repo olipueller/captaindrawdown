@@ -1,7 +1,7 @@
 ---
 title: "Jianxun Huang"
 description: "Jianxun Huang is a Mid-career General CDR researcher at University of British Columbia in CA. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.871206
+date: 2026-10-11T02:32:59.898180
 url: "/cdr-researcher-census/researchers/jianxun-huang-a5101849/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A comprehensive review of emission reduction technologies for marine transportation** (2023)
-   43 citations · General CDR
+   42 citations · General CDR
 
 ## External Profiles
 

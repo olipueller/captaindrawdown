@@ -1,7 +1,7 @@
 ---
 title: "Krishan Kumar Bhardwaj"
 description: "Krishan Kumar Bhardwaj is an Early-career Soil Carbon researcher. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.394161
+date: 2026-10-11T02:33:00.431538
 url: "/cdr-researcher-census/researchers/krishan-kumar-bhardwaj-a5112895/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kaleb Friedman"
 description: "Kaleb Friedman is a Mid-career DAC researcher at University at Buffalo, State University of New York in US. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.047747
+date: 2026-10-11T02:33:00.078499
 url: "/cdr-researcher-census/researchers/kaleb-friedman-a5038773/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    18 citations
 
 2. **Epoxide-Modified Diethylenetriamine for Ambient-Temperature Direct Air Capture** (2026)
-   4 citations
+   5 citations
 
 3. **Direct Air Capture Using Trapped Small Amines in Hierarchical Nanoporous Capsules on Porous Electrospun Fibers (Final Technical Report)** (2026)
    0 citations · DAC

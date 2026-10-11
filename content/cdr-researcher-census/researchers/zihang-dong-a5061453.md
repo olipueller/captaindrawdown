@@ -1,7 +1,7 @@
 ---
 title: "Zihang Dong"
 description: "Zihang Dong is a Mid-career Biochar researcher at Peking University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.485630
+date: 2026-10-11T02:32:59.497237
 url: "/cdr-researcher-census/researchers/zihang-dong-a5061453/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Microbial assembly regulated microbial succession of biochar-mediated CH4 biofiltration to resume function under H2S stress** (2025)
-   8 citations · Biochar
+   10 citations · Biochar
 
 ## External Profiles
 

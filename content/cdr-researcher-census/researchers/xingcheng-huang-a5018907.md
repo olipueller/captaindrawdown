@@ -1,7 +1,7 @@
 ---
 title: "Xingcheng Huang"
 description: "Xingcheng Huang is a Mid-career Soil Carbon researcher at Xiamen University in CN. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.720490
+date: 2026-10-11T02:32:59.741758
 url: "/cdr-researcher-census/researchers/xingcheng-huang-a5018907/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    24 citations · Soil Carbon
 
 2. **Characteristics of Greenhouse Gas Emissions from Yellow Paddy Soils under Long-Term Organic Fertilizer Application** (2022)
-   22 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 3. **[Seasonal Variation and Differences in Microbial Biomass Carbon in Yellow Soil Under Different Long-term Crop Rotation Patterns].** (2025)
    0 citations · Soil Carbon

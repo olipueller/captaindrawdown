@@ -1,7 +1,7 @@
 ---
 title: "Mingxiang Xu"
 description: "Mingxiang Xu is a Senior Soil Carbon researcher at Institute of Soil and Water Conservation Chinese Academy of Sciences and Ministry of Water Resources in CN. With 100 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.084992
+date: 2026-10-11T02:32:59.089899
 url: "/cdr-researcher-census/researchers/mingxiang-xu-a5030533/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 30 |
 | Citations | 3,038 |
 | Publications | 100 |
-| CDR Focus | 10.0% |
+| CDR Focus | 11.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -63,21 +63,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · Soil Carbon
 
 5. **Mixed plantations promote carbon accumulation in plants and soil in arid and semi-arid regions: Evidence from the Loess Plateau of China** (2025)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
-6. **Converting croplands into perennials may contribute to the deep soil nitrogen (N) accumulation in N‐limited region: Evidence from the arid and semi‐arid Chinese Loess Plateau** (2023)
+6. **Effects of Climate Change on the Interaction Between Soil Organic and Inorganic Carbon in Global Drylands** (2025)
    4 citations · Soil Carbon
 
-7. **Effects of Climate Change on the Interaction Between Soil Organic and Inorganic Carbon in Global Drylands** (2025)
-   2 citations · Soil Carbon
+7. **Converting croplands into perennials may contribute to the deep soil nitrogen (N) accumulation in N‐limited region: Evidence from the arid and semi‐arid Chinese Loess Plateau** (2023)
+   4 citations · Soil Carbon
 
 8. **Organic-to-inorganic carbon conversion as a potential pathway for soil carbon sequestration in revegetated soils of the Loess Plateau** (2026)
    1 citations · Soil Carbon
 
-9. **Global patterns of tree diversity effects on soil respiration and their linkages to soil organic carbon** (2026)
+9. **Orchard soil organic and inorganic carbon responses vary across intensive management: A global meta-analysis** (2026)
    0 citations · Soil Carbon
 
-10. **[Effects of grazing on soil organic carbon stocks in the revegetated grasslands on the Loess Plateau, China].** (2022)
+10. **Global patterns of tree diversity effects on soil respiration and their linkages to soil organic carbon** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

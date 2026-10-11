@@ -1,7 +1,7 @@
 ---
 title: "Beatrice Kulli"
 description: "Beatrice Kulli is a Senior General CDR researcher at ZHAW Zurich University of Applied Sciences in CH. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.549662
+date: 2026-10-11T02:32:59.564711
 url: "/cdr-researcher-census/researchers/beatrice-kulli-a5020619/"
 layout: "researcher"
 hiddenInHomeList: true

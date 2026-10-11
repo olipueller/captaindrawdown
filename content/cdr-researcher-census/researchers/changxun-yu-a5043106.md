@@ -1,7 +1,7 @@
 ---
 title: "Changxun Yu"
 description: "Changxun Yu is a Senior Soil Carbon researcher at Linnaeus University in SE. With 97 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.107139
+date: 2026-10-11T02:32:59.111789
 url: "/cdr-researcher-census/researchers/changxun-yu-a5043106/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,25 +51,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Storage, patterns and influencing factors for soil organic carbon in coastal wetlands of China** (2022)
-   159 citations · Soil Carbon
+   163 citations · Soil Carbon
 
 2. **Organic blue carbon sequestration in vegetated coastal wetlands: Processes and influencing factors** (2024)
-   66 citations · Soil Carbon
+   74 citations · Soil Carbon
 
 3. **Microbial Necromass, Lignin, and Glycoproteins for Determining and Optimizing Blue Carbon Formation** (2023)
-   58 citations · Ocean CDR
+   59 citations · Ocean CDR
 
 4. **High potential of stable carbon sequestration in phytoliths of China's grasslands** (2022)
-   55 citations · Soil Carbon
+   57 citations · Soil Carbon
 
-5. **Organic matter composition and stability in estuarine wetlands depending on soil salinity** (2024)
-   23 citations · Soil Carbon
+5. **Patterns and drivers of soil organic carbon fractions and persistence in coastal wetlands of China** (2025)
+   24 citations · Soil Carbon
 
-6. **Patterns and drivers of soil organic carbon fractions and persistence in coastal wetlands of China** (2025)
-   22 citations · Soil Carbon
+6. **Organic matter composition and stability in estuarine wetlands depending on soil salinity** (2024)
+   24 citations · Soil Carbon
 
 7. **Mineral Association and Microbial Processing Jointly Prolong Carbon Turnover in Coastal Wetlands** (2026)
-   15 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 8. **Effects of nitrogen and phosphorus addition on phytolith carbon sequestration in alpine grassland** (2025)
    1 citations · Soil Carbon

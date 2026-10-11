@@ -1,7 +1,7 @@
 ---
 title: "A. Patrick Behrer"
 description: "A. Patrick Behrer is a Mid-career Soil Carbon researcher at World Bank in US. With 32 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.461076
+date: 2026-10-11T02:32:59.472523
 url: "/cdr-researcher-census/researchers/a-patrick-behrer-a5080870/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Higher levels of no-till agriculture associated with lower PM<sub>2.5</sub> in the Corn Belt** (2022)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 2. **Higher Levels of No-Till Agriculture Associated with Lower PM2.5 in the Corn Belt** (2022)
    1 citations · General CDR

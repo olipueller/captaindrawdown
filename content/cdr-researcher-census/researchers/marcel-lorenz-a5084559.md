@@ -1,7 +1,7 @@
 ---
 title: "Marcel Lorenz"
 description: "Marcel Lorenz is a Mid-career Enhanced Weathering researcher at Helmholtz Centre for Environmental Research in DE. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.786560
+date: 2026-10-11T02:32:59.810492
 url: "/cdr-researcher-census/researchers/marcel-lorenz-a5084559/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Element mobility related to rock weathering and soil formation at the westward side of the southernmost Patagonian Andes** (2022)
-   11 citations · Enhanced Weathering
+   10 citations · Enhanced Weathering
 
 2. **Thermodynamic control of microbial turnover of organic substrates in soils** (2024)
    0 citations · Soil Carbon

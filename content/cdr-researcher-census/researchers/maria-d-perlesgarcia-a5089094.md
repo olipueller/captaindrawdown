@@ -1,7 +1,7 @@
 ---
 title: "Maria D. Perles‐Garcia"
 description: "Maria D. Perles‐Garcia is a Mid-career Soil Carbon researcher at German Centre for Integrative Biodiversity Research in DE. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.766512
+date: 2026-10-11T02:32:59.789702
 url: "/cdr-researcher-census/researchers/maria-d-perlesgarcia-a5089094/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Abiotic and biotic drivers of tree trait effects on soil microbial biomass and soil carbon concentration** (2022)
-   47 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 ## External Profiles
 

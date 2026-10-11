@@ -1,7 +1,7 @@
 ---
 title: "Benjie Zhu"
 description: "Benjie Zhu is a Mid-career Biochar researcher at China University of Petroleum, East China in CN. With 20 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.486506
+date: 2026-10-11T02:32:59.498141
 url: "/cdr-researcher-census/researchers/benjie-zhu-a5064537/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The bidirectional matter transfer in adsorption-promoted photocatalytic ozonation system derived by triazine nanosheets-heptazine nanotubes homojunction composite biochar** (2025)
-   10 citations · Biochar
+   11 citations · Biochar
 
 ## External Profiles
 

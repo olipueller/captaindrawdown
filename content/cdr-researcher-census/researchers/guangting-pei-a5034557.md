@@ -1,7 +1,7 @@
 ---
 title: "Guangting Pei"
 description: "Guangting Pei is a Mid-career Soil Carbon researcher at Nanning Normal University in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.533634
+date: 2026-10-11T02:32:59.547934
 url: "/cdr-researcher-census/researchers/guangting-pei-a5034557/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -52,6 +52,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 1. **Erosion effects on soil microbial carbon use efficiency in the mollisol cropland in northeast China** (2023)
    20 citations · Soil Carbon
+
+2. **Contribution of Atmospheric Nitrogen Deposition to the Vegetation Carbon Sink in Naturally Restored Ecosystems of Rocky Desertification Areas: A Quantitative Study Based on 15N Isotope Tracing** (2026)
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Mamma Sawaneh"
 description: "Mamma Sawaneh is a Mid-career Soil Carbon researcher at University of the Gambia in GM. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.224293
+date: 2026-10-11T02:33:00.254787
 url: "/cdr-researcher-census/researchers/mamma-sawaneh-a5066319/"
 layout: "researcher"
 hiddenInHomeList: true

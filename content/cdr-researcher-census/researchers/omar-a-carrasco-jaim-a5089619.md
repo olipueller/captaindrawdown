@@ -1,7 +1,7 @@
 ---
 title: "Omar A. Carrasco-Jaim"
 description: "Omar A. Carrasco-Jaim is a Mid-career DAC researcher at The University of Texas at Austin in US. With 18 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.307874
+date: 2026-10-11T02:32:59.313215
 url: "/cdr-researcher-census/researchers/omar-a-carrasco-jaim-a5089619/"
 layout: "researcher"
 hiddenInHomeList: true

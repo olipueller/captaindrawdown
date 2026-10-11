@@ -1,7 +1,7 @@
 ---
 title: "Jiaqing Huang"
 description: "Jiaqing Huang is a Mid-career Soil Carbon researcher at Soochow University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.974431
+date: 2026-10-11T02:33:00.006254
 url: "/cdr-researcher-census/researchers/jiaqing-huang-a5042088/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Phosphorus fractions and their transformation in coupling with organic carbon cycling after seven-year manure application in subtropical soil** (2025)
-   18 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 ## External Profiles
 

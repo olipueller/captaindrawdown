@@ -1,7 +1,7 @@
 ---
 title: "Jianghua Xiong"
 description: "Jianghua Xiong is a Mid-career Biochar researcher. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.833464
+date: 2026-10-11T02:32:59.859666
 url: "/cdr-researcher-census/researchers/jianghua-xiong-a5108773/"
 layout: "researcher"
 hiddenInHomeList: true

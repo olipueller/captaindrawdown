@@ -1,7 +1,7 @@
 ---
 title: "Zhenhong Luo"
 description: "Zhenhong Luo is a Mid-career Soil Carbon researcher at Guilin University of Technology in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.026327
+date: 2026-10-11T02:33:00.057609
 url: "/cdr-researcher-census/researchers/zhenhong-luo-a5108926/"
 layout: "researcher"
 hiddenInHomeList: true

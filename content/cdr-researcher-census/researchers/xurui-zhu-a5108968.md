@@ -1,7 +1,7 @@
 ---
 title: "Xurui Zhu"
 description: "Xurui Zhu is a Mid-career Biochar researcher at Suzhou University of Science and Technology in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.234391
+date: 2026-10-11T02:33:00.264784
 url: "/cdr-researcher-census/researchers/xurui-zhu-a5108968/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A critical review of biochar-enhanced Feammox: Multilevel mechanisms and sustainable applications for nitrogen removal** (2025)
-   3 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

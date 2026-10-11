@@ -1,7 +1,7 @@
 ---
 title: "Xuzhen Liu"
 description: "Xuzhen Liu is a Mid-career Soil Carbon researcher at Xinjiang Agricultural University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.801948
+date: 2026-10-11T02:32:59.826142
 url: "/cdr-researcher-census/researchers/xuzhen-liu-a5068705/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The Impact of Organic Fertilizer Substitution on Microbial Community Structure, Greenhouse Gas Emissions, and Enzyme Activity in Soils with Different Cultivation Durations** (2025)
-   9 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 ## External Profiles
 

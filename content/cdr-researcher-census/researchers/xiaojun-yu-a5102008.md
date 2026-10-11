@@ -1,7 +1,7 @@
 ---
 title: "Xiaojun Yu"
 description: "Xiaojun Yu is a Senior Soil Carbon researcher at Gansu Agricultural University in CN. With 78 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.398135
+date: 2026-10-11T02:32:59.407224
 url: "/cdr-researcher-census/researchers/xiaojun-yu-a5102008/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Efficient tetracycline degradation via peroxymonosulfate activation by magnetic Co/N co-doped biochar: Emphasizing the important role of biochar graphitization** (2022)
-   227 citations · Biochar
+   231 citations · Biochar
 
 2. **Carbon budget response to climate change varies with grassland type in Qilian Mountains, China** (2023)
    15 citations · Soil Carbon
 
 3. **Seasonal variation in carbon flux and the driving mechanisms in the grassland ecosystem in a mountain region of Northwest China** (2025)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 4. **Spring rest-grazing time affected soil organic carbon stability and storage in subalpine meadows of Carex** (2024)
    4 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Shouzheng Tong"
 description: "Shouzheng Tong is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 108 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.134564
+date: 2026-10-11T02:32:59.139339
 url: "/cdr-researcher-census/researchers/shouzheng-tong-a5112685/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    16 citations
 
 2. **Wetland restoration enhances soil carbon sequestration in lake ecosystems: Integrating multi-source remote sensing and optimized ensemble machine learning to map soil organic carbon density** (2025)
-   8 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 3. **Investigating the compensatory effect of legume reseeding on soil organic carbon loss under tillage management in a saline-alkali grassland in the semi-arid region** (2024)
    8 citations · Soil Carbon

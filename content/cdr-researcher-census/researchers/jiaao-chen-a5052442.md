@@ -1,7 +1,7 @@
 ---
 title: "Jiaao Chen"
 description: "Jiaao Chen is a Mid-career Biochar researcher at South China Agricultural University in CN. With 17 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.345900
+date: 2026-10-11T02:32:59.351835
 url: "/cdr-researcher-census/researchers/jiaao-chen-a5052442/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Manhong Cao"
 description: "Manhong Cao is a Mid-career Soil Carbon researcher at Shaanxi Coal Chemical Industry Technology Research Institute in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.187357
+date: 2026-10-11T02:33:00.217514
 url: "/cdr-researcher-census/researchers/manhong-cao-a5027008/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of vegetation restoration on soil organic carbon in the Loess Plateau: A meta‐analysis** (2022)
-   31 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 2. **Effects of forest type on carbon storage in the hilly region of Loess Plateau, China** (2024)
-   13 citations · General CDR
+   14 citations · General CDR
 
 ## External Profiles
 

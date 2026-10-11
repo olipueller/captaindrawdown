@@ -1,7 +1,7 @@
 ---
 title: "Sumanta Kundu"
 description: "Sumanta Kundu is a Senior Soil Carbon researcher at Central Research Institute for Dryland Agriculture in IN. With 98 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.170702
+date: 2026-10-11T02:32:59.174779
 url: "/cdr-researcher-census/researchers/sumanta-kundu-a5103127/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Integrated nutrient management improves soil organic matter and agronomic sustainability of semiarid rainfed Inceptisols of the Indo‐Gangetic Plains** (2021)
-   21 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 2. **Can adoption of climate resilient management practices achieve carbon neutrality in traditional green revolution states of Punjab and Haryana?** (2023)
    9 citations · Soil Carbon
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · General CDR
 
 4. **Soil Carbon Sequestration and Agronomic Productivity as Influenced by the Long-Term Organic and Inorganic Fertilisation Under the Upland Rice–Wheat System in Vertisols of Central India** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 5. **Exploring the Environmental Footprints of Conservation Tillage Practices in the Semi-arid Region of India** (2024)
    0 citations · Soil Carbon

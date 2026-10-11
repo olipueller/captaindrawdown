@@ -1,7 +1,7 @@
 ---
 title: "Jidong Wang"
 description: "Jidong Wang is a Senior Soil Carbon researcher at Jiangsu University in CN. With 100 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.126765
+date: 2026-10-11T02:32:59.131417
 url: "/cdr-researcher-census/researchers/jidong-wang-a5100758/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biochar and nitrogen fertilizer co-application changed SOC content and fraction composition in Huang-Huai-Hai plain, China** (2021)
-   46 citations · Biochar
+   47 citations · Biochar
 
 2. **Optimizing organic amendment applications to enhance carbon sequestration and economic benefits in an infertile sandy soil** (2021)
    30 citations · General CDR
 
 3. **Reduced basal and increased topdressing fertilizer rate combined with straw incorporation improves rice yield stability and soil organic carbon sequestration in a rice–wheat system** (2022)
-   14 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 4. **Patterns of crop-specific fertilizer-nitrogen losses and opportunities for sustainable mitigation: A quantitative overview of 15N-tracing studies** (2023)
    11 citations
 
 5. **Microbial efficiency drives depth-dependent soil carbon storage under organic fertilization** (2026)
-   6 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 6. **Integrated Application of Biochar and Polyacrylamide with Conservation Tillage Promotes Fertilizer-N Recovery in the Short Term** (2026)
    0 citations · Biochar

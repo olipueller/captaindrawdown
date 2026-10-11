@@ -1,7 +1,7 @@
 ---
 title: "Erich Inselsbacher"
 description: "Erich Inselsbacher is a Senior Soil Carbon researcher at BOKU University in AT. With 92 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.103465
+date: 2026-10-11T02:32:59.108218
 url: "/cdr-researcher-census/researchers/erich-inselsbacher-a5086647/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,22 +53,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Linking soil microbial carbon sequestration to cover crop diversification in agricultural soil systems across Europe** (2023)
    1 citations · Soil Carbon
 
-2. **Life, death, and microbes: The role of land use and environmental gradients in soil microbial carbon dynamics** (2026)
+2. **Crop diversification – a lever to manipulate the soil microbial carbon pump towards enhanced carbon sequestration?** (2026)
+   0 citations
+
+3. **Life, death, and microbes: The role of land use and environmental gradients in soil microbial carbon dynamics** (2026)
    0 citations · Soil Carbon
 
-3. **Insights from a Two-Year Field Trial of Enhanced Weathering with basalt on alpine grassland: Soil, Water, and Biomass Responses** (2026)
+4. **Insights from a Two-Year Field Trial of Enhanced Weathering with basalt on alpine grassland: Soil, Water, and Biomass Responses** (2026)
    0 citations · Enhanced Weathering
 
-4. **Carbon sequestration potential of high-altitude afforestations in the Eastern Alps** (2026)
+5. **Carbon sequestration potential of high-altitude afforestations in the Eastern Alps** (2026)
    0 citations · Soil Carbon
 
-5. **Microbial Biomass and Necromass in Austrian Soils** (2025)
+6. **Microbial Biomass and Necromass in Austrian Soils** (2025)
    0 citations · Soil Carbon
 
-6. **High-Altitude Afforestation in the Austrian Alps: Effects on Soil Organic Carbon and Microbial Communities** (2025)
+7. **High-Altitude Afforestation in the Austrian Alps: Effects on Soil Organic Carbon and Microbial Communities** (2025)
    0 citations · Soil Carbon
 
-7. **Cover crop diversification alters microbial life-death cycle and enhances carbon sequestration in agricultural soil** (2024)
+8. **Cover crop diversification alters microbial life-death cycle and enhances carbon sequestration in agricultural soil** (2024)
    0 citations · Soil Carbon
 
 ## External Profiles

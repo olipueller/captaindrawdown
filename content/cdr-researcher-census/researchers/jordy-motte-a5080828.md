@@ -1,7 +1,7 @@
 ---
 title: "Jordy Motte"
 description: "Jordy Motte is a Mid-career General CDR researcher at Ghent University in BE. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.391145
+date: 2026-10-11T02:33:00.428520
 url: "/cdr-researcher-census/researchers/jordy-motte-a5080828/"
 layout: "researcher"
 hiddenInHomeList: true

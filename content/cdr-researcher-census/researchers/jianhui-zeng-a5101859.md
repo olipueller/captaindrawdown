@@ -1,7 +1,7 @@
 ---
 title: "Jianhui Zeng"
 description: "Jianhui Zeng is a Senior Soil Carbon researcher at Harbin Engineering University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.977385
+date: 2026-10-11T02:33:00.009009
 url: "/cdr-researcher-census/researchers/jianhui-zeng-a5101859/"
 layout: "researcher"
 hiddenInHomeList: true

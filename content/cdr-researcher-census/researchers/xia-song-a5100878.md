@@ -1,7 +1,7 @@
 ---
 title: "Xia Song"
 description: "Xia Song is a Senior Soil Carbon researcher at San Diego State University in US. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.615161
+date: 2026-10-11T02:32:59.632597
 url: "/cdr-researcher-census/researchers/xia-song-a5100878/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Earlier snowmelt may lead to late season declines in plant productivity and carbon sequestration in Arctic tundra ecosystems** (2022)
-   39 citations
+   40 citations
 
 2. **Earlier Snowmelt May Lead to Late Season Declines in Plant Productivity and Carbon Sequestration in Arctic Tundra Ecosystems** (2021)
    4 citations · Soil Carbon

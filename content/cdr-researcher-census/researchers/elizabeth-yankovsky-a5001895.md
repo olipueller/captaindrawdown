@@ -1,7 +1,7 @@
 ---
 title: "Elizabeth Yankovsky"
 description: "Elizabeth Yankovsky is a Mid-career Ocean CDR researcher at Planetary Science Institute in US. With 41 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.664262
+date: 2026-10-11T02:32:59.683759
 url: "/cdr-researcher-census/researchers/elizabeth-yankovsky-a5001895/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Mapping the global variation in the efficiency of ocean alkalinity enhancement for carbon dioxide removal** (2024)
-   57 citations · Ocean CDR
+   62 citations · Ocean CDR
 
 2. **Mapping the global variation in the efficiency of ocean alkalinity enhancement for carbon dioxide removal** (2024)
    9 citations · General CDR
 
-3. **Impulse response functions as a framework for quantifying ocean-based carbon dioxide removal** (2024)
-   4 citations
+3. **Impulse response functions as a framework for quantifying ocean-based carbon dioxide removal** (2025)
+   7 citations · General CDR
 
-4. **Impulse response functions as a framework for quantifying ocean-based carbon dioxide removal** (2025)
-   2 citations · General CDR
+4. **Impulse response functions as a framework for quantifying ocean-based carbon dioxide removal** (2024)
+   4 citations
 
 5. **A global efficiency map of ocean alkalinity enhancement (OAE) for CO2 removal** (2024)
    2 citations · General CDR

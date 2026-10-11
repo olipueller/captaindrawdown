@@ -1,7 +1,7 @@
 ---
 title: "Steve Altobelli"
 description: "Steve Altobelli is a Senior Soil Carbon researcher at Abqmr (United States) in US. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.700103
+date: 2026-10-11T02:32:59.720381
 url: "/cdr-researcher-census/researchers/steve-altobelli-a5110905/"
 layout: "researcher"
 hiddenInHomeList: true

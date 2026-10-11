@@ -1,7 +1,7 @@
 ---
 title: "Jiale Han"
 description: "Jiale Han is a Senior Soil Carbon researcher at Cotton Research Institute in CN. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.719688
+date: 2026-10-11T02:32:59.740758
 url: "/cdr-researcher-census/researchers/jiale-han-a5059006/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biochar promotes soil organic carbon sequestration and reduces net global warming potential in apple orchard: A two-year study in the Loess Plateau of China** (2021)
-   71 citations · Biochar
+   73 citations · Biochar
 
 2. **Optimizing Management Practices under Straw Regimes for Global Sustainable Agricultural Production** (2023)
    29 citations · General CDR

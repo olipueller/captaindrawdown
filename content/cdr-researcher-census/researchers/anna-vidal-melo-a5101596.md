@@ -1,7 +1,7 @@
 ---
 title: "Anna Vidal-Meló"
 description: "Anna Vidal-Meló is a Mid-career Soil Carbon researcher at Universitat Politècnica de València in ES. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.216175
+date: 2026-10-11T02:33:00.246176
 url: "/cdr-researcher-census/researchers/anna-vidal-melo-a5101596/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **ACTIVITIES IMPLEMENTED IN SOIL SCIENCE SUBJECTS TO LEARN SPECIFIC COMPETENCES AND SUSTAINABLE DEVELOPMENT GOALS** (2021)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

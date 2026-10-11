@@ -1,7 +1,7 @@
 ---
 title: "Simeneh Demissie"
 description: "Simeneh Demissie is a Mid-career Soil Carbon researcher at Jigjiga University in ET. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.254680
+date: 2026-10-11T02:33:00.284373
 url: "/cdr-researcher-census/researchers/simeneh-demissie-a5050256/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Cover crops for soil carbon sequestration and sustainable agroecosystem: a review of ecological processes** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

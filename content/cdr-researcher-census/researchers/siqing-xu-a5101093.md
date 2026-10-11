@@ -1,7 +1,7 @@
 ---
 title: "Siqing Xu"
 description: "Siqing Xu is a Mid-career General CDR researcher at Dubai Pharmacy College in AE. With 34 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.848114
+date: 2026-10-11T02:32:59.874753
 url: "/cdr-researcher-census/researchers/siqing-xu-a5101093/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Delayed use of bioenergy crops might threaten climate and food security** (2022)
-   134 citations · BECCS
+   131 citations · BECCS
 
 2. **Spatially explicit analysis identifies significant potential for bioenergy with carbon capture and storage in China** (2021)
    119 citations · BECCS
@@ -62,11 +62,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 4. **CCS in Onshore Deep Carbonate Saline Aquifer: Fast-Track from Feasibility to Project Implementation** (2023)
    8 citations · General CDR
 
-5. **Falaha CCS Project - Pioneering Low Carbon Solutions with CO2 Sequestration in Deep Carbonate Saline Aquifers** (2024)
-   3 citations · General CDR
+5. **Requirement on the Capacity of Energy Storage to Meet the 2 °C Goal** (2024)
+   4 citations · BECCS
 
-6. **Requirement on the Capacity of Energy Storage to Meet the 2 °C Goal** (2024)
-   3 citations · BECCS
+6. **Falaha CCS Project - Pioneering Low Carbon Solutions with CO2 Sequestration in Deep Carbonate Saline Aquifers** (2024)
+   3 citations · General CDR
 
 ## External Profiles
 

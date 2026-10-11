@@ -1,7 +1,7 @@
 ---
 title: "Longyu Jia"
 description: "Longyu Jia is a Mid-career Soil Carbon researcher at Institute of Geochemistry in CN. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.032067
+date: 2026-10-11T02:33:00.063240
 url: "/cdr-researcher-census/researchers/longyu-jia-a5057088/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon storage of the forest and its spatial pattern in Tibet, China** (2021)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 2. **Rhizospheric organic matter drives mercury accumulation and reduction in deep subtropical forest soils: mercury isotope insights** (2025)
    1 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Charles Izuma Addey"
 description: "Charles Izuma Addey is a Mid-career Ocean CDR researcher at University of Hawaiʻi at Mānoa in US. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.327860
+date: 2026-10-11T02:32:59.333729
 url: "/cdr-researcher-census/researchers/charles-izuma-addey-a5007660/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Ocean carbon from space: Current status and priorities for the next decade** (2023)
-   64 citations · General CDR
+   63 citations · General CDR
 
 2. **Early Career Recommendations for the Equitable Growth of a Marine Carbon Dioxide Removal Sector** (2025)
    4 citations · General CDR

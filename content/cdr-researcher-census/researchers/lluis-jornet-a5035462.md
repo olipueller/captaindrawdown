@@ -1,7 +1,7 @@
 ---
 title: "Lluís Jornet"
 description: "Lluís Jornet is a Mid-career Soil Carbon researcher at Continental (Canada) in CA. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.388424
+date: 2026-10-11T02:33:00.425302
 url: "/cdr-researcher-census/researchers/lluis-jornet-a5035462/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Nepali Jayasinghe"
 description: "Nepali Jayasinghe is an Early-career Soil Carbon researcher at Ministry OF City Planning and Water Supply in LK. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.359735
+date: 2026-10-11T02:32:59.366495
 url: "/cdr-researcher-census/researchers/nepali-jayasinghe-a5046537/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Role of organic farming for achieving sustainability in agriculture** (2023)
-   603 citations · General CDR
+   611 citations · General CDR
 
 ## External Profiles
 

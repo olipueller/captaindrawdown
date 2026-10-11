@@ -1,7 +1,7 @@
 ---
 title: "Sundus Anbreen"
 description: "Sundus Anbreen is an Early-career Biochar researcher at Quaid-i-Azam University in PK. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.391388
+date: 2026-10-11T02:33:00.428782
 url: "/cdr-researcher-census/researchers/sundus-anbreen-a5094091/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synthesis and characterization of nanobiochar from rice husk biochar for the removal of safranin and malachite green from water** (2023)
-   76 citations · Biochar
+   80 citations · Biochar
 
 ## External Profiles
 

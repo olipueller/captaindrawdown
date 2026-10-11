@@ -1,7 +1,7 @@
 ---
 title: "Liqing Zhao"
 description: "Liqing Zhao is a Senior Soil Carbon researcher at Inner Mongolia University in CN. With 32 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.733003
+date: 2026-10-11T02:32:59.754578
 url: "/cdr-researcher-census/researchers/liqing-zhao-a5102370/"
 layout: "researcher"
 hiddenInHomeList: true

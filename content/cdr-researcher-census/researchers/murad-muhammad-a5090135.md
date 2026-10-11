@@ -1,7 +1,7 @@
 ---
 title: "Murad Muhammad"
 description: "Murad Muhammad is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 77 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.123427
+date: 2026-10-11T02:32:59.128013
 url: "/cdr-researcher-census/researchers/murad-muhammad-a5090135/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Role of Arbuscular Mycorrhizal Fungi in Regulating Growth, Enhancing Productivity, and Potentially Influencing Ecosystems under Abiotic and Biotic Stresses** (2023)
-   523 citations · Soil Carbon
+   557 citations · Soil Carbon
 
 2. **Biochar in sustainable agriculture and Climate Mitigation: Mechanisms, challenges, and applications in the circular bioeconomy** (2024)
-   100 citations · Biochar
+   103 citations · Biochar
 
 3. **Plant root-mediated carbon sequestration and nutrient cycling in grassland ecosystems under land use and climate change** (2025)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 4. **Biochar as a climate-smart strategy for restoring dryland soils and mitigating desertification** (2026)
-   7 citations · Biochar
+   11 citations · Biochar
 
 5. **Biochar as a Climate-Smart Agricultural Practice: Reducing Greenhouse Gas Emissions and Promoting Sustainable Farming** (2024)
    1 citations · Biochar

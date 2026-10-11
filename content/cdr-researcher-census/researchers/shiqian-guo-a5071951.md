@@ -1,7 +1,7 @@
 ---
 title: "Shiqian Guo"
 description: "Shiqian Guo is a Mid-career Soil Carbon researcher at Nanyang Institute of Technology in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.358550
+date: 2026-10-11T02:33:00.393340
 url: "/cdr-researcher-census/researchers/shiqian-guo-a5071951/"
 layout: "researcher"
 hiddenInHomeList: true

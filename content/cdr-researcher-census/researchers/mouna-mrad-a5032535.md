@@ -1,7 +1,7 @@
 ---
 title: "Mouna Mrad"
 description: "Mouna Mrad is a Senior Ocean CDR researcher at Centre de Recherches et des Technologies des Eaux in TN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.879506
+date: 2026-10-11T02:32:59.907057
 url: "/cdr-researcher-census/researchers/mouna-mrad-a5032535/"
 layout: "researcher"
 hiddenInHomeList: true

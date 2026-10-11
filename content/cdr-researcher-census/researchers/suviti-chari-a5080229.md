@@ -1,7 +1,7 @@
 ---
 title: "Suviti Chari"
 description: "Suviti Chari is a Mid-career BECCS researcher. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.894806
+date: 2026-10-11T02:32:59.923762
 url: "/cdr-researcher-census/researchers/suviti-chari-a5080229/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Waste-to-energy and waste-to-hydrogen with CCS: Methodological assessment of pathways to carbon-negative waste treatment from an LCA perspective** (2023)
-   58 citations · BECCS
+   61 citations · BECCS
 
 ## External Profiles
 

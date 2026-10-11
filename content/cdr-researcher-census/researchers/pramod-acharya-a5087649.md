@@ -1,7 +1,7 @@
 ---
 title: "Pramod Acharya"
 description: "Pramod Acharya is a Mid-career Soil Carbon researcher at New Mexico State University in US. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.715013
+date: 2026-10-11T02:32:59.736076
 url: "/cdr-researcher-census/researchers/pramod-acharya-a5087649/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Cover crop-mediated soil carbon storage and soil health in semi-arid irrigated cropping systems** (2023)
-   48 citations · Soil Carbon
+   50 citations · Soil Carbon
 
 2. **Cover crop residue quality regulates litter decomposition dynamics and soil carbon mineralization kinetics in semi-arid cropping systems** (2023)
-   41 citations · Soil Carbon
+   47 citations · Soil Carbon
 
 3. **Cover cropping enhanced soil aggregation and associated carbon and nitrogen storage in semi-arid silage cropping systems** (2024)
    24 citations · Soil Carbon
 
 4. **Soil profile carbon sequestration and nutrient responses varied with cover crops in irrigated forage rotations** (2024)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 5. **Land use-driven shifts in labile carbon fractions regulated total profile sequestration of soil organic and inorganic carbon in arid environments** (2025)
    2 citations · Soil Carbon

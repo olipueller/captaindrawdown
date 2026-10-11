@@ -1,7 +1,7 @@
 ---
 title: "Bingming Chen"
 description: "Bingming Chen is a Mid-career Soil Carbon researcher at Merck & Co., Inc., Rahway, NJ, USA (United States) in US. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.070457
+date: 2026-10-11T02:33:00.100563
 url: "/cdr-researcher-census/researchers/bingming-chen-a5037835/"
 layout: "researcher"
 hiddenInHomeList: true

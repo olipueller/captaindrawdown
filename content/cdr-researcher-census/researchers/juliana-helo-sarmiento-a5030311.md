@@ -1,7 +1,7 @@
 ---
 title: "Juliana Helo Sarmiento"
 description: "Juliana Helo Sarmiento is a Mid-career General CDR researcher at Universidad de Los Andes in CO. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.804070
+date: 2026-10-11T02:32:59.828807
 url: "/cdr-researcher-census/researchers/juliana-helo-sarmiento-a5030311/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The 2023 Latin America report of the Lancet Countdown on health and climate change: the imperative for health-centred climate-resilient development** (2024)
-   96 citations · General CDR
+   100 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Huayue Nie"
 description: "Huayue Nie is a Mid-career Biochar researcher. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.233428
+date: 2026-10-11T02:32:59.236653
 url: "/cdr-researcher-census/researchers/huayue-nie-a5070298/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sang Woo Byun"
 description: "Sang Woo Byun is a Mid-career DAC researcher at Gwangju Institute of Science and Technology in KR. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.785393
+date: 2026-10-11T02:32:59.809363
 url: "/cdr-researcher-census/researchers/sang-woo-byun-a5025316/"
 layout: "researcher"
 hiddenInHomeList: true

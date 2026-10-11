@@ -1,7 +1,7 @@
 ---
 title: "Yousef Zahrani"
 description: "Yousef Zahrani is a Mid-career Biochar researcher at King Khalid University in SA. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.367056
+date: 2026-10-11T02:33:00.402703
 url: "/cdr-researcher-census/researchers/yousef-zahrani-a5006978/"
 layout: "researcher"
 hiddenInHomeList: true

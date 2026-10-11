@@ -1,7 +1,7 @@
 ---
 title: "Govind Kumar Yadav"
 description: "Govind Kumar Yadav is an Early-career DAC researcher at Swami Keshwanand Rajasthan Agricultural University in IN. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.334612
+date: 2026-10-11T02:33:00.368654
 url: "/cdr-researcher-census/researchers/govind-kumar-yadav-a5069321/"
 layout: "researcher"
 hiddenInHomeList: true

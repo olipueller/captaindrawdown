@@ -1,7 +1,7 @@
 ---
 title: "Jiwei Li"
 description: "Jiwei Li is a Senior Soil Carbon researcher at Northwest A and F University in CN. With 136 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.061229
+date: 2026-10-11T02:32:59.065667
 url: "/cdr-researcher-census/researchers/jiwei-li-a5032496/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,34 +51,34 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon stabilization pathways in soil aggregates during long-term forest succession: Implications from δ13C signatures** (2023)
-   105 citations
+   107 citations
 
 2. **Thinning increases forest ecosystem carbon stocks** (2024)
-   96 citations · Soil Carbon
+   100 citations · Soil Carbon
 
 3. **Recalcitrant organic carbon plays a key role in soil carbon sequestration along a long-term vegetation succession on the Loess Plateau** (2023)
-   83 citations · Soil Carbon
+   85 citations · Soil Carbon
 
 4. **Forestation delivers significantly more effective results in soil C and N sequestrations than natural succession on badly degraded areas: Evidence from the Central Loess Plateau case** (2021)
    74 citations · Soil Carbon
 
 5. **Forests have a higher soil C sequestration benefit due to lower C mineralization efficiency: Evidence from the central loess plateau case** (2022)
-   68 citations
+   72 citations
 
 6. **Mixed plantations have more soil carbon sequestration benefits than pure plantations in China** (2022)
-   56 citations · Soil Carbon
+   57 citations · Soil Carbon
 
-7. **Deciphering microbial drivers of soil organic matter mineralization in surface and subsurface soil during long-term vegetation succession** (2024)
+7. **Inorganic Carbon Should Be Considered for Carbon Sequestration in Agricultural Soils** (2025)
    49 citations · Soil Carbon
 
-8. **Inorganic Carbon Should Be Considered for Carbon Sequestration in Agricultural Soils** (2025)
-   44 citations · Soil Carbon
+8. **Deciphering microbial drivers of soil organic matter mineralization in surface and subsurface soil during long-term vegetation succession** (2024)
+   49 citations · Soil Carbon
 
 9. **Dynamics of litter decomposition rate and soil organic carbon sequestration following vegetation succession on the Loess Plateau, China** (2023)
    44 citations · Soil Carbon
 
 10. **Belowground C sequestrations response to grazing exclusion in global grasslands: Dynamics and mechanisms** (2023)
-   21 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 ## External Profiles
 

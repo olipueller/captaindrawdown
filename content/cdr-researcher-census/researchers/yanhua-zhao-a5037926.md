@@ -1,7 +1,7 @@
 ---
 title: "Yanhua Zhao"
 description: "Yanhua Zhao is an Early-career Soil Carbon researcher at China Automotive Technology and Research Center in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.325119
+date: 2026-10-11T02:33:00.357727
 url: "/cdr-researcher-census/researchers/yanhua-zhao-a5037926/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Divergent effects of moderate grazing duration on carbon sequestration between temperate and alpine grasslands in China** (2022)
-   21 citations · General CDR
+   20 citations · General CDR
 
 ## External Profiles
 

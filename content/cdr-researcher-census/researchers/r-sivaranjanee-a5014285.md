@@ -1,7 +1,7 @@
 ---
 title: "R. Sivaranjanee"
 description: "R. Sivaranjanee is a Mid-career Biochar researcher at Saint Joseph's College in US. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.378680
+date: 2026-10-11T02:32:59.386004
 url: "/cdr-researcher-census/researchers/r-sivaranjanee-a5014285/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A critical review on biochar for the removal of toxic pollutants from water environment** (2024)
-   52 citations · Biochar
+   53 citations · Biochar
 
 2. **A critical review on biochar for environmental applications** (2023)
-   51 citations · Biochar
+   50 citations · Biochar
 
 ## External Profiles
 

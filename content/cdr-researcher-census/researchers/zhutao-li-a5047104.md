@@ -1,7 +1,7 @@
 ---
 title: "Zhutao Li"
 description: "Zhutao Li is a Mid-career Biochar researcher at Nanjing Agricultural University in CN. With 25 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.244865
+date: 2026-10-11T02:32:59.248584
 url: "/cdr-researcher-census/researchers/zhutao-li-a5047104/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Benefits and limitations of biochar for climate-smart agriculture: a review and case study from China** (2023)
-   123 citations · Biochar
+   124 citations · Biochar
 
 2. **Divergent effects of biochar amendment and replacing mineral fertilizer with manure on soil respiration in a subtropical tea plantation** (2023)
    20 citations · Biochar

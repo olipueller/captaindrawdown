@@ -1,7 +1,7 @@
 ---
 title: "Aaron N. Koop"
 description: "Aaron N. Koop is a Mid-career Enhanced Weathering researcher at AARP in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.303359
+date: 2026-10-11T02:33:00.334426
 url: "/cdr-researcher-census/researchers/aaron-n-koop-a5063279/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **From Soils to Streams: Connecting Terrestrial Carbon Transformation, Chemical Weathering, and Solute Export Across Hydrological Regimes** (2022)
-   68 citations · Enhanced Weathering
+   67 citations · Enhanced Weathering
 
 ## External Profiles
 

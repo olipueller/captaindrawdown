@@ -1,7 +1,7 @@
 ---
 title: "Xiaotian Mi"
 description: "Xiaotian Mi is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.163690
+date: 2026-10-11T02:33:00.193797
 url: "/cdr-researcher-census/researchers/xiaotian-mi-a5053905/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Green manure incorporation as a solution to synergistically improve crop yields and soil organic carbon sequestration** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 2. **Green Manure Incorporation as a Solution to Synergistically Improve Crop Yields and Soil Organic Carbon Sequestration** (2024)
    0 citations · Soil Carbon

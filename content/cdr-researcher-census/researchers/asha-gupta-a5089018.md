@@ -1,7 +1,7 @@
 ---
 title: "Asha Gupta"
 description: "Asha Gupta is a Senior Soil Carbon researcher at ZHAW Zurich University of Applied Sciences in CH. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.017003
+date: 2026-10-11T02:33:00.047951
 url: "/cdr-researcher-census/researchers/asha-gupta-a5089018/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Quantifying Tree Diversity, Carbon Stocks, and Sequestration Potential for Diverse Land Uses in Northeast India** (2021)
-   73 citations · General CDR
+   75 citations · General CDR
 
 ## External Profiles
 

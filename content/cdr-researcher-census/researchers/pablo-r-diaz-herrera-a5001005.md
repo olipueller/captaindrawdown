@@ -1,7 +1,7 @@
 ---
 title: "Pablo R. Díaz-Herrera"
 description: "Pablo R. Díaz-Herrera is a Mid-career BECCS researcher. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.385702
+date: 2026-10-11T02:33:00.422623
 url: "/cdr-researcher-census/researchers/pablo-r-diaz-herrera-a5001005/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,13 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 
 ## Top CDR Publications
 
-1. **Decarbonization of sugarcane refinery through bioethanol production and CHP generation with carbon capture and storage (BECCS)** (2025)
+1. **Decarbonization of a sugarcane refinery in Mexico through bioethanol production and CHP generation with carbon capture and storage (BECCS)** (2026)
+   0 citations · BECCS
+
+2. **Decarbonization of sugarcane refinery through bioethanol production and CHP generation with carbon capture and storage (BECCS)** (2026)
+   0 citations
+
+3. **Decarbonization of sugarcane refinery through bioethanol production and CHP generation with carbon capture and storage (BECCS)** (2025)
    0 citations · BECCS
 
 ## External Profiles

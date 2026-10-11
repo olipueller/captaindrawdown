@@ -1,7 +1,7 @@
 ---
 title: "Boriana Kalderon-Asael"
 description: "Boriana Kalderon-Asael is a Senior General CDR researcher at Planetary Science Institute in US. With 42 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.299094
+date: 2026-10-11T02:32:59.304170
 url: "/cdr-researcher-census/researchers/boriana-kalderon-asael-a5015721/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    68 citations
 
 2. **Lithium isotopic constraints on the evolution of continental clay mineral factory and marine oxygenation in the earliest Paleozoic Era** (2024)
-   48 citations · General CDR
+   49 citations · General CDR
 
 3. **Initial validation of a soil-based mass-balance approach for empirical monitoring of enhanced rock weathering rates** (2023)
    6 citations · Enhanced Weathering
@@ -62,23 +62,23 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 4. **Heterogeneous Carbonate Lithium Isotope Records Across the end-Permian Mass Extinction Indicate a Highly Perturbed Lithium Cycle in the Early Triassic** (2026)
    1 citations
 
-5. **Heterogeneous Carbonate Lithium Isotope Records Across the end-Permian Mass Extinction Indicate a Highly Perturbed Lithium Cycle in the Early Triassic** (2026)
-   0 citations
-
-6. **Multiple Lines of Evidence Reveal Rapid, Seasonal Watershed Responses to Enhanced Weathering** (2025)
+5. **Multiple lines of evidence reveal rapid, seasonal watershed responses to enhanced weathering** (2026)
    0 citations · Enhanced Weathering
 
-7. **An Updated Framework and Signal-to-Noise Analysis of Soil Mass Balance Approaches for Quantifying Enhanced Weathering on Managed Lands** (2025)
+6. **Heterogeneous Carbonate Lithium Isotope Records Across the end-Permian Mass Extinction Indicate a Highly Perturbed Lithium Cycle in the Early Triassic** (2026)
+   0 citations
+
+7. **Multiple Lines of Evidence Reveal Rapid, Seasonal Watershed Responses to Enhanced Weathering** (2025)
    0 citations · Enhanced Weathering
 
-8. **Updated framework and signal-to-noise analysis of soil mass balance approaches for quantifying enhanced weathering on managed lands** (2025)
-   0 citations
+8. **An Updated Framework and Signal-to-Noise Analysis of Soil Mass Balance Approaches for Quantifying Enhanced Weathering on Managed Lands** (2025)
+   0 citations · Enhanced Weathering
 
 9. **Updated framework and signal-to-noise analysis of soil mass balance approaches for quantifying enhanced weathering on managed lands** (2025)
-   0 citations · Enhanced Weathering
-
-10. **Quantifying carbon dioxide removal in an enhanced rock weathering field trial in Queensland, Australia: a soil-based mass balance approach** (2023)
    0 citations
+
+10. **Updated framework and signal-to-noise analysis of soil mass balance approaches for quantifying enhanced weathering on managed lands** (2025)
+   0 citations · Enhanced Weathering
 
 ## External Profiles
 

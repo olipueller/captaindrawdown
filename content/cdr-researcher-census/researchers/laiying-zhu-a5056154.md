@@ -1,7 +1,7 @@
 ---
 title: "Laiying Zhu"
 description: "Laiying Zhu is a Senior Biochar researcher at Xiangtan University in CN. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.495315
+date: 2026-10-11T02:32:59.507426
 url: "/cdr-researcher-census/researchers/laiying-zhu-a5056154/"
 layout: "researcher"
 hiddenInHomeList: true

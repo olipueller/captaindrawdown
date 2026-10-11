@@ -1,7 +1,7 @@
 ---
 title: "Ida Marie Henriksen"
 description: "Ida Marie Henriksen is a Mid-career BECCS researcher. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.638808
+date: 2026-10-11T02:32:59.657362
 url: "/cdr-researcher-census/researchers/ida-marie-henriksen-a5003026/"
 layout: "researcher"
 hiddenInHomeList: true

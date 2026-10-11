@@ -1,7 +1,7 @@
 ---
 title: "Jennifer Putland"
 description: "Jennifer Putland is a Senior Ocean CDR researcher. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.633360
+date: 2026-10-11T02:32:59.651974
 url: "/cdr-researcher-census/researchers/jennifer-putland-a5111375/"
 layout: "researcher"
 hiddenInHomeList: true

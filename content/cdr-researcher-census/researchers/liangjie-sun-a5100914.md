@@ -1,7 +1,7 @@
 ---
 title: "Liangjie Sun"
 description: "Liangjie Sun is a Mid-career Soil Carbon researcher at Shanghai Institute of Applied Physics in CN. With 41 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.385663
+date: 2026-10-11T02:32:59.393559
 url: "/cdr-researcher-census/researchers/liangjie-sun-a5100914/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,22 +54,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    23 citations
 
 3. **Conservation tillage enhances both organic and inorganic carbon in dryland: Insights from a 20-year field experiment and meta-analysis** (2025)
-   13 citations · Soil Carbon
+   18 citations · Soil Carbon
 
-4. **Effects of Adding Different Corn Residue Components on Soil and Aggregate Organic Carbon** (2025)
+4. **Agricultural management-driven soil inorganic carbon dynamics: Evidence from Chinese field experiments** (2025)
    8 citations · Soil Carbon
 
-5. **Agricultural management-driven soil inorganic carbon dynamics: Evidence from Chinese field experiments** (2025)
-   7 citations · Soil Carbon
+5. **Effects of Adding Different Corn Residue Components on Soil and Aggregate Organic Carbon** (2025)
+   8 citations · Soil Carbon
 
 6. **Enhancing soil ecological stoichiometry and orchard yield through ground cover management: A meta-analysis across China** (2025)
    5 citations · Soil Carbon
 
 7. **Cultivating crop reduces microbial necromass carbon accumulation but contributes fungal derived- soil organic carbon formation in fertilized soils with straw addition** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 8. **Stover return enhances the transformation and sequestration of photosynthetic carbon through regulating soil food web** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 9. **Soil Fertility and Maize Residue Quality All Effect the Exogenous Carbon Sequestration Only in the Short Term in Macroaggregates, but Not in Microaggregates** (2025)
    1 citations · Soil Carbon

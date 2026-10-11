@@ -1,7 +1,7 @@
 ---
 title: "Karin Treyer"
 description: "Karin Treyer is a Senior General CDR researcher at Paul Scherrer Institute in CH. With 36 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.107865
+date: 2026-10-11T02:32:59.112524
 url: "/cdr-researcher-census/researchers/karin-treyer-a5068272/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Life Cycle Assessment of Direct Air Carbon Capture and Storage with Low-Carbon Energy Sources** (2021)
-   298 citations · DAC
+   296 citations · DAC
 
 2. **On the climate impacts of blue hydrogen production** (2021)
    12 citations · BECCS

@@ -1,7 +1,7 @@
 ---
 title: "Badr A. Mohamed"
 description: "Badr A. Mohamed is a Senior Biochar researcher at Cairo University in EG. With 72 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.072592
+date: 2026-10-11T02:32:59.077302
 url: "/cdr-researcher-census/researchers/badr-a-mohamed-a5009215/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Comparative life-cycle assessment of pyrolysis processes for producing bio-oil, biochar, and activated carbon from sewage sludge** (2022)
-   159 citations · Biochar
+   161 citations · Biochar
 
 2. **Phenolic-rich bio-oil production by microwave catalytic pyrolysis of switchgrass: Experimental study, life cycle assessment, and economic analysis** (2022)
    74 citations · Biochar
 
 3. **Co-pyrolysis of sewage sludge and biomass waste into biofuels and biochar: A comprehensive feasibility study using a circular economy approach** (2023)
-   24 citations · Biochar
+   25 citations · Biochar
 
 4. **Catalyzed biochar from date palm waste for ammonium removal: potential application in poultry farms for ammonia mitigation** (2025)
-   1 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

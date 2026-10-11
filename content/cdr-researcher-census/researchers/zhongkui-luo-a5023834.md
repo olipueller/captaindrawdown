@@ -1,7 +1,7 @@
 ---
 title: "Zhongkui Luo"
 description: "Zhongkui Luo is an Eminent Soil Carbon researcher at Zhejiang University in CN. With 152 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.040433
+date: 2026-10-11T02:32:59.043523
 url: "/cdr-researcher-census/researchers/zhongkui-luo-a5023834/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon sequestration in the subsoil and the time required to stabilize carbon for climate change mitigation** (2024)
-   71 citations · General CDR
+   75 citations · General CDR
 
 2. **Nutrient limitation of soil organic carbon stocks under straw return** (2024)
-   62 citations
+   67 citations
 
-3. **Significant accrual of soil organic carbon through long‐term rice cultivation in paddy fields in China** (2024)
+3. **Soil carbon sequestration enhanced by long-term nitrogen and phosphorus fertilization** (2025)
+   63 citations · Soil Carbon
+
+4. **Significant accrual of soil organic carbon through long‐term rice cultivation in paddy fields in China** (2024)
    57 citations · Soil Carbon
 
-4. **Soil carbon sequestration enhanced by long-term nitrogen and phosphorus fertilization** (2025)
-   55 citations · Soil Carbon
-
 5. **Increased Mineral‐Associated Organic Carbon and Persistent Molecules in Allochthonous Blue Carbon Ecosystems** (2025)
-   33 citations · Soil Carbon
+   37 citations · Soil Carbon
 
 6. **Efficiency of additional organic inputs for carbon sequestration in agricultural soils modulated by the priming effect and physical accessibility** (2021)
    18 citations · Soil Carbon
@@ -72,7 +72,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    13 citations · General CDR
 
 8. **Effects of long-term fertiliser application on cropland soil carbon dynamics mediated by potential shifts in microbial carbon use efficiency** (2024)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 9. **Using visible-near infrared spectroscopy to estimate whole-profile soil organic carbon and its fractions** (2024)
    11 citations · Soil Carbon

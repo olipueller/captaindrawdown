@@ -1,7 +1,7 @@
 ---
 title: "Javier Ordoñez-Loza"
 description: "Javier Ordoñez-Loza is a Mid-career Biochar researcher at Western University in CA. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.162988
+date: 2026-10-11T02:33:00.193184
 url: "/cdr-researcher-census/researchers/javier-ordonez-loza-a5000547/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Self-Energized Pyrolysis Process for Sustainable Biochar Production** (2024)
-   4 citations · Biochar
+   6 citations · Biochar
 
 ## External Profiles
 

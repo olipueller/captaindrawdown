@@ -1,7 +1,7 @@
 ---
 title: "Yujun Cao"
 description: "Yujun Cao is a Mid-career Soil Carbon researcher at Jilin Academy of Agricultural Sciences in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.128237
+date: 2026-10-11T02:33:00.158436
 url: "/cdr-researcher-census/researchers/yujun-cao-a5041489/"
 layout: "researcher"
 hiddenInHomeList: true

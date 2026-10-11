@@ -1,7 +1,7 @@
 ---
 title: "Fredrik Normann"
 description: "Fredrik Normann is a Senior General CDR researcher at Luossavaara-Kiirunavaara Aktiebolag (Sweden) in SE. With 170 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.082647
+date: 2026-10-11T02:32:59.087475
 url: "/cdr-researcher-census/researchers/fredrik-normann-a5037319/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A techno-economic assessment of CO2 capture in biomass and waste-fired combined heat and power plants – A Swedish case study** (2022)
-   72 citations · BECCS
+   76 citations · BECCS
 
-2. **Modeling the development of a carbon capture and transportation infrastructure for Swedish industry** (2023)
-   17 citations · General CDR
+2. **Large-Scale Implementation of Bioenergy With Carbon Capture and Storage in the Swedish Pulp and Paper Industry Involving Biomass Supply at the Regional Level** (2021)
+   19 citations · BECCS
 
-3. **Large-Scale Implementation of Bioenergy With Carbon Capture and Storage in the Swedish Pulp and Paper Industry Involving Biomass Supply at the Regional Level** (2021)
-   17 citations · BECCS
+3. **Modeling the development of a carbon capture and transportation infrastructure for Swedish industry** (2023)
+   18 citations · General CDR
 
 4. **Cost-optimal CO2 capture and transport infrastructure—A case study of Sweden** (2024)
    13 citations · General CDR

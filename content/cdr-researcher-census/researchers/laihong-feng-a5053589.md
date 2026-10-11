@@ -1,7 +1,7 @@
 ---
 title: "Laihong Feng"
 description: "Laihong Feng is a Mid-career Biochar researcher at China Coal Technology and Engineering Group Corp (China) in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.981906
+date: 2026-10-11T02:33:00.013112
 url: "/cdr-researcher-census/researchers/laihong-feng-a5053589/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Preparation of three kinds of efficient sludge-derived adsorbents for metal ions and organic wastewater purification** (2024)
-   32 citations · Biochar
+   31 citations · Biochar
 
 ## External Profiles
 

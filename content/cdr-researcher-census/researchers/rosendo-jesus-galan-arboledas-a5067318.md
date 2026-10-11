@@ -1,7 +1,7 @@
 ---
 title: "Rosendo Jesús Galán-Arboledas"
 description: "Rosendo Jesús Galán-Arboledas is a Mid-career General CDR researcher. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.914951
+date: 2026-10-11T02:32:59.959238
 url: "/cdr-researcher-census/researchers/rosendo-jesus-galan-arboledas-a5067318/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Assessing Pathways to Carbon Neutrality in the Ceramic Sector: A Prospective Life Cycle Assessment under Energy System Projections and Technology Scenarios** (2025)
-   1 citations · General CDR
+   2 citations · General CDR
 
 2. **Assessing Pathways to Carbon Neutrality in the Ceramic Sector: A Prospective Life Cycle Assessment under Energy System Projections and Technology Scenarios** (2026)
    0 citations

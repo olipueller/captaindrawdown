@@ -1,7 +1,7 @@
 ---
 title: "Zhen Zhang"
 description: "Zhen Zhang is a Mid-career Biochar researcher at Nanjing University of Information Science and Technology in CN. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.382829
+date: 2026-10-11T02:32:59.390555
 url: "/cdr-researcher-census/researchers/zhen-zhang-a5100622/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Pyrolysis temperature dependent effects of biochar on shifting fluorescence spectrum characteristics of soil dissolved organic matter under warming** (2023)
-   44 citations · Biochar
+   45 citations · Biochar
 
 2. **Elucidating CO <sub>2</sub> accumulation and dispersion in a semi-enclosed bay industrial park using Lidar and WRF-GHG modelling** (2026)
    0 citations · General CDR

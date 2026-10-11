@@ -1,7 +1,7 @@
 ---
 title: "Pragati Kumar"
 description: "Pragati Kumar is an Early-career Biochar researcher at Central University of Himachal Pradesh in IN. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.396628
+date: 2026-10-11T02:33:00.434845
 url: "/cdr-researcher-census/researchers/pragati-kumar-a5038023/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Functionalising Pinus roxburghii Biochar with Mg–Fe-LDH for Effective Organic Pollutant Mitigation in Wastewater** (2024)
-   12 citations · Biochar
+   14 citations · Biochar
 
 ## External Profiles
 

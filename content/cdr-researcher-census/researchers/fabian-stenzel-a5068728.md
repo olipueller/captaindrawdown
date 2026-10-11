@@ -1,7 +1,7 @@
 ---
 title: "Fabian Stenzel"
 description: "Fabian Stenzel is a Senior General CDR researcher at Stockholm Resilience Centre in SE. With 72 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.518061
+date: 2026-10-11T02:32:59.531834
 url: "/cdr-researcher-census/researchers/fabian-stenzel-a5068728/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Irrigation of biomass plantations may globally increase water stress more than climate change** (2021)
-   97 citations · BECCS
+   100 citations · BECCS
 
-2. **Multiple planetary boundaries preclude biomass crops for carbon capture and storage outside of agricultural areas** (2025)
+2. **Biological nitrogen fixation of natural and agricultural vegetation simulated with LPJmL 5.7.9** (2024)
+   17 citations · Soil Carbon
+
+3. **Multiple planetary boundaries preclude biomass crops for carbon capture and storage outside of agricultural areas** (2025)
    15 citations · BECCS
 
-3. **Biological nitrogen fixation of natural and agricultural vegetation simulated with LPJmL 5.7.9** (2024)
-   12 citations · Soil Carbon
-
 4. **A protein transition can free up land to tap vast energy and negative emission potentials** (2024)
-   8 citations · General CDR
+   7 citations · General CDR
 
 5. **Biological nitrogen fixation of natural and agricultural vegetation simulated with LPJmL 5.7.9** (2024)
    4 citations

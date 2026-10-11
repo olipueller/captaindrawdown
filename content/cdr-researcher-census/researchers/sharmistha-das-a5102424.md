@@ -1,7 +1,7 @@
 ---
 title: "Sharmistha Das"
 description: "Sharmistha Das is a Mid-career Soil Carbon researcher at Bharath University in IN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.874392
+date: 2026-10-11T02:32:59.901639
 url: "/cdr-researcher-census/researchers/sharmistha-das-a5102424/"
 layout: "researcher"
 hiddenInHomeList: true

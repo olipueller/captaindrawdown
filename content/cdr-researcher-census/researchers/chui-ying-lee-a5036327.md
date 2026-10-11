@@ -1,7 +1,7 @@
 ---
 title: "Chui Ying Lee"
 description: "Chui Ying Lee is a Mid-career General CDR researcher at Hiroshima University in JP. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.010913
+date: 2026-10-11T02:33:00.042082
 url: "/cdr-researcher-census/researchers/chui-ying-lee-a5036327/"
 layout: "researcher"
 hiddenInHomeList: true

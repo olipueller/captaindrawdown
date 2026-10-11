@@ -1,7 +1,7 @@
 ---
 title: "Zhongyi Qu"
 description: "Zhongyi Qu is a Senior Soil Carbon researcher at Inner Mongolia Agricultural University in CN. With 78 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.105150
+date: 2026-10-11T02:32:59.109807
 url: "/cdr-researcher-census/researchers/zhongyi-qu-a5031916/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Contrasting effects of different straw return modes on net ecosystem carbon budget and carbon footprint in saline-alkali arid farmland** (2024)
-   51 citations · Soil Carbon
+   54 citations · Soil Carbon
 
 2. **Soil Respiration and Organic Carbon Response to Biochar and Their Influencing Factors** (2022)
-   33 citations · Biochar
+   36 citations · Biochar
 
 3. **Evaluation of net carbon sequestration and ecological benefits from single biochar-incorporated sorghum farmland systems in saline-alkali areas of Inner Mongolia, China** (2024)
-   26 citations · Biochar
+   28 citations · Biochar
 
 4. **Co-application of microalgae and biochar increases yield and mitigates greenhouse gas emissions in saline-alkali soil** (2025)
-   16 citations · Biochar
+   17 citations · Biochar
 
 5. **Evaluating annual soil carbon emissions under biochar-added farmland subjecting from freeze-thaw cycle** (2024)
    12 citations · Biochar

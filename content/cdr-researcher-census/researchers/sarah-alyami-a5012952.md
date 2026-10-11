@@ -1,7 +1,7 @@
 ---
 title: "Sarah Alyami"
 description: "Sarah Alyami is a Mid-career DAC researcher at King Fahd University of Petroleum and Minerals in SA. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.812402
+date: 2026-10-11T02:32:59.837337
 url: "/cdr-researcher-census/researchers/sarah-alyami-a5012952/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Techno-Economic Assessment of Hybrid Renewable Energy Systems for Direct Air Capture in Saudi Arabia** (2025)
-   5 citations · DAC
+   7 citations · DAC
 
 ## External Profiles
 

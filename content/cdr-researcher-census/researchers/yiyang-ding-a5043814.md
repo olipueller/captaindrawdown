@@ -1,7 +1,7 @@
 ---
 title: "Yiyang Ding"
 description: "Yiyang Ding is a Mid-career Biochar researcher at University of Helsinki in FI. With 37 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.707406
+date: 2026-10-11T02:32:59.728015
 url: "/cdr-researcher-census/researchers/yiyang-ding-a5043814/"
 layout: "researcher"
 hiddenInHomeList: true

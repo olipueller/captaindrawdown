@@ -1,7 +1,7 @@
 ---
 title: "Julius Garbe"
 description: "Julius Garbe is a Mid-career General CDR researcher at University of Potsdam in DE. With 59 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.477357
+date: 2026-10-11T02:32:59.488647
 url: "/cdr-researcher-census/researchers/julius-garbe-a5060985/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Exploring risks and benefits of overshooting a 1.5 °C carbon budget over space and time** (2023)
-   25 citations · General CDR
+   26 citations · General CDR
 
 2. **Exploring risks and benefits of overshooting a 1.5°C carbon budget over space and time** (2023)
    1 citations · General CDR

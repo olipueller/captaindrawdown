@@ -1,7 +1,7 @@
 ---
 title: "Nikhil Sanjay Nighot"
 description: "Nikhil Sanjay Nighot is an Early-career Biochar researcher at Central Building Research Institute in IN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.203535
+date: 2026-10-11T02:33:00.233373
 url: "/cdr-researcher-census/researchers/nikhil-sanjay-nighot-a5044659/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Mixture of biochar as a green additive in cement-based materials for carbon dioxide sequestration** (2024)
-   23 citations · Biochar
+   24 citations · Biochar
 
 ## External Profiles
 

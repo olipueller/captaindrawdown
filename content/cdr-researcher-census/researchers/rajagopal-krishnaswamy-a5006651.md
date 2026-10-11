@@ -1,7 +1,7 @@
 ---
 title: "Rajagopal Krishnaswamy"
 description: "Rajagopal Krishnaswamy is an Early-career Biochar researcher. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.985123
+date: 2026-10-11T02:33:00.016144
 url: "/cdr-researcher-census/researchers/rajagopal-krishnaswamy-a5006651/"
 layout: "researcher"
 hiddenInHomeList: true

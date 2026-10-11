@@ -1,7 +1,7 @@
 ---
 title: "Mehakpreet Kaur Randhawa"
 description: "Mehakpreet Kaur Randhawa is a Mid-career Soil Carbon researcher at Punjab Agricultural University in IN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.943150
+date: 2026-10-11T02:32:59.973259
 url: "/cdr-researcher-census/researchers/mehakpreet-kaur-randhawa-a5044548/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · Soil Carbon
 
 2. **Impact of fertilization and tillage practices on transformations of carbon, essential plant nutrients and microbial biota composition in soils: a review** (2023)
-   7 citations · General CDR
+   8 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Yuxiang Lv"
 description: "Yuxiang Lv is a Mid-career Soil Carbon researcher at Southwest University in CN. With 8 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.902220
+date: 2026-10-11T02:32:59.931514
 url: "/cdr-researcher-census/researchers/yuxiang-lv-a5028781/"
 layout: "researcher"
 hiddenInHomeList: true

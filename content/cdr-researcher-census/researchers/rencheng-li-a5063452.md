@@ -1,7 +1,7 @@
 ---
 title: "Rencheng Li"
 description: "Rencheng Li is a Senior Soil Carbon researcher at Sichuan University in CN. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.465546
+date: 2026-10-11T02:32:59.476808
 url: "/cdr-researcher-census/researchers/rencheng-li-a5063452/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Phytolith‐occluded carbon in leaves of <scp><i>Dendrocalamus Ronganensis</i></scp> influenced by drought during growing season** (2022)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 2. **Fire effects on phytolith carbon sequestration** (2024)
    3 citations · Soil Carbon

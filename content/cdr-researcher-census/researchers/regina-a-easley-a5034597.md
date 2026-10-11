@@ -1,7 +1,7 @@
 ---
 title: "Regina A. Easley"
 description: "Regina A. Easley is a Senior Ocean CDR researcher at National Institute of Standards and Technology in US. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.510079
+date: 2026-10-11T02:32:59.523299
 url: "/cdr-researcher-census/researchers/regina-a-easley-a5034597/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Random and systematic uncertainty in ship‐based seawater carbonate chemistry observations** (2024)
-   8 citations · General CDR
+   10 citations · General CDR
 
 2. **Advancing calibration practices for total dissolved inorganic carbon measurements in seawater** (2025)
    0 citations · General CDR

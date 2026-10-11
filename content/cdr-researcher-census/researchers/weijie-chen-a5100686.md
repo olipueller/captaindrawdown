@@ -1,7 +1,7 @@
 ---
 title: "Weijie Chen"
 description: "Weijie Chen is a Senior Soil Carbon researcher at Xiamen University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.263762
+date: 2026-10-11T02:33:00.293748
 url: "/cdr-researcher-census/researchers/weijie-chen-a5100686/"
 layout: "researcher"
 hiddenInHomeList: true

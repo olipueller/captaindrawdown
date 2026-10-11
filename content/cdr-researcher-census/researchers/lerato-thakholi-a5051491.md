@@ -1,7 +1,7 @@
 ---
 title: "Lerato Thakholi"
 description: "Lerato Thakholi is a Mid-career General CDR researcher at Wageningen University & Research in NL. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.740731
+date: 2026-10-11T02:32:59.762998
 url: "/cdr-researcher-census/researchers/lerato-thakholi-a5051491/"
 layout: "researcher"
 hiddenInHomeList: true

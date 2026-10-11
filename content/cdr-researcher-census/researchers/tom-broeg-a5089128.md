@@ -1,7 +1,7 @@
 ---
 title: "Tom Broeg"
 description: "Tom Broeg is a Mid-career Soil Carbon researcher at Johann Heinrich von Thünen-Institut in DE. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.299832
+date: 2026-10-11T02:33:00.330280
 url: "/cdr-researcher-census/researchers/tom-broeg-a5089128/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,13 +50,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Grassland age estimates for Germany (1990–2023) derived from Landsat and Sentinel-2 time series** (2026)
-   0 citations
+1. **Leveraging multidecadal satellite time series to estimate grassland age on national scale** (2026)
+   1 citations
 
 2. **Grassland age estimates for Germany (1990–2023) derived from Landsat and Sentinel-2 time series** (2026)
    0 citations
 
-3. **Leveraging multidecadal satellite time series to estimate grassland age on national scale** (2026)
+3. **Grassland age estimates for Germany (1990–2023) derived from Landsat and Sentinel-2 time series** (2026)
    0 citations
 
 4. **Quantifying the uncertainty of remote sensing-based soil carbon monitoring** (2026)

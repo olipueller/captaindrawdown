@@ -1,7 +1,7 @@
 ---
 title: "Ke‐Qing Xiao"
 description: "Ke‐Qing Xiao is a Senior Soil Carbon researcher at University of Leeds Faculty of Environment in GB. With 85 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.071309
+date: 2026-10-11T02:32:59.075944
 url: "/cdr-researcher-census/researchers/keqing-xiao-a5044682/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,31 +51,31 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carboxyl-richness controls organic carbon preservation during coprecipitation with iron (oxyhydr)oxides in the natural environment** (2021)
-   124 citations · Soil Carbon
+   128 citations · Soil Carbon
 
 2. **Drivers of the global phosphorus cycle over geological time** (2024)
-   78 citations
+   85 citations
 
 3. **Lithium isotopic constraints on the evolution of continental clay mineral factory and marine oxygenation in the earliest Paleozoic Era** (2024)
-   48 citations · General CDR
+   49 citations · General CDR
 
 4. **Rethinking Organic Carbon Sequestration in Agricultural Soils From the Elemental Stoichiometry Perspective** (2025)
-   35 citations · General CDR
+   37 citations · General CDR
 
 5. **Biochar as a green solution to drive the soil carbon pump** (2024)
-   26 citations · Biochar
+   29 citations · Biochar
 
-6. **Aggregate size mediates the stability and temperature sensitivity of soil organic carbon in response to decadal biochar and straw amendments** (2025)
-   18 citations · Biochar
+6. **Geopolymerization threatens the persistence of organic carbon associated with iron in anoxic environments** (2025)
+   21 citations · Soil Carbon
 
-7. **Geopolymerization threatens the persistence of organic carbon associated with iron in anoxic environments** (2025)
-   17 citations · Soil Carbon
+7. **Aggregate size mediates the stability and temperature sensitivity of soil organic carbon in response to decadal biochar and straw amendments** (2025)
+   20 citations · Biochar
 
 8. **‘Super-stable’ interlayer organic carbon in soil clay minerals and its impact on soil carbon sequestration** (2024)
    15 citations · Soil Carbon
 
 9. **Biochar and straw application reshape organic carbon pool via altering soil carbon pump function based on a decadal field experiment** (2025)
-   10 citations · Biochar
+   11 citations · Biochar
 
 10. **[Soil microbial carbon pump conceptual framework 2.0].** (2024)
    6 citations · General CDR

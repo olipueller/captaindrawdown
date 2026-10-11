@@ -1,7 +1,7 @@
 ---
 title: "Konstantinos Asimakopoulos"
 description: "Konstantinos Asimakopoulos is a Mid-career BECCS researcher at Danmarks Tekniske Universitet in DK. With 31 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.415256
+date: 2026-10-11T02:32:59.425164
 url: "/cdr-researcher-census/researchers/konstantinos-asimakopoulos-a5047271/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Competitiveness of syngas biomethanation integrated with carbon capture and storage, power-to-gas and biomethane liquefaction services: Techno-economic modeling of process scenarios and evaluation of subsidization requirements** (2022)
-   22 citations · BECCS
+   24 citations · BECCS
 
 2. **Competitiveness of Syngas Biomethanation within the Bioenergy with Carbon Capture and Storage and Power-to-Gas Concepts: Techno-Economic Modeling and Evaluation of the Level of Incentives Required at Different Scales** (2021)
    0 citations · BECCS

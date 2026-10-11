@@ -1,7 +1,7 @@
 ---
 title: "Jeroen Meersmans"
 description: "Jeroen Meersmans is an Eminent Soil Carbon researcher at University of Liège in BE. With 172 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.028990
+date: 2026-10-11T02:32:59.032022
 url: "/cdr-researcher-census/researchers/jeroen-meersmans-a5024947/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term manuring facilitates glomalin-related soil proteins accumulation by chemical composition shifts and macro-aggregation formation** (2023)
-   57 citations · Soil Carbon
+   58 citations · Soil Carbon
 
 2. **No-tillage facilitates soil organic carbon sequestration by enhancing arbuscular mycorrhizal fungi-related soil proteins accumulation and aggregation** (2024)
-   41 citations · Soil Carbon
+   42 citations · Soil Carbon
 
 3. **Impacts of climate change on crop production and soil carbon stock in a continuous wheat cropping system in southeast England** (2024)
    17 citations · Soil Carbon
@@ -71,10 +71,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 8. **Spatial Variation in Carbon Effluxes Mediated by Grazing–Soil Interactions in a Semi‐Natural Floodplain Grassland of North‐Eastern Belgium** (2025)
    3 citations · Soil Carbon
 
-9. **Long-term fertilization-induced increases in glomalin-related soil protein depend on phosphorus input and aggregate stability across climatic zones** (2025)
+9. **Competitive equilibrium between carbon loss and sequestration driven by erosion: Stratified responses of microbial metabolism and mineral protection** (2026)
    2 citations · Soil Carbon
 
-10. **Distribution patterns of SOC fractions and mineralization on sloping erosion-prone farmland in the black soil region** (2025)
+10. **Long-term fertilization-induced increases in glomalin-related soil protein depend on phosphorus input and aggregate stability across climatic zones** (2025)
    2 citations · Soil Carbon
 
 ## External Profiles

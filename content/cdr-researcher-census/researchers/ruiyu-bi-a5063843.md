@@ -1,7 +1,7 @@
 ---
 title: "Ruiyu Bi"
 description: "Ruiyu Bi is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 13 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.664879
+date: 2026-10-11T02:32:59.684400
 url: "/cdr-researcher-census/researchers/ruiyu-bi-a5063843/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biochar addition stabilized soil carbon sequestration by reducing temperature sensitivity of mineralization and altering the microbial community in a greenhouse vegetable field** (2022)
-   62 citations · Biochar
+   65 citations · Biochar
 
 2. **Optimizing organic substitution: Balancing carbon sequestration and priming effects of a six-year field experiment for sustainable vegetable production** (2023)
-   19 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 3. **General patterns of soil nutrient stoichiometry, microbial metabolic limitation and carbon use efficiency in paddy and vegetable fields along a climatic transect of eastern China** (2024)
    13 citations · Soil Carbon
+
+4. **Spatially Explicit Biochar Deployment Enhances Food Security and Advances Carbon Neutrality in China's Staple Crops** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

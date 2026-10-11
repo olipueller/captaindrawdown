@@ -1,7 +1,7 @@
 ---
 title: "Jing Wang"
 description: "Jing Wang is a Mid-career Soil Carbon researcher at Gansu Agricultural University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.518722
+date: 2026-10-11T02:32:59.532502
 url: "/cdr-researcher-census/researchers/jing-wang-a5103123/"
 layout: "researcher"
 hiddenInHomeList: true

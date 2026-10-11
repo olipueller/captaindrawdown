@@ -1,7 +1,7 @@
 ---
 title: "Tyler Kukla"
 description: "Tyler Kukla is a Mid-career Enhanced Weathering researcher at Colorado State University in US. With 79 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.437056
+date: 2026-10-11T02:32:59.447293
 url: "/cdr-researcher-census/researchers/tyler-kukla-a5044186/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,23 +50,23 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 ## Top CDR Publications
 
-1. **Expert elicitation on agricultural enhanced weathering highlights CO2 removal potential and uncertainties in loss pathways** (2025)
+1. **Expert elicitation on agricultural enhanced weathering reveals carbon dioxide removal potential and uncertainties in loss pathways** (2026)
+   5 citations · Enhanced Weathering
+
+2. **Expert elicitation on agricultural enhanced weathering highlights CO2 removal potential and uncertainties in loss pathways** (2025)
    3 citations · Enhanced Weathering
 
-2. **Riverine photosynthesis influences the carbon sequestration potential of enhanced rock weathering** (2025)
-   3 citations · Enhanced Weathering
-
-3. **Expert elicitation on agricultural enhanced weathering reveals carbon dioxide removal potential and uncertainties in loss pathways** (2026)
+3. **Riverine photosynthesis influences the carbon sequestration potential of enhanced rock weathering** (2025)
    2 citations · Enhanced Weathering
 
-4. **Surface Proton Reservoirs Constrain Alkalinity Export from Enhanced Weathering** (2026)
+4. **An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering** (2026)
+   1 citations · Enhanced Weathering
+
+5. **Surface Proton Reservoirs Constrain Alkalinity Export from Enhanced Weathering** (2026)
    0 citations · Enhanced Weathering
 
-5. **Moving fast without breaking things: The benefits of preprinting for CDR research** (2026)
+6. **Moving fast without breaking things: The benefits of preprinting for CDR research** (2026)
    0 citations · General CDR
-
-6. **An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering** (2026)
-   0 citations · Enhanced Weathering
 
 7. **Swapping carbonate for silicate in agricultural enhanced rock weathering** (2025)
    0 citations · Enhanced Weathering

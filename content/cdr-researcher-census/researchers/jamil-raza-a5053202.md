@@ -1,7 +1,7 @@
 ---
 title: "Jamil Raza"
 description: "Jamil Raza is a Senior Soil Carbon researcher at Quaid-i-Azam University in PK. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.841680
+date: 2026-10-11T02:32:59.867497
 url: "/cdr-researcher-census/researchers/jamil-raza-a5053202/"
 layout: "researcher"
 hiddenInHomeList: true

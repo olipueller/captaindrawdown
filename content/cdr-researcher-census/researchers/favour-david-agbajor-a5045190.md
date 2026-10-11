@@ -1,7 +1,7 @@
 ---
 title: "Favour David Agbajor"
 description: "Favour David Agbajor is a Mid-career General CDR researcher at Deakin University in AU. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.521606
+date: 2026-10-11T02:32:59.535558
 url: "/cdr-researcher-census/researchers/favour-david-agbajor-a5045190/"
 layout: "researcher"
 hiddenInHomeList: true

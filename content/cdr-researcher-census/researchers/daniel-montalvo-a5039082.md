@@ -1,7 +1,7 @@
 ---
 title: "Daniel Montalvo"
 description: "Daniel Montalvo is a Mid-career Ocean CDR researcher. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.080752
+date: 2026-10-11T02:33:00.111034
 url: "/cdr-researcher-census/researchers/daniel-montalvo-a5039082/"
 layout: "researcher"
 hiddenInHomeList: true

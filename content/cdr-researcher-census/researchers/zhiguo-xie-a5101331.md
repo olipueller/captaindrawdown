@@ -1,7 +1,7 @@
 ---
 title: "Zhiguo Xie"
 description: "Zhiguo Xie is a Senior Soil Carbon researcher at Shanxi Academy of Forestry in CN. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.163794
+date: 2026-10-11T02:33:00.193886
 url: "/cdr-researcher-census/researchers/zhiguo-xie-a5101331/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The CAZyme family regulates the changes in soil organic carbon composition during vegetation restoration in the Mu Us desert** (2024)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 2. **Dynamics of SOC density and driving factors during the restoration of artificial grassland and abandoned farmland in Mu Us Desert, China** (2023)
-   12 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 ## External Profiles
 

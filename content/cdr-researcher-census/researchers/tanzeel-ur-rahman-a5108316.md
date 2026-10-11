@@ -1,7 +1,7 @@
 ---
 title: "Tanzeel Ur Rahman"
 description: "Tanzeel Ur Rahman is a Mid-career General CDR researcher at Shenzhen University in CN. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.273569
+date: 2026-10-11T02:33:00.303536
 url: "/cdr-researcher-census/researchers/tanzeel-ur-rahman-a5108316/"
 layout: "researcher"
 hiddenInHomeList: true

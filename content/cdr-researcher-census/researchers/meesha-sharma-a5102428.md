@@ -1,7 +1,7 @@
 ---
 title: "Meesha Sharma"
 description: "Meesha Sharma is a Mid-career Biochar researcher at University of Delhi in IN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.002569
+date: 2026-10-11T02:33:00.033403
 url: "/cdr-researcher-census/researchers/meesha-sharma-a5102428/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar-Induced Microbial Shifts: Advancing Soil Sustainability** (2025)
-   44 citations · Biochar
+   46 citations · Biochar
 
 ## External Profiles
 

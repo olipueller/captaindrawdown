@@ -1,7 +1,7 @@
 ---
 title: "Yiannis Moustakis"
 description: "Yiannis Moustakis is a Mid-career General CDR researcher at NIHR Imperial Biomedical Research Centre in GB. With 33 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.653560
+date: 2026-10-11T02:32:59.672260
 url: "/cdr-researcher-census/researchers/yiannis-moustakis-a5054754/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,33 +51,33 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A holistic assessment framework for marine carbon dioxide removal options** (2025)
-   11 citations · General CDR
+   12 citations · General CDR
 
-2. **CMIP6 models agree on similar carbon cycle feedbacks between enhancing terrestrial and marine carbon sinks** (2025)
+2. **No compromise in efficiency from the co-application of a marine and a terrestrial CDR method** (2025)
+   8 citations · General CDR
+
+3. **CMIP6 models agree on similar carbon cycle feedbacks between enhancing terrestrial and marine carbon sinks** (2025)
    7 citations · General CDR
-
-3. **No compromise in efficiency from the co-application of a marine and a terrestrial CDR method** (2025)
-   5 citations · General CDR
 
 4. **Effective carbon dioxide removal requires a One-Earth approach** (2025)
    1 citations · General CDR
 
-5. **Regional perspective of terrestrial carbon dioxide removal on land-atmosphere coupling and heat extremes** (2026)
+5. **Assessing Earth system responses in mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2026)
    0 citations · General CDR
 
-6. **Beyond carbon: Does afforestation/reforestation mitigate or trigger future climate extremes?** (2026)
+6. **Regional perspective of terrestrial carbon dioxide removal on land-atmosphere coupling and heat extremes** (2026)
    0 citations · General CDR
 
-7. **Large ESM ensemble reveals complex responses of carbon and climate feedbacks to forestation across emission pathways** (2026)
+7. **Beyond carbon: Does afforestation/reforestation mitigate or trigger future climate extremes?** (2026)
    0 citations · General CDR
 
-8. **Assessing Earth system responses in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2026)
+8. **Large ESM ensemble reveals complex responses of carbon and climate feedbacks to forestation across emission pathways** (2026)
    0 citations · General CDR
 
-9. **Assessing Earth system feedbacks in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2025)
+9. **Assessing Earth system responses in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2026)
    0 citations · General CDR
 
-10. **Socioeconomic determinants of re/afforestation efforts** (2025)
+10. **Assessing Earth system feedbacks in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2025)
    0 citations · General CDR
 
 ## External Profiles

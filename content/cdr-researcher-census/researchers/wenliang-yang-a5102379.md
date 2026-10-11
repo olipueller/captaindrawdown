@@ -1,7 +1,7 @@
 ---
 title: "Wenliang Yang"
 description: "Wenliang Yang is a Senior Soil Carbon researcher at University of Chinese Academy of Sciences in CN. With 43 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.239533
+date: 2026-10-11T02:32:59.243097
 url: "/cdr-researcher-census/researchers/wenliang-yang-a5102379/"
 layout: "researcher"
 hiddenInHomeList: true

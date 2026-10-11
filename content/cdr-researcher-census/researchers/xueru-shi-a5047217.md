@@ -1,7 +1,7 @@
 ---
 title: "Xueru Shi"
 description: "Xueru Shi is a Senior General CDR researcher. With 20 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.387605
+date: 2026-10-11T02:32:59.395464
 url: "/cdr-researcher-census/researchers/xueru-shi-a5047217/"
 layout: "researcher"
 hiddenInHomeList: true

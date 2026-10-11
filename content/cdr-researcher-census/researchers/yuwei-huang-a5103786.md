@@ -1,7 +1,7 @@
 ---
 title: "Yuwei Huang"
 description: "Yuwei Huang is a Mid-career Biochar researcher at Shenyang Agricultural University in CN. With 31 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.305188
+date: 2026-10-11T02:32:59.310362
 url: "/cdr-researcher-census/researchers/yuwei-huang-a5103786/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Impact of oxidative aging on iron-modified biochar for Cr(VI) removal: mechanistic investigation into adsorption-reduction synergy and stability** (2025)
-   5 citations · Biochar
+   7 citations · Biochar
 
 2. **Divergent carbon sequestration pathways: biochar and maize stover mediate DOC properties and soil carbon accumulation** (2026)
    0 citations · Biochar

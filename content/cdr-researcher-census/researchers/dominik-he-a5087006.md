@@ -1,7 +1,7 @@
 ---
 title: "Dominik Heß"
 description: "Dominik Heß is an Early-career General CDR researcher at Applied Materials (United Kingdom) in GB. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.312537
+date: 2026-10-11T02:33:00.343245
 url: "/cdr-researcher-census/researchers/dominik-he-a5087006/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Scoping carbon dioxide removal options for Germany–What is their potential contribution to Net-Zero CO2?** (2022)
-   37 citations · General CDR
+   38 citations · General CDR
 
 2. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2024)
-   24 citations · BECCS
+   25 citations · BECCS
 
 3. **A Novel Approach to Electrochemical Direct Air Capture Using Aqueous <scp>l</scp>-Arginine Amino Acid Solutions as an Absorption Solvent: Proof-of-Concept and Technoeconomics** (2025)
-   6 citations
+   7 citations
 
 4. **A storyline approach: integrating comprehensive, interdisciplinary research results to create narratives – in the context of the net-zero target in Germany** (2024)
    2 citations · General CDR

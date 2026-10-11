@@ -1,7 +1,7 @@
 ---
 title: "Luciana Miu"
 description: "Luciana Miu is a Mid-career DAC researcher. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.348605
+date: 2026-10-11T02:33:00.383693
 url: "/cdr-researcher-census/researchers/luciana-miu-a5024261/"
 layout: "researcher"
 hiddenInHomeList: true

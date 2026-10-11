@@ -1,7 +1,7 @@
 ---
 title: "Guoheng Zhong"
 description: "Guoheng Zhong is a Mid-career Biochar researcher at Manchester Airport in GB. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.976179
+date: 2026-10-11T02:33:00.008009
 url: "/cdr-researcher-census/researchers/guoheng-zhong-a5023878/"
 layout: "researcher"
 hiddenInHomeList: true

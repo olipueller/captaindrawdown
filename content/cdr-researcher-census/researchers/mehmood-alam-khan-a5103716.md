@@ -1,7 +1,7 @@
 ---
 title: "Mehmood Alam Khan"
 description: "Mehmood Alam Khan is a Mid-career Soil Carbon researcher at Electrolux (Sweden) in SE. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.046267
+date: 2026-10-11T02:33:00.077032
 url: "/cdr-researcher-census/researchers/mehmood-alam-khan-a5103716/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Adaptations in Cropping System and Pattern for Sustainable Crops Production under Climate Change Scenarios** (2022)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 ## External Profiles
 

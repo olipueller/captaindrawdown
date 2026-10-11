@@ -1,7 +1,7 @@
 ---
 title: "Krishna Bahadur K. C."
 description: "Krishna Bahadur K. C. is a Senior Soil Carbon researcher at University of Guelph in CA. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.834881
+date: 2026-10-11T02:32:59.861120
 url: "/cdr-researcher-census/researchers/krishna-bahadur-k-c-a5108653/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Abdisa Jabesa"
 description: "Abdisa Jabesa is a Mid-career Biochar researcher at Haramaya University in ET. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.488129
+date: 2026-10-11T02:32:59.499968
 url: "/cdr-researcher-census/researchers/abdisa-jabesa-a5082882/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Comprehensive review on lignocellulosic biomass derived biochar production, characterization, utilization and applications** (2023)
-   94 citations · Biochar
+   98 citations · Biochar
 
 2. **Response surface method based parametric optimization of Cr(VI) removal from tannery wastewater using a mixed banana peel and corn cob activated carbon: Kinetic and isotherm modeling studies** (2024)
-   39 citations
+   41 citations
 
 3. **Adsorptive performances and valorization of green synthesized biochar–based activated carbon from banana peel and corn cob composites for the abatement of Cr(VI) from synthetic solutions: Parameters, isotherms, and remediation studies** (2024)
    25 citations · Biochar

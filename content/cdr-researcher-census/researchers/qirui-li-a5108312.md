@@ -1,7 +1,7 @@
 ---
 title: "Qirui Li"
 description: "Qirui Li is a Mid-career Soil Carbon researcher at University of Hohenheim in DE. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.397640
+date: 2026-10-11T02:33:00.435891
 url: "/cdr-researcher-census/researchers/qirui-li-a5108312/"
 layout: "researcher"
 hiddenInHomeList: true

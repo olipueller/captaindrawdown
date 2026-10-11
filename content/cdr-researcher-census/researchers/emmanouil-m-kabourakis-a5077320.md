@@ -1,7 +1,7 @@
 ---
 title: "Emmanouil M. Kabourakis"
 description: "Emmanouil M. Kabourakis is a Senior Soil Carbon researcher at Mediterranean University in ME. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.499094
+date: 2026-10-11T02:32:59.511458
 url: "/cdr-researcher-census/researchers/emmanouil-m-kabourakis-a5077320/"
 layout: "researcher"
 hiddenInHomeList: true

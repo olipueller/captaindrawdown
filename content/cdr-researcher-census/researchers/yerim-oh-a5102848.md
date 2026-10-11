@@ -1,7 +1,7 @@
 ---
 title: "Yerim Oh"
 description: "Yerim Oh is a Senior Biochar researcher at Jeonju National University of Education in KR. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.832893
+date: 2026-10-11T02:32:59.859110
 url: "/cdr-researcher-census/researchers/yerim-oh-a5102848/"
 layout: "researcher"
 hiddenInHomeList: true

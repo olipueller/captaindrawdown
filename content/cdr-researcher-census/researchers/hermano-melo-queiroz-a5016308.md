@@ -1,7 +1,7 @@
 ---
 title: "Hermano Melo Queiroz"
 description: "Hermano Melo Queiroz is a Senior Soil Carbon researcher at Universidade de São Paulo in BR. With 89 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.140117
+date: 2026-10-11T02:32:59.144498
 url: "/cdr-researcher-census/researchers/hermano-melo-queiroz-a5016308/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,19 +57,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    22 citations
 
 3. **How do soil processes control the provision of ecosystem services in coastal wetlands?** (2024)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 4. **Potential Environmental Impacts and Management Strategies for Metal Release during Ocean Alkalinity Enhancement Using Olivine** (2025)
-   15 citations · Enhanced Weathering
+   16 citations · Enhanced Weathering
 
 5. **Soil greenhouse gas fluxes partially reduce the net gains in carbon sequestration in mangroves of the Brazilian Amazon** (2024)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 6. **Recovery of Soil Processes in Replanted Mangroves: Implications for Soil Functions** (2022)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 7. **Masked diversity and contrasting soil processes in tropical seagrass meadows: the control of environmental settings** (2023)
-   5 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 8. **Tracking mangrove restoration using a biogeochemical soil health index and ecosystem service indicators** (2025)
    3 citations · Soil Carbon

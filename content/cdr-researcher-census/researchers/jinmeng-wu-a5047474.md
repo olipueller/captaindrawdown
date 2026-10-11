@@ -1,7 +1,7 @@
 ---
 title: "Jinmeng Wu"
 description: "Jinmeng Wu is a Mid-career Biochar researcher. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.601753
+date: 2026-10-11T02:32:59.619020
 url: "/cdr-researcher-census/researchers/jinmeng-wu-a5047474/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhancing pyrolysis oil quality through in-situ catalytic pyrolysis of biochar with temperature-driven nitrogen configuration modulation: Mechanistic insights into the catalytic process** (2025)
-   4 citations · Biochar
+   6 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Zhengang Wang"
 description: "Zhengang Wang is a Senior Soil Carbon researcher at Guangdong University of Technology in CN. With 99 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.093138
+date: 2026-10-11T02:32:59.097685
 url: "/cdr-researcher-census/researchers/zhengang-wang-a5005405/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 21 |
 | Citations | 2,744 |
 | Publications | 99 |
-| CDR Focus | 6.1% |
-| Trajectory | Stable |
+| CDR Focus | 7.1% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -63,9 +63,12 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 5. **Coupled geomorphic and climate-driven biogeochemical processes regulate soil organic carbon stocks in agricultural terraces** (2026)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
-6. **Coupled geomorphic and climate-driven biogeochemical processes regulate soil organic carbon stocks in agricultural terraces** (2026)
+6. **Transforming erosion-prone basin into carbon sink: the role of check dams in regulating carbon cycle in a semi-arid basin** (2026)
+   1 citations · Soil Carbon
+
+7. **Coupled geomorphic and climate-driven biogeochemical processes regulate soil organic carbon stocks in agricultural terraces** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

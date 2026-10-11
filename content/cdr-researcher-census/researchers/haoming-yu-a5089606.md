@@ -1,7 +1,7 @@
 ---
 title: "Haoming Yu"
 description: "Haoming Yu is a Mid-career Soil Carbon researcher at Peking University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.107014
+date: 2026-10-11T02:33:00.137529
 url: "/cdr-researcher-census/researchers/haoming-yu-a5089606/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Climate warming reduces soil gaseous nitrogen losses in a temperate forest** (2025)
-   4 citations
+   6 citations
 
 2. **Fertilizer‐Induced Nitrogen Accumulation Contributes to One Fifth of Topsoil Nitrogen in Chinese Upland Croplands** (2026)
    1 citations · Soil Carbon

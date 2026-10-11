@@ -1,7 +1,7 @@
 ---
 title: "Yanmin Dong"
 description: "Yanmin Dong is a Mid-career Soil Carbon researcher at Northeast Normal University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.818419
+date: 2026-10-11T02:32:59.843053
 url: "/cdr-researcher-census/researchers/yanmin-dong-a5058449/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The effects of hummock-hollow microtopography on soil organic carbon stocks and soil labile organic carbon fractions in a sedge peatland in Changbai Mountain, China** (2021)
-   56 citations · Soil Carbon
+   57 citations · Soil Carbon
 
 2. **Drainage-Driven Loss of Carbon Sequestration of a Temperate Peatland in Northeast China** (2023)
    14 citations · Soil Carbon

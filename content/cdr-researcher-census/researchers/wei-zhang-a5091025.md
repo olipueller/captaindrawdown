@@ -1,7 +1,7 @@
 ---
 title: "Wei Zhang"
 description: "Wei Zhang is an Eminent Soil Carbon researcher at Shihezi University in CN. With 245 publications and an h-index of 49, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.033967
+date: 2026-10-11T02:32:59.037083
 url: "/cdr-researcher-census/researchers/wei-zhang-a5091025/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,28 +51,28 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The formation of large macroaggregates induces soil organic carbon sequestration in short-term cropland restoration in a typical karst area** (2021)
-   104 citations · Soil Carbon
+   106 citations · Soil Carbon
 
 2. **Soil carbon accumulation with increasing temperature under both managed and natural vegetation restoration in calcareous soils** (2021)
-   77 citations · Soil Carbon
+   79 citations · Soil Carbon
 
 3. **Mixed plantations enhance more soil organic carbon stocks than monocultures across China: Implication for optimizing afforestation/reforestation strategies** (2022)
-   71 citations · Soil Carbon
+   73 citations · Soil Carbon
 
 4. **Nitrogen deposition caused higher increases in plant-derived organic carbon than microbial-derived organic carbon in forest soils** (2024)
-   30 citations · Soil Carbon
+   33 citations · Soil Carbon
 
 5. **Unexpected high retention of<sup>15</sup>N‐labeled nitrogen in a tropical legume forest under long‐term nitrogen enrichment** (2021)
-   30 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 6. **Bedrock outcrops weakly promote rather than inhibit soil carbon sequestration after vegetation restoration** (2022)
    20 citations · Soil Carbon
 
 7. **Linking microbial metabolism and ecological strategies to soil carbon cycle function in agroecosystems** (2025)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 8. **Can converting raw straw into biochar incorporation achieve both higher maize yield and lower greenhouse gas emissions intensity in drought-prone environment?** (2024)
-   13 citations · Biochar
+   14 citations · Biochar
 
 9. **Lower Sensitivity of Soil Carbon and Nitrogen to Regional Temperature Change in Karst Forests Than in Non-Karst Forests** (2023)
    11 citations · Soil Carbon

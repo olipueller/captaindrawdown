@@ -1,7 +1,7 @@
 ---
 title: "Xuqiang Luo"
 description: "Xuqiang Luo is a Senior Soil Carbon researcher at Guizhou Education University in CN. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.757412
+date: 2026-10-11T02:32:59.780023
 url: "/cdr-researcher-census/researchers/xuqiang-luo-a5035388/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Mixed plantations enhance more soil organic carbon stocks than monocultures across China: Implication for optimizing afforestation/reforestation strategies** (2022)
-   71 citations · Soil Carbon
+   73 citations · Soil Carbon
 
 2. **Mixed Plantations Enhance More Soil Organic Carbon Stocks than Monocultures Across China: Implication for Optimizing Afforestation Strategies** (2021)
    0 citations · Soil Carbon

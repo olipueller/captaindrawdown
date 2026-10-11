@@ -1,7 +1,7 @@
 ---
 title: "Spencer Clark"
 description: "Spencer Clark is a Senior General CDR researcher at The University of Melbourne in AU. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.158080
+date: 2026-10-11T02:33:00.188263
 url: "/cdr-researcher-census/researchers/spencer-clark-a5011630/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The reversibility of local and regional temperature extremes in CDRMIP** (2025)
-   0 citations · General CDR
+   1 citations · General CDR
 
 2. **Irreversibility and hysteresis in regional temperature extreme frequency under net-negative CO2 emissions** (2025)
    0 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Teresa Sauras‐Yera"
 description: "Teresa Sauras‐Yera is a Senior Soil Carbon researcher at Universitat de Barcelona Facultat de Biologia in ES. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.460213
+date: 2026-10-11T02:32:59.471485
 url: "/cdr-researcher-census/researchers/teresa-saurasyera-a5018374/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Equivalent-mass versus fixed-depth as criteria for quantifying soil carbon sequestration: How relevant is the difference?** (2022)
-   59 citations
+   57 citations
 
 2. **Equivalent-Mass Versus Fixed-Depth as Criteria for Quantifying Soil Carbon Sequestration: How Relevant is the Difference?** (2022)
    5 citations · Soil Carbon

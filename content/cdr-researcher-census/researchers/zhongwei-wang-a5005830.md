@@ -1,7 +1,7 @@
 ---
 title: "Zhongwei Wang"
 description: "Zhongwei Wang is an Early-career Biochar researcher at Shihezi University in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.963614
+date: 2026-10-11T02:32:59.994800
 url: "/cdr-researcher-census/researchers/zhongwei-wang-a5005830/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synergistic application of biochar with organic fertilizer enhances soil carbon sequestration by optimizing mineral-associated organic matter formation pathway contributions** (2026)
-   9 citations · Biochar
+   10 citations · Biochar
 
 ## External Profiles
 

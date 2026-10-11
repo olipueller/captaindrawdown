@@ -1,7 +1,7 @@
 ---
 title: "Sudarut Tripetchkul"
 description: "Sudarut Tripetchkul is a Senior Soil Carbon researcher at King Mongkut's University of Technology Thonburi in TH. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.424914
+date: 2026-10-11T02:32:59.434900
 url: "/cdr-researcher-census/researchers/sudarut-tripetchkul-a5112036/"
 layout: "researcher"
 hiddenInHomeList: true

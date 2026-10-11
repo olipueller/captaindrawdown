@@ -1,7 +1,7 @@
 ---
 title: "Joy Adeleke"
 description: "Joy Adeleke is a Mid-career Biochar researcher at University of Ilorin in NG. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.647231
+date: 2026-10-11T02:32:59.666130
 url: "/cdr-researcher-census/researchers/joy-adeleke-a5008387/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Adsorption of crude oil from aqueous solution: A review** (2022)
-   97 citations
+   98 citations
 
 2. **Comparative assessment of biochar produced from LDPE and neem leaves using batch and semi-batch biomass fuel-based reactors** (2023)
    23 citations · Biochar

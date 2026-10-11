@@ -1,7 +1,7 @@
 ---
 title: "Axelle Domin"
 description: "Axelle Domin is an Early-career DAC researcher at University of Calgary in CA. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.047946
+date: 2026-10-11T02:33:00.078690
 url: "/cdr-researcher-census/researchers/axelle-domin-a5004190/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Development of in situ polymerized amines into mesoporous silica for direct air CO2 capture** (2022)
-   108 citations
+   110 citations
 
 2. **CO2 capture using in-situ polymerized amines into pore-expanded-SBA-15: Performance evaluation, kinetics, and adsorption isotherms** (2022)
-   62 citations
+   67 citations
 
 3. **Co2 Capture Using In-Situ Polymerized Amines into Pore-Expanded-Sba-15: Performance Evaluation, Kinetics, and Adsorption Isotherms** (2022)
    5 citations · DAC

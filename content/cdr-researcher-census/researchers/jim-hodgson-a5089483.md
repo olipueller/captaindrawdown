@@ -1,7 +1,7 @@
 ---
 title: "Jim Hodgson"
 description: "Jim Hodgson is a Mid-career Soil Carbon researcher at Geological Survey of Ireland in IE. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.991396
+date: 2026-10-11T02:33:00.022022
 url: "/cdr-researcher-census/researchers/jim-hodgson-a5089483/"
 layout: "researcher"
 hiddenInHomeList: true

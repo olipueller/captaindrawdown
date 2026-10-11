@@ -1,7 +1,7 @@
 ---
 title: "Fazal Wahab"
 description: "Fazal Wahab is a Mid-career Biochar researcher at FZU ‒ Institute of Physics of the Academy of Sciences of the Czech Republic in CZ. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.946354
+date: 2026-10-11T02:32:59.976383
 url: "/cdr-researcher-census/researchers/fazal-wahab-a5101924/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Sustainable wastewater purification with crab shell-derived biochar: Advanced machine learning modeling &amp; experimental analysis** (2023)
-   32 citations · Biochar
+   34 citations · Biochar
 
 ## External Profiles
 

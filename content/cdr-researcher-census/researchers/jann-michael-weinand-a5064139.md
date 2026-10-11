@@ -1,7 +1,7 @@
 ---
 title: "Jann Michael Weinand"
 description: "Jann Michael Weinand is a Senior DAC researcher at Forschungszentrum Jülich in DE. With 174 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.121387
+date: 2026-10-11T02:32:59.126004
 url: "/cdr-researcher-census/researchers/jann-michael-weinand-a5064139/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,39 +45,39 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 28 |
 | Citations | 2,097 |
 | Publications | 174 |
-| CDR Focus | 6.3% |
+| CDR Focus | 8.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Weather conditions severely impact optimal direct air capture siting** (2025)
-   20 citations · DAC
+   19 citations · DAC
 
 2. **Weather-dependent direct air capture process modeling for techno-economic assessments** (2026)
-   11 citations · DAC
+   10 citations · DAC
 
-3. **Global strategic deployment of Direct Air Capture technologies** (2026)
+3. **Direct air capture enables sustainable methanol production in water-scarce regions** (2026)
    1 citations · DAC
 
-4. **Water-Conscious and CO<sup>2</sup>-Negative Hydrogen Production in the European Union** (2025)
+4. **Global strategic deployment of Direct Air Capture technologies** (2026)
    1 citations · DAC
 
-5. **Exploring Weather Impacts on Direct Air Capture Through Process and Techno-Economic Modeling** (2025)
+5. **Global strategic deployment of Direct Air Capture technologies** (2026)
    1 citations · DAC
 
-6. **Direct air capture enables sustainable methanol production in water-scarce regions** (2026)
+6. **Water-Conscious and CO<sup>2</sup>-Negative Hydrogen Production in the European Union** (2025)
+   1 citations · DAC
+
+7. **Exploring Weather Impacts on Direct Air Capture Through Process and Techno-Economic Modeling** (2025)
+   1 citations · DAC
+
+8. **Tracking Direct Air Capture Innovation Patent Analysis through LLM-Driven** (2026)
    0 citations · DAC
 
-7. **Global strategic deployment of Direct Air Capture technologies** (2026)
+9. **Direct air capture enables sustainable methanol production in water-scarce regions** (2026)
    0 citations · DAC
 
-8. **Global strategic deployment of Direct Air Capture technologies** (2026)
-   0 citations · DAC
-
-9. **Global strategic deployment of Direct Air Capture technologies** (2026)
-   0 citations · DAC
-
-10. **European Direct Air Capture Pathways Informed by Technological Learning** (2025)
+10. **Global strategic deployment of Direct Air Capture technologies** (2026)
    0 citations · DAC
 
 ## External Profiles

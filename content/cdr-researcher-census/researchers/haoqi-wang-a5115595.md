@@ -1,7 +1,7 @@
 ---
 title: "Haoqi Wang"
 description: "Haoqi Wang is a Mid-career Biochar researcher at Sichuan University in CN. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.342278
+date: 2026-10-11T02:33:00.377040
 url: "/cdr-researcher-census/researchers/haoqi-wang-a5115595/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Highly dispersed Co-N anchored on waste-derived biochar for enhanced peroxymonosulfate activation toward ciprofloxacin degradation: Non-radical processes-dominated oxidation mechanism** (2025)
-   13 citations · Biochar
+   16 citations · Biochar
 
 2. **Highly Dispersed Co-N Anchored on Waste-Derived Biochar  For Enhanced Peroxymonosulfate Activation Toward Ciprofloxacin Degradation: Singlet Oxygen-Dominated Oxidation Mechanism** (2025)
    0 citations · Biochar

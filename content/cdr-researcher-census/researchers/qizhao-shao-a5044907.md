@@ -1,7 +1,7 @@
 ---
 title: "Qizhao Shao"
 description: "Qizhao Shao is a Mid-career Biochar researcher at Qilu University of Technology in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.889688
+date: 2026-10-11T02:32:59.917326
 url: "/cdr-researcher-census/researchers/qizhao-shao-a5044907/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Preparation of copper doped walnut shell-based biochar for efficiently removal of organic dyes from aqueous solutions** (2021)
-   49 citations · Biochar
+   50 citations · Biochar
 
 ## External Profiles
 

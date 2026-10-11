@@ -1,7 +1,7 @@
 ---
 title: "Susan Yi"
 description: "Susan Yi is a Senior Biochar researcher at Delft University of Technology in NL. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.579837
+date: 2026-10-11T02:32:59.595690
 url: "/cdr-researcher-census/researchers/susan-yi-a5079989/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Review of Large-Scale Biochar Field-Trials for Soil Amendment and the Observed Influences on Crop Yield Variations** (2021)
-   163 citations · Biochar
+   166 citations · Biochar
 
 2. **The impact of biochar surface properties on sand and on sandy loam regarding water repellency, water retention, and gas transmissivity** (2024)
    2 citations · Biochar

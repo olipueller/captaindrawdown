@@ -1,7 +1,7 @@
 ---
 title: "Vikram Narayanan Dhamu"
 description: "Vikram Narayanan Dhamu is a Mid-career Soil Carbon researcher at National Audubon Society in US. With 76 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.344420
+date: 2026-10-11T02:32:59.350385
 url: "/cdr-researcher-census/researchers/vikram-narayanan-dhamu-a5066605/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **E-SCAN: Electrochemical Scanning of Carbonates, an In Situ Approach for Screening and Quantifying Inorganic Carbon in Soil** (2023)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 2. **ASSERT: A Platform Technology for Rapid Electrochemical Sensing of Soil Ammonium** (2024)
-   10 citations
+   12 citations
 
 3. **Electrochemical framework for dynamic tracking of Soil Organic Matter** (2024)
    8 citations · General CDR

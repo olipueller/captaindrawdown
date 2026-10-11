@@ -1,7 +1,7 @@
 ---
 title: "Qiang Gao"
 description: "Qiang Gao is a Senior General CDR researcher at Xizang Minzu University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.503214
+date: 2026-10-11T02:32:59.515780
 url: "/cdr-researcher-census/researchers/qiang-gao-a5089101/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Climate-Related Development Finance, Energy Structure Transformation and Carbon Emissions Reduction: An Analysis From the Perspective of Developing Countries** (2022)
-   30 citations · General CDR
+   31 citations · General CDR
 
 ## External Profiles
 

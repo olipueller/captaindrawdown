@@ -1,7 +1,7 @@
 ---
 title: "Dekai Liu"
 description: "Dekai Liu is a Mid-career General CDR researcher at Huaqiao University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.096336
+date: 2026-10-11T02:33:00.127005
 url: "/cdr-researcher-census/researchers/dekai-liu-a5103271/"
 layout: "researcher"
 hiddenInHomeList: true

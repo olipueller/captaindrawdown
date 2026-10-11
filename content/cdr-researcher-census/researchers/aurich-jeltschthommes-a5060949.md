@@ -1,7 +1,7 @@
 ---
 title: "Aurich Jeltsch‐Thömmes"
 description: "Aurich Jeltsch‐Thömmes is a Mid-career General CDR researcher at University of Bern in CH. With 71 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.186181
+date: 2026-10-11T02:32:59.190271
 url: "/cdr-researcher-census/researchers/aurich-jeltschthommes-a5060949/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Earth system responses to carbon dioxide removal as exemplified by ocean alkalinity enhancement: tradeoffs and lags** (2024)
-   13 citations · General CDR
+   14 citations · General CDR
 
 2. **Carbon Cycle Responses to Changes in Weathering and the Long‐Term Fate of Stable Carbon Isotopes** (2023)
-   7 citations · Enhanced Weathering
+   8 citations · Enhanced Weathering
 
 3. **Carbon cycle responses to changes in weathering and the long-term fate of stable carbon isotopes** (2022)
-   5 citations · Enhanced Weathering
+   4 citations · Enhanced Weathering
 
 4. **Model output from historical and future scenarios related to 'Carbon Dioxide Removal: Tradeoffs and Lags'** (2024)
    1 citations · General CDR

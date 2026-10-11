@@ -1,7 +1,7 @@
 ---
 title: "Enze Kang"
 description: "Enze Kang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 42 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.260639
+date: 2026-10-11T02:32:59.264505
 url: "/cdr-researcher-census/researchers/enze-kang-a5103208/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    59 citations · Soil Carbon
 
 2. **Enhanced Mineral Preservation Rather Than Microbial Residue Production Dictates the Accrual of Mineral‐Associated Organic Carbon Along a Weathering Gradient** (2024)
-   47 citations · Soil Carbon
+   51 citations · Soil Carbon
 
 3. **Alpine wetland degradation reduces carbon sequestration in the Zoige Plateau, China** (2022)
    32 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Gary Y. Gan"
 description: "Gary Y. Gan is a Mid-career Soil Carbon researcher. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.595132
+date: 2026-10-11T02:32:59.611999
 url: "/cdr-researcher-census/researchers/gary-y-gan-a5109309/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,24 +40,27 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 381 |
 | Publications | 14 |
-| CDR Focus | 35.7% |
+| CDR Focus | 42.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Response of Soil Organic Carbon and Bacterial Community to Amendments in Saline‐Alkali Soils of the Yellow River Delta** (2025)
-   89 citations · Soil Carbon
+   97 citations · Soil Carbon
 
 2. **Spatiotemporal diversification enables sustainable cotton-soybean production with enhanced yield and reduced emissions** (2025)
-   18 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 3. **Improving agricultural mulching to reduce environmental footprint and enhance economic profit across China** (2025)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 4. **Straw plus straw interlayer alter soil organic carbon and bacterial community in a saline-alkali soil from the Yellow River Delta** (2026)
-   6 citations · Soil Carbon
+   8 citations · Soil Carbon
 
-5. **Biodiversity mediates the trade-off between crop productivity and soil carbon sequestration in intercropping systems** (2026)
+5. **Continuous versus discontinuous biodegradable film mulching in maize: A five-year field study on soil carbon sequestration, productivity, and microplastic legacy** (2026)
+   0 citations · Soil Carbon
+
+6. **Biodiversity mediates the trade-off between crop productivity and soil carbon sequestration in intercropping systems** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

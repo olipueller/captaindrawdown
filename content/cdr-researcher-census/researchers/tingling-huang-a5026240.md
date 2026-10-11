@@ -1,7 +1,7 @@
 ---
 title: "Tingling Huang"
 description: "Tingling Huang is a Mid-career Biochar researcher at Xi'an University of Architecture and Technology in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.030307
+date: 2026-10-11T02:33:00.061591
 url: "/cdr-researcher-census/researchers/tingling-huang-a5026240/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Simultaneous removal of nitrate and diethyl phthalate using a novel sponge–based biocarrier combined modified walnut shell biochar with Fe3O4 in the immobilized bioreactor** (2021)
-   73 citations · Biochar
+   74 citations · Biochar
 
 ## External Profiles
 

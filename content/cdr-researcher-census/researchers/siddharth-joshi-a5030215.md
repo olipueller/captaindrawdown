@@ -1,7 +1,7 @@
 ---
 title: "Siddharth Joshi"
 description: "Siddharth Joshi is a Senior General CDR researcher at International Institute for Applied Systems Analysis in AT. With 37 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.504877
+date: 2026-10-11T02:32:59.517555
 url: "/cdr-researcher-census/researchers/siddharth-joshi-a5030215/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,18 +45,30 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 8 |
 | Citations | 463 |
 | Publications | 37 |
-| CDR Focus | 8.1% |
+| CDR Focus | 13.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **A prudent planetary limit for geologic carbon storage** (2025)
-   79 citations · General CDR
+   85 citations · General CDR
 
 2. **Challenges and opportunities of the full phase-out of fossil fuels under the 1.5 °C goal** (2026)
+   2 citations · General CDR
+
+3. **Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7** (2026)
    0 citations · General CDR
 
-3. **Energy system transformations for the phase-out of fossil fuels towards 1.5°C future** (2025)
+4. **Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7** (2026)
+   0 citations · General CDR
+
+5. **Carbon dioxide removal consistent with climate pledges: a multi-model assessment of regional potential** (2026)
+   0 citations · Biochar
+
+6. **Carbon Dioxide Removal Supply Curves: A Multi-Model Assessment** (2026)
+   0 citations · BECCS
+
+7. **Energy system transformations for the phase-out of fossil fuels towards 1.5°C future** (2025)
    0 citations · General CDR
 
 ## External Profiles

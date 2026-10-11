@@ -1,7 +1,7 @@
 ---
 title: "Jindian Hu"
 description: "Jindian Hu is a Mid-career Soil Carbon researcher at Shanghai First Maternity and Infant Hospital in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.195129
+date: 2026-10-11T02:33:00.225158
 url: "/cdr-researcher-census/researchers/jindian-hu-a5051096/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of arbuscular mycorrhizal fungi on organic carbon allocation, sequestration, and decomposition in black soils** (2024)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 ## External Profiles
 

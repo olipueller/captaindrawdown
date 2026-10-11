@@ -1,7 +1,7 @@
 ---
 title: "Kingshuk Modak"
 description: "Kingshuk Modak is a Mid-career Soil Carbon researcher at Indian Council of Forestry Research and Education in IN. With 20 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.079655
+date: 2026-10-11T02:33:00.109709
 url: "/cdr-researcher-census/researchers/kingshuk-modak-a5088817/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Role of Traditional Farming Practices of Northeast India in Soil and Water Conservation and Sustainable Nutrient Management** (2024)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 2. **Soil Carbon Storage in Sustainable Land Uses and its Economic Valuation in North Eastern Region of India** (2024)
    0 citations · Soil Carbon

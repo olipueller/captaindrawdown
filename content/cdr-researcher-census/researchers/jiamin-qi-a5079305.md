@@ -1,7 +1,7 @@
 ---
 title: "Jiamin Qi"
 description: "Jiamin Qi is a Mid-career Biochar researcher at South China University of Technology in CN. With 28 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.505335
+date: 2026-10-11T02:32:59.518050
 url: "/cdr-researcher-census/researchers/jiamin-qi-a5079305/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biomass-derived carbon/iron composite (FexOy-BC (RM)) with excellent Cd(II) adsorption from wastewater – Red mud resource utilization** (2023)
-   21 citations · Biochar
+   22 citations · Biochar
 
 2. **The lower labile carbon of surface soils in Chinese semiarid areas** (2023)
    0 citations · Soil Carbon

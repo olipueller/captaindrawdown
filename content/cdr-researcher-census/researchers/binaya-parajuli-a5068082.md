@@ -1,7 +1,7 @@
 ---
 title: "Binaya Parajuli"
 description: "Binaya Parajuli is a Mid-career Soil Carbon researcher. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.107096
+date: 2026-10-11T02:33:00.137630
 url: "/cdr-researcher-census/researchers/binaya-parajuli-a5068082/"
 layout: "researcher"
 hiddenInHomeList: true

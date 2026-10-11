@@ -1,7 +1,7 @@
 ---
 title: "Wenkai Bao"
 description: "Wenkai Bao is a Mid-career Soil Carbon researcher at Ludwig-Maximilians-Universität München in DE. With 16 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.208675
+date: 2026-10-11T02:32:59.212859
 url: "/cdr-researcher-census/researchers/wenkai-bao-a5074308/"
 layout: "researcher"
 hiddenInHomeList: true

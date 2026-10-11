@@ -1,7 +1,7 @@
 ---
 title: "Chitchai Srithapon"
 description: "Chitchai Srithapon is a Mid-career General CDR researcher at KTH Royal Institute of Technology in SE. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.517668
+date: 2026-10-11T02:32:59.531461
 url: "/cdr-researcher-census/researchers/chitchai-srithapon-a5035612/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Predictive control and coordination for energy community flexibility with electric vehicles, heat pumps and thermal energy storage** (2023)
-   104 citations · General CDR
+   107 citations · General CDR
 
 ## External Profiles
 

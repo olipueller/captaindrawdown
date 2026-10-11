@@ -1,7 +1,7 @@
 ---
 title: "Yuxiang Shen"
 description: "Yuxiang Shen is a Mid-career Biochar researcher at University of Science and Technology of China in CN. With 28 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.629578
+date: 2026-10-11T02:32:59.648353
 url: "/cdr-researcher-census/researchers/yuxiang-shen-a5008808/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Bi-functional S-scheme S-Bi2WO6/NiO heterojunction for photocatalytic ciprofloxacin degradation and CO2 reduction: Mechanisms and pathways** (2023)
-   90 citations
+   91 citations
 
 2. **Biochar Addition in Membrane Bioreactor Enables Membrane Fouling Alleviation and Nitrogen Removal Improvement for Low C/N Municipal Wastewater Treatment** (2023)
-   33 citations · Biochar
+   34 citations · Biochar
 
 3. **The bidirectional matter transfer in adsorption-promoted photocatalytic ozonation system derived by triazine nanosheets-heptazine nanotubes homojunction composite biochar** (2025)
-   10 citations · Biochar
+   11 citations · Biochar
 
 4. **Morphology Controlled Bi-Functional S-Scheme S-Bi2wo6/Nio Heterojunction for Photocatalytic Ciprofloxacin Degradation and Co2 Reduction: Mechanisms and Pathways** (2022)
    0 citations

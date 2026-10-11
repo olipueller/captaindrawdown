@@ -1,7 +1,7 @@
 ---
 title: "Jamie Lee Stevenson"
 description: "Jamie Lee Stevenson is a Mid-career Soil Carbon researcher at University of Aberdeen in GB. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.383288
+date: 2026-10-11T02:33:00.419306
 url: "/cdr-researcher-census/researchers/jamie-lee-stevenson-a5017871/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Qianmin Fu"
 description: "Qianmin Fu is a Mid-career Biochar researcher at Central South University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.562369
+date: 2026-10-11T02:32:59.578237
 url: "/cdr-researcher-census/researchers/qianmin-fu-a5024424/"
 layout: "researcher"
 hiddenInHomeList: true

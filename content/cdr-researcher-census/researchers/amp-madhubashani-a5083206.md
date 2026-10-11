@@ -1,7 +1,7 @@
 ---
 title: "A.M.P. Madhubashani"
 description: "A.M.P. Madhubashani is an Early-career Biochar researcher at University of Sri Jayewardenepura in LK. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.758905
+date: 2026-10-11T02:32:59.781739
 url: "/cdr-researcher-census/researchers/amp-madhubashani-a5083206/"
 layout: "researcher"
 hiddenInHomeList: true

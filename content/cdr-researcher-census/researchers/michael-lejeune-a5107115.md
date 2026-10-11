@@ -1,7 +1,7 @@
 ---
 title: "Michaël Lejeune"
 description: "Michaël Lejeune is an Early-career DAC researcher at Australian Research Council in AU. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.395909
+date: 2026-10-11T02:33:00.434117
 url: "/cdr-researcher-census/researchers/michael-lejeune-a5107115/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Liquefied synthetic methane from ambient CO2 and renewable H2 - A technoeconomic study** (2021)
-   73 citations · DAC
+   74 citations · DAC
 
 ## External Profiles
 

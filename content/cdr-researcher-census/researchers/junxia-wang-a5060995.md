@@ -1,7 +1,7 @@
 ---
 title: "Junxia Wang"
 description: "Junxia Wang is a Senior Soil Carbon researcher at Hebei Medical University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.520988
+date: 2026-10-11T02:32:59.534817
 url: "/cdr-researcher-census/researchers/junxia-wang-a5060995/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A study on ecological risk identification based on ecosystem service supply and demand in Xinjiang** (2025)
-   5 citations
+   7 citations
 
 2. **Ecological Risk Identification Based on the Supply and Demand Relationship of Ecosystem Services: A Case Study of the Xinjiang Uygur Autonomous Region** (2025)
    0 citations · General CDR

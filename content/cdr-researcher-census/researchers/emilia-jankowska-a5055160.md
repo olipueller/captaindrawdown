@@ -1,7 +1,7 @@
 ---
 title: "Emilia Jankowska"
 description: "Emilia Jankowska is a Senior Ocean CDR researcher at Climate Central in US. With 44 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.088742
+date: 2026-10-11T02:32:59.093598
 url: "/cdr-researcher-census/researchers/emilia-jankowska-a5055160/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Climate benefits from establishing marine protected areas targeted at blue carbon solutions** (2022)
-   61 citations · General CDR
+   60 citations · General CDR
 
 2. **Metal bioaccumulation and effects of olivine sand exposure on benthic marine invertebrates** (2024)
    7 citations · Enhanced Weathering
 
 3. **Microbial Community Structure in Contrasting Hawaiian Coastal Sediments** (2025)
-   2 citations
+   3 citations
 
 4. **Microbial community structure in contrasting Hawaiian coastal sediments** (2025)
    1 citations
@@ -65,16 +65,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 5. **Limited impact on oysters in first-of-its-kind field trial of marine carbon dioxide removal (mCDR) strategy** (2025)
    1 citations · General CDR
 
-6. **Impact on oysters in first-of-its-kind field trial of marine Enhanced Rock Weathering (mERW) with olivine as carbon dioxide removal (CDR) strategy** (2026)
+6. **Effects of Olivine Sand on Marine Invertebrates Survival and Trace Metal Bioaccumulation** (2024)
+   1 citations · Enhanced Weathering
+
+7. **Impact on oysters in first-of-its-kind field trial of marine Enhanced Rock Weathering (mERW) with olivine as carbon dioxide removal (CDR) strategy** (2026)
    0 citations · Enhanced Weathering
 
-7. **Olivine-based marine carbon dioxide removal field trial shows no adverse effects on the benthic community** (2026)
+8. **Olivine-based marine carbon dioxide removal field trial shows no adverse effects on the benthic community** (2026)
    0 citations · Enhanced Weathering
 
-8. **A natural analogue of enhanced rock weathering: microbial communities in the olivine-rich Papakōlea Beach (Hawaii, USA)** (2025)
-   0 citations · Enhanced Weathering
-
-9. **Effects of Olivine Sand on Marine Invertebrates Survival and Trace Metal Bioaccumulation** (2024)
+9. **A natural analogue of enhanced rock weathering: microbial communities in the olivine-rich Papakōlea Beach (Hawaii, USA)** (2025)
    0 citations · Enhanced Weathering
 
 ## External Profiles

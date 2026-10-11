@@ -1,7 +1,7 @@
 ---
 title: "Ary Mauliva Hada Putri"
 description: "Ary Mauliva Hada Putri is a Mid-career Ocean CDR researcher at University of Indonesia in ID. With 39 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.083442
+date: 2026-10-11T02:33:00.113716
 url: "/cdr-researcher-census/researchers/ary-mauliva-hada-putri-a5048839/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **ECONOMIC FEASIBILITY ANALYSIS OF MACROALGAE FARMING-BASED CARBON DIOXIDE REMOVAL** (2023)
-   5 citations · General CDR
+   4 citations · General CDR
 
 2. **Ultrasonic-assisted wet impregnation of rice straw biochar-supported TiO2 for efficient and reusable photocatalytic degradation of paracetamol** (2026)
    0 citations · Biochar

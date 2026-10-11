@@ -1,7 +1,7 @@
 ---
 title: "Fulin Qu"
 description: "Fulin Qu is a Senior Biochar researcher at University of Technology Sydney in AU. With 89 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.085103
+date: 2026-10-11T02:32:59.090017
 url: "/cdr-researcher-census/researchers/fulin-qu-a5045928/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,18 +51,21 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Persistent free radicals on biochar for its catalytic capability: A review** (2023)
-   99 citations · Biochar
+   101 citations · Biochar
 
 2. **Cold-bonded biochar-cement lightweight aggregates for evaporation-enhanced permeable bricks** (2025)
    19 citations · Biochar
 
-3. **Carbon sequestration, performance optimization and environmental impact assessment of functional materials in cementitious composites** (2024)
+3. **Roles of biochar in improving carbon mineralisation and sequestration in sustainable cement–based materials** (2025)
    12 citations · Biochar
 
-4. **Roles of biochar in improving carbon mineralisation and sequestration in sustainable cement–based materials** (2025)
-   11 citations · Biochar
+4. **Carbon sequestration, performance optimization and environmental impact assessment of functional materials in cementitious composites** (2024)
+   12 citations · Biochar
 
-5. **Chloride diffusion of biochar–cement composites** (2026)
+5. **Waste‐derived Biochar for Low‐carbon Construction Materials in Rural Areas** (2025)
+   1 citations · Biochar
+
+6. **Chloride diffusion of biochar–cement composites** (2026)
    0 citations · Biochar
 
 ## External Profiles

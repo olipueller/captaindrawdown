@@ -1,7 +1,7 @@
 ---
 title: "Xueying Tu"
 description: "Xueying Tu is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.717063
+date: 2026-10-11T02:32:59.738155
 url: "/cdr-researcher-census/researchers/xueying-tu-a5003905/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Wei Zhang"
 description: "Wei Zhang is a Senior Soil Carbon researcher at Liaocheng People's Hospital in CN. With 38 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.276480
+date: 2026-10-11T02:32:59.280813
 url: "/cdr-researcher-census/researchers/wei-zhang-a5103218/"
 layout: "researcher"
 hiddenInHomeList: true

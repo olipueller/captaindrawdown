@@ -1,7 +1,7 @@
 ---
 title: "Benjamin P. Roberts"
 description: "Benjamin P. Roberts is a Mid-career Biochar researcher at Aberystwyth University in GB. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.385986
+date: 2026-10-11T02:33:00.422932
 url: "/cdr-researcher-census/researchers/benjamin-p-roberts-a5024228/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Rewetting alongside biochar and sulphate addition mitigates greenhouse gas emissions and retain carbon in degraded upland peatlands** (2025)
-   8 citations · Biochar
+   10 citations · Biochar
 
 ## External Profiles
 

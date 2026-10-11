@@ -1,7 +1,7 @@
 ---
 title: "Gemma Chiaffarelli"
 description: "Gemma Chiaffarelli is a Mid-career Soil Carbon researcher at University of Milan in IT. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.326206
+date: 2026-10-11T02:33:00.358812
 url: "/cdr-researcher-census/researchers/gemma-chiaffarelli-a5039436/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The Contribution of the Management of Landscape Features to Soil Organic Carbon Turnover among Farmlands** (2024)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 ## External Profiles
 

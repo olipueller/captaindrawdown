@@ -1,7 +1,7 @@
 ---
 title: "Tedla Medhane Embaye"
 description: "Tedla Medhane Embaye is a Mid-career Biochar researcher at Xi'an Jiaotong University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.186276
+date: 2026-10-11T02:33:00.216507
 url: "/cdr-researcher-census/researchers/tedla-medhane-embaye-a5114157/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Assessment of heavy metals distribution and environmental risks in biochar from co-pyrolysis of sewage sludge and mixed municipal waste** (2024)
-   29 citations · Biochar
+   30 citations · Biochar
 
 ## External Profiles
 

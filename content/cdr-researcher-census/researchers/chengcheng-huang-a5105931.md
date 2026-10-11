@@ -1,7 +1,7 @@
 ---
 title: "Chengcheng Huang"
 description: "Chengcheng Huang is a Mid-career Biochar researcher at Agro-Environmental Protection Institute in CN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.943797
+date: 2026-10-11T02:32:59.973768
 url: "/cdr-researcher-census/researchers/chengcheng-huang-a5105931/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Research Progress and Prospects of Modified Biochar in the Adsorption and Degradation of Sulfonamide Antibiotics** (2026)
-   6 citations · Biochar
+   9 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Jaeeun Sohng"
 description: "Jaeeun Sohng is a Mid-career Enhanced Weathering researcher at University of California, Davis in US. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.853606
+date: 2026-10-11T02:32:59.880592
 url: "/cdr-researcher-census/researchers/jaeeun-sohng-a5054138/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Methods for determining the CO2 removal capacity of enhanced weathering in agronomic settings** (2022)
-   37 citations · Enhanced Weathering
+   38 citations · Enhanced Weathering
 
 2. **Reduced accrual of mineral-associated organic matter after two years of enhanced rock weathering in cropland soils, though no net losses of soil organic carbon** (2024)
-   34 citations · Enhanced Weathering
+   36 citations · Enhanced Weathering
 
 3. **Combining organic amendments with enhanced rock weathering shifts soil carbon storage in croplands** (2025)
-   12 citations · Enhanced Weathering
+   13 citations · Enhanced Weathering
 
 4. **Reduced accrual of mineral-associated organic matter after two years of enhanced rock weathering in cropland soils, though no net losses of soil organic carbon** (2024)
    4 citations
@@ -65,16 +65,19 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 5. **Evidence for carbon dioxide removal via enhanced rock weathering with steel slag, though not basalt, in a midwestern U.S. field trial** (2026)
    1 citations
 
-6. **Synergistic effects of enhanced rock weathering and organic inputs on soil carbon accrual.** (2025)
+6. **Organic co-amendments reshape soil microbial community responses to enhanced rock weathering in croplands** (2026)
+   0 citations · Biochar
+
+7. **Synergistic effects of enhanced rock weathering and organic inputs on soil carbon accrual.** (2025)
    0 citations · Enhanced Weathering
 
-7. **Evidence for carbon dioxide removal via enhanced rock weathering with steel slag, though not basalt, in a midwestern U.S. field trial** (2025)
+8. **Evidence for carbon dioxide removal via enhanced rock weathering with steel slag, though not basalt, in a midwestern U.S. field trial** (2025)
    0 citations
 
-8. **Testing the potential of ERW in California working lands: challenges and opportunities** (2024)
+9. **Testing the potential of ERW in California working lands: challenges and opportunities** (2024)
    0 citations · Enhanced Weathering
 
-9. **Influence of enhanced silicate weathering on microbial processes and soil carbon formation in agricultural soil** (2023)
+10. **Influence of enhanced silicate weathering on microbial processes and soil carbon formation in agricultural soil** (2023)
    0 citations · Enhanced Weathering
 
 ## External Profiles

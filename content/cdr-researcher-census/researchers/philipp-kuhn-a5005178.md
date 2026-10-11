@@ -1,7 +1,7 @@
 ---
 title: "Philipp Kuhn"
 description: "Philipp Kuhn is a Senior General CDR researcher at LMU Klinikum in DE. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.428396
+date: 2026-10-11T02:32:59.438524
 url: "/cdr-researcher-census/researchers/philipp-kuhn-a5005178/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Global Potentials and Costs of Synfuels via Fischer–Tropsch Process** (2023)
-   19 citations · DAC
+   20 citations · DAC
 
 2. **Achieving global net zero by 2050: Modeling the optimal portfolio of carbon dioxide removal technologies** (2026)
    0 citations · General CDR

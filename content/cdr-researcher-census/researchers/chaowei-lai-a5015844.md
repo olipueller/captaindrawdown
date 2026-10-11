@@ -1,7 +1,7 @@
 ---
 title: "Chaowei Lai"
 description: "Chaowei Lai is a Mid-career Ocean CDR researcher at China University of Geosciences (Beijing) in CN. With 15 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.661155
+date: 2026-10-11T02:32:59.680286
 url: "/cdr-researcher-census/researchers/chaowei-lai-a5015844/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Carbon sinks associated with biological carbon pump in karst surface waters: Progress, challenges, and prospects** (2024)
-   23 citations · General CDR
+   25 citations · General CDR
 
 ## External Profiles
 

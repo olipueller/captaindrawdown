@@ -1,7 +1,7 @@
 ---
 title: "Eric Enanga"
 description: "Eric Enanga is a Senior Soil Carbon researcher at University of Toronto in CA. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.676893
+date: 2026-10-11T02:32:59.696507
 url: "/cdr-researcher-census/researchers/eric-enanga-a5054794/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Can Restoration of Freshwater Mineral Soil Wetlands Deliver Nature-Based Climate Solutions to Agricultural Landscapes?** (2022)
-   29 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 2. **Technical note: Comparison of radiometric techniques for estimating recent organic carbon sequestration rates in inland wetland soils** (2024)
-   3 citations
+   4 citations
 
 3. **Technical Note: Comparison of radiometric techniques for estimating recent organic carbon sequestration rates in freshwater mineral soil wetlands** (2024)
    1 citations · Soil Carbon

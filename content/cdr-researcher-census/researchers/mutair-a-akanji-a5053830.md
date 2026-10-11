@@ -1,7 +1,7 @@
 ---
 title: "Mutair A. Akanji"
 description: "Mutair A. Akanji is a Mid-career Biochar researcher at King Saud University in SA. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.915593
+date: 2026-10-11T02:32:59.959971
 url: "/cdr-researcher-census/researchers/mutair-a-akanji-a5053830/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -52,6 +52,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 1. **Influence of Acidified Biochar on CO2–C Efflux and Micronutrient Availability in an Alkaline Sandy Soil** (2021)
    11 citations · Biochar
+
+2. **Soil Health and Biochar Enhancement: Concept, Assessment, and Methods** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

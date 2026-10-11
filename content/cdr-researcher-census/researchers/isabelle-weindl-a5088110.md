@@ -1,7 +1,7 @@
 ---
 title: "Isabelle Weindl"
 description: "Isabelle Weindl is a Senior General CDR researcher at Leibniz Association in DE. With 88 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.035232
+date: 2026-10-11T02:32:59.038352
 url: "/cdr-researcher-census/researchers/isabelle-weindl-a5088110/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    43 citations · General CDR
 
 2. **Multiple pathways towards sustainable development goals and climate targets** (2024)
-   38 citations · General CDR
+   40 citations · General CDR
 
 3. **Food and land system transformations under different societal perspectives on sustainable development** (2024)
-   12 citations · General CDR
+   13 citations · General CDR
 
 4. **Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment** (2026)
    0 citations · BECCS

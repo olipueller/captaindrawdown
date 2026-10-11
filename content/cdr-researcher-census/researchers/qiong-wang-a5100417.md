@@ -1,7 +1,7 @@
 ---
 title: "Qiong Wang"
 description: "Qiong Wang is a Senior Soil Carbon researcher at Jiangxi Agricultural University in CN. With 96 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.088863
+date: 2026-10-11T02:32:59.093711
 url: "/cdr-researcher-census/researchers/qiong-wang-a5100417/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Urbanization-induced soil organic carbon loss and microbial-enzymatic drivers: insights from aggregate size classes in Nanchang city, China** (2024)
-   28 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 2. **Effects of Glomalin-Related Soil Protein Driven by Root on Forest Soil Aggregate Stability and Carbon Sequestration during Urbanization in Nanchang, China** (2023)
    27 citations · Soil Carbon
@@ -59,10 +59,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Shelterbelt farmland-afforestation induced SOC accrual with higher temperature stability: Cross-sites 1 m soil profiles analysis in NE China** (2021)
    23 citations · Soil Carbon
 
-4. **Tree growth and density enhanced, while diversity and spatial clustering reduced soil mycorrhizal C and N sequestration: Strong interaction with soil properties in northeastern China** (2023)
-   12 citations · Soil Carbon
+4. **Reforestation Increases the Aggregate Organic Carbon Concentration Induced by Soil Microorganisms in a Degraded Red Soil, Subtropical China** (2023)
+   13 citations · Soil Carbon
 
-5. **Reforestation Increases the Aggregate Organic Carbon Concentration Induced by Soil Microorganisms in a Degraded Red Soil, Subtropical China** (2023)
+5. **Tree growth and density enhanced, while diversity and spatial clustering reduced soil mycorrhizal C and N sequestration: Strong interaction with soil properties in northeastern China** (2023)
    12 citations · Soil Carbon
 
 6. **Urbanization Indirectly Weakens Soil Organic Carbon Accumulation Via GRSP-C Functional Structure and Environmental Factors** (2025)

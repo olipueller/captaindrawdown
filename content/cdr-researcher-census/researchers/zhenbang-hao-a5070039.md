@@ -1,7 +1,7 @@
 ---
 title: "Zhenbang Hao"
 description: "Zhenbang Hao is a Mid-career Soil Carbon researcher at Zhangzhou Vocational and Technical College in CN. With 55 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.297100
+date: 2026-10-11T02:32:59.301848
 url: "/cdr-researcher-census/researchers/zhenbang-hao-a5070039/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,20 +53,20 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Vulnerability of Soil Carbon Regulating Ecosystem Services due to Land Cover Change in the State of New Hampshire, USA** (2021)
    5 citations · General CDR
 
-2. **Net-Zero Target and Emissions from Land Conversions: A Case Study of Maryland’s Climate Solutions Now Act** (2022)
+2. **Quantifying Damages to Soil Health and Emissions from Land Development in the State of Illinois (USA)** (2023)
+   4 citations · Soil Carbon
+
+3. **Net-Zero Target and Emissions from Land Conversions: A Case Study of Maryland’s Climate Solutions Now Act** (2022)
    4 citations · General CDR
 
-3. **Soil-Based Emissions and Context-Specific Climate Change Planning to Support the United Nations (UN) Sustainable Development Goal (SDG) on Climate Action: A Case Study of Georgia (USA)** (2024)
+4. **Soil-Based Emissions and Context-Specific Climate Change Planning to Support the United Nations (UN) Sustainable Development Goal (SDG) on Climate Action: A Case Study of Georgia (USA)** (2024)
    3 citations · Soil Carbon
 
-4. **Quantifying Damages to Soil Health and Emissions from Land Development in the State of Illinois (USA)** (2023)
+5. **Spatiotemporal Analysis of Soil Quality Degradation and Emissions in the State of Iowa (USA)** (2024)
    3 citations · Soil Carbon
 
-5. **Disaggregating Land Degradation Types for United Nations (UN) Land Degradation Neutrality (LDN) Analysis Using the State of Ohio (USA) as an Example** (2024)
+6. **Disaggregating Land Degradation Types for United Nations (UN) Land Degradation Neutrality (LDN) Analysis Using the State of Ohio (USA) as an Example** (2024)
    2 citations
-
-6. **Spatiotemporal Analysis of Soil Quality Degradation and Emissions in the State of Iowa (USA)** (2024)
-   2 citations · Soil Carbon
 
 7. **Question of Liability for Emissions from Land Development in Relation to New York State Climate Change Plan** (2023)
    2 citations · General CDR

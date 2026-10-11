@@ -1,7 +1,7 @@
 ---
 title: "Xiaojie Han"
 description: "Xiaojie Han is a Mid-career Soil Carbon researcher at National Engineering Research Center for Wheat in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.201014
+date: 2026-10-11T02:33:00.230986
 url: "/cdr-researcher-census/researchers/xiaojie-han-a5069041/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-Term Minimum Tillage and Straw Retention Promote Macroaggregate Formation, Carbon and Nitrogen Sequestration under Wheat-Maize Rotation in Northern China** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 2. **Long-Term Minimum Tillage and Straw Retention Promote Macroaggregate Formation and Carbon and Nitrogen Sequestration in a Semi-Arid Area of Northern China** (2024)
    0 citations · Soil Carbon

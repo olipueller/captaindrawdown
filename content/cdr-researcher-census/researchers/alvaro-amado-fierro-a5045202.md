@@ -1,7 +1,7 @@
 ---
 title: "Álvaro Amado-Fierro"
 description: "Álvaro Amado-Fierro is a Mid-career Biochar researcher at Instituto Nacional del Carbón in ES. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.380321
+date: 2026-10-11T02:33:00.416124
 url: "/cdr-researcher-census/researchers/alvaro-amado-fierro-a5045202/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Application of organic geochemistry to the characterization of hydrochar and biochar: Insights into composition and optimization** (2025)
-   1 citations · Biochar
+   2 citations · Biochar
 
 2. **Boosting CO2 sequestration potential of a degraded soil by hydrochar from sewage sludge** (2024)
    1 citations · Biochar

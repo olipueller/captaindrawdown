@@ -1,7 +1,7 @@
 ---
 title: "Anatoly Rinberg"
 description: "Anatoly Rinberg is a Mid-career DAC researcher. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.662288
+date: 2026-10-11T02:32:59.681438
 url: "/cdr-researcher-census/researchers/anatoly-rinberg-a5088085/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,10 +46,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Alkalinity Concentration Swing for Direct Air Capture of Carbon Dioxide** (2021)
-   25 citations
+   23 citations
 
 2. **Bicarbonate-Carbonate Selectivity through Nanofiltration for Direct Air Capture of Carbon Dioxide** (2024)
-   6 citations · DAC
+   7 citations · DAC
 
 3. **Experimental Demonstration of Alkalinity Concentration Swing for Direct Air Capture of CO&lt;sub&gt;2&lt;/sub&gt;** (2023)
    3 citations

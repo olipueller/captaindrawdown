@@ -1,7 +1,7 @@
 ---
 title: "Kalina C. Grabb"
 description: "Kalina C. Grabb is a Mid-career General CDR researcher at Dalhousie University in CA. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.539100
+date: 2026-10-11T02:32:59.554116
 url: "/cdr-researcher-census/researchers/kalina-c-grabb-a5071547/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -60,7 +60,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    4 citations · General CDR
 
 4. **Report for the Carbon Dioxide Removal (CDR): Towards a Unified Monitoring, Measuring, Reporting and Verification (MMRV) Framework Workshop** (2023)
-   2 citations · DAC
+   3 citations · DAC
 
 5. **An annotated literature database to support research on marine carbon dioxide removal (mCDR) and fisheries impacts** (2026)
    1 citations · General CDR

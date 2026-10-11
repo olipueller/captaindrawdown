@@ -1,7 +1,7 @@
 ---
 title: "Pamodithya Wijeyawardana"
 description: "Pamodithya Wijeyawardana is a Mid-career Biochar researcher at University of Peradeniya in LK. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.988864
+date: 2026-10-11T02:33:00.019819
 url: "/cdr-researcher-census/researchers/pamodithya-wijeyawardana-a5012153/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    20 citations · Biochar
 
 2. **Assessing the life cycle and economic impact of cement-modified biochar compared to conventional adsorbents for heavy metal removal in stormwater** (2024)
-   10 citations · Biochar
+   11 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Emily Rodriguez"
 description: "Emily Rodriguez is a Mid-career General CDR researcher at Association of Research Libraries in US. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.857544
+date: 2026-10-11T02:32:59.884475
 url: "/cdr-researcher-census/researchers/emily-rodriguez-a5046208/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    34 citations · BECCS
 
 2. **Forerunner city or net-zero opportunist? Carbon dioxide removal in Stockholm, residual emissions and risks of mitigation deterrence** (2024)
-   26 citations · BECCS
+   28 citations · BECCS
 
 3. **Storing carbon dioxide for climate's sake: contradictions and parallels with enhanced oil recovery** (2023)
    4 citations · General CDR

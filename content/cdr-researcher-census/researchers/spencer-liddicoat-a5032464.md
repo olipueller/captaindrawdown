@@ -1,7 +1,7 @@
 ---
 title: "Spencer Liddicoat"
 description: "Spencer Liddicoat is a Senior General CDR researcher at Met Office in GB. With 68 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.030876
+date: 2026-10-11T02:32:59.033921
 url: "/cdr-researcher-census/researchers/spencer-liddicoat-a5032464/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Carbon cycle feedbacks in an idealized simulation and a scenario simulation of negative emissions in CMIP6 Earth system models** (2024)
-   18 citations · General CDR
+   23 citations · General CDR
 
 2. **Limited Mitigation Potential of Forestation Under a High Emissions Scenario: Results From Multi‐Model and Single Model Ensembles** (2023)
-   15 citations · General CDR
+   16 citations · General CDR
 
 3. **CMIP6 models agree on similar carbon cycle feedbacks between enhancing terrestrial and marine carbon sinks** (2025)
    7 citations · General CDR
@@ -62,13 +62,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 4. **Carbon cycle feedbacks in an idealized and a scenario simulation of negative emissions in CMIP6 Earth system models** (2023)
    2 citations · General CDR
 
-5. **Land carbon response to positive, zero, and negative CO <sub>2</sub> emissions across Earth system models** (2026)
+5. **Land carbon response to positive, zero, and negative CO 2 emissions across Earth system models** (2026)
    0 citations · General CDR
 
-6. **Limited mitigation potential of forestation under a high emissions scenario: results from multi-model and single model ensembles** (2023)
+6. **Land carbon response to positive, zero, and negative CO <sub>2</sub> emissions across Earth system models** (2026)
+   0 citations · General CDR
+
+7. **Limited mitigation potential of forestation under a high emissions scenario: results from multi-model and single model ensembles** (2023)
    0 citations
 
-7. **Carbon cycle feedbacks in an idealized and a scenario simulation of carbon dioxide removal in CMIP6 Earth system models** (2022)
+8. **Carbon cycle feedbacks in an idealized and a scenario simulation of carbon dioxide removal in CMIP6 Earth system models** (2022)
    0 citations · General CDR
 
 ## External Profiles

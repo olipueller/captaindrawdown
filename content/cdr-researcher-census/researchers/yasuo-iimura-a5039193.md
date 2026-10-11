@@ -1,7 +1,7 @@
 ---
 title: "Yasuo Iimura"
 description: "Yasuo Iimura is a Senior Soil Carbon researcher at University of Shiga Prefecture in JP. With 47 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.411947
+date: 2026-10-11T02:32:59.421407
 url: "/cdr-researcher-census/researchers/yasuo-iimura-a5039193/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Root exudates in mangrove forests accelerate bicarbonate production in the soil environment** (2024)
-   9 citations · Ocean CDR
+   10 citations · Ocean CDR
 
 2. **Decrease in Inorganic Nitrogen and Net Nitrogen Transformation Rates with Biochar Application in a Warm-Temperate Broadleaved Forest** (2024)
-   4 citations · Biochar
+   5 citations · Biochar
 
 3. **Ecosystem carbon storage including soil to 3 m depth and carbon increment along a young mangrove restoration in Central Thailand** (2026)
    0 citations

@@ -1,7 +1,7 @@
 ---
 title: "Lucas Hoof"
 description: "Lucas Hoof is a Mid-career DAC researcher at Fraunhofer Institute for Environmental, Safety and Energy Technology UMSICHT in DE. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.938991
+date: 2026-10-11T02:32:59.969627
 url: "/cdr-researcher-census/researchers/lucas-hoof-a5073755/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Hidden parameters for electrochemical carbon dioxide reduction in zero-gap electrolyzers** (2022)
-   57 citations · DAC
+   58 citations · DAC
 
 ## External Profiles
 

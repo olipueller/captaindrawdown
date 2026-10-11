@@ -1,7 +1,7 @@
 ---
 title: "Christoph Lindenberger"
 description: "Christoph Lindenberger is a Mid-career BECCS researcher. With 35 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.484619
+date: 2026-10-11T02:32:59.496084
 url: "/cdr-researcher-census/researchers/christoph-lindenberger-a5016104/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Sustainable energy conversion through integrated anaerobic digestion–pyrolysis with carbon capture, storage, and management: modeling, analysis and techno-economic feasibility** (2025)
-   4 citations · BECCS
+   6 citations · BECCS
 
 2. **Parametric optimization and synergistic product characterization in microwave co-pyrolysis of pearl millet straw and anaerobic digestate for sustainable energy production** (2025)
    1 citations · Biochar

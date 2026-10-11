@@ -1,7 +1,7 @@
 ---
 title: "Jia Shen"
 description: "Jia Shen is a Senior Soil Carbon researcher at Tianjin University in CN. With 32 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.534035
+date: 2026-10-11T02:32:59.548434
 url: "/cdr-researcher-census/researchers/jia-shen-a5101962/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · Soil Carbon
 
 2. **Hydrochar Utilization for Saline‐Alkali Soil Amelioration and Its Carbon Sequestration Potential Assessment** (2024)
-   7 citations · Biochar
+   8 citations · Biochar
 
 ## External Profiles
 

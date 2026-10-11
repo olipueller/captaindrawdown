@@ -1,7 +1,7 @@
 ---
 title: "Blanca Calderón"
 description: "Blanca Calderón is a Mid-career Biochar researcher at California State Polytechnic University in US. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.512090
+date: 2026-10-11T02:32:59.525614
 url: "/cdr-researcher-census/researchers/blanca-calderon-a5061574/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhancing Organic Contaminant Removal from Wool Scouring Wastewater Using Chemically Modified Biochars** (2024)
-   10 citations · Biochar
+   11 citations · Biochar
 
 ## External Profiles
 

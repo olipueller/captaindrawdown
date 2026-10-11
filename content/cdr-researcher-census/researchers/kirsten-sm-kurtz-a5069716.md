@@ -1,7 +1,7 @@
 ---
 title: "Kirsten S.M. Kurtz"
 description: "Kirsten S.M. Kurtz is a Mid-career Soil Carbon researcher at Cornell University in US. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.309081
+date: 2026-10-11T02:32:59.314449
 url: "/cdr-researcher-census/researchers/kirsten-sm-kurtz-a5069716/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Maximizing soil organic carbon stocks under cover cropping: insights from long-term agricultural experiments in North America** (2023)
-   62 citations · General CDR
+   64 citations · General CDR
 
 ## External Profiles
 

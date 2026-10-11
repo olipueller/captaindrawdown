@@ -1,7 +1,7 @@
 ---
 title: "Sonia Rani"
 description: "Sonia Rani is a Mid-career Soil Carbon researcher at Chaudhary Charan Singh Haryana Agricultural University in IN. With 37 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.703394
+date: 2026-10-11T02:32:59.723730
 url: "/cdr-researcher-census/researchers/sonia-rani-a5112479/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The food-energy-water-carbon nexus of the rice-wheat production system in the western Indo-Gangetic Plain of India: An impact of irrigation system, conservational tillage and residue management** (2022)
-   57 citations · Soil Carbon
+   58 citations · Soil Carbon
 
 2. **Fourteen-years impact of crop establishment, tillage and residue management on carbon input, soil carbon sequestration, crop productivity and profitability of rice-wheat system** (2024)
-   11 citations · General CDR
+   12 citations · General CDR
 
 ## External Profiles
 

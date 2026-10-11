@@ -1,7 +1,7 @@
 ---
 title: "Abayomi Fasina"
 description: "Abayomi Fasina is a Mid-career Soil Carbon researcher at Federal University Oye Ekiti in NG. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.000138
+date: 2026-10-11T02:33:00.031095
 url: "/cdr-researcher-census/researchers/abayomi-fasina-a5033485/"
 layout: "researcher"
 hiddenInHomeList: true

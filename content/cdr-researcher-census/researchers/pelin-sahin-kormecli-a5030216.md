@@ -1,7 +1,7 @@
 ---
 title: "Pelin Şahin Körmeçli"
 description: "Pelin Şahin Körmeçli is a Mid-career Soil Carbon researcher at Çankırı Karatekin University in TR. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.316012
+date: 2026-10-11T02:33:00.347003
 url: "/cdr-researcher-census/researchers/pelin-sahin-kormecli-a5030216/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Assessment of vegetation change using NDVI, LST, and carbon analyses in Çankırı Karatekin University, Turkey** (2024)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 ## External Profiles
 

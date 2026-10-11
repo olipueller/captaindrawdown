@@ -1,7 +1,7 @@
 ---
 title: "Jiaying Luo"
 description: "Jiaying Luo is a Mid-career Soil Carbon researcher at ShanghaiTech University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.238712
+date: 2026-10-11T02:33:00.268821
 url: "/cdr-researcher-census/researchers/jiaying-luo-a5018880/"
 layout: "researcher"
 hiddenInHomeList: true

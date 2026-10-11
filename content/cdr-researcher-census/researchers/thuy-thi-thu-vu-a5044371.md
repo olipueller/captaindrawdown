@@ -1,7 +1,7 @@
 ---
 title: "Thuy Thi Thu Vu"
 description: "Thuy Thi Thu Vu is a Senior Enhanced Weathering researcher at Thai Nguyen University in VN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.398041
+date: 2026-10-11T02:33:00.436236
 url: "/cdr-researcher-census/researchers/thuy-thi-thu-vu-a5044371/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Thomas K. Uthup"
 description: "Thomas K. Uthup is a Mid-career Soil Carbon researcher at Rubber Board in IN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.970234
+date: 2026-10-11T02:33:00.001689
 url: "/cdr-researcher-census/researchers/thomas-k-uthup-a5031519/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yong Zhang"
 description: "Yong Zhang is a Senior Soil Carbon researcher at Gansu Agricultural University in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.407167
+date: 2026-10-11T02:32:59.416245
 url: "/cdr-researcher-census/researchers/yong-zhang-a5100419/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Impact of Photovoltaic Panels on Soil Aggregate‐Associated Organic Carbon Varies With Grassland Type** (2025)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

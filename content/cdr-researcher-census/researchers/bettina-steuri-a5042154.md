@@ -1,7 +1,7 @@
 ---
 title: "Bettina Steuri"
 description: "Bettina Steuri is a Mid-career General CDR researcher at Helmholtz-Zentrum Hereon in DE. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.371814
+date: 2026-10-11T02:33:00.407404
 url: "/cdr-researcher-census/researchers/bettina-steuri-a5042154/"
 layout: "researcher"
 hiddenInHomeList: true

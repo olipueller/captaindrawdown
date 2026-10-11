@@ -1,7 +1,7 @@
 ---
 title: "Hao Wang"
 description: "Hao Wang is a Senior Soil Carbon researcher at Lanzhou University of Technology in CN. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.549378
+date: 2026-10-11T02:32:59.564425
 url: "/cdr-researcher-census/researchers/hao-wang-a5100329/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Coupling dynamics and feedback mechanisms between ecosystem service flows and socio-economic systems in the loess plateau** (2025)
-   11 citations · General CDR
+   17 citations · General CDR
 
 2. **Linking ecological resilience and ecosystem services to inform spatial conservation planning** (2025)
    0 citations · Soil Carbon

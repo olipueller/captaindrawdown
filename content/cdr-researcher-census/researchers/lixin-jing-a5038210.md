@@ -1,7 +1,7 @@
 ---
 title: "Lixin Jing"
 description: "Lixin Jing is a Senior Soil Carbon researcher at Northeast Forestry University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.393360
+date: 2026-10-11T02:33:00.430809
 url: "/cdr-researcher-census/researchers/lixin-jing-a5038210/"
 layout: "researcher"
 hiddenInHomeList: true

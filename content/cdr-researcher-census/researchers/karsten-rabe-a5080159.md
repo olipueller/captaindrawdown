@@ -1,7 +1,7 @@
 ---
 title: "Karsten Rabe"
 description: "Karsten Rabe is a Mid-career General CDR researcher at SINTEF in NO. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.372566
+date: 2026-10-11T02:33:00.408134
 url: "/cdr-researcher-census/researchers/karsten-rabe-a5080159/"
 layout: "researcher"
 hiddenInHomeList: true

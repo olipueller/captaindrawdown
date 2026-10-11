@@ -1,7 +1,7 @@
 ---
 title: "Fangying Shi"
-description: "Fangying Shi is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.070176
+description: "Fangying Shi is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:33:00.100296
 url: "/cdr-researcher-census/researchers/fangying-shi-a5005731/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Chinese Academy of Sciences · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -42,15 +42,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 170 |
 | Publications | 11 |
-| CDR Focus | 18.2% |
-| Trajectory | Stable |
+| CDR Focus | 27.3% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Linkages between the molecular composition of dissolved organic matter and soil microbial community in a boreal forest during freeze–thaw cycles** (2023)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
-2. **Organic Fertilization Enhances Microbial-Mediated Dissolved Organic Matter Composition and Transformation in Paddy Soil** (2025)
+2. **Long-term urea application reshapes forest soil nitrogen cycling and enhances N2O emissions** (2026)
+   1 citations
+
+3. **Dissolved organic matter molecular diversity and transformation potential are associated with microbial carbon use efficiency in paddy soils** (2026)
+   0 citations · Biochar
+
+4. **Organic Fertilization Enhances Microbial-Mediated Dissolved Organic Matter Composition and Transformation in Paddy Soil** (2025)
    0 citations · Biochar
 
 ## External Profiles

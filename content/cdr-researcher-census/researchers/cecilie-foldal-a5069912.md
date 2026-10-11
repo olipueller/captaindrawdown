@@ -1,7 +1,7 @@
 ---
 title: "Cecilie Foldal"
 description: "Cecilie Foldal is a Mid-career Soil Carbon researcher at Austrian Research Centre for Forests in AT. With 32 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.877594
+date: 2026-10-11T02:32:59.905029
 url: "/cdr-researcher-census/researchers/cecilie-foldal-a5069912/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,7 +53,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Organic soil carbon in Austria – Status quo and foreseeable trends** (2021)
    20 citations · Soil Carbon
 
-2. **Carbon sequestration potential of high-altitude afforestations in the Eastern Alps** (2026)
+2. **Carbon sequestration potential of high-altitude afforestation in the Eastern Central Alps** (2026)
+   1 citations
+
+3. **Carbon sequestration potential of high-altitude afforestations in the Eastern Alps** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

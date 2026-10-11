@@ -1,7 +1,7 @@
 ---
 title: "Amit Kumar"
 description: "Amit Kumar is a Mid-career Soil Carbon researcher at Chandra Shekhar Azad University of Agriculture and Technology in IN. With 44 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.579652
+date: 2026-10-11T02:32:59.595481
 url: "/cdr-researcher-census/researchers/amit-kumar-a5101774/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long‐term impact of organic and inorganic fertilizers on soil organic carbon dynamics in a rice‐ wheat system** (2022)
-   28 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 2. **Influence of Different Nutrient Management Practices and Cropping Systems on Organic Carbon Pools in Typic Ustochrept Soil of Indo-Gangetic Plains in India** (2022)
    8 citations · Soil Carbon
 
 3. **Biomass Recycling for Soil and Environmental Sustainability in the Indian Himalayas** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

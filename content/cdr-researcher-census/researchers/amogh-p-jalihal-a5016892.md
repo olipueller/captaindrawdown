@@ -1,7 +1,7 @@
 ---
 title: "Amogh P. Jalihal"
 description: "Amogh P. Jalihal is a Mid-career Enhanced Weathering researcher at Harvard University in US. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.255103
+date: 2026-10-11T02:32:59.259009
 url: "/cdr-researcher-census/researchers/amogh-p-jalihal-a5016892/"
 layout: "researcher"
 hiddenInHomeList: true

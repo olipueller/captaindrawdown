@@ -1,7 +1,7 @@
 ---
 title: "Lilla Mielnik"
 description: "Lilla Mielnik is a Senior Soil Carbon researcher at West Pomeranian University of Technology in Szczecin in PL. With 55 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.555202
+date: 2026-10-11T02:32:59.570194
 url: "/cdr-researcher-census/researchers/lilla-mielnik-a5013251/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Properties of humin isolated from Polish arable soils: The most recalcitrant fraction of soil organic matter that prevent soil degradation** (2024)
-   9 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 2. **The Effect of New Zeolite Composites from Fly Ashes Mixed with Leonardite and Lignite in Enhancing Soil Organic Matter** (2025)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 3. **Changes in Soil Humin Macromolecular Structure Resulting from Long-Term Catch Cropping** (2024)
    6 citations · Soil Carbon
@@ -62,16 +62,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Molecular characteristics of humin fraction isolated from soils of temperate climate: a study on Chernozems and Phaeozems in Poland** (2023)
    1 citations
 
-5. **Soil management effects on soil organic matter properties and carbon sequestration (SOMPACS)** (2023)
-   0 citations · General CDR
-
-6. **Soil management effects on soil organic matter properties and carbon sequestration (SOMPACS)** (2023)
-   0 citations
-
-7. **Luminescence properties of the humin fraction isolated from Chernozems and Phaeozems from various regions of Poland&amp;#160;** (2022)
+5. **Insights from Lithuanian long-term soil management experiments: soil organic matter stability and carbon sequestration** (2026)
    0 citations · Soil Carbon
 
-8. **Selected properties of the humin fraction isolated from Chernozems and Phaeozems from various regions of Poland&amp;#160;** (2021)
+6. **Soil management effects on soil organic matter properties and carbon sequestration (SOMPACS)** (2023)
+   0 citations · General CDR
+
+7. **Soil management effects on soil organic matter properties and carbon sequestration (SOMPACS)** (2023)
+   0 citations
+
+8. **Luminescence properties of the humin fraction isolated from Chernozems and Phaeozems from various regions of Poland&amp;#160;** (2022)
+   0 citations · Soil Carbon
+
+9. **Selected properties of the humin fraction isolated from Chernozems and Phaeozems from various regions of Poland&amp;#160;** (2021)
    0 citations · Soil Carbon
 
 ## External Profiles

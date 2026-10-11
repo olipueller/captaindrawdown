@@ -1,7 +1,7 @@
 ---
 title: "Eric Toensmeier"
 description: "Eric Toensmeier is a Mid-career Soil Carbon researcher. With 25 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.105932
+date: 2026-10-11T02:33:00.136332
 url: "/cdr-researcher-census/researchers/eric-toensmeier-a5039949/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Policy pathways for perennial agriculture** (2022)
-   18 citations · General CDR
+   19 citations · General CDR
 
 2. **Perennial Staple Crops and Agroforestry for Climate Change Mitigation** (2024)
    4 citations · General CDR

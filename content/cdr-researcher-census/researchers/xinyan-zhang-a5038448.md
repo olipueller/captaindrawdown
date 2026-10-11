@@ -1,7 +1,7 @@
 ---
 title: "Xinyan Zhang"
 description: "Xinyan Zhang is a Senior Soil Carbon researcher at Changchun University of Science and Technology in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.854290
+date: 2026-10-11T02:32:59.881240
 url: "/cdr-researcher-census/researchers/xinyan-zhang-a5038448/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Aravind Baby"
 description: "Aravind Baby is a Mid-career General CDR researcher at Argonne National Laboratory in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.108390
+date: 2026-10-11T02:33:00.139138
 url: "/cdr-researcher-census/researchers/aravind-baby-a5079922/"
 layout: "researcher"
 hiddenInHomeList: true

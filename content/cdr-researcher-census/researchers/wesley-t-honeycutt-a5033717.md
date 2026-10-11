@@ -1,7 +1,7 @@
 ---
 title: "Wesley T. Honeycutt"
 description: "Wesley T. Honeycutt is a Mid-career General CDR researcher at Devon Energy (United States) in US. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.263032
+date: 2026-10-11T02:33:00.293013
 url: "/cdr-researcher-census/researchers/wesley-t-honeycutt-a5033717/"
 layout: "researcher"
 hiddenInHomeList: true

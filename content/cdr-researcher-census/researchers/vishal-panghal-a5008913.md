@@ -1,7 +1,7 @@
 ---
 title: "Vishal Panghal"
 description: "Vishal Panghal is a Mid-career Biochar researcher at Maharshi Dayanand University in IN. With 47 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.861163
+date: 2026-10-11T02:32:59.887822
 url: "/cdr-researcher-census/researchers/vishal-panghal-a5008913/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,12 +51,12 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar-modified constructed wetlands using Eclipta alba as a plant for sustainable rural wastewater treatment** (2024)
-   19 citations · Biochar
+   20 citations · Biochar
 
-2. **Biochar-Amended Vertical Flow Constructed Wetlands: A Green Technology for Dairy Wastewater Treatment** (2025)
-   0 citations · Biochar
+2. **Horizontal flow biochar amended constructed wetlands as a sustainable approach for rural wastewater treatment** (2024)
+   1 citations · Biochar
 
-3. **Horizontal flow biochar amended constructed wetlands as a sustainable approach for rural wastewater treatment** (2024)
+3. **Biochar-Amended Vertical Flow Constructed Wetlands: A Green Technology for Dairy Wastewater Treatment** (2025)
    0 citations · Biochar
 
 ## External Profiles

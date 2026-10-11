@@ -1,7 +1,7 @@
 ---
 title: "Changli Zeng"
 description: "Changli Zeng is a Mid-career Soil Carbon researcher at Jianghan University in CN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.393731
+date: 2026-10-11T02:33:00.431178
 url: "/cdr-researcher-census/researchers/changli-zeng-a5011021/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Prediction of soil organic carbon stock combining Sentinel-1 and Sentinel-2 images in the Zoige Plateau, the northeastern Qinghai-Tibet Plateau** (2024)
-   26 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 ## External Profiles
 

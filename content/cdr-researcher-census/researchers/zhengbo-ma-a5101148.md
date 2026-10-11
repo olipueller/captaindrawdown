@@ -1,7 +1,7 @@
 ---
 title: "Zhengbo Ma"
 description: "Zhengbo Ma is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.862267
+date: 2026-10-11T02:32:59.888842
 url: "/cdr-researcher-census/researchers/zhengbo-ma-a5101148/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,16 +48,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Green Manure Coupled With Straw Returning Increases Soil Organic Carbon via Decreased Priming Effect and Enhanced Microbial Carbon Pump** (2025)
-   69 citations · Soil Carbon
+   74 citations · Soil Carbon
 
 2. **Long-term green manuring increases soil carbon sequestration via decreasing qCO2 caused by lower microbial phosphorus limitation in a dry land field** (2024)
-   43 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 3. **Appropriately delayed flooding before rice transplanting increases net ecosystem economic benefit in the winter green manure-rice rotation system** (2024)
-   14 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 4. **Global Synthesis of Fertilisation‐Induced Changes in the Microbial Entombing Effect** (2025)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 5. **Co-Incorporating Dom from Chinese Milk Vetch and Rice Straw with Rape Straw Biochar Mitigates Cd Uptake by Rice: The Physiology and Passivation Mechanism** (2024)
    0 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Zhijie Dong"
 description: "Zhijie Dong is an Early-career Biochar researcher at Hainan Normal University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.081175
+date: 2026-10-11T02:33:00.111430
 url: "/cdr-researcher-census/researchers/zhijie-dong-a5016282/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    82 citations · Biochar
 
 2. **Trade‐off between soil carbon sequestration and net ecosystem economic benefits for paddy fields under long‐term application of biochar** (2023)
-   25 citations · Biochar
+   26 citations · Biochar
 
 ## External Profiles
 

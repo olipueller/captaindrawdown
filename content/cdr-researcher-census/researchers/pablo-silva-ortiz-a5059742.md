@@ -1,7 +1,7 @@
 ---
 title: "Pablo Silva Ortiz"
 description: "Pablo Silva Ortiz is a Mid-career Biochar researcher at Industrial University of Santander in CO. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.873807
+date: 2026-10-11T02:32:59.901097
 url: "/cdr-researcher-census/researchers/pablo-silva-ortiz-a5059742/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Waste biogenic carbon to alternative methanol production: A comprehensive analysis for ethanol distilleries** (2025)
-   5 citations · Biochar
+   7 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Maria Vincenza Chiriacò"
 description: "Maria Vincenza Chiriacò is a Senior Soil Carbon researcher at Centro Euro-Mediterraneo sui Cambiamenti Climatici in IT. With 101 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.311621
+date: 2026-10-11T02:32:59.317016
 url: "/cdr-researcher-census/researchers/maria-vincenza-chiriaco-a5067564/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,14 +50,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Carbon farming practices for European cropland: A review on the effect on soil organic carbon** (2024)
+1. **Carbon sequestration in a bamboo plantation: a case study in a Mediterranean area** (2024)
+   32 citations · General CDR
+
+2. **Carbon farming practices for European cropland: A review on the effect on soil organic carbon** (2024)
    30 citations · General CDR
 
-2. **Carbon sequestration in a bamboo plantation: a case study in a Mediterranean area** (2024)
-   29 citations · General CDR
-
 3. **The misconception of soil organic carbon sequestration notion: When do we achieve climate benefit?** (2023)
-   18 citations · General CDR
+   20 citations · General CDR
 
 4. **Advancing carbon monitoring technologies in forests and woody crops: a review for carbon farming** (2025)
    4 citations · General CDR

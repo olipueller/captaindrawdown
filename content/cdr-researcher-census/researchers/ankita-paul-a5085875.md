@@ -1,7 +1,7 @@
 ---
 title: "Ankita Paul"
 description: "Ankita Paul is a Mid-career BECCS researcher at Indian Agricultural Statistics Research Institute in IN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.338891
+date: 2026-10-11T02:33:00.372966
 url: "/cdr-researcher-census/researchers/ankita-paul-a5085875/"
 layout: "researcher"
 hiddenInHomeList: true

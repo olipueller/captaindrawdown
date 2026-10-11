@@ -1,7 +1,7 @@
 ---
 title: "Rajendra Kumar Joshi"
 description: "Rajendra Kumar Joshi is a Senior Soil Carbon researcher at Jawaharlal Nehru University in IN. With 52 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.344844
+date: 2026-10-11T02:32:59.350805
 url: "/cdr-researcher-census/researchers/rajendra-kumar-joshi-a5084097/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,17 +50,17 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Land restoration in the Himalayan Region: Steps towards biosphere integrity** (2022)
-   27 citations · Soil Carbon
+1. **Ecosystem carbon storage, allocation and carbon credit values of major forest types in the central Himalaya** (2025)
+   29 citations · General CDR
 
-2. **Ecosystem carbon storage, allocation and carbon credit values of major forest types in the central Himalaya** (2025)
-   25 citations · General CDR
+2. **Land restoration in the Himalayan Region: Steps towards biosphere integrity** (2022)
+   28 citations · Soil Carbon
 
 3. **Rhizosphere soil properties and microbial biomass changes with the chronosequence of stand age of broadleaf banj oak and coniferous deodar forests in the central Himalaya, India** (2023)
    12 citations
 
 4. **Quantifying ecosystem carbon storage, tree diversity, and carbon credit potential in the urban semi-arid forests of Delhi, India** (2025)
-   8 citations · General CDR
+   10 citations · General CDR
 
 5. **Ecosystem carbon stocks and sequestration rates in white oak forests in the central Himalaya: Role of nitrogen-fixing Nepalese alder** (2023)
    4 citations · Soil Carbon

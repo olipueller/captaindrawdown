@@ -1,7 +1,7 @@
 ---
 title: "Siji Chen"
 description: "Siji Chen is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.401771
+date: 2026-10-11T02:32:59.411006
 url: "/cdr-researcher-census/researchers/siji-chen-a5102748/"
 layout: "researcher"
 hiddenInHomeList: true

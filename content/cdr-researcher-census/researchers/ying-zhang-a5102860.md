@@ -1,7 +1,7 @@
 ---
 title: "Ying Zhang"
 description: "Ying Zhang is a Senior Soil Carbon researcher at AspenTech (United States) in US. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.825524
+date: 2026-10-11T02:32:59.851066
 url: "/cdr-researcher-census/researchers/ying-zhang-a5102860/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Unveiling the top-down control of soil viruses over microbial communities and soil organic carbon cycling: A review** (2024)
-   22 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 2. **Soil viruses reduce greenhouse gas emissions and promote microbial necromass accrual** (2024)
    6 citations · Soil Carbon

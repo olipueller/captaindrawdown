@@ -1,7 +1,7 @@
 ---
 title: "Arlinda F. Ciftja"
 description: "Arlinda F. Ciftja is a Mid-career Enhanced Weathering researcher at Geological Survey of Norway in NO. With 19 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.354090
+date: 2026-10-11T02:32:59.360214
 url: "/cdr-researcher-census/researchers/arlinda-f-ciftja-a5043363/"
 layout: "researcher"
 hiddenInHomeList: true

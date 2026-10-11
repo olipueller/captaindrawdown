@@ -1,7 +1,7 @@
 ---
 title: "Emmanouela Leventaki"
 description: "Emmanouela Leventaki is a Mid-career DAC researcher at Chalmers University of Technology in SE. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.276014
+date: 2026-10-11T02:33:00.305949
 url: "/cdr-researcher-census/researchers/emmanouela-leventaki-a5025403/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Casper Brady"
 description: "Casper Brady is a Mid-career DAC researcher at Pacific Northwest National Laboratory in US. With 24 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.312217
+date: 2026-10-11T02:32:59.317726
 url: "/cdr-researcher-census/researchers/casper-brady-a5109949/"
 layout: "researcher"
 hiddenInHomeList: true

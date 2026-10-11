@@ -1,7 +1,7 @@
 ---
 title: "Yash Amonkar"
 description: "Yash Amonkar is a Mid-career DAC researcher at University of North Carolina at Chapel Hill in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.110850
+date: 2026-10-11T02:33:00.141586
 url: "/cdr-researcher-census/researchers/yash-amonkar-a5038162/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,6 +51,9 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **High-Alkalinity Algal Cultivation with Direct Air Capture: An Economic Feasibility Analysis** (2026)
+   0 citations · DAC
+
+2. **High-Alkalinity Algal Cultivation with Direct Air Capture: An Economic Feasibility Analysis** (2026)
    0 citations · DAC
 
 ## External Profiles

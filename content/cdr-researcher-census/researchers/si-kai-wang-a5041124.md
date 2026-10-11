@@ -1,7 +1,7 @@
 ---
 title: "Si-Kai Wang"
 description: "Si-Kai Wang is a Senior Soil Carbon researcher at Zhejiang A & F University in CN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.357659
+date: 2026-10-11T02:33:00.392557
 url: "/cdr-researcher-census/researchers/si-kai-wang-a5041124/"
 layout: "researcher"
 hiddenInHomeList: true

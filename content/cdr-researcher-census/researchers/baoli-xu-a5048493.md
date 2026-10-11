@@ -1,7 +1,7 @@
 ---
 title: "Baoli Xu"
 description: "Baoli Xu is a Mid-career Soil Carbon researcher at Guilin University of Technology in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.091597
+date: 2026-10-11T02:33:00.122194
 url: "/cdr-researcher-census/researchers/baoli-xu-a5048493/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Impacts of Wetland Degradation on Soil Organic Carbon and Carbon Sequestration Function: A Case Study of the Huixian Wetland in the Li River Basin** (2026)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 2. **Impacts of Wetland Degradation on Soil Organic Carbon and Carbon Sequestration Function: A Case Study of the Huixian Wetland in the Li River Basin** (2025)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Wei Zhong"
 description: "Wei Zhong is a Mid-career Biochar researcher at National University of Defense Technology in CN. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.385116
+date: 2026-10-11T02:33:00.421996
 url: "/cdr-researcher-census/researchers/wei-zhong-a5101655/"
 layout: "researcher"
 hiddenInHomeList: true

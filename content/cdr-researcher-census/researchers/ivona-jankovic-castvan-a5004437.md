@@ -1,7 +1,7 @@
 ---
 title: "Ivona Janković Častvan"
 description: "Ivona Janković Častvan is a Mid-career Biochar researcher at University of Belgrade in RS. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.743520
+date: 2026-10-11T02:32:59.765896
 url: "/cdr-researcher-census/researchers/ivona-jankovic-castvan-a5004437/"
 layout: "researcher"
 hiddenInHomeList: true

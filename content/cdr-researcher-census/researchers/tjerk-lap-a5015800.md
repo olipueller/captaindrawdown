@@ -1,7 +1,7 @@
 ---
 title: "Tjerk Lap"
 description: "Tjerk Lap is a Mid-career BECCS researcher at University of Groningen in NL. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.328351
+date: 2026-10-11T02:33:00.361816
 url: "/cdr-researcher-census/researchers/tjerk-lap-a5015800/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **BECCS as climate mitigation option in a Brazilian low carbon energy system: Estimating potential and effect of gigatonne scale CO2 storage** (2023)
-   15 citations · BECCS
+   16 citations · BECCS
 
 2. **Exploring the spatiotemporal evolution of bioenergy with carbon capture and storage and decarbonization of oil refineries with a national energy system model of Colombia** (2023)
    5 citations · BECCS

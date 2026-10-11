@@ -1,7 +1,7 @@
 ---
 title: "Yecheng Zhang"
 description: "Yecheng Zhang is a Mid-career Soil Carbon researcher at Ministry of Agriculture in EE. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.360284
+date: 2026-10-11T02:32:59.367076
 url: "/cdr-researcher-census/researchers/yecheng-zhang-a5075442/"
 layout: "researcher"
 hiddenInHomeList: true

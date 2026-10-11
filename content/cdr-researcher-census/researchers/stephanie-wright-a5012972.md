@@ -1,7 +1,7 @@
 ---
 title: "Stephanie Wright"
 description: "Stephanie Wright is a Mid-career Soil Carbon researcher at Queen's University in CA. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.155976
+date: 2026-10-11T02:33:00.185776
 url: "/cdr-researcher-census/researchers/stephanie-wright-a5012972/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of nitrogen and phosphorus amendments on CO <sub>2</sub> and CH <sub>4</sub> production in peat soils of Scotty Creek, Northwest Territories: potential considerations for wildfire and permafrost thaw impacts on peatland carbon exchanges** (2025)
-   2 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 2. **Complexity of nutrient enrichment on subarctic peatland soil CO <sub>2</sub> and CH <sub>4</sub> production under increasing wildfire and permafrost thaw** (2024)
    1 citations · Soil Carbon

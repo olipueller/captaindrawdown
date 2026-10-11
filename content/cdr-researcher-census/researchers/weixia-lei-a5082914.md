@@ -1,7 +1,7 @@
 ---
 title: "Weixia Lei"
 description: "Weixia Lei is a Mid-career Soil Carbon researcher at Anhui Academy of Agricultural Sciences in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.813401
+date: 2026-10-11T02:32:59.838250
 url: "/cdr-researcher-census/researchers/weixia-lei-a5082914/"
 layout: "researcher"
 hiddenInHomeList: true

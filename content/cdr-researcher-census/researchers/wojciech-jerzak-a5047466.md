@@ -1,7 +1,7 @@
 ---
 title: "Wojciech Jerzak"
 description: "Wojciech Jerzak is a Senior Biochar researcher at AGH University of Krakow in PL. With 76 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.288283
+date: 2026-10-11T02:32:59.292623
 url: "/cdr-researcher-census/researchers/wojciech-jerzak-a5047466/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,15 +51,18 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Valorisation of food industry waste into high-performance biochar for environmental applications** (2025)
-   11 citations · Biochar
+   17 citations · Biochar
 
 2. **Direct Air Capture Using Pyrolysis and Gasification Chars: Key Findings and Future Research Needs** (2025)
-   6 citations · Biochar
+   8 citations · Biochar
 
 3. **Effects of intrinsic and external potassium on biochar structure evolution in volatile-char interactions during biomass pyrolysis** (2025)
-   2 citations · Biochar
+   3 citations · Biochar
 
-4. **Waste biomass valorisation into high-performance CO2 adsorbents: Feedstock-dependent effects of demineralisation and KOH activation** (2026)
+4. **Effect of steam-enriched CO2 atmosphere on the properties of biochar derived from food waste gasification** (2026)
+   1 citations · Biochar
+
+5. **Waste biomass valorisation into high-performance CO2 adsorbents: Feedstock-dependent effects of demineralisation and KOH activation** (2026)
    0 citations · Biochar
 
 ## External Profiles

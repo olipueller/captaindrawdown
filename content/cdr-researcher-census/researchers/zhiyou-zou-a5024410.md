@@ -1,7 +1,7 @@
 ---
 title: "Zhiyou Zou"
 description: "Zhiyou Zou is an Early-career Biochar researcher at Yangtze University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.917789
+date: 2026-10-11T02:32:59.967265
 url: "/cdr-researcher-census/researchers/zhiyou-zou-a5024410/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Advances and prospects of biochar in improving soil fertility, biochemical quality, and environmental applications** (2023)
-   166 citations · Biochar
+   169 citations · Biochar
 
 2. **Biochar particle size coupled with biofertilizer enhances soil carbon-nitrogen microbial pools and CO2 sequestration in lentil** (2023)
-   18 citations · Biochar
+   19 citations · Biochar
 
 ## External Profiles
 

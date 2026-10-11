@@ -1,7 +1,7 @@
 ---
 title: "Jennifer Newell"
 description: "Jennifer Newell is an Early-career Enhanced Weathering researcher at Queen's University Belfast in GB. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.353776
+date: 2026-10-11T02:33:00.388905
 url: "/cdr-researcher-census/researchers/jennifer-newell-a5025966/"
 layout: "researcher"
 hiddenInHomeList: true

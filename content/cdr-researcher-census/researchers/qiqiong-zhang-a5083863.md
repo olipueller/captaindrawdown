@@ -1,7 +1,7 @@
 ---
 title: "Qiqiong Zhang"
 description: "Qiqiong Zhang is a Mid-career Soil Carbon researcher at East China Normal University in CN. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.683029
+date: 2026-10-11T02:32:59.703207
 url: "/cdr-researcher-census/researchers/qiqiong-zhang-a5083863/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Variations in Iron-bound carbon in Scirpus mariqueter rhizosphere and bulk soils across different salinities and tidal elevations** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

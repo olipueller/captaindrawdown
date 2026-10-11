@@ -1,7 +1,7 @@
 ---
 title: "Simon Etzold"
 description: "Simon Etzold is a Mid-career Enhanced Weathering researcher at RWTH Aachen University in DE. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.977693
+date: 2026-10-11T02:33:00.009313
 url: "/cdr-researcher-census/researchers/simon-etzold-a5070119/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Ex-situ mineral carbonation – A parameter study on carbon mineralisation in an autoclave as part of a large-scale utilisation process** (2022)
-   29 citations · Enhanced Weathering
+   33 citations · Enhanced Weathering
 
 ## External Profiles
 

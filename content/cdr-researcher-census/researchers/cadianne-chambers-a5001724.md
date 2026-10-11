@@ -1,7 +1,7 @@
 ---
 title: "Cadianne Chambers"
 description: "Cadianne Chambers is a Mid-career Biochar researcher at Florida Institute of Technology in US. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.001680
+date: 2026-10-11T02:33:00.032535
 url: "/cdr-researcher-census/researchers/cadianne-chambers-a5001724/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Recent Progress on Emerging Applications of Hydrochar** (2022)
-   67 citations · Biochar
+   68 citations · Biochar
 
 2. **Multifunctional Loblolly Pine-Derived Superactivated Hydrochar: Effect of Hydrothermal Carbonization on Hydrogen and Electron Storage with Carbon Dioxide and Dye Removal** (2022)
    17 citations · Biochar

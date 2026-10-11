@@ -1,7 +1,7 @@
 ---
 title: "Tronje P. Kemena"
 description: "Tronje P. Kemena is a Mid-career Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 51 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.366100
+date: 2026-10-11T02:33:00.401838
 url: "/cdr-researcher-census/researchers/tronje-p-kemena-a5043456/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    7 citations · General CDR
 
 2. **New/refined parameterizations for modelling ocean alkalinization effects on biogeochemistry and plankton dynamics** (2024)
-   1 citations · Ocean CDR
+   2 citations · Ocean CDR
 
 3. **Analysis (report) of high- resolution modelling of efficacy, and regional impacts of selected ocean NETs close to the deployment sites** (2023)
-   1 citations · General CDR
+   2 citations · General CDR
 
 4. **A comparison of metrics for CO 2 uptake efficiency of regional ocean alkalinity enhancement in an Earth system model** (2026)
    0 citations · Ocean CDR

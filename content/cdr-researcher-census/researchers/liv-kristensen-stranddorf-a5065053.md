@@ -1,7 +1,7 @@
 ---
 title: "Liv Kristensen Stranddorf"
 description: "Liv Kristensen Stranddorf is a Mid-career General CDR researcher at Vattenfall (Denmark) in DK. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.361150
+date: 2026-10-11T02:33:00.396780
 url: "/cdr-researcher-census/researchers/liv-kristensen-stranddorf-a5065053/"
 layout: "researcher"
 hiddenInHomeList: true

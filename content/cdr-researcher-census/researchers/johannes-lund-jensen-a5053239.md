@@ -1,7 +1,7 @@
 ---
 title: "Johannes Lund Jensen"
 description: "Johannes Lund Jensen is a Senior Soil Carbon researcher at Aarhus University in DK. With 115 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.185756
+date: 2026-10-11T02:32:59.189894
 url: "/cdr-researcher-census/researchers/johannes-lund-jensen-a5053239/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    39 citations · Soil Carbon
 
 3. **Forage vs. Grain Legumes: Contrasting Effects on Soil Organic Carbon Stocks–Evidence From 30 European Field Experiments** (2025)
-   12 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 4. **Pre-conversion soil organic carbon level did not affect accumulation rate following conversion from arable land to semi-natural grassland** (2024)
    2 citations · Soil Carbon

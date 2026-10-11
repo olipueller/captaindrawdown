@@ -1,7 +1,7 @@
 ---
 title: "Kate O’Sullivan"
 description: "Kate O’Sullivan is a Mid-career General CDR researcher at Cardiff University in GB. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.610022
+date: 2026-10-11T02:32:59.627251
 url: "/cdr-researcher-census/researchers/kate-osullivan-a5061472/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Top CDR Publications
 
-1. **Responsible research and innovation of carbon removal: strategies for field trials** (2025)
-   2 citations · General CDR
+1. **Who pays for carbon dioxide removal? Public perceptions of risk and fairness of enhanced rock weathering in the UK** (2025)
+   3 citations · Enhanced Weathering
 
-2. **Who pays for carbon dioxide removal? Public perceptions of risk and fairness of enhanced rock weathering in the UK** (2025)
-   2 citations · Enhanced Weathering
+2. **Responsible research and innovation of carbon removal: strategies for field trials** (2025)
+   2 citations · General CDR
 
 ## External Profiles
 

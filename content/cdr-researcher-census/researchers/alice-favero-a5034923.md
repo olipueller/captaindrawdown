@@ -1,7 +1,7 @@
 ---
 title: "Alice Favero"
 description: "Alice Favero is a Senior General CDR researcher at RTI International in US. With 60 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.237331
+date: 2026-10-11T02:32:59.240820
 url: "/cdr-researcher-census/researchers/alice-favero-a5034923/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    22 citations · DAC
 
 2. **TEMPERATURE AND ENERGY SECURITY: WILL FOREST BIOMASS HELP IN THE FUTURE?** (2023)
-   9 citations · BECCS
+   8 citations · BECCS
 
 3. **Global carbon storage in harvested wood products: a forest sector model inter-comparison** (2025)
    3 citations · General CDR

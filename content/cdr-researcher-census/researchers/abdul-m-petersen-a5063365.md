@@ -1,7 +1,7 @@
 ---
 title: "Abdul M. Petersen"
 description: "Abdul M. Petersen is a Mid-career General CDR researcher at Stellenbosch University in ZA. With 35 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.331862
+date: 2026-10-11T02:32:59.337576
 url: "/cdr-researcher-census/researchers/abdul-m-petersen-a5063365/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Life cycle assessment and economic analysis of carbon sequestration through biochar produced from invasive alien plants** (2025)
-   14 citations · Biochar
+   15 citations · Biochar
 
 2. **Carbon markets can support invasive trees’ control with biomass-based value chains** (2025)
    0 citations · BECCS

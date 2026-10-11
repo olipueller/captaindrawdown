@@ -1,7 +1,7 @@
 ---
 title: "Anthony Debons"
 description: "Anthony Debons is a Senior Soil Carbon researcher. With 99 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.593357
+date: 2026-10-11T02:32:59.610158
 url: "/cdr-researcher-census/researchers/anthony-debons-a5072139/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,13 +46,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Optimizing Carbon Sequestration Through Cover Cropping in Mediterranean Agroecosystems: Synthesis of Mechanisms and Implications for Management** (2022)
-   40 citations · Soil Carbon
+   41 citations · Soil Carbon
 
 2. **Hedgerows on Crop Field Edges Increase Soil Carbon to a Depth of 1 meter** (2022)
-   19 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 3. **Combining organic amendments with enhanced rock weathering shifts soil carbon storage in croplands** (2025)
-   12 citations · Enhanced Weathering
+   13 citations · Enhanced Weathering
 
 4. **Climate Warming Alters Nutrient Storage in Seasonally Dry Forests: Insights From a 2,300 m Elevation Gradient** (2022)
    12 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Fengge Hao"
 description: "Fengge Hao is a Senior Soil Carbon researcher at Henan Institute of Science and Technology in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.809371
+date: 2026-10-11T02:32:59.834203
 url: "/cdr-researcher-census/researchers/fengge-hao-a5044158/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effect of Wheat Straw Addition on Organic Carbon Mineralisation and Bacterial Community in Orchard Soil** (2023)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 2. **Nitrogen availability regulates the soil organic carbon sequestration by promoting microbial necromass and plant lignin phenol accumulation in orchard soil amended with organic residues** (2026)
    0 citations · Soil Carbon

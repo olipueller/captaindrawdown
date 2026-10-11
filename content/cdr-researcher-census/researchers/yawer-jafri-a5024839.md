@@ -1,7 +1,7 @@
 ---
 title: "Yawer Jafri"
 description: "Yawer Jafri is a Mid-career BECCS researcher at Luleå University of Technology in SE. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.870536
+date: 2026-10-11T02:32:59.897426
 url: "/cdr-researcher-census/researchers/yawer-jafri-a5024839/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Sustainable aviation fuels – Options for negative emissions and high carbon efficiency** (2023)
-   29 citations · BECCS
+   30 citations · BECCS
 
 2. **Sustainable Aviation Fuels – Options for Negative Emissions and High Carbon Efficiency** (2022)
    2 citations · BECCS

@@ -1,7 +1,7 @@
 ---
 title: "Guangguang Guo"
 description: "Guangguang Guo is a Mid-career Soil Carbon researcher at Henan Energy & Chemical Industry Group (China) in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.978169
+date: 2026-10-11T02:33:00.009741
 url: "/cdr-researcher-census/researchers/guangguang-guo-a5064004/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Associations of soil Fe oxides and organic carbon vary in different aggregate fractions under warming** (2023)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 ## External Profiles
 

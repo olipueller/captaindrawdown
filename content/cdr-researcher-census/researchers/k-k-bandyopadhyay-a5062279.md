@@ -1,7 +1,7 @@
 ---
 title: "K. K. Bandyopadhyay"
 description: "K. K. Bandyopadhyay is a Senior Soil Carbon researcher at Bidhan Chandra Krishi Viswa Vidyalaya in IN. With 112 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.052259
+date: 2026-10-11T02:32:59.056363
 url: "/cdr-researcher-census/researchers/k-k-bandyopadhyay-a5062279/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,17 +53,17 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Assessment of carbon carrying capacities of Alfisols and Vertisols under long-term manuring and fertilization** (2024)
    9 citations · Soil Carbon
 
-2. **Long-term adoption of bed planted conservation agriculture based maize/cotton-wheat system enhances soil organic carbon stabilization within aggregates in the indo-gangetic plains** (2023)
+2. **Exploring waste mica as an alternative potassium source using a novel potassium solubilizing bacterium and rice residue in K deficient Alfisol** (2024)
+   5 citations
+
+3. **Long-term adoption of bed planted conservation agriculture based maize/cotton-wheat system enhances soil organic carbon stabilization within aggregates in the indo-gangetic plains** (2023)
    5 citations · Soil Carbon
 
-3. **Soil Carbon Sequestration Through Conservation Tillage and Residue Management** (2021)
+4. **Soil Carbon Sequestration Through Conservation Tillage and Residue Management** (2021)
    5 citations · Soil Carbon
 
-4. **Impact of different cropping systems on structural attributes and aggregate-associated carbon dynamics of clayey soil under conservation agriculture** (2025)
+5. **Impact of different cropping systems on structural attributes and aggregate-associated carbon dynamics of clayey soil under conservation agriculture** (2025)
    4 citations · Soil Carbon
-
-5. **Exploring waste mica as an alternative potassium source using a novel potassium solubilizing bacterium and rice residue in K deficient Alfisol** (2024)
-   4 citations
 
 6. **Impact of Conservation Agriculture on Soil Health and Crop Productivity under Irrigated Ecosystems** (2021)
    3 citations · General CDR

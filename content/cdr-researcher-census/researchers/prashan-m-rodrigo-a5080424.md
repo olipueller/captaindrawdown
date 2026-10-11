@@ -1,7 +1,7 @@
 ---
 title: "Prashan M. Rodrigo"
 description: "Prashan M. Rodrigo is a Mid-career Biochar researcher at Prairie View A&M University in US. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.642620
+date: 2026-10-11T02:32:59.661022
 url: "/cdr-researcher-census/researchers/prashan-m-rodrigo-a5080424/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    49 citations · Biochar
 
 2. **Pyrolytic synthesis of graphene-encapsulated zero-valent iron nanoparticles supported on biochar for heavy metal removal** (2022)
-   46 citations · Biochar
+   48 citations · Biochar
 
 3. **Fabrication of Redox Active Mn3O4 on Douglas fir Biochar for Aqueous Arsenic(III) Oxidation and Remediation** (2026)
    1 citations · Biochar

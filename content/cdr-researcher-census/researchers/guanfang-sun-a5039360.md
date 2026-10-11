@@ -1,7 +1,7 @@
 ---
 title: "Guanfang Sun"
 description: "Guanfang Sun is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.823336
+date: 2026-10-11T02:32:59.848472
 url: "/cdr-researcher-census/researchers/guanfang-sun-a5039360/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Vapor pressure deficit dominates dryness stress on forest biomass carbon in China under global warming** (2025)
-   21 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 2. **Effects of soil conservation on the spatial heterogeneity of vegetation carbon sequestration in the Yellow River Basin, China** (2023)
    9 citations · General CDR

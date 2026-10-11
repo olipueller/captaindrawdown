@@ -1,7 +1,7 @@
 ---
 title: "Atchaya Sundararajan"
 description: "Atchaya Sundararajan is a Mid-career Biochar researcher at SASTRA University in IN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.146886
+date: 2026-10-11T02:33:00.176511
 url: "/cdr-researcher-census/researchers/atchaya-sundararajan-a5048850/"
 layout: "researcher"
 hiddenInHomeList: true

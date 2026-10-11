@@ -1,7 +1,7 @@
 ---
 title: "Esmaeil Allahkarami"
 description: "Esmaeil Allahkarami is a Mid-career Biochar researcher at Amirkabir University of Technology in IR. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.667722
+date: 2026-10-11T02:32:59.687156
 url: "/cdr-researcher-census/researchers/esmaeil-allahkarami-a5018070/"
 layout: "researcher"
 hiddenInHomeList: true

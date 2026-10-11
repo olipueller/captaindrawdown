@@ -1,7 +1,7 @@
 ---
 title: "Xiaofang Ma"
 description: "Xiaofang Ma is a Senior Soil Carbon researcher at Fuzhou University in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.034688
+date: 2026-10-11T02:33:00.065693
 url: "/cdr-researcher-census/researchers/xiaofang-ma-a5066215/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Reduction in net greenhouse gas emissions through a combination of pig manure and reduced inorganic fertilizer application in a double-rice cropping system: Three-year results** (2021)
-   59 citations · General CDR
+   60 citations · General CDR
 
 ## External Profiles
 

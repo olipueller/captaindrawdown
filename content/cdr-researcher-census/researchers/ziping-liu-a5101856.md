@@ -1,7 +1,7 @@
 ---
 title: "Ziping Liu"
 description: "Ziping Liu is a Senior Soil Carbon researcher at Northeast Normal University in CN. With 113 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.105693
+date: 2026-10-11T02:32:59.110351
 url: "/cdr-researcher-census/researchers/ziping-liu-a5101856/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    20 citations · Soil Carbon
 
 2. **Profile soil organic and inorganic carbon sequestration in maize cropland after long-term straw return** (2023)
-   15 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 3. **Refining Amino Sugar‐Based Conversion Factors for Quantification of Microbial Necromass Carbon in Soils** (2025)
-   13 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 4. **Temperature effects on microbial carbon use efficiency and priming effects in soils under vegetation restoration** (2024)
    12 citations · Soil Carbon

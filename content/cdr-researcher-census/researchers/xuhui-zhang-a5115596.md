@@ -1,7 +1,7 @@
 ---
 title: "Xuhui Zhang"
 description: "Xuhui Zhang is an Eminent Soil Carbon researcher at Chinese University of Hong Kong, Shenzhen in CN. With 137 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.029271
+date: 2026-10-11T02:32:59.032293
 url: "/cdr-researcher-census/researchers/xuhui-zhang-a5115596/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,27 +48,30 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Pool complexity and molecular diversity shaped topsoil organic matter accumulation following decadal forest restoration in a karst terrain** (2022)
-   63 citations · Soil Carbon
+   64 citations · Soil Carbon
 
 2. **Long-term elevated CO2 and warming enhance microbial necromass carbon accumulation in a paddy soil** (2021)
-   56 citations
+   57 citations
 
 3. **Amendment of crop residue in different forms shifted micro-pore system structure and potential functionality of macroaggregates while changed their mass proportion and carbon storage of paddy topsoil** (2021)
-   47 citations · Soil Carbon
+   49 citations · Soil Carbon
 
 4. **Quantitative assessment of the effects of biochar amendment on photosynthetic carbon assimilation and dynamics in a rice–soil system** (2021)
-   37 citations · Biochar
+   38 citations · Biochar
 
 5. **Biochar-plant interactions enhance nonbiochar carbon sequestration in a rice paddy soil** (2023)
-   26 citations · Biochar
+   28 citations · Biochar
 
 6. **Amendment of straw biochar increased molecular diversity and enhanced preservation of plant derived organic matter in extracted fractions of a rice paddy** (2021)
    24 citations · Biochar
 
-7. **Pool and Molecular Composition of Topsoil Organic Matter in Karst Forestlands Affected by Lithological Origin from Central Guizhou, Southwest China** (2024)
+7. **Depth-dependent microbial necromass carbon accumulation responses to long-term biochar amendment in croplands** (2026)
+   1 citations · Biochar
+
+8. **Pool and Molecular Composition of Topsoil Organic Matter in Karst Forestlands Affected by Lithological Origin from Central Guizhou, Southwest China** (2024)
    0 citations · Soil Carbon
 
-8. **Changes in Aggregate C Pools and Chemical Composition of Topsoil Organic Matter Following Crop Residue Amendment in Different Forms in a Paddy** (2023)
+9. **Changes in Aggregate C Pools and Chemical Composition of Topsoil Organic Matter Following Crop Residue Amendment in Different Forms in a Paddy** (2023)
    0 citations · Soil Carbon
 
 ## External Profiles

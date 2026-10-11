@@ -1,7 +1,7 @@
 ---
 title: "Shuang Wang"
 description: "Shuang Wang is a Senior Soil Carbon researcher at Ningbo University in CN. With 83 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.111122
+date: 2026-10-11T02:32:59.115756
 url: "/cdr-researcher-census/researchers/shuang-wang-a5100375/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    25 citations · Soil Carbon
 
 2. **Stability of iron-carbon complexes determines carbon sequestration efficiency in iron-rich soils** (2025)
-   17 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 3. **Integrating Landscape Pattern Metrics to Map Spatial Distribution of Farmland Soil Organic Carbon on Lower Liaohe Plain of Northeast China** (2023)
    12 citations · Soil Carbon
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · Soil Carbon
 
 5. **Plasma oxidation via Fenton-like reaction by algae-based activated biochar with Fe sites for dye pollutants degradation in wastewater** (2025)
-   3 citations
+   6 citations
 
 6. **Influence of Vegetation Type and Park Age on Soil Dissolved Organic Matter Composition in Subtropical Urban Parks** (2026)
    2 citations · Soil Carbon

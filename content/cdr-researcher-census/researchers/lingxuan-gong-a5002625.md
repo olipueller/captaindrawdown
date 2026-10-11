@@ -1,7 +1,7 @@
 ---
 title: "Lingxuan Gong"
 description: "Lingxuan Gong is a Mid-career Soil Carbon researcher at Agro-Environmental Protection Institute in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.722694
+date: 2026-10-11T02:32:59.743813
 url: "/cdr-researcher-census/researchers/lingxuan-gong-a5002625/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The coupling between iron and carbon and iron reducing bacteria control carbon sequestration in paddy soils** (2023)
-   54 citations · Soil Carbon
+   53 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Eugenio Straffelini"
 description: "Eugenio Straffelini is a Mid-career Soil Carbon researcher at Università degli Studi di Padova in IT. With 55 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.342359
+date: 2026-10-11T02:32:59.348395
 url: "/cdr-researcher-census/researchers/eugenio-straffelini-a5018150/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    60 citations · General CDR
 
 2. **Soil Conservation Measures Enhanced Soil Organic Carbon Storage Across China** (2025)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 3. **Satellite-based remote sensing and multitemporal modeling approach for mapping soil erosion hotspots in global mountain grasslands under climate change** (2024)
    0 citations · Soil Carbon

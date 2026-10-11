@@ -1,7 +1,7 @@
 ---
 title: "Yanli Jing"
 description: "Yanli Jing is a Senior Soil Carbon researcher at Mianyang Normal University in CN. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.684476
+date: 2026-10-11T02:32:59.704684
 url: "/cdr-researcher-census/researchers/yanli-jing-a5019315/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Non-additive effects of nitrogen and phosphorus fertilization on microbial biomass and residue distribution in a subtropical plantation** (2021)
-   18 citations
+   17 citations
 
 2. **Linking soil nematode communities to plant- and microbial-derived carbon in a 15-year field experiment** (2026)
    1 citations · Soil Carbon

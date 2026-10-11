@@ -1,7 +1,7 @@
 ---
 title: "Christiana Dietzen"
 description: "Christiana Dietzen is a Mid-career Enhanced Weathering researcher at University of Copenhagen in DK. With 27 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.748414
+date: 2026-10-11T02:32:59.770556
 url: "/cdr-researcher-census/researchers/christiana-dietzen-a5050210/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,30 +51,30 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Quantification of CO2 uptake by enhanced weathering of silicate minerals applied to acidic soils** (2023)
-   76 citations · Enhanced Weathering
+   79 citations · Enhanced Weathering
 
 2. **Greenlandic glacial rock flour improves crop yield in organic agricultural production** (2023)
-   24 citations · Enhanced Weathering
+   25 citations · Enhanced Weathering
 
-3. **Expert elicitation on agricultural enhanced weathering highlights CO2 removal potential and uncertainties in loss pathways** (2025)
+3. **Expert elicitation on agricultural enhanced weathering reveals carbon dioxide removal potential and uncertainties in loss pathways** (2026)
+   5 citations · Enhanced Weathering
+
+4. **Expert elicitation on agricultural enhanced weathering highlights CO2 removal potential and uncertainties in loss pathways** (2025)
    3 citations · Enhanced Weathering
 
-4. **Expert elicitation on agricultural enhanced weathering reveals carbon dioxide removal potential and uncertainties in loss pathways** (2026)
-   2 citations · Enhanced Weathering
-
-5. **Enduring increases in maize yield are a co-benefit of enhanced weathering of Greenlandic glacial rock flour in Ghana** (2025)
+5. **An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering** (2026)
    1 citations · Enhanced Weathering
 
-6. **An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering** (2026)
+6. **Short-term effects of Greenlandic glacial rock flour on soil physical properties and maize yield** (2026)
+   1 citations · Enhanced Weathering
+
+7. **Enduring increases in maize yield are a co-benefit of enhanced weathering of Greenlandic glacial rock flour in Ghana** (2025)
+   1 citations · Enhanced Weathering
+
+8. **Enhanced weathering of glacial rock flour drives coupled inorganic and organic carbon sequestration in a five-year field experiment** (2026)
    0 citations · Enhanced Weathering
 
-7. **Enhanced weathering of glacial rock flour drives coupled inorganic and organic carbon sequestration in a five-year field experiment** (2026)
-   0 citations · Enhanced Weathering
-
-8. **Five year field trial of enhanced rock weathering of glacial rock flour in Vojens, DK: Data and analytical tools** (2026)
-   0 citations · Enhanced Weathering
-
-9. **Short-term effects of Greenlandic glacial rock flour on soil physical properties and maize yield** (2026)
+9. **Five year field trial of enhanced rock weathering of glacial rock flour in Vojens, DK: Data and analytical tools** (2026)
    0 citations · Enhanced Weathering
 
 10. **Correction: Enduring increases in maize yield are a co-benefit of enhanced weathering of Greenlandic glacial rock flour in Ghana** (2025)

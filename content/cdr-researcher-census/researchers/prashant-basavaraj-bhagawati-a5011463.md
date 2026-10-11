@@ -1,7 +1,7 @@
 ---
 title: "Prashant Basavaraj Bhagawati"
 description: "Prashant Basavaraj Bhagawati is a Mid-career Biochar researcher at Dayananda Sagar College of Engineering in IN. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.752393
+date: 2026-10-11T02:32:59.774737
 url: "/cdr-researcher-census/researchers/prashant-basavaraj-bhagawati-a5011463/"
 layout: "researcher"
 hiddenInHomeList: true

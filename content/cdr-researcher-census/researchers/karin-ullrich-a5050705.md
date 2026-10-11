@@ -1,7 +1,7 @@
 ---
 title: "Karin Ullrich"
 description: "Karin Ullrich is a Senior Soil Carbon researcher at Federal Agency for Nature Conservation in DE. With 20 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.366405
+date: 2026-10-11T02:33:00.402105
 url: "/cdr-researcher-census/researchers/karin-ullrich-a5050705/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The climate benefits of topsoil removal and <scp><i>Sphagnum</i></scp> introduction in raised bog restoration** (2021)
-   30 citations · General CDR
+   28 citations · General CDR
 
 2. **Topsoil removal and Sphagnum spreading improve the climate balance of peat bog restoration** (2021)
    0 citations · General CDR

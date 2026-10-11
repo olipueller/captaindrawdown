@@ -1,7 +1,7 @@
 ---
 title: "Njato Mickaël Rakotoarisoa"
 description: "Njato Mickaël Rakotoarisoa is a Mid-career Soil Carbon researcher at Centre National de la Recherche Appliquée au Developpement Rural in MG. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.853100
+date: 2026-10-11T02:32:59.880096
 url: "/cdr-researcher-census/researchers/njato-mickael-rakotoarisoa-a5072063/"
 layout: "researcher"
 hiddenInHomeList: true

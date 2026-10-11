@@ -1,7 +1,7 @@
 ---
 title: "Liuqingqing Liu"
 description: "Liuqingqing Liu is a Mid-career Biochar researcher at Ministry of Ecology and Environment in CN. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.370128
+date: 2026-10-11T02:32:59.377443
 url: "/cdr-researcher-census/researchers/liuqingqing-liu-a5081856/"
 layout: "researcher"
 hiddenInHomeList: true

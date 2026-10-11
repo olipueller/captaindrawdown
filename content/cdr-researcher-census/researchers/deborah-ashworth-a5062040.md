@@ -1,7 +1,7 @@
 ---
 title: "Deborah Ashworth"
 description: "Deborah Ashworth is a Mid-career Soil Carbon researcher at University of Manchester in GB. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.106739
+date: 2026-10-11T02:33:00.137224
 url: "/cdr-researcher-census/researchers/deborah-ashworth-a5062040/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Seasonal Sheep Grazing Does Not Enhance Stable or Total Soil Carbon Stocks in a Long‐Term Calcareous Grassland Experiment** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 2. **No enhancement of soil carbon persistence by sheep grazing in a long-term calcareous grassland experiment** (2024)
    1 citations · Soil Carbon

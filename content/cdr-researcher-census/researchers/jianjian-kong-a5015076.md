@@ -1,7 +1,7 @@
 ---
 title: "Jianjian Kong"
 description: "Jianjian Kong is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.617861
+date: 2026-10-11T02:32:59.635329
 url: "/cdr-researcher-census/researchers/jianjian-kong-a5015076/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,10 +47,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Wildfire Reconfigures Soil Function Linkages in a Chinese Boreal Larch Forest** (2026)
-   0 citations · Soil Carbon
+1. **Can Alternative Tillage Sequester Carbon Deeper? A Global Synthesis of Deep‐Soil Carbon Stocks and Fractions** (2025)
+   1 citations · Soil Carbon
 
-2. **Can Alternative Tillage Sequester Carbon Deeper? A Global Synthesis of Deep‐Soil Carbon Stocks and Fractions** (2025)
+2. **Wildfire Reconfigures Soil Function Linkages in a Chinese Boreal Larch Forest** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

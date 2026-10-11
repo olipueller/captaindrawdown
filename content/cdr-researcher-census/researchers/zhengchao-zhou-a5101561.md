@@ -1,7 +1,7 @@
 ---
 title: "Zhengchao Zhou"
 description: "Zhengchao Zhou is a Senior Soil Carbon researcher at Shaanxi Institute of Zoology in CN. With 88 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.140897
+date: 2026-10-11T02:32:59.145176
 url: "/cdr-researcher-census/researchers/zhengchao-zhou-a5101561/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    74 citations · Soil Carbon
 
 2. **Belowground C sequestrations response to grazing exclusion in global grasslands: Dynamics and mechanisms** (2023)
-   21 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 3. **Divergent changes in particulate and mineral-associated organic carbon under natural revegetation along a soil texture gradient in temperate grasslands of China** (2024)
    13 citations · Soil Carbon
 
 4. **Trade-off between soil carbon and water following revegetation across climatic gradients on the Loess Plateau** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 5. **Is the Change of Soil Carbon Capacity Persistence Rising or Remain Stable With Maturity of Vegetation Restoration?** (2021)
    7 citations · Soil Carbon

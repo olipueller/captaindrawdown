@@ -1,7 +1,7 @@
 ---
 title: "Rusha Begna Wakweya"
 description: "Rusha Begna Wakweya is a Mid-career Soil Carbon researcher at Jimma University in ET. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.883303
+date: 2026-10-11T02:32:59.910497
 url: "/cdr-researcher-census/researchers/rusha-begna-wakweya-a5014603/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Mitigating climate change impacts on food security via climate-smart agriculture** (2025)
-   20 citations · General CDR
+   23 citations · General CDR
 
 2. **The Bamboo Nexus: Review of Environmental, Economic, and Social Benefits for Sustainable Development** (2026)
    0 citations

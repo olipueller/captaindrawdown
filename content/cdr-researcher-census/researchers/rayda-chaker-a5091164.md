@@ -1,7 +1,7 @@
 ---
 title: "Rayda Chaker"
 description: "Rayda Chaker is a Mid-career Soil Carbon researcher. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.243801
+date: 2026-10-11T02:33:00.273709
 url: "/cdr-researcher-census/researchers/rayda-chaker-a5091164/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The Short-Term Effect of Olive Mill Wastewater Application on Humic Acid in Subsurface Soil Layers of the Arid Region of Tunisia** (2023)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 2. **Long-Term Land Use Effects on Soil Quality and Organic Carbon Content in Calcaric Regosol Profiles of Arid Ecosystems** (2025)
    1 citations · Soil Carbon

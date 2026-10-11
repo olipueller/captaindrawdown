@@ -1,7 +1,7 @@
 ---
 title: "Wenjun Ji"
 description: "Wenjun Ji is a Senior Soil Carbon researcher at Shandong Academy of Agricultural Sciences in CN. With 112 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.052725
+date: 2026-10-11T02:32:59.056898
 url: "/cdr-researcher-census/researchers/wenjun-ji-a5010230/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A high-resolution map of soil organic carbon in cropland of Southern China** (2024)
-   61 citations · Soil Carbon
+   63 citations · Soil Carbon
 
 2. **Spatial variability and potential controls of soil organic matter in the Eastern Dongting Lake Plain in southern China** (2021)
    26 citations · Soil Carbon
@@ -60,24 +60,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    24 citations · Soil Carbon
 
 4. **Optimal soil organic matter mapping using an ensemble model incorporating moderate resolution imaging spectroradiometer, portable X-ray fluorescence, and visible near-infrared data** (2023)
-   22 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 5. **Quantification of the effects of long-term straw return on soil organic matter spatiotemporal variation: a case study in a typical black soil region** (2023)
-   14 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 6. **Quantification of the effects of long-term straw return on soil organic matter spatiotemporal variation: A case study in typical black soil region** (2022)
    5 citations · Soil Carbon
 
 7. **Biochar-induced strong microbial carbon limitation prompts organic carbon sequestration and plant growth in antibiotic-contaminated soil** (2025)
-   0 citations · Biochar
+   1 citations · Biochar
 
-8. **Reply on RC2** (2023)
-   0 citations · Soil Carbon
+8. **Mapping the 0–100cm three-dimensional distribution of soil organic matter in the Northeast China by integrating remote sensing and proximal spectral data** (2026)
+   0 citations
 
 9. **Reply on RC2** (2023)
    0 citations · Soil Carbon
 
-10. **Reply on CC2** (2023)
+10. **Reply on RC2** (2023)
    0 citations · Soil Carbon
 
 ## External Profiles

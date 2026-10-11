@@ -1,7 +1,7 @@
 ---
 title: "Daniel P. Rasse"
 description: "Daniel P. Rasse is an Eminent Biochar researcher at Norwegian Institute of Bioeconomy Research in NO. With 147 publications and an h-index of 43, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.023080
+date: 2026-10-11T02:32:59.026139
 url: "/cdr-researcher-census/researchers/daniel-p-rasse-a5060395/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 43 |
 | Citations | 14,183 |
 | Publications | 147 |
-| CDR Focus | 6.1% |
+| CDR Focus | 6.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Life-cycle assessment to unravel co-benefits and trade-offs of large-scale biochar deployment in Norwegian agriculture** (2021)
-   69 citations · Biochar
+   71 citations · Biochar
 
 2. **Biochar Permanence—A Policy Commentary** (2025)
-   12 citations · Biochar
+   16 citations · Biochar
 
 3. **Qualitative evaluation of nine agricultural methods for increasing soil carbon storage in Norway** (2024)
    9 citations · General CDR
@@ -68,13 +68,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 6. **Feasible Carbon Sequestration Potential in European Agricultural Mineral Soils Through Improved Management** (2026)
    1 citations · Biochar
 
-7. **Biochar permanence : a policy commentary** (2025)
+7. **The fate of cover crop carbon inputs in a Norwegian soil** (2025)
+   1 citations · Soil Carbon
+
+8. **Current state of biochar as a carbon dioxide removal solution : status report for Mission Innovation Countries and Beyond** (2026)
    0 citations · Biochar
 
-8. **The fate of cover crop carbon inputs in a Norwegian soil** (2025)
-   0 citations · Soil Carbon
+9. **Biochar permanence : a policy commentary** (2025)
+   0 citations · Biochar
 
-9. **Decomposition and stabilization of organic C in soils of different cultivation systems&amp;#160;** (2025)
+10. **Decomposition and stabilization of organic C in soils of different cultivation systems&amp;#160;** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

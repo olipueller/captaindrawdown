@@ -1,7 +1,7 @@
 ---
 title: "Angelica Quintana"
 description: "Angelica Quintana is a Senior Soil Carbon researcher at US Forest Service in US. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.684673
+date: 2026-10-11T02:32:59.704867
 url: "/cdr-researcher-census/researchers/angelica-quintana-a5052549/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Forming regional soil carbon networks to support effective climate change solutions** (2023)
-   7 citations · General CDR
+   8 citations · General CDR
 
 ## External Profiles
 

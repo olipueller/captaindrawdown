@@ -1,7 +1,7 @@
 ---
 title: "Weiyan Wang"
 description: "Weiyan Wang is a Mid-career Soil Carbon researcher at Northwest A and F University in CN. With 27 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.326533
+date: 2026-10-11T02:32:59.332321
 url: "/cdr-researcher-census/researchers/weiyan-wang-a5101488/"
 layout: "researcher"
 hiddenInHomeList: true

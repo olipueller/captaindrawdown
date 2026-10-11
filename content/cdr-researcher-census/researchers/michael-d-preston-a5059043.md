@@ -1,7 +1,7 @@
 ---
 title: "Michael D. Preston"
 description: "Michael D. Preston is a Senior Soil Carbon researcher at University of Northern British Columbia in CA. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.475934
+date: 2026-10-11T02:32:59.487201
 url: "/cdr-researcher-census/researchers/michael-d-preston-a5059043/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil amendment improves carbon sequestration by trees on severely damaged acid and metal impacted landscape, but total storage remains low** (2021)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 2. **Soil carbon pools and fluxes following the regreening of a mining and smelting degraded landscape** (2023)
    12 citations · Soil Carbon

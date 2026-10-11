@@ -1,7 +1,7 @@
 ---
 title: "Tim Groot Kormelink"
 description: "Tim Groot Kormelink is a Mid-career General CDR researcher at Vrije Universiteit Amsterdam in NL. With 42 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.229089
+date: 2026-10-11T02:32:59.232405
 url: "/cdr-researcher-census/researchers/tim-groot-kormelink-a5025170/"
 layout: "researcher"
 hiddenInHomeList: true

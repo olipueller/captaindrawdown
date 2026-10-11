@@ -1,7 +1,7 @@
 ---
 title: "Jan Steinhauser"
 description: "Jan Steinhauser is a Mid-career General CDR researcher at International Institute for Applied Systems Analysis in AT. With 34 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.626761
+date: 2026-10-11T02:32:59.645289
 url: "/cdr-researcher-census/researchers/jan-steinhauser-a5062853/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The carbon dioxide removal gap** (2024)
-   91 citations
+   106 citations
 
 2. **Climate policy for a net-zero future: ten recommendations for Direct Air Capture** (2022)
-   77 citations · DAC
+   74 citations · DAC
 
 3. **The carbon dioxide removal gap** (2023)
    8 citations · General CDR
@@ -68,13 +68,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 6. **Author Correction: Current national proposals are off track to meet carbon dioxide removal needs** (2024)
    1 citations · General CDR
 
-7. **Biodiversity conservation policies alter the solution space of climate mitigation scenarios** (2026)
+7. **Broader CO2 Removal Portfolios Expand What Is Achievable but Cannot Substitute for Strong Emissions Reductions** (2026)
+   0 citations
+
+8. **Biodiversity conservation policies alter the solution space of climate mitigation scenarios** (2026)
    0 citations · BECCS
 
-8. **Towards sustainability-aware carbon dioxide removal deployment** (2026)
+9. **Towards sustainability-aware carbon dioxide removal deployment** (2026)
    0 citations · BECCS
 
-9. **The carbon dioxide removal gap: current removals and country proposals versus future requirements for limiting warming to 2°C or lower** (2023)
+10. **The carbon dioxide removal gap: current removals and country proposals versus future requirements for limiting warming to 2°C or lower** (2023)
    0 citations · DAC
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Danielle Vieira Guimarães"
 description: "Danielle Vieira Guimarães is a Senior Biochar researcher at Universidade Federal de Sergipe in BR. With 34 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.618413
+date: 2026-10-11T02:32:59.635890
 url: "/cdr-researcher-census/researchers/danielle-vieira-guimaraes-a5052690/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Assessing the impact of pre-treated green coconut waste biochar on tropical soil fertility, initial plant growth, and nutrient uptake using PCA analysis** (2025)
-   2 citations · Biochar
+   3 citations · Biochar
 
 2. **Biochar Applications for Remediating Salt-Affected Soils** (2024)
    0 citations · Biochar

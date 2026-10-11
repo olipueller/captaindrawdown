@@ -1,7 +1,7 @@
 ---
 title: "Wenli Zhu"
 description: "Wenli Zhu is a Mid-career Soil Carbon researcher at Anhui University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.344390
+date: 2026-10-11T02:33:00.379388
 url: "/cdr-researcher-census/researchers/wenli-zhu-a5102431/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,11 +47,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Changes of microbial life history strategies to soil nutrient limitations following vegetation restoration and its impact on carbon utilization efficiency** (2025)
-   7 citations · Soil Carbon
+1. **Microbial life history strategies regulate soil organic carbon sequestration in response to thinning depending on microbial nutrient limitations** (2025)
+   8 citations · Soil Carbon
 
-2. **Microbial life history strategies regulate soil organic carbon sequestration in response to thinning depending on microbial nutrient limitations** (2025)
-   6 citations · Soil Carbon
+2. **Changes of microbial life history strategies to soil nutrient limitations following vegetation restoration and its impact on carbon utilization efficiency** (2025)
+   8 citations · Soil Carbon
 
 3. **Effects of thinning on soil microbial community and carbon fractions and their relationships in coastal protected forests** (2025)
    5 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Lucas Pecci Canisares"
 description: "Lucas Pecci Canisares is a Mid-career Soil Carbon researcher at University of Kentucky in US. With 51 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.419043
+date: 2026-10-11T02:32:59.429048
 url: "/cdr-researcher-census/researchers/lucas-pecci-canisares-a5048656/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Cover crops enhance soil health, crop yield and resilience of tropical agroecosystem** (2025)
-   56 citations · Soil Carbon
+   59 citations · Soil Carbon
 
 2. **Litter quality and living roots affected the formation of new mineral-associated organic carbon but did not affect total mineral-associated organic carbon in a short-term incubation** (2022)
-   53 citations · Soil Carbon
+   50 citations · Soil Carbon
 
 3. **Biodiversification with perennial forages increases soil carbon stocks and soybean yield** (2025)
-   7 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 4. **Soil carbon stocks in sugarcane cultivation: An evidence synthesis associated with land use and management practices** (2024)
    7 citations · Soil Carbon

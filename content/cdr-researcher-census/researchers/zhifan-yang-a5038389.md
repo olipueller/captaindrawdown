@@ -1,7 +1,7 @@
 ---
 title: "Zhifan Yang"
 description: "Zhifan Yang is a Mid-career General CDR researcher at Xijing University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.958718
+date: 2026-10-11T02:32:59.989982
 url: "/cdr-researcher-census/researchers/zhifan-yang-a5038389/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Systematical analysis of sludge treatment and disposal technologies for carbon footprint reduction** (2022)
-   67 citations · General CDR
+   68 citations · General CDR
 
 ## External Profiles
 

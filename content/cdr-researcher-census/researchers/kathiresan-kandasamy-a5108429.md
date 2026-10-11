@@ -1,7 +1,7 @@
 ---
 title: "Kathiresan Kandasamy"
 description: "Kathiresan Kandasamy is a Senior Soil Carbon researcher at Annamalai University in IN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.360458
+date: 2026-10-11T02:32:59.367246
 url: "/cdr-researcher-census/researchers/kathiresan-kandasamy-a5108429/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Comparative assessment of biomass, carbon storage and soil CO2 fluxes in degraded mangroves in the major estuarine gradients of the sundarban, India** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 ## External Profiles
 

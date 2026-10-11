@@ -1,7 +1,7 @@
 ---
 title: "Sagar Maitra"
 description: "Sagar Maitra is a Senior Soil Carbon researcher at Centurion University of Technology and Management in IN. With 108 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.111461
+date: 2026-10-11T02:32:59.116103
 url: "/cdr-researcher-census/researchers/sagar-maitra-a5013040/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    42 citations · General CDR
 
 2. **The nexus between intercropping systems, ecosystem services and sustainable agriculture: A review** (2025)
-   27 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 3. **Ecosystem Services Through Agroforestry Systems and Its Sustainability** (2024)
-   22 citations · General CDR
+   23 citations · General CDR
 
 4. **Agroforestry: A Resource Conserving Technology for Efficient Utilization of Agricultural Inputs, Leads to Food and Environmental Security** (2024)
    15 citations · General CDR

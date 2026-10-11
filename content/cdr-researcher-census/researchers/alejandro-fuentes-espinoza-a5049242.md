@@ -1,7 +1,7 @@
 ---
 title: "Alejandro Fuentes Espinoza"
 description: "Alejandro Fuentes Espinoza is a Mid-career Soil Carbon researcher at International Office for Water in FR. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.246988
+date: 2026-10-11T02:33:00.277038
 url: "/cdr-researcher-census/researchers/alejandro-fuentes-espinoza-a5049242/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The role of soil carbon sequestration in enhancing human resilience in tackling global crises including pandemics** (2022)
-   29 citations · General CDR
+   30 citations · General CDR
 
 2. **Enhancing “4 per 1000” initiative implementation through region-specific agricultural and forestry practices** (2025)
-   3 citations · General CDR
+   5 citations · General CDR
 
 ## External Profiles
 

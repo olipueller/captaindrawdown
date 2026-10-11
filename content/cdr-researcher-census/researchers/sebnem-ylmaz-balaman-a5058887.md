@@ -1,7 +1,7 @@
 ---
 title: "Şebnem Yılmaz Balaman"
 description: "Şebnem Yılmaz Balaman is a Mid-career BECCS researcher at Chalmers University of Technology in SE. With 30 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.188009
+date: 2026-10-11T02:32:59.192082
 url: "/cdr-researcher-census/researchers/sebnem-ylmaz-balaman-a5058887/"
 layout: "researcher"
 hiddenInHomeList: true

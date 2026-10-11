@@ -1,7 +1,7 @@
 ---
 title: "Lisa Snape"
 description: "Lisa Snape is a Mid-career Soil Carbon researcher at University of Salzburg in AT. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.003178
+date: 2026-10-11T02:33:00.033982
 url: "/cdr-researcher-census/researchers/lisa-snape-a5005376/"
 layout: "researcher"
 hiddenInHomeList: true

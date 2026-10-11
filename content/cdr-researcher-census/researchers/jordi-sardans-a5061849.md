@@ -1,7 +1,7 @@
 ---
 title: "Jordi Sardans"
 description: "Jordi Sardans is an Eminent Soil Carbon researcher at CREAF - Centre de Recerca Ecològica i Aplicacions Forestals in ES. With 878 publications and an h-index of 101, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.013464
+date: 2026-10-11T02:32:59.017229
 url: "/cdr-researcher-census/researchers/jordi-sardans-a5061849/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,34 +51,34 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A global meta-analysis on the effects of organic and inorganic fertilization on grasslands and croplands** (2024)
-   166 citations · General CDR
+   174 citations · General CDR
 
 2. **Is the climate change mitigation effect of enhanced silicate weathering governed by biological processes?** (2021)
-   141 citations · Enhanced Weathering
+   133 citations · Enhanced Weathering
 
 3. **Delayed use of bioenergy crops might threaten climate and food security** (2022)
-   134 citations · BECCS
+   131 citations · BECCS
 
 4. **Crop residue return achieves environmental mitigation and enhances grain yield: a global meta-analysis** (2023)
-   120 citations · Soil Carbon
+   124 citations · Soil Carbon
 
-5. **Faster accumulation and greater contribution of glomalin to the soil organic carbon pool than amino sugars do under tropical coastal forest restoration** (2022)
-   106 citations · Soil Carbon
+5. **Optimizing cover crop practices as a sustainable solution for global agroecosystem services** (2024)
+   109 citations · Soil Carbon
 
-6. **Optimizing cover crop practices as a sustainable solution for global agroecosystem services** (2024)
-   102 citations · Soil Carbon
+6. **Faster accumulation and greater contribution of glomalin to the soil organic carbon pool than amino sugars do under tropical coastal forest restoration** (2022)
+   107 citations · Soil Carbon
 
 7. **Climatic and edaphic controls over the elevational pattern of microbial necromass in subtropical forests** (2021)
    97 citations · Soil Carbon
 
 8. **Nutrient availability and stoichiometry mediate microbial effects on soil carbon sequestration in tropical forests** (2023)
-   82 citations · Soil Carbon
+   86 citations · Soil Carbon
 
 9. **Effects of nitrogen-enriched biochar on rice growth and yield, iron dynamics, and soil carbon storage and emissions: A tool to improve sustainable rice cultivation** (2021)
-   72 citations · Biochar
+   74 citations · Biochar
 
-10. **Warming drives sustained plant phosphorus demand in a humid tropical forest** (2022)
-   50 citations · Enhanced Weathering
+10. **Divergent accumulation of amino sugars and lignins mediated by soil functional carbon pools under tropical forest conversion** (2023)
+   50 citations · Soil Carbon
 
 ## External Profiles
 

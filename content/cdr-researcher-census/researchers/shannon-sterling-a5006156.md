@@ -1,7 +1,7 @@
 ---
 title: "Shannon Sterling"
 description: "Shannon Sterling is a Senior Ocean CDR researcher at Dalhousie University in CA. With 64 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.114502
+date: 2026-10-11T02:32:59.119166
 url: "/cdr-researcher-census/researchers/shannon-sterling-a5006156/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,18 +51,21 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Title: Addition of Alkalinity to Rivers: a new CO2 Removal Strategy** (2023)
-   8 citations
+   7 citations
 
 2. **Addition of Alkalinity to Rivers: a novel strategy for Ocean Alkalinity Enhancement** (2023)
    1 citations · Enhanced Weathering
 
-3. **Quantifying pCO₂ Evasion at River Steps: Hydraulic Controls Under Baseline and Alkalinity-Dosed Conditions** (2026)
+3. **Quantified Carbon Dioxide Removal from an Alkalinity Addition Field Trial in the Kvina River, Norway** (2026)
+   0 citations · General CDR
+
+4. **Quantifying pCO₂ Evasion at River Steps: Hydraulic Controls Under Baseline and Alkalinity-Dosed Conditions** (2026)
    0 citations · Ocean CDR
 
-4. **River Alkalinity Enhancement as a Carbon Dioxide Removal Strategy: a Norwegian Case Study** (2026)
+5. **River Alkalinity Enhancement as a Carbon Dioxide Removal Strategy: a Norwegian Case Study** (2026)
    0 citations · Enhanced Weathering
 
-5. **Direct Aquatic Application of Crushed Dolomite Reduces CO2 Evasion in an Acidified River** (2021)
+6. **Direct Aquatic Application of Crushed Dolomite Reduces CO2 Evasion in an Acidified River** (2021)
    0 citations · Enhanced Weathering
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Hitesh Gupta"
 description: "Hitesh Gupta is a Senior Soil Carbon researcher at Delhi Technological University in IN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.355553
+date: 2026-10-11T02:33:00.390604
 url: "/cdr-researcher-census/researchers/hitesh-gupta-a5104208/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 107 |
 | Publications | 12 |
-| CDR Focus | 50.0% |
-| Trajectory | Declining |
+| CDR Focus | 66.7% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **The Role of Agroforestry Systems in Enhancing Climate Resilience and Sustainability- A Review** (2023)
-   50 citations · Soil Carbon
+   48 citations · Soil Carbon
 
 2. **Land‐use systems for biomass, carbon storage, and carbon credit: implications for climate change mitigation in subtropical pockets of Vindhyan region, India** (2024)
    12 citations · General CDR

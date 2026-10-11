@@ -1,7 +1,7 @@
 ---
 title: "Soydoa Vinitnantharat"
 description: "Soydoa Vinitnantharat is a Senior Biochar researcher at King Mongkut's University of Technology Thonburi in TH. With 55 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.245723
+date: 2026-10-11T02:32:59.249583
 url: "/cdr-researcher-census/researchers/soydoa-vinitnantharat-a5080688/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    25 citations · Biochar
 
 2. **Adsorption Kinetics of Cadmium and Lead by Biochars in Single- and Bisolute Brackish Water Systems** (2023)
-   22 citations · Biochar
+   24 citations · Biochar
 
 3. **Arsenic, Iron, and Manganese Adsorption in Single and Trinary Heavy Metal Solution Systems by Bamboo-Derived Biochars** (2023)
    13 citations · Biochar

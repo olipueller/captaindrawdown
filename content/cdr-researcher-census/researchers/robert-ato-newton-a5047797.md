@@ -1,7 +1,7 @@
 ---
 title: "Robert Ato Newton"
 description: "Robert Ato Newton is a Mid-career Biochar researcher at Jan Evangelista Purkyně University in Ústí nad Labem in CZ. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.048668
+date: 2026-10-11T02:33:00.079356
 url: "/cdr-researcher-census/researchers/robert-ato-newton-a5047797/"
 layout: "researcher"
 hiddenInHomeList: true

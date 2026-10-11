@@ -1,7 +1,7 @@
 ---
 title: "Pedro Villarim"
 description: "Pedro Villarim is an Early-career BECCS researcher at Université du littoral côte d'opale in FR. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.371923
+date: 2026-10-11T02:33:00.407493
 url: "/cdr-researcher-census/researchers/pedro-villarim-a5092880/"
 layout: "researcher"
 hiddenInHomeList: true

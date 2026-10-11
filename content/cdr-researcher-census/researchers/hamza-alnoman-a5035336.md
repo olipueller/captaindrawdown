@@ -1,7 +1,7 @@
 ---
 title: "Hamza Alnoman"
 description: "Hamza Alnoman is a Mid-career BECCS researcher at Heriot-Watt University Dubai in AE. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.413101
+date: 2026-10-11T02:32:59.423084
 url: "/cdr-researcher-census/researchers/hamza-alnoman-a5035336/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **A comparative analysis of second-generation biofuels and its potentials for large-scale production in arid and semi-arid regions** (2023)
-   17 citations · BECCS
+   18 citations · BECCS
 
 ## External Profiles
 

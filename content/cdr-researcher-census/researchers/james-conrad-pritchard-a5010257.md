@@ -1,7 +1,7 @@
 ---
 title: "James Conrad Pritchard"
 description: "James Conrad Pritchard is a Mid-career Biochar researcher at U.S. National Science Foundation in US. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.982107
+date: 2026-10-11T02:33:00.013303
 url: "/cdr-researcher-census/researchers/james-conrad-pritchard-a5010257/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Black Carbon-Amended Engineered Media Filters for Improved Treatment of Stormwater Runoff** (2022)
-   29 citations · Biochar
+   30 citations · Biochar
 
 2. **Predicting PFAS and Hydrophilic Trace Organic Contaminant Transport in Black Carbon-Amended Engineered Media Filters for Improved Stormwater Runoff Treatment** (2023)
    25 citations · Biochar
@@ -63,7 +63,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    13 citations · Biochar
 
 5. **Combined UV/H2O2 and biochar processes for enhanced removal of contaminants of emerging concern in dry wells** (2025)
-   6 citations · Biochar
+   8 citations · Biochar
 
 6. **Hydrophilic Organic Compound Migration in Biochar-Amended Stormwater Filters with Dynamic Conditions and Varied Background Dissolved Organic Carbon Contents** (2025)
    4 citations · Biochar

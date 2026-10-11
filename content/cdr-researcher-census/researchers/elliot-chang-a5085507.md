@@ -1,7 +1,7 @@
 ---
 title: "Elliot Chang"
 description: "Elliot Chang is a Mid-career Enhanced Weathering researcher at Carbon180 in US. With 43 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.425045
+date: 2026-10-11T02:32:59.435018
 url: "/cdr-researcher-census/researchers/elliot-chang-a5085507/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    87 citations · Enhanced Weathering
 
 2. **Accounting for retarded weathering products in comparing methods for quantifying carbon dioxide removal in a short-term enhanced weathering study** (2025)
-   15 citations · Enhanced Weathering
+   14 citations · Enhanced Weathering
 
 3. **Validating assumptions in calculating carbon dioxide removal by enhanced rock weathering in Kantola et al., 2023** (2023)
    3 citations · Enhanced Weathering

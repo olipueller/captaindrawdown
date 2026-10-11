@@ -1,7 +1,7 @@
 ---
 title: "Qianbin Cao"
 description: "Qianbin Cao is a Mid-career Soil Carbon researcher at Guizhou University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.224646
+date: 2026-10-11T02:33:00.255162
 url: "/cdr-researcher-census/researchers/qianbin-cao-a5102422/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -52,6 +52,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 2. **Soil phosphorus compared to nitrogen limitation increases the uncertainty of subsoil organic carbon sequestration in Pinus massoniana mixed forests** (2024)
    7 citations · Soil Carbon
+
+3. **Mycorrhizal types of mixed tree species mediates soil carbon and nitrogen co-accumulation in mixed pine forests** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

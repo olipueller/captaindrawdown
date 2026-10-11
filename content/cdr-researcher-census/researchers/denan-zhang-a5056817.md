@@ -1,7 +1,7 @@
 ---
 title: "Denan Zhang"
 description: "Denan Zhang is a Senior Biochar researcher at Harbin Medical University in CN. With 71 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.221068
+date: 2026-10-11T02:32:59.224640
 url: "/cdr-researcher-census/researchers/denan-zhang-a5056817/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,19 +53,22 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 1. **Vegetation restoration increases soil aggregate stability and aggregate-associated black carbon content in a karst rocky desertification area in southwestern Guangxi** (2026)
    2 citations
 
-2. **The conversion of forests to agricultural land reduced the content of soil black carbon fractions in a karst rocky desertification area of Southwest China** (2024)
+2. **[Effects of Biochar Application on Soil Carbon Pool Management Index and Organic Carbon Chemical Structure in <i>Eucalyptus</i> Plantations in Northern Guangxi].** (2025)
+   1 citations · Biochar
+
+3. **The conversion of forests to agricultural land reduced the content of soil black carbon fractions in a karst rocky desertification area of Southwest China** (2024)
    1 citations · Soil Carbon
 
-3. **Biochar Application Improves Soil Aggregate Stability and Aggregate-Associated Carbon Fractions Through Microbial Community Regulation in Eucalyptus Plantations—A Seven-Year Field Experiment** (2026)
+4. **Vegetation restoration drives soil carbon sequestration via increased SOC and BC in a karst rocky desertification region of Southwest China** (2026)
+   0 citations · Soil Carbon
+
+5. **Biochar Application Improves Soil Aggregate Stability and Aggregate-Associated Carbon Fractions Through Microbial Community Regulation in Eucalyptus Plantations—A Seven-Year Field Experiment** (2026)
    0 citations · Biochar
 
-4. **Soil black carbon decline following deforestation and farming in karst rocky desertification Southwest Guangxi, China** (2026)
+6. **Soil black carbon decline following deforestation and farming in karst rocky desertification Southwest Guangxi, China** (2026)
    0 citations · Biochar
 
-5. **[Effects of Biochar Application on Soil Carbon Pool Management Index and Organic Carbon Chemical Structure in <i>Eucalyptus</i> Plantations in Northern Guangxi].** (2025)
-   0 citations · Biochar
-
-6. **Vegetation Restoration Facilitate Soil Carbon Sequestration Via Black Carbon Accumulation in a Karst Rocky Desertification Area, Southwest China** (2023)
+7. **Vegetation Restoration Facilitate Soil Carbon Sequestration Via Black Carbon Accumulation in a Karst Rocky Desertification Area, Southwest China** (2023)
    0 citations · Biochar
 
 ## External Profiles

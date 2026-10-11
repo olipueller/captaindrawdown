@@ -1,7 +1,7 @@
 ---
 title: "Patricia Y. Oikawa"
 description: "Patricia Y. Oikawa is a Senior Soil Carbon researcher at Cal State East Bay in US. With 66 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.114940
+date: 2026-10-11T02:32:59.119678
 url: "/cdr-researcher-census/researchers/patricia-y-oikawa-a5056649/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,18 +54,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    101 citations · General CDR
 
 2. **Practical Guide to Measuring Wetland Carbon Pools and Fluxes** (2023)
-   89 citations
+   85 citations
 
 3. **Tidal and Nontidal Marsh Restoration: A Trade‐Off Between Carbon Sequestration, Methane Emissions, and Soil Accretion** (2021)
-   57 citations · Ocean CDR
+   60 citations · Ocean CDR
 
-4. **Investigating Ecosystem-Scale Responses to Compost Amendments in a Grazed Grassland** (2023)
-   9 citations · Soil Carbon
+4. **Carbon Sequestration and Subsidence Reversal in the Sacramento-San Joaquin Delta and Suisun Bay: Management Opportunities for Climate Mitigation and Adaptation** (2023)
+   11 citations · Soil Carbon
 
-5. **Compost Amendment to a Grazed California Annual Grassland Increases Gross Primary Productivity Due To a Longer Growing Season** (2023)
+5. **Investigating Ecosystem-Scale Responses to Compost Amendments in a Grazed Grassland** (2023)
+   8 citations · Soil Carbon
+
+6. **Compost Amendment to a Grazed California Annual Grassland Increases Gross Primary Productivity Due To a Longer Growing Season** (2023)
    6 citations · Soil Carbon
 
-6. **Managing hydrology can reduce methane emissions of high-emitting freshwater marshes by half making them present-day net greenhouse gas sinks** (2021)
+7. **Managing hydrology can reduce methane emissions of high-emitting freshwater marshes by half making them present-day net greenhouse gas sinks** (2021)
    0 citations · Soil Carbon
 
 ## External Profiles

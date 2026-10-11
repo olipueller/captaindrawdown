@@ -1,7 +1,7 @@
 ---
 title: "Yongfeng Ren"
 description: "Yongfeng Ren is a Senior Soil Carbon researcher at Inner Mongolia Academy of Agricultural & Animal Husbandry Sciences in CN. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.189274
+date: 2026-10-11T02:33:00.219371
 url: "/cdr-researcher-census/researchers/yongfeng-ren-a5100927/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Organic Nitrogen Substitution Enhances Carbon Sequestration but Increases Greenhouse Gas Emissions in Maize Cropping Systems** (2025)
-   2 citations · General CDR
+   3 citations · General CDR
 
 2. **Optimization of nitrogen-soil microbial interactions to regulate carbon and nitrogen footprints and enhance yield sustainability in maize fields** (2026)
    1 citations · Soil Carbon

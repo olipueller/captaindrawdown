@@ -1,7 +1,7 @@
 ---
 title: "Yanyu Han"
 description: "Yanyu Han is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.945617
+date: 2026-10-11T02:32:59.975699
 url: "/cdr-researcher-census/researchers/yanyu-han-a5017184/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    14 citations · Soil Carbon
 
 2. **Soil Aggregates and Organic Carbon Affected by Bio‑Fertilizer in Greenhouse Soil** (2024)
-   2 citations
+   3 citations
 
 3. **Bio-organic fertilizer improves soil carbon sequestration via macroaggregate formation in intensive tomato cultivation system** (2026)
    1 citations · Soil Carbon

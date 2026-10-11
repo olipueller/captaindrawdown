@@ -1,7 +1,7 @@
 ---
 title: "Gregory Reuland"
 description: "Gregory Reuland is a Mid-career Soil Carbon researcher at Ghent University in BE. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.338468
+date: 2026-10-11T02:33:00.372574
 url: "/cdr-researcher-census/researchers/gregory-reuland-a5034030/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Assessment of the Carbon and Nitrogen Mineralisation of Digestates Elaborated from Distinct Feedstock Profiles** (2022)
-   31 citations
+   33 citations
 
 2. **Quantifying CO2 Emissions and Carbon Sequestration from Digestate-Amended Soil Using Natural 13C Abundance as a Tracer** (2023)
    9 citations · Soil Carbon

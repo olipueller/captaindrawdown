@@ -1,7 +1,7 @@
 ---
 title: "Changjun Cai"
 description: "Changjun Cai is a Senior General CDR researcher at Nanchang University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.953943
+date: 2026-10-11T02:32:59.985052
 url: "/cdr-researcher-census/researchers/changjun-cai-a5004987/"
 layout: "researcher"
 hiddenInHomeList: true

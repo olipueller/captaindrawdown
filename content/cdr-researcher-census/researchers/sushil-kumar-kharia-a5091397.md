@@ -1,7 +1,7 @@
 ---
 title: "Sushil Kumar Kharia"
 description: "Sushil Kumar Kharia is a Senior Soil Carbon researcher at Swami Keshwanand Rajasthan Agricultural University in IN. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.220724
+date: 2026-10-11T02:33:00.251016
 url: "/cdr-researcher-census/researchers/sushil-kumar-kharia-a5091397/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -55,6 +55,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 2. **Impact of Long-Term Nutrient Management on Carbon Dynamics under Cluster Bean-Wheat Cropping System in Western Rajasthan, India** (2023)
    1 citations · Soil Carbon
+
+3. **Carbon sequestration and sustainable land management through temperate fruit orchards in Himalayan landscapes: implications for climate-resilient agroecosystems** (2026)
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Abdelbaky Hossam Elgarhy"
 description: "Abdelbaky Hossam Elgarhy is a Mid-career Biochar researcher at National Water Research Center in EG. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.373423
+date: 2026-10-11T02:33:00.408966
 url: "/cdr-researcher-census/researchers/abdelbaky-hossam-elgarhy-a5007791/"
 layout: "researcher"
 hiddenInHomeList: true

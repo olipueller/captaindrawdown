@@ -1,7 +1,7 @@
 ---
 title: "Daniele Ferrario"
 description: "Daniele Ferrario is a Mid-career DAC researcher at Politecnico di Torino in IT. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.029659
+date: 2026-10-11T02:33:00.060977
 url: "/cdr-researcher-census/researchers/daniele-ferrario-a5010227/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Achieving net-zero cement through carbon capture and fuel switching** (2025)
-   7 citations · DAC
+   9 citations · DAC
 
 2. **Reaching Net-Zero CO2 Emissions in Cement Production Through Carbon Capture and Waste Fuel Integration** (2024)
    2 citations

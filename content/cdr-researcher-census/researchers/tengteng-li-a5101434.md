@@ -1,7 +1,7 @@
 ---
 title: "Tengteng Li"
 description: "Tengteng Li is a Mid-career Soil Carbon researcher at German Centre for Integrative Biodiversity Research in DE. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.332586
+date: 2026-10-11T02:32:59.338167
 url: "/cdr-researcher-census/researchers/tengteng-li-a5101434/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Faster accumulation and greater contribution of glomalin to the soil organic carbon pool than amino sugars do under tropical coastal forest restoration** (2022)
-   106 citations · Soil Carbon
+   107 citations · Soil Carbon
 
 2. **Divergent accumulation of amino sugars and lignins mediated by soil functional carbon pools under tropical forest conversion** (2023)
-   48 citations · Soil Carbon
+   50 citations · Soil Carbon
 
 3. **Fractionation of soil organic carbon in a calcareous soil after long-term tillage and straw residue management** (2022)
    24 citations · Soil Carbon
@@ -62,11 +62,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Biomass producing and CO2 capturing simultaneously by Chlorella vulgaris: Effect of CO2 concentration and aeration rate** (2024)
    16 citations · General CDR
 
-5. **Illuminate underground phenology to aid carbon sequestration** (2025)
-   2 citations
+5. **Divergent chemical responses of soil carbon and phosphorus to nutrient addition mediated by functional carbon pools in tropical forests** (2025)
+   2 citations · Soil Carbon
 
-6. **Divergent chemical responses of soil carbon and phosphorus to nutrient addition mediated by functional carbon pools in tropical forests** (2025)
-   1 citations · Soil Carbon
+6. **Illuminate underground phenology to aid carbon sequestration** (2025)
+   2 citations
 
 7. **Tree Diversity Reshapes Soil Carbon Formation before Carbon Accumulation during Early Afforestation** (2026)
    0 citations · Soil Carbon

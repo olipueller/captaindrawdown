@@ -1,7 +1,7 @@
 ---
 title: "M. N. Maslov"
 description: "M. N. Maslov is a Mid-career Soil Carbon researcher at Lomonosov Moscow State University in RU. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.420795
+date: 2026-10-11T02:32:59.430925
 url: "/cdr-researcher-census/researchers/m-n-maslov-a5072418/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil nitrogen mineralization and its sensitivity to temperature and moisture in temperate peatlands under different land-use management practices** (2021)
-   47 citations · Soil Carbon
+   48 citations · Soil Carbon
 
 2. **Soil Nitrogen Mineralization and its Sensitivity to Temperature and Moisture in Temperate Peatlands Under Different Land-Use Management Practices** (2021)
    4 citations · Soil Carbon

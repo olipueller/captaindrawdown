@@ -1,7 +1,7 @@
 ---
 title: "Amthal Al‐Gailani"
 description: "Amthal Al‐Gailani is a Mid-career Biochar researcher at University of Hull in GB. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.001771
+date: 2026-10-11T02:33:00.032630
 url: "/cdr-researcher-census/researchers/amthal-algailani-a5030649/"
 layout: "researcher"
 hiddenInHomeList: true

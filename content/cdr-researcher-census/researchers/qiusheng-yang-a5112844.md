@@ -1,7 +1,7 @@
 ---
 title: "Qiusheng Yang"
 description: "Qiusheng Yang is a Senior Soil Carbon researcher at Hebei University of Technology in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.381402
+date: 2026-10-11T02:33:00.417223
 url: "/cdr-researcher-census/researchers/qiusheng-yang-a5112844/"
 layout: "researcher"
 hiddenInHomeList: true

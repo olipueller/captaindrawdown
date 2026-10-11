@@ -1,7 +1,7 @@
 ---
 title: "Mehedi Amin"
 description: "Mehedi Amin is an Early-career Biochar researcher at Daffodil International University in BD. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.915514
+date: 2026-10-11T02:32:59.959874
 url: "/cdr-researcher-census/researchers/mehedi-amin-a5101717/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Waste-derived nanobiochar: A new avenue towards sustainable agriculture, environment, and circular bioeconomy** (2023)
-   154 citations · Biochar
+   157 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Enrico Martani"
 description: "Enrico Martani is a Mid-career Soil Carbon researcher at Università Cattolica del Sacro Cuore in IT. With 23 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.696732
+date: 2026-10-11T02:32:59.717247
 url: "/cdr-researcher-census/researchers/enrico-martani-a5000971/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    20 citations · Soil Carbon
 
 2. **Novel Miscanthus hybrids: Modelling productivity on marginal land in Europe using dynamics of canopy development determined by light interception** (2023)
-   19 citations · BECCS
+   20 citations · BECCS
 
 3. **Early impacts of marginal land‐use transition to<i>Miscanthus</i>on soil quality and soil carbon storage across Europe** (2024)
    8 citations · Soil Carbon

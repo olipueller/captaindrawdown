@@ -1,7 +1,7 @@
 ---
 title: "Mingyue Gong"
 description: "Mingyue Gong is a Mid-career Ocean CDR researcher at Anhui University of Finance and Economics in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.299565
+date: 2026-10-11T02:33:00.329972
 url: "/cdr-researcher-census/researchers/mingyue-gong-a5015497/"
 layout: "researcher"
 hiddenInHomeList: true

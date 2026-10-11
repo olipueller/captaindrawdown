@@ -1,7 +1,7 @@
 ---
 title: "Zhuanfei Zeng"
 description: "Zhuanfei Zeng is an Early-career Soil Carbon researcher at Southwest Forestry University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.706922
+date: 2026-10-11T02:32:59.727377
 url: "/cdr-researcher-census/researchers/zhuanfei-zeng-a5050548/"
 layout: "researcher"
 hiddenInHomeList: true

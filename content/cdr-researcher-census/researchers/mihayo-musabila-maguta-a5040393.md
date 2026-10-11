@@ -1,7 +1,7 @@
 ---
 title: "Mihayo Musabila Maguta"
 description: "Mihayo Musabila Maguta is a Mid-career Soil Carbon researcher at Guangdong Urban & Rural Planning and Design Institute in CN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.394092
+date: 2026-10-11T02:32:59.402435
 url: "/cdr-researcher-census/researchers/mihayo-musabila-maguta-a5040393/"
 layout: "researcher"
 hiddenInHomeList: true

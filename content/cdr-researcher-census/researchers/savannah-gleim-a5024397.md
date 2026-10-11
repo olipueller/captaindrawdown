@@ -1,7 +1,7 @@
 ---
 title: "Savannah Gleim"
 description: "Savannah Gleim is a Mid-career Soil Carbon researcher at University of Saskatchewan in CA. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.856320
+date: 2026-10-11T02:32:59.883251
 url: "/cdr-researcher-census/researchers/savannah-gleim-a5024397/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Correlating Genetically Modified Crops, Glyphosate Use and Increased Carbon Sequestration** (2021)
-   32 citations · Soil Carbon
+   33 citations · Soil Carbon
 
 ## External Profiles
 

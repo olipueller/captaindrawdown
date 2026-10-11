@@ -1,7 +1,7 @@
 ---
 title: "Wenxia Dai"
 description: "Wenxia Dai is a Mid-career Soil Carbon researcher. With 33 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.172106
+date: 2026-10-11T02:32:59.176163
 url: "/cdr-researcher-census/researchers/wenxia-dai-a5113960/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    17 citations · Soil Carbon
 
 2. **Straw and Biochar Amendments Over a Decade Differently Modulates Denitrification Gas Products** (2024)
-   5 citations · Biochar
+   6 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Ruixing Hou"
 description: "Ruixing Hou is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 50 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.136898
+date: 2026-10-11T02:32:59.141527
 url: "/cdr-researcher-census/researchers/ruixing-hou-a5065644/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Mitigated Greenhouse Gas Emissions in Cropping Systems by Organic Fertilizer and Tillage Management** (2022)
-   30 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 2. **Soil Microbes from Saline–Alkali Farmland Can Form Carbonate Precipitates** (2023)
    11 citations · Soil Carbon
 
 3. **Improving cropland soil water management to promote soil organic carbon increase through organic material returning in cold black soil areas** (2025)
-   7 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 4. **Fast labile carbon and litter exhaustion under no-tillage after 5-year soil warming** (2023)
    7 citations
+
+5. **Elevated soil organic carbon content limits microbial carbon use efficiency under manure amendment in Mollisols** (2026)
+   3 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Jasmeet Kaur"
 description: "Jasmeet Kaur is a Mid-career General CDR researcher at Maharishi Markandeshwar University, Mullana in IN. With 58 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.007705
+date: 2026-10-11T02:33:00.038818
 url: "/cdr-researcher-census/researchers/jasmeet-kaur-a5028155/"
 layout: "researcher"
 hiddenInHomeList: true

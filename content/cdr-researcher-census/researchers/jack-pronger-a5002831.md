@@ -1,7 +1,7 @@
 ---
 title: "Jack Pronger"
 description: "Jack Pronger is a Mid-career Soil Carbon researcher at Manaaki Whenua – Landcare Research in NZ. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.480129
+date: 2026-10-11T02:32:59.491440
 url: "/cdr-researcher-census/researchers/jack-pronger-a5002831/"
 layout: "researcher"
 hiddenInHomeList: true

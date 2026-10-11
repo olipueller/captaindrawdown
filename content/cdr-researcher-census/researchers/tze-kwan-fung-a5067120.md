@@ -1,7 +1,7 @@
 ---
 title: "Tze Kwan Fung"
 description: "Tze Kwan Fung is a Mid-career Soil Carbon researcher at National University of Singapore in SG. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.617584
+date: 2026-10-11T02:32:59.635062
 url: "/cdr-researcher-census/researchers/tze-kwan-fung-a5067120/"
 layout: "researcher"
 hiddenInHomeList: true

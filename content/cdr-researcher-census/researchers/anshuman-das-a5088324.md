@@ -1,7 +1,7 @@
 ---
 title: "Anshuman Das"
 description: "Anshuman Das is a Mid-career Soil Carbon researcher at Indian Council of Forestry Research and Education in IN. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.241989
+date: 2026-10-11T02:33:00.271962
 url: "/cdr-researcher-census/researchers/anshuman-das-a5088324/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic carbon stabilization inside microaggregates within macroaggregates is the major mechanism of carbon sequestration under a long-term agroforestry system in the foot hills of the Indian Himalayas** (2025)
-   11 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 2. **Impact of Land Uses on Soil Organic Carbon Dynamics in the Indian Himalayan Region** (2023)
    3 citations · Soil Carbon

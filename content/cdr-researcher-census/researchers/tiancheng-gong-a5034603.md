@@ -1,7 +1,7 @@
 ---
 title: "Tiancheng Gong"
 description: "Tiancheng Gong is a Mid-career Biochar researcher at Chinese Research Academy of Environmental Sciences in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.815094
+date: 2026-10-11T02:32:59.839744
 url: "/cdr-researcher-census/researchers/tiancheng-gong-a5034603/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A scientometric review of biochar preparation research from 2006 to 2019** (2021)
-   44 citations · Biochar
+   46 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Phung-Ngoc-Thao Ho"
 description: "Phung-Ngoc-Thao Ho is an Early-career Ocean CDR researcher at National Kaohsiung University of Science and Technology in TW. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.313164
+date: 2026-10-11T02:33:00.343865
 url: "/cdr-researcher-census/researchers/phung-ngoc-thao-ho-a5110959/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Magnetic biochar derived from macroalgal Sargassum hemiphyllum for highly efficient adsorption of Cu(II): Influencing factors and reusability** (2022)
-   54 citations · Biochar
+   55 citations · Biochar
 
 ## External Profiles
 

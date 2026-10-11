@@ -1,7 +1,7 @@
 ---
 title: "Changchun Song"
 description: "Changchun Song is a Mid-career Soil Carbon researcher at Northeast Institute of Geography and Agroecology in CN. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.809460
+date: 2026-10-11T02:32:59.834297
 url: "/cdr-researcher-census/researchers/changchun-song-a5054904/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,10 +50,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Soil moisture content, cbbM gene abundance and salinity-alkalinity are crucial factors for soil carbon content during wetland reclamation and restoration** (2025)
+1. **Distribution of habitat suitability for Suaeda salsa in the Liaohe River Estuary and its relationship with carbon storage** (2024)
+   8 citations · Soil Carbon
+
+2. **Optimizing green manure application for achieving reduced greenhouse gas emissions and sustained crop yields** (2026)
+   3 citations
+
+3. **Soil moisture content, cbbM gene abundance and salinity-alkalinity are crucial factors for soil carbon content during wetland reclamation and restoration** (2025)
    2 citations · Soil Carbon
 
-2. **Soil Water Content, Cbbm Gene Abundance and Saline-Alkaline are Crucial Factors for Soil Carbon Content During Wetland Reclamation and Restoration** (2025)
+4. **Soil Water Content, Cbbm Gene Abundance and Saline-Alkaline are Crucial Factors for Soil Carbon Content During Wetland Reclamation and Restoration** (2025)
+   0 citations · Soil Carbon
+
+5. **Distribution of Habitat Suitability for Suaeda Salsa in the Liaohe River Estuary and its Relationship with Carbon Storage** (2024)
    0 citations · Soil Carbon
 
 ## External Profiles

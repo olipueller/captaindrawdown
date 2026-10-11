@@ -1,7 +1,7 @@
 ---
 title: "Yeray Santana‐Falcón"
 description: "Yeray Santana‐Falcón is a Mid-career General CDR researcher at Universidad de Las Palmas de Gran Canaria in ES. With 45 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.151425
+date: 2026-10-11T02:32:59.155671
 url: "/cdr-researcher-census/researchers/yeray-santanafalcon-a5004922/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Carbon cycle feedbacks in an idealized simulation and a scenario simulation of negative emissions in CMIP6 Earth system models** (2024)
-   18 citations · General CDR
+   23 citations · General CDR
 
 2. **Carbon cycle feedbacks in an idealized and a scenario simulation of negative emissions in CMIP6 Earth system models** (2023)
    2 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Oscar Zapata"
 description: "Oscar Zapata is a Mid-career Biochar researcher at University of Saskatchewan in CA. With 35 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.225066
+date: 2026-10-11T02:32:59.228419
 url: "/cdr-researcher-census/researchers/oscar-zapata-a5014630/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Investigations of thermal effects during pyrolysis of agro-forestry biomass and physicochemical characterizations of biofuel products** (2024)
-   16 citations · Biochar
+   17 citations · Biochar
 
 2. **Steam activation of camelina meal biochar to remediate PFOA-contaminated wastewater** (2025)
    5 citations · Biochar

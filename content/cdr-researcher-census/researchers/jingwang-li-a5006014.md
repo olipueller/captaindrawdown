@@ -1,7 +1,7 @@
 ---
 title: "Jingwang Li"
 description: "Jingwang Li is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.958596
+date: 2026-10-11T02:32:59.989893
 url: "/cdr-researcher-census/researchers/jingwang-li-a5006014/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    65 citations · Soil Carbon
 
 2. **Calcium carbonate regulates soil organic carbon accumulation by mediating microbial communities in northern China** (2023)
-   50 citations · Soil Carbon
+   53 citations · Soil Carbon
 
 3. **Root traits determine the effects of organic amendments on aggregate organic carbon by regulating microbial multitrophic networks** (2024)
    3 citations · Soil Carbon

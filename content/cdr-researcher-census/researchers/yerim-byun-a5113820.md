@@ -1,7 +1,7 @@
 ---
 title: "Yerim Byun"
 description: "Yerim Byun is a Senior Biochar researcher at Dong-A University in KR. With 10 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.337225
+date: 2026-10-11T02:33:00.371351
 url: "/cdr-researcher-census/researchers/yerim-byun-a5113820/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Utilizing ground biochar desorption for carbon sequestration and internal curing in a clinker-free CaO-activated GGBFS binder** (2025)
-   4 citations · Biochar
+   5 citations · Biochar
 
 2. **Enhanced strength and carbon sequestration in CO2-cured alkali-activated slag (AAS) through lime–biochar dual modification** (2026)
-   1 citations · Biochar
+   2 citations · Biochar
 
 3. **Utilization of Ground Biochar for Carbon Sequestration and Internal Curing in a Clinker-Free Cao-Activated Ggbfs Binder** (2025)
    0 citations · Biochar

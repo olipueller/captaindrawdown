@@ -1,7 +1,7 @@
 ---
 title: "Mingxing Sun"
 description: "Mingxing Sun is a Senior Soil Carbon researcher at Huazhong Agricultural University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.367850
+date: 2026-10-11T02:32:59.375038
 url: "/cdr-researcher-census/researchers/mingxing-sun-a5103479/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Dynamic Simulation of Land Use Change and Assessment of Ecosystem Services Under Climate Change Scenarios: A Case Study of Shanghai, China** (2025)
-   6 citations · General CDR
+   8 citations · General CDR
 
 ## External Profiles
 

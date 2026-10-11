@@ -1,7 +1,7 @@
 ---
 title: "Susheel Kumar Singh"
 description: "Susheel Kumar Singh is a Senior Soil Carbon researcher at Krishi Vigyan Kendra, Ghatkhed Amravati in IN. With 33 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.346168
+date: 2026-10-11T02:33:00.381361
 url: "/cdr-researcher-census/researchers/susheel-kumar-singh-a5104245/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,14 +50,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Can agroforestry–conservation agriculture integration improve soil organic matter (SOM) quality? An FTIR–spectroscopic investigation** (2025)
-   3 citations · Soil Carbon
+1. **Grasses improve soil multifunctionality by strengthening aggregate-carbon-enzyme linkage in semi-arid degraded land** (2025)
+   4 citations · Soil Carbon
 
-2. **Grasses improve soil multifunctionality by strengthening aggregate-carbon-enzyme linkage in semi-arid degraded land** (2025)
-   2 citations · Soil Carbon
+2. **Can agroforestry–conservation agriculture integration improve soil organic matter (SOM) quality? An FTIR–spectroscopic investigation** (2025)
+   4 citations · Soil Carbon
 
 3. **Climate smart land configurations and cropping systems diversification sustaining soil–water–carbon synergy and resource use efficiency** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

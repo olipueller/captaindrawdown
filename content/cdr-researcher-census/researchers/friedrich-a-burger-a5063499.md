@@ -1,7 +1,7 @@
 ---
 title: "Friedrich A. Burger"
 description: "Friedrich A. Burger is a Mid-career Ocean CDR researcher at University of Bern in CH. With 81 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.233546
+date: 2026-10-11T02:32:59.236792
 url: "/cdr-researcher-census/researchers/friedrich-a-burger-a5063499/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    2 citations · General CDR
 
 2. **Subsurface dissolution reduces the efficiency of mineral-based open-ocean alkalinity enhancement** (2026)
-   1 citations · General CDR
+   2 citations · General CDR
 
-3. **Subsurface dissolution reduces the efficiency of mineral-based ocean alkalinity enhancement** (2025)
-   1 citations · General CDR
+3. **The efficiency and ocean acidification mitigation potential of ocean alkalinity enhancement on multi-centennial timescales** (2026)
+   2 citations · General CDR
 
-4. **The efficiency and ocean acidification mitigation potential of ocean alkalinity enhancement on multi-centennial timescales** (2026)
-   0 citations · General CDR
+4. **Subsurface dissolution reduces the efficiency of mineral-based ocean alkalinity enhancement** (2025)
+   1 citations · General CDR
 
 5. **The efficiency and ocean acidification mitigation potential of ocean alkalinity enhancement on multi-centennial timescales** (2026)
    0 citations · General CDR

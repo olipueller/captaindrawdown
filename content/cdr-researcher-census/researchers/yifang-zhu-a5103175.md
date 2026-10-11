@@ -1,7 +1,7 @@
 ---
 title: "Yifang Zhu"
 description: "Yifang Zhu is a Senior Ocean CDR researcher at Sichuan Province Orthopedic Hospital in CN. With 40 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.332960
+date: 2026-10-11T02:32:59.338602
 url: "/cdr-researcher-census/researchers/yifang-zhu-a5103175/"
 layout: "researcher"
 hiddenInHomeList: true

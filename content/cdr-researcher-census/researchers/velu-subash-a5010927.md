@@ -1,7 +1,7 @@
 ---
 title: "Velu Subash"
-description: "Velu Subash is a Mid-career Biochar researcher at Kumoh National Institute of Technology in KR. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.128776
+description: "Velu Subash is a Mid-career Biochar researcher at Kumoh National Institute of Technology in KR. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:33:00.094381
 url: "/cdr-researcher-census/researchers/velu-subash-a5010927/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,9 +40,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Metric | Value |
 |--------|-------|
 | h-index | 6 |
-| Citations | 154 |
-| Publications | 13 |
-| CDR Focus | 7.7% |
+| Citations | 172 |
+| Publications | 15 |
+| CDR Focus | 6.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

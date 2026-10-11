@@ -1,7 +1,7 @@
 ---
 title: "Shang Wang"
 description: "Shang Wang is a Mid-career Soil Carbon researcher at Helmholtz Centre for Environmental Research in DE. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.568177
+date: 2026-10-11T02:32:59.583903
 url: "/cdr-researcher-census/researchers/shang-wang-a5100346/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,16 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 403 |
 | Publications | 16 |
-| CDR Focus | 25.0% |
+| CDR Focus | 31.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **High soil salinity reduces straw decomposition but primes soil organic carbon loss** (2025)
-   54 citations · Soil Carbon
+   60 citations · Soil Carbon
 
 2. **Energy and matter dynamics in an estuarine soil are more sensitive to warming than salinization** (2025)
-   8 citations
+   9 citations
 
 3. **Mechanisms and sources of organic carbon accrual in deep soil under long-term straw return** (2026)
    7 citations · Soil Carbon
@@ -62,13 +62,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Carbon sequestration-related eco-indicators in long-term field trials** (2026)
    1 citations · Soil Carbon
 
-5. **Rice-crayfish farming systems improve soil carbon stocks and ecosystems services** (2026)
+5. **Divergent pathways of straw versus biochar integration with manure to enhance SOC sequestration in coastal saline soils** (2026)
+   0 citations · Biochar
+
+6. **Subsurface split manure application increased soil organic carbon accumulation and stability by enhancing aggregation and recalcitrant carbon fractions with depth-dependent mechanisms** (2026)
    0 citations · Soil Carbon
 
-6. **Reply on AC1** (2025)
+7. **Deep incorporation of straw and biochar drives soil organic carbon through structural amelioration in coastal saline soils** (2026)
+   0 citations · Biochar
+
+8. **Rice-crayfish farming systems improve soil carbon stocks and ecosystems services** (2026)
    0 citations · Soil Carbon
 
-7. **Comment on egusphere-2025-2584** (2025)
+9. **Reply on AC1** (2025)
+   0 citations · Soil Carbon
+
+10. **Comment on egusphere-2025-2584** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

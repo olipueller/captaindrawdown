@@ -1,7 +1,7 @@
 ---
 title: "Heather Starkey"
 description: "Heather Starkey is a Mid-career Soil Carbon researcher at North Carolina State University in US. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.090540
+date: 2026-10-11T02:33:00.121145
 url: "/cdr-researcher-census/researchers/heather-starkey-a5071855/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A critical review of industrial fiber hemp anatomy, agronomic practices, and valorization into sustainable bioproducts** (2025)
-   16 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 ## External Profiles
 

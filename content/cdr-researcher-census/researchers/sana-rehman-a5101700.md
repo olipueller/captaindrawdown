@@ -1,7 +1,7 @@
 ---
 title: "Sana Rehman"
 description: "Sana Rehman is a Senior Soil Carbon researcher at CMH Lahore Medical College and Institute of Dentistry in PK. With 108 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.482638
+date: 2026-10-11T02:32:59.494032
 url: "/cdr-researcher-census/researchers/sana-rehman-a5101700/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic carbon sequestration and modeling under conservation tillage and cropping systems in a rainfed agriculture** (2023)
-   48 citations · Soil Carbon
+   47 citations · Soil Carbon
 
 2. **Impacts of Conservation Tillage on Agricultural Land Development: A Review** (2024)
-   34 citations · Soil Carbon
+   36 citations · Soil Carbon
 
 3. **Combined Effects of Reduced Tillage and Strip Intercropping on Soil Carbon Sequestration in Semi-Arid Environment** (2025)
    8 citations · Soil Carbon
@@ -65,7 +65,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Climate‐Smart Tillage and Residue Return Enhance Carbon Sequestration and Yield in Cereal–Legume Intercropping Systems** (2025)
    2 citations · Soil Carbon
 
-6. **Correction: Combined Effects of Reduced Tillage and Strip Intercropping on Soil Carbon Sequestration in Semi-Arid Environment** (2025)
+6. **Maize–Soybean Intercropping and Organic Amendments as Sustainable Farming for Higher Productivity, Carbon Sequestration, and Greenhouse Gas Reduction** (2026)
+   0 citations
+
+7. **Correction: Combined Effects of Reduced Tillage and Strip Intercropping on Soil Carbon Sequestration in Semi-Arid Environment** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

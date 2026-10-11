@@ -1,7 +1,7 @@
 ---
 title: "Milan Wang"
 description: "Milan Wang is a Mid-career Soil Carbon researcher at Sun Yat-sen University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.394889
+date: 2026-10-11T02:32:59.403380
 url: "/cdr-researcher-census/researchers/milan-wang-a5075926/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Towards a better understanding of the role of Fe cycling in soil for carbon stabilization and degradation** (2022)
-   205 citations · Soil Carbon
+   211 citations · Soil Carbon
 
 ## External Profiles
 

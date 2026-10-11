@@ -1,7 +1,7 @@
 ---
 title: "Feihong Liang"
-description: "Feihong Liang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 28 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.616281
+description: "Feihong Liang is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 28 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:32:59.633695
 url: "/cdr-researcher-census/researchers/feihong-liang-a5022604/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Chinese Academy of Sciences · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,31 +45,37 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 365 |
 | Publications | 28 |
-| CDR Focus | 17.9% |
+| CDR Focus | 25.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Biogas slurry purification-lettuce growth nexus: Nutrients absorption and pollutants removal** (2023)
-   24 citations
+   26 citations
 
 2. **An improved carbon fixation management strategy into the crop–soil ecosystem by using biomass ash as the medium** (2022)
    21 citations · Soil Carbon
 
 3. **Optimizing fertilization strategies for low-carbon agriculture: Balancing greenhouse gas mitigation, soil health, and productivity** (2025)
-   12 citations · Biochar
+   13 citations · Biochar
 
 4. **Application of carbon biological sequestration technology in CCUS: Potential and optimization strategies for inorganic carbon absorption by plant root and CO2 carriers by biogas slurry** (2025)
    8 citations · Biochar
 
-5. **Converting agricultural by-products into a carbon-neutral CO2 capture system: Biomass-ash-enhanced biogas slurry for plant and soil carbon sequestration** (2026)
-   2 citations · Soil Carbon
+5. **Tailoring electro-driven membrane for low-energy CO2 regeneration in direct air capture** (2026)
+   3 citations
 
-6. **Tailoring electro-driven membrane for low-energy CO2 regeneration in direct air capture** (2026)
-   1 citations
+6. **Converting agricultural by-products into a carbon-neutral CO2 capture system: Biomass-ash-enhanced biogas slurry for plant and soil carbon sequestration** (2026)
+   2 citations · Soil Carbon
 
 7. **Integrated carbon sequestration and agricultural efficiency enhancement: Reconstruction of tomato ecosystem carbon cycle via carbonized biomass ash-biogas slurry system** (2025)
    1 citations · Biochar
+
+8. **Biochar combined with CO₂-rich biogas slurry enhances water spinach growth (Ipomoea aquatica) and carbon storage in the cultivation system: Roles of nutrient retention and microorganisms** (2026)
+   0 citations · Biochar
+
+9. **A novel strategy toward energy-efficient direct air capture: Harnessing HCO3−/CO32− perm-selectivity in electrodialysis** (2026)
+   0 citations · DAC
 
 ## External Profiles
 

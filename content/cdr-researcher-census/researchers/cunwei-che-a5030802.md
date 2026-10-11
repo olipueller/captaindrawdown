@@ -1,7 +1,7 @@
 ---
 title: "Cunwei Che"
 description: "Cunwei Che is a Mid-career Soil Carbon researcher. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.401527
+date: 2026-10-11T02:33:00.439509
 url: "/cdr-researcher-census/researchers/cunwei-che-a5030802/"
 layout: "researcher"
 hiddenInHomeList: true

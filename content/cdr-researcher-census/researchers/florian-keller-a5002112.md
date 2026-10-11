@@ -1,7 +1,7 @@
 ---
 title: "Florian Keller"
 description: "Florian Keller is a Senior General CDR researcher at University of Zurich in CH. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.358012
+date: 2026-10-11T02:32:59.364717
 url: "/cdr-researcher-census/researchers/florian-keller-a5002112/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Exploring the Mechanism of the Electrochemical Polymerization of CO <sub>2</sub> to Hard Carbon over CeO <sub>2</sub> (110)** (2024)
-   12 citations · General CDR
+   13 citations · General CDR
 
 2. **Exploring the Mechanism of the Electrochemical Polymerization of CO2 to hard carbon over CeO2 (110)** (2023)
    2 citations

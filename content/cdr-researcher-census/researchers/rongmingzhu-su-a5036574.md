@@ -1,7 +1,7 @@
 ---
 title: "Rongmingzhu Su"
 description: "Rongmingzhu Su is a Mid-career General CDR researcher at Chinese Academy of Sciences in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.230298
+date: 2026-10-11T02:33:00.260489
 url: "/cdr-researcher-census/researchers/rongmingzhu-su-a5036574/"
 layout: "researcher"
 hiddenInHomeList: true

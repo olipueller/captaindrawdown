@@ -1,7 +1,7 @@
 ---
 title: "Changyoon Jeong"
 description: "Changyoon Jeong is a Senior Soil Carbon researcher at Louisiana State University in US. With 45 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.387998
+date: 2026-10-11T02:32:59.395850
 url: "/cdr-researcher-census/researchers/changyoon-jeong-a5081655/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Influence of activated biochar pellet fertilizer application on greenhouse gas emissions and carbon sequestration in rice (Oryza sativa L.) production** (2021)
-   49 citations · Biochar
+   48 citations · Biochar
 
 2. **Assessing the long‐term effects of conservation agriculture on cotton production in Northeast Louisiana using the denitrification–decomposition model** (2024)
    6 citations · Soil Carbon
 
 3. **Effects of Microbially Engineered Biochar Pellets on Net Ecosystem Carbon Balance, Greenhouse Gas Emissions, and Clubroot Disease in Organic Cabbage Cultivation** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 4. **Dndc Model Simulations Assessing Rice Yield and Methane Emissions in Louisiana Production Systems** (2025)
    0 citations

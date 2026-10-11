@@ -1,7 +1,7 @@
 ---
 title: "Zhijun Su"
 description: "Zhijun Su is an Early-career Soil Carbon researcher at South China Agricultural University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.235508
+date: 2026-10-11T02:33:00.265798
 url: "/cdr-researcher-census/researchers/zhijun-su-a5033018/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Polyethylene microplastics can attenuate soil carbon sequestration by reducing plant photosynthetic carbon assimilation and transfer: evidence from a 13C-labeling mesocosm study** (2022)
-   52 citations · Soil Carbon
+   53 citations · Soil Carbon
 
 2. **Acid rain reduces plant-photosynthesized carbon sequestration and soil microbial network complexity** (2023)
    20 citations · Soil Carbon

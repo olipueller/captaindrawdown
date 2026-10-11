@@ -1,7 +1,7 @@
 ---
 title: "Narges Mokhtarinori"
 description: "Narges Mokhtarinori is a Mid-career DAC researcher at Oak Ridge National Laboratory in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.366710
+date: 2026-10-11T02:33:00.402372
 url: "/cdr-researcher-census/researchers/narges-mokhtarinori-a5073677/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    22 citations
 
 2. **The carbon challenge: Design, synthesis, and chemisorption behavior of solid sorbents in direct air capture of carbon dioxide** (2024)
-   14 citations
+   16 citations
 
 3. **Unveiling the porosity effect of superbase ionic liquid-modified carbon sorbents in CO2 capture from air** (2024)
    13 citations
 
 4. **Physical and Chemical Responses of Amidine-Containing Polymers in the Capture and Release of CO<sub>2</sub>** (2024)
-   8 citations · DAC
+   10 citations · DAC
 
 ## External Profiles
 

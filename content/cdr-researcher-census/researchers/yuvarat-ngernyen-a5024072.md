@@ -1,7 +1,7 @@
 ---
 title: "Yuvarat Ngernyen"
 description: "Yuvarat Ngernyen is a Senior Biochar researcher at Khon Kaen University in TH. With 62 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.188217
+date: 2026-10-11T02:32:59.192279
 url: "/cdr-researcher-census/researchers/yuvarat-ngernyen-a5024072/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Characterization of molecular dissolved organic matter removed by modified eucalyptus-based biochar and disinfection by-product formation potential using Orbitrap mass spectrometric analysis** (2022)
-   18 citations · Biochar
+   17 citations · Biochar
 
 2. **Comparative investigation of known and unknown disinfection by-product precursor removal and microbial community from biological biochar and activated carbon filters** (2024)
-   10 citations · Biochar
+   12 citations · Biochar
 
 3. **Enhanced triclocarban remediation from groundwater using Pseudomonas fluorescens strain MC46 immobilized on agro-industrial waste-derived biochar: Optimization and kinetic analysis** (2022)
-   10 citations · Biochar
+   12 citations · Biochar
 
 4. **Efficient Removal of Antibiotics from Aqueous Solutions through a Zn (II)–Norfloxacin Complex Formation on Porous Carbon from Sugar Cane Leaf Waste** (2026)
-   1 citations
+   2 citations
 
 5. **Disinfection By-product Precursor Removal by Biochar Derived from Agricultural Waste** (2022)
    1 citations · Biochar

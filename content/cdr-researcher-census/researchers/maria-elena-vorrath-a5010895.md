@@ -1,7 +1,7 @@
 ---
 title: "Maria-Elena Vorrath"
 description: "Maria-Elena Vorrath is a Mid-career General CDR researcher at Universität Hamburg in DE. With 76 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.564863
+date: 2026-10-11T02:32:59.580677
 url: "/cdr-researcher-census/researchers/maria-elena-vorrath-a5010895/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Marine carbon dioxide removal by alkalinization should no longer be overlooked** (2024)
-   16 citations · General CDR
+   17 citations · General CDR
 
 2. **Pyrogenic carbon and carbonating minerals for carbon capture and storage (PyMiCCS) part II: organic and inorganic carbon dioxide removal in an Oxisol** (2025)
    10 citations · Biochar
 
 3. **Exploring Site‐Specific Carbon Dioxide Removal Options With Storage or Sequestration in the Marine Environment – The 10 Mt CO<sub>2</sub> yr<sup>−1</sup> Removal Challenge for Germany** (2025)
-   8 citations · General CDR
+   9 citations · General CDR
 
 4. **Pyrogenic carbon and carbonating minerals for carbon capture and storage (PyMiCCS) part I: production, physico-chemical characterization and C-sink potential** (2025)
    7 citations · Biochar
@@ -66,10 +66,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    3 citations · Biochar
 
 6. **Combining biochar and basanite rock powder enhances carbon dioxide removal by carbonate alkalinity production** (2026)
-   1 citations · Biochar
+   2 citations · Biochar
 
 7. **An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering** (2026)
-   0 citations · Enhanced Weathering
+   1 citations · Enhanced Weathering
 
 8. **Carbon dioxide removal efficiency of co-applied and co-pyrolyzed feedstocks for enhanced rock weathering and biochar in a sandy soil** (2026)
    0 citations · Biochar

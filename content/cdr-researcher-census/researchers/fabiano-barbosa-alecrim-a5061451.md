@@ -1,7 +1,7 @@
 ---
 title: "Fabiano Barbosa Alecrim"
 description: "Fabiano Barbosa Alecrim is a Mid-career Soil Carbon researcher at Universidade Federal Fluminense in BR. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.352085
+date: 2026-10-11T02:33:00.387014
 url: "/cdr-researcher-census/researchers/fabiano-barbosa-alecrim-a5061451/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Greenhouse gas emissions and carbon sequestration associated with Integrated Crop–Livestock–Forestry (ICLF) systems** (2023)
-   18 citations · General CDR
+   20 citations · General CDR
 
 ## External Profiles
 

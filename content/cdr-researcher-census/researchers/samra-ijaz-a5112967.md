@@ -1,7 +1,7 @@
 ---
 title: "Samra Ijaz"
 description: "Samra Ijaz is a Mid-career Biochar researcher at University of Science and Technology of China in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.890523
+date: 2026-10-11T02:32:59.918259
 url: "/cdr-researcher-census/researchers/samra-ijaz-a5112967/"
 layout: "researcher"
 hiddenInHomeList: true

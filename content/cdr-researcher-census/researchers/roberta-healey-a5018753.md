@@ -1,7 +1,7 @@
 ---
 title: "Roberta Healey"
 description: "Roberta Healey is a Senior Soil Carbon researcher at University of Cambridge in GB. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.761975
+date: 2026-10-11T02:32:59.785007
 url: "/cdr-researcher-census/researchers/roberta-healey-a5018753/"
 layout: "researcher"
 hiddenInHomeList: true

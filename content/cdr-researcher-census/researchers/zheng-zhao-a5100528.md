@@ -1,7 +1,7 @@
 ---
 title: "Zheng Zhao"
 description: "Zheng Zhao is a Mid-career Soil Carbon researcher at Civil Aviation University of China in CN. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.752776
+date: 2026-10-11T02:32:59.775131
 url: "/cdr-researcher-census/researchers/zheng-zhao-a5100528/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Crop Residue Biochar Rather Than Manure and Straw Return Provided Short Term Synergism Among Grain Production, Carbon Sequestration, and Greenhouse Gas Emission Reduction in a Paddy Under Rice‐Wheat Rotation** (2024)
-   10 citations · Biochar
+   9 citations · Biochar
 
 2. **Developing diversity indicators from organic matter and microbe to depict their changes across different soil-landscapes in a subtropical hilly area** (2025)
    3 citations · Soil Carbon
 
 3. **Is the topsoil carbon sequestration potential underestimated of agricultural soils under best management?** (2025)
-   2 citations · General CDR
+   3 citations · General CDR
 
 ## External Profiles
 

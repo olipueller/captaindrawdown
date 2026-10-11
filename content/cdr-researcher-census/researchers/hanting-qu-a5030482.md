@@ -1,7 +1,7 @@
 ---
 title: "Hanting Qu"
 description: "Hanting Qu is a Mid-career Soil Carbon researcher at Inner Mongolia University in CN. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.578462
+date: 2026-10-11T02:32:59.594173
 url: "/cdr-researcher-census/researchers/hanting-qu-a5030482/"
 layout: "researcher"
 hiddenInHomeList: true

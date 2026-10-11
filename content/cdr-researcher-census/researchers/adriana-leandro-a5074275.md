@@ -1,7 +1,7 @@
 ---
 title: "Adriana Leandro"
 description: "Adriana Leandro is a Mid-career Ocean CDR researcher at University of Coimbra in PT. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.128177
+date: 2026-10-11T02:32:59.132920
 url: "/cdr-researcher-census/researchers/adriana-leandro-a5074275/"
 layout: "researcher"
 hiddenInHomeList: true

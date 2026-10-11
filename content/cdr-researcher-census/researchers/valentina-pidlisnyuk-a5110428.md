@@ -1,7 +1,7 @@
 ---
 title: "Valentina Pidlisnyuk"
 description: "Valentina Pidlisnyuk is a Senior Soil Carbon researcher at Jan Evangelista Purkyně Military Medical Academy in CZ. With 88 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.194997
+date: 2026-10-11T02:32:59.198977
 url: "/cdr-researcher-census/researchers/valentina-pidlisnyuk-a5110428/"
 layout: "researcher"
 hiddenInHomeList: true

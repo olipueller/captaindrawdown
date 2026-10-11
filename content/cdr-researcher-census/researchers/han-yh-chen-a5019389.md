@@ -1,7 +1,7 @@
 ---
 title: "Han YH Chen"
 description: "Han YH Chen is an Early-career Soil Carbon researcher at Inner Mongolia Agricultural University in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.161226
+date: 2026-10-11T02:33:00.191439
 url: "/cdr-researcher-census/researchers/han-yh-chen-a5019389/"
 layout: "researcher"
 hiddenInHomeList: true

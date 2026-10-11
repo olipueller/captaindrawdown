@@ -1,7 +1,7 @@
 ---
 title: "Zhen-Ke Zhu"
 description: "Zhen-Ke Zhu is a Senior Soil Carbon researcher at Ningbo University in CN. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.260362
+date: 2026-10-11T02:33:00.290079
 url: "/cdr-researcher-census/researchers/zhen-ke-zhu-a5063534/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,7 +47,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Organic Amendment Rather than Mineral Fertilization Increased Microbial Necromass Carbon in Paddy Soil Via Altering Microbial Traits** (2022)
+1. **Biodiversity mediates the trade-off between crop productivity and soil carbon sequestration in intercropping systems** (2026)
+   0 citations · Soil Carbon
+
+2. **Organic Amendment Rather than Mineral Fertilization Increased Microbial Necromass Carbon in Paddy Soil Via Altering Microbial Traits** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

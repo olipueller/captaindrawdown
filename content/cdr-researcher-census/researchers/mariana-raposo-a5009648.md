@@ -1,7 +1,7 @@
 ---
 title: "Mariana Raposo"
 description: "Mariana Raposo is a Mid-career Soil Carbon researcher at University of Aveiro in PT. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.010802
+date: 2026-10-11T02:33:00.041916
 url: "/cdr-researcher-census/researchers/mariana-raposo-a5009648/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Estimating Soil Carbon Sequestration Potential in Portuguese Agricultural Soils Through Land-Management and Land-Use Changes** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

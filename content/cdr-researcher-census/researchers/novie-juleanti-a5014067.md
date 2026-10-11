@@ -1,7 +1,7 @@
 ---
 title: "Novie Juleanti"
 description: "Novie Juleanti is a Mid-career Biochar researcher at Sriwijaya University in ID. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.882147
+date: 2026-10-11T02:32:59.909415
 url: "/cdr-researcher-census/researchers/novie-juleanti-a5014067/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The Capability of Biochar-Based CaAl and MgAl Composite Materials as Adsorbent for Removal Cr(VI) in Aqueous Solution** (2021)
-   35 citations · Biochar
+   36 citations · Biochar
 
 2. **Removal of Cr(VI) from aqueous solution by biochar derived from rice husk** (2021)
    18 citations · Biochar

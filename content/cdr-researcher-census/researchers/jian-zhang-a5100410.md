@@ -1,7 +1,7 @@
 ---
 title: "Jian Zhang"
 description: "Jian Zhang is a Senior Soil Carbon researcher at Sichuan Agricultural University in CN. With 34 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.349634
+date: 2026-10-11T02:32:59.355617
 url: "/cdr-researcher-census/researchers/jian-zhang-a5100410/"
 layout: "researcher"
 hiddenInHomeList: true

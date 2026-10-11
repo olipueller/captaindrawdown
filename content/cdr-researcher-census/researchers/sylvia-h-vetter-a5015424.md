@@ -1,7 +1,7 @@
 ---
 title: "Sylvia H. Vetter"
 description: "Sylvia H. Vetter is a Mid-career General CDR researcher at University of Aberdeen in GB. With 63 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.168880
+date: 2026-10-11T02:32:59.172981
 url: "/cdr-researcher-census/researchers/sylvia-h-vetter-a5015424/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Perennial biomass cropping and use: Shaping the policy ecosystem in European countries** (2023)
-   55 citations · BECCS
+   56 citations · BECCS
 
 2. **Soil Carbon Sequestration and Biochar** (2022)
    13 citations · Biochar
 
 3. **A Review of Life Cycle Assessment Methods to Inform the Scale‐Up of Carbon Dioxide Removal Interventions** (2024)
-   8 citations · General CDR
+   9 citations · General CDR
 
-4. **Larger rock extraction sites could improve the efficiency of enhanced rock weathering in the United Kingdom** (2025)
+4. **Evaluation of the ECOSSE-Model for Estimating Soil Respiration from Eight European Permanent Grassland Sites** (2023)
+   6 citations · General CDR
+
+5. **Larger rock extraction sites could improve the efficiency of enhanced rock weathering in the United Kingdom** (2025)
    3 citations · Enhanced Weathering
 
-5. **Evaluation of the ECOSSE Model for Estimating Soil Respiration from Eight European Permanent Grassland Sites** (2023)
+6. **Evaluation of the ECOSSE Model for Estimating Soil Respiration from Eight European Permanent Grassland Sites** (2023)
    3 citations · Soil Carbon
-
-6. **Evaluation of the ECOSSE-Model for Estimating Soil Respiration from Eight European Permanent Grassland Sites** (2023)
-   3 citations · General CDR
 
 7. **Biological Carbon Sequestration Technologies** (2022)
    3 citations · General CDR
@@ -74,11 +74,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 8. **Measuring and monitoring soil carbon sequestration** (2022)
    1 citations · General CDR
 
-9. **Is soil carbon sequestration overestimated in carbon footprint accounting?** (2026)
-   0 citations · Soil Carbon
+9. **Land use and the global carbon cycle** (2026)
+   0 citations · Biochar
 
-10. **Toward Credible Carbon Dioxide Removal: Harmonized Accounting and Data Gaps Across Six CDR Approaches** (2026)
-   0 citations · DAC
+10. **Land use and the global carbon cycle** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

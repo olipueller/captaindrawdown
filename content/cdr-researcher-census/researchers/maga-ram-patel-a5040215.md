@@ -1,7 +1,7 @@
 ---
 title: "Maga Ram Patel"
 description: "Maga Ram Patel is a Mid-career Biochar researcher at Maharana Pratap University of Agriculture and Technology in IN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.622214
+date: 2026-10-11T02:32:59.640036
 url: "/cdr-researcher-census/researchers/maga-ram-patel-a5040215/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar from agricultural crop residues: Environmental, production, and life cycle assessment overview** (2023)
-   120 citations · Biochar
+   123 citations · Biochar
 
 2. **Evaluating the agronomic and economic viability of biochar in sustainable crop production** (2024)
-   95 citations · Biochar
+   96 citations · Biochar
 
 3. **Effects of varying biochar application rates on the biological properties of sandy loam soil** (2025)
    2 citations · Biochar

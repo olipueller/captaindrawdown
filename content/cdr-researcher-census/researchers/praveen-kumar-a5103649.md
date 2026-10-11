@@ -1,7 +1,7 @@
 ---
 title: "Praveen Kumar"
 description: "Praveen Kumar is a Mid-career Biochar researcher at Indian Institute of Technology Indore in IN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.318289
+date: 2026-10-11T02:33:00.350107
 url: "/cdr-researcher-census/researchers/praveen-kumar-a5103649/"
 layout: "researcher"
 hiddenInHomeList: true

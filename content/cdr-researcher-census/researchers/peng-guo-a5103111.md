@@ -1,7 +1,7 @@
 ---
 title: "Peng Guo"
 description: "Peng Guo is a Senior Biochar researcher at Hunan University in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.373332
+date: 2026-10-11T02:33:00.408882
 url: "/cdr-researcher-census/researchers/peng-guo-a5103111/"
 layout: "researcher"
 hiddenInHomeList: true

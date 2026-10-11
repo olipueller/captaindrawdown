@@ -1,7 +1,7 @@
 ---
 title: "Xinqi Yuan"
 description: "Xinqi Yuan is a Mid-career Soil Carbon researcher at Harbin University of Science and Technology in CN. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.462817
+date: 2026-10-11T02:32:59.474313
 url: "/cdr-researcher-census/researchers/xinqi-yuan-a5007313/"
 layout: "researcher"
 hiddenInHomeList: true

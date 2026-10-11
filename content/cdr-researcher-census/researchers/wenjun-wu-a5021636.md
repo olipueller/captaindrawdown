@@ -1,7 +1,7 @@
 ---
 title: "Wenjun Wu"
 description: "Wenjun Wu is a Mid-career Biochar researcher at Taiyuan University of Technology in CN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.509213
+date: 2026-10-11T02:32:59.522279
 url: "/cdr-researcher-census/researchers/wenjun-wu-a5021636/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synthesis and characterization of magnetic K2CO3-activated carbon produced from bamboo shoot for the adsorption of Rhodamine b and CO2 capture** (2022)
-   95 citations · Biochar
+   96 citations · Biochar
 
 2. **Synergistic effects of heteroatom doping and narrow micropores on carbon dioxide capture in bamboo shoot shell-based porous carbon** (2024)
-   49 citations
+   50 citations
 
 ## External Profiles
 

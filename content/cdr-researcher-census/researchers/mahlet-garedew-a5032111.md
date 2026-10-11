@@ -1,7 +1,7 @@
 ---
 title: "Mahlet Garedew"
 description: "Mahlet Garedew is a Mid-career General CDR researcher at Yale University in US. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.224350
+date: 2026-10-11T02:32:59.227740
 url: "/cdr-researcher-census/researchers/mahlet-garedew-a5032111/"
 layout: "researcher"
 hiddenInHomeList: true

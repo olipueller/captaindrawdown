@@ -1,7 +1,7 @@
 ---
 title: "Anita Maienza"
 description: "Anita Maienza is a Senior Soil Carbon researcher at National Research Council in IT. With 55 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.214285
+date: 2026-10-11T02:32:59.218200
 url: "/cdr-researcher-census/researchers/anita-maienza-a5062276/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term effects of biochar on soil chemistry, biochemistry, and microbiota: Results from a 10-year field vineyard experiment** (2023)
-   72 citations · Biochar
+   74 citations · Biochar
 
 2. **A magnifying glass on biochar strategy: long-term effects on the soil biota of a Tuscan vineyard** (2023)
    11 citations · Biochar

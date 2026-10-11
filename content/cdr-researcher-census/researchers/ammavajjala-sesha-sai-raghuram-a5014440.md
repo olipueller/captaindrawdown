@@ -1,7 +1,7 @@
 ---
 title: "Ammavajjala Sesha Sai Raghuram"
 description: "Ammavajjala Sesha Sai Raghuram is a Mid-career Biochar researcher at Birla Institute of Technology and Science - Hyderabad Campus in IN. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.945739
+date: 2026-10-11T02:32:59.975784
 url: "/cdr-researcher-census/researchers/ammavajjala-sesha-sai-raghuram-a5014440/"
 layout: "researcher"
 hiddenInHomeList: true

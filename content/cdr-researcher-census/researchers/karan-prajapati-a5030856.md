@@ -1,7 +1,7 @@
 ---
 title: "Karan Prajapati"
 description: "Karan Prajapati is an Early-career Soil Carbon researcher at Gujarat University in IN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.388876
+date: 2026-10-11T02:33:00.425721
 url: "/cdr-researcher-census/researchers/karan-prajapati-a5030856/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biofilms: The Unsung Heroes of Soil Health and Crop Productivity** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

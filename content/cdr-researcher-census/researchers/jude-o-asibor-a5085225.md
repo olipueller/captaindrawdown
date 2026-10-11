@@ -1,7 +1,7 @@
 ---
 title: "Jude O. Asibor"
 description: "Jude O. Asibor is a Mid-career General CDR researcher at Cranfield University in GB. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.615632
+date: 2026-10-11T02:32:59.633065
 url: "/cdr-researcher-census/researchers/jude-o-asibor-a5085225/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    14 citations · General CDR
 
 3. **A machine learning approach for country-level deployment of greenhouse gas removal technologies** (2023)
-   1 citations · BECCS
+   2 citations · BECCS
 
 4. **A machine learning approach for resource mapping analysis of greenhouse gas removal technologies** (2023)
    1 citations · BECCS

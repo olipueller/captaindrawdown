@@ -1,7 +1,7 @@
 ---
 title: "Leyan Zhang"
 description: "Leyan Zhang is a Mid-career Soil Carbon researcher at Wuhan Textile University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.121647
+date: 2026-10-11T02:33:00.152273
 url: "/cdr-researcher-census/researchers/leyan-zhang-a5101335/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Differential contribution of microbial and plant-derived organic matter to soil organic carbon sequestration over two decades of natural revegetation and cropping** (2024)
-   17 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 2. **Fungal-driven carbon sequestration within soil aggregates under paddy multicropping** (2026)
    0 citations · Soil Carbon

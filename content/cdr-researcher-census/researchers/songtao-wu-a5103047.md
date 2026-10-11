@@ -1,7 +1,7 @@
 ---
 title: "Songtao Wu"
 description: "Songtao Wu is a Mid-career DAC researcher at Research Institute of Petroleum Exploration and Development in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.245588
+date: 2026-10-11T02:33:00.275737
 url: "/cdr-researcher-census/researchers/songtao-wu-a5103047/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Advances, challenges, and prospects of carbon dioxide capture, utilization, and storage technologies for carbon neutrality** (2025)
-   17 citations · DAC
+   18 citations · DAC
 
 ## External Profiles
 

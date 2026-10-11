@@ -1,7 +1,7 @@
 ---
 title: "Yanzhong Yao"
 description: "Yanzhong Yao is a Senior Soil Carbon researcher at Southwest University in CN. With 44 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.386618
+date: 2026-10-11T02:32:59.394418
 url: "/cdr-researcher-census/researchers/yanzhong-yao-a5045325/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,21 +45,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 14 |
 | Citations | 631 |
 | Publications | 44 |
-| CDR Focus | 6.8% |
+| CDR Focus | 9.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Microbial traits dictate soil necromass accumulation coefficient: A global synthesis** (2023)
-   48 citations · Soil Carbon
+   50 citations · Soil Carbon
 
 2. **Augmenting the stability of soil aggregate carbon with nutrient management in worldwide croplands** (2024)
-   22 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 3. **Nature–based nutrient management through returning agricultural organic waste enhances soil aggregate organic carbon stability** (2025)
    10 citations · Soil Carbon
 
-4. **Ecosystem service interactions and their driving factors based on a geospatially explainable framework: A case study in the Yangtze River Basin, China** (2026)
+4. **Soil pH Amelioration Synergizes Carbon Accrual with Yield Gains Under Organic Substitution** (2026)
+   0 citations · Soil Carbon
+
+5. **Ecosystem service interactions and their driving factors based on a geospatially explainable framework: A case study in the Yangtze River Basin, China** (2026)
    0 citations
 
 ## External Profiles

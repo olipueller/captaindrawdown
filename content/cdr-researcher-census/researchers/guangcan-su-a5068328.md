@@ -1,7 +1,7 @@
 ---
 title: "Guangcan Su"
 description: "Guangcan Su is a Mid-career BECCS researcher at Northwestern University in US. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.286281
+date: 2026-10-11T02:32:59.291034
 url: "/cdr-researcher-census/researchers/guangcan-su-a5068328/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Pyrolysis of oil palm wastes for bioenergy in Malaysia: A review** (2022)
-   52 citations · BECCS
+   54 citations · BECCS
 
 2. **Integrated production of methanol and biochar from bagasse and plastic waste: A three-in-one solution for carbon sequestration, bioenergy production, and waste valorization** (2024)
-   19 citations
+   20 citations
 
 3. **Dilute alloy electrocatalysts enable asymmetric C–C coupling for ethylene production from a CO2 post-capture liquid** (2026)
-   6 citations · General CDR
+   9 citations · General CDR
 
 4. **Electrified release of pure CO <sub>2</sub> from postcapture liquid: A two-stage system lowers the total energy cost** (2026)
    3 citations · DAC

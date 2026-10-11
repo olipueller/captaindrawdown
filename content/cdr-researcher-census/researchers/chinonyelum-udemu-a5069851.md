@@ -1,7 +1,7 @@
 ---
 title: "Chinonyelum Udemu"
 description: "Chinonyelum Udemu is a Mid-career DAC researcher at University of Hull in GB. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.608996
+date: 2026-10-11T02:32:59.626189
 url: "/cdr-researcher-census/researchers/chinonyelum-udemu-a5069851/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Review of Cryogenic Carbon Capture Innovations and Their Potential Applications** (2021)
-   153 citations · DAC
+   158 citations · DAC
 
 ## External Profiles
 

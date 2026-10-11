@@ -1,7 +1,7 @@
 ---
 title: "Tao Jiang"
 description: "Tao Jiang is a Mid-career Biochar researcher at Beijing Institute of Technology in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.466980
+date: 2026-10-11T02:32:59.478375
 url: "/cdr-researcher-census/researchers/tao-jiang-a5102744/"
 layout: "researcher"
 hiddenInHomeList: true

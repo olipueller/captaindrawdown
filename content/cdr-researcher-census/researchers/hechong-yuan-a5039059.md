@@ -1,7 +1,7 @@
 ---
 title: "Hechong Yuan"
 description: "Hechong Yuan is an Early-career Biochar researcher at Shenyang Agricultural University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.638021
+date: 2026-10-11T02:32:59.656548
 url: "/cdr-researcher-census/researchers/hechong-yuan-a5039059/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Differential effects of biochar and straw incorporation on soil organic carbon: A case study on paddy cultivation in Northeast China** (2025)
-   8 citations · Biochar
+   10 citations · Biochar
 
 2. **Divergent carbon sequestration pathways: biochar and maize stover mediate DOC properties and soil carbon accumulation** (2026)
    0 citations · Biochar

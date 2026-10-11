@@ -1,7 +1,7 @@
 ---
 title: "Cláudia Marques-dos-Santos"
 description: "Cláudia Marques-dos-Santos is an Early-career Soil Carbon researcher at University of Lisbon in PT. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.346454
+date: 2026-10-11T02:33:00.381625
 url: "/cdr-researcher-census/researchers/claudia-marques-dos-santos-a5066552/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,7 +47,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Managing organic amendments in agroecosystems to enhance soil carbon storage and mitigate climate change** (2025)
+1. **Açaí-Derived Biochar Improves Soil Fertility, Microbial Activity, and Cowpea Yield in an Acidic Amazonian Ferralsol** (2026)
+   0 citations · Biochar
+
+2. **Managing organic amendments in agroecosystems to enhance soil carbon storage and mitigate climate change** (2025)
    0 citations · General CDR
 
 ## External Profiles

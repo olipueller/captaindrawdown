@@ -1,7 +1,7 @@
 ---
 title: "Kun Zhao"
 description: "Kun Zhao is a Senior Soil Carbon researcher at Inner Mongolia Academy of Agricultural & Animal Husbandry Sciences in CN. With 45 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.191951
+date: 2026-10-11T02:32:59.195872
 url: "/cdr-researcher-census/researchers/kun-zhao-a5111204/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Organic Nitrogen Substitution Enhances Carbon Sequestration but Increases Greenhouse Gas Emissions in Maize Cropping Systems** (2025)
-   2 citations · General CDR
+   3 citations · General CDR
 
 2. **Interannual variation in soil respiration and its components across cropland, grassland, and pasture in the agro-pastoral ecotone of Northern China** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 3. **Effects of tillage practices on aggregate-associated soil organic carbon fractions and maize yield** (2026)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Joana Sauze"
 description: "Joana Sauze is a Mid-career Soil Carbon researcher at CNRS, Ecotron  in FR. With 77 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.412354
+date: 2026-10-11T02:32:59.421862
 url: "/cdr-researcher-census/researchers/joana-sauze-a5085849/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon and nutrient colimitations control the microbial response to fresh organic carbon inputs in soil at different depths** (2023)
-   25 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 2. **Additive effects of basalt enhanced weathering and biochar co-application on carbon sequestration, soil nutrient status and plant performance in a mesocosm experiment** (2024)
    17 citations · Biochar

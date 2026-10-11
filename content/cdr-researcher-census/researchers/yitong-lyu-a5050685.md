@@ -1,7 +1,7 @@
 ---
 title: "Yitong Lyu"
 description: "Yitong Lyu is a Mid-career Enhanced Weathering researcher at China University of Petroleum, Beijing in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.343648
+date: 2026-10-11T02:33:00.378610
 url: "/cdr-researcher-census/researchers/yitong-lyu-a5050685/"
 layout: "researcher"
 hiddenInHomeList: true

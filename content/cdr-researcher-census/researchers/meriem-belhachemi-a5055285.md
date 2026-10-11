@@ -1,7 +1,7 @@
 ---
 title: "Meriem Belhachemi"
 description: "Meriem Belhachemi is a Senior Biochar researcher at Université de Béchar in DZ. With 36 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.191618
+date: 2026-10-11T02:32:59.195586
 url: "/cdr-researcher-census/researchers/meriem-belhachemi-a5055285/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Preparation and characterization of hydrochars and CO2-activated hydrochars from date and olive stones** (2023)
-   18 citations · Biochar
+   19 citations · Biochar
 
 2. **Porous Activated Carbons from Olive Stone-Derived Biochar and Hydrochar: Production, Characterization and Application for Amoxicillin Removal** (2026)
-   3 citations · Biochar
+   4 citations · Biochar
 
 3. **Palm wastes valorization for wastewaters treatment** (2022)
    2 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Himanshu Mishra"
 description: "Himanshu Mishra is a Senior Soil Carbon researcher at Chhatrapati Shahu Ji Maharaj University in IN. With 39 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.745383
+date: 2026-10-11T02:32:59.767679
 url: "/cdr-researcher-census/researchers/himanshu-mishra-a5077443/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Ozonation as a Scalable Method to Tune Biochar Cation Exchange Capacity and pH for Amending Alkaline Sandy Soils** (2026)
-   0 citations · Biochar
+1. **Impact of Climate Change on Global Agriculture: A Review of Adaptation and Mitigation Strategies** (2025)
+   1 citations · General CDR
 
-2. **Impact of Climate Change on Global Agriculture: A Review of Adaptation and Mitigation Strategies** (2025)
-   0 citations · General CDR
+2. **Ozonation as a Scalable Method to Tune Biochar Cation Exchange Capacity and pH for Amending Alkaline Sandy Soils** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

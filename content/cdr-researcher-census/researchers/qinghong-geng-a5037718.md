@@ -1,7 +1,7 @@
 ---
 title: "Qinghong Geng"
 description: "Qinghong Geng is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 28 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.281091
+date: 2026-10-11T02:32:59.285322
 url: "/cdr-researcher-census/researchers/qinghong-geng-a5037718/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Temperature fluctuation affects soil organic carbon accumulation through soil enzyme activity and nutrient limitation** (2025)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 2. **Distinct Roles of Forest Stand Types in Regulating Soil Organic Carbon Stability Across Depths** (2025)
    1 citations · Soil Carbon

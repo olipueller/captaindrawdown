@@ -1,7 +1,7 @@
 ---
 title: "Xuefei Tan"
 description: "Xuefei Tan is a Senior Biochar researcher at Harbin Institute of Technology in CN. With 40 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.130526
+date: 2026-10-11T02:32:59.135371
 url: "/cdr-researcher-census/researchers/xuefei-tan-a5029602/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effects of nitrogen doped-biochar on wastewater remediation** (2023)
-   30 citations · Biochar
+   31 citations · Biochar
 
 2. **Versatile strategy of sulfanilamide antibiotics removal via microalgal biochar: Role of oxygen-enriched functional groups** (2022)
    25 citations · Biochar

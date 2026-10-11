@@ -1,7 +1,7 @@
 ---
 title: "Zhimeng Zhao"
 description: "Zhimeng Zhao is a Mid-career Biochar researcher at Guizhou Education University in CN. With 28 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.607303
+date: 2026-10-11T02:32:59.624772
 url: "/cdr-researcher-census/researchers/zhimeng-zhao-a5047991/"
 layout: "researcher"
 hiddenInHomeList: true

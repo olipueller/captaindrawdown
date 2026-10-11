@@ -1,7 +1,7 @@
 ---
 title: "Mingkang Long"
 description: "Mingkang Long is a Mid-career Enhanced Weathering researcher at Chinese Academy of Sciences in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.502454
+date: 2026-10-11T02:32:59.514983
 url: "/cdr-researcher-census/researchers/mingkang-long-a5111152/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Storage, form, and influencing factors of karst inorganic carbon in a carbonate area in China** (2024)
-   61 citations
+   63 citations
 
 2. **Unexpected response of terrestrial carbon sink to rural depopulation in China** (2024)
-   42 citations · Soil Carbon
+   41 citations · Soil Carbon
 
 3. **Response of carbonate rock weathering carbon sink to seismic peak ground acceleration in China** (2025)
-   1 citations · Enhanced Weathering
+   2 citations · Enhanced Weathering
 
 ## External Profiles
 

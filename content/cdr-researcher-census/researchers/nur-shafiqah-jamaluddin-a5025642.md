@@ -1,7 +1,7 @@
 ---
 title: "Nur Shafiqah Jamaluddin"
 description: "Nur Shafiqah Jamaluddin is an Early-career Biochar researcher at Hospital Pulau Pinang in MY. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.040025
+date: 2026-10-11T02:33:00.070849
 url: "/cdr-researcher-census/researchers/nur-shafiqah-jamaluddin-a5025642/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synergistic co-pyrolysis of spent coffee grounds and polypropylene into hydrocarbon-rich bio-oil and carbon-rich biochar** (2026)
-   1 citations · Biochar
+   3 citations · Biochar
+
+2. **Sustainable Co-Pyrolysis of Empty Fruit Bunch and Disposable Face Mask: Product Distribution and Characteristics, Synergistic Effects, and Kinetic Behaviour** (2026)
+   0 citations
 
 ## External Profiles
 

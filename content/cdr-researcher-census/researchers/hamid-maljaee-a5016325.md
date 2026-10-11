@@ -1,7 +1,7 @@
 ---
 title: "Hamid Maljaee"
 description: "Hamid Maljaee is a Mid-career Biochar researcher at University of Aveiro in PT. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.283491
+date: 2026-10-11T02:32:59.288245
 url: "/cdr-researcher-census/researchers/hamid-maljaee-a5016325/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Incorporation of biochar in cementitious materials: A roadmap of biochar selection** (2021)
-   238 citations · Biochar
+   251 citations · Biochar
 
 ## External Profiles
 

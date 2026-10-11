@@ -1,7 +1,7 @@
 ---
 title: "Vincent Ebhohime Ehiaguina"
 description: "Vincent Ebhohime Ehiaguina is a Mid-career General CDR researcher at London South Bank University in GB. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.324025
+date: 2026-10-11T02:33:00.356758
 url: "/cdr-researcher-census/researchers/vincent-ebhohime-ehiaguina-a5090254/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **POWERING RURAL HEALTHCARE WITH SUSTAINABLE ENERGY: A GLOBAL REVIEW OF SOLAR SOLUTIONS** (2023)
-   40 citations · General CDR
+   41 citations · General CDR
 
 ## External Profiles
 

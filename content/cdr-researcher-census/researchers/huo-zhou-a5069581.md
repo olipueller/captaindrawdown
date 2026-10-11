@@ -1,7 +1,7 @@
 ---
 title: "Huo Zhou"
 description: "Huo Zhou is an Early-career Biochar researcher at Wuhan Textile University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.333097
+date: 2026-10-11T02:33:00.367108
 url: "/cdr-researcher-census/researchers/huo-zhou-a5069581/"
 layout: "researcher"
 hiddenInHomeList: true

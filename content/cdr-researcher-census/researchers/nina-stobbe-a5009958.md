@@ -1,7 +1,7 @@
 ---
 title: "Nina Stobbe"
 description: "Nina Stobbe is a Senior Soil Carbon researcher at University of Freiburg in DE. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.408575
+date: 2026-10-11T02:32:59.417731
 url: "/cdr-researcher-census/researchers/nina-stobbe-a5009958/"
 layout: "researcher"
 hiddenInHomeList: true

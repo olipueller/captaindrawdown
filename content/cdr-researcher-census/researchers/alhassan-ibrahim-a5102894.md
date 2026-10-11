@@ -1,7 +1,7 @@
 ---
 title: "Alhassan Ibrahim"
 description: "Alhassan Ibrahim is a Mid-career Biochar researcher at Oregon State University in US. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.979974
+date: 2026-10-11T02:33:00.011398
 url: "/cdr-researcher-census/researchers/alhassan-ibrahim-a5102894/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A Critical Review on PFAS Removal from Water: Removal Mechanism and Future Challenges** (2023)
-   120 citations · Biochar
+   122 citations · Biochar
 
 ## External Profiles
 

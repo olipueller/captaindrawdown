@@ -1,7 +1,7 @@
 ---
 title: "Hongjian Hao"
 description: "Hongjian Hao is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.268791
+date: 2026-10-11T02:33:00.298757
 url: "/cdr-researcher-census/researchers/hongjian-hao-a5101374/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The CAZyme family regulates the changes in soil organic carbon composition during vegetation restoration in the Mu Us desert** (2024)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 2. **Macroaggregate is crucial in soil carbon and nitrogen accumulation under different vegetation types in the Loess Plateau, China** (2024)
    12 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Xuehao Zheng"
 description: "Xuehao Zheng is a Mid-career Soil Carbon researcher at Shenyang University in CN. With 26 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.481150
+date: 2026-10-11T02:32:59.492567
 url: "/cdr-researcher-census/researchers/xuehao-zheng-a5082085/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Organo-mineral complexes alter bacterial composition and induce carbon and nitrogen cycling in the rhizosphere** (2022)
-   20 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 2. **The Influence of Soil Ph on Microbial Carbon Sequestration and Their Soil Organic Carbon Accumulation** (2025)
    0 citations · Soil Carbon

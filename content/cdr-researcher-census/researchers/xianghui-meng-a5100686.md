@@ -1,7 +1,7 @@
 ---
 title: "Xianghui Meng"
 description: "Xianghui Meng is a Senior Soil Carbon researcher at Northeast Agricultural University in CN. With 54 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.172892
+date: 2026-10-11T02:32:59.176998
 url: "/cdr-researcher-census/researchers/xianghui-meng-a5100686/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Artificial humic acid regulates the impact of fungal community on soil macroaggregates formation** (2023)
-   38 citations · Soil Carbon
+   40 citations · Soil Carbon
 
 2. **Microbial community assemblage altered by coprecipitation of artificial humic substances and ferrihydrite: Implications for carbon fixation pathway transformation** (2024)
    12 citations · Soil Carbon

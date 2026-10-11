@@ -1,7 +1,7 @@
 ---
 title: "Chenyu Liu"
 description: "Chenyu Liu is an Early-career Biochar researcher at Nanyang Technological University in SG. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.191831
+date: 2026-10-11T02:33:00.221895
 url: "/cdr-researcher-census/researchers/chenyu-liu-a5101372/"
 layout: "researcher"
 hiddenInHomeList: true

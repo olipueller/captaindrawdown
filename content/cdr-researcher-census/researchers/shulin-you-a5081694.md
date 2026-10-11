@@ -1,7 +1,7 @@
 ---
 title: "Shulin You"
 description: "Shulin You is a Mid-career Biochar researcher at South China University of Technology in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.198443
+date: 2026-10-11T02:33:00.228719
 url: "/cdr-researcher-census/researchers/shulin-you-a5081694/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Metagenomic insights revealing the stabilizing regulatory role of biochar in partial denitrification–anammox under carbon-limited conditions** (2025)
-   6 citations · Biochar
+   7 citations · Biochar
 
 2. **Metagenomic Insights Revealing the Stabilizing Regulatory Role of Biochar in Partial Denitrification–Anammox Under Carbon-Limited Conditions** (2025)
    0 citations · Biochar

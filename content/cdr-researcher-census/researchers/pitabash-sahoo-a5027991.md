@@ -1,7 +1,7 @@
 ---
 title: "Pitabash Sahoo"
 description: "Pitabash Sahoo is a Mid-career General CDR researcher at Indian Institute of Science Bangalore in IN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.136200
+date: 2026-10-11T02:33:00.166533
 url: "/cdr-researcher-census/researchers/pitabash-sahoo-a5027991/"
 layout: "researcher"
 hiddenInHomeList: true

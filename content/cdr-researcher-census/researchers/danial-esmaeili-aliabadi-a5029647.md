@@ -1,7 +1,7 @@
 ---
 title: "Danial Esmaeili Aliabadi"
 description: "Danial Esmaeili Aliabadi is a Mid-career BECCS researcher at Helmholtz Centre for Environmental Research in DE. With 70 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.401447
+date: 2026-10-11T02:32:59.410661
 url: "/cdr-researcher-census/researchers/danial-esmaeili-aliabadi-a5029647/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,21 +45,27 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 14 |
 | Citations | 606 |
 | Publications | 70 |
-| CDR Focus | 5.7% |
+| CDR Focus | 7.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **A bottom–up regional potential assessment of bioenergy with carbon capture and storage in Germany** (2024)
-   13 citations · BECCS
+   14 citations · BECCS
 
 2. **Scenario Storylines for Carbon Dioxide Removal in Germany: Drawing From Regional Perspectives** (2025)
    4 citations · BECCS
 
-3. **Carbon Dioxide Removal Options for Energy Transitions: BECCS versus DACCS in Germany** (2026)
+3. **Unleashing the combined potential of bio-based carbon dioxide removal in Germany’s path to net zero from the bioenergy system perspective** (2026)
+   0 citations · General CDR
+
+4. **Carbon Dioxide Removal Options for Energy Transitions: BECCS versus DACCS in Germany** (2026)
    0 citations · BECCS
 
-4. **Modeling the integration of BECCS into German bioenergy system** (2026)
+5. **Man0EUvRE: Energy System Modelling for Transition to a net-Zero 2050 for EU via REPowerEU: Deliverable 3.1 Executive Summaries of Case Studies** (2025)
+   0 citations · BECCS
+
+6. **Modeling the integration of BECCS into German bioenergy system** (2026)
    0 citations · BECCS
 
 ## External Profiles

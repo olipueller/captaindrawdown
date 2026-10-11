@@ -1,7 +1,7 @@
 ---
 title: "M.B. Noor mohamed"
 description: "M.B. Noor mohamed is a Mid-career General CDR researcher at Central Arid Zone Research Institute in IN. With 40 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.016637
+date: 2026-10-11T02:33:00.047551
 url: "/cdr-researcher-census/researchers/mb-noor-mohamed-a5088141/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,10 +47,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Top CDR Publications
 
-1. **Ecosystem-Based Approaches to Natural Resource Management: Adapting to Climate Change in Arid Regions** (2025)
+1. **Dynamics of biomass and soil carbon sequestration across an age-sequence of Lawsonia inermis plantation in semi-arid Region, Rajasthan, India** (2022)
+   1 citations · Soil Carbon
+
+2. **Biomass and carbon stock estimation in different perennial fruit trees of the semi-arid region, Rajasthan, India** (2026)
+   0 citations · Soil Carbon
+
+3. **Ecosystem-Based Approaches to Natural Resource Management: Adapting to Climate Change in Arid Regions** (2025)
    0 citations · General CDR
 
-2. **Carbon Sequestration: Agroforestry is an Option to Mitigate Climate Change** (2021)
+4. **Carbon Sequestration: Agroforestry is an Option to Mitigate Climate Change** (2021)
    0 citations · General CDR
 
 ## External Profiles

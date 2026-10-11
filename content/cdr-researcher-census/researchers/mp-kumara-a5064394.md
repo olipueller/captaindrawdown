@@ -1,7 +1,7 @@
 ---
 title: "M.P. Kumara"
 description: "M.P. Kumara is a Senior Soil Carbon researcher at University of Jaffna in LK. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.442900
+date: 2026-10-11T02:32:59.453143
 url: "/cdr-researcher-census/researchers/mp-kumara-a5064394/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Climate and intertidal zonation drive variability in the carbon stocks of Sri Lankan mangrove forests** (2021)
-   55 citations · Soil Carbon
+   56 citations · Soil Carbon
 
 ## External Profiles
 

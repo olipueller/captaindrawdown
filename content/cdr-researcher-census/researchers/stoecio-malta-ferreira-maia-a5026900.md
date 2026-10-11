@@ -1,7 +1,7 @@
 ---
 title: "Stoécio Malta Ferreira Maia"
 description: "Stoécio Malta Ferreira Maia is a Senior Soil Carbon researcher at Instituto Federal de Educação, Ciência e Tecnologia de Alagoas in BR. With 82 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.115059
+date: 2026-10-11T02:32:59.119800
 url: "/cdr-researcher-census/researchers/stoecio-malta-ferreira-maia-a5026900/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    60 citations · General CDR
 
 2. **Changes in soil carbon and soil carbon sequestration potential under different types of pasture management in Brazil** (2022)
-   49 citations · Soil Carbon
+   50 citations · Soil Carbon
 
 3. **Effect of Sugarcane Harvesting Systems on Soil Organic Matter in Northeastern Region of Brazil** (2021)
    7 citations · Soil Carbon

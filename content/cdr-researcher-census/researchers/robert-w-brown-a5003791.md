@@ -1,7 +1,7 @@
 ---
 title: "Robert W. Brown"
 description: "Robert W. Brown is a Senior Biochar researcher at Bangor University in GB. With 49 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.183510
+date: 2026-10-11T02:32:59.187654
 url: "/cdr-researcher-census/researchers/robert-w-brown-a5003791/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,30 +51,33 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Agronomic amendments drive a diversity of real and apparent priming responses within a grassland soil** (2023)
-   25 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 2. **Microplastic contamination accelerates soil carbon loss through positive priming** (2024)
-   21 citations
+   23 citations
 
 3. **Biochar application to temperate grasslands: challenges and opportunities for delivering multiple ecosystem services** (2023)
-   17 citations · Biochar
+   16 citations · Biochar
 
 4. **Rewetting alongside biochar and sulphate addition mitigates greenhouse gas emissions and retain carbon in degraded upland peatlands** (2025)
-   8 citations · Biochar
+   10 citations · Biochar
 
 5. **Greenhouse gas removal in agricultural peatland via raised water levels and soil amendment** (2025)
-   7 citations · Biochar
+   9 citations · Biochar
 
 6. **Understanding the legacy impact of biochar on soil function and carbon stocks &amp;#8211; evidence from a 13-year field experiment** (2025)
    1 citations · Biochar
 
-7. **Does size matter? Biochar particle size and nitrogen addition drives mineralisation and soil organic matter turnover** (2025)
+7. **Does size matter? Biochar particle size and nitrogen addition drive biochar-derived carbon mineralisation and soil organic carbon turnover** (2026)
    0 citations · Biochar
 
-8. **Effects of 13-Years Of Organic Amendments And Mineral Nitrogen Fertilization On Aggregate-Associated Carbon and Nitrogen and Soil Organic Matter Stability** (2025)
+8. **Does size matter? Biochar particle size and nitrogen addition drives mineralisation and soil organic matter turnover** (2025)
+   0 citations · Biochar
+
+9. **Effects of 13-Years Of Organic Amendments And Mineral Nitrogen Fertilization On Aggregate-Associated Carbon and Nitrogen and Soil Organic Matter Stability** (2025)
    0 citations · Soil Carbon
 
-9. **Quantifying Inertinite Carbon in Biochar** (2025)
+10. **Quantifying Inertinite Carbon in Biochar** (2025)
    0 citations · Biochar
 
 ## External Profiles

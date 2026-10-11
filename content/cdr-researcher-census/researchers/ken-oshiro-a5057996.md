@@ -1,7 +1,7 @@
 ---
 title: "Ken Oshiro"
 description: "Ken Oshiro is a Senior General CDR researcher at Hokkaido University in JP. With 144 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.079064
+date: 2026-10-11T02:32:59.083865
 url: "/cdr-researcher-census/researchers/ken-oshiro-a5057996/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Role of hydrogen-based energy carriers as an alternative option to reduce residual emissions associated with mid-century decarbonization goals** (2022)
-   163 citations · DAC
+   165 citations · DAC
 
 2. **Land-based implications of early climate actions without global net-negative emissions** (2021)
    67 citations · General CDR
 
 3. **Alternative, but expensive, energy transition scenario featuring carbon capture and utilization can preserve existing energy demand technologies** (2023)
-   31 citations · DAC
+   30 citations · DAC
 
 4. **Mid-century net-zero emissions pathways for Japan: Potential roles of global mitigation scenarios in informing national decarbonization strategies** (2024)
    19 citations · General CDR
@@ -74,11 +74,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 8. **JMIP 2 Part 1: Technology uncertainty and robustness in Japan’s net-zero pathways** (2025)
    3 citations · General CDR
 
-9. **ENGAGE Global Scenarios** (2021)
-   2 citations
+9. **Challenges and opportunities of the full phase-out of fossil fuels under the 1.5 °C goal** (2026)
+   2 citations · General CDR
 
-10. **Conflicted public perceptions of different net-zero mitigation pathways between feasibility and desirability** (2026)
-   1 citations · General CDR
+10. **ENGAGE Global Scenarios** (2021)
+   2 citations
 
 ## External Profiles
 

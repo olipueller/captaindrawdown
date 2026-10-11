@@ -1,7 +1,7 @@
 ---
 title: "Changkai Zhao"
 description: "Changkai Zhao is a Mid-career Biochar researcher at Zhongyuan University of Technology in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.278929
+date: 2026-10-11T02:33:00.309032
 url: "/cdr-researcher-census/researchers/changkai-zhao-a5015020/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Liquid-solid ratio during hydrothermal carbonization affects hydrochar application potential in soil: Based on characteristics comparison and economic benefit analysis** (2023)
-   39 citations · Biochar
+   42 citations · Biochar
 
 2. **Large-scale soil application of hydrochar: Reducing its polycyclic aromatic hydrocarbon content and toxicity by heating** (2024)
    13 citations · Biochar

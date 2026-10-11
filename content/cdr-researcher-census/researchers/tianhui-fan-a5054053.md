@@ -1,7 +1,7 @@
 ---
 title: "Tianhui Fan"
 description: "Tianhui Fan is a Mid-career DAC researcher at Kyoto University in JP. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.011351
+date: 2026-10-11T02:33:00.042489
 url: "/cdr-researcher-census/researchers/tianhui-fan-a5054053/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Environmental, economic and social trade-offs of membrane-based direct air capture technologies integrated with CO2 conversion using life cycle assessment** (2024)
-   11 citations · DAC
+   13 citations · DAC
 
 2. **Scalable carbon solutions: life cycle insights and public willingness to adopt direct air capture and utilization systems** (2026)
    0 citations · DAC

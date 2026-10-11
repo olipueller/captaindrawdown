@@ -1,7 +1,7 @@
 ---
 title: "Munesh Kumar"
 description: "Munesh Kumar is a Senior Soil Carbon researcher at Hemvati Nandan Bahuguna Garhwal University in IN. With 155 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.051234
+date: 2026-10-11T02:32:59.055238
 url: "/cdr-researcher-census/researchers/munesh-kumar-a5077943/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 34 |
 | Citations | 4,850 |
 | Publications | 155 |
-| CDR Focus | 6.5% |
+| CDR Focus | 7.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,22 +54,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    118 citations · General CDR
 
 2. **Stand Structure, Biomass and Carbon Storage in Gmelina arborea Plantation at Agricultural Landscape in Foothills of Eastern Himalayas** (2021)
-   46 citations · General CDR
+   44 citations · General CDR
 
 3. **Carbon Sequestration Potential of Agroforestry versus Adjoining Forests at Different Altitudes in the Garhwal Himalayas** (2024)
-   27 citations
+   28 citations
 
 4. **Contribution of Cedrus deodara forests for climate mitigation along altitudinal gradient in Garhwal Himalaya, India** (2021)
    27 citations · Soil Carbon
 
-5. **Carbon Storage Potential of a Waterlogged Agroforestry System of Tripura, India** (2021)
-   22 citations · Soil Carbon
+5. **Vegetation composition, soil properties, and carbon stock of montane forests along a disturbance in the Garhwal Himalaya, India** (2023)
+   23 citations · Soil Carbon
 
-6. **Vegetation composition, soil properties, and carbon stock of montane forests along a disturbance in the Garhwal Himalaya, India** (2023)
+6. **Disentangling Forest Dynamics for Litter Biomass Production in a Biosphere Reserve in Central India** (2022)
    21 citations · Soil Carbon
 
-7. **Disentangling Forest Dynamics for Litter Biomass Production in a Biosphere Reserve in Central India** (2022)
-   19 citations · Soil Carbon
+7. **Carbon Storage Potential of a Waterlogged Agroforestry System of Tripura, India** (2021)
+   21 citations · Soil Carbon
 
 8. **Altitudinal Variation in Carbon Sequestration and Carbon Credit Potential of <i>Grewia optiva</i> Drumm in the Himalayan Ecosystems of Uttarakhand, India** (2025)
    3 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Haider Al-Rubaye"
 description: "Haider Al-Rubaye is a Mid-career Biochar researcher at Gulf University for Science & Technology in KW. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.071841
+date: 2026-10-11T02:33:00.102052
 url: "/cdr-researcher-census/researchers/haider-al-rubaye-a5044602/"
 layout: "researcher"
 hiddenInHomeList: true

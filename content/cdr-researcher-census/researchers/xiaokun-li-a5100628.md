@@ -1,7 +1,7 @@
 ---
 title: "Xiaokun Li"
 description: "Xiaokun Li is a Senior Soil Carbon researcher at China Three Gorges Corporation (China) in CN. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.791560
+date: 2026-10-11T02:32:59.815298
 url: "/cdr-researcher-census/researchers/xiaokun-li-a5100628/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    6 citations · Soil Carbon
 
 2. **Sequestration of Soil Organic and Inorganic Carbon by Dual-Enzymatically Induced Carbonate Precipitation** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 3. **Rice-Crayfish Farming Increases Soil Organic Carbon Sequestration by Promoting Soil Aggregate Protection and Microbial Necromass Accumulation** (2023)
    0 citations · Soil Carbon

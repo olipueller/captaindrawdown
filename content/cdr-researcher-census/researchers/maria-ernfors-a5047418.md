@@ -1,7 +1,7 @@
 ---
 title: "Maria Ernfors"
 description: "Maria Ernfors is a Senior Soil Carbon researcher at Swedish University of Agricultural Sciences in SE. With 33 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.301330
+date: 2026-10-11T02:32:59.306543
 url: "/cdr-researcher-census/researchers/maria-ernfors-a5047418/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Frost killed cover crops induced high emissions of nitrous oxide** (2022)
-   24 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 2. **Cover crop cultivation strategies in a Scandinavian context for climate change mitigation and biogas production – Insights from a life cycle perspective** (2024)
    14 citations · BECCS

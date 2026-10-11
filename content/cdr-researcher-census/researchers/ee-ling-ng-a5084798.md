@@ -1,7 +1,7 @@
 ---
 title: "Ee Ling Ng"
 description: "Ee Ling Ng is a Mid-career Soil Carbon researcher at Queensland Department of Environment and Science in AU. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.709094
+date: 2026-10-11T02:32:59.729733
 url: "/cdr-researcher-census/researchers/ee-ling-ng-a5084798/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Digital mapping of soil carbon sequestration potential with enhanced vegetation cover over New South Wales, Australia** (2021)
-   24 citations · General CDR
+   25 citations · General CDR
 
 ## External Profiles
 

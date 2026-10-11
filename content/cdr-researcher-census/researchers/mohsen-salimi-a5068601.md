@@ -1,7 +1,7 @@
 ---
 title: "Mohsen Salimi"
 description: "Mohsen Salimi is a Senior DAC researcher at Aarhus University in DK. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.519078
+date: 2026-10-11T02:32:59.532860
 url: "/cdr-researcher-census/researchers/mohsen-salimi-a5068601/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Techno-economic evaluation of solar-driven direct air capture under various configurations** (2025)
-   11 citations · DAC
+   14 citations · DAC
 
 2. **Machine learning–enabled optimization of a direct air capture system integrated with enhanced oil recovery** (2025)
    3 citations · DAC

@@ -1,7 +1,7 @@
 ---
 title: "Song Guan"
 description: "Song Guan is a Senior Soil Carbon researcher at Jilin Agricultural University in CN. With 55 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.302172
+date: 2026-10-11T02:32:59.307447
 url: "/cdr-researcher-census/researchers/song-guan-a5103926/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    69 citations · Soil Carbon
 
 2. **Unraveling mechanisms of carbon enrichment via straw and biochar application to enhance soil fertility and improve maize yield** (2025)
-   23 citations · Biochar
+   24 citations · Biochar
 
 3. **Contrasting effects of straw and straw-derived biochar application on soil organic matter and corn yield in a Chinese Mollisol** (2023)
    14 citations · Biochar
@@ -60,10 +60,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Biochar
 
 5. **Enhancement of soil humic acid hydrophobicity by 5 consecutive years of full-amount straw shallow-mixed field return** (2024)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 6. **Specified Dosages of Biochar Application Not Impact Native Organic Carbon but Promote a Positive Effect on Native Humic Acid in Humicryepts Soil** (2021)
-   6 citations · Biochar
+   7 citations · Biochar
 
 7. **Optimal rate of biochar application has positive effects on soil functional microbial abundance and agroecological function in a black soil of Northeast China** (2025)
    2 citations · Biochar
@@ -71,11 +71,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 8. **Enhancement of Soil Humic Acid Hydrophobicity by 5 Consecutive Years of Full-Amount Straw Shallow-Mixed Field Return** (2024)
    1 citations
 
-9. **Comment on egusphere-2025-5686** (2026)
-   0 citations
+9. **Operational POM increases are over-interpreted as SOM stabilization:quantifying untransformed straw and biochar residues via magnetic separation** (2026)
+   0 citations · Biochar
 
 10. **Comment on egusphere-2025-5686** (2026)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

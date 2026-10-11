@@ -1,7 +1,7 @@
 ---
 title: "Suman Samanta"
 description: "Suman Samanta is a Mid-career Soil Carbon researcher at Shree Guru Gobind Singh Tricentenary University in IN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.914484
+date: 2026-10-11T02:32:59.958484
 url: "/cdr-researcher-census/researchers/suman-samanta-a5101746/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil biochemical quality indices can capture transitional changes of tillage and residue regime in lateritic soils** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 ## External Profiles
 

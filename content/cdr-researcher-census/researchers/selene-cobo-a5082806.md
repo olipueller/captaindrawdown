@@ -1,7 +1,7 @@
 ---
 title: "Selene Cobo"
 description: "Selene Cobo is a Mid-career General CDR researcher at Universidad de Cantabria in ES. With 35 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.328654
+date: 2026-10-11T02:32:59.334495
 url: "/cdr-researcher-census/researchers/selene-cobo-a5082806/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Delaying carbon dioxide removal in the European Union puts climate targets at risk** (2021)
-   88 citations · BECCS
+   93 citations · BECCS
 
 2. **Sustainable scale-up of negative emissions technologies and practices: where to focus** (2022)
-   54 citations · General CDR
+   55 citations · General CDR
 
 3. **Human and planetary health implications of negative emissions technologies** (2022)
    50 citations · BECCS
@@ -62,11 +62,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 4. **Responsible carbon dioxide removals and the EU’s 2040 climate target** (2024)
    14 citations · General CDR
 
-5. **The consequences of inaction on carbon dioxide removal** (2021)
-   3 citations · BECCS
+5. **Negative emissions technologies and practices could challenge global resource supply and environmental limits** (2026)
+   4 citations · BECCS
 
-6. **Negative emissions technologies and practices could challenge global resource supply and environmental limits** (2026)
-   2 citations · BECCS
+6. **The consequences of inaction on carbon dioxide removal** (2021)
+   3 citations · BECCS
 
 7. **Delayed climate benefits and toxicity risks could hinder the sustainable deployment of enhanced weathering** (2026)
    0 citations · Enhanced Weathering

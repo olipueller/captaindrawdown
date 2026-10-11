@@ -1,7 +1,7 @@
 ---
 title: "Jia Jie Zou"
 description: "Jia Jie Zou is a Mid-career Biochar researcher at Shanghai University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.379658
+date: 2026-10-11T02:33:00.415504
 url: "/cdr-researcher-census/researchers/jia-jie-zou-a5016840/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhancing soil carbon sequestration capacity: Synergistic effect of low-release biochar and autotrophic microbial agents over one year** (2025)
-   7 citations · Biochar
+   8 citations · Biochar
 
 2. **Interface selectivity-based biochar: Directional evolution of properties, application &amp; carbon neutralization evaluation** (2025)
    5 citations · Biochar

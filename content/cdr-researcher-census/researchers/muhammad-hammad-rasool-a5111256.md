@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Hammad Rasool"
 description: "Muhammad Hammad Rasool is a Mid-career DAC researcher at Universiti Teknologi Petronas in MY. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.910869
+date: 2026-10-11T02:32:59.954098
 url: "/cdr-researcher-census/researchers/muhammad-hammad-rasool-a5111256/"
 layout: "researcher"
 hiddenInHomeList: true

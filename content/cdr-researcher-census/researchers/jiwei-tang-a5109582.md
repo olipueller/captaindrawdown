@@ -1,7 +1,7 @@
 ---
 title: "Jiwei Tang"
 description: "Jiwei Tang is a Mid-career Soil Carbon researcher at Huazhong Agricultural University in CN. With 30 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.298176
+date: 2026-10-11T02:32:59.303149
 url: "/cdr-researcher-census/researchers/jiwei-tang-a5109582/"
 layout: "researcher"
 hiddenInHomeList: true

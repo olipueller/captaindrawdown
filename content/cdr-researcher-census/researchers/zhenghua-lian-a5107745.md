@@ -1,7 +1,7 @@
 ---
 title: "Zhenghua Lian"
 description: "Zhenghua Lian is a Mid-career Soil Carbon researcher. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.172658
+date: 2026-10-11T02:33:00.202844
 url: "/cdr-researcher-census/researchers/zhenghua-lian-a5107745/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiuqin Wu"
 description: "Xiuqin Wu is a Senior Soil Carbon researcher at Fujian Medical University in CN. With 80 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.106465
+date: 2026-10-11T02:32:59.111097
 url: "/cdr-researcher-census/researchers/xiuqin-wu-a5007321/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,25 +51,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Spatial–temporal pattern of vegetation carbon sequestration and its response to rocky desertification control measures in a karst area, in Guangxi Province, China** (2022)
-   20 citations
+   21 citations
 
 2. **Spatiotemporal pattern of vegetation water use efficiency between 2003 and 2017 and its coupling relationship with artificial carbon sequestration in the karst region of Southwestern China** (2023)
    14 citations · General CDR
 
 3. **Differential specific leaf area due to different stand structures drives alterations in soil organic carbon in artificial forests of karst areas** (2024)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 4. **Easily overlooked petiole traits are key factors that affect soil carbon sequestration in plantations in karst areas** (2024)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 5. **Decipher soil organic carbon density dynamics, driving forces and future stability across Southwest China** (2025)
    3 citations · General CDR
 
-6. **Soil Karstification Intensity and Carbon Sink Effects Across Different Vegetation Communities in the Liujiang River Basin, Guangxi** (2026)
-   0 citations
+6. **Multi-pathway vegetation restoration drives differential carbon sequestration regulated by hydrogeological conditions in Lijiang River Basin** (2026)
+   1 citations · Soil Carbon
 
-7. **Multi-pathway vegetation restoration drives differential carbon sequestration regulated by hydrogeological conditions in Lijiang River Basin** (2026)
-   0 citations · Soil Carbon
+7. **Soil Karstification Intensity and Carbon Sink Effects Across Different Vegetation Communities in the Liujiang River Basin, Guangxi** (2026)
+   0 citations
 
 ## External Profiles
 

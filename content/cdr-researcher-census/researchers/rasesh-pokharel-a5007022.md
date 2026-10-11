@@ -1,7 +1,7 @@
 ---
 title: "Rasesh Pokharel"
 description: "Rasesh Pokharel is a Mid-career Enhanced Weathering researcher at Utrecht University in NL. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.772134
+date: 2026-10-11T02:32:59.795097
 url: "/cdr-researcher-census/researchers/rasesh-pokharel-a5007022/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Assessing urban green roofs for CO2 removal via enhanced rock weathering in Europe** (2026)
-   0 citations · Enhanced Weathering
+   1 citations · Enhanced Weathering
 
 2. **Urban Green Roofs for CO2 Removal via Enhanced Rock Weathering in Europe** (2026)
    0 citations · Enhanced Weathering

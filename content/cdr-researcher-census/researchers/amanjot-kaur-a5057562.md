@@ -1,7 +1,7 @@
 ---
 title: "Amanjot Kaur"
 description: "Amanjot Kaur is an Early-career Biochar researcher at Central University of Haryana in IN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.975354
+date: 2026-10-11T02:33:00.007203
 url: "/cdr-researcher-census/researchers/amanjot-kaur-a5057562/"
 layout: "researcher"
 hiddenInHomeList: true

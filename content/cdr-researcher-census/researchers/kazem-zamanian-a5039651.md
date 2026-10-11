@@ -1,7 +1,7 @@
 ---
 title: "Kazem Zamanian"
 description: "Kazem Zamanian is a Senior Soil Carbon researcher at Gottfried Wilhelm Leibniz Universität Hannover in DE. With 136 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.057010
+date: 2026-10-11T02:32:59.061322
 url: "/cdr-researcher-census/researchers/kazem-zamanian-a5039651/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,25 +57,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    118 citations · Soil Carbon
 
 3. **Long-term organic fertilizer-induced carbonate neoformation increases carbon sequestration in soil** (2023)
-   66 citations · Soil Carbon
+   68 citations · Soil Carbon
 
 4. **Effect of vegetation restoration on soil erosion control and soil carbon and nitrogen dynamics: A meta-analysis** (2023)
-   61 citations · Soil Carbon
+   64 citations · Soil Carbon
 
 5. **High soil salinity reduces straw decomposition but primes soil organic carbon loss** (2025)
-   54 citations · Soil Carbon
+   60 citations · Soil Carbon
 
 6. **Soil Chemical Properties Depending on Fertilization and Management in China: A Meta-Analysis** (2022)
-   51 citations · Soil Carbon
+   53 citations · Soil Carbon
 
 7. **Analysis of the consequences of land-use changes and soil types on organic carbon storage in the Tarim River Basin from 2000 to 2020** (2021)
    51 citations · Soil Carbon
 
 8. **Nitrification-induced acidity controls CO2 emission from soil carbonates** (2024)
-   38 citations · Soil Carbon
+   40 citations · Soil Carbon
 
 9. **Necromass responses to warming: A faster microbial turnover in favor of soil carbon stabilisation** (2024)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 10. **Keeping thinning-derived deadwood logs on forest floor improves soil organic carbon, microbial biomass, and enzyme activity in a temperate spruce forest** (2022)
    26 citations · Soil Carbon

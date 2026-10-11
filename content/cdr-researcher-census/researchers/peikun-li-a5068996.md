@@ -1,7 +1,7 @@
 ---
 title: "Peikun Li"
 description: "Peikun Li is a Mid-career Soil Carbon researcher at Henan University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.257404
+date: 2026-10-11T02:33:00.287474
 url: "/cdr-researcher-census/researchers/peikun-li-a5068996/"
 layout: "researcher"
 hiddenInHomeList: true

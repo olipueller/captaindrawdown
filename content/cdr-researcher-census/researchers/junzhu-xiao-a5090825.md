@@ -1,7 +1,7 @@
 ---
 title: "Junzhu Xiao"
 description: "Junzhu Xiao is a Mid-career Soil Carbon researcher at Xiamen University in CN. With 23 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.581439
+date: 2026-10-11T02:32:59.597620
 url: "/cdr-researcher-census/researchers/junzhu-xiao-a5090825/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,7 +53,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Organic-to-inorganic carbon conversion as a potential pathway for soil carbon sequestration in revegetated soils of the Loess Plateau** (2026)
    1 citations · Soil Carbon
 
-2. **Global patterns of tree diversity effects on soil respiration and their linkages to soil organic carbon** (2026)
+2. **Orchard soil organic and inorganic carbon responses vary across intensive management: A global meta-analysis** (2026)
+   0 citations · Soil Carbon
+
+3. **Global patterns of tree diversity effects on soil respiration and their linkages to soil organic carbon** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

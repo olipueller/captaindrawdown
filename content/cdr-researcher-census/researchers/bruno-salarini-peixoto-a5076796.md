@@ -1,7 +1,7 @@
 ---
 title: "Bruno Salarini Peixoto"
 description: "Bruno Salarini Peixoto is a Mid-career Biochar researcher at Universidade Federal Fluminense in BR. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.120958
+date: 2026-10-11T02:33:00.151604
 url: "/cdr-researcher-census/researchers/bruno-salarini-peixoto-a5076796/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    15 citations · Biochar
 
 2. **Highly Functionalized Microporous Activated Biochar from Syagrus coronata Waste: Production, Characterization, and Application in Adsorption Studies** (2022)
-   11 citations · Biochar
+   12 citations · Biochar
 
 3. **Biochar from green coconut husk as a sustainable support for laccase immobilization: Preparation, characterization, and preliminary application** (2025)
    10 citations · Biochar

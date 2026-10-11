@@ -1,7 +1,7 @@
 ---
 title: "Sanna Lötjönen"
 description: "Sanna Lötjönen is a Mid-career Soil Carbon researcher at University of Helsinki in FI. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.205407
+date: 2026-10-11T02:33:00.235058
 url: "/cdr-researcher-census/researchers/sanna-lotjonen-a5085983/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Offset ratios and temporary contract designs for climate integrity in carbon farming** (2024)
-   3 citations · General CDR
+   4 citations · General CDR
 
 ## External Profiles
 

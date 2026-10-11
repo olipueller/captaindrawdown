@@ -1,7 +1,7 @@
 ---
 title: "Murilo de Souza"
 description: "Murilo de Souza is a Senior Soil Carbon researcher at Universidade Estadual Paulista (Unesp) in BR. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.094946
+date: 2026-10-11T02:33:00.125588
 url: "/cdr-researcher-census/researchers/murilo-de-souza-a5113796/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon Use Efficiency in the Soil Profile: The Role of Soil Acidity Alleviation, Nitrogen, and Phosphorus Availability** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

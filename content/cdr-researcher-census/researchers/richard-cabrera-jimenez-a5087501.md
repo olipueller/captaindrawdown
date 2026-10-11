@@ -1,7 +1,7 @@
 ---
 title: "Richard Cabrera-Jiménez"
 description: "Richard Cabrera-Jiménez is an Early-career General CDR researcher. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.207552
+date: 2026-10-11T02:33:00.237411
 url: "/cdr-researcher-census/researchers/richard-cabrera-jimenez-a5087501/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -49,15 +49,18 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    13 citations · DAC
 
 2. **Assessing Pathways to Carbon Neutrality in the Ceramic Sector: A Prospective Life Cycle Assessment under Energy System Projections and Technology Scenarios** (2025)
-   1 citations · General CDR
+   2 citations · General CDR
 
-3. **Assessing Pathways to Carbon Neutrality in the Ceramic Sector: A Prospective Life Cycle Assessment under Energy System Projections and Technology Scenarios** (2026)
-   0 citations
+3. **Biochar-Enhanced Geopolymers from Construction and Demolition Waste: Toward Carbon-Negative Construction Materials** (2026)
+   0 citations · Biochar
 
-4. **Dataset: The implications of microalgae biofuel production for the heavy-duty transport sector under planetary boundary perspective** (2023)
+4. **Assessing Pathways to Carbon Neutrality in the Ceramic Sector: A Prospective Life Cycle Assessment under Energy System Projections and Technology Scenarios** (2026)
    0 citations
 
 5. **Dataset: The implications of microalgae biofuel production for the heavy-duty transport sector under planetary boundary perspective** (2023)
+   0 citations
+
+6. **Dataset: The implications of microalgae biofuel production for the heavy-duty transport sector under planetary boundary perspective** (2023)
    0 citations · DAC
 
 ## External Profiles

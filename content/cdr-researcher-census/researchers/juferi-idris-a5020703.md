@@ -1,7 +1,7 @@
 ---
 title: "Juferi Idris"
 description: "Juferi Idris is a Senior Biochar researcher at Universiti Teknologi MARA - Kampus Sarawak in MY. With 74 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.226233
+date: 2026-10-11T02:32:59.229485
 url: "/cdr-researcher-census/researchers/juferi-idris-a5020703/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Coconut shell and husk biochar: A review of production and activation technology, economic, financial aspect and application** (2022)
-   166 citations · Biochar
+   167 citations · Biochar
 
 2. **Production of nanopore structure bio-adsorbent from wood waste through a self-sustained carbonization process for landfill leachate treatment** (2022)
    21 citations · Biochar
@@ -59,7 +59,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 3. **Economic evaluation of woodchip-derived bio-adsorbent production: a case study using a self-sustained pilot-scale pool-type carbonization reactor** (2025)
    5 citations · Biochar
 
-4. **Ammoniacal Nitrogen Removal via Dendrocalamus Asper Biochar-Activated Carbon** (2025)
+4. **High surface area bamboo biochar production using a stainless-steel reactor enclosed with clay bricks** (2026)
+   0 citations · Biochar
+
+5. **Ammoniacal Nitrogen Removal via Dendrocalamus Asper Biochar-Activated Carbon** (2025)
    0 citations · Biochar
 
 ## External Profiles

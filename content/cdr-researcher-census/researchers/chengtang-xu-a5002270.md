@@ -1,7 +1,7 @@
 ---
 title: "Cheng‐Tang Xu"
 description: "Cheng‐Tang Xu is an Early-career Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.119130
+date: 2026-10-11T02:33:00.149717
 url: "/cdr-researcher-census/researchers/chengtang-xu-a5002270/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Strategic tillage achieves lower carbon footprints with higher carbon accumulation and grain yield in a wheat-maize cropping system** (2021)
-   59 citations · Soil Carbon
+   58 citations · Soil Carbon
 
 2. **Effects of conservation tillage on crop yield and soil organic carbon in Northeast China** (2021)
    0 citations · Soil Carbon

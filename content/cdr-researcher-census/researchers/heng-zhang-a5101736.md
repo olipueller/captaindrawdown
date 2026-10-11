@@ -1,7 +1,7 @@
 ---
 title: "Heng Zhang"
 description: "Heng Zhang is a Senior Soil Carbon researcher at University of Chinese Academy of Sciences in CN. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.441470
+date: 2026-10-11T02:32:59.451596
 url: "/cdr-researcher-census/researchers/heng-zhang-a5101736/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Depth-dependent effects of vegetation restoration on soil quality in ion-adsorbed rare earth leach residues: Insights from soil functions** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

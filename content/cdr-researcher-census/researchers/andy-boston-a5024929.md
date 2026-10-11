@@ -1,7 +1,7 @@
 ---
 title: "Andy Boston"
 description: "Andy Boston is a Senior General CDR researcher. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.055662
+date: 2026-10-11T02:32:59.059841
 url: "/cdr-researcher-census/researchers/andy-boston-a5024929/"
 layout: "researcher"
 hiddenInHomeList: true

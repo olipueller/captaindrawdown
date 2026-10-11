@@ -1,7 +1,7 @@
 ---
 title: "Huaqing Xiao"
 description: "Huaqing Xiao is a Senior Biochar researcher at Hubei Engineering University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.419698
+date: 2026-10-11T02:32:59.429726
 url: "/cdr-researcher-census/researchers/huaqing-xiao-a5060819/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhanced adsorption of bisphenol A in using N-doped biochar from corn kernel wastes via multiple adsorption sites** (2025)
-   18 citations · Biochar
+   20 citations · Biochar
 
 ## External Profiles
 

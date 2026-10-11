@@ -1,7 +1,7 @@
 ---
 title: "Udaya C. Kalluri"
 description: "Udaya C. Kalluri is a Senior Soil Carbon researcher at Oak Ridge National Laboratory in US. With 94 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.034411
+date: 2026-10-11T02:32:59.037529
 url: "/cdr-researcher-census/researchers/udaya-c-kalluri-a5085304/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,20 +50,20 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Bioenergy Underground: Challenges and opportunities for phenotyping roots and the microbiome for sustainable bioenergy crop production** (2022)
-   24 citations · BECCS
+1. **Rapid in situ nutrient element distribution in plants and soils using laser-induced breakdown spectroscopy (LIBS)** (2023)
+   23 citations
 
-2. **Rapid in situ nutrient element distribution in plants and soils using laser-induced breakdown spectroscopy (LIBS)** (2023)
-   22 citations
+2. **Bioenergy Underground: Challenges and opportunities for phenotyping roots and the microbiome for sustainable bioenergy crop production** (2022)
+   20 citations · BECCS
 
 3. **Biological Parts for Plant Biodesign to Enhance Land-Based Carbon Dioxide Removal** (2021)
-   16 citations · General CDR
+   17 citations · General CDR
 
-4. **Intraspecific variability in plant and soil chemical properties in a common garden plantation of the energy crop Populus** (2024)
+4. **Which Plant Traits Increase Soil Carbon Sequestration? Empirical Evidence From a Long‐Term Poplar Genetic Diversity Trial** (2025)
+   5 citations · General CDR
+
+5. **Intraspecific variability in plant and soil chemical properties in a common garden plantation of the energy crop Populus** (2024)
    5 citations · BECCS
-
-5. **Which Plant Traits Increase Soil Carbon Sequestration? Empirical Evidence From a Long‐Term Poplar Genetic Diversity Trial** (2025)
-   4 citations · General CDR
 
 6. **Which plant traits increase soil carbon sequestration? Empirical evidence from a long-term poplar genetic diversity trial** (2025)
    0 citations

@@ -1,7 +1,7 @@
 ---
 title: "Adam F. A. Pellegrini"
 description: "Adam F. A. Pellegrini is a Senior Soil Carbon researcher at University of Cambridge in GB. With 102 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.034538
+date: 2026-10-11T02:32:59.037649
 url: "/cdr-researcher-census/researchers/adam-f-a-pellegrini-a5090708/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Global stocks and capacity of mineral-associated soil organic carbon** (2022)
-   921 citations · Soil Carbon
+   943 citations · Soil Carbon
 
 2. **Soil organic carbon is buffered by grass inputs regardless of woody cover or fire frequency in an African savanna** (2023)
    19 citations · Soil Carbon
 
-3. **Persistence and potential of soil organic carbon in nature‐based climate solutions: A review of managed disturbances** (2026)
-   2 citations · Soil Carbon
+3. **Sustainable agriculture creates management trade-offs, not conflicts, between crop productivity and soil carbon storage goals** (2026)
+   4 citations · Soil Carbon
 
-4. **Sustainable agriculture creates management trade-offs, not conflicts, between crop productivity and soil carbon storage goals** (2026)
-   2 citations · Soil Carbon
+4. **Persistence and potential of soil organic carbon in nature‐based climate solutions: A review of managed disturbances** (2026)
+   3 citations · Soil Carbon
 
 5. **Assessing the net climate benefits of improved grazing intensity in global rangelands** (2026)
-   0 citations
+   2 citations
 
 6. **Identifying win-win opportunities and trade-offs for sustainable agriculture to improve agricultural productivity and soil carbon sequestration: A global meta-analysis** (2025)
    0 citations · General CDR

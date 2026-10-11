@@ -1,7 +1,7 @@
 ---
 title: "Guoli Dong"
 description: "Guoli Dong is a Senior Biochar researcher at Kunming University of Science and Technology in CN. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.401868
+date: 2026-10-11T02:33:00.439875
 url: "/cdr-researcher-census/researchers/guoli-dong-a5090299/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Turning nitrogen vacancy and chemisorption sites by co-doping Na and N into cow dung biochar ultrathin nanosheets for removal of oxytetracycline** (2025)
-   9 citations · Biochar
+   11 citations · Biochar
 
 ## External Profiles
 

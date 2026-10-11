@@ -1,7 +1,7 @@
 ---
 title: "Friedrich Fink"
 description: "Friedrich Fink is a Senior Biochar researcher at Federal Institute For Materials Research and Testing in DE. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.188850
+date: 2026-10-11T02:33:00.218995
 url: "/cdr-researcher-census/researchers/friedrich-fink-a5052698/"
 layout: "researcher"
 hiddenInHomeList: true

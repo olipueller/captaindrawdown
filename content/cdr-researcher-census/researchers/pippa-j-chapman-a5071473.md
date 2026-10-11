@@ -1,7 +1,7 @@
 ---
 title: "Pippa J. Chapman"
 description: "Pippa J. Chapman is an Eminent Soil Carbon researcher at University of Leeds in GB. With 206 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.037997
+date: 2026-10-11T02:32:59.041095
 url: "/cdr-researcher-census/researchers/pippa-j-chapman-a5071473/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil carbon sequestration potential of planting hedgerows in agricultural landscapes** (2022)
-   61 citations · Soil Carbon
+   64 citations · Soil Carbon
 
-2. **Soil macroaggregation drives sequestration of organic carbon and nitrogen with three-year grass-clover leys in arable rotations** (2022)
-   42 citations · Soil Carbon
+2. **Soil quality regeneration by grass-clover leys in arable rotations compared to permanent grassland: Effects on wheat yield and resilience to drought and flooding** (2021)
+   41 citations · Soil Carbon
 
-3. **Soil quality regeneration by grass-clover leys in arable rotations compared to permanent grassland: Effects on wheat yield and resilience to drought and flooding** (2021)
-   42 citations · Soil Carbon
+3. **Soil macroaggregation drives sequestration of organic carbon and nitrogen with three-year grass-clover leys in arable rotations** (2022)
+   40 citations · Soil Carbon
 
 4. **The emerging global agricultural soil carbon market: the case for reconciling farmers’ expectations with the demands of the market** (2023)
    25 citations · General CDR
@@ -69,10 +69,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 7. **The role of information in shaping the emerging agricultural soil carbon market** (2025)
-   4 citations · General CDR
+   5 citations · General CDR
 
 8. **Factors affecting the net ecosystem productivity of agroecosystems on mineral soils: a meta-analysis** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 9. **Maize grown for bioenergy on peat emits twice as much carbon as when grown on mineral soil** (2024)
    3 citations · BECCS

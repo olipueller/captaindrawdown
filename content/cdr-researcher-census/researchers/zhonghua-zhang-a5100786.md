@@ -1,7 +1,7 @@
 ---
 title: "Zhonghua Zhang"
-description: "Zhonghua Zhang is a Senior Soil Carbon researcher at Northeast Forestry University in CN. With 70 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.176950
+description: "Zhonghua Zhang is a Mid-career General CDR researcher at Chinese Academy of Sciences in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:32:59.691172
 url: "/cdr-researcher-census/researchers/zhonghua-zhang-a5100786/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,11 +16,11 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/zhonghua-zhang-a5100786/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Northeast Forestry University"
+    "name": "Chinese Academy of Sciences"
   },
   "sameAs": [
-    "https://orcid.org/0000-0002-6256-419X",
-    "https://openalex.org/A5100786614"
+    "https://orcid.org/0000-0002-1270-7033",
+    "https://openalex.org/A5100786612"
   ]
 }
 </script>
@@ -28,44 +28,35 @@ robots: "index, follow"
 ## Profile
 
 **Zhonghua Zhang**  
-Northeast Forestry University · 🇨🇳 CN
+Chinese Academy of Sciences · 🇨🇳 CN
 
-**Career Stage:** Senior
+**Career Stage:** Mid-career
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
 | Metric | Value |
 |--------|-------|
-| h-index | 20 |
-| Citations | 1,445 |
-| Publications | 70 |
-| CDR Focus | 5.7% |
-| Trajectory | Declining |
+| h-index | 7 |
+| Citations | 326 |
+| Publications | 13 |
+| CDR Focus | 7.7% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Tree diversity and arbuscular mycorrhizal trees increase soil carbon sequestration and stability in 1-m soils as regulated by microbial CAZymes-coworking in high-latitude Northern Hemisphere forests** (2023)
-   16 citations · Soil Carbon
-
-2. **Tree growth and density enhanced, while diversity and spatial clustering reduced soil mycorrhizal C and N sequestration: Strong interaction with soil properties in northeastern China** (2023)
-   12 citations · Soil Carbon
-
-3. **Tree diversity-related soil P accumulation in high latitude temperate forests of China is regulated by soil C and N amounts as well as microbial network and denitrification genes** (2025)
-   3 citations · Soil Carbon
-
-4. **Importance Values of Mycorrhizal Fungal Types and Species Diversity Driving Variations in Fungi- and Bacteria-Derived Residues in Planted Forests in Northeast China** (2023)
-   2 citations · Soil Carbon
+1. **Social–Ecological Factors and Ecosystem Service Trade-Offs/Synergies in Vegetation Change Zones of Qilian Mountain National Park During 2000–2020** (2025)
+   7 citations · General CDR
 
 ## External Profiles
 
-- [ORCID](https://orcid.org/0000-0002-6256-419X)
-- [OpenAlex](https://openalex.org/A5100786614)
+- [ORCID](https://orcid.org/0000-0002-1270-7033)
+- [OpenAlex](https://openalex.org/A5100786612)
 
 ---
 

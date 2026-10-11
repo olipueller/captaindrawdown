@@ -1,7 +1,7 @@
 ---
 title: "Cory Sanderson"
 description: "Cory Sanderson is an Early-career DAC researcher. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.378737
+date: 2026-10-11T02:33:00.414562
 url: "/cdr-researcher-census/researchers/cory-sanderson-a5061964/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Dual function materials (Ru+Na2O/Al2O3) for direct air capture of CO2 and in situ catalytic methanation: The impact of realistic ambient conditions** (2021)
-   103 citations
+   108 citations
 
 2. **Colorado (Pueblo) Regional Direct Air Capture (DAC) Hub** (2025)
    0 citations · DAC

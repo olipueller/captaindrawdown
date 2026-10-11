@@ -1,7 +1,7 @@
 ---
 title: "Carmen Van Mechelen"
 description: "Carmen Van Mechelen is a Senior Soil Carbon researcher at European Renewable Energy Council in BE. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.300730
+date: 2026-10-11T02:32:59.305889
 url: "/cdr-researcher-census/researchers/carmen-van-mechelen-a5064959/"
 layout: "researcher"
 hiddenInHomeList: true

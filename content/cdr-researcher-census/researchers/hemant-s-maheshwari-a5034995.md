@@ -1,7 +1,7 @@
 ---
 title: "Hemant S. Maheshwari"
 description: "Hemant S. Maheshwari is a Senior Soil Carbon researcher at University of Groningen in NL. With 67 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.387434
+date: 2026-10-11T02:32:59.395266
 url: "/cdr-researcher-census/researchers/hemant-s-maheshwari-a5034995/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Enhanced soil carbon storage and arbuscular mycorrhizal fungal biomass in a long-term nutrient management under soybean-based cropping system** (2024)
-   3 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 2. **Enhanced soil carbon storage by arbuscular mycorrhizal fungi in a long-term nutrient management under soybean-based cropping system** (2024)
    2 citations · Soil Carbon

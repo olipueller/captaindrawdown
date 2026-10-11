@@ -1,7 +1,7 @@
 ---
 title: "Taotao Chen"
 description: "Taotao Chen is a Senior Biochar researcher at Shenyang Agricultural University in CN. With 132 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.058272
+date: 2026-10-11T02:32:59.062610
 url: "/cdr-researcher-census/researchers/taotao-chen-a5075507/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,20 +50,20 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Top CDR Publications
 
-1. **Soil carbon sequestration increment and carbon-negative emissions in alternate wetting and drying paddy ecosystems through biochar incorporation** (2024)
-   23 citations · Biochar
+1. **Biochar incorporation increases grain yield, net ecosystem CO2 exchange, and decreases CH4 emissions in an alternate wetting and drying paddy ecosystem** (2024)
+   24 citations · Biochar
 
-2. **Biochar incorporation increases grain yield, net ecosystem CO2 exchange, and decreases CH4 emissions in an alternate wetting and drying paddy ecosystem** (2024)
+2. **Soil carbon sequestration increment and carbon-negative emissions in alternate wetting and drying paddy ecosystems through biochar incorporation** (2024)
    23 citations · Biochar
 
 3. **Effect of acid-modified biochar coupled with alternate wetting and drying on P leaching, soil P retention and plant P uptake in paddy fields** (2023)
    17 citations · Biochar
 
 4. **Biochar decreased N loss from paddy ecosystem under alternate wetting and drying in the Lower Liaohe River Plain, China** (2024)
-   12 citations · Biochar
+   13 citations · Biochar
 
 5. **Biochar Makes Soil Organic Carbon More Labile, but Its Carbon Sequestration Potential Remains Large in an Alternate Wetting and Drying Paddy Ecosystem** (2025)
-   6 citations · Biochar
+   7 citations · Biochar
 
 6. **How alternate wetting and drying irrigation drives carbon reduction in rice-crab cocultural ecosystem: A quantitative assessment** (2026)
    1 citations

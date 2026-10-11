@@ -1,7 +1,7 @@
 ---
 title: "Shirong Zhang"
 description: "Shirong Zhang is a Senior Soil Carbon researcher at Kunming University of Science and Technology in CN. With 71 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.129610
+date: 2026-10-11T02:32:59.134376
 url: "/cdr-researcher-census/researchers/shirong-zhang-a5101569/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    118 citations · Soil Carbon
 
 2. **Straw incorporation and nitrogen fertilization enhance soil carbon sequestration by altering soil aggregate and microbial community composition in saline-alkali soil** (2023)
-   34 citations · Soil Carbon
+   37 citations · Soil Carbon
 
 3. **Response of soil organic carbon stability and sequestration to long-term phosphorus application: insight from a 9-year field experiment in saline alkaline paddy soil** (2023)
    15 citations · Soil Carbon
@@ -65,7 +65,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Potential effects of laccase on the formation and accumulation of Fe-OM complexes in coastal saline paddy soil under straw and nitrogen fertilization** (2022)
    2 citations · Soil Carbon
 
-6. **Mineral‑fungal interactions in response to biochar amendment: implications for carbon storage in saline-alkali soil** (2025)
+6. **Synergistic straw incorporation and reduced nitrogen application enhance soil carbon sequestration in saline soils** (2026)
+   0 citations · Soil Carbon
+
+7. **Mineral‑fungal interactions in response to biochar amendment: implications for carbon storage in saline-alkali soil** (2025)
    0 citations · Biochar
 
 ## External Profiles

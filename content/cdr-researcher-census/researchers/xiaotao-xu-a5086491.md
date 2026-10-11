@@ -1,7 +1,7 @@
 ---
 title: "Xiaotao Xu"
 description: "Xiaotao Xu is a Mid-career Enhanced Weathering researcher at China National Administration of Coal Geology in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.669115
+date: 2026-10-11T02:32:59.688767
 url: "/cdr-researcher-census/researchers/xiaotao-xu-a5086491/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,6 +57,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    1 citations
 
 3. **Terrestrial expression of the Jenkyns Event: Integrated records from the Eastern Tethys, China** (2026)
+   0 citations
+
+4. **Two-step intensification of continental chemical weathering during the Triassic–Jurassic transition linked to CAMP emplacement** (2026)
    0 citations
 
 ## External Profiles

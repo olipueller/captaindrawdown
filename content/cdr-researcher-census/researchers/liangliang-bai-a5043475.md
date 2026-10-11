@@ -1,7 +1,7 @@
 ---
 title: "Liangliang Bai"
 description: "Liangliang Bai is a Senior Biochar researcher at Mudanjiang Medical University in CN. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.218979
+date: 2026-10-11T02:33:00.249305
 url: "/cdr-researcher-census/researchers/liangliang-bai-a5043475/"
 layout: "researcher"
 hiddenInHomeList: true

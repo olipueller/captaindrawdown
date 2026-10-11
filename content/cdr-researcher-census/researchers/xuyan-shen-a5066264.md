@@ -1,7 +1,7 @@
 ---
 title: "Xuyan Shen"
 description: "Xuyan Shen is a Mid-career Biochar researcher at Southeast University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.636766
+date: 2026-10-11T02:32:59.655295
 url: "/cdr-researcher-census/researchers/xuyan-shen-a5066264/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhancing carbonation degree of full solid waste blocks with biochar while maintaining acceptable strength** (2025)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Gaffer Ahmed"
 description: "Gaffer Ahmed is a Mid-career Biochar researcher at Indian Institute of Technology Guwahati in IN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.097614
+date: 2026-10-11T02:33:00.128345
 url: "/cdr-researcher-census/researchers/gaffer-ahmed-a5102822/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synergistic effects on properties of biofuel and biochar produced through co-feed pyrolysis of Erythrina indica and Azadirachta indica biomass** (2024)
-   9 citations · Biochar
+   10 citations · Biochar
 
 ## External Profiles
 

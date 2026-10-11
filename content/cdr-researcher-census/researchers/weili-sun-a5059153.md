@@ -1,7 +1,7 @@
 ---
 title: "Weili Sun"
 description: "Weili Sun is a Mid-career Soil Carbon researcher at Qingdao Agricultural University in CN. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.423445
+date: 2026-10-11T02:32:59.433495
 url: "/cdr-researcher-census/researchers/weili-sun-a5059153/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Appropriate fertilization increases carbon and nitrogen sequestration and economic benefit for straw-incorporated upland farming** (2024)
-   38 citations · Soil Carbon
+   40 citations · Soil Carbon
 
 2. **Straw-derived biochar optimizes water consumption, shoot and root characteristics to improve water productivity of maize under reduced nitrogen** (2024)
    12 citations · Biochar

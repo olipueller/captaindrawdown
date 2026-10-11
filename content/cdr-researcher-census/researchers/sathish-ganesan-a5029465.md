@@ -1,7 +1,7 @@
 ---
 title: "Sathish Ganesan"
 description: "Sathish Ganesan is a Mid-career Biochar researcher at Central Leather Research Institute in IN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.318451
+date: 2026-10-11T02:33:00.350286
 url: "/cdr-researcher-census/researchers/sathish-ganesan-a5029465/"
 layout: "researcher"
 hiddenInHomeList: true

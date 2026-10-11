@@ -1,7 +1,7 @@
 ---
 title: "Waqar Ashiq"
 description: "Waqar Ashiq is a Mid-career Soil Carbon researcher at University of Guelph in CA. With 19 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.473114
+date: 2026-10-11T02:32:59.484228
 url: "/cdr-researcher-census/researchers/waqar-ashiq-a5078040/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Short-Term Carbon Sequestration and Changes of Soil Organic Carbon Pools in Rice under Integrated Nutrient Management in India** (2021)
-   30 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 ## External Profiles
 

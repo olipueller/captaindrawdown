@@ -1,7 +1,7 @@
 ---
 title: "Carla Canals-Batlle"
 description: "Carla Canals-Batlle is a Senior Biochar researcher at Universitat de Girona in ES. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.170997
+date: 2026-10-11T02:33:00.200625
 url: "/cdr-researcher-census/researchers/carla-canals-batlle-a5048794/"
 layout: "researcher"
 hiddenInHomeList: true

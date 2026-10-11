@@ -1,7 +1,7 @@
 ---
 title: "Shuina Dang"
 description: "Shuina Dang is a Mid-career Soil Carbon researcher at Baoji University of Arts and Sciences in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.091681
+date: 2026-10-11T02:33:00.122285
 url: "/cdr-researcher-census/researchers/shuina-dang-a5112587/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The effects of straw return and tillage depth on soil respiration and soil organic carbon: Implications for improving the sustainability of agro-ecosystems in China** (2025)
-   27 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 2. **[Effects of Tillage and Straw Return on the Distribution of Soil Aggregates and Integration of Organic Carbon in Farmland Soil].** (2025)
    1 citations · Soil Carbon

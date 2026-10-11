@@ -1,7 +1,7 @@
 ---
 title: "Kriti Shrivastava"
 description: "Kriti Shrivastava is a Mid-career Biochar researcher at Gyan Vihar University in IN. With 30 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.728342
+date: 2026-10-11T02:32:59.749671
 url: "/cdr-researcher-census/researchers/kriti-shrivastava-a5103271/"
 layout: "researcher"
 hiddenInHomeList: true

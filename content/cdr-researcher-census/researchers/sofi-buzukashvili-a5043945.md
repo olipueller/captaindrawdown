@@ -1,7 +1,7 @@
 ---
 title: "Sofi Buzukashvili"
 description: "Sofi Buzukashvili is an Early-career DAC researcher at McGill University in CA. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.295176
+date: 2026-10-11T02:33:00.325263
 url: "/cdr-researcher-census/researchers/sofi-buzukashvili-a5043945/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Zeolites for CO2 capture – An overview** (2026)
-   4 citations · DAC
+   5 citations · DAC
 
 ## External Profiles
 

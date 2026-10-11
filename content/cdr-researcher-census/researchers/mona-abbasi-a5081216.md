@@ -1,7 +1,7 @@
 ---
 title: "Mona Abbasi"
 description: "Mona Abbasi is a Mid-career Soil Carbon researcher at Uppsala University in SE. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.059302
+date: 2026-10-11T02:33:00.089066
 url: "/cdr-researcher-census/researchers/mona-abbasi-a5081216/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Dissolved Organic Matter Composition and Mineral Characteristics both Control Adsorption Processes ** (2026)
+1. **Dissolved Organic Matter Composition and Mineral Characteristics Jointly Control Adsorption Processes** (2026)
+   0 citations
+
+2. **Dissolved Organic Matter Composition and Mineral Characteristics both Control Adsorption Processes ** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Ying Shen"
 description: "Ying Shen is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 34 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.319343
+date: 2026-10-11T02:32:59.325187
 url: "/cdr-researcher-census/researchers/ying-shen-a5101546/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    15 citations · Soil Carbon
 
 2. **Improvement of soil aggregate-associated carbon sequestration capacity after 14 years of conservation tillage** (2022)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 3. **Long-term conservation tillage and straw return affect thermal stability of soil organic matter** (2025)
    9 citations · Soil Carbon

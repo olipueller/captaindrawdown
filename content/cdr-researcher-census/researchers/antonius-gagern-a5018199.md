@@ -1,7 +1,7 @@
 ---
 title: "Antonius Gagern"
 description: "Antonius Gagern is a Mid-career Ocean CDR researcher. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.306885
+date: 2026-10-11T02:33:00.337792
 url: "/cdr-researcher-census/researchers/antonius-gagern-a5018199/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Ocean-Based Carbon Dioxide Removal: A New Frontier in the Blue Economy** (2022)
-   11 citations · General CDR
+   12 citations · General CDR
 
 ## External Profiles
 

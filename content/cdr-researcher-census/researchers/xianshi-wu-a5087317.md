@@ -1,7 +1,7 @@
 ---
 title: "Xianshi Wu"
 description: "Xianshi Wu is a Senior Soil Carbon researcher at Northwest Normal University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.558805
+date: 2026-10-11T02:32:59.574155
 url: "/cdr-researcher-census/researchers/xianshi-wu-a5087317/"
 layout: "researcher"
 hiddenInHomeList: true

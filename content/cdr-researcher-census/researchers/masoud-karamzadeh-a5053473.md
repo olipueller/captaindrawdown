@@ -1,7 +1,7 @@
 ---
 title: "Masoud Karamzadeh"
 description: "Masoud Karamzadeh is a Mid-career Biochar researcher at Iran University of Science and Technology in IR. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.218387
+date: 2026-10-11T02:33:00.248729
 url: "/cdr-researcher-census/researchers/masoud-karamzadeh-a5053473/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synthesis and characterization of cost-effective and high-efficiency biochar for the adsorption of Pb2+ from wastewater** (2023)
-   27 citations · Biochar
+   30 citations · Biochar
 
 ## External Profiles
 

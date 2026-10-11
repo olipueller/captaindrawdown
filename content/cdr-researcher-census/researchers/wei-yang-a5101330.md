@@ -1,7 +1,7 @@
 ---
 title: "Wei Yang"
 description: "Wei Yang is a Mid-career Biochar researcher at Yuncheng University in CN. With 33 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.256074
+date: 2026-10-11T02:33:00.286154
 url: "/cdr-researcher-census/researchers/wei-yang-a5101330/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Evaluation of net carbon sequestration and ecological benefits from single biochar-incorporated sorghum farmland systems in saline-alkali areas of Inner Mongolia, China** (2024)
-   26 citations · Biochar
+   28 citations · Biochar
 
 2. **Co-application of microalgae and biochar increases yield and mitigates greenhouse gas emissions in saline-alkali soil** (2025)
-   16 citations · Biochar
+   17 citations · Biochar
 
 3. **Biochar addition enhances annual carbon stocks and ecosystem carbon sink intensity in saline soils of the Hetao Irrigation District, Inner Mongolia** (2024)
    2 citations · Biochar

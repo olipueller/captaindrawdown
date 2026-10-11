@@ -1,7 +1,7 @@
 ---
 title: "Zheng Zhang"
 description: "Zheng Zhang is a Mid-career General CDR researcher at Dalian University of Technology in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.695867
+date: 2026-10-11T02:32:59.716492
 url: "/cdr-researcher-census/researchers/zheng-zhang-a5001679/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Tzu‐Hao Wang"
 description: "Tzu‐Hao Wang is a Mid-career Ocean CDR researcher at National Cheng Kung University in TW. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.288061
+date: 2026-10-11T02:33:00.318131
 url: "/cdr-researcher-census/researchers/tzuhao-wang-a5101893/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Janaki Imbulana Arachchi"
 description: "Janaki Imbulana Arachchi is a Mid-career General CDR researcher at Kyushu University in JP. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.959841
+date: 2026-10-11T02:32:59.991142
 url: "/cdr-researcher-census/researchers/janaki-imbulana-arachchi-a5021776/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Forest carbon removal potential and sustainable development in Japan** (2024)
-   14 citations · General CDR
+   15 citations · General CDR
 
 ## External Profiles
 

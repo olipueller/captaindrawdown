@@ -1,7 +1,7 @@
 ---
 title: "Patikorn Sriphirom"
 description: "Patikorn Sriphirom is a Mid-career Soil Carbon researcher at Silpakorn University in TH. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.441842
+date: 2026-10-11T02:32:59.451943
 url: "/cdr-researcher-census/researchers/patikorn-sriphirom-a5076214/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    37 citations · Biochar
 
 2. **The response of greenhouse gas emissions, crop yield, and soil health to water scarcity and biochar application in rice cultivation** (2024)
-   6 citations · Biochar
+   7 citations · Biochar
 
 3. **Impacts of long‐term tillage and fertilization on soil carbon stock and aggregate stability in tropical agriculture** (2025)
    1 citations · Soil Carbon

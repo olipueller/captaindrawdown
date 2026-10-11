@@ -1,7 +1,7 @@
 ---
 title: "Jacob V. Spertus"
 description: "Jacob V. Spertus is a Mid-career Soil Carbon researcher at University of California, Berkeley in US. With 27 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.818605
+date: 2026-10-11T02:32:59.843265
 url: "/cdr-researcher-census/researchers/jacob-v-spertus-a5038708/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Valid inferences about soil carbon in heterogeneous landscapes** (2023)
-   89 citations
+   92 citations
 
 2. **Optimal Sampling and Assay for Estimating Soil Organic Carbon** (2021)
-   10 citations · General CDR
+   9 citations · General CDR
 
 3. **Valid Inferences About Soil Carbon in Heterogeneous Landscapes** (2022)
    5 citations · Soil Carbon

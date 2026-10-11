@@ -1,7 +1,7 @@
 ---
 title: "Nai-Xin Zhang"
 description: "Nai-Xin Zhang is a Mid-career Biochar researcher at Guiyang College of Traditional Chinese Medicine in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.391645
+date: 2026-10-11T02:33:00.429043
 url: "/cdr-researcher-census/researchers/nai-xin-zhang-a5022499/"
 layout: "researcher"
 hiddenInHomeList: true

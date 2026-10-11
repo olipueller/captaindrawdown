@@ -1,7 +1,7 @@
 ---
 title: "Zeyang Zhao"
 description: "Zeyang Zhao is a Mid-career Soil Carbon researcher at The University of Queensland in AU. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.131822
+date: 2026-10-11T02:33:00.162247
 url: "/cdr-researcher-census/researchers/zeyang-zhao-a5025549/"
 layout: "researcher"
 hiddenInHomeList: true

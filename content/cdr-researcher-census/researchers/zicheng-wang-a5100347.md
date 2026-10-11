@@ -1,7 +1,7 @@
 ---
 title: "Zicheng Wang"
 description: "Zicheng Wang is a Mid-career Soil Carbon researcher at Shenyang Agricultural University in CN. With 52 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.288815
+date: 2026-10-11T02:32:59.293110
 url: "/cdr-researcher-census/researchers/zicheng-wang-a5100347/"
 layout: "researcher"
 hiddenInHomeList: true

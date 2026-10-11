@@ -1,7 +1,7 @@
 ---
 title: "Fathin Ayuni Azizan"
 description: "Fathin Ayuni Azizan is a Mid-career Biochar researcher at Universiti Malaysia Perlis in MY. With 35 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.810554
+date: 2026-10-11T02:32:59.835688
 url: "/cdr-researcher-census/researchers/fathin-ayuni-azizan-a5062069/"
 layout: "researcher"
 hiddenInHomeList: true

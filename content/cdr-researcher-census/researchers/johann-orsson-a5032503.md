@@ -1,7 +1,7 @@
 ---
 title: "Jóhann Þórsson"
 description: "Jóhann Þórsson is a Senior Soil Carbon researcher. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.657812
+date: 2026-10-11T02:32:59.676690
 url: "/cdr-researcher-census/researchers/johann-orsson-a5032503/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil carbon stocks of regenerating Icelandic native birch woodlands: Effects of space and time** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 2. **Colloidal and Dust Controls of Soil Processes and Properties Associated with Birch Woodland Restoration in Icelandic Andisols** (2025)
    0 citations · Soil Carbon

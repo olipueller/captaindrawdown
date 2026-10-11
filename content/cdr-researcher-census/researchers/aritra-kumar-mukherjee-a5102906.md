@@ -1,7 +1,7 @@
 ---
 title: "Aritra Kumar Mukherjee"
 description: "Aritra Kumar Mukherjee is a Mid-career Soil Carbon researcher at Bidhan Chandra Krishi Viswavidyalaya in IN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.269467
+date: 2026-10-11T02:33:00.299419
 url: "/cdr-researcher-census/researchers/aritra-kumar-mukherjee-a5102906/"
 layout: "researcher"
 hiddenInHomeList: true

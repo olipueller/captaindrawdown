@@ -1,7 +1,7 @@
 ---
 title: "Xiaomeng Yin"
-description: "Xiaomeng Yin is a Senior Soil Carbon researcher at Center For Remote Sensing (United States) in US. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.949412
+description: "Xiaomeng Yin is a Mid-career Soil Carbon researcher at Hebei Normal University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-10-11T02:32:59.982354
 url: "/cdr-researcher-census/researchers/xiaomeng-yin-a5086636/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xiaomeng-yin-a5086636/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Center For Remote Sensing (United States)"
+    "name": "Hebei Normal University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-3990-1124",
@@ -28,9 +28,9 @@ robots: "index, follow"
 ## Profile
 
 **Xiaomeng Yin**  
-Center For Remote Sensing (United States) · 🇺🇸 US
+Hebei Normal University · 🇨🇳 CN
 
-**Career Stage:** Senior
+**Career Stage:** Mid-career
 
 ## CDR Specialization
 
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 8 |
-| Citations | 206 |
-| Publications | 18 |
-| CDR Focus | 5.6% |
+| h-index | 7 |
+| Citations | 205 |
+| Publications | 17 |
+| CDR Focus | 5.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

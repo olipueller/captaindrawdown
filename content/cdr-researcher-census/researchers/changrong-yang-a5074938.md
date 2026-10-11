@@ -1,7 +1,7 @@
 ---
 title: "Changrong Yang"
 description: "Changrong Yang is a Mid-career Soil Carbon researcher at Hunan Normal University in CN. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.139885
+date: 2026-10-11T02:33:00.170267
 url: "/cdr-researcher-census/researchers/changrong-yang-a5074938/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Sediment organic carbon dynamics response to land use change in diverse watershed anthropogenic activities** (2023)
-   37 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 ## External Profiles
 

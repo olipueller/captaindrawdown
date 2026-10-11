@@ -1,7 +1,7 @@
 ---
 title: "H Sridevi"
 description: "H Sridevi is a Mid-career Biochar researcher at Manipal Academy of Higher Education in IN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.526335
+date: 2026-10-11T02:32:59.540260
 url: "/cdr-researcher-census/researchers/h-sridevi-a5066953/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Recent advances in biochar from lignocellulosic and non-lignocellulosic feedstocks for heavy metal remediation** (2026)
-   1 citations · Biochar
+   6 citations · Biochar
 
 ## External Profiles
 

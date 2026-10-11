@@ -1,7 +1,7 @@
 ---
 title: "Marie‐Claire Aravena Acuña"
 description: "Marie‐Claire Aravena Acuña is a Mid-career Soil Carbon researcher at Consejo Nacional de Investigaciones Científicas y Técnicas in AR. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.580031
+date: 2026-10-11T02:32:59.595923
 url: "/cdr-researcher-census/researchers/marieclaire-aravena-acuna-a5032381/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Forest carbon management strategies influence storage compartmentalization in <i>Nothofagus antarctica</i> forest landscapes** (2023)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Ruichang Shen"
 description: "Ruichang Shen is a Mid-career Soil Carbon researcher at Nanchang University in CN. With 37 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.299273
+date: 2026-10-11T02:32:59.304358
 url: "/cdr-researcher-census/researchers/ruichang-shen-a5042459/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    35 citations · Soil Carbon
 
 2. **Microbial carbon use efficiency governs the accumulation of microbial-derived carbon in restored mangroves** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Xinyu Wu"
 description: "Xinyu Wu is a Mid-career Soil Carbon researcher at North China University of Water Resources and Electric Power in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.382611
+date: 2026-10-11T02:33:00.418520
 url: "/cdr-researcher-census/researchers/xinyu-wu-a5108778/"
 layout: "researcher"
 hiddenInHomeList: true

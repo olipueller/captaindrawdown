@@ -1,7 +1,7 @@
 ---
 title: "Biswajit Pramanick"
 description: "Biswajit Pramanick is a Senior Soil Carbon researcher at Dr. Rajendra Prasad Central Agriculture University in IN. With 125 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.123900
+date: 2026-10-11T02:32:59.128511
 url: "/cdr-researcher-census/researchers/biswajit-pramanick-a5005102/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    15 citations · General CDR
 
 3. **System productivity, soil carbon and nitrogen sequestration of intensive rice-based cropping systems can be improved through legume crop inclusion with appropriate fertilizer application and crop residues incorporation in the eastern Indo-Gangatic plain** (2023)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 4. **Long-Term Field and Horticultural Crops Intensification in Semiarid Regions Influence the Soil Physiobiochemical Properties and Nutrients Status** (2022)
    9 citations · Soil Carbon
@@ -71,7 +71,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 7. **An Overview of Soil Carbon Sequestration and Food Security in the Indian Himalayan Region** (2023)
    1 citations · General CDR
 
-8. **Diverse rice-based cropping systems and crop residue recycling with appropriate nutrient application influenced the system productivity, soil carbon and nitrogen sequestration in Inceptisols of eastern Indo-Gangatic plain** (2023)
+8. **Transforming rice cultivation through organic direct-seeded rice** (2025)
+   0 citations
+
+9. **Diverse rice-based cropping systems and crop residue recycling with appropriate nutrient application influenced the system productivity, soil carbon and nitrogen sequestration in Inceptisols of eastern Indo-Gangatic plain** (2023)
    0 citations · Soil Carbon
 
 ## External Profiles

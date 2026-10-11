@@ -1,7 +1,7 @@
 ---
 title: "Richard J. Lilley"
 description: "Richard J. Lilley is a Mid-career Ocean CDR researcher at University of Groningen in NL. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.549486
+date: 2026-10-11T02:32:59.564512
 url: "/cdr-researcher-census/researchers/richard-j-lilley-a5008541/"
 layout: "researcher"
 hiddenInHomeList: true

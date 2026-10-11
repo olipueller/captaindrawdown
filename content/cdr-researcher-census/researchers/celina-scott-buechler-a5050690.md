@@ -1,7 +1,7 @@
 ---
 title: "Celina Scott-Buechler"
 description: "Celina Scott-Buechler is a Mid-career General CDR researcher at Duke University in US. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.981498
+date: 2026-10-11T02:33:00.012743
 url: "/cdr-researcher-census/researchers/celina-scott-buechler-a5050690/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Communities conditionally support deployment of direct air capture for carbon dioxide removal in the United States** (2024)
-   33 citations · DAC
+   38 citations · DAC
 
 2. **Carbon removal for a just transition** (2024)
-   17 citations · General CDR
+   21 citations · General CDR
 
 3. **An earth system governance research agenda for carbon removal** (2024)
    12 citations · General CDR
 
-4. **Community perceptions of and preconditions for direct air capture in the U.S.** (2023)
+4. **Navigating uncertainty: direct air capture and just transition perspectives in Gulf Coast communities** (2025)
    4 citations · DAC
 
-5. **Navigating uncertainty: direct air capture and just transition perspectives in Gulf Coast communities** (2025)
-   2 citations · DAC
+5. **Community perceptions of and preconditions for direct air capture in the U.S.** (2023)
+   4 citations · DAC
 
 6. **Removing carbon, governing deployment: public perceptions of industry and community roles in U.S. carbon dioxide removal policy** (2026)
-   0 citations · General CDR
+   1 citations · General CDR
 
 7. **Replication Data for: Communities conditionally support deployment of direct air capture for carbon dioxide removal in the United States** (2023)
    0 citations · DAC

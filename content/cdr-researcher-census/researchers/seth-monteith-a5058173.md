@@ -1,7 +1,7 @@
 ---
 title: "Seth Monteith"
 description: "Seth Monteith is a Mid-career General CDR researcher at ClimateWorks Foundation in US. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.232832
+date: 2026-10-11T02:32:59.235965
 url: "/cdr-researcher-census/researchers/seth-monteith-a5058173/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Diverse carbon dioxide removal approaches could reduce impacts on the energy–water–land system** (2023)
-   202 citations · General CDR
+   199 citations · General CDR
 
 2. **Ambitious efforts on residual emissions can reduce CO<sub>2</sub> removal and lower peak temperatures in a net-zero future** (2024)
-   28 citations · General CDR
+   27 citations · General CDR
 
 3. **Mitigation benchmarks from the 2025 community update of global emissions pathways** (2026)
    1 citations · General CDR

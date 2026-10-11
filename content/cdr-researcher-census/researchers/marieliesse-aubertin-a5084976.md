@@ -1,7 +1,7 @@
 ---
 title: "Marie‐Liesse Aubertin"
 description: "Marie‐Liesse Aubertin is a Mid-career Biochar researcher at IFP Énergies nouvelles in FR. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.041450
+date: 2026-10-11T02:33:00.072364
 url: "/cdr-researcher-census/researchers/marieliesse-aubertin-a5084976/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **How does soil water status influence the fate of soil organic matter? A review of processes across scales** (2022)
-   84 citations
+   82 citations
 
 2. **Influence of biochar and compost and their interaction on carbon and nitrogen mineralization in a Saharan sandy soil** (2025)
    1 citations · Biochar

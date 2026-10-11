@@ -1,7 +1,7 @@
 ---
 title: "Hendrik Hänke"
 description: "Hendrik Hänke is a Mid-career Soil Carbon researcher at Georg-August-Universität Göttingen in DE. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.474269
+date: 2026-10-11T02:32:59.485445
 url: "/cdr-researcher-census/researchers/hendrik-hanke-a5028021/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hongyan Nan"
 description: "Hongyan Nan is a Senior Biochar researcher at Zhengzhou University in CN. With 46 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.118433
+date: 2026-10-11T02:32:59.123050
 url: "/cdr-researcher-census/researchers/hongyan-nan-a5103067/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Pyrolysis temperature-dependent carbon retention and stability of biochar with participation of calcium: Implications to carbon sequestration** (2021)
-   137 citations · Biochar
+   141 citations · Biochar
 
-2. **Minerals: A missing role for enhanced biochar carbon sequestration from the thermal conversion of biomass to the application in soil** (2022)
-   55 citations · Biochar
+2. **Unlocking the potential of element-doped biochar: from tailored synthesis to multifunctional applications in environment and energy** (2025)
+   56 citations · Biochar
 
-3. **Unlocking the potential of element-doped biochar: from tailored synthesis to multifunctional applications in environment and energy** (2025)
-   47 citations · Biochar
+3. **Minerals: A missing role for enhanced biochar carbon sequestration from the thermal conversion of biomass to the application in soil** (2022)
+   56 citations · Biochar
 
 4. **How does ball-milling elevate biochar as a value-added peroxydisulfate activator for antibiotics removal?** (2024)
-   47 citations · Biochar
+   48 citations · Biochar
 
 5. **New Insights into the Enhancement Effect of Exogenous Calcium on Biochar Stability during Its Aging in Farmland Soil** (2023)
-   4 citations
+   6 citations
 
 6. **Study of particle deposition of supercritical carbon dioxide in narrow rectangular heat exchange channel** (2025)
-   2 citations
+   3 citations
 
 7. **New Insights into the Enhancement Effect of Exogenous Calcium on Biochar Stability during Its Aging in Farmland Soil** (2023)
    2 citations · Biochar

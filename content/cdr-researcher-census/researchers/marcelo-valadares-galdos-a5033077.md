@@ -1,7 +1,7 @@
 ---
 title: "Marcelo Valadares Galdos"
 description: "Marcelo Valadares Galdos is a Senior Soil Carbon researcher at Earth Rover Program in GB. With 108 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.067271
+date: 2026-10-11T02:32:59.071801
 url: "/cdr-researcher-census/researchers/marcelo-valadares-galdos-a5033077/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Challenging claimed benefits of soil carbon sequestration for mitigating climate change and increasing crop yields: Heresy or sober realism?** (2023)
-   23 citations · General CDR
+   22 citations · General CDR
 
 2. **Predicting Long-Term Effects of Alternative Management Practices in Conventional and Organic Agricultural Systems on Soil Carbon Stocks Using the DayCent Model** (2023)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 3. **Climate change mitigation through soil carbon sequestration in working lands: A reality check** (2023)
    11 citations · General CDR
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    6 citations · Soil Carbon
 
 5. **Factors affecting the net ecosystem productivity of agroecosystems on mineral soils: a meta-analysis** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 6. **Maize grown for bioenergy on peat emits twice as much carbon as when grown on mineral soil** (2024)
    3 citations · BECCS

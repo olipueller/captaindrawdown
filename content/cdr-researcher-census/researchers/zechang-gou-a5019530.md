@@ -1,7 +1,7 @@
 ---
 title: "Zechang Gou"
 description: "Zechang Gou is an Early-career Soil Carbon researcher at Jilin University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.346818
+date: 2026-10-11T02:33:00.381981
 url: "/cdr-researcher-census/researchers/zechang-gou-a5019530/"
 layout: "researcher"
 hiddenInHomeList: true

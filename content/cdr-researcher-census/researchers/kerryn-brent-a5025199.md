@@ -1,7 +1,7 @@
 ---
 title: "Kerryn Brent"
 description: "Kerryn Brent is a Mid-career General CDR researcher at CSIRO Oceans and Atmosphere in AU. With 51 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.552885
+date: 2026-10-11T02:32:59.567833
 url: "/cdr-researcher-census/researchers/kerryn-brent-a5025199/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    66 citations · General CDR
 
 2. **Navigating stakeholder heterogeneity in carbon dioxide removal governance** (2025)
-   13 citations · General CDR
+   14 citations · General CDR
 
 3. **Hydrogen production in Australia from renewable energy: no doubt green and clean, but is it mean?** (2023)
    9 citations · BECCS
 
 4. **Stakeholders have knowledge priorities beyond local impacts for responsible marine-based carbon dioxide removal in Tasmania** (2025)
-   5 citations · General CDR
+   6 citations · General CDR
 
 5. **The potential of the BBNJ clearing house mechanism to enhance knowledge pluralism in marine carbon dioxide removal assessment** (2024)
    5 citations · General CDR
@@ -69,7 +69,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    4 citations · General CDR
 
 7. **Beyond environmental identity: Testing public support for novel carbon dioxide removal in Australia using structural modelling** (2025)
-   2 citations · DAC
+   3 citations · DAC
 
 8. **Stories of soil and sea: Comparing narratives of land- and marine-based carbon dioxide removal for responsible deployment** (2026)
    1 citations · Enhanced Weathering

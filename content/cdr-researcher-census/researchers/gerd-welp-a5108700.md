@@ -1,7 +1,7 @@
 ---
 title: "Gerd Welp"
 description: "Gerd Welp is a Mid-career Soil Carbon researcher at University of Bonn in DE. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.388610
+date: 2026-10-11T02:33:00.425465
 url: "/cdr-researcher-census/researchers/gerd-welp-a5108700/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Declining total carbon stocks in carbonate-containing agricultural soils over a 62-year recultivation chronosequence under humid conditions** (2022)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Oluchi Emenike"
 description: "Oluchi Emenike is a Mid-career BECCS researcher at Robert Gordon's College in GB. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.233837
+date: 2026-10-11T02:33:00.264195
 url: "/cdr-researcher-census/researchers/oluchi-emenike-a5079986/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Techno-economic and environmental assessment of BECCS in fuel generation for FT-fuel, bioSNG and OME<i>x</i>** (2021)
-   22 citations · BECCS
+   23 citations · BECCS
 
 ## External Profiles
 

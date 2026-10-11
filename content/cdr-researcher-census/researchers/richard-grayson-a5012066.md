@@ -1,7 +1,7 @@
 ---
 title: "Richard Grayson"
 description: "Richard Grayson is a Senior Soil Carbon researcher at University of Leeds in GB. With 66 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.129353
+date: 2026-10-11T02:32:59.134132
 url: "/cdr-researcher-census/researchers/richard-grayson-a5012066/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil carbon sequestration potential of planting hedgerows in agricultural landscapes** (2022)
-   61 citations · Soil Carbon
+   64 citations · Soil Carbon
 
 2. **Soil quality regeneration by grass-clover leys in arable rotations compared to permanent grassland: Effects on wheat yield and resilience to drought and flooding** (2021)
-   42 citations · Soil Carbon
+   41 citations · Soil Carbon
 
 3. **Planting hedgerows: Biomass carbon sequestration and contribution towards net-zero targets** (2023)
    20 citations · BECCS
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 5. **Factors affecting the net ecosystem productivity of agroecosystems on mineral soils: a meta-analysis** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 6. **Maize grown for bioenergy on peat emits twice as much carbon as when grown on mineral soil** (2024)
    3 citations · BECCS

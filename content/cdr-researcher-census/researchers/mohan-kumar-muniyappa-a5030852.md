@@ -1,7 +1,7 @@
 ---
 title: "Mohan Kumar Muniyappa"
 description: "Mohan Kumar Muniyappa is a Senior Soil Carbon researcher at Alliance University in IN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.531518
+date: 2026-10-11T02:32:59.545568
 url: "/cdr-researcher-census/researchers/mohan-kumar-muniyappa-a5030852/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Innovative Green Roof Materials for India: Synergizing Nature-Based Solutions and Sustainable Manufacturing for Climate-Responsive Cities** (2026)
-   0 citations
+   1 citations · Soil Carbon
 
 2. **Innovative Green Roof Materials for India: Synergizing Nature-Based Solutions and Sustainable Manufacturing for Climate-Responsive Cities** (2026)
-   0 citations · Soil Carbon
+   0 citations
 
 ## External Profiles
 

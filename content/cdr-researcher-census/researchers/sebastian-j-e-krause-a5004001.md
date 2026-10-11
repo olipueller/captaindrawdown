@@ -1,7 +1,7 @@
 ---
 title: "Sebastian J. E. Krause"
 description: "Sebastian J. E. Krause is a Mid-career Ocean CDR researcher at University of California, Santa Barbara in US. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.677507
+date: 2026-10-11T02:32:59.697084
 url: "/cdr-researcher-census/researchers/sebastian-j-e-krause-a5004001/"
 layout: "researcher"
 hiddenInHomeList: true

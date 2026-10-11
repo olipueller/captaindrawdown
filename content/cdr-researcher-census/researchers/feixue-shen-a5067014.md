@@ -1,7 +1,7 @@
 ---
 title: "Feixue Shen"
 description: "Feixue Shen is a Mid-career Soil Carbon researcher at Nanjing University in CN. With 24 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.207768
+date: 2026-10-11T02:32:59.211862
 url: "/cdr-researcher-census/researchers/feixue-shen-a5067014/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A review on digital mapping of soil carbon in cropland: progress, challenge, and prospect** (2022)
-   71 citations · General CDR
+   72 citations · General CDR
 
 2. **Spatio-temporal mapping reveals changes in soil organic carbon stocks across the contiguous United States since 1955** (2025)
    15 citations · Soil Carbon

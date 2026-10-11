@@ -1,7 +1,7 @@
 ---
 title: "Guozhu Chen"
 description: "Guozhu Chen is a Senior Soil Carbon researcher at Southwest Forestry University in CN. With 46 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.501091
+date: 2026-10-11T02:32:59.513589
 url: "/cdr-researcher-census/researchers/guozhu-chen-a5101634/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil microbial communities regulate the threshold effect of salinity stress on SOM decomposition in coastal salt marshes** (2023)
-   50 citations · Soil Carbon
+   52 citations · Soil Carbon
 
 2. **Effects of ecological restoration on carbon sink and carbon drawdown of degraded salt marshes with carbon‐rich additives application** (2022)
    17 citations · Biochar

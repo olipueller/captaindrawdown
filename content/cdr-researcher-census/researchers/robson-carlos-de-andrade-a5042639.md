@@ -1,7 +1,7 @@
 ---
 title: "Robson Carlos de Andrade"
 description: "Robson Carlos de Andrade is a Mid-career Biochar researcher at Mato Grosso do Sul State University in BR. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.808141
+date: 2026-10-11T02:32:59.833112
 url: "/cdr-researcher-census/researchers/robson-carlos-de-andrade-a5042639/"
 layout: "researcher"
 hiddenInHomeList: true

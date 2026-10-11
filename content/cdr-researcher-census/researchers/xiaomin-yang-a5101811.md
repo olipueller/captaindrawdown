@@ -1,7 +1,7 @@
 ---
 title: "Xiaomin Yang"
 description: "Xiaomin Yang is a Senior Soil Carbon researcher at Guizhou University in CN. With 56 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.174194
+date: 2026-10-11T02:32:59.178304
 url: "/cdr-researcher-census/researchers/xiaomin-yang-a5101811/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,19 +54,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    57 citations · Soil Carbon
 
 2. **Silicon in paddy fields: Benefits for rice production and the potential of rice phytoliths for biogeochemical carbon sequestration** (2024)
-   31 citations · General CDR
+   33 citations · General CDR
 
 3. **Organic matter composition and stability in estuarine wetlands depending on soil salinity** (2024)
-   23 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 4. **Specific PhytOC fractions in rice straw and consequent implications for potential of phytolith carbon sequestration in global paddy fields** (2022)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 5. **Distribution, Storage, and Factors Influencing Particulate and Mineral‐Associated Organic Matter in Paddy Soils** (2025)
    9 citations · Soil Carbon
 
 6. **The accumulation and carbon sequestration potential of biogenic silica in coastal salt marshes: Implications for relative sea-level rise** (2023)
    8 citations · Soil Carbon
+
+7. **Climate‐Linked Si‐Fe Dynamics and Their Associations With Soil Mineral‐Associated Organic Carbon** (2026)
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Xianzhen Luo"
 description: "Xianzhen Luo is a Mid-career Soil Carbon researcher at Harbin Institute of Technology in CN. With 74 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.135771
+date: 2026-10-11T02:32:59.140373
 url: "/cdr-researcher-census/researchers/xianzhen-luo-a5001491/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,25 +51,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Nitrogen availability mediates soil organic carbon cycling in response to phosphorus supply: A global meta-analysis** (2023)
-   66 citations · Soil Carbon
+   68 citations · Soil Carbon
 
 2. **Altered soil microbial properties and functions after afforestation increase soil carbon and nitrogen but not phosphorus accumulation** (2023)
-   55 citations · Soil Carbon
+   54 citations · Soil Carbon
 
 3. **Biochar rate-dependent regulation of extended nitrogen supply by modifying stable aggregates-N and microbial responses** (2023)
    27 citations · Biochar
 
 4. **Mechanisms of soil organic carbon stabilization and its response to conversion of primary natural broadleaf forests to secondary forests and plantation forests** (2024)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
-5. **Changes in the composition of soil microbial communities and their carbon‐cycle genes following the conversion of primary broadleaf forests to plantations and secondary forests** (2021)
+5. **Global Distribution and Influencing Factors of Plant‐Available Phosphorus in (Semi‐)Natural Soils** (2025)
    19 citations · Soil Carbon
 
-6. **Global Distribution and Influencing Factors of Plant‐Available Phosphorus in (Semi‐)Natural Soils** (2025)
-   18 citations · Soil Carbon
+6. **Changes in the composition of soil microbial communities and their carbon‐cycle genes following the conversion of primary broadleaf forests to plantations and secondary forests** (2021)
+   19 citations · Soil Carbon
 
 7. **Depth-dependent effects of vegetation restoration on soil quality in ion-adsorbed rare earth leach residues: Insights from soil functions** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 8. **Global change reshapes glomalin‐mediated soil carbon sequestration by influencing plant inputs** (2026)
    1 citations · Soil Carbon

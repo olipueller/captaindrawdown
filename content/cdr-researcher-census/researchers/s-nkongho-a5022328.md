@@ -1,7 +1,7 @@
 ---
 title: "S. Nkongho"
 description: "S. Nkongho is an Early-career General CDR researcher at Covenant University in NG. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.239019
+date: 2026-10-11T02:33:00.269301
 url: "/cdr-researcher-census/researchers/s-nkongho-a5022328/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Advanced techniques for the capturing and separation of CO2 – A review** (2022)
-   129 citations · General CDR
+   133 citations · General CDR
 
 ## External Profiles
 

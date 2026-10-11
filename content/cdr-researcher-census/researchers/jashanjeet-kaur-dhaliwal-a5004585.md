@@ -1,7 +1,7 @@
 ---
 title: "Jashanjeet Kaur Dhaliwal"
 description: "Jashanjeet Kaur Dhaliwal is a Senior Soil Carbon researcher at University of Tennessee Health Science Center in US. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.722798
+date: 2026-10-11T02:32:59.743925
 url: "/cdr-researcher-census/researchers/jashanjeet-kaur-dhaliwal-a5004585/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 3. **Long‐term cover cropping and nitrogen fertilization impacts on net global warming potential of continuous no‐till cotton cropping system** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

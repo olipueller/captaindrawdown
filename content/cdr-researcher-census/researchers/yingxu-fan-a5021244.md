@@ -1,7 +1,7 @@
 ---
 title: "Yingxu Fan"
 description: "Yingxu Fan is a Mid-career Soil Carbon researcher at Anshun University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.616478
+date: 2026-10-11T02:32:59.633888
 url: "/cdr-researcher-census/researchers/yingxu-fan-a5021244/"
 layout: "researcher"
 hiddenInHomeList: true

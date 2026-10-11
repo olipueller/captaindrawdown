@@ -1,7 +1,7 @@
 ---
 title: "Anna Daniela Malerba"
 description: "Anna Daniela Malerba is a Mid-career Biochar researcher at Agenzia Regionale per la Protezione dell'ambiente ligure in IT. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.732238
+date: 2026-10-11T02:32:59.753827
 url: "/cdr-researcher-census/researchers/anna-daniela-malerba-a5007422/"
 layout: "researcher"
 hiddenInHomeList: true

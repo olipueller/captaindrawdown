@@ -1,7 +1,7 @@
 ---
 title: "Guangyuan Cai"
 description: "Guangyuan Cai is a Mid-career Soil Carbon researcher at South China Agricultural University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.168335
+date: 2026-10-11T02:33:00.198103
 url: "/cdr-researcher-census/researchers/guangyuan-cai-a5067410/"
 layout: "researcher"
 hiddenInHomeList: true

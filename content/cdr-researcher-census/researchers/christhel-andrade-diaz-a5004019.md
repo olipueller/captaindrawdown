@@ -1,7 +1,7 @@
 ---
 title: "Christhel Andrade Díaz"
 description: "Christhel Andrade Díaz is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.087841
+date: 2026-10-11T02:33:00.118458
 url: "/cdr-researcher-census/researchers/christhel-andrade-diaz-a5004019/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,16 +57,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    1 citations
 
 3. **The crop residue conundrum: maintaining long-term soil organic carbon stocks while reinforcing the bioeconomy, compatible endeavors?** (2022)
+   1 citations
+
+4. **The crop residue conundrum: maintaining long-term soil organic carbon stocks while reinforcing the bioeconomy, compatible endeavors?** (2022)
    1 citations · Soil Carbon
 
-4. **Advancing soil carbon sequestration solutions: A decision-support tool for achieving net-zero goals** (2025)
+5. **Advancing soil carbon sequestration solutions: A decision-support tool for achieving net-zero goals** (2025)
    0 citations · General CDR
 
-5. **Dataset for Modelling the long-term carbon storage potential from recalcitrant matter inputs in tropical arable croplands** (2023)
+6. **Dataset for Modelling the long-term carbon storage potential from recalcitrant matter inputs in tropical arable croplands** (2023)
    0 citations · Soil Carbon
-
-6. **The crop residue conundrum: maintaining long-term soil organic carbon stocks while reinforcing the bioeconomy, compatible endeavors?** (2022)
-   0 citations
 
 ## External Profiles
 

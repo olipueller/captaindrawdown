@@ -1,7 +1,7 @@
 ---
 title: "Dapeng Gao"
 description: "Dapeng Gao is a Mid-career Soil Carbon researcher at Linyi University in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.732895
+date: 2026-10-11T02:32:59.754480
 url: "/cdr-researcher-census/researchers/dapeng-gao-a5088548/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Straw return alleviates the negative effects of saline sodic stress on rice by improving soil chemistry and reducing the accumulation of sodium ions in rice leaves** (2022)
-   50 citations · Soil Carbon
+   52 citations · Soil Carbon
 
 ## External Profiles
 

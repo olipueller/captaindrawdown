@@ -1,7 +1,7 @@
 ---
 title: "Petra Luláková"
 description: "Petra Luláková is a Mid-career Soil Carbon researcher at Sewanee: The University of the South in US. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.288229
+date: 2026-10-11T02:33:00.318290
 url: "/cdr-researcher-census/researchers/petra-lulakova-a5037395/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon Sequestration Related to Soil Physical and Chemical Properties in the High Arctic** (2021)
-   21 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 ## External Profiles
 

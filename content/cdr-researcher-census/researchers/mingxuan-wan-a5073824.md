@@ -1,7 +1,7 @@
 ---
 title: "Mingxuan Wan"
 description: "Mingxuan Wan is a Mid-career General CDR researcher at Pennsylvania State University in US. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.155082
+date: 2026-10-11T02:33:00.184840
 url: "/cdr-researcher-census/researchers/mingxuan-wan-a5073824/"
 layout: "researcher"
 hiddenInHomeList: true

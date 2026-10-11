@@ -1,7 +1,7 @@
 ---
 title: "Shaoying Lin"
 description: "Shaoying Lin is a Mid-career Soil Carbon researcher at Jiaying University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.034147
+date: 2026-10-11T02:33:00.065257
 url: "/cdr-researcher-census/researchers/shaoying-lin-a5101232/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    46 citations · Biochar
 
 2. **Combined slag and biochar amendments to subtropical paddy soils lead to a short-term change of bacteria community structure and rise of soil organic carbon** (2022)
-   32 citations · Biochar
+   33 citations · Biochar
 
 3. **Fertilizer reduction and biochar amendment promote soil mineral-associated organic carbon, bacterial activity, and enzyme activity in a jasmine garden in southeast China** (2024)
    23 citations · Biochar

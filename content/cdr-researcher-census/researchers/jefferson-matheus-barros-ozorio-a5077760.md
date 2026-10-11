@@ -1,7 +1,7 @@
 ---
 title: "Jefferson Matheus Barros Ozório"
 description: "Jefferson Matheus Barros Ozório is a Mid-career Soil Carbon researcher at European Union of Medical Specialists in BE. With 41 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.997371
+date: 2026-10-11T02:33:00.028262
 url: "/cdr-researcher-census/researchers/jefferson-matheus-barros-ozorio-a5077760/"
 layout: "researcher"
 hiddenInHomeList: true

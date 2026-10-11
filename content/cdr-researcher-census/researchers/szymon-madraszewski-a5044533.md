@@ -1,7 +1,7 @@
 ---
 title: "Szymon Mądraszewski"
 description: "Szymon Mądraszewski is a Mid-career Biochar researcher at Technische Universität Berlin in DE. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.864081
+date: 2026-10-11T02:32:59.890607
 url: "/cdr-researcher-census/researchers/szymon-madraszewski-a5044533/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A systematic experimental study on biochar-cementitious composites: Towards carbon sequestration** (2022)
-   92 citations · Biochar
+   99 citations · Biochar
 
 2. **Dataset for publication Sikora P., Woliński P., Chougan M., Madraszewski S., Węgrzyński W., Papis B.K., Federowicz K., Ghaffar S.H., Stephan D. A systematic experimental study on biochar-cementitious composites: Towards carbon sequestration. Industrial Crops and Products (2022) 184, 115103** (2023)
    0 citations

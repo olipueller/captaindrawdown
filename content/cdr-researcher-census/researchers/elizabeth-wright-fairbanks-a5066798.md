@@ -1,7 +1,7 @@
 ---
 title: "Elizabeth Wright-Fairbanks"
 description: "Elizabeth Wright-Fairbanks is a Mid-career Ocean CDR researcher at NOAA Ocean Acidification Program. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.271500
+date: 2026-10-11T02:33:00.301567
 url: "/cdr-researcher-census/researchers/elizabeth-wright-fairbanks-a5066798/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mohan Kc"
 description: "Mohan Kc is a Senior Soil Carbon researcher at University of Waikato in NZ. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.253847
+date: 2026-10-11T02:33:00.283590
 url: "/cdr-researcher-census/researchers/mohan-kc-a5078331/"
 layout: "researcher"
 hiddenInHomeList: true

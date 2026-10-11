@@ -1,7 +1,7 @@
 ---
 title: "Sha Md. Shahan Shahriar"
 description: "Sha Md. Shahan Shahriar is a Mid-career DAC researcher at University of Rajshahi in BD. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.981357
+date: 2026-10-11T02:33:00.012611
 url: "/cdr-researcher-census/researchers/sha-md-shahan-shahriar-a5059760/"
 layout: "researcher"
 hiddenInHomeList: true

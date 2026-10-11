@@ -1,7 +1,7 @@
 ---
 title: "Andreas Oschlies"
 description: "Andreas Oschlies is an Eminent Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 754 publications and an h-index of 76, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.016177
+date: 2026-10-11T02:32:59.019585
 url: "/cdr-researcher-census/researchers/andreas-oschlies-a5063745/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,34 +45,34 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 76 |
 | Citations | 26,578 |
 | Publications | 754 |
-| CDR Focus | 7.0% |
+| CDR Focus | 7.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbon dioxide removal via macroalgae open-ocean mariculture and sinking: an Earth system modeling study** (2023)
-   84 citations · Ocean CDR
+   103 citations · Ocean CDR
 
 2. **Climate targets, carbon dioxide removal, and the potential role of ocean alkalinity enhancement** (2023)
-   67 citations · General CDR
+   70 citations · General CDR
 
-3. **Perspectives and challenges of marine carbon dioxide removal** (2025)
-   44 citations · General CDR
+3. **Modelling considerations for research on ocean alkalinity enhancement (OAE)** (2023)
+   60 citations · General CDR
 
-4. **Modelling considerations for research on ocean alkalinity enhancement (OAE)** (2023)
+4. **Perspectives and challenges of marine carbon dioxide removal** (2025)
+   47 citations · General CDR
+
+5. **Misconceptions of the marine biological carbon pump in a changing climate: Thinking outside the “export” box** (2024)
    39 citations · General CDR
 
-5. **Framework for Assessing the Feasibility of Carbon Dioxide Removal Options Within the National Context of Germany** (2022)
-   38 citations · General CDR
-
-6. **Misconceptions of the marine biological carbon pump in a changing climate: Thinking outside the “export” box** (2024)
+6. **Framework for Assessing the Feasibility of Carbon Dioxide Removal Options Within the National Context of Germany** (2022)
    37 citations · General CDR
 
 7. **Carbon Dioxide Removal via Macroalgae Open-ocean Mariculture and Sinking: An Earth System Modeling Study** (2022)
    27 citations
 
 8. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2024)
-   24 citations · BECCS
+   25 citations · BECCS
 
 9. **Modeling considerations for research on Ocean Alkalinity Enhancement (OAE)** (2023)
    21 citations · General CDR

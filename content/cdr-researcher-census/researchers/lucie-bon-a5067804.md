@@ -1,7 +1,7 @@
 ---
 title: "Lucie Bon"
 description: "Lucie Bon is a Mid-career Soil Carbon researcher at Université de Bordeaux in FR. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.613381
+date: 2026-10-11T02:32:59.630791
 url: "/cdr-researcher-census/researchers/lucie-bon-a5067804/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil secrets and tree tales: An in-depth comparison of carbon storage in mixed and pure stands of pine and birch** (2025)
-   5 citations · General CDR
+   6 citations · General CDR
 
 2. **Effects of fertilisation and understory removal on aboveground and belowground carbon stocks in wet and dry moorlands in south-western France** (2023)
    5 citations · Soil Carbon

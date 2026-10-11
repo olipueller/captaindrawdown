@@ -1,7 +1,7 @@
 ---
 title: "Aidong Yang"
 description: "Aidong Yang is an Eminent General CDR researcher at Mansfield University in US. With 241 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.043210
+date: 2026-10-11T02:32:59.046549
 url: "/cdr-researcher-census/researchers/aidong-yang-a5067371/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Decarbonisation pathways of the cement production process via hydrogen and oxy-combustion** (2023)
-   52 citations · General CDR
+   54 citations · General CDR
 
 2. **Kinetics-informed global assessment of mine tailings for CO2 removal** (2021)
-   50 citations · Enhanced Weathering
+   51 citations · Enhanced Weathering
 
-3. **Potential of enhanced weathering of calcite in packed bubble columns with seawater for carbon dioxide removal** (2021)
-   25 citations · Enhanced Weathering
+3. **Numerical Modeling and Comparative Analysis of Electrolysis and Electrodialysis Systems for Direct Air Capture** (2024)
+   26 citations · DAC
 
-4. **Numerical Modeling and Comparative Analysis of Electrolysis and Electrodialysis Systems for Direct Air Capture** (2024)
-   24 citations · DAC
+4. **Potential of enhanced weathering of calcite in packed bubble columns with seawater for carbon dioxide removal** (2021)
+   26 citations · Enhanced Weathering
 
 5. **Enhanced weathering to capture atmospheric carbon dioxide: Modeling of a trickle‐bed reactor** (2021)
    16 citations · Enhanced Weathering
@@ -74,11 +74,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 8. **Global carbon dioxide removal potential of waste materials from metal and diamond mining** (2021)
    4 citations · Enhanced Weathering
 
-9. **Editorial: Developing and Deploying Negative Emission Technologies: System-Level Assessment and Rationalization** (2021)
-   2 citations · General CDR
+9. **Process modelling and analysis of ikaite production for atmospheric CO2 removal through ocean alkalinity enhancement** (2025)
+   2 citations · Ocean CDR
 
-10. **Process modelling and analysis of ikaite production for atmospheric CO2 removal through ocean alkalinity enhancement** (2025)
-   1 citations · Ocean CDR
+10. **Editorial: Developing and Deploying Negative Emission Technologies: System-Level Assessment and Rationalization** (2021)
+   2 citations · General CDR
 
 ## External Profiles
 

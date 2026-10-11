@@ -1,7 +1,7 @@
 ---
 title: "Zeping Wu"
 description: "Zeping Wu is a Mid-career Biochar researcher at University of Science and Technology Beijing in CN. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.783705
+date: 2026-10-11T02:32:59.807771
 url: "/cdr-researcher-census/researchers/zeping-wu-a5062496/"
 layout: "researcher"
 hiddenInHomeList: true

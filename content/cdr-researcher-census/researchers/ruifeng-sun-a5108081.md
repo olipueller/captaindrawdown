@@ -1,7 +1,7 @@
 ---
 title: "Ruifeng Sun"
 description: "Ruifeng Sun is a Senior Soil Carbon researcher at Nanjing University of Information Science and Technology in CN. With 32 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.609851
+date: 2026-10-11T02:32:59.627077
 url: "/cdr-researcher-census/researchers/ruifeng-sun-a5108081/"
 layout: "researcher"
 hiddenInHomeList: true

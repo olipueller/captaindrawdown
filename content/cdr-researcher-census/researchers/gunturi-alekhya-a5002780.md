@@ -1,7 +1,7 @@
 ---
 title: "Gunturi Alekhya"
 description: "Gunturi Alekhya is a Mid-career Soil Carbon researcher at Indian Agricultural Research Institute in IN. With 40 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.097882
+date: 2026-10-11T02:33:00.128630
 url: "/cdr-researcher-census/researchers/gunturi-alekhya-a5002780/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,15 +48,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The interplay between external residue addition, and soil organic carbon dynamics and mineralization kinetics: Experiences from a 12-year old conservation agriculture** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 2. **Soil Carbon Sequestration Potential in Achieving the Land Degradation Neutrality (LDN)** (2025)
    2 citations · General CDR
 
-3. **Integrating Pulses into Conservation Agriculture for Sustainable Soil Health and Productivity in the Indo-Gangetic Plains** (2024)
+3. **Cotton as a sustainable game changer in rice-wheat system of Indo-Gangetic plains** (2025)
+   0 citations
+
+4. **Integrating Pulses into Conservation Agriculture for Sustainable Soil Health and Productivity in the Indo-Gangetic Plains** (2024)
    0 citations · General CDR
 
-4. **Agroforestry: An Eco-friendly Strategy for Reducing and Adapting to Climate Change** (2024)
+5. **Agroforestry: An Eco-friendly Strategy for Reducing and Adapting to Climate Change** (2024)
    0 citations · General CDR
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Timothy Fileman"
 description: "Timothy Fileman is a Senior Ocean CDR researcher at PML Applications (United Kingdom) in GB. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.712046
+date: 2026-10-11T02:32:59.732780
 url: "/cdr-researcher-census/researchers/timothy-fileman-a5113931/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Magnesium hydroxide addition reduces aqueous carbon dioxide in wastewater discharged to the ocean** (2024)
-   31 citations · General CDR
+   34 citations · General CDR
 
 ## External Profiles
 

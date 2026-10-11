@@ -1,7 +1,7 @@
 ---
 title: "Yajie Sun"
 description: "Yajie Sun is a Mid-career Soil Carbon researcher at China Pharmaceutical University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.827372
+date: 2026-10-11T02:32:59.853637
 url: "/cdr-researcher-census/researchers/yajie-sun-a5102375/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Phosphorus addition increases soil organic matter priming in a coastal saline soil** (2025)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 2. **Divergent carbon sequestration pathways in saline-alkali soils: Dual mechanisms of macroaggregate protection and chemoautotrophic compensation mediated by composted fermented straw amendments** (2025)
    2 citations · Soil Carbon

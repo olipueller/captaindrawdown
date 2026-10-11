@@ -1,7 +1,7 @@
 ---
 title: "Chengyang Guan"
 description: "Chengyang Guan is a Mid-career Soil Carbon researcher at Fudan University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.305013
+date: 2026-10-11T02:33:00.335961
 url: "/cdr-researcher-census/researchers/chengyang-guan-a5046586/"
 layout: "researcher"
 hiddenInHomeList: true

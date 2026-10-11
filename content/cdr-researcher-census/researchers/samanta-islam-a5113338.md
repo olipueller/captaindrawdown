@@ -1,7 +1,7 @@
 ---
 title: "Samanta Islam"
 description: "Samanta Islam is a Mid-career Soil Carbon researcher. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.104911
+date: 2026-10-11T02:33:00.135298
 url: "/cdr-researcher-census/researchers/samanta-islam-a5113338/"
 layout: "researcher"
 hiddenInHomeList: true

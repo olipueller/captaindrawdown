@@ -1,7 +1,7 @@
 ---
 title: "Bezawada Sridhar Reddy"
 description: "Bezawada Sridhar Reddy is a Mid-career Biochar researcher at Indian Institute of Petroleum in IN. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.277217
+date: 2026-10-11T02:33:00.307245
 url: "/cdr-researcher-census/researchers/bezawada-sridhar-reddy-a5064040/"
 layout: "researcher"
 hiddenInHomeList: true

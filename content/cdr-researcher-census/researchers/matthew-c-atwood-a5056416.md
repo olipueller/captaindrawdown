@@ -1,7 +1,7 @@
 ---
 title: "Matthew C. Atwood"
 description: "Matthew C. Atwood is a Senior DAC researcher at Berkeley Air Monitoring Group (United States) in US. With 8 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.030051
+date: 2026-10-11T02:33:00.061340
 url: "/cdr-researcher-census/researchers/matthew-c-atwood-a5056416/"
 layout: "researcher"
 hiddenInHomeList: true

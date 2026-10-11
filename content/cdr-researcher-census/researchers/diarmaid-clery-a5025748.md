@@ -1,7 +1,7 @@
 ---
 title: "Diarmaid Clery"
 description: "Diarmaid Clery is a Mid-career BECCS researcher at University of Manchester in GB. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.963801
+date: 2026-10-11T02:32:59.995071
 url: "/cdr-researcher-census/researchers/diarmaid-clery-a5025748/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    27 citations · BECCS
 
 2. **Bioenergy with carbon capture and storage** (2023)
-   10 citations · BECCS
+   11 citations · BECCS
 
 3. **The effect of biomass ashes and potassium salts on MEA degradation for BECCS** (2021)
    8 citations · BECCS

@@ -1,7 +1,7 @@
 ---
 title: "Xiaoling Zhang"
 description: "Xiaoling Zhang is a Senior General CDR researcher at Zhejiang University in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.938197
+date: 2026-10-11T02:32:59.968879
 url: "/cdr-researcher-census/researchers/xiaoling-zhang-a5110683/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Response mechanism of subtropical forest carbon balance to climate change based on InTEC model** (2025)
-   1 citations · General CDR
+   2 citations · General CDR
 
 ## External Profiles
 

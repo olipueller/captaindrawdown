@@ -1,7 +1,7 @@
 ---
 title: "Yichen Zhang"
 description: "Yichen Zhang is an Early-career Soil Carbon researcher at Peking University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.688250
+date: 2026-10-11T02:32:59.708539
 url: "/cdr-researcher-census/researchers/yichen-zhang-a5026630/"
 layout: "researcher"
 hiddenInHomeList: true

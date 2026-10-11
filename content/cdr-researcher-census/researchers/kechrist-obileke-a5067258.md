@@ -1,7 +1,7 @@
 ---
 title: "KeChrist Obileke"
 description: "KeChrist Obileke is a Mid-career BECCS researcher at University of Fort Hare in ZA. With 56 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.104574
+date: 2026-10-11T02:32:59.109241
 url: "/cdr-researcher-census/researchers/kechrist-obileke-a5067258/"
 layout: "researcher"
 hiddenInHomeList: true

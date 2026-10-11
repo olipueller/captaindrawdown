@@ -1,7 +1,7 @@
 ---
 title: "Yiying Wang"
 description: "Yiying Wang is a Mid-career Soil Carbon researcher at Beijing University of Chinese Medicine in CN. With 54 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.333401
+date: 2026-10-11T02:32:59.339108
 url: "/cdr-researcher-census/researchers/yiying-wang-a5100663/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · Biochar
 
 2. **Toward Sustainable Agriculture: The Design of Environmentally Friendly, Economical, and Modular Vertical Farming Systems** (2025)
-   4 citations · DAC
+   5 citations · DAC
 
 3. **Field Cultivation of Medicinal Earthworms Increases Soil Large Macroaggregates and Subsurface Organic Carbon Storage** (2026)
    1 citations · Soil Carbon

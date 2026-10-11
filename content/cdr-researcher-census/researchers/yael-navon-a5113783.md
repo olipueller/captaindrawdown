@@ -1,7 +1,7 @@
 ---
 title: "Yael Navon"
 description: "Yael Navon is a Senior Soil Carbon researcher at Tel Aviv University in IL. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.748005
+date: 2026-10-11T02:32:59.770086
 url: "/cdr-researcher-census/researchers/yael-navon-a5113783/"
 layout: "researcher"
 hiddenInHomeList: true

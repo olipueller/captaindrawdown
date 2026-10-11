@@ -1,7 +1,7 @@
 ---
 title: "Houteta Djan’na Koubodana"
 description: "Houteta Djan’na Koubodana is a Mid-career Soil Carbon researcher at University of Cape Town in ZA. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.908547
+date: 2026-10-11T02:32:59.938333
 url: "/cdr-researcher-census/researchers/houteta-djanna-koubodana-a5018785/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Bindu Ambaru"
 description: "Bindu Ambaru is a Senior Soil Carbon researcher at Sardar Patel University in IN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.512489
+date: 2026-10-11T02:32:59.525985
 url: "/cdr-researcher-census/researchers/bindu-ambaru-a5045152/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Synergistic integration of remote sensing and soil metagenomics data: advancing precision agriculture through interdisciplinary approaches** (2025)
-   20 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Kwangsuk Yoon"
 description: "Kwangsuk Yoon is a Senior Biochar researcher at Hanyang University in KR. With 46 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.150436
+date: 2026-10-11T02:32:59.154667
 url: "/cdr-researcher-census/researchers/kwangsuk-yoon-a5015603/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Co-pyrolysis route of chlorella sp. and bauxite tailings to fabricate metal-biochar as persulfate activator** (2021)
-   51 citations · Biochar
+   52 citations · Biochar
 
 2. **Practical approach of As(V) adsorption by fabricating biochar with low basicity from FeCl3 and lignin** (2023)
    41 citations · Biochar
 
 3. **Production of Fe-biochar from paper-mill sludge and its application to Se(VI) and Se(IV) removal** (2024)
-   37 citations · Biochar
+   39 citations · Biochar
 
 4. **Pyrolytic conversion of cattle manure into value-added products and application of biochar for adsorption of sulfamethoxazole** (2024)
    9 citations · Biochar

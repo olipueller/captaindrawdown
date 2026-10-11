@@ -1,7 +1,7 @@
 ---
 title: "Tanveer Ali Sial"
 description: "Tanveer Ali Sial is a Senior Soil Carbon researcher at Sindh Agriculture University in PK. With 36 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.149977
+date: 2026-10-11T02:32:59.154250
 url: "/cdr-researcher-census/researchers/tanveer-ali-sial-a5004597/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    38 citations · Soil Carbon
 
 2. **Long‐term vegetation restoration increases carbon sequestration of different soil particles in a semi‐arid desert** (2021)
-   31 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 3. **Fine-scale spatial distribution of soil organic carbon and its fractions after afforestation with<i>Pinus sylvestris</i>and<i>Salix psammophila</i>in a semiarid desert of China** (2021)
    9 citations · Soil Carbon

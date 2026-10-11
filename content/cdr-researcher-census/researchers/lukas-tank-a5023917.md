@@ -1,7 +1,7 @@
 ---
 title: "Lukas Tank"
 description: "Lukas Tank is a Mid-career General CDR researcher at Christian-Albrechts-Universität zu Kiel in DE. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.365950
+date: 2026-10-11T02:33:00.401704
 url: "/cdr-researcher-census/researchers/lukas-tank-a5023917/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A holistic assessment framework for marine carbon dioxide removal options** (2025)
-   11 citations · General CDR
+   12 citations · General CDR
 
 2. **Exploring Site‐Specific Carbon Dioxide Removal Options With Storage or Sequestration in the Marine Environment – The 10 Mt CO<sub>2</sub> yr<sup>−1</sup> Removal Challenge for Germany** (2025)
-   8 citations · General CDR
+   9 citations · General CDR
 
 3. **Governance of Carbon Dioxide Removal: Practitioners’ Perspectives on Fairness and Equity** (2025)
    1 citations · General CDR

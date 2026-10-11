@@ -1,7 +1,7 @@
 ---
 title: "Fan Yang"
 description: "Fan Yang is a Senior BECCS researcher at Southwest Petroleum University in CN. With 25 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.412563
+date: 2026-10-11T02:32:59.422079
 url: "/cdr-researcher-census/researchers/fan-yang-a5114833/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    28 citations · BECCS
 
 3. **Spatially explicit transition pathways for decarbonizing China’s steel industry during 2030–2050** (2025)
-   2 citations · BECCS
+   4 citations · BECCS
 
 4. **Negative Emission Potentials in Industrial Sectors Due to Carbon Capture and Biomass** (2021)
    1 citations · BECCS

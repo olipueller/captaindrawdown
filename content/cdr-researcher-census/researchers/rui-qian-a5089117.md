@@ -1,7 +1,7 @@
 ---
 title: "Rui Qian"
 description: "Rui Qian is a Mid-career Soil Carbon researcher at Liaoning University in CN. With 22 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.594214
+date: 2026-10-11T02:32:59.611152
 url: "/cdr-researcher-census/researchers/rui-qian-a5089117/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    47 citations · Biochar
 
 2. **Integrated straw-derived biochar utilization to increase net ecosystem carbon budget and economic benefit and reduce the environmental footprint** (2024)
-   37 citations · Biochar
+   38 citations · Biochar
 
 3. **Can straw recycling achieve sustainable agriculture at the smallholder level? A case in a semi-arid region** (2024)
    16 citations · Soil Carbon
@@ -65,8 +65,17 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Soil Aggregates and Aggregate-Associated Carbon and Nitrogen in Farmland in Relation to Long-Term Fertilization on the Loess Plateau, China** (2023)
    8 citations · Soil Carbon
 
-6. **Soil respiration and its temperature sensitivity on croplands in response to biotic and abiotic factors under straw and nitrogen fertilizer management** (2025)
+6. **Conservation tillage could achieve SOC accumulation of eroding farmland in black soil regions** (2025)
+   2 citations · Soil Carbon
+
+7. **Soil respiration and its temperature sensitivity on croplands in response to biotic and abiotic factors under straw and nitrogen fertilizer management** (2025)
    2 citations
+
+8. **Microbial functional strategy divergence mediates SOC mineralization in an eroded agricultural landscape** (2026)
+   0 citations
+
+9. **Decoupled spatial hotspots of carbon loss and sediment yield on typical black soil slopes** (2026)
+   0 citations
 
 ## External Profiles
 

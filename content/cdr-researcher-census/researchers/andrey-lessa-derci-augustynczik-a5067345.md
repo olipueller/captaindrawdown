@@ -1,7 +1,7 @@
 ---
 title: "Andrey Lessa Derci Augustynczik"
 description: "Andrey Lessa Derci Augustynczik is a Mid-career BECCS researcher at IIASA in AT. With 89 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.211990
+date: 2026-10-11T02:32:59.215966
 url: "/cdr-researcher-census/researchers/andrey-lessa-derci-augustynczik-a5067345/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Biodiversity implications of land-intensive carbon dioxide removal** (2026)
-   6 citations · BECCS
+   7 citations · BECCS
 
 2. **Fire Weather Compromises Large Scale Afforestation Scenarios** (2023)
    3 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Herbert Wachter"
 description: "Herbert Wachter is a Senior Soil Carbon researcher at Universität Innsbruck in AT. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.819011
+date: 2026-10-11T02:32:59.843676
 url: "/cdr-researcher-census/researchers/herbert-wachter-a5075682/"
 layout: "researcher"
 hiddenInHomeList: true

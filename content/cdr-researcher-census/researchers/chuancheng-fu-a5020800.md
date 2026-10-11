@@ -1,7 +1,7 @@
 ---
 title: "Chuancheng Fu"
 description: "Chuancheng Fu is a Senior Soil Carbon researcher at Changchun Observatory in CN. With 110 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.077343
+date: 2026-10-11T02:32:59.082064
 url: "/cdr-researcher-census/researchers/chuancheng-fu-a5020800/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,27 +51,30 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Climate and mineral accretion as drivers of mineral‐associated and particulate organic matter accumulation in tidal wetland soils** (2023)
-   46 citations · Soil Carbon
+   47 citations · Soil Carbon
 
 2. **Increased Mineral‐Associated Organic Carbon and Persistent Molecules in Allochthonous Blue Carbon Ecosystems** (2025)
-   33 citations · Soil Carbon
+   37 citations · Soil Carbon
 
 3. **Changes in organic carbon fractions and sources in deltaic topsoil and subsoil layers: autochthonous and allochthonous inputs** (2021)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
-4. **An overlooked soil carbon pool in vegetated coastal ecosystems: National-scale assessment of soil organic carbon stocks in coastal shelter forests of China** (2023)
+4. **Mineral Association and Microbial Processing Jointly Prolong Carbon Turnover in Coastal Wetlands** (2026)
+   19 citations · Soil Carbon
+
+5. **An overlooked soil carbon pool in vegetated coastal ecosystems: National-scale assessment of soil organic carbon stocks in coastal shelter forests of China** (2023)
    18 citations · Soil Carbon
 
-5. **Mineral Association and Microbial Processing Jointly Prolong Carbon Turnover in Coastal Wetlands** (2026)
-   15 citations · Soil Carbon
-
 6. **Dynamics of CO <sub>2</sub> and CH <sub>4</sub> fluxes in Red Sea mangrove soils** (2025)
-   11 citations · Soil Carbon
+   13 citations · Soil Carbon
 
-7. **Editorial: Microbial-driven carbon turnover from dry-wet cycling regions** (2024)
+7. **Climate‐Linked Si‐Fe Dynamics and Their Associations With Soil Mineral‐Associated Organic Carbon** (2026)
+   0 citations
+
+8. **Editorial: Microbial-driven carbon turnover from dry-wet cycling regions** (2024)
    0 citations · Soil Carbon
 
-8. **Dynamics of CO <sub>2</sub> and CH <sub>4</sub> fluxes in Red Sea mangrove soils** (2024)
+9. **Dynamics of CO <sub>2</sub> and CH <sub>4</sub> fluxes in Red Sea mangrove soils** (2024)
    0 citations
 
 ## External Profiles

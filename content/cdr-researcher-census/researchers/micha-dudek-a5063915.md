@@ -1,7 +1,7 @@
 ---
 title: "Michał Dudek"
 description: "Michał Dudek is a Mid-career Biochar researcher at Wrocław University of Environmental and Life Sciences in PL. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.754328
+date: 2026-10-11T02:32:59.776694
 url: "/cdr-researcher-census/researchers/micha-dudek-a5063915/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enzyme Activity and Dissolved Organic Carbon Content in Soils Amended with Different Types of Biochar and Exogenous Organic Matter** (2023)
-   19 citations
+   27 citations
 
 2. **Enzyme Activity and Dissolved Organic Carbon Content in Soils Amended with Different Types of Biochar and Exogenous Organic Matter** (2023)
    7 citations · Biochar

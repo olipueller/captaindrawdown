@@ -1,7 +1,7 @@
 ---
 title: "Isla Hodgkinson"
 description: "Isla Hodgkinson is an Early-career Biochar researcher at Technische Universität Dresden in DE. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.843971
+date: 2026-10-11T02:32:59.869946
 url: "/cdr-researcher-census/researchers/isla-hodgkinson-a5035773/"
 layout: "researcher"
 hiddenInHomeList: true

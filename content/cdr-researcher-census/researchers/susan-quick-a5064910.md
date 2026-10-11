@@ -1,7 +1,7 @@
 ---
 title: "Susan Quick"
 description: "Susan Quick is a Mid-career Soil Carbon researcher at Forest Research in GB. With 22 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.821465
+date: 2026-10-11T02:32:59.846453
 url: "/cdr-researcher-census/researchers/susan-quick-a5064910/"
 layout: "researcher"
 hiddenInHomeList: true

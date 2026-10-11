@@ -1,7 +1,7 @@
 ---
 title: "Andrei Briones-Hidrovo"
 description: "Andrei Briones-Hidrovo is a Mid-career BECCS researcher at Institute of Agrifood Research and Technology in ES. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.610198
+date: 2026-10-11T02:32:59.627469
 url: "/cdr-researcher-census/researchers/andrei-briones-hidrovo-a5056690/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Assessing a bio-energy system with carbon capture and storage (BECCS) through dynamic life cycle assessment and land-water-energy nexus** (2022)
-   47 citations · BECCS
+   48 citations · BECCS
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Xiuting Feng"
 description: "Xiuting Feng is a Mid-career Ocean CDR researcher at Chinese Academy of Sciences in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.967160
+date: 2026-10-11T02:32:59.998468
 url: "/cdr-researcher-census/researchers/xiuting-feng-a5037485/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Particulate Organic Carbon Released during Macroalgal Growth Has Significant Carbon Sequestration Potential in the Ocean** (2023)
-   41 citations
+   45 citations
 
 2. **Underestimated carbon sequestration effects of seaweed farming  and carbon sequestration capability of sunken wild macroalgae in coastal oceans** (2025)
    1 citations · Ocean CDR

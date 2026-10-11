@@ -1,7 +1,7 @@
 ---
 title: "Haodan Yu"
 description: "Haodan Yu is a Mid-career Soil Carbon researcher at Zhejiang University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.509865
+date: 2026-10-11T02:32:59.523043
 url: "/cdr-researcher-census/researchers/haodan-yu-a5077104/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **<b>Viral mediation of anaerobic methane oxidation to carbon sequestration in paddy soil</b>** (2026)
+1. **Viral mediation of anaerobic methane oxidation to carbon sequestration in paddy soil** (2026)
    1 citations · Soil Carbon
 
-2. **Viral mediation of anaerobic methane oxidation to carbon sequestration in paddy soil** (2026)
-   0 citations · Soil Carbon
+2. **<b>Viral mediation of anaerobic methane oxidation to carbon sequestration in paddy soil</b>** (2026)
+   1 citations · Soil Carbon
 
 3. **<b>Viral mediation of anaerobic methane oxidation to carbon sequestration in paddy soil</b>** (2026)
    0 citations · Soil Carbon

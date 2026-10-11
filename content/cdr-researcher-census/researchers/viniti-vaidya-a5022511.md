@@ -1,7 +1,7 @@
 ---
 title: "Viniti Vaidya"
 description: "Viniti Vaidya is a Mid-career Biochar researcher at Dr. D.Y. Patil Vidyapeeth, Pune in IN. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.086518
+date: 2026-10-11T02:33:00.116874
 url: "/cdr-researcher-census/researchers/viniti-vaidya-a5022511/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Bibliometric analysis of trends in biochar research and thermochemical production methods for sustainable waste management** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

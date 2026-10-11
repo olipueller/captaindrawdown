@@ -1,7 +1,7 @@
 ---
 title: "Gihoon Kwon"
 description: "Gihoon Kwon is a Mid-career Biochar researcher at Hanyang University in KR. With 40 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.223821
+date: 2026-10-11T02:32:59.227265
 url: "/cdr-researcher-census/researchers/gihoon-kwon-a5068976/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    41 citations · Biochar
 
 2. **Production of Fe-biochar from paper-mill sludge and its application to Se(VI) and Se(IV) removal** (2024)
-   37 citations · Biochar
+   39 citations · Biochar
 
 3. **Pyrolytic conversion of cattle manure into value-added products and application of biochar for adsorption of sulfamethoxazole** (2024)
    9 citations · Biochar

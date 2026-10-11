@@ -1,7 +1,7 @@
 ---
 title: "Keyang Zhu"
 description: "Keyang Zhu is a Mid-career Soil Carbon researcher at Ningbo University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.324639
+date: 2026-10-11T02:32:59.330334
 url: "/cdr-researcher-census/researchers/keyang-zhu-a5019424/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Accumulation and Chemical Composition of Glomalin Regulated by Different Factors Across Land Uses in China** (2025)
-   1 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

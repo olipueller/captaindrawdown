@@ -1,7 +1,7 @@
 ---
 title: "Bodie Cabiyo"
 description: "Bodie Cabiyo is a Mid-career BECCS researcher at Stanford University in US. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.624934
+date: 2026-10-11T02:32:59.643313
 url: "/cdr-researcher-census/researchers/bodie-cabiyo-a5036694/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,9 +51,12 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Consistent temporal accounting supports credible CDR use** (2026)
-   1 citations · General CDR
+   2 citations · General CDR
 
-2. **Impacts of unprecedented wood demand for bioenergy in the Southeastern US** (2025)
+2. **Accounting for short-term durability in carbon offsetting** (2026)
+   0 citations
+
+3. **Impacts of unprecedented wood demand for bioenergy in the Southeastern US** (2025)
    0 citations · BECCS
 
 ## External Profiles

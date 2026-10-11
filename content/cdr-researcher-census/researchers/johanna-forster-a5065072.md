@@ -1,7 +1,7 @@
 ---
 title: "Johanna Forster"
 description: "Johanna Forster is a Senior General CDR researcher at University of East Anglia in GB. With 56 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.179994
+date: 2026-10-11T02:32:59.183963
 url: "/cdr-researcher-census/researchers/johanna-forster-a5065072/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Long-term national climate strategies bet on forests and soils to reach net-zero** (2022)
-   75 citations · General CDR
+   76 citations · General CDR
 
-2. **Bringing greenhouse gas removal down to earth: Stakeholder supply chain appraisals reveal complex challenges** (2021)
+2. **Residual emissions in long-term national climate strategies show limited climate ambition** (2024)
+   27 citations · General CDR
+
+3. **Bringing greenhouse gas removal down to earth: Stakeholder supply chain appraisals reveal complex challenges** (2021)
    27 citations · BECCS
-
-3. **Residual emissions in long-term national climate strategies show limited climate ambition** (2024)
-   26 citations · General CDR
 
 4. **A dataset of emissions and removals from scenarios and pathways within long-term national climate strategies – the LTS-SP dataset** (2025)
    2 citations · General CDR
 
-5. **Betting on Forests and Soils to Reach Net Zero** (2022)
+5. **Navigating Net Zero: Analysing Residual Emissions in Long-Term National Climate Strategies** (2024)
    2 citations · General CDR
 
-6. **Navigating Net Zero: Analysing Residual Emissions in Long-Term National Climate Strategies** (2024)
-   1 citations · General CDR
+6. **Betting on Forests and Soils to Reach Net Zero** (2022)
+   2 citations · General CDR
 
 7. **Slow but Sure: Expert Perspectives on Carbon Dioxide Removal Policy in the United Kingdom** (2025)
    0 citations · General CDR

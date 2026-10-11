@@ -1,7 +1,7 @@
 ---
 title: "Zöhre Kurt"
 description: "Zöhre Kurt is a Mid-career Biochar researcher at Hanze University of Applied Sciences in NL. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.484712
+date: 2026-10-11T02:32:59.496182
 url: "/cdr-researcher-census/researchers/zohre-kurt-a5069652/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,9 +51,12 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Production and Characterization of Wild Sugarcane (Saccharum spontaneum L.) Biochar for Atrazine Adsorption in Aqueous Media** (2022)
-   8 citations · Biochar
+   9 citations · Biochar
 
-2. **Evaluating BECCS–Biochar systems as hybrid negative emission technologies through life cycle assessment** (2026)
+2. **Removal of Copper and Zinc Using Biochar from Wild Sugarcane (Saccharum spontaneum L.): Sustainable Heavy Metal Removal from Aqueous Media** (2026)
+   0 citations · Biochar
+
+3. **Evaluating BECCS–Biochar systems as hybrid negative emission technologies through life cycle assessment** (2026)
    0 citations · BECCS
 
 ## External Profiles

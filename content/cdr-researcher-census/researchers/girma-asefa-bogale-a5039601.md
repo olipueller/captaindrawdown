@@ -1,7 +1,7 @@
 ---
 title: "Girma Asefa Bogale"
 description: "Girma Asefa Bogale is a Mid-career Soil Carbon researcher at Haramaya University in ET. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.537844
+date: 2026-10-11T02:32:59.552794
 url: "/cdr-researcher-census/researchers/girma-asefa-bogale-a5039601/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Sustainability of Agroforestry Practices and their Resilience to Climate Change Adaptation and Mitigation in Sub-Saharan Africa: A Review** (2023)
-   31 citations · General CDR
+   32 citations · General CDR
 
 ## External Profiles
 

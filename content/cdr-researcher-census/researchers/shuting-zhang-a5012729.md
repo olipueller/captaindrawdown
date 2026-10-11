@@ -1,7 +1,7 @@
 ---
 title: "Shuting Zhang"
 description: "Shuting Zhang is an Early-career Soil Carbon researcher at Yunnan Agricultural University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.381963
+date: 2026-10-11T02:33:00.417824
 url: "/cdr-researcher-census/researchers/shuting-zhang-a5012729/"
 layout: "researcher"
 hiddenInHomeList: true

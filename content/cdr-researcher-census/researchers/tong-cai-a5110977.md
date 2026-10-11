@@ -1,7 +1,7 @@
 ---
 title: "Tong Cai"
 description: "Tong Cai is a Mid-career Biochar researcher at Shandong Center for Disease Control and Prevention in CN. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.389864
+date: 2026-10-11T02:32:59.397851
 url: "/cdr-researcher-census/researchers/tong-cai-a5110977/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Functionalized construction of highly aromatic condensed graphitized biochar for tetracycline adsorption** (2024)
-   22 citations · Biochar
+   23 citations · Biochar
 
 2. **Efficient sulfamethoxazole degradation via staged PMS activation on magnetic pyrite–biochar: Enhanced mineralization and mechanism** (2026)
    8 citations · Biochar

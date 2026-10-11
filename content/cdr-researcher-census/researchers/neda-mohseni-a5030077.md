@@ -1,7 +1,7 @@
 ---
 title: "Neda Mohseni"
 description: "Neda Mohseni is a Mid-career Enhanced Weathering researcher at Ferdowsi University of Mashhad in IR. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.292900
+date: 2026-10-11T02:33:00.323092
 url: "/cdr-researcher-census/researchers/neda-mohseni-a5030077/"
 layout: "researcher"
 hiddenInHomeList: true

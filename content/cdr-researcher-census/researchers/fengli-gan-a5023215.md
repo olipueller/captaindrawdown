@@ -1,7 +1,7 @@
 ---
 title: "Fengli Gan"
 description: "Fengli Gan is a Mid-career Biochar researcher at Sichuan University in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.642424
+date: 2026-10-11T02:32:59.660836
 url: "/cdr-researcher-census/researchers/fengli-gan-a5023215/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Hierarchical porous biochar from plant-based biomass through selectively removing lignin carbon from biochar for enhanced removal of toluene** (2021)
-   84 citations · Biochar
+   85 citations · Biochar
 
 2. **Reply to Xiao's comments on ‘Hierarchical porous biochar from plant-based biomass through selectively removing lignin carbon from biochar for enhanced removal of toluene’** (2022)
    0 citations · Biochar

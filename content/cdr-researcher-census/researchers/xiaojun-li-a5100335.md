@@ -1,7 +1,7 @@
 ---
 title: "Xiaojun Li"
 description: "Xiaojun Li is a Senior Soil Carbon researcher at Northwest Institute of Eco-Environment and Resources in CN. With 70 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.121613
+date: 2026-10-11T02:32:59.126265
 url: "/cdr-researcher-census/researchers/xiaojun-li-a5100335/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Recovery of soil carbon and nitrogen stocks following afforestation with xerophytic shrubs in the Tengger Desert, North China** (2022)
-   46 citations
+   47 citations
 
 2. **Variations in organic carbon mineralization of the biological soil crusts following revegetation in the Tengger Desert, North China** (2022)
    17 citations · Soil Carbon
@@ -60,15 +60,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    17 citations · Soil Carbon
 
 4. **Revegetation drives the accrual and stabilization of organic carbon in biocrusts and subsoils in the Tengger Desert, north China** (2025)
-   10 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 5. **Divergent changes of carbon and nitrogen in the density fractions of soil organic matter after revegetation in the Tengger Desert, north China** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
-6. **Biocrust development drives soil carbon sequestration by enhancing microbial necromass accumulation in a temperate desert** (2026)
-   0 citations · Soil Carbon
+6. **Development stage of biocrusts regulates soil carbon mineralization and its hydrothermal sensitivity in a temperate desert ecosystem** (2025)
+   1 citations · Soil Carbon
 
-7. **Development stage of biocrusts regulates soil carbon mineralization and its hydrothermal sensitivity in a temperate desert ecosystem** (2025)
+7. **Biocrust development drives soil carbon sequestration by enhancing microbial necromass accumulation in a temperate desert** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

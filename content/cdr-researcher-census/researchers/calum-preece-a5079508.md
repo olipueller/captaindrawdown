@@ -1,7 +1,7 @@
 ---
 title: "Calum Preece"
 description: "Calum Preece is a Mid-career Soil Carbon researcher at Chatham House in GB. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.980780
+date: 2026-10-11T02:33:00.012076
 url: "/cdr-researcher-census/researchers/calum-preece-a5079508/"
 layout: "researcher"
 hiddenInHomeList: true

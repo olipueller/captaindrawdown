@@ -1,7 +1,7 @@
 ---
 title: "Zahra Poursorkh"
 description: "Zahra Poursorkh is a Mid-career Soil Carbon researcher at University of British Columbia in CA. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.991158
+date: 2026-10-11T02:33:00.021821
 url: "/cdr-researcher-census/researchers/zahra-poursorkh-a5066346/"
 layout: "researcher"
 hiddenInHomeList: true

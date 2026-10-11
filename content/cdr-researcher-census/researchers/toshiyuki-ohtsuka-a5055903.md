@@ -1,7 +1,7 @@
 ---
 title: "Toshiyuki Ohtsuka"
 description: "Toshiyuki Ohtsuka is a Senior Soil Carbon researcher at Gifu University in JP. With 94 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.063127
+date: 2026-10-11T02:32:59.067614
 url: "/cdr-researcher-census/researchers/toshiyuki-ohtsuka-a5055903/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,21 +51,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Root exudates in mangrove forests accelerate bicarbonate production in the soil environment** (2024)
-   9 citations · Ocean CDR
+   10 citations · Ocean CDR
 
 2. **Long-Term Effects of Biochar Application on Soil Heterotrophic Respiration in a Warm–Temperate Oak Forest** (2025)
-   4 citations · Biochar
+   5 citations · Biochar
 
 3. **Decrease in Inorganic Nitrogen and Net Nitrogen Transformation Rates with Biochar Application in a Warm-Temperate Broadleaved Forest** (2024)
-   4 citations · Biochar
+   5 citations · Biochar
 
-4. **Ecosystem carbon storage including soil to 3 m depth and carbon increment along a young mangrove restoration in Central Thailand** (2026)
+4. **Effect of biochar amendment to the forest floor on net ecosystem production: An 8-year field experiment in a secondary oak forest** (2026)
+   0 citations · Biochar
+
+5. **Ecosystem carbon storage including soil to 3 m depth and carbon increment along a young mangrove restoration in Central Thailand** (2026)
    0 citations
 
-5. **In Situ Quantification of Root Exudates in a Subtropical Mangrove (Bruguiera gymnorhiza) Forest** (2026)
+6. **In Situ Quantification of Root Exudates in a Subtropical Mangrove (Bruguiera gymnorhiza) Forest** (2026)
    0 citations · Ocean CDR
 
-6. **Ecological Significance of Throughfall and Stemflow to the Carbon Cycle in Forest Ecosystems** (2022)
+7. **Ecological Significance of Throughfall and Stemflow to the Carbon Cycle in Forest Ecosystems** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

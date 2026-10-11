@@ -1,7 +1,7 @@
 ---
 title: "Cathy Wimart-Rousseau"
 description: "Cathy Wimart-Rousseau is a Mid-career Ocean CDR researcher at National Oceanography Centre in GB. With 42 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.153904
+date: 2026-10-11T02:32:59.158175
 url: "/cdr-researcher-census/researchers/cathy-wimart-rousseau-a5056433/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    15 citations · General CDR
 
 2. **An updated synthesis of ocean total alkalinity and dissolved inorganic carbon measurements from 1993 to 2023: the SNAPO-CO <sub>2</sub> -v2 dataset** (2025)
-   8 citations · General CDR
+   10 citations · General CDR
 
 3. **An updated synthesis of ocean total alkalinity and dissolved inorganic carbon measurements from 1993 to 2023: the SNAPO-CO2-v2 dataset** (2024)
    1 citations · General CDR

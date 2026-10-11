@@ -1,7 +1,7 @@
 ---
 title: "Luis Parras‐Alcántara"
 description: "Luis Parras‐Alcántara is a Senior Soil Carbon researcher at University of Córdoba in ES. With 98 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.101522
+date: 2026-10-11T02:32:59.106256
 url: "/cdr-researcher-census/researchers/luis-parrasalcantara-a5081415/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -62,14 +62,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **What Influence Does Conventional Tillage Have on the Ability of Soils to Sequester Carbon, Stabilise It and Become Saturated in the Medium Term? A Case Study in a Traditional Rainfed Olive Grove** (2022)
    6 citations · Soil Carbon
 
-5. **Alley cropping associated with conservation tillage can promote short-term soil aggregation and carbon sequestration in European woody crops** (2026)
+5. **The effects of olive orchard diversifications on greenhouse gas emissions and its influencing factors** (2026)
    1 citations · Soil Carbon
 
-6. **Long-Term Land Use Effects on Soil Quality and Organic Carbon Content in Calcaric Regosol Profiles of Arid Ecosystems** (2025)
+6. **Alley cropping associated with conservation tillage can promote short-term soil aggregation and carbon sequestration in European woody crops** (2026)
    1 citations · Soil Carbon
 
-7. **The effects of olive orchard diversifications on greenhouse gas emissions and its influencing factors** (2026)
-   0 citations · Soil Carbon
+7. **Long-Term Land Use Effects on Soil Quality and Organic Carbon Content in Calcaric Regosol Profiles of Arid Ecosystems** (2025)
+   1 citations · Soil Carbon
 
 8. **Crop Diversification Effects on Soil Aggregation and Aggregate-Associated Carbon and Nitrogen in Short-Term Rainfed Olive Groves under SemiaridMediterranean Conditions** (2022)
    0 citations · Soil Carbon

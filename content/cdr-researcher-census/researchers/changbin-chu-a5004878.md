@@ -1,7 +1,7 @@
 ---
 title: "Changbin Chu"
 description: "Changbin Chu is a Mid-career Soil Carbon researcher at Ministry of Agriculture in BW. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.453803
+date: 2026-10-11T02:32:59.464598
 url: "/cdr-researcher-census/researchers/changbin-chu-a5004878/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A study of different agricultural practices over a dozen years: Influence on soil CO2 fixation rates and soil autotrophic microbial communities** (2024)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 2. **Life‐cycle carbon emissions and sequestration mechanisms under contrasting rice rotation systems** (2026)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Yvan D. Hernandez-Charpak"
 description: "Yvan D. Hernandez-Charpak is a Mid-career Biochar researcher at Universidad de Los Andes in CO. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.202348
+date: 2026-10-11T02:33:00.232389
 url: "/cdr-researcher-census/researchers/yvan-d-hernandez-charpak-a5085134/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Comparative assessment of biochar produced from waste biomass in laboratory furnace and industrial screw reactor systems** (2024)
-   12 citations · Biochar
+   13 citations · Biochar
 
 ## External Profiles
 

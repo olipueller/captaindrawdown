@@ -1,7 +1,7 @@
 ---
 title: "Aswini Krishnan"
 description: "Aswini Krishnan is a Mid-career Soil Carbon researcher at SRM Institute of Science and Technology in IN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.821195
+date: 2026-10-11T02:32:59.846191
 url: "/cdr-researcher-census/researchers/aswini-krishnan-a5112504/"
 layout: "researcher"
 hiddenInHomeList: true

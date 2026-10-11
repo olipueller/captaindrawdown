@@ -1,7 +1,7 @@
 ---
 title: "Zhengshu Chen"
 description: "Zhengshu Chen is a Mid-career General CDR researcher at Shandong Jianzhu University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.069324
+date: 2026-10-11T02:33:00.099390
 url: "/cdr-researcher-census/researchers/zhengshu-chen-a5042941/"
 layout: "researcher"
 hiddenInHomeList: true

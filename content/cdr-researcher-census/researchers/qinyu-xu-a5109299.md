@@ -1,7 +1,7 @@
 ---
 title: "Qinyu Xu"
 description: "Qinyu Xu is a Senior Soil Carbon researcher at Jiangsu University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.406575
+date: 2026-10-11T02:32:59.415674
 url: "/cdr-researcher-census/researchers/qinyu-xu-a5109299/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Contributions of microbial necromass and plant lignin to soil organic carbon stock in a paddy field under simulated conditions of long-term elevated CO2 and warming** (2024)
-   28 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 ## External Profiles
 

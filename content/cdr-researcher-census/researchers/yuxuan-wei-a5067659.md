@@ -1,7 +1,7 @@
 ---
 title: "Yuxuan Wei"
 description: "Yuxuan Wei is a Mid-career Biochar researcher at Zhengzhou University in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.314140
+date: 2026-10-11T02:33:00.344947
 url: "/cdr-researcher-census/researchers/yuxuan-wei-a5067659/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar and Nitrogen Fertilizer Synergies: Enhancing Soil Properties and Jujube Fruit Quality in Saline–Alkali Orchards of Southern Xinjiang** (2025)
-   1 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

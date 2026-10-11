@@ -1,7 +1,7 @@
 ---
 title: "Laura Heimsch"
 description: "Laura Heimsch is a Mid-career Soil Carbon researcher at Finnish Meteorological Institute in FI. With 26 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.252291
+date: 2026-10-11T02:33:00.282094
 url: "/cdr-researcher-census/researchers/laura-heimsch-a5049180/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Towards agricultural soil carbon monitoring, reporting, and verification through the Field Observatory Network (FiON)** (2022)
-   39 citations · General CDR
+   42 citations · General CDR
 
 2. **Impact of weather and management practices on greenhouse gas flux dynamics on an agricultural grassland in Southern Finland** (2024)
    16 citations · General CDR

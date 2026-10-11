@@ -1,7 +1,7 @@
 ---
 title: "Franz Schulz"
 description: "Franz Schulz is a Mid-career Soil Carbon researcher at Justus-Liebig-Universität Gießen in DE. With 38 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.609395
+date: 2026-10-11T02:32:59.626588
 url: "/cdr-researcher-census/researchers/franz-schulz-a5080500/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Reduced tillage in organic farming affects soil organic carbon stocks in temperate Europe** (2021)
-   133 citations · Soil Carbon
+   134 citations · Soil Carbon
 
 2. **Soil organic carbon sequestration in agricultural long-term field experiments as derived from particulate and mineral-associated organic matter** (2023)
-   79 citations · Soil Carbon
+   83 citations · Soil Carbon
 
 3. **Carbon Sequestration By Organic Conservation Tillage – A Comprehensive Sampling Campaign In Nine European Long-Term Trials** (2021)
    0 citations

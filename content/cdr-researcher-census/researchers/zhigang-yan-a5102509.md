@@ -1,7 +1,7 @@
 ---
 title: "Zhigang Yan"
 description: "Zhigang Yan is a Senior Soil Carbon researcher at China University of Mining and Technology in CN. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.157474
+date: 2026-10-11T02:32:59.161902
 url: "/cdr-researcher-census/researchers/zhigang-yan-a5102509/"
 layout: "researcher"
 hiddenInHomeList: true

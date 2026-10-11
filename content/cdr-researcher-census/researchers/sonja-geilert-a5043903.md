@@ -1,7 +1,7 @@
 ---
 title: "Sonja Geilert"
 description: "Sonja Geilert is a Senior Ocean CDR researcher at Utrecht University in NL. With 83 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.171886
+date: 2026-10-11T02:32:59.175930
 url: "/cdr-researcher-census/researchers/sonja-geilert-a5043903/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,31 +51,31 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Kinetics of Olivine Weathering in Seawater: An Experimental Study** (2022)
-   164 citations · Enhanced Weathering
+   161 citations · Enhanced Weathering
 
 2. **Assessing the technical aspects of ocean-alkalinity-enhancement approaches** (2023)
-   113 citations · General CDR
+   126 citations · General CDR
 
-3. **Assessing technical aspects of ocean alkalinity enhancement approaches** (2023)
+3. **Alkaline mineral addition to anoxic to hypoxic Baltic Sea sediments as a potentially efficient CO2-removal technique** (2024)
+   23 citations · Enhanced Weathering
+
+4. **Assessing technical aspects of ocean alkalinity enhancement approaches** (2023)
    23 citations · General CDR
 
-4. **Disentangling artificial and natural benthic weathering in organic rich Baltic Sea sediments** (2023)
-   21 citations · Enhanced Weathering
-
-5. **Alkaline mineral addition to anoxic to hypoxic Baltic Sea sediments as a potentially efficient CO2-removal technique** (2024)
-   20 citations · Enhanced Weathering
+5. **Disentangling artificial and natural benthic weathering in organic rich Baltic Sea sediments** (2023)
+   22 citations · Enhanced Weathering
 
 6. **Seafloor alkalinity enhancement as a carbon dioxide removal strategy in the Baltic Sea** (2024)
-   16 citations · Ocean CDR
+   19 citations · Ocean CDR
 
 7. **Kinetics of olivine weathering in seawater: an experimental study** (2021)
-   15 citations · Enhanced Weathering
+   14 citations · Enhanced Weathering
 
 8. **Calcite is an efficient and low-cost material to enhance benthic weathering in shelf sediments of the Baltic Sea** (2025)
-   9 citations · Enhanced Weathering
+   11 citations · Enhanced Weathering
 
 9. **Exploring Site‐Specific Carbon Dioxide Removal Options With Storage or Sequestration in the Marine Environment – The 10 Mt CO<sub>2</sub> yr<sup>−1</sup> Removal Challenge for Germany** (2025)
-   8 citations · General CDR
+   9 citations · General CDR
 
 10. **Mesocosm experiments in ocean alkalinity enhancement research** (2023)
    8 citations

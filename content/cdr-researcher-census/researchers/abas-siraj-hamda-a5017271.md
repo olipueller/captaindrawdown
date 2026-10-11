@@ -1,7 +1,7 @@
 ---
 title: "Abas Siraj Hamda"
 description: "Abas Siraj Hamda is a Mid-career Biochar researcher at Haramaya University in ET. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.878792
+date: 2026-10-11T02:32:59.906292
 url: "/cdr-researcher-census/researchers/abas-siraj-hamda-a5017271/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Comprehensive review on lignocellulosic biomass derived biochar production, characterization, utilization and applications** (2023)
-   94 citations · Biochar
+   98 citations · Biochar
 
 ## External Profiles
 

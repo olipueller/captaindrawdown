@@ -1,7 +1,7 @@
 ---
 title: "Lucas Lourens"
 description: "Lucas Lourens is a Mid-career General CDR researcher. With 31 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.520573
+date: 2026-10-11T02:32:59.534426
 url: "/cdr-researcher-census/researchers/lucas-lourens-a5044944/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xianjin An"
 description: "Xianjin An is a Mid-career Soil Carbon researcher at Guizhou Normal University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.750257
+date: 2026-10-11T02:32:59.772599
 url: "/cdr-researcher-census/researchers/xianjin-an-a5016717/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    10 citations · General CDR
 
 2. **The interactions between Al‐/Fe‐(hydr)oxides and soil organic carbon mediate the aggregation of yellow soils** (2022)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Jessica M. Steigerwald"
 description: "Jessica M. Steigerwald is an Early-career Biochar researcher at Southern Nevada Water Authority in US. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.277133
+date: 2026-10-11T02:33:00.307143
 url: "/cdr-researcher-census/researchers/jessica-m-steigerwald-a5079667/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Adsorption behavior of perfluorooctanesulfonate (PFOS) onto activated spent coffee grounds biochar in synthetic wastewater effluent** (2021)
-   72 citations · Biochar
+   73 citations · Biochar
 
 2. **Novel Perfluorooctanesulfonate-Imprinted Polymer Immobilized on Spent Coffee Grounds Biochar for Selective Removal of Perfluoroalkyl Acids in Synthetic Wastewater** (2023)
    33 citations · Biochar

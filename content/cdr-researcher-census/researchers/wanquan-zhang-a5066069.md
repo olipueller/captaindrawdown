@@ -1,7 +1,7 @@
 ---
 title: "Wanquan Zhang"
 description: "Wanquan Zhang is a Senior Soil Carbon researcher at Guizhou Normal University in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.648967
+date: 2026-10-11T02:32:59.668322
 url: "/cdr-researcher-census/researchers/wanquan-zhang-a5066069/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Rainfall Predominantly Governs Soil Organic Carbon Loss, Exceeding the Contribution of Vegetation Carbon Sequestration in Karst Watersheds** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

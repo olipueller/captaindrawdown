@@ -1,7 +1,7 @@
 ---
 title: "Xiaojun Yang"
 description: "Xiaojun Yang is a Senior BECCS researcher at Civil Aviation University of China in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.256480
+date: 2026-10-11T02:33:00.286557
 url: "/cdr-researcher-census/researchers/xiaojun-yang-a5100854/"
 layout: "researcher"
 hiddenInHomeList: true

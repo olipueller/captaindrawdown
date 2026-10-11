@@ -1,7 +1,7 @@
 ---
 title: "Brian Beaty"
 description: "Brian Beaty is a Mid-career Enhanced Weathering researcher at Planetary Science Institute in US. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.204239
+date: 2026-10-11T02:33:00.234007
 url: "/cdr-researcher-census/researchers/brian-beaty-a5072314/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Lithium isotopic evidence for enhanced reverse weathering during the Early Triassic warm period** (2024)
-   19 citations · Enhanced Weathering
+   21 citations · Enhanced Weathering
 
 2. **Changes in continental weathering across the Permian-Triassic transition: A global review** (2025)
-   4 citations · Enhanced Weathering
+   5 citations · Enhanced Weathering
 
 3. **Lithological influence on Li isotope fractionation during silicate weathering** (2025)
    2 citations

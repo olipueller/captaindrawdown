@@ -1,7 +1,7 @@
 ---
 title: "Christianah Aarinola Akinnawo"
 description: "Christianah Aarinola Akinnawo is a Mid-career DAC researcher. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.705442
+date: 2026-10-11T02:32:59.725872
 url: "/cdr-researcher-census/researchers/christianah-aarinola-akinnawo-a5080115/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Adsorbent technologies and applications for carbon capture, and direct air capture in environmental perspective and sustainable climate action** (2023)
-   52 citations · DAC
+   55 citations · DAC
 
 ## External Profiles
 

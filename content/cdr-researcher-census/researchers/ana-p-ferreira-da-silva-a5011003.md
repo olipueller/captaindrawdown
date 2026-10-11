@@ -1,7 +1,7 @@
 ---
 title: "Ana P. Ferreira da Silva"
 description: "Ana P. Ferreira da Silva is an Early-career Biochar researcher at Polytechnic Institute of Bragança in PT. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.391742
+date: 2026-10-11T02:33:00.429142
 url: "/cdr-researcher-census/researchers/ana-p-ferreira-da-silva-a5011003/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochars Derived from Olive Mill Byproducts: Typology, Characterization, and Eco-Efficient Application in Agriculture—A Systematic Review** (2024)
-   32 citations · Biochar
+   34 citations · Biochar
 
-2. **Sustainable carbon materials from exhausted olive pomace: applications in the removal and recovery of benzenic compounds and life cycle assessment** (2026)
+2. **Permeable Reactive Barriers in Groundwater Remediation: A Review of Efficiency in Removing Pharmaceuticals and Heavy Metals** (2026)
+   5 citations · Biochar
+
+3. **Sustainable carbon materials from exhausted olive pomace: applications in the removal and recovery of benzenic compounds and life cycle assessment** (2026)
    0 citations
-
-3. **Permeable Reactive Barriers in Groundwater Remediation: A Review of Efficiency in Removing Pharmaceuticals and Heavy Metals** (2026)
-   0 citations · Biochar
 
 4. **Sustainable Carbon Materials from Exhausted Olive Pomace: Applications in the Removal and Recovery of Phenolic Compounds** (2025)
    0 citations · Biochar

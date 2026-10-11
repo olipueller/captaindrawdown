@@ -1,7 +1,7 @@
 ---
 title: "Wanli Hu"
 description: "Wanli Hu is a Mid-career Soil Carbon researcher at Yunnan Academy of Agricultural Sciences in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.284620
+date: 2026-10-11T02:33:00.314738
 url: "/cdr-researcher-census/researchers/wanli-hu-a5046142/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Human-caused increases in organic carbon burial in plateau lakes: The response to warming effect** (2024)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 ## External Profiles
 

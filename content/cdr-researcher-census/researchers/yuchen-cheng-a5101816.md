@@ -1,7 +1,7 @@
 ---
 title: "Yuchen Cheng"
 description: "Yuchen Cheng is a Mid-career Soil Carbon researcher at Inner Mongolia Academy of Agricultural & Animal Husbandry Sciences in CN. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.795814
+date: 2026-10-11T02:32:59.819380
 url: "/cdr-researcher-census/researchers/yuchen-cheng-a5101816/"
 layout: "researcher"
 hiddenInHomeList: true

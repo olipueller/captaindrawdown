@@ -1,7 +1,7 @@
 ---
 title: "Maik Lucas"
 description: "Maik Lucas is a Mid-career Soil Carbon researcher at Technische Universität Berlin in DE. With 67 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.246521
+date: 2026-10-11T02:32:59.250402
 url: "/cdr-researcher-census/researchers/maik-lucas-a5107771/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Perennial Roots, Lasting Structure: How Silphium perfoliatum Alters pore structure to shape carbon storage and water flow** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 2. **Soil carbon accrual and biopore formation across a plant diversity gradient** (2025)
    2 citations · Soil Carbon

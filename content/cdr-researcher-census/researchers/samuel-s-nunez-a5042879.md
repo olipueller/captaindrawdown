@@ -1,7 +1,7 @@
 ---
 title: "Samuel S. Núñez"
 description: "Samuel S. Núñez is a Mid-career Biochar researcher at University of Alicante in ES. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.167261
+date: 2026-10-11T02:33:00.197276
 url: "/cdr-researcher-census/researchers/samuel-s-nunez-a5042879/"
 layout: "researcher"
 hiddenInHomeList: true

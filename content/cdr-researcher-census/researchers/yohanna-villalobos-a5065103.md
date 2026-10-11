@@ -1,7 +1,7 @@
 ---
 title: "Yohanna Villalobos"
 description: "Yohanna Villalobos is a Mid-career Ocean CDR researcher at Lund University in SE. With 31 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.092567
+date: 2026-10-11T02:33:00.123202
 url: "/cdr-researcher-census/researchers/yohanna-villalobos-a5065103/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **The North American Greenhouse Gas Budget: Emissions, Removals, and Integration for CO<sub>2</sub>, CH<sub>4</sub>, and N<sub>2</sub>O (2010–2019): Results From the Second REgional Carbon Cycle Assessment and Processes Study (RECCAP2)** (2025)
-   11 citations · General CDR
+   17 citations · General CDR
 
 2. **From global to national GHG budgets: the REgional Carbon Cycle Assessment and Processes-3 (RECCAP3)** (2025)
    9 citations · Ocean CDR

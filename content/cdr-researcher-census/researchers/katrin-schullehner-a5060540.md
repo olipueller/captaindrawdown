@@ -1,7 +1,7 @@
 ---
 title: "Katrin Schullehner"
 description: "Katrin Schullehner is a Senior Soil Carbon researcher at Bayer (Germany) in DE. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.373185
+date: 2026-10-11T02:32:59.380561
 url: "/cdr-researcher-census/researchers/katrin-schullehner-a5060540/"
 layout: "researcher"
 hiddenInHomeList: true

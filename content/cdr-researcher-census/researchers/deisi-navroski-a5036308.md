@@ -1,7 +1,7 @@
 ---
 title: "Deisi Navroski"
 description: "Deisi Navroski is a Mid-career Soil Carbon researcher. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.151111
+date: 2026-10-11T02:33:00.181025
 url: "/cdr-researcher-census/researchers/deisi-navroski-a5036308/"
 layout: "researcher"
 hiddenInHomeList: true

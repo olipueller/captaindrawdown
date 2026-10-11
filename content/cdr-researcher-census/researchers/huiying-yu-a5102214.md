@@ -1,7 +1,7 @@
 ---
 title: "Huiying Yu"
 description: "Huiying Yu is a Senior Soil Carbon researcher at Harbin Engineering University in CN. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.974529
+date: 2026-10-11T02:33:00.006358
 url: "/cdr-researcher-census/researchers/huiying-yu-a5102214/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    20 citations · Soil Carbon
 
 2. **Dynamic changes in soil organic carbon and influencing factors in typical coastal reclaimed wetlands of China** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

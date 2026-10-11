@@ -1,7 +1,7 @@
 ---
 title: "Efraín Carrillo-López"
 description: "Efraín Carrillo-López is a Mid-career Soil Carbon researcher at Centro de Edafología y Biología Aplicada del Segura in ES. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.699692
+date: 2026-10-11T02:32:59.719977
 url: "/cdr-researcher-census/researchers/efrain-carrillo-lopez-a5076177/"
 layout: "researcher"
 hiddenInHomeList: true

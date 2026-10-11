@@ -1,7 +1,7 @@
 ---
 title: "Yan Duan"
 description: "Yan Duan is a Senior Soil Carbon researcher at Space Engineering University in CN. With 126 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.194494
+date: 2026-10-11T02:32:59.198456
 url: "/cdr-researcher-census/researchers/yan-duan-a5060992/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    65 citations · Biochar
 
 2. **Calcium carbonate regulates soil organic carbon accumulation by mediating microbial communities in northern China** (2023)
-   50 citations · Soil Carbon
+   53 citations · Soil Carbon
 
 3. **Nitrogen input level modulates straw-derived organic carbon physical fractions accumulation by stimulating specific fungal groups during decomposition** (2022)
    43 citations · Soil Carbon
@@ -66,10 +66,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    21 citations · Soil Carbon
 
 6. **Conservation tillage facilitates the accumulation of soil organic carbon fractions by affecting the microbial community in an eolian sandy soil** (2024)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 7. **Phosphorus fertilizer input level regulates soil organic carbon physical fraction sequestration by influencing the microbial community** (2025)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

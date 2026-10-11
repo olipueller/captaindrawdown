@@ -1,7 +1,7 @@
 ---
 title: "Zhenzhong Dai"
 description: "Zhenzhong Dai is a Mid-career General CDR researcher at Northwest A&F University in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.938063
+date: 2026-10-11T02:32:59.968799
 url: "/cdr-researcher-census/researchers/zhenzhong-dai-a5078197/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Assessment and Multiscenario Simulation of Land Use and Ecosystem Services Interactions in Inner Mongolia** (2024)
-   13 citations · General CDR
+   14 citations · General CDR
 
 ## External Profiles
 

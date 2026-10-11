@@ -1,7 +1,7 @@
 ---
 title: "Benjamin Morgan"
 description: "Benjamin Morgan is a Senior Soil Carbon researcher at United States Bureau of Reclamation in US. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.224564
+date: 2026-10-11T02:33:00.255060
 url: "/cdr-researcher-census/researchers/benjamin-morgan-a5101358/"
 layout: "researcher"
 hiddenInHomeList: true

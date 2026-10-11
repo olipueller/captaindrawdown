@@ -1,7 +1,7 @@
 ---
 title: "Prasad J. Kamdi"
 description: "Prasad J. Kamdi is a Mid-career Soil Carbon researcher at International Crops Research Institute for the Semi-Arid Tropics in IN. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.186176
+date: 2026-10-11T02:33:00.216402
 url: "/cdr-researcher-census/researchers/prasad-j-kamdi-a5048679/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Comparative Analysis of Pigeonpea Stalk Biochar Characteristics and Energy Use under Different Biochar Production Methods** (2023)
-   17 citations · Biochar
+   18 citations · Biochar
 
 2. **Leveraging genotype × management synergies to enhance pigeonpea productivity, profitability, and sustainability in semi-arid tropics** (2025)
    5 citations · Soil Carbon

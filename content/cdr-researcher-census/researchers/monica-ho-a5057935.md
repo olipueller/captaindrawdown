@@ -1,7 +1,7 @@
 ---
 title: "Monica Ho"
 description: "Monica Ho is a Senior DAC researcher at University of Waterloo in CA. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.360602
+date: 2026-10-11T02:33:00.396271
 url: "/cdr-researcher-census/researchers/monica-ho-a5057935/"
 layout: "researcher"
 hiddenInHomeList: true

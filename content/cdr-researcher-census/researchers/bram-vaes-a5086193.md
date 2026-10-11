@@ -1,7 +1,7 @@
 ---
 title: "Bram Vaes"
 description: "Bram Vaes is a Mid-career Enhanced Weathering researcher at University of Milano-Bicocca in IT. With 51 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.399091
+date: 2026-10-11T02:32:59.408221
 url: "/cdr-researcher-census/researchers/bram-vaes-a5086193/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shu‐Hsien Tsai"
 description: "Shu‐Hsien Tsai is a Senior Biochar researcher at Industrial Technology Research Institute in TW. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.540505
+date: 2026-10-11T02:32:59.555467
 url: "/cdr-researcher-census/researchers/shuhsien-tsai-a5103437/"
 layout: "researcher"
 hiddenInHomeList: true

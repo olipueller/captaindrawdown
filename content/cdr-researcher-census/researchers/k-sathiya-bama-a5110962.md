@@ -1,7 +1,7 @@
 ---
 title: "K. Sathiya Bama"
 description: "K. Sathiya Bama is a Mid-career Soil Carbon researcher at Tamil Nadu Agricultural University in IN. With 33 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.377209
+date: 2026-10-11T02:33:00.412650
 url: "/cdr-researcher-census/researchers/k-sathiya-bama-a5110962/"
 layout: "researcher"
 hiddenInHomeList: true

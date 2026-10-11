@@ -1,7 +1,7 @@
 ---
 title: "Negar Omidvar"
 description: "Negar Omidvar is a Mid-career Soil Carbon researcher at Griffith University in AU. With 32 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.474620
+date: 2026-10-11T02:32:59.485826
 url: "/cdr-researcher-census/researchers/negar-omidvar-a5046708/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Combination of Biochar‐Based Fertilisers and Reactive Barriers Improved Soil Carbon Storage, Soil Moisture Retention, and Crop Yield in Short Term** (2025)
-   14 citations · Biochar
+   13 citations · Biochar
 
 2. **Soil Bulk Density Estimation by a Novel Pedotransfer Function Tailored on Hilly Terrains** (2025)
    4 citations · Soil Carbon

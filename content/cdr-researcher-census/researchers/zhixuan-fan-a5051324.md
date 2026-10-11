@@ -1,7 +1,7 @@
 ---
 title: "Zhixuan Fan"
 description: "Zhixuan Fan is a Mid-career Biochar researcher at Shanxi Agricultural University in CN. With 33 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.597395
+date: 2026-10-11T02:32:59.614187
 url: "/cdr-researcher-census/researchers/zhixuan-fan-a5051324/"
 layout: "researcher"
 hiddenInHomeList: true

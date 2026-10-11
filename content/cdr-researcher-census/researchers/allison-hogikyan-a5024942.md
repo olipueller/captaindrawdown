@@ -1,7 +1,7 @@
 ---
 title: "Allison Hogikyan"
 description: "Allison Hogikyan is a Mid-career Ocean CDR researcher at Princeton University in US. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.105032
+date: 2026-10-11T02:33:00.135416
 url: "/cdr-researcher-census/researchers/allison-hogikyan-a5024942/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Hydrological cycle amplification imposes spatial patterns on the climate change response of ocean pH and carbonate chemistry** (2024)
-   3 citations · General CDR
+   5 citations · General CDR
 
 2. **Hydrological cycle amplification imposes spatial pattern on climate change response of ocean pH and carbonate chemistry** (2024)
    1 citations · Ocean CDR

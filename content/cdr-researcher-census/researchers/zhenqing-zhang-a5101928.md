@@ -1,7 +1,7 @@
 ---
 title: "Zhenqing Zhang"
 description: "Zhenqing Zhang is a Senior Soil Carbon researcher at UK Coal in GB. With 64 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.126393
+date: 2026-10-11T02:32:59.131052
 url: "/cdr-researcher-census/researchers/zhenqing-zhang-a5101928/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Patterns and determinants of plant‐derived lignin phenols in coastal wetlands: Implications for organic C accumulation** (2023)
-   57 citations · Soil Carbon
+   59 citations · Soil Carbon
 
 2. **Organic matter composition and stability in estuarine wetlands depending on soil salinity** (2024)
-   23 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 3. **Distribution, Storage, and Factors Influencing Particulate and Mineral‐Associated Organic Matter in Paddy Soils** (2025)
    9 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Binzhe Li"
 description: "Binzhe Li is a Mid-career Biochar researcher at China Agricultural University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.518420
+date: 2026-10-11T02:32:59.532208
 url: "/cdr-researcher-census/researchers/binzhe-li-a5103256/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Global integrative meta-analysis of the responses in soil organic carbon stock to biochar amendment** (2023)
-   56 citations · Biochar
+   57 citations · Biochar
 
 ## External Profiles
 

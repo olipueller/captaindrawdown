@@ -1,7 +1,7 @@
 ---
 title: "Marta Dondini"
 description: "Marta Dondini is a Senior Soil Carbon researcher at University of Aberdeen in GB. With 52 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.151309
+date: 2026-10-11T02:32:59.155570
 url: "/cdr-researcher-census/researchers/marta-dondini-a5016340/"
 layout: "researcher"
 hiddenInHomeList: true

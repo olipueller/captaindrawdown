@@ -1,7 +1,7 @@
 ---
 title: "Yanmin Teng"
 description: "Yanmin Teng is a Mid-career General CDR researcher at Hebei University in CN. With 43 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.237744
+date: 2026-10-11T02:32:59.241207
 url: "/cdr-researcher-census/researchers/yanmin-teng-a5015883/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,16 +54,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    129 citations · General CDR
 
 2. **Scale dependency of trade-offs/synergies analysis of ecosystem services based on Bayesian Belief Networks: A case of the Yellow River Basin** (2025)
-   58 citations
+   59 citations
 
 3. **Spatial heterogeneity of urbanization impacts on ecosystem services in the urban agglomerations along the Yellow River, China** (2022)
-   34 citations
+   35 citations
 
 4. **A multi-objective scheme for sustainable ecological conservation on the Qinghai–Tibet Plateau** (2025)
-   18 citations · General CDR
+   19 citations · General CDR
 
 5. **Identifying prioritized afforestation types in ecologically vulnerable zones of Northern China considering reducing water consumption and increasing carbon sequestration** (2022)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 ## External Profiles
 

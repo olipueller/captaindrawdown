@@ -1,7 +1,7 @@
 ---
 title: "Catherine M. Hepp"
 description: "Catherine M. Hepp is a Mid-career Soil Carbon researcher at Research Institute for Humanity and Nature in JP. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.188570
+date: 2026-10-11T02:33:00.218687
 url: "/cdr-researcher-census/researchers/catherine-m-hepp-a5024149/"
 layout: "researcher"
 hiddenInHomeList: true

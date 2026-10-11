@@ -1,7 +1,7 @@
 ---
 title: "Tom Reershemius"
 description: "Tom Reershemius is a Mid-career Enhanced Weathering researcher at Newcastle University in GB. With 42 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.487141
+date: 2026-10-11T02:32:59.498856
 url: "/cdr-researcher-census/researchers/tom-reershemius-a5008768/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,28 +57,28 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    68 citations
 
 3. **River chemistry constraints on the carbon capture potential of surficial enhanced rock weathering** (2022)
-   63 citations · Enhanced Weathering
+   64 citations · Enhanced Weathering
 
 4. **A review of measurement for quantification of carbon dioxide removal by enhanced weathering in soil** (2024)
-   55 citations · Enhanced Weathering
+   61 citations · Enhanced Weathering
 
 5. **A tool for assessing the sensitivity of soil-based approaches for quantifying enhanced weathering: a US case study** (2024)
-   13 citations · Enhanced Weathering
+   12 citations · Enhanced Weathering
 
 6. **On error, uncertainty, and assumptions in calculating carbon dioxide removal rates by enhanced rock weathering in Kantola et al., 2023** (2023)
    10 citations · Enhanced Weathering
 
-7. **A Review of Measurement for Quantification of Carbon Dioxide Removal by Enhanced Weathering in Soil** (2023)
+7. **Weathering without realizing inorganic CO <sub>2</sub> removal revealed through base cation monitoring** (2026)
+   8 citations · Enhanced Weathering
+
+8. **Reviews and syntheses: Carbon vs. cation based MRV of Enhanced Rock Weathering and the issue of soil organic carbon** (2026)
+   8 citations · Enhanced Weathering
+
+9. **A Review of Measurement for Quantification of Carbon Dioxide Removal by Enhanced Weathering in Soil** (2023)
    6 citations
 
-8. **Initial validation of a soil-based mass-balance approach for empirical monitoring of enhanced rock weathering rates** (2023)
+10. **Initial validation of a soil-based mass-balance approach for empirical monitoring of enhanced rock weathering rates** (2023)
    6 citations · Enhanced Weathering
-
-9. **Weathering without realizing inorganic CO <sub>2</sub> removal revealed through base cation monitoring** (2026)
-   5 citations · Enhanced Weathering
-
-10. **Enhanced weathering in the U.S. Corn Belt delivers carbon removal with agronomic benefits** (2023)
-   5 citations · Enhanced Weathering
 
 ## External Profiles
 

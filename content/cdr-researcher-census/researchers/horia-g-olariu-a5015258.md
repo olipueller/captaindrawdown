@@ -1,7 +1,7 @@
 ---
 title: "Horia G. Olariu"
 description: "Horia G. Olariu is a Mid-career Enhanced Weathering researcher at Mitchell Institute in US. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.337488
+date: 2026-10-11T02:33:00.371607
 url: "/cdr-researcher-census/researchers/horia-g-olariu-a5015258/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Woody plant encroachment modifies carbonate bedrock: field evidence for enhanced weathering and permeability** (2023)
-   13 citations · Enhanced Weathering
+   15 citations · Enhanced Weathering
 
 ## External Profiles
 

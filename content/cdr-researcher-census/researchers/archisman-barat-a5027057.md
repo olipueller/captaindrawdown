@@ -1,7 +1,7 @@
 ---
 title: "Archisman Barat"
 description: "Archisman Barat is a Mid-career General CDR researcher at Central University of South Bihar in IN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.043104
+date: 2026-10-11T02:33:00.073990
 url: "/cdr-researcher-census/researchers/archisman-barat-a5027057/"
 layout: "researcher"
 hiddenInHomeList: true

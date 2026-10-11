@@ -1,7 +1,7 @@
 ---
 title: "Tongxin He"
 description: "Tongxin He is a Mid-career Soil Carbon researcher at Nanning Normal University in CN. With 23 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.291560
+date: 2026-10-11T02:32:59.295905
 url: "/cdr-researcher-census/researchers/tongxin-he-a5111581/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **The importance of fine root protection in topsoil carbon and nitrogen sequestration following land-use changes on sloping karst ecosystems** (2022)
    15 citations · Soil Carbon
 
-2. **Why Was Disturbed Grassland More Efficient in Soil Carbon and Nitrogen Sequestration than Woodlands in a Karst Slope Ecosystem, Southwest China?** (2021)
+2. **Contribution of Atmospheric Nitrogen Deposition to the Vegetation Carbon Sink in Naturally Restored Ecosystems of Rocky Desertification Areas: A Quantitative Study Based on 15N Isotope Tracing** (2026)
+   0 citations
+
+3. **Why Was Disturbed Grassland More Efficient in Soil Carbon and Nitrogen Sequestration than Woodlands in a Karst Slope Ecosystem, Southwest China?** (2021)
    0 citations · Soil Carbon
 
 ## External Profiles

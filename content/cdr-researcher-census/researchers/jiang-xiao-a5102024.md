@@ -1,7 +1,7 @@
 ---
 title: "Jiang Xiao"
 description: "Jiang Xiao is a Senior Biochar researcher at Ministry of Education of the People's Republic of China in CN. With 51 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.166443
+date: 2026-10-11T02:32:59.170526
 url: "/cdr-researcher-census/researchers/jiang-xiao-a5102024/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Probing Molecular Level and Subnanoscale Stabilization Mechanisms of Organic Carbon Species during Fe(II)-Induced Ferrihydrite Transformation** (2025)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 2. **Immobilization of Cd(II) by phosphorus-modified bamboo biochar from solution: mechanistic study from qualitative to quantitative analysis** (2025)
    16 citations · Biochar

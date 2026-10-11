@@ -1,7 +1,7 @@
 ---
 title: "Xiaoke Xin"
 description: "Xiaoke Xin is a Mid-career Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.168680
+date: 2026-10-11T02:33:00.198454
 url: "/cdr-researcher-census/researchers/xiaoke-xin-a5056088/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 ## Top CDR Publications
 
-1. **Resilience of Phytoplankton and Microzooplankton Communities under Ocean Alkalinity Enhancement in the Oligotrophic Ocean** (2024)
-   22 citations · General CDR
+1. **Phytoplankton response to increased nickel in the context of ocean alkalinity enhancement** (2024)
+   26 citations · General CDR
 
-2. **Phytoplankton response to increased nickel in the context of ocean alkalinity enhancement** (2024)
-   17 citations · General CDR
+2. **Resilience of Phytoplankton and Microzooplankton Communities under Ocean Alkalinity Enhancement in the Oligotrophic Ocean** (2024)
+   23 citations · General CDR
 
 3. **Phytoplankton Response to Increased Nickel in the Context of Ocean Alkalinity Enhancement** (2023)
    8 citations
@@ -62,13 +62,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 4. **Responses of phytoplankton community to silicate-based and calcium-based ocean alkalinity enhancement** (2024)
    1 citations · Ocean CDR
 
-5. **Biogeochemical responses to ocean alkalinity enhancement in the North China Sea** (2026)
+5. **Wastewater-based ocean alkalinity enhancement alleviates effluent-induced disturbance on coastal bacterial community** (2026)
+   0 citations · Ocean CDR
+
+6. **Biogeochemical responses to ocean alkalinity enhancement in the North China Sea** (2026)
    0 citations · General CDR
 
-6. **Comment on bg-2023-130** (2023)
+7. **Comment on bg-2023-130** (2023)
    0 citations · General CDR
 
-7. **Supplementary material to "Phytoplankton Response to Increased Nickel in the Context of Ocean Alkalinity Enhancement"** (2023)
+8. **Supplementary material to "Phytoplankton Response to Increased Nickel in the Context of Ocean Alkalinity Enhancement"** (2023)
    0 citations · Ocean CDR
 
 ## External Profiles

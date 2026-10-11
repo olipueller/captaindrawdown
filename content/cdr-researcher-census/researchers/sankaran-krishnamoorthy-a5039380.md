@@ -1,7 +1,7 @@
 ---
 title: "Sankaran Krishnamoorthy"
 description: "Sankaran Krishnamoorthy is a Mid-career General CDR researcher at Vignan's Foundation for Science, Technology & Research in IN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.947427
+date: 2026-10-11T02:32:59.977536
 url: "/cdr-researcher-census/researchers/sankaran-krishnamoorthy-a5039380/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Evaluation of Carbon Capture Methodologies, Mechanisms, and Improvements for Sustainable Carbon Dioxide Mitigation Using Microalgae** (2024)
-   8 citations · General CDR
+   9 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Felicia Bucura"
 description: "Felicia Bucura is a Mid-career Biochar researcher at National Institute for Research and Development of Isotopic and Molecular Technologies in RO. With 46 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.726546
+date: 2026-10-11T02:32:59.747674
 url: "/cdr-researcher-census/researchers/felicia-bucura-a5064043/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Thermochemical processing of agricultural waste into biochar with potential application for coal mining degraded soils** (2025)
-   17 citations · Biochar
+   18 citations · Biochar
 
 2. **Biochar for Soil Fertility and Climate Mitigation: Review on Feedstocks, Pyrolysis Conditions, Functional Properties, and Applications with Emerging AI Integration** (2025)
    10 citations · Biochar

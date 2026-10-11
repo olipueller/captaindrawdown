@@ -1,7 +1,7 @@
 ---
 title: "Shenhui Yu"
 description: "Shenhui Yu is a Senior Soil Carbon researcher at Guizhou Normal University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.851020
+date: 2026-10-11T02:32:59.877994
 url: "/cdr-researcher-census/researchers/shenhui-yu-a5062666/"
 layout: "researcher"
 hiddenInHomeList: true

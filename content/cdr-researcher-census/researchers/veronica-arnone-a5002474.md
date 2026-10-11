@@ -1,7 +1,7 @@
 ---
 title: "Verónica Arnone"
 description: "Verónica Arnone is a Mid-career Ocean CDR researcher at Oceanic Platform of the Canary Islands in ES. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.362901
+date: 2026-10-11T02:33:00.398733
 url: "/cdr-researcher-census/researchers/veronica-arnone-a5002474/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Ocean alkalinity enhancement using sodium carbonate salts does not lead to measurable changes in Fe dynamics in a mesocosm experiment** (2024)
-   6 citations · Ocean CDR
+   8 citations · Ocean CDR
 
 2. **Ocean alkalinity enhancement using sodium carbonate salts does not impact Fe dynamics in a mesocosm experiment** (2023)
    3 citations · Ocean CDR

@@ -1,7 +1,7 @@
 ---
 title: "Chenlu Huang"
 description: "Chenlu Huang is a Mid-career Soil Carbon researcher at Xi'an International Studies University in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.782172
+date: 2026-10-11T02:32:59.805919
 url: "/cdr-researcher-census/researchers/chenlu-huang-a5102302/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Spatiotemporal dynamics and driving factors of soil erosion in the Beiluo River Basin, Loess Plateau, China** (2023)
-   28 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 ## External Profiles
 

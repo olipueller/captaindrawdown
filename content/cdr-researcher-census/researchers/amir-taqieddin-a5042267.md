@@ -1,7 +1,7 @@
 ---
 title: "Amir Taqieddin"
 description: "Amir Taqieddin is a Mid-career Ocean CDR researcher at Solid Power (United States) in US. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.164868
+date: 2026-10-11T02:32:59.168896
 url: "/cdr-researcher-census/researchers/amir-taqieddin-a5042267/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Electrochemical ocean iron fertilization and alkalinity enhancement approach toward CO2 sequestration** (2024)
-   8 citations · General CDR
+   7 citations · General CDR
 
 2. **Design and Implementation of Iron-Based Electrochemical System for Simultaneous Carbon Capture and Hydrogen Gas Recovery** (2024)
    0 citations · Ocean CDR

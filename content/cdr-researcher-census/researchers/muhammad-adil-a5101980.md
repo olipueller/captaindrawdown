@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Adil"
 description: "Muhammad Adil is a Mid-career Biochar researcher at Yangzhou University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.013145
+date: 2026-10-11T02:33:00.043792
 url: "/cdr-researcher-census/researchers/muhammad-adil-a5101980/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,9 +48,12 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Climate change stress alleviation through nature based solutions: A global perspective** (2022)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
-2. **Carbon Farming and Agroforestry: Synergies, Trade‑Offs, and a Deci‑ sion Framework for Climate‑Smart Landscapes** (2026)
+2. **Long-term moderate-nitrogen input with no-till cover crops enhances soil carbon sequestration and nitrogen use efficiency in dryland wheat systems: A meta-analysis** (2026)
+   2 citations · Soil Carbon
+
+3. **Carbon Farming and Agroforestry: Synergies, Trade‑Offs, and a Deci‑ sion Framework for Climate‑Smart Landscapes** (2026)
    0 citations · Biochar
 
 ## External Profiles

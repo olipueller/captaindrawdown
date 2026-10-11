@@ -1,7 +1,7 @@
 ---
 title: "Houkun Chu"
 description: "Houkun Chu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.398620
+date: 2026-10-11T02:33:00.436726
 url: "/cdr-researcher-census/researchers/houkun-chu-a5018276/"
 layout: "researcher"
 hiddenInHomeList: true

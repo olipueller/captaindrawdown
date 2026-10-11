@@ -1,7 +1,7 @@
 ---
 title: "Integr. of Intermittent Renewable Energy"
 description: "Integr. of Intermittent Renewable Energy is an Early-career DAC researcher. With 16 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.812005
+date: 2026-10-11T02:32:59.836944
 url: "/cdr-researcher-census/researchers/integr-of-intermittent-renewable-energy-a5132842/"
 layout: "researcher"
 hiddenInHomeList: true

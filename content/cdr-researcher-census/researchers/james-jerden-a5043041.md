@@ -1,7 +1,7 @@
 ---
 title: "James Jerden"
 description: "James Jerden is a Senior General CDR researcher. With 57 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.205491
+date: 2026-10-11T02:32:59.209740
 url: "/cdr-researcher-census/researchers/james-jerden-a5043041/"
 layout: "researcher"
 hiddenInHomeList: true

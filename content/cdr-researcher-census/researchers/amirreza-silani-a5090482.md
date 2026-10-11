@@ -1,7 +1,7 @@
 ---
 title: "Amirreza Silani"
 description: "Amirreza Silani is a Mid-career DAC researcher at Netherlands Organisation for Applied Scientific Research in NL. With 18 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.341615
+date: 2026-10-11T02:33:00.376280
 url: "/cdr-researcher-census/researchers/amirreza-silani-a5090482/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Model-free control of direct air capture: Optimal rule-based policies tuned via Bayesian optimization** (2026)
-   0 citations · DAC
+   2 citations · DAC
 
 2. **Data-driven Performance Optimization for Direct Air Capture Process** (2025)
    0 citations · DAC

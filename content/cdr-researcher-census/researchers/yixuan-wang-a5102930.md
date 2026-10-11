@@ -1,7 +1,7 @@
 ---
 title: "Yixuan Wang"
 description: "Yixuan Wang is a Mid-career Biochar researcher at Louisiana State University in US. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.546594
+date: 2026-10-11T02:32:59.561630
 url: "/cdr-researcher-census/researchers/yixuan-wang-a5102930/"
 layout: "researcher"
 hiddenInHomeList: true

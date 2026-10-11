@@ -1,7 +1,7 @@
 ---
 title: "Daniel L. Sanchez"
 description: "Daniel L. Sanchez is a Senior General CDR researcher at Carbon180 in US. With 96 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.049878
+date: 2026-10-11T02:32:59.053752
 url: "/cdr-researcher-census/researchers/daniel-l-sanchez-a5016864/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,19 +54,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    217 citations · BECCS
 
 2. **Carbon Dioxide Removal Policy in the Making: Assessing Developments in 9 OECD Cases** (2021)
-   151 citations · General CDR
+   152 citations · General CDR
 
 3. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   62 citations · General CDR
+   61 citations · General CDR
 
 4. **Leveraging the bioeconomy for carbon drawdown** (2023)
-   58 citations · BECCS
+   60 citations · BECCS
 
 5. **Biomass Carbon Removal and Storage (BiRCS) Roadmap** (2021)
-   52 citations · General CDR
+   53 citations · General CDR
 
 6. **Market Potential for CO<sub>2</sub> Removal and Sequestration from Renewable Natural Gas Production in California** (2022)
-   18 citations · BECCS
+   19 citations · BECCS
 
 7. **Assessment of carbon dioxide removal potential via BECCS in a carbon-neutral Europe** (2021)
    11 citations · BECCS

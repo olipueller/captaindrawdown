@@ -1,7 +1,7 @@
 ---
 title: "Tingqiao Yu"
 description: "Tingqiao Yu is an Early-career Soil Carbon researcher at Beijing Health Vocational College in CN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.398392
+date: 2026-10-11T02:33:00.436529
 url: "/cdr-researcher-census/researchers/tingqiao-yu-a5091723/"
 layout: "researcher"
 hiddenInHomeList: true

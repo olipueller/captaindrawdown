@@ -1,7 +1,7 @@
 ---
 title: "Rose Abramoff"
 description: "Rose Abramoff is a Senior Soil Carbon researcher at Lawrence Berkeley National Laboratory in US. With 111 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.058401
+date: 2026-10-11T02:32:59.062728
 url: "/cdr-researcher-census/researchers/rose-abramoff-a5059556/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Global stocks and capacity of mineral-associated soil organic carbon** (2022)
-   921 citations · Soil Carbon
+   943 citations · Soil Carbon
 
 2. **Improved global-scale predictions of soil carbon stocks with Millennial Version 2** (2021)
-   167 citations · Soil Carbon
+   162 citations · Soil Carbon
 
 3. **How does management affect soil C sequestration and greenhouse gas fluxes in boreal and temperate forests? – A review** (2022)
    156 citations
@@ -66,10 +66,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    17 citations · General CDR
 
 6. **Uncertainties of enhanced rock weathering for climate-change mitigation** (2026)
-   12 citations · Enhanced Weathering
+   13 citations · Enhanced Weathering
 
 7. **Which Plant Traits Increase Soil Carbon Sequestration? Empirical Evidence From a Long‐Term Poplar Genetic Diversity Trial** (2025)
-   4 citations · General CDR
+   5 citations · General CDR
 
 8. **Uncertainties of enhanced rock weathering for climate-change mitigation** (2026)
    0 citations · Enhanced Weathering

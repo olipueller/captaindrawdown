@@ -1,7 +1,7 @@
 ---
 title: "Ryan Hanna"
 description: "Ryan Hanna is a Senior General CDR researcher at University of California, San Diego in US. With 48 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.216392
+date: 2026-10-11T02:32:59.220261
 url: "/cdr-researcher-census/researchers/ryan-hanna-a5027987/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Emergency deployment of direct air capture as a response to the climate crisis** (2021)
-   249 citations · DAC
+   246 citations · DAC
 
 2. **Removing atmospheric CO<sub>2</sub> through mass scaleup of crops with enhanced root systems** (2025)
    7 citations · General CDR

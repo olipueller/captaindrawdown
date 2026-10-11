@@ -1,7 +1,7 @@
 ---
 title: "Xiaomin Zhao"
 description: "Xiaomin Zhao is a Senior Soil Carbon researcher at Binzhou Medical University in CN. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.717941
+date: 2026-10-11T02:32:59.738979
 url: "/cdr-researcher-census/researchers/xiaomin-zhao-a5101827/"
 layout: "researcher"
 hiddenInHomeList: true

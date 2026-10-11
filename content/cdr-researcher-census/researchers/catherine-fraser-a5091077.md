@@ -1,7 +1,7 @@
 ---
 title: "Catherine Fraser"
 description: "Catherine Fraser is a Senior DAC researcher at World Resources Institute in US. With 56 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.113728
+date: 2026-10-11T02:32:59.118368
 url: "/cdr-researcher-census/researchers/catherine-fraser-a5091077/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Communities conditionally support deployment of direct air capture for carbon dioxide removal in the United States** (2024)
-   33 citations · DAC
+   38 citations · DAC
 
 2. **Community perceptions of and preconditions for direct air capture in the U.S.** (2023)
    4 citations · DAC

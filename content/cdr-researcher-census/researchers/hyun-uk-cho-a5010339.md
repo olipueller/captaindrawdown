@@ -1,7 +1,7 @@
 ---
 title: "Hyun Uk Cho"
 description: "Hyun Uk Cho is a Senior Biochar researcher at Chungnam National University in KR. With 38 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.198275
+date: 2026-10-11T02:32:59.202196
 url: "/cdr-researcher-census/researchers/hyun-uk-cho-a5010339/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Investigating the adsorption behavior and mechanisms of swine manure-derived biochar in tetracycline removal** (2025)
-   7 citations · Biochar
+   8 citations · Biochar
 
 2. **Mechanistic insights into tetracycline adsorption by alkaline-modified biochar derived from anaerobically digested sludge** (2025)
-   1 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

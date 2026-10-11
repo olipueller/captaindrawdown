@@ -1,7 +1,7 @@
 ---
 title: "Xiaonuan Wang"
 description: "Xiaonuan Wang is a Mid-career Biochar researcher at Shanghai Polytechnic University in CN. With 31 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.509400
+date: 2026-10-11T02:32:59.522495
 url: "/cdr-researcher-census/researchers/xiaonuan-wang-a5064835/"
 layout: "researcher"
 hiddenInHomeList: true

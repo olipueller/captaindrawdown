@@ -1,7 +1,7 @@
 ---
 title: "D Bowen Butchart"
 description: "D Bowen Butchart is an Early-career Soil Carbon researcher at University of Tasmania in AU. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.381137
+date: 2026-10-11T02:33:00.416911
 url: "/cdr-researcher-census/researchers/d-bowen-butchart-a5057860/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Grazing management for soil carbon in Australia: A review** (2023)
-   74 citations · General CDR
+   76 citations · General CDR
 
 ## External Profiles
 

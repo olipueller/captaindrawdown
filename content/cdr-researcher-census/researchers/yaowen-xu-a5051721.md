@@ -1,7 +1,7 @@
 ---
 title: "Yaowen Xu"
 description: "Yaowen Xu is a Mid-career Soil Carbon researcher at Zhejiang Lab in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.130266
+date: 2026-10-11T02:33:00.160693
 url: "/cdr-researcher-census/researchers/yaowen-xu-a5051721/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,25 +48,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Divergent contribution of microbial- and plant-derived carbon to soil organic carbon in Moso bamboo forests left unmanaged** (2023)
-   36 citations · Soil Carbon
+   37 citations · Soil Carbon
 
 2. **Microbial pathways driving stable soil organic carbon change in abandoned Moso bamboo forests in southeast China** (2023)
-   35 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 3. **The role of mixed-species forests in post-fire soil organic carbon restoration: Mechanisms and microbial-mediated pathways** (2025)
-   3 citations
+   4 citations
 
-4. **Development of low-carbon and porous biochar-slag composites for efficient phosphorus removal** (2026)
+4. **Microbial mechanisms of carbon sequestration discrepancy between broadleaf and Moso bamboo forests** (2025)
+   1 citations
+
+5. **Development of low-carbon and porous biochar-slag composites for efficient phosphorus removal** (2026)
    0 citations · Biochar
 
-5. **Development of Low-carbon and Porous Biochar-Slag Composites for Efficient Phosphorus Removal** (2026)
+6. **Development of Low-carbon and Porous Biochar-Slag Composites for Efficient Phosphorus Removal** (2026)
    0 citations · Biochar
 
-6. **Divergent microbial pathways of soil carbon sequestration in topsoil and subsoil during forest succession** (2026)
+7. **Divergent microbial pathways of soil carbon sequestration in topsoil and subsoil during forest succession** (2026)
    0 citations · Soil Carbon
-
-7. **Microbial mechanisms of carbon sequestration discrepancy between broadleaf and Moso bamboo forests** (2025)
-   0 citations
 
 ## External Profiles
 

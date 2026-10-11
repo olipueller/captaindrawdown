@@ -1,7 +1,7 @@
 ---
 title: "Sara Winterfeldt"
 description: "Sara Winterfeldt is an Early-career Soil Carbon researcher at Lund University in SE. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.311989
+date: 2026-10-11T02:33:00.342783
 url: "/cdr-researcher-census/researchers/sara-winterfeldt-a5064656/"
 layout: "researcher"
 hiddenInHomeList: true

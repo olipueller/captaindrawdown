@@ -1,7 +1,7 @@
 ---
 title: "Yann Bozec"
 description: "Yann Bozec is a Senior Ocean CDR researcher at Centre National de la Recherche Scientifique in FR. With 75 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.048003
+date: 2026-10-11T02:32:59.051727
 url: "/cdr-researcher-census/researchers/yann-bozec-a5010141/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 27 |
 | Citations | 5,154 |
 | Publications | 75 |
-| CDR Focus | 5.3% |
+| CDR Focus | 6.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -56,10 +56,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 2. **A synthesis of ocean total alkalinity and dissolved inorganic carbon measurements from 1993 to 2022: the SNAPO-CO2-v1 dataset** (2024)
    15 citations · General CDR
 
-3. **An updated synthesis of ocean total alkalinity and dissolved inorganic carbon measurements from 1993 to 2023: the SNAPO-CO <sub>2</sub> -v2 dataset** (2025)
-   8 citations · General CDR
+3. **Synthesis of iron fertilization experiments: From the iron age in the age of enlightenment** (2022)
+   11 citations · Ocean CDR
 
-4. **An updated synthesis of ocean total alkalinity and dissolved inorganic carbon measurements from 1993 to 2023: the SNAPO-CO2-v2 dataset** (2024)
+4. **An updated synthesis of ocean total alkalinity and dissolved inorganic carbon measurements from 1993 to 2023: the SNAPO-CO <sub>2</sub> -v2 dataset** (2025)
+   10 citations · General CDR
+
+5. **An updated synthesis of ocean total alkalinity and dissolved inorganic carbon measurements from 1993 to 2023: the SNAPO-CO2-v2 dataset** (2024)
    1 citations · General CDR
 
 ## External Profiles

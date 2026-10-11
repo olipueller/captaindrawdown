@@ -1,7 +1,7 @@
 ---
 title: "Mengmeng Wen"
 description: "Mengmeng Wen is a Mid-career Soil Carbon researcher at Ludong University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.982505
+date: 2026-10-11T02:33:00.013719
 url: "/cdr-researcher-census/researchers/mengmeng-wen-a5100573/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Cover cropping promotes soil carbon sequestration by enhancing microaggregate-protected and mineral-associated carbon** (2023)
-   31 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 2. **Effects of long-term diversified crop rotations on soil carbon dynamics mediated by microbial carbon degradation genes in the Loess Plateau** (2026)
    3 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Gaili Zhang"
 description: "Gaili Zhang is a Mid-career Biochar researcher at Henan Normal University in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.846516
+date: 2026-10-11T02:32:59.872865
 url: "/cdr-researcher-census/researchers/gaili-zhang-a5027696/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Accelerated removal of organic pollutants by biochar-based iron carbon granule-activated periodate in chloride-containing water: The role of active chlorine** (2024)
-   21 citations · Biochar
+   22 citations · Biochar
 
 ## External Profiles
 

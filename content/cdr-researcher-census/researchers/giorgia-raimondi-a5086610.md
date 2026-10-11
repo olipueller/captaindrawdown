@@ -1,7 +1,7 @@
 ---
 title: "Giorgia Raimondi"
 description: "Giorgia Raimondi is a Mid-career Soil Carbon researcher at University of Padua in IT. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.054746
+date: 2026-10-11T02:33:00.085373
 url: "/cdr-researcher-census/researchers/giorgia-raimondi-a5086610/"
 layout: "researcher"
 hiddenInHomeList: true

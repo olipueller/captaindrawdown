@@ -1,7 +1,7 @@
 ---
 title: "Rupert Stuart-Smith"
 description: "Rupert Stuart-Smith is a Mid-career General CDR researcher at University of Oxford in GB. With 50 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.187905
+date: 2026-10-11T02:32:59.191966
 url: "/cdr-researcher-census/researchers/rupert-stuart-smith-a5045187/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Implications of states’ dependence on carbon dioxide removal for achieving the Paris temperature goal** (2025)
-   9 citations · General CDR
+   10 citations · General CDR
 
 2. **Law, justice and the role of courts in changing the social superstructure narrative in climate litigation** (2023)
    5 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Zujiao Shi"
 description: "Zujiao Shi is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.098644
+date: 2026-10-11T02:33:00.129290
 url: "/cdr-researcher-census/researchers/zujiao-shi-a5044180/"
 layout: "researcher"
 hiddenInHomeList: true

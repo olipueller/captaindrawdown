@@ -1,7 +1,7 @@
 ---
 title: "Jizhang Yang"
 description: "Jizhang Yang is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.482344
+date: 2026-10-11T02:32:59.493715
 url: "/cdr-researcher-census/researchers/jizhang-yang-a5003749/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **N, S-co-doping of activated biochar from herb residue for enhanced electrocatalytic performance toward oxygen reduction reaction** (2022)
-   23 citations · Biochar
+   25 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Étienne Tourigny"
 description: "Étienne Tourigny is a Senior General CDR researcher at Barcelona Supercomputing Center in ES. With 116 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.090927
+date: 2026-10-11T02:32:59.095498
 url: "/cdr-researcher-census/researchers/etienne-tourigny-a5026790/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,34 +50,34 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Top CDR Publications
 
-1. **Towards a multilevel modelling framework for coproducing feasible and equitable portfolios of land-based climate mitigation technologies** (2026)
+1. **Modeling the effect of land-based mitigation technologies on the carbon cycle and climate** (2023)
+   1 citations · General CDR
+
+2. **Assessing Earth system responses in mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2026)
+   0 citations · General CDR
+
+3. **Towards a multilevel modelling framework for coproducing feasible and equitable portfolios of land-based climate mitigation technologies** (2026)
    0 citations
 
-2. **Towards a multilevel modelling framework for coproducing feasible and equitable portfolios of land-based climate mitigation technologies** (2026)
+4. **Towards a multilevel modelling framework for coproducing feasible and equitable portfolios of land-based climate mitigation technologies** (2026)
    0 citations
 
-3. **Comparison of Compound Marine Extremes Under Overshooting vs straight-stabilization Scenarios** (2026)
+5. **Comparison of Compound Marine Extremes Under Overshooting vs straight-stabilization Scenarios** (2026)
    0 citations
 
-4. **Assessing Earth system responses in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2026)
+6. **Assessing Earth system responses in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2026)
    0 citations · General CDR
 
-5. **Towards a multilevel modelling framework for coproducing feasible and equitable portfolios of land-based climate mitigation technologies** (2026)
+7. **Towards a multilevel modelling framework for coproducing feasible and equitable portfolios of land-based climate mitigation technologies** (2026)
    0 citations · General CDR
 
-6. **Assessing Earth system feedbacks in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2025)
+8. **Assessing Earth system feedbacks in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2025)
    0 citations · General CDR
 
-7. **Bottom-up estimate of the carbon dioxide removal potential of land-based mitigation technologies using a coupled ESM/ land-use change model framework** (2025)
+9. **Bottom-up estimate of the carbon dioxide removal potential of land-based mitigation technologies using a coupled ESM/ land-use change model framework** (2025)
    0 citations · General CDR
 
-8. **Representing carbon dioxide removal in Earth System Models: towards an activity-driven framework.** (2025)
-   0 citations · General CDR
-
-9. **Reconstruction and downscaling of historical land surface boundary conditions with Machine Learning** (2025)
-   0 citations · General CDR
-
-10. **Modeling the effect of land-based mitigation technologies on the carbon cycle and climate** (2023)
+10. **Representing carbon dioxide removal in Earth System Models: towards an activity-driven framework.** (2025)
    0 citations · General CDR
 
 ## External Profiles

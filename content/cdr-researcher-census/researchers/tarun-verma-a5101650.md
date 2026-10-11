@@ -1,7 +1,7 @@
 ---
 title: "Tarun Verma"
 description: "Tarun Verma is a Senior Soil Carbon researcher at Dr. Yashwant Singh Parmar University of Horticulture and Forestry in IN. With 39 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.388320
+date: 2026-10-11T02:33:00.425219
 url: "/cdr-researcher-census/researchers/tarun-verma-a5101650/"
 layout: "researcher"
 hiddenInHomeList: true

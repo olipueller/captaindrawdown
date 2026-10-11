@@ -1,7 +1,7 @@
 ---
 title: "Alexandre Babin"
 description: "Alexandre Babin is a Mid-career BECCS researcher at University of British Columbia in CA. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.470228
+date: 2026-10-11T02:32:59.481483
 url: "/cdr-researcher-census/researchers/alexandre-babin-a5081732/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Potential and challenges of bioenergy with carbon capture and storage as a carbon-negative energy source: A review** (2021)
-   202 citations · BECCS
+   199 citations · BECCS
 
 ## External Profiles
 

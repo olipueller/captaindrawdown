@@ -1,7 +1,7 @@
 ---
 title: "Hongda Xu"
 description: "Hongda Xu is a Senior Biochar researcher at Fujian Normal University in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.594311
+date: 2026-10-11T02:32:59.611236
 url: "/cdr-researcher-census/researchers/hongda-xu-a5108781/"
 layout: "researcher"
 hiddenInHomeList: true

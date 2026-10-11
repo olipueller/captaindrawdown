@@ -1,7 +1,7 @@
 ---
 title: "Roya Sadat Neisan"
 description: "Roya Sadat Neisan is a Mid-career Biochar researcher at Memorial University of Newfoundland in CA. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:30.395466
+date: 2026-10-11T02:33:00.433748
 url: "/cdr-researcher-census/researchers/roya-sadat-neisan-a5082748/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Adsorption of copper from water using TiO2-modified activated carbon derived from orange peels and date seeds: Response surface methodology optimization** (2023)
-   33 citations
+   38 citations
 
 2. **Optimization of arsenic removal from water using novel renewable adsorbents derived from orange peels** (2025)
    5 citations · Biochar

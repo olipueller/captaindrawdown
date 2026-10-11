@@ -1,7 +1,7 @@
 ---
 title: "Xiaodong Ding"
 description: "Xiaodong Ding is a Senior Soil Carbon researcher at Northeast Agricultural University in CN. With 98 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.073568
+date: 2026-10-11T02:32:59.078357
 url: "/cdr-researcher-census/researchers/xiaodong-ding-a5069460/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    118 citations · Soil Carbon
 
 2. **Straw incorporation and nitrogen fertilization enhance soil carbon sequestration by altering soil aggregate and microbial community composition in saline-alkali soil** (2023)
-   34 citations · Soil Carbon
+   37 citations · Soil Carbon
 
 3. **Response of soil organic carbon stability and sequestration to long-term phosphorus application: insight from a 9-year field experiment in saline alkaline paddy soil** (2023)
    15 citations · Soil Carbon
@@ -63,21 +63,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Soil Carbon
 
 5. **Straw Incorporation and Nitrogen Fertilization Enhance Soil Organic Carbon Sequestration by Promoting Aggregate Stability and Iron Oxide Transformation** (2025)
-   7 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 6. **Laccase Promotes the Formation of Fe-OM Complexes by Catalyzing the Polymerization of OM in Coastal Saline-Alkaline Soil** (2023)
    5 citations · Soil Carbon
 
 7. **Response of the Stabilization of Organic Carbon to Straw Incorporation and Nitrogen Application: Evidence from Carbon Fractions and Bacterial Survival Strategies** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 8. **Potential effects of laccase on the formation and accumulation of Fe-OM complexes in coastal saline paddy soil under straw and nitrogen fertilization** (2022)
    2 citations · Soil Carbon
 
-9. **The impact of silicon-modified biochar on carbon sequestration pathways in saline-alkali soil under different pyrolysis temperatures** (2026)
-   0 citations · Biochar
+9. **Synergistic straw incorporation and reduced nitrogen application enhance soil carbon sequestration in saline soils** (2026)
+   0 citations · Soil Carbon
 
-10. **Long-term application of different organic materials enhance soil organic carbon stability and sequestration in saline-alkali paddy soils** (2026)
+10. **The impact of silicon-modified biochar on carbon sequestration pathways in saline-alkali soil under different pyrolysis temperatures** (2026)
    0 citations · Biochar
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Fatima Mumtaz"
 description: "Fatima Mumtaz is a Mid-career DAC researcher at Khalifa University  in AE. With 19 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.493097
+date: 2026-10-11T02:32:59.505206
 url: "/cdr-researcher-census/researchers/fatima-mumtaz-a5041010/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Direct air capture (DAC) vs. Direct ocean capture (DOC)–A perspective on scale-up demonstrations and environmental relevance to sustain decarbonization** (2024)
-   63 citations · DAC
+   65 citations · DAC
 
 ## External Profiles
 

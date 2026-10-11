@@ -1,7 +1,7 @@
 ---
 title: "Maria Α. Lilli"
 description: "Maria Α. Lilli is a Mid-career Soil Carbon researcher at Health Innovations (United States) in US. With 46 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.454831
+date: 2026-10-11T02:32:59.465929
 url: "/cdr-researcher-census/researchers/maria-lilli-a5046343/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Optimizing the water-ecosystem-food nexus using nature-based solutions at the basin scale** (2024)
-   18 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 2. **Riparian Forests as Nature-Based Solutions within the Mediterranean Context: A Biophysical and Economic Assessment for the Koiliaris River Watershed (Crete, Greece)** (2024)
    14 citations · Soil Carbon

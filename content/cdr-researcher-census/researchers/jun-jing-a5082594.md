@@ -1,7 +1,7 @@
 ---
 title: "Jun Jing"
 description: "Jun Jing is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-09-11T02:38:29.893469
+date: 2026-10-11T02:32:59.921926
 url: "/cdr-researcher-census/researchers/jun-jing-a5082594/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Rainfall Predominantly Governs Soil Organic Carbon Loss, Exceeding the Contribution of Vegetation Carbon Sequestration in Karst Watersheds** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 
