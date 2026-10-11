@@ -2,7 +2,7 @@
 title: "Take: Inside the UK’s Answer to the GGR Review  - with James Screen"
 date: 2026-10-08T10:00:00+00:00
 slug: "podcast-take-inside-the-uk-s-answer-to-the-ggr-review-with-james-screen-0459de29"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "the-cdr-policy-scoop"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

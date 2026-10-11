@@ -2,7 +2,7 @@
 title: "Take: Debunking the Myths: Why Carbon Removal Can Scale with Klaus Lackner"
 date: 2026-10-08T10:00:00+00:00
 slug: "podcast-take-debunking-the-myths-why-carbon-removal-can-scale-with-klaus--16275cbc"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "climate-chat"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

@@ -2,7 +2,7 @@
 title: "Take: How Much CO₂ Can Enhanced Weathering Really Remove? - Derry"
 date: 2026-10-08T10:00:00+00:00
 slug: "podcast-take-how-much-co-can-enhanced-weathering-really-remove-derry-e2ad1888"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "reviewer-2-does-geoengineering"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"
