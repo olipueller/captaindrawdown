@@ -42,6 +42,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-01** — news mention: Pyrocal - Wellcamp - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/pyrocal-wellcamp/))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-05** — news mention: Pyrocal: Canada just put federal money behind biochar infrastructure â and it's coming from wastew ([source](https://www.linkedin.com/company/pyrocal/#post-ccec5b0d8103))
 - **2026-08-30** — news mention: Big Benefits: How Carbonisation and Biochar Deliver for People, Planet, and Business - Pyrocal ([source](https://www.pyrocal.com.au/big-benefits-how-carbonisation-and-biochar-deliver-for-people-planet-and-business/))

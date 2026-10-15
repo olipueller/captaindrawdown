@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>CDR Platform/Marketplace</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://watershed.com/" target="_blank" rel="noopener">https://watershed.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/watershedclimate/" target="_blank" rel="noopener">watershedclimate — 72,687 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/watershedclimate/" target="_blank" rel="noopener">watershedclimate — 79,866 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~603 (+5% YoY)</td></tr>
+  <tr><th>Employees</th><td>~377 (+18% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -34,6 +34,9 @@ Watershed is an enterprise sustainability software platform that helps companies
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-12** — news mention: Assessing the potential and cost of enhanced rock weathering in China ([source](https://doi.org/10.1038/s43247-026-04136-0))
+- **2026-10-03** — news mention: #mrv | Yale Center for Natural Carbon Capture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7511072827463159808/))
 - **2026-09-08** — news mention: Watershed: ð£ CARB just opened the portal for submitting first-year SB 253 reportingâand release ([source](https://www.linkedin.com/company/watershedclimate/#post-deabbb5776d1))
 - **2026-09-03** — news mention: Lithos: The original Frontier AMC has been nothing short of category-defining for CDR. This new Grow ([source](https://www.linkedin.com/company/lithoscarbon/#post-1f8cf02b9ca9))
 - **2026-08-27** — news mention: Blue Forest: Big news! The North Yuba Forest Partnership has renewed a memorandum of understanding,  ([source](https://www.linkedin.com/company/blue-forest-conservation/#post-247c426baf44))
@@ -61,9 +64,6 @@ Watershed is an enterprise sustainability software platform that helps companies
 - **2026-05-01** — refresh: screenshot
 - **2026-04-25** — news mention: @remineralize Watershed-scale MRV with seasonal predictability finally gives us the empirical ground ([source](https://x.com/makinggovq/status/2048007575560404995))
 - **2026-04-24** — news mention: A Watershed Reveals Carbon Removal, Soil Buffering, and Metal Stabilization ([source](https://remineralize.org/2026/04/a-watershed-reveals-carbon-removal-soil-buffering-and-metal-stabilization/))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://watershed.com/platform/marketplace))
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://watershed.com/platform/marketplace))
 
 ---
 

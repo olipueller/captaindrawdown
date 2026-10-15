@@ -30,6 +30,7 @@ Explocom GK SRL is a Romanian company based in Cristuru Secuiesc that started pr
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness

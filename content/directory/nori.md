@@ -5,7 +5,7 @@ type: "directory"
 description: "Operated an integrated carbon removal issuing program, registry, and online marketplace (with blockchain tracking) for soil carbon sequestration credits from regenerative agriculture."
 url: "/directory/nori/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,9 +15,9 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://nori.com" target="_blank" rel="noopener">https://nori.com</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/noridoteco/" target="_blank" rel="noopener">noridoteco — 10,858 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Employees</th><td>~30</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nori-consulting/" target="_blank" rel="noopener">nori-consulting — 28 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~5 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,6 +31,8 @@ Nori was a Seattle-based carbon removal marketplace and registry that connected 
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot, liveliness
+- **2026-10-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot

@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enabling Tech</td></tr>
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Website</th><td><a href="https://norlights.com" target="_blank" rel="noopener">https://norlights.com</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/northern-lights-jv/" target="_blank" rel="noopener">northern-lights-jv — 25,881 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/northern-lights-jv/" target="_blank" rel="noopener">northern-lights-jv — 26,954 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~49 (+27% YoY)</td></tr>
+  <tr><th>Employees</th><td>~46 (+17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -31,6 +31,12 @@ Northern Lights is a joint venture equally owned by Equinor, Shell, and TotalEne
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-14** — news mention: Northern Lights Signs 200,000-Ton CCS Agreement With Öresundskraft ([source](https://carbonherald.com/northern-lights-signs-200000-ton-ccs-agreement-with-oresundskraft/?utm_source=rss&utm_medium=rss&utm_campaign=northern-lights-signs-200000-ton-ccs-agreement-with-oresundskraft))
+- **2026-10-06** — news mention: Öresundskraft: Sveriges första kommersiella mellanlager för infångad koldioxid etableras i Hallands  ([source](https://www.linkedin.com/company/oresundskraft/#post-759079a3257f))
+- **2026-09-23** — news mention: Northern Lights: Phase 2 update! Both Integrated Satellite Structures (ISS) for our Phase 2 expansio ([source](https://www.linkedin.com/company/northern-lights-jv/#post-01410c533921))
+- **2026-09-19** — news mention: The Sluiskil plant in the Netherlands can capture and liquefy up to 800,000 metric tonnes of CO2 ann ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mvv3av2l6c2c))
+- **2026-09-15** — news mention: Alfa Laval to supply heat exchangers for Swedish BECCS facility ([source](https://www.energymonitor.ai/news/alfa-laval-supply-heat-exchangers-beccs/))
 - **2026-09-04** — news mention: Sirona Technologies: Big announcement: Sirona Technologies officially unveils Project Furu 🚀 Today w ([source](https://www.linkedin.com/company/sirona-technologies/#post-5123ad5ad006))
 - **2026-09-03** — news mention: Inherit: Today we issue Europe's first BECCS credits. Among our clients from this project are Micros ([source](https://www.linkedin.com/company/agero-carbon-solutions/#post-9f7f11b59ecd))
 - **2026-08-23** — news mention: Carbon Impact SAS: âLe pipeline, ce sera peut-Ãªtre dans dix ans. Mais nous, on peut faire des pro ([source](https://www.linkedin.com/company/carbon-impact-france/#post-ddf7d4961605))
@@ -55,12 +61,6 @@ Northern Lights is a joint venture equally owned by Equinor, Shell, and TotalEne
 - **2026-05-01** — refresh: screenshot
 - **2026-04-24** — news mention: #carbonremoval #cdr #northernlights #ccs #beccs #corcs | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7453428210014425088/))
 - **2026-04-24** — news mention: Northern Lights Expands CO2 Shipping Fleet With Third Carrier  https://carbonherald.com/northern-lig ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mk7yeghxky2u))
-- **2026-04-24** — news mention: The pivot: buyers needing hard-to-abate residual tonnes are routing around the cracked layer. Durabi ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mk7qslll7d2u))
-- **2026-04-23** — news mention: Northern Lights Expands CO2 Shipping Fleet With Third Carrier ([source](https://carbonherald.com/northern-lights-expands-co2-shipping-fleet-with-third-carrier/?utm_source=rss&utm_medium=rss&utm_campaign=northern-lights-expands-co2-shipping-fleet-with-third-carrier))
-- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://www.equinor.com/news/20250825-first-co2-volumes-stored-at-northern-lights))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://norlights.com/news/green-light-for-co2-injection-and-storage/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://norlights.com/news/northern-lights-jv-has-successfully-stored-first-co%E2%82%82/))
 
 ---
 

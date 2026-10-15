@@ -30,6 +30,7 @@ ADM is a Chicago-based global agribusiness giant headquartered in Decatur, which
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://www.adm.com/en-us/news/news-releases/2025/10/adm-super6-carbon-announce-plans-to-produce-cdr-credits-in-decatur/))
 - **2026-04-19** — refresh: coresignal, screenshot

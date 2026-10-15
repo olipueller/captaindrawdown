@@ -43,6 +43,11 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-13** — news mention: #rae #rae #cdrcoffeetalk | Yale Center for Natural Carbon Capture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7515489465713291267/))
+- **2026-10-12** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-5e4eb86cc6d0))
+- **2026-10-03** — news mention: CarbonRun: In June 2025, we paid CarbonRun for 450 tons of river alkalinity credits that hadn't been ([source](https://www.linkedin.com/company/carbonrun/#post-b5edb88e0020))
+- **2026-09-29** — news mention: #rae #cdr #rae | Yale Center for Natural Carbon Capture ([source](https://www.linkedin.com/feed/update/urn:li:share:7510520098177204224/))
+- **2026-09-17** — news mention: Quantified Carbon Dioxide Removal from an Alkalinity Addition Field Trial in the Kvina River, Norway ([source](https://cdrxiv.org/preprint/557))
 - **2026-09-06** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-f4c001caa2fd))
 - **2026-09-06** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/frontierclimate/#post-f4c001caa2fd))
 - **2026-08-30** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-2acff671adf6))

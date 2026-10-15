@@ -30,6 +30,7 @@ Carbon Collect is headquartered in Dublin, Ireland with a wholly owned subsidiar
 
 ## History
 
+- **2026-10-03** — news mention: Carbon Collect: Scaling Direct Air Capture Requires Capture Technology, Infrastructure, and an Opera ([source](https://www.linkedin.com/company/mechanical-tree/#post-15cad5cce81d))
 - **2026-08-29** — news mention: Carbon Collect: Scaling Direct Air Capture Requires Capture Technology, Infrastructure, and an Opera ([source](https://www.linkedin.com/company/mechanical-tree/#post-9db0496778b2))
 - **2026-08-22** — news mention: Carbon Collect: June 2026: Carbon Collect launches capital raise to advance next-generation Mechanic ([source](https://www.linkedin.com/company/mechanical-tree/#post-fc27c0b25f71))
 - **2026-08-15** — refresh: coresignal, liveliness

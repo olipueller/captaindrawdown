@@ -31,6 +31,8 @@ Solid Carbon is a Canadian research initiative led by Ocean Networks Canada (a U
 
 ## History
 
+- **2026-10-08** — news mention: Algorhythm Introduces Azure P2P™, a Renewable Power Generation Process Designed to Deliver Around-th ([source](https://techbullion.com/algorhythm-introduces-azure-p2p-a-renewable-power-generation-process-designed-to-deliver-around-the-clock-power/))
+- **2026-09-22** — news mention: Carbon Char Store: We are excited to share that Brian Reynolds , has joined subcommittee at the ASTM ([source](https://www.linkedin.com/company/carbon-char-store/#post-e62accc79aad))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-13** — news mention: КОМПЛЕКСНА ОЦІНКА ТЕХНОЛОГІЙ ПІРОЛІЗУ АГРАРНОЇ БІОМАСИ: ЕФЕКТИВНІСТЬ, МАСШТАБУВАННЯ ТА ОХОРОНА ПРАЦІ ([source](https://openalex.org/W7172194218))
 - **2026-08-12** — news mention: Meet CDRterra scientists: Tom Schürmann and Miriam Übele for NETPEC | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7492871104533901313/))

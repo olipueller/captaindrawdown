@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://marble.studio/" target="_blank" rel="noopener">https://marble.studio/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/marble-climate/" target="_blank" rel="noopener">marble-climate — 20,775 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/marble-climate/" target="_blank" rel="noopener">marble-climate — 23,515 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~34 (+53% YoY)</td></tr>
+  <tr><th>Employees</th><td>~34 (+32% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ Marble is a Paris-based climate-tech venture studio founded in 2021 by Benjamin 
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-09-09** — news mention: Marble: ð©ðªð¥¨ We've signed a project with SPRIND - Bundesagentur fÃ¼r Sprunginnovationen ð¥¨ ([source](https://www.linkedin.com/company/marble-climate/#post-0a251afdead3))
 - **2026-07-29** — news mention: Marble: 🇩🇪🥨 We've signed a project with SPRIND - Bundesagentur für Sprunginnovationen 🥨🇩🇪 Germany's  ([source](https://www.linkedin.com/company/marble-climate/#post-ecd2cbc06ae0))
 - **2026-07-26** — news mention: Enhanced weathering of lizardite-rich sand in seawater: effects of pH and CO₂ pressure on carbonate  ([source](https://doi.org/10.1007/s11356-026-38071-6))

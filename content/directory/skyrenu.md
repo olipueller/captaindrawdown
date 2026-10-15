@@ -31,6 +31,8 @@ Skyrenu Technologies is a Quebec-based direct air capture company developing com
 
 ## History
 
+- **2026-10-05** — news mention: Skyrenu: 250 million allowances is not the same as 250 million tonnes removed.   In July, the Europe ([source](https://www.linkedin.com/company/skyrenu-technologies/#post-46fd8a853546))
+- **2026-09-16** — news mention: Skyrenu Delivers First Batch Of Direct Air Captured CO2 For Utilization By Secant Fuel ([source](https://carbonherald.com/skyrenu-delivers-first-batch-of-direct-air-captured-co2-for-utilization-by-secant-fuel/?utm_source=rss&utm_medium=rss&utm_campaign=skyrenu-delivers-first-batch-of-direct-air-captured-co2-for-utilization-by-secant-fuel))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-15** — news mention: Skyrenu: Demand was never the hard part of carbon removal. Supply is. Last week, Frontier Infrastruc ([source](https://www.linkedin.com/company/skyrenu-technologies/#post-bc59f25c1e41))
 - **2026-07-25** — news mention: Skyrenu: Build, prove, deliver. Our partner Deep Sky  just showed the carbon removal industry what e ([source](https://www.linkedin.com/company/skyrenu-technologies/#post-cd925b4c4b2a))

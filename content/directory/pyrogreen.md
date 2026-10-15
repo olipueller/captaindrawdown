@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Website</th><td><a href="https://www.pyrogreen-energy.com/" target="_blank" rel="noopener">https://www.pyrogreen-energy.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/wuxi-pyrogreen-energy-technology-co-ltd/" target="_blank" rel="noopener">wuxi-pyrogreen-energy-technology-co-ltd — 10,733 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/wuxi-pyrogreen-energy-technology-co-ltd/" target="_blank" rel="noopener">wuxi-pyrogreen-energy-technology-co-ltd — 12,945 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~16</td></tr>
+  <tr><th>Employees</th><td>~125 (+867% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ Pyrogreen Energy is the biochar brand of Wuxi Powermax Renewable Energy Technolo
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-09-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-27** — news mention: Pyrogreen Energy: Identity Upgrade! Pyrogreenâs First Self-Developed Carbon Credit Project Officia ([source](https://www.linkedin.com/company/wuxi-pyrogreen-energy-technology-co-ltd/#post-f7a7b7fae063))
 - **2026-08-27** — news mention: Pyrogreen: Identity Upgrade! Pyrogreen’s First Self-Developed Carbon Credit Project Officially Kicks ([source](https://www.linkedin.com/company/wuxi-pyrogreen-energy-technology-co-ltd/#post-92df3b3165af))

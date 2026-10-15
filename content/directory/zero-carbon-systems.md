@@ -34,6 +34,7 @@ Zero Carbon Systems is a US-based direct air capture company that acquired Globa
 
 ## History
 
+- **2026-09-25** — news mention: 「ネガティブエミッション技術市場規模、成長と動向分析レポート 2026-2033年」の市場調査レポート出版・販売開始のご案内 | 株式会社SEMABIZのプレスリリース ([source](https://www.dreamnews.jp/press/0000363578))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

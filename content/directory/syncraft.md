@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Austria</td></tr>
   <tr><th>Website</th><td><a href="https://www.syncraft.at/en/" target="_blank" rel="noopener">https://www.syncraft.at/en/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/syncraft/" target="_blank" rel="noopener">syncraft — 4,504 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/syncraft/" target="_blank" rel="noopener">syncraft — 4,581 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~50 (0% YoY)</td></tr>
   <tr><th>Open roles</th><td>8 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
@@ -35,6 +35,12 @@ Syncraft is an Austrian high-tech company based in Schwaz, Tyrol that builds pat
 
 ## History
 
+- **2026-10-15** — refresh: coresignal
+- **2026-10-15** — refresh: coresignal
+- **2026-10-12** — news mention: Bioenergie Frauenfeld: 🌱 Bioenergie Frauenfeld AG issues first Credits into Isometric registry🌱 We a ([source](https://www.linkedin.com/company/bioenergie-frauenfeld/#post-d3b934415a1f))
+- **2026-10-09** — news mention: #rückwärtskraftwerk #gemeinsam #rückwärtskraftwerk #zurücknachvorn | SYNCRAFT ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7513873458263638016/))
+- **2026-10-01** — news mention: #gemeinsam #syncraft #zurücknachvorn #rückwärtskraftwerk #biochar #pflanzenkohle #carbonremoval #ern ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7511312609619648512/))
+- **2026-09-16** — news mention: #gemeinsam #wärmewende #erneuerbareenergie #fernwärme #impactinvesting #infrastruktur #energytransit ([source](https://www.linkedin.com/feed/update/urn:li:share:7505187195297832960/))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-08** — news mention: #industrie #landwirtschaft #regionale #kreislaufwirtschaft #syncraft #tirol #innovation #grünerkohle ([source](https://www.linkedin.com/feed/update/urn:li:share:7502632448141189120/))
 - **2026-09-06** — news mention: Bioenergie Frauenfeld: ð± Bioenergie Frauenfeld AG issues first Credits into Isometric registryð ([source](https://www.linkedin.com/company/bioenergie-frauenfeld/#post-03ca7a7db669))
@@ -59,12 +65,6 @@ Syncraft is an Austrian high-tech company based in Schwaz, Tyrol that builds pat
 - **2026-05-11** — manual employee_count_override → 50 (Coresignal undercounted; manual override per Dirk 2026-05-11.)
 - **2026-05-06** — news mention: #climateweekzurich #bioenergie #carbonremoval #cdr #klimapositiveenergie #resilienteenergieversorgun ([source](https://www.linkedin.com/feed/update/urn:li:share:7457433884553576448/))
 - **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-23** — news mention: #syncraft #rückwärtskraftwerk #teamsyncraft #biochar #erneuerbareenergie #kreislaufwirtschaft #indus ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7453049783495061504/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://cleantechnica.com/2025/11/10/austrian-resort-inaugurates-its-climate-positive-syncraft-powerplant/))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://cleantechnica.com/2025/11/10/austrian-resort-inaugurates-its-climate-positive-syncraft-powerplant/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.syncraft.at/en/))
 
 ---
 

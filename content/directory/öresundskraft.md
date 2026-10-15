@@ -32,6 +32,10 @@ liveliness: "🟢 Active"
 
 ## History
 
+- **2026-10-14** — news mention: Northern Lights Signs 200,000-Ton CCS Agreement With Öresundskraft ([source](https://carbonherald.com/northern-lights-signs-200000-ton-ccs-agreement-with-oresundskraft/?utm_source=rss&utm_medium=rss&utm_campaign=northern-lights-signs-200000-ton-ccs-agreement-with-oresundskraft))
+- **2026-10-08** — news mention: Öresundskraft AB: Sveriges första kommersiella mellanlager för infångad koldioxid etableras i Hallan ([source](https://www.linkedin.com/company/oresundskraft-ab/#post-6bc74ed0ea05))
+- **2026-10-06** — news mention: Öresundskraft: Sveriges första kommersiella mellanlager för infångad koldioxid etableras i Hallands  ([source](https://www.linkedin.com/company/oresundskraft/#post-759079a3257f))
+- **2026-09-25** — news mention: 🚨 Huge CDR Deal Alert! 🚨  Öresundskraft AB &lt;&gt; Höganäs AB ([source](https://www.cdr.fyi/blog/cdr-deal-alert-2026-08-26))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-03** — news mention: Öresundskraft AB: Vi är så stolta över att ta ännu ett viktigt steg för negativa utsläpp i Sverige!  ([source](https://www.linkedin.com/company/oresundskraft-ab/#post-e5f5e80dcd9b))
 - **2026-09-02** — news mention: CDR.fyi: 🚨 Huge CDR Deal Alert! 🚨 🤝 Höganäs AB , a Swedish advanced ceramic and metal powders manufa ([source](https://www.linkedin.com/company/cdr-fyi/#post-61ac825a402f))

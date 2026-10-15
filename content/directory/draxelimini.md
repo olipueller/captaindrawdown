@@ -29,6 +29,7 @@ Elimini is a wholly-owned US-based subsidiary of UK energy group Drax, launched 
 
 ## History
 
+- **2026-09-27** — news mention: Drax/Elimini: 📢The European Commission has finalized its Carbon Removal Certification Framework for  ([source](https://www.linkedin.com/company/elimini/#post-c6acecf033ba))
 - **2026-08-15** — refresh: coresignal, liveliness
 - **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.drax.com/financial-news/half-year-results-for-the-six-months-ended-30-june-2025/))
 - **2026-07-24** — news mention: Drax/Elimini: 📢The European Commission has finalized its Carbon Removal Certification Framework for  ([source](https://www.linkedin.com/company/elimini/#post-64c2e8099d10))

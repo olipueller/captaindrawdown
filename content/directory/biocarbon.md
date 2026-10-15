@@ -29,6 +29,11 @@ BioCarbon is an Australian climate-tech firm that uses proprietary pyrolysis and
 
 ## History
 
+- **2026-10-10** — news mention: Carba: Great news to share for the Carba team! Carba earned the largest allocation in Milkywire's la ([source](https://www.linkedin.com/company/carbainc/#post-2089ebb73691))
+- **2026-10-10** — news mention: CHAR Technologies: CHAR Technologies completes Phase 1 at its Thorold Renewable Energy Facility. Com ([source](https://www.linkedin.com/company/char-technologies/#post-ac749d0acc2d))
+- **2026-10-05** — news mention: BC Biocarbon: We're thrilled to announce BC Biocarbon 's second Puro.earth CORC issuance from our Bi ([source](https://www.linkedin.com/company/bc-biocarbon/#post-370bab9aadfa))
+- **2026-10-05** — news mention: WAI Environmental Solutions: WAI Environmental Solutions AS has entered a four-year supply contract  ([source](https://www.linkedin.com/company/wai-environmental-solutions-as/#post-eb60448de702))
+- **2026-09-28** — news mention: 350solutions: We're thrilled to announce BC Biocarbon 's second Puro.earth CORC issuance from our Bi ([source](https://www.linkedin.com/company/350solutions/#post-c07f7c45aff0))
 - **2026-09-14** — news mention: PyroCCS Secures Funding To Scale Biocarbon And Carbon Removal Supply Chain ([source](https://carbonherald.com/pyroccs-secures-funding-to-scale-biocarbon-and-carbon-removal-supply-chain/?utm_source=rss&utm_medium=rss&utm_campaign=pyroccs-secures-funding-to-scale-biocarbon-and-carbon-removal-supply-chain))
 - **2026-09-04** — news mention: CHAR Technologies: ICYMI CEO Andrew White walks through CHAR Tech's latest commercial and operationa ([source](https://www.linkedin.com/company/char-technologies/#post-bc81ff40c841))
 - **2026-09-04** — news mention: CHAR Technologies: https://lnkd.in/eA48MMbW Our CEO Andrew White breaks down a major milestone for t ([source](https://www.linkedin.com/company/char-technologies/#post-9c005cfb060d))
@@ -54,11 +59,6 @@ BioCarbon is an Australian climate-tech firm that uses proprietary pyrolysis and
 - **2026-08-11** — news mention: Montana Renewables begins next phase of MaxSAF expansion | Biomass Magazine ([source](https://biomassmagazine.com/articles/montana-renewables-begins-next-phase-of-maxsaf-expansion))
 - **2026-08-11** — news mention: American Airlines and Infinium announce commercial passenger flight powered by eSAF | Biomass Magazi ([source](https://biomassmagazine.com/articles/american-airlines-and-infinium-announce-commercial-passenger-flight-powered-by-esaf))
 - **2026-08-11** — news mention: Sylvera: As BioCarbon Standard launched BCR0010 (IFM &amp; APFC), they brought in Sylvera to assess  ([source](https://www.linkedin.com/company/sylveracarbon/#post-2ad058ba364d))
-- **2026-08-07** — news mention: Power Sustainable Infrastructure Credit closes $135 million project financing to Convertus for flags ([source](https://biomassmagazine.com/articles/power-sustainable-infrastructure-credit-closes-135-million-project-financing-to-convertus-for-flagship-biofuel-facility-in-ontario))
-- **2026-08-07** — news mention: Senate Ag Committee fails to advance Farm Bill | Biomass Magazine ([source](https://biomassmagazine.com/articles/senate-ag-committee-fails-to-advance-farm-bill))
-- **2026-08-06** — news mention: Par Pacific ramps up renewable fuel production in Q2 | Biomass Magazine ([source](https://biomassmagazine.com/articles/par-pacific-ramps-up-renewable-fuel-production-in-q2))
-- **2026-08-06** — news mention: Puro.earth's CORC issuance jumped over 60% year-on-year. Its retirement buyer base is 4.7x what it w ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3msfblziy5b2y))
-- **2026-08-06** — news mention: CHAR Technologies: CHAR Tech and The BMI Group Completes Thorold Kiln Installation As announced in t ([source](https://www.linkedin.com/company/char-technologies/#post-ad7c316a119e))
 
 ---
 

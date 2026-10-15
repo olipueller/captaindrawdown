@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://energnist.dk" target="_blank" rel="noopener">https://energnist.dk</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/energnist/" target="_blank" rel="noopener">energnist — 1,358 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/energnist/" target="_blank" rel="noopener">energnist — 1,418 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~125 (+6% YoY)</td></tr>
+  <tr><th>Employees</th><td>~55 (+10% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ Energnist CaptureCo A/S is the dedicated carbon-capture subsidiary of Energnist,
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-07-25** — news mention: Energnist CaptureCo: Energnist har bestået den indledende vurdering hos Puro.earth ! Vi er stolte ov ([source](https://www.linkedin.com/company/energnist/#post-1416cbf894ed))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot

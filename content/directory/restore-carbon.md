@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://restorecarbon.eu/" target="_blank" rel="noopener">https://restorecarbon.eu/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/re-store-carbon/" target="_blank" rel="noopener">re-store-carbon</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/re-store-carbon/" target="_blank" rel="noopener">re-store-carbon — 96 followers</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -31,6 +31,7 @@ Restore Carbon is a Netherlands-based CDR startup developing a patented peatland
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟡 Moderate ([source](https://restorecarbon.eu/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

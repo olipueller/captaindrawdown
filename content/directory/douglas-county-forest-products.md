@@ -32,6 +32,7 @@ Douglas County Forest Products is an independently owned sawmill in Roseburg, Or
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal
 - **2026-05-01** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](http://www.dcfp.com/))

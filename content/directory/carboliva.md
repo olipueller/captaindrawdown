@@ -29,6 +29,7 @@ Carboliva is a Spanish company based in Osuna (Seville), led by Álvaro Espuny, 
 
 ## History
 
+- **2026-09-27** — news mention: Carboliva: Â¡Ahora tambiÃ©n somos abono! La normativa europea es implacable con los abonos: no acept ([source](https://www.linkedin.com/company/carboliva-biocarb%C3%B3n-sostenible/#post-464c79c6add2))
 - **2026-08-22** — news mention: CARBOLIVA SLU: 🔊 ¡Que suene la fanfarria! Hoy podemos decirlo en alto: - Primer biochar español cert ([source](https://www.linkedin.com/company/carboliva-biocarb%c3%b3n-sostenible/#post-a3ca5c7fe524))
 - **2026-08-22** — news mention: CARBOLIVA SLU: 👉 El centro tecnológico CIRCE - Centro Tecnológico coordina el nuevo Grupo Operativo  ([source](https://www.linkedin.com/company/carboliva-biocarb%c3%b3n-sostenible/#post-f598ae6360e0))
 - **2026-08-15** — refresh: coresignal, liveliness

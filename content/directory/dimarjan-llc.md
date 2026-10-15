@@ -31,6 +31,7 @@ Dimarjan LLC is a US-headquartered (Virginia) carbon removal supplier founded in
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
 - **2026-08-23** — news mention: Dimarjan LLC: Weâre happy to share that our application for ICVCM certification has successfully p ([source](https://www.linkedin.com/company/dimarjan-llc/#post-cffc7e0fd61e))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.dimarjan.com/))

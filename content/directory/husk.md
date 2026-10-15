@@ -29,6 +29,9 @@ HUSK is a biochar producer headquartered in Singapore with operations in Cambodi
 
 ## History
 
+- **2026-10-12** — news mention: Alcom Carbon Markets: On 3 October 2026, Alcom inaugurated VitaNim, the Philippines' first industria ([source](https://www.linkedin.com/company/alcom-pte-ltd/#post-f12cc4be3039))
+- **2026-10-07** — news mention: Foundation 1 - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/foundation-1/))
+- **2026-10-04** — news mention: Safi Organics: We’re pleased to share that Safi Organics Ltd has registered with Isometric . Our #Mw ([source](https://www.linkedin.com/company/safi-organics-ltd/#post-ef5e57b17308))
 - **2026-09-14** — news mention: Boosting Bean Yields: Coffee Husk Biochar and Fertilizer Benefits ([source](https://biochartoday.com/news/combining-five-tons-of-coffee-husk-biochar-with-one-hundred-fifty-kilograms-of-blended-fertilizer-boosts-common-bean-yields-by-seventy-six-percent/))
 - **2026-09-11** — news mention: How To Achieve Rice Hull Biochar Continuous Production ([source](https://www.pyrolysismachine.com/rice-hull-biochar-continuous-production/))
 - **2026-09-10** — news mention: Researchers at the Bangladesh Institute of Nuclear Agriculture (BINA) have introduced a new biochar  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mv6hgc3mck2z))

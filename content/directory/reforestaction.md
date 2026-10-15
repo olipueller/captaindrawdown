@@ -34,6 +34,7 @@ Reforest'Action is a French B-Corp founded in 2010 that has carried out over 1,5
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot

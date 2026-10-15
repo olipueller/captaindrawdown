@@ -44,6 +44,14 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-12** — news mention: DACworx Engineering: Exciting milestone for DACLAB . Our first carbon sequestration project is on th ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-f90fee4ee134))
+- **2026-10-09** — news mention: Direct air capture - Wikipedia ([source](https://en.wikipedia.org/wiki/Direct_air_capture))
+- **2026-10-01** — news mention: Milkywire: 🌍 Milkywire has completed eight Salesforce-backed pre-purchases, securing 3,661 tonnes of ([source](https://www.linkedin.com/company/milkywire/#post-08426181283f))
+- **2026-10-01** — news mention: DACLAB: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon. La ([source](https://www.linkedin.com/company/daclab-us/#post-c3b6fbfa0655))
+- **2026-09-26** — news mention: Canada Carbon Removal Market: New Policy Framework ([source](https://en.shafaqna.com/479797/canada-carbon-removal-market-policy-framework/))
+- **2026-09-25** — news mention: Oracle Sends 'Force Majeure' Notice Over Troubled AI Data Center - Impakter ([source](https://impakter.com/oracle-sends-force-majeure-notice-over-troubled-ai-data-center/))
+- **2026-09-25** — news mention: 「ネガティブエミッション技術市場規模、成長と動向分析レポート 2026-2033年」の市場調査レポート出版・販売開始のご案内 | 株式会社SEMABIZのプレスリリース ([source](https://www.dreamnews.jp/press/0000363578))
+- **2026-09-19** — news mention: Deep Sky gets ‘full value’ after making most of its inclusion in investment summit - The Globe and M ([source](https://www.theglobeandmail.com/business/article-deep-sky-carbon-capture-carney-investment-summit/))
 - **2026-09-11** — news mention: Prospectus for Carney’s summit highlights more than 160 projects open for investment - The Globe and ([source](https://www.theglobeandmail.com/business/article-canada-investment-summit-carney-project-prospectus/))
 - **2026-09-10** — news mention: DACworx: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon. L ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-b3f2ff51ed0d))
 - **2026-09-09** — news mention: Deep Sky: Deep Sky has received an AAA-A Pre-Issuance Rating from Sylvera for Deep Sky One, the firs ([source](https://www.linkedin.com/company/deep-sky-climate/#post-a9c652e34be2))
@@ -66,14 +74,6 @@ Independently verified by carbon-credit registries:
 - **2026-07-29** — news mention: Deep Sky: BientÃ´t Ã Deep Sky Alpha. Deep Sky Alpha accueillera bientÃ´t DACLAB et sa Kelvin Tower,  ([source](https://www.linkedin.com/company/deep-sky-climate/#post-abac5cee2d4a))
 - **2026-07-26** — news mention: DACLAB: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon. La ([source](https://www.linkedin.com/company/daclab-us/#post-7a62db6e2cf4))
 - **2026-07-25** — news mention: Skyrenu: Build, prove, deliver. Our partner Deep Sky  just showed the carbon removal industry what e ([source](https://www.linkedin.com/company/skyrenu-technologies/#post-cd925b4c4b2a))
-- **2026-07-22** — news mention: CarbonCapture Inc.: True North Carbon and CarbonCapture, Inc. Announces Project Tamarack: Canada's L ([source](https://www.linkedin.com/company/carbon-capture-inc/#post-ed24c0ca48f1))
-- **2026-07-21** — news mention: Deep Sky: In case you missed it: last month, Deep Sky joined the Team Canada Trade Mission to Japan. ([source](https://www.linkedin.com/company/deep-sky-climate/#post-31285b68bef6))
-- **2026-07-11** — news mention: #carbonremoval #climatesolutions #partnership #canada #event | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7481313249385336834/))
-- **2026-07-09** — news mention: Carbon capture project gains support – Brandon Sun ([source](https://www.brandonsun.com/westman-this-week/2026/07/09/carbon-capture-project-gains-support))
-- **2026-07-04** — news mention: Deep Sky Delivers Certified DAC Credits and Secures Strategic SMBC Investment - TipRanks.com ([source](https://www.tipranks.com/news/private-companies/deep-sky-delivers-certified-dac-credits-and-secures-strategic-smbc-investment))
-- **2026-07-04** — news mention: Verde Lands 10-Year Biochar Paving Deal With Ergon, Eyes Carbon Credits  Verde Resources (OTCQB: VRD ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpsbpuwbvz26))
-- **2026-07-01** — news mention: Deep Sky Delivers The First Certified North American DAC Credits  Deep Sky has delivered what it say ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpl5wlink62k))
-- **2026-07-01** — news mention: Microsoft and RBC Buy North America's First Verified Direct Air Capture (DAC) Carbon Credits From Ca ([source](https://carboncredits.com/microsoft-and-rbc-buy-north-americas-first-verified-direct-air-capture-dac-carbon-credits-from-canadas-deep-sky/))
 
 ---
 

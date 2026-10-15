@@ -31,6 +31,7 @@ The Pond Foundation is a Swiss-registered non-profit (founded 2021 by Scott Poyn
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
 - **2026-07-24** — news mention: Pond Foundation: We're proud to share a meaningful milestone in our climate work. Guardian Capital G ([source](https://www.linkedin.com/company/my-carbon-zero/#post-181fb3795854))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

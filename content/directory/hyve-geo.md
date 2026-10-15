@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.hyvegeo.com/" target="_blank" rel="noopener">https://www.hyvegeo.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/hyvegeo/" target="_blank" rel="noopener">hyvegeo — 1,460 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/hyvegeo/" target="_blank" rel="noopener">hyvegeo — 1,818 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~7 (+17% YoY)</td></tr>
+  <tr><th>Employees</th><td>~10 (+67% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ HyveGeo is a climate-tech startup with operations in Cambridge, England and Abu 
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.cnn.com/2025/03/30/business/hyvegeo-green-desert-microalgae-charcoal-spc))
 - **2026-04-19** — merged 1 duplicate(s): HyveGeo

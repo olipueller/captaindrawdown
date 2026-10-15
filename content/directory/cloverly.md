@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.cloverly.com/" target="_blank" rel="noopener">https://www.cloverly.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cloverly/" target="_blank" rel="noopener">cloverly — 9,636 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cloverly/" target="_blank" rel="noopener">cloverly — 9,866 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~30 (-17% YoY)</td></tr>
+  <tr><th>Employees</th><td>~18 (-44% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ Cloverly is an Atlanta-based carbon credit marketplace and software platform fou
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-07-29** — news mention: Cloverly: We are pleased to announce that the US SecondCropâ¢ Project has been assigned a Sylvera P ([source](https://www.linkedin.com/company/cloverly/#post-c3d3e540d467))
 - **2026-07-22** — news mention: Cloverly: We are pleased to announce that the US SecondCrop™ Project has been assigned a Sylvera Pre ([source](https://www.linkedin.com/company/cloverly/#post-9bd8e7bd4c8e))

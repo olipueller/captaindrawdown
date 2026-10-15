@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://calyxglobal.com/" target="_blank" rel="noopener">https://calyxglobal.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/calyx-global/" target="_blank" rel="noopener">calyx-global — 16,850 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/calyx-global/" target="_blank" rel="noopener">calyx-global — 17,252 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~44 (-15% YoY)</td></tr>
+  <tr><th>Employees</th><td>~48 (-13% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,9 @@ Calyx Global is an independent carbon credit ratings agency for the voluntary ca
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-07** — news mention: Wongphai Co.,Ltd: Third-party carbon ratings help credit buyers decide which projects to fund or not ([source](https://www.linkedin.com/company/wongphai/#post-2b42461a2a19))
+- **2026-09-24** — news mention: Calyx Global: We said we would reconsider our approach if the market changed. And it has. With the E ([source](https://www.linkedin.com/company/calyx-global/#post-8b0acff8bb2d))
 - **2026-08-31** — news mention: Wongphai Co.,Ltd: Third-party carbon ratings help credit buyers decide which projects to fund or not ([source](https://www.linkedin.com/company/wongphai/#post-48623b1a7665))
 - **2026-08-28** — news mention: Planboo: Third-party carbon ratings help credit buyers decide which projects to fund or not. So when ([source](https://www.linkedin.com/company/planboo/#post-704fe9638007))
 - **2026-08-19** — news mention: Calyx Global: 🌍 What happened in the carbon markets in July? Our latest Carbon Indices show surprisi ([source](https://www.linkedin.com/company/calyx-global/#post-4701e6f5e49d))

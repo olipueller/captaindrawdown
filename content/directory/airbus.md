@@ -30,6 +30,8 @@ Airbus is a multinational aerospace corporation (~86,000 employees) whose Defenc
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
+- **2026-10-02** — news mention: Eaton Fuel Cell 2026, 12% Growth, Airbus Partnership ([source](https://enkiai.com/fuel-cells/eaton-fuel-cell-strategy-winning-the-2025-hydrogen-race/))
 - **2026-08-01** — news mention: Southern Green Gas: After seven years of development, our team has successfully demonstrated our cor ([source](https://www.linkedin.com/company/southern-green-gas/#post-59d76eeb45a8))
 - **2026-07-22** — news mention: Air Canada and Airbus launch joint initiative to scale domestic Canadian SAF and help reduce the lif ([source](https://biomassmagazine.com/articles/air-canada-and-airbus-launch-joint-initiative-to-scale-domestic-canadian-saf-and-help-reduce-the-life-cycle-emissions-of-corporate-travel))
 - **2026-05-01** — refresh: coresignal, screenshot

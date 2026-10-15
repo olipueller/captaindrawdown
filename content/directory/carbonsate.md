@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>BiCRS (Other)</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonsate.com/" target="_blank" rel="noopener">https://www.carbonsate.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonsate/" target="_blank" rel="noopener">carbonsate — 2,399 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonsate/" target="_blank" rel="noopener">carbonsate — 2,425 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2029-12-31</small></td></tr>
-  <tr><th>Employees</th><td>~5 (+67% YoY)</td></tr>
+  <tr><th>Employees</th><td>~6 (+100% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2029-12-31)</small></td></tr>
@@ -43,6 +43,14 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-15** — refresh: coresignal
+- **2026-10-15** — refresh: coresignal
+- **2026-09-28** — news mention: A lot can happen in 3 years.
+
+You can start a company.
+
+You can turn a new carbon removal methodolog ([source](https://www.linkedin.com/feed/update/urn:li:share:7510281826712858624/))
+- **2026-09-28** — news mention: Carbonsate: 50,000 tonnes of permanent carbon removal. A major step for biomass storage carbon remov ([source](https://www.linkedin.com/company/carbonsate/#post-bcfc42be10c9))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-26** — news mention: CDR.fyi: 📰 This week saw some key developments in durable CDR, Senken and Carbonsate signed a biomas ([source](https://www.linkedin.com/company/cdr-fyi/#post-820fc0e77248))
 - **2026-08-24** — news mention: Carbonsate: 50,000 tonnes of permanent carbon removal. A major step for biomass storage carbon remov ([source](https://www.linkedin.com/company/carbonsate/#post-58910dc2de57))
@@ -71,10 +79,6 @@ Carbons ([source](https://www.linkedin.com/feed/update/urn:li:share:749502033328
 - **2026-06-24** — news mention: #gitexeurope #climatetech #carbonremoval #innovation | Carbonsate ([source](https://www.linkedin.com/feed/update/urn:li:share:7474819543136362496/))
 - **2026-06-15** — refresh: coresignal
 - **2026-06-15** — refresh: coresignal
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/carbonsate-marks-first-credit-issuance-from-its-puro-earth-certified-biomass-storage-project/))
-- **2026-04-19** — refresh: coresignal
 
 ---
 

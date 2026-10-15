@@ -31,6 +31,11 @@ Shell is a global oil, gas and energy major headquartered in London that is deve
 
 ## History
 
+- **2026-10-13** — news mention: There is a moral hazard that Carbon Capture and Sequestration could convince a few fools to continue ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mxr7ryzyls2l))
+- **2026-10-12** — news mention: Revata Carbon PTE LTD: On 18 June 2026, Valency | Revata Carbon inaugurated its biochar production f ([source](https://www.linkedin.com/company/revatacarbon/#post-02c5345c9e8b))
+- **2026-10-06** — news mention: Absorber approach for estimating marine CO2 removal efficiency: implementation and example workflows ([source](https://doi.org/10.5281/zenodo.23071880))
+- **2026-09-18** — news mention: CO2 Mineralization Market Expected to Grow at 10.1% CAGR During 2026-2032 Amid Rising Net-Zero Emiss ([source](https://www.openpr.com/news/4635752/co2-mineralization-market-expected-to-grow-at-10-1-cagr-during))
+- **2026-09-18** — news mention: Towards circularity in shellfish aquaculture: stimulating mussel shell dissolution in marine sedimen ([source](https://doi.org/10.5194/bg-23-6447-2026))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-12** — news mention: Technical Methodology & Geothermal Formulation Specification: Bio-Encapsulated Dual-Action Ocean Alk ([source](https://doi.org/10.5281/zenodo.22393029))
 - **2026-09-06** — news mention: CoSDAC_Database ([source](https://doi.org/10.5281/zenodo.22240386))
@@ -56,11 +61,6 @@ Shell is a global oil, gas and energy major headquartered in London that is deve
 - **2026-07-24** — news mention: Revata Carbon PTE LTD: On 18 June 2026, Valency | Revata Carbon inaugurated its biochar production f ([source](https://www.linkedin.com/company/revatacarbon/#post-3ee1b295c80e))
 - **2026-07-24** — news mention: Revata Carbon PTE LTD: Our first bulk biomass export vessel has sailed. A milestone for Revata Carbo ([source](https://www.linkedin.com/company/revatacarbon/#post-ba374b1957f0))
 - **2026-07-23** — news mention: Carbon Centric AS: The first Canopy by T.EN™ powered by Shell CANSOLV® carbon capture solution is op ([source](https://www.linkedin.com/company/carboncentric/#post-fd60a6c432b3))
-- **2026-07-23** — news mention: Carbon Centric AS: In collaboration with Technip Energies through our alliance, the first Canopy by  ([source](https://www.linkedin.com/company/carboncentric/#post-89db5f237300))
-- **2026-07-22** — news mention: Shell Carbon Capture 2026, $726M Aramis Exit - EnkiAI ([source](https://enkiai.com/carbon-capture/shell-ccus-strategy/))
-- **2026-07-21** — news mention: Northern Lights: This short timelapse captures the progress of Northern Lights Phase 2 in Øygarden.  ([source](https://www.linkedin.com/company/northern-lights-jv/#post-6fdc01174fbb))
-- **2026-07-20** — news mention: This is very nice to see since the Clean Development Mechanism has long faced criticism for failing  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mr3rgqbqis2t))
-- **2026-07-20** — news mention: Blending biochar into biodegradable plastics significantly increases material stiffness and prevents ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mr3iftcrt22t))
 
 ---
 

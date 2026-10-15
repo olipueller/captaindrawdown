@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>CDR Platform/Marketplace</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.removall-carbon.com/" target="_blank" rel="noopener">https://www.removall-carbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/removall-carbon/" target="_blank" rel="noopener">removall-carbon — 8,918 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/removall-carbon/" target="_blank" rel="noopener">removall-carbon — 10,808 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~41 (+28% YoY)</td></tr>
+  <tr><th>Employees</th><td>~42 (+17% YoY)</td></tr>
   <tr><th>Open roles</th><td>5 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -35,6 +35,7 @@ Removall Carbon is a developer and investor in high-integrity, nature-based proj
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-09-03** — news mention: Removall Carbon: ð§ A new milestone for the Pungue Clean Water Project, the project has successful ([source](https://www.linkedin.com/company/removall-carbon/#post-de6632070f34))
 - **2026-08-13** — news mention: Removall Carbon: 💧 A new milestone for the Pungue Clean Water Project, the project has successfully  ([source](https://www.linkedin.com/company/removall-carbon/#post-d824de93f0d9))
 - **2026-08-06** — news mention: Removall Carbon: 🇪🇺 Two recent EU developments are sending a strong signal for carbon markets. 📊 Und ([source](https://www.linkedin.com/company/removall-carbon/#post-80ead297a3d1))

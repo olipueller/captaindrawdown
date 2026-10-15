@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.glanris.com/" target="_blank" rel="noopener">https://www.glanris.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/glanris/" target="_blank" rel="noopener">glanris — 1,563 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~30 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -33,6 +33,7 @@ Glanris is a US clean-tech company based in Olive Branch, Mississippi that manuf
 
 ## History
 
+- **2026-09-22** — news mention: Carbon Char Store: We are excited to share that Brian Reynolds , has joined subcommittee at the ASTM ([source](https://www.linkedin.com/company/carbon-char-store/#post-e62accc79aad))
 - **2026-08-15** — refresh: coresignal, liveliness
 - **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.glanris.com/blog/press-release-april2022))
 - **2026-06-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.glanris.com/blog/press-release-april2022))

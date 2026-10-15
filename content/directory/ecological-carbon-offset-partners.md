@@ -31,6 +31,7 @@ EP Carbon (Ecological Carbon Offset Partners LLC) is a US-based carbon project d
 
 ## History
 
+- **2026-09-29** — news mention: Ecological Carbon Offset Partners: The carbon removal market showed up in force at the Puro.earth CD ([source](https://www.linkedin.com/company/ep-carbon/#post-7d70ebb6bd3c))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-29** — news mention: Ecological Carbon Offset Partners: ð¢ We are proud to announce our Carbon Yards project has succes ([source](https://www.linkedin.com/company/ecopartners-carbon/#post-61e79152beeb))
 - **2026-08-29** — news mention: Ecological Carbon Offset Partners: Congratulations to the Carbon Yards HCO2 Mississippi project, dev ([source](https://www.linkedin.com/company/ecopartners-carbon/#post-8d10ab4095f6))

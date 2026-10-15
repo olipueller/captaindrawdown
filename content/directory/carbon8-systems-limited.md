@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbon8.co.uk/" target="_blank" rel="noopener">https://www.carbon8.co.uk/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon8-systems-limited/" target="_blank" rel="noopener">carbon8-systems-limited — 5,706 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon8-systems-limited/" target="_blank" rel="noopener">carbon8-systems-limited — 5,782 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~12 (-59% YoY)</td></tr>
+  <tr><th>Employees</th><td>~30 (-55% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ Carbon8 Systems was a UK-based CCUS/mineralization company spun out of the Unive
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-08-28** — news mention: Carbon8 Systems Limited: ð Carbon8: Accelerating Decarbonisation in Cement Weâre proud to share ([source](https://www.linkedin.com/company/carbon8-systems-limited/#post-4afb25b6b631))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-06** — news mention: Carbon8 Systems Limited: 🚀 Carbon8: Accelerating Decarbonisation in Cement We’re proud to share that ([source](https://www.linkedin.com/company/carbon8-systems-limited/#post-95388ee9d5ac))

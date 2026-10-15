@@ -29,6 +29,8 @@ enfinium is one of the UK's largest energy-from-waste operators, running six fac
 
 ## History
 
+- **2026-10-06** — news mention: Enfinium Seeks Planning Approval For $265M Carbon Capture Plant ([source](https://carbonherald.com/enfinium-seeks-planning-approval-for-265m-carbon-capture-plant/?utm_source=rss&utm_medium=rss&utm_campaign=enfinium-seeks-planning-approval-for-265m-carbon-capture-plant))
+- **2026-09-24** — news mention: enfinium: This time last week, we were in Parliament with UK technology firm Nuada to showcase our p ([source](https://www.linkedin.com/company/enfiniumuk/#post-64f5bb86e9b6))
 - **2026-08-19** — news mention: enfinium limited: A new partnership to manage residual waste and generate homegrown energy. We’re pl ([source](https://www.linkedin.com/company/enfiniumuk/#post-b0fc8e75fa07))
 - **2026-08-19** — news mention: Ocean pHix: Isometric has signed its 200th project developer, SDI Biocarbon Solutions, a subsidiary  ([source](https://www.linkedin.com/company/exponential-hq/#post-c4c4f281fdfa))
 - **2026-08-15** — refresh: coresignal

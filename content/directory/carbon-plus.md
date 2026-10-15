@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Malaysia</td></tr>
   <tr><th>Website</th><td><a href="https://carbon-plus.org/" target="_blank" rel="noopener">https://carbon-plus.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonplus-na/" target="_blank" rel="noopener">carbonplus-na — 390 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~2 (+100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,7 @@ Carbon Plus is a Malaysia-based biochar project developer operating Malaysia's f
 
 ## History
 
+- **2026-09-23** — news mention: Carbon Plus: From residual biomass to carbon removal. In this Supplier Spotlight, three suppliers sc ([source](https://www.linkedin.com/company/carbonplus-na/#post-3e7cd1cf463a))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

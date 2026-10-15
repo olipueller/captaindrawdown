@@ -35,6 +35,9 @@ Aircapture, headquartered in Berkeley, CA, is a direct air capture company found
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
+- **2026-10-10** — news mention: Flux: Direct Air Capture (DAC) wins big for 🇰🇪 Kenya!! 📢 Tencent has announced the winners of its ne ([source](https://www.linkedin.com/company/flux-carbon/#post-275de1ef31e9))
+- **2026-10-05** — news mention: Flux Carbon: Direct Air Capture (DAC) wins big for 🇰🇪 Kenya!! 📢 Tencent has announced the winners of ([source](https://www.linkedin.com/company/flux-earth/#post-275de1ef31e9))
 - **2026-09-05** — news mention: Flux: 🏆 From Lab to Scale.....CarbonX 2.0 Winners of $30M are in. 🌍 We at CDR.fyi are thrilled to tr ([source](https://www.linkedin.com/company/flux-carbon/#post-04a10797fc3a))
 - **2026-09-02** — news mention: CDR.fyi: 📰 This week saw some key developments in durable CDR, Höganäs signed a 10-year agreement wi ([source](https://www.linkedin.com/company/cdr-fyi/#post-c875aec5ecec))
 - **2026-08-29** — news mention: Flux: Direct Air Capture (DAC) wins big for 🇰🇪 Kenya!! 📢 Tencent has announced the winners of its ne ([source](https://www.linkedin.com/company/flux-carbon/#post-8e9257525ee9))

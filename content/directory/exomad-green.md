@@ -42,6 +42,24 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-13** — news mention: Top 15 Companies in Global Biochar Market Trends, Share, Size ([source](https://www.sphericalinsights.com/blogs/top-15-companies-in-global-biochar-market-2026-2035-expert-view-by-spherical-insights))
+- **2026-10-12** — news mention: Biochar Market Size, Share, Trends, Competitive Landscape, Regional Analysis and Forecast 2026–2035 ([source](https://www.marketbusinessinsights.com/biochar-market))
+- **2026-10-10** — news mention: Exomad Green, Riberalta - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/exomad-green-riberalta/))
+- **2026-10-08** — news mention: Carbon Business Council: Carbon removal buyers include everything from airlines to appliance makers, ([source](https://www.linkedin.com/company/carbonbusinesscouncil/#post-d91caa0c8e1f))
+- **2026-10-08** — news mention: CDR.fyi: 🚨 September soars with 1M tonnes contracted 📈 Following a relatively slow August (128Kt), S ([source](https://www.linkedin.com/company/cdr-fyi/#post-e181fd75f501))
+- **2026-10-05** — news mention: Inspiratus Technology: Biochar in Latin America will not scale through isolated projects alone. The  ([source](https://www.linkedin.com/company/inspiratus-tech/#post-8a15371071ec))
+- **2026-10-02** — news mention: Exomad Green, Concepción - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/exomad-green-concepcion/))
+- **2026-09-24** — news mention: #purocdrsummit #climateweeknyc #carbonremoval #cdr #corcs #newyork | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7508518044885757953/))
+- **2026-09-22** — news mention: Biochar Carbon Removal Is Heating Up. Exomad Green and Carbonfuture Lock In 1.1M Tonnes Through 2035 ([source](https://carboncredits.com/biochar-carbon-removal-is-heating-up-exomad-green-and-carbonfuture-lock-in-1-1m-tonnes-through-2035/))
+- **2026-09-22** — news mention: Exomad Green and Carbonfuture Boost Biochar Carbon Removal Supply ([source](https://biochartoday.com/news/exomad-green-and-carbonfuture-lock-in-1-1-million-tonnes-of-biochar-carbon-removal-supply-through-2035/?utm_source=bluesky&utm_medium=jetpack_social))
+- **2026-09-22** — news mention: Biochar LATAM Launches to Accelerate High-Integrity Biochar and Carbon Removal Across Latin America ([source](https://www.exomadgreen.com/post/biochar-latam-launches-to-accelerate-high-integrity-biochar-and-carbon-removal-across-latin-america))
+- **2026-09-21** — news mention: Columbia University: Carbon Markets Are Entering a New Regulatory Era ([source](https://carbonherald.com/columbia-university-carbon-markets-are-entering-a-new-regulatory-era/))
+- **2026-09-19** — news mention: Exomad Green: Agreement secured with Carbonfuture . When we partnered in mid-2023, Carbonfuture help ([source](https://www.linkedin.com/company/exomadgreen/#post-37e0b8c705a7))
+- **2026-09-18** — news mention: Exomad Green And Carbonfuture Expand Biochar Supply Deal To Over 1.1M Tons ([source](https://carbonherald.com/exomad-green-and-carbonfuture-expand-biochar-supply-deal-to-over-1-1m-tons/))
+- **2026-09-18** — news mention: Exomad Green and Carbonfuture Expand Long-Term Supply as Buyers Prioritize Proven Delivery ([source](https://www.exomadgreen.com/post/exomad-green-and-carbonfuture-expand-long-term-supply-as-buyers-prioritize-proven-delivery))
+- **2026-09-18** — news mention: Exomad Green and Carbonfuture Expand Long-Term Supply | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7506327115110473728/))
+- **2026-09-16** — news mention: Exomad Green joins the Negative Emissions Platform | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7505949087230218241/))
+- **2026-09-16** — news mention: Exomad Green joins the Negative Emissions Platform ([source](https://www.negative-emissions.org/updates/exomad-green-joins-the-negative-emissions-platform))
 - **2026-08-15** — news mention: Ground Up: Boeing has procured 20,000 tonnes of permanent carbon removal through Supercritical. Six  ([source](https://www.linkedin.com/company/ground-up-in/#post-24799c8b585b))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-13** — news mention: Exomad Green: 🚨Milestone Alert🚨 We are proud to announce that Exomad Green has surpassed the milesto ([source](https://www.linkedin.com/company/exomad-green/#post-e3af480a6480))
@@ -54,11 +72,6 @@ Independently verified by carbon-credit registries:
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-20** — news mention: Exomad Green, Supercritical Sign 500,000-Ton Biochar Carbon Removal Agreement - ESG Today ([source](https://www.esgtoday.com/exomad-green-supercritical-sign-500000-ton-biochar-carbon-removal-agreement/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://www.exomadgreen.com/))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://www.exomadgreen.com/news))
-- **2026-04-18** — reclassified: pathway=Biochar focus=division liveliness=🟢 Active ([source](https://www.exomadgreen.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

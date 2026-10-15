@@ -5,7 +5,7 @@ type: "directory"
 description: "Spreads custom silicate rock blends on Colombian farmland with proprietary aqueous-phase MRV to quantify carbon removal and sell credits."
 url: "/directory/tropicarbon/"
 pathway: "Enhanced Weathering"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Colombia</td></tr>
   <tr><th>Website</th><td><a href="https://www.tropicarbon.com/" target="_blank" rel="noopener">https://www.tropicarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tropicarbon/" target="_blank" rel="noopener">tropicarbon — 89 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -31,6 +31,9 @@ Tropicarbon is a Colombia-based pure-play CDR startup founded in 2023 that deplo
 
 ## History
 
+- **2026-10-15** — refresh: coresignal
+- **2026-10-15** — refresh: coresignal, liveliness
+- **2026-10-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://tracxn.com/d/companies/tropicarbon/__ZLzI5ELQl8S_k5eRBYurltZGTGfqGat_UGNb2_R4JXM))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-15** — refresh: coresignal
 - **2026-07-15** — refresh: coresignal

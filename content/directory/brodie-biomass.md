@@ -32,6 +32,7 @@ Brodie Biomass is a biochar production arm of Brodie Farms, a family-owned Surre
 
 ## History
 
+- **2026-10-05** — news mention: Brodie Biomass: We are delighted to confirm that our European Biochar Certificate (EBC) certificatio ([source](https://www.linkedin.com/company/brodiebiomass/#post-afb99000a5ce))
 - **2026-08-30** — news mention: Accend AS: Proud to have supported Brodie Biomass along this journey, from early feasibility assessm ([source](https://www.linkedin.com/company/accend-conusulting/#post-2b823706ecf9))
 - **2026-08-29** — news mention: Brodie Biomass: Like many others, we are sure, it has been an incredibly busy few months and there i ([source](https://www.linkedin.com/company/brodiebiomass/#post-fbb821afd66f))
 - **2026-08-15** — refresh: coresignal

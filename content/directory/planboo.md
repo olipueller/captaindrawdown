@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://planboo.eco/" target="_blank" rel="noopener">https://planboo.eco/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/planboo/" target="_blank" rel="noopener">planboo — 5,966 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/planboo/" target="_blank" rel="noopener">planboo — 6,584 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2029-01-29</small></td></tr>
-  <tr><th>Employees</th><td>~21 (+17% YoY)</td></tr>
+  <tr><th>Employees</th><td>~21 (-12% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2029-01-29)</small></td></tr>
 </table>
@@ -40,6 +40,9 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-07** — news mention: Wongphai Co.,Ltd: Third-party carbon ratings help credit buyers decide which projects to fund or not ([source](https://www.linkedin.com/company/wongphai/#post-2b42461a2a19))
+- **2026-10-02** — news mention: Planboo: Nara Climate’s Community Biochar Project has been assigned a Sylvera A Rating, as of 09/09/ ([source](https://www.linkedin.com/company/planboo/#post-1ce2eb482d98))
 - **2026-08-31** — news mention: Carbon Capital: Credit where credit’s due (literally). Farm Gai Kaisa 159 is now A-rated by Sylvera. ([source](https://www.linkedin.com/company/carboncapitalnamibia/#post-5bd751b5f8bf))
 - **2026-08-31** — news mention: Wongphai Co.,Ltd: Third-party carbon ratings help credit buyers decide which projects to fund or not ([source](https://www.linkedin.com/company/wongphai/#post-48623b1a7665))
 - **2026-08-28** — news mention: Planboo: Distributed biochar is the hardest kind to measure. That is exactly why we build for it. To ([source](https://www.linkedin.com/company/planboo/#post-881c328254ba))

@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://planetmoja.com/" target="_blank" rel="noopener">https://planetmoja.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/planet-moja/" target="_blank" rel="noopener">planet-moja</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/planet-moja/" target="_blank" rel="noopener">planet-moja — 87 followers</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~2 (-33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -30,6 +30,7 @@ Planet Moja is a UK-based carbon credit portfolio curator and broker with a rese
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://planetmoja.com/))

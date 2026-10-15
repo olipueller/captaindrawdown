@@ -34,6 +34,7 @@ Planet Savers is a University of Tokyo spinout founded in July 2023, positioned 
 
 ## History
 
+- **2026-09-28** — news mention: Durable Carbon Dioxide Removal (CDR) Market to Reach US$36.27 Billion by 2035: 48.14% CAGR, Growth & ([source](https://www.openpr.com/news/4645451/durable-carbon-dioxide-removal-cdr-market-to-reach-us-36-27))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-08** — news mention: Asset Finance & Alternatives in APAC & Beyond - by Huiling ([source](https://www.insights.beyondhorizons.sg/p/asset-finance-and-alternatives-in-65f))
 - **2026-08-30** — news mention: Planet Savers: We are pleased to announce that Planet Savers株式会社 has been selected for the Ministry  ([source](https://www.linkedin.com/company/planetsavers/#post-d1f56ddbe150))

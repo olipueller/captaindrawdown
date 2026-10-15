@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonefarmers.com/" target="_blank" rel="noopener">https://www.carbonefarmers.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbone-farmers/" target="_blank" rel="noopener">carbone-farmers — 6,234 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbone-farmers/" target="_blank" rel="noopener">carbone-farmers — 6,972 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~36 (+50% YoY)</td></tr>
+  <tr><th>Employees</th><td>~37 (+23% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ Carbone Farmers coordinates collective Label Bas-Carbone projects, such as one w
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-08-20** — news mention: Carbone Farmers: Avez-vous entendu parler du Buyers' Club du #CRCF  ? 👀 Il s’agit d’un club d'achete ([source](https://www.linkedin.com/company/carbone-farmers/#post-92395205fe39))
 - **2026-08-20** — news mention: Carbone Farmers: Vous l'aviez peut-être loupée, mais la troisième Stratégie nationale bas-carbone  ([source](https://www.linkedin.com/company/carbone-farmers/#post-d3a417153ede))
 - **2026-08-06** — news mention: Carbone Farmers: Le 𝙘𝙖𝙧𝙗𝙤𝙣 𝙛𝙖𝙧𝙢𝙞𝙣𝙜 européen a enfin ses règles du jeu… et c'est une bonne nouvelle p ([source](https://www.linkedin.com/company/carbone-farmers/#post-f84f8abaf46a))

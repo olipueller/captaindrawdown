@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Website</th><td><a href="https://www.removr.com/" target="_blank" rel="noopener">https://www.removr.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/removr/" target="_blank" rel="noopener">removr — 1,425 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~6 (+20% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,7 @@ Removr is a Norwegian direct air capture company jointly owned by Vanir Green In
 
 ## History
 
+- **2026-09-28** — news mention: Carbon Dioxide Removal Market Is Going to Boom |• Climeworks • Carbon Engineering • Global CCS Insti ([source](https://www.openpr.com/news/4645712/carbon-dioxide-removal-market-is-going-to-boom-climeworks))
 - **2026-09-15** — refresh: coresignal, screenshot, liveliness
 - **2026-09-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://cleantech.com/can-sorbent-innovation-make-dac-viable/))
 - **2026-05-01** — refresh: screenshot

@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://beccs.se/" target="_blank" rel="noopener">https://beccs.se/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/beccs-stockholm/" target="_blank" rel="noopener">beccs-stockholm — 5,226 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/beccs-stockholm/" target="_blank" rel="noopener">beccs-stockholm — 6,128 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~750</td></tr>
+  <tr><th>Employees</th><td>~10 (+900% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -30,6 +30,9 @@ Beccs Stockholm is the large-scale Bio-Energy Carbon Capture and Storage project
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-08** — news mention: Stockholm Exergi: Grunden är klar – nu växer Beccs Stockholm fram  Efter drygt ett år av rivnings-,  ([source](https://www.linkedin.com/company/stockholm-exergi/#post-3007a6cb8aa3))
+- **2026-10-02** — news mention: Beccs Stockholm: We're proud to announce that Granitor has signed a long-term agreement to purchase  ([source](https://www.linkedin.com/company/beccs-stockholm/#post-1a29d065821d))
 - **2026-08-28** — news mention: Beccs Stockholm: When others slow down, we keep building. While many talk about investments slowing, ([source](https://www.linkedin.com/company/beccs-stockholm/#post-5e5d1d245dac))
 - **2026-08-21** — news mention: Beccs Stockholm: Cement with near-zero climate impact? Yes, with carbon capture this is now possible ([source](https://www.linkedin.com/company/beccs-stockholm/#post-bf255eaedc84))
 - **2026-08-21** — news mention: Beccs Stockholm: A significant milestone for Beccs Stockholm and Stockholm Exergi Over the past few  ([source](https://www.linkedin.com/company/beccs-stockholm/#post-4b32526d4bac))

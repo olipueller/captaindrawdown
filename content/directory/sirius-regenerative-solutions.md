@@ -38,6 +38,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-06** — news mention: Guaicaramo - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/guaicaramo/))
 - **2026-09-15** — refresh: screenshot
 - **2026-05-11** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: screenshot

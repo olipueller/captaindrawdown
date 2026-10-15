@@ -13,7 +13,9 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.verora.ch/" target="_blank" rel="noopener">https://www.verora.ch/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/veroraai/" target="_blank" rel="noopener">veroraai — 194 followers</a></td></tr>
   <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Employees</th><td>~4</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -27,6 +29,7 @@ Verora GmbH/AG is a Swiss farmers' cooperative in the Zug canton that processes 
 
 ## History
 
+- **2026-10-15** — refresh: coresignal
 - **2026-09-15** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness

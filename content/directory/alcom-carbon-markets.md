@@ -44,6 +44,8 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
+- **2026-10-12** — news mention: Alcom Carbon Markets: On 3 October 2026, Alcom inaugurated VitaNim, the Philippines' first industria ([source](https://www.linkedin.com/company/alcom-pte-ltd/#post-f12cc4be3039))
 - **2026-09-06** — news mention: Alcom Carbon Markets: 1,100+ tonnes of CO2 permanently removed. Every tonne started as rice husk. Al ([source](https://www.linkedin.com/company/alcom-pte-ltd/#post-60a3eb69c3a4))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot

@@ -32,6 +32,7 @@ Sylva Fertilis is a French biochar producer based in Argentan, Normandy, operati
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
 - **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://terrafertilis.com/qui-sommes-nous/))
 - **2026-08-13** — news mention: Sylva Fertilis, Argentan, FR - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/sylva-fertilis-argentan-fr/))
 - **2026-06-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://terrafertilis.com/qui-sommes-nous/))

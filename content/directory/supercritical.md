@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>CDR Platform/Marketplace</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.gosupercritical.com/" target="_blank" rel="noopener">https://www.gosupercritical.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/gosupercritical/" target="_blank" rel="noopener">gosupercritical — 17,620 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/gosupercritical/" target="_blank" rel="noopener">gosupercritical — 19,824 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~67</td></tr>
+  <tr><th>Employees</th><td>~31 (+1% YoY)</td></tr>
   <tr><th>Open roles</th><td>5 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -35,6 +35,13 @@ Supercritical is a London-based carbon removal marketplace that sources, vets, a
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-14** — news mention: Ground Up: Project Nandani is rated A by Sylvera . 5/5 for permanence. 5/5 for additionality. 5/5 fo ([source](https://www.linkedin.com/company/ground-up-in/#post-76f306421da9))
+- **2026-10-06** — news mention: What I ask a biochar project before we sign an exclusive deal ([source](https://thecarbonlowdown.substack.com/p/what-i-ask-a-biochar-project-before))
+- **2026-10-06** — news mention: #biochar #carbonremoval #traceability #mrv | Happy Ground ([source](https://www.linkedin.com/feed/update/urn:li:share:7512784013292593152/))
+- **2026-09-30** — news mention: What really goes into choosing a carbon credit | Sustainability in the Air ([source](https://simpliflying.com/green/what-really-goes-into-choosing-a-carbon-credit))
+- **2026-09-18** — news mention: Exomad Green and Carbonfuture Expand Long-Term Supply as Buyers Prioritize Proven Delivery ([source](https://www.exomadgreen.com/post/exomad-green-and-carbonfuture-expand-long-term-supply-as-buyers-prioritize-proven-delivery))
+- **2026-09-15** — news mention: Supercritical and Indian Developers Expand Offtake Agreements Amid Tightening High-Quality Biochar S ([source](https://biochartoday.com/news/supercritical-and-indian-developers-expand-offtake-agreements-amid-tightening-high-quality-biochar-supply/?utm_source=bluesky&utm_medium=jetpack_social))
 - **2026-09-14** — news mention: Biochar Demand Hits 2.99 Million Tonnes: Can Corporate Buyers Trigger a Supply Crunch? • Carbon Cred ([source](https://carboncredits.com/biochar-demand-hits-2-99-million-tonnes-can-corporate-buyers-trigger-a-supply-crunch/))
 - **2026-09-11** — news mention: Bad news for the anti-CDR activists as direct air capture (DAC) trailblazer Climeworks has unlocked  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mvapxmnl3c2n))
 - **2026-09-09** — news mention: Supercritical: Most companies buying removal this year will find in December that the tonnes they wa ([source](https://www.linkedin.com/company/gosupercritical/#post-3d46bc919598))
@@ -58,15 +65,6 @@ Supercritical is a London-based carbon removal marketplace that sources, vets, a
 - **2026-06-26** — news mention: Carbon Removal London Event | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475876915485224960/))
 - **2026-06-24** — news mention: #lcaw | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:share:7474837289572069377/))
 - **2026-06-24** — news mention: #londonclimateactionweek | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:share:7474794254196928513/))
-- **2026-06-24** — news mention: #climateweeknyc #carbonremoval #cdr #corcs #newyork #purocdrsummit | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7473721490056609793/))
-- **2026-06-06** — news mention: BHEL gains on bagging Rs 21,000-crore EPC order for Meja supercritical power project | Capital Marke ([source](https://www.business-standard.com/markets/capital-market-news/bhel-gains-on-bagging-rs-21-000-crore-epc-order-for-meja-supercritical-power-project-126060500355_1.html))
-- **2026-05-22** — news mention: Supercritical Partners With Varaha To Bring Distributed Biochar Credits To Market ([source](https://carbonherald.com/supercritical-partners-with-varaha-to-bring-distributed-biochar-credits-to-market/?utm_source=rss&utm_medium=rss&utm_campaign=supercritical-partners-with-varaha-to-bring-distributed-biochar-credits-to-market))
-- **2026-05-20** — news mention: The carbon removal market is entering a different phase.
-
-The challenge is no longer just proving th ([source](https://www.linkedin.com/feed/update/urn:li:share:7462300342014320640/))
-- **2026-05-11** — news mention: Supercritical To Expand CDR Supply Development With Newly Secured Funding ([source](https://carbonherald.com/supercritical-to-expand-cdr-supply-development-with-newly-secured-funding/?utm_source=rss&utm_medium=rss&utm_campaign=supercritical-to-expand-cdr-supply-development-with-newly-secured-funding))
-- **2026-05-09** — news mention: Boeing Buys 20,000 Tonne Biochar and Enhanced Rock Weathering Carbon Removal Portfolio Through Super ([source](https://x.com/CaptainDrawdown/status/2053123122388234442))
-- **2026-05-09** — news mention: Supercritical Secures Capital to Scale Carbon Removal Project Development – Biochar Today ([source](https://biochartoday.com/news/supercritical-secures-capital-to-scale-carbon-removal-project-development/))
 
 ---
 

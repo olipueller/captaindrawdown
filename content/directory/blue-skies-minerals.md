@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.blueskiesminerals.com/" target="_blank" rel="noopener">https://www.blueskiesminerals.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/blueskiesminerals/" target="_blank" rel="noopener">blueskiesminerals — 993 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~4 (+33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,7 @@ Blue Skies Minerals is a Berlin-based startup developing the Carbonated Tailings
 
 ## History
 
+- **2026-09-18** — news mention: CO2 Mineralization Market Expected to Grow at 10.1% CAGR During 2026-2032 Amid Rising Net-Zero Emiss ([source](https://www.openpr.com/news/4635752/co2-mineralization-market-expected-to-grow-at-10-1-cagr-during))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness

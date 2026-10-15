@@ -31,6 +31,10 @@ Soletair Power is a Finnish direct air capture company (founded 2016, HQ Lappeen
 
 ## History
 
+- **2026-10-11** — news mention: Dotz Nano: 🚨 𝑭𝒓𝒐𝒎 𝒍𝒂𝒃 𝒕𝒐 𝒄𝒐𝒎𝒎𝒆𝒓𝒄𝒊𝒂𝒍 𝒓𝒆𝒂𝒍𝒊𝒕𝒚. We just signed a 2-year supply agreement with Soletair  ([source](https://www.linkedin.com/company/dotznano/#post-e54861e20334))
+- **2026-09-25** — news mention: 「ネガティブエミッション技術市場規模、成長と動向分析レポート 2026-2033年」の市場調査レポート出版・販売開始のご案内 | 株式会社SEMABIZのプレスリリース ([source](https://www.dreamnews.jp/press/0000363578))
+- **2026-09-15** — news mention: Scheduled to begin operations in 2028, this BECCS facility will capture, liquefy, and permanently st ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mvktgho3wc2n))
+- **2026-09-15** — news mention: In A New DAC Partnership, Dotz Nano To Provide Sorbent Tech To Soletair Power ([source](https://carbonherald.com/in-a-new-dac-partnership-dotz-nano-to-provide-sorbent-tech-to-soletair-power/?utm_source=rss&utm_medium=rss&utm_campaign=in-a-new-dac-partnership-dotz-nano-to-provide-sorbent-tech-to-soletair-power))
 - **2026-09-12** — news mention: Soletair Power: EN FANTASTISK GRAND OPENING   I går indviede vi verdens første CO₂-fangstanlæg i en  ([source](https://www.linkedin.com/company/soletair/#post-a652a01a94ea))
 - **2026-08-15** — refresh: coresignal, liveliness
 - **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.soletairpower.fi/technical-specs-soletair-power-dac-unit-for-zbt/))

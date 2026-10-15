@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://frichs-pyrolysis.com/" target="_blank" rel="noopener">https://frichs-pyrolysis.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/frichs-pyrolysis/" target="_blank" rel="noopener">frichs-pyrolysis — 938 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~27 (+42% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/frichs-pyrolysis/" target="_blank" rel="noopener">frichs-pyrolysis — 993 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~15 (-29% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ Frichs Pyrolysis ApS is a Danish development company based in Horsens that build
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://energywatch.com/EnergyNews/Utilities/article18369276.ece))
 - **2026-04-19** — refresh: coresignal

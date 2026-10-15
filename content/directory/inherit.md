@@ -30,6 +30,11 @@ Inherit Carbon Solutions is a Norwegian carbon removal company founded in 2021 a
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
+- **2026-10-05** — news mention: Inherit: Two projects in operation in two countries! Last week, we started capturing CO2 from a biom ([source](https://www.linkedin.com/company/agero-carbon-solutions/#post-e6ad4b0968a4))
+- **2026-10-01** — news mention: Denmark's first BECCS project begins operations ([source](https://www.qcintel.com/biofuels/article/denmark-s-first-beccs-project-begins-operations-74092.html))
+- **2026-09-19** — news mention: Supplier spotlight - How Inherit Carbon Solutions is delivering BECCS at scale through biogas - Puro ([source](https://puro.earth/insights/post/supplier-spotlight-how-inherit-carbon-solutions-is-delivering-beccs-at-scale-through-biogas/))
+- **2026-09-19** — news mention: Biochar applications can help mitigate climate change, improve soil health and support a circular ec ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mvvkvwe6rs2c))
 - **2026-09-03** — news mention: Inherit: Today we issue Europe's first BECCS credits. Among our clients from this project are Micros ([source](https://www.linkedin.com/company/agero-carbon-solutions/#post-9f7f11b59ecd))
 - **2026-08-05** — news mention: CDR.fyi: ✔ Europe's first certified BECCS credits have been issued. 📝 Last week, Inherit announced t ([source](https://www.linkedin.com/company/cdr-fyi/#post-a3f0e3c8a69f))
 - **2026-07-29** — news mention: CDR.fyi: ð° This week saw some key developments in durable CDR, as Inherit Carbon Solutions issued ([source](https://www.linkedin.com/company/cdr-fyi/#post-e608dbc98de9))
@@ -55,11 +60,6 @@ Inherit Carbon Solutions is a Norwegian carbon removal company founded in 2021 a
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/inherit-carbon-solutions))
 - **** — merged duplicate: Inherit Carbon Solutions (slug=inherit-carbon-solutions)
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.inheritcarbonsolutions.com/news/inherit-enters-operation-with-worlds-first-carbon-removal-project-from-biogas-in-norway))
-- **2026-04-19** — refresh: liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://esgnews.com/nordea-signs-multi-year-deal-to-remove-68000-tonnes-of-co2-with-inherit-carbon-solutions/))
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.inheritcarbonsolutions.com/news/inherit-enters-operation-with-worlds-first-carbon-removal-project-from-biogas-in-norway))
-- **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.inheritcarbonsolutions.com/news/inherit-enters-operation-with-worlds-first-carbon-removal-project-from-biogas-in-norway))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

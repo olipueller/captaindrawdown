@@ -31,6 +31,7 @@ CarStorCon Technologies is a company founded in 2022 in Marienhafe, Germany. Car
 
 ## History
 
+- **2026-10-05** — news mention: CarStorCon: Neugründung der „Allianz für CO₂-Entnahme im Bau“ 🎉 Am 23.9. haben wir gemeinsam mit i ([source](https://www.linkedin.com/company/carstorcon-technologies/#post-169d556114da))
 - **2026-08-30** — news mention: CarStorCon: 🏗️ „Decarbonizing the Built Environment with Biochar: A Blueprint“ - das Whitepaper von  ([source](https://www.linkedin.com/company/carstorcon-technologies/#post-3c105b05636a))
 - **2026-08-23** — news mention: CarStorCon: Gemeinsam für die CO₂-Entnahme in der Schweiz: Holcim investiert in die Inkoh AG 🚀 Wir m ([source](https://www.linkedin.com/company/carstorcon-technologies/#post-6cdeea8de3be))
 - **2026-08-23** — news mention: CarStorCon: Mit Holcims Einstieg bei Inkoh wird BCR für die Bauwirtschaft strategisch! 💫 Wir freuen ([source](https://www.linkedin.com/company/carstorcon-technologies/#post-4a391685f756))

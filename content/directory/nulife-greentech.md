@@ -43,6 +43,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-12** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-5e4eb86cc6d0))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-06** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-f4c001caa2fd))
 - **2026-08-30** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-2acff671adf6))

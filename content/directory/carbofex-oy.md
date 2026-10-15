@@ -41,6 +41,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-11** — news mention: Carbofex Oy: New Publication from the Laboratory for Future Electronics, Tampere University I am hap ([source](https://www.linkedin.com/company/carbofex/#post-d2faff1ce861))
 - **2026-09-05** — news mention: Carbofex Oy: New Publication from the Laboratory for Future Electronics, Tampere University I am hap ([source](https://www.linkedin.com/company/carbofex/#post-608526007ca4))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot

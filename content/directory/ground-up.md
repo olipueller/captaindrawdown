@@ -38,6 +38,8 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-14** — news mention: Ground Up: Project Nandani is rated A by Sylvera . 5/5 for permanence. 5/5 for additionality. 5/5 fo ([source](https://www.linkedin.com/company/ground-up-in/#post-76f306421da9))
+- **2026-10-06** — news mention: What I ask a biochar project before we sign an exclusive deal ([source](https://thecarbonlowdown.substack.com/p/what-i-ask-a-biochar-project-before))
 - **2026-09-14** — news mention: Biochar Demand Hits 2.99 Million Tonnes: Can Corporate Buyers Trigger a Supply Crunch? • Carbon Cred ([source](https://carboncredits.com/biochar-demand-hits-2-99-million-tonnes-can-corporate-buyers-trigger-a-supply-crunch/))
 - **2026-09-07** — news mention: Tapovanam Organic Farming Systems: Announcing Cohort 2 of our 🇮🇳 India CDR Startup #Accelerator Prog ([source](https://www.linkedin.com/company/tapovanam-organic-farming-systems-sustainable-business-regenerative-agriculture/#post-965deb7d47d8))
 - **2026-09-07** — news mention: Engrow: Announcing Cohort 2 of our ð®ð³ India CDR Startup #Accelerator Program ð We continued ([source](https://www.linkedin.com/company/engrow-group/#post-bca5e13d4f54))
@@ -66,7 +68,6 @@ Independently verified by carbon-credit registries:
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.ground-up.in/news-and-resources))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.ground-up.in/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.ground-up.in))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

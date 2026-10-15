@@ -30,6 +30,7 @@ Carbon Neutral Initiative (CNI) is a Dutch company founded by Robert van der Lui
 
 ## History
 
+- **2026-10-12** — news mention: Carbon Neutral Initiative: Our new paper, led by Spyros Foteinis and Heriot-Watt University , explor ([source](https://www.linkedin.com/company/carbon-neutral-initiative/#post-105204fa223b))
 - **2026-09-06** — news mention: Carbon Neutral Initiative: NEW PAPER - Assessing urban green roofs for CO2 removal via enhanced rock ([source](https://www.linkedin.com/company/carbon-neutral-initiative/#post-59751e1b90c3))
 - **2026-09-06** — news mention: Carbon Neutral Initiative: CNI was glad to contribute to this study by Liam Bullock and colleagues f ([source](https://www.linkedin.com/company/carbon-neutral-initiative/#post-7650e0654274))
 - **2026-09-06** — news mention: Carbon Neutral Initiative: Our new paper, led by Spyros Foteinis and Heriot-Watt University , explor ([source](https://www.linkedin.com/company/carbon-neutral-initiative/#post-a10bc24b04e8))

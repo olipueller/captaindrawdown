@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://bluelayer.io/" target="_blank" rel="noopener">https://bluelayer.io/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/getbluelayer/" target="_blank" rel="noopener">getbluelayer — 3,972 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/getbluelayer/" target="_blank" rel="noopener">getbluelayer — 5,632 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~23 (-26% YoY)</td></tr>
+  <tr><th>Employees</th><td>~26 (-4% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,9 @@ BlueLayer is a Berlin-based software platform providing an end-to-end operating 
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-10** — news mention: BlueLayer: The International Biochar Initiative 's recent “Guide to Digital MRV for Biochar” covers  ([source](https://www.linkedin.com/company/getbluelayer/#post-a8ca5316fa9a))
+- **2026-09-15** — news mention: Tupana: Tupana RGN and BlueLayer are partnering to scale high-integrity industrial biochar carbon re ([source](https://www.linkedin.com/company/tupana-earth/#post-85daa4504bd9))
 - **2026-09-06** — news mention: Rewind.earth: We are excited to be attending Carbon Unbound East Coast in NYC next week! Meet Jessic ([source](https://www.linkedin.com/company/rewindearth/#post-89bfab280b61))
 - **2026-09-02** — news mention: BlueLayer joins the Negative Emissions Platform ([source](https://www.negative-emissions.org/updates/bluelayer-joins-the-negative-emissions-platform))
 - **2026-08-28** — news mention: BlueLayer: Congratulations to Permian Global on a milestone issuance from their Katingan Mentaya Pro ([source](https://www.linkedin.com/company/getbluelayer/#post-19d3993700e4))

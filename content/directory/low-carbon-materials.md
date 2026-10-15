@@ -31,6 +31,7 @@ Low Carbon Materials (LCM) is a Durham University spin-out based in Seaham, UK, 
 
 ## History
 
+- **2026-09-22** — news mention: Low Carbon Materials: ð 2 more projects out the door. We sold out in 2025. Every tonne we produce ([source](https://www.linkedin.com/company/lowcarbonmaterials/#post-476f30025cd6))
 - **2026-09-15** — refresh: coresignal, screenshot, liveliness
 - **2026-09-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://tracxn.com/d/companies/low-carbon-materials/__2WVJBc6xiAV9Y3XnRrYTGlrHAqIYfYtYY-z3ZurBvcc/funding-and-investors))
 - **2026-08-16** — news mention: Carbon To Stone: We are excited to announce the startup cohort for #GoBuild2026 with Amazon and the  ([source](https://www.linkedin.com/company/carbon-to-stone/#post-05a4e1a726f1))

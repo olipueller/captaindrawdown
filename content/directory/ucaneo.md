@@ -34,6 +34,7 @@ Ucaneo is a Berlin-based direct air capture startup developing a biomimetic elec
 
 ## History
 
+- **2026-09-25** — news mention: Ucaneo: 💫 Our CEO &amp; Co-Founder Florian Tiller spoke to Sophie Gregory from gasworld about what c ([source](https://www.linkedin.com/company/ucaneo/#post-95614e29c79e))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-20** — news mention: Ucaneo: 💫 Our CEO &amp; Co-Founder Florian Tiller spoke to Sophie Gregory from gasworld about what c ([source](https://www.linkedin.com/company/ucaneo/#post-c1c78251f64f))
 - **2026-07-30** — news mention: Ucaneo: 🏪 Welcome to the CO₂ Store of the Future. The world's first place where you can experience w ([source](https://www.linkedin.com/company/ucaneo/#post-85d8f4875d15))

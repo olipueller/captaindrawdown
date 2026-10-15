@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://gecaenviro.com/" target="_blank" rel="noopener">https://gecaenviro.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/geca-environnement/" target="_blank" rel="noopener">geca-environnement — 5,861 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/geca-environnement/" target="_blank" rel="noopener">geca-environnement — 5,939 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~9 (-50% YoY)</td></tr>
+  <tr><th>Employees</th><td>~10</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ GECA Environnement is a Quebec City-based consulting firm specializing in biocha
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-13** — news mention: GECA Environment: Stop venting the surplus pyrolysis syngas from your biochar facility — turn it int ([source](https://www.linkedin.com/company/geca-environnement/#post-84e4aab4a7c5))
 - **2026-08-06** — news mention: GECA Environment: Canada just put federal money behind biochar infrastructure — and it's coming from ([source](https://www.linkedin.com/company/geca-environnement/#post-c824f2c12283))

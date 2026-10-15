@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.chartechnologies.com" target="_blank" rel="noopener">https://www.chartechnologies.com</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/char-technologies/" target="_blank" rel="noopener">char-technologies — 4,584 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/char-technologies/" target="_blank" rel="noopener">char-technologies — 4,859 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~32 (+7% YoY)</td></tr>
+  <tr><th>Employees</th><td>~31 (+3% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ CHAR Technologies Ltd. (TSXV:YES) is a Toronto-based cleantech company operating
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-10** — news mention: CHAR Technologies: CHAR Technologies completes Phase 1 at its Thorold Renewable Energy Facility. Com ([source](https://www.linkedin.com/company/char-technologies/#post-ac749d0acc2d))
 - **2026-09-07** — news mention: Char Technologies Advances Pyrolysis Processing Facilities Across Canada and the United States &#821 ([source](https://biochartoday.com/news/char-technologies-advances-pyrolysis-processing-facilities-across-canada-and-the-united-states/?utm_source=bluesky&utm_medium=jetpack_social))
 - **2026-09-04** — news mention: Char Tech develops pyrolysis to fuels sites; RNG news from Waga, Neogenyx | Waste Dive ([source](https://www.wastedive.com/news/biogas-monthly-char-tech-q2-earnings-clean-energy-fuels/829657/))
 - **2026-09-04** — news mention: CHAR Technologies: ICYMI CEO Andrew White walks through CHAR Tech's latest commercial and operationa ([source](https://www.linkedin.com/company/char-technologies/#post-bc81ff40c841))

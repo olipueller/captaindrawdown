@@ -30,6 +30,9 @@ NEG8 Carbon is a Waterford, Ireland-based Direct Air Capture company (originally
 
 ## History
 
+- **2026-10-12** — news mention: The International Maritime Organization have adopted formal assessment frameworks for three marine c ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mxopnlvrxk2x))
+- **2026-10-12** — news mention: NEG8 Carbon Earns International Recognition For Direct Air Capture Tech ([source](https://carbonherald.com/neg8-carbon-earns-international-recognition-for-direct-air-capture-tech/?utm_source=rss&utm_medium=rss&utm_campaign=neg8-carbon-earns-international-recognition-for-direct-air-capture-tech))
+- **2026-10-01** — news mention: The NZIH Programme Welcomes NEG8 Carbon As A New Member, Linking DAC With Data Centers ([source](https://carbonherald.com/the-nzih-programme-welcomes-neg8-carbon-as-a-new-member-linking-dac-with-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=the-nzih-programme-welcomes-neg8-carbon-as-a-new-member-linking-dac-with-data-centers))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-28** — news mention: NEG8 Carbon: ⭐ Amines are good at capturing carbon in Direct Air Capture (DAC) systems but they can  ([source](https://www.linkedin.com/company/trinity-green-energies/#post-ca4de809ae9e))
 - **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://neg8carbon.com/solid-sorbent-dac-compared-with-electrochemical-dac/))

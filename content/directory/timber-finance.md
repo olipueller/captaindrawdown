@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Biomass Carbon Removal</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://timberfinance.ch/" target="_blank" rel="noopener">https://timberfinance.ch/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/timberfinance/" target="_blank" rel="noopener">timberfinance — 3,242 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/timberfinancesolutions/" target="_blank" rel="noopener">timberfinancesolutions — 48 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~12 (+33% YoY)</td></tr>
+  <tr><th>Employees</th><td>~9</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -35,6 +35,7 @@ Timber Finance (Timber Finance Management AG) is a Zurich-based competence cente
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-08-14** — news mention: Timber Finance: 20 Wohnbauprojekte, jedes mit einem Zwillingsgebäude in der anderen Bauweise verglic ([source](https://www.linkedin.com/company/timberfinance/#post-cd233a300da4))
 - **2026-08-07** — news mention: Timber Finance: Dear everyone, Three recent analyses, one major development for carbon removal in Eu ([source](https://www.linkedin.com/company/timberfinance/#post-72ffa5913dd0))
 - **2026-05-01** — refresh: coresignal, screenshot

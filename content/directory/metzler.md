@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes mixed hardwood sawmill residues into high-carbon biochar (up to ~90% C) sold for agriculture, stormwater management, livestock bedding and soil amendment uses."
 url: "/directory/metzler/"
 pathway: "Biochar"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -13,7 +13,9 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.metzlerbiochar.com/" target="_blank" rel="noopener">https://www.metzlerbiochar.com/</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/metzler-forest-products/" target="_blank" rel="noopener">metzler-forest-products — 984 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~125 (+6% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
   <tr><th>Registry-verified</th><td>Climate Action Reserve</td></tr>
 </table>
@@ -36,6 +38,8 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, liveliness
+- **2026-10-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.metzlerbiochar.com/))
 - **2026-09-15** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness

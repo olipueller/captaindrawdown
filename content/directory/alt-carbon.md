@@ -44,6 +44,8 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-12** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-5e4eb86cc6d0))
+- **2026-09-25** — news mention: Carbon Removal India Alliance: ð®ð³ Indiaâs Top Carbon Removal Suppliers ð®ð³ As durable c ([source](https://www.linkedin.com/company/cria-earth/#post-503ebe639179))
 - **2026-09-06** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-f4c001caa2fd))
 - **2026-09-06** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/frontierclimate/#post-f4c001caa2fd))
 - **2026-08-30** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-2acff671adf6))

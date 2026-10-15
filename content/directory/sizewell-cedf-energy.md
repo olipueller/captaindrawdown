@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.sizewellc.com/" target="_blank" rel="noopener">https://www.sizewellc.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sizewellc/" target="_blank" rel="noopener">sizewellc — 83,271 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~1234 (+60% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -30,6 +30,7 @@ Sizewell C is a 3.2 GW nuclear power station project in Suffolk being developed 
 
 ## History
 
+- **2026-09-23** — news mention: Sizewell C/EDF Energy: 🏗️ Up to 400 jobs are coming to Avonmouth as Sizewell C secures planning perm ([source](https://www.linkedin.com/company/sizewellc/#post-e9a5c4469598))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

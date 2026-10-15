@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Afforestation</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://aurorasustainablelands.com" target="_blank" rel="noopener">https://aurorasustainablelands.com</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aurora-sustainable-lands/" target="_blank" rel="noopener">aurora-sustainable-lands — 4,028 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aurora-sustainable-lands/" target="_blank" rel="noopener">aurora-sustainable-lands — 4,484 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~32 (+14% YoY)</td></tr>
+  <tr><th>Employees</th><td>~36 (+20% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,9 @@ Aurora Sustainable Lands (formerly Bluesource Sustainable Forests Company) is a 
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-09-26** — news mention: Aurora Sustainable Lands: Aurora's Big Poplar Forestry Project has received a BBB.pre ex ante Rating ([source](https://www.linkedin.com/company/aurora-sustainable-lands/#post-c4d321c372d7))
+- **2026-09-26** — news mention: Anew Climate: Project Quality Spotlight | Big Poplar Forestry Project   The Big Poplar Forestry Proj ([source](https://www.linkedin.com/company/anewclimate/#post-4b9448182d4f))
 - **2026-08-22** — news mention: Anew Climate: Project Quality Spotlight | Gray Wolf Forestry Project   The Gray Wolf Forestry Projec ([source](https://www.linkedin.com/company/anewclimate/#post-f2e4a4653c8d))
 - **2026-08-21** — news mention: Aurora Sustainable Lands: Aurora is excited to announce that our Gray Wolf Forestry Project has been ([source](https://www.linkedin.com/company/aurora-sustainable-lands/#post-748fcce9a527))
 - **2026-07-23** — news mention: Aurora Sustainable Lands: Aurora is excited to announce that our Gotham Woods Forestry Project has b ([source](https://www.linkedin.com/company/aurora-sustainable-lands/#post-b98ef03e3b69))

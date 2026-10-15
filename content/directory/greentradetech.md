@@ -5,7 +5,7 @@ type: "directory"
 description: "Blockchain-based marketplace and forward-financing platform that converts multi-year offtake agreements with carbon project developers into tradable digital assets for corporate buyers."
 url: "/directory/greentradetech/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,9 +15,9 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://greentrade.tech/" target="_blank" rel="noopener">https://greentrade.tech/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/greentradetech/" target="_blank" rel="noopener">greentradetech — 1,446 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Employees</th><td>~4 (0% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/greentradetech/" target="_blank" rel="noopener">greentradetech — 1,542 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~5 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,6 +31,9 @@ GreenTrade (GreenTrade Impact GmbH) is a Berlin-based marketplace founded in 202
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot, liveliness
+- **2026-10-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-10-12** — news mention: greentrade.tech: Special Edition: Science Based Targets initiative releases #CorporateNetZeroStandar ([source](https://www.linkedin.com/company/greentradetech/#post-4719ae54e14c))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟡 Moderate ([source](https://greentrade.tech/))

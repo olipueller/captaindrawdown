@@ -5,7 +5,7 @@ type: "directory"
 description: "Methane pyrolysis of biogas producing fuel-cell-grade hydrogen plus solid biochar, with carbon sequestration credited via biochar soil amendment."
 url: "/directory/hago-energetics/"
 pathway: "Biochar"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,9 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://hagoenergetics.com/" target="_blank" rel="noopener">https://hagoenergetics.com/</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/hago-energetics/" target="_blank" rel="noopener">hago-energetics — 117 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~30 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -28,6 +30,8 @@ Hago Energetics is a California-based benefit corporation (HQ Camarillo) that us
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, liveliness
+- **2026-10-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://hagoenergetics.com/about/))
 - **2026-09-15** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness

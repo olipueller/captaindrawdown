@@ -5,7 +5,7 @@ type: "directory"
 description: "Deploys engineered porous substrates on the seafloor to catalyze ocean alkalinity enhancement and support rhodolith (coralline algae) colonization, driving CO2 conversion into stable carbonate"
 url: "/directory/blusink/"
 pathway: "Ocean CDR"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,9 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Method</th><td>Ocean Alkalinity Enhancement</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.blusink.com/" target="_blank" rel="noopener">https://www.blusink.com/</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/blusink/" target="_blank" rel="noopener">blusink — 1,882 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~9 (-25% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +31,8 @@ Blusink is a London-based ocean CDR startup founded in 2022 that deploys enginee
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, liveliness
+- **2026-10-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://tracxn.com/d/companies/blusink/__KT8yySwuSItcRGccE9bmxa_xgbPyW2Ggi4FCQNkk-p0))
 - **2026-09-15** — refresh: screenshot
 - **2026-08-15** — refresh: liveliness
 - **2026-08-15** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://tracxn.com/d/companies/blusink/__KT8yySwuSItcRGccE9bmxa_xgbPyW2Ggi4FCQNkk-p0))

@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Soil Carbon Sequestration</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.cultivo.land/" target="_blank" rel="noopener">https://www.cultivo.land/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cultivo/" target="_blank" rel="noopener">cultivo — 10,208 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cultivo/" target="_blank" rel="noopener">cultivo — 10,977 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~49 (+28% YoY)</td></tr>
+  <tr><th>Employees</th><td>~47 (+40% YoY)</td></tr>
   <tr><th>Open roles</th><td>4 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -35,6 +35,8 @@ Cultivo is a California-based Public Benefit Corporation that develops, operates
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-08** — news mention: Cultivo: Isometric has certified the Grazing Lands Management Module, which supports projects that i ([source](https://www.linkedin.com/company/cultivo/#post-61fbe2956127))
 - **2026-08-22** — news mention: CARBOLIVA SLU: 👉 El centro tecnológico CIRCE - Centro Tecnológico coordina el nuevo Grupo Operativo  ([source](https://www.linkedin.com/company/carboliva-biocarb%c3%b3n-sostenible/#post-f598ae6360e0))
 - **2026-08-19** — news mention: Short-term responses of a degraded Mediterranean soil to compost and biochar amendments combined wit ([source](https://doi.org/10.20350/digitalcsic/29050))
 - **2026-07-29** — news mention: Cultivo: Raising the bar for soil carbon quality is crucial for building trust in nature-based solut ([source](https://www.linkedin.com/company/cultivo/#post-82874baa1ca3))

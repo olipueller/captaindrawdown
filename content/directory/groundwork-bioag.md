@@ -31,6 +31,9 @@ Groundwork BioAg is an Israeli bioagriculture company headquartered in Mazor tha
 
 ## History
 
+- **2026-10-14** — news mention: Groundwork BioAg receives a ‘BBB’ carbon rating from BeZero for its mycorrhizal inoculants program c ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mxtxczmlc22e))
+- **2026-10-14** — news mention: Groundwork BioAg Secures A ‘BBB’ Carbon Rating By BeZero ([source](https://carbonherald.com/groundwork-bioag-secures-a-bbb-carbon-rating-by-bezero/?utm_source=rss&utm_medium=rss&utm_campaign=groundwork-bioag-secures-a-bbb-carbon-rating-by-bezero))
+- **2026-10-01** — news mention: Groundwork BioAg: Climate Week NYC, wrapped. The goal was simple: sell Rootella Carbon credits. Hone ([source](https://www.linkedin.com/company/groundwork-bioagriculture/#post-8c8a694a8787))
 - **2026-08-15** — refresh: coresignal
 - **2026-07-22** — news mention: Groundwork BioAg: Groundwork BioAg is joining forces with Syngenta Group to scale our mycorrhizal te ([source](https://www.linkedin.com/company/groundwork-bioagriculture/#post-63199ca66a64))
 - **2026-07-14** — news mention: Groundwork BioAg Partners With Syngenta To Market Mycorrhiza-Based Soil Solutions ([source](https://carbonherald.com/groundwork-bioag-partners-with-syngenta-to-market-mycorrhiza-based-soil-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=groundwork-bioag-partners-with-syngenta-to-market-mycorrhiza-based-soil-solutions))

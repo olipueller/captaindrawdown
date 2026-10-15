@@ -15,6 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://coastalcarbon.ai/" target="_blank" rel="noopener">https://coastalcarbon.ai/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/coastalcarbonsolutions/" target="_blank" rel="noopener">coastalcarbonsolutions — 3 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -29,6 +30,7 @@ Coastal Carbon is a Canadian startup that uses AI and remote sensing to verify a
 
 ## History
 
+- **2026-10-15** — refresh: coresignal
 - **2026-09-15** — refresh: screenshot
 - **2026-08-15** — refresh: liveliness
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active

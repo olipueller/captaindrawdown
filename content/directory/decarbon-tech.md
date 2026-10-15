@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Website</th><td><a href="https://www.de-carbon.com.cn/en" target="_blank" rel="noopener">https://www.de-carbon.com.cn/en</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/decarbon-tech/" target="_blank" rel="noopener">decarbon-tech — 49 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/decarbon-tech/" target="_blank" rel="noopener">decarbon-tech — 265 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~30 (0% YoY)</td></tr>
+  <tr><th>Employees</th><td>~125 (+250% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +31,8 @@ DeCarbon Tech is a climate governance company focused on new-generation CO2 capt
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-09-17** — news mention: GreenChar Climate Solutions: Isometric has signed its first project developers in China, providing t ([source](https://www.linkedin.com/company/greenchar-climate-solutions/#post-f29efe144e74))
 - **2026-09-02** — news mention: DeCarbon Tech: PROJECT LICHUN | FROM AIR TO VALUE Capturing COâ from the air is only the starting  ([source](https://www.linkedin.com/company/decarbon-tech/#post-c2c8058641e0))
 - **2026-08-25** — news mention: DeCarbon Technology: Isometric has signed its first project developers in China, providing the high- ([source](https://www.linkedin.com/company/decarbon-tech/#post-fb194392fed1))
 - **2026-08-25** — news mention: DeCarbon Technology: PROJECT LICHUN | FROM AIR TO VALUE Capturing CO₂ from the air is only the start ([source](https://www.linkedin.com/company/decarbon-tech/#post-0cb36cb2a269))

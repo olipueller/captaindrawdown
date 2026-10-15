@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Ocean Alkalinity Enhancement</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://planeteers.de/" target="_blank" rel="noopener">https://planeteers.de/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/planeteersgmbh/" target="_blank" rel="noopener">planeteersgmbh — 4,311 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/planeteersgmbh/" target="_blank" rel="noopener">planeteersgmbh — 4,426 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~34 (+26% YoY)</td></tr>
+  <tr><th>Employees</th><td>~33 (+6% YoY)</td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -45,6 +45,21 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-15** — refresh: coresignal
+- **2026-10-15** — refresh: coresignal
+- **2026-10-09** — news mention: #carbonremoval #climatetech #collaboration #planeteers | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7513867999628640256/))
+- **2026-10-06** — news mention: #planeteers #climatetech #chemicalengineering #carbonremoval #engineering | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7513173928299769856/))
+- **2026-10-03** — news mention: Planeteers: Good things happen when cities, scientists and climate technology come together 🌊 We’re  ([source](https://www.linkedin.com/company/planeteersgmbh/#post-fbfc611c89f8))
+- **2026-10-03** — news mention: #carbonremoval #climatetech #kiel | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7511751014392328192/))
+- **2026-09-26** — news mention: 🌍 Please join us in welcoming Kelvin Weru, our newest Planeteer! 💚
+ 
+Kelvin has a background in Proc ([source](https://www.linkedin.com/feed/update/urn:li:share:7509242921959845889/))
+- **2026-09-17** — news mention: 🌍 Please join us in welcoming Ina Sophia Nipper, our newest Planeteer! 💚
+
+Ina recently completed her ([source](https://www.linkedin.com/feed/update/urn:li:share:7506277290356645889/))
+- **2026-09-15** — news mention: 𝐖𝐞’𝐫𝐞 𝐞𝐱𝐜𝐢𝐭𝐞𝐝 𝐭𝐨 𝐬𝐡𝐚𝐫𝐞 𝐭𝐡𝐞 𝐧𝐞𝐰 Planeteers 𝐥𝐨𝐠𝐨!
+ 
+Our new identity represents the connection between ([source](https://www.linkedin.com/feed/update/urn:li:share:7505209591408914433/))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-12** — news mention: Planeteers | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7504144206689628160/))
 - **2026-09-09** — news mention: #thedrop2026 #carbonremoval #climatetech #industrialdecarbonisation | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7503075876134100992/))
@@ -74,19 +89,6 @@ Having recently completed his  ([source](https://www.linkedin.com/feed/update/ur
 - **2026-07-07** — news mention: 🌍 Please join us in welcoming Mugdha H., our newest Planeteer! 💚
 
 Mugdha joins us as a Working Stude ([source](https://www.linkedin.com/feed/update/urn:li:share:7479889015303979008/))
-- **2026-07-02** — news mention: 🚨𝐖𝐞’𝐫𝐞 𝐥𝐚𝐮𝐧𝐜𝐡𝐢𝐧𝐠 𝐨𝐮𝐫 𝐟𝐢𝐫𝐬𝐭 𝐬𝐞𝐫𝐢𝐞𝐬!
- 
-Starting next week, every Thursday, we’ll share one practical p ([source](https://www.linkedin.com/feed/update/urn:li:share:7478386976690249728/))
-- **2026-06-30** — news mention: #hhis #hamburginnovationsummit #climatetech #carbonremoval #negativeemissions #deeptech #innovation  ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477320935235174400/))
-- **2026-06-27** — news mention: #hamburgsustainabilityconference #climatetech #carbonremoval #industrialdecarbonization #sustainabil ([source](https://www.linkedin.com/feed/update/urn:li:share:7476221649961402369/))
-- **2026-06-26** — news mention: #vivatech #startupgermany #carbonremoval #climatetech #eic #innovation | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475909678015692800/))
-- **2026-06-24** — news mention: 🌍 Please join us in welcoming Michael Rieger, Ph.D., our newest Planeteer! 💚
-
-With extensive experti ([source](https://www.linkedin.com/feed/update/urn:li:share:7475193812634705922/))
-- **2026-06-15** — refresh: coresignal
-- **2026-06-15** — refresh: coresignal
-- **2026-06-11** — news mention: #hhis #hamburginnovationsummit #carbonremoval #climatetech #planeteers | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7470410455300280320/))
-- **2026-06-10** — news mention: #unitedbytech #vivatech2026 #planeteers #climatetech #innovation | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7470095057581346816/))
 
 ---
 

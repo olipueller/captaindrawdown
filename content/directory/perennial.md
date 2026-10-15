@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Soil Carbon Sequestration</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.perennial.earth/" target="_blank" rel="noopener">https://www.perennial.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/perennial-earth/" target="_blank" rel="noopener">perennial-earth — 10,382 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/perennial-earth/" target="_blank" rel="noopener">perennial-earth — 11,082 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~42 (-5% YoY)</td></tr>
+  <tr><th>Employees</th><td>~44 (+7% YoY)</td></tr>
   <tr><th>Open roles</th><td>3 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -35,6 +35,8 @@ Perennial (formerly Cloud Agronomics) is a Boulder, Colorado-based MRV company f
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-09-25** — news mention: Three Years of Biochar Left a Fertile Kentucky Soil Mostly Unchanged ([source](https://bioengineer.org/three-years-of-biochar-left-a-fertile-kentucky-soil-mostly-unchanged/))
 - **2026-09-05** — news mention: Diagnostic Limitations in Soil Health Frameworks for Tropical Perennial Systems: A Critical Review a ([source](https://www.mdpi.com/2073-4395/16/17/1733))
 - **2026-09-03** — news mention: Perennial: Our science team just published its third peer-reviewed study on digital soil mapping â ([source](https://www.linkedin.com/company/perennial-earth/#post-a3d02f65f78f))
 - **2026-08-27** — news mention: Perennial: Our science team just published its third peer-reviewed study on digital soil mapping — p ([source](https://www.linkedin.com/company/perennial-earth/#post-c53eb7196a5e))

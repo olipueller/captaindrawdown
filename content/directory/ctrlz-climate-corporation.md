@@ -14,9 +14,9 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://ctrlzclimate.com/" target="_blank" rel="noopener">https://ctrlzclimate.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ctrlz-climate/" target="_blank" rel="noopener">ctrlz-climate — 127 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ctrlz-climate/" target="_blank" rel="noopener">ctrlz-climate — 130 followers</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
+  <tr><th>Employees</th><td>~5 (-100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ CtrlZ Climate offers carbon removal and storage services based on chemical, engi
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟡 Moderate ([source](https://ctrlzclimate.com/))
 - **2026-04-19** — refresh: coresignal, liveliness

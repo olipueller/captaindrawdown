@@ -5,7 +5,7 @@ type: "directory"
 description: "420MW wood-pellet biomass power station pursuing a post-combustion carbon capture retrofit to deliver negative emissions (BECCS) under the UK CCS cluster framework."
 url: "/directory/lynemouth-power-limited/"
 pathway: "BECCS"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,9 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.lynemouthpower.com/" target="_blank" rel="noopener">https://www.lynemouthpower.com/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/lynemouth-power-limited/" target="_blank" rel="noopener">lynemouth-power-limited — 33 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~10 (+11% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -28,6 +30,8 @@ Lynemouth Power Limited operates a 420MW biomass power station in Northumberland
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, liveliness
+- **2026-10-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-09-15** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: liveliness

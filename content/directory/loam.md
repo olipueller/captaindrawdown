@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://www.loambio.com/" target="_blank" rel="noopener">https://www.loambio.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/soilcarbonco/" target="_blank" rel="noopener">soilcarbonco — 19,565 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/loambio/" target="_blank" rel="noopener">loambio — 20,325 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~77</td></tr>
+  <tr><th>Employees</th><td>~79 (+1% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,11 @@ Loam Bio is an Australian agri-biotech company (founded 2019, HQ in Orange, NSW)
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-01** — news mention: Last week, Isometric brought together over 270 buyers, developers, investors and other leaders for a ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7511081317418180610/))
+- **2026-09-25** — news mention: Three Years of Biochar Left a Fertile Kentucky Soil Mostly Unchanged ([source](https://bioengineer.org/three-years-of-biochar-left-a-fertile-kentucky-soil-mostly-unchanged/))
+- **2026-09-24** — news mention: Loam: Loam Bio , one of the world's leading soil carbon project developers, has partnered with Isome ([source](https://www.linkedin.com/company/soilcarbonco/#post-2d5e5d936e89))
+- **2026-09-18** — news mention: Optimal application rate and frequency of apple-pruning biochar for crop productivity, soil properti ([source](https://doi.org/10.7745/kjssf.2026.59.3.318))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-05** — news mention: Loam: We teamed up with Western Sydney University to see what our fungi could really do underground. ([source](https://www.linkedin.com/company/soilcarbonco/#post-42bc8418cd29))
 - **2026-07-29** — news mention: Loam: The soil carbon market has had a credibility problem, and Isometric 's new Improved Soil Manag ([source](https://www.linkedin.com/company/soilcarbonco/#post-89fe92e940ed))

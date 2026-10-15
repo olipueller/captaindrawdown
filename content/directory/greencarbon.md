@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://www.greencarbon.nl" target="_blank" rel="noopener">https://www.greencarbon.nl</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/greencarbon-bv/" target="_blank" rel="noopener">greencarbon-bv — 35 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/greencarbon-bv/" target="_blank" rel="noopener">greencarbon-bv — 40 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~3 (0% YoY)</td></tr>
+  <tr><th>Employees</th><td>~3</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ Greencarbon is a Dutch broker/marketplace for CO2 removal certificates based in 
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-09-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-09-08** — news mention: #industrie #landwirtschaft #regionale #kreislaufwirtschaft #syncraft #tirol #innovation #grünerkohle ([source](https://www.linkedin.com/feed/update/urn:li:share:7502632448141189120/))
 - **2026-05-01** — refresh: coresignal, screenshot

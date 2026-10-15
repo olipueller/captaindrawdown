@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>CDR Platform/Marketplace</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.patch.io/" target="_blank" rel="noopener">https://www.patch.io/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/patch-technologies/" target="_blank" rel="noopener">patch-technologies — 32,079 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/usepatch/" target="_blank" rel="noopener">usepatch — 34,140 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~94</td></tr>
+  <tr><th>Employees</th><td>~99 (+3% YoY)</td></tr>
   <tr><th>Open roles</th><td>12 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -34,6 +34,7 @@ Patch is a San Francisco-based carbon credit platform that combines software, da
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-09-08** — news mention: Is the Cheap Carbon Credit Era Coming to an End? • Carbon Credits ([source](https://carboncredits.com/is-the-cheap-carbon-credit-era-coming-to-an-end/))
 - **2026-08-22** — news mention: Researchers released 16,500 gallons of sodium hydroxide into the ocean near Cape Cod, the first EPA- ([source](https://www.ecoticias.com/en/researchers-released-16500-gallons-of-sodium-hydroxide-into-the-ocean-near-cape-cod-the-first-epa-permitted-trial-of-its-kind-and-a-dye-tracer-followed-the-patch-for-five-days/35875/))
 - **2026-08-15** — news mention: Ground Up: As part of our ongoing biochar field application trials, Ground Up recently completed pat ([source](https://www.linkedin.com/company/ground-up-in/#post-9a1efa594a58))

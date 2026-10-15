@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Afforestation/Reforestation</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.treeo.one/" target="_blank" rel="noopener">https://www.treeo.one/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/treeo-org/" target="_blank" rel="noopener">treeo-org — 4,460 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/treeo-one/" target="_blank" rel="noopener">treeo-one — 4,631 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~36 (-5% YoY)</td></tr>
+  <tr><th>Employees</th><td>~31 (-16% YoY)</td></tr>
   <tr><th>Open roles</th><td>3 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -35,6 +35,7 @@ TREEO, operated by Fairventures Digital GmbH (Stuttgart, Germany), is a for-prof
 
 ## History
 
+- **2026-10-15** — refresh: coresignal
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot

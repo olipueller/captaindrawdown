@@ -29,6 +29,7 @@ PUHI is a Finland-based biochar and carbon removal company operating its first p
 
 ## History
 
+- **2026-10-12** — news mention: PUHI: This week American Biochar Institute released the 2025 United States Biochar Market Report, ou ([source](https://www.linkedin.com/company/puhi/#post-ead518b181d8))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-07** — news mention: Viochar: We are launching a new pyrolysis reactor. Say hi to the PBR-1400! We're currently putting t ([source](https://www.linkedin.com/company/viochar/#post-60ecba5e17e6))
 - **2026-09-06** — news mention: PUHI: This week American Biochar Institute released the 2025 United States Biochar Market Report, ou ([source](https://www.linkedin.com/company/puhi/#post-47db7d12d9b9))

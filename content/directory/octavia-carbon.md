@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://www.octaviacarbon.com/" target="_blank" rel="noopener">https://www.octaviacarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/octavia-carbon/" target="_blank" rel="noopener">octavia-carbon — 17,273 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/octavia-carbon/" target="_blank" rel="noopener">octavia-carbon — 17,415 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~71 (+15% YoY)</td></tr>
+  <tr><th>Employees</th><td>~71</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -36,6 +36,17 @@ Octavia Carbon is a Nairobi-based direct air capture startup founded in 2022 by 
 
 ## History
 
+- **2026-10-15** — refresh: coresignal
+- **2026-10-15** — refresh: coresignal
+- **2026-10-10** — news mention: Flux: Direct Air Capture (DAC) wins big for 🇰🇪 Kenya!! 📢 Tencent has announced the winners of its ne ([source](https://www.linkedin.com/company/flux-carbon/#post-275de1ef31e9))
+- **2026-10-09** — news mention: 🇰🇪 A strong carbon market is built on trust, and trust is built on clear rules.
+ 
+🎉 This week, we jo ([source](https://www.linkedin.com/feed/update/urn:li:share:7513920776677478401/))
+- **2026-10-05** — news mention: Flux Carbon: Direct Air Capture (DAC) wins big for 🇰🇪 Kenya!! 📢 Tencent has announced the winners of ([source](https://www.linkedin.com/company/flux-earth/#post-275de1ef31e9))
+- **2026-09-25** — news mention: 🏆 We Are One of the First Recipients of The Cool Effect Catalyst Award!
+
+ 🎉 We are proud to be named ([source](https://www.linkedin.com/feed/update/urn:li:share:7508891407680655362/))
+- **2026-09-21** — news mention: Octavia Carbon: ð We won the Everything and the Carbon Sink carbon credit RFP. Thanks a ton, Noah ([source](https://www.linkedin.com/company/octavia-carbon/#post-85b43b796553))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-11** — news mention: 🌍 Kenya&amp;#39;s Direct Air Capture story is still being written, and last week, we brought the peo ([source](https://www.linkedin.com/feed/update/urn:li:share:7503777106515128320/))
 - **2026-09-05** — news mention: PyroCCS: 📣 Happy news from our alumni community! During London Climate Action Week, four remove alum ([source](https://www.linkedin.com/company/pyroccs/#post-9c412fcfa15e))
@@ -63,13 +74,6 @@ Octavia Carbon is a Nairobi-based direct air capture startup founded in 2022 by 
 - **2026-07-31** — news mention: PyroCCS: Direct Air Capture (DAC) wins big for 🇰🇪 Kenya!! 📢 Tencent has announced the winners of its ([source](https://www.linkedin.com/company/pyroccs/#post-8e9257525ee9))
 - **2026-07-31** — news mention: PyroCCS: 📣 Happy news from our alumni community! During London Climate Action Week, four remove alum ([source](https://www.linkedin.com/company/pyroccs/#post-1fe05f862376))
 - **2026-07-27** — news mention: ZEN Carbon: The Office of the Special Envoy for Climate Change congratulates Zen Carbon and Octavia  ([source](https://www.linkedin.com/company/clitruct/#post-732e10060924))
-- **2026-07-27** — news mention: ZEN Carbon: History isn't always written in books. Sometimes, it's poured in concrete. For years, a  ([source](https://www.linkedin.com/company/clitruct/#post-13aba80a54ff))
-- **2026-07-27** — news mention: Octavia Carbon: 🎉 Big News: Octavia Carbon Is One of 16 Winners of Tencent 's CarbonX Program 2.0, a ([source](https://www.linkedin.com/company/octavia-carbon/#post-b54684375cf7))
-- **2026-07-27** — news mention: Octavia Carbon: 🌍 We are proud to have unveiled Africa's first real-world green concrete deployment, ([source](https://www.linkedin.com/company/octavia-carbon/#post-e7232825c242))
-- **2026-07-27** — news mention: Flux: Direct Air Capture (DAC) wins big for 🇰🇪 Kenya!! 📢 Tencent has announced the winners of its ne ([source](https://www.linkedin.com/company/flux-earth/#post-8e9257525ee9))
-- **2026-07-27** — news mention: Flux: 🌍 Big things are happening across the Global South. In the past week alone: ✅ Kenya's Octavia  ([source](https://www.linkedin.com/company/flux-earth/#post-52e2184f265a))
-- **2026-07-24** — news mention: PyroCCS: Direct Air Capture (DAC) wins big for ð°ðª Kenya!! ð¢ Tencent has announced the winne ([source](https://www.linkedin.com/company/pyroccs/#post-94e66063f6cb))
-- **2026-07-24** — news mention: PyroCCS: ð£ Happy news from our alumni community! During London Climate Action Week, four remove a ([source](https://www.linkedin.com/company/pyroccs/#post-8615e7d82657))
 
 ---
 

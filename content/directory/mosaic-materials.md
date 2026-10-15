@@ -15,9 +15,9 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://mosaicmaterials.com/" target="_blank" rel="noopener">https://mosaicmaterials.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/mosaicmaterials/" target="_blank" rel="noopener">mosaicmaterials — 2,629 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/mosaicmaterials/" target="_blank" rel="noopener">mosaicmaterials — 2,651 followers</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Employees</th><td>~4 (-67% YoY)</td></tr>
+  <tr><th>Employees</th><td>~1 (-92% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ Mosaic Materials is a direct air capture technology developer based in Alameda, 
 
 ## History
 
+- **2026-10-15** — refresh: coresignal
 - **2026-05-01** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟡 Moderate ([source](https://www.bakerhughes.com/company/news/baker-hughes-acquires-mosaic-materials-advance-nextgeneration-carbon-dioxide-capture))
 - **2026-04-19** — refresh: coresignal, screenshot

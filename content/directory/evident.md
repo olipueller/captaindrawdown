@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Enabling Tech</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://evident.global" target="_blank" rel="noopener">https://evident.global</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/international-rec-services/" target="_blank" rel="noopener">international-rec-services — 8,338 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/evidentstaffingmn/" target="_blank" rel="noopener">evidentstaffingmn — 10 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~125</td></tr>
+  <tr><th>Employees</th><td>~6 (+20% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -29,6 +29,8 @@ Evident is a Sheffield, UK-based certification and registry provider, best known
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-09-18** — news mention: Silicate rock remineralizers sustain soil potassium availability and irrigated rice yield in subtrop ([source](https://www.researchsquare.com/article/rs-10778596/v1))
 - **2026-08-30** — news mention: C-Capsule: Today, Absolute Climate, Cowboy Clean Fuels , and Evident announced a partnership to brin ([source](https://www.linkedin.com/company/c-capsule/#post-c510d507effe))
 - **2026-08-29** — news mention: California Dairy Farm’s New Biogas Project Makes History and Raises Eyebrows ([source](https://insideclimatenews.org/news/29082026/california-dairy-farm-biogas-project/))
 - **2026-08-13** — news mention: Development and evaluation of biochar formulated fertilizers for climate-smart sustainable crop prod ([source](https://doi.org/10.3389/fsoil.2026.1880824))

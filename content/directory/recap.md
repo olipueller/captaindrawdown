@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.recapcarbon.com/" target="_blank" rel="noopener">https://www.recapcarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/recap-carbon/" target="_blank" rel="noopener">recap-carbon — 112 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/recap-carbon/" target="_blank" rel="noopener">recap-carbon — 158 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~3</td></tr>
+  <tr><th>Employees</th><td>~5 (+150% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,12 @@ reCap Carbon Inc. is a US-based climate-tech company that converts municipal yar
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-06** — news mention: Durable CDR Market Recap: September 2026 — Key Deals &amp; Trends ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-september-2026))
+- **2026-10-06** — news mention: Let that sink in: the Carbon Gap CDR recap | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7512870406601457664/))
+- **2026-09-25** — news mention: Durable CDR Market Recap: July 2026 — Key Deals &amp; Trends ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-july-2026))
+- **2026-09-25** — news mention: Durable CDR Market Recap: August 2026 — Key Deals &amp; Trends ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-august-2026))
+- **2026-09-20** — news mention: Kalp Climate Tech: In June we showed up on a global list. AlliedOffsets named us among the top issue ([source](https://www.linkedin.com/company/krishe-carbon/#post-a848c547ba0c))
 - **2026-07-23** — news mention: CO2Re: Today UK Government published its response to the Independent Review of Greenhouse Gas Remova ([source](https://www.linkedin.com/company/co2re/#post-fe9500f60e19))
 - **2026-07-08** — news mention: Durable CDR Market Recap: June 2026 - Key Deals & Trends | CDR.fyi  Isometric raised <strong>$40 mil ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mq4n2me7ua2k))
 - **2026-07-07** — news mention: Durable CDR Market Recap: June 2026 — Key Deals & Trends | CDR.fyi ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-june-2026))

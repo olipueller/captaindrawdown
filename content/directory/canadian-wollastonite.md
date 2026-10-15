@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://canadianwollastonite.com" target="_blank" rel="noopener">https://canadianwollastonite.com</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/canadian-wollastonite/" target="_blank" rel="noopener">canadian-wollastonite — 481 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/canadian-wollastonite/" target="_blank" rel="noopener">canadian-wollastonite — 496 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~30 (-50% YoY)</td></tr>
+  <tr><th>Employees</th><td>~30 (-33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ Canadian Wollastonite is an Ontario-based industrial minerals mine near Seeley's
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-07-26** — news mention: Canadian Wollastonite: Kingston leads Ontario in climate action The City of Kingston has announced a ([source](https://www.linkedin.com/company/canadian-wollastonite/#post-5a7da33a9d98))
 - **2026-07-26** — news mention: Canadian Wollastonite: 🚀 Major Win! Our Canadian Wollastonite Partnership with UNDO won the $5 Milli ([source](https://www.linkedin.com/company/canadian-wollastonite/#post-40da88a85506))
 - **2026-06-15** — liveliness: 🟡 Moderate → 🟢 Active

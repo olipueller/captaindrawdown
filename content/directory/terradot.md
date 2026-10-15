@@ -14,12 +14,12 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://terradot.earth/" target="_blank" rel="noopener">https://terradot.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terradot/" target="_blank" rel="noopener">terradot — 9,527 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified via isometric issuance on 2026-03-17</small></td></tr>
-  <tr><th>Employees</th><td>~85 (+15% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terradot/" target="_blank" rel="noopener">terradot — 10,740 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active isometric · puro crediting window through 2028-05-09</small></td></tr>
+  <tr><th>Employees</th><td>~82 (+1% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
-  <tr><th>Registry-verified</th><td>Isometric <small>(last issuance: 2026-03-17)</small></td></tr>
+  <tr><th>Registry-verified</th><td>Isometric · Puro.earth <small>(active crediting window through 2028-05-09)</small></td></tr>
 </table>
 
 ## About
@@ -35,41 +35,44 @@ Independently verified by carbon-credit registries:
 **Isometric**
 - 1 project · Rock Weathering · 204 tCO₂ issued · 23 retired · first issued 2026-03-17 &nbsp;[↗](https://to.isometric.com/prj_1K10D531D1S0DEV9)
 
+**Puro.earth**
+- 1 project · Enhanced Rock Weathering, 2022 · crediting period 2023-05-10 → 2028-05-09 (active)
+
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
 
 ## History
 
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-09-04** — news mention: #carbonremoval #climatepolicy #enhancedrockweathering #cdr #climatetech #terradot | Terradot ([source](https://www.linkedin.com/feed/update/urn:li:share:7501043845707661312/))
-- **2026-08-29** — news mention: Frontier Climate: Four years ago, it was still an open question whether rocks would weather fast eno ([source](https://www.linkedin.com/company/frontierclimate/#post-263f68f228a1))
-- **2026-08-27** — news mention: Terradot: Rock dust is on the move! This month the Terradot team kicked off our latest deployments o ([source](https://www.linkedin.com/company/terradot/#post-ebc1588ede86))
-- **2026-08-27** — news mention: Lithos: Four years ago, it was still an open question whether rocks would weather fast enough to rem ([source](https://www.linkedin.com/company/lithoscarbon/#post-263f68f228a1))
-- **2026-08-25** — news mention: #carbonremoval #erw #cdr #scalingclimate #logistics #climateimpact | Terradot ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7497691090175647744/))
-- **2026-08-21** — news mention: #terradot #fenasucro2026 #agribusiness #sugarcane #carbonremoval #enhancedrockweathering #cdr #agron ([source](https://www.linkedin.com/feed/update/urn:li:share:7495924032769396736/))
-- **2026-08-21** — news mention: Data Engineer | Open Roles ([source](https://ats.rippling.com/pt-BR/terradot-careers/jobs/f3d7c951-b234-4d9d-8747-6a70c7b8c07a))
-- **2026-08-21** — news mention: Data Scientist  | Open Roles ([source](https://ats.rippling.com/pt-BR/terradot-careers/jobs/1128a65e-d9df-431e-adc9-c1a1ddc5e34b))
-- **2026-08-20** — news mention: Eion: Today weâre excited to share that Eion Carbon is now part of Terradot . Terradot has acquire ([source](https://www.linkedin.com/company/eioncarbon/#post-1be785fb421f))
-- **2026-08-19** — news mention: associadas | Terradot ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7495599652403265536/))
-- **2026-08-15** — refresh: coresignal
-- **2026-08-05** — news mention: Terradot: ‼️ Just a few moments ago, the European Commission took a major step towards a competitive ([source](https://www.linkedin.com/company/terradot/#post-c3e6ad99a14f))
-- **2026-07-29** — news mention: Lithos Carbon: Four years ago, it was still an open question whether rocks would weather fast enough ([source](https://www.linkedin.com/company/lithoscarbon/#post-60f4d9b90568))
-- **2026-07-29** — news mention: Carbon removals in the ETS, 17 July | Terradot ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7487910136896946176/))
-- **2026-07-25** — news mention: 350solutions: March was a crazy month for Enhanced Rock Weathering ( #ERW )! The 350 team was busy w ([source](https://www.linkedin.com/company/350solutions/#post-4a43938f1559))
-- **2026-07-24** — news mention: Frontier Climate: Four years ago, it was still an open question whether rocks would weather fast eno ([source](https://www.linkedin.com/company/frontierclimate/#post-60f4d9b90568))
-- **2026-07-23** — news mention: Eion: Today we’re excited to share that Eion Carbon is now part of Terradot . Terradot has acquired  ([source](https://www.linkedin.com/company/eioncarbon/#post-b564c1a62365))
-- **2026-07-22** — news mention: Terradot: Scaling Enhanced Rock Weathering to planetary scale depends on scaling how we measure, rep ([source](https://www.linkedin.com/company/terradot/#post-2c19b8e791fc))
-- **2026-07-22** — news mention: Lithos: Four years ago, it was still an open question whether rocks would weather fast enough to rem ([source](https://www.linkedin.com/company/lithoscarbon/#post-2fc3b5595412))
-- **2026-07-21** — news mention: A Direct-Measurement Framework for Enhanced Rock Weathering ([source](https://cdrxiv.org/preprint/309))
-- **2026-07-18** — news mention: #goldschmidt2026 | Terradot ([source](https://www.linkedin.com/feed/update/urn:li:share:7483969592151789568/))
-- **2026-07-15** — refresh: coresignal
-- **2026-07-15** — refresh: coresignal
-- **2026-07-01** — news mention: Terradot: Last week, our team headed back to the Mississippi Delta to walk our US project sites toge ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477431399520591872/))
-- **2026-06-26** — news mention: Proud to have Scott Fendorf, Terradot Co-Founder and Chief Scientist, joining this important convers ([source](https://www.linkedin.com/feed/update/urn:li:share:7475697416529264640/))
-- **2026-06-15** — refresh: coresignal
-- **2026-06-15** — refresh: coresignal
-- **2026-06-03** — news mention: #agtech #carbonremoval #enhancedrockweathering #terradot #climateaction #brazilagro | Terradot ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7467370840372793344/))
-- **2026-05-21** — news mention: The supplier set is wider than people think. Lithos, UNDO, Terradot, InPlanet, and Alt Carbon do cro ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mme57ibapp2b))
+- **2026-10-15** — refresh: coresignal
+- **2026-10-15** — refresh: coresignal
+- **2026-10-12** — news mention: Terradot joins the Negative Emissions Platform ([source](https://www.negative-emissions.org/updates/terradot-joins-the-negative-emissions-platform))
+- **2026-10-12** — news mention: Frontier Climate: Last August, James Kanoff and I were in the back of a truck in Brazil, rolling thr ([source](https://www.linkedin.com/company/frontierclimate/#post-b4f6a03f6847))
+- **2026-10-10** — news mention: Carbon Removal Alliance: BIG News! Today Terradot and Google are announcing the world’s first megato ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-271059d94826))
+- **2026-10-08** — news mention: Carbon Business Council: Carbon removal buyers include everything from airlines to appliance makers, ([source](https://www.linkedin.com/company/carbonbusinesscouncil/#post-d91caa0c8e1f))
+- **2026-10-08** — news mention: CDR.fyi: 🚨 September soars with 1M tonnes contracted 📈 Following a relatively slow August (128Kt), S ([source](https://www.linkedin.com/company/cdr-fyi/#post-e181fd75f501))
+- **2026-10-02** — news mention: Terradot: BIG News! Today Terradot and Google are announcing the world’s first megaton scale enhance ([source](https://www.linkedin.com/company/terradot/#post-271059d94826))
+- **2026-10-01** — news mention: Google’s Largest Carbon-Removal Deal Targets Two Greenhouse Gases on Brazilian Farms Key Executives ([source](https://www.thekeyexecutives.com/2026/10/01/googles-largest-carbon-removal-deal-targets-two-greenhouse-gases-on-brazilian-farms/))
+- **2026-09-21** — news mention: Google Signs Largest Carbon Removal Deal With Terradot in Brazil ([source](https://serrarigroup.com/google-signs-largest-carbon-removal-deal-with-terradot-in-brazil/))
+- **2026-09-18** — news mention: Google Signs Record Carbon Removal Deal With Terradot for Brazil Rice Project ([source](https://carboncredits.com/google-signs-record-carbon-removal-deal-with-terradot-for-brazil-rice-project/))
+- **2026-09-18** — news mention: Google signs biggest carbon-removal deal yet, targets methane and CO₂ in Brazil - ([source](https://www.esgtimes.in/climate/carbon/google-signs-biggest-carbon-removal-deal-yet-targets-methane-and-co%E2%82%82-in-brazil/))
+- **2026-09-18** — news mention: Terradot and Google Launch World’s Largest Enhanced Rock Weathering Project - NewsBreak ([source](https://www.newsbreak.com/news/4891960716134-terradot-and-google-launch-world-s-largest-enhanced-rock-weathering-project))
+- **2026-09-17** — news mention: Google signs largest carbon removal deal to date in Brazil - BNamericas ([source](https://www.bnamericas.com/en/news/google-signs-largest-carbon-removal-deal-to-date-in-brazil))
+- **2026-09-17** — news mention: Google's Groundbreaking Carbon-Removal Project in Brazil ([source](https://www.bundle.app/en/breaking-news/googles-groundbreaking-carbon-removal-project-in-brazil-3C9C6E58-132B-4EB5-8CA9-C45AE9F7D420))
+- **2026-09-17** — news mention: Google agrees biggest carbon-removal deal yet, aims to scale new model - NewsBreak ([source](https://www.newsbreak.com/reuters-555486/4889342221619-google-agrees-biggest-carbon-removal-deal-yet-aims-to-scale-new-model))
+- **2026-09-17** — news mention: Google Agrees to Biggest Carbon-Removal Deal in Brazil ([source](https://barlamantoday.com/2026/09/17/google-agrees-to-biggest-carbon-removal-deal-in-brazil/))
+- **2026-09-17** — news mention: Google, Terradot Target 2M Tons of Climate Impact - ESG News ([source](https://esgnews.com/google-terradot-target-2m-tons-of-climate-impact/))
+- **2026-09-17** — news mention: Terradot and Google Combine Superpollutants and Carbon Removal in the World's Largest Enhanced Rock  ([source](https://www.newsbreak.com/the-associated-press-510077/4889433403381-terradot-and-google-combine-superpollutants-and-carbon-removal-in-the-world-s-largest-enhanced-rock-weathering-project-in-southern-brazil))
+- **2026-09-17** — news mention: Google Inks Its Largest CDR Purchase To Date And Backs Methane Abatement In A New Deal With Terradot ([source](https://carbonherald.com/google-inks-its-largest-cdr-purchase-to-date-and-backs-methane-abatement-in-a-new-deal-with-terradot/?utm_source=rss&utm_medium=rss&utm_campaign=google-inks-its-largest-cdr-purchase-to-date-and-backs-methane-abatement-in-a-new-deal-with-terradot))
+- **2026-09-17** — news mention: Congratulations to the whole Google team (Randy Spock, Reilly O&amp;#39;Hara, Ella Hughes, and Tessa ([source](https://www.linkedin.com/feed/update/urn:li:share:7506032641771524097/))
+- **2026-09-17** — news mention: Google and Terradot Target 200,000 Hectares of Rice Paddies in Brazil | energynews.pro ([source](https://energynews.pro/en/google-and-terradot-target-200000-hectares-of-rice-paddies-in-brazil))
+- **2026-09-16** — news mention: Terradot and Google Combine Superpollutants and Carbon Removal in the World's Largest Enhanced Rock  ([source](https://www.financialcontent.com/article/bizwire-2026-9-16-terradot-and-google-combine-superpollutants-and-carbon-removal-in-the-worlds-largest-enhanced-rock-weathering-project-in-southern-brazil))
+- **2026-09-16** — news mention: Google agrees biggest carbon-removal deal yet, aims to scale new model - The Economic Times ([source](https://economictimes.indiatimes.com/tech/technology/google-agrees-biggest-carbon-removal-deal-yet-aims-to-scale-new-model/articleshow/134287509.cms))
+- **2026-09-16** — news mention: Google agrees biggest carbon-removal deal yet, aims to scale new model | The Straits Times ([source](https://www.straitstimes.com/world/google-agrees-biggest-carbon-removal-deal-yet-aims-to-scale-new-model))
+- **2026-09-16** — news mention: Google Signs Record Carbon and Methane Removal Deal with Terradot - ESG Today ([source](https://www.esgtoday.com/google-signs-record-carbon-and-methane-removal-deal-with-terradot/))
+- **2026-09-16** — news mention: Google agrees biggest carbon-removal deal yet, aims to scale new model ([source](https://www.ajot.com/news/google-agrees-biggest-carbon-removal-deal-yet-aims-to-scale-new-model))
+- **2026-09-16** — news mention: Google agrees biggest carbon-removal deal yet, aims to scale new model By Reuters ([source](https://www.investing.com/news/stock-market-news/google-agrees-biggest-carbonremoval-deal-yet-aims-to-scale-new-model-4903605))
+- **2026-09-16** — news mention: Google and Terradot agreement enables climate impact by 2030 ([source](https://blog.google/company-news/outreach-and-initiatives/sustainability/terradot-superpollutants-carbon-removal/))
+- **2026-09-16** — news mention: 🌾 🪨 ⏳ Pleased to see the announcement today of a significant offtake partnership between Google and  ([source](https://www.linkedin.com/feed/update/urn:li:share:7505979541354369024/))
 
 ---
 

@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://ecologi.com/" target="_blank" rel="noopener">https://ecologi.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/offset-earth/" target="_blank" rel="noopener">offset-earth — 56,836 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ecologihq/" target="_blank" rel="noopener">ecologihq — 58,462 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~109 (+14% YoY)</td></tr>
+  <tr><th>Employees</th><td>~102</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ Ecologi Action Ltd (trading as Ecologi) is a UK-based all-in-one climate action 
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-08-11** — news mention: Ecologi Action Ltd: ISO 14060 is the new draft ISO standard for organisational net-zero. 🎯 It sets o ([source](https://www.linkedin.com/company/offset-earth/#post-461f4ea6be4a))
 - **2026-08-11** — news mention: Ecologi Action Ltd: 🗞️ New Greenprint Alert! Another busy fortnight with a new rulebook, new market  ([source](https://www.linkedin.com/company/offset-earth/#post-938231a83929))
 - **2026-05-01** — refresh: coresignal, screenshot

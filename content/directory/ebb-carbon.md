@@ -30,6 +30,7 @@ Ebb Carbon is a South San Francisco-based marine CDR pure-play that integrates b
 
 ## History
 
+- **2026-09-16** — news mention: Carbon Dioxide Removal Market - A Global and Regional Analysis: Focus on Technology Type, Carbon Cre ([source](https://bisresearch.com/industry-report/carbon-dioxide-removal-market.html))
 - **2026-08-31** — news mention: Integrating laboratory-based secondary precipitation thresholds with ocean biogeochemistry models to ([source](https://doi.org/10.21203/rs.3.rs-10639502/v1))
 - **2026-08-27** — news mention: Ebb Carbon: New research in Frontiers in Climate, led by Monash University's Water Studies Centre wi ([source](https://www.linkedin.com/company/ebb-carbon/#post-19ea1d489ee5))
 - **2026-08-25** — news mention: New Study Maps Out Suitable OAE Deployment Sites In Australia ([source](https://carbonherald.com/new-study-maps-out-suitable-oae-deployment-sites-in-australia/?utm_source=rss&utm_medium=rss&utm_campaign=new-study-maps-out-suitable-oae-deployment-sites-in-australia))

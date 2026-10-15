@@ -29,6 +29,10 @@ Nordic Carbon is a Danish biochar developer that sources biomass residues and de
 
 ## History
 
+- **2026-10-05** — news mention: Skyrenu: 250 million allowances is not the same as 250 million tonnes removed.   In July, the Europe ([source](https://www.linkedin.com/company/skyrenu-technologies/#post-46fd8a853546))
+- **2026-10-03** — news mention: Policy Summit takeaways: Unlocking corporate demand for carbon removal starts with clear guidance |  ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7510998925823172609/))
+- **2026-09-28** — news mention: Nordic Carbon: We're preparing to commission our project in Ghana. Once operational, the facility is ([source](https://www.linkedin.com/company/nordic-carbon/#post-1b430fa45953))
+- **2026-09-25** — news mention: Negative Emissions Platform: As MEP Peter Liese publishes his draft report on the EU ETS, the Negati ([source](https://www.linkedin.com/company/negative-emissions-platform/#post-312a139b4ed5))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-02** — news mention: Now is the time to enter Europe’s carbon removal market.
  

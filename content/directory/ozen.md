@@ -14,7 +14,9 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Poland</td></tr>
   <tr><th>Website</th><td><a href="https://ozen.pl/en/homepage/" target="_blank" rel="noopener">https://ozen.pl/en/homepage/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ozen-overseas/" target="_blank" rel="noopener">ozen-overseas — 11 followers</a></td></tr>
   <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -28,6 +30,7 @@ OZEN Sp. z o.o. (OZEN Plus) is a Polish charcoal manufacturer in Wałcz operatin
 
 ## History
 
+- **2026-10-15** — refresh: coresignal
 - **2026-09-15** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness

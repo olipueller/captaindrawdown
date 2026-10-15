@@ -43,6 +43,19 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-12** — news mention: Observational and model data from Planetary's TC26.1 Ocean Alkalinity Enhancement dosing period in H ([source](https://doi.org/10.5281/zenodo.20088387))
+- **2026-10-12** — news mention: Carbon dioxide removal enables climate planetary boundary compliance in cost-effective energy-indust ([source](https://doi.org/10.21203/rs.3.rs-11265299/v1))
+- **2026-10-12** — news mention: Measuring large-scale mCDR using a novel Atmospheric CO₂ Perimeter Flux (ACPF) method ([source](https://doi.org/10.3389/fclim.2026.1941538))
+- **2026-10-12** — news mention: Field evidence for rapid precipitation of non-crystalline secondary phases during enhanced rock weat ([source](https://doi.org/10.21203/rs.3.rs-10166427/v1))
+- **2026-10-07** — news mention: Carbon dioxide removal enables climate planetary boundary compliance in cost-effective energy-indust ([source](https://www.researchsquare.com/article/rs-11265299/v1))
+- **2026-10-06** — news mention: Project Genesis v100.0: The Sovereign Planetary Stewardship Framework – Autonomous Geo-Reclamation,  ([source](https://doi.org/10.5281/zenodo.23036998))
+- **2026-09-25** — news mention: Evidence of rapid basalt dissolution in Southeastern US croplands ([source](https://cdrxiv.org/preprint/551))
+- **2026-09-24** — news mention: ENGINEERS OF THE PLANET, ETHICAL AND LEGAL GOVERNANCE OF GEOENGINEERING AND CLIMATE MODIFICATION ([source](https://doi.org/10.5281/zenodo.22834529))
+- **2026-09-24** — news mention: Planetary Science Institute: When did early Earth become stable enough for life’s chemistry to persi ([source](https://www.linkedin.com/company/planetary-science-institute/#post-53fff1f8e03b))
+- **2026-09-19** — news mention: UPSC Editorial Analysis: UNEP’s “Limiting Overshoot” Report - INSIGHTS IAS - Simplifying UPSC IAS Ex ([source](https://www.insightsonindia.com/2026/09/19/upsc-editorial-analysis-uneps-limiting-overshoot-report/))
+- **2026-09-18** — news mention: Biochar as a climate-smart tool for long-term soil carbon sequestration: A comprehensive review ([source](https://doi.org/10.33545/2618060x.2026.v9.i9sc.6562))
+- **2026-09-18** — news mention: Ocean Alkalinity Enhancement ([source](https://doi.org/10.17226/29342/8.1.0))
+- **2026-09-15** — news mention: Planetary: Earlier this year, we launched Frontier 's Innovation Program to fund the most critical,  ([source](https://www.linkedin.com/company/planetary-tech/#post-9ec7158aa672))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-12** — news mention: Engineered ocean bacteria could supercharge CO2 removal by dissolving rocks ([source](https://bioengineer.org/engineered-ocean-bacteria-could-supercharge-co2-removal-by-dissolving-rocks/))
 - **2026-09-11** — news mention: Organic co-amendments reshape soil microbial community responses to enhanced rock weathering in crop ([source](https://cdrxiv.org/preprint/553))
@@ -60,19 +73,6 @@ Independently verified by carbon-credit registries:
 - **2026-08-01** — news mention: Iron Oxidation Links CO <sub>2</sub> Mineralization to Hydrogen Formation ([source](https://doi.org/10.1021/acs.estlett.6c00308))
 - **2026-07-31** — news mention: Carbon Removal Alliance: At Tufts Cove in Nova Scotia, Planetary became the first company in the wor ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-5c486abcd78a))
 - **2026-07-26** — news mention: Substantial inter-model variation in OAE efficiency between the CESM2/MARBL and ECCO-Darwin ocean bi ([source](https://doi.org/10.5194/bg-23-4943-2026))
-- **2026-07-26** — news mention: Direct measurement of carbon dioxide removal due to enhanced weathering ([source](https://cdrxiv.org/preprint/352))
-- **2026-07-26** — news mention: Soil cation storage is a key control on the carbon removal dynamics of enhanced weathering ([source](https://cdrxiv.org/preprint/351))
-- **2026-07-26** — news mention: Updated framework and signal-to-noise analysis of soil mass balance approaches for quantifying enhan ([source](https://cdrxiv.org/preprint/390))
-- **2026-07-26** — news mention: Evidence for carbon dioxide removal via enhanced rock weathering with steel slag, though not basalt, ([source](https://cdrxiv.org/preprint/359))
-- **2026-07-26** — news mention: Coupling acid neutralization and resource recovery to scale ocean alkalinity enhancement ([source](https://cdrxiv.org/preprint/401))
-- **2026-07-26** — news mention: Swapping carbonate for silicate in agricultural enhanced rock weathering ([source](https://cdrxiv.org/preprint/304))
-- **2026-07-26** — news mention: Aggregated monitoring of enhanced weathering on agricultural lands ([source](https://cdrxiv.org/preprint/394))
-- **2026-07-26** — news mention: Synergistic effects of enhanced rock weathering and organic inputs  on soil carbon accrual. ([source](https://cdrxiv.org/preprint/418))
-- **2026-07-26** — news mention: Integrity gaps in certification and MRV across  aviation mitigation policies ([source](https://cdrxiv.org/preprint/515))
-- **2026-07-26** — news mention: Increased yields for smallholder farmers from enhanced rock weathering ([source](https://cdrxiv.org/preprint/502))
-- **2026-07-24** — news mention: Exterra Carbon Solutions: We're in. Exterra got picked for the inaugural MaRS Discovery District Fir ([source](https://www.linkedin.com/company/esgnr/#post-66e583bb13ac))
-- **2026-07-22** — news mention: Planetary: At Tufts Cove in Nova Scotia, Planetary became the first company in the world to deliver  ([source](https://www.linkedin.com/company/planetary-hydrogen/#post-a579e522e538))
-- **2026-07-22** — news mention: Terradot: Scaling Enhanced Rock Weathering to planetary scale depends on scaling how we measure, rep ([source](https://www.linkedin.com/company/terradot/#post-2c19b8e791fc))
 
 ---
 

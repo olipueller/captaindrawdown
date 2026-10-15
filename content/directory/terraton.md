@@ -40,6 +40,8 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-04** — news mention: Terraton: Our second biochar facility, with Tupande in Sagana, Kenya, is taking shape. Equipment ins ([source](https://www.linkedin.com/company/terraton/#post-60852b5a1f0c))
+- **2026-09-30** — news mention: Terraton is a platform to launch and operate Carbon Dioxide Removal businesses focusing on biochar f ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mwqp2khir22a))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-30** — news mention: Terraton Industrial Inc.: What does a biochar facility look like when it's running? Mateo , who's se ([source](https://www.linkedin.com/company/terraton/#post-8a35ca9c131f))
 - **2026-08-29** — news mention: Offstream: If you're building a carbon removal project, this is the most useful 5-minute read we've  ([source](https://www.linkedin.com/company/useoffstream/#post-7b7bbc606008))

@@ -29,6 +29,7 @@ Remova Carbon Systems Ltd. is a Calgary-based Canadian carbon dioxide removal de
 
 ## History
 
+- **2026-10-04** — news mention: Remova: Today weâre announcing that Frontier has raised an additional $915M for carbon removal, fr ([source](https://www.linkedin.com/company/remova-carbon-systems/#post-e06a045ec830))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-03** — news mention: Remova: We want to sincerely congratulate the team at Frontier for the hard work and foresight they’ ([source](https://www.linkedin.com/company/remova-carbon-systems/#post-98e9d1dfa5de))
 - **2026-07-27** — news mention: Remova: Today we’re announcing that Frontier has raised an additional $915M for carbon removal, from ([source](https://www.linkedin.com/company/remova-carbon-systems/#post-e3e7a0ff2985))

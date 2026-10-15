@@ -13,7 +13,9 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.woodtekbiochar.com/" target="_blank" rel="noopener">https://www.woodtekbiochar.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonhillbiochar/" target="_blank" rel="noopener">carbonhillbiochar — 691 followers</a></td></tr>
   <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -27,6 +29,7 @@ Woodtek is a family-run Mid-Wales engineering firm that designs and manufactures
 
 ## History
 
+- **2026-10-15** — refresh: coresignal
 - **2026-09-15** — refresh: liveliness
 - **2026-09-15** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://biochartoday.com/news/ibi-study-tour-day-2-woodtek-biochar/))
 - **2026-05-01** — refresh: screenshot

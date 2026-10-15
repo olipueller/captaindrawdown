@@ -15,8 +15,9 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://trustedcarbon.org/" target="_blank" rel="noopener">https://trustedcarbon.org/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/trusted-carbon/" target="_blank" rel="noopener">trusted-carbon — 739 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/trusted-carbon/" target="_blank" rel="noopener">trusted-carbon — 741 followers</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~5</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +31,7 @@ Trusted Carbon is a carbon credit platform focused on nature-based carbon remova
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate

@@ -29,6 +29,9 @@ Inkoh AG is a Swiss biochar producer headquartered in Maienfeld, Graubünden, an
 
 ## History
 
+- **2026-10-13** — news mention: Inkoh: Fifth site, different equipment manufacturers, same software stack 𝘐𝘯𝘬𝘰𝘩 𝘰𝘱𝘦𝘯𝘦𝘥 𝘓𝘢𝘯𝘥𝘲𝘶𝘢𝘳𝘵 𝘺𝘦𝘴 ([source](https://www.linkedin.com/company/inkoh-biochar-and-beyond/#post-04a6f1b63e4e))
+- **2026-10-11** — news mention: Cula: Fifth site, different equipment manufacturers, same software stack 𝘐𝘯𝘬𝘰𝘩 𝘰𝘱𝘦𝘯𝘦𝘥 𝘓𝘢𝘯𝘥𝘲𝘶𝘢𝘳𝘵 𝘺𝘦𝘴𝘵 ([source](https://www.linkedin.com/company/cula-technologies/#post-01ddd67b2dca))
+- **2026-10-06** — news mention: Inkoh Opens New Biochar HQ In Switzerland, Supported By Cula & Next Generation Elements Tech ([source](https://carbonherald.com/inkoh-opens-new-biochar-hq-in-switzerland-supported-by-cula-next-generation-elements-tech/?utm_source=rss&utm_medium=rss&utm_campaign=inkoh-opens-new-biochar-hq-in-switzerland-supported-by-cula-next-generation-elements-tech))
 - **2026-08-30** — news mention: CarStorConTechnologies: Mit Holcims Einstieg bei Inkoh wird BCR für die Bauwirtschaft strategisch!  ([source](https://www.linkedin.com/company/carstorcon-technologies/#post-dacc971960cc))
 - **2026-08-23** — news mention: Inkoh: Drei starke Partner beteiligen sich an der Inkoh AG Wir freuen uns, einen wichtigen Meilenste ([source](https://www.linkedin.com/company/inkoh-biochar-and-beyond/#post-9852bceaf97f))
 - **2026-08-23** — news mention: CarStorCon: Gemeinsam für die CO₂-Entnahme in der Schweiz: Holcim investiert in die Inkoh AG 🚀 Wir m ([source](https://www.linkedin.com/company/carstorcon-technologies/#post-6cdeea8de3be))

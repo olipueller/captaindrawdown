@@ -34,6 +34,12 @@ CEEZER is a Berlin-based B2B enterprise platform and marketplace connecting corp
 
 ## History
 
+- **2026-10-14** — news mention: Gevo Announces First Multi-Year Carbon Removal Credits Supply Agreement Through CEEZER | INN ([source](https://investingnews.com/gevo-announces-first-multi-year-carbon-removal-credits-supply-agreement-through-ceezer/))
+- **2026-10-14** — news mention: Gevo Announces First Multi-Year Carbon Removal Credits Supply Agreement Through CEEZER | The Manila  ([source](https://www.manilatimes.net/2026/10/14/tmt-newswire/globenewswire/gevo-announces-first-multi-year-carbon-removal-credits-supply-agreement-through-ceezer/2445547))
+- **2026-10-14** — news mention: Gevo Announces First Multi-Year Carbon Removal Credits Supply Agreement Through CEEZER | FinancialCo ([source](https://www.financialcontent.com/article/gnwcq-2026-10-14-gevo-announces-first-multi-year-carbon-removal-credits-supply-agreement-through-ceezer))
+- **2026-10-14** — news mention: Gevo signs three-year carbon removal credit supply deal By Investing.com ([source](https://uk.investing.com/news/stock-market-news/gevo-signs-threeyear-carbon-removal-credit-supply-deal-93CH-4909987))
+- **2026-10-14** — news mention: Gevo Announces First Multi-Year Carbon Removal Credits Supply Agreement Through CEEZER ([source](https://www.globenewswire.com/news-release/2026/10/14/3380703/23976/en/gevo-announces-first-multi-year-carbon-removal-credits-supply-agreement-through-ceezer.html))
+- **2026-10-14** — news mention: Gevo Announces First Multi-Year Carbon Removal Credits Supply Agreement Through CEEZER | Gevo, Inc. ([source](https://investors.gevo.com/news-releases/news-release-details/gevo-announces-first-multi-year-carbon-removal-credits-supply))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-10** — news mention: Ceezer: The European Commission recently proposed folding carbon removal into the EU Emissions Tradi ([source](https://www.linkedin.com/company/ceezer/#post-70eff4a74402))
 - **2026-08-05** — news mention: Ceezer: CRCF is moving from paper to practice. Here's what carbon buyers need to know. The EU Carbon ([source](https://www.linkedin.com/company/ceezer/#post-1805d83213dc))

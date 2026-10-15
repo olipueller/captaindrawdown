@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://co2re.org/" target="_blank" rel="noopener">https://co2re.org/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/co2re/" target="_blank" rel="noopener">co2re — 3,992 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/co2re/" target="_blank" rel="noopener">co2re — 4,411 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~11 (+38% YoY)</td></tr>
+  <tr><th>Employees</th><td>~30 (-50% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ CO₂RE is the UK's national research hub on Greenhouse Gas Removal, led by the 
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-05** — news mention: How will tech used to remove CO2 from the air impact the land & its communities? Who will benefit? T ([source](https://bsky.app/profile/co2rehub.bsky.social/post/3mx4ibkyc6s2e))
 - **2026-09-12** — news mention: CO2Re: This week Professor Myles Allen was on the BBC's Today Programme to discuss the recent open l ([source](https://www.linkedin.com/company/co2re/#post-0a28709e6696))
 - **2026-09-04** — news mention: CO2RE academics co-lead open letter to DESNZ Secretary of State on carbon storage - CO₂RE - The Gree ([source](https://co2re.org/open-letter-desnz-carbon-storage/))
 - **2026-09-04** — news mention: This week Prof Myles Allen was on the BBC's Today Programme to talk about why approval for the Roseb ([source](https://bsky.app/profile/co2rehub.bsky.social/post/3muomhxwnrk2m))

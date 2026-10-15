@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes agricultural waste into biochar and applies it to soil, with sensor-based MRV tracking H/C and O/C ratios and soil monitoring to validate durable carbon storage."
 url: "/directory/tupana/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Brazil</td></tr>
   <tr><th>Website</th><td><a href="https://www.tupana.earth/" target="_blank" rel="noopener">https://www.tupana.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tupana-earth/" target="_blank" rel="noopener">tupana-earth — 299 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~3</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,8 @@ Tupana (Tupana RGN) is a Brazilian climate-tech startup producing biochar from a
 
 ## History
 
+- **2026-10-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-09-15** — news mention: Tupana: Tupana RGN and BlueLayer are partnering to scale high-integrity industrial biochar carbon re ([source](https://www.linkedin.com/company/tupana-earth/#post-85daa4504bd9))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.tupana.earth/))

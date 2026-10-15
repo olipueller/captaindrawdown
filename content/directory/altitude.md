@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.altitudecarbon.com/" target="_blank" rel="noopener">https://www.altitudecarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/altitude-sustainable/" target="_blank" rel="noopener">altitude-sustainable — 914 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/altitude-sustainable/" target="_blank" rel="noopener">altitude-sustainable — 924 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~2 (+100% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
@@ -32,6 +32,9 @@ Altitude is a Switzerland-based carbon removal financier that provides structure
 
 ## History
 
+- **2026-10-15** — refresh: coresignal
+- **2026-10-15** — refresh: coresignal
+- **2026-09-25** — news mention: Carbon Removal India Alliance: ð®ð³ Indiaâs Top Carbon Removal Suppliers ð®ð³ As durable c ([source](https://www.linkedin.com/company/cria-earth/#post-503ebe639179))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-23** — news mention: Altitude Carbon: Altitude is expanding its partnership with Fusinite: higher quality data to support ([source](https://www.linkedin.com/company/altitude-sustainable/#post-ff14607f0136))
 - **2026-08-15** — refresh: coresignal
@@ -59,9 +62,6 @@ Altitude is a Switzerland-based carbon removal financier that provides structure
 - **2026-04-19** — merged 1 duplicate(s): Altitude Carbon
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-august-2025))
-- **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟢 Active ([source](https://www.altitudecarbon.com/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟢 Active ([source](https://www.altitudecarbon.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

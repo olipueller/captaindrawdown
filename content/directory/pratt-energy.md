@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://prattenergy.com/" target="_blank" rel="noopener">https://prattenergy.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pratt-energy-llc/" target="_blank" rel="noopener">pratt-energy-llc — 211 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~21 (+11% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -29,6 +29,7 @@ Pratt Energy, LLC operates a corn and milo fuel ethanol plant in Pratt, Kansas. 
 
 ## History
 
+- **2026-10-05** — news mention: Antora and Pratt Energy announce nearly 6 GWh thermal battery project to deliver affordable energy a ([source](https://ethanolproducer.com/articles/antora-and-pratt-energy-announce-nearly-6-gwh-thermal-battery-project-to-deliver-affordable-energy-and-strengthen-kansas-economy))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

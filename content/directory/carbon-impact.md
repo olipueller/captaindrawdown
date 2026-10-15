@@ -29,6 +29,7 @@ Carbon Impact is a French carbon removal project developer, co-founded by energy
 
 ## History
 
+- **2026-09-15** — news mention: BELOW2 Inc.: BELOW2 has published version 2.0 of the BELOW2 Standard and opened it for public commen ([source](https://www.linkedin.com/company/below2/#post-69959f977fd5))
 - **2026-09-06** — news mention: Carbon Impact SAS: Les Ã©missions nÃ©gatives et en particulier le BioCCS progressent en Europe ! â  ([source](https://www.linkedin.com/company/carbon-impact-france/#post-563bb58451de))
 - **2026-09-06** — news mention: Carbon Impact: Ein entscheidender Meilenstein fÃ¼r unser BECCS-Projekt: Die gesamte Prozesskette fun ([source](https://www.linkedin.com/company/carbon-impact-france/#post-734a9121c854))
 - **2026-09-06** — news mention: Carbon Impact: Les Ã©missions nÃ©gatives et en particulier le BioCCS progressent en Europe ! â AprÃ ([source](https://www.linkedin.com/company/carbon-impact-france/#post-9803a6bd555a))
@@ -58,7 +59,6 @@ Carbon Impact is a French carbon removal project developer, co-founded by energy
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/carbon-impact-sas))
 - **** — merged duplicate: Carbon Impact SAS (slug=carbon-impact-sas)
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.carbon-impact.net/monetise-co2/))
-- **2026-04-19** — refresh: coresignal, liveliness
 
 ---
 

@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://carbonengineering.com/" target="_blank" rel="noopener">https://carbonengineering.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-engineering-limited/" target="_blank" rel="noopener">carbon-engineering-limited — 61,943 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonengineering/" target="_blank" rel="noopener">carbonengineering — 62,315 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~186 (+1% YoY)</td></tr>
+  <tr><th>Employees</th><td>~187 (-1% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -30,6 +30,15 @@ Carbon Engineering is a Canadian DAC technology developer headquartered in Squam
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-02** — news mention: Eaton Fuel Cell 2026, 12% Growth, Airbus Partnership ([source](https://enkiai.com/fuel-cells/eaton-fuel-cell-strategy-winning-the-2025-hydrogen-race/))
+- **2026-10-01** — news mention: Carbon Footprint Software, Consultancy & Carbon Credits for Business ([source](https://www.carbonfootprint.com/))
+- **2026-09-28** — news mention: Carbon Dioxide Removal Market Is Going to Boom |• Climeworks • Carbon Engineering • Global CCS Insti ([source](https://www.openpr.com/news/4645712/carbon-dioxide-removal-market-is-going-to-boom-climeworks))
+- **2026-09-25** — news mention: Phillips 66 Hydrogen 2025, 1 Ørsted Gigastack Project ([source](https://enkiai.com/phillips-66-offshore-wind-initiatives-for-2025-key-projects-strategies-and-partnerships/))
+- **2026-09-23** — news mention: Navigating the Future: Climate Adaptation Market Size Valued at USD 33.65 Bn in 2025 and Projected t ([source](https://www.nsnheadlines.com/post/navigating-the-future-climate-adaptation-market-size-valued-at-usd-33-65-bn-in-2025-and-projected-t))
+- **2026-09-23** — news mention: Exxon Mobil Hydrogen 2025, $20 B Target and BASF Pivot ([source](https://enkiai.com/exxonmobil-hydrogen-initiatives-for-2025-key-projects-strategies-and-partnerships/))
+- **2026-09-19** — news mention: Oxy | Zero In ([source](https://www.oxy.com/))
+- **2026-09-16** — news mention: Carbon Dioxide Removal Market - A Global and Regional Analysis: Focus on Technology Type, Carbon Cre ([source](https://bisresearch.com/industry-report/carbon-dioxide-removal-market.html))
 - **2026-09-09** — news mention: Celebrating CE Day! 
 
 CE Day is an annual opportunity for our team to come together and celebrate th ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7503184334879793152/))
@@ -57,13 +66,6 @@ At Carbon Engineering, we pull CO₂ from the air ([source](https://www.linkedin
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://carbonengineering.com/news-updates/carbon-engineering-to-invest-in-technology-development-and-research-facilities/))
 - **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://carbonengineering.com/))
 - **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.oxy.com/news/news-releases/occidental-enters-into-agreement-to-acquire-direct-air-capture-technology-innovator-carbon-engineering/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
-- **** — merged duplicate: Carbon Engineering/Occidental Petroleum (slug=carbon-engineeringoccidental-petroleum)
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.oxy.com/news/news-releases/occidental-enters-into-agreement-to-acquire-direct-air-capture-technology-innovator-carbon-engineering/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://carbonengineering.com/ ([source](https://www.cdr.fyi/supplier/carbon-engineering))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/carbon-engineering))
 
 ---
 

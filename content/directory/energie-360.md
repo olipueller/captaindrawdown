@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.energie360.ch/" target="_blank" rel="noopener">https://www.energie360.ch/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/energie360/" target="_blank" rel="noopener">energie360 — 15,773 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/energie360/" target="_blank" rel="noopener">energie360 — 17,476 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~368 (+6% YoY)</td></tr>
+  <tr><th>Employees</th><td>~371 (+2% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ Energie 360° AG is a Zurich-based energy utility, 96% owned by the City of Zuri
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.energie360.ch/de/leistungen/co2-entfernung/))
 - **2026-04-19** — refresh: coresignal

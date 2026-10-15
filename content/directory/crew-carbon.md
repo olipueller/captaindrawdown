@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Ocean Alkalinity Enhancement</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://crewcarbon.com/" target="_blank" rel="noopener">https://crewcarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/crew-carbon/" target="_blank" rel="noopener">crew-carbon — 4,805 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/crew-carbon/" target="_blank" rel="noopener">crew-carbon — 4,902 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~28 (+65% YoY)</td></tr>
+  <tr><th>Employees</th><td>~29 (+53% YoY)</td></tr>
   <tr><th>Open roles</th><td>8 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -46,6 +46,13 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-15** — refresh: coresignal
+- **2026-10-15** — refresh: coresignal
+- **2026-10-12** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-5e4eb86cc6d0))
+- **2026-09-25** — news mention: 🚨 Big CDR Deal Alert! 🚨 CREW Carbon &lt;&gt; Microsoft ([source](https://www.cdr.fyi/blog/cdr-deal-alert-2026-08-04))
+- **2026-09-25** — news mention: #weftec2026 #weftec2026 #processintensification #intensification #bnr #decarbonization #wastewater # ([source](https://www.linkedin.com/feed/update/urn:li:share:7508897661589209089/))
+- **2026-09-23** — news mention: We had a great time at WaterJAM last week! It&amp;#39;s always fantastic to catch up with old friend ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7508212029195870208/))
+- **2026-09-18** — news mention: Ocean Alkalinity Enhancement ([source](https://doi.org/10.17226/29342/8.1.0))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-14** — news mention: CREW Carbon: Big news: Whirlpool Corporation has included CREW Carbon as part of its carbon removal  ([source](https://www.linkedin.com/company/crew-carbon/#post-4359a6897dc8))
 - **2026-09-12** — news mention: We&amp;#39;re heading to WaterJAM next week — stop by Booth #400 to meet the CREW team and learn mor ([source](https://www.linkedin.com/feed/update/urn:li:share:7504260054372552704/))
@@ -69,13 +76,6 @@ Independently verified by carbon-credit registries:
 - **2026-08-10** — news mention: CREW Carbon: CREW has signed a long-term CO2 removal offtake agreement with Microsoft !   When some  ([source](https://www.linkedin.com/company/crew-carbon/#post-ea42e8b16d24))
 - **2026-08-08** — news mention: Microsoft Secures 23,602 Carbon Removal Credits from CREW Carbon to Diversify Portfolio &#8211; Bioc ([source](https://biochartoday.com/news/microsoft-secures-23602-carbon-removal-credits-from-crew-carbon-to-diversify-portfolio/?utm_source=bluesky&utm_medium=jetpack_social))
 - **2026-08-07** — news mention: Microsoft inks wastewater carbon removal deal with Crew Carbon | BusinessGreen News ([source](https://www.businessgreen.com/news/4534043/microsoft-inks-wastewater-carbon-removal-deal-crew-carbon))
-- **2026-08-07** — news mention: Why Wastewater Carbon Removal Matters for Oceans - CREW Carbon ([source](https://crewcarbon.com/why-wastewater-carbon-removal-matters-for-oceans/))
-- **2026-08-07** — news mention: CarbonPlan's collective case for preprinting in CDR is right: preprints surface results 5 to 15 mont ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mshyra2ki426))
-- **2026-08-07** — news mention: Carbon Drawdown Initiative: Congratulations portfolio company CREW Carbon to their announcement of a ([source](https://www.linkedin.com/company/carbon-drawdown-initiative/#post-e67f5c190fdd))
-- **2026-08-07** — news mention: Carbon Removal Alliance: CREW is working with Microsoft on our latest carbon removal offtake, announ ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-c0aeedb271f8))
-- **2026-08-05** — news mention: Microsoft Backs Wastewater Carbon Removal With CREW Carbon Offtake Deal ([source](https://carbonherald.com/microsoft-backs-wastewater-carbon-removal-with-crew-carbon-offtake-deal/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-backs-wastewater-carbon-removal-with-crew-carbon-offtake-deal))
-- **2026-08-05** — news mention: CDR.fyi: 🚨 Big CDR Deal Alert! 🚨 🤝 CREW Carbon has signed an offtake agreement with Microsoft for 23 ([source](https://www.linkedin.com/company/cdr-fyi/#post-dbee0e1cdb2d))
-- **2026-08-01** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-47656d726774))
 
 ---
 

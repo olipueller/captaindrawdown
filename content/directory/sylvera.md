@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>CDR Platform/Marketplace</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.sylvera.com/" target="_blank" rel="noopener">https://www.sylvera.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sylveracarbon/" target="_blank" rel="noopener">sylveracarbon — 44,719 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sylveracarbon/" target="_blank" rel="noopener">sylveracarbon — 48,158 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~149 (-3% YoY)</td></tr>
+  <tr><th>Employees</th><td>~153 (-1% YoY)</td></tr>
   <tr><th>Open roles</th><td>7 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -34,6 +34,11 @@ Sylvera is a UK-based carbon credit ratings and data platform that independently
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-14** — news mention: Ground Up: Project Nandani is rated A by Sylvera . 5/5 for permanence. 5/5 for additionality. 5/5 fo ([source](https://www.linkedin.com/company/ground-up-in/#post-76f306421da9))
+- **2026-10-07** — news mention: Sylvera: Our Q3 2026 carbon market data 📊 🟢 Retirements fell 9% YoY to 30.6M, but market value rose  ([source](https://www.linkedin.com/company/sylveracarbon/#post-5c381b2ea635))
+- **2026-10-02** — news mention: Planboo: Nara Climate’s Community Biochar Project has been assigned a Sylvera A Rating, as of 09/09/ ([source](https://www.linkedin.com/company/planboo/#post-1ce2eb482d98))
+- **2026-09-25** — news mention: Equilibrium: Two for two on the A's. Swiftgreen, developed with GreenCollar , has earned a Sylvera P ([source](https://www.linkedin.com/company/equilibrium-earth/#post-bee64d2443f6))
 - **2026-09-09** — news mention: Deep Sky: Deep Sky has received an AAA-A Pre-Issuance Rating from Sylvera for Deep Sky One, the firs ([source](https://www.linkedin.com/company/deep-sky-climate/#post-a9c652e34be2))
 - **2026-09-07** — news mention: Sylvera’s First Rating ([source](https://a.example/1))
 - **2026-09-06** — news mention: Alcom Carbon Markets: 1,100+ tonnes of CO2 permanently removed. Every tonne started as rice husk. Al ([source](https://www.linkedin.com/company/alcom-pte-ltd/#post-60a3eb69c3a4))
@@ -59,11 +64,6 @@ Sylvera is a UK-based carbon credit ratings and data platform that independently
 - **2026-07-29** — news mention: Cloverly: We are pleased to announce that the US SecondCropâ¢ Project has been assigned a Sylvera P ([source](https://www.linkedin.com/company/cloverly/#post-c3d3e540d467))
 - **2026-07-28** — news mention: Sylvera: Abandoned oil and gas wells leak methane - one of the most potent greenhouse gases on the p ([source](https://www.linkedin.com/company/sylveracarbon/#post-57234dbbe5a0))
 - **2026-07-28** — news mention: Sylvera: Sylvera has notified the European Securities and Markets Authority (ESMA) of its intention  ([source](https://www.linkedin.com/company/sylveracarbon/#post-a2e36b0deb56))
-- **2026-07-28** — news mention: Ecologi: 🗞️ New Greenprint Alert! Carbon markets got some genuinely structural news this fortnight - ([source](https://www.linkedin.com/company/offset-earth/#post-d58ee75e6edd))
-- **2026-07-26** — news mention: Carbon Capital: We’re excited to share that Farm Gai Kaisa 159 in Namibia has earned an A rating fro ([source](https://www.linkedin.com/company/carboncapitalnamibia/#post-42110b29069a))
-- **2026-07-26** — news mention: Carbon Capital: Credit where credit’s due (literally). Farm Gai Kaisa 159 is now A-rated by Sylvera. ([source](https://www.linkedin.com/company/carboncapitalnamibia/#post-2b4ab7ef0dc5))
-- **2026-07-25** — news mention: Biocare: At Biocare , we are proud to be working on Project Carbonchip: a pioneering initiative in Q ([source](https://www.linkedin.com/company/biocare-projects/#post-234842437edf))
-- **2026-07-24** — news mention: Tera: An exciting update as we focus on transparency and quality as an impact focused business, oper ([source](https://www.linkedin.com/company/teracarbon/#post-541ff6bde1b3))
 
 ---
 

@@ -38,6 +38,7 @@ Vesta (formerly Project Vesta) is a San Francisco-based Public Benefit Corporati
 
 ## History
 
+- **2026-09-29** — news mention: Vesta: 📢 Preprint alert! And this is a big one! 📢 "Olivine-based marine carbon dioxide removal field ([source](https://www.linkedin.com/company/vestaearth/#post-f7f6e614771f))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-04** — news mention: Vesta: We have an important leadership announcement: After 5 ½ years at the company, Tom Green has d ([source](https://www.linkedin.com/company/projectvesta/#post-f22e98fb5250))
 - **2026-08-28** — news mention: Vesta: This brand new preprint publication from Hourglass Climate on our field trial in Southampton, ([source](https://www.linkedin.com/company/projectvesta/#post-9e7039810dd9))

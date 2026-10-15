@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.royalroadcarbon.com/" target="_blank" rel="noopener">https://www.royalroadcarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/royal-road-carbon-solutions/" target="_blank" rel="noopener">royal-road-carbon-solutions — 52 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/royal-road-carbon-solutions/" target="_blank" rel="noopener">royal-road-carbon-solutions — 53 followers</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~2 (-33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -31,6 +31,7 @@ Royal Road Carbon Solutions is a US-based carbon offset broker and advisory firm
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Afforestation focus=ecosystem liveliness=🟡 Moderate ([source](https://www.royalroadcarbon.com/))

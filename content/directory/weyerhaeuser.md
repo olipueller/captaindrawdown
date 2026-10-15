@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.weyerhaeuser.com/climate-solutions/" target="_blank" rel="noopener">https://www.weyerhaeuser.com/climate-solutions/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/weyerhaeuser/" target="_blank" rel="noopener">weyerhaeuser — 110,165 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/weyerhaeuser/" target="_blank" rel="noopener">weyerhaeuser — 114,574 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~7258</td></tr>
+  <tr><th>Employees</th><td>~7387 (+2% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -31,6 +31,8 @@ Weyerhaeuser (NYSE: WY) is one of the world's largest private timberland REITs, 
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-09-20** — news mention: Kodama: Kodama is beyond proud to be a key technology partner in Weyerhaeuserâs vision for the fut ([source](https://www.linkedin.com/company/kodama-systems/#post-c73773aa6643))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-11** — news mention: Weyerhaeuser: Building a trusted voluntary carbon market starts with developing high-integrity proje ([source](https://www.linkedin.com/company/weyerhaeuser/#post-feeff347938d))
 - **2026-08-07** — news mention: Kodama Systems: Last week at Weyerhaeuser 's Investor Day, SVP of Timberlands Travis Keatley spoke a ([source](https://www.linkedin.com/company/kodama-systems/#post-67732b839070))

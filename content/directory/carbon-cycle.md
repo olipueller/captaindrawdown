@@ -30,6 +30,12 @@ Carbon Cycle GmbH & Co. KG is a biochar producer based in Rieden, Bavaria, Germa
 
 ## History
 
+- **2026-10-12** — news mention: Impacts of simulated coastal ocean alkalinity enhancement on the seasonal carbon cycle in European w ([source](https://doi.org/10.5194/esd-17-1513-2026))
+- **2026-10-06** — news mention: Assessing tipping-point risk in carbon dioxide removal with a network-based framework ([source](https://doi.org/10.20517/cf.2026.70))
+- **2026-09-30** — news mention: Grounding the Genuine Progress Indicator in Exergy: A First-Principles Physical Accounting Framework ([source](https://doi.org/10.5281/zenodo.22971365))
+- **2026-09-24** — news mention: Spring phytoplankton bloom dynamics reveal thresholds of ocean alkalinity enhancement in the North S ([source](https://doi.org/10.1038/s43247-026-03986-y))
+- **2026-09-20** — news mention: Sadly, far too many people have been tricked into opposing Carbon Dioxide Removal and Sequestration  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mvxk4ifeyk2c))
+- **2026-09-18** — news mention: A Research Strategy for Ocean-based Carbon Dioxide Removal and Sequestration ([source](https://doi.org/10.17226/29342))
 - **2026-09-12** — news mention: Asymmetry in carbon cycle feedbacks and transient climate response under positive and negative CO 2  ([source](https://doi.org/10.5194/bg-23-6211-2026))
 - **2026-09-08** — news mention: This ignores entirely the climate, let alone wider ecological, impacts of removing and charring load ([source](https://bsky.app/profile/biofuelwatch.bsky.social/post/3muzadfhiec22))
 - **2026-08-31** — news mention: Silicate Weathering Dynamics in the Kasaï Basin and Implications for Enhanced Rock Weathering Applic ([source](https://doi.org/10.31223/x58b8c))
@@ -54,12 +60,6 @@ Carbon Cycle GmbH & Co. KG is a biochar producer based in Rieden, Bavaria, Germa
 - **2026-07-13** — news mention: Since you have demonstrated how ignorant you are with your bachelor's from an Ivy League school has  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqjl5patac2k))
 - **2026-07-05** — news mention: Read the full story 👇 https://t.co/uEZwn4pMNd ([source](https://x.com/CekirdekGLOBAL/status/2073667715387052204))
 - **2026-07-04** — news mention: Most of the opposition to Carbon Dioxide Removal from climate action advocates is because of the fra ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mptrrjk5zs2h))
-- **2026-06-08** — news mention: Biochar shows strong promise for locking more carbon in soils, global review finds - Renewable Carbo ([source](https://renewable-carbon.eu/news/?p=177497))
-- **2026-06-03** — news mention: For some reason, carbon dioxide polluters have chosen to not offset their pollution putting our chil ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mnex7wwvo22l))
-- **2026-05-29** — news mention: It must be painful to share a story about a biofuels decarbonization project, but I know what a big  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mmynkylfb22q))
-- **2026-05-22** — news mention: Molecular Views of Mineral Carbonation: Reaction of CO2 with the Wollastonite (100) Surface ([source](https://pubs.acs.org/doi/10.1021/acsnano.5c19629))
-- **2026-05-16** — news mention: Why do so few climate action activists promote more biochar use?  I suppose it is because so many pe ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mlxuy4eg3222))
-- **2026-05-05** — news mention: The thing is that as far as I'm concerned and climate hawks like California are doing all we can to  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3ml33j356ll23))
 
 ---
 

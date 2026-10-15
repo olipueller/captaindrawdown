@@ -30,6 +30,7 @@ Jord AB (formerly Skymining) is a Swedish company founded in 2017 and headquarte
 
 ## History
 
+- **2026-10-05** — news mention: OBIO: Det er svært positivt å se at både Bondeorganisasjonene og Statsforvaltere i 5 fylker velger å ([source](https://www.linkedin.com/company/obio-norge/#post-e6d176589867))
 - **2026-09-03** — news mention: Oplandske Bioenergi (OBIO): Det er svÃ¦rt positivt Ã¥ se at bÃ¥de Bondeorganisasjonene og Statsforva ([source](https://www.linkedin.com/company/obio-norge/#post-79e1921bbc30))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot

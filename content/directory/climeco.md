@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.climeco.com/" target="_blank" rel="noopener">https://www.climeco.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/climeco/" target="_blank" rel="noopener">climeco — 11,591 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/climeco/" target="_blank" rel="noopener">climeco — 12,860 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~96</td></tr>
+  <tr><th>Employees</th><td>~96 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ ClimeCo is a US-based global sustainability and decarbonization solutions firm p
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-09-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-09-02** — news mention: Gold Standard: 🚢 Hard-to-abate sectors need real action today, not just 2050 targets We are seeing r ([source](https://www.linkedin.com/company/gold-standard/#post-981c9cca2bfb))
 - **2026-08-27** — news mention: ClimeCo: ClimeCo and Marsoft Global Carbon Solutions are excited to announce the first issuance of c ([source](https://www.linkedin.com/company/climeco/#post-c31d924ad087))

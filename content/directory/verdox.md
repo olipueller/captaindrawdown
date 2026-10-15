@@ -31,6 +31,7 @@ Founded in 2019 out of MIT, Verdox delivers electrochemical carbon capture techn
 
 ## History
 
+- **2026-09-29** — news mention: Batería atrapa CO2: el avance electroquímico de Delaware – El Ecosistema Startup ([source](https://ecosistemastartup.com/bateria-atrapa-co2-el-avance-electroquimico-de-delaware/))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-28** — news mention: Verdox: ⚡Verdox Commissions Its First Electrochemical Carbon Capture Pilot⚡ We are excited to share  ([source](https://www.linkedin.com/company/verdox/#post-b7c1c00ba053))
 - **2026-07-23** — news mention: Verdox: ⚡Verdox Commissions Its First Electrochemical Carbon Capture Pilot⚡ We are excited to share  ([source](https://www.linkedin.com/company/verdox/#post-79cb2cfeae23))

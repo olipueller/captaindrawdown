@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Biomass Carbon Removal</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://www.bioflux.earth/" target="_blank" rel="noopener">https://www.bioflux.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bioflux-eu/" target="_blank" rel="noopener">bioflux-eu — 2,557 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bioflux-eu/" target="_blank" rel="noopener">bioflux-eu — 3,241 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~6 (+20% YoY)</td></tr>
+  <tr><th>Employees</th><td>~6 (+50% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -35,6 +35,8 @@ BioFlux is a consultancy focused on biochar carbon removal project development. 
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-12** — news mention: EU’s Carbon Removal Push Opens New Opportunities In Emerging Markets ([source](https://carbonherald.com/eus-carbon-removal-push-opens-new-opportunities-emerging-markets/?utm_source=rss&utm_medium=rss&utm_campaign=eus-carbon-removal-push-opens-new-opportunities-emerging-markets))
 - **2026-09-01** — news mention: IDH, reVive, and BioFlux Publish Report on In-Setting Biochar Applications Across Agricultural Suppl ([source](https://biochartoday.com/news/idh-revive-and-bioflux-publish-report-on-in-setting-biochar-applications-across-agricultural-supply-chains/?utm_source=bluesky&utm_medium=jetpack_social))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot

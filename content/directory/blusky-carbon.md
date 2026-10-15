@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://bluskycarbon.com/" target="_blank" rel="noopener">https://bluskycarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/blu-sky-creative/" target="_blank" rel="noopener">blu-sky-creative — 249 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/blu-sky-creative/" target="_blank" rel="noopener">blu-sky-creative — 263 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~85 (+6% YoY)</td></tr>
+  <tr><th>Employees</th><td>~88 (+7% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ BluSky Carbon Inc. (CSE: BSKY / OTCQB: BSKCF) is a Vancouver, BC–based publicl
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://bluskycarbon.com/category/corporate-news/))
 - **2026-04-19** — refresh: coresignal

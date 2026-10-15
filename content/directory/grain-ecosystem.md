@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://grainecosystem.com/" target="_blank" rel="noopener">https://grainecosystem.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/grain-ecosystem/" target="_blank" rel="noopener">grain-ecosystem — 5,380 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/grain-ecosystem/" target="_blank" rel="noopener">grain-ecosystem — 5,447 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~10 (-17% YoY)</td></tr>
+  <tr><th>Employees</th><td>~4</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ Grain Ecosystem was a Boston-based digital platform (founded 2022) that provided
 
 ## History
 
+- **2026-10-15** — refresh: coresignal
+- **2026-10-02** — news mention: Grain Ecosystem: Today, weâre proud to share an important update in the Grain journey.   Mangrove  ([source](https://www.linkedin.com/company/grain-ecosystem/#post-0f744574a362))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-07-23** — news mention: Grain Ecosystem: Today, we’re proud to share an important update in the Grain journey.   Mangrove Sy ([source](https://www.linkedin.com/company/grain-ecosystem/#post-6b24e80dbaec))
 - **2026-07-22** — news mention: CDR.fyi: 🤝 The CDR sector is seeing increasing M&amp;A activity. Airhive recently announced the acqu ([source](https://www.linkedin.com/company/cdr-fyi/#post-76936359736c))

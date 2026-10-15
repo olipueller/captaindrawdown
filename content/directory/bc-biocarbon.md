@@ -44,6 +44,8 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-05** — news mention: BC Biocarbon: We're thrilled to announce BC Biocarbon 's second Puro.earth CORC issuance from our Bi ([source](https://www.linkedin.com/company/bc-biocarbon/#post-370bab9aadfa))
+- **2026-09-28** — news mention: 350solutions: We're thrilled to announce BC Biocarbon 's second Puro.earth CORC issuance from our Bi ([source](https://www.linkedin.com/company/350solutions/#post-c07f7c45aff0))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

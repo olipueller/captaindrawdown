@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Enabling Tech</td></tr>
   <tr><th>Country</th><td>Belgium</td></tr>
   <tr><th>Website</th><td><a href="https://www.negative-emissions.org" target="_blank" rel="noopener">https://www.negative-emissions.org</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/negative-emissions-platform/" target="_blank" rel="noopener">negative-emissions-platform — 7,278 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/negative-emissions-platform/" target="_blank" rel="noopener">negative-emissions-platform — 8,275 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~13 (+8% YoY)</td></tr>
+  <tr><th>Employees</th><td>~15</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -29,6 +29,21 @@ The Negative Emissions Platform (NEP) is a Brussels-based non-profit membership 
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-12** — news mention: Terradot joins the Negative Emissions Platform ([source](https://www.negative-emissions.org/updates/terradot-joins-the-negative-emissions-platform))
+- **2026-10-08** — news mention: Europe’s emissions cap is shrinking &mdash; Negative Emissions Platform ([source](https://www.negative-emissions.org/europes-emissions-cap-is-shrinking))
+- **2026-10-05** — news mention: Skyrenu: 250 million allowances is not the same as 250 million tonnes removed.   In July, the Europe ([source](https://www.linkedin.com/company/skyrenu-technologies/#post-46fd8a853546))
+- **2026-10-02** — news mention: We’re hiring: Secretary-General of the Negative Emissions Platform ([source](https://www.negative-emissions.org/updates/were-hiring-new-secretary-general-of-the-negative-emissions-platform))
+- **2026-09-25** — news mention: Negative Emissions Platform: As MEP Peter Liese publishes his draft report on the EU ETS, the Negati ([source](https://www.linkedin.com/company/negative-emissions-platform/#post-312a139b4ed5))
+- **2026-09-23** — news mention: Financing the Price Gap: Making 250 Mean 250 in the EU ETS | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7508097369582948353/))
+- **2026-09-22** — news mention: Today is a good day for permanent carbon removals in Europe. 
+
+MEP Peter Liese’s draft report on the ([source](https://www.linkedin.com/feed/update/urn:li:share:7507691856651268096/))
+- **2026-09-16** — news mention: 🎙️ “Europe can, must and will stay the course on our climate targets.”- a welcome message from Europ ([source](https://www.linkedin.com/feed/update/urn:li:share:7505927075082690560/))
+- **2026-09-16** — news mention: Exomad Green joins the Negative Emissions Platform | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7505949087230218241/))
+- **2026-09-16** — news mention: Exomad Green joins the Negative Emissions Platform ([source](https://www.negative-emissions.org/updates/exomad-green-joins-the-negative-emissions-platform))
+- **2026-09-16** — news mention: Not even lunchtime in Strasbourg, and we’ve already had two useful conversations about permanent car ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7505556891750670336/))
+- **2026-09-15** — news mention: #etsneedsremovals | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:share:7505248675892465664/))
 - **2026-09-09** — news mention: Sysav joins the Negative Emissions Platform ([source](https://www.negative-emissions.org/updates/sysav-joins-the-negative-emissions-platform))
 - **2026-09-09** — news mention: The Negative Emissions Platform has published a new position paper on integrating permanent carbon r ([source](https://www.negative-emissions.org/updates/the-negative-emissions-platform-has-published-a-new-position-paper-on-integrating-permanent-carbon-removals-into-the-eu-ets))
 - **2026-09-07** — news mention: Pre-2031 CDR delivery timeline | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7502683295449628673/))
@@ -52,20 +67,6 @@ At our Stockholm e ([source](https://www.linkedin.com/feed/update/urn:li:share:7
 - **2026-08-13** — news mention: Europe’s carbon removal market is being shaped by new policy signals, buyer initiatives and corporat ([source](https://www.linkedin.com/feed/update/urn:li:share:7492878553517076481/))
 - **2026-08-12** — news mention: Emicap joins Negative Emissions Platform ([source](https://www.negative-emissions.org/updates/emicap-joins-negative-emissions-platform))
 - **2026-07-30** — news mention: Negative Emissions Platform: ðCDR Momentum, Edition 2 This month brought important milestones acr ([source](https://www.linkedin.com/company/negative-emissions-platform/#post-76f853a73091))
-- **2026-07-30** — news mention: CDR Momentum Series, Edition II | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7488154993414291456/))
-- **2026-07-29** — news mention: Carbon removals in the ETS, 17 July | Terradot ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7487910136896946176/))
-- **2026-07-23** — news mention: #etsneedsremovals | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:share:7485698136376799232/))
-- **2026-07-22** — news mention: Negative Emissions Platform: ‼️ Just a few moments ago, the European Commission took a major step to ([source](https://www.linkedin.com/company/negative-emissions-platform/#post-266cf5372549))
-- **2026-07-21** — news mention: InPlanet joins the Negative Emissions Platform ([source](https://www.negative-emissions.org/updates/inplanet-joins-the-negative-emissions-platform))
-- **2026-07-21** — news mention: The EU ETS will not be the only demand signal for carbon removals. But it is one of the most importa ([source](https://www.linkedin.com/feed/update/urn:li:share:7484968306538557440/))
-- **2026-07-18** — news mention: Carbon removals in the ETS, 17 July | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7483831188512579584/))
-- **2026-07-13** — news mention: As the European Commission prepares its proposal to reform the EU ETS, the role of permanent carbon  ([source](https://www.linkedin.com/feed/update/urn:li:share:7482359327782129664/))
-- **2026-07-09** — news mention: The European Commission’s consultation on national climate targets after 2030 points ➡️ in the same  ([source](https://www.linkedin.com/feed/update/urn:li:share:7480951668453593089/))
-- **2026-07-08** — news mention: A Healthier Earth - Negative Emissions Platform | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7479892849916870656/))
-- **2026-07-07** — news mention: American buyers are already looking to Europe for stability and investable carbon removal projects.
- ([source](https://www.linkedin.com/feed/update/urn:li:share:7479859627640340481/))
-- **2026-07-06** — news mention: A Healthier Earth joins the Negative Emissions Platform ([source](https://www.negative-emissions.org/updates/a-healthier-earth-joins-the-negative-emissions-platform))
-- **2026-07-03** — news mention: Today, the Negative Emissions Platform submitted its response to the stakeholder survey on the Innov ([source](https://www.linkedin.com/feed/update/urn:li:share:7478429780527271938/))
 
 ---
 

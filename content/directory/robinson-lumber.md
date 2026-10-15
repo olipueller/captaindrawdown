@@ -29,6 +29,7 @@ Robinson Lumber Company is a 132-year-old, fifth-generation family-owned wholesa
 
 ## History
 
+- **2026-10-13** — news mention: Robinson Lumber: Robinson Carbon produced its first batch of #biochar last week at our Silver Creek  ([source](https://www.linkedin.com/company/roblumco/#post-90d95d476026))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://millerwoodtradepub.com/robinson-lumber-company-five-generations-of-innovation-rooted-in-tradition-2/))
 - **2026-07-24** — news mention: Robinson Lumber: Robinson Carbon produced its first batch of #biochar last week at our Silver Creek  ([source](https://www.linkedin.com/company/robinson-lumber-company-inc-/#post-90d95d476026))

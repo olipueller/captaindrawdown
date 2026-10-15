@@ -30,6 +30,7 @@ Norma is a Paris-based climate tech startup building a novel Direct Air Capture 
 
 ## History
 
+- **2026-09-17** — news mention: Normative: Normative.io and Greenly join forces to become the #1 global climate software provider! 🌍 ([source](https://www.linkedin.com/company/normative.io/#post-becf1b1e2173))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-09** — news mention: Marble: ð©ðªð¥¨ We've signed a project with SPRIND - Bundesagentur fÃ¼r Sprunginnovationen ð¥¨ ([source](https://www.linkedin.com/company/marble-climate/#post-0a251afdead3))
 - **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://tracxn.com/d/companies/norma/__7Ta33N4VOLT_5pzMqLjX-bXd4Sia2nPCO6RdkJyggkY/funding-and-investors))

@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://aquagreen.dk/" target="_blank" rel="noopener">https://aquagreen.dk/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aquagreenaps/" target="_blank" rel="noopener">aquagreenaps — 4,232 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aquagreenaps/" target="_blank" rel="noopener">aquagreenaps — 4,686 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~47 (-6% YoY)</td></tr>
+  <tr><th>Employees</th><td>~50 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ AquaGreen is a Danish cleantech company that develops and sells HECLA® integrat
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-08-28** — news mention: AquaGreen: "The plant has run with very few stoppages over the past year, and the technology has pro ([source](https://www.linkedin.com/company/aquagreenaps/#post-7d62d2828e86))
 - **2026-08-28** — news mention: AquaGreen: Congratulations to Severn Trent on leading this pioneering research. Sewage sludge is not ([source](https://www.linkedin.com/company/aquagreenaps/#post-939b7ca0f0de))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active

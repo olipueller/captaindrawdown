@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Enabling Tech</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://frontierclimate.com/" target="_blank" rel="noopener">https://frontierclimate.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/frontierclimate/" target="_blank" rel="noopener">frontierclimate — 1,797 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/frontierclimate/" target="_blank" rel="noopener">frontierclimate — 3,363 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~12</td></tr>
+  <tr><th>Employees</th><td>~11 (+38% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -29,6 +29,8 @@ Frontier Climate is an advance market commitment (AMC) that aggregates buyer dem
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-12** — news mention: Frontier Climate: Last August, James Kanoff and I were in the back of a truck in Brazil, rolling thr ([source](https://www.linkedin.com/company/frontierclimate/#post-b4f6a03f6847))
 - **2026-09-06** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/frontierclimate/#post-f4c001caa2fd))
 - **2026-09-06** — news mention: Frontier Climate: Ocean alkalinity enhancement could become a large-scale carbon removal pathway. Th ([source](https://www.linkedin.com/company/frontierclimate/#post-025268f38004))
 - **2026-08-29** — news mention: Frontier Climate: Four years ago, it was still an open question whether rocks would weather fast eno ([source](https://www.linkedin.com/company/frontierclimate/#post-263f68f228a1))

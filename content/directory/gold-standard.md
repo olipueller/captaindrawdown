@@ -30,6 +30,17 @@ Gold Standard is a non-profit carbon credit certification standard and registry 
 
 ## History
 
+- **2026-10-14** — news mention: CarbonMeld: Gold Standard has revised Paris alignment rules for 2026 vintages, easing the transition ([source](https://www.linkedin.com/company/carbonmeld/#post-c778bdeb3c7d))
+- **2026-10-13** — news mention: South Pole: Verified carbon removals generated in Europe have always been hard for corporate buyers  ([source](https://www.linkedin.com/company/south-pole-/#post-e056fedf97e7))
+- **2026-10-12** — news mention: Carbon Farming Market Size, Trends & Forecast, 2026-2033 ([source](https://www.coherentmarketinsights.com/industry-reports/carbon-farming-market))
+- **2026-10-09** — news mention: Europe Issues First Gold Standard Soil Carbon Credits ([source](https://serrarigroup.com/europe-issues-first-gold-standard-soil-carbon-credits/))
+- **2026-10-08** — news mention: Europe’s Soil Carbon Market Gets a First: Gold Standard Credits Issued in France and Belgium ([source](https://carboncredits.com/europe-soil-carbon-market-gold-standard-credits/))
+- **2026-10-08** — news mention: First European Credits Under Gold Standard’s Soil Organic CO2 Framework Methodology Now Available On ([source](https://carbonherald.com/first-european-credits-under-gold-standards-soil-organic-co2-framework-methodology-now-available-on-the-market/?utm_source=rss&utm_medium=rss&utm_campaign=first-european-credits-under-gold-standards-soil-organic-co2-framework-methodology-now-available-on-the-market))
+- **2026-10-08** — news mention: Agasco: Agasco's Improved Cookstove Project in Nigeria has received official CORSIA-tagged credits f ([source](https://www.linkedin.com/company/agasco/#post-12b792547fa7))
+- **2026-10-07** — news mention: South Pole, Gaïago Issue Europe’s First Gold Standard Soil Carbon Credits - ESG News ([source](https://esgnews.com/south-pole-gaiago-issue-europes-first-gold-standard-soil-carbon-credits/))
+- **2026-10-07** — news mention: Sylvera: Our Q3 2026 carbon market data 📊 🟢 Retirements fell 9% YoY to 30.6M, but market value rose  ([source](https://www.linkedin.com/company/sylveracarbon/#post-5c381b2ea635))
+- **2026-10-07** — news mention: Gold Standard: 🪴 Without healthy soil, life on our planet cannot thrive. It is not only a critical t ([source](https://www.linkedin.com/company/gold-standard/#post-1d2a7c299ecb))
+- **2026-09-21** — news mention: Columbia University: Carbon Markets Are Entering a New Regulatory Era ([source](https://carbonherald.com/columbia-university-carbon-markets-are-entering-a-new-regulatory-era/))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-08** — news mention: South Pole: ð Carbon Check (India) Private Limited is proud to announce the successful completion ([source](https://www.linkedin.com/company/south-pole-/#post-1f1164ba99f7))
 - **2026-09-04** — news mention: CarbonMeld: Green hydrogen just got its first dedicated carbon credit pathway from a major voluntary ([source](https://www.linkedin.com/company/carbonmeld/#post-8b41be930acd))
@@ -49,17 +60,6 @@ Gold Standard is a non-profit carbon credit certification standard and registry 
 - **2026-08-04** — news mention: Gold Standard: ð July technical round-up  Carbon markets are evolving quickly, with rising integr ([source](https://www.linkedin.com/company/gold-standard/#post-a76823a92e29))
 - **2026-07-29** — news mention: Andes: New carbon dioxide removal methodology published! Gold Standard has released a Microbial Carb ([source](https://www.linkedin.com/company/andesag/#post-b196a23ec4b5))
 - **2026-07-29** — news mention: Andes: We’re excited to share that Gold Standard’s Microbial Carbon Dioxide Mineralisation methodolo ([source](https://www.linkedin.com/company/andesag/#post-183b4a500557))
-- **2026-07-25** — news mention: Agasco: Agasco’s Nigerian Cookstove Project Awarded Gold Standard’s CCP Label! Agasco is proud to an ([source](https://www.linkedin.com/company/agasco/#post-a207691b9e1d))
-- **2026-07-25** — news mention: Agasco: Gold Standard is pleased to announce that we have labelled the first ICVCM Core Carbon Princ ([source](https://www.linkedin.com/company/agasco/#post-10c27d58b1ad))
-- **2026-07-25** — news mention: Agasco: Agasco is pleased to announce that we have received a Letter of Authorization (LoA) from the ([source](https://www.linkedin.com/company/agasco/#post-3cf9c882f5e6))
-- **2026-07-22** — news mention: Kanop: Verra has officially vetted Kanop as a Data Service Provider for VM0047. That makes us the on ([source](https://www.linkedin.com/company/kanop/#post-18b7df4fc3b2))
-- **2026-07-21** — news mention: FS Fueling Sustainability: Queremos colocar o Brasil na vanguarda do mundo em energia limpa com alta ([source](https://www.linkedin.com/company/fs-bioenergia/#post-b9a66f3cfaa7))
-- **2026-07-21** — news mention: South Pole: ❓ Confused by the carbon market’s jargon, specialised vocabulary, and endless acronyms?  ([source](https://www.linkedin.com/company/south-pole-/#post-f46e498a7fe7))
-- **2026-07-16** — news mention: Carbon Credits Market for Agriculture, Forestry, and Land Use - A Global and Regional Analysis: Focu ([source](https://bisresearch.com/industry-report/carbon-credit-market.html))
-- **2026-07-07** — news mention: Gold Standard Adds First Traditional Political Risk Insurer To CORSIA-Approved List ([source](https://carbonherald.com/gold-standard-adds-first-traditional-political-risk-insurer-to-corsia-approved-list/?utm_source=rss&utm_medium=rss&utm_campaign=gold-standard-adds-first-traditional-political-risk-insurer-to-corsia-approved-list))
-- **2026-07-03** — news mention: Carbon Credits and Clean Energy Certificates: Evolution, Integrity Reset and Prospects for a Rebound ([source](https://joseluischavezcalva.substack.com/p/carbon-credits-and-clean-energy-certificates))
-- **2026-07-03** — news mention: EU should reform carbon market to include direct air capture, the “gold standard” for removals – sta ([source](https://www.cleanenergywire.org/news/eu-should-reform-carbon-market-include-direct-air-capture-gold-standard-removals-start-ceo))
-- **2026-06-27** — news mention: Gold Standard Unveils a $17 Billion Climate Plan and How Businesses Can Use Carbon Credits With It ([source](https://carboncredits.com/gold-standard-oer-17-billion-climate-finance-carbon-credits/))
 
 ---
 

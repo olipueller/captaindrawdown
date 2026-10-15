@@ -30,6 +30,10 @@ Airhive, founded in 2022, is a UK-based DAC company developing a low-cost, energ
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
+- **2026-10-11** — news mention: Airhive: Read all about it! We're working with Australian Carbon Vault to develop a multi-purpose ca ([source](https://www.linkedin.com/company/carbonnet-limited/#post-0ce409cee57f))
+- **2026-10-01** — news mention: Carbyon: Today marks a significant step for Carbyon: Airhive has acquired Carbyon. Two European comp ([source](https://www.linkedin.com/company/carbyon/#post-2c042cfc38ac))
+- **2026-09-15** — news mention: Mission Zero: Huge congratulations to our PhD alumni, Shiladitya Ghosh and Jasper Wong , on the laun ([source](https://www.linkedin.com/company/missionzerotech/#post-c98522899895))
 - **2026-09-07** — news mention: U.S. Bank is one of our major banks that has pretty much divested from the fossil fuel industry.  Ca ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3muwo5eagjc2z))
 - **2026-09-07** — news mention: Airhive And ACV To Build Australia’s First DACCS Hub With Over $7M Govt Funding ([source](https://carbonherald.com/airhive-and-acv-to-build-australias-first-daccs-hub-with-over-7m-govt-funding/?utm_source=rss&utm_medium=rss&utm_campaign=airhive-and-acv-to-build-australias-first-daccs-hub-with-over-7m-govt-funding))
 - **2026-09-05** — news mention: Airhive: We’re joining Progressive Energy and Mission Zero Technologies to form UnionDAC - a nationa ([source](https://www.linkedin.com/company/carbonnet-limited/#post-d2dee555d4ee))
@@ -56,10 +60,6 @@ Airhive, founded in 2022, is a UK-based DAC company developing a low-cost, energ
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://tracxn.com/d/companies/airhive/__58otEpxQIKuZ3IUk3wwzVyXRekF9iOrUoIuzs9evcG0))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.airhive.earth/publications/airhive-opens-one-of-the-worlds-largest-and-lowest-cost-direct-air-capture-systems))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
 
 ---
 

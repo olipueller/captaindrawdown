@@ -31,6 +31,8 @@ Decarbontek, Inc. is a Massachusetts-based climate tech startup founded by Dr. Y
 
 ## History
 
+- **2026-09-28** — news mention: Decarbon: Another milestone reached! 🚀 Decarbontek has successfully completed parametric testing of  ([source](https://www.linkedin.com/company/decarbontek/#post-632b3a443edd))
+- **2026-09-17** — news mention: GreenChar Climate Solutions: Isometric has signed its first project developers in China, providing t ([source](https://www.linkedin.com/company/greenchar-climate-solutions/#post-f29efe144e74))
 - **2026-09-02** — news mention: DeCarbon Tech: PROJECT LICHUN | FROM AIR TO VALUE Capturing COâ from the air is only the starting  ([source](https://www.linkedin.com/company/decarbon-tech/#post-c2c8058641e0))
 - **2026-08-25** — news mention: DeCarbon Technology: Isometric has signed its first project developers in China, providing the high- ([source](https://www.linkedin.com/company/decarbon-tech/#post-fb194392fed1))
 - **2026-08-25** — news mention: DeCarbon Technology: PROJECT LICHUN | FROM AIR TO VALUE Capturing CO₂ from the air is only the start ([source](https://www.linkedin.com/company/decarbon-tech/#post-0cb36cb2a269))

@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://www.krishecarbon.com/" target="_blank" rel="noopener">https://www.krishecarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/krishe-carbon/" target="_blank" rel="noopener">krishe-carbon — 2,126 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~9 (+140% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/krishe-carbon/" target="_blank" rel="noopener">krishe-carbon — 3,122 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~5 (+140% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ Kalp Climate Tech (operating as KriSHE Carbon) is an India-based biochar CDR sup
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-09-20** — news mention: Kalp Climate Tech: In June we showed up on a global list. AlliedOffsets named us among the top issue ([source](https://www.linkedin.com/company/krishe-carbon/#post-a848c547ba0c))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.krishecarbon.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

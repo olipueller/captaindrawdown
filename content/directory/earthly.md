@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://earthly.org" target="_blank" rel="noopener">https://earthly.org</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/projectearthly/" target="_blank" rel="noopener">projectearthly — 24,178 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/projectearthly/" target="_blank" rel="noopener">projectearthly — 26,071 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~35 (+13% YoY)</td></tr>
+  <tr><th>Employees</th><td>~34 (+3% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ Earthly is a UK-based nature-based carbon credit marketplace that connects busin
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-09-15** — news mention: GSK Signs Carbon Removal Deal with Varaha | ESG News.earth ([source](https://www.esgnews.earth/latest-news/gsk-signs-carbon-removal-deal-with-varaha/21927.html?doing_wp_cron=1789457570.1009469032287597656250))
 - **2026-09-09** — news mention: Earthly: For GSK , reducing our environmental impact is fundamental to our business resilience and a ([source](https://www.linkedin.com/company/projectearthly/#post-e2f24c018457))
 - **2026-08-05** — news mention: Earthly: Today we're making an announcement we've been waiting to share. PV Climate is now CCP-Eligi ([source](https://www.linkedin.com/company/projectearthly/#post-ef8340d48292))
 - **2026-05-07** — news mention: Earthly Biochar Kiln: Original ([source](https://oldtreesoil.org/products/earthly-biochar-kiln))

@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://www.cawa.tech/" target="_blank" rel="noopener">https://www.cawa.tech/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cawa-tech/" target="_blank" rel="noopener">cawa-tech — 1,279 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cawa-tech/" target="_blank" rel="noopener">cawa-tech — 1,331 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~6 (+100% YoY)</td></tr>
+  <tr><th>Employees</th><td>~6 (+50% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ Cawa is an Amsterdam-based software startup (founded 2022) that provides API inf
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-08-30** — news mention: CAWA: Cawa has been endorsed as a C-Sink Trader. ð Cawa is a carbon removal platform built on fin ([source](https://www.linkedin.com/company/cawa-tech/#post-446b2cca8591))
 - **2026-07-25** — news mention: CAWA: New offtake announcement: IMC x Cawa IMC Trading has just secured 4,000 tonnes of Carboneers b ([source](https://www.linkedin.com/company/cawa-tech/#post-3407f9d64c77))
 - **2026-07-25** — news mention: CAWA: Cawa has been endorsed as a C-Sink Trader. 🌍 Cawa is a carbon removal platform built on financ ([source](https://www.linkedin.com/company/cawa-tech/#post-61883bb56371))

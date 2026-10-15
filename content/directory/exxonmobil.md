@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://lowcarbon.exxonmobil.com/" target="_blank" rel="noopener">https://lowcarbon.exxonmobil.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/exxonmobil/" target="_blank" rel="noopener">exxonmobil — 3,743,535 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/exxonmobil/" target="_blank" rel="noopener">exxonmobil — 3,959,247 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~750 (+10% YoY)</td></tr>
+  <tr><th>Employees</th><td>~750 (+13% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -34,6 +34,9 @@ ExxonMobil is one of the world's largest integrated oil and gas companies. Its L
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-09-22** — news mention: ExxonMobil: Another #CCS project starts up this year! We’ve started operations at Nucor Corporation  ([source](https://www.linkedin.com/company/exxonmobil/#post-1fa4c581a6c1))
+- **2026-09-19** — news mention: Fidelis: Weâre thrilled to announce that AtmosClear BR, LLC has partnered with ExxonMobil for CO2  ([source](https://www.linkedin.com/company/fidelisenergy/#post-ffcff4aa994b))
 - **2026-08-23** — news mention: Cadmium contaminated soils would seem to be a particularly good candidate for a place to permanently ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mtquwnlh4c23))
 - **2026-08-21** — news mention: ExxonMobil Among Buyers Hit By German Carbon Credit Revocations ([source](https://carbonherald.com/exxonmobil-among-buyers-hit-by-german-carbon-credit-revocations/?utm_source=rss&utm_medium=rss&utm_campaign=exxonmobil-among-buyers-hit-by-german-carbon-credit-revocations))
 - **2026-08-15** — news mention: Fidelis: We’re thrilled to announce that AtmosClear BR, LLC has partnered with ExxonMobil for CO2 tr ([source](https://www.linkedin.com/company/fidelisenergy/#post-2a044b74c6f7))

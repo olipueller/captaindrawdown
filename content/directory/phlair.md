@@ -34,6 +34,7 @@ Phlair (formerly Carbon Atlantis) is a Munich-based Direct Air Capture startup f
 
 ## History
 
+- **2026-09-17** — news mention: Phlair: At Phlair, we’re building Direct Air Capture technology using an energy-efficient electroche ([source](https://www.linkedin.com/company/phlair/#post-f8a5c6297f92))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-06** — news mention: Phlair: Congrats to Alex Petre and our partner and customer Deep Sky . This is an important mileston ([source](https://www.linkedin.com/company/phlair/#post-ab9934934138))
 - **2026-08-06** — news mention: Phlair: Interview: EU should reform #ETS to include direct air capture, the “gold standard” for remo ([source](https://www.linkedin.com/company/phlair/#post-9e960680a651))

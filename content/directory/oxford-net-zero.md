@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://netzeroclimate.org/" target="_blank" rel="noopener">https://netzeroclimate.org/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/oxfordnetzero/" target="_blank" rel="noopener">oxfordnetzero — 20,659 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/oxfordnetzero/" target="_blank" rel="noopener">oxfordnetzero — 23,294 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~47 (-8% YoY)</td></tr>
+  <tr><th>Employees</th><td>~49 (-14% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ Oxford Net Zero is an interdisciplinary research initiative based at the Univers
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-09-02** — news mention: Oxford Net Zero: Climate standards are increasingly shaping regulation, investment and corporate dec ([source](https://www.linkedin.com/company/oxfordnetzero/#post-f09ae02e08b3))
 - **2026-08-26** — news mention: Oxford Net Zero: Out today: a new briefing from our Net Zero Aviation project team on how to strengt ([source](https://www.linkedin.com/company/oxfordnetzero/#post-d26f81127332))
 - **2026-08-24** — news mention: A High-Integrity Route for CORSIA: Integrating Geologically Balanced Fuels - Net Zero Climate ([source](https://netzeroclimate.org/publications/a-high-integrity-route-for-corsia-integrating-geologically-balanced-fuels/))

@@ -33,6 +33,7 @@ liveliness: "🟢 Active"
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
 - **2026-09-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://8rivers.com/))
 - **2026-08-20** — news mention: 8 Rivers/Calcite: 🤠 ⚡ 🤝 Today, 8 Rivers is proud to announce Rolling Cedar. In joint development wit ([source](https://www.linkedin.com/company/8-rivers-capital/#post-53dc8138f308))
 - **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://8rivers.com/))

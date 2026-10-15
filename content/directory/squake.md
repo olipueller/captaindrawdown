@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.squake.earth" target="_blank" rel="noopener">https://www.squake.earth</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/squake/" target="_blank" rel="noopener">squake — 5,339 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/squake/" target="_blank" rel="noopener">squake — 5,767 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~21</td></tr>
+  <tr><th>Employees</th><td>~19 (-5% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ SQUAKE is a Berlin-based climate tech company providing an API-based platform fo
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-07-24** — news mention: Rewind: World's first Deep Mine Storage CDR credits are here! 🌍⛏️ 6 months ago we announced our proj ([source](https://www.linkedin.com/company/rewindearth/#post-2323d0d6e9e9))
 - **2026-07-23** — news mention: SQUAKE: #Rail is the most underreported mode in corporate travel. Today, we're changing that. We're  ([source](https://www.linkedin.com/company/squake/#post-8a3dc5a72f0d))

@@ -29,6 +29,8 @@ MYNO Carbon Corp. is a Washington-based biochar company founded in 2020 that is 
 
 ## History
 
+- **2026-09-20** — news mention: Myno Carbon: We're excited to share that bp Remediation Management Services Company has selected Myn ([source](https://www.linkedin.com/company/myno-enterprises/#post-24dde8817d2a))
+- **2026-09-15** — news mention: MYNO: We're excited to share that bp Remediation Management Services Company has selected Myno Carbo ([source](https://www.linkedin.com/company/myno-carbon/#post-ba6a8e7f815f))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-15** — news mention: Myno Carbon: We're excited to share that bp Remediation Management Services Company has selected Myn ([source](https://www.linkedin.com/company/myno-enterprises/#post-d65e97153628))
 - **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://mynocarbon.com/))

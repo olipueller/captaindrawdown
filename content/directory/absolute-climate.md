@@ -29,6 +29,8 @@ Absolute Climate is an independent quality-assurance and standards developer for
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
+- **2026-10-12** — news mention: Absolute Climate: 📣 Today, Absolute Climate is releasing our first environmental attribute certifica ([source](https://www.linkedin.com/company/we-are-absolute-climate/#post-2f54b4d57425))
 - **2026-09-07** — news mention: C-Capsule: Weâre excited to support Cowboy Clean Fuels and Absolute Climate raising the bar for hi ([source](https://www.linkedin.com/company/c-capsule/#post-97784a80b61f))
 - **2026-09-06** — news mention: Absolute Climate: ð£ There is one week left to provide your input on the future of carbon removal  ([source](https://www.linkedin.com/company/we-are-absolute-climate/#post-0aba8abffd5a))
 - **2026-08-30** — news mention: C-Capsule: Today, Absolute Climate, Cowboy Clean Fuels , and Evident announced a partnership to brin ([source](https://www.linkedin.com/company/c-capsule/#post-c510d507effe))

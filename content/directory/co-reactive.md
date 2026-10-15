@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.co-reactive.com/" target="_blank" rel="noopener">https://www.co-reactive.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/co-reactive/" target="_blank" rel="noopener">co-reactive — 3,576 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/co-reactive/" target="_blank" rel="noopener">co-reactive — 3,694 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~21 (+62% YoY)</td></tr>
+  <tr><th>Employees</th><td>~21 (+91% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,13 @@ Co-reactive GmbH is a climate-tech startup founded in 2024 as an RWTH Aachen spi
 
 ## History
 
+- **2026-10-15** — refresh: coresignal
+- **2026-10-15** — refresh: coresignal
+- **2026-10-13** — news mention: #team #talent #climatetech #cement #concrete | Co-reactive ([source](https://www.linkedin.com/feed/update/urn:li:share:7515690755277967361/))
+- **2026-10-09** — news mention: #be100 #blueearthsummit #climatetech #builtenvironment | Co-reactive ([source](https://www.linkedin.com/feed/update/urn:li:share:7513934133560082433/))
+- **2026-10-02** — news mention: #mc3 #mineralization #scm #cement #climatetech | Co-reactive ([source](https://www.linkedin.com/feed/update/urn:li:share:7511688921064468480/))
+- **2026-09-23** — news mention: #greentechcapitalforum2026 #greentechcapitalforum #climatetech #constructiontech #scm #carbonmineral ([source](https://www.linkedin.com/feed/update/urn:li:share:7508150373602377729/))
+- **2026-09-22** — news mention: #team #startuplife #talent #cement #climatetech | Co-reactive ([source](https://www.linkedin.com/feed/update/urn:li:share:7507826507566841856/))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-07** — news mention: #coreactive #co2mineralisierung #carbonutilization #carbonmanagement #carbonremoval #zement #beton # ([source](https://www.linkedin.com/feed/update/urn:li:share:7502650037831921664/))
 - **2026-09-02** — news mention: #team #climatetech #industrialdecarbonization #materialsscience #mineralization | Co-reactive ([source](https://www.linkedin.com/feed/update/urn:li:share:7499091345542672385/))
@@ -58,13 +65,6 @@ We are proud to share that Carbon ([source](https://www.linkedin.com/feed/update
 - **2026-04-29** — news mention: NEP Taps DNV For CO2 Transport Certification  DNV has been named Independent Certifier for the North ([source](https://x.com/CaptainDrawdown/status/2049460338421043312))
 - **2026-04-29** — news mention: NEP Taps DNV For CO2 Transport Certification  DNV has been named Independent Certifier for the North ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkn2qpj5ur2u))
 - **2026-04-29** — news mention: The price for liquid fossil methane has increased by over a third and the fossil fools in the USA ha ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkmzhdkt622t))
-- **2026-04-28** — news mention: #coreactive #demoplant #milestone #carbonnegative #sustainableconstruction #co2utilization #climatet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7454785479666933760/))
-- **2026-04-23** — news mention: #hellotomorrow2026 | Co-reactive ([source](https://www.linkedin.com/feed/update/urn:li:share:7453018415709097984/))
-- **2026-04-21** — news mention: #bilbao #coreactive #decarbonization #energytechsummit #cdlparis… | Co-reactive ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7452271413689872385/))
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.co-reactive.com/))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.co-reactive.com/))
-- **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.co-reactive.com/))
 
 ---
 

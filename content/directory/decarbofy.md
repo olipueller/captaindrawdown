@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Argentina</td></tr>
   <tr><th>Website</th><td><a href="https://decarbofy.com/" target="_blank" rel="noopener">https://decarbofy.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/decarbofy/" target="_blank" rel="noopener">decarbofy</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/decarbofy/" target="_blank" rel="noopener">decarbofy — 24 followers</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -30,6 +30,7 @@ Decarbofy is an early-stage Argentinean biochar project developer that presented
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://agroempresario.com/publicacion/96714/decarbofy-planea-instalar-una-planta-de-biochar-en-el-parque-industrial-de-ituzaingo/))
 - **2026-04-19** — refresh: coresignal

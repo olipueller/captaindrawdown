@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://enchar.co/" target="_blank" rel="noopener">https://enchar.co/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/enchar/" target="_blank" rel="noopener">enchar</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/enchar/" target="_blank" rel="noopener">enchar — 1,847 followers</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~3 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -31,6 +31,7 @@ Enchar is a B2B biochar market-maker with a biochar supply database and expertis
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟡 Moderate ([source](https://enchar.co/))

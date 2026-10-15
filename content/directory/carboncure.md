@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Carbon Utilization</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.carboncure.com/" target="_blank" rel="noopener">https://www.carboncure.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carboncure-technologies/" target="_blank" rel="noopener">carboncure-technologies — 36,159 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carboncure-technologies/" target="_blank" rel="noopener">carboncure-technologies — 37,300 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~81 (-14% YoY)</td></tr>
+  <tr><th>Employees</th><td>~87 (+4% YoY)</td></tr>
   <tr><th>Open roles</th><td>4 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -34,6 +34,13 @@ CarbonCure Technologies is a Halifax, Canada-based carbon utilization company th
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-09** — news mention: Does Tom Cruise drive an EV, have PV on his properties, and offset the emissions from his air travel ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mxhbvqsxvk2x))
+- **2026-09-28** — news mention: Carbon Dioxide Removal Market Is Going to Boom |• Climeworks • Carbon Engineering • Global CCS Insti ([source](https://www.openpr.com/news/4645712/carbon-dioxide-removal-market-is-going-to-boom-climeworks))
+- **2026-09-22** — news mention: CO2 Mineralization Reactor Market 2026: Key Players, Decarbonization Trends and Business Opportuniti ([source](https://www.openpr.com/news/4639901/co2-mineralization-reactor-market-2026-key-players))
+- **2026-09-18** — news mention: Just in time for #ClimateWeekNYC, we welcome Climate Partnerships Lead Jeremy Casebeer to CarbonCure ([source](https://bsky.app/profile/carboncure.bsky.social/post/3mvt2vx4lxc2c))
+- **2026-09-18** — news mention: CO2 Mineralization Market Expected to Grow at 10.1% CAGR During 2026-2032 Amid Rising Net-Zero Emiss ([source](https://www.openpr.com/news/4635752/co2-mineralization-market-expected-to-grow-at-10-1-cagr-during))
+- **2026-09-16** — news mention: Carbon Dioxide Removal Market - A Global and Regional Analysis: Focus on Technology Type, Carbon Cre ([source](https://bisresearch.com/industry-report/carbon-dioxide-removal-market.html))
 - **2026-08-26** — news mention: CarbonCure: We're happy to see Tongyang, part of Eugene Group, featured in Korean media for its use  ([source](https://www.linkedin.com/company/carboncure-technologies/#post-ad014e0b4bc6))
 - **2026-08-26** — news mention: CarbonCure: Injecting carbon dioxide into cement is a growing commercial strategy to store CO₂ and r ([source](https://www.linkedin.com/company/carboncure-technologies/#post-5bf7728403ba))
 - **2026-08-19** — news mention: CarbonCure: "The process injects captured CO2 into fresh concrete, where it permanently mineralizes  ([source](https://www.linkedin.com/company/carboncure-technologies/#post-fbd2627a66bf))
@@ -57,13 +64,6 @@ CarbonCure Technologies is a Halifax, Canada-based carbon utilization company th
 - **2026-05-20** — news mention: CarbonCure Carbon Credits - CarbonCure Technologies Inc. ([source](https://www.carboncure.com/carbon-credits/))
 - **2026-05-20** — news mention: Happy #WorldBeeDay! 🐝 At #CarbonCure, we bee-lieve small changes build into big results. Over the pa ([source](https://x.com/CarbonCure/status/2057132812667416624))
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-04-23** — news mention: CarbonCure Names Yuliya Kravtsov CEO to Scale CO2 Utilisation Across 10 Million Concrete Truckloads  ([source](https://onestopesg.com/esg-news/carboncure-appoints-yuliya-kravtsov-ceo-concrete-co2-utilisation-scale-up))
-- **2026-04-21** — news mention: CarbonCure Appoints Yuliya Kravtsov As CEO To Drive Global Growth ([source](https://carbonherald.com/carboncure-appoints-yuliya-kravtsov-as-ceo-to-drive-global-growth/?utm_source=rss&utm_medium=rss&utm_campaign=carboncure-appoints-yuliya-kravtsov-as-ceo-to-drive-global-growth))
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.carboncure.com/news/carboncure-producers-reach-milestone-of-10-million-truckloads/))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/carboncure-hits-10-million-low-carbon-concrete-truckloads/))
 
 ---
 

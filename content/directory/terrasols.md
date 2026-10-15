@@ -30,6 +30,7 @@ Terrasols (Terrasols Solutions) is an India-based enhanced rock weathering start
 
 ## History
 
+- **2026-09-22** — news mention: Terrasols: Data transparency is growing in ERW — and that's worth celebrating! Today we're announcin ([source](https://www.linkedin.com/company/terrasols/#post-79f5f4af12aa))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-07** — news mention: Tapovanam Organic Farming Systems: Announcing Cohort 2 of our 🇮🇳 India CDR Startup #Accelerator Prog ([source](https://www.linkedin.com/company/tapovanam-organic-farming-systems-sustainable-business-regenerative-agriculture/#post-965deb7d47d8))
 - **2026-09-07** — news mention: Engrow: Announcing Cohort 2 of our ð®ð³ India CDR Startup #Accelerator Program ð We continued ([source](https://www.linkedin.com/company/engrow-group/#post-bca5e13d4f54))

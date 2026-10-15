@@ -8,33 +8,33 @@ url: "/directory/biomass-burial/"
 
 # Biomass Burial — 31 Companies Tracked
 
-**Market pulse for Biomass Burial (updated 2026-09-15).**
+**Market pulse for Biomass Burial (updated 2026-10-15).**
 
 <div class="directory-stats">
   <div class="stat-box"><span class="num">31</span><span class="label">Companies</span></div>
-  <div class="stat-box"><span class="num" style="color:#22c55e">25</span><span class="label">🟢 Active</span></div>
-  <div class="stat-box"><span class="num" style="color:#eab308">2</span><span class="label">🟡 Moderate</span></div>
-  <div class="stat-box"><span class="num" style="color:#f97316">1</span><span class="label">🟠 Suspect</span></div>
+  <div class="stat-box"><span class="num" style="color:#22c55e">27</span><span class="label">🟢 Active</span></div>
+  <div class="stat-box"><span class="num" style="color:#eab308">1</span><span class="label">🟡 Moderate</span></div>
+  <div class="stat-box"><span class="num" style="color:#f97316">0</span><span class="label">🟠 Suspect</span></div>
   <div class="stat-box"><span class="num" style="color:#ef4444">3</span><span class="label">🔴 Maybe Dead?</span></div>
 </div>
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">528</span><span class="label">Total employees (lower bound)</span></div>
+  <div class="stat-box"><span class="num">614</span><span class="label">Total employees (lower bound)</span></div>
   <div class="stat-box"><span class="num">29/31</span><span class="label">Companies with headcount data</span></div>
 </div>
 
 ## Largest companies
 
 - [Charm Industrial](/directory/charm-industrial/) — 106 employees
+- [Néolithe](/directory/néolithe/) — 100 employees
 - [Vaulted Deep](/directory/vaulted-deep/) — 64 employees
-- [Plantd Materials](/directory/plantd-materials/) — 52 employees
+- [Plantd Materials](/directory/plantd-materials/) — 51 employees
 - [Mast Reforestation](/directory/mast-reforestation/) — 43 employees
 - [Terranova](/directory/terranova/) — 41 employees
 - [Levitree](/directory/levitree/) — 28 employees
 - [Kodama Systems](/directory/kodama-systems/) — 23 employees
 - [Graphyte](/directory/graphyte/) — 22 employees
 - [Ekovilla](/directory/ekovilla/) — 20 employees
-- [Brilliant Planet | Inactive](/directory/brilliant-planet-inactive/) — 14 employees
 
 ## All Biomass Burial companies
 

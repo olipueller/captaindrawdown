@@ -30,6 +30,13 @@ Los Angeles-based Avnos develops Hybrid Direct Air Capture technology that produ
 
 ## History
 
+- **2026-10-10** — news mention: Avnos: 🌍 Avnos has introduced its Avnos HDAC™ Module, its first standardized, factory-built product  ([source](https://www.linkedin.com/company/avnos-inc/#post-af673869a703))
+- **2026-10-06** — news mention: NGK Ceramics Begin Operating at New Jersey Direct Air Capture Facility - Travel And Tour World ([source](https://www.travelandtourworld.com/news/article/ngyg6bmg07og/))
+- **2026-09-29** — news mention: Batería atrapa CO2: el avance electroquímico de Delaware – El Ecosistema Startup ([source](https://ecosistemastartup.com/bateria-atrapa-co2-el-avance-electroquimico-de-delaware/))
+- **2026-09-25** — news mention: 「ネガティブエミッション技術市場規模、成長と動向分析レポート 2026-2033年」の市場調査レポート出版・販売開始のご案内 | 株式会社SEMABIZのプレスリリース ([source](https://www.dreamnews.jp/press/0000363578))
+- **2026-09-19** — news mention: The Sluiskil plant in the Netherlands can capture and liquefy up to 800,000 metric tonnes of CO2 ann ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mvv3av2l6c2c))
+- **2026-09-17** — news mention: Republicans will do everything they possibly can to help defend the fossil fuel industry from cleant ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mvq2syeavk2c))
+- **2026-09-17** — news mention: Exclusive: Avnos Introduces the Avnos HDAC™ Module, Its First Factory-Built Product Line ([source](https://carbonherald.com/exclusive-avnos-introduces-the-avnos-hdac-module-its-first-factory-built-product-line/?utm_source=rss&utm_medium=rss&utm_campaign=exclusive-avnos-introduces-the-avnos-hdac-module-its-first-factory-built-product-line))
 - **2026-09-05** — news mention: Carbon Removal Alliance: Congratulations to our member company Avnos for beginning operations on the ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-9d84135b7098))
 - **2026-09-04** — news mention: Carbon Capture Coalition: Congratulations to Carbon Capture Coalition member Avnos on the operationa ([source](https://www.linkedin.com/company/carbon-capture-coalition/#post-d9919cf71346))
 - **2026-09-04** — news mention: Avnos: ð Avnos has launched operations at Project Brighton in New Jersey, its largest Hybrid Dire ([source](https://www.linkedin.com/company/avnos-inc/#post-21c0e0bfbc10))

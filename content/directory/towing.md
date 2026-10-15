@@ -33,6 +33,8 @@ TOWING is a Nagoya University spinout founded in February 2020 that develops and
 
 ## History
 
+- **2026-10-08** — news mention: Zayed Sustainability Prize Unveils 2027 Finalists Following Record-Breaking Global Entry | ESG Mena ([source](https://esgmena.com/zayed-sustainability-prize-unveils-2027-finalists-following-record-breaking-global-entry/))
+- **2026-09-30** — news mention: Investors back Cotierra’s bid to scale biochar across tropical agriculture ([source](https://www.agnavigator.com/Article/2026/09/30/investors-back-cotierras-bid-to-scale-biochar-across-tropical-agriculture/))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-16** — news mention: Towing: TOWING Co., Ltd. and SCG Cement have partnered to produce microbially enriched biochar in Th ([source](https://www.linkedin.com/company/towing-co-ltd/#post-d08c11d37a8b))
 - **2026-08-16** — news mention: Towing: Some updates regarding TOWING's recent initiatives! 1. Collaboration with Suntory (Tea and S ([source](https://www.linkedin.com/company/towing-co-ltd/#post-6b2ec4a8d076))

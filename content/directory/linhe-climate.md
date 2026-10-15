@@ -15,7 +15,9 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Website</th><td><a href="https://www.co2loop.com" target="_blank" rel="noopener">https://www.co2loop.com</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/linhe-climate-science-technology-co-ltd/" target="_blank" rel="noopener">linhe-climate-science-technology-co-ltd — 51 followers</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~125 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +31,7 @@ Linhe Climate Technology (霖和气候科技, Carbon Loop / co2loop) is a Beijin
 
 ## History
 
+- **2026-10-15** — refresh: coresignal
 - **2026-09-15** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: liveliness

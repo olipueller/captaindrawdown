@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://www.cria.earth/" target="_blank" rel="noopener">https://www.cria.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cria-earth/" target="_blank" rel="noopener">cria-earth — 5,093 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cria-earth/" target="_blank" rel="noopener">cria-earth — 7,129 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~17 (-11% YoY)</td></tr>
+  <tr><th>Employees</th><td>~18 (-5% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,6 +31,8 @@ The Carbon Removal India Alliance (CRIA) is a non-partisan membership organisati
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-09-25** — news mention: Carbon Removal India Alliance: ð®ð³ Indiaâs Top Carbon Removal Suppliers ð®ð³ As durable c ([source](https://www.linkedin.com/company/cria-earth/#post-503ebe639179))
 - **2026-08-21** — news mention: Carbon Removal India Alliance: We welcome the Union Cabinet’s approval of the ₹23,731 crore GOBARdha ([source](https://www.linkedin.com/company/cria-earth/#post-07964e42db42))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-13** — news mention: Carbon Removal India Alliance: ð¿ ðð²ð®ð¹ððµð ðð¼ð¶ð¹ð ðºð®ð¸ð ([source](https://www.linkedin.com/company/cria-earth/#post-d029b5267741))

@@ -30,6 +30,8 @@ Carbon180 is a Washington, D.C.-based nonprofit, nonpartisan climate NGO founded
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
+- **2026-10-01** — news mention: The National Science Foundation (NSF) asked for public input on its ocean observing system, and we s ([source](https://www.linkedin.com/feed/update/urn:li:share:7511147735929200640/))
 - **2026-08-05** — news mention: Congress reintroduces federal purchasing bill | Carbon180 ([source](https://carbon180.org/blog/congress-reintroduces-federal-purchasing-bill/))
 - **2026-08-05** — news mention: Carbon180: We applaud Representatives Tonko and Peters and Senators Whitehouse and Coons for their r ([source](https://www.linkedin.com/company/the-center-for-carbon-removal/#post-6f65f0aa4219))
 - **2026-08-02** — news mention: NuWa Solutions: Thank you to the ocean community at large for standing up for the Ocean Observatorie ([source](https://www.linkedin.com/company/nuwasolutions/#post-717fea37ec08))

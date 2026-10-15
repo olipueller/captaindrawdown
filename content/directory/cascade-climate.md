@@ -35,6 +35,8 @@ Cascade Climate is a philanthropically-backed US nonprofit (launched June 2023) 
 
 ## History
 
+- **2026-10-13** — news mention: Terrasols Solutions Private Limited: Data transparency is growing in ERW — and that's worth celebrat ([source](https://www.linkedin.com/company/greenlife-sustainability/#post-79f5f4af12aa))
+- **2026-10-02** — news mention: Cascade Climate: Weâre launching an open call for research funding for carbon removals and superpo ([source](https://www.linkedin.com/company/cascade-climate/#post-906c93bb7025))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-13** — news mention: Cascade Climate: We’re launching an open call for research funding for carbon removals and superpoll ([source](https://www.linkedin.com/company/cascade-climate/#post-fe335e01a5a3))
 - **2026-08-06** — news mention: Cascade Climate: A year ago, we placed a bet: that shared ERW deployment data â not data locked in ([source](https://www.linkedin.com/company/cascade-climate/#post-dfd7eca1a9dd))

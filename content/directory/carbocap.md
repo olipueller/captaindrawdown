@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://carbocap.earth/" target="_blank" rel="noopener">https://carbocap.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbocapglobal/" target="_blank" rel="noopener">carbocapglobal — 180 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbocapglobal/" target="_blank" rel="noopener">carbocapglobal — 185 followers</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -30,6 +30,7 @@ CarboCap is an unfunded company based in Delhi, India, founded in 2023 by Mayur 
 
 ## History
 
+- **2026-10-15** — refresh: coresignal
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate

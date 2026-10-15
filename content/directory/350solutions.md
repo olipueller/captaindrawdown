@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>CDR Platform/Marketplace</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://350solutions.com/" target="_blank" rel="noopener">https://350solutions.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/350solutions/" target="_blank" rel="noopener">350solutions — 981 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/350solutions/" target="_blank" rel="noopener">350solutions — 1,169 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~7 (+17% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
@@ -34,6 +34,8 @@ liveliness: "🟢 Active"
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-09-28** — news mention: 350solutions: We're thrilled to announce BC Biocarbon 's second Puro.earth CORC issuance from our Bi ([source](https://www.linkedin.com/company/350solutions/#post-c07f7c45aff0))
 - **2026-08-23** — news mention: 350solutions: ð¥³ Microsoft is excited to share its latest carbon removal purchase agreement with C ([source](https://www.linkedin.com/company/350solutions/#post-d886485cafd6))
 - **2026-08-16** — news mention: 350solutions: Why was Puro.earth 's COO at a neustark facility this month? Benno Fuchs recently join ([source](https://www.linkedin.com/company/350solutions/#post-2ff9aa11ae02))
 - **2026-08-16** — news mention: 350solutions: 🥳 Microsoft is excited to share its latest carbon removal purchase agreement with CREW ([source](https://www.linkedin.com/company/350solutions/#post-49d2f3038306))

@@ -5,7 +5,7 @@ type: "directory"
 description: "SaaS/blockchain-based online exchange platform that lists and brokers third-party carbon offset and removal credits (Verra, Gold Standard, ACR), rather than producing CDR itself."
 url: "/directory/carbonera-inc/"
 pathway: "Enabling Tech"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://carboneraexchange.com/" target="_blank" rel="noopener">https://carboneraexchange.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carboneraexchange2023/" target="_blank" rel="noopener">carboneraexchange2023 — 88 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~3 (+50% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carboneraexchange2023/" target="_blank" rel="noopener">carboneraexchange2023 — 94 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~3 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ Carbonera eXchange is a small US-based online marketplace platform for buying an
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot, liveliness
+- **2026-10-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://carboneraexchange.com/))

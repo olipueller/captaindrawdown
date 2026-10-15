@@ -43,6 +43,9 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-11** — news mention: Pacific Biochar: Our Humboldt Sawmill project has been generating carbon credits since 2020, and was ([source](https://www.linkedin.com/company/pacific-biochar/#post-38dcca3fad4e))
+- **2026-10-05** — news mention: I learned by talking with my Republican family members this past weekend that this lie is working on ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mx5dzbon6c2u))
+- **2026-09-16** — news mention: Carbon Dioxide Removal Market - A Global and Regional Analysis: Focus on Technology Type, Carbon Cre ([source](https://bisresearch.com/industry-report/carbon-dioxide-removal-market.html))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-20** — news mention: Graphyte: Deduci has partnered with Isometric to launch its first US Carbon Removal Portfolio, featu ([source](https://www.linkedin.com/company/graphytecarbon/#post-c11753c33e78))
 - **2026-08-05** — news mention: Ocean pHix: Deduci has partnered with Isometric to launch its first US Carbon Removal Portfolio, fea ([source](https://www.linkedin.com/company/exponential-hq/#post-536fd8f1d0c1))

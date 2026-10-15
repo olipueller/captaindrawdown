@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Website</th><td><a href="https://www.bestongroup.com/" target="_blank" rel="noopener">https://www.bestongroup.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/beston-henan-machinery-co-ltd-/" target="_blank" rel="noopener">beston-henan-machinery-co-ltd- — 35,299 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bestongroup/" target="_blank" rel="noopener">bestongroup — 47,910 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~750 (+12% YoY)</td></tr>
+  <tr><th>Employees</th><td>~750 (+14% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -30,6 +30,13 @@ Beston Group is a Chinese pyrolysis equipment manufacturer based in Zhengzhou/Ji
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-10** — news mention: Beston Group Visits Alabama Site for Planned Large-Scale Biochar CDR Project - Beston Group ([source](https://www.bestongroup.com/company-news/beston-group-visits-alabama-site-for-planned-large-scale-biochar-cdr-project/))
+- **2026-10-07** — news mention: Beston Group: From Project Announcement to Industry Dialogue: Beston Group® at Puro.earth CDR Summit ([source](https://www.linkedin.com/company/beston-henan-machinery-co-ltd-/#post-95b260894b40))
+- **2026-10-04** — news mention: CCP Insights: The New Quality Baseline for Carbon Credits - Beston Group ([source](https://www.bestongroup.com/industry-news/ccp-insights-the-new-quality-baseline-for-carbon-credits/))
+- **2026-09-30** — news mention: From Project Announcement to Industry Dialogue: Beston Group at Puro.earth CDR Summit 2026 - Beston  ([source](https://www.bestongroup.com/company-news/from-project-announcement-to-industry-dialogue-beston-group-at-puro-earth-cdr-summit-2026/))
+- **2026-09-29** — news mention: Ecological Carbon Offset Partners: The carbon removal market showed up in force at the Puro.earth CD ([source](https://www.linkedin.com/company/ep-carbon/#post-7d70ebb6bd3c))
+- **2026-09-24** — news mention: #purocdrsummit #climateweeknyc #carbonremoval #cdr #corcs #newyork | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7508518044885757953/))
 - **2026-09-14** — news mention: Biochar Production Equipment: Large & Pilot Scale CDR Solution ([source](https://www.bestongroup.com/biochar-production-equipment/))
 - **2026-08-24** — news mention: Beston Group Deploys BST-50 Biochar Pyrolysis Plant in Asia to Convert Sugarcane Straw into Biochar  ([source](https://biochartoday.com/news/beston-group-deploys-bst-50-biochar-pyrolysis-plant-in-asia-to-convert-sugarcane-straw-into-biochar-and-carbon-credits/))
 - **2026-08-23** — news mention: BST-50 Biochar Pyrolysis Plant in Asia: Turning Sugarcane Straw into Biochar for Carbon Credits - Be ([source](https://www.bestongroup.com/global-cases/bst-50-biochar-pyrolysis-plant-in-asia-turning-sugarcane-straw-into-biochar-for-carbon-credits/))

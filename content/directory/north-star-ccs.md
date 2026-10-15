@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonalpha.com/northstar" target="_blank" rel="noopener">https://www.carbonalpha.com/northstar</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-alpha/" target="_blank" rel="noopener">carbon-alpha — 2,136 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-alpha/" target="_blank" rel="noopener">carbon-alpha — 2,196 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~30 (-29% YoY)</td></tr>
+  <tr><th>Employees</th><td>~30 (-17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ North Star Carbon Solutions LP is a dedicated BECCS project joint venture betwee
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-08-29** — news mention: North Star CCS: ð ð¡ð²ð ððµð®ð½ðð²ð¿ ð³ð¼ð¿ ðð®ð¿ð¯ð¼ð» ([source](https://www.linkedin.com/company/carbon-alpha/#post-7d83a9f1a71e))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-14** — news mention: North Star CCS: A New Chapter for Carbon Alpha: Joining Forces with Svante! 🚀 We are thrilled to ann ([source](https://www.linkedin.com/company/carbon-alpha/#post-529edf72eeb8))

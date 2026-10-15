@@ -34,6 +34,7 @@ Gevo, Inc. (NASDAQ: GEVO) is a US renewable fuels and chemicals company headquar
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot

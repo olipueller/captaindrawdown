@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Finland</td></tr>
   <tr><th>Website</th><td><a href="https://www.vantaanenergia.fi/en/" target="_blank" rel="noopener">https://www.vantaanenergia.fi/en/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/vantaan-energia-oy/" target="_blank" rel="noopener">vantaan-energia-oy — 9,936 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/vantaan-energia-oy/" target="_blank" rel="noopener">vantaan-energia-oy — 10,414 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~253 (+5% YoY)</td></tr>
+  <tr><th>Employees</th><td>~264 (+4% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ Vantaan Energia is a Finnish municipal energy utility majority-owned by the City
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-09-24** — news mention: Vantaan Energia: The EU ETS is not just a compliance cost for Waste-to-Energy. It is the instrument  ([source](https://www.linkedin.com/company/vantaan-energia-oy/#post-7153a96489e8))
 - **2026-07-29** — news mention: Vantaan Energia: Rakennamme parhaillaan Vantaan Kuusikonmäkeen Varantoa, maailman suurinta lämmön ka ([source](https://www.linkedin.com/company/vantaan-energia-oy/#post-06ef4d483475))
 - **2026-07-29** — news mention: Vantaan Energia: Suomen suurimman pakastevaraston hukkalämpö lämmittää nyt vantaalaisia koteja ja ki ([source](https://www.linkedin.com/company/vantaan-energia-oy/#post-d038b5f7b10a))
 - **2026-05-01** — refresh: coresignal, screenshot

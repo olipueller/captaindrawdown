@@ -41,6 +41,9 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-27** — news mention: We have over 40 Biomass Carbon Removal and Storage projects in the Rainbow Registry. 
+
+These include ([source](https://www.linkedin.com/feed/update/urn:li:share:7508797384219361280/))
 - **2026-08-15** — refresh: coresignal
 - **2026-06-24** — news mention: In 2009, ECOERA AB started one of Europe&amp;#39;s earliest industrial biochar projects.
 

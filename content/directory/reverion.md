@@ -33,6 +33,9 @@ Reverion is a 2022 spin-off from the Technical University of Munich that has cre
 
 ## History
 
+- **2026-10-01** — news mention: Sorry, but you can't trust what Americans tells pollsters.  We'll find out next month what percentag ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mwt2okeass2a))
+- **2026-10-01** — news mention: Reverion Raises $175M To Scale Carbon-Negative Energy ([source](https://carbonherald.com/reverion-raises-175m-to-scale-carbon-negative-energy/?utm_source=rss&utm_medium=rss&utm_campaign=reverion-raises-175m-to-scale-carbon-negative-energy))
+- **2026-09-17** — news mention: Reverion: When great partners scale together, exciting things happen! Great to see the partnership b ([source](https://www.linkedin.com/company/reverion/#post-f2028d3cda61))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-12** — news mention: Reverion: Reverion is expanding its partnership with Doosan Fuel Cell for the large-scale supply of  ([source](https://www.linkedin.com/company/reverion/#post-c99717d1ec21))
 - **2026-08-12** — news mention: Reverion: When great partners scale together, exciting things happen! Great to see the partnership b ([source](https://www.linkedin.com/company/reverion/#post-50a1145d9f9f))

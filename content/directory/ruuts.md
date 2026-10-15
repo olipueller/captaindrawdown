@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Argentina</td></tr>
   <tr><th>Website</th><td><a href="https://ruuts.la" target="_blank" rel="noopener">https://ruuts.la</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ruutsnetwork/" target="_blank" rel="noopener">ruutsnetwork — 5,790 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ruutsla/" target="_blank" rel="noopener">ruutsla — 6,325 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~33 (-3% YoY)</td></tr>
+  <tr><th>Employees</th><td>~32 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ Ruuts is an Argentina-based regenerative agriculture platform that co-developed 
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-09-04** — news mention: Ruuts: IMPORTANT NEWS: We have reached a major milestone for regenerative agriculture in South Ameri ([source](https://www.linkedin.com/company/ruutsnetwork/#post-859dcde3e2c9))
 - **2026-08-28** — news mention: Ruuts: Our Carbon Program SARA, developed together with Anthesis Group , has been assigned a BeZero  ([source](https://www.linkedin.com/company/ruutsnetwork/#post-7a53b4ab1a7c))
 - **2026-08-28** — news mention: Ruuts: For the first time, a regenerative grazing program in South America at scale is paying farmer ([source](https://www.linkedin.com/company/ruutsnetwork/#post-e40fd2820b1d))

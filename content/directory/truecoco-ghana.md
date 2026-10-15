@@ -13,7 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Ghana</td></tr>
   <tr><th>Website</th><td><a href="https://www.truecococarbon.green/" target="_blank" rel="noopener">https://www.truecococarbon.green/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/truecoco-ghana-ltd/" target="_blank" rel="noopener">truecoco-ghana-ltd — 1,227 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2030-03-31</small></td></tr>
+  <tr><th>Employees</th><td>~19 (+90% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2030-03-31)</small></td></tr>
 </table>
@@ -39,6 +41,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-15** — refresh: coresignal
 - **2026-09-15** — refresh: screenshot
 - **2026-05-11** — liveliness: 🟡 Moderate → 🟢 Active ([source](registry_activity))
 - **2026-05-01** — refresh: screenshot

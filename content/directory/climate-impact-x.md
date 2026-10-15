@@ -30,6 +30,7 @@ Climate Impact X (CIX) is a Singapore-headquartered global carbon exchange and m
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
 - **2026-09-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-27** — news mention: Climate Impact X, Carbonplace To Merge As Carbon Markets Seek Greater Scale - Carbon Herald ([source](https://carbonherald.com/climate-impact-x-and-carbonplace-to-merge-as-carbon-markets-seek-greater-scale/))
 - **2026-08-27** — news mention: Climate Impact X, Carbonplace To Merge As Carbon Markets Seek Greater Scale ([source](https://carbonherald.com/climate-impact-x-and-carbonplace-to-merge-as-carbon-markets-seek-greater-scale/?utm_source=rss&utm_medium=rss&utm_campaign=climate-impact-x-and-carbonplace-to-merge-as-carbon-markets-seek-greater-scale))

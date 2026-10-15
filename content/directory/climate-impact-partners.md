@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.climateimpact.com" target="_blank" rel="noopener">https://www.climateimpact.com</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/climate-impact-partners/" target="_blank" rel="noopener">climate-impact-partners — 35,911 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/climate-impact-partners/" target="_blank" rel="noopener">climate-impact-partners — 37,881 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~118 (-33% YoY)</td></tr>
+  <tr><th>Employees</th><td>~115 (-8% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ Climate Impact Partners is a UK/US-based voluntary carbon market specialist form
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-08-23** — news mention: Community Climate Solutions: ð Officially Launched: A New Chapter for the Miombo Woodland Project ([source](https://www.linkedin.com/company/communityclimatesolutions/#post-cdd57725f61c))
 - **2026-08-19** — news mention: Climate Impact Partners: Bondhu Chula has achieved CCP labelling approval. We're pleased to see the  ([source](https://www.linkedin.com/company/climate-impact-partners/#post-9275667e7caf))
 - **2026-08-04** — news mention: Climate Impact Partners: 🎉Major milestone for Bondhu Chula clean cooking project in Bangladesh. http ([source](https://www.linkedin.com/company/climate-impact-partners/#post-cafcb6b76954))

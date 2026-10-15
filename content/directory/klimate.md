@@ -35,6 +35,9 @@ Klimate is a Copenhagen-based carbon asset management platform founded in 2020 t
 
 ## History
 
+- **2026-10-05** — news mention: For example, Alphabet, Meta, Amazon and Microsoft went from 14,200 permanent-removal carbon credits  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mx532gf3mc2a))
+- **2026-10-05** — news mention: Eneco Expands Its Partnership With Klimate To Explore Carbon Removals ([source](https://carbonherald.com/eneco-expands-its-partnership-with-klimate-to-explore-carbon-removals/?utm_source=rss&utm_medium=rss&utm_campaign=eneco-expands-its-partnership-with-klimate-to-explore-carbon-removals))
+- **2026-09-17** — news mention: Klimate: We are excited to announce that Evaneos is supporting carbon removal through Klimate. 🔔 Eva ([source](https://www.linkedin.com/company/klimate-co/#post-575f16e9763a))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-14** — news mention: Evaneos To Support A Portfolio Of High-Quality CDR Via Klimate ([source](https://carbonherald.com/evaneos-to-support-a-portfolio-of-high-quality-cdr-via-klimate/?utm_source=rss&utm_medium=rss&utm_campaign=evaneos-to-support-a-portfolio-of-high-quality-cdr-via-klimate))
 - **2026-08-12** — news mention: Klimate: The EU Commission published its proposed revision of the Emissions Trading System (ETS) â ([source](https://www.linkedin.com/company/klimate-co/#post-b4535fff04e6))

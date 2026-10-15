@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonbusinesscouncil.org/" target="_blank" rel="noopener">https://www.carbonbusinesscouncil.org/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonbusinesscouncil/" target="_blank" rel="noopener">carbonbusinesscouncil — 9,920 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonbusinesscouncil/" target="_blank" rel="noopener">carbonbusinesscouncil — 10,902 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~18 (+50% YoY)</td></tr>
+  <tr><th>Employees</th><td>~18 (+12% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,16 @@ The Carbon Business Council (CO2BC) is a nonprofit, tech-neutral trade associati
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-14** — news mention: As the World Plans for Overshoot, Europe Sets the Pace on Carbon Removal — Carbon Business Council ([source](https://www.carbonbusinesscouncil.org/news/carbon-unbound-europe-2026))
+- **2026-10-08** — news mention: Carbon Business Council: Carbon removal buyers include everything from airlines to appliance makers, ([source](https://www.linkedin.com/company/carbonbusinesscouncil/#post-d91caa0c8e1f))
+- **2026-10-07** — news mention: Svante/Carbon Alpha: Canada is helping to grow the global carbon removal market. The country just an ([source](https://www.linkedin.com/company/svantesolutions/#post-b4099899cd0c))
+- **2026-10-03** — news mention: #climateweeknyc | ClimeFi ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7511052052999954433/))
+- **2026-10-03** — news mention: Carbon removal buyers expand demand with new deals and partnerships | Carbon Business Council posted ([source](https://www.linkedin.com/feed/update/urn:li:share:7510722686361227266/))
+- **2026-09-22** — news mention: We&amp;#39;re looking forward to joining the carbon removal community in New York for Climate Week N ([source](https://www.linkedin.com/feed/update/urn:li:share:7507826710797590528/))
+- **2026-09-21** — news mention: #newyork #climateweeknyc | ClimeFi ([source](https://www.linkedin.com/feed/update/urn:li:share:7506656347132968960/))
+- **2026-09-19** — news mention: Who&#39;s Buying Carbon Removal in 2026, and Why Now &mdash; Carbon Business Council ([source](https://www.carbonbusinesscouncil.org/news/cdr-corporate-purchaser-case-studies))
+- **2026-09-19** — news mention: Biochar applications can help mitigate climate change, improve soil health and support a circular ec ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mvvkvwe6rs2c))
 - **2026-09-04** — news mention: Tierra Prieta: The Latin America Carbon Removal Investment Roadmap is live. 👉 https://lnkd.in/eTHYBP ([source](https://www.linkedin.com/company/tierra-prieta/#post-d7a836388d82))
 - **2026-09-03** — news mention: Carbon Business Council: Since announcing its intention to help scale investment in emerging carbon  ([source](https://www.linkedin.com/company/carbonbusinesscouncil/#post-ff52358ebeff))
 - **2026-09-02** — news mention: Carbon Business Council Launches New Series Exploring CDR Buyer Profiles ([source](https://carbonherald.com/carbon-business-council-launches-new-series-exploring-cdr-buyer-profiles/?utm_source=rss&utm_medium=rss&utm_campaign=carbon-business-council-launches-new-series-exploring-cdr-buyer-profiles))
@@ -52,16 +62,6 @@ Carbon to Sea Initiative op ([source](https://www.linkedin.com/feed/update/urn:l
 - **2026-07-25** — news mention: Planet Savers: New National Public Polling: Only 12% of Japanese adults say they fully or mostly und ([source](https://www.linkedin.com/company/planetsavers/#post-d4ce27da684b))
 - **2026-07-25** — news mention: Planet Savers: 日本におけるCO2除去技術（CDR）に対する理解は、まだこれからです。 一方で、正しく説明されることで、多くの人がその必要性と可能性を支持することが明らかになりました。  ([source](https://www.linkedin.com/company/planetsavers/#post-9155f48639b5))
 - **2026-07-22** — news mention: Carbon Business Council: The U.S. biochar industry nearly tripled in value in two years. $53.6M in 2 ([source](https://www.linkedin.com/company/carbonbusinesscouncil/#post-0c8f95acf136))
-- **2026-07-22** — news mention: Carbon Business Council: Today, the European Commission released its landmark EU ETS reform, and hig ([source](https://www.linkedin.com/company/carbonbusinesscouncil/#post-8502f867e04a))
-- **2026-07-22** — news mention: Carbon Business Council: ð£ Applications are open for remove 's first Latin America CDR Accelerato ([source](https://www.linkedin.com/company/carbonbusinesscouncil/#post-d7aec4aa9614))
-- **2026-07-22** — news mention: Carbon Business Council: New Polling: "Japanese Public Backs Carbon Removal, Wants Government and In ([source](https://www.linkedin.com/company/carbonbusinesscouncil/#post-5b05847543e9))
-- **2026-07-21** — news mention: EU Unveils Biggest Carbon Market Overhaul Yet to Keep Industry Competitive and Net Zero on Track ([source](https://carboncredits.com/eu-unveils-biggest-carbon-market-overhaul-yet-to-keep-industry-competitive-and-net-zero-on-track/))
-- **2026-07-14** — news mention: Carbon Business Council Issue New Brief Outlines Path to Scale the Direct Storage of Biomass &#8211; ([source](https://biochartoday.com/news/carbon-business-council-issue-new-brief-outlines-path-to-scale-the-direct-storage-of-biomass/))
-- **2026-07-09** — news mention: Market momentum toward durable, high-integrity removals continues to build, and the last few weeks s ([source](https://www.linkedin.com/feed/update/urn:li:share:7480617152807428098/))
-- **2026-07-01** — news mention: Carbon Business Council: London Climate Action Week 2026 was a marquee event for the global carbon r ([source](https://www.linkedin.com/feed/update/urn:li:share:7477764172060139520/))
-- **2026-06-25** — news mention: Report: Corporate Investment in Carbon Removal Hinges on Policy Clarity | Carbon Business Council ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475581088539586560/))
-- **2026-06-24** — news mention: Carbon removal in Canada is entering a new phase, and the range of sectors getting involved reflects ([source](https://www.linkedin.com/feed/update/urn:li:share:7475163887344971776/))
-- **2026-06-24** — news mention: #climateweeknyc #carbonremoval #cdr #corcs #newyork #purocdrsummit | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7473721490056609793/))
 
 ---
 

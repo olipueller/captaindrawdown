@@ -31,6 +31,8 @@ Residual is a UK-based carbon project developer that partners with industrials t
 
 ## History
 
+- **2026-10-06** — news mention: Residual Opens Carbon Removal Buyer Portal With 25 Major Buyers Signed Up ([source](https://carbonherald.com/residual-opens-carbon-removal-buyer-portal-with-25-major-buyers-signed-up/?utm_source=rss&utm_medium=rss&utm_campaign=residual-opens-carbon-removal-buyer-portal-with-25-major-buyers-signed-up))
+- **2026-09-30** — news mention: Agricultural liming is a carbon sink in the Mississippi River Basin ([source](https://doi.org/10.1038/s41586-026-11040-2))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-12** — news mention: Residual Carbon: Our second Residual quality framework is out - this time for ARR, following our bio ([source](https://www.linkedin.com/company/residualcarbon/#post-ad600515d117))
 - **2026-08-31** — news mention: Trade-driven diffusion of carbon dioxide removal exacerbates the decrease in global health co-benefi ([source](https://doi.org/10.21203/rs.3.rs-10722747/v1))

@@ -29,6 +29,7 @@ Airfix is a Swiss subsidiary of climate consultancy South Pole, backed by the Mi
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
 - **2026-09-05** — news mention: Regionalwerke AG Baden: 🇨🇭➡️🇩🇰 Switzerland’s BECCS industry has officially gone commercial. Airfix , ([source](https://www.linkedin.com/company/regionalwerke-ag-baden/#post-74f636e824fe))
 - **2026-09-05** — news mention: Airfix: 🏁 Switzerland's first commercial BECCS chain hits operation! 🇨🇭 Switzerland’s Climate and In ([source](https://www.linkedin.com/company/airfixcarbon/#post-0bf4c9b0cd1d))
 - **2026-09-02** — news mention: Switzerland Marks Commercial BECCS Debut With First CO2 Shipment To Denmark ([source](https://carbonherald.com/switzerland-marks-commercial-beccs-debut-with-first-co2-shipment-to-denmark/?utm_source=rss&utm_medium=rss&utm_campaign=switzerland-marks-commercial-beccs-debut-with-first-co2-shipment-to-denmark))

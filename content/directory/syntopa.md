@@ -32,6 +32,8 @@ Founded in 2023 by Hans Holtan, Syntopa develops microbial products addressing t
 
 ## History
 
+- **2026-10-15** — refresh: coresignal
+- **2026-10-15** — refresh: coresignal
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-15** — refresh: coresignal, liveliness
 - **2026-08-15** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.carbon-drawdown.de/blog/2025-4-22-portfolio-spotlight-syntopa))

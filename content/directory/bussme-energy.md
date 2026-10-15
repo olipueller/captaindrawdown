@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes woody biomass in district heating plants to produce EBC-certified biochar alongside renewable heat."
 url: "/directory/bussme-energy/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,8 +15,8 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://www.bussmeenergy.se/" target="_blank" rel="noopener">https://www.bussmeenergy.se/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bussme-energy/" target="_blank" rel="noopener">bussme-energy</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bussme-energy/" target="_blank" rel="noopener">bussme-energy — 207 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~4 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -31,6 +31,9 @@ Bussme Energy AB is a Swedish family-owned company founded in 2010 operating dis
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-09-16** — news mention: Carbon Dioxide Removal Market - A Global and Regional Analysis: Focus on Technology Type, Carbon Cre ([source](https://bisresearch.com/industry-report/carbon-dioxide-removal-market.html))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟡 Moderate ([source](https://www.bussmeenergy.se/biokol/))
 - **2026-04-19** — refresh: coresignal, liveliness

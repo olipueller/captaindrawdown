@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://byronbiochar.com.au/" target="_blank" rel="noopener">https://byronbiochar.com.au/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/byron-biochar/" target="_blank" rel="noopener">byron-biochar</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/byron-biochar/" target="_blank" rel="noopener">byron-biochar — 5 followers</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,7 @@ Byron Biochar is a small Australian social enterprise founded and operated by ho
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.byronbiochar.com.au/about-us/))
 - **2026-04-19** — refresh: coresignal

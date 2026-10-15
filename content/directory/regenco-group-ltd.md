@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://regenco.earth/" target="_blank" rel="noopener">https://regenco.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/regenco-earth/" target="_blank" rel="noopener">regenco-earth — 1,560 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/regenco-earth/" target="_blank" rel="noopener">regenco-earth — 1,839 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~23 (+10% YoY)</td></tr>
+  <tr><th>Employees</th><td>~21 (+5% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ RegenCo is an Adelaide-based Australian natural capital and carbon project devel
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://regenco.earth/who-we-are/))
 - **2026-04-19** — refresh: coresignal

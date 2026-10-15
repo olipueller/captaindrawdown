@@ -30,6 +30,7 @@ RubisCO2 is an early-stage startup founded by Pablo Navarro Maldonado that trans
 
 ## History
 
+- **2026-09-23** — news mention: RubisCO2: ð²ð½ Today, president Claudia Sheinbaum Pardo , presented Mexico's strategy to turn sa ([source](https://www.linkedin.com/company/rubisco2/#post-19fb9e4a2020))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-16** — news mention: RubisCO2: ð²ð½ Today, president Claudia Sheinbaum Pardo , presented Mexico's strategy to turn sa ([source](https://www.linkedin.com/company/rubisco2/#post-81e66e6c902e))
 - **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://climaccelerator.climate-kic.org/news/carbon-removal-climaccelerator-start-up-spotlight-rubisco2/))

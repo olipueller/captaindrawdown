@@ -30,6 +30,8 @@ Captura is a Pasadena, California-based Direct Ocean Capture company founded at 
 
 ## History
 
+- **2026-10-06** — news mention: BECCS integration in Brazil's RenovaBio: modified RenovaCalc workbooks and user guide ([source](https://doi.org/10.5281/zenodo.23092807))
+- **2026-10-05** — news mention: CarbonAir Energy: A CarbonAir Energy participou da sessão técnica dedicada à Captura Direta de CO₂ d ([source](https://www.linkedin.com/company/carbonairenergy/#post-ae806fbb1481))
 - **2026-09-08** — news mention: Usina São Manoel estima receita adicional de R$ 15 milhões com projetos de captura de carbono ([source](https://globorural.globo.com/biocombustiveis/noticia/2026/09/usina-sao-manoel-estima-receita-adicional-de-r-15-milhoes-com-projetos-de-captura-de-carbono.ghtml))
 - **2026-09-02** — news mention: Captura: Today marks a significant milestone for Captura. We're proud to announce the first close of ([source](https://www.linkedin.com/company/capturaco2/#post-e700c02a06af))
 - **2026-08-30** — news mention: CarbonAir Energy: Brasil avança na regulamentação da captura e armazenamento de CO₂. A assinatura, n ([source](https://www.linkedin.com/company/carbonairenergy/#post-8680ef5b1e8f))
@@ -58,8 +60,6 @@ Captura is a Pasadena, California-based Direct Ocean Capture company founded at 
 - **2026-06-03** — news mention: Fishermen take interest in federal marine carbon dioxide removal research bill | National Fisherman ([source](https://www.nationalfisherman.com/fishermen-take-interest-in-federal-marine-carbon-dioxide-removal-research-bill))
 - **2026-05-26** — news mention: Captura to Supply Ocean-Captured CO2 for Franco-Canadian eSAF Facility in France - Renewable Carbon  ([source](https://renewable-carbon.eu/news/?p=177076))
 - **2026-05-11** — news mention: 🧵 A $50M ocean startup raised serious money, built real technology, and delivered on every contract  ([source](https://x.com/MickH_W/status/2053804970387075432))
-- **2026-05-04** — news mention: Captura Wins Supplier Deal For eSAF Plant In France Using Ocean-Captured CO2 ([source](https://carbonherald.com/captura-wins-supplier-deal-for-esaf-plant-in-france-using-ocean-captured-co2/?utm_source=rss&utm_medium=rss&utm_campaign=captura-wins-supplier-deal-for-esaf-plant-in-france-using-ocean-captured-co2))
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://capturacorp.com/))
 
 ---
 

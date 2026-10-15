@@ -5,7 +5,7 @@ type: "directory"
 description: "Slow-pyrolysis biochar production from forest-thinning wood waste and sawmill shavings using ARTi reactors, with excess heat used to dry wood products; carbon credits sold via 3Degrees."
 url: "/directory/southwest-biochar-products/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://sowbiochar.com/" target="_blank" rel="noopener">https://sowbiochar.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/southwest-biochar-products/" target="_blank" rel="noopener">southwest-biochar-products — 50 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~1</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,7 @@ Southwest Biochar Products (SOWBiochar) is an Arizona-based biochar producer in 
 
 ## History
 
+- **2026-10-15** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://3degreesinc.com/news/3degrees-lists-first-biochar-project-on-the-climate-action-reserve/))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

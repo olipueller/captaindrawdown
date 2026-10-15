@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Afforestation/Reforestation</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://thefutureforestcompany.com/" target="_blank" rel="noopener">https://thefutureforestcompany.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/the-future-forest-company/" target="_blank" rel="noopener">the-future-forest-company — 8,335 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/the-future-forest-company/" target="_blank" rel="noopener">the-future-forest-company — 8,597 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~20 (-26% YoY)</td></tr>
+  <tr><th>Employees</th><td>~20 (0% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -34,6 +34,7 @@ Founded by Jim Mann and Jade Rein, the Future Forest Company delivers large-scal
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-08-27** — news mention: The Future Forest Company: We are delighted to share that Dumyat has been recognised by NatureScot a ([source](https://www.linkedin.com/company/the-future-forest-company/#post-47c89d3c49c7))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot

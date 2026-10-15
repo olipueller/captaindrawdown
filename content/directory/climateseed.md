@@ -5,7 +5,7 @@ type: "directory"
 description: "B2B digital marketplace and carbon accounting platform (GEMS) that brokers voluntary carbon credits from vetted avoidance and removal projects."
 url: "/directory/climateseed/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,9 +14,9 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://climateseed.com/" target="_blank" rel="noopener">https://climateseed.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/climateseed/" target="_blank" rel="noopener">climateseed — 18,127 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Employees</th><td>~33 (-30% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/climateseed/" target="_blank" rel="noopener">climateseed — 18,352 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~29</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ ClimateSeed is a France-based digital marketplace that connects companies with v
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot, liveliness
+- **2026-10-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot

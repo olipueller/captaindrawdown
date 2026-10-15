@@ -16,6 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Website</th><td><a href="https://biokolprodukter.se/" target="_blank" rel="noopener">https://biokolprodukter.se/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biokolprodukter/" target="_blank" rel="noopener">biokolprodukter</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~1</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +30,7 @@ Biokolprodukter is a Swedish biochar company established in 2019 that partners w
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness

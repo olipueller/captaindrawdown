@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Austria</td></tr>
   <tr><th>Website</th><td><a href="https://www.sonnenerde.at" target="_blank" rel="noopener">https://www.sonnenerde.at</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sonnenerde/" target="_blank" rel="noopener">sonnenerde — 1,309 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100) <small>— verified via puro issuance on 2024-03-31</small></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~30 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2024-03-31)</small></td></tr>
@@ -41,6 +41,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-05** — news mention: Sonnenerde: 85% efficiency 🙌🏻 That is what our EU LIFE demonstration plant delivered — day after day ([source](https://www.linkedin.com/company/sonnenerde/#post-b940fee2f909))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-05-11** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://jumbo-group.de/en/eroffnungsfeier-bei-sonnenerde-biochar/))
 - **2026-05-01** — refresh: screenshot

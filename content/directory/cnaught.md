@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.cnaught.com/" target="_blank" rel="noopener">https://www.cnaught.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cnaught/" target="_blank" rel="noopener">cnaught — 2,484 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cnaught/" target="_blank" rel="noopener">cnaught — 2,803 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~12 (+9% YoY)</td></tr>
+  <tr><th>Employees</th><td>~14 (+27% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ CNaught is a US-based carbon credit marketplace and portfolio provider that cura
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-08-22** — news mention: Cnaught: In May we estimated that AI coding agents emit about 250,000 tonnes of CO₂e a year. We’re n ([source](https://www.linkedin.com/company/cnaught/#post-837f490a7838))
 - **2026-08-02** — news mention: Tau Carbon: Congratulations to Mast Reforestation on selling out MT1 in under six weeks. 🌲 Bain &amp ([source](https://www.linkedin.com/company/tau-carbon/#post-1ba07a1544b4))
 - **2026-05-01** — refresh: coresignal, screenshot

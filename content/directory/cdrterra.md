@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://cdrterra.de/en/" target="_blank" rel="noopener">https://cdrterra.de/en/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cdrterra/" target="_blank" rel="noopener">cdrterra — 1,846 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cdrterra/" target="_blank" rel="noopener">cdrterra — 2,172 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~125 (0% YoY)</td></tr>
+  <tr><th>Employees</th><td>~125</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,6 +31,14 @@ CDRterra is a German federal research funding program (BMFTR, formerly BMBF) lau
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-09** — news mention: #cdr #co2entnahme #klimaschutz #cdrterra #forschung #stakeholderdialog | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7513914542439976962/))
+- **2026-10-09** — news mention: #carbondioxideremoval | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:share:7514248955816493056/))
+- **2026-10-05** — news mention: Publikationen - CDRterra ([source](https://cdrterra.de/publikationen/?pid=[9179))
+- **2026-10-01** — news mention: CDRterra und CDRmare Newsletter - CDRterra ([source](https://cdrterra.de/cdrterra-und-cdrmare-newsletter/))
+- **2026-09-24** — news mention: CDRterra Bildungsbroschüre 1: CDR - weil Emissionsreduktion alleine nicht genügt, um die Klimaziele  ([source](https://doi.org/10.5281/zenodo.22875291))
+- **2026-09-22** — news mention: CDRfarm - CDRterra ([source](https://cdrterra.de/en/consortia/cdrfarm/))
+- **2026-09-19** — news mention: #ets #cdr | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7506627098132992000/))
 - **2026-09-12** — news mention: #cdr #co2entnahme #pflanzenkohle #biochar #cdrterra | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:share:7452726578565844992/))
 - **2026-09-10** — news mention: Meet CDRterra Scientists: Daniel Kray and Claudia Kammann | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7503078672560541696/))
 - **2026-09-07** — news mention: SESACOO - CDRterra ([source](https://cdrterra.de/consortia/sesacoo/))
@@ -54,13 +62,6 @@ Ronja Wollnik, Daniela Thrän. Their s ([source](https://www.linkedin.com/feed/u
 - **2026-06-10** — news mention: #icnce26 #cdr #icnce26 #uptakeeuproject #carbondioxideremoval #cdr #cdrterra | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:share:7470202621920944129/))
 - **2026-05-22** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-21** — news mention: #cdr #carbondioxideremoval #klimaschutz #wissenstransfer | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:share:7462876992414289920/))
-- **2026-05-19** — news mention: BioFleCCS - CDRterra ([source](https://cdrterra.de/consortia/biofleccs/))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://cdrterra.de/en/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://cdrterra.de/en ([source](https://www.cdr.fyi/marketplace/cdrterra))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/cdrterra))
 
 ---
 

@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://zeromission.se/" target="_blank" rel="noopener">https://zeromission.se/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/zeromission-ab/" target="_blank" rel="noopener">zeromission-ab — 3,774 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/zeromission-ab/" target="_blank" rel="noopener">zeromission-ab — 3,995 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~23 (+10% YoY)</td></tr>
+  <tr><th>Employees</th><td>~22 (-4% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ ZeroMission AB is a Stockholm-based climate strategy consultancy and carbon cred
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-08-21** — news mention: ZeroMission AB: New quality milestone for Plan Vivo on the voluntary carbon market 🌱 Plan Vivo , a s ([source](https://www.linkedin.com/company/zeromission-ab/#post-9de7ac65cb33))
 - **2026-08-14** — news mention: ZeroMission AB: 🌍 Historiskt genombrott för klimatfinansiering då ZeroMission var på plats i Zürich  ([source](https://www.linkedin.com/company/zeromission-ab/#post-22104a233d8f))
 - **2026-05-01** — refresh: coresignal, screenshot

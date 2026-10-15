@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes forest residues (~58,000 t/yr) into biochar using Airex Energy's CarbonFX and DryFX pyrolysis technology for carbon sequestration and soil amendment."
 url: "/directory/carbonity/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://carbonity.ca/" target="_blank" rel="noopener">https://carbonity.ca/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonity/" target="_blank" rel="noopener">carbonity — 99 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~5</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,9 @@ Carbonity is a joint venture equally owned by Airex Energy, Groupe Rémabec, and
 
 ## History
 
+- **2026-10-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://airex-energy.com/carbonity-plant/))
+- **2026-10-12** — news mention: Biochar Market Size, Share, Trends, Competitive Landscape, Regional Analysis and Forecast 2026–2035 ([source](https://www.marketbusinessinsights.com/biochar-market))
+- **2026-10-08** — news mention: Biochar Fertilizer Market to Reach USD 8.9 Billion by 2036, Australia - CAGR 17.0%, UK - CAGR 16.7%, ([source](https://www.openpr.com/news/4655430/biochar-fertilizer-market-to-reach-usd-8-9-billion-by-2036))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-22** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://airex-energy.com/carbonity-plant/))
 - **2026-05-01** — refresh: screenshot

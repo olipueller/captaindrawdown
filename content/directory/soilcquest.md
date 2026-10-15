@@ -14,9 +14,9 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://www.soilcquest.org.au/" target="_blank" rel="noopener">https://www.soilcquest.org.au/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/soilcquest/" target="_blank" rel="noopener">soilcquest — 1,359 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/soilcquest/" target="_blank" rel="noopener">soilcquest — 1,550 followers</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Employees</th><td>~5 (-17% YoY)</td></tr>
+  <tr><th>Employees</th><td>~4 (-20% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ SoilCQuest 2031 is an Australian not-for-profit research institute founded in 20
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot

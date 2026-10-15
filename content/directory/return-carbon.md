@@ -31,6 +31,7 @@ Return Carbon B.V. is a Dutch CDR project developer that integrates capture tech
 
 ## History
 
+- **2026-09-29** — news mention: Cotierra raises $3M to scale decentralised biochar across tropical agriculture - Tech.eu ([source](https://tech.eu/2026/09/29/cotierra-raises-3m-to-scale-decentralised-biochar-across-tropical-agriculture))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-07** — news mention: Return Carbon: Return Carbon and the Permian Energy Development Lab (PEDL) just announced the Trinit ([source](https://www.linkedin.com/company/returncarbon/#post-99a9453e1574))
 - **2026-07-25** — news mention: Return Carbon: Return Carbon and the Permian Energy Development Lab (PEDL) just announced the Trinit ([source](https://www.linkedin.com/company/returncarbon/#post-b9592e58e12f))

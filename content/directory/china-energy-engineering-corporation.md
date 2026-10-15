@@ -30,6 +30,7 @@ China Energy Engineering Corporation (CEEC) is the developer of "CarbonBox", des
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness=🟢 Active ([source](http://en.sasac.gov.cn/2024/08/01/c_17582.htm))

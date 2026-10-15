@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Colombia</td></tr>
   <tr><th>Website</th><td><a href="https://www.cercarbono.com/" target="_blank" rel="noopener">https://www.cercarbono.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cercarbono/" target="_blank" rel="noopener">cercarbono — 9,077 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cercarbono/" target="_blank" rel="noopener">cercarbono — 9,861 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~14 (0% YoY)</td></tr>
+  <tr><th>Employees</th><td>~15 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,6 +31,8 @@ Cercarbono is a voluntary carbon certification standard established in Colombia 
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-09-17** — news mention: Cercarbono: ð Cercarbono has opened for public consultation the Nature Integrity Methodology for  ([source](https://www.linkedin.com/company/cercarbono/#post-233ddf36493f))
 - **2026-08-06** — news mention: Puro.earth's CORC issuance jumped over 60% year-on-year. Its retirement buyer base is 4.7x what it w ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3msfblziy5b2y))
 - **2026-08-05** — news mention: Cercarbono: Cercarbono Achieves The Integrity Council for the Voluntary Carbon Market (ICVCM) CCP-El ([source](https://www.linkedin.com/company/cercarbono/#post-6e1a6b01fbcc))
 - **2026-08-04** — news mention: ICVCM Clears BioCarbon Standard, Cercarbono, And Plan Vivo, Pushing CCP Coverage Past 95% ([source](https://carbonherald.com/icvcm-clears-biocarbon-standard-cercarbono-and-plan-vivo-pushing-ccp-coverage-past-95/?utm_source=rss&utm_medium=rss&utm_campaign=icvcm-clears-biocarbon-standard-cercarbono-and-plan-vivo-pushing-ccp-coverage-past-95))

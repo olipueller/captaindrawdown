@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.cdrjobs.earth" target="_blank" rel="noopener">https://www.cdrjobs.earth</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cdrjobs/" target="_blank" rel="noopener">cdrjobs — 8,838 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cdrjobs/" target="_blank" rel="noopener">cdrjobs — 9,925 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~7</td></tr>
+  <tr><th>Employees</th><td>~7 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ CDRjobs is a dedicated jobs board and industry-insights platform for the carbon 
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-09-10** — news mention: CDRjobs: We're excited to announce our partnership with atmosfair gGmbH This marks Atmosfair's first ([source](https://www.linkedin.com/company/cdrjobs/#post-cb9a19e874cc))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-06** — news mention: CDRjobs: Today, we’re excited to announce that the European Innovation Council has selected Paebbl f ([source](https://www.linkedin.com/company/cdrjobs/#post-4ecf1d949537))

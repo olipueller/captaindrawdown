@@ -17,7 +17,7 @@ liveliness: "🟢 Active"
   <tr><th>Website</th><td><a href="https://catch23.se/" target="_blank" rel="noopener">https://catch23.se/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/catch-23se/" target="_blank" rel="noopener">catch-23se — 80 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~7 (+40% YoY)</td></tr>
+  <tr><th>Employees</th><td>~7 (+17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,6 +31,8 @@ Catch 23 AB is a Swedish reseller/broker of carbon removal certificates (CRCs), 
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-04** — news mention: Catch 23: Historic day for carbon removals in Europe! The European Commission today proposed integra ([source](https://www.linkedin.com/company/catch-23se/#post-54c56eac8ff8))
 - **2026-09-02** — news mention: Catch 23: Historic day for carbon removals in Europe! The European Commission today proposed integra ([source](https://www.linkedin.com/company/catch-23se/#post-d1f013eec339))
 - **2026-07-26** — news mention: Catch 23: Historic day for carbon removals in Europe! The European Commission today proposed integra ([source](https://www.linkedin.com/company/catch-23se/#post-1e035614cb2b))
 - **2026-05-01** — refresh: coresignal, screenshot

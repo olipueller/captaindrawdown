@@ -30,6 +30,8 @@ Wongphai Co., Ltd. is a community-driven initiative in rural Thailand that promo
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
+- **2026-10-07** — news mention: Wongphai Co.,Ltd: Third-party carbon ratings help credit buyers decide which projects to fund or not ([source](https://www.linkedin.com/company/wongphai/#post-2b42461a2a19))
 - **2026-09-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-31** — news mention: Wongphai Co.,Ltd: Third-party carbon ratings help credit buyers decide which projects to fund or not ([source](https://www.linkedin.com/company/wongphai/#post-48623b1a7665))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate

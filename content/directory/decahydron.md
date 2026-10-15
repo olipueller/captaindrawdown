@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Ireland</td></tr>
   <tr><th>Website</th><td><a href="https://www.decahydron.com/" target="_blank" rel="noopener">https://www.decahydron.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/decahydron/" target="_blank" rel="noopener">decahydron — 1,374 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/decahydron/" target="_blank" rel="noopener">decahydron — 1,492 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~3 (-40% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
@@ -31,6 +31,7 @@ Decahydron is an Irish startup developing an integrated natural hydrogen extract
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-08** — news mention: Decahydron: Natural Hydrogen in Ophiolitic Settings Four publications this week converge on a single ([source](https://www.linkedin.com/company/decahydron/#post-c3ecbafa9c5b))
 - **2026-08-08** — news mention: Decahydron: This Week in Natural Hydrogen Research (W09) New research from the Oman Ophiolite is she ([source](https://www.linkedin.com/company/decahydron/#post-874f667b3974))

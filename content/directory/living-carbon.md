@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Ocean-based CDR</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.livingcarbon.com/" target="_blank" rel="noopener">https://www.livingcarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/living-carbon/" target="_blank" rel="noopener">living-carbon — 15,209 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/living-carbon/" target="_blank" rel="noopener">living-carbon — 17,646 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~35 (-5% YoY)</td></tr>
+  <tr><th>Employees</th><td>~38 (+9% YoY)</td></tr>
   <tr><th>Open roles</th><td>5 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric</td></tr>
@@ -43,6 +43,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-09-02** — news mention: Living Carbon: We're excited to share that Octopus Energy Generation is backing Living Carbon with $ ([source](https://www.linkedin.com/company/living-carbon/#post-af1bbd7008c5))
 - **2026-08-10** — news mention: Flux: Isometric has reached a major milestone—signing our 100th carbon removal supplier, Flux . Over ([source](https://www.linkedin.com/company/flux-earth/#post-a3091f3c0857))
 - **2026-07-29** — news mention: Living Carbon: Three of the world's most influential companies became Living Carbon customers last w ([source](https://www.linkedin.com/company/living-carbon/#post-b1f27fd3ee6c))

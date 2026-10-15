@@ -45,6 +45,12 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-15** — refresh: coresignal
+- **2026-10-15** — refresh: coresignal
+- **2026-10-13** — news mention: #etsneedsremovals #carbonremoval #euets #enhancedrockweathering | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:share:7515414895379755008/))
+- **2026-10-12** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-5e4eb86cc6d0))
+- **2026-09-26** — news mention: #climateweeknyc #cdr #carbonremoval #durablecdr #latinamerica #climateaction | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7509217155230511104/))
+- **2026-09-22** — news mention: Terrasols: Data transparency is growing in ERW — and that's worth celebrating! Today we're announcin ([source](https://www.linkedin.com/company/terrasols/#post-79f5f4af12aa))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-06** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-f4c001caa2fd))
 - **2026-09-06** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/frontierclimate/#post-f4c001caa2fd))
@@ -69,12 +75,6 @@ Independently verified by carbon-credit registries:
 - **2026-07-25** — news mention: Terrasols: Data transparency is growing in ERW — and that's worth celebrating! Today we're announcin ([source](https://www.linkedin.com/company/greenlife-sustainability/#post-79f5f4af12aa))
 - **2026-07-25** — news mention: 350solutions: March was a crazy month for Enhanced Rock Weathering ( #ERW )! The 350 team was busy w ([source](https://www.linkedin.com/company/350solutions/#post-4a43938f1559))
 - **2026-07-25** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-ffa67cc8d2be))
-- **2026-07-24** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/frontierclimate/#post-38d7c2844441))
-- **2026-07-22** — news mention: Cascade Climate: A year ago, we placed a bet: that shared ERW deployment data — not data locked insi ([source](https://www.linkedin.com/company/cascade-climate/#post-f3f65fcc7aa0))
-- **2026-07-22** — news mention: Charm Industrial: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/charm-industrial/#post-3120c3c1e69a))
-- **2026-07-21** — news mention: InPlanet joins the Negative Emissions Platform ([source](https://www.negative-emissions.org/updates/inplanet-joins-the-negative-emissions-platform))
-- **2026-07-16** — news mention: German Federal Foreign Minister&amp;#39;s visit to Brazil | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7483476897696387072/))
-- **2026-07-15** — refresh: coresignal
 
 ---
 

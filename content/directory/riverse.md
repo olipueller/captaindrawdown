@@ -14,7 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.riverse.io/" target="_blank" rel="noopener">https://www.riverse.io/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/riversetech/" target="_blank" rel="noopener">riversetech — 147 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~125 (+75% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -28,6 +30,7 @@ Riverse (rebranded as Rainbow Standard in 2025) is a French carbon credit certif
 
 ## History
 
+- **2026-10-15** — refresh: coresignal
 - **2026-09-15** — refresh: screenshot
 - **2026-09-03** — news mention: Sanbra Foods: A quick look at the EcoFix Kenya Ltd (EFK) biochar facility as commissioning is offici ([source](https://www.linkedin.com/company/sanbrafoods/#post-f788c2bc9d89))
 - **2026-08-28** — news mention: Terra Preta (Cotierra): Big milestone for the team! We’ve officially delivered our first 1,200 tCO₂e ([source](https://www.linkedin.com/company/terra-preta-carbon/#post-9a60c45d1c2c))

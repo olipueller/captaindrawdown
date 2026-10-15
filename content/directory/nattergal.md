@@ -5,7 +5,7 @@ type: "directory"
 description: "Acquires degraded farmland and uses process-led rewilding (scrub, grassland, wetland mosaic habitats, natural regeneration) to sequester carbon in soils and biomass, selling credits under the Wilder"
 url: "/directory/nattergal/"
 pathway: "Afforestation"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,9 @@ liveliness: "🟡 Moderate"
   <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://nattergal.co.uk" target="_blank" rel="noopener">https://nattergal.co.uk</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nattergal/" target="_blank" rel="noopener">nattergal — 9,887 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~28</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -28,6 +30,10 @@ Nattergal is a UK private nature recovery company founded in 2021 that acquires 
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, liveliness
+- **2026-10-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-09-22** — news mention: In 2024, Arup invested £1 million in a UK wildland project. Its funding supported restoration across ([source](https://www.inkl.com/news/in-2024-arup-invested-ps1-million-in-a-uk-wildland-project-its-funding-supported-restoration-across-71-24-hectares-and-secured-10-000-tonnes-of-carbon-removal-credits))
+- **2026-09-22** — news mention: sustainable development: In 2024, Arup invested £1 million in a UK wildland project. Its funding sup ([source](https://economictimes.indiatimes.com/news/international/us/in-2024-arup-invested-1-million-in-a-uk-wildland-project-its-funding-supported-restoration-across-71-24-hectares-and-secured-10000-tonnes-of-carbon-removal-credits/articleshow/134416041.cms))
 - **2026-09-15** — refresh: screenshot, liveliness
 - **2026-09-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-06-15** — refresh: liveliness

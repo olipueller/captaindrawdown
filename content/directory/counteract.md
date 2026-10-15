@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://counteract.vc/" target="_blank" rel="noopener">https://counteract.vc/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/wecounteract/" target="_blank" rel="noopener">wecounteract — 3,993 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/wecounteract/" target="_blank" rel="noopener">wecounteract — 4,338 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~9 (-10% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -30,6 +30,8 @@ Counteract is a London-based venture capital fund dedicated exclusively to carbo
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-14** — news mention: Agenda - Carbon Forward Expo London 2026 - Carbon Forward ([source](https://carbon-forward.com/agenda-carbon-forward-expo-london-2026/))
 - **2026-08-28** — news mention: Counteract: We're delighted to officially announce our investment in Mafix ! If you spoke to us a ye ([source](https://www.linkedin.com/company/wecounteract/#post-7c2c9bcfb925))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-13** — news mention: Cella Mineral Storage: Frontier has facilitated $3.05M of carbon removal prepurchases from PRONOE (F ([source](https://www.linkedin.com/company/cellamineral/#post-03e89769440b))

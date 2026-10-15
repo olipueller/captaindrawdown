@@ -29,6 +29,22 @@ Verra is a Washington, DC-based nonprofit that operates the Verified Carbon Stan
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
+- **2026-10-14** — news mention: Euro Markets: Midday Update « Carbon Pulse ([source](https://archive.li/Ymo5Q))
+- **2026-10-14** — news mention: Verra: 💡 Public consultation ends soon! Share your feedback on the draft Module for Post-Combustion  ([source](https://www.linkedin.com/company/verrastandards/#post-d792b825bfc5))
+- **2026-10-13** — news mention: CarbonConnect: 5,000+ tonnes of CO₂. Back in the soil, not the air. That’s what CarbonConnect’s bioc ([source](https://www.linkedin.com/company/hempconnecthamburg/#post-ff50139f4b74))
+- **2026-10-12** — news mention: Carbon Farming Market Size, Trends & Forecast, 2026-2033 ([source](https://www.coherentmarketinsights.com/industry-reports/carbon-farming-market))
+- **2026-10-10** — news mention: #soilcarbon #carbonmarkets #vm0042 #brazil #mrv | Happy Ground ([source](https://www.linkedin.com/feed/update/urn:li:share:7514595804515368960/))
+- **2026-10-09** — news mention: Seqana: 🌾 Verra has launched its new Scope 3 Standard (S3S), and VM0042 is one of the first two meth ([source](https://www.linkedin.com/company/cquest-ai/#post-8815aa43f62a))
+- **2026-10-09** — news mention: Social Carbon: 🏆 SOCIALCARBON ranks highest in independent assessment of environmental and social sa ([source](https://www.linkedin.com/company/social-carbon/#post-8af271b899cc))
+- **2026-10-07** — news mention: Sylvera: Our Q3 2026 carbon market data 📊 🟢 Retirements fell 9% YoY to 30.6M, but market value rose  ([source](https://www.linkedin.com/company/sylveracarbon/#post-5c381b2ea635))
+- **2026-10-06** — news mention: Verra Launches Scope 3 Standard Program: What Companies Can Do Now—and What Comes Next - Climate Cha ([source](https://www.mondaq.com/unitedstates/climate-change/1851252/verra-launches-scope-3-standard-program-what-companies-can-do-nowand-what-comes-next))
+- **2026-10-01** — news mention: Groundwork BioAg: Climate Week NYC, wrapped. The goal was simple: sell Rootella Carbon credits. Hone ([source](https://www.linkedin.com/company/groundwork-bioagriculture/#post-8c8a694a8787))
+- **2026-09-30** — news mention: Verra CCS Methodology Gets ICVCM Approval as Carbon Removal Market Grows • Carbon Credits ([source](https://carboncredits.com/verra-ccs-methodology-gets-icvcm-approval-as-carbon-removal-market-grows/))
+- **2026-09-30** — news mention: Agoro Carbon Delivers Initial Soil Carbon Credits Under Microsoft Agreement ([source](https://globalaginvesting.com/agoro-carbon-delivers-initial-soil-carbon-credits-under-microsoft-agreement/))
+- **2026-09-25** — news mention: Arbonics: 183 corporate carbon removal deals between 2021 and 2025. US companies took 76% of the val ([source](https://www.linkedin.com/company/arbonics/#post-e2a40376c53d))
+- **2026-09-18** — news mention: Rainforest Builder: Rainforest Builder announces Project Buffalo's registration by Verra. This is Ra ([source](https://www.linkedin.com/company/rainforest-builder/#post-d0908cdd8cb5))
+- **2026-09-17** — news mention: Grow Indigo: Yesterday, Grow Indigo reached a major milestone: ððððð¶ð»ð´ ðð» ([source](https://www.linkedin.com/company/grow-indigo-pvt-ltd/#post-50ba17d376e9))
 - **2026-09-07** — news mention: Verra Wins Integrity Council Approval for VCS Version 5 Program Standards &#8211; Biochar Today ([source](https://biochartoday.com/news/verra-wins-integrity-council-approval-for-vcs-version-5-program-standards/?utm_source=bluesky&utm_medium=jetpack_social))
 - **2026-09-07** — news mention: AspiraDAC: Savanna fire management is going global. In less than a year, four major carbon framework ([source](https://www.linkedin.com/company/aspiradac/#post-ca7ec40215d1))
 - **2026-09-07** — news mention: Enable Earth: New Post: Enable Earth Establishes Industrial Biochar Operations in Thailand to Transf ([source](https://www.linkedin.com/company/enable-earth/#post-45dd63ec268c))
@@ -43,22 +59,6 @@ Verra is a Washington, DC-based nonprofit that operates the Verified Carbon Stan
 - **2026-08-26** — news mention: Verra Authorizes Artio Insurance Policy For VCS Durability Pilot ([source](https://carbonherald.com/verra-authorizes-artio-insurance-policy-for-vcs-durability-pilot/?utm_source=rss&utm_medium=rss&utm_campaign=verra-authorizes-artio-insurance-policy-for-vcs-durability-pilot))
 - **2026-08-25** — news mention: Verra: 🔢 Gold Standard and Verra have launched a new tool to help host countries report correspondin ([source](https://www.linkedin.com/company/verrastandards/#post-009dc314f731))
 - **2026-08-25** — news mention: Verra: ⚡ Verra has released updated versions (v1.1) of Verified Carbon Standard (VCS) methodology VM ([source](https://www.linkedin.com/company/verrastandards/#post-c05d1b9c00d5))
-- **2026-08-24** — news mention: AspiraDAC/Corporate Carbon: An Australian-pioneered approach to savanna fire management is gaining g ([source](https://www.linkedin.com/company/aspiradac/#post-2dddd0fa7b65))
-- **2026-08-20** — news mention: Gold Standard And Verra Launch Tool To Simplify Article 6.2 Carbon Reporting ([source](https://carbonherald.com/gold-standard-and-verra-launch-tool-to-simplify-article-6-2-carbon-reporting/?utm_source=rss&utm_medium=rss&utm_campaign=gold-standard-and-verra-launch-tool-to-simplify-article-6-2-carbon-reporting))
-- **2026-08-20** — news mention: Africa Carbon Partners: We’ve launched TungaMiti - a sustainable smallholder timber and tree crop tr ([source](https://www.linkedin.com/company/africa-carbon-partners/#post-536bafff25c1))
-- **2026-08-19** — news mention: CarbonMeld: Airlines could need more than 200 million eligible carbon credits for CORSIA's first pha ([source](https://www.linkedin.com/company/carbonmeld/#post-8acde5db1454))
-- **2026-08-18** — news mention: Verra: 🎊 Two more Verra methodologies have been approved by The Integrity Council for the Voluntary  ([source](https://www.linkedin.com/company/verrastandards/#post-8de779625624))
-- **2026-08-11** — news mention: Ecologi Action Ltd: 🗞️ New Greenprint Alert! Another busy fortnight with a new rulebook, new market  ([source](https://www.linkedin.com/company/offset-earth/#post-938231a83929))
-- **2026-08-11** — news mention: Verra: 💡 Experts wanted to review a proposed major revision to VM0043, Verra's Verified Carbon Stand ([source](https://www.linkedin.com/company/verrastandards/#post-4f2a0064e8c8))
-- **2026-08-11** — news mention: Verra: 💡 Verra seeks independent experts to review a proposed major revision to Verra's biochar meth ([source](https://www.linkedin.com/company/verrastandards/#post-3b32162d4111))
-- **2026-08-08** — news mention: Community Climate Solutions: ⏰ There's still time to register!    Join us next Tuesday for a panel d ([source](https://www.linkedin.com/company/communityclimatesolutions/#post-77573405bc0e))
-- **2026-08-07** — news mention: Brazil's Mombak Delivers Amazon Carbon Credits Early, Giving Google a Climate Win ([source](https://carboncredits.com/brazils-mombak-delivers-amazon-carbon-credits-early-giving-google-a-climate-win/))
-- **2026-08-04** — news mention: Verra: Two more weeks to share your feedback! Verra has opened a public consultation on a major revi ([source](https://www.linkedin.com/company/verrastandards/#post-9a8dce58fb96))
-- **2026-08-02** — news mention: Carbon Credit Market Trading Course — Free | Certificate in 7 Languages - Catch Wisdom ([source](https://catchwisdom.com/course/carbon-credit-market-trading))
-- **2026-07-31** — news mention: Carbon Limit: Weâre proud to share that we are officially registered on the Verra Standards. ð  ([source](https://www.linkedin.com/company/carbonlimit/#post-6bf37ba2d5f2))
-- **2026-07-31** — news mention: Native, A public benefit corporation: Native’s Northern Great Plains Regenerative Grazing Project re ([source](https://www.linkedin.com/company/nativeenergy-inc/#post-044a4a773656))
-- **2026-07-30** — news mention: Verra Launches Rebuilt Carbon Registry With S&P Global In Biggest Platform Upgrade In Its History ([source](https://carbonherald.com/verra-launches-rebuilt-carbon-registry-with-sp-global-in-biggest-platform-upgrade-in-its-history/?utm_source=rss&utm_medium=rss&utm_campaign=verra-launches-rebuilt-carbon-registry-with-sp-global-in-biggest-platform-upgrade-in-its-history))
-- **2026-07-30** — news mention: CarbonPool: BIG NEWS: We are Verra approved! CarbonPool is delighted to announce that Verra has appr ([source](https://www.linkedin.com/company/carbonpool/#post-e21c4a2a9c8f))
 
 ---
 

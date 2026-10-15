@@ -29,6 +29,7 @@ Verde Resources Inc. (OTCQB: VRDR) is a St. Louis-based sustainable infrastructu
 
 ## History
 
+- **2026-10-04** — news mention: Verde Resources Advances Engineered Biochar for Sustainable Infrastructure ([source](https://biochartoday.com/news/verde-resources-and-ergon-asphalt-emulsions-advance-environmental-technology-commercialization-through-strategic-collaboration/?utm_source=bluesky&utm_medium=jetpack_social))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-06** — news mention: Verde Resources: 🛣️ Verde Resources Inc. has partnered with HIGHWAY INTERNATIONAL PRIVATE LIMITED to ([source](https://www.linkedin.com/company/verde-resources-inc-vrdr-/#post-818e2dea546f))
 - **2026-09-01** — news mention: Verde Resources and Highway International Sign Memorandum of Understanding to Advance Carbon-Sequest ([source](https://biochartoday.com/news/verde-resources-and-highway-international-sign-memorandum-of-understanding-to-advance-carbon-sequestering-road-infrastructure-in-singapore/?utm_source=bluesky&utm_medium=jetpack_social))

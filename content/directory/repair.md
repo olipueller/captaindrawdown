@@ -30,6 +30,10 @@ Founded in 2020, RepAir Carbon develops an ultra-efficient electrochemical syste
 
 ## History
 
+- **2026-10-01** — news mention: RepAir: Our technology has been peer-reviewed in Nature Energy, published yesterday with the Univers ([source](https://www.linkedin.com/company/repair-carbon/#post-4a25ca326399))
+- **2026-09-25** — news mention: 「ネガティブエミッション技術市場規模、成長と動向分析レポート 2026-2033年」の市場調査レポート出版・販売開始のご案内 | 株式会社SEMABIZのプレスリリース ([source](https://www.dreamnews.jp/press/0000363578))
+- **2026-09-24** — news mention: Good news in terms of the scale-up of Direct Air Capture deployment:  RepAir Carbon published peer-r ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mwbhboxtyc2v))
+- **2026-09-24** — news mention: New Paper Shows RepAir’s Battery Design Could Enable Electrochemical DAC Below US$100 tCO2 ([source](https://carbonherald.com/new-paper-shows-repairs-battery-design-could-enable-electrochemical-dac-below-us100-tco2/?utm_source=rss&utm_medium=rss&utm_campaign=new-paper-shows-repairs-battery-design-could-enable-electrochemical-dac-below-us100-tco2))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-14** — news mention: Earth Repair Global: Our one-year-old eats mineral waste, stores COâ, and has a nameplate capacity ([source](https://www.linkedin.com/company/earth-repair/#post-fa14aaf407b9))
 - **2026-08-08** — news mention: Earth Repair Global: Our one-year-old eats mineral waste, stores CO₂, and has a nameplate capacity o ([source](https://www.linkedin.com/company/earth-repair/#post-05c7fec3bb5c))

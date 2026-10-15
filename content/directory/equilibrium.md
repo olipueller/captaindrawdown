@@ -44,6 +44,15 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-12** — news mention: Field evidence for rapid precipitation of non-crystalline secondary phases during enhanced rock weat ([source](https://doi.org/10.21203/rs.3.rs-10166427/v1))
+- **2026-10-12** — news mention: Climate actions effects on ressource sustainability in a carbon constrained world ([source](https://doi.org/10.23646/mpdd.wp2024-01-34))
+- **2026-10-12** — news mention: Autogenous Fluidic-Plasma Transmutation Module (A-FPTM): High-Throughput Atmospheric Carbon Cleavage ([source](https://doi.org/10.5281/zenodo.23220842))
+- **2026-10-12** — news mention: Alkalinity generation and trace metal dynamics during olivine-based marine enhanced rock weathering  ([source](https://doi.org/10.5194/egusphere-2026-5968))
+- **2026-10-12** — news mention: CO2 Sequestration Eciency within the Porous Matrix of Concrete - Advanced Physicochemical, Transport ([source](https://doi.org/10.5281/zenodo.23286155))
+- **2026-10-02** — news mention: In terms of scaling up CDR, the DAC company, 1PointFive has sold a little over 15,000 tonnes of carb ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mwvropr2g22a))
+- **2026-09-30** — news mention: Grounding the Genuine Progress Indicator in Exergy: A First-Principles Physical Accounting Framework ([source](https://doi.org/10.5281/zenodo.22971365))
+- **2026-09-25** — news mention: Carbon Removal India Alliance: ð®ð³ Indiaâs Top Carbon Removal Suppliers ð®ð³ As durable c ([source](https://www.linkedin.com/company/cria-earth/#post-503ebe639179))
+- **2026-09-25** — news mention: Equilibrium: Two for two on the A's. Swiftgreen, developed with GreenCollar , has earned a Sylvera P ([source](https://www.linkedin.com/company/equilibrium-earth/#post-bee64d2443f6))
 - **2026-09-14** — news mention: Cattle continue emitting methane as long as they remain on the landscape, regardless of what alt gra ([source](https://bsky.app/profile/projectdrawdown.bsky.social/post/3mvigwatak22o))
 - **2026-09-12** — news mention: Asymmetry in carbon cycle feedbacks and transient climate response under positive and negative CO 2  ([source](https://doi.org/10.5194/bg-23-6211-2026))
 - **2026-09-07** — news mention: This Bengaluru VC Left Investing To Help 27000 Farmers Earn From Restoring Their Land ([source](https://thebetterindia.com/sustainability/carbon-removal-india-equilibrium-biochar-farmers-carbon-credits-12479077))
@@ -65,15 +74,6 @@ Independently verified by carbon-credit registries:
 - **2026-07-19** — news mention: Aqueous matrix and limiting factors in steel slag carbonation under elevated CO2 at ambient conditio ([source](https://doi.org/10.1038/s44296-026-00116-9))
 - **2026-06-06** — news mention: This Week in CDR - June 5, 2026 | CDR.fyi ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7468696518095663104/))
 - **2026-06-05** — news mention: Equilibrium Secures Major Biochar Deal for Climate Action in India ([source](https://biochartoday.com/news/equilibrium-and-altitude-sign-multi-year-offtake-agreement-to-scale-biochar-carbon-removal-infrastructure-in-india/))
-- **2026-06-05** — news mention: Altitude partners with Equilibrium for a Long-Term Bet on India: A Landmark 180,000t CDR Offtake ([source](https://www.altitudecarbon.com/news/altitude-partners-with-equilibrium-for-a-long-term-bet-on-india-a-landmark-180-000t-cdr-offtake))
-- **2026-06-04** — news mention: India-Based Equilibrium Inks New Biochar Deal With Altitude ([source](https://carbonherald.com/india-based-equilibrium-inks-new-biochar-deal-with-altitude/?utm_source=rss&utm_medium=rss&utm_campaign=india-based-equilibrium-inks-new-biochar-deal-with-altitude))
-- **2026-05-13** — news mention: Sustained Neutralization of the Warming Response to Emissions through a Portfolio of GHG Mitigation  ([source](https://cdrxiv.org/preprint/521))
-- **2026-05-11** — news mention: EU Consultation Reveals Divisions Over Carbon Credits And 2040 Climate Goals  EU consultation on the ([source](https://x.com/CaptainDrawdown/status/2053736345441357895))
-- **2026-05-11** — news mention: Take: The Future of Marine CDR: Scaling Ocean Alkalinity Enhancement with Planetary ([source](https://captaindrawdown.com/posts/yt-take-the-future-of-marine-cdr-scaling-ocean-alkalinity-enhancemen-qpq2v2hr/))
-- **2026-05-11** — news mention: Four European CDR modeling papers landed on arXiv in one week. Read together, they expose that DACCS ([source](https://x.com/CaptainDrawdown/status/2053702362162766038))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://equilibriumearth.com/))
 
 ---
 

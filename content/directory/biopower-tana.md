@@ -13,7 +13,9 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Website</th><td><a href="https://biopowertana.no" target="_blank" rel="noopener">https://biopowertana.no</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biopower-tana/" target="_blank" rel="noopener">biopower-tana — 10 followers</a></td></tr>
   <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Employees</th><td>~2</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -27,6 +29,7 @@ Biopower Tana AS is a Norwegian biochar developer founded in 2020, based in Aust
 
 ## History
 
+- **2026-10-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
 - **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://biopowertana.no/wp-content/uploads/2024/11/Biopower-Tana-Final-English-Investor-presentation.pdf))

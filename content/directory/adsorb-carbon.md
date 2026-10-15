@@ -29,6 +29,7 @@ Adsorb is a South African manufacturer of activated carbon operating a plant in 
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
 - **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://adsorb.co.za/))
 - **2026-07-19** — news mention: Engineered Biochars Enhances Carbon Dioxide Adsorption while Augmenting Soil Carbon Storage and Crop ([source](https://doi.org/10.21203/rs.3.rs-10082624/v1))
 - **2026-05-01** — refresh: coresignal, screenshot

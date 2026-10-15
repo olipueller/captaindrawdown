@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://www.beetleregen.com/" target="_blank" rel="noopener">https://www.beetleregen.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/beetle-regen-solutions/" target="_blank" rel="noopener">beetle-regen-solutions — 3,271 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/beetle-regen-solutions/" target="_blank" rel="noopener">beetle-regen-solutions — 4,709 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~25 (+39% YoY)</td></tr>
+  <tr><th>Employees</th><td>~25 (+14% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +31,8 @@ Beetle Regen Solutions is an India-based regenerative agriculture startup founde
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-09-19** — news mention: Beetle Regen Solutions: Beetle Regen Solutions has partnered with IDH India and BESTSELLER on a new  ([source](https://www.linkedin.com/company/beetle-regen-solutions/#post-ef3208ce8351))
 - **2026-09-07** — news mention: Tapovanam Organic Farming Systems: Announcing Cohort 2 of our 🇮🇳 India CDR Startup #Accelerator Prog ([source](https://www.linkedin.com/company/tapovanam-organic-farming-systems-sustainable-business-regenerative-agriculture/#post-965deb7d47d8))
 - **2026-09-07** — news mention: Engrow: Announcing Cohort 2 of our ð®ð³ India CDR Startup #Accelerator Program ð We continued ([source](https://www.linkedin.com/company/engrow-group/#post-bca5e13d4f54))
 - **2026-08-02** — news mention: Engrow: Announcing Cohort 2 of our 🇮🇳 India CDR Startup #Accelerator Program 🌟 We continued to be ov ([source](https://www.linkedin.com/company/engrow-group/#post-58e84bdaa764))

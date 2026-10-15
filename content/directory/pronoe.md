@@ -31,6 +31,8 @@ Pronoe is a Paris-based ocean CDR startup developing electrochemical ocean alkal
 
 ## History
 
+- **2026-10-03** — news mention: Pronoe: ### BREAKING NEWS ### PRONOE is thrilled to announce the signing of a catalytic, Salesforce  ([source](https://www.linkedin.com/company/pronoe-earth/#post-bd31ecf5a1ed))
+- **2026-10-01** — news mention: Milkywire: 🌍 Milkywire has completed eight Salesforce-backed pre-purchases, securing 3,661 tonnes of ([source](https://www.linkedin.com/company/milkywire/#post-08426181283f))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-21** — news mention: Cella: Grateful to Frontier , Stripe , Shopify , and Google for continued confidence in Cella and ou ([source](https://www.linkedin.com/company/cellamineral/#post-b9033b290e5b))
 - **2026-08-13** — news mention: Cella Mineral Storage: Frontier has facilitated $3.05M of carbon removal prepurchases from PRONOE (F ([source](https://www.linkedin.com/company/cellamineral/#post-03e89769440b))

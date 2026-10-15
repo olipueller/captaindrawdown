@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.rainforestbuilder.com" target="_blank" rel="noopener">https://www.rainforestbuilder.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rainforest-builder/" target="_blank" rel="noopener">rainforest-builder — 6,791 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~111 (+127% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,8 @@ Founded in 2022, Rainforest Builder is a fully integrated tropical forest restor
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
+- **2026-09-18** — news mention: Rainforest Builder: Rainforest Builder announces Project Buffalo's registration by Verra. This is Ra ([source](https://www.linkedin.com/company/rainforest-builder/#post-d0908cdd8cb5))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot

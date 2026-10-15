@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://climeworks.com/" target="_blank" rel="noopener">https://climeworks.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/climeworks/" target="_blank" rel="noopener">climeworks — 119,426 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/climeworks/" target="_blank" rel="noopener">climeworks — 119,784 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~398 (-16% YoY)</td></tr>
+  <tr><th>Employees</th><td>~396 (-17% YoY)</td></tr>
   <tr><th>Open roles</th><td>12 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -35,7 +35,7 @@ Swiss pioneer of solid-sorbent Direct Air Capture, operating the Orca (4,000 t/y
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 1 project · Geologically stored carbon · crediting period 2023-12-01 → 2028-11-30 (active) &nbsp;[↗](https://my.puro.earth/CORC-co2-removal-certificate/supplier-listing/orca-plant-97)
+- 1 project · Geologically stored carbon, 2021 · crediting period 2023-12-01 → 2028-11-30 (active) &nbsp;[↗](https://my.puro.earth/CORC-co2-removal-certificate/supplier-listing/orca-plant-97)
 - 1 project · Geologically stored carbon, 2024 · crediting period 2024-06-01 → 2029-05-31 (active) &nbsp;[↗](https://my.puro.earth/CORC-co2-removal-certificate/supplier-listing/mammoth-117)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
@@ -47,36 +47,36 @@ Independently verified by carbon-credit registries:
 
 ## History
 
-- **2026-09-15** — refresh: coresignal, screenshot
-- **2026-09-13** — news mention: Climeworks doubles CO2 capture at its Mammoth plant ([source](https://www.winssolutions.org/climeworks-mammoth-direct-air-capture-upgrade/))
-- **2026-09-12** — news mention: #gastech #climatetech #climeworks | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:share:7504074486627962880/))
-- **2026-09-11** — news mention: Climeworks Doubles CO2 Capture at Mammoth DAC Plant - ESG News ([source](https://esgnews.com/climeworks-doubles-co2-capture-at-mammoth-dac-plant/))
-- **2026-09-11** — news mention: Bad news for the anti-CDR activists as direct air capture (DAC) trailblazer Climeworks has unlocked  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mvapxmnl3c2n))
-- **2026-09-11** — news mention: Climeworks Hits New DAC Milestone, Achieving Major CO2 Capture Increase At Lower Costs ([source](https://carbonherald.com/climeworks-hits-new-dac-milestone-achieving-major-co2-capture-increase-at-lower-costs/?utm_source=rss&utm_medium=rss&utm_campaign=climeworks-hits-new-dac-milestone-achieving-major-co2-capture-increase-at-lower-costs))
-- **2026-09-10** — news mention: Carbon removal pioneer climeworks increases CO2 capture sixfold ([source](https://www.luxtimes.lu/world/carbon-removal-pioneer-climeworks-increases-co2-capture-sixfold/161234563.html))
-- **2026-09-09** — news mention: #climateweeknyc #climeworks #netzero #carbonremoval | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7503087657711820803/))
-- **2026-09-05** — news mention: Sucking Carbon Out of Thin Air - by Ritchie Cunningham ([source](https://ritchiecunninghams.substack.com/p/sucking-carbon-out-of-thin-air))
-- **2026-08-26** — news mention: Orca plant - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/orca-plant/))
-- **2026-08-26** — news mention: In A New Whitepaper, Climeworks Solutions Calls For CDR Integration In AI Infrastructure ([source](https://carbonherald.com/in-a-new-whitepaper-climeworks-solutions-calls-for-cdr-integration-in-ai-infrastructure/?utm_source=rss&utm_medium=rss&utm_campaign=in-a-new-whitepaper-climeworks-solutions-calls-for-cdr-integration-in-ai-infrastructure))
-- **2026-08-25** — news mention: Climeworks Highlights Role at Carbon Capture Canada 2026 - TipRanks.com ([source](https://www.tipranks.com/news/private-companies/climeworks-highlights-role-at-carbon-capture-canada-2026))
-- **2026-08-25** — news mention: Climeworks - 2026 Funding Rounds & List of Investors - Tracxn ([source](https://tracxn.com/d/companies/climeworks/__U0QAM7Cwl2rgm8khUjYFVsH4tRzLUGmGb8V-FNRTfbc/funding-and-investors))
-- **2026-08-24** — news mention: #carboncapturecanada #ccc26 #event #climeworks | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7497566319811182592/))
-- **2026-08-24** — news mention: Biochar Earth: ðð¶ð¼ð°ðµð®ð¿ ðµð®ð ðµðð´ð² ð½ð¼ðð²ð»ðð ([source](https://www.linkedin.com/company/biochar-earth/#post-5820bb92b1a5))
-- **2026-08-22** — news mention: Carbon Removal Challenge - Project Assessment | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7496484235885670400/))
-- **2026-08-19** — news mention: Puro: "At last year's count, China had two registered suppliers on the Puro Standard. Today it has 1 ([source](https://www.linkedin.com/company/puro-co2-removal-marketplace/#post-f5f87a8ac525))
-- **2026-08-18** — news mention: Climeworks Solutions: A major milestone for MOMBAK and for carbon removal in the Amazon. We're pleas ([source](https://www.linkedin.com/company/climeworks/#post-cda408e21cf7))
-- **2026-08-17** — news mention: Megatrends One Year Later – #9: Climate-Positive Technologies – What I Predicted, and What’s Actuall ([source](https://jimcarroll.com/2026/08/megatrends-one-year-later-9-climate-positive-technologies/))
-- **2026-08-15** — news mention: Tellus: Tellus is pleased to partner with Climeworks, a global leader in high-integrity carbon remov ([source](https://www.linkedin.com/company/tellusbiocarbon/#post-d845015f5c01))
-- **2026-08-15** — refresh: coresignal
-- **2026-08-11** — news mention: Climeworks: A major milestone for MOMBAK and for carbon removal in the Amazon. We're pleased to be a ([source](https://www.linkedin.com/company/climeworks/#post-4d9b992c997b))
-- **2026-08-07** — news mention: Mombak delivers Amazon carbon credits two years early ([source](https://www.winssolutions.org/mombak-amazon-reforestation-carbon-credits/))
-- **2026-08-06** — news mention: Carbon Removal Challenge #1 - Carbon Removal Basics | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7490672679184748544/))
-- **2026-08-05** — news mention: Top 10 Leading Carbon Capture Companies in 2026 ([source](https://carbelim.io/top-10-carbon-capture-companies/))
-- **2026-07-30** — news mention: New offering: Climeworks expands proposition to help organisations meet regulations ([source](https://greenretail.world/2026/07/27/new-offering-climeworks-expands-proposition-to-help-organisations-meet-regulations/))
-- **2026-07-29** — news mention: The carbon portfolio is a balancing act - Ecosystem Marketplace ([source](https://www.ecosystemmarketplace.com/articles/the-carbon-portfolio-is-a-balancing-act/))
-- **2026-07-29** — news mention: Climeworks expands carbon removal services as compliance markets reshape global climate finance and  ([source](https://africasustainabilitymatters.com/climeworks-expands-carbon-removal-services-as-compliance-markets-reshape-global-climate-finance-and-create-new-opportunities-for-africa/))
-- **2026-07-29** — news mention: Mission Zero Technologies: Huge congratulations to our PhD alumni, Shiladitya Ghosh and Jasper Wong  ([source](https://www.linkedin.com/company/mission-zero/#post-c98522899895))
-- **2026-07-29** — news mention: CDR.fyi: ð° This week saw some key developments in durable CDR, as Inherit Carbon Solutions issued ([source](https://www.linkedin.com/company/cdr-fyi/#post-e608dbc98de9))
+- **2026-10-15** — refresh: coresignal
+- **2026-10-15** — refresh: coresignal
+- **2026-10-14** — news mention: Carbon removal has a role to play in the AI infrastructure boom ([source](https://esgpost.com/carbon-removal-has-a-role-to-play-in-the-ai-infrastructure-boom/))
+- **2026-10-13** — news mention: How Carbon Accounting Can Help Climate Tech Take Off ([source](https://climatecapitalstack.substack.com/p/how-carbon-accounting-can-help-climate))
+- **2026-10-13** — news mention: The Fan Machines - by Stefan Adolf - The Good Climate ([source](https://thegoodclimate.substack.com/p/the-fan-machines))
+- **2026-10-09** — news mention: UK Govt Invests $1M In Carbon Credits By Climeworks ([source](https://carbonherald.com/uk-govt-invests-1m-in-carbon-credits-by-climeworks/?utm_source=rss&utm_medium=rss&utm_campaign=uk-govt-invests-1m-in-carbon-credits-by-climeworks))
+- **2026-10-09** — news mention: Climate overshoot is here. Canada can build the industry that helps contain it | Canada's National O ([source](https://www.nationalobserver.com/2026/10/09/opinion/climate-overshoot-carbon-removal-tech))
+- **2026-10-08** — news mention: Carbon Business Council: Carbon removal buyers include everything from airlines to appliance makers, ([source](https://www.linkedin.com/company/carbonbusinesscouncil/#post-d91caa0c8e1f))
+- **2026-10-08** — news mention: CDR.fyi: 🚨 September soars with 1M tonnes contracted 📈 Following a relatively slow August (128Kt), S ([source](https://www.linkedin.com/company/cdr-fyi/#post-e181fd75f501))
+- **2026-10-07** — news mention: A Climeworks és a DAC technológia - GREENOLOGY ([source](https://www.greenology.hu/2026/10/06/a-climeworks-es-a-dac-technologia/))
+- **2026-10-07** — news mention: Best Carbon Credit Platforms and Providers for Companies in 2026 ([source](https://www.senken.io/blog/12-leading-carbon-credit-providers-in-2026-a-selection-guide-for-companies))
+- **2026-10-06** — news mention: Best carbon offset providers for UK businesses: six starting points ([source](https://theplanetbrief.com/carbon/best-carbon-offset-providers-uk/))
+- **2026-10-02** — news mention: Episode 33: Helin Cox (Climeworks) - A CTO&#x27;s Guide to Scaling First-of-a-Kind Technology | Scal ([source](https://www.adopter.net/podcast/episode-33-helin-cox-a-ctos-guide-to-scaling-first-of-a-kind-technology))
+- **2026-09-30** — news mention: #climateweeknyc #carbonremoval #netzero #climeworks | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7510668733732986880/))
+- **2026-09-29** — news mention: Climeworks wins £784,000 UK govt. carbon credit tender ([source](https://www.qcintel.com/carbon/article/climeworks-wins-784-000-uk-govt-carbon-credit-tender-73983.html))
+- **2026-09-28** — news mention: Japan Airlines Cuts CO₂ to 9.13M Tons, Expands Carbon Credit Strategy • Carbon Credits ([source](https://carboncredits.com/japan-airlines-cuts-co%e2%82%82-to-9-13m-tons-expands-carbon-credit-strategy/))
+- **2026-09-28** — news mention: Carbon Dioxide Removal Market Is Going to Boom |• Climeworks • Carbon Engineering • Global CCS Insti ([source](https://www.openpr.com/news/4645712/carbon-dioxide-removal-market-is-going-to-boom-climeworks))
+- **2026-09-25** — news mention: Nature and Energy ([source](https://climateldnont.substack.com/p/nature-and-energy))
+- **2026-09-25** — news mention: Phillips 66 Hydrogen 2025, 1 Ørsted Gigastack Project ([source](https://enkiai.com/phillips-66-offshore-wind-initiatives-for-2025-key-projects-strategies-and-partnerships/))
+- **2026-09-25** — news mention: 「ネガティブエミッション技術市場規模、成長と動向分析レポート 2026-2033年」の市場調査レポート出版・販売開始のご案内 | 株式会社SEMABIZのプレスリリース ([source](https://www.dreamnews.jp/press/0000363578))
+- **2026-09-24** — news mention: As climate risks move from sustainability reports to boardroom agendas, we&amp;#39;re keen to hear h ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7508526835446521856/))
+- **2026-09-23** — news mention: Navigating the Future: Climate Adaptation Market Size Valued at USD 33.65 Bn in 2025 and Projected t ([source](https://www.nsnheadlines.com/post/navigating-the-future-climate-adaptation-market-size-valued-at-usd-33-65-bn-in-2025-and-projected-t))
+- **2026-09-23** — news mention: Exxon Mobil Hydrogen 2025, $20 B Target and BASF Pivot ([source](https://enkiai.com/exxonmobil-hydrogen-initiatives-for-2025-key-projects-strategies-and-partnerships/))
+- **2026-09-23** — news mention: Climeworks: Today, Climeworks and Japan Airlines announce a landmark agreement to help advance the r ([source](https://www.linkedin.com/company/climeworks/#post-3b4367f4578e))
+- **2026-09-22** — news mention: Netherlands launches Europe's largest industrial carbon capture site to trap 800,000 tons a year ([source](https://www.thecooldown.com/green-tech/largest-industrial-carbon-capture-site-netherlands/))
+- **2026-09-22** — news mention: Netherlands launches Europe's largest industrial carbon capture site to trap 800,000 tons a year - E ([source](https://www.europesays.com/europe/144307/))
+- **2026-09-22** — news mention: Climeworks, Japan Airlines (JAL) Sign ‘First’ CORSIA-Compliant Carbon Removal Deal ([source](https://carboncredits.com/climeworks-jal-corsia-carbon-removal-deal/))
+- **2026-09-22** — news mention: 'The Future of CCS Can No Longer Be Assumed' (a supporter rethinks ...) - Master Resource ([source](https://www.masterresource.org/carbon-capture-and-storage-ccs/future-ccs-no-longer-be-assumed-supporter/))
+- **2026-09-21** — news mention: Japan Airlines Signs First CORSIA Carbon Removal Deal - ESG News ([source](https://esgnews.com/japan-airlines-signs-first-corsia-carbon-removal-deal/))
+- **2026-09-18** — news mention: CO2 Mineralization Market Expected to Grow at 10.1% CAGR During 2026-2032 Amid Rising Net-Zero Emiss ([source](https://www.openpr.com/news/4635752/co2-mineralization-market-expected-to-grow-at-10-1-cagr-during))
 
 ---
 

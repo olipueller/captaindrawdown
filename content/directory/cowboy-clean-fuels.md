@@ -31,6 +31,17 @@ Cowboy Clean Fuels is a Denver-headquartered climate-tech company spun out of th
 
 ## History
 
+- **2026-10-09** — news mention: Cowboy Clean Fuels Sells First CDR Credits | iGrowNews ([source](https://igrownews.com/cowboy-clean-fuels-latest-news/))
+- **2026-10-05** — news mention: Cowboy Clean Fuels: Milkywire has completed a new round of Salesforce-backed pre-purchases of durabl ([source](https://www.linkedin.com/company/cowboy-clean-fuels/#post-05a730c5a28a))
+- **2026-10-03** — news mention: Wyoming&#039;s Cowboy Clean Fuels Launches Carbon Removal Credits ([source](https://biochartoday.com/news/cowboy-clean-fuels-and-salesforce-complete-durable-carbon-removal-and-renewable-natural-gas-transaction/?utm_source=bluesky&utm_medium=jetpack_social))
+- **2026-10-02** — news mention: Chinese EV Makers Sell Carbon Credits to Porsche and Other Europe’s Auto Giants ([source](https://carboncredits.com/chinese-ev-makers-carbon-credits-europe-xpeng/))
+- **2026-10-02** — news mention: Cowboy Clean Fuels Sells First Durable Carbon Removal Credits in Salesforce-Backed Purchase ([source](https://carboncredits.com/cowboy-clean-fuels-durable-carbon-removal-salesforce/))
+- **2026-10-02** — news mention: Clean the Sky - Coalbed Carbon Removal Pathways ([source](https://www.cleanthesky.com/innovation/cowboy-clean-fuels-sells))
+- **2026-10-01** — news mention: Milkywire: 🌍 Milkywire has completed eight Salesforce-backed pre-purchases, securing 3,661 tonnes of ([source](https://www.linkedin.com/company/milkywire/#post-08426181283f))
+- **2026-09-30** — news mention: Salesforce Backed Deal Brings Cowboy Clean Fuels Into Carbon Removal Market - ESG News ([source](https://esgnews.com/salesforce-backed-deal-brings-cowboy-clean-fuels-into-carbon-removal-market/))
+- **2026-09-28** — news mention: Cowboy Clean Fuels Completes First CDR Credit Sale via Milkywire, Backed by Salesforce | KuCoin ([source](https://www.kucoin.com/news/flash/cowboy-clean-fuels-completes-first-cdr-credit-sale-via-milkywire-backed-by-salesforce))
+- **2026-09-28** — news mention: Cowboy Clean Fuels Sells First Durable Carbon Removal Credits in Salesforce-Backed Purchase Through  ([source](https://eng.pressbee.net/show4900222.html))
+- **2026-09-28** — news mention: Cowboy Clean Fuels Sells First Durable Carbon Removal Credits in Salesforce-Backed Purchase Through  ([source](https://www.prnewswire.com/news-releases/cowboy-clean-fuels-sells-first-durable-carbon-removal-credits-in-salesforce-backed-purchase-through-milkywire-302891004.html))
 - **2026-09-07** — news mention: C-Capsule: Weâre excited to support Cowboy Clean Fuels and Absolute Climate raising the bar for hi ([source](https://www.linkedin.com/company/c-capsule/#post-97784a80b61f))
 - **2026-08-30** — news mention: C-Capsule: Today, Absolute Climate, Cowboy Clean Fuels , and Evident announced a partnership to brin ([source](https://www.linkedin.com/company/c-capsule/#post-c510d507effe))
 - **2026-08-15** — refresh: coresignal
@@ -50,7 +61,6 @@ Cowboy Clean Fuels is a Denver-headquartered climate-tech company spun out of th
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://carbonherald.com/cowboy-clean-fuels-and-mangrove-systems-to-deploy-digital-mrv-in-groundbreaking-carbon-removal-projects/))
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://cowboycleanfuels.com/))
 - **2026-04-18** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://cowboycleanfuels.com/cdr/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

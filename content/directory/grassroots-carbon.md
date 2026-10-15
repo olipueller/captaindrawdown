@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Afforestation</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://grassrootscarbon.com" target="_blank" rel="noopener">https://grassrootscarbon.com</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/grassrootscarbon/" target="_blank" rel="noopener">grassrootscarbon — 5,061 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/grassrootscarbon/" target="_blank" rel="noopener">grassrootscarbon — 5,778 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~44</td></tr>
+  <tr><th>Employees</th><td>~49</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,10 @@ Grassroots Carbon is a San Antonio, Texas-based soil carbon removal company foun
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-10** — news mention: Grassroots Carbon: Isometric has certified the Grazing Lands Management Module, which supports proje ([source](https://www.linkedin.com/company/grassrootscarbon/#post-11c09f207f9b))
+- **2026-10-07** — news mention: Isometric Certifies Soil Carbon Module for 260 Million Hectares of U.S. Grazing Land - ESG News ([source](https://esgnews.com/isometric-certifies-soil-carbon-module-for-260-million-hectares-of-u-s-grazing-land/))
+- **2026-10-01** — news mention: Last week, Isometric brought together over 270 buyers, developers, investors and other leaders for a ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7511081317418180610/))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-13** — news mention: Grassroots Carbon: We're honored to be mentioned in Boeing 's 2026 Global Sustainability Report. Boe ([source](https://www.linkedin.com/company/grassrootscarbon/#post-67a2ab3824ca))
 - **2026-07-22** — news mention: Former Fair Trade USA Exec Joins Grassroots Carbon In New Value Chain Role ([source](https://carbonherald.com/former-fair-trade-usa-exec-joins-grassroots-carbon-in-new-value-chain-role/?utm_source=rss&utm_medium=rss&utm_campaign=former-fair-trade-usa-exec-joins-grassroots-carbon-in-new-value-chain-role))

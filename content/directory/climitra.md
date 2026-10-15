@@ -29,6 +29,8 @@ Climitra Carbon Private Limited is a Delhi-based biochar startup incorporated in
 
 ## History
 
+- **2026-10-05** — news mention: 30 Startups To Watch: Startups That Caught Our Eye In September 2026 - EUROPE SAYS ([source](https://www.europesays.com/3291411/))
+- **2026-10-01** — news mention: 30 Startups To Watch: Startups That Caught Our Eye In September 2026 ([source](https://inc42.com/startups/30-startups-to-watch-startups-that-caught-our-eye-in-september-2026/))
 - **2026-09-07** — news mention: Tapovanam Organic Farming Systems: Announcing Cohort 2 of our 🇮🇳 India CDR Startup #Accelerator Prog ([source](https://www.linkedin.com/company/tapovanam-organic-farming-systems-sustainable-business-regenerative-agriculture/#post-965deb7d47d8))
 - **2026-09-07** — news mention: Engrow: Announcing Cohort 2 of our ð®ð³ India CDR Startup #Accelerator Program ð We continued ([source](https://www.linkedin.com/company/engrow-group/#post-bca5e13d4f54))
 - **2026-09-03** — news mention: remove: Pre-purchase announcement: remove has signed a pre-purchase agreement with Climitra . At rem ([source](https://www.linkedin.com/company/cdr-accelerator/#post-2d4416384ee6))

@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Ocean-based CDR</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.submarine.earth" target="_blank" rel="noopener">https://www.submarine.earth</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/submarinemrv/" target="_blank" rel="noopener">submarinemrv — 522 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/submarinescientific/" target="_blank" rel="noopener">submarinescientific — 561 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~4 (+33% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
@@ -35,6 +35,8 @@ Submarine Scientific (now branded as "Submarine") is a marine consulting firm pr
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-09** — news mention: Carbon to Sea Initiative: Today, Submarine Scientific and Carbon to Sea are launching the OAE Data C ([source](https://www.linkedin.com/company/carbontosea/#post-574bea020646))
 - **2026-09-07** — news mention: Submarine Scientific: Ocean alkalinity enhancement could become a large-scale carbon removal pathway ([source](https://www.linkedin.com/company/submarinemrv/#post-025268f38004))
 - **2026-09-06** — news mention: [C]Worthy: Ocean alkalinity enhancement could become a large-scale carbon removal pathway. The quest ([source](https://www.linkedin.com/company/cworthy/#post-025268f38004))
 - **2026-09-06** — news mention: Frontier Climate: Ocean alkalinity enhancement could become a large-scale carbon removal pathway. Th ([source](https://www.linkedin.com/company/frontierclimate/#post-025268f38004))

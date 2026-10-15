@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://pyreg.com/" target="_blank" rel="noopener">https://pyreg.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pyreg-gmbh/" target="_blank" rel="noopener">pyreg-gmbh — 5,861 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/pyreg-gmbh/" target="_blank" rel="noopener">pyreg-gmbh — 6,483 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~44 (-8% YoY)</td></tr>
+  <tr><th>Employees</th><td>~125 (-20% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ PYREG GmbH is a German cleantech company founded in 2009 as a TH Bingen Universi
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-08-06** — news mention: GECA Environnement: Canada just put federal money behind biochar infrastructure â and it's coming  ([source](https://www.linkedin.com/company/geca-environnement/#post-ccec5b0d8103))
 - **2026-07-23** — news mention: Pyreg: New scientific insights on PFAS destruction in biosolids biochar will soon be presented at th ([source](https://www.linkedin.com/company/pyreg-gmbh/#post-755029ca8ca2))
 - **2026-07-23** — news mention: Pyreg: A major milestone for circularity in wastewater treatment!♻️   We are thrilled to see our sta ([source](https://www.linkedin.com/company/pyreg-gmbh/#post-e19253a69034))

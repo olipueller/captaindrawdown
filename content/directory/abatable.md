@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>CDR Platform/Marketplace</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.abatable.com/" target="_blank" rel="noopener">https://www.abatable.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/abatable/" target="_blank" rel="noopener">abatable — 13,272 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/abatable/" target="_blank" rel="noopener">abatable — 13,935 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~45 (+5% YoY)</td></tr>
+  <tr><th>Employees</th><td>~45 (-2% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -34,6 +34,10 @@ Abatable is a London-based carbon intelligence and procurement platform for the 
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-01** — news mention: Abatable: 🇪🇺 The EU's Empowering Consumers for the Green Transition Directive came into force over t ([source](https://www.linkedin.com/company/abatable/#post-7381730c31e5))
+- **2026-09-21** — news mention: The carbon credits debate is finally shifting from 'whether' to invest to 'how' | BusinessGreen Opin ([source](https://www.businessgreen.com/opinion/4535998/carbon-credits-debate-finally-shifting-invest))
+- **2026-09-18** — news mention: Google inks its 'largest ever' carbon and methane removal deal | BusinessGreen News ([source](https://www.businessgreen.com/news/4535889/google-inks-largest-carbon-methane-removal-deal))
 - **2026-08-30** — news mention: Ground Up: ð° This week key developments in durable CDR, as Google launched a $6M R&amp;D funding  ([source](https://www.linkedin.com/company/ground-up-in/#post-ad9e2d1f2f43))
 - **2026-08-30** — news mention: Accend AS: Proud to have supported Brodie Biomass along this journey, from early feasibility assessm ([source](https://www.linkedin.com/company/accend-conusulting/#post-2b823706ecf9))
 - **2026-08-27** — news mention: Carbon Business Council: New open calls for carbon removal are currently accepting applications. Car ([source](https://www.linkedin.com/company/carbonbusinesscouncil/#post-7cc8111b5ce2))

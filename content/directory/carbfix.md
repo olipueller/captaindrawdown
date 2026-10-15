@@ -34,30 +34,36 @@ Carbfix is an Icelandic carbon mineralization company, a subsidiary of Reykjaví
 
 ## History
 
-- **2026-09-10** — news mention: Carbfix achieves 99.6% capture of CO2 and H2S from geothermal power plant in Iceland ([source](https://www.thinkgeoenergy.com/carbfix-achieves-99-6-capture-of-co2-and-h2s-from-geothermal-power-plant-in-iceland/))
-- **2026-09-05** — news mention: Sucking Carbon Out of Thin Air - by Ritchie Cunningham ([source](https://ritchiecunninghams.substack.com/p/sucking-carbon-out-of-thin-air))
-- **2026-08-22** — news mention: CDR Supply Showcases, nasdaq, Stockholm | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7496548530556366848/))
-- **2026-08-12** — news mention: Carbon crossroads: Petrochemicals boom tests Indonesia’s climate goals | Dialogue Earth ([source](https://dialogue.earth/en/energy/carbon-crossroads-petrochemicals-boom-tests-indonesias-climate-goals/))
-- **2026-07-29** — news mention: The storage form answers Kevin's leak question: mineralized carbonate and dissolved bicarbonate are  ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mrs326gpwn25))
-- **2026-07-23** — news mention: Cella Mineral Storage: Big milestone for us at Cella: We’ve completed our first CO2 injection test a ([source](https://www.linkedin.com/company/cellamineral/#post-72428974b093))
-- **2026-07-10** — news mention: Since 2012, Iceland has been pumping captured carbon dioxide into volcanic rock so it permanently tu ([source](https://timesofindia.indiatimes.com/world/us/since-2012-iceland-has-been-pumping-captured-carbon-dioxide-into-volcanic-rock-so-it-permanently-turns-into-stone-instead-of-escaping-back-into-the-atmosphere/articleshow/132309507.cms))
-- **2026-07-05** — news mention: Explainer: Mineralization is the CDR family that turns CO2 into solid carbonate rock. Once bonded in ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpusg7voq42k))
-- **2026-07-05** — news mention: Good point. The airborne fraction has held near 44% for decades, but recent years show wobble. If la ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpufpr4arw2b))
-- **2026-05-22** — news mention: Carbon Sequestration: Transforming CO2 into Rocks and Harnessing Hydrogen for a Sustainable Future - ([source](https://themondonews.com/science/carbon-sequestration-transforming-co2-into-rocks-and-harnessing-hydrogen-for-a-sustainable-future/))
-- **2026-05-21** — news mention: Putting CO2 into rocks and getting hydrogen out is climate double win | New Scientist ([source](https://www.newscientist.com/article/2527336-putting-co2-into-rocks-and-getting-hydrogen-out-is-climate-double-win/))
-- **2026-05-20** — news mention: We could generate hydrogen from rocks while storing CO2 in them | New Scientist ([source](https://www.newscientist.com/article/2527336-we-could-generate-hydrogen-from-rocks-while-storing-co2-in-them/))
-- **2026-05-16** — news mention: Climeworks: The Carbon Capture Company that Emits More Than It Captures ([source](https://www.anarchistfederation.net/climeworks-the-carbon-capture-company-that-emits-more-than-it-captures))
-- **2026-05-13** — news mention: La recherche sur l’éruption volcanique sur l’élimination du méthane pourrait conduire à une nouvelle ([source](https://www.pacte-climat.eu/la-recherche-sur-leruption-volcanique-sur-lelimination-du-methane-pourrait-conduire-a-une-nouvelle-solution-au-changement-climatique/26712))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-04-29** — news mention: Direct air capture - Wikipedia ([source](https://en.wikipedia.org/wiki/Direct_air_capture))
-- **2026-04-23** — news mention: Carbon removal, la startup che pietrifica la CO₂ ([source](https://www.startupbusiness.it/carbon-removal-la-startup-che-pietrifica-la-co%E2%82%82/164598/))
-- **2026-04-19** — reclassified: pathway=Mineralization focus=division liveliness=🟢 Active ([source](https://www.carbfix.com/))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Mineralization focus=division liveliness=🟢 Active ([source](https://www.carbfix.com/))
-- **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.carbfix.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
+- **2026-10-15** — refresh: screenshot
+- **2026-10-09** — news mention: CCUS Technology | Carbon Capture and Carbon-to-Stone ([source](https://riceias.com/carbon-capture-ccus-carbon-to-stone-technology/))
+- **2026-10-08** — news mention: Iceland-India Cooperation: Geothermal Energy & CCUS ([source](https://www.nextias.com/ca/current-affairs/08-10-2026/iceland-india-geothermal-ccus))
+- **2026-10-07** — news mention: Iceland's Hidden Hydrogen: How Volcanic Geology Can Create Clean Energy ([source](https://www.hydrogenexchange.io/post/iceland-s-hidden-hydrogen-how-volcanic-geology-can-create-clean-energy))
+- **2026-10-07** — news mention: How Iceland Is Bringing Geothermal and Carbon Capture Tech to Indian Industry | Impactful Ninja ([source](https://impactful.ninja/how-iceland-is-bringing-geothermal-and-carbon-capture-tech-to-indian-industry/))
+- **2026-10-07** — news mention: A Climeworks és a DAC technológia - GREENOLOGY ([source](https://www.greenology.hu/2026/10/06/a-climeworks-es-a-dac-technologia/))
+- **2026-10-07** — news mention: Iceland courts India for geothermal, CCUS, ‘carbon-to-stone’ technologies - EUROPE SAYS ([source](https://www.europesays.com/3295017/))
+- **2026-10-07** — news mention: Iceland courts India for geothermal, CCUS, ‘carbon-to-stone’ technologies - The Hindu ([source](https://www.thehindu.com/business/Industry/iceland-courts-india-for-geothermal-ccus-carbon-to-stone-technologies/article71552541.ece))
+- **2026-10-07** — news mention: Iceland courts India for geothermal, CCUS, ‘carbon-to-stone’ technologies - Bytes Europe ([source](https://www.byteseu.com/2430210/))
+- **2026-10-06** — news mention: Exclusive: Iceland Eyes India Clean Energy Partnership - EUROPE SAYS ([source](https://www.europesays.com/3294259/))
+- **2026-10-06** — news mention: Exclusive: Iceland Eyes India Clean Energy Partnership ([source](https://stratnewsglobal.com/europe/iceland/exclusive-iceland-eyes-india-clean-energy-partnership/))
+- **2026-10-06** — news mention: Geochemical modelling of coupled sulfide–silicate systems during sulfuric acid leaching of Ni-, Co-, ([source](https://link.springer.com/article/10.1007/s44346-026-00021-y))
+- **2026-10-05** — news mention: JGC-Fluor Joint Venture Completes Final Weld on LNG Canada Train 1 | Turbomachinery Magazine ([source](https://www.turbomachinerymag.com/view/jgc-fluor-joint-venture-completes-final-weld-on-lng-canada-train-1))
+- **2026-10-04** — news mention: "Important Definitions" We Learnt Last Week (Sep 27-Oct 03, 2026) - Editorial Words ([source](https://www.editorialwords.com/important-definitions-we-learnt-last-week-sep-27-oct-03-2026/))
+- **2026-10-01** — news mention: The India–EFTA Partnership: One Plus One Equals Three |ForumIAS ([source](https://forumias.com/blog/the-india-efta-partnership-one-plus-one-equals-three/))
+- **2026-10-01** — news mention: India-EFTA TEPA at One Year UPSC | Best OPSC OAS Coaching Bhubaneswar ([source](https://striveedgeias.in/india-efta-tepa-at-one-year-investment-technology-and-arctic-partnership/))
+- **2026-10-01** — news mention: Daily Editorial Analysis 1 October 2026 ([source](https://vajiramandravi.com/current-affairs/daily-editorial-analysis-1-october-2026/))
+- **2026-09-30** — news mention: The India-EFTA partnership, one plus one equals three - The Hindu ([source](https://www.thehindu.com/opinion/lead/the-india-efta-partnership-one-plus-one-equals-three/article71529585.ece))
+- **2026-09-25** — news mention: 「ネガティブエミッション技術市場規模、成長と動向分析レポート 2026-2033年」の市場調査レポート出版・販売開始のご案内 | 株式会社SEMABIZのプレスリリース ([source](https://www.dreamnews.jp/press/0000363578))
+- **2026-09-22** — news mention: CO2 Mineralization Reactor Market 2026: Key Players, Decarbonization Trends and Business Opportuniti ([source](https://www.openpr.com/news/4639901/co2-mineralization-reactor-market-2026-key-players))
+- **2026-09-21** — news mention: Ratcliffe keppir við CarbFix | Frettin.is ([source](https://frettin.is/2026/09/21/ratcliffe-keppir-vid-carbfix/))
+- **2026-09-20** — news mention: Ratcliffe keppir við CarbFix - Útvarp Saga ([source](https://utvarpsaga.is/ratcliffe-keppir-vid-carbfix/))
+- **2026-09-20** — news mention: CO2-Speicher in der Nordsee: Greensand startet ([source](https://www.cleanthinking.de/co2-speicher-nordsee-greensand))
+- **2026-09-19** — news mention: Public perceptions and social acceptance of carbon capture and storage: summary - GOV.UK ([source](https://www.gov.uk/government/publications/public-perceptions-and-social-acceptance-of-carbon-capture-and-storage/public-perceptions-and-social-acceptance-of-carbon-capture-and-storage-summary))
+- **2026-09-18** — news mention: CO2 Mineralization Market Expected to Grow at 10.1% CAGR During 2026-2032 Amid Rising Net-Zero Emiss ([source](https://www.openpr.com/news/4635752/co2-mineralization-market-expected-to-grow-at-10-1-cagr-during))
+- **2026-09-18** — news mention: INEOS Opens First Commercial-Scale Offshore CO2 Storage Site In The EU ([source](https://carbonherald.com/ineos-opens-first-commercial-scale-offshore-co2-storage-site-in-the-eu/))
+- **2026-09-16** — news mention: Carbon Dioxide Removal Market - A Global and Regional Analysis: Focus on Technology Type, Carbon Cre ([source](https://bisresearch.com/industry-report/carbon-dioxide-removal-market.html))
+- **2026-09-16** — news mention: Carbfix Achieves 99.6% CO2 Capture Efficiency At ON Power‘s Hellisheiði Plant ([source](https://carbonherald.com/carbfix-achieves-99-6-co2-capture-efficiency-at-on-powers-hellisheidi-plant/?utm_source=rss&utm_medium=rss&utm_campaign=carbfix-achieves-99-6-co2-capture-efficiency-at-on-powers-hellisheidi-plant))
+- **2026-09-16** — news mention: Carbfix: Carbfix technology delivers 99.6% CO₂ capture efficiency in continuous operation at Orka ná ([source](https://www.linkedin.com/company/carbfix/#post-4db6469a6717))
+- **2026-09-15** — news mention: Carbfix logra capturar el 99,6 % del CO2 y el H2S de una central geotérmica en Islandia | PiensaGeot ([source](https://www.piensageotermia.com/carbfix-logra-capturar-el-996-del-co2-y-el-h2s-de-una-central-geotermica-en-islandia/))
 
 ---
 

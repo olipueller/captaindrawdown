@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.lithoscarbon.com/" target="_blank" rel="noopener">https://www.lithoscarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/lithoscarbon/" target="_blank" rel="noopener">lithoscarbon — 14,241 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/lithoscarbon/" target="_blank" rel="noopener">lithoscarbon — 14,271 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified via isometric issuance on 2026-05-22</small></td></tr>
-  <tr><th>Employees</th><td>~30 (-29% YoY)</td></tr>
+  <tr><th>Employees</th><td>~29 (-31% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric <small>(last issuance: 2026-05-22)</small></td></tr>
@@ -44,6 +44,10 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-15** — refresh: coresignal
+- **2026-10-15** — refresh: coresignal
+- **2026-10-12** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-5e4eb86cc6d0))
+- **2026-09-25** — news mention: Evidence of rapid basalt dissolution in Southeastern US croplands ([source](https://cdrxiv.org/preprint/551))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-06** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-f4c001caa2fd))
 - **2026-09-06** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/frontierclimate/#post-f4c001caa2fd))
@@ -70,10 +74,6 @@ Independently verified by carbon-credit registries:
 - **2026-07-24** — news mention: Frontier Climate: Four years ago, it was still an open question whether rocks would weather fast eno ([source](https://www.linkedin.com/company/frontierclimate/#post-60f4d9b90568))
 - **2026-07-24** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/frontierclimate/#post-38d7c2844441))
 - **2026-07-22** — news mention: Lithos: 🪨 Lithos has issued our first batch of Isometric -verified carbon removal credits from the e ([source](https://www.linkedin.com/company/lithoscarbon/#post-c72d5d77bc8c))
-- **2026-07-22** — news mention: Lithos: Today we’re announcing that Frontier has raised an additional $915M for carbon removal, from ([source](https://www.linkedin.com/company/lithoscarbon/#post-e3e7a0ff2985))
-- **2026-07-22** — news mention: Lithos: Four years ago, it was still an open question whether rocks would weather fast enough to rem ([source](https://www.linkedin.com/company/lithoscarbon/#post-2fc3b5595412))
-- **2026-07-22** — news mention: Charm Industrial: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/charm-industrial/#post-3120c3c1e69a))
-- **2026-07-21** — news mention: A Direct-Measurement Framework for Enhanced Rock Weathering ([source](https://cdrxiv.org/preprint/309))
 
 ---
 

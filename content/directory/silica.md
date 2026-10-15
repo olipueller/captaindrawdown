@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>Mexico</td></tr>
   <tr><th>Website</th><td><a href="https://silica.earth" target="_blank" rel="noopener">https://silica.earth</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/silicaearth/" target="_blank" rel="noopener">silicaearth — 494 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/silicaearth/" target="_blank" rel="noopener">silicaearth — 502 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~30 (+67% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
@@ -40,6 +40,12 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-15** — refresh: coresignal
+- **2026-10-15** — refresh: coresignal
+- **2026-10-12** — news mention: When and why does CO2 mineralization in basalts stall? A critical review of microscale passivation,  ([source](https://doi.org/10.31223/x55v43))
+- **2026-10-12** — news mention: CO2 Sequestration Eciency within the Porous Matrix of Concrete - Advanced Physicochemical, Transport ([source](https://doi.org/10.5281/zenodo.23286155))
+- **2026-10-08** — news mention: Silica: A significant milestone for Silica : our first carbon removal credits have been issued by Is ([source](https://www.linkedin.com/company/silicaearth/#post-56c0d7757908))
+- **2026-10-06** — news mention: Ocean alkalinity enhancement pelagic impact in the Northwest Iberian Upwelling System under nutrient ([source](https://doi.org/10.5194/egusphere-2026-5658))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-31** — news mention: Silica: A significant milestone for Silica : our first carbon removal credits have been issued by Is ([source](https://www.linkedin.com/company/silicaearth/#post-13bc0e67b402))
 - **2026-08-29** — news mention: Plantd Launches High-Silica Biochar Product Line to Convert Biomass Waste into Agricultural Revenue  ([source](https://biochartoday.com/news/plantd-launches-high-silica-biochar-product-line-to-convert-biomass-waste-into-agricultural-revenue/?utm_source=bluesky&utm_medium=jetpack_social))
@@ -64,12 +70,6 @@ Independently verified by carbon-credit registries:
 - **2026-06-15** — refresh: coresignal
 - **2026-05-31** — news mention: Advances in genome editing could significantly enhance plant-based carbon dioxide removal (#CDR) by  ([source](https://x.com/geoengineering1/status/2061143468379107490))
 - **2026-05-29** — news mention: Most ERW assessments focus on alkalinity-driven carbon dioxide removal but there may be another inte ([source](https://www.linkedin.com/feed/update/urn:li:share:7466111386818056192/))
-- **2026-05-28** — news mention: That's the core mechanism which is known over geological time scales.  What's less often discussed i ([source](https://x.com/dpaessler/status/2059983386924417137))
-- **2026-05-14** — news mention: Carbon sequestration - Wikipedia ([source](https://en.wikipedia.org/wiki/Carbon_sequestration))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](N/A))
-- **2026-04-29** — news mention: A spectropolarimeter for vacuum-ultraviolet emission lines ([source](https://arxiv.org/abs/2604.08191v1))
 
 ---
 

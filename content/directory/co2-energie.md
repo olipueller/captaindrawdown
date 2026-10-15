@@ -14,7 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.co2-energie.ch/" target="_blank" rel="noopener">https://www.co2-energie.ch/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/verduurzaming/" target="_blank" rel="noopener">verduurzaming — 28 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -28,6 +30,7 @@ CO2 Energie AG is a Swiss joint-venture subsidiary of Regionalwerke AG Baden (RW
 
 ## History
 
+- **2026-10-15** — refresh: coresignal
 - **2026-09-15** — refresh: screenshot, liveliness
 - **2026-09-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://carbonherald.com/swiss-beccs-project-secures-cross-border-co2-storage-deal/))
 - **2026-09-06** — news mention: Carbon Impact SAS: Les Ã©missions nÃ©gatives et en particulier le BioCCS progressent en Europe ! â  ([source](https://www.linkedin.com/company/carbon-impact-france/#post-563bb58451de))

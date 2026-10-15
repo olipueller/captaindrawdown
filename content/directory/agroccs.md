@@ -29,6 +29,7 @@ AgroCCS B.V. is a Dutch biochar project developer running pyrolysis-based carbon
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://agroccs.com/))
 - **2026-04-19** — refresh: coresignal, screenshot

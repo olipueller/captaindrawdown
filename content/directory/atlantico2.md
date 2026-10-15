@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Brazil</td></tr>
   <tr><th>Website</th><td><a href="https://atlantico2.com/" target="_blank" rel="noopener">https://atlantico2.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/atlantico2/" target="_blank" rel="noopener">atlantico2 — 73 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/atlantico2/" target="_blank" rel="noopener">atlantico2 — 319 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~30 (0% YoY)</td></tr>
+  <tr><th>Employees</th><td>~30 (+50% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ AtlantiCO2 is a Brazilian carbon removal startup that has built in-house pyrolys
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-10** — news mention: AtlantiCO2: As we head into the year ahead, we're excited to expand the reach of our Charm Duo. We r ([source](https://www.linkedin.com/company/atlantico2/#post-110d190586ac))
 - **2026-08-03** — news mention: AtlantiCO2: Welcome Puro Supplier ATLANTICO2 AtlantiCO₂’s ProtoChar01 biochar facility has completed ([source](https://www.linkedin.com/company/atlantico2/#post-4409cbc2a1a8))

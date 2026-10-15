@@ -31,6 +31,7 @@ The Carbon Capture Coalition is a US nonpartisan policy advocacy coalition conve
 
 ## History
 
+- **2026-10-10** — news mention: Carbon Capture Coalition: ADM is preparing to enter the voluntary carbon removal market with a new o ([source](https://www.linkedin.com/company/carbon-capture-coalition/#post-ee7de7609525))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-04** — news mention: Carbon Capture Coalition: Project Brighton is now operational. Our largest operating deployment to d ([source](https://www.linkedin.com/company/carbon-capture-coalition/#post-89daccec66c0))
 - **2026-09-04** — news mention: Carbon Capture Coalition: Congratulations to Carbon Capture Coalition member Avnos on the operationa ([source](https://www.linkedin.com/company/carbon-capture-coalition/#post-d9919cf71346))

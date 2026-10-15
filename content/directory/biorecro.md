@@ -29,6 +29,7 @@ Biorecro is a Stockholm-based BECCS project developer that integrates carbon cap
 
 ## History
 
+- **2026-09-18** — news mention: CO2 Mineralization Market Expected to Grow at 10.1% CAGR During 2026-2032 Amid Rising Net-Zero Emiss ([source](https://www.openpr.com/news/4635752/co2-mineralization-market-expected-to-grow-at-10-1-cagr-during))
 - **2026-09-06** — news mention: Biorecro AB: ð¨Richardton BECCS: Operational. Permanent. Proven. ð¿Since 2022, the Richardton BE ([source](https://www.linkedin.com/company/biorecro-ab/#post-ff03a4cb488d))
 - **2026-09-06** — news mention: Biorecro: ð¨Richardton BECCS: Operational. Permanent. Proven. ð¿Since 2022, the Richardton BECCS ([source](https://www.linkedin.com/company/biorecro/#post-ff03a4cb488d))
 - **2026-08-30** — news mention: Biorecro: 🚨Richardton BECCS: Operational. Permanent. Proven. 🌿Since 2022, the Richardton BECCS Facil ([source](https://www.linkedin.com/company/biorecro/#post-24412b347a49))

@@ -28,6 +28,8 @@ CarbonMeld is an independent carbon-credit screening and scoring tool that publi
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
+- **2026-10-14** — news mention: CarbonMeld: Gold Standard has revised Paris alignment rules for 2026 vintages, easing the transition ([source](https://www.linkedin.com/company/carbonmeld/#post-c778bdeb3c7d))
 - **2026-09-04** — news mention: CarbonMeld: Ghana has crossed a threshold that matters for anyone buying or developing African carbo ([source](https://www.linkedin.com/company/carbonmeld/#post-861470a45f6a))
 - **2026-09-04** — news mention: CarbonMeld: California's carbon market overhaul is no longer a proposal. On August 31, the state's O ([source](https://www.linkedin.com/company/carbonmeld/#post-e5ca9d21dd8a))
 - **2026-09-04** — news mention: CarbonMeld: Green hydrogen just got its first dedicated carbon credit pathway from a major voluntary ([source](https://www.linkedin.com/company/carbonmeld/#post-8b41be930acd))
@@ -56,8 +58,6 @@ CarbonMeld is an independent carbon-credit screening and scoring tool that publi
 - **2026-05-29** — news mention: Why North America’s Carbon Markets May Need a Common Rulebook Before They Can Scale · CarbonMeld ([source](https://carbonmeld.com/en/articles/why-north-america-s-carbon-markets-may-need-a-common-rulebook-before-they-can-scale/))
 - **2026-05-28** — news mention: Why the EU Carbon Rally May Be About Market Design, Not Just Higher Prices · CarbonMeld ([source](https://carbonmeld.com/en/articles/why-the-eu-carbon-rally-may-be-about-market-design-not-just-higher-prices/))
 - **2026-05-28** — news mention: Why Legacy Carbon Credits Are Becoming a Balance-Sheet Problem for Global Buyers · CarbonMeld ([source](https://carbonmeld.com/en/articles/why-legacy-carbon-credits-are-becoming-a-balance-sheet-problem-for-global-buyers/))
-- **2026-05-27** — news mention: Why EU Carbon Credit Rules Are Splitting the Market Between Inside and Outside the ETS · CarbonMeld ([source](https://carbonmeld.com/en/articles/why-eu-carbon-credit-rules-are-splitting-the-market-between-inside-and-outside-the-ets/))
-- **2026-05-26** — news mention: Why Strict Additionality Rules Can Hold Back Carbon Sequestration Finance · CarbonMeld ([source](https://carbonmeld.com/en/articles/why-strict-additionality-rules-can-hold-back-carbon-sequestration-finance/))
 
 ---
 

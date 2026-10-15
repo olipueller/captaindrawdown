@@ -5,7 +5,7 @@ type: "directory"
 description: "Operates small-scale pyrolysis/gasification plants that convert waste woody biomass into syngas for electricity and biochar as a co-product for carbon sequestration and soil amendment."
 url: "/directory/svec/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,9 @@ liveliness: "🟡 Moderate"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://scottsvalleyenergycompany.com/" target="_blank" rel="noopener">https://scottsvalleyenergycompany.com/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/microsoft-learn-student-club-svec/" target="_blank" rel="noopener">microsoft-learn-student-club-svec — 780 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~23 (-12% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -28,6 +30,8 @@ Scotts Valley Energy Corporation (SVEC), a tribal enterprise of the Scotts Valle
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, liveliness
+- **2026-10-15** — liveliness: 🟡 Moderate → 🟢 Active ([source](N/A))
 - **2026-09-15** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot

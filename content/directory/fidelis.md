@@ -30,6 +30,7 @@ Fidelis New Energy, LLC is a Houston-based energy infrastructure developer focus
 
 ## History
 
+- **2026-09-19** — news mention: Fidelis: Weâre thrilled to announce that AtmosClear BR, LLC has partnered with ExxonMobil for CO2  ([source](https://www.linkedin.com/company/fidelisenergy/#post-ffcff4aa994b))
 - **2026-08-15** — news mention: Fidelis: We’re thrilled to announce that AtmosClear BR, LLC has partnered with ExxonMobil for CO2 tr ([source](https://www.linkedin.com/company/fidelisenergy/#post-2a044b74c6f7))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot

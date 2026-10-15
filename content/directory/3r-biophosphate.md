@@ -29,6 +29,7 @@ liveliness: "🔴 Likely Dead"
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
 - **2026-09-15** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://circulareconomy.europa.eu/platform/en/good-practices/3r-biophosphate-ltd-pioneering-zero-emission-and-energy-independent-pyrolysis-and-nutrient-recovery))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness

@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.naturebroking.com/" target="_blank" rel="noopener">https://www.naturebroking.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nature-broking/" target="_blank" rel="noopener">nature-broking — 2,156 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nature-broking/" target="_blank" rel="noopener">nature-broking — 2,904 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~10 (+25% YoY)</td></tr>
+  <tr><th>Employees</th><td>~15 (+88% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ Nature Broking is a UK-based natural capital brokerage that builds and manages t
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-08-29** — news mention: Nature Broking: CCP approval covers 95% of the market. Real progress, although not a substitute for  ([source](https://www.linkedin.com/company/nature-broking/#post-a9f693da1c3c))
 - **2026-07-24** — news mention: Nature Broking: 🌿 Last week we announced the QBE Buyers Club, and in 48 hours the coverage reached j ([source](https://www.linkedin.com/company/nature-broking/#post-11b7e6ae4a98))
 - **2026-06-27** — news mention: Breakfast and Learn | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7476192017988116481/))

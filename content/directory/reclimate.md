@@ -29,6 +29,7 @@ Reclimate has several biochar projects in its portfolio, working with farmers an
 
 ## History
 
+- **2026-09-20** — news mention: Reclimate: Reclimate and iPAGE Global Inc., through its Bangladesh-based agricultural intelligence a ([source](https://www.linkedin.com/company/reclimateglobal/#post-0b46db830d5f))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-15** — news mention: Reclimate: What was once left behind now has a new purpose. 🌽🌱 We’re excited to introduce the Blora  ([source](https://www.linkedin.com/company/reclimateglobal/#post-2d8f92d498ce))
 - **2026-05-01** — refresh: screenshot

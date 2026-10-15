@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.suslab.ch/" target="_blank" rel="noopener">https://www.suslab.ch/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sustainability-in-business-lab/" target="_blank" rel="noopener">sustainability-in-business-lab — 3,454 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sustainability-in-business-lab/" target="_blank" rel="noopener">sustainability-in-business-lab — 3,767 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~13</td></tr>
+  <tr><th>Employees</th><td>~10 (+14% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ sus.lab (Sustainability in Business Lab) is a "think and do tank" at ETH Zurich,
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-09-26** — news mention: sus.lab: 🎉 I’m very glad to share our second paper from the nationwide Food Waste Diary study in Swi ([source](https://www.linkedin.com/company/sustainability-in-business-lab/#post-8e7e994fde7b))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-14** — news mention: sus.lab: â´ï¸ Project Launch!!!! HyShip ð¢ We are excited to be part of HyShip, a European innov ([source](https://www.linkedin.com/company/sustainability-in-business-lab/#post-53d818587da7))
 - **2026-07-23** — news mention: sus.lab: ⛴️ Project Launch!!!! HyShip 🚢 We are excited to be part of HyShip, a European innovation p ([source](https://www.linkedin.com/company/sustainability-in-business-lab/#post-3d2c69f42d30))

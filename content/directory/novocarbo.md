@@ -41,6 +41,8 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-29** — news mention: Novocarbo: European cities are counting on carbon removal #CDR to compensate for a fifth of their em ([source](https://www.linkedin.com/company/novocarbo/#post-801575a0833b))
+- **2026-09-16** — news mention: Carbon Dioxide Removal Market - A Global and Regional Analysis: Focus on Technology Type, Carbon Cre ([source](https://bisresearch.com/industry-report/carbon-dioxide-removal-market.html))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-05** — news mention: Novocarbo: A year ago, we shared insights from our first collaborations testing biochar in asphalt.  ([source](https://www.linkedin.com/company/carbo3-gmbh/#post-761801bb416b))
 - **2026-07-29** — news mention: Novocarbo: 🌱 Böden rücken als Kohlenstoffspeicher zunehmend in den klimapolitischen Fokus. Je nach B ([source](https://www.linkedin.com/company/carbo3-gmbh/#post-e5cd3168fea1))

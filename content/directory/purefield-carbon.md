@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enabling Tech</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.purefield.com/" target="_blank" rel="noopener">https://www.purefield.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/purefield-ingredients/" target="_blank" rel="noopener">purefield-ingredients — 1,107 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/purefield-ingredients/" target="_blank" rel="noopener">purefield-ingredients — 1,408 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~43</td></tr>
+  <tr><th>Employees</th><td>~41 (-5% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ PureField Carbon Capture, LLC is a subsidiary of PureField Ingredients authorize
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-08-01** — news mention: PureField Carbon: The results are in: injection is successful, and carbon is now being safely stored ([source](https://www.linkedin.com/company/purefield-ingredients/#post-88e1ca766755))
 - **2026-08-01** — news mention: PureField Carbon: Yesterday, PureField Ingredients celebrated the launch of our carbon capture and s ([source](https://www.linkedin.com/company/purefield-ingredients/#post-d19f18d9cc8e))
 - **2026-07-15** — liveliness: 🟡 Moderate → 🟢 Active

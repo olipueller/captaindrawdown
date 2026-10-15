@@ -31,6 +31,9 @@ Dotz Nano (ASX: DTZ) is an Israeli-Australian nanomaterials and specialty chemis
 
 ## History
 
+- **2026-10-11** — news mention: Dotz Nano: 🚨 𝑭𝒓𝒐𝒎 𝒍𝒂𝒃 𝒕𝒐 𝒄𝒐𝒎𝒎𝒆𝒓𝒄𝒊𝒂𝒍 𝒓𝒆𝒂𝒍𝒊𝒕𝒚. We just signed a 2-year supply agreement with Soletair  ([source](https://www.linkedin.com/company/dotznano/#post-e54861e20334))
+- **2026-09-15** — news mention: Scheduled to begin operations in 2028, this BECCS facility will capture, liquefy, and permanently st ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mvktgho3wc2n))
+- **2026-09-15** — news mention: In A New DAC Partnership, Dotz Nano To Provide Sorbent Tech To Soletair Power ([source](https://carbonherald.com/in-a-new-dac-partnership-dotz-nano-to-provide-sorbent-tech-to-soletair-power/?utm_source=rss&utm_medium=rss&utm_campaign=in-a-new-dac-partnership-dotz-nano-to-provide-sorbent-tech-to-soletair-power))
 - **2026-09-05** — news mention: Dotz Nano: 🚀 𝑨 𝒃𝒊𝒈 𝒘𝒆𝒆𝒌 𝒇𝒐𝒓 𝑫𝒐𝒕𝒛 𝑬𝒏𝒆𝒓𝒈𝒚. Three milestones that move our decarbonisation and energy-s ([source](https://www.linkedin.com/company/dotznano/#post-e77bcbb0e8c4))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-22** — news mention: Dotz Nano Appoints Nati Harpaz As New CEO ([source](https://carbonherald.com/dotz-nano-appoints-nati-harpaz-as-new-ceo/?utm_source=rss&utm_medium=rss&utm_campaign=dotz-nano-appoints-nati-harpaz-as-new-ceo))

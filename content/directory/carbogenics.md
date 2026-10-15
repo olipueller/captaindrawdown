@@ -29,6 +29,8 @@ Carbogenics is a University of Edinburgh spinout (2016) that produces CreChar, a
 
 ## History
 
+- **2026-09-17** — news mention: Carbogenics USA secures first US production facility in Raton, New Mexico | Biomass Magazine ([source](https://biomassmagazine.com/articles/carbogenics-usa-secures-first-us-production-facility-in-raton-new-mexico))
+- **2026-09-17** — news mention: Republicans will do everything they possibly can to help defend the fossil fuel industry from cleant ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mvq2syeavk2c))
 - **2026-09-10** — news mention: Biochar firm launches first US facility in Raton - The World Journal ([source](https://worldjournalnewspaper.com/biochar-firm-launches-first-us-facility-in-raton/))
 - **2026-08-28** — news mention: Carbogenics: We officially have a production facility in the US! 🎉 We're incredibly excited to annou ([source](https://www.linkedin.com/company/carbogenics-ltd/#post-e8496f8c772b))
 - **2026-08-15** — refresh: coresignal

@@ -30,6 +30,9 @@ Spiritus is a Los Alamos National Lab spinout developing low-cost Direct Air Cap
 
 ## History
 
+- **2026-10-11** — news mention: Spiritus: On Monday, Spiritus cut the ribbon on our pilot facility at Nambé Pueblo, just outside San ([source](https://www.linkedin.com/company/spiritus-cdr/#post-f7594aa10671))
+- **2026-09-25** — news mention: Spiritus Insk First Three Letters Of Intent With US Oil And Gas Producers For On-Site EOR CO2 Supply ([source](https://carbonherald.com/spiritus-insk-first-three-letters-of-intent-with-us-oil-and-gas-producers-for-on-site-eor-co2-supply/?utm_source=rss&utm_medium=rss&utm_campaign=spiritus-insk-first-three-letters-of-intent-with-us-oil-and-gas-producers-for-on-site-eor-co2-supply))
+- **2026-09-23** — news mention: Climate Startup Signs CO2 Deals With Three U.S. Oil Producers | OilPrice.com ([source](https://oilprice.com/Latest-Energy-News/World-News/Climate-Startup-Signs-CO2-Deals-With-Three-US-Oil-Producers.html))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-29** — news mention: Spiritus: Spiritus has signed a Joint Development Agreement with aramco 's Research &amp; Developmen ([source](https://www.linkedin.com/company/spiritus-cdr/#post-248dd6988169))
 - **2026-07-24** — news mention: Spiritus: Spiritus has signed a Joint Development Agreement with aramco 's Research &amp; Developmen ([source](https://www.linkedin.com/company/spiritus-cdr/#post-5e339700fa1a))

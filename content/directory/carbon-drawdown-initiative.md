@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbon-drawdown.de" target="_blank" rel="noopener">https://www.carbon-drawdown.de</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-drawdown-initiative/" target="_blank" rel="noopener">carbon-drawdown-initiative — 2,551 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-drawdown-initiative/" target="_blank" rel="noopener">carbon-drawdown-initiative — 2,970 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~7 (+17% YoY)</td></tr>
+  <tr><th>Employees</th><td>~8 (+14% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,16 @@ Carbon Drawdown Initiative GmbH is a philanthropically-funded German organizatio
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-10** — news mention: Terra Preta (Cotierra): 📣Big news from Cotierra: we’ve raised USD 3 million to make tropical agricul ([source](https://www.linkedin.com/company/terra-preta-carbon/#post-91b569b34db3))
+- **2026-10-03** — news mention: Congrats to the team at Cotierra, especially Thomas Käslin and Lorenz Buser, on closing their $3 mil ([source](https://www.linkedin.com/feed/update/urn:li:share:7511000569419808768/))
+- **2026-10-03** — news mention: Cotierra: 📣Big news from Cotierra: we’ve raised USD 3 million to make tropical agriculture more prod ([source](https://www.linkedin.com/company/cotierra-ag/#post-645941b64157))
+- **2026-10-02** — news mention: Carbon Removal Partners: Congrats to the team at Cotierra , especially Thomas Käslin and Lorenz Buse ([source](https://www.linkedin.com/company/carbon-removal-partners/#post-6b6911097c4c))
+- **2026-09-30** — news mention: CDR-portfolio company Cotierra shows that decentralised biochar production will become a cornerstone ([source](https://www.linkedin.com/feed/update/urn:li:share:7510610833857478658/))
+- **2026-09-29** — news mention: #biochar #carbonremoval #agtech #climatetech #agriculture | Cotierra | 10 comments ([source](https://www.linkedin.com/feed/update/urn:li:share:7510601643688607744/))
+- **2026-09-22** — news mention: Terrasols: Data transparency is growing in ERW — and that's worth celebrating! Today we're announcin ([source](https://www.linkedin.com/company/terrasols/#post-79f5f4af12aa))
+- **2026-09-21** — news mention: Bloomineral: Great things come in waves. For months, we've been building: growing our algae, validat ([source](https://www.linkedin.com/company/bloomineral/#post-caf7cd3105a5))
+- **2026-09-16** — news mention: One of our recent CDR portfolio investments, Bloomineral, combines CO₂ from the atmosphere or from i ([source](https://www.linkedin.com/feed/update/urn:li:share:7505886170460045312/))
 - **2026-09-05** — news mention: Carbon Drawdown Initiative: A soil-CO₂ sensor sounds like the ultimate shortcut. Weathering consumes ([source](https://www.linkedin.com/company/carbon-drawdown-initiative/#post-a461532367f2))
 - **2026-09-05** — news mention: Carbon Drawdown Initiative: This last part of our XXL Lysimeter Experiment is about plumbing, and it ([source](https://www.linkedin.com/company/carbon-drawdown-initiative/#post-5a0bb8ea3b7c))
 - **2026-08-28** — news mention: This last part of our XXL Lysimeter Experiment is about plumbing, and it&amp;#39;s not glamorous: ke ([source](https://www.linkedin.com/feed/update/urn:li:share:7498725484290048000/))
@@ -56,18 +66,6 @@ That&amp;#39;s our XXL Lysimeter Expe ([source](https://www.linkedin.com/feed/up
 
 It&amp;#39;s n ([source](https://www.linkedin.com/feed/update/urn:li:share:7491115362118258688/))
 - **2026-08-07** — news mention: Carbon Drawdown Initiative: Congratulations portfolio company CREW Carbon to their announcement of a ([source](https://www.linkedin.com/company/carbon-drawdown-initiative/#post-e67f5c190fdd))
-- **2026-08-06** — news mention: Cascade Climate: A year ago, we placed a bet: that shared ERW deployment data â not data locked in ([source](https://www.linkedin.com/company/cascade-climate/#post-dfd7eca1a9dd))
-- **2026-08-06** — news mention: 1 in 10 people working in carbon removal today is connected to a CDI portfolio company.
-
-We&amp;#39; ([source](https://www.linkedin.com/feed/update/urn:li:share:7490741808289845249/))
-- **2026-08-01** — news mention: Terrasols Solutions Private Limited: Data transparency is growing in ERW â and that's worth celebr ([source](https://www.linkedin.com/company/greenlife-sustainability/#post-e888ec9e7a59))
-- **2026-07-31** — news mention: Wastewater treatment plants produce CO₂ continuously — inside enclosed, monitored reactors — as a na ([source](https://www.linkedin.com/feed/update/urn:li:share:7488578005435314177/))
-- **2026-07-30** — news mention: Earth has been dissolving rock to lock away carbon for billions of years. The problem is speed. Natu ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7488237848245125120/))
-- **2026-07-26** — news mention: Carbon Drawdown Initiative 2024 XXL Lysimeter Study ([source](https://cdrxiv.org/preprint/350))
-- **2026-07-25** — news mention: Terrasols: Data transparency is growing in ERW — and that's worth celebrating! Today we're announcin ([source](https://www.linkedin.com/company/greenlife-sustainability/#post-79f5f4af12aa))
-- **2026-07-24** — news mention: Carbon Drawdown Initiative: Tim Jesper Suhrhoff has led a big effort to write a systematic review of ([source](https://www.linkedin.com/company/carbon-drawdown-initiative/#post-5cd3f34c2e5c))
-- **2026-07-23** — news mention: For enhanced rock weathering (ERW), we spread a few tons of rock dust – say, 5 to 40 tons – on a hec ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7485679526149185537/))
-- **2026-07-22** — news mention: Cascade Climate: A year ago, we placed a bet: that shared ERW deployment data — not data locked insi ([source](https://www.linkedin.com/company/cascade-climate/#post-f3f65fcc7aa0))
 
 ---
 

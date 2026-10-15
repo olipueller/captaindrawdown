@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://www.rockflour.co/" target="_blank" rel="noopener">https://www.rockflour.co/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rockflourcompany/" target="_blank" rel="noopener">rockflourcompany — 2,375 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rockflourcompany/" target="_blank" rel="noopener">rockflourcompany — 2,391 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~9</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
@@ -34,6 +34,16 @@ Founded in 2023 by Greenland native and noted geologist Minik Rosing and climate
 
 ## History
 
+- **2026-10-15** — refresh: coresignal
+- **2026-10-15** — refresh: coresignal
+- **2026-10-14** — news mention: We have the best partners 💚
+
+Last week the GreenLandbrug consortium, funded by GUDP - Grønt Udviklin ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7516064537654050816/))
+- **2026-10-08** — news mention: #cdr #erw #enhancedrockweathering #carbonremoval #soilhealth #agriculture #grf | Rock Flour Company ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7513602709120479232/))
+- **2026-09-26** — news mention: 🚀 From rockets to rock flour 🪨
+
+We&amp;#39;re very happy to welcome Jop Nijenhuis as Head of Enginee ([source](https://www.linkedin.com/feed/update/urn:li:share:7508464906589913089/))
+- **2026-09-22** — news mention: Terrasols: Data transparency is growing in ERW — and that's worth celebrating! Today we're announcin ([source](https://www.linkedin.com/company/terrasols/#post-79f5f4af12aa))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-09** — news mention: #cdr #ccus #enhancedweathering #carbonremoval #grf | Rock Flour Company ([source](https://www.linkedin.com/feed/update/urn:li:share:7503111531782406145/))
 - **2026-09-02** — news mention: #soilhealth #agriculture #nitrogen #climatetech #agtech #erw #grf | Rock Flour Company ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7500914886521155585/))
@@ -60,12 +70,6 @@ He shared findings from acros ([source](https://www.linkedin.com/feed/update/urn
 - **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.cleancluster.dk/en/case/rock-flour-company-receives-6-1-million/))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.rockflour.co/))
 - **2026-04-19** — merged 1 duplicate(s): The Rock Flour Company ApS
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.rockflour.co/))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/the-rock-flour-company))
-- **** — merged duplicate: The Rock Flour Company ApS (slug=the-rock-flour-company-aps)
-- **2026-04-19** — refresh: coresignal, liveliness
 
 ---
 

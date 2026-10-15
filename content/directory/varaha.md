@@ -47,6 +47,17 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-06** — news mention: Project Finance Manager at Varaha in Gurgaon, Haryana | Dreamwork ([source](https://www.dreamworkhq.com/job/eb89b039-ae3e-4640-8712-0cd11a87486b))
+- **2026-10-06** — news mention: Manager/Senior Manager - Business Development, Biochar at Varaha in Gurgaon, Haryana | Dreamwork ([source](https://www.dreamworkhq.com/job/f62d17b4-4cf9-4190-81e8-1537054e7462))
+- **2026-10-01** — news mention: Top Environment tech Companies in Tamil Nadu (2026): List of 188 Environment tech Companies by Reven ([source](https://fliarbi.com/companies/best-environment-tech-companies-in-tamil-nadu-india/))
+- **2026-09-27** — news mention: We have over 40 Biomass Carbon Removal and Storage projects in the Rainbow Registry. 
+
+These include ([source](https://www.linkedin.com/feed/update/urn:li:share:7508797384219361280/))
+- **2026-09-25** — news mention: Carbon Removal India Alliance: ð®ð³ Indiaâs Top Carbon Removal Suppliers ð®ð³ As durable c ([source](https://www.linkedin.com/company/cria-earth/#post-503ebe639179))
+- **2026-09-22** — news mention: Could Geothermal Be the Next U.S. Power Breakout? DOE Pours $99M Into 21 Projects • Carbon Credits ([source](https://carboncredits.com/could-geothermal-be-the-next-u-s-power-breakout-doe-pours-99m-into-21-projects/))
+- **2026-09-22** — news mention: GSK Signs 8-Year Carbon Removal Deal With Varaha to Scale Regenerative Farming in India ([source](https://carboncredits.com/gsk-varaha-carbon-removal-regenerative-farming-india/))
+- **2026-09-15** — news mention: GSK Signs Carbon Removal Deal with Varaha | ESG News.earth ([source](https://www.esgnews.earth/latest-news/gsk-signs-carbon-removal-deal-with-varaha/21927.html?doing_wp_cron=1789457570.1009469032287597656250))
+- **2026-09-15** — news mention: GSK Signs 500,000-Tonne Carbon Removal Deal in India ([source](https://samcorporate.com/gsk-carbon-removal-regenerative-agriculture-india/))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-11** — news mention: GSK Signs 500,000-Tonne Carbon Removal Deal with Varaha - ESG Today ([source](https://www.esgtoday.com/gsk-signs-500000-tonne-carbon-removal-deal-with-varaha/))
 - **2026-09-09** — news mention: Earthly: For GSK , reducing our environmental impact is fundamental to our business resilience and a ([source](https://www.linkedin.com/company/projectearthly/#post-e2f24c018457))
@@ -68,14 +79,6 @@ Independently verified by carbon-credit registries:
 - **2026-04-19** — nulled Coresignal enrichment — LinkedIn slug 'meta-carbontech' clearly not the same company; employee count 281 inflated
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://techcrunch.com/2026/02/03/indias-varaha-bags-20m-to-scale-carbon-removal-from-the-global-south/))
 - **2026-04-19** — merged 1 duplicate(s): Varaha Climate AG
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.varaha.earth/))
-- **2026-04-19** — discovered via: cdrjobs ([source](https://www.cdrjobs.earth/job-board))
-- **** — merged duplicate: Varaha Climate AG (slug=varaha-climate-ag)
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://techcrunch.com/2026/02/03/indias-varaha-bags-20m-to-scale-carbon-removal-from-the-global-south/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://techcrunch.com/2026/02/03/indias-varaha-bags-20m-to-scale-carbon-removal-from-the-global-south/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -5,7 +5,7 @@ type: "directory"
 description: "Embeds biochar into plastic-free bio-based composites to produce carbon-negative packaging and construction materials."
 url: "/directory/beyond-sustainable-tech-inc/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.beyonders.tech" target="_blank" rel="noopener">https://www.beyonders.tech</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/beyond-sustainable-tech/" target="_blank" rel="noopener">beyond-sustainable-tech — 587 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~30 (+200% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/beyond-sustainable-tech/" target="_blank" rel="noopener">beyond-sustainable-tech — 649 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~30 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ Beyond Sustainable Tech (BST) is a small Canadian company based in Kedgwick, New
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot, liveliness
+- **2026-10-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness

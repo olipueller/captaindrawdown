@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://ecosecurities.com/" target="_blank" rel="noopener">https://ecosecurities.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ecosecurities/" target="_blank" rel="noopener">ecosecurities — 22,671 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ecosecurities/" target="_blank" rel="noopener">ecosecurities — 23,031 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~273 (-2% YoY)</td></tr>
+  <tr><th>Employees</th><td>~66 (-5% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ EcoSecurities is a Geneva/Carouge-based carbon project developer and climate adv
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-05** — news mention: ecosecurities: 🔍 How can oversight of validation and verification bodies be strengthened to support  ([source](https://www.linkedin.com/company/ecosecurities/#post-f400937e3d97))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate

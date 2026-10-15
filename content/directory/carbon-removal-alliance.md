@@ -30,6 +30,8 @@ Carbon Removal Alliance (CRA) is a US-based policy advocacy coalition founded in
 
 ## History
 
+- **2026-10-10** — news mention: Carbon Removal Alliance: BIG News! Today Terradot and Google are announcing the world’s first megato ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-271059d94826))
+- **2026-09-22** — news mention: The Carbon Removal Crowd Is Feeling Cautiously Optimistic ([source](https://heatmap.news/daily/carbon-removal-climate-week))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-05** — news mention: Carbon Removal Alliance: Congratulations to our member company Avnos for beginning operations on the ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-9d84135b7098))
 - **2026-09-05** — news mention: Carbon Removal Alliance: Carba is excited to share a carbon removal first with U.S. Bank . We are tr ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-e22be91dfa15))

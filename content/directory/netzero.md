@@ -42,6 +42,10 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-30** — news mention: #climateweeknyc #carbonremoval #netzero #climeworks | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7510668733732986880/))
+- **2026-09-23** — news mention: Carbon Plant: CNC Recycling runs a nationwide uPVC recovery network, with processing at its Middlesb ([source](https://www.linkedin.com/company/carbon-plant/#post-d3570bb921be))
+- **2026-09-16** — news mention: #climateweeknyc #cdr #climateaction #carbonremoval #netzero #climatetech | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:share:7505616459339825152/))
+- **2026-09-15** — news mention: NetZero: We are thrilled to announce the expansion of our operations to sugarcane â a major milest ([source](https://www.linkedin.com/company/netzero/#post-520589f70c38))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-13** — news mention: Onnu: Another household name is backing biochar 🍃  PayPal is continuing to build a diversified carbo ([source](https://www.linkedin.com/company/onnuhq/#post-cfca6d15d35a))
 - **2026-09-09** — news mention: Supercritical: Most companies buying removal this year will find in December that the tonnes they wa ([source](https://www.linkedin.com/company/gosupercritical/#post-3d46bc919598))
@@ -68,10 +72,6 @@ Independently verified by carbon-credit registries:
 - **2026-07-05** — news mention: Read the full story 👇 https://t.co/uEZwn4pMNd ([source](https://x.com/CekirdekGLOBAL/status/2073667715387052204))
 - **2026-07-01** — news mention: #canadaday #carbonremoval #enhancedrockweathering #climatesolutions #netzero #undocarbon #cdr #clima ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477740297943441409/))
 - **2026-06-29** — news mention: #londonclimateactionweek #climateaction #netzero #carbonremoval | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477266874024620032/))
-- **2026-06-27** — news mention: #carbonremoval #netzero #climateaction #lcaw26 | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:share:7476251313849311232/))
-- **2026-06-24** — news mention: #carbondioxideremoval #cdrterra #carbondioxideremoval #cdr #climateresearch #netzero #beccs #daccs # ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475555039118417921/))
-- **2026-06-24** — news mention: #londonclimateactionweek #lcaw2026 #climateaction #carbonmarkets #sustainability #climatesolutions # ([source](https://www.linkedin.com/feed/update/urn:li:share:7474809515964723200/))
-- **2026-06-24** — news mention: #cdrexperiencetour #carbondioxieremoval #cdr #netzero #climateaction | Deutscher Verband für negativ ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473732709928984576/))
 
 ---
 

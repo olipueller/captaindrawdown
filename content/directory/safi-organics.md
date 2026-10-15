@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://safiorganics.co.ke/" target="_blank" rel="noopener">https://safiorganics.co.ke/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/safi-organics-ltd/" target="_blank" rel="noopener">safi-organics-ltd — 2,991 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~29 (+26% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,7 @@ Safi Organics is a Kenyan MIT-spinout (founded 2015) that converts rice husks an
 
 ## History
 
+- **2026-10-04** — news mention: Safi Organics: We’re pleased to share that Safi Organics Ltd has registered with Isometric . Our #Mw ([source](https://www.linkedin.com/company/safi-organics-ltd/#post-ef5e57b17308))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

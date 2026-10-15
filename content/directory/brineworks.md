@@ -29,6 +29,9 @@ Brineworks is an Amsterdam-based climate tech startup founded in 2023 by Gudfinn
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
+- **2026-10-04** — news mention: Brineworks: We are very proud to be one of the eight suppliers in Milkywire 's latest round of carbo ([source](https://www.linkedin.com/company/brine-works/#post-a3b5512cd1af))
+- **2026-10-01** — news mention: Milkywire: 🌍 Milkywire has completed eight Salesforce-backed pre-purchases, securing 3,661 tonnes of ([source](https://www.linkedin.com/company/milkywire/#post-08426181283f))
 - **2026-08-29** — news mention: Brineworks: On June 4, we opened the doors to our Direct Air Capture demonstration plant at Amsterda ([source](https://www.linkedin.com/company/brine-works/#post-fe57669ce1b2))
 - **2026-07-24** — news mention: Brineworks: On June 4, we opened the doors to our Direct Air Capture demonstration plant at Amsterda ([source](https://www.linkedin.com/company/brine-works/#post-cec3800f5ca3))
 - **2026-06-08** — news mention: Brineworks Opens New Amsterdam DAC Demo Plant, Targeting Sub-$115 CO2 Capture ([source](https://carbonherald.com/brineworks-opens-new-amsterdam-dac-demo-plant-targeting-sub-115-co2-capture/?utm_source=rss&utm_medium=rss&utm_campaign=brineworks-opens-new-amsterdam-dac-demo-plant-targeting-sub-115-co2-capture))

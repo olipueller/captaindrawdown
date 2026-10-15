@@ -15,7 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Finland</td></tr>
   <tr><th>Website</th><td><a href="https://www.compensate.com/" target="_blank" rel="noopener">https://www.compensate.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/compensate-foundation/" target="_blank" rel="noopener">compensate-foundation — 6,795 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~3 (-50% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -29,6 +31,14 @@ Compensate is a Helsinki-based carbon offset broker/retailer that curates a port
 
 ## History
 
+- **2026-10-15** — refresh: coresignal
+- **2026-10-14** — news mention: Can Seaweed Farming Compensate for Kelp Forest Losses? ([source](https://biochartoday.com/news/university-of-western-australia-and-bedford-institute-of-oceanography-researchers-evaluate-seaweed-carbon-removal-limits-against-climate-driven-kelp-loss/))
+- **2026-10-09** — news mention: 💡 Consulting local communities and scientific experts in the planning of projects was the strongest  ([source](https://bsky.app/profile/liviafritz.bsky.social/post/3mxgof7dtus2w))
+- **2026-10-05** — news mention: For example, Alphabet, Meta, Amazon and Microsoft went from 14,200 permanent-removal carbon credits  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mx532gf3mc2a))
+- **2026-10-03** — news mention: Carbon Centric: The EU proposes to buy up to 𝟮𝟱𝟬 million permanent carbon removal units. 𝘖𝘷𝘦𝘳𝘢𝘭𝘭, 𝘵𝘩 ([source](https://www.linkedin.com/company/carboncentric/#post-22534bb1dd0d))
+- **2026-09-29** — news mention: Novocarbo: European cities are counting on carbon removal #CDR to compensate for a fifth of their em ([source](https://www.linkedin.com/company/novocarbo/#post-801575a0833b))
+- **2026-09-18** — news mention: Sustained Neutralization of the Warming Response to Emissions through Multiple Mitigation Strategies ([source](https://doi.org/10.70212/cdrxiv.2026521.v2))
+- **2026-09-18** — news mention: Towards circularity in shellfish aquaculture: stimulating mussel shell dissolution in marine sedimen ([source](https://doi.org/10.5194/bg-23-6447-2026))
 - **2026-09-15** — refresh: screenshot
 - **2026-08-19** — news mention: The role of shipping capacity and maritime regulation in ocean liming deployment ([source](https://doi.org/10.21203/rs.3.rs-10430642/v1))
 - **2026-08-14** — news mention: European cities plan to compensate for a fifth of their emissions through carbon removal, few have t ([source](https://www.pik-potsdam.de/en/news/latest-news/european-cities-plan-to-compensate-for-a-fifth-of-their-emissions-through-carbon-removal-few-have-thought-through-how))

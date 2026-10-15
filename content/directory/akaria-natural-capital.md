@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Website</th><td><a href="https://www.akariacapital.com/" target="_blank" rel="noopener">https://www.akariacapital.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/akaria-natural-capital/" target="_blank" rel="noopener">akaria-natural-capital</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/akaria-natural-capital/" target="_blank" rel="noopener">akaria-natural-capital — 1,019 followers</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -31,6 +31,7 @@ Akaria Natural Capital is a Singapore-based impact investment manager founded in
 
 ## History
 
+- **2026-10-15** — refresh: coresignal
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Afforestation focus=ecosystem liveliness=🟡 Moderate ([source](https://www.akariacapital.com/))

@@ -30,6 +30,7 @@ SUEZ is a large French waste and water utility (~26,000 employees) developing ca
 
 ## History
 
+- **2026-10-12** — news mention: Biochar Market Size, Share, Trends, Competitive Landscape, Regional Analysis and Forecast 2026–2035 ([source](https://www.marketbusinessinsights.com/biochar-market))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-07-30** — news mention: Mini Green Power: https://lnkd.in/e67HQM-k Mini Green Power en liquidation après la rupture d'un con ([source](https://www.linkedin.com/company/mini-green-power/#post-15c069245261))
 - **2026-07-23** — news mention: Mini Green Power: https://lnkd.in/e67HQM-k Mini Green Power en liquidation aprÃ¨s la rupture d'un co ([source](https://www.linkedin.com/company/mini-green-power/#post-4d43ec8bd315))

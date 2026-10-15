@@ -5,7 +5,7 @@ type: "directory"
 description: "Deploys modular reactors that add alkaline minerals to high-CO2 coastal/river water, converting dissolved CO2 into stable bicarbonate, paired with a proprietary real-time carbon-system sensor for MRV."
 url: "/directory/vycarb/"
 pathway: "Ocean CDR"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,9 @@ liveliness: "🟠 Suspect"
   <tr><th>Method</th><td>Ocean Alkalinity Enhancement</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.vy-carb.com/" target="_blank" rel="noopener">https://www.vy-carb.com/</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/vycarb/" target="_blank" rel="noopener">vycarb — 2,723 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~22</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +31,10 @@ Vycarb is a Brooklyn-based ocean alkalinity enhancement startup founded in 2022 
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, liveliness
+- **2026-10-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://pitchbook.com/profiles/company/515320-12))
+- **2026-09-19** — news mention: Vycarb Successfully Stores Low-Purity CO2 In Seawater - CleanTechnica ([source](https://cleantechnica.com/2026/08/28/vycarb-successfully-stores-low-purity-co2-in-seawater/))
+- **2026-09-19** — news mention: Biochar applications can help mitigate climate change, improve soil health and support a circular ec ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mvvkvwe6rs2c))
 - **2026-09-15** — refresh: screenshot, liveliness
 - **2026-09-15** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://pitchbook.com/profiles/company/515320-12))
 - **2026-08-15** — refresh: liveliness

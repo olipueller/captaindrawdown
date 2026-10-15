@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.ecoengineers.us/" target="_blank" rel="noopener">https://www.ecoengineers.us/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ecoengineers/" target="_blank" rel="noopener">ecoengineers — 12,858 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ecoengineers/" target="_blank" rel="noopener">ecoengineers — 13,285 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~104 (-25% YoY)</td></tr>
+  <tr><th>Employees</th><td>~102 (-13% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ EcoEngineers is a Des Moines, Iowa-based consulting, auditing, and advisory firm
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-09-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-09-12** — news mention: ACT Group: 🌎 Brimex Energy®  emite el primer certificado de biometano de México para Norteamérica Br ([source](https://www.linkedin.com/company/actgroup/#post-b7ef658e7aa9))
 - **2026-09-03** — news mention: EcoEngineers: We’re proud to share that EcoEngineers, an LRQA company, has been named a qualified au ([source](https://www.linkedin.com/company/ecoengineers/#post-c84a55bcd980))

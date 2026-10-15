@@ -44,6 +44,8 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-10** — news mention: Carba: Great news to share for the Carba team! Carba earned the largest allocation in Milkywire's la ([source](https://www.linkedin.com/company/carbainc/#post-2089ebb73691))
+- **2026-10-01** — news mention: Milkywire: 🌍 Milkywire has completed eight Salesforce-backed pre-purchases, securing 3,661 tonnes of ([source](https://www.linkedin.com/company/milkywire/#post-08426181283f))
 - **2026-09-12** — news mention: As I understand it, Carba sold the biochar based CORCs to U.S. Bank for less than $100/tonne of CO2. ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mvdarhk2j22n))
 - **2026-09-07** — news mention: Carba Inaugurates Molten Salt Reactor in Minnesota to Boost Biochar Efficiency and Yields &#8211; Bi ([source](https://biochartoday.com/news/carba-inaugurates-molten-salt-reactor-in-minnesota-to-boost-biochar-efficiency-and-yields/))
 - **2026-09-07** — news mention: U.S. Bank is one of our major banks that has pretty much divested from the fossil fuel industry.  Ca ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3muwo5eagjc2z))

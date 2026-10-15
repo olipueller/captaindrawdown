@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>CDR Platform/Marketplace</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://carboncontainmentlab.org/" target="_blank" rel="noopener">https://carboncontainmentlab.org/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-containment-lab/" target="_blank" rel="noopener">carbon-containment-lab — 2,713 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-containment-lab/" target="_blank" rel="noopener">carbon-containment-lab — 3,438 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~32</td></tr>
+  <tr><th>Employees</th><td>~29 (0% YoY)</td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -35,6 +35,7 @@ Carbon Containment Lab is a 501(c)(3) climate nonprofit supporting the design, t
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-08-29** — news mention: Carbon Containment Lab: 🌲🔥 The cheapest carbon removal in the West may already be sitting in slash p ([source](https://www.linkedin.com/company/carbon-containment-lab/#post-cab788ab529b))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot

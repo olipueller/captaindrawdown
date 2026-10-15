@@ -34,6 +34,8 @@ Mangrove Systems is a Toronto-based digital MRV software company whose Mangrove 
 
 ## History
 
+- **2026-10-11** — news mention: Pacific Biochar: Our Humboldt Sawmill project has been generating carbon credits since 2020, and was ([source](https://www.linkedin.com/company/pacific-biochar/#post-38dcca3fad4e))
+- **2026-10-02** — news mention: Grain Ecosystem: Today, weâre proud to share an important update in the Grain journey.   Mangrove  ([source](https://www.linkedin.com/company/grain-ecosystem/#post-0f744574a362))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-05** — news mention: Mangrove Systems: We're thrilled to announce our new partnership with 易境永續設計顧問有限公司 GreenJump Sustain ([source](https://www.linkedin.com/company/gomangrove/#post-2d5f53b96777))
 - **2026-07-31** — news mention: Pacific Biochar: Our Humboldt Sawmill project has been generating carbon credits since 2020, and was ([source](https://www.linkedin.com/company/pacific-biochar/#post-811efd2c0c8d))

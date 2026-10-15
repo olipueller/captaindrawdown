@@ -33,6 +33,9 @@ Arca Climate Technologies is a UBC spin-off based in Vancouver that works in par
 
 ## History
 
+- **2026-10-09** — news mention: Climate overshoot is here. Canada can build the industry that helps contain it | Canada's National O ([source](https://www.nationalobserver.com/2026/10/09/opinion/climate-overshoot-carbon-removal-tech))
+- **2026-09-18** — news mention: CO2 Mineralization Market Expected to Grow at 10.1% CAGR During 2026-2032 Amid Rising Net-Zero Emiss ([source](https://www.openpr.com/news/4635752/co2-mineralization-market-expected-to-grow-at-10-1-cagr-during))
+- **2026-09-16** — news mention: Carbon Dioxide Removal Market - A Global and Regional Analysis: Focus on Technology Type, Carbon Cre ([source](https://bisresearch.com/industry-report/carbon-dioxide-removal-market.html))
 - **2026-09-11** — news mention: Arca: 1 tonne of mineralized CO₂ ≠ 1 tonne of carbon removal. This distinction is what Isometric ’s  ([source](https://www.linkedin.com/company/arcaclimate/#post-5650d2d43864))
 - **2026-08-15** — refresh: coresignal
 - **2026-07-28** — news mention: Our team was excited to contribute to the conversation during PNW Climate Week last week alongside o ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7487571648573997058/))

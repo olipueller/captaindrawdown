@@ -30,6 +30,11 @@ Blue Planet Systems is a Silicon Valley-based carbon capture and mineralization 
 
 ## History
 
+- **2026-10-10** — news mention: Blue Planet: Blue Planet Systems Corporation, a leader in carbon capture and utilization technology, ([source](https://www.linkedin.com/company/blueplanetsystems/#post-6cf3bbf0cee5))
+- **2026-09-22** — news mention: CO2 Mineralization Reactor Market 2026: Key Players, Decarbonization Trends and Business Opportuniti ([source](https://www.openpr.com/news/4639901/co2-mineralization-reactor-market-2026-key-players))
+- **2026-09-19** — news mention: Blue Planet Systems: Blue Planet Systems Corporation, a leader in carbon capture and utilization tec ([source](https://www.linkedin.com/company/blueplanet-ltd/#post-7e7f4ea7b09b))
+- **2026-09-18** — news mention: CO2 Mineralization Market Expected to Grow at 10.1% CAGR During 2026-2032 Amid Rising Net-Zero Emiss ([source](https://www.openpr.com/news/4635752/co2-mineralization-market-expected-to-grow-at-10-1-cagr-during))
+- **2026-09-16** — news mention: Carbon Dioxide Removal Market - A Global and Regional Analysis: Focus on Technology Type, Carbon Cre ([source](https://bisresearch.com/industry-report/carbon-dioxide-removal-market.html))
 - **2026-09-05** — news mention: Blue Planet: Blue Planet Systems Corporation, a leader in carbon capture and utilization technology, ([source](https://www.linkedin.com/company/blueplanetsystems/#post-769a77036cc1))
 - **2026-09-04** — news mention: International Carbon Registry (ICR): We’re pleased to announce the launch of the public consultation ([source](https://www.linkedin.com/company/international-carbon-registry/#post-be4427b81b39))
 - **2026-08-15** — refresh: coresignal

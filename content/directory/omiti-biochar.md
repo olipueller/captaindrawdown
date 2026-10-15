@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Namibia</td></tr>
   <tr><th>Website</th><td><a href="https://omitibiochar.com/" target="_blank" rel="noopener">https://omitibiochar.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/omiti-biochar/" target="_blank" rel="noopener">omiti-biochar — 328 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/omiti-biochar/" target="_blank" rel="noopener">omiti-biochar — 341 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~3 (+50% YoY)</td></tr>
+  <tr><th>Employees</th><td>~30 (+33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ Omiti Biochar is a Namibian company developing community-based biochar carbon re
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://omitibiochar.com/))
 - **2026-04-19** — refresh: coresignal, liveliness

@@ -35,6 +35,13 @@ Heirloom is a U.S. Direct Air Capture pure-play that uses limestone-based solid 
 
 ## History
 
+- **2026-10-09** — news mention: CCUS Technology | Carbon Capture and Carbon-to-Stone ([source](https://riceias.com/carbon-capture-ccus-carbon-to-stone-technology/))
+- **2026-10-09** — news mention: Top 10 US Climate Tech Startups Building a Carbon-Free Economy in 2026. - Best Startup US ([source](https://beststartup.us/top-10-us-climate-tech-startups-2026/))
+- **2026-09-30** — news mention: Heirloom: ETH: How cement plants can remove CO₂ from the atmosphere ETH Zürich researchers show that ([source](https://www.linkedin.com/company/heirloom-carbon/#post-14737aafcee9))
+- **2026-09-28** — news mention: Carbon Dioxide Removal Market Is Going to Boom |• Climeworks • Carbon Engineering • Global CCS Insti ([source](https://www.openpr.com/news/4645712/carbon-dioxide-removal-market-is-going-to-boom-climeworks))
+- **2026-09-25** — news mention: 「ネガティブエミッション技術市場規模、成長と動向分析レポート 2026-2033年」の市場調査レポート出版・販売開始のご案内 | 株式会社SEMABIZのプレスリリース ([source](https://www.dreamnews.jp/press/0000363578))
+- **2026-09-23** — news mention: Navigating the Future: Climate Adaptation Market Size Valued at USD 33.65 Bn in 2025 and Projected t ([source](https://www.nsnheadlines.com/post/navigating-the-future-climate-adaptation-market-size-valued-at-usd-33-65-bn-in-2025-and-projected-t))
+- **2026-09-17** — news mention: Top 10: Carbon Capture Companies | Energy Digital ([source](https://energydigital.com/top10/top-10-carbon-capture-companies-2026))
 - **2026-08-26** — news mention: Heirloom: ETH: How cement plants can remove CO₂ from the atmosphere ETH Zürich researchers show that ([source](https://www.linkedin.com/company/heirloom-carbon/#post-0d5821a1e9a5))
 - **2026-08-22** — news mention: CDR Supply Showcases, nasdaq, Stockholm | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7496548530556366848/))
 - **2026-08-15** — refresh: coresignal
@@ -58,13 +65,6 @@ Heirloom is a U.S. Direct Air Capture pure-play that uses limestone-based solid 
 - **2026-05-12** — news mention: Microsoft Carbon Capture 2025, 18M Tonne Rubicon Deal ([source](https://enkiai.com/bp-dac-initiatives-for-2025-key-projects-strategies-and-partnerships/))
 - **2026-05-06** — news mention: So what? Buyers can keep signing bigger offtakes, but contracts do not build workers, kilowatt-hours ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3ml5wp2z3i32v))
 - **2026-05-06** — news mention: Five numbers from the past week frame CDR's awkward middle age.  Deal sizes are climbing into six-fi ([source](https://x.com/CaptainDrawdown/status/2051892029567734183))
-- **2026-05-05** — news mention: Going from ~420 to 300 ppm means removing roughly 250 GtCO2. At today's DAC energy use (~2 MWh/ton), ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3ml444iq3ul2z))
-- **2026-05-01** — news mention: Heirloom Carbon Capture 2026 targets below $108/ton ([source](https://enkiai.com/carbon-capture/dac-companies-cost-per-ton/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-29** — news mention: Environmental technology: Climeworks receives surprising green light for plant in Louisiana | blue N ([source](https://www.bluewin.ch/en/news/climeworks-receives-surprising-green-light-for-plant-in-louisiana-3209383.html))
-- **2026-04-29** — news mention: Climeworks Given Surprise Green Light For US Plant ([source](https://menafn.com/1111044257/Climeworks-Given-Surprise-Green-Light-For-US-Plant))
-- **2026-04-29** — news mention: Climeworks given surprise green light for US plant - SWI swissinfo.ch ([source](https://www.swissinfo.ch/eng/climate-solutions/climeworks-receives-surprising-green-light-for-plant-in-louisiana/91326278))
 
 ---
 

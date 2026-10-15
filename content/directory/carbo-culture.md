@@ -42,6 +42,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-17** — news mention: Carbo Culture: Impact Loop dove into Carbo Culture 's first of a kind 'ARC' in Middenmeer, NL where  ([source](https://www.linkedin.com/company/carbo-culture/#post-686817ed0340))
 - **2026-08-22** — news mention: CDR Supply Showcases, nasdaq, Stockholm | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7496548530556366848/))
 - **2026-08-15** — refresh: coresignal
 - **2026-06-05** — news mention: Projects - Carbo Culture ([source](https://carboculture.com/technology/arc))

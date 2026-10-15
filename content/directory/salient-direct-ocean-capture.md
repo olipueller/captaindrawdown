@@ -5,7 +5,7 @@ type: "directory"
 description: "Early-stage startup developing electrochemical direct ocean capture (DOC) technology to extract dissolved CO2 from seawater."
 url: "/directory/salient-direct-ocean-capture/"
 pathway: "Ocean CDR"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -13,7 +13,9 @@ liveliness: "🟡 Moderate"
   <tr><th>Pathway</th><td>Ocean CDR</td></tr>
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Unknown</td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/salient-doc/" target="_blank" rel="noopener">salient-doc — 60 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~4 (+33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -25,6 +27,8 @@ Salient Direct Ocean Capture (Salient DOC) is an early-stage startup pioneering 
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, liveliness
+- **2026-10-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟡 Moderate ([source](https://www.linkedin.com/company/salient-doc))
 - **2026-04-19** — refresh: liveliness
 - **2026-04-19** — liveliness: 🟠 Suspect → 🟡 Moderate

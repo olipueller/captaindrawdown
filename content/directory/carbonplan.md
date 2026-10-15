@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://carbonplan.org/" target="_blank" rel="noopener">https://carbonplan.org/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonplan/" target="_blank" rel="noopener">carbonplan — 6,155 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonplan/" target="_blank" rel="noopener">carbonplan — 7,555 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~15 (0% YoY)</td></tr>
+  <tr><th>Employees</th><td>~16 (+7% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,10 @@ CarbonPlan is a U.S. nonprofit (California public benefit corporation) that prod
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-09** — news mention: CarbonPlan: Our Modeling Bytes series examines in-the-weeds decisions that matter when applying reac ([source](https://www.linkedin.com/company/carbonplan/#post-1bf6592fcaf0))
+- **2026-09-25** — news mention: How averaging out the weather affects enhanced weathering estimates – CarbonPlan ([source](https://carbonplan.org/research/modeling-bytes-03-meteorology))
+- **2026-09-25** — news mention: Do enhanced weathering models give different answers if they capture individual rain events instead  ([source](https://bsky.app/profile/carbonplan.org/post/3mwe7cyu64c2x))
 - **2026-09-04** — news mention: CarbonPlan: Two forest offset projects participating in Californiaâs cap-and-trade program are bur ([source](https://www.linkedin.com/company/carbonplan/#post-a506de0a86b2))
 - **2026-08-19** — news mention: Agreed MRV is the bottleneck. Field measurement of cation loss vs modeled weathering rates still div ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mtgdzkl2qa2h))
 - **2026-08-18** — news mention: An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering ([source](https://cdrxiv.org/preprint/417))
@@ -56,10 +60,6 @@ CarbonPlan is a U.S. nonprofit (California public benefit corporation) that prod
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-04-28** — news mention: Job: Executive Director at CarbonPlan - Jobs - Pangeo ([source](https://discourse.pangeo.io/t/job-executive-director-at-carbonplan/5572))
-- **2026-04-23** — news mention: Captain's CDR Log #112: CarbonPlan's Lithos review puts enhanced weathering's MRV on trial | Captain ([source](https://captaindrawdown.com/posts/captains-cdr-log-112/))
-- **2026-04-23** — news mention: Designing a data pipeline for our highest-resolution dataset yet – CarbonPlan ([source](https://carbonplan.org/blog/producing-ocr-data))
-- **2026-04-21** — news mention: Offset project paperwork should be internally consistent. It’s not. – CarbonPlan ([source](https://carbonplan.org/blog/pig-manure-inconsistencies))
 
 ---
 

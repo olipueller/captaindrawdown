@@ -34,6 +34,14 @@ UNDO Carbon Ltd. is a UK-based CO2 removal company specializing in enhanced rock
 
 ## History
 
+- **2026-10-14** — news mention: Permanent Carbon Removal - UNDO Carbon ([source](https://un-do.com/))
+- **2026-10-13** — news mention: #carbonremoval #cdr #enhancedrockweathering #climatetech | UNDO ([source](https://www.linkedin.com/feed/update/urn:li:share:7515340279680393216/))
+- **2026-10-10** — news mention: We’re delighted to celebrate our CFO, Alexandra Bury, who has won Carbon Markets Professional of the ([source](https://www.linkedin.com/feed/update/urn:li:share:7514360814968172544/))
+- **2026-10-09** — news mention: Climate overshoot is here. Canada can build the industry that helps contain it | Canada's National O ([source](https://www.nationalobserver.com/2026/10/09/opinion/climate-overshoot-carbon-removal-tech))
+- **2026-10-01** — news mention: UNDO Impact Update | September 2026 | UNDO ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7510999491601227776/))
+- **2026-09-29** — news mention: #sustainablekingston #kingstonontario #carbonremoval #enhancedrockweathering | UNDO ([source](https://www.linkedin.com/feed/update/urn:li:share:7510370878992519168/))
+- **2026-09-24** — news mention: Supporting Skills and Training Within the Community at Kingston&#039;s Penitentiary Farms - UNDO Car ([source](https://un-do.com/resources/blog/supporting-skills-and-training-within-the-community-at-kingstons-penitentiary-farms/))
+- **2026-09-22** — news mention: #ccc26 #carboncapturecanada #carbonremoval #canadianagriculture | UNDO ([source](https://www.linkedin.com/feed/update/urn:li:share:7508105112494620672/))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-03** — news mention: UNDO: 🚜 A new haulage subsidy for Canadian farms, a UBS accelerator program, and a summer of momentu ([source](https://www.linkedin.com/company/undocarbon/#post-49524054d9de))
 - **2026-09-02** — news mention: UNDO Impact Update | August 2026 | UNDO ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7500543852420800512/))
@@ -58,14 +66,6 @@ UNDO Carbon Ltd. is a UK-based CO2 removal company specializing in enhanced rock
 - **2026-06-26** — news mention: Wiemy jak usunąć CO2 z powietrza. Wykorzystamy do tego skały – Adrian Podgórny (Green Sequest) ([source](https://mamstartup.pl/wiemy-jak-usunac-co2-z-powietrza-wykorzystamy-do-tego-skaly-adrian-podgorny-green-sequest/))
 - **2026-06-24** — news mention: Zoe Couillard Prepares Composite Soil Samples for Analysis | UNDO posted on the topic | LinkedIn ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473011894757494784/))
 - **2026-06-24** — news mention: #wigba #womeningreenbusiness #carbonremoval #cdr #carbonmarkets #climatetech #undocarbon #enhancedro ([source](https://www.linkedin.com/feed/update/urn:li:share:7475178296578654208/))
-- **2026-06-11** — news mention: 🔬 What is SAT-C? | UNDO ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7470422200110710786/))
-- **2026-06-06** — news mention: #undocarbon #carbonremoval #enhancedrockweathering #climatetech #cdr #soilhealth #mrv #sustainableag ([source](https://www.linkedin.com/feed/update/urn:li:share:7467927760230043648/))
-- **2026-06-04** — news mention: It is planting season! 🌱 And #carbonremoval can be part of the future of farming. Here’s a cool exam ([source](https://x.com/naimmerchant/status/2062534629153005788))
-- **2026-06-04** — news mention: UNDO Impact Update | May 2026 | UNDO ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7467492246150406144/))
-- **2026-06-02** — news mention: #enhancedrockweathering #erw #carbonremoval #cdr #mrv #climatetech #soilscience #geochemistry #clima ([source](https://www.linkedin.com/feed/update/urn:li:share:7467494413649412096/))
-- **2026-05-25** — news mention: Biochar from gasification projects like this can stack revenue: renewable gas plus durable carbon re ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmnmquzsm32b))
-- **2026-05-25** — news mention: Jim Mann, founder of UNDO, is becoming the geographic conscience of enhanced rock weathering. His ar ([source](https://x.com/CaptainDrawdown/status/2058776587550568848))
-- **2026-05-25** — news mention: Trees work, but they cap out fast. Limited land, fire risk, and carbon that returns to the air in de ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmndtpxfi62y))
 
 ---
 

@@ -5,7 +5,7 @@ type: "directory"
 description: "Produces enriched biochar from pyrolysis of organic waste biomass, formulated into composts, fertilisers, soil improvers and tree-care products for horticulture and agriculture."
 url: "/directory/carbon-gold/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbongold.com/" target="_blank" rel="noopener">https://www.carbongold.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-gold-ltd/" target="_blank" rel="noopener">carbon-gold-ltd — 1,701 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>Employees</th><td>~9 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,7 @@ Carbon Gold is a UK-based biochar supplier founded in 2007 and headquartered in 
 
 ## History
 
+- **2026-10-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.carbongold.com/))
 - **2026-08-15** — refresh: coresignal, liveliness
 - **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.carbongold.com/))
 - **2026-07-15** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://www.carbongold.com/))

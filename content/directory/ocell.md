@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.ocell.io/" target="_blank" rel="noopener">https://www.ocell.io/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ocell-aero/" target="_blank" rel="noopener">ocell-aero — 7,569 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ocell-io/" target="_blank" rel="noopener">ocell-io — 7,775 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~50 (-18% YoY)</td></tr>
+  <tr><th>Employees</th><td>~125 (-36% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ OCELL is a Munich-based climate-tech startup that develops IFM carbon projects a
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-09-10** — news mention: Ocell: ð Meilenstein fÃ¼r OCELL und die digitale Forstwirtschaft: Wir sind offiziell nach ISO/IEC ([source](https://www.linkedin.com/company/ocell-aero/#post-626b260b31ea))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-07-22** — news mention: Ocell: 🚀 Meilenstein für OCELL und die digitale Forstwirtschaft: Wir sind offiziell nach ISO/IEC 270 ([source](https://www.linkedin.com/company/ocell-aero/#post-df0d72c4d683))

@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonconnect.earth/" target="_blank" rel="noopener">https://www.carbonconnect.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/hempconnecthamburg/" target="_blank" rel="noopener">hempconnecthamburg — 921 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonconnectearth/" target="_blank" rel="noopener">carbonconnectearth — 1,925 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~5 (+67% YoY)</td></tr>
+  <tr><th>Employees</th><td>~6 (+50% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ CarbonConnect GmbH is a Hamburg-based biochar CDR project developer founded in 2
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-13** — news mention: CarbonConnect: 5,000+ tonnes of CO₂. Back in the soil, not the air. That’s what CarbonConnect’s bioc ([source](https://www.linkedin.com/company/hempconnecthamburg/#post-ff50139f4b74))
 - **2026-09-06** — news mention: CarbonConnect: ð¬ Dans le cadre de la dÃ©marche de contribution carbone volontaire du Festival de  ([source](https://www.linkedin.com/company/hempconnecthamburg/#post-f4b86980a60b))
 - **2026-07-25** — news mention: CarbonConnect: 🎬 Dans le cadre de la démarche de contribution carbone volontaire du Festival de Cann ([source](https://www.linkedin.com/company/hempconnecthamburg/#post-e701a094e968))
 - **2026-05-01** — refresh: coresignal, screenshot

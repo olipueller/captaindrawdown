@@ -29,6 +29,7 @@ Bluefield Renewable Energy (BRE) was founded in 2014 and is headquartered in Sin
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
 - **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://bluefieldrenewable.com/))
 - **2026-08-01** — news mention: Bluefield Renewable Energy: https://lnkd.in/gcAZQQRT We can surely use feed grade biochar for all as ([source](https://www.linkedin.com/company/bluefieldrenewable/#post-d20b1de985da))
 - **2026-05-01** — refresh: coresignal

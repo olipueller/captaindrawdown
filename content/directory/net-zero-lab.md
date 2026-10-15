@@ -34,6 +34,7 @@ Net Zero Lab is an independent Max Planck Research Group at the Max Planck Insti
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot

@@ -5,7 +5,7 @@ type: "directory"
 description: "Software/finance platform for sourcing, diligence, pooled-fund financing, and impact management of carbon removal projects on behalf of corporate buyers."
 url: "/directory/opna/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,9 +14,9 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://opna.earth" target="_blank" rel="noopener">https://opna.earth</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/salt-global-inc/" target="_blank" rel="noopener">salt-global-inc — 8,586 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Employees</th><td>~4 (-56% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/opna-earth/" target="_blank" rel="noopener">opna-earth — 8,738 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~8 (+60% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ Opna is a UK-based climate finance platform founded in 2022 by Shilpika Gautam t
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot, liveliness
+- **2026-10-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — merged 1 duplicate(s): SALT Global Tech
 - **2026-04-19** — refresh: coresignal, liveliness

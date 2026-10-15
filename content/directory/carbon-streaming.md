@@ -5,7 +5,7 @@ type: "directory"
 description: "Carbon credit streaming/royalty finance firm that provides upfront capital to project developers in exchange for rights to future credits, then sells those credits to corporate buyers."
 url: "/directory/carbon-streaming/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,9 +15,9 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonstreaming.com/" target="_blank" rel="noopener">https://www.carbonstreaming.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-streaming-corp/" target="_blank" rel="noopener">carbon-streaming-corp — 5,759 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Employees</th><td>~5</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonstreaming/" target="_blank" rel="noopener">carbonstreaming — 5,791 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~4 (-20% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,6 +31,10 @@ Carbon Streaming Corporation is a publicly traded (NETZ/OFSTF) carbon credit str
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot, liveliness
+- **2026-10-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-10-05** — news mention: For example, Alphabet, Meta, Amazon and Microsoft went from 14,200 permanent-removal carbon credits  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mx532gf3mc2a))
+- **2026-10-02** — news mention: Carbon Streaming Sells 100% of the Community Carbon Stream and Inventory of Carbon Credits for US$6, ([source](https://www.globenewswire.com/news-release/2026/10/01/3373470/0/en/carbon-streaming-sells-100-of-the-community-carbon-stream-and-inventory-of-carbon-credits-for-us-6-000-000.html))
 - **2026-08-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-14** — news mention: Carbon Streaming Announces Financial Results for the Three Months Ended March 31, 2026 | OFSTF Stock ([source](https://www.stocktitan.net/news/OFSTF/carbon-streaming-announces-financial-results-for-the-three-months-84ask4c20q4n.html))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active

@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Bolivia</td></tr>
   <tr><th>Website</th><td><a href="https://www.empacar.com.bo/" target="_blank" rel="noopener">https://www.empacar.com.bo/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/empacar-s-a/" target="_blank" rel="noopener">empacar-s-a — 55,768 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/empacarbolivia/" target="_blank" rel="noopener">empacarbolivia — 61,366 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~277 (+19% YoY)</td></tr>
+  <tr><th>Employees</th><td>~297 (+16% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -30,6 +30,9 @@ Empacar S.A. is Bolivia's largest sustainable packaging and recycling company, f
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-09-24** — news mention: Turkish producer ships 3,375 tonnes of wood pellets to EU and UK - Europe ([source](https://www.europesays.com/europe/145376/))
+- **2026-09-17** — news mention: Von der Leyen positions biomethane as Europe's strategic energy independence tool - Europe ([source](https://www.europesays.com/europe/140336/))
 - **2026-07-22** — news mention: Cercarbono: Cercarbono has opened the public comment period for the Carbon X Bolivia Circular Plasti ([source](https://www.linkedin.com/company/cercarbono/#post-ab224c9a01f7))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://puro.earth/our-blog/368-empacar-to-scale-biochar-as-high-integrity-carbon-dioxide-removal-pathway-in-bolivia))

@@ -34,6 +34,8 @@ Neustark is a Swiss climate-tech company founded in 2019 (ETH Zurich spin-off), 
 
 ## History
 
+- **2026-09-29** — news mention: Nicht das Geld 💰, ... nicht die Emissionsrechte 📜, ... nicht einmal die CO2-Tonnen 😶‍🌫️. (1/11) ([source](https://bsky.app/profile/tiefenbacherin.bsky.social/post/3mwnf72m4mc2p))
+- **2026-09-16** — news mention: Carbon Dioxide Removal Market - A Global and Regional Analysis: Focus on Technology Type, Carbon Cre ([source](https://bisresearch.com/industry-report/carbon-dioxide-removal-market.html))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-09** — news mention: Neustark: Most companies buying #carbonremoval from neustark today are large organizations – cantona ([source](https://www.linkedin.com/company/neustark/#post-44de944dc9c8))
 - **2026-08-16** — news mention: 350solutions: Why was Puro.earth 's COO at a neustark facility this month? Benno Fuchs recently join ([source](https://www.linkedin.com/company/350solutions/#post-2ff9aa11ae02))

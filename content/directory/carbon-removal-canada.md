@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://carbonremoval.ca/" target="_blank" rel="noopener">https://carbonremoval.ca/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-removal-canada/" target="_blank" rel="noopener">carbon-removal-canada — 7,799 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-removal-canada/" target="_blank" rel="noopener">carbon-removal-canada — 8,898 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~5 (+8% YoY)</td></tr>
+  <tr><th>Employees</th><td>~17 (+21% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ Carbon Removal Canada is an independent policy advocacy initiative, a project of
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-09-26** — news mention: Clean the Sky - International Carbon Frameworks ([source](https://www.cleanthesky.com/innovation/policy-framework))
 - **2026-09-10** — news mention: Carbon Removal Canada: Congratulations to the Government of Canada, the Government of Alberta, and E ([source](https://www.linkedin.com/company/carbon-removal-canada/#post-ceee2dbbeb9e))
 - **2026-09-03** — news mention: UNDO: 🚜 A new haulage subsidy for Canadian farms, a UBS accelerator program, and a summer of momentu ([source](https://www.linkedin.com/company/undocarbon/#post-49524054d9de))
 - **2026-08-27** — news mention: Carbon Business Council: Four in five Canadians consider carbon removal essential to building a stro ([source](https://www.linkedin.com/company/carbonbusinesscouncil/#post-e630b7882a3b))

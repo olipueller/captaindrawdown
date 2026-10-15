@@ -31,6 +31,12 @@ liveliness: "🟢 Active"
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
+- **2026-10-02** — news mention: In terms of scaling up CDR, the DAC company, 1PointFive has sold a little over 15,000 tonnes of carb ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mwvropr2g22a))
+- **2026-10-02** — news mention: 1PointFive Sells Over 15k Tonnes Of CDR Credits Through Channel Partners ([source](https://carbonherald.com/1pointfive-sells-over-15k-tonnes-of-cdr-credits-through-channel-partners/?utm_source=rss&utm_medium=rss&utm_campaign=1pointfive-sells-over-15k-tonnes-of-cdr-credits-through-channel-partners))
+- **2026-09-28** — news mention: Direct Air Capture Systems Market Size Worth USD 4,542.05 Million by 2034 | CAGR of 46.4% ([source](https://www.openpr.com/news/4645876/direct-air-capture-systems-market-size-worth-usd-4-542-05))
+- **2026-09-25** — news mention: 「ネガティブエミッション技術市場規模、成長と動向分析レポート 2026-2033年」の市場調査レポート出版・販売開始のご案内 | 株式会社SEMABIZのプレスリリース ([source](https://www.dreamnews.jp/press/0000363578))
+- **2026-09-19** — news mention: Oxy | Zero In ([source](https://www.oxy.com/))
 - **2026-09-02** — news mention: 1PointFive: This morning marked a significant milestone for CF Industries and our partners, JERA Co. ([source](https://www.linkedin.com/company/1pointfive/#post-ba755a082389))
 - **2026-08-26** — news mention: 1PointFive: Fantastic to see the release of the 2026 Sustainable Aviation Decarbonisation Roadmap. h ([source](https://www.linkedin.com/company/1pointfive/#post-f2465e97f50b))
 - **2026-08-05** — news mention: Top 10 Leading Carbon Capture Companies in 2026 ([source](https://carbelim.io/top-10-carbon-capture-companies/))

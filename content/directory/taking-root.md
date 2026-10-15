@@ -35,6 +35,7 @@ Taking Root co-founded the CommuniTree Carbon Program with local NGO BOSNICA in 
 
 ## History
 
+- **2026-09-18** — news mention: Taking Root: Big news from Plan Vivo . PV Climate has been approved as a CCP-Eligible carbon-crediti ([source](https://www.linkedin.com/company/takingroot/#post-dfd8174c2f90))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-13** — news mention: Taking Root: Today we're making an announcement we've been waiting to share. PV Climate is now CCP-E ([source](https://www.linkedin.com/company/takingroot/#post-56d72f5979b3))
 - **2026-08-13** — news mention: Taking Root: Big news from Plan Vivo . PV Climate has been approved as a CCP-Eligible carbon-crediti ([source](https://www.linkedin.com/company/takingroot/#post-affb2ae9b8e8))

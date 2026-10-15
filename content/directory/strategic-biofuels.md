@@ -30,6 +30,8 @@ Strategic Biofuels is a US project development company building a flagship BECCS
 
 ## History
 
+- **2026-10-04** — news mention: Strategic Biofuels: Valmet has been selected to provide biomass power generation and flue gas cleani ([source](https://www.linkedin.com/company/strategic-biofuels/#post-41c9d00dbfb4))
+- **2026-09-22** — news mention: Relatedly, Infinium today introduced its mSAF product offering, a new methane-derived sustainable av ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mw4n5whbq226))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-29** — news mention: Strategic Biofuels: A major milestone for Strategic Biofuels and the future of clean energy in Louis ([source](https://www.linkedin.com/company/strategic-biofuels/#post-79a634a0ac78))
 - **2026-08-22** — news mention: Strategic Biofuels: Strategic Biofuels has reached a major milestone in advancing Louisianaâs next ([source](https://www.linkedin.com/company/strategic-biofuels/#post-8ff70d63fd7d))

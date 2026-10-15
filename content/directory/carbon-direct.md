@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>CDR Platform/Marketplace</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbon-direct.com/" target="_blank" rel="noopener">https://www.carbon-direct.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-direct/" target="_blank" rel="noopener">carbon-direct — 53,365 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-direct/" target="_blank" rel="noopener">carbon-direct — 56,246 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~169 (+8% YoY)</td></tr>
+  <tr><th>Employees</th><td>~121 (-26% YoY)</td></tr>
   <tr><th>Open roles</th><td>5 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -34,6 +34,9 @@ Carbon Direct is a New York-based science-driven carbon management firm that adv
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-09-23** — news mention: Relae, Microsoft Publish New High-Quality CDR Criteria, Addressing Delivery Risk For The First Time ([source](https://carbonherald.com/relae-microsoft-publish-new-high-quality-cdr-criteria-addressing-delivery-risk-for-the-first-time/?utm_source=rss&utm_medium=rss&utm_campaign=relae-microsoft-publish-new-high-quality-cdr-criteria-addressing-delivery-risk-for-the-first-time))
+- **2026-09-22** — news mention: Carbon Direct Rebrands As Relae To Reflect Broader Climate And Energy Focus ([source](https://carbonherald.com/carbon-direct-rebrands-as-relae-to-reflect-broader-climate-and-energy-focus/?utm_source=rss&utm_medium=rss&utm_campaign=carbon-direct-rebrands-as-relae-to-reflect-broader-climate-and-energy-focus))
 - **2026-09-02** — news mention: Stockholm Exergi: Building confidence in first-of-a-kind carbon removal | Carbon Direct ([source](https://www.carbon-direct.com/research-and-reports/stockholm-exergi-building-confidence-in-first-of-a-kind-carbon-removal))
 - **2026-09-02** — news mention: Carbon Direct: ð New case study: In March 2025, the Stockholm Exergi bioenergy with carbon captur ([source](https://www.linkedin.com/company/carbon-direct/#post-c0ac66dd247b))
 - **2026-08-26** — news mention: 20260813 - CAI - CDR For Mining.pdf | Carbon Direct ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7498039006396387328/))
@@ -61,9 +64,6 @@ Carbon Direct is a New York-based science-driven carbon management firm that adv
 - **2026-04-28** — news mention: Arca And Carbon Direct Team Up On Scaling Industrial Mineralization ([source](https://carbonherald.com/arca-and-carbon-direct-team-up-on-scaling-industrial-mineralization/?utm_source=rss&utm_medium=rss&utm_campaign=arca-and-carbon-direct-team-up-on-scaling-industrial-mineralization))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.carbon-direct.com/))
-- **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.carbon-direct.com/))
-- **2026-04-18** — news mention: US Energy Department Restores Funding to Carbon Removal Projects - Today in Oil and Gas ([source](https://www.todayinoilandgas.com/2026/04/17/us-energy-department-restores-funding-to-carbon-removal-projects/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

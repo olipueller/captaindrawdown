@@ -33,6 +33,7 @@ Svante is a Vancouver, BC-based carbon capture and removal technology company. I
 
 ## History
 
+- **2026-10-07** — news mention: Svante/Carbon Alpha: Canada is helping to grow the global carbon removal market. The country just an ([source](https://www.linkedin.com/company/svantesolutions/#post-b4099899cd0c))
 - **2026-09-15** — refresh: coresignal, screenshot, liveliness
 - **2026-09-15** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://carboncredits.com/svante-buys-carbon-alpha-to-scale-canadas-cdr-hub/))
 - **2026-09-02** — news mention: Svante/Carbon Alpha: Mercer Peace River is receiving C$20 million in support from the Government of  ([source](https://www.linkedin.com/company/svantesolutions/#post-05804bdf12b1))
@@ -62,7 +63,6 @@ Svante is a Vancouver, BC-based carbon capture and removal technology company. I
 - **2026-04-18** — discovered via: news_feed ([source](https://biomassmagazine.com/articles/abc-biogas-creates-power-for-millions-of-homes-with-room-to-grow))
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.svanteinc.com/))
 
 ---
 

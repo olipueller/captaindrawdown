@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonlimit.com/" target="_blank" rel="noopener">https://www.carbonlimit.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonlimit/" target="_blank" rel="noopener">carbonlimit — 2,683 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonlimit/" target="_blank" rel="noopener">carbonlimit — 2,741 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~5 (-40% YoY)</td></tr>
+  <tr><th>Employees</th><td>~5 (-20% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ Carbon Limit is a Boca Raton, Florida climate tech company founded in 2020/2021 
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-11** — news mention: Carbon Limit: CaptureCrete® goes commercial! At the conclusion of last month, Carbon Limit, in partn ([source](https://www.linkedin.com/company/carbonlimit/#post-b30d5ed57d98))
 - **2026-08-29** — news mention: Carbon Limit: Carbon Limit team members, alongside of our partners at Maschmeyer Concrete Company of ([source](https://www.linkedin.com/company/carbonlimit/#post-e0d4f6499394))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-07-31** — news mention: Carbon Limit: Weâre proud to share that we are officially registered on the Verra Standards. ð  ([source](https://www.linkedin.com/company/carbonlimit/#post-6bf37ba2d5f2))

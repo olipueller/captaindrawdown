@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://rainbowstandard.io/" target="_blank" rel="noopener">https://rainbowstandard.io/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/riverse/" target="_blank" rel="noopener">riverse — 8,157 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rainbowstandard/" target="_blank" rel="noopener">rainbowstandard — 9,584 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~35 (+30% YoY)</td></tr>
+  <tr><th>Employees</th><td>~36 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,27 @@ Rainbow (formerly Riverse) is a France-based carbon credit standard and registry
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-13** — news mention: Our biomass burial module is now published after a full review of feedback from the public consultat ([source](https://www.linkedin.com/feed/update/urn:li:share:7515743214117699585/))
+- **2026-10-09** — news mention: The carbon removal community is quickly pivoting to focus on scaled deployment, and the open questio ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7514239815651860480/))
+- **2026-10-07** — news mention: At the recent Carbon Removal Policy Summit, Carbon Gap presented their new Policy Levers Library.
+
+T ([source](https://www.linkedin.com/feed/update/urn:li:share:7513517834539528193/))
+- **2026-10-03** — news mention: Underground Forest: Underground Forest is working on a Rainbow certification, under the Biobased Con ([source](https://www.linkedin.com/company/underground-forest-b-v/#post-1b9e564ef7c6))
+- **2026-09-28** — news mention: Stack Carbon: ðð¨ððð² ð¦ðð«ð¤ð¬ ð ðððð¢ð§ð¢ð§ð ð¦ð ([source](https://www.linkedin.com/company/stackcarbon/#post-1e69f4d73a4d))
+- **2026-09-27** — news mention: We have over 40 Biomass Carbon Removal and Storage projects in the Rainbow Registry. 
+
+These include ([source](https://www.linkedin.com/feed/update/urn:li:share:7508797384219361280/))
+- **2026-09-26** — news mention: Releaf Earth: Most carbon removal founders are trying to prove their technology works. Uzoma Bailey  ([source](https://www.linkedin.com/company/releaf-earth/#post-4ea686cea67f))
+- **2026-09-23** — news mention: Details of the EU ETS revision, remaining CRCF delegated acts, and public procurement programs are s ([source](https://www.linkedin.com/feed/update/urn:li:share:7508435061403295745/))
+- **2026-09-22** — news mention: The Rainbow Partner Program is growing.
+
+One of the hardest parts of certifying a carbon removal pro ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7508140994807214080/))
+- **2026-09-22** — news mention: SOLER Group: For our most recent team retreat, we toured a climate-conscious champagne house and vis ([source](https://www.linkedin.com/company/solergroup/#post-9ecb7283d62e))
+- **2026-09-19** — news mention: Carbonex | Soler Group: For our most recent team retreat, we toured a climate-conscious champagne ho ([source](https://www.linkedin.com/company/carbonex/#post-9ecb7283d62e))
+- **2026-09-18** — news mention: Crystaltrade: Crystalchain is now part of the Rainbow Partner Programme We're proud to join the Rain ([source](https://www.linkedin.com/company/crystalchain/#post-64d9eda6651e))
+- **2026-09-16** — news mention: For our most recent team retreat, we toured a climate-conscious champagne house and visited a leadin ([source](https://www.linkedin.com/feed/update/urn:li:share:7505543456346402816/))
+- **2026-09-15** — news mention: Tupana: Tupana RGN and BlueLayer are partnering to scale high-integrity industrial biochar carbon re ([source](https://www.linkedin.com/company/tupana-earth/#post-85daa4504bd9))
 - **2026-09-14** — news mention: Biochar Production Equipment: Large & Pilot Scale CDR Solution ([source](https://www.bestongroup.com/biochar-production-equipment/))
 - **2026-09-12** — news mention: Our team will be in New York City and Brussels in the coming weeks. Will we see you there?
 
@@ -55,23 +76,6 @@ The quantification engine behind Arc, our ce ([source](https://www.linkedin.com/
 The reality is biochar spans multip ([source](https://www.linkedin.com/feed/update/urn:li:share:7495373945727193088/))
 - **2026-08-16** — news mention: Stack Carbon: Abundant feedstock, ideal weather, 1,500+ farmers collaborating and a design that meet ([source](https://www.linkedin.com/company/stackcarbon/#post-1756e34f2bd2))
 - **2026-08-15** — news mention: Releaf Earth: Congratulations to Releaf Earth (YC W19) , who has delivered their first carbon remova ([source](https://www.linkedin.com/company/releaf-earth/#post-f73971fbce9b))
-- **2026-08-14** — news mention: Cler-Verts: 📣Une nouvelle avancée pour notre filière biochar ! Notre unité de production de biocha ([source](https://www.linkedin.com/company/cler-verts/#post-78924112fe52))
-- **2026-08-13** — news mention: Carbonapp: Le projet de reconditionnement de matériel IT porté par Largo vient d'émettre pour la deu ([source](https://www.linkedin.com/company/carbonapp-fr/#post-8881a34b4bdf))
-- **2026-08-08** — news mention: Stack Carbon: Today marks a defining milestone for STACK CARBON We are proud to announce that we hav ([source](https://www.linkedin.com/company/stackcarbon/#post-94053f1e64a4))
-- **2026-08-08** — news mention: Tera: High-integrity biochar carbon removal is selling out fast. 🌱 That’s why we’re proud to share t ([source](https://www.linkedin.com/company/teracarbon/#post-660d3236cf2a))
-- **2026-08-07** — news mention: A recent documentary screening at the Royal Automobile Club in London spotlighted Got Ngur, a villag ([source](https://www.linkedin.com/feed/update/urn:li:share:7491040492634230784/))
-- **2026-08-07** — news mention: Cler-Verts: ð£ðð§ð ð§ð¨ð®ð¯ðð¥ð¥ð ðð¯ðð§ððÌð ð©ð ([source](https://www.linkedin.com/company/cler-verts/#post-59cdd4500e4f))
-- **2026-08-06** — news mention: BlueLayer: BlueLayer is now a Rainbow Standard -endorsed dMRV provider. We’ve been selected for the  ([source](https://www.linkedin.com/company/getbluelayer/#post-3463501a5dc5))
-- **2026-08-04** — news mention: Rainbow June &amp;amp; July progress | Rainbow Standard ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7490334838089072640/))
-- **2026-08-04** — news mention: Beston: 🌍 Big News: Beston Group is now a Rainbow Partner for Industrial Pyrolysis Manufacturers! We ([source](https://www.linkedin.com/company/beston-henan-machinery-co-ltd-/#post-02e26714b5f4))
-- **2026-07-31** — news mention: Our bio-oil in asphalt module is now finalised under the BiCRS methodology.
-
-Bio-oil is a co-product ([source](https://www.linkedin.com/feed/update/urn:li:share:7488866058926268416/))
-- **2026-07-30** — news mention: Crystaltrade: ðð¿ðððð®ð¹ð°ðµð®ð¶ð» ð¶ð ð»ð¼ð ð½ð®ð¿ð ([source](https://www.linkedin.com/company/crystalchain/#post-814e0f4db545))
-- **2026-07-30** — news mention: Negative Emissions Platform: ðCDR Momentum, Edition 2 This month brought important milestones acr ([source](https://www.linkedin.com/company/negative-emissions-platform/#post-76f853a73091))
-- **2026-07-28** — news mention: The European Commission has proposed to become the largest buyer of carbon dioxide removal in the wo ([source](https://www.linkedin.com/feed/update/urn:li:share:7487771814404997120/))
-- **2026-07-28** — news mention: Carbonfuture: Suppliers certified under the Rainbow Standard can now transact CDR credits through Ca ([source](https://www.linkedin.com/company/carbonfuture/#post-27c91bdbf2b9))
-- **2026-07-28** — news mention: Beston Group: 🌍 Big News: Beston Group is now a Rainbow Partner for Industrial Pyrolysis Manufacture ([source](https://www.linkedin.com/company/beston-henan-machinery-co-ltd-/#post-c29792934933))
 
 ---
 

@@ -30,6 +30,10 @@ Engrow Carbon Energy Private Limited is an Indian private limited company incorp
 
 ## History
 
+- **2026-09-27** — news mention: We have over 40 Biomass Carbon Removal and Storage projects in the Rainbow Registry. 
+
+These include ([source](https://www.linkedin.com/feed/update/urn:li:share:7508797384219361280/))
+- **2026-09-25** — news mention: Carbon Removal India Alliance: ð®ð³ Indiaâs Top Carbon Removal Suppliers ð®ð³ As durable c ([source](https://www.linkedin.com/company/cria-earth/#post-503ebe639179))
 - **2026-09-07** — news mention: Tapovanam Organic Farming Systems: Announcing Cohort 2 of our 🇮🇳 India CDR Startup #Accelerator Prog ([source](https://www.linkedin.com/company/tapovanam-organic-farming-systems-sustainable-business-regenerative-agriculture/#post-965deb7d47d8))
 - **2026-09-07** — news mention: Engrow: Announcing Cohort 2 of our ð®ð³ India CDR Startup #Accelerator Program ð We continued ([source](https://www.linkedin.com/company/engrow-group/#post-bca5e13d4f54))
 - **2026-08-15** — refresh: coresignal

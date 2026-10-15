@@ -39,6 +39,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-14** — news mention: Startup & venture capital news | Dealroom.co ([source](https://dealroom.co/news/))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

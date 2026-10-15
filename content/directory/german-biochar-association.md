@@ -30,6 +30,10 @@ German Biochar e.V. was founded in 2017, originally as the Fachverband Pflanzenk
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
+- **2026-10-03** — news mention: German Biochar Association: 🪨 The Minister of Environment going all in on biochar. 🇹🇼 Imagine if the ([source](https://www.linkedin.com/company/fachverband-pflanzenkohle-e-v/#post-f9a95cc11fbd))
+- **2026-09-30** — news mention: #biochar #carbonremoval #euets #crcf #pflanzenkohle #klimaschutz #germanbiochar #technologieneutrali ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7510683798964187136/))
+- **2026-09-25** — news mention: #germanbiochar #pflanzenkohle #biochar #carbonremoval #cdr #co2entnahme #nachhaltigesbauen #klimasch ([source](https://www.linkedin.com/feed/update/urn:li:share:7508902684205445121/))
 - **2026-08-14** — news mention: #biochar #pflanzenkohle #carbonremoval #cdr #pyrolysis #climatetech #innovation #research | German B ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7493595775680143360/))
 - **2026-07-30** — news mention: German Biochar Association: Concrete and asphalt account for nearly half of embodied carbon in const ([source](https://www.linkedin.com/company/fachverband-pflanzenkohle-e-v/#post-79e5c1b7a79f))
 - **2026-07-23** — news mention: German Biochar Association: 📚 Publikation zur Rolle von Pflanzenkohle im Bauwesen Mit dem Whitepaper ([source](https://www.linkedin.com/company/fachverband-pflanzenkohle-e-v/#post-907f8cfd39b4))

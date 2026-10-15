@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>CDR Platform/Marketplace</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.kanop.io/" target="_blank" rel="noopener">https://www.kanop.io/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/kanop/" target="_blank" rel="noopener">kanop — 7,999 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/kanop/" target="_blank" rel="noopener">kanop — 9,145 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~17 (0% YoY)</td></tr>
+  <tr><th>Employees</th><td>~15 (-29% YoY)</td></tr>
   <tr><th>Open roles</th><td>7 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -35,6 +35,7 @@ Kanop is a Paris-based MRV software company founded in 2021 that uses AI and sat
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-08-27** — news mention: Kanop: 🌱 The EU just gave carbon farming its rulebook. This week the European Commission adopted thr ([source](https://www.linkedin.com/company/kanop/#post-7c1f07b2eb80))
 - **2026-08-20** — news mention: Kanop: ð± The EU just gave carbon farming its rulebook. This week the European Commission adopted  ([source](https://www.linkedin.com/company/kanop/#post-41f6d294ab9c))
 - **2026-07-22** — news mention: Kanop: Verra has officially vetted Kanop as a Data Service Provider for VM0047. That makes us the on ([source](https://www.linkedin.com/company/kanop/#post-18b7df4fc3b2))

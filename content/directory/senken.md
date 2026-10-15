@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.senken.io/" target="_blank" rel="noopener">https://www.senken.io/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/senken/" target="_blank" rel="noopener">senken — 8,424 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/senken/" target="_blank" rel="noopener">senken — 8,839 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~24 (-8% YoY)</td></tr>
+  <tr><th>Employees</th><td>~23</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,9 @@ Senken is a Berlin-based carbon credit procurement platform and marketplace that
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-05** — news mention: CarStorCon: Neugründung der „Allianz für CO₂-Entnahme im Bau“ 🎉 Am 23.9. haben wir gemeinsam mit i ([source](https://www.linkedin.com/company/carstorcon-technologies/#post-169d556114da))
+- **2026-09-28** — news mention: Carbonsate: 50,000 tonnes of permanent carbon removal. A major step for biomass storage carbon remov ([source](https://www.linkedin.com/company/carbonsate/#post-bcfc42be10c9))
 - **2026-08-26** — news mention: CDR.fyi: 📰 This week saw some key developments in durable CDR, Senken and Carbonsate signed a biomas ([source](https://www.linkedin.com/company/cdr-fyi/#post-820fc0e77248))
 - **2026-08-24** — news mention: Carbonsate: 50,000 tonnes of permanent carbon removal. A major step for biomass storage carbon remov ([source](https://www.linkedin.com/company/carbonsate/#post-58910dc2de57))
 - **2026-08-24** — news mention: Tau Carbon: 50,000 tonnes of permanent carbon removal. A major step for biomass storage carbon remov ([source](https://www.linkedin.com/company/tau-carbon/#post-58910dc2de57))
@@ -59,9 +62,6 @@ Carbons ([source](https://www.linkedin.com/feed/update/urn:li:share:749502033328
 - **2026-05-22** — news mention: Lufthansa’s Multi-Year Carbon Removal Bet: What a Mixed Tech-and-Nature Deal Signals for Corporate C ([source](https://carbonmeld.com/en/articles/lufthansa-s-multi-year-carbon-removal-bet-what-a-mixed-tech-and-nature-deal-signals-for-corporate-cdr-buying/))
 - **2026-05-22** — news mention: Lufthansa Signs Tech- And Nature-Based Multi-Year CDR Deal With Senken ([source](https://carbonherald.com/lufthansa-signs-tech-and-nature-based-multi-year-cdr-deal-with-senken/?utm_source=rss&utm_medium=rss&utm_campaign=lufthansa-signs-tech-and-nature-based-multi-year-cdr-deal-with-senken))
 - **2026-05-22** — news mention: Senken | Senken Signs Multi-Year Offtake for Tech- and Nature-Based Carbon Removal with Lufthansa Gr ([source](https://www.finanzwire.com/press-release/senken-etr-senken-signs-multi-year-offtake-for-tech-and-nature-based-carbon-removal-with-lufthansa-group-europes-largest-airline-QwmoFEP258J))
-- **2026-05-21** — news mention: #cdr #carbondioxideremoval #klimaschutz #wissenstransfer | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:share:7462876992414289920/))
-- **2026-05-19** — news mention: Über den Weinanbau hinaus: Weinemissionen in biobasierte Wertstoffe umwandeln - Renewable Carbon New ([source](https://renewable-carbon.eu/news/?p=176903))
-- **2026-05-14** — news mention: CDR Daily Digest — 2026-05-14 ([source](https://www.captaindrawdown.com/posts/daily-digest-2026-05-14/))
 
 ---
 

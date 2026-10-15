@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Afforestation</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.useoffstream.com/" target="_blank" rel="noopener">https://www.useoffstream.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/useoffstream/" target="_blank" rel="noopener">useoffstream — 2,291 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/useoffstream/" target="_blank" rel="noopener">useoffstream — 2,722 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~12 (+100% YoY)</td></tr>
+  <tr><th>Employees</th><td>~5 (+100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
   <tr><th>Registry-verified</th><td>Climate Action Reserve</td></tr>
 </table>
@@ -40,6 +40,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-08-29** — news mention: Offstream: If you're building a carbon removal project, this is the most useful 5-minute read we've  ([source](https://www.linkedin.com/company/useoffstream/#post-7b7bbc606008))
 - **2026-08-10** — news mention: ecoX: This week eco-x.com unveils its Biochar Production Facility in Minneapolis at USBI and then ne ([source](https://www.linkedin.com/company/eco-x-llc/#post-1d74a3c111f2))
 - **2026-05-01** — refresh: coresignal, screenshot

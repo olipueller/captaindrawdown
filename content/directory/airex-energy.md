@@ -33,6 +33,9 @@ Airex Energy is a Québec-based biochar technology company that licenses and ope
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
+- **2026-10-12** — news mention: Biochar Market Size, Share, Trends, Competitive Landscape, Regional Analysis and Forecast 2026–2035 ([source](https://www.marketbusinessinsights.com/biochar-market))
+- **2026-09-19** — news mention: Airex Energy: We are proud to see our portfolio company, Airex Energy , alongside Arbec Forest Produ ([source](https://www.linkedin.com/company/airex-energy/#post-389c81698361))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://airex-energy.com/inauguration-of-carbonity-canadas-largest-biochar-plant-a-concrete-solution-for-soil-regeneration-and-carbon-sequestration/))
 - **2026-04-19** — refresh: coresignal, screenshot

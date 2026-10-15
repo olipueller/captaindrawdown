@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.ducks.org/" target="_blank" rel="noopener">https://www.ducks.org/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ducks-unlimited/" target="_blank" rel="noopener">ducks-unlimited — 72,474 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~768 (+7% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ducks-unlimited/" target="_blank" rel="noopener">ducks-unlimited — 77,657 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~789 (+8% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -31,6 +31,8 @@ Ducks Unlimited is a large US-based nonprofit (founded 1937) dedicated to wetlan
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-09-16** — news mention: Ducks Unlimited: DU has been awarded $5.79 million from the National Fish and Wildlife Foundation to ([source](https://www.linkedin.com/company/ducks-unlimited/#post-e35cf78d1472))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Afforestation focus=side_business liveliness=🟢 Active ([source](https://www.ducks.org/conservation/sustainability/ducks-unlimiteds-carbon-program))
 - **2026-04-19** — refresh: coresignal

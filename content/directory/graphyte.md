@@ -44,6 +44,9 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-12** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-5e4eb86cc6d0))
+- **2026-09-29** — news mention: Sumitomo Corporation: Congratulations to our partner Graphyte on the grand opening of their expanded ([source](https://www.linkedin.com/company/sumitomocorporation/#post-cf3e384f937b))
+- **2026-09-25** — news mention: Graphyte: This past week, Graphyte unveiled the expansion of our Loblolly facility in Pine Bluff, Ar ([source](https://www.linkedin.com/company/graphytecarbon/#post-dfee68a547e8))
 - **2026-09-06** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-f4c001caa2fd))
 - **2026-09-06** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/frontierclimate/#post-f4c001caa2fd))
 - **2026-08-30** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-2acff671adf6))
@@ -71,9 +74,6 @@ Independently verified by carbon-credit registries:
 - **2026-06-03** — news mention: Startup scores big investment for storing carbon in wood bricks - E&E News by POLITICO ([source](https://www.eenews.net/articles/startup-scores-big-investment-for-storing-carbon-in-wood-bricks/))
 - **2026-06-03** — news mention: Graphyte Secures Backing From Sumitomo And Expands Partnerships ([source](https://carbonherald.com/graphyte-secures-backing-from-sumitomo-and-expands-partnerships/?utm_source=rss&utm_medium=rss&utm_campaign=graphyte-secures-backing-from-sumitomo-and-expands-partnerships))
 - **2026-05-06** — news mention: Carbon Removal, Corporate Targets, and Supply Chain Gaps: Where ESG Stands in 2025 | Livio Acerbo’s  ([source](https://www.acerbolivio.com/2026/05/06/carbon-removal-corporate-targets-and-supply-chain-gaps-where-esg-stands-in-2025/))
-- **2026-05-02** — news mention: Exomad Green and Supercritical taped a 10-min podcast announcing a 3-year, up-to-500k-tonne biochar  ([source](https://x.com/CaptainDrawdown/status/2050590646575006137))
-- **2026-05-02** — news mention: Yes, golf grass clippings can be pyrolyzed into biochar. However, because grass clippings are fine a ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkuz6aywyk2w))
-- **2026-05-01** — refresh: screenshot
 
 ---
 

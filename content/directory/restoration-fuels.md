@@ -41,6 +41,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
 - **2026-05-11** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://bluemountaineagle.com/2024/07/31/restoration-fuels-shutters-john-day-torrefaction-plant/))
 - **2026-05-01** — refresh: coresignal
 - **2026-05-01** — refresh: coresignal

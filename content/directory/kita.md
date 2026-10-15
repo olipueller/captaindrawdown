@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>CDR Platform/Marketplace</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.kita.earth/" target="_blank" rel="noopener">https://www.kita.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/kitaearth/" target="_blank" rel="noopener">kitaearth — 9,963 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/kitaearth/" target="_blank" rel="noopener">kitaearth — 10,470 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~21 (+65% YoY)</td></tr>
+  <tr><th>Employees</th><td>~23 (+28% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -34,6 +34,7 @@ Kita is a UK-based Lloyd's of London coverholder and carbon insurance specialist
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-08-20** — news mention: Kita.Earth: We are pleased to formally announce a strategic investment from the Tokio Marine Group * ([source](https://www.linkedin.com/company/kitaearth/#post-07bf417d221b))
 - **2026-08-12** — news mention: Kita: For most of the voluntary carbon market's history, buyers faced a quiet problem: two credits c ([source](https://www.linkedin.com/company/kitaearth/#post-4f1cf04be667))
 - **2026-08-06** — news mention: Tokio Marine Backs Kita To Scale Carbon Market Insurance ([source](https://carbonherald.com/tokio-marine-backs-kita-to-scale-carbon-market-insurance/?utm_source=rss&utm_medium=rss&utm_campaign=tokio-marine-backs-kita-to-scale-carbon-market-insurance))

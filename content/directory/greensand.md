@@ -30,6 +30,11 @@ greenSand is a Netherlands-based enhanced rock weathering supplier in Enkhuizen,
 
 ## History
 
+- **2026-10-09** — news mention: BioCirc: En festdag for CCS i Esbjerg BioCirc er største leverandør af biogen CO₂ til EU’s første fu ([source](https://www.linkedin.com/company/biocirc/#post-6bdbc48b01fb))
+- **2026-10-05** — news mention: Inherit: Two projects in operation in two countries! Last week, we started capturing CO2 from a biom ([source](https://www.linkedin.com/company/agero-carbon-solutions/#post-e6ad4b0968a4))
+- **2026-09-21** — news mention: Nordbex: I was genuinely moved when we arrived in Esbjerg and saw the CO₂ storage vessel Carbon Dest ([source](https://www.linkedin.com/company/nordbex/#post-1a908af128f3))
+- **2026-09-20** — news mention: CO2-Speicher in der Nordsee: Greensand startet ([source](https://www.cleanthinking.de/co2-speicher-nordsee-greensand))
+- **2026-09-19** — news mention: The Sluiskil plant in the Netherlands can capture and liquefy up to 800,000 metric tonnes of CO2 ann ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mvv3av2l6c2c))
 - **2026-09-06** — news mention: Carbon Impact SAS: Les Ã©missions nÃ©gatives et en particulier le BioCCS progressent en Europe ! â  ([source](https://www.linkedin.com/company/carbon-impact-france/#post-563bb58451de))
 - **2026-09-06** — news mention: Carbon Impact: Ein entscheidender Meilenstein fÃ¼r unser BECCS-Projekt: Die gesamte Prozesskette fun ([source](https://www.linkedin.com/company/carbon-impact-france/#post-734a9121c854))
 - **2026-09-06** — news mention: Carbon Impact: Les Ã©missions nÃ©gatives et en particulier le BioCCS progressent en Europe ! â AprÃ ([source](https://www.linkedin.com/company/carbon-impact-france/#post-9803a6bd555a))
@@ -55,11 +60,6 @@ greenSand is a Netherlands-based enhanced rock weathering supplier in Enkhuizen,
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://greensand.com/en/blogs/news/greensand-japan))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://greensand.com/en))
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://greensand.com/en/blogs/news/greensand-japan))
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://greensand.com/en))
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://greensand.com/en))
-- **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://greensand.com/en))
 
 ---
 

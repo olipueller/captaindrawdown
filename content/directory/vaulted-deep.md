@@ -44,6 +44,17 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-08** — news mention: CDR.fyi: 🚨 September soars with 1M tonnes contracted 📈 Following a relatively slow August (128Kt), S ([source](https://www.linkedin.com/company/cdr-fyi/#post-e181fd75f501))
+- **2026-10-02** — news mention: Vaulted Deep secures $35M in financing for carbon removal expansion - Energy Capital ([source](https://energycapitalhtx.com/vaulted-deep-35m-debt-financing))
+- **2026-09-25** — news mention: Vaulted Deep: We’re all about scale. That’s why we’re thrilled to announce a $35 million debt facili ([source](https://www.linkedin.com/company/vaulted-deep/#post-ca8e4d3544ea))
+- **2026-09-23** — news mention: Sidley Represents CFP in Innovative Carbon Removal Financing for Vaulted Deep ([source](https://legaldesire.com/sidley-represents-cfp-in-innovative-carbon-removal-financing-for-vaulted-deep/))
+- **2026-09-23** — news mention: Vaulted Deep Secures $35 Million for National Expansion - Sustainable Business Magazine ([source](https://sustainablebusinessmagazine.net/carbon-footprint/vaulted-deep-secures-35-million-for-national-expansion/))
+- **2026-09-22** — news mention: Vaulted Deep Secures $35 Million In Debt Financing From Mediobanca, Arranged By CFP Energy ([source](https://pulse2.com/vaulted-deep-secures-35-million-in-debt-financing-from-mediobanca-arranged-by-cfp-energy/))
+- **2026-09-22** — news mention: Vaulted Deep gets $35M debt deal to expand injection well technology | Waste Dive ([source](https://www.wastedive.com/news/vaulted-deep-gets-35m-debt-deal-to-expand-bio-waste-cdr-frontier-climate/830993/))
+- **2026-09-22** — news mention: Capsol Secures Five New Carbon Capture Engineering Studies ([source](https://carbonherald.com/capsol-secures-five-new-carbon-capture-engineering-studies/))
+- **2026-09-21** — news mention: Vaulted Deep gets $35M debt deal to expand bio-waste CDR | ESG Dive ([source](https://www.esgdive.com/news/vaulted-deep-gets-35m-debt-deal-to-expand-bio-waste-cdr-frontier-climate/830912/))
+- **2026-09-21** — news mention: Vaulted Deep Secures $35 Million in Debt Financing to Expand Nationwide ([source](https://finance.yahoo.com/energy/articles/vaulted-deep-secures-35-million-130500483.html))
+- **2026-09-21** — news mention: Vaulted Deep Lands $35 Million As Big Tech Bets On Turning Waste Into Carbon Removal ([source](https://carbonherald.com/vaulted-deep-lands-35-million-as-big-tech-bets-on-turning-waste-into-carbon-removal/?utm_source=rss&utm_medium=rss&utm_campaign=vaulted-deep-lands-35-million-as-big-tech-bets-on-turning-waste-into-carbon-removal))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-12** — news mention: CDR.fyi: 🚨 A slow July with ~22,000 tonnes contracted. 📉 Following a step down in June, July saw a s ([source](https://www.linkedin.com/company/cdr-fyi/#post-5b25ffb6f69d))
 - **2026-08-10** — news mention: Flux: Isometric has reached a major milestone—signing our 100th carbon removal supplier, Flux . Over ([source](https://www.linkedin.com/company/flux-earth/#post-a3091f3c0857))

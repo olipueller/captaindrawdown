@@ -31,6 +31,8 @@ Parallel Carbon is a Manchester, UK-based company founded in 2021 that develops 
 
 ## History
 
+- **2026-10-10** — news mention: Flux: Direct Air Capture (DAC) wins big for 🇰🇪 Kenya!! 📢 Tencent has announced the winners of its ne ([source](https://www.linkedin.com/company/flux-carbon/#post-275de1ef31e9))
+- **2026-10-05** — news mention: Flux Carbon: Direct Air Capture (DAC) wins big for 🇰🇪 Kenya!! 📢 Tencent has announced the winners of ([source](https://www.linkedin.com/company/flux-earth/#post-275de1ef31e9))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-05** — news mention: PyroCCS: 📣 Happy news from our alumni community! During London Climate Action Week, four remove alum ([source](https://www.linkedin.com/company/pyroccs/#post-9c412fcfa15e))
 - **2026-09-05** — news mention: Flux: 🏆 From Lab to Scale.....CarbonX 2.0 Winners of $30M are in. 🌍 We at CDR.fyi are thrilled to tr ([source](https://www.linkedin.com/company/flux-carbon/#post-04a10797fc3a))

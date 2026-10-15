@@ -30,6 +30,7 @@ Rhinoflux is a seed-stage company based in Kyoto, Japan, founded in 2024, that o
 
 ## History
 
+- **2026-10-03** — news mention: Rhinoflux: Sludge was always the target. Today we’re running a PoC on it. Too wet to burn well — but ([source](https://www.linkedin.com/company/rhinoflux/#post-deea2735a089))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-01** — news mention: Rhinoflux: We just proved it runs. With Sumitomo Forestry â Japanâs largest forestry company â ([source](https://www.linkedin.com/company/rhinoflux/#post-17bc9782b7ce))
 - **2026-09-01** — news mention: Rhinoflux: Sludge was always the target. Today weâre running a PoC on it. Too wet to burn well â ([source](https://www.linkedin.com/company/rhinoflux/#post-1ac928efaaec))

@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.capturenow.ai/" target="_blank" rel="noopener">https://www.capturenow.ai/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/capture-now-ai/" target="_blank" rel="noopener">capture-now-ai</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/capture-now-ai/" target="_blank" rel="noopener">capture-now-ai — 181 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~30 (+50% YoY)</td></tr>
+  <tr><th>Employees</th><td>~30 (+20% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ CaptureNow (legal name CAPTURENOW LIMITED) is a London-based pre-seed startup th
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-07-28** — news mention: CAPTURENOW LIMITED: Exciting news out of Innovate4Climate at Ecosperity Week: On a panel with Marc R ([source](https://www.linkedin.com/company/capture-now-ai/#post-57ead58d314f))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot

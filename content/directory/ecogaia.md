@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Argentina</td></tr>
   <tr><th>Website</th><td><a href="https://www.ecogaia.earth/" target="_blank" rel="noopener">https://www.ecogaia.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/eco2gaia/" target="_blank" rel="noopener">eco2gaia — 1,309 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/eco2gaia/" target="_blank" rel="noopener">eco2gaia — 1,497 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~9 (0% YoY)</td></tr>
+  <tr><th>Employees</th><td>~5 (+40% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ EcoGaia is an Argentina-based sustainability consultancy and carbon project deve
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-07-25** — news mention: EcoGaia: Carbon credits are only as good as the measurement behind them. Most soil carbon programs s ([source](https://www.linkedin.com/company/eco2gaia/#post-e6aad02e0cc8))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate

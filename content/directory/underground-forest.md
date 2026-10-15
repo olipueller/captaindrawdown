@@ -30,6 +30,8 @@ Underground Forest BV is a Rotterdam-based CDR company founded in 2023 by Kees d
 
 ## History
 
+- **2026-10-03** — news mention: Underground Forest: Underground Forest is working on a Rainbow certification, under the Biobased Con ([source](https://www.linkedin.com/company/underground-forest-b-v/#post-1b9e564ef7c6))
+- **2026-09-21** — news mention: Carbon Lockdown: Tour of Europe, July 2, near Rotterdam, the Netherlands ➡️ 26% of the Netherlands i ([source](https://www.linkedin.com/company/carbon-lockdown/#post-4f2376789ae5))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-01** — news mention: Underground Forest: SOLD OUT: All carbon credits from our Bergambacht Hospice building project 🏗️ We ([source](https://www.linkedin.com/company/underground-forest-b-v/#post-714cfbb89599))
 - **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.undergroundforest.nl/home/en))

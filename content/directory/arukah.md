@@ -39,6 +39,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-07** — news mention: Foundation 1 - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/foundation-1/))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

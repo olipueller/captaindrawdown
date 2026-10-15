@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonpool.earth/" target="_blank" rel="noopener">https://www.carbonpool.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonpool/" target="_blank" rel="noopener">carbonpool — 4,462 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonpool/" target="_blank" rel="noopener">carbonpool — 4,854 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~18</td></tr>
+  <tr><th>Employees</th><td>~13 (-28% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ CarbonPool is a Zurich-based carbon credit insurance company founded in 2023 by 
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-08-28** — news mention: CarbonPool: We are live! Our Reversal Insurance Policy is officially approved by Verra under the Dur ([source](https://www.linkedin.com/company/carbonpool/#post-61ec18ed1398))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-08** — news mention: Community Climate Solutions: ⏰ There's still time to register!    Join us next Tuesday for a panel d ([source](https://www.linkedin.com/company/communityclimatesolutions/#post-77573405bc0e))

@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.appalachiancarbonexchange.com/" target="_blank" rel="noopener">https://www.appalachiancarbonexchange.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/appalachian-carbon-exchange/" target="_blank" rel="noopener">appalachian-carbon-exchange — 284 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/appalachian-carbon-exchange/" target="_blank" rel="noopener">appalachian-carbon-exchange — 403 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~4</td></tr>
+  <tr><th>Employees</th><td>~5 (+67% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ Appalachian Carbon Exchange (ACE) is a Chattanooga, Tennessee-based non-profit s
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-02** — news mention: Appalachian Carbon Exchange: "We believe that our investment and partnership with ACE will last gene ([source](https://www.linkedin.com/company/appalachian-carbon-exchange/#post-7c0cb9306e62))
 - **2026-05-01** — refresh: coresignal, screenshot

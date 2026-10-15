@@ -32,6 +32,7 @@ OBIO AS is a Norwegian biochar company that built and operates the first industr
 
 ## History
 
+- **2026-10-05** — news mention: OBIO: Det er svært positivt å se at både Bondeorganisasjonene og Statsforvaltere i 5 fylker velger å ([source](https://www.linkedin.com/company/obio-norge/#post-e6d176589867))
 - **2026-09-15** — refresh: coresignal, screenshot, liveliness
 - **2026-09-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://biochartoday.com/news/norwegian-startup-obiochar-uses-biochar-for-healthier-livestock-richer-soil-and-carbon-removal/))
 - **2026-09-03** — news mention: Oplandske Bioenergi (OBIO): Det er svÃ¦rt positivt Ã¥ se at bÃ¥de Bondeorganisasjonene og Statsforva ([source](https://www.linkedin.com/company/obio-norge/#post-79e1921bbc30))

@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://climatecleanup.org" target="_blank" rel="noopener">https://climatecleanup.org</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/climatecleanup/" target="_blank" rel="noopener">climatecleanup — 5,993 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/climatecleanup/" target="_blank" rel="noopener">climatecleanup — 6,297 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~20 (+18% YoY)</td></tr>
+  <tr><th>Employees</th><td>~20 (+11% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,6 +31,8 @@ Climate Cleanup Foundation is an Amsterdam-based non-profit (founded 2018) that 
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-09-18** — news mention: Climate Cleanup Foundation: Met koolstofcertificaten kunnen overheden effectief beleid voeren. We zi ([source](https://www.linkedin.com/company/climatecleanup/#post-f13c00b0b584))
 - **2026-07-23** — news mention: Climate Cleanup Foundation: New scientific report just dropped: State of Carbon Dioxide Removal (3rd ([source](https://www.linkedin.com/company/climatecleanup/#post-713baa6a40f0))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal

@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.liferaft.cc/" target="_blank" rel="noopener">https://www.liferaft.cc/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/liferaftcc/" target="_blank" rel="noopener">liferaftcc</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/liferaftcc/" target="_blank" rel="noopener">liferaftcc — 460 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~30</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -30,6 +30,7 @@ Liferaft is a U.S.-headquartered biochar company focused on durable carbon captu
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-07-31** — news mention: Microsoft Carbon Capture 2026, 1M Tonne Liferaft Deal - EnkiAI ([source](https://enkiai.com/carbon-capture/microsoft-beccs-data-centers/))
 - **2026-07-29** — news mention: Liferaft, Microsoft, and Supercritical Finalize 10-Year Offtake Agreement for One Million Carbon Rem ([source](https://biochartoday.com/news/liferaft-microsoft-and-supercritical-finalize-10-year-offtake-agreement-for-one-million-carbon-removal-units/))
 - **2026-07-27** — news mention: Liferaft: Liferaft is thrilled to announce our partnership with Microsoft on a one million carbon re ([source](https://www.linkedin.com/company/liferaftcc/#post-8eff225af141))

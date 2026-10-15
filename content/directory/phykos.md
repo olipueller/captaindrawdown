@@ -15,7 +15,9 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Method</th><td>Marine CDR (Other)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.phykos.co/" target="_blank" rel="noopener">https://www.phykos.co/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/phykos-pbc/" target="_blank" rel="noopener">phykos-pbc — 440 followers</a></td></tr>
   <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Employees</th><td>~1 (-67% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +31,7 @@ Phykos, PBC is an Oakland, California ocean CDR startup founded in 2020 by ex-Go
 
 ## History
 
+- **2026-10-15** — refresh: coresignal
 - **2026-09-15** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness

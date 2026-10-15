@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Thailand</td></tr>
   <tr><th>Website</th><td><a href="https://scginternational.com/products/scg-construction-technology/scg-low-carbon-cement/" target="_blank" rel="noopener">https://scginternational.com/products/scg-construction-technology/scg-low-carbon-cement/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/scg-international/" target="_blank" rel="noopener">scg-international — 4,532 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/scg-international/" target="_blank" rel="noopener">scg-international — 5,448 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2030-05-02</small></td></tr>
-  <tr><th>Employees</th><td>~254 (-4% YoY)</td></tr>
+  <tr><th>Employees</th><td>~750 (+2% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2030-05-02)</small></td></tr>
 </table>
@@ -40,6 +40,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-08-16** — news mention: Towing: TOWING Co., Ltd. and SCG Cement have partnered to produce microbially enriched biochar in Th ([source](https://www.linkedin.com/company/towing-co-ltd/#post-d08c11d37a8b))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot

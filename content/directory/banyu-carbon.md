@@ -5,7 +5,7 @@ type: "directory"
 description: "Uses reversible photoacids activated by sunlight to release CO2 from seawater, enabling the ocean to reabsorb atmospheric CO2 while storing captured CO2 geologically or in products."
 url: "/directory/banyu-carbon/"
 pathway: "Ocean CDR"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.banyucarbon.com/" target="_blank" rel="noopener">https://www.banyucarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/banyu-carbon/" target="_blank" rel="noopener">banyu-carbon — 2,187 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~10 (-8% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,7 @@ Banyu Carbon is a Seattle-based ocean CDR startup spun out of the University of 
 
 ## History
 
+- **2026-10-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.youtube.com/watch?v=eIh_6oiK4U0))
 - **2026-08-15** — refresh: coresignal, liveliness
 - **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.youtube.com/watch?v=eIh_6oiK4U0))
 - **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.youtube.com/watch?v=eIh_6oiK4U0))

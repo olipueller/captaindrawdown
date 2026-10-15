@@ -29,6 +29,7 @@ BLOCK Bio Innovationen GmbH & Co. KG (BLOCK Pflanzenkohle) is a family-run bioch
 
 ## History
 
+- **2026-09-19** — news mention: Beetle Regen Solutions: Beetle Regen Solutions has partnered with IDH India and BESTSELLER on a new  ([source](https://www.linkedin.com/company/beetle-regen-solutions/#post-ef3208ce8351))
 - **2026-09-07** — news mention: U.S. Bank is one of our major banks that has pretty much divested from the fossil fuel industry.  Ca ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3muwo5eagjc2z))
 - **2026-09-04** — news mention: Underserved Communities Again Ask Courts to Restore Justice Grant Funding ([source](https://insideclimatenews.org/news/04092026/communities-sue-again-over-termination-of-environmental-justice-grants/))
 - **2026-09-03** — news mention: New Trump Rules Would Limit State Power to Block Pipelines, Energy Projects ([source](https://insideclimatenews.org/news/03092026/epa-clean-water-act-provision-would-limit-state-power/))
@@ -64,7 +65,6 @@ BLOCK Bio Innovationen GmbH & Co. KG (BLOCK Pflanzenkohle) is a family-run bioch
 - **2026-06-24** — news mention: 🏗️ Building Block #6 of 30 Building Blocks from the Last Year of Building Happy Ground
 
 𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒇𝒂𝒓 ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7474428090438524929/))
-- **2026-06-10** — news mention: Energy-hungry aluminum plant is swept up in Oklahoma governor’s race ([source](https://www.canarymedia.com/articles/clean-aluminum/aluminum-plant-oklahoma-governor-race))
 
 ---
 

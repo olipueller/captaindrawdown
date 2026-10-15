@@ -29,6 +29,11 @@ Releaf Earth is a Nigerian climate-agritech company that processes palm nuts fro
 
 ## History
 
+- **2026-09-27** — news mention: We have over 40 Biomass Carbon Removal and Storage projects in the Rainbow Registry. 
+
+These include ([source](https://www.linkedin.com/feed/update/urn:li:share:7508797384219361280/))
+- **2026-09-26** — news mention: Releaf Earth: Most carbon removal founders are trying to prove their technology works. Uzoma Bailey  ([source](https://www.linkedin.com/company/releaf-earth/#post-4ea686cea67f))
+- **2026-09-17** — news mention: Releaf Earth Executives Raise $1.5 Million to Turn Africa’s Farm Waste Into Carbon Credits ([source](https://www.techcrier.com/2026/09/releaf-earth-executives-raise-15.html))
 - **2026-08-22** — news mention: Releaf Earth: We are excited to share a major milestone: Our CEO, Ikenna Nzewi , has officially anno ([source](https://www.linkedin.com/company/releaf-earth/#post-d148300c7e0a))
 - **2026-08-15** — news mention: Releaf Earth: Congratulations to Releaf Earth (YC W19) , who has delivered their first carbon remova ([source](https://www.linkedin.com/company/releaf-earth/#post-f73971fbce9b))
 - **2026-08-15** — refresh: coresignal

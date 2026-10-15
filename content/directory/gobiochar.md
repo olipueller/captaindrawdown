@@ -13,7 +13,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://gobiochar.com/" target="_blank" rel="noopener">https://gobiochar.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/gobiochar/" target="_blank" rel="noopener">gobiochar — 120 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/gobiochar/" target="_blank" rel="noopener">gobiochar — 125 followers</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -29,6 +29,7 @@ GoBiochar is a Salt Lake City, Utah-based biochar supply and production company 
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness

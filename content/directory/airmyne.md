@@ -34,6 +34,7 @@ AirMyne is a Berkeley, California-based Direct Air Capture startup founded in 20
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
 - **2026-08-14** — news mention: 61 Mt is a big bet on supply that mostly doesn't exist yet. Most city plans lean on tree planting an ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mszwhmpqwf2i))
 - **2026-07-24** — news mention: AirMyne: 🇯🇵 Team Japan keeps showing up in carbon removal. This time: ENEOS Group , through its corp ([source](https://www.linkedin.com/company/airmyne/#post-2ac059f0b458))
 - **2026-05-01** — refresh: coresignal, screenshot

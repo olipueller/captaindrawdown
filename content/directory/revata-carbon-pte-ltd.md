@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Website</th><td><a href="https://revatacarbon.com/" target="_blank" rel="noopener">https://revatacarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/revatacarbon/" target="_blank" rel="noopener">revatacarbon — 1,575 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/revatacarbon/" target="_blank" rel="noopener">revatacarbon — 1,907 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~6</td></tr>
+  <tr><th>Employees</th><td>~13 (+160% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ Revata Carbon is a Singapore-incorporated biochar project developer that convert
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-12** — news mention: Revata Carbon PTE LTD: On 18 June 2026, Valency | Revata Carbon inaugurated its biochar production f ([source](https://www.linkedin.com/company/revatacarbon/#post-02c5345c9e8b))
 - **2026-09-06** — news mention: Revata Carbon PTE LTD: On 18 June 2026, Valency | Revata Carbon inaugurated its biochar production f ([source](https://www.linkedin.com/company/revatacarbon/#post-7148b98e5abf))
 - **2026-08-30** — news mention: Revata Carbon PTE LTD: On 18 June 2026, Valency | Revata Carbon inaugurated its biochar production f ([source](https://www.linkedin.com/company/revatacarbon/#post-7676ae6221ad))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active

@@ -5,7 +5,7 @@ type: "directory"
 description: "Markets biochar-based carbon removals produced by parent Standard Gas's SG100 pyrolysis/advanced thermal cracking of non-recyclable municipal waste, with char sequestered in construction materials"
 url: "/directory/carbon-char-store/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,9 +15,9 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://carboncharstore.com/" target="_blank" rel="noopener">https://carboncharstore.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-char-store/" target="_blank" rel="noopener">carbon-char-store — 546 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Employees</th><td>~1 (-50% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-char-store/" target="_blank" rel="noopener">carbon-char-store — 570 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -31,6 +31,9 @@ Carbon Char Store (CCS) is the UK-based carbon-removals sales and marketing arm 
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-09-22** — news mention: Carbon Char Store: We are excited to share that Brian Reynolds , has joined subcommittee at the ASTM ([source](https://www.linkedin.com/company/carbon-char-store/#post-e62accc79aad))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness

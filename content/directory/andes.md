@@ -31,6 +31,7 @@ Andes is a climate tech startup headquartered in Alameda, California that uses b
 
 ## History
 
+- **2026-10-03** — news mention: Andes: We are proud to share that Andes has been selected as a winner of CarbonX Program 2.0, Tencen ([source](https://www.linkedin.com/company/andesbio/#post-e08aaae53a65))
 - **2026-09-05** — news mention: Flux: 🏆 From Lab to Scale.....CarbonX 2.0 Winners of $30M are in. 🌍 We at CDR.fyi are thrilled to tr ([source](https://www.linkedin.com/company/flux-carbon/#post-04a10797fc3a))
 - **2026-08-29** — news mention: Andes: We’re excited to share that Gold Standard’s Microbial Carbon Dioxide Mineralisation methodolo ([source](https://www.linkedin.com/company/andesbio/#post-7b4f2165608b))
 - **2026-08-15** — refresh: coresignal

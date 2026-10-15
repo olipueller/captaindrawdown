@@ -44,6 +44,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-19** — news mention: Leeds Production Facility - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/leeds-production-facility/))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-07** — news mention: O.C.O Technology: What if industrial waste and captured CO₂ could become a valuable resource for the ([source](https://www.linkedin.com/company/o-c-o-technology-ltd/#post-3d55eb14ffe5))
 - **2026-07-24** — news mention: O.C.O Technology: What if industrial waste and captured COâ could become a valuable resource for t ([source](https://www.linkedin.com/company/o-c-o-technology-ltd/#post-0412645508ce))

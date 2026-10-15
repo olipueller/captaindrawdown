@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://bigadan.com/" target="_blank" rel="noopener">https://bigadan.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bigadan-a-s/" target="_blank" rel="noopener">bigadan-a-s — 3,772 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bigadan/" target="_blank" rel="noopener">bigadan — 4,644 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~104</td></tr>
+  <tr><th>Employees</th><td>~110 (+47% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
   <tr><th>Registry-verified</th><td>Isometric</td></tr>
 </table>
@@ -39,6 +39,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-09-04** — news mention: Bigadan A/S: THREE CO₂ PLANTS IN THREE YEARS – AND WE’RE JUST GETTING STARTED That was the message f ([source](https://www.linkedin.com/company/bigadan-a-s/#post-848d5c39b765))
 - **2026-08-28** — news mention: Bigadan A/S: FOLKEMÃDE ð§ Der blev talt meget om CCS pÃ¥ FolkemÃ¸det. Men hvordan gÃ¥r vi fra deb ([source](https://www.linkedin.com/company/bigadan-a-s/#post-ee93484eba3c))
 - **2026-08-28** — news mention: Bigadan A/S: NÃ R SAMARBEJDER BLIVER TIL GODE RELATIONER I gÃ¥r var vi med til at indvie biogasanlÃ¦ ([source](https://www.linkedin.com/company/bigadan-a-s/#post-623e30ba695b))
@@ -68,7 +69,6 @@ Independently verified by carbon-credit registries:
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://ens.dk/en/press/three-new-ccs-projects-have-been-pledged-support-capture-and-store-biogenic-co2))
 - **2026-04-18** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://ens.dk/en/press/three-new-ccs-projects-have-been-pledged-support-capture-and-store-biogenic-co2))
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
-- **** — merged duplicate: Bioman (slug=bioman)
 
 ---
 

@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://rethinkingremovals.org/" target="_blank" rel="noopener">https://rethinkingremovals.org/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rethinking-removals/" target="_blank" rel="noopener">rethinking-removals — 1,143 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rethinking-removals/" target="_blank" rel="noopener">rethinking-removals — 1,181 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~5 (-17% YoY)</td></tr>
+  <tr><th>Employees</th><td>~5 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ Rethinking Removals is a UK-based collaborative non-profit organisation focused 
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-07-25** — news mention: Rethinking Removal: What a week for net zero standards. Theyâre like buses. You wait for years and ([source](https://www.linkedin.com/company/rethinking-removals/#post-8522c1eb1298))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate

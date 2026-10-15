@@ -34,6 +34,8 @@ Sirona Technologies is a Belgium-based Direct Air Capture startup founded in 202
 
 ## History
 
+- **2026-10-01** — news mention: Milkywire: 🌍 Milkywire has completed eight Salesforce-backed pre-purchases, securing 3,661 tonnes of ([source](https://www.linkedin.com/company/milkywire/#post-08426181283f))
+- **2026-09-25** — news mention: Sirona Technologies Shifts Focus To DACCS In Norway, Pausing Middle East Project ([source](https://carbonherald.com/sirona-technologies-shifts-focus-to-daccs-in-norway-pausing-middle-east-project/?utm_source=rss&utm_medium=rss&utm_campaign=sirona-technologies-shifts-focus-to-daccs-in-norway-pausing-middle-east-project))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-12** — news mention: Climate Vault Solutions: Built by a former Tesla engineer. Factory-assembled DAC units powered by re ([source](https://www.linkedin.com/company/climatevault/#post-fe23a3d53744))
 - **2026-09-04** — news mention: Sirona Technologies: Big announcement: Sirona Technologies officially unveils Project Furu 🚀 Today w ([source](https://www.linkedin.com/company/sirona-technologies/#post-5123ad5ad006))

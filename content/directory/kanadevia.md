@@ -15,7 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Japan</td></tr>
   <tr><th>Website</th><td><a href="https://www.kanadevia.com/english/" target="_blank" rel="noopener">https://www.kanadevia.com/english/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/kanadevia/" target="_blank" rel="noopener">kanadevia — 12,314 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~545 (+12% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,6 +31,8 @@ Kanadevia Corporation (formerly Hitachi Zosen, rebranded October 2024) is a larg
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-09-15** — news mention: Kanadevia Inova strengthens Northern European biogas platform with BioValue acquisition - Europe ([source](https://www.europesays.com/europe/138473/))
 - **2026-09-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-09-01** — news mention: Kanadevia Inova: We competed on a landfill tender with a Waste-to-X solution, and we won on price. O ([source](https://www.linkedin.com/company/kanadevia-inova/#post-8750bb8ab464))
 - **2026-08-15** — liveliness: 🟢 Active → 🟡 Moderate

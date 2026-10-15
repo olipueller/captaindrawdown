@@ -31,6 +31,7 @@ Stack Carbon Investments UG Ltd is a Ugandan climate-tech company developing the
 
 ## History
 
+- **2026-09-28** — news mention: Stack Carbon: ðð¨ððð² ð¦ðð«ð¤ð¬ ð ðððð¢ð§ð¢ð§ð ð¦ð ([source](https://www.linkedin.com/company/stackcarbon/#post-1e69f4d73a4d))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-24** — news mention: Super Biochar: 📰Weekly Carbon Removal Bulletin📰 Here’s your roundup of top #CarbonDioxideRemoval upd ([source](https://www.linkedin.com/company/superbiochar/#post-357b843f1897))
 - **2026-08-23** — news mention: Stack Carbon: 📰 This week saw some huge developments in durable CDR, as Microsoft bought 23,602 tonn ([source](https://www.linkedin.com/company/stackcarbon/#post-17acd5342eb4))

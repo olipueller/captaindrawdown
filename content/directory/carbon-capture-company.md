@@ -31,6 +31,7 @@ Carbon Capture Company (CCC) is a Swedish certification body that developed the 
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
 - **2026-05-19** — news mention: Mantel And Wood Partner To Scale High-Temperature Carbon Capture ([source](https://carbonherald.com/mantel-and-wood-partner-to-scale-high-temperature-carbon-capture/?utm_source=rss&utm_medium=rss&utm_campaign=mantel-and-wood-partner-to-scale-high-temperature-carbon-capture))
 - **2026-05-16** — news mention: Climeworks: The Carbon Capture Company that Emits More Than It Captures ([source](https://www.anarchistfederation.net/climeworks-the-carbon-capture-company-that-emits-more-than-it-captures))
 - **2026-05-01** — refresh: coresignal, screenshot

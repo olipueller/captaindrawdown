@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://carbonplace.com/" target="_blank" rel="noopener">https://carbonplace.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonplace/" target="_blank" rel="noopener">carbonplace — 9,446 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonplace/" target="_blank" rel="noopener">carbonplace — 9,922 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~23 (-30% YoY)</td></tr>
+  <tr><th>Employees</th><td>~19 (-27% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ Carbonplace is a London-based carbon credit transaction and management platform 
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-09-06** — news mention: Global Woods International: Welcoming Global Woods to the Carbonplace platform ð Weâre pleased  ([source](https://www.linkedin.com/company/global-woods-international-ag/#post-49c94da1b037))
 - **2026-08-27** — news mention: Climate Impact X, Carbonplace To Merge As Carbon Markets Seek Greater Scale - Carbon Herald ([source](https://carbonherald.com/climate-impact-x-and-carbonplace-to-merge-as-carbon-markets-seek-greater-scale/))
 - **2026-08-27** — news mention: Climate Impact X, Carbonplace To Merge As Carbon Markets Seek Greater Scale ([source](https://carbonherald.com/climate-impact-x-and-carbonplace-to-merge-as-carbon-markets-seek-greater-scale/?utm_source=rss&utm_medium=rss&utm_campaign=climate-impact-x-and-carbonplace-to-merge-as-carbon-markets-seek-greater-scale))

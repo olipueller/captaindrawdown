@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Website</th><td><a href="https://neutura.earth/" target="_blank" rel="noopener">https://neutura.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/neutura-earth/" target="_blank" rel="noopener">neutura-earth — 434 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/neutura-earth/" target="_blank" rel="noopener">neutura-earth — 447 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~7 (+17% YoY)</td></tr>
+  <tr><th>Employees</th><td>~7 (+40% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ Neutura (PT Penyerapan Karbon Khatulistiwa) is a Singapore/Jakarta-based carbon 
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://neutura.earth/))
 - **2026-04-19** — merged 1 duplicate(s): Neutura

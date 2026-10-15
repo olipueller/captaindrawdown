@@ -30,6 +30,7 @@ Meva Energy is a Swedish cleantech company (founded 2008, HQ Gothenburg) that bu
 
 ## History
 
+- **2026-09-19** — news mention: Meva Energy: 🌱Meva Energy's biochar verified for carbon credits! Meva Energy’s #biochar has been ver ([source](https://www.linkedin.com/company/meva-energy/#post-41d948b61194))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-07-30** — news mention: Meva Energy AB: How IKEA’s furniture waste is becoming biochar🪑🪨 At this year’s Biochar Summit, you’ ([source](https://www.linkedin.com/company/meva-energy/#post-edc5b0d7ba7a))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://mevaenergy.com/))

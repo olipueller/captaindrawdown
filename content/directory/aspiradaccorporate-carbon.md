@@ -30,6 +30,7 @@ AspiraDAC is a wholly-owned subsidiary of Corporate Carbon Group developing Aust
 
 ## History
 
+- **2026-10-08** — news mention: AspiraDAC/Corporate Carbon: Savanna fire management is going global. In less than a year, four major ([source](https://www.linkedin.com/company/aspiradac/#post-ca7ec40215d1))
 - **2026-08-24** — news mention: AspiraDAC/Corporate Carbon: An Australian-pioneered approach to savanna fire management is gaining g ([source](https://www.linkedin.com/company/aspiradac/#post-2dddd0fa7b65))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot

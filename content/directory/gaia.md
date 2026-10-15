@@ -5,7 +5,7 @@ type: "directory"
 description: "Post-combustion amine-based carbon capture retrofit on a municipal waste-to-energy incinerator, with biogenic-fraction CO₂ (determined via radiocarbon) transported for permanent geological storage"
 url: "/directory/gaia/"
 pathway: "BECCS"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,9 @@ liveliness: "🟠 Suspect"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://www.gaia-ccs.dk/" target="_blank" rel="noopener">https://www.gaia-ccs.dk/</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/gaia_3/" target="_blank" rel="noopener">gaia_3 — 60 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~21 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -28,6 +30,8 @@ Gaia is a Danish joint venture (Gaia ProjectCo P/S) between Copenhagen Infrastru
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, liveliness
+- **2026-10-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.archyde.com/big-techs-carbon-removal-gamble-is-it-enough/))
 - **2026-09-15** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness

@@ -31,6 +31,7 @@ atdepth MRV is an MIT spin-off based in Cambridge, Massachusetts that provides M
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-04-19** — refresh: coresignal

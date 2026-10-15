@@ -41,6 +41,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-29** — news mention: Ecological Carbon Offset Partners: The carbon removal market showed up in force at the Puro.earth CD ([source](https://www.linkedin.com/company/ep-carbon/#post-7d70ebb6bd3c))
 - **2026-08-15** — refresh: coresignal
 - **2026-07-19** — news mention: Impacts of enhanced rock weathering on soil sponge function: a global synthesis of soil physical and ([source](https://cdrxiv.org/preprint/527))
 - **2026-06-11** — news mention: Biochar’s Triple Win: Healthier Soils, Improved Crops, and Decarbonization ([source](https://csrwire.com/press-release/biochars-triple-win-healthier-soils-improved-crops-and-decarbonization/))

@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://c-capsule.com/" target="_blank" rel="noopener">https://c-capsule.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/c-capsule/" target="_blank" rel="noopener">c-capsule — 873 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/c-capsule/" target="_blank" rel="noopener">c-capsule — 887 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~4 (-20% YoY)</td></tr>
+  <tr><th>Employees</th><td>~3 (-40% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ C-Capsule is a carbon removal certification and registry service operated by Evi
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-09-07** — news mention: C-Capsule: Weâre excited to support Cowboy Clean Fuels and Absolute Climate raising the bar for hi ([source](https://www.linkedin.com/company/c-capsule/#post-97784a80b61f))
 - **2026-08-30** — news mention: C-Capsule: Today, Absolute Climate, Cowboy Clean Fuels , and Evident announced a partnership to brin ([source](https://www.linkedin.com/company/c-capsule/#post-c510d507effe))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active

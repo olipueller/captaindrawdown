@@ -30,6 +30,7 @@ Qualterra is a Washington State-based agricultural technology company that produ
 
 ## History
 
+- **2026-09-15** — news mention: Qualterra: ð± Weâre thrilled to share that Qualterra and Plantd have joined forces to advance a  ([source](https://www.linkedin.com/company/qualterra/#post-55a5ba9b385c))
 - **2026-09-15** — refresh: coresignal, screenshot, liveliness
 - **2026-09-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.qualterraag.com/what-we-do/biomass-processing-and-biochar-production/))
 - **2026-08-16** — news mention: Qualterra: 🌱 We’re thrilled to share that Qualterra and Plantd have joined forces to advance a true  ([source](https://www.linkedin.com/company/nuphyplants/#post-aa67391de600))

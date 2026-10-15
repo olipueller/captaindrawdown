@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Japan</td></tr>
   <tr><th>Website</th><td><a href="https://forestenergy.jp/" target="_blank" rel="noopener">https://forestenergy.jp/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/forest-energy/" target="_blank" rel="noopener">forest-energy — 150 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/forest-energy/" target="_blank" rel="noopener">forest-energy — 153 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~13 (-7% YoY)</td></tr>
+  <tr><th>Employees</th><td>~13 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ Forest Energy Inc. is a Tokyo-based company that develops and operates small-sca
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-09-09** — news mention: Forest Energy Inc: ãVolterå°å ¥å ã®ãç´¹ä»ï½äºä¸å·¥ååºæ§ã äºä¸å·¥ååºã§ã¯ãæ ([source](https://www.linkedin.com/company/forest-energy/#post-ec9f1a77bd6f))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-02** — news mention: Forest Energy Inc: 【Volter | 泉佐野市】 大阪府泉佐野市にて、CHP「Volter」の設置が無事完了しました。 本プロジェクトは自治体主導のもと実施され、地域の持続可能なエ ([source](https://www.linkedin.com/company/forest-energy/#post-6602928461a0))

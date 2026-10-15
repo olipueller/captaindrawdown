@@ -34,6 +34,7 @@ MASH Makes is an Indo-Danish cleantech company that operates India's first large
 
 ## History
 
+- **2026-09-15** — news mention: MASH Makes: Seven seasons. One biochar application. And the crops are STILL outperforming the contro ([source](https://www.linkedin.com/company/mashmakes/#post-61420ad5b7e9))
 - **2026-09-15** — refresh: coresignal
 - **2026-08-30** — news mention: Ground Up: ð° This week key developments in durable CDR, as Google launched a $6M R&amp;D funding  ([source](https://www.linkedin.com/company/ground-up-in/#post-ad9e2d1f2f43))
 - **2026-08-19** — news mention: CDR.fyi: 🌍 It's August 2026. How confident are you in the durable CDR market right now? July was slo ([source](https://www.linkedin.com/company/cdr-fyi/#post-a0c497a2cd45))

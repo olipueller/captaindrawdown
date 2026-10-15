@@ -29,6 +29,8 @@ The Italian Carbon Removal Network (Rete Italiana Rimozione Carbonio, RIRC) is I
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
+- **2026-10-06** — news mention: Italian Carbon Removal Network: 🏭 E se la rimozione di CO₂ non fosse un'attività a sé, ma un passagg ([source](https://www.linkedin.com/company/rirc/#post-6229d7595317))
 - **2026-09-04** — news mention: Italian Carbon Removal Network: 🇪🇺 La rimozione del carbonio entra nell'EU ETS: la proposta ora è su ([source](https://www.linkedin.com/company/rirc/#post-f0f21bfdeccd))
 - **2026-08-27** — news mention: Italian Carbon Removal Network: ðªðº La rimozione del carbonio entra nell'EU ETS: la proposta or ([source](https://www.linkedin.com/company/rirc/#post-ae23002610b9))
 - **2026-07-27** — news mention: Italian Carbon Removal Network: 🇪🇺 La rimozione del carbonio entra nell'EU ETS: la proposta ora è su ([source](https://www.linkedin.com/company/rirc/#post-fdeeca569ff5))

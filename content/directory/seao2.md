@@ -30,6 +30,9 @@ SeaO2 is a Dutch TU Delft spin-off founded in 2021 offering direct ocean capture
 
 ## History
 
+- **2026-10-09** — news mention: SeaO2: A new chapter for SeaO2 , and for me personally. After an intense period, I'm very happy to s ([source](https://www.linkedin.com/company/seao2-io/#post-eb832fd56eb3))
+- **2026-10-03** — news mention: CarbonBlue: A new chapter for SeaO2 , and for me personally. After an intense period, I'm very happy ([source](https://www.linkedin.com/company/carbonblue-cc/#post-622b051e39ab))
+- **2026-10-02** — news mention: CarbonBlue And CTRL-S To Carry On SeaO2’s Legacy ([source](https://carbonherald.com/carbonblue-and-ctrl-s-to-carry-on-seao2s-legacy/?utm_source=rss&utm_medium=rss&utm_campaign=carbonblue-and-ctrl-s-to-carry-on-seao2s-legacy))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-03** — news mention: SeaO2: We need your help! In one week, SeaO2 will cease to exist. Not because the technology failed, ([source](https://www.linkedin.com/company/seao2-io/#post-001a20d5fa03))
 - **2026-08-27** — news mention: SeaO2: A month ago, we raised the alarm and last week, the outcome we fought so hard to avoid became ([source](https://www.linkedin.com/company/seao2-io/#post-e94b8ae057f3))

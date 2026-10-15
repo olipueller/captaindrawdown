@@ -15,9 +15,9 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://hempcarbonstandard.org" target="_blank" rel="noopener">https://hempcarbonstandard.org</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/hemp-carbon-standard/" target="_blank" rel="noopener">hemp-carbon-standard — 4,075 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/hemp-carbon-standard/" target="_blank" rel="noopener">hemp-carbon-standard — 4,054 followers</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Employees</th><td>~30 (-67% YoY)</td></tr>
+  <tr><th>Employees</th><td>~30 (-100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ Hemp Carbon Standard (HCS) is a Calgary-based wholly-owned subsidiary of Hempalt
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness

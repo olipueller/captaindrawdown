@@ -14,7 +14,9 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Method</th><td>DAC (Membrane)</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://www.co2circulair.com/" target="_blank" rel="noopener">https://www.co2circulair.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/co2circulair/" target="_blank" rel="noopener">co2circulair — 473 followers</a></td></tr>
   <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Employees</th><td>~4 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -28,6 +30,7 @@ CO2CirculAir is a Dutch DAC start-up based in Arnhem developing SMART-DAC, a pas
 
 ## History
 
+- **2026-10-15** — refresh: coresignal
 - **2026-09-15** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness

@@ -30,6 +30,11 @@ Carbon Unbound is a CDR-focused events organization that runs the Carbon Unbound
 
 ## History
 
+- **2026-10-14** — news mention: As the World Plans for Overshoot, Europe Sets the Pace on Carbon Removal — Carbon Business Council ([source](https://www.carbonbusinesscouncil.org/news/carbon-unbound-europe-2026))
+- **2026-10-13** — news mention: #carbonremoval #cdr #enhancedrockweathering #climatetech | UNDO ([source](https://www.linkedin.com/feed/update/urn:li:share:7515340279680393216/))
+- **2026-10-10** — news mention: #carbonunboundeurope #carbonremoval #cdr #carbonmarkets | Carbon Standards ([source](https://www.linkedin.com/feed/update/urn:li:share:7514332600258420736/))
+- **2026-10-09** — news mention: Events in October | ClimeFi ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7514294288994787329/))
+- **2026-09-29** — news mention: #carbonunbound #carbonremoval #cdr #corcs #london #mrv #crcf #vcm | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7510325471658717185/))
 - **2026-09-14** — news mention: Carbon Unbound Merges Its West Coast & East Coast Events Into One Flagship North American Summit ([source](https://carbonherald.com/carbon-unbound-merges-its-west-coast-east-coast-events-into-one-flagship-north-american-summit/?utm_source=rss&utm_medium=rss&utm_campaign=carbon-unbound-merges-its-west-coast-east-coast-events-into-one-flagship-north-american-summit))
 - **2026-09-06** — news mention: Rewind.earth: We are excited to be attending Carbon Unbound East Coast in NYC next week! Meet Jessic ([source](https://www.linkedin.com/company/rewindearth/#post-89bfab280b61))
 - **2026-08-15** — refresh: coresignal

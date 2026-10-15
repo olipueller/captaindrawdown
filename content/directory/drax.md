@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.drax.com" target="_blank" rel="noopener">https://www.drax.com</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/drax-power/" target="_blank" rel="noopener">drax-power — 57,910 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/drax-group/" target="_blank" rel="noopener">drax-group — 60,510 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~2081 (-5% YoY)</td></tr>
+  <tr><th>Employees</th><td>~1944 (-8% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,6 +29,14 @@ Drax Group plc is a UK-listed energy utility that operates the Drax Power Statio
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-04** — news mention: The CCC is Coming for Your Holiday - by David Turver ([source](https://davidturver.substack.com/p/the-ccc-is-coming-for-your-holiday))
+- **2026-10-03** — news mention: BES electricity price uplift for load-following operation · Issue #107 · domwoolf/Biochar_AG ([source](https://github.com/domwoolf/Biochar_AG/issues/107))
+- **2026-10-01** — news mention: Drax provides update on biomass contracting for Drax Power Station | Biomass Magazine ([source](https://biomassmagazine.com/articles/drax-provides-update-on-biomass-contracting-for-drax-power-station))
+- **2026-09-27** — news mention: Drax/Elimini: 📢The European Commission has finalized its Carbon Removal Certification Framework for  ([source](https://www.linkedin.com/company/elimini/#post-c6acecf033ba))
+- **2026-09-23** — news mention: Navigating the Future: Climate Adaptation Market Size Valued at USD 33.65 Bn in 2025 and Projected t ([source](https://www.nsnheadlines.com/post/navigating-the-future-climate-adaptation-market-size-valued-at-usd-33-65-bn-in-2025-and-projected-t))
+- **2026-09-23** — news mention: CDR is often linked to mitigation deterrence (MD): the risk that expected removals delay or replace  ([source](https://bsky.app/profile/etienneschneider.bsky.social/post/3mw6bfcxv6s22))
+- **2026-09-17** — news mention: Drax: Yorkshire power station operator to create dedicated solar and wind segment after Bluefield ac ([source](https://www.yorkshirepost.co.uk/business/drax-yorkshire-power-station-operator-to-create-dedicated-solar-and-wind-segment-after-bluefield-acquisition-9076203))
 - **2026-09-02** — news mention: Drax: We recently announced that we’d completed the acquisition of Bluefield Solar Income Fund (BSIF ([source](https://www.linkedin.com/company/drax-power/#post-5556db1a4be7))
 - **2026-08-31** — news mention: Biofine: Biofine Developments NE  is excited to announce that it has entered into a collaboration ag ([source](https://www.linkedin.com/company/biofine-north-america/#post-521a6aa189c2))
 - **2026-08-24** — news mention: Drax Power Station - Wikipedia ([source](https://en.wikipedia.org/wiki/Drax_Power_Station))
@@ -51,12 +59,6 @@ Drax Group plc is a UK-listed energy utility that operates the Drax Power Statio
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://www.drax.com/financial-news/trading-update-strong-performance-and-options-to-invest/))
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.drax.com/financial-news/full-year-results-for-the-twelve-months-ended-31-december-2025/))
-- **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.drax.com/bioenergy-with-carbon-capture-and-storage-beccs/))
-- **2026-04-18** — discovered via: news_feed ([source](https://www.bode-living.com/2026/04/14/the-flawed-promise-of-bioenergy-with-carbon-capture-and-storage-beccs/))
 
 ---
 

@@ -30,6 +30,7 @@ Mission Zero Technologies is a UK-based company that develops electrochemical di
 
 ## History
 
+- **2026-09-15** — news mention: Mission Zero: Huge congratulations to our PhD alumni, Shiladitya Ghosh and Jasper Wong , on the laun ([source](https://www.linkedin.com/company/missionzerotech/#post-c98522899895))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-05** — news mention: Airhive: We’re joining Progressive Energy and Mission Zero Technologies to form UnionDAC - a nationa ([source](https://www.linkedin.com/company/carbonnet-limited/#post-d2dee555d4ee))
 - **2026-08-29** — news mention: Airhive: Weâre joining Progressive Energy and Mission Zero Technologies to form UnionDAC - a natio ([source](https://www.linkedin.com/company/carbonnet-limited/#post-a51aa9b5b270))

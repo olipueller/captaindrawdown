@@ -5,7 +5,7 @@ type: "directory"
 description: "Spreads crushed basalt (from quarry/mining waste) on agricultural fields to accelerate silicate weathering reactions that convert atmospheric CO2 into stable carbonate minerals while releasing soil"
 url: "/directory/carbonaught/"
 pathway: "Enhanced Weathering"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonaught.io/" target="_blank" rel="noopener">https://www.carbonaught.io/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonaught-pty-ltd/" target="_blank" rel="noopener">carbonaught-pty-ltd — 973 followers</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~4 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,8 @@ Carbonaught is a Brisbane, Australia-based agtech startup founded in 2021 that a
 
 ## History
 
+- **2026-10-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://beda.brisbane.qld.au/news-and-events/how-brisbanes-carbonaught-is-changing-the-forecast-for-sustainable-farming))
+- **2026-10-11** — news mention: Airhive: Read all about it! We're working with Australian Carbon Vault to develop a multi-purpose ca ([source](https://www.linkedin.com/company/carbonnet-limited/#post-0ce409cee57f))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness

@@ -30,6 +30,7 @@ Reverse Coal is a UK biochar CDR pilot operated by Lapwing Energy, the renewable
 
 ## History
 
+- **2026-09-15** — news mention: Reverse Coal: Great to speak to Farming Today about our Department for Environment, Food and Rural A ([source](https://www.linkedin.com/company/lapwing-energy/#post-262da0d55ffa))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-08** — news mention: Reverse Coal: Turning agricultural biochar into battery anodes! ð I am thrilled to announce that  ([source](https://www.linkedin.com/company/lapwing-energy-ltd/#post-16b380f56c4f))
 - **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.greaterlincolnshirelep.co.uk/funding-and-projects/uk-food-valley/uk-food-valley-news/reverse-coal-on-display-at-climate-safe-event/))

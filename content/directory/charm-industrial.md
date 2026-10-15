@@ -45,6 +45,19 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-13** — news mention: How Carbon Accounting Can Help Climate Tech Take Off ([source](https://climatecapitalstack.substack.com/p/how-carbon-accounting-can-help-climate))
+- **2026-10-12** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-5e4eb86cc6d0))
+- **2026-10-09** — news mention: A few of us spent Climate Week in NYC talking about the work ahead. Most of Charm was back home doin ([source](https://www.linkedin.com/feed/update/urn:li:share:7513831627953905665/))
+- **2026-10-05** — news mention: Weekly ESG Update 04/2026 (19.01.2026 - 25.01.2026) - Sustainable Finance Daily ([source](https://sustainablefinancedaily.com/esg-news/weekly-esg-update-04-2026-responsability-secures-usd-460-mn-for-asia-climate-tech-investments/))
+- **2026-09-28** — news mention: Carbon Dioxide Removal Market Is Going to Boom |• Climeworks • Carbon Engineering • Global CCS Insti ([source](https://www.openpr.com/news/4645712/carbon-dioxide-removal-market-is-going-to-boom-climeworks))
+- **2026-09-25** — news mention: 「ネガティブエミッション技術市場規模、成長と動向分析レポート 2026-2033年」の市場調査レポート出版・販売開始のご案内 | 株式会社SEMABIZのプレスリリース ([source](https://www.dreamnews.jp/press/0000363578))
+- **2026-09-22** — news mention: You can’t scale carbon removal without community buy-in.
+
+Long before Charm begins operations in a n ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7508162989087375360/))
+- **2026-09-17** — news mention: Third year in a row. 🌱
+
+Charm has once again been named to the 50 by 2050 list from Congruent Ventur ([source](https://www.linkedin.com/feed/update/urn:li:share:7505991210139037697/))
+- **2026-09-16** — news mention: Carbon Dioxide Removal Market - A Global and Regional Analysis: Focus on Technology Type, Carbon Cre ([source](https://bisresearch.com/industry-report/carbon-dioxide-removal-market.html))
 - **2026-09-06** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-f4c001caa2fd))
 - **2026-09-06** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/frontierclimate/#post-f4c001caa2fd))
 - **2026-09-04** — news mention: Iron and steel are responsible for some of the hardest-to-address industrial emissions—and it will t ([source](https://www.linkedin.com/feed/update/urn:li:share:7501306664353054720/))
@@ -76,26 +89,6 @@ Cha ([source](https://www.linkedin.com/feed/update/urn:li:share:7487681799943503
 - **2026-07-25** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-ffa67cc8d2be))
 - **2026-07-24** — news mention: What Barbecue Sauce Has in Common With Carbon Removal ([source](https://heatmap.news/podcast/shift-key-s3-e59-charm-industrial))
 - **2026-07-24** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/frontierclimate/#post-38d7c2844441))
-- **2026-07-23** — news mention: Over the past week, wildfire smoke has stretched across Ontario, the Midwest, and the Eastern Seaboa ([source](https://www.linkedin.com/feed/update/urn:li:share:7485905762406535168/))
-- **2026-07-22** — news mention: Charm Industrial: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/charm-industrial/#post-3120c3c1e69a))
-- **2026-07-22** — news mention: What happens once biomass arrives at a Charm facility?
-
-Through a process called pyrolysis, biomass  ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7485167422576959488/))
-- **2026-07-15** — news mention: Every Charm Ton is the result of a connected process.
-
-From agricultural residues to bio-oil product ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7482796043080843264/))
-- **2026-07-10** — news mention: We announced our Canadian expansion in January when we partnered with TD Bank. First move? Calgary S ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7480852216103337985/))
-- **2026-07-09** — news mention: What’s it really like to work at Charm?
-
-We asked our team one simple question:
-“What do you love mo ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7480524385112498176/))
-- **2026-07-03** — news mention: Happy 250th Independence Day from the Charm team.
-
-From the towering redwoods of the West to the lob ([source](https://www.linkedin.com/feed/update/urn:li:share:7478477576789970944/))
-- **2026-06-10** — news mention: JPMorgan Backs Carbon Removal Growth With New Charm Industrial Deal ([source](https://carboncredits.com/jpmorgan-backs-carbon-removal-growth-with-new-charm-industrial-deal/))
-- **2026-06-10** — news mention: There’s a difference between understanding carbon removal on paper and seeing it in person.
-
-Earlier ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7469957227764834304/))
 
 ---
 

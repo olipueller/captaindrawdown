@@ -15,9 +15,9 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://www.creturner.com" target="_blank" rel="noopener">https://www.creturner.com</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/creturner-group-ab/" target="_blank" rel="noopener">creturner-group-ab</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/creturner-group-ab/" target="_blank" rel="noopener">creturner-group-ab — 576 followers</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Employees</th><td>~3 (-40% YoY)</td></tr>
+  <tr><th>Employees</th><td>~3 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ Creturner Group AB is a publicly listed Swedish environmental technology group w
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.inderes.dk/en/releases/notice-of-annual-general-meeting-of-creturner-group-ab))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

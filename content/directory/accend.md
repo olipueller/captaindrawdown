@@ -40,6 +40,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
 - **2026-08-30** — news mention: Accend AS: Proud to have supported Brodie Biomass along this journey, from early feasibility assessm ([source](https://www.linkedin.com/company/accend-conusulting/#post-2b823706ecf9))
 - **2026-08-29** — news mention: Brodie Biomass: Like many others, we are sure, it has been an incredibly busy few months and there i ([source](https://www.linkedin.com/company/brodiebiomass/#post-fbb821afd66f))
 - **2026-08-13** — news mention: Sylva Fertilis, Argentan, FR - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/sylva-fertilis-argentan-fr/))

@@ -15,6 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Japan</td></tr>
   <tr><th>Website</th><td><a href="https://icf.mri.co.jp/j-cdr/" target="_blank" rel="noopener">https://icf.mri.co.jp/j-cdr/</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~500</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -28,6 +29,7 @@ The Japan CDR Coalition (J-CDR) is a multi-stakeholder platform launched in Sept
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — refresh: coresignal

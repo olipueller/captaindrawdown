@@ -30,6 +30,8 @@ Taranis is a France-based investment and asset management company owned by the P
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
+- **2026-09-15** — news mention: Climate Tech Market Analysis Highlights Growth To $97.99 Billion By 2030 At 24.9% CAGR ([source](https://www.openpr.com/news/4631745/climate-tech-market-analysis-highlights-growth-to-97-99))
 - **2026-09-04** — news mention: Taranis: ð£ Energy for Africa: Taranis signs convertible loan agreement for Corbetti Geothermal pr ([source](https://www.linkedin.com/company/taranis-investment/#post-f06f4c0f89e5))
 - **2026-08-27** — news mention: Taranis: 📣 Energy for Africa: Taranis signs convertible loan agreement for Corbetti Geothermal proje ([source](https://www.linkedin.com/company/taranis-investment/#post-2f09089c5794))
 - **2026-07-23** — news mention: Taranis: 📣 Energy for Africa: Taranis signs convertible loan agreement for Corbetti Geothermal proje ([source](https://www.linkedin.com/company/taranis-investment/#post-2aa412da5923))

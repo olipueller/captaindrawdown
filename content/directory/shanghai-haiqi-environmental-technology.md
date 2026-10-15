@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Website</th><td><a href="https://www.haiqienvtech.com/" target="_blank" rel="noopener">https://www.haiqienvtech.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/shanghai-haiqi-environmental-protection-technology-co-ltd/" target="_blank" rel="noopener">shanghai-haiqi-environmental-protection-technology-co-ltd — 1,965 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/haiqigroup/" target="_blank" rel="noopener">haiqigroup — 2,369 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~5 (+25% YoY)</td></tr>
+  <tr><th>Employees</th><td>~125 (+25% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ Shanghai Haiqi Environmental Protection Technology is a Chinese biomass gasifica
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.haiqienvtech.com/))
 - **2026-04-19** — refresh: coresignal, screenshot

@@ -43,6 +43,12 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
+- **2026-10-13** — news mention: South Pole: Verified carbon removals generated in Europe have always been hard for corporate buyers  ([source](https://www.linkedin.com/company/south-pole-/#post-e056fedf97e7))
+- **2026-10-08** — news mention: Europe’s Soil Carbon Market Gets a First: Gold Standard Credits Issued in France and Belgium ([source](https://carboncredits.com/europe-soil-carbon-market-gold-standard-credits/))
+- **2026-10-08** — news mention: First European Credits Under Gold Standard’s Soil Organic CO2 Framework Methodology Now Available On ([source](https://carbonherald.com/first-european-credits-under-gold-standards-soil-organic-co2-framework-methodology-now-available-on-the-market/?utm_source=rss&utm_medium=rss&utm_campaign=first-european-credits-under-gold-standards-soil-organic-co2-framework-methodology-now-available-on-the-market))
+- **2026-10-07** — news mention: South Pole, Gaïago Issue Europe’s First Gold Standard Soil Carbon Credits - ESG News ([source](https://esgnews.com/south-pole-gaiago-issue-europes-first-gold-standard-soil-carbon-credits/))
+- **2026-10-07** — news mention: Gold Standard: 🪴 Without healthy soil, life on our planet cannot thrive. It is not only a critical t ([source](https://www.linkedin.com/company/gold-standard/#post-1d2a7c299ecb))
 - **2026-09-08** — news mention: South Pole: ð Carbon Check (India) Private Limited is proud to announce the successful completion ([source](https://www.linkedin.com/company/south-pole-/#post-1f1164ba99f7))
 - **2026-09-05** — news mention: Regionalwerke AG Baden: 🇨🇭➡️🇩🇰 Switzerland’s BECCS industry has officially gone commercial. Airfix , ([source](https://www.linkedin.com/company/regionalwerke-ag-baden/#post-74f636e824fe))
 - **2026-09-02** — news mention: Switzerland Marks Commercial BECCS Debut With First CO2 Shipment To Denmark ([source](https://carbonherald.com/switzerland-marks-commercial-beccs-debut-with-first-co2-shipment-to-denmark/?utm_source=rss&utm_medium=rss&utm_campaign=switzerland-marks-commercial-beccs-debut-with-first-co2-shipment-to-denmark))

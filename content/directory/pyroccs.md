@@ -31,6 +31,7 @@ PyroCCS is a Cologne, Germany-based climate tech startup founded in 2022 that de
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
 - **2026-09-14** — news mention: PyroCCS Secures Funding To Scale Biocarbon And Carbon Removal Supply Chain ([source](https://carbonherald.com/pyroccs-secures-funding-to-scale-biocarbon-and-carbon-removal-supply-chain/?utm_source=rss&utm_medium=rss&utm_campaign=pyroccs-secures-funding-to-scale-biocarbon-and-carbon-removal-supply-chain))
 - **2026-09-08** — news mention: PyroCCS Secures Growth Funding to Scale Pyrolysis Infrastructure and Industrial Bioproduct Offtake G ([source](https://biochartoday.com/news/pyroccs-secures-growth-funding-to-scale-pyrolysis-infrastructure-and-industrial-bioproduct-offtake-globally/?utm_source=bluesky&utm_medium=jetpack_social))
 - **2026-09-05** — news mention: PyroCCS: 📣 Happy news from our alumni community! During London Climate Action Week, four remove alum ([source](https://www.linkedin.com/company/pyroccs/#post-9c412fcfa15e))

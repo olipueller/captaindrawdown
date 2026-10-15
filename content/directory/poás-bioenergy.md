@@ -30,6 +30,7 @@ Poás Bioenergy is a University of Michigan spinout (founded 2021, HQ Ann Arbor,
 
 ## History
 
+- **2026-10-07** — news mention: Poás Bioenergy: We are excited to announce that we signed a carbon removal funding agreement with at ([source](https://www.linkedin.com/company/po%C3%A1s-bioenergy/#post-76712a089b66))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-09** — news mention: Poás Bioenergy: Biochar hits pineapple fields in Costa Rica Our CEO Jose Alfaro visited NICOVERDE SA ([source](https://www.linkedin.com/company/po%c3%a1s-bioenergy/#post-7f461ce00701))
 - **2026-08-02** — news mention: Poás Bioenergy: ðð ðð«ð ðð±ðð¢ð­ðð ð­ð¨ ðð§ð§ð¨ð®ð§ ([source](https://www.linkedin.com/company/po%c3%a1s-bioenergy/#post-18869c8cd623))

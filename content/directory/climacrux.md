@@ -30,6 +30,7 @@ Climacrux is a Swiss startup founded in 2020 that operates as a CDR reseller/bro
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: Climacrux has its own LinkedIn page (linkedin.com/company/climacrux) and its products are "Carbon Removed" and "CDR Platform" — not CarbonDashboard. The "carbondashboard" slug appears to refer to a se
 - **2026-04-19** — refresh: coresignal, liveliness

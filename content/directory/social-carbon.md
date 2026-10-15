@@ -31,6 +31,8 @@ The SocialCarbon Standard was developed by the Ecológica Institute in Brazil in
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
+- **2026-10-09** — news mention: Social Carbon: 🏆 SOCIALCARBON ranks highest in independent assessment of environmental and social sa ([source](https://www.linkedin.com/company/social-carbon/#post-8af271b899cc))
 - **2026-09-04** — news mention: Social Carbon: 🔥 What happens when vegetation recovers — but fire keeps resetting the carbon balance ([source](https://www.linkedin.com/company/social-carbon/#post-b79133937282))
 - **2026-08-20** — news mention: Social Carbon: 30 km of drainage ditches filled. More than 300 surface dams built. Almost 500 hectar ([source](https://www.linkedin.com/company/social-carbon/#post-684741275d56))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active

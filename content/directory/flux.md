@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://www.fluxcarbon.earth/" target="_blank" rel="noopener">https://www.fluxcarbon.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/flux-carbon/" target="_blank" rel="noopener">flux-carbon — 3,596 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/flux-carbon/" target="_blank" rel="noopener">flux-carbon — 3,624 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~12 (-14% YoY)</td></tr>
+  <tr><th>Employees</th><td>~12 (-20% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,14 @@ Flux is a Nairobi-based enhanced rock weathering startup spreading crushed basal
 
 ## History
 
+- **2026-10-15** — refresh: coresignal
+- **2026-10-15** — refresh: coresignal
+- **2026-10-12** — news mention: Observational and model data from Planetary's TC26.1 Ocean Alkalinity Enhancement dosing period in H ([source](https://doi.org/10.5281/zenodo.20088387))
+- **2026-10-12** — news mention: Measuring large-scale mCDR using a novel Atmospheric CO₂ Perimeter Flux (ACPF) method ([source](https://doi.org/10.3389/fclim.2026.1941538))
+- **2026-10-10** — news mention: Flux: Direct Air Capture (DAC) wins big for 🇰🇪 Kenya!! 📢 Tencent has announced the winners of its ne ([source](https://www.linkedin.com/company/flux-carbon/#post-275de1ef31e9))
+- **2026-10-07** — news mention: UK Centre for Ecology & Hydrology: Protecting saltmarsh is vital for coastline communities. Great to ([source](https://www.linkedin.com/company/uk-centre-for-ecology-hydrology/#post-5501c43d879b))
+- **2026-10-06** — news mention: Frontiers | Measuring large-scale mCDR using a novel Atmospheric CO₂ Perimeter Flux (ACPF) method ([source](https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2026.1941538/full))
+- **2026-10-05** — news mention: Flux Carbon: Direct Air Capture (DAC) wins big for 🇰🇪 Kenya!! 📢 Tencent has announced the winners of ([source](https://www.linkedin.com/company/flux-earth/#post-275de1ef31e9))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-12** — news mention: Technical Methodology & Geothermal Formulation Specification: Bio-Encapsulated Dual-Action Ocean Alk ([source](https://doi.org/10.5281/zenodo.22393029))
 - **2026-09-12** — news mention: Laboratoire de Météorologie Dynamique: 🌍  Is the global land carbon sink recovering after the 2023–2 ([source](https://www.linkedin.com/company/laboratoire-des-sciences-du-climat-et-de-l-environnement/#post-acd75d081fe2))
@@ -53,14 +61,6 @@ Flux is a Nairobi-based enhanced rock weathering startup spreading crushed basal
 - **2026-08-16** — news mention: The Carbon Drawdown Initiative's German basalt trial hit day 1,400 with no CO2 removal signal above  ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mt6gah6tif2p))
 - **2026-08-15** — news mention: Tamu group: 📣 Happy news from our alumni community! During London Climate Action Week, four remove a ([source](https://www.linkedin.com/company/tamugroup/#post-a0bd3a473e47))
 - **2026-08-15** — refresh: coresignal
-- **2026-08-14** — news mention: PyroCCS: 🏆 From Lab to Scale.....CarbonX 2.0 Winners of $30M are in. 🌍 We at CDR.fyi are thrilled to ([source](https://www.linkedin.com/company/pyroccs/#post-04a10797fc3a))
-- **2026-08-13** — news mention: Significant Scope for Improvement of Soil Acidity Management in US Croplands ([source](https://cdrxiv.org/preprint/535))
-- **2026-08-10** — news mention: Flux: Isometric has reached a major milestone—signing our 100th carbon removal supplier, Flux . Over ([source](https://www.linkedin.com/company/flux-earth/#post-a3091f3c0857))
-- **2026-08-07** — news mention: River dissolved inorganic carbon losses from the Andes to lowland Amazon via cryptic sedimentary exc ([source](https://doi.org/10.31223/x5wj68))
-- **2026-08-06** — news mention: Cascade Climate: A year ago, we placed a bet: that shared ERW deployment data â not data locked in ([source](https://www.linkedin.com/company/cascade-climate/#post-dfd7eca1a9dd))
-- **2026-08-03** — news mention: Flux: 🏆 From Lab to Scale.....CarbonX 2.0 Winners of $30M are in. 🌍 We at CDR.fyi are thrilled to tr ([source](https://www.linkedin.com/company/flux-earth/#post-04a10797fc3a))
-- **2026-08-01** — news mention: Biochar enhances methane uptake in engineered green roof substrate ([source](https://doi.org/10.1007/s44246-026-00296-y))
-- **2026-08-01** — news mention: Supplementary material to "Effects of enhanced rock weathering on soil gas fluxes across UK land use ([source](https://doi.org/10.5194/egusphere-2026-4380-supplement))
 
 ---
 

@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.biochareurope.eu/" target="_blank" rel="noopener">https://www.biochareurope.eu/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ebi-consortium/" target="_blank" rel="noopener">ebi-consortium — 8,643 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biochareurope/" target="_blank" rel="noopener">biochareurope — 11,581 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~125 (-11% YoY)</td></tr>
+  <tr><th>Employees</th><td>~5 (+62% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ The European Biochar Industry Consortium (EBI), now operating as Biochar Europe,
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-08-30** — news mention: CarStorCon: 🏗️ „Decarbonizing the Built Environment with Biochar: A Blueprint“ - das Whitepaper von  ([source](https://www.linkedin.com/company/carstorcon-technologies/#post-3c105b05636a))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-05** — news mention: Novocarbo: A year ago, we shared insights from our first collaborations testing biochar in asphalt.  ([source](https://www.linkedin.com/company/carbo3-gmbh/#post-761801bb416b))

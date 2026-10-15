@@ -31,6 +31,8 @@ The International Biochar Initiative (IBI) is a U.S.-based 501(c)(3) nonprofit m
 
 ## History
 
+- **2026-10-15** — refresh: screenshot
+- **2026-10-10** — news mention: BlueLayer: The International Biochar Initiative 's recent “Guide to Digital MRV for Biochar” covers  ([source](https://www.linkedin.com/company/getbluelayer/#post-a8ca5316fa9a))
 - **2026-08-12** — news mention: International Biochar Initiative: The International Biochar Initiative is proud to share that the Th ([source](https://www.linkedin.com/company/international-biochar-initiative/#post-c7881325aa52))
 - **2026-08-05** — news mention: International Biochar Initiative: 🔔 Member Opportunity: Request for Quotation — 🇲🇽 Industrial Biocha ([source](https://www.linkedin.com/company/international-biochar-initiative/#post-a6870dedc510))
 - **2026-07-29** — news mention: International Biochar Initiative: 930 voices from around the world projected 9.3 million metric tonn ([source](https://www.linkedin.com/company/international-biochar-initiative/#post-d26f22cc8922))

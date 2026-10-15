@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes residual woody forestry biomass into biochar that is applied to agricultural soils for long-duration carbon sequestration."
 url: "/directory/slíglas/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Ireland</td></tr>
   <tr><th>Website</th><td><a href="https://sliglas.com/" target="_blank" rel="noopener">https://sliglas.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sliglas/" target="_blank" rel="noopener">sliglas — 390 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~4</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,8 @@ Slíglas is an Irish biochar startup based in Sligo, founded in 2024 by Paul McG
 
 ## History
 
+- **2026-10-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://irishtechnews.ie/regional-winners-intertradeirelands-seedcorn/))
+- **2026-09-23** — news mention: Slíglas: 👷♂️ A busy summer at Slíglas validating our technological approach with our second generati ([source](https://www.linkedin.com/company/sliglas/#post-fb2e16d1e9a1))
 - **2026-09-15** — refresh: coresignal, screenshot, liveliness
 - **2026-09-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://irishtechnews.ie/regional-winners-intertradeirelands-seedcorn/))
 - **2026-05-01** — refresh: screenshot

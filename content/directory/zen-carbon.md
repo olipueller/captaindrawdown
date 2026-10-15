@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Mineralization (Construction)</td></tr>
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://www.zencarbon.org/" target="_blank" rel="noopener">https://www.zencarbon.org/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/zencarbon/" target="_blank" rel="noopener">zencarbon — 1,160 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/zencarbon/" target="_blank" rel="noopener">zencarbon — 1,291 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~6 (+100% YoY)</td></tr>
+  <tr><th>Employees</th><td>~8 (+100% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,11 @@ ZEN Carbon is a Nairobi-based startup developing reactor-driven CO₂ mineraliza
 
 ## History
 
+- **2026-10-15** — refresh: coresignal
+- **2026-10-15** — refresh: coresignal
+- **2026-09-16** — news mention: Building climate technology takes more than good ideas. It takes an ecosystem that can execute.
+
+At  ([source](https://www.linkedin.com/feed/update/urn:li:share:7505911997990010880/))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-02** — news mention: When science meets deployment, the conversation changes.
 
@@ -67,9 +72,6 @@ This week, we had the ([source](https://www.linkedin.com/feed/update/urn:li:ugcP
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://carbondrawdown.substack.com/p/portfolio-spotlight-zen-carbon-building))
 - **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: ZEN Carbon is a Nairobi-based CO₂-mineralization-in-concrete startup led by CEO Andy Onyango, with no reference to "clitruct" on its website or in any press coverage. The slug "clitruct" doesn't match
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.zencarbon.org/))
-- **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://carbondrawdown.substack.com/p/portfolio-spotlight-zen-carbon-building))
 
 ---
 

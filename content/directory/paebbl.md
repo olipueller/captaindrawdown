@@ -34,6 +34,7 @@ Paebbl is a Dutch-Nordic climate-tech startup that permanently stores CO2 by min
 
 ## History
 
+- **2026-09-22** — news mention: CO2 Mineralization Reactor Market 2026: Key Players, Decarbonization Trends and Business Opportuniti ([source](https://www.openpr.com/news/4639901/co2-mineralization-reactor-market-2026-key-players))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-03** — news mention: Paebbl: Holcim , the global leader in sustainable construction is building an ecosystem of aligned v ([source](https://www.linkedin.com/company/paebbl/#post-275706fbb4c4))
 - **2026-08-27** — news mention: Paebbl: One of the hardest applications in the industry to decarbonise is now a carbon sink at Paris ([source](https://www.linkedin.com/company/paebbl/#post-b239190d5570))
@@ -63,7 +64,6 @@ Paebbl is a Dutch-Nordic climate-tech startup that permanently stores CO2 by min
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://paebbl.com/technology))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://paebbl.com/news-feed/paebbl-starts-operating-its-continuous-demo-plant-a-world-first-for-co2-mineralisation))
-- **2026-04-18** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://paebbl.com/technology))
 
 ---
 

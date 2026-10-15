@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://carbontosea.org/" target="_blank" rel="noopener">https://carbontosea.org/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbontosea/" target="_blank" rel="noopener">carbontosea — 6,088 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbontosea/" target="_blank" rel="noopener">carbontosea — 7,401 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~16 (+23% YoY)</td></tr>
+  <tr><th>Employees</th><td>~18 (+38% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,6 +31,11 @@ Carbon to Sea Initiative is a non-profit research and development effort launche
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-12** — news mention: Impacts of simulated coastal ocean alkalinity enhancement on the seasonal carbon cycle in European w ([source](https://doi.org/10.5194/esd-17-1513-2026))
+- **2026-10-09** — news mention: Carbon to Sea Initiative: Today, Submarine Scientific and Carbon to Sea are launching the OAE Data C ([source](https://www.linkedin.com/company/carbontosea/#post-574bea020646))
+- **2026-10-06** — news mention: 151st Edition - by Delaney Demark - Seaking Blue ([source](https://seakingblue.substack.com/p/151st-edition))
+- **2026-10-06** — news mention: Dataset on the effect of advection and CO2 ingassing on the dissolution of Ca(OH)2 and Mg(OH)2 in se ([source](https://doi.org/10.5281/zenodo.23078830))
 - **2026-09-11** — news mention: Funding Opportunities - September 11, 2026 ([source](https://www.fundraisingdispatch.com/p/funding-opportunities-september-11))
 - **2026-09-04** — news mention: Carbon to Sea Initiative: Carbon to Sea, in partnership with PML Applications , has officially launc ([source](https://www.linkedin.com/company/carbontosea/#post-08574cf2cf1c))
 - **2026-08-30** — news mention: Ground Up: ð° This week key developments in durable CDR, as Google launched a $6M R&amp;D funding  ([source](https://www.linkedin.com/company/ground-up-in/#post-ad9e2d1f2f43))
@@ -58,9 +63,6 @@ Carbon to Sea Initiative op ([source](https://www.linkedin.com/feed/update/urn:l
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=ecosystem liveliness=🟢 Active ([source](https://www.carbontosea.org/))
-- **2026-04-18** — reclassified: pathway=Ocean CDR focus=ecosystem liveliness=🟢 Active ([source](https://www.carbontosea.org/))
-- **2026-04-18** — discovered via: exa ([source](https://carbontosea.org/))
 
 ---
 

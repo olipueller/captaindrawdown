@@ -34,6 +34,12 @@ Skytree is a Dutch direct air capture technology company founded in 2014 in Amst
 
 ## History
 
+- **2026-10-07** — news mention: Skytree To Develop Its First Skypark In Iceland With New $1.1M Loan From Invest International ([source](https://carbonherald.com/skytree-to-develop-its-first-skypark-in-iceland-with-new-1-1m-loan-from-invest-international/?utm_source=rss&utm_medium=rss&utm_campaign=skytree-to-develop-its-first-skypark-in-iceland-with-new-1-1m-loan-from-invest-international))
+- **2026-10-07** — news mention: Skytree secures €1 million development loan from Invest ... ([source](https://skytree.tech/en-en/news/skytree-secures-1-million-development-loan-from-invest-international-for-its-first-skypark-co-as-a-service-project-in-iceland))
+- **2026-10-06** — news mention: Skytree secures €1 million development loan ([source](https://www.hortidaily.com/article/9880468/skytree-secures-eur1-million-development-loan/))
+- **2026-10-06** — news mention: Skytree secures €1m Dutch development loan for Iceland DAC project | Carbon Dioxide ([source](https://www.gasworld.com/story/skytree-secures-e1m-dutch-development-loan-for-iceland-dac-project/2261282.article.article/))
+- **2026-10-01** — news mention: Skytree: Glastuinbouw Nederland has announced that a group of Dutch greenhouse projects secured the  ([source](https://www.linkedin.com/company/skytree/#post-5634d9665ff3))
+- **2026-09-25** — news mention: 「ネガティブエミッション技術市場規模、成長と動向分析レポート 2026-2033年」の市場調査レポート出版・販売開始のご案内 | 株式会社SEMABIZのプレスリリース ([source](https://www.dreamnews.jp/press/0000363578))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-26** — news mention: Skytree: Skytree’s Chief Product Officer, Bjørn Utgård , is joining industry leaders at ONS 2026 to  ([source](https://www.linkedin.com/company/skytree/#post-09915724f7cc))
 - **2026-07-22** — news mention: Skytree: Skytree has achieved ISO 9001:2015 and ISO/IEC 27001:2022 certifications, confirming our co ([source](https://www.linkedin.com/company/skytree/#post-b3ab9a91c924))

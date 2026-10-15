@@ -34,6 +34,7 @@ Carbon Lockdown Project is a US public benefit corporation founded by University
 
 ## History
 
+- **2026-09-21** — news mention: Carbon Lockdown: Tour of Europe, July 2, near Rotterdam, the Netherlands ➡️ 26% of the Netherlands i ([source](https://www.linkedin.com/company/carbon-lockdown/#post-4f2376789ae5))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

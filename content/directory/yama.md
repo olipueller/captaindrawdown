@@ -34,6 +34,8 @@ Paris-based Yama Carbon is developing a DAC system using an electrochemical appr
 
 ## History
 
+- **2026-10-01** — news mention: Milkywire: 🌍 Milkywire has completed eight Salesforce-backed pre-purchases, securing 3,661 tonnes of ([source](https://www.linkedin.com/company/milkywire/#post-08426181283f))
+- **2026-09-20** — news mention: Yama: Yesterday, we won The Liveability Challenge 2026 Grand Prize of $1m + $100k CarbonFix grant 🏆  ([source](https://www.linkedin.com/company/yamacarbon/#post-1126c23caf3f))
 - **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot

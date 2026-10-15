@@ -41,6 +41,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-09-16** — news mention: Carbon Dioxide Removal Market - A Global and Regional Analysis: Focus on Technology Type, Carbon Cre ([source](https://bisresearch.com/industry-report/carbon-dioxide-removal-market.html))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-23** — news mention: Verde Resources: Waste ➝ Biochar ➝ Roads ➝ Carbon sinks Verde has finalized a key supply and carbon  ([source](https://www.linkedin.com/company/verde-resources-inc-vrdr-/#post-b6ece6dae5b1))
 - **2026-07-25** — news mention: Oregon Biochar Solutions: 🌍 Roads that remove carbon? That future is closer. Verde Resources Inc. ha ([source](https://www.linkedin.com/company/oregon-biochar-solutions/#post-2f24e6aab591))

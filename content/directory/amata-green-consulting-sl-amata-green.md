@@ -14,9 +14,9 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Website</th><td><a href="https://www.amatagreen.com/" target="_blank" rel="noopener">https://www.amatagreen.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/amata-green-llc/" target="_blank" rel="noopener">amata-green-llc — 804 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/amata-green-llc/" target="_blank" rel="noopener">amata-green-llc — 800 followers</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Employees</th><td>~3 (0% YoY)</td></tr>
+  <tr><th>Employees</th><td>~2</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ Amata Green is a Spain-based biochar startup planning a production facility in J
 
 ## History
 
+- **2026-10-15** — refresh: coresignal
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://www.amatagreen.com/))
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness

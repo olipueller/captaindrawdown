@@ -29,6 +29,7 @@ Sanbra Foods Ghana is an agricultural services company providing soil testing, p
 
 ## History
 
+- **2026-10-13** — news mention: Sanbra Foods Biochar - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/sanbra-foods-biochar/))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/sanbra-foods-biochar-161))
 - **2026-07-27** — news mention: Sanbra Foods: A quick look at the EcoFix Kenya Ltd (EFK) biochar facility as commissioning is offici ([source](https://www.linkedin.com/company/sanbrafoods/#post-f788c2bc9d89))

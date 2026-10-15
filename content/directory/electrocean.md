@@ -14,9 +14,9 @@ liveliness: "🟡 Moderate"
   <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://electrocean.eco/" target="_blank" rel="noopener">https://electrocean.eco/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/electrocean/" target="_blank" rel="noopener">electrocean — 55 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/electrocean/" target="_blank" rel="noopener">electrocean — 71 followers</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Employees</th><td>~2</td></tr>
+  <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ Electrocean is an early-stage, Purdue University student-founded US startup deve
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot

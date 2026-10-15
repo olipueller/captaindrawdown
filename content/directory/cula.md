@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>CDR Platform/Marketplace</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.cula.tech/" target="_blank" rel="noopener">https://www.cula.tech/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cula-technologies/" target="_blank" rel="noopener">cula-technologies — 2,364 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cula-technologies/" target="_blank" rel="noopener">cula-technologies — 3,456 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~20</td></tr>
+  <tr><th>Employees</th><td>~25 (+39% YoY)</td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -35,6 +35,12 @@ Cula Technologies is a digital MRV (Monitoring, Reporting and Verification) soft
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-13** — news mention: Inkoh: Fifth site, different equipment manufacturers, same software stack 𝘐𝘯𝘬𝘰𝘩 𝘰𝘱𝘦𝘯𝘦𝘥 𝘓𝘢𝘯𝘥𝘲𝘶𝘢𝘳𝘵 𝘺𝘦𝘴 ([source](https://www.linkedin.com/company/inkoh-biochar-and-beyond/#post-04a6f1b63e4e))
+- **2026-10-12** — news mention: Carbo-FORCE: That's a wrap on our CF-1000 Open House &amp; Ribbon Cutting in Price, Utah! On August  ([source](https://www.linkedin.com/company/carbo-force/#post-e80ad368858d))
+- **2026-10-11** — news mention: Cula: Fifth site, different equipment manufacturers, same software stack 𝘐𝘯𝘬𝘰𝘩 𝘰𝘱𝘦𝘯𝘦𝘥 𝘓𝘢𝘯𝘥𝘲𝘶𝘢𝘳𝘵 𝘺𝘦𝘴𝘵 ([source](https://www.linkedin.com/company/cula-technologies/#post-01ddd67b2dca))
+- **2026-10-06** — news mention: Inkoh Opens New Biochar HQ In Switzerland, Supported By Cula & Next Generation Elements Tech ([source](https://carbonherald.com/inkoh-opens-new-biochar-hq-in-switzerland-supported-by-cula-next-generation-elements-tech/?utm_source=rss&utm_medium=rss&utm_campaign=inkoh-opens-new-biochar-hq-in-switzerland-supported-by-cula-next-generation-elements-tech))
+- **2026-09-24** — news mention: #purocdrsummit #climateweeknyc #carbonremoval #cdr #corcs #newyork | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7508518044885757953/))
 - **2026-09-06** — news mention: Carbo-FORCE: That's a wrap on our CF-1000 Open House &amp; Ribbon Cutting in Price, Utah! On August  ([source](https://www.linkedin.com/company/carbo-force/#post-8cc632c2d667))
 - **2026-08-22** — news mention: Cula: Last week we cut the ribbon on the first CF-𝟏𝟎𝟎𝟎. A big thank you to CO2-Sync and Carbo-FORCE  ([source](https://www.linkedin.com/company/cula-technologies/#post-48d8b8954751))
 - **2026-08-15** — news mention: Carbo-FORCE: That's a wrap on our CF-1000 Open House &amp; Ribbon Cutting in Price, Utah! On August  ([source](https://www.linkedin.com/company/carbo-force/#post-f2dc7a15330b))

@@ -8,18 +8,18 @@ url: "/directory/enhanced-weathering/"
 
 # Enhanced Weathering — 33 Companies Tracked
 
-**Market pulse for Enhanced Weathering (updated 2026-09-15).**
+**Market pulse for Enhanced Weathering (updated 2026-10-15).**
 
 <div class="directory-stats">
   <div class="stat-box"><span class="num">33</span><span class="label">Companies</span></div>
-  <div class="stat-box"><span class="num" style="color:#22c55e">27</span><span class="label">🟢 Active</span></div>
+  <div class="stat-box"><span class="num" style="color:#22c55e">26</span><span class="label">🟢 Active</span></div>
   <div class="stat-box"><span class="num" style="color:#eab308">0</span><span class="label">🟡 Moderate</span></div>
-  <div class="stat-box"><span class="num" style="color:#f97316">0</span><span class="label">🟠 Suspect</span></div>
-  <div class="stat-box"><span class="num" style="color:#ef4444">6</span><span class="label">🔴 Maybe Dead?</span></div>
+  <div class="stat-box"><span class="num" style="color:#f97316">2</span><span class="label">🟠 Suspect</span></div>
+  <div class="stat-box"><span class="num" style="color:#ef4444">5</span><span class="label">🔴 Maybe Dead?</span></div>
 </div>
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">27,414</span><span class="label">Total employees (lower bound)</span></div>
+  <div class="stat-box"><span class="num">27,412</span><span class="label">Total employees (lower bound)</span></div>
   <div class="stat-box"><span class="num">32/33</span><span class="label">Companies with headcount data</span></div>
 </div>
 
@@ -27,11 +27,11 @@ url: "/directory/enhanced-weathering/"
 
 - [Anglo American](/directory/anglo-american/) — 26823 employees
 - [Metalplant](/directory/metalplant/) — 189 employees
-- [Terradot](/directory/terradot/) — 85 employees
+- [Terradot](/directory/terradot/) — 82 employees
 - [UNDO](/directory/undo/) — 60 employees
 - [Alt Carbon](/directory/alt-carbon/) — 50 employees
-- [Lithos](/directory/lithos/) — 30 employees
-- [CREW Carbon](/directory/crew-carbon/) — 28 employees
+- [CREW Carbon](/directory/crew-carbon/) — 29 employees
+- [Lithos](/directory/lithos/) — 29 employees
 - [Cascade Climate](/directory/cascade-climate/) — 25 employees
 - [CarbonRun](/directory/carbonrun/) — 22 employees
 - [Flux](/directory/flux/) — 12 employees

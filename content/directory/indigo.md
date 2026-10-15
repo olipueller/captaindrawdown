@@ -34,6 +34,9 @@ Indigo Ag is a US-based sustainable agriculture company whose core business is b
 
 ## History
 
+- **2026-10-08** — news mention: Lord, Hold Me Close Today | Powerful - BIBLE ([source](https://investorshangout.com/post/view?id=6847605))
+- **2026-10-07** — news mention: Indigo: High-integrity carbon markets can create real value where it matters most: on the farm. A ne ([source](https://www.linkedin.com/company/indigoag/#post-f4f21254f024))
+- **2026-09-17** — news mention: Grow Indigo: Yesterday, Grow Indigo reached a major milestone: ððððð¶ð»ð´ ðð» ([source](https://www.linkedin.com/company/grow-indigo-pvt-ltd/#post-50ba17d376e9))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-01** — news mention: Indigo: What does high-integrity soil carbon removal look like at scale? Microsoft recently publishe ([source](https://www.linkedin.com/company/indigoag/#post-6fff14efd79f))
 - **2026-08-12** — news mention: Grow Indigo: Grow Indigo Punjab Wheat Program Achieves FSA Gold and Silver Performance Levels We are ([source](https://www.linkedin.com/company/grow-indigo-pvt-ltd/#post-5add2ed71a3d))

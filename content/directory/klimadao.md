@@ -5,7 +5,7 @@ type: "directory"
 description: "Blockchain-based tokenization, liquidity, and marketplace infrastructure (Carbonmark) for voluntary carbon credits, enabling on-chain purchase and retirement of credits from Verra, Gold Standard,"
 url: "/directory/klimadao/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,9 +14,9 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Website</th><td><a href="https://www.klimadao.finance/" target="_blank" rel="noopener">https://www.klimadao.finance/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/klima-dao/" target="_blank" rel="noopener">klima-dao</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Employees</th><td>~5</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/babe-ke-group-of-institutes/" target="_blank" rel="noopener">babe-ke-group-of-institutes — 62 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ KlimaDAO is a decentralized autonomous organization building blockchain-based in
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot, liveliness
+- **2026-10-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, liveliness
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate

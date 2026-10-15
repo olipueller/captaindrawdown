@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Afforestation/Reforestation</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://ecotree.green/" target="_blank" rel="noopener">https://ecotree.green/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ecotree/" target="_blank" rel="noopener">ecotree — 24,484 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ecotree/" target="_blank" rel="noopener">ecotree — 25,483 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~43 (-9% YoY)</td></tr>
+  <tr><th>Employees</th><td>~40 (-7% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -35,6 +35,8 @@ EcoTree provides verified carbon sequestration through afforestation and peatlan
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-09-30** — news mention: EcoTree SAS: Une nouvelle page s'Ã©crit pour EcoTree : nous rejoignons le groupe CrÃ©dit Agricole po ([source](https://www.linkedin.com/company/ecotree/#post-dff8246538be))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot

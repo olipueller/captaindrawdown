@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.morfo.rest" target="_blank" rel="noopener">https://www.morfo.rest</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/morforest/" target="_blank" rel="noopener">morforest — 17,277 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/morforest/" target="_blank" rel="noopener">morforest — 18,096 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~37 (-27% YoY)</td></tr>
+  <tr><th>Employees</th><td>~31 (-26% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ MORFO is a Franco-Brazilian reforestation company (founded 2021) restoring degra
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-08** — news mention: MORFO: A former alluvial gold mine in French Guiana. 84% bare soil, soil pH at 4.35. One of the most ([source](https://www.linkedin.com/company/morforest/#post-84966bfeeccf))
 - **2026-09-02** — news mention: MORFO: A former alluvial gold mine in French Guiana. 84% bare soil, soil pH at 4.35. One of the most ([source](https://www.linkedin.com/company/morforest/#post-9f0a1d93c8fe))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-07-29** — news mention: MORFO: A former alluvial gold mine in French Guiana. 84% bare soil, soil pH at 4.35. One of the most ([source](https://www.linkedin.com/company/morforest/#post-b6a3b35bc8fd))

@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United Arab Emirates</td></tr>
   <tr><th>Website</th><td><a href="https://offset8capital.com/" target="_blank" rel="noopener">https://offset8capital.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/offset8-capital/" target="_blank" rel="noopener">offset8-capital — 6,176 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/offset8-capital/" target="_blank" rel="noopener">offset8-capital — 6,463 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~10 (0% YoY)</td></tr>
+  <tr><th>Employees</th><td>~30 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ Offset8 Capital is an Abu Dhabi-based proprietary asset management and emissions
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
 - **2026-09-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-20** — news mention: Offset8 Capital: 🎌 Japan's Carbon Market In April 2026, the GX-ETS entered its mandatory compliance  ([source](https://www.linkedin.com/company/offset8-capital/#post-b65aaa853b9b))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate

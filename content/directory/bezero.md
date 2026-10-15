@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://bezerocarbon.com/" target="_blank" rel="noopener">https://bezerocarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bezero-carbon/" target="_blank" rel="noopener">bezero-carbon — 39,784 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bezero-carbon/" target="_blank" rel="noopener">bezero-carbon — 42,269 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~163 (-21% YoY)</td></tr>
+  <tr><th>Employees</th><td>~156 (-20% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,13 @@ BeZero Carbon is a global ratings agency for the Voluntary Carbon Market whose c
 
 ## History
 
+- **2026-10-15** — refresh: coresignal, screenshot
+- **2026-10-14** — news mention: Groundwork BioAg receives a ‘BBB’ carbon rating from BeZero for its mycorrhizal inoculants program c ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mxtxczmlc22e))
+- **2026-10-14** — news mention: Groundwork BioAg Secures A ‘BBB’ Carbon Rating By BeZero ([source](https://carbonherald.com/groundwork-bioag-secures-a-bbb-carbon-rating-by-bezero/?utm_source=rss&utm_medium=rss&utm_campaign=groundwork-bioag-secures-a-bbb-carbon-rating-by-bezero))
+- **2026-10-08** — news mention: Higher-Rated Carbon Credits Command Growing Price Premium, BeZero Finds ([source](https://carbonherald.com/higher-rated-carbon-credits-command-growing-price-premium-bezero-finds/))
+- **2026-09-26** — news mention: Aurora Sustainable Lands: Aurora's Big Poplar Forestry Project has received a BBB.pre ex ante Rating ([source](https://www.linkedin.com/company/aurora-sustainable-lands/#post-c4d321c372d7))
+- **2026-09-26** — news mention: Anew Climate: Project Quality Spotlight | Big Poplar Forestry Project   The Big Poplar Forestry Proj ([source](https://www.linkedin.com/company/anewclimate/#post-4b9448182d4f))
+- **2026-09-23** — news mention: BeZero Carbon: New research published in Nature Communications, co-authored by BeZero's Senior Carbo ([source](https://www.linkedin.com/company/bezero-carbon/#post-090f79d1c787))
 - **2026-09-10** — news mention: Rubicon Carbon: Some organizations need more than a supplier's word on carbon credit quality. Procur ([source](https://www.linkedin.com/company/rubicon-carbon/#post-4e71ebf208f8))
 - **2026-09-01** — news mention: Desired Future Conditions: BeZero Carbon just published ex ante risk ratings on 14 carbon removal pr ([source](https://www.linkedin.com/company/desired-future-conditions/#post-34f936a86852))
 - **2026-08-28** — news mention: BlueLayer: Congratulations to Permian Global on a milestone issuance from their Katingan Mentaya Pro ([source](https://www.linkedin.com/company/getbluelayer/#post-19d3993700e4))
@@ -53,13 +60,6 @@ BeZero Carbon is a global ratings agency for the Voluntary Carbon Market whose c
 - **2026-07-22** — news mention: Grow Indigo: Emergent Ventures India (EVI) has purchased and retired carbon credits on behalf of the ([source](https://www.linkedin.com/company/grow-indigo-pvt-ltd/#post-1e553fb1fad9))
 - **2026-07-21** — news mention: Agreena’s Soil Carbon Project Confirmed BBB After Delivering 2.3M Verified Credits ([source](https://carbonherald.com/agreenas-soil-carbon-project-confirmed-bbb-after-delivering-2-3m-verified-credits/?utm_source=rss&utm_medium=rss&utm_campaign=agreenas-soil-carbon-project-confirmed-bbb-after-delivering-2-3m-verified-credits))
 - **2026-07-21** — news mention: BeZero Carbon: 🇪🇺 The European Commission has unveiled its proposed overhaul of the EU Emissions Tra ([source](https://www.linkedin.com/company/bezero-carbon/#post-b28790022b2f))
-- **2026-06-29** — news mention: BeZero Expands Its Platform By Acquiring Cedar ([source](https://carbonherald.com/bezero-expands-its-platform-by-acquiring-cedar/?utm_source=rss&utm_medium=rss&utm_campaign=bezero-expands-its-platform-by-acquiring-cedar))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-04-28** — news mention: Carbon Credit Trading Platform ROI for Operators ([source](https://techaroha.com/carbon-credit-trading-platform-roi-operators/))
-- **2026-04-19** — merged 1 duplicate(s): BeZero Carbon
 
 ---
 
