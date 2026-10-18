@@ -2,7 +2,7 @@
 title: "Take: Season 3 Episode 9: Iron Fertilization Governance with Sara Nawaz"
 date: 2026-10-15T10:00:00+00:00
 slug: "podcast-take-season-3-episode-9-iron-fertilization-governance-with-sara-n-2db4779d"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "ocean-solutions:-a-noise-lab-podcast"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

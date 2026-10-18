@@ -2,7 +2,7 @@
 title: "Take: From Equity to Debt: How CDR Gets Bankable  — with Julia Reichelstein and Tyler Manchester"
 date: 2026-10-15T10:00:00+00:00
 slug: "podcast-take-from-equity-to-debt-how-cdr-gets-bankable-with-julia-reichel-26b95871"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "the-cdr-policy-scoop"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

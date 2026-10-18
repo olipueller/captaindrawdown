@@ -2,7 +2,7 @@
 title: "Take: Internationalisation of CDR Markets - Lashof"
 date: 2026-10-15T10:00:00+00:00
 slug: "podcast-take-internationalisation-of-cdr-markets-lashof-65a2bd54"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "reviewer-2-does-geoengineering"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"
