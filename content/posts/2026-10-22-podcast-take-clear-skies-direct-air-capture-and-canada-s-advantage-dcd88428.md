@@ -2,7 +2,7 @@
 title: "Take: Clear Skies: Direct air capture and Canada's advantage"
 date: 2026-10-22T10:00:00+00:00
 slug: "podcast-take-clear-skies-direct-air-capture-and-canada-s-advantage-dcd88428"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "disruptors"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

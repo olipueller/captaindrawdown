@@ -2,7 +2,7 @@
 title: "Take: Canada's Next Industrial Play: The Mine That Stores Carbon"
 date: 2026-10-22T10:00:00+00:00
 slug: "podcast-take-canada-s-next-industrial-play-the-mine-that-stores-carbon-f48d4555"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "the-carbon-curve"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

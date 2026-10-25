@@ -2,7 +2,7 @@
 title: "Take: 106 | SHOWDOWN: Europe’s CDR Strategy: BioCCS vs Tech Neutral - with Kaja Voss and Alastair Collier"
 date: 2026-10-22T10:00:00+00:00
 slug: "podcast-take-106-showdown-europe-s-cdr-strategy-bioccs-vs-tech-neutral-wi-4a1b206a"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "the-cdr-policy-scoop"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"
