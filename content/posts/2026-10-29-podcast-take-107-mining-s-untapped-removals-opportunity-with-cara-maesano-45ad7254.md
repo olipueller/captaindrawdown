@@ -2,7 +2,7 @@
 title: "Take: 107 | Mining's Untapped Removals Opportunity - with Cara Maesano"
 date: 2026-10-29T10:00:00+00:00
 slug: "podcast-take-107-mining-s-untapped-removals-opportunity-with-cara-maesano-45ad7254"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "the-cdr-policy-scoop"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

@@ -2,7 +2,7 @@
 title: "Take: The Replacement for the Replacement | Andreas Bremen, Co-reactive"
 date: 2026-10-29T10:00:00+00:00
 slug: "podcast-take-the-replacement-for-the-replacement-andreas-bremen-co-reacti-75bb8892"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "bite-size-climate-tech"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"
