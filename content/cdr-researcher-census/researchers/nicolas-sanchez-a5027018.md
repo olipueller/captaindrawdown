@@ -1,7 +1,7 @@
 ---
 title: "Nicolás Sánchez"
 description: "Nicolás Sánchez is a Senior Ocean CDR researcher at Norwegian University of Science and Technology in NO. With 54 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:04+00:00
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/nicolas-sanchez-a5027018/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,14 +50,14 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 ## Papers counted in the census {#papers}
 
-11 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 11, General CDR 3. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+11 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 11. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Resilience of the gelatinous zooplankton species Oikopleura dioica to ocean alkalinity enhancement](https://openalex.org/W7143297560) | General CDR; Ocean CDR | 1 |
-| 2026 | [A sequential gated research framework for addressing potential impacts of marine carbon dioxide removal on fisheries, aquaculture, and Indigenous communities](https://openalex.org/W7167793936) | General CDR; Ocean CDR | 0 |
+| 2026 | [Resilience of the gelatinous zooplankton species Oikopleura dioica to ocean alkalinity enhancement](https://openalex.org/W7143297560) | Ocean CDR | 1 |
+| 2026 | [A sequential gated research framework for addressing potential impacts of marine carbon dioxide removal on fisheries, aquaculture, and Indigenous communities](https://openalex.org/W7167793936) | Ocean CDR | 0 |
 | 2025 | [Ocean alkalinity enhancement in an open-ocean ecosystem: biogeochemical responses and carbon storage durability](https://doi.org/10.5194/bg-22-2749-2025) | Ocean CDR | 19 |
-| 2024 | [Plankton food web structure and productivity under ocean alkalinity enhancement](https://doi.org/10.1126/sciadv.ado0264) | General CDR; Ocean CDR | 29 |
+| 2024 | [Plankton food web structure and productivity under ocean alkalinity enhancement](https://doi.org/10.1126/sciadv.ado0264) | Ocean CDR | 29 |
 | 2024 | [Early life stages of fish under ocean alkalinity enhancement in coastal plankton communities](https://doi.org/10.5194/bg-21-4521-2024) | Ocean CDR | 23 |
 | 2024 | [Viability of coastal fish larvae under ocean alkalinity enhancement: from organisms to communities](https://doi.org/10.5194/egusphere-2024-286) | Ocean CDR | 6 |
 | 2024 | [Figs 1–14 in KOSMOS 2021 Gran Canaria mesocosm study on ocean alkalinity enhancement: metazoan zooplankton carbon biomass](https://openalex.org/W7163130671) | Ocean CDR | 0 |

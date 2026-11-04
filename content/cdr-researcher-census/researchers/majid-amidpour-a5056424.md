@@ -1,7 +1,7 @@
 ---
 title: "Majid Amidpour"
-description: "Majid Amidpour is an Eminent DAC researcher at K. N. TOOSI UNIVERSITY OF TECHNOLOGY in IR. With 416 publications and an h-index of 55, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:04+00:00
+description: "Majid Amidpour is an Eminent DAC researcher at K. N. Toosi University of Technology in IR. With 416 publications and an h-index of 55, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/majid-amidpour-a5056424/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/majid-amidpour-a5056424/",
   "affiliation": {
     "@type": "Organization",
-    "name": "K. N. TOOSI UNIVERSITY OF TECHNOLOGY"
+    "name": "K. N. Toosi University of Technology"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-2073-6106",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Majid Amidpour**  
-K. N. TOOSI UNIVERSITY OF TECHNOLOGY ·  IR
+K. N. Toosi University of Technology ·  IR
 
 **Career Stage:** Eminent
 
@@ -50,16 +50,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Papers counted in the census {#papers}
 
-6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 4, General CDR 4, BECCS 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 4, BECCS 1, Cross-cutting CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Decarbonizing cement industry via solar-hybrid capture: Synergistic Integration of microalgae, amine scrubbing, and direct air capture for enhanced energy and exergoeconomic performance](https://openalex.org/W7138935919) | DAC | 3 |
 | 2026 | [Next-gen carbon capture: Life cycle metrics of solar-integrated direct air capture technology](https://openalex.org/W7160073376) | DAC | 1 |
-| 2025 | [Techno-economic evaluation of solar-driven direct air capture under various configurations](https://doi.org/10.1016/j.enconman.2025.120233) | DAC; General CDR | 14 |
-| 2025 | [Machine learning–enabled optimization of a direct air capture system integrated with enhanced oil recovery](https://doi.org/10.1016/j.rechem.2025.102836) | DAC; General CDR | 3 |
-| 2025 | [Sustainable fuel and power from biomass: 4E analysis of a solar-assisted DME production system with CO₂ capture](https://doi.org/10.1016/j.btre.2025.e00928) | BECCS; General CDR | 1 |
-| 2023 | [Performance analysis of power plant designed with a carbon capture unit: study of an oil refinery](https://doi.org/10.1007/s13762-022-04707-6) | General CDR | 0 |
+| 2025 | [Techno-economic evaluation of solar-driven direct air capture under various configurations](https://doi.org/10.1016/j.enconman.2025.120233) | DAC | 14 |
+| 2025 | [Machine learning–enabled optimization of a direct air capture system integrated with enhanced oil recovery](https://doi.org/10.1016/j.rechem.2025.102836) | DAC | 3 |
+| 2025 | [Sustainable fuel and power from biomass: 4E analysis of a solar-assisted DME production system with CO₂ capture](https://doi.org/10.1016/j.btre.2025.e00928) | BECCS | 1 |
+| 2023 | [Performance analysis of power plant designed with a carbon capture unit: study of an oil refinery](https://doi.org/10.1007/s13762-022-04707-6) | Cross-cutting CDR | 0 |
 
 ## External Profiles
 

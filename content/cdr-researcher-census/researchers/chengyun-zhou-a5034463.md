@@ -1,7 +1,7 @@
 ---
 title: "Chengyun Zhou"
 description: "Chengyun Zhou is an Eminent Biochar researcher at Hunan University in CN. With 203 publications and an h-index of 89, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:04+00:00
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/chengyun-zhou-a5034463/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Papers counted in the census {#papers}
 
-10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 10, Soil Carbon 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 10. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
@@ -61,7 +61,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2024 | [A review on the algae-derived biochar catalysts:Advanced oxidation processes and machine learning tools](https://doi.org/10.1016/j.seppur.2024.129336) | Biochar | 22 |
 | 2024 | [Mechanistic Insights into Removal of Electron-Rich Emerging Pollutants Using Carbon Nitride Co-Modified Cyanobacteria Biochar in Fenton-Like Oxidation Reaction: Dual Non-Radical Degradation Pathways](http://doi.org/10.2139/ssrn.4895226) | Biochar | 0 |
 | 2023 | [When biochar is involved in rhizosphere dissipation and plant absorption of pesticides: A meta-analysis](https://doi.org/10.1016/j.jenvman.2023.118518) | Biochar | 38 |
-| 2022 | [Biochar-based agricultural soil management: An application-dependent strategy for contributing to carbon neutrality](https://doi.org/10.1016/j.rser.2022.112529) | Biochar; Soil Carbon | 112 |
+| 2022 | [Biochar-based agricultural soil management: An application-dependent strategy for contributing to carbon neutrality](https://doi.org/10.1016/j.rser.2022.112529) | Biochar | 112 |
 | 2022 | [Effects of activated carbon, biochar, and carbon nanotubes on the heterogeneous Fenton oxidation catalyzed by pyrite for ciprofloxacin degradation](https://doi.org/10.1016/j.chemosphere.2022.136427) | Biochar | 36 |
 | 2022 | [Insight into disinfection byproduct formation potential of aged biochar and its effects during chlorination](https://doi.org/10.1016/j.jenvman.2022.115437) | Biochar | 11 |
 

@@ -1,7 +1,7 @@
 ---
 title: "Keywan Riahi"
-description: "Keywan Riahi is an Eminent General CDR researcher at International Institute for Applied Systems Analysis in AT. With 569 publications and an h-index of 114, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:04+00:00
+description: "Keywan Riahi is an Eminent Cross-cutting CDR researcher at International Institute for Applied Systems Analysis in AT. With 569 publications and an h-index of 114, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/keywan-riahi-a5035238/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ International Institute for Applied Systems Analysis · 🇦🇹 AT
 
 ## CDR Specialization
 
-**General CDR**
+**Cross-cutting CDR**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Cross-cutting CDR
 
 ## Metrics
 
@@ -50,32 +50,32 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Papers counted in the census {#papers}
 
-22 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 20, BECCS 3, Biochar 2, Enhanced Weathering 2, DAC 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+22 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Cross-cutting CDR 16, BECCS 3, Biochar 2, Enhanced Weathering 2, DAC 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Temporary carbon dioxide removal to offset short-lived climate forcers](https://openalex.org/W7162494199) | General CDR | 2 |
-| 2026 | [Mitigation benchmarks from the 2025 community update of global emissions pathways](https://doi.org/10.21203/rs.3.rs-8891091/v1) | General CDR | 1 |
-| 2026 | [Key Benchmarks of Global Emissions Scenarios 2025: Annual update of integrated assessment scenarios and related benchmarks for limiting global warming](https://doi.org/10.5194/egusphere-egu26-12960) | General CDR | 0 |
-| 2026 | [Managing Overshoot Through Collective Carbon Debt Drawdown](https://doi.org/10.5194/egusphere-egu26-16344) | General CDR | 0 |
-| 2026 | [Temporary carbon dioxide removal to offset short-lived climate forcers](https://doi.org/10.5194/egusphere-egu26-10111) | General CDR | 0 |
-| 2026 | [Towards sustainability-aware carbon dioxide removal deployment](https://doi.org/10.5194/egusphere-egu26-20118) | BECCS; Biochar; Enhanced Weathering; General CDR | 0 |
+| 2026 | [Temporary carbon dioxide removal to offset short-lived climate forcers](https://openalex.org/W7162494199) | Cross-cutting CDR | 2 |
+| 2026 | [Mitigation benchmarks from the 2025 community update of global emissions pathways](https://doi.org/10.21203/rs.3.rs-8891091/v1) | Cross-cutting CDR | 1 |
+| 2026 | [Key Benchmarks of Global Emissions Scenarios 2025: Annual update of integrated assessment scenarios and related benchmarks for limiting global warming](https://doi.org/10.5194/egusphere-egu26-12960) | Cross-cutting CDR | 0 |
+| 2026 | [Managing Overshoot Through Collective Carbon Debt Drawdown](https://doi.org/10.5194/egusphere-egu26-16344) | Cross-cutting CDR | 0 |
+| 2026 | [Temporary carbon dioxide removal to offset short-lived climate forcers](https://doi.org/10.5194/egusphere-egu26-10111) | Cross-cutting CDR | 0 |
+| 2026 | [Towards sustainability-aware carbon dioxide removal deployment](https://doi.org/10.5194/egusphere-egu26-20118) | BECCS; Biochar; Enhanced Weathering | 0 |
 | 2026 | [Biodiversity conservation policies alter the solution space of climate mitigation scenarios](https://openalex.org/W7208815994) | BECCS | 0 |
-| 2026 | [Equitable cooperation deepens the solution space for high ambition pathways](https://openalex.org/W7211890629) | General CDR | 0 |
+| 2026 | [Equitable cooperation deepens the solution space for high ambition pathways](https://openalex.org/W7211890629) | Cross-cutting CDR | 0 |
 | 2026 | [Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment](https://openalex.org/W7211955480) | BECCS | 0 |
-| 2026 | [Carbon dioxide removal consistent with climate pledges: a multi-model assessment of regional potential](https://openalex.org/W7213337866) | Biochar; Enhanced Weathering; General CDR | 0 |
-| 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7220995682) | General CDR | 0 |
-| 2025 | [A prudent planetary limit for geologic carbon storage](https://doi.org/10.1038/s41586-025-09423-y) | General CDR | 85 |
-| 2024 | [Drivers and attitudes of public support for technological solutions to climate change in 30 countries](https://doi.org/10.1088/1748-9326/ad7c67) | General CDR | 19 |
-| 2024 | [Taking stock of carbon dioxide removal policy in emerging economies: developments in Brazil, China, and India](https://doi.org/10.1080/14693062.2024.2353148) | General CDR | 18 |
-| 2024 | [Climate policy and the SDGs agenda: how does near-term action on nexus SDGs influence the achievement of long-term climate goals?](https://doi.org/10.1088/1748-9326/ad3973) | General CDR | 13 |
-| 2024 | [Current national proposals are off track to meet carbon dioxide removal needs](https://doi.org/10.1038/s41558-024-01993-5) | General CDR | 7 |
-| 2023 | [Near-term deployment of novel carbon removal to facilitate longer-term deployment](https://doi.org/10.1016/j.joule.2023.11.001) | General CDR | 46 |
-| 2023 | [Fairness and feasibility in deep mitigation pathways with novel carbon dioxide removal considering institutional capacity to mitigate](https://doi.org/10.1088/1748-9326/acd8d5) | DAC; General CDR | 39 |
-| 2023 | [Secure robust carbon dioxide removal policy through credible certification](https://doi.org/10.1038/s43247-023-01014-x) | General CDR | 34 |
-| 2023 | [The carbon dioxide removal gap](https://doi.org/10.21203/rs.3.rs-3255532/v1) | General CDR | 8 |
-| 2023 | [The carbon dioxide removal gap: current removals and country proposals versus future requirements for limiting warming to 2°C or lower](https://doi.org/10.5194/egusphere-egu23-6660) | DAC; General CDR | 0 |
-| 2021 | [Land-based implications of early climate actions without global net-negative emissions](https://doi.org/10.1038/s41893-021-00772-w) | General CDR | 67 |
+| 2026 | [Carbon dioxide removal consistent with climate pledges: a multi-model assessment of regional potential](https://openalex.org/W7213337866) | Biochar; Enhanced Weathering | 0 |
+| 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7220995682) | Cross-cutting CDR | 0 |
+| 2025 | [A prudent planetary limit for geologic carbon storage](https://doi.org/10.1038/s41586-025-09423-y) | Cross-cutting CDR | 85 |
+| 2024 | [Drivers and attitudes of public support for technological solutions to climate change in 30 countries](https://doi.org/10.1088/1748-9326/ad7c67) | Cross-cutting CDR | 19 |
+| 2024 | [Taking stock of carbon dioxide removal policy in emerging economies: developments in Brazil, China, and India](https://doi.org/10.1080/14693062.2024.2353148) | Cross-cutting CDR | 18 |
+| 2024 | [Climate policy and the SDGs agenda: how does near-term action on nexus SDGs influence the achievement of long-term climate goals?](https://doi.org/10.1088/1748-9326/ad3973) | Cross-cutting CDR | 13 |
+| 2024 | [Current national proposals are off track to meet carbon dioxide removal needs](https://doi.org/10.1038/s41558-024-01993-5) | Cross-cutting CDR | 7 |
+| 2023 | [Near-term deployment of novel carbon removal to facilitate longer-term deployment](https://doi.org/10.1016/j.joule.2023.11.001) | Cross-cutting CDR | 46 |
+| 2023 | [Fairness and feasibility in deep mitigation pathways with novel carbon dioxide removal considering institutional capacity to mitigate](https://doi.org/10.1088/1748-9326/acd8d5) | DAC | 39 |
+| 2023 | [Secure robust carbon dioxide removal policy through credible certification](https://doi.org/10.1038/s43247-023-01014-x) | Cross-cutting CDR | 34 |
+| 2023 | [The carbon dioxide removal gap](https://doi.org/10.21203/rs.3.rs-3255532/v1) | Cross-cutting CDR | 8 |
+| 2023 | [The carbon dioxide removal gap: current removals and country proposals versus future requirements for limiting warming to 2°C or lower](https://doi.org/10.5194/egusphere-egu23-6660) | DAC | 0 |
+| 2021 | [Land-based implications of early climate actions without global net-negative emissions](https://doi.org/10.1038/s41893-021-00772-w) | Cross-cutting CDR | 67 |
 
 ## External Profiles
 

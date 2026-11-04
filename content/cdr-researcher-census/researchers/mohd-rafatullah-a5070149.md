@@ -1,7 +1,7 @@
 ---
 title: "Mohd Rafatullah"
 description: "Mohd Rafatullah is an Eminent Biochar researcher at Prince Mohammad bin Fahd University in SA. With 299 publications and an h-index of 58, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:04+00:00
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/mohd-rafatullah-a5070149/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Papers counted in the census {#papers}
 
-11 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 11, General CDR 1, Soil Carbon 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+11 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 11. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
@@ -62,7 +62,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2025 | [Fabrication of Iron and Nitrogen Doped Magnetic Banana Fruit Peel Biochar for Sequestration of Eriochrome Black T Dye: Mechanistic Insights and Reutilization Strategy](https://doi.org/10.1007/s42250-025-01400-2) | Biochar | 4 |
 | 2025 | [Facile synthesis of iron- and nitrogen-doped magnetic pineapple fruit peel biochar for sequestration of acid yellow 23 dye from aqueous solutions](https://doi.org/10.1080/26395940.2025.2566105) | Biochar | 2 |
 | 2024 | [Adsorptive potential of coconut fruit shell biochar as low-cost adsorbent for sequestration of rhodamine B dye: kinetics, thermodynamics and phytotoxicity studies](https://doi.org/10.1007/s13399-024-05688-x) | Biochar | 24 |
-| 2024 | [Insights into Biochar Applications: A Sustainable Strategy toward Carbon Neutrality and Circular Economy](https://doi.org/10.1021/bk-2024-1479.ch001) | Biochar; General CDR; Soil Carbon | 14 |
+| 2024 | [Insights into Biochar Applications: A Sustainable Strategy toward Carbon Neutrality and Circular Economy](https://doi.org/10.1021/bk-2024-1479.ch001) | Biochar | 14 |
 | 2024 | [Melamine-nitrogenated mesoporous biochar derived from palm kernel shells for diuron adsorption in contaminated water](https://doi.org/10.1007/s11270-024-07188-0) | Biochar | 4 |
 | 2023 | [Treatment of Direct Red 28 Dye through Phoenix dactylifera L. Fruit Seed Biochar: Equilibrium, Kinetics, Thermodynamics, and Phytotoxicity Studies](https://doi.org/10.3390/su152115266) | Biochar | 6 |
 

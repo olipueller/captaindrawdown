@@ -1,7 +1,7 @@
 ---
 title: "Mohamed Gamal El‐Din"
-description: "Mohamed Gamal El‐Din is an Eminent Biochar researcher at Ain Shams University in EG. With 317 publications and an h-index of 66, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:04+00:00
+description: "Mohamed Gamal El‐Din is an Eminent Biochar researcher at University of Alberta in CA. With 317 publications and an h-index of 66, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/mohamed-gamal-eldin-a5037765/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mohamed-gamal-eldin-a5037765/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Ain Shams University"
+    "name": "University of Alberta"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-8443-476X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Mohamed Gamal El‐Din**  
-Ain Shams University ·  EG
+University of Alberta · 🇨🇦 CA
 
 **Career Stage:** Eminent
 

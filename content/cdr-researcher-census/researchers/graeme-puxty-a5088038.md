@@ -1,7 +1,7 @@
 ---
 title: "Graeme Puxty"
 description: "Graeme Puxty is a Senior DAC researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 151 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:04+00:00
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/graeme-puxty-a5088038/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Papers counted in the census {#papers}
 
-7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 7, Enhanced Weathering 3, General CDR 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 7, Enhanced Weathering 3. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
@@ -58,8 +58,8 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | 2026 | [Towards the integration of direct air capture and CO2 mineralisation processes employing potassium glycinate, and α- and β- alaninate](https://openalex.org/W7155634468) | DAC | 2 |
 | 2026 | [Integrated Direct Air Capture – CO2 Mineralisation Process Employing Potassium Glycinate, and α- and β- Alaninate](https://doi.org/10.2139/ssrn.6331975) | DAC; Enhanced Weathering | 0 |
 | 2026 | [Evaluation of the potassium salts of a series of five linear aliphatic amino acids for direct air capture](https://openalex.org/W7207749051) | DAC | 0 |
-| 2025 | [Mineralisation as a carbon sink for DAC: A case-study for solar thermal process integration](https://doi.org/10.1016/j.clet.2025.100974) | DAC; Enhanced Weathering; General CDR | 1 |
-| 2024 | [Ex-situ mineral carbonation process challenges and technology enablers: A review from Australia’s perspective](https://doi.org/10.1016/j.mineng.2024.109124) | DAC; Enhanced Weathering; General CDR | 23 |
+| 2025 | [Mineralisation as a carbon sink for DAC: A case-study for solar thermal process integration](https://doi.org/10.1016/j.clet.2025.100974) | DAC; Enhanced Weathering | 1 |
+| 2024 | [Ex-situ mineral carbonation process challenges and technology enablers: A review from Australia’s perspective](https://doi.org/10.1016/j.mineng.2024.109124) | DAC; Enhanced Weathering | 23 |
 | 2022 | [Direct Air Capture of CO2 using Amine-based Capture Technology](https://openalex.org/W4313127529) | DAC | 4 |
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Helene Muri"
-description: "Helene Muri is a Senior General CDR researcher at Norwegian University of Science and Technology in NO. With 144 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:04+00:00
+description: "Helene Muri is a Senior Ocean CDR researcher at Norwegian University of Science and Technology in NO. With 144 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/helene-muri-a5010735/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Norwegian University of Science and Technology · 🇳🇴 NO
 
 ## CDR Specialization
 
-**General CDR**
+**Ocean CDR**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 
@@ -50,21 +50,21 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Papers counted in the census {#papers}
 
-11 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 11, Ocean CDR 9, BECCS 2, Soil Carbon 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+11 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 9, Cross-cutting CDR 2, BECCS 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Advancing Monitoring Reporting and Verification for marine Carbon Dioxide Removal](https://doi.org/10.5194/egusphere-egu26-7055) | General CDR; Ocean CDR | 1 |
-| 2026 | [Assessing Earth system responses in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal](https://doi.org/10.5194/egusphere-2026-833) | General CDR | 0 |
-| 2026 | [A Research Strategy for Ocean-based Carbon Dioxide Removal and Sequestration: Governance: Legal, Policy, Justice, and Social Considerations](https://openalex.org/W7213989323) | General CDR; Ocean CDR | 0 |
-| 2026 | [Assessing Earth system responses in mitigation scenarios with activity-driven simulation of carbon dioxide removal](https://openalex.org/W7214319721) | General CDR | 0 |
-| 2025 | [Efficacy of individual and combined terrestrial and marine carbon dioxide removal](https://doi.org/10.1088/1748-9326/ae2af5) | BECCS; General CDR; Ocean CDR | 2 |
-| 2025 | [Prospects and Challenges of Investigating Ocean-Based Negative Emission Technologies: Insights from the OceanNETs Project](https://doi.org/10.3289/oceannets_d7.10-12) | General CDR; Ocean CDR | 1 |
-| 2025 | [Towards Net Zero: Evaluating Combined Terrestrial and Marine CDR Approaches](https://doi.org/10.5194/egusphere-egu25-6081) | General CDR; Ocean CDR; Soil Carbon | 0 |
-| 2025 | [EMB Future Science Brief: Monitoring, Reporting and Verification for marine Carbon Dioxide Removal](https://openalex.org/W7149221167) | General CDR; Ocean CDR | 0 |
-| 2024 | [CO2 Removal Potential of Two Ocean-based NETs in Earth System Models in a Realistic Deployment Scenario](https://doi.org/10.5194/egusphere-egu24-18363) | General CDR; Ocean CDR | 0 |
-| 2024 | [Open access dataset of ESM simulations of combined land- and ocean-based NETs](http://dx.doi.org/10.3289/oceannets_d4.7) | General CDR; Ocean CDR; Soil Carbon | 0 |
-| 2024 | [Report on carbon cycle interactions and efficacy of land-based CDRs (e.g. BECCS), when combined with oceanic CDRs (individually or in a portfolio)](http://dx.doi.org/10.3289/oceannets_d4.8) | BECCS; General CDR; Ocean CDR | 0 |
+| 2026 | [Advancing Monitoring Reporting and Verification for marine Carbon Dioxide Removal](https://doi.org/10.5194/egusphere-egu26-7055) | Ocean CDR | 1 |
+| 2026 | [Assessing Earth system responses in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal](https://doi.org/10.5194/egusphere-2026-833) | Cross-cutting CDR | 0 |
+| 2026 | [A Research Strategy for Ocean-based Carbon Dioxide Removal and Sequestration: Governance: Legal, Policy, Justice, and Social Considerations](https://openalex.org/W7213989323) | Ocean CDR | 0 |
+| 2026 | [Assessing Earth system responses in mitigation scenarios with activity-driven simulation of carbon dioxide removal](https://openalex.org/W7214319721) | Cross-cutting CDR | 0 |
+| 2025 | [Efficacy of individual and combined terrestrial and marine carbon dioxide removal](https://doi.org/10.1088/1748-9326/ae2af5) | BECCS; Ocean CDR | 2 |
+| 2025 | [Prospects and Challenges of Investigating Ocean-Based Negative Emission Technologies: Insights from the OceanNETs Project](https://doi.org/10.3289/oceannets_d7.10-12) | Ocean CDR | 1 |
+| 2025 | [Towards Net Zero: Evaluating Combined Terrestrial and Marine CDR Approaches](https://doi.org/10.5194/egusphere-egu25-6081) | Ocean CDR | 0 |
+| 2025 | [EMB Future Science Brief: Monitoring, Reporting and Verification for marine Carbon Dioxide Removal](https://openalex.org/W7149221167) | Ocean CDR | 0 |
+| 2024 | [CO2 Removal Potential of Two Ocean-based NETs in Earth System Models in a Realistic Deployment Scenario](https://doi.org/10.5194/egusphere-egu24-18363) | Ocean CDR | 0 |
+| 2024 | [Open access dataset of ESM simulations of combined land- and ocean-based NETs](http://dx.doi.org/10.3289/oceannets_d4.7) | Ocean CDR | 0 |
+| 2024 | [Report on carbon cycle interactions and efficacy of land-based CDRs (e.g. BECCS), when combined with oceanic CDRs (individually or in a portfolio)](http://dx.doi.org/10.3289/oceannets_d4.8) | BECCS; Ocean CDR | 0 |
 
 ## External Profiles
 

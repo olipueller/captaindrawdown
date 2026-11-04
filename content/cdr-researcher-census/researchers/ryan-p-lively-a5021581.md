@@ -1,7 +1,7 @@
 ---
 title: "Ryan P. Lively"
 description: "Ryan P. Lively is an Eminent DAC researcher at Georgia Institute of Technology in US. With 339 publications and an h-index of 64, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:04+00:00
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/ryan-p-lively-a5021581/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Papers counted in the census {#papers}
 
-10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 8, General CDR 5, BECCS 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 8, BECCS 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
@@ -59,11 +59,11 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | 2026 | [Stability of Metal–OrganicFramework-SupportedAmines under Exposure to Ozone Generated from Air](https://openalex.org/W7168044839) | DAC | 0 |
 | 2026 | [Seasonal Thermal Energy Requirements of Zeolite and Amine Adsorbents for Direct Air Capture in a Cold Climate](https://openalex.org/W7213935345) | DAC | 0 |
 | 2023 | [Evaluating degradation of CO<sub>2</sub> adsorbents in flue gas from bioenergy with carbon capture and storage](https://doi.org/10.1039/d3se00823a) | BECCS | 3 |
-| 2022 | [Research needs targeting direct air capture of carbon dioxide: Material &amp; process performance characteristics under realistic environmental conditions](https://doi.org/10.1007/s11814-021-0976-0) | DAC; General CDR | 100 |
-| 2022 | [Positive Power with Negative Emission Flexible NGCC Enable by Modular Direct Air Capture (Final Report)](https://doi.org/10.2172/1884555) | DAC; General CDR | 1 |
-| 2021 | [Defining Targets for Adsorbent Material Performance to Enable Viable BECCS Processes](https://doi.org/10.1021/jacsau.0c00127) | BECCS; General CDR | 44 |
-| 2021 | [Assessing the physical potential capacity of direct air capture with integrated supply of low‐carbon energy sources](https://doi.org/10.1002/ghg.2136) | DAC; General CDR | 22 |
-| 2021 | [Perspective - the need and prospects for negative emission technologies - direct air capture through the lens of current sorption process development](https://doi.org/10.1007/s11814-021-0957-3) | DAC; General CDR | 17 |
+| 2022 | [Research needs targeting direct air capture of carbon dioxide: Material &amp; process performance characteristics under realistic environmental conditions](https://doi.org/10.1007/s11814-021-0976-0) | DAC | 100 |
+| 2022 | [Positive Power with Negative Emission Flexible NGCC Enable by Modular Direct Air Capture (Final Report)](https://doi.org/10.2172/1884555) | DAC | 1 |
+| 2021 | [Defining Targets for Adsorbent Material Performance to Enable Viable BECCS Processes](https://doi.org/10.1021/jacsau.0c00127) | BECCS | 44 |
+| 2021 | [Assessing the physical potential capacity of direct air capture with integrated supply of low‐carbon energy sources](https://doi.org/10.1002/ghg.2136) | DAC | 22 |
+| 2021 | [Perspective - the need and prospects for negative emission technologies - direct air capture through the lens of current sorption process development](https://doi.org/10.1007/s11814-021-0957-3) | DAC | 17 |
 
 ## External Profiles
 

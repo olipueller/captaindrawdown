@@ -1,7 +1,7 @@
 ---
 title: "Danial Esmaeili Aliabadi"
 description: "Danial Esmaeili Aliabadi is a Mid-career BECCS researcher at Helmholtz Centre for Environmental Research in DE. With 70 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:05+00:00
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/danial-esmaeili-aliabadi-a5029647/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,16 +50,16 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 
 ## Papers counted in the census {#papers}
 
-6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 5, General CDR 4, DAC 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 5, DAC 1, Cross-cutting CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Modeling the integration of BECCS into German bioenergy system](https://openalex.org/W7138825365) | BECCS | 0 |
-| 2026 | [Carbon Dioxide Removal Options for Energy Transitions: BECCS versus DACCS in Germany](https://openalex.org/W7167934690) | BECCS; DAC; General CDR | 0 |
-| 2026 | [Unleashing the combined potential of bio-based carbon dioxide removal in Germany’s path to net zero from the bioenergy system perspective](https://openalex.org/W7196976408) | General CDR | 0 |
-| 2025 | [Scenario Storylines for Carbon Dioxide Removal in Germany: Drawing From Regional Perspectives](https://doi.org/10.1111/gcbb.70075) | BECCS; General CDR | 4 |
+| 2026 | [Carbon Dioxide Removal Options for Energy Transitions: BECCS versus DACCS in Germany](https://openalex.org/W7167934690) | BECCS; DAC | 0 |
+| 2026 | [Unleashing the combined potential of bio-based carbon dioxide removal in Germany’s path to net zero from the bioenergy system perspective](https://openalex.org/W7196976408) | Cross-cutting CDR | 0 |
+| 2025 | [Scenario Storylines for Carbon Dioxide Removal in Germany: Drawing From Regional Perspectives](https://doi.org/10.1111/gcbb.70075) | BECCS | 4 |
 | 2025 | [Man0EUvRE: Energy System Modelling for Transition to a net-Zero 2050 for EU via REPowerEU: Deliverable 3.1 Executive Summaries of Case Studies](https://openalex.org/W7140259401) | BECCS | 0 |
-| 2024 | [A bottom–up regional potential assessment of bioenergy with carbon capture and storage in Germany](https://doi.org/10.1088/1748-9326/ad7edd) | BECCS; General CDR | 14 |
+| 2024 | [A bottom–up regional potential assessment of bioenergy with carbon capture and storage in Germany](https://doi.org/10.1088/1748-9326/ad7edd) | BECCS | 14 |
 
 ## External Profiles
 

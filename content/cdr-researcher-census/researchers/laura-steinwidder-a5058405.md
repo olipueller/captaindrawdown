@@ -1,7 +1,7 @@
 ---
 title: "Laura Steinwidder"
 description: "Laura Steinwidder is a Mid-career Enhanced Weathering researcher at University of Antwerp in BE. With 40 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:05+00:00
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/laura-steinwidder-a5058405/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,30 +50,30 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 ## Papers counted in the census {#papers}
 
-20 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 20, General CDR 12, Soil Carbon 7. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+20 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 20. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Weathering without realizing inorganic CO <sub>2</sub> removal revealed through base cation monitoring](https://openalex.org/W7152405507) | Enhanced Weathering; General CDR | 8 |
-| 2026 | [Higher Inorganic CO <sub>2</sub> Removal Despite Slower Weathering in an Enhanced Weathering Experiment With Steel Slags and Basalt](https://doi.org/10.1111/gcb.70666) | Enhanced Weathering; General CDR | 5 |
+| 2026 | [Weathering without realizing inorganic CO <sub>2</sub> removal revealed through base cation monitoring](https://openalex.org/W7152405507) | Enhanced Weathering | 8 |
+| 2026 | [Higher Inorganic CO <sub>2</sub> Removal Despite Slower Weathering in an Enhanced Weathering Experiment With Steel Slags and Basalt](https://doi.org/10.1111/gcb.70666) | Enhanced Weathering | 5 |
 | 2026 | [Impacts of enhanced rock weathering on soil sponge function: a global synthesis of soil physical and hydrological responses](https://openalex.org/W7164050786) | Enhanced Weathering | 2 |
-| 2026 | [Response to “Direct Measurement of Carbon Dioxide Removal Due to Enhanced Weathering”](https://openalex.org/W7154704634) | Enhanced Weathering; General CDR | 1 |
+| 2026 | [Response to “Direct Measurement of Carbon Dioxide Removal Due to Enhanced Weathering”](https://openalex.org/W7154704634) | Enhanced Weathering | 1 |
 | 2026 | [Integrating Experiments and Models To Unravel Interactions between Soil Organic Matter and Enhanced Weathering](https://openalex.org/W7166878089) | Enhanced Weathering | 1 |
-| 2026 | [An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering](https://openalex.org/W7168623015) | Enhanced Weathering; General CDR | 1 |
-| 2026 | [Integrating experiments and models to unravel interactions between soil organic matter and enhanced weathering.](https://doi.org/10.70212/cdrxiv.2026473.v1) | Enhanced Weathering; General CDR; Soil Carbon | 0 |
-| 2026 | [Synergistic effects of basalt and earthworms: enhanced nutrient availability and altered heavy metal dynamics](https://doi.org/10.5194/egusphere-2026-603) | Enhanced Weathering; Soil Carbon | 0 |
-| 2026 | [Accounting for uncertainty in carbon fluxes: Towards the integration of Bayesian approaches in enhanced weathering](https://doi.org/10.5194/egusphere-egu26-18487) | Enhanced Weathering; General CDR | 0 |
-| 2026 | [Towards Coupled Organic–Inorganic Modeling of Carbon Cycling In Enhanced Rock Weathering Soils](https://doi.org/10.5194/egusphere-egu26-18210) | Enhanced Weathering; General CDR | 0 |
+| 2026 | [An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering](https://openalex.org/W7168623015) | Enhanced Weathering | 1 |
+| 2026 | [Integrating experiments and models to unravel interactions between soil organic matter and enhanced weathering.](https://doi.org/10.70212/cdrxiv.2026473.v1) | Enhanced Weathering | 0 |
+| 2026 | [Synergistic effects of basalt and earthworms: enhanced nutrient availability and altered heavy metal dynamics](https://doi.org/10.5194/egusphere-2026-603) | Enhanced Weathering | 0 |
+| 2026 | [Accounting for uncertainty in carbon fluxes: Towards the integration of Bayesian approaches in enhanced weathering](https://doi.org/10.5194/egusphere-egu26-18487) | Enhanced Weathering | 0 |
+| 2026 | [Towards Coupled Organic–Inorganic Modeling of Carbon Cycling In Enhanced Rock Weathering Soils](https://doi.org/10.5194/egusphere-egu26-18210) | Enhanced Weathering | 0 |
 | 2026 | [Organic and inorganic pathways of CO2 removal during enhanced weathering](https://openalex.org/W7211998762) | Enhanced Weathering | 0 |
-| 2025 | [Beyond Inorganic C: Soil Organic C as a Key Pathway for Carbon Sequestration in Enhanced Weathering](https://doi.org/10.1111/gcb.70340) | Enhanced Weathering; General CDR; Soil Carbon | 20 |
-| 2025 | [Enhanced Rock Weathering Altered Soil Organic Carbon Fluxes in a Plant Trial](https://doi.org/10.1111/gcb.70373) | Enhanced Weathering; Soil Carbon | 14 |
-| 2025 | [Beyond inorganic carbon: Soil organic carbon as key pathway for carbon sequestration in Enhanced Weathering](https://doi.org/10.21203/rs.3.rs-5672251/v1) | Enhanced Weathering; Soil Carbon | 3 |
-| 2025 | [Weathering without inorganic CDR revealed through cation tracing](https://doi.org/10.5194/egusphere-2025-1667) | Enhanced Weathering; General CDR | 3 |
-| 2025 | [Effects of basalt amendment and mycorrhizal inoculation on soil chemical properties and maize growth](https://doi.org/10.1101/2025.11.03.686277) | Enhanced Weathering; General CDR | 0 |
-| 2024 | [Earthworms in an enhanced weathering mesocosm experiment: Effects on soil carbon sequestration, base cation exchange and soil CO2 efflux](https://doi.org/10.1016/j.soilbio.2024.109596) | Enhanced Weathering; Soil Carbon | 25 |
-| 2024 | [Climate change mitigation? Interactions between bio-weathering and soil organic carbon dynamics&amp;#160;](https://doi.org/10.5194/egusphere-egu24-12216) | Enhanced Weathering; Soil Carbon | 1 |
-| 2024 | [Exploring the Synergy of Enhanced Weathering and Rhizobacteria in Sustainable Agriculture](https://doi.org/10.5194/egusphere-egu24-16303) | Enhanced Weathering; General CDR | 1 |
-| 2024 | [Feeling the &amp;#8220;pulse&amp;#8221;: long-term studies are key to understanding carbon dynamics in bio-weathering](https://doi.org/10.5194/egusphere-egu24-9670) | Enhanced Weathering; General CDR | 0 |
+| 2025 | [Beyond Inorganic C: Soil Organic C as a Key Pathway for Carbon Sequestration in Enhanced Weathering](https://doi.org/10.1111/gcb.70340) | Enhanced Weathering | 20 |
+| 2025 | [Enhanced Rock Weathering Altered Soil Organic Carbon Fluxes in a Plant Trial](https://doi.org/10.1111/gcb.70373) | Enhanced Weathering | 14 |
+| 2025 | [Beyond inorganic carbon: Soil organic carbon as key pathway for carbon sequestration in Enhanced Weathering](https://doi.org/10.21203/rs.3.rs-5672251/v1) | Enhanced Weathering | 3 |
+| 2025 | [Weathering without inorganic CDR revealed through cation tracing](https://doi.org/10.5194/egusphere-2025-1667) | Enhanced Weathering | 3 |
+| 2025 | [Effects of basalt amendment and mycorrhizal inoculation on soil chemical properties and maize growth](https://doi.org/10.1101/2025.11.03.686277) | Enhanced Weathering | 0 |
+| 2024 | [Earthworms in an enhanced weathering mesocosm experiment: Effects on soil carbon sequestration, base cation exchange and soil CO2 efflux](https://doi.org/10.1016/j.soilbio.2024.109596) | Enhanced Weathering | 25 |
+| 2024 | [Climate change mitigation? Interactions between bio-weathering and soil organic carbon dynamics&amp;#160;](https://doi.org/10.5194/egusphere-egu24-12216) | Enhanced Weathering | 1 |
+| 2024 | [Exploring the Synergy of Enhanced Weathering and Rhizobacteria in Sustainable Agriculture](https://doi.org/10.5194/egusphere-egu24-16303) | Enhanced Weathering | 1 |
+| 2024 | [Feeling the &amp;#8220;pulse&amp;#8221;: long-term studies are key to understanding carbon dynamics in bio-weathering](https://doi.org/10.5194/egusphere-egu24-9670) | Enhanced Weathering | 0 |
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Chaewoon Oh"
-description: "Chaewoon Oh is a Mid-career General CDR researcher at National Institute of Green Technology in KR. With 44 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:05+00:00
+description: "Chaewoon Oh is a Mid-career DAC researcher at National Institute of Green Technology in KR. With 44 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/chaewoon-oh-a5008685/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ National Institute of Green Technology · 🇰🇷 KR
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 
@@ -50,19 +50,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Papers counted in the census {#papers}
 
-9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 9, DAC 8. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 8, Cross-cutting CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Venture capital’s role in corporate financing structure for direct air capture (DAC) technology-based firms in Korea, based on in-depth surveys and interviews](https://openalex.org/W7140031947) | DAC; General CDR | 0 |
-| 2026 | [Policy research to formulate project methodologies for carbon credits with direct air carbon capture &amp; utilization (DACCU) technologies](https://openalex.org/W7160596185) | DAC; General CDR | 0 |
-| 2025 | [Research on the integration of Carbon Dioxide Removal (CDR) approaches into Korea’s emission trading system as an eligible mitigation activity: Based on the Delphi expert survey method](https://doi.org/10.15531/ksccr.2025.16.5.787) | General CDR | 0 |
-| 2025 | [Research on the prioritization and appropriate levels of Korea’s policy support options to invigorate the technology innovation of direct air capture (DAC) technologies: Focusing on expert surveys using the Delphi method](https://doi.org/10.15531/ksccr.2025.16.5.873) | DAC; General CDR | 0 |
-| 2024 | [Korea’s technological level evaluation compared with global direct air capture (DAC) and reactive capture and conversion (RCC) technologies: Expert surveys using the Delphi method](https://doi.org/10.15531/ksccr.2024.15.4.489) | DAC; General CDR | 5 |
-| 2024 | [Contestation in social acceptance of direct air capture (DAC) technologies in Korea by differing framings over governance principles](https://doi.org/10.1016/j.joitmc.2024.100403) | DAC; General CDR | 2 |
-| 2023 | [Market-pull, technology-push, and regulatory stringency determinants: All in need in firms' decisions for large-scale demonstration of direct air capture technologies](https://doi.org/10.1016/j.erss.2023.103339) | DAC; General CDR | 12 |
-| 2023 | [Analysis of Korea’s negotiating position on removal activities under the Article 6.4 mechanism of the Paris Agreement: From the perspective of direct air capture technologies](https://doi.org/10.15531/ksccr.2023.14.5.521) | DAC; General CDR | 3 |
-| 2022 | [Korea’s Policy Direction on the Research &amp; Development of Direct Air Carbon Capture and Storage (DACCS) Technologies : Focusing on DAC technologies](https://doi.org/10.15531/ksccr.2022.13.1.075) | DAC; General CDR | 10 |
+| 2026 | [Venture capital’s role in corporate financing structure for direct air capture (DAC) technology-based firms in Korea, based on in-depth surveys and interviews](https://openalex.org/W7140031947) | DAC | 0 |
+| 2026 | [Policy research to formulate project methodologies for carbon credits with direct air carbon capture &amp; utilization (DACCU) technologies](https://openalex.org/W7160596185) | DAC | 0 |
+| 2025 | [Research on the integration of Carbon Dioxide Removal (CDR) approaches into Korea’s emission trading system as an eligible mitigation activity: Based on the Delphi expert survey method](https://doi.org/10.15531/ksccr.2025.16.5.787) | Cross-cutting CDR | 0 |
+| 2025 | [Research on the prioritization and appropriate levels of Korea’s policy support options to invigorate the technology innovation of direct air capture (DAC) technologies: Focusing on expert surveys using the Delphi method](https://doi.org/10.15531/ksccr.2025.16.5.873) | DAC | 0 |
+| 2024 | [Korea’s technological level evaluation compared with global direct air capture (DAC) and reactive capture and conversion (RCC) technologies: Expert surveys using the Delphi method](https://doi.org/10.15531/ksccr.2024.15.4.489) | DAC | 5 |
+| 2024 | [Contestation in social acceptance of direct air capture (DAC) technologies in Korea by differing framings over governance principles](https://doi.org/10.1016/j.joitmc.2024.100403) | DAC | 2 |
+| 2023 | [Market-pull, technology-push, and regulatory stringency determinants: All in need in firms' decisions for large-scale demonstration of direct air capture technologies](https://doi.org/10.1016/j.erss.2023.103339) | DAC | 12 |
+| 2023 | [Analysis of Korea’s negotiating position on removal activities under the Article 6.4 mechanism of the Paris Agreement: From the perspective of direct air capture technologies](https://doi.org/10.15531/ksccr.2023.14.5.521) | DAC | 3 |
+| 2022 | [Korea’s Policy Direction on the Research &amp; Development of Direct Air Carbon Capture and Storage (DACCS) Technologies : Focusing on DAC technologies](https://doi.org/10.15531/ksccr.2022.13.1.075) | DAC | 10 |
 
 ## External Profiles
 

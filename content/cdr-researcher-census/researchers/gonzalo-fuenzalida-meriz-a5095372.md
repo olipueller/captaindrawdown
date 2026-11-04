@@ -1,7 +1,7 @@
 ---
 title: "Gonzalo Fuenzalida-Meriz"
-description: "Gonzalo Fuenzalida-Meriz is an Early-career Enhanced Weathering researcher at Alameda Hospital in US. With 13 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:05+00:00
+description: "Gonzalo Fuenzalida-Meriz is an Early-career Enhanced Weathering researcher at Andes Ag, Inc. (United States) in US. With 13 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/gonzalo-fuenzalida-meriz-a5095372/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/gonzalo-fuenzalida-meriz-a5095372/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Alameda Hospital"
+    "name": "Andes Ag, Inc. (United States)"
   },
   "sameAs": [
     "https://orcid.org/0009-0009-3471-0581",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Gonzalo Fuenzalida-Meriz**  
-Alameda Hospital · 🇺🇸 US
+Andes Ag, Inc. (United States) · 🇺🇸 US
 
 **Career Stage:** Early-career
 
@@ -50,19 +50,18 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 ## Papers counted in the census {#papers}
 
-9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 8, General CDR 6, Soil Carbon 3. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 8. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Synergistic Effects of a Microbial Amendment and Crushed Basalt: Soil Geochemical and Microbial Responses](https://doi.org/10.1111/gcb.70705) | Enhanced Weathering; General CDR | 2 |
-| 2026 | [From silicates to soil carbonates: Tracing the cation budget of microbially-accelerated weathering](https://doi.org/10.70212/cdrxiv.2026464.v1) | Enhanced Weathering; Soil Carbon | 0 |
+| 2026 | [Synergistic Effects of a Microbial Amendment and Crushed Basalt: Soil Geochemical and Microbial Responses](https://doi.org/10.1111/gcb.70705) | Enhanced Weathering | 2 |
+| 2026 | [From silicates to soil carbonates: Tracing the cation budget of microbially-accelerated weathering](https://doi.org/10.70212/cdrxiv.2026464.v1) | Enhanced Weathering | 0 |
 | 2026 | [Bacillus subtilis-mediated weathering of basalt revealed through sporulation](https://doi.org/10.70212/cdrxiv.2026480.v1) | Enhanced Weathering | 0 |
-| 2026 | [Microbially Accelerated Weathering for CDR: Reactive Transport Modeling to Quantify Rates and Sinks](https://doi.org/10.5194/egusphere-egu26-13829) | Enhanced Weathering; General CDR | 0 |
-| 2026 | [Evidence of microbially accelerated weathering from a laboratory mesocosm experiment with sequential selective dissolution](https://openalex.org/W7165622731) | Enhanced Weathering; General CDR | 0 |
-| 2026 | [Author Comment on egusphere-2026-4145: Supplemental Tables and Figures](https://openalex.org/W7172528878) | Enhanced Weathering; General CDR | 0 |
-| 2025 | [Harnessing Microbes to Weather Native Silicates in Agricultural Soils for Scalable Carbon Dioxide Removal](https://doi.org/10.1111/gcb.70216) | Enhanced Weathering; Soil Carbon | 16 |
-| 2025 | [Quantification of soil inorganic carbon using sulfamic acid and gas chromatography](https://doi.org/10.1371/journal.pone.0320778) | General CDR; Soil Carbon | 4 |
-| 2024 | [Microbially-enhanced silicate weathering in agricultural soils to remove carbon dioxide](https://doi.org/10.21203/rs.3.rs-4244369/v1) | Enhanced Weathering; General CDR | 2 |
+| 2026 | [Microbially Accelerated Weathering for CDR: Reactive Transport Modeling to Quantify Rates and Sinks](https://doi.org/10.5194/egusphere-egu26-13829) | Enhanced Weathering | 0 |
+| 2026 | [Evidence of microbially accelerated weathering from a laboratory mesocosm experiment with sequential selective dissolution](https://openalex.org/W7165622731) | Enhanced Weathering | 0 |
+| 2026 | [Author Comment on egusphere-2026-4145: Supplemental Tables and Figures](https://openalex.org/W7172528878) | Enhanced Weathering | 0 |
+| 2025 | [Harnessing Microbes to Weather Native Silicates in Agricultural Soils for Scalable Carbon Dioxide Removal](https://doi.org/10.1111/gcb.70216) | Enhanced Weathering | 16 |
+| 2024 | [Microbially-enhanced silicate weathering in agricultural soils to remove carbon dioxide](https://doi.org/10.21203/rs.3.rs-4244369/v1) | Enhanced Weathering | 2 |
 
 ## External Profiles
 

@@ -1,6 +1,6 @@
 ---
 title: "CDR Company Directory — Data"
-description: "969 published carbon removal companies as CSV and JSON, versioned monthly, CC BY-NC-SA 4.0."
+description: "913 published carbon removal companies as CSV and JSON, versioned monthly, CC BY-NC-SA 4.0."
 url: "/data/companies/"
 ---
 
@@ -18,8 +18,8 @@ url: "/data/companies/"
     "name": "Captain Drawdown (Carbon Drawdown Initiative)",
     "url": "https://captaindrawdown.com"
   },
-  "version": "2026-11.3",
-  "dateModified": "2026-11-04",
+  "version": "2026-11.4",
+  "dateModified": "2026-11-05",
   "keywords": [
     "carbon dioxide removal",
     "CDR",
@@ -34,31 +34,31 @@ url: "/data/companies/"
     {
       "@type": "DataDownload",
       "encodingFormat": "text/csv",
-      "contentUrl": "https://captaindrawdown.com/data/v1/2026-11.3/companies.csv"
+      "contentUrl": "https://captaindrawdown.com/data/v1/2026-11.4/companies.csv"
     },
     {
       "@type": "DataDownload",
       "encodingFormat": "application/json",
-      "contentUrl": "https://captaindrawdown.com/data/v1/2026-11.3/companies.json"
+      "contentUrl": "https://captaindrawdown.com/data/v1/2026-11.4/companies.json"
     }
   ]
 }
 </script>
 
-**969 published companies** in release 2026-11.3 (data as of 2026-11-04), out of 1,470 active companies in the database. Published means: active, and a supplier, a corporate division, an ecosystem company (MRV, brokers, software) or a side business. Buyers, entries under review and academic institutions stay in the database but are not published. 427 of the published companies are based in Europe (EU27 plus UK, Switzerland, Norway, Iceland).
+**913 published companies** in release 2026-11.4 (data as of 2026-11-05), out of 1,470 active companies in the database. Published means: active, and a supplier, a corporate division, an ecosystem company (MRV, brokers, software) or a side business. Buyers, entries under review and academic institutions stay in the database but are not published. 403 of the published companies are based in Europe (EU27 plus UK, Switzerland, Norway, Iceland).
 
 | Region | Companies |
 |---|---|
-| United States | 291 |
-| EU27 | 263 |
-| Europe (non-EU) | 164 |
-| Rest of world | 114 |
-| Canada | 57 |
-| India | 29 |
-| Australia & New Zealand | 26 |
+| United States | 273 |
+| EU27 | 246 |
+| Europe (non-EU) | 157 |
+| Rest of world | 107 |
+| Canada | 56 |
+| India | 27 |
+| Australia & New Zealand | 23 |
 | Japan | 10 |
 | China | 9 |
-| Unknown | 6 |
+| Unknown | 5 |
 
 | Primary pathway | Companies |
 |---|---|
@@ -66,7 +66,6 @@ url: "/data/companies/"
 | Enabling Tech | 179 |
 | DAC | 125 |
 | BECCS | 84 |
-| Afforestation | 56 |
 | Mineralization | 42 |
 | Ocean CDR | 42 |
 | Enhanced Weathering | 33 |
@@ -76,7 +75,7 @@ url: "/data/companies/"
 
 | File | Rows | Size | Format |
 |---|---|---|---|
-| companies | 969 | 722 KB | [CSV](/data/v1/2026-11.3/companies.csv) · [JSON](/data/v1/2026-11.3/companies.json) |
+| companies | 913 | 680 KB | [CSV](/data/v1/2026-11.4/companies.csv) · [JSON](/data/v1/2026-11.4/companies.json) |
 
 ## Fields
 
@@ -95,13 +94,13 @@ The directory started from Grant Faber's public list of CDR companies (January 2
 
 ## Versions
 
-This page describes release **2026-11.3** (data as of 2026-11-04). Every release is frozen under `/data/v1/2026-11.3/`; the newest release is also mirrored under [`/data/v1/latest/`](/data/v1/latest/). The [manifest](/data/v1/2026-11.3/manifest.json) lists every file with row counts and SHA-256 checksums. Releases appear monthly, around the 15th; corrections between releases are listed in the [changelog](/data/changelog/).
+This page describes release **2026-11.4** (data as of 2026-11-05). Every release is frozen under `/data/v1/2026-11.4/`; the newest release is also mirrored under [`/data/v1/latest/`](/data/v1/latest/). The [manifest](/data/v1/2026-11.4/manifest.json) lists every file with row counts and SHA-256 checksums. Releases appear monthly, around the 15th; corrections between releases are listed in the [changelog](/data/changelog/).
 
 ## Licence and citation
 
 Licence: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Cite as:
 
-> Captain Drawdown / Carbon Drawdown Initiative (2026). CDR Company Directory, version 2026-11.3. https://captaindrawdown.com/data/companies/ (CC licence, see page).
+> Captain Drawdown / Carbon Drawdown Initiative (2026). CDR Company Directory, version 2026-11.4. https://captaindrawdown.com/data/companies/ (CC licence, see page).
 
 ## Corrections and removal
 

@@ -44,6 +44,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-04** — news mention: Deep Sky Alpha (Innisfail, Alberta) — 3k t/yr · dac ([source](https://www.rbc.com/en/thought-leadership/ai-technology-and-innovation/clear-skies-direct-air-capture-and-canadas-advantage))
 - **2026-10-27** — news mention: Carbon Capture Market Trends And Forecast Analysis Reveal Strong Long-Term Potential ([source](https://www.einpresswire.com/article/951776681/carbon-capture-market-trends-and-forecast-analysis-reveal-strong-long-term-potential))
 - **2026-10-23** — news mention: US non-profit adds three CDR projects in latest investment round ([source](https://www.qcintel.com/carbon/article/us-non-profit-adds-three-cdr-projects-in-latest-investment-round-75831.html))
 - **2026-10-19** — news mention: CCUS awards recognise capture technology and CO2 infrastructure projects | Carbon Dioxide | gasworld ([source](https://www.gasworld.com/story/ccus-awards-recognise-capture-technology-and-co2-infrastructure-projects/2262189.article/))
@@ -73,7 +74,6 @@ Independently verified by carbon-credit registries:
 - **2026-08-03** — news mention: DACworx: Coming soon to Deep Sky Alpha. Deep Sky Alpha is welcoming DACLAB and its Kelvin Tower, a c ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-1bbafa726523))
 - **2026-08-03** — news mention: DACworx: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon. L ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-a9811209c702))
 - **2026-08-02** — news mention: DACLAB: Coming soon to Deep Sky Alpha. Deep Sky Alpha is welcoming DACLAB and its Kelvin Tower, a co ([source](https://www.linkedin.com/company/daclab-us/#post-1bbafa726523))
-- **2026-07-29** — news mention: CDR.fyi: ð° This week saw some key developments in durable CDR, as Inherit Carbon Solutions issued ([source](https://www.linkedin.com/company/cdr-fyi/#post-e608dbc98de9))
 
 ---
 

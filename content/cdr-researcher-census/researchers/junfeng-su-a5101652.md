@@ -1,7 +1,7 @@
 ---
 title: "Junfeng Su"
 description: "Junfeng Su is an Eminent Biochar researcher at Xi'an University of Architecture and Technology in CN. With 266 publications and an h-index of 51, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:04+00:00
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/junfeng-su-a5101652/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,13 +50,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Papers counted in the census {#papers}
 
-15 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 15, Soil Carbon 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+15 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 15. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Polylactic acid-based slow-release carbon source composite kaolin with modified biochar: Synergistic co-removal of nitrate, Cd(II), and diclofenac through manganese redox-coupled denitrification](https://openalex.org/W7143818370) | Biochar | 1 |
 | 2026 | [Simultaneous removal of nitrogen, Cu2+, and bisphenol A in a hydrogel-biochar-AQDS immobilized bioreactor with added bicarbonate: Performance and metagenomic insights](https://openalex.org/W7204198252) | Biochar | 0 |
-| 2025 | [δ-MnO2-modified peanut shell biochar and humic acid promoted Mn(IV) reduction-driven ammonium oxidation with Cr(VI) removal](https://doi.org/10.1016/j.biortech.2025.133348) | Biochar; Soil Carbon | 5 |
+| 2025 | [δ-MnO2-modified peanut shell biochar and humic acid promoted Mn(IV) reduction-driven ammonium oxidation with Cr(VI) removal](https://doi.org/10.1016/j.biortech.2025.133348) | Biochar | 5 |
 | 2024 | [Modified biochar improved simultaneous nitrate removal and soluble microbial products regulation in low carbon wastewater: Insights from the biocarrier and community function](https://doi.org/10.1016/j.jwpe.2024.105762) | Biochar | 21 |
 | 2024 | [Loofah sponge crosslinked polyethyleneimine loaded with biochar biofilm reactor for ecological remediation of oligotrophic water: Mechanism, performance, and functional characterization](https://doi.org/10.1016/j.biortech.2024.130567) | Biochar | 20 |
 | 2024 | [Biofilter constructed of iron–carbon, ceramsite and biochar to synchronous removal of nitrate and phosphate: Treatment optimization and analysis of microbial community difference](https://doi.org/10.1016/j.jwpe.2024.106309) | Biochar | 11 |
@@ -68,7 +68,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2022 | [Enhanced nitrate, fluoride, and phenol removal using polyurethane sponges loaded with rice husk biochar in immobilized bioreactor](https://doi.org/10.1016/j.biortech.2022.128098) | Biochar | 23 |
 | 2022 | [Hydrophilic spongy biochar crosslinked with starch and polyvinyl alcohol biocarrier for nitrate, phosphorus, and cadmium removal in low carbon wastewater: Enhanced performance mechanism and detoxification](https://doi.org/10.1016/j.biortech.2022.127875) | Biochar | 21 |
 | 2021 | [Simultaneous removal of nitrate and diethyl phthalate using a novel sponge–based biocarrier combined modified walnut shell biochar with Fe3O4 in the immobilized bioreactor](https://doi.org/10.1016/j.jhazmat.2021.125578) | Biochar | 74 |
-| 2021 | [Cornstalk biochar promoted the denitrification performance and cellulose degradation rate of Burkholderia sp. CF6](https://doi.org/10.1016/j.jece.2021.106998) | Biochar; Soil Carbon | 21 |
+| 2021 | [Cornstalk biochar promoted the denitrification performance and cellulose degradation rate of Burkholderia sp. CF6](https://doi.org/10.1016/j.jece.2021.106998) | Biochar | 21 |
 
 ## External Profiles
 

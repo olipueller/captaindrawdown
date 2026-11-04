@@ -1,7 +1,7 @@
 ---
 title: "Guido Raos"
 description: "Guido Raos is a Senior Ocean CDR researcher at Politecnico di Milano in IT. With 168 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:04+00:00
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/guido-raos-a5052105/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 ## Papers counted in the census {#papers}
 
-11 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 11, General CDR 3, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+11 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 11, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
@@ -60,11 +60,11 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | 2026 | [Response of the Carbonate System to Ocean Alkalinity Enhancement: A Mesocosm-Scale Experiment](https://openalex.org/W7214425406) | Ocean CDR | 0 |
 | 2025 | [The response of phytoplankton to pH-equilibrated ocean alkalinization: A mesocosm experiment with harbour waters](https://doi.org/10.1016/j.marpolbul.2025.118787) | Ocean CDR | 10 |
 | 2025 | [The effect of ocean alkalinity enhancement on zooplankton standing stock and community composition in the Eastern Mediterranean Sea: a mesocosm study](https://doi.org/10.1016/j.marenvres.2025.107489) | Ocean CDR | 5 |
-| 2025 | [The response of phytoplankton to pH-Equilibrated Ocean Alkalinization: a mesocosm experiment in the Gulf of La Spezia](https://doi.org/10.5194/egusphere-egu25-10595) | General CDR; Ocean CDR | 0 |
+| 2025 | [The response of phytoplankton to pH-Equilibrated Ocean Alkalinization: a mesocosm experiment in the Gulf of La Spezia](https://doi.org/10.5194/egusphere-egu25-10595) | Ocean CDR | 0 |
 | 2025 | [CO2 Dissolution as Bicarbonate in Seawater: Potential Co-benefits for Net Primary Production](https://doi.org/10.5194/egusphere-egu25-19618) | Ocean CDR | 0 |
-| 2024 | [Ocean liming in eutrophic vs. ultraoligotrophic environments and the response of algal calcifiers](https://doi.org/10.5194/egusphere-egu24-13685) | General CDR; Ocean CDR | 1 |
+| 2024 | [Ocean liming in eutrophic vs. ultraoligotrophic environments and the response of algal calcifiers](https://doi.org/10.5194/egusphere-egu24-13685) | Ocean CDR | 1 |
 | 2024 | [Experimental studies on the stability of bicarbonate-enriched seawater solutions](https://doi.org/10.5194/egusphere-egu24-15887) | Ocean CDR | 0 |
-| 2023 | [Techno-economic evaluation of buffered accelerated weathering of limestone as a CO2 capture and storage option](https://doi.org/10.1007/s11027-023-10052-x) | Enhanced Weathering; General CDR; Ocean CDR | 15 |
+| 2023 | [Techno-economic evaluation of buffered accelerated weathering of limestone as a CO2 capture and storage option](https://doi.org/10.1007/s11027-023-10052-x) | Enhanced Weathering; Ocean CDR | 15 |
 
 ## External Profiles
 

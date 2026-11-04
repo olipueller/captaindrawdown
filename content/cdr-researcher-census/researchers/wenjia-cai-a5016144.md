@@ -1,7 +1,7 @@
 ---
 title: "Wenjia Cai"
-description: "Wenjia Cai is an Eminent General CDR researcher at Tsinghua University in CN. With 248 publications and an h-index of 58, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:04+00:00
+description: "Wenjia Cai is an Eminent BECCS researcher at Tsinghua University in CN. With 248 publications and an h-index of 58, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/wenjia-cai-a5016144/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Tsinghua University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 
@@ -50,16 +50,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Papers counted in the census {#papers}
 
-7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 6, BECCS 4, Biochar 1, DAC 1, Soil Carbon 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 4, Cross-cutting CDR 3, Biochar 1, DAC 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Carbon dioxide removal potential of biochar with biomass supply from bioenergy crops in China](https://doi.org/10.1007/s42773-025-00564-x) | BECCS; Biochar; General CDR | 0 |
-| 2026 | [Enhanced weathering and biochar can contribute over 50% of carbon removal while reducing costs and resource depletion in China](https://doi.org/10.5194/egusphere-egu26-8183) | BECCS; DAC; General CDR; Soil Carbon | 0 |
-| 2026 | [Integrating Health Co-benefits into Climate Mitigation Policymaking](https://doi.org/10.5194/egusphere-egu26-16575) | General CDR | 0 |
-| 2023 | [The 2023 China report of the Lancet Countdown on health and climate change: taking stock for a thriving future](https://doi.org/10.1016/s2468-2667(23)00245-1) | General CDR | 96 |
-| 2023 | [Towards carbon-neutral sustainable development of China](https://doi.org/10.1088/1748-9326/acd12e) | General CDR | 12 |
-| 2021 | [Evaluating the use of BECCS and afforestation under China’s carbon-neutral target for 2060](https://doi.org/10.1016/j.apenergy.2021.117263) | BECCS; General CDR | 185 |
+| 2026 | [Carbon dioxide removal potential of biochar with biomass supply from bioenergy crops in China](https://doi.org/10.1007/s42773-025-00564-x) | BECCS; Biochar | 0 |
+| 2026 | [Enhanced weathering and biochar can contribute over 50% of carbon removal while reducing costs and resource depletion in China](https://doi.org/10.5194/egusphere-egu26-8183) | BECCS; DAC | 0 |
+| 2026 | [Integrating Health Co-benefits into Climate Mitigation Policymaking](https://doi.org/10.5194/egusphere-egu26-16575) | Cross-cutting CDR | 0 |
+| 2023 | [The 2023 China report of the Lancet Countdown on health and climate change: taking stock for a thriving future](https://doi.org/10.1016/s2468-2667(23)00245-1) | Cross-cutting CDR | 96 |
+| 2023 | [Towards carbon-neutral sustainable development of China](https://doi.org/10.1088/1748-9326/acd12e) | Cross-cutting CDR | 12 |
+| 2021 | [Evaluating the use of BECCS and afforestation under China’s carbon-neutral target for 2060](https://doi.org/10.1016/j.apenergy.2021.117263) | BECCS | 185 |
 | 2021 | [A fine-resolution estimation of the biomass resource potential across China from 2020 to 2100](https://doi.org/10.1016/j.resconrec.2021.105944) | BECCS | 36 |
 
 ## External Profiles

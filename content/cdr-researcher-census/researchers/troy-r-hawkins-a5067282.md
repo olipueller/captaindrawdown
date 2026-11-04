@@ -1,7 +1,7 @@
 ---
 title: "Troy R. Hawkins"
-description: "Troy R. Hawkins is an Eminent General CDR researcher at Argonne National Laboratory in US. With 149 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:04+00:00
+description: "Troy R. Hawkins is an Eminent BECCS researcher at Argonne National Laboratory in US. With 149 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/troy-r-hawkins-a5067282/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Argonne National Laboratory · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 
@@ -50,16 +50,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Papers counted in the census {#papers}
 
-6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 6, BECCS 5, Soil Carbon 2, DAC 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+5 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 5, DAC 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2025 | [Life Cycle Emissions and Health Cost Impacts of Producing Ethanol and Electricity from Willow and Switchgrass in the Riparian Buffers of Mid-Atlantic United States](https://doi.org/10.1021/acs.est.5c05846) | BECCS; General CDR; Soil Carbon | 2 |
-| 2024 | [Reducing Economy-Wide Greenhouse Gas Emissions with Electrofuels and Biofuels as the Grid Decarbonizes](https://doi.org/10.1021/acs.energyfuels.3c04833) | BECCS; DAC; General CDR | 25 |
-| 2024 | [The Role of Biofuels and Biomass Feedstocks for Decarbonizing the U.S. Economy by 2050 - (DECARB) Decarbonizing Energy Through Collaborative Analysis of Routes and Benefits](https://doi.org/10.2172/2337775) | BECCS; General CDR | 6 |
-| 2024 | [A Novel Framework to Evaluate the Costs and Potential of Bioenergy in Decarbonization of the U.S. Economy](http://dx.doi.org/10.2118/221383-ms) | BECCS; General CDR | 0 |
-| 2023 | [Implications of CO<sub>2</sub> Sourcing on the Life-Cycle Greenhouse Gas Emissions and Costs of Algae Biofuels](https://doi.org/10.1021/acssuschemeng.3c02082) | BECCS; DAC; General CDR | 29 |
-| 2022 | [A multi-product landscape life-cycle assessment approach for evaluating local climate mitigation potential](https://doi.org/10.1016/j.jclepro.2022.131691) | General CDR; Soil Carbon | 15 |
+| 2025 | [Life Cycle Emissions and Health Cost Impacts of Producing Ethanol and Electricity from Willow and Switchgrass in the Riparian Buffers of Mid-Atlantic United States](https://doi.org/10.1021/acs.est.5c05846) | BECCS | 2 |
+| 2024 | [Reducing Economy-Wide Greenhouse Gas Emissions with Electrofuels and Biofuels as the Grid Decarbonizes](https://doi.org/10.1021/acs.energyfuels.3c04833) | BECCS; DAC | 25 |
+| 2024 | [The Role of Biofuels and Biomass Feedstocks for Decarbonizing the U.S. Economy by 2050 - (DECARB) Decarbonizing Energy Through Collaborative Analysis of Routes and Benefits](https://doi.org/10.2172/2337775) | BECCS | 6 |
+| 2024 | [A Novel Framework to Evaluate the Costs and Potential of Bioenergy in Decarbonization of the U.S. Economy](http://dx.doi.org/10.2118/221383-ms) | BECCS | 0 |
+| 2023 | [Implications of CO<sub>2</sub> Sourcing on the Life-Cycle Greenhouse Gas Emissions and Costs of Algae Biofuels](https://doi.org/10.1021/acssuschemeng.3c02082) | BECCS; DAC | 29 |
 
 ## External Profiles
 

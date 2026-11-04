@@ -1,7 +1,7 @@
 ---
 title: "G. Sailaja"
-description: "G. Sailaja is an Early-career BECCS researcher at Government of Andhra Pradesh in IN. With 3 publications and an h-index of N/A, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:05+00:00
+description: "G. Sailaja is an Early-career BECCS researcher at Muffakhamjah College of Engineering and Technology in IN. With 3 publications and an h-index of N/A, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/g-sailaja-a5132964/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/g-sailaja-a5132964/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Government of Andhra Pradesh"
+    "name": "Muffakhamjah College of Engineering and Technology"
   },
   "sameAs": "https://openalex.org/A5132964590"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **G. Sailaja**  
-Government of Andhra Pradesh · 🇮🇳 IN
+Muffakhamjah College of Engineering and Technology · 🇮🇳 IN
 
 **Career Stage:** Early-career
 

@@ -1,7 +1,7 @@
 ---
 title: "Jessica Strefler"
-description: "Jessica Strefler is a Senior General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 104 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:04+00:00
+description: "Jessica Strefler is a Senior Cross-cutting CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 104 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/jessica-strefler-a5056511/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Potsdam Institute for Climate Impact Research · 🇩🇪 DE
 
 ## CDR Specialization
 
-**General CDR**
+**Cross-cutting CDR**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Cross-cutting CDR
 
 ## Metrics
 
@@ -50,30 +50,30 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Papers counted in the census {#papers}
 
-20 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 20, BECCS 4, Ocean CDR 3, Biochar 1, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+20 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Cross-cutting CDR 13, BECCS 4, Ocean CDR 3, Biochar 1, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Carbon Dioxide Removal Supply Curves: A Multi-Model Assessment](https://openalex.org/W7164164937) | BECCS; General CDR | 0 |
-| 2026 | [Techno-economics and value judgments of modeling biochar production for carbon removal in climate change mitigation scenarios](https://openalex.org/W7203500345) | BECCS; Biochar; General CDR | 0 |
-| 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7220995682) | General CDR | 0 |
-| 2025 | [An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage](https://doi.org/10.1039/d5ee01732g) | General CDR | 54 |
-| 2025 | [Separating CO2 emission from removal targets comes with limited cost impacts](https://doi.org/10.1038/s41467-025-60606-7) | General CDR | 17 |
-| 2025 | [Ocean liming can help achieve the Paris climate target](https://doi.org/10.1088/1748-9326/adf12c) | General CDR; Ocean CDR | 4 |
-| 2025 | [New findings on capturing CO₂ by increasing the alkalinity of seawater: The seven most important outcomes of RETAKE research](https://doi.org/10.3289/cdrmare.52) | Enhanced Weathering; General CDR; Ocean CDR | 1 |
-| 2025 | [Universities must lead capacity building in carbon dioxide removal](https://doi.org/10.1038/s44359-025-00039-z) | General CDR | 0 |
-| 2025 | [Scaling Carbon Dioxide Removal in Germany: Insights from the CDRterra Framework and Scenario](https://doi.org/10.5194/egusphere-egu25-19617) | General CDR | 0 |
-| 2024 | [Marine carbon dioxide removal by alkalinization should no longer be overlooked](https://doi.org/10.1088/1748-9326/ad5192) | General CDR; Ocean CDR | 17 |
-| 2024 | [Exploring risks and benefits of overshooting a 1.5 &amp;#9702;C carbon budget over space and time](https://doi.org/10.5194/egusphere-egu24-20890) | General CDR | 0 |
-| 2023 | [Bioenergy-induced land-use-change emissions with sectorally fragmented policies](https://doi.org/10.1038/s41558-023-01697-2) | BECCS; General CDR | 48 |
-| 2023 | [Understanding the carbon dioxide removal range in 1.5 °C compatible and high overshoot pathways](https://doi.org/10.1088/2515-7620/accdba) | General CDR | 37 |
-| 2023 | [Exploring risks and benefits of overshooting a 1.5 °C carbon budget over space and time](https://doi.org/10.1088/1748-9326/accd83) | General CDR | 26 |
-| 2023 | [Exploring risks and benefits of overshooting a 1.5°C carbon budget over space and time](https://biblio.vub.ac.be/vubir/exploring-risks-and-benefits-of-overshooting-a-15-c-carbon-budget-over-space-and-time(178865ad-2c51-403f-b99c-c4d2b1f0de5c).html) | General CDR | 1 |
-| 2022 | [Carbon removal in transformation pathways](https://doi.org/10.5194/egusphere-egu22-12902) | General CDR | 0 |
-| 2021 | [Impact of declining renewable energy costs on electrification in low-emission scenarios](https://doi.org/10.1038/s41560-021-00937-z) | General CDR | 571 |
-| 2021 | [Carbon dioxide removal technologies are not born equal](https://doi.org/10.1088/1748-9326/ac0a11) | BECCS; General CDR | 123 |
-| 2021 | [Alternative carbon price trajectories can avoid excessive carbon removal](https://doi.org/10.1038/s41467-021-22211-2) | General CDR | 114 |
-| 2021 | [Alternative carbon price trajectories can avoid excessive carbon removal](https://openalex.org/W7213652163) | General CDR | 0 |
+| 2026 | [Carbon Dioxide Removal Supply Curves: A Multi-Model Assessment](https://openalex.org/W7164164937) | BECCS | 0 |
+| 2026 | [Techno-economics and value judgments of modeling biochar production for carbon removal in climate change mitigation scenarios](https://openalex.org/W7203500345) | BECCS; Biochar | 0 |
+| 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7220995682) | Cross-cutting CDR | 0 |
+| 2025 | [An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage](https://doi.org/10.1039/d5ee01732g) | Cross-cutting CDR | 54 |
+| 2025 | [Separating CO2 emission from removal targets comes with limited cost impacts](https://doi.org/10.1038/s41467-025-60606-7) | Cross-cutting CDR | 17 |
+| 2025 | [Ocean liming can help achieve the Paris climate target](https://doi.org/10.1088/1748-9326/adf12c) | Ocean CDR | 4 |
+| 2025 | [New findings on capturing CO₂ by increasing the alkalinity of seawater: The seven most important outcomes of RETAKE research](https://doi.org/10.3289/cdrmare.52) | Enhanced Weathering; Ocean CDR | 1 |
+| 2025 | [Universities must lead capacity building in carbon dioxide removal](https://doi.org/10.1038/s44359-025-00039-z) | Cross-cutting CDR | 0 |
+| 2025 | [Scaling Carbon Dioxide Removal in Germany: Insights from the CDRterra Framework and Scenario](https://doi.org/10.5194/egusphere-egu25-19617) | Cross-cutting CDR | 0 |
+| 2024 | [Marine carbon dioxide removal by alkalinization should no longer be overlooked](https://doi.org/10.1088/1748-9326/ad5192) | Ocean CDR | 17 |
+| 2024 | [Exploring risks and benefits of overshooting a 1.5 &amp;#9702;C carbon budget over space and time](https://doi.org/10.5194/egusphere-egu24-20890) | Cross-cutting CDR | 0 |
+| 2023 | [Bioenergy-induced land-use-change emissions with sectorally fragmented policies](https://doi.org/10.1038/s41558-023-01697-2) | BECCS | 48 |
+| 2023 | [Understanding the carbon dioxide removal range in 1.5 °C compatible and high overshoot pathways](https://doi.org/10.1088/2515-7620/accdba) | Cross-cutting CDR | 37 |
+| 2023 | [Exploring risks and benefits of overshooting a 1.5 °C carbon budget over space and time](https://doi.org/10.1088/1748-9326/accd83) | Cross-cutting CDR | 26 |
+| 2023 | [Exploring risks and benefits of overshooting a 1.5°C carbon budget over space and time](https://biblio.vub.ac.be/vubir/exploring-risks-and-benefits-of-overshooting-a-15-c-carbon-budget-over-space-and-time(178865ad-2c51-403f-b99c-c4d2b1f0de5c).html) | Cross-cutting CDR | 1 |
+| 2022 | [Carbon removal in transformation pathways](https://doi.org/10.5194/egusphere-egu22-12902) | Cross-cutting CDR | 0 |
+| 2021 | [Impact of declining renewable energy costs on electrification in low-emission scenarios](https://doi.org/10.1038/s41560-021-00937-z) | Cross-cutting CDR | 571 |
+| 2021 | [Carbon dioxide removal technologies are not born equal](https://doi.org/10.1088/1748-9326/ac0a11) | BECCS | 123 |
+| 2021 | [Alternative carbon price trajectories can avoid excessive carbon removal](https://doi.org/10.1038/s41467-021-22211-2) | Cross-cutting CDR | 114 |
+| 2021 | [Alternative carbon price trajectories can avoid excessive carbon removal](https://openalex.org/W7213652163) | Cross-cutting CDR | 0 |
 
 ## External Profiles
 

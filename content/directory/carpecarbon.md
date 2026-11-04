@@ -30,6 +30,7 @@ CarpeCarbon is a Turin-based Italian climate-tech startup founded in 2022, posit
 
 ## History
 
+- **2026-11-04** — news mention: CarpeCarbon DAC plant at Michelin Cuneo tyre factory — 300 t/yr · dac ([source](https://en.ilsole24ore.com/art/co-capture-capecarbon-and-michelin-agreement-first-industrial-plant-AJUwqsrB))
 - **2026-11-02** — news mention: CarpeCarbon: 🌍 CarpeCarbon partners with Michelin Italiana to launch its first industrial-scale DAC  ([source](https://www.linkedin.com/company/carpecarbon/#post-420ebc86edbb))
 - **2026-10-30** — news mention: 💫 CDR Momentum, Edition IV
 

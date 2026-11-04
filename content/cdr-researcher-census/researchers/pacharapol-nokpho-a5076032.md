@@ -1,7 +1,7 @@
 ---
 title: "Pacharapol Nokpho"
 description: "Pacharapol Nokpho is a Mid-career DAC researcher at Chulalongkorn University in TH. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:05+00:00
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/pacharapol-nokpho-a5076032/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Moosazadeh"
-description: "Mohammad Moosazadeh is a Mid-career DAC researcher at Dongguk University in KR. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:05+00:00
+description: "Mohammad Moosazadeh is a Mid-career DAC researcher at Kyung Hee University in KR. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/mohammad-moosazadeh-a5012347/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mohammad-moosazadeh-a5012347/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Dongguk University"
+    "name": "Kyung Hee University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-5714-9787",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Mohammad Moosazadeh**  
-Dongguk University · 🇰🇷 KR
+Kyung Hee University · 🇰🇷 KR
 
 **Career Stage:** Mid-career
 

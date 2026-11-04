@@ -1,7 +1,7 @@
 ---
 title: "Oliver Fricko"
-description: "Oliver Fricko is a Senior General CDR researcher at International Institute for Applied Systems Analysis in AT. With 135 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:04+00:00
+description: "Oliver Fricko is a Senior Cross-cutting CDR researcher at International Institute for Applied Systems Analysis in AT. With 135 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/oliver-fricko-a5050300/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ International Institute for Applied Systems Analysis · 🇦🇹 AT
 
 ## CDR Specialization
 
-**General CDR**
+**Cross-cutting CDR**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Cross-cutting CDR
 
 ## Metrics
 
@@ -50,19 +50,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Papers counted in the census {#papers}
 
-9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 7, BECCS 3, Biochar 1, Enhanced Weathering 1, DAC 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Cross-cutting CDR 5, BECCS 3, Biochar 1, Enhanced Weathering 1, DAC 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Challenges and opportunities of the full phase-out of fossil fuels under the 1.5 °C goal](https://openalex.org/W7161541935) | General CDR | 2 |
-| 2026 | [Managing Overshoot Through Collective Carbon Debt Drawdown](https://doi.org/10.5194/egusphere-egu26-16344) | General CDR | 0 |
-| 2026 | [Towards sustainability-aware carbon dioxide removal deployment](https://doi.org/10.5194/egusphere-egu26-20118) | BECCS; Biochar; Enhanced Weathering; General CDR | 0 |
+| 2026 | [Challenges and opportunities of the full phase-out of fossil fuels under the 1.5 °C goal](https://openalex.org/W7161541935) | Cross-cutting CDR | 2 |
+| 2026 | [Managing Overshoot Through Collective Carbon Debt Drawdown](https://doi.org/10.5194/egusphere-egu26-16344) | Cross-cutting CDR | 0 |
+| 2026 | [Towards sustainability-aware carbon dioxide removal deployment](https://doi.org/10.5194/egusphere-egu26-20118) | BECCS; Biochar; Enhanced Weathering | 0 |
 | 2026 | [Biodiversity conservation policies alter the solution space of climate mitigation scenarios](https://openalex.org/W7208815994) | BECCS | 0 |
-| 2026 | [Equitable cooperation deepens the solution space for high ambition pathways](https://openalex.org/W7211890629) | General CDR | 0 |
+| 2026 | [Equitable cooperation deepens the solution space for high ambition pathways](https://openalex.org/W7211890629) | Cross-cutting CDR | 0 |
 | 2026 | [Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment](https://openalex.org/W7211955480) | BECCS | 0 |
-| 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7220995682) | General CDR | 0 |
-| 2025 | [Energy system transformations for the phase-out of fossil fuels towards 1.5°C future](https://doi.org/10.21203/rs.3.rs-5698098/v1) | General CDR | 0 |
-| 2023 | [Fairness and feasibility in deep mitigation pathways with novel carbon dioxide removal considering institutional capacity to mitigate](https://doi.org/10.1088/1748-9326/acd8d5) | DAC; General CDR | 39 |
+| 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7220995682) | Cross-cutting CDR | 0 |
+| 2025 | [Energy system transformations for the phase-out of fossil fuels towards 1.5°C future](https://doi.org/10.21203/rs.3.rs-5698098/v1) | Cross-cutting CDR | 0 |
+| 2023 | [Fairness and feasibility in deep mitigation pathways with novel carbon dioxide removal considering institutional capacity to mitigate](https://doi.org/10.1088/1748-9326/acd8d5) | DAC | 39 |
 
 ## External Profiles
 

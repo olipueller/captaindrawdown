@@ -1,7 +1,7 @@
 ---
 title: "S.Priyadarshini"
-description: "S.Priyadarshini is an Early-career BECCS researcher. With 6 publications and an h-index of N/A, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:05+00:00
+description: "S.Priyadarshini is an Early-career BECCS researcher at SRR & CVR Government Degree College (A. With 6 publications and an h-index of N/A, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/spriyadarshini-a5132661/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "S.Priyadarshini",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/spriyadarshini-a5132661/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "SRR & CVR Government Degree College (A"
+  },
   "sameAs": "https://openalex.org/A5132661375"
 }
 </script>
 
 ## Profile
 
-**S.Priyadarshini**
+**S.Priyadarshini**  
+SRR & CVR Government Degree College (A
 
 **Career Stage:** Early-career
 

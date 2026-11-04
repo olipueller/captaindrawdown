@@ -1,7 +1,7 @@
 ---
 title: "Zhuozhen Gan"
 description: "Zhuozhen Gan is a Mid-career DAC researcher at Shanghai Jiao Tong University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:05+00:00
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/zhuozhen-gan-a5020127/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,14 +50,14 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Papers counted in the census {#papers}
 
-4 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 4, General CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+4 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 4. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Generic modeling framework for direct air capture by temperature swing adsorption](https://openalex.org/W7160088113) | DAC | 1 |
 | 2026 | [Efficient Adsorption‐Based Direct Air Capture Via Triply Periodic Minimal Surface Architectures](https://openalex.org/W7167709412) | DAC | 0 |
 | 2026 | [A Mechanistic Framework for CO2 Adsorption over PEI-Functionalized LDO Adsorbents under Coupled Humidity and Temperature Conditions](https://openalex.org/W7204920967) | DAC | 0 |
-| 2025 | [Integrated power to methanol processes with steam-assisted direct air capture](https://doi.org/10.1016/j.enconman.2025.119505) | DAC; General CDR | 11 |
+| 2025 | [Integrated power to methanol processes with steam-assisted direct air capture](https://doi.org/10.1016/j.enconman.2025.119505) | DAC | 11 |
 
 ## External Profiles
 

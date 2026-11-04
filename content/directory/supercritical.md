@@ -35,6 +35,8 @@ Supercritical is a London-based carbon removal marketplace that sources, vets, a
 
 ## History
 
+- **2026-11-04** — news mention: Supercritical Report: Rising Demand for High-Quality Biochar ([source](https://german-biochar.org/en/supercritical-report-rising-demand-for-high-quality-biochar))
+- **2026-11-04** — news mention: Jain Irrigation Partners with Supercritical for Biochar Credits ([source](https://biochartoday.com/news/jain-irrigation-systems-and-supercritical-finalize-agreement-for-up-to-19000-tonnes-of-biochar-carbon-removal-credits/))
 - **2026-11-02** — news mention: Jain Irrigation to Supply 19,000 Tonnes of Biochar Credits - Equitypandit ([source](https://www.equitypandit.com/jain-irrigation-to-supply-19000-tonnes-of-biochar-credits/))
 - **2026-10-31** — news mention: Jain Irrigation signs biochar credit deal for up to 19,000 tonnes | InvestyWise ([source](https://www.investywise.com/jain-irrigation-systems-ltd-agreement-for-biochar-credits))
 - **2026-10-31** — news mention: Biochar supply tightens as Jain Irrigation signs supercritical agreement ([source](https://agrospectrumindia.com/news/48/35078/biochar-supply-tightens-as-jain-irrigation-signs-supercritical-agreement.html))
@@ -63,8 +65,6 @@ Supercritical is a London-based carbon removal marketplace that sources, vets, a
 - **2026-09-09** — news mention: Supercritical: Most companies buying removal this year will find in December that the tonnes they wa ([source](https://www.linkedin.com/company/gosupercritical/#post-3d46bc919598))
 - **2026-09-08** — news mention: Buyers Are Moving Faster On Biochar This Year, With 81% Of High-Quality Supply Already Locked In ([source](https://carbonherald.com/buyers-are-moving-faster-on-biochar-this-year-with-81-of-high-quality-supply-already-locked-in/?utm_source=rss&utm_medium=rss&utm_campaign=buyers-are-moving-faster-on-biochar-this-year-with-81-of-high-quality-supply-already-locked-in))
 - **2026-09-04** — news mention: Supercritical Partners With Ground Up To Expand India Biochar Network ([source](https://carbonherald.com/supercritical-partners-with-ground-up-to-expand-india-biochar-network/?utm_source=rss&utm_medium=rss&utm_campaign=supercritical-partners-with-ground-up-to-expand-india-biochar-network))
-- **2026-09-04** — news mention: SCW Systems: 𝙁𝙤𝙧 𝙩𝙝𝙚 𝙥𝙖𝙨𝙩 𝙮𝙚𝙖𝙧𝙨, 𝙎𝘾𝙒 𝙎𝙮𝙨𝙩𝙚𝙢𝙨 𝙝𝙖𝙨 𝙗𝙚𝙚𝙣 𝙗𝙪𝙞𝙡𝙙𝙞𝙣𝙜 𝙦𝙪𝙞𝙚𝙩𝙡𝙮. Now, we are ready to share m ([source](https://www.linkedin.com/company/scw-systems/#post-3347ef9aa658))
-- **2026-08-15** — news mention: Ground Up: Boeing has procured 20,000 tonnes of permanent carbon removal through Supercritical. Six  ([source](https://www.linkedin.com/company/ground-up-in/#post-24799c8b585b))
 
 ---
 

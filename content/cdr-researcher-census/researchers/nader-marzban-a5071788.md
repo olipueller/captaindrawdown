@@ -1,7 +1,7 @@
 ---
 title: "Nader Marzban"
-description: "Nader Marzban is a Mid-career Biochar researcher at Linköping University in SE. With 59 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:05+00:00
+description: "Nader Marzban is a Mid-career Biochar researcher at Leibniz Institute for Agricultural Engineering and Bioeconomy in DE. With 59 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/nader-marzban-a5071788/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/nader-marzban-a5071788/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Link\u00f6ping University"
+    "name": "Leibniz Institute for Agricultural Engineering and Bioeconomy"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-7787-7706",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Nader Marzban**  
-Linköping University · 🇸🇪 SE
+Leibniz Institute for Agricultural Engineering and Bioeconomy · 🇩🇪 DE
 
 **Career Stage:** Mid-career
 
@@ -50,15 +50,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Papers counted in the census {#papers}
 
-6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 6, General CDR 2, Soil Carbon 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 6. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Progress and challenges in thermochemical technologies for biomass humification: A comprehensive review](https://doi.org/10.1016/j.rser.2026.116775) | Biochar | 5 |
-| 2026 | [CAN HYDROTHERMAL BIOMASS PROCESSING SERVE AS AN ANALOGUE OF MILLENNIA-SCALE NATURAL CARBON MATURATION? A UNIFIED PERSPECTIVE ON CARBONISATION, HUMIFICATION, AND FULVIFICATION](https://doi.org/10.46754/ps.2026.01.002) | Biochar; General CDR | 1 |
+| 2026 | [CAN HYDROTHERMAL BIOMASS PROCESSING SERVE AS AN ANALOGUE OF MILLENNIA-SCALE NATURAL CARBON MATURATION? A UNIFIED PERSPECTIVE ON CARBONISATION, HUMIFICATION, AND FULVIFICATION](https://doi.org/10.46754/ps.2026.01.002) | Biochar | 1 |
 | 2026 | [Biochar from poplar sawdust for digestate nutrient recovery and potential for long-term carbon sequestration](https://openalex.org/W7167362631) | Biochar | 1 |
-| 2025 | [Smart integrated biorefineries in bioeconomy: A concept toward zero-waste, emission reduction, and self-sufficient energy production](https://doi.org/10.18331/brj2025.12.1.4) | Biochar; General CDR | 64 |
-| 2025 | [Transitioning from hydrothermal carbonization to humification for producing artificial humic substances](https://doi.org/10.1016/j.biortech.2025.133306) | Biochar; Soil Carbon | 25 |
+| 2025 | [Smart integrated biorefineries in bioeconomy: A concept toward zero-waste, emission reduction, and self-sufficient energy production](https://doi.org/10.18331/brj2025.12.1.4) | Biochar | 64 |
+| 2025 | [Transitioning from hydrothermal carbonization to humification for producing artificial humic substances](https://doi.org/10.1016/j.biortech.2025.133306) | Biochar | 25 |
 | 2025 | [Artificial Humic Substances Via Hydrothermal Conversion of Biomass: Unlocking the Transition from Carbonization to Humification](https://doi.org/10.2139/ssrn.5364855) | Biochar | 0 |
 
 ## External Profiles

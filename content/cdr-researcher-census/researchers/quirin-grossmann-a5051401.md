@@ -1,7 +1,7 @@
 ---
 title: "Quirin Grossmann"
 description: "Quirin Grossmann is a Mid-career DAC researcher at ETH Zurich in CH. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:05+00:00
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/quirin-grossmann-a5051401/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,14 +50,14 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Papers counted in the census {#papers}
 
-4 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 4, General CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+4 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 4. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Structured sorbents for Direct Air Capture: The impact of materials and chemicals on performance](https://openalex.org/W7166531872) | DAC | 1 |
 | 2026 | [Structured sorbents for direct air capture: the impact of materials and chemicals on performance](https://openalex.org/W7163847645) | DAC | 0 |
 | 2026 | [Structured sorbents for Direct Air Capture: The impact of materials and chemicals on performance](https://openalex.org/W7166680246) | DAC | 0 |
-| 2023 | [Developing Versatile Contactors for Direct Air Capture of CO<sub>2</sub> through Amine Grafting onto Alumina Pellets and Alumina Wash-Coated Monoliths](https://doi.org/10.1021/acs.iecr.3c01265) | DAC; General CDR | 60 |
+| 2023 | [Developing Versatile Contactors for Direct Air Capture of CO<sub>2</sub> through Amine Grafting onto Alumina Pellets and Alumina Wash-Coated Monoliths](https://doi.org/10.1021/acs.iecr.3c01265) | DAC | 60 |
 
 ## External Profiles
 

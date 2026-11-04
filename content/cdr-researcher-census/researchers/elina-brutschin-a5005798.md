@@ -1,7 +1,7 @@
 ---
 title: "Elina Brutschin"
-description: "Elina Brutschin is a Senior General CDR researcher at International Institute for Applied Systems Analysis in AT. With 73 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:04+00:00
+description: "Elina Brutschin is a Senior Cross-cutting CDR researcher at International Institute for Applied Systems Analysis in AT. With 73 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/elina-brutschin-a5005798/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ International Institute for Applied Systems Analysis · 🇦🇹 AT
 
 ## CDR Specialization
 
-**General CDR**
+**Cross-cutting CDR**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Cross-cutting CDR
 
 ## Metrics
 
@@ -50,25 +50,25 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Papers counted in the census {#papers}
 
-15 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 15, DAC 2, BECCS 1, Biochar 1, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+15 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Cross-cutting CDR 12, DAC 2, BECCS 1, Biochar 1, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Managing Overshoot Through Collective Carbon Debt Drawdown](https://doi.org/10.5194/egusphere-egu26-16344) | General CDR | 0 |
-| 2026 | [Towards sustainability-aware carbon dioxide removal deployment](https://doi.org/10.5194/egusphere-egu26-20118) | BECCS; Biochar; Enhanced Weathering; General CDR | 0 |
-| 2026 | [Chapter 5: Policymaking and Governance, The State of Carbon Dioxide Removal - 3rd Edition (2026)](https://openalex.org/W7153466595) | General CDR | 0 |
-| 2026 | [The State of Carbon Dioxide Removal - 3rd Edition (2026)](https://openalex.org/W7153562439) | General CDR | 0 |
-| 2026 | [Chapter 5: Policymaking and Governance, The State of Carbon Dioxide Removal - 3rd Edition (2026)](https://openalex.org/W7166413443) | General CDR | 0 |
-| 2026 | [Equitable cooperation deepens the solution space for high ambition pathways](https://openalex.org/W7211890629) | General CDR | 0 |
-| 2026 | [Mapping conflicts in carbon removal narratives](https://openalex.org/W7212065601) | General CDR | 0 |
-| 2025 | [A prudent planetary limit for geologic carbon storage](https://doi.org/10.1038/s41586-025-09423-y) | General CDR | 85 |
-| 2025 | [A new hope or phantom menace? Exploring climate emotions and public support for climate interventions across 30 countries](https://doi.org/10.1111/risa.17713) | General CDR | 11 |
-| 2025 | [The climate implications of failing to manage carbon](https://doi.org/10.70212/cdrxiv.2025395.v1) | DAC; General CDR | 0 |
-| 2024 | [Drivers and attitudes of public support for technological solutions to climate change in 30 countries](https://doi.org/10.1088/1748-9326/ad7c67) | General CDR | 19 |
-| 2024 | [Taking stock of carbon dioxide removal policy in emerging economies: developments in Brazil, China, and India](https://doi.org/10.1080/14693062.2024.2353148) | General CDR | 18 |
-| 2023 | [Global fossil fuel reduction pathways under different climate mitigation strategies and ambitions](https://doi.org/10.1038/s41467-023-41105-z) | General CDR | 445 |
-| 2023 | [Fairness and feasibility in deep mitigation pathways with novel carbon dioxide removal considering institutional capacity to mitigate](https://doi.org/10.1088/1748-9326/acd8d5) | DAC; General CDR | 39 |
-| 2023 | [Secure robust carbon dioxide removal policy through credible certification](https://doi.org/10.1038/s43247-023-01014-x) | General CDR | 34 |
+| 2026 | [Managing Overshoot Through Collective Carbon Debt Drawdown](https://doi.org/10.5194/egusphere-egu26-16344) | Cross-cutting CDR | 0 |
+| 2026 | [Towards sustainability-aware carbon dioxide removal deployment](https://doi.org/10.5194/egusphere-egu26-20118) | BECCS; Biochar; Enhanced Weathering | 0 |
+| 2026 | [Chapter 5: Policymaking and Governance, The State of Carbon Dioxide Removal - 3rd Edition (2026)](https://openalex.org/W7153466595) | Cross-cutting CDR | 0 |
+| 2026 | [The State of Carbon Dioxide Removal - 3rd Edition (2026)](https://openalex.org/W7153562439) | Cross-cutting CDR | 0 |
+| 2026 | [Chapter 5: Policymaking and Governance, The State of Carbon Dioxide Removal - 3rd Edition (2026)](https://openalex.org/W7166413443) | Cross-cutting CDR | 0 |
+| 2026 | [Equitable cooperation deepens the solution space for high ambition pathways](https://openalex.org/W7211890629) | Cross-cutting CDR | 0 |
+| 2026 | [Mapping conflicts in carbon removal narratives](https://openalex.org/W7212065601) | Cross-cutting CDR | 0 |
+| 2025 | [A prudent planetary limit for geologic carbon storage](https://doi.org/10.1038/s41586-025-09423-y) | Cross-cutting CDR | 85 |
+| 2025 | [A new hope or phantom menace? Exploring climate emotions and public support for climate interventions across 30 countries](https://doi.org/10.1111/risa.17713) | Cross-cutting CDR | 11 |
+| 2025 | [The climate implications of failing to manage carbon](https://doi.org/10.70212/cdrxiv.2025395.v1) | DAC | 0 |
+| 2024 | [Drivers and attitudes of public support for technological solutions to climate change in 30 countries](https://doi.org/10.1088/1748-9326/ad7c67) | Cross-cutting CDR | 19 |
+| 2024 | [Taking stock of carbon dioxide removal policy in emerging economies: developments in Brazil, China, and India](https://doi.org/10.1080/14693062.2024.2353148) | Cross-cutting CDR | 18 |
+| 2023 | [Global fossil fuel reduction pathways under different climate mitigation strategies and ambitions](https://doi.org/10.1038/s41467-023-41105-z) | Cross-cutting CDR | 445 |
+| 2023 | [Fairness and feasibility in deep mitigation pathways with novel carbon dioxide removal considering institutional capacity to mitigate](https://doi.org/10.1088/1748-9326/acd8d5) | DAC | 39 |
+| 2023 | [Secure robust carbon dioxide removal policy through credible certification](https://doi.org/10.1038/s43247-023-01014-x) | Cross-cutting CDR | 34 |
 
 ## External Profiles
 

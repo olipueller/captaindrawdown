@@ -34,6 +34,7 @@ Carbon Gap is Europe's leading carbon dioxide removal (CDR) advocacy and researc
 
 ## History
 
+- **2026-11-04** — news mention: ETS post 3 | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7523680297796710402/))
 - **2026-11-02** — news mention: CRRA toolkit | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7522942787823161345/))
 - **2026-11-02** — news mention: New Carbon Gap Toolkit Evaluates Countries’ Carbon Removal Potential ([source](https://carbonherald.com/new-carbon-gap-toolkit-evaluates-countries-carbon-removal-potential/?utm_source=rss&utm_medium=rss&utm_campaign=new-carbon-gap-toolkit-evaluates-countries-carbon-removal-potential))
 - **2026-11-02** — news mention: Now it’s your turn: Carbon Gap releases free toolkit for any country to assess its carbon removal po ([source](https://carbongap.org/insights/now-it-s-your-turn-carbon-gap-releases-free-toolkit-for-any-country-to-assess-its-carbon-removal-potential))
@@ -73,7 +74,6 @@ On 16 Se ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:750407869
 - **2026-09-11** — news mention: Carbon Removal Policy Summit National Level Session | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7503757152298115073/))
 - **2026-09-10** — news mention: Policy Summit EU level panel | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7503434342254198784/))
 - **2026-09-06** — news mention: Carbon Neutral Initiative: Our new paper, led by Spyros Foteinis and Heriot-Watt University , explor ([source](https://www.linkedin.com/company/carbon-neutral-initiative/#post-a10bc24b04e8))
-- **2026-09-04** — news mention: Closing the CDR gap: What the latest State of CDR Report tells us | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7501272805192380416/))
 
 ---
 

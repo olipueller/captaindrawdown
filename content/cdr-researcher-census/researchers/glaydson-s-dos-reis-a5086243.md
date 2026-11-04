@@ -1,7 +1,7 @@
 ---
 title: "Glaydson S. dos Reis"
 description: "Glaydson S. dos Reis is an Eminent Biochar researcher at Åbo Akademi University in FI. With 166 publications and an h-index of 52, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:04+00:00
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/glaydson-s-dos-reis-a5086243/"
 layout: "researcher"
 hiddenInHomeList: true

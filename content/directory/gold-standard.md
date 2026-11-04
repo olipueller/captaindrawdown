@@ -30,6 +30,7 @@ Gold Standard is a non-profit carbon credit certification standard and registry 
 
 ## History
 
+- **2026-11-04** — news mention: Gold Standard Establishes Verified Carbon Removal Pathways for Distributed and Industrial Biochar Op ([source](https://biochartoday.com/news/gold-standard-establishes-verified-carbon-removal-pathways-for-distributed-and-industrial-biochar-operators/?utm_source=bluesky&utm_medium=jetpack_social))
 - **2026-11-03** — news mention: Gold Standard Unveils First Biochar Methodology For Projects Of All Scales ([source](https://carbonherald.com/gold-standard-unveils-first-biochar-methodology-for-projects-of-all-scales/?utm_source=rss&utm_medium=rss&utm_campaign=gold-standard-unveils-first-biochar-methodology-for-projects-of-all-scales))
 - **2026-10-15** — news mention: CP Daily Newsletter: Wednesday October 14, 2026 « Carbon Pulse ([source](https://carbon-pulse.com/560337/))
 - **2026-10-15** — news mention: Combined Verra, Gold Standard carbon credit retirements down 9% in H1 2026 -report « Carbon Pulse ([source](https://carbon-pulse.com/560555/))
@@ -59,7 +60,6 @@ Gold Standard is a non-profit carbon credit certification standard and registry 
 - **2026-08-19** — news mention: CarbonMeld: Airlines could need more than 200 million eligible carbon credits for CORSIA's first pha ([source](https://www.linkedin.com/company/carbonmeld/#post-8acde5db1454))
 - **2026-08-13** — news mention: Removall Carbon: 💧 A new milestone for the Pungue Clean Water Project, the project has successfully  ([source](https://www.linkedin.com/company/removall-carbon/#post-d824de93f0d9))
 - **2026-08-12** — news mention: Andes: Weâre excited to share that Gold Standardâs Microbial Carbon Dioxide Mineralisation metho ([source](https://www.linkedin.com/company/andesag/#post-cfd693e3273f))
-- **2026-08-06** — news mention: Phlair: Interview: EU should reform #ETS to include direct air capture, the “gold standard” for remo ([source](https://www.linkedin.com/company/phlair/#post-9e960680a651))
 
 ---
 

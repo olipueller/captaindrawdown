@@ -34,6 +34,7 @@ A Healthier Earth (AHE) is the UK climate-tech R&D subsidiary of Pure Data Centr
 
 ## History
 
+- **2026-11-04** — news mention: Pure DC Unveils ~$2Billion Financing Framework to Scale Its Differentiated Pan-European & Middle Eas ([source](https://www.globenewswire.com/news-release/2026/11/04/3395084/0/en/pure-dc-unveils-2billion-financing-framework-to-scale-its-differentiated-pan-european-middle-east-cloud-ai-infrastructure-platform.html))
 - **2026-10-15** — refresh: screenshot
 - **2026-08-29** — news mention: A Healthier Earth: Most climate solutions don't need a breakthrough... they need a market. That's on ([source](https://www.linkedin.com/company/ahealthierearth/#post-87736ce11ddb))
 - **2026-08-02** — news mention: NoviqTech Subsidiary Coralia and A Healthier Earth Partner on Offtake Agreement and Research Pact fo ([source](https://biochartoday.com/news/noviqtech-subsidiary-coralia-and-a-healthier-earth-partner-on-offtake-agreement-and-research-pact-for-great-barrier-reef-project/))

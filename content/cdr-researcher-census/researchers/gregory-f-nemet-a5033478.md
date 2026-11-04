@@ -1,7 +1,7 @@
 ---
 title: "Gregory F. Nemet"
-description: "Gregory F. Nemet is an Eminent General CDR researcher at University of Wisconsin–Madison in US. With 219 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:04+00:00
+description: "Gregory F. Nemet is an Eminent Cross-cutting CDR researcher at University of Wisconsin–Madison in US. With 219 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/gregory-f-nemet-a5033478/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Wisconsin–Madison · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**Cross-cutting CDR**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Cross-cutting CDR
 
 ## Metrics
 
@@ -50,32 +50,32 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Papers counted in the census {#papers}
 
-22 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 20, DAC 5, Biochar 1, Soil Carbon 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+22 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Cross-cutting CDR 16, DAC 5, Biochar 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [IPCC Methodology Report on Carbon Dioxide Removal Technologies, Carbon Capture, Utilization and Storage](https://doi.org/10.1093/inteam/vjaf183) | General CDR | 0 |
-| 2026 | [Chapter 3: Demonstration and upscaling, The State of Carbon Dioxide Removal - 3rd Edition (2026)](https://openalex.org/W7153481903) | General CDR | 0 |
-| 2026 | [The State of Carbon Dioxide Removal - 3rd Edition (2026)](https://openalex.org/W7153562439) | General CDR | 0 |
-| 2026 | [Chapter 3: Demonstration and upscaling, The State of Carbon Dioxide Removal - 3rd Edition (2026)](https://openalex.org/W7166411189) | General CDR | 0 |
-| 2025 | [Scientific literature on carbon dioxide removal revealed as much larger through AI-enhanced systematic mapping](https://doi.org/10.1038/s41467-025-61485-8) | General CDR | 20 |
+| 2026 | [IPCC Methodology Report on Carbon Dioxide Removal Technologies, Carbon Capture, Utilization and Storage](https://doi.org/10.1093/inteam/vjaf183) | Cross-cutting CDR | 0 |
+| 2026 | [Chapter 3: Demonstration and upscaling, The State of Carbon Dioxide Removal - 3rd Edition (2026)](https://openalex.org/W7153481903) | Cross-cutting CDR | 0 |
+| 2026 | [The State of Carbon Dioxide Removal - 3rd Edition (2026)](https://openalex.org/W7153562439) | Cross-cutting CDR | 0 |
+| 2026 | [Chapter 3: Demonstration and upscaling, The State of Carbon Dioxide Removal - 3rd Edition (2026)](https://openalex.org/W7166411189) | Cross-cutting CDR | 0 |
+| 2025 | [Scientific literature on carbon dioxide removal revealed as much larger through AI-enhanced systematic mapping](https://doi.org/10.1038/s41467-025-61485-8) | Cross-cutting CDR | 20 |
 | 2025 | [Accelerating Innovation](https://openalex.org/W4410816665) | DAC | 0 |
-| 2024 | [Modeling direct air carbon capture and storage in a 1.5 °C climate future using historical analogs](https://doi.org/10.1073/pnas.2215679121) | DAC; General CDR | 42 |
-| 2024 | [Lessons for scaling direct air capture from the history of ammonia synthesis](https://doi.org/10.1016/j.erss.2024.103696) | DAC; General CDR | 8 |
-| 2024 | [Scientific literature on carbon dioxide removal much larger than previously suggested: insights from an AI-enhanced systematic map](https://doi.org/10.21203/rs.3.rs-4109712/v1) | General CDR | 7 |
-| 2024 | [Current national proposals are off track to meet carbon dioxide removal needs](https://doi.org/10.1038/s41558-024-01993-5) | General CDR | 7 |
-| 2024 | [Countries need to provide clarity on the role of carbon dioxide removal in their climate pledges](https://doi.org/10.1088/1748-9326/ad91c7) | General CDR | 6 |
-| 2024 | [Feasibility of CO2 Pipeline Construction to Enable Gigaton-Scale Carbon Dioxide Removals: Evidence from historical precedent](https://doi.org/10.21203/rs.3.rs-4701818/v1) | General CDR | 0 |
-| 2023 | [Technological innovation enables low cost climate change mitigation](https://doi.org/10.1016/j.erss.2023.103276) | General CDR | 57 |
-| 2023 | [Ten new insights in climate science 2023](https://doi.org/10.1017/sus.2023.25) | General CDR | 47 |
-| 2023 | [Near-term deployment of novel carbon removal to facilitate longer-term deployment](https://doi.org/10.1016/j.joule.2023.11.001) | General CDR | 46 |
-| 2023 | [Dataset on the adoption of historical technologies informs the scale-up of emerging carbon dioxide removal measures](https://doi.org/10.1038/s43247-023-01056-1) | General CDR | 41 |
-| 2023 | [Proposing a 1.0°C climate target for a safer future](https://doi.org/10.1371/journal.pclm.0000234) | General CDR | 35 |
-| 2023 | [The carbon dioxide removal gap](https://doi.org/10.21203/rs.3.rs-3255532/v1) | General CDR | 8 |
-| 2023 | [Key enablers for carbon dioxide removal through the application of biochar to agricultural soils: Evidence from three historical analogues](https://doi.org/10.1016/j.techfore.2023.122704) | Biochar; Soil Carbon | 5 |
-| 2023 | [Lessons for Direct Air Capture from the History of Nitrogen Synthesis: High Rates of Deployment are Possible, with Strong Support](http://dx.doi.org/10.2139/ssrn.4397007) | DAC; General CDR | 3 |
-| 2023 | [The carbon dioxide removal gap: current removals and country proposals versus future requirements for limiting warming to 2°C or lower](https://doi.org/10.5194/egusphere-egu23-6660) | DAC; General CDR | 0 |
-| 2021 | [Climate change mitigation easier than suggested by models 1](https://openalex.org/W4211106757) | General CDR | 6 |
+| 2024 | [Modeling direct air carbon capture and storage in a 1.5 °C climate future using historical analogs](https://doi.org/10.1073/pnas.2215679121) | DAC | 42 |
+| 2024 | [Lessons for scaling direct air capture from the history of ammonia synthesis](https://doi.org/10.1016/j.erss.2024.103696) | DAC | 8 |
+| 2024 | [Scientific literature on carbon dioxide removal much larger than previously suggested: insights from an AI-enhanced systematic map](https://doi.org/10.21203/rs.3.rs-4109712/v1) | Cross-cutting CDR | 7 |
+| 2024 | [Current national proposals are off track to meet carbon dioxide removal needs](https://doi.org/10.1038/s41558-024-01993-5) | Cross-cutting CDR | 7 |
+| 2024 | [Countries need to provide clarity on the role of carbon dioxide removal in their climate pledges](https://doi.org/10.1088/1748-9326/ad91c7) | Cross-cutting CDR | 6 |
+| 2024 | [Feasibility of CO2 Pipeline Construction to Enable Gigaton-Scale Carbon Dioxide Removals: Evidence from historical precedent](https://doi.org/10.21203/rs.3.rs-4701818/v1) | Cross-cutting CDR | 0 |
+| 2023 | [Technological innovation enables low cost climate change mitigation](https://doi.org/10.1016/j.erss.2023.103276) | Cross-cutting CDR | 57 |
+| 2023 | [Ten new insights in climate science 2023](https://doi.org/10.1017/sus.2023.25) | Cross-cutting CDR | 47 |
+| 2023 | [Near-term deployment of novel carbon removal to facilitate longer-term deployment](https://doi.org/10.1016/j.joule.2023.11.001) | Cross-cutting CDR | 46 |
+| 2023 | [Dataset on the adoption of historical technologies informs the scale-up of emerging carbon dioxide removal measures](https://doi.org/10.1038/s43247-023-01056-1) | Cross-cutting CDR | 41 |
+| 2023 | [Proposing a 1.0°C climate target for a safer future](https://doi.org/10.1371/journal.pclm.0000234) | Cross-cutting CDR | 35 |
+| 2023 | [The carbon dioxide removal gap](https://doi.org/10.21203/rs.3.rs-3255532/v1) | Cross-cutting CDR | 8 |
+| 2023 | [Key enablers for carbon dioxide removal through the application of biochar to agricultural soils: Evidence from three historical analogues](https://doi.org/10.1016/j.techfore.2023.122704) | Biochar | 5 |
+| 2023 | [Lessons for Direct Air Capture from the History of Nitrogen Synthesis: High Rates of Deployment are Possible, with Strong Support](http://dx.doi.org/10.2139/ssrn.4397007) | DAC | 3 |
+| 2023 | [The carbon dioxide removal gap: current removals and country proposals versus future requirements for limiting warming to 2°C or lower](https://doi.org/10.5194/egusphere-egu23-6660) | DAC | 0 |
+| 2021 | [Climate change mitigation easier than suggested by models 1](https://openalex.org/W4211106757) | Cross-cutting CDR | 6 |
 
 ## External Profiles
 

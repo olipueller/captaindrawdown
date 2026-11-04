@@ -1,7 +1,7 @@
 ---
 title: "Xinde Cao"
 description: "Xinde Cao is an Eminent Biochar researcher at Shanghai Jiao Tong University in CN. With 290 publications and an h-index of 95, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:04+00:00
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/xinde-cao-a5010856/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,19 +50,18 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Papers counted in the census {#papers}
 
-14 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 13, Soil Carbon 6. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+13 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 13. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Beyond universal application: dissecting the differential amelioration and carbon sequestration performance of biochar in chloride-, sulfate-, and soda saline-alkali soils](https://openalex.org/W7151217330) | Biochar | 3 |
-| 2026 | [Predictive Understanding of the Transformation of Ferrihydrite with Machine Learning: Key Factors, Mechanisms, and Implications for the Immobilization of Pollutants and Soil Organic Carbon](https://doi.org/10.1021/acsearthspacechem.5c00277) | Soil Carbon | 1 |
-| 2025 | [Biochar-amended soil can further sorb atmospheric CO2 for more carbon sequestration](https://doi.org/10.1038/s43247-024-01985-5) | Biochar; Soil Carbon | 42 |
-| 2023 | [Converting coastal silt into subgrade soil with biochar as reinforcing agent, CO2 adsorbent, and carbon sequestrating material](https://doi.org/10.1016/j.jenvman.2023.118394) | Biochar; Soil Carbon | 20 |
+| 2025 | [Biochar-amended soil can further sorb atmospheric CO2 for more carbon sequestration](https://doi.org/10.1038/s43247-024-01985-5) | Biochar | 42 |
+| 2023 | [Converting coastal silt into subgrade soil with biochar as reinforcing agent, CO2 adsorbent, and carbon sequestrating material](https://doi.org/10.1016/j.jenvman.2023.118394) | Biochar | 20 |
 | 2023 | [Converting Coastal Silt into Subgrade Soil with Biochar as Reinforcing Agent, Co2 Adsorbent, and Carbon Sequestrating Material](http://dx.doi.org/10.2139/ssrn.4402076) | Biochar | 0 |
-| 2022 | [Evaluation of long-term carbon sequestration of biochar in soil with biogeochemical field model](https://doi.org/10.1016/j.scitotenv.2022.153576) | Biochar; Soil Carbon | 101 |
-| 2022 | [Development of phosphorus composite biochar for simultaneous enhanced carbon sink and heavy metal immobilization in soil](https://doi.org/10.1016/j.scitotenv.2022.154845) | Biochar; Soil Carbon | 69 |
+| 2022 | [Evaluation of long-term carbon sequestration of biochar in soil with biogeochemical field model](https://doi.org/10.1016/j.scitotenv.2022.153576) | Biochar | 101 |
+| 2022 | [Development of phosphorus composite biochar for simultaneous enhanced carbon sink and heavy metal immobilization in soil](https://doi.org/10.1016/j.scitotenv.2022.154845) | Biochar | 69 |
 | 2022 | [Minerals: A missing role for enhanced biochar carbon sequestration from the thermal conversion of biomass to the application in soil](https://doi.org/10.1016/j.earscirev.2022.104215) | Biochar | 56 |
-| 2022 | [Biochar for carbon sequestration and environmental remediation in soil](https://doi.org/10.1016/b978-0-323-85343-9.00002-1) | Biochar; Soil Carbon | 4 |
+| 2022 | [Biochar for carbon sequestration and environmental remediation in soil](https://doi.org/10.1016/b978-0-323-85343-9.00002-1) | Biochar | 4 |
 | 2021 | [Impacts of different activation processes on the carbon stability of biochar for oxidation resistance](https://doi.org/10.1016/j.biortech.2021.125555) | Biochar | 169 |
 | 2021 | [Pyrolysis temperature-dependent carbon retention and stability of biochar with participation of calcium: Implications to carbon sequestration](https://doi.org/10.1016/j.envpol.2021.117566) | Biochar | 141 |
 | 2021 | [Unraveling iron speciation on Fe-biochar with distinct arsenic removal mechanisms and depth distributions of As and Fe](https://openalex.org/W3195614275) | Biochar | 113 |

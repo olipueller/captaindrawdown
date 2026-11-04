@@ -1,7 +1,7 @@
 ---
 title: "Christian Sattler"
 description: "Christian Sattler is an Eminent DAC researcher at Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR) in DE. With 597 publications and an h-index of 54, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:04+00:00
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/christian-sattler-a5003022/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,17 +50,17 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Papers counted in the census {#papers}
 
-7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 6, General CDR 6. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 6, Cross-cutting CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2025 | [Powering Direct Air Capture: Overview of Existing Concepts and the Overlooked Role of Concentrated Solar Thermal Technologies](https://doi.org/10.1007/s40518-025-00255-y) | DAC; General CDR | 0 |
+| 2025 | [Powering Direct Air Capture: Overview of Existing Concepts and the Overlooked Role of Concentrated Solar Thermal Technologies](https://doi.org/10.1007/s40518-025-00255-y) | DAC | 0 |
 | 2025 | [Powering Direct Air Capture: Overview of Existing Concepts and the Overlooked Role of Concentrated Solar Thermal Technologies](https://openalex.org/W7147152197) | DAC | 0 |
-| 2024 | [A techno-economic and environmental evaluation of the integration of direct air capture with hydrogen derivatives production](https://doi.org/10.1016/j.ijhydene.2024.10.026) | DAC; General CDR | 7 |
-| 2024 | [Synergies between Direct Air Capture and Solar Hydrogen andFuel Production](https://openalex.org/W7128980604) | DAC; General CDR | 0 |
-| 2022 | [Solar calcium looping cycle for CO2 capturing in a cement plant. Definition of process parameters and reactors selection](https://doi.org/10.1016/j.solener.2022.04.031) | General CDR | 35 |
-| 2022 | [Techno-Economic Assessment of the Integration of Direct Air Capture and the Production of Solar Fuels](https://doi.org/10.3390/en15145017) | DAC; General CDR | 21 |
-| 2021 | [Synergies between Direct Air Capture Technologies and Solar Thermochemical Cycles in the Production of Methanol](https://doi.org/10.3390/en14164818) | DAC; General CDR | 15 |
+| 2024 | [A techno-economic and environmental evaluation of the integration of direct air capture with hydrogen derivatives production](https://doi.org/10.1016/j.ijhydene.2024.10.026) | DAC | 7 |
+| 2024 | [Synergies between Direct Air Capture and Solar Hydrogen andFuel Production](https://openalex.org/W7128980604) | DAC | 0 |
+| 2022 | [Solar calcium looping cycle for CO2 capturing in a cement plant. Definition of process parameters and reactors selection](https://doi.org/10.1016/j.solener.2022.04.031) | Cross-cutting CDR | 35 |
+| 2022 | [Techno-Economic Assessment of the Integration of Direct Air Capture and the Production of Solar Fuels](https://doi.org/10.3390/en15145017) | DAC | 21 |
+| 2021 | [Synergies between Direct Air Capture Technologies and Solar Thermochemical Cycles in the Production of Methanol](https://doi.org/10.3390/en14164818) | DAC | 15 |
 
 ## External Profiles
 

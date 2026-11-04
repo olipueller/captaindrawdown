@@ -1,7 +1,7 @@
 ---
 title: "Göran Berndes"
-description: "Göran Berndes is an Eminent General CDR researcher at Chalmers University of Technology in SE. With 258 publications and an h-index of 52, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:04+00:00
+description: "Göran Berndes is an Eminent BECCS researcher at Chalmers University of Technology in SE. With 258 publications and an h-index of 52, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/goran-berndes-a5088119/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Chalmers University of Technology · 🇸🇪 SE
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 
@@ -50,20 +50,20 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Papers counted in the census {#papers}
 
-10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 10, BECCS 9, Soil Carbon 2, DAC 1, Biochar 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 9, DAC 1, Biochar 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Cascading wood use into bioenergy with carbon capture and storage ensures continuous and enduring temperature reduction](https://openalex.org/W7138856057) | BECCS; General CDR | 4 |
-| 2025 | [Diversity of biomass usage pathways to achieve emissions targets in the European energy system](https://doi.org/10.1038/s41560-024-01693-6) | BECCS; DAC; General CDR | 50 |
-| 2025 | [Biomass exclusion must be weighed against benefits of carbon supply in European energy system](https://doi.org/10.1038/s41560-024-01685-6) | BECCS; General CDR | 7 |
-| 2025 | [Quantifying Climate Change Effects of Bioenergy and <scp>BECCS</scp>: Critical Considerations and Guidance on Methodology](https://doi.org/10.1111/gcbb.70070) | BECCS; General CDR | 4 |
-| 2024 | [Carbon removal potentials in agricultural systems – participatory scenario modelling with farmers in Sweden](https://openalex.org/W4405201503) | Biochar; General CDR | 0 |
-| 2022 | [Are biofuel mandates cost-effective? - An analysis of transport fuels and biomass usage to achieve emissions targets in the European energy system](https://doi.org/10.1016/j.apenergy.2022.120016) | BECCS; General CDR | 58 |
-| 2022 | [Large‐scale deployment of grass in crop rotations as a multifunctional climate mitigation strategy](https://doi.org/10.1111/gcbb.13015) | BECCS; General CDR; Soil Carbon | 19 |
-| 2022 | [Towards multifunctional landscapes coupling low carbon feed and bioenergy production with restorative agriculture: Economic deployment potential of grass‐based biorefineries](https://doi.org/10.1002/bbb.2454) | BECCS; General CDR; Soil Carbon | 10 |
-| 2022 | [Green Biorefineries: Modeling to Explore Optimized System Configuration, Economic Deployment Potential, and Associated Land Use](https://doi.org/10.2139/ssrn.4016380) | BECCS; General CDR | 0 |
-| 2021 | [Bioenergy for climate change mitigation: Scale and sustainability](https://doi.org/10.1111/gcbb.12863) | BECCS; General CDR | 146 |
+| 2026 | [Cascading wood use into bioenergy with carbon capture and storage ensures continuous and enduring temperature reduction](https://openalex.org/W7138856057) | BECCS | 4 |
+| 2025 | [Diversity of biomass usage pathways to achieve emissions targets in the European energy system](https://doi.org/10.1038/s41560-024-01693-6) | BECCS; DAC | 50 |
+| 2025 | [Biomass exclusion must be weighed against benefits of carbon supply in European energy system](https://doi.org/10.1038/s41560-024-01685-6) | BECCS | 7 |
+| 2025 | [Quantifying Climate Change Effects of Bioenergy and <scp>BECCS</scp>: Critical Considerations and Guidance on Methodology](https://doi.org/10.1111/gcbb.70070) | BECCS | 4 |
+| 2024 | [Carbon removal potentials in agricultural systems – participatory scenario modelling with farmers in Sweden](https://openalex.org/W4405201503) | Biochar | 0 |
+| 2022 | [Are biofuel mandates cost-effective? - An analysis of transport fuels and biomass usage to achieve emissions targets in the European energy system](https://doi.org/10.1016/j.apenergy.2022.120016) | BECCS | 58 |
+| 2022 | [Large‐scale deployment of grass in crop rotations as a multifunctional climate mitigation strategy](https://doi.org/10.1111/gcbb.13015) | BECCS | 19 |
+| 2022 | [Towards multifunctional landscapes coupling low carbon feed and bioenergy production with restorative agriculture: Economic deployment potential of grass‐based biorefineries](https://doi.org/10.1002/bbb.2454) | BECCS | 10 |
+| 2022 | [Green Biorefineries: Modeling to Explore Optimized System Configuration, Economic Deployment Potential, and Associated Land Use](https://doi.org/10.2139/ssrn.4016380) | BECCS | 0 |
+| 2021 | [Bioenergy for climate change mitigation: Scale and sustainability](https://doi.org/10.1111/gcbb.12863) | BECCS | 146 |
 
 ## External Profiles
 

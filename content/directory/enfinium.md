@@ -29,6 +29,7 @@ enfinium is one of the UK's largest energy-from-waste operators, running six fac
 
 ## History
 
+- **2026-11-04** — news mention: Parc Adfer carbon capture plant approved despite doubts over 95% claim | Deeside.com ([source](https://www.deeside.com/parc-adfer-carbon-capture-approved-despite-95-capture-doubts/))
 - **2026-10-06** — news mention: Enfinium Seeks Planning Approval For $265M Carbon Capture Plant ([source](https://carbonherald.com/enfinium-seeks-planning-approval-for-265m-carbon-capture-plant/?utm_source=rss&utm_medium=rss&utm_campaign=enfinium-seeks-planning-approval-for-265m-carbon-capture-plant))
 - **2026-09-24** — news mention: enfinium: This time last week, we were in Parliament with UK technology firm Nuada to showcase our p ([source](https://www.linkedin.com/company/enfiniumuk/#post-64f5bb86e9b6))
 - **2026-08-19** — news mention: enfinium limited: A new partnership to manage residual waste and generate homegrown energy. We’re pl ([source](https://www.linkedin.com/company/enfiniumuk/#post-b0fc8e75fa07))

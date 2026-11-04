@@ -1,7 +1,7 @@
 ---
 title: "Davide Calvi"
 description: "Davide Calvi is an Early-career Ocean CDR researcher at University of Milano-Bicocca in IT. With 12 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:05+00:00
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/davide-calvi-a5094110/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,17 +47,17 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 ## Papers counted in the census {#papers}
 
-7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 7, General CDR 3. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 7. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Effects of pH-equilibrated ocean alkalinization on benthic calcifiers: a mesocosm study from the port of La Spezia (Italy)](https://doi.org/10.2139/ssrn.6331722) | Ocean CDR | 0 |
 | 2026 | [pH-Equilibrated Ocean Alkalinization: Mesoscale Evaluation of Long-Term Stability](https://doi.org/10.5194/egusphere-egu26-1491) | Ocean CDR | 0 |
-| 2026 | [Effects of pH-equilibrated ocean alkalinization on macro-benthic calcifiers: A mesocosm study from the port of La Spezia (Italy)](https://openalex.org/W7203484947) | General CDR; Ocean CDR | 0 |
+| 2026 | [Effects of pH-equilibrated ocean alkalinization on macro-benthic calcifiers: A mesocosm study from the port of La Spezia (Italy)](https://openalex.org/W7203484947) | Ocean CDR | 0 |
 | 2026 | [Impacts of ocean alkalinity enhancement on plankton community metabolism and structure during a mesocosm phytoplankton bloom in a coastal upwelling ecosystem](https://openalex.org/W7204015942) | Ocean CDR | 0 |
 | 2025 | [The response of phytoplankton to pH-equilibrated ocean alkalinization: A mesocosm experiment with harbour waters](https://doi.org/10.1016/j.marpolbul.2025.118787) | Ocean CDR | 10 |
-| 2025 | [The response of phytoplankton to pH-Equilibrated Ocean Alkalinization: a mesocosm experiment in the Gulf of La Spezia](https://doi.org/10.5194/egusphere-egu25-10595) | General CDR; Ocean CDR | 0 |
-| 2024 | [First assessment of the impact of pH equilibrated Ocean Alkanlinity Enhancement technology on marine biota in the Gulf of La Spezia (north-west Italy)](https://doi.org/10.5194/egusphere-egu24-16102) | General CDR; Ocean CDR | 0 |
+| 2025 | [The response of phytoplankton to pH-Equilibrated Ocean Alkalinization: a mesocosm experiment in the Gulf of La Spezia](https://doi.org/10.5194/egusphere-egu25-10595) | Ocean CDR | 0 |
+| 2024 | [First assessment of the impact of pH equilibrated Ocean Alkanlinity Enhancement technology on marine biota in the Gulf of La Spezia (north-west Italy)](https://doi.org/10.5194/egusphere-egu24-16102) | Ocean CDR | 0 |
 
 ## External Profiles
 

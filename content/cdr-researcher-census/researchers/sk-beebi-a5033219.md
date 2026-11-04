@@ -1,7 +1,7 @@
 ---
 title: "Sk. Beebi"
 description: "Sk. Beebi is a Mid-career BECCS researcher at Maharaj Vijayaram Gajapathi Raj College of Engineering in IN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:05+00:00
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/sk-beebi-a5033219/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -34,6 +34,8 @@ Puro.earth is a Finland-based carbon removal standard and registry, majority-own
 
 ## History
 
+- **2026-11-04** — news mention: UN Technical Reviews Highlight Integrity Gaps In Article 6.2 Carbon Trading ([source](https://carbonherald.com/un-technical-reviews-highlight-integrity-gaps-in-article-6-2-carbon-trading/))
+- **2026-11-04** — news mention: Jain Irrigation Partners with Supercritical for Biochar Credits ([source](https://biochartoday.com/news/jain-irrigation-systems-and-supercritical-finalize-agreement-for-up-to-19000-tonnes-of-biochar-carbon-removal-credits/))
 - **2026-11-04** — news mention: Wakefield BioChar: Wakefield BioChar ranks sixth globally on CDR.fyi ’s all-time leaderboard for dur ([source](https://www.linkedin.com/company/wakefieldbiochar/#post-aabd27fbf499))
 - **2026-11-03** — news mention: Opinion: It’s Time For Governments To Rethink The Role That Carbon Removal Can Play ([source](https://carbonherald.com/opinion-its-time-for-governments-to-rethink-the-role-that-carbon-removal-can-play/?utm_source=rss&utm_medium=rss&utm_campaign=opinion-its-time-for-governments-to-rethink-the-role-that-carbon-removal-can-play))
 - **2026-11-03** — news mention: Puro.earth Surpasses 2M Carbon Removal Certificates Issued ([source](https://carbonherald.com/puro-earth-surpasses-2m-carbon-removal-certificates-issued/?utm_source=rss&utm_medium=rss&utm_campaign=puro-earth-surpasses-2m-carbon-removal-certificates-issued))
@@ -62,8 +64,6 @@ Puro.earth is a Finland-based carbon removal standard and registry, majority-own
 - **2026-10-16** — news mention: Gevo: A project like Gevo North Dakota (GND) that’s delivering today is a great candidate to trust t ([source](https://www.linkedin.com/company/gevo/#post-dff393af1dae))
 - **2026-10-16** — news mention: American BioCarbon CT, LLC - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/american-biocarbon-ct-llc/))
 - **2026-10-15** — news mention: Beston: From Project Announcement to Industry Dialogue: Beston Group® at Puro.earth CDR Summit 𝟐𝟎𝟐𝟔  ([source](https://www.linkedin.com/company/bestongroup/#post-398bbe794101))
-- **2026-10-13** — news mention: ESG News Week In Review: 16 September - 30 September ([source](https://esgnews.com/esg-news-week-in-review-16-september-30-september/))
-- **2026-10-13** — news mention: Carbon Hill - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/carbon-hill/))
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Vittoria Bolongaro"
-description: "Vittoria Bolongaro is an Early-career General CDR researcher at ETH Zurich in CH. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:05+00:00
+description: "Vittoria Bolongaro is an Early-career DAC researcher at ETH Zurich in CH. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/vittoria-bolongaro-a5092617/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ ETH Zurich · 🇨🇭 CH
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 
@@ -50,16 +50,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Papers counted in the census {#papers}
 
-6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 6, DAC 4, BECCS 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 4, Cross-cutting CDR 2, BECCS 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Life cycle assessment of solid calcium-looping direct air capture and its synergistic dual use for net-negative cement](https://openalex.org/W7163561785) | DAC; General CDR | 2 |
-| 2026 | [Life cycle assessment of solid calcium-looping direct air capture and its synergistic dual use for net-negative cement](https://openalex.org/W7163926886) | DAC; General CDR | 0 |
-| 2025 | [An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage](https://doi.org/10.1039/d5ee01732g) | General CDR | 54 |
-| 2025 | [Carbon Dioxide Reduction and Removal toward Net-Zero: A Needed Change of Narrative](https://doi.org/10.1021/acs.iecr.5c00684) | BECCS; DAC; General CDR | 2 |
-| 2025 | [Life-Cycle Assessment of Solid Calcium-Looping Direct AirCapture and Its Synergistic Dual Use for Net-Negative Cement](https://doi.org/10.26434/chemrxiv-2025-8zjlg-v2) | General CDR | 1 |
-| 2025 | [Prospective life cycle assessment of megatonne-scale direct air carbon capture and storage via calcium-looping](https://doi.org/10.26434/chemrxiv-2025-8zjlg) | DAC; General CDR | 0 |
+| 2026 | [Life cycle assessment of solid calcium-looping direct air capture and its synergistic dual use for net-negative cement](https://openalex.org/W7163561785) | DAC | 2 |
+| 2026 | [Life cycle assessment of solid calcium-looping direct air capture and its synergistic dual use for net-negative cement](https://openalex.org/W7163926886) | DAC | 0 |
+| 2025 | [An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage](https://doi.org/10.1039/d5ee01732g) | Cross-cutting CDR | 54 |
+| 2025 | [Carbon Dioxide Reduction and Removal toward Net-Zero: A Needed Change of Narrative](https://doi.org/10.1021/acs.iecr.5c00684) | BECCS; DAC | 2 |
+| 2025 | [Life-Cycle Assessment of Solid Calcium-Looping Direct AirCapture and Its Synergistic Dual Use for Net-Negative Cement](https://doi.org/10.26434/chemrxiv-2025-8zjlg-v2) | Cross-cutting CDR | 1 |
+| 2025 | [Prospective life cycle assessment of megatonne-scale direct air carbon capture and storage via calcium-looping](https://doi.org/10.26434/chemrxiv-2025-8zjlg) | DAC | 0 |
 
 ## External Profiles
 

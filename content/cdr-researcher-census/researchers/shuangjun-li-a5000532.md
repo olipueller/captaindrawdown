@@ -1,7 +1,7 @@
 ---
 title: "Shuangjun Li"
-description: "Shuangjun Li is a Senior General CDR researcher at Korea University in KR. With 131 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:04+00:00
+description: "Shuangjun Li is a Senior DAC researcher at Korea University in KR. With 131 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/shuangjun-li-a5000532/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Korea University · 🇰🇷 KR
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 
@@ -50,16 +50,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Papers counted in the census {#papers}
 
-6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 6, DAC 5, BECCS 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 5, BECCS 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Accelerating widespread adoption of direct air capture based on system perspective: Thermodynamic limits, geographical deployment, and clean energy integration](https://doi.org/10.1016/j.rser.2026.116702) | DAC; General CDR | 9 |
-| 2025 | [Direct air capture-assisted sustainable fuel solution in maritime sector: a carbon footprint perspective](https://doi.org/10.1007/s44246-025-00209-5) | DAC; General CDR | 10 |
-| 2025 | [Mapping innovations in direct air capture: A systematic patent review and literature comparison](https://doi.org/10.1016/j.rser.2025.116491) | DAC; General CDR | 7 |
-| 2024 | [Solar thermal energy-assisted direct capture of CO2 from ambient air for methanol synthesis](https://doi.org/10.1038/s44296-024-00014-y) | DAC; General CDR | 33 |
-| 2023 | [Can bioenergy with carbon capture and storage deliver negative emissions? A critical review of life cycle assessment](https://doi.org/10.1016/j.jclepro.2023.139839) | BECCS; General CDR | 36 |
-| 2022 | [Energetic and Life Cycle Assessment of Direct Air Capture: A Review](https://doi.org/10.1016/j.spc.2022.12.017) | DAC; General CDR | 52 |
+| 2026 | [Accelerating widespread adoption of direct air capture based on system perspective: Thermodynamic limits, geographical deployment, and clean energy integration](https://doi.org/10.1016/j.rser.2026.116702) | DAC | 9 |
+| 2025 | [Direct air capture-assisted sustainable fuel solution in maritime sector: a carbon footprint perspective](https://doi.org/10.1007/s44246-025-00209-5) | DAC | 10 |
+| 2025 | [Mapping innovations in direct air capture: A systematic patent review and literature comparison](https://doi.org/10.1016/j.rser.2025.116491) | DAC | 7 |
+| 2024 | [Solar thermal energy-assisted direct capture of CO2 from ambient air for methanol synthesis](https://doi.org/10.1038/s44296-024-00014-y) | DAC | 33 |
+| 2023 | [Can bioenergy with carbon capture and storage deliver negative emissions? A critical review of life cycle assessment](https://doi.org/10.1016/j.jclepro.2023.139839) | BECCS | 36 |
+| 2022 | [Energetic and Life Cycle Assessment of Direct Air Capture: A Review](https://doi.org/10.1016/j.spc.2022.12.017) | DAC | 52 |
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Simon H. Pang"
-description: "Simon H. Pang is a Senior General CDR researcher at Lawrence Livermore National Laboratory in US. With 99 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:04+00:00
+description: "Simon H. Pang is a Senior DAC researcher at Lawrence Livermore National Laboratory in US. With 99 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/simon-h-pang-a5037709/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Lawrence Livermore National Laboratory · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 
@@ -50,19 +50,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Papers counted in the census {#papers}
 
-9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 7, DAC 5. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 5, Cross-cutting CDR 4. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [The Potential and Cost of Carbon Dioxide Removal Using Direct Air Capture with Land-Based Wind and Utility-Scale Photovoltaics](https://doi.org/10.1021/acs.est.5c14628) | DAC; General CDR | 4 |
+| 2026 | [The Potential and Cost of Carbon Dioxide Removal Using Direct Air Capture with Land-Based Wind and Utility-Scale Photovoltaics](https://doi.org/10.1021/acs.est.5c14628) | DAC | 4 |
 | 2026 | [Development of Next-Generation Additive Chemistry for Direct Air Capture Sorbents (CRADA Final Report)](https://openalex.org/W7133842789) | DAC | 0 |
 | 2026 | [Improving Performance and Cost of Direct Air Capture in Dynamic Conditions through Modeling and System Design](https://openalex.org/W7171874060) | DAC | 0 |
-| 2025 | [Application of Solid-Supported Amines for Thermocatalytic Reactive CO<sub>2</sub> Capture](https://doi.org/10.1021/acsomega.4c10049) | DAC; General CDR | 16 |
-| 2025 | [Land-based resources for engineered carbon dioxide removal in the United States exceed the expected needs](https://doi.org/10.1016/j.oneear.2025.101349) | General CDR | 4 |
-| 2025 | [Universities must lead capacity building in carbon dioxide removal](https://doi.org/10.1038/s44359-025-00039-z) | General CDR | 0 |
-| 2025 | [Direct Air Reactive Capture and Conversion for Utility-Scale Energy Storage (Final Report)](https://doi.org/10.2172/3012480) | DAC; General CDR | 0 |
-| 2023 | [Roads to Removal: Options for Carbon Dioxide Removal in the United States](https://doi.org/10.2172/2301853) | General CDR | 61 |
-| 2022 | [Initial Considerations for Large-Scale Carbon Removal in the United States](https://doi.org/10.2172/1867535) | General CDR | 0 |
+| 2025 | [Application of Solid-Supported Amines for Thermocatalytic Reactive CO<sub>2</sub> Capture](https://doi.org/10.1021/acsomega.4c10049) | DAC | 16 |
+| 2025 | [Land-based resources for engineered carbon dioxide removal in the United States exceed the expected needs](https://doi.org/10.1016/j.oneear.2025.101349) | Cross-cutting CDR | 4 |
+| 2025 | [Universities must lead capacity building in carbon dioxide removal](https://doi.org/10.1038/s44359-025-00039-z) | Cross-cutting CDR | 0 |
+| 2025 | [Direct Air Reactive Capture and Conversion for Utility-Scale Energy Storage (Final Report)](https://doi.org/10.2172/3012480) | DAC | 0 |
+| 2023 | [Roads to Removal: Options for Carbon Dioxide Removal in the United States](https://doi.org/10.2172/2301853) | Cross-cutting CDR | 61 |
+| 2022 | [Initial Considerations for Large-Scale Carbon Removal in the United States](https://doi.org/10.2172/1867535) | Cross-cutting CDR | 0 |
 
 ## External Profiles
 

@@ -106,10 +106,6 @@ The same view, one pathway at a time. Younger pathways (enhanced weathering, oce
 
 ![Ocean CDR researcher trajectory](/charts/census-trajectory-ocean-cdr.png)
 
-**Soil Carbon**
-
-![Soil Carbon researcher trajectory](/charts/census-trajectory-soil-carbon.png)
-
 ---
 
 > **Data sources** — LinkedIn size bands and other staff signals for the EU SME size classes (per-company headcounts are licensed data and are not published); WHOIS for domain-creation years (used as a founding-year proxy); OpenAlex for the publication backbone behind the CDR Researcher Census; and the [CDR Company Directory](/directory/) itself for the company entries underneath every chart. Liveliness tiers are re-evaluated monthly off the stored signals. The same data, versioned and citable: [captaindrawdown.com/data](/data/). If you spot an error, write to [info@carbon-drawdown.de](mailto:info@carbon-drawdown.de) or ping us on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social); corrections appear in the next data release.

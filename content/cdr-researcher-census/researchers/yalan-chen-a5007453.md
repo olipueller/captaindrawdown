@@ -1,7 +1,7 @@
 ---
 title: "Yalan Chen"
 description: "Yalan Chen is a Senior Biochar researcher at Beijing Normal University in CN. With 76 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:04+00:00
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/yalan-chen-a5007453/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,23 +50,22 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Papers counted in the census {#papers}
 
-13 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 12, Soil Carbon 11. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+12 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 12. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [High-Dose Biochar Hinders Micro/Nanoplastic-Induced Soil Positive Priming by Reducing Substrate Quality and Microbial Activity](https://doi.org/10.1021/acs.est.5c11467) | Soil Carbon | 9 |
-| 2026 | [Fourteen-year field evidence reveals superior co-benefits of biochar in immobilizing heavy metals and sequestering carbon](https://doi.org/10.1007/s42773-025-00553-0) | Biochar; Soil Carbon | 7 |
-| 2025 | [Aggregate size mediates the stability and temperature sensitivity of soil organic carbon in response to decadal biochar and straw amendments](https://doi.org/10.1016/j.soilbio.2025.109969) | Biochar; Soil Carbon | 20 |
-| 2025 | [Biochar and straw application reshape organic carbon pool via altering soil carbon pump function based on a decadal field experiment](https://doi.org/10.1016/j.still.2025.106662) | Biochar; Soil Carbon | 11 |
-| 2025 | [Aggregate size mediates temperature sensitivity of soil organic matter decomposition in response to soil management](https://doi.org/10.5194/egusphere-egu25-2684) | Biochar; Soil Carbon | 0 |
-| 2024 | [Microbially Driven Iron Cycling Facilitates Organic Carbon Accrual in Decadal Biochar-Amended Soil](https://doi.org/10.1021/acs.est.3c09003) | Biochar; Soil Carbon | 82 |
-| 2024 | [Biochar as a green solution to drive the soil carbon pump](https://doi.org/10.1007/s44246-024-00132-1) | Biochar; Soil Carbon | 29 |
-| 2023 | [Effects of biochar on the accumulation of necromass-derived carbon, the physical protection and microbial mineralization of soil organic carbon](https://doi.org/10.1080/10643389.2023.2221155) | Biochar; Soil Carbon | 129 |
-| 2022 | [Biochar stability and impact on soil organic carbon mineralization depend on biochar processing, aging and soil clay content](https://doi.org/10.1016/j.soilbio.2022.108657) | Biochar; Soil Carbon | 274 |
-| 2022 | [Changes in soil properties and CO2 emissions after biochar addition: Role of pyrolysis temperature and aging](https://doi.org/10.1016/j.scitotenv.2022.156333) | Biochar; Soil Carbon | 78 |
+| 2026 | [Fourteen-year field evidence reveals superior co-benefits of biochar in immobilizing heavy metals and sequestering carbon](https://doi.org/10.1007/s42773-025-00553-0) | Biochar | 7 |
+| 2025 | [Aggregate size mediates the stability and temperature sensitivity of soil organic carbon in response to decadal biochar and straw amendments](https://doi.org/10.1016/j.soilbio.2025.109969) | Biochar | 20 |
+| 2025 | [Biochar and straw application reshape organic carbon pool via altering soil carbon pump function based on a decadal field experiment](https://doi.org/10.1016/j.still.2025.106662) | Biochar | 11 |
+| 2025 | [Aggregate size mediates temperature sensitivity of soil organic matter decomposition in response to soil management](https://doi.org/10.5194/egusphere-egu25-2684) | Biochar | 0 |
+| 2024 | [Microbially Driven Iron Cycling Facilitates Organic Carbon Accrual in Decadal Biochar-Amended Soil](https://doi.org/10.1021/acs.est.3c09003) | Biochar | 82 |
+| 2024 | [Biochar as a green solution to drive the soil carbon pump](https://doi.org/10.1007/s44246-024-00132-1) | Biochar | 29 |
+| 2023 | [Effects of biochar on the accumulation of necromass-derived carbon, the physical protection and microbial mineralization of soil organic carbon](https://doi.org/10.1080/10643389.2023.2221155) | Biochar | 129 |
+| 2022 | [Biochar stability and impact on soil organic carbon mineralization depend on biochar processing, aging and soil clay content](https://doi.org/10.1016/j.soilbio.2022.108657) | Biochar | 274 |
+| 2022 | [Changes in soil properties and CO2 emissions after biochar addition: Role of pyrolysis temperature and aging](https://doi.org/10.1016/j.scitotenv.2022.156333) | Biochar | 78 |
 | 2022 | [The preferential preservation of both different minerals and polyethylene microplastics on aromatic or aliphatic carbon fractions within low or high pyrolysis temperature biochar under mineralization](https://doi.org/10.1016/j.rser.2022.112963) | Biochar | 8 |
 | 2022 | [The Role of Minerals and Polyethylene Microplastics in Microbial Mineralization of Biochar at Different Pyrolysis Temperatures: Molecular Fractionation and Microbial Community Shift](https://doi.org/10.2139/ssrn.4167068) | Biochar | 0 |
-| 2021 | [Soil Clay Content, Biochar Production Temperature and Aging Affected Biochar Stability and its Priming Effect on Soil Organic Carbon Mineralization](https://doi.org/10.2139/ssrn.3981407) | Biochar; Soil Carbon | 0 |
+| 2021 | [Soil Clay Content, Biochar Production Temperature and Aging Affected Biochar Stability and its Priming Effect on Soil Organic Carbon Mineralization](https://doi.org/10.2139/ssrn.3981407) | Biochar | 0 |
 
 ## External Profiles
 

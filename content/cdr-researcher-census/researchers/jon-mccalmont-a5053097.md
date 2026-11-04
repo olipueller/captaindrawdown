@@ -1,7 +1,7 @@
 ---
 title: "Jon McCalmont"
 description: "Jon McCalmont is a Senior BECCS researcher at University of Aberdeen in GB. With 63 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:05+00:00
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/jon-mccalmont-a5053097/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,18 +50,15 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 
 ## Papers counted in the census {#papers}
 
-8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 5, Soil Carbon 4, General CDR 3. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+5 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 5. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2025 | [Effect of tillage method on early root growth of <i>Miscanthus</i>](https://doi.org/10.1111/aab.70006) | BECCS; Soil Carbon | 3 |
-| 2025 | [Assessing the Sustainability of Miscanthus and Willow as Global Bioenergy Crops: Current and Future Climate Conditions (Part 2)](https://doi.org/10.20944/preprints202504.2510.v1) | BECCS; General CDR | 1 |
-| 2025 | [Dynamics of <i>Miscanthus</i> spp. Overwinter Leaf Litter Drop and Decomposition](https://doi.org/10.1111/gcbb.70091) | General CDR; Soil Carbon | 1 |
-| 2024 | [Early impacts of marginal land‐use transition to<i>Miscanthus</i>on soil quality and soil carbon storage across Europe](https://doi.org/10.1111/gcbb.13145) | Soil Carbon | 8 |
+| 2025 | [Effect of tillage method on early root growth of <i>Miscanthus</i>](https://doi.org/10.1111/aab.70006) | BECCS | 3 |
+| 2025 | [Assessing the Sustainability of Miscanthus and Willow as Global Bioenergy Crops: Current and Future Climate Conditions (Part 2)](https://doi.org/10.20944/preprints202504.2510.v1) | BECCS | 1 |
 | 2023 | [Perennial biomass cropping and use: Shaping the policy ecosystem in European countries](https://doi.org/10.1111/gcbb.13038) | BECCS | 56 |
 | 2023 | [Novel Miscanthus hybrids: Modelling productivity on marginal land in Europe using dynamics of canopy development determined by light interception](https://doi.org/10.1111/gcbb.13029) | BECCS | 20 |
-| 2022 | [CO2 fluxes from three different temperate grazed pastures using Eddy covariance measurements](https://doi.org/10.1016/j.scitotenv.2022.154819) | Soil Carbon | 17 |
-| 2022 | [Comparing miscanthus hybrids &amp;#8211; growth and environmental impacts](https://doi.org/10.5194/egusphere-egu22-170) | BECCS; General CDR | 0 |
+| 2022 | [Comparing miscanthus hybrids &amp;#8211; growth and environmental impacts](https://doi.org/10.5194/egusphere-egu22-170) | BECCS | 0 |
 
 ## External Profiles
 

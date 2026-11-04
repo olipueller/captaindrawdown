@@ -1,7 +1,7 @@
 ---
 title: "Éder C. Lima"
 description: "Éder C. Lima is an Eminent Biochar researcher at Universidade Federal do Rio Grande do Sul in BR. With 495 publications and an h-index of 98, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:04+00:00
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/eder-c-lima-a5011032/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Cheng‐Di Dong"
 description: "Cheng‐Di Dong is an Eminent Biochar researcher at National Kaohsiung University of Science and Technology in TW. With 553 publications and an h-index of 75, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:04+00:00
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/chengdi-dong-a5015918/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Papers counted in the census {#papers}
 
-17 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 17, Ocean CDR 2, Soil Carbon 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+17 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 17, Ocean CDR 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
@@ -70,7 +70,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2022 | [Metal-free single heteroatom (N, O, and B)-doped coconut-shell biochar for enhancing the degradation of sulfathiazole antibiotics by peroxymonosulfate and its effects on bacterial community dynamics](https://doi.org/10.1016/j.envpol.2022.119984) | Biochar | 41 |
 | 2022 | [Performance and bacterial community dynamics of lignin-based biochar-coupled calcium peroxide pretreatment of waste-activated sludge for the removal of 4-nonylphenol](https://openalex.org/W4223960969) | Biochar | 36 |
 | 2022 | [Recent Development of Algal Biochar for Contaminant Remediation and Energy Application: A State-of-the Art Review](https://doi.org/10.1007/s40726-022-00243-6) | Biochar | 28 |
-| 2021 | [The Role of Biochar in Regulating the Carbon, Phosphorus, and Nitrogen Cycles Exemplified by Soil Systems](https://doi.org/10.3390/su13105612) | Biochar; Soil Carbon | 112 |
+| 2021 | [The Role of Biochar in Regulating the Carbon, Phosphorus, and Nitrogen Cycles Exemplified by Soil Systems](https://doi.org/10.3390/su13105612) | Biochar | 112 |
 
 ## External Profiles
 

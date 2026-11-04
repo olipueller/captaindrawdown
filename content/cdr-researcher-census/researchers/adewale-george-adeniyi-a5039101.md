@@ -1,7 +1,7 @@
 ---
 title: "Adewale George Adeniyi"
 description: "Adewale George Adeniyi is an Eminent Biochar researcher at University of Ilorin in NG. With 319 publications and an h-index of 53, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:04+00:00
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/adewale-george-adeniyi-a5039101/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "N. L. Janaki"
 description: "N. L. Janaki is an Early-career BECCS researcher at Government of Andhra Pradesh in IN. With 3 publications and an h-index of N/A, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:05+00:00
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/n-l-janaki-a5132958/"
 layout: "researcher"
 hiddenInHomeList: true

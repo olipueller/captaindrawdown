@@ -1,7 +1,7 @@
 ---
 title: "Jihui Li"
 description: "Jihui Li is a Senior Biochar researcher at Hainan University in CN. With 145 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:04+00:00
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/jihui-li-a5071052/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Papers counted in the census {#papers}
 
-9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 9, Soil Carbon 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 9. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
@@ -61,7 +61,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2024 | [Oxidative hydrothermal carbonization to fabricate versatile magnetic biochar for Fenton-like degradation of phenolic compounds](https://doi.org/10.1016/j.jece.2024.114822) | Biochar | 17 |
 | 2024 | [Preparation of highly adsorptive biochar by sequential iron impregnation under refluxing and pyrolysis at low temperature for removal of tetracycline](https://openalex.org/W4393321328) | Biochar | 15 |
 | 2022 | [Generalists and specialists decomposing labile and aromatic biochar compounds and sequestering carbon in soil](https://doi.org/10.1016/j.geoderma.2022.116176) | Biochar | 36 |
-| 2021 | [Association of biochar properties with changes in soil bacterial, fungal and fauna communities and nutrient cycling processes](https://doi.org/10.1007/s42773-021-00099-x) | Biochar; Soil Carbon | 380 |
+| 2021 | [Association of biochar properties with changes in soil bacterial, fungal and fauna communities and nutrient cycling processes](https://doi.org/10.1007/s42773-021-00099-x) | Biochar | 380 |
 | 2021 | [Highly adsorptive pristine and magnetic biochars prepared from crayfish shell for removal of Cu(II) and Pb(II)](https://doi.org/10.1016/j.jtice.2021.08.004) | Biochar | 58 |
 
 ## External Profiles

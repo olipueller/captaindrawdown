@@ -1,7 +1,7 @@
 ---
 title: "Mahboob Alam"
 description: "Mahboob Alam is a Senior Biochar researcher at King Edward Medical University in PK. With 242 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:04+00:00
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/mahboob-alam-a5069819/"
 layout: "researcher"
 hiddenInHomeList: true

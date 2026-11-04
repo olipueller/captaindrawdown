@@ -1,89 +1,89 @@
 rank,rank_by_activity,activity_score,name,orcid,institution,institution_source,country_code,region,cdr_papers_2021_2026,papers_2021,papers_2022,papers_2023,papers_2024,papers_2025,papers_2026,cdr_citations,h_index_all_fields,profile_url,openalex_id
-1,385,1.42,Ahmed I. Osman,https://orcid.org/0000-0003-2788-7839,Canterbury Christ Church University,works,GB,Europe (non-EU),3,0,2,0,1,0,0,805,87,https://captaindrawdown.com/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/,https://openalex.org/A5035770796
+1,385,1.42,Ahmed I. Osman,https://orcid.org/0000-0003-2788-7839,Canterbury Christ Church University,works,GB,Europe (non-EU),3,0,2,0,1,0,0,805,87,,https://openalex.org/A5035770796
 2,386,1.42,David W. Rooney,https://orcid.org/0000-0001-5036-2497,Queen's University Belfast,orcid,GB,Europe (non-EU),3,0,2,0,1,0,0,805,91,,https://openalex.org/A5103043754
 3,111,2.53,Marco Mazzotti,https://orcid.org/0000-0002-4948-6705,ETH Zurich,works,CH,Europe (non-EU),6,3,2,0,0,1,0,567,87,https://captaindrawdown.com/cdr-researcher-census/researchers/marco-mazzotti-a5038211/,https://openalex.org/A5038211904
-4,120,2.42,Lorenzo Rosa,https://orcid.org/0000-0002-1280-9945,Carnegie Institution for Science,works,US,United States,6,2,2,2,0,0,0,554,40,https://captaindrawdown.com/cdr-researcher-census/researchers/lorenzo-rosa-a5027453/,https://openalex.org/A5027453034
+4,120,2.42,Lorenzo Rosa,https://orcid.org/0000-0002-1280-9945,Carnegie Institution for Science,works,US,United States,6,2,2,2,0,0,0,554,40,,https://openalex.org/A5027453034
 5,2,7.48,Philippe Ciais,https://orcid.org/0000-0001-8560-4943,Laboratoire des Sciences du Climat et de l'Environnement,works_raw,FR,EU27,15,5,3,3,1,2,1,470,224,https://captaindrawdown.com/cdr-researcher-census/researchers/philippe-ciais-a5070378/,https://openalex.org/A5070378593
 6,49,3.3,Pietro Bartocci,https://orcid.org/0000-0002-9888-6852,RISE Research Institutes of Sweden,orcid,SE,EU27,7,1,3,2,0,1,0,432,45,https://captaindrawdown.com/cdr-researcher-census/researchers/pietro-bartocci-a5082211/,https://openalex.org/A5082211504
-7,165,2.01,Francesco Fantozzi,https://orcid.org/0000-0002-8674-8364,University of Perugia,works,IT,EU27,5,1,3,1,0,0,0,431,45,https://captaindrawdown.com/cdr-researcher-census/researchers/francesco-fantozzi-a5081259/,https://openalex.org/A5081259562
+7,165,2.01,Francesco Fantozzi,https://orcid.org/0000-0002-8674-8364,University of Perugia,works,IT,EU27,5,1,3,1,0,0,0,431,45,,https://openalex.org/A5081259562
 8,294,1.61,Haiping Yang,https://orcid.org/0000-0002-8323-8879,State Key Laboratory of Coal Combustion,works_raw,CN,China,4,1,2,1,0,0,0,429,88,https://captaindrawdown.com/cdr-researcher-census/researchers/haiping-yang-a5024934/,https://openalex.org/A5024934519
 9,606,1.03,Mohamed Farghali,https://orcid.org/0000-0003-4135-2750,Kobe University,orcid,JP,Japan,2,0,1,0,1,0,0,426,44,,https://openalex.org/A5073724480
-10,2228,0.71,Hanping Chen,,Huazhong University of Science and Technology,works,CN,China,2,1,1,0,0,0,0,408,95,https://captaindrawdown.com/cdr-researcher-census/researchers/hanping-chen-a5007450/,https://openalex.org/A5007450053
+10,2235,0.71,Hanping Chen,,Huazhong University of Science and Technology,works,CN,China,2,1,1,0,0,0,0,408,95,https://captaindrawdown.com/cdr-researcher-census/researchers/hanping-chen-a5007450/,https://openalex.org/A5007450053
 11,301,1.61,Hewen Zhou,https://orcid.org/0009-0009-2765-5369,Harvard University,openalex,US,United States,3,1,0,1,0,1,0,407,14,,https://openalex.org/A5064117773
 12,587,1.11,Qing Yang,https://orcid.org/0000-0003-4251-554X,Harvard University,orcid,US,United States,2,1,0,0,0,1,0,407,46,,https://openalex.org/A5100605776
-13,3791,0.31,Chris Nielsen,https://orcid.org/0000-0001-8043-2409,Harvard University,openalex,US,United States,1,1,0,0,0,0,0,402,48,,https://openalex.org/A5047617913
-14,3792,0.31,Chuguang Zheng,,Huazhong University of Science and Technology,openalex,CN,China,1,1,0,0,0,0,0,402,75,,https://openalex.org/A5100294714
-15,3793,0.31,Foster A. Agblevor,https://orcid.org/0000-0001-8177-3977,Utah State University,openalex,US,United States,1,1,0,0,0,0,0,402,50,,https://openalex.org/A5001408775
-16,3794,0.31,G.Q. Chen,https://orcid.org/0000-0003-1173-6796,King Abdulaziz University ,orcid,SA,Rest of world,1,1,0,0,0,0,0,402,75,,https://openalex.org/A5057491110
-17,3795,0.31,Michael B. McElroy,https://orcid.org/0000-0002-1354-167X,Planetary Science Institute,openalex,US,United States,1,1,0,0,0,0,0,402,94,,https://openalex.org/A5100443893
-18,3796,0.31,Ondřej Mašek,https://orcid.org/0000-0003-0713-766X,University of Edinburgh,works,GB,Europe (non-EU),1,1,0,0,0,0,0,402,65,https://captaindrawdown.com/cdr-researcher-census/researchers/ondrej-masek-a5087096/,https://openalex.org/A5087096764
-19,3797,0.31,Xi Lu,https://orcid.org/0000-0002-5063-3776,Tsinghua University,orcid,CN,China,1,1,0,0,0,0,0,402,50,,https://openalex.org/A5005558847
-20,3798,0.31,Zhiyu Wei,,Huazhong University of Science and Technology,openalex,CN,China,1,1,0,0,0,0,0,402,3,,https://openalex.org/A5014773948
-21,3374,0.4,Ala’a H. Al‐Muhtaseb,https://orcid.org/0000-0003-0114-077X,Sultan Qaboos University,orcid,OM,Rest of world,1,0,1,0,0,0,0,379,79,,https://openalex.org/A5088902167
-22,3375,0.4,Asma Sarwer,,COMSATS University Islamabad,openalex,PK,Rest of world,1,0,1,0,0,0,0,379,4,,https://openalex.org/A5000091375
-23,3376,0.4,Farrukh Jamil,https://orcid.org/0000-0001-9901-4258,COMSATS University Islamabad - Lahore Campus,orcid,PK,Rest of world,1,0,1,0,0,0,0,379,39,,https://openalex.org/A5027227085
-24,3377,0.4,Farrukh Jamil,https://orcid.org/0000-0002-3590-6529,COMSATS University Islamabad,orcid,PK,Rest of world,1,0,1,0,0,0,0,379,17,,https://openalex.org/A5035608164
-25,3378,0.4,Nawaf S. Alhajeri,https://orcid.org/0000-0003-0785-8491,Kuwait University,openalex,KW,Rest of world,1,0,1,0,0,0,0,379,19,,https://openalex.org/A5000829346
-26,3379,0.4,Seham M. Hamed,https://orcid.org/0000-0002-6697-3572,Imam Mohammad ibn Saud Islamic University,openalex,SA,Rest of world,1,0,1,0,0,0,0,379,18,,https://openalex.org/A5007312912
+13,3799,0.31,Chris Nielsen,https://orcid.org/0000-0001-8043-2409,Harvard University,openalex,US,United States,1,1,0,0,0,0,0,402,48,,https://openalex.org/A5047617913
+14,3800,0.31,Chuguang Zheng,,Huazhong University of Science and Technology,openalex,CN,China,1,1,0,0,0,0,0,402,75,,https://openalex.org/A5100294714
+15,3801,0.31,Foster A. Agblevor,https://orcid.org/0000-0001-8177-3977,Utah State University,openalex,US,United States,1,1,0,0,0,0,0,402,50,,https://openalex.org/A5001408775
+16,3802,0.31,G.Q. Chen,https://orcid.org/0000-0003-1173-6796,King Abdulaziz University ,orcid,SA,Rest of world,1,1,0,0,0,0,0,402,75,,https://openalex.org/A5057491110
+17,3803,0.31,Michael B. McElroy,https://orcid.org/0000-0002-1354-167X,Planetary Science Institute,openalex,US,United States,1,1,0,0,0,0,0,402,94,,https://openalex.org/A5100443893
+18,3804,0.31,Ondřej Mašek,https://orcid.org/0000-0003-0713-766X,University of Edinburgh,works,GB,Europe (non-EU),1,1,0,0,0,0,0,402,65,https://captaindrawdown.com/cdr-researcher-census/researchers/ondrej-masek-a5087096/,https://openalex.org/A5087096764
+19,3805,0.31,Xi Lu,https://orcid.org/0000-0002-5063-3776,Tsinghua University,orcid,CN,China,1,1,0,0,0,0,0,402,50,,https://openalex.org/A5005558847
+20,3806,0.31,Zhiyu Wei,,Huazhong University of Science and Technology,openalex,CN,China,1,1,0,0,0,0,0,402,3,,https://openalex.org/A5014773948
+21,3382,0.4,Ala’a H. Al‐Muhtaseb,https://orcid.org/0000-0003-0114-077X,Sultan Qaboos University,orcid,OM,Rest of world,1,0,1,0,0,0,0,379,79,,https://openalex.org/A5088902167
+22,3383,0.4,Asma Sarwer,,COMSATS University Islamabad,openalex,PK,Rest of world,1,0,1,0,0,0,0,379,4,,https://openalex.org/A5000091375
+23,3384,0.4,Farrukh Jamil,https://orcid.org/0000-0001-9901-4258,COMSATS University Islamabad - Lahore Campus,orcid,PK,Rest of world,1,0,1,0,0,0,0,379,39,,https://openalex.org/A5027227085
+24,3385,0.4,Farrukh Jamil,https://orcid.org/0000-0002-3590-6529,COMSATS University Islamabad,orcid,PK,Rest of world,1,0,1,0,0,0,0,379,17,,https://openalex.org/A5035608164
+25,3386,0.4,Nawaf S. Alhajeri,https://orcid.org/0000-0003-0785-8491,Kuwait University,openalex,KW,Rest of world,1,0,1,0,0,0,0,379,19,,https://openalex.org/A5000829346
+26,3387,0.4,Seham M. Hamed,https://orcid.org/0000-0002-6697-3572,Imam Mohammad ibn Saud Islamic University,openalex,SA,Rest of world,1,0,1,0,0,0,0,379,18,,https://openalex.org/A5007312912
 27,41,3.43,Oliviér Boucher,https://orcid.org/0000-0003-2328-5769,Institut Pierre-Simon Laplace,orcid,FR,EU27,8,3,3,1,0,1,0,376,114,https://captaindrawdown.com/cdr-researcher-census/researchers/olivier-boucher-a5077051/,https://openalex.org/A5077051671
 28,379,1.44,Muhammad Shahbaz,https://orcid.org/0000-0003-2295-8167,Teesside University,orcid,GB,Europe (non-EU),3,1,0,1,1,0,0,375,46,,https://openalex.org/A5015276325
 29,380,1.44,Tareq Al‐Ansari,https://orcid.org/0000-0002-2932-8240,Hamad bin Khalifa University,works,QA,Rest of world,3,1,0,1,1,0,0,375,62,https://captaindrawdown.com/cdr-researcher-census/researchers/tareq-alansari-a5086098/,https://openalex.org/A5086098688
 30,5,5.66,Niall Mac Dowell,https://orcid.org/0000-0002-0207-2900,Imperial College London,works,GB,Europe (non-EU),12,5,4,1,0,0,2,370,56,https://captaindrawdown.com/cdr-researcher-census/researchers/niall-mac-dowell-a5002701/,https://openalex.org/A5002701966
-31,166,2.01,Francesco Cherubini,https://orcid.org/0000-0002-7147-4292,Norwegian University of Science and Technology,works,NO,Europe (non-EU),5,1,3,1,0,0,0,349,65,https://captaindrawdown.com/cdr-researcher-census/researchers/francesco-cherubini-a5074207/,https://openalex.org/A5074207705
-32,1255,0.81,Ahmed AlNouss,https://orcid.org/0000-0001-8044-2316,Hamad bin Khalifa University,openalex,QA,Rest of world,2,1,0,1,0,0,0,349,26,,https://openalex.org/A5082948571
+31,166,2.01,Francesco Cherubini,https://orcid.org/0000-0002-7147-4292,Norwegian University of Science and Technology,works,NO,Europe (non-EU),5,1,3,1,0,0,0,349,65,,https://openalex.org/A5074207705
+32,1262,0.81,Ahmed AlNouss,https://orcid.org/0000-0001-8044-2316,Hamad bin Khalifa University,openalex,QA,Rest of world,2,1,0,1,0,0,0,349,26,,https://openalex.org/A5082948571
 33,28,4.13,Alexander Popp,https://orcid.org/0000-0001-9500-1986,Potsdam Institute for Climate Impact Research,orcid,DE,EU27,6,2,0,1,0,0,3,324,92,https://captaindrawdown.com/cdr-researcher-census/researchers/alexander-popp-a5088947/,https://openalex.org/A5088947425
 34,132,2.32,Nico Bauer,https://orcid.org/0000-0002-0211-4162,Potsdam Institute for Climate Impact Research,works,DE,EU27,5,2,1,1,0,1,0,311,56,https://captaindrawdown.com/cdr-researcher-census/researchers/nico-bauer-a5055801/,https://openalex.org/A5055801778
 35,9,5.28,Göran Berndes,https://orcid.org/0000-0003-1126-6835,Chalmers University of Technology,works,SE,EU27,9,1,4,0,0,3,1,298,52,https://captaindrawdown.com/cdr-researcher-census/researchers/goran-berndes-a5088119/,https://openalex.org/A5088119435
 36,40,3.47,Daniel L. Sanchez,https://orcid.org/0000-0001-9281-5685,"University of California, Berkeley",works,US,United States,7,3,1,1,1,0,1,296,29,https://captaindrawdown.com/cdr-researcher-census/researchers/daniel-l-sanchez-a5016864/,https://openalex.org/A5016864843
-37,3799,0.31,Gordon McKay,https://orcid.org/0000-0001-9965-7659,Hamad Bin Khalifa University College of Science and Engineering,orcid,QA,Rest of world,1,1,0,0,0,0,0,283,124,,https://openalex.org/A5022819682
-38,3800,0.31,Hamish R. Mackey,https://orcid.org/0000-0002-4593-0944,University of Canterbury,openalex,NZ,Australia & New Zealand,1,1,0,0,0,0,0,283,50,,https://openalex.org/A5032149149
-39,3801,0.31,Ikhlas Ghiat,https://orcid.org/0000-0002-4421-9413,Hamad Bin Khalifa University,orcid,QA,Rest of world,1,1,0,0,0,0,0,283,12,,https://openalex.org/A5037973198
-40,3802,0.31,Samar Elkhalifa,https://orcid.org/0000-0002-2534-6919,Hamad bin Khalifa University,openalex,QA,Rest of world,1,1,0,0,0,0,0,283,10,,https://openalex.org/A5009498039
+37,3807,0.31,Gordon McKay,https://orcid.org/0000-0001-9965-7659,Hamad Bin Khalifa University College of Science and Engineering,orcid,QA,Rest of world,1,1,0,0,0,0,0,283,124,,https://openalex.org/A5022819682
+38,3808,0.31,Hamish R. Mackey,https://orcid.org/0000-0002-4593-0944,University of Canterbury,openalex,NZ,Australia & New Zealand,1,1,0,0,0,0,0,283,50,,https://openalex.org/A5032149149
+39,3809,0.31,Ikhlas Ghiat,https://orcid.org/0000-0002-4421-9413,Hamad Bin Khalifa University,orcid,QA,Rest of world,1,1,0,0,0,0,0,283,12,,https://openalex.org/A5037973198
+40,3810,0.31,Samar Elkhalifa,https://orcid.org/0000-0002-2534-6919,Hamad bin Khalifa University,openalex,QA,Rest of world,1,1,0,0,0,0,0,283,10,,https://openalex.org/A5009498039
 41,94,2.64,Mathilde Fajardy,https://orcid.org/0000-0002-9837-8065,University of Cambridge,orcid,GB,Europe (non-EU),7,3,3,1,0,0,0,280,18,https://captaindrawdown.com/cdr-researcher-census/researchers/mathilde-fajardy-a5027334/,https://openalex.org/A5027334693
-42,295,1.61,Ilman Nuran Zaini,https://orcid.org/0000-0002-4047-5444,Bandung Institute of Technology,works,ID,Rest of world,4,1,2,1,0,0,0,278,29,https://captaindrawdown.com/cdr-researcher-census/researchers/ilman-nuran-zaini-a5028840/,https://openalex.org/A5028840714
-43,296,1.61,Weihong Yang,https://orcid.org/0000-0002-1837-5439,KTH Royal Institute of Technology,works,SE,EU27,4,1,2,1,0,0,0,278,59,https://captaindrawdown.com/cdr-researcher-census/researchers/weihong-yang-a5052836/,https://openalex.org/A5052836752
+42,295,1.61,Ilman Nuran Zaini,https://orcid.org/0000-0002-4047-5444,Bandung Institute of Technology,works,ID,Rest of world,4,1,2,1,0,0,0,278,29,,https://openalex.org/A5028840714
+43,296,1.61,Weihong Yang,https://orcid.org/0000-0002-1837-5439,KTH Royal Institute of Technology,works,SE,EU27,4,1,2,1,0,0,0,278,59,,https://openalex.org/A5052836752
 44,27,4.14,Thomas Gasser,https://orcid.org/0000-0003-4882-2647,International Institute for Applied Systems Analysis,orcid,AT,EU27,8,2,2,1,1,2,0,265,49,https://captaindrawdown.com/cdr-researcher-census/researchers/thomas-gasser-a5062044/,https://openalex.org/A5062044999
-45,205,1.97,Rong Wang,https://orcid.org/0000-0003-1962-0165,Fudan University,works,CN,China,4,1,1,0,2,0,0,265,44,https://captaindrawdown.com/cdr-researcher-census/researchers/rong-wang-a5100324/,https://openalex.org/A5100324905
-46,206,1.97,Siqing Xu,https://orcid.org/0009-0005-4075-0476,Abu Dhabi National Oil (United Arab Emirates),works,AE,Rest of world,4,1,1,0,2,0,0,265,8,https://captaindrawdown.com/cdr-researcher-census/researchers/siqing-xu-a5101093/,https://openalex.org/A5101093754
+45,205,1.97,Rong Wang,https://orcid.org/0000-0003-1962-0165,Fudan University,works,CN,China,4,1,1,0,2,0,0,265,44,,https://openalex.org/A5100324905
+46,206,1.97,Siqing Xu,https://orcid.org/0009-0005-4075-0476,Abu Dhabi National Oil (United Arab Emirates),works,AE,Rest of world,4,1,1,0,2,0,0,265,8,,https://openalex.org/A5101093754
 47,207,1.97,Xiaofan Xing,https://orcid.org/0000-0002-0334-6408,Hefei University of Technology,openalex,CN,China,4,1,1,0,2,0,0,265,11,,https://openalex.org/A5036107976
 48,447,1.34,Jianmin Chen,https://orcid.org/0000-0001-5859-3070,Fudan University,orcid,CN,China,3,1,1,0,1,0,0,261,121,,https://openalex.org/A5100665512
 49,448,1.34,Josep Peñuelas,https://orcid.org/0000-0002-7215-0150,Consejo Superior de Investigaciones Científicas,orcid,ES,EU27,3,1,1,0,1,0,0,261,189,https://captaindrawdown.com/cdr-researcher-census/researchers/josep-penuelas-a5016893/,https://openalex.org/A5016893899
 50,449,1.34,Xu Tang,https://orcid.org/0000-0001-6274-2753,Fudan University,orcid,CN,China,3,1,1,0,1,0,0,261,22,,https://openalex.org/A5002207077
-51,2229,0.71,Ivan A. Janssens,https://orcid.org/0000-0002-5705-1787,University of Antwerp,works,BE,EU27,2,1,1,0,0,0,0,250,123,https://captaindrawdown.com/cdr-researcher-census/researchers/ivan-a-janssens-a5013418/,https://openalex.org/A5013418538
-52,2230,0.71,James H. Clark,https://orcid.org/0000-0002-5860-2480,Univrsity of York,orcid,GB,Europe (non-EU),2,1,1,0,0,0,0,250,108,,https://openalex.org/A5007470779
-53,2231,0.71,Junji Cao,https://orcid.org/0000-0003-1000-7241,Institute of Atmospheric Physics Chinese Academy of Sciences,orcid,CN,China,2,1,1,0,0,0,0,250,123,,https://openalex.org/A5000320455
-54,2232,0.71,Lin Wang,https://orcid.org/0000-0002-4905-3432,Fudan University,orcid,CN,China,2,1,1,0,0,0,0,250,69,,https://openalex.org/A5100403169
-55,2233,0.71,Yves Balkanski,https://orcid.org/0000-0001-8241-2858,Institut Pascal,orcid,FR,EU27,2,1,1,0,0,0,0,250,82,,https://openalex.org/A5011809404
+51,2236,0.71,Ivan A. Janssens,https://orcid.org/0000-0002-5705-1787,University of Antwerp,works,BE,EU27,2,1,1,0,0,0,0,250,123,https://captaindrawdown.com/cdr-researcher-census/researchers/ivan-a-janssens-a5013418/,https://openalex.org/A5013418538
+52,2237,0.71,James H. Clark,https://orcid.org/0000-0002-5860-2480,Univrsity of York,orcid,GB,Europe (non-EU),2,1,1,0,0,0,0,250,108,,https://openalex.org/A5007470779
+53,2238,0.71,Junji Cao,https://orcid.org/0000-0003-1000-7241,Institute of Atmospheric Physics Chinese Academy of Sciences,orcid,CN,China,2,1,1,0,0,0,0,250,123,,https://openalex.org/A5000320455
+54,2239,0.71,Lin Wang,https://orcid.org/0000-0002-4905-3432,Fudan University,orcid,CN,China,2,1,1,0,0,0,0,250,69,,https://openalex.org/A5100403169
+55,2240,0.71,Yves Balkanski,https://orcid.org/0000-0001-8241-2858,Institut Pascal,orcid,FR,EU27,2,1,1,0,0,0,0,250,82,,https://openalex.org/A5011809404
 56,604,1.03,Mirjam Röder,https://orcid.org/0000-0002-8021-3078,Aston University,orcid,GB,Europe (non-EU),3,2,1,0,0,0,0,228,25,,https://openalex.org/A5033669466
-57,2304,0.63,Ahmed K. Rashwan,https://orcid.org/0000-0002-9318-5256,Qena University,orcid,EG,Rest of world,1,0,0,0,1,0,0,223,29,,https://openalex.org/A5065290004
-58,2305,0.63,Bingbing Fang,,Xinjiang Medical University,openalex,CN,China,1,0,0,0,1,0,0,223,6,,https://openalex.org/A5111766758
-59,2306,0.63,Ikko Ihara,https://orcid.org/0000-0003-1887-0162,Kobe University,orcid,JP,Japan,1,0,0,0,1,0,0,223,33,,https://openalex.org/A5024902001
-60,2307,0.63,Jiacheng Yu,https://orcid.org/0000-0003-3860-4232,Tianjin University,openalex,CN,China,1,0,0,0,1,0,0,223,12,,https://openalex.org/A5051997611
-61,2308,0.63,Lin Chen,https://orcid.org/0009-0009-0631-1575,Guizhou University,orcid,CN,China,1,0,0,0,1,0,0,223,40,,https://openalex.org/A5100443832
-62,2309,0.63,Pow‐Seng Yap,,Taylor's University,openalex,MY,Rest of world,1,0,0,0,1,0,0,223,63,,https://openalex.org/A5021385259
-63,2310,0.63,Yubin Zhang,https://orcid.org/0000-0002-5367-4119,Ningbo University,openalex,CN,China,1,0,0,0,1,0,0,223,20,,https://openalex.org/A5100700238
-64,2311,0.63,Yunfei Liu,https://orcid.org/0000-0003-0725-7258,Nanjing Forestry University,orcid,CN,China,1,0,0,0,1,0,0,223,37,,https://openalex.org/A5100704151
-65,2312,0.63,Zhonghao Chen,https://orcid.org/0000-0002-7056-9222,Westlake University,orcid,CN,China,1,0,0,0,1,0,0,223,36,,https://openalex.org/A5001616465
-66,98,2.63,Wenjia Cai,https://orcid.org/0000-0002-4436-512X,Tsinghua University,orcid,CN,China,4,2,0,0,0,0,2,221,58,,https://openalex.org/A5016144119
+57,2311,0.63,Ahmed K. Rashwan,https://orcid.org/0000-0002-9318-5256,Qena University,orcid,EG,Rest of world,1,0,0,0,1,0,0,223,29,,https://openalex.org/A5065290004
+58,2312,0.63,Bingbing Fang,,Xinjiang Medical University,openalex,CN,China,1,0,0,0,1,0,0,223,6,,https://openalex.org/A5111766758
+59,2313,0.63,Ikko Ihara,https://orcid.org/0000-0003-1887-0162,Kobe University,orcid,JP,Japan,1,0,0,0,1,0,0,223,33,,https://openalex.org/A5024902001
+60,2314,0.63,Jiacheng Yu,https://orcid.org/0000-0003-3860-4232,Tianjin University,openalex,CN,China,1,0,0,0,1,0,0,223,12,,https://openalex.org/A5051997611
+61,2315,0.63,Lin Chen,https://orcid.org/0009-0009-0631-1575,Guizhou University,orcid,CN,China,1,0,0,0,1,0,0,223,40,,https://openalex.org/A5100443832
+62,2316,0.63,Pow‐Seng Yap,,Taylor's University,openalex,MY,Rest of world,1,0,0,0,1,0,0,223,63,,https://openalex.org/A5021385259
+63,2317,0.63,Yubin Zhang,https://orcid.org/0000-0002-5367-4119,Ningbo University,openalex,CN,China,1,0,0,0,1,0,0,223,20,,https://openalex.org/A5100700238
+64,2318,0.63,Yunfei Liu,https://orcid.org/0000-0003-0725-7258,Nanjing Forestry University,orcid,CN,China,1,0,0,0,1,0,0,223,37,,https://openalex.org/A5100704151
+65,2319,0.63,Zhonghao Chen,https://orcid.org/0000-0002-7056-9222,Westlake University,orcid,CN,China,1,0,0,0,1,0,0,223,36,,https://openalex.org/A5001616465
+66,98,2.63,Wenjia Cai,https://orcid.org/0000-0002-4436-512X,Tsinghua University,works,CN,China,4,2,0,0,0,0,2,221,58,https://captaindrawdown.com/cdr-researcher-census/researchers/wenjia-cai-a5016144/,https://openalex.org/A5016144119
 67,283,1.63,Can Wang,https://orcid.org/0000-0002-1136-792X,Tsinghua University,openalex,CN,China,3,2,0,0,0,0,1,221,66,,https://openalex.org/A5100428567
 68,528,1.19,Yuan Yao,https://orcid.org/0000-0001-9359-2030,Yale University,orcid,US,United States,2,0,1,0,0,1,0,219,36,,https://openalex.org/A5000537533
 69,10,5.0,Mohamed Pourkashanian,https://orcid.org/0000-0002-8399-5351,University of Sheffield,works,GB,Europe (non-EU),9,2,1,1,3,2,0,218,71,https://captaindrawdown.com/cdr-researcher-census/researchers/mohamed-pourkashanian-a5052499/,https://openalex.org/A5052499598
 70,88,2.77,Ángel Galán‐Martín,https://orcid.org/0000-0002-1209-0985,Universidad de Jaén,works,ES,EU27,6,3,1,0,1,1,0,218,28,https://captaindrawdown.com/cdr-researcher-census/researchers/angel-galanmartin-a5067787/,https://openalex.org/A5067787980
-71,136,2.29,Filip Johnsson,https://orcid.org/0000-0003-3106-5379,Chalmers University of Technology,works,SE,EU27,7,6,1,0,0,0,0,216,72,https://captaindrawdown.com/cdr-researcher-census/researchers/filip-johnsson-a5027528/,https://openalex.org/A5027528063
+71,136,2.29,Filip Johnsson,https://orcid.org/0000-0003-3106-5379,Chalmers University of Technology,works,SE,EU27,7,6,1,0,0,0,0,216,72,,https://openalex.org/A5027528063
 72,297,1.61,Otávio Cavalett,https://orcid.org/0000-0003-4805-2881,Laboratório Nacional de Ciência e Tecnologia do Bioetanol,openalex,BR,Rest of world,4,1,2,1,0,0,0,215,45,,https://openalex.org/A5024402134
 73,95,2.64,D.B. Ingham,https://orcid.org/0000-0002-4633-0852,University of Sheffield,works,GB,Europe (non-EU),5,1,1,1,1,1,0,206,69,https://captaindrawdown.com/cdr-researcher-census/researchers/db-ingham-a5039105/,https://openalex.org/A5039105160
 74,96,2.64,Kevin J. Hughes,https://orcid.org/0000-0002-5273-6998,University of Sheffield,works,GB,Europe (non-EU),5,1,1,1,1,1,0,206,43,https://captaindrawdown.com/cdr-researcher-census/researchers/kevin-j-hughes-a5049610/,https://openalex.org/A5049610374
 75,97,2.64,Stavros Michailos,https://orcid.org/0000-0002-8507-5225,University of Hull,works,GB,Europe (non-EU),5,1,1,1,1,1,0,206,24,https://captaindrawdown.com/cdr-researcher-census/researchers/stavros-michailos-a5052441/,https://openalex.org/A5052441020
 76,384,1.42,Katherine Calvin,https://orcid.org/0000-0003-2191-4189,Pacific Northwest National Laboratory,orcid,US,United States,4,2,2,0,0,0,0,206,72,,https://openalex.org/A5029098577
 77,21,4.5,Mathias Fridahl,https://orcid.org/0000-0002-1912-5538,Linköping University,works,SE,EU27,9,3,2,1,2,0,1,203,26,https://captaindrawdown.com/cdr-researcher-census/researchers/mathias-fridahl-a5081929/,https://openalex.org/A5081929312
-78,3380,0.4,Kazutaka Umetsu,,Obihiro University of Agriculture and Veterinary Medicine,openalex,JP,Japan,1,0,1,0,0,0,0,203,30,,https://openalex.org/A5113812768
+78,3388,0.4,Kazutaka Umetsu,,Obihiro University of Agriculture and Veterinary Medicine,openalex,JP,Japan,1,0,1,0,0,0,0,203,30,,https://openalex.org/A5113812768
 79,113,2.44,Daniel S. Goll,https://orcid.org/0000-0001-9246-9671,Laboratoire des Sciences du Climat et de l’Environnement,works_raw,FR,EU27,5,3,0,1,0,0,1,199,58,https://captaindrawdown.com/cdr-researcher-census/researchers/daniel-s-goll-a5063381/,https://openalex.org/A5063381462
-80,3803,0.31,Alexandre Babin,https://orcid.org/0000-0002-0157-4327,University of British Columbia,openalex,CA,Canada,1,1,0,0,0,0,0,199,7,,https://openalex.org/A5081732156
-81,3804,0.31,Céline Vaneeckhaute,https://orcid.org/0000-0001-5148-8091,Université Laval,openalex,CA,Canada,1,1,0,0,0,0,0,199,29,,https://openalex.org/A5025215230
-82,3805,0.31,Maria C. Iliuta,https://orcid.org/0000-0002-7710-1593,Université Laval,openalex,CA,Canada,1,1,0,0,0,0,0,199,43,,https://openalex.org/A5076481670
+80,3811,0.31,Alexandre Babin,https://orcid.org/0000-0002-0157-4327,University of British Columbia,openalex,CA,Canada,1,1,0,0,0,0,0,199,7,,https://openalex.org/A5081732156
+81,3812,0.31,Céline Vaneeckhaute,https://orcid.org/0000-0001-5148-8091,Université Laval,openalex,CA,Canada,1,1,0,0,0,0,0,199,29,,https://openalex.org/A5025215230
+82,3813,0.31,Maria C. Iliuta,https://orcid.org/0000-0002-7710-1593,Université Laval,openalex,CA,Canada,1,1,0,0,0,0,0,199,43,,https://openalex.org/A5076481670
 83,91,2.74,Gonzalo Guillén‐Gosálbez,https://orcid.org/0000-0001-6074-8473,ETH Zurich,orcid,CH,Europe (non-EU),6,3,2,0,0,0,1,197,60,https://captaindrawdown.com/cdr-researcher-census/researchers/gonzalo-guillengosalbez-a5059336/,https://openalex.org/A5059336153
-84,204,1.97,Clair Gough,https://orcid.org/0000-0001-5063-9425,University of Manchester,works,GB,Europe (non-EU),5,3,1,0,1,0,0,193,30,https://captaindrawdown.com/cdr-researcher-census/researchers/clair-gough-a5052404/,https://openalex.org/A5052404379
-85,115,2.42,Wei Li,https://orcid.org/0000-0003-2543-2558,Tsinghua University,works,CN,China,5,2,0,2,0,1,0,192,54,https://captaindrawdown.com/cdr-researcher-census/researchers/wei-li-a5100318/,https://openalex.org/A5100318412
+84,204,1.97,Clair Gough,https://orcid.org/0000-0001-5063-9425,University of Manchester,works,GB,Europe (non-EU),5,3,1,0,1,0,0,193,30,,https://openalex.org/A5052404379
+85,115,2.42,Wei Li,https://orcid.org/0000-0003-2543-2558,Tsinghua University,works,CN,China,5,2,0,2,0,1,0,192,54,,https://openalex.org/A5100318412
 86,499,1.26,Bohong Wang,https://orcid.org/0000-0003-1206-475X,Zhejiang Ocean University,orcid,CN,China,2,0,0,0,2,0,0,190,40,,https://openalex.org/A5022265396
 87,500,1.26,Farooq Sher,https://orcid.org/0000-0003-2890-5912,Nottingham Trent University,openalex,GB,Europe (non-EU),2,0,0,0,2,0,0,190,77,,https://openalex.org/A5038687492
 88,501,1.26,Irfan Ul Hai,https://orcid.org/0000-0002-1083-6499,Nottingham Trent University,openalex,GB,Europe (non-EU),2,0,0,0,2,0,0,190,8,,https://openalex.org/A5042802523
@@ -92,7 +92,7 @@ rank,rank_by_activity,activity_score,name,orcid,institution,institution_source,c
 91,504,1.26,Narcisa Smječanin Omerbegović,,University of Sarajevo,openalex,BA,Rest of world,2,0,0,0,2,0,0,190,2,,https://openalex.org/A5114542631
 92,505,1.26,Saman Hameed,https://orcid.org/0000-0003-3112-0446,University of Leeds,openalex,GB,Europe (non-EU),2,0,0,0,2,0,0,190,9,,https://openalex.org/A5069979727
 93,506,1.26,Yew Heng Teoh,https://orcid.org/0000-0003-1524-5214,Universiti Sains Malaysia Kampus Kejuruteraan,orcid,MY,Rest of world,2,0,0,0,2,0,0,190,32,,https://openalex.org/A5086572843
-94,3806,0.31,Yuwei Weng,https://orcid.org/0000-0002-2341-2740,Tsinghua University,openalex,CN,China,1,1,0,0,0,0,0,185,7,,https://openalex.org/A5044770276
+94,3814,0.31,Yuwei Weng,https://orcid.org/0000-0002-2341-2740,Tsinghua University,openalex,CN,China,1,1,0,0,0,0,0,185,7,,https://openalex.org/A5044770276
 95,39,3.48,Pete Smith,https://orcid.org/0000-0002-3784-1124,University of Aberdeen,works,GB,Europe (non-EU),6,2,0,0,2,2,0,181,172,https://captaindrawdown.com/cdr-researcher-census/researchers/pete-smith-a5028843/,https://openalex.org/A5028843362
 96,7,5.54,Martin Junginger,https://orcid.org/0000-0002-5010-2051,Utrecht University,works,NL,EU27,9,1,2,0,2,4,0,179,68,https://captaindrawdown.com/cdr-researcher-census/researchers/martin-junginger-a5070296/,https://openalex.org/A5070296717
 97,18,4.81,Florian Humpenöder,https://orcid.org/0000-0003-2927-9407,Potsdam Institute for Climate Impact Research,works,DE,EU27,6,1,0,1,0,0,4,178,52,https://captaindrawdown.com/cdr-researcher-census/researchers/florian-humpenoder-a5060104/,https://openalex.org/A5060104770

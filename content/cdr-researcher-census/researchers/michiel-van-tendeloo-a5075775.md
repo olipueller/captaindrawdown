@@ -1,7 +1,7 @@
 ---
 title: "Michiel Van Tendeloo"
 description: "Michiel Van Tendeloo is a Mid-career Enhanced Weathering researcher at University of Antwerp in BE. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:05+00:00
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/michiel-van-tendeloo-a5075775/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,18 +50,18 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 ## Papers counted in the census {#papers}
 
-8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 8, General CDR 5, Biochar 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 8, Biochar 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2025 | [Microbial dissolution of Gran Canaria lapilli in small-scale flow through columns: carbon dioxide removal potential](https://doi.org/10.1038/s41529-025-00611-9) | Enhanced Weathering | 1 |
 | 2025 | [Alkalinity production and carbon capture from dunite weathering: Individual effects of oxalate, citrate, and EDTA salts](https://doi.org/10.1016/j.ceja.2025.100902) | Enhanced Weathering | 1 |
-| 2025 | [Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment](https://doi.org/10.12688/openreseurope.19252.1) | Enhanced Weathering; General CDR | 0 |
+| 2025 | [Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment](https://doi.org/10.12688/openreseurope.19252.1) | Enhanced Weathering | 0 |
 | 2025 | [Economic feasibility of a novel bio-accelerated silicate weathering reactor concept for climate change mitigation](https://doi.org/10.1016/j.ijggc.2025.104412) | Enhanced Weathering | 0 |
-| 2025 | [Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment](https://openalex.org/W4411985761) | Biochar; Enhanced Weathering; General CDR | 0 |
-| 2024 | [Organic carbon source controlled microbial olivine dissolution in small-scale flow-through bioreactors, for CO2 removal](https://doi.org/10.1038/s41529-024-00454-w) | Enhanced Weathering; General CDR | 16 |
-| 2024 | [How earthworms thrive and drive silicate rock weathering in an artificial organo-mineral system](https://doi.org/10.1016/j.apgeochem.2024.106271) | Enhanced Weathering; General CDR | 8 |
-| 2023 | [Design and Construction of an Experimental Setup to Enhance Mineral Weathering through the Activity of Soil Organisms](https://doi.org/10.3791/65563) | Enhanced Weathering; General CDR | 10 |
+| 2025 | [Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment](https://openalex.org/W4411985761) | Biochar; Enhanced Weathering | 0 |
+| 2024 | [Organic carbon source controlled microbial olivine dissolution in small-scale flow-through bioreactors, for CO2 removal](https://doi.org/10.1038/s41529-024-00454-w) | Enhanced Weathering | 16 |
+| 2024 | [How earthworms thrive and drive silicate rock weathering in an artificial organo-mineral system](https://doi.org/10.1016/j.apgeochem.2024.106271) | Enhanced Weathering | 8 |
+| 2023 | [Design and Construction of an Experimental Setup to Enhance Mineral Weathering through the Activity of Soil Organisms](https://doi.org/10.3791/65563) | Enhanced Weathering | 10 |
 
 ## External Profiles
 

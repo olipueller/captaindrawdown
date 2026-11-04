@@ -1,7 +1,7 @@
 ---
 title: "Quinn Zacharias"
 description: "Quinn Zacharias is an Early-career Enhanced Weathering researcher at Yale University in US. With 10 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:05+00:00
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/quinn-zacharias-a5086059/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,18 +47,18 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 ## Papers counted in the census {#papers}
 
-8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 8, Soil Carbon 4, General CDR 3. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 8. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Spatiotemporal soil fertility responses to enhanced rock weathering along a hillslope catena within a temperate, agricultural watershed](https://doi.org/10.1007/s10705-026-10476-2) | Enhanced Weathering; Soil Carbon | 3 |
-| 2026 | [Evaluating trace-metal responses to field deployment of enhanced rock weathering across agricultural and riparian soils](https://doi.org/10.70212/cdrxiv.2026463.v1) | Enhanced Weathering; General CDR | 1 |
-| 2026 | [Repurposing enhanced rock weathering for brownfield cleanup: a practical carbonate–silicate remineralization method for stabilizing cationic metals in shallow soils](https://openalex.org/W7146948541) | Enhanced Weathering; General CDR | 0 |
+| 2026 | [Spatiotemporal soil fertility responses to enhanced rock weathering along a hillslope catena within a temperate, agricultural watershed](https://doi.org/10.1007/s10705-026-10476-2) | Enhanced Weathering | 3 |
+| 2026 | [Evaluating trace-metal responses to field deployment of enhanced rock weathering across agricultural and riparian soils](https://doi.org/10.70212/cdrxiv.2026463.v1) | Enhanced Weathering | 1 |
+| 2026 | [Repurposing enhanced rock weathering for brownfield cleanup: a practical carbonate–silicate remineralization method for stabilizing cationic metals in shallow soils](https://openalex.org/W7146948541) | Enhanced Weathering | 0 |
 | 2026 | [Repurposing Enhanced Rock Weathering for Cationic‐Metal Stabilization: A Nature‐Based Protocol for Contaminated‐Soil Remediation](https://openalex.org/W7211865998) | Enhanced Weathering | 0 |
 | 2026 | [Multiple lines of evidence reveal rapid, seasonal watershed responses to enhanced weathering](https://openalex.org/W7214892934) | Enhanced Weathering | 0 |
-| 2025 | [Spatiotemporal soil fertility responses to an enhanced rock weathering deployment within a temperate, agricultural watershed](https://doi.org/10.70212/cdrxiv.2025460.v1) | Enhanced Weathering; Soil Carbon | 0 |
-| 2024 | [Influence of Enhanced Silicate Weathering on Streamwater Quality: A Watershed Experiment](https://doi.org/10.5194/egusphere-egu24-756) | Enhanced Weathering; Soil Carbon | 0 |
-| 2024 | [Investigating terrestrial biogeochemical responses to enhanced rock weathering for carbon capture in a whole-watershed experiment](https://doi.org/10.5194/egusphere-egu24-780) | Enhanced Weathering; General CDR; Soil Carbon | 0 |
+| 2025 | [Spatiotemporal soil fertility responses to an enhanced rock weathering deployment within a temperate, agricultural watershed](https://doi.org/10.70212/cdrxiv.2025460.v1) | Enhanced Weathering | 0 |
+| 2024 | [Influence of Enhanced Silicate Weathering on Streamwater Quality: A Watershed Experiment](https://doi.org/10.5194/egusphere-egu24-756) | Enhanced Weathering | 0 |
+| 2024 | [Investigating terrestrial biogeochemical responses to enhanced rock weathering for carbon capture in a whole-watershed experiment](https://doi.org/10.5194/egusphere-egu24-780) | Enhanced Weathering | 0 |
 
 ## External Profiles
 

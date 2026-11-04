@@ -1,7 +1,7 @@
 ---
 title: "H.R. Nasriani"
 description: "H.R. Nasriani is a Mid-career DAC researcher at University of Lancashire in GB. With 8 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:05+00:00
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/hr-nasriani-a5140669/"
 layout: "researcher"
 hiddenInHomeList: true

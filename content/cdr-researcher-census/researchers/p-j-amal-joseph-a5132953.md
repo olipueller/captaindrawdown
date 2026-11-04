@@ -1,7 +1,7 @@
 ---
 title: "P. J. Amal Joseph"
-description: "P. J. Amal Joseph is an Early-career BECCS researcher at Mahatma Gandhi Medical College and Research Institute in IN. With 6 publications and an h-index of N/A, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:05+00:00
+description: "P. J. Amal Joseph is an Early-career BECCS researcher at Mahatma Gandhi Government Arts College, Mahe, Puducherry in IN. With 6 publications and an h-index of N/A, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/p-j-amal-joseph-a5132953/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/p-j-amal-joseph-a5132953/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Mahatma Gandhi Medical College and Research Institute"
+    "name": "Mahatma Gandhi Government Arts College, Mahe, Puducherry"
   },
   "sameAs": "https://openalex.org/A5132953010"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **P. J. Amal Joseph**  
-Mahatma Gandhi Medical College and Research Institute · 🇮🇳 IN
+Mahatma Gandhi Government Arts College, Mahe, Puducherry · 🇮🇳 IN
 
 **Career Stage:** Early-career
 

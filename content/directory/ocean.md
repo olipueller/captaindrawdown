@@ -30,6 +30,7 @@ Ocean Visions is a US-based science-focused nonprofit that catalyzes research, r
 
 ## History
 
+- **2026-11-04** — news mention: Questions raised by sinking seaweed: A Life Cycle Assessment of Macroalgae Cultivation and Sinking f ([source](https://www.researchsquare.com/article/rs-11595344/v1))
 - **2026-11-03** — news mention: 153rd Edition - by Delaney Demark - Seaking Blue ([source](https://seakingblue.substack.com/p/153rd-edition))
 - **2026-11-03** — news mention: #mcdr | Yale Center for Natural Carbon Capture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7523103543889809408/))
 - **2026-11-02** — news mention: Pronoe: ### BREAKING NEWS ### PRONOE is thrilled to announce the signing of a catalytic, Salesforce  ([source](https://www.linkedin.com/company/pronoe-earth/#post-83ad5055f2a2))
@@ -59,7 +60,6 @@ Ocean Visions is a US-based science-focused nonprofit that catalyzes research, r
 - **2026-10-20** — news mention: 152nd Edition - by Delaney Demark - Seaking Blue ([source](https://seakingblue.substack.com/p/152nd-edition))
 - **2026-10-20** — news mention: Inside the bold, quixotic quest to store planet-warming carbon in the ocean ([source](https://www.yahoo.com/news/science/articles/inside-bold-quixotic-quest-store-100000589.html))
 - **2026-10-20** — news mention: New Ocean Carbon Removal Watch Platform To Track The mCDR Field ([source](https://carbonherald.com/new-ocean-carbon-removal-watch-platform-to-track-the-mcdr-field/?utm_source=rss&utm_medium=rss&utm_campaign=new-ocean-carbon-removal-watch-platform-to-track-the-mcdr-field))
-- **2026-10-20** — news mention: Inside the bold, quixotic quest to store planet-warming carbon in the ocean | Scientific American ([source](https://www.scientificamerican.com/article/inside-the-bold-quixotic-quest-to-store-planet-warming-carbon-in-the-ocean/))
 
 ---
 

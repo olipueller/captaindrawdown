@@ -1,7 +1,7 @@
 ---
 title: "Katrin Sievert"
-description: "Katrin Sievert is a Mid-career General CDR researcher at ETH Zurich in CH. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:05+00:00
+description: "Katrin Sievert is a Mid-career DAC researcher at ETH Zurich in CH. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/katrin-sievert-a5094051/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ ETH Zurich · 🇨🇭 CH
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 
@@ -50,18 +50,18 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Papers counted in the census {#papers}
 
-8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 7, DAC 5, BECCS 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 5, Cross-cutting CDR 3, BECCS 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [How the EU can utilize its carbon market to scale up carbon dioxide removal](https://openalex.org/W7147027131) | BECCS; DAC; General CDR | 4 |
+| 2026 | [How the EU can utilize its carbon market to scale up carbon dioxide removal](https://openalex.org/W7147027131) | BECCS; DAC | 4 |
 | 2026 | [The Uncertain Policy Price of Scaling Direct Air Capture](https://openalex.org/W7139957052) | DAC | 0 |
-| 2026 | [How the EU can utilize its carbon market to scale up carbon dioxide removal](https://openalex.org/W7167668386) | General CDR | 0 |
-| 2025 | [(How to) avoid the inflationary labeling of emissions as “hard to abate”](https://doi.org/10.1016/j.joule.2025.102039) | General CDR | 8 |
-| 2025 | [Unpacking the bottlenecks of deploying Direct Air Capture at scale](https://doi.org/10.5194/egusphere-egu25-4158) | DAC; General CDR | 0 |
-| 2024 | [Considering technology characteristics to project future costs of direct air capture](https://doi.org/10.1016/j.joule.2024.02.005) | DAC; General CDR | 168 |
-| 2024 | [Utilizing CO<sub>2</sub> as a strategy to scale up direct air capture may face fewer short-term barriers than directly storing CO<sub>2</sub>](https://doi.org/10.1088/1748-9326/ad3b1f) | DAC; General CDR | 12 |
-| 2024 | [Sequencing Carbon Dioxide Removal into the EU ETS](https://doi.org/10.2139/ssrn.4875550) | General CDR | 10 |
+| 2026 | [How the EU can utilize its carbon market to scale up carbon dioxide removal](https://openalex.org/W7167668386) | Cross-cutting CDR | 0 |
+| 2025 | [(How to) avoid the inflationary labeling of emissions as “hard to abate”](https://doi.org/10.1016/j.joule.2025.102039) | Cross-cutting CDR | 8 |
+| 2025 | [Unpacking the bottlenecks of deploying Direct Air Capture at scale](https://doi.org/10.5194/egusphere-egu25-4158) | DAC | 0 |
+| 2024 | [Considering technology characteristics to project future costs of direct air capture](https://doi.org/10.1016/j.joule.2024.02.005) | DAC | 168 |
+| 2024 | [Utilizing CO<sub>2</sub> as a strategy to scale up direct air capture may face fewer short-term barriers than directly storing CO<sub>2</sub>](https://doi.org/10.1088/1748-9326/ad3b1f) | DAC | 12 |
+| 2024 | [Sequencing Carbon Dioxide Removal into the EU ETS](https://doi.org/10.2139/ssrn.4875550) | Cross-cutting CDR | 10 |
 
 ## External Profiles
 

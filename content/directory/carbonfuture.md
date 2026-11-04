@@ -36,6 +36,7 @@ Carbonfuture operates a digital Trust Infrastructure for durable carbon removal,
 
 ## History
 
+- **2026-11-04** — news mention: #nabc2026 #biocharconference #biochar #carbonremoval | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:share:7523766077823029248/))
 - **2026-11-03** — news mention: Terraton: Big news: Isometric has issued Terraton’s first carbon removal credits, from our facility  ([source](https://www.linkedin.com/company/terraton/#post-7f7eb454f249))
 - **2026-11-01** — news mention: Exomad Green and Carbonfuture announced an expansion of their partnership. According to the companie ([source](https://www.carbonfuture.earth/magazine/exomad-green-and-carbonfuture-expand-long-term-supply-as-buyers-prioritize-proven-delivery))
 - **2026-10-29** — news mention: Mel welcome | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7521554168847945728/))
@@ -67,7 +68,6 @@ We recently spent a few days in Denmark with Bigadan, filming a  ([source](https
 - **2026-09-16** — news mention: #climateweeknyc #cdr #climateaction #carbonremoval #netzero #climatetech | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:share:7505616459339825152/))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-09** — news mention: #carbonremoval #cdr #climateaction #decarbonization | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7503068809122160640/))
-- **2026-09-05** — news mention: #teamdays #carbonremoval #cdr #climateaction | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7501635658223124480/))
 
 ---
 

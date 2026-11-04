@@ -1,7 +1,7 @@
 ---
 title: "Rachel Silcox"
 description: "Rachel Silcox is a Mid-career Ocean CDR researcher at University of Michigan in US. With 27 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:19:05+00:00
+date: 2026-11-04T20:19:53+00:00
 url: "/cdr-researcher-census/researchers/rachel-silcox-a5014181/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 ## Papers counted in the census {#papers}
 
-9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 8, DAC 3, General CDR 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 8, DAC 3, Cross-cutting CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
@@ -60,8 +60,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | 2026 | [EffectivePrecipitateCleaning with a Reversible FlowCell Sustains Stable Energy Intensity for Oceanic CO<sub>2</sub> Removal](https://openalex.org/W7167475952) | Ocean CDR | 0 |
 | 2025 | [Modeling and Experimental Validation of Fouling Removal through Mass Transport Enhancement in a pH-Shifting Electrochemical Device for Oceanic CO <sub>2</sub> Removal](https://doi.org/10.1149/ma2025-02261471mtgabs) | DAC; Ocean CDR | 0 |
 | 2024 | [Demand-side flexibility enables cost savings in a reversible pH-swing electrochemical process for oceanic CO2 removal](http://dx.doi.org/10.1016/j.xcrp.2024.101884) | DAC; Ocean CDR | 9 |
-| 2024 | [In-Situ Visualization and Quantification of Precipitate Fouling on Gas-Diffusion Electrodes in Carbon-Containing and Ocean Water Electrolytes](https://doi.org/10.1149/ma2024-02493531mtgabs) | General CDR | 0 |
-| 2023 | [Modeling and Performance Projections of a Dual-Purpose CO<sub>2</sub> Capture and Energy Storage Device from Oceanwater](https://doi.org/10.1149/ma2023-02472398mtgabs) | DAC; General CDR; Ocean CDR | 1 |
+| 2024 | [In-Situ Visualization and Quantification of Precipitate Fouling on Gas-Diffusion Electrodes in Carbon-Containing and Ocean Water Electrolytes](https://doi.org/10.1149/ma2024-02493531mtgabs) | Cross-cutting CDR | 0 |
+| 2023 | [Modeling and Performance Projections of a Dual-Purpose CO<sub>2</sub> Capture and Energy Storage Device from Oceanwater](https://doi.org/10.1149/ma2023-02472398mtgabs) | DAC; Ocean CDR | 1 |
 | 2023 | [Demand-Side Flexibility Enables Cost Savings for Oceanic CO&lt;sub&gt;2&lt;/sub&gt; Removal: Performance Predictions of a Reversible pH-Swing Electrochemical Process](http://dx.doi.org/10.2139/ssrn.4530814) | Ocean CDR | 0 |
 
 ## External Profiles
