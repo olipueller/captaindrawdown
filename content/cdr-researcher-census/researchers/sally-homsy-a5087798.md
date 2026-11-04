@@ -1,7 +1,7 @@
 ---
 title: "Sally Homsy"
-description: "Sally Homsy is a Mid-career General CDR researcher at Government of the United States of America in US. With 31 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:33:00.060766
+description: "Sally Homsy is a Mid-career General CDR researcher at National Energy Technology Laboratory in US. With 31 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.325944
 url: "/cdr-researcher-census/researchers/sally-homsy-a5087798/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/sally-homsy-a5087798/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Government of the United States of America"
+    "name": "National Energy Technology Laboratory"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-2767-0031",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Sally Homsy**  
-Government of the United States of America · 🇺🇸 US
+National Energy Technology Laboratory · 🇺🇸 US
 
 **Career Stage:** Mid-career
 

@@ -1,7 +1,7 @@
 ---
 title: "Leon Merfort"
-description: "Leon Merfort is a Mid-career General CDR researcher at Leibniz Association in DE. With 51 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.246013
+description: "Leon Merfort is a Mid-career General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 51 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.314156
 url: "/cdr-researcher-census/researchers/leon-merfort-a5010129/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/leon-merfort-a5010129/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Leibniz Association"
+    "name": "Potsdam Institute for Climate Impact Research"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-1704-6892",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Leon Merfort**  
-Leibniz Association · 🇩🇪 DE
+Potsdam Institute for Climate Impact Research · 🇩🇪 DE
 
 **Career Stage:** Mid-career
 

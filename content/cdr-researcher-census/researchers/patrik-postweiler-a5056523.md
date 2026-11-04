@@ -1,7 +1,7 @@
 ---
 title: "Patrik Postweiler"
 description: "Patrik Postweiler is a Mid-career DAC researcher at RWTH Aachen University in DE. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:33:00.343376
+date: 2026-11-04T13:41:34.327374
 url: "/cdr-researcher-census/researchers/patrik-postweiler-a5056523/"
 layout: "researcher"
 hiddenInHomeList: true

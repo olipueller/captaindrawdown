@@ -1,7 +1,7 @@
 ---
 title: "Deborah S. Page‐Dumroese"
 description: "Deborah S. Page‐Dumroese is a Senior Biochar researcher at US Department of Agriculture Forest Service in US. With 198 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.063623
+date: 2026-11-04T13:41:34.294446
 url: "/cdr-researcher-census/researchers/deborah-s-pagedumroese-a5003426/"
 layout: "researcher"
 hiddenInHomeList: true

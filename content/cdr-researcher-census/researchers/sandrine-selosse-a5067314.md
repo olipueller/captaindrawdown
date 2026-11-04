@@ -1,7 +1,7 @@
 ---
 title: "Sandrine Selosse"
 description: "Sandrine Selosse is a Senior General CDR researcher at Mines Paris, Université PSL, Centre de Mathématiques Appliquées (CMA) in FR. With 252 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.239606
+date: 2026-11-04T13:41:34.313605
 url: "/cdr-researcher-census/researchers/sandrine-selosse-a5067314/"
 layout: "researcher"
 hiddenInHomeList: true

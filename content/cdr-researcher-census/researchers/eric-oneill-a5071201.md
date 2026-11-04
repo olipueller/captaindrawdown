@@ -1,7 +1,7 @@
 ---
 title: "Eric O’Neill"
-description: "Eric O’Neill is a Senior BECCS researcher at Mansfield University in US. With 52 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.179061
+description: "Eric O’Neill is a Senior BECCS researcher at University of Oxford in US. With 52 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.310802
 url: "/cdr-researcher-census/researchers/eric-oneill-a5071201/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/eric-oneill-a5071201/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Mansfield University"
+    "name": "University of Oxford"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-6895-413X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Eric O’Neill**  
-Mansfield University · 🇺🇸 US
+University of Oxford · 🇺🇸 US
 
 **Career Stage:** Senior
 

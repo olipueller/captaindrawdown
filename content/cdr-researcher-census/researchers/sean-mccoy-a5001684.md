@@ -1,7 +1,7 @@
 ---
 title: "Sean McCoy"
 description: "Sean McCoy is a Senior General CDR researcher at University of Calgary in CA. With 106 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.084741
+date: 2026-11-04T13:41:34.299523
 url: "/cdr-researcher-census/researchers/sean-mccoy-a5001684/"
 layout: "researcher"
 hiddenInHomeList: true

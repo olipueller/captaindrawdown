@@ -1,7 +1,7 @@
 ---
 title: "Iordanis Magiopoulos"
-description: "Iordanis Magiopoulos is a Mid-career Ocean CDR researcher. With 41 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.592871
+description: "Iordanis Magiopoulos is a Mid-career Ocean CDR researcher at Hellenic Centre for Marine Research in GR. With 41 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.321688
 url: "/cdr-researcher-census/researchers/iordanis-magiopoulos-a5069820/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Iordanis Magiopoulos",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/iordanis-magiopoulos-a5069820/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Hellenic Centre for Marine Research"
+  },
   "sameAs": [
     "https://orcid.org/0000-0001-6475-7326",
     "https://openalex.org/A5069820303"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Iordanis Magiopoulos**
+**Iordanis Magiopoulos**  
+Hellenic Centre for Marine Research · 🇬🇷 GR
 
 **Career Stage:** Mid-career
 

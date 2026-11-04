@@ -1,7 +1,7 @@
 ---
 title: "Erik Verbruggen"
 description: "Erik Verbruggen is an Eminent Enhanced Weathering researcher at University of Antwerp in BE. With 166 publications and an h-index of 46, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.031732
+date: 2026-11-04T13:41:34.275005
 url: "/cdr-researcher-census/researchers/erik-verbruggen-a5085648/"
 layout: "researcher"
 hiddenInHomeList: true

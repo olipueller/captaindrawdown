@@ -1,7 +1,7 @@
 ---
 title: "Nicoletta Brazzola"
-description: "Nicoletta Brazzola is a Mid-career General CDR researcher. With 21 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:33:00.045814
+description: "Nicoletta Brazzola is a Mid-career General CDR researcher at University of Oxford in GB. With 21 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.325806
 url: "/cdr-researcher-census/researchers/nicoletta-brazzola-a5030128/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Nicoletta Brazzola",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/nicoletta-brazzola-a5030128/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "University of Oxford"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-5041-9972",
     "https://openalex.org/A5030128980"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Nicoletta Brazzola**
+**Nicoletta Brazzola**  
+University of Oxford · 🇬🇧 GB
 
 **Career Stage:** Mid-career
 

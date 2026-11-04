@@ -1,7 +1,7 @@
 ---
 title: "Steef V. Hanssen"
 description: "Steef V. Hanssen is a Mid-career General CDR researcher at Radboud University Nijmegen in NL. With 45 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.114632
+date: 2026-11-04T13:41:34.303631
 url: "/cdr-researcher-census/researchers/steef-v-hanssen-a5085343/"
 layout: "researcher"
 hiddenInHomeList: true

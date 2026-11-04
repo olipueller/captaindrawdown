@@ -1,7 +1,7 @@
 ---
 title: "Jens Leifeld"
-description: "Jens Leifeld is an Eminent General CDR researcher at Federal Office for Agriculture in CH. With 297 publications and an h-index of 68, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.023194
+description: "Jens Leifeld is an Eminent General CDR researcher at Swiss Federal Institute for Forest, Snow and Landscape Research in CH. With 297 publications and an h-index of 68, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.261128
 url: "/cdr-researcher-census/researchers/jens-leifeld-a5078135/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jens-leifeld-a5078135/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Federal Office for Agriculture"
+    "name": "Swiss Federal Institute for Forest, Snow and Landscape Research"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-7245-9852",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Jens Leifeld**  
-Federal Office for Agriculture · 🇨🇭 CH
+Swiss Federal Institute for Forest, Snow and Landscape Research · 🇨🇭 CH
 
 **Career Stage:** Eminent
 

@@ -1,7 +1,7 @@
 ---
 title: "Maria Victoria Migo-Sumagang"
-description: "Maria Victoria Migo-Sumagang is a Mid-career General CDR researcher. With 36 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.549046
+description: "Maria Victoria Migo-Sumagang is a Mid-career General CDR researcher at University of the Philippines Los Baños in PH. With 36 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.320334
 url: "/cdr-researcher-census/researchers/maria-victoria-migo-sumagang-a5048614/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Maria Victoria Migo-Sumagang",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/maria-victoria-migo-sumagang-a5048614/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "University of the Philippines Los Ba\u00f1os"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-0695-4900",
     "https://openalex.org/A5048614269"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Maria Victoria Migo-Sumagang**
+**Maria Victoria Migo-Sumagang**  
+University of the Philippines Los Baños · 🇵🇭 PH
 
 **Career Stage:** Mid-career
 

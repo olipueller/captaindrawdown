@@ -1,7 +1,7 @@
 ---
 title: "Matthew Binsted"
 description: "Matthew Binsted is a Senior General CDR researcher at Joint Global Change Research Institute in US. With 87 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.207839
+date: 2026-11-04T13:41:34.312489
 url: "/cdr-researcher-census/researchers/matthew-binsted-a5032822/"
 layout: "researcher"
 hiddenInHomeList: true

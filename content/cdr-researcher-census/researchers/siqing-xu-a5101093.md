@@ -1,7 +1,7 @@
 ---
 title: "Siqing Xu"
-description: "Siqing Xu is a Mid-career General CDR researcher at Dubai Pharmacy College in AE. With 34 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.874753
+description: "Siqing Xu is a Mid-career General CDR researcher at LSCE in FR. With 34 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.324565
 url: "/cdr-researcher-census/researchers/siqing-xu-a5101093/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/siqing-xu-a5101093/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Dubai Pharmacy College"
+    "name": "LSCE"
   },
   "sameAs": [
     "https://orcid.org/0009-0005-4075-0476",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Siqing Xu**  
-Dubai Pharmacy College · 🇦🇪 AE
+LSCE · 🇫🇷 FR
 
 **Career Stage:** Mid-career
 

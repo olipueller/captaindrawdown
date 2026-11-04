@@ -1,7 +1,7 @@
 ---
 title: "Alix Vidal"
 description: "Alix Vidal is a Senior Enhanced Weathering researcher at Wageningen University & Research in NL. With 82 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.142722
+date: 2026-11-04T13:41:34.307611
 url: "/cdr-researcher-census/researchers/alix-vidal-a5059677/"
 layout: "researcher"
 hiddenInHomeList: true

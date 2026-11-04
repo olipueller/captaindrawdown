@@ -1,7 +1,7 @@
 ---
 title: "Lukas Marx"
-description: "Lukas Marx is a Mid-career Ocean CDR researcher at Marine and Freshwater Research Institute in IS. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:33:00.232304
+description: "Lukas Marx is a Mid-career Ocean CDR researcher at Röst Marine Research Center in IS. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.326851
 url: "/cdr-researcher-census/researchers/lukas-marx-a5002822/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/lukas-marx-a5002822/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Marine and Freshwater Research Institute"
+    "name": "R\u00f6st Marine Research Center"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-9864-3060",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Lukas Marx**  
-Marine and Freshwater Research Institute ·  IS
+Röst Marine Research Center ·  IS
 
 **Career Stage:** Mid-career
 

@@ -1,7 +1,7 @@
 ---
 title: "Michael Fuhr"
-description: "Michael Fuhr is a Mid-career Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.560841
+description: "Michael Fuhr is a Mid-career Ocean CDR researcher at Yale University in US. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.320654
 url: "/cdr-researcher-census/researchers/michael-fuhr-a5072752/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/michael-fuhr-a5072752/",
   "affiliation": {
     "@type": "Organization",
-    "name": "GEOMAR Helmholtz Centre for Ocean Research Kiel"
+    "name": "Yale University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-5169-6744",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Michael Fuhr**  
-GEOMAR Helmholtz Centre for Ocean Research Kiel · 🇩🇪 DE
+Yale University · 🇺🇸 US
 
 **Career Stage:** Mid-career
 

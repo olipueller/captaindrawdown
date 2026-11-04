@@ -1,7 +1,7 @@
 ---
 title: "Christina Larkin"
-description: "Christina Larkin is a Mid-career Enhanced Weathering researcher at Universidade de Brasília in BR. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.392904
+description: "Christina Larkin is a Mid-career Enhanced Weathering researcher at University of Southampton in GB. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.318165
 url: "/cdr-researcher-census/researchers/christina-larkin-a5074798/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/christina-larkin-a5074798/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Universidade de Bras\u00edlia"
+    "name": "University of Southampton"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-6420-0461",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Christina Larkin**  
-Universidade de Brasília · 🇧🇷 BR
+University of Southampton · 🇬🇧 GB
 
 **Career Stage:** Mid-career
 

@@ -1,7 +1,7 @@
 ---
 title: "Hirdan Katarina de Medeiros Costa"
-description: "Hirdan Katarina de Medeiros Costa is a Mid-career BECCS researcher at Universidade Estadual do Ceará in BR. With 57 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.290727
+description: "Hirdan Katarina de Medeiros Costa is a Mid-career BECCS researcher at Instituto Tecnológico de Aeronáutica - Campus de Fortaleza in BR. With 57 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.315549
 url: "/cdr-researcher-census/researchers/hirdan-katarina-de-medeiros-costa-a5070667/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/hirdan-katarina-de-medeiros-costa-a5070667/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Universidade Estadual do Cear\u00e1"
+    "name": "Instituto Tecnol\u00f3gico de Aeron\u00e1utica - Campus de Fortaleza"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-5106-6251",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Hirdan Katarina de Medeiros Costa**  
-Universidade Estadual do Ceará · 🇧🇷 BR
+Instituto Tecnológico de Aeronáutica - Campus de Fortaleza · 🇧🇷 BR
 
 **Career Stage:** Mid-career
 

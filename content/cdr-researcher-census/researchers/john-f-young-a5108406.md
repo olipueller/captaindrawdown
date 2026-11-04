@@ -1,7 +1,7 @@
 ---
 title: "John F. Young"
-description: "John F. Young is a Senior General CDR researcher. With 152 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.104028
+description: "John F. Young is a Senior General CDR researcher at Global Thermostat (United States) in GB. With 152 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.302455
 url: "/cdr-researcher-census/researchers/john-f-young-a5108406/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "John F. Young",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/john-f-young-a5108406/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Global Thermostat (United States)"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-7409-0702",
     "https://openalex.org/A5108406977"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**John F. Young**
+**John F. Young**  
+Global Thermostat (United States) · 🇬🇧 GB
 
 **Career Stage:** Senior
 

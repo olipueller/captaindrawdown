@@ -1,7 +1,7 @@
 ---
 title: "Miriam Seifert"
-description: "Miriam Seifert is a Mid-career Ocean CDR researcher at Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung in DE. With 38 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.670725
+description: "Miriam Seifert is a Mid-career Ocean CDR researcher at Universität Bremen in DE. With 38 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.322443
 url: "/cdr-researcher-census/researchers/miriam-seifert-a5036998/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/miriam-seifert-a5036998/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Alfred-Wegener-Institut Helmholtz-Zentrum f\u00fcr Polar- und Meeresforschung"
+    "name": "Universit\u00e4t Bremen"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-2570-5475",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Miriam Seifert**  
-Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung · 🇩🇪 DE
+Universität Bremen · 🇩🇪 DE
 
 **Career Stage:** Mid-career
 

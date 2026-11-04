@@ -1,7 +1,7 @@
 ---
 title: "Xiangtian Meng"
-description: "Xiangtian Meng is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 88 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.118510
+description: "Xiangtian Meng is a Senior Soil Carbon researcher at Tongji University in CN. With 88 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.304323
 url: "/cdr-researcher-census/researchers/xiangtian-meng-a5005225/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xiangtian-meng-a5005225/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Chinese Academy of Sciences"
+    "name": "Tongji University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-5153-1352",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Xiangtian Meng**  
-Chinese Academy of Sciences · 🇨🇳 CN
+Tongji University · 🇨🇳 CN
 
 **Career Stage:** Senior
 

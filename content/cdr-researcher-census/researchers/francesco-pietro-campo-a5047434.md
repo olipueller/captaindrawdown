@@ -1,7 +1,7 @@
 ---
 title: "Francesco Pietro Campo"
-description: "Francesco Pietro Campo is a Mid-career Ocean CDR researcher at Innovation Engineering (Italy) in IT. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.677350
+description: "Francesco Pietro Campo is a Mid-career Ocean CDR researcher at Politecnico di Milano in IT. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.322561
 url: "/cdr-researcher-census/researchers/francesco-pietro-campo-a5047434/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/francesco-pietro-campo-a5047434/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Innovation Engineering (Italy)"
+    "name": "Politecnico di Milano"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9459-6786",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Francesco Pietro Campo**  
-Innovation Engineering (Italy) · 🇮🇹 IT
+Politecnico di Milano · 🇮🇹 IT
 
 **Career Stage:** Mid-career
 

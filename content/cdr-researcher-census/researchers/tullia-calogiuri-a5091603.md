@@ -1,7 +1,7 @@
 ---
 title: "Tullia Calogiuri"
-description: "Tullia Calogiuri is a Mid-career Enhanced Weathering researcher at Wageningen University & Research in NL. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:33:00.366278
+description: "Tullia Calogiuri is a Mid-career Enhanced Weathering researcher at Wageningen University and Research in NL. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.327507
 url: "/cdr-researcher-census/researchers/tullia-calogiuri-a5091603/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/tullia-calogiuri-a5091603/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Wageningen University & Research"
+    "name": "Wageningen University and Research"
   },
   "sameAs": [
     "https://orcid.org/0009-0005-6059-1636",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Tullia Calogiuri**  
-Wageningen University & Research · 🇳🇱 NL
+Wageningen University and Research · 🇳🇱 NL
 
 **Career Stage:** Mid-career
 

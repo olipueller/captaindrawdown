@@ -1,7 +1,7 @@
 ---
 title: "Hassan Shokry"
 description: "Hassan Shokry is a Senior Biochar researcher at Egypt-Japan University of Science and Technology in EG. With 99 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.103526
+date: 2026-11-04T13:41:34.302326
 url: "/cdr-researcher-census/researchers/hassan-shokry-a5058291/"
 layout: "researcher"
 hiddenInHomeList: true

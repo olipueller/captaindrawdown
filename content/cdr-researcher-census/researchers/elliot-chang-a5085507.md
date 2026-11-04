@@ -1,7 +1,7 @@
 ---
 title: "Elliot Chang"
-description: "Elliot Chang is a Mid-career Enhanced Weathering researcher at Carbon180 in US. With 43 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.435018
+description: "Elliot Chang is a Mid-career Enhanced Weathering researcher at Lithos Carbon in US. With 43 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.318754
 url: "/cdr-researcher-census/researchers/elliot-chang-a5085507/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/elliot-chang-a5085507/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Carbon180"
+    "name": "Lithos Carbon"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-0304-399X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Elliot Chang**  
-Carbon180 · 🇺🇸 US
+Lithos Carbon · 🇺🇸 US
 
 **Career Stage:** Mid-career
 

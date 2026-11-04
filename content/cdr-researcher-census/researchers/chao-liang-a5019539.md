@@ -1,7 +1,7 @@
 ---
 title: "Chao Liang"
 description: "Chao Liang is an Eminent Soil Carbon researcher at Zhejiang A & F University in CN. With 301 publications and an h-index of 62, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.022438
+date: 2026-11-04T13:41:34.260242
 url: "/cdr-researcher-census/researchers/chao-liang-a5019539/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jacob S. Jordan"
 description: "Jacob S. Jordan is a Mid-career Enhanced Weathering researcher at Nano Carbon (Poland) in PL. With 56 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.466552
+date: 2026-11-04T13:41:34.319150
 url: "/cdr-researcher-census/researchers/jacob-s-jordan-a5091258/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Katharina Keiblinger"
-description: "Katharina Keiblinger is a Senior Soil Carbon researcher at Gregor Mendel Institute of Molecular Plant Biology in AT. With 175 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.043189
+description: "Katharina Keiblinger is a Senior Soil Carbon researcher at BOKU University in AT. With 175 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.285116
 url: "/cdr-researcher-census/researchers/katharina-keiblinger-a5001652/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/katharina-keiblinger-a5001652/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Gregor Mendel Institute of Molecular Plant Biology"
+    "name": "BOKU University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-4668-3866",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Katharina Keiblinger**  
-Gregor Mendel Institute of Molecular Plant Biology · 🇦🇹 AT
+BOKU University · 🇦🇹 AT
 
 **Career Stage:** Senior
 

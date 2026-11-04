@@ -1,7 +1,7 @@
 ---
 title: "Noah J. Planavsky"
-description: "Noah J. Planavsky is an Eminent Enhanced Weathering researcher at Planetary Science Institute in US. With 538 publications and an h-index of 85, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.018686
+description: "Noah J. Planavsky is an Eminent Enhanced Weathering researcher at University of California, Riverside in US. With 538 publications and an h-index of 85, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.251688
 url: "/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Planetary Science Institute"
+    "name": "University of California, Riverside"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-5849-8508",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Noah J. Planavsky**  
-Planetary Science Institute · 🇺🇸 US
+University of California, Riverside · 🇺🇸 US
 
 **Career Stage:** Eminent
 

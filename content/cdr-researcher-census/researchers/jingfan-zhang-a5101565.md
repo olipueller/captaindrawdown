@@ -1,7 +1,7 @@
 ---
 title: "Jingfan Zhang"
-description: "Jingfan Zhang is a Senior Soil Carbon researcher at South China Botanical Garden in CN. With 52 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.274613
+description: "Jingfan Zhang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 52 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.315002
 url: "/cdr-researcher-census/researchers/jingfan-zhang-a5101565/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jingfan-zhang-a5101565/",
   "affiliation": {
     "@type": "Organization",
-    "name": "South China Botanical Garden"
+    "name": "Chinese Academy of Sciences"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-0425-0704",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Jingfan Zhang**  
-South China Botanical Garden · 🇨🇳 CN
+Chinese Academy of Sciences · 🇨🇳 CN
 
 **Career Stage:** Senior
 

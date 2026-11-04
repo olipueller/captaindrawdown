@@ -1,7 +1,7 @@
 ---
 title: "Jussi Heinonsalo"
 description: "Jussi Heinonsalo is an Eminent Soil Carbon researcher at University of Helsinki in FI. With 237 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.066413
+date: 2026-11-04T13:41:34.295343
 url: "/cdr-researcher-census/researchers/jussi-heinonsalo-a5053391/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Dimitar Z. Epihov"
-description: "Dimitar Z. Epihov is a Mid-career Enhanced Weathering researcher at Instituto de Bioquímica Vegetal y Fotosíntesis in ES. With 32 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.470735
+description: "Dimitar Z. Epihov is a Mid-career Enhanced Weathering researcher at University of Sheffield in GB. With 32 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.319416
 url: "/cdr-researcher-census/researchers/dimitar-z-epihov-a5056786/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/dimitar-z-epihov-a5056786/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Instituto de Bioqu\u00edmica Vegetal y Fotos\u00edntesis"
+    "name": "University of Sheffield"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-5711-5480",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Dimitar Z. Epihov**  
-Instituto de Bioquímica Vegetal y Fotosíntesis · 🇪🇸 ES
+University of Sheffield · 🇬🇧 GB
 
 **Career Stage:** Mid-career
 

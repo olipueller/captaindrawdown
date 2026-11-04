@@ -1,7 +1,7 @@
 ---
 title: "Annette Cowie"
 description: "Annette Cowie is an Eminent General CDR researcher at New South Wales Department of Primary Industries in AU. With 285 publications and an h-index of 69, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.020241
+date: 2026-11-04T13:41:34.255560
 url: "/cdr-researcher-census/researchers/annette-cowie-a5018651/"
 layout: "researcher"
 hiddenInHomeList: true

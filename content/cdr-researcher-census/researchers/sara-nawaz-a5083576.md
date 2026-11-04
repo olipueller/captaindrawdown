@@ -1,7 +1,7 @@
 ---
 title: "Sara Nawaz"
-description: "Sara Nawaz is a Mid-career General CDR researcher at Physicians Committee for Responsible Medicine in US. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.582749
+description: "Sara Nawaz is a Mid-career General CDR researcher at American University in US. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.321254
 url: "/cdr-researcher-census/researchers/sara-nawaz-a5083576/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/sara-nawaz-a5083576/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Physicians Committee for Responsible Medicine"
+    "name": "American University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-4337-1453",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Sara Nawaz**  
-Physicians Committee for Responsible Medicine · 🇺🇸 US
+American University · 🇺🇸 US
 
 **Career Stage:** Mid-career
 

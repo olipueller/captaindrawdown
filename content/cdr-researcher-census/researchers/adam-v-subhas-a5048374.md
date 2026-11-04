@@ -1,7 +1,7 @@
 ---
 title: "Adam V. Subhas"
 description: "Adam V. Subhas is a Senior Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 92 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.181921
+date: 2026-11-04T13:41:34.311228
 url: "/cdr-researcher-census/researchers/adam-v-subhas-a5048374/"
 layout: "researcher"
 hiddenInHomeList: true

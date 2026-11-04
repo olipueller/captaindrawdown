@@ -1,7 +1,7 @@
 ---
 title: "Lei Deng"
-description: "Lei Deng is an Eminent Soil Carbon researcher at Qinghai Normal University in CN. With 236 publications and an h-index of 62, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.027845
+description: "Lei Deng is an Eminent Soil Carbon researcher at Beijing Wuzi University in CN. With 236 publications and an h-index of 62, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.269571
 url: "/cdr-researcher-census/researchers/lei-deng-a5043286/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/lei-deng-a5043286/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Qinghai Normal University"
+    "name": "Beijing Wuzi University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-5898-5100",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Lei Deng**  
-Qinghai Normal University · 🇨🇳 CN
+Beijing Wuzi University · 🇨🇳 CN
 
 **Career Stage:** Eminent
 

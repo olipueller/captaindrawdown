@@ -1,7 +1,7 @@
 ---
 title: "Minggang Xu"
 description: "Minggang Xu is a Senior Soil Carbon researcher at Shanxi Agricultural University in CN. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.574039
+date: 2026-11-04T13:41:34.320819
 url: "/cdr-researcher-census/researchers/minggang-xu-a5101588/"
 layout: "researcher"
 hiddenInHomeList: true

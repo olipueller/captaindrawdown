@@ -1,7 +1,7 @@
 ---
 title: "Michael D. Masters"
-description: "Michael D. Masters is a Senior Enhanced Weathering researcher at University of Illinois System in US. With 67 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.105764
+description: "Michael D. Masters is a Senior Enhanced Weathering researcher at University of Illinois Urbana-Champaign in US. With 67 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.302685
 url: "/cdr-researcher-census/researchers/michael-d-masters-a5031536/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/michael-d-masters-a5031536/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Illinois System"
+    "name": "University of Illinois Urbana-Champaign"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-0049-1917",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Michael D. Masters**  
-University of Illinois System · 🇺🇸 US
+University of Illinois Urbana-Champaign · 🇺🇸 US
 
 **Career Stage:** Senior
 

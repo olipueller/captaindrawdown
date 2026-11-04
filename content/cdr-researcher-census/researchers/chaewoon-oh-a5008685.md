@@ -1,7 +1,7 @@
 ---
 title: "Chaewoon Oh"
-description: "Chaewoon Oh is a Mid-career General CDR researcher at Applied Science Private University in JO. With 44 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:33:00.130419
+description: "Chaewoon Oh is a Mid-career General CDR researcher at National Institute of Green Technology in KR. With 44 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.326457
 url: "/cdr-researcher-census/researchers/chaewoon-oh-a5008685/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/chaewoon-oh-a5008685/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Applied Science Private University"
+    "name": "National Institute of Green Technology"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-1357-5519",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Chaewoon Oh**  
-Applied Science Private University ·  JO
+National Institute of Green Technology · 🇰🇷 KR
 
 **Career Stage:** Mid-career
 

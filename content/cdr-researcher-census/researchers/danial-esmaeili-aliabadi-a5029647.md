@@ -1,7 +1,7 @@
 ---
 title: "Danial Esmaeili Aliabadi"
 description: "Danial Esmaeili Aliabadi is a Mid-career BECCS researcher at Helmholtz Centre for Environmental Research in DE. With 70 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.410661
+date: 2026-11-04T13:41:34.318513
 url: "/cdr-researcher-census/researchers/danial-esmaeili-aliabadi-a5029647/"
 layout: "researcher"
 hiddenInHomeList: true

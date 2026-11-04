@@ -1,7 +1,7 @@
 ---
 title: "Junfeng Su"
-description: "Junfeng Su is an Eminent Biochar researcher at Jiangnan University in CN. With 266 publications and an h-index of 51, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.036791
+description: "Junfeng Su is an Eminent Biochar researcher at Xi'an University of Architecture and Technology in CN. With 266 publications and an h-index of 51, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.280597
 url: "/cdr-researcher-census/researchers/junfeng-su-a5101652/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/junfeng-su-a5101652/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Jiangnan University"
+    "name": "Xi'an University of Architecture and Technology"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-8434-0851",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Junfeng Su**  
-Jiangnan University · 🇨🇳 CN
+Xi'an University of Architecture and Technology · 🇨🇳 CN
 
 **Career Stage:** Eminent
 

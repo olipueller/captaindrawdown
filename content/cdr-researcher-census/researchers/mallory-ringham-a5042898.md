@@ -1,7 +1,7 @@
 ---
 title: "Mallory Ringham"
-description: "Mallory Ringham is a Mid-career Ocean CDR researcher at Carbon180 in US. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.824205
+description: "Mallory Ringham is a Mid-career Ocean CDR researcher at Ebb Carbon in US. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.324174
 url: "/cdr-researcher-census/researchers/mallory-ringham-a5042898/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mallory-ringham-a5042898/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Carbon180"
+    "name": "Ebb Carbon"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-4802-0185",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Mallory Ringham**  
-Carbon180 · 🇺🇸 US
+Ebb Carbon · 🇺🇸 US
 
 **Career Stage:** Mid-career
 

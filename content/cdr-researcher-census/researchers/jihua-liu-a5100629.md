@@ -1,7 +1,7 @@
 ---
 title: "Jihua Liu"
 description: "Jihua Liu is a Senior Ocean CDR researcher at Shandong University in CN. With 191 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.049585
+date: 2026-11-04T13:41:34.288980
 url: "/cdr-researcher-census/researchers/jihua-liu-a5100629/"
 layout: "researcher"
 hiddenInHomeList: true

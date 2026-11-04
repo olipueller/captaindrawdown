@@ -1,7 +1,7 @@
 ---
 title: "Arianna Azzellino"
 description: "Arianna Azzellino is a Senior Ocean CDR researcher at Politecnico di Milano in IT. With 190 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.089122
+date: 2026-11-04T13:41:34.300835
 url: "/cdr-researcher-census/researchers/arianna-azzellino-a5025068/"
 layout: "researcher"
 hiddenInHomeList: true

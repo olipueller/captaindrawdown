@@ -1,7 +1,7 @@
 ---
 title: "Maria-Elena Vorrath"
 description: "Maria-Elena Vorrath is a Mid-career General CDR researcher at Universität Hamburg in DE. With 76 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.580677
+date: 2026-11-04T13:41:34.321106
 url: "/cdr-researcher-census/researchers/maria-elena-vorrath-a5010895/"
 layout: "researcher"
 hiddenInHomeList: true

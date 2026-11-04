@@ -1,7 +1,7 @@
 ---
 title: "Javier Lezaun"
-description: "Javier Lezaun is a Senior General CDR researcher at Ethnographic Museum in HU. With 118 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.055675
+description: "Javier Lezaun is a Senior General CDR researcher at University of Oxford in GB. With 118 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.291685
 url: "/cdr-researcher-census/researchers/javier-lezaun-a5085557/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/javier-lezaun-a5085557/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Ethnographic Museum"
+    "name": "University of Oxford"
   },
   "sameAs": "https://openalex.org/A5085557590"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Javier Lezaun**  
-Ethnographic Museum ·  HU
+University of Oxford · 🇬🇧 GB
 
 **Career Stage:** Senior
 

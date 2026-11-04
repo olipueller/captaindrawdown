@@ -1,7 +1,7 @@
 ---
 title: "Behrouz Gholamahmadi"
-description: "Behrouz Gholamahmadi is a Mid-career Biochar researcher at Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa in PT. With 40 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:33:00.215017
+description: "Behrouz Gholamahmadi is a Mid-career Biochar researcher at Ibero Massa Florestal in PT. With 40 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.326728
 url: "/cdr-researcher-census/researchers/behrouz-gholamahmadi-a5079131/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/behrouz-gholamahmadi-a5079131/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Escola Superior de Sa\u00fade Norte da Cruz Vermelha Portuguesa"
+    "name": "Ibero Massa Florestal"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-9647-6414",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Behrouz Gholamahmadi**  
-Escola Superior de Saúde Norte da Cruz Vermelha Portuguesa · 🇵🇹 PT
+Ibero Massa Florestal · 🇵🇹 PT
 
 **Career Stage:** Mid-career
 

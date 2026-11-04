@@ -1,7 +1,7 @@
 ---
 title: "Nicolás Sánchez"
 description: "Nicolás Sánchez is a Senior Ocean CDR researcher at Norwegian University of Science and Technology in NO. With 54 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.047238
+date: 2026-11-04T13:41:34.287386
 url: "/cdr-researcher-census/researchers/nicolas-sanchez-a5027018/"
 layout: "researcher"
 hiddenInHomeList: true

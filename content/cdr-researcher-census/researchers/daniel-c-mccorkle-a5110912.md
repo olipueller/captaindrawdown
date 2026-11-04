@@ -1,7 +1,7 @@
 ---
 title: "Daniel C. McCorkle"
 description: "Daniel C. McCorkle is a Senior Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 109 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.047858
+date: 2026-11-04T13:41:34.288413
 url: "/cdr-researcher-census/researchers/daniel-c-mccorkle-a5110912/"
 layout: "researcher"
 hiddenInHomeList: true

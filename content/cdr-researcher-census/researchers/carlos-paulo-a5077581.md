@@ -1,7 +1,7 @@
 ---
 title: "Carlos Paulo"
 description: "Carlos Paulo is a Senior Enhanced Weathering researcher at Trent University in CA. With 61 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.312236
+date: 2026-11-04T13:41:34.316040
 url: "/cdr-researcher-census/researchers/carlos-paulo-a5077581/"
 layout: "researcher"
 hiddenInHomeList: true

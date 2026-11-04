@@ -1,7 +1,7 @@
 ---
 title: "Lening Hu"
-description: "Lening Hu is a Senior Biochar researcher at Ministry of Ecology and Environment in CN. With 52 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.578150
+description: "Lening Hu is a Senior Biochar researcher at Guangxi Normal University in CN. With 52 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.320972
 url: "/cdr-researcher-census/researchers/lening-hu-a5025163/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/lening-hu-a5025163/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Ministry of Ecology and Environment"
+    "name": "Guangxi Normal University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-5884-7226",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Lening Hu**  
-Ministry of Ecology and Environment · 🇨🇳 CN
+Guangxi Normal University · 🇨🇳 CN
 
 **Career Stage:** Senior
 

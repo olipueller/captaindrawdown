@@ -1,7 +1,7 @@
 ---
 title: "Christian Breyer"
 description: "Christian Breyer is an Eminent General CDR researcher at LUT University in FI. With 395 publications and an h-index of 92, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.018854
+date: 2026-11-04T13:41:34.252146
 url: "/cdr-researcher-census/researchers/christian-breyer-a5078913/"
 layout: "researcher"
 hiddenInHomeList: true

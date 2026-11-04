@@ -1,7 +1,7 @@
 ---
 title: "Caspar Donnison"
-description: "Caspar Donnison is a Mid-career General CDR researcher at University of Southampton in GB. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.665809
+description: "Caspar Donnison is a Mid-career General CDR researcher at Lawrence Livermore National Laboratory in US. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.322316
 url: "/cdr-researcher-census/researchers/caspar-donnison-a5007876/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/caspar-donnison-a5007876/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Southampton"
+    "name": "Lawrence Livermore National Laboratory"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-6052-7339",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Caspar Donnison**  
-University of Southampton · 🇬🇧 GB
+Lawrence Livermore National Laboratory · 🇺🇸 US
 
 **Career Stage:** Mid-career
 

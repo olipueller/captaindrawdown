@@ -1,7 +1,7 @@
 ---
 title: "Lina Röschel"
-description: "Lina Röschel is a Mid-career Ocean CDR researcher. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.645530
+description: "Lina Röschel is a Mid-career Ocean CDR researcher at Research Institute for Sustainability at GFZ in DE. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.322203
 url: "/cdr-researcher-census/researchers/lina-roschel-a5025340/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Lina R\u00f6schel",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/lina-roschel-a5025340/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Research Institute for Sustainability at GFZ"
+  },
   "sameAs": "https://openalex.org/A5025340994"
 }
 </script>
 
 ## Profile
 
-**Lina Röschel**
+**Lina Röschel**  
+Research Institute for Sustainability at GFZ · 🇩🇪 DE
 
 **Career Stage:** Mid-career
 

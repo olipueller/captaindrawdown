@@ -1,7 +1,7 @@
 ---
 title: "Elina Brutschin"
 description: "Elina Brutschin is a Senior General CDR researcher at International Institute for Applied Systems Analysis in AT. With 73 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.118158
+date: 2026-11-04T13:41:34.304193
 url: "/cdr-researcher-census/researchers/elina-brutschin-a5005798/"
 layout: "researcher"
 hiddenInHomeList: true

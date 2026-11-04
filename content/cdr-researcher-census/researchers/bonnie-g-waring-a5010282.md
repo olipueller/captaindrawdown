@@ -1,7 +1,7 @@
 ---
 title: "Bonnie G. Waring"
 description: "Bonnie G. Waring is a Senior Enhanced Weathering researcher at Imperial College London in GB. With 110 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.060658
+date: 2026-11-04T13:41:34.293469
 url: "/cdr-researcher-census/researchers/bonnie-g-waring-a5010282/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Nathalie Monnerie"
-description: "Nathalie Monnerie is a Senior DAC researcher. With 118 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.173212
+description: "Nathalie Monnerie is a Senior DAC researcher at Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR) in DE. With 118 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.310396
 url: "/cdr-researcher-census/researchers/nathalie-monnerie-a5065748/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Nathalie Monnerie",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/nathalie-monnerie-a5065748/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Deutsches Zentrum f\u00fcr Luft- und Raumfahrt e. V. (DLR)"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-0220-6665",
     "https://openalex.org/A5065748208"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Nathalie Monnerie**
+**Nathalie Monnerie**  
+Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR) · 🇩🇪 DE
 
 **Career Stage:** Senior
 

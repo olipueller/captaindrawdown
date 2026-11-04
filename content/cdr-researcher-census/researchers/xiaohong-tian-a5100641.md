@@ -1,7 +1,7 @@
 ---
 title: "Xiaohong Tian"
-description: "Xiaohong Tian is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.461828
+description: "Xiaohong Tian is a Senior Soil Carbon researcher at Northwest A and F University in CN. With 75 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.306841
 url: "/cdr-researcher-census/researchers/xiaohong-tian-a5100641/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,11 +16,11 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xiaohong-tian-a5100641/",
   "affiliation": {
     "@type": "Organization",
-    "name": "North West Agriculture and Forestry University"
+    "name": "Northwest A and F University"
   },
   "sameAs": [
-    "https://orcid.org/0000-0003-1383-4218",
-    "https://openalex.org/A5100641923"
+    "https://orcid.org/0000-0002-7594-9726",
+    "https://openalex.org/A5100641921"
   ]
 }
 </script>
@@ -28,9 +28,9 @@ robots: "index, follow"
 ## Profile
 
 **Xiaohong Tian**  
-North West Agriculture and Forestry University · 🇨🇳 CN
+Northwest A and F University · 🇨🇳 CN
 
-**Career Stage:** Mid-career
+**Career Stage:** Senior
 
 ## CDR Specialization
 
@@ -42,36 +42,48 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 | Metric | Value |
 |--------|-------|
-| h-index | 6 |
-| Citations | 530 |
-| Publications | 17 |
-| CDR Focus | 29.4% |
-| Trajectory | Growing |
+| h-index | 22 |
+| Citations | 1,889 |
+| Publications | 75 |
+| CDR Focus | 26.7% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **Effect of Straw and Wood Ash on Soil Carbon Sequestration and Bacterial Community in a Calcareous Soil** (2022)
-   14 citations
+1. **Nitrogen fertilizer builds soil organic carbon under straw return mainly via microbial necromass formation** (2023)
+   217 citations · Soil Carbon
 
-2. **Equal-straw produced biochar continuous incorporation substitutes straw returns for global warming mitigation: An appraisal based on five-year field experiment** (2025)
-   5 citations · Biochar
+2. **Organic amendments affect soil organic carbon sequestration and fractions in fields with long-term contrasting nitrogen applications** (2021)
+   66 citations · Soil Carbon
 
-3. **Biodegradable Plastic Film Residues Impede Soil Organic Carbon Sequestration and Macroaggregate-Associated Carbon Storage in Agricultural Soil** (2025)
-   3 citations · Soil Carbon
+3. **Effect of the combined addition of mineral nitrogen and crop residue on soil respiration, organic carbon sequestration, and exogenous nitrogen in stable organic matter** (2021)
+   59 citations · Soil Carbon
 
-4. **Microbial life-history strategies drive soil carbon stabilization under balanced organic substitution: Trade-offs between yield- and acquisition-oriented metabolisms** (2025)
-   1 citations · Soil Carbon
+4. **Integrated wheat-maize straw and tillage management strategies influence economic profit and carbon footprint in the Guanzhong Plain of China** (2021)
+   49 citations · Soil Carbon
 
-5. **Effects of mixed cereal/legume straw application on carbon sequestration in black loessial soils with contrasting soil organic carbon contents.** (2026)
-   0 citations · Soil Carbon
+5. **Effects of the combined application of livestock manure and plant residues on soil organic carbon sequestration in the southern Loess Plateau of China** (2024)
+   35 citations · Soil Carbon
 
-6. **Effects of Long-Term Straw-Return Modes on Soil Organic Carbon Content and Carbon Footprint in Wheat–Maize Rotation System** (2021)
-   0 citations · Soil Carbon
+6. **Long-Term Nitrogen and Straw Application Improves Wheat Production and Soil Organic Carbon Sequestration** (2022)
+   23 citations · Soil Carbon
+
+7. **Increasing soil organic carbon sequestration and yield stability by no‐tillage and straw‐returning in wheat–maize rotation** (2022)
+   21 citations · Soil Carbon
+
+8. **Integrated mulching and nitrogen management strategies influence carbon footprint and sustainability of wheat production on the Loess Plateau of China** (2023)
+   19 citations · Soil Carbon
+
+9. **Long‐term effects of straw mulching coupled with N application on soil organic carbon sequestration and soil aggregation in a winter wheat monoculture system** (2021)
+   18 citations · Soil Carbon
+
+10. **Short‐term effects of combined organic amendments on soil organic carbon sequestration in a rain‐fed winter wheat system** (2021)
+   16 citations · Soil Carbon
 
 ## External Profiles
 
-- [ORCID](https://orcid.org/0000-0003-1383-4218)
-- [OpenAlex](https://openalex.org/A5100641923)
+- [ORCID](https://orcid.org/0000-0002-7594-9726)
+- [OpenAlex](https://openalex.org/A5100641921)
 
 ---
 

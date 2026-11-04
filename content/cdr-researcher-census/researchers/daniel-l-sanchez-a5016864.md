@@ -1,7 +1,7 @@
 ---
 title: "Daniel L. Sanchez"
-description: "Daniel L. Sanchez is a Senior General CDR researcher at Carbon180 in US. With 96 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.053752
+description: "Daniel L. Sanchez is a Senior General CDR researcher at University of California, Berkeley in US. With 96 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.291099
 url: "/cdr-researcher-census/researchers/daniel-l-sanchez-a5016864/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/daniel-l-sanchez-a5016864/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Carbon180"
+    "name": "University of California, Berkeley"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-9281-5685",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Daniel L. Sanchez**  
-Carbon180 · 🇺🇸 US
+University of California, Berkeley · 🇺🇸 US
 
 **Career Stage:** Senior
 

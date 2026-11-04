@@ -1,7 +1,7 @@
 ---
 title: "James Campbell"
-description: "James Campbell is a Senior General CDR researcher. With 59 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.376577
+description: "James Campbell is a Senior General CDR researcher at Heriot-Watt University in GB. With 59 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.317874
 url: "/cdr-researcher-census/researchers/james-campbell-a5089134/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "James Campbell",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/james-campbell-a5089134/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Heriot-Watt University"
+  },
   "sameAs": [
     "https://orcid.org/0000-0003-4249-5323",
     "https://openalex.org/A5089134622"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**James Campbell**
+**James Campbell**  
+Heriot-Watt University · 🇬🇧 GB
 
 **Career Stage:** Senior
 

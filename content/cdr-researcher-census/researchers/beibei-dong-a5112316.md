@@ -1,7 +1,7 @@
 ---
 title: "Beibei Dong"
-description: "Beibei Dong is a Senior BECCS researcher at Xi'an University of Science and Technology in CN. With 36 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:33:00.366838
+description: "Beibei Dong is a Senior BECCS researcher at Mälardalen University in SE. With 36 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.327668
 url: "/cdr-researcher-census/researchers/beibei-dong-a5112316/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/beibei-dong-a5112316/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Xi'an University of Science and Technology"
+    "name": "M\u00e4lardalen University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-3907-1987",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Beibei Dong**  
-Xi'an University of Science and Technology · 🇨🇳 CN
+Mälardalen University · 🇸🇪 SE
 
 **Career Stage:** Senior
 

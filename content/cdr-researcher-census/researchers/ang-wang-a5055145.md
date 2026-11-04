@@ -1,7 +1,7 @@
 ---
 title: "Ang Wang"
-description: "Ang Wang is a Senior Enhanced Weathering researcher at Shanghai Jiao Tong University in CN. With 151 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.132000
+description: "Ang Wang is a Senior Enhanced Weathering researcher at Nanjing Tech University in CN. With 151 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.306179
 url: "/cdr-researcher-census/researchers/ang-wang-a5055145/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ang-wang-a5055145/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Shanghai Jiao Tong University"
+    "name": "Nanjing Tech University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9365-2926",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Ang Wang**  
-Shanghai Jiao Tong University · 🇨🇳 CN
+Nanjing Tech University · 🇨🇳 CN
 
 **Career Stage:** Senior
 

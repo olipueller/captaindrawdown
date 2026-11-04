@@ -1,7 +1,7 @@
 ---
 title: "Abdelghafour Zaabout"
-description: "Abdelghafour Zaabout is a Senior General CDR researcher at The Polytechnic University of Japan in JP. With 105 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.140260
+description: "Abdelghafour Zaabout is a Senior General CDR researcher at Université Mohammed VI Polytechnique in MA. With 105 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.307069
 url: "/cdr-researcher-census/researchers/abdelghafour-zaabout-a5089623/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/abdelghafour-zaabout-a5089623/",
   "affiliation": {
     "@type": "Organization",
-    "name": "The Polytechnic University of Japan"
+    "name": "Universit\u00e9 Mohammed VI Polytechnique"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-7468-8050",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Abdelghafour Zaabout**  
-The Polytechnic University of Japan · 🇯🇵 JP
+Université Mohammed VI Polytechnique ·  MA
 
 **Career Stage:** Senior
 

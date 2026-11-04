@@ -1,7 +1,7 @@
 ---
 title: "Kirstine Skov"
-description: "Kirstine Skov is a Senior Enhanced Weathering researcher at Royal Bank of Scotland (United Kingdom) in GB. With 46 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.498998
+description: "Kirstine Skov is a Senior Enhanced Weathering researcher at Aarhus University in DK. With 46 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.319697
 url: "/cdr-researcher-census/researchers/kirstine-skov-a5042164/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/kirstine-skov-a5042164/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Royal Bank of Scotland (United Kingdom)"
+    "name": "Aarhus University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-1234-3687",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Kirstine Skov**  
-Royal Bank of Scotland (United Kingdom) · 🇬🇧 GB
+Aarhus University · 🇩🇰 DK
 
 **Career Stage:** Senior
 

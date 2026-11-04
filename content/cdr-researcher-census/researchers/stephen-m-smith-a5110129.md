@@ -1,7 +1,7 @@
 ---
 title: "Stephen M. Smith"
-description: "Stephen M. Smith is a Senior General CDR researcher. With 118 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.048019
+description: "Stephen M. Smith is a Senior General CDR researcher at University of Oxford in GB. With 118 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.288568
 url: "/cdr-researcher-census/researchers/stephen-m-smith-a5110129/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,13 +14,18 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Stephen M. Smith",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/stephen-m-smith-a5110129/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "University of Oxford"
+  },
   "sameAs": "https://openalex.org/A5110129533"
 }
 </script>
 
 ## Profile
 
-**Stephen M. Smith**
+**Stephen M. Smith**  
+University of Oxford · 🇬🇧 GB
 
 **Career Stage:** Senior
 

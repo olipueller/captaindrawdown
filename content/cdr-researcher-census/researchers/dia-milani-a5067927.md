@@ -1,7 +1,7 @@
 ---
 title: "Dia Milani"
-description: "Dia Milani is a Senior General CDR researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 65 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.094092
+description: "Dia Milani is a Senior General CDR researcher at CSIRO in AU. With 65 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.301673
 url: "/cdr-researcher-census/researchers/dia-milani-a5067927/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/dia-milani-a5067927/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Commonwealth Scientific and Industrial Research Organisation"
+    "name": "CSIRO"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-2854-0116",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Dia Milani**  
-Commonwealth Scientific and Industrial Research Organisation · 🇦🇺 AU
+CSIRO · 🇦🇺 AU
 
 **Career Stage:** Senior
 

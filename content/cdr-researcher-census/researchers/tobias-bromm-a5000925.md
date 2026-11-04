@@ -1,7 +1,7 @@
 ---
 title: "Tobias Bromm"
-description: "Tobias Bromm is a Mid-career Biochar researcher at Luther University in KR. With 42 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.369714
+description: "Tobias Bromm is a Mid-career Biochar researcher at Martin Luther University Halle-Wittenberg in DE. With 42 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.317613
 url: "/cdr-researcher-census/researchers/tobias-bromm-a5000925/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/tobias-bromm-a5000925/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Luther University"
+    "name": "Martin Luther University Halle-Wittenberg"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-5914-2917",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Tobias Bromm**  
-Luther University · 🇰🇷 KR
+Martin Luther University Halle-Wittenberg · 🇩🇪 DE
 
 **Career Stage:** Mid-career
 

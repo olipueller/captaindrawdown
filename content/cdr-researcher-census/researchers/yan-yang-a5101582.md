@@ -1,7 +1,7 @@
 ---
 title: "Yan Yang"
-description: "Yan Yang is a Senior Biochar researcher at Minzu University of China in CN. With 124 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.054100
+description: "Yan Yang is a Senior Biochar researcher at Beijing Forestry University in CN. With 124 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.291212
 url: "/cdr-researcher-census/researchers/yan-yang-a5101582/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yan-yang-a5101582/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Minzu University of China"
+    "name": "Beijing Forestry University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-1107-2099",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yan Yang**  
-Minzu University of China · 🇨🇳 CN
+Beijing Forestry University · 🇨🇳 CN
 
 **Career Stage:** Senior
 

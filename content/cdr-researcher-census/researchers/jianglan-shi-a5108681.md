@@ -1,7 +1,7 @@
 ---
 title: "Jianglan Shi"
 description: "Jianglan Shi is a Senior Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 70 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.113310
+date: 2026-11-04T13:41:34.303399
 url: "/cdr-researcher-census/researchers/jianglan-shi-a5108681/"
 layout: "researcher"
 hiddenInHomeList: true

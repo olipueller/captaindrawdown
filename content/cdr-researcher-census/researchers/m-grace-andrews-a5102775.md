@@ -1,7 +1,7 @@
 ---
 title: "M. Grace Andrews"
-description: "M. Grace Andrews is a Mid-career General CDR researcher at Climate Central in US. With 25 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.150115
+description: "M. Grace Andrews is a Mid-career General CDR researcher at Montclair Hospital Medical Center in US. With 25 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.308430
 url: "/cdr-researcher-census/researchers/m-grace-andrews-a5102775/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/m-grace-andrews-a5102775/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Climate Central"
+    "name": "Montclair Hospital Medical Center"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-2849-1863",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **M. Grace Andrews**  
-Climate Central · 🇺🇸 US
+Montclair Hospital Medical Center · 🇺🇸 US
 
 **Career Stage:** Mid-career
 

@@ -1,7 +1,7 @@
 ---
 title: "Chang‐Mao Hung"
 description: "Chang‐Mao Hung is a Senior Biochar researcher at National Kaohsiung University of Science and Technology in TW. With 122 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.070222
+date: 2026-11-04T13:41:34.296498
 url: "/cdr-researcher-census/researchers/changmao-hung-a5042346/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Romany Webb"
-description: "Romany Webb is a Mid-career General CDR researcher at New York Law School in US. With 98 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.763170
+description: "Romany Webb is a Mid-career General CDR researcher at Columbia University in US. With 98 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.323630
 url: "/cdr-researcher-census/researchers/romany-webb-a5110590/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/romany-webb-a5110590/",
   "affiliation": {
     "@type": "Organization",
-    "name": "New York Law School"
+    "name": "Columbia University"
   },
   "sameAs": "https://openalex.org/A5110590296"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Romany Webb**  
-New York Law School · 🇺🇸 US
+Columbia University · 🇺🇸 US
 
 **Career Stage:** Mid-career
 

@@ -1,7 +1,7 @@
 ---
 title: "Arthur Groß"
-description: "Arthur Groß is a Mid-career Soil Carbon researcher at Martin Luther University Halle-Wittenberg in DE. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.317167
+description: "Arthur Groß is a Mid-career Soil Carbon researcher at Martin-Luther-Universität Halle-Wittenberg in DE. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.316173
 url: "/cdr-researcher-census/researchers/arthur-gro-a5072098/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/arthur-gro-a5072098/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Martin Luther University Halle-Wittenberg"
+    "name": "Martin-Luther-Universit\u00e4t Halle-Wittenberg"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-4076-5118",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Arthur Groß**  
-Martin Luther University Halle-Wittenberg · 🇩🇪 DE
+Martin-Luther-Universität Halle-Wittenberg · 🇩🇪 DE
 
 **Career Stage:** Mid-career
 

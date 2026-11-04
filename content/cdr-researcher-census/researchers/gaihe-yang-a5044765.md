@@ -1,7 +1,7 @@
 ---
 title: "Gaihe Yang"
-description: "Gaihe Yang is an Eminent Soil Carbon researcher at Yangon Technological University in MM. With 249 publications and an h-index of 61, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.028569
+description: "Gaihe Yang is an Eminent Soil Carbon researcher at Northwest A&F University in CN. With 249 publications and an h-index of 61, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.270782
 url: "/cdr-researcher-census/researchers/gaihe-yang-a5044765/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/gaihe-yang-a5044765/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Yangon Technological University"
+    "name": "Northwest A&F University"
   },
   "sameAs": "https://openalex.org/A5044765535"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Gaihe Yang**  
-Yangon Technological University ·  MM
+Northwest A&F University · 🇨🇳 CN
 
 **Career Stage:** Eminent
 

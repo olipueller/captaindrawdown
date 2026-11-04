@@ -1,7 +1,7 @@
 ---
 title: "Thorben Amann"
 description: "Thorben Amann is a Senior Enhanced Weathering researcher at Universität Hamburg in DE. With 72 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.067759
+date: 2026-11-04T13:41:34.295919
 url: "/cdr-researcher-census/researchers/thorben-amann-a5051923/"
 layout: "researcher"
 hiddenInHomeList: true

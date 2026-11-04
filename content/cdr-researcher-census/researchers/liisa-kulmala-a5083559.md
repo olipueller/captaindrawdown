@@ -1,7 +1,7 @@
 ---
 title: "Liisa Kulmala"
 description: "Liisa Kulmala is a Senior Soil Carbon researcher at Finnish Meteorological Institute in FI. With 224 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.079517
+date: 2026-11-04T13:41:34.298300
 url: "/cdr-researcher-census/researchers/liisa-kulmala-a5083559/"
 layout: "researcher"
 hiddenInHomeList: true

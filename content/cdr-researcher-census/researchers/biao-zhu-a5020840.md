@@ -1,7 +1,7 @@
 ---
 title: "Biao Zhu"
 description: "Biao Zhu is an Eminent Soil Carbon researcher at Peking University in CN. With 385 publications and an h-index of 77, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.021352
+date: 2026-11-04T13:41:34.258425
 url: "/cdr-researcher-census/researchers/biao-zhu-a5020840/"
 layout: "researcher"
 hiddenInHomeList: true

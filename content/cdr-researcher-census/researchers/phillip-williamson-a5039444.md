@@ -1,7 +1,7 @@
 ---
 title: "Phillip Williamson"
 description: "Phillip Williamson is an Eminent Ocean CDR researcher at Natural Environment Research Council in GB. With 151 publications and an h-index of 45, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.044578
+date: 2026-11-04T13:41:34.285587
 url: "/cdr-researcher-census/researchers/phillip-williamson-a5039444/"
 layout: "researcher"
 hiddenInHomeList: true

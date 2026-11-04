@@ -1,7 +1,7 @@
 ---
 title: "Congzhi Zhang"
-description: "Congzhi Zhang is a Senior Soil Carbon researcher at Institute of Soil Science in CN. With 116 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.087758
+description: "Congzhi Zhang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 116 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.300362
 url: "/cdr-researcher-census/researchers/congzhi-zhang-a5046701/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/congzhi-zhang-a5046701/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Institute of Soil Science"
+    "name": "Chinese Academy of Sciences"
   },
   "sameAs": "https://openalex.org/A5046701215"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Congzhi Zhang**  
-Institute of Soil Science · 🇨🇳 CN
+Chinese Academy of Sciences · 🇨🇳 CN
 
 **Career Stage:** Senior
 

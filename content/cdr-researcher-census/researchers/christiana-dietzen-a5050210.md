@@ -1,7 +1,7 @@
 ---
 title: "Christiana Dietzen"
-description: "Christiana Dietzen is a Mid-career Enhanced Weathering researcher at University of Copenhagen in DK. With 27 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.770556
+description: "Christiana Dietzen is a Mid-career Enhanced Weathering researcher at Københavns Universitet in DK. With 27 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.323745
 url: "/cdr-researcher-census/researchers/christiana-dietzen-a5050210/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/christiana-dietzen-a5050210/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Copenhagen"
+    "name": "K\u00f8benhavns Universitet"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-3939-9472",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Christiana Dietzen**  
-University of Copenhagen · 🇩🇰 DK
+Københavns Universitet · 🇩🇰 DK
 
 **Career Stage:** Mid-career
 

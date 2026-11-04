@@ -1,7 +1,7 @@
 ---
 title: "Giuseppe Cipolla"
 description: "Giuseppe Cipolla is a Senior Enhanced Weathering researcher at AECOM (China) in CN. With 52 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.440051
+date: 2026-11-04T13:41:34.318874
 url: "/cdr-researcher-census/researchers/giuseppe-cipolla-a5019374/"
 layout: "researcher"
 hiddenInHomeList: true

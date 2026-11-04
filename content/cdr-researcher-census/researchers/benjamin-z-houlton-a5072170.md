@@ -1,7 +1,7 @@
 ---
 title: "Benjamin Z. Houlton"
 description: "Benjamin Z. Houlton is an Eminent Enhanced Weathering researcher at Cornell University in US. With 183 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.026630
+date: 2026-11-04T13:41:34.267260
 url: "/cdr-researcher-census/researchers/benjamin-z-houlton-a5072170/"
 layout: "researcher"
 hiddenInHomeList: true

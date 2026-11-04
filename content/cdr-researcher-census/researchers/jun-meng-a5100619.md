@@ -1,7 +1,7 @@
 ---
 title: "Jun Meng"
 description: "Jun Meng is an Eminent Biochar researcher at Shenyang Agricultural University in CN. With 173 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.039322
+date: 2026-11-04T13:41:34.281980
 url: "/cdr-researcher-census/researchers/jun-meng-a5100619/"
 layout: "researcher"
 hiddenInHomeList: true

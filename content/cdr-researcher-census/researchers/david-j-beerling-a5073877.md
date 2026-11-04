@@ -1,7 +1,7 @@
 ---
 title: "David J. Beerling"
-description: "David J. Beerling is an Eminent Enhanced Weathering researcher at Leverhulme Trust in GB. With 515 publications and an h-index of 99, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.017991
+description: "David J. Beerling is an Eminent Enhanced Weathering researcher at Leverhulme Centre for Climate Change Mitigation in GB. With 515 publications and an h-index of 99, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.249910
 url: "/cdr-researcher-census/researchers/david-j-beerling-a5073877/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/david-j-beerling-a5073877/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Leverhulme Trust"
+    "name": "Leverhulme Centre for Climate Change Mitigation"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-1869-4314",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **David J. Beerling**  
-Leverhulme Trust · 🇬🇧 GB
+Leverhulme Centre for Climate Change Mitigation · 🇬🇧 GB
 
 **Career Stage:** Eminent
 

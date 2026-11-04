@@ -1,7 +1,7 @@
 ---
 title: "Carl‐Friedrich Schleussner"
 description: "Carl‐Friedrich Schleussner is an Eminent General CDR researcher at International Institute for Applied Systems Analysis in AT. With 380 publications and an h-index of 57, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.026471
+date: 2026-11-04T13:41:34.266993
 url: "/cdr-researcher-census/researchers/carlfriedrich-schleussner-a5033036/"
 layout: "researcher"
 hiddenInHomeList: true

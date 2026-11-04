@@ -1,7 +1,7 @@
 ---
 title: "Raymond R. Tan"
-description: "Raymond R. Tan is an Eminent General CDR researcher at La Salle University in US. With 649 publications and an h-index of 66, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.022811
+description: "Raymond R. Tan is an Eminent General CDR researcher at De La Salle University in PH. With 649 publications and an h-index of 66, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.260621
 url: "/cdr-researcher-census/researchers/raymond-r-tan-a5016388/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/raymond-r-tan-a5016388/",
   "affiliation": {
     "@type": "Organization",
-    "name": "La Salle University"
+    "name": "De La Salle University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9872-6066",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Raymond R. Tan**  
-La Salle University · 🇺🇸 US
+De La Salle University · 🇵🇭 PH
 
 **Career Stage:** Eminent
 

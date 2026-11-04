@@ -1,7 +1,7 @@
 ---
 title: "Ilman Nuran Zaini"
 description: "Ilman Nuran Zaini is a Senior BECCS researcher at KTH Royal Institute of Technology in SE. With 56 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.136157
+date: 2026-11-04T13:41:34.306424
 url: "/cdr-researcher-census/researchers/ilman-nuran-zaini-a5028840/"
 layout: "researcher"
 hiddenInHomeList: true

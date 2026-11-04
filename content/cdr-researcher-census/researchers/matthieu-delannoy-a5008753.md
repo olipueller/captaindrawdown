@@ -1,7 +1,7 @@
 ---
 title: "Matthieu Delannoy"
-description: "Matthieu Delannoy is a Mid-career Biochar researcher at Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement in FR. With 92 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.469819
+description: "Matthieu Delannoy is a Mid-career Biochar researcher at Université de Lorraine in FR. With 92 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.319272
 url: "/cdr-researcher-census/researchers/matthieu-delannoy-a5008753/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/matthieu-delannoy-a5008753/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement"
+    "name": "Universit\u00e9 de Lorraine"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9699-6513",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Matthieu Delannoy**  
-Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement · 🇫🇷 FR
+Université de Lorraine · 🇫🇷 FR
 
 **Career Stage:** Mid-career
 

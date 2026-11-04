@@ -1,7 +1,7 @@
 ---
 title: "Yongjun Shi"
-description: "Yongjun Shi is a Senior Soil Carbon researcher at Guiyang University in CN. With 106 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.125281
+description: "Yongjun Shi is a Senior Soil Carbon researcher at Zhejiang A & F University in CN. With 106 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.304988
 url: "/cdr-researcher-census/researchers/yongjun-shi-a5018785/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yongjun-shi-a5018785/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Guiyang University"
+    "name": "Zhejiang A & F University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9134-1964",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yongjun Shi**  
-Guiyang University · 🇨🇳 CN
+Zhejiang A & F University · 🇨🇳 CN
 
 **Career Stage:** Senior
 

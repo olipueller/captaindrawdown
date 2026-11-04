@@ -1,7 +1,7 @@
 ---
 title: "Chad M. Baum"
 description: "Chad M. Baum is a Senior General CDR researcher at Aarhus University in DK. With 76 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.158646
+date: 2026-11-04T13:41:34.309107
 url: "/cdr-researcher-census/researchers/chad-m-baum-a5057828/"
 layout: "researcher"
 hiddenInHomeList: true

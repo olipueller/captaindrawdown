@@ -1,7 +1,7 @@
 ---
 title: "Jordi Sardans"
 description: "Jordi Sardans is an Eminent Soil Carbon researcher at CREAF - Centre de Recerca Ecològica i Aplicacions Forestals in ES. With 878 publications and an h-index of 101, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.017229
+date: 2026-11-04T13:41:34.247014
 url: "/cdr-researcher-census/researchers/jordi-sardans-a5061849/"
 layout: "researcher"
 hiddenInHomeList: true

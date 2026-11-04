@@ -1,7 +1,7 @@
 ---
 title: "Tim Jesper Suhrhoff"
-description: "Tim Jesper Suhrhoff is a Mid-career General CDR researcher at Planetary Science Institute in US. With 66 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.279499
+description: "Tim Jesper Suhrhoff is a Mid-career General CDR researcher at Yale University in US. With 66 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T13:41:34.315295
 url: "/cdr-researcher-census/researchers/tim-jesper-suhrhoff-a5081686/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/tim-jesper-suhrhoff-a5081686/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Planetary Science Institute"
+    "name": "Yale University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-7934-7159",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Tim Jesper Suhrhoff**  
-Planetary Science Institute · 🇺🇸 US
+Yale University · 🇺🇸 US
 
 **Career Stage:** Mid-career
 

@@ -1,7 +1,7 @@
 ---
 title: "Jihui Li"
 description: "Jihui Li is a Senior Biochar researcher at Hainan University in CN. With 145 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.087123
+date: 2026-11-04T13:41:34.299964
 url: "/cdr-researcher-census/researchers/jihui-li-a5071052/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Stephen Joseph"
 description: "Stephen Joseph is an Eminent Biochar researcher at Nanjing Agricultural University in CN. With 135 publications and an h-index of 64, they are among the top researchers in carbon dioxide removal."
-date: 2026-10-11T02:32:59.020099
+date: 2026-11-04T13:41:34.255415
 url: "/cdr-researcher-census/researchers/stephen-joseph-a5112737/"
 layout: "researcher"
 hiddenInHomeList: true
