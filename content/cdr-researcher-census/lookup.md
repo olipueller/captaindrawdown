@@ -28,7 +28,7 @@ description: "Search the top CDR researchers per pathway by name, country, or pa
 .count-info{text-align:center;color:var(--secondary);font-size:.9rem;margin-top:8px}
 </style>
 
-<blockquote><p><strong>⚠️ Beta</strong> — This census profiles CDR researchers using data from <a href="https://openalex.org/">OpenAlex</a> and <a href="https://orcid.org/">ORCID</a>. Each profile shows its data confidence level. Profiles marked 🟢 Verified are ORCID-confirmed; others are algorithmically assigned and may contain errors. <a href="https://bsky.app/profile/captaindrawdown.bsky.social">Report corrections on Bluesky</a>.</p></blockquote>
+<blockquote><p>Search covers the researchers in the public top lists of the <a href="/cdr-researcher-census/">CDR Researcher Census</a>: the 100 most active and the 100 most cited per pathway worldwide and the top 50 in Europe, about 650 people. Everyone else in the census is counted in aggregates only (<a href="/data/researchers/">data</a>). Names, institutions and metrics come from <a href="https://openalex.org/">OpenAlex</a> and <a href="https://orcid.org/">ORCID</a>; corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20removal%20request">info@carbon-drawdown.de</a> (<a href="/privacy/">privacy notice</a>).</p></blockquote>
 
 <div class="census-search">
 <input type="text" id="searchInput" placeholder="Type a researcher name..." autocomplete="off">
@@ -40,7 +40,7 @@ description: "Search the top CDR researchers per pathway by name, country, or pa
 <script>
 let searchData=[], searchReady=false;
 
-fetch("/data/census/search-index.txt?v=2026040901")
+fetch("/data/census/search-index.txt?v=20261104")
   .then(r => r.text())
   .then(txt => {
     searchData = txt.trim().split("\n").map(line => {

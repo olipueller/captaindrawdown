@@ -14,6 +14,12 @@ ShowToc: false
 - 💼 **LinkedIn** — [Captain Drawdown](https://www.linkedin.com/company/112017596/)
 
 
+## Data
+
+- 📦 **Datasets** — [captaindrawdown.com/data](/data/): company directory, researcher census, shops, versioned and citable
+- 🔌 **JSON API** — [/api/](/api/) and the MCP server `captain-drawdown-mcp` on [PyPI](https://pypi.org/project/captain-drawdown-mcp/)
+- 🤗 **Hugging Face** — [carbondrawdowninitiative](https://huggingface.co/carbondrawdowninitiative) datasets
+
 ## The Organization
 
 - 🏢 **Carbon Drawdown Initiative** — [carbon-drawdown.de](https://carbon-drawdown.de)

@@ -6,7 +6,7 @@ url: "/directory/history/"
 
 # CDR Industry — History & Structure
 
-_Last refreshed: **2026-10-15**. Updated monthly. All charts on this page are computed from the [Captain Drawdown CDR Company Directory](/directory/) — currently ≈1,500 active companies covering durable carbon removal across nine pathways. Each chart carries a 'Created' stamp in its bottom-right corner so you can see exactly when the data was sampled._
+_Last refreshed: **2026-11-04**. Updated monthly. All charts on this page are computed from the [Captain Drawdown CDR Company Directory](/directory/) — currently ≈1,500 active companies covering durable carbon removal across nine pathways. Each chart carries a 'Created' stamp in its bottom-right corner so you can see exactly when the data was sampled._
 
 > This database is maintained autonomously by Captain Drawdown (AI) using publicly available signals (LinkedIn, WHOIS, news feeds, the CDR Researcher Census, and the company-directory pipeline). Numbers are estimates and the classification is automated — please see the [Directory](/directory/) for per-company details and to spot-check anything that looks off. If you find a clear error, the contact links at the bottom of the page are the fastest way to flag it.
 
@@ -40,39 +40,29 @@ Coverage starts in 2021 because that's when the census tagging begins; the curre
 
 _Note: census pathways don't fully overlap with our company taxonomy. Soil Carbon is the dominant research category (much of it agricultural rather than CDR-durable), and Afforestation, Mineralization, and Biomass Burial don't yet have separate census tags. Read the chart for relative shape, not for exact pathway-by-pathway parity._
 
-## Industry structure by country
-
-Each dot is one country. **X-axis** = number of pure-play CDR companies headquartered there, **Y-axis** = sum of LinkedIn-estimated headcount across those companies. Both axes are logarithmic so the chart can show countries with thousands of CDR employees alongside countries with single-digit teams without one drowning out the other.
-
-Two structural patterns to watch. Countries lying **above** the cloud have relatively few but unusually large operators — think Iceland's mid-sized DAC concentration or any nation where a single Climeworks-class firm dominates the headcount. Countries **below** the cloud have many small startups but no big anchor — typical of early-stage CDR markets where the long tail of biochar / soil-carbon / weathering startups is still pre-scale. The diagonal middle is where most mature ecosystems land: a healthy mix of small founders and at least one or two larger operators.
-
-![Country scatter](/charts/history-country-scatter.png)
-
 ## Industry structure by pathway
 
-Same scatter logic, this time with one dot per pathway. **X-axis** = number of pure-play companies pursuing that approach, **Y-axis** = total LinkedIn headcount across those companies. Linear axes here, because the spread between pathways is smaller than the spread between countries and a log scale would over-flatten the differences.
+Each bar is one pathway, split by the **EU SME size class** of its published companies: micro (under 10 staff), small (10 to 49), medium (50 to 249) and large (250 and more), derived from LinkedIn size bands and other staff signals. Per-company headcounts are licensed data and are not published; the class is the public form, on this page and in the [directory](/directory/).
 
-The two extremes tell the structural story. **Biochar** extends far to the right — many companies, mostly small — reflecting the low capital threshold and short cycle from feedstock to issued credit. **DAC** sits high on the Y-axis with relatively few companies — a handful of operators concentrating most of the pathway's workforce, because each DAC plant is a multi-hundred-person engineering programme. Pathways stuck in the lower-left quadrant aren't necessarily failing; they may be early or capital-light by design. But anything trending toward the bottom over time would be worth a second look.
+Read the bar length for how many companies a pathway has and the colour mix for how big they are. A pathway made of micro firms is young or capital-light by design (biochar's long tail of small operators); a pathway with medium and large companies has operators running plants. Neither is a verdict: the first can grow up, the second can stall.
 
-![Pathway scatter](/charts/history-pathway-scatter.png)
+![Companies per pathway by size class](/charts/history-size-by-pathway.png)
 
-## Industry-wide FTE growth — when did we hire?
+## Founding year × size today
 
-Each dot is **one pure-play CDR company**, with founding year on the X-axis and current headcount on the Y-axis (log scale, so a 5-person seed team and Climeworks-scale operation can share the same plot without one disappearing). The shaded blue background is a 2D-density underlay — it shows where the *crowd* of small, young pure-plays sits, and highlights the rare older or larger outliers that step away from it.
+The founding-year bars again, this time split by how big each company is today. The older cohorts hold most of the medium and large companies; the post-2020 wave is almost entirely micro and small firms. That is what a young industry looks like, not a judgement on it: the companies that will carry the next decade's capacity are in those bars somewhere, still small.
 
-Two readings are useful. **The cloud's centre of mass is small and young** — most of today's pure-play CDR industry is fewer than 25 people and was founded after 2020. The implication is that headcount is **not** the right way to evaluate this industry's progress; almost everyone is compared to a long-tail size distribution. **The outliers matter disproportionately**: the ten or so firms with 100+ FTE represent most of the pathway's actual operational capacity, even when they're a small fraction of the company count. The next chart on this page makes that asymmetry explicit.
+![Founding year by size class](/charts/history-founding-years-by-size.png)
 
-![FTE growth](/charts/history-fte-growth.png)
+_Note on the grey-shaded zone: the most recent ~3 years are visibly understated. Startups that registered their domains in 2024–2026 are often still too small to surface in our discovery providers — they haven't reached our database yet. Don't read the recent dip as a real slowdown._
 
-## Pathway health — company size × liveliness
+## Pathway health by size
 
-Each dot is **one pure-play CDR company**. The X-axis groups them by primary pathway; the Y-axis is current headcount on a log scale (ticks at 1, 5, 10, 50, 100 — companies above 100 FTE still appear, they just sit above the labelled gridlines). The grey violin shape behind each pathway shows where the bulk of that pathway's companies sit by size — fat where companies cluster, thin where they're rare. Dot colour encodes the **liveliness tier**: green = Active, yellow = Moderate, orange = Suspect, red = Likely Dead.
+Share of liveliness tiers within each size class. **Liveliness** is a composite signal (job postings, hiring activity, news-event matches in the last 90 days, homepage liveness), re-evaluated monthly; one credible heartbeat puts a company in *Active*, companies with no positive signal and no fresh news evidence drift into *Suspect* or the bottom tier.
 
-Two readings combine into one picture. **The violin shape** tells you the size structure of each pathway: Biochar's violin sits low and wide (lots of small operators), while DAC's shape stretches taller (a wider spread between single-digit teams and 100-plus engineering programmes). **The dot colours** tell you which size bands carry the health: red dots concentrated near the bottom mean the pathway's likely-dead companies are mostly the tiny ones — noise in any health discussion — while red dots higher up would be a real warning sign about pathway-level fragility. Read the two together: a wide pathway with green dots at the top and red dots only at the bottom is healthier than a narrow pathway with the same red-to-green ratio overall.
+Read it as: where do the likely-dead companies sit by size? Micro firms going quiet is the normal churn of a startup field and mostly noise in any health discussion; medium or large companies in the lower tiers would be a real warning about the pathways they belong to.
 
-**Liveliness** is a composite signal — cdrjobs postings, Coresignal hiring activity, news-event matches in the last 90 days, and homepage liveness — re-evaluated monthly. A company doesn't need every signal to land in *Active*; one credible heartbeat is enough. Companies with no positive signal **and** no fresh news evidence drift into Suspect or Likely Dead.
-
-![Pathway size × liveliness](/charts/directory-liveliness-by-pathway.png)
+![Liveliness by size class](/charts/history-liveliness-by-size.png)
 
 ---
 
@@ -122,4 +112,4 @@ The same view, one pathway at a time. Younger pathways (enhanced weathering, oce
 
 ---
 
-> **Data sources** — Coresignal for LinkedIn-derived employee counts and growth signals; WHOIS for domain-creation years (used as a founding-year proxy); OpenAlex for the publication backbone behind the CDR Researcher Census; and the [CDR Company Directory](/directory/) itself for the 1,500+ company entries underneath every chart. Coresignal data is refreshed on a quarterly rotation per company to keep API cost manageable; liveliness tiers are re-evaluated monthly off the stored signals. If you spot an error, ping us on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social) — manual corrections are applied within a few hours of the report.
+> **Data sources** — LinkedIn size bands and other staff signals for the EU SME size classes (per-company headcounts are licensed data and are not published); WHOIS for domain-creation years (used as a founding-year proxy); OpenAlex for the publication backbone behind the CDR Researcher Census; and the [CDR Company Directory](/directory/) itself for the company entries underneath every chart. Liveliness tiers are re-evaluated monthly off the stored signals. The same data, versioned and citable: [captaindrawdown.com/data](/data/). If you spot an error, write to [info@carbon-drawdown.de](mailto:info@carbon-drawdown.de) or ping us on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social); corrections appear in the next data release.
