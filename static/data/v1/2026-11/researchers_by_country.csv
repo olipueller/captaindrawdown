@@ -1,29 +1,29 @@
 country_code,region,researchers,share_pct,calibrated_estimate
-CN,China,31003,32.52,27513
-US,United States,10114,10.61,9627
+CN,China,31004,32.52,27514
+US,United States,10115,10.61,9628
 IN,India,7505,7.87,6673
-,Unknown,7239,7.59,7239
-GB,Europe (non-EU),2743,2.88,2673
-DE,EU27,2674,2.81,2598
-BR,Rest of world,2173,2.28,2066
+,Unknown,7230,7.58,7230
+GB,Europe (non-EU),2747,2.88,2677
+DE,EU27,2676,2.81,2600
+BR,Rest of world,2172,2.28,2065
 AU,Australia & New Zealand,1689,1.77,1793
 IT,EU27,1592,1.67,1620
 CA,Canada,1552,1.63,1475
-ES,EU27,1356,1.42,1395
-FR,EU27,1303,1.37,1189
-KR,Rest of world,1166,1.22,1103
-JP,Japan,1146,1.2,1109
+ES,EU27,1355,1.42,1394
+FR,EU27,1304,1.37,1190
+KR,Rest of world,1165,1.22,1102
+JP,Japan,1145,1.2,1108
 PK,Rest of world,945,0.99,811
 ID,Rest of world,899,0.94,702
 NL,EU27,790,0.83,841
 RU,Rest of world,735,0.77,580
 MY,Rest of world,726,0.76,713
 NG,Rest of world,707,0.74,561
-SE,EU27,642,0.67,652
-CH,Europe (non-EU),636,0.67,648
+SE,EU27,643,0.67,653
+CH,Europe (non-EU),637,0.67,649
 FI,EU27,627,0.66,633
 PL,EU27,571,0.6,549
-DK,EU27,568,0.6,614
+DK,EU27,569,0.6,615
 TW,Rest of world,566,0.59,486
 SA,Rest of world,560,0.59,579
 BE,EU27,540,0.57,512
@@ -40,23 +40,23 @@ ZA,Rest of world,367,0.38,325
 PT,EU27,359,0.38,381
 TR,Europe (non-EU),329,0.35,314
 ET,Rest of world,303,0.32,281
-GR,EU27,301,0.32,291
+GR,EU27,302,0.32,292
 VN,Rest of world,296,0.31,223
 SG,Rest of world,275,0.29,290
 CO,Rest of world,266,0.28,249
+MA,Rest of world,263,0.28,239
 IE,EU27,262,0.27,263
-MA,Rest of world,262,0.27,238
 NZ,Australia & New Zealand,250,0.26,234
-HU,EU27,246,0.26,220
+HU,EU27,245,0.26,219
 AR,Rest of world,236,0.25,211
 RO,EU27,223,0.23,185
 KE,Rest of world,208,0.22,173
-AE,Rest of world,203,0.21,188
+AE,Rest of world,202,0.21,187
 LK,Rest of world,192,0.2,158
 GH,Rest of world,179,0.19,135
 UA,Europe (non-EU),174,0.18,127
 NP,Rest of world,169,0.18,91
-PH,Rest of world,155,0.16,63
+PH,Rest of world,157,0.16,64
 CL,Rest of world,152,0.16,147
 RS,Europe (non-EU),142,0.15,133
 IQ,Rest of world,139,0.15,95
@@ -72,13 +72,13 @@ OM,Rest of world,92,0.1,86
 KZ,Rest of world,91,0.1,78
 LV,EU27,89,0.09,73
 DZ,Rest of world,79,0.08,69
-QA,Rest of world,74,0.08,73
+QA,Rest of world,75,0.08,74
 BG,EU27,69,0.07,57
 HR,EU27,62,0.07,61
 TZ,Rest of world,58,0.06,52
 UG,Rest of world,57,0.06,49
-JO,Rest of world,55,0.06,44
 UZ,Rest of world,55,0.06,45
+JO,Rest of world,54,0.06,43
 CI,Rest of world,50,0.05,42
 SI,EU27,49,0.05,45
 MO,Rest of world,45,0.05,23
@@ -125,13 +125,13 @@ VE,Rest of world,10,0.01,9
 BZ,Rest of world,10,0.01,10
 PY,Rest of world,9,0.01,8
 CG,Rest of world,9,0.01,6
-MM,Rest of world,8,0.01,8
 GA,Rest of world,8,0.01,8
 NC,Rest of world,8,0.01,8
 BN,Rest of world,7,0.01,8
 JM,Rest of world,7,0.01,7
 MU,Rest of world,7,0.01,7
 BT,Rest of world,7,0.01,7
+MM,Rest of world,7,0.01,7
 SV,Rest of world,7,0.01,7
 ML,Rest of world,7,0.01,7
 MZ,Rest of world,7,0.01,6

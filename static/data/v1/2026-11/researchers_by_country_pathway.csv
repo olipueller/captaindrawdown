@@ -1,40 +1,40 @@
 country_code,pathway,researchers
-CN,Soil Carbon,15971
+CN,Soil Carbon,15973
 CN,Biochar,10063
 IN,Soil Carbon,3910
-US,Soil Carbon,3857
+US,Soil Carbon,3856
 ,Soil Carbon,2932
 IN,Biochar,2216
 CN,General CDR,2028
-US,General CDR,1788
+US,General CDR,1789
 ,Biochar,1533
 US,Biochar,1427
-US,DAC,1155
-,General CDR,1048
+US,DAC,1156
+,General CDR,1043
 DE,Soil Carbon,1034
 BR,Soil Carbon,1028
 CN,Enhanced Weathering,1015
-US,Ocean CDR,908
+US,Ocean CDR,909
 GB,Soil Carbon,901
 CN,DAC,800
 IN,General CDR,745
 CN,Ocean CDR,743
 AU,Soil Carbon,696
 IT,Soil Carbon,692
-GB,General CDR,684
-,DAC,634
+GB,General CDR,688
+,DAC,632
 ES,Soil Carbon,615
 CA,Soil Carbon,612
-US,Enhanced Weathering,609
+US,Enhanced Weathering,608
 BR,Biochar,598
 FR,Soil Carbon,586
-DE,General CDR,559
+DE,General CDR,558
 RU,Soil Carbon,490
-KR,Biochar,457
-,Ocean CDR,443
+KR,Biochar,455
+,Ocean CDR,441
 ID,Soil Carbon,398
 PK,Soil Carbon,397
-CN,BECCS,383
+CN,BECCS,382
 US,BECCS,370
 PK,Biochar,370
 MY,Biochar,368
@@ -46,11 +46,11 @@ FI,Soil Carbon,318
 GB,Biochar,315
 JP,Soil Carbon,299
 ,Enhanced Weathering,294
-DE,DAC,292
+DE,DAC,293
 AU,Biochar,291
 ID,Biochar,282
 NG,Soil Carbon,281
-GB,Enhanced Weathering,277
+GB,Enhanced Weathering,278
 TH,Biochar,269
 NG,Biochar,264
 DE,Ocean CDR,262
@@ -65,7 +65,7 @@ CH,Soil Carbon,244
 IT,General CDR,242
 ES,Biochar,241
 DK,Soil Carbon,240
-DE,Biochar,233
+DE,Biochar,235
 EG,Biochar,231
 MX,Soil Carbon,226
 TW,Biochar,225
@@ -74,8 +74,8 @@ ET,Soil Carbon,225
 BE,Soil Carbon,222
 JP,Biochar,218
 PL,Biochar,215
-GB,DAC,208
-FR,General CDR,204
+GB,DAC,207
+FR,General CDR,205
 IN,Ocean CDR,201
 VN,Biochar,198
 GB,Ocean CDR,197
@@ -86,8 +86,8 @@ BD,Soil Carbon,190
 NL,General CDR,187
 IN,BECCS,186
 IR,Soil Carbon,181
-JP,General CDR,179
 IR,Biochar,179
+JP,General CDR,178
 AR,Soil Carbon,172
 ES,General CDR,169
 TW,Soil Carbon,167
@@ -97,7 +97,7 @@ CH,General CDR,156
 JP,DAC,155
 BR,BECCS,154
 CA,Ocean CDR,153
-KR,General CDR,151
+KR,General CDR,152
 ZA,Soil Carbon,150
 AU,Ocean CDR,149
 KE,Soil Carbon,147
@@ -154,18 +154,18 @@ PK,General CDR,94
 SE,Biochar,93
 DK,General CDR,92
 BE,Enhanced Weathering,91
+SE,BECCS,89
 DK,Biochar,89
 FI,Biochar,89
-SE,BECCS,88
 KR,Ocean CDR,88
 CH,DAC,87
 NG,General CDR,87
 SA,General CDR,85
 IQ,Biochar,84
 GR,Biochar,84
-BR,Enhanced Weathering,82
 NO,Ocean CDR,82
 PH,Soil Carbon,82
+BR,Enhanced Weathering,81
 LK,Soil Carbon,81
 GH,Biochar,80
 LK,Biochar,80
@@ -183,8 +183,8 @@ IT,DAC,70
 RS,Biochar,70
 IT,BECCS,68
 BE,General CDR,66
-AE,General CDR,64
 ES,BECCS,63
+AE,General CDR,63
 RO,Biochar,63
 RS,Soil Carbon,63
 IT,Enhanced Weathering,62
@@ -199,10 +199,10 @@ SK,Soil Carbon,57
 ZA,General CDR,55
 KR,Enhanced Weathering,55
 NL,Biochar,55
+CH,Enhanced Weathering,53
 OM,Biochar,53
 SK,Biochar,53
 TN,Soil Carbon,53
-CH,Enhanced Weathering,52
 BD,General CDR,52
 TR,General CDR,51
 KZ,Biochar,51
@@ -234,11 +234,11 @@ MY,DAC,40
 BE,DAC,40
 TN,Biochar,40
 HU,Biochar,40
-ES,Enhanced Weathering,39
 CH,Ocean CDR,39
 AT,BECCS,39
 NL,Enhanced Weathering,39
 FI,DAC,39
+ES,Enhanced Weathering,38
 MX,General CDR,38
 AR,Biochar,38
 AU,BECCS,37
@@ -252,12 +252,12 @@ PT,Ocean CDR,36
 CM,Biochar,36
 NZ,General CDR,35
 TW,General CDR,34
+DK,Enhanced Weathering,34
 PH,Biochar,34
 IR,DAC,34
 NG,DAC,34
 SE,Ocean CDR,33
 BR,Ocean CDR,33
-DK,Enhanced Weathering,33
 NO,DAC,32
 NZ,Ocean CDR,32
 IL,Ocean CDR,32
@@ -290,12 +290,12 @@ DZ,Soil Carbon,25
 NG,BECCS,25
 BW,Soil Carbon,25
 CI,Soil Carbon,25
-HU,General CDR,24
+MA,General CDR,24
 IQ,Soil Carbon,24
 PE,General CDR,24
 CI,Biochar,24
 JO,Soil Carbon,24
-MA,General CDR,23
+HU,General CDR,23
 IE,Biochar,23
 RU,Ocean CDR,23
 IS,Soil Carbon,23
@@ -306,6 +306,7 @@ BF,Soil Carbon,22
 UG,Soil Carbon,22
 CL,Biochar,22
 AR,General CDR,21
+PH,General CDR,21
 CL,General CDR,21
 FI,Ocean CDR,21
 IQ,General CDR,21
@@ -323,7 +324,6 @@ MY,Ocean CDR,20
 SA,Enhanced Weathering,20
 ZA,DAC,20
 UA,General CDR,20
-PH,General CDR,19
 PK,Ocean CDR,19
 AE,DAC,19
 LV,Biochar,19
@@ -362,6 +362,7 @@ RW,Soil Carbon,16
 ZA,Ocean CDR,15
 PT,DAC,15
 MX,Enhanced Weathering,15
+GR,Ocean CDR,15
 CO,BECCS,15
 VN,BECCS,15
 MO,Soil Carbon,15
@@ -371,7 +372,6 @@ TH,Ocean CDR,14
 ZA,Enhanced Weathering,14
 EG,DAC,14
 IE,Ocean CDR,14
-GR,Ocean CDR,14
 HK,Enhanced Weathering,14
 TG,Soil Carbon,14
 CY,Soil Carbon,14
@@ -384,6 +384,7 @@ BA,Soil Carbon,13
 CR,Soil Carbon,13
 NI,Soil Carbon,13
 IL,Enhanced Weathering,12
+QA,DAC,12
 NG,Enhanced Weathering,12
 GH,Enhanced Weathering,12
 BG,DAC,12
@@ -391,7 +392,6 @@ PA,Soil Carbon,12
 EG,Enhanced Weathering,12
 ZA,BECCS,11
 CO,Ocean CDR,11
-QA,DAC,11
 IE,Enhanced Weathering,11
 EG,Ocean CDR,11
 IL,General CDR,11
@@ -461,7 +461,6 @@ SG,Ocean CDR,7
 MN,General CDR,7
 AZ,Biochar,7
 LU,Biochar,7
-MM,Soil Carbon,7
 ML,Soil Carbon,7
 NA,Soil Carbon,7
 VN,Enhanced Weathering,7
@@ -491,6 +490,7 @@ CY,Biochar,6
 MN,Biochar,6
 BW,Biochar,6
 FJ,Soil Carbon,6
+MM,Soil Carbon,6
 ZW,General CDR,6
 MZ,Soil Carbon,6
 LU,Soil Carbon,6
@@ -555,7 +555,6 @@ BN,Biochar,3
 CY,Ocean CDR,3
 HR,Ocean CDR,3
 FJ,General CDR,3
-JO,General CDR,3
 BG,Ocean CDR,3
 KE,BECCS,3
 SK,DAC,3
@@ -608,6 +607,7 @@ LK,BECCS,2
 KW,General CDR,2
 JM,Ocean CDR,2
 MU,Biochar,2
+JO,General CDR,2
 SI,Ocean CDR,2
 BF,General CDR,2
 NP,DAC,2

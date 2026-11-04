@@ -34,12 +34,12 @@
     },
     "researchers": {
       "total": 95329,
-      "calibrated_estimate": 88180,
-      "with_country": 88090,
+      "calibrated_estimate": 88179,
+      "with_country": 88099,
       "countries": 182,
-      "institutions": 15309,
+      "institutions": 15311,
       "papers_total": 27418,
-      "europe": 18135
+      "europe": 18144
     },
     "shops": {
       "count": 14
