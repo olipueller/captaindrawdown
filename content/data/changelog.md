@@ -1,16 +1,24 @@
 ---
 title: "Data changelog"
-description: "Release notes and corrections for the Captain Drawdown datasets."
+description: "Release notes, corrections and the version history of the Captain Drawdown datasets."
 url: "/data/changelog/"
 ---
 
-Newest first. Each release is frozen under `/data/v1/<version>/`; corrections between releases are noted here and applied in the next release.
+Newest first. Releases (YYYY-MM) and patches (YYYY-MM.n) cover all three datasets and are frozen under `/data/v1/<version>/`. Entries before the first release are the version history of the researcher census (launched 18 March 2026); "Census refresh" rows are the monthly database updates on the 11th, which feed the release around the 15th. Corrections between releases are noted here and applied in the next release.
 
-### 2026-11 · 2026-11-04
-- Release 2026-11: 969 published companies (1,470 active), 95,329 researchers (calibrated estimate 88,179), 14 shops; 7 pathway top lists.
-### 2026-11.1 · 2026-11-04
-- Release 2026-11.1: 969 published companies (1,470 active), 95,329 researchers (calibrated estimate 88,179), 14 shops; 7 pathway top lists.
-- Patch 2026-11.1: institutions in the researcher top lists and profile pages now come from the papers' own affiliations 2024-2026 (OpenAlex authorships; the affiliation text when OpenAlex has no institution match) instead of the author profile, which mixed in mis-attributed papers. 157 of 631 top-list institutions changed (Planavsky: Yale University, not UC Riverside; Stubbs: University of Glasgow, not Royal Bank of Scotland). The institution_source column says works, works_raw, orcid or openalex. Company and shop files are rebuilt from the same database.
-### 2026-11.2 · 2026-11-04
-- Release 2026-11.2: 969 published companies (1,470 active), 95,329 researchers (calibrated estimate 88,179), 14 shops; 7 pathway top lists.
-- Patch 2026-11.2: new files top100_<pathway>_papers (CSV and JSON), one row per person in the top lists and per paper that counted for the ranking (rank, paper id, year, title, citations, pathway tags, link), so every rank can be checked against the papers. The top-list pages link each paper count to the counted papers on the profile page.
+| Date | Version | Dataset | What changed |
+|---|---|---|---|
+| 2026-11-04 | 2026-11.2 | All | Release 2026-11.2: 969 published companies (1,470 active), 95,329 researchers (calibrated estimate 88,179), 14 shops; 7 pathway top lists.<br>Patch 2026-11.2: new files top100_<pathway>_papers (CSV and JSON), one row per person in the top lists and per paper that counted for the ranking (rank, paper id, year, title, citations, pathway tags, link), so every rank can be checked against the papers. The top-list pages link each paper count to the counted papers on the profile page. |
+| 2026-11-04 | 2026-11.1 | All | Release 2026-11.1: 969 published companies (1,470 active), 95,329 researchers (calibrated estimate 88,179), 14 shops; 7 pathway top lists.<br>Patch 2026-11.1: institutions in the researcher top lists and profile pages now come from the papers' own affiliations 2024-2026 (OpenAlex authorships; the affiliation text when OpenAlex has no institution match) instead of the author profile, which mixed in mis-attributed papers. 157 of 631 top-list institutions changed (Planavsky: Yale University, not UC Riverside; Stubbs: University of Glasgow, not Royal Bank of Scotland). The institution_source column says works, works_raw, orcid or openalex. Company and shop files are rebuilt from the same database. |
+| 2026-11-04 | 2026-11 | All | Release 2026-11: 969 published companies (1,470 active), 95,329 researchers (calibrated estimate 88,179), 14 shops; 7 pathway top lists.<br>Public researcher data reduced to aggregates plus the top lists per pathway: profile pages only for the roughly 630 researchers in those lists, everyone else counted in the aggregates.<br>Per-company headcounts and follower numbers withdrawn (licensed data); EU SME size classes take their place. |
+| 2026-10-11 | Census refresh | Researchers | Monthly database refresh: 1,779 new papers discovered and classified, author metrics re-enriched. |
+| 2026-09-11 | Census refresh | Researchers | Monthly database refresh: 1,348 new papers discovered and classified, author metrics re-enriched. |
+| 2026-08-11 | Census refresh | Researchers | Monthly database refresh: 1,758 new papers discovered and classified, author metrics re-enriched. |
+| 2026-07-11 | Census v3.4 | Researchers | Membership tightened: researchers without a single classified-relevant CDR paper are no longer counted or exported. Researchers 147,377 → 88,691. |
+| 2026-07-11 | Census v3.3 | Researchers | Deterministic pathway tie-break: papers tagged with a specific pathway and General CDR assign the specific one. DAC 1,251 → 4,122 researchers; General CDR 18,066 → 11,123. |
+| 2026-07-11 | Census v3.2 | Researchers | Tier-2 deduplication: 817 same-person author records merged on identical normalised names plus shared co-authors or institution, with common-name and ORCID-conflict guards. Researchers 148,194 → 147,377. |
+| 2026-07-11 | Census v3.1 | Researchers | Deduplication and primary-works scope: 561 ORCID-split author records merged, 1,441 upstream-deleted IDs retired, 6,959 historical merges repaired; datasets, supplements, peer-review comments and errata no longer count as papers (−2,002). Researchers 150,203 → 148,194; papers 27,816 → 25,814. |
+| 2026-07-09 | Census v3 | Researchers | Monthly refresh pipeline live. 8,328 new papers discovered since April, 3,067 classified CDR-relevant; all author metrics re-enriched; ORCID enrichment for 10,930 new researchers. Researchers 122,674 → 150,203; relevant papers 24,749 → 27,816. |
+| 2026-03-23 | Census v2.1 | Researchers | Direct air capture classifier recalibrated: 1,312 DAC papers recovered (30 → 1,342 papers, 48 → 3,951 authors). |
+| 2026-03-23 | Census v2 | Researchers | Every paper reclassified by title and abstract with a language model; 12,384 non-CDR papers removed (39,278 → 24,749). 11,237 authors left without a CDR paper. |
+| 2026-03-18 | Census v1 | Researchers | Initial launch of the CDR Researcher Census: 122,674 authors, 39,278 papers, keyword-based pathway classification. |
