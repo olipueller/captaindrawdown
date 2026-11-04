@@ -216,7 +216,7 @@ hr { border-color: var(--line); }
 .cd-filters select { max-width: 220px; }
 .cd-count { font-size: 14px; color: var(--ink-muted); margin-left: auto; white-space: nowrap; }
 .cd-legend, .post-content .cd-legend { font-family: var(--font-sans); font-size: 13px; line-height: 20px; color: var(--ink-muted); margin: 0 0 var(--space-3); max-width: none; }
-.cd-legend-item { white-space: nowrap; margin-right: var(--space-3); }
+.cd-legend-item { margin-right: var(--space-3); }  /* wraps on phones; the badge itself stays on one line */
 
 /* — DataTable — */
 .cd-tablewrap { border: 1px solid var(--line); border-radius: var(--radius-md); background: var(--surface-1); overflow: auto; margin: 0 0 var(--space-5); }
