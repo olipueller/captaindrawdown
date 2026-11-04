@@ -1,15 +1,15 @@
 ---
 title: "Top 100 researchers in Ocean CDR"
-description: "The 100 most productive researchers in Ocean CDR since 2021 worldwide and the 50 most productive in Europe, from the CDR Researcher Census release 2026-11.1. CC BY 4.0."
+description: "The 100 most productive researchers in Ocean CDR since 2021 worldwide and the 50 most productive in Europe, from the CDR Researcher Census release 2026-11.2. CC BY 4.0."
 url: "/data/researchers/ocean-cdr/"
 ShowToc: false
 ---
 
-**The 100 most productive researchers in Ocean CDR since 2021, worldwide, and the 50 most productive based in Europe**, from the [CDR Researcher Census](/data/researchers/) release 2026-11.1 (data as of 2026-11-04). 5,644 researchers have at least one CDR paper in this pathway since 2021; 59 of the global top 100 are based in Europe.
+**The 100 most productive researchers in Ocean CDR since 2021, worldwide, and the 50 most productive based in Europe**, from the [CDR Researcher Census](/data/researchers/) release 2026-11.2 (data as of 2026-11-04). 5,644 researchers have at least one CDR paper in this pathway since 2021; 59 of the global top 100 are based in Europe.
 
 Rank counts CDR-relevant papers and preprints 2021–2026 in this pathway (a preprint and its journal version can count twice when OpenAlex lists both); the citation rank orders the same people by citations to those papers. Institution comes from the researcher's own papers 2024–2026, else from the ORCID record, else from the OpenAlex author profile (marked †, the least reliable source). Corrections and removal: [info@carbon-drawdown.de](mailto:info@carbon-drawdown.de?subject=Census%20correction), done within five working days ([privacy notice](/privacy/)).
 
-Download: [Top 100 CSV](/data/v1/2026-11.1/top100_ocean-cdr.csv) · [JSON](/data/v1/2026-11.1/top100_ocean-cdr.json) · [Top 50 Europe CSV](/data/v1/2026-11.1/top50_europe_ocean-cdr.csv) · [JSON](/data/v1/2026-11.1/top50_europe_ocean-cdr.json). Licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Cite as: Captain Drawdown / Carbon Drawdown Initiative (2026). CDR Researcher Census, version 2026-11.1. https://captaindrawdown.com/data/researchers/ (CC licence, see page).
+Download: [Top 100 CSV](/data/v1/2026-11.2/top100_ocean-cdr.csv) · [JSON](/data/v1/2026-11.2/top100_ocean-cdr.json) · [Top 50 Europe CSV](/data/v1/2026-11.2/top50_europe_ocean-cdr.csv) · [JSON](/data/v1/2026-11.2/top50_europe_ocean-cdr.json) · counted papers: [CSV](/data/v1/2026-11.2/top100_ocean-cdr_papers.csv) · [JSON](/data/v1/2026-11.2/top100_ocean-cdr_papers.json) (one row per person and paper). Licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Cite as: Captain Drawdown / Carbon Drawdown Initiative (2026). CDR Researcher Census, version 2026-11.2. https://captaindrawdown.com/data/researchers/ (CC licence, see page).
 
 ## Worldwide, top 100
 

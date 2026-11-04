@@ -4,7 +4,7 @@ description: "Open, versioned datasets on carbon dioxide removal: 969 companies,
 url: "/data/"
 ---
 
-Three datasets, one monthly release, every file with a version, a licence and a citation. Release **2026-11.1**, data as of 2026-11-04.
+Three datasets, one monthly release, every file with a version, a licence and a citation. Release **2026-11.2**, data as of 2026-11-04.
 
 | Dataset | Headline number | Licence | Page |
 |---|---|---|---|
@@ -12,7 +12,7 @@ Three datasets, one monthly release, every file with a version, a licence and a 
 | CDR Researcher Census | 95,329 researchers listed, calibrated estimate 88,179, 27,418 papers, 182 countries | CC BY 4.0 | [/data/researchers/](/data/researchers/) |
 | CDR Shops | 14 shops with live prices | CC BY 4.0 | [/data/shops/](/data/shops/) |
 
-Downloads: [`/data/v1/2026-11.1/`](/data/v1/2026-11.1/manifest.json) (frozen) and [`/data/v1/latest/`](/data/v1/latest/manifest.json) (newest). Each release has a [manifest](/data/v1/latest/manifest.json) with checksums.
+Downloads: [`/data/v1/2026-11.2/`](/data/v1/2026-11.2/manifest.json) (frozen) and [`/data/v1/latest/`](/data/v1/latest/manifest.json) (newest). Each release has a [manifest](/data/v1/latest/manifest.json) with checksums.
 
 ## How the data is made
 

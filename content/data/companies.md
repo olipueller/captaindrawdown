@@ -18,7 +18,7 @@ url: "/data/companies/"
     "name": "Captain Drawdown (Carbon Drawdown Initiative)",
     "url": "https://captaindrawdown.com"
   },
-  "version": "2026-11.1",
+  "version": "2026-11.2",
   "dateModified": "2026-11-04",
   "keywords": [
     "carbon dioxide removal",
@@ -34,18 +34,18 @@ url: "/data/companies/"
     {
       "@type": "DataDownload",
       "encodingFormat": "text/csv",
-      "contentUrl": "https://captaindrawdown.com/data/v1/2026-11.1/companies.csv"
+      "contentUrl": "https://captaindrawdown.com/data/v1/2026-11.2/companies.csv"
     },
     {
       "@type": "DataDownload",
       "encodingFormat": "application/json",
-      "contentUrl": "https://captaindrawdown.com/data/v1/2026-11.1/companies.json"
+      "contentUrl": "https://captaindrawdown.com/data/v1/2026-11.2/companies.json"
     }
   ]
 }
 </script>
 
-**969 published companies** in release 2026-11.1 (data as of 2026-11-04), out of 1,470 active companies in the database. Published means: active, and a supplier, a corporate division, an ecosystem company (MRV, brokers, software) or a side business. Buyers, entries under review and academic institutions stay in the database but are not published. 427 of the published companies are based in Europe (EU27 plus UK, Switzerland, Norway, Iceland).
+**969 published companies** in release 2026-11.2 (data as of 2026-11-04), out of 1,470 active companies in the database. Published means: active, and a supplier, a corporate division, an ecosystem company (MRV, brokers, software) or a side business. Buyers, entries under review and academic institutions stay in the database but are not published. 427 of the published companies are based in Europe (EU27 plus UK, Switzerland, Norway, Iceland).
 
 | Region | Companies |
 |---|---|
@@ -76,7 +76,7 @@ url: "/data/companies/"
 
 | File | Rows | Size | Format |
 |---|---|---|---|
-| companies | 969 | 722 KB | [CSV](/data/v1/2026-11.1/companies.csv) · [JSON](/data/v1/2026-11.1/companies.json) |
+| companies | 969 | 722 KB | [CSV](/data/v1/2026-11.2/companies.csv) · [JSON](/data/v1/2026-11.2/companies.json) |
 
 ## Fields
 
@@ -95,13 +95,13 @@ The directory started from Grant Faber's public list of CDR companies (January 2
 
 ## Versions
 
-This page describes release **2026-11.1** (data as of 2026-11-04). Every release is frozen under `/data/v1/2026-11.1/`; the newest release is also mirrored under [`/data/v1/latest/`](/data/v1/latest/). The [manifest](/data/v1/2026-11.1/manifest.json) lists every file with row counts and SHA-256 checksums. Releases appear monthly, around the 15th; corrections between releases are listed in the [changelog](/data/changelog/).
+This page describes release **2026-11.2** (data as of 2026-11-04). Every release is frozen under `/data/v1/2026-11.2/`; the newest release is also mirrored under [`/data/v1/latest/`](/data/v1/latest/). The [manifest](/data/v1/2026-11.2/manifest.json) lists every file with row counts and SHA-256 checksums. Releases appear monthly, around the 15th; corrections between releases are listed in the [changelog](/data/changelog/).
 
 ## Licence and citation
 
 Licence: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Cite as:
 
-> Captain Drawdown / Carbon Drawdown Initiative (2026). CDR Company Directory, version 2026-11.1. https://captaindrawdown.com/data/companies/ (CC licence, see page).
+> Captain Drawdown / Carbon Drawdown Initiative (2026). CDR Company Directory, version 2026-11.2. https://captaindrawdown.com/data/companies/ (CC licence, see page).
 
 ## Corrections and removal
 

@@ -18,7 +18,7 @@ url: "/data/shops/"
     "name": "Captain Drawdown (Carbon Drawdown Initiative)",
     "url": "https://captaindrawdown.com"
   },
-  "version": "2026-11.1",
+  "version": "2026-11.2",
   "dateModified": "2026-11-04",
   "keywords": [
     "carbon dioxide removal",
@@ -31,24 +31,24 @@ url: "/data/shops/"
     {
       "@type": "DataDownload",
       "encodingFormat": "text/csv",
-      "contentUrl": "https://captaindrawdown.com/data/v1/2026-11.1/shops.csv"
+      "contentUrl": "https://captaindrawdown.com/data/v1/2026-11.2/shops.csv"
     },
     {
       "@type": "DataDownload",
       "encodingFormat": "application/json",
-      "contentUrl": "https://captaindrawdown.com/data/v1/2026-11.1/shops.json"
+      "contentUrl": "https://captaindrawdown.com/data/v1/2026-11.2/shops.json"
     }
   ]
 }
 </script>
 
-**14 shops** in release 2026-11.1 (data as of 2026-11-04): every shop we know of where a person can buy certified carbon removal with a live credit-card checkout, listed on [cdr-shops.com](https://www.cdr-shops.com/carbon-removal/) with price, method, certifier, delivery time and our ratings for MRV, certification and delivery.
+**14 shops** in release 2026-11.2 (data as of 2026-11-04): every shop we know of where a person can buy certified carbon removal with a live credit-card checkout, listed on [cdr-shops.com](https://www.cdr-shops.com/carbon-removal/) with price, method, certifier, delivery time and our ratings for MRV, certification and delivery.
 
 ## Download
 
 | File | Rows | Size | Format |
 |---|---|---|---|
-| shops | 14 | 2 KB | [CSV](/data/v1/2026-11.1/shops.csv) · [JSON](/data/v1/2026-11.1/shops.json) |
+| shops | 14 | 2 KB | [CSV](/data/v1/2026-11.2/shops.csv) · [JSON](/data/v1/2026-11.2/shops.json) |
 
 ## Fields
 
@@ -62,13 +62,13 @@ Shops are added only when a live checkout exists and the removal is third-party 
 
 ## Versions
 
-This page describes release **2026-11.1** (data as of 2026-11-04). Every release is frozen under `/data/v1/2026-11.1/`; the newest release is also mirrored under [`/data/v1/latest/`](/data/v1/latest/). The [manifest](/data/v1/2026-11.1/manifest.json) lists every file with row counts and SHA-256 checksums. Releases appear monthly, around the 15th; corrections between releases are listed in the [changelog](/data/changelog/).
+This page describes release **2026-11.2** (data as of 2026-11-04). Every release is frozen under `/data/v1/2026-11.2/`; the newest release is also mirrored under [`/data/v1/latest/`](/data/v1/latest/). The [manifest](/data/v1/2026-11.2/manifest.json) lists every file with row counts and SHA-256 checksums. Releases appear monthly, around the 15th; corrections between releases are listed in the [changelog](/data/changelog/).
 
 ## Licence and citation
 
 Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Cite as:
 
-> Captain Drawdown / Carbon Drawdown Initiative (2026). CDR Shops, version 2026-11.1. https://captaindrawdown.com/data/shops/ (CC licence, see page).
+> Captain Drawdown / Carbon Drawdown Initiative (2026). CDR Shops, version 2026-11.2. https://captaindrawdown.com/data/shops/ (CC licence, see page).
 
 ## Corrections and removal
 
