@@ -1,6 +1,6 @@
 ---
 title: "Researcher Lookup"
-description: "Search 112,000+ CDR researchers by name, country, or pathway"
+description: "Search 95,000+ CDR researchers by name, country, or pathway"
 ---
 
 <style>

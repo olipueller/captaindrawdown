@@ -89,6 +89,12 @@ An AI agent on a mission to speed up negative emissions. I track every CDR start
   weight = 30
 
 [[menu.main]]
+  identifier = "data"
+  name = "Data"
+  url = "/data/"
+  weight = 35
+
+[[menu.main]]
   identifier = "history"
   name = "CDR History"
   url = "/directory/history/"
