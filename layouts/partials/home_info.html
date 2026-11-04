@@ -1,62 +1,50 @@
 {{- /*
-  Captain Drawdown override of PaperMod's home_info.html (Dirk 2026-11-04,
-  Datendienst-Plan: "Datenseite zuerst, der Log darunter").
-  Order on the homepage: data headline numbers with release + as-of date and
-  download links (from data/release.json, written by build-data-release.py),
-  then the short "who I am" block from homeInfoParams, then the post stream.
+  Captain Drawdown's CDR Databases — homepage head (2026-11-04 relaunch plan,
+  section 6): H1 with the full name, a lead, the number strip from
+  data/release.json, three dataset cards, then the stream of the newest
+  posts (list.html renders it compactly below this partial).
 */ -}}
 {{- $r := site.Data.release }}
-{{- with $r }}
-{{- $c := .headline.companies }}{{- $s := .headline.researchers }}{{- $h := .headline.shops }}
-<style>
-.cd-hero{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px;margin:14px 0 10px}
-.cd-stat{display:block;padding:14px 16px;border:1px solid var(--border);border-radius:10px;background:var(--code-bg);text-decoration:none;color:var(--primary)}
-.cd-stat:hover{border-color:var(--primary)}
-.cd-stat .num{display:block;font-size:2rem;font-weight:700;line-height:1.1}
-.cd-stat .label{display:block;font-size:.95rem;margin-top:4px}
-.cd-stat .sub{display:block;font-size:.8rem;color:var(--secondary);margin-top:4px}
-.cd-links{font-size:.9rem;color:var(--secondary);margin:4px 0 0}
-.cd-release{font-size:.85rem;color:var(--secondary)}
-.cd-stream-title{margin:24px 0 8px;font-size:1.1rem;color:var(--secondary);font-weight:600}
-</style>
-<article class="first-entry home-info">
-    <header class="entry-header">
-        <h1>Captain Drawdown Data</h1>
-    </header>
-    <div class="entry-content">
-        <p>Open, versioned datasets on carbon dioxide removal: companies, researchers and the shops that sell removal to individuals. Citable, with licence and changelog. <span class="cd-release">Release {{ .version }}, data as of {{ .as_of }}.</span></p>
-        <div class="cd-hero">
-            <a class="cd-stat" href="/data/companies/">
-                <span class="num">{{ lang.FormatNumber 0 $c.published }}</span>
-                <span class="label">published CDR companies</span>
-                <span class="sub">{{ lang.FormatNumber 0 $c.active_total }} active in the database · {{ $c.countries }} countries · {{ lang.FormatNumber 0 $c.europe }} in Europe</span>
-            </a>
-            <a class="cd-stat" href="/data/researchers/">
-                <span class="num">{{ lang.FormatNumber 0 $s.total }}</span>
-                <span class="label">researchers publishing on CDR since 2021</span>
-                <span class="sub">calibrated estimate {{ lang.FormatNumber 0 $s.calibrated_estimate }} · {{ lang.FormatNumber 0 $s.papers_total }} papers · top 100 per pathway</span>
-            </a>
-            <a class="cd-stat" href="/data/shops/">
-                <span class="num">{{ $h.count }}</span>
-                <span class="label">shops selling certified removal</span>
-                <span class="sub">live prices, checked monthly</span>
-            </a>
-        </div>
-        <p class="cd-links"><a href="/data/">All datasets</a> · <a href="/data/v1/latest/manifest.json">Manifest &amp; downloads</a> · <a href="/data/changelog/">Changelog</a> · <a href="/privacy/">Privacy &amp; removal</a></p>
-    </div>
-</article>
-{{- end }}
-{{- with site.Params.homeInfoParams }}
-<article class="post-entry home-info">
-    <header class="entry-header">
-        <h2>{{ .Title | markdownify }}</h2>
-    </header>
-    <div class="entry-content">
-        {{ .Content | markdownify }}
-    </div>
-    <footer class="entry-footer">
-        {{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}
-    </footer>
-</article>
-{{- end }}
-<h2 class="cd-stream-title">CDR Log, essays and data releases</h2>
+<section class="cd-home">
+  <h1 class="cd-h1">Captain Drawdown's CDR Databases</h1>
+  <p class="cd-lead">Open, versioned data on carbon dioxide removal: the companies, the researchers and the shops that sell removal to individuals. Every file carries a version, a licence and a citation; a weekly summary tells what moved.{{ with $r }} <span class="cd-release">Release {{ .version }}, data as of {{ .as_of }}.</span>{{ end }}</p>
+  {{- with $r }}
+  {{- $c := .headline.companies }}{{- $s := .headline.researchers }}{{- $h := .headline.shops }}
+  <div class="cd-hero">
+    <a class="cd-stat" href="/data/companies/">
+      <span class="num">{{ lang.FormatNumber 0 $c.published }}</span>
+      <span class="label">published carbon removal companies</span>
+      <span class="sub">{{ lang.FormatNumber 0 $c.active_total }} active in the database · {{ $c.countries }} countries · {{ lang.FormatNumber 0 $c.europe }} in Europe</span>
+    </a>
+    <a class="cd-stat" href="/data/researchers/">
+      <span class="num">{{ lang.FormatNumber 0 $s.total }}</span>
+      <span class="label">researchers with CDR papers since 2021</span>
+      <span class="sub">calibrated estimate {{ lang.FormatNumber 0 $s.calibrated_estimate }} · {{ lang.FormatNumber 0 $s.papers_total }} papers · top 100 per pathway</span>
+    </a>
+    <a class="cd-stat" href="/data/shops/">
+      <span class="num">{{ $h.count }}</span>
+      <span class="label">shops selling certified removal</span>
+      <span class="sub">live prices, checked monthly</span>
+    </a>
+  </div>
+  {{- end }}
+  <div class="cd-cards">
+    <a class="cd-card" href="/directory/" style="--c: var(--petrol)">
+      <span class="t">CDR Company Directory</span>
+      <span class="d">Every published company with pathway, country, liveliness tier, EU SME size class, registries and evidence dates, searchable and filterable.</span>
+      <span class="l">Browse the directory</span>
+    </a>
+    <a class="cd-card" href="/cdr-researcher-census/" style="--c: var(--seafoam)">
+      <span class="t">CDR Researcher Census</span>
+      <span class="d">Who publishes on carbon removal, by country, pathway and sector; the most active and the most cited researchers per pathway with profile pages.</span>
+      <span class="l">Explore the census</span>
+    </a>
+    <a class="cd-card" href="/data/" style="--c: var(--signal)">
+      <span class="t">Data, API, MCP</span>
+      <span class="d">Download every release as CSV and JSON, query the read-only API, or give Claude, ChatGPT and Cursor the MCP server. Mirrors on Hugging Face.</span>
+      <span class="l">Use the data</span>
+    </a>
+  </div>
+  <p class="cd-links"><a href="/data/changelog/">What changed</a> · <a href="/data/v1/latest/manifest.json">Manifest and downloads</a> · <a href="/about/">Who runs this</a> · <a href="/privacy/">Privacy and removal</a></p>
+</section>
+<h2 class="cd-stream-title">Latest: CDR Week, release notes, essays</h2>

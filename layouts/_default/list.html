@@ -72,7 +72,8 @@
 {{- end }}
 
 <article class="{{ $class }} {{ $ct }}">
-  {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}
+  {{- /* Homepage stream is compact: no cover images (relaunch 2026-11). */ -}}
+  {{- $isHidden := or $.IsHome ((.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false) }}
   {{- partial "cover.html" (dict "cxt" . "IsSingle" false "isHidden" $isHidden) }}
   <header class="entry-header">
     <h2 class="entry-hint-parent">

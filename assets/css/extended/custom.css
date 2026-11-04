@@ -1,218 +1,281 @@
 /* ============================================================
-   CaptainDrawdown — "Petrol & Signal" bridge for PaperMod
-   Maps PaperMod's own CSS variables to the petrol design tokens
-   so the whole site adopts the palette + Montserrat without any
-   markup changes. Component classes (cd-*) live in petrol-signal.css.
+   Captain Drawdown's CDR Databases — site styles on the design
+   tokens (00-tokens.css). Light first, dark via [data-theme="dark"].
+   Two content widths: --width-read (posts, about) and --width-data
+   (directory, census, lists, data pages), set by extend_head.html.
    ============================================================ */
 
-:root,
-html,
-body,
-body.dark {
-  /* PaperMod core variables → petrol tokens */
-  --theme: #08222B;              /* page background            */
-  --entry: #0C3A47;              /* cards / entries (petrol)   */
-  --primary: #FFFFFF;            /* strong text / headings     */
-  --secondary: rgba(255,255,255,0.65);
-  --tertiary: #0E4453;           /* subtle surfaces / hover    */
-  --content: rgba(255,255,255,0.88);
-  --border: rgba(255,255,255,0.10);
-  --code-bg: #0C3A47;
-  --code-block-bg: #071A21;
-  --hljs-bg: #071A21;
+:root { --main-width: var(--width-read); --gap: var(--space-5); }
 
-  /* petrol accents (type-coded, same as the social cards) */
-  --cd-signal:  #FF7A45;
-  --cd-seafoam: #63D2B2;
-  --cd-amber:   #FFC94D;
-  --cd-sky:     #7FC8E8;
-  --cd-signal-hover: #FFA07C;
-}
-
-/* — base type — */
 html { scroll-behavior: smooth; }
 body {
-  background: var(--theme);
-  color: var(--content);
-  font-family: 'Montserrat', 'Helvetica Neue', Arial, sans-serif;
-  font-weight: 300;
-  line-height: 1.65;
+  background: var(--surface-0);
+  color: var(--ink);
+  font-family: var(--font-serif);
+  font-size: 18px;
+  line-height: 1.6;
+  font-weight: 400;
 }
-h1, h2, h3, h4, h5,
-.post-title, .entry-header h2,
-.post-content h1, .post-content h2, .post-content h3,
-body.dark .post-title,
-body.dark .post-content h1, body.dark .post-content h2, body.dark .post-content h3 {
-  color: var(--primary);
+[data-theme="dark"] { background: var(--surface-0); color: var(--ink); }
+
+/* — headings: Inter, tight — */
+h1, h2, h3, h4, h5, .post-title, .entry-header h2,
+.post-content h1, .post-content h2, .post-content h3, .post-content h4,
+[data-theme="dark"] .post-title, [data-theme="dark"] .post-content h1, [data-theme="dark"] .post-content h2, [data-theme="dark"] .post-content h3 {
+  font-family: var(--font-sans);
+  color: var(--ink);
   font-weight: 700;
-  letter-spacing: -0.02em;
+  letter-spacing: -0.015em;
   line-height: 1.15;
+  text-wrap: balance;
 }
+.post-title, .page-header h1, .home-info .entry-header h1 { font-size: 32px; line-height: 38px; }
+.post-content h2 { font-size: 24px; line-height: 30px; font-weight: 650; margin: var(--space-7) 0 var(--space-3); }
+.post-content h3 { font-size: 19px; line-height: 25px; font-weight: 600; margin: var(--space-6) 0 var(--space-2); }
+.post-content p, .post-content li { font-size: 18px; line-height: 29px; }
+.post-content p { margin: 0 0 var(--space-4); max-width: 72ch; }
+.post-content > p:first-of-type { font-size: 20px; line-height: 31px; }
+.post-content ul, .post-content ol { padding-inline-start: 24px; }
+.post-content strong { font-weight: 600; }
+.post-description { font-family: var(--font-serif); font-size: 20px; line-height: 31px; color: var(--ink-muted); }
 
-/* — links: signal orange — */
-a, body.dark a, .post-content a { color: var(--cd-signal); text-decoration: none; }
-a:hover, body.dark a:hover, .post-content a:hover {
-  color: var(--cd-signal-hover); text-decoration: underline; text-underline-offset: 3px;
-}
-:focus-visible { outline: 2px solid var(--cd-sky); outline-offset: 2px; }
-::selection { background: rgba(255,122,69,0.35); }
+/* — links — */
+a, [data-theme="dark"] a, .post-content a { color: var(--petrol); text-decoration: none; }
+a:hover, [data-theme="dark"] a:hover, .post-content a:hover { text-decoration: underline; text-underline-offset: 3px; }
+:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+::selection { background: var(--petrol-tint); }
 
-/* — nav / header — */
-.nav { border-bottom: 1px solid var(--border); }
-.logo a, body.dark .logo a {
-  color: var(--primary) !important;
-  font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; font-size: 15px;
-}
-#menu a, .nav a, body.dark .nav a { color: rgba(255,255,255,0.75); font-weight: 500; }
-#menu a:hover, #menu li.active a {
-  color: var(--primary); text-decoration: none;
-  border-bottom: 2px solid var(--cd-signal);
-}
-.logo-switches .theme-toggle svg { fill: rgba(255,255,255,0.65); }
+/* — header: two-tier wordmark + menu — */
+.header { background: var(--surface-0); }
+.nav { border-bottom: 1px solid var(--line); font-family: var(--font-sans); }
+.logo a, [data-theme="dark"] .logo a { color: var(--ink) !important; display: flex; flex-direction: column; line-height: 1.1; gap: 2px; }
+.logo a .brand { font-size: 12px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-muted); }
+.logo a .product { font-size: 19px; font-weight: 600; letter-spacing: 0.02em; }
+#menu a, .nav a, [data-theme="dark"] .nav a { color: var(--ink-muted); font-weight: 500; font-size: 15px; }
+#menu a:hover { color: var(--ink); text-decoration: none; }
+#menu li.active a, #menu a .active { color: var(--ink); border-bottom: 2px solid var(--petrol); padding-bottom: 4px; }
+#menu a.cd-week { color: var(--petrol); }
+.logo-switches .theme-toggle svg, #theme-toggle svg { fill: var(--ink-muted); }
 
-/* — home info (hero) — */
-.home-info .entry-content, body.dark .home-info .entry-content { color: var(--secondary); font-weight: 300; }
-.home-info .entry-header h1, .home-info h1 { font-weight: 700; }
+/* — home — */
+.home-info .entry-content, [data-theme="dark"] .home-info .entry-content { color: var(--ink); }
+.home-info .entry-header h1 { font-size: 44px; line-height: 48px; letter-spacing: -0.02em; }
 
-/* — post entries (home / list cards) → petrol surface with accent rail — */
-.post-entry, .entry {
-  background: var(--entry);
-  border: 1px solid var(--border);
-  border-bottom: 5px solid var(--cd-signal);
-  border-radius: 14px;
-  padding: 28px;
-  transition: background .18s ease-out, transform .18s ease-out;
+/* — entries (lists) — */
+.post-entry, .entry, .first-entry {
+  background: var(--surface-1);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  padding: var(--space-5);
+  transition: background .15s ease-out;
 }
-.post-entry:hover, .entry:hover, body.dark .entry:hover {
-  background: var(--tertiary);
-  transform: translateY(-2px);
-}
-/* type-coded accent rail (class set by layouts/_default/list.html) */
-.cd-e--log    { border-bottom-color: var(--cd-signal)  !important; }
-.cd-e--digest { border-bottom-color: var(--cd-seafoam) !important; }
-.cd-e--news   { border-bottom-color: var(--cd-amber)   !important; }
-.cd-e--chart  { border-bottom-color: var(--cd-sky)     !important; }
-.entry-header h2 { font-size: 21px; font-weight: 600; letter-spacing: -0.01em; }
-.entry-hint, .entry-footer, .post-meta {
-  color: var(--secondary); font-weight: 300; font-size: 13px;
-}
+.post-entry:hover, .entry:hover, [data-theme="dark"] .entry:hover { background: var(--surface-2); transform: none; }
+.entry-header h2 { font-size: 21px; line-height: 27px; font-weight: 600; }
+.entry-content { font-family: var(--font-serif); color: var(--ink-muted); font-size: 16px; line-height: 25px; }
+.entry-hint, .entry-footer, .post-meta { font-family: var(--font-sans); color: var(--ink-muted); font-size: 13px; }
 .first-entry { min-height: auto; }
-.first-entry .entry-header h1 { font-size: clamp(30px, 5vw, 46px); }
 
-/* — post tags → pill chips — */
-.post-tags a, body.dark .post-tags a {
-  background: var(--entry); border: 1px solid var(--cd-signal); color: var(--cd-signal);
-  border-radius: 999px;
+/* — tags, buttons, chips — */
+.post-tags a, [data-theme="dark"] .post-tags a {
+  font-family: var(--font-sans); font-size: 13px; font-weight: 500;
+  background: var(--surface-1); border: 1px solid var(--line); color: var(--ink-muted); border-radius: var(--radius-pill);
 }
-.post-tags a:hover, body.dark .post-tags a:hover { background: var(--cd-signal); color: #12262B; }
-
-/* — buttons / back-to-top → signal pills — */
-.button, .top-link {
-  background: var(--cd-signal); color: #12262B; border-radius: 999px;
-  font-weight: 600; letter-spacing: 0.06em;
-}
-.button:hover, .top-link:hover { background: var(--cd-signal-hover); color: #12262B; }
-
-/* — prev/next post nav: quiet cards, NOT orange pills (the big-orange-oval bug) — */
-.paginav {
-  background: var(--entry); border: 1px solid var(--border); border-radius: 12px;
-  overflow: hidden;
-}
-.paginav a {
-  background: transparent; color: var(--content); border-radius: 0;
-  padding: 18px 22px; font-weight: 400; letter-spacing: 0;
-}
-.paginav a:hover { background: var(--tertiary); text-decoration: none; }
-.paginav .title { color: var(--primary); font-weight: 600; }
-.paginav span.prev, .paginav span.next { color: var(--secondary); }
-.paginav .prev { border-inline-end: 1px solid var(--border); }
-
-/* — share buttons: quiet, brand on hover (were loud solid-orange) — */
-.share-buttons a svg { fill: var(--secondary); transition: fill .15s ease-out; }
-.share-buttons a:hover svg { fill: var(--cd-signal); }
+.post-tags a:hover { background: var(--petrol-tint); color: var(--ink); border-color: var(--petrol); text-decoration: none; }
+.button, .top-link { background: var(--petrol); color: var(--petrol-ink); border-radius: var(--radius-md); font-family: var(--font-sans); font-weight: 500; }
+.button:hover, .top-link:hover { background: var(--petrol); color: var(--petrol-ink); opacity: .9; }
+.paginav { background: var(--surface-1); border: 1px solid var(--line); border-radius: var(--radius-md); overflow: hidden; }
+.paginav a { background: transparent; color: var(--ink); border-radius: 0; padding: 18px 22px; }
+.paginav a:hover { background: var(--surface-2); text-decoration: none; }
+.paginav .title { color: var(--ink); font-weight: 600; font-family: var(--font-sans); }
+.share-buttons a svg { fill: var(--ink-muted); } .share-buttons a:hover svg { fill: var(--petrol); }
+.social-icons a svg { fill: var(--petrol); }
 
 /* — code / quotes — */
-.post-content code { background: var(--code-bg); border-radius: 4px; }
-.post-content pre, .post-content pre code { background: var(--code-block-bg); }
-.post-content blockquote { border-inline-start: 3px solid var(--cd-signal); color: var(--secondary); }
+.post-content code { background: var(--surface-2); border-radius: var(--radius-xs); font-size: .92em; }
+.post-content pre, .post-content pre code { background: var(--surface-2); }
+.post-content blockquote { border-inline-start: 3px solid var(--petrol); color: var(--ink-muted); font-style: normal; }
 
-/* — data tables (markdown → .post-content table): the cd-table look — */
-.post-content table { border-collapse: collapse; font-weight: 400; font-variant-numeric: tabular-nums; }
-.post-content table th {
-  background: var(--entry); color: var(--primary);
-  text-transform: uppercase; letter-spacing: 0.06em; font-size: 12px; font-weight: 600;
-  text-align: left; padding: 12px 16px; border-bottom: 1px solid var(--border);
+/* — tables (DataTable) — */
+.post-content table, .cd-table {
+  border-collapse: collapse; width: 100%;
+  font-family: var(--font-sans); font-size: 14px; line-height: 20px; font-variant-numeric: tabular-nums;
 }
-.post-content table td { padding: 10px 16px; border-bottom: 1px solid rgba(255,255,255,0.06); border-inline: 0; }
-.post-content table tbody tr:hover td, .post-content table tr:hover td { background: rgba(255,255,255,0.04); }
-.post-content table a { color: var(--cd-sky); }
-.post-content table a:hover { color: #A9DCF2; }
-
-/* — chart images on a white plate (cd-figure) — a white matplotlib PNG
-     reads cleanly against the petrol page inside a rounded white plate — */
-.post-content img[src*="/charts/"], .post-content img[src*="chart"] {
-  background: #fff; border-radius: 8px; padding: 12px; box-sizing: border-box;
+.post-content table th, .cd-table th {
+  position: sticky; top: 0; z-index: 1;
+  background: var(--surface-1); color: var(--ink-muted);
+  font-size: 12px; line-height: 16px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase;
+  text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--line);
 }
+.post-content table td, .cd-table td { padding: 10px 12px; border-bottom: 1px solid var(--line); border-inline: 0; color: var(--ink); vertical-align: top; }
+.post-content table tr:last-child td { border-bottom: 0; }
+.post-content table tbody tr:hover td { background: var(--surface-2); }
+.post-content table td:has(> a:only-child) { white-space: nowrap; }
+.post-content table:not(.cd-table) { display: block; width: max-content; max-width: 100%; overflow-x: auto; border: 1px solid var(--line); border-radius: var(--radius-md); background: var(--surface-1); }
+.post-content table a { color: var(--petrol); }
 
-/* — footer / social — */
-.footer, .footer a, body.dark .footer { color: var(--secondary); font-weight: 300; }
-.social-icons a svg { fill: var(--cd-signal); }
-.social-icons a:hover svg { fill: var(--cd-signal-hover); }
+/* — charts on a plate — */
+.post-content img[src*="/charts/"], .post-content img[src*="chart"], .post-content img[src*="/images/posts/"] {
+  background: #ffffff; border-radius: var(--radius-xs); padding: var(--space-3); box-sizing: border-box;
+  border: 1px solid var(--line); max-width: 100%;
+}
+[data-theme="dark"] .post-content img[src*="/charts/"] { border-color: var(--line); }
 
-/* — misc chrome — */
+/* — footer — */
+.footer, .footer a, [data-theme="dark"] .footer { font-family: var(--font-sans); color: var(--ink-muted); font-size: 14px; }
+.cd-footer { border-top: 1px solid var(--line); padding: var(--space-6) 0 var(--space-7); margin-top: var(--space-8); }
+.cd-footer .cols { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: var(--space-5); max-width: calc(var(--main-width) + var(--gap) * 2); margin: 0 auto; padding: 0 var(--gap); }
+.cd-footer h4 { font-family: var(--font-sans); font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-muted); margin: 0 0 var(--space-2); font-weight: 600; }
+.cd-footer ul { list-style: none; margin: 0; padding: 0; }
+.cd-footer li { margin: 0 0 6px; }
+.cd-footer .fine { max-width: calc(var(--main-width) + var(--gap) * 2); margin: var(--space-5) auto 0; padding: 0 var(--gap); font-size: 13px; color: var(--ink-muted); }
+
+/* — number strip (homepage + data pages) — */
+.cd-hero { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: var(--space-4); margin: var(--space-4) 0 var(--space-3); }
+.cd-stat { display: block; padding: var(--space-4) var(--space-5); border: 1px solid var(--line); border-radius: var(--radius-md); background: var(--surface-1); text-decoration: none; color: var(--ink); font-family: var(--font-sans); }
+.cd-stat:hover { background: var(--surface-2); text-decoration: none; }
+.cd-stat .num { display: block; font-size: 40px; line-height: 44px; font-weight: 700; letter-spacing: -0.02em; font-variant-numeric: tabular-nums; }
+.cd-stat .label { display: block; font-size: 15px; line-height: 22px; margin-top: var(--space-2); font-weight: 500; }
+.cd-stat .sub { display: block; font-size: 13px; line-height: 18px; color: var(--ink-muted); margin-top: 4px; }
+.cd-links, .cd-release, .post-content .cd-links { font-family: var(--font-sans); font-size: 14px; line-height: 22px; color: var(--ink-muted); max-width: none; }
+
+/* — notice (older posts) — */
+.data-notice { background: var(--signal-tint); border-left: 0; border-radius: var(--radius-md); padding: var(--space-3) var(--space-4); margin: 0 0 var(--space-5); font-family: var(--font-serif); font-size: 15px; line-height: 23px; color: var(--ink); }
+
+/* — data pages (directory / census): existing classes on tokens — */
+.directory-stats, .census-stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: var(--space-3); margin: var(--space-4) 0; }
+.stat-box, .stat-card { background: var(--surface-1); border: 1px solid var(--line); border-radius: var(--radius-md); padding: var(--space-3) var(--space-4); text-align: center; font-family: var(--font-sans); }
+.stat-box .num, .stat-card .number { display: block; font-size: 28px; line-height: 32px; font-weight: 700; color: var(--ink); font-variant-numeric: tabular-nums; }
+.stat-box .label, .stat-card .label { display: block; font-size: 13px; color: var(--ink-muted); margin-top: 4px; }
+.company-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: var(--space-3); margin: var(--space-4) 0; }
+.company-card, .researcher-card { background: var(--surface-1); border: 1px solid var(--line); border-radius: var(--radius-md); padding: var(--space-4); border-left: 0; }
+.company-card:hover { background: var(--surface-2); transform: none; }
+.company-card h3, .company-card h3 a { font-family: var(--font-sans); font-size: 17px; color: var(--ink); margin: 0 0 4px; }
+.company-card .meta { font-family: var(--font-sans); font-size: 13px; color: var(--ink-muted); }
+.pathway-badge { display: inline-block; padding: 2px 8px; border-radius: var(--radius-xs); font-family: var(--font-sans); font-size: 12px; font-weight: 600; background: var(--petrol-tint); color: var(--ink); }
+.filter-bar { display: flex; gap: var(--space-2); margin: var(--space-3) 0; flex-wrap: wrap; font-family: var(--font-sans); }
+.filter-bar select, .filter-bar input { padding: 8px 12px; border-radius: var(--radius-md); border: 1px solid var(--line); background: var(--surface-1); color: var(--ink); font: 500 15px/22px var(--font-sans); }
+.pathway-table, .metrics-table { width: 100%; border-collapse: collapse; margin: var(--space-3) 0; font-family: var(--font-sans); font-size: 14px; font-variant-numeric: tabular-nums; }
+.pathway-table th, .pathway-table td, .metrics-table th, .metrics-table td { padding: 8px 12px; text-align: left; border-bottom: 1px solid var(--line); }
+.pathway-table th, .metrics-table th { color: var(--ink-muted); font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; font-weight: 600; background: var(--surface-1); }
+#search-results .result-item { padding: 10px; border-bottom: 1px solid var(--line); cursor: pointer; }
+#search-results .result-item:hover { background: var(--surface-2); }
+.census-search input { border: 1px solid var(--line) !important; background: var(--surface-1) !important; color: var(--ink) !important; border-radius: var(--radius-md) !important; font-family: var(--font-sans) !important; }
+
+/* — misc — */
 .page-header h1 { font-weight: 700; }
-.archive-month, .archive-year { border-color: var(--border); }
-hr { border-color: var(--border); }
+.archive-month, .archive-year { border-color: var(--line); }
+hr { border-color: var(--line); }
+.breadcrumbs, .breadcrumbs a { font-family: var(--font-sans); font-size: 13px; color: var(--ink-muted); }
 
-/* ============================================================
-   Data pages (directory / census) — existing classes,
-   recoloured from the old teal/navy to petrol tokens.
-   ============================================================ */
-.directory-stats, .census-stats {
-  display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-  gap: 15px; margin: 20px 0;
+/* — phones — */
+@media (max-width: 640px) {
+  .post-title, .page-header h1 { font-size: 26px; line-height: 31px; }
+  .home-info .entry-header h1 { font-size: 32px; line-height: 36px; }
+  .cd-stat .num { font-size: 32px; line-height: 36px; }
+  .post-content p, .post-content li { font-size: 17px; line-height: 27px; }
 }
-.stat-card {
-  background: var(--entry); border-radius: 8px; padding: 15px; text-align: center;
-  border: 1px solid var(--border);
-}
-.stat-card .number { font-size: 2em; font-weight: 800; color: var(--cd-sky); }
-.stat-card .label { font-size: 0.85em; color: var(--secondary); margin-top: 4px; }
-.company-grid {
-  display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: 12px; margin: 20px 0;
-}
-.company-card {
-  background: var(--entry); border-radius: 8px; padding: 15px;
-  border-left: 4px solid var(--cd-signal); transition: transform 0.15s, background 0.15s;
-}
-.company-card:hover { transform: translateY(-2px); background: var(--tertiary); }
-.company-card h3 { margin: 0 0 6px 0; font-size: 1em; }
-.company-card h3 a { text-decoration: none; color: var(--primary); }
-.company-card .meta { font-size: 0.8em; color: var(--secondary); }
-.pathway-badge {
-  display: inline-block; padding: 2px 8px; border-radius: 999px;
-  font-size: 0.75em; font-weight: 600; background: var(--cd-sky); color: #12262B;
-}
-.health-badge { display: inline-block; margin-left: 6px; }
-.filter-bar {
-  display: flex; gap: 10px; margin: 15px 0; flex-wrap: wrap;
-}
-.filter-bar select, .filter-bar input {
-  padding: 8px 12px; border-radius: 8px; border: 1px solid var(--border);
-  background: var(--entry); color: var(--primary); font-size: 0.9em; font: inherit;
-}
-.pathway-table { width: 100%; border-collapse: collapse; margin: 15px 0; }
-.pathway-table th, .pathway-table td { padding: 8px 12px; text-align: left; border-bottom: 1px solid var(--border); }
-.pathway-table th { background: var(--entry); font-weight: 600; color: var(--primary); text-transform: uppercase; letter-spacing: 0.06em; font-size: 0.8em; }
-.pathway-table a { color: var(--cd-sky); }
-.researcher-card {
-  background: var(--entry); border-radius: 8px; padding: 15px; margin: 10px 0;
-  border-left: 4px solid var(--cd-signal);
-}
-.metrics-table { width: 100%; border-collapse: collapse; margin: 10px 0; }
-.metrics-table th, .metrics-table td { padding: 6px 10px; border-bottom: 1px solid var(--border); }
-#search-results .result-item {
-  padding: 10px; border-bottom: 1px solid var(--border); cursor: pointer;
-}
-#search-results .result-item:hover { background: var(--entry); }
+
+/* — homepage — */
+.cd-home { margin: var(--space-6) 0 var(--space-7); }
+.cd-h1 { font-family: var(--font-sans); font-size: 44px; line-height: 48px; font-weight: 700; letter-spacing: -0.02em; margin: 0 0 var(--space-3); text-wrap: balance; }
+.cd-lead { font-family: var(--font-serif); font-size: 21px; line-height: 32px; color: var(--ink); max-width: 70ch; margin: 0 0 var(--space-5); }
+.cd-lead .cd-release { font-family: var(--font-sans); font-size: 14px; color: var(--ink-muted); white-space: nowrap; }
+.cd-cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: var(--space-4); margin: var(--space-5) 0 var(--space-4); }
+.cd-card { display: flex; flex-direction: column; gap: var(--space-2); background: var(--surface-1); border: 1px solid var(--line); border-top: 4px solid var(--c); border-radius: var(--radius-md); padding: var(--space-4) var(--space-5); box-shadow: var(--shadow-card); color: var(--ink); text-decoration: none; }
+.cd-card:hover { background: var(--surface-2); text-decoration: none; }
+.cd-card .t { font-family: var(--font-sans); font-size: 19px; line-height: 25px; font-weight: 600; }
+.cd-card .d { font-family: var(--font-serif); font-size: 15px; line-height: 23px; color: var(--ink-muted); }
+.cd-card .l { font-family: var(--font-sans); font-size: 14px; font-weight: 500; color: var(--petrol); margin-top: auto; }
+.cd-stream-title { font-family: var(--font-sans); font-size: 12px; line-height: 16px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-muted); font-weight: 600; margin: var(--space-7) 0 var(--space-3); }
+.home .post-entry { padding: var(--space-4) var(--space-5); }
+.home .post-entry .entry-header h2 { font-size: 19px; line-height: 25px; }
+.home .post-entry .entry-content { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+@media (max-width: 640px) { .cd-h1 { font-size: 32px; line-height: 36px; } .cd-lead { font-size: 18px; line-height: 28px; } }
+
+/* — nav aligns with the content column (Dirk: header wider than text) — */
+:root { --nav-width: var(--main-width); }
+.nav { max-width: calc(var(--main-width) + var(--gap) * 2); }
+
+/* — wide pages: prose may run longer, tables full width — */
+.cd-lead + .cd-strip { margin-top: var(--space-5); }
+
+/* — NumberStrip — */
+.cd-strip { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: var(--space-3); margin: var(--space-4) 0; }
+.cd-strip .cd-stat { padding: var(--space-3) var(--space-4); }
+.cd-strip .cd-stat .num { font-size: 30px; line-height: 34px; }
+.cd-strip .cd-stat .label { font-size: 13px; line-height: 18px; color: var(--ink-muted); margin-top: 2px; font-weight: 500; }
+.cd-stat--active .num { color: var(--tier-active); }
+.cd-stat--moderate .num { color: var(--tier-moderate); }
+.cd-stat--suspect .num { color: var(--tier-suspect); }
+.cd-stat--dead .num { color: var(--tier-dead); }
+
+/* — filter row — */
+.cd-filters { display: flex; flex-wrap: wrap; gap: var(--space-2); align-items: center; margin: var(--space-4) 0 var(--space-2); font-family: var(--font-sans); }
+.cd-filters input[type="search"] { flex: 1 1 260px; }
+.cd-filters input, .cd-filters select { padding: 8px 12px; border-radius: var(--radius-md); border: 1px solid var(--line); background: var(--surface-1); color: var(--ink); font: 500 15px/22px var(--font-sans); min-height: 40px; }
+.cd-filters select { max-width: 220px; }
+.cd-count { font-size: 14px; color: var(--ink-muted); margin-left: auto; white-space: nowrap; }
+.cd-legend, .post-content .cd-legend { font-family: var(--font-sans); font-size: 13px; line-height: 20px; color: var(--ink-muted); margin: 0 0 var(--space-3); max-width: none; }
+.cd-legend-item { white-space: nowrap; margin-right: var(--space-3); }
+
+/* — DataTable — */
+.cd-tablewrap { border: 1px solid var(--line); border-radius: var(--radius-md); background: var(--surface-1); overflow: auto; margin: 0 0 var(--space-5); }
+.cd-table, .post-content .cd-table { display: table; width: 100%; border-collapse: collapse; font-family: var(--font-sans); font-size: 14px; line-height: 20px; font-variant-numeric: tabular-nums; margin: 0; }
+.cd-table th { position: sticky; top: 0; z-index: 1; background: var(--surface-1); color: var(--ink-muted); font-size: 12px; line-height: 16px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--line); white-space: nowrap; }
+.cd-table th[data-sort] { cursor: pointer; user-select: none; }
+.cd-table th[data-sort]:hover { color: var(--ink); }
+.cd-table th[aria-sort="ascending"]::after { content: " ↑"; color: var(--petrol); }
+.cd-table th[aria-sort="descending"]::after { content: " ↓"; color: var(--petrol); }
+.cd-table td { padding: 9px 12px; border-bottom: 1px solid var(--line); vertical-align: top; color: var(--ink); }
+.cd-table tbody tr:last-child td { border-bottom: 0; }
+.cd-table tbody tr:hover td { background: var(--surface-2); }
+.cd-table td a { color: var(--petrol); }
+.cd-table--companies { table-layout: fixed; }
+.cd-table--companies .cd-col-company { width: 36%; }
+.cd-table--companies .cd-col-pathway { width: 13%; }
+.cd-table--companies .cd-col-method { width: 19%; }
+.cd-table--companies .cd-col-country { width: 12%; }
+.cd-table--companies .cd-col-status { width: 11%; }
+.cd-table--companies .cd-col-size { width: 9%; }
+.cd-table td.cd-col-company a { font-weight: 500; }
+.cd-note { display: block; color: var(--ink-muted); font-size: 13px; line-height: 18px; margin-top: 2px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.cd-empty { padding: var(--space-5); text-align: center; color: var(--ink-muted); font-family: var(--font-sans); }
+@media (max-width: 900px) { .cd-table--companies .cd-col-method { display: none; } .cd-table--companies .cd-col-company { width: 45%; } }
+@media (max-width: 640px) { .cd-table--companies .cd-col-size, .cd-table--companies .cd-col-pathway, .cd-table--companies .cd-col-country { display: none; } .cd-table--companies .cd-col-company { width: 66%; } .cd-table--companies .cd-col-status { width: 34%; } .cd-filters select { max-width: none; flex: 1 1 45%; } .cd-tier { white-space: normal; } }
+
+/* — badges — */
+/* inline, on the text baseline: no inline-flex (it shifted the baseline and spread line-height, Dirk 2026-11-05) */
+.cd-tier { display: inline; font-size: 13px; font-weight: 500; white-space: nowrap; line-height: inherit; }
+.cd-tier::before { content: ""; display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: currentColor; margin-right: 5px; vertical-align: 0.1em; }
+.cd-tier--active { color: var(--tier-active); } .cd-tier--moderate { color: var(--tier-moderate); }
+.cd-tier--suspect { color: var(--tier-suspect); } .cd-tier--dead { color: var(--tier-dead); }
+.cd-badge { display: inline-block; padding: 1px 7px; border-radius: var(--radius-xs); font-family: var(--font-sans); font-size: 11px; font-weight: 600; letter-spacing: 0.04em; vertical-align: 2px; }
+.cd-badge--cdi { background: var(--signal-tint); color: var(--signal-deep); margin-left: 6px; }
+
+/* — ChartFrame grid — */
+.cd-chartgrid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(380px, 100%), 1fr)); gap: var(--space-4); margin: var(--space-5) 0; }
+.cd-chart { margin: 0; background: var(--surface-1); border: 1px solid var(--line); border-radius: var(--radius-md); padding: var(--space-3); box-shadow: var(--shadow-card); }
+.cd-chart img { display: block; width: 100%; height: auto; border-radius: var(--radius-xs); }
+.cd-chart figcaption { font-family: var(--font-sans); font-size: 13px; line-height: 19px; color: var(--ink-muted); margin-top: var(--space-2); }
+.cd-chart--map { margin: 0 0 var(--space-5); }
+.cd-map { position: relative; width: 100%; aspect-ratio: 960 / 440; background: var(--surface-1); }
+.cd-map svg { width: 100%; height: 100%; display: block; }
+.cd-map-tip { position: absolute; background: var(--ink); color: var(--surface-0); font: 500 13px/18px var(--font-sans); padding: 4px 8px; border-radius: var(--radius-xs); pointer-events: none; white-space: nowrap; }
+
+/* — Notice — */
+.cd-notice { background: var(--surface-2); border-radius: var(--radius-md); padding: var(--space-4) var(--space-5); margin: var(--space-5) 0; }
+.cd-notice p, .post-content .cd-notice p { font-family: var(--font-serif); font-size: 15px; line-height: 23px; color: var(--ink); max-width: none; margin: 0; }
+
+/* — wide pages: lead + prose — */
+.post-content .cd-lead { font-size: 20px; line-height: 31px; }
+.post-content > p { max-width: 92ch; }
+
+/* — images and figures are not bound to the prose measure — */
+.post-content p:has(> img), .post-content figure { max-width: none; }
+.post-content p:has(> img:only-child) { margin: var(--space-5) 0; }
+
+/* — markdown tables: first column (dates, labels) stays on one line — */
+.post-content table:not(.cd-table) td:first-child { white-space: nowrap; }
+
+/* — list pages (home, sections) share the page surface — */
+.list, [data-theme="dark"] .list { background: var(--surface-0); }
