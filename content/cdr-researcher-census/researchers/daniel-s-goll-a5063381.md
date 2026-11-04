@@ -1,7 +1,7 @@
 ---
 title: "Daniel S. Goll"
-description: "Daniel S. Goll is an Eminent Enhanced Weathering researcher at Laboratoire des Sciences du Climat et de l’Environnement in FR. With 278 publications and an h-index of 58, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Daniel S. Goll, Laboratoire des Sciences du Climat et de l’Environnement, France. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 55 by activity, 7 by citations. 278 publications, h-index 58, 16,698 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/daniel-s-goll-a5063381/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Laboratoire des Sciences du Climat et de l’Environnement</td></tr>
+  <tr><th>Country</th><td>France</td></tr>
+  <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>rank 55 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 7 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>58</td></tr>
+  <tr><th>Citations</th><td>16,698</td></tr>
+  <tr><th>Publications</th><td>278</td></tr>
+  <tr><th>Share of publications on CDR</th><td>7.2%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-9246-9671">ORCID</a> · <a href="https://openalex.org/A5063381462">OpenAlex</a></td></tr>
+</table>
 
-**Daniel S. Goll**  
-Laboratoire des Sciences du Climat et de l’Environnement · 🇫🇷 FR
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Enhanced Weathering**
-
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 58 |
-| Citations | 16,698 |
-| Publications | 278 |
-| CDR Focus | 7.2% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -72,11 +65,6 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | 2021 | [Global cooling induced by biophysical effects of bioenergy crop cultivation](https://doi.org/10.1038/s41467-021-27520-0) | BECCS | 34 |
 | 2021 | [Bioenergy Crops for Low Warming Targets Require Half of the Present Agricultural Fertilizer Use](https://doi.org/10.1021/acs.est.1c02238) | BECCS | 28 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-9246-9671)
-- [OpenAlex](https://openalex.org/A5063381462)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

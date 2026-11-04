@@ -1,7 +1,7 @@
 ---
 title: "Nils Markusson"
-description: "Nils Markusson is a Senior Cross-cutting CDR researcher at Lancaster University in GB. With 78 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Nils Markusson, Lancaster University, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 62 by activity, 102 by citations. 78 publications, h-index 24, 2,659 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/nils-markusson-a5004419/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Lancaster University</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 62 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 102 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>24</td></tr>
+  <tr><th>Citations</th><td>2,659</td></tr>
+  <tr><th>Publications</th><td>78</td></tr>
+  <tr><th>Share of publications on CDR</th><td>12.8%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-7087-4905">ORCID</a> · <a href="https://openalex.org/A5004419918">OpenAlex</a></td></tr>
+</table>
 
-**Nils Markusson**  
-Lancaster University · 🇬🇧 GB
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**Cross-cutting CDR**
-
-Cross-cutting CDR
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 24 |
-| Citations | 2,659 |
-| Publications | 78 |
-| CDR Focus | 12.8% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -65,11 +58,6 @@ Cross-cutting CDR
 | 2022 | [Why Residual Emissions Matter Right Now](https://doi.org/10.2139/ssrn.4069521) | Cross-cutting CDR | 11 |
 | 2021 | [Balancing a budget or running a deficit? The offset regime of carbon removal and solar geoengineering under a carbon budget](https://doi.org/10.1007/s10584-021-03174-1) | Cross-cutting CDR | 10 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-7087-4905)
-- [OpenAlex](https://openalex.org/A5004419918)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

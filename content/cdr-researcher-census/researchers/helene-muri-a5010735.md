@@ -1,7 +1,7 @@
 ---
 title: "Helene Muri"
-description: "Helene Muri is a Senior Ocean CDR researcher at Norwegian University of Science and Technology in NO. With 144 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Helene Muri, Norwegian University of Science and Technology, Norway. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 64 by activity, 2840 by citations. 144 publications, h-index 35, 4,117 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/helene-muri-a5010735/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Norwegian University of Science and Technology</td></tr>
+  <tr><th>Country</th><td>Norway</td></tr>
+  <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>rank 64 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 2840 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>35</td></tr>
+  <tr><th>Citations</th><td>4,117</td></tr>
+  <tr><th>Publications</th><td>144</td></tr>
+  <tr><th>Share of publications on CDR</th><td>6.2%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-4738-493X">ORCID</a> · <a href="https://openalex.org/A5010735883">OpenAlex</a></td></tr>
+</table>
 
-**Helene Muri**  
-Norwegian University of Science and Technology · 🇳🇴 NO
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**Ocean CDR**
-
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 35 |
-| Citations | 4,117 |
-| Publications | 144 |
-| CDR Focus | 6.2% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -66,11 +59,6 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | 2024 | [Open access dataset of ESM simulations of combined land- and ocean-based NETs](http://dx.doi.org/10.3289/oceannets_d4.7) | Ocean CDR | 0 |
 | 2024 | [Report on carbon cycle interactions and efficacy of land-based CDRs (e.g. BECCS), when combined with oceanic CDRs (individually or in a portfolio)](http://dx.doi.org/10.3289/oceannets_d4.8) | BECCS; Ocean CDR | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0003-4738-493X)
-- [OpenAlex](https://openalex.org/A5010735883)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

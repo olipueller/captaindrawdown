@@ -1,7 +1,7 @@
 ---
 title: "Quinn Zacharias"
-description: "Quinn Zacharias is an Early-career Enhanced Weathering researcher at Yale University in US. With 10 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Quinn Zacharias, Yale University, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 68 by activity, 1950 by citations. 10 publications, h-index 2, 17 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/quinn-zacharias-a5086059/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -22,28 +22,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Yale University</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>rank 68 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 1950 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Early-career</td></tr>
+  <tr><th>h-index</th><td>2</td></tr>
+  <tr><th>Citations</th><td>17</td></tr>
+  <tr><th>Publications</th><td>10</td></tr>
+  <tr><th>Share of publications on CDR</th><td>80.0%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://openalex.org/A5086059587">OpenAlex</a></td></tr>
+</table>
 
-**Quinn Zacharias**  
-Yale University · 🇺🇸 US
-
-**Career Stage:** Early-career
-
-## CDR Specialization
-
-**Enhanced Weathering**
-
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 2 |
-| Citations | 17 |
-| Publications | 10 |
-| CDR Focus | 80.0% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -60,10 +53,6 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | 2024 | [Influence of Enhanced Silicate Weathering on Streamwater Quality: A Watershed Experiment](https://doi.org/10.5194/egusphere-egu24-756) | Enhanced Weathering | 0 |
 | 2024 | [Investigating terrestrial biogeochemical responses to enhanced rock weathering for carbon capture in a whole-watershed experiment](https://doi.org/10.5194/egusphere-egu24-780) | Enhanced Weathering | 0 |
 
-## External Profiles
-
-- [OpenAlex](https://openalex.org/A5086059587)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

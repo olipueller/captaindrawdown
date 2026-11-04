@@ -1,7 +1,7 @@
 ---
 title: "Tomoko Hasegawa"
-description: "Tomoko Hasegawa is an Eminent Cross-cutting CDR researcher at Ritsumeikan University in JP. With 960 publications and an h-index of 64, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Tomoko Hasegawa, Ritsumeikan University, Japan. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 20 by activity, 628 by citations; BECCS: rank 34 by activity, 239 by citations. 960 publications, h-index 64, 26,948 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/tomoko-hasegawa-a5060236/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,22 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Ritsumeikan University</td></tr>
+  <tr><th>Country</th><td>Japan</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 20 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 628 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>rank 34 <a href="/data/researchers/beccs/">by activity</a>, rank 239 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>64</td></tr>
+  <tr><th>Citations</th><td>26,948</td></tr>
+  <tr><th>Publications</th><td>960</td></tr>
+  <tr><th>Share of publications on CDR</th><td>2.2%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-2456-5789">ORCID</a> · <a href="https://openalex.org/A5060236040">OpenAlex</a></td></tr>
+</table>
 
-**Tomoko Hasegawa**  
-Ritsumeikan University · 🇯🇵 JP
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Cross-cutting CDR**
-
-Cross-cutting CDR
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 64 |
-| Citations | 26,948 |
-| Publications | 960 |
-| CDR Focus | 2.2% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -74,11 +68,6 @@ Cross-cutting CDR
 | 2021 | [Land-based implications of early climate actions without global net-negative emissions](https://doi.org/10.1038/s41893-021-00772-w) | Cross-cutting CDR | 67 |
 | 2021 | [Global bioenergy with carbon capture and storage potential is largely constrained by sustainable irrigation](https://doi.org/10.1038/s41893-021-00740-4) | BECCS | 60 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0003-2456-5789)
-- [OpenAlex](https://openalex.org/A5060236040)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

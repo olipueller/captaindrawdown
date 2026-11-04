@@ -1,7 +1,7 @@
 ---
 title: "Robert W. Brown"
-description: "Robert W. Brown is a Senior Biochar researcher at Bangor University in GB. With 49 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Robert W. Brown, Bangor University, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 88 by activity, 4678 by citations. 49 publications, h-index 19, 1,399 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/robert-w-brown-a5003791/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Bangor University</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>rank 88 <a href="/data/researchers/biochar/">by activity</a>, rank 4678 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>19</td></tr>
+  <tr><th>Citations</th><td>1,399</td></tr>
+  <tr><th>Publications</th><td>49</td></tr>
+  <tr><th>Share of publications on CDR</th><td>16.3%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-9119-6130">ORCID</a> · <a href="https://openalex.org/A5003791978">OpenAlex</a></td></tr>
+</table>
 
-**Robert W. Brown**  
-Bangor University · 🇬🇧 GB
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 19 |
-| Citations | 1,399 |
-| Publications | 49 |
-| CDR Focus | 16.3% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -62,11 +55,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2025 | [Does size matter? Biochar particle size and nitrogen addition drives mineralisation and soil organic matter turnover](https://doi.org/10.2139/ssrn.5414076) | Biochar | 0 |
 | 2023 | [Biochar application to temperate grasslands: challenges and opportunities for delivering multiple ecosystem services](https://openalex.org/W4380372167) | Biochar | 16 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-9119-6130)
-- [OpenAlex](https://openalex.org/A5003791978)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

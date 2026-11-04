@@ -1,7 +1,7 @@
 ---
 title: "Mathias Fridahl"
-description: "Mathias Fridahl is a Senior BECCS researcher at Linköping University in SE. With 75 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Mathias Fridahl, Linköping University, Sweden. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 21 by activity, 77 by citations. 75 publications, h-index 26, 1,866 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/mathias-fridahl-a5081929/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Linköping University</td></tr>
+  <tr><th>Country</th><td>Sweden</td></tr>
+  <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>rank 21 <a href="/data/researchers/beccs/">by activity</a>, rank 77 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>26</td></tr>
+  <tr><th>Citations</th><td>1,866</td></tr>
+  <tr><th>Publications</th><td>75</td></tr>
+  <tr><th>Share of publications on CDR</th><td>26.7%</td></tr>
+  <tr><th>Trajectory</th><td>Declining</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-1912-5538">ORCID</a> · <a href="https://openalex.org/A5081929312">OpenAlex</a></td></tr>
+</table>
 
-**Mathias Fridahl**  
-Linköping University · 🇸🇪 SE
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**BECCS**
-
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 26 |
-| Citations | 1,866 |
-| Publications | 75 |
-| CDR Focus | 26.7% |
-| Trajectory | Declining |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -75,11 +68,6 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | 2021 | [Biochar Deployment Drivers and Barriers in Least Developed Countries](https://doi.org/10.1007/978-3-030-22759-3_324-1) | Biochar | 9 |
 | 2021 | [Biochar Deployment Drivers and Barriers in Least Developed Countries](https://doi.org/10.1007/978-3-030-57281-5_324) | Biochar | 4 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-1912-5538)
-- [OpenAlex](https://openalex.org/A5081929312)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

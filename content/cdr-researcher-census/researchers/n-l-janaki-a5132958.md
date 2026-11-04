@@ -1,7 +1,7 @@
 ---
 title: "N. L. Janaki"
-description: "N. L. Janaki is an Early-career BECCS researcher at Government of Andhra Pradesh in IN. With 3 publications and an h-index of N/A, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "N. L. Janaki, Government of Andhra Pradesh, India. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 71 by activity, 2931 by citations. 3 publications, h-index n/a, 0 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/n-l-janaki-a5132958/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -22,28 +22,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Government of Andhra Pradesh</td></tr>
+  <tr><th>Country</th><td>India</td></tr>
+  <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>rank 71 <a href="/data/researchers/beccs/">by activity</a>, rank 2931 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Early-career</td></tr>
+  <tr><th>h-index</th><td>n/a</td></tr>
+  <tr><th>Citations</th><td>0</td></tr>
+  <tr><th>Publications</th><td>3</td></tr>
+  <tr><th>Share of publications on CDR</th><td>100.0%</td></tr>
+  <tr><th>Trajectory</th><td>Unknown</td></tr>
+  <tr><th>Profiles</th><td><a href="https://openalex.org/A5132958964">OpenAlex</a></td></tr>
+</table>
 
-**N. L. Janaki**  
-Government of Andhra Pradesh · 🇮🇳 IN
-
-**Career Stage:** Early-career
-
-## CDR Specialization
-
-**BECCS**
-
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | N/A |
-| Citations | 0 |
-| Publications | 3 |
-| CDR Focus | 100.0% |
-| Trajectory | Unknown |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -55,10 +48,6 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | 2026 | [Integrating Renewable Energy Systems with Circular Carbon Technologies for Sustainable Energy Transitions: An Overview](https://openalex.org/W7170150030) | BECCS | 0 |
 | 2026 | [Integrating Renewable Energy Systems with Circular Carbon Technologies for Sustainable Energy Transitions: An Overview](https://openalex.org/W7170158220) | BECCS | 0 |
 
-## External Profiles
-
-- [OpenAlex](https://openalex.org/A5132958964)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

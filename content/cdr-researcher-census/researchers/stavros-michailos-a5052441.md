@@ -1,7 +1,7 @@
 ---
 title: "Stavros Michailos"
-description: "Stavros Michailos is a Senior DAC researcher at University of Hull in GB. With 61 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Stavros Michailos, University of Hull, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 97 by activity, 75 by citations. 61 publications, h-index 24, 2,232 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/stavros-michailos-a5052441/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>University of Hull</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>rank 97 <a href="/data/researchers/beccs/">by activity</a>, rank 75 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>24</td></tr>
+  <tr><th>Citations</th><td>2,232</td></tr>
+  <tr><th>Publications</th><td>61</td></tr>
+  <tr><th>Share of publications on CDR</th><td>16.4%</td></tr>
+  <tr><th>Trajectory</th><td>Declining</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-8507-5225">ORCID</a> · <a href="https://openalex.org/A5052441020">OpenAlex</a></td></tr>
+</table>
 
-**Stavros Michailos**  
-University of Hull · 🇬🇧 GB
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 24 |
-| Citations | 2,232 |
-| Publications | 61 |
-| CDR Focus | 16.4% |
-| Trajectory | Declining |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -65,11 +58,6 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | 2022 | [A performance modelling study of integrating a MEA direct air capture unit with a CCGT absorber](https://doi.org/10.2139/ssrn.4283821) | DAC | 5 |
 | 2021 | [Techno-economic and environmental assessment of BECCS in fuel generation for FT-fuel, bioSNG and OME<i>x</i>](https://doi.org/10.1039/d1se00123j) | BECCS | 23 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-8507-5225)
-- [OpenAlex](https://openalex.org/A5052441020)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

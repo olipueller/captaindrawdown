@@ -1,7 +1,7 @@
 ---
 title: "Benjamin Z. Houlton"
-description: "Benjamin Z. Houlton is an Eminent Enhanced Weathering researcher at Cornell University in US. With 183 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Benjamin Z. Houlton, Cornell University, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 30 by activity, 77 by citations. 183 publications, h-index 44, 13,575 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/benjamin-z-houlton-a5072170/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Cornell University</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>rank 30 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 77 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>44</td></tr>
+  <tr><th>Citations</th><td>13,575</td></tr>
+  <tr><th>Publications</th><td>183</td></tr>
+  <tr><th>Share of publications on CDR</th><td>9.8%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-1414-0261">ORCID</a> · <a href="https://openalex.org/A5072170387">OpenAlex</a></td></tr>
+</table>
 
-**Benjamin Z. Houlton**  
-Cornell University · 🇺🇸 US
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Enhanced Weathering**
-
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 44 |
-| Citations | 13,575 |
-| Publications | 183 |
-| CDR Focus | 9.8% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -69,11 +62,6 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | 2022 | [Methods for determining the CO2 removal capacity of enhanced weathering in agronomic settings](https://doi.org/10.3389/fclim.2022.970429) | Enhanced Weathering | 38 |
 | 2021 | [Bedrock Weathering Controls on Terrestrial Carbon‐Nitrogen‐Climate Interactions](https://doi.org/10.1029/2020gb006933) | Enhanced Weathering | 15 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-1414-0261)
-- [OpenAlex](https://openalex.org/A5072170387)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

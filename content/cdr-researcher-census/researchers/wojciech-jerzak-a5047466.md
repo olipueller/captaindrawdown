@@ -1,7 +1,7 @@
 ---
 title: "Wojciech Jerzak"
-description: "Wojciech Jerzak is a Senior Biochar researcher at AGH University of Krakow in PL. With 76 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Wojciech Jerzak, AGH University of Krakow, Poland. 76 publications, h-index 16, 873 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/wojciech-jerzak-a5047466/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,20 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>AGH University of Krakow</td></tr>
+  <tr><th>Country</th><td>Poland</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>16</td></tr>
+  <tr><th>Citations</th><td>873</td></tr>
+  <tr><th>Publications</th><td>76</td></tr>
+  <tr><th>Share of publications on CDR</th><td>5.3%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-8791-9671">ORCID</a> · <a href="https://openalex.org/A5047466959">OpenAlex</a></td></tr>
+</table>
 
-**Wojciech Jerzak**  
-AGH University of Krakow ·  PL
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 16 |
-| Citations | 873 |
-| Publications | 76 |
-| CDR Focus | 5.3% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -60,11 +52,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2025 | [Direct Air Capture Using Pyrolysis and Gasification Chars: Key Findings and Future Research Needs](https://doi.org/10.3390/en18154120) | Biochar; DAC | 8 |
 | 2025 | [Effects of intrinsic and external potassium on biochar structure evolution in volatile-char interactions during biomass pyrolysis](https://doi.org/10.1016/j.jaap.2025.107472) | Biochar | 3 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-8791-9671)
-- [OpenAlex](https://openalex.org/A5047466959)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

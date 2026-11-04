@@ -1,7 +1,7 @@
 ---
 title: "Sophie Chlela"
-description: "Sophie Chlela is an Early-career BECCS researcher at Centre de Mathématiques Appliquées - CMA in FR. With 14 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Sophie Chlela, Centre de Mathématiques Appliquées - CMA, France. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 47 by activity, 1969 by citations. 14 publications, h-index 3, 17 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/sophie-chlela-a5010115/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -22,28 +22,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Centre de Mathématiques Appliquées - CMA</td></tr>
+  <tr><th>Country</th><td>France</td></tr>
+  <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>rank 47 <a href="/data/researchers/beccs/">by activity</a>, rank 1969 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Early-career</td></tr>
+  <tr><th>h-index</th><td>3</td></tr>
+  <tr><th>Citations</th><td>17</td></tr>
+  <tr><th>Publications</th><td>14</td></tr>
+  <tr><th>Share of publications on CDR</th><td>78.6%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://openalex.org/A5010115224">OpenAlex</a></td></tr>
+</table>
 
-**Sophie Chlela**  
-Centre de Mathématiques Appliquées - CMA · 🇫🇷 FR
-
-**Career Stage:** Early-career
-
-## CDR Specialization
-
-**BECCS**
-
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 3 |
-| Citations | 17 |
-| Publications | 14 |
-| CDR Focus | 78.6% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -63,10 +56,6 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | 2022 | [Biomass from the carbon dioxide removal and carbon neutrality perspective: a long term assessment using TIAM-FR](https://hal.science/hal-03934511) | BECCS | 0 |
 | 2022 | [Techno-economic assessment of bio-based Carbon Dioxide Removal using TIAM-FR](https://hal.science/hal-03934516) | BECCS | 0 |
 
-## External Profiles
-
-- [OpenAlex](https://openalex.org/A5010115224)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

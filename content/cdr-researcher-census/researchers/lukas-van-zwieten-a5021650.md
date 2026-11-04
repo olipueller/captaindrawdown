@@ -1,7 +1,7 @@
 ---
 title: "Lukas Van Zwieten"
-description: "Lukas Van Zwieten is an Eminent Biochar researcher at New South Wales Department of Primary Industries in AU. With 282 publications and an h-index of 73, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Lukas Van Zwieten, New South Wales Department of Primary Industries, Australia. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 69 by activity, 235 by citations. 282 publications, h-index 73, 26,843 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/lukas-van-zwieten-a5021650/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>New South Wales Department of Primary Industries</td></tr>
+  <tr><th>Country</th><td>Australia</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>rank 69 <a href="/data/researchers/biochar/">by activity</a>, rank 235 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>73</td></tr>
+  <tr><th>Citations</th><td>26,843</td></tr>
+  <tr><th>Publications</th><td>282</td></tr>
+  <tr><th>Share of publications on CDR</th><td>8.9%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-8832-360X">ORCID</a> · <a href="https://openalex.org/A5021650869">OpenAlex</a></td></tr>
+</table>
 
-**Lukas Van Zwieten**  
-New South Wales Department of Primary Industries · 🇦🇺 AU
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 73 |
-| Citations | 26,843 |
-| Publications | 282 |
-| CDR Focus | 8.9% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -66,11 +59,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2022 | [Biochar accelerates soil organic carbon mineralization via rhizodeposit-activated Actinobacteria](https://doi.org/10.1007/s00374-022-01643-y) | Biochar | 84 |
 | 2021 | [Priming, stabilization and temperature sensitivity of native SOC is controlled by microbial responses and physicochemical properties of biochar](https://doi.org/10.1016/j.soilbio.2021.108139) | Biochar | 94 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-8832-360X)
-- [OpenAlex](https://openalex.org/A5021650869)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

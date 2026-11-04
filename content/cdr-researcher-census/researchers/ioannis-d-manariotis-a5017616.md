@@ -1,7 +1,7 @@
 ---
 title: "Ioannis D. Manariotis"
-description: "Ioannis D. Manariotis is a Senior Biochar researcher at University of Patras in GR. With 154 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Ioannis D. Manariotis, University of Patras, Greece. 154 publications, h-index 28, 2,580 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/ioannis-d-manariotis-a5017616/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,20 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>University of Patras</td></tr>
+  <tr><th>Country</th><td>Greece</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>28</td></tr>
+  <tr><th>Citations</th><td>2,580</td></tr>
+  <tr><th>Publications</th><td>154</td></tr>
+  <tr><th>Share of publications on CDR</th><td>3.2%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-3577-8520">ORCID</a> · <a href="https://openalex.org/A5017616023">OpenAlex</a></td></tr>
+</table>
 
-**Ioannis D. Manariotis**  
-University of Patras · 🇬🇷 GR
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 28 |
-| Citations | 2,580 |
-| Publications | 154 |
-| CDR Focus | 3.2% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -60,11 +52,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2025 | [Effect of pyrolysis conditions on biochar characteristics and water evaporation &amp;#160;](https://doi.org/10.5194/egusphere-egu25-7955) | Biochar | 1 |
 | 2023 | [Bamboo-derived adsorbents for environmental remediation: A review of recent progress](https://doi.org/10.1016/j.envres.2023.115533) | Biochar | 67 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-3577-8520)
-- [OpenAlex](https://openalex.org/A5017616023)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

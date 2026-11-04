@@ -1,7 +1,7 @@
 ---
 title: "Jongsoo Shin"
-description: "Jongsoo Shin is a Mid-career Cross-cutting CDR researcher at Woods Hole Oceanographic Institution in US. With 75 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Jongsoo Shin, Woods Hole Oceanographic Institution, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 61 by activity, 259 by citations. 75 publications, h-index 18, 963 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/jongsoo-shin-a5079999/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Woods Hole Oceanographic Institution</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 61 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 259 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>18</td></tr>
+  <tr><th>Citations</th><td>963</td></tr>
+  <tr><th>Publications</th><td>75</td></tr>
+  <tr><th>Share of publications on CDR</th><td>16.0%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-3199-7646">ORCID</a> · <a href="https://openalex.org/A5079999299">OpenAlex</a></td></tr>
+</table>
 
-**Jongsoo Shin**  
-Woods Hole Oceanographic Institution · 🇺🇸 US
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**Cross-cutting CDR**
-
-Cross-cutting CDR
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 18 |
-| Citations | 963 |
-| Publications | 75 |
-| CDR Focus | 16.0% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -67,11 +60,6 @@ Cross-cutting CDR
 | 2022 | [General circulation and global heat transport in a quadrupling CO2 pulse experiment](https://doi.org/10.1038/s41598-022-15905-0) | Cross-cutting CDR | 8 |
 | 2021 | [Global Cooling Hiatus Driven by an AMOC Overshoot in a Carbon Dioxide Removal Scenario](https://doi.org/10.1029/2021ef002165) | Cross-cutting CDR | 73 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-3199-7646)
-- [OpenAlex](https://openalex.org/A5079999299)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

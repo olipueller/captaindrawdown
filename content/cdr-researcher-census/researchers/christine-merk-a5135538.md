@@ -1,7 +1,7 @@
 ---
 title: "Christine Merk"
-description: "Christine Merk is an Early-career Ocean CDR researcher at Kiel Institute for the World Economy in DE. With 3 publications and an h-index of N/A, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Christine Merk, Kiel Institute for the World Economy, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 78 by activity, 254 by citations. 3 publications, h-index n/a, 0 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/christine-merk-a5135538/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Kiel Institute for the World Economy</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>rank 78 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 254 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Early-career</td></tr>
+  <tr><th>h-index</th><td>n/a</td></tr>
+  <tr><th>Citations</th><td>0</td></tr>
+  <tr><th>Publications</th><td>3</td></tr>
+  <tr><th>Share of publications on CDR</th><td>100.0%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-1941-2702">ORCID</a> · <a href="https://openalex.org/A5135538820">OpenAlex</a></td></tr>
+</table>
 
-**Christine Merk**  
-Kiel Institute for the World Economy · 🇩🇪 DE
-
-**Career Stage:** Early-career
-
-## CDR Specialization
-
-**Ocean CDR**
-
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | N/A |
-| Citations | 0 |
-| Publications | 3 |
-| CDR Focus | 100.0% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -75,11 +68,6 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | 2021 | [Lay person perceptions of marine carbon dioxide removal (CDR) – Working paper](https://doi.org/10.3289/oceannets_d3.3) | Ocean CDR | 6 |
 | 2021 | [Summary report on Workshop 1 laypersons’ perceptions of marine CDR, Deliverable 3.1](https://doi.org/10.3289/oceannets_d3.1) | Ocean CDR | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0003-1941-2702)
-- [OpenAlex](https://openalex.org/A5135538820)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

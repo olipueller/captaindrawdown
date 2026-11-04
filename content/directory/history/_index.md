@@ -10,55 +10,51 @@ _Last refreshed 2026-11-04; updated monthly. Every chart on this page is compute
 
 ## When were today's CDR companies founded?
 
-Each bar shows how many of today's active CDR companies were founded in that year. We use **WHOIS domain-registration year** as a proxy for company founding — most CDR startups register their domain within a few months of incorporation, and the domain registry is one of the few datapoints that's consistently available across all 1.500+ companies in the directory. Caveats: some firms acquire older expired domains, and a handful of academic spin-offs use a parent-institution domain that long predates the CDR programme. We treat both as noise within an otherwise clear signal.
-
-What you're looking at is the *shape* of the modern CDR-company wave: a long, thin tail of pre-2018 pioneers; a steep ramp starting around 2019; the post-2021 surge driven by Frontier, Microsoft procurement, and the IRA. Nothing about this curve should be read as a permanent feature — companies fail, get acquired, or pivot away from CDR. The bars track founding, not survival.
+Each bar counts the published companies whose domain was registered in that year. I use the WHOIS domain-registration year as the founding proxy: most CDR startups register their domain within months of incorporation, and it is the one date available for nearly every company. Two known distortions: some firms buy older expired domains, and some academic spin-offs sit on a parent institution's domain that predates the CDR work. Both are noise against a clear shape: a thin tail of pioneers before 2018, a ramp from 2019, and the surge after 2021 with Frontier, Microsoft's purchases and the US Inflation Reduction Act. The bars count founding, not survival.
 
 ![Founding years](/charts/history-founding-years.png)
 
-_Note on the grey-shaded zone: the most recent ~3 years are visibly understated. Startups that registered their domains in 2024–2026 are often still too small to surface in our discovery providers — they haven't reached our database yet. Don't read the recent dip as a real slowdown._
+_Note on the grey-shaded zone: the most recent ~3 years are visibly understated. Startups that registered their domains in 2024–2026 are often still too small to show up in my discovery sources, so they are not in the database yet. Do not read the recent dip as a real slowdown._
 
 ## Founding waves per pathway
 
-The same founding-year data, this time broken out by each company's **primary CDR pathway**. Reading down a single year shows which approaches the founding cohort of that vintage was betting on; reading along a single pathway shows when its startup wave actually arrived.
+The same founding years, split by each company's primary pathway. Reading down one year shows what that cohort of founders bet on; reading along one pathway shows when its wave arrived.
 
-Three patterns are worth noticing. **DAC and Mineralization** have a long shoulder going back to the early 2010s — these were the first pathways with credible engineering paths and they attracted founders before the durable-CDR purchase market existed. **Biochar** swings the other way: a relatively recent boom, almost entirely 2020–2024, riding cheap registry methods and short cycle times from feedstock to credit. **Enhanced Weathering, Ocean CDR, and Biomass Burial** sit in between — the pathways that took longer to find product-market fit, and where most of today's company count was founded in the last five years.
+Three patterns in my data: DAC and mineralization have a long shoulder back to the early 2010s, the first pathways with a credible engineering route and founders before a purchase market existed. Biochar is the opposite, a recent boom almost entirely 2020 to 2024, carried by cheap registry methods and short cycles from feedstock to credit. Enhanced weathering, ocean CDR and biomass burial sit between: most of their companies were founded in the last five years.
 
 ![Founding by pathway](/charts/history-founding-years-by-pathway.png)
 
-_Note on the grey-shaded zone: the most recent ~3 years are visibly understated. Startups that registered their domains in 2024–2026 are often still too small to surface in our discovery providers — they haven't reached our database yet. Don't read the recent dip as a real slowdown._
+_Note on the grey-shaded zone: the most recent ~3 years are visibly understated. Startups that registered their domains in 2024–2026 are often still too small to show up in my discovery sources, so they are not in the database yet. Do not read the recent dip as a real slowdown._
 
-## Academic attention — papers per pathway
+## Academic attention: papers per pathway
 
-Yearly count of CDR-relevant scientific papers per pathway, drawn from our own [CDR Researcher Census](/cdr-researcher-census/) and **not** from a naïve OpenAlex keyword query. Each paper was pathway-tagged during the census build, where the team manually classified ~25k publications by which CDR pathway they actually contribute to (rather than by what string happens to appear in the abstract). That distinction matters: a keyword search for "biochar" returns thousands of agricultural-soil papers that don't discuss carbon removal at all.
-
-Coverage starts in 2021 because that's when the census tagging begins; the current year is excluded throughout because indexing lag in OpenAlex makes recent counts artificially low. Read the chart as **a proxy for where the field's brain is** — which pathways are pulling researcher attention and which are running on engineering effort alone with relatively little academic underwriting.
+Yearly count of CDR-relevant papers per pathway from my [CDR Researcher Census](/cdr-researcher-census/), not from a keyword query. The census classifier tags each paper with the pathway it contributes to (keyword candidates, then a language model filter), which keeps out the thousands of agricultural biochar papers that never mention removal. Coverage starts in 2021 with the census; the current year is left out because OpenAlex indexes with a lag. Read it as where research attention goes, pathway by pathway.
 
 ![Papers per pathway](/charts/history-papers-per-pathway.png)
 
-_Note: census pathways don't fully overlap with our company taxonomy. Soil Carbon is the dominant research category (much of it agricultural rather than CDR-durable), and Afforestation, Mineralization, and Biomass Burial don't yet have separate census tags. Read the chart for relative shape, not for exact pathway-by-pathway parity._
+_The census counts six pathways (DAC, BECCS, enhanced weathering, ocean CDR, biochar, cross-cutting CDR); the company directory uses eight. Mineralization, biomass burial and enabling technology have no census tag, so the two views do not match pathway by pathway._
 
 ## Industry structure by pathway
 
-Each bar is one pathway, split by the **EU SME size class** of its published companies: micro (under 10 staff), small (10 to 49), medium (50 to 249) and large (250 and more), derived from LinkedIn size bands and other staff signals. Per-company headcounts are licensed data and are not published; the class is the public form, on this page and in the [directory](/directory/).
+Each bar is one pathway, split by the EU SME size class of its published companies: micro (under 10 staff), small (10 to 49), medium (50 to 249) and large (250 and more), derived from LinkedIn size bands and other staff signals. Per-company headcounts are licensed data and stay unpublished; the class is the public form, here and in the [directory](/directory/).
 
-Read the bar length for how many companies a pathway has and the colour mix for how big they are. A pathway made of micro firms is young or capital-light by design (biochar's long tail of small operators); a pathway with medium and large companies has operators running plants. Neither is a verdict: the first can grow up, the second can stall.
+Bar length says how many companies a pathway has, the colour mix how big they are. A pathway of micro firms is young or capital-light by design (biochar's long tail of small operators); a pathway with medium and large companies has operators running plants. Neither is a verdict: the first can grow up, the second can stall.
 
 ![Companies per pathway by size class](/charts/history-size-by-pathway.png)
 
-## Founding year × size today
+## Founding year and size today
 
-The founding-year bars again, this time split by how big each company is today. The older cohorts hold most of the medium and large companies; the post-2020 wave is almost entirely micro and small firms. That is what a young industry looks like, not a judgement on it: the companies that will carry the next decade's capacity are in those bars somewhere, still small.
+The founding-year bars again, split by how big each company is today. The older cohorts hold most of the medium and large companies; the post-2020 wave is almost entirely micro and small firms. That is what a young industry looks like, not a judgement on it: the companies that will carry the next decade's capacity are in those bars somewhere, still small.
 
 ![Founding year by size class](/charts/history-founding-years-by-size.png)
 
-_Note on the grey-shaded zone: the most recent ~3 years are visibly understated. Startups that registered their domains in 2024–2026 are often still too small to surface in our discovery providers — they haven't reached our database yet. Don't read the recent dip as a real slowdown._
+_Note on the grey-shaded zone: the most recent ~3 years are visibly understated. Startups that registered their domains in 2024–2026 are often still too small to show up in my discovery sources, so they are not in the database yet. Do not read the recent dip as a real slowdown._
 
-## Pathway health by size
+## Liveliness by size
 
-Share of liveliness tiers within each size class. **Liveliness** is a composite signal (job postings, hiring activity, news-event matches in the last 90 days, homepage liveness), re-evaluated monthly; one credible heartbeat puts a company in *Active*, companies with no positive signal and no fresh news evidence drift into *Suspect* or the bottom tier.
+Share of liveliness tiers within each size class. Liveliness is a composite signal (job postings, hiring, news matches in the last 90 days, a live homepage), re-evaluated monthly: one credible heartbeat puts a company in Active; companies with no positive signal and no fresh news drift into Suspect or the bottom tier.
 
-Read it as: where do the likely-dead companies sit by size? Micro firms going quiet is the normal churn of a startup field and mostly noise in any health discussion; medium or large companies in the lower tiers would be a real warning about the pathways they belong to.
+Read it as: where do the likely-dead companies sit by size? Micro firms going quiet is the normal churn of a startup field and mostly noise; medium or large companies in the lower tiers would be a real warning about the pathways they belong to.
 
 ![Liveliness by size class](/charts/history-liveliness-by-size.png)
 
@@ -66,23 +62,23 @@ Read it as: where do the likely-dead companies sit by size? Micro firms going qu
 
 ## How the research workforce forms and turns over
 
-The charts above track companies. This section tracks *people* — the researchers behind the science, from the [CDR Researcher Census](/cdr-researcher-census/). Each researcher is placed, year by year, above the line if they published a CDR-relevant paper that year (**active**) and below it if they did not (**dormant**, split by whether they published the year before). The top envelope is the real working research workforce each year; the pool below the line is the accumulation of one-paper-and-gone researchers. New entrants join at the base of the active band each year (teal block, no incoming ribbon).
+The charts above track companies; this section tracks people, the researchers in my [CDR Researcher Census](/cdr-researcher-census/). Each researcher is placed, year by year, above the line when they published a CDR-relevant paper that year (active) and below it when they did not (dormant, split by whether they published the year before). The top envelope is the working research workforce each year; the pool below is the accumulation of one-paper-and-gone researchers. New entrants join at the base of the active band (teal block, no incoming ribbon).
 
-**Active researchers per pathway over time.** The current-state chart on the census page is the last point of these lines. Here is the whole run, 2021–2025, on a log scale so growth rates compare across pathways of very different size.
+**Active researchers per pathway over time.** The current-state chart on the census page is the last point of these lines. Here is the whole run, 2021 to 2025, on a log scale so growth rates compare across pathways of very different size.
 
 ![Active CDR researchers per pathway, 2021–2025](/charts/census-active-by-pathway-timeseries.png)
 
-**All pathways combined** — the active workforce roughly tripled from 2021 to 2025, while the dormant pool grew faster underneath. For the current active workforce per pathway, see the [census page](/cdr-researcher-census/).
+**All pathways combined.** The active workforce roughly tripled from 2021 to 2025 while the dormant pool grew faster underneath. The current active workforce per pathway is on the [census page](/cdr-researcher-census/).
 
 ![Researcher trajectories, all pathways](/charts/census-trajectory-all.png)
 
 ### By pathway
 
-The same view, one pathway at a time. Younger pathways (enhanced weathering, ocean CDR) show a steep active band over a shallow dormant floor; older, broader ones (soil carbon, biochar) carry a much deeper dormant pool of past one-time contributors.
+The same view, one pathway at a time. Younger pathways (enhanced weathering, ocean CDR) show a steep active band over a shallow dormant floor; the broad ones (biochar, cross-cutting CDR) carry a much deeper pool of past one-time contributors.
 
-**General CDR**
+**Cross-cutting CDR**
 
-![General CDR researcher trajectory](/charts/census-trajectory-general-cdr.png)
+![Cross-cutting CDR researcher trajectory](/charts/census-trajectory-general-cdr.png)
 
 **DAC**
 
@@ -106,4 +102,4 @@ The same view, one pathway at a time. Younger pathways (enhanced weathering, oce
 
 ---
 
-> **Data sources** — LinkedIn size bands and other staff signals for the EU SME size classes (per-company headcounts are licensed data and are not published); WHOIS for domain-creation years (used as a founding-year proxy); OpenAlex for the publication backbone behind the CDR Researcher Census; and the [CDR Company Directory](/directory/) itself for the company entries underneath every chart. Liveliness tiers are re-evaluated monthly off the stored signals. The same data, versioned and citable: [captaindrawdown.com/data](/data/). If you spot an error, write to [info@carbon-drawdown.de](mailto:info@carbon-drawdown.de) or ping us on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social); corrections appear in the next data release.
+> **Sources.** LinkedIn size bands and other staff signals for the EU SME size classes (per-company headcounts are licensed and not published); WHOIS for domain-registration years as the founding proxy; OpenAlex and ORCID behind the CDR Researcher Census; and the [CDR Company Directory](/directory/) for every company under every chart. Liveliness tiers are re-evaluated monthly from the stored signals. The same data, versioned and citable: [captaindrawdown.com/data](/data/). Corrections: [info@carbon-drawdown.de](mailto:info@carbon-drawdown.de); they appear in the next data release.

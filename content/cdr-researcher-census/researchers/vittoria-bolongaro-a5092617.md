@@ -1,7 +1,7 @@
 ---
 title: "Vittoria Bolongaro"
-description: "Vittoria Bolongaro is an Early-career DAC researcher at ETH Zurich in CH. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Vittoria Bolongaro, ETH Zurich, Switzerland. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 94 by activity, 2132 by citations. 8 publications, h-index 4, 76 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/vittoria-bolongaro-a5092617/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>ETH Zurich</td></tr>
+  <tr><th>Country</th><td>Switzerland</td></tr>
+  <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>rank 94 <a href="/data/researchers/dac/">by activity</a>, rank 2132 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Early-career</td></tr>
+  <tr><th>h-index</th><td>4</td></tr>
+  <tr><th>Citations</th><td>76</td></tr>
+  <tr><th>Publications</th><td>8</td></tr>
+  <tr><th>Share of publications on CDR</th><td>75.0%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0009-0008-4633-7713">ORCID</a> · <a href="https://openalex.org/A5092617373">OpenAlex</a></td></tr>
+</table>
 
-**Vittoria Bolongaro**  
-ETH Zurich · 🇨🇭 CH
-
-**Career Stage:** Early-career
-
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 4 |
-| Citations | 76 |
-| Publications | 8 |
-| CDR Focus | 75.0% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -61,11 +54,6 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | 2025 | [Life-Cycle Assessment of Solid Calcium-Looping Direct AirCapture and Its Synergistic Dual Use for Net-Negative Cement](https://doi.org/10.26434/chemrxiv-2025-8zjlg-v2) | Cross-cutting CDR | 1 |
 | 2025 | [Prospective life cycle assessment of megatonne-scale direct air carbon capture and storage via calcium-looping](https://doi.org/10.26434/chemrxiv-2025-8zjlg) | DAC | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0009-0008-4633-7713)
-- [OpenAlex](https://openalex.org/A5092617373)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

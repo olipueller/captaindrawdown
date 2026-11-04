@@ -1,7 +1,7 @@
 ---
 title: "Juan Adánez"
-description: "Juan Adánez is an Eminent BECCS researcher at Instituto de Carboquímica in ES. With 324 publications and an h-index of 75, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Juan Adánez, Instituto de Carboquímica, Spain. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 100 by activity, 727 by citations. 324 publications, h-index 75, 21,660 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/juan-adanez-a5005651/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Instituto de Carboquímica</td></tr>
+  <tr><th>Country</th><td>Spain</td></tr>
+  <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>rank 100 <a href="/data/researchers/beccs/">by activity</a>, rank 727 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>75</td></tr>
+  <tr><th>Citations</th><td>21,660</td></tr>
+  <tr><th>Publications</th><td>324</td></tr>
+  <tr><th>Share of publications on CDR</th><td>1.2%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-6287-098X">ORCID</a> · <a href="https://openalex.org/A5005651345">OpenAlex</a></td></tr>
+</table>
 
-**Juan Adánez**  
-Instituto de Carboquímica · 🇪🇸 ES
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**BECCS**
-
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 75 |
-| Citations | 21,660 |
-| Publications | 324 |
-| CDR Focus | 1.2% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -59,11 +52,6 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | 2023 | [Reaction kinetics of a NiO-based oxygen carrier with ethanol to be applied in chemical looping processes](https://doi.org/10.1016/j.fuel.2023.128163) | BECCS | 14 |
 | 2021 | [Behavior of a manganese-iron mixed oxide doped with titanium in reducing the oxygen demand for CLC of biomass](https://doi.org/10.1016/j.fuel.2021.120381) | BECCS | 18 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-6287-098X)
-- [OpenAlex](https://openalex.org/A5005651345)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

@@ -1,7 +1,7 @@
 ---
 title: "Tyler Kukla"
-description: "Tyler Kukla is a Mid-career Enhanced Weathering researcher at CarbonPlan in US. With 79 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Tyler Kukla, CarbonPlan, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 80 by activity, 1350 by citations. 79 publications, h-index 13, 551 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/tyler-kukla-a5044186/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>CarbonPlan</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>rank 80 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 1350 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>13</td></tr>
+  <tr><th>Citations</th><td>551</td></tr>
+  <tr><th>Publications</th><td>79</td></tr>
+  <tr><th>Share of publications on CDR</th><td>10.1%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-3413-0925">ORCID</a> · <a href="https://openalex.org/A5044186752">OpenAlex</a></td></tr>
+</table>
 
-**Tyler Kukla**  
-CarbonPlan · 🇺🇸 US
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**Enhanced Weathering**
-
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 13 |
-| Citations | 551 |
-| Publications | 79 |
-| CDR Focus | 10.1% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -63,11 +56,6 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | 2025 | [Photosynthesis in Rivers as a Loss Pathway for ERW-Derived DIC and Alkalinity](https://doi.org/10.70212/cdrxiv.2025329.v1) | Enhanced Weathering | 0 |
 | 2025 | [Swapping carbonate for silicate in agricultural enhanced rock weathering](https://doi.org/10.70212/cdrxiv.2025304.v1) | Enhanced Weathering | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-3413-0925)
-- [OpenAlex](https://openalex.org/A5044186752)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

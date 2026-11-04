@@ -1,7 +1,7 @@
 ---
 title: "Wenjia Cai"
-description: "Wenjia Cai is an Eminent BECCS researcher at Tsinghua University in CN. With 248 publications and an h-index of 58, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Wenjia Cai, Tsinghua University, China. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 98 by activity, 66 by citations. 248 publications, h-index 58, 35,557 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/wenjia-cai-a5016144/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Tsinghua University</td></tr>
+  <tr><th>Country</th><td>China</td></tr>
+  <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>rank 98 <a href="/data/researchers/beccs/">by activity</a>, rank 66 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>58</td></tr>
+  <tr><th>Citations</th><td>35,557</td></tr>
+  <tr><th>Publications</th><td>248</td></tr>
+  <tr><th>Share of publications on CDR</th><td>2.8%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-4436-512X">ORCID</a> · <a href="https://openalex.org/A5016144119">OpenAlex</a></td></tr>
+</table>
 
-**Wenjia Cai**  
-Tsinghua University · 🇨🇳 CN
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**BECCS**
-
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 58 |
-| Citations | 35,557 |
-| Publications | 248 |
-| CDR Focus | 2.8% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -62,11 +55,6 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | 2021 | [Evaluating the use of BECCS and afforestation under China’s carbon-neutral target for 2060](https://doi.org/10.1016/j.apenergy.2021.117263) | BECCS | 185 |
 | 2021 | [A fine-resolution estimation of the biomass resource potential across China from 2020 to 2100](https://doi.org/10.1016/j.resconrec.2021.105944) | BECCS | 36 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-4436-512X)
-- [OpenAlex](https://openalex.org/A5016144119)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

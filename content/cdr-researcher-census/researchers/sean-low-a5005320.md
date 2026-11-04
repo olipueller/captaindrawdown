@@ -1,7 +1,7 @@
 ---
 title: "Sean Low"
-description: "Sean Low is a Senior Cross-cutting CDR researcher at Aarhus University in DK. With 57 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Sean Low, Aarhus University, Denmark. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 75 by activity, 98 by citations. 57 publications, h-index 23, 1,753 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/sean-low-a5005320/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Aarhus University</td></tr>
+  <tr><th>Country</th><td>Denmark</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 75 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 98 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>23</td></tr>
+  <tr><th>Citations</th><td>1,753</td></tr>
+  <tr><th>Publications</th><td>57</td></tr>
+  <tr><th>Share of publications on CDR</th><td>33.3%</td></tr>
+  <tr><th>Trajectory</th><td>Declining</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-3654-5964">ORCID</a> · <a href="https://openalex.org/A5005320428">OpenAlex</a></td></tr>
+</table>
 
-**Sean Low**  
-Aarhus University · 🇩🇰 DK
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**Cross-cutting CDR**
-
-Cross-cutting CDR
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 23 |
-| Citations | 1,753 |
-| Publications | 57 |
-| CDR Focus | 33.3% |
-| Trajectory | Declining |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -74,11 +67,6 @@ Cross-cutting CDR
 | 2021 | [Navigating Potential Hype and Opportunity in Governing Marine Carbon Removal](https://doi.org/10.3389/fclim.2021.664456) | Ocean CDR | 66 |
 | 2021 | [Climate Imagineering](https://doi.org/10.33540/668) | BECCS | 1 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-3654-5964)
-- [OpenAlex](https://openalex.org/A5005320428)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

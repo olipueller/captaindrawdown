@@ -1,7 +1,7 @@
 ---
 title: "Lukas Marx"
-description: "Lukas Marx is a Mid-career Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Lukas Marx, Woods Hole Oceanographic Institution, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 70 by activity, 226 by citations. 22 publications, h-index 5, 136 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/lukas-marx-a5002822/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Woods Hole Oceanographic Institution</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>rank 70 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 226 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>5</td></tr>
+  <tr><th>Citations</th><td>136</td></tr>
+  <tr><th>Publications</th><td>22</td></tr>
+  <tr><th>Share of publications on CDR</th><td>36.4%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-9864-3060">ORCID</a> · <a href="https://openalex.org/A5002822093">OpenAlex</a></td></tr>
+</table>
 
-**Lukas Marx**  
-Woods Hole Oceanographic Institution · 🇺🇸 US
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**Ocean CDR**
-
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 5 |
-| Citations | 136 |
-| Publications | 22 |
-| CDR Focus | 36.4% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -63,11 +56,6 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | 2025 | [Development of the ecological activity index as an integrative ecosystem assessment and monitoring asset for ocean alkalinity enhancement](https://doi.org/10.21203/rs.3.rs-6371725/v1) | Ocean CDR | 4 |
 | 2022 | [Microbial ecosystem responses to alkalinity enhancement in the North Atlantic Subtropical Gyre](https://doi.org/10.3389/fclim.2022.784997) | Ocean CDR | 64 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-9864-3060)
-- [OpenAlex](https://openalex.org/A5002822093)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

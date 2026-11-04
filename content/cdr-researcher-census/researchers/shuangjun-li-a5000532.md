@@ -1,7 +1,7 @@
 ---
 title: "Shuangjun Li"
-description: "Shuangjun Li is a Senior DAC researcher at Korea University in KR. With 131 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Shuangjun Li, Korea University, South Korea. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 90 by activity, 236 by citations. 131 publications, h-index 35, 3,840 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/shuangjun-li-a5000532/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Korea University</td></tr>
+  <tr><th>Country</th><td>South Korea</td></tr>
+  <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>rank 90 <a href="/data/researchers/dac/">by activity</a>, rank 236 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>35</td></tr>
+  <tr><th>Citations</th><td>3,840</td></tr>
+  <tr><th>Publications</th><td>131</td></tr>
+  <tr><th>Share of publications on CDR</th><td>4.6%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-5522-7083">ORCID</a> · <a href="https://openalex.org/A5000532573">OpenAlex</a></td></tr>
+</table>
 
-**Shuangjun Li**  
-Korea University · 🇰🇷 KR
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 35 |
-| Citations | 3,840 |
-| Publications | 131 |
-| CDR Focus | 4.6% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -61,11 +54,6 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | 2023 | [Can bioenergy with carbon capture and storage deliver negative emissions? A critical review of life cycle assessment](https://doi.org/10.1016/j.jclepro.2023.139839) | BECCS | 36 |
 | 2022 | [Energetic and Life Cycle Assessment of Direct Air Capture: A Review](https://doi.org/10.1016/j.spc.2022.12.017) | DAC | 52 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-5522-7083)
-- [OpenAlex](https://openalex.org/A5000532573)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

@@ -1,7 +1,7 @@
 ---
 title: "Jong‐Seong Kug"
-description: "Jong‐Seong Kug is an Eminent Cross-cutting CDR researcher at Seoul National University in KR. With 559 publications and an h-index of 64, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Jong‐Seong Kug, Seoul National University, South Korea. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 27 by activity, 178 by citations. 559 publications, h-index 64, 20,594 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/jongseong-kug-a5091389/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Seoul National University</td></tr>
+  <tr><th>Country</th><td>South Korea</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 27 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 178 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>64</td></tr>
+  <tr><th>Citations</th><td>20,594</td></tr>
+  <tr><th>Publications</th><td>559</td></tr>
+  <tr><th>Share of publications on CDR</th><td>3.2%</td></tr>
+  <tr><th>Trajectory</th><td>Declining</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-2251-2579">ORCID</a> · <a href="https://openalex.org/A5091389074">OpenAlex</a></td></tr>
+</table>
 
-**Jong‐Seong Kug**  
-Seoul National University · 🇰🇷 KR
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Cross-cutting CDR**
-
-Cross-cutting CDR
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 64 |
-| Citations | 20,594 |
-| Publications | 559 |
-| CDR Focus | 3.2% |
-| Trajectory | Declining |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -73,11 +66,6 @@ Cross-cutting CDR
 | 2022 | [General circulation and global heat transport in a quadrupling CO2 pulse experiment](https://doi.org/10.1038/s41598-022-15905-0) | Cross-cutting CDR | 8 |
 | 2021 | [Global Cooling Hiatus Driven by an AMOC Overshoot in a Carbon Dioxide Removal Scenario](https://doi.org/10.1029/2021ef002165) | Cross-cutting CDR | 73 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0003-2251-2579)
-- [OpenAlex](https://openalex.org/A5091389074)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

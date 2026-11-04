@@ -1,7 +1,7 @@
 ---
 title: "Frederico Ribeiro do Carmo"
-description: "Frederico Ribeiro do Carmo is a Mid-career Biochar researcher at Universidade Federal Rural do Semi-Árido in BR. With 44 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Frederico Ribeiro do Carmo, Universidade Federal Rural do Semi-Árido, Brazil. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 94 by activity, 6865 by citations. 44 publications, h-index 11, 365 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/frederico-ribeiro-do-carmo-a5029577/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Universidade Federal Rural do Semi-Árido</td></tr>
+  <tr><th>Country</th><td>Brazil</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>rank 94 <a href="/data/researchers/biochar/">by activity</a>, rank 6865 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>11</td></tr>
+  <tr><th>Citations</th><td>365</td></tr>
+  <tr><th>Publications</th><td>44</td></tr>
+  <tr><th>Share of publications on CDR</th><td>13.6%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-0666-2956">ORCID</a> · <a href="https://openalex.org/A5029577765">OpenAlex</a></td></tr>
+</table>
 
-**Frederico Ribeiro do Carmo**  
-Universidade Federal Rural do Semi-Árido · 🇧🇷 BR
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 11 |
-| Citations | 365 |
-| Publications | 44 |
-| CDR Focus | 13.6% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -61,11 +54,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2025 | [Beyond bioenergy with carbon capture and storage: RothC-based assessment of biochar systems for removal and land-based carbon offsets in semi-arid soils of Brazil](https://doi.org/10.1016/j.jclepro.2025.147162) | Biochar | 2 |
 | 2025 | [A Bibliometric‐Based Review of Biochar for Salt‐Affected Soil Restoration: Mapping Research Trends and Future Directions](https://doi.org/10.1002/ldr.70404) | Biochar | 1 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0003-0666-2956)
-- [OpenAlex](https://openalex.org/A5029577765)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

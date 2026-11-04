@@ -1,7 +1,7 @@
 ---
 title: "Henrik I. Petersen"
-description: "Henrik I. Petersen is a Senior Biochar researcher at Geological Survey of Denmark and Greenland in DK. With 193 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Henrik I. Petersen, Geological Survey of Denmark and Greenland, Denmark. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 53 by activity, 681 by citations. 193 publications, h-index 35, 4,218 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/henrik-i-petersen-a5016856/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Geological Survey of Denmark and Greenland</td></tr>
+  <tr><th>Country</th><td>Denmark</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>rank 53 <a href="/data/researchers/biochar/">by activity</a>, rank 681 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>35</td></tr>
+  <tr><th>Citations</th><td>4,218</td></tr>
+  <tr><th>Publications</th><td>193</td></tr>
+  <tr><th>Share of publications on CDR</th><td>4.1%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-6606-7062">ORCID</a> · <a href="https://openalex.org/A5016856899">OpenAlex</a></td></tr>
+</table>
 
-**Henrik I. Petersen**  
-Geological Survey of Denmark and Greenland · 🇩🇰 DK
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 35 |
-| Citations | 4,218 |
-| Publications | 193 |
-| CDR Focus | 4.1% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -63,11 +56,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2024 | [Pyrolysis of macroalgae: Insight into product yields and biochar morphology and stability](https://doi.org/10.1016/j.coal.2024.104498) | Biochar | 21 |
 | 2023 | [Assessing biochar's permanence: An inertinite benchmark](https://doi.org/10.1016/j.coal.2023.104409) | Biochar | 79 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-6606-7062)
-- [OpenAlex](https://openalex.org/A5016856899)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

@@ -1,7 +1,7 @@
 ---
 title: "Bjarne Steffen"
-description: "Bjarne Steffen is a Senior Cross-cutting CDR researcher at ETH Zurich in CH. With 117 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Bjarne Steffen, ETH Zurich, Switzerland. 117 publications, h-index 35, 4,852 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/bjarne-steffen-a5051413/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -22,28 +22,20 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>ETH Zurich</td></tr>
+  <tr><th>Country</th><td>Switzerland</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>35</td></tr>
+  <tr><th>Citations</th><td>4,852</td></tr>
+  <tr><th>Publications</th><td>117</td></tr>
+  <tr><th>Share of publications on CDR</th><td>7.7%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://openalex.org/A5051413085">OpenAlex</a></td></tr>
+</table>
 
-**Bjarne Steffen**  
-ETH Zurich · 🇨🇭 CH
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**Cross-cutting CDR**
-
-Cross-cutting CDR
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 35 |
-| Citations | 4,852 |
-| Publications | 117 |
-| CDR Focus | 7.7% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -61,10 +53,6 @@ Cross-cutting CDR
 | 2024 | [Considering technology characteristics to project future costs of direct air capture](https://doi.org/10.1016/j.joule.2024.02.005) | DAC | 168 |
 | 2024 | [Sequencing Carbon Dioxide Removal into the EU ETS](https://doi.org/10.2139/ssrn.4875550) | Cross-cutting CDR | 10 |
 
-## External Profiles
-
-- [OpenAlex](https://openalex.org/A5051413085)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

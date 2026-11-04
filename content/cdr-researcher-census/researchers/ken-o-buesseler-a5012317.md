@@ -1,7 +1,7 @@
 ---
 title: "Ken O. Buesseler"
-description: "Ken O. Buesseler is an Eminent Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 336 publications and an h-index of 88, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Ken O. Buesseler, Woods Hole Oceanographic Institution, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 99 by activity, 540 by citations. 336 publications, h-index 88, 28,062 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/ken-o-buesseler-a5012317/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Woods Hole Oceanographic Institution</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>rank 99 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 540 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>88</td></tr>
+  <tr><th>Citations</th><td>28,062</td></tr>
+  <tr><th>Publications</th><td>336</td></tr>
+  <tr><th>Share of publications on CDR</th><td>2.4%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-7362-8796">ORCID</a> · <a href="https://openalex.org/A5012317636">OpenAlex</a></td></tr>
+</table>
 
-**Ken O. Buesseler**  
-Woods Hole Oceanographic Institution · 🇺🇸 US
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Ocean CDR**
-
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 88 |
-| Citations | 28,062 |
-| Publications | 336 |
-| CDR Focus | 2.4% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -63,11 +56,6 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | 2024 | [Design and Implementation of Iron-Based Electrochemical System for Simultaneous Carbon Capture and Hydrogen Gas Recovery](http://dx.doi.org/10.1149/ma2024-01293125mtgabs) | Ocean CDR | 0 |
 | 2022 | [Synthesis of iron fertilization experiments: From the iron age in the age of enlightenment](https://doi.org/10.17615/aqrf-gb48) | Ocean CDR | 11 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-7362-8796)
-- [OpenAlex](https://openalex.org/A5012317636)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

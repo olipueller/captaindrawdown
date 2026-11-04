@@ -1,7 +1,7 @@
 ---
 title: "Felix Schenuit"
-description: "Felix Schenuit is a Mid-career Cross-cutting CDR researcher at Stiftung Wissenschaft und Politik, German Institute for International and Security Affairs in DE. With 43 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Felix Schenuit, Stiftung Wissenschaft und Politik, German Institute for International and Security Affairs, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 41 by activity, 131 by citations. 43 publications, h-index 13, 596 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/felix-schenuit-a5054371/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Stiftung Wissenschaft und Politik, German Institute for International and Security Affairs</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 41 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 131 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>13</td></tr>
+  <tr><th>Citations</th><td>596</td></tr>
+  <tr><th>Publications</th><td>43</td></tr>
+  <tr><th>Share of publications on CDR</th><td>30.2%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-3695-0588">ORCID</a> · <a href="https://openalex.org/A5054371800">OpenAlex</a></td></tr>
+</table>
 
-**Felix Schenuit**  
-Stiftung Wissenschaft und Politik, German Institute for International and Security Affairs · 🇩🇪 DE
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**Cross-cutting CDR**
-
-Cross-cutting CDR
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 13 |
-| Citations | 596 |
-| Publications | 43 |
-| CDR Focus | 30.2% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -68,11 +61,6 @@ Cross-cutting CDR
 | 2022 | [Procure, Bank, Release: Carbon Removal Certificate Reserves to Manage Carbon Prices on the Path to Net-Zero](https://doi.org/10.1016/j.erss.2022.102858) | Cross-cutting CDR | 45 |
 | 2021 | [Carbon Dioxide Removal Policy in the Making: Assessing Developments in 9 OECD Cases](https://doi.org/10.3389/fclim.2021.638805) | Cross-cutting CDR | 152 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0003-3695-0588)
-- [OpenAlex](https://openalex.org/A5054371800)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

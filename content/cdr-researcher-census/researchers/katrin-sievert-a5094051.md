@@ -1,7 +1,7 @@
 ---
 title: "Katrin Sievert"
-description: "Katrin Sievert is a Mid-career DAC researcher at ETH Zurich in CH. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Katrin Sievert, ETH Zurich, Switzerland. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 62 by activity, 125 by citations. 15 publications, h-index 5, 208 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/katrin-sievert-a5094051/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>ETH Zurich</td></tr>
+  <tr><th>Country</th><td>Switzerland</td></tr>
+  <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>rank 62 <a href="/data/researchers/dac/">by activity</a>, rank 125 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>5</td></tr>
+  <tr><th>Citations</th><td>208</td></tr>
+  <tr><th>Publications</th><td>15</td></tr>
+  <tr><th>Share of publications on CDR</th><td>53.3%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-9090-0162">ORCID</a> · <a href="https://openalex.org/A5094051316">OpenAlex</a></td></tr>
+</table>
 
-**Katrin Sievert**  
-ETH Zurich · 🇨🇭 CH
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 5 |
-| Citations | 208 |
-| Publications | 15 |
-| CDR Focus | 53.3% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -63,11 +56,6 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | 2024 | [Utilizing CO<sub>2</sub> as a strategy to scale up direct air capture may face fewer short-term barriers than directly storing CO<sub>2</sub>](https://doi.org/10.1088/1748-9326/ad3b1f) | DAC | 12 |
 | 2024 | [Sequencing Carbon Dioxide Removal into the EU ETS](https://doi.org/10.2139/ssrn.4875550) | Cross-cutting CDR | 10 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-9090-0162)
-- [OpenAlex](https://openalex.org/A5094051316)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

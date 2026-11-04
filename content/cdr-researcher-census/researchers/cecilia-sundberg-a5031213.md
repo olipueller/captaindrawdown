@@ -1,7 +1,7 @@
 ---
 title: "Cecilia Sundberg"
-description: "Cecilia Sundberg is an Eminent Biochar researcher at Swedish University of Agricultural Sciences in SE. With 152 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Cecilia Sundberg, Swedish University of Agricultural Sciences, Sweden. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 38 by activity, 118 by citations. 152 publications, h-index 40, 4,836 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/cecilia-sundberg-a5031213/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Swedish University of Agricultural Sciences</td></tr>
+  <tr><th>Country</th><td>Sweden</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>rank 38 <a href="/data/researchers/biochar/">by activity</a>, rank 118 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>40</td></tr>
+  <tr><th>Citations</th><td>4,836</td></tr>
+  <tr><th>Publications</th><td>152</td></tr>
+  <tr><th>Share of publications on CDR</th><td>9.9%</td></tr>
+  <tr><th>Trajectory</th><td>Declining</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-5979-9521">ORCID</a> · <a href="https://openalex.org/A5031213092">OpenAlex</a></td></tr>
+</table>
 
-**Cecilia Sundberg**  
-Swedish University of Agricultural Sciences · 🇸🇪 SE
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 40 |
-| Citations | 4,836 |
-| Publications | 152 |
-| CDR Focus | 9.9% |
-| Trajectory | Declining |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -71,11 +64,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2021 | [BECCS with combined heat and power: Assessing the energy penalty](https://doi.org/10.1016/j.ijggc.2020.103248) | BECCS | 29 |
 | 2021 | [Soils, sinks, and smallholder farmers: Examining the benefits of biochar energy transitions in Kenya](https://doi.org/10.1016/j.erss.2021.102033) | Biochar | 24 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-5979-9521)
-- [OpenAlex](https://openalex.org/A5031213092)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

@@ -1,7 +1,7 @@
 ---
 title: "Patricia Grasse"
-description: "Patricia Grasse is a Senior Ocean CDR researcher at German Centre for Integrative Biodiversity Research in DE. With 111 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Patricia Grasse, German Centre for Integrative Biodiversity Research, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 98 by activity, 130 by citations. 111 publications, h-index 24, 1,716 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/patricia-grasse-a5066845/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>German Centre for Integrative Biodiversity Research</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>rank 98 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 130 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>24</td></tr>
+  <tr><th>Citations</th><td>1,716</td></tr>
+  <tr><th>Publications</th><td>111</td></tr>
+  <tr><th>Share of publications on CDR</th><td>8.1%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-1745-4418">ORCID</a> · <a href="https://openalex.org/A5066845777">OpenAlex</a></td></tr>
+</table>
 
-**Patricia Grasse**  
-German Centre for Integrative Biodiversity Research · 🇩🇪 DE
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**Ocean CDR**
-
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 24 |
-| Citations | 1,716 |
-| Publications | 111 |
-| CDR Focus | 8.1% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -64,11 +57,6 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | 2023 | [Assessing technical aspects of ocean alkalinity enhancement approaches](https://doi.org/10.5194/sp-2023-1) | Ocean CDR | 23 |
 | 2023 | [Alkalinity enhancement in intertidal environments: preliminary results of a field experiment](https://doi.org/10.5194/egusphere-egu23-7254) | Ocean CDR | 1 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-1745-4418)
-- [OpenAlex](https://openalex.org/A5066845777)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

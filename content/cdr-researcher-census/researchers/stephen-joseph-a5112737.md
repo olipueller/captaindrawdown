@@ -1,7 +1,7 @@
 ---
 title: "Stephen Joseph"
-description: "Stephen Joseph is an Eminent Biochar researcher at UNSW Sydney in AU. With 135 publications and an h-index of 64, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Stephen Joseph, UNSW Sydney, Australia. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 28 by activity, 275 by citations. 135 publications, h-index 64, 23,745 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/stephen-joseph-a5112737/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>UNSW Sydney</td></tr>
+  <tr><th>Country</th><td>Australia</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>rank 28 <a href="/data/researchers/biochar/">by activity</a>, rank 275 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>64</td></tr>
+  <tr><th>Citations</th><td>23,745</td></tr>
+  <tr><th>Publications</th><td>135</td></tr>
+  <tr><th>Share of publications on CDR</th><td>10.4%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-8933-8010">ORCID</a> · <a href="https://openalex.org/A5112737460">OpenAlex</a></td></tr>
+</table>
 
-**Stephen Joseph**  
-UNSW Sydney · 🇦🇺 AU
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 64 |
-| Citations | 23,745 |
-| Publications | 135 |
-| CDR Focus | 10.4% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -67,11 +60,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2022 | [Improved ginseng production under continuous cropping through soil health reinforcement and rhizosphere microbial manipulation with biochar: a field study of<i>Panax ginseng</i>from Northeast China](https://doi.org/10.1093/hr/uhac108) | Biochar | 71 |
 | 2021 | [Low tech biochar production could be a highly effective nature-based solution for climate change mitigation in the developing world](https://doi.org/10.1007/s11104-021-05159-6) | Biochar | 15 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-8933-8010)
-- [OpenAlex](https://openalex.org/A5112737460)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

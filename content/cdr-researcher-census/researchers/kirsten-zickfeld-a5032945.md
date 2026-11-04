@@ -1,7 +1,7 @@
 ---
 title: "Kirsten Zickfeld"
-description: "Kirsten Zickfeld is an Eminent Cross-cutting CDR researcher at Simon Fraser University in CA. With 201 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Kirsten Zickfeld, Simon Fraser University, Canada. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 60 by activity, 116 by citations. 201 publications, h-index 47, 8,903 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/kirsten-zickfeld-a5032945/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Simon Fraser University</td></tr>
+  <tr><th>Country</th><td>Canada</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 60 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 116 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>47</td></tr>
+  <tr><th>Citations</th><td>8,903</td></tr>
+  <tr><th>Publications</th><td>201</td></tr>
+  <tr><th>Share of publications on CDR</th><td>7.5%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-8866-6541">ORCID</a> · <a href="https://openalex.org/A5032945153">OpenAlex</a></td></tr>
+</table>
 
-**Kirsten Zickfeld**  
-Simon Fraser University · 🇨🇦 CA
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Cross-cutting CDR**
-
-Cross-cutting CDR
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 47 |
-| Citations | 8,903 |
-| Publications | 201 |
-| CDR Focus | 7.5% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -68,11 +61,6 @@ Cross-cutting CDR
 | 2021 | [Atmospheric methane removal: a research agenda](https://doi.org/10.1098/rsta.2020.0454) | Cross-cutting CDR | 123 |
 | 2021 | [Temporary Nature-based Carbon Removal Can Lower Peak Warming in a Well-below 2°C Scenario](https://openalex.org/W3214388654) | Cross-cutting CDR | 15 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-8866-6541)
-- [OpenAlex](https://openalex.org/A5032945153)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

@@ -1,7 +1,7 @@
 ---
 title: "Andrew Chapman"
-description: "Andrew Chapman is a Senior DAC researcher at Kyushu University in JP. With 254 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Andrew Chapman, Kyushu University, Japan. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 88 by activity, 964 by citations. 254 publications, h-index 38, 4,571 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/andrew-chapman-a5018157/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Kyushu University</td></tr>
+  <tr><th>Country</th><td>Japan</td></tr>
+  <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>rank 88 <a href="/data/researchers/dac/">by activity</a>, rank 964 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>38</td></tr>
+  <tr><th>Citations</th><td>4,571</td></tr>
+  <tr><th>Publications</th><td>254</td></tr>
+  <tr><th>Share of publications on CDR</th><td>2.0%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-2519-2382">ORCID</a> · <a href="https://openalex.org/A5018157580">OpenAlex</a></td></tr>
+</table>
 
-**Andrew Chapman**  
-Kyushu University · 🇯🇵 JP
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 38 |
-| Citations | 4,571 |
-| Publications | 254 |
-| CDR Focus | 2.0% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -60,11 +53,6 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | 2024 | [The nexus between direct air capture technology and CO2 emissions in the transport sector](https://doi.org/10.1016/j.apenergy.2024.123112) | DAC | 6 |
 | 2024 | [Direct Air Capture and Utilization: Life Cycle Assessment and CO2 Reduction Potential Estimation](https://doi.org/10.21203/rs.3.rs-3892596/v1) | DAC | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-2519-2382)
-- [OpenAlex](https://openalex.org/A5018157580)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

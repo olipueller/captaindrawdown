@@ -1,7 +1,7 @@
 ---
 title: "Finn Müller-Hansen"
-description: "Finn Müller-Hansen is a Mid-career Cross-cutting CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 71 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Finn Müller-Hansen, Potsdam Institute for Climate Impact Research, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 37 by activity, 435 by citations. 71 publications, h-index 19, 1,979 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/finn-muller-hansen-a5048034/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Potsdam Institute for Climate Impact Research</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 37 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 435 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>19</td></tr>
+  <tr><th>Citations</th><td>1,979</td></tr>
+  <tr><th>Publications</th><td>71</td></tr>
+  <tr><th>Share of publications on CDR</th><td>15.5%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-0425-1996">ORCID</a> · <a href="https://openalex.org/A5048034354">OpenAlex</a></td></tr>
+</table>
 
-**Finn Müller-Hansen**  
-Potsdam Institute for Climate Impact Research · 🇩🇪 DE
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**Cross-cutting CDR**
-
-Cross-cutting CDR
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 19 |
-| Citations | 1,979 |
-| Publications | 71 |
-| CDR Focus | 15.5% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -66,11 +59,6 @@ Cross-cutting CDR
 | 2023 | [Dataset on the adoption of historical technologies informs the scale-up of emerging carbon dioxide removal measures](https://doi.org/10.1038/s43247-023-01056-1) | Cross-cutting CDR | 41 |
 | 2021 | [Climate change mitigation easier than suggested by models 1](https://openalex.org/W4211106757) | Cross-cutting CDR | 6 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-0425-1996)
-- [OpenAlex](https://openalex.org/A5048034354)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

@@ -1,7 +1,7 @@
 ---
 title: "Shuai Deng"
-description: "Shuai Deng is an Eminent DAC researcher at Tianjin University in CN. With 353 publications and an h-index of 53, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Shuai Deng, Tianjin University, China. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 31 by activity, 229 by citations. 353 publications, h-index 53, 10,243 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/shuai-deng-a5068203/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Tianjin University</td></tr>
+  <tr><th>Country</th><td>China</td></tr>
+  <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>rank 31 <a href="/data/researchers/dac/">by activity</a>, rank 229 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>53</td></tr>
+  <tr><th>Citations</th><td>10,243</td></tr>
+  <tr><th>Publications</th><td>353</td></tr>
+  <tr><th>Share of publications on CDR</th><td>2.8%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-2365-1944">ORCID</a> · <a href="https://openalex.org/A5068203387">OpenAlex</a></td></tr>
+</table>
 
-**Shuai Deng**  
-Tianjin University · 🇨🇳 CN
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 53 |
-| Citations | 10,243 |
-| Publications | 353 |
-| CDR Focus | 2.8% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -65,11 +58,6 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | 2022 | [A Gravitational Energy Storage Mechanism with Carbon Capture Function](https://doi.org/10.1109/irce55557.2022.9962979) | Cross-cutting CDR | 1 |
 | 2021 | [Carbon dioxide capture](https://doi.org/10.1016/bs.ache.2021.10.005) | Cross-cutting CDR | 30 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-2365-1944)
-- [OpenAlex](https://openalex.org/A5068203387)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

@@ -45,7 +45,7 @@ category is CDR-gated more tightly, the census counts several times more -
 a deliberate scope choice, not a miscount. The broader soil-science
 literature is larger still.
 [Yakov Kuzyakov](/cdr-researcher-census/researchers/yakov-kuzyakov-a5062508/)
-in Göttingen and [Axel Don](/cdr-researcher-census/researchers/axel-don-a5040614/)
+in Göttingen and Axel Don
 at the Thünen Institute anchor the measurement side of this work.
 
 ## Why the industry is so small

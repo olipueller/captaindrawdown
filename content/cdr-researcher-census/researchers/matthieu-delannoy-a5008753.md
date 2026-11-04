@@ -1,7 +1,7 @@
 ---
 title: "Matthieu Delannoy"
-description: "Matthieu Delannoy is a Mid-career Biochar researcher at Université de Lorraine in FR. With 92 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Matthieu Delannoy, Université de Lorraine, France. 92 publications, h-index 13, 517 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/matthieu-delannoy-a5008753/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,20 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Université de Lorraine</td></tr>
+  <tr><th>Country</th><td>France</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>13</td></tr>
+  <tr><th>Citations</th><td>517</td></tr>
+  <tr><th>Publications</th><td>92</td></tr>
+  <tr><th>Share of publications on CDR</th><td>8.7%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-9699-6513">ORCID</a> · <a href="https://openalex.org/A5008753917">OpenAlex</a></td></tr>
+</table>
 
-**Matthieu Delannoy**  
-Université de Lorraine · 🇫🇷 FR
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 13 |
-| Citations | 517 |
-| Publications | 92 |
-| CDR Focus | 8.7% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -63,11 +55,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2021 | [PIEGEAge des Composés Halogénés Lipophiles Organiques Rémanents (PIEGEACHLOR)](https://hal.inrae.fr/hal-03356049) | Biochar | 0 |
 | 2021 | [Development of a chlordecone sequestration strategy on West Indian soils amended with biochars or activated carbons derived from Sargasso, an invasive alga](https://hal.univ-lorraine.fr/hal-03956235) | Biochar | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-9699-6513)
-- [OpenAlex](https://openalex.org/A5008753917)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

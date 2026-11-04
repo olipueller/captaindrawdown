@@ -1,7 +1,7 @@
 ---
 title: "Ondřej Mašek"
-description: "Ondřej Mašek is an Eminent Biochar researcher at University of Edinburgh in GB. With 260 publications and an h-index of 65, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Ondřej Mašek, University of Edinburgh, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 3 by activity, 12 by citations. 260 publications, h-index 65, 14,441 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/ondrej-masek-a5087096/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>University of Edinburgh</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>rank 3 <a href="/data/researchers/biochar/">by activity</a>, rank 12 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>65</td></tr>
+  <tr><th>Citations</th><td>14,441</td></tr>
+  <tr><th>Publications</th><td>260</td></tr>
+  <tr><th>Share of publications on CDR</th><td>13.1%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-0713-766X">ORCID</a> · <a href="https://openalex.org/A5087096764">OpenAlex</a></td></tr>
+</table>
 
-**Ondřej Mašek**  
-University of Edinburgh · 🇬🇧 GB
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 65 |
-| Citations | 14,441 |
-| Publications | 260 |
-| CDR Focus | 13.1% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -89,11 +82,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2021 | [Opening the black box: Soil microcosm experiments reveal soot black carbon short-term oxidation and influence on soil organic carbon mineralisation](https://doi.org/10.1016/j.scitotenv.2021.149659) | Biochar | 1 |
 | 2021 | [Opening the black box: soil microcosm experiments reveal soot-black carbon short-term oxidation and influence on organic carbon mineralisation](https://doi.org/10.5194/egusphere-egu21-1138) | Biochar | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0003-0713-766X)
-- [OpenAlex](https://openalex.org/A5087096764)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

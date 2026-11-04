@@ -1,7 +1,7 @@
 ---
 title: "Mikita Maslouski"
-description: "Mikita Maslouski is an Early-career Biochar researcher at Universität Hamburg in DE. With 9 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Mikita Maslouski, Universität Hamburg, Germany. 9 publications, h-index 2, 13 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/mikita-maslouski-a5027998/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,20 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Universität Hamburg</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Career stage</th><td>Early-career</td></tr>
+  <tr><th>h-index</th><td>2</td></tr>
+  <tr><th>Citations</th><td>13</td></tr>
+  <tr><th>Publications</th><td>9</td></tr>
+  <tr><th>Share of publications on CDR</th><td>55.6%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0009-0003-2089-4996">ORCID</a> · <a href="https://openalex.org/A5027998855">OpenAlex</a></td></tr>
+</table>
 
-**Mikita Maslouski**  
-Universität Hamburg · 🇩🇪 DE
-
-**Career Stage:** Early-career
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 2 |
-| Citations | 13 |
-| Publications | 9 |
-| CDR Focus | 55.6% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -60,11 +52,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2025 | [Long-term carbon dioxide removal potential from the application of wood biochar and basanite rock powder in sandy soil using the LiDELSv2 process-based modeling approach](https://doi.org/10.1088/1748-9326/ae21f6) | Biochar; Enhanced Weathering | 3 |
 | 2025 | [Soil and vegetation responses to biochar application in terms of its feedback on carbon sequestration under different environmental conditions &amp;#8211; LiDELS model overview](https://doi.org/10.5194/egusphere-egu25-16450) | Biochar | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0009-0003-2089-4996)
-- [OpenAlex](https://openalex.org/A5027998855)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

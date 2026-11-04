@@ -1,7 +1,7 @@
 ---
 title: "Niklas von der Aßen"
-description: "Niklas von der Aßen is a Senior DAC researcher at RWTH Aachen University in DE. With 115 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Niklas von der Aßen, RWTH Aachen University, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 8 by activity, 202 by citations. 115 publications, h-index 21, 2,579 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/niklas-von-der-aen-a5054263/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>RWTH Aachen University</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>rank 8 <a href="/data/researchers/dac/">by activity</a>, rank 202 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>21</td></tr>
+  <tr><th>Citations</th><td>2,579</td></tr>
+  <tr><th>Publications</th><td>115</td></tr>
+  <tr><th>Share of publications on CDR</th><td>9.6%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-8855-9420">ORCID</a> · <a href="https://openalex.org/A5054263137">OpenAlex</a></td></tr>
+</table>
 
-**Niklas von der Aßen**  
-RWTH Aachen University · 🇩🇪 DE
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 21 |
-| Citations | 2,579 |
-| Publications | 115 |
-| CDR Focus | 9.6% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -67,11 +60,6 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | 2024 | [Identifying Data Gaps and Research Needs in Life Cycle Assessment of Direct Air Carbon Capture and Storage](https://doi.org/10.2139/ssrn.5042798) | DAC | 0 |
 | 2022 | [Direct Air Capture – Transdisciplinary Assessment Combining Labs, Environment, Economy, and Society](https://doi.org/10.1002/cite.202255347) | DAC | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-8855-9420)
-- [OpenAlex](https://openalex.org/A5054263137)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

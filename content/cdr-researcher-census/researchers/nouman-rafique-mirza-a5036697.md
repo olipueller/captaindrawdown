@@ -1,7 +1,7 @@
 ---
 title: "Nouman Rafique Mirza"
-description: "Nouman Rafique Mirza is a Mid-career DAC researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Nouman Rafique Mirza, Commonwealth Scientific and Industrial Research Organisation, Australia. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 61 by activity, 1348 by citations. 18 publications, h-index 12, 635 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/nouman-rafique-mirza-a5036697/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Commonwealth Scientific and Industrial Research Organisation</td></tr>
+  <tr><th>Country</th><td>Australia</td></tr>
+  <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>rank 61 <a href="/data/researchers/dac/">by activity</a>, rank 1348 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>12</td></tr>
+  <tr><th>Citations</th><td>635</td></tr>
+  <tr><th>Publications</th><td>18</td></tr>
+  <tr><th>Share of publications on CDR</th><td>16.7%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-0595-8413">ORCID</a> · <a href="https://openalex.org/A5036697628">OpenAlex</a></td></tr>
+</table>
 
-**Nouman Rafique Mirza**  
-Commonwealth Scientific and Industrial Research Organisation · 🇦🇺 AU
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 12 |
-| Citations | 635 |
-| Publications | 18 |
-| CDR Focus | 16.7% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -60,11 +53,6 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | 2025 | [Mineralisation as a carbon sink for DAC: A case-study for solar thermal process integration](https://doi.org/10.1016/j.clet.2025.100974) | DAC; Enhanced Weathering | 1 |
 | 2022 | [Reclaiming water from a direct air capture plant using vacuum membrane distillation – A bench-scale study](https://doi.org/10.1016/j.seppur.2022.122418) | DAC | 10 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0003-0595-8413)
-- [OpenAlex](https://openalex.org/A5036697628)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

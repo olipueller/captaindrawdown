@@ -1,7 +1,7 @@
 ---
 title: "Abdulkarem I. Amhamed"
-description: "Abdulkarem I. Amhamed is a Senior DAC researcher at Hamad bin Khalifa University in QA. With 74 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Abdulkarem I. Amhamed, Hamad bin Khalifa University, Qatar. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 11 by activity, 36 by citations. 74 publications, h-index 24, 2,138 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/abdulkarem-i-amhamed-a5037947/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Hamad bin Khalifa University</td></tr>
+  <tr><th>Country</th><td>Qatar</td></tr>
+  <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>rank 11 <a href="/data/researchers/dac/">by activity</a>, rank 36 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>24</td></tr>
+  <tr><th>Citations</th><td>2,138</td></tr>
+  <tr><th>Publications</th><td>74</td></tr>
+  <tr><th>Share of publications on CDR</th><td>12.2%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-1679-4127">ORCID</a> · <a href="https://openalex.org/A5037947804">OpenAlex</a></td></tr>
+</table>
 
-**Abdulkarem I. Amhamed**  
-Hamad bin Khalifa University ·  QA
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 24 |
-| Citations | 2,138 |
-| Publications | 74 |
-| CDR Focus | 12.2% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -65,11 +58,6 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | 2023 | [Optimizing chemisorption based direct air capture unit efficiency in HVAC systems: A study on the impact of DAC location and adsorption conditions as a response to the climate crisis and indoor air quality](https://doi.org/10.1016/j.enconman.2023.117280) | DAC | 40 |
 | 2022 | [A review on progress made in direct air capture of CO <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e1035" altimg="si1.svg"> <mml:msub> <mml:mrow/> <mml:mrow> <mml:mn>2</mml:mn> </mml:mrow> </mml:msub> </mml:math>](https://doi.org/10.1016/j.eti.2022.102991) | DAC | 280 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0003-1679-4127)
-- [OpenAlex](https://openalex.org/A5037947804)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

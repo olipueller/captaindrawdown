@@ -1,7 +1,7 @@
 ---
 title: "Norman Julius Steinert"
-description: "Norman Julius Steinert is a Mid-career Cross-cutting CDR researcher at CICERO Center for International Climate Research in NO. With 151 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Norman Julius Steinert, CICERO Center for International Climate Research, Norway. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 54 by activity, 144 by citations. 151 publications, h-index 15, 893 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/norman-julius-steinert-a5029222/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>CICERO Center for International Climate Research</td></tr>
+  <tr><th>Country</th><td>Norway</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 54 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 144 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>15</td></tr>
+  <tr><th>Citations</th><td>893</td></tr>
+  <tr><th>Publications</th><td>151</td></tr>
+  <tr><th>Share of publications on CDR</th><td>6.6%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-2154-5857">ORCID</a> · <a href="https://openalex.org/A5029222116">OpenAlex</a></td></tr>
+</table>
 
-**Norman Julius Steinert**  
-CICERO Center for International Climate Research · 🇳🇴 NO
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**Cross-cutting CDR**
-
-Cross-cutting CDR
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 15 |
-| Citations | 893 |
-| Publications | 151 |
-| CDR Focus | 6.6% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -65,11 +58,6 @@ Cross-cutting CDR
 | 2022 | [Emit now, mitigate later? Earth system reversibility under overshoots of different magnitudes and durations](https://doi.org/10.5194/esd-13-1641-2022) | Cross-cutting CDR | 49 |
 | 2022 | [Emit now, mitigate later? Earth system reversibility under overshoots of different magnitude and duration](https://doi.org/10.5194/esd-2022-39) | Cross-cutting CDR | 1 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-2154-5857)
-- [OpenAlex](https://openalex.org/A5029222116)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

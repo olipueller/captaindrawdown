@@ -1,7 +1,7 @@
 ---
 title: "Reza Khalidy"
-description: "Reza Khalidy is a Mid-career Enhanced Weathering researcher at University of Guelph. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Reza Khalidy, University of Guelph. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 76 by activity, 217 by citations. 24 publications, h-index 9, 291 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/reza-khalidy-a5010802/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,20 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>University of Guelph</td></tr>
+  <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>rank 76 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 217 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>9</td></tr>
+  <tr><th>Citations</th><td>291</td></tr>
+  <tr><th>Publications</th><td>24</td></tr>
+  <tr><th>Share of publications on CDR</th><td>58.3%</td></tr>
+  <tr><th>Trajectory</th><td>Declining</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-6769-9691">ORCID</a> · <a href="https://openalex.org/A5010802809">OpenAlex</a></td></tr>
+</table>
 
-**Reza Khalidy**  
-University of Guelph
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**Enhanced Weathering**
-
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 9 |
-| Citations | 291 |
-| Publications | 24 |
-| CDR Focus | 58.3% |
-| Trajectory | Declining |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -67,11 +59,6 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | 2022 | [Long-term field studies in Canada on monitoring pedogenic carbonate formation in agricultural soils via enhanced weathering of wollastonite: status and latest findings](https://doi.org/10.5194/egusphere-egu22-13056) | Enhanced Weathering | 0 |
 | 2021 | [Monitoring Pedogenic Inorganic Carbon Accumulation Due to Weathering of Amended Silicate Minerals in Agricultural Soils.](https://doi.org/10.3791/61996) | Enhanced Weathering | 13 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-6769-9691)
-- [OpenAlex](https://openalex.org/A5010802809)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

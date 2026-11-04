@@ -1,7 +1,7 @@
 ---
 title: "Patrik Postweiler"
-description: "Patrik Postweiler is a Mid-career DAC researcher at RWTH Aachen University in DE. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Patrik Postweiler, RWTH Aachen University, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 13 by activity, 271 by citations. 20 publications, h-index 5, 115 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/patrik-postweiler-a5056523/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>RWTH Aachen University</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>rank 13 <a href="/data/researchers/dac/">by activity</a>, rank 271 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>5</td></tr>
+  <tr><th>Citations</th><td>115</td></tr>
+  <tr><th>Publications</th><td>20</td></tr>
+  <tr><th>Share of publications on CDR</th><td>40.0%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-2889-2023">ORCID</a> · <a href="https://openalex.org/A5056523125">OpenAlex</a></td></tr>
+</table>
 
-**Patrik Postweiler**  
-RWTH Aachen University · 🇩🇪 DE
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 5 |
-| Citations | 115 |
-| Publications | 20 |
-| CDR Focus | 40.0% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -64,11 +57,6 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | 2024 | [Identifying Data Gaps and Research Needs in Life Cycle Assessment of Direct Air Carbon Capture and Storage](https://doi.org/10.2139/ssrn.5042798) | DAC | 0 |
 | 2023 | [Demand-Side Management for Direct Air Carbon Capture and Storage: An Enabler for Low-Cost Negative Emissions?](https://openalex.org/W7167161234) | DAC | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0003-2889-2023)
-- [OpenAlex](https://openalex.org/A5056523125)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

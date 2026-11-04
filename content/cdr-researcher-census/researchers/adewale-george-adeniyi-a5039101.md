@@ -1,7 +1,7 @@
 ---
 title: "Adewale George Adeniyi"
-description: "Adewale George Adeniyi is an Eminent Biochar researcher at University of Ilorin in NG. With 319 publications and an h-index of 53, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Adewale George Adeniyi, University of Ilorin, Nigeria. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 41 by activity, 1052 by citations. 319 publications, h-index 53, 10,095 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/adewale-george-adeniyi-a5039101/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>University of Ilorin</td></tr>
+  <tr><th>Country</th><td>Nigeria</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>rank 41 <a href="/data/researchers/biochar/">by activity</a>, rank 1052 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>53</td></tr>
+  <tr><th>Citations</th><td>10,095</td></tr>
+  <tr><th>Publications</th><td>319</td></tr>
+  <tr><th>Share of publications on CDR</th><td>3.1%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-6615-5361">ORCID</a> · <a href="https://openalex.org/A5039101252">OpenAlex</a></td></tr>
+</table>
 
-**Adewale George Adeniyi**  
-University of Ilorin ·  NG
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 53 |
-| Citations | 10,095 |
-| Publications | 319 |
-| CDR Focus | 3.1% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -65,11 +58,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2023 | [Comparative Study of Biochars from the Retort Co-Carbonization of Corn Cob and Polyethylene Wastes](https://doi.org/10.11113/mjcat.v7n1.168) | Biochar | 3 |
 | 2022 | [Thermal recycling strategy of Coca-Cola PVC label films by its co-carbonization with Terminalia ivorensis leaves](https://doi.org/10.1016/j.clet.2022.100564) | Biochar | 41 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-6615-5361)
-- [OpenAlex](https://openalex.org/A5039101252)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

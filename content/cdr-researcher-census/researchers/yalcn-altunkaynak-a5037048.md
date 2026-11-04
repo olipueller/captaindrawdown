@@ -1,7 +1,7 @@
 ---
 title: "Yalçın Altunkaynak"
-description: "Yalçın Altunkaynak is a Senior Biochar researcher at Batman University in TR. With 34 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Yalçın Altunkaynak, Batman University, Turkey. 34 publications, h-index 13, 1,103 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/yalcn-altunkaynak-a5037048/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,20 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Batman University</td></tr>
+  <tr><th>Country</th><td>Turkey</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>13</td></tr>
+  <tr><th>Citations</th><td>1,103</td></tr>
+  <tr><th>Publications</th><td>34</td></tr>
+  <tr><th>Share of publications on CDR</th><td>11.8%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-2562-9297">ORCID</a> · <a href="https://openalex.org/A5037048338">OpenAlex</a></td></tr>
+</table>
 
-**Yalçın Altunkaynak**  
-Batman University ·  TR
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 13 |
-| Citations | 1,103 |
-| Publications | 34 |
-| CDR Focus | 11.8% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -59,11 +51,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2026 | [Production, characterization, and adsorption modeling of Pb(II) ions using eco-friendly pomegranate peel, biochar, and activated carbon](https://openalex.org/W7166722470) | Biochar | 0 |
 | 2026 | [Valorization of chestnut shell into biochar and activated carbon for Pb(II) adsorption: comparative performance, material characterization, and adsorption mechanisms](https://openalex.org/W7212380551) | Biochar | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0003-2562-9297)
-- [OpenAlex](https://openalex.org/A5037048338)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

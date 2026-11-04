@@ -1,7 +1,7 @@
 ---
 title: "Philipp Porada"
-description: "Philipp Porada is a Senior Enhanced Weathering researcher at Universität Hamburg in DE. With 119 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Philipp Porada, Universität Hamburg, Germany. 119 publications, h-index 21, 2,205 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/philipp-porada-a5008250/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,20 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Universität Hamburg</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>21</td></tr>
+  <tr><th>Citations</th><td>2,205</td></tr>
+  <tr><th>Publications</th><td>119</td></tr>
+  <tr><th>Share of publications on CDR</th><td>10.9%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-5072-0220">ORCID</a> · <a href="https://openalex.org/A5008250208">OpenAlex</a></td></tr>
+</table>
 
-**Philipp Porada**  
-Universität Hamburg · 🇩🇪 DE
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**Enhanced Weathering**
-
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 21 |
-| Citations | 2,205 |
-| Publications | 119 |
-| CDR Focus | 10.9% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -63,11 +55,6 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | 2022 | [Realizing the impacts of early vegetation on global biogeochemical cycles through a process-based model (LYCOm)](https://doi.org/10.5194/egusphere-egu22-8750) | Enhanced Weathering | 0 |
 | 2021 | [Impacts of early vegetation on biogeochemical cycles](https://doi.org/10.5194/egusphere-egu21-12315) | Enhanced Weathering | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-5072-0220)
-- [OpenAlex](https://openalex.org/A5008250208)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

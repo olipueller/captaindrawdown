@@ -1,7 +1,7 @@
 ---
 title: "Jerry Tjiputra"
-description: "Jerry Tjiputra is an Eminent Cross-cutting CDR researcher at NORCE Research AS in NO. With 340 publications and an h-index of 53, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Jerry Tjiputra, NORCE Research AS, Norway. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 97 by activity, 2686 by citations. 340 publications, h-index 53, 13,812 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/jerry-tjiputra-a5063959/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>NORCE Research AS</td></tr>
+  <tr><th>Country</th><td>Norway</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 97 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 2686 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>53</td></tr>
+  <tr><th>Citations</th><td>13,812</td></tr>
+  <tr><th>Publications</th><td>340</td></tr>
+  <tr><th>Share of publications on CDR</th><td>2.6%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-4600-2453">ORCID</a> · <a href="https://openalex.org/A5063959948">OpenAlex</a></td></tr>
+</table>
 
-**Jerry Tjiputra**  
-NORCE Research AS · 🇳🇴 NO
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Cross-cutting CDR**
-
-Cross-cutting CDR
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 53 |
-| Citations | 13,812 |
-| Publications | 340 |
-| CDR Focus | 2.6% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -65,11 +58,6 @@ Cross-cutting CDR
 | 2022 | [The representation of alkalinity and the carbonate pump from CMIP5 to CMIP6 ESMs and implications for the ocean carbon cycle](https://doi.org/10.5194/egusphere-2022-1041) | Ocean CDR | 9 |
 | 2022 | [Carbon cycle feedbacks in an idealized and a scenario simulation of carbon dioxide removal in CMIP6 Earth system models](https://doi.org/10.5194/egusphere-egu22-8269) | Cross-cutting CDR | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-4600-2453)
-- [OpenAlex](https://openalex.org/A5063959948)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

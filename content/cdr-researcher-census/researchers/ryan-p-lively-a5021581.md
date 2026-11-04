@@ -1,7 +1,7 @@
 ---
 title: "Ryan P. Lively"
-description: "Ryan P. Lively is an Eminent DAC researcher at Georgia Institute of Technology in US. With 339 publications and an h-index of 64, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Ryan P. Lively, Georgia Institute of Technology, United States. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 35 by activity, 165 by citations. 339 publications, h-index 64, 19,659 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/ryan-p-lively-a5021581/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Georgia Institute of Technology</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>rank 35 <a href="/data/researchers/dac/">by activity</a>, rank 165 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>64</td></tr>
+  <tr><th>Citations</th><td>19,659</td></tr>
+  <tr><th>Publications</th><td>339</td></tr>
+  <tr><th>Share of publications on CDR</th><td>2.7%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-8039-4008">ORCID</a> · <a href="https://openalex.org/A5021581245">OpenAlex</a></td></tr>
+</table>
 
-**Ryan P. Lively**  
-Georgia Institute of Technology · 🇺🇸 US
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 64 |
-| Citations | 19,659 |
-| Publications | 339 |
-| CDR Focus | 2.7% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -65,11 +58,6 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | 2021 | [Assessing the physical potential capacity of direct air capture with integrated supply of low‐carbon energy sources](https://doi.org/10.1002/ghg.2136) | DAC | 22 |
 | 2021 | [Perspective - the need and prospects for negative emission technologies - direct air capture through the lens of current sorption process development](https://doi.org/10.1007/s11814-021-0957-3) | DAC | 17 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-8039-4008)
-- [OpenAlex](https://openalex.org/A5021581245)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

@@ -1,7 +1,7 @@
 ---
 title: "Alexandre Szklo"
-description: "Alexandre Szklo is an Eminent Cross-cutting CDR researcher at Universidade Federal do Rio de Janeiro in BR. With 296 publications and an h-index of 48, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Alexandre Szklo, Universidade Federal do Rio de Janeiro, Brazil. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 77 by activity, 830 by citations. 296 publications, h-index 48, 7,875 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/alexandre-szklo-a5043645/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Universidade Federal do Rio de Janeiro</td></tr>
+  <tr><th>Country</th><td>Brazil</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Top lists, BECCS</th><td>rank 77 <a href="/data/researchers/beccs/">by activity</a>, rank 830 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>48</td></tr>
+  <tr><th>Citations</th><td>7,875</td></tr>
+  <tr><th>Publications</th><td>296</td></tr>
+  <tr><th>Share of publications on CDR</th><td>4.7%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-7101-1810">ORCID</a> · <a href="https://openalex.org/A5043645649">OpenAlex</a></td></tr>
+</table>
 
-**Alexandre Szklo**  
-Universidade Federal do Rio de Janeiro · 🇧🇷 BR
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Cross-cutting CDR**
-
-Cross-cutting CDR
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 48 |
-| Citations | 7,875 |
-| Publications | 296 |
-| CDR Focus | 4.7% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -69,11 +62,6 @@ Cross-cutting CDR
 | 2021 | [Long-term deep decarbonisation pathways for Ecuador: Insights from an integrated assessment model](https://doi.org/10.1016/j.esr.2021.100637) | Cross-cutting CDR | 50 |
 | 2021 | [Calcium looping post-combustion CO2 capture in sugarcane bagasse fuelled power plants](https://doi.org/10.1016/j.ijggc.2021.103401) | Cross-cutting CDR | 26 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-7101-1810)
-- [OpenAlex](https://openalex.org/A5043645649)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

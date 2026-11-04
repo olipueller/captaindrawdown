@@ -1,7 +1,7 @@
 ---
 title: "Mathilde Fajardy"
-description: "Mathilde Fajardy is a Mid-career BECCS researcher at University of Cambridge in GB. With 39 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Mathilde Fajardy, University of Cambridge, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 94 by activity, 41 by citations. 39 publications, h-index 18, 1,605 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/mathilde-fajardy-a5027334/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>University of Cambridge</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>rank 94 <a href="/data/researchers/beccs/">by activity</a>, rank 41 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>18</td></tr>
+  <tr><th>Citations</th><td>1,605</td></tr>
+  <tr><th>Publications</th><td>39</td></tr>
+  <tr><th>Share of publications on CDR</th><td>17.9%</td></tr>
+  <tr><th>Trajectory</th><td>Exiting</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-9837-8065">ORCID</a> · <a href="https://openalex.org/A5027334693">OpenAlex</a></td></tr>
+</table>
 
-**Mathilde Fajardy**  
-University of Cambridge · 🇬🇧 GB
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**BECCS**
-
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 18 |
-| Citations | 1,605 |
-| Publications | 39 |
-| CDR Focus | 17.9% |
-| Trajectory | Exiting |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -62,11 +55,6 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | 2021 | [Delivering carbon negative electricity, heat and hydrogen with BECCS – Comparing the options](https://doi.org/10.1016/j.ijhydene.2021.02.042) | BECCS | 56 |
 | 2021 | [Life cycle optimization of BECCS supply chains in the European Union](https://doi.org/10.1016/j.apenergy.2021.117252) | BECCS | 46 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-9837-8065)
-- [OpenAlex](https://openalex.org/A5027334693)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

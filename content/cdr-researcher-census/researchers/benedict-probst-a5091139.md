@@ -1,7 +1,7 @@
 ---
 title: "Benedict Probst"
-description: "Benedict Probst is a Mid-career Cross-cutting CDR researcher at University of Cambridge in GB. With 58 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Benedict Probst, University of Cambridge, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 36 by activity, 2107 by citations. 58 publications, h-index 13, 1,030 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/benedict-probst-a5091139/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>University of Cambridge</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 36 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 2107 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>13</td></tr>
+  <tr><th>Citations</th><td>1,030</td></tr>
+  <tr><th>Publications</th><td>58</td></tr>
+  <tr><th>Share of publications on CDR</th><td>15.5%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-1149-8938">ORCID</a> · <a href="https://openalex.org/A5091139976">OpenAlex</a></td></tr>
+</table>
 
-**Benedict Probst**  
-University of Cambridge · 🇬🇧 GB
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**Cross-cutting CDR**
-
-Cross-cutting CDR
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 13 |
-| Citations | 1,030 |
-| Publications | 58 |
-| CDR Focus | 15.5% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -64,11 +57,6 @@ Cross-cutting CDR
 | 2025 | [Ten New Insights in Climate Science 2025 (accepted manuscript)](https://doi.org/10.5281/zenodo.18026053) | Cross-cutting CDR | 0 |
 | 2024 | [Scientific literature on carbon dioxide removal much larger than previously suggested: insights from an AI-enhanced systematic map](https://doi.org/10.21203/rs.3.rs-4109712/v1) | Cross-cutting CDR | 7 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-1149-8938)
-- [OpenAlex](https://openalex.org/A5091139976)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

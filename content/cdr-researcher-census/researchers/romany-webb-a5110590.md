@@ -1,7 +1,7 @@
 ---
 title: "Romany Webb"
-description: "Romany Webb is a Mid-career Ocean CDR researcher at Columbia University in US. With 98 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Romany Webb, Columbia University, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 32 by activity, 150 by citations. 98 publications, h-index 9, 287 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/romany-webb-a5110590/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -22,28 +22,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Columbia University</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>rank 32 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 150 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>9</td></tr>
+  <tr><th>Citations</th><td>287</td></tr>
+  <tr><th>Publications</th><td>98</td></tr>
+  <tr><th>Share of publications on CDR</th><td>16.3%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://openalex.org/A5110590296">OpenAlex</a></td></tr>
+</table>
 
-**Romany Webb**  
-Columbia University · 🇺🇸 US
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**Ocean CDR**
-
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 9 |
-| Citations | 287 |
-| Publications | 98 |
-| CDR Focus | 16.3% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -69,10 +62,6 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | 2021 | [The Legal Framework for Offshore Carbon Capture and Storage in Canada](https://academiccommons.columbia.edu/doi/10.7916/d8-64t5-cv05) | DAC | 5 |
 | 2021 | [Removing Carbon Dioxide Through Ocean Alkalinity Enhancement and Seaweed Cultivation: Legal Challenges and Opportunities](https://academiccommons.columbia.edu/doi/10.7916/d8-n5ty-0y80) | Ocean CDR | 3 |
 
-## External Profiles
-
-- [OpenAlex](https://openalex.org/A5110590296)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

@@ -1,7 +1,7 @@
 ---
 title: "Ronghua Kang"
-description: "Ronghua Kang is a Mid-career Enhanced Weathering researcher at Chinese Academy of Sciences in CN. With 68 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Ronghua Kang, Chinese Academy of Sciences, China. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 92 by activity, 597 by citations. 68 publications, h-index 14, 623 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/ronghua-kang-a5032068/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Chinese Academy of Sciences</td></tr>
+  <tr><th>Country</th><td>China</td></tr>
+  <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>rank 92 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 597 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>14</td></tr>
+  <tr><th>Citations</th><td>623</td></tr>
+  <tr><th>Publications</th><td>68</td></tr>
+  <tr><th>Share of publications on CDR</th><td>11.8%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-2047-445X">ORCID</a> · <a href="https://openalex.org/A5032068801">OpenAlex</a></td></tr>
+</table>
 
-**Ronghua Kang**  
-Chinese Academy of Sciences · 🇨🇳 CN
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**Enhanced Weathering**
-
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 14 |
-| Citations | 623 |
-| Publications | 68 |
-| CDR Focus | 11.8% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -62,11 +55,6 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | 2024 | [Wollastonite powder application increases rice yield and CO2 sequestration in a paddy field in Northeast China](https://doi.org/10.1007/s11104-024-06570-5) | Enhanced Weathering | 15 |
 | 2024 | [CO2 removal with enhanced wollastonite weathering in acidic and calcareous soils](https://doi.org/10.1007/s42832-024-0273-z) | Enhanced Weathering | 9 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0003-2047-445X)
-- [OpenAlex](https://openalex.org/A5032068801)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

@@ -1,7 +1,7 @@
 ---
 title: "Nadine Mengis"
-description: "Nadine Mengis is a Senior Cross-cutting CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 143 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Nadine Mengis, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 18 by activity, 399 by citations; Ocean CDR: rank 35 by activity, 89 by citations. 143 publications, h-index 22, 1,644 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/nadine-mengis-a5079879/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,22 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>GEOMAR Helmholtz Centre for Ocean Research Kiel</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 18 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 399 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>rank 35 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 89 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>22</td></tr>
+  <tr><th>Citations</th><td>1,644</td></tr>
+  <tr><th>Publications</th><td>143</td></tr>
+  <tr><th>Share of publications on CDR</th><td>19.6%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-0312-7069">ORCID</a> · <a href="https://openalex.org/A5079879047">OpenAlex</a></td></tr>
+</table>
 
-**Nadine Mengis**  
-GEOMAR Helmholtz Centre for Ocean Research Kiel · 🇩🇪 DE
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**Cross-cutting CDR**
-
-Cross-cutting CDR
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 22 |
-| Citations | 1,644 |
-| Publications | 143 |
-| CDR Focus | 19.6% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -83,11 +77,6 @@ Cross-cutting CDR
 | 2022 | [Framework for Assessing the Feasibility of Carbon Dioxide Removal Options Within the National Context of Germany](https://doi.org/10.3389/fclim.2022.758628) | Cross-cutting CDR | 37 |
 | 2021 | [Navigating Potential Hype and Opportunity in Governing Marine Carbon Removal](https://doi.org/10.3389/fclim.2021.664456) | Ocean CDR | 66 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0003-0312-7069)
-- [OpenAlex](https://openalex.org/A5079879047)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

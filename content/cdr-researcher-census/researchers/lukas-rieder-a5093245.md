@@ -1,7 +1,7 @@
 ---
 title: "Lukas Rieder"
-description: "Lukas Rieder is a Mid-career Enhanced Weathering researcher at Universität Hamburg in DE. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Lukas Rieder, Universität Hamburg, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 60 by activity, 313 by citations. 13 publications, h-index 5, 63 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/lukas-rieder-a5093245/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Universität Hamburg</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>rank 60 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 313 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>5</td></tr>
+  <tr><th>Citations</th><td>63</td></tr>
+  <tr><th>Publications</th><td>13</td></tr>
+  <tr><th>Share of publications on CDR</th><td>76.9%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0009-0006-3881-7747">ORCID</a> · <a href="https://openalex.org/A5093245162">OpenAlex</a></td></tr>
+</table>
 
-**Lukas Rieder**  
-Universität Hamburg · 🇩🇪 DE
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**Enhanced Weathering**
-
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 5 |
-| Citations | 63 |
-| Publications | 13 |
-| CDR Focus | 76.9% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -65,11 +58,6 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | 2024 | [How earthworms thrive and drive silicate rock weathering in an artificial organo-mineral system](https://doi.org/10.1016/j.apgeochem.2024.106271) | Enhanced Weathering | 8 |
 | 2023 | [Design and Construction of an Experimental Setup to Enhance Mineral Weathering through the Activity of Soil Organisms](https://doi.org/10.3791/65563) | Enhanced Weathering | 10 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0009-0006-3881-7747)
-- [OpenAlex](https://openalex.org/A5093245162)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

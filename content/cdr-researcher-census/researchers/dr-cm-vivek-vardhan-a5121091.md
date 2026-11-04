@@ -1,7 +1,7 @@
 ---
 title: "Dr. C.M. Vivek Vardhan"
-description: "Dr. C.M. Vivek Vardhan is an Early-career Biochar researcher at Department of Atomic Energy in IN. With 10 publications and an h-index of N/A, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Dr. C.M. Vivek Vardhan, Department of Atomic Energy, India. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 64 by activity, 20453 by citations; BECCS: rank 67 by activity, 2927 by citations. 10 publications, h-index n/a, 0 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/dr-cm-vivek-vardhan-a5121091/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -22,28 +22,22 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Department of Atomic Energy</td></tr>
+  <tr><th>Country</th><td>India</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>rank 64 <a href="/data/researchers/biochar/">by activity</a>, rank 20453 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, BECCS</th><td>rank 67 <a href="/data/researchers/beccs/">by activity</a>, rank 2927 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Early-career</td></tr>
+  <tr><th>h-index</th><td>n/a</td></tr>
+  <tr><th>Citations</th><td>0</td></tr>
+  <tr><th>Publications</th><td>10</td></tr>
+  <tr><th>Share of publications on CDR</th><td>70.0%</td></tr>
+  <tr><th>Trajectory</th><td>Unknown</td></tr>
+  <tr><th>Profiles</th><td><a href="https://openalex.org/A5121091287">OpenAlex</a></td></tr>
+</table>
 
-**Dr. C.M. Vivek Vardhan**  
-Department of Atomic Energy · 🇮🇳 IN
-
-**Career Stage:** Early-career
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | N/A |
-| Citations | 0 |
-| Publications | 10 |
-| CDR Focus | 70.0% |
-| Trajectory | Unknown |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -60,10 +54,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2026 | [Digital MRV for carbon credits: integrating AI, satellites, IoT and blockchain for reliable climate claims](https://openalex.org/W7172010364) | Cross-cutting CDR | 0 |
 | 2026 | [Biochar for climate, circularity and carbon markets: technologies, integrity, deployment gaps and pathways to scale](https://openalex.org/W7172031364) | Biochar | 0 |
 
-## External Profiles
-
-- [OpenAlex](https://openalex.org/A5121091287)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

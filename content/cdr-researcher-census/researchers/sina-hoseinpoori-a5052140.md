@@ -1,7 +1,7 @@
 ---
 title: "Sina Hoseinpoori"
-description: "Sina Hoseinpoori is a Mid-career DAC researcher at Chalmers University of Technology in SE. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Sina Hoseinpoori, Chalmers University of Technology, Sweden. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 42 by activity, 1556 by citations. 13 publications, h-index 5, 229 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/sina-hoseinpoori-a5052140/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Chalmers University of Technology</td></tr>
+  <tr><th>Country</th><td>Sweden</td></tr>
+  <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>rank 42 <a href="/data/researchers/dac/">by activity</a>, rank 1556 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>5</td></tr>
+  <tr><th>Citations</th><td>229</td></tr>
+  <tr><th>Publications</th><td>13</td></tr>
+  <tr><th>Share of publications on CDR</th><td>38.5%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-7894-2546">ORCID</a> · <a href="https://openalex.org/A5052140923">OpenAlex</a></td></tr>
+</table>
 
-**Sina Hoseinpoori**  
-Chalmers University of Technology · 🇸🇪 SE
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 5 |
-| Citations | 229 |
-| Publications | 13 |
-| CDR Focus | 38.5% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -61,11 +54,6 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | 2025 | [Exploring Alternative Opportunities for Direct Air Capture Technologies](https://openalex.org/W7205560085) | DAC | 0 |
 | 2023 | [A comparative exergy-based assessment of direct air capture technologies](https://doi.org/10.1007/s11027-023-10076-3) | DAC | 10 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-7894-2546)
-- [OpenAlex](https://openalex.org/A5052140923)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

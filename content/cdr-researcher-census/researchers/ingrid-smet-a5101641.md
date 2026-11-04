@@ -1,7 +1,7 @@
 ---
 title: "Ingrid Smet"
-description: "Ingrid Smet is a Senior Enhanced Weathering researcher at Carbon Drawdown Initiative in BE. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Ingrid Smet, Carbon Drawdown Initiative, Belgium. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 63 by activity, 1837 by citations. 28 publications, h-index 10, 554 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/ingrid-smet-a5101641/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Carbon Drawdown Initiative</td></tr>
+  <tr><th>Country</th><td>Belgium</td></tr>
+  <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>rank 63 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 1837 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>10</td></tr>
+  <tr><th>Citations</th><td>554</td></tr>
+  <tr><th>Publications</th><td>28</td></tr>
+  <tr><th>Share of publications on CDR</th><td>25.0%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-4783-4232">ORCID</a> · <a href="https://openalex.org/A5101641069">OpenAlex</a></td></tr>
+</table>
 
-**Ingrid Smet**  
-Carbon Drawdown Initiative · 🇧🇪 BE
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**Enhanced Weathering**
-
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 10 |
-| Citations | 554 |
-| Publications | 28 |
-| CDR Focus | 25.0% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -63,11 +56,6 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | 2025 | [Soil processes govern alkalinity and cation retention in enhanced weathering for carbon dioxide removal](https://doi.org/10.5194/egusphere-2025-5402) | Enhanced Weathering | 2 |
 | 2023 | [Monitoring CO2 Concentrations in Soil Gas: A Novel MRV Approach for Cropland-Based ERW?](http://dx.doi.org/10.31223/x5267r) | Enhanced Weathering | 3 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0003-4783-4232)
-- [OpenAlex](https://openalex.org/A5101641069)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

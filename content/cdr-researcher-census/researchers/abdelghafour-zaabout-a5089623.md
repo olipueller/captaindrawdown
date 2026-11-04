@@ -1,7 +1,7 @@
 ---
 title: "Abdelghafour Zaabout"
-description: "Abdelghafour Zaabout is a Senior DAC researcher at Université Mohammed VI Polytechnique in MA. With 105 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Abdelghafour Zaabout, Université Mohammed VI Polytechnique, MA. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 40 by activity, 180 by citations. 105 publications, h-index 23, 1,878 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/abdelghafour-zaabout-a5089623/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Université Mohammed VI Polytechnique</td></tr>
+  <tr><th>Country</th><td>MA</td></tr>
+  <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>rank 40 <a href="/data/researchers/dac/">by activity</a>, rank 180 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>23</td></tr>
+  <tr><th>Citations</th><td>1,878</td></tr>
+  <tr><th>Publications</th><td>105</td></tr>
+  <tr><th>Share of publications on CDR</th><td>9.5%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-7468-8050">ORCID</a> · <a href="https://openalex.org/A5089623956">OpenAlex</a></td></tr>
+</table>
 
-**Abdelghafour Zaabout**  
-Université Mohammed VI Polytechnique ·  MA
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 23 |
-| Citations | 1,878 |
-| Publications | 105 |
-| CDR Focus | 9.5% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -65,11 +58,6 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | 2024 | [Comparative review of Direct air capture technologies: From technical, commercial, economic, and environmental aspects](https://doi.org/10.1016/j.cej.2024.149411) | DAC | 117 |
 | 2022 | [Carbon-negative hydrogen from biomass using gas switching integrated gasification: Techno-economic assessment](https://doi.org/10.1016/j.enconman.2022.116248) | BECCS | 31 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-7468-8050)
-- [OpenAlex](https://openalex.org/A5089623956)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

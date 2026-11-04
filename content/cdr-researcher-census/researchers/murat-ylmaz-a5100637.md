@@ -1,7 +1,7 @@
 ---
 title: "Murat Yılmaz"
-description: "Murat Yılmaz is an Eminent Biochar researcher at Osmaniye Korkut Ata University in TR. With 140 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Murat Yılmaz, Osmaniye Korkut Ata University, Turkey. 140 publications, h-index 41, 3,691 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/murat-ylmaz-a5100637/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,20 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Osmaniye Korkut Ata University</td></tr>
+  <tr><th>Country</th><td>Turkey</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>41</td></tr>
+  <tr><th>Citations</th><td>3,691</td></tr>
+  <tr><th>Publications</th><td>140</td></tr>
+  <tr><th>Share of publications on CDR</th><td>6.4%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-6465-6960">ORCID</a> · <a href="https://openalex.org/A5100637237">OpenAlex</a></td></tr>
+</table>
 
-**Murat Yılmaz**  
-Osmaniye Korkut Ata University ·  TR
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 41 |
-| Citations | 3,691 |
-| Publications | 140 |
-| CDR Focus | 6.4% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -64,11 +56,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2022 | [Synthesis of high surface area mesoporous ZnCl2–activated cocoa (Theobroma cacao L) leaves biochar derived via pyrolysis for crystal violet dye removal](https://doi.org/10.1016/j.heliyon.2022.e10873) | Biochar | 96 |
 | 2022 | [Synthesis of High Surface Area Mesoporous ZnCl2–Activated Cocoa (Theobroma Cacao L) Leaves Biochar Derived Via Pyrolysis for Crystal Violet Dye Removal](https://doi.org/10.2139/ssrn.4134237) | Biochar | 4 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-6465-6960)
-- [OpenAlex](https://openalex.org/A5100637237)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

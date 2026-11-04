@@ -1,7 +1,7 @@
 ---
 title: "Joscha N. Becker"
-description: "Joscha N. Becker is a Mid-career Biochar researcher at Universität Hamburg in DE. With 77 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Joscha N. Becker, Universität Hamburg, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 61 by activity, 9005 by citations. 77 publications, h-index 17, 1,442 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/joscha-n-becker-a5012439/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Universität Hamburg</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>rank 61 <a href="/data/researchers/biochar/">by activity</a>, rank 9005 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>17</td></tr>
+  <tr><th>Citations</th><td>1,442</td></tr>
+  <tr><th>Publications</th><td>77</td></tr>
+  <tr><th>Share of publications on CDR</th><td>13.0%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-3210-3632">ORCID</a> · <a href="https://openalex.org/A5012439183">OpenAlex</a></td></tr>
+</table>
 
-**Joscha N. Becker**  
-Universität Hamburg · 🇩🇪 DE
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 17 |
-| Citations | 1,442 |
-| Publications | 77 |
-| CDR Focus | 13.0% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -62,11 +55,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2025 | [Impact of combined application of biochar and basanite powder on soil-borne greenhouse gas emissions and nitrate leaching](https://doi.org/10.5194/egusphere-egu25-14808) | Biochar; Enhanced Weathering | 0 |
 | 2025 | [Influence of co-applied biochar and enhanced basanite weathering on soil enzyme kinetics in an agricultural soil](https://doi.org/10.5194/egusphere-egu25-18855) | Biochar; Enhanced Weathering | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-3210-3632)
-- [OpenAlex](https://openalex.org/A5012439183)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

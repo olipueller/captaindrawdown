@@ -1,7 +1,7 @@
 ---
 title: "Kadambot H. M. Siddique"
-description: "Kadambot H. M. Siddique is an Eminent Biochar researcher at The University of Western Australia in AU. With 1378 publications and an h-index of 131, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Kadambot H. M. Siddique, The University of Western Australia, Australia. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 70 by activity, 823 by citations. 1378 publications, h-index 131, 68,680 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/kadambot-h-m-siddique-a5082109/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>The University of Western Australia</td></tr>
+  <tr><th>Country</th><td>Australia</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>rank 70 <a href="/data/researchers/biochar/">by activity</a>, rank 823 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>131</td></tr>
+  <tr><th>Citations</th><td>68,680</td></tr>
+  <tr><th>Publications</th><td>1378</td></tr>
+  <tr><th>Share of publications on CDR</th><td>2.2%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-6097-4235">ORCID</a> · <a href="https://openalex.org/A5082109205">OpenAlex</a></td></tr>
+</table>
 
-**Kadambot H. M. Siddique**  
-The University of Western Australia · 🇦🇺 AU
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 131 |
-| Citations | 68,680 |
-| Publications | 1378 |
-| CDR Focus | 2.2% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -63,11 +56,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2023 | [The response of crop yield, carbon sequestration, and global warming potential to straw and biochar applications: A meta-analysis](https://doi.org/10.1016/j.scitotenv.2023.167884) | Biochar | 37 |
 | 2023 | [Enhancing carbon sequestration and greenhouse gas mitigation in semiarid farmland: The promising role of biochar application with biodegradable film mulching](https://doi.org/10.1016/j.jia.2023.12.011) | Biochar | 9 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-6097-4235)
-- [OpenAlex](https://openalex.org/A5082109205)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

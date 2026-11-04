@@ -1,7 +1,7 @@
 ---
 title: "Alberto Abad"
-description: "Alberto Abad is an Eminent BECCS researcher at Instituto de Carboquímica in ES. With 283 publications and an h-index of 75, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Alberto Abad, Instituto de Carboquímica, Spain. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 35 by activity, 314 by citations. 283 publications, h-index 75, 21,738 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/alberto-abad-a5100666/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Instituto de Carboquímica</td></tr>
+  <tr><th>Country</th><td>Spain</td></tr>
+  <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>rank 35 <a href="/data/researchers/beccs/">by activity</a>, rank 314 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>75</td></tr>
+  <tr><th>Citations</th><td>21,738</td></tr>
+  <tr><th>Publications</th><td>283</td></tr>
+  <tr><th>Share of publications on CDR</th><td>3.2%</td></tr>
+  <tr><th>Trajectory</th><td>Exiting</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-4995-3473">ORCID</a> · <a href="https://openalex.org/A5100666655">OpenAlex</a></td></tr>
+</table>
 
-**Alberto Abad**  
-Instituto de Carboquímica · 🇪🇸 ES
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**BECCS**
-
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 75 |
-| Citations | 21,738 |
-| Publications | 283 |
-| CDR Focus | 3.2% |
-| Trajectory | Exiting |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -64,11 +57,6 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | 2022 | [Pressurised Chemical Looping Combustion (PCLC): Air Reactor design](https://doi.org/10.1088/1742-6596/2385/1/012127) | BECCS | 2 |
 | 2021 | [Behavior of a manganese-iron mixed oxide doped with titanium in reducing the oxygen demand for CLC of biomass](https://doi.org/10.1016/j.fuel.2021.120381) | BECCS | 18 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-4995-3473)
-- [OpenAlex](https://openalex.org/A5100666655)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

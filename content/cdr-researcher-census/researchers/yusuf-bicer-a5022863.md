@@ -1,7 +1,7 @@
 ---
 title: "Yusuf Biçer"
-description: "Yusuf Biçer is an Eminent DAC researcher at Hamad bin Khalifa University in QA. With 306 publications and an h-index of 51, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Yusuf Biçer, Hamad bin Khalifa University, Qatar. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 29 by activity, 179 by citations. 306 publications, h-index 51, 9,120 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/yusuf-bicer-a5022863/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Hamad bin Khalifa University</td></tr>
+  <tr><th>Country</th><td>Qatar</td></tr>
+  <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>rank 29 <a href="/data/researchers/dac/">by activity</a>, rank 179 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>51</td></tr>
+  <tr><th>Citations</th><td>9,120</td></tr>
+  <tr><th>Publications</th><td>306</td></tr>
+  <tr><th>Share of publications on CDR</th><td>1.6%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-4753-7764">ORCID</a> · <a href="https://openalex.org/A5022863989">OpenAlex</a></td></tr>
+</table>
 
-**Yusuf Biçer**  
-Hamad bin Khalifa University ·  QA
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 51 |
-| Citations | 9,120 |
-| Publications | 306 |
-| CDR Focus | 1.6% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -62,11 +55,6 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | 2025 | [Integrating Direct Air Capture and HVAC Systems: An Economic Perspective on Cost Savings](https://doi.org/10.69997/sct.150794) | DAC | 2 |
 | 2023 | [Emerging trends in direct air capture of CO<sub>2</sub>: a review of technology options targeting net-zero emissions](https://doi.org/10.1039/d2ra07940b) | DAC | 112 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0003-4753-7764)
-- [OpenAlex](https://openalex.org/A5022863989)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

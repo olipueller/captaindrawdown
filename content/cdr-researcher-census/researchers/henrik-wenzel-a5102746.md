@@ -1,7 +1,7 @@
 ---
 title: "Henrik Wenzel"
-description: "Henrik Wenzel is an Early-career DAC researcher at RWTH Aachen University in DE. With 16 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Henrik Wenzel, RWTH Aachen University, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 4 by activity, 659 by citations. 16 publications, h-index 2, 36 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/henrik-wenzel-a5102746/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>RWTH Aachen University</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>rank 4 <a href="/data/researchers/dac/">by activity</a>, rank 659 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Early-career</td></tr>
+  <tr><th>h-index</th><td>2</td></tr>
+  <tr><th>Citations</th><td>36</td></tr>
+  <tr><th>Publications</th><td>16</td></tr>
+  <tr><th>Share of publications on CDR</th><td>75.0%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-8203-4930">ORCID</a> · <a href="https://openalex.org/A5102746148">OpenAlex</a></td></tr>
+</table>
 
-**Henrik Wenzel**  
-RWTH Aachen University · 🇩🇪 DE
-
-**Career Stage:** Early-career
-
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 2 |
-| Citations | 36 |
-| Publications | 16 |
-| CDR Focus | 75.0% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -66,11 +59,6 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | 2025 | [Direct air capture enables sustainable hydrocarbon production in water-scarce regions](https://doi.org/10.21203/rs.3.rs-8161590/v1) | DAC | 0 |
 | 2025 | [Direct Air Capture and Storage](https://juser.fz-juelich.de/record/1052647) | DAC | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-8203-4930)
-- [OpenAlex](https://openalex.org/A5102746148)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

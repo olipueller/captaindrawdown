@@ -1,7 +1,7 @@
 ---
 title: "Ram L. Ray"
-description: "Ram L. Ray is a Senior Biochar researcher at Prairie View A&M University in US. With 212 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Ram L. Ray, Prairie View A&M University, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 56 by activity, 1156 by citations. 212 publications, h-index 31, 5,456 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/ram-l-ray-a5085883/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Prairie View A&M University</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>rank 56 <a href="/data/researchers/biochar/">by activity</a>, rank 1156 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>31</td></tr>
+  <tr><th>Citations</th><td>5,456</td></tr>
+  <tr><th>Publications</th><td>212</td></tr>
+  <tr><th>Share of publications on CDR</th><td>7.5%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-7833-9253">ORCID</a> · <a href="https://openalex.org/A5085883771">OpenAlex</a></td></tr>
+</table>
 
-**Ram L. Ray**  
-Prairie View A&M University · 🇺🇸 US
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 31 |
-| Citations | 5,456 |
-| Publications | 212 |
-| CDR Focus | 7.5% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -63,11 +56,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2025 | [Black soldier fly hermetia illucens applications in circular economy and agricultural sustainability: a review](https://doi.org/10.1007/s43621-025-02250-1) | Biochar | 7 |
 | 2024 | [Algae: A cutting-edge solution for enhancing soil health and accelerating carbon sequestration – A review](https://doi.org/10.1016/j.eti.2024.103980) | Biochar | 61 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-7833-9253)
-- [OpenAlex](https://openalex.org/A5085883771)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

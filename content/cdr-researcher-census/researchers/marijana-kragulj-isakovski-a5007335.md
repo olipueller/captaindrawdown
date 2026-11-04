@@ -1,7 +1,7 @@
 ---
 title: "Marijana Kragulj Isakovski"
-description: "Marijana Kragulj Isakovski is a Mid-career Biochar researcher at University of Novi Sad in RS. With 84 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Marijana Kragulj Isakovski, University of Novi Sad, Serbia. 84 publications, h-index 17, 969 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/marijana-kragulj-isakovski-a5007335/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,20 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>University of Novi Sad</td></tr>
+  <tr><th>Country</th><td>Serbia</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>17</td></tr>
+  <tr><th>Citations</th><td>969</td></tr>
+  <tr><th>Publications</th><td>84</td></tr>
+  <tr><th>Share of publications on CDR</th><td>7.1%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-6880-6735">ORCID</a> · <a href="https://openalex.org/A5007335652">OpenAlex</a></td></tr>
+</table>
 
-**Marijana Kragulj Isakovski**  
-University of Novi Sad ·  RS
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 17 |
-| Citations | 969 |
-| Publications | 84 |
-| CDR Focus | 7.1% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -61,11 +53,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2025 | [BIOCHAR AS A SORBENT FOR WATER REMEDIATION: SORPTION OF VINYL CHLORIDE IN GROUNDWATER](https://doi.org/10.5593/sgem2025v/3.2/s11.07) | Biochar | 0 |
 | 2023 | [The efficiency of the hard wood origin biochar addition on the PAHs bioavailability and stability in sediment](https://doi.org/10.1016/j.hazadv.2023.100276) | Biochar | 15 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-6880-6735)
-- [OpenAlex](https://openalex.org/A5007335652)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

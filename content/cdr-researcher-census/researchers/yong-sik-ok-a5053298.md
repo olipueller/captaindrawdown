@@ -1,7 +1,7 @@
 ---
 title: "Yong Sik Ok"
-description: "Yong Sik Ok is an Eminent Biochar researcher at Korea University in KR. With 1134 publications and an h-index of 185, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Yong Sik Ok, Korea University, South Korea. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 34 by activity, 9 by citations. 1134 publications, h-index 185, 125,473 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/yong-sik-ok-a5053298/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Korea University</td></tr>
+  <tr><th>Country</th><td>South Korea</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>rank 34 <a href="/data/researchers/biochar/">by activity</a>, rank 9 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>185</td></tr>
+  <tr><th>Citations</th><td>125,473</td></tr>
+  <tr><th>Publications</th><td>1134</td></tr>
+  <tr><th>Share of publications on CDR</th><td>1.5%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-3401-0912">ORCID</a> · <a href="https://openalex.org/A5053298437">OpenAlex</a></td></tr>
+</table>
 
-**Yong Sik Ok**  
-Korea University · 🇰🇷 KR
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 185 |
-| Citations | 125,473 |
-| Publications | 1134 |
-| CDR Focus | 1.5% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -71,11 +64,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2021 | [Machine learning exploration of the direct and indirect roles of Fe impregnation on Cr(VI) removal by engineered biochar](https://doi.org/10.1016/j.cej.2021.131967) | Biochar | 100 |
 | 2021 | [Stabilization of dissolvable biochar by soil minerals: Release reduction and organo-mineral complexes formation](https://doi.org/10.1016/j.jhazmat.2021.125213) | Biochar | 84 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0003-3401-0912)
-- [OpenAlex](https://openalex.org/A5053298437)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

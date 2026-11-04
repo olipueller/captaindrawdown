@@ -1,7 +1,7 @@
 ---
 title: "Tim Jesper Suhrhoff"
-description: "Tim Jesper Suhrhoff is a Mid-career Enhanced Weathering researcher at Yale University in US. With 66 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Tim Jesper Suhrhoff, Yale University, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 12 by activity, 70 by citations. 66 publications, h-index 12, 914 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/tim-jesper-suhrhoff-a5081686/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Yale University</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>rank 12 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 70 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>12</td></tr>
+  <tr><th>Citations</th><td>914</td></tr>
+  <tr><th>Publications</th><td>66</td></tr>
+  <tr><th>Share of publications on CDR</th><td>39.4%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-7934-7159">ORCID</a> · <a href="https://openalex.org/A5081686744">OpenAlex</a></td></tr>
+</table>
 
-**Tim Jesper Suhrhoff**  
-Yale University · 🇺🇸 US
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**Enhanced Weathering**
-
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 12 |
-| Citations | 914 |
-| Publications | 66 |
-| CDR Focus | 39.4% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -79,11 +72,6 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | 2024 | [A cradle-to-grave perspective on monitoring, reporting, and verifying carbon dioxide removal through enhanced weathering](https://doi.org/10.46427/gold2024.23151) | Enhanced Weathering | 0 |
 | 2022 | [Phytoprevention of Heavy Metal Contamination From Terrestrial Enhanced Weathering: Can Plants Save the Day?](https://doi.org/10.3389/fclim.2021.820204) | Enhanced Weathering | 20 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-7934-7159)
-- [OpenAlex](https://openalex.org/A5081686744)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

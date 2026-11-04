@@ -1,7 +1,7 @@
 ---
 title: "Fabrice Pernet"
-description: "Fabrice Pernet is an Eminent Ocean CDR researcher at Ifremer Centre de Bretagne in FR. With 160 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Fabrice Pernet, Ifremer Centre de Bretagne, France. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 54 by activity, 1814 by citations. 160 publications, h-index 44, 4,754 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/fabrice-pernet-a5076989/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Ifremer Centre de Bretagne</td></tr>
+  <tr><th>Country</th><td>France</td></tr>
+  <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>rank 54 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 1814 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>44</td></tr>
+  <tr><th>Citations</th><td>4,754</td></tr>
+  <tr><th>Publications</th><td>160</td></tr>
+  <tr><th>Share of publications on CDR</th><td>5.0%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-8886-0184">ORCID</a> · <a href="https://openalex.org/A5076989218">OpenAlex</a></td></tr>
+</table>
 
-**Fabrice Pernet**  
-Ifremer Centre de Bretagne · 🇫🇷 FR
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Ocean CDR**
-
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 44 |
-| Citations | 4,754 |
-| Publications | 160 |
-| CDR Focus | 5.0% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -63,11 +56,6 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | 2025 | [The alkalinity generation potential of olivine and oyster shell for laboratory experiments: testing the effects of ocean alkalinity enhancement](https://doi.org/10.1088/2515-7620/adf0cd) | Ocean CDR | 3 |
 | 2025 | [Keeping tabs on ocean alkalinity enhancement: effects of olivine dissolution on the embryonic and larval development of the Pacific oyster Magallana gigas](https://doi.org/10.5194/oos2025-477) | Ocean CDR | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-8886-0184)
-- [OpenAlex](https://openalex.org/A5076989218)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

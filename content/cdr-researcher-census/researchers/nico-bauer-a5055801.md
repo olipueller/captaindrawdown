@@ -1,7 +1,7 @@
 ---
 title: "Nico Bauer"
-description: "Nico Bauer is an Eminent Cross-cutting CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 208 publications and an h-index of 56, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Nico Bauer, Potsdam Institute for Climate Impact Research, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 32 by activity, 33 by citations. 208 publications, h-index 56, 19,531 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/nico-bauer-a5055801/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Potsdam Institute for Climate Impact Research</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 32 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 33 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>56</td></tr>
+  <tr><th>Citations</th><td>19,531</td></tr>
+  <tr><th>Publications</th><td>208</td></tr>
+  <tr><th>Share of publications on CDR</th><td>8.2%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-0211-4162">ORCID</a> · <a href="https://openalex.org/A5055801778">OpenAlex</a></td></tr>
+</table>
 
-**Nico Bauer**  
-Potsdam Institute for Climate Impact Research · 🇩🇪 DE
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Cross-cutting CDR**
-
-Cross-cutting CDR
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 56 |
-| Citations | 19,531 |
-| Publications | 208 |
-| CDR Focus | 8.2% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -76,11 +69,6 @@ Cross-cutting CDR
 | 2021 | [Alternative carbon price trajectories can avoid excessive carbon removal](https://doi.org/10.1038/s41467-021-22211-2) | Cross-cutting CDR | 114 |
 | 2021 | [Alternative carbon price trajectories can avoid excessive carbon removal](https://openalex.org/W7213652163) | Cross-cutting CDR | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-0211-4162)
-- [OpenAlex](https://openalex.org/A5055801778)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

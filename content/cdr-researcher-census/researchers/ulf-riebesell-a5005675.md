@@ -1,7 +1,7 @@
 ---
 title: "Ulf Riebesell"
-description: "Ulf Riebesell is an Eminent Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 874 publications and an h-index of 99, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Ulf Riebesell, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 3 by activity, 5 by citations. 874 publications, h-index 99, 37,962 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/ulf-riebesell-a5005675/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>GEOMAR Helmholtz Centre for Ocean Research Kiel</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>rank 3 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 5 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>99</td></tr>
+  <tr><th>Citations</th><td>37,962</td></tr>
+  <tr><th>Publications</th><td>874</td></tr>
+  <tr><th>Share of publications on CDR</th><td>5.6%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-9442-452X">ORCID</a> · <a href="https://openalex.org/A5005675240">OpenAlex</a></td></tr>
+</table>
 
-**Ulf Riebesell**  
-GEOMAR Helmholtz Centre for Ocean Research Kiel · 🇩🇪 DE
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Ocean CDR**
-
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 99 |
-| Citations | 37,962 |
-| Publications | 874 |
-| CDR Focus | 5.6% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -105,11 +98,6 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | 2021 | [Effect of Intensity and Mode of Artificial Upwelling on Particle Flux and Carbon Export](https://doi.org/10.3389/fmars.2021.742142) | Ocean CDR | 43 |
 | 2021 | [Effect of different rates and modes of artificial upwelling on particle flux and potential POC deep export](https://doi.org/10.5194/egusphere-egu21-6330) | Ocean CDR | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-9442-452X)
-- [OpenAlex](https://openalex.org/A5005675240)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

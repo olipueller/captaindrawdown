@@ -1,7 +1,7 @@
 ---
 title: "Hua Deng"
-description: "Hua Deng is a Senior Biochar researcher at Guangxi Normal University in CN. With 41 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Hua Deng, Guangxi Normal University, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 29 by activity, 1983 by citations. 41 publications, h-index 18, 1,073 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/hua-deng-a5017874/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Guangxi Normal University</td></tr>
+  <tr><th>Country</th><td>China</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>rank 29 <a href="/data/researchers/biochar/">by activity</a>, rank 1983 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>18</td></tr>
+  <tr><th>Citations</th><td>1,073</td></tr>
+  <tr><th>Publications</th><td>41</td></tr>
+  <tr><th>Share of publications on CDR</th><td>26.8%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-6413-0678">ORCID</a> · <a href="https://openalex.org/A5017874185">OpenAlex</a></td></tr>
+</table>
 
-**Hua Deng**  
-Guangxi Normal University · 🇨🇳 CN
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 18 |
-| Citations | 1,073 |
-| Publications | 41 |
-| CDR Focus | 26.8% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -66,11 +59,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2023 | [Effects of bagasse biochar application on soil organic carbon fixation in manganese-contaminated sugarcane fields](https://doi.org/10.1186/s40538-023-00422-7) | Biochar | 13 |
 | 2023 | [Effect of bagasse biochar on soil organic carbon fixation in manganese pollution sugarcane fields](http://dx.doi.org/10.21203/rs.3.rs-2801155/v1) | Biochar | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-6413-0678)
-- [OpenAlex](https://openalex.org/A5017874185)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

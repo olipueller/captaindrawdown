@@ -1,7 +1,7 @@
 ---
 title: "Noah J. Planavsky"
-description: "Noah J. Planavsky is an Eminent Enhanced Weathering researcher at Yale University in US. With 538 publications and an h-index of 85, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Noah J. Planavsky, Yale University, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 1 by activity, 5 by citations. 538 publications, h-index 85, 29,582 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Yale University</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>rank 1 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 5 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>85</td></tr>
+  <tr><th>Citations</th><td>29,582</td></tr>
+  <tr><th>Publications</th><td>538</td></tr>
+  <tr><th>Share of publications on CDR</th><td>13.6%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-5849-8508">ORCID</a> · <a href="https://openalex.org/A5031830595">OpenAlex</a></td></tr>
+</table>
 
-**Noah J. Planavsky**  
-Yale University · 🇺🇸 US
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Enhanced Weathering**
-
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 85 |
-| Citations | 29,582 |
-| Publications | 538 |
-| CDR Focus | 13.6% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -127,11 +120,6 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | 2021 | [INSIGHTS FROM RIVER CHEMISTRY INTO CARBON CAPTURE POTENTIAL THROUGH SURFICIAL ENHANCED ROCK WEATHERING](https://doi.org/10.1130/abs/2021am-370182) | Enhanced Weathering | 0 |
 | 2021 | [EVALUATING THE BIOGEOCHEMICAL EFFECTS OF CARBON SEQUESTRATION THROUGH ENHANCED ROCK WEATHERING OF CRUSHED BASALT ON URBAN AND FORESTED SOILS IN APPLETON AND BAILEYS HARBOR, WI](https://doi.org/10.1130/abs/2021am-370162) | Enhanced Weathering | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-5849-8508)
-- [OpenAlex](https://openalex.org/A5031830595)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

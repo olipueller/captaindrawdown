@@ -1,7 +1,7 @@
 ---
 title: "Shisuo Fan"
-description: "Shisuo Fan is a Senior Biochar researcher at Anhui Agricultural University in CN. With 74 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Shisuo Fan, Anhui Agricultural University, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 52 by activity, 106 by citations. 74 publications, h-index 34, 5,108 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/shisuo-fan-a5022283/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Anhui Agricultural University</td></tr>
+  <tr><th>Country</th><td>China</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>rank 52 <a href="/data/researchers/biochar/">by activity</a>, rank 106 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>34</td></tr>
+  <tr><th>Citations</th><td>5,108</td></tr>
+  <tr><th>Publications</th><td>74</td></tr>
+  <tr><th>Share of publications on CDR</th><td>14.9%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-8368-2665">ORCID</a> · <a href="https://openalex.org/A5022283225">OpenAlex</a></td></tr>
+</table>
 
-**Shisuo Fan**  
-Anhui Agricultural University · 🇨🇳 CN
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 34 |
-| Citations | 5,108 |
-| Publications | 74 |
-| CDR Focus | 14.9% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -66,11 +59,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2021 | [Simultaneous carbonization, activation, and magnetization for producing tea waste biochar and its application in tetracycline removal from the aquatic environment](https://doi.org/10.1016/j.jece.2021.105324) | Biochar | 89 |
 | 2021 | [Enhanced adsorption performance of tetracycline in aqueous solutions by KOH-modified peanut shell-derived biochar](https://doi.org/10.1007/s13399-021-02083-8) | Biochar | 50 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-8368-2665)
-- [OpenAlex](https://openalex.org/A5022283225)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

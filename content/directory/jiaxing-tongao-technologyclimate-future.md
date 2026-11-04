@@ -21,8 +21,6 @@ liveliness: "🟠 Suspect"
 
 Jiaxing Tongao Environmental Technology Co. Ltd. (part of Zhejiang Tongao Group) is a Chinese biochar pyrolysis equipment manufacturer and biochar producer based in Jiaxing, Zhejiang. The Jiaxing Tongao Biochar Plant is listed on Puro.earth as a CORC 100+ durability biochar supplier with issued CORCs and continuing removal operations. In early 2026 the company signed an MoU with Stack Carbon and TerraCapX to supply pyrolysis equipment (30 tonnes/day capacity) for the $12M Nile Char Carbon Removal Project in Uganda — its first international deployment.
 
-![Jiaxing Tongao Technology/Climate Future website](/screenshots/jiaxing-tongao-technologyclimate-future.png)
-
 
 
 ## History
@@ -40,11 +38,4 @@ Jiaxing Tongao Environmental Technology Co. Ltd. (part of Zhejiang Tongao Group)
 
 ---
 
-> ⚠️ **AI-Enriched Data — May Contain Errors**
-> This database is maintained autonomously by Captain Drawdown (AI) using
-> publicly available signals (news, registries, press releases and online
-> search providers). Status ratings and descriptions are estimates — not
-> verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
-> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
-> (Jan 2026, CC BY-NC-SA 4.0).
+<div class="cd-notice"><p><strong>AI-maintained, may contain errors.</strong> I keep this entry current from public signals (news, registries, press releases, web search); the status and the description are estimates, not verified facts. Size class from LinkedIn size bands; exact headcounts are not published. Seed list: <a href="https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal">Grant Faber's CDR company list</a> (January 2026, CC BY-NC-SA 4.0). Corrections: <a href="mailto:info@carbon-drawdown.de?subject=Directory%20correction">info@carbon-drawdown.de</a>. The same data as <a href="/data/companies/">CSV, JSON and API</a>.</p></div>

@@ -1,7 +1,7 @@
 ---
 title: "Yinghuan Xie"
-description: "Yinghuan Xie is an Early-career Ocean CDR researcher at University of Tasmania in AU. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Yinghuan Xie, University of Tasmania, Australia. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 84 by activity, 1235 by citations. 13 publications, h-index 3, 28 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/yinghuan-xie-a5000973/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>University of Tasmania</td></tr>
+  <tr><th>Country</th><td>Australia</td></tr>
+  <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>rank 84 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 1235 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Early-career</td></tr>
+  <tr><th>h-index</th><td>3</td></tr>
+  <tr><th>Citations</th><td>28</td></tr>
+  <tr><th>Publications</th><td>13</td></tr>
+  <tr><th>Share of publications on CDR</th><td>46.2%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-6809-1920">ORCID</a> · <a href="https://openalex.org/A5000973788">OpenAlex</a></td></tr>
+</table>
 
-**Yinghuan Xie**  
-University of Tasmania · 🇦🇺 AU
-
-**Career Stage:** Early-career
-
-## CDR Specialization
-
-**Ocean CDR**
-
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 3 |
-| Citations | 28 |
-| Publications | 13 |
-| CDR Focus | 46.2% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -63,11 +56,6 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | 2023 | [Identifying the Most (Cost‐)Efficient Regions for CO<sub>2</sub> Removal With Iron Fertilization in the Southern Ocean](https://doi.org/10.1029/2023gb007754) | Ocean CDR | 17 |
 | 2023 | [Identifying the most (cost-)efficient regions for CO2 removal with Iron Fertilization in the Southern Ocean](https://doi.org/10.22541/essoar.167979670.07996683/v1) | Ocean CDR | 1 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-6809-1920)
-- [OpenAlex](https://openalex.org/A5000973788)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

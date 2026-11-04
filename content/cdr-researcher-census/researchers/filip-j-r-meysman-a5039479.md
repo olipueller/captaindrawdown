@@ -1,7 +1,7 @@
 ---
 title: "Filip J. R. Meysman"
-description: "Filip J. R. Meysman is an Eminent Enhanced Weathering researcher at University of Antwerp in BE. With 346 publications and an h-index of 61, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Filip J. R. Meysman, University of Antwerp, Belgium. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 27 by activity, 221 by citations; Enhanced Weathering: rank 31 by activity, 196 by citations. 346 publications, h-index 61, 14,028 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/filip-j-r-meysman-a5039479/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,22 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>University of Antwerp</td></tr>
+  <tr><th>Country</th><td>Belgium</td></tr>
+  <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>rank 27 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 221 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>rank 31 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 196 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>61</td></tr>
+  <tr><th>Citations</th><td>14,028</td></tr>
+  <tr><th>Publications</th><td>346</td></tr>
+  <tr><th>Share of publications on CDR</th><td>5.2%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-5334-7655">ORCID</a> · <a href="https://openalex.org/A5039479895">OpenAlex</a></td></tr>
+</table>
 
-**Filip J. R. Meysman**  
-University of Antwerp · 🇧🇪 BE
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Enhanced Weathering**
-
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 61 |
-| Citations | 14,028 |
-| Publications | 346 |
-| CDR Focus | 5.2% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -75,11 +69,6 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | 2023 | [Hawaiian beaches as natural analogues for long-term rates and impacts of Coastal Enhanced Silicate Weathering](https://openalex.org/W4389561572) | Enhanced Weathering | 0 |
 | 2021 | [Craving for gigatons: carbon dioxide removal in coastal environments via enhanced silicate weathering](https://doi.org/10.7185/gold2021.6353) | Enhanced Weathering; Ocean CDR | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-5334-7655)
-- [OpenAlex](https://openalex.org/A5039479895)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

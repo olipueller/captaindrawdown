@@ -1,7 +1,7 @@
 ---
 title: "Jörg Rinklebe"
-description: "Jörg Rinklebe is an Eminent Biochar researcher at University of Wuppertal in DE. With 700 publications and an h-index of 136, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Jörg Rinklebe, University of Wuppertal, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 80 by activity, 23 by citations. 700 publications, h-index 136, 64,973 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/jorg-rinklebe-a5039520/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>University of Wuppertal</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>rank 80 <a href="/data/researchers/biochar/">by activity</a>, rank 23 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>136</td></tr>
+  <tr><th>Citations</th><td>64,973</td></tr>
+  <tr><th>Publications</th><td>700</td></tr>
+  <tr><th>Share of publications on CDR</th><td>2.0%</td></tr>
+  <tr><th>Trajectory</th><td>Exiting</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-7404-1639">ORCID</a> · <a href="https://openalex.org/A5039520570">OpenAlex</a></td></tr>
+</table>
 
-**Jörg Rinklebe**  
-University of Wuppertal · 🇩🇪 DE
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 136 |
-| Citations | 64,973 |
-| Publications | 700 |
-| CDR Focus | 2.0% |
-| Trajectory | Exiting |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -67,11 +60,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2021 | [Biochar composites: Emerging trends, field successes and sustainability implications](https://doi.org/10.1111/sum.12731) | Biochar | 196 |
 | 2021 | [Efficient removal of Cd(II) from aqueous environment by potassium permanganate-modified eucalyptus biochar](https://doi.org/10.1007/s13399-021-02079-4) | Biochar | 38 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-7404-1639)
-- [OpenAlex](https://openalex.org/A5039520570)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

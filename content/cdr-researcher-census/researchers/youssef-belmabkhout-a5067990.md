@@ -1,7 +1,7 @@
 ---
 title: "Youssef Belmabkhout"
-description: "Youssef Belmabkhout is an Eminent DAC researcher at Université Mohammed VI Polytechnique in MA. With 287 publications and an h-index of 77, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Youssef Belmabkhout, Université Mohammed VI Polytechnique, MA. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 66 by activity, 169 by citations. 287 publications, h-index 77, 24,406 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/youssef-belmabkhout-a5067990/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Université Mohammed VI Polytechnique</td></tr>
+  <tr><th>Country</th><td>MA</td></tr>
+  <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>rank 66 <a href="/data/researchers/dac/">by activity</a>, rank 169 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>77</td></tr>
+  <tr><th>Citations</th><td>24,406</td></tr>
+  <tr><th>Publications</th><td>287</td></tr>
+  <tr><th>Share of publications on CDR</th><td>2.1%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-9952-5007">ORCID</a> · <a href="https://openalex.org/A5067990442">OpenAlex</a></td></tr>
+</table>
 
-**Youssef Belmabkhout**  
-Université Mohammed VI Polytechnique ·  MA
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 77 |
-| Citations | 24,406 |
-| Publications | 287 |
-| CDR Focus | 2.1% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -61,11 +54,6 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | 2025 | [Techno-economic assessment of coupling direct air capture with formic acid value chain in buildings under different scenarios](https://doi.org/10.1016/j.enconman.2025.120257) | DAC | 7 |
 | 2024 | [Comparative review of Direct air capture technologies: From technical, commercial, economic, and environmental aspects](https://doi.org/10.1016/j.cej.2024.149411) | DAC | 117 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-9952-5007)
-- [OpenAlex](https://openalex.org/A5067990442)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

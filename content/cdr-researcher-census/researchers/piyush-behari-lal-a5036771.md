@@ -1,7 +1,7 @@
 ---
 title: "Piyush Behari Lal"
-description: "Piyush Behari Lal is a Mid-career BECCS researcher at Kasturba Medical College, Manipal in IN. With 27 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Piyush Behari Lal, Kasturba Medical College, Manipal, India. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 12 by activity, 2678 by citations. 27 publications, h-index 5, 206 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/piyush-behari-lal-a5036771/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Kasturba Medical College, Manipal</td></tr>
+  <tr><th>Country</th><td>India</td></tr>
+  <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>rank 12 <a href="/data/researchers/beccs/">by activity</a>, rank 2678 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>5</td></tr>
+  <tr><th>Citations</th><td>206</td></tr>
+  <tr><th>Publications</th><td>27</td></tr>
+  <tr><th>Share of publications on CDR</th><td>18.5%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-6955-6790">ORCID</a> · <a href="https://openalex.org/A5036771884">OpenAlex</a></td></tr>
+</table>
 
-**Piyush Behari Lal**  
-Kasturba Medical College, Manipal · 🇮🇳 IN
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**BECCS**
-
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 5 |
-| Citations | 206 |
-| Publications | 27 |
-| CDR Focus | 18.5% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -60,11 +53,6 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | 2026 | [Additional file 1 of Recent advances in biomass deconstruction, microbial conversion, artificial intelligence, and carbon capture for sustainable bioenergy](https://openalex.org/W7164544818) | BECCS | 0 |
 | 2026 | [Recent advances in biomass deconstruction, microbial conversion, artificial intelligence, and carbon capture for sustainable bioenergy](https://openalex.org/W7164575193) | BECCS | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-6955-6790)
-- [OpenAlex](https://openalex.org/A5036771884)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

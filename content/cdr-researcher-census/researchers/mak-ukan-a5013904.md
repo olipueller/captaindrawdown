@@ -1,7 +1,7 @@
 ---
 title: "Mak Đukan"
-description: "Mak Đukan is a Mid-career DAC researcher at Forschungszentrum Jülich in DE. With 38 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Mak Đukan, Forschungszentrum Jülich, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 22 by activity, 2890 by citations. 38 publications, h-index 9, 244 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/mak-ukan-a5013904/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Forschungszentrum Jülich</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>rank 22 <a href="/data/researchers/dac/">by activity</a>, rank 2890 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>9</td></tr>
+  <tr><th>Citations</th><td>244</td></tr>
+  <tr><th>Publications</th><td>38</td></tr>
+  <tr><th>Share of publications on CDR</th><td>13.2%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-3107-6414">ORCID</a> · <a href="https://openalex.org/A5013904400">OpenAlex</a></td></tr>
+</table>
 
-**Mak Đukan**  
-Forschungszentrum Jülich · 🇩🇪 DE
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 9 |
-| Citations | 244 |
-| Publications | 38 |
-| CDR Focus | 13.2% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -63,11 +56,6 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | 2026 | [Global strategic deployment of Direct Air Capture technologies](https://openalex.org/W7172383932) | DAC | 0 |
 | 2026 | [Tracking Direct Air Capture Innovation Patent Analysis through LLM-Driven](https://openalex.org/W7220655261) | DAC | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0003-3107-6414)
-- [OpenAlex](https://openalex.org/A5013904400)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

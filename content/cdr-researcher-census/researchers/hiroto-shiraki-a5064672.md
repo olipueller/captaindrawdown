@@ -1,7 +1,7 @@
 ---
 title: "Hiroto Shiraki"
-description: "Hiroto Shiraki is a Mid-career Cross-cutting CDR researcher at Nagoya University in JP. With 54 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Hiroto Shiraki, Nagoya University, Japan. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 89 by activity, 4452 by citations. 54 publications, h-index 15, 763 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/hiroto-shiraki-a5064672/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Nagoya University</td></tr>
+  <tr><th>Country</th><td>Japan</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 89 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 4452 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>15</td></tr>
+  <tr><th>Citations</th><td>763</td></tr>
+  <tr><th>Publications</th><td>54</td></tr>
+  <tr><th>Share of publications on CDR</th><td>14.8%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-7197-7933">ORCID</a> · <a href="https://openalex.org/A5064672144">OpenAlex</a></td></tr>
+</table>
 
-**Hiroto Shiraki**  
-Nagoya University · 🇯🇵 JP
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**Cross-cutting CDR**
-
-Cross-cutting CDR
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 15 |
-| Citations | 763 |
-| Publications | 54 |
-| CDR Focus | 14.8% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -63,11 +56,6 @@ Cross-cutting CDR
 | 2023 | [Alternative, but expensive, energy transition scenario featuring carbon capture and utilization can preserve existing energy demand technologies](https://doi.org/10.1016/j.oneear.2023.06.005) | DAC | 30 |
 | 2022 | [Carbon-dependent net-zero emission energy systems without reliance on fossil fuels and bioenergy](https://doi.org/10.21203/rs.3.rs-2050486/v1) | DAC | 1 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-7197-7933)
-- [OpenAlex](https://openalex.org/A5064672144)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

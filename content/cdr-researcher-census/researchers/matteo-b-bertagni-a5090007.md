@@ -1,7 +1,7 @@
 ---
 title: "Matteo B. Bertagni"
-description: "Matteo B. Bertagni is a Mid-career Enhanced Weathering researcher at Politecnico di Torino in IT. With 70 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Matteo B. Bertagni, Politecnico di Torino, Italy. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 29 by activity, 82 by citations. 70 publications, h-index 13, 771 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/matteo-b-bertagni-a5090007/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Politecnico di Torino</td></tr>
+  <tr><th>Country</th><td>Italy</td></tr>
+  <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>rank 29 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 82 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>13</td></tr>
+  <tr><th>Citations</th><td>771</td></tr>
+  <tr><th>Publications</th><td>70</td></tr>
+  <tr><th>Share of publications on CDR</th><td>20.0%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-5912-4794">ORCID</a> · <a href="https://openalex.org/A5090007153">OpenAlex</a></td></tr>
+</table>
 
-**Matteo B. Bertagni**  
-Politecnico di Torino · 🇮🇹 IT
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**Enhanced Weathering**
-
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 13 |
-| Citations | 771 |
-| Publications | 70 |
-| CDR Focus | 20.0% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -69,11 +62,6 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | 2022 | [Nano- to Global-Scale Uncertainties in Terrestrial Enhanced Weathering](https://doi.org/10.1021/acs.est.2c03163) | Enhanced Weathering | 86 |
 | 2022 | [The Carbon-Capture Efficiency of Natural Water Alkalinization: Implications For Enhanced weathering](https://doi.org/10.1016/j.scitotenv.2022.156524) | Enhanced Weathering; Ocean CDR | 57 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-5912-4794)
-- [OpenAlex](https://openalex.org/A5090007153)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

@@ -1,7 +1,7 @@
 ---
 title: "Rachel Silcox"
-description: "Rachel Silcox is a Mid-career Ocean CDR researcher at University of Michigan in US. With 27 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Rachel Silcox, University of Michigan, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 82 by activity, 2010 by citations. 27 publications, h-index 5, 93 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/rachel-silcox-a5014181/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>University of Michigan</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>rank 82 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 2010 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>5</td></tr>
+  <tr><th>Citations</th><td>93</td></tr>
+  <tr><th>Publications</th><td>27</td></tr>
+  <tr><th>Share of publications on CDR</th><td>33.3%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-9101-2100">ORCID</a> · <a href="https://openalex.org/A5014181867">OpenAlex</a></td></tr>
+</table>
 
-**Rachel Silcox**  
-University of Michigan · 🇺🇸 US
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**Ocean CDR**
-
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 5 |
-| Citations | 93 |
-| Publications | 27 |
-| CDR Focus | 33.3% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -64,11 +57,6 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | 2023 | [Modeling and Performance Projections of a Dual-Purpose CO<sub>2</sub> Capture and Energy Storage Device from Oceanwater](https://doi.org/10.1149/ma2023-02472398mtgabs) | DAC; Ocean CDR | 1 |
 | 2023 | [Demand-Side Flexibility Enables Cost Savings for Oceanic CO&lt;sub&gt;2&lt;/sub&gt; Removal: Performance Predictions of a Reversible pH-Swing Electrochemical Process](http://dx.doi.org/10.2139/ssrn.4530814) | Ocean CDR | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-9101-2100)
-- [OpenAlex](https://openalex.org/A5014181867)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

@@ -1,7 +1,7 @@
 ---
 title: "Vassilis Daioglou"
-description: "Vassilis Daioglou is an Eminent Cross-cutting CDR researcher at Netherlands Environmental Assessment Agency in NL. With 175 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Vassilis Daioglou, Netherlands Environmental Assessment Agency, Netherlands. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 3 by activity, 156 by citations; Cross-cutting CDR: rank 45 by activity, 191 by citations. 175 publications, h-index 47, 10,037 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/vassilis-daioglou-a5020000/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,22 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Netherlands Environmental Assessment Agency</td></tr>
+  <tr><th>Country</th><td>Netherlands</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Top lists, BECCS</th><td>rank 3 <a href="/data/researchers/beccs/">by activity</a>, rank 156 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 45 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 191 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>47</td></tr>
+  <tr><th>Citations</th><td>10,037</td></tr>
+  <tr><th>Publications</th><td>175</td></tr>
+  <tr><th>Share of publications on CDR</th><td>13.1%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-6028-352X">ORCID</a> · <a href="https://openalex.org/A5020000077">OpenAlex</a></td></tr>
+</table>
 
-**Vassilis Daioglou**  
-Netherlands Environmental Assessment Agency · 🇳🇱 NL
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Cross-cutting CDR**
-
-Cross-cutting CDR
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 47 |
-| Citations | 10,037 |
-| Publications | 175 |
-| CDR Focus | 13.1% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -80,11 +74,6 @@ Cross-cutting CDR
 | 2021 | [Integrated assessment of the role of bioenergy within the EU energy transition targets to 2050](https://doi.org/10.1111/gcbb.12908) | BECCS | 34 |
 | 2021 | [Using Decomposition Analysis to Determine the Main Contributing Factors to Carbon Neutrality across Sectors](https://doi.org/10.3390/en15010132) | Cross-cutting CDR | 14 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-6028-352X)
-- [OpenAlex](https://openalex.org/A5020000077)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

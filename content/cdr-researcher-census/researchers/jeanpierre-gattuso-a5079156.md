@@ -1,7 +1,7 @@
 ---
 title: "Jean‐Pierre Gattuso"
-description: "Jean‐Pierre Gattuso is an Eminent Ocean CDR researcher at CNRS in FR. With 689 publications and an h-index of 93, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Jean‐Pierre Gattuso, CNRS, France. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 17 by activity, 4 by citations. 689 publications, h-index 93, 36,080 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/jeanpierre-gattuso-a5079156/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>CNRS</td></tr>
+  <tr><th>Country</th><td>France</td></tr>
+  <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>rank 17 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 4 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>93</td></tr>
+  <tr><th>Citations</th><td>36,080</td></tr>
+  <tr><th>Publications</th><td>689</td></tr>
+  <tr><th>Share of publications on CDR</th><td>2.6%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-4533-4114">ORCID</a> · <a href="https://openalex.org/A5079156035">OpenAlex</a></td></tr>
+</table>
 
-**Jean‐Pierre Gattuso**  
-CNRS · 🇫🇷 FR
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Ocean CDR**
-
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 93 |
-| Citations | 36,080 |
-| Publications | 689 |
-| CDR Focus | 2.6% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -73,11 +66,6 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | 2022 | [Carbon Removal Using Coastal Blue Carbon Ecosystems Is Uncertain and Unreliable, With Questionable Climatic Cost-Effectiveness](https://doi.org/10.3389/fclim.2022.853666) | Ocean CDR | 162 |
 | 2021 | [The Potential for Ocean-Based Climate Action: Negative Emissions Technologies and Beyond](https://doi.org/10.3389/fclim.2020.575716) | Ocean CDR | 141 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-4533-4114)
-- [OpenAlex](https://openalex.org/A5079156035)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

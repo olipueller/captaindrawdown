@@ -1,7 +1,7 @@
 ---
 title: "Balal Yousaf"
-description: "Balal Yousaf is an Eminent Biochar researcher at Silesian University of Technology in PL. With 165 publications and an h-index of 60, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Balal Yousaf, Silesian University of Technology, Poland. 165 publications, h-index 60, 9,719 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/balal-yousaf-a5026803/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,20 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Silesian University of Technology</td></tr>
+  <tr><th>Country</th><td>Poland</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>60</td></tr>
+  <tr><th>Citations</th><td>9,719</td></tr>
+  <tr><th>Publications</th><td>165</td></tr>
+  <tr><th>Share of publications on CDR</th><td>4.8%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-2732-2176">ORCID</a> · <a href="https://openalex.org/A5026803641">OpenAlex</a></td></tr>
+</table>
 
-**Balal Yousaf**  
-Silesian University of Technology ·  PL
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 60 |
-| Citations | 9,719 |
-| Publications | 165 |
-| CDR Focus | 4.8% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -63,11 +55,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2021 | [Synthesis, characteristics and mechanistic insight into the clays and clay minerals-biochar surface interactions for contaminants removal-A review](https://doi.org/10.1016/j.jclepro.2021.127548) | Biochar | 148 |
 | 2021 | [Carbon dioxide activated biochar-clay mineral composite efficiently removes ciprofloxacin from contaminated water - Reveals an incubation study](https://doi.org/10.1016/j.jclepro.2021.130079) | Biochar | 69 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0003-2732-2176)
-- [OpenAlex](https://openalex.org/A5026803641)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

@@ -1,7 +1,7 @@
 ---
 title: "David R. Chadwick"
-description: "David R. Chadwick is an Eminent Biochar researcher at Bangor University in GB. With 497 publications and an h-index of 73, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "David R. Chadwick, Bangor University, United Kingdom. 497 publications, h-index 73, 17,819 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/david-r-chadwick-a5000532/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,20 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Bangor University</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>73</td></tr>
+  <tr><th>Citations</th><td>17,819</td></tr>
+  <tr><th>Publications</th><td>497</td></tr>
+  <tr><th>Share of publications on CDR</th><td>4.0%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-8479-8157">ORCID</a> · <a href="https://openalex.org/A5000532994">OpenAlex</a></td></tr>
+</table>
 
-**David R. Chadwick**  
-Bangor University · 🇬🇧 GB
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 73 |
-| Citations | 17,819 |
-| Publications | 497 |
-| CDR Focus | 4.0% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -62,11 +54,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2023 | [Distinct Mechanisms Govern Sucrose Mineralization and Soil Organic Carbon Priming in Biochar Amended Soils: Evidence from 10-Years Field Studies](http://dx.doi.org/10.2139/ssrn.4455901) | Biochar | 0 |
 | 2022 | [Deep-C storage: Biological, chemical and physical strategies to enhance carbon stocks in agricultural subsoils](https://doi.org/10.1016/j.soilbio.2022.108697) | Biochar | 330 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-8479-8157)
-- [OpenAlex](https://openalex.org/A5000532994)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

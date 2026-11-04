@@ -1,7 +1,7 @@
 ---
 title: "Kati Koponen"
-description: "Kati Koponen is a Mid-career BECCS researcher at VTT Technical Research Centre of Finland in FI. With 52 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Kati Koponen, VTT Technical Research Centre of Finland, Finland. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 22 by activity, 1296 by citations. 52 publications, h-index 14, 711 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/kati-koponen-a5091330/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>VTT Technical Research Centre of Finland</td></tr>
+  <tr><th>Country</th><td>Finland</td></tr>
+  <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>rank 22 <a href="/data/researchers/beccs/">by activity</a>, rank 1296 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>14</td></tr>
+  <tr><th>Citations</th><td>711</td></tr>
+  <tr><th>Publications</th><td>52</td></tr>
+  <tr><th>Share of publications on CDR</th><td>13.5%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-1472-4184">ORCID</a> · <a href="https://openalex.org/A5091330647">OpenAlex</a></td></tr>
+</table>
 
-**Kati Koponen**  
-VTT Technical Research Centre of Finland ·  FI
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**BECCS**
-
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 14 |
-| Citations | 711 |
-| Publications | 52 |
-| CDR Focus | 13.5% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -63,11 +56,6 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | 2024 | [Sustainable negative emissions in Europe: evaluating scenarios to meet carbon neutrality by 2050](https://doi.org/10.1088/1748-9326/ad71e1) | BECCS; Biochar; DAC; Enhanced Weathering | 6 |
 | 2024 | [Modelling of Demands of Selected Minerals and Metals in Clean Energy Transition with 1.5–2.0 °C Mitigation Targets](https://doi.org/10.1007/978-3-031-58897-6_10) | Cross-cutting CDR | 3 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0003-1472-4184)
-- [OpenAlex](https://openalex.org/A5091330647)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

@@ -1,7 +1,7 @@
 ---
 title: "Philip A.E. Pogge von Strandmann"
-description: "Philip A.E. Pogge von Strandmann is an Eminent Enhanced Weathering researcher at Johannes Gutenberg University Mainz in DE. With 203 publications and an h-index of 51, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Philip A.E. Pogge von Strandmann, Johannes Gutenberg University Mainz, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 9 by activity, 19 by citations. 203 publications, h-index 51, 8,441 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/philip-ae-pogge-von-strandmann-a5063694/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Johannes Gutenberg University Mainz</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>rank 9 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 19 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>51</td></tr>
+  <tr><th>Citations</th><td>8,441</td></tr>
+  <tr><th>Publications</th><td>203</td></tr>
+  <tr><th>Share of publications on CDR</th><td>12.3%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-7181-4165">ORCID</a> · <a href="https://openalex.org/A5063694053">OpenAlex</a></td></tr>
+</table>
 
-**Philip A.E. Pogge von Strandmann**  
-Johannes Gutenberg University Mainz · 🇩🇪 DE
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Enhanced Weathering**
-
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 51 |
-| Citations | 8,441 |
-| Publications | 203 |
-| CDR Focus | 12.3% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -79,11 +72,6 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | 2021 | [Lithium isotope evidence for enhanced weathering and erosion during the Paleocene-Eocene Thermal Maximum](https://doi.org/10.1126/sciadv.abh4224) | Enhanced Weathering | 144 |
 | 2021 | [Seasonal variability in silicate weathering signatures recorded by Li isotopes in cave drip-waters](https://doi.org/10.1016/j.gca.2021.07.006) | Enhanced Weathering | 21 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-7181-4165)
-- [OpenAlex](https://openalex.org/A5063694053)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

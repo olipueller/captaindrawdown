@@ -1,7 +1,7 @@
 ---
 title: "Dariia Atamanchuk"
-description: "Dariia Atamanchuk is a Mid-career Ocean CDR researcher at Dalhousie University in CA. With 72 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Dariia Atamanchuk, Dalhousie University, Canada. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 26 by activity, 307 by citations. 72 publications, h-index 13, 668 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/dariia-atamanchuk-a5022141/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Dalhousie University</td></tr>
+  <tr><th>Country</th><td>Canada</td></tr>
+  <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>rank 26 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 307 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>13</td></tr>
+  <tr><th>Citations</th><td>668</td></tr>
+  <tr><th>Publications</th><td>72</td></tr>
+  <tr><th>Share of publications on CDR</th><td>16.7%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-9117-502X">ORCID</a> · <a href="https://openalex.org/A5022141454">OpenAlex</a></td></tr>
+</table>
 
-**Dariia Atamanchuk**  
-Dalhousie University · 🇨🇦 CA
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**Ocean CDR**
-
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 13 |
-| Citations | 668 |
-| Publications | 72 |
-| CDR Focus | 16.7% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -67,11 +60,6 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | 2024 | [Can ocean alkalinity enhancement reduce atmospheric carbon dioxide?](http://dx.doi.org/10.33424/futurum509) | Ocean CDR | 0 |
 | 2023 | [An Automated Microfluidic Analyzer for <i>In Situ</i> Monitoring of Total Alkalinity](https://doi.org/10.1021/acssensors.2c02343) | Ocean CDR | 53 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-9117-502X)
-- [OpenAlex](https://openalex.org/A5022141454)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

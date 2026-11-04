@@ -1,7 +1,7 @@
 ---
 title: "Thomas Helmer Pedersen"
-description: "Thomas Helmer Pedersen is a Senior DAC researcher at Aalborg University in DK. With 135 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Thomas Helmer Pedersen, Aalborg University, Denmark. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 30 by activity, 610 by citations. 135 publications, h-index 32, 3,503 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/thomas-helmer-pedersen-a5028259/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Aalborg University</td></tr>
+  <tr><th>Country</th><td>Denmark</td></tr>
+  <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>rank 30 <a href="/data/researchers/dac/">by activity</a>, rank 610 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>32</td></tr>
+  <tr><th>Citations</th><td>3,503</td></tr>
+  <tr><th>Publications</th><td>135</td></tr>
+  <tr><th>Share of publications on CDR</th><td>8.1%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-0702-5756">ORCID</a> · <a href="https://openalex.org/A5028259786">OpenAlex</a></td></tr>
+</table>
 
-**Thomas Helmer Pedersen**  
-Aalborg University · 🇩🇰 DK
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 32 |
-| Citations | 3,503 |
-| Publications | 135 |
-| CDR Focus | 8.1% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -67,11 +60,6 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | 2022 | [Systematical analysis of sludge treatment and disposal technologies for carbon footprint reduction](https://doi.org/10.1016/j.jes.2022.07.038) | Cross-cutting CDR | 68 |
 | 2021 | [Techno-economic evaluation of carbon capture via physical absorption from HTL gas phase derived from woody biomass and sewage sludge](https://doi.org/10.1016/j.ecmx.2021.100089) | BECCS | 19 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0003-0702-5756)
-- [OpenAlex](https://openalex.org/A5028259786)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

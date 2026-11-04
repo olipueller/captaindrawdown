@@ -1,7 +1,7 @@
 ---
 title: "Haris Ishaq"
-description: "Haris Ishaq is a Senior DAC researcher at University of Victoria in CA. With 87 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Haris Ishaq, University of Victoria, Canada. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 23 by activity, 398 by citations. 87 publications, h-index 29, 4,439 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/haris-ishaq-a5047835/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>University of Victoria</td></tr>
+  <tr><th>Country</th><td>Canada</td></tr>
+  <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>rank 23 <a href="/data/researchers/dac/">by activity</a>, rank 398 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>29</td></tr>
+  <tr><th>Citations</th><td>4,439</td></tr>
+  <tr><th>Publications</th><td>87</td></tr>
+  <tr><th>Share of publications on CDR</th><td>13.8%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-1474-4575">ORCID</a> · <a href="https://openalex.org/A5047835879">OpenAlex</a></td></tr>
+</table>
 
-**Haris Ishaq**  
-University of Victoria · 🇨🇦 CA
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 29 |
-| Citations | 4,439 |
-| Publications | 87 |
-| CDR Focus | 13.8% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -67,11 +60,6 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | 2022 | [Potential of offshore wind energy for direct air capture](https://doi.org/10.1002/er.8506) | DAC | 18 |
 | 2022 | [Performance assessment of offshore wind energy integrated monoethanolamine synthesis system for post-combustion and potential direct air capture](https://doi.org/10.1016/j.jcou.2022.102154) | DAC | 16 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-1474-4575)
-- [OpenAlex](https://openalex.org/A5047835879)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

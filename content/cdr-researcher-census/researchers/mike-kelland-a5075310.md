@@ -1,7 +1,7 @@
 ---
 title: "Mike Kelland"
-description: "Mike Kelland is a Mid-career Enhanced Weathering researcher at PPG Industries (United States) in US. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Mike Kelland, PPG Industries (United States), United States. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 57 by activity, 1523 by citations. 23 publications, h-index 6, 911 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/mike-kelland-a5075310/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>PPG Industries (United States)</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>rank 57 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 1523 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>6</td></tr>
+  <tr><th>Citations</th><td>911</td></tr>
+  <tr><th>Publications</th><td>23</td></tr>
+  <tr><th>Share of publications on CDR</th><td>60.9%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-4901-517X">ORCID</a> · <a href="https://openalex.org/A5075310246">OpenAlex</a></td></tr>
+</table>
 
-**Mike Kelland**  
-PPG Industries (United States) · 🇺🇸 US
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**Enhanced Weathering**
-
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 6 |
-| Citations | 911 |
-| Publications | 23 |
-| CDR Focus | 60.9% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -69,11 +62,6 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | 2023 | [Preliminary findings from comparison of in-situ measurements of enhanced weathering proxies with model predictions](https://doi.org/10.5194/egusphere-egu23-13354) | Enhanced Weathering | 0 |
 | 2023 | [Validating geochemical models for enhanced rock weathering: an assessment of model inputs and comparability of model results to experimental data](http://dx.doi.org/10.7185/gold2023.19520) | Enhanced Weathering | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-4901-517X)
-- [OpenAlex](https://openalex.org/A5075310246)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

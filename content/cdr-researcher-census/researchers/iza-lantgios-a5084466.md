@@ -1,7 +1,7 @@
 ---
 title: "Iza Lantgios"
-description: "Iza Lantgios is an Early-career DAC researcher at Idaho National Laboratory in US. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Iza Lantgios, Idaho National Laboratory, United States. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 56 by activity, 2290 by citations. 6 publications, h-index 2, 326 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/iza-lantgios-a5084466/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Idaho National Laboratory</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>rank 56 <a href="/data/researchers/dac/">by activity</a>, rank 2290 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Early-career</td></tr>
+  <tr><th>h-index</th><td>2</td></tr>
+  <tr><th>Citations</th><td>326</td></tr>
+  <tr><th>Publications</th><td>6</td></tr>
+  <tr><th>Share of publications on CDR</th><td>100.0%</td></tr>
+  <tr><th>Trajectory</th><td>Unknown</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-9081-8604">ORCID</a> · <a href="https://openalex.org/A5084466466">OpenAlex</a></td></tr>
+</table>
 
-**Iza Lantgios**  
-Idaho National Laboratory · 🇺🇸 US
-
-**Career Stage:** Early-career
-
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 2 |
-| Citations | 326 |
-| Publications | 6 |
-| CDR Focus | 100.0% |
-| Trajectory | Unknown |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -61,11 +54,6 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | 2024 | [The Potential for Coupling Direct Air Capture with Nuclear Power Plant Uprate](http://dx.doi.org/10.13182/pbnc24-45114) | DAC | 0 |
 | 2023 | [Design Considerations for Integrating Direct Air Capture with a Nuclear Power Plant](https://openalex.org/W7163657495) | DAC | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-9081-8604)
-- [OpenAlex](https://openalex.org/A5084466466)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

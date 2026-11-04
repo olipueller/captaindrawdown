@@ -1,7 +1,7 @@
 ---
 title: "Shinichiro Fujimori"
-description: "Shinichiro Fujimori is an Eminent Cross-cutting CDR researcher at Kyoto University in JP. With 1159 publications and an h-index of 79, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Shinichiro Fujimori, Kyoto University, Japan. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 8 by activity, 398 by citations. 1159 publications, h-index 79, 34,075 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/shinichiro-fujimori-a5006789/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Kyoto University</td></tr>
+  <tr><th>Country</th><td>Japan</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 8 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 398 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>79</td></tr>
+  <tr><th>Citations</th><td>34,075</td></tr>
+  <tr><th>Publications</th><td>1159</td></tr>
+  <tr><th>Share of publications on CDR</th><td>2.6%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-7897-1796">ORCID</a> · <a href="https://openalex.org/A5006789499">OpenAlex</a></td></tr>
+</table>
 
-**Shinichiro Fujimori**  
-Kyoto University · 🇯🇵 JP
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Cross-cutting CDR**
-
-Cross-cutting CDR
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 79 |
-| Citations | 34,075 |
-| Publications | 1159 |
-| CDR Focus | 2.6% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -82,11 +75,6 @@ Cross-cutting CDR
 | 2021 | [Land-based implications of early climate actions without global net-negative emissions](https://doi.org/10.1038/s41893-021-00772-w) | Cross-cutting CDR | 67 |
 | 2021 | [Global bioenergy with carbon capture and storage potential is largely constrained by sustainable irrigation](https://doi.org/10.1038/s41893-021-00740-4) | BECCS | 60 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-7897-1796)
-- [OpenAlex](https://openalex.org/A5006789499)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

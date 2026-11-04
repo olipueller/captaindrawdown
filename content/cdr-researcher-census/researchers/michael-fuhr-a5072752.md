@@ -1,7 +1,7 @@
 ---
 title: "Michael Fuhr"
-description: "Michael Fuhr is a Mid-career Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Michael Fuhr, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 48 by activity, 158 by citations. 19 publications, h-index 10, 422 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/michael-fuhr-a5072752/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>GEOMAR Helmholtz Centre for Ocean Research Kiel</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>rank 48 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 158 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>10</td></tr>
+  <tr><th>Citations</th><td>422</td></tr>
+  <tr><th>Publications</th><td>19</td></tr>
+  <tr><th>Share of publications on CDR</th><td>68.4%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-5169-6744">ORCID</a> · <a href="https://openalex.org/A5072752114">OpenAlex</a></td></tr>
+</table>
 
-**Michael Fuhr**  
-GEOMAR Helmholtz Centre for Ocean Research Kiel · 🇩🇪 DE
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**Ocean CDR**
-
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 10 |
-| Citations | 422 |
-| Publications | 19 |
-| CDR Focus | 68.4% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -68,11 +61,6 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | 2022 | [Kinetics of Olivine Weathering in Seawater: An Experimental Study](https://doi.org/10.3389/fclim.2022.831587) | Enhanced Weathering | 161 |
 | 2021 | [Kinetics of olivine weathering in seawater: an experimental study](https://openalex.org/W3213875920) | Enhanced Weathering | 14 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-5169-6744)
-- [OpenAlex](https://openalex.org/A5072752114)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

@@ -1,7 +1,7 @@
 ---
 title: "Solomon Brown"
-description: "Solomon Brown is a Senior BECCS researcher at University of Sheffield in GB. With 209 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Solomon Brown, University of Sheffield, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 64 by activity, 1477 by citations. 209 publications, h-index 33, 7,742 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/solomon-brown-a5048780/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>University of Sheffield</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>rank 64 <a href="/data/researchers/beccs/">by activity</a>, rank 1477 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>33</td></tr>
+  <tr><th>Citations</th><td>7,742</td></tr>
+  <tr><th>Publications</th><td>209</td></tr>
+  <tr><th>Share of publications on CDR</th><td>2.4%</td></tr>
+  <tr><th>Trajectory</th><td>Exiting</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-8229-8004">ORCID</a> · <a href="https://openalex.org/A5048780607">OpenAlex</a></td></tr>
+</table>
 
-**Solomon Brown**  
-University of Sheffield · 🇬🇧 GB
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**BECCS**
-
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 33 |
-| Citations | 7,742 |
-| Publications | 209 |
-| CDR Focus | 2.4% |
-| Trajectory | Exiting |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -60,11 +53,6 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | 2024 | [Techno-Economic Comparison of BECCS-to-X Pathways: Co-Production of Power and Low-carbon Fuels](http://dx.doi.org/10.2139/ssrn.5016498) | BECCS | 0 |
 | 2023 | [Bioenergy with carbon capture and storage (BECCS) – power generation coupled with hydrogen production](https://doi.org/10.1016/b978-0-443-15274-0.50461-3) | BECCS | 3 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-8229-8004)
-- [OpenAlex](https://openalex.org/A5048780607)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

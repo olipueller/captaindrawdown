@@ -1,7 +1,7 @@
 ---
 title: "Mallory Ringham"
-description: "Mallory Ringham is a Mid-career Ocean CDR researcher at Stony Brook University in US. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Mallory Ringham, Stony Brook University, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 21 by activity, 173 by citations. 30 publications, h-index 7, 258 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/mallory-ringham-a5042898/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Stony Brook University</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>rank 21 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 173 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>7</td></tr>
+  <tr><th>Citations</th><td>258</td></tr>
+  <tr><th>Publications</th><td>30</td></tr>
+  <tr><th>Share of publications on CDR</th><td>46.7%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-4802-0185">ORCID</a> · <a href="https://openalex.org/A5042898332">OpenAlex</a></td></tr>
+</table>
 
-**Mallory Ringham**  
-Stony Brook University · 🇺🇸 US
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**Ocean CDR**
-
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 7 |
-| Citations | 258 |
-| Publications | 30 |
-| CDR Focus | 46.7% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -69,11 +62,6 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | 2024 | [Biological response of eelgrass epifauna, Taylor’s sea hare (Phyllaplysia taylori) and eelgrass isopod (Idotea resecata), to elevated ocean alkalinity](https://doi.org/10.5194/egusphere-2024-972) | Ocean CDR | 6 |
 | 2023 | [Observing Marine Inorganic Carbon](https://doi.org/10.1021/acsinfocus.7e7010) | Ocean CDR | 1 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0003-4802-0185)
-- [OpenAlex](https://openalex.org/A5042898332)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

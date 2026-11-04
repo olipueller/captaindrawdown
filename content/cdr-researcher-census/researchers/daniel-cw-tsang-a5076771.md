@@ -1,7 +1,7 @@
 ---
 title: "Daniel C.W. Tsang"
-description: "Daniel C.W. Tsang is an Eminent Biochar researcher at Hong Kong University of Science and Technology in HK. With 803 publications and an h-index of 161, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Daniel C.W. Tsang, Hong Kong University of Science and Technology, Hong Kong. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 1 by activity, 1 by citations. 803 publications, h-index 161, 86,785 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/daniel-cw-tsang-a5076771/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -22,28 +22,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Hong Kong University of Science and Technology</td></tr>
+  <tr><th>Country</th><td>Hong Kong</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>rank 1 <a href="/data/researchers/biochar/">by activity</a>, rank 1 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>161</td></tr>
+  <tr><th>Citations</th><td>86,785</td></tr>
+  <tr><th>Publications</th><td>803</td></tr>
+  <tr><th>Share of publications on CDR</th><td>4.5%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://openalex.org/A5076771261">OpenAlex</a></td></tr>
+</table>
 
-**Daniel C.W. Tsang**  
-Hong Kong University of Science and Technology · 🇭🇰 HK
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 161 |
-| Citations | 86,785 |
-| Publications | 803 |
-| CDR Focus | 4.5% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -88,10 +81,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2021 | [Machine learning exploration of the direct and indirect roles of Fe impregnation on Cr(VI) removal by engineered biochar](https://doi.org/10.1016/j.cej.2021.131967) | Biochar | 100 |
 | 2021 | [Stabilization of dissolvable biochar by soil minerals: Release reduction and organo-mineral complexes formation](https://doi.org/10.1016/j.jhazmat.2021.125213) | Biochar | 84 |
 
-## External Profiles
-
-- [OpenAlex](https://openalex.org/A5076771261)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

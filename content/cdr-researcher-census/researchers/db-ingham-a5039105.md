@@ -1,7 +1,7 @@
 ---
 title: "D.B. Ingham"
-description: "D.B. Ingham is an Eminent BECCS researcher at University of Sheffield in GB. With 834 publications and an h-index of 69, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "D.B. Ingham, University of Sheffield, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 95 by activity, 73 by citations. 834 publications, h-index 69, 20,459 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/db-ingham-a5039105/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>University of Sheffield</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>rank 95 <a href="/data/researchers/beccs/">by activity</a>, rank 73 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>69</td></tr>
+  <tr><th>Citations</th><td>20,459</td></tr>
+  <tr><th>Publications</th><td>834</td></tr>
+  <tr><th>Share of publications on CDR</th><td>1.0%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-4633-0852">ORCID</a> · <a href="https://openalex.org/A5039105160">OpenAlex</a></td></tr>
+</table>
 
-**D.B. Ingham**  
-University of Sheffield · 🇬🇧 GB
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**BECCS**
-
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 69 |
-| Citations | 20,459 |
-| Publications | 834 |
-| CDR Focus | 1.0% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -63,11 +56,6 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | 2022 | [Bioenergy with carbon capture and storage (BECCS) potential in jet fuel production from forestry residues: A combined Techno-Economic and Life Cycle Assessment approach](https://doi.org/10.1016/j.enconman.2022.115346) | BECCS | 100 |
 | 2021 | [Techno-economic and environmental assessment of BECCS in fuel generation for FT-fuel, bioSNG and OME<i>x</i>](https://doi.org/10.1039/d1se00123j) | BECCS | 23 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-4633-0852)
-- [OpenAlex](https://openalex.org/A5039105160)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

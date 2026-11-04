@@ -1,7 +1,7 @@
 ---
 title: "Frédéric Gazeau"
-description: "Frédéric Gazeau is a Senior Ocean CDR researcher at CNRS Délégation Régionale Côte d'Azur in FR. With 202 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Frédéric Gazeau, CNRS Délégation Régionale Côte d'Azur, France. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 68 by activity, 833 by citations. 202 publications, h-index 33, 5,967 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/frederic-gazeau-a5039141/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>CNRS Délégation Régionale Côte d'Azur</td></tr>
+  <tr><th>Country</th><td>France</td></tr>
+  <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>rank 68 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 833 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>33</td></tr>
+  <tr><th>Citations</th><td>5,967</td></tr>
+  <tr><th>Publications</th><td>202</td></tr>
+  <tr><th>Share of publications on CDR</th><td>4.0%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-8807-4597">ORCID</a> · <a href="https://openalex.org/A5039141126">OpenAlex</a></td></tr>
+</table>
 
-**Frédéric Gazeau**  
-CNRS Délégation Régionale Côte d'Azur · 🇫🇷 FR
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**Ocean CDR**
-
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 33 |
-| Citations | 5,967 |
-| Publications | 202 |
-| CDR Focus | 4.0% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -63,11 +56,6 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | 2024 | [A synthesis of ocean total alkalinity and dissolved inorganic carbon measurements from 1993 to 2022: the SNAPO-CO2-v1 dataset](https://doi.org/10.5194/essd-16-89-2024) | Ocean CDR | 15 |
 | 2024 | [An updated synthesis of ocean total alkalinity and dissolved inorganic carbon measurements from 1993 to 2023: the SNAPO-CO2-v2 dataset](https://doi.org/10.5194/essd-2024-464) | Ocean CDR | 1 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-8807-4597)
-- [OpenAlex](https://openalex.org/A5039141126)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

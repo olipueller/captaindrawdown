@@ -1,7 +1,7 @@
 ---
 title: "Kohei Kurokawa"
-description: "Kohei Kurokawa is a Mid-career Enhanced Weathering researcher at Kyoto Prefectural University in JP. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Kohei Kurokawa, Kyoto Prefectural University, Japan. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 97 by activity, 1645 by citations. 11 publications, h-index 3, 60 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/kohei-kurokawa-a5067284/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Kyoto Prefectural University</td></tr>
+  <tr><th>Country</th><td>Japan</td></tr>
+  <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>rank 97 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 1645 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>3</td></tr>
+  <tr><th>Citations</th><td>60</td></tr>
+  <tr><th>Publications</th><td>11</td></tr>
+  <tr><th>Share of publications on CDR</th><td>54.5%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-6740-7778">ORCID</a> · <a href="https://openalex.org/A5067284010">OpenAlex</a></td></tr>
+</table>
 
-**Kohei Kurokawa**  
-Kyoto Prefectural University · 🇯🇵 JP
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**Enhanced Weathering**
-
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 3 |
-| Citations | 60 |
-| Publications | 11 |
-| CDR Focus | 54.5% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -61,11 +54,6 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | 2025 | [Impact of basalt application on soil chemical properties and elemental uptake by paddy rice through enhanced rock weathering](https://doi.org/10.1080/00380768.2024.2448457) | Enhanced Weathering | 3 |
 | 2025 | [Contribution of primary and secondary mineral phases to organo-mineral aggregation during crushed basalt weathering in the presence of fresh plant residue](https://doi.org/10.5194/egusphere-egu25-20079) | Enhanced Weathering | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-6740-7778)
-- [OpenAlex](https://openalex.org/A5067284010)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

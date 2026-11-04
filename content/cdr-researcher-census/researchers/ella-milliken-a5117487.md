@@ -1,7 +1,7 @@
 ---
 title: "Ella Milliken"
-description: "Ella Milliken is an Early-career Enhanced Weathering researcher at Yale University in US. With 16 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Ella Milliken, Yale University, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 39 by activity, 1596 by citations. 16 publications, h-index 1, 7 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/ella-milliken-a5117487/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Yale University</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>rank 39 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 1596 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Early-career</td></tr>
+  <tr><th>h-index</th><td>1</td></tr>
+  <tr><th>Citations</th><td>7</td></tr>
+  <tr><th>Publications</th><td>16</td></tr>
+  <tr><th>Share of publications on CDR</th><td>62.5%</td></tr>
+  <tr><th>Trajectory</th><td>Unknown</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0009-0005-6996-3694">ORCID</a> · <a href="https://openalex.org/A5117487314">OpenAlex</a></td></tr>
+</table>
 
-**Ella Milliken**  
-Yale University · 🇺🇸 US
-
-**Career Stage:** Early-career
-
-## CDR Specialization
-
-**Enhanced Weathering**
-
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 1 |
-| Citations | 7 |
-| Publications | 16 |
-| CDR Focus | 62.5% |
-| Trajectory | Unknown |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -65,11 +58,6 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | 2025 | [Updated framework and signal-to-noise analysis of soil mass balance approaches for quantifying enhanced weathering on managed lands](https://doi.org/10.70212/cdrxiv.2025390.v1) | Enhanced Weathering | 0 |
 | 2025 | [An Updated Framework and Signal-to-Noise Analysis of Soil Mass Balance Approaches for Quantifying Enhanced Weathering on Managed Lands](https://doi.org/10.1021/acs.est.5c08303) | Enhanced Weathering | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0009-0005-6996-3694)
-- [OpenAlex](https://openalex.org/A5117487314)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

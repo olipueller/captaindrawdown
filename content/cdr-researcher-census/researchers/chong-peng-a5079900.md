@@ -1,7 +1,7 @@
 ---
 title: "Chong Peng"
-description: "Chong Peng is an Eminent Biochar researcher at State Key Laboratory of Fine Chemicals in CN. With 290 publications and an h-index of 52, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Chong Peng, State Key Laboratory of Fine Chemicals, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 76 by activity, 3913 by citations. 290 publications, h-index 52, 9,533 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/chong-peng-a5079900/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>State Key Laboratory of Fine Chemicals</td></tr>
+  <tr><th>Country</th><td>China</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>rank 76 <a href="/data/researchers/biochar/">by activity</a>, rank 3913 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>52</td></tr>
+  <tr><th>Citations</th><td>9,533</td></tr>
+  <tr><th>Publications</th><td>290</td></tr>
+  <tr><th>Share of publications on CDR</th><td>2.8%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-6083-2656">ORCID</a> · <a href="https://openalex.org/A5079900955">OpenAlex</a></td></tr>
+</table>
 
-**Chong Peng**  
-State Key Laboratory of Fine Chemicals · 🇨🇳 CN
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 52 |
-| Citations | 9,533 |
-| Publications | 290 |
-| CDR Focus | 2.8% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -63,11 +56,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2025 | [Fe-Mn modified biochar achieves Cu and Pb stabilization and soil carbon sequestration by breaking the electronic supply restrictions of the material](https://doi.org/10.1016/j.seppur.2025.135563) | Biochar | 1 |
 | 2022 | [Perspectives on removal of atmospheric methane](https://doi.org/10.1016/j.adapen.2022.100085) | DAC | 80 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-6083-2656)
-- [OpenAlex](https://openalex.org/A5079900955)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

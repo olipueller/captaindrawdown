@@ -1,7 +1,7 @@
 ---
 title: "Nikol Kirova"
-description: "Nikol Kirova is an Early-career Biochar researcher at Institute for Advanced Architecture of Catalonia in ES. With 11 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Nikol Kirova, Institute for Advanced Architecture of Catalonia, Spain. 11 publications, h-index 2, 7 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/nikol-kirova-a5042136/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -22,28 +22,20 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Institute for Advanced Architecture of Catalonia</td></tr>
+  <tr><th>Country</th><td>Spain</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Career stage</th><td>Early-career</td></tr>
+  <tr><th>h-index</th><td>2</td></tr>
+  <tr><th>Citations</th><td>7</td></tr>
+  <tr><th>Publications</th><td>11</td></tr>
+  <tr><th>Share of publications on CDR</th><td>45.5%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://openalex.org/A5042136458">OpenAlex</a></td></tr>
+</table>
 
-**Nikol Kirova**  
-Institute for Advanced Architecture of Catalonia · 🇪🇸 ES
-
-**Career Stage:** Early-career
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 2 |
-| Citations | 7 |
-| Publications | 11 |
-| CDR Focus | 45.5% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -57,10 +49,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2023 | [A Study on Carbon-Neutral Biochar-Cementitious Composites](https://doi.org/10.1007/978-3-031-36554-6_33) | Biochar | 2 |
 | 2023 | [A Study on Biochar-Cementitious Composites Toward Carbon–Neutral Architecture](https://doi.org/10.1007/978-3-031-36922-3_31) | Biochar | 1 |
 
-## External Profiles
-
-- [OpenAlex](https://openalex.org/A5042136458)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

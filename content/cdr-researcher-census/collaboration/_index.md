@@ -33,7 +33,7 @@ This atlas maps the co-authorship network of the **55,865 researchers** in my CD
 - **Institutions** = research centers where CDR work concentrates
 
 <div style="background:var(--code-bg);border-left:4px solid #f0ad4e;border-radius:4px;padding:1rem 1.2rem;margin:1.5rem 0">
-<strong>⚠️ Experimental Analysis</strong>
+<strong>Experimental Analysis</strong>
 <p style="margin:0.5rem 0 0">This collaboration analysis is <strong>highly experimental</strong>. Key limitations:</p>
 <ul style="margin:0.4rem 0 0;padding-left:1.5rem;font-size:0.92em">
 <li>Based on co-authorship data from <strong>OpenAlex</strong>, which has known disambiguation issues</li>
@@ -55,7 +55,7 @@ This atlas maps the co-authorship network of the **55,865 researchers** in my CD
 
 ---
 
-## 🔥 How CDR Methods Cross-Pollinate
+## How CDR Methods Cross-Pollinate
 
 This matrix shows co-authorship links between researchers from different CDR methods. Higher numbers = more collaboration.
 
@@ -137,7 +137,7 @@ This matrix shows co-authorship links between researchers from different CDR met
 
 ---
 
-## 🌍 Top Country Collaborations
+## Top Country Collaborations
 
 The strongest international research partnerships in CDR, measured by co-authored papers.
 
@@ -166,7 +166,7 @@ The strongest international research partnerships in CDR, measured by co-authore
 
 ---
 
-## 🔗 Bridge Researchers
+## Bridge Researchers
 
 These researchers connect the most CDR methods through their co-authorship network — the rare people who span biochar, DAC, ocean CDR, and more. Click names to visit their researcher profile.
 
@@ -235,7 +235,7 @@ These researchers connect the most CDR methods through their co-authorship netwo
 
 ---
 
-## 🌐 Research Communities by CDR Method
+## Research Communities by CDR Method
 
 The 50 detected communities, grouped by dominant pathway. Each cluster represents researchers who frequently co-author together, revealing natural research subfields within CDR.
 
@@ -245,27 +245,27 @@ The 50 detected communities, grouped by dominant pathway. Each cluster represent
 <div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
 <h3 style="margin:0 0 0.4rem 0;font-size:0.95em">Community 47: Biochar (510 researchers)</h3>
 <div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#6d4c41;color:#fff">Biochar</span> <strong>82%</strong></span>
-<span>🌍 <strong>China</strong> (30%)</span>
-<span>🏛️ <strong style="font-size:0.9em">Hanyang University</strong></span>
+<span><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#6d4c41;color:#fff">Biochar</span> <strong>82%</strong></span>
+<span><strong>China</strong> (30%)</span>
+<span><strong style="font-size:0.9em">Hanyang University</strong></span>
 </div>
 <div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top researchers: Wei‐Hsin Chen, Eilhann E. Kwon, Hailong Wang, Cheng‐Di Dong, Jörg Rinklebe and 5 more</div>
 </div>
 <div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
 <h3 style="margin:0 0 0.4rem 0;font-size:0.95em">Community 31: Biochar (504 researchers)</h3>
 <div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#6d4c41;color:#fff">Biochar</span> <strong>77%</strong></span>
-<span>🌍 <strong>India</strong> (54%)</span>
-<span>🏛️ <strong style="font-size:0.9em">Indian Agricultural Research Institute</strong></span>
+<span><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#6d4c41;color:#fff">Biochar</span> <strong>77%</strong></span>
+<span><strong>India</strong> (54%)</span>
+<span><strong style="font-size:0.9em">Indian Agricultural Research Institute</strong></span>
 </div>
 <div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top researchers: Vishnu D. Rajput, Tatiana Minkina, Chandra Mohan Mehta and 7 more</div>
 </div>
 <div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
 <h3 style="margin:0 0 0.4rem 0;font-size:0.95em">Community 32: Biochar (430 researchers)</h3>
 <div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#6d4c41;color:#fff">Biochar</span> <strong>85%</strong></span>
-<span>🌍 <strong>China</strong> (45%)</span>
-<span>🏛️ <strong style="font-size:0.9em">University of Alberta</strong></span>
+<span><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#6d4c41;color:#fff">Biochar</span> <strong>85%</strong></span>
+<span><strong>China</strong> (45%)</span>
+<span><strong style="font-size:0.9em">University of Alberta</strong></span>
 </div>
 <div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top researchers: Daniel C.W. Tsang, Yong Sik Ok, Xinde Cao, Mohamed Gamal El‐Din and 6 more</div>
 </div>
@@ -275,27 +275,27 @@ The 50 detected communities, grouped by dominant pathway. Each cluster represent
 <div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
 <h3 style="margin:0 0 0.4rem 0;font-size:0.95em">Community 3: Cross-cutting CDR (830 researchers)</h3>
 <div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#b39ddb;color:#311b92">Cross-cutting CDR</span> <strong>60%</strong></span>
-<span>🌍 <strong>United Kingdom</strong> (15%)</span>
-<span>🏛️ <strong style="font-size:0.9em">International Institute for Applied Systems Analysis</strong></span>
+<span><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#b39ddb;color:#311b92">Cross-cutting CDR</span> <strong>60%</strong></span>
+<span><strong>United Kingdom</strong> (15%)</span>
+<span><strong style="font-size:0.9em">International Institute for Applied Systems Analysis</strong></span>
 </div>
 <div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top researchers: Philippe Ciais, Matthew Gidden, Sabine Fuss, Thomas Gasser, Vassilis Daioglou and 5 more</div>
 </div>
 <div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
 <h3 style="margin:0 0 0.4rem 0;font-size:0.95em">Community 0: Cross-cutting CDR (562 researchers)</h3>
 <div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#b39ddb;color:#311b92">Cross-cutting CDR</span> <strong>33%</strong></span>
-<span>🌍 <strong>United States</strong> (44%)</span>
-<span>🏛️ <strong style="font-size:0.9em">National Laboratory of the Rockies</strong></span>
+<span><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#b39ddb;color:#311b92">Cross-cutting CDR</span> <strong>33%</strong></span>
+<span><strong>United States</strong> (44%)</span>
+<span><strong style="font-size:0.9em">National Laboratory of the Rockies</strong></span>
 </div>
 <div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top researchers: Haewon McJeon, Jay Fuhrman, David T. Ho, Jeffrey Dankwa Ampah, Steven J. Davis and 5 more</div>
 </div>
 <div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
 <h3 style="margin:0 0 0.4rem 0;font-size:0.95em">Community 65: Cross-cutting CDR (357 researchers)</h3>
 <div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#b39ddb;color:#311b92">Cross-cutting CDR</span> <strong>42%</strong></span>
-<span>🌍 <strong>Germany</strong> (31%)</span>
-<span>🏛️ <strong style="font-size:0.9em">GEOMAR Helmholtz Centre for Ocean Research Kiel</strong></span>
+<span><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#b39ddb;color:#311b92">Cross-cutting CDR</span> <strong>42%</strong></span>
+<span><strong>Germany</strong> (31%)</span>
+<span><strong style="font-size:0.9em">GEOMAR Helmholtz Centre for Ocean Research Kiel</strong></span>
 </div>
 <div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top researchers: Andreas Oschlies, David P. Keller, Julia Pongratz, Wilfried Rickels, Jörg Schwinger and 5 more</div>
 </div>
@@ -305,27 +305,27 @@ The 50 detected communities, grouped by dominant pathway. Each cluster represent
 <div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
 <h3 style="margin:0 0 0.4rem 0;font-size:0.95em">Community 6: Ocean CDR (442 researchers)</h3>
 <div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#4dd0e1;color:#004d40">Ocean CDR</span> <strong>82%</strong></span>
-<span>🌍 <strong>United States</strong> (47%)</span>
-<span>🏛️ <strong style="font-size:0.9em">Pacific Northwest National Laboratory</strong></span>
+<span><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#4dd0e1;color:#004d40">Ocean CDR</span> <strong>82%</strong></span>
+<span><strong>United States</strong> (47%)</span>
+<span><strong style="font-size:0.9em">Pacific Northwest National Laboratory</strong></span>
 </div>
 <div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top researchers: Chinmayee V. Subban, Jessica Cross, Matthew D. Eisaman, Brendan R. Carter, Mallory Ringham and 5 more</div>
 </div>
 <div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
 <h3 style="margin:0 0 0.4rem 0;font-size:0.95em">Community 46: Ocean CDR (425 researchers)</h3>
 <div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#4dd0e1;color:#004d40">Ocean CDR</span> <strong>76%</strong></span>
-<span>🌍 <strong>China</strong> (56%)</span>
-<span>🏛️ <strong style="font-size:0.9em">Xiamen University</strong></span>
+<span><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#4dd0e1;color:#004d40">Ocean CDR</span> <strong>76%</strong></span>
+<span><strong>China</strong> (56%)</span>
+<span><strong style="font-size:0.9em">Xiamen University</strong></span>
 </div>
 <div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top researchers: Nianzhi Jiao, Jihua Liu, Yubin Hu and 7 more</div>
 </div>
 <div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
 <h3 style="margin:0 0 0.4rem 0;font-size:0.95em">Community 37: Ocean CDR (262 researchers)</h3>
 <div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#4dd0e1;color:#004d40">Ocean CDR</span> <strong>41%</strong></span>
-<span>🌍 <strong>United States</strong> (39%)</span>
-<span>🏛️ <strong style="font-size:0.9em">Woods Hole Oceanographic Institution</strong></span>
+<span><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#4dd0e1;color:#004d40">Ocean CDR</span> <strong>41%</strong></span>
+<span><strong>United States</strong> (39%)</span>
+<span><strong style="font-size:0.9em">Woods Hole Oceanographic Institution</strong></span>
 </div>
 <div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top researchers: Filip J. R. Meysman, Emily Cox, Adam V. Subhas, Astrid Hylén, Zhaohui Aleck Wang and 5 more</div>
 </div>
@@ -335,27 +335,27 @@ The 50 detected communities, grouped by dominant pathway. Each cluster represent
 <div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
 <h3 style="margin:0 0 0.4rem 0;font-size:0.95em">Community 58: Enhanced Weathering (476 researchers)</h3>
 <div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#bcaaa4;color:#3e2723">Enhanced Weathering</span> <strong>62%</strong></span>
-<span>🌍 <strong>United States</strong> (39%)</span>
-<span>🏛️ <strong style="font-size:0.9em">Yale University</strong></span>
+<span><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#bcaaa4;color:#3e2723">Enhanced Weathering</span> <strong>62%</strong></span>
+<span><strong>United States</strong> (39%)</span>
+<span><strong style="font-size:0.9em">Yale University</strong></span>
 </div>
 <div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top researchers: Noah J. Planavsky, David J. Beerling, Christopher T. Reinhard, Pete Smith, Rachael H. James and 5 more</div>
 </div>
 <div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
 <h3 style="margin:0 0 0.4rem 0;font-size:0.95em">Community 17: Enhanced Weathering (418 researchers)</h3>
 <div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#bcaaa4;color:#3e2723">Enhanced Weathering</span> <strong>45%</strong></span>
-<span>🌍 <strong>Germany</strong> (21%)</span>
-<span>🏛️ <strong style="font-size:0.9em">University of Antwerp</strong></span>
+<span><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#bcaaa4;color:#3e2723">Enhanced Weathering</span> <strong>45%</strong></span>
+<span><strong>Germany</strong> (21%)</span>
+<span><strong style="font-size:0.9em">University of Antwerp</strong></span>
 </div>
 <div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top researchers: Jens Hartmann, Sara Vicca, Nikolas Hagemann, Arthur Vienne, Claudia Kammann and 5 more</div>
 </div>
 <div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
 <h3 style="margin:0 0 0.4rem 0;font-size:0.95em">Community 14: Enhanced Weathering (359 researchers)</h3>
 <div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#bcaaa4;color:#3e2723">Enhanced Weathering</span> <strong>41%</strong></span>
-<span>🌍 <strong>United Kingdom</strong> (25%)</span>
-<span>🏛️ <strong style="font-size:0.9em">Pacific Northwest National Laboratory</strong></span>
+<span><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#bcaaa4;color:#3e2723">Enhanced Weathering</span> <strong>41%</strong></span>
+<span><strong>United Kingdom</strong> (25%)</span>
+<span><strong style="font-size:0.9em">Pacific Northwest National Laboratory</strong></span>
 </div>
 <div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top researchers: Phil Renforth, Spyros Foteinis, Mijndert van der Spek, Liam A. Bullock, Sonja Geilert and 5 more</div>
 </div>
@@ -370,34 +370,34 @@ The 50 detected communities, grouped by dominant pathway. Each cluster represent
 <div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
 <h3 style="margin:0 0 0.4rem 0;font-size:0.95em">Community 74: DAC (350 researchers)</h3>
 <div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#64b5f6;color:#0d47a1">DAC</span> <strong>56%</strong></span>
-<span>🌍 <strong>United States</strong> (48%)</span>
-<span>🏛️ <strong style="font-size:0.9em">Georgia Institute of Technology</strong></span>
+<span><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#64b5f6;color:#0d47a1">DAC</span> <strong>56%</strong></span>
+<span><strong>United States</strong> (48%)</span>
+<span><strong style="font-size:0.9em">Georgia Institute of Technology</strong></span>
 </div>
 <div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top researchers: Matthew J. Realff, Ryan P. Lively, Christopher W. Jones, Dong‐Yeun Koh, Klaus S. Lackner and 5 more</div>
 </div>
 <div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
 <h3 style="margin:0 0 0.4rem 0;font-size:0.95em">Community 28: DAC (258 researchers)</h3>
 <div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#64b5f6;color:#0d47a1">DAC</span> <strong>23%</strong></span>
-<span>🌍 <strong>United States</strong> (27%)</span>
-<span>🏛️ <strong style="font-size:0.9em">North Carolina State University</strong></span>
+<span><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#64b5f6;color:#0d47a1">DAC</span> <strong>23%</strong></span>
+<span><strong>United States</strong> (27%)</span>
+<span><strong style="font-size:0.9em">North Carolina State University</strong></span>
 </div>
 <div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top researchers: Marco Mazzotti, William Joe Sagues, Katja Fennel, André Bardow, Daniel L. Sanchez and 5 more</div>
 </div>
 <div style="background:var(--code-bg);border-radius:8px;padding:1rem 1.2rem;margin:0.8rem 0">
 <h3 style="margin:0 0 0.4rem 0;font-size:0.95em">Community 38: DAC (226 researchers)</h3>
 <div style="display:flex;flex-wrap:wrap;gap:1.2rem;font-size:0.88em;color:var(--secondary)">
-<span>🔬 <span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#64b5f6;color:#0d47a1">DAC</span> <strong>42%</strong></span>
-<span>🌍 <strong>United States</strong> (62%)</span>
-<span>🏛️ <strong style="font-size:0.9em">Lawrence Livermore National Laboratory</strong></span>
+<span><span style="display:inline-block;padding:2px 8px;border-radius:12px;font-size:0.75em;font-weight:600;background:#64b5f6;color:#0d47a1">DAC</span> <strong>42%</strong></span>
+<span><strong>United States</strong> (62%)</span>
+<span><strong style="font-size:0.9em">Lawrence Livermore National Laboratory</strong></span>
 </div>
 <div style="margin-top:0.4rem;font-size:0.82em;color:var(--secondary)">Top researchers: Benjamin Z. Houlton, Simon H. Pang and 8 more</div>
 </div>
 
 ---
 
-## 🌐 CDR Method Collaboration Chord
+## CDR Method Collaboration Chord
 
 How do CDR research methods connect through co-authorship? This chord diagram shows the flow of collaboration between pathways — thicker ribbons mean more co-authored papers linking researchers across methods.
 

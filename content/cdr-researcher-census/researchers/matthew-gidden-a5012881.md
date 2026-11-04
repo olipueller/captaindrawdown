@@ -1,7 +1,7 @@
 ---
 title: "Matthew Gidden"
-description: "Matthew Gidden is a Senior Cross-cutting CDR researcher at Climate Analytics in DE. With 200 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Matthew Gidden, Climate Analytics, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 1 by activity, 44 by citations. 200 publications, h-index 39, 10,077 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/matthew-gidden-a5012881/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Climate Analytics</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 1 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 44 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>39</td></tr>
+  <tr><th>Citations</th><td>10,077</td></tr>
+  <tr><th>Publications</th><td>200</td></tr>
+  <tr><th>Share of publications on CDR</th><td>20.5%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-0687-414X">ORCID</a> · <a href="https://openalex.org/A5012881631">OpenAlex</a></td></tr>
+</table>
 
-**Matthew Gidden**  
-Climate Analytics · 🇩🇪 DE
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**Cross-cutting CDR**
-
-Cross-cutting CDR
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 39 |
-| Citations | 10,077 |
-| Publications | 200 |
-| CDR Focus | 20.5% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -95,11 +88,6 @@ Cross-cutting CDR
 | 2022 | [The contribution of bioenergy to the decarbonization of transport: a multi-model assessment](https://doi.org/10.1007/s10584-021-03245-3) | BECCS | 21 |
 | 2021 | [Implications of current net zero targets for long-term emissions pathways and warming levels](https://doi.org/10.5194/egusphere-egu21-11018) | Cross-cutting CDR | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0003-0687-414X)
-- [OpenAlex](https://openalex.org/A5012881631)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

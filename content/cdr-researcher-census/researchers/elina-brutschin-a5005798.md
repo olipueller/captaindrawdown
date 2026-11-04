@@ -1,7 +1,7 @@
 ---
 title: "Elina Brutschin"
-description: "Elina Brutschin is a Senior Cross-cutting CDR researcher at International Institute for Applied Systems Analysis in AT. With 73 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Elina Brutschin, International Institute for Applied Systems Analysis, Austria. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 25 by activity, 51 by citations. 73 publications, h-index 21, 2,229 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/elina-brutschin-a5005798/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>International Institute for Applied Systems Analysis</td></tr>
+  <tr><th>Country</th><td>Austria</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 25 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 51 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>21</td></tr>
+  <tr><th>Citations</th><td>2,229</td></tr>
+  <tr><th>Publications</th><td>73</td></tr>
+  <tr><th>Share of publications on CDR</th><td>19.2%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-7040-3057">ORCID</a> · <a href="https://openalex.org/A5005798398">OpenAlex</a></td></tr>
+</table>
 
-**Elina Brutschin**  
-International Institute for Applied Systems Analysis · 🇦🇹 AT
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**Cross-cutting CDR**
-
-Cross-cutting CDR
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 21 |
-| Citations | 2,229 |
-| Publications | 73 |
-| CDR Focus | 19.2% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -70,11 +63,6 @@ Cross-cutting CDR
 | 2023 | [Fairness and feasibility in deep mitigation pathways with novel carbon dioxide removal considering institutional capacity to mitigate](https://doi.org/10.1088/1748-9326/acd8d5) | DAC | 39 |
 | 2023 | [Secure robust carbon dioxide removal policy through credible certification](https://doi.org/10.1038/s43247-023-01014-x) | Cross-cutting CDR | 34 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-7040-3057)
-- [OpenAlex](https://openalex.org/A5005798398)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

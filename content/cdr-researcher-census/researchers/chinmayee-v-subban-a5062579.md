@@ -1,7 +1,7 @@
 ---
 title: "Chinmayee V. Subban"
-description: "Chinmayee V. Subban is a Senior Ocean CDR researcher at Pacific Northwest National Laboratory in US. With 55 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Chinmayee V. Subban, Pacific Northwest National Laboratory, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 65 by activity, 585 by citations. 55 publications, h-index 14, 849 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/chinmayee-v-subban-a5062579/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Pacific Northwest National Laboratory</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>rank 65 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 585 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>14</td></tr>
+  <tr><th>Citations</th><td>849</td></tr>
+  <tr><th>Publications</th><td>55</td></tr>
+  <tr><th>Share of publications on CDR</th><td>21.8%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-0100-4121">ORCID</a> · <a href="https://openalex.org/A5062579057">OpenAlex</a></td></tr>
+</table>
 
-**Chinmayee V. Subban**  
-Pacific Northwest National Laboratory · 🇺🇸 US
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**Ocean CDR**
-
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 14 |
-| Citations | 849 |
-| Publications | 55 |
-| CDR Focus | 21.8% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -67,11 +60,6 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | 2022 | [Ocean Deacidification Technologies for Marine Aquaculture](https://doi.org/10.3390/jmse10040523) | Ocean CDR | 3 |
 | 2022 | [Optimizing biological carbon uptake by regulating carbonate-bicarbonate equilibrium](http://doi.org/10.2172/1988300) | Ocean CDR | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-0100-4121)
-- [OpenAlex](https://openalex.org/A5062579057)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

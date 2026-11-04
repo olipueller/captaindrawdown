@@ -1,7 +1,7 @@
 ---
 title: "Phil Renforth"
-description: "Phil Renforth is an Eminent Ocean CDR researcher at Heriot-Watt University in GB. With 159 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Phil Renforth, Heriot-Watt University, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 5 by activity, 3 by citations; Enhanced Weathering: rank 13 by activity, 3 by citations; DAC: rank 60 by activity, 62 by citations; Cross-cutting CDR: rank 88 by activity, 1254 by citations. 159 publications, h-index 44, 9,645 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/phil-renforth-a5011758/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,24 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Heriot-Watt University</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>rank 5 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 3 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>rank 13 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 3 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>rank 60 <a href="/data/researchers/dac/">by activity</a>, rank 62 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 88 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 1254 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>44</td></tr>
+  <tr><th>Citations</th><td>9,645</td></tr>
+  <tr><th>Publications</th><td>159</td></tr>
+  <tr><th>Share of publications on CDR</th><td>42.1%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-1460-9947">ORCID</a> · <a href="https://openalex.org/A5011758718">OpenAlex</a></td></tr>
+</table>
 
-**Phil Renforth**  
-Heriot-Watt University · 🇬🇧 GB
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Ocean CDR**
-
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 44 |
-| Citations | 9,645 |
-| Publications | 159 |
-| CDR Focus | 42.1% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -122,11 +118,6 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | 2021 | [Global carbon dioxide removal potential of waste materials from metal and diamond mining](https://doi.org/10.7185/gold2021.3951) | Enhanced Weathering | 4 |
 | 2021 | [Characterising rates and chemistry of basalt dissolution in agriculture soil cores to assess potential of enhanced weathering](https://doi.org/10.7185/gold2021.7234) | Enhanced Weathering | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-1460-9947)
-- [OpenAlex](https://openalex.org/A5011758718)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

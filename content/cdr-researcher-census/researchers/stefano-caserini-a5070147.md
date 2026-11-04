@@ -1,7 +1,7 @@
 ---
 title: "Stefano Caserini"
-description: "Stefano Caserini is a Senior Ocean CDR researcher at University of Parma in IT. With 126 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Stefano Caserini, University of Parma, Italy. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 44 by activity, 39 by citations. 126 publications, h-index 23, 1,847 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/stefano-caserini-a5070147/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>University of Parma</td></tr>
+  <tr><th>Country</th><td>Italy</td></tr>
+  <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>rank 44 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 39 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>23</td></tr>
+  <tr><th>Citations</th><td>1,847</td></tr>
+  <tr><th>Publications</th><td>126</td></tr>
+  <tr><th>Share of publications on CDR</th><td>11.9%</td></tr>
+  <tr><th>Trajectory</th><td>Declining</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-7937-9206">ORCID</a> · <a href="https://openalex.org/A5070147967">OpenAlex</a></td></tr>
+</table>
 
-**Stefano Caserini**  
-University of Parma · 🇮🇹 IT
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**Ocean CDR**
-
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 23 |
-| Citations | 1,847 |
-| Publications | 126 |
-| CDR Focus | 11.9% |
-| Trajectory | Declining |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -71,11 +64,6 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | 2022 | [TECNOLOGIE, CONSUMI ENERGETICI, COSTI E IMPATTI AMBIENTALI NELL’ESCAVAZIONE, LAVORAZIONE E TRASPORTO DI CALCARE E OLIVINA](https://openalex.org/W7218629512) | Enhanced Weathering | 0 |
 | 2021 | [Alkalinization Scenarios in the Mediterranean Sea for Efficient Removal of Atmospheric CO2 and the Mitigation of Ocean Acidification](https://doi.org/10.3389/fclim.2021.614537) | Ocean CDR | 76 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-7937-9206)
-- [OpenAlex](https://openalex.org/A5070147967)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

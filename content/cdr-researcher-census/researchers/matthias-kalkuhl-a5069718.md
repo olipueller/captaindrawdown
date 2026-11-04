@@ -1,7 +1,7 @@
 ---
 title: "Matthias Kalkuhl"
-description: "Matthias Kalkuhl is a Senior Cross-cutting CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 231 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Matthias Kalkuhl, Potsdam Institute for Climate Impact Research, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 74 by activity, 980 by citations. 231 publications, h-index 32, 4,829 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/matthias-kalkuhl-a5069718/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Potsdam Institute for Climate Impact Research</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 74 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 980 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>32</td></tr>
+  <tr><th>Citations</th><td>4,829</td></tr>
+  <tr><th>Publications</th><td>231</td></tr>
+  <tr><th>Share of publications on CDR</th><td>3.9%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-4797-6628">ORCID</a> · <a href="https://openalex.org/A5069718268">OpenAlex</a></td></tr>
+</table>
 
-**Matthias Kalkuhl**  
-Potsdam Institute for Climate Impact Research · 🇩🇪 DE
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**Cross-cutting CDR**
-
-Cross-cutting CDR
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 32 |
-| Citations | 4,829 |
-| Publications | 231 |
-| CDR Focus | 3.9% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -64,11 +57,6 @@ Cross-cutting CDR
 | 2022 | [Optimal pricing for carbon dioxide removal under inter-regional leakage](https://doi.org/10.1016/j.jeem.2022.102769) | Cross-cutting CDR | 19 |
 | 2022 | [Pigou's Advice and Sisyphus’ Warning: Carbon Pricing with Non-Permanent Carbon-Dioxide Removal](https://doi.org/10.2139/ssrn.4315996) | Cross-cutting CDR | 13 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0003-4797-6628)
-- [OpenAlex](https://openalex.org/A5069718268)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

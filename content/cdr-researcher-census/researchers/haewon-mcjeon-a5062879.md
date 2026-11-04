@@ -1,7 +1,7 @@
 ---
 title: "Haewon McJeon"
-description: "Haewon McJeon is an Eminent Cross-cutting CDR researcher at Korea Advanced Institute of Science and Technology in KR. With 199 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Haewon McJeon, Korea Advanced Institute of Science and Technology, South Korea. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 7 by activity, 101 by citations; DAC: rank 86 by activity, 64 by citations. 199 publications, h-index 42, 7,384 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/haewon-mcjeon-a5062879/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,22 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Korea Advanced Institute of Science and Technology</td></tr>
+  <tr><th>Country</th><td>South Korea</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 7 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 101 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>rank 86 <a href="/data/researchers/dac/">by activity</a>, rank 64 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>42</td></tr>
+  <tr><th>Citations</th><td>7,384</td></tr>
+  <tr><th>Publications</th><td>199</td></tr>
+  <tr><th>Share of publications on CDR</th><td>16.6%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-0348-5704">ORCID</a> · <a href="https://openalex.org/A5062879289">OpenAlex</a></td></tr>
+</table>
 
-**Haewon McJeon**  
-Korea Advanced Institute of Science and Technology · 🇰🇷 KR
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Cross-cutting CDR**
-
-Cross-cutting CDR
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 42 |
-| Citations | 7,384 |
-| Publications | 199 |
-| CDR Focus | 16.6% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -88,11 +82,6 @@ Cross-cutting CDR
 | 2021 | [Effects of Direct Air Capture Technology Availability on Stranded Assets and Committed Emissions in the Power Sector](https://doi.org/10.3389/fclim.2021.660787) | BECCS; DAC | 24 |
 | 2021 | [Fossil energy deployment through midcentury consistent with 2°C climate stabilization](https://doi.org/10.1016/j.egycc.2021.100034) | Cross-cutting CDR | 8 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0003-0348-5704)
-- [OpenAlex](https://openalex.org/A5062879289)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

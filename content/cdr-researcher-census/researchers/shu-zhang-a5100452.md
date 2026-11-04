@@ -1,7 +1,7 @@
 ---
 title: "Shu Zhang"
-description: "Shu Zhang is an Eminent Biochar researcher at Nanjing Forestry University in CN. With 908 publications and an h-index of 81, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Shu Zhang, Nanjing Forestry University, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 83 by activity, 835 by citations. 908 publications, h-index 81, 27,361 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/shu-zhang-a5100452/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Nanjing Forestry University</td></tr>
+  <tr><th>Country</th><td>China</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>rank 83 <a href="/data/researchers/biochar/">by activity</a>, rank 835 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>81</td></tr>
+  <tr><th>Citations</th><td>27,361</td></tr>
+  <tr><th>Publications</th><td>908</td></tr>
+  <tr><th>Share of publications on CDR</th><td>1.0%</td></tr>
+  <tr><th>Trajectory</th><td>Declining</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-4137-0748">ORCID</a> · <a href="https://openalex.org/A5100452875">OpenAlex</a></td></tr>
+</table>
 
-**Shu Zhang**  
-Nanjing Forestry University · 🇨🇳 CN
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 81 |
-| Citations | 27,361 |
-| Publications | 908 |
-| CDR Focus | 1.0% |
-| Trajectory | Declining |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -64,11 +57,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2023 | [Synergistic Effects of N-Containing Heterocyclic and Ca Ligand Structures on the Phosphorus Adsorption of N and Ca Co-Doped Biochar](http://dx.doi.org/10.2139/ssrn.4351045) | Biochar | 0 |
 | 2022 | [Impacts of CO2 atmosphere on property of the biochar from pyrolysis of lignin](https://doi.org/10.1016/j.jaap.2022.105689) | Biochar | 41 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0003-4137-0748)
-- [OpenAlex](https://openalex.org/A5100452875)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

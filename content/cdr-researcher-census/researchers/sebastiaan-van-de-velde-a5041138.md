@@ -1,7 +1,7 @@
 ---
 title: "Sebastiaan van de Velde"
-description: "Sebastiaan van de Velde is a Senior Ocean CDR researcher at University of Otago in NZ. With 145 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Sebastiaan van de Velde, University of Otago, New Zealand. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 86 by activity, 2693 by citations. 145 publications, h-index 23, 1,466 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/sebastiaan-van-de-velde-a5041138/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>University of Otago</td></tr>
+  <tr><th>Country</th><td>New Zealand</td></tr>
+  <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>rank 86 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 2693 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>23</td></tr>
+  <tr><th>Citations</th><td>1,466</td></tr>
+  <tr><th>Publications</th><td>145</td></tr>
+  <tr><th>Share of publications on CDR</th><td>4.8%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-9999-5586">ORCID</a> · <a href="https://openalex.org/A5041138489">OpenAlex</a></td></tr>
+</table>
 
-**Sebastiaan van de Velde**  
-University of Otago · 🇳🇿 NZ
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**Ocean CDR**
-
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 23 |
-| Citations | 1,466 |
-| Publications | 145 |
-| CDR Focus | 4.8% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -63,11 +56,6 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | 2024 | [The age of reason for mineral-based ocean alkalinity enhancement?](https://doi.org/10.46427/gold2024.23317) | Ocean CDR | 0 |
 | 2023 | [Controls on benthic alkalinity fluxes from natural and enhanced silicate weathering in coastal and shelf sediments: new diagenetic model insights](http://dx.doi.org/10.5194/egusphere-egu23-1259) | Enhanced Weathering; Ocean CDR | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-9999-5586)
-- [OpenAlex](https://openalex.org/A5041138489)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

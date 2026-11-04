@@ -1,7 +1,7 @@
 ---
 title: "Selene Cobo"
-description: "Selene Cobo is a Mid-career BECCS researcher at Universidad de Cantabria in ES. With 35 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Selene Cobo, Universidad de Cantabria, Spain. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 62 by activity, 116 by citations. 35 publications, h-index 13, 758 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/selene-cobo-a5082806/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Universidad de Cantabria</td></tr>
+  <tr><th>Country</th><td>Spain</td></tr>
+  <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>rank 62 <a href="/data/researchers/beccs/">by activity</a>, rank 116 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>13</td></tr>
+  <tr><th>Citations</th><td>758</td></tr>
+  <tr><th>Publications</th><td>35</td></tr>
+  <tr><th>Share of publications on CDR</th><td>31.4%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-2879-6261">ORCID</a> · <a href="https://openalex.org/A5082806753">OpenAlex</a></td></tr>
+</table>
 
-**Selene Cobo**  
-Universidad de Cantabria · 🇪🇸 ES
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**BECCS**
-
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 13 |
-| Citations | 758 |
-| Publications | 35 |
-| CDR Focus | 31.4% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -65,11 +58,6 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | 2021 | [Delaying carbon dioxide removal in the European Union puts climate targets at risk](https://doi.org/10.1038/s41467-021-26680-3) | BECCS; DAC | 93 |
 | 2021 | [The consequences of inaction on carbon dioxide removal](https://doi.org/10.21203/rs.3.rs-422173/v1) | BECCS; DAC | 3 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-2879-6261)
-- [OpenAlex](https://openalex.org/A5082806753)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

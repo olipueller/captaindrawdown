@@ -1,7 +1,7 @@
 ---
 title: "Hassan Shokry"
-description: "Hassan Shokry is a Senior Biochar researcher at Egypt-Japan University of Science and Technology in EG. With 99 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Hassan Shokry, Egypt-Japan University of Science and Technology, Egypt. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 74 by activity, 364 by citations. 99 publications, h-index 26, 2,555 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/hassan-shokry-a5058291/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Egypt-Japan University of Science and Technology</td></tr>
+  <tr><th>Country</th><td>Egypt</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>rank 74 <a href="/data/researchers/biochar/">by activity</a>, rank 364 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>26</td></tr>
+  <tr><th>Citations</th><td>2,555</td></tr>
+  <tr><th>Publications</th><td>99</td></tr>
+  <tr><th>Share of publications on CDR</th><td>7.1%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-2712-2035">ORCID</a> · <a href="https://openalex.org/A5058291586">OpenAlex</a></td></tr>
+</table>
 
-**Hassan Shokry**  
-Egypt-Japan University of Science and Technology ·  EG
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 26 |
-| Citations | 2,555 |
-| Publications | 99 |
-| CDR Focus | 7.1% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -64,11 +57,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2023 | [Biosorption of Congo Red dye from aqueous solutions using pristine biochar and ZnO biochar from green pea peels](https://openalex.org/W7144427956) | Biochar | 0 |
 | 2022 | [Biosorption of Congo Red dye from aqueous solutions using pristine biochar and ZnO biochar from green pea peels](https://doi.org/10.1016/j.cherd.2022.12.003) | Biochar | 119 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0003-2712-2035)
-- [OpenAlex](https://openalex.org/A5058291586)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

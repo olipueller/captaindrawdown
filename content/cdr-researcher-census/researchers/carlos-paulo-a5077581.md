@@ -1,7 +1,7 @@
 ---
 title: "Carlos Paulo"
-description: "Carlos Paulo is a Senior Enhanced Weathering researcher at Trent University in CA. With 61 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Carlos Paulo, Trent University, Canada. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 46 by activity, 43 by citations. 61 publications, h-index 17, 814 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/carlos-paulo-a5077581/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Trent University</td></tr>
+  <tr><th>Country</th><td>Canada</td></tr>
+  <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>rank 46 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 43 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>17</td></tr>
+  <tr><th>Citations</th><td>814</td></tr>
+  <tr><th>Publications</th><td>61</td></tr>
+  <tr><th>Share of publications on CDR</th><td>27.9%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-0490-7497">ORCID</a> · <a href="https://openalex.org/A5077581438">OpenAlex</a></td></tr>
+</table>
 
-**Carlos Paulo**  
-Trent University · 🇨🇦 CA
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**Enhanced Weathering**
-
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 17 |
-| Citations | 814 |
-| Publications | 61 |
-| CDR Focus | 27.9% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -72,11 +65,6 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | 2021 | [Direct measurement of CO<sub>2</sub> fluxes into kimberlite residues and powdered rocks: Implications for enhanced weathering](https://doi.org/10.7185/gold2021.4858) | Enhanced Weathering | 0 |
 | 2021 | [Effects of mineral reactivity and seasonality on enhanced rock weathering of kimberlite mine residues](https://doi.org/10.7185/gold2021.5357) | Enhanced Weathering | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0003-0490-7497)
-- [OpenAlex](https://openalex.org/A5077581438)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

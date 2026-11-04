@@ -1,7 +1,7 @@
 ---
 title: "Jasper Roussard"
-description: "Jasper Roussard is an Early-career Enhanced Weathering researcher at University of Antwerp in BE. With 15 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Jasper Roussard, University of Antwerp, Belgium. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 66 by activity, 770 by citations. 15 publications, h-index 3, 24 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/jasper-roussard-a5094096/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -22,28 +22,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>University of Antwerp</td></tr>
+  <tr><th>Country</th><td>Belgium</td></tr>
+  <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>rank 66 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 770 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Early-career</td></tr>
+  <tr><th>h-index</th><td>3</td></tr>
+  <tr><th>Citations</th><td>24</td></tr>
+  <tr><th>Publications</th><td>15</td></tr>
+  <tr><th>Share of publications on CDR</th><td>53.3%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://openalex.org/A5094096172">OpenAlex</a></td></tr>
+</table>
 
-**Jasper Roussard**  
-University of Antwerp · 🇧🇪 BE
-
-**Career Stage:** Early-career
-
-## CDR Specialization
-
-**Enhanced Weathering**
-
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 3 |
-| Citations | 24 |
-| Publications | 15 |
-| CDR Focus | 53.3% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -60,10 +53,6 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | 2025 | [Increased soil CO <sub>2</sub> emissions after basalt amendment were partly offset by biochar addition in an urban field experiment](https://doi.org/10.5194/egusphere-2025-3232) | Biochar; Enhanced Weathering | 0 |
 | 2024 | [Feeling the &amp;#8220;pulse&amp;#8221;: long-term studies are key to understanding carbon dynamics in bio-weathering](https://doi.org/10.5194/egusphere-egu24-9670) | Enhanced Weathering | 0 |
 
-## External Profiles
-
-- [OpenAlex](https://openalex.org/A5094096172)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

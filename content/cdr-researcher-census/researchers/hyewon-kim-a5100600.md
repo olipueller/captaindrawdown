@@ -1,7 +1,7 @@
 ---
 title: "Hyewon Kim"
-description: "Hyewon Kim is a Senior Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 151 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Hyewon Kim, Woods Hole Oceanographic Institution, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 62 by activity, 832 by citations. 151 publications, h-index 23, 1,530 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/hyewon-kim-a5100600/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Woods Hole Oceanographic Institution</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>rank 62 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 832 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>23</td></tr>
+  <tr><th>Citations</th><td>1,530</td></tr>
+  <tr><th>Publications</th><td>151</td></tr>
+  <tr><th>Share of publications on CDR</th><td>4.6%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-1280-3340">ORCID</a> · <a href="https://openalex.org/A5100600220">OpenAlex</a></td></tr>
+</table>
 
-**Hyewon Kim**  
-Woods Hole Oceanographic Institution · 🇺🇸 US
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**Ocean CDR**
-
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 23 |
-| Citations | 1,530 |
-| Publications | 151 |
-| CDR Focus | 4.6% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -63,11 +56,6 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | 2025 | [Development of the ecological activity index as an integrative ecosystem assessment and monitoring asset for ocean alkalinity enhancement](https://doi.org/10.21203/rs.3.rs-6371725/v1) | Ocean CDR | 4 |
 | 2025 | [Carbonate System Site Selection Characteristics for Ocean Alkalinity Enhancement in the US Northeast Shelf and Slope](https://doi.org/10.1029/2025jg009063) | Ocean CDR | 2 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-1280-3340)
-- [OpenAlex](https://openalex.org/A5100600220)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

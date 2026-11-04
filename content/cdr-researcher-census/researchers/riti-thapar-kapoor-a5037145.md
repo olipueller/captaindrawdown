@@ -1,7 +1,7 @@
 ---
 title: "Riti Thapar Kapoor"
-description: "Riti Thapar Kapoor is a Mid-career Biochar researcher at Amity University in IN. With 125 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Riti Thapar Kapoor, Amity University, India. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 10 by activity, 2070 by citations. 125 publications, h-index 17, 1,471 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/riti-thapar-kapoor-a5037145/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Amity University</td></tr>
+  <tr><th>Country</th><td>India</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>rank 10 <a href="/data/researchers/biochar/">by activity</a>, rank 2070 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>17</td></tr>
+  <tr><th>Citations</th><td>1,471</td></tr>
+  <tr><th>Publications</th><td>125</td></tr>
+  <tr><th>Share of publications on CDR</th><td>11.2%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-7021-9866">ORCID</a> · <a href="https://openalex.org/A5037145417">OpenAlex</a></td></tr>
+</table>
 
-**Riti Thapar Kapoor**  
-Amity University · 🇮🇳 IN
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 17 |
-| Citations | 1,471 |
-| Publications | 125 |
-| CDR Focus | 11.2% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -69,11 +62,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2022 | [Removal of Emerging Contaminants by Biochar](https://doi.org/10.1201/9781003203438-3) | Biochar | 1 |
 | 2021 | [Biochar a sustainable solution for wastewater treatment: Current status and perspectives](https://doi.org/10.1016/b978-0-12-822503-5.00008-4) | Biochar | 3 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-7021-9866)
-- [OpenAlex](https://openalex.org/A5037145417)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

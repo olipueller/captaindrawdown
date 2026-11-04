@@ -1,7 +1,7 @@
 ---
 title: "Daniela Thrän"
-description: "Daniela Thrän is an Eminent BECCS researcher at Helmholtz Centre for Environmental Research in DE. With 474 publications and an h-index of 48, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Daniela Thrän, Helmholtz Centre for Environmental Research, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 1 by activity, 325 by citations; Cross-cutting CDR: rank 79 by activity, 618 by citations. 474 publications, h-index 48, 7,795 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/daniela-thran-a5012569/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,22 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Helmholtz Centre for Environmental Research</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>rank 1 <a href="/data/researchers/beccs/">by activity</a>, rank 325 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 79 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 618 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>48</td></tr>
+  <tr><th>Citations</th><td>7,795</td></tr>
+  <tr><th>Publications</th><td>474</td></tr>
+  <tr><th>Share of publications on CDR</th><td>3.6%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-6573-6401">ORCID</a> · <a href="https://openalex.org/A5012569758">OpenAlex</a></td></tr>
+</table>
 
-**Daniela Thrän**  
-Helmholtz Centre for Environmental Research · 🇩🇪 DE
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**BECCS**
-
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 48 |
-| Citations | 7,795 |
-| Publications | 474 |
-| CDR Focus | 3.6% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -77,11 +71,6 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | 2022 | [Scoping carbon dioxide removal options for Germany–What is their potential contribution to Net-Zero CO2?](https://doi.org/10.3389/fclim.2022.810343) | Cross-cutting CDR | 38 |
 | 2022 | [Framework for Assessing the Feasibility of Carbon Dioxide Removal Options Within the National Context of Germany](https://doi.org/10.3389/fclim.2022.758628) | Cross-cutting CDR | 37 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-6573-6401)
-- [OpenAlex](https://openalex.org/A5012569758)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

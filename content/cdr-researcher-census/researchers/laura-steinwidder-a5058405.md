@@ -1,7 +1,7 @@
 ---
 title: "Laura Steinwidder"
-description: "Laura Steinwidder is a Mid-career Enhanced Weathering researcher at University of Antwerp in BE. With 40 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Laura Steinwidder, University of Antwerp, Belgium. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 11 by activity, 220 by citations. 40 publications, h-index 6, 122 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/laura-steinwidder-a5058405/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>University of Antwerp</td></tr>
+  <tr><th>Country</th><td>Belgium</td></tr>
+  <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>rank 11 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 220 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>6</td></tr>
+  <tr><th>Citations</th><td>122</td></tr>
+  <tr><th>Publications</th><td>40</td></tr>
+  <tr><th>Share of publications on CDR</th><td>50.0%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-9229-1786">ORCID</a> · <a href="https://openalex.org/A5058405084">OpenAlex</a></td></tr>
+</table>
 
-**Laura Steinwidder**  
-University of Antwerp · 🇧🇪 BE
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**Enhanced Weathering**
-
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 6 |
-| Citations | 122 |
-| Publications | 40 |
-| CDR Focus | 50.0% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -75,11 +68,6 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | 2024 | [Exploring the Synergy of Enhanced Weathering and Rhizobacteria in Sustainable Agriculture](https://doi.org/10.5194/egusphere-egu24-16303) | Enhanced Weathering | 1 |
 | 2024 | [Feeling the &amp;#8220;pulse&amp;#8221;: long-term studies are key to understanding carbon dynamics in bio-weathering](https://doi.org/10.5194/egusphere-egu24-9670) | Enhanced Weathering | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-9229-1786)
-- [OpenAlex](https://openalex.org/A5058405084)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

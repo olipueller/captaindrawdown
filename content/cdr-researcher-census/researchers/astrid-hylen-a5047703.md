@@ -1,7 +1,7 @@
 ---
 title: "Astrid Hylén"
-description: "Astrid Hylén is a Mid-career Enhanced Weathering researcher at CEREGE in FR. With 62 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Astrid Hylén, CEREGE, France. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 65 by activity, 404 by citations; Ocean CDR: rank 77 by activity, 564 by citations. 62 publications, h-index 12, 457 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/astrid-hylen-a5047703/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,22 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>CEREGE</td></tr>
+  <tr><th>Country</th><td>France</td></tr>
+  <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>rank 65 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 404 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>rank 77 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 564 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>12</td></tr>
+  <tr><th>Citations</th><td>457</td></tr>
+  <tr><th>Publications</th><td>62</td></tr>
+  <tr><th>Share of publications on CDR</th><td>17.7%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-4037-0033">ORCID</a> · <a href="https://openalex.org/A5047703788">OpenAlex</a></td></tr>
+</table>
 
-**Astrid Hylén**  
-CEREGE · 🇫🇷 FR
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**Enhanced Weathering**
-
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 12 |
-| Citations | 457 |
-| Publications | 62 |
-| CDR Focus | 17.7% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -68,11 +62,6 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | 2023 | [Ocean alkalinity enhancement through enhanced silicate weathering in coastal areas: a long-term mesocosm study](https://doi.org/10.5194/egusphere-egu23-14128) | Enhanced Weathering; Ocean CDR | 2 |
 | 2023 | [Hawaiian beaches as natural analogues for long-term rates and impacts of Coastal Enhanced Silicate Weathering](https://openalex.org/W4389561572) | Enhanced Weathering | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0003-4037-0033)
-- [OpenAlex](https://openalex.org/A5047703788)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

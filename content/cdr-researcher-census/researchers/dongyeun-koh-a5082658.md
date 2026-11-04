@@ -1,7 +1,7 @@
 ---
 title: "Dong‐Yeun Koh"
-description: "Dong‐Yeun Koh is a Senior DAC researcher at Korea Advanced Institute of Science and Technology in KR. With 144 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Dong‐Yeun Koh, Korea Advanced Institute of Science and Technology, South Korea. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 68 by activity, 2130 by citations. 144 publications, h-index 32, 3,415 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/dongyeun-koh-a5082658/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Korea Advanced Institute of Science and Technology</td></tr>
+  <tr><th>Country</th><td>South Korea</td></tr>
+  <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>rank 68 <a href="/data/researchers/dac/">by activity</a>, rank 2130 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>32</td></tr>
+  <tr><th>Citations</th><td>3,415</td></tr>
+  <tr><th>Publications</th><td>144</td></tr>
+  <tr><th>Share of publications on CDR</th><td>3.5%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-6049-9371">ORCID</a> · <a href="https://openalex.org/A5082658370">OpenAlex</a></td></tr>
+</table>
 
-**Dong‐Yeun Koh**  
-Korea Advanced Institute of Science and Technology · 🇰🇷 KR
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 32 |
-| Citations | 3,415 |
-| Publications | 144 |
-| CDR Focus | 3.5% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -60,11 +53,6 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | 2026 | [Cycle-by-Cycle Optimization of Direct Air Capture (DAC) Operation under Varying Ambient Air Conditions](https://openalex.org/W7204235278) | DAC | 0 |
 | 2026 | [Impregnation of liquid-like nanoparticle organic hybrid materials in mesoporous fiber sorbent with hierarchical structures for scalable direct air capture](https://openalex.org/W7208784480) | DAC | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-6049-9371)
-- [OpenAlex](https://openalex.org/A5082658370)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

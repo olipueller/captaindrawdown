@@ -1,7 +1,7 @@
 ---
 title: "Lyla L. Taylor"
-description: "Lyla L. Taylor is a Senior Enhanced Weathering researcher at University of Sheffield in GB. With 57 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Lyla L. Taylor, University of Sheffield, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 100 by activity, 6 by citations. 57 publications, h-index 23, 3,317 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/lyla-l-taylor-a5001741/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>University of Sheffield</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>rank 100 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 6 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>23</td></tr>
+  <tr><th>Citations</th><td>3,317</td></tr>
+  <tr><th>Publications</th><td>57</td></tr>
+  <tr><th>Share of publications on CDR</th><td>15.8%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-3406-7452">ORCID</a> · <a href="https://openalex.org/A5001741530">OpenAlex</a></td></tr>
+</table>
 
-**Lyla L. Taylor**  
-University of Sheffield · 🇬🇧 GB
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**Enhanced Weathering**
-
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 23 |
-| Citations | 3,317 |
-| Publications | 57 |
-| CDR Focus | 15.8% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -64,11 +57,6 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | 2021 | [Effects of mineralogy, chemistry and physical properties of basalts on carbon capture potential and plant-nutrient element release via enhanced weathering](https://doi.org/10.1016/j.apgeochem.2021.105023) | Enhanced Weathering | 162 |
 | 2021 | [Increased carbon capture by a silicate-treated forested watershed affected by acid deposition](https://doi.org/10.5194/bg-18-169-2021) | Enhanced Weathering | 101 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-3406-7452)
-- [OpenAlex](https://openalex.org/A5001741530)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

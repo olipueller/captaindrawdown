@@ -1,7 +1,7 @@
 ---
 title: "Junfeng Su"
-description: "Junfeng Su is an Eminent Biochar researcher at Xi'an University of Architecture and Technology in CN. With 266 publications and an h-index of 51, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Junfeng Su, Xi'an University of Architecture and Technology, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 17 by activity, 144 by citations. 266 publications, h-index 51, 7,455 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/junfeng-su-a5101652/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Xi'an University of Architecture and Technology</td></tr>
+  <tr><th>Country</th><td>China</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>rank 17 <a href="/data/researchers/biochar/">by activity</a>, rank 144 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>51</td></tr>
+  <tr><th>Citations</th><td>7,455</td></tr>
+  <tr><th>Publications</th><td>266</td></tr>
+  <tr><th>Share of publications on CDR</th><td>5.6%</td></tr>
+  <tr><th>Trajectory</th><td>Declining</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-8434-0851">ORCID</a> · <a href="https://openalex.org/A5101652146">OpenAlex</a></td></tr>
+</table>
 
-**Junfeng Su**  
-Xi'an University of Architecture and Technology · 🇨🇳 CN
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 51 |
-| Citations | 7,455 |
-| Publications | 266 |
-| CDR Focus | 5.6% |
-| Trajectory | Declining |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -70,11 +63,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2021 | [Simultaneous removal of nitrate and diethyl phthalate using a novel sponge–based biocarrier combined modified walnut shell biochar with Fe3O4 in the immobilized bioreactor](https://doi.org/10.1016/j.jhazmat.2021.125578) | Biochar | 74 |
 | 2021 | [Cornstalk biochar promoted the denitrification performance and cellulose degradation rate of Burkholderia sp. CF6](https://doi.org/10.1016/j.jece.2021.106998) | Biochar | 21 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-8434-0851)
-- [OpenAlex](https://openalex.org/A5101652146)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

@@ -1,7 +1,7 @@
 ---
 title: "Giuseppe Cipolla"
-description: "Giuseppe Cipolla is a Senior Enhanced Weathering researcher at University of Palermo in IT. With 52 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Giuseppe Cipolla, University of Palermo, Italy. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 95 by activity, 68 by citations. 52 publications, h-index 10, 564 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/giuseppe-cipolla-a5019374/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>University of Palermo</td></tr>
+  <tr><th>Country</th><td>Italy</td></tr>
+  <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>rank 95 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 68 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>10</td></tr>
+  <tr><th>Citations</th><td>564</td></tr>
+  <tr><th>Publications</th><td>52</td></tr>
+  <tr><th>Share of publications on CDR</th><td>25.0%</td></tr>
+  <tr><th>Trajectory</th><td>Exiting</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-5306-4935">ORCID</a> · <a href="https://openalex.org/A5019374730">OpenAlex</a></td></tr>
+</table>
 
-**Giuseppe Cipolla**  
-University of Palermo · 🇮🇹 IT
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**Enhanced Weathering**
-
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 10 |
-| Citations | 564 |
-| Publications | 52 |
-| CDR Focus | 25.0% |
-| Trajectory | Exiting |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -68,11 +61,6 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | 2021 | [The role of hydrological processes on enhanced weathering for carbon sequestration in soils in tropical areas](https://doi.org/10.5194/egusphere-egu21-4075) | Enhanced Weathering | 0 |
 | 2021 | [THE ROLE OF HYDROLOGICAL PROCESSES ON ENHANCED WEATHERING FOR CARBON SEQUESTRATION IN AGRICULTURAL SOILS](https://openalex.org/W3215743429) | Enhanced Weathering | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-5306-4935)
-- [OpenAlex](https://openalex.org/A5019374730)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

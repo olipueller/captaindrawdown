@@ -1,7 +1,7 @@
 ---
 title: "Shengdao Shan"
-description: "Shengdao Shan is an Eminent Biochar researcher at Zhejiang University of Science and Technology in CN. With 189 publications and an h-index of 48, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Shengdao Shan, Zhejiang University of Science and Technology, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 21 by activity, 175 by citations. 189 publications, h-index 48, 6,797 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/shengdao-shan-a5110527/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -22,28 +22,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Zhejiang University of Science and Technology</td></tr>
+  <tr><th>Country</th><td>China</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>rank 21 <a href="/data/researchers/biochar/">by activity</a>, rank 175 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>48</td></tr>
+  <tr><th>Citations</th><td>6,797</td></tr>
+  <tr><th>Publications</th><td>189</td></tr>
+  <tr><th>Share of publications on CDR</th><td>6.3%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://openalex.org/A5110527155">OpenAlex</a></td></tr>
+</table>
 
-**Shengdao Shan**  
-Zhejiang University of Science and Technology · 🇨🇳 CN
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 48 |
-| Citations | 6,797 |
-| Publications | 189 |
-| CDR Focus | 6.3% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -63,10 +56,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2024 | ["Active carbon" is more advantageous to the bacterial community in the rice rhizosphere than "stable carbon"](https://doi.org/10.1016/j.csbj.2024.03.012) | Biochar | 8 |
 | 2022 | [Improved ginseng production under continuous cropping through soil health reinforcement and rhizosphere microbial manipulation with biochar: a field study of<i>Panax ginseng</i>from Northeast China](https://doi.org/10.1093/hr/uhac108) | Biochar | 71 |
 
-## External Profiles
-
-- [OpenAlex](https://openalex.org/A5110527155)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

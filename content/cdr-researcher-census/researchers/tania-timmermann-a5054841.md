@@ -1,7 +1,7 @@
 ---
 title: "Tania Timmermann"
-description: "Tania Timmermann is a Senior Enhanced Weathering researcher at Andes Ag, Inc. (United States) in US. With 25 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Tania Timmermann, Andes Ag, Inc. (United States), United States. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 71 by activity, 1007 by citations. 25 publications, h-index 15, 1,135 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/tania-timmermann-a5054841/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -22,28 +22,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Andes Ag, Inc. (United States)</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>rank 71 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 1007 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>15</td></tr>
+  <tr><th>Citations</th><td>1,135</td></tr>
+  <tr><th>Publications</th><td>25</td></tr>
+  <tr><th>Share of publications on CDR</th><td>32.0%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://openalex.org/A5054841325">OpenAlex</a></td></tr>
+</table>
 
-**Tania Timmermann**  
-Andes Ag, Inc. (United States) · 🇺🇸 US
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**Enhanced Weathering**
-
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 15 |
-| Citations | 1,135 |
-| Publications | 25 |
-| CDR Focus | 32.0% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -59,10 +52,6 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | 2026 | [Author Comment on egusphere-2026-4145: Supplemental Tables and Figures](https://openalex.org/W7172528878) | Enhanced Weathering | 0 |
 | 2025 | [Harnessing Microbes to Weather Native Silicates in Agricultural Soils for Scalable Carbon Dioxide Removal](https://doi.org/10.1111/gcb.70216) | Enhanced Weathering | 16 |
 
-## External Profiles
-
-- [OpenAlex](https://openalex.org/A5054841325)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

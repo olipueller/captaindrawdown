@@ -1,7 +1,7 @@
 ---
 title: "Daniel Valadão Silva"
-description: "Daniel Valadão Silva is a Senior Biochar researcher at Universidade Federal Rural do Semi-Árido in BR. With 237 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Daniel Valadão Silva, Universidade Federal Rural do Semi-Árido, Brazil. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 93 by activity, 6864 by citations. 237 publications, h-index 22, 1,857 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/daniel-valadao-silva-a5018039/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Universidade Federal Rural do Semi-Árido</td></tr>
+  <tr><th>Country</th><td>Brazil</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>rank 93 <a href="/data/researchers/biochar/">by activity</a>, rank 6864 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>22</td></tr>
+  <tr><th>Citations</th><td>1,857</td></tr>
+  <tr><th>Publications</th><td>237</td></tr>
+  <tr><th>Share of publications on CDR</th><td>3.0%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-0644-2849">ORCID</a> · <a href="https://openalex.org/A5018039712">OpenAlex</a></td></tr>
+</table>
 
-**Daniel Valadão Silva**  
-Universidade Federal Rural do Semi-Árido · 🇧🇷 BR
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 22 |
-| Citations | 1,857 |
-| Publications | 237 |
-| CDR Focus | 3.0% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -61,11 +54,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2025 | [Beyond bioenergy with carbon capture and storage: RothC-based assessment of biochar systems for removal and land-based carbon offsets in semi-arid soils of Brazil](https://doi.org/10.1016/j.jclepro.2025.147162) | Biochar | 2 |
 | 2025 | [A Bibliometric‐Based Review of Biochar for Salt‐Affected Soil Restoration: Mapping Research Trends and Future Directions](https://doi.org/10.1002/ldr.70404) | Biochar | 1 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0003-0644-2849)
-- [OpenAlex](https://openalex.org/A5018039712)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

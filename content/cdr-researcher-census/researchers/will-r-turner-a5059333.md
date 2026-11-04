@@ -1,7 +1,7 @@
 ---
 title: "Will R. Turner"
-description: "Will R. Turner is a Senior Enhanced Weathering researcher at Conservation International in US. With 97 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Will R. Turner, Conservation International, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 90 by activity, 2578 by citations. 97 publications, h-index 33, 7,668 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/will-r-turner-a5059333/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Conservation International</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>rank 90 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 2578 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>33</td></tr>
+  <tr><th>Citations</th><td>7,668</td></tr>
+  <tr><th>Publications</th><td>97</td></tr>
+  <tr><th>Share of publications on CDR</th><td>9.3%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-3265-6149">ORCID</a> · <a href="https://openalex.org/A5059333702">OpenAlex</a></td></tr>
+</table>
 
-**Will R. Turner**  
-Conservation International · 🇺🇸 US
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**Enhanced Weathering**
-
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 33 |
-| Citations | 7,668 |
-| Publications | 97 |
-| CDR Focus | 9.3% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -64,11 +57,6 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | 2023 | [Validating geochemical models for enhanced rock weathering: an assessment of model inputs and comparability of model results to experimental data](http://dx.doi.org/10.7185/gold2023.19520) | Enhanced Weathering | 0 |
 | 2021 | [Irrecoverable Carbon: The places we must protect to avert climate catastrophe](https://zenodo.org/record/5706060) | Cross-cutting CDR | 1 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-3265-6149)
-- [OpenAlex](https://openalex.org/A5059333702)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

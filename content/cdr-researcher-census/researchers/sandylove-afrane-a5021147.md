@@ -1,7 +1,7 @@
 ---
 title: "Sandylove Afrane"
-description: "Sandylove Afrane is a Senior Cross-cutting CDR researcher at Tianjin University in CN. With 52 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Sandylove Afrane, Tianjin University, China. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 19 by activity, 261 by citations. 52 publications, h-index 27, 2,181 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/sandylove-afrane-a5021147/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -22,28 +22,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Tianjin University</td></tr>
+  <tr><th>Country</th><td>China</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 19 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 261 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>27</td></tr>
+  <tr><th>Citations</th><td>2,181</td></tr>
+  <tr><th>Publications</th><td>52</td></tr>
+  <tr><th>Share of publications on CDR</th><td>30.8%</td></tr>
+  <tr><th>Trajectory</th><td>Declining</td></tr>
+  <tr><th>Profiles</th><td><a href="https://openalex.org/A5021147590">OpenAlex</a></td></tr>
+</table>
 
-**Sandylove Afrane**  
-Tianjin University · 🇨🇳 CN
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**Cross-cutting CDR**
-
-Cross-cutting CDR
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 27 |
-| Citations | 2,181 |
-| Publications | 52 |
-| CDR Focus | 30.8% |
-| Trajectory | Declining |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -68,10 +61,6 @@ Cross-cutting CDR
 | 2023 | [Potential benefits and trade-offs associated with hydrogen transition under diverse carbon dioxide removal strategies](https://doi.org/10.1016/j.scib.2023.10.033) | Cross-cutting CDR | 14 |
 | 2023 | [Deployment expectations of multi-gigaton scale of carbon dioxide removal could have adverse impacts on global climate system](http://dx.doi.org/10.21203/rs.3.rs-3593971/v1) | Cross-cutting CDR | 0 |
 
-## External Profiles
-
-- [OpenAlex](https://openalex.org/A5021147590)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

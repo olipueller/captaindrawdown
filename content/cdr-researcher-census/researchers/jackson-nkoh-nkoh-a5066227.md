@@ -1,7 +1,7 @@
 ---
 title: "Jackson Nkoh Nkoh"
-description: "Jackson Nkoh Nkoh is a Senior Biochar researcher at Shenzhen University in CN. With 81 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Jackson Nkoh Nkoh, Shenzhen University, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 81 by activity, 9780 by citations. 81 publications, h-index 25, 1,894 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/jackson-nkoh-nkoh-a5066227/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Shenzhen University</td></tr>
+  <tr><th>Country</th><td>China</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>rank 81 <a href="/data/researchers/biochar/">by activity</a>, rank 9780 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>25</td></tr>
+  <tr><th>Citations</th><td>1,894</td></tr>
+  <tr><th>Publications</th><td>81</td></tr>
+  <tr><th>Share of publications on CDR</th><td>8.6%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-6708-1886">ORCID</a> · <a href="https://openalex.org/A5066227449">OpenAlex</a></td></tr>
+</table>
 
-**Jackson Nkoh Nkoh**  
-Shenzhen University · 🇨🇳 CN
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 25 |
-| Citations | 1,894 |
-| Publications | 81 |
-| CDR Focus | 8.6% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -62,11 +55,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2025 | [Direct Biochar-Root Interactions Alter Cadmium Sequestration at the Interface: A Hydroponic Study Unveiling a Novel Mechanism Beyond Soil Immobilization](https://doi.org/10.2139/ssrn.5676728) | Biochar | 0 |
 | 2024 | [Evaluating the potential of different crop straw biochar to capture carbon dioxide and increase the growth of Zea mays L.](https://doi.org/10.1007/s44378-024-00014-3) | Biochar | 2 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-6708-1886)
-- [OpenAlex](https://openalex.org/A5066227449)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

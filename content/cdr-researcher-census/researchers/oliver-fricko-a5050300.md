@@ -1,7 +1,7 @@
 ---
 title: "Oliver Fricko"
-description: "Oliver Fricko is a Senior Cross-cutting CDR researcher at International Institute for Applied Systems Analysis in AT. With 135 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Oliver Fricko, International Institute for Applied Systems Analysis, Austria. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 72 by activity, 2932 by citations. 135 publications, h-index 38, 19,928 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/oliver-fricko-a5050300/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>International Institute for Applied Systems Analysis</td></tr>
+  <tr><th>Country</th><td>Austria</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Top lists, BECCS</th><td>rank 72 <a href="/data/researchers/beccs/">by activity</a>, rank 2932 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>38</td></tr>
+  <tr><th>Citations</th><td>19,928</td></tr>
+  <tr><th>Publications</th><td>135</td></tr>
+  <tr><th>Share of publications on CDR</th><td>6.7%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-6835-9883">ORCID</a> · <a href="https://openalex.org/A5050300010">OpenAlex</a></td></tr>
+</table>
 
-**Oliver Fricko**  
-International Institute for Applied Systems Analysis · 🇦🇹 AT
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**Cross-cutting CDR**
-
-Cross-cutting CDR
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 38 |
-| Citations | 19,928 |
-| Publications | 135 |
-| CDR Focus | 6.7% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -64,11 +57,6 @@ Cross-cutting CDR
 | 2025 | [Energy system transformations for the phase-out of fossil fuels towards 1.5°C future](https://doi.org/10.21203/rs.3.rs-5698098/v1) | Cross-cutting CDR | 0 |
 | 2023 | [Fairness and feasibility in deep mitigation pathways with novel carbon dioxide removal considering institutional capacity to mitigate](https://doi.org/10.1088/1748-9326/acd8d5) | DAC | 39 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-6835-9883)
-- [OpenAlex](https://openalex.org/A5050300010)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

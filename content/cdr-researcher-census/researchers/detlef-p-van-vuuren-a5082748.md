@@ -1,7 +1,7 @@
 ---
 title: "Detlef P. van Vuuren"
-description: "Detlef P. van Vuuren is an Eminent Cross-cutting CDR researcher at Netherlands Environmental Assessment Agency in NL. With 875 publications and an h-index of 150, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Detlef P. van Vuuren, Netherlands Environmental Assessment Agency, Netherlands. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 4 by activity, 142 by citations; Cross-cutting CDR: rank 16 by activity, 135 by citations. 875 publications, h-index 150, 125,096 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/detlef-p-van-vuuren-a5082748/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,22 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Netherlands Environmental Assessment Agency</td></tr>
+  <tr><th>Country</th><td>Netherlands</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Top lists, BECCS</th><td>rank 4 <a href="/data/researchers/beccs/">by activity</a>, rank 142 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 16 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 135 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>150</td></tr>
+  <tr><th>Citations</th><td>125,096</td></tr>
+  <tr><th>Publications</th><td>875</td></tr>
+  <tr><th>Share of publications on CDR</th><td>3.7%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-0398-2831">ORCID</a> · <a href="https://openalex.org/A5082748474">OpenAlex</a></td></tr>
+</table>
 
-**Detlef P. van Vuuren**  
-Netherlands Environmental Assessment Agency · 🇳🇱 NL
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Cross-cutting CDR**
-
-Cross-cutting CDR
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 150 |
-| Citations | 125,096 |
-| Publications | 875 |
-| CDR Focus | 3.7% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -83,11 +77,6 @@ Cross-cutting CDR
 | 2021 | [Using Decomposition Analysis to Determine the Main Contributing Factors to Carbon Neutrality across Sectors](https://doi.org/10.3390/en15010132) | Cross-cutting CDR | 14 |
 | 2021 | [Regional variation in the effectiveness of methane-based and land-based climate mitigation options](https://doi.org/10.5194/esd-12-513-2021) | BECCS | 10 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0003-0398-2831)
-- [OpenAlex](https://openalex.org/A5082748474)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

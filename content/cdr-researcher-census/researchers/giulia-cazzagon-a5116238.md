@@ -1,7 +1,7 @@
 ---
 title: "Giulia Cazzagon"
-description: "Giulia Cazzagon is an Early-career Enhanced Weathering researcher at UNDO Carbon Ltd in GB. With 13 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Giulia Cazzagon, UNDO Carbon Ltd, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 69 by activity, 2267 by citations. 13 publications, h-index 2, 13 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/giulia-cazzagon-a5116238/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -22,28 +22,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>UNDO Carbon Ltd</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Primary pathway</th><td>Enhanced Weathering: Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.</td></tr>
+  <tr><th>Top lists, Enhanced Weathering</th><td>rank 69 <a href="/data/researchers/enhanced-weathering/">by activity</a>, rank 2267 <a href="/data/researchers/enhanced-weathering/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Early-career</td></tr>
+  <tr><th>h-index</th><td>2</td></tr>
+  <tr><th>Citations</th><td>13</td></tr>
+  <tr><th>Publications</th><td>13</td></tr>
+  <tr><th>Share of publications on CDR</th><td>61.5%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://openalex.org/A5116238715">OpenAlex</a></td></tr>
+</table>
 
-**Giulia Cazzagon**  
-UNDO Carbon Ltd · 🇬🇧 GB
-
-**Career Stage:** Early-career
-
-## CDR Specialization
-
-**Enhanced Weathering**
-
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 2 |
-| Citations | 13 |
-| Publications | 13 |
-| CDR Focus | 61.5% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -60,10 +53,6 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | 2025 | [The Impact of Soil Texture on Basalt-Enhanced Rock Weathering: Insights from a Field Mesocosm Study in a Temperate Climate.](https://doi.org/10.5194/egusphere-egu25-19914) | Enhanced Weathering | 0 |
 | 2025 | [Evaluating Total Cation Accounting (TCA) as an MRV Approach for Enhanced Rock Weathering - Insights from a trial in Ontario, Canada](https://doi.org/10.7185/gold2025.28256) | Enhanced Weathering | 0 |
 
-## External Profiles
-
-- [OpenAlex](https://openalex.org/A5116238715)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

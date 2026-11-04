@@ -1,7 +1,7 @@
 ---
 title: "Haifeng Liu"
-description: "Haifeng Liu is an Eminent Cross-cutting CDR researcher at Guangxi University in CN. With 594 publications and an h-index of 67, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Haifeng Liu, Guangxi University, China. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 59 by activity, 391 by citations. 594 publications, h-index 67, 16,576 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/haifeng-liu-a5100325/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Guangxi University</td></tr>
+  <tr><th>Country</th><td>China</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 59 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 391 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>67</td></tr>
+  <tr><th>Citations</th><td>16,576</td></tr>
+  <tr><th>Publications</th><td>594</td></tr>
+  <tr><th>Share of publications on CDR</th><td>1.9%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-0861-4966">ORCID</a> · <a href="https://openalex.org/A5100325566">OpenAlex</a></td></tr>
+</table>
 
-**Haifeng Liu**  
-Guangxi University · 🇨🇳 CN
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Cross-cutting CDR**
-
-Cross-cutting CDR
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 67 |
-| Citations | 16,576 |
-| Publications | 594 |
-| CDR Focus | 1.9% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -66,11 +59,6 @@ Cross-cutting CDR
 | 2023 | [Potential benefits and trade-offs associated with hydrogen transition under diverse carbon dioxide removal strategies](https://doi.org/10.1016/j.scib.2023.10.033) | Cross-cutting CDR | 14 |
 | 2023 | [Deployment expectations of multi-gigaton scale of carbon dioxide removal could have adverse impacts on global climate system](http://dx.doi.org/10.21203/rs.3.rs-3593971/v1) | Cross-cutting CDR | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0003-0861-4966)
-- [OpenAlex](https://openalex.org/A5100325566)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

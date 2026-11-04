@@ -1,7 +1,7 @@
 ---
 title: "Sara Nawaz"
-description: "Sara Nawaz is a Mid-career Ocean CDR researcher at American University in US. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Sara Nawaz, American University, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 38 by activity, 81 by citations. 36 publications, h-index 13, 403 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/sara-nawaz-a5083576/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>American University</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>rank 38 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 81 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>13</td></tr>
+  <tr><th>Citations</th><td>403</td></tr>
+  <tr><th>Publications</th><td>36</td></tr>
+  <tr><th>Share of publications on CDR</th><td>58.3%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-4337-1453">ORCID</a> · <a href="https://openalex.org/A5083576219">OpenAlex</a></td></tr>
+</table>
 
-**Sara Nawaz**  
-American University · 🇺🇸 US
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**Ocean CDR**
-
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 13 |
-| Citations | 403 |
-| Publications | 36 |
-| CDR Focus | 58.3% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -76,11 +69,6 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | 2022 | [Summary report on deliberative workshop with stakeholders on mesocosm research in Bergen, Norway](https://doi.org/10.3289/oceannets_d7.2) | Ocean CDR | 0 |
 | 2022 | [Exploring public acceptability of direct air capture and storage: Climate urgency, moral hazards and perceptions of the whole versus the parts of a carbon dioxide removal system](https://doi.org/10.21203/rs.3.rs-1979479/v1) | DAC | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0003-4337-1453)
-- [OpenAlex](https://openalex.org/A5083576219)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

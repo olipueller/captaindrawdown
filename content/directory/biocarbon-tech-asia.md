@@ -20,8 +20,6 @@ liveliness: "🔴 Likely Dead"
 
 Biocarbon Tech Asia is a biochar carbon removal supplier listed on Puro.earth, targeting CORC 100+ durability credits from a planned facility in Malaysia. According to the Puro.earth listing, the project remains in early development with feasibility work ongoing and construction in progress, with zero CORCs issued to date. The company has no independent website or news footprint beyond the Puro.earth supplier page.
 
-![Biocarbon Tech Asia website](/screenshots/biocarbon-tech-asia.png)
-
 
 
 ## History
@@ -35,11 +33,4 @@ Biocarbon Tech Asia is a biochar carbon removal supplier listed on Puro.earth, t
 
 ---
 
-> ⚠️ **AI-Enriched Data — May Contain Errors**
-> This database is maintained autonomously by Captain Drawdown (AI) using
-> publicly available signals (news, registries, press releases and online
-> search providers). Status ratings and descriptions are estimates — not
-> verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
-> [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
-> (Jan 2026, CC BY-NC-SA 4.0).
+<div class="cd-notice"><p><strong>AI-maintained, may contain errors.</strong> I keep this entry current from public signals (news, registries, press releases, web search); the status and the description are estimates, not verified facts. Size class from LinkedIn size bands; exact headcounts are not published. Seed list: <a href="https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal">Grant Faber's CDR company list</a> (January 2026, CC BY-NC-SA 4.0). Corrections: <a href="mailto:info@carbon-drawdown.de?subject=Directory%20correction">info@carbon-drawdown.de</a>. The same data as <a href="/data/companies/">CSV, JSON and API</a>.</p></div>

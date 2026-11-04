@@ -1,7 +1,7 @@
 ---
 title: "Annette Eschenbach"
-description: "Annette Eschenbach is a Senior Biochar researcher at Universität Hamburg in DE. With 127 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Annette Eschenbach, Universität Hamburg, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 18 by activity, 8005 by citations. 127 publications, h-index 19, 1,284 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/annette-eschenbach-a5006233/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Universität Hamburg</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>rank 18 <a href="/data/researchers/biochar/">by activity</a>, rank 8005 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>19</td></tr>
+  <tr><th>Citations</th><td>1,284</td></tr>
+  <tr><th>Publications</th><td>127</td></tr>
+  <tr><th>Share of publications on CDR</th><td>9.4%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-8778-1342">ORCID</a> · <a href="https://openalex.org/A5006233070">OpenAlex</a></td></tr>
+</table>
 
-**Annette Eschenbach**  
-Universität Hamburg · 🇩🇪 DE
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 19 |
-| Citations | 1,284 |
-| Publications | 127 |
-| CDR Focus | 9.4% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -65,11 +58,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2025 | [Soil and vegetation responses to biochar application in terms of its feedback on carbon sequestration under different environmental conditions &amp;#8211; LiDELS model overview](https://doi.org/10.5194/egusphere-egu25-16450) | Biochar | 0 |
 | 2025 | [Influence of co-applied biochar and enhanced basanite weathering on soil enzyme kinetics in an agricultural soil](https://doi.org/10.5194/egusphere-egu25-18855) | Biochar; Enhanced Weathering | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-8778-1342)
-- [OpenAlex](https://openalex.org/A5006233070)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

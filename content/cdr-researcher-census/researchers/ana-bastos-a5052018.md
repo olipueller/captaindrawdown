@@ -1,7 +1,7 @@
 ---
 title: "Ana Bastos"
-description: "Ana Bastos is an Eminent Cross-cutting CDR researcher at Leipzig University in DE. With 413 publications and an h-index of 58, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Ana Bastos, Leipzig University, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 44 by activity, 132 by citations. 413 publications, h-index 58, 15,899 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/ana-bastos-a5052018/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Leipzig University</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 44 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 132 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>58</td></tr>
+  <tr><th>Citations</th><td>15,899</td></tr>
+  <tr><th>Publications</th><td>413</td></tr>
+  <tr><th>Share of publications on CDR</th><td>3.1%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-7368-7806">ORCID</a> · <a href="https://openalex.org/A5052018420">OpenAlex</a></td></tr>
+</table>
 
-**Ana Bastos**  
-Leipzig University · 🇩🇪 DE
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Cross-cutting CDR**
-
-Cross-cutting CDR
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 58 |
-| Citations | 15,899 |
-| Publications | 413 |
-| CDR Focus | 3.1% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -68,11 +61,6 @@ Cross-cutting CDR
 | 2022 | [Comparing national greenhouse gas budgets reported in UNFCCC inventories against atmospheric inversions](https://doi.org/10.5194/essd-14-1639-2022) | Cross-cutting CDR | 230 |
 | 2022 | [Carbon budgets from global to regional scales: current challenges and future perspectives](https://doi.org/10.5194/egusphere-egu22-3435) | Cross-cutting CDR | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-7368-7806)
-- [OpenAlex](https://openalex.org/A5052018420)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

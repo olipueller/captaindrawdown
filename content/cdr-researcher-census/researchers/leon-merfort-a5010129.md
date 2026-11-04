@@ -1,7 +1,7 @@
 ---
 title: "Leon Merfort"
-description: "Leon Merfort is a Mid-career Cross-cutting CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 51 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Leon Merfort, Potsdam Institute for Climate Impact Research, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 31 by activity, 48 by citations. 51 publications, h-index 11, 1,048 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/leon-merfort-a5010129/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Potsdam Institute for Climate Impact Research</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 31 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 48 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>11</td></tr>
+  <tr><th>Citations</th><td>1,048</td></tr>
+  <tr><th>Publications</th><td>51</td></tr>
+  <tr><th>Share of publications on CDR</th><td>23.5%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-1704-6892">ORCID</a> · <a href="https://openalex.org/A5010129778">OpenAlex</a></td></tr>
+</table>
 
-**Leon Merfort**  
-Potsdam Institute for Climate Impact Research · 🇩🇪 DE
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**Cross-cutting CDR**
-
-Cross-cutting CDR
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 11 |
-| Citations | 1,048 |
-| Publications | 51 |
-| CDR Focus | 23.5% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -71,11 +64,6 @@ Cross-cutting CDR
 | 2023 | [Defending climate targets under threat of forest carbon impermanence](https://doi.org/10.5194/egusphere-egu23-15161) | Cross-cutting CDR | 0 |
 | 2021 | [Impact of declining renewable energy costs on electrification in low-emission scenarios](https://doi.org/10.1038/s41560-021-00937-z) | Cross-cutting CDR | 571 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0003-1704-6892)
-- [OpenAlex](https://openalex.org/A5010129778)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

@@ -1,7 +1,7 @@
 ---
 title: "Philip W. Boyd"
-description: "Philip W. Boyd is an Eminent Ocean CDR researcher at University of Tasmania in AU. With 442 publications and an h-index of 102, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Philip W. Boyd, University of Tasmania, Australia. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 12 by activity, 2 by citations. 442 publications, h-index 102, 44,354 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/philip-w-boyd-a5091179/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>University of Tasmania</td></tr>
+  <tr><th>Country</th><td>Australia</td></tr>
+  <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>rank 12 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 2 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>102</td></tr>
+  <tr><th>Citations</th><td>44,354</td></tr>
+  <tr><th>Publications</th><td>442</td></tr>
+  <tr><th>Share of publications on CDR</th><td>5.0%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-7850-1911">ORCID</a> · <a href="https://openalex.org/A5091179334">OpenAlex</a></td></tr>
+</table>
 
-**Philip W. Boyd**  
-University of Tasmania · 🇦🇺 AU
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Ocean CDR**
-
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 102 |
-| Citations | 44,354 |
-| Publications | 442 |
-| CDR Focus | 5.0% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -77,11 +70,6 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | 2022 | [Feasibility of Using Biologically-based Processes in the Open Ocean and Coastal Seas for Atmospheric CO2 Removal](https://doi.org/10.1039/9781839165245-00291) | Ocean CDR | 11 |
 | 2021 | [Seeking natural analogs to fast-forward the assessment of marine CO <sub>2</sub> removal](https://doi.org/10.1073/pnas.2106147118) | Ocean CDR | 29 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-7850-1911)
-- [OpenAlex](https://openalex.org/A5091179334)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

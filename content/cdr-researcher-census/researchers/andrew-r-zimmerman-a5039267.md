@@ -1,7 +1,7 @@
 ---
 title: "Andrew R. Zimmerman"
-description: "Andrew R. Zimmerman is an Eminent Biochar researcher at University of Florida in US. With 231 publications and an h-index of 76, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Andrew R. Zimmerman, University of Florida, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 36 by activity, 124 by citations. 231 publications, h-index 76, 28,438 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/andrew-r-zimmerman-a5039267/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>University of Florida</td></tr>
+  <tr><th>Country</th><td>United States</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>rank 36 <a href="/data/researchers/biochar/">by activity</a>, rank 124 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>76</td></tr>
+  <tr><th>Citations</th><td>28,438</td></tr>
+  <tr><th>Publications</th><td>231</td></tr>
+  <tr><th>Share of publications on CDR</th><td>5.6%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-5137-4916">ORCID</a> · <a href="https://openalex.org/A5039267052">OpenAlex</a></td></tr>
+</table>
 
-**Andrew R. Zimmerman**  
-University of Florida · 🇺🇸 US
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 76 |
-| Citations | 28,438 |
-| Publications | 231 |
-| CDR Focus | 5.6% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -67,11 +60,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2022 | [Microwave-assisted pyrolysis derived biochar for volatile organic compounds treatment: Characteristics and adsorption performance](https://doi.org/10.1016/j.biortech.2022.127274) | Biochar | 78 |
 | 2022 | [Sewage Sludge Biochars as Effective Pfas-Sorbents](https://doi.org/10.2139/ssrn.4229671) | Biochar | 1 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-5137-4916)
-- [OpenAlex](https://openalex.org/A5039267052)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

@@ -1,7 +1,7 @@
 ---
 title: "L. Khajehnoori"
-description: "L. Khajehnoori is an Early-career DAC researcher at University of Lancashire in GB. With 4 publications and an h-index of N/A, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "L. Khajehnoori, University of Lancashire, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 83 by activity, 3455 by citations. 4 publications, h-index n/a, 0 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/l-khajehnoori-a5140697/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -22,28 +22,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>University of Lancashire</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>rank 83 <a href="/data/researchers/dac/">by activity</a>, rank 3455 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Early-career</td></tr>
+  <tr><th>h-index</th><td>n/a</td></tr>
+  <tr><th>Citations</th><td>0</td></tr>
+  <tr><th>Publications</th><td>4</td></tr>
+  <tr><th>Share of publications on CDR</th><td>100.0%</td></tr>
+  <tr><th>Trajectory</th><td>Unknown</td></tr>
+  <tr><th>Profiles</th><td><a href="https://openalex.org/A5140697838">OpenAlex</a></td></tr>
+</table>
 
-**L. Khajehnoori**  
-University of Lancashire · 🇬🇧 GB
-
-**Career Stage:** Early-career
-
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | N/A |
-| Citations | 0 |
-| Publications | 4 |
-| CDR Focus | 100.0% |
-| Trajectory | Unknown |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -56,10 +49,6 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | 2026 | [Assessment of TVSA Cycle Configurations for Cooperative Adsorbents with Step-Shaped Isotherms under Direct Air Capture](https://openalex.org/W7168283901) | DAC | 0 |
 | 2025 | [Multi-Objective Optimization of CO2 Capture from Ambient Air via TVSA Process Modeling](https://openalex.org/W7162301642) | DAC | 0 |
 
-## External Profiles
-
-- [OpenAlex](https://openalex.org/A5140697838)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

@@ -1,7 +1,7 @@
 ---
 title: "Christian Moretti"
-description: "Christian Moretti is a Senior DAC researcher at Paul Scherrer Institute in CH. With 120 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Christian Moretti, Paul Scherrer Institute, Switzerland. 120 publications, h-index 31, 2,405 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/christian-moretti-a5027325/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,20 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Paul Scherrer Institute</td></tr>
+  <tr><th>Country</th><td>Switzerland</td></tr>
+  <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>31</td></tr>
+  <tr><th>Citations</th><td>2,405</td></tr>
+  <tr><th>Publications</th><td>120</td></tr>
+  <tr><th>Share of publications on CDR</th><td>4.2%</td></tr>
+  <tr><th>Trajectory</th><td>Declining</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-5682-287X">ORCID</a> · <a href="https://openalex.org/A5027325818">OpenAlex</a></td></tr>
+</table>
 
-**Christian Moretti**  
-Paul Scherrer Institute · 🇨🇭 CH
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 31 |
-| Citations | 2,405 |
-| Publications | 120 |
-| CDR Focus | 4.2% |
-| Trajectory | Declining |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -60,11 +52,6 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | 2024 | [Synthetic fuels may be a cheaper way to achieve climate-neutral aviation](https://doi.org/10.21203/rs.3.rs-3981416/v1) | DAC | 0 |
 | 2023 | [Technical, economic and environmental analysis of solar thermochemical production of drop-in fuels](https://doi.org/10.1016/j.scitotenv.2023.166005) | DAC | 38 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-5682-287X)
-- [OpenAlex](https://openalex.org/A5027325818)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

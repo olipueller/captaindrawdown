@@ -1,7 +1,7 @@
 ---
 title: "Dominik Keiner"
-description: "Dominik Keiner is a Mid-career Cross-cutting CDR researcher at LUT University in FI. With 45 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Dominik Keiner, LUT University, Finland. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 78 by activity, 47 by citations. 45 publications, h-index 18, 1,739 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/dominik-keiner-a5015267/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>LUT University</td></tr>
+  <tr><th>Country</th><td>Finland</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 78 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 47 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>18</td></tr>
+  <tr><th>Citations</th><td>1,739</td></tr>
+  <tr><th>Publications</th><td>45</td></tr>
+  <tr><th>Share of publications on CDR</th><td>22.2%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-7653-5296">ORCID</a> · <a href="https://openalex.org/A5015267488">OpenAlex</a></td></tr>
+</table>
 
-**Dominik Keiner**  
-LUT University ·  FI
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**Cross-cutting CDR**
-
-Cross-cutting CDR
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 18 |
-| Citations | 1,739 |
-| Publications | 45 |
-| CDR Focus | 22.2% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -66,11 +59,6 @@ Cross-cutting CDR
 | 2023 | [Proposing a 1.0°C climate target for a safer future](https://doi.org/10.1371/journal.pclm.0000234) | Cross-cutting CDR | 35 |
 | 2022 | [On the History and Future of 100% Renewable Energy Systems Research](https://doi.org/10.1109/access.2022.3193402) | Cross-cutting CDR | 588 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-7653-5296)
-- [OpenAlex](https://openalex.org/A5015267488)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

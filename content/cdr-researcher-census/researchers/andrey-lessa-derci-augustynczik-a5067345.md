@@ -1,7 +1,7 @@
 ---
 title: "Andrey Lessa Derci Augustynczik"
-description: "Andrey Lessa Derci Augustynczik is a Mid-career BECCS researcher at International Institute for Applied Systems Analysis in AT. With 89 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Andrey Lessa Derci Augustynczik, International Institute for Applied Systems Analysis, Austria. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 81 by activity, 1757 by citations. 89 publications, h-index 18, 1,213 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/andrey-lessa-derci-augustynczik-a5067345/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>International Institute for Applied Systems Analysis</td></tr>
+  <tr><th>Country</th><td>Austria</td></tr>
+  <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>rank 81 <a href="/data/researchers/beccs/">by activity</a>, rank 1757 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>18</td></tr>
+  <tr><th>Citations</th><td>1,213</td></tr>
+  <tr><th>Publications</th><td>89</td></tr>
+  <tr><th>Share of publications on CDR</th><td>6.7%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-5513-5496">ORCID</a> · <a href="https://openalex.org/A5067345650">OpenAlex</a></td></tr>
+</table>
 
-**Andrey Lessa Derci Augustynczik**  
-International Institute for Applied Systems Analysis · 🇦🇹 AT
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**BECCS**
-
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 18 |
-| Citations | 1,213 |
-| Publications | 89 |
-| CDR Focus | 6.7% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -60,11 +53,6 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | 2024 | [Spatial analysis of CDR implications for global biodiversity refugia](https://doi.org/10.5194/egusphere-egu24-1645) | Cross-cutting CDR | 0 |
 | 2023 | [Fire Weather Compromises Large Scale Afforestation Scenarios](https://doi.org/10.5194/egusphere-egu23-12337) | Cross-cutting CDR | 3 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-5513-5496)
-- [OpenAlex](https://openalex.org/A5067345650)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

@@ -1,7 +1,7 @@
 ---
 title: "Matthias Honegger"
-description: "Matthias Honegger is a Mid-career Cross-cutting CDR researcher at Utrecht University in NL. With 57 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Matthias Honegger, Utrecht University, Netherlands. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 51 by activity, 140 by citations. 57 publications, h-index 14, 946 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/matthias-honegger-a5079084/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Utrecht University</td></tr>
+  <tr><th>Country</th><td>Netherlands</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 51 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 140 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>14</td></tr>
+  <tr><th>Citations</th><td>946</td></tr>
+  <tr><th>Publications</th><td>57</td></tr>
+  <tr><th>Share of publications on CDR</th><td>29.8%</td></tr>
+  <tr><th>Trajectory</th><td>Declining</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0003-0978-5759">ORCID</a> · <a href="https://openalex.org/A5079084697">OpenAlex</a></td></tr>
+</table>
 
-**Matthias Honegger**  
-Utrecht University · 🇳🇱 NL
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**Cross-cutting CDR**
-
-Cross-cutting CDR
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 14 |
-| Citations | 946 |
-| Publications | 57 |
-| CDR Focus | 29.8% |
-| Trajectory | Declining |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -72,11 +65,6 @@ Cross-cutting CDR
 | 2021 | [Is carbon dioxide removal ‘mitigation of climate change’?](https://doi.org/10.1111/reel.12401) | Cross-cutting CDR | 58 |
 | 2021 | [Sewage treatment for the skies: mobilising carbon dioxide removal through public policies and private financing](https://openalex.org/W3210700920) | Cross-cutting CDR | 5 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0003-0978-5759)
-- [OpenAlex](https://openalex.org/A5079084697)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

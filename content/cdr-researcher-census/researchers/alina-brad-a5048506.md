@@ -1,7 +1,7 @@
 ---
 title: "Alina Brad"
-description: "Alina Brad is a Mid-career Cross-cutting CDR researcher at University of Vienna in AT. With 42 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Alina Brad, University of Vienna, Austria. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 91 by activity, 732 by citations. 42 publications, h-index 11, 470 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/alina-brad-a5048506/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>University of Vienna</td></tr>
+  <tr><th>Country</th><td>Austria</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 91 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 732 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>11</td></tr>
+  <tr><th>Citations</th><td>470</td></tr>
+  <tr><th>Publications</th><td>42</td></tr>
+  <tr><th>Share of publications on CDR</th><td>14.3%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-5342-1632">ORCID</a> · <a href="https://openalex.org/A5048506940">OpenAlex</a></td></tr>
+</table>
 
-**Alina Brad**  
-University of Vienna · 🇦🇹 AT
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**Cross-cutting CDR**
-
-Cross-cutting CDR
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 11 |
-| Citations | 470 |
-| Publications | 42 |
-| CDR Focus | 14.3% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -62,11 +55,6 @@ Cross-cutting CDR
 | 2024 | [The politics of carbon management in Austria: Emerging fault lines on carbon capture, storage, utilization and removal](https://doi.org/10.1016/j.erss.2024.103697) | Cross-cutting CDR | 10 |
 | 2023 | [Carbon dioxide removal and mitigation deterrence in EU climate policy: Towards a research approach](https://doi.org/10.1016/j.envsci.2023.103591) | Cross-cutting CDR | 48 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-5342-1632)
-- [OpenAlex](https://openalex.org/A5048506940)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

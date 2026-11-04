@@ -1,7 +1,7 @@
 ---
 title: "Kai G. Schulz"
-description: "Kai G. Schulz is an Eminent Ocean CDR researcher at Southern Cross University in AU. With 346 publications and an h-index of 53, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Kai G. Schulz, Southern Cross University, Australia. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 16 by activity, 6 by citations. 346 publications, h-index 53, 9,370 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/kai-g-schulz-a5091734/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Southern Cross University</td></tr>
+  <tr><th>Country</th><td>Australia</td></tr>
+  <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>rank 16 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 6 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>53</td></tr>
+  <tr><th>Citations</th><td>9,370</td></tr>
+  <tr><th>Publications</th><td>346</td></tr>
+  <tr><th>Share of publications on CDR</th><td>4.9%</td></tr>
+  <tr><th>Trajectory</th><td>Declining</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-8481-4639">ORCID</a> · <a href="https://openalex.org/A5091734550">OpenAlex</a></td></tr>
+</table>
 
-**Kai G. Schulz**  
-Southern Cross University · 🇦🇺 AU
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Ocean CDR**
-
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 53 |
-| Citations | 9,370 |
-| Publications | 346 |
-| CDR Focus | 4.9% |
-| Trajectory | Declining |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -73,11 +66,6 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | 2022 | [Ocean alkalinity enhancement – avoiding runaway CaCO <sub>3</sub> precipitation during quick and hydrated lime dissolution](https://doi.org/10.5194/bg-19-3537-2022) | Ocean CDR | 192 |
 | 2022 | [Assessing the influence of ocean alkalinity enhancement on a coastal phytoplankton community](https://doi.org/10.5194/bg-19-5375-2022) | Ocean CDR | 159 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-8481-4639)
-- [OpenAlex](https://openalex.org/A5091734550)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

@@ -1,7 +1,7 @@
 ---
 title: "Cheng‐Di Dong"
-description: "Cheng‐Di Dong is an Eminent Biochar researcher at National Kaohsiung University of Science and Technology in TW. With 553 publications and an h-index of 75, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Cheng‐Di Dong, National Kaohsiung University of Science and Technology, Taiwan. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 19 by activity, 22 by citations. 553 publications, h-index 75, 20,960 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/chengdi-dong-a5015918/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>National Kaohsiung University of Science and Technology</td></tr>
+  <tr><th>Country</th><td>Taiwan</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>rank 19 <a href="/data/researchers/biochar/">by activity</a>, rank 22 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>75</td></tr>
+  <tr><th>Citations</th><td>20,960</td></tr>
+  <tr><th>Publications</th><td>553</td></tr>
+  <tr><th>Share of publications on CDR</th><td>3.1%</td></tr>
+  <tr><th>Trajectory</th><td>Declining</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-4758-3739">ORCID</a> · <a href="https://openalex.org/A5015918478">OpenAlex</a></td></tr>
+</table>
 
-**Cheng‐Di Dong**  
-National Kaohsiung University of Science and Technology · 🇹🇼 TW
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 75 |
-| Citations | 20,960 |
-| Publications | 553 |
-| CDR Focus | 3.1% |
-| Trajectory | Declining |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -72,11 +65,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2022 | [Recent Development of Algal Biochar for Contaminant Remediation and Energy Application: A State-of-the Art Review](https://doi.org/10.1007/s40726-022-00243-6) | Biochar | 28 |
 | 2021 | [The Role of Biochar in Regulating the Carbon, Phosphorus, and Nitrogen Cycles Exemplified by Soil Systems](https://doi.org/10.3390/su13105612) | Biochar | 112 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-4758-3739)
-- [OpenAlex](https://openalex.org/A5015918478)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

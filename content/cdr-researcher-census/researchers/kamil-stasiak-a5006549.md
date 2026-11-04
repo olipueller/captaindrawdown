@@ -1,7 +1,7 @@
 ---
 title: "Kamil Stasiak"
-description: "Kamil Stasiak is a Mid-career BECCS researcher at Gdańsk University of Technology in PL. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Kamil Stasiak, Gdańsk University of Technology, Poland. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 51 by activity, 352 by citations. 19 publications, h-index 7, 212 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/kamil-stasiak-a5006549/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Gdańsk University of Technology</td></tr>
+  <tr><th>Country</th><td>Poland</td></tr>
+  <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>rank 51 <a href="/data/researchers/beccs/">by activity</a>, rank 352 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>7</td></tr>
+  <tr><th>Citations</th><td>212</td></tr>
+  <tr><th>Publications</th><td>19</td></tr>
+  <tr><th>Share of publications on CDR</th><td>26.3%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-8192-4448">ORCID</a> · <a href="https://openalex.org/A5006549829">OpenAlex</a></td></tr>
+</table>
 
-**Kamil Stasiak**  
-Gdańsk University of Technology ·  PL
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**BECCS**
-
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 7 |
-| Citations | 212 |
-| Publications | 19 |
-| CDR Focus | 26.3% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -60,11 +53,6 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | 2023 | [Selected Aspects of Performance of Organic Rankine Cycles Incorporated Into Bioenergy With Carbon Capture and Storage Using Gasification of Sewage Sludge](https://doi.org/10.1115/1.4064196) | BECCS | 12 |
 | 2021 | [Mathematical modelling of gasification process of sewage sludge in reactor of negative CO2 emission power plant](https://doi.org/10.1016/j.energy.2021.122601) | BECCS | 45 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-8192-4448)
-- [OpenAlex](https://openalex.org/A5006549829)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

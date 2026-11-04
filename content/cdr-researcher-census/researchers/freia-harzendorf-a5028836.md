@@ -1,7 +1,7 @@
 ---
 title: "Freia Harzendorf"
-description: "Freia Harzendorf is a Mid-career DAC researcher at Forschungszentrum Jülich in DE. With 46 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Freia Harzendorf, Forschungszentrum Jülich, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 7 by activity, 531 by citations. 46 publications, h-index 7, 177 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/freia-harzendorf-a5028836/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Forschungszentrum Jülich</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>rank 7 <a href="/data/researchers/dac/">by activity</a>, rank 531 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>7</td></tr>
+  <tr><th>Citations</th><td>177</td></tr>
+  <tr><th>Publications</th><td>46</td></tr>
+  <tr><th>Share of publications on CDR</th><td>23.9%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0001-9184-6009">ORCID</a> · <a href="https://openalex.org/A5028836533">OpenAlex</a></td></tr>
+</table>
 
-**Freia Harzendorf**  
-Forschungszentrum Jülich · 🇩🇪 DE
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 7 |
-| Citations | 177 |
-| Publications | 46 |
-| CDR Focus | 23.9% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -65,11 +58,6 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | 2025 | [Water-Conscious and CO<sup>2</sup>-Negative Hydrogen Production in the European Union](https://doi.org/10.1109/eem64765.2025.11050328) | DAC | 1 |
 | 2024 | [Criteria for effective site selection of direct air capture and storage projects](https://doi.org/10.1088/1748-9326/ad7a0f) | DAC | 6 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0001-9184-6009)
-- [OpenAlex](https://openalex.org/A5028836533)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

@@ -1,7 +1,7 @@
 ---
 title: "Dominic C.Y. Foo"
-description: "Dominic C.Y. Foo is an Eminent Cross-cutting CDR researcher at University of Nottingham - Malaysia Campus in MY. With 422 publications and an h-index of 53, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Dominic C.Y. Foo, University of Nottingham - Malaysia Campus, Malaysia. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 99 by activity, 1619 by citations. 422 publications, h-index 53, 9,785 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/dominic-cy-foo-a5054417/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>University of Nottingham - Malaysia Campus</td></tr>
+  <tr><th>Country</th><td>Malaysia</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 99 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 1619 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>53</td></tr>
+  <tr><th>Citations</th><td>9,785</td></tr>
+  <tr><th>Publications</th><td>422</td></tr>
+  <tr><th>Share of publications on CDR</th><td>3.3%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-8185-255X">ORCID</a> · <a href="https://openalex.org/A5054417923">OpenAlex</a></td></tr>
+</table>
 
-**Dominic C.Y. Foo**  
-University of Nottingham - Malaysia Campus · 🇲🇾 MY
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Cross-cutting CDR**
-
-Cross-cutting CDR
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 53 |
-| Citations | 9,785 |
-| Publications | 422 |
-| CDR Focus | 3.3% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -69,11 +62,6 @@ Cross-cutting CDR
 | 2021 | [Regional carbon drawdown with enhanced weathering of non-hazardous industrial wastes](https://doi.org/10.1016/j.resconrec.2021.105910) | Enhanced Weathering | 35 |
 | 2021 | [Circular economy meets the drawdown economy: Enhanced weathering of industrial solid waste as a win-win solution](https://doi.org/10.1016/j.resconrec.2021.106029) | Enhanced Weathering | 10 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-8185-255X)
-- [OpenAlex](https://openalex.org/A5054417923)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

@@ -1,7 +1,7 @@
 ---
 title: "Maria Seedtke"
-description: "Maria Seedtke is an Early-career Biochar researcher at Universität Hamburg in DE. With 8 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Maria Seedtke, Universität Hamburg, Germany. 8 publications, h-index 2, 29 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/maria-seedtke-a5083234/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,20 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Universität Hamburg</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Career stage</th><td>Early-career</td></tr>
+  <tr><th>h-index</th><td>2</td></tr>
+  <tr><th>Citations</th><td>29</td></tr>
+  <tr><th>Publications</th><td>8</td></tr>
+  <tr><th>Share of publications on CDR</th><td>75.0%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0009-0007-6785-9417">ORCID</a> · <a href="https://openalex.org/A5083234694">OpenAlex</a></td></tr>
+</table>
 
-**Maria Seedtke**  
-Universität Hamburg · 🇩🇪 DE
-
-**Career Stage:** Early-career
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 2 |
-| Citations | 29 |
-| Publications | 8 |
-| CDR Focus | 75.0% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -61,11 +53,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2025 | [Synergistic effects of co-application and co-pyrolysis of biochar and enhanced weathering materials for CO2 removal in an Oxisol](https://doi.org/10.5194/egusphere-egu25-12717) | Biochar; Enhanced Weathering | 0 |
 | 2025 | [Influence of co-applied biochar and enhanced basanite weathering on soil enzyme kinetics in an agricultural soil](https://doi.org/10.5194/egusphere-egu25-18855) | Biochar; Enhanced Weathering | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0009-0007-6785-9417)
-- [OpenAlex](https://openalex.org/A5083234694)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

@@ -6,9 +6,7 @@ summary: "Find CaptainDrawdown across the web."
 ShowToc: false
 ---
 
-# Find Me Everywhere 🌍
-
-## Social Platforms
+## Social platforms
 
 - 🦋 **Bluesky** — [@captaindrawdown.bsky.social](https://bsky.app/profile/captaindrawdown.bsky.social)
 - 💼 **LinkedIn** — [Captain Drawdown](https://www.linkedin.com/company/112017596/)

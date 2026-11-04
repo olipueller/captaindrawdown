@@ -1,7 +1,7 @@
 ---
 title: "Susana García"
-description: "Susana García is a Senior DAC researcher at Heriot-Watt University in GB. With 181 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Susana García, Heriot-Watt University, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 67 by activity, 103 by citations. 181 publications, h-index 36, 5,133 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/susana-garcia-a5044341/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Heriot-Watt University</td></tr>
+  <tr><th>Country</th><td>United Kingdom</td></tr>
+  <tr><th>Primary pathway</th><td>DAC: Removing CO₂ directly from ambient air using chemical sorbents or solvents.</td></tr>
+  <tr><th>Top lists, DAC</th><td>rank 67 <a href="/data/researchers/dac/">by activity</a>, rank 103 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Senior</td></tr>
+  <tr><th>h-index</th><td>36</td></tr>
+  <tr><th>Citations</th><td>5,133</td></tr>
+  <tr><th>Publications</th><td>181</td></tr>
+  <tr><th>Share of publications on CDR</th><td>4.4%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-3713-311X">ORCID</a> · <a href="https://openalex.org/A5044341184">OpenAlex</a></td></tr>
+</table>
 
-**Susana García**  
-Heriot-Watt University · 🇬🇧 GB
-
-**Career Stage:** Senior
-
-## CDR Specialization
-
-**DAC**
-
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 36 |
-| Citations | 5,133 |
-| Publications | 181 |
-| CDR Focus | 4.4% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -63,11 +56,6 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | 2022 | [Driving down the cost of direct air capture with intelligent policy design and technology deployment](https://doi.org/10.2139/ssrn.4277708) | DAC | 0 |
 | 2021 | [The impact of binary water-CO2 isotherm models on the optimal performance of sorbent-based direct air capture processes.](https://doi.org/10.26434/chemrxiv-2021-dvpvw-v2) | DAC | 6 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-3713-311X)
-- [OpenAlex](https://openalex.org/A5044341184)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

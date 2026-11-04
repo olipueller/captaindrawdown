@@ -1,7 +1,7 @@
 ---
 title: "Yiannis Moustakis"
-description: "Yiannis Moustakis is a Mid-career Cross-cutting CDR researcher at Ludwig-Maximilians-Universität München in DE. With 33 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Yiannis Moustakis, Ludwig-Maximilians-Universität München, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 67 by activity, 8011 by citations. 33 publications, h-index 8, 339 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/yiannis-moustakis-a5054754/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Ludwig-Maximilians-Universität München</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 67 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 8011 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>8</td></tr>
+  <tr><th>Citations</th><td>339</td></tr>
+  <tr><th>Publications</th><td>33</td></tr>
+  <tr><th>Share of publications on CDR</th><td>36.4%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-4448-2967">ORCID</a> · <a href="https://openalex.org/A5054754573">OpenAlex</a></td></tr>
+</table>
 
-**Yiannis Moustakis**  
-Ludwig-Maximilians-Universität München · 🇩🇪 DE
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**Cross-cutting CDR**
-
-Cross-cutting CDR
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 8 |
-| Citations | 339 |
-| Publications | 33 |
-| CDR Focus | 36.4% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -65,11 +58,6 @@ Cross-cutting CDR
 | 2025 | [Scaling Carbon Dioxide Removal in Germany: Insights from the CDRterra Framework and Scenario](https://doi.org/10.5194/egusphere-egu25-19617) | Cross-cutting CDR | 0 |
 | 2025 | [Assessing Earth system feedbacks in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal](https://doi.org/10.5194/egusphere-egu25-16915) | Cross-cutting CDR | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-4448-2967)
-- [OpenAlex](https://openalex.org/A5054754573)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

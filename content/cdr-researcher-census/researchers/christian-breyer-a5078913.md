@@ -1,7 +1,7 @@
 ---
 title: "Christian Breyer"
-description: "Christian Breyer is an Eminent Cross-cutting CDR researcher at Lappeenranta-Lahti University of Technology in FI. With 395 publications and an h-index of 92, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Christian Breyer, Lappeenranta-Lahti University of Technology, Finland. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 49 by activity, 34 by citations; DAC: rank 65 by activity, 60 by citations. 395 publications, h-index 92, 29,003 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/christian-breyer-a5078913/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,22 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Lappeenranta-Lahti University of Technology</td></tr>
+  <tr><th>Country</th><td>Finland</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 49 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 34 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Top lists, DAC</th><td>rank 65 <a href="/data/researchers/dac/">by activity</a>, rank 60 <a href="/data/researchers/dac/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>92</td></tr>
+  <tr><th>Citations</th><td>29,003</td></tr>
+  <tr><th>Publications</th><td>395</td></tr>
+  <tr><th>Share of publications on CDR</th><td>5.3%</td></tr>
+  <tr><th>Trajectory</th><td>Growing</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-7380-1816">ORCID</a> · <a href="https://openalex.org/A5078913350">OpenAlex</a></td></tr>
+</table>
 
-**Christian Breyer**  
-Lappeenranta-Lahti University of Technology ·  FI
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Cross-cutting CDR**
-
-Cross-cutting CDR
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 92 |
-| Citations | 29,003 |
-| Publications | 395 |
-| CDR Focus | 5.3% |
-| Trajectory | Growing |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -74,11 +68,6 @@ Cross-cutting CDR
 | 2022 | [Global demand analysis for carbon dioxide as raw material from key industrial sources and direct air capture to produce renewable electricity-based fuels and chemicals](https://doi.org/10.1016/j.jclepro.2022.133920) | DAC | 143 |
 | 2022 | [Reflecting the energy transition from a European perspective and in the global context—Relevance of solar photovoltaics benchmarking two ambitious scenarios](https://doi.org/10.1002/pip.3659) | DAC | 106 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-7380-1816)
-- [OpenAlex](https://openalex.org/A5078913350)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

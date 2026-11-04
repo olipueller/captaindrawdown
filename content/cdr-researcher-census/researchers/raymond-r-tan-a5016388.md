@@ -1,7 +1,7 @@
 ---
 title: "Raymond R. Tan"
-description: "Raymond R. Tan is an Eminent Cross-cutting CDR researcher at De La Salle University in PH. With 649 publications and an h-index of 66, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Raymond R. Tan, De La Salle University, Philippines. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 13 by activity, 556 by citations. 649 publications, h-index 66, 18,804 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/raymond-r-tan-a5016388/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>De La Salle University</td></tr>
+  <tr><th>Country</th><td>Philippines</td></tr>
+  <tr><th>Primary pathway</th><td>Cross-cutting CDR</td></tr>
+  <tr><th>Top lists, Cross-cutting CDR</th><td>rank 13 <a href="/data/researchers/cross-cutting-cdr/">by activity</a>, rank 556 <a href="/data/researchers/cross-cutting-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>66</td></tr>
+  <tr><th>Citations</th><td>18,804</td></tr>
+  <tr><th>Publications</th><td>649</td></tr>
+  <tr><th>Share of publications on CDR</th><td>6.3%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-9872-6066">ORCID</a> · <a href="https://openalex.org/A5016388141">OpenAlex</a></td></tr>
+</table>
 
-**Raymond R. Tan**  
-De La Salle University · 🇵🇭 PH
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Cross-cutting CDR**
-
-Cross-cutting CDR
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 66 |
-| Citations | 18,804 |
-| Publications | 649 |
-| CDR Focus | 6.3% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -96,11 +89,6 @@ Cross-cutting CDR
 | 2021 | [P-graph Approach to Solving a Class of Stackelberg Games in Carbon Management](https://doaj.org/article/67f2796415a140608fa755f21d8cad4e) | DAC | 5 |
 | 2021 | [Fuzzy Optimization Model for Biochar-based Carbon Management Networks](https://doaj.org/article/70397a9620334517a7f553be30a91d5e) | Biochar | 0 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-9872-6066)
-- [OpenAlex](https://openalex.org/A5016388141)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

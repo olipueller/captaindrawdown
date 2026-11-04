@@ -1,7 +1,7 @@
 ---
 title: "Haiping Yang"
-description: "Haiping Yang is an Eminent Biochar researcher at State Key Laboratory of Coal Combustion in CN. With 575 publications and an h-index of 88, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Haiping Yang, State Key Laboratory of Coal Combustion, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 32 by activity, 61 by citations. 575 publications, h-index 88, 36,219 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/haiping-yang-a5024934/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>State Key Laboratory of Coal Combustion</td></tr>
+  <tr><th>Country</th><td>China</td></tr>
+  <tr><th>Primary pathway</th><td>Biochar: Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.</td></tr>
+  <tr><th>Top lists, Biochar</th><td>rank 32 <a href="/data/researchers/biochar/">by activity</a>, rank 61 <a href="/data/researchers/biochar/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>88</td></tr>
+  <tr><th>Citations</th><td>36,219</td></tr>
+  <tr><th>Publications</th><td>575</td></tr>
+  <tr><th>Share of publications on CDR</th><td>2.8%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-8323-8879">ORCID</a> · <a href="https://openalex.org/A5024934519">OpenAlex</a></td></tr>
+</table>
 
-**Haiping Yang**  
-State Key Laboratory of Coal Combustion · 🇨🇳 CN
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Biochar**
-
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 88 |
-| Citations | 36,219 |
-| Publications | 575 |
-| CDR Focus | 2.8% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -71,11 +64,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2021 | [Nano nickel embedded in N-doped CNTs-supported porous biochar for adsorption-reduction of hexavalent chromium](https://doi.org/10.1016/j.jhazmat.2021.125693) | Biochar | 98 |
 | 2021 | [Temperature-dependent magnesium citrate modified formation of MgO nanoparticles biochar composites with efficient phosphate removal](https://doi.org/10.1016/j.chemosphere.2021.129904) | Biochar | 84 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-8323-8879)
-- [OpenAlex](https://openalex.org/A5024934519)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

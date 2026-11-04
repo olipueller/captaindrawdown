@@ -1,7 +1,7 @@
 ---
 title: "Peter Landschützer"
-description: "Peter Landschützer is an Eminent Ocean CDR researcher at Flanders Marine Institute in BE. With 227 publications and an h-index of 55, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Peter Landschützer, Flanders Marine Institute, Belgium. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 88 by activity, 18 by citations. 227 publications, h-index 55, 25,522 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:38+00:00
 url: "/cdr-researcher-census/researchers/peter-landschutzer-a5091506/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -25,28 +25,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Flanders Marine Institute</td></tr>
+  <tr><th>Country</th><td>Belgium</td></tr>
+  <tr><th>Primary pathway</th><td>Ocean CDR: Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.</td></tr>
+  <tr><th>Top lists, Ocean CDR</th><td>rank 88 <a href="/data/researchers/ocean-cdr/">by activity</a>, rank 18 <a href="/data/researchers/ocean-cdr/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Eminent</td></tr>
+  <tr><th>h-index</th><td>55</td></tr>
+  <tr><th>Citations</th><td>25,522</td></tr>
+  <tr><th>Publications</th><td>227</td></tr>
+  <tr><th>Share of publications on CDR</th><td>4.0%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://orcid.org/0000-0002-7398-3293">ORCID</a> · <a href="https://openalex.org/A5091506350">OpenAlex</a></td></tr>
+</table>
 
-**Peter Landschützer**  
-Flanders Marine Institute · 🇧🇪 BE
-
-**Career Stage:** Eminent
-
-## CDR Specialization
-
-**Ocean CDR**
-
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 55 |
-| Citations | 25,522 |
-| Publications | 227 |
-| CDR Focus | 4.0% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -64,11 +57,6 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | 2023 | [Trends and variability in the ocean carbon sink](https://doi.org/10.1038/s43017-022-00381-x) | Ocean CDR | 276 |
 | 2023 | [A novel sea surface pCO <sub>2</sub> -product for the global coastal ocean resolving trends over the 1982–2020 period](https://doi.org/10.5194/essd-2023-228) | Ocean CDR | 4 |
 
-## External Profiles
-
-- [ORCID](https://orcid.org/0000-0002-7398-3293)
-- [OpenAlex](https://openalex.org/A5091506350)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)

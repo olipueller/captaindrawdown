@@ -1,7 +1,7 @@
 ---
 title: "Christiane Hennig"
-description: "Christiane Hennig is a Mid-career BECCS researcher at Deutsches Biomasseforschungszentrum in DE. With 40 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T20:19:53+00:00
+description: "Christiane Hennig, Deutsches Biomasseforschungszentrum, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 24 by activity, 1382 by citations. 40 publications, h-index 10, 617 citations (OpenAlex, all fields)."
+date: 2026-11-04T21:08:39+00:00
 url: "/cdr-researcher-census/researchers/christiane-hennig-a5045674/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -22,28 +22,21 @@ robots: "index, follow"
 }
 </script>
 
-## Profile
+<table class="company-facts cd-facts">
+  <tr><th>Institution</th><td>Deutsches Biomasseforschungszentrum</td></tr>
+  <tr><th>Country</th><td>Germany</td></tr>
+  <tr><th>Primary pathway</th><td>BECCS: Combining biomass energy with carbon capture and storage to achieve negative emissions.</td></tr>
+  <tr><th>Top lists, BECCS</th><td>rank 24 <a href="/data/researchers/beccs/">by activity</a>, rank 1382 <a href="/data/researchers/beccs/#most-cited-worldwide-top-100">by citations</a> (worldwide, 2026-11.4)</td></tr>
+  <tr><th>Career stage</th><td>Mid-career</td></tr>
+  <tr><th>h-index</th><td>10</td></tr>
+  <tr><th>Citations</th><td>617</td></tr>
+  <tr><th>Publications</th><td>40</td></tr>
+  <tr><th>Share of publications on CDR</th><td>10.0%</td></tr>
+  <tr><th>Trajectory</th><td>Stable</td></tr>
+  <tr><th>Profiles</th><td><a href="https://openalex.org/A5045674888">OpenAlex</a></td></tr>
+</table>
 
-**Christiane Hennig**  
-Deutsches Biomasseforschungszentrum · 🇩🇪 DE
-
-**Career Stage:** Mid-career
-
-## CDR Specialization
-
-**BECCS**
-
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
-
-## Metrics
-
-| Metric | Value |
-|--------|-------|
-| h-index | 10 |
-| Citations | 617 |
-| Publications | 40 |
-| CDR Focus | 10.0% |
-| Trajectory | Stable |
+<p class="cd-note-line">Metrics are OpenAlex author metrics across all fields; the census counts only the CDR-relevant papers since 2021 listed below. Corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20correction">info@carbon-drawdown.de</a>, done within five working days (<a href="/privacy/">privacy notice</a>).</p>
 
 ## Papers counted in the census {#papers}
 
@@ -57,10 +50,6 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | 2024 | [Defining bioenergy system services to accelerate the integration of bioenergy into a low‐carbon economy](https://doi.org/10.1002/bbb.2649) | BECCS | 8 |
 | 2024 | [Bioenergy with carbon capture and storage or utilization (BECCUS): From innovation to deployment](https://www.openagrar.de/receive/openagrar_mods_00114334) | BECCS | 0 |
 
-## External Profiles
-
-- [OpenAlex](https://openalex.org/A5045674888)
-
 ---
 
-**Part of the [CDR Researcher Census](/cdr-researcher-census/)** — [Browse all researchers](/cdr-researcher-census/researchers/) · [Search & filter](/cdr-researcher-census/lookup/)
+Part of the [CDR Researcher Census](/cdr-researcher-census/): [top lists per pathway](/data/researchers/) · [lookup](/cdr-researcher-census/lookup/) · [data and API](/data/researchers/)
