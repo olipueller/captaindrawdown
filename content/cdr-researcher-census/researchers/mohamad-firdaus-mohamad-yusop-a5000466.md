@@ -1,7 +1,7 @@
 ---
 title: "Mohamad Firdaus Mohamad Yusop"
 description: "Mohamad Firdaus Mohamad Yusop is a Mid-career Biochar researcher at Universiti Sains Malaysia in MY. With 55 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/mohamad-firdaus-mohamad-yusop-a5000466/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,22 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | CDR Focus | 16.4% |
 | Trajectory | Declining |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Adsorption of cationic methylene blue dye using microwave-assisted activated carbon derived from acacia wood: Optimization and batch studies** (2021)
-   143 citations · Biochar
+10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 10. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Conversion of teak wood waste into microwave-irradiated activated carbon for cationic methylene blue dye removal: Optimization and batch studies** (2022)
-   70 citations
-
-3. **Single-stage microwave assisted coconut shell based activated carbon for removal of Zn(II) ions from aqueous solution – Optimization and batch studies** (2022)
-   65 citations · Biochar
-
-4. **Adsorption of methylene blue from aqueous solution by peanut shell based activated carbon** (2021)
-   57 citations
-
-5. **Single-Stage Microwave-Assisted Coconut-Shell-Based Activated Carbon for Removal of Dichlorodiphenyltrichloroethane (DDT) from Aqueous Solution: Optimization and Batch Studies** (2021)
-   33 citations · Biochar
-
-6. **Preparation of Alpinia galangaStem Based Activated Carbon via Single-step Microwave Irradiation for Cationic Dye Removal** (2021)
-   21 citations · Biochar
-
-7. **Amoxicillin adsorption onto oil palm trunk‐derived activated carbon: synthesis optimization, modelling of mass transfer and ultrasonic regeneration** (2025)
-   17 citations
-
-8. **Harnessing microwave energy to transform Nephelium lappaceum L. peel into activated carbon for chloramphenicol eradication in aqueous solutions** (2024)
-   15 citations · Biochar
-
-9. **Adsorption of Pb2+ by Activated Carbon Produced by Microwave-Assisted K2CO3 Activation of Date Palm Leaf Sheath Fibres** (2023)
-   9 citations · Biochar
-
-10. **Utilization of landscape biomass waste as activated carbon to scavenge oxytetracycline: Attraction mechanism, batch and continuous studies** (2023)
-   4 citations · Biochar
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2025 | [Adsorption of reactive dye by microwave irradiated rice husk-based activated carbon: optimization and batch studies](https://doi.org/10.1016/b978-0-443-21701-2.00015-5) | Biochar | 0 |
+| 2024 | [Harnessing microwave energy to transform Nephelium lappaceum L. peel into activated carbon for chloramphenicol eradication in aqueous solutions](https://doi.org/10.1016/j.matchemphys.2024.129311) | Biochar | 15 |
+| 2023 | [Adsorption of Pb2+ by Activated Carbon Produced by Microwave-Assisted K2CO3 Activation of Date Palm Leaf Sheath Fibres](https://openalex.org/W4388533330) | Biochar | 9 |
+| 2023 | [Utilization of landscape biomass waste as activated carbon to scavenge oxytetracycline: Attraction mechanism, batch and continuous studies](https://doi.org/10.1016/j.arabjc.2023.105256) | Biochar | 4 |
+| 2023 | [Synthesis of Pineapple Peel Based Activated Carbon Via Microwave Irradiation Technique for Methylene Blue Dye Removal](https://doi.org/10.1007/978-981-99-1695-5_18) | Biochar | 1 |
+| 2023 | [Effect of Microwave-Assisted CO2 Pyrolysis on the Production of Activated Carbon from Confiscated Cigarettes](http://dx.doi.org/10.58915/ijbuse.v1.2023.242) | Biochar | 0 |
+| 2022 | [Single-stage microwave assisted coconut shell based activated carbon for removal of Zn(II) ions from aqueous solution – Optimization and batch studies](https://doi.org/10.1016/j.arabjc.2022.104011) | Biochar | 65 |
+| 2021 | [Adsorption of cationic methylene blue dye using microwave-assisted activated carbon derived from acacia wood: Optimization and batch studies](https://doi.org/10.1016/j.arabjc.2021.103122) | Biochar | 143 |
+| 2021 | [Single-Stage Microwave-Assisted Coconut-Shell-Based Activated Carbon for Removal of Dichlorodiphenyltrichloroethane (DDT) from Aqueous Solution: Optimization and Batch Studies](https://doi.org/10.1155/2021/9331386) | Biochar | 33 |
+| 2021 | [Preparation of Alpinia galangaStem Based Activated Carbon via Single-step Microwave Irradiation for Cationic Dye Removal](https://doi.org/10.17576/jsm-2021-5008-10) | Biochar | 21 |
 
 ## External Profiles
 

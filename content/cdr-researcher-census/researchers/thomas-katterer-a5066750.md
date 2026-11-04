@@ -1,7 +1,7 @@
 ---
 title: "Thomas Kätterer"
 description: "Thomas Kätterer is an Eminent Soil Carbon researcher at Swedish University of Agricultural Sciences in SE. With 385 publications and an h-index of 65, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/thomas-katterer-a5066750/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,28 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | CDR Focus | 4.2% |
 | Trajectory | Declining |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Carbon sequestration in soils and climate change mitigation—Definitions and pitfalls** (2023)
-   234 citations · General CDR
+16 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Soil Carbon 14, General CDR 7, Biochar 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Relations between soil organic carbon content and the pore size distribution for an arable topsoil with large variations in soil properties** (2022)
-   118 citations · Soil Carbon
-
-3. **Achievable agricultural soil carbon sequestration across Europe from country‐specific estimates** (2021)
-   78 citations · General CDR
-
-4. **Carbon sequestration in the subsoil and the time required to stabilize carbon for climate change mitigation** (2024)
-   75 citations · General CDR
-
-5. **Additional carbon inputs to reach a 4 per 1000 objective in Europe: feasibility and projected impacts of climate change based on Century simulations of long-term arable experiments** (2021)
-   46 citations · Soil Carbon
-
-6. **Higher carbon sequestration on Swedish dairy farms compared with other farm types as revealed by national soil inventories** (2022)
-   29 citations · Soil Carbon
-
-7. **Emissions of CO2, N2O and CH4 From Cultivated and Set Aside Drained Peatland in Central Sweden** (2021)
-   29 citations · Soil Carbon
-
-8. **Response of maize yield to changes in soil organic matter in a Swedish long‐term experiment** (2024)
-   18 citations · General CDR
-
-9. **Agriculture practices to improve soil carbon storage in upland soil** (2022)
-   18 citations · Soil Carbon
-
-10. **Reply letter to Munoz et al. ‘on the importance of time in carbon sequestration in soils and climate change mitigation’—Keep carbon sequestration terminologies consistent and functional** (2024)
-   17 citations · General CDR
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Feasible Carbon Sequestration Potential in European Agricultural Mineral Soils Through Improved Management](https://openalex.org/W7163002390) | Biochar | 1 |
+| 2026 | [Perennial crops enhance the association between microbial biomass and soil organic carbon sequestration](https://openalex.org/W7203825573) | Soil Carbon | 0 |
+| 2024 | [Carbon sequestration in the subsoil and the time required to stabilize carbon for climate change mitigation](https://doi.org/10.1111/gcb.17153) | General CDR; Soil Carbon | 75 |
+| 2024 | [Response of maize yield to changes in soil organic matter in a Swedish long‐term experiment](https://doi.org/10.1111/ejss.13482) | General CDR; Soil Carbon | 18 |
+| 2024 | [Bayesian calibration of the ICBM/3 soil organic carbon model constrained by data from long-term experiments and uncertainties of C inputs](https://doi.org/10.1080/17583004.2024.2304749) | General CDR; Soil Carbon | 6 |
+| 2024 | [Carbon sequestration in Swedish cropland soils](https://doi.org/10.56181//vztp9446) | General CDR; Soil Carbon | 0 |
+| 2023 | [Carbon sequestration in soils and climate change mitigation—Definitions and pitfalls](https://doi.org/10.1111/gcb.16983) | General CDR; Soil Carbon | 234 |
+| 2023 | [Soil carbon-sequestration and climate mitigation – definitions and their implications](https://doi.org/10.5194/egusphere-egu23-12579) | General CDR | 2 |
+| 2023 | [Response of Crop Yield to Changes in Soil Organic Matter in a Swedish Long-Term Experiment](http://dx.doi.org/10.2139/ssrn.4613950) | Soil Carbon | 1 |
+| 2023 | [Physical protection of soil organic carbon in Swedish arable soils in relation to oxalate-extractable aluminum.](https://doi.org/10.5194/egusphere-egu23-12794) | Soil Carbon | 0 |
+| 2022 | [Relations between soil organic carbon content and the pore size distribution for an arable topsoil with large variations in soil properties](https://doi.org/10.1111/ejss.13212) | Soil Carbon | 118 |
+| 2022 | [Higher carbon sequestration on Swedish dairy farms compared with other farm types as revealed by national soil inventories](https://doi.org/10.1080/17583004.2022.2074315) | Soil Carbon | 29 |
+| 2022 | [Agriculture practices to improve soil carbon storage in upland soil](https://doi.org/10.19103/as.2022.0106.15) | Soil Carbon | 18 |
+| 2021 | [Achievable agricultural soil carbon sequestration across Europe from country‐specific estimates](https://doi.org/10.1111/gcb.15897) | General CDR; Soil Carbon | 78 |
+| 2021 | [Additional carbon inputs to reach a 4 per 1000 objective in Europe: feasibility and projected impacts of climate change based on Century simulations of long-term arable experiments](https://doi.org/10.5194/bg-18-3981-2021) | Soil Carbon | 46 |
+| 2021 | [Emissions of CO2, N2O and CH4 From Cultivated and Set Aside Drained Peatland in Central Sweden](https://doi.org/10.3389/fenvs.2021.630721) | Soil Carbon | 29 |
 
 ## External Profiles
 

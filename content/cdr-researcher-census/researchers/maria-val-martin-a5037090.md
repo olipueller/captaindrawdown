@@ -1,7 +1,7 @@
 ---
 title: "Maria Val Martin"
 description: "Maria Val Martin is a Senior General CDR researcher at University of Sheffield in GB. With 173 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/maria-val-martin-a5037090/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,25 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | CDR Focus | 7.5% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Substantial carbon drawdown potential from enhanced rock weathering in the United Kingdom** (2022)
-   165 citations · Enhanced Weathering
+13 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 10, Enhanced Weathering 8, Soil Carbon 3. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Enhanced weathering in the US Corn Belt delivers carbon removal with agronomic benefits** (2024)
-   146 citations
-
-3. **Chemistry-albedo feedbacks offset up to a third of forestation’s CO <sub>2</sub> removal benefits** (2024)
-   108 citations · General CDR
-
-4. **Transforming US agriculture for carbon removal with enhanced weathering** (2025)
-   59 citations · Enhanced Weathering
-
-5. **Global and regional hydrological impacts of global forest expansion** (2024)
-   22 citations · General CDR
-
-6. **Improving nitrogen cycling in a land surface model (CLM5) to quantify soil N <sub>2</sub> O, NO, and NH <sub>3</sub> emissions from enhanced rock weathering with croplands** (2023)
-   20 citations · Enhanced Weathering
-
-7. **Making mistakes in estimating the CO2 sequestration potential of UK croplands with enhanced weathering** (2023)
-   17 citations · Enhanced Weathering
-
-8. **Global and Regional Hydrological Impacts of Global Forest Expansion** (2024)
-   5 citations
-
-9. **Enhanced weathering in the U.S. Corn Belt delivers carbon removal with agronomic benefits** (2023)
-   5 citations · Enhanced Weathering
-
-10. **Improving nitrogen cycling in a land surface model (CLM5) to quantify soil N <sub>2</sub> O, NO and NH <sub>3</sub> emissions from enhanced rock weathering with croplands** (2023)
-   4 citations
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Effects of enhanced weathering on soil gas fluxes across UK land uses](https://doi.org/10.5194/egusphere-egu26-12483) | Enhanced Weathering; General CDR | 0 |
+| 2026 | [Wetland Restoration as a Nature-Based Climate Solution: Quantifying Methane Emissions and Climate Feedbacks](https://doi.org/10.5194/egusphere-egu26-13660) | Soil Carbon | 0 |
+| 2026 | [Effects of enhanced rock weathering on soil gas fluxes across UK land uses](https://openalex.org/W7171521089) | Enhanced Weathering | 0 |
+| 2025 | [Transforming US agriculture for carbon removal with enhanced weathering](https://doi.org/10.1038/s41586-024-08429-2) | Enhanced Weathering; General CDR | 59 |
+| 2024 | [Chemistry-albedo feedbacks offset up to a third of forestation’s CO <sub>2</sub> removal benefits](https://doi.org/10.1126/science.adg6196) | General CDR | 108 |
+| 2024 | [Global and regional hydrological impacts of global forest expansion](https://doi.org/10.5194/bg-21-3883-2024) | General CDR | 22 |
+| 2024 | [Global and Regional Hydrological Impacts of Global-Scale Forest Expansion](https://doi.org/10.5194/egusphere-egu24-3067) | General CDR | 0 |
+| 2023 | [Improving nitrogen cycling in a land surface model (CLM5) to quantify soil N <sub>2</sub> O, NO, and NH <sub>3</sub> emissions from enhanced rock weathering with croplands](https://doi.org/10.5194/gmd-16-5783-2023) | Enhanced Weathering; Soil Carbon | 20 |
+| 2023 | [Making mistakes in estimating the CO2 sequestration potential of UK croplands with enhanced weathering](https://doi.org/10.1016/j.apgeochem.2023.105591) | Enhanced Weathering; General CDR | 17 |
+| 2023 | [Enhanced weathering in the U.S. Corn Belt delivers carbon removal with agronomic benefits](http://arxiv.org/abs/2307.05343) | Enhanced Weathering; General CDR; Soil Carbon | 5 |
+| 2023 | [Chemistry-albedo feedbacks from reforestation partially offset CO2 removal benefits](https://doi.org/10.5194/egusphere-egu23-8236) | General CDR | 1 |
+| 2023 | [Transforming U.S. agriculture with crushed rock for CO$_2$ sequestration and increased production](http://arxiv.org/abs/2308.04302) | Enhanced Weathering; General CDR | 1 |
+| 2022 | [Substantial carbon drawdown potential from enhanced rock weathering in the United Kingdom](https://doi.org/10.1038/s41561-022-00925-2) | Enhanced Weathering; General CDR | 165 |
 
 ## External Profiles
 

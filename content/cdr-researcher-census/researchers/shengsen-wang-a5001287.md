@@ -1,7 +1,7 @@
 ---
 title: "Shengsen Wang"
 description: "Shengsen Wang is an Eminent Biochar researcher at Yangzhou University in CN. With 161 publications and an h-index of 52, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/shengsen-wang-a5001287/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,25 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | CDR Focus | 7.5% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Carbon defects in biochar facilitated nitrogen doping: The significant role of pyridinic nitrogen in peroxymonosulfate activation and ciprofloxacin degradation** (2022)
-   237 citations · Biochar
+13 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 12, Soil Carbon 4, General CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Formation and mechanisms of nano-metal oxide-biochar composites for pollutants removal: A review** (2021)
-   185 citations
-
-3. **Preparation of biochar-interpenetrated iron-alginate hydrogel as a pH-independent sorbent for removal of Cr(VI) and Pb(II)** (2021)
-   102 citations · Biochar
-
-4. **Modification of ordered mesoporous carbon for removal of environmental contaminants from aqueous phase: A review** (2021)
-   86 citations
-
-5. **Engineered biochar effects on soil physicochemical properties and biota communities: A critical review** (2022)
-   54 citations · Biochar
-
-6. **Carbon matrix of biochar from biomass modeling components facilitates electron transfer from zero-valent iron to Cr(VI)** (2021)
-   30 citations · Biochar
-
-7. **Patterns and determinants of microbial- and plant-derived carbon contributions to soil organic carbon in tea plantation chronosequence** (2024)
-   17 citations · Soil Carbon
-
-8. **Engineered biochar for simultaneous removal of heavy metals and organic pollutants from wastewater: mechanisms, efficiency, and applications** (2025)
-   11 citations · Biochar
-
-9. **Straw and Biochar Amendments Over a Decade Differently Modulates Denitrification Gas Products** (2024)
-   6 citations · Biochar
-
-10. **Biochar towards soil carbon neutrality: a critical review** (2026)
-   3 citations · Biochar
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Biochar towards soil carbon neutrality: a critical review](https://openalex.org/W7128493904) | Biochar; Soil Carbon | 3 |
+| 2026 | [Nitrate fertilization with biochar simultaneously enhanced arsenic immobilization and mitigation of greenhouse gas emissions from an organic carbon-enriched paddy soil](https://openalex.org/W7154499892) | Biochar | 1 |
+| 2026 | [Iron Oxide Types Determine the Regulatory Effects of Biochar on Carbon Emissions from Arsenic-Contaminated Soils](https://openalex.org/W7168252112) | Biochar | 0 |
+| 2025 | [Engineered biochar for simultaneous removal of heavy metals and organic pollutants from wastewater: mechanisms, efficiency, and applications](https://doi.org/10.48130/bchax-0025-0008) | Biochar | 11 |
+| 2024 | [Patterns and determinants of microbial- and plant-derived carbon contributions to soil organic carbon in tea plantation chronosequence](https://doi.org/10.1007/s11104-024-06712-9) | Soil Carbon | 17 |
+| 2024 | [Straw and Biochar Amendments Over a Decade Differently Modulates Denitrification Gas Products](https://doi.org/10.1007/s11270-024-07580-w) | Biochar; Soil Carbon | 6 |
+| 2023 | [Noncondensed aromatic carbon of sludge-derived biochar predominated peroxydisulfate activation mechanism for tetracycline degradation via an electron transfer pathway](https://doi.org/10.1080/26395940.2023.2267755) | Biochar | 3 |
+| 2023 | [Agricultural Waste-Based Biochar for Soil Carbon Sequestration and Emission Reduction: Preparation, Evaluation, Application, and Mechanism](https://doi.org/10.1007/978-981-99-4472-9_10) | Biochar; General CDR; Soil Carbon | 1 |
+| 2023 | [Noncondensed Aromatic Components of Sludge-Derived Biochar Predominated Peroxydisulfate Activation Mechanism for Tetracycline Degradation Via an Electron Transfer Pathway](http://dx.doi.org/10.2139/ssrn.4480882) | Biochar | 0 |
+| 2022 | [Carbon defects in biochar facilitated nitrogen doping: The significant role of pyridinic nitrogen in peroxymonosulfate activation and ciprofloxacin degradation](https://doi.org/10.1016/j.cej.2022.135864) | Biochar | 237 |
+| 2022 | [Engineered biochar effects on soil physicochemical properties and biota communities: A critical review](https://doi.org/10.1016/j.chemosphere.2022.137025) | Biochar | 54 |
+| 2021 | [Preparation of biochar-interpenetrated iron-alginate hydrogel as a pH-independent sorbent for removal of Cr(VI) and Pb(II)](https://doi.org/10.1016/j.envpol.2021.117303) | Biochar | 102 |
+| 2021 | [Carbon matrix of biochar from biomass modeling components facilitates electron transfer from zero-valent iron to Cr(VI)](https://doi.org/10.1007/s11356-021-17713-x) | Biochar | 30 |
 
 ## External Profiles
 

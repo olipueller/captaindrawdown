@@ -1,7 +1,7 @@
 ---
 title: "Curran Crawford"
 description: "Curran Crawford is a Senior General CDR researcher at University of Victoria in CA. With 220 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/curran-crawford-a5010570/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,25 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | CDR Focus | 5.9% |
 | Trajectory | Declining |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Review of ammonia production and utilization: Enabling clean energy transition and net-zero climate targets** (2024)
-   255 citations · General CDR
+13 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 12, DAC 6, Ocean CDR 3, Enhanced Weathering 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Offshore wind energy prospects for power-to-direct air capture and power-to-gas** (2023)
-   23 citations · DAC
-
-3. **Potential of offshore wind energy for direct air capture** (2022)
-   18 citations · DAC
-
-4. **Performance assessment of offshore wind energy integrated monoethanolamine synthesis system for post-combustion and potential direct air capture** (2022)
-   16 citations · DAC
-
-5. **Storage capacity estimates and site conditions of potential locations for offshore-wind powered carbon dioxide removal and carbon sequestration in ocean basalt** (2024)
-   8 citations · Enhanced Weathering
-
-6. **Ambient wind conditions impact on energy requirements of an offshore direct air capture plant** (2024)
-   8 citations
-
-7. **Scaling considerations and optimal control for an offshore wind powered direct air capture system** (2024)
-   8 citations · DAC
-
-8. **Dynamic analysis of a floating wind turbine platform with on-board CO2 direct air capture** (2024)
-   7 citations
-
-9. **Electrochemical approaches for CO2 point source, direct air, and seawater capture: identifying opportunities and synergies** (2025)
-   5 citations · General CDR
-
-10. **Comparison of optimal power production and operation of unmoored floating offshore wind turbines and energy ships** (2023)
-   4 citations
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2025 | [Electrochemical approaches for CO2 point source, direct air, and seawater capture: identifying opportunities and synergies](https://doi.org/10.1007/s11356-025-35890-x) | General CDR; Ocean CDR | 5 |
+| 2025 | [Solid Carbon – a Gigaton-Scale Ocean Rock Solid Climate Solution](https://doi.org/10.2139/ssrn.5069687) | Enhanced Weathering; General CDR; Ocean CDR | 1 |
+| 2024 | [Review of ammonia production and utilization: Enabling clean energy transition and net-zero climate targets](https://doi.org/10.1016/j.enconman.2023.117869) | General CDR | 255 |
+| 2024 | [Scaling considerations and optimal control for an offshore wind powered direct air capture system](https://doi.org/10.1088/2515-7655/ad31ba) | DAC; General CDR | 8 |
+| 2024 | [Storage capacity estimates and site conditions of potential locations for offshore-wind powered carbon dioxide removal and carbon sequestration in ocean basalt](https://doi.org/10.1016/j.ccst.2024.100231) | Enhanced Weathering; General CDR | 8 |
+| 2024 | [Design considerations for the marinisation of offshore direct air capture](https://doi.org/10.1016/j.energy.2024.133864) | DAC; General CDR | 3 |
+| 2024 | [A Global Assessment of Potential Locations for Offshore-Wind Powered Carbon Dioxide Removal and Carbon Sequestration in Ocean Basalt](http://dx.doi.org/10.2139/ssrn.4743124) | Ocean CDR | 0 |
+| 2024 | [Dynamic Modeling and Optimal Control Schemes for an Offshore-Wind Driven Direct Air Capture System Including Energy Storage](http://dx.doi.org/10.2139/ssrn.4944116) | General CDR | 0 |
+| 2023 | [Offshore wind energy prospects for power-to-direct air capture and power-to-gas](https://doi.org/10.1016/j.ijhydene.2023.06.164) | DAC; General CDR | 23 |
+| 2023 | [Linear programming model predictive control for offshore wind-direct air capture system using battery storage](http://dx.doi.org/10.23919/ecc57647.2023.10178329) | DAC; General CDR | 0 |
+| 2022 | [Potential of offshore wind energy for direct air capture](https://doi.org/10.1002/er.8506) | DAC; General CDR | 18 |
+| 2022 | [Performance assessment of offshore wind energy integrated monoethanolamine synthesis system for post-combustion and potential direct air capture](https://doi.org/10.1016/j.jcou.2022.102154) | DAC; General CDR | 16 |
+| 2022 | [Comparison of optimal power production and operation of unmoored floating offshore wind turbines and energy ships](https://doi.org/10.5194/wes-2022-100) | General CDR | 1 |
 
 ## External Profiles
 

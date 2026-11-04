@@ -1,7 +1,7 @@
 ---
 title: "Jihui Li"
 description: "Jihui Li is a Senior Biochar researcher at Hainan University in CN. With 145 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/jihui-li-a5071052/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,34 +48,21 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | CDR Focus | 6.2% |
 | Trajectory | Growing |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Association of biochar properties with changes in soil bacterial, fungal and fauna communities and nutrient cycling processes** (2021)
-   380 citations · Biochar
+9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 9, Soil Carbon 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Highly adsorptive pristine and magnetic biochars prepared from crayfish shell for removal of Cu(II) and Pb(II)** (2021)
-   58 citations · Biochar
-
-3. **Generalists and specialists decomposing labile and aromatic biochar compounds and sequestering carbon in soil** (2022)
-   36 citations · Biochar
-
-4. **Oxidative hydrothermal carbonization to fabricate versatile magnetic biochar for Fenton-like degradation of phenolic compounds** (2024)
-   17 citations · Biochar
-
-5. **Preparation of highly adsorptive biochar by sequential iron impregnation under refluxing and pyrolysis at low temperature for removal of tetracycline** (2024)
-   15 citations · Biochar
-
-6. **Microstructure regulation to manifold catalysis sites of magnetic hydrochar for enhancing Fenton-like degradation of tetracycline** (2025)
-   8 citations · Biochar
-
-7. **Oxidative carbothermal reduction for preparation of high-loading nano-zero-valent iron doped biochar for removal of tetracyclines and fluoroquinolones** (2026)
-   3 citations · Biochar
-
-8. **Synergistic Effect of Potassium Ferrate and Sodium Hydroxide in Lowering Carbothermal Reduction Temperature: Preparation of Magnetic Zero-Valent Iron-Doped Biochar for Antibiotic Removal** (2025)
-   3 citations · Biochar
-
-9. **A robust nano zero-valent iron doped biochar prepared by inherent oxidation-driven carbothermal reduction for activating peroxymonosulfate to degrade antibiotics and phenols** (2026)
-   0 citations · Biochar
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Oxidative carbothermal reduction for preparation of high-loading nano-zero-valent iron doped biochar for removal of tetracyclines and fluoroquinolones](https://openalex.org/W7161307417) | Biochar | 3 |
+| 2026 | [A robust nano zero-valent iron doped biochar prepared by inherent oxidation-driven carbothermal reduction for activating peroxymonosulfate to degrade antibiotics and phenols](https://openalex.org/W7171503492) | Biochar | 0 |
+| 2025 | [Microstructure regulation to manifold catalysis sites of magnetic hydrochar for enhancing Fenton-like degradation of tetracycline](https://doi.org/10.1016/j.cclet.2025.111306) | Biochar | 8 |
+| 2025 | [Synergistic Effect of Potassium Ferrate and Sodium Hydroxide in Lowering Carbothermal Reduction Temperature: Preparation of Magnetic Zero-Valent Iron-Doped Biochar for Antibiotic Removal](https://doi.org/10.3390/pr13092806) | Biochar | 3 |
+| 2024 | [Oxidative hydrothermal carbonization to fabricate versatile magnetic biochar for Fenton-like degradation of phenolic compounds](https://doi.org/10.1016/j.jece.2024.114822) | Biochar | 17 |
+| 2024 | [Preparation of highly adsorptive biochar by sequential iron impregnation under refluxing and pyrolysis at low temperature for removal of tetracycline](https://openalex.org/W4393321328) | Biochar | 15 |
+| 2022 | [Generalists and specialists decomposing labile and aromatic biochar compounds and sequestering carbon in soil](https://doi.org/10.1016/j.geoderma.2022.116176) | Biochar | 36 |
+| 2021 | [Association of biochar properties with changes in soil bacterial, fungal and fauna communities and nutrient cycling processes](https://doi.org/10.1007/s42773-021-00099-x) | Biochar; Soil Carbon | 380 |
+| 2021 | [Highly adsorptive pristine and magnetic biochars prepared from crayfish shell for removal of Cu(II) and Pb(II)](https://doi.org/10.1016/j.jtice.2021.08.004) | Biochar | 58 |
 
 ## External Profiles
 

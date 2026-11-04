@@ -1,7 +1,7 @@
 ---
 title: "Iza Lantgios"
 description: "Iza Lantgios is an Early-career DAC researcher at Idaho National Laboratory in US. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/iza-lantgios-a5084466/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,25 +48,18 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | CDR Focus | 100.0% |
 | Trajectory | Unknown |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **A comparative assessment of the economic viability of nuclear-integrated direct air capture systems** (2026)
-   2 citations · DAC
+6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 6, General CDR 3. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Light Water Reactor Sustainability Program: Technical and Economic Considerations for Uprate of Existing Nuclear Reactors with Cogeneration** (2024)
-   1 citations · DAC
-
-3. **Nuclear Reactor Heat Extraction for Synthetic Fuel Plants** (2025)
-   0 citations · DAC
-
-4. **Design Considerations for Integrating Direct Air Capture with a Nuclear Power Plant** (2023)
-   0 citations · DAC
-
-5. **Techno-Economic Performance of Nuclear Reactors to Power Direct Air Capture Technologies** (2025)
-   0 citations · DAC
-
-6. **The Potential for Coupling Direct Air Capture with Nuclear Power Plant Uprate** (2024)
-   0 citations · DAC
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [A comparative assessment of the economic viability of nuclear-integrated direct air capture systems](https://doi.org/10.1016/j.ijggc.2026.104611) | DAC; General CDR | 2 |
+| 2025 | [Techno-Economic Performance of Nuclear Reactors to Power Direct Air Capture Technologies](https://openalex.org/W7162146030) | DAC | 0 |
+| 2025 | [Nuclear Reactor Heat Extraction for Synthetic Fuel Plants](https://openalex.org/W7172399541) | DAC | 0 |
+| 2024 | [Light Water Reactor Sustainability Program: Technical and Economic Considerations for Uprate of Existing Nuclear Reactors with Cogeneration](https://doi.org/10.2172/2405118) | DAC; General CDR | 1 |
+| 2024 | [The Potential for Coupling Direct Air Capture with Nuclear Power Plant Uprate](http://dx.doi.org/10.13182/pbnc24-45114) | DAC; General CDR | 0 |
+| 2023 | [Design Considerations for Integrating Direct Air Capture with a Nuclear Power Plant](https://openalex.org/W7163657495) | DAC | 0 |
 
 ## External Profiles
 

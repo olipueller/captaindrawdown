@@ -1,7 +1,7 @@
 ---
 title: "Sílvia Poblador"
 description: "Sílvia Poblador is a Mid-career Enhanced Weathering researcher at Universitat de Barcelona in ES. With 74 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/silvia-poblador-a5084556/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,20 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | CDR Focus | 10.8% |
 | Trajectory | Exiting |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Is the climate change mitigation effect of enhanced silicate weathering governed by biological processes?** (2021)
-   133 citations · Enhanced Weathering
+8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 8, Soil Carbon 4, General CDR 4. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Enhanced Weathering Using Basalt Rock Powder: Carbon Sequestration, Co-benefits and Risks in a Mesocosm Study With Solanum tuberosum** (2022)
-   128 citations · Enhanced Weathering
-
-3. **Earthworms in an enhanced weathering mesocosm experiment: Effects on soil carbon sequestration, base cation exchange and soil CO2 efflux** (2024)
-   25 citations · Enhanced Weathering
-
-4. **Basalt addition improves the performance of young grassland monocultures under more persistent weather featuring longer dry and wet spells** (2023)
-   13 citations · Enhanced Weathering
-
-5. **Soil Carbon Sequestration and the Role of Earthworms in an Enhanced Weathering Mesocosm Experiment** (2023)
-   6 citations · Enhanced Weathering
-
-6. **Earthworms in an Enhanced Weathering Mesocosm Experiment:Effects on Soil Carbon Sequestration, Base Cation Exchange and Soil Co2 Efflux** (2023)
-   3 citations · Enhanced Weathering
-
-7. **Basalt Addition Improved Climate Change Adaptation Potential of Young Grassland Monocultures Under More Persistent Precipitation Regimes** (2023)
-   1 citations · Enhanced Weathering
-
-8. **Enhanced weathering in acid and alkaline agricultural soils: greenhouse gas emissions and soil bacterial communities implications** (2022)
-   1 citations · Enhanced Weathering
-
-9. **Earthworms in an Enhanced Weathering Mesocosm Experiment:Effects on Soil Carbon Sequestration, Base Cation Exchange and Soil Co2 Efflux** (2024)
-   0 citations
-
-10. **Enhancing soil carbon sequestration in the parks of the city of Barcelona&amp;#160;** (2024)
-   0 citations · Enhanced Weathering
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2024 | [Earthworms in an enhanced weathering mesocosm experiment: Effects on soil carbon sequestration, base cation exchange and soil CO2 efflux](https://doi.org/10.1016/j.soilbio.2024.109596) | Enhanced Weathering; Soil Carbon | 25 |
+| 2024 | [Enhancing soil carbon sequestration in the parks of the city of Barcelona&amp;#160;](https://doi.org/10.5194/egusphere-egu24-12025) | Enhanced Weathering; General CDR; Soil Carbon | 0 |
+| 2023 | [Basalt addition improves the performance of young grassland monocultures under more persistent weather featuring longer dry and wet spells](https://doi.org/10.1016/j.agrformet.2023.109610) | Enhanced Weathering | 13 |
+| 2023 | [Basalt Addition Improved Climate Change Adaptation Potential of Young Grassland Monocultures Under More Persistent Precipitation Regimes](http://dx.doi.org/10.2139/ssrn.4409460) | Enhanced Weathering | 1 |
+| 2022 | [Enhanced Weathering Using Basalt Rock Powder: Carbon Sequestration, Co-benefits and Risks in a Mesocosm Study With Solanum tuberosum](https://doi.org/10.3389/fclim.2022.869456) | Enhanced Weathering; General CDR | 128 |
+| 2022 | [Enhanced weathering in acid and alkaline agricultural soils: greenhouse gas emissions and soil bacterial communities implications](https://doi.org/10.5194/egusphere-egu22-13396) | Enhanced Weathering; General CDR; Soil Carbon | 1 |
+| 2021 | [Is the climate change mitigation effect of enhanced silicate weathering governed by biological processes?](https://doi.org/10.1111/gcb.15993) | Enhanced Weathering; General CDR | 133 |
+| 2021 | [Carbon sequestration through enhanced weathering processes on <i>Trictum aestivum </i>production in an acidic and an alkaline soil: yield and N<sub>2</sub>O emissions co-benefits.](https://doi.org/10.7185/gold2021.7232) | Enhanced Weathering; Soil Carbon | 0 |
 
 ## External Profiles
 

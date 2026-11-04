@@ -1,7 +1,7 @@
 ---
 title: "Kingsley O. Iwuozor"
 description: "Kingsley O. Iwuozor is an Eminent Biochar researcher at Nnamdi Azikiwe University in NG. With 208 publications and an h-index of 48, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/kingsley-o-iwuozor-a5061348/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,22 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | CDR Focus | 4.8% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **A review of treatment technologies for the mitigation of the toxic environmental effects of acid mine drainage (AMD)** (2021)
-   253 citations
+10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 10, BECCS 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Adsorption of crude oil from aqueous solution: A review** (2022)
-   98 citations
-
-3. **Removal of bromophenol blue dye from water onto biomass, activated carbon, biochar, polymer, nanoparticle, and composite adsorbents** (2022)
-   42 citations · Biochar
-
-4. **Thermal recycling strategy of Coca-Cola PVC label films by its co-carbonization with Terminalia ivorensis leaves** (2022)
-   41 citations · Biochar
-
-5. **Aqueous phase adsorption of aromatic organoarsenic compounds: A review** (2022)
-   40 citations
-
-6. **A comprehensive review on the sequestration of dyes from aqueous media using maize-/corn-based adsorbents** (2023)
-   33 citations
-
-7. **Hybrid biochar production from biomass and pigmented plastic for sustainable waste-to-energy** (2023)
-   33 citations · Biochar
-
-8. **Comparative assessment of biochar produced from LDPE and neem leaves using batch and semi-batch biomass fuel-based reactors** (2023)
-   23 citations · Biochar
-
-9. **A review of pine-based adsorbents for the adsorption of dyes** (2022)
-   18 citations
-
-10. **Investigating the properties and agronomic benefits of onion peel and chicken feather-derived biochars** (2024)
-   14 citations · Biochar
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [A critical review on metal/metal oxide-modified sugarcane biochar](https://openalex.org/W7164556639) | Biochar | 3 |
+| 2026 | [Preparations, Modifications, Properties, and Environmental Applications of Animal Manure-Derived Biochar: A Review](https://openalex.org/W7167661412) | Biochar | 0 |
+| 2025 | [Production and characterization of sunflower stalk biochar and ash: a study on batch versus semi-batch gasifier systems](https://doi.org/10.1515/ijcre-2024-0248) | BECCS; Biochar | 6 |
+| 2025 | [Comparative Structural and Textural Evaluation of Biochar Derived From Devolatilized Agricultural Pods](https://doi.org/10.1007/s12155-025-10934-9) | Biochar | 5 |
+| 2024 | [Investigating the properties and agronomic benefits of onion peel and chicken feather-derived biochars](https://doi.org/10.1016/j.heliyon.2024.e35485) | Biochar | 14 |
+| 2024 | [Sustainable Recycling of Polyester Fabric Waste and Sugarcane Bagasse into Biochar](https://doi.org/10.1007/s12355-024-01520-y) | Biochar | 7 |
+| 2023 | [Hybrid biochar production from biomass and pigmented plastic for sustainable waste-to-energy](https://doi.org/10.1007/s42247-023-00538-4) | Biochar | 33 |
+| 2023 | [Comparative assessment of biochar produced from LDPE and neem leaves using batch and semi-batch biomass fuel-based reactors](https://doi.org/10.1080/17597269.2023.2281099) | Biochar | 23 |
+| 2022 | [Removal of bromophenol blue dye from water onto biomass, activated carbon, biochar, polymer, nanoparticle, and composite adsorbents](https://doi.org/10.1007/s13399-022-03592-w) | Biochar | 42 |
+| 2022 | [Thermal recycling strategy of Coca-Cola PVC label films by its co-carbonization with Terminalia ivorensis leaves](https://doi.org/10.1016/j.clet.2022.100564) | Biochar | 41 |
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Damien Ernst"
 description: "Damien Ernst is an Eminent DAC researcher at University of Liège in BE. With 412 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/damien-ernst-a5077011/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,25 +48,17 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | CDR Focus | 1.2% |
 | Trajectory | Declining |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Remote Renewable Hubs for Carbon-Neutral Synthetic Fuel Production** (2021)
-   32 citations · DAC
+5 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 5, General CDR 4. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Synthetic methane for closing the carbon loop: Comparative study of three carbon sources for remote carbon-neutral fuel synthetization** (2024)
-   17 citations
-
-3. **Synthetic methane for closing the carbon loop: Comparative study of three carbon sources for remote carbon-neutral fuel synthetization** (2023)
-   1 citations · DAC
-
-4. **Towards CO2 valorization in a multi remote renewable energy hub framework** (2023)
-   1 citations · DAC
-
-5. **Towards the integration of Remote Renewable Energy Hubs with CCUS chain for a future energy system: the Belgian case** (2026)
-   0 citations · DAC
-
-6. **Towards CO2 Valorisation in a Multi Remote Renewable Energy Hub Framework** (2023)
-   0 citations · DAC
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Towards the integration of Remote Renewable Energy Hubs with CCUS chain for a future energy system: the Belgian case](https://openalex.org/W7160361737) | DAC | 0 |
+| 2023 | [Towards CO2 valorization in a multi remote renewable energy hub framework](https://doi.org/10.48550/arxiv.2303.09454) | DAC; General CDR | 1 |
+| 2023 | [Synthetic methane for closing the carbon loop: Comparative study of three carbon sources for remote carbon-neutral fuel synthetization](http://arxiv.org/abs/2310.01964) | DAC; General CDR | 1 |
+| 2023 | [Towards CO2 Valorisation in a Multi Remote Renewable Energy Hub Framework](http://dx.doi.org/10.52202/069564-0172) | DAC; General CDR | 0 |
+| 2021 | [Remote Renewable Hubs for Carbon-Neutral Synthetic Fuel Production](https://doi.org/10.3389/fenrg.2021.671279) | DAC; General CDR | 32 |
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Ella Milliken"
 description: "Ella Milliken is an Early-career Enhanced Weathering researcher at Yale University in US. With 16 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/ella-milliken-a5117487/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,22 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | CDR Focus | 62.5% |
 | Trajectory | Unknown |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Direct Measurement of Carbon Dioxide Removal Due to Enhanced Weathering** (2025)
-   4 citations · Enhanced Weathering
+10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 10, General CDR 9, Biochar 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Aggregated monitoring of enhanced weathering on agricultural lands** (2025)
-   2 citations · Enhanced Weathering
-
-3. **An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering** (2026)
-   1 citations · Enhanced Weathering
-
-4. **Evidence for carbon dioxide removal via enhanced rock weathering with steel slag, though not basalt, in a midwestern U.S. field trial** (2026)
-   1 citations
-
-5. **Integrated Thermal and Phyto-Remediation of Agricultural Soils Impacted by PFAS** (2025)
-   1 citations · Biochar
-
-6. **Significant yield benefits from basalt soil amendments in the Southeastern US** (2026)
-   0 citations · Enhanced Weathering
-
-7. **Bridging carbon removal time lags in agricultural enhanced weathering via methane emission reduction** (2026)
-   0 citations · Enhanced Weathering
-
-8. **Soil Carbon Dioxide Removal Estimates from Enhanced Weathering Deployments in the Southeastern United States Are Likely Tied to Cation Mobility** (2026)
-   0 citations · Enhanced Weathering
-
-9. **Bridging time lags in durable carbon removal on working lands** (2026)
-   0 citations · Biochar
-
-10. **An Updated Framework and Signal-to-Noise Analysis of Soil Mass Balance Approaches for Quantifying Enhanced Weathering on Managed Lands** (2025)
-   0 citations · Enhanced Weathering
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering](https://openalex.org/W7168623015) | Enhanced Weathering; General CDR | 1 |
+| 2026 | [Bridging time lags in durable carbon removal on working lands](https://doi.org/10.22541/essoar.175855457.77763746/v2) | Biochar; Enhanced Weathering; General CDR | 0 |
+| 2026 | [Soil Carbon Dioxide Removal Estimates from Enhanced Weathering Deployments in the Southeastern United States Are Likely Tied to Cation Mobility](https://openalex.org/W7155173176) | Enhanced Weathering; General CDR | 0 |
+| 2026 | [Bridging carbon removal time lags in agricultural enhanced weathering via methane emission reduction](https://openalex.org/W7162781008) | Enhanced Weathering; General CDR | 0 |
+| 2026 | [Significant yield benefits from basalt soil amendments in the Southeastern US](https://openalex.org/W7202291256) | Enhanced Weathering; General CDR | 0 |
+| 2025 | [Direct Measurement of Carbon Dioxide Removal Due to Enhanced Weathering](https://doi.org/10.1021/acs.estlett.5c00441) | Enhanced Weathering | 4 |
+| 2025 | [Aggregated monitoring of enhanced weathering on agricultural lands](https://doi.org/10.70212/cdrxiv.2025394.v2) | Enhanced Weathering; General CDR | 2 |
+| 2025 | [Integrated Thermal and Phyto-Remediation of Agricultural Soils Impacted by PFAS](https://doi.org/10.70212/cdrxiv.2025471.v1) | Biochar; Enhanced Weathering; General CDR | 1 |
+| 2025 | [Updated framework and signal-to-noise analysis of soil mass balance approaches for quantifying enhanced weathering on managed lands](https://doi.org/10.70212/cdrxiv.2025390.v1) | Enhanced Weathering; General CDR | 0 |
+| 2025 | [An Updated Framework and Signal-to-Noise Analysis of Soil Mass Balance Approaches for Quantifying Enhanced Weathering on Managed Lands](https://doi.org/10.1021/acs.est.5c08303) | Enhanced Weathering; General CDR | 0 |
 
 ## External Profiles
 

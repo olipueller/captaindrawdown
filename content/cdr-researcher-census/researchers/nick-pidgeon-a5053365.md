@@ -1,7 +1,7 @@
 ---
 title: "Nick Pidgeon"
 description: "Nick Pidgeon is an Eminent General CDR researcher at Cardiff University in GB. With 266 publications and an h-index of 80, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/nick-pidgeon-a5053365/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,37 +45,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | CDR Focus | 3.8% |
 | Trajectory | Growing |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Substantial carbon drawdown potential from enhanced rock weathering in the United Kingdom** (2022)
-   165 citations · Enhanced Weathering
+10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 10, Enhanced Weathering 8. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Transforming US agriculture for carbon removal with enhanced weathering** (2025)
-   59 citations · Enhanced Weathering
-
-3. **Exploring cross-national public support for the use of enhanced weathering as a land-based carbon dioxide removal strategy** (2021)
-   55 citations · Enhanced Weathering
-
-4. **But They Told Us It Was Safe! Carbon Dioxide Removal, Fracking, and Ripple Effects in Risk Perceptions** (2021)
-   41 citations · General CDR
-
-5. **Deliberating enhanced weathering: Public frames, iconic ecosystems and the governance of carbon removal at scale** (2022)
-   26 citations · Enhanced Weathering
-
-6. **Challenges and opportunities in scaling enhanced weathering for carbon dioxide removal** (2025)
-   20 citations · Enhanced Weathering
-
-7. **Question-Led Innovation: Public priorities for enhanced weathering research in Malaysia** (2024)
-   9 citations · Enhanced Weathering
-
-8. **Who pays for carbon dioxide removal? Public perceptions of risk and fairness of enhanced rock weathering in the UK** (2025)
-   3 citations · Enhanced Weathering
-
-9. **Responsible research and innovation of carbon removal: strategies for field trials** (2025)
-   2 citations · General CDR
-
-10. **Transforming U.S. agriculture with crushed rock for CO$_2$ sequestration and increased production** (2023)
-   1 citations · Enhanced Weathering
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2025 | [Transforming US agriculture for carbon removal with enhanced weathering](https://doi.org/10.1038/s41586-024-08429-2) | Enhanced Weathering; General CDR | 59 |
+| 2025 | [Challenges and opportunities in scaling enhanced weathering for carbon dioxide removal](https://doi.org/10.1038/s43017-025-00713-7) | Enhanced Weathering; General CDR | 20 |
+| 2025 | [Who pays for carbon dioxide removal? Public perceptions of risk and fairness of enhanced rock weathering in the UK](https://doi.org/10.1057/s41599-025-05384-9) | Enhanced Weathering; General CDR | 3 |
+| 2025 | [Responsible research and innovation of carbon removal: strategies for field trials](https://doi.org/10.3389/fclim.2025.1658453) | General CDR | 2 |
+| 2024 | [Question-Led Innovation: Public priorities for enhanced weathering research in Malaysia](https://doi.org/10.1016/j.envsci.2024.103977) | Enhanced Weathering; General CDR | 9 |
+| 2023 | [Transforming U.S. agriculture with crushed rock for CO$_2$ sequestration and increased production](http://arxiv.org/abs/2308.04302) | Enhanced Weathering; General CDR | 1 |
+| 2022 | [Substantial carbon drawdown potential from enhanced rock weathering in the United Kingdom](https://doi.org/10.1038/s41561-022-00925-2) | Enhanced Weathering; General CDR | 165 |
+| 2022 | [Deliberating enhanced weathering: Public frames, iconic ecosystems and the governance of carbon removal at scale](https://doi.org/10.1177/09636625221112190) | Enhanced Weathering; General CDR | 26 |
+| 2021 | [Exploring cross-national public support for the use of enhanced weathering as a land-based carbon dioxide removal strategy](https://doi.org/10.1007/s10584-021-03050-y) | Enhanced Weathering; General CDR | 55 |
+| 2021 | [But They Told Us It Was Safe! Carbon Dioxide Removal, Fracking, and Ripple Effects in Risk Perceptions](https://doi.org/10.1111/risa.13717) | General CDR | 41 |
 
 ## External Profiles
 

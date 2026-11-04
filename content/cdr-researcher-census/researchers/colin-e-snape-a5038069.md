@@ -1,7 +1,7 @@
 ---
 title: "Colin E. Snape"
 description: "Colin E. Snape is an Eminent Biochar researcher at University of Nottingham in GB. With 548 publications and an h-index of 73, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/colin-e-snape-a5038069/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,31 +48,18 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | CDR Focus | 0.9% |
 | Trajectory | Growing |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Biowaste to biochar: a techno-economic and life cycle assessment of biochar production from food-waste digestate and its agricultural field application** (2025)
-   64 citations · Biochar
+6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 6, General CDR 4, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Biochar application to temperate grasslands: challenges and opportunities for delivering multiple ecosystem services** (2023)
-   16 citations · Biochar
-
-3. **Proxies for use in biochar decay models: Hydropyrolysis, electric conductivity, and H/Corg molar ratio** (2025)
-   9 citations · Biochar
-
-4. **Pyrogenic carbon and carbonating minerals for carbon capture and storage (PyMiCCS) part I: production, physico-chemical characterization and C-sink potential** (2025)
-   7 citations · Biochar
-
-5. **An Organic Solvent-Free Route for Preparing Silica-Alkoxylated Polyethylenimine Adsorbents for CO<sub>2</sub> Capture** (2025)
-   6 citations
-
-6. **Use of Recovered Carbon Black from Waste Tires in Triple Mesoscopic Stack Perovskite Solar Cells** (2025)
-   6 citations
-
-7. **Understanding the legacy impact of biochar on soil function and carbon stocks &amp;#8211; evidence from a 13-year field experiment** (2025)
-   1 citations · Biochar
-
-8. **Biochar Carbon Removal Standards: A comparative assessment of the EU CRCF, ICVCM and Article 6.4** (2026)
-   0 citations · Biochar
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Biochar Carbon Removal Standards: A comparative assessment of the EU CRCF, ICVCM and Article 6.4](https://openalex.org/W7165889928) | Biochar; General CDR | 0 |
+| 2025 | [Biowaste to biochar: a techno-economic and life cycle assessment of biochar production from food-waste digestate and its agricultural field application](https://openalex.org/W4408274631) | Biochar | 64 |
+| 2025 | [Proxies for use in biochar decay models: Hydropyrolysis, electric conductivity, and H/Corg molar ratio](https://doi.org/10.1371/journal.pone.0330206) | Biochar; General CDR | 9 |
+| 2025 | [Pyrogenic carbon and carbonating minerals for carbon capture and storage (PyMiCCS) part I: production, physico-chemical characterization and C-sink potential](https://doi.org/10.3389/fclim.2025.1631368) | Biochar; Enhanced Weathering; General CDR | 7 |
+| 2025 | [Understanding the legacy impact of biochar on soil function and carbon stocks &amp;#8211; evidence from a 13-year field experiment](https://doi.org/10.5194/egusphere-egu25-16585) | Biochar; General CDR | 1 |
+| 2023 | [Biochar application to temperate grasslands: challenges and opportunities for delivering multiple ecosystem services](https://openalex.org/W4380372167) | Biochar | 16 |
 
 ## External Profiles
 

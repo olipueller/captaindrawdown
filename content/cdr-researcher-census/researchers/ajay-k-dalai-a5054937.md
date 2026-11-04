@@ -1,7 +1,7 @@
 ---
 title: "Ajay K. Dalai"
 description: "Ajay K. Dalai is an Eminent Biochar researcher at University of Saskatchewan in CA. With 509 publications and an h-index of 89, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/ajay-k-dalai-a5054937/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,22 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | CDR Focus | 2.0% |
 | Trajectory | Growing |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Hydrochar: A Review on Its Production Technologies and Applications** (2021)
-   360 citations · Biochar
+10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 9, General CDR 2, DAC 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Biochar production, activation and adsorptive applications: a review** (2021)
-   239 citations · Biochar
-
-3. **Synthesis of Biochar From Lignocellulosic Biomass for Diverse Industrial Applications and Energy Harvesting: Effects of Pyrolysis Conditions on the Physicochemical Properties of Biochar** (2022)
-   160 citations · Biochar
-
-4. **Taguchi-based process optimization for activation of agro-food waste biochar and performance test for dye adsorption** (2021)
-   114 citations · Biochar
-
-5. **A Review of Carbon Capture and Valorization Technologies** (2023)
-   83 citations · DAC
-
-6. **Investigations of thermal effects during pyrolysis of agro-forestry biomass and physicochemical characterizations of biofuel products** (2024)
-   17 citations · Biochar
-
-7. **Steam activation of camelina meal biochar to remediate PFOA-contaminated wastewater** (2025)
-   5 citations · Biochar
-
-8. **KOH-Assisted Chemical Activation of Camelina Meal (Wild Flax) to Treat PFOA-Contaminated Wastewater** (2025)
-   5 citations · Biochar
-
-9. **Oil Palm Shell-Derived Activated Carbon: Adsorption Kinetics, Thermodynamics, and Interaction Mechanism for Lufenuron 50-EC Pesticide** (2026)
-   2 citations · Biochar
-
-10. **Oat Hull Valorization: Integrated Biofuel and Hydrochar Production via Hydrothermal Processing** (2026)
-   1 citations · Biochar
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Oil Palm Shell-Derived Activated Carbon: Adsorption Kinetics, Thermodynamics, and Interaction Mechanism for Lufenuron 50-EC Pesticide](https://doi.org/10.1021/acsomega.4c10096) | Biochar | 2 |
+| 2026 | [Oat Hull Valorization: Integrated Biofuel and Hydrochar Production via Hydrothermal Processing](https://openalex.org/W7162203072) | Biochar | 1 |
+| 2025 | [KOH-Assisted Chemical Activation of Camelina Meal (Wild Flax) to Treat PFOA-Contaminated Wastewater](https://doi.org/10.3390/su17052170) | Biochar | 5 |
+| 2025 | [Steam activation of camelina meal biochar to remediate PFOA-contaminated wastewater](https://doi.org/10.1016/j.biombioe.2025.108237) | Biochar | 5 |
+| 2024 | [Investigations of thermal effects during pyrolysis of agro-forestry biomass and physicochemical characterizations of biofuel products](https://doi.org/10.1016/j.bcab.2024.103379) | Biochar | 17 |
+| 2023 | [A Review of Carbon Capture and Valorization Technologies](https://doi.org/10.3390/en16062589) | DAC; General CDR | 83 |
+| 2022 | [Synthesis of Biochar From Lignocellulosic Biomass for Diverse Industrial Applications and Energy Harvesting: Effects of Pyrolysis Conditions on the Physicochemical Properties of Biochar](https://doi.org/10.3389/fmats.2022.870184) | Biochar | 160 |
+| 2021 | [Hydrochar: A Review on Its Production Technologies and Applications](https://doi.org/10.3390/catal11080939) | Biochar; General CDR | 360 |
+| 2021 | [Biochar production, activation and adsorptive applications: a review](https://doi.org/10.1007/s10311-020-01165-9) | Biochar | 239 |
+| 2021 | [Taguchi-based process optimization for activation of agro-food waste biochar and performance test for dye adsorption](https://doi.org/10.1016/j.chemosphere.2021.131531) | Biochar | 114 |
 
 ## External Profiles
 

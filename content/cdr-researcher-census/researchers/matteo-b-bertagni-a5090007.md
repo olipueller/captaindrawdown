@@ -1,7 +1,7 @@
 ---
 title: "Matteo B. Bertagni"
 description: "Matteo B. Bertagni is a Mid-career Enhanced Weathering researcher at Politecnico di Torino in IT. With 70 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/matteo-b-bertagni-a5090007/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,26 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | CDR Focus | 20.0% |
 | Trajectory | Growing |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Nano- to Global-Scale Uncertainties in Terrestrial Enhanced Weathering** (2022)
-   86 citations · Enhanced Weathering
+14 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 14, General CDR 11, Soil Carbon 2, Ocean CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **The Carbon-Capture Efficiency of Natural Water Alkalinization: Implications For Enhanced weathering** (2022)
-   57 citations · Enhanced Weathering
-
-3. **Advancing Enhanced Weathering Modeling in Soils: Critical Comparison With Experimental Data** (2024)
-   13 citations · Enhanced Weathering
-
-4. **Three Years of Field Trials Indicate a Sustained Enhanced Rock Weathering Signal with Limited CO <sub>2</sub> Removal** (2025)
-   9 citations · Enhanced Weathering
-
-5. **A Dimensionless Framework for the Partitioning of Fluvial Inorganic Carbon** (2024)
-   6 citations
-
-6. **An Integrated Modelling Framework to Determine Terrestrial Carbon Dioxide Removal via Enhanced Rock Weathering** (2025)
-   5 citations · Enhanced Weathering
-
-7. **An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering** (2026)
-   1 citations · Enhanced Weathering
-
-8. **Soil Structure and Mixing Controls on Water‐Rock Contact: Implications for Enhanced Weathering** (2026)
-   1 citations · Enhanced Weathering
-
-9. **Advancing Enhanced Weathering Modeling in Soils: Systematic Comparison and Validation with Experimental Data** (2024)
-   1 citations · Enhanced Weathering
-
-10. **An Integrated Modelling Framework to Determine Terrestrial Carbon Dioxide Removal via Enhanced Rock Weathering** (2026)
-   0 citations
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Soil Structure and Mixing Controls on Water‐Rock Contact: Implications for Enhanced Weathering](https://doi.org/10.1029/2025wr041479) | Enhanced Weathering; Soil Carbon | 1 |
+| 2026 | [An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering](https://openalex.org/W7168623015) | Enhanced Weathering; General CDR | 1 |
+| 2026 | [A large-scale enhanced weathering experiment to quantify soil percolation fluxes](https://doi.org/10.5194/egusphere-egu26-13246) | Enhanced Weathering; General CDR | 0 |
+| 2026 | [Analysis of enhanced weathering potential on European agricultural land](https://doi.org/10.5194/egusphere-egu26-12448) | Enhanced Weathering; General CDR | 0 |
+| 2025 | [Three Years of Field Trials Indicate a Sustained Enhanced Rock Weathering Signal with Limited CO <sub>2</sub> Removal](https://doi.org/10.1021/acs.est.5c09820) | Enhanced Weathering; General CDR | 9 |
+| 2025 | [An Integrated Modelling Framework to Determine Terrestrial Carbon Dioxide Removal via Enhanced Rock Weathering](https://doi.org/10.1111/gcb.70650) | Enhanced Weathering; General CDR | 5 |
+| 2025 | [Modelling the impacts of enhanced rock weathering on soil-plant-carbon cycle: develop and benchmark on mesocosm and field experiments](https://doi.org/10.5194/egusphere-egu25-10422) | Enhanced Weathering; General CDR | 0 |
+| 2025 | [Three Years of Field Trials Indicate a Sustained Enhanced Rock Weathering Signal with Limited CO₂ Removal](http://hdl.handle.net/20.500.11850/789952) | Enhanced Weathering; General CDR | 0 |
+| 2024 | [Advancing Enhanced Weathering Modeling in Soils: Critical Comparison With Experimental Data](https://doi.org/10.1029/2024ms004224) | Enhanced Weathering; General CDR | 13 |
+| 2024 | [Advancing Enhanced Weathering Modeling in Soils: Systematic Comparison and Validation with Experimental Data](https://doi.org/10.22541/essoar.170559500.09183720/v1) | Enhanced Weathering; General CDR | 1 |
+| 2024 | [Carbon sequestration uncertainties: bridging the model-data gap for enhanced weathering](https://doi.org/10.5194/egusphere-egu24-9664) | Enhanced Weathering; General CDR | 0 |
+| 2023 | [A cropland application of Enhanced Weathering in the Mediterranean area to face climate change and preserve natural resources](http://dx.doi.org/10.5194/egusphere-egu23-15121) | Enhanced Weathering; Soil Carbon | 0 |
+| 2022 | [Nano- to Global-Scale Uncertainties in Terrestrial Enhanced Weathering](https://doi.org/10.1021/acs.est.2c03163) | Enhanced Weathering; General CDR | 86 |
+| 2022 | [The Carbon-Capture Efficiency of Natural Water Alkalinization: Implications For Enhanced weathering](https://doi.org/10.1016/j.scitotenv.2022.156524) | Enhanced Weathering; Ocean CDR | 57 |
 
 ## External Profiles
 

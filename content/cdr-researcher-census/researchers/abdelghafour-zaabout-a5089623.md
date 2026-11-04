@@ -1,7 +1,7 @@
 ---
 title: "Abdelghafour Zaabout"
 description: "Abdelghafour Zaabout is a Senior General CDR researcher at Université Mohammed VI Polytechnique in MA. With 105 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/abdelghafour-zaabout-a5089623/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | CDR Focus | 9.5% |
 | Trajectory | Growing |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Comparative review of Direct air capture technologies: From technical, commercial, economic, and environmental aspects** (2024)
-   117 citations · DAC
+10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 7, DAC 6, BECCS 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Integrated CO2 capture and green hydrogen production: A promising approach for energy and cost reductions** (2025)
-   33 citations · General CDR
-
-3. **Carbon-negative hydrogen from biomass using gas switching integrated gasification: Techno-economic assessment** (2022)
-   31 citations · BECCS
-
-4. **Carbon capture, utilization and storage in buildings: Analysis of performance, social acceptance, policy measures, and the role of artificial intelligence** (2025)
-   17 citations · General CDR
-
-5. **Integration of sorbent enhanced in hydrothermal waste transformation for negative CO2 emission fuel production: Techno-economic assessments** (2025)
-   11 citations · General CDR
-
-6. **Life cycle assessment of electrochemical pH-swing direct air capture** (2025)
-   9 citations · DAC
-
-7. **Techno-economic assessment of coupling direct air capture with formic acid value chain in buildings under different scenarios** (2025)
-   7 citations · DAC
-
-8. **Standardized benchmarking of direct air capture technologies: techno-economic and environmental assessment, and multi-criteria decision analysis** (2026)
-   2 citations · DAC
-
-9. **Scalable room temperature aqueous assembly of high CO2 capture performing NbOFFIVE-1-Ni MOF via NiNbOF5·6H2O using DoE-driven optimized synthesis** (2026)
-   2 citations
-
-10. **Life Cycle Assessment of Electrochemical Ph-Swing Direct Air Capture** (2025)
-   2 citations · DAC
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Standardized benchmarking of direct air capture technologies: techno-economic and environmental assessment, and multi-criteria decision analysis](https://openalex.org/W7163377415) | DAC | 2 |
+| 2026 | [Integration of direct air capture with solar tower and chimney power plants: energy, economic and carbon assessments](https://openalex.org/W7155717209) | DAC | 1 |
+| 2026 | [From powder equilibria to contactor design: An experimentally anchored material based framework for direct air capture on TEPA impregnated SBA-15](https://openalex.org/W7204580074) | DAC | 0 |
+| 2025 | [Integrated CO2 capture and green hydrogen production: A promising approach for energy and cost reductions](https://doi.org/10.1016/j.cej.2025.161361) | General CDR | 33 |
+| 2025 | [Carbon capture, utilization and storage in buildings: Analysis of performance, social acceptance, policy measures, and the role of artificial intelligence](https://doi.org/10.1016/j.buildenv.2025.112817) | General CDR | 17 |
+| 2025 | [Integration of sorbent enhanced in hydrothermal waste transformation for negative CO2 emission fuel production: Techno-economic assessments](https://doi.org/10.1016/j.enconman.2025.119519) | General CDR | 11 |
+| 2025 | [Life cycle assessment of electrochemical pH-swing direct air capture](https://doi.org/10.1016/j.enconman.2025.120134) | DAC; General CDR | 9 |
+| 2025 | [Techno-economic assessment of coupling direct air capture with formic acid value chain in buildings under different scenarios](https://doi.org/10.1016/j.enconman.2025.120257) | DAC; General CDR | 7 |
+| 2024 | [Comparative review of Direct air capture technologies: From technical, commercial, economic, and environmental aspects](https://doi.org/10.1016/j.cej.2024.149411) | DAC; General CDR | 117 |
+| 2022 | [Carbon-negative hydrogen from biomass using gas switching integrated gasification: Techno-economic assessment](https://doi.org/10.1016/j.enconman.2022.116248) | BECCS; General CDR | 31 |
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Alejandro Grimm"
 description: "Alejandro Grimm is a Senior Biochar researcher at Swedish University of Agricultural Sciences in SE. With 86 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/alejandro-grimm-a5061702/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,28 +48,18 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | CDR Focus | 7.0% |
 | Trajectory | Declining |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Microalgae biomass as a sustainable precursor to produce nitrogen-doped biochar for efficient removal of emerging pollutants from aqueous media** (2022)
-   183 citations · Biochar
+6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 6. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Preparation of highly porous nitrogen-doped biochar derived from birch tree wastes with superior dye removal performance** (2023)
-   142 citations
-
-3. **Hardwood spent mushroom substrate–based activated biochar as a sustainable bioresource for removal of emerging pollutants from wastewater** (2022)
-   66 citations · Biochar
-
-4. **Shiitake spent mushroom substrate as a sustainable feedstock for developing highly efficient nitrogen-doped biochars for treatment of dye-contaminated water** (2023)
-   48 citations · Biochar
-
-5. **Synthesis, Characterization, and Adsorption Properties of Nitrogen-Doped Nanoporous Biochar: Efficient Removal of Reactive Orange 16 Dye and Colorful Effluents** (2023)
-   42 citations · Biochar
-
-6. **Synthesis of sustainable mesoporous sulfur-doped biobased carbon with superior performance sodium diclofenac removal: Kinetic, equilibrium, thermodynamic and mechanism** (2024)
-   32 citations · Biochar
-
-7. **Highly efficient boron/sulfur-modified activated biochar for removal of reactive dyes from water: Kinetics, isotherms, thermodynamics, and regeneration studies** (2025)
-   28 citations · Biochar
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2025 | [Highly efficient boron/sulfur-modified activated biochar for removal of reactive dyes from water: Kinetics, isotherms, thermodynamics, and regeneration studies](https://doi.org/10.1016/j.colsurfa.2025.136486) | Biochar | 28 |
+| 2024 | [Synthesis of sustainable mesoporous sulfur-doped biobased carbon with superior performance sodium diclofenac removal: Kinetic, equilibrium, thermodynamic and mechanism](https://openalex.org/W4392620332) | Biochar | 32 |
+| 2023 | [Shiitake spent mushroom substrate as a sustainable feedstock for developing highly efficient nitrogen-doped biochars for treatment of dye-contaminated water](https://doi.org/10.1016/j.jwpe.2023.104435) | Biochar | 48 |
+| 2023 | [Synthesis, Characterization, and Adsorption Properties of Nitrogen-Doped Nanoporous Biochar: Efficient Removal of Reactive Orange 16 Dye and Colorful Effluents](https://doi.org/10.3390/nano13142045) | Biochar | 42 |
+| 2022 | [Microalgae biomass as a sustainable precursor to produce nitrogen-doped biochar for efficient removal of emerging pollutants from aqueous media](https://openalex.org/W4221136916) | Biochar | 183 |
+| 2022 | [Hardwood spent mushroom substrate–based activated biochar as a sustainable bioresource for removal of emerging pollutants from wastewater](https://doi.org/10.1007/s13399-022-02618-7) | Biochar | 66 |
 
 ## External Profiles
 

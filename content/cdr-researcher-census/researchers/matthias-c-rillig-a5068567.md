@@ -1,7 +1,7 @@
 ---
 title: "Matthias C. Rillig"
 description: "Matthias C. Rillig is an Eminent Soil Carbon researcher at Freie Universität Berlin in DE. With 870 publications and an h-index of 143, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/matthias-c-rillig-a5068567/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,26 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | CDR Focus | 1.6% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Formation of necromass-derived soil organic carbon determined by microbial death pathways** (2023)
-   435 citations · Soil Carbon
+14 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Soil Carbon 14, General CDR 2, Biochar 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Nitrogen increases soil organic carbon accrual and alters its functionality** (2023)
-   315 citations · Soil Carbon
-
-3. **The impact of agricultural management on soil aggregation and carbon storage is regulated by climatic thresholds across a 3000 km European gradient** (2023)
-   60 citations · Soil Carbon
-
-4. **Polylactic acid microplastics induced negative priming and improved carbon sequestration via microbial processes in different paddy soils** (2024)
-   59 citations · Soil Carbon
-
-5. **Legume-rice rotations increase rice yields and carbon sequestration potential globally** (2025)
-   58 citations · Soil Carbon
-
-6. **Microplastics Generate Less Mineral Protection of Soil Carbon and More CO<sub>2</sub> Emissions** (2024)
-   33 citations · Soil Carbon
-
-7. **Progressing beyond colonization strategies to understand arbuscular mycorrhizal fungal life history** (2024)
-   29 citations · General CDR
-
-8. **Aggregate size mediates the stability and temperature sensitivity of soil organic carbon in response to decadal biochar and straw amendments** (2025)
-   20 citations · Biochar
-
-9. **Concurrent common fungal networks formed by different guilds of fungi** (2025)
-   17 citations
-
-10. **Quantifying the Positive Effect of Ungulate Herbivory on Living Root‐Derived Soil Organic Carbon Formation: Evidence From an Eight‐Year Simulated Grazing Field Experiment With <scp><sup>13</sup>C</scp> Pulse Labeling** (2025)
-   13 citations · Soil Carbon
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Impacts of microplastics on terrestrial soil carbon dynamics](https://doi.org/10.1038/s41561-026-01935-0) | Soil Carbon | 12 |
+| 2025 | [Legume-rice rotations increase rice yields and carbon sequestration potential globally](https://doi.org/10.1016/j.oneear.2024.12.006) | Soil Carbon | 58 |
+| 2025 | [Aggregate size mediates the stability and temperature sensitivity of soil organic carbon in response to decadal biochar and straw amendments](https://doi.org/10.1016/j.soilbio.2025.109969) | Biochar; Soil Carbon | 20 |
+| 2025 | [Quantifying the Positive Effect of Ungulate Herbivory on Living Root‐Derived Soil Organic Carbon Formation: Evidence From an Eight‐Year Simulated Grazing Field Experiment With <scp><sup>13</sup>C</scp> Pulse Labeling](https://doi.org/10.1111/gcb.70336) | Soil Carbon | 13 |
+| 2025 | [Negative Impacts of Global Change Stressors Permeate Into Deep Soils](https://doi.org/10.1111/ele.70143) | Soil Carbon | 6 |
+| 2025 | [Global patterns of nutrient limitation in soil microorganisms](https://doi.org/10.5194/egusphere-egu25-3616) | Soil Carbon | 1 |
+| 2024 | [Polylactic acid microplastics induced negative priming and improved carbon sequestration via microbial processes in different paddy soils](https://doi.org/10.1016/j.soilbio.2024.109653) | Soil Carbon | 59 |
+| 2024 | [Microplastics Generate Less Mineral Protection of Soil Carbon and More CO<sub>2</sub> Emissions](https://doi.org/10.1002/advs.202409585) | Soil Carbon | 33 |
+| 2024 | [Progressing beyond colonization strategies to understand arbuscular mycorrhizal fungal life history](https://doi.org/10.1111/nph.20090) | General CDR; Soil Carbon | 29 |
+| 2024 | [Foundations for a national assessment of soil biodiversity](https://doi.org/10.1002/sae2.12116) | General CDR; Soil Carbon | 12 |
+| 2023 | [Formation of necromass-derived soil organic carbon determined by microbial death pathways](https://doi.org/10.1038/s41561-022-01100-3) | Soil Carbon | 435 |
+| 2023 | [Nitrogen increases soil organic carbon accrual and alters its functionality](https://doi.org/10.1111/gcb.16588) | Soil Carbon | 315 |
+| 2023 | [The impact of agricultural management on soil aggregation and carbon storage is regulated by climatic thresholds across a 3000 km European gradient](https://doi.org/10.1111/gcb.16677) | Soil Carbon | 60 |
+| 2023 | [Microbial necromass ≠ microbial biomass: Microbial death pathways affect soil organic carbon sequestration](http://dx.doi.org/10.5194/egusphere-egu23-16487) | Soil Carbon | 0 |
 
 ## External Profiles
 

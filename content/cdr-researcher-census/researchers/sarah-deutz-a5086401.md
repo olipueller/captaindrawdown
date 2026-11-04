@@ -1,7 +1,7 @@
 ---
 title: "Sarah Deutz"
 description: "Sarah Deutz is a Mid-career DAC researcher at Forschungszentrum Jülich in DE. With 37 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/sarah-deutz-a5086401/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,19 +48,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | CDR Focus | 10.8% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Life-cycle assessment of an industrial direct air capture process based on temperature–vacuum swing adsorption** (2021)
-   615 citations · DAC
+4 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 4, General CDR 4. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **From Diverse Perspectives to Informed Policymaking -An Interdisciplinary Perspective on the Assessment of DACCS and Other Terrestrial CDR Technologies** (2025)
-   5 citations · DAC
-
-3. **Identifying Data Gaps and Research Needs in Life Cycle Assessment of Direct Air Carbon Capture and Storage** (2024)
-   0 citations · DAC
-
-4. **How (Carbon) Negative Is Direct Air Capture? Life Cycle Assessment of an Industrial Temperature-Vacuum Swing Adsorption Process** (2021)
-   0 citations · DAC
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2025 | [From Diverse Perspectives to Informed Policymaking -An Interdisciplinary Perspective on the Assessment of DACCS and Other Terrestrial CDR Technologies](https://doi.org/10.2139/ssrn.5278865) | DAC; General CDR | 5 |
+| 2024 | [Identifying Data Gaps and Research Needs in Life Cycle Assessment of Direct Air Carbon Capture and Storage](https://doi.org/10.2139/ssrn.5042798) | DAC; General CDR | 0 |
+| 2021 | [Life-cycle assessment of an industrial direct air capture process based on temperature–vacuum swing adsorption](https://doi.org/10.1038/s41560-020-00771-9) | DAC; General CDR | 615 |
+| 2021 | [How (Carbon) Negative Is Direct Air Capture? Life Cycle Assessment of an Industrial Temperature-Vacuum Swing Adsorption Process](https://doi.org/10.26434/chemrxiv.12833747.v2) | DAC; General CDR | 0 |
 
 ## External Profiles
 

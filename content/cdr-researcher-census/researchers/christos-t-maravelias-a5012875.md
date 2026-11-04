@@ -1,7 +1,7 @@
 ---
 title: "Christos T. Maravelias"
 description: "Christos T. Maravelias is an Eminent BECCS researcher at Princeton University in US. With 398 publications and an h-index of 61, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/christos-t-maravelias-a5012875/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,22 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | CDR Focus | 2.5% |
 | Trajectory | Declining |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Analysis of alternative bioenergy with carbon capture strategies: present and future** (2022)
-   43 citations · BECCS
+10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 9, General CDR 7, DAC 1, Soil Carbon 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Integrated spatially explicit landscape and cellulosic biofuel supply chain optimization under biomass yield uncertainty** (2022)
-   41 citations · BECCS
-
-3. **Economic, energetic, and environmental analysis of lignocellulosic biorefineries with carbon capture** (2021)
-   35 citations · BECCS
-
-4. **Rail-based direct air carbon capture** (2022)
-   27 citations
-
-5. **Global warming intensity of biofuel derived from switchgrass grown on marginal land in Michigan** (2023)
-   21 citations · BECCS
-
-6. **Supply chain system for a centralized biorefinery system based on switchgrass grown on marginal land in Michigan** (2023)
-   10 citations · BECCS
-
-7. **Available land for cellulosic biofuel production: a supply chain centered comparison** (2024)
-   3 citations · BECCS
-
-8. **Reducing emissions of cement manufacturing using calcium-looping direct air capture** (2026)
-   0 citations · DAC
-
-9. **Towards Efficient Bioenergy Systems: Understanding the Role of Soil Sequestration, Supply Chain Design, and Carbon Capture** (2022)
-   0 citations · BECCS
-
-10. **Determining Accurate Biofuel System Outcomes: Spatially Explicit Methods for Combined Landscape-Feedstock and Supply Chain Design** (2022)
-   0 citations · BECCS
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Reducing emissions of cement manufacturing using calcium-looping direct air capture](https://openalex.org/W7168393750) | DAC | 0 |
+| 2024 | [Available land for cellulosic biofuel production: a supply chain centered comparison](https://doi.org/10.1088/1748-9326/ada301) | BECCS | 3 |
+| 2023 | [Global warming intensity of biofuel derived from switchgrass grown on marginal land in Michigan](https://doi.org/10.1111/gcbb.13024) | BECCS; General CDR | 21 |
+| 2023 | [Supply chain system for a centralized biorefinery system based on switchgrass grown on marginal land in Michigan](https://doi.org/10.1002/bbb.2526) | BECCS | 10 |
+| 2022 | [Analysis of alternative bioenergy with carbon capture strategies: present and future](https://doi.org/10.1039/d2ee00625a) | BECCS; General CDR | 43 |
+| 2022 | [Integrated spatially explicit landscape and cellulosic biofuel supply chain optimization under biomass yield uncertainty](https://doi.org/10.1016/j.compchemeng.2022.107724) | BECCS; General CDR | 41 |
+| 2022 | [Determining Accurate Biofuel System Outcomes: Spatially Explicit Methods for Combined Landscape-Feedstock and Supply Chain Design](https://doi.org/10.1016/b978-0-323-85159-6.50321-3) | BECCS; General CDR | 0 |
+| 2022 | [Towards Efficient Bioenergy Systems: Understanding the Role of Soil Sequestration, Supply Chain Design, and Carbon Capture](https://doi.org/10.1016/b978-0-323-95879-0.50153-3) | BECCS; General CDR; Soil Carbon | 0 |
+| 2021 | [Economic, energetic, and environmental analysis of lignocellulosic biorefineries with carbon capture](https://doi.org/10.1016/j.apenergy.2021.117539) | BECCS; General CDR | 35 |
+| 2021 | [Integrated Spatially Explicit Landscape and Biofuel Supply Chain Network Design](https://doi.org/10.1016/b978-0-323-88506-5.50282-5) | BECCS; General CDR | 0 |
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Anders Hansson"
 description: "Anders Hansson is an Eminent General CDR researcher at Linköping University in SE. With 178 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/anders-hansson-a5043331/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,37 +45,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | CDR Focus | 5.6% |
 | Trajectory | Exiting |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Socio-Economic Determinants for Biochar Deployment in the Southern Highlands of Tanzania** (2021)
-   45 citations · Biochar
+10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 10, BECCS 5, Biochar 3, Soil Carbon 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Boundary Work and Interpretations in the IPCC Review Process of the Role of Bioenergy With Carbon Capture and Storage (BECCS) in Limiting Global Warming to 1.5°C** (2021)
-   36 citations · BECCS
-
-3. **What are the potential paths for carbon capture and storage in Sweden? A multi-level assessment of historical and current developments** (2021)
-   34 citations · BECCS
-
-4. **Forerunner city or net-zero opportunist? Carbon dioxide removal in Stockholm, residual emissions and risks of mitigation deterrence** (2024)
-   28 citations · BECCS
-
-5. **Limits to climate action - Narratives of bioenergy with carbon capture and storage** (2021)
-   25 citations · BECCS
-
-6. **Novel carbon dioxide removals techniques must be integrated into the European Union’s climate policies** (2023)
-   24 citations · General CDR
-
-7. **Biochar Deployment Drivers and Barriers in Least Developed Countries** (2021)
-   9 citations · Biochar
-
-8. **Specialty grand challenge: renaming our section to “Carbon Dioxide Removal”** (2023)
-   6 citations · General CDR
-
-9. **Biochar Deployment Drivers and Barriers in Least Developed Countries** (2021)
-   4 citations · Biochar
-
-10. **Making the 1.5°C Aspirational Climate Target Tangible with Carbon Dioxide Removal and Boundary Work** (2023)
-   1 citations · BECCS
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2024 | [Forerunner city or net-zero opportunist? Carbon dioxide removal in Stockholm, residual emissions and risks of mitigation deterrence](https://doi.org/10.1016/j.erss.2024.103567) | BECCS; General CDR | 28 |
+| 2023 | [Novel carbon dioxide removals techniques must be integrated into the European Union’s climate policies](https://doi.org/10.1038/s43247-023-01121-9) | General CDR | 24 |
+| 2023 | [Specialty grand challenge: renaming our section to “Carbon Dioxide Removal”](https://doi.org/10.3389/fclim.2023.1279109) | General CDR | 6 |
+| 2023 | [Making the 1.5°C Aspirational Climate Target Tangible with Carbon Dioxide Removal and Boundary Work](http://dx.doi.org/10.4324/9781003409748-43) | BECCS; General CDR | 1 |
+| 2021 | [Socio-Economic Determinants for Biochar Deployment in the Southern Highlands of Tanzania](https://doi.org/10.3390/en15010144) | Biochar; General CDR; Soil Carbon | 45 |
+| 2021 | [Boundary Work and Interpretations in the IPCC Review Process of the Role of Bioenergy With Carbon Capture and Storage (BECCS) in Limiting Global Warming to 1.5°C](https://doi.org/10.3389/fclim.2021.643224) | BECCS; General CDR | 36 |
+| 2021 | [What are the potential paths for carbon capture and storage in Sweden? A multi-level assessment of historical and current developments](https://doi.org/10.1016/j.erss.2021.102452) | BECCS; General CDR | 34 |
+| 2021 | [Limits to climate action - Narratives of bioenergy with carbon capture and storage](https://doi.org/10.1016/j.polgeo.2021.102416) | BECCS; General CDR | 25 |
+| 2021 | [Biochar Deployment Drivers and Barriers in Least Developed Countries](https://doi.org/10.1007/978-3-030-22759-3_324-1) | Biochar; General CDR | 9 |
+| 2021 | [Biochar Deployment Drivers and Barriers in Least Developed Countries](https://doi.org/10.1007/978-3-030-57281-5_324) | Biochar; General CDR | 4 |
 
 ## External Profiles
 

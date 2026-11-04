@@ -1,7 +1,7 @@
 ---
 title: "Songchao Chen"
 description: "Songchao Chen is an Eminent Soil Carbon researcher at Zhejiang University in CN. With 284 publications and an h-index of 55, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/songchao-chen-a5080056/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,28 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | CDR Focus | 5.6% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Improving pedotransfer functions for predicting soil mineral associated organic carbon by ensemble machine learning** (2022)
-   80 citations
+16 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Soil Carbon 16. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **A high-resolution map of soil organic carbon in cropland of Southern China** (2024)
-   63 citations · Soil Carbon
-
-3. **Potential of globally distributed topsoil mid-infrared spectral library for organic carbon estimation** (2023)
-   29 citations · Soil Carbon
-
-4. **Quantification of the effects of long-term straw return on soil organic matter spatiotemporal variation: a case study in a typical black soil region** (2023)
-   20 citations · Soil Carbon
-
-5. **Effects of straw return on soil carbon sequestration, soil nutrients and rice yield of in acidic farmland soil of Southern China** (2024)
-   12 citations · Soil Carbon
-
-6. **Using visible-near infrared spectroscopy to estimate whole-profile soil organic carbon and its fractions** (2024)
-   11 citations · Soil Carbon
-
-7. **Organic carbon storage potential of cropland topsoils in East China: Indispensable roles of cropping systems and soil managements** (2021)
-   11 citations · Soil Carbon
-
-8. **Global distribution and predictors of the mineral-associated to total soil organic carbon ratio: an indicator of soil carbon stability** (2025)
-   10 citations · Soil Carbon
-
-9. **Integrating Historical Crop Rotation Changes Into Soil Organic Matter Mapping in the Cropland of Southeastern China** (2025)
-   8 citations · Soil Carbon
-
-10. **Quantification of the effects of long-term straw return on soil organic matter spatiotemporal variation: A case study in typical black soil region** (2022)
-   5 citations · Soil Carbon
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Well-facilitated Farmland Construction enhances soil organic carbon storage in China](https://doi.org/10.5194/egusphere-egu26-4693) | Soil Carbon | 0 |
+| 2026 | [Non-linear thresholds and spatial heterogeneity define the stabilizing benefits of soil organic carbon on the stability of crop productivity](https://doi.org/10.5194/egusphere-egu26-11436) | Soil Carbon | 0 |
+| 2025 | [Global distribution and predictors of the mineral-associated to total soil organic carbon ratio: an indicator of soil carbon stability](https://doi.org/10.1016/j.ecz.2025.100035) | Soil Carbon | 10 |
+| 2025 | [Integrating Historical Crop Rotation Changes Into Soil Organic Matter Mapping in the Cropland of Southeastern China](https://doi.org/10.1029/2025ef006117) | Soil Carbon | 8 |
+| 2025 | [Modelling spatio-temporal dynamics of soil organic carbon in paddy soil by coupling digital soil mapping with a process model](https://doi.org/10.1016/j.jia.2025.11.006) | Soil Carbon | 1 |
+| 2025 | [Land cover changes induced spatio-temporal dynamics in soil organic carbon stock across Europe over the past decade (2009-2018)](https://doi.org/10.5194/egusphere-egu25-2305) | Soil Carbon | 0 |
+| 2024 | [A high-resolution map of soil organic carbon in cropland of Southern China](https://doi.org/10.1016/j.catena.2024.107813) | Soil Carbon | 63 |
+| 2024 | [Effects of straw return on soil carbon sequestration, soil nutrients and rice yield of in acidic farmland soil of Southern China](https://doi.org/10.1007/s10668-024-04895-w) | Soil Carbon | 12 |
+| 2024 | [Using visible-near infrared spectroscopy to estimate whole-profile soil organic carbon and its fractions](https://doi.org/10.1016/j.seh.2024.100100) | Soil Carbon | 11 |
+| 2024 | [A high-resolution map of soil organic carbon in cropland of Southern Chinas](https://doi.org/10.5194/egusphere-egu24-7432) | Soil Carbon | 0 |
+| 2023 | [Potential of globally distributed topsoil mid-infrared spectral library for organic carbon estimation](https://doi.org/10.1016/j.catena.2023.107628) | Soil Carbon | 29 |
+| 2023 | [Quantification of the effects of long-term straw return on soil organic matter spatiotemporal variation: a case study in a typical black soil region](https://doi.org/10.5194/soil-9-351-2023) | Soil Carbon | 20 |
+| 2023 | [Ensemble machine learning improves pedotransfer functions for predicting soil mineral associated organic carbon](https://doi.org/10.5194/egusphere-egu23-1500) | Soil Carbon | 1 |
+| 2022 | [Quantification of the effects of long-term straw return on soil organic matter spatiotemporal variation: A case study in typical black soil region](https://doi.org/10.5194/egusphere-2022-963) | Soil Carbon | 5 |
+| 2021 | [Organic carbon storage potential of cropland topsoils in East China: Indispensable roles of cropping systems and soil managements](https://doi.org/10.1016/j.still.2021.105052) | Soil Carbon | 11 |
+| 2021 | [Land Use and Edaphic Factors Affect the Distribution and Magnitude of Deep Organic Carbon in a Subtropical Red Soil Critical Zone](https://doi.org/10.2139/ssrn.3983963) | Soil Carbon | 0 |
 
 ## External Profiles
 

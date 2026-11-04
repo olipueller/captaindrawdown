@@ -1,7 +1,7 @@
 ---
 title: "Nicole Ferru"
 description: "Nicole Ferru is an Early-career DAC researcher at ETH Zurich in CH. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/nicole-ferru-a5053323/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,17 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | CDR Focus | 30.8% |
 | Trajectory | Growing |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Measuring and Modeling Water and Carbon Dioxide Adsorption on Amine Functionalized Alumina under Direct Air Capture Conditions** (2025)
-   27 citations
+5 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 5. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Direct air capture by direct steam heating - experiments and comparison with indirect heating** (2025)
-   6 citations
-
-3. **Leveraging the phase change of water for energy efficient direct air capture** (2026)
-   5 citations · DAC
-
-4. **Structured sorbents for Direct Air Capture: The impact of materials and chemicals on performance** (2026)
-   1 citations · DAC
-
-5. **Structured sorbents for Direct Air Capture: The impact of materials and chemicals on performance** (2026)
-   0 citations · DAC
-
-6. **Structured sorbents for direct air capture: the impact of materials and chemicals on performance** (2026)
-   0 citations · DAC
-
-7. **Leveraging the phase change of water for energy efficient direct air capture** (2026)
-   0 citations · DAC
-
-8. **Latent Heat-Temperature Vacuum Swing Adsorption for Energy-Efficient Direct Air Capture** (2026)
-   0 citations
-
-9. **Direct air capture by direct steam heating - experiments and comparison with indirect heating** (2025)
-   0 citations
-
-10. **Direct Air Capture by Direct Steam Heating - Experiments and Comparison with Indirect Heating** (2025)
-   0 citations
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Leveraging the phase change of water for energy efficient direct air capture](https://openalex.org/W7140315344) | DAC | 5 |
+| 2026 | [Structured sorbents for Direct Air Capture: The impact of materials and chemicals on performance](https://openalex.org/W7166531872) | DAC | 1 |
+| 2026 | [Leveraging the phase change of water for energy efficient direct air capture](https://openalex.org/W7155199360) | DAC | 0 |
+| 2026 | [Structured sorbents for direct air capture: the impact of materials and chemicals on performance](https://openalex.org/W7163847645) | DAC | 0 |
+| 2026 | [Structured sorbents for Direct Air Capture: The impact of materials and chemicals on performance](https://openalex.org/W7166680246) | DAC | 0 |
 
 ## External Profiles
 

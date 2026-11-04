@@ -1,7 +1,7 @@
 ---
 title: "Robert W. Brown"
 description: "Robert W. Brown is a Senior Biochar researcher at Bangor University in GB. With 49 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/robert-w-brown-a5003791/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,21 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | CDR Focus | 16.3% |
 | Trajectory | Growing |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Agronomic amendments drive a diversity of real and apparent priming responses within a grassland soil** (2023)
-   26 citations · Soil Carbon
+9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 7, Soil Carbon 4, General CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Microplastic contamination accelerates soil carbon loss through positive priming** (2024)
-   23 citations
-
-3. **Biochar application to temperate grasslands: challenges and opportunities for delivering multiple ecosystem services** (2023)
-   16 citations · Biochar
-
-4. **Rewetting alongside biochar and sulphate addition mitigates greenhouse gas emissions and retain carbon in degraded upland peatlands** (2025)
-   10 citations · Biochar
-
-5. **Greenhouse gas removal in agricultural peatland via raised water levels and soil amendment** (2025)
-   9 citations · Biochar
-
-6. **Understanding the legacy impact of biochar on soil function and carbon stocks &amp;#8211; evidence from a 13-year field experiment** (2025)
-   1 citations · Biochar
-
-7. **Does size matter? Biochar particle size and nitrogen addition drive biochar-derived carbon mineralisation and soil organic carbon turnover** (2026)
-   0 citations · Biochar
-
-8. **Does size matter? Biochar particle size and nitrogen addition drives mineralisation and soil organic matter turnover** (2025)
-   0 citations · Biochar
-
-9. **Effects of 13-Years Of Organic Amendments And Mineral Nitrogen Fertilization On Aggregate-Associated Carbon and Nitrogen and Soil Organic Matter Stability** (2025)
-   0 citations · Soil Carbon
-
-10. **Quantifying Inertinite Carbon in Biochar** (2025)
-   0 citations · Biochar
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Does size matter? Biochar particle size and nitrogen addition drive biochar-derived carbon mineralisation and soil organic carbon turnover](https://openalex.org/W7170581162) | Biochar | 0 |
+| 2025 | [Rewetting alongside biochar and sulphate addition mitigates greenhouse gas emissions and retain carbon in degraded upland peatlands](https://doi.org/10.1016/j.soilbio.2025.109814) | Biochar; Soil Carbon | 10 |
+| 2025 | [Greenhouse gas removal in agricultural peatland via raised water levels and soil amendment](https://openalex.org/W4407818002) | Biochar | 9 |
+| 2025 | [Understanding the legacy impact of biochar on soil function and carbon stocks &amp;#8211; evidence from a 13-year field experiment](https://doi.org/10.5194/egusphere-egu25-16585) | Biochar; General CDR | 1 |
+| 2025 | [Quantifying Inertinite Carbon in Biochar](https://doi.org/10.2139/ssrn.5385345) | Biochar | 0 |
+| 2025 | [Effects of 13-Years Of Organic Amendments And Mineral Nitrogen Fertilization On Aggregate-Associated Carbon and Nitrogen and Soil Organic Matter Stability](https://doi.org/10.2139/ssrn.5397860) | Soil Carbon | 0 |
+| 2025 | [Does size matter? Biochar particle size and nitrogen addition drives mineralisation and soil organic matter turnover](https://doi.org/10.2139/ssrn.5414076) | Biochar; Soil Carbon | 0 |
+| 2023 | [Agronomic amendments drive a diversity of real and apparent priming responses within a grassland soil](https://doi.org/10.1016/j.soilbio.2023.109265) | Soil Carbon | 26 |
+| 2023 | [Biochar application to temperate grasslands: challenges and opportunities for delivering multiple ecosystem services](https://openalex.org/W4380372167) | Biochar | 16 |
 
 ## External Profiles
 

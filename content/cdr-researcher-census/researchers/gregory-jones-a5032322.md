@@ -1,7 +1,7 @@
 ---
 title: "Gregory Jones"
 description: "Gregory Jones is an Early-career Enhanced Weathering researcher at Imperial College London in GB. With 13 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/gregory-jones-a5032322/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,21 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | CDR Focus | 69.2% |
 | Trajectory | Growing |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **An Integrated Modelling Framework to Determine Terrestrial Carbon Dioxide Removal via Enhanced Rock Weathering** (2025)
-   5 citations · Enhanced Weathering
+9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 9, General CDR 8, Soil Carbon 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Utilizing soil centrifugation for accurate estimates of carbon dioxide removal via enhanced rock weathering** (2025)
-   2 citations
-
-3. **Microbiome manipulation and enhanced weathering influence tree growth in reforestation** (2026)
-   1 citations · Enhanced Weathering
-
-4. **Utilizing Soil Centrifugation for Accurate Estimates of Carbon Dioxide Removal via Enhanced Rock Weathering** (2025)
-   1 citations · Enhanced Weathering
-
-5. **Microbiome manipulation and enhanced weathering stimulate CO2 removal in reforestation** (2025)
-   1 citations · Enhanced Weathering
-
-6. **An Integrated Modelling Framework to Determine Terrestrial Carbon Dioxide Removal via Enhanced Rock Weathering** (2026)
-   0 citations
-
-7. **Ecosystem responses determine the effectiveness of enhanced rock weathering for climate mitigation** (2026)
-   0 citations · Enhanced Weathering
-
-8. **Modelling the impacts of enhanced rock weathering on soil-plant-carbon cycle: develop and benchmark on mesocosm and field experiments** (2025)
-   0 citations · Enhanced Weathering
-
-9. **Utilising soil centrifugation for accurate carbon dioxide removal estimates via enhanced rock weathering &amp;#160;** (2025)
-   0 citations · Enhanced Weathering
-
-10. **Scaling up enhanced rock weathering: field trials and ecohydrological modelling in a temperate forest&amp;#160;** (2024)
-   0 citations · Enhanced Weathering
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Microbiome manipulation and enhanced weathering influence tree growth in reforestation](https://openalex.org/W7166737299) | Enhanced Weathering | 1 |
+| 2026 | [Ecosystem responses determine the effectiveness of enhanced rock weathering for climate mitigation](https://doi.org/10.5194/egusphere-egu26-5623) | Enhanced Weathering; General CDR | 0 |
+| 2025 | [An Integrated Modelling Framework to Determine Terrestrial Carbon Dioxide Removal via Enhanced Rock Weathering](https://doi.org/10.1111/gcb.70650) | Enhanced Weathering; General CDR | 5 |
+| 2025 | [Microbiome manipulation and enhanced weathering stimulate CO2 removal in reforestation](https://doi.org/10.21203/rs.3.rs-5982308/v1) | Enhanced Weathering; General CDR; Soil Carbon | 1 |
+| 2025 | [Utilizing Soil Centrifugation for Accurate Estimates of Carbon Dioxide Removal via Enhanced Rock Weathering](https://doi.org/10.1021/acs.est.5c03699) | Enhanced Weathering; General CDR | 1 |
+| 2025 | [Utilising soil centrifugation for accurate carbon dioxide removal estimates via enhanced rock weathering &amp;#160;](https://doi.org/10.5194/egusphere-egu25-11872) | Enhanced Weathering; General CDR | 0 |
+| 2025 | [Modelling the impacts of enhanced rock weathering on soil-plant-carbon cycle: develop and benchmark on mesocosm and field experiments](https://doi.org/10.5194/egusphere-egu25-10422) | Enhanced Weathering; General CDR | 0 |
+| 2024 | [Scaling up enhanced rock weathering: field trials and ecohydrological modelling in a temperate forest&amp;#160;](https://doi.org/10.5194/egusphere-egu24-11347) | Enhanced Weathering; General CDR | 0 |
+| 2023 | [Harnessing enhanced rock weathering in a forestry context](https://doi.org/10.5194/egusphere-egu23-5716) | Enhanced Weathering; General CDR | 0 |
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Kenneth Okosun"
 description: "Kenneth Okosun is an Early-career DAC researcher at Forschungszentrum Jülich in DE. With 10 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/kenneth-okosun-a5118195/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,31 +45,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | CDR Focus | 70.0% |
 | Trajectory | Unknown |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Weather conditions severely impact optimal direct air capture siting** (2025)
-   19 citations · DAC
+7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 7, General CDR 4. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Global strategic deployment of Direct Air Capture technologies** (2026)
-   1 citations · DAC
-
-3. **Global strategic deployment of Direct Air Capture technologies** (2026)
-   1 citations · DAC
-
-4. **Global strategic deployment of Direct Air Capture technologies** (2026)
-   0 citations · DAC
-
-5. **Global strategic deployment of Direct Air Capture technologies** (2026)
-   0 citations · DAC
-
-6. **Global Cost Drivers of Direct Air Capture: Insights from Interviews and Techno-Economic Assessment** (2026)
-   0 citations · DAC
-
-7. **Global strategic deployment of Direct Air Capture technologies** (2026)
-   0 citations
-
-8. **Direct Air Capture and Storage** (2025)
-   0 citations · DAC
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Global strategic deployment of Direct Air Capture technologies](https://doi.org/10.2139/ssrn.6416107) | DAC; General CDR | 1 |
+| 2026 | [Global strategic deployment of Direct Air Capture technologies](https://openalex.org/W7169594416) | DAC | 1 |
+| 2026 | [Global Cost Drivers of Direct Air Capture: Insights from Interviews and Techno-Economic Assessment](https://juser.fz-juelich.de/record/1055508) | DAC; General CDR | 0 |
+| 2026 | [Global strategic deployment of Direct Air Capture technologies](https://openalex.org/W7172326523) | DAC | 0 |
+| 2026 | [Global strategic deployment of Direct Air Capture technologies](https://openalex.org/W7172383932) | DAC | 0 |
+| 2025 | [Weather conditions severely impact optimal direct air capture siting](https://doi.org/10.1016/j.adapen.2025.100229) | DAC; General CDR | 19 |
+| 2025 | [Direct Air Capture and Storage](https://juser.fz-juelich.de/record/1052647) | DAC; General CDR | 0 |
 
 ## External Profiles
 

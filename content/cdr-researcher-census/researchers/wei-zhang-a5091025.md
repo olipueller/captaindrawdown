@@ -1,7 +1,7 @@
 ---
 title: "Wei Zhang"
 description: "Wei Zhang is an Eminent Soil Carbon researcher at Shihezi University in CN. With 245 publications and an h-index of 49, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/wei-zhang-a5091025/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,28 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | CDR Focus | 6.5% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **The formation of large macroaggregates induces soil organic carbon sequestration in short-term cropland restoration in a typical karst area** (2021)
-   106 citations · Soil Carbon
+16 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Soil Carbon 16, Biochar 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Soil carbon accumulation with increasing temperature under both managed and natural vegetation restoration in calcareous soils** (2021)
-   79 citations · Soil Carbon
-
-3. **Mixed plantations enhance more soil organic carbon stocks than monocultures across China: Implication for optimizing afforestation/reforestation strategies** (2022)
-   73 citations · Soil Carbon
-
-4. **Nitrogen deposition caused higher increases in plant-derived organic carbon than microbial-derived organic carbon in forest soils** (2024)
-   33 citations · Soil Carbon
-
-5. **Unexpected high retention of<sup>15</sup>N‐labeled nitrogen in a tropical legume forest under long‐term nitrogen enrichment** (2021)
-   31 citations · Soil Carbon
-
-6. **Bedrock outcrops weakly promote rather than inhibit soil carbon sequestration after vegetation restoration** (2022)
-   20 citations · Soil Carbon
-
-7. **Linking microbial metabolism and ecological strategies to soil carbon cycle function in agroecosystems** (2025)
-   17 citations · Soil Carbon
-
-8. **Can converting raw straw into biochar incorporation achieve both higher maize yield and lower greenhouse gas emissions intensity in drought-prone environment?** (2024)
-   14 citations · Biochar
-
-9. **Lower Sensitivity of Soil Carbon and Nitrogen to Regional Temperature Change in Karst Forests Than in Non-Karst Forests** (2023)
-   11 citations · Soil Carbon
-
-10. **Adsorption/desorption processes dominate the soil P fractions dynamic under long-term N/P addition in a subtropical forest** (2025)
-   9 citations
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2025 | [Linking microbial metabolism and ecological strategies to soil carbon cycle function in agroecosystems](https://doi.org/10.1016/j.still.2025.106562) | Soil Carbon | 17 |
+| 2025 | [Potential Roles of Soil Viruses in Karst Forest Soil Carbon and Nitrogen Cycles](https://doi.org/10.3390/f16050735) | Soil Carbon | 7 |
+| 2025 | [Afforestation increases glomalin-related soil protein content and enhances its association with stable soil carbon in karst regions](https://doi.org/10.1016/j.foreco.2025.122704) | Soil Carbon | 5 |
+| 2025 | [Equal-straw produced biochar continuous incorporation substitutes straw returns for global warming mitigation: An appraisal based on five-year field experiment](https://doi.org/10.1016/j.cej.2025.163546) | Biochar; Soil Carbon | 5 |
+| 2025 | [Afforestation Enhances Soil Mineral-Associated Organic Carbon Accumulation Through Calcium and Microbial Interactions in Karst Ecosystems](https://doi.org/10.2139/ssrn.5276976) | Soil Carbon | 0 |
+| 2024 | [Nitrogen deposition caused higher increases in plant-derived organic carbon than microbial-derived organic carbon in forest soils](https://doi.org/10.1016/j.scitotenv.2024.171752) | Soil Carbon | 33 |
+| 2024 | [Can converting raw straw into biochar incorporation achieve both higher maize yield and lower greenhouse gas emissions intensity in drought-prone environment?](https://doi.org/10.1016/j.eti.2024.103683) | Biochar; Soil Carbon | 14 |
+| 2024 | [Biochemical Heterogeneity of Soil Components Manipulating Long-Term Organic Carbon Pool Buildup Over Mineral Protection in the Mollisol](http://dx.doi.org/10.2139/ssrn.4887042) | Soil Carbon | 0 |
+| 2023 | [Lower Sensitivity of Soil Carbon and Nitrogen to Regional Temperature Change in Karst Forests Than in Non-Karst Forests](https://doi.org/10.3390/f14020355) | Soil Carbon | 11 |
+| 2023 | [Distinct Allocations of Microbial Versus Plant Residues in Mineral Particles Counterbalance the Accumulation and Stabilization of Soil Organic Carbon](http://dx.doi.org/10.2139/ssrn.4607667) | Soil Carbon | 0 |
+| 2022 | [Mixed plantations enhance more soil organic carbon stocks than monocultures across China: Implication for optimizing afforestation/reforestation strategies](https://doi.org/10.1016/j.scitotenv.2022.153449) | Soil Carbon | 73 |
+| 2022 | [Bedrock outcrops weakly promote rather than inhibit soil carbon sequestration after vegetation restoration](https://doi.org/10.1016/j.scitotenv.2022.159470) | Soil Carbon | 20 |
+| 2021 | [The formation of large macroaggregates induces soil organic carbon sequestration in short-term cropland restoration in a typical karst area](https://doi.org/10.1016/j.scitotenv.2021.149588) | Soil Carbon | 106 |
+| 2021 | [Soil carbon accumulation with increasing temperature under both managed and natural vegetation restoration in calcareous soils](https://doi.org/10.1016/j.scitotenv.2021.145298) | Soil Carbon | 79 |
+| 2021 | [Unexpected high retention of<sup>15</sup>N‐labeled nitrogen in a tropical legume forest under long‐term nitrogen enrichment](https://doi.org/10.1111/gcb.16005) | Soil Carbon | 31 |
+| 2021 | [Effect of temperature on microbial residue dynamics in a temperate farmland soil](https://doi.org/10.1139/cjss-2020-0090) | Soil Carbon | 5 |
 
 ## External Profiles
 

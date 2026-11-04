@@ -1,7 +1,7 @@
 ---
 title: "Oscar Stenström"
 description: "Oscar Stenström is an Early-career BECCS researcher at Chalmers University of Technology in SE. With 12 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/oscar-stenstrom-a5083858/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,25 +48,17 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | CDR Focus | 41.7% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **A robust investment decision to deploy bioenergy carbon capture and storage—exploring the case of Stockholm Exergi** (2024)
-   11 citations · BECCS
+5 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 5, General CDR 3. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **A million scenarios to identify conditions for robust bioenergy carbon capture in Sweden** (2025)
-   2 citations
-
-3. **Decision making beyond models of bioenergy with carbon capture and storage** (2025)
-   0 citations · BECCS
-
-4. **Regretting carbon capture from bioenergy – A case study** (2026)
-   0 citations · BECCS
-
-5. **Regretting Carbon Capture from Bioenergy – A Case Study** (2025)
-   0 citations · BECCS
-
-6. **A Million Scenarios to Identify Conditions for Robust Bioenergy Carbon Capture in Sweden** (2024)
-   0 citations · BECCS
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Regretting carbon capture from bioenergy – A case study](https://openalex.org/W7160055675) | BECCS | 0 |
+| 2025 | [Regretting Carbon Capture from Bioenergy – A Case Study](https://doi.org/10.2139/ssrn.5682260) | BECCS; General CDR | 0 |
+| 2025 | [Decision making beyond models of bioenergy with carbon capture and storage](https://openalex.org/W7205151119) | BECCS | 0 |
+| 2024 | [A robust investment decision to deploy bioenergy carbon capture and storage—exploring the case of Stockholm Exergi](https://doi.org/10.3389/fenrg.2023.1250537) | BECCS; General CDR | 11 |
+| 2024 | [A Million Scenarios to Identify Conditions for Robust Bioenergy Carbon Capture in Sweden](https://doi.org/10.2139/ssrn.5070709) | BECCS; General CDR | 0 |
 
 ## External Profiles
 

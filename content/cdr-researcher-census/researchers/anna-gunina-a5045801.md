@@ -1,7 +1,7 @@
 ---
 title: "Anna Gunina"
 description: "Anna Gunina is an Eminent Soil Carbon researcher at University of Kassel in DE. With 153 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/anna-gunina-a5045801/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,29 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | CDR Focus | 11.1% |
 | Trajectory | Growing |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Organic matter chemistry and bacterial community structure regulate decomposition processes in post-fire forest soils** (2021)
-   123 citations
+17 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Soil Carbon 16, Biochar 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Carbon stabilization pathways in soil aggregates during long-term forest succession: Implications from δ13C signatures** (2023)
-   107 citations
-
-3. **Diversified cropping systems benefit soil carbon and nitrogen stocks by increasing aggregate stability: Results of three fractionation methods** (2022)
-   86 citations · Soil Carbon
-
-4. **Carbon sequestration through straw amendment: multi-pool dynamics within soil organic carbon** (2025)
-   48 citations · Soil Carbon
-
-5. **Unfolding the Potential of Soil Microbial Community Diversity for Accumulation of Necromass Carbon at Large Scale** (2025)
-   44 citations · Soil Carbon
-
-6. **Mitigation of carbon dioxide by accelerated sequestration from long-term biochar amended paddy soil** (2021)
-   38 citations · Biochar
-
-7. **Conversion from double-rice to maize-rice increases iron-bound organic carbon by “iron gate” and “enzyme latch” mechanisms** (2021)
-   24 citations · Soil Carbon
-
-8. **Regulation of soil organic carbon dynamics by microbial communities during reforestation of Chinese fir plantations after clear‐cutting** (2024)
-   17 citations · Soil Carbon
-
-9. **Subsurface application of organic ameliorant in saline soils increases microbial necromass accumulation in mineral-associated organic matter** (2025)
-   9 citations · Soil Carbon
-
-10. **Integrated soil–crop system management stabilizes soil organic carbon in saline soils via calcium-mediated synergy between microbial and mineral carbon pumps** (2026)
-   6 citations · Soil Carbon
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Particulate and mineral-associated organic matter in cropland soils: Meta-analysis of management effects](https://doi.org/10.1016/j.agee.2026.110218) | Soil Carbon | 6 |
+| 2026 | [Integrated soil–crop system management stabilizes soil organic carbon in saline soils via calcium-mediated synergy between microbial and mineral carbon pumps](https://doi.org/10.1016/j.catena.2026.109947) | Soil Carbon | 6 |
+| 2025 | [Carbon sequestration through straw amendment: multi-pool dynamics within soil organic carbon](https://doi.org/10.1016/j.geoderma.2025.117471) | Soil Carbon | 48 |
+| 2025 | [Unfolding the Potential of Soil Microbial Community Diversity for Accumulation of Necromass Carbon at Large Scale](https://doi.org/10.1111/gcb.70292) | Soil Carbon | 44 |
+| 2025 | [Subsurface application of organic ameliorant in saline soils increases microbial necromass accumulation in mineral-associated organic matter](https://doi.org/10.1007/s44246-025-00205-9) | Soil Carbon | 9 |
+| 2025 | [Precipitation reduction rather than nitrogen deposition promotes soil organic carbon sequestration by improving aggregate stability: Implications from 13C natural abundance](https://doi.org/10.1016/j.jenvman.2025.124520) | Soil Carbon | 4 |
+| 2025 | [Forms of nitrogen deposition shift soil microbial resource limitation and carbon use efficiency in temperate forest](https://doi.org/10.1016/j.catena.2025.109505) | Soil Carbon | 3 |
+| 2025 | [Integrated Physical-Chemical Mechanisms Drive Carbon Stabilization Under Conservation Tillage in Karst Agroecosystems](https://doi.org/10.2139/ssrn.5144001) | Soil Carbon | 0 |
+| 2025 | [Effects of 13-Years Of Organic Amendments And Mineral Nitrogen Fertilization On Aggregate-Associated Carbon and Nitrogen and Soil Organic Matter Stability](https://doi.org/10.2139/ssrn.5397860) | Soil Carbon | 0 |
+| 2024 | [Regulation of soil organic carbon dynamics by microbial communities during reforestation of Chinese fir plantations after clear‐cutting](https://doi.org/10.1002/ldr.5150) | Soil Carbon | 17 |
+| 2023 | [Long-term action of biochar in paddy soils: effect on organic carbon and functioning of microbial communities](http://dx.doi.org/10.5194/egusphere-egu23-5811) | Biochar; Soil Carbon | 1 |
+| 2023 | [Turnover of soil organic matter and microbial biomass under C3-C4 vegetation change: implications for carbon sequestration in Mediterranean agricultural soils.](https://doi.org/10.5194/egusphere-egu23-13410) | Soil Carbon | 0 |
+| 2022 | [Diversified cropping systems benefit soil carbon and nitrogen stocks by increasing aggregate stability: Results of three fractionation methods](https://doi.org/10.1016/j.scitotenv.2022.153878) | Soil Carbon | 86 |
+| 2022 | [From energy to (soil organic) matter](https://doi.org/10.5194/egusphere-egu22-5496) | Soil Carbon | 5 |
+| 2022 | [Carbon Stabilization Pathways in Soil Aggregates During Long-Term Forest Succession: Implications from Δ13c Signatures](https://doi.org/10.2139/ssrn.4252608) | Soil Carbon | 0 |
+| 2021 | [Mitigation of carbon dioxide by accelerated sequestration from long-term biochar amended paddy soil](https://doi.org/10.1016/j.still.2021.104955) | Biochar | 38 |
+| 2021 | [Conversion from double-rice to maize-rice increases iron-bound organic carbon by “iron gate” and “enzyme latch” mechanisms](https://doi.org/10.1016/j.still.2021.105014) | Soil Carbon | 24 |
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Roland Dittmeyer"
 description: "Roland Dittmeyer is an Eminent General CDR researcher at Karlsruhe Institute of Technology in DE. With 406 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/roland-dittmeyer-a5074981/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,21 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | CDR Focus | 2.0% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Scoping carbon dioxide removal options for Germany–What is their potential contribution to Net-Zero CO2?** (2022)
-   38 citations · General CDR
+9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 6, DAC 5, BECCS 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2024)
-   25 citations · BECCS
-
-3. **A Novel Approach to Electrochemical Direct Air Capture Using Aqueous <scp>l</scp>-Arginine Amino Acid Solutions as an Absorption Solvent: Proof-of-Concept and Technoeconomics** (2025)
-   7 citations
-
-4. **Comparative analysis of industrialization potentials of direct air capture technologies** (2025)
-   6 citations · DAC
-
-5. **A storyline approach: integrating comprehensive, interdisciplinary research results to create narratives – in the context of the net-zero target in Germany** (2024)
-   2 citations · General CDR
-
-6. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2023)
-   1 citations
-
-7. **Schlussbericht** (2025)
-   0 citations · DAC
-
-8. **Reducing the cost of solid sorbent direct air carbon capture by recovering waste heat from water electrolysis under Nordic conditions** (2026)
-   0 citations · DAC
-
-9. **Reducing the cost of solid sorbent direct air carbon capture by recovering waste heat from water electrolysis under Nordic conditions** (2026)
-   0 citations · DAC
-
-10. **Carbon dioxide capture from air in buildings – Design and techno-economic feasibility of practical systems** (2026)
-   0 citations · DAC
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Carbon dioxide capture from air in buildings – Design and techno-economic feasibility of practical systems](https://doi.org/10.1016/j.jcou.2026.103351) | DAC; General CDR | 0 |
+| 2026 | [Carbon dioxide capture from air in buildings – Design and techno-economic feasibility of practical systems](https://openalex.org/W7131078770) | DAC | 0 |
+| 2026 | [Reducing the cost of solid sorbent direct air carbon capture by recovering waste heat from water electrolysis under Nordic conditions](https://openalex.org/W7167679836) | DAC | 0 |
+| 2025 | [Comparative analysis of industrialization potentials of direct air capture technologies](https://doi.org/10.3389/fclim.2025.1558396) | DAC; General CDR | 6 |
+| 2025 | [Schlussbericht](https://openalex.org/W7213635018) | DAC | 0 |
+| 2024 | [A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany](https://doi.org/10.1029/2023ef003986) | BECCS; General CDR | 25 |
+| 2024 | [A storyline approach: integrating comprehensive, interdisciplinary research results to create narratives – in the context of the net-zero target in Germany](http://dx.doi.org/10.3389/fenvs.2024.1433491) | General CDR | 2 |
+| 2023 | [Simultaneous Operability of Thermocatalytic and Electrocatalytic CO2 Reduction Reactions](https://doi.org/10.1149/ma2023-01492559mtgabs) | General CDR | 0 |
+| 2022 | [Scoping carbon dioxide removal options for Germany–What is their potential contribution to Net-Zero CO2?](https://doi.org/10.3389/fclim.2022.810343) | General CDR | 38 |
 
 ## External Profiles
 

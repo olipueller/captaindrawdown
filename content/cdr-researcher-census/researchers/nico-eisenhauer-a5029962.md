@@ -1,7 +1,7 @@
 ---
 title: "Nico Eisenhauer"
 description: "Nico Eisenhauer is an Eminent Soil Carbon researcher at Leipzig University in DE. With 902 publications and an h-index of 112, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/nico-eisenhauer-a5029962/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | CDR Focus | 1.4% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **The positive effect of plant diversity on soil carbon depends on climate** (2023)
-   213 citations · Soil Carbon
+13 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Soil Carbon 13, General CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Enhanced stability of grassland soil temperature by plant diversity** (2023)
-   75 citations
-
-3. **Aboveground litter inputs determine carbon storage across soil profiles: a meta-analysis** (2021)
-   73 citations · Soil Carbon
-
-4. **Plant and microbial community composition jointly determine moorland multifunctionality** (2022)
-   48 citations · Soil Carbon
-
-5. **Abiotic and biotic drivers of tree trait effects on soil microbial biomass and soil carbon concentration** (2022)
-   44 citations · Soil Carbon
-
-6. **Tree diversity effects on litter decomposition are mediated by litterfall and microbial processes** (2023)
-   27 citations · Soil Carbon
-
-7. **Tree Diversity Increases Carbon Stocks and Fluxes Above—But Not Belowground in a Tropical Forest Experiment** (2025)
-   25 citations · Soil Carbon
-
-8. **Drivers of the microbial metabolic quotient across global grasslands** (2023)
-   19 citations · Soil Carbon
-
-9. **Sustainable Land Use Enhances Soil Microbial Respiration Responses to Experimental Heat Stress** (2025)
-   17 citations · Soil Carbon
-
-10. **Foundations for a national assessment of soil biodiversity** (2024)
-   12 citations · General CDR
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Soil Protist Diversity and Biotic Interactions Shape Ecosystem Functions Under Climate Change](https://doi.org/10.1111/gcb.70692) | Soil Carbon | 7 |
+| 2026 | [Plant diversity increases microbial resistance to drought and soil carbon accumulation](https://doi.org/10.1111/1365-2745.70250) | Soil Carbon | 5 |
+| 2026 | [Tree Diversity Reshapes Soil Carbon Formation before Carbon Accumulation during Early Afforestation](https://openalex.org/W7203770965) | Soil Carbon | 0 |
+| 2025 | [Tree Diversity Increases Carbon Stocks and Fluxes Above—But Not Belowground in a Tropical Forest Experiment](https://doi.org/10.1111/gcb.70089) | Soil Carbon | 25 |
+| 2025 | [Sustainable Land Use Enhances Soil Microbial Respiration Responses to Experimental Heat Stress](https://doi.org/10.1111/gcb.70214) | Soil Carbon | 17 |
+| 2025 | [The Influence of Multitrophic Soil Biodiversity on Carbon Stabilization](https://doi.org/10.5194/egusphere-egu25-9770) | Soil Carbon | 0 |
+| 2024 | [Foundations for a national assessment of soil biodiversity](https://doi.org/10.1002/sae2.12116) | General CDR; Soil Carbon | 12 |
+| 2023 | [The positive effect of plant diversity on soil carbon depends on climate](https://doi.org/10.1038/s41467-023-42340-0) | Soil Carbon | 213 |
+| 2023 | [Tree diversity effects on litter decomposition are mediated by litterfall and microbial processes](https://doi.org/10.1111/oik.09751) | Soil Carbon | 27 |
+| 2023 | [Drivers of the microbial metabolic quotient across global grasslands](https://doi.org/10.1111/geb.13664) | Soil Carbon | 19 |
+| 2022 | [Plant and microbial community composition jointly determine moorland multifunctionality](https://doi.org/10.1111/1365-2745.13969) | Soil Carbon | 48 |
+| 2022 | [Abiotic and biotic drivers of tree trait effects on soil microbial biomass and soil carbon concentration](https://doi.org/10.1002/ecm.1563) | Soil Carbon | 44 |
+| 2021 | [Aboveground litter inputs determine carbon storage across soil profiles: a meta-analysis](https://doi.org/10.1007/s11104-021-04881-5) | Soil Carbon | 73 |
 
 ## External Profiles
 

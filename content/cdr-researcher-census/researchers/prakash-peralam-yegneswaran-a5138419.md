@@ -1,7 +1,7 @@
 ---
 title: "Prakash Peralam Yegneswaran"
 description: "Prakash Peralam Yegneswaran is an Early-career BECCS researcher at Kasturba Medical College, Manipal in IN. With 6 publications and an h-index of N/A, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/prakash-peralam-yegneswaran-a5138419/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,22 +45,17 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | CDR Focus | 83.3% |
 | Trajectory | Unknown |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Recent advances in biomass deconstruction, microbial conversion, artificial intelligence, and carbon capture for sustainable bioenergy** (2026)
-   1 citations · BECCS
+5 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 5. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Recent advances in biomass deconstruction, microbial conversion, artificial intelligence, and carbon capture for sustainable bioenergy** (2026)
-   0 citations · BECCS
-
-3. **Additional file 1 of Recent advances in biomass deconstruction, microbial conversion, artificial intelligence, and carbon capture for sustainable bioenergy** (2026)
-   0 citations · BECCS
-
-4. **Recent advances in biomass deconstruction, microbial conversion, artificial intelligence, and carbon capture for sustainable bioenergy** (2026)
-   0 citations · BECCS
-
-5. **Additional file 1 of Recent advances in biomass deconstruction, microbial conversion, artificial intelligence, and carbon capture for sustainable bioenergy** (2026)
-   0 citations · BECCS
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Recent advances in biomass deconstruction, microbial conversion, artificial intelligence, and carbon capture for sustainable bioenergy](https://openalex.org/W7164418053) | BECCS | 1 |
+| 2026 | [Additional file 1 of Recent advances in biomass deconstruction, microbial conversion, artificial intelligence, and carbon capture for sustainable bioenergy](https://openalex.org/W7164517513) | BECCS | 0 |
+| 2026 | [Recent advances in biomass deconstruction, microbial conversion, artificial intelligence, and carbon capture for sustainable bioenergy](https://openalex.org/W7164521410) | BECCS | 0 |
+| 2026 | [Additional file 1 of Recent advances in biomass deconstruction, microbial conversion, artificial intelligence, and carbon capture for sustainable bioenergy](https://openalex.org/W7164544818) | BECCS | 0 |
+| 2026 | [Recent advances in biomass deconstruction, microbial conversion, artificial intelligence, and carbon capture for sustainable bioenergy](https://openalex.org/W7164575193) | BECCS | 0 |
 
 ## External Profiles
 

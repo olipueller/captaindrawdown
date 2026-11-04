@@ -1,7 +1,7 @@
 ---
 title: "Shuai Deng"
 description: "Shuai Deng is an Eminent General CDR researcher at Tianjin University in CN. With 353 publications and an h-index of 53, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/shuai-deng-a5068203/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | CDR Focus | 2.8% |
 | Trajectory | Growing |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Energetic and Life Cycle Assessment of Direct Air Capture: A Review** (2022)
-   52 citations · DAC
+10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 8, DAC 7, Ocean CDR 1, BECCS 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Can bioenergy with carbon capture and storage deliver negative emissions? A critical review of life cycle assessment** (2023)
-   36 citations · BECCS
-
-3. **Solar thermal energy-assisted direct capture of CO2 from ambient air for methanol synthesis** (2024)
-   33 citations · DAC
-
-4. **Carbon dioxide capture** (2021)
-   30 citations · General CDR
-
-5. **Critical review on mobile direct air capture: Concept expansion, characteristic description, and performance evaluation** (2024)
-   27 citations
-
-6. **Methodology for predicting material performance by context-based modeling: A case study on solid amine CO2 adsorbents** (2025)
-   16 citations
-
-7. **Direct air capture-assisted sustainable fuel solution in maritime sector: a carbon footprint perspective** (2025)
-   10 citations · DAC
-
-8. **Accelerating widespread adoption of direct air capture based on system perspective: Thermodynamic limits, geographical deployment, and clean energy integration** (2026)
-   9 citations · DAC
-
-9. **Mapping innovations in direct air capture: A systematic patent review and literature comparison** (2025)
-   7 citations · DAC
-
-10. **Techno-economic analysis of pressure–temperature swing adsorption process integrated with energy recovery for SF6 recycling** (2025)
-   5 citations
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Accelerating widespread adoption of direct air capture based on system perspective: Thermodynamic limits, geographical deployment, and clean energy integration](https://doi.org/10.1016/j.rser.2026.116702) | DAC; General CDR | 9 |
+| 2026 | [Toward scalable electrochemical CO2 capture from air and oceanwater: a unified techno-economic framework and design guidelines](https://doi.org/10.1016/j.apenergy.2026.127654) | DAC; Ocean CDR | 2 |
+| 2026 | [Methane Synthesis from Air via Integrated Direct Air Capture and Electrolysis: A Techno-Economic Analysis](https://openalex.org/W7164833883) | DAC | 0 |
+| 2025 | [Direct air capture-assisted sustainable fuel solution in maritime sector: a carbon footprint perspective](https://doi.org/10.1007/s44246-025-00209-5) | DAC; General CDR | 10 |
+| 2025 | [Mapping innovations in direct air capture: A systematic patent review and literature comparison](https://doi.org/10.1016/j.rser.2025.116491) | DAC; General CDR | 7 |
+| 2024 | [Solar thermal energy-assisted direct capture of CO2 from ambient air for methanol synthesis](https://doi.org/10.1038/s44296-024-00014-y) | DAC; General CDR | 33 |
+| 2023 | [Can bioenergy with carbon capture and storage deliver negative emissions? A critical review of life cycle assessment](https://doi.org/10.1016/j.jclepro.2023.139839) | BECCS; General CDR | 36 |
+| 2022 | [Energetic and Life Cycle Assessment of Direct Air Capture: A Review](https://doi.org/10.1016/j.spc.2022.12.017) | DAC; General CDR | 52 |
+| 2022 | [A Gravitational Energy Storage Mechanism with Carbon Capture Function](https://doi.org/10.1109/irce55557.2022.9962979) | General CDR | 1 |
+| 2021 | [Carbon dioxide capture](https://doi.org/10.1016/bs.ache.2021.10.005) | General CDR | 30 |
 
 ## External Profiles
 

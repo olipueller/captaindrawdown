@@ -1,7 +1,7 @@
 ---
 title: "Fredrik Normann"
 description: "Fredrik Normann is a Senior General CDR researcher at Chalmers University of Technology in SE. With 170 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/fredrik-normann-a5037319/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | CDR Focus | 5.9% |
 | Trajectory | Exiting |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **A techno-economic assessment of CO2 capture in biomass and waste-fired combined heat and power plants – A Swedish case study** (2022)
-   76 citations · BECCS
+10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 9, BECCS 5. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Large-Scale Implementation of Bioenergy With Carbon Capture and Storage in the Swedish Pulp and Paper Industry Involving Biomass Supply at the Regional Level** (2021)
-   19 citations · BECCS
-
-3. **Modeling the development of a carbon capture and transportation infrastructure for Swedish industry** (2023)
-   18 citations · General CDR
-
-4. **Cost-optimal CO2 capture and transport infrastructure—A case study of Sweden** (2024)
-   13 citations · General CDR
-
-5. **Supply Chain Driven Commercialisation of Bio Energy Carbon Capture and Storage** (2021)
-   7 citations · BECCS
-
-6. **A Case Study of the Potential for CCS in Swedish Combined Heat and Power Plants** (2021)
-   6 citations · BECCS
-
-7. **Integration of CCS in Combined Heat and Power Plants in a City Energy System** (2022)
-   2 citations · General CDR
-
-8. **Ccs in the Pulp and Paper Industry – Implications on Regional Biomass Supply** (2021)
-   2 citations · BECCS
-
-9. **Policy implications on cost optimal CO2 capture and transport infrastructure – A case study of Sweden** (2022)
-   0 citations · General CDR
-
-10. **Modeling the Development of a Carbon Capture and Transportation Infrastructure for Swedish Industry** (2022)
-   0 citations · General CDR
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2024 | [Cost-optimal CO2 capture and transport infrastructure—A case study of Sweden](https://doi.org/10.1016/j.ijggc.2023.104055) | General CDR | 13 |
+| 2023 | [Modeling the development of a carbon capture and transportation infrastructure for Swedish industry](https://doi.org/10.1016/j.ijggc.2023.103840) | General CDR | 18 |
+| 2022 | [A techno-economic assessment of CO2 capture in biomass and waste-fired combined heat and power plants – A Swedish case study](https://doi.org/10.1016/j.ijggc.2022.103684) | BECCS; General CDR | 76 |
+| 2022 | [Integration of CCS in Combined Heat and Power Plants in a City Energy System](https://doi.org/10.2139/ssrn.4272072) | General CDR | 2 |
+| 2022 | [Modeling the Development of a Carbon Capture and Transportation Infrastructure for Swedish Industry](https://doi.org/10.2139/ssrn.4229838) | General CDR | 0 |
+| 2022 | [Policy implications on cost optimal CO2 capture and transport infrastructure – A case study of Sweden](https://doi.org/10.2139/ssrn.4282604) | General CDR | 0 |
+| 2021 | [Large-Scale Implementation of Bioenergy With Carbon Capture and Storage in the Swedish Pulp and Paper Industry Involving Biomass Supply at the Regional Level](https://doi.org/10.3389/fenrg.2021.738791) | BECCS; General CDR | 19 |
+| 2021 | [Supply Chain Driven Commercialisation of Bio Energy Carbon Capture and Storage](https://doi.org/10.3389/fclim.2021.615578) | BECCS; General CDR | 7 |
+| 2021 | [A Case Study of the Potential for CCS in Swedish Combined Heat and Power Plants](https://research.chalmers.se/en/publication/523478) | BECCS; General CDR | 6 |
+| 2021 | [Ccs in the Pulp and Paper Industry – Implications on Regional Biomass Supply](https://doi.org/10.2139/ssrn.3820355) | BECCS | 2 |
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Haris Ishaq"
 description: "Haris Ishaq is a Senior General CDR researcher at University of Victoria in CA. With 87 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/haris-ishaq-a5047835/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,24 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | CDR Focus | 13.8% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Review of ammonia production and utilization: Enabling clean energy transition and net-zero climate targets** (2024)
-   255 citations · General CDR
+12 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 10, DAC 9, Ocean CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Offshore wind energy prospects for power-to-direct air capture and power-to-gas** (2023)
-   23 citations · DAC
-
-3. **Potential of offshore wind energy for direct air capture** (2022)
-   18 citations · DAC
-
-4. **Performance assessment of offshore wind energy integrated monoethanolamine synthesis system for post-combustion and potential direct air capture** (2022)
-   16 citations · DAC
-
-5. **Ambient wind conditions impact on energy requirements of an offshore direct air capture plant** (2024)
-   8 citations
-
-6. **Scaling considerations and optimal control for an offshore wind powered direct air capture system** (2024)
-   8 citations · DAC
-
-7. **Dynamic modeling and optimal control schemes for an offshore-wind powered direct air capture system with energy storage options** (2025)
-   5 citations · DAC
-
-8. **Electrochemical approaches for CO2 point source, direct air, and seawater capture: identifying opportunities and synergies** (2025)
-   5 citations · General CDR
-
-9. **Design considerations for the marinisation of offshore direct air capture** (2024)
-   3 citations · DAC
-
-10. **Process-level assessment of renewable hydrogen-fueled calcination for direct air capture decarbonization** (2026)
-   0 citations · DAC
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Sustainable Process Systems Modeling of a Geothermal Powered Direct Air Capture and District Heating Concept](https://openalex.org/W7155213416) | DAC | 0 |
+| 2026 | [Process-level assessment of renewable hydrogen-fueled calcination for direct air capture decarbonization](https://openalex.org/W7172489572) | DAC | 0 |
+| 2025 | [Electrochemical approaches for CO2 point source, direct air, and seawater capture: identifying opportunities and synergies](https://doi.org/10.1007/s11356-025-35890-x) | General CDR; Ocean CDR | 5 |
+| 2025 | [Dynamic modeling and optimal control schemes for an offshore-wind powered direct air capture system with energy storage options](https://doi.org/10.1016/j.scitotenv.2025.179537) | DAC; General CDR | 5 |
+| 2024 | [Review of ammonia production and utilization: Enabling clean energy transition and net-zero climate targets](https://doi.org/10.1016/j.enconman.2023.117869) | General CDR | 255 |
+| 2024 | [Scaling considerations and optimal control for an offshore wind powered direct air capture system](https://doi.org/10.1088/2515-7655/ad31ba) | DAC; General CDR | 8 |
+| 2024 | [Design considerations for the marinisation of offshore direct air capture](https://doi.org/10.1016/j.energy.2024.133864) | DAC; General CDR | 3 |
+| 2024 | [Dynamic Modeling and Optimal Control Schemes for an Offshore-Wind Driven Direct Air Capture System Including Energy Storage](http://dx.doi.org/10.2139/ssrn.4944116) | General CDR | 0 |
+| 2023 | [Offshore wind energy prospects for power-to-direct air capture and power-to-gas](https://doi.org/10.1016/j.ijhydene.2023.06.164) | DAC; General CDR | 23 |
+| 2023 | [Linear programming model predictive control for offshore wind-direct air capture system using battery storage](http://dx.doi.org/10.23919/ecc57647.2023.10178329) | DAC; General CDR | 0 |
+| 2022 | [Potential of offshore wind energy for direct air capture](https://doi.org/10.1002/er.8506) | DAC; General CDR | 18 |
+| 2022 | [Performance assessment of offshore wind energy integrated monoethanolamine synthesis system for post-combustion and potential direct air capture](https://doi.org/10.1016/j.jcou.2022.102154) | DAC; General CDR | 16 |
 
 ## External Profiles
 

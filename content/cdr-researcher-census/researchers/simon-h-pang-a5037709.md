@@ -1,7 +1,7 @@
 ---
 title: "Simon H. Pang"
 description: "Simon H. Pang is a Senior General CDR researcher at Lawrence Livermore National Laboratory in US. With 99 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/simon-h-pang-a5037709/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,21 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | CDR Focus | 9.1% |
 | Trajectory | Growing |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Contributions of CO <sub>2</sub> , O <sub>2</sub> , and H <sub>2</sub> O to the Oxidative Stability of Solid Amine Direct Air Capture Sorbents at Intermediate Temperature** (2023)
-   71 citations
+9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 7, DAC 5. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   61 citations · General CDR
-
-3. **Volatile Products of the Autoxidation of Poly(ethylenimine) in CO<sub>2</sub> Sorbents** (2022)
-   35 citations
-
-4. **Influence of residual chlorine on Ru/TiO2 active sites during CO2 methanation** (2023)
-   31 citations
-
-5. **Fundamental Insight into Humid CO <sub>2</sub> Uptake in Direct Air Capture Nanocomposites Using Fluorescence and Portable NMR Relaxometry** (2023)
-   30 citations
-
-6. **Probing the Kinetic Origin of Varying Oxidative Stability of Ethyl‐ vs. Propyl‐spaced Amines for Direct Air Capture** (2022)
-   24 citations
-
-7. **Understanding and mitigating degradation in amine-based sorbents for CO2 direct air capture** (2026)
-   20 citations
-
-8. **Competing Kinetic Consequences of CO<sub>2</sub> on the Oxidative Degradation of Branched Poly(ethylenimine)** (2024)
-   19 citations
-
-9. **Application of Solid-Supported Amines for Thermocatalytic Reactive CO<sub>2</sub> Capture** (2025)
-   16 citations · DAC
-
-10. **Fluorescent Probe of Aminopolymer Mobility in Bulk and in Nanoconfined Direct Air CO<sub>2</sub> Capture Supports** (2022)
-   16 citations
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [The Potential and Cost of Carbon Dioxide Removal Using Direct Air Capture with Land-Based Wind and Utility-Scale Photovoltaics](https://doi.org/10.1021/acs.est.5c14628) | DAC; General CDR | 4 |
+| 2026 | [Development of Next-Generation Additive Chemistry for Direct Air Capture Sorbents (CRADA Final Report)](https://openalex.org/W7133842789) | DAC | 0 |
+| 2026 | [Improving Performance and Cost of Direct Air Capture in Dynamic Conditions through Modeling and System Design](https://openalex.org/W7171874060) | DAC | 0 |
+| 2025 | [Application of Solid-Supported Amines for Thermocatalytic Reactive CO<sub>2</sub> Capture](https://doi.org/10.1021/acsomega.4c10049) | DAC; General CDR | 16 |
+| 2025 | [Land-based resources for engineered carbon dioxide removal in the United States exceed the expected needs](https://doi.org/10.1016/j.oneear.2025.101349) | General CDR | 4 |
+| 2025 | [Universities must lead capacity building in carbon dioxide removal](https://doi.org/10.1038/s44359-025-00039-z) | General CDR | 0 |
+| 2025 | [Direct Air Reactive Capture and Conversion for Utility-Scale Energy Storage (Final Report)](https://doi.org/10.2172/3012480) | DAC; General CDR | 0 |
+| 2023 | [Roads to Removal: Options for Carbon Dioxide Removal in the United States](https://doi.org/10.2172/2301853) | General CDR | 61 |
+| 2022 | [Initial Considerations for Large-Scale Carbon Removal in the United States](https://doi.org/10.2172/1867535) | General CDR | 0 |
 
 ## External Profiles
 

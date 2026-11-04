@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Sadr"
 description: "Mohammad Sadr is an Early-career BECCS researcher at Helmholtz Centre for Environmental Research in DE. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/mohammad-sadr-a5038945/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,25 +48,18 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | CDR Focus | 50.0% |
 | Trajectory | Growing |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **A bottom–up regional potential assessment of bioenergy with carbon capture and storage in Germany** (2024)
-   14 citations · BECCS
+6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 5, General CDR 5, DAC 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **The role of BECCS in Germany: a key to sustainable and permanent CO<sub>2</sub> removal?** (2025)
-   4 citations · BECCS
-
-3. **Scenario Storylines for Carbon Dioxide Removal in Germany: Drawing From Regional Perspectives** (2025)
-   4 citations · BECCS
-
-4. **Unleashing the combined potential of bio-based carbon dioxide removal in Germany’s path to net zero from the bioenergy system perspective** (2026)
-   0 citations · General CDR
-
-5. **Carbon Dioxide Removal Options for Energy Transitions: BECCS versus DACCS in Germany** (2026)
-   0 citations · BECCS
-
-6. **Modeling the integration of BECCS into German bioenergy system** (2026)
-   0 citations · BECCS
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Modeling the integration of BECCS into German bioenergy system](https://openalex.org/W7138825365) | BECCS | 0 |
+| 2026 | [Carbon Dioxide Removal Options for Energy Transitions: BECCS versus DACCS in Germany](https://openalex.org/W7167934690) | BECCS; DAC; General CDR | 0 |
+| 2026 | [Unleashing the combined potential of bio-based carbon dioxide removal in Germany’s path to net zero from the bioenergy system perspective](https://openalex.org/W7196976408) | General CDR | 0 |
+| 2025 | [Scenario Storylines for Carbon Dioxide Removal in Germany: Drawing From Regional Perspectives](https://doi.org/10.1111/gcbb.70075) | BECCS; General CDR | 4 |
+| 2025 | [The role of BECCS in Germany: a key to sustainable and permanent CO<sub>2</sub> removal?](https://doi.org/10.1088/2515-7620/ae02ee) | BECCS; General CDR | 4 |
+| 2024 | [A bottom–up regional potential assessment of bioenergy with carbon capture and storage in Germany](https://doi.org/10.1088/1748-9326/ad7edd) | BECCS; General CDR | 14 |
 
 ## External Profiles
 

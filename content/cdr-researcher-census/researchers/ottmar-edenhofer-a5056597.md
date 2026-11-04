@@ -1,7 +1,7 @@
 ---
 title: "Ottmar Edenhofer"
 description: "Ottmar Edenhofer is an Eminent General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 520 publications and an h-index of 80, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/ottmar-edenhofer-a5056597/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,27 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | CDR Focus | 2.9% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Alternative carbon price trajectories can avoid excessive carbon removal** (2021)
-   114 citations · General CDR
+15 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 15, BECCS 1, DAC 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **On the Governance of Carbon Dioxide Removal – a Public Economics Perspective** (2023)
-   27 citations · General CDR
-
-3. **Separating CO2 emission from removal targets comes with limited cost impacts** (2025)
-   17 citations · General CDR
-
-4. **Pigou's Advice and Sisyphus’ Warning: Carbon Pricing with Non-Permanent Carbon-Dioxide Removal** (2022)
-   13 citations · General CDR
-
-5. **The Economics of Carbon Dioxide Removal** (2025)
-   12 citations · General CDR
-
-6. **Sequencing Carbon Dioxide Removal into the EU ETS** (2024)
-   10 citations · General CDR
-
-7. **On the Governance of Carbon Dioxide Removal – A Public Economics Perspective** (2024)
-   10 citations
-
-8. **Pigou’s Advice and Sisyphus’ Warning: Carbon Pricing with Non-Permanent Carbon Dioxide Removal** (2026)
-   6 citations
-
-9. **How the EU can utilize its carbon market to scale up carbon dioxide removal** (2026)
-   4 citations · BECCS
-
-10. **Emissions trading with clean-up certificates: How carbon debt can increase climate ambition levels** (2026)
-   3 citations · General CDR
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [How the EU can utilize its carbon market to scale up carbon dioxide removal](https://openalex.org/W7147027131) | BECCS; DAC; General CDR | 4 |
+| 2026 | [Emissions trading with clean-up certificates: How carbon debt can increase climate ambition levels](https://openalex.org/W7128705792) | General CDR | 3 |
+| 2026 | [A Safety Valve for the EU ETS endgame: Containing Prices through Carbon Dioxide Removal](https://openalex.org/W7164361410) | General CDR | 0 |
+| 2026 | [Carbon, Natural Capital and the Option Values of Climate Policies](https://openalex.org/W7167601520) | General CDR | 0 |
+| 2026 | [How the EU can utilize its carbon market to scale up carbon dioxide removal](https://openalex.org/W7167668386) | General CDR | 0 |
+| 2025 | [Separating CO2 emission from removal targets comes with limited cost impacts](https://doi.org/10.1038/s41467-025-60606-7) | General CDR | 17 |
+| 2025 | [The Economics of Carbon Dioxide Removal](https://doi.org/10.1146/annurev-resource-010224-094505) | General CDR | 12 |
+| 2024 | [Sequencing Carbon Dioxide Removal into the EU ETS](https://doi.org/10.2139/ssrn.4875550) | General CDR | 10 |
+| 2024 | [Pigou's Advice and Sisyphus’Warning: Carbon Pricing Withnon-Permanent Carbon Dioxide Removal](http://dx.doi.org/10.2139/ssrn.4828800) | General CDR | 2 |
+| 2024 | [Planetarische Müllabfuhr – Gamechanger der Klimapolitik?](https://doi.org/10.1515/pwp-2024-0028) | General CDR | 2 |
+| 2024 | [The Economics of Carbon Dioxide Removal: A Governance Perspective](https://doi.org/10.2139/ssrn.5053587) | General CDR | 2 |
+| 2023 | [On the Governance of Carbon Dioxide Removal – a Public Economics Perspective](https://doi.org/10.2139/ssrn.4422845) | General CDR | 27 |
+| 2022 | [Pigou's Advice and Sisyphus’ Warning: Carbon Pricing with Non-Permanent Carbon-Dioxide Removal](https://doi.org/10.2139/ssrn.4315996) | General CDR | 13 |
+| 2021 | [Alternative carbon price trajectories can avoid excessive carbon removal](https://doi.org/10.1038/s41467-021-22211-2) | General CDR | 114 |
+| 2021 | [Alternative carbon price trajectories can avoid excessive carbon removal](https://openalex.org/W7213652163) | General CDR | 0 |
 
 ## External Profiles
 

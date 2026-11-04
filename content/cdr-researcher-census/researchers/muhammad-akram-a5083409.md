@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Akram"
 description: "Muhammad Akram is a Mid-career General CDR researcher at University of Sheffield in GB. With 56 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/muhammad-akram-a5083409/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | CDR Focus | 17.9% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Sustainable aviation fuel (SAF) production through power-to-liquid (PtL): A combined techno-economic and life cycle assessment** (2023)
-   180 citations · DAC
+10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 8, BECCS 5, DAC 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Bioenergy with carbon capture and storage (BECCS) potential in jet fuel production from forestry residues: A combined Techno-Economic and Life Cycle Assessment approach** (2022)
-   100 citations · BECCS
-
-3. **Techno economic and life cycle assessment of olefin production through CO2 hydrogenation within the power-to-X concept** (2024)
-   29 citations · DAC
-
-4. **The effect of biomass ashes and potassium salts on MEA degradation for BECCS** (2021)
-   8 citations · BECCS
-
-5. **Pilot-scale demonstration and practical challenges of bioenergy with CCS (BECCS) using rotating packed bed** (2025)
-   4 citations · BECCS
-
-6. **Negative Emissions in the Waste-to-Energy Sector: An Overview of the Newest-CCUS Programme** (2021)
-   4 citations · General CDR
-
-7. **Comparison of TERC and TNO’s LR2 CO2 capture rigs for normal and accelerated degradation** (2022)
-   3 citations · General CDR
-
-8. **IDRIC Frontiers Report Carbon Dioxide Removal Technologies** (2025)
-   0 citations · General CDR
-
-9. **Demonstration of Negative CO2 Emissions with BECCS Using Process Intensification** (2024)
-   0 citations · BECCS
-
-10. **Impacts of Emissions from Biomass and Bio-Waste Combustion on Carbon Capture Applications** (2024)
-   0 citations · BECCS
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2025 | [Pilot-scale demonstration and practical challenges of bioenergy with CCS (BECCS) using rotating packed bed](https://doi.org/10.1016/j.fuel.2025.136562) | BECCS | 4 |
+| 2025 | [IDRIC Frontiers Report Carbon Dioxide Removal Technologies](https://doi.org/10.2139/ssrn.5332744) | General CDR | 0 |
+| 2024 | [Techno economic and life cycle assessment of olefin production through CO2 hydrogenation within the power-to-X concept](https://doi.org/10.1016/j.jclepro.2024.143143) | DAC; General CDR | 29 |
+| 2024 | [Impacts of Emissions from Biomass and Bio-Waste Combustion on Carbon Capture Applications](http://dx.doi.org/10.2139/ssrn.5031461) | BECCS; General CDR | 0 |
+| 2024 | [Demonstration of Negative CO2 Emissions with BECCS Using Process Intensification](https://doi.org/10.2139/ssrn.5064547) | BECCS; General CDR | 0 |
+| 2023 | [Sustainable aviation fuel (SAF) production through power-to-liquid (PtL): A combined techno-economic and life cycle assessment](https://doi.org/10.1016/j.enconman.2023.117427) | DAC; General CDR | 180 |
+| 2022 | [Bioenergy with carbon capture and storage (BECCS) potential in jet fuel production from forestry residues: A combined Techno-Economic and Life Cycle Assessment approach](https://doi.org/10.1016/j.enconman.2022.115346) | BECCS; General CDR | 100 |
+| 2022 | [Comparison of TERC and TNO’s LR2 CO2 capture rigs for normal and accelerated degradation](https://doi.org/10.2139/ssrn.4279777) | General CDR | 3 |
+| 2021 | [The effect of biomass ashes and potassium salts on MEA degradation for BECCS](https://doi.org/10.1016/j.ijggc.2021.103305) | BECCS | 8 |
+| 2021 | [Negative Emissions in the Waste-to-Energy Sector: An Overview of the Newest-CCUS Programme](https://doi.org/10.2139/ssrn.3812571) | General CDR | 4 |
 
 ## External Profiles
 

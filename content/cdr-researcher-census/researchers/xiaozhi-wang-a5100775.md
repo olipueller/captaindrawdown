@@ -1,7 +1,7 @@
 ---
 title: "Xiaozhi Wang"
 description: "Xiaozhi Wang is an Eminent Biochar researcher at Yangzhou University in CN. With 292 publications and an h-index of 46, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/xiaozhi-wang-a5100775/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,24 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | CDR Focus | 4.1% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Carbon defects in biochar facilitated nitrogen doping: The significant role of pyridinic nitrogen in peroxymonosulfate activation and ciprofloxacin degradation** (2022)
-   237 citations · Biochar
+12 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 8, Soil Carbon 5, Enhanced Weathering 1, General CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Preparation of biochar-interpenetrated iron-alginate hydrogel as a pH-independent sorbent for removal of Cr(VI) and Pb(II)** (2021)
-   102 citations · Biochar
-
-3. **Modification of ordered mesoporous carbon for removal of environmental contaminants from aqueous phase: A review** (2021)
-   86 citations
-
-4. **Carbon matrix of biochar from biomass modeling components facilitates electron transfer from zero-valent iron to Cr(VI)** (2021)
-   30 citations · Biochar
-
-5. **Long-Term Field Biochar Application for Rice Production: Effects on Soil Nutrient Supply, Carbon Sequestration, Crop Yield and Grain Minerals** (2022)
-   24 citations · Biochar
-
-6. **Patterns and determinants of microbial- and plant-derived carbon contributions to soil organic carbon in tea plantation chronosequence** (2024)
-   17 citations · Soil Carbon
-
-7. **Investigating CO₂ sequestration via enhanced rock weathering: Effects of temperature and citric acid on dolomite and basalt** (2024)
-   12 citations · Enhanced Weathering
-
-8. **Building soil organic matter differing in physical fractions for fertilizer nitrogen retention** (2026)
-   5 citations · Soil Carbon
-
-9. **Grass-legume mixture optimizes soil new carbon sequestration by leveraging microbial necromass dynamics in a pear orchard** (2025)
-   3 citations · Soil Carbon
-
-10. **A rapid microwave-assisted technique to synthesize micro-mesoporous biochar intercalated with Zn2+ for efficient removal of Cr(VI)** (2025)
-   2 citations · Biochar
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Building soil organic matter differing in physical fractions for fertilizer nitrogen retention](https://doi.org/10.1016/j.soilbio.2026.110136) | Soil Carbon | 5 |
+| 2026 | [Integrated biochar-iron amendment mitigates rice cadmium uptake via soil immobilization, iron plaque barriers, and microbial community restructuring](https://openalex.org/W7164843019) | Biochar | 0 |
+| 2025 | [Grass-legume mixture optimizes soil new carbon sequestration by leveraging microbial necromass dynamics in a pear orchard](https://doi.org/10.1016/j.agee.2025.109898) | Soil Carbon | 3 |
+| 2025 | [A rapid microwave-assisted technique to synthesize micro-mesoporous biochar intercalated with Zn2+ for efficient removal of Cr(VI)](https://doi.org/10.1016/j.indcrop.2025.121217) | Biochar | 2 |
+| 2024 | [Patterns and determinants of microbial- and plant-derived carbon contributions to soil organic carbon in tea plantation chronosequence](https://doi.org/10.1007/s11104-024-06712-9) | Soil Carbon | 17 |
+| 2024 | [Investigating CO₂ sequestration via enhanced rock weathering: Effects of temperature and citric acid on dolomite and basalt](https://doi.org/10.1016/j.jclepro.2024.144414) | Enhanced Weathering | 12 |
+| 2023 | [Agricultural Waste-Based Biochar for Soil Carbon Sequestration and Emission Reduction: Preparation, Evaluation, Application, and Mechanism](https://doi.org/10.1007/978-981-99-4472-9_10) | Biochar; General CDR; Soil Carbon | 1 |
+| 2023 | [Noncondensed Aromatic Components of Sludge-Derived Biochar Predominated Peroxydisulfate Activation Mechanism for Tetracycline Degradation Via an Electron Transfer Pathway](http://dx.doi.org/10.2139/ssrn.4480882) | Biochar | 0 |
+| 2022 | [Carbon defects in biochar facilitated nitrogen doping: The significant role of pyridinic nitrogen in peroxymonosulfate activation and ciprofloxacin degradation](https://doi.org/10.1016/j.cej.2022.135864) | Biochar | 237 |
+| 2022 | [Long-Term Field Biochar Application for Rice Production: Effects on Soil Nutrient Supply, Carbon Sequestration, Crop Yield and Grain Minerals](https://doi.org/10.3390/agronomy12081924) | Biochar; Soil Carbon | 24 |
+| 2021 | [Preparation of biochar-interpenetrated iron-alginate hydrogel as a pH-independent sorbent for removal of Cr(VI) and Pb(II)](https://doi.org/10.1016/j.envpol.2021.117303) | Biochar | 102 |
+| 2021 | [Carbon matrix of biochar from biomass modeling components facilitates electron transfer from zero-valent iron to Cr(VI)](https://doi.org/10.1007/s11356-021-17713-x) | Biochar | 30 |
 
 ## External Profiles
 

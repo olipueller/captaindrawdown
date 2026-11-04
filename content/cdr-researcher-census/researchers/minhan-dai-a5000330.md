@@ -1,7 +1,7 @@
 ---
 title: "Minhan Dai"
 description: "Minhan Dai is an Eminent Ocean CDR researcher at Xiamen University in CN. With 483 publications and an h-index of 84, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/minhan-dai-a5000330/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,21 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | CDR Focus | 1.9% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Carbon Fluxes in the Coastal Ocean: Synthesis, Boundary Processes, and Future Trends** (2022)
-   245 citations · General CDR
+9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 9, General CDR 3, Enhanced Weathering 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Epipelagic nitrous oxide production offsets carbon sequestration by the biological pump** (2022)
-   39 citations · Ocean CDR
-
-3. **The interactions between olivine dissolution and phytoplankton in seawater: Potential implications for ocean alkalinization** (2023)
-   24 citations · Enhanced Weathering
-
-4. **Tidal‐Driven Submarine Groundwater Discharge and Its Influences on the Carbonate System of a Coastal Coral Reef in the Northern South China Sea** (2021)
-   24 citations · Ocean CDR
-
-5. **Potential drivers and consequences of regional phosphate depletion in the western subtropical North Pacific** (2023)
-   20 citations · Ocean CDR
-
-6. **Ocean afforestation is a potentially effective way to remove carbon dioxide** (2023)
-   13 citations · Ocean CDR
-
-7. **Coupling Electrochemical Alkalinization and Mineral Dissolution for Ambient Removal of Both Influent CO<sub>2</sub> and Dissolved Nitrite in Seawater** (2024)
-   10 citations · General CDR
-
-8. **Self-assembled metal organic frameworks enhance carbon fixation in Spirulina** (2025)
-   5 citations · Ocean CDR
-
-9. **The need to explore the potential of marine CDR – A guide for policy makers** (2025)
-   1 citations · General CDR
-
-10. **Olivine-Induced Alkalinity Enhancement Amplifies Phytoplankton Carbon Export Efficiency** (2026)
-   0 citations · Enhanced Weathering
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Olivine-Induced Alkalinity Enhancement Amplifies Phytoplankton Carbon Export Efficiency](https://openalex.org/W7139971466) | Enhanced Weathering; Ocean CDR | 0 |
+| 2025 | [Self-assembled metal organic frameworks enhance carbon fixation in Spirulina](https://doi.org/10.1038/s43246-025-00991-0) | Ocean CDR | 5 |
+| 2025 | [The need to explore the potential of marine CDR – A guide for policy makers](https://hal.science/hal-04907446v1/file/Boyd_etal_2025.pdf) | General CDR; Ocean CDR | 1 |
+| 2024 | [Coupling Electrochemical Alkalinization and Mineral Dissolution for Ambient Removal of Both Influent CO<sub>2</sub> and Dissolved Nitrite in Seawater](https://doi.org/10.1021/acs.estlett.4c00313) | General CDR; Ocean CDR | 10 |
+| 2023 | [The interactions between olivine dissolution and phytoplankton in seawater: Potential implications for ocean alkalinization](https://doi.org/10.1016/j.scitotenv.2023.168571) | Enhanced Weathering; Ocean CDR | 24 |
+| 2023 | [Potential drivers and consequences of regional phosphate depletion in the western subtropical North Pacific](https://doi.org/10.1002/lol2.10314) | Ocean CDR | 20 |
+| 2022 | [Carbon Fluxes in the Coastal Ocean: Synthesis, Boundary Processes, and Future Trends](https://doi.org/10.1146/annurev-earth-032320-090746) | General CDR; Ocean CDR | 245 |
+| 2022 | [Epipelagic nitrous oxide production offsets carbon sequestration by the biological pump](https://doi.org/10.1038/s41561-022-01090-2) | Ocean CDR | 39 |
+| 2021 | [Tidal‐Driven Submarine Groundwater Discharge and Its Influences on the Carbonate System of a Coastal Coral Reef in the Northern South China Sea](https://doi.org/10.1029/2021jc017203) | Ocean CDR | 24 |
 
 ## External Profiles
 

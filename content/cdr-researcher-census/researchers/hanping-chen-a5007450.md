@@ -1,7 +1,7 @@
 ---
 title: "Hanping Chen"
 description: "Hanping Chen is an Eminent Biochar researcher at Huazhong University of Science and Technology in CN. With 715 publications and an h-index of 95, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/hanping-chen-a5007450/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,37 +45,23 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | CDR Focus | 1.5% |
 | Trajectory | Declining |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Prospective contributions of biomass pyrolysis to China’s 2050 carbon reduction and renewable energy goals** (2021)
-   402 citations · BECCS
+11 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 9, General CDR 3, BECCS 2, Soil Carbon 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Biochar as the effective adsorbent to combustion gaseous pollutants: Preparation, activation, functionalization and the adsorption mechanisms** (2023)
-   252 citations · Biochar
-
-3. **Nano nickel embedded in N-doped CNTs-supported porous biochar for adsorption-reduction of hexavalent chromium** (2021)
-   98 citations · Biochar
-
-4. **Temperature-dependent magnesium citrate modified formation of MgO nanoparticles biochar composites with efficient phosphate removal** (2021)
-   84 citations · Biochar
-
-5. **Effect mechanism of phosphorous-containing additives on carbon structure evolution and biochar stability enhancement** (2024)
-   76 citations · Biochar
-
-6. **Effect of various potassium agents on product distributions and biochar carbon sequestration of biomass pyrolysis** (2023)
-   38 citations · Biochar
-
-7. **Molecular simulation of different VOCs adsorption on nitrogen-doped biochar** (2024)
-   26 citations · Biochar
-
-8. **Temperature-dependent evolution of N-doped biochar: structure, stability, and catalytic performance** (2025)
-   9 citations · Biochar
-
-9. **Evaluation of the effect of pressure and heat transfer on the efficiency of a batch fuel reactor, using Iron-based Oxygen Carrier with a CFD model** (2022)
-   6 citations · BECCS
-
-10. **Effect of Various Potassium Agents on Product Distributions and Biochar Carbon Sequestration of Biomass Pyrolysis** (2023)
-   3 citations · Biochar
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Research on the temporal evolution and characteristics of stages in potassium-assisted biomass pyrolysis](https://openalex.org/W7204072071) | Biochar | 0 |
+| 2025 | [Temperature-dependent evolution of N-doped biochar: structure, stability, and catalytic performance](https://doi.org/10.1016/j.fuel.2025.137455) | Biochar | 9 |
+| 2024 | [Effect mechanism of phosphorous-containing additives on carbon structure evolution and biochar stability enhancement](https://doi.org/10.1007/s42773-024-00330-5) | Biochar; General CDR | 76 |
+| 2024 | [Molecular simulation of different VOCs adsorption on nitrogen-doped biochar](https://doi.org/10.1016/j.fuel.2024.132127) | Biochar | 26 |
+| 2024 | [Tuning Metal Site and Surface Functional Group Structure in Mgo Nanoparticles Biochar Composites to Unravel the Mechanism for Adsorption of Phosphate from Aqueous Solution](https://doi.org/10.2139/ssrn.4990846) | Biochar | 0 |
+| 2023 | [Biochar as the effective adsorbent to combustion gaseous pollutants: Preparation, activation, functionalization and the adsorption mechanisms](https://doi.org/10.1016/j.pecs.2023.101098) | Biochar | 252 |
+| 2023 | [Effect of various potassium agents on product distributions and biochar carbon sequestration of biomass pyrolysis](https://doi.org/10.1016/j.energy.2023.130012) | Biochar; Soil Carbon | 38 |
+| 2022 | [Evaluation of the effect of pressure and heat transfer on the efficiency of a batch fuel reactor, using Iron-based Oxygen Carrier with a CFD model](https://doi.org/10.1016/j.fuel.2022.126266) | BECCS; General CDR | 6 |
+| 2021 | [Prospective contributions of biomass pyrolysis to China’s 2050 carbon reduction and renewable energy goals](https://doi.org/10.1038/s41467-021-21868-z) | BECCS; General CDR | 402 |
+| 2021 | [Nano nickel embedded in N-doped CNTs-supported porous biochar for adsorption-reduction of hexavalent chromium](https://doi.org/10.1016/j.jhazmat.2021.125693) | Biochar | 98 |
+| 2021 | [Temperature-dependent magnesium citrate modified formation of MgO nanoparticles biochar composites with efficient phosphate removal](https://doi.org/10.1016/j.chemosphere.2021.129904) | Biochar | 84 |
 
 ## External Profiles
 

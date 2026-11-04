@@ -1,7 +1,7 @@
 ---
 title: "Sean Low"
 description: "Sean Low is a Senior General CDR researcher at Aarhus University in DK. With 57 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/sean-low-a5005320/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,31 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | CDR Focus | 33.3% |
 | Trajectory | Declining |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Public perceptions and support of climate intervention technologies across the Global North and Global South** (2024)
-   93 citations · General CDR
+19 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 19, DAC 5, Enhanced Weathering 2, BECCS 2, Ocean CDR 2, Biochar 1, Soil Carbon 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Taking it outside: Exploring social opposition to 21 early-stage experiments in radical climate interventions** (2022)
-   83 citations · General CDR
-
-3. **Public engagement for inclusive and sustainable governance of climate interventions** (2024)
-   80 citations · General CDR
-
-4. **Climate policy for a net-zero future: ten recommendations for Direct Air Capture** (2022)
-   74 citations · DAC
-
-5. **Navigating Potential Hype and Opportunity in Governing Marine Carbon Removal** (2021)
-   66 citations · General CDR
-
-6. **Public perceptions on carbon removal from focus groups in 22 countries** (2024)
-   65 citations · BECCS
-
-7. **Reviewing the sociotechnical dynamics of carbon removal** (2023)
-   60 citations · DAC
-
-8. **Risk–risk governance in a low‐carbon future: Exploring institutional, technological, and behavioral tradeoffs in climate geoengineering pathways** (2022)
-   57 citations · General CDR
-
-9. **Beyond the new normal for sustainability: transformative operations and supply chain management for negative emissions** (2024)
-   38 citations · General CDR
-
-10. **Coral reefs, cloud forests and radical climate interventions in Australia’s Wet Tropics and Great Barrier Reef** (2023)
-   20 citations · General CDR
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2025 | [How are oil and gas firms integrating carbon dioxide removal into their climate strategies?](https://doi.org/10.1016/j.erss.2025.104237) | DAC; General CDR | 6 |
+| 2025 | [Exploring global climate intervention experiments: sociotechnical promises, innovation dynamics, and perceived co-impacts across 20 projects and pilots](https://doi.org/10.1007/s11625-025-01696-6) | Biochar; DAC; Enhanced Weathering; General CDR | 0 |
+| 2024 | [Public perceptions and support of climate intervention technologies across the Global North and Global South](https://doi.org/10.1038/s41467-024-46341-5) | General CDR | 93 |
+| 2024 | [Public engagement for inclusive and sustainable governance of climate interventions](https://doi.org/10.1038/s41467-024-48510-y) | General CDR | 80 |
+| 2024 | [Public perceptions on carbon removal from focus groups in 22 countries](https://doi.org/10.1038/s41467-024-47853-w) | BECCS; DAC; Enhanced Weathering; General CDR; Soil Carbon | 65 |
+| 2024 | [Beyond the new normal for sustainability: transformative operations and supply chain management for negative emissions](https://doi.org/10.1108/ijopm-06-2024-0487) | General CDR | 38 |
+| 2024 | [Drivers and attitudes of public support for technological solutions to climate change in 30 countries](https://doi.org/10.1088/1748-9326/ad7c67) | General CDR | 19 |
+| 2024 | [Demographics shape public preferences for carbon dioxide removal and solar geoengineering interventions across 30 countries](https://doi.org/10.1038/s43247-024-01800-1) | General CDR | 13 |
+| 2024 | [An earth system governance research agenda for carbon removal](https://doi.org/10.1016/j.esg.2024.100204) | General CDR | 12 |
+| 2024 | [The sociotechnical dynamics of blue carbon management: Testing typologies of ideographs, innovation, and co-impacts for marine carbon removal](https://doi.org/10.1016/j.envsci.2024.103730) | General CDR; Ocean CDR | 10 |
+| 2023 | [Reviewing the sociotechnical dynamics of carbon removal](https://doi.org/10.1016/j.joule.2022.11.008) | DAC; General CDR | 60 |
+| 2023 | [Coral reefs, cloud forests and radical climate interventions in Australia’s Wet Tropics and Great Barrier Reef](https://doi.org/10.1371/journal.pclm.0000221) | General CDR | 20 |
+| 2023 | [Coupling for climate intervention: Sectoral and sustainability couplings for carbon removal and solar geoengineering pathways](https://doi.org/10.1016/j.techfore.2023.122734) | General CDR | 10 |
+| 2022 | [Taking it outside: Exploring social opposition to 21 early-stage experiments in radical climate interventions](https://doi.org/10.1016/j.erss.2022.102594) | General CDR | 83 |
+| 2022 | [Climate policy for a net-zero future: ten recommendations for Direct Air Capture](https://doi.org/10.1088/1748-9326/ac77a4) | DAC; General CDR | 74 |
+| 2022 | [Risk–risk governance in a low‐carbon future: Exploring institutional, technological, and behavioral tradeoffs in climate geoengineering pathways](https://doi.org/10.1111/risa.13932) | General CDR | 57 |
+| 2022 | [Determining our climate policy future: expert opinions about negative emissions and solar radiation management pathways](https://doi.org/10.1007/s11027-022-10030-9) | General CDR | 18 |
+| 2021 | [Navigating Potential Hype and Opportunity in Governing Marine Carbon Removal](https://doi.org/10.3389/fclim.2021.664456) | General CDR; Ocean CDR | 66 |
+| 2021 | [Climate Imagineering](https://doi.org/10.33540/668) | BECCS; General CDR | 1 |
 
 ## External Profiles
 

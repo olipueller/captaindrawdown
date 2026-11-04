@@ -1,7 +1,7 @@
 ---
 title: "David Izikowitz"
 description: "David Izikowitz is a Mid-career DAC researcher at Shanghai Jiao Tong University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/david-izikowitz-a5049820/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,25 +45,17 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | CDR Focus | 71.4% |
 | Trajectory | Exiting |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Operating temperatures affect direct air capture of CO2 in polyamine-loaded mesoporous silica** (2021)
-   153 citations
+5 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 5, General CDR 5. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **A comparative review of performance of nanomaterials for Direct Air Capture** (2021)
-   62 citations · DAC
-
-3. **Reviewing direct air capture startups and emerging technologies** (2024)
-   43 citations · DAC
-
-4. **Carbon Purchase Agreements, Dactories, and Supply-Chain Innovation: What Will It Take to Scale-Up Modular Direct Air Capture Technology to a Gigatonne Scale** (2021)
-   20 citations · DAC
-
-5. **Assessing capacity to deploy direct air capture technology at the country level – an expert and information entropy comparative analysis** (2023)
-   5 citations · DAC
-
-6. **China’s Direct Air Capture Potential** (2021)
-   1 citations · DAC
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2024 | [Reviewing direct air capture startups and emerging technologies](https://doi.org/10.1016/j.xcrp.2024.101791) | DAC; General CDR | 43 |
+| 2023 | [Assessing capacity to deploy direct air capture technology at the country level – an expert and information entropy comparative analysis](http://dx.doi.org/10.1088/2515-7620/acc834) | DAC; General CDR | 5 |
+| 2021 | [A comparative review of performance of nanomaterials for Direct Air Capture](https://doi.org/10.1016/j.egyr.2021.06.002) | DAC; General CDR | 62 |
+| 2021 | [Carbon Purchase Agreements, Dactories, and Supply-Chain Innovation: What Will It Take to Scale-Up Modular Direct Air Capture Technology to a Gigatonne Scale](https://doi.org/10.3389/fclim.2021.636657) | DAC; General CDR | 20 |
+| 2021 | [China’s Direct Air Capture Potential](https://doi.org/10.31038/gems.2021314) | DAC; General CDR | 1 |
 
 ## External Profiles
 

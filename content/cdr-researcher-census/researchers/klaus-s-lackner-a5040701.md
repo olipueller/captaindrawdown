@@ -1,7 +1,7 @@
 ---
 title: "Klaus S. Lackner"
 description: "Klaus S. Lackner is an Eminent DAC researcher at Arizona State University in US. With 224 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/klaus-s-lackner-a5040701/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,18 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | CDR Focus | 2.7% |
 | Trajectory | Growing |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Buying down the Cost of Direct Air Capture** (2021)
-   110 citations · DAC
+6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 6, General CDR 4, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Activated Carbon Fiber Felt Composites for the Direct Air Capture of Carbon Dioxide** (2024)
-   17 citations
-
-3. **Electrospun Poly(vinyl alcohol)–<scp>l</scp>-Arginine Nanofiber Composites for Direct Air Capture of CO<sub>2</sub>** (2022)
-   14 citations
-
-4. **Moisture swing frequency response method for characterization of ion-transport kinetics of CO2 adsorption** (2023)
-   9 citations
-
-5. **Intergenerational equity and responsibility: a call to internalize impermanence into certifying carbon sequestration** (2022)
-   3 citations
-
-6. **ASU’s DAC polymer-enhanced cyanobacterial bioproductivity (AUDACity)** (2026)
-   1 citations · DAC
-
-7. **Design and demonstration of a direct air capture system with moisture-driven CO2 delivery into aqueous medium** (2025)
-   1 citations
-
-8. **Moisture-driven CO2 direct air capture and delivery for cultivating cyanobacteria** (2025)
-   1 citations
-
-9. **Spatiotemporal Adaptive Passive Direct Air Capture** (2024)
-   1 citations · DAC
-
-10. **Distributed Mafic Rock Resources for Carbon Mineralization in Arizona** (2026)
-   0 citations · DAC
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [ASU’s DAC polymer-enhanced cyanobacterial bioproductivity (AUDACity)](https://doi.org/10.2172/3014196) | DAC; General CDR | 1 |
+| 2026 | [Meteorology-driven screening of moisture swing sorbents for passive direct air capture](https://openalex.org/W7162085331) | DAC | 0 |
+| 2026 | [Distributed Mafic Rock Resources for Carbon Mineralization in Arizona](https://openalex.org/W7205708410) | DAC; Enhanced Weathering | 0 |
+| 2024 | [Spatiotemporal Adaptive Passive Direct Air Capture](https://doi.org/10.2172/2448422) | DAC; General CDR | 1 |
+| 2022 | [Mining Air for Fuels and Fine Chemicals](https://doi.org/10.2172/1869810) | DAC; General CDR | 0 |
+| 2021 | [Buying down the Cost of Direct Air Capture](https://doi.org/10.1021/acs.iecr.0c04839) | DAC; General CDR | 110 |
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Matthew Green"
 description: "Matthew Green is an Eminent DAC researcher at Arizona State University in US. With 191 publications and an h-index of 43, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/matthew-green-a5100626/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,18 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | CDR Focus | 3.1% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Direct Air Capture of CO<sub>2</sub> via Ionic Liquids Derived from “Waste” Amino Acids** (2022)
-   51 citations
+6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 6, General CDR 4. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Quaternary Ammonium-Functionalized Poly(Arylene Ether Sulfone) Random Copolymers for Direct Air Capture** (2023)
-   22 citations
-
-3. **Activated Carbon Fiber Felt Composites for the Direct Air Capture of Carbon Dioxide** (2024)
-   17 citations
-
-4. **Polydiallylammonium-Polysulfone Multiblock Copolymers for Moisture-Swing Direct Air Capture of Carbon Dioxide** (2024)
-   14 citations
-
-5. **Electrospun Poly(vinyl alcohol)–<scp>l</scp>-Arginine Nanofiber Composites for Direct Air Capture of CO<sub>2</sub>** (2022)
-   14 citations
-
-6. **Exploring Phosphonium‐Based Anion Exchange Polymers for Moisture Swing Direct Air Capture of Carbon Dioxide** (2025)
-   6 citations
-
-7. **Direct Air Capture of CO<sub>2</sub>** (2023)
-   3 citations · DAC
-
-8. **Polymers in direct air capture: a mini review** (2025)
-   2 citations
-
-9. **ASU’s DAC polymer-enhanced cyanobacterial bioproductivity (AUDACity)** (2026)
-   1 citations · DAC
-
-10. **Design and demonstration of a direct air capture system with moisture-driven CO2 delivery into aqueous medium** (2025)
-   1 citations
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [ASU’s DAC polymer-enhanced cyanobacterial bioproductivity (AUDACity)](https://doi.org/10.2172/3014196) | DAC; General CDR | 1 |
+| 2026 | [Alkaline stability of poly(2-methacryloyloxyethyl trimethylammonium chloride) for direct air capture applications](https://openalex.org/W7163214672) | DAC | 0 |
+| 2025 | [Hybrid Carbon Management in Oil and Gas: Opportunities for Direct Air Capture, Gas Sweetening, and Waste-to-Energy](https://doi.org/10.2139/ssrn.5405554) | DAC; General CDR | 0 |
+| 2024 | [Abstract for CRADA between NETL and the AZ Board of Regents on behalf of Arizona State University](https://openalex.org/W4406746550) | DAC | 0 |
+| 2023 | [Direct Air Capture of CO<sub>2</sub>](https://doi.org/10.1021/acsinfocus.7e7016) | DAC; General CDR | 3 |
+| 2022 | [Mining Air for Fuels and Fine Chemicals](https://doi.org/10.2172/1869810) | DAC; General CDR | 0 |
 
 ## External Profiles
 

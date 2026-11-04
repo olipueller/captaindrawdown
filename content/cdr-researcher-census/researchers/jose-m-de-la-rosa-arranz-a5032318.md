@@ -1,7 +1,7 @@
 ---
 title: "José M. de la Rosa Arranz"
 description: "José M. de la Rosa Arranz is a Senior Biochar researcher at Instituto de Recursos Naturales y Agrobiología de Sevilla in ES. With 309 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/jose-m-de-la-rosa-arranz-a5032318/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,23 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | CDR Focus | 3.6% |
 | Trajectory | Growing |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Comparison of properties of biochar produced from different types of lignocellulosic biomass by slow pyrolysis at 600 °C** (2022)
-   88 citations · Biochar
+11 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 9, Soil Carbon 8, Enhanced Weathering 2, General CDR 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Biochar ageing in polluted soils and trace elements immobilisation in a 2-year field experiment** (2021)
-   28 citations · Biochar
-
-3. **Impact of Biochar Aging on Soil Physicochemical Properties** (2024)
-   26 citations · Biochar
-
-4. **Suitability of Volcanic Ash, Rice Husk Ash, Green Compost and Biochar as Amendments for a Mediterranean Alkaline Soil** (2023)
-   16 citations · Biochar
-
-5. **Spatial distribution of pyrogenic carbon in Iberian topsoils estimated by chemometric analysis of infrared spectra** (2021)
-   11 citations · Biochar
-
-6. **Evolution of Maize Compost in a Mediterranean Agricultural Soil: Implications for Carbon Sequestration** (2023)
-   8 citations
-
-7. **Pyrogenic carbon and carbonating minerals for carbon capture and storage (PyMiCCS) part I: production, physico-chemical characterization and C-sink potential** (2025)
-   7 citations · Biochar
-
-8. **Impact of organic amendments on carbon stability and carbon use efficiency in acidic and alkaline soils** (2025)
-   4 citations · Soil Carbon
-
-9. **Effects of Contrasting Organic Amendments on Carbon Stability and Soil Carbon Dynamics in Acidic and Alkaline Soils&amp;#160;** (2024)
-   2 citations · Biochar
-
-10. **Impact of Biochar Aging on Soil Physicochemical Properties** (2025)
-   1 citations
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [The hydrogen puzzle in rock-enhanced biochar: Pyrogenic coating, mineral redox and pore accessibility](https://openalex.org/W7202294715) | Biochar; Enhanced Weathering; General CDR | 0 |
+| 2026 | [From Agro-Livestock Residues to Functional Soil Amendments: Responses in Contrasting Iberian Soils](https://openalex.org/W7204098580) | Biochar; Soil Carbon | 0 |
+| 2025 | [Pyrogenic carbon and carbonating minerals for carbon capture and storage (PyMiCCS) part I: production, physico-chemical characterization and C-sink potential](https://doi.org/10.3389/fclim.2025.1631368) | Biochar; Enhanced Weathering; General CDR | 7 |
+| 2025 | [Impact of organic amendments on carbon stability and carbon use efficiency in acidic and alkaline soils](https://doi.org/10.1016/j.apsoil.2025.106577) | Soil Carbon | 4 |
+| 2025 | [From waste to worth: Harnessing residual biomass to boost soil quality and carbon sequestration](https://doi.org/10.5194/egusphere-egu25-3290) | Soil Carbon | 0 |
+| 2024 | [Impact of Biochar Aging on Soil Physicochemical Properties](https://doi.org/10.3390/agronomy14123007) | Biochar; Soil Carbon | 26 |
+| 2024 | [Effects of Contrasting Organic Amendments on Carbon Stability and Soil Carbon Dynamics in Acidic and Alkaline Soils&amp;#160;](https://doi.org/10.5194/egusphere-egu24-221) | Biochar; Soil Carbon | 2 |
+| 2023 | [Suitability of Volcanic Ash, Rice Husk Ash, Green Compost and Biochar as Amendments for a Mediterranean Alkaline Soil](https://doi.org/10.3390/agronomy13041097) | Biochar; Soil Carbon | 16 |
+| 2022 | [Comparison of properties of biochar produced from different types of lignocellulosic biomass by slow pyrolysis at 600 °C](https://doi.org/10.1016/j.jaecs.2022.100090) | Biochar; Soil Carbon | 88 |
+| 2021 | [Biochar ageing in polluted soils and trace elements immobilisation in a 2-year field experiment](https://doi.org/10.1016/j.envpol.2021.118025) | Biochar; Soil Carbon | 28 |
+| 2021 | [Spatial distribution of pyrogenic carbon in Iberian topsoils estimated by chemometric analysis of infrared spectra](https://doi.org/10.1016/j.scitotenv.2021.148170) | Biochar | 11 |
 
 ## External Profiles
 

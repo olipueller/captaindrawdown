@@ -1,7 +1,7 @@
 ---
 title: "Euripides P. Kantzas"
 description: "Euripides P. Kantzas is a Senior Enhanced Weathering researcher at Leverhulme Centre for Climate Change Mitigation in GB. With 55 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/euripides-p-kantzas-a5051479/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,20 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | CDR Focus | 14.5% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Substantial carbon drawdown potential from enhanced rock weathering in the United Kingdom** (2022)
-   165 citations · Enhanced Weathering
+8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 8, General CDR 7, Soil Carbon 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Environmental and health impacts of atmospheric CO2 removal by enhanced rock weathering depend on nations’ energy mix** (2022)
-   72 citations · Enhanced Weathering
-
-3. **Transforming US agriculture for carbon removal with enhanced weathering** (2025)
-   59 citations · Enhanced Weathering
-
-4. **The role of enhanced rock weathering deployment with agriculture in limiting future warming and protecting coral reefs** (2021)
-   27 citations · Enhanced Weathering
-
-5. **Improving nitrogen cycling in a land surface model (CLM5) to quantify soil N <sub>2</sub> O, NO, and NH <sub>3</sub> emissions from enhanced rock weathering with croplands** (2023)
-   20 citations · Enhanced Weathering
-
-6. **Making mistakes in estimating the CO2 sequestration potential of UK croplands with enhanced weathering** (2023)
-   17 citations · Enhanced Weathering
-
-7. **Improving nitrogen cycling in a land surface model (CLM5) to quantify soil N <sub>2</sub> O, NO and NH <sub>3</sub> emissions from enhanced rock weathering with croplands** (2023)
-   4 citations
-
-8. **Larger rock extraction sites could improve the efficiency of enhanced rock weathering in the United Kingdom** (2025)
-   3 citations · Enhanced Weathering
-
-9. **Transforming U.S. agriculture with crushed rock for CO$_2$ sequestration and increased production** (2023)
-   1 citations · Enhanced Weathering
-
-10. **Source Data for figures in this Article:** (2022)
-   0 citations · Enhanced Weathering
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2025 | [Transforming US agriculture for carbon removal with enhanced weathering](https://doi.org/10.1038/s41586-024-08429-2) | Enhanced Weathering; General CDR | 59 |
+| 2025 | [Larger rock extraction sites could improve the efficiency of enhanced rock weathering in the United Kingdom](https://doi.org/10.1038/s43247-025-02656-9) | Enhanced Weathering; General CDR | 3 |
+| 2023 | [Improving nitrogen cycling in a land surface model (CLM5) to quantify soil N <sub>2</sub> O, NO, and NH <sub>3</sub> emissions from enhanced rock weathering with croplands](https://doi.org/10.5194/gmd-16-5783-2023) | Enhanced Weathering; Soil Carbon | 20 |
+| 2023 | [Making mistakes in estimating the CO2 sequestration potential of UK croplands with enhanced weathering](https://doi.org/10.1016/j.apgeochem.2023.105591) | Enhanced Weathering; General CDR | 17 |
+| 2023 | [Transforming U.S. agriculture with crushed rock for CO$_2$ sequestration and increased production](http://arxiv.org/abs/2308.04302) | Enhanced Weathering; General CDR | 1 |
+| 2022 | [Substantial carbon drawdown potential from enhanced rock weathering in the United Kingdom](https://doi.org/10.1038/s41561-022-00925-2) | Enhanced Weathering; General CDR | 165 |
+| 2022 | [Environmental and health impacts of atmospheric CO2 removal by enhanced rock weathering depend on nations’ energy mix](https://doi.org/10.1038/s43247-022-00436-3) | Enhanced Weathering; General CDR | 72 |
+| 2021 | [The role of enhanced rock weathering deployment with agriculture in limiting future warming and protecting coral reefs](https://doi.org/10.1088/1748-9326/ac1818) | Enhanced Weathering; General CDR | 27 |
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Lyla L. Taylor"
 description: "Lyla L. Taylor is a Senior Enhanced Weathering researcher at University of Sheffield in GB. With 57 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/lyla-l-taylor-a5001741/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,21 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | CDR Focus | 15.8% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Substantial carbon drawdown potential from enhanced rock weathering in the United Kingdom** (2022)
-   165 citations · Enhanced Weathering
+9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 9, General CDR 8, Soil Carbon 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Effects of mineralogy, chemistry and physical properties of basalts on carbon capture potential and plant-nutrient element release via enhanced weathering** (2021)
-   162 citations · Enhanced Weathering
-
-3. **Increased carbon capture by a silicate-treated forested watershed affected by acid deposition** (2021)
-   101 citations · Enhanced Weathering
-
-4. **Transforming US agriculture for carbon removal with enhanced weathering** (2025)
-   59 citations · Enhanced Weathering
-
-5. **Enhanced Rock Weathering for Carbon Removal–Monitoring and Mitigating Potential Environmental Impacts on Agricultural Land** (2024)
-   47 citations · Enhanced Weathering
-
-6. **Improving nitrogen cycling in a land surface model (CLM5) to quantify soil N <sub>2</sub> O, NO, and NH <sub>3</sub> emissions from enhanced rock weathering with croplands** (2023)
-   20 citations · Enhanced Weathering
-
-7. **Improving nitrogen cycling in a land surface model (CLM5) to quantify soil N <sub>2</sub> O, NO and NH <sub>3</sub> emissions from enhanced rock weathering with croplands** (2023)
-   4 citations
-
-8. **Transforming U.S. agriculture with crushed rock for CO$_2$ sequestration and increased production** (2023)
-   1 citations · Enhanced Weathering
-
-9. **ForestERW: a spatially explicit carbon dioxide removal model for practical enhanced rock weathering applications in United States forests** (2026)
-   0 citations · Enhanced Weathering
-
-10. **Comment on egusphere-2025-5823** (2026)
-   0 citations
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [ARTEMIS version 1.0: A Reactive Transport Enhanced Rock Weathering Model with Coupled Soil Carbon and Nutrient Dynamics](https://doi.org/10.5194/egusphere-2025-5823) | Enhanced Weathering; General CDR; Soil Carbon | 0 |
+| 2026 | [ForestERW: a spatially explicit carbon dioxide removal model for practical enhanced rock weathering applications in United States forests](https://openalex.org/W7203740716) | Enhanced Weathering; General CDR | 0 |
+| 2025 | [Transforming US agriculture for carbon removal with enhanced weathering](https://doi.org/10.1038/s41586-024-08429-2) | Enhanced Weathering; General CDR | 59 |
+| 2024 | [Enhanced Rock Weathering for Carbon Removal–Monitoring and Mitigating Potential Environmental Impacts on Agricultural Land](https://doi.org/10.1021/acs.est.4c02368) | Enhanced Weathering; General CDR | 47 |
+| 2023 | [Improving nitrogen cycling in a land surface model (CLM5) to quantify soil N <sub>2</sub> O, NO, and NH <sub>3</sub> emissions from enhanced rock weathering with croplands](https://doi.org/10.5194/gmd-16-5783-2023) | Enhanced Weathering; Soil Carbon | 20 |
+| 2023 | [Transforming U.S. agriculture with crushed rock for CO$_2$ sequestration and increased production](http://arxiv.org/abs/2308.04302) | Enhanced Weathering; General CDR | 1 |
+| 2022 | [Substantial carbon drawdown potential from enhanced rock weathering in the United Kingdom](https://doi.org/10.1038/s41561-022-00925-2) | Enhanced Weathering; General CDR | 165 |
+| 2021 | [Effects of mineralogy, chemistry and physical properties of basalts on carbon capture potential and plant-nutrient element release via enhanced weathering](https://doi.org/10.1016/j.apgeochem.2021.105023) | Enhanced Weathering; General CDR | 162 |
+| 2021 | [Increased carbon capture by a silicate-treated forested watershed affected by acid deposition](https://doi.org/10.5194/bg-18-169-2021) | Enhanced Weathering; General CDR | 101 |
 
 ## External Profiles
 

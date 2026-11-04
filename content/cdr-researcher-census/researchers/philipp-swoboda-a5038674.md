@@ -1,7 +1,7 @@
 ---
 title: "Philipp Swoboda"
 description: "Philipp Swoboda is a Mid-career Enhanced Weathering researcher at InPlanet GmbH in DE. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/philipp-swoboda-a5038674/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,37 +45,20 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | CDR Focus | 42.1% |
 | Trajectory | Growing |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Remineralizing soils? The agricultural usage of silicate rock powders: A review** (2021)
-   257 citations · Enhanced Weathering
+8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 8, General CDR 6, Soil Carbon 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Is the climate change mitigation effect of enhanced silicate weathering governed by biological processes?** (2021)
-   133 citations · Enhanced Weathering
-
-3. **A review of measurement for quantification of carbon dioxide removal by enhanced weathering in soil** (2024)
-   61 citations · Enhanced Weathering
-
-4. **A Review of Measurement for Quantification of Carbon Dioxide Removal by Enhanced Weathering in Soil** (2023)
-   6 citations
-
-5. **Chemical and Mineralogical Classification of Silicate Agrominerals** (2026)
-   1 citations · Enhanced Weathering
-
-6. **Agronomic co-benefits of enhanced rock weathering (ERW) with basalt applied to sugarcane grown on acidic soil in Brazil** (2025)
-   1 citations · Enhanced Weathering
-
-7. **A meta-analysis of the agronomic benefits of silicate rock powders in Brazil in the context of a novel classification** (2026)
-   0 citations
-
-8. **Carbon dioxide removal and co-benefits of enhanced weathering in tropical soils: a case study with sugarcane in Brazil** (2025)
-   0 citations · Enhanced Weathering
-
-9. **Unlocking Gigatonne-scale Carbon Dioxide Removal with strategic tipping point frameworks** (2025)
-   0 citations · Enhanced Weathering
-
-10. **An assessment of the agronomic benefits of silicate rock powders in Brazil in the context of a novel classification** (2025)
-   0 citations · Enhanced Weathering
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Chemical and Mineralogical Classification of Silicate Agrominerals](https://doi.org/10.1007/978-3-032-14656-4_3) | Enhanced Weathering | 1 |
+| 2025 | [Agronomic co-benefits of enhanced rock weathering (ERW) with basalt applied to sugarcane grown on acidic soil in Brazil](https://doi.org/10.5194/egusphere-egu25-12326) | Enhanced Weathering; Soil Carbon | 1 |
+| 2025 | [An assessment of the agronomic benefits of silicate rock powders in Brazil in the context of a novel classification](https://doi.org/10.31223/x5jj18) | Enhanced Weathering; General CDR | 0 |
+| 2025 | [Unlocking Gigatonne-scale Carbon Dioxide Removal with strategic tipping point frameworks](https://doi.org/10.31223/x56j15) | Enhanced Weathering; General CDR | 0 |
+| 2025 | [Carbon dioxide removal and co-benefits of enhanced weathering in tropical soils: a case study with sugarcane in Brazil](https://doi.org/10.7185/gold2025.31816) | Enhanced Weathering; General CDR; Soil Carbon | 0 |
+| 2024 | [A review of measurement for quantification of carbon dioxide removal by enhanced weathering in soil](https://doi.org/10.3389/fclim.2024.1345224) | Enhanced Weathering; General CDR | 61 |
+| 2021 | [Remineralizing soils? The agricultural usage of silicate rock powders: A review](https://doi.org/10.1016/j.scitotenv.2021.150976) | Enhanced Weathering; General CDR | 257 |
+| 2021 | [Is the climate change mitigation effect of enhanced silicate weathering governed by biological processes?](https://doi.org/10.1111/gcb.15993) | Enhanced Weathering; General CDR | 133 |
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Florian Humpenöder"
 description: "Florian Humpenöder is an Eminent General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 174 publications and an h-index of 52, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/florian-humpenoder-a5060104/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,29 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | CDR Focus | 9.8% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Impact of declining renewable energy costs on electrification in low-emission scenarios** (2021)
-   571 citations · General CDR
+17 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 14, BECCS 7. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Carbon dioxide removal technologies are not born equal** (2021)
-   123 citations · BECCS
-
-3. **Land-based implications of early climate actions without global net-negative emissions** (2021)
-   67 citations · General CDR
-
-4. **Bioenergy-induced land-use-change emissions with sectorally fragmented policies** (2023)
-   48 citations · BECCS
-
-5. **Food matters: Dietary shifts increase the feasibility of 1.5°C pathways in line with the Paris Agreement** (2024)
-   43 citations · General CDR
-
-6. **Multiple pathways towards sustainable development goals and climate targets** (2024)
-   40 citations · General CDR
-
-7. **Food and land system transformations under different societal perspectives on sustainable development** (2024)
-   13 citations · General CDR
-
-8. **Biodiversity implications of land-intensive carbon dioxide removal** (2026)
-   7 citations · BECCS
-
-9. **ENGAGE Global Scenarios** (2021)
-   6 citations
-
-10. **Fire Weather Compromises Large Scale Afforestation Scenarios** (2023)
-   3 citations · General CDR
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Biodiversity implications of land-intensive carbon dioxide removal](https://doi.org/10.1038/s41558-026-02557-5) | BECCS; General CDR | 7 |
+| 2026 | [Biodiversity side effects of carbon-focused reforestation under Paris-aligned transformation pathways](https://doi.org/10.21203/rs.3.rs-8223917/v1) | General CDR | 0 |
+| 2026 | [Carbon Dioxide Removal Supply Curves: A Multi-Model Assessment](https://openalex.org/W7164164937) | BECCS; General CDR | 0 |
+| 2026 | [Biodiversity conservation policies alter the solution space of climate mitigation scenarios](https://openalex.org/W7208815994) | BECCS | 0 |
+| 2026 | [Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment](https://openalex.org/W7211955480) | BECCS | 0 |
+| 2026 | [Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment](https://openalex.org/W7211966750) | BECCS | 0 |
+| 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7220995682) | General CDR | 0 |
+| 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7221005949) | General CDR | 0 |
+| 2024 | [Food matters: Dietary shifts increase the feasibility of 1.5°C pathways in line with the Paris Agreement](https://doi.org/10.1126/sciadv.adj3832) | General CDR | 43 |
+| 2024 | [Multiple pathways towards sustainable development goals and climate targets](https://doi.org/10.1088/1748-9326/ad80af) | General CDR | 40 |
+| 2024 | [Food and land system transformations under different societal perspectives on sustainable development](https://doi.org/10.1088/1748-9326/ad8f46) | General CDR | 13 |
+| 2023 | [Bioenergy-induced land-use-change emissions with sectorally fragmented policies](https://doi.org/10.1038/s41558-023-01697-2) | BECCS; General CDR | 48 |
+| 2023 | [Fire Weather Compromises Large Scale Afforestation Scenarios](https://doi.org/10.5194/egusphere-egu23-12337) | General CDR | 3 |
+| 2023 | [Defending climate targets under threat of forest carbon impermanence](https://doi.org/10.5194/egusphere-egu23-15161) | General CDR | 0 |
+| 2021 | [Impact of declining renewable energy costs on electrification in low-emission scenarios](https://doi.org/10.1038/s41560-021-00937-z) | General CDR | 571 |
+| 2021 | [Carbon dioxide removal technologies are not born equal](https://doi.org/10.1088/1748-9326/ac0a11) | BECCS; General CDR | 123 |
+| 2021 | [Land-based implications of early climate actions without global net-negative emissions](https://doi.org/10.1038/s41893-021-00772-w) | General CDR | 67 |
 
 ## External Profiles
 

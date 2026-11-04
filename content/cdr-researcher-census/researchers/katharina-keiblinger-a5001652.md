@@ -1,7 +1,7 @@
 ---
 title: "Katharina Keiblinger"
 description: "Katharina Keiblinger is a Senior Soil Carbon researcher at BOKU University in AT. With 175 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/katharina-keiblinger-a5001652/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,27 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | CDR Focus | 8.6% |
 | Trajectory | Declining |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Fungal biomass and microbial necromass facilitate soil carbon sequestration and aggregate stability under different soil tillage intensities** (2022)
-   126 citations · Soil Carbon
+15 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Soil Carbon 14, Biochar 2, General CDR 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **On-farm soil organic carbon sequestration potentials are dominated by site effects, not by management practices** (2023)
-   43 citations · Soil Carbon
-
-3. **Changes in microbial physiology and carbon-use efficiency upon improving soil habitat conditions in conservation farming systems** (2024)
-   30 citations · Soil Carbon
-
-4. **Benchmarking carbon sequestration potentials in arable soils by on-farm research on innovative pioneer farms** (2022)
-   29 citations
-
-5. **Potential for agricultural recycling of struvite and zeolites to improve soil microbial physiology and mitigate CO2 emissions** (2024)
-   13 citations · General CDR
-
-6. **Interplay between living or dead plant carbon input and soil organic matter – key drivers and agricultural management for soil carbon sequestration** (2023)
-   8 citations · Soil Carbon
-
-7. **Feasible Carbon Sequestration Potential in European Agricultural Mineral Soils Through Improved Management** (2026)
-   1 citations · Biochar
-
-8. **Finding the optimum tillage and cover crop system for optimizing microbial soil health and nutrient cycling** (2024)
-   1 citations · Soil Carbon
-
-9. **Linking soil microbial carbon sequestration to cover crop diversification in agricultural soil systems across Europe** (2023)
-   1 citations · Soil Carbon
-
-10. **Conservation tillage practices facilitate soil organic carbon sequestration and aggregate stability via fungal abundance and necromass** (2022)
-   1 citations · Soil Carbon
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Feasible Carbon Sequestration Potential in European Agricultural Mineral Soils Through Improved Management](https://openalex.org/W7163002390) | Biochar | 1 |
+| 2025 | [Carbon stable isotope analysis in groundwater remediation &amp;#8211; The role of microbial biofilm communities and biochar in PCE and NAP degradation](https://doi.org/10.5194/egusphere-egu25-10869) | Biochar; Soil Carbon | 0 |
+| 2025 | [High-Altitude Afforestation in the Austrian Alps: Effects on Soil Organic Carbon and Microbial Communities](https://doi.org/10.5194/egusphere-egu25-7866) | Soil Carbon | 0 |
+| 2024 | [Changes in microbial physiology and carbon-use efficiency upon improving soil habitat conditions in conservation farming systems](https://doi.org/10.1016/j.agee.2024.109246) | Soil Carbon | 30 |
+| 2024 | [Potential for agricultural recycling of struvite and zeolites to improve soil microbial physiology and mitigate CO2 emissions](https://doi.org/10.1016/j.geoderma.2024.117149) | General CDR; Soil Carbon | 13 |
+| 2024 | [Finding the optimum tillage and cover crop system for optimizing microbial soil health and nutrient cycling](https://doi.org/10.5194/egusphere-egu24-18424) | Soil Carbon | 1 |
+| 2024 | [Cover crop diversification alters microbial life-death cycle and enhances carbon sequestration in agricultural soil](https://doi.org/10.5194/egusphere-egu24-20534) | Soil Carbon | 0 |
+| 2023 | [On-farm soil organic carbon sequestration potentials are dominated by site effects, not by management practices](https://doi.org/10.1016/j.geoderma.2023.116466) | Soil Carbon | 43 |
+| 2023 | [Interplay between living or dead plant carbon input and soil organic matter – key drivers and agricultural management for soil carbon sequestration](https://doi.org/10.1007/s11104-023-06149-6) | Soil Carbon | 8 |
+| 2023 | [Linking soil microbial carbon sequestration to cover crop diversification in agricultural soil systems across Europe](https://doi.org/10.5194/egusphere-egu23-9585) | Soil Carbon | 1 |
+| 2023 | [Cover Crops Affecting Pool Specific Soil Organic Carbon Sequestration in Cropland – A Meta-Analysis](http://dx.doi.org/10.5194/egusphere-egu23-2269) | Soil Carbon | 0 |
+| 2023 | [On-farm research on innovative pioneer farms in North-Eastern Austria: microbial indicators affecting soil organic carbon (SOC) sequestration](http://dx.doi.org/10.5194/egusphere-egu23-8716) | Soil Carbon | 0 |
+| 2023 | [Improved prediction of soil organic carbon sequestration potentials in Austrian arable soils as simulated by multi-model ensembles](https://doi.org/10.5194/egusphere-egu23-14174) | General CDR; Soil Carbon | 0 |
+| 2022 | [Fungal biomass and microbial necromass facilitate soil carbon sequestration and aggregate stability under different soil tillage intensities](https://doi.org/10.1016/j.apsoil.2022.104599) | Soil Carbon | 126 |
+| 2022 | [Conservation tillage practices facilitate soil organic carbon sequestration and aggregate stability via fungal abundance and necromass](https://doi.org/10.5194/egusphere-egu22-2206) | Soil Carbon | 1 |
 
 ## External Profiles
 

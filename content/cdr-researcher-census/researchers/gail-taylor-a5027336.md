@@ -1,7 +1,7 @@
 ---
 title: "Gail Taylor"
 description: "Gail Taylor is an Eminent BECCS researcher at University of California, Davis in US. With 399 publications and an h-index of 62, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/gail-taylor-a5027336/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,25 +48,17 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | CDR Focus | 1.3% |
 | Trajectory | Exiting |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Land-use change from food to energy: meta-analysis unravels effects of bioenergy on biodiversity and cultural ecosystem services** (2021)
-   38 citations · BECCS
+5 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 5, General CDR 5. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **A net-zero storyline for success? News media analysis of the social legitimacy of bioenergy with carbon capture and storage in the United Kingdom** (2023)
-   36 citations · BECCS
-
-3. **Land-use change from food to energy: meta-analysis unravels effects of bioenergy on biodiversity and amenity** (2021)
-   3 citations · BECCS
-
-4. **Without SLO BECCS, fast net-zero looks unlikely** (2021)
-   2 citations · BECCS
-
-5. **Without SLO BECCS, fast net-zero looks unlikely** (2021)
-   0 citations
-
-6. **Improved biodiversity from food to energy: Meta-analysis of land-use change to dedicated bioenergy crops** (2021)
-   0 citations · BECCS
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2023 | [A net-zero storyline for success? News media analysis of the social legitimacy of bioenergy with carbon capture and storage in the United Kingdom](https://doi.org/10.1016/j.erss.2023.103153) | BECCS; General CDR | 36 |
+| 2021 | [Land-use change from food to energy: meta-analysis unravels effects of bioenergy on biodiversity and cultural ecosystem services](https://doi.org/10.1088/1748-9326/ac22be) | BECCS; General CDR | 38 |
+| 2021 | [Land-use change from food to energy: meta-analysis unravels effects of bioenergy on biodiversity and amenity](https://doi.org/10.1101/2021.06.16.448590) | BECCS; General CDR | 3 |
+| 2021 | [Without SLO BECCS, fast net-zero looks unlikely](https://doi.org/10.21203/rs.3.rs-147027/v1) | BECCS; General CDR | 2 |
+| 2021 | [Improved biodiversity from food to energy: Meta-analysis of land-use change to dedicated bioenergy crops](https://doi.org/10.5194/egusphere-egu21-6737) | BECCS; General CDR | 0 |
 
 ## External Profiles
 

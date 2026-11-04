@@ -1,7 +1,7 @@
 ---
 title: "Christiane Hennig"
 description: "Christiane Hennig is a Mid-career BECCS researcher at Deutsches Biomasseforschungszentrum in DE. With 40 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/christiane-hennig-a5045674/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,22 +45,17 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | CDR Focus | 10.0% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Defining bioenergy system services to accelerate the integration of bioenergy into a low‐carbon economy** (2024)
-   8 citations · BECCS
+5 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 5, General CDR 3. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Cascading wood use into bioenergy with carbon capture and storage ensures continuous and enduring temperature reduction** (2026)
-   4 citations · BECCS
-
-3. **Bioenergy with carbon capture and storage/utilization (BECCUS)** (2026)
-   0 citations · BECCS
-
-4. **BECCS applications: from innovation to deployment** (2026)
-   0 citations · BECCS
-
-5. **Bioenergy with carbon capture and storage or utilization (BECCUS): From innovation to deployment** (2024)
-   0 citations · BECCS
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Cascading wood use into bioenergy with carbon capture and storage ensures continuous and enduring temperature reduction](https://openalex.org/W7138856057) | BECCS; General CDR | 4 |
+| 2026 | [BECCS applications: from innovation to deployment](https://openalex.org/W7140962312) | BECCS | 0 |
+| 2026 | [Bioenergy with carbon capture and storage/utilization (BECCUS)](https://openalex.org/W7154658841) | BECCS | 0 |
+| 2024 | [Defining bioenergy system services to accelerate the integration of bioenergy into a low‐carbon economy](https://doi.org/10.1002/bbb.2649) | BECCS; General CDR | 8 |
+| 2024 | [Bioenergy with carbon capture and storage or utilization (BECCUS): From innovation to deployment](https://www.openagrar.de/receive/openagrar_mods_00114334) | BECCS; General CDR | 0 |
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Alexa Grimm"
 description: "Alexa Grimm is a Mid-career DAC researcher at Utrecht University in NL. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/alexa-grimm-a5103982/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,22 +45,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | CDR Focus | 30.8% |
 | Trajectory | Exiting |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **A comparative energy and costs assessment and optimization for direct air capture technologies** (2021)
-   432 citations · DAC
+4 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 4, General CDR 4. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Optimal Design and Operation of Solid Sorbent Direct Air Capture Processes at Varying Ambient Conditions** (2022)
-   143 citations
-
-3. **How Would Ideal Sorbents Improve the Technical and Economic Performance of Adsorption-Based Direct Air Capture?** (2024)
-   18 citations · DAC
-
-4. **A Machine Learning-Aided Equilibrium Model of VTSA Processes for Sorbents Screening Applied to CO<sub>2</sub> Capture from Diluted Sources** (2022)
-   15 citations · DAC
-
-5. **CO2 Capture and H2 Production: Assessment of Two Key Components for Synthetic Renewable Fuels** (2022)
-   0 citations · DAC
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2024 | [How Would Ideal Sorbents Improve the Technical and Economic Performance of Adsorption-Based Direct Air Capture?](https://doi.org/10.1021/acs.energyfuels.4c01156) | DAC; General CDR | 18 |
+| 2022 | [A Machine Learning-Aided Equilibrium Model of VTSA Processes for Sorbents Screening Applied to CO<sub>2</sub> Capture from Diluted Sources](https://doi.org/10.1021/acs.iecr.2c01695) | DAC; General CDR | 15 |
+| 2022 | [CO2 Capture and H2 Production: Assessment of Two Key Components for Synthetic Renewable Fuels](https://doi.org/10.33540/1587) | DAC; General CDR | 0 |
+| 2021 | [A comparative energy and costs assessment and optimization for direct air capture technologies](https://doi.org/10.1016/j.joule.2021.05.023) | DAC; General CDR | 432 |
 
 ## External Profiles
 

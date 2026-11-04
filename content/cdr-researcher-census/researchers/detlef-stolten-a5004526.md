@@ -1,7 +1,7 @@
 ---
 title: "Detlef Stolten"
 description: "Detlef Stolten is an Eminent DAC researcher at RWTH Aachen University in DE. With 1361 publications and an h-index of 84, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/detlef-stolten-a5004526/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,26 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | CDR Focus | 1.0% |
 | Trajectory | Growing |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Weather conditions severely impact optimal direct air capture siting** (2025)
-   19 citations · DAC
+14 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 14, General CDR 9. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **An evaluation of direct dimethyl ether (DME) synthesis from hydrogen and carbon dioxide based on CFD reactor simulations** (2023)
-   11 citations
-
-3. **Weather-dependent direct air capture process modeling for techno-economic assessments** (2026)
-   10 citations · DAC
-
-4. **Criteria for effective site selection of direct air capture and storage projects** (2024)
-   6 citations · DAC
-
-5. **From Diverse Perspectives to Informed Policymaking -An Interdisciplinary Perspective on the Assessment of DACCS and Other Terrestrial CDR Technologies** (2025)
-   5 citations · DAC
-
-6. **Direct air capture enables sustainable methanol production in water-scarce regions** (2026)
-   1 citations · DAC
-
-7. **Global strategic deployment of Direct Air Capture technologies** (2026)
-   1 citations · DAC
-
-8. **Global strategic deployment of Direct Air Capture technologies** (2026)
-   1 citations · DAC
-
-9. **Water-Conscious and CO<sup>2</sup>-Negative Hydrogen Production in the European Union** (2025)
-   1 citations · DAC
-
-10. **Exploring Weather Impacts on Direct Air Capture Through Process and Techno-Economic Modeling** (2025)
-   1 citations · DAC
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Weather-dependent direct air capture process modeling for techno-economic assessments](https://doi.org/10.1016/j.enconman.2025.121003) | DAC; General CDR | 10 |
+| 2026 | [Global strategic deployment of Direct Air Capture technologies](https://doi.org/10.2139/ssrn.6416107) | DAC; General CDR | 1 |
+| 2026 | [Global strategic deployment of Direct Air Capture technologies](https://openalex.org/W7169594416) | DAC | 1 |
+| 2026 | [Direct air capture enables sustainable methanol production in water-scarce regions](https://openalex.org/W7204089186) | DAC | 1 |
+| 2026 | [Beyond Capture: Global Techno-Economic Potential of Direct Air Carbon Capture and Storage](https://openalex.org/W7167452867) | DAC; General CDR | 0 |
+| 2026 | [Global strategic deployment of Direct Air Capture technologies](https://openalex.org/W7172326523) | DAC | 0 |
+| 2026 | [Global strategic deployment of Direct Air Capture technologies](https://openalex.org/W7172383932) | DAC | 0 |
+| 2026 | [Direct air capture enables sustainable methanol production in water-scarce regions](https://openalex.org/W7212170702) | DAC | 0 |
+| 2025 | [Weather conditions severely impact optimal direct air capture siting](https://doi.org/10.1016/j.adapen.2025.100229) | DAC; General CDR | 19 |
+| 2025 | [From Diverse Perspectives to Informed Policymaking -An Interdisciplinary Perspective on the Assessment of DACCS and Other Terrestrial CDR Technologies](https://doi.org/10.2139/ssrn.5278865) | DAC; General CDR | 5 |
+| 2025 | [Exploring Weather Impacts on Direct Air Capture Through Process and Techno-Economic Modeling](https://doi.org/10.2139/ssrn.5230783) | DAC; General CDR | 1 |
+| 2025 | [Water-Conscious and CO<sup>2</sup>-Negative Hydrogen Production in the European Union](https://doi.org/10.1109/eem64765.2025.11050328) | DAC; General CDR | 1 |
+| 2025 | [Direct air capture enables sustainable hydrocarbon production in water-scarce regions](https://doi.org/10.21203/rs.3.rs-8161590/v1) | DAC; General CDR | 0 |
+| 2024 | [Criteria for effective site selection of direct air capture and storage projects](https://doi.org/10.1088/1748-9326/ad7a0f) | DAC; General CDR | 6 |
 
 ## External Profiles
 

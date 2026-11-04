@@ -1,7 +1,7 @@
 ---
 title: "Gonzalo Guillén‐Gosálbez"
 description: "Gonzalo Guillén‐Gosálbez is an Eminent General CDR researcher at ETH Zurich in CH. With 421 publications and an h-index of 60, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/gonzalo-guillengosalbez-a5059336/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,28 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | CDR Focus | 3.6% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Delaying carbon dioxide removal in the European Union puts climate targets at risk** (2021)
-   93 citations · BECCS
+16 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 15, BECCS 6, DAC 4, Biochar 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Sustainable scale-up of negative emissions technologies and practices: where to focus** (2022)
-   55 citations · General CDR
-
-3. **Human and planetary health implications of negative emissions technologies** (2022)
-   50 citations · BECCS
-
-4. **Life cycle optimization of BECCS supply chains in the European Union** (2021)
-   46 citations · BECCS
-
-5. **Navigating within the Safe Operating Space with Carbon Capture On-Board** (2022)
-   41 citations
-
-6. **The role of hydrogen in heavy transport to operate within planetary boundaries** (2021)
-   37 citations
-
-7. **Responsible carbon dioxide removals and the EU’s 2040 climate target** (2024)
-   14 citations · General CDR
-
-8. **Microalgae Biofuel for a Heavy-Duty Transport Sector within Planetary Boundaries** (2023)
-   13 citations · DAC
-
-9. **Sustainable Development Goals assessment of carbon capture on-board** (2023)
-   8 citations · General CDR
-
-10. **Europe’s ‘green deal’ and carbon dioxide removal** (2021)
-   5 citations · General CDR
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Negative emissions technologies and practices could challenge global resource supply and environmental limits](https://doi.org/10.1038/s43247-026-03348-8) | BECCS; Biochar; General CDR | 4 |
+| 2026 | [Biochar-Enhanced Geopolymers from Construction and Demolition Waste: Toward Carbon-Negative Construction Materials](https://openalex.org/W7220856783) | Biochar | 0 |
+| 2025 | [Assessing Pathways to Carbon Neutrality in the Ceramic Sector: A Prospective Life Cycle Assessment under Energy System Projections and Technology Scenarios](https://doi.org/10.1021/acs.est.5c12177) | General CDR | 2 |
+| 2025 | [Negative emissions pose trade-offs among human health, planetary boundaries and mineral resources](https://doi.org/10.21203/rs.3.rs-6403773/v1) | General CDR | 0 |
+| 2025 | [Negative emissions will challenge global resource supply and environmental limits](https://doi.org/10.21203/rs.3.rs-6403773/v2) | General CDR | 0 |
+| 2024 | [Responsible carbon dioxide removals and the EU’s 2040 climate target](https://doi.org/10.1088/1748-9326/ad6d83) | General CDR | 14 |
+| 2023 | [Microalgae Biofuel for a Heavy-Duty Transport Sector within Planetary Boundaries](https://doi.org/10.1021/acssuschemeng.3c00750) | DAC; General CDR | 13 |
+| 2023 | [Sustainable Development Goals assessment of carbon capture on-board](https://doi.org/10.1016/b978-0-443-15274-0.50466-2) | General CDR | 8 |
+| 2022 | [Sustainable scale-up of negative emissions technologies and practices: where to focus](https://doi.org/10.1088/1748-9326/acacb3) | General CDR | 55 |
+| 2022 | [Human and planetary health implications of negative emissions technologies](https://doi.org/10.1038/s41467-022-30136-7) | BECCS; DAC; General CDR | 50 |
+| 2022 | [Implications of Optimal BECCS Supply Chains on Absolute Sustainability](https://doi.org/10.1016/b978-0-323-85159-6.50103-2) | BECCS; General CDR | 1 |
+| 2022 | [Global Distribution of Negative Emissions](https://doi.org/10.1039/9781839165245-00378) | General CDR | 0 |
+| 2021 | [Delaying carbon dioxide removal in the European Union puts climate targets at risk](https://doi.org/10.1038/s41467-021-26680-3) | BECCS; DAC; General CDR | 93 |
+| 2021 | [Life cycle optimization of BECCS supply chains in the European Union](https://doi.org/10.1016/j.apenergy.2021.117252) | BECCS; General CDR | 46 |
+| 2021 | [Europe’s ‘green deal’ and carbon dioxide removal](https://doi.org/10.1038/d41586-020-03643-0) | General CDR | 5 |
+| 2021 | [The consequences of inaction on carbon dioxide removal](https://doi.org/10.21203/rs.3.rs-422173/v1) | BECCS; DAC; General CDR | 3 |
 
 ## External Profiles
 

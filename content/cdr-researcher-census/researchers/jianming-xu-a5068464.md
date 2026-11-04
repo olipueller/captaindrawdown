@@ -1,7 +1,7 @@
 ---
 title: "Jianming Xu"
 description: "Jianming Xu is an Eminent Soil Carbon researcher at Zhejiang University in CN. With 812 publications and an h-index of 106, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/jianming-xu-a5068464/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,28 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | CDR Focus | 2.0% |
 | Trajectory | Growing |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Association of biochar properties with changes in soil bacterial, fungal and fauna communities and nutrient cycling processes** (2021)
-   380 citations · Biochar
+16 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Soil Carbon 13, Biochar 9. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Biochar induces mineralization of soil recalcitrant components by activation of biochar responsive bacteria groups** (2022)
-   164 citations · Biochar
-
-3. **Rice rhizodeposition promotes the build-up of organic carbon in soil via fungal necromass** (2021)
-   128 citations · Soil Carbon
-
-4. **Organic matter chemistry and bacterial community structure regulate decomposition processes in post-fire forest soils** (2021)
-   123 citations
-
-5. **Arbuscular mycorrhizal fungi and goethite promote carbon sequestration via hyphal-aggregate mineral interactions** (2021)
-   121 citations · Soil Carbon
-
-6. **Abiotic and biotic regulation on carbon mineralization and stabilization in paddy soils along iron oxide gradients** (2021)
-   114 citations · Soil Carbon
-
-7. **Biochar accelerates soil organic carbon mineralization via rhizodeposit-activated Actinobacteria** (2022)
-   84 citations · Biochar
-
-8. **Biochar decreased rhizodeposits stabilization via opposite effects on bacteria and fungi: diminished fungi-promoted aggregation and enhanced bacterial mineralization** (2021)
-   42 citations · Biochar
-
-9. **Generalists and specialists decomposing labile and aromatic biochar compounds and sequestering carbon in soil** (2022)
-   36 citations · Biochar
-
-10. **Rhizosphere microbiome modulated effects of biochar on ryegrass 15N uptake and rhizodeposited 13C allocation in soil** (2021)
-   25 citations · Biochar
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Viral mediation of anaerobic methane oxidation to carbon sequestration in paddy soil](https://openalex.org/W7162289004) | Soil Carbon | 1 |
+| 2025 | [Soil Virus Life‐Strategy Conversion and Implications for Ecosystem and Soil Functions](https://doi.org/10.1111/gcb.70460) | Soil Carbon | 12 |
+| 2025 | [Impact of soil viruses on C emissions can be enhanced by viral shuttle processes in soil](https://doi.org/10.1016/j.pedsph.2025.03.008) | Soil Carbon | 3 |
+| 2025 | [Hydroxyapatite-Modified Biochar Application Derived from Recycled Selenium-Rich Straw Enhances Rice Biofortification and Economic Benefits](https://doi.org/10.1021/acs.est.5c06044) | Biochar; Soil Carbon | 3 |
+| 2023 | [Compound-specific stable isotope analysis for characterization of the transformation of γ-HCH induced by biochar](https://doi.org/10.1016/j.chemosphere.2022.137729) | Biochar | 6 |
+| 2023 | [Distinct Mechanisms Govern Sucrose Mineralization and Soil Organic Carbon Priming in Biochar Amended Soils: Evidence from 10-Years Field Studies](http://dx.doi.org/10.2139/ssrn.4455901) | Biochar; Soil Carbon | 0 |
+| 2022 | [Biochar induces mineralization of soil recalcitrant components by activation of biochar responsive bacteria groups](https://doi.org/10.1016/j.soilbio.2022.108778) | Biochar | 164 |
+| 2022 | [Biochar accelerates soil organic carbon mineralization via rhizodeposit-activated Actinobacteria](https://doi.org/10.1007/s00374-022-01643-y) | Biochar; Soil Carbon | 84 |
+| 2022 | [Generalists and specialists decomposing labile and aromatic biochar compounds and sequestering carbon in soil](https://doi.org/10.1016/j.geoderma.2022.116176) | Biochar | 36 |
+| 2021 | [Association of biochar properties with changes in soil bacterial, fungal and fauna communities and nutrient cycling processes](https://doi.org/10.1007/s42773-021-00099-x) | Biochar; Soil Carbon | 380 |
+| 2021 | [Rice rhizodeposition promotes the build-up of organic carbon in soil via fungal necromass](https://doi.org/10.1016/j.soilbio.2021.108345) | Soil Carbon | 128 |
+| 2021 | [Arbuscular mycorrhizal fungi and goethite promote carbon sequestration via hyphal-aggregate mineral interactions](https://doi.org/10.1016/j.soilbio.2021.108417) | Soil Carbon | 121 |
+| 2021 | [Abiotic and biotic regulation on carbon mineralization and stabilization in paddy soils along iron oxide gradients](https://doi.org/10.1016/j.soilbio.2021.108312) | Soil Carbon | 114 |
+| 2021 | [Biochar decreased rhizodeposits stabilization via opposite effects on bacteria and fungi: diminished fungi-promoted aggregation and enhanced bacterial mineralization](https://doi.org/10.1007/s00374-020-01539-9) | Biochar; Soil Carbon | 42 |
+| 2021 | [Rhizosphere microbiome modulated effects of biochar on ryegrass 15N uptake and rhizodeposited 13C allocation in soil](https://doi.org/10.1007/s11104-021-04845-9) | Biochar; Soil Carbon | 25 |
+| 2021 | [Three source-partitioning of CO2 fluxes based on a dual-isotope approach to investigate interactions between soil organic carbon, glucose and straw](https://doi.org/10.1016/j.scitotenv.2021.152163) | Soil Carbon | 18 |
 
 ## External Profiles
 

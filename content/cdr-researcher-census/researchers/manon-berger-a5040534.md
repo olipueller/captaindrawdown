@@ -1,7 +1,7 @@
 ---
 title: "Manon Berger"
 description: "Manon Berger is an Early-career Ocean CDR researcher at University of Bern in CH. With 17 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/manon-berger-a5040534/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,20 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | CDR Focus | 47.1% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Ocean iron fertilization may amplify climate change pressures on marine animal biomass for limited climate benefit** (2023)
-   50 citations · General CDR
+8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 8, General CDR 5. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Ocean dynamics and biological feedbacks limit the potential of macroalgae carbon dioxide removal** (2023)
-   37 citations · Ocean CDR
-
-3. **Contrasting carbon dioxide removal potential and nutrient feedbacks of simulated ocean alkalinity enhancement and macroalgae afforestation** (2023)
-   19 citations · General CDR
-
-4. **Assessing global macroalgal carbon dioxide removal potential using a high-resolution ocean biogeochemistry model** (2022)
-   6 citations · General CDR
-
-5. **Efficacy of seaweed-based carbon dioxide removal reduced by iron limitation and nutrient competition with phytoplankton** (2025)
-   1 citations · Ocean CDR
-
-6. **Contrasting carbon dioxide removal potential and nutrient feedbacks of simulated ocean alkalinity enhancement and macroalgae afforestation** (2023)
-   1 citations
-
-7. **Modified NEMO-PISCES routines from 'Efficacy of seaweed-based carbon dioxide removal reduced by iron limitation and nutrient competition with phytoplankton'** (2025)
-   0 citations · General CDR
-
-8. **Model ouptut from 'Efficacy of seaweed-based carbon dioxide removal reduced by iron limitation and nutrient competition with phytoplankton'** (2025)
-   0 citations · General CDR
-
-9. **Model ouptut from 'Efficacy of seaweed-based carbon dioxide removal reduced by iron limitation and nutrient competition with phytoplankton'** (2025)
-   0 citations · General CDR
-
-10. **Modified NEMO-PISCES routines from 'Efficacy of seaweed-based carbon dioxide removal reduced by iron limitation and nutrient competition with phytoplankton'** (2025)
-   0 citations · General CDR
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2025 | [Efficacy of seaweed-based carbon dioxide removal reduced by iron limitation and nutrient competition with phytoplankton](https://doi.org/10.70212/cdrxiv.2025385.v1) | Ocean CDR | 1 |
+| 2025 | [Iron limitation may thwart the carbon dioxide removal potential of macroalgae cultivation](https://doi.org/10.5194/oos2025-1356) | Ocean CDR | 0 |
+| 2025 | [Model ouptut from 'Efficacy of seaweed-based carbon dioxide removal reduced by iron limitation and nutrient competition with phytoplankton'](https://openalex.org/W7161576739) | General CDR; Ocean CDR | 0 |
+| 2025 | [Model ouptut from 'Efficacy of seaweed-based carbon dioxide removal reduced by iron limitation and nutrient competition with phytoplankton'](https://openalex.org/W7161599290) | General CDR; Ocean CDR | 0 |
+| 2023 | [Ocean iron fertilization may amplify climate change pressures on marine animal biomass for limited climate benefit](https://doi.org/10.1111/gcb.16854) | General CDR; Ocean CDR | 50 |
+| 2023 | [Ocean dynamics and biological feedbacks limit the potential of macroalgae carbon dioxide removal](https://doi.org/10.1088/1748-9326/acb06e) | Ocean CDR | 37 |
+| 2023 | [Contrasting carbon dioxide removal potential and nutrient feedbacks of simulated ocean alkalinity enhancement and macroalgae afforestation](https://doi.org/10.1088/1748-9326/ad08f9) | General CDR; Ocean CDR | 19 |
+| 2022 | [Assessing global macroalgal carbon dioxide removal potential using a high-resolution ocean biogeochemistry model](https://doi.org/10.5194/egusphere-egu22-4699) | General CDR; Ocean CDR | 6 |
 
 ## External Profiles
 

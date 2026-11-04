@@ -1,7 +1,7 @@
 ---
 title: "Jussi Heinonsalo"
 description: "Jussi Heinonsalo is an Eminent Soil Carbon researcher at University of Helsinki in FI. With 237 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/jussi-heinonsalo-a5053391/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | CDR Focus | 5.1% |
 | Trajectory | Growing |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Towards agricultural soil carbon monitoring, reporting, and verification through the Field Observatory Network (FiON)** (2022)
-   42 citations · General CDR
+13 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Soil Carbon 12, Biochar 3, General CDR 3. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **The impact of biochar on wood-inhabiting bacterial community and its function in a boreal pine forest** (2022)
-   19 citations · Biochar
-
-3. **High organic carbon content constricts the potential for stable organic carbon accrual in mineral agricultural soils in Finland** (2024)
-   18 citations · Soil Carbon
-
-4. **Fungal communities in boreal soils are influenced by land use, agricultural soil management, and depth** (2025)
-   13 citations · Soil Carbon
-
-5. **Effects of biochar and ligneous soil amendments on greenhouse gas exchange during extremely dry growing season in a Finnish cropland** (2022)
-   7 citations · Biochar
-
-6. **Implementation and initial calibration of carbon-13 soil organic matter decomposition in the Yasso model** (2022)
-   6 citations · Soil Carbon
-
-7. **Effects of biochar, ligneous soil amendments, and a microbial stimulant on soil biological activity, and carbon content and stability after two-years of their application in a boreal cropland** (2025)
-   2 citations · Biochar
-
-8. **Towards agricultural soil carbon monitoring, reporting and verification through Field Observatory Network (FiON)** (2021)
-   2 citations · General CDR
-
-9. **Stocks and stoichiometry of carbon, nitrogen, and phosphorus in agricultural mineral soil profiles with views on the carbon sequestration** (2026)
-   1 citations · Soil Carbon
-
-10. **Implementation and initial calibration of carbon-13 soil organic matter decomposition in Yasso model** (2021)
-   1 citations · Soil Carbon
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Stocks and stoichiometry of carbon, nitrogen, and phosphorus in agricultural mineral soil profiles with views on the carbon sequestration](https://doi.org/10.1016/j.geodrs.2026.e01058) | Soil Carbon | 1 |
+| 2025 | [Fungal communities in boreal soils are influenced by land use, agricultural soil management, and depth](https://doi.org/10.1093/femsec/fiaf002) | Soil Carbon | 13 |
+| 2025 | [Effects of biochar, ligneous soil amendments, and a microbial stimulant on soil biological activity, and carbon content and stability after two-years of their application in a boreal cropland](https://openalex.org/W4411632410) | Biochar | 2 |
+| 2024 | [High organic carbon content constricts the potential for stable organic carbon accrual in mineral agricultural soils in Finland](https://doi.org/10.1016/j.jenvman.2023.119945) | Soil Carbon | 18 |
+| 2022 | [Towards agricultural soil carbon monitoring, reporting, and verification through the Field Observatory Network (FiON)](https://doi.org/10.5194/gi-11-93-2022) | General CDR; Soil Carbon | 42 |
+| 2022 | [The impact of biochar on wood-inhabiting bacterial community and its function in a boreal pine forest](https://doi.org/10.1186/s40793-022-00439-9) | Biochar; Soil Carbon | 19 |
+| 2022 | [Effects of biochar and ligneous soil amendments on greenhouse gas exchange during extremely dry growing season in a Finnish cropland](https://doi.org/10.3389/fsufs.2022.951518) | Biochar; Soil Carbon | 7 |
+| 2022 | [Implementation and initial calibration of carbon-13 soil organic matter decomposition in the Yasso model](https://openalex.org/W4295066615) | Soil Carbon | 6 |
+| 2021 | [Towards agricultural soil carbon monitoring, reporting and verification through Field Observatory Network (FiON)](https://doi.org/10.5194/gi-2021-21) | General CDR; Soil Carbon | 2 |
+| 2021 | [Soil contents and stoichiometry of carbon, nitrogen, and phosphorus in Finnish farmland and feedbacks on management patterns](https://doi.org/10.5194/egusphere-egu21-12350) | Soil Carbon | 1 |
+| 2021 | [Implementation and initial calibration of carbon-13 soil organic matter decomposition in Yasso model](https://doi.org/10.5194/bg-2021-327) | Soil Carbon | 1 |
+| 2021 | [Organic soil amendments as a tool to increase biological activity and C sequestration in clay soil](https://doi.org/10.5194/egusphere-egu21-11965) | Soil Carbon | 0 |
+| 2021 | [Climate-smart agriculture: microbiological impacts of plant diversity to soil carbon (C) sequestration.](https://doi.org/10.5194/egusphere-egu21-13588) | General CDR; Soil Carbon | 0 |
 
 ## External Profiles
 

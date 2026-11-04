@@ -1,7 +1,7 @@
 ---
 title: "Yuqing Sun"
 description: "Yuqing Sun is an Eminent Biochar researcher at Sun Yat-Sen University in CN. With 265 publications and an h-index of 64, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/yuqing-sun-a5014667/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,22 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | CDR Focus | 3.0% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Insights into the adsorption of pharmaceuticals and personal care products (PPCPs) on biochar and activated carbon with the aid of machine learning** (2021)
-   214 citations · Biochar
+10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 10, General CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Unraveling iron speciation on Fe-biochar with distinct arsenic removal mechanisms and depth distributions of As and Fe** (2021)
-   113 citations · Biochar
-
-3. **Interactions between biochar and clay minerals in changing biochar carbon stability** (2021)
-   112 citations · Biochar
-
-4. **Tailoring wood waste biochar as a reusable microwave absorbent for pollutant removal: Structure-property-performance relationship and iron-carbon interaction** (2022)
-   59 citations · Biochar
-
-5. **Efficient microwave-assisted mineralization of oxytetracycline driven by persulfate and hypochlorite over Cu-biochar catalyst** (2023)
-   47 citations · Biochar
-
-6. **Stoichiometric carbocatalysis via epoxide-like C−S−O configuration on sulfur-doped biochar for environmental remediation** (2022)
-   46 citations · Biochar
-
-7. **Carbon-mineral composite design for microwave-assisted degradation of organic contaminants** (2025)
-   4 citations · Biochar
-
-8. **Tailored design of waste-derived hydrochar for sustainable soil remediation: A review** (2026)
-   2 citations
-
-9. **Tailored Biochar Production from Waste Biomass Resource in Rural Areas** (2025)
-   2 citations · Biochar
-
-10. **Waste‐derived Biochar for Sustainable Rural Revitalization** (2025)
-   0 citations · Biochar
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2025 | [Carbon-mineral composite design for microwave-assisted degradation of organic contaminants](https://doi.org/10.1016/j.jenvman.2025.125931) | Biochar | 4 |
+| 2025 | [Tailored Biochar Production from Waste Biomass Resource in Rural Areas](https://openalex.org/W7116831596) | Biochar | 2 |
+| 2025 | [Waste‐derived Biochar for Sustainable Rural Revitalization](https://doi.org/10.1002/9781394250301.fmatter) | Biochar; General CDR | 0 |
+| 2023 | [Efficient microwave-assisted mineralization of oxytetracycline driven by persulfate and hypochlorite over Cu-biochar catalyst](https://doi.org/10.1016/j.biortech.2023.128698) | Biochar | 47 |
+| 2023 | [Stormwater Biofiltration Media](http://dx.doi.org/10.1002/9781119764403.ch5) | Biochar | 0 |
+| 2022 | [Tailoring wood waste biochar as a reusable microwave absorbent for pollutant removal: Structure-property-performance relationship and iron-carbon interaction](https://doi.org/10.1016/j.biortech.2022.127838) | Biochar | 59 |
+| 2022 | [Stoichiometric carbocatalysis via epoxide-like C−S−O configuration on sulfur-doped biochar for environmental remediation](https://doi.org/10.1016/j.jhazmat.2022.128223) | Biochar | 46 |
+| 2021 | [Insights into the adsorption of pharmaceuticals and personal care products (PPCPs) on biochar and activated carbon with the aid of machine learning](https://doi.org/10.1016/j.jhazmat.2021.127060) | Biochar | 214 |
+| 2021 | [Unraveling iron speciation on Fe-biochar with distinct arsenic removal mechanisms and depth distributions of As and Fe](https://openalex.org/W3195614275) | Biochar | 113 |
+| 2021 | [Interactions between biochar and clay minerals in changing biochar carbon stability](https://doi.org/10.1016/j.scitotenv.2021.151124) | Biochar | 112 |
 
 ## External Profiles
 

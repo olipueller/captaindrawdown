@@ -1,7 +1,7 @@
 ---
 title: "Radu Custelcean"
 description: "Radu Custelcean is an Eminent General CDR researcher at Oak Ridge National Laboratory in US. With 435 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/radu-custelcean-a5064099/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,20 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | CDR Focus | 1.8% |
 | Trajectory | Declining |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Direct Air Capture of CO<sub>2</sub>Using Solvents** (2022)
-   109 citations · DAC
+8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 8, DAC 7. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Direct air capture of CO<sub>2</sub><i>via</i>crystal engineering** (2021)
-   80 citations · DAC
-
-3. **Direct air capture of CO2 with aqueous peptides and crystalline guanidines** (2021)
-   46 citations
-
-4. **Photochemically‐Driven CO<sub>2</sub> Release Using a Metastable‐State Photoacid for Energy Efficient Direct Air Capture** (2023)
-   44 citations
-
-5. **Ultra-fast microwave regeneration of CO2 solid sorbents for energy-efficient direct air capture** (2022)
-   42 citations
-
-6. **Carbon dioxide capture with aqueous amino acids: Mechanistic study of amino acid regeneration by guanidine crystallization and process intensification** (2021)
-   41 citations
-
-7. **An effective air–liquid contactor for CO2 direct air capture using aqueous solvents** (2023)
-   39 citations
-
-8. **The status and prospects of materials for carbon capture technologies** (2022)
-   31 citations · DAC
-
-9. **Determination of the regeneration energy of direct air capture solvents/sorbents using calorimetric methods** (2023)
-   28 citations
-
-10. **Synergistic direct air capture of CO2 with aqueous guanidine/amino acid solvents** (2022)
-   24 citations
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2025 | [Quantum Crystallography combined with Neutron Study: Molecular Insights of Crystal Engineering for Carbon Capture Materials](https://doi.org/10.1063/4.0000367) | DAC; General CDR | 0 |
+| 2024 | [Direct Air Capture of CO2 via Reactive Crystallization](http://dx.doi.org/10.26434/chemrxiv-2024-d0q28-v2) | DAC; General CDR | 1 |
+| 2024 | [<i>In Silico</i> Screening of CO<sub>2</sub>‐Dipeptide Interactions for Bioinspired Carbon Capture](https://doi.org/10.1002/cphc.202400498) | DAC; General CDR | 1 |
+| 2024 | [Integrated Process for Direct Air Capture of CO&lt;sub&gt;2&lt;/sub&gt; and Electrochemical Conversion to Ethanol](https://doi.org/10.2172/2333761) | DAC; General CDR | 0 |
+| 2024 | [Effective Direct Steam Regeneration of Solid Sorbent Used for Carbon Capture](http://dx.doi.org/10.2139/ssrn.4820508) | General CDR | 0 |
+| 2022 | [Direct Air Capture of CO<sub>2</sub>Using Solvents](https://doi.org/10.1146/annurev-chembioeng-092120-023936) | DAC; General CDR | 109 |
+| 2022 | [The status and prospects of materials for carbon capture technologies](https://doi.org/10.1557/s43577-022-00364-9) | DAC; General CDR | 31 |
+| 2021 | [Direct air capture of CO<sub>2</sub><i>via</i>crystal engineering](https://doi.org/10.1039/d1sc04097a) | DAC; General CDR | 80 |
 
 ## External Profiles
 

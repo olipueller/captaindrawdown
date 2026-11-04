@@ -1,7 +1,7 @@
 ---
 title: "Mihrimah Ozkan"
 description: "Mihrimah Ozkan is an Eminent General CDR researcher at University of California, Riverside in US. With 193 publications and an h-index of 45, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/mihrimah-ozkan-a5039562/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | CDR Focus | 3.6% |
 | Trajectory | Exiting |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Current status and pillars of direct air capture technologies** (2022)
-   351 citations · DAC
+7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 7, DAC 6, Ocean CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Progress in carbon dioxide capture materials for deep decarbonization** (2022)
-   123 citations · General CDR
-
-3. **Atmospheric alchemy: The energy and cost dynamics of direct air carbon capture** (2024)
-   75 citations · DAC
-
-4. **Forging a sustainable sky: Unveiling the pillars of aviation e-fuel production for carbon emission circularity** (2024)
-   73 citations · DAC
-
-5. **Direct air capture of CO2: A response to meet the global climate targets** (2021)
-   72 citations · DAC
-
-6. **The status and prospects of materials for carbon capture technologies** (2022)
-   31 citations · DAC
-
-7. **The promise of scalable direct air capture** (2021)
-   25 citations
-
-8. **Electrochemical direct air capture and direct ocean capture: The next frontier in carbon removal** (2024)
-   13 citations · DAC
-
-9. **Advancements in cost-effective direct air capture technology** (2024)
-   10 citations
-
-10. **The status quo of DAC projects worldwide** (2023)
-   10 citations · DAC
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2024 | [Atmospheric alchemy: The energy and cost dynamics of direct air carbon capture](https://doi.org/10.1557/s43581-024-00091-5) | DAC; General CDR | 75 |
+| 2024 | [Forging a sustainable sky: Unveiling the pillars of aviation e-fuel production for carbon emission circularity](https://doi.org/10.1016/j.isci.2024.109154) | DAC; General CDR | 73 |
+| 2024 | [Electrochemical direct air capture and direct ocean capture: The next frontier in carbon removal](https://doi.org/10.1016/j.chempr.2023.12.015) | DAC; General CDR; Ocean CDR | 13 |
+| 2023 | [The status quo of DAC projects worldwide](https://doi.org/10.1016/j.chempr.2023.11.004) | DAC; General CDR | 10 |
+| 2022 | [Current status and pillars of direct air capture technologies](https://doi.org/10.1016/j.isci.2022.103990) | DAC; General CDR | 351 |
+| 2022 | [Progress in carbon dioxide capture materials for deep decarbonization](https://doi.org/10.1016/j.chempr.2021.12.013) | General CDR | 123 |
+| 2022 | [The status and prospects of materials for carbon capture technologies](https://doi.org/10.1557/s43577-022-00364-9) | DAC; General CDR | 31 |
 
 ## External Profiles
 

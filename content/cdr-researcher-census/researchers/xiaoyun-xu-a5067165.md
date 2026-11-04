@@ -1,7 +1,7 @@
 ---
 title: "Xiaoyun Xu"
 description: "Xiaoyun Xu is an Eminent Biochar researcher at Shanghai Jiao Tong University in CN. With 163 publications and an h-index of 57, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/xiaoyun-xu-a5067165/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,24 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | CDR Focus | 7.4% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Impacts of different activation processes on the carbon stability of biochar for oxidation resistance** (2021)
-   169 citations · Biochar
+12 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 10, Soil Carbon 5, General CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Evaluation of long-term carbon sequestration of biochar in soil with biogeochemical field model** (2022)
-   101 citations · Biochar
-
-3. **Stabilization of dissolvable biochar by soil minerals: Release reduction and organo-mineral complexes formation** (2021)
-   84 citations · Biochar
-
-4. **Development of phosphorus composite biochar for simultaneous enhanced carbon sink and heavy metal immobilization in soil** (2022)
-   69 citations · Biochar
-
-5. **Minerals: A missing role for enhanced biochar carbon sequestration from the thermal conversion of biomass to the application in soil** (2022)
-   56 citations · Biochar
-
-6. **Trends in valorization of citrus by-products from the net-zero perspective: Green processing innovation combined with applications in emission reduction** (2023)
-   50 citations · General CDR
-
-7. **Biochar-amended soil can further sorb atmospheric CO2 for more carbon sequestration** (2025)
-   42 citations · Biochar
-
-8. **Synergistic role of bulk carbon and iron minerals inherent in the sludge-derived biochar for As(V) immobilization** (2021)
-   31 citations · Biochar
-
-9. **Converting coastal silt into subgrade soil with biochar as reinforcing agent, CO2 adsorbent, and carbon sequestrating material** (2023)
-   20 citations · Biochar
-
-10. **Beyond universal application: dissecting the differential amelioration and carbon sequestration performance of biochar in chloride-, sulfate-, and soda saline-alkali soils** (2026)
-   3 citations · Biochar
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Beyond universal application: dissecting the differential amelioration and carbon sequestration performance of biochar in chloride-, sulfate-, and soda saline-alkali soils](https://openalex.org/W7151217330) | Biochar | 3 |
+| 2026 | [Predictive Understanding of the Transformation of Ferrihydrite with Machine Learning: Key Factors, Mechanisms, and Implications for the Immobilization of Pollutants and Soil Organic Carbon](https://doi.org/10.1021/acsearthspacechem.5c00277) | Soil Carbon | 1 |
+| 2025 | [Biochar-amended soil can further sorb atmospheric CO2 for more carbon sequestration](https://doi.org/10.1038/s43247-024-01985-5) | Biochar; Soil Carbon | 42 |
+| 2023 | [Trends in valorization of citrus by-products from the net-zero perspective: Green processing innovation combined with applications in emission reduction](https://doi.org/10.1016/j.tifs.2023.05.012) | General CDR | 50 |
+| 2023 | [Converting coastal silt into subgrade soil with biochar as reinforcing agent, CO2 adsorbent, and carbon sequestrating material](https://doi.org/10.1016/j.jenvman.2023.118394) | Biochar; Soil Carbon | 20 |
+| 2023 | [Converting Coastal Silt into Subgrade Soil with Biochar as Reinforcing Agent, Co2 Adsorbent, and Carbon Sequestrating Material](http://dx.doi.org/10.2139/ssrn.4402076) | Biochar | 0 |
+| 2022 | [Evaluation of long-term carbon sequestration of biochar in soil with biogeochemical field model](https://doi.org/10.1016/j.scitotenv.2022.153576) | Biochar; Soil Carbon | 101 |
+| 2022 | [Development of phosphorus composite biochar for simultaneous enhanced carbon sink and heavy metal immobilization in soil](https://doi.org/10.1016/j.scitotenv.2022.154845) | Biochar; Soil Carbon | 69 |
+| 2022 | [Minerals: A missing role for enhanced biochar carbon sequestration from the thermal conversion of biomass to the application in soil](https://doi.org/10.1016/j.earscirev.2022.104215) | Biochar | 56 |
+| 2021 | [Impacts of different activation processes on the carbon stability of biochar for oxidation resistance](https://doi.org/10.1016/j.biortech.2021.125555) | Biochar | 169 |
+| 2021 | [Stabilization of dissolvable biochar by soil minerals: Release reduction and organo-mineral complexes formation](https://doi.org/10.1016/j.jhazmat.2021.125213) | Biochar | 84 |
+| 2021 | [Synergistic role of bulk carbon and iron minerals inherent in the sludge-derived biochar for As(V) immobilization](https://doi.org/10.1016/j.cej.2021.129183) | Biochar | 31 |
 
 ## External Profiles
 

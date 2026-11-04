@@ -1,7 +1,7 @@
 ---
 title: "Georg Guggenberger"
 description: "Georg Guggenberger is an Eminent Soil Carbon researcher at Leibniz University Hannover in DE. With 568 publications and an h-index of 93, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/georg-guggenberger-a5072191/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,26 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | CDR Focus | 2.5% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Contrasting pathways of carbon sequestration in paddy and upland soils** (2021)
-   438 citations · Soil Carbon
+14 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Soil Carbon 14, General CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Arbuscular mycorrhizal fungi and goethite promote carbon sequestration via hyphal-aggregate mineral interactions** (2021)
-   121 citations · Soil Carbon
-
-3. **Abiotic and biotic regulation on carbon mineralization and stabilization in paddy soils along iron oxide gradients** (2021)
-   114 citations · Soil Carbon
-
-4. **Meta-analysis on the effects of types and levels of N, P, and K fertilization on organic carbon in cropland soils** (2023)
-   67 citations · Soil Carbon
-
-5. **Response of topsoil Fe-bound organic carbon pool and microbial community to Spartina alterniflora invasion in coastal wetlands** (2023)
-   27 citations · Soil Carbon
-
-6. **Dynamics of soil organic carbon in the steppes of Russia and Kazakhstan under past and future climate and land use** (2021)
-   24 citations · Soil Carbon
-
-7. **Residence time of carbon in paddy soils** (2023)
-   19 citations · Soil Carbon
-
-8. **Nitrophobic ectomycorrhizal fungi are associated with enhanced hydrophobicity of soil organic matter in a Norway spruce forest** (2022)
-   19 citations · Soil Carbon
-
-9. **Shifts in organic carbon protection mechanism in agricultural soils across climatic gradients** (2024)
-   9 citations · Soil Carbon
-
-10. **Divergent accumulation of microbial and plant necromass along paddy soil development in a millennium scale** (2023)
-   8 citations · Soil Carbon
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [The Role of Fe(II) Minerals in Carbon Stabilization in Coastal and Estuarine Anoxic Environments](https://doi.org/10.1029/2025gb008709) | Soil Carbon | 4 |
+| 2026 | [Is initial soil organic carbon more important than texture for the fate of carbon inputs into temperate agricultural soils?](https://doi.org/10.5194/egusphere-egu26-5718) | Soil Carbon | 0 |
+| 2025 | [Increased Retention of Litter‐Derived Organic Carbon With Increasing Initial Carbon Content in Temperate Agricultural Soils](https://doi.org/10.1111/gcb.70646) | Soil Carbon | 5 |
+| 2024 | [Shifts in organic carbon protection mechanism in agricultural soils across climatic gradients](https://doi.org/10.1016/j.agee.2024.109184) | Soil Carbon | 9 |
+| 2023 | [Meta-analysis on the effects of types and levels of N, P, and K fertilization on organic carbon in cropland soils](https://doi.org/10.1016/j.geoderma.2023.116580) | Soil Carbon | 67 |
+| 2023 | [Response of topsoil Fe-bound organic carbon pool and microbial community to Spartina alterniflora invasion in coastal wetlands](https://doi.org/10.1016/j.catena.2023.107414) | Soil Carbon | 27 |
+| 2023 | [Residence time of carbon in paddy soils](https://doi.org/10.1016/j.jclepro.2023.136707) | Soil Carbon | 19 |
+| 2023 | [Divergent accumulation of microbial and plant necromass along paddy soil development in a millennium scale](https://doi.org/10.1016/j.still.2023.105769) | Soil Carbon | 8 |
+| 2022 | [Nitrophobic ectomycorrhizal fungi are associated with enhanced hydrophobicity of soil organic matter in a Norway spruce forest](https://doi.org/10.5194/bg-19-3713-2022) | Soil Carbon | 19 |
+| 2022 | [Forests and forestry: intercropping effects on soil properties and leaves compounds in a circular economy perspective](https://doi.org/10.5194/egusphere-egu22-7682) | General CDR; Soil Carbon | 0 |
+| 2021 | [Contrasting pathways of carbon sequestration in paddy and upland soils](https://doi.org/10.1111/gcb.15595) | Soil Carbon | 438 |
+| 2021 | [Arbuscular mycorrhizal fungi and goethite promote carbon sequestration via hyphal-aggregate mineral interactions](https://doi.org/10.1016/j.soilbio.2021.108417) | Soil Carbon | 121 |
+| 2021 | [Abiotic and biotic regulation on carbon mineralization and stabilization in paddy soils along iron oxide gradients](https://doi.org/10.1016/j.soilbio.2021.108312) | Soil Carbon | 114 |
+| 2021 | [Dynamics of soil organic carbon in the steppes of Russia and Kazakhstan under past and future climate and land use](https://doi.org/10.1007/s10113-021-01799-7) | Soil Carbon | 24 |
 
 ## External Profiles
 

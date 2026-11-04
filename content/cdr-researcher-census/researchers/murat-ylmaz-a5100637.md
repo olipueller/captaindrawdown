@@ -1,7 +1,7 @@
 ---
 title: "Murat Yılmaz"
 description: "Murat Yılmaz is an Eminent Biochar researcher at Osmaniye Korkut Ata University in TR. With 140 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/murat-ylmaz-a5100637/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,34 +48,21 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | CDR Focus | 6.4% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **African almond (Terminalia catappa L) leaves biochar prepared through pyrolysis using H3PO4 as chemical activator for sequestration of methylene blue dye** (2022)
-   124 citations · Biochar
+9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 9. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Synthesis of high surface area mesoporous ZnCl2–activated cocoa (Theobroma cacao L) leaves biochar derived via pyrolysis for crystal violet dye removal** (2022)
-   96 citations · Biochar
-
-3. **Valorization of microwave-assisted H3PO4-activated plantain (Musa paradisiacal L) leaf biochar for malachite green sequestration: models and mechanism of adsorption** (2023)
-   59 citations · Biochar
-
-4. **KMnO4-activated spinach waste biochar: An efficient adsorbent for adsorption of heavy metal ions in aqueous solution** (2024)
-   50 citations · Biochar
-
-5. **Isotherm and kinetic studies of acid yellow 11 dye adsorption from wastewater using Pisum Sativum peels microporous activated carbon** (2023)
-   47 citations · Biochar
-
-6. **Ipoma batatas (sweet potato) leaf and leaf-based biochar as potential adsorbents for procion orange MX-2R removal from aqueous solution** (2024)
-   22 citations · Biochar
-
-7. **Cost analysis and adsorption efficiency of chemically activated biochar from rubber wood sawdust for ciprofloxacin removal in environmental remediation** (2026)
-   5 citations · Biochar
-
-8. **Modeling studies of the adsorption of Methyl Red and Acid Yellow 36 dyes by sulphonated Ulva lactuca carbon** (2025)
-   4 citations · Biochar
-
-9. **Synthesis of High Surface Area Mesoporous ZnCl2–Activated Cocoa (Theobroma Cacao L) Leaves Biochar Derived Via Pyrolysis for Crystal Violet Dye Removal** (2022)
-   4 citations · Biochar
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Cost analysis and adsorption efficiency of chemically activated biochar from rubber wood sawdust for ciprofloxacin removal in environmental remediation](https://doi.org/10.1007/s13399-025-07048-9) | Biochar | 5 |
+| 2025 | [Modeling studies of the adsorption of Methyl Red and Acid Yellow 36 dyes by sulphonated Ulva lactuca carbon](https://doi.org/10.1038/s41598-025-29983-3) | Biochar | 4 |
+| 2024 | [KMnO4-activated spinach waste biochar: An efficient adsorbent for adsorption of heavy metal ions in aqueous solution](https://doi.org/10.1016/j.colsurfa.2024.133174) | Biochar | 50 |
+| 2024 | [Ipoma batatas (sweet potato) leaf and leaf-based biochar as potential adsorbents for procion orange MX-2R removal from aqueous solution](https://doi.org/10.1016/j.jaap.2024.106876) | Biochar | 22 |
+| 2023 | [Valorization of microwave-assisted H3PO4-activated plantain (Musa paradisiacal L) leaf biochar for malachite green sequestration: models and mechanism of adsorption](https://doi.org/10.1016/j.rineng.2023.101129) | Biochar | 59 |
+| 2023 | [Isotherm and kinetic studies of acid yellow 11 dye adsorption from wastewater using Pisum Sativum peels microporous activated carbon](https://doi.org/10.1038/s41598-023-31433-x) | Biochar | 47 |
+| 2022 | [African almond (Terminalia catappa L) leaves biochar prepared through pyrolysis using H3PO4 as chemical activator for sequestration of methylene blue dye](https://doi.org/10.1016/j.rineng.2022.100385) | Biochar | 124 |
+| 2022 | [Synthesis of high surface area mesoporous ZnCl2–activated cocoa (Theobroma cacao L) leaves biochar derived via pyrolysis for crystal violet dye removal](https://doi.org/10.1016/j.heliyon.2022.e10873) | Biochar | 96 |
+| 2022 | [Synthesis of High Surface Area Mesoporous ZnCl2–Activated Cocoa (Theobroma Cacao L) Leaves Biochar Derived Via Pyrolysis for Crystal Violet Dye Removal](https://doi.org/10.2139/ssrn.4134237) | Biochar | 4 |
 
 ## External Profiles
 

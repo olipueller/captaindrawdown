@@ -1,7 +1,7 @@
 ---
 title: "Yusuf Biçer"
 description: "Yusuf Biçer is an Eminent DAC researcher at Hamad bin Khalifa University in QA. With 306 publications and an h-index of 51, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/yusuf-bicer-a5022863/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,31 +48,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | CDR Focus | 1.6% |
 | Trajectory | Growing |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Emerging trends in direct air capture of CO<sub>2</sub>: a review of technology options targeting net-zero emissions** (2023)
-   112 citations · DAC
+7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 7, General CDR 6. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Life cycle cost analysis of direct air capture integrated with HVAC systems: Utilization routes in formic acid production and agricultural greenhouses** (2025)
-   17 citations · DAC
-
-3. **Life Cycle Assessment of an Integrated Direct Air Carbon Capture and Utilization System** (2025)
-   4 citations · DAC
-
-4. **Advanced direct air capture of CO2 using air conditioning systems: a life cycle assessment** (2025)
-   3 citations · DAC
-
-5. **Integrating Direct Air Capture and HVAC Systems: An Economic Perspective on Cost Savings** (2025)
-   2 citations · DAC
-
-6. **Technoeconomic Analysis of a Novel Amine-Free Direct Air Capture System Integrated with HVAC** (2025)
-   1 citations
-
-7. **Direct air capture integration in ammonia plant: A novel process design for advancing decarbonization and green urea productivity** (2026)
-   0 citations · DAC
-
-8. **Integrated DAC-HVAC systems for CO <sub>2</sub> capture and sustainable hydrogen production from condensed water** (2026)
-   0 citations · DAC
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Integrated DAC-HVAC systems for CO <sub>2</sub> capture and sustainable hydrogen production from condensed water](https://doi.org/10.1088/1755-1315/1587/1/012019) | DAC; General CDR | 0 |
+| 2026 | [Direct air capture integration in ammonia plant: A novel process design for advancing decarbonization and green urea productivity](https://openalex.org/W7221158180) | DAC | 0 |
+| 2025 | [Life cycle cost analysis of direct air capture integrated with HVAC systems: Utilization routes in formic acid production and agricultural greenhouses](https://doi.org/10.1016/j.jece.2025.116201) | DAC; General CDR | 17 |
+| 2025 | [Life Cycle Assessment of an Integrated Direct Air Carbon Capture and Utilization System](https://doi.org/10.1002/ese3.70122) | DAC; General CDR | 4 |
+| 2025 | [Advanced direct air capture of CO2 using air conditioning systems: a life cycle assessment](https://doi.org/10.1016/j.tsep.2025.104223) | DAC; General CDR | 3 |
+| 2025 | [Integrating Direct Air Capture and HVAC Systems: An Economic Perspective on Cost Savings](https://doi.org/10.69997/sct.150794) | DAC; General CDR | 2 |
+| 2023 | [Emerging trends in direct air capture of CO<sub>2</sub>: a review of technology options targeting net-zero emissions](https://doi.org/10.1039/d2ra07940b) | DAC; General CDR | 112 |
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Clair Gough"
 description: "Clair Gough is a Senior General CDR researcher at University of Manchester in GB. With 89 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/clair-gough-a5052404/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,25 +48,18 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | CDR Focus | 6.7% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **The greenhouse gas removal potential of bioenergy with carbon capture and storage (BECCS) to support the UK's net-zero emission target** (2021)
-   110 citations · BECCS
+6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 6, BECCS 5. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Bringing greenhouse gas removal down to earth: Stakeholder supply chain appraisals reveal complex challenges** (2021)
-   27 citations · BECCS
-
-3. **Carbon optimal bioenergy with carbon capture and storage supply chain modelling: How far is too far?** (2021)
-   23 citations · BECCS
-
-4. **Putting Bioenergy With Carbon Capture and Storage in a Spatial Context: What Should Go Where?** (2022)
-   18 citations · BECCS
-
-5. **Co-deployment of bioenergy with carbon capture and storage in the UK: Growth or gridlock?** (2024)
-   15 citations · BECCS
-
-6. **IDRIC Frontiers Report Carbon Dioxide Removal Technologies** (2025)
-   0 citations · General CDR
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2025 | [IDRIC Frontiers Report Carbon Dioxide Removal Technologies](https://doi.org/10.2139/ssrn.5332744) | General CDR | 0 |
+| 2024 | [Co-deployment of bioenergy with carbon capture and storage in the UK: Growth or gridlock?](https://doi.org/10.1016/j.spc.2024.06.019) | BECCS; General CDR | 15 |
+| 2022 | [Putting Bioenergy With Carbon Capture and Storage in a Spatial Context: What Should Go Where?](https://doi.org/10.3389/fclim.2022.826982) | BECCS; General CDR | 18 |
+| 2021 | [The greenhouse gas removal potential of bioenergy with carbon capture and storage (BECCS) to support the UK's net-zero emission target](https://doi.org/10.1016/j.biombioe.2021.106164) | BECCS; General CDR | 110 |
+| 2021 | [Bringing greenhouse gas removal down to earth: Stakeholder supply chain appraisals reveal complex challenges](https://doi.org/10.1016/j.gloenvcha.2021.102369) | BECCS; General CDR | 27 |
+| 2021 | [Carbon optimal bioenergy with carbon capture and storage supply chain modelling: How far is too far?](https://doi.org/10.1016/j.seta.2021.101406) | BECCS; General CDR | 23 |
 
 ## External Profiles
 

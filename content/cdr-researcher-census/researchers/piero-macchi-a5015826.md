@@ -1,7 +1,7 @@
 ---
 title: "Piero Macchi"
 description: "Piero Macchi is an Eminent Ocean CDR researcher at Politecnico di Milano in IT. With 543 publications and an h-index of 43, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/piero-macchi-a5015826/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,27 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | CDR Focus | 2.4% |
 | Trajectory | Growing |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Chemical Aspect of Ocean Liming for CO<sub>2</sub> Removal: Dissolution Kinetics of Calcium Hydroxide in Seawater** (2024)
-   13 citations
+15 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 15, General CDR 4. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **The response of phytoplankton to pH-equilibrated ocean alkalinization: A mesocosm experiment with harbour waters** (2025)
-   10 citations · Ocean CDR
-
-3. **The effect of ocean alkalinity enhancement on zooplankton standing stock and community composition in the Eastern Mediterranean Sea: a mesocosm study** (2025)
-   5 citations · Ocean CDR
-
-4. **The impact of ocean liming on phytoplankton size-structure and the balance of photosynthesis and respiration in two contrasting environments** (2024)
-   2 citations · General CDR
-
-5. **Ocean liming in eutrophic vs. ultraoligotrophic environments and the response of algal calcifiers** (2024)
-   1 citations · General CDR
-
-6. **Response of the Carbonate System to Ocean Alkalinity Enhancement: A Mesocosm-Scale Experiment** (2026)
-   0 citations · Ocean CDR
-
-7. **Bipolar Membrane Electrodialysis for Ocean Alkalinity Enhancement: Configuration feasibility and CO2 injection pathways** (2026)
-   0 citations · Ocean CDR
-
-8. **Chemical stability of bicarbonate-enriched solution in seawater for ocean-based carbon dioxide storage: A mesocosm study** (2026)
-   0 citations
-
-9. **Effects of pH-equilibrated ocean alkalinization on macro-benthic calcifiers: A mesocosm study from the port of La Spezia (Italy)** (2026)
-   0 citations · General CDR
-
-10. **Regional seawater-chemistry controls on ocean alkalinity enhancement efficiency: Carbonate precipitation risk under pH-equilibrated OAE** (2026)
-   0 citations · Ocean CDR
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Bipolar Membrane Electrodialysis for Ocean Alkalinity Enhancement: Configuration feasibility and CO2 injection pathways](https://openalex.org/W7165119933) | Ocean CDR | 0 |
+| 2026 | [Regional seawater-chemistry controls on ocean alkalinity enhancement efficiency: Carbonate precipitation risk under pH-equilibrated OAE](https://openalex.org/W7172438291) | Ocean CDR | 0 |
+| 2026 | [Effects of pH-equilibrated ocean alkalinization on macro-benthic calcifiers: A mesocosm study from the port of La Spezia (Italy)](https://openalex.org/W7203484947) | General CDR; Ocean CDR | 0 |
+| 2026 | [Bipolar Membrane Electrodialysis for Ocean Alkalinity Enhancement: Configuration feasibility and CO2 injection pathways](https://openalex.org/W7213994232) | Ocean CDR | 0 |
+| 2026 | [Response of the Carbonate System to Ocean Alkalinity Enhancement: A Mesocosm-Scale Experiment](https://openalex.org/W7214425406) | Ocean CDR | 0 |
+| 2025 | [The response of phytoplankton to pH-equilibrated ocean alkalinization: A mesocosm experiment with harbour waters](https://doi.org/10.1016/j.marpolbul.2025.118787) | Ocean CDR | 10 |
+| 2025 | [The effect of ocean alkalinity enhancement on zooplankton standing stock and community composition in the Eastern Mediterranean Sea: a mesocosm study](https://doi.org/10.1016/j.marenvres.2025.107489) | Ocean CDR | 5 |
+| 2025 | [The response of phytoplankton to pH-Equilibrated Ocean Alkalinization: a mesocosm experiment in the Gulf of La Spezia](https://doi.org/10.5194/egusphere-egu25-10595) | General CDR; Ocean CDR | 0 |
+| 2025 | [CO2 Dissolution as Bicarbonate in Seawater: Potential Co-benefits for Net Primary Production](https://doi.org/10.5194/egusphere-egu25-19618) | Ocean CDR | 0 |
+| 2025 | [Genus-specific and microanatomical controls on element incorporation in coralline calcification revealed by Ocean Alkalinity Enhancement experiments](https://doi.org/10.5194/egusphere-egu25-19226) | Ocean CDR | 0 |
+| 2025 | [Genus-specific calcification dynamics in coralline algae: insights into Mg incorporation as response to Ocean Alkalinity Enhancement](https://doi.org/10.22541/essoar.174349824.43745090/v1) | Ocean CDR | 0 |
+| 2024 | [The impact of ocean liming on phytoplankton size-structure and the balance of photosynthesis and respiration in two contrasting environments](https://doi.org/10.5194/egusphere-egu24-13093) | General CDR; Ocean CDR | 2 |
+| 2024 | [Ocean liming in eutrophic vs. ultraoligotrophic environments and the response of algal calcifiers](https://doi.org/10.5194/egusphere-egu24-13685) | General CDR; Ocean CDR | 1 |
+| 2024 | [Experimental studies on the stability of bicarbonate-enriched seawater solutions](https://doi.org/10.5194/egusphere-egu24-15887) | Ocean CDR | 0 |
+| 2024 | [Coccolithophore response to marine alkalinization: The results of ocean alkalinity enhancement exposure.](http://dx.doi.org/10.58998/3206) | Ocean CDR | 0 |
 
 ## External Profiles
 

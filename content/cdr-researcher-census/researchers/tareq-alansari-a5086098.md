@@ -1,7 +1,7 @@
 ---
 title: "Tareq Al‐Ansari"
 description: "Tareq Al‐Ansari is an Eminent General CDR researcher at Hamad bin Khalifa University in QA. With 424 publications and an h-index of 62, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/tareq-alansari-a5086098/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,25 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | CDR Focus | 2.8% |
 | Trajectory | Declining |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **A review of pyrolysis technologies and feedstock: A blending approach for plastic and biomass towards optimum biochar yield** (2022)
-   653 citations · Biochar
+13 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 9, Biochar 6, DAC 6, BECCS 3, Soil Carbon 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **A comprehensive review of biomass based thermochemical conversion technologies integrated with CO2 capture and utilisation within BECCS networks** (2021)
-   283 citations · BECCS
-
-3. **Emerging trends in direct air capture of CO<sub>2</sub>: a review of technology options targeting net-zero emissions** (2023)
-   112 citations · DAC
-
-4. **Developing integrated direct air capture and bioenergy with carbon capture and storage systems: progress towards 2 °C and 1.5 °C climate goals** (2023)
-   66 citations · BECCS
-
-5. **Comparative analysis of amine-functionalized silica for direct air capture (DAC): Material characterization, performance, and thermodynamic efficiency** (2024)
-   57 citations
-
-6. **Role of wastewater in achieving carbon and water neutral agricultural production** (2022)
-   50 citations · Soil Carbon
-
-7. **Optimizing chemisorption based direct air capture unit efficiency in HVAC systems: A study on the impact of DAC location and adsorption conditions as a response to the climate crisis and indoor air quality** (2023)
-   40 citations · DAC
-
-8. **A review of prospects and current scenarios of biomass co-pyrolysis for water treatment** (2022)
-   33 citations · Biochar
-
-9. **Evaluating negative emission technologies in a circular carbon economy: A holistic evaluation of direct air capture, bioenergy carbon capture and storage and biochar** (2024)
-   26 citations · BECCS
-
-10. **Assessing plastic and biomass-based biochar's potential for carbon sequestration: an energy-water-environment approach** (2023)
-   19 citations · Biochar
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Comparative preparation of waste-derived K-modified activated biochars and proof-of-concept application in sewage-sludge hydrothermal liquefaction](https://openalex.org/W7214176737) | Biochar | 0 |
+| 2025 | [Life cycle cost analysis of direct air capture integrated with HVAC systems: Utilization routes in formic acid production and agricultural greenhouses](https://doi.org/10.1016/j.jece.2025.116201) | DAC; General CDR | 17 |
+| 2025 | [Integrating Direct Air Capture and HVAC Systems: An Economic Perspective on Cost Savings](https://doi.org/10.69997/sct.150794) | DAC; General CDR | 2 |
+| 2024 | [Evaluating negative emission technologies in a circular carbon economy: A holistic evaluation of direct air capture, bioenergy carbon capture and storage and biochar](https://doi.org/10.1016/j.jclepro.2024.142800) | BECCS; Biochar; DAC; General CDR | 26 |
+| 2023 | [Emerging trends in direct air capture of CO<sub>2</sub>: a review of technology options targeting net-zero emissions](https://doi.org/10.1039/d2ra07940b) | DAC; General CDR | 112 |
+| 2023 | [Developing integrated direct air capture and bioenergy with carbon capture and storage systems: progress towards 2 °C and 1.5 °C climate goals](https://doi.org/10.1016/j.enconman.2023.117687) | BECCS; DAC; General CDR | 66 |
+| 2023 | [Optimizing chemisorption based direct air capture unit efficiency in HVAC systems: A study on the impact of DAC location and adsorption conditions as a response to the climate crisis and indoor air quality](https://doi.org/10.1016/j.enconman.2023.117280) | DAC; General CDR | 40 |
+| 2023 | [Assessing plastic and biomass-based biochar's potential for carbon sequestration: an energy-water-environment approach](https://doi.org/10.3389/frsus.2023.1200094) | Biochar; Soil Carbon | 19 |
+| 2022 | [A review of pyrolysis technologies and feedstock: A blending approach for plastic and biomass towards optimum biochar yield](https://doi.org/10.1016/j.rser.2022.112715) | Biochar; General CDR | 653 |
+| 2022 | [Role of wastewater in achieving carbon and water neutral agricultural production](https://doi.org/10.1016/j.jclepro.2022.130706) | Soil Carbon | 50 |
+| 2022 | [A review of prospects and current scenarios of biomass co-pyrolysis for water treatment](https://doi.org/10.1007/s13399-022-03011-0) | Biochar | 33 |
+| 2021 | [A comprehensive review of biomass based thermochemical conversion technologies integrated with CO2 capture and utilisation within BECCS networks](https://doi.org/10.1016/j.resconrec.2021.105734) | BECCS; General CDR | 283 |
+| 2021 | [Biochar: a sustainable approach for water stress and plant growth](https://doi.org/10.1504/ijgw.2021.119010) | Biochar; General CDR | 6 |
 
 ## External Profiles
 

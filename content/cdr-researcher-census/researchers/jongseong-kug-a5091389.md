@@ -1,7 +1,7 @@
 ---
 title: "Jong‐Seong Kug"
 description: "Jong‐Seong Kug is an Eminent General CDR researcher at Seoul National University in KR. With 559 publications and an h-index of 64, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/jongseong-kug-a5091389/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,30 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | CDR Focus | 3.2% |
 | Trajectory | Declining |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Global Cooling Hiatus Driven by an AMOC Overshoot in a Carbon Dioxide Removal Scenario** (2021)
-   73 citations · General CDR
+18 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 17, Ocean CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Hysteresis of the El Niño–Southern Oscillation to CO <sub>2</sub> forcing** (2023)
-   41 citations · General CDR
-
-3. **Intensity changes of Indian Ocean dipole mode in a carbon dioxide removal scenario** (2022)
-   41 citations · General CDR
-
-4. **A decline in atmospheric CO2 levels under negative emissions may enhance carbon retention in the terrestrial biosphere** (2022)
-   30 citations · General CDR
-
-5. **Centennial Memory of the Arctic Ocean for Future Arctic Climate Recovery in Response to a Carbon Dioxide Removal** (2022)
-   30 citations · General CDR
-
-6. **Continued permafrost ecosystem carbon loss under net-zero and negative emissions** (2025)
-   18 citations · General CDR
-
-7. **Land aridification persists in vulnerable drylands under climate mitigation scenarios** (2025)
-   9 citations · General CDR
-
-8. **General circulation and global heat transport in a quadrupling CO2 pulse experiment** (2022)
-   8 citations · General CDR
-
-9. **Irreversible Land Water Availability Changes From a Potential ITCZ Shift During Temperature Overshoot** (2025)
-   7 citations · General CDR
-
-10. **Pervasive fire danger continued under a negative emission scenario** (2024)
-   7 citations · General CDR
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Incomplete Recovery in Compound Extreme Events under a CO₂ Removal Scenario](https://openalex.org/W7211919536) | General CDR | 0 |
+| 2025 | [Continued permafrost ecosystem carbon loss under net-zero and negative emissions](https://doi.org/10.1126/sciadv.adn8819) | General CDR | 18 |
+| 2025 | [Land aridification persists in vulnerable drylands under climate mitigation scenarios](https://doi.org/10.1038/s43247-025-02742-y) | General CDR | 9 |
+| 2025 | [Irreversible Land Water Availability Changes From a Potential ITCZ Shift During Temperature Overshoot](https://doi.org/10.1029/2024ef005787) | General CDR | 7 |
+| 2024 | [Pervasive fire danger continued under a negative emission scenario](https://doi.org/10.1038/s41467-024-54339-2) | General CDR | 7 |
+| 2024 | [Fast recovery of North Atlantic sea level in response to atmospheric carbon dioxide removal](https://doi.org/10.1038/s43247-024-01835-4) | General CDR | 1 |
+| 2024 | [Emergence of the ocean CO2 uptake hole under global warming](https://doi.org/10.21203/rs.3.rs-3884587/v1) | Ocean CDR | 0 |
+| 2024 | [Delayed recovery of Atlantic meridional ocean circulation threatens Europe-wide gross primary productivity under positive and negative CO2 emissions](http://dx.doi.org/10.21203/rs.3.rs-3831926/v1) | General CDR | 0 |
+| 2024 | [Fast recovery of North Atlantic sea level in response to atmospheric CO2 removal](https://doi.org/10.5194/egusphere-egu24-21090) | General CDR | 0 |
+| 2023 | [Hysteresis of the El Niño–Southern Oscillation to CO <sub>2</sub> forcing](https://doi.org/10.1126/sciadv.adh8442) | General CDR | 41 |
+| 2023 | [Negative CO2 emissions mitigate extremes of the terrestrial hydrological cycle via a vegetation physiological feedback](http://dx.doi.org/10.21203/rs.3.rs-3176943/v1) | General CDR | 2 |
+| 2023 | [Irreversible changes in surface temperature and precipitation to CO2 forcing](https://doi.org/10.5194/egusphere-egu23-1664) | General CDR | 1 |
+| 2023 | [How will global carbon cycle respond to negative emissions?](https://doi.org/10.22541/essoar.168676907.79589211/v1) | General CDR | 0 |
+| 2022 | [Intensity changes of Indian Ocean dipole mode in a carbon dioxide removal scenario](https://doi.org/10.1038/s41612-022-00246-6) | General CDR | 41 |
+| 2022 | [Centennial Memory of the Arctic Ocean for Future Arctic Climate Recovery in Response to a Carbon Dioxide Removal](https://doi.org/10.1029/2022ef002804) | General CDR | 30 |
+| 2022 | [A decline in atmospheric CO2 levels under negative emissions may enhance carbon retention in the terrestrial biosphere](https://doi.org/10.1038/s43247-022-00621-4) | General CDR | 30 |
+| 2022 | [General circulation and global heat transport in a quadrupling CO2 pulse experiment](https://doi.org/10.1038/s41598-022-15905-0) | General CDR | 8 |
+| 2021 | [Global Cooling Hiatus Driven by an AMOC Overshoot in a Carbon Dioxide Removal Scenario](https://doi.org/10.1029/2021ef002165) | General CDR | 73 |
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Usman"
 description: "Muhammad Usman is an Eminent Biochar researcher at Université Paris Cité in FR. With 196 publications and an h-index of 52, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/muhammad-usman-a5100645/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,19 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | CDR Focus | 3.6% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Biochar-Soil-Plant interactions: A cross talk for sustainable agriculture under changing climate** (2023)
-   150 citations · Biochar
+7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 7, Soil Carbon 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Sludge-derived biochars: A review on the influence of synthesis conditions on pollutants removal efficiency from wastewaters** (2021)
-   132 citations
-
-3. **Feedstock type, pyrolysis temperature and acid modification effects on physiochemical attributes of biochar and soil quality** (2022)
-   77 citations · Biochar
-
-4. **Programmable synthesis of exfoliated biochar nanosheets for selective and highly efficient adsorption of thallium** (2022)
-   53 citations · Biochar
-
-5. **Biochar-enhanced removal of naphthenic acids from oil sands process water: Influence of feedstock and chemical activation** (2025)
-   43 citations
-
-6. **Efficient PFAS removal from contaminated soils through combined washing and adsorption in soil effluents** (2024)
-   28 citations
-
-7. **Physicochemical properties and performance of non-woody derived biochars for the sustainable removal of aquatic pollutants: A systematic review** (2024)
-   25 citations · Biochar
-
-8. **Carbonaceous materials for adsorptive removal of perfluoroalkyl and polyfluoroalkyl substances (PFAS) and regeneration of spent adsorbents** (2024)
-   21 citations
-
-9. **Simultaneous removal of PFAS and cadmium from different water matrices using regenerable carbonaceous adsorbents** (2025)
-   13 citations
-
-10. **Scalable interlinked hierarchical porous biochar-nanosheets for efficient removal of thallium from aquatic environment** (2025)
-   11 citations · Biochar
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2025 | [Scalable interlinked hierarchical porous biochar-nanosheets for efficient removal of thallium from aquatic environment](https://openalex.org/W4408252713) | Biochar | 11 |
+| 2025 | [Effective heavy metals removal from wastewater: Exploring the efficacy of various biochar-based adsorbents](https://openalex.org/W4417067077) | Biochar | 1 |
+| 2024 | [Physicochemical properties and performance of non-woody derived biochars for the sustainable removal of aquatic pollutants: A systematic review](https://doi.org/10.1016/j.chemosphere.2024.142368) | Biochar | 25 |
+| 2023 | [Biochar-Soil-Plant interactions: A cross talk for sustainable agriculture under changing climate](https://doi.org/10.3389/fenvs.2023.1059449) | Biochar; Soil Carbon | 150 |
+| 2022 | [Feedstock type, pyrolysis temperature and acid modification effects on physiochemical attributes of biochar and soil quality](https://doi.org/10.1007/s12517-022-09539-9) | Biochar; Soil Carbon | 77 |
+| 2022 | [Programmable synthesis of exfoliated biochar nanosheets for selective and highly efficient adsorption of thallium](https://doi.org/10.1016/j.cej.2022.134842) | Biochar | 53 |
+| 2021 | [Programmable Synthesis of Exfoliated Biochar NanoSheets for Selective and Highly Efficient Adsorption of Thallium](https://doi.org/10.2139/ssrn.3988741) | Biochar | 2 |
 
 ## External Profiles
 

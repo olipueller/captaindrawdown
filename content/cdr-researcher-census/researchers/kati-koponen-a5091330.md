@@ -1,7 +1,7 @@
 ---
 title: "Kati Koponen"
 description: "Kati Koponen is a Mid-career General CDR researcher at VTT Technical Research Centre of Finland in FI. With 52 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/kati-koponen-a5091330/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,20 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | CDR Focus | 13.5% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Responsible carbon dioxide removals and the EU’s 2040 climate target** (2024)
-   14 citations · General CDR
+8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 7, BECCS 5, DAC 3, Biochar 2, Enhanced Weathering 2, Soil Carbon 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Sustainable negative emissions in Europe: evaluating scenarios to meet carbon neutrality by 2050** (2024)
-   6 citations · BECCS
-
-3. **Cascading wood use into bioenergy with carbon capture and storage ensures continuous and enduring temperature reduction** (2026)
-   4 citations · BECCS
-
-4. **Quantifying Climate Change Effects of Bioenergy and <scp>BECCS</scp>: Critical Considerations and Guidance on Methodology** (2025)
-   4 citations · BECCS
-
-5. **Modelling of Demands of Selected Minerals and Metals in Clean Energy Transition with 1.5–2.0 °C Mitigation Targets** (2024)
-   3 citations · General CDR
-
-6. **District heating with negative emissions – direct air carbon capture and storage combined with small modular reactors** (2025)
-   1 citations · DAC
-
-7. **Structuring the EU's International Carbon Credit Portfolio under the 2040 Climate Target: Six Portfolios for the 5% Flexibility and the Removal Gaps They Must Fill** (2026)
-   0 citations
-
-8. **Bioperäisen hiilidioksidin tulevaisuus Suomessa – Arvonlisäystä metsäteollisuuden korkeamman jalostusasteen tuotteista ja hiilidioksiditaloudesta** (2026)
-   0 citations · BECCS
-
-9. **Finland and European Union Climate Policy in the 2030s** (2026)
-   0 citations
-
-10. **Quantifying and Deploying Responsible Carbon Dioxide Removals in the Nordic Countries** (2026)
-   0 citations
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Cascading wood use into bioenergy with carbon capture and storage ensures continuous and enduring temperature reduction](https://openalex.org/W7138856057) | BECCS; General CDR | 4 |
+| 2026 | [Long-term scenarios and energy system impacts of technological carbon dioxide removal deployment in Finland](https://openalex.org/W7140482602) | BECCS; Biochar; DAC; Enhanced Weathering; General CDR | 0 |
+| 2026 | [Bioperäisen hiilidioksidin tulevaisuus Suomessa – Arvonlisäystä metsäteollisuuden korkeamman jalostusasteen tuotteista ja hiilidioksiditaloudesta](https://openalex.org/W7165054046) | BECCS | 0 |
+| 2025 | [Quantifying Climate Change Effects of Bioenergy and <scp>BECCS</scp>: Critical Considerations and Guidance on Methodology](https://doi.org/10.1111/gcbb.70070) | BECCS; General CDR | 4 |
+| 2025 | [District heating with negative emissions – direct air carbon capture and storage combined with small modular reactors](https://doi.org/10.1016/j.ccst.2025.100533) | DAC; General CDR | 1 |
+| 2024 | [Responsible carbon dioxide removals and the EU’s 2040 climate target](https://doi.org/10.1088/1748-9326/ad6d83) | General CDR | 14 |
+| 2024 | [Sustainable negative emissions in Europe: evaluating scenarios to meet carbon neutrality by 2050](https://doi.org/10.1088/1748-9326/ad71e1) | BECCS; Biochar; DAC; Enhanced Weathering; General CDR; Soil Carbon | 6 |
+| 2024 | [Modelling of Demands of Selected Minerals and Metals in Clean Energy Transition with 1.5–2.0 °C Mitigation Targets](https://doi.org/10.1007/978-3-031-58897-6_10) | General CDR | 3 |
 
 ## External Profiles
 

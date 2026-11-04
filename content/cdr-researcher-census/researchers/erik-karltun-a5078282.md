@@ -1,7 +1,7 @@
 ---
 title: "Erik Karltun"
 description: "Erik Karltun is a Senior Biochar researcher at Swedish University of Agricultural Sciences in SE. With 115 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/erik-karltun-a5078282/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,20 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | CDR Focus | 6.1% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **A group of ectomycorrhizal fungi restricts organic matter accumulation in boreal forest** (2021)
-   180 citations · Soil Carbon
+8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 6, Soil Carbon 4, General CDR 2, BECCS 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Modelling biochar long-term carbon storage in soil with harmonized analysis of decomposition data** (2023)
-   97 citations · Biochar
-
-3. **Life cycle assessment of urban uses of biochar and case study in Uppsala, Sweden** (2022)
-   54 citations · Biochar
-
-4. **Assessing the diverse environmental effects of biochar systems: An evaluation framework** (2021)
-   44 citations · Biochar
-
-5. **A spatial framework for prioritizing biochar application to arable land: A case study for Sweden** (2022)
-   17 citations
-
-6. **A spatial framework for prioritizing biochar application to arable land: a case study for Sweden** (2022)
-   2 citations
-
-7. **Modelling Biochar Long-Term Carbon Storage in Soil with Harmonized Analysis of Incubation Data** (2023)
-   1 citations · Biochar
-
-8. **A Spatial Framework for Prioritizing Biochar Application to Arable Land: A Case Study for Sweden** (2022)
-   1 citations · Biochar
-
-9. **Bomb 14 C for tracing biochar mineralization in soil** (2026)
-   0 citations · Biochar
-
-10. **Short Rotation Forestry Expansion Drives Carbon Sequestration in Biomass but Not in Soil** (2025)
-   0 citations · BECCS
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Bomb 14 C for tracing biochar mineralization in soil](https://openalex.org/W7214128309) | Biochar | 0 |
+| 2025 | [Short Rotation Forestry Expansion Drives Carbon Sequestration in Biomass but Not in Soil](https://doi.org/10.1111/gcbb.70054) | BECCS; Soil Carbon | 0 |
+| 2023 | [Modelling biochar long-term carbon storage in soil with harmonized analysis of decomposition data](https://doi.org/10.1016/j.geoderma.2023.116761) | Biochar; General CDR | 97 |
+| 2023 | [Modelling Biochar Long-Term Carbon Storage in Soil with Harmonized Analysis of Incubation Data](http://dx.doi.org/10.2139/ssrn.4601106) | Biochar; Soil Carbon | 1 |
+| 2022 | [Life cycle assessment of urban uses of biochar and case study in Uppsala, Sweden](https://doi.org/10.1007/s42773-022-00144-3) | Biochar; General CDR | 54 |
+| 2022 | [A Spatial Framework for Prioritizing Biochar Application to Arable Land: A Case Study for Sweden](https://doi.org/10.2139/ssrn.4144164) | Biochar; Soil Carbon | 1 |
+| 2021 | [A group of ectomycorrhizal fungi restricts organic matter accumulation in boreal forest](https://doi.org/10.1111/ele.13746) | Soil Carbon | 180 |
+| 2021 | [Assessing the diverse environmental effects of biochar systems: An evaluation framework](https://doi.org/10.1016/j.jenvman.2021.112154) | Biochar | 44 |
 
 ## External Profiles
 

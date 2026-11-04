@@ -1,7 +1,7 @@
 ---
 title: "Dia Milani"
 description: "Dia Milani is a Senior General CDR researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 65 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/dia-milani-a5067927/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,34 +48,20 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | CDR Focus | 12.3% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **A review of potential routes to zero and negative emission technologies via the integration of renewable energies with CO2 capture processes** (2023)
-   117 citations · DAC
+8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 8, DAC 6, Enhanced Weathering 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Decarbonizing hard-to-abate heavy industries: Current status and pathways towards net-zero future** (2024)
-   87 citations · General CDR
-
-3. **Green pathways for urea synthesis: A review from Australia's perspective** (2022)
-   63 citations · General CDR
-
-4. **Ex-situ mineral carbonation process challenges and technology enablers: A review from Australia’s perspective** (2024)
-   23 citations · DAC
-
-5. **Techno-economic assessment of green urea production integrated with direct air capture** (2025)
-   3 citations · DAC
-
-6. **A comparative economic assessment of freshwater versus chloralkali electrolysis for eMethanol production** (2025)
-   2 citations · DAC
-
-7. **From air to Jet Fuel: Techno-economic and sustainability analysis of eSAF production using direct air capture and chloralkali electrolysis** (2026)
-   1 citations · DAC
-
-8. **Mineralisation as a carbon sink for DAC: A case-study for solar thermal process integration** (2025)
-   1 citations · DAC
-
-9. **Dealumination and monoethanolamine impregnation of zeolite mining waste applied to carbon dioxide adsorptive capture** (2025)
-   0 citations
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [From air to Jet Fuel: Techno-economic and sustainability analysis of eSAF production using direct air capture and chloralkali electrolysis](https://doi.org/10.1016/j.enconman.2026.121212) | DAC; General CDR | 1 |
+| 2025 | [Techno-economic assessment of green urea production integrated with direct air capture](https://doi.org/10.1016/j.ecmx.2025.101015) | DAC; General CDR | 3 |
+| 2025 | [A comparative economic assessment of freshwater versus chloralkali electrolysis for eMethanol production](https://doi.org/10.1016/j.ijhydene.2025.151241) | DAC; General CDR | 2 |
+| 2025 | [Mineralisation as a carbon sink for DAC: A case-study for solar thermal process integration](https://doi.org/10.1016/j.clet.2025.100974) | DAC; Enhanced Weathering; General CDR | 1 |
+| 2024 | [Decarbonizing hard-to-abate heavy industries: Current status and pathways towards net-zero future](https://doi.org/10.1016/j.psep.2024.04.107) | General CDR | 87 |
+| 2024 | [Ex-situ mineral carbonation process challenges and technology enablers: A review from Australia’s perspective](https://doi.org/10.1016/j.mineng.2024.109124) | DAC; Enhanced Weathering; General CDR | 23 |
+| 2023 | [A review of potential routes to zero and negative emission technologies via the integration of renewable energies with CO2 capture processes](https://doi.org/10.1016/j.ijggc.2023.103862) | DAC; General CDR | 117 |
+| 2022 | [Green pathways for urea synthesis: A review from Australia's perspective](https://doi.org/10.1016/j.scca.2022.100008) | General CDR | 63 |
 
 ## External Profiles
 

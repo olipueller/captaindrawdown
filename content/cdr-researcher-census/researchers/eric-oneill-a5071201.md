@@ -1,7 +1,7 @@
 ---
 title: "Eric O’Neill"
 description: "Eric O’Neill is a Senior BECCS researcher at University of Oxford in GB. With 52 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/eric-oneill-a5071201/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,22 +48,17 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | CDR Focus | 9.6% |
 | Trajectory | Exiting |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Integrated spatially explicit landscape and cellulosic biofuel supply chain optimization under biomass yield uncertainty** (2022)
-   41 citations · BECCS
+5 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 5, General CDR 4, Soil Carbon 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Available land for cellulosic biofuel production: a supply chain centered comparison** (2024)
-   3 citations · BECCS
-
-3. **Towards Efficient Bioenergy Systems: Understanding the Role of Soil Sequestration, Supply Chain Design, and Carbon Capture** (2022)
-   0 citations · BECCS
-
-4. **Determining Accurate Biofuel System Outcomes: Spatially Explicit Methods for Combined Landscape-Feedstock and Supply Chain Design** (2022)
-   0 citations · BECCS
-
-5. **Integrated Spatially Explicit Landscape and Biofuel Supply Chain Network Design** (2021)
-   0 citations · BECCS
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2024 | [Available land for cellulosic biofuel production: a supply chain centered comparison](https://doi.org/10.1088/1748-9326/ada301) | BECCS | 3 |
+| 2022 | [Integrated spatially explicit landscape and cellulosic biofuel supply chain optimization under biomass yield uncertainty](https://doi.org/10.1016/j.compchemeng.2022.107724) | BECCS; General CDR | 41 |
+| 2022 | [Determining Accurate Biofuel System Outcomes: Spatially Explicit Methods for Combined Landscape-Feedstock and Supply Chain Design](https://doi.org/10.1016/b978-0-323-85159-6.50321-3) | BECCS; General CDR | 0 |
+| 2022 | [Towards Efficient Bioenergy Systems: Understanding the Role of Soil Sequestration, Supply Chain Design, and Carbon Capture](https://doi.org/10.1016/b978-0-323-95879-0.50153-3) | BECCS; General CDR; Soil Carbon | 0 |
+| 2021 | [Integrated Spatially Explicit Landscape and Biofuel Supply Chain Network Design](https://doi.org/10.1016/b978-0-323-88506-5.50282-5) | BECCS; General CDR | 0 |
 
 ## External Profiles
 

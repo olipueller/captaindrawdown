@@ -1,7 +1,7 @@
 ---
 title: "Ronny Pini"
 description: "Ronny Pini is a Senior DAC researcher at Imperial College London in GB. With 221 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/ronny-pini-a5039896/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,20 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | CDR Focus | 3.6% |
 | Trajectory | Growing |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Analytical review of the current state of knowledge of adsorption materials and processes for direct air capture** (2022)
-   92 citations
+8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 7, General CDR 3. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **The impact of design and operational parameters on the optimal performance of direct air capture units using solid sorbents** (2024)
-   19 citations
-
-3. **Experimental evidence of the effect of solute concentration on the collective evolution of bubbles in a regular pore-network** (2023)
-   9 citations
-
-4. **Amine-Appended Hyper-Crosslinked Polymers for Direct Air Capture of CO <sub>2</sub>** (2026)
-   7 citations
-
-5. **Structured sorbents for Direct Air Capture: The impact of materials and chemicals on performance** (2026)
-   1 citations · DAC
-
-6. **Closed-Loop Bayesian Optimization for the Synthesis of Amine-Grafted Resins for Direct Air Capture** (2026)
-   1 citations
-
-7. **Enhanced Oil Recovery using carbon dioxide directly captured from air does not enable carbon-neutral oil** (2025)
-   1 citations · DAC
-
-8. **Well-Mixed Dynamic Adsorber Model for Designing Cyclic Adsorption Processes** (2026)
-   0 citations · DAC
-
-9. **Structured sorbents for Direct Air Capture: The impact of materials and chemicals on performance** (2026)
-   0 citations · DAC
-
-10. **Temporal aggregation bias in model-based Direct Air Capture performance under weather variability** (2026)
-   0 citations · DAC
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Structured sorbents for Direct Air Capture: The impact of materials and chemicals on performance](https://openalex.org/W7166531872) | DAC | 1 |
+| 2026 | [Structured sorbents for direct air capture: the impact of materials and chemicals on performance](https://openalex.org/W7163847645) | DAC | 0 |
+| 2026 | [Temporal aggregation bias in model-based Direct Air Capture performance under weather variability](https://openalex.org/W7165366316) | DAC | 0 |
+| 2026 | [Structured sorbents for Direct Air Capture: The impact of materials and chemicals on performance](https://openalex.org/W7166680246) | DAC | 0 |
+| 2026 | [Well-Mixed Dynamic Adsorber Model for Designing Cyclic Adsorption Processes](https://openalex.org/W7203832871) | DAC | 0 |
+| 2025 | [Enhanced Oil Recovery using carbon dioxide directly captured from air does not enable carbon-neutral oil](https://doi.org/10.31223/x55x4s) | DAC; General CDR | 1 |
+| 2025 | [Design of Adsorption-based Direct Air Capture Units Towards Negative Emissions](https://doi.org/10.2139/ssrn.5067557) | DAC; General CDR | 0 |
+| 2025 | [IDRIC Frontiers Report Carbon Dioxide Removal Technologies](https://doi.org/10.2139/ssrn.5332744) | General CDR | 0 |
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Zhanfeng Liu"
 description: "Zhanfeng Liu is a Senior Soil Carbon researcher at South China Botanical Garden in CN. With 261 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/zhanfeng-liu-a5009726/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,33 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | CDR Focus | 8.0% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Faster accumulation and greater contribution of glomalin to the soil organic carbon pool than amino sugars do under tropical coastal forest restoration** (2022)
-   107 citations · Soil Carbon
+21 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Soil Carbon 21. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Climatic and edaphic controls over the elevational pattern of microbial necromass in subtropical forests** (2021)
-   97 citations · Soil Carbon
-
-3. **Nutrient availability and stoichiometry mediate microbial effects on soil carbon sequestration in tropical forests** (2023)
-   86 citations · Soil Carbon
-
-4. **Divergent accumulation of amino sugars and lignins mediated by soil functional carbon pools under tropical forest conversion** (2023)
-   50 citations · Soil Carbon
-
-5. **Accumulation of glomalin‐related soil protein benefits soil carbon sequestration: Tropical coastal forest restoration experiences** (2022)
-   45 citations · Soil Carbon
-
-6. **Nitrogen deposition enhances soil organic carbon and microbial residual carbon in a tropical forest** (2022)
-   33 citations · Soil Carbon
-
-7. **Long‐term irrigation reduces soil carbon sequestration by affecting soil microbial communities in agricultural ecosystems of northern China** (2021)
-   23 citations · Soil Carbon
-
-8. **Absorptive roots drive a larger microbial carbon pump efficacy than transport roots in alpine coniferous forests** (2022)
-   22 citations · Soil Carbon
-
-9. **Roots Dominate Over Extraradical Hyphae in Driving Soil Organic Carbon Accumulation During Tropical Forest Succession** (2025)
-   20 citations · Soil Carbon
-
-10. **Enhanced abundance of generalist and litter saprotrophs explain increased tropical forest soil carbon with long‐term nitrogen deposition** (2023)
-   12 citations · Soil Carbon
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Tree Diversity Reshapes Soil Carbon Formation before Carbon Accumulation during Early Afforestation](https://openalex.org/W7203770965) | Soil Carbon | 0 |
+| 2025 | [Roots Dominate Over Extraradical Hyphae in Driving Soil Organic Carbon Accumulation During Tropical Forest Succession](https://doi.org/10.1111/gcb.70499) | Soil Carbon | 20 |
+| 2025 | [Arbuscular mycorrhizal fungi and glomalin mediate the effects of microplastics on soil carbon storage](https://doi.org/10.1016/j.jhazmat.2025.140426) | Soil Carbon | 6 |
+| 2025 | [Accelerated soil carbon accumulation in an afforested multispecies forest compared with a monoculture driven by larger soil phosphorus mobilization](https://doi.org/10.1016/j.jenvman.2025.127955) | Soil Carbon | 3 |
+| 2025 | [Mycorrhizal and nutrient controls of carbon sequestration in tropical rainforest soil](https://doi.org/10.1016/j.geoderma.2025.117188) | Soil Carbon | 2 |
+| 2025 | [Divergent chemical responses of soil carbon and phosphorus to nutrient addition mediated by functional carbon pools in tropical forests](https://doi.org/10.1007/s11104-025-08102-1) | Soil Carbon | 2 |
+| 2024 | [Cross-scale spatial variability and associations of carbon pools provide insight into regulating carbon sequestration in tropical montane rainforests](https://doi.org/10.1016/j.jenvman.2024.120288) | Soil Carbon | 5 |
+| 2024 | [Late-season rice increased the contribution of glomalin rather than amino sugar to soil organic carbon in a double-season paddy soil](https://doi.org/10.1007/s42832-024-0254-2) | Soil Carbon | 3 |
+| 2024 | [Microbial-derived carbon is a major contributor to rhizosphere soil organic carbon accumulation in alpine coniferous forests](https://doi.org/10.22541/au.170667843.31602974/v1) | Soil Carbon | 0 |
+| 2023 | [Nutrient availability and stoichiometry mediate microbial effects on soil carbon sequestration in tropical forests](https://doi.org/10.1016/j.soilbio.2023.109186) | Soil Carbon | 86 |
+| 2023 | [Divergent accumulation of amino sugars and lignins mediated by soil functional carbon pools under tropical forest conversion](https://doi.org/10.1016/j.scitotenv.2023.163204) | Soil Carbon | 50 |
+| 2023 | [Enhanced abundance of generalist and litter saprotrophs explain increased tropical forest soil carbon with long‐term nitrogen deposition](https://doi.org/10.1111/1365-2435.14380) | Soil Carbon | 12 |
+| 2022 | [Faster accumulation and greater contribution of glomalin to the soil organic carbon pool than amino sugars do under tropical coastal forest restoration](https://doi.org/10.1111/gcb.16467) | Soil Carbon | 107 |
+| 2022 | [Accumulation of glomalin‐related soil protein benefits soil carbon sequestration: Tropical coastal forest restoration experiences](https://doi.org/10.1002/ldr.4192) | Soil Carbon | 45 |
+| 2022 | [Nitrogen deposition enhances soil organic carbon and microbial residual carbon in a tropical forest](https://doi.org/10.1007/s11104-022-05787-6) | Soil Carbon | 33 |
+| 2022 | [Absorptive roots drive a larger microbial carbon pump efficacy than transport roots in alpine coniferous forests](https://doi.org/10.1111/1365-2745.13899) | Soil Carbon | 22 |
+| 2021 | [Climatic and edaphic controls over the elevational pattern of microbial necromass in subtropical forests](https://doi.org/10.1016/j.catena.2021.105707) | Soil Carbon | 97 |
+| 2021 | [Long‐term irrigation reduces soil carbon sequestration by affecting soil microbial communities in agricultural ecosystems of northern China](https://doi.org/10.1111/ejss.13143) | Soil Carbon | 23 |
+| 2021 | [Nutrient addition enhances carbon sequestration in soil but not plant biomass in a coastal shelter plantation in South China](https://doi.org/10.1002/ldr.4078) | Soil Carbon | 7 |
+| 2021 | [Accumulation of glomalin-related soil protein benefits to soil carbon sequestration with tropical coastal forest restoration](https://doi.org/10.22541/au.161340180.00516553/v1) | Soil Carbon | 0 |
+| 2021 | [Nutrient addition enhances carbon sequestration in soil but not plant biomass in coastal shelter plantations.](https://eprints.lancs.ac.uk/id/eprint/159496/) | Soil Carbon | 0 |
 
 ## External Profiles
 

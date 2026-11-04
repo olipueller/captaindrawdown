@@ -1,7 +1,7 @@
 ---
 title: "Yufeng Zhou"
 description: "Yufeng Zhou is a Senior Soil Carbon researcher at Zhejiang A & F University in CN. With 109 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/yufeng-zhou-a5101560/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,28 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | CDR Focus | 14.7% |
 | Trajectory | Declining |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Degradation reduces greenhouse gas emissions while weakening ecosystem carbon sequestration of Moso bamboo forests** (2023)
-   47 citations · Soil Carbon
+16 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Soil Carbon 16, Biochar 1, General CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Interactions between soil properties and the rhizome-root distribution in a 12-year Moso bamboo reforested region: Combining ground-penetrating radar and soil coring in the field** (2021)
-   27 citations · Soil Carbon
-
-3. **Growing in Mixed Stands Increased Leaf Photosynthesis and Physiological Stress Resistance in Moso Bamboo and Mature Chinese Fir Plantations** (2021)
-   25 citations · Soil Carbon
-
-4. **Rhizome extension characteristics, structure and carbon storage relationships with culms in a 10-year moso bamboo reforestation period** (2021)
-   24 citations · Soil Carbon
-
-5. **Effects of Climate on Variation of Soil Organic Carbon and Alkali-Hydrolyzed Nitrogen in Subtropical Forests: A Case Study of Zhejiang Province, China** (2023)
-   23 citations · Soil Carbon
-
-6. **The phytolith carbon sequestration in terrestrial ecosystems: the underestimated potential of bamboo forest** (2023)
-   17 citations · Soil Carbon
-
-7. **Degradation-driven vegetation-soil-microbe interactions alter microbial carbon use efficiency in Moso bamboo forests** (2024)
-   9 citations · Soil Carbon
-
-8. **The current status and potential research directions of soil microbial carbon in bamboo forest** (2022)
-   9 citations · Soil Carbon
-
-9. **Effects of Different Management Measures on Carbon Stocks and Soil Carbon Stocks in Moso Bamboo Forests: Meta-Analysis and Control Experiment** (2024)
-   8 citations · Soil Carbon
-
-10. **Biofertilizer outcompete chemical fertilizer in enhancing carbon sequestration in Moso bamboo (Phyllostachys edulis (Carriere) J. Houzeau) forests** (2025)
-   7 citations · Soil Carbon
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2025 | [Biofertilizer outcompete chemical fertilizer in enhancing carbon sequestration in Moso bamboo (Phyllostachys edulis (Carriere) J. Houzeau) forests](https://doi.org/10.1016/j.indcrop.2025.121244) | Soil Carbon | 7 |
+| 2025 | [Effects of different urban vegetation cover and green space types on soil greenhouse gas emissions and carbon sequestration](https://doi.org/10.3389/fenvs.2025.1555628) | Soil Carbon | 4 |
+| 2025 | [Biochar‐Based Compound Fertilizers Enhances Carbon Sequestration and Mitigates Greenhouse Gas Emissions in Moso Bamboo Forests](https://doi.org/10.1111/gcbb.70056) | Biochar; Soil Carbon | 2 |
+| 2024 | [Degradation-driven vegetation-soil-microbe interactions alter microbial carbon use efficiency in Moso bamboo forests](https://doi.org/10.1016/j.scitotenv.2024.175435) | Soil Carbon | 9 |
+| 2024 | [Effects of Different Management Measures on Carbon Stocks and Soil Carbon Stocks in Moso Bamboo Forests: Meta-Analysis and Control Experiment](https://doi.org/10.3390/f15030496) | Soil Carbon | 8 |
+| 2024 | [Responses of Soil Carbon and Microbial Residues to Degradation in Moso Bamboo Forest](https://doi.org/10.3390/plants13111526) | Soil Carbon | 5 |
+| 2024 | [Effects of Fertilizer Application Intensity on Carbon Accumulation and Greenhouse Gas Emissions in Moso Bamboo Forest–Polygonatum cyrtonema Hua Agroforestry Systems](https://doi.org/10.3390/plants13141941) | General CDR; Soil Carbon | 4 |
+| 2024 | [Management of Hickory Forest Understory Vegetation Increases Ecosystem Carbon Sequestration, But It Also Increases Soil Greenhouse Gas Emissions in the Short Term](https://doi.org/10.3390/agronomy14122937) | Soil Carbon | 3 |
+| 2023 | [Degradation reduces greenhouse gas emissions while weakening ecosystem carbon sequestration of Moso bamboo forests](https://doi.org/10.1016/j.scitotenv.2023.162915) | Soil Carbon | 47 |
+| 2023 | [Effects of Climate on Variation of Soil Organic Carbon and Alkali-Hydrolyzed Nitrogen in Subtropical Forests: A Case Study of Zhejiang Province, China](https://doi.org/10.3390/f14050914) | Soil Carbon | 23 |
+| 2023 | [The phytolith carbon sequestration in terrestrial ecosystems: the underestimated potential of bamboo forest](https://doi.org/10.1186/s13717-023-00476-3) | Soil Carbon | 17 |
+| 2022 | [The current status and potential research directions of soil microbial carbon in bamboo forest](https://doi.org/10.1016/j.bamboo.2022.100005) | Soil Carbon | 9 |
+| 2021 | [Interactions between soil properties and the rhizome-root distribution in a 12-year Moso bamboo reforested region: Combining ground-penetrating radar and soil coring in the field](https://doi.org/10.1016/j.scitotenv.2021.149467) | Soil Carbon | 27 |
+| 2021 | [Growing in Mixed Stands Increased Leaf Photosynthesis and Physiological Stress Resistance in Moso Bamboo and Mature Chinese Fir Plantations](https://doi.org/10.3389/fpls.2021.649204) | Soil Carbon | 25 |
+| 2021 | [Rhizome extension characteristics, structure and carbon storage relationships with culms in a 10-year moso bamboo reforestation period](https://doi.org/10.1016/j.foreco.2021.119556) | Soil Carbon | 24 |
+| 2021 | [Effect of forest management on the formation and stability of phytolith and PhytOC in forest ecosystem](https://doi.org/10.5194/egusphere-egu21-573) | Soil Carbon | 2 |
 
 ## External Profiles
 

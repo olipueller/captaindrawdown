@@ -1,7 +1,7 @@
 ---
 title: "Yan Yang"
 description: "Yan Yang is a Senior Biochar researcher at Beijing Forestry University in CN. With 124 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/yan-yang-a5101582/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,31 +48,20 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | CDR Focus | 6.5% |
 | Trajectory | Exiting |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Biochar stability and impact on soil organic carbon mineralization depend on biochar processing, aging and soil clay content** (2022)
-   274 citations · Biochar
+8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 8, Soil Carbon 5. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Effects of biochar on the accumulation of necromass-derived carbon, the physical protection and microbial mineralization of soil organic carbon** (2023)
-   129 citations · Biochar
-
-3. **Impact of biochar amendment on soil aggregation varied with incubation duration and biochar pyrolysis temperature** (2021)
-   85 citations · Biochar
-
-4. **Changes in soil properties and CO2 emissions after biochar addition: Role of pyrolysis temperature and aging** (2022)
-   78 citations · Biochar
-
-5. **Effect of Fe and Al ions on the production of biochar from agricultural biomass: Properties, stability and adsorption efficiency of biochar** (2021)
-   59 citations · Biochar
-
-6. **The preferential preservation of both different minerals and polyethylene microplastics on aromatic or aliphatic carbon fractions within low or high pyrolysis temperature biochar under mineralization** (2022)
-   8 citations · Biochar
-
-7. **The Role of Minerals and Polyethylene Microplastics in Microbial Mineralization of Biochar at Different Pyrolysis Temperatures: Molecular Fractionation and Microbial Community Shift** (2022)
-   0 citations · Biochar
-
-8. **Soil Clay Content, Biochar Production Temperature and Aging Affected Biochar Stability and its Priming Effect on Soil Organic Carbon Mineralization** (2021)
-   0 citations · Biochar
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2023 | [Effects of biochar on the accumulation of necromass-derived carbon, the physical protection and microbial mineralization of soil organic carbon](https://doi.org/10.1080/10643389.2023.2221155) | Biochar; Soil Carbon | 129 |
+| 2022 | [Biochar stability and impact on soil organic carbon mineralization depend on biochar processing, aging and soil clay content](https://doi.org/10.1016/j.soilbio.2022.108657) | Biochar; Soil Carbon | 274 |
+| 2022 | [Changes in soil properties and CO2 emissions after biochar addition: Role of pyrolysis temperature and aging](https://doi.org/10.1016/j.scitotenv.2022.156333) | Biochar; Soil Carbon | 78 |
+| 2022 | [The preferential preservation of both different minerals and polyethylene microplastics on aromatic or aliphatic carbon fractions within low or high pyrolysis temperature biochar under mineralization](https://doi.org/10.1016/j.rser.2022.112963) | Biochar | 8 |
+| 2022 | [The Role of Minerals and Polyethylene Microplastics in Microbial Mineralization of Biochar at Different Pyrolysis Temperatures: Molecular Fractionation and Microbial Community Shift](https://doi.org/10.2139/ssrn.4167068) | Biochar | 0 |
+| 2021 | [Impact of biochar amendment on soil aggregation varied with incubation duration and biochar pyrolysis temperature](https://doi.org/10.1007/s42773-021-00097-z) | Biochar; Soil Carbon | 85 |
+| 2021 | [Effect of Fe and Al ions on the production of biochar from agricultural biomass: Properties, stability and adsorption efficiency of biochar](https://doi.org/10.1016/j.rser.2021.111133) | Biochar | 59 |
+| 2021 | [Soil Clay Content, Biochar Production Temperature and Aging Affected Biochar Stability and its Priming Effect on Soil Organic Carbon Mineralization](https://doi.org/10.2139/ssrn.3981407) | Biochar; Soil Carbon | 0 |
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Christopher Poeplau"
 description: "Christopher Poeplau is an Eminent Soil Carbon researcher at Johann Heinrich von Thünen-Institut in DE. With 207 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/christopher-poeplau-a5047371/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,27 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | CDR Focus | 7.2% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **No detectable upper limit of mineral‐associated organic carbon in temperate agricultural soils** (2023)
-   200 citations · Soil Carbon
+15 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Soil Carbon 15, General CDR 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Soil Carbon Saturation: What Do We Really Know?** (2025)
-   149 citations · Soil Carbon
-
-3. **Priming effects decrease with the quantity of cover crop residues – Potential implications for soil carbon sequestration** (2023)
-   69 citations · Soil Carbon
-
-4. **Grassland soil organic carbon stocks along management intensity and warming gradients** (2021)
-   59 citations · Soil Carbon
-
-5. **Root litter quality drives the dynamic of native mineral-associated organic carbon in a temperate agricultural soil** (2023)
-   32 citations
-
-6. **Flower strips as a carbon sequestration measure in temperate croplands** (2022)
-   20 citations · Soil Carbon
-
-7. **No saturation of soil carbon under long-term extreme manure additions** (2024)
-   16 citations · Soil Carbon
-
-8. **Ten-year effects of perennial cropping systems on soil organic carbon stock and stability in sandy soils: Mechanisms and biochemical drivers** (2025)
-   8 citations · Soil Carbon
-
-9. **Increased Retention of Litter‐Derived Organic Carbon With Increasing Initial Carbon Content in Temperate Agricultural Soils** (2025)
-   5 citations · Soil Carbon
-
-10. **Different Amounts of Added Litter Do Not Affect Long‐Term Carbon Mineralization and Stabilization in Topsoils and Subsoils** (2025)
-   3 citations · Soil Carbon
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Editorial for the Second <scp>EJP SOIL</scp> Special Issue: “Climate‐Smart Sustainable Agricultural Soil Management for the Future II”](https://doi.org/10.1111/ejss.70274) | General CDR; Soil Carbon | 0 |
+| 2026 | [Is initial soil organic carbon more important than texture for the fate of carbon inputs into temperate agricultural soils?](https://doi.org/10.5194/egusphere-egu26-5718) | Soil Carbon | 0 |
+| 2025 | [Soil Carbon Saturation: What Do We Really Know?](https://doi.org/10.1111/gcb.70197) | Soil Carbon | 149 |
+| 2025 | [Ten-year effects of perennial cropping systems on soil organic carbon stock and stability in sandy soils: Mechanisms and biochemical drivers](https://doi.org/10.1016/j.eja.2025.127639) | Soil Carbon | 8 |
+| 2025 | [Increased Retention of Litter‐Derived Organic Carbon With Increasing Initial Carbon Content in Temperate Agricultural Soils](https://doi.org/10.1111/gcb.70646) | Soil Carbon | 5 |
+| 2025 | [Different Amounts of Added Litter Do Not Affect Long‐Term Carbon Mineralization and Stabilization in Topsoils and Subsoils](https://doi.org/10.1002/jpln.70002) | Soil Carbon | 3 |
+| 2024 | [No saturation of soil carbon under long-term extreme manure additions](https://doi.org/10.1007/s11104-024-07146-z) | Soil Carbon | 16 |
+| 2024 | [Net primary production rather than saturation of mineral surfaces limits soil carbon sequestration&amp;#160;](https://doi.org/10.5194/egusphere-egu24-9216) | Soil Carbon | 0 |
+| 2024 | [Distribution of soil organic carbon across contrasting fractionation techniques - results from a long-term field trial with increasing shares of leguminous cover crops](https://doi.org/10.5194/egusphere-egu24-17654) | Soil Carbon | 0 |
+| 2023 | [No detectable upper limit of mineral‐associated organic carbon in temperate agricultural soils](https://doi.org/10.1111/gcb.16804) | Soil Carbon | 200 |
+| 2023 | [Priming effects decrease with the quantity of cover crop residues – Potential implications for soil carbon sequestration](https://doi.org/10.1016/j.soilbio.2023.109110) | Soil Carbon | 69 |
+| 2023 | [What limits carbon sequestration in soils?](https://doi.org/10.5194/egusphere-egu23-13898) | General CDR; Soil Carbon | 1 |
+| 2023 | [Priming effects decrease with quantity of cover crop residues – implications for net soil carbon sequestration](http://dx.doi.org/10.5194/egusphere-egu23-14590) | Soil Carbon | 0 |
+| 2022 | [Flower strips as a carbon sequestration measure in temperate croplands](https://doi.org/10.1007/s11104-022-05718-5) | Soil Carbon | 20 |
+| 2021 | [Grassland soil organic carbon stocks along management intensity and warming gradients](https://doi.org/10.1111/gfs.12537) | Soil Carbon | 59 |
 
 ## External Profiles
 

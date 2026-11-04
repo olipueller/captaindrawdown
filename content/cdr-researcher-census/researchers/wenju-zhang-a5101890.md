@@ -1,7 +1,7 @@
 ---
 title: "Wenju Zhang"
 description: "Wenju Zhang is an Eminent Soil Carbon researcher at Chinese Academy of Agricultural Sciences in CN. With 215 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/wenju-zhang-a5101890/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,27 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | CDR Focus | 7.0% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Effects of biochar application on crop productivity, soil carbon sequestration, and global warming potential controlled by biochar C:N ratio and soil pH: A global meta-analysis** (2021)
-   244 citations · Biochar
+15 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Soil Carbon 15, Biochar 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Optimizing cover crop practices as a sustainable solution for global agroecosystem services** (2024)
-   109 citations · Soil Carbon
-
-3. **Long-term manuring increases microbial carbon use efficiency and mitigates priming effect via alleviated soil acidification and resource limitation** (2021)
-   103 citations
-
-4. **Long-term manuring facilitates glomalin-related soil proteins accumulation by chemical composition shifts and macro-aggregation formation** (2023)
-   58 citations · Soil Carbon
-
-5. **Organic amendments facilitate soil carbon sequestration via organic carbon accumulation and mitigation of inorganic carbon loss** (2022)
-   46 citations · Soil Carbon
-
-6. **No-tillage facilitates soil organic carbon sequestration by enhancing arbuscular mycorrhizal fungi-related soil proteins accumulation and aggregation** (2024)
-   42 citations · Soil Carbon
-
-7. **Soil organic carbon priming co-regulated by labile carbon input level and long-term fertilization history** (2023)
-   39 citations · Soil Carbon
-
-8. **Stimulatory effects of nutrient addition on microbial necromass C formation depend on soil stoichiometry** (2025)
-   24 citations · Soil Carbon
-
-9. **Bacterial necromass decomposition and priming effects in paddy soils depend on long-term fertilization** (2025)
-   19 citations · Soil Carbon
-
-10. **Long-Term Manuring Enhanced Compositional Stability of Glomalin-Related Soil Proteins through Arbuscular Mycorrhizal Fungi Regulation** (2024)
-   13 citations · Soil Carbon
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Diverse organic amendments mitigate soil acidification by improving soil organic matter in acid soil area over four decades](https://doi.org/10.5194/egusphere-egu26-16672) | Soil Carbon | 0 |
+| 2025 | [Stimulatory effects of nutrient addition on microbial necromass C formation depend on soil stoichiometry](https://doi.org/10.1016/j.geoderma.2025.117323) | Soil Carbon | 24 |
+| 2025 | [Bacterial necromass decomposition and priming effects in paddy soils depend on long-term fertilization](https://doi.org/10.1016/j.soilbio.2025.109992) | Soil Carbon | 19 |
+| 2025 | [Carbon accumulation efficiency of granulated straw incorporation and its response to nutrient supplement in infertile agricultural soils: Evidence from biomarkers](https://openalex.org/W4406814374) | Soil Carbon | 10 |
+| 2025 | [Impacts of conservation tillage on soil organic carbon and crop yield in black soil region of Northeast China: integrated regulation by climate, management and soil properties](https://doi.org/10.1016/j.jafr.2025.102388) | Soil Carbon | 3 |
+| 2025 | [Long-term fertilization-induced increases in glomalin-related soil protein depend on phosphorus input and aggregate stability across climatic zones](https://doi.org/10.1016/j.still.2025.106950) | Soil Carbon | 2 |
+| 2024 | [Optimizing cover crop practices as a sustainable solution for global agroecosystem services](https://doi.org/10.1038/s41467-024-54536-z) | Soil Carbon | 109 |
+| 2024 | [No-tillage facilitates soil organic carbon sequestration by enhancing arbuscular mycorrhizal fungi-related soil proteins accumulation and aggregation](https://doi.org/10.1016/j.catena.2024.108323) | Soil Carbon | 42 |
+| 2024 | [Long-Term Manuring Enhanced Compositional Stability of Glomalin-Related Soil Proteins through Arbuscular Mycorrhizal Fungi Regulation](https://doi.org/10.3390/agriculture14091510) | Soil Carbon | 13 |
+| 2023 | [Long-term manuring facilitates glomalin-related soil proteins accumulation by chemical composition shifts and macro-aggregation formation](https://doi.org/10.1016/j.still.2023.105904) | Soil Carbon | 58 |
+| 2023 | [Soil organic carbon priming co-regulated by labile carbon input level and long-term fertilization history](https://doi.org/10.1016/j.scitotenv.2023.166175) | Soil Carbon | 39 |
+| 2023 | [Long-Term Organic Substitution Promotes Carbon and Nitrogen Sequestration and Benefit Crop Production in Upland Field](https://doi.org/10.3390/agronomy13092381) | Soil Carbon | 12 |
+| 2023 | [Long-term manuring enhances glomalin-soil-carbon sequestration by increasing its recalcitrance and macro-aggregation](http://dx.doi.org/10.5194/egusphere-egu23-13605) | Soil Carbon | 1 |
+| 2022 | [Organic amendments facilitate soil carbon sequestration via organic carbon accumulation and mitigation of inorganic carbon loss](https://doi.org/10.1002/ldr.4248) | Soil Carbon | 46 |
+| 2021 | [Effects of biochar application on crop productivity, soil carbon sequestration, and global warming potential controlled by biochar C:N ratio and soil pH: A global meta-analysis](https://doi.org/10.1016/j.still.2021.105125) | Biochar; Soil Carbon | 244 |
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Selene Varliero"
 description: "Selene Varliero is a Mid-career Ocean CDR researcher at Politecnico di Milano in IT. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/selene-varliero-a5063753/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,26 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | CDR Focus | 65.0% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Techno-economic evaluation of buffered accelerated weathering of limestone as a CO2 capture and storage option** (2023)
-   15 citations · Enhanced Weathering
+14 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 14, General CDR 4, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Chemical Aspect of Ocean Liming for CO<sub>2</sub> Removal: Dissolution Kinetics of Calcium Hydroxide in Seawater** (2024)
-   13 citations
-
-3. **Plankton do not care: Minimal effects of ocean liming on plankton growth and grazing in the Eastern Mediterranean** (2025)
-   7 citations · Ocean CDR
-
-4. **The effect of ocean alkalinity enhancement on zooplankton standing stock and community composition in the Eastern Mediterranean Sea: a mesocosm study** (2025)
-   5 citations · Ocean CDR
-
-5. **Surface area and Ω-aragonite oversaturation as controls of the runaway precipitation process in ocean alkalinity enhancement** (2025)
-   5 citations · Ocean CDR
-
-6. **The impact of ocean liming on phytoplankton size-structure and the balance of photosynthesis and respiration in two contrasting environments** (2024)
-   2 citations · General CDR
-
-7. **Evaluating rainbowing for ocean alkalinity enhancement** (2024)
-   1 citations · Ocean CDR
-
-8. **Ocean liming in eutrophic vs. ultraoligotrophic environments and the response of algal calcifiers** (2024)
-   1 citations · General CDR
-
-9. **Ocean liming in the oligotrophic Eastern Mediterranean: impact on the planktonic microbial food web** (2024)
-   1 citations · General CDR
-
-10. **Response of the Carbonate System to Ocean Alkalinity Enhancement: A Mesocosm-Scale Experiment** (2026)
-   0 citations · Ocean CDR
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Response of the Carbonate System to Ocean Alkalinity Enhancement: A Mesocosm-Scale Experiment](https://openalex.org/W7214425406) | Ocean CDR | 0 |
+| 2025 | [Plankton do not care: Minimal effects of ocean liming on plankton growth and grazing in the Eastern Mediterranean](https://doi.org/10.1002/lno.70136) | Ocean CDR | 7 |
+| 2025 | [Surface area and Ω-aragonite oversaturation as controls of the runaway precipitation process in ocean alkalinity enhancement](https://doi.org/10.5194/egusphere-2025-381) | Ocean CDR | 5 |
+| 2025 | [The effect of ocean alkalinity enhancement on zooplankton standing stock and community composition in the Eastern Mediterranean Sea: a mesocosm study](https://doi.org/10.1016/j.marenvres.2025.107489) | Ocean CDR | 5 |
+| 2025 | [CO2 Dissolution as Bicarbonate in Seawater: Potential Co-benefits for Net Primary Production](https://doi.org/10.5194/egusphere-egu25-19618) | Ocean CDR | 0 |
+| 2025 | [Genus-specific and microanatomical controls on element incorporation in coralline calcification revealed by Ocean Alkalinity Enhancement experiments](https://doi.org/10.5194/egusphere-egu25-19226) | Ocean CDR | 0 |
+| 2025 | [Genus-specific calcification dynamics in coralline algae: insights into Mg incorporation as response to Ocean Alkalinity Enhancement](https://doi.org/10.22541/essoar.174349824.43745090/v1) | Ocean CDR | 0 |
+| 2024 | [The impact of ocean liming on phytoplankton size-structure and the balance of photosynthesis and respiration in two contrasting environments](https://doi.org/10.5194/egusphere-egu24-13093) | General CDR; Ocean CDR | 2 |
+| 2024 | [Ocean liming in the oligotrophic Eastern Mediterranean: impact on the planktonic microbial food web](https://doi.org/10.5194/egusphere-egu24-18538) | General CDR; Ocean CDR | 1 |
+| 2024 | [Ocean liming in eutrophic vs. ultraoligotrophic environments and the response of algal calcifiers](https://doi.org/10.5194/egusphere-egu24-13685) | General CDR; Ocean CDR | 1 |
+| 2024 | [Evaluating rainbowing for ocean alkalinity enhancement](http://dx.doi.org/10.1088/2515-7620/ad707b) | Ocean CDR | 1 |
+| 2024 | [Experimental studies on the stability of bicarbonate-enriched seawater solutions](https://doi.org/10.5194/egusphere-egu24-15887) | Ocean CDR | 0 |
+| 2024 | [Coccolithophore response to marine alkalinization: The results of ocean alkalinity enhancement exposure.](http://dx.doi.org/10.58998/3206) | Ocean CDR | 0 |
+| 2023 | [Techno-economic evaluation of buffered accelerated weathering of limestone as a CO2 capture and storage option](https://doi.org/10.1007/s11027-023-10052-x) | Enhanced Weathering; General CDR; Ocean CDR | 15 |
 
 ## External Profiles
 

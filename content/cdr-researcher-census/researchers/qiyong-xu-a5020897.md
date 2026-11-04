@@ -1,7 +1,7 @@
 ---
 title: "Qiyong Xu"
 description: "Qiyong Xu is a Senior Biochar researcher at Peking University in CN. With 223 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/qiyong-xu-a5020897/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,21 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | CDR Focus | 3.6% |
 | Trajectory | Growing |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **The influencing mechanism of O2, H2O, and CO2 on the H2S removal of food waste digestate-derived biochar with abundant minerals** (2022)
-   25 citations · Biochar
+9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 9, General CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Climate Change Impact of Diverse Food Waste Valorization Processes beyond Anaerobic Digestion** (2023)
-   17 citations · Biochar
-
-3. **The efficiency and mechanism of humidity in alleviating CO2 inhibition on H2S adsorption to straw biochars** (2022)
-   14 citations · Biochar
-
-4. **Microbial assembly regulated microbial succession of biochar-mediated CH4 biofiltration to resume function under H2S stress** (2025)
-   10 citations · Biochar
-
-5. **Selective phosphate separation and enrichment from real digestate via membrane capacitive deionization using LDH/biochar composite electrodes** (2026)
-   6 citations
-
-6. **Biochar-based rhizosphere engineering for enhanced CH4 removal in landfill cover soil** (2025)
-   4 citations · Biochar
-
-7. **Enhanced methane oxidation efficiency by digestate biochar in landfill cover soil: Microbial shifts and carbon metabolites insights** (2023)
-   4 citations · Biochar
-
-8. **Structure-performance relationship of MOF-derived cu/N-doped biochar composites for efficient H2S removal: Insights into adsorption and regeneration mechanisms** (2026)
-   0 citations · Biochar
-
-9. **Decoupling EPS functionality from quantity for sustained performance in solid biological treatment systems using biochar as a tuning agent** (2026)
-   0 citations · Biochar
-
-10. **MOF-Derived Cu/N-Doped Biochar Composites for Efficient H2S Removal: Dynamic Adsorption Behavior, Sulfur Conversion and Regeneration Performance** (2026)
-   0 citations · Biochar
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [MOF-Derived Cu/N-Doped Biochar Composites for Efficient H2S Removal: Dynamic Adsorption Behavior, Sulfur Conversion and Regeneration Performance](https://openalex.org/W7203638558) | Biochar | 0 |
+| 2026 | [Decoupling EPS functionality from quantity for sustained performance in solid biological treatment systems using biochar as a tuning agent](https://openalex.org/W7215055327) | Biochar | 0 |
+| 2026 | [Structure-performance relationship of MOF-derived cu/N-doped biochar composites for efficient H2S removal: Insights into adsorption and regeneration mechanisms](https://openalex.org/W7221034040) | Biochar | 0 |
+| 2025 | [Microbial assembly regulated microbial succession of biochar-mediated CH4 biofiltration to resume function under H2S stress](https://doi.org/10.1016/j.cej.2025.160071) | Biochar | 10 |
+| 2025 | [Biochar-based rhizosphere engineering for enhanced CH4 removal in landfill cover soil](https://doi.org/10.1016/j.jenvman.2025.126348) | Biochar | 4 |
+| 2023 | [Climate Change Impact of Diverse Food Waste Valorization Processes beyond Anaerobic Digestion](https://doi.org/10.1021/acssuschemeng.3c00145) | Biochar; General CDR | 17 |
+| 2023 | [Enhanced methane oxidation efficiency by digestate biochar in landfill cover soil: Microbial shifts and carbon metabolites insights](https://openalex.org/W4387025786) | Biochar | 4 |
+| 2022 | [The influencing mechanism of O2, H2O, and CO2 on the H2S removal of food waste digestate-derived biochar with abundant minerals](https://doi.org/10.1007/s42773-022-00199-2) | Biochar | 25 |
+| 2022 | [The efficiency and mechanism of humidity in alleviating CO2 inhibition on H2S adsorption to straw biochars](https://doi.org/10.1016/j.envres.2022.113008) | Biochar | 14 |
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Judith Hauck"
 description: "Judith Hauck is an Eminent Ocean CDR researcher at Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung in DE. With 316 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/judith-hauck-a5068651/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,29 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | CDR Focus | 5.4% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Trends and variability in the ocean carbon sink** (2023)
-   276 citations · General CDR
+17 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 16, General CDR 14, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Ocean carbon from space: Current status and priorities for the next decade** (2023)
-   63 citations · General CDR
-
-3. **Ten new insights in climate science 2023** (2023)
-   47 citations · General CDR
-
-4. **Alkalinity biases in CMIP6 Earth system models and implications for simulated CO <sub>2</sub> drawdown via artificial alkalinity enhancement** (2023)
-   31 citations · General CDR
-
-5. **Alkalinity biases in CMIP6 Earth System Models and implications for simulated CO2 drawdown via artificial alkalinity enhancement** (2023)
-   17 citations · General CDR
-
-6. **Ocean Alkalinity Enhancement in Deep Water Formation Regions Under Low and High Emission Pathways** (2024)
-   14 citations · General CDR
-
-7. **Exploring Site‐Specific Carbon Dioxide Removal Options With Storage or Sequestration in the Marine Environment – The 10 Mt CO<sub>2</sub> yr<sup>−1</sup> Removal Challenge for Germany** (2025)
-   9 citations · General CDR
-
-8. **From global to national GHG budgets: the REgional Carbon Cycle Assessment and Processes-3 (RECCAP3)** (2025)
-   9 citations · Ocean CDR
-
-9. **Interactions between ocean alkalinity enhancement and phytoplankton in an Earth system model** (2025)
-   6 citations · General CDR
-
-10. **Alkalinity enhancement in subduction regions and the global ocean: efficiency, earth system feedbacks, and scenario sensitivity** (2025)
-   5 citations · General CDR
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2025 | [From global to national GHG budgets: the REgional Carbon Cycle Assessment and Processes-3 (RECCAP3)](https://openalex.org/W4407250055) | Ocean CDR | 9 |
+| 2025 | [Exploring Site‐Specific Carbon Dioxide Removal Options With Storage or Sequestration in the Marine Environment – The 10 Mt CO<sub>2</sub> yr<sup>−1</sup> Removal Challenge for Germany](https://doi.org/10.1029/2024ef004902) | General CDR; Ocean CDR | 9 |
+| 2025 | [Interactions between ocean alkalinity enhancement and phytoplankton in an Earth system model](https://doi.org/10.5194/bg-22-5897-2025) | General CDR; Ocean CDR | 6 |
+| 2025 | [Alkalinity enhancement in subduction regions and the global ocean: efficiency, earth system feedbacks, and scenario sensitivity](https://doi.org/10.1088/1748-9326/ae293b) | General CDR; Ocean CDR | 5 |
+| 2025 | [New findings on capturing CO₂ by increasing the alkalinity of seawater: The seven most important outcomes of RETAKE research](https://doi.org/10.3289/cdrmare.52) | Enhanced Weathering; General CDR; Ocean CDR | 1 |
+| 2025 | [Prospects and Challenges of Investigating Ocean-Based Negative Emission Technologies: Insights from the OceanNETs Project](https://doi.org/10.3289/oceannets_d7.10-12) | General CDR; Ocean CDR | 1 |
+| 2024 | [Ocean Alkalinity Enhancement in Deep Water Formation Regions Under Low and High Emission Pathways](https://doi.org/10.1029/2023ef004213) | General CDR; Ocean CDR | 14 |
+| 2024 | [CO2 Removal Potential of Two Ocean-based NETs in Earth System Models in a Realistic Deployment Scenario](https://doi.org/10.5194/egusphere-egu24-18363) | General CDR; Ocean CDR | 0 |
+| 2024 | [Exploring site-specific carbon dioxide removal options with storage or sequestration in the marine environment - The 10 Mt CO2 yr-1 removal challenge for Germany](https://doi.org/10.22541/essoar.171650351.11778445/v1) | General CDR; Ocean CDR | 0 |
+| 2023 | [Trends and variability in the ocean carbon sink](https://doi.org/10.1038/s43017-022-00381-x) | General CDR; Ocean CDR | 276 |
+| 2023 | [Ocean carbon from space: Current status and priorities for the next decade](https://doi.org/10.1016/j.earscirev.2023.104386) | General CDR; Ocean CDR | 63 |
+| 2023 | [Ten new insights in climate science 2023](https://doi.org/10.1017/sus.2023.25) | General CDR | 47 |
+| 2023 | [Alkalinity biases in CMIP6 Earth system models and implications for simulated CO <sub>2</sub> drawdown via artificial alkalinity enhancement](https://doi.org/10.5194/bg-20-3717-2023) | General CDR; Ocean CDR | 31 |
+| 2023 | [Alkalinity biases in CMIP6 Earth System Models and implications for simulated CO2 drawdown via artificial alkalinity enhancement](https://doi.org/10.5194/bg-2023-26) | General CDR; Ocean CDR | 17 |
+| 2023 | [Alkalinity and Sensitivity to Alkalinity Enhancement in CMIP6 Earth System Models](https://doi.org/10.5194/egusphere-egu23-2245) | Ocean CDR | 1 |
+| 2023 | [Effects of Ocean Alkalinity Enhancement in deep and bottom water formation regions on the 21st century CO2 uptake under low and high emission pathways.](https://doi.org/10.5194/egusphere-egu23-7154) | General CDR; Ocean CDR | 0 |
+| 2023 | [New / improved model parametrizations for responses in phytoplankton growth and calcification to changes in alkalinity implemented](http://dx.doi.org/10.3289/oceannets_d4.5) | Ocean CDR | 0 |
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Francesco Fantozzi"
 description: "Francesco Fantozzi is an Eminent BECCS researcher at University of Perugia in IT. With 254 publications and an h-index of 45, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/francesco-fantozzi-a5081259/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,17 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | CDR Focus | 2.0% |
 | Trajectory | Exiting |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Prospective contributions of biomass pyrolysis to China’s 2050 carbon reduction and renewable energy goals** (2021)
-   402 citations · BECCS
+5 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 5, General CDR 5. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Bioenergy with Carbon Capture and Storage (BECCS) developed by coupling a Pressurised Chemical Looping combustor with a turbo expander: How to optimize plant efficiency** (2022)
-   16 citations · BECCS
-
-3. **Evaluation of the effect of pressure and heat transfer on the efficiency of a batch fuel reactor, using Iron-based Oxygen Carrier with a CFD model** (2022)
-   6 citations · BECCS
-
-4. **Dimensioning Air Reactor and Fuel Reactor of a Pressurized CLC Plant to Be Coupled to a Gas Turbine: Part 2, the Fuel Reactor** (2023)
-   5 citations · BECCS
-
-5. **Pressurised Chemical Looping Combustion (PCLC): Air Reactor design** (2022)
-   2 citations · BECCS
-
-6. **Development of a Chemical Looping Combustor Fed With Natural Gas and Its Integration With a Gas Turbine in ASPEN Plus** (2023)
-   0 citations
-
-7. **Technical Evaluation of a Chemical Looping Combustor Fed With Biofuels And Its Integration With a Gas Turbine** (2022)
-   0 citations · BECCS
-
-8. **Development of a Chemical Looping Combustor fed with natural gas and its integration with a gas turbine in ASPEN Plus** (2023)
-   0 citations · BECCS
-
-9. **Bioenergy with Carbon Capture and Storage (BECCS) developed by coupling a Pressurised Chemical Looping combustor with a turbo expander: How to optimize plant efficiency** (2022)
-   0 citations
-
-10. **Design of the air reactor for a chemical looping combustion plant coupled with a turbo expander** (2022)
-   0 citations
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2023 | [Dimensioning Air Reactor and Fuel Reactor of a Pressurized CLC Plant to Be Coupled to a Gas Turbine: Part 2, the Fuel Reactor](https://doi.org/10.3390/en16093850) | BECCS; General CDR | 5 |
+| 2022 | [Bioenergy with Carbon Capture and Storage (BECCS) developed by coupling a Pressurised Chemical Looping combustor with a turbo expander: How to optimize plant efficiency](https://doi.org/10.1016/j.rser.2022.112851) | BECCS; General CDR | 16 |
+| 2022 | [Evaluation of the effect of pressure and heat transfer on the efficiency of a batch fuel reactor, using Iron-based Oxygen Carrier with a CFD model](https://doi.org/10.1016/j.fuel.2022.126266) | BECCS; General CDR | 6 |
+| 2022 | [Pressurised Chemical Looping Combustion (PCLC): Air Reactor design](https://doi.org/10.1088/1742-6596/2385/1/012127) | BECCS; General CDR | 2 |
+| 2021 | [Prospective contributions of biomass pyrolysis to China’s 2050 carbon reduction and renewable energy goals](https://doi.org/10.1038/s41467-021-21868-z) | BECCS; General CDR | 402 |
 
 ## External Profiles
 

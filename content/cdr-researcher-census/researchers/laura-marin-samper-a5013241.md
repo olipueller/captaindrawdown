@@ -1,7 +1,7 @@
 ---
 title: "Laura Marín-Samper"
 description: "Laura Marín-Samper is an Early-career Ocean CDR researcher at Universidad de Las Palmas de Gran Canaria in ES. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/laura-marin-samper-a5013241/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,20 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | CDR Focus | 47.1% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Stability of alkalinity in ocean alkalinity enhancement (OAE) approaches – consequences for durability of CO <sub>2</sub> storage** (2023)
-   180 citations · General CDR
+8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 8, General CDR 4. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Assessing the impact of CO <sub>2</sub> -equilibrated ocean alkalinity enhancement on microbial metabolic rates in an oligotrophic system** (2024)
-   25 citations · Ocean CDR
-
-3. **Stability of alkalinity in Ocean Alkalinity Enhancement (OAE) approaches – consequences for durability of CO <sub>2</sub> storage** (2022)
-   25 citations
-
-4. **Responses of microbial metabolic rates to non-equilibrated silicate- versus calcium-based ocean alkalinity enhancement** (2024)
-   8 citations · General CDR
-
-5. **Carbon fixation of a temperate plankton community in response to calcium- and silicate-based Ocean Alkalinity Enhancement using air-sea gas exchange measurements** (2026)
-   4 citations · Ocean CDR
-
-6. **Assessing the impact of CO <sub>2</sub> equilibrated ocean alkalinity enhancement on microbial metabolic rates in an oligotrophic system** (2023)
-   3 citations
-
-7. **Ocean alkalinity enhancement reduces silica ballasting during export due to amplified dissolution** (2026)
-   1 citations · General CDR
-
-8. **Air-sea gas exchange measurements helped derive in-situ organic and inorganic carbon fixation in response to Ocean Alkalinity Enhancement in a temperate plankton community** (2025)
-   1 citations · General CDR
-
-9. **Supplementary material to "Assessing the impact of CO <sub>2</sub> equilibrated ocean alkalinity enhancement on microbial metabolic rates in an oligotrophic system"** (2023)
-   1 citations · General CDR
-
-10. **Ocean alkalinity enhancement reduces silica ballasting during export due to amplified dissolution** (2026)
-   0 citations · Ocean CDR
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Carbon fixation of a temperate plankton community in response to calcium- and silicate-based Ocean Alkalinity Enhancement using air-sea gas exchange measurements](https://doi.org/10.5194/bg-23-137-2026) | Ocean CDR | 4 |
+| 2026 | [Ocean alkalinity enhancement reduces silica ballasting during export due to amplified dissolution](https://openalex.org/W7167673269) | General CDR; Ocean CDR | 1 |
+| 2026 | [Ocean alkalinity enhancement reduces silica ballasting during export due to amplified dissolution](https://doi.org/10.5194/egusphere-2026-1300) | Ocean CDR | 0 |
+| 2025 | [Air-sea gas exchange measurements helped derive in-situ organic and inorganic carbon fixation in response to Ocean Alkalinity Enhancement in a temperate plankton community](https://doi.org/10.5194/egusphere-2025-524) | General CDR; Ocean CDR | 1 |
+| 2024 | [Assessing the impact of CO <sub>2</sub> -equilibrated ocean alkalinity enhancement on microbial metabolic rates in an oligotrophic system](https://doi.org/10.5194/bg-21-2859-2024) | Ocean CDR | 25 |
+| 2024 | [Responses of microbial metabolic rates to non-equilibrated silicate- versus calcium-based ocean alkalinity enhancement](https://doi.org/10.5194/bg-21-5707-2024) | General CDR; Ocean CDR | 8 |
+| 2024 | [Responses of microbial metabolic rates to non-equilibrated silicate vs calcium-based ocean alkalinity enhancement](https://doi.org/10.5194/egusphere-2024-1776) | Ocean CDR | 0 |
+| 2023 | [Stability of alkalinity in ocean alkalinity enhancement (OAE) approaches – consequences for durability of CO <sub>2</sub> storage](https://doi.org/10.5194/bg-20-781-2023) | General CDR; Ocean CDR | 180 |
 
 ## External Profiles
 

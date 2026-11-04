@@ -1,7 +1,7 @@
 ---
 title: "Yuanfei Wang"
 description: "Yuanfei Wang is a Senior Biochar researcher at Qingdao University in CN. With 155 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/yuanfei-wang-a5101455/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,21 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | CDR Focus | 5.2% |
 | Trajectory | Growing |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Modulation of ciprofloxacin adsorption conjugation effect by specific conformation of manganese-nitrogen co-doped biochar and its mechanistic study** (2025)
-   28 citations · Biochar
+9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 9, Soil Carbon 7. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Preparation of Mn modified waste dander biochar and its effect on soil carbon sequestration** (2024)
-   17 citations
-
-3. **Effect of waste leather dander biochar on soil organic carbon sequestration** (2024)
-   16 citations · Biochar
-
-4. **Study on the synergistic carbon sequestration mechanism of Firmicutes in soil induced by highly conjugated Fe2O3@leather scraps-derived collagen-based biochar** (2025)
-   5 citations · Biochar
-
-5. **MnSO4-modified woodchip biochar “dual fixation” mechanism: Functional group-electron synergistic stabilization of heavy metals and carbon structure** (2025)
-   5 citations · Biochar
-
-6. **Oxygen-limited pyrolysis drives biochar-clay mineral interface composite for synergistic improvement of soil quality and carbon sequestration** (2025)
-   3 citations · Biochar
-
-7. **Fe-Mn modified biochar achieves Cu and Pb stabilization and soil carbon sequestration by breaking the electronic supply restrictions of the material** (2025)
-   1 citations · Biochar
-
-8. **Shoot two birds with one stone: chemical and biological mechanisms of calcium-phosphorus modification for enhancing carbon sequestration and heavy metal stabilization of biochar** (2026)
-   0 citations · Biochar
-
-9. **Preparation of Mn Modified Waste Dander Biochar and its Effect on Soil Carbon Sequestration** (2023)
-   0 citations
-
-10. **Effects of Temperature on Properties of Waste Leather Dander Biochar and its Effect on Soil Organic Carbon Sequestration** (2023)
-   0 citations · Biochar
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Shoot two birds with one stone: chemical and biological mechanisms of calcium-phosphorus modification for enhancing carbon sequestration and heavy metal stabilization of biochar](https://openalex.org/W7203725413) | Biochar | 0 |
+| 2025 | [Modulation of ciprofloxacin adsorption conjugation effect by specific conformation of manganese-nitrogen co-doped biochar and its mechanistic study](https://doi.org/10.1016/j.seppur.2025.132304) | Biochar | 28 |
+| 2025 | [MnSO4-modified woodchip biochar “dual fixation” mechanism: Functional group-electron synergistic stabilization of heavy metals and carbon structure](https://doi.org/10.1016/j.jece.2025.116706) | Biochar; Soil Carbon | 5 |
+| 2025 | [Study on the synergistic carbon sequestration mechanism of Firmicutes in soil induced by highly conjugated Fe2O3@leather scraps-derived collagen-based biochar](https://doi.org/10.1016/j.ijbiomac.2025.143760) | Biochar; Soil Carbon | 5 |
+| 2025 | [Oxygen-limited pyrolysis drives biochar-clay mineral interface composite for synergistic improvement of soil quality and carbon sequestration](https://doi.org/10.1016/j.colsurfa.2025.138768) | Biochar; Soil Carbon | 3 |
+| 2025 | [Fe-Mn modified biochar achieves Cu and Pb stabilization and soil carbon sequestration by breaking the electronic supply restrictions of the material](https://doi.org/10.1016/j.seppur.2025.135563) | Biochar; Soil Carbon | 1 |
+| 2024 | [Effect of waste leather dander biochar on soil organic carbon sequestration](https://doi.org/10.1016/j.jece.2024.112633) | Biochar; Soil Carbon | 16 |
+| 2023 | [Preparation of Mn Modified Waste Dander Biochar and its Effect on Soil Carbon Sequestration](http://dx.doi.org/10.2139/ssrn.4561950) | Biochar; Soil Carbon | 0 |
+| 2023 | [Effects of Temperature on Properties of Waste Leather Dander Biochar and its Effect on Soil Organic Carbon Sequestration](http://dx.doi.org/10.2139/ssrn.4604038) | Biochar; Soil Carbon | 0 |
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Junyao Wang"
 description: "Junyao Wang is a Senior General CDR researcher at Anhui Jianzhu University in CN. With 176 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/junyao-wang-a5102012/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | CDR Focus | 3.4% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Energetic and Life Cycle Assessment of Direct Air Capture: A Review** (2022)
-   52 citations · DAC
+7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 6, DAC 5, BECCS 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Can bioenergy with carbon capture and storage deliver negative emissions? A critical review of life cycle assessment** (2023)
-   36 citations · BECCS
-
-3. **Solar thermal energy-assisted direct capture of CO2 from ambient air for methanol synthesis** (2024)
-   33 citations · DAC
-
-4. **Critical review on mobile direct air capture: Concept expansion, characteristic description, and performance evaluation** (2024)
-   27 citations
-
-5. **Direct air capture-assisted sustainable fuel solution in maritime sector: a carbon footprint perspective** (2025)
-   10 citations · DAC
-
-6. **Mapping innovations in direct air capture: A systematic patent review and literature comparison** (2025)
-   7 citations · DAC
-
-7. **A multi-node thermodynamic model on temperature-vacuum swing adsorption (TVSA) for carbon capture: Process design and performance analysis** (2024)
-   5 citations
-
-8. **Exploring the Sustainability of Direct Air Capture Technologies: An Integrated Analysis from Energy, Emergy and Environmental Perspectives** (2026)
-   0 citations · DAC
-
-9. **Numerical analysis on energy and exergy performance of cascade electrical-temperature vacuum swing adsorption (C-ETVSA) for direct air capture: A parametric effect study** (2025)
-   0 citations
-
-10. **A Multi-Node Thermodynamic Model on Temperature-Vacuum Swing Absorption (Tvsa) for Carbon Capture: Process Design and Performance Analysis** (2024)
-   0 citations · General CDR
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Exploring the Sustainability of Direct Air Capture Technologies: An Integrated Analysis from Energy, Emergy and Environmental Perspectives](https://openalex.org/W7220869093) | DAC | 0 |
+| 2025 | [Direct air capture-assisted sustainable fuel solution in maritime sector: a carbon footprint perspective](https://doi.org/10.1007/s44246-025-00209-5) | DAC; General CDR | 10 |
+| 2025 | [Mapping innovations in direct air capture: A systematic patent review and literature comparison](https://doi.org/10.1016/j.rser.2025.116491) | DAC; General CDR | 7 |
+| 2024 | [Solar thermal energy-assisted direct capture of CO2 from ambient air for methanol synthesis](https://doi.org/10.1038/s44296-024-00014-y) | DAC; General CDR | 33 |
+| 2024 | [A Multi-Node Thermodynamic Model on Temperature-Vacuum Swing Absorption (Tvsa) for Carbon Capture: Process Design and Performance Analysis](http://dx.doi.org/10.2139/ssrn.4859721) | General CDR | 0 |
+| 2023 | [Can bioenergy with carbon capture and storage deliver negative emissions? A critical review of life cycle assessment](https://doi.org/10.1016/j.jclepro.2023.139839) | BECCS; General CDR | 36 |
+| 2022 | [Energetic and Life Cycle Assessment of Direct Air Capture: A Review](https://doi.org/10.1016/j.spc.2022.12.017) | DAC; General CDR | 52 |
 
 ## External Profiles
 

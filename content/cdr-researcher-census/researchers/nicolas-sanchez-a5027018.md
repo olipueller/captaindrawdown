@@ -1,7 +1,7 @@
 ---
 title: "Nicolás Sánchez"
 description: "Nicolás Sánchez is a Senior Ocean CDR researcher at Norwegian University of Science and Technology in NO. With 54 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/nicolas-sanchez-a5027018/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,23 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | CDR Focus | 11.1% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Plankton food web structure and productivity under ocean alkalinity enhancement** (2024)
-   29 citations · General CDR
+11 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 11, General CDR 3. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Early life stages of fish under ocean alkalinity enhancement in coastal plankton communities** (2024)
-   23 citations · Ocean CDR
-
-3. **Ocean alkalinity enhancement in an open-ocean ecosystem: biogeochemical responses and carbon storage durability** (2025)
-   19 citations · Ocean CDR
-
-4. **Supplementary material to "Ocean alkalinity enhancement in an open ocean ecosystem: Biogeochemical responses and carbon storage durability"** (2024)
-   8 citations · General CDR
-
-5. **Viability of coastal fish larvae under ocean alkalinity enhancement: from organisms to communities** (2024)
-   6 citations · Ocean CDR
-
-6. **Ocean alkalinity enhancement in an open ocean ecosystem: Biogeochemical responses and carbon storage durability** (2024)
-   4 citations · General CDR
-
-7. **Ecosystem impacts of Ocean Alkalization in an oligotrophic marine plankton community: A mesocosm study** (2023)
-   2 citations · Ocean CDR
-
-8. **Resilience of the gelatinous zooplankton species Oikopleura dioica to ocean alkalinity enhancement** (2026)
-   1 citations · General CDR
-
-9. **A sequential gated research framework for addressing potential impacts of marine carbon dioxide removal on fisheries, aquaculture, and Indigenous communities** (2026)
-   0 citations · General CDR
-
-10. **Figs 1–14 in KOSMOS 2021 Gran Canaria mesocosm study on ocean alkalinity enhancement: metazoan zooplankton carbon biomass** (2024)
-   0 citations · Ocean CDR
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Resilience of the gelatinous zooplankton species Oikopleura dioica to ocean alkalinity enhancement](https://openalex.org/W7143297560) | General CDR; Ocean CDR | 1 |
+| 2026 | [A sequential gated research framework for addressing potential impacts of marine carbon dioxide removal on fisheries, aquaculture, and Indigenous communities](https://openalex.org/W7167793936) | General CDR; Ocean CDR | 0 |
+| 2025 | [Ocean alkalinity enhancement in an open-ocean ecosystem: biogeochemical responses and carbon storage durability](https://doi.org/10.5194/bg-22-2749-2025) | Ocean CDR | 19 |
+| 2024 | [Plankton food web structure and productivity under ocean alkalinity enhancement](https://doi.org/10.1126/sciadv.ado0264) | General CDR; Ocean CDR | 29 |
+| 2024 | [Early life stages of fish under ocean alkalinity enhancement in coastal plankton communities](https://doi.org/10.5194/bg-21-4521-2024) | Ocean CDR | 23 |
+| 2024 | [Viability of coastal fish larvae under ocean alkalinity enhancement: from organisms to communities](https://doi.org/10.5194/egusphere-2024-286) | Ocean CDR | 6 |
+| 2024 | [Figs 1–14 in KOSMOS 2021 Gran Canaria mesocosm study on ocean alkalinity enhancement: metazoan zooplankton carbon biomass](https://openalex.org/W7163130671) | Ocean CDR | 0 |
+| 2024 | [Figs 15–24 in KOSMOS 2021 Gran Canaria mesocosm study on ocean alkalinity enhancement: metazoan zooplankton carbon biomass](https://openalex.org/W7163157828) | Ocean CDR | 0 |
+| 2024 | [Figs 15–24 in KOSMOS 2021 Gran Canaria mesocosm study on ocean alkalinity enhancement: metazoan zooplankton carbon biomass](https://openalex.org/W7163158498) | Ocean CDR | 0 |
+| 2024 | [Figs 1–14 in KOSMOS 2021 Gran Canaria mesocosm study on ocean alkalinity enhancement: metazoan zooplankton carbon biomass](https://openalex.org/W7163176600) | Ocean CDR | 0 |
+| 2023 | [Ecosystem impacts of Ocean Alkalization in an oligotrophic marine plankton community: A mesocosm study](https://doi.org/10.5194/egusphere-egu23-15436) | Ocean CDR | 2 |
 
 ## External Profiles
 

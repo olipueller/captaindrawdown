@@ -1,7 +1,7 @@
 ---
 title: "T. Alan Hatton"
 description: "T. Alan Hatton is an Eminent General CDR researcher at Massachusetts Institute of Technology in US. With 606 publications and an h-index of 109, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/t-alan-hatton-a5046348/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,23 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | CDR Focus | 1.8% |
 | Trajectory | Growing |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Continuous carbon capture in an electrochemical solid-electrolyte reactor** (2023)
-   267 citations
+11 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 9, Ocean CDR 8, DAC 5. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Electrochemical direct air capture of CO2 using neutral red as reversible redox-active material** (2023)
-   164 citations
-
-3. **Electrochemical Carbon Dioxide Capture and Release with a Redox-Active Amine** (2022)
-   147 citations · DAC
-
-4. **Electrochemically Mediated Direct CO<sub>2</sub> Capture by a Stackable Bipolar Cell** (2022)
-   77 citations
-
-5. **Redox-Mediated pH Swing Systems for Electrochemical Carbon Capture** (2023)
-   59 citations
-
-6. **Visible Light-Driven CO<sub>2</sub> Capture and Release Using Photoactive Pyranine in Water in Continuous Flow** (2024)
-   34 citations
-
-7. **Rail-based direct air carbon capture** (2022)
-   27 citations
-
-8. **Nondimensional Analysis of a Hollow Fiber Membrane Contactor for Direct Air Capture** (2022)
-   18 citations
-
-9. **Electrochemical direct air capture and direct ocean capture: The next frontier in carbon removal** (2024)
-   13 citations · DAC
-
-10. **Design of Electrified Fiber Sorbents for Direct Air Capture with Electrically‐Driven Temperature Vacuum Swing Adsorption** (2025)
-   5 citations
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [A Compact Hollow Fiber Electrode Assembly Architecture for Continuous Electrochemical Marine Carbon Dioxide Removal](https://openalex.org/W7165182037) | General CDR; Ocean CDR | 0 |
+| 2026 | [Thermodynamics of Marine Carbon Dioxide Removal](https://openalex.org/W7168599978) | DAC; General CDR; Ocean CDR | 0 |
+| 2026 | [pH Swing Systems for Electrified Separation Processes](https://openalex.org/W7168622474) | Ocean CDR | 0 |
+| 2026 | [A Bismuth-Driven Flow-through pH Swing Architecture for Membrane-Free Seawater Carbon Removal](https://openalex.org/W7168749027) | General CDR; Ocean CDR | 0 |
+| 2026 | [Bismuth-Driven Flow-Through pH Swing Architecture for Membrane-Free Electrochemical Marine Carbon Removal](https://openalex.org/W7172424872) | General CDR; Ocean CDR | 0 |
+| 2026 | [Electrochemically Driven Sorbent-Mediated Recovery of CO2 in Marine Inorganic Carbon Extraction Processes](https://openalex.org/W7202115631) | General CDR; Ocean CDR | 0 |
+| 2025 | [Feasibility and Design of Distributed Carbon Dioxide Capture Networks in Urban Environments](https://doi.org/10.1021/acssuschemeng.5c03456) | General CDR | 3 |
+| 2024 | [Electrochemical direct air capture and direct ocean capture: The next frontier in carbon removal](https://doi.org/10.1016/j.chempr.2023.12.015) | DAC; General CDR; Ocean CDR | 13 |
+| 2024 | [Thermodynamics of Electrochemical Marine Inorganic Carbon Removal](https://doi.org/10.1021/acs.est.4c05721) | DAC; Ocean CDR | 4 |
+| 2023 | [(Invited) Electro-Swing Adsorption for CO<sub>2</sub> Emissions Mitigation – from Concept to Start-up](https://doi.org/10.1149/ma2023-01271760mtgabs) | DAC; General CDR | 1 |
+| 2022 | [Electrochemical Carbon Dioxide Capture and Release with a Redox-Active Amine](https://doi.org/10.1021/jacs.1c10656) | DAC; General CDR | 147 |
 
 ## External Profiles
 

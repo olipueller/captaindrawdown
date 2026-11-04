@@ -1,7 +1,7 @@
 ---
 title: "Brian P. Setzler"
 description: "Brian P. Setzler is a Mid-career DAC researcher at University of Delaware in US. With 70 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/brian-p-setzler-a5046492/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | CDR Focus | 7.1% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Hydrogen-powered Electrochemically-driven CO<sub>2</sub> Removal from Air Containing 400 to 5000 ppm CO<sub>2</sub>** (2022)
-   7 citations
+7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 6, General CDR 3. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **A Ni(OH)2 symmetric battery cell for hydroxide exchange membrane-based direct air capture of CO2** (2026)
-   0 citations · DAC
-
-3. **A Modeling Study of Anion Exchange Membrane-Based Electrochemical H <sub>2</sub> Pump CO <sub>2</sub> Separator with Direct Air Capture** (2026)
-   0 citations · DAC
-
-4. **An Internally-Recycling Electrochemical Hydrogen Pump for Direct Air Capture** (2026)
-   0 citations · DAC
-
-5. **Demonstration of an Electrochemically-Driven Multi-Cell Stack Using Shorted Anion Exchange Membranes for Spacecraft Cabin Air Revitalization** (2023)
-   0 citations · General CDR
-
-6. **Model-Driven Analysis of Ion Transport for High Electron Efficiency Membrane-Based Electrochemical CO <sub>2</sub> Capture** (2026)
-   0 citations · DAC
-
-7. **Scalable H2-redox-mediated direct air capture powered by renewable electricity** (2025)
-   0 citations
-
-8. **Electrochemically driven carbon dioxide separation** (2024)
-   0 citations
-
-9. **Hydroxide exchange membrane carbon capture using a nickel hydroxide symmetric battery cell** (2025)
-   0 citations
-
-10. **Hydroxide Exchange Membrane Carbon Capture (HEMCC) Using Nickel Hydroxide Batteries and Flow-through Membranes** (2024)
-   0 citations · DAC
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Model-Driven Analysis of Ion Transport for High Electron Efficiency Membrane-Based Electrochemical CO <sub>2</sub> Capture](https://openalex.org/W7140105208) | DAC | 0 |
+| 2026 | [An Internally-Recycling Electrochemical Hydrogen Pump for Direct Air Capture](https://openalex.org/W7168516607) | DAC | 0 |
+| 2026 | [A Modeling Study of Anion Exchange Membrane-Based Electrochemical H <sub>2</sub> Pump CO <sub>2</sub> Separator with Direct Air Capture](https://openalex.org/W7169039065) | DAC | 0 |
+| 2026 | [A Ni(OH)2 symmetric battery cell for hydroxide exchange membrane-based direct air capture of CO2](https://openalex.org/W7213973458) | DAC | 0 |
+| 2024 | [Controlling Current Distributions in a Hydrogen Powered Fuel Cell Hydroxide Exchange Membrane Carbon Capture Device](https://doi.org/10.1149/ma2024-02463212mtgabs) | DAC; General CDR | 0 |
+| 2024 | [Hydroxide Exchange Membrane Carbon Capture (HEMCC) Using Nickel Hydroxide Batteries and Flow-through Membranes](https://doi.org/10.1149/ma2024-02121mtgabs) | DAC; General CDR | 0 |
+| 2023 | [Demonstration of an Electrochemically-Driven Multi-Cell Stack Using Shorted Anion Exchange Membranes for Spacecraft Cabin Air Revitalization](https://openalex.org/W7160327947) | General CDR | 0 |
 
 ## External Profiles
 

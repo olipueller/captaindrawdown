@@ -1,7 +1,7 @@
 ---
 title: "Viola Becattini"
 description: "Viola Becattini is a Mid-career General CDR researcher at ETH Zurich in CH. With 58 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/viola-becattini-a5055416/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,34 +48,20 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | CDR Focus | 13.8% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Role of Carbon Capture, Storage, and Utilization to Enable a Net-Zero-CO<sub>2</sub>-Emissions Aviation Sector** (2021)
-   153 citations · DAC
+8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 8, DAC 5, BECCS 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **How to make climate-neutral aviation fly** (2023)
-   134 citations
-
-3. **Carbon dioxide mineralization in recycled concrete aggregates can contribute immediately to carbon-neutrality** (2022)
-   102 citations · BECCS
-
-4. **Assessment of Potential and Techno-Economic Performance of Solid Sorbent Direct Air Capture with CO<sub>2</sub> Storage in Europe** (2024)
-   69 citations · DAC
-
-5. **Cost-Effective Locations for Producing Fuels and Chemicals from Carbon Dioxide and Low-Carbon Hydrogen in the Future** (2024)
-   19 citations · DAC
-
-6. **Carbon Dioxide Reduction and Removal toward Net-Zero: A Needed Change of Narrative** (2025)
-   2 citations · BECCS
-
-7. **ACCSESS Project: Providing access to cost-efficient, replicable, safe and flexible CCUS** (2022)
-   2 citations · General CDR
-
-8. **Enhanced Oil Recovery using carbon dioxide directly captured from air does not enable carbon-neutral oil** (2025)
-   1 citations · DAC
-
-9. **Climate-neutral aviation: will it fly?** (2022)
-   1 citations · General CDR
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2025 | [Carbon Dioxide Reduction and Removal toward Net-Zero: A Needed Change of Narrative](https://doi.org/10.1021/acs.iecr.5c00684) | BECCS; DAC; General CDR | 2 |
+| 2025 | [Enhanced Oil Recovery using carbon dioxide directly captured from air does not enable carbon-neutral oil](https://doi.org/10.31223/x55x4s) | DAC; General CDR | 1 |
+| 2024 | [Assessment of Potential and Techno-Economic Performance of Solid Sorbent Direct Air Capture with CO<sub>2</sub> Storage in Europe](https://doi.org/10.1021/acs.est.3c10041) | DAC; General CDR | 69 |
+| 2024 | [Cost-Effective Locations for Producing Fuels and Chemicals from Carbon Dioxide and Low-Carbon Hydrogen in the Future](https://doi.org/10.1021/acs.iecr.4c01287) | DAC; General CDR | 19 |
+| 2022 | [Carbon dioxide mineralization in recycled concrete aggregates can contribute immediately to carbon-neutrality](https://doi.org/10.1016/j.resconrec.2022.106436) | BECCS; General CDR | 102 |
+| 2022 | [ACCSESS Project: Providing access to cost-efficient, replicable, safe and flexible CCUS](https://doi.org/10.2139/ssrn.4282876) | General CDR | 2 |
+| 2022 | [Climate-neutral aviation: will it fly?](https://doi.org/10.21203/rs.3.rs-2185970/v1) | General CDR | 1 |
+| 2021 | [Role of Carbon Capture, Storage, and Utilization to Enable a Net-Zero-CO<sub>2</sub>-Emissions Aviation Sector](https://doi.org/10.1021/acs.iecr.0c05392) | DAC; General CDR | 153 |
 
 ## External Profiles
 

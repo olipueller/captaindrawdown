@@ -1,7 +1,7 @@
 ---
 title: "Xuancan Zhu"
 description: "Xuancan Zhu is a Senior DAC researcher at Shanghai Jiao Tong University in CN. With 46 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/xuancan-zhu-a5072713/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | CDR Focus | 15.2% |
 | Trajectory | Growing |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Recent advances in direct air capture by adsorption** (2022)
-   460 citations
+7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 6, General CDR 3. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Operating temperatures affect direct air capture of CO2 in polyamine-loaded mesoporous silica** (2021)
-   153 citations
-
-3. **Mixed Diethanolamine and Polyethyleneimine with Enhanced CO<sub>2</sub> Capture Capacity from Air** (2023)
-   67 citations
-
-4. **Modified layered double hydroxides for efficient and reversible carbon dioxide capture from air** (2021)
-   58 citations
-
-5. **The analysis and evaluation of direct air capture adsorbents on the material characterization level** (2022)
-   53 citations
-
-6. **Facile synthesis of structured adsorbent with enhanced hydrophobicity and low energy consumption for CO2 capture from the air** (2023)
-   48 citations
-
-7. **Mixed polyamines promotes CO2 adsorption from air** (2022)
-   46 citations
-
-8. **Additives enhancing supported amines performance in CO<sub>2</sub> capture from air** (2023)
-   33 citations
-
-9. **Innovative process integrating high temperature heat pump and direct air capture** (2023)
-   31 citations
-
-10. **3D printing of poly(ethyleneimine)-functionalized Mg-Al mixed metal oxide monoliths for direct air capture of CO2** (2024)
-   30 citations
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Generic modeling framework for direct air capture by temperature swing adsorption](https://openalex.org/W7160088113) | DAC | 1 |
+| 2026 | [Efficient Adsorption‐Based Direct Air Capture Via Triply Periodic Minimal Surface Architectures](https://openalex.org/W7167709412) | DAC | 0 |
+| 2026 | [A pathway to next-generation direct air capture using adsorbents](https://openalex.org/W7169856455) | DAC | 0 |
+| 2026 | [A Mechanistic Framework for CO2 Adsorption over PEI-Functionalized LDO Adsorbents under Coupled Humidity and Temperature Conditions](https://openalex.org/W7204920967) | DAC | 0 |
+| 2025 | [Integrated power to methanol processes with steam-assisted direct air capture](https://doi.org/10.1016/j.enconman.2025.119505) | DAC; General CDR | 11 |
+| 2023 | [Frontier science and challenges on offshore carbon storage](https://doi.org/10.1007/s11783-023-1680-6) | General CDR | 29 |
+| 2021 | [Large-scale applications and challenges of adsorption-based carbon capture technologies](https://doi.org/10.1360/tb-2021-0017) | DAC; General CDR | 17 |
 
 ## External Profiles
 

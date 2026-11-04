@@ -1,7 +1,7 @@
 ---
 title: "Sabine Fuss"
 description: "Sabine Fuss is an Eminent General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 233 publications and an h-index of 48, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/sabine-fuss-a5011197/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,48 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | CDR Focus | 15.5% |
 | Trajectory | Growing |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Overconfidence in climate overshoot** (2024)
-   178 citations · General CDR
+36 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 36, BECCS 4, Enhanced Weathering 3, Ocean CDR 1, Biochar 1, Soil Carbon 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Atmospheric methane removal: a research agenda** (2021)
-   123 citations · General CDR
-
-3. **Net-zero approaches must consider Earth system impacts to achieve climate goals** (2023)
-   90 citations · General CDR
-
-4. **Assessing global urban CO2 removal** (2024)
-   63 citations · General CDR
-
-5. **The BECCS Implementation Gap–A Swedish Case Study** (2021)
-   59 citations · BECCS
-
-6. **Ten new insights in climate science 2023** (2023)
-   47 citations · General CDR
-
-7. **A taxonomy to map evidence on the co-benefits, challenges, and limits of carbon dioxide removal** (2024)
-   40 citations · General CDR
-
-8. **Understanding the carbon dioxide removal range in 1.5 °C compatible and high overshoot pathways** (2023)
-   37 citations · General CDR
-
-9. **Scientific literature on carbon dioxide removal revealed as much larger through AI-enhanced systematic mapping** (2025)
-   20 citations · General CDR
-
-10. **Doing burden-sharing right to deliver natural climate solutions for carbon dioxide removal** (2022)
-   17 citations · General CDR
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Ten new insights in climate science 2025](https://doi.org/10.1017/sus.2025.10043) | General CDR | 8 |
+| 2026 | [Biodiversity implications of land-intensive carbon dioxide removal](https://doi.org/10.1038/s41558-026-02557-5) | BECCS; General CDR | 7 |
+| 2026 | [Assessing urban green roofs for CO2 removal via enhanced rock weathering in Europe](https://openalex.org/W7154580618) | Enhanced Weathering; General CDR | 1 |
+| 2026 | [What do we know about the albedo effect of afforestation and reforestation? A systematic synthesis of the scientific literature](https://openalex.org/W7154617440) | General CDR | 1 |
+| 2026 | [An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering](https://openalex.org/W7168623015) | Enhanced Weathering; General CDR | 1 |
+| 2026 | [Urban Green Roofs for CO2 Removal via Enhanced Rock Weathering in Europe](https://doi.org/10.2139/ssrn.6138381) | Enhanced Weathering; General CDR | 0 |
+| 2026 | [Ten New Insights in Climate Science 2025](https://openalex.org/W7138993999) | General CDR; Ocean CDR | 0 |
+| 2026 | [The State of Carbon Dioxide Removal - 3rd Edition (2026)](https://openalex.org/W7153562439) | General CDR | 0 |
+| 2026 | [Chapter 10: Costs and Potentials, The State of Carbon Dioxide Removal - 3rd Edition (2026)](https://openalex.org/W7153632065) | General CDR | 0 |
+| 2026 | [Techno-economics and value judgments of modeling biochar production for carbon removal in climate change mitigation scenarios](https://openalex.org/W7203500345) | BECCS; Biochar; General CDR | 0 |
+| 2026 | [Cities need robust carbon dioxide removal strategies to meet net-zero targets](https://openalex.org/W7203675938) | General CDR | 0 |
+| 2026 | [Mapping conflicts in carbon removal narratives](https://openalex.org/W7212065601) | General CDR | 0 |
+| 2025 | [Scientific literature on carbon dioxide removal revealed as much larger through AI-enhanced systematic mapping](https://doi.org/10.1038/s41467-025-61485-8) | General CDR | 20 |
+| 2025 | [Deep uncertainty in carbon dioxide removal portfolios](https://doi.org/10.1088/1748-9326/adc613) | General CDR | 9 |
+| 2025 | [Carbon markets for carbon dioxide removal](https://doi.org/10.1080/14693062.2025.2478288) | General CDR | 8 |
+| 2025 | [Imputation of missing land carbon sequestration data in the AR6 Scenarios Database](https://doi.org/10.5194/essd-17-221-2025) | General CDR; Soil Carbon | 2 |
+| 2025 | [Learning increases both acceptability and scrutiny of carbon dioxide removal methods: quasi-experimental evidence](https://doi.org/10.1088/1748-9326/ae0b93) | General CDR | 1 |
+| 2025 | [Unpacking uncertainty in Carbon Dioxide Removal requirements](https://doi.org/10.5194/egusphere-egu25-5917) | General CDR | 0 |
+| 2025 | [Warming versus land-intensive mitigation impact on biodiversity refugia across climate policy scenarios](https://doi.org/10.5194/egusphere-egu25-9028) | BECCS; General CDR | 0 |
+| 2025 | [Ten New Insights in Climate Science 2025 (accepted manuscript)](https://doi.org/10.5281/zenodo.18026053) | General CDR | 0 |
+| 2024 | [Overconfidence in climate overshoot](https://doi.org/10.1038/s41586-024-08020-9) | General CDR | 178 |
+| 2024 | [Assessing global urban CO2 removal](https://doi.org/10.1038/s44284-024-00069-x) | General CDR | 63 |
+| 2024 | [A taxonomy to map evidence on the co-benefits, challenges, and limits of carbon dioxide removal](https://doi.org/10.1038/s43247-024-01365-z) | General CDR | 40 |
+| 2024 | [Scientific literature on carbon dioxide removal much larger than previously suggested: insights from an AI-enhanced systematic map](https://doi.org/10.21203/rs.3.rs-4109712/v1) | General CDR | 7 |
+| 2024 | [Cleaning Up After Ourselves: The Role of Carbon Dioxide Removal](http://dx.doi.org/10.3389/frym.2024.1345470) | General CDR | 1 |
+| 2024 | [Spatial analysis of CDR implications for global biodiversity refugia](https://doi.org/10.5194/egusphere-egu24-1645) | General CDR | 0 |
+| 2024 | [Multi-purpose afforestation scenarios under climate change for carbon dioxide reduction&amp;#160;](https://doi.org/10.5194/egusphere-egu24-19777) | General CDR | 0 |
+| 2023 | [Net-zero approaches must consider Earth system impacts to achieve climate goals](https://doi.org/10.1038/s41558-023-01862-7) | General CDR | 90 |
+| 2023 | [Ten new insights in climate science 2023](https://doi.org/10.1017/sus.2023.25) | General CDR | 47 |
+| 2023 | [Understanding the carbon dioxide removal range in 1.5 °C compatible and high overshoot pathways](https://doi.org/10.1088/2515-7620/accdba) | General CDR | 37 |
+| 2023 | [Specialty grand challenge: renaming our section to “Carbon Dioxide Removal”](https://doi.org/10.3389/fclim.2023.1279109) | General CDR | 6 |
+| 2023 | [Towards carbon-neutral cities: an assessment of urban CO2 removal and albedo management](https://doi.org/10.21203/rs.3.rs-3189692/v1) | General CDR | 3 |
+| 2023 | [A new taxonomy to map evidence on carbon dioxide removal side effects](https://doi.org/10.21203/rs.3.rs-3697442/v1) | General CDR | 3 |
+| 2022 | [Doing burden-sharing right to deliver natural climate solutions for carbon dioxide removal](https://doi.org/10.1016/j.nbsj.2022.100048) | General CDR | 17 |
+| 2021 | [Atmospheric methane removal: a research agenda](https://doi.org/10.1098/rsta.2020.0454) | General CDR | 123 |
+| 2021 | [The BECCS Implementation Gap–A Swedish Case Study](https://doi.org/10.3389/fenrg.2020.553400) | BECCS; General CDR | 59 |
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Nina Zeyen"
 description: "Nina Zeyen is a Mid-career Enhanced Weathering researcher at University of Geneva in CH. With 60 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/nina-zeyen-a5054079/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,34 +48,21 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | CDR Focus | 15.0% |
 | Trajectory | Exiting |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Evaluating feedstocks for carbon dioxide removal by enhanced rock weathering and CO2 mineralization** (2021)
-   57 citations · Enhanced Weathering
+9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 9, General CDR 5, DAC 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Direct measurement of CO2 drawdown in mine wastes and rock powders: Implications for enhanced rock weathering** (2021)
-   45 citations · Enhanced Weathering
-
-3. **Unlocking the potential of hydraulic fracturing flowback and produced water for CO2 removal via mineral carbonation** (2022)
-   32 citations · DAC
-
-4. **Cation Exchange in Smectites as a New Approach to Mineral Carbonation** (2022)
-   30 citations · Enhanced Weathering
-
-5. **Geochemical modeling of CO2 sequestration in ultramafic mine wastes from Australia, Canada, and South Africa: Implications for carbon accounting and monitoring** (2023)
-   28 citations · Enhanced Weathering
-
-6. **Impact of wet-dry cycles on enhanced rock weathering of brucite, wollastonite, serpentinite and kimberlite: Implications for carbon verification** (2023)
-   17 citations · Enhanced Weathering
-
-7. **Weathering and cementation of historic kimberlite residues from South Africa: Implications for residue stabilization and CO2 sequestration** (2024)
-   6 citations · Enhanced Weathering
-
-8. **Changes to the mineralogical, geochemical, and isotopic compositions of mineral feedstocks during enhanced rock weathering: Implications for carbon verification** (2022)
-   0 citations · Enhanced Weathering
-
-9. **Direct measurement of CO<sub>2</sub> fluxes into kimberlite residues and powdered rocks: Implications for enhanced weathering** (2021)
-   0 citations · Enhanced Weathering
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2024 | [Weathering and cementation of historic kimberlite residues from South Africa: Implications for residue stabilization and CO2 sequestration](https://doi.org/10.1016/j.scitotenv.2024.177094) | Enhanced Weathering; General CDR | 6 |
+| 2023 | [Geochemical modeling of CO2 sequestration in ultramafic mine wastes from Australia, Canada, and South Africa: Implications for carbon accounting and monitoring](https://doi.org/10.1016/j.apgeochem.2023.105630) | Enhanced Weathering; General CDR | 28 |
+| 2023 | [Impact of wet-dry cycles on enhanced rock weathering of brucite, wollastonite, serpentinite and kimberlite: Implications for carbon verification](https://doi.org/10.1016/j.chemgeo.2023.121674) | Enhanced Weathering | 17 |
+| 2022 | [Unlocking the potential of hydraulic fracturing flowback and produced water for CO2 removal via mineral carbonation](https://doi.org/10.1016/j.apgeochem.2022.105345) | DAC; Enhanced Weathering | 32 |
+| 2022 | [Cation Exchange in Smectites as a New Approach to Mineral Carbonation](https://doi.org/10.3389/fclim.2022.913632) | Enhanced Weathering; General CDR | 30 |
+| 2022 | [Changes to the mineralogical, geochemical, and isotopic compositions of mineral feedstocks during enhanced rock weathering: Implications for carbon verification](https://doi.org/10.46427/gold2022.11368) | Enhanced Weathering; General CDR | 0 |
+| 2021 | [Evaluating feedstocks for carbon dioxide removal by enhanced rock weathering and CO2 mineralization](https://doi.org/10.1016/j.apgeochem.2021.104955) | Enhanced Weathering; General CDR | 57 |
+| 2021 | [Direct measurement of CO2 drawdown in mine wastes and rock powders: Implications for enhanced rock weathering](https://doi.org/10.1016/j.ijggc.2021.103554) | Enhanced Weathering | 45 |
+| 2021 | [Direct measurement of CO<sub>2</sub> fluxes into kimberlite residues and powdered rocks: Implications for enhanced weathering](https://doi.org/10.7185/gold2021.4858) | Enhanced Weathering | 0 |
 
 ## External Profiles
 

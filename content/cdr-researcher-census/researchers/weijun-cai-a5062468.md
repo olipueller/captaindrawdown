@@ -1,7 +1,7 @@
 ---
 title: "Wei‐Jun Cai"
 description: "Wei‐Jun Cai is an Eminent Ocean CDR researcher at University of Delaware in US. With 512 publications and an h-index of 91, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/weijun-cai-a5062468/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,23 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | CDR Focus | 2.1% |
 | Trajectory | Growing |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Carbon Fluxes in the Coastal Ocean: Synthesis, Boundary Processes, and Future Trends** (2022)
-   245 citations · General CDR
+11 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 10, General CDR 4, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Wastewater alkalinity addition as a novel approach for ocean negative carbon emissions** (2022)
-   38 citations · General CDR
-
-3. **Why are Surface Ocean pH and CaCO<sub>3</sub> Saturation State Often out of Phase in Spatial Patterns and Seasonal Cycles?** (2021)
-   31 citations · Ocean CDR
-
-4. **Seasonal Mixing and Biological Controls of the Carbonate System in a River-Dominated Continental Shelf Subject to Eutrophication and Hypoxia in the Northern Gulf of Mexico** (2021)
-   19 citations
-
-5. **Oyster farming acts as a marine carbon dioxide removal (mCDR) hotspot for climate change mitigation** (2025)
-   17 citations · Ocean CDR
-
-6. **Seasonal Water Mass Evolution and Non‐Redfield Dynamics Enhance CO<sub>2</sub> Uptake in the Chukchi Sea** (2022)
-   13 citations · Ocean CDR
-
-7. **Carbonate Parameter Estimation and Its Application in Revealing Temporal and Spatial Variation in the South and Mid‐Atlantic Bight, USA** (2022)
-   11 citations · Ocean CDR
-
-8. **Wastewater alkalinity enhancement for carbon emission reduction and marine CO<sub>2</sub> removal** (2025)
-   10 citations · General CDR
-
-9. **Unveiling the secrets of diatom-mediated calcification: Implications for the biological pump** (2024)
-   8 citations · Ocean CDR
-
-10. **The inorganic carbon system across the land-to-ocean continuum** (2023)
-   7 citations · General CDR
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2025 | [Oyster farming acts as a marine carbon dioxide removal (mCDR) hotspot for climate change mitigation](https://doi.org/10.1073/pnas.2504004122) | Ocean CDR | 17 |
+| 2025 | [Wastewater alkalinity enhancement for carbon emission reduction and marine CO<sub>2</sub> removal](https://doi.org/10.1088/1748-9326/adc1e3) | General CDR; Ocean CDR | 10 |
+| 2025 | [Disentangling the Effects of Global and Regional Drivers on Diverse Long‐Term pH Trends in Coastal Waters](https://doi.org/10.1029/2024av001350) | Enhanced Weathering; Ocean CDR | 3 |
+| 2025 | [Massive carbon inputs from fish farming reduce carbon sequestration capacity in a macroalgae mariculture area](https://doi.org/10.1016/j.marenvres.2025.107515) | Ocean CDR | 0 |
+| 2024 | [Unveiling the secrets of diatom-mediated calcification: Implications for the biological pump](https://doi.org/10.1007/s11430-023-1369-2) | Ocean CDR | 8 |
+| 2023 | [The inorganic carbon system across the land-to-ocean continuum](https://doi.org/10.1016/b978-0-323-99762-1.00032-2) | General CDR | 7 |
+| 2022 | [Carbon Fluxes in the Coastal Ocean: Synthesis, Boundary Processes, and Future Trends](https://doi.org/10.1146/annurev-earth-032320-090746) | General CDR; Ocean CDR | 245 |
+| 2022 | [Wastewater alkalinity addition as a novel approach for ocean negative carbon emissions](https://doi.org/10.1016/j.xinn.2022.100272) | General CDR; Ocean CDR | 38 |
+| 2022 | [Seasonal Water Mass Evolution and Non‐Redfield Dynamics Enhance CO<sub>2</sub> Uptake in the Chukchi Sea](https://doi.org/10.1029/2021jc018326) | Ocean CDR | 13 |
+| 2022 | [Carbonate Parameter Estimation and Its Application in Revealing Temporal and Spatial Variation in the South and Mid‐Atlantic Bight, USA](https://doi.org/10.1029/2022jc018811) | Ocean CDR | 11 |
+| 2021 | [Why are Surface Ocean pH and CaCO<sub>3</sub> Saturation State Often out of Phase in Spatial Patterns and Seasonal Cycles?](https://doi.org/10.1029/2021gb006949) | Ocean CDR | 31 |
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Abdulkarem I. Amhamed"
 description: "Abdulkarem I. Amhamed is a Senior DAC researcher at Hamad bin Khalifa University in QA. With 74 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/abdulkarem-i-amhamed-a5037947/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,22 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | CDR Focus | 12.2% |
 | Trajectory | Growing |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **A review on progress made in direct air capture of CO <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e1035" altimg="si1.svg"> <mml:msub> <mml:mrow/> <mml:mrow> <mml:mn>2</mml:mn> </mml:mrow> </mml:msub> </mml:math>** (2022)
-   280 citations · DAC
+10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 10, General CDR 8. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Emerging trends in direct air capture of CO<sub>2</sub>: a review of technology options targeting net-zero emissions** (2023)
-   112 citations · DAC
-
-3. **Comparative analysis of amine-functionalized silica for direct air capture (DAC): Material characterization, performance, and thermodynamic efficiency** (2024)
-   57 citations
-
-4. **Optimizing chemisorption based direct air capture unit efficiency in HVAC systems: A study on the impact of DAC location and adsorption conditions as a response to the climate crisis and indoor air quality** (2023)
-   40 citations · DAC
-
-5. **Life cycle cost analysis of direct air capture integrated with HVAC systems: Utilization routes in formic acid production and agricultural greenhouses** (2025)
-   17 citations · DAC
-
-6. **Amine free direct air capture integrated with buildings’ cooling systems in humid environments** (2025)
-   6 citations
-
-7. **Unlocking the potentials of integrating direct air capture with HVAC system** (2023)
-   6 citations
-
-8. **Preliminary Design and Analysis of a Photovoltaic-Powered Direct Air Capture System for a Residential Building** (2023)
-   5 citations
-
-9. **Life Cycle Assessment of an Integrated Direct Air Carbon Capture and Utilization System** (2025)
-   4 citations · DAC
-
-10. **Advanced direct air capture of CO2 using air conditioning systems: a life cycle assessment** (2025)
-   3 citations · DAC
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Integration of direct air capture with solar tower and chimney power plants: energy, economic and carbon assessments](https://openalex.org/W7155717209) | DAC | 1 |
+| 2026 | [Integrated DAC-HVAC systems for CO <sub>2</sub> capture and sustainable hydrogen production from condensed water](https://doi.org/10.1088/1755-1315/1587/1/012019) | DAC; General CDR | 0 |
+| 2026 | [From powder equilibria to contactor design: An experimentally anchored material based framework for direct air capture on TEPA impregnated SBA-15](https://openalex.org/W7204580074) | DAC | 0 |
+| 2025 | [Life cycle cost analysis of direct air capture integrated with HVAC systems: Utilization routes in formic acid production and agricultural greenhouses](https://doi.org/10.1016/j.jece.2025.116201) | DAC; General CDR | 17 |
+| 2025 | [Life Cycle Assessment of an Integrated Direct Air Carbon Capture and Utilization System](https://doi.org/10.1002/ese3.70122) | DAC; General CDR | 4 |
+| 2025 | [Advanced direct air capture of CO2 using air conditioning systems: a life cycle assessment](https://doi.org/10.1016/j.tsep.2025.104223) | DAC; General CDR | 3 |
+| 2025 | [Integrating Direct Air Capture and HVAC Systems: An Economic Perspective on Cost Savings](https://doi.org/10.69997/sct.150794) | DAC; General CDR | 2 |
+| 2023 | [Emerging trends in direct air capture of CO<sub>2</sub>: a review of technology options targeting net-zero emissions](https://doi.org/10.1039/d2ra07940b) | DAC; General CDR | 112 |
+| 2023 | [Optimizing chemisorption based direct air capture unit efficiency in HVAC systems: A study on the impact of DAC location and adsorption conditions as a response to the climate crisis and indoor air quality](https://doi.org/10.1016/j.enconman.2023.117280) | DAC; General CDR | 40 |
+| 2022 | [A review on progress made in direct air capture of CO <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e1035" altimg="si1.svg"> <mml:msub> <mml:mrow/> <mml:mrow> <mml:mn>2</mml:mn> </mml:mrow> </mml:msub> </mml:math>](https://doi.org/10.1016/j.eti.2022.102991) | DAC; General CDR | 280 |
 
 ## External Profiles
 

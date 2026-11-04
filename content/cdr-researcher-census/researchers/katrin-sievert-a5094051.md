@@ -1,7 +1,7 @@
 ---
 title: "Katrin Sievert"
 description: "Katrin Sievert is a Mid-career General CDR researcher at ETH Zurich in CH. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/katrin-sievert-a5094051/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,34 +48,20 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | CDR Focus | 53.3% |
 | Trajectory | Growing |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Considering technology characteristics to project future costs of direct air capture** (2024)
-   168 citations · DAC
+8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 7, DAC 5, BECCS 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Utilizing CO<sub>2</sub> as a strategy to scale up direct air capture may face fewer short-term barriers than directly storing CO<sub>2</sub>** (2024)
-   12 citations · DAC
-
-3. **Sequencing Carbon Dioxide Removal into the EU ETS** (2024)
-   10 citations · General CDR
-
-4. **(How to) avoid the inflationary labeling of emissions as “hard to abate”** (2025)
-   8 citations · General CDR
-
-5. **How the EU can utilize its carbon market to scale up carbon dioxide removal** (2026)
-   4 citations · BECCS
-
-6. **How the EU can utilize its carbon market to scale up carbon dioxide removal** (2026)
-   0 citations · General CDR
-
-7. **The Uncertain Policy Price of Scaling Direct Air Capture** (2026)
-   0 citations · DAC
-
-8. **The Uncertain Policy Price of Scaling Direct Air Capture** (2026)
-   0 citations · DAC
-
-9. **Unpacking the bottlenecks of deploying Direct Air Capture at scale** (2025)
-   0 citations · DAC
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [How the EU can utilize its carbon market to scale up carbon dioxide removal](https://openalex.org/W7147027131) | BECCS; DAC; General CDR | 4 |
+| 2026 | [The Uncertain Policy Price of Scaling Direct Air Capture](https://openalex.org/W7139957052) | DAC | 0 |
+| 2026 | [How the EU can utilize its carbon market to scale up carbon dioxide removal](https://openalex.org/W7167668386) | General CDR | 0 |
+| 2025 | [(How to) avoid the inflationary labeling of emissions as “hard to abate”](https://doi.org/10.1016/j.joule.2025.102039) | General CDR | 8 |
+| 2025 | [Unpacking the bottlenecks of deploying Direct Air Capture at scale](https://doi.org/10.5194/egusphere-egu25-4158) | DAC; General CDR | 0 |
+| 2024 | [Considering technology characteristics to project future costs of direct air capture](https://doi.org/10.1016/j.joule.2024.02.005) | DAC; General CDR | 168 |
+| 2024 | [Utilizing CO<sub>2</sub> as a strategy to scale up direct air capture may face fewer short-term barriers than directly storing CO<sub>2</sub>](https://doi.org/10.1088/1748-9326/ad3b1f) | DAC; General CDR | 12 |
+| 2024 | [Sequencing Carbon Dioxide Removal into the EU ETS](https://doi.org/10.2139/ssrn.4875550) | General CDR | 10 |
 
 ## External Profiles
 

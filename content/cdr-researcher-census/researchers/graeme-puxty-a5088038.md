@@ -1,7 +1,7 @@
 ---
 title: "Graeme Puxty"
 description: "Graeme Puxty is a Senior DAC researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 151 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/graeme-puxty-a5088038/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | CDR Focus | 4.6% |
 | Trajectory | Growing |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **A mass transfer study of CO2 absorption in aqueous solutions of isomeric forms of sodium alaninate for direct air capture application** (2024)
-   25 citations
+7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 7, Enhanced Weathering 3, General CDR 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Ex-situ mineral carbonation process challenges and technology enablers: A review from Australia’s perspective** (2024)
-   23 citations · DAC
-
-3. **A study on degradation and CO<sub>2</sub> capture performance of aqueous amino acid salts for direct air capture applications** (2024)
-   18 citations
-
-4. **The effects of counter ion on CO2 capture performance of amino acid salt solutions for direct air capture applications** (2024)
-   13 citations
-
-5. **Direct Air Capture of CO2 using Amine-based Capture Technology** (2022)
-   4 citations · DAC
-
-6. **Integrated direct air capture and CO2 mineralization using amino acid salt solutions and alkaline solid wastes** (2026)
-   3 citations · DAC
-
-7. **Towards the integration of direct air capture and CO2 mineralisation processes employing potassium glycinate, and α- and β- alaninate** (2026)
-   2 citations · DAC
-
-8. **Mineralisation as a carbon sink for DAC: A case-study for solar thermal process integration** (2025)
-   1 citations · DAC
-
-9. **Evaluation of the potassium salts of a series of five linear aliphatic amino acids for direct air capture** (2026)
-   0 citations · DAC
-
-10. **Integrated Direct Air Capture – CO2 Mineralisation Process Employing Potassium Glycinate, and α- and β- Alaninate** (2026)
-   0 citations · DAC
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Integrated direct air capture and CO2 mineralization using amino acid salt solutions and alkaline solid wastes](https://openalex.org/W7160260987) | DAC | 3 |
+| 2026 | [Towards the integration of direct air capture and CO2 mineralisation processes employing potassium glycinate, and α- and β- alaninate](https://openalex.org/W7155634468) | DAC | 2 |
+| 2026 | [Integrated Direct Air Capture – CO2 Mineralisation Process Employing Potassium Glycinate, and α- and β- Alaninate](https://doi.org/10.2139/ssrn.6331975) | DAC; Enhanced Weathering | 0 |
+| 2026 | [Evaluation of the potassium salts of a series of five linear aliphatic amino acids for direct air capture](https://openalex.org/W7207749051) | DAC | 0 |
+| 2025 | [Mineralisation as a carbon sink for DAC: A case-study for solar thermal process integration](https://doi.org/10.1016/j.clet.2025.100974) | DAC; Enhanced Weathering; General CDR | 1 |
+| 2024 | [Ex-situ mineral carbonation process challenges and technology enablers: A review from Australia’s perspective](https://doi.org/10.1016/j.mineng.2024.109124) | DAC; Enhanced Weathering; General CDR | 23 |
+| 2022 | [Direct Air Capture of CO2 using Amine-based Capture Technology](https://openalex.org/W4313127529) | DAC | 4 |
 
 ## External Profiles
 

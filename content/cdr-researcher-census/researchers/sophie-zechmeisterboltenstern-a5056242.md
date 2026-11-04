@@ -1,7 +1,7 @@
 ---
 title: "Sophie Zechmeister‐Boltenstern"
 description: "Sophie Zechmeister‐Boltenstern is an Eminent Soil Carbon researcher at BOKU University in AT. With 291 publications and an h-index of 60, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/sophie-zechmeisterboltenstern-a5056242/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,37 +45,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | CDR Focus | 4.1% |
 | Trajectory | Declining |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Fungal biomass and microbial necromass facilitate soil carbon sequestration and aggregate stability under different soil tillage intensities** (2022)
-   126 citations · Soil Carbon
+13 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Soil Carbon 13, General CDR 4. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Seasonal dynamics of soil microbial growth, respiration, biomass, and carbon use efficiency in temperate soils** (2023)
-   90 citations
-
-3. **Quality assessment of meta-analyses on soil organic carbon** (2023)
-   35 citations · General CDR
-
-4. **Seasonal Dynamics of Soil Microbial Growth, Respiration, Biomass, and Carbon Use Efficiency** (2022)
-   8 citations · Soil Carbon
-
-5. **Finding the optimum tillage and cover crop system for optimizing microbial soil health and nutrient cycling** (2024)
-   1 citations · Soil Carbon
-
-6. **Towards climate-smart sustainable management of agricultural soils : Deliverable D2.6 Set of reports on State of knowledge in agricultural soil management** (2021)
-   1 citations · Soil Carbon
-
-7. **Linking soil microbial carbon sequestration to cover crop diversification in agricultural soil systems across Europe** (2023)
-   1 citations · Soil Carbon
-
-8. **Quality Assessment of Meta-Analyses on Soil Organic Carbon** (2022)
-   1 citations
-
-9. **Conservation tillage practices facilitate soil organic carbon sequestration and aggregate stability via fungal abundance and necromass** (2022)
-   1 citations · Soil Carbon
-
-10. **Crop diversification – a lever to manipulate the soil microbial carbon pump towards enhanced carbon sequestration?** (2026)
-   0 citations
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [The Soil Innovation Partnership – United by Soil, Driven by Impact](https://doi.org/10.5194/egusphere-egu26-14596) | General CDR; Soil Carbon | 0 |
+| 2025 | [Editorial for the <scp>EJP SOIL</scp> Special Issue 1 on “Climate‐Smart Sustainable Agricultural Soil Management for the Future”](https://doi.org/10.1111/ejss.70079) | General CDR; Soil Carbon | 0 |
+| 2025 | [Synthesis of exemplary EJP SOIL results on climate-smart sustainable soil management](https://doi.org/10.5194/egusphere-egu25-17715) | General CDR; Soil Carbon | 0 |
+| 2024 | [Finding the optimum tillage and cover crop system for optimizing microbial soil health and nutrient cycling](https://doi.org/10.5194/egusphere-egu24-18424) | Soil Carbon | 1 |
+| 2024 | [Cover crop diversification alters microbial life-death cycle and enhances carbon sequestration in agricultural soil](https://doi.org/10.5194/egusphere-egu24-20534) | Soil Carbon | 0 |
+| 2023 | [Quality assessment of meta-analyses on soil organic carbon](https://doi.org/10.5194/soil-9-117-2023) | General CDR; Soil Carbon | 35 |
+| 2023 | [Linking soil microbial carbon sequestration to cover crop diversification in agricultural soil systems across Europe](https://doi.org/10.5194/egusphere-egu23-9585) | Soil Carbon | 1 |
+| 2023 | [Cover Crops Affecting Pool Specific Soil Organic Carbon Sequestration in Cropland – A Meta-Analysis](http://dx.doi.org/10.5194/egusphere-egu23-2269) | Soil Carbon | 0 |
+| 2022 | [Fungal biomass and microbial necromass facilitate soil carbon sequestration and aggregate stability under different soil tillage intensities](https://doi.org/10.1016/j.apsoil.2022.104599) | Soil Carbon | 126 |
+| 2022 | [Seasonal Dynamics of Soil Microbial Growth, Respiration, Biomass, and Carbon Use Efficiency](https://doi.org/10.2139/ssrn.4033336) | Soil Carbon | 8 |
+| 2022 | [Conservation tillage practices facilitate soil organic carbon sequestration and aggregate stability via fungal abundance and necromass](https://doi.org/10.5194/egusphere-egu22-2206) | Soil Carbon | 1 |
+| 2022 | [Seasonal dynamics of soil microbial respiration, growth, biomass, and carbon use efficiency](https://doi.org/10.5194/egusphere-egu22-1179) | Soil Carbon | 0 |
+| 2021 | [Towards climate-smart sustainable management of agricultural soils : Deliverable D2.6 Set of reports on State of knowledge in agricultural soil management](https://openalex.org/W4379799548) | Soil Carbon | 1 |
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Chinmoy Baroi"
 description: "Chinmoy Baroi is a Senior DAC researcher at University of Illinois Urbana-Champaign in US. With 40 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/chinmoy-baroi-a5040576/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,34 +48,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | CDR Focus | 15.0% |
 | Trajectory | Declining |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **FEED Study of CarbonCapture Inc DAC and CarbonCure Utilization Technologies Using United States Steel’s Gary Works Plant Waste Heat (Final Report)** (2024)
-   1 citations · DAC
+7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 7, General CDR 6. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **FEED Study of CarbonCapture Inc. DAC and CarbonCure Utilization Technologies Using United States Steel's Gary Works Plant Waste Heat** (2022)
-   0 citations · DAC
-
-3. **Direct Air Capture-Based Carbon Dioxide Removal with United States Low-Carbon Energy and Sinks** (2024)
-   0 citations · DAC
-
-4. **Advanced Nuclear Reactor Driven Direct Air Capture for Achieving Net-Negative Emissions** (2025)
-   0 citations
-
-5. **Colorado (Pueblo) Regional Direct Air Capture (DAC) Hub** (2025)
-   0 citations · DAC
-
-6. **Direct Air Capture and Utilization System (DACUS): FEED Study of CarbonCapture Inc. DAC and CarbonCure Utilization Technologies Using United States Steel’s Gary Works Plant Waste Heat** (2024)
-   0 citations · DAC
-
-7. **Capture and In-Situ Conversion of CO2 Using Novel Plasma Technology Under Ambient Conditions** (2024)
-   0 citations
-
-8. **Florida Regional Direct Air Capture (DAC) Hub** (2024)
-   0 citations · DAC
-
-9. **Illinois Basin Direct Air Capture (DAC) Hub: A Master Planned Community** (2024)
-   0 citations · DAC
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2025 | [Colorado (Pueblo) Regional Direct Air Capture (DAC) Hub](https://doi.org/10.2139/ssrn.5069312) | DAC; General CDR | 0 |
+| 2024 | [FEED Study of CarbonCapture Inc DAC and CarbonCure Utilization Technologies Using United States Steel’s Gary Works Plant Waste Heat (Final Report)](https://doi.org/10.2172/2483545) | DAC; General CDR | 1 |
+| 2024 | [Illinois Basin Direct Air Capture (DAC) Hub: A Master Planned Community](https://doi.org/10.2139/ssrn.5013245) | DAC; General CDR | 0 |
+| 2024 | [Florida Regional Direct Air Capture (DAC) Hub](https://doi.org/10.2139/ssrn.5045251) | DAC; General CDR | 0 |
+| 2024 | [Direct Air Capture and Utilization System (DACUS): FEED Study of CarbonCapture Inc. DAC and CarbonCure Utilization Technologies Using United States Steel’s Gary Works Plant Waste Heat](https://doi.org/10.2139/ssrn.5066083) | DAC; General CDR | 0 |
+| 2024 | [Direct Air Capture-Based Carbon Dioxide Removal with United States Low-Carbon Energy and Sinks](https://doi.org/10.2172/2322436) | DAC; General CDR | 0 |
+| 2022 | [FEED Study of CarbonCapture Inc. DAC and CarbonCure Utilization Technologies Using United States Steel's Gary Works Plant Waste Heat](https://openalex.org/W7220799235) | DAC | 0 |
 
 ## External Profiles
 

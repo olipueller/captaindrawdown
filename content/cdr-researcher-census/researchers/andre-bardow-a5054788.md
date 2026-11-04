@@ -1,7 +1,7 @@
 ---
 title: "André Bardow"
 description: "André Bardow is an Eminent DAC researcher at ETH Zurich in CH. With 695 publications and an h-index of 68, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/andre-bardow-a5054788/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,27 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | CDR Focus | 2.0% |
 | Trajectory | Growing |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Life-cycle assessment of an industrial direct air capture process based on temperature–vacuum swing adsorption** (2021)
-   615 citations · DAC
+15 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 12, General CDR 10, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **From Unavoidable CO<sub>2</sub> Source to CO<sub>2</sub> Sink? A Cement Industry Based on CO<sub>2</sub> Mineralization** (2021)
-   166 citations · DAC
-
-3. **Environmental trade-offs of direct air capture technologies in climate change mitigation toward 2100** (2022)
-   158 citations · DAC
-
-4. **An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage** (2025)
-   54 citations · General CDR
-
-5. **(How to) avoid the inflationary labeling of emissions as “hard to abate”** (2025)
-   8 citations · General CDR
-
-6. **Direct air capture by direct steam heating - experiments and comparison with indirect heating** (2025)
-   6 citations
-
-7. **Leveraging the phase change of water for energy efficient direct air capture** (2026)
-   5 citations · DAC
-
-8. **Efficient Prediction of Multicomponent Adsorption Isotherms and Enthalpies of Adsorption in MOFs Using Classical Density Functional Theory** (2026)
-   5 citations
-
-9. **Life cycle assessment of solid calcium-looping direct air capture and its synergistic dual use for net-negative cement** (2026)
-   2 citations · DAC
-
-10. **Structured sorbents for Direct Air Capture: The impact of materials and chemicals on performance** (2026)
-   1 citations · DAC
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Leveraging the phase change of water for energy efficient direct air capture](https://openalex.org/W7140315344) | DAC | 5 |
+| 2026 | [Life cycle assessment of solid calcium-looping direct air capture and its synergistic dual use for net-negative cement](https://openalex.org/W7163561785) | DAC; General CDR | 2 |
+| 2026 | [Structured sorbents for Direct Air Capture: The impact of materials and chemicals on performance](https://openalex.org/W7166531872) | DAC | 1 |
+| 2026 | [Leveraging the phase change of water for energy efficient direct air capture](https://openalex.org/W7155199360) | DAC | 0 |
+| 2026 | [Structured sorbents for direct air capture: the impact of materials and chemicals on performance](https://openalex.org/W7163847645) | DAC | 0 |
+| 2026 | [Life cycle assessment of solid calcium-looping direct air capture and its synergistic dual use for net-negative cement](https://openalex.org/W7163926886) | DAC; General CDR | 0 |
+| 2026 | [Structured sorbents for Direct Air Capture: The impact of materials and chemicals on performance](https://openalex.org/W7166680246) | DAC | 0 |
+| 2025 | [An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage](https://doi.org/10.1039/d5ee01732g) | General CDR | 54 |
+| 2025 | [(How to) avoid the inflationary labeling of emissions as “hard to abate”](https://doi.org/10.1016/j.joule.2025.102039) | General CDR | 8 |
+| 2025 | [Life-Cycle Assessment of Solid Calcium-Looping Direct AirCapture and Its Synergistic Dual Use for Net-Negative Cement](https://doi.org/10.26434/chemrxiv-2025-8zjlg-v2) | General CDR | 1 |
+| 2025 | [Prospective life cycle assessment of megatonne-scale direct air carbon capture and storage via calcium-looping](https://doi.org/10.26434/chemrxiv-2025-8zjlg) | DAC; General CDR | 0 |
+| 2022 | [Environmental trade-offs of direct air capture technologies in climate change mitigation toward 2100](https://doi.org/10.1038/s41467-022-31146-1) | DAC; General CDR | 158 |
+| 2021 | [Life-cycle assessment of an industrial direct air capture process based on temperature–vacuum swing adsorption](https://doi.org/10.1038/s41560-020-00771-9) | DAC; General CDR | 615 |
+| 2021 | [From Unavoidable CO<sub>2</sub> Source to CO<sub>2</sub> Sink? A Cement Industry Based on CO<sub>2</sub> Mineralization](https://doi.org/10.1021/acs.est.0c07599) | DAC; Enhanced Weathering; General CDR | 166 |
+| 2021 | [How (Carbon) Negative Is Direct Air Capture? Life Cycle Assessment of an Industrial Temperature-Vacuum Swing Adsorption Process](https://doi.org/10.26434/chemrxiv.12833747.v2) | DAC; General CDR | 0 |
 
 ## External Profiles
 

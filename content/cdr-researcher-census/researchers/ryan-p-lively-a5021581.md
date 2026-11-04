@@ -1,7 +1,7 @@
 ---
 title: "Ryan P. Lively"
 description: "Ryan P. Lively is an Eminent DAC researcher at Georgia Institute of Technology in US. With 339 publications and an h-index of 64, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/ryan-p-lively-a5021581/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,22 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | CDR Focus | 2.7% |
 | Trajectory | Growing |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Sub-Ambient Temperature Direct Air Capture of CO<sub>2</sub> using Amine-Impregnated MIL-101(Cr) Enables Ambient Temperature CO<sub>2</sub> Recovery** (2022)
-   195 citations
+10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 8, General CDR 5, BECCS 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Support Pore Structure and Composition Strongly Influence the Direct Air Capture of CO<sub>2</sub> on Supported Amines** (2023)
-   146 citations
-
-3. **Sorbent-coated carbon fibers for direct air capture using electrically driven temperature swing adsorption** (2023)
-   102 citations
-
-4. **Research needs targeting direct air capture of carbon dioxide: Material &amp; process performance characteristics under realistic environmental conditions** (2022)
-   100 citations · DAC
-
-5. **Tuning sorbent properties to reduce the cost of direct air capture** (2024)
-   82 citations
-
-6. **Cold-Temperature Capture of Carbon Dioxide with Water Coproduction from Air Using Commercial Zeolites** (2022)
-   67 citations
-
-7. **Cold Temperature Direct Air CO<sub>2</sub> Capture with Amine-Loaded Metal–Organic Framework Monoliths** (2023)
-   62 citations
-
-8. **Water management and heat integration in direct air capture systems** (2024)
-   57 citations
-
-9. **Defining Targets for Adsorbent Material Performance to Enable Viable BECCS Processes** (2021)
-   44 citations · BECCS
-
-10. **Investigation of Moisture Swing Adsorbents for Direct Air Capture by Dynamic Breakthrough Studies** (2025)
-   41 citations
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Influence of Transition Metal Ion Contaminants on the Performance of Amine-Based Solid Sorbents in Direct Air Capture](https://openalex.org/W7161977491) | DAC | 4 |
+| 2026 | [Stability of Metal–Organic Framework-Supported Amines under Exposure to Ozone Generated from Air](https://openalex.org/W7167853406) | DAC | 0 |
+| 2026 | [Stability of Metal–OrganicFramework-SupportedAmines under Exposure to Ozone Generated from Air](https://openalex.org/W7168044839) | DAC | 0 |
+| 2026 | [Seasonal Thermal Energy Requirements of Zeolite and Amine Adsorbents for Direct Air Capture in a Cold Climate](https://openalex.org/W7213935345) | DAC | 0 |
+| 2023 | [Evaluating degradation of CO<sub>2</sub> adsorbents in flue gas from bioenergy with carbon capture and storage](https://doi.org/10.1039/d3se00823a) | BECCS | 3 |
+| 2022 | [Research needs targeting direct air capture of carbon dioxide: Material &amp; process performance characteristics under realistic environmental conditions](https://doi.org/10.1007/s11814-021-0976-0) | DAC; General CDR | 100 |
+| 2022 | [Positive Power with Negative Emission Flexible NGCC Enable by Modular Direct Air Capture (Final Report)](https://doi.org/10.2172/1884555) | DAC; General CDR | 1 |
+| 2021 | [Defining Targets for Adsorbent Material Performance to Enable Viable BECCS Processes](https://doi.org/10.1021/jacsau.0c00127) | BECCS; General CDR | 44 |
+| 2021 | [Assessing the physical potential capacity of direct air capture with integrated supply of low‐carbon energy sources](https://doi.org/10.1002/ghg.2136) | DAC; General CDR | 22 |
+| 2021 | [Perspective - the need and prospects for negative emission technologies - direct air capture through the lens of current sorption process development](https://doi.org/10.1007/s11814-021-0957-3) | DAC; General CDR | 17 |
 
 ## External Profiles
 

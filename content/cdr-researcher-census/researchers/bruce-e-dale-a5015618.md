@@ -1,7 +1,7 @@
 ---
 title: "Bruce E. Dale"
 description: "Bruce E. Dale is an Eminent BECCS researcher at Michigan State University in US. With 448 publications and an h-index of 96, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/bruce-e-dale-a5015618/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,25 +48,18 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | CDR Focus | 1.3% |
 | Trajectory | Exiting |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Replacing liquid fossil fuels and hydrocarbon chemical feedstocks with liquid biofuels from large-scale nuclear biorefineries** (2021)
-   60 citations · BECCS
+6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 6, General CDR 3. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Global warming intensity of biofuel derived from switchgrass grown on marginal land in Michigan** (2023)
-   21 citations · BECCS
-
-3. **Can a Nuclear-Assisted Biofuels System Enable Liquid Biofuels as the Economic Low-carbon Replacement for All Liquid Fossil Fuels and Hydrocarbon Feedstocks and Enable Negative Carbon Emissions?** (2022)
-   11 citations · BECCS
-
-4. **Supply chain system for a centralized biorefinery system based on switchgrass grown on marginal land in Michigan** (2023)
-   10 citations · BECCS
-
-5. **Replacing All Fossil Fuels With Nuclear-Enabled Hydrogen, Cellulosic Hydrocarbon Biofuels, and Dispatchable Electricity** (2024)
-   8 citations · BECCS
-
-6. **Available land for cellulosic biofuel production: a supply chain centered comparison** (2024)
-   3 citations · BECCS
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2024 | [Replacing All Fossil Fuels With Nuclear-Enabled Hydrogen, Cellulosic Hydrocarbon Biofuels, and Dispatchable Electricity](https://doi.org/10.1115/1.4064592) | BECCS; General CDR | 8 |
+| 2024 | [Available land for cellulosic biofuel production: a supply chain centered comparison](https://doi.org/10.1088/1748-9326/ada301) | BECCS | 3 |
+| 2023 | [Global warming intensity of biofuel derived from switchgrass grown on marginal land in Michigan](https://doi.org/10.1111/gcbb.13024) | BECCS; General CDR | 21 |
+| 2023 | [Supply chain system for a centralized biorefinery system based on switchgrass grown on marginal land in Michigan](https://doi.org/10.1002/bbb.2526) | BECCS | 10 |
+| 2022 | [Can a Nuclear-Assisted Biofuels System Enable Liquid Biofuels as the Economic Low-carbon Replacement for All Liquid Fossil Fuels and Hydrocarbon Feedstocks and Enable Negative Carbon Emissions?](https://doi.org/10.2172/2281710) | BECCS; General CDR | 11 |
+| 2021 | [Replacing liquid fossil fuels and hydrocarbon chemical feedstocks with liquid biofuels from large-scale nuclear biorefineries](https://doi.org/10.1016/j.apenergy.2021.117225) | BECCS | 60 |
 
 ## External Profiles
 

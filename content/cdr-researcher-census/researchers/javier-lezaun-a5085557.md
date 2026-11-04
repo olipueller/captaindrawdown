@@ -1,7 +1,7 @@
 ---
 title: "Javier Lezaun"
 description: "Javier Lezaun is a Senior General CDR researcher at University of Oxford in GB. With 118 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/javier-lezaun-a5085557/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,37 +45,27 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | CDR Focus | 12.7% |
 | Trajectory | Declining |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **The meaning of net zero and how to get it right** (2021)
-   960 citations · General CDR
+15 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 15, Ocean CDR 12. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Hugging the Shore: Tackling Marine Carbon Dioxide Removal as a Local Governance Problem** (2021)
-   47 citations · General CDR
-
-3. **Broaden Research on Ocean Alkalinity Enhancement to Better Characterize Social Impacts** (2023)
-   39 citations · General CDR
-
-4. **Grappling with a sea change: Tensions in expert imaginaries of marine carbon dioxide removal** (2024)
-   21 citations · General CDR
-
-5. **Governing Carbon Dioxide Removal in the UK: Lessons Learned and Challenges Ahead** (2021)
-   21 citations · General CDR
-
-6. **Responsible innovation in CDR: designing sustainable national Greenhouse Gas Removal policies in a fragmented and polycentric governance system** (2024)
-   9 citations · General CDR
-
-7. **Prospects and Challenges of Investigating Ocean-Based Negative Emission Technologies: Insights from the OceanNETs Project** (2025)
-   1 citations · General CDR
-
-8. **Realistic Deployment Scenarios for Ocean Alkalinity Enhancement, Brine Splitting - Policy Brief** (2024)
-   1 citations · General CDR
-
-9. **Spain's realistic potential for ocean alkalinity enhancement: Carbon dioxide removal through industrial integration** (2026)
-   0 citations · General CDR
-
-10. **Realistic Deployment Scenarios for Ocean Alkalinity Enhancement, Ocean liming (OL) - Policy Brief** (2024)
-   0 citations · General CDR
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Spain's realistic potential for ocean alkalinity enhancement: Carbon dioxide removal through industrial integration](https://openalex.org/W7207532251) | General CDR; Ocean CDR | 0 |
+| 2025 | [Prospects and Challenges of Investigating Ocean-Based Negative Emission Technologies: Insights from the OceanNETs Project](https://doi.org/10.3289/oceannets_d7.10-12) | General CDR; Ocean CDR | 1 |
+| 2024 | [Grappling with a sea change: Tensions in expert imaginaries of marine carbon dioxide removal](https://doi.org/10.1016/j.gloenvcha.2024.102806) | General CDR; Ocean CDR | 21 |
+| 2024 | [Responsible innovation in CDR: designing sustainable national Greenhouse Gas Removal policies in a fragmented and polycentric governance system](https://doi.org/10.3389/fclim.2023.1293650) | General CDR | 9 |
+| 2024 | [Realistic Deployment Scenarios for Ocean Alkalinity Enhancement, Brine Splitting - Policy Brief](https://doi.org/10.3289/oceannets_d6.5_2) | General CDR; Ocean CDR | 1 |
+| 2024 | [Specialized protocol for responsible research and innovation on ocean-based NETs](http://dx.doi.org/10.3289/oceannets_d7.7) | General CDR; Ocean CDR | 0 |
+| 2024 | [Realistic Deployment Scenarios for Ocean Alkalinity Enhancement, Ocean liming (OL) - Policy Brief](http://dx.doi.org/10.3289/oceannets_d6.5_1) | General CDR; Ocean CDR | 0 |
+| 2023 | [Broaden Research on Ocean Alkalinity Enhancement to Better Characterize Social Impacts](https://doi.org/10.1021/acs.est.2c09595) | General CDR; Ocean CDR | 39 |
+| 2023 | [Report on mesocosm experimentation deliberative workshops with stakeholders](http://dx.doi.org/10.3289/oceannets_d7.8) | General CDR; Ocean CDR | 0 |
+| 2022 | [Summary report on deliberative workshop with stakeholders on mesocosm research in Bergen, Norway](https://doi.org/10.3289/oceannets_d7.2) | General CDR; Ocean CDR | 0 |
+| 2021 | [The meaning of net zero and how to get it right](https://doi.org/10.1038/s41558-021-01245-w) | General CDR | 960 |
+| 2021 | [Hugging the Shore: Tackling Marine Carbon Dioxide Removal as a Local Governance Problem](https://doi.org/10.3389/fclim.2021.684063) | General CDR; Ocean CDR | 47 |
+| 2021 | [Governing Carbon Dioxide Removal in the UK: Lessons Learned and Challenges Ahead](https://doi.org/10.3389/fclim.2021.673859) | General CDR | 21 |
+| 2021 | [Summary report on deliberative workshop with stakeholders on mesocosm research in the Canary Islands](https://doi.org/10.3289/oceannets_d7.1) | General CDR; Ocean CDR | 0 |
+| 2021 | [Report on First Stakeholder Consultation on Deployment Scenarios for Ocean Alkalinity Enhancement](https://doi.org/10.3289/oceannets_d6.3) | General CDR; Ocean CDR | 0 |
 
 ## External Profiles
 

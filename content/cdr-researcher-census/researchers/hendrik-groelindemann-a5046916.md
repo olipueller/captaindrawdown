@@ -1,7 +1,7 @@
 ---
 title: "Hendrik Großelindemann"
 description: "Hendrik Großelindemann is an Early-career Ocean CDR researcher at University of Bern in CH. With 19 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/hendrik-groelindemann-a5046916/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,21 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | CDR Focus | 47.4% |
 | Trajectory | Growing |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **The efficiency and ocean acidification mitigation potential of ocean alkalinity enhancement on multi-centennial timescales** (2026)
-   2 citations · General CDR
+9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 9, General CDR 7. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Subsurface dissolution reduces the efficiency of mineral-based open-ocean alkalinity enhancement** (2026)
-   2 citations · General CDR
-
-3. **The efficiency and ocean acidification mitigation potential of ocean alkalinity enhancement on multi-centennial timescales** (2026)
-   2 citations · General CDR
-
-4. **Subsurface dissolution reduces the efficiency of mineral-based ocean alkalinity enhancement** (2025)
-   1 citations · General CDR
-
-5. **The efficiency and ocean acidification mitigation potential of ocean alkalinity enhancement on multi-centennial timescales** (2026)
-   0 citations · General CDR
-
-6. **Subsurface dissolution reduces the efficiency of mineral-based open-ocean alkalinity enhancement** (2026)
-   0 citations · General CDR
-
-7. **Data and code for publication "The efficiency and ocean acidification mitigation potential of ocean alkalinity enhancement on multi-centennial timescales"** (2026)
-   0 citations · Ocean CDR
-
-8. **Data and code for publication "The efficiency and ocean acidification mitigation potential of ocean alkalinity enhancement on multi-centennial timescales"** (2026)
-   0 citations · Ocean CDR
-
-9. **Reply on RC1** (2026)
-   0 citations · General CDR
-
-10. **Reply on RC3** (2026)
-   0 citations · General CDR
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [The efficiency and ocean acidification mitigation potential of ocean alkalinity enhancement on multi-centennial timescales](https://doi.org/10.5194/egusphere-2026-255) | General CDR; Ocean CDR | 2 |
+| 2026 | [Subsurface dissolution reduces the efficiency of mineral-based open-ocean alkalinity enhancement](https://openalex.org/W7160897274) | General CDR; Ocean CDR | 2 |
+| 2026 | [The efficiency and ocean acidification mitigation potential of ocean alkalinity enhancement on multi-centennial timescales](https://openalex.org/W7161565573) | General CDR; Ocean CDR | 2 |
+| 2026 | [Data and code for publication "The efficiency and ocean acidification mitigation potential of ocean alkalinity enhancement on multi-centennial timescales"](https://openalex.org/W7155367808) | Ocean CDR | 0 |
+| 2026 | [Data and code for publication "The efficiency and ocean acidification mitigation potential of ocean alkalinity enhancement on multi-centennial timescales"](https://openalex.org/W7155386603) | Ocean CDR | 0 |
+| 2026 | [Subsurface dissolution reduces the efficiency of mineral-based open-ocean alkalinity enhancement](https://openalex.org/W7161032096) | General CDR; Ocean CDR | 0 |
+| 2026 | [The efficiency and ocean acidification mitigation potential of ocean alkalinity enhancement on multi-centennial timescales](https://openalex.org/W7161699151) | General CDR; Ocean CDR | 0 |
+| 2025 | [Subsurface dissolution reduces the efficiency of mineral-based ocean alkalinity enhancement](https://doi.org/10.5194/egusphere-2025-5917) | General CDR; Ocean CDR | 1 |
+| 2025 | [Potential of Ocean Alkalinity Enhancement in Climate Stabilization scenarios at Different Warming Levels](https://doi.org/10.5194/egusphere-egu25-6341) | General CDR; Ocean CDR | 0 |
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Kai G. Schulz"
 description: "Kai G. Schulz is an Eminent Ocean CDR researcher at Southern Cross University in AU. With 346 publications and an h-index of 53, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/kai-g-schulz-a5091734/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,30 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | CDR Focus | 4.9% |
 | Trajectory | Declining |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Ocean alkalinity enhancement – avoiding runaway CaCO <sub>3</sub> precipitation during quick and hydrated lime dissolution** (2022)
-   192 citations · Ocean CDR
+18 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 18, General CDR 7, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Assessing the influence of ocean alkalinity enhancement on a coastal phytoplankton community** (2022)
-   159 citations · Ocean CDR
-
-3. **Seawater carbonate chemistry considerations for ocean alkalinity enhancement research: theory, measurements, and calculations** (2023)
-   79 citations · General CDR
-
-4. **Investigating the effect of silicate- and calcium-based ocean alkalinity enhancement on diatom silicification** (2024)
-   47 citations · Ocean CDR
-
-5. **Seawater carbonate system considerations for ocean alkalinity enhancement research** (2023)
-   33 citations · General CDR
-
-6. **Effects of grain size and seawater salinity on magnesium hydroxide dissolution and secondary calcium carbonate precipitation kinetics: implications for ocean alkalinity enhancement** (2024)
-   16 citations · Ocean CDR
-
-7. **Ocean Alkalinity Enhancement – Avoiding runaway CaCO <sub>3</sub> precipitation during quick and hydrated lime dissolution** (2021)
-   15 citations
-
-8. **Investigating the effect of silicate and calcium based ocean alkalinity enhancement on diatom silicification** (2023)
-   14 citations · Ocean CDR
-
-9. **Technical note: Ocean Alkalinity Enhancement Pelagic Impact Intercomparison Project (OAEPIIP)** (2024)
-   13 citations · Ocean CDR
-
-10. **Effects of grain size and seawater salinity on brucite dissolution and secondary calcium carbonate precipitation kinetics: implications for Ocean Alkalinity Enhancement** (2023)
-   11 citations · Ocean CDR
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Carbon fixation of a temperate plankton community in response to calcium- and silicate-based Ocean Alkalinity Enhancement using air-sea gas exchange measurements](https://doi.org/10.5194/bg-23-137-2026) | Ocean CDR | 4 |
+| 2026 | [Ocean alkalinity enhancement reduces silica ballasting during export due to amplified dissolution](https://openalex.org/W7167673269) | General CDR; Ocean CDR | 1 |
+| 2026 | [Ocean alkalinity enhancement reduces silica ballasting during export due to amplified dissolution](https://doi.org/10.5194/egusphere-2026-1300) | Ocean CDR | 0 |
+| 2026 | [Spring phytoplankton bloom dynamics reveal thresholds of ocean alkalinity enhancement in the North Sea](https://openalex.org/W7213877684) | General CDR; Ocean CDR | 0 |
+| 2025 | [Air-sea gas exchange measurements helped derive in-situ organic and inorganic carbon fixation in response to Ocean Alkalinity Enhancement in a temperate plankton community](https://doi.org/10.5194/egusphere-2025-524) | General CDR; Ocean CDR | 1 |
+| 2024 | [Investigating the effect of silicate- and calcium-based ocean alkalinity enhancement on diatom silicification](https://doi.org/10.5194/bg-21-2777-2024) | Ocean CDR | 47 |
+| 2024 | [Effects of grain size and seawater salinity on magnesium hydroxide dissolution and secondary calcium carbonate precipitation kinetics: implications for ocean alkalinity enhancement](https://doi.org/10.5194/bg-21-3463-2024) | Ocean CDR | 16 |
+| 2024 | [Technical note: Ocean Alkalinity Enhancement Pelagic Impact Intercomparison Project (OAEPIIP)](https://doi.org/10.5194/bg-21-3665-2024) | Ocean CDR | 13 |
+| 2024 | [Carbon dioxide removal efficiency of iron and steel slag in seawater via ocean alkalinity enhancement](https://doi.org/10.3389/fclim.2024.1396487) | Enhanced Weathering; Ocean CDR | 10 |
+| 2024 | [Ocean Alk-Align: an international research project to assess the potential of Ocean Alkalinity Enhancement for marine Carbon Dioxide Removal](https://doi.org/10.5194/egusphere-egu24-438) | General CDR; Ocean CDR | 0 |
+| 2024 | [Assessing the Influence of OAE on Particulate Matter Stoichiometry in the North Sea &amp;#8211; Insights from a Mesocosm Study](https://doi.org/10.5194/egusphere-egu24-436) | Ocean CDR | 0 |
+| 2024 | [Non-equilibrated ocean alkalinity enhancement influences nitrogen retention and export&amp;#160;](https://doi.org/10.5194/egusphere-egu24-286) | Ocean CDR | 0 |
+| 2023 | [Seawater carbonate chemistry considerations for ocean alkalinity enhancement research: theory, measurements, and calculations](https://doi.org/10.5194/sp-2-oae2023-2-2023) | General CDR; Ocean CDR | 79 |
+| 2023 | [Seawater carbonate system considerations for ocean alkalinity enhancement research](https://doi.org/10.5194/sp-2023-12) | General CDR; Ocean CDR | 33 |
+| 2023 | [Effects of grain size and seawater salinity on brucite dissolution and secondary calcium carbonate precipitation kinetics: implications for Ocean Alkalinity Enhancement](http://dx.doi.org/10.5194/egusphere-egu23-330) | Ocean CDR | 11 |
+| 2023 | [Assessing the response of particulate matter stoichiometry to ocean alkalinity enhancement](http://dx.doi.org/10.5194/egusphere-egu23-12209) | General CDR; Ocean CDR | 1 |
+| 2022 | [Ocean alkalinity enhancement – avoiding runaway CaCO <sub>3</sub> precipitation during quick and hydrated lime dissolution](https://doi.org/10.5194/bg-19-3537-2022) | Ocean CDR | 192 |
+| 2022 | [Assessing the influence of ocean alkalinity enhancement on a coastal phytoplankton community](https://doi.org/10.5194/bg-19-5375-2022) | Ocean CDR | 159 |
 
 ## External Profiles
 

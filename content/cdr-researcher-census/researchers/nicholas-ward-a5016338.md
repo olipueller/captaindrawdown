@@ -1,7 +1,7 @@
 ---
 title: "Nicholas Ward"
 description: "Nicholas Ward is a Senior Ocean CDR researcher at Pacific Northwest National Laboratory in US. With 1429 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/nicholas-ward-a5016338/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,22 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | CDR Focus | 0.7% |
 | Trajectory | Growing |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **The black carbon cycle and its role in the Earth system** (2022)
-   244 citations · General CDR
+10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 8, General CDR 5. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Mixing and dilution controls on marine CO<sub>2</sub> removal using alkalinity enhancement** (2024)
-   19 citations · Ocean CDR
-
-3. **Novel field trial for ocean alkalinity enhancement using electrochemically derived aqueous alkalinity** (2025)
-   14 citations · Ocean CDR
-
-4. **Biological response of eelgrass epifauna, Taylor's Sea hare ( <i>Phyllaplysia taylori</i> ) and eelgrass isopod ( <i>Idotea resecata</i> ), to elevated ocean alkalinity** (2025)
-   8 citations · Ocean CDR
-
-5. **Regional ocean biogeochemical modeling challenges for predicting the effectiveness of marine carbon dioxide removal** (2025)
-   6 citations · General CDR
-
-6. **Biological response of eelgrass epifauna, Taylor’s sea hare (Phyllaplysia taylori) and eelgrass isopod (Idotea resecata), to elevated ocean alkalinity** (2024)
-   6 citations · Ocean CDR
-
-7. **Probabilistic forecasting of coastal wetland elevation and soil carbon response to sea‐level rise** (2026)
-   0 citations
-
-8. **Integrating laboratory-based secondary precipitation thresholds with ocean biogeochemistry models to advance ocean alkalinity enhancement decision-making** (2026)
-   0 citations · Ocean CDR
-
-9. **Bipolar Membrane Electrodialyzers as Flexible Demand Response Resources: Co-Optimization of Cost Savings and Product Formation** (2025)
-   0 citations · General CDR
-
-10. **Bipolar Membrane Electrodialyzers as Flexible Demand Response Resources: Co-Optimization of Cost Savings and Product Formation** (2025)
-   0 citations
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Integrating laboratory-based secondary precipitation thresholds with ocean biogeochemistry models to advance ocean alkalinity enhancement decision-making](https://openalex.org/W7204276729) | Ocean CDR | 0 |
+| 2025 | [Novel field trial for ocean alkalinity enhancement using electrochemically derived aqueous alkalinity](https://doi.org/10.3389/fenve.2025.1641277) | Ocean CDR | 14 |
+| 2025 | [Biological response of eelgrass epifauna, Taylor's Sea hare ( <i>Phyllaplysia taylori</i> ) and eelgrass isopod ( <i>Idotea resecata</i> ), to elevated ocean alkalinity](https://doi.org/10.5194/bg-22-1615-2025) | Ocean CDR | 8 |
+| 2025 | [Regional ocean biogeochemical modeling challenges for predicting the effectiveness of marine carbon dioxide removal](https://doi.org/10.3389/fclim.2025.1640617) | General CDR; Ocean CDR | 6 |
+| 2025 | [Assessing the limitations of commercial sensors and models for supporting marine carbon dioxide removal monitoring: a case study](https://doi.org/10.3389/fclim.2025.1649723) | General CDR; Ocean CDR | 0 |
+| 2025 | [Bipolar Membrane Electrodialyzers as Flexible Demand Response Resources: Co-Optimization of Cost Savings and Product Formation](https://doi.org/10.2139/ssrn.5801873) | General CDR | 0 |
+| 2024 | [Mixing and dilution controls on marine CO<sub>2</sub> removal using alkalinity enhancement](https://doi.org/10.1088/1748-9326/ad7521) | Ocean CDR | 19 |
+| 2024 | [Biological response of eelgrass epifauna, Taylor’s sea hare (Phyllaplysia taylori) and eelgrass isopod (Idotea resecata), to elevated ocean alkalinity](https://doi.org/10.5194/egusphere-2024-972) | Ocean CDR | 6 |
+| 2023 | [Electrochemical Acid Sequestration to Ease Ocean Acidification (EASE-OA) - CRADA 600 (Abstract)](http://doi.org/10.2172/1995374) | General CDR; Ocean CDR | 0 |
+| 2022 | [The black carbon cycle and its role in the Earth system](https://doi.org/10.1038/s43017-022-00316-6) | General CDR | 244 |
 
 ## External Profiles
 

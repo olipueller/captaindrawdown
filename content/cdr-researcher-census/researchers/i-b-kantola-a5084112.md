@@ -1,7 +1,7 @@
 ---
 title: "I. B. Kantola"
 description: "I. B. Kantola is a Mid-career Enhanced Weathering researcher at University of Illinois Urbana-Champaign in US. With 61 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/i-b-kantola-a5084112/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,22 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | CDR Focus | 18.0% |
 | Trajectory | Declining |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Effects of mineralogy, chemistry and physical properties of basalts on carbon capture potential and plant-nutrient element release via enhanced weathering** (2021)
-   162 citations · Enhanced Weathering
+10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 10, General CDR 6, Soil Carbon 5. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Enhanced weathering in the US Corn Belt delivers carbon removal with agronomic benefits** (2024)
-   146 citations
-
-3. **Improved net carbon budgets in the <scp>US</scp> Midwest through direct measured impacts of enhanced weathering** (2023)
-   87 citations · Enhanced Weathering
-
-4. **In silico assessment of the potential of basalt amendments to reduce N<sub>2</sub>O emissions from bioenergy crops** (2020)
-   64 citations · BECCS
-
-5. **A review of transformative strategies for climate mitigation by grasslands** (2021)
-   41 citations
-
-6. **Improving nitrogen cycling in a land surface model (CLM5) to quantify soil N <sub>2</sub> O, NO, and NH <sub>3</sub> emissions from enhanced rock weathering with croplands** (2023)
-   20 citations · Enhanced Weathering
-
-7. **Iron Chelation in Soil: Scalable Biotechnology for Accelerating Carbon Dioxide Removal by Enhanced Rock Weathering** (2024)
-   9 citations · Enhanced Weathering
-
-8. **Enhanced weathering in the U.S. Corn Belt delivers carbon removal with agronomic benefits** (2023)
-   5 citations · Enhanced Weathering
-
-9. **Improving nitrogen cycling in a land surface model (CLM5) to quantify soil N <sub>2</sub> O, NO and NH <sub>3</sub> emissions from enhanced rock weathering with croplands** (2023)
-   4 citations
-
-10. **Effects of rock amendment on soil physicochemical properties and organic carbon stabilization** (2025)
-   3 citations · Enhanced Weathering
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2025 | [Effects of rock amendment on soil physicochemical properties and organic carbon stabilization](https://doi.org/10.1016/j.isci.2025.114232) | Enhanced Weathering; Soil Carbon | 3 |
+| 2024 | [Iron Chelation in Soil: Scalable Biotechnology for Accelerating Carbon Dioxide Removal by Enhanced Rock Weathering](https://doi.org/10.1021/acs.est.3c10146) | Enhanced Weathering; General CDR | 9 |
+| 2024 | [Effects of enhanced mineral weathering on soil structure and organic carbon storage](https://doi.org/10.5194/egusphere-egu24-10036) | Enhanced Weathering; Soil Carbon | 0 |
+| 2023 | [Improved net carbon budgets in the <scp>US</scp> Midwest through direct measured impacts of enhanced weathering](https://doi.org/10.1111/gcb.16903) | Enhanced Weathering; General CDR | 87 |
+| 2023 | [Improving nitrogen cycling in a land surface model (CLM5) to quantify soil N <sub>2</sub> O, NO, and NH <sub>3</sub> emissions from enhanced rock weathering with croplands](https://doi.org/10.5194/gmd-16-5783-2023) | Enhanced Weathering; Soil Carbon | 20 |
+| 2023 | [Enhanced weathering in the U.S. Corn Belt delivers carbon removal with agronomic benefits](http://arxiv.org/abs/2307.05343) | Enhanced Weathering; General CDR; Soil Carbon | 5 |
+| 2023 | [Validating assumptions in calculating carbon dioxide removal by enhanced rock weathering in Kantola et al., 2023](https://doi.org/10.1111/gcb.17031) | Enhanced Weathering; General CDR | 3 |
+| 2023 | [Immobile Trace Element Based Enhanced Rock Weathering Soil Measurements of Carbon Reductions in the US Midwest](http://dx.doi.org/10.7185/gold2023.15402) | Enhanced Weathering; Soil Carbon | 0 |
+| 2021 | [Effects of mineralogy, chemistry and physical properties of basalts on carbon capture potential and plant-nutrient element release via enhanced weathering](https://doi.org/10.1016/j.apgeochem.2021.105023) | Enhanced Weathering; General CDR | 162 |
+| 2021 | [Quantifying CO<sub>2 </sub>removal via enhanced rock weathering in constrasting croplands](https://doi.org/10.7185/gold2021.6276) | Enhanced Weathering; General CDR | 0 |
 
 ## External Profiles
 

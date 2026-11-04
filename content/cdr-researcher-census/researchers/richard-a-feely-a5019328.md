@@ -1,7 +1,7 @@
 ---
 title: "Richard A. Feely"
 description: "Richard A. Feely is an Eminent Ocean CDR researcher at NOAA Pacific Marine Environmental Laboratory in US. With 707 publications and an h-index of 111, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/richard-a-feely-a5019328/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,22 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | CDR Focus | 1.4% |
 | Trajectory | Growing |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Natural Analogues in pH Variability and Predictability across the Coastal Pacific Estuaries: Extrapolation of the Increased Oyster Dissolution under Increased pH Amplitude and Low Predictability Related to Ocean Acidification** (2022)
-   34 citations · Ocean CDR
+10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 10, General CDR 3. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **Assessment framework to predict sensitivity of marine calcifiers to ocean alkalinity enhancement – identification of biological thresholds and importance of precautionary principle** (2025)
-   26 citations · Ocean CDR
-
-3. **An updated version of the global interior ocean biogeochemical data product, GLODAPv2.2021** (2021)
-   23 citations · General CDR
-
-4. **Mixing and dilution controls on marine CO<sub>2</sub> removal using alkalinity enhancement** (2024)
-   19 citations · Ocean CDR
-
-5. **Biological Responses to Ocean Acidification Are Changing the Global Ocean Carbon Cycle** (2025)
-   15 citations · Ocean CDR
-
-6. **Novel field trial for ocean alkalinity enhancement using electrochemically derived aqueous alkalinity** (2025)
-   14 citations · Ocean CDR
-
-7. **Seasonality and response of ocean acidification and hypoxia to major environmental anomalies in the southern Salish Sea, North America (2014–2018)** (2024)
-   14 citations · Ocean CDR
-
-8. **Substantial Limitations of Ocean Alkalinity Enhancement in Mitigating the Negative Impacts of Ocean Acidification on Marine Calcifiers** (2025)
-   7 citations · Ocean CDR
-
-9. **Perspectives on Marine Carbon Dioxide Removal from the Global Ocean Acidification Observing Network** (2025)
-   5 citations · General CDR
-
-10. **Supplementary material to "Unifying framework for assessing sensitivity for marine calcifiers to ocean alkalinity enhancement identifies winners, losers and biological thresholds – importance of caution with precautionary principle"** (2024)
-   2 citations · General CDR
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2025 | [Assessment framework to predict sensitivity of marine calcifiers to ocean alkalinity enhancement – identification of biological thresholds and importance of precautionary principle](https://doi.org/10.5194/bg-22-473-2025) | Ocean CDR | 26 |
+| 2025 | [Biological Responses to Ocean Acidification Are Changing the Global Ocean Carbon Cycle](https://doi.org/10.1029/2024gb008358) | Ocean CDR | 15 |
+| 2025 | [Novel field trial for ocean alkalinity enhancement using electrochemically derived aqueous alkalinity](https://doi.org/10.3389/fenve.2025.1641277) | Ocean CDR | 14 |
+| 2025 | [Substantial Limitations of Ocean Alkalinity Enhancement in Mitigating the Negative Impacts of Ocean Acidification on Marine Calcifiers](https://doi.org/10.1021/acs.est.5c09298) | Ocean CDR | 7 |
+| 2025 | [Perspectives on Marine Carbon Dioxide Removal from the Global Ocean Acidification Observing Network](https://doi.org/10.5670/oceanog.2025.e308) | General CDR; Ocean CDR | 5 |
+| 2024 | [Mixing and dilution controls on marine CO<sub>2</sub> removal using alkalinity enhancement](https://doi.org/10.1088/1748-9326/ad7521) | Ocean CDR | 19 |
+| 2024 | [Seasonality and response of ocean acidification and hypoxia to major environmental anomalies in the southern Salish Sea, North America (2014–2018)](https://doi.org/10.5194/bg-21-1639-2024) | Ocean CDR | 14 |
+| 2024 | [Unifying framework for assessing sensitivity for marine calcifiers to ocean alkalinity enhancement identifies winners, losers and biological thresholds – importance of caution with precautionary principle](https://doi.org/10.5194/egusphere-2024-947) | General CDR; Ocean CDR | 2 |
+| 2022 | [Natural Analogues in pH Variability and Predictability across the Coastal Pacific Estuaries: Extrapolation of the Increased Oyster Dissolution under Increased pH Amplitude and Low Predictability Related to Ocean Acidification](https://doi.org/10.1021/acs.est.2c00010) | Ocean CDR | 34 |
+| 2021 | [An updated version of the global interior ocean biogeochemical data product, GLODAPv2.2021](https://doi.org/10.5194/essd-2021-234) | General CDR; Ocean CDR | 23 |
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Alix Vidal"
 description: "Alix Vidal is a Senior Enhanced Weathering researcher at Wageningen University & Research in NL. With 82 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:19:34+00:00
+date: 2026-11-04T18:42:38+00:00
 url: "/cdr-researcher-census/researchers/alix-vidal-a5059677/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,37 +48,25 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | CDR Focus | 15.9% |
 | Trajectory | Stable |
 
-## Top CDR Publications
+## Papers counted in the census {#papers}
 
-1. **Organic carbon source controlled microbial olivine dissolution in small-scale flow-through bioreactors, for CO2 removal** (2024)
-   16 citations · Enhanced Weathering
+13 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 12, General CDR 11, Soil Carbon 3, Biochar 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
-2. **From waste to soil: Can we create functioning manufactured soils by recycling rock processing waste?** (2024)
-   10 citations · Enhanced Weathering
-
-3. **Design and Construction of an Experimental Setup to Enhance Mineral Weathering through the Activity of Soil Organisms** (2023)
-   10 citations · Enhanced Weathering
-
-4. **How earthworms thrive and drive silicate rock weathering in an artificial organo-mineral system** (2024)
-   8 citations · Enhanced Weathering
-
-5. **Alive and dead earthworms capture carbon during mineral weathering through different pathways** (2025)
-   6 citations · Enhanced Weathering
-
-6. **Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment** (2025)
-   3 citations
-
-7. **Contribution of dissolved organic carbon to total alkalinity in Enhanced Weathering experiments** (2026)
-   1 citations · Enhanced Weathering
-
-8. **Can we improve soil properties and plant biomass using rock powder as soil amendment?** (2021)
-   1 citations · Enhanced Weathering
-
-9. **Effects of novel stover valorization pathways on soil organic matter dynamics in a highly weathered soil** (2026)
-   0 citations
-
-10. **Effects of spent mushroom substrate and vermicompost on organic matter dynamics in highly weathered soil** (2026)
-   0 citations
+| Year | Paper | Pathway | Citations |
+|---|---|---|---:|
+| 2026 | [Contribution of dissolved organic carbon to total alkalinity in Enhanced Weathering experiments](https://doi.org/10.1016/j.apgeochem.2026.106685) | Enhanced Weathering; General CDR | 1 |
+| 2025 | [Alive and dead earthworms capture carbon during mineral weathering through different pathways](https://doi.org/10.1038/s43247-025-02766-4) | Enhanced Weathering; Soil Carbon | 6 |
+| 2025 | [Grounding carbon farming, or how to break the market logic and promote the cocreation of farming systems](https://doi.org/10.5194/egusphere-egu25-16622) | General CDR; Soil Carbon | 0 |
+| 2025 | [Contribution of dissolved organic carbon to total alkalinity&amp;#160;](https://doi.org/10.5194/egusphere-egu25-18005) | Enhanced Weathering; General CDR | 0 |
+| 2025 | [Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment](https://doi.org/10.12688/openreseurope.19252.1) | Enhanced Weathering; General CDR | 0 |
+| 2025 | [Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment](https://openalex.org/W4411985761) | Biochar; Enhanced Weathering; General CDR | 0 |
+| 2024 | [Organic carbon source controlled microbial olivine dissolution in small-scale flow-through bioreactors, for CO2 removal](https://doi.org/10.1038/s41529-024-00454-w) | Enhanced Weathering; General CDR | 16 |
+| 2024 | [From waste to soil: Can we create functioning manufactured soils by recycling rock processing waste?](https://doi.org/10.1111/sum.13094) | Enhanced Weathering; Soil Carbon | 10 |
+| 2024 | [How earthworms thrive and drive silicate rock weathering in an artificial organo-mineral system](https://doi.org/10.1016/j.apgeochem.2024.106271) | Enhanced Weathering; General CDR | 8 |
+| 2023 | [Design and Construction of an Experimental Setup to Enhance Mineral Weathering through the Activity of Soil Organisms](https://doi.org/10.3791/65563) | Enhanced Weathering; General CDR | 10 |
+| 2023 | [Can earthworms increase inorganic carbon sequestration in an artificial environment?](http://dx.doi.org/10.5194/egusphere-egu23-3352) | Enhanced Weathering; General CDR | 0 |
+| 2022 | [Can earthworms enhance mineral weathering and thereby increase carbon sequestration? &amp;#160;](https://doi.org/10.5194/egusphere-egu22-5706) | Enhanced Weathering; General CDR | 0 |
+| 2021 | [Can we improve soil properties and plant biomass using rock powder as soil amendment?](https://doi.org/10.5194/egusphere-egu21-4512) | Enhanced Weathering; General CDR | 1 |
 
 ## External Profiles
 
