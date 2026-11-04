@@ -1,0 +1,6 @@
+{{- /* scrollable table wrappers are keyboard-reachable (axe scrollable-region-focusable) */ -}}
+<script>
+document.querySelectorAll('.post-content table, .cd-tablewrap').forEach(function (el) {
+  if (el.scrollWidth > el.clientWidth && !el.hasAttribute('tabindex')) { el.setAttribute('tabindex', '0'); el.setAttribute('role', 'region'); el.setAttribute('aria-label', 'scrollable table'); }
+});
+</script>

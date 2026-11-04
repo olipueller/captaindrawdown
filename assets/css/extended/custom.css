@@ -321,3 +321,23 @@ hr { border-color: var(--line); }
 .cd-eyebrow { font-family: var(--font-sans); font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-muted); margin: 0 0 var(--space-2); }
 .cd-404 h1 { font-size: 32px; line-height: 38px; margin: 0 0 var(--space-3); }
 .cd-404-links { font-family: var(--font-sans); font-size: 16px; line-height: 26px; padding-inline-start: 20px; }
+
+/* — links inside prose carry an underline (WCAG 1.4.1, axe link-in-text-block) — */
+.post-content p a, .post-content li a, .post-content td a, .post-content .cd-panel a, .post-content .cd-notice a, .post-content .cd-legend a, .cd-lead a, .cd-links a, .entry-content a, .cd-footer a {
+  text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; text-decoration-color: rgba(14, 90, 106, .45);
+}
+.post-content p a:hover, .post-content li a:hover, .post-content td a:hover, .cd-footer a:hover { text-decoration-color: var(--petrol); }
+.cd-table td a, .cd-pwcard, .cd-card, .cd-stat, .post-tags a, #menu a, .logo a { text-decoration: none; }
+.cd-table td a { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 2px; text-decoration-color: rgba(14, 90, 106, .35); }
+
+/* — tier text at 4.5:1 on paper and white (axe color-contrast); the dot keeps the token colour — */
+.cd-tier--active { color: #166e3d; } .cd-tier--active::before { background: var(--tier-active); }
+.cd-tier--moderate { color: #7a5b00; } .cd-tier--moderate::before { background: var(--tier-moderate); }
+.cd-tier--suspect { color: #9a4a12; } .cd-tier--suspect::before { background: var(--tier-suspect); }
+.cd-tier--dead { color: #a02a29; } .cd-tier--dead::before { background: var(--tier-dead); }
+.cd-stat--active .num { color: #166e3d; } .cd-stat--moderate .num { color: #7a5b00; } .cd-stat--suspect .num { color: #9a4a12; } .cd-stat--dead .num { color: #a02a29; }
+[data-theme="dark"] .cd-tier--active, [data-theme="dark"] .cd-stat--active .num { color: var(--tier-active); }
+[data-theme="dark"] .cd-tier--moderate, [data-theme="dark"] .cd-stat--moderate .num { color: var(--tier-moderate); }
+[data-theme="dark"] .cd-tier--suspect, [data-theme="dark"] .cd-stat--suspect .num { color: var(--tier-suspect); }
+[data-theme="dark"] .cd-tier--dead, [data-theme="dark"] .cd-stat--dead .num { color: var(--tier-dead); }
+.cd-badge--cdi { color: #8f3310; }
