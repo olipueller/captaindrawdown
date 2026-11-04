@@ -357,3 +357,7 @@ hr { border-color: var(--line); }
 .post-content .cd-result-ext { grid-column: 2; grid-row: 1 / span 2; align-self: center; font-size: 13px; }
 
 .post-content .cd-result-name { justify-self: start; }
+
+/* — homepage hero band — */
+.cd-hero-band { margin: 0 0 var(--space-5); border-radius: var(--radius-md); overflow: hidden; border: 1px solid var(--line); background: var(--surface-1); }
+.cd-hero-band img { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; }
