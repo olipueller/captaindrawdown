@@ -1,7 +1,7 @@
 ---
 title: "Damien Ernst"
 description: "Damien Ernst is an Eminent DAC researcher at University of Liège in BE. With 412 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/damien-ernst-a5077011/"
 layout: "researcher"
 hiddenInHomeList: true

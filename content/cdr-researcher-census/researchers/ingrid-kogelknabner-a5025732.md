@@ -1,7 +1,7 @@
 ---
 title: "Ingrid Kögel‐Knabner"
 description: "Ingrid Kögel‐Knabner is an Eminent Soil Carbon researcher at Technical University of Munich in DE. With 670 publications and an h-index of 111, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/ingrid-kogelknabner-a5025732/"
 layout: "researcher"
 hiddenInHomeList: true

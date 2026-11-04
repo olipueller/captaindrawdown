@@ -1,7 +1,7 @@
 ---
 title: "Susana García"
 description: "Susana García is a Senior DAC researcher at Heriot-Watt University in GB. With 181 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/susana-garcia-a5044341/"
 layout: "researcher"
 hiddenInHomeList: true

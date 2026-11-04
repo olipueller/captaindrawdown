@@ -1,7 +1,7 @@
 ---
 title: "Hamed Sanei"
 description: "Hamed Sanei is an Eminent Biochar researcher at Aarhus University in DK. With 328 publications and an h-index of 49, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/hamed-sanei-a5054476/"
 layout: "researcher"
 hiddenInHomeList: true

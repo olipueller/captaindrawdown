@@ -1,7 +1,7 @@
 ---
 title: "Susanne E. Hamburger"
 description: "Susanne E. Hamburger is an Early-career Biochar researcher at Hochschule Geisenheim University in DE. With 12 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/susanne-e-hamburger-a5116618/"
 layout: "researcher"
 hiddenInHomeList: true

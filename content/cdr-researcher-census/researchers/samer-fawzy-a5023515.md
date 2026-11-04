@@ -1,7 +1,7 @@
 ---
 title: "Samer Fawzy"
 description: "Samer Fawzy is a Mid-career General CDR researcher at Queen's University Belfast in GB. With 28 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/samer-fawzy-a5023515/"
 layout: "researcher"
 hiddenInHomeList: true

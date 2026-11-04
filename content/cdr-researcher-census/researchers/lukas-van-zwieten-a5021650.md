@@ -1,7 +1,7 @@
 ---
 title: "Lukas Van Zwieten"
 description: "Lukas Van Zwieten is an Eminent Soil Carbon researcher at New South Wales Department of Primary Industries in AU. With 282 publications and an h-index of 73, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/lukas-van-zwieten-a5021650/"
 layout: "researcher"
 hiddenInHomeList: true

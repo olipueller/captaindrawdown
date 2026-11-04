@@ -1,7 +1,7 @@
 ---
 title: "Nianzhi Jiao"
 description: "Nianzhi Jiao is an Eminent Ocean CDR researcher at Xiamen University in CN. With 442 publications and an h-index of 57, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/nianzhi-jiao-a5024666/"
 layout: "researcher"
 hiddenInHomeList: true

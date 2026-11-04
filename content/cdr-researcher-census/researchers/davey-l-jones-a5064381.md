@@ -1,7 +1,7 @@
 ---
 title: "Davey L. Jones"
 description: "Davey L. Jones is an Eminent Soil Carbon researcher at Bangor University in GB. With 1199 publications and an h-index of 131, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/davey-l-jones-a5064381/"
 layout: "researcher"
 hiddenInHomeList: true

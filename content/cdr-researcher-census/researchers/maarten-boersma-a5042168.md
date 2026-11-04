@@ -1,7 +1,7 @@
 ---
 title: "Maarten Boersma"
 description: "Maarten Boersma is an Eminent Ocean CDR researcher at Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung in DE. With 451 publications and an h-index of 48, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/maarten-boersma-a5042168/"
 layout: "researcher"
 hiddenInHomeList: true

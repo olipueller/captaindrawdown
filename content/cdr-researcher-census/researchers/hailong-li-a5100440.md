@@ -1,7 +1,7 @@
 ---
 title: "Hailong Li"
 description: "Hailong Li is an Eminent BECCS researcher at Mälardalen University in SE. With 403 publications and an h-index of 70, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/hailong-li-a5100440/"
 layout: "researcher"
 hiddenInHomeList: true

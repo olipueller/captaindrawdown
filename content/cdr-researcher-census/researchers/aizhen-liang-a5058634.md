@@ -1,7 +1,7 @@
 ---
 title: "Aizhen Liang"
 description: "Aizhen Liang is a Senior Soil Carbon researcher at Northeast Institute of Geography and Agroecology in CN. With 115 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/aizhen-liang-a5058634/"
 layout: "researcher"
 hiddenInHomeList: true

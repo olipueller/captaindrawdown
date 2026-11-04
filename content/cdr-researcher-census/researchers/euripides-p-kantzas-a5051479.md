@@ -1,7 +1,7 @@
 ---
 title: "Euripides P. Kantzas"
 description: "Euripides P. Kantzas is a Senior Enhanced Weathering researcher at Leverhulme Centre for Climate Change Mitigation in GB. With 55 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/euripides-p-kantzas-a5051479/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Astrid Hylén"
 description: "Astrid Hylén is a Mid-career Enhanced Weathering researcher at CEREGE in FR. With 62 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/astrid-hylen-a5047703/"
 layout: "researcher"
 hiddenInHomeList: true

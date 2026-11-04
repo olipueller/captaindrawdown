@@ -1,7 +1,7 @@
 ---
 title: "Jinfeng Chang"
 description: "Jinfeng Chang is an Eminent General CDR researcher at Zhejiang University in CN. With 249 publications and an h-index of 58, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/jinfeng-chang-a5025102/"
 layout: "researcher"
 hiddenInHomeList: true

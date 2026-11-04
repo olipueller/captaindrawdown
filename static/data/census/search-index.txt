@@ -526,7 +526,6 @@ Kirstine Skov|https://openalex.org/A5042164311|DK|Enhanced Weathering|11|confirm
 Leon Merfort|https://openalex.org/A5010129778|DE|General CDR|11|confirmed
 Tobias Bromm|https://openalex.org/A5000925986|DE|Biochar|11|confirmed
 Iordanis Magiopoulos|https://openalex.org/A5069820303|GR|Ocean CDR|11|confirmed
-Minggang Xu|https://openalex.org/A5101588477|CN|Soil Carbon|11|confirmed
 Christina Larkin|https://openalex.org/A5074798724|GB|Enhanced Weathering|10|incomplete
 Maria Victoria Migo-Sumagang|https://openalex.org/A5048614269|PH|General CDR|10|confirmed
 Michael Fuhr|https://openalex.org/A5072752114|DE|Ocean CDR|10|confirmed

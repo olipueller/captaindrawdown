@@ -1,7 +1,7 @@
 ---
 title: "Behrouz Gholamahmadi"
 description: "Behrouz Gholamahmadi is a Mid-career Biochar researcher at University of Aveiro in PT. With 40 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/behrouz-gholamahmadi-a5079131/"
 layout: "researcher"
 hiddenInHomeList: true

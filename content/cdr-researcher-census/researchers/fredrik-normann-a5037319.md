@@ -1,7 +1,7 @@
 ---
 title: "Fredrik Normann"
 description: "Fredrik Normann is a Senior General CDR researcher at Chalmers University of Technology in SE. With 170 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/fredrik-normann-a5037319/"
 layout: "researcher"
 hiddenInHomeList: true

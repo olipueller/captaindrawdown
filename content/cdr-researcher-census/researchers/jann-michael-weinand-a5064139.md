@@ -1,7 +1,7 @@
 ---
 title: "Jann Michael Weinand"
 description: "Jann Michael Weinand is a Senior DAC researcher at Forschungszentrum Jülich in DE. With 174 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/jann-michael-weinand-a5064139/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Bruce E. Dale"
 description: "Bruce E. Dale is an Eminent BECCS researcher at Michigan State University in US. With 448 publications and an h-index of 96, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/bruce-e-dale-a5015618/"
 layout: "researcher"
 hiddenInHomeList: true

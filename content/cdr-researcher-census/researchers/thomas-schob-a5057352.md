@@ -1,7 +1,7 @@
 ---
 title: "Thomas Schöb"
 description: "Thomas Schöb is an Early-career DAC researcher at Forschungszentrum Jülich in DE. With 21 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/thomas-schob-a5057352/"
 layout: "researcher"
 hiddenInHomeList: true

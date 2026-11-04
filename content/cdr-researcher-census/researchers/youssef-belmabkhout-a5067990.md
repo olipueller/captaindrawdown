@@ -1,7 +1,7 @@
 ---
 title: "Youssef Belmabkhout"
 description: "Youssef Belmabkhout is an Eminent DAC researcher at Université Mohammed VI Polytechnique in MA. With 287 publications and an h-index of 77, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/youssef-belmabkhout-a5067990/"
 layout: "researcher"
 hiddenInHomeList: true

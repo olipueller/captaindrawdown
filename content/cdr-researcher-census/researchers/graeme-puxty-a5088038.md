@@ -1,7 +1,7 @@
 ---
 title: "Graeme Puxty"
 description: "Graeme Puxty is a Senior DAC researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 151 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/graeme-puxty-a5088038/"
 layout: "researcher"
 hiddenInHomeList: true

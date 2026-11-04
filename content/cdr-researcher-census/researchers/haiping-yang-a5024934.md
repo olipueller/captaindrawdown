@@ -1,7 +1,7 @@
 ---
 title: "Haiping Yang"
 description: "Haiping Yang is an Eminent Biochar researcher at State Key Laboratory of Coal Combustion in CN. With 575 publications and an h-index of 88, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/haiping-yang-a5024934/"
 layout: "researcher"
 hiddenInHomeList: true

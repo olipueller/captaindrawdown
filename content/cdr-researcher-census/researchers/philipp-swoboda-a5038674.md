@@ -1,7 +1,7 @@
 ---
 title: "Philipp Swoboda"
 description: "Philipp Swoboda is a Mid-career Enhanced Weathering researcher at InPlanet GmbH in DE. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/philipp-swoboda-a5038674/"
 layout: "researcher"
 hiddenInHomeList: true

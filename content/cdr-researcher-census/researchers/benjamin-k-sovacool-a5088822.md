@@ -1,7 +1,7 @@
 ---
 title: "Benjamin K. Sovacool"
 description: "Benjamin K. Sovacool is an Eminent General CDR researcher at Boston University in US. With 1015 publications and an h-index of 136, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/benjamin-k-sovacool-a5088822/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Spyros Foteinis"
 description: "Spyros Foteinis is a Senior General CDR researcher at Heriot-Watt University in GB. With 123 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/spyros-foteinis-a5057305/"
 layout: "researcher"
 hiddenInHomeList: true

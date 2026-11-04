@@ -1,7 +1,7 @@
 ---
 title: "Mathilde Hagens"
 description: "Mathilde Hagens is a Mid-career Enhanced Weathering researcher at Wageningen University & Research in NL. With 79 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/mathilde-hagens-a5069214/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Nina Zeyen"
 description: "Nina Zeyen is a Mid-career Enhanced Weathering researcher at University of Geneva in CH. With 60 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/nina-zeyen-a5054079/"
 layout: "researcher"
 hiddenInHomeList: true

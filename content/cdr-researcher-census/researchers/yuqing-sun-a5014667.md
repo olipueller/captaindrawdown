@@ -1,7 +1,7 @@
 ---
 title: "Yuqing Sun"
 description: "Yuqing Sun is an Eminent Biochar researcher at Sun Yat-Sen University in CN. With 265 publications and an h-index of 64, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/yuqing-sun-a5014667/"
 layout: "researcher"
 hiddenInHomeList: true

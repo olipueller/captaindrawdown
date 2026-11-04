@@ -1,7 +1,7 @@
 ---
 title: "Guido Raos"
 description: "Guido Raos is a Senior Ocean CDR researcher at Politecnico di Milano in IT. With 168 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/guido-raos-a5052105/"
 layout: "researcher"
 hiddenInHomeList: true

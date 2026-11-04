@@ -1,7 +1,7 @@
 ---
 title: "José M. de la Rosa Arranz"
 description: "José M. de la Rosa Arranz is a Senior Biochar researcher at Instituto de Recursos Naturales y Agrobiología de Sevilla in ES. With 309 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/jose-m-de-la-rosa-arranz-a5032318/"
 layout: "researcher"
 hiddenInHomeList: true

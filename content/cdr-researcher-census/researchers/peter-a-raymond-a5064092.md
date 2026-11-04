@@ -1,7 +1,7 @@
 ---
 title: "Peter A. Raymond"
 description: "Peter A. Raymond is an Eminent Enhanced Weathering researcher at Yale University in US. With 397 publications and an h-index of 90, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/peter-a-raymond-a5064092/"
 layout: "researcher"
 hiddenInHomeList: true

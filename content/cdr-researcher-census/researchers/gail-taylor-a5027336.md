@@ -1,7 +1,7 @@
 ---
 title: "Gail Taylor"
 description: "Gail Taylor is an Eminent BECCS researcher at University of California, Davis in US. With 399 publications and an h-index of 62, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/gail-taylor-a5027336/"
 layout: "researcher"
 hiddenInHomeList: true

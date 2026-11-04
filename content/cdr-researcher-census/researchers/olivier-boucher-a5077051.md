@@ -1,7 +1,7 @@
 ---
 title: "Oliviér Boucher"
 description: "Oliviér Boucher is an Eminent General CDR researcher at Institut Pierre-Simon Laplace in FR. With 820 publications and an h-index of 114, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/olivier-boucher-a5077051/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kirsten Zickfeld"
 description: "Kirsten Zickfeld is an Eminent General CDR researcher at Simon Fraser University in CA. With 201 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/kirsten-zickfeld-a5032945/"
 layout: "researcher"
 hiddenInHomeList: true

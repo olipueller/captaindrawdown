@@ -1,7 +1,7 @@
 ---
 title: "Matthew Healey"
 description: "Matthew Healey is an Early-career Enhanced Weathering researcher at UNDO Carbon Ltd in GB. With 15 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/matthew-healey-a5016334/"
 layout: "researcher"
 hiddenInHomeList: true

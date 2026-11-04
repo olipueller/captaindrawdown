@@ -1,7 +1,7 @@
 ---
 title: "Jay Fuhrman"
 description: "Jay Fuhrman is a Mid-career General CDR researcher at Joint Global Change Research Institute in US. With 69 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/jay-fuhrman-a5034052/"
 layout: "researcher"
 hiddenInHomeList: true

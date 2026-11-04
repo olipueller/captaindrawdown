@@ -1,7 +1,7 @@
 ---
 title: "Chin‐Pao Huang"
 description: "Chin‐Pao Huang is an Eminent Biochar researcher at University of Delaware in US. With 375 publications and an h-index of 80, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/chinpao-huang-a5009506/"
 layout: "researcher"
 hiddenInHomeList: true

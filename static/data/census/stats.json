@@ -1,11 +1,11 @@
 {
-  "total_authors": 630,
+  "total_authors": 629,
   "total_papers": 27418,
   "countries": 43,
   "institutions": 15279,
   "pathways": {
     "General CDR": 152,
-    "Soil Carbon": 121,
+    "Soil Carbon": 120,
     "Biochar": 95,
     "Enhanced Weathering": 82,
     "Ocean CDR": 81,
@@ -13,7 +13,7 @@
     "BECCS": 47
   },
   "top_countries": {
-    "CN": 102,
+    "CN": 101,
     "US": 98,
     "DE": 98,
     "GB": 61,
@@ -35,7 +35,7 @@
     "FI": 6
   },
   "sectors": {
-    "Academic": 382,
+    "Academic": 381,
     "Research Institute": 87,
     "Government": 65,
     "NGO": 37,

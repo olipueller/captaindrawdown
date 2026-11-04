@@ -1,7 +1,7 @@
 ---
 title: "Javier Arı́stegui"
 description: "Javier Arı́stegui is an Eminent Ocean CDR researcher at Universidad de Las Palmas de Gran Canaria in ES. With 338 publications and an h-index of 58, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/javier-arstegui-a5091003/"
 layout: "researcher"
 hiddenInHomeList: true

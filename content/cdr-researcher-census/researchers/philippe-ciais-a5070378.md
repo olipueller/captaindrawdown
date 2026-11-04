@@ -1,7 +1,7 @@
 ---
 title: "Philippe Ciais"
 description: "Philippe Ciais is an Eminent General CDR researcher at Laboratoire des Sciences du Climat et de l'Environnement in FR. With 2765 publications and an h-index of 224, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/philippe-ciais-a5070378/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Gregory Jones"
 description: "Gregory Jones is an Early-career Enhanced Weathering researcher at Imperial College London in GB. With 13 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/gregory-jones-a5032322/"
 layout: "researcher"
 hiddenInHomeList: true

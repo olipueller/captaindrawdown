@@ -1,7 +1,7 @@
 ---
 title: "Gonzalo Guillén‐Gosálbez"
 description: "Gonzalo Guillén‐Gosálbez is an Eminent General CDR researcher at ETH Zurich in CH. With 421 publications and an h-index of 60, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T18:42:38+00:00
+date: 2026-11-04T19:00:10+00:00
 url: "/cdr-researcher-census/researchers/gonzalo-guillengosalbez-a5059336/"
 layout: "researcher"
 hiddenInHomeList: true
