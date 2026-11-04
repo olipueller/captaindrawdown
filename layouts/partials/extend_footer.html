@@ -3,4 +3,9 @@
 document.querySelectorAll('.post-content table, .cd-tablewrap').forEach(function (el) {
   if (el.scrollWidth > el.clientWidth && !el.hasAttribute('tabindex')) { el.setAttribute('tabindex', '0'); el.setAttribute('role', 'region'); el.setAttribute('aria-label', 'scrollable table'); }
 });
+document.querySelectorAll('.post-content img[src*="/charts/"]').forEach(function (img) {
+  if (img.closest('a')) return;
+  var a = document.createElement('a'); a.href = img.getAttribute('src'); a.target = '_blank'; a.rel = 'noopener'; a.title = 'Open the chart in full size';
+  img.parentNode.insertBefore(a, img); a.appendChild(img);
+});
 </script>
