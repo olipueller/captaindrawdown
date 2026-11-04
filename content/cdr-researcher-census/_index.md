@@ -29,6 +29,10 @@ Primary pathway = the pathway with the most CDR papers per researcher. A paper t
 | Enhanced Weathering | 3,857 | 4.0 % | [Top 100](/data/researchers/enhanced-weathering/) · [Top 50 Europe](/data/researchers/enhanced-weathering/#europe-top-50) |
 | BECCS | 2,910 | 3.0 % | [Top 100](/data/researchers/beccs/) · [Top 50 Europe](/data/researchers/beccs/#europe-top-50) |
 
+The counts above are cumulative: everyone who has published in a pathway since 2021, including the many who wrote one paper and moved on. The chart shows the current working workforce, researchers who published in each pathway in the last complete year, and the share of that pathway's members they represent; direct air capture keeps the smallest share of its members active, enhanced weathering and ocean removal the largest. Year by year: [history](/directory/history/).
+
+![Active CDR researchers per pathway in the last complete year](/charts/census-active-by-pathway.png)
+
 ## Countries
 
 Listed count and the calibrated estimate per country. The calibration scales the listed count by the precision and recall measured in a March 2026 sample: OpenAlex over-assigns some countries and misses others, so the estimate is the better figure for comparisons.
