@@ -48,7 +48,16 @@ url: "/data/researchers/"
 }
 </script>
 
+<div class="cd-split">
+<div class="cd-main">
+
 **55,865 researchers listed** in release 2026-11.4 (data as of 2026-11-05): every author with at least one CDR-relevant paper since 2021 on one of 6 pathways, from 15,896 papers, 11,015 institutions and 170 countries. The calibrated estimate of the real population is **51,946**: the listed count scaled per country by the precision and recall measured in the March 2026 calibration sample (OpenAlex over-assigns some countries and misses others). 11,214 listed researchers are based in Europe.
+
+Person-level data is published only for the researchers in the top lists per pathway; everyone else is counted in the aggregates. The [census page](/cdr-researcher-census/) has the pathway table, the [lookup](/cdr-researcher-census/lookup/) finds a listed researcher by name.
+
+</div>
+<aside class="cd-aside"><div class="cd-panel"><h4>Release</h4><p>2026-11.4 · data as of 2026-11-05</p><span class="num">55,865</span><span class="lbl">researchers listed</span><h4>Download</h4><ul><li>researchers_by_country: <a href="/data/v1/2026-11.4/researchers_by_country.csv">CSV</a> · <a href="/data/v1/2026-11.4/researchers_by_country.json">JSON</a></li><li>researchers_by_pathway: <a href="/data/v1/2026-11.4/researchers_by_pathway.csv">CSV</a> · <a href="/data/v1/2026-11.4/researchers_by_pathway.json">JSON</a></li><li>researchers_by_country_pathway: <a href="/data/v1/2026-11.4/researchers_by_country_pathway.csv">CSV</a> · <a href="/data/v1/2026-11.4/researchers_by_country_pathway.json">JSON</a></li><li>researchers_by_sector: <a href="/data/v1/2026-11.4/researchers_by_sector.csv">CSV</a> · <a href="/data/v1/2026-11.4/researchers_by_sector.json">JSON</a></li><li>cdr_papers_by_year: <a href="/data/v1/2026-11.4/cdr_papers_by_year.csv">CSV</a> · <a href="/data/v1/2026-11.4/cdr_papers_by_year.json">JSON</a></li></ul><h4>Licence</h4><p><a href="https://creativecommons.org/licenses/by/4.0/"><span class="lic">CC BY 4.0</span></a></p><h4>Cite as</h4><p class="cite">Captain Drawdown / Carbon Drawdown Initiative (2026). CDR Researcher Census, version 2026-11.4. https://captaindrawdown.com/data/researchers/ (CC licence, see page).</p><h4>Use the data</h4><ul><li><a href="/api/v1/researchers/by-pathway.json">JSON API</a></li><li><a href="/api/#mcp">MCP server</a></li><li><a href="https://huggingface.co/datasets/carbondrawdowninitiative/cdr-researcher-census">Hugging Face</a></li><li><a href="/data/v1/2026-11.4/manifest.json">Manifest, checksums</a></li></ul><h4>Corrections</h4><p><a href="mailto:info@carbon-drawdown.de">info@carbon-drawdown.de</a>, in the next release; <a href="/data/changelog/">changelog</a></p></div></aside>
+</div>
 
 ## Top researchers per pathway
 

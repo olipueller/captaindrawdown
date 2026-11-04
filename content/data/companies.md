@@ -45,7 +45,12 @@ url: "/data/companies/"
 }
 </script>
 
-**913 published companies** in release 2026-11.4 (data as of 2026-11-05), out of 1,470 active companies in the database. Published means: active, and a supplier, a corporate division, an ecosystem company (MRV, brokers, software) or a side business. Buyers, entries under review and academic institutions stay in the database but are not published. 403 of the published companies are based in Europe (EU27 plus UK, Switzerland, Norway, Iceland).
+<div class="cd-split">
+<div class="cd-main">
+
+**913 published companies** in release 2026-11.4 (data as of 2026-11-05), out of 1,470 active companies in the database. Published means: active, and a supplier, a corporate division, an ecosystem company (MRV, brokers, software) or a side business. Buyers, entries under review, academic institutions and companies whose only pathway is afforestation stay in the database but are not published. 403 of the published companies are based in Europe (EU27 plus UK, Switzerland, Norway, Iceland).
+
+<div class="cd-tables">
 
 | Region | Companies |
 |---|---|
@@ -70,6 +75,12 @@ url: "/data/companies/"
 | Ocean CDR | 42 |
 | Enhanced Weathering | 33 |
 | Biomass Burial | 31 |
+
+</div>
+
+</div>
+<aside class="cd-aside"><div class="cd-panel"><h4>Release</h4><p>2026-11.4 · data as of 2026-11-05</p><span class="num">913</span><span class="lbl">published companies</span><h4>Download</h4><ul><li>companies: <a href="/data/v1/2026-11.4/companies.csv">CSV</a> · <a href="/data/v1/2026-11.4/companies.json">JSON</a></li></ul><h4>Licence</h4><p><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><span class="lic">CC BY-NC-SA 4.0</span></a></p><h4>Cite as</h4><p class="cite">Captain Drawdown / Carbon Drawdown Initiative (2026). CDR Company Directory, version 2026-11.4. https://captaindrawdown.com/data/companies/ (CC licence, see page).</p><h4>Use the data</h4><ul><li><a href="/api/v1/companies.json">JSON API</a></li><li><a href="/api/#mcp">MCP server</a></li><li><a href="https://huggingface.co/datasets/carbondrawdowninitiative/cdr-company-directory">Hugging Face</a></li><li><a href="/data/v1/2026-11.4/manifest.json">Manifest, checksums</a></li></ul><h4>Corrections</h4><p><a href="mailto:info@carbon-drawdown.de">info@carbon-drawdown.de</a>, in the next release; <a href="/data/changelog/">changelog</a></p></div></aside>
+</div>
 
 ## Download
 

@@ -42,7 +42,16 @@ url: "/data/shops/"
 }
 </script>
 
-**14 shops** in release 2026-11.4 (data as of 2026-11-05): every shop we know of where a person can buy certified carbon removal with a live credit-card checkout, listed on [cdr-shops.com](https://www.cdr-shops.com/carbon-removal/) with price, method, certifier, delivery time and our ratings for MRV, certification and delivery.
+<div class="cd-split">
+<div class="cd-main">
+
+**14 shops** in release 2026-11.4 (data as of 2026-11-05): every shop I know of where a person can buy certified carbon removal with a live credit-card checkout, listed on [cdr-shops.com](https://www.cdr-shops.com/carbon-removal/) with price, method, certifier, delivery time and ratings for MRV, certification and delivery.
+
+Listing rules: a live checkout and third-party certified removal; self-certification and registries without issuance are not accepted. Prices are re-checked monthly.
+
+</div>
+<aside class="cd-aside"><div class="cd-panel"><h4>Release</h4><p>2026-11.4 · data as of 2026-11-05</p><span class="num">14</span><span class="lbl">shops with live prices</span><h4>Download</h4><ul><li>shops: <a href="/data/v1/2026-11.4/shops.csv">CSV</a> · <a href="/data/v1/2026-11.4/shops.json">JSON</a></li></ul><h4>Licence</h4><p><a href="https://creativecommons.org/licenses/by/4.0/"><span class="lic">CC BY 4.0</span></a></p><h4>Cite as</h4><p class="cite">Captain Drawdown / Carbon Drawdown Initiative (2026). CDR Shops, version 2026-11.4. https://captaindrawdown.com/data/shops/ (CC licence, see page).</p><h4>Use the data</h4><ul><li><a href="/api/v1/shops.json">JSON API</a></li><li><a href="/api/#mcp">MCP server</a></li><li><a href="https://huggingface.co/datasets/carbondrawdowninitiative/cdr-shops">Hugging Face</a></li><li><a href="/data/v1/2026-11.4/manifest.json">Manifest, checksums</a></li></ul><h4>Corrections</h4><p><a href="mailto:info@carbon-drawdown.de">info@carbon-drawdown.de</a>, in the next release; <a href="/data/changelog/">changelog</a></p></div></aside>
+</div>
 
 ## Download
 
