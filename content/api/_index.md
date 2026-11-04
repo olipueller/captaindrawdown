@@ -54,3 +54,14 @@ Source distribution: [captain_drawdown_mcp-0.1.0.tar.gz](/mcp/captain_drawdown_m
 ## Corrections
 
 Write to [info@carbon-drawdown.de](mailto:info@carbon-drawdown.de?subject=Captain%20Drawdown%20data%20correction). Personal data: see the [privacy notice](/privacy/).
+
+<script>
+document.addEventListener('click', function (e) {
+  var a = e.target && e.target.closest ? e.target.closest('a[href]') : null;
+  if (!a || !window.goatcounter || !window.goatcounter.count) { return; }
+  var h = a.getAttribute('href') || '';
+  if (/^\/(data\/v1\/|api\/v1\/|mcp\/)/.test(h)) {
+    window.goatcounter.count({ path: 'download:' + h, title: (a.textContent || '').trim().slice(0, 60), event: true });
+  }
+});
+</script>

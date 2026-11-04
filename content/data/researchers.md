@@ -73,20 +73,20 @@ Two rankings in every file: by CDR papers since 2021 (rank) and by citations to 
 | researchers_by_country_pathway | 788 | 13 KB | [CSV](/data/v1/2026-11/researchers_by_country_pathway.csv) · [JSON](/data/v1/2026-11/researchers_by_country_pathway.json) |
 | researchers_by_sector | 8 | 0 KB | [CSV](/data/v1/2026-11/researchers_by_sector.csv) · [JSON](/data/v1/2026-11/researchers_by_sector.json) |
 | cdr_papers_by_year | 6 | 0 KB | [CSV](/data/v1/2026-11/cdr_papers_by_year.csv) · [JSON](/data/v1/2026-11/cdr_papers_by_year.json) |
-| top100_biochar | 100 | 21 KB | [CSV](/data/v1/2026-11/top100_biochar.csv) · [JSON](/data/v1/2026-11/top100_biochar.json) |
-| top50_europe_biochar | 50 | 11 KB | [CSV](/data/v1/2026-11/top50_europe_biochar.csv) · [JSON](/data/v1/2026-11/top50_europe_biochar.json) |
-| top100_soil-carbon | 100 | 22 KB | [CSV](/data/v1/2026-11/top100_soil-carbon.csv) · [JSON](/data/v1/2026-11/top100_soil-carbon.json) |
-| top50_europe_soil-carbon | 50 | 11 KB | [CSV](/data/v1/2026-11/top50_europe_soil-carbon.csv) · [JSON](/data/v1/2026-11/top50_europe_soil-carbon.json) |
-| top100_general-cdr | 100 | 23 KB | [CSV](/data/v1/2026-11/top100_general-cdr.csv) · [JSON](/data/v1/2026-11/top100_general-cdr.json) |
+| top100_biochar | 100 | 24 KB | [CSV](/data/v1/2026-11/top100_biochar.csv) · [JSON](/data/v1/2026-11/top100_biochar.json) |
+| top50_europe_biochar | 50 | 12 KB | [CSV](/data/v1/2026-11/top50_europe_biochar.csv) · [JSON](/data/v1/2026-11/top50_europe_biochar.json) |
+| top100_soil-carbon | 100 | 24 KB | [CSV](/data/v1/2026-11/top100_soil-carbon.csv) · [JSON](/data/v1/2026-11/top100_soil-carbon.json) |
+| top50_europe_soil-carbon | 50 | 12 KB | [CSV](/data/v1/2026-11/top50_europe_soil-carbon.csv) · [JSON](/data/v1/2026-11/top50_europe_soil-carbon.json) |
+| top100_general-cdr | 100 | 25 KB | [CSV](/data/v1/2026-11/top100_general-cdr.csv) · [JSON](/data/v1/2026-11/top100_general-cdr.json) |
 | top50_europe_general-cdr | 50 | 12 KB | [CSV](/data/v1/2026-11/top50_europe_general-cdr.csv) · [JSON](/data/v1/2026-11/top50_europe_general-cdr.json) |
-| top100_dac | 100 | 21 KB | [CSV](/data/v1/2026-11/top100_dac.csv) · [JSON](/data/v1/2026-11/top100_dac.json) |
-| top50_europe_dac | 50 | 10 KB | [CSV](/data/v1/2026-11/top50_europe_dac.csv) · [JSON](/data/v1/2026-11/top50_europe_dac.json) |
-| top100_ocean-cdr | 100 | 22 KB | [CSV](/data/v1/2026-11/top100_ocean-cdr.csv) · [JSON](/data/v1/2026-11/top100_ocean-cdr.json) |
-| top50_europe_ocean-cdr | 50 | 11 KB | [CSV](/data/v1/2026-11/top50_europe_ocean-cdr.csv) · [JSON](/data/v1/2026-11/top50_europe_ocean-cdr.json) |
-| top100_enhanced-weathering | 100 | 22 KB | [CSV](/data/v1/2026-11/top100_enhanced-weathering.csv) · [JSON](/data/v1/2026-11/top100_enhanced-weathering.json) |
-| top50_europe_enhanced-weathering | 50 | 11 KB | [CSV](/data/v1/2026-11/top50_europe_enhanced-weathering.csv) · [JSON](/data/v1/2026-11/top50_europe_enhanced-weathering.json) |
-| top100_beccs | 100 | 21 KB | [CSV](/data/v1/2026-11/top100_beccs.csv) · [JSON](/data/v1/2026-11/top100_beccs.json) |
-| top50_europe_beccs | 50 | 10 KB | [CSV](/data/v1/2026-11/top50_europe_beccs.csv) · [JSON](/data/v1/2026-11/top50_europe_beccs.json) |
+| top100_dac | 100 | 24 KB | [CSV](/data/v1/2026-11/top100_dac.csv) · [JSON](/data/v1/2026-11/top100_dac.json) |
+| top50_europe_dac | 50 | 12 KB | [CSV](/data/v1/2026-11/top50_europe_dac.csv) · [JSON](/data/v1/2026-11/top50_europe_dac.json) |
+| top100_ocean-cdr | 100 | 24 KB | [CSV](/data/v1/2026-11/top100_ocean-cdr.csv) · [JSON](/data/v1/2026-11/top100_ocean-cdr.json) |
+| top50_europe_ocean-cdr | 50 | 12 KB | [CSV](/data/v1/2026-11/top50_europe_ocean-cdr.csv) · [JSON](/data/v1/2026-11/top50_europe_ocean-cdr.json) |
+| top100_enhanced-weathering | 100 | 24 KB | [CSV](/data/v1/2026-11/top100_enhanced-weathering.csv) · [JSON](/data/v1/2026-11/top100_enhanced-weathering.json) |
+| top50_europe_enhanced-weathering | 50 | 12 KB | [CSV](/data/v1/2026-11/top50_europe_enhanced-weathering.csv) · [JSON](/data/v1/2026-11/top50_europe_enhanced-weathering.json) |
+| top100_beccs | 100 | 24 KB | [CSV](/data/v1/2026-11/top100_beccs.csv) · [JSON](/data/v1/2026-11/top100_beccs.json) |
+| top50_europe_beccs | 50 | 12 KB | [CSV](/data/v1/2026-11/top50_europe_beccs.csv) · [JSON](/data/v1/2026-11/top50_europe_beccs.json) |
 
 ## Fields
 
@@ -116,3 +116,14 @@ Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Cite as:
 ## Corrections and removal
 
 Found an error, or want an entry about you or your company corrected or removed? Write to [info@carbon-drawdown.de](mailto:info@carbon-drawdown.de?subject=Captain%20Drawdown%20data%20correction) with the row and the correction. We answer within five working days and list the change in the next release. How we handle personal data is explained in the [privacy notice](/privacy/).
+
+<script>
+document.addEventListener('click', function (e) {
+  var a = e.target && e.target.closest ? e.target.closest('a[href]') : null;
+  if (!a || !window.goatcounter || !window.goatcounter.count) { return; }
+  var h = a.getAttribute('href') || '';
+  if (/^\/(data\/v1\/|api\/v1\/|mcp\/)/.test(h)) {
+    window.goatcounter.count({ path: 'download:' + h, title: (a.textContent || '').trim().slice(0, 60), event: true });
+  }
+});
+</script>
