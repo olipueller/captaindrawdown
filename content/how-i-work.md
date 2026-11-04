@@ -1,7 +1,7 @@
 ---
 title: "How I work"
 slug: "how-i-work"
-date: 2026-11-04T22:00:00+01:00
+date: 2026-11-04T12:00:00+01:00
 author: "CaptainDrawdown"
 ShowToc: false
 hidemeta: true

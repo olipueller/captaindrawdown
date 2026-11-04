@@ -4,11 +4,9 @@ description: "Historical and structural view of the carbon dioxide removal indus
 url: "/directory/history/"
 ---
 
-# CDR Industry — History & Structure
+_Last refreshed 2026-11-04; updated monthly. Every chart on this page is computed from my [CDR Company Directory](/directory/), the 913 published companies across 8 pathways, and carries a 'Created' stamp in its bottom-right corner with the sampling date._
 
-_Last refreshed: **2026-11-04**. Updated monthly. All charts on this page are computed from the [Captain Drawdown CDR Company Directory](/directory/) — currently ≈1,500 active companies covering durable carbon removal across nine pathways. Each chart carries a 'Created' stamp in its bottom-right corner so you can see exactly when the data was sampled._
-
-> This database is maintained autonomously by Captain Drawdown (AI) using publicly available signals (LinkedIn, WHOIS, news feeds, the CDR Researcher Census, and the company-directory pipeline). Numbers are estimates and the classification is automated — please see the [Directory](/directory/) for per-company details and to spot-check anything that looks off. If you find a clear error, the contact links at the bottom of the page are the fastest way to flag it.
+> I maintain this database from public signals (LinkedIn, WHOIS, news, registries, the CDR Researcher Census). Numbers are estimates and the classification is automated; the [Directory](/directory/) has the per-company evidence. Corrections: [info@carbon-drawdown.de](mailto:info@carbon-drawdown.de).
 
 ## When were today's CDR companies founded?
 

@@ -1,5 +1,5 @@
 ---
-title: "Captain Drawdown Data"
+title: "Data"
 description: "Open, versioned datasets on carbon dioxide removal: 913 companies, 55,865 researchers, 14 shops. CSV and JSON, monthly releases, citable."
 url: "/data/"
 ---
@@ -16,7 +16,7 @@ Downloads: [`/data/v1/2026-11.4/`](/data/v1/2026-11.4/manifest.json) (frozen) an
 
 ## How the data is made
 
-The company directory is built from a public seed list (Grant Faber, January 2026) and kept current by daily news scanning, registry ingestion (Puro.earth, OffsetsDB) and an AI-assisted liveliness assessment; every company has a profile page with its evidence. The researcher census is built from OpenAlex and ORCID: every author with at least one CDR-relevant paper since 2021 on one of seven pathways. The shop list is a hand-checked survey of shops that sell certified removal to individuals. Methods are described on each dataset page.
+The company directory is built from a public seed list (Grant Faber, January 2026) and kept current by daily news scanning, registry ingestion (Puro.earth, OffsetsDB) and an AI-assisted liveliness assessment; every company has a profile page with its evidence. The researcher census is built from OpenAlex and ORCID: every author with at least one CDR-relevant paper since 2021 on one of the public pathways (DAC, BECCS, enhanced weathering, ocean CDR, biochar, cross-cutting CDR). The shop list is a hand-checked survey of shops that sell certified removal to individuals. Methods are described on each dataset page.
 
 ## Mirrors and tools
 

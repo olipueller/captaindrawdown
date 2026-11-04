@@ -48,7 +48,7 @@ url: "/data/researchers/"
 }
 </script>
 
-**55,865 researchers listed** in release 2026-11.4 (data as of 2026-11-05): every author with at least one CDR-relevant paper since 2021 on one of seven pathways, from 15,896 papers, 11,015 institutions and 170 countries. The calibrated estimate of the real population is **51,946**: the listed count scaled per country by the precision and recall measured in the March 2026 calibration sample (OpenAlex over-assigns some countries and misses others). 11,214 listed researchers are based in Europe.
+**55,865 researchers listed** in release 2026-11.4 (data as of 2026-11-05): every author with at least one CDR-relevant paper since 2021 on one of 6 pathways, from 15,896 papers, 11,015 institutions and 170 countries. The calibrated estimate of the real population is **51,946**: the listed count scaled per country by the precision and recall measured in the March 2026 calibration sample (OpenAlex over-assigns some countries and misses others). 11,214 listed researchers are based in Europe.
 
 ## Top researchers per pathway
 
