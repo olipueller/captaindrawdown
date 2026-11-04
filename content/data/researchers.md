@@ -52,17 +52,17 @@ url: "/data/researchers/"
 
 ## Top researchers per pathway
 
-Two rankings in every file: by CDR papers since 2021 (rank) and by citations to those papers (rank_by_citations), with per-year paper counts so you can re-rank for any year. Institution comes from the researcher's ORCID record where one exists, otherwise from OpenAlex (flagged in `institution_source`; OpenAlex affiliations are sometimes stale or wrong).
+Two rankings in every list: by CDR papers since 2021 (rank) and by citations to those papers (rank_by_citations), with per-year paper counts so you can re-rank for any year. Each list has its own page with both tables. Institution comes from the researcher's own papers 2024–2026 where at least three carry one (`institution_source` = works, or works_raw when taken from the affiliation text), else from the ORCID record (orcid), else from the OpenAlex author profile (openalex, the least reliable source).
 
 | Pathway | Researchers with papers since 2021 | Leads by papers | Europe in top 100 | Lists |
 |---|---|---|---|---|
-| Biochar | 27,556 | Daniel C.W. Tsang | 24 of 100 | [Top 100](/data/v1/2026-11.1/top100_biochar.csv) · [Top 50 Europe](/data/v1/2026-11.1/top50_europe_biochar.csv) |
-| Soil Carbon | 51,304 | Yakov Kuzyakov | 29 of 100 | [Top 100](/data/v1/2026-11.1/top100_soil-carbon.csv) · [Top 50 Europe](/data/v1/2026-11.1/top50_europe_soil-carbon.csv) |
-| General CDR | 33,809 | Noah J. Planavsky | 66 of 100 | [Top 100](/data/v1/2026-11.1/top100_general-cdr.csv) · [Top 50 Europe](/data/v1/2026-11.1/top50_europe_general-cdr.csv) |
-| DAC | 5,950 | Detlef Stolten | 42 of 100 | [Top 100](/data/v1/2026-11.1/top100_dac.csv) · [Top 50 Europe](/data/v1/2026-11.1/top50_europe_dac.csv) |
-| Ocean CDR | 5,644 | Lennart T. Bach | 59 of 100 | [Top 100](/data/v1/2026-11.1/top100_ocean-cdr.csv) · [Top 50 Europe](/data/v1/2026-11.1/top50_europe_ocean-cdr.csv) |
-| Enhanced Weathering | 4,920 | Noah J. Planavsky | 68 of 100 | [Top 100](/data/v1/2026-11.1/top100_enhanced-weathering.csv) · [Top 50 Europe](/data/v1/2026-11.1/top50_europe_enhanced-weathering.csv) |
-| BECCS | 4,126 | Philippe Ciais | 68 of 100 | [Top 100](/data/v1/2026-11.1/top100_beccs.csv) · [Top 50 Europe](/data/v1/2026-11.1/top50_europe_beccs.csv) |
+| [Biochar](/data/researchers/biochar/) | 27,556 | Daniel C.W. Tsang | 24 of 100 | [page](/data/researchers/biochar/) · [Top 100 CSV](/data/v1/2026-11.1/top100_biochar.csv) · [Top 50 Europe CSV](/data/v1/2026-11.1/top50_europe_biochar.csv) |
+| [Soil Carbon](/data/researchers/soil-carbon/) | 51,304 | Yakov Kuzyakov | 29 of 100 | [page](/data/researchers/soil-carbon/) · [Top 100 CSV](/data/v1/2026-11.1/top100_soil-carbon.csv) · [Top 50 Europe CSV](/data/v1/2026-11.1/top50_europe_soil-carbon.csv) |
+| [General CDR](/data/researchers/general-cdr/) | 33,809 | Noah J. Planavsky | 66 of 100 | [page](/data/researchers/general-cdr/) · [Top 100 CSV](/data/v1/2026-11.1/top100_general-cdr.csv) · [Top 50 Europe CSV](/data/v1/2026-11.1/top50_europe_general-cdr.csv) |
+| [DAC](/data/researchers/dac/) | 5,950 | Detlef Stolten | 42 of 100 | [page](/data/researchers/dac/) · [Top 100 CSV](/data/v1/2026-11.1/top100_dac.csv) · [Top 50 Europe CSV](/data/v1/2026-11.1/top50_europe_dac.csv) |
+| [Ocean CDR](/data/researchers/ocean-cdr/) | 5,644 | Lennart T. Bach | 59 of 100 | [page](/data/researchers/ocean-cdr/) · [Top 100 CSV](/data/v1/2026-11.1/top100_ocean-cdr.csv) · [Top 50 Europe CSV](/data/v1/2026-11.1/top50_europe_ocean-cdr.csv) |
+| [Enhanced Weathering](/data/researchers/enhanced-weathering/) | 4,920 | Noah J. Planavsky | 68 of 100 | [page](/data/researchers/enhanced-weathering/) · [Top 100 CSV](/data/v1/2026-11.1/top100_enhanced-weathering.csv) · [Top 50 Europe CSV](/data/v1/2026-11.1/top50_europe_enhanced-weathering.csv) |
+| [BECCS](/data/researchers/beccs/) | 4,126 | Philippe Ciais | 68 of 100 | [page](/data/researchers/beccs/) · [Top 100 CSV](/data/v1/2026-11.1/top100_beccs.csv) · [Top 50 Europe CSV](/data/v1/2026-11.1/top50_europe_beccs.csv) |
 
 ## Download
 

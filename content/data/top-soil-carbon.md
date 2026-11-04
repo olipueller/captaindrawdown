@@ -1,0 +1,185 @@
+---
+title: "Top 100 researchers in Soil Carbon"
+description: "The 100 most productive researchers in Soil Carbon since 2021 worldwide and the 50 most productive in Europe, from the CDR Researcher Census release 2026-11.1. CC BY 4.0."
+url: "/data/researchers/soil-carbon/"
+ShowToc: false
+---
+
+**The 100 most productive researchers in Soil Carbon since 2021, worldwide, and the 50 most productive based in Europe**, from the [CDR Researcher Census](/data/researchers/) release 2026-11.1 (data as of 2026-11-04). 51,304 researchers have at least one CDR paper in this pathway since 2021; 29 of the global top 100 are based in Europe.
+
+Rank counts CDR-relevant papers and preprints 2021–2026 in this pathway (a preprint and its journal version can count twice when OpenAlex lists both); the citation rank orders the same people by citations to those papers. Institution comes from the researcher's own papers 2024–2026, else from the ORCID record, else from the OpenAlex author profile (marked †, the least reliable source). Corrections and removal: [info@carbon-drawdown.de](mailto:info@carbon-drawdown.de?subject=Census%20correction), done within five working days ([privacy notice](/privacy/)).
+
+Download: [Top 100 CSV](/data/v1/2026-11.1/top100_soil-carbon.csv) · [JSON](/data/v1/2026-11.1/top100_soil-carbon.json) · [Top 50 Europe CSV](/data/v1/2026-11.1/top50_europe_soil-carbon.csv) · [JSON](/data/v1/2026-11.1/top50_europe_soil-carbon.json). Licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Cite as: Captain Drawdown / Carbon Drawdown Initiative (2026). CDR Researcher Census, version 2026-11.1. https://captaindrawdown.com/data/researchers/ (CC licence, see page).
+
+## Worldwide, top 100
+
+| # | Cit. rank | Name | Institution | Country | Papers 2021–26 | Citations |
+|---:|---:|---|---|---|---:|---:|
+| 1 | 1 | [Yakov Kuzyakov](https://captaindrawdown.com/cdr-researcher-census/researchers/yakov-kuzyakov-a5062508/) | Georg-August-Universität Göttingen | DE | 107 | 6,761 |
+| 2 | 5 | [Josep Peñuelas](https://captaindrawdown.com/cdr-researcher-census/researchers/josep-penuelas-a5016893/) | Consejo Superior de Investigaciones Científicas | ES | 59 | 1,868 |
+| 3 | 7 | [Rattan Lal](https://captaindrawdown.com/cdr-researcher-census/researchers/rattan-lal-a5049890/) | The Ohio State University | US | 55 | 1,701 |
+| 4 | 12 | [Pete Smith](https://captaindrawdown.com/cdr-researcher-census/researchers/pete-smith-a5028843/) | University of Aberdeen | GB | 51 | 1,425 |
+| 5 | 9 | [Ji Chen](https://captaindrawdown.com/cdr-researcher-census/researchers/ji-chen-a5100652/) | Chinese Academy of Sciences Institute of Earth Environment | CN | 48 | 1,626 |
+| 6 | 15 | [Jordi Sardans](https://captaindrawdown.com/cdr-researcher-census/researchers/jordi-sardans-a5061849/) | CREAF - Centre de Recerca Ecològica i Aplicacions Forestals | ES | 46 | 1,306 |
+| 7 | 355 | [Maurício Roberto Cherubin](https://captaindrawdown.com/cdr-researcher-census/researchers/mauricio-roberto-cherubin-a5047372/) | Universidade de São Paulo | BR | 40 | 312 |
+| 8 | 4 | [Shaoshan An](https://captaindrawdown.com/cdr-researcher-census/researchers/shaoshan-an-a5109476/) | Institute of Soil and Water Conservation | CN | 35 | 2,127 |
+| 9 | 10 | [Tida Ge](https://captaindrawdown.com/cdr-researcher-census/researchers/tida-ge-a5076632/) | Ningbo University | CN | 35 | 1,511 |
+| 10 | 42 | [Zhouping Shangguan](https://captaindrawdown.com/cdr-researcher-census/researchers/zhouping-shangguan-a5071526/) | 中国科学院水利部水土保持研究所 | CN | 33 | 926 |
+| 11 | 24 | [Weiqi Wang](https://captaindrawdown.com/cdr-researcher-census/researchers/weiqi-wang-a5021159/) | Fujian Normal University | CN | 32 | 1,048 |
+| 12 | 2 | [Chao Liang](https://captaindrawdown.com/cdr-researcher-census/researchers/chao-liang-a5019539/) | Zhejiang A & F University † | CN | 31 | 2,690 |
+| 13 | 14 | [Axel Don](https://captaindrawdown.com/cdr-researcher-census/researchers/axel-don-a5040614/) | Johann Heinrich von Thünen-Institut | DE | 31 | 1,326 |
+| 14 | 36 | [Zhaoliang Song](https://captaindrawdown.com/cdr-researcher-census/researchers/zhaoliang-song-a5087826/) | Tianjin University | CN | 31 | 945 |
+| 15 | 390 | [Carlos Eduardo Pellegrino Cerri](https://captaindrawdown.com/cdr-researcher-census/researchers/carlos-eduardo-pellegrino-cerri-a5082434/) | Universidade de São Paulo | BR | 31 | 300 |
+| 16 | 13 | [Kadambot H. M. Siddique](https://captaindrawdown.com/cdr-researcher-census/researchers/kadambot-h-m-siddique-a5082109/) | The University of Western Australia | AU | 30 | 1,398 |
+| 17 | 47 | [Manuel Delgado‐Baquerizo](https://captaindrawdown.com/cdr-researcher-census/researchers/manuel-delgadobaquerizo-a5090300/) | Instituto de Recursos Naturales y Agrobiología de Sevilla | ES | 27 | 846 |
+| 18 | 58 | [Hai‐Lin Zhang](https://captaindrawdown.com/cdr-researcher-census/researchers/hailin-zhang-a5040808/) | China Agricultural University | CN | 27 | 721 |
+| 19 | 49 | [Yiqi Luo](https://captaindrawdown.com/cdr-researcher-census/researchers/yiqi-luo-a5068115/) | Cornell University | US | 25 | 826 |
+| 20 | 57 | [Scott X. Chang](https://captaindrawdown.com/cdr-researcher-census/researchers/scott-x-chang-a5086611/) | University of Alberta | CA | 25 | 731 |
+| 21 | 92 | [Faming Wang](https://captaindrawdown.com/cdr-researcher-census/researchers/faming-wang-a5024910/) | South China Botanical Garden | CN | 25 | 605 |
+| 22 | 173 | [Rajan Ghimire](https://captaindrawdown.com/cdr-researcher-census/researchers/rajan-ghimire-a5049277/) | New Mexico State University | US | 25 | 451 |
+| 23 | 278 | [Cornélia Rumpel](https://captaindrawdown.com/cdr-researcher-census/researchers/cornelia-rumpel-a5011618/) | Centre National de la Recherche Scientifique † | FR | 25 | 359 |
+| 24 | 1488 | [Roland Bol](https://captaindrawdown.com/cdr-researcher-census/researchers/roland-bol-a5029408/) | Forschungszentrum Jülich | DE | 25 | 143 |
+| 25 | 261 | [Minggang Xu](https://captaindrawdown.com/cdr-researcher-census/researchers/minggang-xu-a5101588/) | Shanxi Agricultural University | CN | 24 | 373 |
+| 26 | 18 | [Hailong Wang](https://captaindrawdown.com/cdr-researcher-census/researchers/hailong-wang-a5100367/) | Foshan University | CN | 23 | 1,153 |
+| 27 | 65 | [Xin Zhao](https://captaindrawdown.com/cdr-researcher-census/researchers/xin-zhao-a5083475/) | China Agricultural University | CN | 23 | 679 |
+| 28 | 11 | [Lukas Van Zwieten](https://captaindrawdown.com/cdr-researcher-census/researchers/lukas-van-zwieten-a5021650/) | New South Wales Department of Primary Industries | AU | 22 | 1,491 |
+| 29 | 31 | [Ram Swaroop Meena](https://captaindrawdown.com/cdr-researcher-census/researchers/ram-swaroop-meena-a5080095/) | Banaras Hindu University | IN | 22 | 969 |
+| 30 | 43 | [Yu Luo](https://captaindrawdown.com/cdr-researcher-census/researchers/yu-luo-a5086244/) | Zhejiang University | CN | 22 | 916 |
+| 31 | 56 | [Yunying Fang](https://captaindrawdown.com/cdr-researcher-census/researchers/yunying-fang-a5005260/) | Griffith University | AU | 22 | 733 |
+| 32 | 462 | [Sara Vicca](https://captaindrawdown.com/cdr-researcher-census/researchers/sara-vicca-a5006929/) | University of Antwerp | BE | 22 | 280 |
+| 33 | 578 | [Avijit Ghosh](https://captaindrawdown.com/cdr-researcher-census/researchers/avijit-ghosh-a5069313/) | Indian Grassland and Fodder Research Institute | IN | 22 | 253 |
+| 34 | 1110 | [Jeroen Meersmans](https://captaindrawdown.com/cdr-researcher-census/researchers/jeroen-meersmans-a5024947/) | University of Liège | BE | 22 | 168 |
+| 35 | 6 | [Baorong Wang](https://captaindrawdown.com/cdr-researcher-census/researchers/baorong-wang-a5016581/) | Northwest A&F University | CN | 21 | 1,853 |
+| 36 | 17 | [Jinshui Wu](https://captaindrawdown.com/cdr-researcher-census/researchers/jinshui-wu-a5103718/) | Chinese Academy of Sciences † | CN | 21 | 1,168 |
+| 37 | 23 | [Nanthi Bolan](https://captaindrawdown.com/cdr-researcher-census/researchers/nanthi-bolan-a5007065/) | The University of Western Australia | AU | 21 | 1,052 |
+| 38 | 66 | [Dafeng Hui](https://captaindrawdown.com/cdr-researcher-census/researchers/dafeng-hui-a5043570/) | Tennessee State University | US | 21 | 661 |
+| 39 | 67 | [Lei Deng](https://captaindrawdown.com/cdr-researcher-census/researchers/lei-deng-a5043286/) | Beijing Wuzi University † | CN | 21 | 657 |
+| 40 | 134 | [Zhanfeng Liu](https://captaindrawdown.com/cdr-researcher-census/researchers/zhanfeng-liu-a5009726/) | South China Botanical Garden | CN | 21 | 523 |
+| 41 | 221 | [Minggang Xu](https://captaindrawdown.com/cdr-researcher-census/researchers/minggang-xu-a5101588/) | Shanxi Agricultural University † | CN | 21 | 394 |
+| 42 | 359 | [Aizhen Liang](https://captaindrawdown.com/cdr-researcher-census/researchers/aizhen-liang-a5058634/) | Northeast Institute of Geography and Agroecology | CN | 21 | 311 |
+| 43 | 21 | [Biao Zhu](https://captaindrawdown.com/cdr-researcher-census/researchers/biao-zhu-a5020840/) | Peking University | CN | 20 | 1,091 |
+| 44 | 106 | [Xiaohong Tian](https://captaindrawdown.com/cdr-researcher-census/researchers/xiaohong-tian-a5100641/) | Northwest A&F University | CN | 20 | 574 |
+| 45 | 115 | [Jianglan Shi](https://captaindrawdown.com/cdr-researcher-census/researchers/jianglan-shi-a5108681/) | Northwest A&F University | CN | 20 | 557 |
+| 46 | 131 | [Budiman Minasny](https://captaindrawdown.com/cdr-researcher-census/researchers/budiman-minasny-a5051455/) | The University of Sydney | AU | 20 | 533 |
+| 47 | 148 | [Gilles Colinet](https://captaindrawdown.com/cdr-researcher-census/researchers/gilles-colinet-a5015112/) | University of Liège † | BE | 20 | 480 |
+| 48 | 289 | [Weidong Cao](https://captaindrawdown.com/cdr-researcher-census/researchers/weidong-cao-a5084378/) | Institute of Agricultural Resources and Regional Planning † | CN | 20 | 354 |
+| 49 | 26 | [Martin Wiesmeier](https://captaindrawdown.com/cdr-researcher-census/researchers/martin-wiesmeier-a5059745/) | Bavarian State Research Center for Agriculture | DE | 19 | 1,036 |
+| 50 | 48 | [Hans Lambers](https://captaindrawdown.com/cdr-researcher-census/researchers/hans-lambers-a5016389/) | The University of Western Australia | AU | 19 | 835 |
+| 51 | 75 | [Davey L. Jones](https://captaindrawdown.com/cdr-researcher-census/researchers/davey-l-jones-a5064381/) | Bangor University | GB | 19 | 635 |
+| 52 | 191 | [Yash P. Dang](https://captaindrawdown.com/cdr-researcher-census/researchers/yash-p-dang-a5013229/) | The University of Queensland | AU | 19 | 430 |
+| 53 | 195 | [Claire Chenu](https://captaindrawdown.com/cdr-researcher-census/researchers/claire-chenu-a5108528/) | INRAE | FR | 19 | 420 |
+| 54 | 233 | [Rémi Cardinael](https://captaindrawdown.com/cdr-researcher-census/researchers/remi-cardinael-a5048041/) | CIRAD | FR | 19 | 383 |
+| 55 | 50 | [Zhenke Zhu](https://captaindrawdown.com/cdr-researcher-census/researchers/zhenke-zhu-a5089120/) | Ningbo University | CN | 18 | 822 |
+| 56 | 53 | [Kazem Zamanian](https://captaindrawdown.com/cdr-researcher-census/researchers/kazem-zamanian-a5039651/) | Leibniz University Hannover | DE | 18 | 788 |
+| 57 | 110 | [Jie Zhou](https://captaindrawdown.com/cdr-researcher-census/researchers/jie-zhou-a5039847/) | Nanjing Agricultural University | CN | 18 | 568 |
+| 58 | 315 | [Zhou Shi](https://captaindrawdown.com/cdr-researcher-census/researchers/zhou-shi-a5108053/) | Zhejiang University | CN | 18 | 336 |
+| 59 | 321 | [Zhongkui Luo](https://captaindrawdown.com/cdr-researcher-census/researchers/zhongkui-luo-a5023834/) | Zhejiang University | CN | 18 | 331 |
+| 60 | 795 | [Yongjun Shi](https://captaindrawdown.com/cdr-researcher-census/researchers/yongjun-shi-a5018785/) | Zhejiang A & F University | CN | 18 | 213 |
+| 61 | 78 | [Andong Cai](https://captaindrawdown.com/cdr-researcher-census/researchers/andong-cai-a5013602/) | Chinese Academy of Agricultural Sciences | CN | 17 | 622 |
+| 62 | 124 | [Shaopan Xia](https://captaindrawdown.com/cdr-researcher-census/researchers/shaopan-xia-a5049488/) | Nanjing Agricultural University | CN | 17 | 538 |
+| 63 | 136 | [Jiwei Li](https://captaindrawdown.com/cdr-researcher-census/researchers/jiwei-li-a5032496/) | Northwest A and F University | CN | 17 | 519 |
+| 64 | 142 | [Iain P. Hartley](https://captaindrawdown.com/cdr-researcher-census/researchers/iain-p-hartley-a5006351/) | University of Exeter | GB | 17 | 493 |
+| 65 | 190 | [Congzhi Zhang](https://captaindrawdown.com/cdr-researcher-census/researchers/congzhi-zhang-a5046701/) | Chinese Academy of Sciences † | CN | 17 | 431 |
+| 66 | 322 | [Matthew Tom Harrison](https://captaindrawdown.com/cdr-researcher-census/researchers/matthew-tom-harrison-a5067962/) | University of Tasmania | AU | 17 | 331 |
+| 67 | 327 | [Christoph Müller](https://captaindrawdown.com/cdr-researcher-census/researchers/christoph-muller-a5100762/) | Potsdam Institute for Climate Impact Research | DE | 17 | 326 |
+| 68 | 457 | [Gaihe Yang](https://captaindrawdown.com/cdr-researcher-census/researchers/gaihe-yang-a5044765/) | Northwest A&F University | CN | 17 | 282 |
+| 69 | 929 | [Wolfgang Wanek](https://captaindrawdown.com/cdr-researcher-census/researchers/wolfgang-wanek-a5052366/) | University of Vienna | AT | 17 | 193 |
+| 70 | 988 | [Jingkuan Wang](https://captaindrawdown.com/cdr-researcher-census/researchers/jingkuan-wang-a5052854/) | Shenyang Agricultural University | CN | 17 | 182 |
+| 71 | 59 | [Hongbo He](https://captaindrawdown.com/cdr-researcher-census/researchers/hongbo-he-a5109304/) | University of Chinese Academy of Sciences | CN | 16 | 715 |
+| 72 | 69 | [David R. Chadwick](https://captaindrawdown.com/cdr-researcher-census/researchers/shuangjun-li-a5000532/) | Bangor University | GB | 16 | 654 |
+| 73 | 149 | [Ingrid Kögel‐Knabner](https://captaindrawdown.com/cdr-researcher-census/researchers/ingrid-kogelknabner-a5025732/) | Technical University of Munich | DE | 16 | 479 |
+| 74 | 182 | [Philippe Ciais](https://captaindrawdown.com/cdr-researcher-census/researchers/philippe-ciais-a5070378/) | Laboratoire des Sciences du Climat et de l'Environnement | FR | 16 | 441 |
+| 75 | 211 | [Wei Zhang](https://captaindrawdown.com/cdr-researcher-census/researchers/wei-zhang-a5091025/) | Shihezi University † | CN | 16 | 406 |
+| 76 | 216 | [Adnan Mustafa](https://captaindrawdown.com/cdr-researcher-census/researchers/adnan-mustafa-a5031833/) | Brno University of Technology | CZ | 16 | 399 |
+| 77 | 279 | [Haishui Yang](https://captaindrawdown.com/cdr-researcher-census/researchers/haishui-yang-a5026336/) | Nanjing Agricultural University | CN | 16 | 359 |
+| 78 | 296 | [Jufeng Zheng](https://captaindrawdown.com/cdr-researcher-census/researchers/jufeng-zheng-a5100736/) | Nanjing Agricultural University | CN | 16 | 347 |
+| 79 | 353 | [Qaiser Hussain](https://captaindrawdown.com/cdr-researcher-census/researchers/qaiser-hussain-a5042485/) | Pir Mehr Ali Shah Arid Agriculture University | PK | 16 | 313 |
+| 80 | 371 | [Johan Six](https://captaindrawdown.com/cdr-researcher-census/researchers/johan-six-a5028784/) | ETH Zurich | CH | 16 | 306 |
+| 81 | 579 | [Anna Gunina](https://captaindrawdown.com/cdr-researcher-census/researchers/anna-gunina-a5045801/) | University of Kassel | DE | 16 | 253 |
+| 82 | 784 | [Yufeng Zhou](https://captaindrawdown.com/cdr-researcher-census/researchers/yufeng-zhou-a5101560/) | Zhejiang A & F University | CN | 16 | 216 |
+| 83 | 1079 | [Songchao Chen](https://captaindrawdown.com/cdr-researcher-census/researchers/songchao-chen-a5080056/) | Zhejiang University | CN | 16 | 171 |
+| 84 | 1243 | [Guangxuan Han](https://captaindrawdown.com/cdr-researcher-census/researchers/guangxuan-han-a5134490/) | 中国科学院烟台海岸带研究所 | CN | 16 | 158 |
+| 85 | 1303 | [Noah J. Planavsky](https://captaindrawdown.com/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/) | Yale University | US | 16 | 154 |
+| 86 | 64 | [Carsten W. Mueller](https://captaindrawdown.com/cdr-researcher-census/researchers/carsten-w-mueller-a5007474/) | Technische Universität Berlin | DE | 15 | 683 |
+| 87 | 79 | [Amit Kumar](https://captaindrawdown.com/cdr-researcher-census/researchers/amit-kumar-a5028945/) | Nanjing University of Information Science and Technology | CN | 15 | 622 |
+| 88 | 80 | [Wenju Zhang](https://captaindrawdown.com/cdr-researcher-census/researchers/wenju-zhang-a5101890/) | Chinese Academy of Agricultural Sciences | CN | 15 | 622 |
+| 89 | 133 | [Christopher Poeplau](https://captaindrawdown.com/cdr-researcher-census/researchers/christopher-poeplau-a5047371/) | Johann Heinrich von Thünen-Institut | DE | 15 | 530 |
+| 90 | 141 | [Dinesh Jinger](https://captaindrawdown.com/cdr-researcher-census/researchers/dinesh-jinger-a5004018/) | Indian Institute of Soil and Water Conservation | IN | 15 | 494 |
+| 91 | 151 | [Guirui Yu](https://captaindrawdown.com/cdr-researcher-census/researchers/guirui-yu-a5008834/) | Chinese Academy of Sciences † | CN | 15 | 470 |
+| 92 | 163 | [Xiangtian Meng](https://captaindrawdown.com/cdr-researcher-census/researchers/xiangtian-meng-a5005225/) | Tongji University † | CN | 15 | 462 |
+| 93 | 192 | [Jens Leifeld](https://captaindrawdown.com/cdr-researcher-census/researchers/jens-leifeld-a5078135/) | Agroscope | CH | 15 | 428 |
+| 94 | 212 | [Yunting Fang](https://captaindrawdown.com/cdr-researcher-census/researchers/yunting-fang-a5012369/) | Chinese Academy of Sciences † | CN | 15 | 404 |
+| 95 | 262 | [Jingfan Zhang](https://captaindrawdown.com/cdr-researcher-census/researchers/jingfan-zhang-a5101565/) | Chinese Academy of Sciences † | CN | 15 | 373 |
+| 96 | 280 | [Ram C. Dalal](https://captaindrawdown.com/cdr-researcher-census/researchers/ram-c-dalal-a5018253/) | The University of Queensland | AU | 15 | 359 |
+| 97 | 287 | [Feng‐Min Li](https://captaindrawdown.com/cdr-researcher-census/researchers/fengmin-li-a5053607/) | Nanjing Agricultural University | CN | 15 | 356 |
+| 98 | 294 | [Kun Cheng](https://captaindrawdown.com/cdr-researcher-census/researchers/kun-cheng-a5025013/) | Nanjing Agricultural University | CN | 15 | 348 |
+| 99 | 301 | [Jørgen E. Olesen](https://captaindrawdown.com/cdr-researcher-census/researchers/jrgen-e-olesen-a5018605/) | Aarhus University | DK | 15 | 344 |
+| 100 | 320 | [Rongjun Bian](https://captaindrawdown.com/cdr-researcher-census/researchers/rongjun-bian-a5072829/) | Nanjing Agricultural University | CN | 15 | 332 |
+
+## Europe, top 50
+
+| # | Cit. rank | Name | Institution | Country | Papers 2021–26 | Citations |
+|---:|---:|---|---|---|---:|---:|
+| 1 | 1 | [Yakov Kuzyakov](https://captaindrawdown.com/cdr-researcher-census/researchers/yakov-kuzyakov-a5062508/) | Georg-August-Universität Göttingen | DE | 107 | 6,761 |
+| 2 | 2 | [Josep Peñuelas](https://captaindrawdown.com/cdr-researcher-census/researchers/josep-penuelas-a5016893/) | Consejo Superior de Investigaciones Científicas | ES | 59 | 1,868 |
+| 3 | 3 | [Pete Smith](https://captaindrawdown.com/cdr-researcher-census/researchers/pete-smith-a5028843/) | University of Aberdeen | GB | 51 | 1,425 |
+| 4 | 5 | [Jordi Sardans](https://captaindrawdown.com/cdr-researcher-census/researchers/jordi-sardans-a5061849/) | CREAF - Centre de Recerca Ecològica i Aplicacions Forestals | ES | 46 | 1,306 |
+| 5 | 4 | [Axel Don](https://captaindrawdown.com/cdr-researcher-census/researchers/axel-don-a5040614/) | Johann Heinrich von Thünen-Institut | DE | 31 | 1,326 |
+| 6 | 15 | [Manuel Delgado‐Baquerizo](https://captaindrawdown.com/cdr-researcher-census/researchers/manuel-delgadobaquerizo-a5090300/) | Instituto de Recursos Naturales y Agrobiología de Sevilla | ES | 27 | 846 |
+| 7 | 63 | [Cornélia Rumpel](https://captaindrawdown.com/cdr-researcher-census/researchers/cornelia-rumpel-a5011618/) | Centre National de la Recherche Scientifique † | FR | 25 | 359 |
+| 8 | 279 | [Roland Bol](https://captaindrawdown.com/cdr-researcher-census/researchers/roland-bol-a5029408/) | Forschungszentrum Jülich | DE | 25 | 143 |
+| 9 | 102 | [Sara Vicca](https://captaindrawdown.com/cdr-researcher-census/researchers/sara-vicca-a5006929/) | University of Antwerp | BE | 22 | 280 |
+| 10 | 229 | [Jeroen Meersmans](https://captaindrawdown.com/cdr-researcher-census/researchers/jeroen-meersmans-a5024947/) | University of Liège | BE | 22 | 168 |
+| 11 | 33 | [Gilles Colinet](https://captaindrawdown.com/cdr-researcher-census/researchers/gilles-colinet-a5015112/) | University of Liège † | BE | 20 | 480 |
+| 12 | 8 | [Martin Wiesmeier](https://captaindrawdown.com/cdr-researcher-census/researchers/martin-wiesmeier-a5059745/) | Bavarian State Research Center for Agriculture | DE | 19 | 1,036 |
+| 13 | 23 | [Davey L. Jones](https://captaindrawdown.com/cdr-researcher-census/researchers/davey-l-jones-a5064381/) | Bangor University | GB | 19 | 635 |
+| 14 | 46 | [Claire Chenu](https://captaindrawdown.com/cdr-researcher-census/researchers/claire-chenu-a5108528/) | INRAE | FR | 19 | 420 |
+| 15 | 54 | [Rémi Cardinael](https://captaindrawdown.com/cdr-researcher-census/researchers/remi-cardinael-a5048041/) | CIRAD | FR | 19 | 383 |
+| 16 | 17 | [Kazem Zamanian](https://captaindrawdown.com/cdr-researcher-census/researchers/kazem-zamanian-a5039651/) | Leibniz University Hannover | DE | 18 | 788 |
+| 17 | 31 | [Iain P. Hartley](https://captaindrawdown.com/cdr-researcher-census/researchers/iain-p-hartley-a5006351/) | University of Exeter | GB | 17 | 493 |
+| 18 | 69 | [Christoph Müller](https://captaindrawdown.com/cdr-researcher-census/researchers/christoph-muller-a5100762/) | Potsdam Institute for Climate Impact Research | DE | 17 | 326 |
+| 19 | 198 | [Wolfgang Wanek](https://captaindrawdown.com/cdr-researcher-census/researchers/wolfgang-wanek-a5052366/) | University of Vienna | AT | 17 | 193 |
+| 20 | 21 | [David R. Chadwick](https://captaindrawdown.com/cdr-researcher-census/researchers/shuangjun-li-a5000532/) | Bangor University | GB | 16 | 654 |
+| 21 | 34 | [Ingrid Kögel‐Knabner](https://captaindrawdown.com/cdr-researcher-census/researchers/ingrid-kogelknabner-a5025732/) | Technical University of Munich | DE | 16 | 479 |
+| 22 | 40 | [Philippe Ciais](https://captaindrawdown.com/cdr-researcher-census/researchers/philippe-ciais-a5070378/) | Laboratoire des Sciences du Climat et de l'Environnement | FR | 16 | 441 |
+| 23 | 50 | [Adnan Mustafa](https://captaindrawdown.com/cdr-researcher-census/researchers/adnan-mustafa-a5031833/) | Brno University of Technology | CZ | 16 | 399 |
+| 24 | 81 | [Johan Six](https://captaindrawdown.com/cdr-researcher-census/researchers/johan-six-a5028784/) | ETH Zurich | CH | 16 | 306 |
+| 25 | 120 | [Anna Gunina](https://captaindrawdown.com/cdr-researcher-census/researchers/anna-gunina-a5045801/) | University of Kassel | DE | 16 | 253 |
+| 26 | 20 | [Carsten W. Mueller](https://captaindrawdown.com/cdr-researcher-census/researchers/carsten-w-mueller-a5007474/) | Technische Universität Berlin | DE | 15 | 683 |
+| 27 | 29 | [Christopher Poeplau](https://captaindrawdown.com/cdr-researcher-census/researchers/christopher-poeplau-a5047371/) | Johann Heinrich von Thünen-Institut | DE | 15 | 530 |
+| 28 | 44 | [Jens Leifeld](https://captaindrawdown.com/cdr-researcher-census/researchers/jens-leifeld-a5078135/) | Agroscope | CH | 15 | 428 |
+| 29 | 65 | [Jørgen E. Olesen](https://captaindrawdown.com/cdr-researcher-census/researchers/jrgen-e-olesen-a5018605/) | Aarhus University | DK | 15 | 344 |
+| 30 | 82 | [Guiyao Zhou](https://captaindrawdown.com/cdr-researcher-census/researchers/guiyao-zhou-a5100769/) | Instituto de Recursos Naturales y Agrobiología de Sevilla | ES | 15 | 304 |
+| 31 | 148 | [Liisa Kulmala](https://captaindrawdown.com/cdr-researcher-census/researchers/liisa-kulmala-a5083559/) | Finnish Meteorological Institute | FI | 15 | 231 |
+| 32 | 7 | [Matthias C. Rillig](https://captaindrawdown.com/cdr-researcher-census/researchers/matthias-c-rillig-a5068567/) | Freie Universität Berlin | DE | 14 | 1,053 |
+| 33 | 14 | [Georg Guggenberger](https://captaindrawdown.com/cdr-researcher-census/researchers/georg-guggenberger-a5072191/) | Leibniz University Hannover | DE | 14 | 855 |
+| 34 | 22 | [Thomas Kätterer](https://captaindrawdown.com/cdr-researcher-census/researchers/thomas-katterer-a5066750/) | Swedish University of Agricultural Sciences | SE | 14 | 652 |
+| 35 | 51 | [Sebastian Döetterl](https://captaindrawdown.com/cdr-researcher-census/researchers/sebastian-doetterl-a5017534/) | ETH Zurich | CH | 14 | 394 |
+| 36 | 58 | [Ji Liu](https://captaindrawdown.com/cdr-researcher-census/researchers/ji-liu-a5100396/) | Centre for Research on Ecology and Forestry Applications | ES | 14 | 378 |
+| 37 | 74 | [Akash Tariq](https://captaindrawdown.com/cdr-researcher-census/researchers/akash-tariq-a5025391/) | Consejo Superior de Investigaciones Científicas † | ES | 14 | 320 |
+| 38 | 75 | [Michaela A. Dippold](https://captaindrawdown.com/cdr-researcher-census/researchers/michaela-a-dippold-a5054730/) | University of Göttingen | DE | 14 | 319 |
+| 39 | 157 | [Katharina Keiblinger](https://captaindrawdown.com/cdr-researcher-census/researchers/katharina-keiblinger-a5001652/) | BOKU University | AT | 14 | 223 |
+| 40 | 158 | [Tommaso Chiti](https://captaindrawdown.com/cdr-researcher-census/researchers/tommaso-chiti-a5001989/) | Università degli Studi della Tuscia | IT | 14 | 222 |
+| 41 | 172 | [Pippa J. Chapman](https://captaindrawdown.com/cdr-researcher-census/researchers/pippa-j-chapman-a5071473/) | University of Leeds | GB | 14 | 211 |
+| 42 | 190 | [David J. Beerling](https://captaindrawdown.com/cdr-researcher-census/researchers/david-j-beerling-a5073877/) | University of Sheffield | GB | 14 | 197 |
+| 43 | 32 | [Nico Eisenhauer](https://captaindrawdown.com/cdr-researcher-census/researchers/nico-eisenhauer-a5029962/) | Leipzig University | DE | 13 | 490 |
+| 44 | 73 | [Sami Ullah](https://captaindrawdown.com/cdr-researcher-census/researchers/sami-ullah-a5087122/) | University of Birmingham | GB | 13 | 321 |
+| 45 | 219 | [Sophie Zechmeister‐Boltenstern](https://captaindrawdown.com/cdr-researcher-census/researchers/sophie-zechmeisterboltenstern-a5056242/) | BOKU University | AT | 13 | 173 |
+| 46 | 284 | [Bruce Osborne](https://captaindrawdown.com/cdr-researcher-census/researchers/bruce-osborne-a5007225/) | University College Dublin | IE | 12 | 139 |
+| 47 | 397 | [Jussi Heinonsalo](https://captaindrawdown.com/cdr-researcher-census/researchers/jussi-heinonsalo-a5053391/) | University of Helsinki | FI | 12 | 110 |
+| 48 | 398 | [Raisa Mäkipää](https://captaindrawdown.com/cdr-researcher-census/researchers/raisa-makipaa-a5014546/) | Natural Resources Institute Finland | FI | 12 | 110 |
+| 49 | 16 | [Bruno Glaser](https://captaindrawdown.com/cdr-researcher-census/researchers/bruno-glaser-a5027366/) | Martin Luther University Halle-Wittenberg | DE | 11 | 809 |
+| 50 | 62 | [Μάριος Δρόσος](https://captaindrawdown.com/cdr-researcher-census/researchers/researcher-a5090384/) | University of Basilicata | IT | 11 | 360 |
+
+† Institution from the OpenAlex author profile, not confirmed by the researcher's recent papers.
+
+<script>
+document.addEventListener('click', function (e) {
+  var a = e.target && e.target.closest ? e.target.closest('a[href]') : null;
+  if (!a || !window.goatcounter || !window.goatcounter.count) { return; }
+  var h = a.getAttribute('href') || '';
+  if (/^\/(data\/v1\/|api\/v1\/|mcp\/)/.test(h)) {
+    window.goatcounter.count({ path: 'download:' + h, title: (a.textContent || '').trim().slice(0, 60), event: true });
+  }
+});
+</script>

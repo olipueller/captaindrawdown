@@ -1,0 +1,185 @@
+---
+title: "Top 100 researchers in Ocean CDR"
+description: "The 100 most productive researchers in Ocean CDR since 2021 worldwide and the 50 most productive in Europe, from the CDR Researcher Census release 2026-11.1. CC BY 4.0."
+url: "/data/researchers/ocean-cdr/"
+ShowToc: false
+---
+
+**The 100 most productive researchers in Ocean CDR since 2021, worldwide, and the 50 most productive based in Europe**, from the [CDR Researcher Census](/data/researchers/) release 2026-11.1 (data as of 2026-11-04). 5,644 researchers have at least one CDR paper in this pathway since 2021; 59 of the global top 100 are based in Europe.
+
+Rank counts CDR-relevant papers and preprints 2021–2026 in this pathway (a preprint and its journal version can count twice when OpenAlex lists both); the citation rank orders the same people by citations to those papers. Institution comes from the researcher's own papers 2024–2026, else from the ORCID record, else from the OpenAlex author profile (marked †, the least reliable source). Corrections and removal: [info@carbon-drawdown.de](mailto:info@carbon-drawdown.de?subject=Census%20correction), done within five working days ([privacy notice](/privacy/)).
+
+Download: [Top 100 CSV](/data/v1/2026-11.1/top100_ocean-cdr.csv) · [JSON](/data/v1/2026-11.1/top100_ocean-cdr.json) · [Top 50 Europe CSV](/data/v1/2026-11.1/top50_europe_ocean-cdr.csv) · [JSON](/data/v1/2026-11.1/top50_europe_ocean-cdr.json). Licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Cite as: Captain Drawdown / Carbon Drawdown Initiative (2026). CDR Researcher Census, version 2026-11.1. https://captaindrawdown.com/data/researchers/ (CC licence, see page).
+
+## Worldwide, top 100
+
+| # | Cit. rank | Name | Institution | Country | Papers 2021–26 | Citations |
+|---:|---:|---|---|---|---:|---:|
+| 1 | 1 | [Lennart T. Bach](https://captaindrawdown.com/cdr-researcher-census/researchers/lennart-t-bach-a5044360/) | University of Tasmania | AU | 51 | 1,551 |
+| 2 | 5 | [Ulf Riebesell](https://captaindrawdown.com/cdr-researcher-census/researchers/ulf-riebesell-a5005675/) | GEOMAR Helmholtz Centre for Ocean Research Kiel | DE | 50 | 568 |
+| 3 | 9 | [Andreas Oschlies](https://captaindrawdown.com/cdr-researcher-census/researchers/andreas-oschlies-a5063745/) | GEOMAR Helmholtz Centre for Ocean Research Kiel | DE | 47 | 445 |
+| 4 | 52 | [David P. Keller](https://captaindrawdown.com/cdr-researcher-census/researchers/david-p-keller-a5068205/) | GEOMAR Helmholtz Centre for Ocean Research Kiel | DE | 34 | 264 |
+| 5 | 3 | [Phil Renforth](https://captaindrawdown.com/cdr-researcher-census/researchers/phil-renforth-a5011758/) | Heriot-Watt University | GB | 30 | 604 |
+| 6 | 2 | [Philip W. Boyd](https://captaindrawdown.com/cdr-researcher-census/researchers/philip-w-boyd-a5091179/) | University of Tasmania | AU | 21 | 646 |
+| 7 | 92 | [Katja Fennel](https://captaindrawdown.com/cdr-researcher-census/researchers/katja-fennel-a5000863/) | Dalhousie University | CA | 20 | 172 |
+| 8 | 17 | [David T. Ho](https://captaindrawdown.com/cdr-researcher-census/researchers/david-t-ho-a5080281/) | University of Hawaiʻi at Mānoa | US | 19 | 351 |
+| 9 | 172 | [Miranda Boettcher](https://captaindrawdown.com/cdr-researcher-census/researchers/miranda-boettcher-a5061263/) | Stiftung Wissenschaft und Politik, German Institute for International and Security Affairs | DE | 19 | 114 |
+| 10 | 275 | [Wilfried Rickels](https://captaindrawdown.com/cdr-researcher-census/researchers/wilfried-rickels-a5020112/) | Kiel Institute for the World Economy | DE | 19 | 79 |
+| 11 | 502 | [Daniela Basso](https://captaindrawdown.com/cdr-researcher-census/researchers/daniela-basso-a5026560/) | University of Milano-Bicocca | IT | 19 | 54 |
+| 12 | 6 | [Kai G. Schulz](https://captaindrawdown.com/cdr-researcher-census/researchers/kai-g-schulz-a5091734/) | Southern Cross University | AU | 18 | 567 |
+| 13 | 12 | [Michael D. Tyka](https://captaindrawdown.com/cdr-researcher-census/researchers/michael-d-tyka-a5073201/) | Google (United States) | US | 18 | 386 |
+| 14 | 48 | [Spyros Foteinis](https://captaindrawdown.com/cdr-researcher-census/researchers/spyros-foteinis-a5057305/) | Heriot-Watt University | GB | 18 | 267 |
+| 15 | 4 | [Jean‐Pierre Gattuso](https://captaindrawdown.com/cdr-researcher-census/researchers/jeanpierre-gattuso-a5079156/) | CNRS | FR | 17 | 571 |
+| 16 | 27 | [Jens Hartmann](https://captaindrawdown.com/cdr-researcher-census/researchers/jens-hartmann-a5019869/) | Universität Hamburg | DE | 17 | 315 |
+| 17 | 10 | [Judith Hauck](https://captaindrawdown.com/cdr-researcher-census/researchers/judith-hauck-a5068651/) | Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung | DE | 16 | 433 |
+| 18 | 149 | [Adam V. Subhas](https://captaindrawdown.com/cdr-researcher-census/researchers/adam-v-subhas-a5048374/) | Woods Hole Oceanographic Institution | US | 16 | 128 |
+| 19 | 13 | [Matthew D. Eisaman](https://captaindrawdown.com/cdr-researcher-census/researchers/matthew-d-eisaman-a5005365/) | Yale University | US | 15 | 376 |
+| 20 | 36 | [Charly A. Moras](https://captaindrawdown.com/cdr-researcher-census/researchers/charly-a-moras-a5020057/) | Universität Hamburg | DE | 15 | 292 |
+| 21 | 39 | [Stefano Caserini](https://captaindrawdown.com/cdr-researcher-census/researchers/stefano-caserini-a5070147/) | University of Parma | IT | 15 | 284 |
+| 22 | 45 | [Laurent Bopp](https://captaindrawdown.com/cdr-researcher-census/researchers/laurent-bopp-a5079839/) | IPSL | FR | 15 | 272 |
+| 23 | 184 | [Jörg Schwinger](https://captaindrawdown.com/cdr-researcher-census/researchers/jorg-schwinger-a5026788/) | NORCE Research AS | NO | 15 | 102 |
+| 24 | 1326 | [Piero Macchi](https://captaindrawdown.com/cdr-researcher-census/researchers/piero-macchi-a5015826/) | Politecnico di Milano | IT | 15 | 18 |
+| 25 | 2364 | [Friedrich A. Burger](https://captaindrawdown.com/cdr-researcher-census/researchers/friedrich-a-burger-a5063499/) | University of Bern | CH | 15 | 7 |
+| 26 | 19 | [Brendan R. Carter](https://captaindrawdown.com/cdr-researcher-census/researchers/brendan-r-carter-a5008670/) | CICOES | US | 14 | 331 |
+| 27 | 173 | [Mallory Ringham](https://captaindrawdown.com/cdr-researcher-census/researchers/mallory-ringham-a5042898/) | Stony Brook University | US | 14 | 114 |
+| 28 | 176 | [Giulia Faucher](https://captaindrawdown.com/cdr-researcher-census/researchers/giulia-faucher-a5029772/) | GEOMAR Helmholtz Centre for Ocean Research Kiel | DE | 14 | 110 |
+| 29 | 216 | [Filip J. R. Meysman](https://captaindrawdown.com/cdr-researcher-census/researchers/filip-j-r-meysman-a5039479/) | University of Antwerp | BE | 14 | 99 |
+| 30 | 729 | [Selene Varliero](https://captaindrawdown.com/cdr-researcher-census/researchers/selene-varliero-a5063753/) | Politecnico di Milano | IT | 14 | 37 |
+| 31 | 68 | [David A. Siegel](https://captaindrawdown.com/cdr-researcher-census/researchers/david-a-siegel-a5015835/) | University of California, Santa Barbara | US | 13 | 241 |
+| 32 | 81 | [Sara Nawaz](https://captaindrawdown.com/cdr-researcher-census/researchers/sara-nawaz-a5083576/) | American University | US | 13 | 188 |
+| 33 | 89 | [Nadine Mengis](https://captaindrawdown.com/cdr-researcher-census/researchers/nadine-mengis-a5079879/) | GEOMAR Helmholtz Centre for Ocean Research Kiel | DE | 13 | 176 |
+| 34 | 150 | [Romany Webb](https://captaindrawdown.com/cdr-researcher-census/researchers/romany-webb-a5110590/) | Columbia University | US | 13 | 128 |
+| 35 | 730 | [Maarten Boersma](https://captaindrawdown.com/cdr-researcher-census/researchers/maarten-boersma-a5042168/) | Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung | DE | 13 | 37 |
+| 36 | 29 | [Nianzhi Jiao](https://captaindrawdown.com/cdr-researcher-census/researchers/nianzhi-jiao-a5024666/) | Xiamen University | CN | 12 | 310 |
+| 37 | 56 | [Niels Suitner](https://captaindrawdown.com/cdr-researcher-census/researchers/niels-suitner-a5035414/) | Universität Hamburg | DE | 12 | 255 |
+| 38 | 69 | [Sonja Geilert](https://captaindrawdown.com/cdr-researcher-census/researchers/sonja-geilert-a5043903/) | Utrecht University | NL | 12 | 233 |
+| 39 | 145 | [Jessica Cross](https://captaindrawdown.com/cdr-researcher-census/researchers/jessica-cross-a5031991/) | Pacific Northwest National Laboratory | US | 12 | 134 |
+| 40 | 151 | [Jihua Liu](https://captaindrawdown.com/cdr-researcher-census/researchers/jihua-liu-a5100629/) | Shandong University | CN | 12 | 126 |
+| 41 | 177 | [Javier Lezaun](https://captaindrawdown.com/cdr-researcher-census/researchers/javier-lezaun-a5085557/) | University of Oxford | GB | 12 | 109 |
+| 42 | 179 | [﻿Arnaud Laurent](https://captaindrawdown.com/cdr-researcher-census/researchers/arnaud-laurent-a5033431/) | Dalhousie University | CA | 12 | 105 |
+| 43 | 249 | [Christine Merk](https://captaindrawdown.com/cdr-researcher-census/researchers/christine-merk-a5135538/) | Kiel Institute for the World Economy | DE | 12 | 84 |
+| 44 | 302 | [Dariia Atamanchuk](https://captaindrawdown.com/cdr-researcher-census/researchers/dariia-atamanchuk-a5022141/) | Dalhousie University | CA | 12 | 74 |
+| 45 | 643 | [Arianna Azzellino](https://captaindrawdown.com/cdr-researcher-census/researchers/arianna-azzellino-a5025068/) | Politecnico di Milano | IT | 12 | 40 |
+| 46 | 882 | [Guido Raos](https://captaindrawdown.com/cdr-researcher-census/researchers/guido-raos-a5052105/) | Politecnico di Milano | IT | 12 | 31 |
+| 47 | 1858 | [Leila Kittu](https://captaindrawdown.com/cdr-researcher-census/researchers/leila-kittu-a5085342/) | GEOMAR Helmholtz Centre for Ocean Research Kiel | DE | 12 | 11 |
+| 48 | 34 | [Matthew C. Long](https://captaindrawdown.com/cdr-researcher-census/researchers/matthew-c-long-a5055580/) | [C]Worthy | US | 11 | 298 |
+| 49 | 35 | [Jan Taucher](https://captaindrawdown.com/cdr-researcher-census/researchers/jan-taucher-a5007343/) | GEOMAR Helmholtz Centre for Ocean Research Kiel | DE | 11 | 294 |
+| 50 | 58 | [Terre Satterfield](https://captaindrawdown.com/cdr-researcher-census/researchers/terre-satterfield-a5087921/) | University of British Columbia | CA | 11 | 249 |
+| 51 | 70 | [Mario Grosso](https://captaindrawdown.com/cdr-researcher-census/researchers/mario-grosso-a5082273/) | Politecnico di Milano | IT | 11 | 229 |
+| 52 | 158 | [Michael Fuhr](https://captaindrawdown.com/cdr-researcher-census/researchers/michael-fuhr-a5072752/) | GEOMAR Helmholtz Centre for Ocean Research Kiel | DE | 11 | 123 |
+| 53 | 270 | [Nicolás Sánchez](https://captaindrawdown.com/cdr-researcher-census/researchers/nicolas-sanchez-a5027018/) | Norwegian University of Science and Technology | NO | 11 | 80 |
+| 54 | 1403 | [Francesco Pietro Campo](https://captaindrawdown.com/cdr-researcher-census/researchers/francesco-pietro-campo-a5047434/) | Politecnico di Milano | IT | 11 | 17 |
+| 55 | 1859 | [Tronje P. Kemena](https://captaindrawdown.com/cdr-researcher-census/researchers/tronje-p-kemena-a5043456/) | GEOMAR Helmholtz Centre for Ocean Research Kiel | DE | 11 | 11 |
+| 56 | 14 | [Wei‐Jun Cai](https://captaindrawdown.com/cdr-researcher-census/researchers/weijun-cai-a5062468/) | University of Delaware | US | 10 | 376 |
+| 57 | 15 | [Phillip Williamson](https://captaindrawdown.com/cdr-researcher-census/researchers/phillip-williamson-a5039444/) | University of East Anglia | GB | 10 | 368 |
+| 58 | 113 | [Richard A. Feely](https://captaindrawdown.com/cdr-researcher-census/researchers/richard-a-feely-a5019328/) | NOAA Pacific Marine Environmental Laboratory | US | 10 | 159 |
+| 59 | 160 | [Silvan Urs Goldenberg](https://captaindrawdown.com/cdr-researcher-census/researchers/silvan-urs-goldenberg-a5011298/) | GEOMAR Helmholtz Centre for Ocean Research Kiel | DE | 10 | 121 |
+| 60 | 328 | [Wanxuan Yao](https://captaindrawdown.com/cdr-researcher-census/researchers/wanxuan-yao-a5069543/) | GEOMAR Helmholtz Centre for Ocean Research Kiel | DE | 10 | 69 |
+| 61 | 580 | [Chinmayee V. Subban](https://captaindrawdown.com/cdr-researcher-census/researchers/chinmayee-v-subban-a5062579/) | Pacific Northwest National Laboratory | US | 10 | 46 |
+| 62 | 789 | [Lisa A. Levin](https://captaindrawdown.com/cdr-researcher-census/researchers/lisa-a-levin-a5104385/) | Scripps Institution of Oceanography | US | 10 | 34 |
+| 63 | 1469 | [Paraskevi Pitta](https://captaindrawdown.com/cdr-researcher-census/researchers/paraskevi-pitta-a5029477/) | Hellenic Centre for Marine Research | GR | 10 | 16 |
+| 64 | 16 | [Minhan Dai](https://captaindrawdown.com/cdr-researcher-census/researchers/minhan-dai-a5000330/) | Xiamen University | CN | 9 | 368 |
+| 65 | 18 | [Peter Landschützer](https://captaindrawdown.com/cdr-researcher-census/researchers/peter-landschutzer-a5091506/) | Flanders Marine Institute | BE | 9 | 334 |
+| 66 | 32 | [Javier Arı́stegui](https://captaindrawdown.com/cdr-researcher-census/researchers/javier-arstegui-a5091003/) | Universidad de Las Palmas de Gran Canaria | ES | 9 | 301 |
+| 67 | 54 | [James Campbell](https://captaindrawdown.com/cdr-researcher-census/researchers/james-campbell-a5089134/) | Heriot-Watt University | GB | 9 | 258 |
+| 68 | 79 | [Robert F. Strzepek](https://captaindrawdown.com/cdr-researcher-census/researchers/robert-f-strzepek-a5087477/) | University of Tasmania | AU | 9 | 199 |
+| 69 | 146 | [Lester Kwiatkowski](https://captaindrawdown.com/cdr-researcher-census/researchers/lester-kwiatkowski-a5022134/) | CNRS | FR | 9 | 134 |
+| 70 | 183 | [Erika Callagon La Plante](https://captaindrawdown.com/cdr-researcher-census/researchers/erika-callagon-la-plante-a5071999/) | University of California, Davis | US | 9 | 103 |
+| 71 | 263 | [Ruth Musgrave](https://captaindrawdown.com/cdr-researcher-census/researchers/ruth-musgrave-a5039999/) | Dalhousie University | CA | 9 | 81 |
+| 72 | 326 | [Thomas L. Frölicher](https://captaindrawdown.com/cdr-researcher-census/researchers/thomas-l-frolicher-a5063055/) | University of Bern | CH | 9 | 70 |
+| 73 | 559 | [Astrid Hylén](https://captaindrawdown.com/cdr-researcher-census/researchers/astrid-hylen-a5047703/) | CEREGE | FR | 9 | 48 |
+| 74 | 592 | [Daniel C. McCorkle](https://captaindrawdown.com/cdr-researcher-census/researchers/daniel-c-mccorkle-a5110912/) | Woods Hole Oceanographic Institution | US | 9 | 45 |
+| 75 | 668 | [Zhaohui Aleck Wang](https://captaindrawdown.com/cdr-researcher-census/researchers/zhaohui-aleck-wang-a5031746/) | Woods Hole Oceanographic Institution | US | 9 | 39 |
+| 76 | 963 | [Lina Röschel](https://captaindrawdown.com/cdr-researcher-census/researchers/lina-roschel-a5025340/) | Research Institute for Sustainability at GFZ | DE | 9 | 28 |
+| 77 | 1470 | [Iordanis Magiopoulos](https://captaindrawdown.com/cdr-researcher-census/researchers/iordanis-magiopoulos-a5069820/) | Hellenic Centre for Marine Research | GR | 9 | 16 |
+| 78 | 1471 | [Miriam Seifert](https://captaindrawdown.com/cdr-researcher-census/researchers/miriam-seifert-a5036998/) | Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung | DE | 9 | 16 |
+| 79 | 1860 | [Federico Comazzi](https://captaindrawdown.com/cdr-researcher-census/researchers/federico-comazzi-a5094107/) | Limenet s.r.l | IT | 9 | 11 |
+| 80 | 1997 | [Samira Jamali Alamooti](https://captaindrawdown.com/cdr-researcher-census/researchers/samira-jamali-alamooti-a5138703/) | Politecnico di Milano | IT | 9 | 10 |
+| 81 | 2365 | [Hendrik Großelindemann](https://captaindrawdown.com/cdr-researcher-census/researchers/hendrik-groelindemann-a5046916/) | University of Bern † | CH | 9 | 7 |
+| 82 | 2829 | [Helene Muri](https://captaindrawdown.com/cdr-researcher-census/researchers/helene-muri-a5010735/) | Norwegian University of Science and Technology | NO | 9 | 4 |
+| 83 | 57 | [Julieta Schneider](https://captaindrawdown.com/cdr-researcher-census/researchers/julieta-schneider-a5032139/) | GEOMAR Helmholtz Centre for Ocean Research Kiel | DE | 8 | 251 |
+| 84 | 76 | [Laura Marín-Samper](https://captaindrawdown.com/cdr-researcher-census/researchers/laura-marin-samper-a5013241/) | Universidad de Las Palmas de Gran Canaria | ES | 8 | 219 |
+| 85 | 94 | [Benjamin S. Twining](https://captaindrawdown.com/cdr-researcher-census/researchers/benjamin-s-twining-a5088517/) | Bigelow Laboratory for Ocean Sciences | US | 8 | 170 |
+| 86 | 115 | [Mojtaba Fakhraee](https://captaindrawdown.com/cdr-researcher-census/researchers/mojtaba-fakhraee-a5051417/) | University of Connecticut | US | 8 | 158 |
+| 87 | 130 | [Patricia Grasse](https://captaindrawdown.com/cdr-researcher-census/researchers/patricia-grasse-a5066845/) | German Centre for Integrative Biodiversity Research | DE | 8 | 155 |
+| 88 | 174 | [Manon Berger](https://captaindrawdown.com/cdr-researcher-census/researchers/manon-berger-a5040534/) | University of Bern † | CH | 8 | 113 |
+| 89 | 178 | [Yubin Hu](https://captaindrawdown.com/cdr-researcher-census/researchers/yubin-hu-a5040781/) | Shandong University | CN | 8 | 106 |
+| 90 | 221 | [Lukas Marx](https://captaindrawdown.com/cdr-researcher-census/researchers/lukas-marx-a5002822/) | Woods Hole Oceanographic Institution | US | 8 | 94 |
+| 91 | 250 | [Gaurav Sant](https://captaindrawdown.com/cdr-researcher-census/researchers/gaurav-sant-a5044493/) | University of California, Los Angeles | US | 8 | 84 |
+| 92 | 271 | [M. Grace Andrews](https://captaindrawdown.com/cdr-researcher-census/researchers/m-grace-andrews-a5102775/) | Montclair Hospital Medical Center † | US | 8 | 80 |
+| 93 | 503 | [Masao Ishii](https://captaindrawdown.com/cdr-researcher-census/researchers/masao-ishii-a5061825/) | Meteorological Research Institute | JP | 8 | 54 |
+| 94 | 507 | [Nicholas Ward](https://captaindrawdown.com/cdr-researcher-census/researchers/nicholas-ward-a5016338/) | Pacific Northwest National Laboratory | US | 8 | 53 |
+| 95 | 535 | [Ken O. Buesseler](https://captaindrawdown.com/cdr-researcher-census/researchers/ken-o-buesseler-a5012317/) | Woods Hole Oceanographic Institution | US | 8 | 50 |
+| 96 | 565 | [Wolfgang Koeve](https://captaindrawdown.com/cdr-researcher-census/researchers/wolfgang-koeve-a5044333/) | GEOMAR Helmholtz Centre for Ocean Research Kiel | DE | 8 | 47 |
+| 97 | 826 | [Anna P. M. Michel](https://captaindrawdown.com/cdr-researcher-census/researchers/anna-p-m-michel-a5024026/) | Woods Hole Oceanographic Institution | US | 8 | 33 |
+| 98 | 827 | [Frédéric Gazeau](https://captaindrawdown.com/cdr-researcher-census/researchers/frederic-gazeau-a5039141/) | CNRS Délégation Régionale Côte d'Azur | FR | 8 | 33 |
+| 99 | 828 | [Hyewon Kim](https://captaindrawdown.com/cdr-researcher-census/researchers/hyewon-kim-a5100600/) | Woods Hole Oceanographic Institution | US | 8 | 33 |
+| 100 | 883 | [Gregor Rehder](https://captaindrawdown.com/cdr-researcher-census/researchers/gregor-rehder-a5060878/) | Leibniz Institute for Baltic Sea Research Warnemünde | DE | 8 | 31 |
+
+## Europe, top 50
+
+| # | Cit. rank | Name | Institution | Country | Papers 2021–26 | Citations |
+|---:|---:|---|---|---|---:|---:|
+| 1 | 3 | [Ulf Riebesell](https://captaindrawdown.com/cdr-researcher-census/researchers/ulf-riebesell-a5005675/) | GEOMAR Helmholtz Centre for Ocean Research Kiel | DE | 50 | 568 |
+| 2 | 4 | [Andreas Oschlies](https://captaindrawdown.com/cdr-researcher-census/researchers/andreas-oschlies-a5063745/) | GEOMAR Helmholtz Centre for Ocean Research Kiel | DE | 47 | 445 |
+| 3 | 26 | [David P. Keller](https://captaindrawdown.com/cdr-researcher-census/researchers/david-p-keller-a5068205/) | GEOMAR Helmholtz Centre for Ocean Research Kiel | DE | 34 | 264 |
+| 4 | 1 | [Phil Renforth](https://captaindrawdown.com/cdr-researcher-census/researchers/phil-renforth-a5011758/) | Heriot-Watt University | GB | 30 | 604 |
+| 5 | 66 | [Miranda Boettcher](https://captaindrawdown.com/cdr-researcher-census/researchers/miranda-boettcher-a5061263/) | Stiftung Wissenschaft und Politik, German Institute for International and Security Affairs | DE | 19 | 114 |
+| 6 | 104 | [Wilfried Rickels](https://captaindrawdown.com/cdr-researcher-census/researchers/wilfried-rickels-a5020112/) | Kiel Institute for the World Economy | DE | 19 | 79 |
+| 7 | 183 | [Daniela Basso](https://captaindrawdown.com/cdr-researcher-census/researchers/daniela-basso-a5026560/) | University of Milano-Bicocca | IT | 19 | 54 |
+| 8 | 24 | [Spyros Foteinis](https://captaindrawdown.com/cdr-researcher-census/researchers/spyros-foteinis-a5057305/) | Heriot-Watt University | GB | 18 | 267 |
+| 9 | 2 | [Jean‐Pierre Gattuso](https://captaindrawdown.com/cdr-researcher-census/researchers/jeanpierre-gattuso-a5079156/) | CNRS | FR | 17 | 571 |
+| 10 | 13 | [Jens Hartmann](https://captaindrawdown.com/cdr-researcher-census/researchers/jens-hartmann-a5019869/) | Universität Hamburg | DE | 17 | 315 |
+| 11 | 5 | [Judith Hauck](https://captaindrawdown.com/cdr-researcher-census/researchers/judith-hauck-a5068651/) | Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung | DE | 16 | 433 |
+| 12 | 18 | [Charly A. Moras](https://captaindrawdown.com/cdr-researcher-census/researchers/charly-a-moras-a5020057/) | Universität Hamburg | DE | 15 | 292 |
+| 13 | 21 | [Stefano Caserini](https://captaindrawdown.com/cdr-researcher-census/researchers/stefano-caserini-a5070147/) | University of Parma | IT | 15 | 284 |
+| 14 | 23 | [Laurent Bopp](https://captaindrawdown.com/cdr-researcher-census/researchers/laurent-bopp-a5079839/) | IPSL | FR | 15 | 272 |
+| 15 | 73 | [Jörg Schwinger](https://captaindrawdown.com/cdr-researcher-census/researchers/jorg-schwinger-a5026788/) | NORCE Research AS | NO | 15 | 102 |
+| 16 | 466 | [Piero Macchi](https://captaindrawdown.com/cdr-researcher-census/researchers/piero-macchi-a5015826/) | Politecnico di Milano | IT | 15 | 18 |
+| 17 | 683 | [Friedrich A. Burger](https://captaindrawdown.com/cdr-researcher-census/researchers/friedrich-a-burger-a5063499/) | University of Bern | CH | 15 | 7 |
+| 18 | 69 | [Giulia Faucher](https://captaindrawdown.com/cdr-researcher-census/researchers/giulia-faucher-a5029772/) | GEOMAR Helmholtz Centre for Ocean Research Kiel | DE | 14 | 110 |
+| 19 | 88 | [Filip J. R. Meysman](https://captaindrawdown.com/cdr-researcher-census/researchers/filip-j-r-meysman-a5039479/) | University of Antwerp | BE | 14 | 99 |
+| 20 | 252 | [Selene Varliero](https://captaindrawdown.com/cdr-researcher-census/researchers/selene-varliero-a5063753/) | Politecnico di Milano | IT | 14 | 37 |
+| 21 | 37 | [Nadine Mengis](https://captaindrawdown.com/cdr-researcher-census/researchers/nadine-mengis-a5079879/) | GEOMAR Helmholtz Centre for Ocean Research Kiel | DE | 13 | 176 |
+| 22 | 253 | [Maarten Boersma](https://captaindrawdown.com/cdr-researcher-census/researchers/maarten-boersma-a5042168/) | Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung | DE | 13 | 37 |
+| 23 | 28 | [Niels Suitner](https://captaindrawdown.com/cdr-researcher-census/researchers/niels-suitner-a5035414/) | Universität Hamburg | DE | 12 | 255 |
+| 24 | 31 | [Sonja Geilert](https://captaindrawdown.com/cdr-researcher-census/researchers/sonja-geilert-a5043903/) | Utrecht University | NL | 12 | 233 |
+| 25 | 70 | [Javier Lezaun](https://captaindrawdown.com/cdr-researcher-census/researchers/javier-lezaun-a5085557/) | University of Oxford | GB | 12 | 109 |
+| 26 | 97 | [Christine Merk](https://captaindrawdown.com/cdr-researcher-census/researchers/christine-merk-a5135538/) | Kiel Institute for the World Economy | DE | 12 | 84 |
+| 27 | 230 | [Arianna Azzellino](https://captaindrawdown.com/cdr-researcher-census/researchers/arianna-azzellino-a5025068/) | Politecnico di Milano | IT | 12 | 40 |
+| 28 | 291 | [Guido Raos](https://captaindrawdown.com/cdr-researcher-census/researchers/guido-raos-a5052105/) | Politecnico di Milano | IT | 12 | 31 |
+| 29 | 566 | [Leila Kittu](https://captaindrawdown.com/cdr-researcher-census/researchers/leila-kittu-a5085342/) | GEOMAR Helmholtz Centre for Ocean Research Kiel | DE | 12 | 11 |
+| 30 | 17 | [Jan Taucher](https://captaindrawdown.com/cdr-researcher-census/researchers/jan-taucher-a5007343/) | GEOMAR Helmholtz Centre for Ocean Research Kiel | DE | 11 | 294 |
+| 31 | 32 | [Mario Grosso](https://captaindrawdown.com/cdr-researcher-census/researchers/mario-grosso-a5082273/) | Politecnico di Milano | IT | 11 | 229 |
+| 32 | 57 | [Michael Fuhr](https://captaindrawdown.com/cdr-researcher-census/researchers/michael-fuhr-a5072752/) | GEOMAR Helmholtz Centre for Ocean Research Kiel | DE | 11 | 123 |
+| 33 | 103 | [Nicolás Sánchez](https://captaindrawdown.com/cdr-researcher-census/researchers/nicolas-sanchez-a5027018/) | Norwegian University of Science and Technology | NO | 11 | 80 |
+| 34 | 481 | [Francesco Pietro Campo](https://captaindrawdown.com/cdr-researcher-census/researchers/francesco-pietro-campo-a5047434/) | Politecnico di Milano | IT | 11 | 17 |
+| 35 | 567 | [Tronje P. Kemena](https://captaindrawdown.com/cdr-researcher-census/researchers/tronje-p-kemena-a5043456/) | GEOMAR Helmholtz Centre for Ocean Research Kiel | DE | 11 | 11 |
+| 36 | 6 | [Phillip Williamson](https://captaindrawdown.com/cdr-researcher-census/researchers/phillip-williamson-a5039444/) | University of East Anglia | GB | 10 | 368 |
+| 37 | 58 | [Silvan Urs Goldenberg](https://captaindrawdown.com/cdr-researcher-census/researchers/silvan-urs-goldenberg-a5011298/) | GEOMAR Helmholtz Centre for Ocean Research Kiel | DE | 10 | 121 |
+| 38 | 115 | [Wanxuan Yao](https://captaindrawdown.com/cdr-researcher-census/researchers/wanxuan-yao-a5069543/) | GEOMAR Helmholtz Centre for Ocean Research Kiel | DE | 10 | 69 |
+| 39 | 490 | [Paraskevi Pitta](https://captaindrawdown.com/cdr-researcher-census/researchers/paraskevi-pitta-a5029477/) | Hellenic Centre for Marine Research | GR | 10 | 16 |
+| 40 | 7 | [Peter Landschützer](https://captaindrawdown.com/cdr-researcher-census/researchers/peter-landschutzer-a5091506/) | Flanders Marine Institute | BE | 9 | 334 |
+| 41 | 16 | [Javier Arı́stegui](https://captaindrawdown.com/cdr-researcher-census/researchers/javier-arstegui-a5091003/) | Universidad de Las Palmas de Gran Canaria | ES | 9 | 301 |
+| 42 | 27 | [James Campbell](https://captaindrawdown.com/cdr-researcher-census/researchers/james-campbell-a5089134/) | Heriot-Watt University | GB | 9 | 258 |
+| 43 | 49 | [Lester Kwiatkowski](https://captaindrawdown.com/cdr-researcher-census/researchers/lester-kwiatkowski-a5022134/) | CNRS | FR | 9 | 134 |
+| 44 | 114 | [Thomas L. Frölicher](https://captaindrawdown.com/cdr-researcher-census/researchers/thomas-l-frolicher-a5063055/) | University of Bern | CH | 9 | 70 |
+| 45 | 206 | [Astrid Hylén](https://captaindrawdown.com/cdr-researcher-census/researchers/astrid-hylen-a5047703/) | CEREGE | FR | 9 | 48 |
+| 46 | 319 | [Lina Röschel](https://captaindrawdown.com/cdr-researcher-census/researchers/lina-roschel-a5025340/) | Research Institute for Sustainability at GFZ | DE | 9 | 28 |
+| 47 | 491 | [Iordanis Magiopoulos](https://captaindrawdown.com/cdr-researcher-census/researchers/iordanis-magiopoulos-a5069820/) | Hellenic Centre for Marine Research | GR | 9 | 16 |
+| 48 | 492 | [Miriam Seifert](https://captaindrawdown.com/cdr-researcher-census/researchers/miriam-seifert-a5036998/) | Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung | DE | 9 | 16 |
+| 49 | 568 | [Federico Comazzi](https://captaindrawdown.com/cdr-researcher-census/researchers/federico-comazzi-a5094107/) | Limenet s.r.l | IT | 9 | 11 |
+| 50 | 599 | [Samira Jamali Alamooti](https://captaindrawdown.com/cdr-researcher-census/researchers/samira-jamali-alamooti-a5138703/) | Politecnico di Milano | IT | 9 | 10 |
+
+† Institution from the OpenAlex author profile, not confirmed by the researcher's recent papers.
+
+<script>
+document.addEventListener('click', function (e) {
+  var a = e.target && e.target.closest ? e.target.closest('a[href]') : null;
+  if (!a || !window.goatcounter || !window.goatcounter.count) { return; }
+  var h = a.getAttribute('href') || '';
+  if (/^\/(data\/v1\/|api\/v1\/|mcp\/)/.test(h)) {
+    window.goatcounter.count({ path: 'download:' + h, title: (a.textContent || '').trim().slice(0, 60), event: true });
+  }
+});
+</script>
