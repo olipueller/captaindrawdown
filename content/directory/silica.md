@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>Mexico</td></tr>
   <tr><th>Website</th><td><a href="https://silica.earth" target="_blank" rel="noopener">https://silica.earth</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/silicaearth/" target="_blank" rel="noopener">silicaearth — 502 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/silicaearth/" target="_blank" rel="noopener">silicaearth</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~30 (+67% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric</td></tr>
@@ -40,6 +40,9 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-30** — news mention: Cavity-Filling Calcite in the Deccan Traps as a Natural Analogue for Mineral Carbon Sequestration an ([source](https://doi.org/10.53941/esrs.2026.100028))
+- **2026-10-26** — news mention: Aspiring Materials: This week marks two years since we moved into our Bromley site. In just 24 month ([source](https://www.linkedin.com/company/aspiring-materials/#post-cb921fa079f9))
+- **2026-10-24** — news mention: Pyrolysis temperature-induced changes in physicochemical properties of rice husk-derived biochar: an ([source](https://doi.org/10.3389/feart.2026.1894009))
 - **2026-10-15** — refresh: coresignal
 - **2026-10-15** — refresh: coresignal
 - **2026-10-12** — news mention: When and why does CO2 mineralization in basalts stall? A critical review of microscale passivation,  ([source](https://doi.org/10.31223/x55v43))
@@ -67,9 +70,6 @@ Independently verified by carbon-credit registries:
 - **2026-07-15** — refresh: coresignal
 - **2026-06-26** — news mention: A Tour of Our CDR Greenhouse Experiment ([source](https://carbondrawdown.substack.com/p/a-tour-of-our-cdr-greenhouse-experiment))
 - **2026-06-15** — refresh: coresignal
-- **2026-06-15** — refresh: coresignal
-- **2026-05-31** — news mention: Advances in genome editing could significantly enhance plant-based carbon dioxide removal (#CDR) by  ([source](https://x.com/geoengineering1/status/2061143468379107490))
-- **2026-05-29** — news mention: Most ERW assessments focus on alkalinity-driven carbon dioxide removal but there may be another inte ([source](https://www.linkedin.com/feed/update/urn:li:share:7466111386818056192/))
 
 ---
 

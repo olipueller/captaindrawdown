@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://www.southerngreengas.com.au/" target="_blank" rel="noopener">https://www.southerngreengas.com.au/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/southern-green-gas/" target="_blank" rel="noopener">southern-green-gas — 894 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/southern-green-gas/" target="_blank" rel="noopener">southern-green-gas</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~5 (0% YoY)</td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ Southern Green Gas (SGG) is an Australian company extracting CO2 from air using 
 
 ## History
 
+- **2026-10-22** — news mention: Southern Green Gas: Capturing CO₂ directly from the atmosphere is a vital step for decarbonising sec ([source](https://www.linkedin.com/company/southern-green-gas/#post-dc61a5d1dd94))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-23** — news mention: Southern Green Gas: Capturing COâ directly from the atmosphere is a vital step for decarbonising s ([source](https://www.linkedin.com/company/southern-green-gas/#post-327a694ce7d9))
 - **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://southerngreengas.com.au/news/southern-green-gas-secures-22m-order-to-develop-renewable-methane-demonstration-project))

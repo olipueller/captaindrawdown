@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.verderesources.com/" target="_blank" rel="noopener">https://www.verderesources.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/verde-resources-inc-vrdr-/" target="_blank" rel="noopener">verde-resources-inc-vrdr- — 1,116 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/verde-resources-inc-vrdr-/" target="_blank" rel="noopener">verde-resources-inc-vrdr-</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~30 (+29% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,9 @@ Verde Resources Inc. (OTCQB: VRDR) is a St. Louis-based sustainable infrastructu
 
 ## History
 
+- **2026-10-20** — news mention: Verde Resources: From innovation to validation. From validation to commercialization. Turning roads  ([source](https://www.linkedin.com/company/verde-resources-inc-vrdr-/#post-fe8ed50bec53))
+- **2026-10-19** — news mention: Verde Resources Pioneering a Novel Approach For Turning Roads Into Carbon Assets | The Manila Times ([source](https://www.manilatimes.net/2026/10/19/tmt-newswire/globenewswire/verde-resources-pioneering-a-novel-approach-for-turning-roads-into-carbon-assets/2448962))
+- **2026-10-19** — news mention: Verde Resources Pioneering a Novel Approach For Turning Roads Into Carbon Assets ([source](https://www.globenewswire.com/news-release/2026/10/19/3383638/0/en/verde-resources-pioneering-a-novel-approach-for-turning-roads-into-carbon-assets.html))
 - **2026-10-04** — news mention: Verde Resources Advances Engineered Biochar for Sustainable Infrastructure ([source](https://biochartoday.com/news/verde-resources-and-ergon-asphalt-emulsions-advance-environmental-technology-commercialization-through-strategic-collaboration/?utm_source=bluesky&utm_medium=jetpack_social))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-06** — news mention: Verde Resources: 🛣️ Verde Resources Inc. has partnered with HIGHWAY INTERNATIONAL PRIVATE LIMITED to ([source](https://www.linkedin.com/company/verde-resources-inc-vrdr-/#post-818e2dea546f))

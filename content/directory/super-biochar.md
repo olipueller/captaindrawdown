@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.superbiochar.com/" target="_blank" rel="noopener">https://www.superbiochar.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/superbiochar/" target="_blank" rel="noopener">superbiochar — 723 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/superbiochar/" target="_blank" rel="noopener">superbiochar</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~30</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ Super Biochar is a South Norwalk, Connecticut-based climate-tech startup founded
 
 ## History
 
+- **2026-10-22** — news mention: Super Biochar: Biochar’s next rulebook runs on proof. The U.S. Department of Agriculture pays farmer ([source](https://www.linkedin.com/company/superbiochar/#post-e839c6b14c8a))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-24** — news mention: Super Biochar: 📰Weekly Carbon Removal Bulletin📰 Here’s your roundup of top #CarbonDioxideRemoval upd ([source](https://www.linkedin.com/company/superbiochar/#post-357b843f1897))
 - **2026-08-17** — news mention: Super Biochar: The 2025 biochar market reports landed this month, and the numbers are worth reflecti ([source](https://www.linkedin.com/company/superbiochar/#post-7bfe626f877e))

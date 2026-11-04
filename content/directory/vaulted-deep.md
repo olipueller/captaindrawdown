@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>BiCRS (Other)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://vaulteddeep.com/" target="_blank" rel="noopener">https://vaulteddeep.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/vaulted-deep/" target="_blank" rel="noopener">vaulted-deep — 7,787 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/vaulted-deep/" target="_blank" rel="noopener">vaulted-deep</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~64 (+36% YoY)</td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>8 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric <small>(last issuance: 2023-12-23)</small></td></tr>
@@ -44,6 +44,9 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-01** — news mention: ClimeFi: Lenders are increasingly willing to provide debt financing to carbon removal projects, part ([source](https://www.linkedin.com/company/carbonx-world/#post-a8fe4eb97a13))
+- **2026-10-16** — news mention: Houston-based Coflux, DexMat named to 2026 Cleantech 50 to Watch list - Energy Capital ([source](https://energycapitalhtx.com/2026-cleantech-50-to-watch-list))
+- **2026-10-16** — news mention: Stardust Power, Power Electronics expand to Houston and more top energy news ([source](https://energycapitalhtx.com/stardust-power-houston-trending-news))
 - **2026-10-08** — news mention: CDR.fyi: 🚨 September soars with 1M tonnes contracted 📈 Following a relatively slow August (128Kt), S ([source](https://www.linkedin.com/company/cdr-fyi/#post-e181fd75f501))
 - **2026-10-02** — news mention: Vaulted Deep secures $35M in financing for carbon removal expansion - Energy Capital ([source](https://energycapitalhtx.com/vaulted-deep-35m-debt-financing))
 - **2026-09-25** — news mention: Vaulted Deep: We’re all about scale. That’s why we’re thrilled to announce a $35 million debt facili ([source](https://www.linkedin.com/company/vaulted-deep/#post-ca8e4d3544ea))

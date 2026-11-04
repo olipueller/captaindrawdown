@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Direct Ocean Removal</td></tr>
   <tr><th>Country</th><td>Israel</td></tr>
   <tr><th>Website</th><td><a href="https://carbonblue.cc/" target="_blank" rel="noopener">https://carbonblue.cc/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonblue-cc/" target="_blank" rel="noopener">carbonblue-cc — 3,824 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonblue-cc/" target="_blank" rel="noopener">carbonblue-cc</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~20 (0% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ CarbonBlue is an Israeli climate-tech startup founded in 2022 by Dr. Dan Deviri 
 
 ## History
 
+- **2026-11-02** — news mention: CarbonBlue: A new chapter for SeaO2 , and for me personally. After an intense period, I'm very happy ([source](https://www.linkedin.com/company/carbonblue-cc/#post-68291396bd61))
 - **2026-10-09** — news mention: SeaO2: A new chapter for SeaO2 , and for me personally. After an intense period, I'm very happy to s ([source](https://www.linkedin.com/company/seao2-io/#post-eb832fd56eb3))
 - **2026-10-03** — news mention: CarbonBlue: A new chapter for SeaO2 , and for me personally. After an intense period, I'm very happy ([source](https://www.linkedin.com/company/carbonblue-cc/#post-622b051e39ab))
 - **2026-10-02** — news mention: CarbonBlue And CTRL-S To Carry On SeaO2’s Legacy ([source](https://carbonherald.com/carbonblue-and-ctrl-s-to-carry-on-seao2s-legacy/?utm_source=rss&utm_medium=rss&utm_campaign=carbonblue-and-ctrl-s-to-carry-on-seao2s-legacy))

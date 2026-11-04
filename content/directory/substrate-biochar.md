@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.substrate-biochar.com/" target="_blank" rel="noopener">https://www.substrate-biochar.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/substrate-biochar/" target="_blank" rel="noopener">substrate-biochar — 214 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/substrate-biochar/" target="_blank" rel="noopener">substrate-biochar</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~3</td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ Substrate Biochar is a UK-registered carbon-removal startup whose leadership com
 
 ## History
 
+- **2026-10-26** — news mention: Substrate Biochar Launches First Production Site In South Africa ([source](https://carbonherald.com/substrate-biochar-launches-first-production-site-in-south-africa/?utm_source=rss&utm_medium=rss&utm_campaign=substrate-biochar-launches-first-production-site-in-south-africa))
+- **2026-10-26** — news mention: Substrate Biochar: BIG NEWS - Charworks 01, our first site in South Africa, is now operational. Our  ([source](https://www.linkedin.com/company/substrate-biochar/#post-d0966624a72c))
 - **2026-10-15** — refresh: screenshot
 - **2026-07-26** — news mention: Substrate Biochar: Big news: Substrate Biochar has secured investment from Okavango Capital Partners ([source](https://www.linkedin.com/company/substrate-biochar/#post-a2c90615b35b))
 - **2026-07-15** — liveliness: 🟡 Moderate → 🟢 Active

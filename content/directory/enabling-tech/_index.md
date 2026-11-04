@@ -8,7 +8,7 @@ url: "/directory/enabling-tech/"
 
 # Enabling Tech — 179 Companies Tracked
 
-**Market pulse for Enabling Tech (updated 2026-10-15).**
+**Market pulse for Enabling Tech (updated 2026-11-04).**
 
 <div class="directory-stats">
   <div class="stat-box"><span class="num">179</span><span class="label">Companies</span></div>
@@ -19,22 +19,14 @@ url: "/directory/enabling-tech/"
 </div>
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">8,015</span><span class="label">Total employees (lower bound)</span></div>
-  <div class="stat-box"><span class="num">167/179</span><span class="label">Companies with headcount data</span></div>
+  <div class="stat-box"><span class="num">62</span><span class="label">Micro (under 10)</span></div>
+  <div class="stat-box"><span class="num">83</span><span class="label">Small (10 to 49)</span></div>
+  <div class="stat-box"><span class="num">20</span><span class="label">Medium (50 to 249)</span></div>
+  <div class="stat-box"><span class="num">8</span><span class="label">Large (250+)</span></div>
+  <div class="stat-box"><span class="num">6</span><span class="label">No size data</span></div>
 </div>
 
-## Largest companies
-
-- [Watershed](/directory/watershed/) — 646 employees
-- [ACT Group](/directory/act-group/) — 624 employees
-- [Kita](/directory/kita/) — 343 employees
-- [Marble](/directory/marble/) — 337 employees
-- [ClimatePartner GmbH](/directory/climatepartner-gmbh/) — 321 employees
-- [3Degrees](/directory/3degrees/) — 308 employees
-- [Verra](/directory/verra/) — 299 employees
-- [Wren Climate, PBC](/directory/wren-climate-pbc/) — 296 employees
-- [CORMETECH](/directory/cormetech/) — 293 employees
-- [Xpansiv](/directory/xpansiv/) — 245 employees
+Company size classes follow the EU SME staff thresholds (micro under 10, small 10 to 49, medium 50 to 249, large 250 and more), derived from each company's LinkedIn size band and headcount signals. Exact headcounts are not published.
 
 ## All Enabling Tech companies
 

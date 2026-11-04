@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>CDR Platform/Marketplace</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://watershed.com/" target="_blank" rel="noopener">https://watershed.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/watershedclimate/" target="_blank" rel="noopener">watershedclimate — 79,866 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/watershedclimate/" target="_blank" rel="noopener">watershedclimate</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~377 (+18% YoY)</td></tr>
+  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -34,6 +34,10 @@ Watershed is an enterprise sustainability software platform that helps companies
 
 ## History
 
+- **2026-10-29** — news mention: Scaling carbon removal starts long before a single ton goes underground. 🌲
+
+Scott Litzelman from Fro ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7521372109206626304/))
+- **2026-10-26** — news mention: US Biochar Coalition (USBC): ☀️ For biochar to scale to gigaton impact, one of the hardest leaps is  ([source](https://www.linkedin.com/company/u-s-biochar-coalition/#post-fe43dee1f7c8))
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-10-12** — news mention: Assessing the potential and cost of enhanced rock weathering in China ([source](https://doi.org/10.1038/s43247-026-04136-0))
 - **2026-10-03** — news mention: #mrv | Yale Center for Natural Carbon Capture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7511072827463159808/))
@@ -62,8 +66,6 @@ Watershed is an enterprise sustainability software platform that helps companies
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
-- **2026-04-25** — news mention: @remineralize Watershed-scale MRV with seasonal predictability finally gives us the empirical ground ([source](https://x.com/makinggovq/status/2048007575560404995))
-- **2026-04-24** — news mention: A Watershed Reveals Carbon Removal, Soil Buffering, and Metal Stabilization ([source](https://remineralize.org/2026/04/a-watershed-reveals-carbon-removal-soil-buffering-and-metal-stabilization/))
 
 ---
 

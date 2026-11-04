@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>Brazil</td></tr>
   <tr><th>Website</th><td><a href="https://inplanet.earth/" target="_blank" rel="noopener">https://inplanet.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/inplanet/" target="_blank" rel="noopener">inplanet — 16 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/inplanet/" target="_blank" rel="noopener">inplanet</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~70 (0% YoY)</td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>4 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -45,6 +45,13 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-03** — news mention: Driving progress, on and off the track. 🏁  
+
+Congratulations to Andrea Kimi Antonelli on becoming th ([source](https://www.linkedin.com/feed/update/urn:li:share:7523324735842181121/))
+- **2026-10-26** — news mention: Carbon Dioxide Removal (CDR) project revenue financing needs to include bankable offtake agreements, ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3myspxsjxh22q))
+- **2026-10-26** — news mention: New InPlanet White Paper Says Revenue Financing Can Bridge The CDR Financing Gap ([source](https://carbonherald.com/new-inplanet-white-paper-says-revenue-financing-can-bridge-the-cdr-financing-gap/?utm_source=rss&utm_medium=rss&utm_campaign=new-inplanet-white-paper-says-revenue-financing-can-bridge-the-cdr-financing-gap))
+- **2026-10-17** — news mention: #munichclimateweek #carbonremoval #enhancedrockweathering #cdr #climateaction | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:share:7516480140579643393/))
+- **2026-10-17** — news mention: Inovação Climática &amp;amp; Agricultura Regenerativa | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7516517915475648512/))
 - **2026-10-15** — refresh: coresignal
 - **2026-10-15** — refresh: coresignal
 - **2026-10-13** — news mention: #etsneedsremovals #carbonremoval #euets #enhancedrockweathering | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:share:7515414895379755008/))
@@ -70,11 +77,6 @@ Independently verified by carbon-credit registries:
 - **2026-08-01** — news mention: Terrasols Solutions Private Limited: Data transparency is growing in ERW â and that's worth celebr ([source](https://www.linkedin.com/company/greenlife-sustainability/#post-e888ec9e7a59))
 - **2026-08-01** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-47656d726774))
 - **2026-07-30** — news mention: Graphyte: Midway through the year and happy to report that the Frontier portfolio has removed 30,600 ([source](https://www.linkedin.com/company/graphytecarbon/#post-e5a51d894b02))
-- **2026-07-27** — news mention: #londonclimateactionweek #carbonremoval #cdr #climatetech | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7487477847247425536/))
-- **2026-07-27** — news mention: Tierra Prieta: 🌎📘 Latin America Gets A New Carbon Removal Investment Roadmap Carbon Business Council ([source](https://www.linkedin.com/company/tierra-prieta/#post-c00fd4911a62))
-- **2026-07-25** — news mention: Terrasols: Data transparency is growing in ERW — and that's worth celebrating! Today we're announcin ([source](https://www.linkedin.com/company/greenlife-sustainability/#post-79f5f4af12aa))
-- **2026-07-25** — news mention: 350solutions: March was a crazy month for Enhanced Rock Weathering ( #ERW )! The 350 team was busy w ([source](https://www.linkedin.com/company/350solutions/#post-4a43938f1559))
-- **2026-07-25** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-ffa67cc8d2be))
 
 ---
 

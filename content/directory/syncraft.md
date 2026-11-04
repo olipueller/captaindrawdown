@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Austria</td></tr>
   <tr><th>Website</th><td><a href="https://www.syncraft.at/en/" target="_blank" rel="noopener">https://www.syncraft.at/en/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/syncraft/" target="_blank" rel="noopener">syncraft — 4,581 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/syncraft/" target="_blank" rel="noopener">syncraft</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~50 (0% YoY)</td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>8 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -35,6 +35,11 @@ Syncraft is an Austrian high-tech company based in Schwaz, Tyrol that builds pat
 
 ## History
 
+- **2026-11-03** — news mention: #teamsyncraft #teamsyncraft #syncraft #energydecentral #teamsyncraft | SYNCRAFT ([source](https://www.linkedin.com/feed/update/urn:li:share:7523312669471412224/))
+- **2026-11-02** — news mention: Syncraft: 500 kW elektrisch verkauft. 550 kW geliefert. 600 kW in Sicht.⚡ Und das Ganze unter Tag ,  ([source](https://www.linkedin.com/company/syncraft/#post-c7446c284f02))
+- **2026-10-27** — news mention: #gemeinsam #pyrolyse #syncraft | SYNCRAFT ([source](https://www.linkedin.com/feed/update/urn:li:share:7520748996881965056/))
+- **2026-10-22** — news mention: #syncraft #pflanzenkohle #agrobio | SYNCRAFT ([source](https://www.linkedin.com/feed/update/urn:li:share:7518691176711921664/))
+- **2026-10-17** — news mention: #teamsyncraft #teamsyncraft #karriere #greentech | SYNCRAFT ([source](https://www.linkedin.com/feed/update/urn:li:share:7516501162632826884/))
 - **2026-10-15** — refresh: coresignal
 - **2026-10-15** — refresh: coresignal
 - **2026-10-12** — news mention: Bioenergie Frauenfeld: 🌱 Bioenergie Frauenfeld AG issues first Credits into Isometric registry🌱 We a ([source](https://www.linkedin.com/company/bioenergie-frauenfeld/#post-d3b934415a1f))
@@ -60,11 +65,6 @@ Syncraft is an Austrian high-tech company based in Schwaz, Tyrol that builds pat
 - **2026-06-24** — news mention: #biocharsummit2026 #biochar #carbonremoval #syncraft #reversepowerplant #gänserndorf #networking #to ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473362437627453440/))
 - **2026-06-24** — news mention: #syncraft #biochar #ebc #carbonremoval #kreislaufwirtschaft #energiewende #biokohle | SYNCRAFT ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475467721971974144/))
 - **2026-06-15** — refresh: coresignal
-- **2026-06-15** — refresh: coresignal
-- **2026-06-04** — news mention: #teamsyncraft #teamsyncraft #teamsyncraft #teamsyncraft | SYNCRAFT ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7467960335140950016/))
-- **2026-05-11** — manual employee_count_override → 50 (Coresignal undercounted; manual override per Dirk 2026-05-11.)
-- **2026-05-06** — news mention: #climateweekzurich #bioenergie #carbonremoval #cdr #klimapositiveenergie #resilienteenergieversorgun ([source](https://www.linkedin.com/feed/update/urn:li:share:7457433884553576448/))
-- **2026-05-01** — refresh: screenshot
 
 ---
 

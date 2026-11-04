@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Other/Undisclosed)</td></tr>
   <tr><th>Country</th><td>Italy</td></tr>
   <tr><th>Website</th><td><a href="https://www.carpecarbon.com/" target="_blank" rel="noopener">https://www.carpecarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carpecarbon/" target="_blank" rel="noopener">carpecarbon — 3,544 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carpecarbon/" target="_blank" rel="noopener">carpecarbon</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~16 (+33% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,13 @@ CarpeCarbon is a Turin-based Italian climate-tech startup founded in 2022, posit
 
 ## History
 
+- **2026-11-02** — news mention: CarpeCarbon: 🌍 CarpeCarbon partners with Michelin Italiana to launch its first industrial-scale DAC  ([source](https://www.linkedin.com/company/carpecarbon/#post-420ebc86edbb))
+- **2026-10-30** — news mention: 💫 CDR Momentum, Edition IV
+
+NEP members are at the heart of this month’s carbon removal highlights.
+ ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7521873958280011776/))
+- **2026-10-30** — news mention: CarpeCarbon project — 300 t/yr · dac ([source](https://carpecarbon.com/news-events/carpecarbon-and-michelin-direct-air-capture))
+- **2026-10-29** — news mention: Michelin Italiana To Host CarpeCarbon’s First Industrial-Scale DAC Tech ([source](https://carbonherald.com/michelin-italiana-to-host-carpecarbons-first-industrial-scale-dac-tech/?utm_source=rss&utm_medium=rss&utm_campaign=michelin-italiana-to-host-carpecarbons-first-industrial-scale-dac-tech))
 - **2026-08-28** — news mention: CarpeCarbon: 🚨 The EU just turned Direct Air Capture from a bet into a business case.   The European ([source](https://www.linkedin.com/company/carpecarbon/#post-162f176858cd))
 - **2026-08-15** — refresh: coresignal
 - **2026-07-24** — news mention: CarpeCarbon: 🚨 The EU just turned Direct Air Capture from a bet into a business case.   The European ([source](https://www.linkedin.com/company/carpecarbon/#post-665e97a1cfcd))

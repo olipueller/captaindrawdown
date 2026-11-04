@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://wakefieldbiochar.com/" target="_blank" rel="noopener">https://wakefieldbiochar.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/wakefieldbiochar/" target="_blank" rel="noopener">wakefieldbiochar — 1,718 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/wakefieldbiochar/" target="_blank" rel="noopener">wakefieldbiochar</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~26 (+30% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -34,6 +34,7 @@ Wakefield BioChar (Wakefield Agricultural Carbon LLC) is a US family-owned bioch
 
 ## History
 
+- **2026-11-04** — news mention: Wakefield BioChar: Wakefield BioChar ranks sixth globally on CDR.fyi ’s all-time leaderboard for dur ([source](https://www.linkedin.com/company/wakefieldbiochar/#post-aabd27fbf499))
 - **2026-09-16** — news mention: Carbon Dioxide Removal Market - A Global and Regional Analysis: Focus on Technology Type, Carbon Cre ([source](https://bisresearch.com/industry-report/carbon-dioxide-removal-market.html))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-07-14** — news mention: Wakefield Biochar Facility 4 - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/wakefield-biochar-facility-4/))

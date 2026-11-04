@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enabling Tech</td></tr>
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Website</th><td><a href="https://norlights.com" target="_blank" rel="noopener">https://norlights.com</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/northern-lights-jv/" target="_blank" rel="noopener">northern-lights-jv — 26,954 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/northern-lights-jv/" target="_blank" rel="noopener">northern-lights-jv</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~46 (+17% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ Northern Lights is a joint venture equally owned by Equinor, Shell, and TotalEne
 
 ## History
 
+- **2026-10-29** — news mention: Northern Lights: The European CCS market continues to progress 🇪🇺   Last week, Sweden announced SEK  ([source](https://www.linkedin.com/company/northern-lights-jv/#post-f1f230625716))
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-10-14** — news mention: Northern Lights Signs 200,000-Ton CCS Agreement With Öresundskraft ([source](https://carbonherald.com/northern-lights-signs-200000-ton-ccs-agreement-with-oresundskraft/?utm_source=rss&utm_medium=rss&utm_campaign=northern-lights-signs-200000-ton-ccs-agreement-with-oresundskraft))
 - **2026-10-06** — news mention: Öresundskraft: Sveriges första kommersiella mellanlager för infångad koldioxid etableras i Hallands  ([source](https://www.linkedin.com/company/oresundskraft/#post-759079a3257f))
@@ -60,7 +61,6 @@ Northern Lights is a joint venture equally owned by Equinor, Shell, and TotalEne
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-24** — news mention: #carbonremoval #cdr #northernlights #ccs #beccs #corcs | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7453428210014425088/))
-- **2026-04-24** — news mention: Northern Lights Expands CO2 Shipping Fleet With Third Carrier  https://carbonherald.com/northern-lig ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mk7yeghxky2u))
 
 ---
 

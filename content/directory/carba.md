@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>BiCRS (Other)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://carba.com/" target="_blank" rel="noopener">https://carba.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbainc/" target="_blank" rel="noopener">carbainc — 3,628 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbainc/" target="_blank" rel="noopener">carbainc</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~18 (+38% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric</td></tr>
@@ -44,6 +44,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-01** — news mention: U.S. Bank ↔ Carba — biochar ([source](https://carbonherald.com/u-s-bank-makes-its-first-cdr-investment-backing-carbas-biochar-approach))
 - **2026-10-10** — news mention: Carba: Great news to share for the Carba team! Carba earned the largest allocation in Milkywire's la ([source](https://www.linkedin.com/company/carbainc/#post-2089ebb73691))
 - **2026-10-01** — news mention: Milkywire: 🌍 Milkywire has completed eight Salesforce-backed pre-purchases, securing 3,661 tonnes of ([source](https://www.linkedin.com/company/milkywire/#post-08426181283f))
 - **2026-09-12** — news mention: As I understand it, Carba sold the biochar based CORCs to U.S. Bank for less than $100/tonne of CO2. ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mvdarhk2j22n))

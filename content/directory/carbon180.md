@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>DAC, Afforestation, Enhanced Weathering</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://carbon180.org" target="_blank" rel="noopener">https://carbon180.org</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/the-center-for-carbon-removal/" target="_blank" rel="noopener">the-center-for-carbon-removal — 13,777 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/the-center-for-carbon-removal/" target="_blank" rel="noopener">the-center-for-carbon-removal</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~34</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ Carbon180 is a Washington, D.C.-based nonprofit, nonpartisan climate NGO founded
 
 ## History
 
+- **2026-10-31** — news mention: Carbon180: mCDR research just had a big win! Last week, parties to the London Convention and the Lon ([source](https://www.linkedin.com/company/the-center-for-carbon-removal/#post-5650dbe3bc76))
+- **2026-10-21** — news mention: Carbon180 Presents New Roadmap For Scaling Removals On Agricultural Land In The U.S. ([source](https://carbonherald.com/carbon180-presents-new-roadmap-for-scaling-removals-on-agricultural-land-in-the-u-s/?utm_source=rss&utm_medium=rss&utm_campaign=carbon180-presents-new-roadmap-for-scaling-removals-on-agricultural-land-in-the-u-s))
 - **2026-10-15** — refresh: screenshot
 - **2026-10-01** — news mention: The National Science Foundation (NSF) asked for public input on its ocean observing system, and we s ([source](https://www.linkedin.com/feed/update/urn:li:share:7511147735929200640/))
 - **2026-08-05** — news mention: Congress reintroduces federal purchasing bill | Carbon180 ([source](https://carbon180.org/blog/congress-reintroduces-federal-purchasing-bill/))

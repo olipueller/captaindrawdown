@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>BiCRS (Other)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://3degreesinc.com/" target="_blank" rel="noopener">https://3degreesinc.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/3degrees/" target="_blank" rel="noopener">3degrees — 25,140 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/3degrees/" target="_blank" rel="noopener">3degrees</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~308 (-8% YoY)</td></tr>
+  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
   <tr><th>Registry-verified</th><td>Climate Action Reserve</td></tr>
 </table>
@@ -40,6 +40,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-24** — news mention: CarbiCrete: CarbiCrete is proud to share that our carbon removals are some of the earliest verified  ([source](https://www.linkedin.com/company/carbicrete/#post-4559c307dc65))
 - **2026-10-15** — refresh: screenshot
 - **2026-09-13** — news mention: Onnu: Another household name is backing biochar 🍃  PayPal is continuing to build a diversified carbo ([source](https://www.linkedin.com/company/onnuhq/#post-cfca6d15d35a))
 - **2026-08-19** — news mention: 3Degrees: Tackling hard-to-abate upstream emissions requires a new approach to value chain decarboni ([source](https://www.linkedin.com/company/3degrees/#post-532adc5273d7))
@@ -69,7 +70,6 @@ Independently verified by carbon-credit registries:
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://3degreesinc.com/what-we-do/implement-your-strategy/carbon-credits/carbon-removal-suite/))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://3degreesinc.com/what-we-do/implement-your-strategy/carbon-credits/carbon-removal-suite/))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=buyer_excluded liveliness=🟢 Active ([source](https://3degreesinc.com/what-we-do/implement-your-strategy/carbon-credits/carbon-removal-suite/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://nordbex.com/" target="_blank" rel="noopener">https://nordbex.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nordbex/" target="_blank" rel="noopener">nordbex — 1,295 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nordbex/" target="_blank" rel="noopener">nordbex</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~9 (+12% YoY)</td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ Nordbex AB is a Swedish climate-tech company developing BECCUS plants; its flags
 
 ## History
 
+- **2026-10-28** — news mention: Nordbex: Historisk dag och historiskt beslut! 30/9 fattade Öresundskrafts styrelse Final Investment  ([source](https://www.linkedin.com/company/nordbex/#post-ece4373e4f14))
 - **2026-09-21** — news mention: Nordbex: I was genuinely moved when we arrived in Esbjerg and saw the CO₂ storage vessel Carbon Dest ([source](https://www.linkedin.com/company/nordbex/#post-1a908af128f3))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot

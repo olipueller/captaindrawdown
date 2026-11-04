@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Peru</td></tr>
   <tr><th>Website</th><td><a href="https://inkannegro.com/" target="_blank" rel="noopener">https://inkannegro.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/inkan-negro/" target="_blank" rel="noopener">inkan-negro — 51 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/inkan-negro/" target="_blank" rel="noopener">inkan-negro</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2027-09-30</small></td></tr>
-  <tr><th>Employees</th><td>~4 (+300% YoY)</td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2027-09-30)</small></td></tr>
 </table>

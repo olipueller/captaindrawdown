@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://www.oresundskraft.se/" target="_blank" rel="noopener">https://www.oresundskraft.se/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/oresundskraft/" target="_blank" rel="noopener">oresundskraft — 11,517 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/oresundskraft/" target="_blank" rel="noopener">oresundskraft</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~437 (+10% YoY)</td></tr>
+  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -32,6 +32,9 @@ liveliness: "🟢 Active"
 
 ## History
 
+- **2026-10-29** — news mention: Northern Lights: The European CCS market continues to progress 🇪🇺   Last week, Sweden announced SEK  ([source](https://www.linkedin.com/company/northern-lights-jv/#post-f1f230625716))
+- **2026-10-28** — news mention: Nordbex: Historisk dag och historiskt beslut! 30/9 fattade Öresundskrafts styrelse Final Investment  ([source](https://www.linkedin.com/company/nordbex/#post-ece4373e4f14))
+- **2026-10-17** — news mention: Sydskånes avfallsaktiebolag (SYSAV): Vilken vecka för SkyZero! Nu tilldelas Sysav 6,3 miljarder kron ([source](https://www.linkedin.com/company/sysav/#post-33e87281b6cd))
 - **2026-10-14** — news mention: Northern Lights Signs 200,000-Ton CCS Agreement With Öresundskraft ([source](https://carbonherald.com/northern-lights-signs-200000-ton-ccs-agreement-with-oresundskraft/?utm_source=rss&utm_medium=rss&utm_campaign=northern-lights-signs-200000-ton-ccs-agreement-with-oresundskraft))
 - **2026-10-08** — news mention: Öresundskraft AB: Sveriges första kommersiella mellanlager för infångad koldioxid etableras i Hallan ([source](https://www.linkedin.com/company/oresundskraft-ab/#post-6bc74ed0ea05))
 - **2026-10-06** — news mention: Öresundskraft: Sveriges första kommersiella mellanlager för infångad koldioxid etableras i Hallands  ([source](https://www.linkedin.com/company/oresundskraft/#post-759079a3257f))

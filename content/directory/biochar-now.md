@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://biocharnow.com/" target="_blank" rel="noopener">https://biocharnow.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biochar-now-llc/" target="_blank" rel="noopener">biochar-now-llc — 3,387 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biochar-now-llc/" target="_blank" rel="noopener">biochar-now-llc</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~16 (0% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ Biochar Now is a Berthoud, Colorado biochar producer founded in 2011 that conver
 
 ## History
 
+- **2026-10-24** — news mention: Microsoft, the buyer of the most CO2 removals so far, has published a paper reflecting on the lesson ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mymzqyrfbk2q))
 - **2026-09-22** — news mention: Carbon Char Store: We are excited to share that Brian Reynolds , has joined subcommittee at the ASTM ([source](https://www.linkedin.com/company/carbon-char-store/#post-e62accc79aad))
 - **2026-09-17** — news mention: Placer County approves Cabin Creek biomass and biochar facility - BioEnergy Times ([source](https://bioenergytimes.com/placer-county-approves-cabin-creek-biomass-and-biochar-facility/))
 - **2026-08-15** — refresh: coresignal, liveliness

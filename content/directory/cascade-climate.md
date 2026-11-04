@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>CDR Platform/Marketplace</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://cascadeclimate.org/" target="_blank" rel="noopener">https://cascadeclimate.org/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cascade-climate/" target="_blank" rel="noopener">cascade-climate — 8,153 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cascade-climate/" target="_blank" rel="noopener">cascade-climate</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~25 (+19% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>3 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -35,6 +35,8 @@ Cascade Climate is a philanthropically-backed US nonprofit (launched June 2023) 
 
 ## History
 
+- **2026-11-01** — news mention: Cascade Climate: We’re launching an open call for research funding for carbon removals and superpoll ([source](https://www.linkedin.com/company/cascade-climate/#post-8207a4d791d9))
+- **2026-10-26** — news mention: The effects of silicate mineral dissolution on seagrass functioning: Assessing olivine-based approac ([source](https://cdrxiv.org/preprint/568))
 - **2026-10-13** — news mention: Terrasols Solutions Private Limited: Data transparency is growing in ERW — and that's worth celebrat ([source](https://www.linkedin.com/company/greenlife-sustainability/#post-79f5f4af12aa))
 - **2026-10-02** — news mention: Cascade Climate: Weâre launching an open call for research funding for carbon removals and superpo ([source](https://www.linkedin.com/company/cascade-climate/#post-906c93bb7025))
 - **2026-09-15** — refresh: coresignal, screenshot

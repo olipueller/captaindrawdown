@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Afforestation/Reforestation</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.treeconomy.co/" target="_blank" rel="noopener">https://www.treeconomy.co/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/treeconomyltd/" target="_blank" rel="noopener">treeconomyltd — 8,543 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/treeconomyltd/" target="_blank" rel="noopener">treeconomyltd</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~19 (-17% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>3 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -35,6 +35,7 @@ Treeconomy is a London-based earth-tech company providing MRV and project-enable
 
 ## History
 
+- **2026-10-17** — news mention: Treeconomy: 🌳 Today we’re announcing a new contract with the European Space Agency. Project GAIA-M i ([source](https://www.linkedin.com/company/treeconomyltd/#post-d79ce7d68800))
 - **2026-10-15** — refresh: screenshot
 - **2026-08-27** — news mention: Treeconomy: 🎉 Today, we are sharing a major commercial milestone cementing a clear industry shift to ([source](https://www.linkedin.com/company/treeconomyltd/#post-df7bcd3e7c3a))
 - **2026-07-29** — news mention: Treeconomy: As #NatureTechWeek puts the spotlight on closing the nature financing gap, we’re sharing ([source](https://www.linkedin.com/company/treeconomyltd/#post-199bd42e1f5d))

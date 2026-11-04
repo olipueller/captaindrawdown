@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.origencarbon.com/" target="_blank" rel="noopener">https://www.origencarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/origen-carbon-solution/" target="_blank" rel="noopener">origen-carbon-solution — 4,179 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/origen-carbon-solution/" target="_blank" rel="noopener">origen-carbon-solution</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~20 (0% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ Origen (Origen Power Limited) is a UK/US climate-technology company headquartere
 
 ## History
 
+- **2026-10-21** — news mention: Origen: We’re excited to share that Origen has been selected for Colorado’s Industrial Tax Credit Of ([source](https://www.linkedin.com/company/origen-carbon-solution/#post-f1dc2c413e7f))
 - **2026-09-15** — news mention: Origen: Weâre excited to share that Origen has been selected for Coloradoâs Industrial Tax Credi ([source](https://www.linkedin.com/company/origen-carbon-solution/#post-15260acb1221))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-07-23** — news mention: Origen: We’re excited to share that Origen has been selected for Colorado’s Industrial Tax Credit Of ([source](https://www.linkedin.com/company/origen-power/#post-641ae7fdc269))

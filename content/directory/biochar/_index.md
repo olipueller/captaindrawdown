@@ -8,7 +8,7 @@ url: "/directory/biochar/"
 
 # Biochar — 377 Companies Tracked
 
-**Market pulse for Biochar (updated 2026-10-15).**
+**Market pulse for Biochar (updated 2026-11-04).**
 
 <div class="directory-stats">
   <div class="stat-box"><span class="num">377</span><span class="label">Companies</span></div>
@@ -19,22 +19,14 @@ url: "/directory/biochar/"
 </div>
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">10,635</span><span class="label">Total employees (lower bound)</span></div>
-  <div class="stat-box"><span class="num">327/377</span><span class="label">Companies with headcount data</span></div>
+  <div class="stat-box"><span class="num">160</span><span class="label">Micro (under 10)</span></div>
+  <div class="stat-box"><span class="num">132</span><span class="label">Small (10 to 49)</span></div>
+  <div class="stat-box"><span class="num">34</span><span class="label">Medium (50 to 249)</span></div>
+  <div class="stat-box"><span class="num">18</span><span class="label">Large (250+)</span></div>
+  <div class="stat-box"><span class="num">33</span><span class="label">No size data</span></div>
 </div>
 
-## Largest companies
-
-- [Usinas Itamarati](/directory/usinas-itamarati/) — 1423 employees
-- [Aquafin](/directory/aquafin/) — 1026 employees
-- [Industrielle Werke Basel](/directory/industrielle-werke-basel/) — 803 employees
-- [Telge Återvinning](/directory/telge-återvinning/) — 673 employees
-- [Energie 360°](/directory/energie-360/) — 371 employees
-- [Varaha](/directory/varaha/) — 368 employees
-- [Empacar](/directory/empacar/) — 297 employees
-- [SCG Cement](/directory/scg-cement/) — 261 employees
-- [NetZero](/directory/netzero/) — 194 employees
-- [Südwestdeutsche Salzwerke](/directory/südwestdeutsche-salzwerke/) — 172 employees
+Company size classes follow the EU SME staff thresholds (micro under 10, small 10 to 49, medium 50 to 249, large 250 and more), derived from each company's LinkedIn size band and headcount signals. Exact headcounts are not published.
 
 ## All Biochar companies
 

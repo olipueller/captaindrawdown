@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>CDR Platform/Marketplace</td></tr>
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://www.klimate.co/" target="_blank" rel="noopener">https://www.klimate.co/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/klimate-co/" target="_blank" rel="noopener">klimate-co — 14,058 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/klimate-co/" target="_blank" rel="noopener">klimate-co</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~24 (-17% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>4 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -35,6 +35,7 @@ Klimate is a Copenhagen-based carbon asset management platform founded in 2020 t
 
 ## History
 
+- **2026-11-02** — news mention: Evaneos ↔ Klimate — biochar ([source](https://carbonherald.com/evaneos-to-support-a-portfolio-of-high-quality-cdr-via-klimate))
 - **2026-10-05** — news mention: For example, Alphabet, Meta, Amazon and Microsoft went from 14,200 permanent-removal carbon credits  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mx532gf3mc2a))
 - **2026-10-05** — news mention: Eneco Expands Its Partnership With Klimate To Explore Carbon Removals ([source](https://carbonherald.com/eneco-expands-its-partnership-with-klimate-to-explore-carbon-removals/?utm_source=rss&utm_medium=rss&utm_campaign=eneco-expands-its-partnership-with-klimate-to-explore-carbon-removals))
 - **2026-09-17** — news mention: Klimate: We are excited to announce that Evaneos is supporting carbon removal through Klimate. 🔔 Eva ([source](https://www.linkedin.com/company/klimate-co/#post-575f16e9763a))

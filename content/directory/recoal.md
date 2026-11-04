@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>BiCRS (Other)</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://recoal.net/" target="_blank" rel="noopener">https://recoal.net/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/recoal-net/" target="_blank" rel="noopener">recoal-net — 2,382 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/recoal-net/" target="_blank" rel="noopener">recoal-net</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~9 (+50% YoY)</td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,11 @@ Recoal AG is a Zurich-based CDR startup founded in 2023 that converts wet-waste 
 
 ## History
 
+- **2026-10-30** — news mention: 💫 CDR Momentum, Edition IV
+
+NEP members are at the heart of this month’s carbon removal highlights.
+ ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7521873958280011776/))
+- **2026-10-19** — news mention: Recoal: REACT-𝟮 has arrived! REACT, short for Recoal Advanced Carbonization Technology, is the platf ([source](https://www.linkedin.com/company/recoal-net/#post-587cb3373594))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

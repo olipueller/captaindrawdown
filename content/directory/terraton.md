@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>BiCRS (Other)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://terraton.ai/" target="_blank" rel="noopener">https://terraton.ai/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terraton/" target="_blank" rel="noopener">terraton — 2,607 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terraton/" target="_blank" rel="noopener">terraton</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~17 (+240% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric</td></tr>
 </table>
@@ -40,6 +40,18 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-03** — news mention: Terraton: Big news: Isometric has issued Terraton’s first carbon removal credits, from our facility  ([source](https://www.linkedin.com/company/terraton/#post-7f7eb454f249))
+- **2026-10-26** — news mention: Offstream: Congratulations to Terraton and EcoFix Kenya Ltd (EFK) on their first carbon removal cred ([source](https://www.linkedin.com/company/useoffstream/#post-208cf8b9f2c3))
+- **2026-10-23** — news mention: Terraton Issues First Verified Biochar Carbon Removal Credits And Signs Agreements Covering Up To 97 ([source](https://www.ccarbon.info/news/terraton-issues-first-verified-biochar-carbon-removal-credits-and-signs-agreements-covering-up-to-97240-tonnes/))
+- **2026-10-23** — news mention: AgriFood Signals: Danone turns yogurt into renewable energy, Bison Ventures lands $160m, biochar pro ([source](https://agfundernews.com/agrifood-signals-danone-turns-yogurt-into-renewable-energy-bison-ventures-lands-160m-biochar-projects))
+- **2026-10-22** — news mention: Terraton’s First Biochar Credits Boost Carbon Removal Expansion Across Africa • Carbon Credits ([source](https://carboncredits.com/terratons-first-biochar-credits-boost-carbon-removal-expansion-across-africa/))
+- **2026-10-22** — news mention: Climate Impact Partners: Big news: Isometric has issued Terraton’s first carbon removal credits, fro ([source](https://www.linkedin.com/company/climate-impact-partners/#post-1aafc5e850aa))
+- **2026-10-21** — news mention: Terraton Issues First Carbon Removal Credits from Agricultural Waste, Signs Agreements with Climewor ([source](https://www.usatoday.com/press-release/story/51596/terraton-issues-first-carbon-removal-credits-from-agricultural-waste-signs-agreements-with-climeworks-solutions-climate-impact-partners-carbonfuture-cur8-and-terraset/))
+- **2026-10-20** — news mention: Terraton Issues First Carbon Removal Credits from Agricultural Waste, Signs Agreements with Climewor ([source](https://www.voiceofalexandria.com/news/national_business_news/terraton-issues-first-carbon-removal-credits-from-agricultural-waste-signs-agreements-with-climeworks-solutions-climate/article_d96a7803-8de9-5177-9ccd-3379327b6784.html))
+- **2026-10-20** — news mention: Terraton Issues First Carbon Removal Credits from Agricultural Waste, Signs Agreements with Climewor ([source](https://www.finanzwire.com/press-release/terraton-issues-first-carbon-removal-credits-from-agricultural-waste-signs-agreements-with-climeworks-solutions-climate-impact-partners-carbonfuture-cur8-and-terraset-PEWExVWMRQY))
+- **2026-10-20** — news mention: Terraton Issues First Carbon Removal Credits from Agricultural Waste, Signs Agreements with Climewor ([source](https://lifestyle.middletownlifemagazine.com/story/771038/terraton-issues-first-carbon-removal-credits-from-agricultural-waste-signs-agreements-with-climeworks-solutions-climate-impact-partners-carbonfuture-cur8-and-terraset/))
+- **2026-10-20** — news mention: EXCLUSIVE: Terraton Signs Offtakes With Climeworks And Climate Impact Partners ([source](https://carbonherald.com/exclusive-terraton-signs-offtakes-with-climeworks-climate-impact-partners/?utm_source=rss&utm_medium=rss&utm_campaign=exclusive-terraton-signs-offtakes-with-climeworks-climate-impact-partners))
+- **2026-10-20** — news mention: EXCLUSIVE: Terraton Signs Offtakes With Climeworks, Coca-Cola, And Climate Impact Partners ([source](https://carbonherald.com/exclusive-terraton-signs-offtakes-with-climeworks-coca-cola-and-climate-impact-partners/?utm_source=rss&utm_medium=rss&utm_campaign=exclusive-terraton-signs-offtakes-with-climeworks-coca-cola-and-climate-impact-partners))
 - **2026-10-04** — news mention: Terraton: Our second biochar facility, with Tupande in Sagana, Kenya, is taking shape. Equipment ins ([source](https://www.linkedin.com/company/terraton/#post-60852b5a1f0c))
 - **2026-09-30** — news mention: Terraton is a platform to launch and operate Carbon Dioxide Removal businesses focusing on biochar f ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mwqp2khir22a))
 - **2026-09-15** — refresh: coresignal, screenshot
@@ -58,13 +70,6 @@ Independently verified by carbon-credit registries:
 - **2026-04-19** — merged 1 duplicate(s): Terraton Industrial Inc.
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://terraton.ai/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://terraton.ai ([source](https://www.cdr.fyi/supplier/terraton-industrial))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/terraton-industrial))
-- **** — merged duplicate: Terraton Industrial Inc. (slug=terraton-industrial-inc)
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://terraton.ai/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://terraton.ai/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

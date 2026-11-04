@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.chartechnologies.com" target="_blank" rel="noopener">https://www.chartechnologies.com</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/char-technologies/" target="_blank" rel="noopener">char-technologies — 4,859 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/char-technologies/" target="_blank" rel="noopener">char-technologies</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~31 (+3% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ CHAR Technologies Ltd. (TSXV:YES) is a Toronto-based cleantech company operating
 
 ## History
 
+- **2026-10-23** — news mention: CHAR Technologies wins price target raise from this analyst - Cantech Letter ([source](https://www.cantechletter.com/2026/10/char-technologies-wins-price-target-raise-from-this-analyst/))
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-10-10** — news mention: CHAR Technologies: CHAR Technologies completes Phase 1 at its Thorold Renewable Energy Facility. Com ([source](https://www.linkedin.com/company/char-technologies/#post-ac749d0acc2d))
 - **2026-09-07** — news mention: Char Technologies Advances Pyrolysis Processing Facilities Across Canada and the United States &#821 ([source](https://biochartoday.com/news/char-technologies-advances-pyrolysis-processing-facilities-across-canada-and-the-united-states/?utm_source=bluesky&utm_medium=jetpack_social))

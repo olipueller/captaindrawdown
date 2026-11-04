@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Mineralization (Other)</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://oco.co.uk/" target="_blank" rel="noopener">https://oco.co.uk/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/o-c-o-technology-ltd/" target="_blank" rel="noopener">o-c-o-technology-ltd — 3,354 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/o-c-o-technology-ltd/" target="_blank" rel="noopener">o-c-o-technology-ltd</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2028-09-30</small></td></tr>
-  <tr><th>Employees</th><td>~66</td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2028-09-30)</small></td></tr>
 </table>
@@ -44,6 +44,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-02** — news mention: O.C.O Technology: This week at the Waste Expo Australia in Melbourne, O.C.O and City Circle Group un ([source](https://www.linkedin.com/company/o-c-o-technology-ltd/#post-2a5b7b56df06))
 - **2026-09-19** — news mention: Leeds Production Facility - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/leeds-production-facility/))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-07** — news mention: O.C.O Technology: What if industrial waste and captured CO₂ could become a valuable resource for the ([source](https://www.linkedin.com/company/o-c-o-technology-ltd/#post-3d55eb14ffe5))

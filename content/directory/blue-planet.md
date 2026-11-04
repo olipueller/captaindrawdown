@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Mineralization (Other)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.blueplanetsystems.com/" target="_blank" rel="noopener">https://www.blueplanetsystems.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/blueplanetsystems/" target="_blank" rel="noopener">blueplanetsystems — 3,726 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/blueplanetsystems/" target="_blank" rel="noopener">blueplanetsystems</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~16 (+5% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ Blue Planet Systems is a Silicon Valley-based carbon capture and mineralization 
 
 ## History
 
+- **2026-11-02** — news mention: Blue Planet Systems: Blue Planet Systems Corporation, a leader in carbon capture and utilization tec ([source](https://www.linkedin.com/company/blueplanet-ltd/#post-fccf424abe30))
+- **2026-10-27** — news mention: Carbon Capture Market Trends And Forecast Analysis Reveal Strong Long-Term Potential ([source](https://www.einpresswire.com/article/951776681/carbon-capture-market-trends-and-forecast-analysis-reveal-strong-long-term-potential))
 - **2026-10-10** — news mention: Blue Planet: Blue Planet Systems Corporation, a leader in carbon capture and utilization technology, ([source](https://www.linkedin.com/company/blueplanetsystems/#post-6cf3bbf0cee5))
 - **2026-09-22** — news mention: CO2 Mineralization Reactor Market 2026: Key Players, Decarbonization Trends and Business Opportuniti ([source](https://www.openpr.com/news/4639901/co2-mineralization-reactor-market-2026-key-players))
 - **2026-09-19** — news mention: Blue Planet Systems: Blue Planet Systems Corporation, a leader in carbon capture and utilization tec ([source](https://www.linkedin.com/company/blueplanet-ltd/#post-7e7f4ea7b09b))
@@ -58,7 +60,6 @@ Blue Planet Systems is a Silicon Valley-based carbon capture and mineralization 
 - **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://tracxn.com/d/companies/blueplanet/__-K2pMRjcwjrAqShI238LqDhqH0MSuT-OG0BHmkr5fMQ))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.blueplanetsystems.com/))
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://www.blueplanetsystems.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

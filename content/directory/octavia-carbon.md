@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://www.octaviacarbon.com/" target="_blank" rel="noopener">https://www.octaviacarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/octavia-carbon/" target="_blank" rel="noopener">octavia-carbon — 17,415 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/octavia-carbon/" target="_blank" rel="noopener">octavia-carbon</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~71</td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -36,6 +36,9 @@ Octavia Carbon is a Nairobi-based direct air capture startup founded in 2022 by 
 
 ## History
 
+- **2026-10-29** — news mention: 🎉 Exciting news: we have completed Phase 1 of Project Hummingbird! Meet Carbon Nest, the plant that  ([source](https://www.linkedin.com/feed/update/urn:li:share:7521526931066998784/))
+- **2026-10-26** — news mention: Octavia Carbon: 🇰🇪 A strong carbon market is built on trust, and trust is built on clear rules.   🎉  ([source](https://www.linkedin.com/company/octavia-carbon/#post-c98be21166bd))
+- **2026-10-23** — news mention: 🇩🇪 We were proud to be in Berlin for the Leaders Collaboration Forum 2026, where RESPOND  Accelerato ([source](https://www.linkedin.com/feed/update/urn:li:share:7518991195788963840/))
 - **2026-10-15** — refresh: coresignal
 - **2026-10-15** — refresh: coresignal
 - **2026-10-10** — news mention: Flux: Direct Air Capture (DAC) wins big for 🇰🇪 Kenya!! 📢 Tencent has announced the winners of its ne ([source](https://www.linkedin.com/company/flux-carbon/#post-275de1ef31e9))
@@ -71,9 +74,6 @@ Octavia Carbon is a Nairobi-based direct air capture startup founded in 2022 by 
 - **2026-08-03** — news mention: Octavia Carbon: ð We are proud to have unveiled Africa's first real-world green concrete deployme ([source](https://www.linkedin.com/company/octavia-carbon/#post-f9410da87b28))
 - **2026-08-03** — news mention: Flux: 🏆 From Lab to Scale.....CarbonX 2.0 Winners of $30M are in. 🌍 We at CDR.fyi are thrilled to tr ([source](https://www.linkedin.com/company/flux-earth/#post-04a10797fc3a))
 - **2026-07-31** — news mention: ⚡ Great engineering rarely announces itself. Meet Nathalie Wati, one of our Process Engineers, whose ([source](https://www.linkedin.com/feed/update/urn:li:share:7488551750455701505/))
-- **2026-07-31** — news mention: PyroCCS: Direct Air Capture (DAC) wins big for 🇰🇪 Kenya!! 📢 Tencent has announced the winners of its ([source](https://www.linkedin.com/company/pyroccs/#post-8e9257525ee9))
-- **2026-07-31** — news mention: PyroCCS: 📣 Happy news from our alumni community! During London Climate Action Week, four remove alum ([source](https://www.linkedin.com/company/pyroccs/#post-1fe05f862376))
-- **2026-07-27** — news mention: ZEN Carbon: The Office of the Special Envoy for Climate Change congratulates Zen Carbon and Octavia  ([source](https://www.linkedin.com/company/clitruct/#post-732e10060924))
 
 ---
 

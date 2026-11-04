@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Biomass Carbon Removal</td></tr>
   <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Website</th><td><a href="https://www.circonomy.co/" target="_blank" rel="noopener">https://www.circonomy.co/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/circonomy/" target="_blank" rel="noopener">circonomy — 3,529 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/circonomy/" target="_blank" rel="noopener">circonomy</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~5 (+150% YoY)</td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>3 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -35,6 +35,7 @@ Circonomy is a Singapore-based climate tech startup specialized in carbon remova
 
 ## History
 
+- **2026-10-26** — news mention: Circonomy: Introducing the first biochar standard with real-time digital monitoring. Today, Carbon S ([source](https://www.linkedin.com/company/circonomy/#post-59df8384859d))
 - **2026-10-15** — refresh: screenshot
 - **2026-08-21** — news mention: Circonomy Pte. Ltd.: The Kongolo Biochar Project in Kenya is officially certified. We built this wit ([source](https://www.linkedin.com/company/circonomy/#post-6ee9d68c358b))
 - **2026-08-14** — news mention: Circonomy: The Kongolo Biochar Project in Kenya is officially certified. We built this with our part ([source](https://www.linkedin.com/company/circonomy/#post-d87258ea63c4))

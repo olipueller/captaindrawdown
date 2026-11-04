@@ -13,9 +13,9 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://appliedgaia.com/" target="_blank" rel="noopener">https://appliedgaia.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/appliedgaia-corporation/" target="_blank" rel="noopener">appliedgaia-corporation — 249 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/appliedgaia-corporation/" target="_blank" rel="noopener">appliedgaia-corporation</a></td></tr>
   <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
-  <tr><th>Employees</th><td>~30 (0% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ Applied Gaia Corporation is a Houston, Texas-based pyrolysis technology manufact
 
 ## History
 
+- **2026-11-02** — news mention: Applied Gaia: Biochar is a shovel-ready climate solution, but regulatory frameworks were built for y ([source](https://www.linkedin.com/company/appliedgaia-corporation/#post-b467342fc1b5))
 - **2026-08-15** — refresh: coresignal
 - **2026-07-15** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://greentownlabs.com/members/applied-gaia/))
 - **2026-05-01** — refresh: screenshot

@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>BiCRS (Other)</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonsate.com/" target="_blank" rel="noopener">https://www.carbonsate.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonsate/" target="_blank" rel="noopener">carbonsate — 2,425 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonsate/" target="_blank" rel="noopener">carbonsate</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2029-12-31</small></td></tr>
-  <tr><th>Employees</th><td>~6 (+100% YoY)</td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2029-12-31)</small></td></tr>
@@ -43,6 +43,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-22** — news mention: Last Friday, we marked the opening of our third biomass storage chamber in Namibia, joined by Hon. J ([source](https://www.linkedin.com/feed/update/urn:li:share:7518665500814422016/))
 - **2026-10-15** — refresh: coresignal
 - **2026-10-15** — refresh: coresignal
 - **2026-09-28** — news mention: A lot can happen in 3 years.
@@ -77,7 +78,6 @@ Carbons ([source](https://www.linkedin.com/feed/update/urn:li:share:749502033328
 - **2026-07-15** — refresh: coresignal
 - **2026-06-24** — news mention: #vivatech #carbonremoval #climatetech #innovation | Carbonsate ([source](https://www.linkedin.com/feed/update/urn:li:share:7474808390699909121/))
 - **2026-06-24** — news mention: #gitexeurope #climatetech #carbonremoval #innovation | Carbonsate ([source](https://www.linkedin.com/feed/update/urn:li:share:7474819543136362496/))
-- **2026-06-15** — refresh: coresignal
 - **2026-06-15** — refresh: coresignal
 
 ---

@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Enabling Tech</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://www.milkywire.com" target="_blank" rel="noopener">https://www.milkywire.com</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/milkywire/" target="_blank" rel="noopener">milkywire — 11,062 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/milkywire/" target="_blank" rel="noopener">milkywire</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~26 (-10% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -29,6 +29,9 @@ Stockholm-based Milkywire is an impact platform that channels corporate funding 
 
 ## History
 
+- **2026-11-02** — news mention: Pronoe: ### BREAKING NEWS ### PRONOE is thrilled to announce the signing of a catalytic, Salesforce  ([source](https://www.linkedin.com/company/pronoe-earth/#post-83ad5055f2a2))
+- **2026-11-01** — news mention: Releaf Earth: Congratulations to Releaf Earth (YC W19) , who has delivered their first carbon remova ([source](https://www.linkedin.com/company/releaf-earth/#post-a911bfa60a27))
+- **2026-10-26** — news mention: Yama: A photo in front of Salesforce Tower for a carbon removal deal backed by Salesforce! YAMA has  ([source](https://www.linkedin.com/company/yamacarbon/#post-1fcdfac4c30b))
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-10-10** — news mention: Carba: Great news to share for the Carba team! Carba earned the largest allocation in Milkywire's la ([source](https://www.linkedin.com/company/carbainc/#post-2089ebb73691))
 - **2026-10-09** — news mention: Cowboy Clean Fuels Sells First CDR Credits | iGrowNews ([source](https://igrownews.com/cowboy-clean-fuels-latest-news/))
@@ -56,9 +59,6 @@ Stockholm-based Milkywire is an impact platform that channels corporate funding 
 - **2026-08-12** — news mention: Milkywire: Water scarcity is quietly emptying mountain villages. As glaciers retreat, the meltwater  ([source](https://www.linkedin.com/company/milkywire/#post-49b44c895e49))
 - **2026-07-26** — news mention: Karbonetiq: At Karbonetiq, we accelerate natural mineralization to deliver carbon removal that lasts ([source](https://www.linkedin.com/company/karbonetiq-inc/#post-fafc740674fd))
 - **2026-07-25** — news mention: Kairos Carbon: We are very proud to announce Milkywire has completed Salesforce -backed pre-purchase ([source](https://www.linkedin.com/company/kairos-carbon/#post-474172222e8f))
-- **2026-07-22** — news mention: Carbon Business Council: ð£ Applications are open for remove 's first Latin America CDR Accelerato ([source](https://www.linkedin.com/company/carbonbusinesscouncil/#post-d7aec4aa9614))
-- **2026-07-22** — news mention: CDR.fyi: 📣 Applications are open for remove's LATAM CDR Accelerator 🌎 remove has opened applications ([source](https://www.linkedin.com/company/cdr-fyi/#post-db5481b9ccb8))
-- **2026-06-04** — news mention: Milkywire | Build the world your net zero targets assumes ([source](https://milkywire.com/build-the-world-your-net-zero-targets-assumes))
 
 ---
 

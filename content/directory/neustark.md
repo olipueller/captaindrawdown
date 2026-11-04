@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Mineralization (Other)</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.neustark.com" target="_blank" rel="noopener">https://www.neustark.com</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/neustark/" target="_blank" rel="noopener">neustark — 29,780 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/neustark/" target="_blank" rel="noopener">neustark</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~30 (-32% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -34,6 +34,7 @@ Neustark is a Swiss climate-tech company founded in 2019 (ETH Zurich spin-off), 
 
 ## History
 
+- **2026-10-24** — news mention: CDRjobs: 👀Mineralization had a pretty good week last week Frontier buyers signed an $11.7 million de ([source](https://www.linkedin.com/company/cdrjobs/#post-fa41c9f39f1d))
 - **2026-09-29** — news mention: Nicht das Geld 💰, ... nicht die Emissionsrechte 📜, ... nicht einmal die CO2-Tonnen 😶‍🌫️. (1/11) ([source](https://bsky.app/profile/tiefenbacherin.bsky.social/post/3mwnf72m4mc2p))
 - **2026-09-16** — news mention: Carbon Dioxide Removal Market - A Global and Regional Analysis: Focus on Technology Type, Carbon Cre ([source](https://bisresearch.com/industry-report/carbon-dioxide-removal-market.html))
 - **2026-09-15** — refresh: coresignal, screenshot

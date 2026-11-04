@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Other/Undisclosed)</td></tr>
   <tr><th>Country</th><td>South Korea</td></tr>
   <tr><th>Website</th><td><a href="https://www.lowcarbon.co.kr/en/" target="_blank" rel="noopener">https://www.lowcarbon.co.kr/en/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/%EB%A1%9C%EC%9A%B0%EC%B9%B4%EB%B3%B8/" target="_blank" rel="noopener">%EB%A1%9C%EC%9A%B0%EC%B9%B4%EB%B3%B8 — 257 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/%EB%A1%9C%EC%9A%B0%EC%B9%B4%EB%B3%B8/" target="_blank" rel="noopener">%EB%A1%9C%EC%9A%B0%EC%B9%B4%EB%B3%B8</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~125 (-20% YoY)</td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 

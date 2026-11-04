@@ -8,7 +8,7 @@ url: "/directory/ocean-cdr/"
 
 # Ocean CDR — 42 Companies Tracked
 
-**Market pulse for Ocean CDR (updated 2026-10-15).**
+**Market pulse for Ocean CDR (updated 2026-11-04).**
 
 <div class="directory-stats">
   <div class="stat-box"><span class="num">42</span><span class="label">Companies</span></div>
@@ -19,22 +19,14 @@ url: "/directory/ocean-cdr/"
 </div>
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">588</span><span class="label">Total employees (lower bound)</span></div>
-  <div class="stat-box"><span class="num">40/42</span><span class="label">Companies with headcount data</span></div>
+  <div class="stat-box"><span class="num">18</span><span class="label">Micro (under 10)</span></div>
+  <div class="stat-box"><span class="num">21</span><span class="label">Small (10 to 49)</span></div>
+  <div class="stat-box"><span class="num">2</span><span class="label">Medium (50 to 249)</span></div>
+  <div class="stat-box"><span class="num">0</span><span class="label">Large (250+)</span></div>
+  <div class="stat-box"><span class="num">1</span><span class="label">No size data</span></div>
 </div>
 
-## Largest companies
-
-- [Captura](/directory/captura/) — 79 employees
-- [Ocean Frontier Institute](/directory/ocean-frontier-institute/) — 38 employees
-- [BlueGreen](/directory/bluegreen/) — 35 employees
-- [Gigablue](/directory/gigablue/) — 34 employees
-- [Planeteers](/directory/planeteers/) — 33 employees
-- [Limenet](/directory/limenet/) — 31 employees
-- [Planetary](/directory/planetary/) — 31 employees
-- [Ocean](/directory/ocean/) — 26 employees
-- [Ebb Carbon](/directory/ebb-carbon/) — 22 employees
-- [Vycarb](/directory/vycarb/) — 22 employees
+Company size classes follow the EU SME staff thresholds (micro under 10, small 10 to 49, medium 50 to 249, large 250 and more), derived from each company's LinkedIn size band and headcount signals. Exact headcounts are not published.
 
 ## All Ocean CDR companies
 

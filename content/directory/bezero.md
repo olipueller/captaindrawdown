@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://bezerocarbon.com/" target="_blank" rel="noopener">https://bezerocarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bezero-carbon/" target="_blank" rel="noopener">bezero-carbon — 42,269 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bezero-carbon/" target="_blank" rel="noopener">bezero-carbon</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~156 (-20% YoY)</td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ BeZero Carbon is a global ratings agency for the Voluntary Carbon Market whose c
 
 ## History
 
+- **2026-10-29** — news mention: BeZero: As El Niño intensifies, what are we seeing across Indonesia's forest and peatland carbon pro ([source](https://www.linkedin.com/company/bezero-carbon/#post-57c368e76d06))
+- **2026-10-22** — news mention: Cool Effect Inc: Mitti Labs has received an 'A' rating from BeZero Carbon , placing the project in t ([source](https://www.linkedin.com/company/cool-effect-carbon-offset/#post-18ccff9e558e))
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-10-14** — news mention: Groundwork BioAg receives a ‘BBB’ carbon rating from BeZero for its mycorrhizal inoculants program c ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mxtxczmlc22e))
 - **2026-10-14** — news mention: Groundwork BioAg Secures A ‘BBB’ Carbon Rating By BeZero ([source](https://carbonherald.com/groundwork-bioag-secures-a-bbb-carbon-rating-by-bezero/?utm_source=rss&utm_medium=rss&utm_campaign=groundwork-bioag-secures-a-bbb-carbon-rating-by-bezero))
@@ -58,8 +60,6 @@ BeZero Carbon is a global ratings agency for the Voluntary Carbon Market whose c
 - **2026-07-23** — news mention: Agreena Carbon Project Earns BBB BeZero Rating, Reinforcing Confidence in Nature-Based Carbon Credit ([source](https://carboncredits.com/agreena-carbon-project-earns-bbb-bezero-rating-reinforcing-confidence-in-nature-based-carbon-credits/))
 - **2026-07-22** — news mention: CDR.fyi: 🤝 The CDR sector is seeing increasing M&amp;A activity. Airhive recently announced the acqu ([source](https://www.linkedin.com/company/cdr-fyi/#post-76936359736c))
 - **2026-07-22** — news mention: Grow Indigo: Emergent Ventures India (EVI) has purchased and retired carbon credits on behalf of the ([source](https://www.linkedin.com/company/grow-indigo-pvt-ltd/#post-1e553fb1fad9))
-- **2026-07-21** — news mention: Agreena’s Soil Carbon Project Confirmed BBB After Delivering 2.3M Verified Credits ([source](https://carbonherald.com/agreenas-soil-carbon-project-confirmed-bbb-after-delivering-2-3m-verified-credits/?utm_source=rss&utm_medium=rss&utm_campaign=agreenas-soil-carbon-project-confirmed-bbb-after-delivering-2-3m-verified-credits))
-- **2026-07-21** — news mention: BeZero Carbon: 🇪🇺 The European Commission has unveiled its proposed overhaul of the EU Emissions Tra ([source](https://www.linkedin.com/company/bezero-carbon/#post-b28790022b2f))
 
 ---
 

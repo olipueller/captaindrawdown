@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Ocean Alkalinity Enhancement</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.vy-carb.com/" target="_blank" rel="noopener">https://www.vy-carb.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/vycarb/" target="_blank" rel="noopener">vycarb — 2,723 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/vycarb/" target="_blank" rel="noopener">vycarb</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~22</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ Vycarb is a Brooklyn-based ocean alkalinity enhancement startup founded in 2022 
 
 ## History
 
+- **2026-10-15** — news mention: Vycarb: We’ve demonstrated something that could change CCS entirely: permanently storing low-purity  ([source](https://www.linkedin.com/company/vycarb/#post-3f3d973aa7c8))
 - **2026-10-15** — refresh: coresignal, liveliness
 - **2026-10-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://pitchbook.com/profiles/company/515320-12))
 - **2026-09-19** — news mention: Vycarb Successfully Stores Low-Purity CO2 In Seawater - CleanTechnica ([source](https://cleantechnica.com/2026/08/28/vycarb-successfully-stores-low-purity-co2-in-seawater/))

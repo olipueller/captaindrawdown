@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonremoval.partners" target="_blank" rel="noopener">https://www.carbonremoval.partners</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-removal-partners/" target="_blank" rel="noopener">carbon-removal-partners — 5,932 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-removal-partners/" target="_blank" rel="noopener">carbon-removal-partners</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~9 (0% YoY)</td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,14 @@ Carbon Removal Partners (CRP) is a Zurich-based venture capital firm exclusively
 
 ## History
 
+- **2026-11-01** — news mention: Carbon Removal Partners: Congrats to the team at Cotierra , especially Thomas Käslin and Lorenz Buse ([source](https://www.linkedin.com/company/carbon-removal-partners/#post-7c89ca09dee2))
+- **2026-10-28** — news mention: We are hiring an Operations Associate in Zurich.
+ 
+Following recent milestones in the development of ([source](https://www.linkedin.com/feed/update/urn:li:share:7520796944697331712/))
+- **2026-10-20** — news mention: We’ll be attending INNOVATE Bau 2026 in Dübendorf this week.
+ 
+The building and construction sector  ([source](https://www.linkedin.com/feed/update/urn:li:share:7518281027451269120/))
+- **2026-10-19** — news mention: Carbon Drawdown Initiative: 📣Big news from Cotierra: we’ve raised USD 3 million to make tropical agr ([source](https://www.linkedin.com/company/carbon-drawdown-initiative/#post-1cff52274034))
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-10-13** — news mention: Our portfolio company Cotierra is entering its next phase of growth, scaling modular, decentralized  ([source](https://www.linkedin.com/feed/update/urn:li:share:7510659329537187840/))
 - **2026-10-10** — news mention: Terra Preta (Cotierra): 📣Big news from Cotierra: we’ve raised USD 3 million to make tropical agricul ([source](https://www.linkedin.com/company/terra-preta-carbon/#post-91b569b34db3))

@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://rainbowstandard.io/" target="_blank" rel="noopener">https://rainbowstandard.io/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rainbowstandard/" target="_blank" rel="noopener">rainbowstandard — 9,584 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rainbowstandard/" target="_blank" rel="noopener">rainbowstandard</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~36 (0% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,20 @@ Rainbow (formerly Riverse) is a France-based carbon credit standard and registry
 
 ## History
 
+- **2026-11-02** — news mention: Mary Teehan: The bioeconomy is having its moment — now it needs to come full circle ([source](https://www.irishexaminer.com/business-columnists/arid-41931669.html))
+- **2026-11-01** — news mention: Releaf Earth: Congratulations to Releaf Earth (YC W19) , who has delivered their first carbon remova ([source](https://www.linkedin.com/company/releaf-earth/#post-a911bfa60a27))
+- **2026-10-28** — news mention: Ambitious carbon removal operators want a registry partner that’s responsive and efficient.
+
+That’s  ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7518950549812174848/))
+- **2026-10-26** — news mention: Substrate Biochar: BIG NEWS - Charworks 01, our first site in South Africa, is now operational. Our  ([source](https://www.linkedin.com/company/substrate-biochar/#post-d0966624a72c))
+- **2026-10-22** — news mention: Swiss start-up Timber Carbon launches AI platform to trade carbon stored in buildings | Panels & Fur ([source](https://panelsfurnitureasia.com/swiss-start-up-timber-carbon-launches-ai-platform-to-trade-carbon-stored-in-buildings/))
+- **2026-10-21** — news mention: Timber Carbon Launches AI-Powered Infrastructure for Carbon Removals in Buildings - Akron Beacon Jou ([source](https://www.beaconjournal.com/press-release/story/251746/timber-carbon-launches-ai-powered-infrastructure-for-carbon-removals-in-buildings/))
+- **2026-10-21** — news mention: International launch of the world's first AI-powered infrastructure for carbon removals in the build ([source](https://carbonmarketnetwork.com/news/international-launch-of-the-worlds-first-ai-powered-infrastructure-for-carbon-removals-in-the-building-sector/))
+- **2026-10-20** — news mention: Timber Carbon Launches AI-Powered Infrastructure for Carbon Removals in Buildings - The Columbus Dis ([source](https://www.dispatch.com/press-release/story/256197/timber-carbon-launches-ai-powered-infrastructure-for-carbon-removals-in-buildings/))
+- **2026-10-20** — news mention: Timber Carbon Launches AI-Powered Infrastructure for Carbon Removals in Buildings ([source](https://www.einpresswire.com/article/950925458/timber-carbon-launches-ai-powered-infrastructure-for-carbon-removals-in-buildings))
+- **2026-10-20** — news mention: Internationaler Launch der weltweit ersten KI-gestützten Infrastruktur für Carbon Removals im Gebäud ([source](https://immofokus.at/a/internationaler-launch-der-weltweit-ersten-ki-gestuetzten-infrastruktur-fuer-carbon-removals-im-gebaeudesektor))
+- **2026-10-17** — news mention: Takachar: We are excited to share that Takachar's Takavator technology has officially earned Rainbow ([source](https://www.linkedin.com/company/takachar/#post-4b537b8f394b))
+- **2026-10-15** — news mention: Rainbow: Our biomass burial module is now published after a full review of feedback from the public  ([source](https://www.linkedin.com/company/rainbowstandard/#post-f0166027f87c))
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-10-13** — news mention: Our biomass burial module is now published after a full review of feedback from the public consultat ([source](https://www.linkedin.com/feed/update/urn:li:share:7515743214117699585/))
 - **2026-10-09** — news mention: The carbon removal community is quickly pivoting to focus on scaled deployment, and the open questio ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7514239815651860480/))
@@ -56,26 +70,6 @@ One of the hardest parts of certifying a carbon removal pro ([source](https://ww
 
 On 16 Se ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7504078695901523968/))
 - **2026-09-11** — news mention: Takachar: We are excited to share that Takachar's Takavator technology has officially earned Rainbow ([source](https://www.linkedin.com/company/takachar/#post-78a33acf2b0f))
-- **2026-09-02** — news mention: A carbon credit buyer recently wrote to us about their experience with one of our methodologies. 
-
-H ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7500824872948887552/))
-- **2026-08-30** — news mention: Sinkco Labs: We have finalized a new BiCRS module: Marine Sub-Sediment Burial (MSSB). The module was ([source](https://www.linkedin.com/company/sinkco-labs/#post-84030ff87fcd))
-- **2026-08-28** — news mention: Planboo: Distributed biochar is the hardest kind to measure. That is exactly why we build for it. To ([source](https://www.linkedin.com/company/planboo/#post-881c328254ba))
-- **2026-08-27** — news mention: Carbonapp: We issued our 500,000th carbon credit in July. It's been three and a half years since we  ([source](https://www.linkedin.com/company/carbonapp-fr/#post-48f56ecd54ab))
-- **2026-08-26** — news mention: Rainbow Starts Public Consultation On Its New Biomass Burial Module ([source](https://carbonherald.com/rainbow-starts-public-consultation-on-its-new-biomass-burial-module/?utm_source=rss&utm_medium=rss&utm_campaign=rainbow-starts-public-consultation-on-its-new-biomass-burial-module))
-- **2026-08-26** — news mention: We’ve opened the public consultation for our new biomass burial module. 
-
-This pathway keeps biogeni ([source](https://www.linkedin.com/feed/update/urn:li:share:7497925758091395073/))
-- **2026-08-22** — news mention: Tera Carbon Pte Ltd: High-integrity biochar carbon removal is selling out fast. ð± Thatâs why we ([source](https://www.linkedin.com/company/teracarbon/#post-12d45456cceb))
-- **2026-08-22** — news mention: Releaf Earth: We are excited to share a major milestone: Our CEO, Ikenna Nzewi , has officially anno ([source](https://www.linkedin.com/company/releaf-earth/#post-d148300c7e0a))
-- **2026-08-19** — news mention: 𝗡𝗲𝘄 𝗶𝗻 𝗔𝗿𝗰: 𝗮𝗻 𝗔𝗣𝗜 𝗳𝗼𝗿 𝗰𝗮𝗿𝗯𝗼𝗻 𝗿𝗲𝗺𝗼𝘃𝗮𝗹 𝗾𝘂𝗮𝗻𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀.
-
-The quantification engine behind Arc, our ce ([source](https://www.linkedin.com/feed/update/urn:li:share:7495758974831755264/))
-- **2026-08-18** — news mention: For too long, biochar has been treated as a single credit type.
-
-The reality is biochar spans multip ([source](https://www.linkedin.com/feed/update/urn:li:share:7495373945727193088/))
-- **2026-08-16** — news mention: Stack Carbon: Abundant feedstock, ideal weather, 1,500+ farmers collaborating and a design that meet ([source](https://www.linkedin.com/company/stackcarbon/#post-1756e34f2bd2))
-- **2026-08-15** — news mention: Releaf Earth: Congratulations to Releaf Earth (YC W19) , who has delivered their first carbon remova ([source](https://www.linkedin.com/company/releaf-earth/#post-f73971fbce9b))
 
 ---
 

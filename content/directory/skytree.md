@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://skytree.tech/" target="_blank" rel="noopener">https://skytree.tech/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/skytree/" target="_blank" rel="noopener">skytree — 18,210 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/skytree/" target="_blank" rel="noopener">skytree</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~142 (-10% YoY)</td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>5 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -34,6 +34,7 @@ Skytree is a Dutch direct air capture technology company founded in 2014 in Amst
 
 ## History
 
+- **2026-10-23** — news mention: Skytree, Galetech, And Mwahera Partner On Direct Air Capture For E-Fuel Production In Kenya ([source](https://carbonherald.com/skytree-galetech-and-mwahera-partner-on-direct-air-capture-for-e-fuel-production-in-kenya/?utm_source=rss&utm_medium=rss&utm_campaign=skytree-galetech-and-mwahera-partner-on-direct-air-capture-for-e-fuel-production-in-kenya))
 - **2026-10-07** — news mention: Skytree To Develop Its First Skypark In Iceland With New $1.1M Loan From Invest International ([source](https://carbonherald.com/skytree-to-develop-its-first-skypark-in-iceland-with-new-1-1m-loan-from-invest-international/?utm_source=rss&utm_medium=rss&utm_campaign=skytree-to-develop-its-first-skypark-in-iceland-with-new-1-1m-loan-from-invest-international))
 - **2026-10-07** — news mention: Skytree secures €1 million development loan from Invest ... ([source](https://skytree.tech/en-en/news/skytree-secures-1-million-development-loan-from-invest-international-for-its-first-skypark-co-as-a-service-project-in-iceland))
 - **2026-10-06** — news mention: Skytree secures €1 million development loan ([source](https://www.hortidaily.com/article/9880468/skytree-secures-eur1-million-development-loan/))

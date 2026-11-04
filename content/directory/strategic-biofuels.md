@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://strategicbiofuels.com/" target="_blank" rel="noopener">https://strategicbiofuels.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/strategic-biofuels/" target="_blank" rel="noopener">strategic-biofuels — 2,273 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/strategic-biofuels/" target="_blank" rel="noopener">strategic-biofuels</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~14 (+27% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ Strategic Biofuels is a US project development company building a flagship BECCS
 
 ## History
 
+- **2026-11-01** — news mention: Louisiana Green Fuels — other-emerging ([source](https://strategicbiofuels.com/news/new-carbon-cycle-from-louisiana-forests-to-reliable-power))
 - **2026-10-04** — news mention: Strategic Biofuels: Valmet has been selected to provide biomass power generation and flue gas cleani ([source](https://www.linkedin.com/company/strategic-biofuels/#post-41c9d00dbfb4))
 - **2026-09-22** — news mention: Relatedly, Infinium today introduced its mSAF product offering, a new methane-derived sustainable av ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mw4n5whbq226))
 - **2026-09-15** — refresh: coresignal, screenshot

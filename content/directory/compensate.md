@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Finland</td></tr>
   <tr><th>Website</th><td><a href="https://www.compensate.com/" target="_blank" rel="noopener">https://www.compensate.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/compensate-foundation/" target="_blank" rel="noopener">compensate-foundation — 6,795 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/compensate-foundation/" target="_blank" rel="noopener">compensate-foundation</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~3 (-50% YoY)</td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ Compensate is a Helsinki-based carbon offset broker/retailer that curates a port
 
 ## History
 
+- **2026-10-24** — news mention: Marine Carbon Dioxide Removal under Overshoot Conditions: A Multi-Model Assessment of Efficiency and ([source](https://doi.org/10.5194/egusphere-2026-5784))
 - **2026-10-15** — refresh: coresignal
 - **2026-10-14** — news mention: Can Seaweed Farming Compensate for Kelp Forest Losses? ([source](https://biochartoday.com/news/university-of-western-australia-and-bedford-institute-of-oceanography-researchers-evaluate-seaweed-carbon-removal-limits-against-climate-driven-kelp-loss/))
 - **2026-10-09** — news mention: 💡 Consulting local communities and scientific experts in the planning of projects was the strongest  ([source](https://bsky.app/profile/liviafritz.bsky.social/post/3mxgof7dtus2w))

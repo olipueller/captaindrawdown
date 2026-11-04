@@ -8,7 +8,7 @@ url: "/directory/biomass-burial/"
 
 # Biomass Burial — 31 Companies Tracked
 
-**Market pulse for Biomass Burial (updated 2026-10-15).**
+**Market pulse for Biomass Burial (updated 2026-11-04).**
 
 <div class="directory-stats">
   <div class="stat-box"><span class="num">31</span><span class="label">Companies</span></div>
@@ -19,22 +19,14 @@ url: "/directory/biomass-burial/"
 </div>
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">614</span><span class="label">Total employees (lower bound)</span></div>
-  <div class="stat-box"><span class="num">29/31</span><span class="label">Companies with headcount data</span></div>
+  <div class="stat-box"><span class="num">14</span><span class="label">Micro (under 10)</span></div>
+  <div class="stat-box"><span class="num">11</span><span class="label">Small (10 to 49)</span></div>
+  <div class="stat-box"><span class="num">5</span><span class="label">Medium (50 to 249)</span></div>
+  <div class="stat-box"><span class="num">0</span><span class="label">Large (250+)</span></div>
+  <div class="stat-box"><span class="num">1</span><span class="label">No size data</span></div>
 </div>
 
-## Largest companies
-
-- [Charm Industrial](/directory/charm-industrial/) — 106 employees
-- [Néolithe](/directory/néolithe/) — 100 employees
-- [Vaulted Deep](/directory/vaulted-deep/) — 64 employees
-- [Plantd Materials](/directory/plantd-materials/) — 51 employees
-- [Mast Reforestation](/directory/mast-reforestation/) — 43 employees
-- [Terranova](/directory/terranova/) — 41 employees
-- [Levitree](/directory/levitree/) — 28 employees
-- [Kodama Systems](/directory/kodama-systems/) — 23 employees
-- [Graphyte](/directory/graphyte/) — 22 employees
-- [Ekovilla](/directory/ekovilla/) — 20 employees
+Company size classes follow the EU SME staff thresholds (micro under 10, small 10 to 49, medium 50 to 249, large 250 and more), derived from each company's LinkedIn size band and headcount signals. Exact headcounts are not published.
 
 ## All Biomass Burial companies
 

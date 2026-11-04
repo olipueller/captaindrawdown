@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Colombia</td></tr>
   <tr><th>Website</th><td><a href="https://biodiversal.com/" target="_blank" rel="noopener">https://biodiversal.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biodiversal/" target="_blank" rel="noopener">biodiversal — 1,212 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biodiversal/" target="_blank" rel="noopener">biodiversal</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~17 (+6% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ Biodiversal is a Colombian regenerative agriculture company founded in 2018 that
 
 ## History
 
+- **2026-10-31** — news mention: Biodiversal: 2026 Q1: 6 clusters. 560 families. 72 production sites. From Pitalito (Huila) to Chapar ([source](https://www.linkedin.com/company/biodiversal/#post-a2497b8e5fe9))
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-09-28** — news mention: Biodiversal: 2026 Q1: 6 clusters. 560 families. 72 production sites. From Pitalito (Huila) to Chapar ([source](https://www.linkedin.com/company/biodiversal-biogrowth/#post-adc0b80d9dfe))
 - **2026-05-01** — refresh: coresignal, screenshot

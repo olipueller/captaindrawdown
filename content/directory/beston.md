@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>China</td></tr>
   <tr><th>Website</th><td><a href="https://www.bestongroup.com/" target="_blank" rel="noopener">https://www.bestongroup.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bestongroup/" target="_blank" rel="noopener">bestongroup — 47,910 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bestongroup/" target="_blank" rel="noopener">bestongroup</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~750 (+14% YoY)</td></tr>
+  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -30,6 +30,10 @@ Beston Group is a Chinese pyrolysis equipment manufacturer based in Zhengzhou/Ji
 
 ## History
 
+- **2026-10-29** — news mention: Ecological Carbon Offset Partners: The carbon removal market showed up in force at the Puro.earth CD ([source](https://www.linkedin.com/company/ep-carbon/#post-108532950bcf))
+- **2026-10-27** — news mention: Biochar CDR: Durable Removal’s Delivery Leader - Beston Group ([source](https://www.bestongroup.com/industry-news/biochar-cdr-durable-removals-delivery-leader/))
+- **2026-10-17** — news mention: Beston Group Launches Innovative Biochar and Pyrolysis Systems ([source](https://biochartoday.com/news/beston-group-introduces-the-bst-06quicker-and-blackgold-p30-units-at-global-product-launch-events-in-china/?utm_source=bluesky&utm_medium=jetpack_social))
+- **2026-10-15** — news mention: Beston: From Project Announcement to Industry Dialogue: Beston Group® at Puro.earth CDR Summit 𝟐𝟎𝟐𝟔  ([source](https://www.linkedin.com/company/bestongroup/#post-398bbe794101))
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-10-10** — news mention: Beston Group Visits Alabama Site for Planned Large-Scale Biochar CDR Project - Beston Group ([source](https://www.bestongroup.com/company-news/beston-group-visits-alabama-site-for-planned-large-scale-biochar-cdr-project/))
 - **2026-10-07** — news mention: Beston Group: From Project Announcement to Industry Dialogue: Beston Group® at Puro.earth CDR Summit ([source](https://www.linkedin.com/company/beston-henan-machinery-co-ltd-/#post-95b260894b40))
@@ -56,9 +60,6 @@ Beston Group is a Chinese pyrolysis equipment manufacturer based in Zhengzhou/Ji
 - **2026-04-18** — discovered via: news_feed ([source](https://carbonherald.com/biochar-production-boost-exomad-green-beston-group-enter-new-partnership-phase/))
 - **** — merged duplicate: Beston Group (slug=beston-group)
 - **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.bestongroup.com/))
-- **2026-04-19** — url added from cdr.fyi supplier page: https://www.bestongroup.com/ ([source](https://www.cdr.fyi/marketplace/beston))
-- **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/marketplace/beston))
 
 ---
 

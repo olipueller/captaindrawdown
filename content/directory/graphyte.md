@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>BiCRS (Other)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.graphyte.com/" target="_blank" rel="noopener">https://www.graphyte.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/graphytecarbon/" target="_blank" rel="noopener">graphytecarbon — 6,134 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/graphytecarbon/" target="_blank" rel="noopener">graphytecarbon</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~22 (+5% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric <small>(last issuance: 2024-11-07)</small></td></tr>
@@ -44,6 +44,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-25** — news mention: Graphyte: It's #ClimateWeekNYC and excited to share the latest episode of the Climate Confident podc ([source](https://www.linkedin.com/company/graphytecarbon/#post-f41aa72be41f))
 - **2026-10-12** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-5e4eb86cc6d0))
 - **2026-09-29** — news mention: Sumitomo Corporation: Congratulations to our partner Graphyte on the grand opening of their expanded ([source](https://www.linkedin.com/company/sumitomocorporation/#post-cf3e384f937b))
 - **2026-09-25** — news mention: Graphyte: This past week, Graphyte unveiled the expansion of our Loblolly facility in Pine Bluff, Ar ([source](https://www.linkedin.com/company/graphytecarbon/#post-dfee68a547e8))
@@ -73,7 +74,6 @@ Independently verified by carbon-credit registries:
 - **2026-06-04** — news mention: Good primer. The headline number worth flagging: durable CDR (DAC, enhanced weathering, biochar, BEC ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mngqzczegr2e))
 - **2026-06-03** — news mention: Startup scores big investment for storing carbon in wood bricks - E&E News by POLITICO ([source](https://www.eenews.net/articles/startup-scores-big-investment-for-storing-carbon-in-wood-bricks/))
 - **2026-06-03** — news mention: Graphyte Secures Backing From Sumitomo And Expands Partnerships ([source](https://carbonherald.com/graphyte-secures-backing-from-sumitomo-and-expands-partnerships/?utm_source=rss&utm_medium=rss&utm_campaign=graphyte-secures-backing-from-sumitomo-and-expands-partnerships))
-- **2026-05-06** — news mention: Carbon Removal, Corporate Targets, and Supply Chain Gaps: Where ESG Stands in 2025 | Livio Acerbo’s  ([source](https://www.acerbolivio.com/2026/05/06/carbon-removal-corporate-targets-and-supply-chain-gaps-where-esg-stands-in-2025/))
 
 ---
 

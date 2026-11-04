@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://terradot.earth/" target="_blank" rel="noopener">https://terradot.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terradot/" target="_blank" rel="noopener">terradot — 10,740 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terradot/" target="_blank" rel="noopener">terradot</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active isometric · puro crediting window through 2028-05-09</small></td></tr>
-  <tr><th>Employees</th><td>~82 (+1% YoY)</td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric · Puro.earth <small>(active crediting window through 2028-05-09)</small></td></tr>
@@ -43,6 +43,20 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-01** — news mention: Clean the Sky - Carbon Removal Project Financing ([source](https://www.cleanthesky.com/innovation/rock-weathering))
+- **2026-10-30** — news mention: #terradot #pwcagtechmeeting #agriculture #carbonremoval #erw | Terradot ([source](https://www.linkedin.com/feed/update/urn:li:share:7521975238813761536/))
+- **2026-10-30** — news mention: Terradot Secures $34 Million from HASI to Build ERW Carbon Removal Projects - ESG Today ([source](https://www.esgtoday.com/terradot-secures-34-million-from-hasi-to-build-erw-carbon-removal-projects/))
+- **2026-10-28** — news mention: Terradot and HASI Close $34M Investment for Carbon Removal Projects | MarketScreener ([source](https://www.marketscreener.com/news/terradot-and-hasi-close-34m-investment-for-carbon-removal-projects-ce785cdddc89f222))
+- **2026-10-28** — news mention: Terradot Secures Debt Financing For Its ERW Projects, Locking In $34M From HASI ([source](https://carbonherald.com/terradot-secures-debt-financing-for-its-erw-projects-locking-in-34m-from-hasi/?utm_source=rss&utm_medium=rss&utm_campaign=terradot-secures-debt-financing-for-its-erw-projects-locking-in-34m-from-hasi))
+- **2026-10-28** — news mention: Terradot shows ERW is bankable with new $34M debt deal with HASI ([source](https://www.axios.com/pro/climate-deals/2026/10/27/terradot-debt-hasi-bankable))
+- **2026-10-27** — news mention: Terradot capta US$ 34 milhões com HASI para acelerar remoção de carbono por intemperismo de rochas n ([source](https://brasilinovador.com.br/terradot-capta-us-34-milhoes-com-hasi-para-acelerar-remocao-de-carbono-por-intemperismo-de-rochas-no-brasil-e-nos-estados-unidos/))
+- **2026-10-27** — news mention: Terradot and HASI Close $34M Investment for Carbon Removal Projects ([source](https://finance.yahoo.com/energy/articles/terradot-hasi-close-34m-investment-140000988.html))
+- **2026-10-27** — news mention: Terradot and HASI Close $34M Investment for Carbon Removal Projects | FinancialContent ([source](https://www.financialcontent.com/article/bizwire-2026-10-27-terradot-and-hasi-close-34m-investment-for-carbon-removal-projects))
+- **2026-10-27** — news mention: Terradot and HASI Close $34M Investment for Carbon Removal Projects - Offshore Source ([source](https://offshoresource.com/business-wire/terradot-and-hasi-close-34m-investment-for-carbon-removal-projects))
+- **2026-10-27** — news mention: Terradot Secures $34 Million Financing From HASI for Carbon Removal Projects | citybiz ([source](https://www.citybiz.co/article/925095/terradot-secures-34-million-financing-from-hasi-for-carbon-removal-projects/))
+- **2026-10-27** — news mention: 2026-10-27 | Terradot and HASI Close $34M Investment for Carbon Removal Projects | NYSE:HASI | Press ([source](https://stockhouse.com/news/press-releases/2026/10/27/terradot-and-hasi-close-34m-investment-for-carbon-removal-projects))
+- **2026-10-27** — news mention: Terradot secures $34m debt financing for carbon removal projects By Investing.com ([source](https://www.investing.com/news/company-news/terradot-secures-34m-debt-financing-for-carbon-removal-projects-93CH-4976016))
+- **2026-10-27** — news mention: A million tonnes of rock are set to be spread on farms in the US and Brazil to remove carbon. ([source](https://www.stocktitan.net/news/HASI/terradot-and-hasi-close-34m-investment-for-carbon-removal-pk8dld3l3lx5.html))
 - **2026-10-15** — refresh: coresignal
 - **2026-10-15** — refresh: coresignal
 - **2026-10-12** — news mention: Terradot joins the Negative Emissions Platform ([source](https://www.negative-emissions.org/updates/terradot-joins-the-negative-emissions-platform))
@@ -59,20 +73,6 @@ Independently verified by carbon-credit registries:
 - **2026-09-17** — news mention: Google signs largest carbon removal deal to date in Brazil - BNamericas ([source](https://www.bnamericas.com/en/news/google-signs-largest-carbon-removal-deal-to-date-in-brazil))
 - **2026-09-17** — news mention: Google's Groundbreaking Carbon-Removal Project in Brazil ([source](https://www.bundle.app/en/breaking-news/googles-groundbreaking-carbon-removal-project-in-brazil-3C9C6E58-132B-4EB5-8CA9-C45AE9F7D420))
 - **2026-09-17** — news mention: Google agrees biggest carbon-removal deal yet, aims to scale new model - NewsBreak ([source](https://www.newsbreak.com/reuters-555486/4889342221619-google-agrees-biggest-carbon-removal-deal-yet-aims-to-scale-new-model))
-- **2026-09-17** — news mention: Google Agrees to Biggest Carbon-Removal Deal in Brazil ([source](https://barlamantoday.com/2026/09/17/google-agrees-to-biggest-carbon-removal-deal-in-brazil/))
-- **2026-09-17** — news mention: Google, Terradot Target 2M Tons of Climate Impact - ESG News ([source](https://esgnews.com/google-terradot-target-2m-tons-of-climate-impact/))
-- **2026-09-17** — news mention: Terradot and Google Combine Superpollutants and Carbon Removal in the World's Largest Enhanced Rock  ([source](https://www.newsbreak.com/the-associated-press-510077/4889433403381-terradot-and-google-combine-superpollutants-and-carbon-removal-in-the-world-s-largest-enhanced-rock-weathering-project-in-southern-brazil))
-- **2026-09-17** — news mention: Google Inks Its Largest CDR Purchase To Date And Backs Methane Abatement In A New Deal With Terradot ([source](https://carbonherald.com/google-inks-its-largest-cdr-purchase-to-date-and-backs-methane-abatement-in-a-new-deal-with-terradot/?utm_source=rss&utm_medium=rss&utm_campaign=google-inks-its-largest-cdr-purchase-to-date-and-backs-methane-abatement-in-a-new-deal-with-terradot))
-- **2026-09-17** — news mention: Congratulations to the whole Google team (Randy Spock, Reilly O&amp;#39;Hara, Ella Hughes, and Tessa ([source](https://www.linkedin.com/feed/update/urn:li:share:7506032641771524097/))
-- **2026-09-17** — news mention: Google and Terradot Target 200,000 Hectares of Rice Paddies in Brazil | energynews.pro ([source](https://energynews.pro/en/google-and-terradot-target-200000-hectares-of-rice-paddies-in-brazil))
-- **2026-09-16** — news mention: Terradot and Google Combine Superpollutants and Carbon Removal in the World's Largest Enhanced Rock  ([source](https://www.financialcontent.com/article/bizwire-2026-9-16-terradot-and-google-combine-superpollutants-and-carbon-removal-in-the-worlds-largest-enhanced-rock-weathering-project-in-southern-brazil))
-- **2026-09-16** — news mention: Google agrees biggest carbon-removal deal yet, aims to scale new model - The Economic Times ([source](https://economictimes.indiatimes.com/tech/technology/google-agrees-biggest-carbon-removal-deal-yet-aims-to-scale-new-model/articleshow/134287509.cms))
-- **2026-09-16** — news mention: Google agrees biggest carbon-removal deal yet, aims to scale new model | The Straits Times ([source](https://www.straitstimes.com/world/google-agrees-biggest-carbon-removal-deal-yet-aims-to-scale-new-model))
-- **2026-09-16** — news mention: Google Signs Record Carbon and Methane Removal Deal with Terradot - ESG Today ([source](https://www.esgtoday.com/google-signs-record-carbon-and-methane-removal-deal-with-terradot/))
-- **2026-09-16** — news mention: Google agrees biggest carbon-removal deal yet, aims to scale new model ([source](https://www.ajot.com/news/google-agrees-biggest-carbon-removal-deal-yet-aims-to-scale-new-model))
-- **2026-09-16** — news mention: Google agrees biggest carbon-removal deal yet, aims to scale new model By Reuters ([source](https://www.investing.com/news/stock-market-news/google-agrees-biggest-carbonremoval-deal-yet-aims-to-scale-new-model-4903605))
-- **2026-09-16** — news mention: Google and Terradot agreement enables climate impact by 2030 ([source](https://blog.google/company-news/outreach-and-initiatives/sustainability/terradot-superpollutants-carbon-removal/))
-- **2026-09-16** — news mention: 🌾 🪨 ⏳ Pleased to see the announcement today of a significant offtake partnership between Google and  ([source](https://www.linkedin.com/feed/update/urn:li:share:7505979541354369024/))
 
 ---
 

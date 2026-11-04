@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Ocean Alkalinity Enhancement</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://planeteers.de/" target="_blank" rel="noopener">https://planeteers.de/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/planeteersgmbh/" target="_blank" rel="noopener">planeteersgmbh — 4,426 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/planeteersgmbh/" target="_blank" rel="noopener">planeteersgmbh</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~33 (+6% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -45,6 +45,12 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-03** — news mention: Excited to announce that our co-founder, Frank Rattey, will be speaking at Nerdy4Nature, hosted by t ([source](https://www.linkedin.com/feed/update/urn:li:share:7521922464331952128/))
+- **2026-10-30** — news mention: #tbewc26 #sos2026 | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7521942764297584640/))
+- **2026-10-29** — news mention: 🌍 Please join us in welcoming Christoph Staggenborg, our newest Planeteer! 💚
+
+Christoph joins Planet ([source](https://www.linkedin.com/feed/update/urn:li:share:7521218125694930945/))
+- **2026-10-17** — news mention: It was a pleasure to take part again in the International Lime Association (ILA) General Assembly &a ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7516797023434588160/))
 - **2026-10-15** — refresh: coresignal
 - **2026-10-15** — refresh: coresignal
 - **2026-10-09** — news mention: #carbonremoval #climatetech #collaboration #planeteers | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7513867999628640256/))
@@ -83,12 +89,6 @@ With a background in Envi ([source](https://www.linkedin.com/feed/update/urn:li:
 Having recently completed his  ([source](https://www.linkedin.com/feed/update/urn:li:share:7487468124733259776/))
 - **2026-07-23** — news mention: #carbonremoval #cdr #carbonmanagement #climatetech | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7485967332159406082/))
 - **2026-07-16** — news mention: #carbonremoval #ccs #cdr #carbonmanagement #climatetech #mrv | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7483430581750407168/))
-- **2026-07-15** — refresh: coresignal
-- **2026-07-15** — refresh: coresignal
-- **2026-07-13** — news mention: #fallingwalls #sciencestartups #innovation #climatetech #sustainability #planeteers | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7482323324782444544/))
-- **2026-07-07** — news mention: 🌍 Please join us in welcoming Mugdha H., our newest Planeteer! 💚
-
-Mugdha joins us as a Working Stude ([source](https://www.linkedin.com/feed/update/urn:li:share:7479889015303979008/))
 
 ---
 

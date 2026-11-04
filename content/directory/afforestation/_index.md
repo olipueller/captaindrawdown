@@ -8,7 +8,7 @@ url: "/directory/afforestation/"
 
 # Afforestation — 56 Companies Tracked
 
-**Market pulse for Afforestation (updated 2026-10-15).**
+**Market pulse for Afforestation (updated 2026-11-04).**
 
 <div class="directory-stats">
   <div class="stat-box"><span class="num">56</span><span class="label">Companies</span></div>
@@ -19,22 +19,14 @@ url: "/directory/afforestation/"
 </div>
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">13,433</span><span class="label">Total employees (lower bound)</span></div>
-  <div class="stat-box"><span class="num">54/56</span><span class="label">Companies with headcount data</span></div>
+  <div class="stat-box"><span class="num">6</span><span class="label">Micro (under 10)</span></div>
+  <div class="stat-box"><span class="num">31</span><span class="label">Small (10 to 49)</span></div>
+  <div class="stat-box"><span class="num">12</span><span class="label">Medium (50 to 249)</span></div>
+  <div class="stat-box"><span class="num">5</span><span class="label">Large (250+)</span></div>
+  <div class="stat-box"><span class="num">2</span><span class="label">No size data</span></div>
 </div>
 
-## Largest companies
-
-- [Weyerhaeuser](/directory/weyerhaeuser/) — 7387 employees
-- [Indigo](/directory/indigo/) — 1318 employees
-- [Ducks Unlimited](/directory/ducks-unlimited/) — 1169 employees
-- [South Pole](/directory/south-pole/) — 860 employees
-- [Grow Indigo](/directory/grow-indigo/) — 370 employees
-- [ecosecurities](/directory/ecosecurities/) — 265 employees
-- [Anew Climate](/directory/anew-climate/) — 231 employees
-- [Cultivo](/directory/cultivo/) — 208 employees
-- [Klim](/directory/klim/) — 127 employees
-- [EcoAct](/directory/ecoact/) — 114 employees
+Company size classes follow the EU SME staff thresholds (micro under 10, small 10 to 49, medium 50 to 249, large 250 and more), derived from each company's LinkedIn size band and headcount signals. Exact headcounts are not published.
 
 ## All Afforestation companies
 

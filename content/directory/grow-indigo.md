@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://www.growindigo.co.in/" target="_blank" rel="noopener">https://www.growindigo.co.in/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/grow-indigo-pvt-ltd/" target="_blank" rel="noopener">grow-indigo-pvt-ltd — 22,391 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/grow-indigo-pvt-ltd/" target="_blank" rel="noopener">grow-indigo-pvt-ltd</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~370 (+4% YoY)</td></tr>
+  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ Grow Indigo is a Mumbai-based joint venture of Mahyco and Indigo Ag, founded in 
 
 ## History
 
+- **2026-10-23** — news mention: Grow Indigo: Project Ragini (VCS 4768) is now registered under Verra's VM0042 methodology for Improv ([source](https://www.linkedin.com/company/grow-indigo-pvt-ltd/#post-aea1783bfef4))
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-09-17** — news mention: Grow Indigo: Yesterday, Grow Indigo reached a major milestone: ððððð¶ð»ð´ ðð» ([source](https://www.linkedin.com/company/grow-indigo-pvt-ltd/#post-50ba17d376e9))
 - **2026-08-12** — news mention: Grow Indigo: Grow Indigo Punjab Wheat Program Achieves FSA Gold and Silver Performance Levels We are ([source](https://www.linkedin.com/company/grow-indigo-pvt-ltd/#post-5add2ed71a3d))

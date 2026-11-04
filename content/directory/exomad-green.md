@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Bolivia</td></tr>
   <tr><th>Website</th><td><a href="https://www.exomadgreen.com/" target="_blank" rel="noopener">https://www.exomadgreen.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/exomadgreen/" target="_blank" rel="noopener">exomadgreen — 8,608 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/exomadgreen/" target="_blank" rel="noopener">exomadgreen</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2029-07-16</small></td></tr>
-  <tr><th>Employees</th><td>~125 (+33% YoY)</td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2029-07-16)</small></td></tr>
 </table>
@@ -42,6 +42,8 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-01** — news mention: Exomad Green and Carbonfuture announced an expansion of their partnership. According to the companie ([source](https://www.carbonfuture.earth/magazine/exomad-green-and-carbonfuture-expand-long-term-supply-as-buyers-prioritize-proven-delivery))
+- **2026-10-15** — news mention: Biochar Production Equipment: Puro.earth & Isomtric Vetted ([source](https://www.bestongroup.com/biochar-production-equipment/))
 - **2026-10-13** — news mention: Top 15 Companies in Global Biochar Market Trends, Share, Size ([source](https://www.sphericalinsights.com/blogs/top-15-companies-in-global-biochar-market-2026-2035-expert-view-by-spherical-insights))
 - **2026-10-12** — news mention: Biochar Market Size, Share, Trends, Competitive Landscape, Regional Analysis and Forecast 2026–2035 ([source](https://www.marketbusinessinsights.com/biochar-market))
 - **2026-10-10** — news mention: Exomad Green, Riberalta - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/exomad-green-riberalta/))
@@ -70,8 +72,6 @@ Independently verified by carbon-credit registries:
 - **2026-05-22** — news mention: Senken | Senken Signs Multi-Year Offtake for Tech- and Nature-Based Carbon Removal with Lufthansa Gr ([source](https://www.finanzwire.com/press-release/senken-etr-senken-signs-multi-year-offtake-for-tech-and-nature-based-carbon-removal-with-lufthansa-group-europes-largest-airline-QwmoFEP258J))
 - **2026-05-02** — news mention: Exomad Green and Supercritical taped a 10-min podcast announcing a 3-year, up-to-500k-tonne biochar  ([source](https://x.com/CaptainDrawdown/status/2050590646575006137))
 - **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-20** — news mention: Exomad Green, Supercritical Sign 500,000-Ton Biochar Carbon Removal Agreement - ESG Today ([source](https://www.esgtoday.com/exomad-green-supercritical-sign-500000-ton-biochar-carbon-removal-agreement/))
 
 ---
 

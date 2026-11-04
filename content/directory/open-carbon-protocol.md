@@ -14,9 +14,9 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.ocp.earth/" target="_blank" rel="noopener">https://www.ocp.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/open-carbon-protocol/" target="_blank" rel="noopener">open-carbon-protocol — 218 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/open-carbon-protocol/" target="_blank" rel="noopener">open-carbon-protocol</a></td></tr>
   <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Employees</th><td>~30</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ Open Carbon Protocol (OCP) is a collaborative carbon crediting registry and meth
 
 ## History
 
+- **2026-11-02** — news mention: Carbon Containment Lab: Ready for development and destruction! After a multi-year process, we are th ([source](https://www.linkedin.com/company/carbon-containment-lab/#post-7212b2be185d))
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, liveliness

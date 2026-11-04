@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Liquid Solvent)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://alithic.com/" target="_blank" rel="noopener">https://alithic.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/alithic/" target="_blank" rel="noopener">alithic — 883 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/alithic/" target="_blank" rel="noopener">alithic</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~10 (0% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -35,6 +35,7 @@ Alithic (formerly Earth RepAIR) is a University of Wisconsin–Madison spinout c
 
 ## History
 
+- **2026-10-30** — news mention: Alithic: A year ago, we commissioned Alithic's demonstration facility in Madison, Wisconsin. That mi ([source](https://www.linkedin.com/company/alithic/#post-e14b14926baa))
 - **2026-09-28** — news mention: Alithic: A year ago, we commissioned Alithic's demonstration facility in Madison, Wisconsin. That mi ([source](https://www.linkedin.com/company/alithic/#post-bc447850c901))
 - **2026-09-14** — news mention: Earth Repair Global: Our one-year-old eats mineral waste, stores COâ, and has a nameplate capacity ([source](https://www.linkedin.com/company/earth-repair/#post-fa14aaf407b9))
 - **2026-08-23** — news mention: Alithic: Our one-year-old eats mineral waste, stores CO₂, and has a nameplate capacity of 50 tonnes  ([source](https://www.linkedin.com/company/alithic/#post-68f159b5c647))

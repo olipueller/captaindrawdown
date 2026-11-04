@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbon-drawdown.de" target="_blank" rel="noopener">https://www.carbon-drawdown.de</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-drawdown-initiative/" target="_blank" rel="noopener">carbon-drawdown-initiative — 2,970 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-drawdown-initiative/" target="_blank" rel="noopener">carbon-drawdown-initiative</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~8 (+14% YoY)</td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,11 @@ Carbon Drawdown Initiative GmbH is a philanthropically-funded German organizatio
 
 ## History
 
+- **2026-11-01** — news mention: Carbon Removal Partners: Congrats to the team at Cotierra , especially Thomas Käslin and Lorenz Buse ([source](https://www.linkedin.com/company/carbon-removal-partners/#post-7c89ca09dee2))
+- **2026-10-30** — news mention: A soil–feedstock greenhouse mesocosm matrix for screening carbon dioxide removal via enhanced rock w ([source](https://cdrxiv.org/preprint/564))
+- **2026-10-27** — news mention: Bloomineral: Great things come in waves. For months, we've been building: growing our algae, validat ([source](https://www.linkedin.com/company/bloomineral/#post-761d5b3df9d4))
+- **2026-10-19** — news mention: Laboratoire de Météorologie Dynamique: Great things come in waves. For months, we've been building:  ([source](https://www.linkedin.com/company/laboratoire-des-sciences-du-climat-et-de-l-environnement/#post-761d5b3df9d4))
+- **2026-10-19** — news mention: Carbon Drawdown Initiative: 📣Big news from Cotierra: we’ve raised USD 3 million to make tropical agr ([source](https://www.linkedin.com/company/carbon-drawdown-initiative/#post-1cff52274034))
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-10-10** — news mention: Terra Preta (Cotierra): 📣Big news from Cotierra: we’ve raised USD 3 million to make tropical agricul ([source](https://www.linkedin.com/company/terra-preta-carbon/#post-91b569b34db3))
 - **2026-10-03** — news mention: Congrats to the team at Cotierra, especially Thomas Käslin and Lorenz Buser, on closing their $3 mil ([source](https://www.linkedin.com/feed/update/urn:li:share:7511000569419808768/))
@@ -55,17 +60,6 @@ Carbon Drawdown Initiative GmbH is a philanthropically-funded German organizatio
 - **2026-08-14** — news mention: Pol Knops (@polknops.bsky.social) at the Carbon Drawdown Initiative ran basalt-amended plots for nea ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mszeyqycjk2n))
 - **2026-08-14** — news mention: The 1,400-day German basalt trial returning zero measurable CO2 removal isn't just another model-vs- ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mszeynp7fz2e))
 - **2026-08-14** — news mention: Carbon Drawdown Initiative: 1,400 days. Four winters. Twenty pots of basalt-amended soil. That's our ([source](https://www.linkedin.com/company/carbon-drawdown-initiative/#post-c5ca55aba09c))
-- **2026-08-14** — news mention: Carbon Drawdown Initiative: Does more basalt mean more CO₂ removal? Our XXL Lysimeter Experiment say ([source](https://www.linkedin.com/company/carbon-drawdown-initiative/#post-b398856601b9))
-- **2026-08-14** — news mention: Does more basalt mean more CO₂ removal? Our XXL Lysimeter Experiment says: not so fast.
-
-The intuiti ([source](https://www.linkedin.com/feed/update/urn:li:share:7493651331526742016/))
-- **2026-08-13** — news mention: 1,400 days. Four winters. Twenty pots of basalt-amended soil.
-
-That&amp;#39;s our XXL Lysimeter Expe ([source](https://www.linkedin.com/feed/update/urn:li:share:7493289822275432448/))
-- **2026-08-07** — news mention: Enhanced rock weathering has a problem that doesn&amp;#39;t get talked about enough.
-
-It&amp;#39;s n ([source](https://www.linkedin.com/feed/update/urn:li:share:7491115362118258688/))
-- **2026-08-07** — news mention: Carbon Drawdown Initiative: Congratulations portfolio company CREW Carbon to their announcement of a ([source](https://www.linkedin.com/company/carbon-drawdown-initiative/#post-e67f5c190fdd))
 
 ---
 

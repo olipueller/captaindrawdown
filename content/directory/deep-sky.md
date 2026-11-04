@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Other/Undisclosed)</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.deepskyclimate.com/" target="_blank" rel="noopener">https://www.deepskyclimate.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/deep-sky-climate/" target="_blank" rel="noopener">deep-sky-climate — 26,497 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/deep-sky-climate/" target="_blank" rel="noopener">deep-sky-climate</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~46 (+10% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>9 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric</td></tr>
@@ -44,6 +44,10 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-27** — news mention: Carbon Capture Market Trends And Forecast Analysis Reveal Strong Long-Term Potential ([source](https://www.einpresswire.com/article/951776681/carbon-capture-market-trends-and-forecast-analysis-reveal-strong-long-term-potential))
+- **2026-10-23** — news mention: US non-profit adds three CDR projects in latest investment round ([source](https://www.qcintel.com/carbon/article/us-non-profit-adds-three-cdr-projects-in-latest-investment-round-75831.html))
+- **2026-10-19** — news mention: CCUS awards recognise capture technology and CO2 infrastructure projects | Carbon Dioxide | gasworld ([source](https://www.gasworld.com/story/ccus-awards-recognise-capture-technology-and-co2-infrastructure-projects/2262189.article/))
+- **2026-10-15** — news mention: DACworx: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon. L ([source](https://www.linkedin.com/company/dacworx/#post-415b5a86b4b0))
 - **2026-10-12** — news mention: DACworx Engineering: Exciting milestone for DACLAB . Our first carbon sequestration project is on th ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-f90fee4ee134))
 - **2026-10-09** — news mention: Direct air capture - Wikipedia ([source](https://en.wikipedia.org/wiki/Direct_air_capture))
 - **2026-10-01** — news mention: Milkywire: 🌍 Milkywire has completed eight Salesforce-backed pre-purchases, securing 3,661 tonnes of ([source](https://www.linkedin.com/company/milkywire/#post-08426181283f))
@@ -70,10 +74,6 @@ Independently verified by carbon-credit registries:
 - **2026-08-03** — news mention: DACworx: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon. L ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-a9811209c702))
 - **2026-08-02** — news mention: DACLAB: Coming soon to Deep Sky Alpha. Deep Sky Alpha is welcoming DACLAB and its Kelvin Tower, a co ([source](https://www.linkedin.com/company/daclab-us/#post-1bbafa726523))
 - **2026-07-29** — news mention: CDR.fyi: ð° This week saw some key developments in durable CDR, as Inherit Carbon Solutions issued ([source](https://www.linkedin.com/company/cdr-fyi/#post-e608dbc98de9))
-- **2026-07-29** — news mention: Deep Sky: Coming soon to Deep Sky Alpha. Deep Sky Alpha is welcoming DACLAB and its Kelvin Tower, a  ([source](https://www.linkedin.com/company/deep-sky-climate/#post-7ebecf20a082))
-- **2026-07-29** — news mention: Deep Sky: BientÃ´t Ã Deep Sky Alpha. Deep Sky Alpha accueillera bientÃ´t DACLAB et sa Kelvin Tower,  ([source](https://www.linkedin.com/company/deep-sky-climate/#post-abac5cee2d4a))
-- **2026-07-26** — news mention: DACLAB: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon. La ([source](https://www.linkedin.com/company/daclab-us/#post-7a62db6e2cf4))
-- **2026-07-25** — news mention: Skyrenu: Build, prove, deliver. Our partner Deep Sky  just showed the carbon removal industry what e ([source](https://www.linkedin.com/company/skyrenu-technologies/#post-cd925b4c4b2a))
 
 ---
 

@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.sitos.earth/" target="_blank" rel="noopener">https://www.sitos.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sitos-group/" target="_blank" rel="noopener">sitos-group — 2,811 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sitos-group/" target="_blank" rel="noopener">sitos-group</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~30 (0% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric</td></tr>
 </table>
@@ -38,6 +38,9 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-02** — news mention: Applied Gaia: Biochar is a shovel-ready climate solution, but regulatory frameworks were built for y ([source](https://www.linkedin.com/company/appliedgaia-corporation/#post-b467342fc1b5))
+- **2026-10-20** — news mention: Treehouse California Almonds Partners with Sitos Group to Launch State-of-the-Art Slow Pyrolysis Bio ([source](https://perishablenews.com/produce/treehouse-california-almonds-partners-with-sitos-group-to-launch-state-of-the-art-slow-pyrolysis-biochar-facility/))
+- **2026-10-19** — news mention: Sitos Group: Almond shells are being converted into biochar at a new commercial facility in Delano,  ([source](https://www.linkedin.com/company/sitos-group/#post-758e6a72039c))
 - **2026-09-15** — refresh: coresignal, screenshot, liveliness
 - **2026-09-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.treehousealmonds.com/blog/treehouse-california-almonds-partners-with-sitos-group/))
 - **2026-09-05** — news mention: US Biochar Coalition (USBC): Commercial-scale biochar production at Sitos Group is almost here! 🤝 🪨  ([source](https://www.linkedin.com/company/u-s-biochar-coalition/#post-df68429b7d0f))

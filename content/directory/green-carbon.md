@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
   <tr><th>Country</th><td>Japan</td></tr>
   <tr><th>Website</th><td><a href="https://green-carbon.co.jp/" target="_blank" rel="noopener">https://green-carbon.co.jp/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/green-carbon-inc/" target="_blank" rel="noopener">green-carbon-inc — 8,292 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/green-carbon-inc/" target="_blank" rel="noopener">green-carbon-inc</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~157 (+107% YoY)</td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric</td></tr>
@@ -43,6 +43,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-17** — news mention: Green Carbon: 🌊🌏 Selected for the Tokyo Bay eSG Project | Advancing Direct Ocean Capture in Tokyo Ba ([source](https://www.linkedin.com/company/green-carbon-inc/#post-187fe1f50c14))
 - **2026-09-03** — news mention: Green Carbon: 【🌾 Green Carbon Signs MOU with New Forests in Vietnam🇻🇳】 We are pleased to announce th ([source](https://www.linkedin.com/company/green-carbon-inc/#post-9c317eb4e2c2))
 - **2026-09-02** — news mention: Green Carbon, New Forests Target Large-Scale Rice Methane Projects In Vietnam ([source](https://carbonherald.com/green-carbon-new-forests-target-large-scale-rice-methane-projects-in-vietnam/?utm_source=rss&utm_medium=rss&utm_campaign=green-carbon-new-forests-target-large-scale-rice-methane-projects-in-vietnam))
 - **2026-08-27** — news mention: Green Carbon: 🌾 Turning Rice Paddies into Local Climate Action Green Carbon Inc. is pleased to annou ([source](https://www.linkedin.com/company/green-carbon-inc/#post-75667ba4f4df))

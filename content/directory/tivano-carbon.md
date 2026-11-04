@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>BiCRS (Other)</td></tr>
   <tr><th>Country</th><td>Namibia</td></tr>
   <tr><th>Website</th><td><a href="https://www.tivano-carbon.com/" target="_blank" rel="noopener">https://www.tivano-carbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tivano-carbon/" target="_blank" rel="noopener">tivano-carbon — 508 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tivano-carbon/" target="_blank" rel="noopener">tivano-carbon</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2030-04-30</small></td></tr>
-  <tr><th>Employees</th><td>~7 (+75% YoY)</td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2030-04-30)</small></td></tr>
 </table>
@@ -39,6 +39,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-16** — news mention: Tivano Carbon: Tivano applies Swiss expertise to carbon dioxide removal (CDR) and underground biomas ([source](https://www.linkedin.com/company/tivano-carbon/#post-68db978754a5))
 - **2026-10-14** — news mention: Startup & venture capital news | Dealroom.co ([source](https://dealroom.co/news/))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot

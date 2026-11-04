@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.varme.ca/" target="_blank" rel="noopener">https://www.varme.ca/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/varme-energy/" target="_blank" rel="noopener">varme-energy — 4,051 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/varme-energy/" target="_blank" rel="noopener">varme-energy</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~10</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ Varme Energy is a Canadian developer (subsidiary of Norway's Varme Energy AS) bu
 
 ## History
 
+- **2026-10-24** — news mention: Hafslund Celsio: Se Oslos karbonfangstanlegg ta form! 🏗️   Du har kanskje fått med deg at vi bygger  ([source](https://www.linkedin.com/company/hafslund/#post-20b3e05ba135))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-04** — news mention: Varme: Over $40 billion of low-carbon projects in Canada are at risk. And the runway to save them is ([source](https://www.linkedin.com/company/varme-energy/#post-6e370cc0f926))
 - **2026-09-04** — news mention: Varme: Over $2.3 billion in clean fuel credit value has been leaking outside Canada to the US just s ([source](https://www.linkedin.com/company/varme-energy/#post-47018e9cacb8))

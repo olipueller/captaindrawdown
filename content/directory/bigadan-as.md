@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://bigadan.com/" target="_blank" rel="noopener">https://bigadan.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bigadan/" target="_blank" rel="noopener">bigadan — 4,644 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bigadan/" target="_blank" rel="noopener">bigadan</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~110 (+47% YoY)</td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
   <tr><th>Registry-verified</th><td>Isometric</td></tr>
 </table>
@@ -39,6 +39,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-15** — news mention: Bigadan A/S: Europe’s first full-scale carbon storage value chain is now live, with our portfolio co ([source](https://www.linkedin.com/company/bigadan/#post-3f96235a29e9))
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-09-04** — news mention: Bigadan A/S: THREE CO₂ PLANTS IN THREE YEARS – AND WE’RE JUST GETTING STARTED That was the message f ([source](https://www.linkedin.com/company/bigadan-a-s/#post-848d5c39b765))
 - **2026-08-28** — news mention: Bigadan A/S: FOLKEMÃDE ð§ Der blev talt meget om CCS pÃ¥ FolkemÃ¸det. Men hvordan gÃ¥r vi fra deb ([source](https://www.linkedin.com/company/bigadan-a-s/#post-ee93484eba3c))
@@ -68,7 +69,6 @@ Independently verified by carbon-credit registries:
 - **2026-04-19** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://theprint.in/environment/how-governments-can-finance-build-and-scale-the-carbon-dioxide-removal-industry/2163884/))
 - **2026-04-19** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://ens.dk/en/press/three-new-ccs-projects-have-been-pledged-support-capture-and-store-biogenic-co2))
 - **2026-04-18** — reclassified: pathway=BECCS focus=division liveliness=🟢 Active ([source](https://ens.dk/en/press/three-new-ccs-projects-have-been-pledged-support-capture-and-store-biogenic-co2))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://carbontosea.org/" target="_blank" rel="noopener">https://carbontosea.org/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbontosea/" target="_blank" rel="noopener">carbontosea — 7,401 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbontosea/" target="_blank" rel="noopener">carbontosea</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~18 (+38% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ Carbon to Sea Initiative is a non-profit research and development effort launche
 
 ## History
 
+- **2026-10-15** — news mention: Submarine Scientific: We’re excited to announce the launch of the OAE Data Commons, developed by Sub ([source](https://www.linkedin.com/company/submarinescientific/#post-37620dc0a6cf))
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-10-12** — news mention: Impacts of simulated coastal ocean alkalinity enhancement on the seasonal carbon cycle in European w ([source](https://doi.org/10.5194/esd-17-1513-2026))
 - **2026-10-09** — news mention: Carbon to Sea Initiative: Today, Submarine Scientific and Carbon to Sea are launching the OAE Data C ([source](https://www.linkedin.com/company/carbontosea/#post-574bea020646))
@@ -62,7 +63,6 @@ Carbon to Sea Initiative op ([source](https://www.linkedin.com/feed/update/urn:l
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
-- **2026-04-19** — refresh: coresignal, screenshot
 
 ---
 

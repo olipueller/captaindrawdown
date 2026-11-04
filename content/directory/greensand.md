@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://greensand.com/en" target="_blank" rel="noopener">https://greensand.com/en</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/greensand/" target="_blank" rel="noopener">greensand — 1,467 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/greensand/" target="_blank" rel="noopener">greensand</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~5 (0% YoY)</td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ greenSand is a Netherlands-based enhanced rock weathering supplier in Enkhuizen,
 
 ## History
 
+- **2026-10-15** — news mention: Bigadan A/S: Europe’s first full-scale carbon storage value chain is now live, with our portfolio co ([source](https://www.linkedin.com/company/bigadan/#post-3f96235a29e9))
 - **2026-10-09** — news mention: BioCirc: En festdag for CCS i Esbjerg BioCirc er største leverandør af biogen CO₂ til EU’s første fu ([source](https://www.linkedin.com/company/biocirc/#post-6bdbc48b01fb))
 - **2026-10-05** — news mention: Inherit: Two projects in operation in two countries! Last week, we started capturing CO2 from a biom ([source](https://www.linkedin.com/company/agero-carbon-solutions/#post-e6ad4b0968a4))
 - **2026-09-21** — news mention: Nordbex: I was genuinely moved when we arrived in Esbjerg and saw the CO₂ storage vessel Carbon Dest ([source](https://www.linkedin.com/company/nordbex/#post-1a908af128f3))
@@ -59,7 +60,6 @@ greenSand is a Netherlands-based enhanced rock weathering supplier in Enkhuizen,
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://greensand.com/en/blogs/news/greensand-japan))
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://greensand.com/en))
 
 ---
 

@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Malaysia</td></tr>
   <tr><th>Website</th><td><a href="https://www.reclimate.earth/" target="_blank" rel="noopener">https://www.reclimate.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/reclimateglobal/" target="_blank" rel="noopener">reclimateglobal — 2,834 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/reclimateglobal/" target="_blank" rel="noopener">reclimateglobal</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~13 (+225% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ Reclimate has several biochar projects in its portfolio, working with farmers an
 
 ## History
 
+- **2026-10-26** — news mention: Reclimate: A milestone for Reclimate in Indonesia🌱 We’re pleased to announce that the Nusantara Arch ([source](https://www.linkedin.com/company/reclimateglobal/#post-b340abbc5fa6))
 - **2026-09-20** — news mention: Reclimate: Reclimate and iPAGE Global Inc., through its Bangladesh-based agricultural intelligence a ([source](https://www.linkedin.com/company/reclimateglobal/#post-0b46db830d5f))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-08-15** — news mention: Reclimate: What was once left behind now has a new purpose. 🌽🌱 We’re excited to introduce the Blora  ([source](https://www.linkedin.com/company/reclimateglobal/#post-2d8f92d498ce))

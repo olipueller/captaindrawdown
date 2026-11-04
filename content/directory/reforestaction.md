@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Afforestation/Reforestation</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.reforestaction.com/" target="_blank" rel="noopener">https://www.reforestaction.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/reforest%27action/" target="_blank" rel="noopener">reforest%27action — 27,365 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/reforest%27action/" target="_blank" rel="noopener">reforest%27action</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~78 (-26% YoY)</td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -34,6 +34,7 @@ Reforest'Action is a French B-Corp founded in 2010 that has carried out over 1,5
 
 ## History
 
+- **2026-10-29** — news mention: Reforestaction: 🌳 Notre premier projet vérifié Label bas-carbone ! Le projet du Bois de la Côte de R ([source](https://www.linkedin.com/company/reforest%27action/#post-212f66f328a0))
 - **2026-10-15** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot

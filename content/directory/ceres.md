@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Afforestation</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.ceres-cert.de" target="_blank" rel="noopener">https://www.ceres-cert.de</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ceres-certification-of-environmental-standards-gmbh/" target="_blank" rel="noopener">ceres-certification-of-environmental-standards-gmbh — 3,509 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ceres-certification-of-environmental-standards-gmbh/" target="_blank" rel="noopener">ceres-certification-of-environmental-standards-gmbh</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~106 (+23% YoY)</td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ CERES (CERtification of Environmental Standards GmbH) is a German inspection and
 
 ## History
 
+- **2026-10-31** — news mention: Biodiversal: 2026 Q1: 6 clusters. 560 families. 72 production sites. From Pitalito (Huila) to Chapar ([source](https://www.linkedin.com/company/biodiversal/#post-a2497b8e5fe9))
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-09-28** — news mention: Biodiversal: 2026 Q1: 6 clusters. 560 families. 72 production sites. From Pitalito (Huila) to Chapar ([source](https://www.linkedin.com/company/biodiversal-biogrowth/#post-adc0b80d9dfe))
 - **2026-09-17** — news mention: Reverion: When great partners scale together, exciting things happen! Great to see the partnership b ([source](https://www.linkedin.com/company/reverion/#post-f2028d3cda61))

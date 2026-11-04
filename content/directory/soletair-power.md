@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>Finland</td></tr>
   <tr><th>Website</th><td><a href="https://www.soletairpower.fi/" target="_blank" rel="noopener">https://www.soletairpower.fi/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/soletair/" target="_blank" rel="noopener">soletair — 3,956 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/soletair/" target="_blank" rel="noopener">soletair</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~18</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ Soletair Power is a Finnish direct air capture company (founded 2016, HQ Lappeen
 
 ## History
 
+- **2026-10-18** — news mention: Soletair Power: EN FANTASTISK GRAND OPENING   I går indviede vi verdens første CO₂-fangstanlæg i en  ([source](https://www.linkedin.com/company/soletair/#post-05e8258d3cbe))
 - **2026-10-11** — news mention: Dotz Nano: 🚨 𝑭𝒓𝒐𝒎 𝒍𝒂𝒃 𝒕𝒐 𝒄𝒐𝒎𝒎𝒆𝒓𝒄𝒊𝒂𝒍 𝒓𝒆𝒂𝒍𝒊𝒕𝒚. We just signed a 2-year supply agreement with Soletair  ([source](https://www.linkedin.com/company/dotznano/#post-e54861e20334))
 - **2026-09-25** — news mention: 「ネガティブエミッション技術市場規模、成長と動向分析レポート 2026-2033年」の市場調査レポート出版・販売開始のご案内 | 株式会社SEMABIZのプレスリリース ([source](https://www.dreamnews.jp/press/0000363578))
 - **2026-09-15** — news mention: Scheduled to begin operations in 2028, this BECCS facility will capture, liquefy, and permanently st ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mvktgho3wc2n))

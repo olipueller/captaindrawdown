@@ -14,9 +14,9 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Method</th><td>Ocean Fertilization</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.sea-up.life/" target="_blank" rel="noopener">https://www.sea-up.life/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/the-sea-upwelling-company/" target="_blank" rel="noopener">the-sea-upwelling-company — 14 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/the-sea-upwelling-company/" target="_blank" rel="noopener">the-sea-upwelling-company</a></td></tr>
   <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
-  <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 

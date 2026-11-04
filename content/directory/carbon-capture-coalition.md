@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://carboncapturecoalition.org/" target="_blank" rel="noopener">https://carboncapturecoalition.org/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-capture-coalition/" target="_blank" rel="noopener">carbon-capture-coalition — 3,895 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-capture-coalition/" target="_blank" rel="noopener">carbon-capture-coalition</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~6</td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ The Carbon Capture Coalition is a US nonpartisan policy advocacy coalition conve
 
 ## History
 
+- **2026-10-29** — news mention: How to Foster a Direct Air Capture Cost ‘Miracle’: What DAC Can Learn from Solar ([source](https://kleinmanenergy.upenn.edu/research/publications/how-to-foster-a-direct-air-capture-cost-miracle-what-dac-can-learn-from-solar/))
 - **2026-10-10** — news mention: Carbon Capture Coalition: ADM is preparing to enter the voluntary carbon removal market with a new o ([source](https://www.linkedin.com/company/carbon-capture-coalition/#post-ee7de7609525))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-04** — news mention: Carbon Capture Coalition: Project Brighton is now operational. Our largest operating deployment to d ([source](https://www.linkedin.com/company/carbon-capture-coalition/#post-89daccec66c0))

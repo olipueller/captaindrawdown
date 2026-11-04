@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://www.fluxcarbon.earth/" target="_blank" rel="noopener">https://www.fluxcarbon.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/flux-carbon/" target="_blank" rel="noopener">flux-carbon — 3,624 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/flux-carbon/" target="_blank" rel="noopener">flux-carbon</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~12 (-20% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,9 @@ Flux is a Nairobi-based enhanced rock weathering startup spreading crushed basal
 
 ## History
 
+- **2026-10-30** — news mention: Settling-driven Rayleigh–Taylor instability in a pre-existing turbulent field ([source](https://doi.org/10.31223/x5jj8x))
+- **2026-10-26** — news mention: The effects of silicate mineral dissolution on seagrass functioning: Assessing olivine-based approac ([source](https://cdrxiv.org/preprint/568))
+- **2026-10-24** — news mention: Marine Carbon Dioxide Removal under Overshoot Conditions: A Multi-Model Assessment of Efficiency and ([source](https://doi.org/10.5194/egusphere-2026-5784))
 - **2026-10-15** — refresh: coresignal
 - **2026-10-15** — refresh: coresignal
 - **2026-10-12** — news mention: Observational and model data from Planetary's TC26.1 Ocean Alkalinity Enhancement dosing period in H ([source](https://doi.org/10.5281/zenodo.20088387))
@@ -58,9 +61,6 @@ Flux is a Nairobi-based enhanced rock weathering startup spreading crushed basal
 - **2026-08-22** — news mention: Emilia Jankowska just published the first field trial dosing live oysters with olivine for marine en ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mtnivj7tey2z))
 - **2026-08-22** — news mention: The Swiss Carbon Removal Platform: 📣 Big news for ocean alkalinity enhancement (OAE): the Carbon to  ([source](https://www.linkedin.com/company/swiss-carbon-removal-platform/#post-b3d591bbc5ef))
 - **2026-08-19** — news mention: Part 2 of our XXL Lysimeter Experiment left the leachate data flat. Part 3 turns to the buried senso ([source](https://bsky.app/profile/dpaessler.bsky.social/post/3mtgruuzq4s2a))
-- **2026-08-16** — news mention: The Carbon Drawdown Initiative's German basalt trial hit day 1,400 with no CO2 removal signal above  ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mt6gah6tif2p))
-- **2026-08-15** — news mention: Tamu group: 📣 Happy news from our alumni community! During London Climate Action Week, four remove a ([source](https://www.linkedin.com/company/tamugroup/#post-a0bd3a473e47))
-- **2026-08-15** — refresh: coresignal
 
 ---
 

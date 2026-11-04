@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Austria</td></tr>
   <tr><th>Website</th><td><a href="https://www.biomassehof.at/energiewerk-ilg/" target="_blank" rel="noopener">https://www.biomassehof.at/energiewerk-ilg/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/energiewerk-ilg/" target="_blank" rel="noopener">energiewerk-ilg — 275 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/energiewerk-ilg/" target="_blank" rel="noopener">energiewerk-ilg</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~30</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -33,6 +33,7 @@ EnergieWerk Ilg GmbH is a family-owned regional energy utility in Dornbirn, Vora
 
 ## History
 
+- **2026-10-17** — news mention: EnergieWerk Ilg GmbH: First Fire in der Energiezentrale Wallenmahd 🔥 Nach rund drei Jahren Planung u ([source](https://www.linkedin.com/company/energiewerk-ilg/#post-ad84deebca5e))
 - **2026-09-08** — news mention: EnergieWerk Ilg GmbH: Neues Heizwerk Wallenmahd: Investition in eine zukunftsorientierte WÃ¤rmeverso ([source](https://www.linkedin.com/company/energiewerk-ilg/#post-b7cdfdf0a0f8))
 - **2026-08-15** — refresh: coresignal, liveliness
 - **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](registry_activity))

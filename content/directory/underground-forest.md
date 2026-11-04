@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>BiCRS (Other)</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://www.undergroundforest.nl" target="_blank" rel="noopener">https://www.undergroundforest.nl</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/underground-forest-b-v/" target="_blank" rel="noopener">underground-forest-b-v — 223 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/underground-forest-b-v/" target="_blank" rel="noopener">underground-forest-b-v</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~6</td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ Underground Forest BV is a Rotterdam-based CDR company founded in 2023 by Kees d
 
 ## History
 
+- **2026-11-04** — news mention: Underground Forest: What if one of the most valuable climate assets in a city is the part nobody eve ([source](https://www.linkedin.com/company/underground-forest-b-v/#post-78d031c9a57d))
 - **2026-10-03** — news mention: Underground Forest: Underground Forest is working on a Rainbow certification, under the Biobased Con ([source](https://www.linkedin.com/company/underground-forest-b-v/#post-1b9e564ef7c6))
 - **2026-09-21** — news mention: Carbon Lockdown: Tour of Europe, July 2, near Rotterdam, the Netherlands ➡️ 26% of the Netherlands i ([source](https://www.linkedin.com/company/carbon-lockdown/#post-4f2376789ae5))
 - **2026-09-15** — refresh: coresignal, screenshot

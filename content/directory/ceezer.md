@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>CDR Platform/Marketplace</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.ceezer.earth/" target="_blank" rel="noopener">https://www.ceezer.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ceezer/" target="_blank" rel="noopener">ceezer — 10,354 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ceezer/" target="_blank" rel="noopener">ceezer</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~72 (+22% YoY)</td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>4 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -34,6 +34,12 @@ CEEZER is a Berlin-based B2B enterprise platform and marketplace connecting corp
 
 ## History
 
+- **2026-10-20** — news mention: GEVO Stock Slips Despite Signing 3-Year Carbon Credit Supply Agreement With CEEZER • Carbon Credits ([source](https://carboncredits.com/gevo-stock-slips-despite-signing-3-year-carbon-credit-supply-agreement-with-ceezer/))
+- **2026-10-20** — news mention: 🥨 Munich Climate Week is underway, and Carbon Dioxide Remov ([source](https://www.linkedin.com/feed/update/urn:li:share:7518225992646250496/))
+- **2026-10-16** — news mention: Ceezer: CEEZER is supporting Gevo, Inc. in its first multi-year supply agreement for its BECCS carbo ([source](https://www.linkedin.com/company/ceezer/#post-f95293c64f99))
+- **2026-10-16** — news mention: Gevo: A project like Gevo North Dakota (GND) that’s delivering today is a great candidate to trust t ([source](https://www.linkedin.com/company/gevo/#post-dff393af1dae))
+- **2026-10-15** — news mention: Gevo Signs First Multi-Year Carbon Removal Credit Supply Deal ([source](https://carbonherald.com/gevo-signs-first-multi-year-carbon-removal-credit-supply-deal/?utm_source=rss&utm_medium=rss&utm_campaign=gevo-signs-first-multi-year-carbon-removal-credit-supply-deal))
+- **2026-10-15** — news mention: Gevo signs three-year carbon removal credit deal via CEEZER ([source](https://www.streetinsider.com/Corporate+News/Gevo+signs+three-year+carbon+removal+credit+deal+via+CEEZER/27184162.html))
 - **2026-10-14** — news mention: Gevo Announces First Multi-Year Carbon Removal Credits Supply Agreement Through CEEZER | INN ([source](https://investingnews.com/gevo-announces-first-multi-year-carbon-removal-credits-supply-agreement-through-ceezer/))
 - **2026-10-14** — news mention: Gevo Announces First Multi-Year Carbon Removal Credits Supply Agreement Through CEEZER | The Manila  ([source](https://www.manilatimes.net/2026/10/14/tmt-newswire/globenewswire/gevo-announces-first-multi-year-carbon-removal-credits-supply-agreement-through-ceezer/2445547))
 - **2026-10-14** — news mention: Gevo Announces First Multi-Year Carbon Removal Credits Supply Agreement Through CEEZER | FinancialCo ([source](https://www.financialcontent.com/article/gnwcq-2026-10-14-gevo-announces-first-multi-year-carbon-removal-credits-supply-agreement-through-ceezer))

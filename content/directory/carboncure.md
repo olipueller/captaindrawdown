@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Carbon Utilization</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.carboncure.com/" target="_blank" rel="noopener">https://www.carboncure.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carboncure-technologies/" target="_blank" rel="noopener">carboncure-technologies — 37,300 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carboncure-technologies/" target="_blank" rel="noopener">carboncure-technologies</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~87 (+4% YoY)</td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>4 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -34,6 +34,9 @@ CarbonCure Technologies is a Halifax, Canada-based carbon utilization company th
 
 ## History
 
+- **2026-10-27** — news mention: Carbon Capture Market Trends And Forecast Analysis Reveal Strong Long-Term Potential ([source](https://www.einpresswire.com/article/951776681/carbon-capture-market-trends-and-forecast-analysis-reveal-strong-long-term-potential))
+- **2026-10-22** — news mention: Find a Producer - CarbonCure Technologies Inc. ([source](https://www.carboncure.com/producers/))
+- **2026-10-22** — news mention: We're got 12M reasons to smile today!  😁😁😁😁😁😁😁😁😁😁😁😁  Today, our concrete producer partners around th ([source](https://bsky.app/profile/carboncure.bsky.social/post/3myi4hlvpp222))
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-10-09** — news mention: Does Tom Cruise drive an EV, have PV on his properties, and offset the emissions from his air travel ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mxhbvqsxvk2x))
 - **2026-09-28** — news mention: Carbon Dioxide Removal Market Is Going to Boom |• Climeworks • Carbon Engineering • Global CCS Insti ([source](https://www.openpr.com/news/4645712/carbon-dioxide-removal-market-is-going-to-boom-climeworks))
@@ -61,9 +64,6 @@ CarbonCure Technologies is a Halifax, Canada-based carbon utilization company th
 - **2026-05-23** — news mention: @Sammy_Roth I kept thinking: no book saves the world. The harder part is building the institutional  ([source](https://x.com/makinggovq/status/2058127087651672315))
 - **2026-05-22** — news mention: Hold on. Before you purchase any nature-based #Offsets, what about certainty?   CarbonCure #CarbonCr ([source](https://bsky.app/profile/carboncure.bsky.social/post/3mmhfsqfjr22e))
 - **2026-05-21** — news mention: Republicans want federal regulators to remove the requirement for Clean Air Act permits before const ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mmejwz5qn22f))
-- **2026-05-20** — news mention: CarbonCure Carbon Credits - CarbonCure Technologies Inc. ([source](https://www.carboncure.com/carbon-credits/))
-- **2026-05-20** — news mention: Happy #WorldBeeDay! 🐝 At #CarbonCure, we bee-lieve small changes build into big results. Over the pa ([source](https://x.com/CarbonCure/status/2057132812667416624))
-- **2026-05-01** — refresh: coresignal, screenshot
 
 ---
 

@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Membrane)</td></tr>
   <tr><th>Country</th><td>Israel</td></tr>
   <tr><th>Website</th><td><a href="https://www.repair-carbon.com/" target="_blank" rel="noopener">https://www.repair-carbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/repair-carbon/" target="_blank" rel="noopener">repair-carbon — 10,338 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/repair-carbon/" target="_blank" rel="noopener">repair-carbon</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~43 (+6% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ Founded in 2020, RepAir Carbon develops an ultra-efficient electrochemical syste
 
 ## History
 
+- **2026-10-30** — news mention: Earth Repair Global: A year ago, we commissioned Alithic's demonstration facility in Madison, Wiscon ([source](https://www.linkedin.com/company/earth-repair/#post-e14b14926baa))
 - **2026-10-01** — news mention: RepAir: Our technology has been peer-reviewed in Nature Energy, published yesterday with the Univers ([source](https://www.linkedin.com/company/repair-carbon/#post-4a25ca326399))
 - **2026-09-25** — news mention: 「ネガティブエミッション技術市場規模、成長と動向分析レポート 2026-2033年」の市場調査レポート出版・販売開始のご案内 | 株式会社SEMABIZのプレスリリース ([source](https://www.dreamnews.jp/press/0000363578))
 - **2026-09-24** — news mention: Good news in terms of the scale-up of Direct Air Capture deployment:  RepAir Carbon published peer-r ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mwbhboxtyc2v))

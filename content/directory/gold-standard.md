@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.goldstandard.org/" target="_blank" rel="noopener">https://www.goldstandard.org/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/gold-standard/" target="_blank" rel="noopener">gold-standard — 57,375 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/gold-standard/" target="_blank" rel="noopener">gold-standard</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~112 (+16% YoY)</td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,9 @@ Gold Standard is a non-profit carbon credit certification standard and registry 
 
 ## History
 
+- **2026-11-03** — news mention: Gold Standard Unveils First Biochar Methodology For Projects Of All Scales ([source](https://carbonherald.com/gold-standard-unveils-first-biochar-methodology-for-projects-of-all-scales/?utm_source=rss&utm_medium=rss&utm_campaign=gold-standard-unveils-first-biochar-methodology-for-projects-of-all-scales))
+- **2026-10-15** — news mention: CP Daily Newsletter: Wednesday October 14, 2026 « Carbon Pulse ([source](https://carbon-pulse.com/560337/))
+- **2026-10-15** — news mention: Combined Verra, Gold Standard carbon credit retirements down 9% in H1 2026 -report « Carbon Pulse ([source](https://carbon-pulse.com/560555/))
 - **2026-10-14** — news mention: CarbonMeld: Gold Standard has revised Paris alignment rules for 2026 vintages, easing the transition ([source](https://www.linkedin.com/company/carbonmeld/#post-c778bdeb3c7d))
 - **2026-10-13** — news mention: South Pole: Verified carbon removals generated in Europe have always been hard for corporate buyers  ([source](https://www.linkedin.com/company/south-pole-/#post-e056fedf97e7))
 - **2026-10-12** — news mention: Carbon Farming Market Size, Trends & Forecast, 2026-2033 ([source](https://www.coherentmarketinsights.com/industry-reports/carbon-farming-market))
@@ -57,9 +60,6 @@ Gold Standard is a non-profit carbon credit certification standard and registry 
 - **2026-08-13** — news mention: Removall Carbon: 💧 A new milestone for the Pungue Clean Water Project, the project has successfully  ([source](https://www.linkedin.com/company/removall-carbon/#post-d824de93f0d9))
 - **2026-08-12** — news mention: Andes: Weâre excited to share that Gold Standardâs Microbial Carbon Dioxide Mineralisation metho ([source](https://www.linkedin.com/company/andesag/#post-cfd693e3273f))
 - **2026-08-06** — news mention: Phlair: Interview: EU should reform #ETS to include direct air capture, the “gold standard” for remo ([source](https://www.linkedin.com/company/phlair/#post-9e960680a651))
-- **2026-08-04** — news mention: Gold Standard: ð July technical round-up  Carbon markets are evolving quickly, with rising integr ([source](https://www.linkedin.com/company/gold-standard/#post-a76823a92e29))
-- **2026-07-29** — news mention: Andes: New carbon dioxide removal methodology published! Gold Standard has released a Microbial Carb ([source](https://www.linkedin.com/company/andesag/#post-b196a23ec4b5))
-- **2026-07-29** — news mention: Andes: We’re excited to share that Gold Standard’s Microbial Carbon Dioxide Mineralisation methodolo ([source](https://www.linkedin.com/company/andesag/#post-183b4a500557))
 
 ---
 

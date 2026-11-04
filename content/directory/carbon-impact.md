@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbon-impact.net/" target="_blank" rel="noopener">https://www.carbon-impact.net/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-impact-france/" target="_blank" rel="noopener">carbon-impact-france — 1,089 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-impact-france/" target="_blank" rel="noopener">carbon-impact-france</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~4 (+33% YoY)</td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ Carbon Impact is a French carbon removal project developer, co-founded by energy
 
 ## History
 
+- **2026-10-15** — news mention: Truecoco Ghana: We are pleased to announce that Truecoco Ghana, Tikobo One has been assigned a Sylve ([source](https://www.linkedin.com/company/truecoco-ghana-ltd/#post-2eba577641a0))
 - **2026-09-15** — news mention: BELOW2 Inc.: BELOW2 has published version 2.0 of the BELOW2 Standard and opened it for public commen ([source](https://www.linkedin.com/company/below2/#post-69959f977fd5))
 - **2026-09-06** — news mention: Carbon Impact SAS: Les Ã©missions nÃ©gatives et en particulier le BioCCS progressent en Europe ! â  ([source](https://www.linkedin.com/company/carbon-impact-france/#post-563bb58451de))
 - **2026-09-06** — news mention: Carbon Impact: Ein entscheidender Meilenstein fÃ¼r unser BECCS-Projekt: Die gesamte Prozesskette fun ([source](https://www.linkedin.com/company/carbon-impact-france/#post-734a9121c854))
@@ -58,7 +59,6 @@ Carbon Impact is a French carbon removal project developer, co-founded by energy
 - **2026-04-19** — url added from cdr.fyi supplier page: http://www.carbon-impact.net ([source](https://www.cdr.fyi/supplier/carbon-impact-sas))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/carbon-impact-sas))
 - **** — merged duplicate: Carbon Impact SAS (slug=carbon-impact-sas)
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.carbon-impact.net/monetise-co2/))
 
 ---
 

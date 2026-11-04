@@ -30,6 +30,11 @@ Carbon Cycle GmbH & Co. KG is a biochar producer based in Rieden, Bavaria, Germa
 
 ## History
 
+- **2026-11-01** — news mention: Biochar not only interrupts the carbon cycle by sequestering carbon. Biochar soil amendment retains  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mzb3qm62zc2q))
+- **2026-10-30** — news mention: Artificial upwelling via Stommel pipes under present and future climate conditions: an Earth system  ([source](https://doi.org/10.3389/fclim.2026.1938661))
+- **2026-10-24** — news mention: Marine Carbon Dioxide Removal under Overshoot Conditions: A Multi-Model Assessment of Efficiency and ([source](https://doi.org/10.5194/egusphere-2026-5784))
+- **2026-10-18** — news mention: A REVIEW ON SOIL CARBON FUTURES: INDIAN RESEARCH PATHWAYS FOR SOIL HEALTH, CARBON SEQUESTRATION AND  ([source](https://doi.org/10.4238/wq5whq93))
+- **2026-10-18** — news mention: Weathering-derived calcium supports carbon storage in grassland soils ([source](https://doi.org/10.1038/s43247-026-04142-2))
 - **2026-10-12** — news mention: Impacts of simulated coastal ocean alkalinity enhancement on the seasonal carbon cycle in European w ([source](https://doi.org/10.5194/esd-17-1513-2026))
 - **2026-10-06** — news mention: Assessing tipping-point risk in carbon dioxide removal with a network-based framework ([source](https://doi.org/10.20517/cf.2026.70))
 - **2026-09-30** — news mention: Grounding the Genuine Progress Indicator in Exergy: A First-Principles Physical Accounting Framework ([source](https://doi.org/10.5281/zenodo.22971365))
@@ -55,11 +60,6 @@ Carbon Cycle GmbH & Co. KG is a biochar producer based in Rieden, Bavaria, Germa
 - **2026-07-21** — news mention: Bacillus subtilis-mediated weathering of basalt revealed through sporulation ([source](https://cdrxiv.org/preprint/480))
 - **2026-07-19** — news mention: The Marine Carbon Pathway Framework (MCPF): A Standardised Framework for Assessing Natural Marine Ca ([source](https://doi.org/10.5281/zenodo.21410819))
 - **2026-07-18** — news mention: I'll point out to people that these new cleaner NH3 production facilities significantly alter the ma ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqwftwre622t))
-- **2026-07-17** — news mention: I will point out that it is now possible to purchase 115 kg of CO2 removal via biochar for only $27  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqu4mncxlc2t))
-- **2026-07-17** — news mention: Even if the theoretical physics minimum to pull CO2 from air at ~420 ppm of about 20 kJ/mol, roughly ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqu36rb6jc2t))
-- **2026-07-13** — news mention: Since you have demonstrated how ignorant you are with your bachelor's from an Ivy League school has  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqjl5patac2k))
-- **2026-07-05** — news mention: Read the full story 👇 https://t.co/uEZwn4pMNd ([source](https://x.com/CekirdekGLOBAL/status/2073667715387052204))
-- **2026-07-04** — news mention: Most of the opposition to Carbon Dioxide Removal from climate action advocates is because of the fra ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mptrrjk5zs2h))
 
 ---
 

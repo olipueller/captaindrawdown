@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.awn-online.de/" target="_blank" rel="noopener">https://www.awn-online.de/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/kwin-kreislaufwirtschaft-neckar-odenwald-a%C3%B6r/" target="_blank" rel="noopener">kwin-kreislaufwirtschaft-neckar-odenwald-a%C3%B6r — 32 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/kwin-kreislaufwirtschaft-neckar-odenwald-a%C3%B6r/" target="_blank" rel="noopener">kwin-kreislaufwirtschaft-neckar-odenwald-a%C3%B6r</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~30 (+50% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 

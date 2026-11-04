@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.onnu.com/" target="_blank" rel="noopener">https://www.onnu.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/onnuhq/" target="_blank" rel="noopener">onnuhq — 1,645 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/onnuhq/" target="_blank" rel="noopener">onnuhq</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~15 (+25% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ Onnu is a UK-headquartered project developer and technology provider that builds
 
 ## History
 
+- **2026-10-27** — news mention: Onnu: We’re pleased to announce that, following a rigorous validation of our CarboFlow technology, O ([source](https://www.linkedin.com/company/onnuhq/#post-21cbe8dd2c30))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-13** — news mention: Onnu: Another household name is backing biochar 🍃  PayPal is continuing to build a diversified carbo ([source](https://www.linkedin.com/company/onnuhq/#post-cfca6d15d35a))
 - **2026-07-24** — news mention: Onnu: The US biochar market has tripled in value. 🚀 The American Biochar Institute recently released ([source](https://www.linkedin.com/company/onnuhq/#post-d17820e631f4))

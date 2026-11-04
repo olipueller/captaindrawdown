@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Enabling Tech</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://verra.org" target="_blank" rel="noopener">https://verra.org</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/verrastandards/" target="_blank" rel="noopener">verrastandards — 98,225 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/verrastandards/" target="_blank" rel="noopener">verrastandards</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~299 (+4% YoY)</td></tr>
+  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -29,6 +29,15 @@ Verra is a Washington, DC-based nonprofit that operates the Verified Carbon Stan
 
 ## History
 
+- **2026-10-27** — news mention: Nuffield Scholar Reports Back On Biochar’s Potential ([source](https://www.global-agriculture.com/global-agriculture/nuffield-scholar-reports-back-on-biochars-potential/))
+- **2026-10-27** — news mention: ADM: ADM is making investments in its Columbus, Nebraska, ethanol plant that are expected to add 20  ([source](https://www.linkedin.com/company/adm/#post-2e622a55e5c9))
+- **2026-10-24** — news mention: CarbiCrete: CarbiCrete is proud to share that our carbon removals are some of the earliest verified  ([source](https://www.linkedin.com/company/carbicrete/#post-4559c307dc65))
+- **2026-10-23** — news mention: Grow Indigo: Project Ragini (VCS 4768) is now registered under Verra's VM0042 methodology for Improv ([source](https://www.linkedin.com/company/grow-indigo-pvt-ltd/#post-aea1783bfef4))
+- **2026-10-18** — news mention: CarbonPool: Big News! CarbonPool and Oka, The Carbon Insurance Company® are announcing today the fir ([source](https://www.linkedin.com/company/carbonpool/#post-1d43230a3a81))
+- **2026-10-15** — news mention: Australian research agency building A$10.2 mln DAC materials centre « Carbon Pulse ([source](https://carbon-pulse.com/560532/))
+- **2026-10-15** — news mention: Carbon Insurance Breakthrough Could Free Up Carbon Credits For Sale ([source](https://carbonherald.com/carbon-insurance-breakthrough-could-free-up-carbon-credits-for-sale/?utm_source=rss&utm_medium=rss&utm_campaign=carbon-insurance-breakthrough-could-free-up-carbon-credits-for-sale))
+- **2026-10-15** — news mention: UK warns funding constraints could slow next phase of carbon capture rollout « Carbon Pulse ([source](https://carbon-pulse.com/560523/))
+- **2026-10-15** — news mention: Combined Verra, Gold Standard carbon credit retirements down 9% in H1 2026 -report « Carbon Pulse ([source](https://carbon-pulse.com/560555/))
 - **2026-10-15** — refresh: screenshot
 - **2026-10-14** — news mention: Euro Markets: Midday Update « Carbon Pulse ([source](https://archive.li/Ymo5Q))
 - **2026-10-14** — news mention: Verra: 💡 Public consultation ends soon! Share your feedback on the draft Module for Post-Combustion  ([source](https://www.linkedin.com/company/verrastandards/#post-d792b825bfc5))
@@ -50,15 +59,6 @@ Verra is a Washington, DC-based nonprofit that operates the Verified Carbon Stan
 - **2026-09-07** — news mention: Enable Earth: New Post: Enable Earth Establishes Industrial Biochar Operations in Thailand to Transf ([source](https://www.linkedin.com/company/enable-earth/#post-45dd63ec268c))
 - **2026-09-04** — news mention: Verra’s Latest Carbon Standard Gains Eligibility Under ICVCM’s Core Principles ([source](https://carbonherald.com/verras-latest-carbon-standard-gains-eligibility-under-icvcms-core-principles/?utm_source=rss&utm_medium=rss&utm_campaign=verras-latest-carbon-standard-gains-eligibility-under-icvcms-core-principles))
 - **2026-09-04** — news mention: Ruuts: IMPORTANT NEWS: We have reached a major milestone for regenerative agriculture in South Ameri ([source](https://www.linkedin.com/company/ruutsnetwork/#post-859dcde3e2c9))
-- **2026-09-02** — news mention: Gold Standard: Carbon markets are evolving quickly, with rising integrity expectations. Here are our ([source](https://www.linkedin.com/company/gold-standard/#post-e25e47dea997))
-- **2026-08-31** — news mention: AspiraDAC: An Australian-pioneered approach to savanna fire management is gaining global momentum. I ([source](https://www.linkedin.com/company/aspiradac/#post-5ab2febacf01))
-- **2026-08-28** — news mention: BlueLayer: Congratulations to Permian Global on a milestone issuance from their Katingan Mentaya Pro ([source](https://www.linkedin.com/company/getbluelayer/#post-19d3993700e4))
-- **2026-08-28** — news mention: CarbonPool: We are live! Our Reversal Insurance Policy is officially approved by Verra under the Dur ([source](https://www.linkedin.com/company/carbonpool/#post-61ec18ed1398))
-- **2026-08-28** — news mention: Ruuts: For the first time, a regenerative grazing program in South America at scale is paying farmer ([source](https://www.linkedin.com/company/ruutsnetwork/#post-e40fd2820b1d))
-- **2026-08-28** — news mention: Ruuts: Our carbon program SARA reached a new milestone: we made the first carbon credit payments, wi ([source](https://www.linkedin.com/company/ruutsnetwork/#post-e5257e2e5a72))
-- **2026-08-26** — news mention: Verra Authorizes Artio Insurance Policy For VCS Durability Pilot ([source](https://carbonherald.com/verra-authorizes-artio-insurance-policy-for-vcs-durability-pilot/?utm_source=rss&utm_medium=rss&utm_campaign=verra-authorizes-artio-insurance-policy-for-vcs-durability-pilot))
-- **2026-08-25** — news mention: Verra: 🔢 Gold Standard and Verra have launched a new tool to help host countries report correspondin ([source](https://www.linkedin.com/company/verrastandards/#post-009dc314f731))
-- **2026-08-25** — news mention: Verra: ⚡ Verra has released updated versions (v1.1) of Verified Carbon Standard (VCS) methodology VM ([source](https://www.linkedin.com/company/verrastandards/#post-c05d1b9c00d5))
 
 ---
 

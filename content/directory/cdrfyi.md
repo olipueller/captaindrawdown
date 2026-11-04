@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Enabling Tech</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://cdr.fyi" target="_blank" rel="noopener">https://cdr.fyi</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cdr-fyi/" target="_blank" rel="noopener">cdr-fyi — 17,632 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cdr-fyi/" target="_blank" rel="noopener">cdr-fyi</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~26</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -29,6 +29,11 @@ CDR.fyi is a market intelligence and data platform for the durable carbon dioxid
 
 ## History
 
+- **2026-11-04** — news mention: Wakefield BioChar: Wakefield BioChar ranks sixth globally on CDR.fyi ’s all-time leaderboard for dur ([source](https://www.linkedin.com/company/wakefieldbiochar/#post-aabd27fbf499))
+- **2026-11-01** — news mention: ClimeFi: Lenders are increasingly willing to provide debt financing to carbon removal projects, part ([source](https://www.linkedin.com/company/carbonx-world/#post-a8fe4eb97a13))
+- **2026-10-20** — news mention: Types of CDR Purchases: A New Section in the CDR.fyi Buyer&#x27;s Guide ([source](https://www.cdr.fyi/blog/types-of-cdr-purchases-buyers-guide))
+- **2026-10-16** — news mention: Supercritical: Most companies buying removal this year will find in December that the tonnes they wa ([source](https://www.linkedin.com/company/gosupercritical/#post-da98ca0c6040))
+- **2026-10-16** — news mention: Gevo: A project like Gevo North Dakota (GND) that’s delivering today is a great candidate to trust t ([source](https://www.linkedin.com/company/gevo/#post-dff393af1dae))
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-10-13** — news mention: 🚨 Big CDR Deal Alert! 🚨 FS Fueling Sustainability &lt;&gt; Freepoint Commodities  ([source](https://www.cdr.fyi/blog/cdr-deal-alert-2026-06-22))
 - **2026-10-13** — news mention: The scarcest thing in carbon removal is now a delivery record | illuminem ([source](https://illuminem.com/illuminemvoices/the-scarcest-thing-in-carbon-removal-is-now-a-delivery-record))
@@ -54,11 +59,6 @@ CDR.fyi is a market intelligence and data platform for the durable carbon dioxid
 - **2026-08-26** — news mention: CDR.fyi: 🔬 Over $12 million in CDR research funding was announced in a single week. Last week, Googl ([source](https://www.linkedin.com/company/cdr-fyi/#post-fbf852de8dd5))
 - **2026-08-26** — news mention: CDR.fyi: 📰 This week saw some key developments in durable CDR, Senken and Carbonsate signed a biomas ([source](https://www.linkedin.com/company/cdr-fyi/#post-820fc0e77248))
 - **2026-08-26** — news mention: CDR.fyi: 🌊 Carbon to Sea Initiative has opened two new calls for proposals focused on ocean alkalini ([source](https://www.linkedin.com/company/cdr-fyi/#post-b5096559d653))
-- **2026-08-20** — news mention: ClimeFi: In Q2 this year, seven new buyers made their first carbon removal commitment. Notably, the  ([source](https://www.linkedin.com/company/carbonx-world/#post-c5c559524666))
-- **2026-08-19** — news mention: CDR.fyi: 📣 Google opens applications for $6M research funding program 🔬 If you're working on researc ([source](https://www.linkedin.com/company/cdr-fyi/#post-2a4cc910e556))
-- **2026-08-19** — news mention: CDR.fyi: 🌍 It's August 2026. How confident are you in the durable CDR market right now? July was slo ([source](https://www.linkedin.com/company/cdr-fyi/#post-a0c497a2cd45))
-- **2026-08-19** — news mention: CDR.fyi: 📰 This week key developments in durable CDR, as Google launched a $6M R&amp;D funding progr ([source](https://www.linkedin.com/company/cdr-fyi/#post-eb2f00f07a45))
-- **2026-08-19** — news mention: CDR.fyi: 📣 The CDR pavilion is returning to COP31 and applications for session slots are now open. T ([source](https://www.linkedin.com/company/cdr-fyi/#post-0afe5a1e2473))
 
 ---
 

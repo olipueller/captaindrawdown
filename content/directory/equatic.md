@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Liquid Solvent)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.equatic.tech/" target="_blank" rel="noopener">https://www.equatic.tech/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/equatic-tech/" target="_blank" rel="noopener">equatic-tech — 4,892 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/equatic-tech/" target="_blank" rel="noopener">equatic-tech</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~19 (+27% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -35,6 +35,7 @@ Equatic is a carbon removal company combining carbon dioxide removal and green h
 
 ## History
 
+- **2026-11-02** — news mention: Equatic: Equatic's Singapore demonstration plant, Equatic-1, has been endorsed as a UN Ocean Decade  ([source](https://www.linkedin.com/company/equatic-tech/#post-8c1b62fb1374))
 - **2026-08-28** — news mention: Equatic: Equatic's Singapore demonstration plant, Equatic-1, has been endorsed as a UN Ocean Decade  ([source](https://www.linkedin.com/company/equatic-tech/#post-8b65d23acaa0))
 - **2026-08-15** — refresh: coresignal
 - **2026-07-23** — news mention: Equatic: Equatic's Singapore demonstration plant, Equatic-1, has been endorsed as a UN Ocean Decade  ([source](https://www.linkedin.com/company/equatic-tech/#post-c0e080253003))

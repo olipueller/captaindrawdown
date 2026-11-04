@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://remove.global/" target="_blank" rel="noopener">https://remove.global/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/remove-accelerator/" target="_blank" rel="noopener">remove-accelerator — 9,492 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/remove-accelerator/" target="_blank" rel="noopener">remove-accelerator</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~28 (+27% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,26 @@ remove is a non-profit accelerator program focused solely on carbon dioxide remo
 
 ## History
 
+- **2026-11-03** — news mention: Orca (carbon capture plant) - Wikipedia ([source](https://en.wikipedia.org/wiki/Orca_(carbon_capture_plant)))
+- **2026-11-02** — news mention: Biochar Life Updates, Team, and Funding Progress | Wefunder, Home of the Community Round ([source](https://wefunder.com/biocharlife))
+- **2026-10-31** — news mention: COP31 could broach carbon removals following UN declaration of 1.5C overshoot, says Oxford academic  ([source](https://carbon-pulse.com/566164/))
+- **2026-10-31** — news mention: Buy and Sell Heirloom Carbon Technologies Stock, $695.67M Valuation - Forge ([source](https://forgeglobal.com/heirloom-carbon-technologies_stock/))
+- **2026-10-30** — news mention: Evidence for temporal decoupling of olivine weathering and inorganic carbon removal in unsaturated s ([source](https://doi.org/10.3389/fclim.2026.1964775))
+- **2026-10-30** — news mention: The Role and Institutional Impacts of Carbon Dioxide Removal Technologies in Climate Governance ([source](https://doi.org/10.54254/2753-7048/2026.jo38365))
+- **2026-10-28** — news mention: Eight years of emissions: The scale of CO2 removal needed to restore 1.5°C- Moneycontrol.com ([source](https://www.moneycontrol.com/world/eight-years-of-emissions-the-scale-of-co2-removal-needed-to-restore-1-5-c-article-14061252.html))
+- **2026-10-27** — news mention: A million tonnes of rock are set to be spread on farms in the US and Brazil to remove carbon. ([source](https://www.stocktitan.net/news/HASI/terradot-and-hasi-close-34m-investment-for-carbon-removal-pk8dld3l3lx5.html))
+- **2026-10-22** — news mention: From Weather to Enhanced Weathering: Weather Foundation Models for Carbon Dioxide Removal at Operati ([source](https://arxiv.org/abs/2610.28973v1))
+- **2026-10-20** — news mention: Frontier inks $11.7m CO2 removal deal to advance rock-based storage | Carbon Capture ([source](https://www.gasworld.com/story/frontier-inks-11-7m-co2-removal-deal-to-advance-rock-based-storage/2262257.article/))
+- **2026-10-19** — news mention: Oman's 44.01 secures $11.7mln carbon-removal offtake deals ([source](https://www.sustainableconstruction-now.com/article/555865/omans-44.01-secures-11.7mln-carbonremoval-offtake-deals))
+- **2026-10-19** — news mention: Recoal: REACT-𝟮 has arrived! REACT, short for Recoal Advanced Carbonization Technology, is the platf ([source](https://www.linkedin.com/company/recoal-net/#post-587cb3373594))
+- **2026-10-18** — news mention: Oman’s 44.01 secures $11.7mn carbon-removal offtake deals ([source](https://www.muscatdaily.com/2026/10/18/omans-44-01-secures-11-7mn-carbon-removal-offtake-deals/))
+- **2026-10-18** — news mention: Frontier Backs 44.01's Carbon Mineralization Tech in UAE ([source](https://www.winssolutions.org/frontier-44-01-carbon-mineralization-uae/))
+- **2026-10-18** — news mention: Reconciling the role of clay mineral formation on net alkalinity generation during rock weathering:  ([source](https://doi.org/10.5194/egusphere-2026-5323))
+- **2026-10-18** — news mention: Counteract: We're delighted to officially announce our investment in Mafix ! If you spoke to us a ye ([source](https://www.linkedin.com/company/wecounteract/#post-d95f466f3bfe))
+- **2026-10-17** — news mention: 44.01 and Frontier advance permanent CO₂ storage through in-situ mineralization ([source](https://frontierclimate.com/writing/44-01))
+- **2026-10-16** — news mention: Frontier Climate buyers ink deal to store CO2 as solid rock | ESG Dive ([source](https://www.esgdive.com/news/frontier-climate-buyers-ink-deal-to-store-co2-as-solid-rock/833250/))
+- **2026-10-16** — news mention: China’s Farmland Could Remove 350 Million Tonnes of CO₂ a Year, Study Finds ([source](https://carboncredits.com/china-farmland-enhanced-rock-weathering-carbon-removal/))
+- **2026-10-15** — news mention: Capture6: Project Tortuga is live in Western Australia. 🐢💧 Yesterday, we officially opened our indus ([source](https://www.linkedin.com/company/capture6/#post-8c84a9d40edc))
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-10-14** — news mention: Groundwork BioAg receives a ‘BBB’ carbon rating from BeZero for its mycorrhizal inoculants program c ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mxtxczmlc22e))
 - **2026-10-13** — news mention: When carbon removals enter a carbon market, should they change how ambitious that market is?
@@ -42,28 +62,6 @@ That’s ([source](https://www.linkedin.com/feed/update/urn:li:share:75156792236
 - **2026-10-08** — news mention: Growth of the Carbon Capture Chemicals Market Fueled by Increasing Industry Demand Through 2030 ([source](https://www.openpr.com/news/4655416/growth-of-the-carbon-capture-chemicals-market-fueled))
 - **2026-10-06** — news mention: The 6 next big things in sustainability and energy for 2026 - Fast Company ([source](https://www.fastcompany.com/91612652/sustainability-energy-next-big-things-in-tech-2026))
 - **2026-10-06** — news mention: Can recovered data-centre heat supply solid-sorbent direct air capture regeneration? A thermodynamic ([source](https://doi.org/10.31223/x5vr5n))
-- **2026-10-05** — news mention: How will tech used to remove CO2 from the air impact the land & its communities? Who will benefit? T ([source](https://bsky.app/profile/co2rehub.bsky.social/post/3mx4ibkyc6s2e))
-- **2026-10-04** — news mention: Safi Organics: We’re pleased to share that Safi Organics Ltd has registered with Isometric . Our #Mw ([source](https://www.linkedin.com/company/safi-organics-ltd/#post-ef5e57b17308))
-- **2026-10-02** — news mention: AMP closes on $70 million financing project ([source](https://www.recyclingproductnews.com/article/44998/amp-closes-on-dollar70-million-project-debt-financing-with-galvanize))
-- **2026-10-02** — news mention: Galvanize Leads $70 Million Project Financing for AMP ([source](https://www.waste360.com/industry-insights/galvanize-leads-70-million-project-financing-for-amp-s-ai-powered-waste-infrastructure))
-- **2026-10-01** — news mention: The Charm Underground - Q1 '25 Wrap Up ([source](https://charmindustrial.com/blog/the-charm-underground-q1-25-wrap-up))
-- **2026-09-30** — news mention: Galvanize Leads $70 Million Project Financing for AMP’s AI-Powered Waste Infrastructure | FinancialC ([source](https://www.financialcontent.com/article/bizwire-2026-9-30-galvanize-leads-70-million-project-financing-for-amps-ai-powered-waste-infrastructure))
-- **2026-09-30** — news mention: Impact of Carbon Harvesting and Its Relation to Zero Emissions ([source](https://doi.org/10.56201/ijgem.vol.11.no7.2025.pg192.212))
-- **2026-09-30** — news mention: Heirloom: ETH: How cement plants can remove CO₂ from the atmosphere ETH Zürich researchers show that ([source](https://www.linkedin.com/company/heirloom-carbon/#post-14737aafcee9))
-- **2026-09-25** — news mention: Evidence of rapid basalt dissolution in Southeastern US croplands ([source](https://cdrxiv.org/preprint/551))
-- **2026-09-25** — news mention: Carbon Removal India Alliance: ð®ð³ Indiaâs Top Carbon Removal Suppliers ð®ð³ As durable c ([source](https://www.linkedin.com/company/cria-earth/#post-503ebe639179))
-- **2026-09-23** — news mention: BeZero Carbon: New research published in Nature Communications, co-authored by BeZero's Senior Carbo ([source](https://www.linkedin.com/company/bezero-carbon/#post-090f79d1c787))
-- **2026-09-20** — news mention: Aquarry: Mining wastes and infrastructure could help permanently remove more than 1 billion tons of  ([source](https://www.linkedin.com/company/aquarry-inc/#post-e58488609e9a))
-- **2026-09-18** — news mention: Third Derivative and the Grantham Trust Launch First Gigaton Captured to Accelerate Carbon Capture I ([source](https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/third-derivative-and-the-grantham-trust-launch-first-gigaton-captured-to-accelerate-carbon-capture-innovations/article_bd91d176-8851-5f85-a1bf-a50d4f781c5c.html))
-- **2026-09-18** — news mention: Direct Air Capture Systems Market Business Strategies and Industry Outlook ([source](https://www.nsnheadlines.com/post/direct-air-capture-systems-market-business-strategies-and-industry-outlook))
-- **2026-09-18** — news mention: A Research Strategy for Ocean-Based Carbon Dioxide Removal and Sequestration – Institute of Climate  ([source](https://icsusa.org/a-research-strategy-for-ocean-based-carbon-dioxide-removal-and-sequestration/))
-- **2026-09-17** — news mention: The global race to remove carbon dioxide from the atmosphere ([source](https://www.globalsociety.earth/post/the-global-race-to-remove-carbon-dioxide-from-the-atmosphere))
-- **2026-09-15** — news mention: Planetary: Earlier this year, we launched Frontier 's Innovation Program to fund the most critical,  ([source](https://www.linkedin.com/company/planetary-tech/#post-9ec7158aa672))
-- **2026-09-12** — news mention: Photocatalytic Integrated CO 2 Capture and Conversion to Methanol Using Modified MXene Quantum Dots ([source](https://doi.org/10.54254/2755-2721/2026.36617))
-- **2026-09-10** — news mention: How did you start your day this morning? 
- 
-If, like an estimated one billion people around the worl ([source](https://www.linkedin.com/feed/update/urn:li:share:7503445824803328001/))
-- **2026-09-10** — news mention: Meet Our Partners ([source](https://www.removecarbontoday.com/pages/partners))
 
 ---
 

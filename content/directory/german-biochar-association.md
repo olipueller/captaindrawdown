@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://german-biochar.org/" target="_blank" rel="noopener">https://german-biochar.org/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/fachverband-pflanzenkohle-e-v/" target="_blank" rel="noopener">fachverband-pflanzenkohle-e-v — 3,831 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/fachverband-pflanzenkohle-e-v/" target="_blank" rel="noopener">fachverband-pflanzenkohle-e-v</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~7 (+17% YoY)</td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ German Biochar e.V. was founded in 2017, originally as the Fachverband Pflanzenk
 
 ## History
 
+- **2026-10-23** — news mention: Tagung_Stadtgrün-Schwammstadt-Pflanzenkohle | German Biochar e.V. (German Biochar Association) ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7518989733637763072/))
+- **2026-10-20** — news mention: proFagus | German Biochar e.V. (German Biochar Association) ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7518221688711458816/))
 - **2026-10-15** — refresh: screenshot
 - **2026-10-03** — news mention: German Biochar Association: 🪨 The Minister of Environment going all in on biochar. 🇹🇼 Imagine if the ([source](https://www.linkedin.com/company/fachverband-pflanzenkohle-e-v/#post-f9a95cc11fbd))
 - **2026-09-30** — news mention: #biochar #carbonremoval #euets #crcf #pflanzenkohle #klimaschutz #germanbiochar #technologieneutrali ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7510683798964187136/))

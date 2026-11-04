@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Marine CDR (Other)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.gigablue.co/" target="_blank" rel="noopener">https://www.gigablue.co/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/gigabluecarbon/" target="_blank" rel="noopener">gigabluecarbon — 4,654 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/gigabluecarbon/" target="_blank" rel="noopener">gigabluecarbon</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~34 (+13% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>3 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -34,6 +34,7 @@ Founded in 2022, Gigablue develops and deploys a marine carbon removal pathway b
 
 ## History
 
+- **2026-10-25** — news mention: Gigablue: Developing ocean carbon removal approaches alongside emissions reduction pathways is incre ([source](https://www.linkedin.com/company/gigabluecarbon/#post-a3df3e5e9b65))
 - **2026-09-19** — news mention: Gigablue: New Zealand's Southern Ocean is one of the most promising places on Earth for marine carbo ([source](https://www.linkedin.com/company/gigabluecarbon/#post-fa4932be010d))
 - **2026-08-23** — news mention: Alcove Labs: Huge milestone for mCDR: Puro.earth just approved the MCFS methodology! Alcove is proud ([source](https://www.linkedin.com/company/alcove-io/#post-c1366e1c486f))
 - **2026-08-15** — news mention: Gigablue: New Zealand's Southern Ocean is one of the most promising places on Earth for marine carbo ([source](https://www.linkedin.com/company/gigabluecarbon/#post-7867656270ec))

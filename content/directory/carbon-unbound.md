@@ -14,9 +14,8 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonunboundeurope.com/" target="_blank" rel="noopener">https://www.carbonunboundeurope.com/</a></td></tr>
-  <tr><th>LinkedIn Followers</th><td>12,127</td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~30</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +29,13 @@ Carbon Unbound is a CDR-focused events organization that runs the Carbon Unbound
 
 ## History
 
+- **2026-10-30** — news mention: #carbonunbound #carbonremoval #cdr #corcs #london #mrv #vcm | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7521935501537398784/))
+- **2026-10-27** — news mention: Timing of EU procurement, wider buyer base, bankable offtakes emerge as key tests for scaling the CD ([source](https://www.fastmarkets.com/insights/timing-of-eu-procurement-wider-buyer-base-bankable-offtakes-emerge-as-key-tests-for-scaling-the-cdr-market-carbon-unbound/))
+- **2026-10-19** — news mention: Pricing &amp; Tickets // Carbon Unbound Europe 2026 ([source](https://www.carbonunbound.com/events/europe/pricing))
+- **2026-10-17** — news mention: #london | ClimeFi ([source](https://www.linkedin.com/feed/update/urn:li:share:7516471298877841408/))
+- **2026-10-17** — news mention: Next week, Isometric is headed to Carbon Unbound Europe. On the main stage, Lukas May will join Isab ([source](https://www.linkedin.com/feed/update/urn:li:share:7516814285952446464/))
+- **2026-10-17** — news mention: #carbonunbound #carbonremoval #cdr #corcs #london #mrv #vcm #crcf | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7516484304361799680/))
+- **2026-10-15** — news mention: European policy will shape who can sell carbon removals, who buys them and what gets financed. Your  ([source](https://www.linkedin.com/feed/update/urn:li:share:7516076090986176512/))
 - **2026-10-14** — news mention: As the World Plans for Overshoot, Europe Sets the Pace on Carbon Removal — Carbon Business Council ([source](https://www.carbonbusinesscouncil.org/news/carbon-unbound-europe-2026))
 - **2026-10-13** — news mention: #carbonremoval #cdr #enhancedrockweathering #climatetech | UNDO ([source](https://www.linkedin.com/feed/update/urn:li:share:7515340279680393216/))
 - **2026-10-10** — news mention: #carbonunboundeurope #carbonremoval #cdr #carbonmarkets | Carbon Standards ([source](https://www.linkedin.com/feed/update/urn:li:share:7514332600258420736/))

@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://carbonplan.org/" target="_blank" rel="noopener">https://carbonplan.org/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonplan/" target="_blank" rel="noopener">carbonplan — 7,555 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonplan/" target="_blank" rel="noopener">carbonplan</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~16 (+7% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ CarbonPlan is a U.S. nonprofit (California public benefit corporation) that prod
 
 ## History
 
+- **2026-10-25** — news mention: @tykukla.bsky.social is a geochemist who’s a Research Scientist at @carbonplan.org. His work focuses ([source](https://bsky.app/profile/davidho.bsky.social/post/3myqbmawm4s2r))
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-10-09** — news mention: CarbonPlan: Our Modeling Bytes series examines in-the-weeds decisions that matter when applying reac ([source](https://www.linkedin.com/company/carbonplan/#post-1bf6592fcaf0))
 - **2026-09-25** — news mention: How averaging out the weather affects enhanced weathering estimates – CarbonPlan ([source](https://carbonplan.org/research/modeling-bytes-03-meteorology))
@@ -59,7 +60,6 @@ CarbonPlan is a U.S. nonprofit (California public benefit corporation) that prod
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 
 ---
 

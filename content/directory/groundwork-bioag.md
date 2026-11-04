@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Mineralization (Other)</td></tr>
   <tr><th>Country</th><td>Israel</td></tr>
   <tr><th>Website</th><td><a href="https://groundworkbioag.com/" target="_blank" rel="noopener">https://groundworkbioag.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/groundwork-bioagriculture/" target="_blank" rel="noopener">groundwork-bioagriculture — 9,710 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/groundwork-bioagriculture/" target="_blank" rel="noopener">groundwork-bioagriculture</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~55 (+17% YoY)</td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ Groundwork BioAg is an Israeli bioagriculture company headquartered in Mazor tha
 
 ## History
 
+- **2026-10-15** — news mention: Groundwork BioAg Secures &#039;BBB&#039; Carbon Rating for Rootella ([source](https://biochartoday.com/news/groundwork-bioag-secures-a-bbb-carbon-rating-from-bezero-for-its-rootella-carbon-program/?utm_source=bluesky&utm_medium=jetpack_social))
 - **2026-10-14** — news mention: Groundwork BioAg receives a ‘BBB’ carbon rating from BeZero for its mycorrhizal inoculants program c ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mxtxczmlc22e))
 - **2026-10-14** — news mention: Groundwork BioAg Secures A ‘BBB’ Carbon Rating By BeZero ([source](https://carbonherald.com/groundwork-bioag-secures-a-bbb-carbon-rating-by-bezero/?utm_source=rss&utm_medium=rss&utm_campaign=groundwork-bioag-secures-a-bbb-carbon-rating-by-bezero))
 - **2026-10-01** — news mention: Groundwork BioAg: Climate Week NYC, wrapped. The goal was simple: sell Rootella Carbon credits. Hone ([source](https://www.linkedin.com/company/groundwork-bioagriculture/#post-8c8a694a8787))

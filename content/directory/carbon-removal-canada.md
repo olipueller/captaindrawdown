@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://carbonremoval.ca/" target="_blank" rel="noopener">https://carbonremoval.ca/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-removal-canada/" target="_blank" rel="noopener">carbon-removal-canada — 8,898 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-removal-canada/" target="_blank" rel="noopener">carbon-removal-canada</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~17 (+21% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ Carbon Removal Canada is an independent policy advocacy initiative, a project of
 
 ## History
 
+- **2026-11-03** — news mention: Carbon Removal Canada Reflects On The Country’s CO2 Removal Progress So Far ([source](https://carbonherald.com/carbon-removal-canada-reflects-on-the-countrys-co2-removal-progress-so-far/?utm_source=rss&utm_medium=rss&utm_campaign=carbon-removal-canada-reflects-on-the-countrys-co2-removal-progress-so-far))
+- **2026-10-17** — news mention: Carbon Removal Canada: Last call for CDR developers and the carbon removal community: Ontario's Requ ([source](https://www.linkedin.com/company/carbon-removal-canada/#post-af926dbb4a7a))
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-09-26** — news mention: Clean the Sky - International Carbon Frameworks ([source](https://www.cleanthesky.com/innovation/policy-framework))
 - **2026-09-10** — news mention: Carbon Removal Canada: Congratulations to the Government of Canada, the Government of Alberta, and E ([source](https://www.linkedin.com/company/carbon-removal-canada/#post-ceee2dbbeb9e))

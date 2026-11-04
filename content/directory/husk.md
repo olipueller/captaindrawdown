@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Website</th><td><a href="https://www.huskventures.com/" target="_blank" rel="noopener">https://www.huskventures.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/huskventures/" target="_blank" rel="noopener">huskventures — 4,376 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/huskventures/" target="_blank" rel="noopener">huskventures</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~42 (+2% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ HUSK is a biochar producer headquartered in Singapore with operations in Cambodi
 
 ## History
 
+- **2026-10-24** — news mention: Pyrolysis temperature-induced changes in physicochemical properties of rice husk-derived biochar: an ([source](https://doi.org/10.3389/feart.2026.1894009))
 - **2026-10-12** — news mention: Alcom Carbon Markets: On 3 October 2026, Alcom inaugurated VitaNim, the Philippines' first industria ([source](https://www.linkedin.com/company/alcom-pte-ltd/#post-f12cc4be3039))
 - **2026-10-07** — news mention: Foundation 1 - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/foundation-1/))
 - **2026-10-04** — news mention: Safi Organics: We’re pleased to share that Safi Organics Ltd has registered with Isometric . Our #Mw ([source](https://www.linkedin.com/company/safi-organics-ltd/#post-ef5e57b17308))

@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Ocean Alkalinity Enhancement</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.planetarytech.com/" target="_blank" rel="noopener">https://www.planetarytech.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/planetary-tech/" target="_blank" rel="noopener">planetary-tech — 8,176 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/planetary-tech/" target="_blank" rel="noopener">planetary-tech</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified via isometric issuance on 2025-06-16</small></td></tr>
-  <tr><th>Employees</th><td>~31</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric <small>(last issuance: 2025-06-16)</small></td></tr>
 </table>
@@ -43,6 +43,14 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-02** — news mention: Planetary Power: Geoengineering and the New Geopolitics of Climate Intervention | Carnegie Endowment ([source](https://carnegieendowment.org/research/2026/10/planetary-power-geoengineering-and-the-new-geopolitics-of-climate-intervention))
+- **2026-10-30** — news mention: Microbially mediated interactions between enhanced weathering and carbon inputs shift soil organic c ([source](https://doi.org/10.1038/s43247-026-04143-1))
+- **2026-10-23** — news mention: US non-profit adds three CDR projects in latest investment round ([source](https://www.qcintel.com/carbon/article/us-non-profit-adds-three-cdr-projects-in-latest-investment-round-75831.html))
+- **2026-10-21** — news mention: Planetary: BIG MILESTONE ALERT! The complete (and i mean complete) dataset from ourearlier 2026 cred ([source](https://www.linkedin.com/company/planetary-tech/#post-f097ebf103a1))
+- **2026-10-20** — news mention: Inside the bold, quixotic quest to store planet-warming carbon in the ocean | Scientific American ([source](https://www.scientificamerican.com/article/inside-the-bold-quixotic-quest-to-store-planet-warming-carbon-in-the-ocean/))
+- **2026-10-19** — news mention: Micronutrient Management of Nitrous Oxide Emissions ([source](https://cdrxiv.org/preprint/332))
+- **2026-10-18** — news mention: Reconciling the role of clay mineral formation on net alkalinity generation during rock weathering:  ([source](https://doi.org/10.5194/egusphere-2026-5323))
+- **2026-10-17** — news mention: 🗣️🗣️🗣️ Another great YCNCC Student Research Seminar Series session today featuring talks from Earth  ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7516587819197267968/))
 - **2026-10-12** — news mention: Observational and model data from Planetary's TC26.1 Ocean Alkalinity Enhancement dosing period in H ([source](https://doi.org/10.5281/zenodo.20088387))
 - **2026-10-12** — news mention: Carbon dioxide removal enables climate planetary boundary compliance in cost-effective energy-indust ([source](https://doi.org/10.21203/rs.3.rs-11265299/v1))
 - **2026-10-12** — news mention: Measuring large-scale mCDR using a novel Atmospheric CO₂ Perimeter Flux (ACPF) method ([source](https://doi.org/10.3389/fclim.2026.1941538))
@@ -65,14 +73,6 @@ Independently verified by carbon-credit registries:
 - **2026-08-29** — news mention: Exterra: We're in. Exterra got picked for the inaugural MaRS Discovery District First-of-a-Kind (FOA ([source](https://www.linkedin.com/company/exterratechnologies/#post-5386da66a545))
 - **2026-08-27** — news mention: Planetary: This paper with Michael Tyka , Bin Wang, and Katja Fennel explores how strongly seawater  ([source](https://www.linkedin.com/company/planetary-hydrogen/#post-cd90c898e33e))
 - **2026-08-19** — news mention: Delayed climate benefits and toxicity risks could hinder the sustainable deployment of enhanced weat ([source](https://doi.org/10.70212/cdrxiv.2026531.v2))
-- **2026-08-19** — news mention: Arid Ecosystem Restoration Matrix ([source](https://doi.org/10.5281/zenodo.21959770))
-- **2026-08-18** — news mention: An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering ([source](https://cdrxiv.org/preprint/417))
-- **2026-08-13** — news mention: Significant Scope for Improvement of Soil Acidity Management in US Croplands ([source](https://cdrxiv.org/preprint/535))
-- **2026-08-12** — news mention: Significant yield benefits from basalt soil amendments in the Southeastern US ([source](https://cdrxiv.org/preprint/413))
-- **2026-08-10** — news mention: Flux: Isometric has reached a major milestone—signing our 100th carbon removal supplier, Flux . Over ([source](https://www.linkedin.com/company/flux-earth/#post-a3091f3c0857))
-- **2026-08-01** — news mention: Iron Oxidation Links CO <sub>2</sub> Mineralization to Hydrogen Formation ([source](https://doi.org/10.1021/acs.estlett.6c00308))
-- **2026-07-31** — news mention: Carbon Removal Alliance: At Tufts Cove in Nova Scotia, Planetary became the first company in the wor ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-5c486abcd78a))
-- **2026-07-26** — news mention: Substantial inter-model variation in OAE efficiency between the CESM2/MARBL and ECCO-Darwin ocean bi ([source](https://doi.org/10.5194/bg-23-4943-2026))
 
 ---
 

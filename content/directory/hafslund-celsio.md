@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Website</th><td><a href="https://www.hafslund.no/en/produkter-og-tjenester/oslo-ccs" target="_blank" rel="noopener">https://www.hafslund.no/en/produkter-og-tjenester/oslo-ccs</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/hafslund/" target="_blank" rel="noopener">hafslund — 13,910 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/hafslund/" target="_blank" rel="noopener">hafslund</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~965</td></tr>
+  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ Hafslund Celsio is Norway's largest district heating and waste-to-energy company
 
 ## History
 
+- **2026-10-24** — news mention: Hafslund Celsio: Se Oslos karbonfangstanlegg ta form! 🏗️   Du har kanskje fått med deg at vi bygger  ([source](https://www.linkedin.com/company/hafslund/#post-20b3e05ba135))
 - **2026-08-18** — news mention: Europe’s carbon removal market will develop alongside its industrial transition.
 
 At our Stockholm e ([source](https://www.linkedin.com/feed/update/urn:li:share:7495413597750329346/))

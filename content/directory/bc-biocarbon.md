@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.bcbiocarbon.com/" target="_blank" rel="noopener">https://www.bcbiocarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bc-biocarbon/" target="_blank" rel="noopener">bc-biocarbon — 1,206 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bc-biocarbon/" target="_blank" rel="noopener">bc-biocarbon</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~12 (-20% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2029-05-06)</small></td></tr>
@@ -44,6 +44,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-29** — news mention: 350solutions: We're thrilled to announce BC Biocarbon 's second Puro.earth CORC issuance from our Bi ([source](https://www.linkedin.com/company/350solutions/#post-29b0bc4c75d4))
 - **2026-10-05** — news mention: BC Biocarbon: We're thrilled to announce BC Biocarbon 's second Puro.earth CORC issuance from our Bi ([source](https://www.linkedin.com/company/bc-biocarbon/#post-370bab9aadfa))
 - **2026-09-28** — news mention: 350solutions: We're thrilled to announce BC Biocarbon 's second Puro.earth CORC issuance from our Bi ([source](https://www.linkedin.com/company/350solutions/#post-c07f7c45aff0))
 - **2026-08-15** — refresh: coresignal

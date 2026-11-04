@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>BiCRS (Other)</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.lowcarbonmaterials.com/" target="_blank" rel="noopener">https://www.lowcarbonmaterials.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/lowcarbonmaterials/" target="_blank" rel="noopener">lowcarbonmaterials — 6,386 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/lowcarbonmaterials/" target="_blank" rel="noopener">lowcarbonmaterials</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~20 (-5% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ Low Carbon Materials (LCM) is a Durham University spin-out based in Seaham, UK, 
 
 ## History
 
+- **2026-10-29** — news mention: Low Carbon Materials: 🏡 ACLA® has been used to enable net zero asphalt to surface the roads of a hou ([source](https://www.linkedin.com/company/lowcarbonmaterials/#post-4ce840250044))
 - **2026-09-22** — news mention: Low Carbon Materials: ð 2 more projects out the door. We sold out in 2025. Every tonne we produce ([source](https://www.linkedin.com/company/lowcarbonmaterials/#post-476f30025cd6))
 - **2026-09-15** — refresh: coresignal, screenshot, liveliness
 - **2026-09-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://tracxn.com/d/companies/low-carbon-materials/__2WVJBc6xiAV9Y3XnRrYTGlrHAqIYfYtYY-z3ZurBvcc/funding-and-investors))

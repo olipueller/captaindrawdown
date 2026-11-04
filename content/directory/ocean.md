@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://oceanvisions.org/" target="_blank" rel="noopener">https://oceanvisions.org/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ocean-visions/" target="_blank" rel="noopener">ocean-visions — 17,661 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ocean-visions/" target="_blank" rel="noopener">ocean-visions</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~26 (+8% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,36 +30,36 @@ Ocean Visions is a US-based science-focused nonprofit that catalyzes research, r
 
 ## History
 
-- **2026-10-15** — refresh: coresignal, screenshot
-- **2026-10-14** — news mention: Scientists are tricking oceans into absorbing more CO2 for us | Caliber.Az ([source](https://caliber.az/en/post/how-scientists-are-tricking-oceans-into-absorbing-more-co2-for-us))
-- **2026-10-14** — news mention: Africa Urged to Adopt Selective Carbon Removal Strategies to Balance Climate and Development Goals ([source](https://www.downtoearth.org.in/africa/africa-should-take-selective-approach-to-carbon-removal-technologies-report))
-- **2026-10-14** — news mention: 💡💡💡YCNCC hosted our annual Fall Research Showcase on Friday, featuring 22 excellent lightning talks  ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7515882194398240768/))
-- **2026-10-14** — news mention: 💡💡💡YCNCC hosted our annual Fall Research Showcase on Friday, featuring 22 excellent lightning talks  ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7515880998610432000/))
-- **2026-10-12** — news mention: The International Maritime Organization have adopted formal assessment frameworks for three marine c ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mxopnlvrxk2x))
-- **2026-10-12** — news mention: How the IMO Just Set Global Rules for Ocean Carbon Removal Research | Impactful Ninja ([source](https://impactful.ninja/how-imo-sets-global-rules-for-ocean-carbon-removal-research/))
-- **2026-10-12** — news mention: Observational and model data from Planetary's TC26.1 Ocean Alkalinity Enhancement dosing period in H ([source](https://doi.org/10.5281/zenodo.20088387))
-- **2026-10-12** — news mention: Measuring large-scale mCDR using a novel Atmospheric CO₂ Perimeter Flux (ACPF) method ([source](https://doi.org/10.3389/fclim.2026.1941538))
-- **2026-10-12** — news mention: Field evidence for rapid precipitation of non-crystalline secondary phases during enhanced rock weat ([source](https://doi.org/10.21203/rs.3.rs-10166427/v1))
-- **2026-10-12** — news mention: Impacts of simulated coastal ocean alkalinity enhancement on the seasonal carbon cycle in European w ([source](https://doi.org/10.5194/esd-17-1513-2026))
-- **2026-10-12** — news mention: When and why does CO2 mineralization in basalts stall? A critical review of microscale passivation,  ([source](https://doi.org/10.31223/x55v43))
-- **2026-10-12** — news mention: Alkalinity generation and trace metal dynamics during olivine-based marine enhanced rock weathering  ([source](https://doi.org/10.5194/egusphere-2026-5968))
-- **2026-10-12** — news mention: Data and code for: the minimum observationally verifiable removal per OAE site and the site-years re ([source](https://doi.org/10.5281/zenodo.23265970))
-- **2026-10-12** — news mention: Carbon Neutral Initiative: Our new paper, led by Spyros Foteinis and Heriot-Watt University , explor ([source](https://www.linkedin.com/company/carbon-neutral-initiative/#post-105204fa223b))
-- **2026-10-12** — news mention: [C]Worthy: We are excited to share that [C]Worthy has been awarded a grant from the Frontier Innovat ([source](https://www.linkedin.com/company/cworthy/#post-c4e38b4e3598))
-- **2026-10-09** — news mention: Carbon to Sea Initiative: Today, Submarine Scientific and Carbon to Sea are launching the OAE Data C ([source](https://www.linkedin.com/company/carbontosea/#post-574bea020646))
-- **2026-10-08** — news mention: Building a Case for South African Leadership in Marine Carbon Dioxide Removal ([source](https://oceanvisions.org/blog/caitlin-wale-on-building-a-case-for-south-african-leadership-in-marine-carbon-dioxide-removal/))
-- **2026-10-08** — news mention: Parties to the London Convention and Protocol Debate Marine Carbon Dioxide Removal Governance - Clim ([source](https://blogs.law.columbia.edu/climatechange/2026/10/07/parties-to-the-london-convention-and-protocol-debate-marine-carbon-dioxide-removal-governance/))
-- **2026-10-07** — news mention: Boosting seawater alkalinity could help communities tackle local carbon emissions, researchers argue ([source](https://phys.org/news/2026-10-boosting-seawater-alkalinity-communities-tackle.html))
-- **2026-10-07** — news mention: Shifting focus to enhance seawater’s natural alkalinity for CO2 removal ([source](https://www.scimex.org/newsfeed/shifting-focus-to-enhance-seawaters-natural-alkalinity-for-co2-removal))
-- **2026-10-06** — news mention: 151st Edition - by Delaney Demark - Seaking Blue ([source](https://seakingblue.substack.com/p/151st-edition))
-- **2026-10-06** — news mention: Frontiers | Measuring large-scale mCDR using a novel Atmospheric CO₂ Perimeter Flux (ACPF) method ([source](https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2026.1941538/full))
-- **2026-10-06** — news mention: Comment on egusphere-2026-5281 ([source](https://doi.org/10.5194/egusphere-2026-5281-rc1))
-- **2026-10-06** — news mention: Assessing tipping-point risk in carbon dioxide removal with a network-based framework ([source](https://doi.org/10.20517/cf.2026.70))
-- **2026-10-06** — news mention: Absorber approach for estimating marine CO2 removal efficiency: implementation and example workflows ([source](https://doi.org/10.5281/zenodo.23071880))
-- **2026-10-06** — news mention: Figure source data and visualization code for "Global assessment of marine CO2 removal efficiency in ([source](https://doi.org/10.5281/zenodo.23073669))
-- **2026-10-06** — news mention: Dataset on the effect of advection and CO2 ingassing on the dissolution of Ca(OH)2 and Mg(OH)2 in se ([source](https://doi.org/10.5281/zenodo.23078830))
-- **2026-10-06** — news mention: Ocean alkalinity enhancement pelagic impact in the Northwest Iberian Upwelling System under nutrient ([source](https://doi.org/10.5194/egusphere-2026-5658))
-- **2026-10-06** — news mention: Carbon Capture Machine Joins NAMEPA and Garners Recognition with Environmental Innovation Award - NA ([source](https://namepa.net/2026/10/05/carbon-capture-machine-joins-namepa-and-garners-recognition-with-environmental-innovation-award/))
+- **2026-11-03** — news mention: 153rd Edition - by Delaney Demark - Seaking Blue ([source](https://seakingblue.substack.com/p/153rd-edition))
+- **2026-11-03** — news mention: #mcdr | Yale Center for Natural Carbon Capture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7523103543889809408/))
+- **2026-11-02** — news mention: Pronoe: ### BREAKING NEWS ### PRONOE is thrilled to announce the signing of a catalytic, Salesforce  ([source](https://www.linkedin.com/company/pronoe-earth/#post-83ad5055f2a2))
+- **2026-11-02** — news mention: Equatic: Equatic's Singapore demonstration plant, Equatic-1, has been endorsed as a UN Ocean Decade  ([source](https://www.linkedin.com/company/equatic-tech/#post-8c1b62fb1374))
+- **2026-11-01** — news mention: The Early CDR Certificate Is the Product ([source](https://carbondrawdown.substack.com/p/the-early-cdr-certificate-is-the))
+- **2026-11-01** — news mention: Cascade Climate: We’re launching an open call for research funding for carbon removals and superpoll ([source](https://www.linkedin.com/company/cascade-climate/#post-8207a4d791d9))
+- **2026-10-31** — news mention: COP31 could broach carbon removals following UN declaration of 1.5C overshoot, says Oxford academic  ([source](https://carbon-pulse.com/566164/))
+- **2026-10-31** — news mention: Carbon180: mCDR research just had a big win! Last week, parties to the London Convention and the Lon ([source](https://www.linkedin.com/company/the-center-for-carbon-removal/#post-5650dbe3bc76))
+- **2026-10-30** — news mention: A soil–feedstock greenhouse mesocosm matrix for screening carbon dioxide removal via enhanced rock w ([source](https://cdrxiv.org/preprint/564))
+- **2026-10-30** — news mention: #tbewc26 #sos2026 | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7521942764297584640/))
+- **2026-10-30** — news mention: Settling-driven Rayleigh–Taylor instability in a pre-existing turbulent field ([source](https://doi.org/10.31223/x5jj8x))
+- **2026-10-30** — news mention: Artificial upwelling via Stommel pipes under present and future climate conditions: an Earth system  ([source](https://doi.org/10.3389/fclim.2026.1938661))
+- **2026-10-30** — news mention: Impacts of water advection and CO 2 exchange on the carbon dioxide removal potential of ocean alkali ([source](https://doi.org/10.5194/bg-23-7523-2026))
+- **2026-10-30** — news mention: Forecastable Sargassum blooms are not automatic carbon removal: a policy triage framework for habita ([source](https://doi.org/10.1017/s0376892926100563))
+- **2026-10-30** — news mention: High alkalinity mitigates the negative impacts of high-CO2 ocean on foraminiferal calcification quan ([source](https://doi.org/10.1038/s41598-026-74230-y))
+- **2026-10-30** — news mention: Linearized Carbonate Chemistry for Efficient Modeling of Ocean-Based Carbon Dioxide Removal ([source](https://doi.org/10.70212/cdrxiv.2026567.v1))
+- **2026-10-29** — news mention: A patch of the Gulf of Maine turned hot pink: scientists poured 16,500 gallons of lye into the sea t ([source](https://www.futura-sciences.com/en/a-patch-of-the-gulf-of-maine-turned-hot-pink-scientists-poured-16500-gallons-of-lye-into-the-sea-to-help-it-absorb-co2_901932/))
+- **2026-10-29** — news mention: Biochar did not affect inorganic C sequestration through steel slag weathering, but increased soil o ([source](https://cdrxiv.org/preprint/574))
+- **2026-10-29** — news mention: The ocean is losing its power to fight global warming: What happens next? - ET Edge Insights ([source](https://etedge-insights.com/sdgs-and-esg/climate-change/the-ocean-is-losing-its-power-to-fight-global-warming-what-happens-next/))
+- **2026-10-29** — news mention: Ocean pHix: The Autumn Update 2026 is now live. Isometric releases protocol updates twice a year, in ([source](https://www.linkedin.com/company/isometric-hq/#post-4e84ac787efc))
+- **2026-10-28** — news mention: Linearized Carbonate Chemistry for Efficient Modeling of Ocean-Based Carbon Dioxide Removal – CDRXIV ([source](https://cdrxiv.org/preprint/567))
+- **2026-10-26** — news mention: Inside the bold, quixotic quest to store planet-warming carbon in the ocean - Australia News Beep |  ([source](https://www.newsbeep.com/au/941253/))
+- **2026-10-25** — news mention: Gigablue: Developing ocean carbon removal approaches alongside emissions reduction pathways is incre ([source](https://www.linkedin.com/company/gigabluecarbon/#post-a3df3e5e9b65))
+- **2026-10-24** — news mention: Global assessment of marine CO2 removal efficiency in the coastal ocean ([source](https://doi.org/10.21203/rs.3.rs-11414863/v1))
+- **2026-10-24** — news mention: Marine Carbon Dioxide Removal under Overshoot Conditions: A Multi-Model Assessment of Efficiency and ([source](https://doi.org/10.5194/egusphere-2026-5784))
+- **2026-10-24** — news mention: The Maritime Advocate–Issue 919 ([source](https://allaboutshipping.co.uk/2026/10/23/the-maritime-advocate-issue-919/))
+- **2026-10-20** — news mention: 152nd Edition - by Delaney Demark - Seaking Blue ([source](https://seakingblue.substack.com/p/152nd-edition))
+- **2026-10-20** — news mention: Inside the bold, quixotic quest to store planet-warming carbon in the ocean ([source](https://www.yahoo.com/news/science/articles/inside-bold-quixotic-quest-store-100000589.html))
+- **2026-10-20** — news mention: New Ocean Carbon Removal Watch Platform To Track The mCDR Field ([source](https://carbonherald.com/new-ocean-carbon-removal-watch-platform-to-track-the-mcdr-field/?utm_source=rss&utm_medium=rss&utm_campaign=new-ocean-carbon-removal-watch-platform-to-track-the-mcdr-field))
+- **2026-10-20** — news mention: Inside the bold, quixotic quest to store planet-warming carbon in the ocean | Scientific American ([source](https://www.scientificamerican.com/article/inside-the-bold-quixotic-quest-to-store-planet-warming-carbon-in-the-ocean/))
 
 ---
 

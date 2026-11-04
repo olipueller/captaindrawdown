@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.co-reactive.com/" target="_blank" rel="noopener">https://www.co-reactive.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/co-reactive/" target="_blank" rel="noopener">co-reactive — 3,694 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/co-reactive/" target="_blank" rel="noopener">co-reactive</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~21 (+91% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,10 @@ Co-reactive GmbH is a climate-tech startup founded in 2024 as an RWTH Aachen spi
 
 ## History
 
+- **2026-11-03** — news mention: #scm #cement #concrete #mineralisation #performance | Co-reactive ([source](https://www.linkedin.com/feed/update/urn:li:share:7523406384252542976/))
+- **2026-10-29** — news mention: #team #talent #plantoperations #engineering #startup | Co-reactive ([source](https://www.linkedin.com/feed/update/urn:li:share:7521237015825252353/))
+- **2026-10-20** — news mention: #team #talent #workingstudent #climatetech #cement | Co-reactive ([source](https://www.linkedin.com/feed/update/urn:li:share:7518223161662980097/))
+- **2026-10-17** — news mention: #iso9001 #coreactive #iso9001 #qualitymanagement #industrialscaleup #climatetech #deeptech #sustaina ([source](https://www.linkedin.com/feed/update/urn:li:share:7516098957958369280/))
 - **2026-10-15** — refresh: coresignal
 - **2026-10-15** — refresh: coresignal
 - **2026-10-13** — news mention: #team #talent #climatetech #cement #concrete | Co-reactive ([source](https://www.linkedin.com/feed/update/urn:li:share:7515690755277967361/))
@@ -61,10 +65,6 @@ We are proud to share that Carbon ([source](https://www.linkedin.com/feed/update
 - **2026-05-05** — news mention: #oliverkrischer #coreactive #climatetech #ifat #zurichclimateweek #carbonremoval #decarbonization #s ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7457155775157727232/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-29** — news mention: Co-reactive ([source](https://www.captaindrawdown.com/posts/coreactive-demoplant-milestone-carbonnegative-sustainablecon/))
-- **2026-04-29** — news mention: NEP Taps DNV For CO2 Transport Certification  DNV has been named Independent Certifier for the North ([source](https://x.com/CaptainDrawdown/status/2049460338421043312))
-- **2026-04-29** — news mention: NEP Taps DNV For CO2 Transport Certification  DNV has been named Independent Certifier for the North ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkn2qpj5ur2u))
-- **2026-04-29** — news mention: The price for liquid fossil methane has increased by over a third and the fossil fools in the USA ha ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkmzhdkt622t))
 
 ---
 

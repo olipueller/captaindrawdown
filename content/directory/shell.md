@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.shell.com/what-we-do/carbon-capture-and-storage/direct-air-capture-projects.html" target="_blank" rel="noopener">https://www.shell.com/what-we-do/carbon-capture-and-storage/direct-air-capture-projects.html</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/shell/" target="_blank" rel="noopener">shell — 7,874,147 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/shell/" target="_blank" rel="noopener">shell</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~219735</td></tr>
+  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -31,6 +31,15 @@ Shell is a global oil, gas and energy major headquartered in London that is deve
 
 ## History
 
+- **2026-11-03** — news mention: Newlab, in collaboration with Shell GameChanger and LA.IO (Louisiana Innovation), is launching the L ([source](https://decarbonfuse.com/posts/louisiana-carbon-dioxide-removal-cdr-initiative))
+- **2026-11-03** — news mention: New Open Call Is Offering Support For Carbon Removal Deployments In Louisiana ([source](https://carbonherald.com/new-open-call-is-offering-support-for-carbon-removal-deployments-in-louisiana/?utm_source=rss&utm_medium=rss&utm_campaign=new-open-call-is-offering-support-for-carbon-removal-deployments-in-louisiana))
+- **2026-11-02** — news mention: Carbon Centric: A year of operational success in carbon capture at Rakkestad.   The first Canopy by  ([source](https://www.linkedin.com/company/carboncentric/#post-c33dabafb4c3))
+- **2026-11-01** — news mention: Byron Biochar: Pleased to see pecan-shell biochar supplied through Byron Biochar used in new Univers ([source](https://www.linkedin.com/company/byron-biochar/#post-04fb7b6499d1))
+- **2026-10-30** — news mention: From Oil Palm Residues to Engineered Carbon: Biochar and Activated Carbon Pathways for Carbon Remova ([source](https://doi.org/10.47363/jeesr/2026(8)319))
+- **2026-10-30** — news mention: High alkalinity mitigates the negative impacts of high-CO2 ocean on foraminiferal calcification quan ([source](https://doi.org/10.1038/s41598-026-74230-y))
+- **2026-10-29** — news mention: LOUISIANA CARBON DIOXIDE REMOVAL (CDR) INITIATIVE ([source](https://www.newlab.com/post/louisiana-carbon-dioxide-removal-cdr-initiative))
+- **2026-10-27** — news mention: Carbon Capture Market Trends And Forecast Analysis Reveal Strong Long-Term Potential ([source](https://www.einpresswire.com/article/951776681/carbon-capture-market-trends-and-forecast-analysis-reveal-strong-long-term-potential))
+- **2026-10-19** — news mention: Enhancing Asphalt Durability with Hazelnut Shell Biochar ([source](https://biochartoday.com/news/adding-5-0-weight-percent-hazelnut-shell-biochar-to-asphalt-binders-enhances-rutting-and-fatigue-resistance-while-reducing-aging-induced-stiffening/?utm_source=bluesky&utm_medium=jetpack_social))
 - **2026-10-13** — news mention: There is a moral hazard that Carbon Capture and Sequestration could convince a few fools to continue ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mxr7ryzyls2l))
 - **2026-10-12** — news mention: Revata Carbon PTE LTD: On 18 June 2026, Valency | Revata Carbon inaugurated its biochar production f ([source](https://www.linkedin.com/company/revatacarbon/#post-02c5345c9e8b))
 - **2026-10-06** — news mention: Absorber approach for estimating marine CO2 removal efficiency: implementation and example workflows ([source](https://doi.org/10.5281/zenodo.23071880))
@@ -52,15 +61,6 @@ Shell is a global oil, gas and energy major headquartered in London that is deve
 - **2026-08-13** — news mention: Development and evaluation of biochar formulated fertilizers for climate-smart sustainable crop prod ([source](https://doi.org/10.3389/fsoil.2026.1880824))
 - **2026-08-07** — news mention: The world is cooling on carbon capture. Why is Canada still barreling ahead in the oil sands? - The  ([source](https://www.theglobeandmail.com/business/article-norways-northern-lights-carbon-capture-holds-valuable-lessons-for/))
 - **2026-08-05** — news mention: Northern Lights: The CO₂ carrier Northern Purpose has arrived in Norway! With the arrival we have co ([source](https://www.linkedin.com/company/northern-lights-jv/#post-9d6a225b80d5))
-- **2026-07-30** — news mention: Making producers store a rising share of their products' CO2 folds disposal cost into the price of o ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mru3udxyxq25))
-- **2026-07-29** — news mention: Northern Lights: A pleasure to welcome CINEA to Øygarden! Just over a year after Northern Lights was ([source](https://www.linkedin.com/company/northern-lights-jv/#post-ba76027e3acb))
-- **2026-07-27** — news mention: Tierra Prieta: Really appreciate the International Biochar Initiative for featuring Tierra Prieta !  ([source](https://www.linkedin.com/company/tierra-prieta/#post-2cd3168ea3d5))
-- **2026-07-26** — news mention: Reply on RC2 ([source](https://doi.org/10.5194/egusphere-2026-2930-ac2))
-- **2026-07-26** — news mention: Reply on RC1 ([source](https://doi.org/10.5194/egusphere-2026-2930-ac1))
-- **2026-07-26** — news mention: Reply on RC3 ([source](https://doi.org/10.5194/egusphere-2026-2930-ac3))
-- **2026-07-24** — news mention: Revata Carbon PTE LTD: On 18 June 2026, Valency | Revata Carbon inaugurated its biochar production f ([source](https://www.linkedin.com/company/revatacarbon/#post-3ee1b295c80e))
-- **2026-07-24** — news mention: Revata Carbon PTE LTD: Our first bulk biomass export vessel has sailed. A milestone for Revata Carbo ([source](https://www.linkedin.com/company/revatacarbon/#post-ba374b1957f0))
-- **2026-07-23** — news mention: Carbon Centric AS: The first Canopy by T.EN™ powered by Shell CANSOLV® carbon capture solution is op ([source](https://www.linkedin.com/company/carboncentric/#post-fd60a6c432b3))
 
 ---
 

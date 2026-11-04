@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Tanzania</td></tr>
   <tr><th>Website</th><td><a href="https://www.darkearthcarbon.com/" target="_blank" rel="noopener">https://www.darkearthcarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/dark-earth-carbon/" target="_blank" rel="noopener">dark-earth-carbon — 984 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/dark-earth-carbon/" target="_blank" rel="noopener">dark-earth-carbon</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~125 (+6% YoY)</td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric</td></tr>
 </table>
@@ -38,6 +38,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-21** — news mention: Dark Earth Carbon: Biochar + compost produced maize yields 4.6–6.6× higher than an unamended control ([source](https://www.linkedin.com/company/dark-earth-carbon/#post-18454328f148))
 - **2026-09-06** — news mention: Dark Earth Carbon: Biochar + compost produced maize yields 4.6â6.6Ã higher than an unamended cont ([source](https://www.linkedin.com/company/dark-earth-carbon/#post-65347d628454))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-01** — news mention: Dark Earth Carbon: Biochar + compost produced maize yields 4.6–6.6× higher than an unamended control ([source](https://www.linkedin.com/company/dark-earth-carbon/#post-aa48b5fe57e4))

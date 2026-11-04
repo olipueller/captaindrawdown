@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://un-do.com/" target="_blank" rel="noopener">https://un-do.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/undocarbon/" target="_blank" rel="noopener">undocarbon — 12,623 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/undocarbon/" target="_blank" rel="noopener">undocarbon</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~60 (-9% YoY)</td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -34,6 +34,10 @@ UNDO Carbon Ltd. is a UK-based CO2 removal company specializing in enhanced rock
 
 ## History
 
+- **2026-11-03** — news mention: UNDO Impact Update | October 2026 | UNDO ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7523038855885848577/))
+- **2026-10-25** — news mention: Head of Carbon Partnerships at UNDO Carbon (Remote) | Dreamwork ([source](https://www.dreamworkhq.com/job/644ff83f-6142-4cce-8f14-b2b00c7c783f))
+- **2026-10-22** — news mention: #carbonforward #carbonremoval #enhancedrockweathering #cdr #climatetech #carbonmarkets #erw #project ([source](https://www.linkedin.com/feed/update/urn:li:share:7518700840581443584/))
+- **2026-10-17** — news mention: #blueearthsummit #carbonremoval #enhancedrockweathering #cdr #cobenefits #climatefinance #carbonmark ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7516846552586317825/))
 - **2026-10-14** — news mention: Permanent Carbon Removal - UNDO Carbon ([source](https://un-do.com/))
 - **2026-10-13** — news mention: #carbonremoval #cdr #enhancedrockweathering #climatetech | UNDO ([source](https://www.linkedin.com/feed/update/urn:li:share:7515340279680393216/))
 - **2026-10-10** — news mention: We’re delighted to celebrate our CFO, Alexandra Bury, who has won Carbon Markets Professional of the ([source](https://www.linkedin.com/feed/update/urn:li:share:7514360814968172544/))
@@ -62,10 +66,6 @@ UNDO Carbon Ltd. is a UK-based CO2 removal company specializing in enhanced rock
 - **2026-07-09** — news mention: Inside UNDO&#039;s On-Farm Research: Small Plot Monitoring Sites in Eastern Ontario - UNDO Carbon ([source](https://un-do.com/resources/blog/inside-undos-on-farm-research-small-plot-monitoring-sites-in-eastern-ontario/))
 - **2026-07-06** — news mention: #enhancedrockweathering #carbonremoval #cdr #mrv #climatetech #undocarbon #erw #soilscience #geochem ([source](https://www.linkedin.com/feed/update/urn:li:share:7479831417557000192/))
 - **2026-07-02** — news mention: UNDO Impact Update | June 2026 | UNDO ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7478079580214378496/))
-- **2026-07-01** — news mention: #canadaday #carbonremoval #enhancedrockweathering #climatesolutions #netzero #undocarbon #cdr #clima ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477740297943441409/))
-- **2026-06-26** — news mention: Wiemy jak usunąć CO2 z powietrza. Wykorzystamy do tego skały – Adrian Podgórny (Green Sequest) ([source](https://mamstartup.pl/wiemy-jak-usunac-co2-z-powietrza-wykorzystamy-do-tego-skaly-adrian-podgorny-green-sequest/))
-- **2026-06-24** — news mention: Zoe Couillard Prepares Composite Soil Samples for Analysis | UNDO posted on the topic | LinkedIn ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473011894757494784/))
-- **2026-06-24** — news mention: #wigba #womeningreenbusiness #carbonremoval #cdr #carbonmarkets #climatetech #undocarbon #enhancedro ([source](https://www.linkedin.com/feed/update/urn:li:share:7475178296578654208/))
 
 ---
 

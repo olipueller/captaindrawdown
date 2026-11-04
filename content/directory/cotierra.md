@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.cotierra.com/" target="_blank" rel="noopener">https://www.cotierra.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cotierra-ag/" target="_blank" rel="noopener">cotierra-ag — 6,085 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cotierra-ag/" target="_blank" rel="noopener">cotierra-ag</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~16 (0% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -34,6 +34,9 @@ Cotierra is a Swiss-Colombian, Zurich-headquartered startup (formerly Terra Pret
 
 ## History
 
+- **2026-11-01** — news mention: Carbon Removal Partners: Congrats to the team at Cotierra , especially Thomas Käslin and Lorenz Buse ([source](https://www.linkedin.com/company/carbon-removal-partners/#post-7c89ca09dee2))
+- **2026-10-23** — news mention: #worldofcoffee2026 #biochar #carbonstandards #climateresilience #sustainablecoffee #carbonremoval |  ([source](https://www.linkedin.com/feed/update/urn:li:share:7519329090877894656/))
+- **2026-10-19** — news mention: Carbon Drawdown Initiative: 📣Big news from Cotierra: we’ve raised USD 3 million to make tropical agr ([source](https://www.linkedin.com/company/carbon-drawdown-initiative/#post-1cff52274034))
 - **2026-10-15** — refresh: coresignal
 - **2026-10-15** — refresh: coresignal
 - **2026-10-13** — news mention: Our portfolio company Cotierra is entering its next phase of growth, scaling modular, decentralized  ([source](https://www.linkedin.com/feed/update/urn:li:share:7510659329537187840/))
@@ -61,9 +64,6 @@ Cotierra is a Swiss-Colombian, Zurich-headquartered startup (formerly Terra Pret
 - **2026-08-03** — news mention: Korean Researchers Turn Wet Coffee Grounds Into Biochar in 90 Seconds ([source](https://dailycoffeenews.com/2026/08/03/korean-researchers-turn-wet-coffee-grounds-into-biochar-in-90-seconds/))
 - **2026-07-23** — news mention: Terra Preta (Cotierra): Trust is built on delivery. We’re excited to share a major milestone with  m ([source](https://www.linkedin.com/company/terra-preta-carbon/#post-93bda950f4de))
 - **2026-07-23** — news mention: Terra Preta (Cotierra): Big milestone for the team! We’ve officially delivered our first 1,200 tCO₂e ([source](https://www.linkedin.com/company/terra-preta-carbon/#post-85065fb5ae7e))
-- **2026-07-15** — refresh: coresignal
-- **2026-07-15** — refresh: coresignal
-- **2026-06-15** — refresh: coresignal
 
 ---
 

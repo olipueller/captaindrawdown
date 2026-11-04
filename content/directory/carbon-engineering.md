@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://carbonengineering.com/" target="_blank" rel="noopener">https://carbonengineering.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonengineering/" target="_blank" rel="noopener">carbonengineering — 62,315 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonengineering/" target="_blank" rel="noopener">carbonengineering</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~187 (-1% YoY)</td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -30,6 +30,9 @@ Carbon Engineering is a Canadian DAC technology developer headquartered in Squam
 
 ## History
 
+- **2026-10-27** — news mention: Carbon Capture Market Trends And Forecast Analysis Reveal Strong Long-Term Potential ([source](https://www.einpresswire.com/article/951776681/carbon-capture-market-trends-and-forecast-analysis-reveal-strong-long-term-potential))
+- **2026-10-22** — news mention: &amp;quot;We should be taking carbon out of the atmosphere to help solve some of the problem. Don’t  ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7518806160716574720/))
+- **2026-10-19** — news mention: Modular Carbon Capture Machine Market Report 2026 Market Research Explores Growth Within A $3.12 Bil ([source](https://www.openpr.com/news/4666083/modular-carbon-capture-machine-market-report-2026-market))
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-10-02** — news mention: Eaton Fuel Cell 2026, 12% Growth, Airbus Partnership ([source](https://enkiai.com/fuel-cells/eaton-fuel-cell-strategy-winning-the-2025-hydrogen-race/))
 - **2026-10-01** — news mention: Carbon Footprint Software, Consultancy & Carbon Credits for Business ([source](https://www.carbonfootprint.com/))
@@ -63,9 +66,6 @@ At Carbon Engineering, we pull CO₂ from the air ([source](https://www.linkedin
 - **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://carbonengineering.com/news-updates/carbon-engineering-to-invest-in-technology-development-and-research-facilities/))
 - **2026-04-19** — merged 1 duplicate(s): Carbon Engineering/Occidental Petroleum
 - **2026-04-19** — refresh: coresignal, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://carbonengineering.com/news-updates/carbon-engineering-to-invest-in-technology-development-and-research-facilities/))
-- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://carbonengineering.com/))
-- **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.oxy.com/news/news-releases/occidental-enters-into-agreement-to-acquire-direct-air-capture-technology-innovator-carbon-engineering/))
 
 ---
 

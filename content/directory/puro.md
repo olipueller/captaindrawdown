@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>CDR Platform/Marketplace</td></tr>
   <tr><th>Country</th><td>Finland</td></tr>
   <tr><th>Website</th><td><a href="https://puro.earth/" target="_blank" rel="noopener">https://puro.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/puro-earth/" target="_blank" rel="noopener">puro-earth — 32,052 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/puro-earth/" target="_blank" rel="noopener">puro-earth</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~37 (-10% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>4 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -34,36 +34,36 @@ Puro.earth is a Finland-based carbon removal standard and registry, majority-own
 
 ## History
 
+- **2026-11-04** — news mention: Wakefield BioChar: Wakefield BioChar ranks sixth globally on CDR.fyi ’s all-time leaderboard for dur ([source](https://www.linkedin.com/company/wakefieldbiochar/#post-aabd27fbf499))
+- **2026-11-03** — news mention: Opinion: It’s Time For Governments To Rethink The Role That Carbon Removal Can Play ([source](https://carbonherald.com/opinion-its-time-for-governments-to-rethink-the-role-that-carbon-removal-can-play/?utm_source=rss&utm_medium=rss&utm_campaign=opinion-its-time-for-governments-to-rethink-the-role-that-carbon-removal-can-play))
+- **2026-11-03** — news mention: Puro.earth Surpasses 2M Carbon Removal Certificates Issued ([source](https://carbonherald.com/puro-earth-surpasses-2m-carbon-removal-certificates-issued/?utm_source=rss&utm_medium=rss&utm_campaign=puro-earth-surpasses-2m-carbon-removal-certificates-issued))
+- **2026-11-03** — news mention: Sequest Horizon - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/sequest-horizon/))
+- **2026-10-31** — news mention: Biodiversal: 2026 Q1: 6 clusters. 560 families. 72 production sites. From Pitalito (Huila) to Chapar ([source](https://www.linkedin.com/company/biodiversal/#post-a2497b8e5fe9))
+- **2026-10-30** — news mention: #carbonunbound #carbonremoval #cdr #corcs #london #mrv #vcm | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7521935501537398784/))
+- **2026-10-30** — news mention: Puro.earth reports that it has published its CCS+ Program methodology documents, which bring the CCS ([source](https://puro.earth/insights/post/puro-earth-expands-daccs-certification-with-ccs-methodologies))
+- **2026-10-30** — news mention: Explore the Carbon Issuance Calendar | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7521642817123954689/))
+- **2026-10-29** — news mention: 350solutions: We're thrilled to announce BC Biocarbon 's second Puro.earth CORC issuance from our Bi ([source](https://www.linkedin.com/company/350solutions/#post-29b0bc4c75d4))
+- **2026-10-29** — news mention: Ecological Carbon Offset Partners: The carbon removal market showed up in force at the Puro.earth CD ([source](https://www.linkedin.com/company/ep-carbon/#post-108532950bcf))
+- **2026-10-29** — news mention: Jain Irrigation Systems: We've signed a supply agreement for up to 19000 tonnes with Jain Irrigation ([source](https://www.linkedin.com/company/jain-irrigation-systems-ltd-/#post-65a920dade96))
+- **2026-10-27** — news mention: Terradot and HASI Close $34M Investment for Carbon Removal Projects ([source](https://finance.yahoo.com/energy/articles/terradot-hasi-close-34m-investment-140000988.html))
+- **2026-10-27** — news mention: Terradot and HASI Close $34M Investment for Carbon Removal Projects | FinancialContent ([source](https://www.financialcontent.com/article/bizwire-2026-10-27-terradot-and-hasi-close-34m-investment-for-carbon-removal-projects))
+- **2026-10-27** — news mention: Puro.earth Now Offers CCS+ DACCS Certification Via Its Multi-Program Framework ([source](https://carbonherald.com/puro-earth-now-offers-ccs-daccs-certification-via-its-multi-program-framework/?utm_source=rss&utm_medium=rss&utm_campaign=puro-earth-now-offers-ccs-daccs-certification-via-its-multi-program-framework))
+- **2026-10-27** — news mention: Nuffield Scholar Reports Back On Biochar’s Potential ([source](https://www.global-agriculture.com/global-agriculture/nuffield-scholar-reports-back-on-biochars-potential/))
+- **2026-10-27** — news mention: ADM: ADM is making investments in its Columbus, Nebraska, ethanol plant that are expected to add 20  ([source](https://www.linkedin.com/company/adm/#post-2e622a55e5c9))
+- **2026-10-26** — news mention: Substrate Biochar: BIG NEWS - Charworks 01, our first site in South Africa, is now operational. Our  ([source](https://www.linkedin.com/company/substrate-biochar/#post-d0966624a72c))
+- **2026-10-26** — news mention: Longstraw Carbon: Our 16th newsletter is live- We have news from the fields. In July and August, Kal ([source](https://www.linkedin.com/company/longstraw-carbon/#post-aa05373e1669))
+- **2026-10-22** — news mention: Reverse Coal - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/reverse-coal/))
+- **2026-10-22** — news mention: #cop31 #thinknegative #carbonremoval #cdr #climateaction #antalya | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7518649187824123904/))
+- **2026-10-21** — news mention: Puro: CCS+ DACCS certification is now available through Puro.earth ’s Multi-Program Framework. We’re ([source](https://www.linkedin.com/company/puro-earth/#post-10d7c3513d8c))
+- **2026-10-19** — news mention: Sitos Group: Almond shells are being converted into biochar at a new commercial facility in Delano,  ([source](https://www.linkedin.com/company/sitos-group/#post-758e6a72039c))
+- **2026-10-18** — news mention: Climate startup Tivano secures $606K to turn Namibia’s invasive bush into carbon credits - Innovatio ([source](https://innovation-village.com/climate-startup-tivano-secures-606k-to-turn-namibias-invasive-bush-into-carbon-credits/))
+- **2026-10-17** — news mention: #carbonunbound #carbonremoval #cdr #corcs #london #mrv #vcm #crcf | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7516484304361799680/))
+- **2026-10-16** — news mention: Tivano Carbon: Tivano applies Swiss expertise to carbon dioxide removal (CDR) and underground biomas ([source](https://www.linkedin.com/company/tivano-carbon/#post-68db978754a5))
+- **2026-10-16** — news mention: Gevo: A project like Gevo North Dakota (GND) that’s delivering today is a great candidate to trust t ([source](https://www.linkedin.com/company/gevo/#post-dff393af1dae))
+- **2026-10-16** — news mention: American BioCarbon CT, LLC - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/american-biocarbon-ct-llc/))
+- **2026-10-15** — news mention: Beston: From Project Announcement to Industry Dialogue: Beston Group® at Puro.earth CDR Summit 𝟐𝟎𝟐𝟔  ([source](https://www.linkedin.com/company/bestongroup/#post-398bbe794101))
 - **2026-10-13** — news mention: ESG News Week In Review: 16 September - 30 September ([source](https://esgnews.com/esg-news-week-in-review-16-september-30-september/))
 - **2026-10-13** — news mention: Carbon Hill - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/carbon-hill/))
-- **2026-10-13** — news mention: Sanbra Foods Biochar - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/sanbra-foods-biochar/))
-- **2026-10-13** — news mention: CarbonConnect: 5,000+ tonnes of CO₂. Back in the soil, not the air. That’s what CarbonConnect’s bioc ([source](https://www.linkedin.com/company/hempconnecthamburg/#post-ff50139f4b74))
-- **2026-10-10** — news mention: Exomad Green, Riberalta - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/exomad-green-riberalta/))
-- **2026-10-10** — news mention: Carbon Capture Coalition: ADM is preparing to enter the voluntary carbon removal market with a new o ([source](https://www.linkedin.com/company/carbon-capture-coalition/#post-ee7de7609525))
-- **2026-10-07** — news mention: Foundation 1 - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/foundation-1/))
-- **2026-10-07** — news mention: Beston Group: From Project Announcement to Industry Dialogue: Beston Group® at Puro.earth CDR Summit ([source](https://www.linkedin.com/company/beston-henan-machinery-co-ltd-/#post-95b260894b40))
-- **2026-10-06** — news mention: Carbofex Nokia 1 - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/carbofex-nokia-1/?_locale=en_GB&print_view=1&popup=1&download=1))
-- **2026-10-06** — news mention: Guaicaramo - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/guaicaramo/))
-- **2026-10-06** — news mention: Evero - InBECCS - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/evero-inbeccs/))
-- **2026-10-06** — news mention: Biochar Production and Carbon Removal Company: From pilot to commercial deployment: an important mil ([source](https://www.linkedin.com/company/capchar/#post-4d7becf25605))
-- **2026-10-05** — news mention: Tapovanam Biochar - Prakruthi - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/tapovanam-biochar-prakruthi/))
-- **2026-10-05** — news mention: BC Biocarbon: We're thrilled to announce BC Biocarbon 's second Puro.earth CORC issuance from our Bi ([source](https://www.linkedin.com/company/bc-biocarbon/#post-370bab9aadfa))
-- **2026-10-03** — news mention: Nordgau Carbon, Wernberg-Köblitz - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/nordgau-carbon-wernberg-koblitz/))
-- **2026-10-02** — news mention: Exomad Green, Concepción - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/exomad-green-concepcion/))
-- **2026-10-01** — news mention: Pyrocal - Wellcamp - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/pyrocal-wellcamp/))
-- **2026-09-30** — news mention: From Project Announcement to Industry Dialogue: Beston Group at Puro.earth CDR Summit 2026 - Beston  ([source](https://www.bestongroup.com/company-news/from-project-announcement-to-industry-dialogue-beston-group-at-puro-earth-cdr-summit-2026/))
-- **2026-09-30** — news mention: Puro.earth: Yesterday, we marked the launch of Puro.earth 's new Environmental Attributes Registry w ([source](https://www.linkedin.com/company/puro-co2-removal-marketplace/#post-4636a1f41e6e))
-- **2026-09-29** — news mention: Ecological Carbon Offset Partners: The carbon removal market showed up in force at the Puro.earth CD ([source](https://www.linkedin.com/company/ep-carbon/#post-7d70ebb6bd3c))
-- **2026-09-29** — news mention: Aperam BioEnergia - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/aperam-bioenergia/))
-- **2026-09-29** — news mention: #carbonunbound #carbonremoval #cdr #corcs #london #mrv #crcf #vcm | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7510325471658717185/))
-- **2026-09-28** — news mention: ADM enters CDR market with 800,000-tonne Nebraska CCS facility | Carbon Capture | gasworld ([source](https://www.gasworld.com/story/adm-enters-cdr-market-with-800000-tonne-nebraska-ccs-facility/2260686.article/))
-- **2026-09-28** — news mention: 350solutions: We're thrilled to announce BC Biocarbon 's second Puro.earth CORC issuance from our Bi ([source](https://www.linkedin.com/company/350solutions/#post-c07f7c45aff0))
-- **2026-09-28** — news mention: Biodiversal: 2026 Q1: 6 clusters. 560 families. 72 production sites. From Pitalito (Huila) to Chapar ([source](https://www.linkedin.com/company/biodiversal-biogrowth/#post-adc0b80d9dfe))
-- **2026-09-28** — news mention: Nordic Carbon: We're preparing to commission our project in Ghana. Once operational, the facility is ([source](https://www.linkedin.com/company/nordic-carbon/#post-1b430fa45953))
-- **2026-09-26** — news mention: #climateweeknyc #cdr #carbonremoval #durablecdr #latinamerica #climateaction | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7509217155230511104/))
-- **2026-09-24** — news mention: #purocdrsummit #climateweeknyc #carbonremoval #cdr #corcs #newyork | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7508518044885757953/))
-- **2026-09-23** — news mention: ADM Enters the VCM With 800,000 Tons of Carbon Removal Credits Certified by Puro.earth • Carbon Cred ([source](https://carboncredits.com/adm-enters-the-vcm-with-800000-tons-of-carbon-removal-credits-certified-by-puro-earth/))
-- **2026-09-23** — news mention: EXTRACTED: Daily News Clips 9/23/26 ([source](https://extracteddaily.substack.com/p/extracted-daily-news-clips-92326))
 
 ---
 

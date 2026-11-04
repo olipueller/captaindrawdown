@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>Belgium</td></tr>
   <tr><th>Website</th><td><a href="https://www.sirona.tech/" target="_blank" rel="noopener">https://www.sirona.tech/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sirona-technologies/" target="_blank" rel="noopener">sirona-technologies — 7,652 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sirona-technologies/" target="_blank" rel="noopener">sirona-technologies</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~33 (+14% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -34,6 +34,13 @@ Sirona Technologies is a Belgium-based Direct Air Capture startup founded in 202
 
 ## History
 
+- **2026-10-30** — news mention: 💫 CDR Momentum, Edition IV
+
+NEP members are at the heart of this month’s carbon removal highlights.
+ ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7521873958280011776/))
+- **2026-10-24** — news mention: Sirona Technologies: Huge news 🚀 Project Furu has been selected by the EU Innovation Fund! 🇪🇺🇳🇴 Toda ([source](https://www.linkedin.com/company/sirona-technologies/#post-b06fac30bde7))
+- **2026-10-20** — news mention: Sirona’s Furu Is Now The First DACCS Project Backed By The EU Innovation Fund ([source](https://carbonherald.com/sironas-furu-is-now-the-first-daccs-project-backed-by-the-eu-innovation-fund/?utm_source=rss&utm_medium=rss&utm_campaign=sironas-furu-is-now-the-first-daccs-project-backed-by-the-eu-innovation-fund))
+- **2026-10-20** — news mention: EU-Startups identifies 20 startups among 77 projects selected for €3.4 billion net-zero funding | EU ([source](https://www.eu-startups.com/2026/10/eu-startups-identifies-20-startups-among-77-projects-selected-for-e3-4-billion-net-zero-funding))
 - **2026-10-01** — news mention: Milkywire: 🌍 Milkywire has completed eight Salesforce-backed pre-purchases, securing 3,661 tonnes of ([source](https://www.linkedin.com/company/milkywire/#post-08426181283f))
 - **2026-09-25** — news mention: Sirona Technologies Shifts Focus To DACCS In Norway, Pausing Middle East Project ([source](https://carbonherald.com/sirona-technologies-shifts-focus-to-daccs-in-norway-pausing-middle-east-project/?utm_source=rss&utm_medium=rss&utm_campaign=sirona-technologies-shifts-focus-to-daccs-in-norway-pausing-middle-east-project))
 - **2026-09-15** — refresh: coresignal, screenshot

@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://bettercarbon.eu/" target="_blank" rel="noopener">https://bettercarbon.eu/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/better-carbon/" target="_blank" rel="noopener">better-carbon — 494 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/better-carbon/" target="_blank" rel="noopener">better-carbon</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~3</td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ Better Carbon B.V. is a Netherlands-based small biochar producer that creates bi
 
 ## History
 
+- **2026-10-23** — news mention: Better Carbon BV: 👉 One tonne of #biomass residue, two avenues: biochar or sustainable aviation fuel ([source](https://www.linkedin.com/company/better-carbon/#post-9cc760cb7905))
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-08-04** — news mention: Better Carbon BV: Isometric has issued Biochar Solutions LTD ' first 2,821 carbon removal certificat ([source](https://www.linkedin.com/company/better-carbon/#post-d4b64d392b90))

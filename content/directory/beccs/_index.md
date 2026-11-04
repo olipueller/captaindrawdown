@@ -8,7 +8,7 @@ url: "/directory/beccs/"
 
 # BECCS — 84 Companies Tracked
 
-**Market pulse for BECCS (updated 2026-10-15).**
+**Market pulse for BECCS (updated 2026-11-04).**
 
 <div class="directory-stats">
   <div class="stat-box"><span class="num">84</span><span class="label">Companies</span></div>
@@ -19,22 +19,14 @@ url: "/directory/beccs/"
 </div>
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">108,916</span><span class="label">Total employees (lower bound)</span></div>
-  <div class="stat-box"><span class="num">78/84</span><span class="label">Companies with headcount data</span></div>
+  <div class="stat-box"><span class="num">20</span><span class="label">Micro (under 10)</span></div>
+  <div class="stat-box"><span class="num">23</span><span class="label">Small (10 to 49)</span></div>
+  <div class="stat-box"><span class="num">13</span><span class="label">Medium (50 to 249)</span></div>
+  <div class="stat-box"><span class="num">26</span><span class="label">Large (250+)</span></div>
+  <div class="stat-box"><span class="num">2</span><span class="label">No size data</span></div>
 </div>
 
-## Largest companies
-
-- [ADM](/directory/adm/) — 41049 employees
-- [SUEZ](/directory/suez/) — 26541 employees
-- [RWE](/directory/rwe/) — 15011 employees
-- [Orsted](/directory/orsted/) — 9330 employees
-- [Kanadevia Inova](/directory/kanadevia-inova/) — 2079 employees
-- [Toshiba ESS](/directory/toshiba-ess/) — 2069 employees
-- [POET](/directory/poet/) — 1959 employees
-- [Drax](/directory/drax/) — 1944 employees
-- [Uisa](/directory/uisa/) — 1411 employees
-- [Viridor](/directory/viridor/) — 1099 employees
+Company size classes follow the EU SME staff thresholds (micro under 10, small 10 to 49, medium 50 to 249, large 250 and more), derived from each company's LinkedIn size band and headcount signals. Exact headcounts are not published.
 
 ## All BECCS companies
 

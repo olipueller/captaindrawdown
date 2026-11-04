@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Colombia</td></tr>
   <tr><th>Website</th><td><a href="https://www.cercarbono.com/" target="_blank" rel="noopener">https://www.cercarbono.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cercarbono/" target="_blank" rel="noopener">cercarbono — 9,861 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cercarbono/" target="_blank" rel="noopener">cercarbono</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~15 (0% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ Cercarbono is a voluntary carbon certification standard established in Colombia 
 
 ## History
 
+- **2026-10-19** — news mention: Carbonmark: Carbonmark and EcoRegistry are now connected. Credits certified under the Cercarbono sta ([source](https://www.linkedin.com/company/carbonmarkcom/#post-82e025ba879d))
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-09-17** — news mention: Cercarbono: ð Cercarbono has opened for public consultation the Nature Integrity Methodology for  ([source](https://www.linkedin.com/company/cercarbono/#post-233ddf36493f))
 - **2026-08-06** — news mention: Puro.earth's CORC issuance jumped over 60% year-on-year. Its retirement buyer base is 4.7x what it w ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3msfblziy5b2y))

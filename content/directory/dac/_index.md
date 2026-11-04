@@ -8,7 +8,7 @@ url: "/directory/dac/"
 
 # DAC — 125 Companies Tracked
 
-**Market pulse for DAC (updated 2026-10-15).**
+**Market pulse for DAC (updated 2026-11-04).**
 
 <div class="directory-stats">
   <div class="stat-box"><span class="num">125</span><span class="label">Companies</span></div>
@@ -19,22 +19,14 @@ url: "/directory/dac/"
 </div>
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">467,219</span><span class="label">Total employees (lower bound)</span></div>
-  <div class="stat-box"><span class="num">110/125</span><span class="label">Companies with headcount data</span></div>
+  <div class="stat-box"><span class="num">51</span><span class="label">Micro (under 10)</span></div>
+  <div class="stat-box"><span class="num">40</span><span class="label">Small (10 to 49)</span></div>
+  <div class="stat-box"><span class="num">16</span><span class="label">Medium (50 to 249)</span></div>
+  <div class="stat-box"><span class="num">9</span><span class="label">Large (250+)</span></div>
+  <div class="stat-box"><span class="num">9</span><span class="label">No size data</span></div>
 </div>
 
-## Largest companies
-
-- [Shell](/directory/shell/) — 219735 employees
-- [Airbus](/directory/airbus/) — 85861 employees
-- [ExxonMobil](/directory/exxonmobil/) — 72817 employees
-- [ADNOC](/directory/adnoc/) — 50026 employees
-- [Equinor/Rolls Royce](/directory/equinorrolls-royce/) — 16757 employees
-- [Oxy](/directory/oxy/) — 16366 employees
-- [China Energy Engineering Corporation](/directory/china-energy-engineering-corporation/) — 1743 employees
-- [Sizewell C/EDF Energy](/directory/sizewell-cedf-energy/) — 1234 employees
-- [Climeworks](/directory/climeworks/) — 396 employees
-- [Carbon Engineering](/directory/carbon-engineering/) — 187 employees
+Company size classes follow the EU SME staff thresholds (micro under 10, small 10 to 49, medium 50 to 249, large 250 and more), derived from each company's LinkedIn size band and headcount signals. Exact headcounts are not published.
 
 ## All DAC companies
 

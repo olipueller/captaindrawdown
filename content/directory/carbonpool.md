@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonpool.earth/" target="_blank" rel="noopener">https://www.carbonpool.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonpool/" target="_blank" rel="noopener">carbonpool — 4,854 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonpool/" target="_blank" rel="noopener">carbonpool</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~13 (-28% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ CarbonPool is a Zurich-based carbon credit insurance company founded in 2023 by 
 
 ## History
 
+- **2026-10-18** — news mention: CarbonPool: Big News! CarbonPool and Oka, The Carbon Insurance Company® are announcing today the fir ([source](https://www.linkedin.com/company/carbonpool/#post-1d43230a3a81))
+- **2026-10-15** — news mention: Carbon Insurance Breakthrough Could Free Up Carbon Credits For Sale ([source](https://carbonherald.com/carbon-insurance-breakthrough-could-free-up-carbon-credits-for-sale/?utm_source=rss&utm_medium=rss&utm_campaign=carbon-insurance-breakthrough-could-free-up-carbon-credits-for-sale))
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-08-28** — news mention: CarbonPool: We are live! Our Reversal Insurance Policy is officially approved by Verra under the Dur ([source](https://www.linkedin.com/company/carbonpool/#post-61ec18ed1398))
 - **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active

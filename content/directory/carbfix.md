@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Carbon Mineralization</td></tr>
   <tr><th>Country</th><td>Iceland</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbfix.com/" target="_blank" rel="noopener">https://www.carbfix.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbfix/" target="_blank" rel="noopener">carbfix — 30,730 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbfix/" target="_blank" rel="noopener">carbfix</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~51 (-7% YoY)</td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
@@ -34,6 +34,19 @@ Carbfix is an Icelandic carbon mineralization company, a subsidiary of Reykjaví
 
 ## History
 
+- **2026-11-03** — news mention: Borgarstjórn boðar viðsnúning í rekstri á næstu árum — Orkuveitan ekki til sölu — Vitinn ([source](https://vitinn.news/grein/6f6f0c42-687e-40eb-bd9e-9644bfb325d1))
+- **2026-11-03** — news mention: Carbon Loop #026 - by Bennett Green - The Carbon Loop ([source](https://carbonloop.substack.com/p/carbon-loop-026))
+- **2026-11-03** — news mention: Orca (carbon capture plant) - Wikipedia ([source](https://en.wikipedia.org/wiki/Orca_(carbon_capture_plant)))
+- **2026-10-29** — news mention: Carbfix: Carbfix explores potential for permanent CO₂ storage to support Icelandic industry. An impo ([source](https://www.linkedin.com/company/carbfix/#post-74d4ffd609ac))
+- **2026-10-19** — news mention: Frá viðarkurli til vítissóda – loftslagið og rétttrúnaðurinn | Frettin.is ([source](https://frettin.is/2026/10/19/fra-vidarkurli-til-vitissoda-loftslagid-og-retttrunadurinn/))
+- **2026-10-18** — news mention: Iceland is turning 120,000 tonnes of carbon dioxide into stone. It is locking away the greenhouse ga ([source](https://www.europesays.com/3317658/))
+- **2026-10-18** — news mention: A protest, a price: Delhi trade faces Rs 400 crore daily risk, says CAIT ([source](https://fvbb.com/ns/a-protest-a-price-delhi-trade-faces-rs-400/325382))
+- **2026-10-18** — news mention: Iceland is turning 120,000 tonnes of carbon dioxide into stone. It is locking away the greenhouse ga ([source](https://fvbb.com/ns/iceland-is-turning-120-000-tonnes-of-carbon/325376))
+- **2026-10-18** — news mention: Iceland is turning 120,000 tonnes of carbon dioxide into stone. It is locking away the greenhouse ga ([source](https://economictimes.indiatimes.com/magazines/panache/iceland-is-turning-120000-tonnes-of-carbon-dioxide-into-stone-it-is-locking-away-the-greenhouse-gas-underground-to-fight-global-warming/articleshow/135026889.cms?from=mdr))
+- **2026-10-16** — news mention: Frá viðarkurli til vítissóda. Loftslagið og rétttrúnaðurinn — Vitinn ([source](https://vitinn.news/grein/5c7895b9-0121-4f82-83da-5048cec9a8dd))
+- **2026-10-16** — news mention: Frá viðarkurli til vítissóda. Loftslagið og rétttrúnaðurinn - Útvarp Saga ([source](https://utvarpsaga.is/fra-vidarkurli-til-vitissoda-loftslagid-og-retttrunadurinn/))
+- **2026-10-16** — news mention: How Australian Volcanic Rocks Could Permanently Lock Away CO2 as Stone | Impactful Ninja ([source](https://impactful.ninja/how-australian-volcanic-rocks-could-permanently-lock-away-co2-as-stone/))
+- **2026-10-16** — news mention: Carbfix chce zatrzymać emisje z Grundartangi – ICELAND NEWS ([source](https://icelandnews.is/informacje/carbfix-chce-zatrzymac-emisje-z-grundartangi))
 - **2026-10-15** — refresh: screenshot
 - **2026-10-09** — news mention: CCUS Technology | Carbon Capture and Carbon-to-Stone ([source](https://riceias.com/carbon-capture-ccus-carbon-to-stone-technology/))
 - **2026-10-08** — news mention: Iceland-India Cooperation: Geothermal Energy & CCUS ([source](https://www.nextias.com/ca/current-affairs/08-10-2026/iceland-india-geothermal-ccus))
@@ -51,19 +64,6 @@ Carbfix is an Icelandic carbon mineralization company, a subsidiary of Reykjaví
 - **2026-10-01** — news mention: The India–EFTA Partnership: One Plus One Equals Three |ForumIAS ([source](https://forumias.com/blog/the-india-efta-partnership-one-plus-one-equals-three/))
 - **2026-10-01** — news mention: India-EFTA TEPA at One Year UPSC | Best OPSC OAS Coaching Bhubaneswar ([source](https://striveedgeias.in/india-efta-tepa-at-one-year-investment-technology-and-arctic-partnership/))
 - **2026-10-01** — news mention: Daily Editorial Analysis 1 October 2026 ([source](https://vajiramandravi.com/current-affairs/daily-editorial-analysis-1-october-2026/))
-- **2026-09-30** — news mention: The India-EFTA partnership, one plus one equals three - The Hindu ([source](https://www.thehindu.com/opinion/lead/the-india-efta-partnership-one-plus-one-equals-three/article71529585.ece))
-- **2026-09-25** — news mention: 「ネガティブエミッション技術市場規模、成長と動向分析レポート 2026-2033年」の市場調査レポート出版・販売開始のご案内 | 株式会社SEMABIZのプレスリリース ([source](https://www.dreamnews.jp/press/0000363578))
-- **2026-09-22** — news mention: CO2 Mineralization Reactor Market 2026: Key Players, Decarbonization Trends and Business Opportuniti ([source](https://www.openpr.com/news/4639901/co2-mineralization-reactor-market-2026-key-players))
-- **2026-09-21** — news mention: Ratcliffe keppir við CarbFix | Frettin.is ([source](https://frettin.is/2026/09/21/ratcliffe-keppir-vid-carbfix/))
-- **2026-09-20** — news mention: Ratcliffe keppir við CarbFix - Útvarp Saga ([source](https://utvarpsaga.is/ratcliffe-keppir-vid-carbfix/))
-- **2026-09-20** — news mention: CO2-Speicher in der Nordsee: Greensand startet ([source](https://www.cleanthinking.de/co2-speicher-nordsee-greensand))
-- **2026-09-19** — news mention: Public perceptions and social acceptance of carbon capture and storage: summary - GOV.UK ([source](https://www.gov.uk/government/publications/public-perceptions-and-social-acceptance-of-carbon-capture-and-storage/public-perceptions-and-social-acceptance-of-carbon-capture-and-storage-summary))
-- **2026-09-18** — news mention: CO2 Mineralization Market Expected to Grow at 10.1% CAGR During 2026-2032 Amid Rising Net-Zero Emiss ([source](https://www.openpr.com/news/4635752/co2-mineralization-market-expected-to-grow-at-10-1-cagr-during))
-- **2026-09-18** — news mention: INEOS Opens First Commercial-Scale Offshore CO2 Storage Site In The EU ([source](https://carbonherald.com/ineos-opens-first-commercial-scale-offshore-co2-storage-site-in-the-eu/))
-- **2026-09-16** — news mention: Carbon Dioxide Removal Market - A Global and Regional Analysis: Focus on Technology Type, Carbon Cre ([source](https://bisresearch.com/industry-report/carbon-dioxide-removal-market.html))
-- **2026-09-16** — news mention: Carbfix Achieves 99.6% CO2 Capture Efficiency At ON Power‘s Hellisheiði Plant ([source](https://carbonherald.com/carbfix-achieves-99-6-co2-capture-efficiency-at-on-powers-hellisheidi-plant/?utm_source=rss&utm_medium=rss&utm_campaign=carbfix-achieves-99-6-co2-capture-efficiency-at-on-powers-hellisheidi-plant))
-- **2026-09-16** — news mention: Carbfix: Carbfix technology delivers 99.6% CO₂ capture efficiency in continuous operation at Orka ná ([source](https://www.linkedin.com/company/carbfix/#post-4db6469a6717))
-- **2026-09-15** — news mention: Carbfix logra capturar el 99,6 % del CO2 y el H2S de una central geotérmica en Islandia | PiensaGeot ([source](https://www.piensageotermia.com/carbfix-logra-capturar-el-996-del-co2-y-el-h2s-de-una-central-geotermica-en-islandia/))
 
 ---
 

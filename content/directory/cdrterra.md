@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://cdrterra.de/en/" target="_blank" rel="noopener">https://cdrterra.de/en/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cdrterra/" target="_blank" rel="noopener">cdrterra — 2,172 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cdrterra/" target="_blank" rel="noopener">cdrterra</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~125</td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,6 +31,10 @@ CDRterra is a German federal research funding program (BMFTR, formerly BMBF) lau
 
 ## History
 
+- **2026-10-30** — news mention: #cop31 | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:share:7521882780696379392/))
+- **2026-10-28** — news mention: Meet CDRterra Scientists: Ronja Wollnik and Dr. Nils Matzner | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7521138300871401472/))
+- **2026-10-27** — news mention: #munichclimateweek #cdr #cdr #carbondioxideremoval #wissenschaftskommunikation | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7520463225004511232/))
+- **2026-10-19** — news mention: CDRterra: 🔬 CDR researchers: Contribute your expertise to the IPCC! The IPCC is preparing a new Meth ([source](https://www.linkedin.com/company/cdrterra/#post-9fb60b6e798f))
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-10-09** — news mention: #cdr #co2entnahme #klimaschutz #cdrterra #forschung #stakeholderdialog | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7513914542439976962/))
 - **2026-10-09** — news mention: #carbondioxideremoval | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:share:7514248955816493056/))
@@ -58,10 +62,6 @@ Ronja Wollnik, Daniela Thrän. Their s ([source](https://www.linkedin.com/feed/u
 - **2026-06-27** — news mention: #cdrterra #carbondioxideremoval #cdr #climateresearch | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7476209175195222016/))
 - **2026-06-24** — news mention: #carbondioxideremoval #cdrterra #carbondioxideremoval #cdr #climateresearch #netzero #beccs #daccs # ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475555039118417921/))
 - **2026-06-24** — news mention: #cdrexperiencetour #carbondioxideremoval #cdr #klimaforschung | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473707417059467264/))
-- **2026-06-24** — news mention: CDR - Experience Tour 2026 | German Biochar e.V. (German Biochar Association) ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473730588957544448/))
-- **2026-06-10** — news mention: #icnce26 #cdr #icnce26 #uptakeeuproject #carbondioxideremoval #cdr #cdrterra | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:share:7470202621920944129/))
-- **2026-05-22** — liveliness: 🟡 Moderate → 🟢 Active
-- **2026-05-21** — news mention: #cdr #carbondioxideremoval #klimaschutz #wissenstransfer | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:share:7462876992414289920/))
 
 ---
 

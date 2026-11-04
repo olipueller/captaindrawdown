@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>CDR Platform/Marketplace</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.patch.io/" target="_blank" rel="noopener">https://www.patch.io/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/usepatch/" target="_blank" rel="noopener">usepatch — 34,140 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/usepatch/" target="_blank" rel="noopener">usepatch</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~99 (+3% YoY)</td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>12 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -34,6 +34,8 @@ Patch is a San Francisco-based carbon credit platform that combines software, da
 
 ## History
 
+- **2026-10-29** — news mention: A patch of the Gulf of Maine turned hot pink: scientists poured 16,500 gallons of lye into the sea t ([source](https://www.futura-sciences.com/en/a-patch-of-the-gulf-of-maine-turned-hot-pink-scientists-poured-16500-gallons-of-lye-into-the-sea-to-help-it-absorb-co2_901932/))
+- **2026-10-20** — news mention: 🥨 Munich Climate Week is underway, and Carbon Dioxide Remov ([source](https://www.linkedin.com/feed/update/urn:li:share:7518225992646250496/))
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-09-08** — news mention: Is the Cheap Carbon Credit Era Coming to an End? • Carbon Credits ([source](https://carboncredits.com/is-the-cheap-carbon-credit-era-coming-to-an-end/))
 - **2026-08-22** — news mention: Researchers released 16,500 gallons of sodium hydroxide into the ocean near Cape Cod, the first EPA- ([source](https://www.ecoticias.com/en/researchers-released-16500-gallons-of-sodium-hydroxide-into-the-ocean-near-cape-cod-the-first-epa-permitted-trial-of-its-kind-and-a-dye-tracer-followed-the-patch-for-five-days/35875/))

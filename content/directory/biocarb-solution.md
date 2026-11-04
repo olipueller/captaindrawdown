@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://biocarb.dk/" target="_blank" rel="noopener">https://biocarb.dk/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biocarb-solution/" target="_blank" rel="noopener">biocarb-solution — 513 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biocarb-solution/" target="_blank" rel="noopener">biocarb-solution</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~6 (0% YoY)</td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ BioCarb Solution is a Danish BECCS aggregator that collects biogenic CO2 from Da
 
 ## History
 
+- **2026-10-23** — news mention: BioCarb Solution: New ownership – more possibilities and more capital to scale! We are excited to sh ([source](https://www.linkedin.com/company/biocarb-solution/#post-b57ee030651d))
 - **2026-09-07** — news mention: BioCarb Solution: New ownership â more possibilities and more capital to scale! We are excited to  ([source](https://www.linkedin.com/company/biocarb-solution/#post-a93b8361167e))
 - **2026-08-31** — news mention: BioCarb Solution: New ownership – more possibilities and more capital to scale! We are excited to sh ([source](https://www.linkedin.com/company/biocarb-solution/#post-0b780af0763d))
 - **2026-08-15** — refresh: coresignal, liveliness

@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>Ireland</td></tr>
   <tr><th>Website</th><td><a href="https://neg8carbon.com/" target="_blank" rel="noopener">https://neg8carbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/neg8carbon/" target="_blank" rel="noopener">neg8carbon — 3,369 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/neg8carbon/" target="_blank" rel="noopener">neg8carbon</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~11 (-8% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ NEG8 Carbon is a Waterford, Ireland-based Direct Air Capture company (originally
 
 ## History
 
+- **2026-11-03** — news mention: NEG8 Carbon Selected for Net Zero Innovation Hub for Data Centres Accelerator Programme ([source](https://neg8carbon.com/data-centre-innovation-nzih))
+- **2026-11-03** — news mention: NEG8 Carbon Wins WCCUS Breakthrough Technology Award for Electrostatic Direct Air Capture ([source](https://neg8carbon.com/wccus-breakthrough-technology-award-for-electrostatic-direct-air-capture))
 - **2026-10-12** — news mention: The International Maritime Organization have adopted formal assessment frameworks for three marine c ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mxopnlvrxk2x))
 - **2026-10-12** — news mention: NEG8 Carbon Earns International Recognition For Direct Air Capture Tech ([source](https://carbonherald.com/neg8-carbon-earns-international-recognition-for-direct-air-capture-tech/?utm_source=rss&utm_medium=rss&utm_campaign=neg8-carbon-earns-international-recognition-for-direct-air-capture-tech))
 - **2026-10-01** — news mention: The NZIH Programme Welcomes NEG8 Carbon As A New Member, Linking DAC With Data Centers ([source](https://carbonherald.com/the-nzih-programme-welcomes-neg8-carbon-as-a-new-member-linking-dac-with-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=the-nzih-programme-welcomes-neg8-carbon-as-a-new-member-linking-dac-with-data-centers))

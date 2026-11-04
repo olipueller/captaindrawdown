@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Thailand</td></tr>
   <tr><th>Website</th><td><a href="https://biochar.life/" target="_blank" rel="noopener">https://biochar.life/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biochar-life/" target="_blank" rel="noopener">biochar-life — 5,091 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biochar-life/" target="_blank" rel="noopener">biochar-life</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~18 (-14% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ Biochar Life is a Delaware Public Benefit Corporation and impact venture of the 
 
 ## History
 
+- **2026-11-02** — news mention: Biochar Life Updates, Team, and Funding Progress | Wefunder, Home of the Community Round ([source](https://wefunder.com/biocharlife))
 - **2026-09-04** — news mention: Biochar Life: 🚨[BREAKING] European Union set to create &gt;€50,000,000,000 compliance market for CDR ([source](https://www.linkedin.com/company/biochar-life/#post-b8b26e6485af))
 - **2026-08-15** — refresh: coresignal, liveliness
 - **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://carbonherald.com/biochar-life-is-helping-farmers-double-their-income-while-saving-the-planet/))

@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.brodiebiomass.co.uk/" target="_blank" rel="noopener">https://www.brodiebiomass.co.uk/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/brodiebiomass/" target="_blank" rel="noopener">brodiebiomass — 1,778 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/brodiebiomass/" target="_blank" rel="noopener">brodiebiomass</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~3 (0% YoY)</td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -32,6 +32,7 @@ Brodie Biomass is a biochar production arm of Brodie Farms, a family-owned Surre
 
 ## History
 
+- **2026-11-04** — news mention: Brodie Biomass: #Woodtek has just completed a major upgrade to Bibi, our C1000 pyrolysis unit. First ([source](https://www.linkedin.com/company/brodiebiomass/#post-348e5b37b061))
 - **2026-10-05** — news mention: Brodie Biomass: We are delighted to confirm that our European Biochar Certificate (EBC) certificatio ([source](https://www.linkedin.com/company/brodiebiomass/#post-afb99000a5ce))
 - **2026-08-30** — news mention: Accend AS: Proud to have supported Brodie Biomass along this journey, from early feasibility assessm ([source](https://www.linkedin.com/company/accend-conusulting/#post-2b823706ecf9))
 - **2026-08-29** — news mention: Brodie Biomass: Like many others, we are sure, it has been an incredibly busy few months and there i ([source](https://www.linkedin.com/company/brodiebiomass/#post-fbb821afd66f))

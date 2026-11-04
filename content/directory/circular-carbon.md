@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://circular-carbon.com/en/" target="_blank" rel="noopener">https://circular-carbon.com/en/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/circular-carbon/" target="_blank" rel="noopener">circular-carbon — 5,250 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/circular-carbon/" target="_blank" rel="noopener">circular-carbon</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~30 (-71% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -33,6 +33,7 @@ Circular Carbon GmbH, founded in 2018, is a German biochar company and subsidiar
 
 ## History
 
+- **2026-10-18** — news mention: Carbon Support–Alkali Interplay Controls CO₂ Slip during Direct Air Capture and Methanation over Dua ([source](https://doi.org/10.21203/rs.3.rs-11152786/v1))
 - **2026-09-01** — news mention: Conversations around carbon storage are important - but seeing it in practice brings a whole new per ([source](https://www.linkedin.com/feed/update/urn:li:share:7500172799345594368/))
 - **2026-08-15** — refresh: coresignal
 - **2026-08-13** — news mention: Carbon Dioxide Utilization and Removal: Building Circular Carbon Economy ([source](https://doi.org/10.5281/zenodo.21817016))

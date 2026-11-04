@@ -8,7 +8,7 @@ url: "/directory/mineralization/"
 
 # Mineralization — 42 Companies Tracked
 
-**Market pulse for Mineralization (updated 2026-10-15).**
+**Market pulse for Mineralization (updated 2026-11-04).**
 
 <div class="directory-stats">
   <div class="stat-box"><span class="num">42</span><span class="label">Companies</span></div>
@@ -19,22 +19,14 @@ url: "/directory/mineralization/"
 </div>
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">1,166</span><span class="label">Total employees (lower bound)</span></div>
-  <div class="stat-box"><span class="num">37/42</span><span class="label">Companies with headcount data</span></div>
+  <div class="stat-box"><span class="num">16</span><span class="label">Micro (under 10)</span></div>
+  <div class="stat-box"><span class="num">17</span><span class="label">Small (10 to 49)</span></div>
+  <div class="stat-box"><span class="num">5</span><span class="label">Medium (50 to 249)</span></div>
+  <div class="stat-box"><span class="num">0</span><span class="label">Large (250+)</span></div>
+  <div class="stat-box"><span class="num">4</span><span class="label">No size data</span></div>
 </div>
 
-## Largest companies
-
-- [Andes](/directory/andes/) — 225 employees
-- [44.01](/directory/4401/) — 168 employees
-- [CarbonCure](/directory/carboncure/) — 87 employees
-- [Paebbl](/directory/paebbl/) — 67 employees
-- [O.C.O Technology](/directory/oco-technology/) — 66 employees
-- [Blue Planet](/directory/blue-planet/) — 62 employees
-- [Neustark](/directory/neustark/) — 56 employees
-- [Carbfix](/directory/carbfix/) — 51 employees
-- [ZS2](/directory/zs2/) — 47 employees
-- [Travertine](/directory/travertine/) — 41 employees
+Company size classes follow the EU SME staff thresholds (micro under 10, small 10 to 49, medium 50 to 249, large 250 and more), derived from each company's LinkedIn size band and headcount signals. Exact headcounts are not published.
 
 ## All Mineralization companies
 

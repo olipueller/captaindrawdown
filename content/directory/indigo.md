@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Soil Carbon Sequestration</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.indigoag.com/" target="_blank" rel="noopener">https://www.indigoag.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/indigoag/" target="_blank" rel="noopener">indigoag — 95,353 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/indigoag/" target="_blank" rel="noopener">indigoag</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~265 (-7% YoY)</td></tr>
+  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -34,6 +34,7 @@ Indigo Ag is a US-based sustainable agriculture company whose core business is b
 
 ## History
 
+- **2026-10-23** — news mention: Grow Indigo: Project Ragini (VCS 4768) is now registered under Verra's VM0042 methodology for Improv ([source](https://www.linkedin.com/company/grow-indigo-pvt-ltd/#post-aea1783bfef4))
 - **2026-10-08** — news mention: Lord, Hold Me Close Today | Powerful - BIBLE ([source](https://investorshangout.com/post/view?id=6847605))
 - **2026-10-07** — news mention: Indigo: High-integrity carbon markets can create real value where it matters most: on the farm. A ne ([source](https://www.linkedin.com/company/indigoag/#post-f4f21254f024))
 - **2026-09-17** — news mention: Grow Indigo: Yesterday, Grow Indigo reached a major milestone: ððððð¶ð»ð´ ðð» ([source](https://www.linkedin.com/company/grow-indigo-pvt-ltd/#post-50ba17d376e9))

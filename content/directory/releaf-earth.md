@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Nigeria</td></tr>
   <tr><th>Website</th><td><a href="https://www.wereleaf.earth/" target="_blank" rel="noopener">https://www.wereleaf.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/releaf-earth/" target="_blank" rel="noopener">releaf-earth — 9,053 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/releaf-earth/" target="_blank" rel="noopener">releaf-earth</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~125 (-9% YoY)</td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,6 +29,10 @@ Releaf Earth is a Nigerian climate-agritech company that processes palm nuts fro
 
 ## History
 
+- **2026-11-01** — news mention: Releaf Earth: Congratulations to Releaf Earth (YC W19) , who has delivered their first carbon remova ([source](https://www.linkedin.com/company/releaf-earth/#post-a911bfa60a27))
+- **2026-10-28** — news mention: Ambitious carbon removal operators want a registry partner that’s responsive and efficient.
+
+That’s  ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7518950549812174848/))
 - **2026-09-27** — news mention: We have over 40 Biomass Carbon Removal and Storage projects in the Rainbow Registry. 
 
 These include ([source](https://www.linkedin.com/feed/update/urn:li:share:7508797384219361280/))

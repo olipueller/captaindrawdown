@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>CDR Platform/Marketplace</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.sylvera.com/" target="_blank" rel="noopener">https://www.sylvera.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sylveracarbon/" target="_blank" rel="noopener">sylveracarbon — 48,158 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sylveracarbon/" target="_blank" rel="noopener">sylveracarbon</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~153 (-1% YoY)</td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>7 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -34,6 +34,8 @@ Sylvera is a UK-based carbon credit ratings and data platform that independently
 
 ## History
 
+- **2026-10-22** — news mention: Cool Effect Inc: Mitti Labs has received an 'A' rating from BeZero Carbon , placing the project in t ([source](https://www.linkedin.com/company/cool-effect-carbon-offset/#post-18ccff9e558e))
+- **2026-10-15** — news mention: Truecoco Ghana: We are pleased to announce that Truecoco Ghana, Tikobo One has been assigned a Sylve ([source](https://www.linkedin.com/company/truecoco-ghana-ltd/#post-2eba577641a0))
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-10-14** — news mention: Ground Up: Project Nandani is rated A by Sylvera . 5/5 for permanence. 5/5 for additionality. 5/5 fo ([source](https://www.linkedin.com/company/ground-up-in/#post-76f306421da9))
 - **2026-10-07** — news mention: Sylvera: Our Q3 2026 carbon market data 📊 🟢 Retirements fell 9% YoY to 30.6M, but market value rose  ([source](https://www.linkedin.com/company/sylveracarbon/#post-5c381b2ea635))
@@ -62,8 +64,6 @@ Sylvera is a UK-based carbon credit ratings and data platform that independently
 - **2026-07-31** — news mention: Tera Carbon Pte Ltd: An exciting update as we focus on transparency and quality as an impact focused ([source](https://www.linkedin.com/company/teracarbon/#post-9db35c156663))
 - **2026-07-30** — news mention: Ruuts: We are pleased to announce that ReMonte has been assigned a Sylvera Pre-Issuance Rating of AA ([source](https://www.linkedin.com/company/ruutsnetwork/#post-9feb6a0bf41b))
 - **2026-07-29** — news mention: Cloverly: We are pleased to announce that the US SecondCropâ¢ Project has been assigned a Sylvera P ([source](https://www.linkedin.com/company/cloverly/#post-c3d3e540d467))
-- **2026-07-28** — news mention: Sylvera: Abandoned oil and gas wells leak methane - one of the most potent greenhouse gases on the p ([source](https://www.linkedin.com/company/sylveracarbon/#post-57234dbbe5a0))
-- **2026-07-28** — news mention: Sylvera: Sylvera has notified the European Securities and Markets Authority (ESMA) of its intention  ([source](https://www.linkedin.com/company/sylveracarbon/#post-a2e36b0deb56))
 
 ---
 

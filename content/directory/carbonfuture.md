@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonfuture.earth/" target="_blank" rel="noopener">https://www.carbonfuture.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonfuture/" target="_blank" rel="noopener">carbonfuture — 32,086 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonfuture/" target="_blank" rel="noopener">carbonfuture</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~30 (+8% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
@@ -36,6 +36,16 @@ Carbonfuture operates a digital Trust Infrastructure for durable carbon removal,
 
 ## History
 
+- **2026-11-03** — news mention: Terraton: Big news: Isometric has issued Terraton’s first carbon removal credits, from our facility  ([source](https://www.linkedin.com/company/terraton/#post-7f7eb454f249))
+- **2026-11-01** — news mention: Exomad Green and Carbonfuture announced an expansion of their partnership. According to the companie ([source](https://www.carbonfuture.earth/magazine/exomad-green-and-carbonfuture-expand-long-term-supply-as-buyers-prioritize-proven-delivery))
+- **2026-10-29** — news mention: Mel welcome | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7521554168847945728/))
+- **2026-10-27** — news mention: #aersummit26 #netzeroaustralia #carbonmarkets #carbonremoval #adelaide | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7520435161319133184/))
+- **2026-10-22** — news mention: Climate Impact Partners: Big news: Isometric has issued Terraton’s first carbon removal credits, fro ([source](https://www.linkedin.com/company/climate-impact-partners/#post-1aafc5e850aa))
+- **2026-10-21** — news mention: Terraton Issues First Carbon Removal Credits from Agricultural Waste, Signs Agreements with Climewor ([source](https://www.usatoday.com/press-release/story/51596/terraton-issues-first-carbon-removal-credits-from-agricultural-waste-signs-agreements-with-climeworks-solutions-climate-impact-partners-carbonfuture-cur8-and-terraset/))
+- **2026-10-20** — news mention: Terraton Issues First Carbon Removal Credits from Agricultural Waste, Signs Agreements with Climewor ([source](https://www.voiceofalexandria.com/news/national_business_news/terraton-issues-first-carbon-removal-credits-from-agricultural-waste-signs-agreements-with-climeworks-solutions-climate/article_d96a7803-8de9-5177-9ccd-3379327b6784.html))
+- **2026-10-20** — news mention: Terraton Issues First Carbon Removal Credits from Agricultural Waste, Signs Agreements with Climewor ([source](https://www.finanzwire.com/press-release/terraton-issues-first-carbon-removal-credits-from-agricultural-waste-signs-agreements-with-climeworks-solutions-climate-impact-partners-carbonfuture-cur8-and-terraset-PEWExVWMRQY))
+- **2026-10-20** — news mention: Terraton Issues First Carbon Removal Credits from Agricultural Waste, Signs Agreements with Climewor ([source](https://lifestyle.middletownlifemagazine.com/story/771038/terraton-issues-first-carbon-removal-credits-from-agricultural-waste-signs-agreements-with-climeworks-solutions-climate-impact-partners-carbonfuture-cur8-and-terraset/))
+- **2026-10-18** — news mention: ESG & Sustainability: 78 European alternatives to Workiva ([source](https://eusovereigntyscore.eu/en/categories/esg-sustainability))
 - **2026-10-15** — refresh: coresignal
 - **2026-10-15** — refresh: coresignal
 - **2026-10-13** — news mention: 🎥 Behind the scenes with Bigadan 
@@ -58,16 +68,6 @@ We recently spent a few days in Denmark with Bigadan, filming a  ([source](https
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-09** — news mention: #carbonremoval #cdr #climateaction #decarbonization | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7503068809122160640/))
 - **2026-09-05** — news mention: #teamdays #carbonremoval #cdr #climateaction | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7501635658223124480/))
-- **2026-09-02** — news mention: Carbonfuture: Carbonfuture's CDR buyers can now transfer removal credits to another organization, pa ([source](https://www.linkedin.com/company/carbonfuture/#post-c321cfae603a))
-- **2026-08-22** — news mention: Ibero Massa Florestal: Won a tonne of carbon removal from Portugal’s current largest biochar produce ([source](https://www.linkedin.com/company/imflorestal/#post-a1c31669d7d7))
-- **2026-08-19** — news mention: Top 8 Platforms Tokenizing Carbon Credits In 2026 | Metaverse Post ([source](https://mpost.io/top-8-platforms-tokenizing-carbon-credits-in-2026/))
-- **2026-08-15** — news mention: Skyrenu: Demand was never the hard part of carbon removal. Supply is. Last week, Frontier Infrastruc ([source](https://www.linkedin.com/company/skyrenu-technologies/#post-bc59f25c1e41))
-- **2026-08-15** — news mention: Frontier Infrastructure Holdings: Frontier Infrastructure Holdings has entered into a multi-year par ([source](https://www.linkedin.com/company/frontier-infra-holdings/#post-62a2673de7d4))
-- **2026-08-15** — news mention: Frontier Infrastructure Holdings: We are thrilled to partner with Carbonfuture to bring high-quality ([source](https://www.linkedin.com/company/frontier-infra-holdings/#post-7f64b738d921))
-- **2026-08-15** — refresh: coresignal
-- **2026-08-12** — news mention: CDR.fyi: 🚨 A slow July with ~22,000 tonnes contracted. 📉 Following a step down in June, July saw a s ([source](https://www.linkedin.com/company/cdr-fyi/#post-5b25ffb6f69d))
-- **2026-08-07** — news mention: Timber Finance: Dear everyone, Three recent analyses, one major development for carbon removal in Eu ([source](https://www.linkedin.com/company/timberfinance/#post-72ffa5913dd0))
-- **2026-08-05** — news mention: CDR.fyi: 📰 This week saw some key developments in durable CDR, as Frontier Infrastructure and Carbon ([source](https://www.linkedin.com/company/cdr-fyi/#post-5abb7ab70e13))
 
 ---
 

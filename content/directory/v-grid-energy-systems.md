@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://vgridenergy.com/" target="_blank" rel="noopener">https://vgridenergy.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/vgrid-energy-systems/" target="_blank" rel="noopener">vgrid-energy-systems — 325 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/vgrid-energy-systems/" target="_blank" rel="noopener">vgrid-energy-systems</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified via puro issuance on 2026-03-23</small></td></tr>
-  <tr><th>Employees</th><td>~30 (-12% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2026-03-23)</small></td></tr>
 </table>

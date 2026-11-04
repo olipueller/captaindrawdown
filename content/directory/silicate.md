@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>Ireland</td></tr>
   <tr><th>Website</th><td><a href="https://www.silicatecarbon.com/" target="_blank" rel="noopener">https://www.silicatecarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/silicate-carbon/" target="_blank" rel="noopener">silicate-carbon — 3,228 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/silicate-carbon/" target="_blank" rel="noopener">silicate-carbon</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~6 (-33% YoY)</td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,18 @@ Silicate is an Irish enhanced weathering CDR supplier headquartered at NovaUCD i
 
 ## History
 
+- **2026-11-02** — news mention: Soil and crop responses to basalt, tephrite and lime amendments in a 16-month maize field trial ([source](https://cdrxiv.org/preprint/577))
+- **2026-10-30** — news mention: A soil–feedstock greenhouse mesocosm matrix for screening carbon dioxide removal via enhanced rock w ([source](https://cdrxiv.org/preprint/564))
+- **2026-10-30** — news mention: Microbially mediated interactions between enhanced weathering and carbon inputs shift soil organic c ([source](https://doi.org/10.1038/s43247-026-04143-1))
+- **2026-10-30** — news mention: Enhanced weathering for CO2 removal from a global perspective ([source](https://doi.org/10.1007/s44246-026-00282-4))
+- **2026-10-30** — news mention: Evidence for temporal decoupling of olivine weathering and inorganic carbon removal in unsaturated s ([source](https://doi.org/10.3389/fclim.2026.1964775))
+- **2026-10-29** — news mention: Biochar did not affect inorganic C sequestration through steel slag weathering, but increased soil o ([source](https://cdrxiv.org/preprint/574))
+- **2026-10-26** — news mention: The effects of silicate mineral dissolution on seagrass functioning: Assessing olivine-based approac ([source](https://cdrxiv.org/preprint/568))
+- **2026-10-26** — news mention: Silicate: Last week, the Greenhouse Gas Protocol (GHG Protocol) published the Land Sector and Remova ([source](https://www.linkedin.com/company/silicate-carbon/#post-80aeff6c6c31))
+- **2026-10-19** — news mention: Micronutrient Management of Nitrous Oxide Emissions ([source](https://cdrxiv.org/preprint/332))
+- **2026-10-18** — news mention: Reconciling the role of clay mineral formation on net alkalinity generation during rock weathering:  ([source](https://doi.org/10.5194/egusphere-2026-5323))
+- **2026-10-18** — news mention: Weathering-derived calcium supports carbon storage in grassland soils ([source](https://doi.org/10.1038/s43247-026-04142-2))
+- **2026-10-18** — news mention: Enhanced rock weathering opportunity in Ghana: a scenario-dependent reconnaissance framework ([source](https://doi.org/10.3389/fclim.2026.1967900))
 - **2026-10-15** — refresh: coresignal
 - **2026-10-15** — refresh: coresignal
 - **2026-10-12** — news mention: Field evidence for rapid precipitation of non-crystalline secondary phases during enhanced rock weat ([source](https://doi.org/10.21203/rs.3.rs-10166427/v1))
@@ -51,18 +63,6 @@ Over the past five years we have been working  ([source](https://www.linkedin.co
 - **2026-09-18** — news mention: Reply on RC5 ([source](https://doi.org/10.5194/egusphere-2026-4145-ac4))
 - **2026-09-18** — news mention: Serpentinite as a strategic Earth material: geological controls, mineral reactivity, carbon minerali ([source](https://doi.org/10.1007/s12665-026-13127-5))
 - **2026-09-15** — refresh: coresignal, screenshot
-- **2026-09-12** — news mention: Comment on egusphere-2026-4380 ([source](https://doi.org/10.5194/egusphere-2026-4380-rc2))
-- **2026-09-11** — news mention: Organic co-amendments reshape soil microbial community responses to enhanced rock weathering in crop ([source](https://cdrxiv.org/preprint/553))
-- **2026-09-09** — news mention: If AI wipes out homo sapiens, I certainly hope that it does soon so that global warming stops before ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mv3pq3xtts2z))
-- **2026-09-06** — news mention: Comment on egusphere-2026-603 ([source](https://doi.org/10.5194/egusphere-2026-603-rc2))
-- **2026-09-06** — news mention: Carbon Neutral Initiative: CNI was glad to contribute to this study by Liam Bullock and colleagues f ([source](https://www.linkedin.com/company/carbon-neutral-initiative/#post-7650e0654274))
-- **2026-08-31** — news mention: Silicate Weathering Dynamics in the Kasaï Basin and Implications for Enhanced Rock Weathering Applic ([source](https://doi.org/10.31223/x58b8c))
-- **2026-08-31** — news mention: Engineered bacterial siderophore production accelerates rock weathering for carbon removal ([source](https://doi.org/10.1038/s41587-026-03288-w))
-- **2026-08-31** — news mention: Reply on RC1 ([source](https://doi.org/10.5194/egusphere-2026-3096-ac1))
-- **2026-08-31** — news mention: Reply on RC2 ([source](https://doi.org/10.5194/egusphere-2026-3096-ac2))
-- **2026-08-27** — news mention: Critical zone processes limit alkalinity export from natural basaltic systems | Nature ([source](https://www.nature.com/articles/s41586-026-10936-3))
-- **2026-08-25** — news mention: Formation of secondary soil minerals following additions of exogenous primary mineral weathering pro ([source](https://openalex.org/W7203855016))
-- **2026-08-24** — news mention: Mafix raises $5.4m for enhanced rock weathering ([source](https://www.winssolutions.org/mafix-enhanced-rock-weathering-funding/))
 
 ---
 

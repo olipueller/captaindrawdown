@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Website</th><td><a href="https://www.carboliva.es/" target="_blank" rel="noopener">https://www.carboliva.es/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carboliva-biocarb%C3%B3n-sostenible/" target="_blank" rel="noopener">carboliva-biocarb%C3%B3n-sostenible — 2,042 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carboliva-biocarb%C3%B3n-sostenible/" target="_blank" rel="noopener">carboliva-biocarb%C3%B3n-sostenible</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~30 (+14% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ Carboliva is a Spanish company based in Osuna (Seville), led by Álvaro Espuny, 
 
 ## History
 
+- **2026-11-04** — news mention: Carboliva: −76 %. Esa es la meta: reducir hasta un 76 % las emisiones de CO₂ de aceras y calzadas en ([source](https://www.linkedin.com/company/carboliva-biocarb%C3%B3n-sostenible/#post-b4b90ee17de3))
 - **2026-09-27** — news mention: Carboliva: Â¡Ahora tambiÃ©n somos abono! La normativa europea es implacable con los abonos: no acept ([source](https://www.linkedin.com/company/carboliva-biocarb%C3%B3n-sostenible/#post-464c79c6add2))
 - **2026-08-22** — news mention: CARBOLIVA SLU: 🔊 ¡Que suene la fanfarria! Hoy podemos decirlo en alto: - Primer biochar español cert ([source](https://www.linkedin.com/company/carboliva-biocarb%c3%b3n-sostenible/#post-a3ca5c7fe524))
 - **2026-08-22** — news mention: CARBOLIVA SLU: 👉 El centro tecnológico CIRCE - Centro Tecnológico coordina el nuevo Grupo Operativo  ([source](https://www.linkedin.com/company/carboliva-biocarb%c3%b3n-sostenible/#post-f598ae6360e0))

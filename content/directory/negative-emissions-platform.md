@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Enabling Tech</td></tr>
   <tr><th>Country</th><td>Belgium</td></tr>
   <tr><th>Website</th><td><a href="https://www.negative-emissions.org" target="_blank" rel="noopener">https://www.negative-emissions.org</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/negative-emissions-platform/" target="_blank" rel="noopener">negative-emissions-platform — 8,275 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/negative-emissions-platform/" target="_blank" rel="noopener">negative-emissions-platform</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~15</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -29,6 +29,15 @@ The Negative Emissions Platform (NEP) is a Brussels-based non-profit membership 
 
 ## History
 
+- **2026-11-01** — news mention: Negative Emissions Platform: You may have heard the good news coming from Sweden! Our member Sysav h ([source](https://www.linkedin.com/company/negative-emissions-platform/#post-520a3d63b1e2))
+- **2026-10-30** — news mention: 💫 CDR Momentum, Edition IV
+
+NEP members are at the heart of this month’s carbon removal highlights.
+ ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7521873958280011776/))
+- **2026-10-28** — news mention: You may have heard the good news coming from Sweden! Our member Sysav has secured further public fun ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7520781965625802752/))
+- **2026-10-22** — news mention: The ETS is moving quickly and it&amp;#39;s easy to get lost with where we&amp;#39;re at. Here is a t ([source](https://www.linkedin.com/feed/update/urn:li:share:7518601101084979200/))
+- **2026-10-17** — news mention: Today, we brought together EU policymakers, the carbon removal industry, NGOs and other industry ass ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7516474256092798976/))
+- **2026-10-15** — news mention: European policy will shape who can sell carbon removals, who buys them and what gets financed. Your  ([source](https://www.linkedin.com/feed/update/urn:li:share:7516076090986176512/))
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-10-12** — news mention: Terradot joins the Negative Emissions Platform ([source](https://www.negative-emissions.org/updates/terradot-joins-the-negative-emissions-platform))
 - **2026-10-08** — news mention: Europe’s emissions cap is shrinking &mdash; Negative Emissions Platform ([source](https://www.negative-emissions.org/europes-emissions-cap-is-shrinking))
@@ -61,12 +70,6 @@ Companies need credible  ([source](https://www.linkedin.com/feed/update/urn:li:s
 - **2026-08-18** — news mention: Europe’s carbon removal market will develop alongside its industrial transition.
 
 At our Stockholm e ([source](https://www.linkedin.com/feed/update/urn:li:share:7495413597750329346/))
-- **2026-08-17** — news mention: VodafoneThree's new 24,000-tonne UK removals RFP, run by @linkedin.com's Negative Emissions Platform ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mtawpww6u62p))
-- **2026-08-14** — news mention: What will shape Europe&amp;#39;s carbon removal market? | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7493671284963328000/))
-- **2026-08-13** — news mention: Negative Emissions Platform: 📣 It’s official: carbon removal is returning to the Blue Zone at COP. T ([source](https://www.linkedin.com/company/negative-emissions-platform/#post-fee5837e7e65))
-- **2026-08-13** — news mention: Europe’s carbon removal market is being shaped by new policy signals, buyer initiatives and corporat ([source](https://www.linkedin.com/feed/update/urn:li:share:7492878553517076481/))
-- **2026-08-12** — news mention: Emicap joins Negative Emissions Platform ([source](https://www.negative-emissions.org/updates/emicap-joins-negative-emissions-platform))
-- **2026-07-30** — news mention: Negative Emissions Platform: ðCDR Momentum, Edition 2 This month brought important milestones acr ([source](https://www.linkedin.com/company/negative-emissions-platform/#post-76f853a73091))
 
 ---
 

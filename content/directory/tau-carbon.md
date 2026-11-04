@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>BiCRS (Other)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.taucarbon.com/" target="_blank" rel="noopener">https://www.taucarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tau-carbon/" target="_blank" rel="noopener">tau-carbon — 521 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tau-carbon/" target="_blank" rel="noopener">tau-carbon</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~3 (0% YoY)</td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ Tau Carbon was founded by John Lin and Dr. Amber Janda, who developed the idea o
 
 ## History
 
+- **2026-10-15** — news mention: Tau Carbon: 🌲🔥 The cheapest carbon removal in the West may already be sitting in slash piles. Wildfi ([source](https://www.linkedin.com/company/tau-carbon/#post-b28c0c183dac))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-07** — news mention: Tau Carbon: Carbon Yards is featured in a recent Quantum Commodity Intelligence interview, where our ([source](https://www.linkedin.com/company/tau-carbon/#post-ca129e94854f))
 - **2026-08-31** — news mention: Tau Carbon: 🌲🔥 The cheapest carbon removal in the West may already be sitting in slash piles. Wildfi ([source](https://www.linkedin.com/company/tau-carbon/#post-48133ed780b5))

@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>CDR Platform/Marketplace</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.gosupercritical.com/" target="_blank" rel="noopener">https://www.gosupercritical.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/gosupercritical/" target="_blank" rel="noopener">gosupercritical — 19,824 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/gosupercritical/" target="_blank" rel="noopener">gosupercritical</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~31 (+1% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>5 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -35,6 +35,22 @@ Supercritical is a London-based carbon removal marketplace that sources, vets, a
 
 ## History
 
+- **2026-11-02** — news mention: Jain Irrigation to Supply 19,000 Tonnes of Biochar Credits - Equitypandit ([source](https://www.equitypandit.com/jain-irrigation-to-supply-19000-tonnes-of-biochar-credits/))
+- **2026-10-31** — news mention: Jain Irrigation signs biochar credit deal for up to 19,000 tonnes | InvestyWise ([source](https://www.investywise.com/jain-irrigation-systems-ltd-agreement-for-biochar-credits))
+- **2026-10-31** — news mention: Biochar supply tightens as Jain Irrigation signs supercritical agreement ([source](https://agrospectrumindia.com/news/48/35078/biochar-supply-tightens-as-jain-irrigation-signs-supercritical-agreement.html))
+- **2026-10-29** — news mention: Jain Irrigation ka naya daanv: Ab Carbon Credits se hogi kamayi! | Whalesbook ([source](https://www.whalesbook.com/news/Hinglish/other/Jain-Irrigation-to-Supply-19000-Tonnes-of-Biochar-Credits/6ae1cec24fc30694db502865))
+- **2026-10-29** — news mention: Supercritical Secures 19,000 Tonnes of Biochar Carbon Credits ([source](https://biochartoday.com/news/supercritical-and-jain-irrigation-secure-supply-agreement-for-19000-tonnes-of-carbon-removal-credits/?utm_source=bluesky&utm_medium=jetpack_social))
+- **2026-10-28** — news mention: Supercritical To Offer Buyers Up To 19,000 Tonnes Of Biochar Credits By Jain Irrigation ([source](https://carbonherald.com/supercritical-to-offer-buyers-up-to-19000-tonnes-of-biochar-credits-by-jain-irrigation/?utm_source=rss&utm_medium=rss&utm_campaign=supercritical-to-offer-buyers-up-to-19000-tonnes-of-biochar-credits-by-jain-irrigation))
+- **2026-10-28** — news mention: Jain Irrigation Systems signs carbon removal agreement with Supercritical for up to 19,000 tonnes of ([source](https://tradebrains.in/indian-markets/jain-irrigation-systems-signs-carbon-removal-agreement-with-supercritical-for-up-to-19000-tonnes-of-biochar-credits-12759976))
+- **2026-10-28** — news mention: Jain Irrigation signs deal for 19,000 tonnes of biochar credits - The HinduBusinessLine ([source](https://www.thehindubusinessline.com/economy/agri-business/jain-irrigation-signs-deal-for-up-to-19000-tonnes-of-biochar-credits/article71635215.ece))
+- **2026-10-28** — news mention: Jain Irrigation to Supply 19,000 Tonnes of Biochar Credits | Whalesbook ([source](https://www.whalesbook.com/news/English/other/Jain-Irrigation-to-Supply-19000-Tonnes-of-Biochar-Credits/6ae1cec24fc30694db502865))
+- **2026-10-28** — news mention: Jain Irrigation Signs Supercritical Deal for Up to 19,000 Tonnes of Biochar Carbon Removal Credits | ([source](https://www.5paisa.com/blog/jain-irrigation-signs-supercritical-deal-19000-tonnes-biochar-carbon-removal-credits))
+- **2026-10-28** — news mention: Jain Irrigation Partners With Supercritical To Sell 19,000 Tonnes Biochar Credits | Whalesbook Corpo ([source](https://www.whalesbook.com/corporate-news/English/other/Jain-Irrigation-Partners-With-Supercritical-To-Sell-19000-Tonnes-Biochar-Credits/6ae170f9c6c6dccbb9090acf))
+- **2026-10-28** — news mention: Jain Irrigation Signs Deal for 19,000 Tonnes of Biochar Credits ([source](https://hdfcsky.com/news/jain-irrigation-systems-signs-biochar-deal-for-19000-tonnes))
+- **2026-10-17** — news mention: Arbor: MAJOR COMPANY ANNOUNCEMENT: Arbor Energy just demonstrated a world first in energy and perhap ([source](https://www.linkedin.com/company/arborenergy/#post-ca945c4828c3))
+- **2026-10-17** — news mention: Arbor Energy: MAJOR COMPANY ANNOUNCEMENT: Arbor Energy just demonstrated a world first in energy and ([source](https://www.linkedin.com/company/arbor-energy-resources/#post-b50205c17bc4))
+- **2026-10-16** — news mention: Supercritical: Most companies buying removal this year will find in December that the tonnes they wa ([source](https://www.linkedin.com/company/gosupercritical/#post-da98ca0c6040))
+- **2026-10-15** — news mention: Corporate sustainability tools to use in 2026 ([source](https://trellis.net/article/corporate-sustainability-tools-to-use/))
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-10-14** — news mention: Ground Up: Project Nandani is rated A by Sylvera . 5/5 for permanence. 5/5 for additionality. 5/5 fo ([source](https://www.linkedin.com/company/ground-up-in/#post-76f306421da9))
 - **2026-10-06** — news mention: What I ask a biochar project before we sign an exclusive deal ([source](https://thecarbonlowdown.substack.com/p/what-i-ask-a-biochar-project-before))
@@ -49,22 +65,6 @@ Supercritical is a London-based carbon removal marketplace that sources, vets, a
 - **2026-09-04** — news mention: Supercritical Partners With Ground Up To Expand India Biochar Network ([source](https://carbonherald.com/supercritical-partners-with-ground-up-to-expand-india-biochar-network/?utm_source=rss&utm_medium=rss&utm_campaign=supercritical-partners-with-ground-up-to-expand-india-biochar-network))
 - **2026-09-04** — news mention: SCW Systems: 𝙁𝙤𝙧 𝙩𝙝𝙚 𝙥𝙖𝙨𝙩 𝙮𝙚𝙖𝙧𝙨, 𝙎𝘾𝙒 𝙎𝙮𝙨𝙩𝙚𝙢𝙨 𝙝𝙖𝙨 𝙗𝙚𝙚𝙣 𝙗𝙪𝙞𝙡𝙙𝙞𝙣𝙜 𝙦𝙪𝙞𝙚𝙩𝙡𝙮. Now, we are ready to share m ([source](https://www.linkedin.com/company/scw-systems/#post-3347ef9aa658))
 - **2026-08-15** — news mention: Ground Up: Boeing has procured 20,000 tonnes of permanent carbon removal through Supercritical. Six  ([source](https://www.linkedin.com/company/ground-up-in/#post-24799c8b585b))
-- **2026-08-13** — news mention: Research on Enhanced CO2 Sequestration in Deep Saline Aquifers by Integrated Biological and Biomimet ([source](https://doi.org/10.5281/zenodo.21808083))
-- **2026-08-11** — news mention: Supercritical Analyzes Seasonal Procurement Peaks in the Carbon Removal Market &#8211; Biochar Today ([source](https://biochartoday.com/news/supercritical-analyzes-seasonal-procurement-peaks-in-the-carbon-removal-market/?utm_source=bluesky&utm_medium=jetpack_social))
-- **2026-08-05** — news mention: #biochar #carbonremoval #cdr #corcs | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7490393545430843394/))
-- **2026-08-01** — news mention: Assessing CO2 mineralization and sequestration potential in Saudi Arabian basaltic rocks ([source](https://doi.org/10.1007/s40789-025-00839-5))
-- **2026-07-29** — news mention: Liferaft, Microsoft, and Supercritical Finalize 10-Year Offtake Agreement for One Million Carbon Rem ([source](https://biochartoday.com/news/liferaft-microsoft-and-supercritical-finalize-10-year-offtake-agreement-for-one-million-carbon-removal-units/))
-- **2026-07-29** — news mention: In A New Call, Supercritical Is Looking For Biochar Feedstock Data On Behalf Of A Tech Giant ([source](https://carbonherald.com/in-a-new-call-supercritical-is-looking-for-biochar-feedstock-data-on-behalf-of-a-tech-giant/?utm_source=rss&utm_medium=rss&utm_campaign=in-a-new-call-supercritical-is-looking-for-biochar-feedstock-data-on-behalf-of-a-tech-giant))
-- **2026-07-27** — news mention: Opinion: Why Biochar Belongs In Europe’s Carbon Market ([source](https://carbonherald.com/opinion-why-biochar-belongs-in-europes-carbon-market/?utm_source=rss&utm_medium=rss&utm_campaign=opinion-why-biochar-belongs-in-europes-carbon-market))
-- **2026-07-26** — news mention: Coupled Thermo-Hydro-Chemo-Mechanical Processes in Rock Fracture: Implications for Long-Term Subsurf ([source](https://doi.org/10.70425/rml.202603.47))
-- **2026-07-25** — news mention: Kairos Carbon: Happy to announce that I've published more research from my PhD which is available wi ([source](https://www.linkedin.com/company/kairos-carbon/#post-f4f5824ddc1f))
-- **2026-07-19** — news mention: An evaluation of permitting avenues for deploying carbon mineralization projects with and without ac ([source](https://cdrxiv.org/preprint/529))
-- **2026-07-01** — news mention: Negative Emissions Platform: 📈 CDR Momentum, Edition 1 NEP Members are at the heart of this month's  ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477687816446128129/))
-- **2026-07-01** — news mention: Carbon Business Council: London Climate Action Week 2026 was a marquee event for the global carbon r ([source](https://www.linkedin.com/feed/update/urn:li:share:7477764172060139520/))
-- **2026-06-26** — news mention: #lcaw2026 #carbonremovallondon #cdr2030 | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475875113821777920/))
-- **2026-06-26** — news mention: Carbon Removal London Event | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475876915485224960/))
-- **2026-06-24** — news mention: #lcaw | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:share:7474837289572069377/))
-- **2026-06-24** — news mention: #londonclimateactionweek | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:share:7474794254196928513/))
 
 ---
 

@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.arboncorp.com/" target="_blank" rel="noopener">https://www.arboncorp.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/arbon-corp/" target="_blank" rel="noopener">arbon-corp — 625 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/arbon-corp/" target="_blank" rel="noopener">arbon-corp</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~9 (+80% YoY)</td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -34,6 +34,7 @@ Arbon is a Brooklyn-based climate tech startup spun out of Columbia University d
 
 ## History
 
+- **2026-10-16** — news mention: Arbon Earth: Arbon Earth has secured a pioneering permit in Indonesia to expand its seaweed-based ma ([source](https://www.linkedin.com/company/arbon-earth-ab/#post-1b406c4eb4a6))
 - **2026-09-30** — news mention: Arbon Earth Secures Pioneering mCDR Permit In Indonesia ([source](https://carbonherald.com/arbon-earth-secures-pioneering-mcdr-permit-in-indonesia/?utm_source=rss&utm_medium=rss&utm_campaign=arbon-earth-secures-pioneering-mcdr-permit-in-indonesia))
 - **2026-08-20** — news mention: Events ([source](https://www.fraunhofer.org/en/media/events.html))
 - **2026-08-15** — refresh: coresignal

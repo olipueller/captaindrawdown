@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Mineralization (Other)</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://paebbl.com/" target="_blank" rel="noopener">https://paebbl.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/paebbl/" target="_blank" rel="noopener">paebbl — 11,643 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/paebbl/" target="_blank" rel="noopener">paebbl</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~67 (-1% YoY)</td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -34,6 +34,9 @@ Paebbl is a Dutch-Nordic climate-tech startup that permanently stores CO2 by min
 
 ## History
 
+- **2026-10-31** — news mention: Paebbl: Carbon-storing concrete needs an entire value chain to come together for market adoption. Bu ([source](https://www.linkedin.com/company/paebbl/#post-342ccb305efc))
+- **2026-10-24** — news mention: CDRjobs: 👀Mineralization had a pretty good week last week Frontier buyers signed an $11.7 million de ([source](https://www.linkedin.com/company/cdrjobs/#post-fa41c9f39f1d))
+- **2026-10-21** — news mention: SaltX: What if you combine electrified cement production with permanent CO2 mineralization? You crea ([source](https://www.linkedin.com/company/saltxtechnology/#post-67cf44d9069a))
 - **2026-09-22** — news mention: CO2 Mineralization Reactor Market 2026: Key Players, Decarbonization Trends and Business Opportuniti ([source](https://www.openpr.com/news/4639901/co2-mineralization-reactor-market-2026-key-players))
 - **2026-09-15** — refresh: coresignal, screenshot
 - **2026-09-03** — news mention: Paebbl: Holcim , the global leader in sustainable construction is building an ecosystem of aligned v ([source](https://www.linkedin.com/company/paebbl/#post-275706fbb4c4))
@@ -61,9 +64,6 @@ Paebbl is a Dutch-Nordic climate-tech startup that permanently stores CO2 by min
 - **2026-05-11** — news mention: Holcim Deploys Carbon-Storing Concrete Technology In Commercial Project ([source](https://carbonherald.com/holcim-deploys-carbon-storing-concrete-technology-in-commercial-project/?utm_source=rss&utm_medium=rss&utm_campaign=holcim-deploys-carbon-storing-concrete-technology-in-commercial-project))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://paebbl.com/technology))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://paebbl.com/news-feed/paebbl-starts-operating-its-continuous-demo-plant-a-world-first-for-co2-mineralisation))
 
 ---
 

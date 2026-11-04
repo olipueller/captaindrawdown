@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>CDR Platform/Marketplace</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbon-direct.com/" target="_blank" rel="noopener">https://www.carbon-direct.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-direct/" target="_blank" rel="noopener">carbon-direct — 56,246 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-direct/" target="_blank" rel="noopener">carbon-direct</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~121 (-26% YoY)</td></tr>
+  <tr><th>Company size</th><td>Medium (50 to 249) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>5 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -34,6 +34,8 @@ Carbon Direct is a New York-based science-driven carbon management firm that adv
 
 ## History
 
+- **2026-10-30** — news mention: Banyu Carbon direct-air-capture prototype trial at CSIRO In-Situ Laboratory — dac ([source](https://www.greatlakesadvocate.com.au/story/9378644/aussie-sun-meets-us-tech-in-carbon-capture-experiment))
+- **2026-10-15** — news mention: Pachama: We’re thrilled to share that Pachama is joining the Carbon Direct family! Today we’re annou ([source](https://www.linkedin.com/company/pachama/#post-8e7fdb5e4a92))
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-09-23** — news mention: Relae, Microsoft Publish New High-Quality CDR Criteria, Addressing Delivery Risk For The First Time ([source](https://carbonherald.com/relae-microsoft-publish-new-high-quality-cdr-criteria-addressing-delivery-risk-for-the-first-time/?utm_source=rss&utm_medium=rss&utm_campaign=relae-microsoft-publish-new-high-quality-cdr-criteria-addressing-delivery-risk-for-the-first-time))
 - **2026-09-22** — news mention: Carbon Direct Rebrands As Relae To Reflect Broader Climate And Energy Focus ([source](https://carbonherald.com/carbon-direct-rebrands-as-relae-to-reflect-broader-climate-and-energy-focus/?utm_source=rss&utm_medium=rss&utm_campaign=carbon-direct-rebrands-as-relae-to-reflect-broader-climate-and-energy-focus))
@@ -62,8 +64,6 @@ Carbon Direct is a New York-based science-driven carbon management firm that adv
 - **2026-04-29** — news mention: Mining waste just became the feedstock asset class durable CDR was waiting for. Three stories this w ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkmdhtigmy2g))
 - **2026-04-28** — news mention: Carbon Direct and Arca announce collaboration on Industrial Mineralization technology | Carbon Direc ([source](https://www.carbon-direct.com/press/carbon-direct-and-arca-announce-collaboration-on-industrial-mineralization-technology))
 - **2026-04-28** — news mention: Arca And Carbon Direct Team Up On Scaling Industrial Mineralization ([source](https://carbonherald.com/arca-and-carbon-direct-team-up-on-scaling-industrial-mineralization/?utm_source=rss&utm_medium=rss&utm_campaign=arca-and-carbon-direct-team-up-on-scaling-industrial-mineralization))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.carbon-direct.com/))
 
 ---
 

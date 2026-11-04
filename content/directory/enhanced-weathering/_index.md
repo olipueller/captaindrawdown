@@ -8,7 +8,7 @@ url: "/directory/enhanced-weathering/"
 
 # Enhanced Weathering — 33 Companies Tracked
 
-**Market pulse for Enhanced Weathering (updated 2026-10-15).**
+**Market pulse for Enhanced Weathering (updated 2026-11-04).**
 
 <div class="directory-stats">
   <div class="stat-box"><span class="num">33</span><span class="label">Companies</span></div>
@@ -19,22 +19,14 @@ url: "/directory/enhanced-weathering/"
 </div>
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">27,412</span><span class="label">Total employees (lower bound)</span></div>
-  <div class="stat-box"><span class="num">32/33</span><span class="label">Companies with headcount data</span></div>
+  <div class="stat-box"><span class="num">18</span><span class="label">Micro (under 10)</span></div>
+  <div class="stat-box"><span class="num">8</span><span class="label">Small (10 to 49)</span></div>
+  <div class="stat-box"><span class="num">5</span><span class="label">Medium (50 to 249)</span></div>
+  <div class="stat-box"><span class="num">1</span><span class="label">Large (250+)</span></div>
+  <div class="stat-box"><span class="num">1</span><span class="label">No size data</span></div>
 </div>
 
-## Largest companies
-
-- [Anglo American](/directory/anglo-american/) — 26823 employees
-- [Metalplant](/directory/metalplant/) — 189 employees
-- [Terradot](/directory/terradot/) — 82 employees
-- [UNDO](/directory/undo/) — 60 employees
-- [Alt Carbon](/directory/alt-carbon/) — 50 employees
-- [CREW Carbon](/directory/crew-carbon/) — 29 employees
-- [Lithos](/directory/lithos/) — 29 employees
-- [Cascade Climate](/directory/cascade-climate/) — 25 employees
-- [CarbonRun](/directory/carbonrun/) — 22 employees
-- [Flux](/directory/flux/) — 12 employees
+Company size classes follow the EU SME staff thresholds (micro under 10, small 10 to 49, medium 50 to 249, large 250 and more), derived from each company's LinkedIn size band and headcount signals. Exact headcounts are not published.
 
 ## All Enhanced Weathering companies
 

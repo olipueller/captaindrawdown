@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://www.biocarbon.com.au/" target="_blank" rel="noopener">https://www.biocarbon.com.au/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biocarbon-au/" target="_blank" rel="noopener">biocarbon-au — 1,047 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biocarbon-au/" target="_blank" rel="noopener">biocarbon-au</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~11 (+22% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,8 @@ BioCarbon is an Australian climate-tech firm that uses proprietary pyrolysis and
 
 ## History
 
+- **2026-10-29** — news mention: 350solutions: We're thrilled to announce BC Biocarbon 's second Puro.earth CORC issuance from our Bi ([source](https://www.linkedin.com/company/350solutions/#post-29b0bc4c75d4))
+- **2026-10-16** — news mention: American BioCarbon CT, LLC - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/american-biocarbon-ct-llc/))
 - **2026-10-10** — news mention: Carba: Great news to share for the Carba team! Carba earned the largest allocation in Milkywire's la ([source](https://www.linkedin.com/company/carbainc/#post-2089ebb73691))
 - **2026-10-10** — news mention: CHAR Technologies: CHAR Technologies completes Phase 1 at its Thorold Renewable Energy Facility. Com ([source](https://www.linkedin.com/company/char-technologies/#post-ac749d0acc2d))
 - **2026-10-05** — news mention: BC Biocarbon: We're thrilled to announce BC Biocarbon 's second Puro.earth CORC issuance from our Bi ([source](https://www.linkedin.com/company/bc-biocarbon/#post-370bab9aadfa))
@@ -57,8 +59,6 @@ BioCarbon is an Australian climate-tech firm that uses proprietary pyrolysis and
 - **2026-08-11** — news mention: Clean Energy reports 3% increase in RNG sales for Q2 | Biomass Magazine ([source](https://biomassmagazine.com/articles/clean-energy-reports-3-increase-in-rng-sales-for-q2))
 - **2026-08-11** — news mention: XCF provides operational update on renewable diesel production and initial fuel sales at New Rise Re ([source](https://biomassmagazine.com/articles/xcf-provides-operational-update-on-renewable-diesel-production-and-initial-fuel-sales-at-new-rise-reno))
 - **2026-08-11** — news mention: Montana Renewables begins next phase of MaxSAF expansion | Biomass Magazine ([source](https://biomassmagazine.com/articles/montana-renewables-begins-next-phase-of-maxsaf-expansion))
-- **2026-08-11** — news mention: American Airlines and Infinium announce commercial passenger flight powered by eSAF | Biomass Magazi ([source](https://biomassmagazine.com/articles/american-airlines-and-infinium-announce-commercial-passenger-flight-powered-by-esaf))
-- **2026-08-11** — news mention: Sylvera: As BioCarbon Standard launched BCR0010 (IFM &amp; APFC), they brought in Sylvera to assess  ([source](https://www.linkedin.com/company/sylveracarbon/#post-2ad058ba364d))
 
 ---
 

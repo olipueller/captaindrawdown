@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Liquid Solvent)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://capture6.org/" target="_blank" rel="noopener">https://capture6.org/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/capture6/" target="_blank" rel="noopener">capture6 — 7,144 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/capture6/" target="_blank" rel="noopener">capture6</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~24 (-17% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -35,6 +35,7 @@ Capture6 is a California- and New Zealand-based direct air capture supplier that
 
 ## History
 
+- **2026-10-15** — news mention: Capture6: Project Tortuga is live in Western Australia. 🐢💧 Yesterday, we officially opened our indus ([source](https://www.linkedin.com/company/capture6/#post-8c84a9d40edc))
 - **2026-10-15** — refresh: coresignal
 - **2026-10-14** — news mention: Groundwork BioAg receives a ‘BBB’ carbon rating from BeZero for its mycorrhizal inoculants program c ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mxtxczmlc22e))
 - **2026-10-14** — news mention: Capture6 Officially Launches Project Tortuga In Western Australia ([source](https://carbonherald.com/capture6-officially-launches-project-tortuga-in-western-australia/?utm_source=rss&utm_medium=rss&utm_campaign=capture6-officially-launches-project-tortuga-in-western-australia))

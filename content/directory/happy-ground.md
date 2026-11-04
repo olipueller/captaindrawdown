@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Thailand</td></tr>
   <tr><th>Website</th><td><a href="https://happyground.org/" target="_blank" rel="noopener">https://happyground.org/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/happy-ground/" target="_blank" rel="noopener">happy-ground — 644 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/happy-ground/" target="_blank" rel="noopener">happy-ground</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
+  <tr><th>Company size</th><td>Micro (under 10) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,10 @@ Happy Ground is developing a large-scale biochar project in Thailand with a nati
 
 ## History
 
+- **2026-10-31** — news mention: #farmers #biochar #soilhealth #thailand | Happy Ground ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7522206147655749632/))
+- **2026-10-27** — news mention: #soilhealth #biochar #sugarcane #oilpalm #thailand | Happy Ground ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7520756732734640129/))
+- **2026-10-27** — news mention: #biochar #ricestraw #soilhealth #thailand #cleanair | Happy Ground ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7520394219459477504/))
+- **2026-10-23** — news mention: Happy Ground: Thai rice straw doesn't have to go up in smoke. Of nine ways to handle it, turning it  ([source](https://www.linkedin.com/company/happy-ground/#post-440b8a7163f5))
 - **2026-10-15** — refresh: coresignal
 - **2026-10-15** — refresh: coresignal
 - **2026-10-10** — news mention: #soilcarbon #carbonmarkets #vm0042 #brazil #mrv | Happy Ground ([source](https://www.linkedin.com/feed/update/urn:li:share:7514595804515368960/))
@@ -62,7 +66,6 @@ Happy Ground is developing a large-scale biochar project in Thailand with a nati
 - **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.carbon-drawdown.de/blog/2025-9-10-portfolio-spotlight-happy-ground-biochar-in-thailand))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://happyground.org/))
 - **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://happyground.org/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

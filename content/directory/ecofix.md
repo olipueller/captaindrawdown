@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://www.efk.co.ke/" target="_blank" rel="noopener">https://www.efk.co.ke/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ecofix-kenya/" target="_blank" rel="noopener">ecofix-kenya — 2,437 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ecofix-kenya/" target="_blank" rel="noopener">ecofix-kenya</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~18 (+12% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,6 +29,11 @@ EcoFix Kenya Ltd (formerly Eco Fuels Kenya) is a Nanyuki-based social enterprise
 
 ## History
 
+- **2026-11-03** — news mention: Terraton: Big news: Isometric has issued Terraton’s first carbon removal credits, from our facility  ([source](https://www.linkedin.com/company/terraton/#post-7f7eb454f249))
+- **2026-10-26** — news mention: Offstream: Congratulations to Terraton and EcoFix Kenya Ltd (EFK) on their first carbon removal cred ([source](https://www.linkedin.com/company/useoffstream/#post-208cf8b9f2c3))
+- **2026-10-23** — news mention: Terraton Issues First Verified Biochar Carbon Removal Credits And Signs Agreements Covering Up To 97 ([source](https://www.ccarbon.info/news/terraton-issues-first-verified-biochar-carbon-removal-credits-and-signs-agreements-covering-up-to-97240-tonnes/))
+- **2026-10-22** — news mention: Climate Impact Partners: Big news: Isometric has issued Terraton’s first carbon removal credits, fro ([source](https://www.linkedin.com/company/climate-impact-partners/#post-1aafc5e850aa))
+- **2026-10-20** — news mention: Terraton Issues First Carbon Removal Credits from Agricultural Waste, Signs Agreements with Climewor ([source](https://www.voiceofalexandria.com/news/national_business_news/terraton-issues-first-carbon-removal-credits-from-agricultural-waste-signs-agreements-with-climeworks-solutions-climate/article_d96a7803-8de9-5177-9ccd-3379327b6784.html))
 - **2026-08-30** — news mention: Terraton Industrial Inc.: What does a biochar facility look like when it's running? Mateo , who's se ([source](https://www.linkedin.com/company/terraton/#post-8a35ca9c131f))
 - **2026-08-15** — refresh: coresignal, liveliness
 - **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://esgpost.com/terraton-secures-11-5m-to-scale-biochar-carbon-removal-in-emerging-markets/))

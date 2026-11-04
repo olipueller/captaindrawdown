@@ -14,7 +14,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Method</th><td>BiCRS (Other)</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://timberturn.ca/" target="_blank" rel="noopener">https://timberturn.ca/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/wood-safe/" target="_blank" rel="noopener">wood-safe — 234 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/wood-safe/" target="_blank" rel="noopener">wood-safe</a></td></tr>
   <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>

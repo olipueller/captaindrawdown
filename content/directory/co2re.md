@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://co2re.org/" target="_blank" rel="noopener">https://co2re.org/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/co2re/" target="_blank" rel="noopener">co2re — 4,411 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/co2re/" target="_blank" rel="noopener">co2re</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~30 (-50% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -30,6 +30,9 @@ CO₂RE is the UK's national research hub on Greenhouse Gas Removal, led by the 
 
 ## History
 
+- **2026-10-30** — news mention: Five and a half years of CO2RE: what has changed for greenhouse gas removal? - CO₂RE - The Greenhous ([source](https://co2re.org/five-and-a-half-years-of-co2re-what-has-changed-for-greenhouse-gas-removal/))
+- **2026-10-30** — news mention: This is our final post & Steve Smith, our Executive Director, has the last word: https://co2re.org/f ([source](https://bsky.app/profile/co2rehub.bsky.social/post/3mz4hr4ok4223))
+- **2026-10-18** — news mention: CO2Re: New CDR Paper! (sadly not related to any nobel prize) My new paper with Niall Mac Dowell , "W ([source](https://www.linkedin.com/company/co2re/#post-57307bdea949))
 - **2026-10-15** — refresh: coresignal, screenshot
 - **2026-10-05** — news mention: How will tech used to remove CO2 from the air impact the land & its communities? Who will benefit? T ([source](https://bsky.app/profile/co2rehub.bsky.social/post/3mx4ibkyc6s2e))
 - **2026-09-12** — news mention: CO2Re: This week Professor Myles Allen was on the BBC's Today Programme to discuss the recent open l ([source](https://www.linkedin.com/company/co2re/#post-0a28709e6696))

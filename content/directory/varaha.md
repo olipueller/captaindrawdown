@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>Enhanced Weathering, Afforestation</td></tr>
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://www.varaha.earth/" target="_blank" rel="noopener">https://www.varaha.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/varaha-carbontech/" target="_blank" rel="noopener">varaha-carbontech — 37,513 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/varaha-carbontech/" target="_blank" rel="noopener">varaha-carbontech</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro · verra crediting window through 2030-02-07</small></td></tr>
-  <tr><th>Employees</th><td>~368 (+51% YoY)</td></tr>
+  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth · Verra (VCS) <small>(active crediting window through 2030-02-07)</small></td></tr>
 </table>
@@ -47,6 +47,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-03** — news mention: GSK ↔ Varaha — soil-carbon ([source](https://carboncredits.com/gsk-varaha-carbon-removal-regenerative-farming-india))
 - **2026-10-06** — news mention: Project Finance Manager at Varaha in Gurgaon, Haryana | Dreamwork ([source](https://www.dreamworkhq.com/job/eb89b039-ae3e-4640-8712-0cd11a87486b))
 - **2026-10-06** — news mention: Manager/Senior Manager - Business Development, Biochar at Varaha in Gurgaon, Haryana | Dreamwork ([source](https://www.dreamworkhq.com/job/f62d17b4-4cf9-4190-81e8-1537054e7462))
 - **2026-10-01** — news mention: Top Environment tech Companies in Tamil Nadu (2026): List of 188 Environment tech Companies by Reven ([source](https://fliarbi.com/companies/best-environment-tech-companies-in-tamil-nadu-india/))
@@ -78,7 +79,6 @@ These include ([source](https://www.linkedin.com/feed/update/urn:li:share:750879
 - **2026-04-22** — news mention: 5 Indian Sustainability Startups Leading the Way on World Earth Day - Newspatrolling.com ([source](https://newspatrolling.com/5-indian-sustainability-startups-leading-the-way-on-world-earth-day/))
 - **2026-04-19** — nulled Coresignal enrichment — LinkedIn slug 'meta-carbontech' clearly not the same company; employee count 281 inflated
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://techcrunch.com/2026/02/03/indias-varaha-bags-20m-to-scale-carbon-removal-from-the-global-south/))
-- **2026-04-19** — merged 1 duplicate(s): Varaha Climate AG
 
 ---
 

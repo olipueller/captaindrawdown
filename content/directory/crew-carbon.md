@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Ocean Alkalinity Enhancement</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://crewcarbon.com/" target="_blank" rel="noopener">https://crewcarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/crew-carbon/" target="_blank" rel="noopener">crew-carbon — 4,902 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/crew-carbon/" target="_blank" rel="noopener">crew-carbon</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~29 (+53% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>8 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -46,6 +46,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-10-19** — news mention: CREW Carbon: PARC Spotlight | CREW Carbon How can we improve wastewater treatment while reducing rel ([source](https://www.linkedin.com/company/crew-carbon/#post-cab200f52e4f))
 - **2026-10-15** — refresh: coresignal
 - **2026-10-15** — refresh: coresignal
 - **2026-10-12** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-5e4eb86cc6d0))
@@ -75,7 +76,6 @@ Independently verified by carbon-credit registries:
 - **2026-08-10** — news mention: CREW Carbon: Frontier just committed an additional $915M to carbon dioxide removal — bringing their  ([source](https://www.linkedin.com/company/crew-carbon/#post-0b276c342221))
 - **2026-08-10** — news mention: CREW Carbon: CREW has signed a long-term CO2 removal offtake agreement with Microsoft !   When some  ([source](https://www.linkedin.com/company/crew-carbon/#post-ea42e8b16d24))
 - **2026-08-08** — news mention: Microsoft Secures 23,602 Carbon Removal Credits from CREW Carbon to Diversify Portfolio &#8211; Bioc ([source](https://biochartoday.com/news/microsoft-secures-23602-carbon-removal-credits-from-crew-carbon-to-diversify-portfolio/?utm_source=bluesky&utm_medium=jetpack_social))
-- **2026-08-07** — news mention: Microsoft inks wastewater carbon removal deal with Crew Carbon | BusinessGreen News ([source](https://www.businessgreen.com/news/4534043/microsoft-inks-wastewater-carbon-removal-deal-crew-carbon))
 
 ---
 

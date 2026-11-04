@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>DAC</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://brineworks.tech" target="_blank" rel="noopener">https://brineworks.tech</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/brine-works/" target="_blank" rel="noopener">brine-works — 3,190 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/brine-works/" target="_blank" rel="noopener">brine-works</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~15 (+36% YoY)</td></tr>
+  <tr><th>Company size</th><td>Small (10 to 49) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ Brineworks is an Amsterdam-based climate tech startup founded in 2023 by Gudfinn
 
 ## History
 
+- **2026-11-03** — news mention: Brineworks: What happens when you take a DAC system out of the lab and into the real world? 🌍 Four m ([source](https://www.linkedin.com/company/brine-works/#post-912654fd5d3e))
 - **2026-10-15** — refresh: screenshot
 - **2026-10-04** — news mention: Brineworks: We are very proud to be one of the eight suppliers in Milkywire 's latest round of carbo ([source](https://www.linkedin.com/company/brine-works/#post-a3b5512cd1af))
 - **2026-10-01** — news mention: Milkywire: 🌍 Milkywire has completed eight Salesforce-backed pre-purchases, securing 3,661 tonnes of ([source](https://www.linkedin.com/company/milkywire/#post-08426181283f))

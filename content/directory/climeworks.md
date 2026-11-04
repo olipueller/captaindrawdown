@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://climeworks.com/" target="_blank" rel="noopener">https://climeworks.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/climeworks/" target="_blank" rel="noopener">climeworks — 119,784 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/climeworks/" target="_blank" rel="noopener">climeworks</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~396 (-17% YoY)</td></tr>
+  <tr><th>Company size</th><td>Large (250+) <small>(EU SME size class, derived from the LinkedIn size band; exact headcounts are not published)</small></td></tr>
   <tr><th>Open roles</th><td>12 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -47,6 +47,21 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-11-03** — news mention: Japan Airlines ↔ Climeworks — biochar ([source](https://carbonherald.com/japan-airlines-climeworks-solutions-sign-historic-corsia-compliant-cdr-deal))
+- **2026-11-03** — news mention: Terraton: Big news: Isometric has issued Terraton’s first carbon removal credits, from our facility  ([source](https://www.linkedin.com/company/terraton/#post-7f7eb454f249))
+- **2026-11-03** — news mention: Orca (carbon capture plant) - Wikipedia ([source](https://en.wikipedia.org/wiki/Orca_(carbon_capture_plant)))
+- **2026-10-30** — news mention: Cleantech PR Campaigns: 4 Climate Tech Cases Compared ([source](https://virgo-pr.com/cleantech-pr-campaigns))
+- **2026-10-27** — news mention: Carbon Capture Market Trends And Forecast Analysis Reveal Strong Long-Term Potential ([source](https://www.einpresswire.com/article/951776681/carbon-capture-market-trends-and-forecast-analysis-reveal-strong-long-term-potential))
+- **2026-10-23** — news mention: US non-profit adds three CDR projects in latest investment round ([source](https://www.qcintel.com/carbon/article/us-non-profit-adds-three-cdr-projects-in-latest-investment-round-75831.html))
+- **2026-10-23** — news mention: Carbon Removal Technology Market Gains Momentum as Climeworks Secures USD 162 Million to Scale Carbo ([source](https://www.openpr.com/news/4670727/carbon-removal-technology-market-gains-momentum-as-climeworks))
+- **2026-10-23** — news mention: Europe Direct Air Capture Sorbent Contactors Market Is Going to Boom |• Climeworks • Carbon Clean So ([source](https://www.openpr.com/news/4670529/europe-direct-air-capture-sorbent-contactors-market-is-going))
+- **2026-10-22** — news mention: Climate Impact Partners: Big news: Isometric has issued Terraton’s first carbon removal credits, fro ([source](https://www.linkedin.com/company/climate-impact-partners/#post-1aafc5e850aa))
+- **2026-10-21** — news mention: Terraton Issues First Carbon Removal Credits from Agricultural Waste, Signs Agreements with Climewor ([source](https://www.usatoday.com/press-release/story/51596/terraton-issues-first-carbon-removal-credits-from-agricultural-waste-signs-agreements-with-climeworks-solutions-climate-impact-partners-carbonfuture-cur8-and-terraset/))
+- **2026-10-20** — news mention: Terraton Issues First Carbon Removal Credits from Agricultural Waste, Signs Agreements with Climewor ([source](https://www.voiceofalexandria.com/news/national_business_news/terraton-issues-first-carbon-removal-credits-from-agricultural-waste-signs-agreements-with-climeworks-solutions-climate/article_d96a7803-8de9-5177-9ccd-3379327b6784.html))
+- **2026-10-20** — news mention: Terraton Issues First Carbon Removal Credits from Agricultural Waste, Signs Agreements with Climewor ([source](https://www.finanzwire.com/press-release/terraton-issues-first-carbon-removal-credits-from-agricultural-waste-signs-agreements-with-climeworks-solutions-climate-impact-partners-carbonfuture-cur8-and-terraset-PEWExVWMRQY))
+- **2026-10-20** — news mention: Terraton Issues First Carbon Removal Credits from Agricultural Waste, Signs Agreements with Climewor ([source](https://lifestyle.middletownlifemagazine.com/story/771038/terraton-issues-first-carbon-removal-credits-from-agricultural-waste-signs-agreements-with-climeworks-solutions-climate-impact-partners-carbonfuture-cur8-and-terraset/))
+- **2026-10-20** — news mention: EXCLUSIVE: Terraton Signs Offtakes With Climeworks And Climate Impact Partners ([source](https://carbonherald.com/exclusive-terraton-signs-offtakes-with-climeworks-climate-impact-partners/?utm_source=rss&utm_medium=rss&utm_campaign=exclusive-terraton-signs-offtakes-with-climeworks-climate-impact-partners))
+- **2026-10-20** — news mention: EXCLUSIVE: Terraton Signs Offtakes With Climeworks, Coca-Cola, And Climate Impact Partners ([source](https://carbonherald.com/exclusive-terraton-signs-offtakes-with-climeworks-coca-cola-and-climate-impact-partners/?utm_source=rss&utm_medium=rss&utm_campaign=exclusive-terraton-signs-offtakes-with-climeworks-coca-cola-and-climate-impact-partners))
 - **2026-10-15** — refresh: coresignal
 - **2026-10-15** — refresh: coresignal
 - **2026-10-14** — news mention: Carbon removal has a role to play in the AI infrastructure boom ([source](https://esgpost.com/carbon-removal-has-a-role-to-play-in-the-ai-infrastructure-boom/))
@@ -62,21 +77,6 @@ Independently verified by carbon-credit registries:
 - **2026-10-02** — news mention: Episode 33: Helin Cox (Climeworks) - A CTO&#x27;s Guide to Scaling First-of-a-Kind Technology | Scal ([source](https://www.adopter.net/podcast/episode-33-helin-cox-a-ctos-guide-to-scaling-first-of-a-kind-technology))
 - **2026-09-30** — news mention: #climateweeknyc #carbonremoval #netzero #climeworks | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7510668733732986880/))
 - **2026-09-29** — news mention: Climeworks wins £784,000 UK govt. carbon credit tender ([source](https://www.qcintel.com/carbon/article/climeworks-wins-784-000-uk-govt-carbon-credit-tender-73983.html))
-- **2026-09-28** — news mention: Japan Airlines Cuts CO₂ to 9.13M Tons, Expands Carbon Credit Strategy • Carbon Credits ([source](https://carboncredits.com/japan-airlines-cuts-co%e2%82%82-to-9-13m-tons-expands-carbon-credit-strategy/))
-- **2026-09-28** — news mention: Carbon Dioxide Removal Market Is Going to Boom |• Climeworks • Carbon Engineering • Global CCS Insti ([source](https://www.openpr.com/news/4645712/carbon-dioxide-removal-market-is-going-to-boom-climeworks))
-- **2026-09-25** — news mention: Nature and Energy ([source](https://climateldnont.substack.com/p/nature-and-energy))
-- **2026-09-25** — news mention: Phillips 66 Hydrogen 2025, 1 Ørsted Gigastack Project ([source](https://enkiai.com/phillips-66-offshore-wind-initiatives-for-2025-key-projects-strategies-and-partnerships/))
-- **2026-09-25** — news mention: 「ネガティブエミッション技術市場規模、成長と動向分析レポート 2026-2033年」の市場調査レポート出版・販売開始のご案内 | 株式会社SEMABIZのプレスリリース ([source](https://www.dreamnews.jp/press/0000363578))
-- **2026-09-24** — news mention: As climate risks move from sustainability reports to boardroom agendas, we&amp;#39;re keen to hear h ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7508526835446521856/))
-- **2026-09-23** — news mention: Navigating the Future: Climate Adaptation Market Size Valued at USD 33.65 Bn in 2025 and Projected t ([source](https://www.nsnheadlines.com/post/navigating-the-future-climate-adaptation-market-size-valued-at-usd-33-65-bn-in-2025-and-projected-t))
-- **2026-09-23** — news mention: Exxon Mobil Hydrogen 2025, $20 B Target and BASF Pivot ([source](https://enkiai.com/exxonmobil-hydrogen-initiatives-for-2025-key-projects-strategies-and-partnerships/))
-- **2026-09-23** — news mention: Climeworks: Today, Climeworks and Japan Airlines announce a landmark agreement to help advance the r ([source](https://www.linkedin.com/company/climeworks/#post-3b4367f4578e))
-- **2026-09-22** — news mention: Netherlands launches Europe's largest industrial carbon capture site to trap 800,000 tons a year ([source](https://www.thecooldown.com/green-tech/largest-industrial-carbon-capture-site-netherlands/))
-- **2026-09-22** — news mention: Netherlands launches Europe's largest industrial carbon capture site to trap 800,000 tons a year - E ([source](https://www.europesays.com/europe/144307/))
-- **2026-09-22** — news mention: Climeworks, Japan Airlines (JAL) Sign ‘First’ CORSIA-Compliant Carbon Removal Deal ([source](https://carboncredits.com/climeworks-jal-corsia-carbon-removal-deal/))
-- **2026-09-22** — news mention: 'The Future of CCS Can No Longer Be Assumed' (a supporter rethinks ...) - Master Resource ([source](https://www.masterresource.org/carbon-capture-and-storage-ccs/future-ccs-no-longer-be-assumed-supporter/))
-- **2026-09-21** — news mention: Japan Airlines Signs First CORSIA Carbon Removal Deal - ESG News ([source](https://esgnews.com/japan-airlines-signs-first-corsia-carbon-removal-deal/))
-- **2026-09-18** — news mention: CO2 Mineralization Market Expected to Grow at 10.1% CAGR During 2026-2032 Amid Rising Net-Zero Emiss ([source](https://www.openpr.com/news/4635752/co2-mineralization-market-expected-to-grow-at-10-1-cagr-during))
 
 ---
 
