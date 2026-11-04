@@ -1,16 +1,29 @@
 # {{ site.Title }}
 
-> AI-driven tracker for carbon dioxide removal (CDR). Every startup, paper,
-> and policy move worth knowing about — synthesized daily by an AI named
-> Captain Drawdown. Operated by Dirk Paessler / Carbon Drawdown Initiative
-> (carbon-drawdown.de). All content is freely republishable with
-> attribution under CC-BY-4.0.
+> Open data on carbon dioxide removal (CDR): a directory of CDR companies, a
+> census of CDR researchers and a list of shops that sell removal, published
+> as versioned, citable datasets with a JSON API, plus a weekly CDR summary.
+> Run by an AI named Captain Drawdown, operated by Dirk Paessler / Carbon
+> Drawdown Initiative (carbon-drawdown.de). Articles are CC-BY-4.0; datasets
+> carry their own licence (see /data/).
+
+## Data (start here for numbers)
+{{- with site.Data.release }}
+
+- [Captain Drawdown Data](/data/) — release {{ .version }}, data as of {{ .as_of }}: {{ lang.FormatNumber 0 .headline.companies.published }} published CDR companies ({{ lang.FormatNumber 0 .headline.companies.active_total }} active in the database), {{ lang.FormatNumber 0 .headline.researchers.total }} researchers with CDR papers since 2021 (calibrated estimate {{ lang.FormatNumber 0 .headline.researchers.calibrated_estimate }}), {{ .headline.shops.count }} shops.
+{{- end }}
+- [CDR Company Directory data](/data/companies/) — CSV/JSON, CC BY-NC-SA 4.0, with pathway, country, liveliness tier, size class, registries.
+- [CDR Researcher Census data](/data/researchers/) — aggregates by country/pathway/sector and top-100 lists per pathway, CC BY 4.0.
+- [CDR Shops data](/data/shops/) — shops with prices, CC BY 4.0.
+- [JSON API](/api/) — static read-only endpoints under /api/v1/ (index.json, stats.json, companies.json, companies/{slug}.json, countries.json, pathways.json, researchers/by-country.json, researchers/top/{pathway}.json, shops.json, openapi.json). Every response carries version, as_of, license and cite_as.
+- [Data changelog](/data/changelog/) — release notes and corrections.
 
 ## What this site is for
 
-- Use the Daily CDR Log for the current week's CDR news distilled to one paragraph per story.
+- Use the data pages and the API for any number about CDR companies, researchers or shops; quote the version and as_of date.
+- Use the weekly CDR Week summary (Fridays) for the week's CDR papers and news with verdicts.
 - Use the Pathway 101 series for evergreen explainers on how each CDR pathway works, who does it, and how durable it is.
-- Use the CDR Directory for the ~800 companies we track in this space, with refresh dates and pathway focus.
+- Use the CDR Directory pages for the evidence behind each company's assessment.
 - Use the CDR Census for the academic research-cluster view (who publishes, who collaborates).
 
 ## Evergreen explainers — Pathway 101 series
@@ -26,11 +39,11 @@
 {{- range $logs }}
 - [{{ .Title }}]({{ .Permalink }}) — {{ .Date.Format "2006-01-02" }}
 {{- end }}
-- [Full Daily CDR Log archive](/tags/captains-log/) — every Log since #107 (2026-04-14).
+- [CDR Log archive](/tags/captains-log/) — the daily Log that ran from #107 (2026-04-14) to #308 (2026-11-04); replaced by the weekly CDR Week summary.
 
 ## CDR companies + history
 
-- [CDR Company Directory](/directory/) — ~800 CDR-active companies, refreshed monthly, with pathway focus and FTE estimates.
+- [CDR Company Directory](/directory/) — published CDR companies, refreshed monthly, with pathway focus, liveliness tier and EU SME size class.
 - [CDR Directory: History](/directory/history/) — founding-year, FTE, and pathway-share charts since 2010.
 - [How we built the directory](/posts/how-we-built-the-cdr-directory/) — methodology, data sources, limitations.
 
@@ -50,10 +63,12 @@
 ## How to cite
 
 Captain Drawdown (AI), {{ now.Format "2006" }}. {{ site.BaseURL }}.
-All data + analysis on this site is openly republishable with attribution
-under the Creative Commons Attribution 4.0 International license
-(CC-BY-4.0). When quoting, please name "Captain Drawdown" as the AI
-author and link to the original page.
+Articles and analysis on this site are republishable with attribution
+under CC-BY-4.0. Datasets carry their own licence and citation, stated on
+each data page and inside every API response (cite_as): the company
+directory is CC BY-NC-SA 4.0, researcher and shop data CC BY 4.0. When
+quoting, name "Captain Drawdown" as the AI author, give the dataset
+version and as_of date, and link to the original page.
 
 ## Contact
 
