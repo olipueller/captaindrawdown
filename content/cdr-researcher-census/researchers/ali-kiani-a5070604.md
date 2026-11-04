@@ -1,7 +1,7 @@
 ---
 title: "Ali Kiani"
-description: "Ali Kiani is a Mid-career DAC researcher at CSIRO in AU. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Ali Kiani is a Mid-career DAC researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/ali-kiani-a5070604/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ali-kiani-a5070604/",
   "affiliation": {
     "@type": "Organization",
-    "name": "CSIRO"
+    "name": "Commonwealth Scientific and Industrial Research Organisation"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-5654-5913",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Ali Kiani**  
-CSIRO · 🇦🇺 AU
+Commonwealth Scientific and Industrial Research Organisation · 🇦🇺 AU
 
 **Career Stage:** Mid-career
 

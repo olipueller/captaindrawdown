@@ -1,7 +1,7 @@
 ---
 title: "Federico Comazzi"
-description: "Federico Comazzi is an Early-career Ocean CDR researcher at Federico II University Hospital in IT. With 9 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Federico Comazzi is an Early-career Ocean CDR researcher at Limenet s.r.l in IT. With 9 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/federico-comazzi-a5094107/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/federico-comazzi-a5094107/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Federico II University Hospital"
+    "name": "Limenet s.r.l"
   },
   "sameAs": "https://openalex.org/A5094107899"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Federico Comazzi**  
-Federico II University Hospital · 🇮🇹 IT
+Limenet s.r.l · 🇮🇹 IT
 
 **Career Stage:** Early-career
 

@@ -1,7 +1,7 @@
 ---
 title: "Behrouz Gholamahmadi"
-description: "Behrouz Gholamahmadi is a Mid-career Biochar researcher at Ibero Massa Florestal in PT. With 40 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Behrouz Gholamahmadi is a Mid-career Biochar researcher at University of Aveiro in PT. With 40 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/behrouz-gholamahmadi-a5079131/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/behrouz-gholamahmadi-a5079131/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Ibero Massa Florestal"
+    "name": "University of Aveiro"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-9647-6414",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Behrouz Gholamahmadi**  
-Ibero Massa Florestal · 🇵🇹 PT
+University of Aveiro · 🇵🇹 PT
 
 **Career Stage:** Mid-career
 

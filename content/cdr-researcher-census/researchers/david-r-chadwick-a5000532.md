@@ -1,7 +1,7 @@
 ---
 title: "David R. Chadwick"
-description: "David R. Chadwick is an Eminent Soil Carbon researcher at Bangor University School of Natural Sciences in GB. With 497 publications and an h-index of 73, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "David R. Chadwick is an Eminent Soil Carbon researcher at Bangor University in GB. With 497 publications and an h-index of 73, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/david-r-chadwick-a5000532/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/david-r-chadwick-a5000532/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Bangor University School of Natural Sciences"
+    "name": "Bangor University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-8479-8157",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **David R. Chadwick**  
-Bangor University School of Natural Sciences · 🇬🇧 GB
+Bangor University · 🇬🇧 GB
 
 **Career Stage:** Eminent
 

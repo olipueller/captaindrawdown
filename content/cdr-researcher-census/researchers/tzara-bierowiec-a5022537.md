@@ -1,7 +1,7 @@
 ---
 title: "Tzara Bierowiec"
-description: "Tzara Bierowiec is an Early-career Enhanced Weathering researcher at Nano Carbon (Poland) in PL. With 14 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Tzara Bierowiec is an Early-career Enhanced Weathering researcher at UNDO Carbon Ltd in PL. With 14 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/tzara-bierowiec-a5022537/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/tzara-bierowiec-a5022537/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Nano Carbon (Poland)"
+    "name": "UNDO Carbon Ltd"
   },
   "sameAs": "https://openalex.org/A5022537045"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Tzara Bierowiec**  
-Nano Carbon (Poland) ·  PL
+UNDO Carbon Ltd ·  PL
 
 **Career Stage:** Early-career
 

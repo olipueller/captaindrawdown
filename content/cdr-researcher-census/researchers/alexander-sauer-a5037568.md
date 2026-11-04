@@ -1,7 +1,7 @@
 ---
 title: "Alexander Sauer"
-description: "Alexander Sauer is a Senior BECCS researcher at Fraunhofer Institute for Manufacturing Engineering and AutomationProduktionstechnik und Automatisierung IPA in DE. With 322 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Alexander Sauer is a Senior BECCS researcher at University of Stuttgart in DE. With 322 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/alexander-sauer-a5037568/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/alexander-sauer-a5037568/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Fraunhofer Institute for Manufacturing Engineering and AutomationProduktionstechnik und Automatisierung IPA"
+    "name": "University of Stuttgart"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-3822-1514",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Alexander Sauer**  
-Fraunhofer Institute for Manufacturing Engineering and AutomationProduktionstechnik und Automatisierung IPA · 🇩🇪 DE
+University of Stuttgart · 🇩🇪 DE
 
 **Career Stage:** Senior
 

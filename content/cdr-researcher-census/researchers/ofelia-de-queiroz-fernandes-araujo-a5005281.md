@@ -1,7 +1,7 @@
 ---
 title: "Ofélia de Queiroz Fernandes Araújo"
-description: "Ofélia de Queiroz Fernandes Araújo is a Senior BECCS researcher at Federal University of Rio de Janeiro in BR. With 206 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Ofélia de Queiroz Fernandes Araújo is a Senior BECCS researcher at Universidade Federal do Rio de Janeiro in BR. With 206 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/ofelia-de-queiroz-fernandes-araujo-a5005281/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ofelia-de-queiroz-fernandes-araujo-a5005281/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Federal University of Rio de Janeiro"
+    "name": "Universidade Federal do Rio de Janeiro"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-4041-7161",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Ofélia de Queiroz Fernandes Araújo**  
-Federal University of Rio de Janeiro · 🇧🇷 BR
+Universidade Federal do Rio de Janeiro · 🇧🇷 BR
 
 **Career Stage:** Senior
 

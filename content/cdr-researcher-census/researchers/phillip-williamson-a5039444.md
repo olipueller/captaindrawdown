@@ -1,7 +1,7 @@
 ---
 title: "Phillip Williamson"
-description: "Phillip Williamson is an Eminent Ocean CDR researcher at Natural Environment Research Council in GB. With 151 publications and an h-index of 45, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Phillip Williamson is an Eminent Ocean CDR researcher at University of East Anglia in GB. With 151 publications and an h-index of 45, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/phillip-williamson-a5039444/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/phillip-williamson-a5039444/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Natural Environment Research Council"
+    "name": "University of East Anglia"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-4149-5110",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Phillip Williamson**  
-Natural Environment Research Council · 🇬🇧 GB
+University of East Anglia · 🇬🇧 GB
 
 **Career Stage:** Eminent
 

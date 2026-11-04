@@ -1,7 +1,7 @@
 ---
 title: "Wei‐Jun Cai"
 description: "Wei‐Jun Cai is an Eminent Ocean CDR researcher at University of Delaware in US. With 512 publications and an h-index of 91, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/weijun-cai-a5062468/"
 layout: "researcher"
 hiddenInHomeList: true

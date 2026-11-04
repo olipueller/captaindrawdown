@@ -1,7 +1,7 @@
 ---
 title: "Roland Dittmeyer"
-description: "Roland Dittmeyer is an Eminent General CDR researcher at Karlsruher Institut für Technologie in DE. With 406 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Roland Dittmeyer is an Eminent General CDR researcher at Karlsruhe Institute of Technology in DE. With 406 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/roland-dittmeyer-a5074981/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/roland-dittmeyer-a5074981/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Karlsruher Institut f\u00fcr Technologie"
+    "name": "Karlsruhe Institute of Technology"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-3110-6989",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Roland Dittmeyer**  
-Karlsruher Institut für Technologie · 🇩🇪 DE
+Karlsruhe Institute of Technology · 🇩🇪 DE
 
 **Career Stage:** Eminent
 

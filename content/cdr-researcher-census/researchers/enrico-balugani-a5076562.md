@@ -1,7 +1,7 @@
 ---
 title: "Enrico Balugani"
-description: "Enrico Balugani is a Senior Soil Carbon researcher at Horta (Italy) in IT. With 73 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Enrico Balugani is a Senior Soil Carbon researcher at University of Bologna in IT. With 73 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/enrico-balugani-a5076562/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/enrico-balugani-a5076562/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Horta (Italy)"
+    "name": "University of Bologna"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-3879-9255",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Enrico Balugani**  
-Horta (Italy) · 🇮🇹 IT
+University of Bologna · 🇮🇹 IT
 
 **Career Stage:** Senior
 

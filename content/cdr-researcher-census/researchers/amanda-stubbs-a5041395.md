@@ -1,7 +1,7 @@
 ---
 title: "Amanda Stubbs"
-description: "Amanda Stubbs is a Senior Enhanced Weathering researcher at Royal Bank of Scotland (United Kingdom) in GB. With 57 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Amanda Stubbs is a Senior Enhanced Weathering researcher at University of Glasgow in GB. With 57 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/amanda-stubbs-a5041395/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/amanda-stubbs-a5041395/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Royal Bank of Scotland (United Kingdom)"
+    "name": "University of Glasgow"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-1283-2923",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Amanda Stubbs**  
-Royal Bank of Scotland (United Kingdom) · 🇬🇧 GB
+University of Glasgow · 🇬🇧 GB
 
 **Career Stage:** Senior
 

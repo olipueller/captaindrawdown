@@ -1,7 +1,7 @@
 ---
 title: "José M. de la Rosa Arranz"
-description: "José M. de la Rosa Arranz is a Senior Biochar researcher at Consejo Superior de Investigaciones Científicas in ES. With 309 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "José M. de la Rosa Arranz is a Senior Biochar researcher at Instituto de Recursos Naturales y Agrobiología de Sevilla in ES. With 309 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/jose-m-de-la-rosa-arranz-a5032318/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jose-m-de-la-rosa-arranz-a5032318/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Consejo Superior de Investigaciones Cient\u00edficas"
+    "name": "Instituto de Recursos Naturales y Agrobiolog\u00eda de Sevilla"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-2857-2345",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **José M. de la Rosa Arranz**  
-Consejo Superior de Investigaciones Científicas · 🇪🇸 ES
+Instituto de Recursos Naturales y Agrobiología de Sevilla · 🇪🇸 ES
 
 **Career Stage:** Senior
 

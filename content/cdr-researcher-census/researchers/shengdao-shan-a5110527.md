@@ -1,7 +1,7 @@
 ---
 title: "Shengdao Shan"
 description: "Shengdao Shan is an Eminent Biochar researcher at Zhejiang University of Science and Technology in CN. With 189 publications and an h-index of 48, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/shengdao-shan-a5110527/"
 layout: "researcher"
 hiddenInHomeList: true

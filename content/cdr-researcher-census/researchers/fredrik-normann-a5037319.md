@@ -1,7 +1,7 @@
 ---
 title: "Fredrik Normann"
-description: "Fredrik Normann is a Senior General CDR researcher at Luossavaara-Kiirunavaara Aktiebolag (Sweden) in SE. With 170 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Fredrik Normann is a Senior General CDR researcher at Chalmers University of Technology in SE. With 170 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/fredrik-normann-a5037319/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/fredrik-normann-a5037319/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Luossavaara-Kiirunavaara Aktiebolag (Sweden)"
+    "name": "Chalmers University of Technology"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-0947-1883",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Fredrik Normann**  
-Luossavaara-Kiirunavaara Aktiebolag (Sweden) · 🇸🇪 SE
+Chalmers University of Technology · 🇸🇪 SE
 
 **Career Stage:** Senior
 

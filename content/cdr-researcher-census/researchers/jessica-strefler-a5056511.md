@@ -1,7 +1,7 @@
 ---
 title: "Jessica Strefler"
-description: "Jessica Strefler is a Senior General CDR researcher at Aarhus University in DK. With 104 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Jessica Strefler is a Senior General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 104 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/jessica-strefler-a5056511/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jessica-strefler-a5056511/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Aarhus University"
+    "name": "Potsdam Institute for Climate Impact Research"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-5279-4629",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Jessica Strefler**  
-Aarhus University · 🇩🇰 DK
+Potsdam Institute for Climate Impact Research · 🇩🇪 DE
 
 **Career Stage:** Senior
 

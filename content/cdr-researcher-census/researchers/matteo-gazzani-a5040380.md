@@ -1,7 +1,7 @@
 ---
 title: "Matteo Gazzani"
-description: "Matteo Gazzani is a Senior DAC researcher at Technische Universiteit Eindhoven in NL. With 126 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Matteo Gazzani is a Senior DAC researcher at Utrecht University in NL. With 126 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/matteo-gazzani-a5040380/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/matteo-gazzani-a5040380/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Technische Universiteit Eindhoven"
+    "name": "Utrecht University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-1352-4562",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Matteo Gazzani**  
-Technische Universiteit Eindhoven · 🇳🇱 NL
+Utrecht University · 🇳🇱 NL
 
 **Career Stage:** Senior
 

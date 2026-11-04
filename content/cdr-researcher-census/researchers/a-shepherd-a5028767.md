@@ -1,7 +1,7 @@
 ---
 title: "A. Shepherd"
 description: "A. Shepherd is a Senior BECCS researcher at University of Aberdeen in GB. With 120 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/a-shepherd-a5028767/"
 layout: "researcher"
 hiddenInHomeList: true

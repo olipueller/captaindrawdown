@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Sadr"
-description: "Mohammad Sadr is an Early-career BECCS researcher at Helmholtz-Zentrum für Umweltforschung in DE. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Mohammad Sadr is an Early-career BECCS researcher at Helmholtz Centre for Environmental Research in DE. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/mohammad-sadr-a5038945/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mohammad-sadr-a5038945/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Helmholtz-Zentrum f\u00fcr Umweltforschung"
+    "name": "Helmholtz Centre for Environmental Research"
   },
   "sameAs": [
     "https://orcid.org/0009-0002-3626-3374",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Mohammad Sadr**  
-Helmholtz-Zentrum für Umweltforschung · 🇩🇪 DE
+Helmholtz Centre for Environmental Research · 🇩🇪 DE
 
 **Career Stage:** Early-career
 

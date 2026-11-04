@@ -1,7 +1,7 @@
 ---
 title: "Alexandre Szklo"
-description: "Alexandre Szklo is an Eminent General CDR researcher at Federal University of Rio de Janeiro in BR. With 296 publications and an h-index of 48, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Alexandre Szklo is an Eminent General CDR researcher at Universidade Federal do Rio de Janeiro in BR. With 296 publications and an h-index of 48, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/alexandre-szklo-a5043645/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/alexandre-szklo-a5043645/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Federal University of Rio de Janeiro"
+    "name": "Universidade Federal do Rio de Janeiro"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-7101-1810",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Alexandre Szklo**  
-Federal University of Rio de Janeiro · 🇧🇷 BR
+Universidade Federal do Rio de Janeiro · 🇧🇷 BR
 
 **Career Stage:** Eminent
 

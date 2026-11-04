@@ -1,7 +1,7 @@
 ---
 title: "Riti Thapar Kapoor"
 description: "Riti Thapar Kapoor is a Mid-career Biochar researcher at Amity University in IN. With 125 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/riti-thapar-kapoor-a5037145/"
 layout: "researcher"
 hiddenInHomeList: true

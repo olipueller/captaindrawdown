@@ -1,7 +1,7 @@
 ---
 title: "Michiel Van Tendeloo"
 description: "Michiel Van Tendeloo is a Mid-career Enhanced Weathering researcher at University of Antwerp in BE. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/michiel-van-tendeloo-a5075775/"
 layout: "researcher"
 hiddenInHomeList: true

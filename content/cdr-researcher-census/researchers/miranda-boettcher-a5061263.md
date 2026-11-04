@@ -1,7 +1,7 @@
 ---
 title: "Miranda Boettcher"
-description: "Miranda Boettcher is a Mid-career General CDR researcher at Stiftung Wissenschaft und Politik Deutsches Institut für Internationale Politik und Sicherheit in DE. With 52 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Miranda Boettcher is a Mid-career General CDR researcher at Stiftung Wissenschaft und Politik, German Institute for International and Security Affairs in DE. With 52 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/miranda-boettcher-a5061263/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/miranda-boettcher-a5061263/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Stiftung Wissenschaft und Politik Deutsches Institut f\u00fcr Internationale Politik und Sicherheit"
+    "name": "Stiftung Wissenschaft und Politik, German Institute for International and Security Affairs"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-7975-4945",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Miranda Boettcher**  
-Stiftung Wissenschaft und Politik Deutsches Institut für Internationale Politik und Sicherheit · 🇩🇪 DE
+Stiftung Wissenschaft und Politik, German Institute for International and Security Affairs · 🇩🇪 DE
 
 **Career Stage:** Mid-career
 

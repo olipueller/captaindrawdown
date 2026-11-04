@@ -1,7 +1,7 @@
 ---
 title: "Avijit Ghosh"
-description: "Avijit Ghosh is a Senior Soil Carbon researcher at Indian Council of Agricultural Research in IN. With 161 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Avijit Ghosh is a Senior Soil Carbon researcher at Indian Grassland and Fodder Research Institute in IN. With 161 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/avijit-ghosh-a5069313/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/avijit-ghosh-a5069313/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Indian Council of Agricultural Research"
+    "name": "Indian Grassland and Fodder Research Institute"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-0556-445X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Avijit Ghosh**  
-Indian Council of Agricultural Research · 🇮🇳 IN
+Indian Grassland and Fodder Research Institute · 🇮🇳 IN
 
 **Career Stage:** Senior
 

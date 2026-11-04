@@ -1,7 +1,7 @@
 ---
 title: "Ying Zhang"
-description: "Ying Zhang is an Eminent Biochar researcher at Xinjiang Agricultural University in CN. With 597 publications and an h-index of 73, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Ying Zhang is an Eminent Biochar researcher at Northeast Agricultural University in CN. With 597 publications and an h-index of 73, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/ying-zhang-a5100386/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ying-zhang-a5100386/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Xinjiang Agricultural University"
+    "name": "Northeast Agricultural University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-8299-3848",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Ying Zhang**  
-Xinjiang Agricultural University · 🇨🇳 CN
+Northeast Agricultural University · 🇨🇳 CN
 
 **Career Stage:** Eminent
 

@@ -1,7 +1,7 @@
 ---
 title: "Sebastian Döetterl"
-description: "Sebastian Döetterl is a Senior Soil Carbon researcher at ETH Zürich in CH. With 212 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Sebastian Döetterl is a Senior Soil Carbon researcher at ETH Zurich in CH. With 212 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/sebastian-doetterl-a5017534/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/sebastian-doetterl-a5017534/",
   "affiliation": {
     "@type": "Organization",
-    "name": "ETH Z\u00fcrich"
+    "name": "ETH Zurich"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-0986-891X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Sebastian Döetterl**  
-ETH Zürich · 🇨🇭 CH
+ETH Zurich · 🇨🇭 CH
 
 **Career Stage:** Senior
 

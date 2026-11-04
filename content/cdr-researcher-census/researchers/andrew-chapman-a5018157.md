@@ -1,7 +1,7 @@
 ---
 title: "Andrew Chapman"
-description: "Andrew Chapman is a Senior DAC researcher at International Institute for Carbon Neutral Energy Research in JP. With 254 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Andrew Chapman is a Senior DAC researcher at Kyushu University in JP. With 254 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/andrew-chapman-a5018157/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/andrew-chapman-a5018157/",
   "affiliation": {
     "@type": "Organization",
-    "name": "International Institute for Carbon Neutral Energy Research"
+    "name": "Kyushu University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-2519-2382",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Andrew Chapman**  
-International Institute for Carbon Neutral Energy Research · 🇯🇵 JP
+Kyushu University · 🇯🇵 JP
 
 **Career Stage:** Senior
 

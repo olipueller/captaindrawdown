@@ -1,7 +1,7 @@
 ---
 title: "Éder C. Lima"
-description: "Éder C. Lima is an Eminent Biochar researcher at King Saud University in SA. With 495 publications and an h-index of 98, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Éder C. Lima is an Eminent Biochar researcher at Universidade Federal do Rio Grande do Sul in BR. With 495 publications and an h-index of 98, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/eder-c-lima-a5011032/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/eder-c-lima-a5011032/",
   "affiliation": {
     "@type": "Organization",
-    "name": "King Saud University"
+    "name": "Universidade Federal do Rio Grande do Sul"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-8734-1208",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Éder C. Lima**  
-King Saud University · 🇸🇦 SA
+Universidade Federal do Rio Grande do Sul · 🇧🇷 BR
 
 **Career Stage:** Eminent
 

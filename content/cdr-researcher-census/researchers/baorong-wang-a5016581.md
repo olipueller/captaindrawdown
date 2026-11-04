@@ -1,7 +1,7 @@
 ---
 title: "Baorong Wang"
-description: "Baorong Wang is a Senior Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 115 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Baorong Wang is a Senior Soil Carbon researcher at Northwest A&F University in CN. With 115 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/baorong-wang-a5016581/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/baorong-wang-a5016581/",
   "affiliation": {
     "@type": "Organization",
-    "name": "North West Agriculture and Forestry University"
+    "name": "Northwest A&F University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-6435-6063",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Baorong Wang**  
-North West Agriculture and Forestry University · 🇨🇳 CN
+Northwest A&F University · 🇨🇳 CN
 
 **Career Stage:** Senior
 

@@ -1,7 +1,7 @@
 ---
 title: "Gail Taylor"
-description: "Gail Taylor is an Eminent BECCS researcher at University College London in GB. With 399 publications and an h-index of 62, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Gail Taylor is an Eminent BECCS researcher at University of California, Davis in US. With 399 publications and an h-index of 62, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/gail-taylor-a5027336/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/gail-taylor-a5027336/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University College London"
+    "name": "University of California, Davis"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-8470-6390",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Gail Taylor**  
-University College London · 🇬🇧 GB
+University of California, Davis · 🇺🇸 US
 
 **Career Stage:** Eminent
 

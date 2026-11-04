@@ -1,7 +1,7 @@
 ---
 title: "Xinde Cao"
 description: "Xinde Cao is an Eminent Biochar researcher at Shanghai Jiao Tong University in CN. With 290 publications and an h-index of 95, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/xinde-cao-a5010856/"
 layout: "researcher"
 hiddenInHomeList: true

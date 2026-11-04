@@ -1,7 +1,7 @@
 ---
 title: "Christina Larkin"
-description: "Christina Larkin is a Mid-career Enhanced Weathering researcher at University of Southampton in GB. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Christina Larkin is a Mid-career Enhanced Weathering researcher at InPlanet GmbH in GB. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/christina-larkin-a5074798/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/christina-larkin-a5074798/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Southampton"
+    "name": "InPlanet GmbH"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-6420-0461",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Christina Larkin**  
-University of Southampton · 🇬🇧 GB
+InPlanet GmbH · 🇬🇧 GB
 
 **Career Stage:** Mid-career
 

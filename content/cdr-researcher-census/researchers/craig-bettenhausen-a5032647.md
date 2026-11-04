@@ -1,7 +1,7 @@
 ---
 title: "Craig Bettenhausen﻿"
 description: "Craig Bettenhausen﻿ is a Mid-career General CDR researcher. With 876 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/craig-bettenhausen-a5032647/"
 layout: "researcher"
 hiddenInHomeList: true

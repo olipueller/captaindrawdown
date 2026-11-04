@@ -1,7 +1,7 @@
 ---
 title: "Reza Khalidy"
-description: "Reza Khalidy is a Mid-career Enhanced Weathering researcher. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Reza Khalidy is a Mid-career Enhanced Weathering researcher at University of Guelph. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/reza-khalidy-a5010802/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -14,6 +14,10 @@ robots: "index, follow"
   "@type": "Person",
   "name": "Reza Khalidy",
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/reza-khalidy-a5010802/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "University of Guelph"
+  },
   "sameAs": [
     "https://orcid.org/0000-0002-6769-9691",
     "https://openalex.org/A5010802809"
@@ -23,7 +27,8 @@ robots: "index, follow"
 
 ## Profile
 
-**Reza Khalidy**
+**Reza Khalidy**  
+University of Guelph
 
 **Career Stage:** Mid-career
 

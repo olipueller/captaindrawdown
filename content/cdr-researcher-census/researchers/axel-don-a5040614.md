@@ -1,7 +1,7 @@
 ---
 title: "Axel Don"
-description: "Axel Don is an Eminent Soil Carbon researcher at Thünen-Institute of Climate-Smart Agriculture in DE. With 302 publications and an h-index of 65, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Axel Don is an Eminent Soil Carbon researcher at Johann Heinrich von Thünen-Institut in DE. With 302 publications and an h-index of 65, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/axel-don-a5040614/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/axel-don-a5040614/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Th\u00fcnen-Institute of Climate-Smart Agriculture"
+    "name": "Johann Heinrich von Th\u00fcnen-Institut"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-7046-3332",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Axel Don**  
-Thünen-Institute of Climate-Smart Agriculture · 🇩🇪 DE
+Johann Heinrich von Thünen-Institut · 🇩🇪 DE
 
 **Career Stage:** Eminent
 

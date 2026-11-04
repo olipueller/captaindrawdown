@@ -1,7 +1,7 @@
 ---
 title: "Pete Smith"
-description: "Pete Smith is an Eminent Soil Carbon researcher at Scotland's Climate Change Centre of Expertise (ClimateXChange) in GB. With 1430 publications and an h-index of 172, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Pete Smith is an Eminent Soil Carbon researcher at University of Aberdeen in GB. With 1430 publications and an h-index of 172, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/pete-smith-a5028843/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/pete-smith-a5028843/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Scotland's Climate Change Centre of Expertise (ClimateXChange)"
+    "name": "University of Aberdeen"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-3784-1124",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Pete Smith**  
-Scotland's Climate Change Centre of Expertise (ClimateXChange) · 🇬🇧 GB
+University of Aberdeen · 🇬🇧 GB
 
 **Career Stage:** Eminent
 

@@ -1,7 +1,7 @@
 ---
 title: "Prakash Peralam Yegneswaran"
-description: "Prakash Peralam Yegneswaran is an Early-career BECCS researcher at Manipal Academy of Higher Education in IN. With 6 publications and an h-index of N/A, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Prakash Peralam Yegneswaran is an Early-career BECCS researcher at Kasturba Medical College, Manipal in IN. With 6 publications and an h-index of N/A, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/prakash-peralam-yegneswaran-a5138419/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/prakash-peralam-yegneswaran-a5138419/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Manipal Academy of Higher Education"
+    "name": "Kasturba Medical College, Manipal"
   },
   "sameAs": "https://openalex.org/A5138419665"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Prakash Peralam Yegneswaran**  
-Manipal Academy of Higher Education · 🇮🇳 IN
+Kasturba Medical College, Manipal · 🇮🇳 IN
 
 **Career Stage:** Early-career
 

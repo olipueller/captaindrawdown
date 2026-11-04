@@ -1,7 +1,7 @@
 ---
 title: "Alberto Abad"
-description: "Alberto Abad is an Eminent BECCS researcher at Instituto de Carboquimica (ICB-CSIC) in ES. With 283 publications and an h-index of 75, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Alberto Abad is an Eminent BECCS researcher at Instituto de Carboquímica in ES. With 283 publications and an h-index of 75, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/alberto-abad-a5100666/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/alberto-abad-a5100666/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Instituto de Carboquimica (ICB-CSIC)"
+    "name": "Instituto de Carboqu\u00edmica"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-4995-3473",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Alberto Abad**  
-Instituto de Carboquimica (ICB-CSIC) · 🇪🇸 ES
+Instituto de Carboquímica · 🇪🇸 ES
 
 **Career Stage:** Eminent
 

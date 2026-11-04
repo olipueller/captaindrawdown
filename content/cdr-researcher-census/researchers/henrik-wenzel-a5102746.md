@@ -1,7 +1,7 @@
 ---
 title: "Henrik Wenzel"
-description: "Henrik Wenzel is an Early-career DAC researcher at Forschungszentrum Jülich in DE. With 16 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Henrik Wenzel is an Early-career DAC researcher at RWTH Aachen University in DE. With 16 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/henrik-wenzel-a5102746/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/henrik-wenzel-a5102746/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Forschungszentrum J\u00fclich"
+    "name": "RWTH Aachen University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-8203-4930",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Henrik Wenzel**  
-Forschungszentrum Jülich · 🇩🇪 DE
+RWTH Aachen University · 🇩🇪 DE
 
 **Career Stage:** Early-career
 

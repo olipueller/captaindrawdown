@@ -1,7 +1,7 @@
 ---
 title: "Chin‐Pao Huang"
-description: "Chin‐Pao Huang is an Eminent Biochar researcher at National Taiwan University in TW. With 375 publications and an h-index of 80, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Chin‐Pao Huang is an Eminent Biochar researcher at University of Delaware in US. With 375 publications and an h-index of 80, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/chinpao-huang-a5009506/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/chinpao-huang-a5009506/",
   "affiliation": {
     "@type": "Organization",
-    "name": "National Taiwan University"
+    "name": "University of Delaware"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-2604-8857",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Chin‐Pao Huang**  
-National Taiwan University · 🇹🇼 TW
+University of Delaware · 🇺🇸 US
 
 **Career Stage:** Eminent
 

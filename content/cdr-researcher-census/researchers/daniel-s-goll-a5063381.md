@@ -1,7 +1,7 @@
 ---
 title: "Daniel S. Goll"
-description: "Daniel S. Goll is an Eminent General CDR researcher at University of Paris-Saclay in FR. With 278 publications and an h-index of 58, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Daniel S. Goll is an Eminent General CDR researcher at Laboratoire des Sciences du Climat et de l’Environnement in FR. With 278 publications and an h-index of 58, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/daniel-s-goll-a5063381/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/daniel-s-goll-a5063381/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Paris-Saclay"
+    "name": "Laboratoire des Sciences du Climat et de l\u2019Environnement"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-9246-9671",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Daniel S. Goll**  
-University of Paris-Saclay · 🇫🇷 FR
+Laboratoire des Sciences du Climat et de l’Environnement · 🇫🇷 FR
 
 **Career Stage:** Eminent
 

@@ -1,7 +1,7 @@
 ---
 title: "Paraskevi Pitta"
-description: "Paraskevi Pitta is a Senior Ocean CDR researcher at Natural History Museum in GB. With 139 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Paraskevi Pitta is a Senior Ocean CDR researcher at Hellenic Centre for Marine Research in GR. With 139 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/paraskevi-pitta-a5029477/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/paraskevi-pitta-a5029477/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Natural History Museum"
+    "name": "Hellenic Centre for Marine Research"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-3557-0575",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Paraskevi Pitta**  
-Natural History Museum · 🇬🇧 GB
+Hellenic Centre for Marine Research · 🇬🇷 GR
 
 **Career Stage:** Senior
 

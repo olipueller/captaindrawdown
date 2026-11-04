@@ -1,7 +1,7 @@
 ---
 title: "Ling Zhao"
-description: "Ling Zhao is an Eminent Biochar researcher at Shenyang Agricultural University in CN. With 175 publications and an h-index of 58, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Ling Zhao is an Eminent Biochar researcher at Shanghai Jiao Tong University in CN. With 175 publications and an h-index of 58, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/ling-zhao-a5084662/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ling-zhao-a5084662/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Shenyang Agricultural University"
+    "name": "Shanghai Jiao Tong University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-3956-5837",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Ling Zhao**  
-Shenyang Agricultural University · 🇨🇳 CN
+Shanghai Jiao Tong University · 🇨🇳 CN
 
 **Career Stage:** Eminent
 

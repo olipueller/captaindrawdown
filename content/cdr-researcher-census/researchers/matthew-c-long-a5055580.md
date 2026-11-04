@@ -1,7 +1,7 @@
 ---
 title: "Matthew C. Long"
-description: "Matthew C. Long is an Eminent Ocean CDR researcher at [C]Worthy, LLC in US. With 244 publications and an h-index of 50, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Matthew C. Long is an Eminent Ocean CDR researcher at [C]Worthy in US. With 244 publications and an h-index of 50, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/matthew-c-long-a5055580/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/matthew-c-long-a5055580/",
   "affiliation": {
     "@type": "Organization",
-    "name": "[C]Worthy, LLC"
+    "name": "[C]Worthy"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-1273-2957",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Matthew C. Long**  
-[C]Worthy, LLC · 🇺🇸 US
+[C]Worthy · 🇺🇸 US
 
 **Career Stage:** Eminent
 

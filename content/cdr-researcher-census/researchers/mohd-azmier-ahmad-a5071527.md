@@ -1,7 +1,7 @@
 ---
 title: "Mohd Azmier Ahmad"
-description: "Mohd Azmier Ahmad is an Eminent Biochar researcher at Universiti Sains Malaysia - Kampus Kejuruteraan Seri Ampangan in MY. With 244 publications and an h-index of 51, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Mohd Azmier Ahmad is an Eminent Biochar researcher at Universiti Sains Malaysia in MY. With 244 publications and an h-index of 51, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/mohd-azmier-ahmad-a5071527/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mohd-azmier-ahmad-a5071527/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Universiti Sains Malaysia - Kampus Kejuruteraan Seri Ampangan"
+    "name": "Universiti Sains Malaysia"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-8412-2491",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Mohd Azmier Ahmad**  
-Universiti Sains Malaysia - Kampus Kejuruteraan Seri Ampangan · 🇲🇾 MY
+Universiti Sains Malaysia · 🇲🇾 MY
 
 **Career Stage:** Eminent
 

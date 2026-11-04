@@ -1,7 +1,7 @@
 ---
 title: "Martin Wiesmeier"
-description: "Martin Wiesmeier is an Eminent Soil Carbon researcher at Technical University of Munich in DE. With 180 publications and an h-index of 48, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Martin Wiesmeier is an Eminent Soil Carbon researcher at Bavarian State Research Center for Agriculture in DE. With 180 publications and an h-index of 48, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/martin-wiesmeier-a5059745/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/martin-wiesmeier-a5059745/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Technical University of Munich"
+    "name": "Bavarian State Research Center for Agriculture"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-3981-5461",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Martin Wiesmeier**  
-Technical University of Munich · 🇩🇪 DE
+Bavarian State Research Center for Agriculture · 🇩🇪 DE
 
 **Career Stage:** Eminent
 

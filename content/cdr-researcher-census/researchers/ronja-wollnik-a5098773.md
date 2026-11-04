@@ -1,7 +1,7 @@
 ---
 title: "Ronja Wollnik"
 description: "Ronja Wollnik is an Early-career General CDR researcher at Deutsches Biomasseforschungszentrum in DE. With 14 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/ronja-wollnik-a5098773/"
 layout: "researcher"
 hiddenInHomeList: true

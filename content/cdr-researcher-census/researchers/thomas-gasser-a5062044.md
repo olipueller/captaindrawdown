@@ -1,7 +1,7 @@
 ---
 title: "Thomas Gasser"
 description: "Thomas Gasser is an Eminent General CDR researcher at International Institute for Applied Systems Analysis in AT. With 267 publications and an h-index of 49, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/thomas-gasser-a5062044/"
 layout: "researcher"
 hiddenInHomeList: true

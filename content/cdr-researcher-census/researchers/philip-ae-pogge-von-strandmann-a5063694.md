@@ -1,7 +1,7 @@
 ---
 title: "Philip A.E. Pogge von Strandmann"
-description: "Philip A.E. Pogge von Strandmann is an Eminent Enhanced Weathering researcher at Johannes Gutenberg Universität Mainz in DE. With 203 publications and an h-index of 51, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Philip A.E. Pogge von Strandmann is an Eminent Enhanced Weathering researcher at Johannes Gutenberg University Mainz in DE. With 203 publications and an h-index of 51, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/philip-ae-pogge-von-strandmann-a5063694/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/philip-ae-pogge-von-strandmann-a5063694/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Johannes Gutenberg Universit\u00e4t Mainz"
+    "name": "Johannes Gutenberg University Mainz"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-7181-4165",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Philip A.E. Pogge von Strandmann**  
-Johannes Gutenberg Universität Mainz · 🇩🇪 DE
+Johannes Gutenberg University Mainz · 🇩🇪 DE
 
 **Career Stage:** Eminent
 

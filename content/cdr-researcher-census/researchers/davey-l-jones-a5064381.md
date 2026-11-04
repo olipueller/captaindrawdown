@@ -1,7 +1,7 @@
 ---
 title: "Davey L. Jones"
-description: "Davey L. Jones is an Eminent Soil Carbon researcher at The University of Western Australia in AU. With 1199 publications and an h-index of 131, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Davey L. Jones is an Eminent Soil Carbon researcher at Bangor University in GB. With 1199 publications and an h-index of 131, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/davey-l-jones-a5064381/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/davey-l-jones-a5064381/",
   "affiliation": {
     "@type": "Organization",
-    "name": "The University of Western Australia"
+    "name": "Bangor University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-1482-4209",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Davey L. Jones**  
-The University of Western Australia · 🇦🇺 AU
+Bangor University · 🇬🇧 GB
 
 **Career Stage:** Eminent
 

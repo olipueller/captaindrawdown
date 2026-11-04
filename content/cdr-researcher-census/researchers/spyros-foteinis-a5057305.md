@@ -1,7 +1,7 @@
 ---
 title: "Spyros Foteinis"
-description: "Spyros Foteinis is a Senior General CDR researcher at Public Power Corporation SA in GR. With 123 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Spyros Foteinis is a Senior General CDR researcher at Heriot-Watt University in GB. With 123 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/spyros-foteinis-a5057305/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/spyros-foteinis-a5057305/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Public Power Corporation SA"
+    "name": "Heriot-Watt University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-1471-578X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Spyros Foteinis**  
-Public Power Corporation SA · 🇬🇷 GR
+Heriot-Watt University · 🇬🇧 GB
 
 **Career Stage:** Senior
 

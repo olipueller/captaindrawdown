@@ -1,7 +1,7 @@
 ---
 title: "Sophie Zechmeister‐Boltenstern"
 description: "Sophie Zechmeister‐Boltenstern is an Eminent Soil Carbon researcher at BOKU University in AT. With 291 publications and an h-index of 60, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/sophie-zechmeisterboltenstern-a5056242/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ivan A. Janssens"
-description: "Ivan A. Janssens is an Eminent Enhanced Weathering researcher at Universiteit Antwerpen in BE. With 709 publications and an h-index of 123, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Ivan A. Janssens is an Eminent Enhanced Weathering researcher at University of Antwerp in BE. With 709 publications and an h-index of 123, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/ivan-a-janssens-a5013418/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ivan-a-janssens-a5013418/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Universiteit Antwerpen"
+    "name": "University of Antwerp"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-5705-1787",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Ivan A. Janssens**  
-Universiteit Antwerpen · 🇧🇪 BE
+University of Antwerp · 🇧🇪 BE
 
 **Career Stage:** Eminent
 

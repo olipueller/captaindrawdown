@@ -1,7 +1,7 @@
 ---
 title: "Hans‐Peter Schmidt"
-description: "Hans‐Peter Schmidt is an Eminent Biochar researcher at Ithaka Institute in CH. With 200 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Hans‐Peter Schmidt is an Eminent Biochar researcher at Ithaka Institute for Carbon Strategies in CH. With 200 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/hanspeter-schmidt-a5065464/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/hanspeter-schmidt-a5065464/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Ithaka Institute"
+    "name": "Ithaka Institute for Carbon Strategies"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-8275-7506",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Hans‐Peter Schmidt**  
-Ithaka Institute · 🇨🇭 CH
+Ithaka Institute for Carbon Strategies · 🇨🇭 CH
 
 **Career Stage:** Eminent
 

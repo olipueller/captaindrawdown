@@ -1,7 +1,7 @@
 ---
 title: "Michael D. Tyka"
-description: "Michael D. Tyka is a Senior Ocean CDR researcher at Google Inc in US. With 58 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Michael D. Tyka is a Senior Ocean CDR researcher at Google (United States) in US. With 58 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/michael-d-tyka-a5073201/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/michael-d-tyka-a5073201/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Google Inc"
+    "name": "Google (United States)"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-0108-6558",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Michael D. Tyka**  
-Google Inc · 🇺🇸 US
+Google (United States) · 🇺🇸 US
 
 **Career Stage:** Senior
 

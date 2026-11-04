@@ -1,7 +1,7 @@
 ---
 title: "Lukas Marx"
-description: "Lukas Marx is a Mid-career Ocean CDR researcher at Röst Marine Research Center in IS. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Lukas Marx is a Mid-career Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/lukas-marx-a5002822/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/lukas-marx-a5002822/",
   "affiliation": {
     "@type": "Organization",
-    "name": "R\u00f6st Marine Research Center"
+    "name": "Woods Hole Oceanographic Institution"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-9864-3060",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Lukas Marx**  
-Röst Marine Research Center ·  IS
+Woods Hole Oceanographic Institution · 🇺🇸 US
 
 **Career Stage:** Mid-career
 

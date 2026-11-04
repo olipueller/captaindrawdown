@@ -1,7 +1,7 @@
 ---
 title: "Johan Six"
 description: "Johan Six is an Eminent Soil Carbon researcher at ETH Zurich in CH. With 897 publications and an h-index of 133, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/johan-six-a5028784/"
 layout: "researcher"
 hiddenInHomeList: true

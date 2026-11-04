@@ -1,7 +1,7 @@
 ---
 title: "Jacob S. Jordan"
-description: "Jacob S. Jordan is a Mid-career Enhanced Weathering researcher at Nano Carbon (Poland) in PL. With 56 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Jacob S. Jordan is a Mid-career Enhanced Weathering researcher at Mati Carbon in PL. With 56 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/jacob-s-jordan-a5091258/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jacob-s-jordan-a5091258/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Nano Carbon (Poland)"
+    "name": "Mati Carbon"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-7219-1606",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Jacob S. Jordan**  
-Nano Carbon (Poland) ·  PL
+Mati Carbon ·  PL
 
 **Career Stage:** Mid-career
 

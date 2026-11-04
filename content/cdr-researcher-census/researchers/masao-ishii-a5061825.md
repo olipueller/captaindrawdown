@@ -1,7 +1,7 @@
 ---
 title: "Masao Ishii"
-description: "Masao Ishii is an Eminent Ocean CDR researcher at Meteorological Research Institute/Japan Meteorological Agency in JP. With 720 publications and an h-index of 69, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Masao Ishii is an Eminent Ocean CDR researcher at Meteorological Research Institute in JP. With 720 publications and an h-index of 69, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/masao-ishii-a5061825/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/masao-ishii-a5061825/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Meteorological Research Institute/Japan Meteorological Agency"
+    "name": "Meteorological Research Institute"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-7328-4599",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Masao Ishii**  
-Meteorological Research Institute/Japan Meteorological Agency · 🇯🇵 JP
+Meteorological Research Institute · 🇯🇵 JP
 
 **Career Stage:** Eminent
 

@@ -1,7 +1,7 @@
 ---
 title: "Vishnu D. Rajput"
 description: "Vishnu D. Rajput is an Eminent Biochar researcher at Southern Federal University in RU. With 631 publications and an h-index of 71, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/vishnu-d-rajput-a5084567/"
 layout: "researcher"
 hiddenInHomeList: true

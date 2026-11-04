@@ -1,7 +1,7 @@
 ---
 title: "Kingsley O. Iwuozor"
-description: "Kingsley O. Iwuozor is an Eminent Biochar researcher at University of Ilorin in NG. With 208 publications and an h-index of 48, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Kingsley O. Iwuozor is an Eminent Biochar researcher at Nnamdi Azikiwe University in NG. With 208 publications and an h-index of 48, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/kingsley-o-iwuozor-a5061348/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/kingsley-o-iwuozor-a5061348/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Ilorin"
+    "name": "Nnamdi Azikiwe University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-1161-2147",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Kingsley O. Iwuozor**  
-University of Ilorin ·  NG
+Nnamdi Azikiwe University ·  NG
 
 **Career Stage:** Eminent
 

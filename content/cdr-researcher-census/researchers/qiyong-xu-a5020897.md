@@ -1,7 +1,7 @@
 ---
 title: "Qiyong Xu"
-description: "Qiyong Xu is a Senior Biochar researcher at Peking University Shenzhen Graduate School in CN. With 223 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Qiyong Xu is a Senior Biochar researcher at Peking University in CN. With 223 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/qiyong-xu-a5020897/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/qiyong-xu-a5020897/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Peking University Shenzhen Graduate School"
+    "name": "Peking University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9396-9958",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Qiyong Xu**  
-Peking University Shenzhen Graduate School · 🇨🇳 CN
+Peking University · 🇨🇳 CN
 
 **Career Stage:** Senior
 

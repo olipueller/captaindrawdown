@@ -1,7 +1,7 @@
 ---
 title: "Ahmed I. Osman"
-description: "Ahmed I. Osman is an Eminent General CDR researcher at Queen's University Belfast in GB. With 319 publications and an h-index of 87, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Ahmed I. Osman is an Eminent General CDR researcher at Canterbury Christ Church University in GB. With 319 publications and an h-index of 87, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ahmed-i-osman-a5035770/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Queen's University Belfast"
+    "name": "Canterbury Christ Church University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-2788-7839",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Ahmed I. Osman**  
-Queen's University Belfast · 🇬🇧 GB
+Canterbury Christ Church University · 🇬🇧 GB
 
 **Career Stage:** Eminent
 

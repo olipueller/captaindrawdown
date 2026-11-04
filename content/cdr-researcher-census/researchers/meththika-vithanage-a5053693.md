@@ -1,7 +1,7 @@
 ---
 title: "Meththika Vithanage"
-description: "Meththika Vithanage is an Eminent Biochar researcher at Geological Survey of Denmark and Greenland in DK. With 517 publications and an h-index of 93, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Meththika Vithanage is an Eminent Biochar researcher at University of Sri Jayewardenepura in LK. With 517 publications and an h-index of 93, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/meththika-vithanage-a5053693/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/meththika-vithanage-a5053693/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Geological Survey of Denmark and Greenland"
+    "name": "University of Sri Jayewardenepura"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-2923-4065",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Meththika Vithanage**  
-Geological Survey of Denmark and Greenland · 🇩🇰 DK
+University of Sri Jayewardenepura ·  LK
 
 **Career Stage:** Eminent
 

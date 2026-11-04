@@ -1,7 +1,7 @@
 ---
 title: "Daniel C.W. Tsang"
-description: "Daniel C.W. Tsang is an Eminent Biochar researcher at Hong Kong Polytechnic University in HK. With 803 publications and an h-index of 161, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Daniel C.W. Tsang is an Eminent Biochar researcher at Hong Kong University of Science and Technology in HK. With 803 publications and an h-index of 161, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/daniel-cw-tsang-a5076771/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/daniel-cw-tsang-a5076771/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Hong Kong Polytechnic University"
+    "name": "Hong Kong University of Science and Technology"
   },
   "sameAs": "https://openalex.org/A5076771261"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Daniel C.W. Tsang**  
-Hong Kong Polytechnic University · 🇭🇰 HK
+Hong Kong University of Science and Technology · 🇭🇰 HK
 
 **Career Stage:** Eminent
 

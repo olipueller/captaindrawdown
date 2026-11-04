@@ -1,7 +1,7 @@
 ---
 title: "Christian Breyer"
-description: "Christian Breyer is an Eminent General CDR researcher at LUT University in FI. With 395 publications and an h-index of 92, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Christian Breyer is an Eminent General CDR researcher at Lappeenranta-Lahti University of Technology in FI. With 395 publications and an h-index of 92, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/christian-breyer-a5078913/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/christian-breyer-a5078913/",
   "affiliation": {
     "@type": "Organization",
-    "name": "LUT University"
+    "name": "Lappeenranta-Lahti University of Technology"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-7380-1816",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Christian Breyer**  
-LUT University ·  FI
+Lappeenranta-Lahti University of Technology ·  FI
 
 **Career Stage:** Eminent
 

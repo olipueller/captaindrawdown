@@ -1,7 +1,7 @@
 ---
 title: "Hans Lambers"
-description: "Hans Lambers is an Eminent Soil Carbon researcher at China Agricultural University in CN. With 953 publications and an h-index of 122, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Hans Lambers is an Eminent Soil Carbon researcher at The University of Western Australia in AU. With 953 publications and an h-index of 122, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/hans-lambers-a5016389/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/hans-lambers-a5016389/",
   "affiliation": {
     "@type": "Organization",
-    "name": "China Agricultural University"
+    "name": "The University of Western Australia"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-4118-2272",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Hans Lambers**  
-China Agricultural University · 🇨🇳 CN
+The University of Western Australia · 🇦🇺 AU
 
 **Career Stage:** Eminent
 

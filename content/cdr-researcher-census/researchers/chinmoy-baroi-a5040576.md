@@ -1,7 +1,7 @@
 ---
 title: "Chinmoy Baroi"
-description: "Chinmoy Baroi is a Senior DAC researcher at Idaho National Laboratory in US. With 40 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Chinmoy Baroi is a Senior DAC researcher at University of Illinois Urbana-Champaign in US. With 40 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/chinmoy-baroi-a5040576/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/chinmoy-baroi-a5040576/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Idaho National Laboratory"
+    "name": "University of Illinois Urbana-Champaign"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-0346-732X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Chinmoy Baroi**  
-Idaho National Laboratory · 🇺🇸 US
+University of Illinois Urbana-Champaign · 🇺🇸 US
 
 **Career Stage:** Senior
 

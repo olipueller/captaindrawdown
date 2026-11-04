@@ -1,7 +1,7 @@
 ---
 title: "Detlef Stolten"
-description: "Detlef Stolten is an Eminent DAC researcher at Forschungszentrum Jülich in DE. With 1361 publications and an h-index of 84, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Detlef Stolten is an Eminent DAC researcher at RWTH Aachen University in DE. With 1361 publications and an h-index of 84, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/detlef-stolten-a5004526/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/detlef-stolten-a5004526/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Forschungszentrum J\u00fclich"
+    "name": "RWTH Aachen University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-1671-3262",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Detlef Stolten**  
-Forschungszentrum Jülich · 🇩🇪 DE
+RWTH Aachen University · 🇩🇪 DE
 
 **Career Stage:** Eminent
 

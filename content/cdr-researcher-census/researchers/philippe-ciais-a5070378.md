@@ -1,7 +1,7 @@
 ---
 title: "Philippe Ciais"
-description: "Philippe Ciais is an Eminent General CDR researcher at Université Paris-Saclay in FR. With 2765 publications and an h-index of 224, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Philippe Ciais is an Eminent General CDR researcher at Laboratoire des Sciences du Climat et de l'Environnement in FR. With 2765 publications and an h-index of 224, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/philippe-ciais-a5070378/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/philippe-ciais-a5070378/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Universit\u00e9 Paris-Saclay"
+    "name": "Laboratoire des Sciences du Climat et de l'Environnement"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-8560-4943",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Philippe Ciais**  
-Université Paris-Saclay · 🇫🇷 FR
+Laboratoire des Sciences du Climat et de l'Environnement · 🇫🇷 FR
 
 **Career Stage:** Eminent
 

@@ -1,7 +1,7 @@
 ---
 title: "Emily Cox"
-description: "Emily Cox is a Mid-career General CDR researcher at Cardiff University in GB. With 49 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Emily Cox is a Mid-career General CDR researcher at University of Oxford in GB. With 49 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/emily-cox-a5033239/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/emily-cox-a5033239/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Cardiff University"
+    "name": "University of Oxford"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-8169-3691",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Emily Cox**  
-Cardiff University · 🇬🇧 GB
+University of Oxford · 🇬🇧 GB
 
 **Career Stage:** Mid-career
 

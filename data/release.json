@@ -1,5 +1,5 @@
 {
-  "version": "2026-11",
+  "version": "2026-11.1",
   "as_of": "2026-11-04",
   "headline": {
     "companies": {
@@ -37,7 +37,7 @@
       "calibrated_estimate": 88179,
       "with_country": 88099,
       "countries": 182,
-      "institutions": 15311,
+      "institutions": 15279,
       "papers_total": 27418,
       "europe": 18144
     },

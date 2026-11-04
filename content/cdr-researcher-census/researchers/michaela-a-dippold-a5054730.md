@@ -1,7 +1,7 @@
 ---
 title: "Michaela A. Dippold"
-description: "Michaela A. Dippold is an Eminent Soil Carbon researcher at University of Tübingen in DE. With 304 publications and an h-index of 51, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Michaela A. Dippold is an Eminent Soil Carbon researcher at University of Göttingen in DE. With 304 publications and an h-index of 51, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/michaela-a-dippold-a5054730/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/michaela-a-dippold-a5054730/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of T\u00fcbingen"
+    "name": "University of G\u00f6ttingen"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-3657-4693",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Michaela A. Dippold**  
-University of Tübingen · 🇩🇪 DE
+University of Göttingen · 🇩🇪 DE
 
 **Career Stage:** Eminent
 

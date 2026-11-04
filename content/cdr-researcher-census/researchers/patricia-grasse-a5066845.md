@@ -1,7 +1,7 @@
 ---
 title: "Patricia Grasse"
-description: "Patricia Grasse is a Senior Ocean CDR researcher at German Center for Integrative Biodiversity Research in DE. With 111 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Patricia Grasse is a Senior Ocean CDR researcher at German Centre for Integrative Biodiversity Research in DE. With 111 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/patricia-grasse-a5066845/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/patricia-grasse-a5066845/",
   "affiliation": {
     "@type": "Organization",
-    "name": "German Center for Integrative Biodiversity Research"
+    "name": "German Centre for Integrative Biodiversity Research"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-1745-4418",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Patricia Grasse**  
-German Center for Integrative Biodiversity Research · 🇩🇪 DE
+German Centre for Integrative Biodiversity Research · 🇩🇪 DE
 
 **Career Stage:** Senior
 

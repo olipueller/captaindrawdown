@@ -1,7 +1,7 @@
 ---
 title: "Hanping Chen"
-description: "Hanping Chen is an Eminent Biochar researcher at State Key Laboratory of Coal Combustion in CN. With 715 publications and an h-index of 95, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Hanping Chen is an Eminent Biochar researcher at Huazhong University of Science and Technology in CN. With 715 publications and an h-index of 95, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/hanping-chen-a5007450/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/hanping-chen-a5007450/",
   "affiliation": {
     "@type": "Organization",
-    "name": "State Key Laboratory of Coal Combustion"
+    "name": "Huazhong University of Science and Technology"
   },
   "sameAs": "https://openalex.org/A5007450053"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Hanping Chen**  
-State Key Laboratory of Coal Combustion · 🇨🇳 CN
+Huazhong University of Science and Technology · 🇨🇳 CN
 
 **Career Stage:** Eminent
 

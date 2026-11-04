@@ -1,7 +1,7 @@
 ---
 title: "Stephen Joseph"
-description: "Stephen Joseph is an Eminent Biochar researcher at Nanjing Agricultural University in CN. With 135 publications and an h-index of 64, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Stephen Joseph is an Eminent Biochar researcher at UNSW Sydney in AU. With 135 publications and an h-index of 64, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/stephen-joseph-a5112737/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/stephen-joseph-a5112737/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Nanjing Agricultural University"
+    "name": "UNSW Sydney"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-8933-8010",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Stephen Joseph**  
-Nanjing Agricultural University · 🇨🇳 CN
+UNSW Sydney · 🇦🇺 AU
 
 **Career Stage:** Eminent
 

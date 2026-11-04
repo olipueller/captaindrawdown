@@ -1,7 +1,7 @@
 ---
 title: "Glaydson S. dos Reis"
-description: "Glaydson S. dos Reis is an Eminent Biochar researcher at Sveriges lantbruksuniversitet in SE. With 166 publications and an h-index of 52, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Glaydson S. dos Reis is an Eminent Biochar researcher at Åbo Akademi University in FI. With 166 publications and an h-index of 52, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/glaydson-s-dos-reis-a5086243/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/glaydson-s-dos-reis-a5086243/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Sveriges lantbruksuniversitet"
+    "name": "\u00c5bo Akademi University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-8727-9793",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Glaydson S. dos Reis**  
-Sveriges lantbruksuniversitet · 🇸🇪 SE
+Åbo Akademi University ·  FI
 
 **Career Stage:** Eminent
 

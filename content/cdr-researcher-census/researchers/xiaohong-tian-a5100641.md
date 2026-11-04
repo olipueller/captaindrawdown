@@ -1,7 +1,7 @@
 ---
 title: "Xiaohong Tian"
-description: "Xiaohong Tian is a Senior Soil Carbon researcher at Northwest A and F University in CN. With 75 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Xiaohong Tian is a Senior Soil Carbon researcher at Northwest A&F University in CN. With 75 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/xiaohong-tian-a5100641/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xiaohong-tian-a5100641/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Northwest A and F University"
+    "name": "Northwest A&F University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-7594-9726",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Xiaohong Tian**  
-Northwest A and F University · 🇨🇳 CN
+Northwest A&F University · 🇨🇳 CN
 
 **Career Stage:** Senior
 

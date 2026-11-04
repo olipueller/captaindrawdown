@@ -1,7 +1,7 @@
 ---
 title: "Giuseppe Cipolla"
-description: "Giuseppe Cipolla is a Senior Enhanced Weathering researcher at AECOM (China) in CN. With 52 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Giuseppe Cipolla is a Senior Enhanced Weathering researcher at University of Palermo in IT. With 52 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/giuseppe-cipolla-a5019374/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/giuseppe-cipolla-a5019374/",
   "affiliation": {
     "@type": "Organization",
-    "name": "AECOM (China)"
+    "name": "University of Palermo"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-5306-4935",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Giuseppe Cipolla**  
-AECOM (China) · 🇨🇳 CN
+University of Palermo · 🇮🇹 IT
 
 **Career Stage:** Senior
 

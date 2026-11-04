@@ -1,7 +1,7 @@
 ---
 title: "Mathew Dennis Wilkes"
-description: "Mathew Dennis Wilkes is a Mid-career BECCS researcher at The University of Sheffield in GB. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Mathew Dennis Wilkes is a Mid-career BECCS researcher at University of Sheffield in GB. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/mathew-dennis-wilkes-a5061155/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mathew-dennis-wilkes-a5061155/",
   "affiliation": {
     "@type": "Organization",
-    "name": "The University of Sheffield"
+    "name": "University of Sheffield"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-0842-787X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Mathew Dennis Wilkes**  
-The University of Sheffield · 🇬🇧 GB
+University of Sheffield · 🇬🇧 GB
 
 **Career Stage:** Mid-career
 

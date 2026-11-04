@@ -1,7 +1,7 @@
 ---
 title: "Haris Ishaq"
-description: "Haris Ishaq is a Senior General CDR researcher at King Fahd University of Petroleum and Minerals in SA. With 87 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Haris Ishaq is a Senior General CDR researcher at University of Victoria in CA. With 87 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/haris-ishaq-a5047835/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/haris-ishaq-a5047835/",
   "affiliation": {
     "@type": "Organization",
-    "name": "King Fahd University of Petroleum and Minerals"
+    "name": "University of Victoria"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-1474-4575",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Haris Ishaq**  
-King Fahd University of Petroleum and Minerals · 🇸🇦 SA
+University of Victoria · 🇨🇦 CA
 
 **Career Stage:** Senior
 

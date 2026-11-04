@@ -1,7 +1,7 @@
 ---
 title: "Shinichiro Fujimori"
-description: "Shinichiro Fujimori is an Eminent General CDR researcher at Kyoto Univresity in JP. With 1159 publications and an h-index of 79, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Shinichiro Fujimori is an Eminent General CDR researcher at Kyoto University in JP. With 1159 publications and an h-index of 79, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/shinichiro-fujimori-a5006789/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/shinichiro-fujimori-a5006789/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Kyoto Univresity"
+    "name": "Kyoto University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-7897-1796",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Shinichiro Fujimori**  
-Kyoto Univresity · 🇯🇵 JP
+Kyoto University · 🇯🇵 JP
 
 **Career Stage:** Eminent
 

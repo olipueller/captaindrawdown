@@ -1,7 +1,7 @@
 ---
 title: "Detlef P. van Vuuren"
-description: "Detlef P. van Vuuren is an Eminent General CDR researcher at PBL Netherlands Environmental Assessment Agency in NL. With 875 publications and an h-index of 150, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Detlef P. van Vuuren is an Eminent General CDR researcher at Netherlands Environmental Assessment Agency in NL. With 875 publications and an h-index of 150, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/detlef-p-van-vuuren-a5082748/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/detlef-p-van-vuuren-a5082748/",
   "affiliation": {
     "@type": "Organization",
-    "name": "PBL Netherlands Environmental Assessment Agency"
+    "name": "Netherlands Environmental Assessment Agency"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-0398-2831",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Detlef P. van Vuuren**  
-PBL Netherlands Environmental Assessment Agency · 🇳🇱 NL
+Netherlands Environmental Assessment Agency · 🇳🇱 NL
 
 **Career Stage:** Eminent
 

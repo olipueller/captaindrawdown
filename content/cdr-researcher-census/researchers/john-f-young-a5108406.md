@@ -1,7 +1,7 @@
 ---
 title: "John F. Young"
 description: "John F. Young is a Senior General CDR researcher at Global Thermostat (United States) in GB. With 152 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/john-f-young-a5108406/"
 layout: "researcher"
 hiddenInHomeList: true

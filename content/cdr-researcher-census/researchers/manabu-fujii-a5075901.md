@@ -1,7 +1,7 @@
 ---
 title: "Manabu Fujii"
-description: "Manabu Fujii is an Eminent Biochar researcher at Tokyo Institute of Technology in JP. With 468 publications and an h-index of 50, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Manabu Fujii is an Eminent Biochar researcher at Institute of Science Tokyo in JP. With 468 publications and an h-index of 50, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/manabu-fujii-a5075901/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/manabu-fujii-a5075901/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Tokyo Institute of Technology"
+    "name": "Institute of Science Tokyo"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-7319-6014",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Manabu Fujii**  
-Tokyo Institute of Technology · 🇯🇵 JP
+Institute of Science Tokyo · 🇯🇵 JP
 
 **Career Stage:** Eminent
 

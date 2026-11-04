@@ -1,7 +1,7 @@
 ---
 title: "Nico Eisenhauer"
-description: "Nico Eisenhauer is an Eminent Soil Carbon researcher at Universität Leipzig in DE. With 902 publications and an h-index of 112, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Nico Eisenhauer is an Eminent Soil Carbon researcher at Leipzig University in DE. With 902 publications and an h-index of 112, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/nico-eisenhauer-a5029962/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/nico-eisenhauer-a5029962/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Universit\u00e4t Leipzig"
+    "name": "Leipzig University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-0371-6720",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Nico Eisenhauer**  
-Universität Leipzig · 🇩🇪 DE
+Leipzig University · 🇩🇪 DE
 
 **Career Stage:** Eminent
 

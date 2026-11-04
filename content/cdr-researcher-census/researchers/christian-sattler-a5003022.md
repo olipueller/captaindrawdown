@@ -1,7 +1,7 @@
 ---
 title: "Christian Sattler"
-description: "Christian Sattler is an Eminent DAC researcher at Deutsches Zentrum für Luft- und Raumfahrt eV in DE. With 597 publications and an h-index of 54, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Christian Sattler is an Eminent DAC researcher at Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR) in DE. With 597 publications and an h-index of 54, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/christian-sattler-a5003022/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/christian-sattler-a5003022/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Deutsches Zentrum f\u00fcr Luft- und Raumfahrt eV"
+    "name": "Deutsches Zentrum f\u00fcr Luft- und Raumfahrt e. V. (DLR)"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-4314-1124",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Christian Sattler**  
-Deutsches Zentrum für Luft- und Raumfahrt eV · 🇩🇪 DE
+Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR) · 🇩🇪 DE
 
 **Career Stage:** Eminent
 

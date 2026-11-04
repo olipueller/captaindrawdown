@@ -1,7 +1,7 @@
 ---
 title: "Tomoko Hasegawa"
 description: "Tomoko Hasegawa is an Eminent General CDR researcher at Ritsumeikan University in JP. With 960 publications and an h-index of 64, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/tomoko-hasegawa-a5060236/"
 layout: "researcher"
 hiddenInHomeList: true

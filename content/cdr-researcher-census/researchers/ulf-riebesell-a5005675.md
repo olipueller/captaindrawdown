@@ -1,7 +1,7 @@
 ---
 title: "Ulf Riebesell"
-description: "Ulf Riebesell is an Eminent Ocean CDR researcher at GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel in DE. With 874 publications and an h-index of 99, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Ulf Riebesell is an Eminent Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 874 publications and an h-index of 99, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/ulf-riebesell-a5005675/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ulf-riebesell-a5005675/",
   "affiliation": {
     "@type": "Organization",
-    "name": "GEOMAR Helmholtz-Zentrum f\u00fcr Ozeanforschung Kiel"
+    "name": "GEOMAR Helmholtz Centre for Ocean Research Kiel"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9442-452X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Ulf Riebesell**  
-GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel · 🇩🇪 DE
+GEOMAR Helmholtz Centre for Ocean Research Kiel · 🇩🇪 DE
 
 **Career Stage:** Eminent
 

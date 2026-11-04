@@ -1,7 +1,7 @@
 ---
 title: "Lisa A. Levin"
-description: "Lisa A. Levin is an Eminent Ocean CDR researcher at University of California San Diego in US. With 572 publications and an h-index of 104, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Lisa A. Levin is an Eminent Ocean CDR researcher at Scripps Institution of Oceanography in US. With 572 publications and an h-index of 104, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/lisa-a-levin-a5104385/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/lisa-a-levin-a5104385/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of California San Diego"
+    "name": "Scripps Institution of Oceanography"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-2858-8622",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Lisa A. Levin**  
-University of California San Diego · 🇺🇸 US
+Scripps Institution of Oceanography · 🇺🇸 US
 
 **Career Stage:** Eminent
 

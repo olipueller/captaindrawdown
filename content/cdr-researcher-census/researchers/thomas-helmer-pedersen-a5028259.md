@@ -1,7 +1,7 @@
 ---
 title: "Thomas Helmer Pedersen"
-description: "Thomas Helmer Pedersen is a Senior General CDR researcher at United States Department of Energy in US. With 135 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Thomas Helmer Pedersen is a Senior General CDR researcher at Aalborg University in DK. With 135 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/thomas-helmer-pedersen-a5028259/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/thomas-helmer-pedersen-a5028259/",
   "affiliation": {
     "@type": "Organization",
-    "name": "United States Department of Energy"
+    "name": "Aalborg University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-0702-5756",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Thomas Helmer Pedersen**  
-United States Department of Energy · 🇺🇸 US
+Aalborg University · 🇩🇰 DK
 
 **Career Stage:** Senior
 

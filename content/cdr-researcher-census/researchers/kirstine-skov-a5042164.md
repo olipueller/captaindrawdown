@@ -1,7 +1,7 @@
 ---
 title: "Kirstine Skov"
-description: "Kirstine Skov is a Senior Enhanced Weathering researcher at Aarhus University in DK. With 46 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Kirstine Skov is a Senior Enhanced Weathering researcher at UNDO Carbon Ltd in DK. With 46 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/kirstine-skov-a5042164/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/kirstine-skov-a5042164/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Aarhus University"
+    "name": "UNDO Carbon Ltd"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-1234-3687",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Kirstine Skov**  
-Aarhus University · 🇩🇰 DK
+UNDO Carbon Ltd · 🇩🇰 DK
 
 **Career Stage:** Senior
 

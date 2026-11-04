@@ -1,7 +1,7 @@
 ---
 title: "Noah McQueen"
-description: "Noah McQueen is a Mid-career DAC researcher at Carbon Carbon Advanced Technologies (United States) in US. With 25 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Noah McQueen is a Mid-career DAC researcher at Heirloom Carbon Technologies in US. With 25 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/noah-mcqueen-a5036880/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/noah-mcqueen-a5036880/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Carbon Carbon Advanced Technologies (United States)"
+    "name": "Heirloom Carbon Technologies"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-8725-2558",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Noah McQueen**  
-Carbon Carbon Advanced Technologies (United States) · 🇺🇸 US
+Heirloom Carbon Technologies · 🇺🇸 US
 
 **Career Stage:** Mid-career
 

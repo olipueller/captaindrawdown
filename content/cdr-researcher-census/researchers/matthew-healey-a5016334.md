@@ -1,7 +1,7 @@
 ---
 title: "Matthew Healey"
-description: "Matthew Healey is an Early-career Enhanced Weathering researcher at Royal Bank of Scotland (United Kingdom) in GB. With 15 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Matthew Healey is an Early-career Enhanced Weathering researcher at UNDO Carbon Ltd in GB. With 15 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/matthew-healey-a5016334/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/matthew-healey-a5016334/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Royal Bank of Scotland (United Kingdom)"
+    "name": "UNDO Carbon Ltd"
   },
   "sameAs": "https://openalex.org/A5016334764"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Matthew Healey**  
-Royal Bank of Scotland (United Kingdom) · 🇬🇧 GB
+UNDO Carbon Ltd · 🇬🇧 GB
 
 **Career Stage:** Early-career
 

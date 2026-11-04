@@ -1,7 +1,7 @@
 ---
 title: "Ilman Nuran Zaini"
-description: "Ilman Nuran Zaini is a Senior BECCS researcher at KTH Royal Institute of Technology in SE. With 56 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Ilman Nuran Zaini is a Senior BECCS researcher at Bandung Institute of Technology in ID. With 56 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/ilman-nuran-zaini-a5028840/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ilman-nuran-zaini-a5028840/",
   "affiliation": {
     "@type": "Organization",
-    "name": "KTH Royal Institute of Technology"
+    "name": "Bandung Institute of Technology"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-4047-5444",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Ilman Nuran Zaini**  
-KTH Royal Institute of Technology · 🇸🇪 SE
+Bandung Institute of Technology · 🇮🇩 ID
 
 **Career Stage:** Senior
 

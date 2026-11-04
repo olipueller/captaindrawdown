@@ -1,7 +1,7 @@
 ---
 title: "Dinesh Jinger"
-description: "Dinesh Jinger is a Senior Soil Carbon researcher at ICAR Indian Institute of Soil and Water Conservation in IN. With 98 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Dinesh Jinger is a Senior Soil Carbon researcher at Indian Institute of Soil and Water Conservation in IN. With 98 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/dinesh-jinger-a5004018/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/dinesh-jinger-a5004018/",
   "affiliation": {
     "@type": "Organization",
-    "name": "ICAR Indian Institute of Soil and Water Conservation"
+    "name": "Indian Institute of Soil and Water Conservation"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-8922-446X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Dinesh Jinger**  
-ICAR Indian Institute of Soil and Water Conservation · 🇮🇳 IN
+Indian Institute of Soil and Water Conservation · 🇮🇳 IN
 
 **Career Stage:** Senior
 

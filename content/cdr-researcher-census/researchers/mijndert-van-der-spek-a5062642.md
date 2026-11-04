@@ -1,7 +1,7 @@
 ---
 title: "Mijndert van der Spek"
-description: "Mijndert van der Spek is a Senior General CDR researcher at ETH Zürich in CH. With 126 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Mijndert van der Spek is a Senior General CDR researcher at Heriot-Watt University in GB. With 126 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/mijndert-van-der-spek-a5062642/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mijndert-van-der-spek-a5062642/",
   "affiliation": {
     "@type": "Organization",
-    "name": "ETH Z\u00fcrich"
+    "name": "Heriot-Watt University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-3365-2289",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Mijndert van der Spek**  
-ETH Zürich · 🇨🇭 CH
+Heriot-Watt University · 🇬🇧 GB
 
 **Career Stage:** Senior
 

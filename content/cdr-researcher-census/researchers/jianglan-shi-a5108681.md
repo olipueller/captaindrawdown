@@ -1,7 +1,7 @@
 ---
 title: "Jianglan Shi"
-description: "Jianglan Shi is a Senior Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 70 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Jianglan Shi is a Senior Soil Carbon researcher at Northwest A&F University in CN. With 70 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/jianglan-shi-a5108681/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jianglan-shi-a5108681/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Ministry of Agriculture and Rural Affairs"
+    "name": "Northwest A&F University"
   },
   "sameAs": "https://openalex.org/A5108681017"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Jianglan Shi**  
-Ministry of Agriculture and Rural Affairs · 🇨🇳 CN
+Northwest A&F University · 🇨🇳 CN
 
 **Career Stage:** Senior
 

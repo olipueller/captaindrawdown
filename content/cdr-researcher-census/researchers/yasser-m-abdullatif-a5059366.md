@@ -1,7 +1,7 @@
 ---
 title: "Yasser M. Abdullatif"
-description: "Yasser M. Abdullatif is a Mid-career DAC researcher at Qatar Environment and Energy Research Institute in QA. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Yasser M. Abdullatif is a Mid-career DAC researcher at Hamad bin Khalifa University in QA. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/yasser-m-abdullatif-a5059366/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/yasser-m-abdullatif-a5059366/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Qatar Environment and Energy Research Institute"
+    "name": "Hamad bin Khalifa University"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-5406-3929",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Yasser M. Abdullatif**  
-Qatar Environment and Energy Research Institute ·  QA
+Hamad bin Khalifa University ·  QA
 
 **Career Stage:** Mid-career
 

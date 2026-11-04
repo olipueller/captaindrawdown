@@ -1,7 +1,7 @@
 ---
 title: "Magnus Rydén"
-description: "Magnus Rydén is an Eminent BECCS researcher at Chalmers tekniska högskola AB in SE. With 137 publications and an h-index of 45, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Magnus Rydén is an Eminent BECCS researcher at Chalmers University of Technology in SE. With 137 publications and an h-index of 45, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/magnus-ryden-a5041687/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/magnus-ryden-a5041687/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Chalmers tekniska h\u00f6gskola AB"
+    "name": "Chalmers University of Technology"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-7348-761X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Magnus Rydén**  
-Chalmers tekniska högskola AB · 🇸🇪 SE
+Chalmers University of Technology · 🇸🇪 SE
 
 **Career Stage:** Eminent
 

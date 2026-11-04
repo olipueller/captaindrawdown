@@ -1,7 +1,7 @@
 ---
 title: "Kadambot H. M. Siddique"
 description: "Kadambot H. M. Siddique is an Eminent Soil Carbon researcher at The University of Western Australia in AU. With 1378 publications and an h-index of 131, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/kadambot-h-m-siddique-a5082109/"
 layout: "researcher"
 hiddenInHomeList: true

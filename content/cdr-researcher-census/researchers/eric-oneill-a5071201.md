@@ -1,7 +1,7 @@
 ---
 title: "Eric O’Neill"
-description: "Eric O’Neill is a Senior BECCS researcher at University of Oxford in US. With 52 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Eric O’Neill is a Senior BECCS researcher at University of Oxford in GB. With 52 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/eric-oneill-a5071201/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Eric O’Neill**  
-University of Oxford · 🇺🇸 US
+University of Oxford · 🇬🇧 GB
 
 **Career Stage:** Senior
 

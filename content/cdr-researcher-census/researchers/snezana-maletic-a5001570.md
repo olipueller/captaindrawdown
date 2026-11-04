@@ -1,7 +1,7 @@
 ---
 title: "Snežana Maletić"
-description: "Snežana Maletić is a Senior Biochar researcher at Univerzitet u Novom Sadu Prirodno-Matematicki fakultet in RS. With 129 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Snežana Maletić is a Senior Biochar researcher at University of Novi Sad in RS. With 129 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/snezana-maletic-a5001570/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/snezana-maletic-a5001570/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Univerzitet u Novom Sadu Prirodno-Matematicki fakultet"
+    "name": "University of Novi Sad"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-5026-3365",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Snežana Maletić**  
-Univerzitet u Novom Sadu Prirodno-Matematicki fakultet ·  RS
+University of Novi Sad ·  RS
 
 **Career Stage:** Senior
 

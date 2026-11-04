@@ -1,7 +1,7 @@
 ---
 title: "Gaurav Sant"
-description: "Gaurav Sant is an Eminent Ocean CDR researcher at California NanoSystems Institute in US. With 309 publications and an h-index of 62, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Gaurav Sant is an Eminent Ocean CDR researcher at University of California, Los Angeles in US. With 309 publications and an h-index of 62, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/gaurav-sant-a5044493/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/gaurav-sant-a5044493/",
   "affiliation": {
     "@type": "Organization",
-    "name": "California NanoSystems Institute"
+    "name": "University of California, Los Angeles"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-1124-5498",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Gaurav Sant**  
-California NanoSystems Institute · 🇺🇸 US
+University of California, Los Angeles · 🇺🇸 US
 
 **Career Stage:** Eminent
 

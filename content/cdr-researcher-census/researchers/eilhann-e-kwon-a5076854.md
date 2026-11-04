@@ -1,7 +1,7 @@
 ---
 title: "Eilhann E. Kwon"
 description: "Eilhann E. Kwon is an Eminent Biochar researcher at Hanyang University in KR. With 610 publications and an h-index of 94, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/eilhann-e-kwon-a5076854/"
 layout: "researcher"
 hiddenInHomeList: true

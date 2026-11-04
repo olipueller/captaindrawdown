@@ -1,7 +1,7 @@
 ---
 title: "Yan Yang"
 description: "Yan Yang is a Senior Biochar researcher at Beijing Forestry University in CN. With 124 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/yan-yang-a5101582/"
 layout: "researcher"
 hiddenInHomeList: true

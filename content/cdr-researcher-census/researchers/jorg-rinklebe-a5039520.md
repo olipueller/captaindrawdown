@@ -1,7 +1,7 @@
 ---
 title: "Jörg Rinklebe"
-description: "Jörg Rinklebe is an Eminent Biochar researcher at Bergische Universität Wuppertal in DE. With 700 publications and an h-index of 136, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Jörg Rinklebe is an Eminent Biochar researcher at University of Wuppertal in DE. With 700 publications and an h-index of 136, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/jorg-rinklebe-a5039520/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/jorg-rinklebe-a5039520/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Bergische Universit\u00e4t Wuppertal"
+    "name": "University of Wuppertal"
   },
   "sameAs": [
     "https://orcid.org/0000-0001-7404-1639",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Jörg Rinklebe**  
-Bergische Universität Wuppertal · 🇩🇪 DE
+University of Wuppertal · 🇩🇪 DE
 
 **Career Stage:** Eminent
 

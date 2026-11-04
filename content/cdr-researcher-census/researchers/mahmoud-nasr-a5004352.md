@@ -1,7 +1,7 @@
 ---
 title: "Mahmoud Nasr"
-description: "Mahmoud Nasr is an Eminent Biochar researcher at South Valley University in EG. With 248 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Mahmoud Nasr is an Eminent Biochar researcher at Alexandria University in EG. With 248 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/mahmoud-nasr-a5004352/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/mahmoud-nasr-a5004352/",
   "affiliation": {
     "@type": "Organization",
-    "name": "South Valley University"
+    "name": "Alexandria University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-4258-0683",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Mahmoud Nasr**  
-South Valley University ·  EG
+Alexandria University ·  EG
 
 **Career Stage:** Eminent
 

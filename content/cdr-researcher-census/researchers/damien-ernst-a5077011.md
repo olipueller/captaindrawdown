@@ -1,7 +1,7 @@
 ---
 title: "Damien Ernst"
-description: "Damien Ernst is an Eminent DAC researcher at Télécom Paris in FR. With 412 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Damien Ernst is an Eminent DAC researcher at University of Liège in BE. With 412 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/damien-ernst-a5077011/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/damien-ernst-a5077011/",
   "affiliation": {
     "@type": "Organization",
-    "name": "T\u00e9l\u00e9com Paris"
+    "name": "University of Li\u00e8ge"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-3035-8260",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Damien Ernst**  
-Télécom Paris · 🇫🇷 FR
+University of Liège · 🇧🇪 BE
 
 **Career Stage:** Eminent
 

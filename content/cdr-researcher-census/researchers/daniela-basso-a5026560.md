@@ -1,7 +1,7 @@
 ---
 title: "Daniela Basso"
-description: "Daniela Basso is a Senior Ocean CDR researcher at Università degli Studi di Milano-Bicocca in IT. With 274 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Daniela Basso is a Senior Ocean CDR researcher at University of Milano-Bicocca in IT. With 274 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/daniela-basso-a5026560/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/daniela-basso-a5026560/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Universit\u00e0 degli Studi di Milano-Bicocca"
+    "name": "University of Milano-Bicocca"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-9352-3569",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Daniela Basso**  
-Università degli Studi di Milano-Bicocca · 🇮🇹 IT
+University of Milano-Bicocca · 🇮🇹 IT
 
 **Career Stage:** Senior
 

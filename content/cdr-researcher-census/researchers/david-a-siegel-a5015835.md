@@ -1,7 +1,7 @@
 ---
 title: "David A. Siegel"
-description: "David A. Siegel is an Eminent Ocean CDR researcher at University of California Santa Barbara in US. With 401 publications and an h-index of 93, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "David A. Siegel is an Eminent Ocean CDR researcher at University of California, Santa Barbara in US. With 401 publications and an h-index of 93, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/david-a-siegel-a5015835/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/david-a-siegel-a5015835/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of California Santa Barbara"
+    "name": "University of California, Santa Barbara"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-1674-3055",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **David A. Siegel**  
-University of California Santa Barbara · 🇺🇸 US
+University of California, Santa Barbara · 🇺🇸 US
 
 **Career Stage:** Eminent
 

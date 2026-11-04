@@ -1,7 +1,7 @@
 ---
 title: "Gregor Rehder"
-description: "Gregor Rehder is an Eminent Ocean CDR researcher at Leibniz Institute for Baltic Sea Research in DE. With 298 publications and an h-index of 52, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Gregor Rehder is an Eminent Ocean CDR researcher at Leibniz Institute for Baltic Sea Research Warnemünde in DE. With 298 publications and an h-index of 52, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/gregor-rehder-a5060878/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/gregor-rehder-a5060878/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Leibniz Institute for Baltic Sea Research"
+    "name": "Leibniz Institute for Baltic Sea Research Warnem\u00fcnde"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-0597-9989",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Gregor Rehder**  
-Leibniz Institute for Baltic Sea Research · 🇩🇪 DE
+Leibniz Institute for Baltic Sea Research Warnemünde · 🇩🇪 DE
 
 **Career Stage:** Eminent
 

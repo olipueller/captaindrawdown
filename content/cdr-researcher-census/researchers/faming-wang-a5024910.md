@@ -1,7 +1,7 @@
 ---
 title: "Faming Wang"
 description: "Faming Wang is an Eminent Soil Carbon researcher at South China Botanical Garden in CN. With 202 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/faming-wang-a5024910/"
 layout: "researcher"
 hiddenInHomeList: true

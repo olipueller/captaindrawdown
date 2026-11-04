@@ -1,7 +1,7 @@
 ---
 title: "Matthias Honegger"
-description: "Matthias Honegger is a Mid-career General CDR researcher at Perspectives Climate Research gGmbH in DE. With 57 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Matthias Honegger is a Mid-career General CDR researcher at Utrecht University in NL. With 57 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/matthias-honegger-a5079084/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/matthias-honegger-a5079084/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Perspectives Climate Research gGmbH"
+    "name": "Utrecht University"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-0978-5759",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Matthias Honegger**  
-Perspectives Climate Research gGmbH · 🇩🇪 DE
+Utrecht University · 🇳🇱 NL
 
 **Career Stage:** Mid-career
 

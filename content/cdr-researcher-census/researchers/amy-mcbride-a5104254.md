@@ -1,7 +1,7 @@
 ---
 title: "Amy McBride"
-description: "Amy McBride is a Senior Enhanced Weathering researcher at Deutsche Gesellschaft für Muskelkranke in DE. With 16 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Amy McBride is a Senior Enhanced Weathering researcher at Independent Researcher in DE. With 16 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/amy-mcbride-a5104254/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/amy-mcbride-a5104254/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Deutsche Gesellschaft f\u00fcr Muskelkranke"
+    "name": "Independent Researcher"
   },
   "sameAs": "https://openalex.org/A5104254727"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Amy McBride**  
-Deutsche Gesellschaft für Muskelkranke · 🇩🇪 DE
+Independent Researcher · 🇩🇪 DE
 
 **Career Stage:** Senior
 

@@ -1,7 +1,7 @@
 ---
 title: "Sean Low"
-description: "Sean Low is a Senior General CDR researcher at Wageningen University & Research in NL. With 57 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Sean Low is a Senior General CDR researcher at Aarhus University in DK. With 57 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/sean-low-a5005320/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/sean-low-a5005320/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Wageningen University & Research"
+    "name": "Aarhus University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-3654-5964",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Sean Low**  
-Wageningen University & Research · 🇳🇱 NL
+Aarhus University · 🇩🇰 DK
 
 **Career Stage:** Senior
 

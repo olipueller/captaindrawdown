@@ -1,7 +1,7 @@
 ---
 title: "Yushan Yan"
 description: "Yushan Yan is an Eminent DAC researcher at University of Delaware in US. With 780 publications and an h-index of 122, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/yushan-yan-a5101710/"
 layout: "researcher"
 hiddenInHomeList: true

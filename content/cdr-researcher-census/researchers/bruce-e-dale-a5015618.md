@@ -1,7 +1,7 @@
 ---
 title: "Bruce E. Dale"
-description: "Bruce E. Dale is an Eminent BECCS researcher at Great Lakes Bioenergy Research Center in US. With 448 publications and an h-index of 96, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Bruce E. Dale is an Eminent BECCS researcher at Michigan State University in US. With 448 publications and an h-index of 96, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/bruce-e-dale-a5015618/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/bruce-e-dale-a5015618/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Great Lakes Bioenergy Research Center"
+    "name": "Michigan State University"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-6120-7406",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Bruce E. Dale**  
-Great Lakes Bioenergy Research Center · 🇺🇸 US
+Michigan State University · 🇺🇸 US
 
 **Career Stage:** Eminent
 

@@ -4,7 +4,7 @@ description: "Read-only JSON API for the Captain Drawdown datasets: companies, r
 url: "/api/"
 ---
 
-Read-only JSON, served as static files: no key, no sign-up. Every response carries `version`, `as_of`, `license` and `cite_as`. Current release **2026-11** (2026-11-04), 985 files.
+Read-only JSON, served as static files: no key, no sign-up. Every response carries `version`, `as_of`, `license` and `cite_as`. Current release **2026-11.1** (2026-11-04), 985 files.
 
 | Endpoint | What you get |
 |---|---|

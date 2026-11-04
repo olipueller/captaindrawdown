@@ -1,7 +1,7 @@
 ---
 title: "Piyush Behari Lal"
 description: "Piyush Behari Lal is a Mid-career BECCS researcher at Kasturba Medical College, Manipal in IN. With 27 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/piyush-behari-lal-a5036771/"
 layout: "researcher"
 hiddenInHomeList: true

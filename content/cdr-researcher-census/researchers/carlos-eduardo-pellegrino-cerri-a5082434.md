@@ -1,7 +1,7 @@
 ---
 title: "Carlos Eduardo Pellegrino Cerri"
-description: "Carlos Eduardo Pellegrino Cerri is an Eminent Soil Carbon researcher at University of Sao Paulo in BR. With 556 publications and an h-index of 90, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Carlos Eduardo Pellegrino Cerri is an Eminent Soil Carbon researcher at Universidade de São Paulo in BR. With 556 publications and an h-index of 90, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/carlos-eduardo-pellegrino-cerri-a5082434/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/carlos-eduardo-pellegrino-cerri-a5082434/",
   "affiliation": {
     "@type": "Organization",
-    "name": "University of Sao Paulo"
+    "name": "Universidade de S\u00e3o Paulo"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-4374-4056",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Carlos Eduardo Pellegrino Cerri**  
-University of Sao Paulo · 🇧🇷 BR
+Universidade de São Paulo · 🇧🇷 BR
 
 **Career Stage:** Eminent
 

@@ -1,8 +1,8 @@
 ---
 title: "Μάριος Δρόσος"
 description: "Μάριος Δρόσος is a Senior Soil Carbon researcher at University of Basilicata in IT. With 124 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
-url: "/cdr-researcher-census/researchers/-a5090384/"
+date: 2026-11-04T18:19:34+00:00
+url: "/cdr-researcher-census/researchers/researcher-a5090384/"
 layout: "researcher"
 hiddenInHomeList: true
 robots: "index, follow"
@@ -13,7 +13,7 @@ robots: "index, follow"
   "@context": "https://schema.org",
   "@type": "Person",
   "name": "\u039c\u03ac\u03c1\u03b9\u03bf\u03c2 \u0394\u03c1\u03cc\u03c3\u03bf\u03c2",
-  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/-a5090384/",
+  "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/researcher-a5090384/",
   "affiliation": {
     "@type": "Organization",
     "name": "University of Basilicata"

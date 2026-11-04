@@ -1,7 +1,7 @@
 ---
 title: "Xavier Dupla"
-description: "Xavier Dupla is a Mid-career Enhanced Weathering researcher at ETH Zürich in CH. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Xavier Dupla is a Mid-career Enhanced Weathering researcher at ETH Zurich in CH. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/xavier-dupla-a5010537/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/xavier-dupla-a5010537/",
   "affiliation": {
     "@type": "Organization",
-    "name": "ETH Z\u00fcrich"
+    "name": "ETH Zurich"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-3181-052X",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Xavier Dupla**  
-ETH Zürich · 🇨🇭 CH
+ETH Zurich · 🇨🇭 CH
 
 **Career Stage:** Mid-career
 

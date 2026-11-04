@@ -1,7 +1,7 @@
 ---
 title: "Patrick Frings"
-description: "Patrick Frings is a Senior Enhanced Weathering researcher at Deutsches Geoforschungszentrum Potsdam in DE. With 108 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Patrick Frings is a Senior Enhanced Weathering researcher at GFZ Helmholtz Centre for Geosciences in DE. With 108 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/patrick-frings-a5066536/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/patrick-frings-a5066536/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Deutsches Geoforschungszentrum Potsdam"
+    "name": "GFZ Helmholtz Centre for Geosciences"
   },
   "sameAs": [
     "https://orcid.org/0000-0002-1012-0642",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Patrick Frings**  
-Deutsches Geoforschungszentrum Potsdam · 🇩🇪 DE
+GFZ Helmholtz Centre for Geosciences · 🇩🇪 DE
 
 **Career Stage:** Senior
 

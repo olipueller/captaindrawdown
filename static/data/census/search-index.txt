@@ -14,14 +14,14 @@ Benjamin K. Sovacool|https://openalex.org/A5088822272|US|General CDR|136|verifie
 Jörg Rinklebe|https://openalex.org/A5039520570|DE|Biochar|136|verified
 Johan Six|https://openalex.org/A5028784852|CH|Soil Carbon|133|verified
 Kadambot H. M. Siddique|https://openalex.org/A5082109205|AU|Soil Carbon|131|verified
-Davey L. Jones|https://openalex.org/A5064381910|AU|Soil Carbon|131|verified
+Davey L. Jones|https://openalex.org/A5064381910|GB|Soil Carbon|131|verified
 Scott C. Doney|https://openalex.org/A5019762083|US|General CDR|130|verified
 Hailong Wang|https://openalex.org/A5100367752|CN|Soil Carbon|129|verified
 Bin Gao|https://openalex.org/A5049519363|US|Biochar|126|verified
 Ivan A. Janssens|https://openalex.org/A5013418538|BE|Enhanced Weathering|123|verified
 Johannes Lehmann|https://openalex.org/A5042699954|US|General CDR|123|verified
 Yushan Yan|https://openalex.org/A5101710201|US|DAC|122|verified
-Hans Lambers|https://openalex.org/A5016389221|CN|Soil Carbon|122|verified
+Hans Lambers|https://openalex.org/A5016389221|AU|Soil Carbon|122|verified
 Wei‐Hsin Chen|https://openalex.org/A5057352058|TW|Biochar|118|verified
 Laurent Bopp|https://openalex.org/A5079839995|FR|Ocean CDR|115|verified
 Keywan Riahi|https://openalex.org/A5035238849|AT|General CDR|114|verified
@@ -43,7 +43,7 @@ David J. Beerling|https://openalex.org/A5073877737|GB|Enhanced Weathering|99|con
 Ulf Riebesell|https://openalex.org/A5005675240|DE|Ocean CDR|99|verified
 André Faaij|https://openalex.org/A5068756115|NL|BECCS|99|verified
 Budiman Minasny|https://openalex.org/A5051455406|AU|Soil Carbon|99|verified
-Éder C. Lima|https://openalex.org/A5011032430|SA|Biochar|98|verified
+Éder C. Lima|https://openalex.org/A5011032430|BR|Biochar|98|verified
 Scott X. Chang|https://openalex.org/A5086611360|CA|Soil Carbon|97|verified
 Christoph Müller|https://openalex.org/A5100762441|DE|Soil Carbon|96|verified
 Bruce E. Dale|https://openalex.org/A5015618811|US|BECCS|96|confirmed
@@ -54,7 +54,7 @@ Eilhann E. Kwon|https://openalex.org/A5076854888|KR|Biochar|94|verified
 Jean‐Pierre Gattuso|https://openalex.org/A5079156035|FR|Ocean CDR|93|verified
 Joeri Rogelj|https://openalex.org/A5017820045|GB|General CDR|93|verified
 David A. Siegel|https://openalex.org/A5015835735|US|Ocean CDR|93|verified
-Meththika Vithanage|https://openalex.org/A5053693280|DK|Biochar|93|verified
+Meththika Vithanage|https://openalex.org/A5053693280|LK|Biochar|93|verified
 Georg Guggenberger|https://openalex.org/A5072191320|DE|Soil Carbon|93|verified
 Alexander Popp|https://openalex.org/A5088947425|DE|General CDR|92|verified
 Christian Breyer|https://openalex.org/A5078913350|FI|General CDR|92|verified
@@ -70,7 +70,7 @@ Ahmed I. Osman|https://openalex.org/A5035770796|GB|General CDR|87|verified
 Evan H. DeLucia|https://openalex.org/A5044416978|US|General CDR|86|confirmed
 Nilay Shah|https://openalex.org/A5078158219|GB|General CDR|86|verified
 Noah J. Planavsky|https://openalex.org/A5031830595|US|Enhanced Weathering|85|confirmed
-Julia Pongratz|https://openalex.org/A5054849631|FR|General CDR|85|confirmed
+Julia Pongratz|https://openalex.org/A5054849631|DE|General CDR|85|confirmed
 Yì Wáng|https://openalex.org/A5108047889|HK|Biochar|85|verified
 Minhan Dai|https://openalex.org/A5000330733|CN|Ocean CDR|84|verified
 Detlef Stolten|https://openalex.org/A5004526973|DE|DAC|84|confirmed
@@ -82,7 +82,7 @@ Bruno Glaser|https://openalex.org/A5027366737|DE|Biochar|81|confirmed
 Shu Zhang|https://openalex.org/A5100452875|CN|Biochar|81|verified
 Ottmar Edenhofer|https://openalex.org/A5056597341|DE|General CDR|80|verified
 Nick Pidgeon|https://openalex.org/A5053365910|GB|General CDR|80|estimated
-Chin‐Pao Huang|https://openalex.org/A5009506290|TW|Biochar|80|verified
+Chin‐Pao Huang|https://openalex.org/A5009506290|US|Biochar|80|verified
 Shinichiro Fujimori|https://openalex.org/A5006789499|JP|General CDR|79|verified
 Cornélia Rumpel|https://openalex.org/A5011618614|FR|Soil Carbon|79|confirmed
 Feng‐Min Li|https://openalex.org/A5053607334|CN|Soil Carbon|78|verified
@@ -112,7 +112,7 @@ Mohamed Pourkashanian|https://openalex.org/A5052499598|GB|General CDR|71|verifie
 Vishnu D. Rajput|https://openalex.org/A5084567429|RU|Biochar|71|verified
 Hailong Li|https://openalex.org/A5100440677|SE|BECCS|70|verified
 Jens Hartmann|https://openalex.org/A5019869869|DE|Enhanced Weathering|69|verified
-Annette Cowie|https://openalex.org/A5018651156|AU|General CDR|69|confirmed
+Annette Cowie|https://openalex.org/A5018651156|US|General CDR|69|confirmed
 Masao Ishii|https://openalex.org/A5061825004|JP|Ocean CDR|69|verified
 D.B. Ingham|https://openalex.org/A5039105160|GB|General CDR|69|confirmed
 André Bardow|https://openalex.org/A5054788795|CH|DAC|68|verified
@@ -126,10 +126,9 @@ Axel Don|https://openalex.org/A5040614779|DE|Soil Carbon|65|verified
 Francesco Cherubini|https://openalex.org/A5074207705|NO|General CDR|65|confirmed
 Thomas Kätterer|https://openalex.org/A5066750010|SE|Soil Carbon|65|verified
 Zhou Shi|https://openalex.org/A5108053049|CN|Soil Carbon|65|verified
-Еvgenia Blagodatskaya|https://openalex.org/A5062871768|DE|Soil Carbon|65|confirmed
 Jong‐Seong Kug|https://openalex.org/A5091389074|KR|General CDR|64|verified
 Tomoko Hasegawa|https://openalex.org/A5060236040|JP|General CDR|64|confirmed
-Stephen Joseph|https://openalex.org/A5112737460|CN|Biochar|64|confirmed
+Stephen Joseph|https://openalex.org/A5112737460|AU|Biochar|64|confirmed
 Jan Willem van Groenigen|https://openalex.org/A5048230136|NL|Enhanced Weathering|64|confirmed
 Ryan P. Lively|https://openalex.org/A5021581245|US|DAC|64|verified
 Yuqing Sun|https://openalex.org/A5014667424|CN|Biochar|64|verified
@@ -139,7 +138,7 @@ Carsten W. Mueller|https://openalex.org/A5007474995|DE|Soil Carbon|63|verified
 Gaurav Sant|https://openalex.org/A5044493714|US|Ocean CDR|62|confirmed
 Roberto Schaeffer|https://openalex.org/A5032681268|BR|General CDR|62|verified
 Tareq Al‐Ansari|https://openalex.org/A5086098688|QA|General CDR|62|confirmed
-Gail Taylor|https://openalex.org/A5027336971|GB|BECCS|62|verified
+Gail Taylor|https://openalex.org/A5027336971|US|BECCS|62|verified
 Dafeng Hui|https://openalex.org/A5043570008|US|Soil Carbon|62|verified
 Chao Liang|https://openalex.org/A5019539746|CN|Soil Carbon|62|confirmed
 Lei Deng|https://openalex.org/A5043286031|CN|Soil Carbon|62|confirmed
@@ -193,7 +192,7 @@ Gregor Rehder|https://openalex.org/A5060878373|DE|Ocean CDR|52|verified
 Göran Berndes|https://openalex.org/A5088119435|SE|General CDR|52|verified
 Amit Kumar|https://openalex.org/A5028945227|CN|Soil Carbon|52|verified
 Shengsen Wang|https://openalex.org/A5001287848|CN|Biochar|52|verified
-Glaydson S. dos Reis|https://openalex.org/A5086243936|SE|Biochar|52|verified
+Glaydson S. dos Reis|https://openalex.org/A5086243936|FI|Biochar|52|verified
 Muhammad Usman|https://openalex.org/A5100645877|FR|Biochar|52|verified
 Raisa Mäkipää|https://openalex.org/A5014546224|FI|Soil Carbon|52|verified
 Philip A.E. Pogge von Strandmann|https://openalex.org/A5063694053|DE|Enhanced Weathering|51|verified
@@ -259,7 +258,7 @@ Daniel P. Rasse|https://openalex.org/A5060395289|NO|Biochar|43|verified
 Piero Macchi|https://openalex.org/A5015826861|IT|Ocean CDR|43|verified
 Matthew Green|https://openalex.org/A5100626525|US|DAC|43|confirmed
 Kevin J. Hughes|https://openalex.org/A5049610374|GB|General CDR|43|confirmed
-Zibo Xu|https://openalex.org/A5007009857|CN|Biochar|43|verified
+Zibo Xu|https://openalex.org/A5007009857|HK|Biochar|43|verified
 Haewon McJeon|https://openalex.org/A5062879289|KR|General CDR|42|verified
 Gregory F. Nemet|https://openalex.org/A5033478519|US|General CDR|42|confirmed
 Kathleen B. Aviso|https://openalex.org/A5009843833|PH|General CDR|42|confirmed
@@ -278,15 +277,15 @@ Yunying Fang|https://openalex.org/A5005260004|AU|Soil Carbon|41|verified
 Iain P. Hartley|https://openalex.org/A5006351029|GB|Soil Carbon|41|verified
 Faming Wang|https://openalex.org/A5024910847|CN|Soil Carbon|41|verified
 Lorenzo Rosa|https://openalex.org/A5027453034|US|General CDR|40|verified
-Anders Hansson|https://openalex.org/A5043331275||General CDR|40|estimated
+Anders Hansson|https://openalex.org/A5043331275|SE|General CDR|40|estimated
 Cecilia Sundberg|https://openalex.org/A5031213092|SE|Biochar|40|verified
 Mario Grosso|https://openalex.org/A5082273261|IT|Ocean CDR|40|verified
 Shuang Zhang|https://openalex.org/A5100321571|US|Enhanced Weathering|40|verified
 Xin Zhao|https://openalex.org/A5083475552|CN|Soil Carbon|40|verified
 Rongjun Bian|https://openalex.org/A5072829767|CN|Soil Carbon|40|verified
 Leonardo Noto|https://openalex.org/A5007481827|IT|Enhanced Weathering|40|confirmed
-L. Jiang|https://openalex.org/A5071854830|GB|DAC|40|confirmed
-Damien Ernst|https://openalex.org/A5077011518|FR|DAC|40|confirmed
+L. Jiang|https://openalex.org/A5071854830|CN|DAC|40|confirmed
+Damien Ernst|https://openalex.org/A5077011518|BE|DAC|40|confirmed
 Anna Gunina|https://openalex.org/A5045801227|DE|Soil Carbon|40|verified
 Jussi Heinonsalo|https://openalex.org/A5053391921|FI|Soil Carbon|40|verified
 Pippa J. Chapman|https://openalex.org/A5071473254|GB|Soil Carbon|40|verified
@@ -302,7 +301,7 @@ Sasha Wilson|https://openalex.org/A5073578640|CA|Enhanced Weathering|38|verified
 Ronny Pini|https://openalex.org/A5039896013|GB|DAC|38|confirmed
 Matteo Gazzani|https://openalex.org/A5040380606|NL|DAC|38|verified
 Daniel C. McCorkle|https://openalex.org/A5110912989|US|Ocean CDR|38|estimated
-Paraskevi Pitta|https://openalex.org/A5029477240|GB|Ocean CDR|38|verified
+Paraskevi Pitta|https://openalex.org/A5029477240|GR|Ocean CDR|38|verified
 Andrew Chapman|https://openalex.org/A5018157580|JP|DAC|38|verified
 Chang‐Mao Hung|https://openalex.org/A5042346205|TW|Biochar|38|verified
 Ji Liu|https://openalex.org/A5100396336|ES|Soil Carbon|38|verified
@@ -310,7 +309,7 @@ Jiwei Li|https://openalex.org/A5032496138|CN|Soil Carbon|38|verified
 Yash P. Dang|https://openalex.org/A5013229412|AU|Soil Carbon|38|verified
 Bruce Osborne|https://openalex.org/A5007225553|IE|Soil Carbon|38|confirmed
 Syed Shams Yazdani|https://openalex.org/A5058911046|IN|BECCS|38|
-Spyros Foteinis|https://openalex.org/A5057305490|GR|General CDR|37|verified
+Spyros Foteinis|https://openalex.org/A5057305490|GB|General CDR|37|verified
 Graeme Puxty|https://openalex.org/A5088038094|AU|DAC|37|verified
 Masoom Raza Siddiqui|https://openalex.org/A5031175602|SA|Biochar|37|verified
 Guiyao Zhou|https://openalex.org/A5100769116|ES|Soil Carbon|37|verified
@@ -352,7 +351,7 @@ Frédéric Gazeau|https://openalex.org/A5039141126|FR|Ocean CDR|33|verified
 Oliver Geden|https://openalex.org/A5016996676|DE|General CDR|32|confirmed
 Humphrey Adun|https://openalex.org/A5027923888|CY|General CDR|32|verified
 Javier Lezaun|https://openalex.org/A5085557590|GB|General CDR|32|estimated
-Thomas Helmer Pedersen|https://openalex.org/A5028259786|US|General CDR|32|confirmed
+Thomas Helmer Pedersen|https://openalex.org/A5028259786|DK|General CDR|32|confirmed
 Jochen Linßen|https://openalex.org/A5055909025|DE|DAC|32|verified
 Yuanfei Wang|https://openalex.org/A5101455449|CN|Biochar|32|confirmed
 Sebastian Döetterl|https://openalex.org/A5017534237|CH|Soil Carbon|32|verified
@@ -362,7 +361,7 @@ Daniela Basso|https://openalex.org/A5026560276|IT|Ocean CDR|31|verified
 Christian Moretti|https://openalex.org/A5027325818|CH|DAC|31|verified
 Sami Ullah|https://openalex.org/A5087122144|GB|Soil Carbon|31|verified
 Katharina Keiblinger|https://openalex.org/A5001652710|AT|Soil Carbon|31|confirmed
-Jessica Strefler|https://openalex.org/A5056511064|DK|General CDR|30|confirmed
+Jessica Strefler|https://openalex.org/A5056511064|DE|General CDR|30|confirmed
 Kazem Zamanian|https://openalex.org/A5039651002|DE|Soil Carbon|30|verified
 Adam Wolf|https://openalex.org/A5085532819|US|Enhanced Weathering|30|verified
 Ken Oshiro|https://openalex.org/A5057996181|JP|General CDR|30|verified
@@ -373,10 +372,10 @@ Gilles Colinet|https://openalex.org/A5015112399|BE|Soil Carbon|30|confirmed
 Daniel L. Sanchez|https://openalex.org/A5016864843|US|General CDR|29|confirmed
 Naomi E. Vaughan|https://openalex.org/A5022069918|GB|General CDR|29|verified
 Simon H. Pang|https://openalex.org/A5037709742|US|General CDR|29|verified
-Haris Ishaq|https://openalex.org/A5047835879|SA|General CDR|29|confirmed
+Haris Ishaq|https://openalex.org/A5047835879|CA|General CDR|29|confirmed
 Zhaohui Aleck Wang|https://openalex.org/A5031746761|US|Ocean CDR|29|verified
 Haibo Zhai|https://openalex.org/A5073584426|US|BECCS|29|verified
-Ilman Nuran Zaini|https://openalex.org/A5028840714|SE|BECCS|29|verified
+Ilman Nuran Zaini|https://openalex.org/A5028840714|ID|BECCS|29|verified
 Alejandro Grimm|https://openalex.org/A5061702482|SE|Biochar|29|verified
 Jihui Li|https://openalex.org/A5071052943|CN|Biochar|29|verified
 Haishui Yang|https://openalex.org/A5026336400|CN|Soil Carbon|29|confirmed
@@ -396,11 +395,11 @@ Dia Milani|https://openalex.org/A5067927457|AU|General CDR|27|confirmed
 Baorong Wang|https://openalex.org/A5016581383|CN|Soil Carbon|27|confirmed
 Mathias Fridahl|https://openalex.org/A5081929312|SE|General CDR|26|verified
 Wilfried Rickels|https://openalex.org/A5020112645|DE|General CDR|26|verified
-Mijndert van der Spek|https://openalex.org/A5062642687|CH|General CDR|26|verified
+Mijndert van der Spek|https://openalex.org/A5062642687|GB|General CDR|26|verified
 Snežana Maletić|https://openalex.org/A5001570054|RS|Biochar|26|confirmed
 Hassan Shokry|https://openalex.org/A5058291586|EG|Biochar|26|verified
 Yongjun Shi|https://openalex.org/A5018785606|CN|Soil Carbon|26|confirmed
-David P. Keller|https://openalex.org/A5068205859|US|Ocean CDR|25|verified
+David P. Keller|https://openalex.org/A5068205859|DE|Ocean CDR|25|verified
 Jan Taucher|https://openalex.org/A5007343280|DE|Ocean CDR|25|verified
 Patrick Frings|https://openalex.org/A5066536322|DE|Enhanced Weathering|25|verified
 Ang Wang|https://openalex.org/A5055145875|CN|Enhanced Weathering|25|confirmed
@@ -417,7 +416,7 @@ Stefano Caserini|https://openalex.org/A5070147967|IT|Ocean CDR|23|verified
 Michael D. Tyka|https://openalex.org/A5073201933|US|Ocean CDR|23|verified
 Lester Kwiatkowski|https://openalex.org/A5022134879|FR|Ocean CDR|23|verified
 Matthew D. Eisaman|https://openalex.org/A5005365119|US|Ocean CDR|23|verified
-Sean Low|https://openalex.org/A5005320428|NL|General CDR|23|verified
+Sean Low|https://openalex.org/A5005320428|DK|General CDR|23|verified
 Michael D. Masters|https://openalex.org/A5031536244|US|Enhanced Weathering|23|confirmed
 Lyla L. Taylor|https://openalex.org/A5001741530|GB|Enhanced Weathering|23|verified
 Alexander Sauer|https://openalex.org/A5037568055|DE|BECCS|23|verified
@@ -428,7 +427,7 @@ Paweł Ziółkowski|https://openalex.org/A5022146966|PL|BECCS|23|verified
 Sen Dou|https://openalex.org/A5019119464|CN|Soil Carbon|23|confirmed
 Nadine Mengis|https://openalex.org/A5079879047|DE|General CDR|22|verified
 Chad M. Baum|https://openalex.org/A5057828579|DK|General CDR|22|verified
-Nikolas Hagemann|https://openalex.org/A5062868787|DE|Biochar|22|verified
+Nikolas Hagemann|https://openalex.org/A5062868787|CH|Biochar|22|verified
 Xuancan Zhu|https://openalex.org/A5072713173|CN|DAC|22|confirmed
 Anna P. M. Michel|https://openalex.org/A5024026979|US|Ocean CDR|22|verified
 Xiaohong Tian|https://openalex.org/A5100641921|CN|Soil Carbon|22|verified
@@ -446,7 +445,7 @@ Robert Miehe|https://openalex.org/A5070424010|DE|BECCS|20|verified
 Nathalie Monnerie|https://openalex.org/A5065748208|DE|DAC|20|confirmed
 Arturo Cabello|https://openalex.org/A5044156804|ES|BECCS|20|verified
 Jon McCalmont|https://openalex.org/A5053097577|GB|BECCS|20|verified
-Eric O’Neill|https://openalex.org/A5071201949|US|BECCS|20|confirmed
+Eric O’Neill|https://openalex.org/A5071201949|GB|BECCS|20|confirmed
 Dinesh Jinger|https://openalex.org/A5004018888|IN|Soil Carbon|20|verified
 Jingfan Zhang|https://openalex.org/A5101565885|CN|Soil Carbon|20|confirmed
 Jay Fuhrman|https://openalex.org/A5034052350|US|General CDR|19|verified
@@ -486,15 +485,15 @@ Yubin Hu|https://openalex.org/A5040781218|CN|Ocean CDR|17|verified
 William Joe Sagues|https://openalex.org/A5008564347|US|General CDR|16|confirmed
 Nina Zeyen|https://openalex.org/A5054079433|CH|Enhanced Weathering|16|verified
 Arka Rudra|https://openalex.org/A5091328285|DK|Biochar|16|confirmed
-Hélène Pilorgé|https://openalex.org/A5038679189|FR|General CDR|15|estimated
+Hélène Pilorgé|https://openalex.org/A5038679189|US|General CDR|15|estimated
 Liam A. Bullock|https://openalex.org/A5076444409|ES|Enhanced Weathering|15|verified
 Miranda Boettcher|https://openalex.org/A5061263206|DE|General CDR|15|verified
 Yoshiki Kanzaki|https://openalex.org/A5017547454|US|Enhanced Weathering|15|confirmed
 Johannes Full|https://openalex.org/A5008596001|DE|BECCS|15|verified
-Silvan Urs Goldenberg|https://openalex.org/A5011298922|NO|Ocean CDR|15|confirmed
+Silvan Urs Goldenberg|https://openalex.org/A5011298922|DE|Ocean CDR|15|confirmed
 Diego Marazza|https://openalex.org/A5076670003|IT|Biochar|15|verified
 Tom Terlouw|https://openalex.org/A5036170651|CH|General CDR|14|verified
-Matthias Honegger|https://openalex.org/A5079084697|DE|General CDR|14|verified
+Matthias Honegger|https://openalex.org/A5079084697|NL|General CDR|14|verified
 Amanda Stubbs|https://openalex.org/A5041395132|GB|Enhanced Weathering|14|incomplete
 M. Grace Andrews|https://openalex.org/A5102775076|US|General CDR|14|confirmed
 Kati Koponen|https://openalex.org/A5091330647|FI|General CDR|14|verified
@@ -530,12 +529,12 @@ Iordanis Magiopoulos|https://openalex.org/A5069820303|GR|Ocean CDR|11|confirmed
 Minggang Xu|https://openalex.org/A5101588477|CN|Soil Carbon|11|confirmed
 Christina Larkin|https://openalex.org/A5074798724|GB|Enhanced Weathering|10|incomplete
 Maria Victoria Migo-Sumagang|https://openalex.org/A5048614269|PH|General CDR|10|confirmed
-Michael Fuhr|https://openalex.org/A5072752114|US|Ocean CDR|10|confirmed
+Michael Fuhr|https://openalex.org/A5072752114|DE|Ocean CDR|10|confirmed
 Paul Reginato|https://openalex.org/A5086975811|US|General CDR|10|confirmed
 Yasser M. Abdullatif|https://openalex.org/A5059366075|QA|DAC|10|confirmed
 Kwon Rausis|https://openalex.org/A5026373105|CA|General CDR|10|confirmed
 Sarah Deutz|https://openalex.org/A5086401812|DE|DAC|10|confirmed
-Giuseppe Cipolla|https://openalex.org/A5019374730|CN|Enhanced Weathering|10|confirmed
+Giuseppe Cipolla|https://openalex.org/A5019374730|IT|Enhanced Weathering|10|confirmed
 Margarita de Las Obras Loscertales|https://openalex.org/A5057397603|ES|BECCS|10|verified
 Christiane Hennig|https://openalex.org/A5045674888|DE|BECCS|10|estimated
 Romany Webb|https://openalex.org/A5110590296|US|General CDR|9|estimated
@@ -551,9 +550,10 @@ Tobias Linke|https://openalex.org/A5081151823|DE|Enhanced Weathering|8|estimated
 Arthur Vienne|https://openalex.org/A5086565651|BE|Enhanced Weathering|8|confirmed
 Miriam Seifert|https://openalex.org/A5036998276|DE|Ocean CDR|8|confirmed
 Julieta Schneider|https://openalex.org/A5032139497|DE|Ocean CDR|8|confirmed
+Alexa Grimm|https://openalex.org/A5103982113|NL|DAC|8|estimated
 Keju An|https://openalex.org/A5040806989|US|DAC|8|confirmed
 Arthur Groß|https://openalex.org/A5072098302|DE|Soil Carbon|8|incomplete
-Siqing Xu|https://openalex.org/A5101093754|FR|General CDR|8|confirmed
+Siqing Xu|https://openalex.org/A5101093754|AE|General CDR|8|confirmed
 Maxwell Pisciotta|https://openalex.org/A5082529161|US|General CDR|7|confirmed
 Francesco Pietro Campo|https://openalex.org/A5047434192|IT|Ocean CDR|7|confirmed
 Tom Reershemius|https://openalex.org/A5008768478|GB|Enhanced Weathering|7|confirmed
@@ -590,7 +590,7 @@ Tullia Calogiuri|https://openalex.org/A5091603840|NL|Enhanced Weathering|5|confi
 Lukas Rieder|https://openalex.org/A5093245162|DE|Enhanced Weathering|5|incomplete
 Selene Varliero|https://openalex.org/A5063753462|IT|Ocean CDR|5|confirmed
 Nicoletta Brazzola|https://openalex.org/A5030128980|GB|General CDR|5|confirmed
-Lukas Marx|https://openalex.org/A5002822093|IS|Ocean CDR|5|confirmed
+Lukas Marx|https://openalex.org/A5002822093|US|Ocean CDR|5|confirmed
 Leila Kittu|https://openalex.org/A5085342752|DE|Ocean CDR|5|confirmed
 Piyush Behari Lal|https://openalex.org/A5036771884|IN|BECCS|5|
 Johannes Meyer zu Drewer|https://openalex.org/A5089195581|CH|Biochar|4|confirmed

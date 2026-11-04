@@ -1,7 +1,7 @@
 ---
 title: "Julia Pongratz"
-description: "Julia Pongratz is an Eminent General CDR researcher at Centre National de la Recherche Scientifique in FR. With 499 publications and an h-index of 85, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Julia Pongratz is an Eminent General CDR researcher at Ludwig-Maximilians-Universität München in DE. With 499 publications and an h-index of 85, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/julia-pongratz-a5054849/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/julia-pongratz-a5054849/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Centre National de la Recherche Scientifique"
+    "name": "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
   },
   "sameAs": [
     "https://orcid.org/0000-0003-0372-3960",
@@ -28,7 +28,7 @@ robots: "index, follow"
 ## Profile
 
 **Julia Pongratz**  
-Centre National de la Recherche Scientifique · 🇫🇷 FR
+Ludwig-Maximilians-Universität München · 🇩🇪 DE
 
 **Career Stage:** Eminent
 

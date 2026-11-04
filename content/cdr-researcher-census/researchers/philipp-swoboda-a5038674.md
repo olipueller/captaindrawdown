@@ -1,7 +1,7 @@
 ---
 title: "Philipp Swoboda"
-description: "Philipp Swoboda is a Mid-career Enhanced Weathering researcher at Fraunhofer Institute for Telecommunications, Heinrich Hertz Institute in DE. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T12:42:44+00:00
+description: "Philipp Swoboda is a Mid-career Enhanced Weathering researcher at InPlanet GmbH in DE. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-11-04T18:19:34+00:00
 url: "/cdr-researcher-census/researchers/philipp-swoboda-a5038674/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,7 +16,7 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/philipp-swoboda-a5038674/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Fraunhofer Institute for Telecommunications, Heinrich Hertz Institute"
+    "name": "InPlanet GmbH"
   },
   "sameAs": "https://openalex.org/A5038674571"
 }
@@ -25,7 +25,7 @@ robots: "index, follow"
 ## Profile
 
 **Philipp Swoboda**  
-Fraunhofer Institute for Telecommunications, Heinrich Hertz Institute · 🇩🇪 DE
+InPlanet GmbH · 🇩🇪 DE
 
 **Career Stage:** Mid-career
 
