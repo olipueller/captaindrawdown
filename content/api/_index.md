@@ -41,7 +41,7 @@ For assistants and agents: fetch `/api/v1/index.json` first, then the endpoint y
 ```bash
 pip install captain-drawdown-mcp            # PyPI; or: uvx captain-drawdown-mcp
 # without PyPI access:
-# pip install https://captaindrawdown.com/mcp/captain_drawdown_mcp-0.1.0-py3-none-any.whl
+# pip install https://captaindrawdown.com/mcp/captain_drawdown_mcp-0.1.1-py3-none-any.whl
 claude mcp add captain-drawdown -- captain-drawdown-mcp      # Claude Code
 ```
 
@@ -51,7 +51,7 @@ Claude Desktop or Cursor configuration:
 {"mcpServers": {"captain-drawdown": {"command": "captain-drawdown-mcp"}}}
 ```
 
-Source distribution: [captain_drawdown_mcp-0.1.0.tar.gz](/mcp/captain_drawdown_mcp-0.1.0.tar.gz). The server code is MIT; the data keeps its licences.
+Source distribution: [captain_drawdown_mcp-0.1.1.tar.gz](/mcp/captain_drawdown_mcp-0.1.1.tar.gz). The server code is MIT; the data keeps its licences.
 
 ## Corrections
 

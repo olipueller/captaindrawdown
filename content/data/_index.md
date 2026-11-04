@@ -18,9 +18,12 @@ Downloads: [`/data/v1/2026-11.3/`](/data/v1/2026-11.3/manifest.json) (frozen) an
 
 The company directory is built from a public seed list (Grant Faber, January 2026) and kept current by daily news scanning, registry ingestion (Puro.earth, OffsetsDB) and an AI-assisted liveliness assessment; every company has a profile page with its evidence. The researcher census is built from OpenAlex and ORCID: every author with at least one CDR-relevant paper since 2021 on one of seven pathways. The shop list is a hand-checked survey of shops that sell certified removal to individuals. Methods are described on each dataset page.
 
-## What is coming
+## Mirrors and tools
 
-Monthly releases with a DOI on Zenodo, a read-only JSON API under `/api/v1/`, a mirror on Hugging Face, and an MCP server so assistants can query the data directly. The dates are in the release [changelog](/data/changelog/).
+- **API:** read-only JSON under [`/api/v1/`](/api/), every response with version, date, licence and citation.
+- **MCP server:** `pip install captain-drawdown-mcp` ([PyPI](https://pypi.org/project/captain-drawdown-mcp/)) gives Claude, ChatGPT and Cursor the same data as tools; setup on the [API page](/api/#mcp-server-for-claude-chatgpt-and-cursor).
+- **Hugging Face:** the release files as datasets, [cdr-company-directory](https://huggingface.co/datasets/carbondrawdowninitiative/cdr-company-directory), [cdr-researcher-census](https://huggingface.co/datasets/carbondrawdowninitiative/cdr-researcher-census) and [cdr-shops](https://huggingface.co/datasets/carbondrawdowninitiative/cdr-shops).
+- **Zenodo:** a DOI per dataset follows with the first archived release; until then cite the page and version as shown on each dataset page.
 
 ## Corrections and removal
 
