@@ -1,7 +1,7 @@
 ---
 title: "Ondřej Mašek"
 description: "Ondřej Mašek is an Eminent Biochar researcher at University of Edinburgh in GB. With 260 publications and an h-index of 65, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/ondrej-masek-a5087096/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Papers counted in the census {#papers}
 
-35 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 33, General CDR 10, Soil Carbon 6, DAC 1, Ocean CDR 1, BECCS 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+34 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 32, General CDR 10, Soil Carbon 6, DAC 1, Ocean CDR 1, BECCS 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
@@ -58,7 +58,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2026 | [Biochar reduces soil thermal conductivity, diffusivity and volumetric heat storage: A global meta-analysis](https://openalex.org/W7166338003) | Biochar; General CDR | 1 |
 | 2026 | [Decoupling Precipitation and Surface Complexation during Mn(II) Removal by Biochar via Experiments and Atomistic Simulations](https://openalex.org/W7140175985) | Biochar | 0 |
 | 2026 | [Constructing ”Atmosphere-Plant-Biochar-Soil” Full-process model for Comprehensively Evaluating Biochar Carbon Sequestration Potential](https://openalex.org/W7160914702) | Biochar | 0 |
-| 2026 | [Mechanisms of Mn(II) Removal from Mining-Impacted Waters by Biochar: Decoupling Precipitation and Surface Complexation via Experiments and Atomistic Simulations](https://openalex.org/W7167501610) | Biochar | 0 |
 | 2026 | [Mechanisms of Mn(II) removal from mining-impacted waters by biochar: Decoupling precipitation and surface complexation via experiments and atomistic simulations](https://openalex.org/W7215863009) | Biochar | 0 |
 | 2025 | [Evaluating the two-pool decay model for biochar carbon permanence](https://doi.org/10.1007/s42773-024-00408-0) | Biochar; General CDR | 27 |
 | 2025 | [Direct air capture-assisted sustainable fuel solution in maritime sector: a carbon footprint perspective](https://doi.org/10.1007/s44246-025-00209-5) | DAC; General CDR | 10 |

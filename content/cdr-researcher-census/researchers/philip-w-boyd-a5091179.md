@@ -1,7 +1,7 @@
 ---
 title: "Philip W. Boyd"
 description: "Philip W. Boyd is an Eminent Ocean CDR researcher at University of Tasmania in AU. With 442 publications and an h-index of 102, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/philip-w-boyd-a5091179/"
 layout: "researcher"
 hiddenInHomeList: true

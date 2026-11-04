@@ -1,7 +1,7 @@
 ---
 title: "Balal Yousaf"
 description: "Balal Yousaf is an Eminent Biochar researcher at Silesian University of Technology in PL. With 165 publications and an h-index of 60, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/balal-yousaf-a5026803/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Detlef P. van Vuuren"
 description: "Detlef P. van Vuuren is an Eminent General CDR researcher at Netherlands Environmental Assessment Agency in NL. With 875 publications and an h-index of 150, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/detlef-p-van-vuuren-a5082748/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Papers counted in the census {#papers}
 
-32 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 30, BECCS 12, Soil Carbon 4, DAC 1, Biochar 1, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+30 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 29, BECCS 11, Soil Carbon 4, DAC 1, Biochar 1, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
@@ -61,10 +61,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | 2026 | [Incorporating Geological Carbon Storage Constraints in Integrated Assessment Models](https://doi.org/10.5194/egusphere-egu26-20568) | General CDR | 0 |
 | 2026 | [Carbon Dioxide Removal Supply Curves: A Multi-Model Assessment](https://openalex.org/W7164164937) | BECCS; General CDR | 0 |
 | 2026 | [Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment](https://openalex.org/W7211955480) | BECCS | 0 |
-| 2026 | [Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment](https://openalex.org/W7211966750) | BECCS | 0 |
 | 2026 | [Carbon dioxide removal consistent with climate pledges: a multi-model assessment of regional potential](https://openalex.org/W7213337866) | Biochar; Enhanced Weathering; General CDR | 0 |
 | 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7220995682) | General CDR | 0 |
-| 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7221005949) | General CDR | 0 |
 | 2025 | [Rethinking soil carbon research: beyond the mitigation-centric narrative](https://doi.org/10.5194/egusphere-egu25-1466) | General CDR; Soil Carbon | 0 |
 | 2024 | [Reducing sectoral hard-to-abate emissions to limit reliance on carbon dioxide removal](https://doi.org/10.1038/s41558-024-02025-y) | General CDR | 112 |
 | 2024 | [The need for carbon-emissions-driven climate projections in CMIP7](https://doi.org/10.5194/gmd-17-8141-2024) | General CDR | 61 |

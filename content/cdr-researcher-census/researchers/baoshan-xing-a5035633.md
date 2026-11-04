@@ -1,7 +1,7 @@
 ---
 title: "Baoshan Xing"
 description: "Baoshan Xing is an Eminent Biochar researcher at University of Massachusetts Amherst in US. With 1049 publications and an h-index of 148, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/baoshan-xing-a5035633/"
 layout: "researcher"
 hiddenInHomeList: true

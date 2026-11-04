@@ -1,7 +1,7 @@
 ---
 title: "Christian Sattler"
 description: "Christian Sattler is an Eminent DAC researcher at Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR) in DE. With 597 publications and an h-index of 54, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/christian-sattler-a5003022/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Silvan Urs Goldenberg"
 description: "Silvan Urs Goldenberg is a Mid-career Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 48 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:05+00:00
 url: "/cdr-researcher-census/researchers/silvan-urs-goldenberg-a5011298/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Maria-Elena Vorrath"
 description: "Maria-Elena Vorrath is a Mid-career General CDR researcher at Universität Hamburg in DE. With 76 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:05+00:00
 url: "/cdr-researcher-census/researchers/maria-elena-vorrath-a5010895/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Papers counted in the census {#papers}
 
-13 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 11, Biochar 9, Enhanced Weathering 9, Ocean CDR 3, Soil Carbon 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+12 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 10, Biochar 9, Enhanced Weathering 9, Ocean CDR 2, Soil Carbon 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
@@ -66,7 +66,6 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | 2025 | [Poo for future: Community Engagement through Biochar Innovation by Utilizing Sewage Sludge for Enhanced Agricultural Practices and Climate Resilience&amp;#160;](https://doi.org/10.5194/egusphere-egu25-14814) | Biochar; Soil Carbon | 0 |
 | 2025 | [Synergistic effects of co-application and co-pyrolysis of biochar and enhanced weathering materials for CO2 removal in an Oxisol](https://doi.org/10.5194/egusphere-egu25-12717) | Biochar; Enhanced Weathering | 0 |
 | 2024 | [Marine carbon dioxide removal by alkalinization should no longer be overlooked](https://doi.org/10.1088/1748-9326/ad5192) | General CDR; Ocean CDR | 17 |
-| 2024 | [Exploring site-specific carbon dioxide removal options with storage or sequestration in the marine environment - The 10 Mt CO2 yr-1 removal challenge for Germany](https://doi.org/10.22541/essoar.171650351.11778445/v1) | General CDR; Ocean CDR | 0 |
 
 ## External Profiles
 

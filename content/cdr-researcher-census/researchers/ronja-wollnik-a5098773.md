@@ -1,7 +1,7 @@
 ---
 title: "Ronja Wollnik"
 description: "Ronja Wollnik is an Early-career General CDR researcher at Deutsches Biomasseforschungszentrum in DE. With 14 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:05+00:00
 url: "/cdr-researcher-census/researchers/ronja-wollnik-a5098773/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Papers counted in the census {#papers}
 
-16 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 16, BECCS 7, Ocean CDR 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+15 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 15, BECCS 7, Ocean CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
@@ -66,7 +66,6 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | 2025 | [Bisher mehr Hürden als Chancen für bio-CDR: Berichte aus Stakeholder-Workshops zu biomassebasiertem Carbon Dioxide Removal (CDR)](https://hdl.handle.net/10419/315204) | BECCS; General CDR | 0 |
 | 2025 | [Berichte aus Stakeholder-Workshops zu biomassebasiertem Carbon Dioxide Removal (CDR)](https://openalex.org/W7140009529) | General CDR | 0 |
 | 2025 | [Hurdles still outweigh opportunities for bioCDR: Reports from stakeholder workshops on biomass-based carbon dioxide removal (CDR)](https://openalex.org/W7162610453) | General CDR | 0 |
-| 2024 | [Exploring site-specific carbon dioxide removal options with storage or sequestration in the marine environment - The 10 Mt CO2 yr-1 removal challenge for Germany](https://doi.org/10.22541/essoar.171650351.11778445/v1) | General CDR; Ocean CDR | 0 |
 | 2024 | [Telling the story of CDR: Scenarios for bio-based carbon dioxide removal to achieve net-zero in Germany](https://www.openagrar.de/receive/openagrar_mods_00113343) | BECCS; General CDR | 0 |
 | 2024 | [Biobasierte Technologien für Negative Emissionen: CCS, CCU, BECCS](https://www.openagrar.de/receive/openagrar_mods_00113302) | BECCS; General CDR | 0 |
 | 2023 | [Dynamics of bio-based carbon dioxide removal](https://www.openagrar.de/receive/openagrar_mods_00093534) | General CDR | 0 |

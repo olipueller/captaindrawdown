@@ -1,7 +1,7 @@
 ---
 title: "Colin E. Snape"
 description: "Colin E. Snape is an Eminent Biochar researcher at University of Nottingham in GB. With 548 publications and an h-index of 73, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/colin-e-snape-a5038069/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sebastian Döetterl"
 description: "Sebastian Döetterl is a Senior Soil Carbon researcher at ETH Zurich in CH. With 212 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/sebastian-doetterl-a5017534/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Sadr"
 description: "Mohammad Sadr is an Early-career BECCS researcher at Helmholtz Centre for Environmental Research in DE. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:05+00:00
 url: "/cdr-researcher-census/researchers/mohammad-sadr-a5038945/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Daniel S. Goll"
 description: "Daniel S. Goll is an Eminent General CDR researcher at Laboratoire des Sciences du Climat et de l’Environnement in FR. With 278 publications and an h-index of 58, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/daniel-s-goll-a5063381/"
 layout: "researcher"
 hiddenInHomeList: true

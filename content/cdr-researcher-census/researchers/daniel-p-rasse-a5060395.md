@@ -1,7 +1,7 @@
 ---
 title: "Daniel P. Rasse"
 description: "Daniel P. Rasse is an Eminent Biochar researcher at Norwegian Institute of Bioeconomy Research in NO. With 147 publications and an h-index of 43, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/daniel-p-rasse-a5060395/"
 layout: "researcher"
 hiddenInHomeList: true

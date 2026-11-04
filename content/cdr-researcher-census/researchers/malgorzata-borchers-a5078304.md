@@ -1,7 +1,7 @@
 ---
 title: "Malgorzata Borchers"
 description: "Malgorzata Borchers is a Mid-career General CDR researcher at Helmholtz Centre for Environmental Research in DE. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:05+00:00
 url: "/cdr-researcher-census/researchers/malgorzata-borchers-a5078304/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Papers counted in the census {#papers}
 
-14 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 14, BECCS 7, Ocean CDR 2, Soil Carbon 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+13 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 13, BECCS 7, Ocean CDR 1, Soil Carbon 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
@@ -63,7 +63,6 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | 2024 | [A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany](https://doi.org/10.1029/2023ef003986) | BECCS; General CDR | 25 |
 | 2024 | [Scientific literature on carbon dioxide removal much larger than previously suggested: insights from an AI-enhanced systematic map](https://doi.org/10.21203/rs.3.rs-4109712/v1) | General CDR | 7 |
 | 2024 | [A storyline approach: integrating comprehensive, interdisciplinary research results to create narratives – in the context of the net-zero target in Germany](http://dx.doi.org/10.3389/fenvs.2024.1433491) | General CDR | 2 |
-| 2024 | [Exploring site-specific carbon dioxide removal options with storage or sequestration in the marine environment - The 10 Mt CO2 yr-1 removal challenge for Germany](https://doi.org/10.22541/essoar.171650351.11778445/v1) | General CDR; Ocean CDR | 0 |
 | 2024 | [Biobasierte Technologien für Negative Emissionen: CCS, CCU, BECCS](https://www.openagrar.de/receive/openagrar_mods_00113302) | BECCS; General CDR | 0 |
 | 2023 | [Dynamics of bio-based carbon dioxide removal in Germany](http://dx.doi.org/10.21203/rs.3.rs-3452150/v1) | BECCS; General CDR; Soil Carbon | 3 |
 | 2022 | [Scoping carbon dioxide removal options for Germany–What is their potential contribution to Net-Zero CO2?](https://doi.org/10.3389/fclim.2022.810343) | General CDR | 38 |

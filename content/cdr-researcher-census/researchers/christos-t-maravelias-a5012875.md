@@ -1,7 +1,7 @@
 ---
 title: "Christos T. Maravelias"
 description: "Christos T. Maravelias is an Eminent BECCS researcher at Princeton University in US. With 398 publications and an h-index of 61, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/christos-t-maravelias-a5012875/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Vishwajit Kumar"
 description: "Vishwajit Kumar is an Early-career BECCS researcher at Kasturba Medical College, Manipal in IN. With 8 publications and an h-index of N/A, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:05+00:00
 url: "/cdr-researcher-census/researchers/vishwajit-kumar-a5130755/"
 layout: "researcher"
 hiddenInHomeList: true

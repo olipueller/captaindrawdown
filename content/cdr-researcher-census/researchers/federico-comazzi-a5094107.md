@@ -1,7 +1,7 @@
 ---
 title: "Federico Comazzi"
 description: "Federico Comazzi is an Early-career Ocean CDR researcher at Limenet s.r.l in IT. With 9 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:05+00:00
 url: "/cdr-researcher-census/researchers/federico-comazzi-a5094107/"
 layout: "researcher"
 hiddenInHomeList: true

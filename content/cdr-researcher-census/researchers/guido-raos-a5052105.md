@@ -1,7 +1,7 @@
 ---
 title: "Guido Raos"
 description: "Guido Raos is a Senior Ocean CDR researcher at Politecnico di Milano in IT. With 168 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/guido-raos-a5052105/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,12 +50,11 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 ## Papers counted in the census {#papers}
 
-12 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 12, General CDR 3, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+11 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 11, General CDR 3, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [pH-Equilibrated Ocean Alkalinization: Mesoscale Evaluation of Long-Term Stability](https://doi.org/10.5194/egusphere-egu26-1491) | Ocean CDR | 0 |
-| 2026 | [Bipolar Membrane Electrodialysis for Ocean Alkalinity Enhancement: Configuration feasibility and CO2 injection pathways](https://openalex.org/W7165119933) | Ocean CDR | 0 |
 | 2026 | [Regional seawater-chemistry controls on ocean alkalinity enhancement efficiency: Carbonate precipitation risk under pH-equilibrated OAE](https://openalex.org/W7172438291) | Ocean CDR | 0 |
 | 2026 | [Bipolar Membrane Electrodialysis for Ocean Alkalinity Enhancement: Configuration feasibility and CO2 injection pathways](https://openalex.org/W7213994232) | Ocean CDR | 0 |
 | 2026 | [Response of the Carbonate System to Ocean Alkalinity Enhancement: A Mesocosm-Scale Experiment](https://openalex.org/W7214425406) | Ocean CDR | 0 |

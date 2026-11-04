@@ -1,7 +1,7 @@
 ---
 title: "Sean Low"
 description: "Sean Low is a Senior General CDR researcher at Aarhus University in DK. With 57 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:05+00:00
 url: "/cdr-researcher-census/researchers/sean-low-a5005320/"
 layout: "researcher"
 hiddenInHomeList: true

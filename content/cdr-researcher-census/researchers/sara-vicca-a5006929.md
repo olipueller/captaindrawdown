@@ -1,7 +1,7 @@
 ---
 title: "Sara Vicca"
 description: "Sara Vicca is an Eminent Enhanced Weathering researcher at University of Antwerp in BE. With 244 publications and an h-index of 58, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/sara-vicca-a5006929/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 ## Papers counted in the census {#papers}
 
-60 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 54, General CDR 33, Soil Carbon 22, Biochar 5. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+59 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 54, General CDR 32, Soil Carbon 22, Biochar 4. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
@@ -71,7 +71,6 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | 2026 | [Accounting for uncertainty in carbon fluxes: Towards the integration of Bayesian approaches in enhanced weathering](https://doi.org/10.5194/egusphere-egu26-18487) | Enhanced Weathering; General CDR | 0 |
 | 2026 | [Towards Coupled Organic–Inorganic Modeling of Carbon Cycling In Enhanced Rock Weathering Soils](https://doi.org/10.5194/egusphere-egu26-18210) | Enhanced Weathering; General CDR | 0 |
 | 2026 | [Inorganic-Organic Carbon coupling in models for enhanced weathering.](https://doi.org/10.5194/egusphere-egu26-22127) | Enhanced Weathering; General CDR | 0 |
-| 2026 | [River alkalinity enhancement for scalable and energy-efficient geochemical carbon dioxide removal: potential, costs and risks?](https://openalex.org/W7168243138) | Biochar; General CDR | 0 |
 | 2025 | [Beyond Inorganic C: Soil Organic C as a Key Pathway for Carbon Sequestration in Enhanced Weathering](https://doi.org/10.1111/gcb.70340) | Enhanced Weathering; General CDR; Soil Carbon | 20 |
 | 2025 | [Enhanced Rock Weathering Promotes Soil Organic Carbon Accumulation: A Global Meta‐Analysis Based on Experimental Evidence](https://doi.org/10.1111/gcb.70483) | Enhanced Weathering; Soil Carbon | 16 |
 | 2025 | [Enhanced Rock Weathering Altered Soil Organic Carbon Fluxes in a Plant Trial](https://doi.org/10.1111/gcb.70373) | Enhanced Weathering; Soil Carbon | 14 |

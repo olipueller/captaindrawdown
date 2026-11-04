@@ -1,7 +1,7 @@
 ---
 title: "Carlos Eduardo Pellegrino Cerri"
 description: "Carlos Eduardo Pellegrino Cerri is an Eminent Soil Carbon researcher at Universidade de São Paulo in BR. With 556 publications and an h-index of 90, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/carlos-eduardo-pellegrino-cerri-a5082434/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,12 +50,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Papers counted in the census {#papers}
 
-34 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Soil Carbon 31, General CDR 11, Biochar 2, BECCS 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+33 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Soil Carbon 30, General CDR 11, Biochar 2, BECCS 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Microbial traits, necromass accumulation, and soil carbon persistence are shaped by oil palm-based agroforestry in the Amazon](https://openalex.org/W7212368518) | Soil Carbon | 1 |
-| 2026 | [Microbial Traits, Necromass Accumulation, and Soil Carbon Persistence are Shaped by Oil Palm-based Agroforestry in the Amazon](https://openalex.org/W7161020242) | Soil Carbon | 0 |
 | 2026 | [Integrated Systems Under No‐Tillage, and Improved Pastures: One Pathway Toward Restoring Soil Carbon and Organic Matter Pools in the Brazilian Semi‐Arid Region](https://openalex.org/W7163433089) | Soil Carbon | 0 |
 | 2026 | [Sustainable intensification of Brazilian pastures reconciles food security with large-scale soil carbon sequestration](https://openalex.org/W7166451055) | Soil Carbon | 0 |
 | 2025 | [Soil carbon allocation, composition, and sequestration changes induced by cropping diversification in tropical systems](https://doi.org/10.1016/j.still.2025.106464) | Soil Carbon | 17 |

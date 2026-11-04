@@ -1,7 +1,7 @@
 ---
 title: "Qiang Fu"
 description: "Qiang Fu is an Eminent Soil Carbon researcher at Northeast Agricultural University in CN. With 1010 publications and an h-index of 59, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/qiang-fu-a5065153/"
 layout: "researcher"
 hiddenInHomeList: true

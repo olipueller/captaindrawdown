@@ -1,7 +1,7 @@
 ---
 title: "Amilcare Porporato"
 description: "Amilcare Porporato is an Eminent Enhanced Weathering researcher at Princeton University in US. With 604 publications and an h-index of 82, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/amilcare-porporato-a5010484/"
 layout: "researcher"
 hiddenInHomeList: true

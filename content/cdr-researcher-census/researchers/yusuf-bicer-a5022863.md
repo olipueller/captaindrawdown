@@ -1,7 +1,7 @@
 ---
 title: "Yusuf Biçer"
 description: "Yusuf Biçer is an Eminent DAC researcher at Hamad bin Khalifa University in QA. With 306 publications and an h-index of 51, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/yusuf-bicer-a5022863/"
 layout: "researcher"
 hiddenInHomeList: true

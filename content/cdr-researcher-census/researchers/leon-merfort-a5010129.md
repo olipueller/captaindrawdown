@@ -1,7 +1,7 @@
 ---
 title: "Leon Merfort"
 description: "Leon Merfort is a Mid-career General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 51 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:05+00:00
 url: "/cdr-researcher-census/researchers/leon-merfort-a5010129/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Papers counted in the census {#papers}
 
-17 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 17, DAC 3, BECCS 2, Ocean CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+16 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 16, DAC 3, BECCS 2, Ocean CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
@@ -59,7 +59,6 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | 2026 | [Non-CO2 effects of carbon dioxide removal methods influence temperature response in overshoot scenarios](https://doi.org/10.5194/egusphere-egu26-15018) | DAC; General CDR | 0 |
 | 2026 | [Assessing Earth system responses in mitigation scenarios with activity-driven simulation of carbon dioxide removal](https://openalex.org/W7214319721) | General CDR | 0 |
 | 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7220995682) | General CDR | 0 |
-| 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7221005949) | General CDR | 0 |
 | 2025 | [Separating CO2 emission from removal targets comes with limited cost impacts](https://doi.org/10.1038/s41467-025-60606-7) | General CDR | 17 |
 | 2025 | [Representing carbon dioxide removal in Earth System Models: towards an activity-driven framework.](https://doi.org/10.5194/egusphere-egu25-17555) | General CDR | 0 |
 | 2025 | [Bottom-up estimate of the carbon dioxide removal potential of land-based mitigation technologies using a coupled ESM/ land-use change model framework](https://doi.org/10.5194/egusphere-egu25-18466) | General CDR | 0 |

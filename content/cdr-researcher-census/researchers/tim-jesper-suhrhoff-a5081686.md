@@ -1,7 +1,7 @@
 ---
 title: "Tim Jesper Suhrhoff"
 description: "Tim Jesper Suhrhoff is a Mid-career General CDR researcher at Yale University in US. With 66 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:05+00:00
 url: "/cdr-researcher-census/researchers/tim-jesper-suhrhoff-a5081686/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Papers counted in the census {#papers}
 
-26 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 24, Enhanced Weathering 20, Biochar 6, Soil Carbon 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+24 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 22, Enhanced Weathering 20, Biochar 4, Soil Carbon 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
@@ -62,8 +62,6 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | 2026 | [Inferring Enhanced Weathering Carbon Dioxide Removal and agronomic impacts from agronomic studies using silicate rock flour: a systematic synthesis](https://doi.org/10.5194/egusphere-egu26-8280) | Enhanced Weathering; General CDR | 0 |
 | 2026 | [Enhanced weathering of glacial rock flour drives coupled inorganic and organic carbon sequestration in a five-year field experiment](https://openalex.org/W7162524873) | Enhanced Weathering; General CDR | 0 |
 | 2026 | [Cation trapping by biochar reduces carbon removal efficiency](https://openalex.org/W7165026700) | Biochar; General CDR | 0 |
-| 2026 | [River alkalinity enhancement for scalable and energy-efficient geochemical carbon dioxide removal: potential, costs and risks?](https://openalex.org/W7168243138) | Biochar; General CDR | 0 |
-| 2026 | [Cation incorporation into biochar affects alkalinity-driven carbon dioxide removal accounting](https://openalex.org/W7207844370) | Biochar; General CDR | 0 |
 | 2026 | [Cation incorporation into biochar affects alkalinity-driven carbon dioxide removal accounting](https://openalex.org/W7214342687) | Biochar; General CDR | 0 |
 | 2026 | [Multiple lines of evidence reveal rapid, seasonal watershed responses to enhanced weathering](https://openalex.org/W7214892934) | Enhanced Weathering | 0 |
 | 2025 | [Soil cation storage is a key control on the carbon removal dynamics of enhanced weathering](https://doi.org/10.1088/1748-9326/ade0d5) | Enhanced Weathering; General CDR | 21 |

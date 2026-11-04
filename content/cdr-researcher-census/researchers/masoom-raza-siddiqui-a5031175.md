@@ -1,7 +1,7 @@
 ---
 title: "Masoom Raza Siddiqui"
 description: "Masoom Raza Siddiqui is a Senior Biochar researcher at King Saud University in SA. With 210 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/masoom-raza-siddiqui-a5031175/"
 layout: "researcher"
 hiddenInHomeList: true

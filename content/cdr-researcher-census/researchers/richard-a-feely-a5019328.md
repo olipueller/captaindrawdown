@@ -1,7 +1,7 @@
 ---
 title: "Richard A. Feely"
 description: "Richard A. Feely is an Eminent Ocean CDR researcher at NOAA Pacific Marine Environmental Laboratory in US. With 707 publications and an h-index of 111, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/richard-a-feely-a5019328/"
 layout: "researcher"
 hiddenInHomeList: true

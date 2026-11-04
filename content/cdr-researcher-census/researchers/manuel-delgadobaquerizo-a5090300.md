@@ -1,7 +1,7 @@
 ---
 title: "Manuel Delgado‐Baquerizo"
 description: "Manuel Delgado‐Baquerizo is an Eminent Soil Carbon researcher at Instituto de Recursos Naturales y Agrobiología de Sevilla in ES. With 611 publications and an h-index of 105, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/manuel-delgadobaquerizo-a5090300/"
 layout: "researcher"
 hiddenInHomeList: true

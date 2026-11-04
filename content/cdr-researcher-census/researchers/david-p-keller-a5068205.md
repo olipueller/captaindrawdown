@@ -1,7 +1,7 @@
 ---
 title: "David P. Keller"
 description: "David P. Keller is a Senior Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 171 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/david-p-keller-a5068205/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 ## Papers counted in the census {#papers}
 
-41 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 34, General CDR 34, Soil Carbon 2, BECCS 1, DAC 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+40 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 33, General CDR 33, Soil Carbon 2, BECCS 1, DAC 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
@@ -80,7 +80,6 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | 2024 | [Exploring risks and benefits of overshooting a 1.5 &amp;#9702;C carbon budget over space and time](https://doi.org/10.5194/egusphere-egu24-20890) | General CDR | 0 |
 | 2024 | [CO2 Removal Potential of Two Ocean-based NETs in Earth System Models in a Realistic Deployment Scenario](https://doi.org/10.5194/egusphere-egu24-18363) | General CDR; Ocean CDR | 0 |
 | 2024 | [Seasonal Variability in the Ocean Carbonate System under Ocean Alkalinity Enhancement&amp;#160;](https://doi.org/10.5194/egusphere-egu24-18243) | General CDR; Ocean CDR | 0 |
-| 2024 | [Exploring site-specific carbon dioxide removal options with storage or sequestration in the marine environment - The 10 Mt CO2 yr-1 removal challenge for Germany](https://doi.org/10.22541/essoar.171650351.11778445/v1) | General CDR; Ocean CDR | 0 |
 | 2024 | [Marine Geoengineering for a Sustainable Future: Integrating Fisheries and Ocean Alkalinity Enhancement in Global Scenarios](https://doi.org/10.22541/essoar.172961953.38760812/v1) | General CDR; Ocean CDR | 0 |
 | 2024 | [Regional differences in uptake during simulation of ocean alkalinity enhancement in an Earth system model](https://orcid.org/0000-0003-2894-8314>,) | Ocean CDR | 0 |
 | 2023 | [Carbon dioxide removal via macroalgae open-ocean mariculture and sinking: an Earth system modeling study](https://doi.org/10.5194/esd-14-185-2023) | Ocean CDR | 103 |

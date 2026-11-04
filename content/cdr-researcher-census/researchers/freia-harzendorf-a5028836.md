@@ -1,7 +1,7 @@
 ---
 title: "Freia Harzendorf"
 description: "Freia Harzendorf is a Mid-career DAC researcher at Forschungszentrum Jülich in DE. With 46 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:05+00:00
 url: "/cdr-researcher-census/researchers/freia-harzendorf-a5028836/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,12 +50,11 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Papers counted in the census {#papers}
 
-11 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 11, General CDR 8. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 10, General CDR 7. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Weather-dependent direct air capture process modeling for techno-economic assessments](https://doi.org/10.1016/j.enconman.2025.121003) | DAC; General CDR | 10 |
-| 2026 | [Global strategic deployment of Direct Air Capture technologies](https://doi.org/10.2139/ssrn.6416107) | DAC; General CDR | 1 |
 | 2026 | [Global strategic deployment of Direct Air Capture technologies](https://openalex.org/W7169594416) | DAC | 1 |
 | 2026 | [Global strategic deployment of Direct Air Capture technologies](https://openalex.org/W7172326523) | DAC | 0 |
 | 2026 | [Global strategic deployment of Direct Air Capture technologies](https://openalex.org/W7172383932) | DAC | 0 |

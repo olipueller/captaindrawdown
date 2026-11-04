@@ -1,7 +1,7 @@
 ---
 title: "Matthias Honegger"
 description: "Matthias Honegger is a Mid-career General CDR researcher at Utrecht University in NL. With 57 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:05+00:00
 url: "/cdr-researcher-census/researchers/matthias-honegger-a5079084/"
 layout: "researcher"
 hiddenInHomeList: true

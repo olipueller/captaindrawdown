@@ -1,7 +1,7 @@
 ---
 title: "Eva Thorin"
 description: "Eva Thorin is a Senior BECCS researcher at Mälardalen University in SE. With 223 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/eva-thorin-a5052844/"
 layout: "researcher"
 hiddenInHomeList: true

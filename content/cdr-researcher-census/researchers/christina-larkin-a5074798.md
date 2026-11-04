@@ -1,7 +1,7 @@
 ---
 title: "Christina Larkin"
 description: "Christina Larkin is a Mid-career Enhanced Weathering researcher at InPlanet GmbH in GB. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:05+00:00
 url: "/cdr-researcher-census/researchers/christina-larkin-a5074798/"
 layout: "researcher"
 hiddenInHomeList: true

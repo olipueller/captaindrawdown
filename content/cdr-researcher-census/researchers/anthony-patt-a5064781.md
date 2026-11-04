@@ -1,7 +1,7 @@
 ---
 title: "Anthony Patt"
 description: "Anthony Patt is an Eminent General CDR researcher at ETH Zurich in CH. With 272 publications and an h-index of 56, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/anthony-patt-a5064781/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sina Hoseinpoori"
 description: "Sina Hoseinpoori is a Mid-career DAC researcher at Chalmers University of Technology in SE. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:05+00:00
 url: "/cdr-researcher-census/researchers/sina-hoseinpoori-a5052140/"
 layout: "researcher"
 hiddenInHomeList: true

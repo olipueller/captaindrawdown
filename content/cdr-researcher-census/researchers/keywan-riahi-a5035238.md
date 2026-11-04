@@ -1,7 +1,7 @@
 ---
 title: "Keywan Riahi"
 description: "Keywan Riahi is an Eminent General CDR researcher at International Institute for Applied Systems Analysis in AT. With 569 publications and an h-index of 114, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/keywan-riahi-a5035238/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Papers counted in the census {#papers}
 
-24 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 21, BECCS 4, Biochar 2, Enhanced Weathering 2, DAC 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+22 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 20, BECCS 3, Biochar 2, Enhanced Weathering 2, DAC 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
@@ -63,10 +63,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | 2026 | [Biodiversity conservation policies alter the solution space of climate mitigation scenarios](https://openalex.org/W7208815994) | BECCS | 0 |
 | 2026 | [Equitable cooperation deepens the solution space for high ambition pathways](https://openalex.org/W7211890629) | General CDR | 0 |
 | 2026 | [Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment](https://openalex.org/W7211955480) | BECCS | 0 |
-| 2026 | [Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment](https://openalex.org/W7211966750) | BECCS | 0 |
 | 2026 | [Carbon dioxide removal consistent with climate pledges: a multi-model assessment of regional potential](https://openalex.org/W7213337866) | Biochar; Enhanced Weathering; General CDR | 0 |
 | 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7220995682) | General CDR | 0 |
-| 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7221005949) | General CDR | 0 |
 | 2025 | [A prudent planetary limit for geologic carbon storage](https://doi.org/10.1038/s41586-025-09423-y) | General CDR | 85 |
 | 2024 | [Drivers and attitudes of public support for technological solutions to climate change in 30 countries](https://doi.org/10.1088/1748-9326/ad7c67) | General CDR | 19 |
 | 2024 | [Taking stock of carbon dioxide removal policy in emerging economies: developments in Brazil, China, and India](https://doi.org/10.1080/14693062.2024.2353148) | General CDR | 18 |

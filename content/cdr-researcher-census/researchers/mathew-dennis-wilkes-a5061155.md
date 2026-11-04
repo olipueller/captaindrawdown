@@ -1,7 +1,7 @@
 ---
 title: "Mathew Dennis Wilkes"
 description: "Mathew Dennis Wilkes is a Mid-career BECCS researcher at University of Sheffield in GB. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:05+00:00
 url: "/cdr-researcher-census/researchers/mathew-dennis-wilkes-a5061155/"
 layout: "researcher"
 hiddenInHomeList: true

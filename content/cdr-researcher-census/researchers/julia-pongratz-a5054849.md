@@ -1,7 +1,7 @@
 ---
 title: "Julia Pongratz"
 description: "Julia Pongratz is an Eminent General CDR researcher at Ludwig-Maximilians-Universität München in DE. With 499 publications and an h-index of 85, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/julia-pongratz-a5054849/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Papers counted in the census {#papers}
 
-34 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 33, Soil Carbon 6, Ocean CDR 5, BECCS 5. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+33 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 32, Soil Carbon 6, BECCS 5, Ocean CDR 4. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
@@ -82,7 +82,6 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | 2024 | [Reviewing differences and uncertainties in land-use CO2 flux estimates](https://doi.org/10.5194/egusphere-egu24-18116) | General CDR | 1 |
 | 2024 | [Temporal dynamics of terrestrial carbon dioxide removal](https://doi.org/10.5194/egusphere-egu24-18510) | BECCS; General CDR | 0 |
 | 2024 | [How to measure the efficiency of terrestrial carbon dioxide removal methods](https://doi.org/10.5194/egusphere-2024-1451) | BECCS; General CDR; Soil Carbon | 0 |
-| 2024 | [Exploring site-specific carbon dioxide removal options with storage or sequestration in the marine environment - The 10 Mt CO2 yr-1 removal challenge for Germany](https://doi.org/10.22541/essoar.171650351.11778445/v1) | General CDR; Ocean CDR | 0 |
 | 2023 | [Ten new insights in climate science 2023](https://doi.org/10.1017/sus.2023.25) | General CDR | 47 |
 | 2023 | [Limited Mitigation Potential of Forestation Under a High Emissions Scenario: Results From Multi‐Model and Single Model Ensembles](https://doi.org/10.1029/2023jg007605) | General CDR | 16 |
 | 2023 | [Measures of effectiveness to compare the climate mitigation potential of afforestation and BECCS](https://doi.org/10.5194/egusphere-egu23-7863) | BECCS; General CDR | 0 |

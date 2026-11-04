@@ -1,7 +1,7 @@
 ---
 title: "Carsten W. Mueller"
 description: "Carsten W. Mueller is an Eminent Soil Carbon researcher at Technische Universität Berlin in DE. With 326 publications and an h-index of 63, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/carsten-w-mueller-a5007474/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Nadine Mengis"
 description: "Nadine Mengis is a Senior General CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 143 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:05+00:00
 url: "/cdr-researcher-census/researchers/nadine-mengis-a5079879/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Papers counted in the census {#papers}
 
-29 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 28, Ocean CDR 13, DAC 1, BECCS 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+28 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 27, Ocean CDR 12, DAC 1, BECCS 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
@@ -76,7 +76,6 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | 2024 | [A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany](https://doi.org/10.1029/2023ef003986) | BECCS; General CDR | 25 |
 | 2024 | [Reassessing the need for carbon dioxide removal: moral implications of alternative climate target pathways](https://doi.org/10.1017/sus.2023.21) | General CDR | 12 |
 | 2024 | [A storyline approach: integrating comprehensive, interdisciplinary research results to create narratives – in the context of the net-zero target in Germany](http://dx.doi.org/10.3389/fenvs.2024.1433491) | General CDR | 2 |
-| 2024 | [Exploring site-specific carbon dioxide removal options with storage or sequestration in the marine environment - The 10 Mt CO2 yr-1 removal challenge for Germany](https://doi.org/10.22541/essoar.171650351.11778445/v1) | General CDR; Ocean CDR | 0 |
 | 2024 | [The 10 Mt CO2 removal per year challenge for marine Carbon Dioxide Removal options for Germany-creating compariablility for the mCDR implementations](https://orcid.org/0000-0003-3938-1237>,) | General CDR; Ocean CDR | 0 |
 | 2023 | [Counting (on) blue carbon—Challenges and ways forward for carbon accounting of ecosystem-based carbon removal in marine environments](https://doi.org/10.1371/journal.pclm.0000148) | General CDR; Ocean CDR | 38 |
 | 2023 | [Focus on Carbon Dioxide Removal / Guest Editor for Environmental Research Letters Special Issue](https://orcid.org/0000-0003-0312-7069>) | General CDR | 0 |

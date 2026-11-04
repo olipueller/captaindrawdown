@@ -1,7 +1,7 @@
 ---
 title: "Sally Homsy"
 description: "Sally Homsy is a Mid-career General CDR researcher at National Energy Technology Laboratory in US. With 31 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:05+00:00
 url: "/cdr-researcher-census/researchers/sally-homsy-a5087798/"
 layout: "researcher"
 hiddenInHomeList: true

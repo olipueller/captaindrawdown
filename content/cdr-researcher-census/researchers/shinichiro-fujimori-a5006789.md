@@ -1,7 +1,7 @@
 ---
 title: "Shinichiro Fujimori"
 description: "Shinichiro Fujimori is an Eminent General CDR researcher at Kyoto University in JP. With 1159 publications and an h-index of 79, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/shinichiro-fujimori-a5006789/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Papers counted in the census {#papers}
 
-30 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 28, DAC 5, BECCS 5, Soil Carbon 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+28 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 27, DAC 5, BECCS 4, Soil Carbon 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
@@ -63,9 +63,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | 2026 | [Development of a computable general equilibrium model representing direct air capture and carbon dioxide utilization](https://openalex.org/W7161163110) | DAC; General CDR | 0 |
 | 2026 | [Indirect electrification enables the 2°C goal without reliance on carbon dioxide removal](https://openalex.org/W7171920593) | General CDR | 0 |
 | 2026 | [Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment](https://openalex.org/W7211955480) | BECCS | 0 |
-| 2026 | [Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment](https://openalex.org/W7211966750) | BECCS | 0 |
 | 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7220995682) | General CDR | 0 |
-| 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7221005949) | General CDR | 0 |
 | 2025 | [JMIP 2 Part 1: Technology uncertainty and robustness in Japan’s net-zero pathways](https://doi.org/10.1016/j.egycc.2025.100210) | General CDR | 3 |
 | 2025 | [Energy system transformations for the phase-out of fossil fuels towards 1.5°C future](https://doi.org/10.21203/rs.3.rs-5698098/v1) | General CDR | 0 |
 | 2025 | [Public understanding of net zero: Conflicted perceptions of different mitigation pathways between feasibility and desirability](https://doi.org/10.21203/rs.3.rs-7379576/v1) | General CDR | 0 |

@@ -1,7 +1,7 @@
 ---
 title: "Katharina Keiblinger"
 description: "Katharina Keiblinger is a Senior Soil Carbon researcher at BOKU University in AT. With 175 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/katharina-keiblinger-a5001652/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Christopher R. Pearce"
 description: "Christopher R. Pearce is a Senior General CDR researcher at National Oceanography Centre in GB. With 101 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/christopher-r-pearce-a5070628/"
 layout: "researcher"
 hiddenInHomeList: true

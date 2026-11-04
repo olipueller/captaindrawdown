@@ -1,7 +1,7 @@
 ---
 title: "Wei‐Hsin Chen"
 description: "Wei‐Hsin Chen is an Eminent Biochar researcher at National Cheng Kung University in TW. With 935 publications and an h-index of 118, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/weihsin-chen-a5057352/"
 layout: "researcher"
 hiddenInHomeList: true

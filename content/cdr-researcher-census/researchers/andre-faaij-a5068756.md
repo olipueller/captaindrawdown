@@ -1,7 +1,7 @@
 ---
 title: "André Faaij"
 description: "André Faaij is an Eminent BECCS researcher at Utrecht University in NL. With 526 publications and an h-index of 99, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/andre-faaij-a5068756/"
 layout: "researcher"
 hiddenInHomeList: true

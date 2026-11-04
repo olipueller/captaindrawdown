@@ -1,7 +1,7 @@
 ---
 title: "Mahmoud Nasr"
 description: "Mahmoud Nasr is an Eminent Biochar researcher at Alexandria University in EG. With 248 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/mahmoud-nasr-a5004352/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Johannes Meyer zu Drewer"
 description: "Johannes Meyer zu Drewer is an Early-career Biochar researcher at Ithaka Institute for Carbon Strategies in CH. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:05+00:00
 url: "/cdr-researcher-census/researchers/johannes-meyer-zu-drewer-a5089195/"
 layout: "researcher"
 hiddenInHomeList: true

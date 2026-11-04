@@ -1,7 +1,7 @@
 ---
 title: "Bhavanari Mallikarjun"
 description: "Bhavanari Mallikarjun is an Early-career BECCS researcher at Manipal Academy of Higher Education in IN. With 5 publications and an h-index of N/A, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:05+00:00
 url: "/cdr-researcher-census/researchers/bhavanari-mallikarjun-a5138451/"
 layout: "researcher"
 hiddenInHomeList: true

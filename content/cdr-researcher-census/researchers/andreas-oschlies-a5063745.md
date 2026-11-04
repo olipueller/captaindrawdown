@@ -1,7 +1,7 @@
 ---
 title: "Andreas Oschlies"
 description: "Andreas Oschlies is an Eminent Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 754 publications and an h-index of 76, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/andreas-oschlies-a5063745/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 ## Papers counted in the census {#papers}
 
-54 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 47, General CDR 44, Enhanced Weathering 1, BECCS 1, Soil Carbon 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+53 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 46, General CDR 43, Enhanced Weathering 1, BECCS 1, Soil Carbon 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
@@ -96,7 +96,6 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | 2024 | [Ocean Alk-Align: an international research project to assess the potential of Ocean Alkalinity Enhancement for marine Carbon Dioxide Removal](https://doi.org/10.5194/egusphere-egu24-438) | General CDR; Ocean CDR | 0 |
 | 2024 | [Assessing the Mitigation Potential and Ecological Impacts of Carbon Dioxide Removal Technologies on Ocean Ecosystems](https://doi.org/10.5194/egusphere-egu24-15549) | General CDR; Ocean CDR | 0 |
 | 2024 | [Seasonal Variability in the Ocean Carbonate System under Ocean Alkalinity Enhancement&amp;#160;](https://doi.org/10.5194/egusphere-egu24-18243) | General CDR; Ocean CDR | 0 |
-| 2024 | [Exploring site-specific carbon dioxide removal options with storage or sequestration in the marine environment - The 10 Mt CO2 yr-1 removal challenge for Germany](https://doi.org/10.22541/essoar.171650351.11778445/v1) | General CDR; Ocean CDR | 0 |
 | 2024 | [Marine Geoengineering for a Sustainable Future: Integrating Fisheries and Ocean Alkalinity Enhancement in Global Scenarios](https://doi.org/10.22541/essoar.172961953.38760812/v1) | General CDR; Ocean CDR | 0 |
 | 2024 | [Regional differences in uptake during simulation of ocean alkalinity enhancement in an Earth system model](https://orcid.org/0000-0003-2894-8314>,) | Ocean CDR | 0 |
 | 2024 | [European Marine Board working group on Marine Carbon Dioxide Removal / Member](https://orcid.org/0000-0002-8295-4013>) | General CDR; Ocean CDR | 0 |

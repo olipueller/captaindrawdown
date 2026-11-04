@@ -1,7 +1,7 @@
 ---
 title: "Qiyong Xu"
 description: "Qiyong Xu is a Senior Biochar researcher at Peking University in CN. With 223 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/qiyong-xu-a5020897/"
 layout: "researcher"
 hiddenInHomeList: true

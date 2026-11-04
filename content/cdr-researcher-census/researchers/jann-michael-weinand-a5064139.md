@@ -1,7 +1,7 @@
 ---
 title: "Jann Michael Weinand"
 description: "Jann Michael Weinand is a Senior DAC researcher at Forschungszentrum Jülich in DE. With 174 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/jann-michael-weinand-a5064139/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,12 +50,11 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Papers counted in the census {#papers}
 
-14 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 14, General CDR 8. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+13 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 13, General CDR 7. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Weather-dependent direct air capture process modeling for techno-economic assessments](https://doi.org/10.1016/j.enconman.2025.121003) | DAC; General CDR | 10 |
-| 2026 | [Global strategic deployment of Direct Air Capture technologies](https://doi.org/10.2139/ssrn.6416107) | DAC; General CDR | 1 |
 | 2026 | [Global strategic deployment of Direct Air Capture technologies](https://openalex.org/W7169594416) | DAC | 1 |
 | 2026 | [Direct air capture enables sustainable methanol production in water-scarce regions](https://openalex.org/W7204089186) | DAC | 1 |
 | 2026 | [Beyond Capture: Global Techno-Economic Potential of Direct Air Carbon Capture and Storage](https://openalex.org/W7167452867) | DAC; General CDR | 0 |

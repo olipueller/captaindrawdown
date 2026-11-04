@@ -1,7 +1,7 @@
 ---
 title: "Miranda Boettcher"
 description: "Miranda Boettcher is a Mid-career General CDR researcher at Stiftung Wissenschaft und Politik, German Institute for International and Security Affairs in DE. With 52 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:05+00:00
 url: "/cdr-researcher-census/researchers/miranda-boettcher-a5061263/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Papers counted in the census {#papers}
 
-26 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 24, Ocean CDR 19, BECCS 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+25 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 23, Ocean CDR 18, BECCS 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
@@ -71,7 +71,6 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | 2025 | [EMB Future Science Brief: Monitoring, Reporting and Verification for marine Carbon Dioxide Removal](https://openalex.org/W7149221167) | General CDR; Ocean CDR | 0 |
 | 2024 | [An earth system governance research agenda for carbon removal](https://doi.org/10.1016/j.esg.2024.100204) | General CDR | 12 |
 | 2024 | [The potential of the BBNJ clearing house mechanism to enhance knowledge pluralism in marine carbon dioxide removal assessment](https://doi.org/10.3389/fclim.2024.1497476) | General CDR; Ocean CDR | 5 |
-| 2024 | [Exploring site-specific carbon dioxide removal options with storage or sequestration in the marine environment - The 10 Mt CO2 yr-1 removal challenge for Germany](https://doi.org/10.22541/essoar.171650351.11778445/v1) | General CDR; Ocean CDR | 0 |
 | 2023 | [The formative phase of German carbon dioxide removal policy: Positioning between precaution, pragmatism and innovation](https://doi.org/10.1016/j.erss.2023.103018) | General CDR | 36 |
 | 2023 | [Secure robust carbon dioxide removal policy through credible certification](https://doi.org/10.1038/s43247-023-01014-x) | General CDR | 34 |
 | 2023 | [Novel carbon dioxide removals techniques must be integrated into the European Union’s climate policies](https://doi.org/10.1038/s43247-023-01121-9) | General CDR | 24 |

@@ -1,7 +1,7 @@
 ---
 title: "Jinfeng Chang"
 description: "Jinfeng Chang is an Eminent General CDR researcher at Zhejiang University in CN. With 249 publications and an h-index of 58, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/jinfeng-chang-a5025102/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,13 +50,12 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Papers counted in the census {#papers}
 
-13 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 7, BECCS 6, Soil Carbon 3, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+12 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 7, BECCS 5, Soil Carbon 3, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Structural inequities shape biodiversity and climate mitigation outcomes in livestock systems](https://doi.org/10.21203/rs.3.rs-8645442/v1) | General CDR | 0 |
 | 2026 | [Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment](https://openalex.org/W7211955480) | BECCS | 0 |
-| 2026 | [Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment](https://openalex.org/W7211966750) | BECCS | 0 |
 | 2025 | [Depth-dependent accumulation and controls of particulate and mineral-associated organic carbon in Inner Mongolian grasslands](https://doi.org/10.1007/s11430-025-1647-y) | Soil Carbon | 3 |
 | 2024 | [Using visible-near infrared spectroscopy to estimate whole-profile soil organic carbon and its fractions](https://doi.org/10.1016/j.seh.2024.100100) | Soil Carbon | 11 |
 | 2024 | [Fast Transit of Carbon Inputs in Global Soil Profiles Regardless of Entering Depth](https://doi.org/10.1029/2023ef003982) | Soil Carbon | 10 |

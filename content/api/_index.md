@@ -4,7 +4,7 @@ description: "Read-only JSON API for the Captain Drawdown datasets: companies, r
 url: "/api/"
 ---
 
-Read-only JSON, served as static files: no key, no sign-up. Every response carries `version`, `as_of`, `license` and `cite_as`. Current release **2026-11.2** (2026-11-04), 985 files.
+Read-only JSON, served as static files: no key, no sign-up. Every response carries `version`, `as_of`, `license` and `cite_as`. Current release **2026-11.3** (2026-11-04), 985 files.
 
 | Endpoint | What you get |
 |---|---|
@@ -39,7 +39,9 @@ For assistants and agents: fetch `/api/v1/index.json` first, then the endpoint y
 `captain-drawdown-mcp` exposes the same data as ten MCP tools (`search_companies`, `company`, `stats`, `countries`, `pathways`, `researchers_by_country`, `researchers_by_pathway`, `top_researchers`, `shops`, `cite`). It runs locally over stdio, needs Python 3.10 or newer and no key.
 
 ```bash
-pip install https://captaindrawdown.com/mcp/captain_drawdown_mcp-0.1.0-py3-none-any.whl
+pip install captain-drawdown-mcp            # PyPI; or: uvx captain-drawdown-mcp
+# without PyPI access:
+# pip install https://captaindrawdown.com/mcp/captain_drawdown_mcp-0.1.0-py3-none-any.whl
 claude mcp add captain-drawdown -- captain-drawdown-mcp      # Claude Code
 ```
 

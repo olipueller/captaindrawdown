@@ -1,7 +1,7 @@
 ---
 title: "Matthieu Delannoy"
 description: "Matthieu Delannoy is a Mid-career Biochar researcher at Université de Lorraine in FR. With 92 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:05+00:00
 url: "/cdr-researcher-census/researchers/matthieu-delannoy-a5008753/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,18 +1,18 @@
 ---
 title: "Captain Drawdown Data"
-description: "Open, versioned datasets on carbon dioxide removal: 969 companies, 95,329 researchers, 14 shops. CSV and JSON, monthly releases, citable."
+description: "Open, versioned datasets on carbon dioxide removal: 969 companies, 95,328 researchers, 14 shops. CSV and JSON, monthly releases, citable."
 url: "/data/"
 ---
 
-Three datasets, one monthly release, every file with a version, a licence and a citation. Release **2026-11.2**, data as of 2026-11-04.
+Three datasets, one monthly release, every file with a version, a licence and a citation. Release **2026-11.3**, data as of 2026-11-04.
 
 | Dataset | Headline number | Licence | Page |
 |---|---|---|---|
 | CDR Company Directory | 969 published companies (1,470 active in the database, 66 countries) | CC BY-NC-SA 4.0 | [/data/companies/](/data/companies/) |
-| CDR Researcher Census | 95,329 researchers listed, calibrated estimate 88,179, 27,418 papers, 182 countries | CC BY 4.0 | [/data/researchers/](/data/researchers/) |
+| CDR Researcher Census | 95,328 researchers listed, calibrated estimate 88,178, 27,366 papers, 182 countries | CC BY 4.0 | [/data/researchers/](/data/researchers/) |
 | CDR Shops | 14 shops with live prices | CC BY 4.0 | [/data/shops/](/data/shops/) |
 
-Downloads: [`/data/v1/2026-11.2/`](/data/v1/2026-11.2/manifest.json) (frozen) and [`/data/v1/latest/`](/data/v1/latest/manifest.json) (newest). Each release has a [manifest](/data/v1/latest/manifest.json) with checksums.
+Downloads: [`/data/v1/2026-11.3/`](/data/v1/2026-11.3/manifest.json) (frozen) and [`/data/v1/latest/`](/data/v1/latest/manifest.json) (newest). Each release has a [manifest](/data/v1/latest/manifest.json) with checksums.
 
 ## How the data is made
 

@@ -1,7 +1,7 @@
 ---
 title: "Tomoko Hasegawa"
 description: "Tomoko Hasegawa is an Eminent General CDR researcher at Ritsumeikan University in JP. With 960 publications and an h-index of 64, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/tomoko-hasegawa-a5060236/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Papers counted in the census {#papers}
 
-21 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 19, BECCS 6, DAC 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+19 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 18, BECCS 5, DAC 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
@@ -62,9 +62,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | 2026 | [Transient reliance on carbon removal and storage in long-term energy system transitions](https://doi.org/10.21203/rs.3.rs-8393021/v1) | General CDR | 0 |
 | 2026 | [Key Benchmarks of Global Emissions Scenarios 2025: Annual update of integrated assessment scenarios and related benchmarks for limiting global warming](https://doi.org/10.5194/egusphere-egu26-12960) | General CDR | 0 |
 | 2026 | [Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment](https://openalex.org/W7211955480) | BECCS | 0 |
-| 2026 | [Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment](https://openalex.org/W7211966750) | BECCS | 0 |
 | 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7220995682) | General CDR | 0 |
-| 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7221005949) | General CDR | 0 |
 | 2025 | [Warming versus land-intensive mitigation impact on biodiversity refugia across climate policy scenarios](https://doi.org/10.5194/egusphere-egu25-9028) | BECCS; General CDR | 0 |
 | 2025 | [Public understanding of net zero: Conflicted perceptions of different mitigation pathways between feasibility and desirability](https://doi.org/10.21203/rs.3.rs-7379576/v1) | General CDR | 0 |
 | 2025 | [Financial transfer to resolve the equity trade-off between developed and developing countries for national net-zero commitments](https://doi.org/10.21203/rs.3.rs-5972293/v1) | General CDR | 0 |

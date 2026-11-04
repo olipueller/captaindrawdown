@@ -1,7 +1,7 @@
 ---
 title: "David S. Sholl"
 description: "David S. Sholl is an Eminent DAC researcher at Oak Ridge National Laboratory in US. With 626 publications and an h-index of 100, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/david-s-sholl-a5031523/"
 layout: "researcher"
 hiddenInHomeList: true

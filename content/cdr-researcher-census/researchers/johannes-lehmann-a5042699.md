@@ -1,7 +1,7 @@
 ---
 title: "Johannes Lehmann"
 description: "Johannes Lehmann is an Eminent General CDR researcher at Cornell University in US. With 1240 publications and an h-index of 123, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/johannes-lehmann-a5042699/"
 layout: "researcher"
 hiddenInHomeList: true

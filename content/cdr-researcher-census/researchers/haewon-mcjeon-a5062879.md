@@ -1,7 +1,7 @@
 ---
 title: "Haewon McJeon"
 description: "Haewon McJeon is an Eminent General CDR researcher at Korea Advanced Institute of Science and Technology in KR. With 199 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/haewon-mcjeon-a5062879/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Papers counted in the census {#papers}
 
-34 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 34, DAC 8, BECCS 4, Biochar 1, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+33 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 33, DAC 8, BECCS 4, Biochar 1, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
@@ -58,7 +58,6 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | 2026 | [Ambitious Co-scaling of Carbon Dioxide Removal and Decarbonization Delivers Better Climate Outcomes Than Strategies That Prioritize Efforts in One Domain](https://openalex.org/W7167049809) | General CDR | 0 |
 | 2026 | [Carbon dioxide removal consistent with climate pledges: a multi-model assessment of regional potential](https://openalex.org/W7213337866) | Biochar; Enhanced Weathering; General CDR | 0 |
 | 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7220995682) | General CDR | 0 |
-| 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7221005949) | General CDR | 0 |
 | 2025 | [Scaling carbon removal without delaying emission reductions](https://doi.org/10.1038/s44359-025-00081-x) | General CDR | 8 |
 | 2025 | [Bioenergy pathways within United States net-zero CO2 emissions scenarios in the Energy Modeling Forum 37 study](https://doi.org/10.1016/j.egycc.2025.100209) | BECCS; General CDR | 2 |
 | 2025 | [Navigating the unexpected: The impact of disruptive events on mitigation scenarios](https://doi.org/10.5194/egusphere-egu25-6022) | General CDR | 0 |

@@ -1,7 +1,7 @@
 ---
 title: "Peter A. Raymond"
 description: "Peter A. Raymond is an Eminent Enhanced Weathering researcher at Yale University in US. With 397 publications and an h-index of 90, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/peter-a-raymond-a5064092/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 ## Papers counted in the census {#papers}
 
-15 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 12, General CDR 12, Soil Carbon 4. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+14 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 11, General CDR 11, Soil Carbon 4. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
@@ -61,7 +61,6 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | 2026 | [Multiple lines of evidence reveal rapid, seasonal watershed responses to enhanced weathering](https://openalex.org/W7214892934) | Enhanced Weathering | 0 |
 | 2025 | [The North American Greenhouse Gas Budget: Emissions, Removals, and Integration for CO<sub>2</sub>, CH<sub>4</sub>, and N<sub>2</sub>O (2010–2019): Results From the Second REgional Carbon Cycle Assessment and Processes Study (RECCAP2)](https://doi.org/10.1029/2024gb008310) | General CDR | 17 |
 | 2025 | [Aggregated monitoring of enhanced weathering on agricultural lands](https://doi.org/10.70212/cdrxiv.2025394.v2) | Enhanced Weathering; General CDR | 2 |
-| 2025 | [Multiple Lines of Evidence Reveal Rapid, Seasonal Watershed Responses to Enhanced Weathering](https://doi.org/10.21203/rs.3.rs-8224816/v1) | Enhanced Weathering; General CDR | 0 |
 | 2024 | [Enhanced Rock Weathering for Carbon Removal–Monitoring and Mitigating Potential Environmental Impacts on Agricultural Land](https://doi.org/10.1021/acs.est.4c02368) | Enhanced Weathering; General CDR | 47 |
 | 2024 | [Influence of Enhanced Silicate Weathering on Streamwater Quality: A Watershed Experiment](https://doi.org/10.5194/egusphere-egu24-756) | Enhanced Weathering; Soil Carbon | 0 |
 | 2024 | [Investigating terrestrial biogeochemical responses to enhanced rock weathering for carbon capture in a whole-watershed experiment](https://doi.org/10.5194/egusphere-egu24-780) | Enhanced Weathering; General CDR; Soil Carbon | 0 |

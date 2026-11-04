@@ -1,7 +1,7 @@
 ---
 title: "David Chiaramonti"
 description: "David Chiaramonti is an Eminent Biochar researcher at Politecnico di Torino in IT. With 256 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/david-chiaramonti-a5071729/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Nanthi Bolan"
 description: "Nanthi Bolan is an Eminent Soil Carbon researcher at The University of Western Australia in AU. With 817 publications and an h-index of 142, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/nanthi-bolan-a5007065/"
 layout: "researcher"
 hiddenInHomeList: true

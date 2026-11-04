@@ -1,7 +1,7 @@
 ---
 title: "Ang Wang"
 description: "Ang Wang is a Senior Enhanced Weathering researcher at Nanjing Tech University in CN. With 151 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/ang-wang-a5055145/"
 layout: "researcher"
 hiddenInHomeList: true

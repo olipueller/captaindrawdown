@@ -1,7 +1,7 @@
 ---
 title: "Judith Hauck"
 description: "Judith Hauck is an Eminent Ocean CDR researcher at Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung in DE. With 316 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/judith-hauck-a5068651/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 ## Papers counted in the census {#papers}
 
-17 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 16, General CDR 14, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+16 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 15, General CDR 13, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
@@ -62,7 +62,6 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | 2025 | [Prospects and Challenges of Investigating Ocean-Based Negative Emission Technologies: Insights from the OceanNETs Project](https://doi.org/10.3289/oceannets_d7.10-12) | General CDR; Ocean CDR | 1 |
 | 2024 | [Ocean Alkalinity Enhancement in Deep Water Formation Regions Under Low and High Emission Pathways](https://doi.org/10.1029/2023ef004213) | General CDR; Ocean CDR | 14 |
 | 2024 | [CO2 Removal Potential of Two Ocean-based NETs in Earth System Models in a Realistic Deployment Scenario](https://doi.org/10.5194/egusphere-egu24-18363) | General CDR; Ocean CDR | 0 |
-| 2024 | [Exploring site-specific carbon dioxide removal options with storage or sequestration in the marine environment - The 10 Mt CO2 yr-1 removal challenge for Germany](https://doi.org/10.22541/essoar.171650351.11778445/v1) | General CDR; Ocean CDR | 0 |
 | 2023 | [Trends and variability in the ocean carbon sink](https://doi.org/10.1038/s43017-022-00381-x) | General CDR; Ocean CDR | 276 |
 | 2023 | [Ocean carbon from space: Current status and priorities for the next decade](https://doi.org/10.1016/j.earscirev.2023.104386) | General CDR; Ocean CDR | 63 |
 | 2023 | [Ten new insights in climate science 2023](https://doi.org/10.1017/sus.2023.25) | General CDR | 47 |

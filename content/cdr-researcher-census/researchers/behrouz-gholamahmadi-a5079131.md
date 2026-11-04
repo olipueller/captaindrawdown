@@ -1,7 +1,7 @@
 ---
 title: "Behrouz Gholamahmadi"
 description: "Behrouz Gholamahmadi is a Mid-career Biochar researcher at University of Aveiro in PT. With 40 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:05+00:00
 url: "/cdr-researcher-census/researchers/behrouz-gholamahmadi-a5079131/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Papers counted in the census {#papers}
 
-14 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 9, General CDR 6, Enhanced Weathering 3, Soil Carbon 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+13 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 8, General CDR 6, Enhanced Weathering 3, Soil Carbon 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
@@ -61,7 +61,6 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | 2026 | [Nature-positive carbon dioxide removal (NPCDR): A governance framework for integrating carbon integrity and ecosystem performance in EU climate policy](https://openalex.org/W7164656661) | General CDR | 1 |
 | 2026 | [Biochar reduces soil thermal conductivity, diffusivity and volumetric heat storage: A global meta-analysis](https://openalex.org/W7166338003) | Biochar; General CDR | 1 |
 | 2026 | [Biochar-mediated soil strategies for mitigating antimicrobial resistance and protecting biodiversity](https://openalex.org/W7162456433) | Biochar | 0 |
-| 2026 | [Qualifying biochar-derived graphite for lithium-ion battery anodes in Europe](https://openalex.org/W7204535483) | Biochar | 0 |
 | 2026 | [Economic valuation of ecosystem services from biochar-mediated soil erosion control for carbon-neutral land management](https://openalex.org/W7213778281) | Biochar; Soil Carbon | 0 |
 | 2026 | [Qualifying biochar-derived graphite for lithium-ion battery anodes in Europe](https://openalex.org/W7214280802) | Biochar | 0 |
 | 2026 | [Enhanced rock weathering in the European Union: Certification, monitoring and governance requirements for responsible carbon dioxide removal](https://openalex.org/W7214968900) | Enhanced Weathering; General CDR | 0 |

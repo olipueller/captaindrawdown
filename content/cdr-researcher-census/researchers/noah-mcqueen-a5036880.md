@@ -1,7 +1,7 @@
 ---
 title: "Noah McQueen"
 description: "Noah McQueen is a Mid-career DAC researcher at Heirloom Carbon Technologies in US. With 25 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/noah-mcqueen-a5036880/"
 layout: "researcher"
 hiddenInHomeList: true

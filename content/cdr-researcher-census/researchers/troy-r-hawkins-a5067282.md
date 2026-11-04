@@ -1,7 +1,7 @@
 ---
 title: "Troy R. Hawkins"
 description: "Troy R. Hawkins is an Eminent General CDR researcher at Argonne National Laboratory in US. With 149 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/troy-r-hawkins-a5067282/"
 layout: "researcher"
 hiddenInHomeList: true

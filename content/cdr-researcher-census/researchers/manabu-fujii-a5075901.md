@@ -1,7 +1,7 @@
 ---
 title: "Manabu Fujii"
 description: "Manabu Fujii is an Eminent Biochar researcher at Institute of Science Tokyo in JP. With 468 publications and an h-index of 50, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/manabu-fujii-a5075901/"
 layout: "researcher"
 hiddenInHomeList: true

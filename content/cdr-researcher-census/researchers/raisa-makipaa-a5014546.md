@@ -1,7 +1,7 @@
 ---
 title: "Raisa Mäkipää"
 description: "Raisa Mäkipää is an Eminent Soil Carbon researcher at Natural Resources Institute Finland in FI. With 8595 publications and an h-index of 52, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/raisa-makipaa-a5014546/"
 layout: "researcher"
 hiddenInHomeList: true

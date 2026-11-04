@@ -1,7 +1,7 @@
 ---
 title: "Frédéric Gazeau"
 description: "Frédéric Gazeau is a Senior Ocean CDR researcher at CNRS Délégation Régionale Côte d'Azur in FR. With 202 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/frederic-gazeau-a5039141/"
 layout: "researcher"
 hiddenInHomeList: true

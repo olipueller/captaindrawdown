@@ -1,7 +1,7 @@
 ---
 title: "Henrik I. Petersen"
 description: "Henrik I. Petersen is a Senior Biochar researcher at Geological Survey of Denmark and Greenland in DK. With 193 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/henrik-i-petersen-a5016856/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jeffrey Dankwa Ampah"
 description: "Jeffrey Dankwa Ampah is a Senior General CDR researcher at Tianjin University in CN. With 95 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/jeffrey-dankwa-ampah-a5044399/"
 layout: "researcher"
 hiddenInHomeList: true

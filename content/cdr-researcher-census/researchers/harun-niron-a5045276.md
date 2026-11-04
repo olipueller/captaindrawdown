@@ -1,7 +1,7 @@
 ---
 title: "Harun Niron"
 description: "Harun Niron is a Mid-career Enhanced Weathering researcher at University of Antwerp in BE. With 49 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:05+00:00
 url: "/cdr-researcher-census/researchers/harun-niron-a5045276/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 ## Papers counted in the census {#papers}
 
-27 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 26, General CDR 18, Soil Carbon 7, Biochar 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+26 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 26, General CDR 17, Soil Carbon 7, Biochar 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
@@ -63,7 +63,6 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | 2026 | [From silicates to soil carbonates: Tracing the cation budget of microbially-accelerated weathering](https://doi.org/10.70212/cdrxiv.2026464.v1) | Enhanced Weathering; Soil Carbon | 0 |
 | 2026 | [Synergistic effects of basalt and earthworms: enhanced nutrient availability and altered heavy metal dynamics](https://doi.org/10.5194/egusphere-2026-603) | Enhanced Weathering; Soil Carbon | 0 |
 | 2026 | [Evidence of microbially accelerated weathering from a laboratory mesocosm experiment with sequential selective dissolution](https://openalex.org/W7165622731) | Enhanced Weathering; General CDR | 0 |
-| 2026 | [River alkalinity enhancement for scalable and energy-efficient geochemical carbon dioxide removal: potential, costs and risks?](https://openalex.org/W7168243138) | Biochar; General CDR | 0 |
 | 2026 | [Author Comment on egusphere-2026-4145: Supplemental Tables and Figures](https://openalex.org/W7172528878) | Enhanced Weathering; General CDR | 0 |
 | 2025 | [Beyond Inorganic C: Soil Organic C as a Key Pathway for Carbon Sequestration in Enhanced Weathering](https://doi.org/10.1111/gcb.70340) | Enhanced Weathering; General CDR; Soil Carbon | 20 |
 | 2025 | [Enhanced Rock Weathering Altered Soil Organic Carbon Fluxes in a Plant Trial](https://doi.org/10.1111/gcb.70373) | Enhanced Weathering; Soil Carbon | 14 |

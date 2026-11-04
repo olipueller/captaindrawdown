@@ -1,7 +1,7 @@
 ---
 title: "Chengyun Zhou"
 description: "Chengyun Zhou is an Eminent Biochar researcher at Hunan University in CN. With 203 publications and an h-index of 89, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/chengyun-zhou-a5034463/"
 layout: "researcher"
 hiddenInHomeList: true

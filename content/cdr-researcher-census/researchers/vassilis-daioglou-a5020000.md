@@ -1,7 +1,7 @@
 ---
 title: "Vassilis Daioglou"
 description: "Vassilis Daioglou is an Eminent General CDR researcher at Netherlands Environmental Assessment Agency in NL. With 175 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/vassilis-daioglou-a5020000/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Papers counted in the census {#papers}
 
-26 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 26, BECCS 10, DAC 4, Soil Carbon 1, Biochar 1, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+25 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 25, BECCS 10, DAC 4, Soil Carbon 1, Biochar 1, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
@@ -61,7 +61,6 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | 2026 | [Carbon Dioxide Removal Supply Curves: A Multi-Model Assessment](https://openalex.org/W7164164937) | BECCS; General CDR | 0 |
 | 2026 | [Carbon dioxide removal consistent with climate pledges: a multi-model assessment of regional potential](https://openalex.org/W7213337866) | Biochar; Enhanced Weathering; General CDR | 0 |
 | 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7220995682) | General CDR | 0 |
-| 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7221005949) | General CDR | 0 |
 | 2025 | [Warming versus land-intensive mitigation impact on biodiversity refugia across climate policy scenarios](https://doi.org/10.5194/egusphere-egu25-9028) | BECCS; General CDR | 0 |
 | 2024 | [Reducing sectoral hard-to-abate emissions to limit reliance on carbon dioxide removal](https://doi.org/10.1038/s41558-024-02025-y) | General CDR | 112 |
 | 2024 | [Decarbonizing the cement industry: Findings from coupling prospective life cycle assessment of clinker with integrated assessment model scenarios](https://doi.org/10.1016/j.jclepro.2024.141884) | General CDR | 56 |

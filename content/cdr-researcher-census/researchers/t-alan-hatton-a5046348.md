@@ -1,7 +1,7 @@
 ---
 title: "T. Alan Hatton"
 description: "T. Alan Hatton is an Eminent General CDR researcher at Massachusetts Institute of Technology in US. With 606 publications and an h-index of 109, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/t-alan-hatton-a5046348/"
 layout: "researcher"
 hiddenInHomeList: true

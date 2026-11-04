@@ -1,7 +1,7 @@
 ---
 title: "Alexander Popp"
 description: "Alexander Popp is an Eminent General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 370 publications and an h-index of 92, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/alexander-popp-a5088947/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Papers counted in the census {#papers}
 
-18 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 15, BECCS 7, Biochar 1, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+16 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 14, BECCS 6, Biochar 1, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
@@ -59,9 +59,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | 2026 | [Potential of combining biochar and enhanced weathering and impacts on soil organic carbon and biomass: PyMiCCS project results](https://doi.org/10.5194/egusphere-egu26-19725) | Biochar; Enhanced Weathering; General CDR | 0 |
 | 2026 | [Biodiversity conservation policies alter the solution space of climate mitigation scenarios](https://openalex.org/W7208815994) | BECCS | 0 |
 | 2026 | [Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment](https://openalex.org/W7211955480) | BECCS | 0 |
-| 2026 | [Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment](https://openalex.org/W7211966750) | BECCS | 0 |
 | 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7220995682) | General CDR | 0 |
-| 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7221005949) | General CDR | 0 |
 | 2024 | [Food matters: Dietary shifts increase the feasibility of 1.5°C pathways in line with the Paris Agreement](https://doi.org/10.1126/sciadv.adj3832) | General CDR | 43 |
 | 2024 | [Multiple pathways towards sustainable development goals and climate targets](https://doi.org/10.1088/1748-9326/ad80af) | General CDR | 40 |
 | 2024 | [Food and land system transformations under different societal perspectives on sustainable development](https://doi.org/10.1088/1748-9326/ad8f46) | General CDR | 13 |

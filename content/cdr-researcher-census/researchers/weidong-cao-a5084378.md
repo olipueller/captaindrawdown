@@ -1,7 +1,7 @@
 ---
 title: "Weidong Cao"
 description: "Weidong Cao is an Eminent Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 283 publications and an h-index of 53, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/weidong-cao-a5084378/"
 layout: "researcher"
 hiddenInHomeList: true

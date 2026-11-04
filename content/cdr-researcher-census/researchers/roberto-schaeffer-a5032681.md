@@ -1,7 +1,7 @@
 ---
 title: "Roberto Schaeffer"
 description: "Roberto Schaeffer is an Eminent General CDR researcher at Universidade Federal do Rio de Janeiro in BR. With 332 publications and an h-index of 62, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/roberto-schaeffer-a5032681/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,15 +50,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Papers counted in the census {#papers}
 
-21 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 19, BECCS 6. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+19 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 18, BECCS 5. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Mitigation benchmarks from the 2025 community update of global emissions pathways](https://doi.org/10.21203/rs.3.rs-8891091/v1) | General CDR | 1 |
 | 2026 | [Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment](https://openalex.org/W7211955480) | BECCS | 0 |
-| 2026 | [Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment](https://openalex.org/W7211966750) | BECCS | 0 |
 | 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7220995682) | General CDR | 0 |
-| 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7221005949) | General CDR | 0 |
 | 2025 | [A just transition pathway for the coal industry from its ashes](https://doi.org/10.1016/j.rset.2025.100117) | BECCS; General CDR | 1 |
 | 2024 | [Taking stock of carbon dioxide removal policy in emerging economies: developments in Brazil, China, and India](https://doi.org/10.1080/14693062.2024.2353148) | General CDR | 18 |
 | 2024 | [Industrial sector pathways to a well-below 2 °C world: A global integrated assessment perspective](https://openalex.org/W4405659024) | General CDR | 11 |

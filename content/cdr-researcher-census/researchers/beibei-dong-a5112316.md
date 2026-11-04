@@ -1,7 +1,7 @@
 ---
 title: "Beibei Dong"
 description: "Beibei Dong is a Senior BECCS researcher at Hebei University of Technology in SE. With 36 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:05+00:00
 url: "/cdr-researcher-census/researchers/beibei-dong-a5112316/"
 layout: "researcher"
 hiddenInHomeList: true

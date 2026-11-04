@@ -1,7 +1,7 @@
 ---
 title: "Syed Shams Yazdani"
 description: "Syed Shams Yazdani is a Senior BECCS researcher at International Centre for Genetic Engineering and Biotechnology in IN. With 141 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/syed-shams-yazdani-a5058911/"
 layout: "researcher"
 hiddenInHomeList: true

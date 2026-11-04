@@ -1,7 +1,7 @@
 ---
 title: "Cheng‐Di Dong"
 description: "Cheng‐Di Dong is an Eminent Biochar researcher at National Kaohsiung University of Science and Technology in TW. With 553 publications and an h-index of 75, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/chengdi-dong-a5015918/"
 layout: "researcher"
 hiddenInHomeList: true

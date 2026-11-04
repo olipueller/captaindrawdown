@@ -1,7 +1,7 @@
 ---
 title: "Daniel C.W. Tsang"
 description: "Daniel C.W. Tsang is an Eminent Biochar researcher at Hong Kong University of Science and Technology in HK. With 803 publications and an h-index of 161, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/daniel-cw-tsang-a5076771/"
 layout: "researcher"
 hiddenInHomeList: true

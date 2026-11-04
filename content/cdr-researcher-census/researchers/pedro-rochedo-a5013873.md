@@ -1,7 +1,7 @@
 ---
 title: "Pedro Rochedo"
 description: "Pedro Rochedo is a Senior General CDR researcher at Khalifa University of Science and Technology in AE. With 135 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/pedro-rochedo-a5013873/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,12 +50,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Papers counted in the census {#papers}
 
-17 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 17, BECCS 5. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+16 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 16, BECCS 5. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7220995682) | General CDR | 0 |
-| 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7221005949) | General CDR | 0 |
 | 2025 | [A just transition pathway for the coal industry from its ashes](https://doi.org/10.1016/j.rset.2025.100117) | BECCS; General CDR | 1 |
 | 2025 | [From Roots to Routes: Assessing Beccs Opportunities in Established Bioenergy Markets](https://doi.org/10.2139/ssrn.5384174) | BECCS; General CDR | 0 |
 | 2024 | [Industrial sector pathways to a well-below 2 °C world: A global integrated assessment perspective](https://openalex.org/W4405659024) | General CDR | 11 |

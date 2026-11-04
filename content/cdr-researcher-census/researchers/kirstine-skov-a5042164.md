@@ -1,7 +1,7 @@
 ---
 title: "Kirstine Skov"
 description: "Kirstine Skov is a Senior Enhanced Weathering researcher at UNDO Carbon Ltd in DK. With 46 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:05+00:00
 url: "/cdr-researcher-census/researchers/kirstine-skov-a5042164/"
 layout: "researcher"
 hiddenInHomeList: true

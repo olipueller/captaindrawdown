@@ -1,7 +1,7 @@
 ---
 title: "Christiana Dietzen"
 description: "Christiana Dietzen is a Mid-career Enhanced Weathering researcher at University of Copenhagen in DK. With 27 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:05+00:00
 url: "/cdr-researcher-census/researchers/christiana-dietzen-a5050210/"
 layout: "researcher"
 hiddenInHomeList: true

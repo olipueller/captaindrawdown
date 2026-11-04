@@ -1,7 +1,7 @@
 ---
 title: "Jessica Strefler"
 description: "Jessica Strefler is a Senior General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 104 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/jessica-strefler-a5056511/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,14 +50,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Papers counted in the census {#papers}
 
-21 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 21, BECCS 4, Ocean CDR 3, Biochar 1, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+20 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 20, BECCS 4, Ocean CDR 3, Biochar 1, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Carbon Dioxide Removal Supply Curves: A Multi-Model Assessment](https://openalex.org/W7164164937) | BECCS; General CDR | 0 |
 | 2026 | [Techno-economics and value judgments of modeling biochar production for carbon removal in climate change mitigation scenarios](https://openalex.org/W7203500345) | BECCS; Biochar; General CDR | 0 |
 | 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7220995682) | General CDR | 0 |
-| 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7221005949) | General CDR | 0 |
 | 2025 | [An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage](https://doi.org/10.1039/d5ee01732g) | General CDR | 54 |
 | 2025 | [Separating CO2 emission from removal targets comes with limited cost impacts](https://doi.org/10.1038/s41467-025-60606-7) | General CDR | 17 |
 | 2025 | [Ocean liming can help achieve the Paris climate target](https://doi.org/10.1088/1748-9326/adf12c) | General CDR; Ocean CDR | 4 |

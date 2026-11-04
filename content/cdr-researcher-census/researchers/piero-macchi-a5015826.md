@@ -1,7 +1,7 @@
 ---
 title: "Piero Macchi"
 description: "Piero Macchi is an Eminent Ocean CDR researcher at Politecnico di Milano in IT. With 543 publications and an h-index of 43, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/piero-macchi-a5015826/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 ## Papers counted in the census {#papers}
 
-15 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 15, General CDR 4. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+14 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 14, General CDR 4. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Bipolar Membrane Electrodialysis for Ocean Alkalinity Enhancement: Configuration feasibility and CO2 injection pathways](https://openalex.org/W7165119933) | Ocean CDR | 0 |
 | 2026 | [Regional seawater-chemistry controls on ocean alkalinity enhancement efficiency: Carbonate precipitation risk under pH-equilibrated OAE](https://openalex.org/W7172438291) | Ocean CDR | 0 |
 | 2026 | [Effects of pH-equilibrated ocean alkalinization on macro-benthic calcifiers: A mesocosm study from the port of La Spezia (Italy)](https://openalex.org/W7203484947) | General CDR; Ocean CDR | 0 |
 | 2026 | [Bipolar Membrane Electrodialysis for Ocean Alkalinity Enhancement: Configuration feasibility and CO2 injection pathways](https://openalex.org/W7213994232) | Ocean CDR | 0 |

@@ -1,7 +1,7 @@
 ---
 title: "Christopher T. Reinhard"
 description: "Christopher T. Reinhard is an Eminent General CDR researcher at Georgia Institute of Technology in US. With 287 publications and an h-index of 59, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/christopher-t-reinhard-a5061963/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Papers counted in the census {#papers}
 
-44 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 39, Enhanced Weathering 32, Soil Carbon 7, Biochar 6, Ocean CDR 6. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+43 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 38, Enhanced Weathering 32, Soil Carbon 7, Ocean CDR 6, Biochar 5. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
@@ -61,7 +61,6 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | 2026 | [Bridging time lags in durable carbon removal on working lands](https://doi.org/10.22541/essoar.175855457.77763746/v2) | Biochar; Enhanced Weathering; General CDR | 0 |
 | 2026 | [Bridging carbon removal time lags in agricultural enhanced weathering via methane emission reduction](https://openalex.org/W7162781008) | Enhanced Weathering; General CDR | 0 |
 | 2026 | [Cation trapping by biochar reduces carbon removal efficiency](https://openalex.org/W7165026700) | Biochar; General CDR | 0 |
-| 2026 | [Cation incorporation into biochar affects alkalinity-driven carbon dioxide removal accounting](https://openalex.org/W7207844370) | Biochar; General CDR | 0 |
 | 2026 | [Carbon dioxide removal through manipulation of the ocean carbonate system: Fundamentals, opportunities, and challenges](https://openalex.org/W7213891647) | General CDR; Ocean CDR | 0 |
 | 2026 | [Cation incorporation into biochar affects alkalinity-driven carbon dioxide removal accounting](https://openalex.org/W7214342687) | Biochar; General CDR | 0 |
 | 2025 | [Transforming US agriculture for carbon removal with enhanced weathering](https://doi.org/10.1038/s41586-024-08429-2) | Enhanced Weathering; General CDR | 59 |

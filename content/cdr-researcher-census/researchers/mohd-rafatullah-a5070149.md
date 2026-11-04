@@ -1,7 +1,7 @@
 ---
 title: "Mohd Rafatullah"
 description: "Mohd Rafatullah is an Eminent Biochar researcher at Prince Mohammad bin Fahd University in SA. With 299 publications and an h-index of 58, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/mohd-rafatullah-a5070149/"
 layout: "researcher"
 hiddenInHomeList: true

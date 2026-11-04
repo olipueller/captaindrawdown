@@ -1,7 +1,7 @@
 ---
 title: "Jonathan Doelman"
 description: "Jonathan Doelman is an Eminent General CDR researcher at Netherlands Environmental Assessment Agency in NL. With 175 publications and an h-index of 48, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/jonathan-doelman-a5006446/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Papers counted in the census {#papers}
 
-17 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 15, BECCS 7, Soil Carbon 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+15 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 14, BECCS 6, Soil Carbon 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
@@ -58,9 +58,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | 2026 | [Competing for land: mapping potentials and trade-offs of land-based carbon dioxideremoval under climate targets](https://doi.org/10.5194/egusphere-egu26-22823) | General CDR | 0 |
 | 2026 | [Carbon Dioxide Removal Supply Curves: A Multi-Model Assessment](https://openalex.org/W7164164937) | BECCS; General CDR | 0 |
 | 2026 | [Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment](https://openalex.org/W7211955480) | BECCS | 0 |
-| 2026 | [Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment](https://openalex.org/W7211966750) | BECCS | 0 |
 | 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7220995682) | General CDR | 0 |
-| 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7221005949) | General CDR | 0 |
 | 2025 | [Warming versus land-intensive mitigation impact on biodiversity refugia across climate policy scenarios](https://doi.org/10.5194/egusphere-egu25-9028) | BECCS; General CDR | 0 |
 | 2024 | [Reducing sectoral hard-to-abate emissions to limit reliance on carbon dioxide removal](https://doi.org/10.1038/s41558-024-02025-y) | General CDR | 112 |
 | 2024 | [Multiple pathways towards sustainable development goals and climate targets](https://doi.org/10.1088/1748-9326/ad80af) | General CDR | 40 |

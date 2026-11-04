@@ -1,7 +1,7 @@
 ---
 title: "Noah J. Planavsky"
 description: "Noah J. Planavsky is an Eminent Enhanced Weathering researcher at Yale University in US. With 538 publications and an h-index of 85, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 ## Papers counted in the census {#papers}
 
-74 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 60, General CDR 54, Soil Carbon 16, Ocean CDR 6, Biochar 6. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+72 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 59, General CDR 52, Soil Carbon 16, Ocean CDR 6, Biochar 5. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
@@ -71,7 +71,6 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | 2026 | [Bridging carbon removal time lags in agricultural enhanced weathering via methane emission reduction](https://openalex.org/W7162781008) | Enhanced Weathering; General CDR | 0 |
 | 2026 | [Cation trapping by biochar reduces carbon removal efficiency](https://openalex.org/W7165026700) | Biochar; General CDR | 0 |
 | 2026 | [Significant yield benefits from basalt soil amendments in the Southeastern US](https://openalex.org/W7202291256) | Enhanced Weathering; General CDR | 0 |
-| 2026 | [Cation incorporation into biochar affects alkalinity-driven carbon dioxide removal accounting](https://openalex.org/W7207844370) | Biochar; General CDR | 0 |
 | 2026 | [Cation incorporation into biochar affects alkalinity-driven carbon dioxide removal accounting](https://openalex.org/W7214342687) | Biochar; General CDR | 0 |
 | 2026 | [Multiple lines of evidence reveal rapid, seasonal watershed responses to enhanced weathering](https://openalex.org/W7214892934) | Enhanced Weathering | 0 |
 | 2025 | [Transforming US agriculture for carbon removal with enhanced weathering](https://doi.org/10.1038/s41586-024-08429-2) | Enhanced Weathering; General CDR | 59 |
@@ -92,7 +91,6 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | 2025 | [Harnessing <i>Cannabis sativa</i> (Hemp) for Phytoremediation and Phytomining in Agricultural Enhanced Rock Weathering (ERW) Systems](https://doi.org/10.7185/gold2025.31792) | Enhanced Weathering; Soil Carbon | 0 |
 | 2025 | [Enhanced Rock Weathering field trials at an upland grassland, Wales, UK: an assessment of carbon dioxide removal and ecological co-benefits.](https://doi.org/10.7185/gold2025.28505) | Enhanced Weathering; General CDR | 0 |
 | 2025 | [An Updated Framework and Signal-to-Noise Analysis of Soil Mass Balance Approaches for Quantifying Enhanced Weathering on Managed Lands](https://doi.org/10.1021/acs.est.5c08303) | Enhanced Weathering; General CDR | 0 |
-| 2025 | [Multiple Lines of Evidence Reveal Rapid, Seasonal Watershed Responses to Enhanced Weathering](https://doi.org/10.21203/rs.3.rs-8224816/v1) | Enhanced Weathering; General CDR | 0 |
 | 2024 | [Lithium isotopic constraints on the evolution of continental clay mineral factory and marine oxygenation in the earliest Paleozoic Era](https://doi.org/10.1126/sciadv.adk2152) | General CDR | 49 |
 | 2024 | [A tool for assessing the sensitivity of soil-based approaches for quantifying enhanced weathering: a US case study](https://doi.org/10.3389/fclim.2024.1346117) | Enhanced Weathering; General CDR | 12 |
 | 2024 | [Geospatial assessment of the cost and energy demand of feedstock grinding for enhanced rock weathering in the coterminous United States](https://doi.org/10.3389/fclim.2024.1380651) | Enhanced Weathering; General CDR | 12 |

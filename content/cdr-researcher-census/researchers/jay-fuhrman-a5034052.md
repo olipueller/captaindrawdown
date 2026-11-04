@@ -1,7 +1,7 @@
 ---
 title: "Jay Fuhrman"
 description: "Jay Fuhrman is a Mid-career General CDR researcher at Joint Global Change Research Institute in US. With 69 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:05+00:00
 url: "/cdr-researcher-census/researchers/jay-fuhrman-a5034052/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Papers counted in the census {#papers}
 
-32 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 31, DAC 12, BECCS 3, Ocean CDR 3, Soil Carbon 1, Biochar 1, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+31 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 30, DAC 12, BECCS 3, Ocean CDR 3, Soil Carbon 1, Biochar 1, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
@@ -61,7 +61,6 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | 2026 | [Ambitious Co-scaling of Carbon Dioxide Removal and Decarbonization Delivers Better Climate Outcomes Than Strategies That Prioritize Efforts in One Domain](https://openalex.org/W7167049809) | General CDR | 0 |
 | 2026 | [Carbon dioxide removal consistent with climate pledges: a multi-model assessment of regional potential](https://openalex.org/W7213337866) | Biochar; Enhanced Weathering; General CDR | 0 |
 | 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7220995682) | General CDR | 0 |
-| 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7221005949) | General CDR | 0 |
 | 2025 | [Applying equity principles leads to higher carbon removal obligations in Canada](https://doi.org/10.1038/s43247-025-02080-z) | DAC; General CDR | 7 |
 | 2025 | [Asymmetric Electrosorption in a Bio‐Inspired Reactor Enables Energy Efficient Ocean Carbon Removal](https://doi.org/10.1002/anie.202515007) | General CDR; Ocean CDR | 4 |
 | 2025 | [Separate sectoral decarbonization policies accelerate climate action but could jeopardize key sustainability targets](https://doi.org/10.31223/x5g44n) | General CDR | 0 |

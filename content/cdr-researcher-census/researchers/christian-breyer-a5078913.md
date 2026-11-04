@@ -1,7 +1,7 @@
 ---
 title: "Christian Breyer"
 description: "Christian Breyer is an Eminent General CDR researcher at Lappeenranta-Lahti University of Technology in FI. With 395 publications and an h-index of 92, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/christian-breyer-a5078913/"
 layout: "researcher"
 hiddenInHomeList: true

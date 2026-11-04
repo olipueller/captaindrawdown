@@ -1,7 +1,7 @@
 ---
 title: "Meththika Vithanage"
 description: "Meththika Vithanage is an Eminent Biochar researcher at University of Sri Jayewardenepura in LK. With 517 publications and an h-index of 93, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/meththika-vithanage-a5053693/"
 layout: "researcher"
 hiddenInHomeList: true

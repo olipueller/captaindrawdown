@@ -1,7 +1,7 @@
 ---
 title: "Göran Berndes"
 description: "Göran Berndes is an Eminent General CDR researcher at Chalmers University of Technology in SE. With 258 publications and an h-index of 52, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/goran-berndes-a5088119/"
 layout: "researcher"
 hiddenInHomeList: true

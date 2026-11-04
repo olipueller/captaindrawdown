@@ -1,7 +1,7 @@
 ---
 title: "Matthew Gidden"
 description: "Matthew Gidden is a Senior General CDR researcher at Climate Analytics in DE. With 200 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T19:00:10+00:00
+date: 2026-11-04T19:19:04+00:00
 url: "/cdr-researcher-census/researchers/matthew-gidden-a5012881/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Papers counted in the census {#papers}
 
-41 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 41, DAC 5, Biochar 1, Enhanced Weathering 1, BECCS 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+40 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: General CDR 40, DAC 5, Biochar 1, Enhanced Weathering 1, BECCS 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
@@ -68,7 +68,6 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | 2026 | [Carbon dioxide removal consistent with climate pledges: a multi-model assessment of regional potential](https://openalex.org/W7213337866) | Biochar; Enhanced Weathering; General CDR | 0 |
 | 2026 | [Assessing Earth system responses in mitigation scenarios with activity-driven simulation of carbon dioxide removal](https://openalex.org/W7214319721) | General CDR | 0 |
 | 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7220995682) | General CDR | 0 |
-| 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7221005949) | General CDR | 0 |
 | 2025 | [A prudent planetary limit for geologic carbon storage](https://doi.org/10.1038/s41586-025-09423-y) | General CDR | 85 |
 | 2025 | [Scientific literature on carbon dioxide removal revealed as much larger through AI-enhanced systematic mapping](https://doi.org/10.1038/s41467-025-61485-8) | General CDR | 20 |
 | 2025 | [Considering durability in carbon dioxide removal strategies for climate change mitigation](https://doi.org/10.1080/14693062.2025.2501267) | General CDR | 15 |
