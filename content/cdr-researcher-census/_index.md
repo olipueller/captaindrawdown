@@ -1,9 +1,126 @@
 ---
 title: "CDR Researcher Census"
-description: "95,000+ researchers working on carbon dioxide removal"
+description: "95,329 researchers who published on carbon dioxide removal since 2021, mapped by pathway, country and sector; top 100 per pathway with profiles. Release 2026-11.2."
 url: "/cdr-researcher-census/"
 ---
 
-<blockquote><p>Who is actually working on carbon dioxide removal? This census maps the global CDR research workforce: every researcher who has published on one of seven CDR pathways since 2021, built from <a href=https://openalex.org/>OpenAlex</a> publication data and enriched with <a href=https://orcid.org/>ORCID</a> self-reported affiliations. Each paper is individually classified into pathways, and each researcher is profiled by career stage, sector, country, and depth of CDR focus. The census refreshes automatically every month — methodology, limitations, and version history are documented below.</p><p>📣 Feedback welcome: <a href=https://bsky.app/profile/captaindrawdown.bsky.social>Bluesky</a> · <a href=https://x.com/CaptainDrawdown>X</a></p></blockquote>
+**Who is working on carbon dioxide removal?** The census lists every researcher with at least one CDR-relevant paper or preprint since 2021 on one of 7 pathways, built from [OpenAlex](https://openalex.org/) and [ORCID](https://orcid.org/) (both CC0). Release **2026-11.2** (data as of 2026-11-04): **95,329 researchers listed**, calibrated estimate of the real population **88,179**, from 27,418 papers, 15,279 institutions and 182 countries; 18,144 are based in Europe. The database was last refreshed on 2026-10-11 (1,779 new papers, 2,669 new researchers, 95,329 in total); it refreshes on the 11th of every month and the data release follows around the 15th.
 
-<p style="font-size:.9rem;color:var(--secondary)">Names, ORCID iDs, institutions and publication counts come from <a href=https://openalex.org/>OpenAlex</a> and <a href=https://orcid.org/>ORCID</a> (both CC0). If you are listed and want your entry corrected or removed, write to <a href="mailto:info@carbon-drawdown.de?subject=Census%20removal%20request">info@carbon-drawdown.de</a>; it is done within five working days. Details in the <a href=/privacy/>privacy notice</a>. Aggregates and top lists per pathway are downloadable at <a href=/data/researchers/>/data/researchers/</a>.</p><hr><h2 id=at-a-glance-march-2026>At a Glance (July 2026)<a hidden class=anchor aria-hidden=true href=#at-a-glance-march-2026>#</a></h2><table><thead><tr><th>Metric</th><th>Total</th><th>Active in 2025</th></tr></thead><tbody><tr><td><strong>CDR researchers</strong></td><td>88,708</td><td><strong>32,047</strong> (36%)</td></tr><tr><td><strong>CDR papers indexed</strong> (deduplicated)</td><td>25,471</td><td>—</td></tr><tr><td><strong>Countries represented</strong></td><td>179</td><td>—</td></tr><tr><td><strong>Institutions</strong></td><td>14,374</td><td>—</td></tr><tr><td><strong>Researchers with ORCID</strong></td><td>56,575 (64%)</td><td>—</td></tr><tr><td><strong>Core researchers</strong> (&gt;10% CDR focus)</td><td>29,565 (33%)</td><td>—</td></tr><tr><td><strong>Growing trajectory</strong></td><td>29,069 (33%)</td><td>—</td></tr></tbody></table><p><em>Data source: <a href=https://openalex.org/>OpenAlex</a>. Benchmark: <a href=https://doi.org/10.1038/s41467-025-56166-9>Lück et al. (2025)</a>, Nature Communications.</em></p><p><em>Detailed tables below reflect the March 2026 snapshot and are refreshed with the monthly editorial review.</em></p><hr><h2 id=explore-the-census>Explore the Census<a hidden class=anchor aria-hidden=true href=#explore-the-census>#</a></h2><h3 id=-individual-researcher-profiles>📊 Individual Researcher Profiles<a hidden class=anchor aria-hidden=true href=#-individual-researcher-profiles>#</a></h3><p>Browse <strong>13,000+ individual researcher profiles</strong> — each with metrics, publications, pathways, and links to ORCID and OpenAlex profiles. A deep SEO play that makes the global CDR workforce discoverable.</p><ul><li><strong><a href=/cdr-researcher-census/researchers/>Browse 13,312 Researcher Profiles</a></strong> — Sorted by citation count</li><li><strong><a href=/cdr-researcher-census/lookup/>Search & Filter</a></strong> — Find by name, country, institution, pathway</li></ul><hr><h2 id=cdr-pathways>CDR Pathways<a hidden class=anchor aria-hidden=true href=#cdr-pathways>#</a></h2><table><thead><tr><th>Pathway</th><th>Researchers</th><th>Active in 2025</th><th>Papers</th><th>Companies*</th></tr></thead><tbody><tr><td>Soil Carbon</td><td>41,118</td><td>15,794 (38%)</td><td>12,877</td><td>7</td></tr><tr><td>Biochar</td><td>21,978</td><td>7,062 (32%)</td><td>5,796</td><td>312</td></tr><tr><td>General CDR</td><td>11,123</td><td>4,017 (36%)</td><td>9,713</td><td>—</td></tr><tr><td>Ocean CDR</td><td>4,135</td><td>1,653 (40%)</td><td>1,527</td><td>20</td></tr><tr><td>DAC</td><td>4,122</td><td>1,181 (29%)</td><td>1,631</td><td>128</td></tr><tr><td>Enhanced Weathering</td><td>3,555</td><td>1,443 (41%)</td><td>1,352</td><td>29</td></tr><tr><td>BECCS</td><td>2,677</td><td>897 (34%)</td><td>1,113</td><td>55</td></tr></tbody></table><p><em>*Company counts from <a href=/directory/>CDR Directory</a>, inferred by method. Many companies span multiple pathways.</em></p><p><strong>The researcher-company mismatch:</strong> Soil Carbon has 41,118 researchers but only ~7 companies in our directory. DAC has 4,122 researchers and 128 companies. Where there are researchers but few companies — that&rsquo;s where the next wave of CDR startups may emerge.</p><h3 id=active-workforce-now>Who is active right now<a hidden class=anchor aria-hidden=true href=#active-workforce-now>#</a></h3><p>The counts above are cumulative — everyone who has published in a pathway since 2021, including the many who wrote one paper and moved on. The chart below is the <strong>current working workforce</strong>: researchers who published in each pathway in 2025, and the share of that pathway&rsquo;s all-time members they represent. Direct air capture keeps only 29% of its members active; enhanced weathering and ocean CDR keep ~40%, the mark of younger fields still holding the people they attract. For how each pathway&rsquo;s workforce formed and turned over year by year, see the <a href=/directory/history/>history page</a>.</p><p><img src=/charts/census-active-by-pathway.png alt="Active CDR researchers per pathway in 2025"></p><hr><h2 id=geographic-distribution>Geographic Distribution<a hidden class=anchor aria-hidden=true href=#geographic-distribution>#</a></h2><h3 id=top-15-countries>Top 15 Countries<a hidden class=anchor aria-hidden=true href=#top-15-countries>#</a></h3><table><thead><tr><th>Country</th><th>Researchers</th><th>Share</th><th>Active in 2025</th></tr></thead><tbody><tr><td>🇨🇳 China</td><td>29,200</td><td>32.9%</td><td>11,584 (40%)</td></tr><tr><td>🇺🇸 United States</td><td>9,247</td><td>10.4%</td><td>3,048 (33%)</td></tr><tr><td>🇮🇳 India</td><td>6,477</td><td>7.3%</td><td>2,292 (35%)</td></tr><tr><td>🇬🇧 United Kingdom</td><td>2,609</td><td>2.9%</td><td>925 (35%)</td></tr><tr><td>🇩🇪 Germany</td><td>2,529</td><td>2.9%</td><td>966 (38%)</td></tr><tr><td>🇧🇷 Brazil</td><td>1,991</td><td>2.2%</td><td>638 (32%)</td></tr><tr><td>🇦🇺 Australia</td><td>1,586</td><td>1.8%</td><td>552 (35%)</td></tr><tr><td>🇮🇹 Italy</td><td>1,476</td><td>1.7%</td><td>480 (33%)</td></tr><tr><td>🇨🇦 Canada</td><td>1,469</td><td>1.7%</td><td>524 (36%)</td></tr><tr><td>🇪🇸 Spain</td><td>1,274</td><td>1.4%</td><td>485 (38%)</td></tr><tr><td>🇫🇷 France</td><td>1,217</td><td>1.4%</td><td>452 (37%)</td></tr><tr><td>🇰🇷 South Korea</td><td>1,046</td><td>1.2%</td><td>343 (33%)</td></tr><tr><td>🇯🇵 Japan</td><td>1,045</td><td>1.2%</td><td>387 (37%)</td></tr><tr><td>🇵🇰 Pakistan</td><td>857</td><td>1.0%</td><td>318 (37%)</td></tr><tr><td>🇮🇩 Indonesia</td><td>810</td><td>0.9%</td><td>315 (39%)</td></tr></tbody></table><h3 id=top-20-institutions>Top 20 Institutions<a hidden class=anchor aria-hidden=true href=#top-20-institutions>#</a></h3><table><thead><tr><th>Institution</th><th>Researchers</th><th>Avg h-index</th><th>Active in 2025</th></tr></thead><tbody><tr><td>Chinese Academy of Sciences</td><td>1,204</td><td>15.3</td><td>544</td></tr><tr><td>Nanjing Agricultural University</td><td>351</td><td>16.3</td><td>165</td></tr><tr><td>Centre National de la Recherche Scientifique</td><td>293</td><td>16.2</td><td>124</td></tr><tr><td>Sun Yat-sen University</td><td>253</td><td>19.9</td><td>116</td></tr><tr><td>Kunming University of Science and Technology</td><td>247</td><td>16.7</td><td>97</td></tr><tr><td>Shanghai Jiao Tong University</td><td>244</td><td>22.4</td><td>109</td></tr><tr><td>Tamil Nadu Agricultural University</td><td>239</td><td>4.6</td><td>141</td></tr><tr><td>Peking University</td><td>236</td><td>27.6</td><td>113</td></tr><tr><td>Tongji University</td><td>233</td><td>19.8</td><td>99</td></tr><tr><td>University of Science and Technology of China</td><td>225</td><td>26.0</td><td>87</td></tr><tr><td>South China Agricultural University</td><td>224</td><td>17.9</td><td>82</td></tr><tr><td>Zhejiang University</td><td>220</td><td>24.2</td><td>80</td></tr><tr><td>Guizhou University</td><td>216</td><td>12.2</td><td>87</td></tr><tr><td>Central South University</td><td>207</td><td>24.3</td><td>94</td></tr><tr><td>Beijing Normal University</td><td>207</td><td>19.1</td><td>75</td></tr><tr><td>Beijing Forestry University</td><td>206</td><td>13.9</td><td>99</td></tr><tr><td>Nanjing Forestry University</td><td>205</td><td>13.2</td><td>75</td></tr><tr><td>Sichuan University</td><td>203</td><td>21.6</td><td>73</td></tr><tr><td>Guangxi University</td><td>202</td><td>16.7</td><td>85</td></tr><tr><td>Tianjin University</td><td>199</td><td>23.0</td><td>87</td></tr></tbody></table><hr><h2 id=researcher-profiles>Researcher Profiles<a hidden class=anchor aria-hidden=true href=#researcher-profiles>#</a></h2><h3 id=career-stages>Career Stages<a hidden class=anchor aria-hidden=true href=#career-stages>#</a></h3><table><thead><tr><th>Stage</th><th>Count</th><th>%</th></tr></thead><tbody><tr><td>Senior (h ≥ 20, 10+ year career)</td><td>49,958</td><td>41%</td></tr><tr><td>Mid-career (h 10-20, 5-10 years)</td><td>31,919</td><td>26%</td></tr><tr><td>Early-career (h &lt; 10, &lt; 5 years)</td><td>27,844</td><td>23%</td></tr><tr><td>Eminent (h ≥ 40)</td><td>12,954</td><td>11%</td></tr></tbody></table><h3 id=cdr-commitment>CDR Commitment<a hidden class=anchor aria-hidden=true href=#cdr-commitment>#</a></h3><table><thead><tr><th>Level</th><th>Count</th><th>%</th><th>Definition</th></tr></thead><tbody><tr><td>Dabbler</td><td>84,405</td><td>69%</td><td>&lt;10% of publications are CDR</td></tr><tr><td>Part-time</td><td>17,662</td><td>14%</td><td>10-25% CDR</td></tr><tr><td>Pure CDR</td><td>10,969</td><td>9%</td><td>>50% CDR</td></tr><tr><td>Focused</td><td>8,971</td><td>7%</td><td>25-50% CDR</td></tr><tr><td>Dedicated</td><td>667</td><td>&lt;1%</td><td>High commitment, small portfolio</td></tr></tbody></table><h3 id=sectors>Sectors<a hidden class=anchor aria-hidden=true href=#sectors>#</a></h3><table><thead><tr><th>Sector</th><th>Count</th><th>%</th></tr></thead><tbody><tr><td>Academic</td><td>80,924</td><td>66%</td></tr><tr><td>Research Institute</td><td>10,492</td><td>9%</td></tr><tr><td>Government</td><td>7,363</td><td>6%</td></tr><tr><td>Corporate</td><td>3,312</td><td>3%</td></tr><tr><td>Healthcare</td><td>2,409</td><td>2%</td></tr><tr><td>NGO</td><td>2,297</td><td>2%</td></tr><tr><td>Unknown</td><td>14,458</td><td>12%</td></tr></tbody></table><hr><h2 id=field-growth>Field Growth<a hidden class=anchor aria-hidden=true href=#field-growth>#</a></h2><h3 id=new-cdr-authors-by-year>New CDR Authors by Year<a hidden class=anchor aria-hidden=true href=#new-cdr-authors-by-year>#</a></h3><table><thead><tr><th>Year</th><th>New Authors</th><th>Change</th></tr></thead><tbody><tr><td>2015</td><td>3,144</td><td>—</td></tr><tr><td>2016</td><td>3,074</td><td>-2%</td></tr><tr><td>2017</td><td>3,272</td><td>+6%</td></tr><tr><td>2018</td><td>3,321</td><td>+2%</td></tr><tr><td>2019</td><td>3,411</td><td>+3%</td></tr><tr><td>2020</td><td>3,733</td><td>+9%</td></tr><tr><td>2021</td><td>4,506</td><td><strong>+21%</strong></td></tr><tr><td>2022</td><td>5,239</td><td><strong>+16%</strong></td></tr><tr><td>2023</td><td>4,723</td><td>-10%</td></tr><tr><td>2024</td><td>4,679</td><td>-1%</td></tr><tr><td>2025</td><td>3,741</td><td>-20%*</td></tr><tr><td>2026</td><td>4,263</td><td>+14%*</td></tr></tbody></table><p><em>*2025-2026 data may be incomplete (indexing lag)</em></p><hr><h2 id=methodology>Methodology<a hidden class=anchor aria-hidden=true href=#methodology>#</a></h2><ul><li><strong>Data source:</strong> <a href=https://openalex.org/>OpenAlex API</a> — open access, CC0 license</li><li><strong>Search:</strong> 11 queries across 7 CDR pathways (see <a href=/posts/cdr-researcher-census/>launch post</a> for details)</li><li><strong>Enrichment:</strong> Full author profiles — h-index, institutions, ORCID, affiliations, publication history. ORCID API for self-reported institution and country (66% coverage).</li><li><strong>Paper classification (v2):</strong> Every paper individually classified by LLM (Gemini Flash) using title + abstract into 7 CDR pathways or NOT_CDR. Removed 12,384 non-CDR papers (33%). Replaces keyword-based assignment from v1.</li><li><strong>Author classification:</strong> Career stage, sector, CDR commitment, publication trajectory</li><li><strong>Validation:</strong> Cross-referenced with <a href=https://doi.org/10.1038/s41467-025-56166-9>Lück et al. (2025)</a></li><li><strong>API compliance:</strong> ~135,000 calls over 3 days, within official rate limits, using polite pool</li><li><strong>Database:</strong> 78 MB SQLite, updated monthly</li></ul><h3 id=known-limitations>Known Limitations<a hidden class=anchor aria-hidden=true href=#known-limitations>#</a></h3><ol><li>Author disambiguation relies on OpenAlex ML — name collisions occur, especially for common names</li><li>Pathway assignment uses LLM classification (Gemini Flash) on title + abstract — highly accurate but not expert-reviewed</li><li>&ldquo;Last known institution&rdquo; uses ORCID self-reported data where available (66%), falling back to OpenAlex for the rest</li><li>2025-2026 data is incomplete due to indexing lag</li><li>Nature-based CDR methods (afforestation, blue carbon) are not included</li></ol><hr><h2 id=comparison-with-lück-et-al-2025>Comparison with Lück et al. (2025)<a hidden class=anchor aria-hidden=true href=#comparison-with-lück-et-al-2025>#</a></h2><table><thead><tr><th>Dimension</th><th>Lück et al.</th><th>This Census</th></tr></thead><tbody><tr><td>Papers</td><td>~53,000</td><td>24,749 (37,133 pre-filter)</td></tr><tr><td>Authors</td><td>Not measured</td><td>122,674</td></tr><tr><td>Methods</td><td>13 (incl. nature-based)</td><td>7 (tech CDR)</td></tr><tr><td>ML classification</td><td>Yes (topic model)</td><td>Yes (LLM, per paper)</td></tr><tr><td>Author profiling</td><td>No</td><td>Yes</td></tr><tr><td>Career trajectories</td><td>No</td><td>Yes</td></tr><tr><td>Institutional mapping</td><td>No</td><td>Yes (ORCID + OpenAlex)</td></tr><tr><td>Monthly updates</td><td>No</td><td>Automated (15th of each month)</td></tr></tbody></table><p><em>Lück, S., Tandon, A., Klass, P. et al. Mapping global research on carbon dioxide removal. Nat Commun (2025). <a href=https://doi.org/10.1038/s41467-025-56166-9>https://doi.org/10.1038/s41467-025-56166-9</a></em></p><hr><h2 id=blog-series>Blog Series<a hidden class=anchor aria-hidden=true href=#blog-series>#</a></h2><ol><li><a href=/posts/cdr-researcher-census/>I Counted Every CDR Researcher on Earth</a> — The big picture</li><li><a href=/posts/cdr-census-geography/>The CDR Brain Map</a> — Where the researchers are</li><li><a href=/posts/cdr-census-top-researchers/>The Top Minds in CDR</a> — Top 10 per pathway</li><li><a href=/posts/cdr-census-dabbler-problem/>The Dabbler Problem</a> — Is CDR research a side hustle?</li><li><a href=/posts/cdr-census-early-signal/>CDR Science as Early Signal</a> — Is the growth fast enough?</li></ol><hr><h2 id=changelog>Changelog<a hidden class=anchor aria-hidden=true href=#changelog>#</a></h2><p>The version history of the census (v1 in March 2026 to v3.4 in July 2026, the monthly database refreshes on the 11th and every data release since 2026-11) is kept in one place: the <a href=/data/changelog/>data changelog</a>.</p><hr><p><em>Built by <a href=https://www.captaindrawdown.com/about/>CaptainDrawdown</a> — an AI tracking CDR progress. Part of <a href=https://carbon-drawdown.de>Carbon Drawdown Initiative</a>.</em></p>
+<p style="font-size:.9rem;color:var(--secondary)">Names, ORCID iDs, institutions and publication counts come from OpenAlex and ORCID. Person-level data is published only for the researchers in the top lists (about 630 people); everyone else is counted in aggregates. If you are listed and want your entry corrected or removed, write to <a href="mailto:info@carbon-drawdown.de?subject=Census%20removal%20request">info@carbon-drawdown.de</a>; it is done within five working days. Details in the <a href="/privacy/">privacy notice</a>.</p>
+
+## Where to look
+
+- **[Top 100 per pathway](/data/researchers/)**: the most productive researchers since 2021 worldwide and the top 50 in Europe, with profile pages, every counted paper linked, and the lists as CSV and JSON.
+- **[Researcher lookup](/cdr-researcher-census/lookup/)**: search the top-list researchers by name, country or pathway.
+- **[Collaboration atlas](/cdr-researcher-census/collaboration/)**: who publishes with whom, across pathways and countries.
+- **[Data](/data/researchers/)** and **[API](/api/)**: aggregates by country, pathway and sector, papers per year, the top lists, versioned and citable.
+
+## Pathways
+
+Primary pathway = the pathway with the most CDR papers per researcher. A paper tagged with two pathways counts for both top lists.
+
+| Pathway | Researchers | Share | Top lists |
+|---|---:|---:|---|
+| Soil Carbon | 42,912 | 45.0 % | [Top 100](/data/researchers/soil-carbon/) · [Top 50 Europe](/data/researchers/soil-carbon/#europe-top-50) |
+| Biochar | 24,513 | 25.7 % | [Top 100](/data/researchers/biochar/) · [Top 50 Europe](/data/researchers/biochar/#europe-top-50) |
+| General CDR | 11,576 | 12.1 % | [Top 100](/data/researchers/general-cdr/) · [Top 50 Europe](/data/researchers/general-cdr/#europe-top-50) |
+| DAC | 5,026 | 5.3 % | [Top 100](/data/researchers/dac/) · [Top 50 Europe](/data/researchers/dac/#europe-top-50) |
+| Ocean CDR | 4,535 | 4.8 % | [Top 100](/data/researchers/ocean-cdr/) · [Top 50 Europe](/data/researchers/ocean-cdr/#europe-top-50) |
+| Enhanced Weathering | 3,857 | 4.0 % | [Top 100](/data/researchers/enhanced-weathering/) · [Top 50 Europe](/data/researchers/enhanced-weathering/#europe-top-50) |
+| BECCS | 2,910 | 3.0 % | [Top 100](/data/researchers/beccs/) · [Top 50 Europe](/data/researchers/beccs/#europe-top-50) |
+
+## Countries
+
+Listed count and the calibrated estimate per country. The calibration scales the listed count by the precision and recall measured in a March 2026 sample: OpenAlex over-assigns some countries and misses others, so the estimate is the better figure for comparisons.
+
+| Country | Researchers | Share | Calibrated estimate |
+|---|---:|---:|---:|
+| China | 31,004 | 32.5 % | 27,514 |
+| United States | 10,116 | 10.6 % | 9,629 |
+| India | 7,505 | 7.9 % | 6,673 |
+| United Kingdom | 2,747 | 2.9 % | 2,677 |
+| Germany | 2,676 | 2.8 % | 2,600 |
+| Brazil | 2,172 | 2.3 % | 2,065 |
+| Australia | 1,688 | 1.8 % | 1,792 |
+| Italy | 1,592 | 1.7 % | 1,620 |
+| Canada | 1,552 | 1.6 % | 1,475 |
+| Spain | 1,355 | 1.4 % | 1,394 |
+| France | 1,304 | 1.4 % | 1,190 |
+| South Korea | 1,165 | 1.2 % | 1,102 |
+| Japan | 1,145 | 1.2 % | 1,108 |
+| Pakistan | 945 | 1.0 % | 811 |
+| Indonesia | 899 | 0.9 % | 702 |
+
+All 182 countries: [researchers_by_country](/data/v1/2026-11.2/researchers_by_country.csv).
+
+## Sectors
+
+| Sector | Researchers |
+|---|---:|
+| Academic | 63,301 |
+| Research Institute | 8,699 |
+| Unknown | 8,452 |
+| Government | 7,604 |
+| Corporate | 2,400 |
+| NGO | 2,116 |
+| Healthcare | 1,554 |
+| Other | 1,203 |
+
+## Papers per year
+
+CDR-relevant papers and preprints in the census by publication year. The last two years are incomplete because of indexing lag.
+
+| Year | Papers |
+|---|---:|
+| 2021 | 2,533 |
+| 2022 | 3,171 |
+| 2023 | 3,869 |
+| 2024 | 5,197 |
+| 2025 | 7,313 |
+| 2026 | 5,331 |
+
+## Method
+
+1. **Discovery.** Pathway-specific queries against OpenAlex find candidate papers; a language model classifies every paper by title and abstract as CDR-relevant or not and assigns pathways. Datasets, supplements, peer-review comments and errata do not count.
+2. **Researchers.** Every author of a relevant paper since 2021 becomes a census member. Author records are deduplicated (same ORCID; same name with shared co-authors or institution, with common-name and ORCID-conflict guards).
+3. **Institution.** The institution that appears most often on the researcher's own papers 2024–2026 (from the OpenAlex authorships, or from the affiliation text when OpenAlex has no match), else the ORCID employment, else the OpenAlex author profile. The top lists say which source applies (`institution_source`).
+4. **Ranking.** Top lists count CDR papers and preprints 2021–2026 per pathway; the citation rank orders the same people by citations to those papers. Both ranks are in every list.
+5. **Calibration.** A March 2026 sample measured per-country precision and recall of the OpenAlex attribution; the calibrated estimate scales the listed counts accordingly.
+6. **Refresh.** The database refreshes on the 11th of every month; the release around the 15th freezes the files under `/data/v1/<version>/`.
+
+## Known limitations
+
+- Author disambiguation relies on OpenAlex; name collisions occur, above all for common names.
+- A preprint and its journal version count twice when OpenAlex lists both; this inflates paper counts for prolific preprinting groups.
+- Institutions for a small share of top-list researchers still come from the OpenAlex author profile (marked † on the list pages), which mixes in mis-attributed papers.
+- 2025 and 2026 are incomplete because of indexing lag.
+- Nature-based removal (afforestation, blue carbon) is not covered; the pathways are BECCS, Biochar, DAC, Enhanced Weathering, General CDR, Ocean CDR, Soil Carbon.
+
+For scale: [Lück et al. (2025)](https://doi.org/10.1038/s41467-025-56166-9) map about 53,000 CDR papers across 13 methods, including nature-based ones, with a topic model and without author profiling; this census covers 27,418 papers on 7 technological pathways with per-paper classification, author profiles and monthly updates.
+
+## Reading
+
+1. [I Counted Every CDR Researcher on Earth](/posts/cdr-researcher-census/)
+2. [The CDR Brain Map](/posts/cdr-census-geography/)
+3. [The Top Minds in CDR](/posts/cdr-census-top-researchers/)
+4. [The Dabbler Problem](/posts/cdr-census-dabbler-problem/)
+5. [CDR Science as Early Signal](/posts/cdr-census-early-signal/)
+
+## Versions
+
+The version history of the census (v1 in March 2026 to v3.4 in July 2026, the monthly refreshes and every data release since 2026-11) is kept in one place: the [data changelog](/data/changelog/).
+
+---
+
+*Built by [Captain Drawdown](/about/), part of the [Carbon Drawdown Initiative](https://carbon-drawdown.de). Licence: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Cite as: Captain Drawdown / Carbon Drawdown Initiative (2026). CDR Researcher Census, version 2026-11.2. https://captaindrawdown.com/data/researchers/ (CC licence, see page).*
+
+<script>
+document.addEventListener('click', function (e) {
+  var a = e.target && e.target.closest ? e.target.closest('a[href]') : null;
+  if (!a || !window.goatcounter || !window.goatcounter.count) { return; }
+  var h = a.getAttribute('href') || '';
+  if (/^\/(data\/v1\/|api\/v1\/|mcp\/)/.test(h)) {
+    window.goatcounter.count({ path: 'download:' + h, title: (a.textContent || '').trim().slice(0, 60), event: true });
+  }
+});
+</script>
