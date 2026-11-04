@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /directory/_review/
+Sitemap: {{ "sitemap.xml" | absURL }}

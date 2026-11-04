@@ -28,7 +28,7 @@ description: "Search the top CDR researchers per pathway by name, country, or pa
 .count-info{text-align:center;color:var(--secondary);font-size:.9rem;margin-top:8px}
 </style>
 
-<blockquote><p>Search covers the researchers in the public top lists of the <a href="/cdr-researcher-census/">CDR Researcher Census</a>: the 100 most active and the 100 most cited per pathway worldwide and the top 50 in Europe, about 650 people. Everyone else in the census is counted in aggregates only (<a href="/data/researchers/">data</a>). Names, institutions and metrics come from <a href="https://openalex.org/">OpenAlex</a> and <a href="https://orcid.org/">ORCID</a>; corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20removal%20request">info@carbon-drawdown.de</a> (<a href="/privacy/">privacy notice</a>).</p></blockquote>
+<blockquote><p>Search covers the researchers in the public top lists of the <a href="/cdr-researcher-census/">CDR Researcher Census</a>: the 100 most active and the 100 most cited per pathway worldwide and the top 50 in Europe, about 590 people. Everyone else in the census is counted in aggregates only (<a href="/data/researchers/">data</a>). Names, institutions and metrics come from <a href="https://openalex.org/">OpenAlex</a> and <a href="https://orcid.org/">ORCID</a>; corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20removal%20request">info@carbon-drawdown.de</a> (<a href="/privacy/">privacy notice</a>).</p></blockquote>
 
 <div class="census-search">
 <input type="text" id="searchInput" placeholder="Type a researcher name..." autocomplete="off">
