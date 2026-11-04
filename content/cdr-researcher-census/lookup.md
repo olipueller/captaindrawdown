@@ -1,158 +1,64 @@
 ---
-title: "Researcher Lookup"
-description: "Search the top CDR researchers per pathway by name, country, or pathway"
+title: "Researcher lookup"
+description: "Find a researcher in the public top lists of the CDR Researcher Census by name, with a link to the profile page."
+url: "/cdr-researcher-census/lookup/"
+wide: false
 ---
 
-<style>
-.census-search{max-width:700px;margin:2rem auto}
-.census-search input{width:100%;padding:14px 18px;font-size:1.1rem;border:2px solid var(--border);border-radius:8px;background:var(--code-bg);color:var(--primary);outline:none}
-.census-search input:focus{border-color:var(--primary)}
-.census-search input::placeholder{color:var(--secondary)}
-.results{margin-top:1rem}
-.result-item{padding:12px 16px;border-bottom:1px solid var(--border);cursor:pointer;display:flex;justify-content:space-between;align-items:center}
-.result-item:hover{background:var(--code-bg)}
-.result-name{font-weight:600}
-.result-meta{font-size:.85rem;color:var(--secondary)}
-.result-h{background:var(--code-bg);padding:2px 8px;border-radius:4px;font-size:.8rem;white-space:nowrap}
-.profile-card{max-width:700px;margin:2rem auto;border:1px solid var(--border);border-radius:12px;padding:24px;background:var(--code-bg)}
-.profile-card h2{margin-top:0}
-.profile-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px 24px;margin:16px 0}
-.profile-label{color:var(--secondary);font-size:.85rem}
-.profile-value{font-weight:500}
-.back-link{cursor:pointer;color:var(--primary);margin-bottom:1rem;display:inline-block}
-.tier-badge{display:inline-block;padding:2px 8px;border-radius:4px;font-size:.75rem;font-weight:600;margin-left:4px}
-.tier-verified{background:#22c55e22;color:#22c55e}
-.tier-confirmed{background:#3b82f622;color:#3b82f6}
-.tier-estimated{background:#f59e0b22;color:#f59e0b}
-.tier-incomplete{background:#6b728022;color:#6b7280}
-.count-info{text-align:center;color:var(--secondary);font-size:.9rem;margin-top:8px}
-</style>
+Search covers the researchers in the public top lists of the [CDR Researcher Census](/cdr-researcher-census/): the 100 most active and the 100 most cited per pathway worldwide and the 50 of each in Europe, about 590 people with a profile page. Everyone else in the census is counted in aggregates only ([data](/data/researchers/)). Names, institutions and metrics come from [OpenAlex](https://openalex.org/) and [ORCID](https://orcid.org/); corrections and removal: [info@carbon-drawdown.de](mailto:info@carbon-drawdown.de?subject=Census%20correction) ([privacy notice](/privacy/)).
 
-<blockquote><p>Search covers the researchers in the public top lists of the <a href="/cdr-researcher-census/">CDR Researcher Census</a>: the 100 most active and the 100 most cited per pathway worldwide and the top 50 in Europe, about 590 people. Everyone else in the census is counted in aggregates only (<a href="/data/researchers/">data</a>). Names, institutions and metrics come from <a href="https://openalex.org/">OpenAlex</a> and <a href="https://orcid.org/">ORCID</a>; corrections and removal: <a href="mailto:info@carbon-drawdown.de?subject=Census%20removal%20request">info@carbon-drawdown.de</a> (<a href="/privacy/">privacy notice</a>).</p></blockquote>
-
-<div class="census-search">
-<input type="text" id="searchInput" placeholder="Type a researcher name..." autocomplete="off">
-<div class="count-info" id="countInfo">Loading researcher profiles...</div>
-<div class="results" id="results">&nbsp;</div>
+<div class="cd-lookup">
+<label class="cd-lookup-label" for="searchInput">Name</label>
+<input type="search" id="searchInput" placeholder="Start typing a name, e.g. Planavsky" autocomplete="off" spellcheck="false">
+<p class="cd-count" id="countInfo" aria-live="polite">Loading the index…</p>
+<ol class="cd-results" id="results" aria-live="polite"></ol>
 </div>
-<div id="profileView" style="display:none">&nbsp;</div>
 
 <script>
-let searchData=[], searchReady=false;
-
-fetch("/data/census/search-index.txt?v=20261104")
-  .then(r => r.text())
-  .then(txt => {
-    searchData = txt.trim().split("\n").map(line => {
-      const [name, id, country, pathway, h, tier] = line.split("|");
-      return { name, id, country: country||"", pathway: pathway||"", h: parseInt(h)||0, tier: tier||"" };
+(function () {
+  let rows = [], ready = false;
+  const input = document.getElementById("searchInput");
+  const out = document.getElementById("results");
+  const info = document.getElementById("countInfo");
+  const TIER = { verified: "verified", confirmed: "confirmed", estimated: "estimated", incomplete: "incomplete" };
+  function slugOf(name, id) {
+    const base = name.normalize("NFKD").replace(/[̀-ͯ]/g, "").replace(/[^\w\s-]/g, "").trim().replace(/[-\s]+/g, "-").toLowerCase().slice(0, 50).replace(/-+$/, "");
+    return base + "-" + (id ? id.split("/").pop().slice(0, 8).toLowerCase() : "unknown");
+  }
+  fetch("/data/census/search-index.txt?v=20261105").then(r => r.text()).then(txt => {
+    rows = txt.trim().split("\n").map(line => {
+      const [name, id, country, pathway, h, tier, slug] = line.split("|");
+      return { name, id, country: country || "", pathway: pathway || "", h: parseInt(h, 10) || 0, tier: tier || "", slug: slug || slugOf(name, id) };
     });
-    searchReady = true;
-    document.getElementById("countInfo").textContent =
-      searchData.length.toLocaleString() + " researchers loaded. Start typing to search.";
-  })
-  .catch(() => {
-    document.getElementById("countInfo").textContent = "Failed to load data. Try refreshing.";
-  });
-
-const input = document.getElementById("searchInput");
-const resultsDiv = document.getElementById("results");
-const profileDiv = document.getElementById("profileView");
-let debounceTimer;
-
-input.addEventListener("input", () => {
-  clearTimeout(debounceTimer);
-  debounceTimer = setTimeout(doSearch, 150);
-});
-
-function getFlagEmoji(cc) {
-  if (!cc || cc.length !== 2) return "";
-  return String.fromCodePoint(...[...cc.toUpperCase()].map(c => 0x1F1E6 + c.charCodeAt(0) - 65));
-}
-
-function escapeHtml(s) {
-  const d = document.createElement("div");
-  d.textContent = s;
-  return d.innerHTML;
-}
-
-function doSearch() {
-  const q = input.value.trim().toLowerCase();
-  profileDiv.style.display = "none";
-  if (!searchReady || q.length < 2) { resultsDiv.innerHTML = ""; return; }
-
-  const matches = [];
-  const words = q.split(/\s+/);
-
-  for (const r of searchData) {
-    const name = r.name.toLowerCase();
-    if (!words.every(w => name.includes(w))) continue;
-
-    let score = 0;
-    if (name === q) score += 1000;
-    else if (name.startsWith(q)) score += 500;
-    else {
-      const last = words[words.length - 1];
-      const parts = name.split(" ");
-      if (parts[parts.length - 1] === last) score += 300;
-      else if (parts[parts.length - 1].startsWith(last)) score += 200;
+    ready = true;
+    info.textContent = rows.length.toLocaleString("en") + " researchers in the index.";
+    if (input.value) search();
+  }).catch(() => { info.textContent = "The index did not load. Reload the page to try again."; });
+  function esc(s) { const d = document.createElement("div"); d.textContent = s; return d.innerHTML; }
+  let timer;
+  input.addEventListener("input", () => { clearTimeout(timer); timer = setTimeout(search, 120); });
+  function search() {
+    const q = input.value.trim().toLowerCase();
+    if (!ready || q.length < 2) { out.innerHTML = ""; if (ready) info.textContent = rows.length.toLocaleString("en") + " researchers in the index."; return; }
+    const words = q.split(/\s+/);
+    const hits = [];
+    for (const r of rows) {
+      const name = r.name.toLowerCase();
+      if (!words.every(w => name.includes(w))) continue;
+      let score = 0;
+      if (name === q) score += 1000; else if (name.startsWith(q)) score += 500;
+      else { const last = words[words.length - 1]; const parts = name.split(" "); if (parts[parts.length - 1] === last) score += 300; else if (parts[parts.length - 1].startsWith(last)) score += 200; }
+      score += Math.min(r.h, 100);
+      hits.push({ r, score });
     }
-    score += Math.min(r.h, 100);
-    matches.push({ ...r, score });
-    if (matches.length >= 100) break;
+    hits.sort((a, b) => b.score - a.score);
+    const top = hits.slice(0, 20);
+    info.textContent = hits.length === 0 ? "No name matches. Try another spelling; only the top-list researchers are in the index." : hits.length + (hits.length === 1 ? " match" : " matches") + (hits.length > 20 ? ", showing 20" : "");
+    out.innerHTML = top.map(({ r }) => `<li class="cd-result">
+      <a class="cd-result-name" href="/cdr-researcher-census/researchers/${esc(r.slug)}/">${esc(r.name)}</a>
+      <span class="cd-result-meta">${esc(r.pathway || "pathway unknown")}${r.country ? " · " + esc(r.country) : ""} · h-index ${r.h}${r.tier ? " · data " + esc(TIER[r.tier] || r.tier) : ""}</span>
+      ${r.id ? `<a class="cd-result-ext" href="${esc(r.id)}">OpenAlex</a>` : ""}
+    </li>`).join("");
   }
-
-  matches.sort((a, b) => b.score - a.score);
-  const top = matches.slice(0, 20);
-
-  if (top.length === 0) {
-    resultsDiv.innerHTML = '<div class="result-item"><span class="result-meta">No results found. Try a different spelling.</span></div>';
-    return;
-  }
-
-  resultsDiv.innerHTML = top.map((r, i) => {
-    const flag = r.country ? getFlagEmoji(r.country) + " " : "";
-    const tierIcon = { verified: "🟢", confirmed: "🟡", estimated: "🟠", incomplete: "⚪" }[r.tier] || "";
-    return `<div class="result-item" onclick="showProfile(${i})">
-      <div>
-        <span class="result-name">${tierIcon} ${escapeHtml(r.name)}</span><br/>
-        <span class="result-meta">${flag}${r.pathway || "Unknown pathway"}</span>
-      </div>
-      <span class="result-h">h=${r.h}</span>
-    </div>`;
-  }).join("");
-
-  // Store current results for profile rendering
-  window._currentResults = top;
-}
-
-function showProfile(idx) {
-  const r = window._currentResults[idx];
-  if (!r) return;
-
-  resultsDiv.innerHTML = "";
-  profileDiv.style.display = "block";
-
-  const flag = r.country ? getFlagEmoji(r.country) : "";
-  const tierLabel = { verified: "Verified", confirmed: "Confirmed", estimated: "Estimated", incomplete: "Incomplete" }[r.tier] || r.tier;
-  const tierClass = { verified: "tier-verified", confirmed: "tier-confirmed", estimated: "tier-estimated", incomplete: "tier-incomplete" }[r.tier] || "";
-
-  profileDiv.innerHTML = `
-    <div class="profile-card">
-      <div class="back-link" onclick="profileDiv.style.display='none'; doSearch();">← Back to results</div>
-      <h2>${flag} ${escapeHtml(r.name)} <span class="tier-badge ${tierClass}">${tierLabel}</span></h2>
-      <div class="profile-grid">
-        <div><span class="profile-label">Country</span><br><span class="profile-value">${r.country || "Unknown"}</span></div>
-        <div><span class="profile-label">CDR Pathway</span><br><span class="profile-value">${r.pathway || "Unknown"}</span></div>
-        <div><span class="profile-label">h-index (CDR)</span><br><span class="profile-value">${r.h}</span></div>
-        <div><span class="profile-label">Data Confidence</span><br><span class="profile-value">${tierLabel}</span></div>
-      </div>
-      <div style="margin-top:16px; font-size:.9rem;">
-        <strong>External Links:</strong><br>
-        ${r.id ? `<a href="${r.id}" target="_blank" rel="noopener">View on OpenAlex ↗</a>` : ""}
-        &nbsp;·&nbsp;
-        <a href="https://scholar.google.com/scholar?q=author:${encodeURIComponent(r.name.split(' ').pop())}" target="_blank" rel="noopener">Google Scholar ↗</a>
-      </div>
-    </div>`;
-}
+})();
 </script>

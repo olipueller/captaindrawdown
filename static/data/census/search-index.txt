@@ -1,587 +1,587 @@
-Philippe Ciais|https://openalex.org/A5070378593|FR|BECCS|224|verified
-Yong Sik Ok|https://openalex.org/A5053298437|KR|Biochar|185|verified
-Pete Smith|https://openalex.org/A5028843362|GB|Biochar|172|verified
-Daniel C.W. Tsang|https://openalex.org/A5076771261|HK|Biochar|161|estimated
-Detlef P. van Vuuren|https://openalex.org/A5082748474|NL|Cross-cutting CDR|150|verified
-Yakov Kuzyakov|https://openalex.org/A5062508940|DE|Biochar|150|verified
-Baoshan Xing|https://openalex.org/A5035633946|US|Biochar|148|verified
-Nanthi Bolan|https://openalex.org/A5007065483|AU|Biochar|142|verified
-Pierre Friedlingstein|https://openalex.org/A5006387896|GB|Cross-cutting CDR|141|confirmed
-Benjamin K. Sovacool|https://openalex.org/A5088822272|US|Cross-cutting CDR|136|verified
-Jörg Rinklebe|https://openalex.org/A5039520570|DE|Biochar|136|verified
-Josep G. Canadell|https://openalex.org/A5055830218|AU|Cross-cutting CDR|132|verified
-Kadambot H. M. Siddique|https://openalex.org/A5082109205|AU|Biochar|131|verified
-Davey L. Jones|https://openalex.org/A5064381910|GB|Biochar|131|verified
-Hailong Wang|https://openalex.org/A5100367752|CN|Biochar|129|verified
-Bin Gao|https://openalex.org/A5049519363|US|Biochar|126|verified
-Ivan A. Janssens|https://openalex.org/A5013418538|BE|Enhanced Weathering|123|verified
-Johannes Lehmann|https://openalex.org/A5042699954|US|Biochar|123|verified
-Yushan Yan|https://openalex.org/A5101710201|US|DAC|122|verified
-Wei‐Hsin Chen|https://openalex.org/A5057352058|TW|Biochar|118|verified
-Laurent Bopp|https://openalex.org/A5079839995|FR|Ocean CDR|115|verified
-Keywan Riahi|https://openalex.org/A5035238849|AT|Cross-cutting CDR|114|verified
-Oliviér Boucher|https://openalex.org/A5077051671|FR|BECCS|114|verified
-Richard A. Feely|https://openalex.org/A5019328347|US|Ocean CDR|111|verified
-T. Alan Hatton|https://openalex.org/A5046348268|US|Ocean CDR|109|confirmed
-Glen P. Peters|https://openalex.org/A5040159612|CA|Cross-cutting CDR|106|confirmed
-Lisa A. Levin|https://openalex.org/A5104385630|US|Ocean CDR|104|verified
-Su Shiung Lam|https://openalex.org/A5023407956|MY|Biochar|104|verified
-Chris Jones|https://openalex.org/A5025928838|GB|Cross-cutting CDR|103|verified
-Philip W. Boyd|https://openalex.org/A5091179334|AU|Ocean CDR|102|verified
-Christopher W. Jones|https://openalex.org/A5052807182|US|DAC|102|verified
-G. Philip Robertson|https://openalex.org/A5049194901|US|BECCS|100|verified
-David S. Sholl|https://openalex.org/A5031523641|US|DAC|100|confirmed
-David J. Beerling|https://openalex.org/A5073877737|GB|Enhanced Weathering|99|confirmed
-Ulf Riebesell|https://openalex.org/A5005675240|DE|Ocean CDR|99|verified
-André Faaij|https://openalex.org/A5068756115|NL|BECCS|99|verified
-Éder C. Lima|https://openalex.org/A5011032430|BR|Biochar|98|verified
-Bruce E. Dale|https://openalex.org/A5015618811|US|BECCS|96|confirmed
-Hanping Chen|https://openalex.org/A5007450053|CN|Biochar|95|estimated
-Xinde Cao|https://openalex.org/A5010856777|CN|Biochar|95|confirmed
-Eilhann E. Kwon|https://openalex.org/A5076854888|KR|Biochar|94|verified
-Jean‐Pierre Gattuso|https://openalex.org/A5079156035|FR|Ocean CDR|93|verified
-Joeri Rogelj|https://openalex.org/A5017820045|GB|Cross-cutting CDR|93|verified
-David A. Siegel|https://openalex.org/A5015835735|US|Ocean CDR|93|verified
-Meththika Vithanage|https://openalex.org/A5053693280|LK|Biochar|93|verified
-Alexander Popp|https://openalex.org/A5088947425|DE|Cross-cutting CDR|92|verified
-Steven J. Davis|https://openalex.org/A5021527359|US|Cross-cutting CDR|92|verified
-Christian Breyer|https://openalex.org/A5078913350|FI|Cross-cutting CDR|92|verified
-Peter A. Raymond|https://openalex.org/A5064092345|US|Enhanced Weathering|90|verified
-Chengyun Zhou|https://openalex.org/A5034463041|CN|Biochar|89|verified
-Ajay K. Dalai|https://openalex.org/A5054937059|CA|Biochar|89|confirmed
-Ken O. Buesseler|https://openalex.org/A5012317636|US|Ocean CDR|88|verified
-Haiping Yang|https://openalex.org/A5024934519|CN|Biochar|88|confirmed
-Marco Mazzotti|https://openalex.org/A5038211904|CH|DAC|87|confirmed
-Nilay Shah|https://openalex.org/A5078158219|GB|DAC|86|verified
-Noah J. Planavsky|https://openalex.org/A5031830595|US|Enhanced Weathering|85|confirmed
-Julia Pongratz|https://openalex.org/A5054849631|DE|Cross-cutting CDR|85|confirmed
-Yì Wáng|https://openalex.org/A5108047889|HK|Biochar|85|verified
-Detlef Stolten|https://openalex.org/A5004526973|DE|DAC|84|confirmed
-Elmar Kriegler|https://openalex.org/A5023849961|DE|Cross-cutting CDR|83|verified
-Gunnar Luderer|https://openalex.org/A5003171570|DE|Cross-cutting CDR|83|verified
-Amilcare Porporato|https://openalex.org/A5010484610|US|Enhanced Weathering|82|verified
-Chiu‐Wen Chen|https://openalex.org/A5010723333|TW|Biochar|82|confirmed
-Bruno Glaser|https://openalex.org/A5027366737|DE|Biochar|81|confirmed
-Shu Zhang|https://openalex.org/A5100452875|CN|Biochar|81|verified
-Ottmar Edenhofer|https://openalex.org/A5056597341|DE|Cross-cutting CDR|80|verified
-Shinichiro Fujimori|https://openalex.org/A5006789499|JP|Cross-cutting CDR|79|verified
-Youssef Belmabkhout|https://openalex.org/A5067990442|MA|DAC|77|verified
-Andreas Oschlies|https://openalex.org/A5063745149|DE|Ocean CDR|76|verified
-Andrew R. Zimmerman|https://openalex.org/A5039267052|US|Biochar|76|verified
-Heike Knicker|https://openalex.org/A5013681875|ES|Biochar|76|verified
-Krishna R. Reddy|https://openalex.org/A5017424109|US|Biochar|75|verified
-Alberto Abad|https://openalex.org/A5100666655|ES|BECCS|75|confirmed
-Juan Adánez|https://openalex.org/A5005651345|ES|BECCS|75|confirmed
-Cheng‐Di Dong|https://openalex.org/A5015918478|TW|Biochar|75|verified
-Jan C. Minx|https://openalex.org/A5060648323|GB|Cross-cutting CDR|74|verified
-Lukas Van Zwieten|https://openalex.org/A5021650869|AU|Biochar|73|verified
-Colin E. Snape|https://openalex.org/A5038069812|GB|Biochar|73|verified
-David R. Chadwick|https://openalex.org/A5000532994|GB|Biochar|73|verified
-Volker Krey|https://openalex.org/A5002659722|AT|Cross-cutting CDR|71|verified
-Shunsuke Managi|https://openalex.org/A5035555297|JP|DAC|71|verified
-Mohamed Pourkashanian|https://openalex.org/A5052499598|GB|BECCS|71|verified
-Vishnu D. Rajput|https://openalex.org/A5084567429|RU|Biochar|71|verified
-Tatiana Minkina|https://openalex.org/A5082791685|RU|Biochar|71|verified
-Jens Hartmann|https://openalex.org/A5019869869|DE|Enhanced Weathering|69|verified
-Annette Cowie|https://openalex.org/A5018651156|US|Biochar|69|confirmed
-Simon A. T. Redfern|https://openalex.org/A5034157561|SG|Enhanced Weathering|69|verified
-D.B. Ingham|https://openalex.org/A5039105160|GB|BECCS|69|confirmed
-André Bardow|https://openalex.org/A5054788795|CH|DAC|68|verified
-Jens Leifeld|https://openalex.org/A5078135225|CH|Biochar|68|confirmed
-Martin Junginger|https://openalex.org/A5070296717|NL|BECCS|68|confirmed
-Haifeng Liu|https://openalex.org/A5100325566|CN|Cross-cutting CDR|67|confirmed
-Raymond R. Tan|https://openalex.org/A5016388141|PH|Cross-cutting CDR|66|confirmed
-Thomas L. Frölicher|https://openalex.org/A5063055679|CH|Ocean CDR|66|verified
-Mohamed Gamal El‐Din|https://openalex.org/A5037765083|CA|Biochar|66|confirmed
-Ondřej Mašek|https://openalex.org/A5087096764|GB|Biochar|65|verified
-Chris Smith|https://openalex.org/A5021058724|AT|Cross-cutting CDR|65|verified
-Jong‐Seong Kug|https://openalex.org/A5091389074|KR|Cross-cutting CDR|64|verified
-Tomoko Hasegawa|https://openalex.org/A5060236040|JP|Cross-cutting CDR|64|confirmed
-Stephen Joseph|https://openalex.org/A5112737460|AU|Biochar|64|confirmed
-Ryan P. Lively|https://openalex.org/A5021581245|US|DAC|64|verified
-Mingfa Yao|https://openalex.org/A5065939686|CN|Cross-cutting CDR|63|verified
-Roberto Schaeffer|https://openalex.org/A5032681268|BR|Cross-cutting CDR|62|verified
-Tareq Al‐Ansari|https://openalex.org/A5086098688|QA|DAC|62|confirmed
-Filip J. R. Meysman|https://openalex.org/A5039479895|BE|Enhanced Weathering|61|verified
-Christos T. Maravelias|https://openalex.org/A5012875280|US|BECCS|61|verified
-Gonzalo Guillén‐Gosálbez|https://openalex.org/A5059336153|CH|Cross-cutting CDR|60|verified
-Balal Yousaf|https://openalex.org/A5026803641|PL|Biochar|60|verified
-Giacomo Grassi|https://openalex.org/A5015410865|BE|Cross-cutting CDR|59|confirmed
-Rachael H. James|https://openalex.org/A5075056484|GB|Enhanced Weathering|59|verified
-Christopher T. Reinhard|https://openalex.org/A5061963815|US|Enhanced Weathering|59|confirmed
-Yunting Fang|https://openalex.org/A5012369902|CN|Enhanced Weathering|59|confirmed
-Qiang Fu|https://openalex.org/A5065153972|CN|Biochar|59|confirmed
-Ke Sun|https://openalex.org/A5066774275|CN|Biochar|59|confirmed
-Sara Vicca|https://openalex.org/A5006929314|BE|Enhanced Weathering|58|verified
-Siegfried E. Vlaeminck|https://openalex.org/A5066581329|BE|Enhanced Weathering|58|verified
-Daniel S. Goll|https://openalex.org/A5063381462|FR|Enhanced Weathering|58|verified
-Jinfeng Chang|https://openalex.org/A5025102459|CN|BECCS|58|verified
-Ana Bastos|https://openalex.org/A5052018420|DE|Cross-cutting CDR|58|verified
-Mohd Rafatullah|https://openalex.org/A5070149436|SA|Biochar|58|verified
-Rüdiger‐A. Eichel|https://openalex.org/A5089732516|DE|DAC|58|verified
-Wenjia Cai|https://openalex.org/A5016144119|CN|BECCS|58|verified
-David A.C. Manning|https://openalex.org/A5016005773|GB|Enhanced Weathering|57|verified
-Carl‐Friedrich Schleussner|https://openalex.org/A5033036905|AT|Cross-cutting CDR|57|verified
-Nianzhi Jiao|https://openalex.org/A5024666177|CN|Ocean CDR|57|confirmed
-Paul Feron|https://openalex.org/A5057846633|AU|DAC|57|verified
-Nico Bauer|https://openalex.org/A5055801778|DE|Cross-cutting CDR|56|verified
-Niall Mac Dowell|https://openalex.org/A5002701966|GB|Cross-cutting CDR|56|confirmed
-Claudia Kammann|https://openalex.org/A5061014244|DE|Biochar|56|verified
-Anthony Patt|https://openalex.org/A5064781473|CH|DAC|56|confirmed
-Peter Landschützer|https://openalex.org/A5091506350|BE|Ocean CDR|55|verified
-Majid Amidpour|https://openalex.org/A5056424464|IR|DAC|55|verified
-Minik T. Rosing|https://openalex.org/A5081263044|DK|Enhanced Weathering|54|confirmed
-Christian Sattler|https://openalex.org/A5003022004|DE|DAC|54|verified
-Sang‐Wook Yeh|https://openalex.org/A5031307015|KR|Cross-cutting CDR|53|verified
-Dominic C.Y. Foo|https://openalex.org/A5054417923|MY|Cross-cutting CDR|53|verified
-Kai G. Schulz|https://openalex.org/A5091734550|AU|Ocean CDR|53|verified
-Jerry Tjiputra|https://openalex.org/A5063959948|NO|Cross-cutting CDR|53|verified
-Shuai Deng|https://openalex.org/A5068203387|CN|DAC|53|verified
-Adewale George Adeniyi|https://openalex.org/A5039101252|NG|Biochar|53|verified
-Florian Humpenöder|https://openalex.org/A5060104770|DE|Cross-cutting CDR|52|verified
-Katja Fennel|https://openalex.org/A5000863608|CA|Ocean CDR|52|confirmed
-Chong Peng|https://openalex.org/A5079900955|CN|Biochar|52|confirmed
-Göran Berndes|https://openalex.org/A5088119435|SE|BECCS|52|verified
-Shengsen Wang|https://openalex.org/A5001287848|CN|Biochar|52|verified
-Glaydson S. dos Reis|https://openalex.org/A5086243936|FI|Biochar|52|verified
-Philip A.E. Pogge von Strandmann|https://openalex.org/A5063694053|DE|Enhanced Weathering|51|verified
-Mohd Azmier Ahmad|https://openalex.org/A5071527753|MY|Biochar|51|verified
-Yusuf Biçer|https://openalex.org/A5022863989|QA|DAC|51|verified
-Junfeng Su|https://openalex.org/A5101652146|CN|Biochar|51|confirmed
-Michaela A. Dippold|https://openalex.org/A5054730905|DE|Biochar|51|verified
-Matthew C. Long|https://openalex.org/A5055580507|US|Ocean CDR|50|verified
-Manabu Fujii|https://openalex.org/A5075901142|JP|Biochar|50|verified
-Thomas Gasser|https://openalex.org/A5062044999|AT|Cross-cutting CDR|49|verified
-Terre Satterfield|https://openalex.org/A5087921844|CA|Ocean CDR|49|verified
-Ian Power|https://openalex.org/A5058336322|CA|Enhanced Weathering|49|verified
-Hamed Sanei|https://openalex.org/A5054476592|DK|Biochar|49|verified
-Jonathan Doelman|https://openalex.org/A5006446813|NL|Cross-cutting CDR|48|verified
-Soon‐Il An|https://openalex.org/A5033866952|KR|Cross-cutting CDR|48|verified
-Sabine Fuss|https://openalex.org/A5011197728|DE|Cross-cutting CDR|48|verified
-Daniela Thrän|https://openalex.org/A5012569758|DE|BECCS|48|verified
-Maarten Boersma|https://openalex.org/A5042168658|DE|Ocean CDR|48|verified
-Alexandre Szklo|https://openalex.org/A5043645649|BR|Cross-cutting CDR|48|verified
-Kingsley O. Iwuozor|https://openalex.org/A5061348364|NG|Biochar|48|confirmed
-Shengdao Shan|https://openalex.org/A5110527155|CN|Biochar|48|estimated
-Vassilis Daioglou|https://openalex.org/A5020000077|NL|Cross-cutting CDR|47|verified
-Jörg Schwinger|https://openalex.org/A5026788850|NO|Ocean CDR|47|verified
-Kirsten Zickfeld|https://openalex.org/A5032945153|CA|Cross-cutting CDR|47|confirmed
-Klaus S. Lackner|https://openalex.org/A5040701303|US|DAC|47|confirmed
-James E. Saiers|https://openalex.org/A5029882257|US|Enhanced Weathering|47|confirmed
-David Chiaramonti|https://openalex.org/A5071729195|IT|Biochar|47|verified
-Matthew J. Realff|https://openalex.org/A5078923254|US|DAC|47|confirmed
-Radu Custelcean|https://openalex.org/A5064099131|US|DAC|47|verified
-Mengxiang Fang|https://openalex.org/A5054422883|CN|DAC|47|confirmed
-Jun Meng|https://openalex.org/A5100619148|CN|Biochar|47|incomplete
-Jufeng Zheng|https://openalex.org/A5100736787|CN|Biochar|47|verified
-Lennart T. Bach|https://openalex.org/A5044360827|AU|Ocean CDR|46|confirmed
-Phillip Williamson|https://openalex.org/A5039444837|GB|Ocean CDR|45|verified
-Jianying Shang|https://openalex.org/A5052558610|CN|Biochar|45|verified
-Magnus Rydén|https://openalex.org/A5041687423|SE|BECCS|45|verified
-Pietro Bartocci|https://openalex.org/A5082211504|SE|BECCS|45|verified
-Phil Renforth|https://openalex.org/A5011758718|GB|Ocean CDR|44|verified
-Olusola Bamisile|https://openalex.org/A5057518673|CN|Cross-cutting CDR|44|verified
-Benjamin Z. Houlton|https://openalex.org/A5072170387|US|Enhanced Weathering|44|verified
-Hans‐Peter Schmidt|https://openalex.org/A5065464946|CH|Biochar|44|verified
-Fabrice Pernet|https://openalex.org/A5076989218|FR|Ocean CDR|44|verified
-Astley Hastings|https://openalex.org/A5058476177|GB|BECCS|43|verified
-Daniel P. Rasse|https://openalex.org/A5060395289|NO|Biochar|43|verified
-Piero Macchi|https://openalex.org/A5015826861|IT|Ocean CDR|43|verified
-Matthew Green|https://openalex.org/A5100626525|US|DAC|43|confirmed
-Kevin J. Hughes|https://openalex.org/A5049610374|GB|BECCS|43|confirmed
-Haewon McJeon|https://openalex.org/A5062879289|KR|Cross-cutting CDR|42|verified
-Gregory F. Nemet|https://openalex.org/A5033478519|US|Cross-cutting CDR|42|confirmed
-Kathleen B. Aviso|https://openalex.org/A5009843833|PH|Cross-cutting CDR|42|confirmed
-Roland Dittmeyer|https://openalex.org/A5074981601|DE|DAC|42|verified
-Judith Hauck|https://openalex.org/A5068651569|DE|Ocean CDR|42|verified
-Stefan Frank|https://openalex.org/A5040606655|AT|Cross-cutting CDR|42|verified
-Troy R. Hawkins|https://openalex.org/A5067282665|US|BECCS|42|verified
-Mahmoud Nasr|https://openalex.org/A5004352027|EG|Biochar|42|verified
-William F. Lamb|https://openalex.org/A5002742682|GB|Cross-cutting CDR|41|confirmed
-David T. Ho|https://openalex.org/A5080281932|US|Ocean CDR|41|verified
-Murat Yılmaz|https://openalex.org/A5100637237|TR|Biochar|41|verified
-Cecilia Sundberg|https://openalex.org/A5031213092|SE|Biochar|40|verified
-Mario Grosso|https://openalex.org/A5082273261|IT|Ocean CDR|40|verified
-Shuang Zhang|https://openalex.org/A5100321571|US|Enhanced Weathering|40|verified
-Rongjun Bian|https://openalex.org/A5072829767|CN|Biochar|40|verified
-Leonardo Noto|https://openalex.org/A5007481827|IT|Enhanced Weathering|40|confirmed
-Teng Wang|https://openalex.org/A5100348964|CN|DAC|40|confirmed
-Matthew Gidden|https://openalex.org/A5012881631|DE|Cross-cutting CDR|39|verified
-Chao Jin|https://openalex.org/A5101961986|CN|Cross-cutting CDR|39|verified
-Rafael M. Santos|https://openalex.org/A5100699543|CA|Enhanced Weathering|39|verified
-Jia Li|https://openalex.org/A5100613330|HK|DAC|39|verified
-Qiyong Xu|https://openalex.org/A5020897120|CN|Biochar|39|verified
-Sasha Wilson|https://openalex.org/A5073578640|CA|Enhanced Weathering|38|verified
-Oliver Fricko|https://openalex.org/A5050300010|AT|Cross-cutting CDR|38|verified
-Ronny Pini|https://openalex.org/A5039896013|GB|DAC|38|confirmed
-Jan Philipp Dietrich|https://openalex.org/A5087366777|DE|Cross-cutting CDR|38|verified
-Matteo Gazzani|https://openalex.org/A5040380606|NL|DAC|38|verified
-Daniel C. McCorkle|https://openalex.org/A5110912989|US|Ocean CDR|38|estimated
-Paraskevi Pitta|https://openalex.org/A5029477240|GR|Ocean CDR|38|verified
-Andrew Chapman|https://openalex.org/A5018157580|JP|DAC|38|verified
-Syed Shams Yazdani|https://openalex.org/A5058911046|IN|BECCS|38|
-Spyros Foteinis|https://openalex.org/A5057305490|GB|Ocean CDR|37|verified
-Graeme Puxty|https://openalex.org/A5088038094|AU|DAC|37|verified
-Masoom Raza Siddiqui|https://openalex.org/A5031175602|SA|Biochar|37|verified
-Susana García|https://openalex.org/A5044341184|GB|DAC|36|verified
-Wolfgang Koeve|https://openalex.org/A5044333223|DE|Ocean CDR|36|confirmed
-Ofélia de Queiroz Fernandes Araújo|https://openalex.org/A5005281241|BR|BECCS|36|verified
-Qie Sun|https://openalex.org/A5100611178|CN|BECCS|36|verified
-Bjarne Steffen|https://openalex.org/A5051413085|CH|Cross-cutting CDR|35|estimated
-Christopher R. Pearce|https://openalex.org/A5070628684|GB|Enhanced Weathering|35|verified
-Nicholas Ward|https://openalex.org/A5016338735|US|Ocean CDR|35|verified
-Henrik I. Petersen|https://openalex.org/A5016856899|DK|Biochar|35|verified
-Helene Muri|https://openalex.org/A5010735883|NO|Ocean CDR|35|verified
-Hanna Lee|https://openalex.org/A5044293223|NO|Cross-cutting CDR|35|verified
-Shuangjun Li|https://openalex.org/A5000532573|KR|DAC|35|verified
-Eva Thorin|https://openalex.org/A5052844123|SE|BECCS|35|confirmed
-Xiaohong Zhu|https://openalex.org/A5039299664|US|Biochar|34|verified
-Helen S. Findlay|https://openalex.org/A5034359898|GB|Ocean CDR|34|verified
-Zebedee Nicholls|https://openalex.org/A5049205667|AU|Cross-cutting CDR|34|verified
-Jihua Liu|https://openalex.org/A5100629648|CN|Ocean CDR|34|confirmed
-Guido Raos|https://openalex.org/A5052105299|IT|Ocean CDR|34|confirmed
-Gang Kevin Li|https://openalex.org/A5055340435|AU|DAC|34|verified
-Shisuo Fan|https://openalex.org/A5022283225|CN|Biochar|34|confirmed
-Tongtong Wang|https://openalex.org/A5100687966|CN|Biochar|34|verified
-Pedro Rochedo|https://openalex.org/A5013873246|AE|Cross-cutting CDR|33|verified
-Brendan R. Carter|https://openalex.org/A5008670707|US|Ocean CDR|33|verified
-Katsumasa Tanaka|https://openalex.org/A5033739527|FR|BECCS|33|verified
-José Luiz de Medeiros|https://openalex.org/A5004811368|BR|BECCS|33|confirmed
-Solomon Brown|https://openalex.org/A5048780607|GB|BECCS|33|verified
-José M. de la Rosa Arranz|https://openalex.org/A5032318695|ES|Biochar|33|verified
-Will R. Turner|https://openalex.org/A5059333702|US|Enhanced Weathering|33|verified
-Mahboob Alam|https://openalex.org/A5069819330|PK|Biochar|33|confirmed
-Frédéric Gazeau|https://openalex.org/A5039141126|FR|Ocean CDR|33|verified
-Oliver Geden|https://openalex.org/A5016996676|DE|Cross-cutting CDR|32|confirmed
-Humphrey Adun|https://openalex.org/A5027923888|CY|Cross-cutting CDR|32|verified
-Javier Lezaun|https://openalex.org/A5085557590|GB|Ocean CDR|32|estimated
-Matthias Kalkuhl|https://openalex.org/A5069718268|DE|Cross-cutting CDR|32|verified
-Thomas Helmer Pedersen|https://openalex.org/A5028259786|DK|DAC|32|confirmed
-Dong‐Yeun Koh|https://openalex.org/A5082658370|KR|DAC|32|verified
-Jochen Linßen|https://openalex.org/A5055909025|DE|DAC|32|verified
-Richard L. Axelbaum|https://openalex.org/A5091399109|US|BECCS|32|confirmed
-Jiajun Hu|https://openalex.org/A5058846208|CN|Biochar|32|verified
-Yuanfei Wang|https://openalex.org/A5101455449|CN|Biochar|32|confirmed
-Jeffrey Dankwa Ampah|https://openalex.org/A5044399467|CN|Cross-cutting CDR|31|confirmed
-Daniela Basso|https://openalex.org/A5026560276|IT|Ocean CDR|31|verified
-Christian Moretti|https://openalex.org/A5027325818|CH|DAC|31|verified
-Hermann Tempel|https://openalex.org/A5014866560|DE|DAC|31|verified
-Ram L. Ray|https://openalex.org/A5085883771|US|Biochar|31|verified
-Jessica Strefler|https://openalex.org/A5056511064|DE|Cross-cutting CDR|30|confirmed
-Ken Oshiro|https://openalex.org/A5057996181|JP|Cross-cutting CDR|30|verified
-Yi Wai Chiang|https://openalex.org/A5024380396|CA|Enhanced Weathering|30|verified
-Daniel L. Sanchez|https://openalex.org/A5016864843|US|BECCS|29|confirmed
-Naomi E. Vaughan|https://openalex.org/A5022069918|GB|Cross-cutting CDR|29|verified
-Simon H. Pang|https://openalex.org/A5037709742|US|DAC|29|verified
-Haris Ishaq|https://openalex.org/A5047835879|CA|DAC|29|confirmed
-Zhaohui Aleck Wang|https://openalex.org/A5031746761|US|Ocean CDR|29|verified
-Haibo Zhai|https://openalex.org/A5073584426|US|BECCS|29|verified
-Jihui Li|https://openalex.org/A5071052943|CN|Biochar|29|verified
-Stephen M. Smith|https://openalex.org/A5110129533|GB|Cross-cutting CDR|28|estimated
-Ángel Galán‐Martín|https://openalex.org/A5067787980|ES|BECCS|28|verified
-Masahiro Sugiyama|https://openalex.org/A5064075890|JP|Cross-cutting CDR|28|verified
-Arianna Azzellino|https://openalex.org/A5025068282|IT|Ocean CDR|28|verified
-Grazia Leonzio|https://openalex.org/A5023097254|IT|DAC|28|confirmed
-Jann Michael Weinand|https://openalex.org/A5064139912|DE|DAC|28|verified
-Benjapon Chalermsinsuwan|https://openalex.org/A5090351271|TH|DAC|28|confirmed
-C. R. Lawrence|https://openalex.org/A5079910667|US|Enhanced Weathering|28|verified
-Dariusz Mikielewicz|https://openalex.org/A5028768589|PL|BECCS|28|confirmed
-Ioannis D. Manariotis|https://openalex.org/A5017616023|GR|Biochar|28|verified
-Jixiang Li|https://openalex.org/A5101688119|CN|Biochar|28|confirmed
-Jessica Cross|https://openalex.org/A5031991617|US|Ocean CDR|27|verified
-Sandylove Afrane|https://openalex.org/A5021147590|CN|Cross-cutting CDR|27|estimated
-Bonnie G. Waring|https://openalex.org/A5010282852|GB|Enhanced Weathering|27|confirmed
-Dia Milani|https://openalex.org/A5067927457|AU|DAC|27|confirmed
-Mathias Fridahl|https://openalex.org/A5081929312|SE|BECCS|26|verified
-Wilfried Rickels|https://openalex.org/A5020112645|DE|Ocean CDR|26|verified
-Mijndert van der Spek|https://openalex.org/A5062642687|GB|DAC|26|verified
-Snežana Maletić|https://openalex.org/A5001570054|RS|Biochar|26|confirmed
-Hassan Shokry|https://openalex.org/A5058291586|EG|Biochar|26|verified
-Min‐Tian Gao|https://openalex.org/A5050601079|CN|Biochar|26|estimated
-David P. Keller|https://openalex.org/A5068205859|DE|Ocean CDR|25|verified
-Jan Taucher|https://openalex.org/A5007343280|DE|Ocean CDR|25|verified
-David Wårlind|https://openalex.org/A5086576086|SE|Cross-cutting CDR|25|verified
-Patrick Frings|https://openalex.org/A5066536322|DE|Enhanced Weathering|25|verified
-Ang Wang|https://openalex.org/A5055145875|CN|Enhanced Weathering|25|confirmed
-Jackson Nkoh Nkoh|https://openalex.org/A5066227449|CN|Biochar|25|verified
-Yalan Chen|https://openalex.org/A5007453595|CN|Biochar|25|verified
-Nils Markusson|https://openalex.org/A5004419918|GB|Cross-cutting CDR|24|verified
-Sean McCoy|https://openalex.org/A5001684164|CA|DAC|24|verified
-Abdulkarem I. Amhamed|https://openalex.org/A5037947804|QA|DAC|24|verified
-Stavros Michailos|https://openalex.org/A5052441020|GB|DAC|24|verified
-Patricia Grasse|https://openalex.org/A5066845777|DE|Ocean CDR|24|verified
-Tao E|https://openalex.org/A5010028947|CN|Biochar|24|estimated
-Stefano Caserini|https://openalex.org/A5070147967|IT|Ocean CDR|23|verified
-Michael D. Tyka|https://openalex.org/A5073201933|US|Ocean CDR|23|verified
-Lester Kwiatkowski|https://openalex.org/A5022134879|FR|Ocean CDR|23|verified
-Matthew D. Eisaman|https://openalex.org/A5005365119|US|Ocean CDR|23|verified
-Sean Low|https://openalex.org/A5005320428|DK|Cross-cutting CDR|23|verified
-Lyla L. Taylor|https://openalex.org/A5001741530|GB|Enhanced Weathering|23|verified
-Alexander Sauer|https://openalex.org/A5037568055|DE|BECCS|23|verified
-Atsushi Nakao|https://openalex.org/A5038863863|JP|Enhanced Weathering|23|verified
-Hyewon Kim|https://openalex.org/A5100600220|US|Ocean CDR|23|verified
-Abdelghafour Zaabout|https://openalex.org/A5089623956|MA|DAC|23|confirmed
-Junyao Wang|https://openalex.org/A5102012362|CN|DAC|23|confirmed
-Sebastiaan van de Velde|https://openalex.org/A5041138489|NZ|Ocean CDR|23|verified
-Paweł Ziółkowski|https://openalex.org/A5022146966|PL|BECCS|23|verified
-Tamás Krisztin|https://openalex.org/A5075867172|AT|BECCS|23|verified
-Sen Dou|https://openalex.org/A5019119464|CN|Biochar|23|confirmed
-Nadine Mengis|https://openalex.org/A5079879047|DE|Cross-cutting CDR|22|verified
-Chad M. Baum|https://openalex.org/A5057828579|DK|Cross-cutting CDR|22|verified
-Nikolas Hagemann|https://openalex.org/A5062868787|CH|Biochar|22|verified
-Xuancan Zhu|https://openalex.org/A5072713173|CN|DAC|22|confirmed
-Anna P. M. Michel|https://openalex.org/A5024026979|US|Ocean CDR|22|verified
-Philip D. Weyman|https://openalex.org/A5019645278|US|Enhanced Weathering|22|verified
-Daniel Valadão Silva|https://openalex.org/A5018039712|BR|Biochar|22|confirmed
-Elina Brutschin|https://openalex.org/A5005798398|AT|Cross-cutting CDR|21|verified
-Sonja Geilert|https://openalex.org/A5043903020|NL|Ocean CDR|21|confirmed
-Philipp Porada|https://openalex.org/A5008250208|DE|Enhanced Weathering|21|verified
-Mojtaba Fakhraee|https://openalex.org/A5051417333|US|Ocean CDR|21|verified
-Matthias M. May|https://openalex.org/A5010478591|DE|Cross-cutting CDR|21|verified
-Niklas von der Aßen|https://openalex.org/A5054263137|DE|DAC|21|verified
-Alexander Ryota Keeley|https://openalex.org/A5073705863|JP|DAC|21|verified
-Zhaofeng Chang|https://openalex.org/A5003993455|CN|Biochar|21|confirmed
-Shikha Mishra|https://openalex.org/A5012094395|US|BECCS|21|
-Yang Ou|https://openalex.org/A5060371544|CN|Cross-cutting CDR|20|verified
-Adam V. Subhas|https://openalex.org/A5048374257|US|Ocean CDR|20|verified
-Salvatore Calabrese|https://openalex.org/A5026553655|US|Enhanced Weathering|20|verified
-Robert Miehe|https://openalex.org/A5070424010|DE|BECCS|20|verified
-﻿Arnaud Laurent|https://openalex.org/A5033431748|CA|Ocean CDR|20|verified
-Nathalie Monnerie|https://openalex.org/A5065748208|DE|DAC|20|confirmed
-Jon McCalmont|https://openalex.org/A5053097577|GB|BECCS|20|verified
-Jay Fuhrman|https://openalex.org/A5034052350|US|Cross-cutting CDR|19|verified
-Erika Callagon La Plante|https://openalex.org/A5071999876|US|Ocean CDR|19|verified
-Finn Müller-Hansen|https://openalex.org/A5048034354|DE|Cross-cutting CDR|19|verified
-Annette Eschenbach|https://openalex.org/A5006233070|DE|Biochar|19|verified
-Étienne Tourigny|https://openalex.org/A5026790328|ES|Cross-cutting CDR|19|verified
-Nader Marzban|https://openalex.org/A5071788034|DE|Biochar|19|confirmed
-Robert W. Brown|https://openalex.org/A5003791978|GB|Biochar|19|confirmed
-A. Shepherd|https://openalex.org/A5028767784|GB|BECCS|19|verified
-Peter Psarras|https://openalex.org/A5075179959|US|DAC|18|verified
-Jongsoo Shin|https://openalex.org/A5079999299|US|Cross-cutting CDR|18|verified
-Dominik Keiner|https://openalex.org/A5015267488|FI|Cross-cutting CDR|18|verified
-Mathilde Fajardy|https://openalex.org/A5027334693|GB|BECCS|18|verified
-Mathilde Hagens|https://openalex.org/A5069214824|NL|Enhanced Weathering|18|verified
-Sandrine Selosse|https://openalex.org/A5067314498|FR|BECCS|18|verified
-Anna Neubeck|https://openalex.org/A5004740193|SE|Enhanced Weathering|18|verified
-Melissa J. Murphy|https://openalex.org/A5075982781|DE|Enhanced Weathering|18|verified
-Muhammad Akram|https://openalex.org/A5083409756|GB|BECCS|18|verified
-Stéphanie Grand|https://openalex.org/A5023581815|CH|Enhanced Weathering|18|verified
-Andrey Lessa Derci Augustynczik|https://openalex.org/A5067345650|AT|BECCS|18|verified
-Anyu Li|https://openalex.org/A5024109228|CN|Biochar|18|verified
-Hua Deng|https://openalex.org/A5017874185|CN|Biochar|18|confirmed
-Carlos Paulo|https://openalex.org/A5077581438|CA|Enhanced Weathering|17|verified
-Shinichiro Asayama|https://openalex.org/A5088972440|JP|Cross-cutting CDR|17|verified
-Steef V. Hanssen|https://openalex.org/A5085343190|NL|BECCS|17|confirmed
-Emily Cox|https://openalex.org/A5033239714|GB|Cross-cutting CDR|17|verified
-Thorben Amann|https://openalex.org/A5051923172|DE|Enhanced Weathering|17|verified
-Joscha N. Becker|https://openalex.org/A5012439183|DE|Biochar|17|verified
-Ruth Musgrave|https://openalex.org/A5039999342|CA|Ocean CDR|17|verified
-Markus Millinger|https://openalex.org/A5029145309|SE|BECCS|17|verified
-Alix Vidal|https://openalex.org/A5059677956|NL|Enhanced Weathering|17|verified
-Nicolás Sánchez|https://openalex.org/A5027018210|NO|Ocean CDR|17|verified
-Riti Thapar Kapoor|https://openalex.org/A5037145417|IN|Biochar|17|confirmed
-Brian P. Setzler|https://openalex.org/A5046492904|US|DAC|17|verified
-Marijana Kragulj Isakovski|https://openalex.org/A5007335652|RS|Biochar|17|verified
-Yubin Hu|https://openalex.org/A5040781218|CN|Ocean CDR|17|verified
-William Joe Sagues|https://openalex.org/A5008564347|US|BECCS|16|confirmed
-Arka Rudra|https://openalex.org/A5091328285|DK|Biochar|16|confirmed
-Seongmin Son|https://openalex.org/A5055286957|KR|DAC|16|verified
-Wojciech Jerzak|https://openalex.org/A5047466959|PL|Biochar|16|verified
-Liam A. Bullock|https://openalex.org/A5076444409|ES|Enhanced Weathering|15|verified
-Miranda Boettcher|https://openalex.org/A5061263206|DE|Ocean CDR|15|verified
-Tania Timmermann|https://openalex.org/A5054841325|US|Enhanced Weathering|15|estimated
-Yoshiki Kanzaki|https://openalex.org/A5017547454|US|Enhanced Weathering|15|confirmed
-Norman Julius Steinert|https://openalex.org/A5029222116|NO|Cross-cutting CDR|15|verified
-Dominic Lenzi|https://openalex.org/A5023443003|NL|Cross-cutting CDR|15|confirmed
-Hiroto Shiraki|https://openalex.org/A5064672144|JP|Cross-cutting CDR|15|verified
-Silvan Urs Goldenberg|https://openalex.org/A5011298922|DE|Ocean CDR|15|confirmed
-Jennie E. Rheuban|https://openalex.org/A5040595878|US|Ocean CDR|15|confirmed
-Diego Marazza|https://openalex.org/A5076670003|IT|Biochar|15|verified
-Matthias Honegger|https://openalex.org/A5079084697|NL|Cross-cutting CDR|14|verified
-Amanda Stubbs|https://openalex.org/A5041395132|GB|Enhanced Weathering|14|incomplete
-Kati Koponen|https://openalex.org/A5091330647|FI|BECCS|14|verified
-Morgan R. Edwards|https://openalex.org/A5113308797|US|Cross-cutting CDR|14|incomplete
-Danial Esmaeili Aliabadi|https://openalex.org/A5029647177|DE|BECCS|14|verified
-Chinmayee V. Subban|https://openalex.org/A5062579057|US|Ocean CDR|14|verified
-Abhijeet Singh|https://openalex.org/A5044155031|SE|Enhanced Weathering|14|verified
-Yihe Miao|https://openalex.org/A5086130377|CN|DAC|14|verified
-Ronghua Kang|https://openalex.org/A5032068801|CN|Enhanced Weathering|14|verified
-Hari Mantripragada|https://openalex.org/A5024061297|US|DAC|14|verified
-Felix Schenuit|https://openalex.org/A5054371800|DE|Cross-cutting CDR|13|verified
-Selene Cobo|https://openalex.org/A5082806753|ES|BECCS|13|verified
-Sara Nawaz|https://openalex.org/A5083576219|US|Ocean CDR|13|confirmed
-Kenneth Möllersten|https://openalex.org/A5081022748|SE|BECCS|13|verified
-Elias Azzi|https://openalex.org/A5039260792|SE|Biochar|13|verified
-Benedict Probst|https://openalex.org/A5091139976|GB|Cross-cutting CDR|13|confirmed
-Matteo B. Bertagni|https://openalex.org/A5090007153|IT|Enhanced Weathering|13|verified
-Noah McQueen|https://openalex.org/A5036880054|US|DAC|13|confirmed
-Tyler Kukla|https://openalex.org/A5044186752|US|Enhanced Weathering|13|verified
-Chinmoy Baroi|https://openalex.org/A5040576621|US|DAC|13|verified
-Dariia Atamanchuk|https://openalex.org/A5022141454|CA|Ocean CDR|13|verified
-Friedrich A. Burger|https://openalex.org/A5063499543|CH|Ocean CDR|13|confirmed
-Lening Hu|https://openalex.org/A5025163855|CN|Biochar|13|confirmed
-Matthieu Delannoy|https://openalex.org/A5008753917|FR|Biochar|13|confirmed
-Yalçın Altunkaynak|https://openalex.org/A5037048338|TR|Biochar|13|
-Tim Jesper Suhrhoff|https://openalex.org/A5081686744|US|Enhanced Weathering|12|confirmed
-Astrid Hylén|https://openalex.org/A5047703788|FR|Enhanced Weathering|12|verified
-Jacob S. Jordan|https://openalex.org/A5091258756|PL|Enhanced Weathering|12|incomplete
-Giulia Faucher|https://openalex.org/A5029772892|DE|Ocean CDR|12|confirmed
-Nouman Rafique Mirza|https://openalex.org/A5036697628|AU|DAC|12|verified
-Chandra Mohan Mehta|https://openalex.org/A5008862204|IN|Biochar|12|confirmed
-Alina Brad|https://openalex.org/A5048506940|AT|Cross-cutting CDR|11|confirmed
-Etienne Schneider|https://openalex.org/A5089196024|AT|Cross-cutting CDR|11|confirmed
-Maria-Elena Vorrath|https://openalex.org/A5010895442|DE|Enhanced Weathering|11|confirmed
-Kirstine Skov|https://openalex.org/A5042164311|DK|Enhanced Weathering|11|confirmed
-Leon Merfort|https://openalex.org/A5010129778|DE|Cross-cutting CDR|11|confirmed
-Yazhen Wu|https://openalex.org/A5051620770|AT|BECCS|11|confirmed
-Tobias Bromm|https://openalex.org/A5000925986|DE|Biochar|11|confirmed
-Iordanis Magiopoulos|https://openalex.org/A5069820303|GR|Ocean CDR|11|confirmed
-Frederico Ribeiro do Carmo|https://openalex.org/A5029577765|BR|Biochar|11|confirmed
-Christina Larkin|https://openalex.org/A5074798724|GB|Enhanced Weathering|10|incomplete
-Maria Victoria Migo-Sumagang|https://openalex.org/A5048614269|PH|Cross-cutting CDR|10|confirmed
-Sarah Lück|https://openalex.org/A5041797666|DE|Cross-cutting CDR|10|confirmed
-Michael Fuhr|https://openalex.org/A5072752114|DE|Ocean CDR|10|confirmed
-Ingrid Smet|https://openalex.org/A5101641069|BE|Enhanced Weathering|10|verified
-Yasser M. Abdullatif|https://openalex.org/A5059366075|QA|DAC|10|confirmed
-Farzin Hosseinifard|https://openalex.org/A5093733646|IR|DAC|10|confirmed
-Luis E. Hernández Gutiérrez|https://openalex.org/A5088121930|ES|DAC|10|confirmed
-Giuseppe Cipolla|https://openalex.org/A5019374730|IT|Enhanced Weathering|10|confirmed
-Margarita de Las Obras Loscertales|https://openalex.org/A5057397603|ES|BECCS|10|verified
-Christiane Hennig|https://openalex.org/A5045674888|DE|BECCS|10|estimated
-Romany Webb|https://openalex.org/A5110590296|US|Ocean CDR|9|estimated
-Gaurav Ganti|https://openalex.org/A5002533374|AT|Cross-cutting CDR|9|confirmed
-Ali Kiani|https://openalex.org/A5070604945|AU|DAC|9|incomplete
-Michiel Van Tendeloo|https://openalex.org/A5075775747|BE|Enhanced Weathering|9|confirmed
-Anežka Borčinová Radková|https://openalex.org/A5037816602||Enhanced Weathering|9|estimated
-Reza Khalidy|https://openalex.org/A5010802809||Enhanced Weathering|9|confirmed
-Jet Rijnders|https://openalex.org/A5052294079|BE|Enhanced Weathering|9|confirmed
-Mak Đukan|https://openalex.org/A5013904400|DE|DAC|9|confirmed
-Mohammad Moosazadeh|https://openalex.org/A5012347041|KR|DAC|9|confirmed
-Mutlu Canpolat|https://openalex.org/A5005088762|TR|Biochar|9|
-Malgorzata Borchers|https://openalex.org/A5078304290|DE|BECCS|8|confirmed
-Yiannis Moustakis|https://openalex.org/A5054754573|DE|Cross-cutting CDR|8|confirmed
-Kalina C. Grabb|https://openalex.org/A5071547085|CA|Ocean CDR|8|confirmed
-Charly A. Moras|https://openalex.org/A5020057789|DE|Ocean CDR|8|confirmed
-Harun Niron|https://openalex.org/A5045276158|BE|Enhanced Weathering|8|confirmed
-T. Albahri|https://openalex.org/A5081495447|GB|Enhanced Weathering|8|incomplete
-Tobias Linke|https://openalex.org/A5081151823|DE|Enhanced Weathering|8|estimated
-Arthur Vienne|https://openalex.org/A5086565651|BE|Enhanced Weathering|8|confirmed
-Miriam Seifert|https://openalex.org/A5036998276|DE|Ocean CDR|8|confirmed
-Julieta Schneider|https://openalex.org/A5032139497|DE|Ocean CDR|8|confirmed
-Keju An|https://openalex.org/A5040806989|US|DAC|8|confirmed
-Iris Janssens|https://openalex.org/A5051345766|BE|Enhanced Weathering|8|confirmed
-Arthur Groß|https://openalex.org/A5072098302|DE|Biochar|8|incomplete
-Zhuozhen Gan|https://openalex.org/A5020127088|CN|DAC|8|confirmed
-Ansgar Kretzschmar|https://openalex.org/A5036859012|DE|DAC|8|confirmed
-Victor Selmert|https://openalex.org/A5017213047|DE|DAC|8|confirmed
-Maxwell Pisciotta|https://openalex.org/A5082529161|US|DAC|7|confirmed
-Francesco Pietro Campo|https://openalex.org/A5047434192|IT|Ocean CDR|7|confirmed
-Tom Reershemius|https://openalex.org/A5008768478|GB|Enhanced Weathering|7|confirmed
-Ruben Prütz|https://openalex.org/A5011946431|DE|Cross-cutting CDR|7|confirmed
-Wanxuan Yao|https://openalex.org/A5069543157|DE|Ocean CDR|7|confirmed
-Injy Johnstone|https://openalex.org/A5035898273|GB|Cross-cutting CDR|7|confirmed
-Dimitar Z. Epihov|https://openalex.org/A5056786183|GB|Enhanced Weathering|7|confirmed
-Mallory Ringham|https://openalex.org/A5042898332|US|Ocean CDR|7|confirmed
-Sally Homsy|https://openalex.org/A5087798236|US|DAC|7|confirmed
-Mirko Engelpracht|https://openalex.org/A5026220642|DE|DAC|7|incomplete
-Xavier Dupla|https://openalex.org/A5010537667|CH|Enhanced Weathering|7|confirmed
-Chaewoon Oh|https://openalex.org/A5008685099|KR|DAC|7|incomplete
-Freia Harzendorf|https://openalex.org/A5028836533|DE|DAC|7|confirmed
-Quirin Grossmann|https://openalex.org/A5051401878|CH|DAC|7|confirmed
-Hirdan Katarina de Medeiros Costa|https://openalex.org/A5070667153|BR|BECCS|7|confirmed
-Kamil Stasiak|https://openalex.org/A5006549829|PL|BECCS|7|incomplete
-Mike Kelland|https://openalex.org/A5075310246|US|Enhanced Weathering|6|confirmed
-Christiana Dietzen|https://openalex.org/A5050210023|DK|Enhanced Weathering|6|confirmed
-Osamu Nishiura|https://openalex.org/A5037582292|JP|Cross-cutting CDR|6|confirmed
-Laura Steinwidder|https://openalex.org/A5058405084|BE|Enhanced Weathering|6|confirmed
-Mathew Dennis Wilkes|https://openalex.org/A5061155876|GB|BECCS|6|confirmed
-Craig Bettenhausen﻿|https://openalex.org/A5032647403||Cross-cutting CDR|6|incomplete
-Pacharapol Nokpho|https://openalex.org/A5076032169|TH|DAC|6|estimated
-Beibei Dong|https://openalex.org/A5112316382|SE|BECCS|6|confirmed
-Sk. Beebi|https://openalex.org/A5033219026|IN|BECCS|6|
-Nainesh Modi|https://openalex.org/A5031147093|IN|DAC|6|
-Katrin Sievert|https://openalex.org/A5094051316|CH|DAC|5|confirmed
-Thomas Corbett|https://openalex.org/A5012497109|SE|Enhanced Weathering|5|incomplete
-Reinaldy Poetra|https://openalex.org/A5051333088|DE|Enhanced Weathering|5|incomplete
-Michael Wögerer|https://openalex.org/A5088505449|AT|BECCS|5|confirmed
-Lina Röschel|https://openalex.org/A5025340994|DE|Ocean CDR|5|incomplete
-Niels Suitner|https://openalex.org/A5035414216|DE|Ocean CDR|5|confirmed
-Patrik Postweiler|https://openalex.org/A5056523125|DE|DAC|5|incomplete
-Daniel Rezo|https://openalex.org/A5093964772|DE|DAC|5|incomplete
-Sina Hoseinpoori|https://openalex.org/A5052140923|SE|DAC|5|incomplete
-Tronje P. Kemena|https://openalex.org/A5043456533|DE|Ocean CDR|5|confirmed
-Jonathan Spence|https://openalex.org/A5109285998|CA|Enhanced Weathering|5|estimated
-Tullia Calogiuri|https://openalex.org/A5091603840|NL|Enhanced Weathering|5|confirmed
-Lukas Rieder|https://openalex.org/A5093245162|DE|Enhanced Weathering|5|incomplete
-Selene Varliero|https://openalex.org/A5063753462|IT|Ocean CDR|5|confirmed
-Nicoletta Brazzola|https://openalex.org/A5030128980|GB|DAC|5|confirmed
-Lukas Marx|https://openalex.org/A5002822093|US|Ocean CDR|5|confirmed
-Leila Kittu|https://openalex.org/A5085342752|DE|Ocean CDR|5|confirmed
-Rachel Silcox|https://openalex.org/A5014181867|US|Ocean CDR|5|confirmed
-Piyush Behari Lal|https://openalex.org/A5036771884|IN|BECCS|5|
-J. P. Misra|https://openalex.org/A5009024968|IN|BECCS|5|
-Vittoria Bolongaro|https://openalex.org/A5092617373|CH|DAC|4|confirmed
-Johannes Meyer zu Drewer|https://openalex.org/A5089195581|CH|Biochar|4|confirmed
-Mohammad Sadr|https://openalex.org/A5038945227|DE|BECCS|4|confirmed
-Laura Marín-Samper|https://openalex.org/A5013241791|ES|Ocean CDR|4|confirmed
-Kirsty Harrington|https://openalex.org/A5003735383|GB|Enhanced Weathering|4|confirmed
-Lucilla Boito|https://openalex.org/A5094096782|BE|Enhanced Weathering|4|confirmed
-Behrouz Gholamahmadi|https://openalex.org/A5079131566|PT|Biochar|4|confirmed
-Nicole Ferru|https://openalex.org/A5053323655|CH|DAC|4|incomplete
-Alexander Boedijn|https://openalex.org/A5063307293|NL|DAC|4|confirmed
-Ronja Wollnik|https://openalex.org/A5098773807|DE|BECCS|3|confirmed
-Sophie Chlela|https://openalex.org/A5010115224|FR|BECCS|3|estimated
-Amy McBride|https://openalex.org/A5104254727|DE|Enhanced Weathering|3|estimated
-Kohei Kurokawa|https://openalex.org/A5067284010|JP|Enhanced Weathering|3|confirmed
-Thomas Schöb|https://openalex.org/A5057352136|DE|DAC|3|confirmed
-Jasper Roussard|https://openalex.org/A5094096172|BE|Enhanced Weathering|3|estimated
-Lara Meuleneers|https://openalex.org/A5104453151|DE|DAC|3|estimated
-Paul de Joannis|https://openalex.org/A5114757003|FR|DAC|3|estimated
-Yinghuan Xie|https://openalex.org/A5000973788|AU|Ocean CDR|3|confirmed
-Hendrik Großelindemann|https://openalex.org/A5046916264|CH|Ocean CDR|3|confirmed
-Maria Seedtke|https://openalex.org/A5083234694|DE|Biochar|2|confirmed
-Gonzalo Fuenzalida-Meriz|https://openalex.org/A5095372257|US|Enhanced Weathering|2|confirmed
-Gregory Jones|https://openalex.org/A5032322574|GB|Enhanced Weathering|2|confirmed
-Tzara Bierowiec|https://openalex.org/A5022537045|PL|Enhanced Weathering|2|estimated
-Giulia Cazzagon|https://openalex.org/A5116238715|GB|Enhanced Weathering|2|incomplete
-Matthew Healey|https://openalex.org/A5016334764|GB|Enhanced Weathering|2|incomplete
-Ralf Steffens|https://openalex.org/A5036254945|DE|Enhanced Weathering|2|verified
-Dirk Paessler|https://openalex.org/A5009555573|DE|Enhanced Weathering|2|verified
-Mikita Maslouski|https://openalex.org/A5027998855|DE|Biochar|2|confirmed
-Oscar Stenström|https://openalex.org/A5083858474|SE|BECCS|2|incomplete
-Henrik Wenzel|https://openalex.org/A5102746148|DE|DAC|2|confirmed
-Jens Hammes|https://openalex.org/A5108549613|DE|Enhanced Weathering|2|verified
-Sara Groppelli|https://openalex.org/A5094110298|IT|Ocean CDR|2|estimated
-Davide Calvi|https://openalex.org/A5094110297|IT|Ocean CDR|2|estimated
-Federico Comazzi|https://openalex.org/A5094107899|IT|Ocean CDR|2|estimated
-Quinn Zacharias|https://openalex.org/A5086059587|US|Enhanced Weathering|2|estimated
-Sandy Avrutin|https://openalex.org/A5082075493|DE|Ocean CDR|2|confirmed
-Kanchana Phianchana|https://openalex.org/A5117360696|TH|DAC|2|estimated
-Iza Lantgios|https://openalex.org/A5084466466|US|DAC|2|confirmed
-Nikol Kirova|https://openalex.org/A5042136458|ES|Biochar|2|estimated
-H.R. Nasriani|https://openalex.org/A5140669540|GB|DAC|2|
-Ella Milliken|https://openalex.org/A5117487314|US|Enhanced Weathering|1|confirmed
-Anna A. Stoeckel|https://openalex.org/A5120424771|PL|Enhanced Weathering|1|confirmed
-Susanne E. Hamburger|https://openalex.org/A5116618283|DE|Biochar|1|confirmed
-Kenneth Okosun|https://openalex.org/A5118195894|DE|DAC|1|estimated
-Taejun Song|https://openalex.org/A5122304284|KR|DAC|1|estimated
-Joohyung Jung|https://openalex.org/A5122366264|KR|DAC|1|estimated
-Pratham Joshi|https://openalex.org/A5009569431|IN|BECCS|1|
-Fengchao Sun|https://openalex.org/A5138922287|US|Enhanced Weathering|1|
-Millie Dobson|https://openalex.org/A5113068250|GB|Enhanced Weathering|0|incomplete
-Dr. C.M. Vivek Vardhan|https://openalex.org/A5121091287|IN|Biochar|0|estimated
-Christine Merk|https://openalex.org/A5135538820|DE|Ocean CDR|0|
-Vishwajit Kumar|https://openalex.org/A5130755326|IN|BECCS|0|
-Prakash Peralam Yegneswaran|https://openalex.org/A5138419665|IN|BECCS|0|
-Bhavanari Mallikarjun|https://openalex.org/A5138451111|IN|BECCS|0|
-P. J. Amal Joseph|https://openalex.org/A5132953010|IN|BECCS|0|
-G. Sailaja|https://openalex.org/A5132964590|IN|BECCS|0|
-N. L. Janaki|https://openalex.org/A5132958964|IN|BECCS|0|
-Daniela Thrän|https://openalex.org/A5140066699||BECCS|0|
-Samira Jamali Alamooti|https://openalex.org/A5138703322|IT|Ocean CDR|0|
-Ms. Sindhu Jannareddy|https://openalex.org/A5121063427||Biochar|0|
-M. Nasiri Ghiri|https://openalex.org/A5140599316|GB|DAC|0|
-L. Khajehnoori|https://openalex.org/A5140697838|GB|DAC|0|
-S.Priyadarshini|https://openalex.org/A5132661375||BECCS|0|
-Hardik P. Malaviya|https://openalex.org/A5148898310|IN|DAC|0|
+Philippe Ciais|https://openalex.org/A5070378593|FR|BECCS|224|verified|philippe-ciais-a5070378
+Yong Sik Ok|https://openalex.org/A5053298437|KR|Biochar|185|verified|yong-sik-ok-a5053298
+Pete Smith|https://openalex.org/A5028843362|GB|Biochar|172|verified|pete-smith-a5028843
+Daniel C.W. Tsang|https://openalex.org/A5076771261|HK|Biochar|161|estimated|daniel-cw-tsang-a5076771
+Detlef P. van Vuuren|https://openalex.org/A5082748474|NL|Cross-cutting CDR|150|verified|detlef-p-van-vuuren-a5082748
+Yakov Kuzyakov|https://openalex.org/A5062508940|DE|Biochar|150|verified|yakov-kuzyakov-a5062508
+Baoshan Xing|https://openalex.org/A5035633946|US|Biochar|148|verified|baoshan-xing-a5035633
+Nanthi Bolan|https://openalex.org/A5007065483|AU|Biochar|142|verified|nanthi-bolan-a5007065
+Pierre Friedlingstein|https://openalex.org/A5006387896|GB|Cross-cutting CDR|141|confirmed|pierre-friedlingstein-a5006387
+Benjamin K. Sovacool|https://openalex.org/A5088822272|US|Cross-cutting CDR|136|verified|benjamin-k-sovacool-a5088822
+Jörg Rinklebe|https://openalex.org/A5039520570|DE|Biochar|136|verified|jorg-rinklebe-a5039520
+Josep G. Canadell|https://openalex.org/A5055830218|AU|Cross-cutting CDR|132|verified|josep-g-canadell-a5055830
+Kadambot H. M. Siddique|https://openalex.org/A5082109205|AU|Biochar|131|verified|kadambot-h-m-siddique-a5082109
+Davey L. Jones|https://openalex.org/A5064381910|GB|Biochar|131|verified|davey-l-jones-a5064381
+Hailong Wang|https://openalex.org/A5100367752|CN|Biochar|129|verified|hailong-wang-a5100367
+Bin Gao|https://openalex.org/A5049519363|US|Biochar|126|verified|bin-gao-a5049519
+Ivan A. Janssens|https://openalex.org/A5013418538|BE|Enhanced Weathering|123|verified|ivan-a-janssens-a5013418
+Johannes Lehmann|https://openalex.org/A5042699954|US|Biochar|123|verified|johannes-lehmann-a5042699
+Yushan Yan|https://openalex.org/A5101710201|US|DAC|122|verified|yushan-yan-a5101710
+Wei‐Hsin Chen|https://openalex.org/A5057352058|TW|Biochar|118|verified|weihsin-chen-a5057352
+Laurent Bopp|https://openalex.org/A5079839995|FR|Ocean CDR|115|verified|laurent-bopp-a5079839
+Keywan Riahi|https://openalex.org/A5035238849|AT|Cross-cutting CDR|114|verified|keywan-riahi-a5035238
+Oliviér Boucher|https://openalex.org/A5077051671|FR|BECCS|114|verified|olivier-boucher-a5077051
+Richard A. Feely|https://openalex.org/A5019328347|US|Ocean CDR|111|verified|richard-a-feely-a5019328
+T. Alan Hatton|https://openalex.org/A5046348268|US|Ocean CDR|109|confirmed|t-alan-hatton-a5046348
+Glen P. Peters|https://openalex.org/A5040159612|CA|Cross-cutting CDR|106|confirmed|glen-p-peters-a5040159
+Lisa A. Levin|https://openalex.org/A5104385630|US|Ocean CDR|104|verified|lisa-a-levin-a5104385
+Su Shiung Lam|https://openalex.org/A5023407956|MY|Biochar|104|verified|su-shiung-lam-a5023407
+Chris Jones|https://openalex.org/A5025928838|GB|Cross-cutting CDR|103|verified|chris-jones-a5025928
+Philip W. Boyd|https://openalex.org/A5091179334|AU|Ocean CDR|102|verified|philip-w-boyd-a5091179
+Christopher W. Jones|https://openalex.org/A5052807182|US|DAC|102|verified|christopher-w-jones-a5052807
+G. Philip Robertson|https://openalex.org/A5049194901|US|BECCS|100|verified|g-philip-robertson-a5049194
+David S. Sholl|https://openalex.org/A5031523641|US|DAC|100|confirmed|david-s-sholl-a5031523
+David J. Beerling|https://openalex.org/A5073877737|GB|Enhanced Weathering|99|confirmed|david-j-beerling-a5073877
+Ulf Riebesell|https://openalex.org/A5005675240|DE|Ocean CDR|99|verified|ulf-riebesell-a5005675
+André Faaij|https://openalex.org/A5068756115|NL|BECCS|99|verified|andre-faaij-a5068756
+Éder C. Lima|https://openalex.org/A5011032430|BR|Biochar|98|verified|eder-c-lima-a5011032
+Bruce E. Dale|https://openalex.org/A5015618811|US|BECCS|96|confirmed|bruce-e-dale-a5015618
+Hanping Chen|https://openalex.org/A5007450053|CN|Biochar|95|estimated|hanping-chen-a5007450
+Xinde Cao|https://openalex.org/A5010856777|CN|Biochar|95|confirmed|xinde-cao-a5010856
+Eilhann E. Kwon|https://openalex.org/A5076854888|KR|Biochar|94|verified|eilhann-e-kwon-a5076854
+Jean‐Pierre Gattuso|https://openalex.org/A5079156035|FR|Ocean CDR|93|verified|jeanpierre-gattuso-a5079156
+Joeri Rogelj|https://openalex.org/A5017820045|GB|Cross-cutting CDR|93|verified|joeri-rogelj-a5017820
+David A. Siegel|https://openalex.org/A5015835735|US|Ocean CDR|93|verified|david-a-siegel-a5015835
+Meththika Vithanage|https://openalex.org/A5053693280|LK|Biochar|93|verified|meththika-vithanage-a5053693
+Alexander Popp|https://openalex.org/A5088947425|DE|Cross-cutting CDR|92|verified|alexander-popp-a5088947
+Steven J. Davis|https://openalex.org/A5021527359|US|Cross-cutting CDR|92|verified|steven-j-davis-a5021527
+Christian Breyer|https://openalex.org/A5078913350|FI|Cross-cutting CDR|92|verified|christian-breyer-a5078913
+Peter A. Raymond|https://openalex.org/A5064092345|US|Enhanced Weathering|90|verified|peter-a-raymond-a5064092
+Chengyun Zhou|https://openalex.org/A5034463041|CN|Biochar|89|verified|chengyun-zhou-a5034463
+Ajay K. Dalai|https://openalex.org/A5054937059|CA|Biochar|89|confirmed|ajay-k-dalai-a5054937
+Ken O. Buesseler|https://openalex.org/A5012317636|US|Ocean CDR|88|verified|ken-o-buesseler-a5012317
+Haiping Yang|https://openalex.org/A5024934519|CN|Biochar|88|confirmed|haiping-yang-a5024934
+Marco Mazzotti|https://openalex.org/A5038211904|CH|DAC|87|confirmed|marco-mazzotti-a5038211
+Nilay Shah|https://openalex.org/A5078158219|GB|DAC|86|verified|nilay-shah-a5078158
+Noah J. Planavsky|https://openalex.org/A5031830595|US|Enhanced Weathering|85|confirmed|noah-j-planavsky-a5031830
+Julia Pongratz|https://openalex.org/A5054849631|DE|Cross-cutting CDR|85|confirmed|julia-pongratz-a5054849
+Yì Wáng|https://openalex.org/A5108047889|HK|Biochar|85|verified|yi-wang-a5108047
+Detlef Stolten|https://openalex.org/A5004526973|DE|DAC|84|confirmed|detlef-stolten-a5004526
+Elmar Kriegler|https://openalex.org/A5023849961|DE|Cross-cutting CDR|83|verified|elmar-kriegler-a5023849
+Gunnar Luderer|https://openalex.org/A5003171570|DE|Cross-cutting CDR|83|verified|gunnar-luderer-a5003171
+Amilcare Porporato|https://openalex.org/A5010484610|US|Enhanced Weathering|82|verified|amilcare-porporato-a5010484
+Chiu‐Wen Chen|https://openalex.org/A5010723333|TW|Biochar|82|confirmed|chiuwen-chen-a5010723
+Bruno Glaser|https://openalex.org/A5027366737|DE|Biochar|81|confirmed|bruno-glaser-a5027366
+Shu Zhang|https://openalex.org/A5100452875|CN|Biochar|81|verified|shu-zhang-a5100452
+Ottmar Edenhofer|https://openalex.org/A5056597341|DE|Cross-cutting CDR|80|verified|ottmar-edenhofer-a5056597
+Shinichiro Fujimori|https://openalex.org/A5006789499|JP|Cross-cutting CDR|79|verified|shinichiro-fujimori-a5006789
+Youssef Belmabkhout|https://openalex.org/A5067990442|MA|DAC|77|verified|youssef-belmabkhout-a5067990
+Andreas Oschlies|https://openalex.org/A5063745149|DE|Ocean CDR|76|verified|andreas-oschlies-a5063745
+Andrew R. Zimmerman|https://openalex.org/A5039267052|US|Biochar|76|verified|andrew-r-zimmerman-a5039267
+Heike Knicker|https://openalex.org/A5013681875|ES|Biochar|76|verified|heike-knicker-a5013681
+Krishna R. Reddy|https://openalex.org/A5017424109|US|Biochar|75|verified|krishna-r-reddy-a5017424
+Alberto Abad|https://openalex.org/A5100666655|ES|BECCS|75|confirmed|alberto-abad-a5100666
+Juan Adánez|https://openalex.org/A5005651345|ES|BECCS|75|confirmed|juan-adanez-a5005651
+Cheng‐Di Dong|https://openalex.org/A5015918478|TW|Biochar|75|verified|chengdi-dong-a5015918
+Jan C. Minx|https://openalex.org/A5060648323|GB|Cross-cutting CDR|74|verified|jan-c-minx-a5060648
+Lukas Van Zwieten|https://openalex.org/A5021650869|AU|Biochar|73|verified|lukas-van-zwieten-a5021650
+Colin E. Snape|https://openalex.org/A5038069812|GB|Biochar|73|verified|colin-e-snape-a5038069
+David R. Chadwick|https://openalex.org/A5000532994|GB|Biochar|73|verified|david-r-chadwick-a5000532
+Volker Krey|https://openalex.org/A5002659722|AT|Cross-cutting CDR|71|verified|volker-krey-a5002659
+Shunsuke Managi|https://openalex.org/A5035555297|JP|DAC|71|verified|shunsuke-managi-a5035555
+Mohamed Pourkashanian|https://openalex.org/A5052499598|GB|BECCS|71|verified|mohamed-pourkashanian-a5052499
+Vishnu D. Rajput|https://openalex.org/A5084567429|RU|Biochar|71|verified|vishnu-d-rajput-a5084567
+Tatiana Minkina|https://openalex.org/A5082791685|RU|Biochar|71|verified|tatiana-minkina-a5082791
+Jens Hartmann|https://openalex.org/A5019869869|DE|Enhanced Weathering|69|verified|jens-hartmann-a5019869
+Annette Cowie|https://openalex.org/A5018651156|US|Biochar|69|confirmed|annette-cowie-a5018651
+Simon A. T. Redfern|https://openalex.org/A5034157561|SG|Enhanced Weathering|69|verified|simon-a-t-redfern-a5034157
+D.B. Ingham|https://openalex.org/A5039105160|GB|BECCS|69|confirmed|db-ingham-a5039105
+André Bardow|https://openalex.org/A5054788795|CH|DAC|68|verified|andre-bardow-a5054788
+Jens Leifeld|https://openalex.org/A5078135225|CH|Biochar|68|confirmed|jens-leifeld-a5078135
+Martin Junginger|https://openalex.org/A5070296717|NL|BECCS|68|confirmed|martin-junginger-a5070296
+Haifeng Liu|https://openalex.org/A5100325566|CN|Cross-cutting CDR|67|confirmed|haifeng-liu-a5100325
+Raymond R. Tan|https://openalex.org/A5016388141|PH|Cross-cutting CDR|66|confirmed|raymond-r-tan-a5016388
+Thomas L. Frölicher|https://openalex.org/A5063055679|CH|Ocean CDR|66|verified|thomas-l-frolicher-a5063055
+Mohamed Gamal El‐Din|https://openalex.org/A5037765083|CA|Biochar|66|confirmed|mohamed-gamal-eldin-a5037765
+Ondřej Mašek|https://openalex.org/A5087096764|GB|Biochar|65|verified|ondrej-masek-a5087096
+Chris Smith|https://openalex.org/A5021058724|AT|Cross-cutting CDR|65|verified|chris-smith-a5021058
+Jong‐Seong Kug|https://openalex.org/A5091389074|KR|Cross-cutting CDR|64|verified|jongseong-kug-a5091389
+Tomoko Hasegawa|https://openalex.org/A5060236040|JP|Cross-cutting CDR|64|confirmed|tomoko-hasegawa-a5060236
+Stephen Joseph|https://openalex.org/A5112737460|AU|Biochar|64|confirmed|stephen-joseph-a5112737
+Ryan P. Lively|https://openalex.org/A5021581245|US|DAC|64|verified|ryan-p-lively-a5021581
+Mingfa Yao|https://openalex.org/A5065939686|CN|Cross-cutting CDR|63|verified|mingfa-yao-a5065939
+Roberto Schaeffer|https://openalex.org/A5032681268|BR|Cross-cutting CDR|62|verified|roberto-schaeffer-a5032681
+Tareq Al‐Ansari|https://openalex.org/A5086098688|QA|DAC|62|confirmed|tareq-alansari-a5086098
+Filip J. R. Meysman|https://openalex.org/A5039479895|BE|Enhanced Weathering|61|verified|filip-j-r-meysman-a5039479
+Christos T. Maravelias|https://openalex.org/A5012875280|US|BECCS|61|verified|christos-t-maravelias-a5012875
+Gonzalo Guillén‐Gosálbez|https://openalex.org/A5059336153|CH|Cross-cutting CDR|60|verified|gonzalo-guillengosalbez-a5059336
+Balal Yousaf|https://openalex.org/A5026803641|PL|Biochar|60|verified|balal-yousaf-a5026803
+Giacomo Grassi|https://openalex.org/A5015410865|BE|Cross-cutting CDR|59|confirmed|giacomo-grassi-a5015410
+Rachael H. James|https://openalex.org/A5075056484|GB|Enhanced Weathering|59|verified|rachael-h-james-a5075056
+Christopher T. Reinhard|https://openalex.org/A5061963815|US|Enhanced Weathering|59|confirmed|christopher-t-reinhard-a5061963
+Yunting Fang|https://openalex.org/A5012369902|CN|Enhanced Weathering|59|confirmed|yunting-fang-a5012369
+Qiang Fu|https://openalex.org/A5065153972|CN|Biochar|59|confirmed|qiang-fu-a5065153
+Ke Sun|https://openalex.org/A5066774275|CN|Biochar|59|confirmed|ke-sun-a5066774
+Sara Vicca|https://openalex.org/A5006929314|BE|Enhanced Weathering|58|verified|sara-vicca-a5006929
+Siegfried E. Vlaeminck|https://openalex.org/A5066581329|BE|Enhanced Weathering|58|verified|siegfried-e-vlaeminck-a5066581
+Daniel S. Goll|https://openalex.org/A5063381462|FR|Enhanced Weathering|58|verified|daniel-s-goll-a5063381
+Jinfeng Chang|https://openalex.org/A5025102459|CN|BECCS|58|verified|jinfeng-chang-a5025102
+Ana Bastos|https://openalex.org/A5052018420|DE|Cross-cutting CDR|58|verified|ana-bastos-a5052018
+Mohd Rafatullah|https://openalex.org/A5070149436|SA|Biochar|58|verified|mohd-rafatullah-a5070149
+Rüdiger‐A. Eichel|https://openalex.org/A5089732516|DE|DAC|58|verified|rudigera-eichel-a5089732
+Wenjia Cai|https://openalex.org/A5016144119|CN|BECCS|58|verified|wenjia-cai-a5016144
+David A.C. Manning|https://openalex.org/A5016005773|GB|Enhanced Weathering|57|verified|david-ac-manning-a5016005
+Carl‐Friedrich Schleussner|https://openalex.org/A5033036905|AT|Cross-cutting CDR|57|verified|carlfriedrich-schleussner-a5033036
+Nianzhi Jiao|https://openalex.org/A5024666177|CN|Ocean CDR|57|confirmed|nianzhi-jiao-a5024666
+Paul Feron|https://openalex.org/A5057846633|AU|DAC|57|verified|paul-feron-a5057846
+Nico Bauer|https://openalex.org/A5055801778|DE|Cross-cutting CDR|56|verified|nico-bauer-a5055801
+Niall Mac Dowell|https://openalex.org/A5002701966|GB|Cross-cutting CDR|56|confirmed|niall-mac-dowell-a5002701
+Claudia Kammann|https://openalex.org/A5061014244|DE|Biochar|56|verified|claudia-kammann-a5061014
+Anthony Patt|https://openalex.org/A5064781473|CH|DAC|56|confirmed|anthony-patt-a5064781
+Peter Landschützer|https://openalex.org/A5091506350|BE|Ocean CDR|55|verified|peter-landschutzer-a5091506
+Majid Amidpour|https://openalex.org/A5056424464|IR|DAC|55|verified|majid-amidpour-a5056424
+Minik T. Rosing|https://openalex.org/A5081263044|DK|Enhanced Weathering|54|confirmed|minik-t-rosing-a5081263
+Christian Sattler|https://openalex.org/A5003022004|DE|DAC|54|verified|christian-sattler-a5003022
+Sang‐Wook Yeh|https://openalex.org/A5031307015|KR|Cross-cutting CDR|53|verified|sangwook-yeh-a5031307
+Dominic C.Y. Foo|https://openalex.org/A5054417923|MY|Cross-cutting CDR|53|verified|dominic-cy-foo-a5054417
+Kai G. Schulz|https://openalex.org/A5091734550|AU|Ocean CDR|53|verified|kai-g-schulz-a5091734
+Jerry Tjiputra|https://openalex.org/A5063959948|NO|Cross-cutting CDR|53|verified|jerry-tjiputra-a5063959
+Shuai Deng|https://openalex.org/A5068203387|CN|DAC|53|verified|shuai-deng-a5068203
+Adewale George Adeniyi|https://openalex.org/A5039101252|NG|Biochar|53|verified|adewale-george-adeniyi-a5039101
+Florian Humpenöder|https://openalex.org/A5060104770|DE|Cross-cutting CDR|52|verified|florian-humpenoder-a5060104
+Katja Fennel|https://openalex.org/A5000863608|CA|Ocean CDR|52|confirmed|katja-fennel-a5000863
+Chong Peng|https://openalex.org/A5079900955|CN|Biochar|52|confirmed|chong-peng-a5079900
+Göran Berndes|https://openalex.org/A5088119435|SE|BECCS|52|verified|goran-berndes-a5088119
+Shengsen Wang|https://openalex.org/A5001287848|CN|Biochar|52|verified|shengsen-wang-a5001287
+Glaydson S. dos Reis|https://openalex.org/A5086243936|FI|Biochar|52|verified|glaydson-s-dos-reis-a5086243
+Philip A.E. Pogge von Strandmann|https://openalex.org/A5063694053|DE|Enhanced Weathering|51|verified|philip-ae-pogge-von-strandmann-a5063694
+Mohd Azmier Ahmad|https://openalex.org/A5071527753|MY|Biochar|51|verified|mohd-azmier-ahmad-a5071527
+Yusuf Biçer|https://openalex.org/A5022863989|QA|DAC|51|verified|yusuf-bicer-a5022863
+Junfeng Su|https://openalex.org/A5101652146|CN|Biochar|51|confirmed|junfeng-su-a5101652
+Michaela A. Dippold|https://openalex.org/A5054730905|DE|Biochar|51|verified|michaela-a-dippold-a5054730
+Matthew C. Long|https://openalex.org/A5055580507|US|Ocean CDR|50|verified|matthew-c-long-a5055580
+Manabu Fujii|https://openalex.org/A5075901142|JP|Biochar|50|verified|manabu-fujii-a5075901
+Thomas Gasser|https://openalex.org/A5062044999|AT|Cross-cutting CDR|49|verified|thomas-gasser-a5062044
+Terre Satterfield|https://openalex.org/A5087921844|CA|Ocean CDR|49|verified|terre-satterfield-a5087921
+Ian Power|https://openalex.org/A5058336322|CA|Enhanced Weathering|49|verified|ian-power-a5058336
+Hamed Sanei|https://openalex.org/A5054476592|DK|Biochar|49|verified|hamed-sanei-a5054476
+Jonathan Doelman|https://openalex.org/A5006446813|NL|Cross-cutting CDR|48|verified|jonathan-doelman-a5006446
+Soon‐Il An|https://openalex.org/A5033866952|KR|Cross-cutting CDR|48|verified|soonil-an-a5033866
+Sabine Fuss|https://openalex.org/A5011197728|DE|Cross-cutting CDR|48|verified|sabine-fuss-a5011197
+Daniela Thrän|https://openalex.org/A5012569758|DE|BECCS|48|verified|daniela-thran-a5012569
+Maarten Boersma|https://openalex.org/A5042168658|DE|Ocean CDR|48|verified|maarten-boersma-a5042168
+Alexandre Szklo|https://openalex.org/A5043645649|BR|Cross-cutting CDR|48|verified|alexandre-szklo-a5043645
+Kingsley O. Iwuozor|https://openalex.org/A5061348364|NG|Biochar|48|confirmed|kingsley-o-iwuozor-a5061348
+Shengdao Shan|https://openalex.org/A5110527155|CN|Biochar|48|estimated|shengdao-shan-a5110527
+Vassilis Daioglou|https://openalex.org/A5020000077|NL|Cross-cutting CDR|47|verified|vassilis-daioglou-a5020000
+Jörg Schwinger|https://openalex.org/A5026788850|NO|Ocean CDR|47|verified|jorg-schwinger-a5026788
+Kirsten Zickfeld|https://openalex.org/A5032945153|CA|Cross-cutting CDR|47|confirmed|kirsten-zickfeld-a5032945
+Klaus S. Lackner|https://openalex.org/A5040701303|US|DAC|47|confirmed|klaus-s-lackner-a5040701
+James E. Saiers|https://openalex.org/A5029882257|US|Enhanced Weathering|47|confirmed|james-e-saiers-a5029882
+David Chiaramonti|https://openalex.org/A5071729195|IT|Biochar|47|verified|david-chiaramonti-a5071729
+Matthew J. Realff|https://openalex.org/A5078923254|US|DAC|47|confirmed|matthew-j-realff-a5078923
+Radu Custelcean|https://openalex.org/A5064099131|US|DAC|47|verified|radu-custelcean-a5064099
+Mengxiang Fang|https://openalex.org/A5054422883|CN|DAC|47|confirmed|mengxiang-fang-a5054422
+Jun Meng|https://openalex.org/A5100619148|CN|Biochar|47|incomplete|jun-meng-a5100619
+Jufeng Zheng|https://openalex.org/A5100736787|CN|Biochar|47|verified|jufeng-zheng-a5100736
+Lennart T. Bach|https://openalex.org/A5044360827|AU|Ocean CDR|46|confirmed|lennart-t-bach-a5044360
+Phillip Williamson|https://openalex.org/A5039444837|GB|Ocean CDR|45|verified|phillip-williamson-a5039444
+Jianying Shang|https://openalex.org/A5052558610|CN|Biochar|45|verified|jianying-shang-a5052558
+Magnus Rydén|https://openalex.org/A5041687423|SE|BECCS|45|verified|magnus-ryden-a5041687
+Pietro Bartocci|https://openalex.org/A5082211504|SE|BECCS|45|verified|pietro-bartocci-a5082211
+Phil Renforth|https://openalex.org/A5011758718|GB|Ocean CDR|44|verified|phil-renforth-a5011758
+Olusola Bamisile|https://openalex.org/A5057518673|CN|Cross-cutting CDR|44|verified|olusola-bamisile-a5057518
+Benjamin Z. Houlton|https://openalex.org/A5072170387|US|Enhanced Weathering|44|verified|benjamin-z-houlton-a5072170
+Hans‐Peter Schmidt|https://openalex.org/A5065464946|CH|Biochar|44|verified|hanspeter-schmidt-a5065464
+Fabrice Pernet|https://openalex.org/A5076989218|FR|Ocean CDR|44|verified|fabrice-pernet-a5076989
+Astley Hastings|https://openalex.org/A5058476177|GB|BECCS|43|verified|astley-hastings-a5058476
+Daniel P. Rasse|https://openalex.org/A5060395289|NO|Biochar|43|verified|daniel-p-rasse-a5060395
+Piero Macchi|https://openalex.org/A5015826861|IT|Ocean CDR|43|verified|piero-macchi-a5015826
+Matthew Green|https://openalex.org/A5100626525|US|DAC|43|confirmed|matthew-green-a5100626
+Kevin J. Hughes|https://openalex.org/A5049610374|GB|BECCS|43|confirmed|kevin-j-hughes-a5049610
+Haewon McJeon|https://openalex.org/A5062879289|KR|Cross-cutting CDR|42|verified|haewon-mcjeon-a5062879
+Gregory F. Nemet|https://openalex.org/A5033478519|US|Cross-cutting CDR|42|confirmed|gregory-f-nemet-a5033478
+Kathleen B. Aviso|https://openalex.org/A5009843833|PH|Cross-cutting CDR|42|confirmed|kathleen-b-aviso-a5009843
+Roland Dittmeyer|https://openalex.org/A5074981601|DE|DAC|42|verified|roland-dittmeyer-a5074981
+Judith Hauck|https://openalex.org/A5068651569|DE|Ocean CDR|42|verified|judith-hauck-a5068651
+Stefan Frank|https://openalex.org/A5040606655|AT|Cross-cutting CDR|42|verified|stefan-frank-a5040606
+Troy R. Hawkins|https://openalex.org/A5067282665|US|BECCS|42|verified|troy-r-hawkins-a5067282
+Mahmoud Nasr|https://openalex.org/A5004352027|EG|Biochar|42|verified|mahmoud-nasr-a5004352
+William F. Lamb|https://openalex.org/A5002742682|GB|Cross-cutting CDR|41|confirmed|william-f-lamb-a5002742
+David T. Ho|https://openalex.org/A5080281932|US|Ocean CDR|41|verified|david-t-ho-a5080281
+Murat Yılmaz|https://openalex.org/A5100637237|TR|Biochar|41|verified|murat-ylmaz-a5100637
+Cecilia Sundberg|https://openalex.org/A5031213092|SE|Biochar|40|verified|cecilia-sundberg-a5031213
+Mario Grosso|https://openalex.org/A5082273261|IT|Ocean CDR|40|verified|mario-grosso-a5082273
+Shuang Zhang|https://openalex.org/A5100321571|US|Enhanced Weathering|40|verified|shuang-zhang-a5100321
+Rongjun Bian|https://openalex.org/A5072829767|CN|Biochar|40|verified|rongjun-bian-a5072829
+Leonardo Noto|https://openalex.org/A5007481827|IT|Enhanced Weathering|40|confirmed|leonardo-noto-a5007481
+Teng Wang|https://openalex.org/A5100348964|CN|DAC|40|confirmed|teng-wang-a5100348
+Matthew Gidden|https://openalex.org/A5012881631|DE|Cross-cutting CDR|39|verified|matthew-gidden-a5012881
+Chao Jin|https://openalex.org/A5101961986|CN|Cross-cutting CDR|39|verified|chao-jin-a5101961
+Rafael M. Santos|https://openalex.org/A5100699543|CA|Enhanced Weathering|39|verified|rafael-m-santos-a5100699
+Jia Li|https://openalex.org/A5100613330|HK|DAC|39|verified|jia-li-a5100613
+Qiyong Xu|https://openalex.org/A5020897120|CN|Biochar|39|verified|qiyong-xu-a5020897
+Sasha Wilson|https://openalex.org/A5073578640|CA|Enhanced Weathering|38|verified|sasha-wilson-a5073578
+Oliver Fricko|https://openalex.org/A5050300010|AT|Cross-cutting CDR|38|verified|oliver-fricko-a5050300
+Ronny Pini|https://openalex.org/A5039896013|GB|DAC|38|confirmed|ronny-pini-a5039896
+Jan Philipp Dietrich|https://openalex.org/A5087366777|DE|Cross-cutting CDR|38|verified|jan-philipp-dietrich-a5087366
+Matteo Gazzani|https://openalex.org/A5040380606|NL|DAC|38|verified|matteo-gazzani-a5040380
+Daniel C. McCorkle|https://openalex.org/A5110912989|US|Ocean CDR|38|estimated|daniel-c-mccorkle-a5110912
+Paraskevi Pitta|https://openalex.org/A5029477240|GR|Ocean CDR|38|verified|paraskevi-pitta-a5029477
+Andrew Chapman|https://openalex.org/A5018157580|JP|DAC|38|verified|andrew-chapman-a5018157
+Syed Shams Yazdani|https://openalex.org/A5058911046|IN|BECCS|38||syed-shams-yazdani-a5058911
+Spyros Foteinis|https://openalex.org/A5057305490|GB|Ocean CDR|37|verified|spyros-foteinis-a5057305
+Graeme Puxty|https://openalex.org/A5088038094|AU|DAC|37|verified|graeme-puxty-a5088038
+Masoom Raza Siddiqui|https://openalex.org/A5031175602|SA|Biochar|37|verified|masoom-raza-siddiqui-a5031175
+Susana García|https://openalex.org/A5044341184|GB|DAC|36|verified|susana-garcia-a5044341
+Wolfgang Koeve|https://openalex.org/A5044333223|DE|Ocean CDR|36|confirmed|wolfgang-koeve-a5044333
+Ofélia de Queiroz Fernandes Araújo|https://openalex.org/A5005281241|BR|BECCS|36|verified|ofelia-de-queiroz-fernandes-araujo-a5005281
+Qie Sun|https://openalex.org/A5100611178|CN|BECCS|36|verified|qie-sun-a5100611
+Bjarne Steffen|https://openalex.org/A5051413085|CH|Cross-cutting CDR|35|estimated|bjarne-steffen-a5051413
+Christopher R. Pearce|https://openalex.org/A5070628684|GB|Enhanced Weathering|35|verified|christopher-r-pearce-a5070628
+Nicholas Ward|https://openalex.org/A5016338735|US|Ocean CDR|35|verified|nicholas-ward-a5016338
+Henrik I. Petersen|https://openalex.org/A5016856899|DK|Biochar|35|verified|henrik-i-petersen-a5016856
+Helene Muri|https://openalex.org/A5010735883|NO|Ocean CDR|35|verified|helene-muri-a5010735
+Hanna Lee|https://openalex.org/A5044293223|NO|Cross-cutting CDR|35|verified|hanna-lee-a5044293
+Shuangjun Li|https://openalex.org/A5000532573|KR|DAC|35|verified|shuangjun-li-a5000532
+Eva Thorin|https://openalex.org/A5052844123|SE|BECCS|35|confirmed|eva-thorin-a5052844
+Xiaohong Zhu|https://openalex.org/A5039299664|US|Biochar|34|verified|xiaohong-zhu-a5039299
+Helen S. Findlay|https://openalex.org/A5034359898|GB|Ocean CDR|34|verified|helen-s-findlay-a5034359
+Zebedee Nicholls|https://openalex.org/A5049205667|AU|Cross-cutting CDR|34|verified|zebedee-nicholls-a5049205
+Jihua Liu|https://openalex.org/A5100629648|CN|Ocean CDR|34|confirmed|jihua-liu-a5100629
+Guido Raos|https://openalex.org/A5052105299|IT|Ocean CDR|34|confirmed|guido-raos-a5052105
+Gang Kevin Li|https://openalex.org/A5055340435|AU|DAC|34|verified|gang-kevin-li-a5055340
+Shisuo Fan|https://openalex.org/A5022283225|CN|Biochar|34|confirmed|shisuo-fan-a5022283
+Tongtong Wang|https://openalex.org/A5100687966|CN|Biochar|34|verified|tongtong-wang-a5100687
+Pedro Rochedo|https://openalex.org/A5013873246|AE|Cross-cutting CDR|33|verified|pedro-rochedo-a5013873
+Brendan R. Carter|https://openalex.org/A5008670707|US|Ocean CDR|33|verified|brendan-r-carter-a5008670
+Katsumasa Tanaka|https://openalex.org/A5033739527|FR|BECCS|33|verified|katsumasa-tanaka-a5033739
+José Luiz de Medeiros|https://openalex.org/A5004811368|BR|BECCS|33|confirmed|jose-luiz-de-medeiros-a5004811
+Solomon Brown|https://openalex.org/A5048780607|GB|BECCS|33|verified|solomon-brown-a5048780
+José M. de la Rosa Arranz|https://openalex.org/A5032318695|ES|Biochar|33|verified|jose-m-de-la-rosa-arranz-a5032318
+Will R. Turner|https://openalex.org/A5059333702|US|Enhanced Weathering|33|verified|will-r-turner-a5059333
+Mahboob Alam|https://openalex.org/A5069819330|PK|Biochar|33|confirmed|mahboob-alam-a5069819
+Frédéric Gazeau|https://openalex.org/A5039141126|FR|Ocean CDR|33|verified|frederic-gazeau-a5039141
+Oliver Geden|https://openalex.org/A5016996676|DE|Cross-cutting CDR|32|confirmed|oliver-geden-a5016996
+Humphrey Adun|https://openalex.org/A5027923888|CY|Cross-cutting CDR|32|verified|humphrey-adun-a5027923
+Javier Lezaun|https://openalex.org/A5085557590|GB|Ocean CDR|32|estimated|javier-lezaun-a5085557
+Matthias Kalkuhl|https://openalex.org/A5069718268|DE|Cross-cutting CDR|32|verified|matthias-kalkuhl-a5069718
+Thomas Helmer Pedersen|https://openalex.org/A5028259786|DK|DAC|32|confirmed|thomas-helmer-pedersen-a5028259
+Dong‐Yeun Koh|https://openalex.org/A5082658370|KR|DAC|32|verified|dongyeun-koh-a5082658
+Jochen Linßen|https://openalex.org/A5055909025|DE|DAC|32|verified|jochen-linen-a5055909
+Richard L. Axelbaum|https://openalex.org/A5091399109|US|BECCS|32|confirmed|richard-l-axelbaum-a5091399
+Jiajun Hu|https://openalex.org/A5058846208|CN|Biochar|32|verified|jiajun-hu-a5058846
+Yuanfei Wang|https://openalex.org/A5101455449|CN|Biochar|32|confirmed|yuanfei-wang-a5101455
+Jeffrey Dankwa Ampah|https://openalex.org/A5044399467|CN|Cross-cutting CDR|31|confirmed|jeffrey-dankwa-ampah-a5044399
+Daniela Basso|https://openalex.org/A5026560276|IT|Ocean CDR|31|verified|daniela-basso-a5026560
+Christian Moretti|https://openalex.org/A5027325818|CH|DAC|31|verified|christian-moretti-a5027325
+Hermann Tempel|https://openalex.org/A5014866560|DE|DAC|31|verified|hermann-tempel-a5014866
+Ram L. Ray|https://openalex.org/A5085883771|US|Biochar|31|verified|ram-l-ray-a5085883
+Jessica Strefler|https://openalex.org/A5056511064|DE|Cross-cutting CDR|30|confirmed|jessica-strefler-a5056511
+Ken Oshiro|https://openalex.org/A5057996181|JP|Cross-cutting CDR|30|verified|ken-oshiro-a5057996
+Yi Wai Chiang|https://openalex.org/A5024380396|CA|Enhanced Weathering|30|verified|yi-wai-chiang-a5024380
+Daniel L. Sanchez|https://openalex.org/A5016864843|US|BECCS|29|confirmed|daniel-l-sanchez-a5016864
+Naomi E. Vaughan|https://openalex.org/A5022069918|GB|Cross-cutting CDR|29|verified|naomi-e-vaughan-a5022069
+Simon H. Pang|https://openalex.org/A5037709742|US|DAC|29|verified|simon-h-pang-a5037709
+Haris Ishaq|https://openalex.org/A5047835879|CA|DAC|29|confirmed|haris-ishaq-a5047835
+Zhaohui Aleck Wang|https://openalex.org/A5031746761|US|Ocean CDR|29|verified|zhaohui-aleck-wang-a5031746
+Haibo Zhai|https://openalex.org/A5073584426|US|BECCS|29|verified|haibo-zhai-a5073584
+Jihui Li|https://openalex.org/A5071052943|CN|Biochar|29|verified|jihui-li-a5071052
+Stephen M. Smith|https://openalex.org/A5110129533|GB|Cross-cutting CDR|28|estimated|stephen-m-smith-a5110129
+Ángel Galán‐Martín|https://openalex.org/A5067787980|ES|BECCS|28|verified|angel-galanmartin-a5067787
+Masahiro Sugiyama|https://openalex.org/A5064075890|JP|Cross-cutting CDR|28|verified|masahiro-sugiyama-a5064075
+Arianna Azzellino|https://openalex.org/A5025068282|IT|Ocean CDR|28|verified|arianna-azzellino-a5025068
+Grazia Leonzio|https://openalex.org/A5023097254|IT|DAC|28|confirmed|grazia-leonzio-a5023097
+Jann Michael Weinand|https://openalex.org/A5064139912|DE|DAC|28|verified|jann-michael-weinand-a5064139
+Benjapon Chalermsinsuwan|https://openalex.org/A5090351271|TH|DAC|28|confirmed|benjapon-chalermsinsuwan-a5090351
+C. R. Lawrence|https://openalex.org/A5079910667|US|Enhanced Weathering|28|verified|c-r-lawrence-a5079910
+Dariusz Mikielewicz|https://openalex.org/A5028768589|PL|BECCS|28|confirmed|dariusz-mikielewicz-a5028768
+Ioannis D. Manariotis|https://openalex.org/A5017616023|GR|Biochar|28|verified|ioannis-d-manariotis-a5017616
+Jixiang Li|https://openalex.org/A5101688119|CN|Biochar|28|confirmed|jixiang-li-a5101688
+Jessica Cross|https://openalex.org/A5031991617|US|Ocean CDR|27|verified|jessica-cross-a5031991
+Sandylove Afrane|https://openalex.org/A5021147590|CN|Cross-cutting CDR|27|estimated|sandylove-afrane-a5021147
+Bonnie G. Waring|https://openalex.org/A5010282852|GB|Enhanced Weathering|27|confirmed|bonnie-g-waring-a5010282
+Dia Milani|https://openalex.org/A5067927457|AU|DAC|27|confirmed|dia-milani-a5067927
+Mathias Fridahl|https://openalex.org/A5081929312|SE|BECCS|26|verified|mathias-fridahl-a5081929
+Wilfried Rickels|https://openalex.org/A5020112645|DE|Ocean CDR|26|verified|wilfried-rickels-a5020112
+Mijndert van der Spek|https://openalex.org/A5062642687|GB|DAC|26|verified|mijndert-van-der-spek-a5062642
+Snežana Maletić|https://openalex.org/A5001570054|RS|Biochar|26|confirmed|snezana-maletic-a5001570
+Hassan Shokry|https://openalex.org/A5058291586|EG|Biochar|26|verified|hassan-shokry-a5058291
+Min‐Tian Gao|https://openalex.org/A5050601079|CN|Biochar|26|estimated|mintian-gao-a5050601
+David P. Keller|https://openalex.org/A5068205859|DE|Ocean CDR|25|verified|david-p-keller-a5068205
+Jan Taucher|https://openalex.org/A5007343280|DE|Ocean CDR|25|verified|jan-taucher-a5007343
+David Wårlind|https://openalex.org/A5086576086|SE|Cross-cutting CDR|25|verified|david-warlind-a5086576
+Patrick Frings|https://openalex.org/A5066536322|DE|Enhanced Weathering|25|verified|patrick-frings-a5066536
+Ang Wang|https://openalex.org/A5055145875|CN|Enhanced Weathering|25|confirmed|ang-wang-a5055145
+Jackson Nkoh Nkoh|https://openalex.org/A5066227449|CN|Biochar|25|verified|jackson-nkoh-nkoh-a5066227
+Yalan Chen|https://openalex.org/A5007453595|CN|Biochar|25|verified|yalan-chen-a5007453
+Nils Markusson|https://openalex.org/A5004419918|GB|Cross-cutting CDR|24|verified|nils-markusson-a5004419
+Sean McCoy|https://openalex.org/A5001684164|CA|DAC|24|verified|sean-mccoy-a5001684
+Abdulkarem I. Amhamed|https://openalex.org/A5037947804|QA|DAC|24|verified|abdulkarem-i-amhamed-a5037947
+Stavros Michailos|https://openalex.org/A5052441020|GB|DAC|24|verified|stavros-michailos-a5052441
+Patricia Grasse|https://openalex.org/A5066845777|DE|Ocean CDR|24|verified|patricia-grasse-a5066845
+Tao E|https://openalex.org/A5010028947|CN|Biochar|24|estimated|tao-e-a5010028
+Stefano Caserini|https://openalex.org/A5070147967|IT|Ocean CDR|23|verified|stefano-caserini-a5070147
+Michael D. Tyka|https://openalex.org/A5073201933|US|Ocean CDR|23|verified|michael-d-tyka-a5073201
+Lester Kwiatkowski|https://openalex.org/A5022134879|FR|Ocean CDR|23|verified|lester-kwiatkowski-a5022134
+Matthew D. Eisaman|https://openalex.org/A5005365119|US|Ocean CDR|23|verified|matthew-d-eisaman-a5005365
+Sean Low|https://openalex.org/A5005320428|DK|Cross-cutting CDR|23|verified|sean-low-a5005320
+Lyla L. Taylor|https://openalex.org/A5001741530|GB|Enhanced Weathering|23|verified|lyla-l-taylor-a5001741
+Alexander Sauer|https://openalex.org/A5037568055|DE|BECCS|23|verified|alexander-sauer-a5037568
+Atsushi Nakao|https://openalex.org/A5038863863|JP|Enhanced Weathering|23|verified|atsushi-nakao-a5038863
+Hyewon Kim|https://openalex.org/A5100600220|US|Ocean CDR|23|verified|hyewon-kim-a5100600
+Abdelghafour Zaabout|https://openalex.org/A5089623956|MA|DAC|23|confirmed|abdelghafour-zaabout-a5089623
+Junyao Wang|https://openalex.org/A5102012362|CN|DAC|23|confirmed|junyao-wang-a5102012
+Sebastiaan van de Velde|https://openalex.org/A5041138489|NZ|Ocean CDR|23|verified|sebastiaan-van-de-velde-a5041138
+Paweł Ziółkowski|https://openalex.org/A5022146966|PL|BECCS|23|verified|pawe-ziokowski-a5022146
+Tamás Krisztin|https://openalex.org/A5075867172|AT|BECCS|23|verified|tamas-krisztin-a5075867
+Sen Dou|https://openalex.org/A5019119464|CN|Biochar|23|confirmed|sen-dou-a5019119
+Nadine Mengis|https://openalex.org/A5079879047|DE|Cross-cutting CDR|22|verified|nadine-mengis-a5079879
+Chad M. Baum|https://openalex.org/A5057828579|DK|Cross-cutting CDR|22|verified|chad-m-baum-a5057828
+Nikolas Hagemann|https://openalex.org/A5062868787|CH|Biochar|22|verified|nikolas-hagemann-a5062868
+Xuancan Zhu|https://openalex.org/A5072713173|CN|DAC|22|confirmed|xuancan-zhu-a5072713
+Anna P. M. Michel|https://openalex.org/A5024026979|US|Ocean CDR|22|verified|anna-p-m-michel-a5024026
+Philip D. Weyman|https://openalex.org/A5019645278|US|Enhanced Weathering|22|verified|philip-d-weyman-a5019645
+Daniel Valadão Silva|https://openalex.org/A5018039712|BR|Biochar|22|confirmed|daniel-valadao-silva-a5018039
+Elina Brutschin|https://openalex.org/A5005798398|AT|Cross-cutting CDR|21|verified|elina-brutschin-a5005798
+Sonja Geilert|https://openalex.org/A5043903020|NL|Ocean CDR|21|confirmed|sonja-geilert-a5043903
+Philipp Porada|https://openalex.org/A5008250208|DE|Enhanced Weathering|21|verified|philipp-porada-a5008250
+Mojtaba Fakhraee|https://openalex.org/A5051417333|US|Ocean CDR|21|verified|mojtaba-fakhraee-a5051417
+Matthias M. May|https://openalex.org/A5010478591|DE|Cross-cutting CDR|21|verified|matthias-m-may-a5010478
+Niklas von der Aßen|https://openalex.org/A5054263137|DE|DAC|21|verified|niklas-von-der-aen-a5054263
+Alexander Ryota Keeley|https://openalex.org/A5073705863|JP|DAC|21|verified|alexander-ryota-keeley-a5073705
+Zhaofeng Chang|https://openalex.org/A5003993455|CN|Biochar|21|confirmed|zhaofeng-chang-a5003993
+Shikha Mishra|https://openalex.org/A5012094395|US|BECCS|21||shikha-mishra-a5012094
+Yang Ou|https://openalex.org/A5060371544|CN|Cross-cutting CDR|20|verified|yang-ou-a5060371
+Adam V. Subhas|https://openalex.org/A5048374257|US|Ocean CDR|20|verified|adam-v-subhas-a5048374
+Salvatore Calabrese|https://openalex.org/A5026553655|US|Enhanced Weathering|20|verified|salvatore-calabrese-a5026553
+Robert Miehe|https://openalex.org/A5070424010|DE|BECCS|20|verified|robert-miehe-a5070424
+﻿Arnaud Laurent|https://openalex.org/A5033431748|CA|Ocean CDR|20|verified|arnaud-laurent-a5033431
+Nathalie Monnerie|https://openalex.org/A5065748208|DE|DAC|20|confirmed|nathalie-monnerie-a5065748
+Jon McCalmont|https://openalex.org/A5053097577|GB|BECCS|20|verified|jon-mccalmont-a5053097
+Jay Fuhrman|https://openalex.org/A5034052350|US|Cross-cutting CDR|19|verified|jay-fuhrman-a5034052
+Erika Callagon La Plante|https://openalex.org/A5071999876|US|Ocean CDR|19|verified|erika-callagon-la-plante-a5071999
+Finn Müller-Hansen|https://openalex.org/A5048034354|DE|Cross-cutting CDR|19|verified|finn-muller-hansen-a5048034
+Annette Eschenbach|https://openalex.org/A5006233070|DE|Biochar|19|verified|annette-eschenbach-a5006233
+Étienne Tourigny|https://openalex.org/A5026790328|ES|Cross-cutting CDR|19|verified|etienne-tourigny-a5026790
+Nader Marzban|https://openalex.org/A5071788034|DE|Biochar|19|confirmed|nader-marzban-a5071788
+Robert W. Brown|https://openalex.org/A5003791978|GB|Biochar|19|confirmed|robert-w-brown-a5003791
+A. Shepherd|https://openalex.org/A5028767784|GB|BECCS|19|verified|a-shepherd-a5028767
+Peter Psarras|https://openalex.org/A5075179959|US|DAC|18|verified|peter-psarras-a5075179
+Jongsoo Shin|https://openalex.org/A5079999299|US|Cross-cutting CDR|18|verified|jongsoo-shin-a5079999
+Dominik Keiner|https://openalex.org/A5015267488|FI|Cross-cutting CDR|18|verified|dominik-keiner-a5015267
+Mathilde Fajardy|https://openalex.org/A5027334693|GB|BECCS|18|verified|mathilde-fajardy-a5027334
+Mathilde Hagens|https://openalex.org/A5069214824|NL|Enhanced Weathering|18|verified|mathilde-hagens-a5069214
+Sandrine Selosse|https://openalex.org/A5067314498|FR|BECCS|18|verified|sandrine-selosse-a5067314
+Anna Neubeck|https://openalex.org/A5004740193|SE|Enhanced Weathering|18|verified|anna-neubeck-a5004740
+Melissa J. Murphy|https://openalex.org/A5075982781|DE|Enhanced Weathering|18|verified|melissa-j-murphy-a5075982
+Muhammad Akram|https://openalex.org/A5083409756|GB|BECCS|18|verified|muhammad-akram-a5083409
+Stéphanie Grand|https://openalex.org/A5023581815|CH|Enhanced Weathering|18|verified|stephanie-grand-a5023581
+Andrey Lessa Derci Augustynczik|https://openalex.org/A5067345650|AT|BECCS|18|verified|andrey-lessa-derci-augustynczik-a5067345
+Anyu Li|https://openalex.org/A5024109228|CN|Biochar|18|verified|anyu-li-a5024109
+Hua Deng|https://openalex.org/A5017874185|CN|Biochar|18|confirmed|hua-deng-a5017874
+Carlos Paulo|https://openalex.org/A5077581438|CA|Enhanced Weathering|17|verified|carlos-paulo-a5077581
+Shinichiro Asayama|https://openalex.org/A5088972440|JP|Cross-cutting CDR|17|verified|shinichiro-asayama-a5088972
+Steef V. Hanssen|https://openalex.org/A5085343190|NL|BECCS|17|confirmed|steef-v-hanssen-a5085343
+Emily Cox|https://openalex.org/A5033239714|GB|Cross-cutting CDR|17|verified|emily-cox-a5033239
+Thorben Amann|https://openalex.org/A5051923172|DE|Enhanced Weathering|17|verified|thorben-amann-a5051923
+Joscha N. Becker|https://openalex.org/A5012439183|DE|Biochar|17|verified|joscha-n-becker-a5012439
+Ruth Musgrave|https://openalex.org/A5039999342|CA|Ocean CDR|17|verified|ruth-musgrave-a5039999
+Markus Millinger|https://openalex.org/A5029145309|SE|BECCS|17|verified|markus-millinger-a5029145
+Alix Vidal|https://openalex.org/A5059677956|NL|Enhanced Weathering|17|verified|alix-vidal-a5059677
+Nicolás Sánchez|https://openalex.org/A5027018210|NO|Ocean CDR|17|verified|nicolas-sanchez-a5027018
+Riti Thapar Kapoor|https://openalex.org/A5037145417|IN|Biochar|17|confirmed|riti-thapar-kapoor-a5037145
+Brian P. Setzler|https://openalex.org/A5046492904|US|DAC|17|verified|brian-p-setzler-a5046492
+Marijana Kragulj Isakovski|https://openalex.org/A5007335652|RS|Biochar|17|verified|marijana-kragulj-isakovski-a5007335
+Yubin Hu|https://openalex.org/A5040781218|CN|Ocean CDR|17|verified|yubin-hu-a5040781
+William Joe Sagues|https://openalex.org/A5008564347|US|BECCS|16|confirmed|william-joe-sagues-a5008564
+Arka Rudra|https://openalex.org/A5091328285|DK|Biochar|16|confirmed|arka-rudra-a5091328
+Seongmin Son|https://openalex.org/A5055286957|KR|DAC|16|verified|seongmin-son-a5055286
+Wojciech Jerzak|https://openalex.org/A5047466959|PL|Biochar|16|verified|wojciech-jerzak-a5047466
+Liam A. Bullock|https://openalex.org/A5076444409|ES|Enhanced Weathering|15|verified|liam-a-bullock-a5076444
+Miranda Boettcher|https://openalex.org/A5061263206|DE|Ocean CDR|15|verified|miranda-boettcher-a5061263
+Tania Timmermann|https://openalex.org/A5054841325|US|Enhanced Weathering|15|estimated|tania-timmermann-a5054841
+Yoshiki Kanzaki|https://openalex.org/A5017547454|US|Enhanced Weathering|15|confirmed|yoshiki-kanzaki-a5017547
+Norman Julius Steinert|https://openalex.org/A5029222116|NO|Cross-cutting CDR|15|verified|norman-julius-steinert-a5029222
+Dominic Lenzi|https://openalex.org/A5023443003|NL|Cross-cutting CDR|15|confirmed|dominic-lenzi-a5023443
+Hiroto Shiraki|https://openalex.org/A5064672144|JP|Cross-cutting CDR|15|verified|hiroto-shiraki-a5064672
+Silvan Urs Goldenberg|https://openalex.org/A5011298922|DE|Ocean CDR|15|confirmed|silvan-urs-goldenberg-a5011298
+Jennie E. Rheuban|https://openalex.org/A5040595878|US|Ocean CDR|15|confirmed|jennie-e-rheuban-a5040595
+Diego Marazza|https://openalex.org/A5076670003|IT|Biochar|15|verified|diego-marazza-a5076670
+Matthias Honegger|https://openalex.org/A5079084697|NL|Cross-cutting CDR|14|verified|matthias-honegger-a5079084
+Amanda Stubbs|https://openalex.org/A5041395132|GB|Enhanced Weathering|14|incomplete|amanda-stubbs-a5041395
+Kati Koponen|https://openalex.org/A5091330647|FI|BECCS|14|verified|kati-koponen-a5091330
+Morgan R. Edwards|https://openalex.org/A5113308797|US|Cross-cutting CDR|14|incomplete|morgan-r-edwards-a5113308
+Danial Esmaeili Aliabadi|https://openalex.org/A5029647177|DE|BECCS|14|verified|danial-esmaeili-aliabadi-a5029647
+Chinmayee V. Subban|https://openalex.org/A5062579057|US|Ocean CDR|14|verified|chinmayee-v-subban-a5062579
+Abhijeet Singh|https://openalex.org/A5044155031|SE|Enhanced Weathering|14|verified|abhijeet-singh-a5044155
+Yihe Miao|https://openalex.org/A5086130377|CN|DAC|14|verified|yihe-miao-a5086130
+Ronghua Kang|https://openalex.org/A5032068801|CN|Enhanced Weathering|14|verified|ronghua-kang-a5032068
+Hari Mantripragada|https://openalex.org/A5024061297|US|DAC|14|verified|hari-mantripragada-a5024061
+Felix Schenuit|https://openalex.org/A5054371800|DE|Cross-cutting CDR|13|verified|felix-schenuit-a5054371
+Selene Cobo|https://openalex.org/A5082806753|ES|BECCS|13|verified|selene-cobo-a5082806
+Sara Nawaz|https://openalex.org/A5083576219|US|Ocean CDR|13|confirmed|sara-nawaz-a5083576
+Kenneth Möllersten|https://openalex.org/A5081022748|SE|BECCS|13|verified|kenneth-mollersten-a5081022
+Elias Azzi|https://openalex.org/A5039260792|SE|Biochar|13|verified|elias-azzi-a5039260
+Benedict Probst|https://openalex.org/A5091139976|GB|Cross-cutting CDR|13|confirmed|benedict-probst-a5091139
+Matteo B. Bertagni|https://openalex.org/A5090007153|IT|Enhanced Weathering|13|verified|matteo-b-bertagni-a5090007
+Noah McQueen|https://openalex.org/A5036880054|US|DAC|13|confirmed|noah-mcqueen-a5036880
+Tyler Kukla|https://openalex.org/A5044186752|US|Enhanced Weathering|13|verified|tyler-kukla-a5044186
+Chinmoy Baroi|https://openalex.org/A5040576621|US|DAC|13|verified|chinmoy-baroi-a5040576
+Dariia Atamanchuk|https://openalex.org/A5022141454|CA|Ocean CDR|13|verified|dariia-atamanchuk-a5022141
+Friedrich A. Burger|https://openalex.org/A5063499543|CH|Ocean CDR|13|confirmed|friedrich-a-burger-a5063499
+Lening Hu|https://openalex.org/A5025163855|CN|Biochar|13|confirmed|lening-hu-a5025163
+Matthieu Delannoy|https://openalex.org/A5008753917|FR|Biochar|13|confirmed|matthieu-delannoy-a5008753
+Yalçın Altunkaynak|https://openalex.org/A5037048338|TR|Biochar|13||yalcn-altunkaynak-a5037048
+Tim Jesper Suhrhoff|https://openalex.org/A5081686744|US|Enhanced Weathering|12|confirmed|tim-jesper-suhrhoff-a5081686
+Astrid Hylén|https://openalex.org/A5047703788|FR|Enhanced Weathering|12|verified|astrid-hylen-a5047703
+Jacob S. Jordan|https://openalex.org/A5091258756|PL|Enhanced Weathering|12|incomplete|jacob-s-jordan-a5091258
+Giulia Faucher|https://openalex.org/A5029772892|DE|Ocean CDR|12|confirmed|giulia-faucher-a5029772
+Nouman Rafique Mirza|https://openalex.org/A5036697628|AU|DAC|12|verified|nouman-rafique-mirza-a5036697
+Chandra Mohan Mehta|https://openalex.org/A5008862204|IN|Biochar|12|confirmed|chandra-mohan-mehta-a5008862
+Alina Brad|https://openalex.org/A5048506940|AT|Cross-cutting CDR|11|confirmed|alina-brad-a5048506
+Etienne Schneider|https://openalex.org/A5089196024|AT|Cross-cutting CDR|11|confirmed|etienne-schneider-a5089196
+Maria-Elena Vorrath|https://openalex.org/A5010895442|DE|Enhanced Weathering|11|confirmed|maria-elena-vorrath-a5010895
+Kirstine Skov|https://openalex.org/A5042164311|DK|Enhanced Weathering|11|confirmed|kirstine-skov-a5042164
+Leon Merfort|https://openalex.org/A5010129778|DE|Cross-cutting CDR|11|confirmed|leon-merfort-a5010129
+Yazhen Wu|https://openalex.org/A5051620770|AT|BECCS|11|confirmed|yazhen-wu-a5051620
+Tobias Bromm|https://openalex.org/A5000925986|DE|Biochar|11|confirmed|tobias-bromm-a5000925
+Iordanis Magiopoulos|https://openalex.org/A5069820303|GR|Ocean CDR|11|confirmed|iordanis-magiopoulos-a5069820
+Frederico Ribeiro do Carmo|https://openalex.org/A5029577765|BR|Biochar|11|confirmed|frederico-ribeiro-do-carmo-a5029577
+Christina Larkin|https://openalex.org/A5074798724|GB|Enhanced Weathering|10|incomplete|christina-larkin-a5074798
+Maria Victoria Migo-Sumagang|https://openalex.org/A5048614269|PH|Cross-cutting CDR|10|confirmed|maria-victoria-migo-sumagang-a5048614
+Sarah Lück|https://openalex.org/A5041797666|DE|Cross-cutting CDR|10|confirmed|sarah-luck-a5041797
+Michael Fuhr|https://openalex.org/A5072752114|DE|Ocean CDR|10|confirmed|michael-fuhr-a5072752
+Ingrid Smet|https://openalex.org/A5101641069|BE|Enhanced Weathering|10|verified|ingrid-smet-a5101641
+Yasser M. Abdullatif|https://openalex.org/A5059366075|QA|DAC|10|confirmed|yasser-m-abdullatif-a5059366
+Farzin Hosseinifard|https://openalex.org/A5093733646|IR|DAC|10|confirmed|farzin-hosseinifard-a5093733
+Luis E. Hernández Gutiérrez|https://openalex.org/A5088121930|ES|DAC|10|confirmed|luis-e-hernandez-gutierrez-a5088121
+Giuseppe Cipolla|https://openalex.org/A5019374730|IT|Enhanced Weathering|10|confirmed|giuseppe-cipolla-a5019374
+Margarita de Las Obras Loscertales|https://openalex.org/A5057397603|ES|BECCS|10|verified|margarita-de-las-obras-loscertales-a5057397
+Christiane Hennig|https://openalex.org/A5045674888|DE|BECCS|10|estimated|christiane-hennig-a5045674
+Romany Webb|https://openalex.org/A5110590296|US|Ocean CDR|9|estimated|romany-webb-a5110590
+Gaurav Ganti|https://openalex.org/A5002533374|AT|Cross-cutting CDR|9|confirmed|gaurav-ganti-a5002533
+Ali Kiani|https://openalex.org/A5070604945|AU|DAC|9|incomplete|ali-kiani-a5070604
+Michiel Van Tendeloo|https://openalex.org/A5075775747|BE|Enhanced Weathering|9|confirmed|michiel-van-tendeloo-a5075775
+Anežka Borčinová Radková|https://openalex.org/A5037816602||Enhanced Weathering|9|estimated|anezka-borcinova-radkova-a5037816
+Reza Khalidy|https://openalex.org/A5010802809||Enhanced Weathering|9|confirmed|reza-khalidy-a5010802
+Jet Rijnders|https://openalex.org/A5052294079|BE|Enhanced Weathering|9|confirmed|jet-rijnders-a5052294
+Mak Đukan|https://openalex.org/A5013904400|DE|DAC|9|confirmed|mak-ukan-a5013904
+Mohammad Moosazadeh|https://openalex.org/A5012347041|KR|DAC|9|confirmed|mohammad-moosazadeh-a5012347
+Mutlu Canpolat|https://openalex.org/A5005088762|TR|Biochar|9||mutlu-canpolat-a5005088
+Malgorzata Borchers|https://openalex.org/A5078304290|DE|BECCS|8|confirmed|malgorzata-borchers-a5078304
+Yiannis Moustakis|https://openalex.org/A5054754573|DE|Cross-cutting CDR|8|confirmed|yiannis-moustakis-a5054754
+Kalina C. Grabb|https://openalex.org/A5071547085|CA|Ocean CDR|8|confirmed|kalina-c-grabb-a5071547
+Charly A. Moras|https://openalex.org/A5020057789|DE|Ocean CDR|8|confirmed|charly-a-moras-a5020057
+Harun Niron|https://openalex.org/A5045276158|BE|Enhanced Weathering|8|confirmed|harun-niron-a5045276
+T. Albahri|https://openalex.org/A5081495447|GB|Enhanced Weathering|8|incomplete|t-albahri-a5081495
+Tobias Linke|https://openalex.org/A5081151823|DE|Enhanced Weathering|8|estimated|tobias-linke-a5081151
+Arthur Vienne|https://openalex.org/A5086565651|BE|Enhanced Weathering|8|confirmed|arthur-vienne-a5086565
+Miriam Seifert|https://openalex.org/A5036998276|DE|Ocean CDR|8|confirmed|miriam-seifert-a5036998
+Julieta Schneider|https://openalex.org/A5032139497|DE|Ocean CDR|8|confirmed|julieta-schneider-a5032139
+Keju An|https://openalex.org/A5040806989|US|DAC|8|confirmed|keju-an-a5040806
+Iris Janssens|https://openalex.org/A5051345766|BE|Enhanced Weathering|8|confirmed|iris-janssens-a5051345
+Arthur Groß|https://openalex.org/A5072098302|DE|Biochar|8|incomplete|arthur-gro-a5072098
+Zhuozhen Gan|https://openalex.org/A5020127088|CN|DAC|8|confirmed|zhuozhen-gan-a5020127
+Ansgar Kretzschmar|https://openalex.org/A5036859012|DE|DAC|8|confirmed|ansgar-kretzschmar-a5036859
+Victor Selmert|https://openalex.org/A5017213047|DE|DAC|8|confirmed|victor-selmert-a5017213
+Maxwell Pisciotta|https://openalex.org/A5082529161|US|DAC|7|confirmed|maxwell-pisciotta-a5082529
+Francesco Pietro Campo|https://openalex.org/A5047434192|IT|Ocean CDR|7|confirmed|francesco-pietro-campo-a5047434
+Tom Reershemius|https://openalex.org/A5008768478|GB|Enhanced Weathering|7|confirmed|tom-reershemius-a5008768
+Ruben Prütz|https://openalex.org/A5011946431|DE|Cross-cutting CDR|7|confirmed|ruben-prutz-a5011946
+Wanxuan Yao|https://openalex.org/A5069543157|DE|Ocean CDR|7|confirmed|wanxuan-yao-a5069543
+Injy Johnstone|https://openalex.org/A5035898273|GB|Cross-cutting CDR|7|confirmed|injy-johnstone-a5035898
+Dimitar Z. Epihov|https://openalex.org/A5056786183|GB|Enhanced Weathering|7|confirmed|dimitar-z-epihov-a5056786
+Mallory Ringham|https://openalex.org/A5042898332|US|Ocean CDR|7|confirmed|mallory-ringham-a5042898
+Sally Homsy|https://openalex.org/A5087798236|US|DAC|7|confirmed|sally-homsy-a5087798
+Mirko Engelpracht|https://openalex.org/A5026220642|DE|DAC|7|incomplete|mirko-engelpracht-a5026220
+Xavier Dupla|https://openalex.org/A5010537667|CH|Enhanced Weathering|7|confirmed|xavier-dupla-a5010537
+Chaewoon Oh|https://openalex.org/A5008685099|KR|DAC|7|incomplete|chaewoon-oh-a5008685
+Freia Harzendorf|https://openalex.org/A5028836533|DE|DAC|7|confirmed|freia-harzendorf-a5028836
+Quirin Grossmann|https://openalex.org/A5051401878|CH|DAC|7|confirmed|quirin-grossmann-a5051401
+Hirdan Katarina de Medeiros Costa|https://openalex.org/A5070667153|BR|BECCS|7|confirmed|hirdan-katarina-de-medeiros-costa-a5070667
+Kamil Stasiak|https://openalex.org/A5006549829|PL|BECCS|7|incomplete|kamil-stasiak-a5006549
+Mike Kelland|https://openalex.org/A5075310246|US|Enhanced Weathering|6|confirmed|mike-kelland-a5075310
+Christiana Dietzen|https://openalex.org/A5050210023|DK|Enhanced Weathering|6|confirmed|christiana-dietzen-a5050210
+Osamu Nishiura|https://openalex.org/A5037582292|JP|Cross-cutting CDR|6|confirmed|osamu-nishiura-a5037582
+Laura Steinwidder|https://openalex.org/A5058405084|BE|Enhanced Weathering|6|confirmed|laura-steinwidder-a5058405
+Mathew Dennis Wilkes|https://openalex.org/A5061155876|GB|BECCS|6|confirmed|mathew-dennis-wilkes-a5061155
+Craig Bettenhausen﻿|https://openalex.org/A5032647403||Cross-cutting CDR|6|incomplete|craig-bettenhausen-a5032647
+Pacharapol Nokpho|https://openalex.org/A5076032169|TH|DAC|6|estimated|pacharapol-nokpho-a5076032
+Beibei Dong|https://openalex.org/A5112316382|SE|BECCS|6|confirmed|beibei-dong-a5112316
+Sk. Beebi|https://openalex.org/A5033219026|IN|BECCS|6||sk-beebi-a5033219
+Nainesh Modi|https://openalex.org/A5031147093|IN|DAC|6||nainesh-modi-a5031147
+Katrin Sievert|https://openalex.org/A5094051316|CH|DAC|5|confirmed|katrin-sievert-a5094051
+Thomas Corbett|https://openalex.org/A5012497109|SE|Enhanced Weathering|5|incomplete|thomas-corbett-a5012497
+Reinaldy Poetra|https://openalex.org/A5051333088|DE|Enhanced Weathering|5|incomplete|reinaldy-poetra-a5051333
+Michael Wögerer|https://openalex.org/A5088505449|AT|BECCS|5|confirmed|michael-wogerer-a5088505
+Lina Röschel|https://openalex.org/A5025340994|DE|Ocean CDR|5|incomplete|lina-roschel-a5025340
+Niels Suitner|https://openalex.org/A5035414216|DE|Ocean CDR|5|confirmed|niels-suitner-a5035414
+Patrik Postweiler|https://openalex.org/A5056523125|DE|DAC|5|incomplete|patrik-postweiler-a5056523
+Daniel Rezo|https://openalex.org/A5093964772|DE|DAC|5|incomplete|daniel-rezo-a5093964
+Sina Hoseinpoori|https://openalex.org/A5052140923|SE|DAC|5|incomplete|sina-hoseinpoori-a5052140
+Tronje P. Kemena|https://openalex.org/A5043456533|DE|Ocean CDR|5|confirmed|tronje-p-kemena-a5043456
+Jonathan Spence|https://openalex.org/A5109285998|CA|Enhanced Weathering|5|estimated|jonathan-spence-a5109285
+Tullia Calogiuri|https://openalex.org/A5091603840|NL|Enhanced Weathering|5|confirmed|tullia-calogiuri-a5091603
+Lukas Rieder|https://openalex.org/A5093245162|DE|Enhanced Weathering|5|incomplete|lukas-rieder-a5093245
+Selene Varliero|https://openalex.org/A5063753462|IT|Ocean CDR|5|confirmed|selene-varliero-a5063753
+Nicoletta Brazzola|https://openalex.org/A5030128980|GB|DAC|5|confirmed|nicoletta-brazzola-a5030128
+Lukas Marx|https://openalex.org/A5002822093|US|Ocean CDR|5|confirmed|lukas-marx-a5002822
+Leila Kittu|https://openalex.org/A5085342752|DE|Ocean CDR|5|confirmed|leila-kittu-a5085342
+Rachel Silcox|https://openalex.org/A5014181867|US|Ocean CDR|5|confirmed|rachel-silcox-a5014181
+Piyush Behari Lal|https://openalex.org/A5036771884|IN|BECCS|5||piyush-behari-lal-a5036771
+J. P. Misra|https://openalex.org/A5009024968|IN|BECCS|5||j-p-misra-a5009024
+Vittoria Bolongaro|https://openalex.org/A5092617373|CH|DAC|4|confirmed|vittoria-bolongaro-a5092617
+Johannes Meyer zu Drewer|https://openalex.org/A5089195581|CH|Biochar|4|confirmed|johannes-meyer-zu-drewer-a5089195
+Mohammad Sadr|https://openalex.org/A5038945227|DE|BECCS|4|confirmed|mohammad-sadr-a5038945
+Laura Marín-Samper|https://openalex.org/A5013241791|ES|Ocean CDR|4|confirmed|laura-marin-samper-a5013241
+Kirsty Harrington|https://openalex.org/A5003735383|GB|Enhanced Weathering|4|confirmed|kirsty-harrington-a5003735
+Lucilla Boito|https://openalex.org/A5094096782|BE|Enhanced Weathering|4|confirmed|lucilla-boito-a5094096
+Behrouz Gholamahmadi|https://openalex.org/A5079131566|PT|Biochar|4|confirmed|behrouz-gholamahmadi-a5079131
+Nicole Ferru|https://openalex.org/A5053323655|CH|DAC|4|incomplete|nicole-ferru-a5053323
+Alexander Boedijn|https://openalex.org/A5063307293|NL|DAC|4|confirmed|alexander-boedijn-a5063307
+Ronja Wollnik|https://openalex.org/A5098773807|DE|BECCS|3|confirmed|ronja-wollnik-a5098773
+Sophie Chlela|https://openalex.org/A5010115224|FR|BECCS|3|estimated|sophie-chlela-a5010115
+Amy McBride|https://openalex.org/A5104254727|DE|Enhanced Weathering|3|estimated|amy-mcbride-a5104254
+Kohei Kurokawa|https://openalex.org/A5067284010|JP|Enhanced Weathering|3|confirmed|kohei-kurokawa-a5067284
+Thomas Schöb|https://openalex.org/A5057352136|DE|DAC|3|confirmed|thomas-schob-a5057352
+Jasper Roussard|https://openalex.org/A5094096172|BE|Enhanced Weathering|3|estimated|jasper-roussard-a5094096
+Lara Meuleneers|https://openalex.org/A5104453151|DE|DAC|3|estimated|lara-meuleneers-a5104453
+Paul de Joannis|https://openalex.org/A5114757003|FR|DAC|3|estimated|paul-de-joannis-a5114757
+Yinghuan Xie|https://openalex.org/A5000973788|AU|Ocean CDR|3|confirmed|yinghuan-xie-a5000973
+Hendrik Großelindemann|https://openalex.org/A5046916264|CH|Ocean CDR|3|confirmed|hendrik-groelindemann-a5046916
+Maria Seedtke|https://openalex.org/A5083234694|DE|Biochar|2|confirmed|maria-seedtke-a5083234
+Gonzalo Fuenzalida-Meriz|https://openalex.org/A5095372257|US|Enhanced Weathering|2|confirmed|gonzalo-fuenzalida-meriz-a5095372
+Gregory Jones|https://openalex.org/A5032322574|GB|Enhanced Weathering|2|confirmed|gregory-jones-a5032322
+Tzara Bierowiec|https://openalex.org/A5022537045|PL|Enhanced Weathering|2|estimated|tzara-bierowiec-a5022537
+Giulia Cazzagon|https://openalex.org/A5116238715|GB|Enhanced Weathering|2|incomplete|giulia-cazzagon-a5116238
+Matthew Healey|https://openalex.org/A5016334764|GB|Enhanced Weathering|2|incomplete|matthew-healey-a5016334
+Ralf Steffens|https://openalex.org/A5036254945|DE|Enhanced Weathering|2|verified|ralf-steffens-a5036254
+Dirk Paessler|https://openalex.org/A5009555573|DE|Enhanced Weathering|2|verified|dirk-paessler-a5009555
+Mikita Maslouski|https://openalex.org/A5027998855|DE|Biochar|2|confirmed|mikita-maslouski-a5027998
+Oscar Stenström|https://openalex.org/A5083858474|SE|BECCS|2|incomplete|oscar-stenstrom-a5083858
+Henrik Wenzel|https://openalex.org/A5102746148|DE|DAC|2|confirmed|henrik-wenzel-a5102746
+Jens Hammes|https://openalex.org/A5108549613|DE|Enhanced Weathering|2|verified|jens-hammes-a5108549
+Sara Groppelli|https://openalex.org/A5094110298|IT|Ocean CDR|2|estimated|sara-groppelli-a5094110
+Davide Calvi|https://openalex.org/A5094110297|IT|Ocean CDR|2|estimated|davide-calvi-a5094110
+Federico Comazzi|https://openalex.org/A5094107899|IT|Ocean CDR|2|estimated|federico-comazzi-a5094107
+Quinn Zacharias|https://openalex.org/A5086059587|US|Enhanced Weathering|2|estimated|quinn-zacharias-a5086059
+Sandy Avrutin|https://openalex.org/A5082075493|DE|Ocean CDR|2|confirmed|sandy-avrutin-a5082075
+Kanchana Phianchana|https://openalex.org/A5117360696|TH|DAC|2|estimated|kanchana-phianchana-a5117360
+Iza Lantgios|https://openalex.org/A5084466466|US|DAC|2|confirmed|iza-lantgios-a5084466
+Nikol Kirova|https://openalex.org/A5042136458|ES|Biochar|2|estimated|nikol-kirova-a5042136
+H.R. Nasriani|https://openalex.org/A5140669540|GB|DAC|2||hr-nasriani-a5140669
+Ella Milliken|https://openalex.org/A5117487314|US|Enhanced Weathering|1|confirmed|ella-milliken-a5117487
+Anna A. Stoeckel|https://openalex.org/A5120424771|PL|Enhanced Weathering|1|confirmed|anna-a-stoeckel-a5120424
+Susanne E. Hamburger|https://openalex.org/A5116618283|DE|Biochar|1|confirmed|susanne-e-hamburger-a5116618
+Kenneth Okosun|https://openalex.org/A5118195894|DE|DAC|1|estimated|kenneth-okosun-a5118195
+Taejun Song|https://openalex.org/A5122304284|KR|DAC|1|estimated|taejun-song-a5122304
+Joohyung Jung|https://openalex.org/A5122366264|KR|DAC|1|estimated|joohyung-jung-a5122366
+Pratham Joshi|https://openalex.org/A5009569431|IN|BECCS|1||pratham-joshi-a5009569
+Fengchao Sun|https://openalex.org/A5138922287|US|Enhanced Weathering|1||fengchao-sun-a5138922
+Millie Dobson|https://openalex.org/A5113068250|GB|Enhanced Weathering|0|incomplete|millie-dobson-a5113068
+Dr. C.M. Vivek Vardhan|https://openalex.org/A5121091287|IN|Biochar|0|estimated|dr-cm-vivek-vardhan-a5121091
+Christine Merk|https://openalex.org/A5135538820|DE|Ocean CDR|0||christine-merk-a5135538
+Vishwajit Kumar|https://openalex.org/A5130755326|IN|BECCS|0||vishwajit-kumar-a5130755
+Prakash Peralam Yegneswaran|https://openalex.org/A5138419665|IN|BECCS|0||prakash-peralam-yegneswaran-a5138419
+Bhavanari Mallikarjun|https://openalex.org/A5138451111|IN|BECCS|0||bhavanari-mallikarjun-a5138451
+P. J. Amal Joseph|https://openalex.org/A5132953010|IN|BECCS|0||p-j-amal-joseph-a5132953
+G. Sailaja|https://openalex.org/A5132964590|IN|BECCS|0||g-sailaja-a5132964
+N. L. Janaki|https://openalex.org/A5132958964|IN|BECCS|0||n-l-janaki-a5132958
+Daniela Thrän|https://openalex.org/A5140066699||BECCS|0||daniela-thran-a5140066
+Samira Jamali Alamooti|https://openalex.org/A5138703322|IT|Ocean CDR|0||samira-jamali-alamooti-a5138703
+Ms. Sindhu Jannareddy|https://openalex.org/A5121063427||Biochar|0||ms-sindhu-jannareddy-a5121063
+M. Nasiri Ghiri|https://openalex.org/A5140599316|GB|DAC|0||m-nasiri-ghiri-a5140599
+L. Khajehnoori|https://openalex.org/A5140697838|GB|DAC|0||l-khajehnoori-a5140697
+S.Priyadarshini|https://openalex.org/A5132661375||BECCS|0||spriyadarshini-a5132661
+Hardik P. Malaviya|https://openalex.org/A5148898310|IN|DAC|0||hardik-p-malaviya-a5148898
