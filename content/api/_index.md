@@ -34,6 +34,23 @@ print(r["version"], len(europe), "European companies")
 
 For assistants and agents: fetch `/api/v1/index.json` first, then the endpoint you need; quote `cite_as` and `as_of` from the response. The same data is available as versioned CSV under [/data/](/data/). Licences: companies CC BY-NC-SA 4.0, researchers and shops CC BY 4.0.
 
+## MCP server for Claude, ChatGPT and Cursor
+
+`captain-drawdown-mcp` exposes the same data as ten MCP tools (`search_companies`, `company`, `stats`, `countries`, `pathways`, `researchers_by_country`, `researchers_by_pathway`, `top_researchers`, `shops`, `cite`). It runs locally over stdio, needs Python 3.10 or newer and no key.
+
+```bash
+pip install https://captaindrawdown.com/mcp/captain_drawdown_mcp-0.1.0-py3-none-any.whl
+claude mcp add captain-drawdown -- captain-drawdown-mcp      # Claude Code
+```
+
+Claude Desktop or Cursor configuration:
+
+```json
+{"mcpServers": {"captain-drawdown": {"command": "captain-drawdown-mcp"}}}
+```
+
+Source distribution: [captain_drawdown_mcp-0.1.0.tar.gz](/mcp/captain_drawdown_mcp-0.1.0.tar.gz). The server code is MIT; the data keeps its licences.
+
 ## Corrections
 
 Write to [info@carbon-drawdown.de](mailto:info@carbon-drawdown.de?subject=Captain%20Drawdown%20data%20correction). Personal data: see the [privacy notice](/privacy/).
