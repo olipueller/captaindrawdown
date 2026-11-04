@@ -1,7 +1,7 @@
 ---
 title: "Philipp Swoboda"
 description: "Philipp Swoboda is a Mid-career Enhanced Weathering researcher at Fraunhofer Institute for Telecommunications, Heinrich Hertz Institute in DE. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.319930
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/philipp-swoboda-a5038674/"
 layout: "researcher"
 hiddenInHomeList: true

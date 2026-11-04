@@ -1,7 +1,7 @@
 ---
 title: "Ryan P. Lively"
 description: "Ryan P. Lively is an Eminent DAC researcher at Georgia Institute of Technology in US. With 339 publications and an h-index of 64, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.259240
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/ryan-p-lively-a5021581/"
 layout: "researcher"
 hiddenInHomeList: true

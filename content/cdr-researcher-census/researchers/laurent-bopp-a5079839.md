@@ -1,7 +1,7 @@
 ---
 title: "Laurent Bopp"
 description: "Laurent Bopp is an Eminent Ocean CDR researcher at IPSL in FR. With 603 publications and an h-index of 115, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.242323
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/laurent-bopp-a5079839/"
 layout: "researcher"
 hiddenInHomeList: true

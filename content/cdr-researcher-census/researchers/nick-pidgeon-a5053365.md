@@ -1,7 +1,7 @@
 ---
 title: "Nick Pidgeon"
 description: "Nick Pidgeon is an Eminent General CDR researcher at Cardiff University in GB. With 266 publications and an h-index of 80, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.253722
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/nick-pidgeon-a5053365/"
 layout: "researcher"
 hiddenInHomeList: true

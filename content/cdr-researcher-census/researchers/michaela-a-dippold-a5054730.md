@@ -1,7 +1,7 @@
 ---
 title: "Michaela A. Dippold"
 description: "Michaela A. Dippold is an Eminent Soil Carbon researcher at University of Tübingen in DE. With 304 publications and an h-index of 51, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.279015
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/michaela-a-dippold-a5054730/"
 layout: "researcher"
 hiddenInHomeList: true

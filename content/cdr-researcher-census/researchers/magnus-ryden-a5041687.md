@@ -1,7 +1,7 @@
 ---
 title: "Magnus Rydén"
 description: "Magnus Rydén is an Eminent BECCS researcher at Chalmers tekniska högskola AB in SE. With 137 publications and an h-index of 45, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.287653
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/magnus-ryden-a5041687/"
 layout: "researcher"
 hiddenInHomeList: true

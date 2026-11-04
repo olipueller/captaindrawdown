@@ -1,7 +1,7 @@
 ---
 title: "Ken O. Buesseler"
 description: "Ken O. Buesseler is an Eminent Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 336 publications and an h-index of 88, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.253010
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/ken-o-buesseler-a5012317/"
 layout: "researcher"
 hiddenInHomeList: true

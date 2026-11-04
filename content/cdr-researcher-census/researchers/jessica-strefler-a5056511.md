@@ -1,7 +1,7 @@
 ---
 title: "Jessica Strefler"
 description: "Jessica Strefler is a Senior General CDR researcher at Aarhus University in DK. With 104 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.267698
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/jessica-strefler-a5056511/"
 layout: "researcher"
 hiddenInHomeList: true

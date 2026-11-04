@@ -1,7 +1,7 @@
 ---
 title: "Yong Sik Ok"
 description: "Yong Sik Ok is an Eminent Biochar researcher at Korea University in KR. With 1134 publications and an h-index of 185, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.239086
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/yong-sik-ok-a5053298/"
 layout: "researcher"
 hiddenInHomeList: true

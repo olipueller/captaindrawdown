@@ -1,7 +1,7 @@
 ---
 title: "Gaurav Sant"
 description: "Gaurav Sant is an Eminent Ocean CDR researcher at California NanoSystems Institute in US. With 309 publications and an h-index of 62, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.268824
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/gaurav-sant-a5044493/"
 layout: "researcher"
 hiddenInHomeList: true

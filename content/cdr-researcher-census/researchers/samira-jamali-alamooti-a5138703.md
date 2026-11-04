@@ -1,7 +1,7 @@
 ---
 title: "Samira Jamali Alamooti"
 description: "Samira Jamali Alamooti is an Early-career Ocean CDR researcher at Politecnico di Milano in IT. With 5 publications and an h-index of N/A, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.332255
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/samira-jamali-alamooti-a5138703/"
 layout: "researcher"
 hiddenInHomeList: true

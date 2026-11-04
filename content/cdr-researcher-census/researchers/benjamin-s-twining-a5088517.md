@@ -1,7 +1,7 @@
 ---
 title: "Benjamin S. Twining"
 description: "Benjamin S. Twining is an Eminent Ocean CDR researcher at Bigelow Laboratory for Ocean Sciences in US. With 179 publications and an h-index of 48, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.275469
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/benjamin-s-twining-a5088517/"
 layout: "researcher"
 hiddenInHomeList: true

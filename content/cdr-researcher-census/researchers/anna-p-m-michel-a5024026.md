@@ -1,7 +1,7 @@
 ---
 title: "Anna P. M. Michel"
 description: "Anna P. M. Michel is a Senior Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 118 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.307883
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/anna-p-m-michel-a5024026/"
 layout: "researcher"
 hiddenInHomeList: true

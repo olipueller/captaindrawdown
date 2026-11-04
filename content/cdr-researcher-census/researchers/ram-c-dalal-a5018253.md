@@ -1,7 +1,7 @@
 ---
 title: "Ram C. Dalal"
 description: "Ram C. Dalal is an Eminent Soil Carbon researcher at The University of Queensland in AU. With 408 publications and an h-index of 72, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.259893
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/ram-c-dalal-a5018253/"
 layout: "researcher"
 hiddenInHomeList: true

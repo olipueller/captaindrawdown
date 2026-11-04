@@ -1,7 +1,7 @@
 ---
 title: "Malgorzata Borchers"
 description: "Malgorzata Borchers is a Mid-career General CDR researcher at Helmholtz Centre for Environmental Research in DE. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.324028
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/malgorzata-borchers-a5078304/"
 layout: "researcher"
 hiddenInHomeList: true

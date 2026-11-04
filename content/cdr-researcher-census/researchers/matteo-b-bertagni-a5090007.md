@@ -1,7 +1,7 @@
 ---
 title: "Matteo B. Bertagni"
 description: "Matteo B. Bertagni is a Mid-career Enhanced Weathering researcher at Politecnico di Torino in IT. With 70 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.316430
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/matteo-b-bertagni-a5090007/"
 layout: "researcher"
 hiddenInHomeList: true

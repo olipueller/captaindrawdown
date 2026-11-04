@@ -1,7 +1,7 @@
 ---
 title: "Francesco Pietro Campo"
 description: "Francesco Pietro Campo is a Mid-career Ocean CDR researcher at Politecnico di Milano in IT. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.322561
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/francesco-pietro-campo-a5047434/"
 layout: "researcher"
 hiddenInHomeList: true

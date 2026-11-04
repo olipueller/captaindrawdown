@@ -1,7 +1,7 @@
 ---
 title: "Vishwajit Kumar"
 description: "Vishwajit Kumar is an Early-career BECCS researcher at Manipal Academy of Higher Education in IN. With 8 publications and an h-index of N/A, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.331935
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/vishwajit-kumar-a5130755/"
 layout: "researcher"
 hiddenInHomeList: true

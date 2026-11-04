@@ -1,7 +1,7 @@
 ---
 title: "Davey L. Jones"
 description: "Davey L. Jones is an Eminent Soil Carbon researcher at The University of Western Australia in AU. With 1199 publications and an h-index of 131, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.242712
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/davey-l-jones-a5064381/"
 layout: "researcher"
 hiddenInHomeList: true

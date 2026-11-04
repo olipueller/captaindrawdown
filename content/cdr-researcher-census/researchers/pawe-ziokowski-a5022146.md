@@ -1,7 +1,7 @@
 ---
 title: "Paweł Ziółkowski"
 description: "Paweł Ziółkowski is a Senior BECCS researcher at Gdańsk University of Technology in PL. With 165 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.308543
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/pawe-ziokowski-a5022146/"
 layout: "researcher"
 hiddenInHomeList: true

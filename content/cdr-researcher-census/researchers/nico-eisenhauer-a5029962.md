@@ -1,7 +1,7 @@
 ---
 title: "Nico Eisenhauer"
 description: "Nico Eisenhauer is an Eminent Soil Carbon researcher at Universität Leipzig in DE. With 902 publications and an h-index of 112, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.245158
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/nico-eisenhauer-a5029962/"
 layout: "researcher"
 hiddenInHomeList: true

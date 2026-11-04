@@ -1,7 +1,7 @@
 ---
 title: "Maurício Roberto Cherubin"
 description: "Maurício Roberto Cherubin is an Eminent Soil Carbon researcher at Universidade de São Paulo - Escola Superior de Agricultura Luiz de Queiroz in BR. With 317 publications and an h-index of 51, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.279448
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/mauricio-roberto-cherubin-a5047372/"
 layout: "researcher"
 hiddenInHomeList: true

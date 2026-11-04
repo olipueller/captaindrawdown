@@ -1,7 +1,7 @@
 ---
 title: "Haiping Yang"
 description: "Haiping Yang is an Eminent Biochar researcher at Changji University in CN. With 575 publications and an h-index of 88, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.249350
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/haiping-yang-a5024934/"
 layout: "researcher"
 hiddenInHomeList: true

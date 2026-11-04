@@ -1,7 +1,7 @@
 ---
 title: "Bruce E. Dale"
 description: "Bruce E. Dale is an Eminent BECCS researcher at Great Lakes Bioenergy Research Center in US. With 448 publications and an h-index of 96, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.250175
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/bruce-e-dale-a5015618/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Éder C. Lima"
 description: "Éder C. Lima is an Eminent Biochar researcher at King Saud University in SA. With 495 publications and an h-index of 98, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.250782
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/eder-c-lima-a5011032/"
 layout: "researcher"
 hiddenInHomeList: true

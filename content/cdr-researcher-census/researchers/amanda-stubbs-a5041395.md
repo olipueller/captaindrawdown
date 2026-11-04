@@ -1,7 +1,7 @@
 ---
 title: "Amanda Stubbs"
 description: "Amanda Stubbs is a Senior Enhanced Weathering researcher at Royal Bank of Scotland (United Kingdom) in GB. With 57 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.318650
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/amanda-stubbs-a5041395/"
 layout: "researcher"
 hiddenInHomeList: true

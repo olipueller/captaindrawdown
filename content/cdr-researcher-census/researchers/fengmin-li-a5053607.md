@@ -1,7 +1,7 @@
 ---
 title: "Feng‐Min Li"
 description: "Feng‐Min Li is an Eminent Soil Carbon researcher at Nanjing Agricultural University in CN. With 571 publications and an h-index of 78, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.257800
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/fengmin-li-a5053607/"
 layout: "researcher"
 hiddenInHomeList: true

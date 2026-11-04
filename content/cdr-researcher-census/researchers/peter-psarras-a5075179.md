@@ -1,7 +1,7 @@
 ---
 title: "Peter Psarras"
 description: "Peter Psarras is a Mid-career General CDR researcher at University of Pennsylvania in US. With 65 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.301417
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/peter-psarras-a5075179/"
 layout: "researcher"
 hiddenInHomeList: true

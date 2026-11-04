@@ -1,7 +1,7 @@
 ---
 title: "Mengxiang Fang"
 description: "Mengxiang Fang is an Eminent DAC researcher at Zhejiang University in CN. With 275 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.277665
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/mengxiang-fang-a5054422/"
 layout: "researcher"
 hiddenInHomeList: true

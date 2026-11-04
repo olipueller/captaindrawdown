@@ -1,7 +1,7 @@
 ---
 title: "Quinn Zacharias"
 description: "Quinn Zacharias is an Early-career Enhanced Weathering researcher at Yale University in US. With 10 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.330439
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/quinn-zacharias-a5086059/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "David A. Siegel"
 description: "David A. Siegel is an Eminent Ocean CDR researcher at University of California Santa Barbara in US. With 401 publications and an h-index of 93, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.248982
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/david-a-siegel-a5015835/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Tzara Bierowiec"
 description: "Tzara Bierowiec is an Early-career Enhanced Weathering researcher at Nano Carbon (Poland) in PL. With 14 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.329006
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/tzara-bierowiec-a5022537/"
 layout: "researcher"
 hiddenInHomeList: true

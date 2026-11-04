@@ -1,7 +1,7 @@
 ---
 title: "Beibei Dong"
 description: "Beibei Dong is a Senior BECCS researcher at Mälardalen University in SE. With 36 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.327668
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/beibei-dong-a5112316/"
 layout: "researcher"
 hiddenInHomeList: true

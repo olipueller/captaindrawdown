@@ -1,7 +1,7 @@
 ---
 title: "I. B. Kantola"
 description: "I. B. Kantola is a Mid-career Enhanced Weathering researcher at University of Illinois Urbana-Champaign in US. With 61 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.308130
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/i-b-kantola-a5084112/"
 layout: "researcher"
 hiddenInHomeList: true

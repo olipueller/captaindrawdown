@@ -1,7 +1,7 @@
 ---
 title: "Dariusz Mikielewicz"
 description: "Dariusz Mikielewicz is a Senior BECCS researcher at Gdańsk University of Technology in PL. With 245 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.301775
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/dariusz-mikielewicz-a5028768/"
 layout: "researcher"
 hiddenInHomeList: true

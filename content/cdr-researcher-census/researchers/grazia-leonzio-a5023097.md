@@ -1,7 +1,7 @@
 ---
 title: "Grazia Leonzio"
 description: "Grazia Leonzio is a Senior DAC researcher at Università di Cagliari in IT. With 83 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.303923
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/grazia-leonzio-a5023097/"
 layout: "researcher"
 hiddenInHomeList: true

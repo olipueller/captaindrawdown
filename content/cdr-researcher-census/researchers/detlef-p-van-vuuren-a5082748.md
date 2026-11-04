@@ -1,7 +1,7 @@
 ---
 title: "Detlef P. van Vuuren"
 description: "Detlef P. van Vuuren is an Eminent General CDR researcher at PBL Netherlands Environmental Assessment Agency in NL. With 875 publications and an h-index of 150, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.239669
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/detlef-p-van-vuuren-a5082748/"
 layout: "researcher"
 hiddenInHomeList: true

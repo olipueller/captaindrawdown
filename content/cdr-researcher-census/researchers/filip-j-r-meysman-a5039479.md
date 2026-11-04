@@ -1,7 +1,7 @@
 ---
 title: "Filip J. R. Meysman"
 description: "Filip J. R. Meysman is an Eminent Enhanced Weathering researcher at University of Antwerp in BE. With 346 publications and an h-index of 61, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.266828
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/filip-j-r-meysman-a5039479/"
 layout: "researcher"
 hiddenInHomeList: true

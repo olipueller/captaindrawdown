@@ -1,7 +1,7 @@
 ---
 title: "Ivan A. Janssens"
 description: "Ivan A. Janssens is an Eminent Enhanced Weathering researcher at Universiteit Antwerpen in BE. With 709 publications and an h-index of 123, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.242510
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/ivan-a-janssens-a5013418/"
 layout: "researcher"
 hiddenInHomeList: true

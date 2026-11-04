@@ -1,7 +1,7 @@
 ---
 title: "Amy McBride"
 description: "Amy McBride is a Senior Enhanced Weathering researcher at Deutsche Gesellschaft für Muskelkranke in DE. With 16 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.327931
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/amy-mcbride-a5104254/"
 layout: "researcher"
 hiddenInHomeList: true

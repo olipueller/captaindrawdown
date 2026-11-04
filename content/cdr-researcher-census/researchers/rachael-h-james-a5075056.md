@@ -1,7 +1,7 @@
 ---
 title: "Rachael H. James"
 description: "Rachael H. James is an Eminent Enhanced Weathering researcher at University of Southampton in GB. With 239 publications and an h-index of 59, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.272780
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/rachael-h-james-a5075056/"
 layout: "researcher"
 hiddenInHomeList: true

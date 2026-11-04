@@ -1,7 +1,7 @@
 ---
 title: "Daniel Rezo"
 description: "Daniel Rezo is a Mid-career DAC researcher at RWTH Aachen University in DE. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.327254
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/daniel-rezo-a5093964/"
 layout: "researcher"
 hiddenInHomeList: true

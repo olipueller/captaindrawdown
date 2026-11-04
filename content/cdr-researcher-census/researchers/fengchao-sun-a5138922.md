@@ -1,7 +1,7 @@
 ---
 title: "Fengchao Sun"
 description: "Fengchao Sun is an Early-career Enhanced Weathering researcher at Yale School of the Environment in US. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.331661
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/fengchao-sun-a5138922/"
 layout: "researcher"
 hiddenInHomeList: true

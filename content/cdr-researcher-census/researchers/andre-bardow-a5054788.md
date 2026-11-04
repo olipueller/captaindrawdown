@@ -1,7 +1,7 @@
 ---
 title: "André Bardow"
 description: "André Bardow is an Eminent DAC researcher at ETH Zurich in CH. With 695 publications and an h-index of 68, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.254742
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/andre-bardow-a5054788/"
 layout: "researcher"
 hiddenInHomeList: true

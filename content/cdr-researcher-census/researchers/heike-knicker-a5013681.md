@@ -1,7 +1,7 @@
 ---
 title: "Heike Knicker"
 description: "Heike Knicker is an Eminent Soil Carbon researcher at Consejo Superior de Investigaciones Científicas in ES. With 576 publications and an h-index of 76, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.260036
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/heike-knicker-a5013681/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Andrew Chapman"
 description: "Andrew Chapman is a Senior DAC researcher at International Institute for Carbon Neutral Energy Research in JP. With 254 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.292844
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/andrew-chapman-a5018157/"
 layout: "researcher"
 hiddenInHomeList: true

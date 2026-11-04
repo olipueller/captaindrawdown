@@ -1,7 +1,7 @@
 ---
 title: "Gail Taylor"
 description: "Gail Taylor is an Eminent BECCS researcher at University College London in GB. With 399 publications and an h-index of 62, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.266011
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/gail-taylor-a5027336/"
 layout: "researcher"
 hiddenInHomeList: true

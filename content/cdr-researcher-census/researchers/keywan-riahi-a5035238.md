@@ -1,7 +1,7 @@
 ---
 title: "Keywan Riahi"
 description: "Keywan Riahi is an Eminent General CDR researcher at International Institute for Applied Systems Analysis in AT. With 569 publications and an h-index of 114, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.240704
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/keywan-riahi-a5035238/"
 layout: "researcher"
 hiddenInHomeList: true

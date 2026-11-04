@@ -1,7 +1,7 @@
 ---
 title: "Prakash Peralam Yegneswaran"
 description: "Prakash Peralam Yegneswaran is an Early-career BECCS researcher at Manipal Academy of Higher Education in IN. With 6 publications and an h-index of N/A, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.332029
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/prakash-peralam-yegneswaran-a5138419/"
 layout: "researcher"
 hiddenInHomeList: true

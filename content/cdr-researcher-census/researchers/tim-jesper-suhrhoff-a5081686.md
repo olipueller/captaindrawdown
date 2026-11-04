@@ -1,7 +1,7 @@
 ---
 title: "Tim Jesper Suhrhoff"
 description: "Tim Jesper Suhrhoff is a Mid-career General CDR researcher at Yale University in US. With 66 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.315295
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/tim-jesper-suhrhoff-a5081686/"
 layout: "researcher"
 hiddenInHomeList: true

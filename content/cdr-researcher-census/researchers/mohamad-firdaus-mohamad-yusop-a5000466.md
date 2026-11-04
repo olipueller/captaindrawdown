@@ -1,7 +1,7 @@
 ---
 title: "Mohamad Firdaus Mohamad Yusop"
 description: "Mohamad Firdaus Mohamad Yusop is a Mid-career Biochar researcher at Universiti Sains Malaysia in MY. With 55 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.314289
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/mohamad-firdaus-mohamad-yusop-a5000466/"
 layout: "researcher"
 hiddenInHomeList: true

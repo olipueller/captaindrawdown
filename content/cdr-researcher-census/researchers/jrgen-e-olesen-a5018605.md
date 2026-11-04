@@ -1,7 +1,7 @@
 ---
 title: "Jørgen E. Olesen"
 description: "Jørgen E. Olesen is an Eminent Soil Carbon researcher at Aarhus University in DK. With 1022 publications and an h-index of 95, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.247198
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/jrgen-e-olesen-a5018605/"
 layout: "researcher"
 hiddenInHomeList: true

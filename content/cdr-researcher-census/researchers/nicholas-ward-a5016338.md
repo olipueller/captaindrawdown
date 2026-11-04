@@ -1,7 +1,7 @@
 ---
 title: "Nicholas Ward"
 description: "Nicholas Ward is a Senior Ocean CDR researcher at University of Washington in US. With 1429 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.288057
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/nicholas-ward-a5016338/"
 layout: "researcher"
 hiddenInHomeList: true

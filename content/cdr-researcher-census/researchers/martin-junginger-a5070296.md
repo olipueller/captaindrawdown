@@ -1,7 +1,7 @@
 ---
 title: "Martin Junginger"
 description: "Martin Junginger is an Eminent BECCS researcher at Utrecht University in NL. With 327 publications and an h-index of 68, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.265643
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/martin-junginger-a5070296/"
 layout: "researcher"
 hiddenInHomeList: true

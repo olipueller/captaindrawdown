@@ -1,7 +1,7 @@
 ---
 title: "Tommaso Chiti"
 description: "Tommaso Chiti is a Senior Soil Carbon researcher at Università degli Studi della Tuscia Dipartimento per la Innovazione nei sistemi Biologici Agroali­mentari e Forestali in IT. With 89 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.308809
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/tommaso-chiti-a5001989/"
 layout: "researcher"
 hiddenInHomeList: true

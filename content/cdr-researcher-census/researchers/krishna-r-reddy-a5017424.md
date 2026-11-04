@@ -1,7 +1,7 @@
 ---
 title: "Krishna R. Reddy"
 description: "Krishna R. Reddy is an Eminent Biochar researcher at University of Illinois Chicago in US. With 597 publications and an h-index of 75, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.258217
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/krishna-r-reddy-a5017424/"
 layout: "researcher"
 hiddenInHomeList: true

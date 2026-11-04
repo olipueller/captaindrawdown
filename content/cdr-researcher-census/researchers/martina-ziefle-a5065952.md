@@ -1,7 +1,7 @@
 ---
 title: "Martina Ziefle"
 description: "Martina Ziefle is an Eminent General CDR researcher at RWTH Aachen University in DE. With 720 publications and an h-index of 53, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.269240
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/martina-ziefle-a5065952/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Chin‐Pao Huang"
 description: "Chin‐Pao Huang is an Eminent Biochar researcher at National Taiwan University in TW. With 375 publications and an h-index of 80, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.257489
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/chinpao-huang-a5009506/"
 layout: "researcher"
 hiddenInHomeList: true

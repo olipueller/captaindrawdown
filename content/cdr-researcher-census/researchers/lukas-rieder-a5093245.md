@@ -1,7 +1,7 @@
 ---
 title: "Lukas Rieder"
 description: "Lukas Rieder is a Mid-career Enhanced Weathering researcher at Universität Hamburg in DE. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.328869
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/lukas-rieder-a5093245/"
 layout: "researcher"
 hiddenInHomeList: true

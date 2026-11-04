@@ -1,7 +1,7 @@
 ---
 title: "Jong‐Seong Kug"
 description: "Jong‐Seong Kug is an Eminent General CDR researcher at Seoul National University in KR. With 559 publications and an h-index of 64, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.257657
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/jongseong-kug-a5091389/"
 layout: "researcher"
 hiddenInHomeList: true

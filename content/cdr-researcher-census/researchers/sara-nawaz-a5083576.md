@@ -1,7 +1,7 @@
 ---
 title: "Sara Nawaz"
 description: "Sara Nawaz is a Mid-career General CDR researcher at American University in US. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.321254
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/sara-nawaz-a5083576/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Amit Kumar"
 description: "Amit Kumar is an Eminent Soil Carbon researcher at Nanjing University of Information Science and Technology in CN. With 272 publications and an h-index of 52, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.275330
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/amit-kumar-a5028945/"
 layout: "researcher"
 hiddenInHomeList: true

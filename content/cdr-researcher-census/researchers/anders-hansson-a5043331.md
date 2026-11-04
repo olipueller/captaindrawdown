@@ -1,7 +1,7 @@
 ---
 title: "Anders Hansson"
 description: "Anders Hansson is an Eminent General CDR researcher. With 178 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.294038
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/anders-hansson-a5043331/"
 layout: "researcher"
 hiddenInHomeList: true

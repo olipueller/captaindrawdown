@@ -1,7 +1,7 @@
 ---
 title: "Jingfan Zhang"
 description: "Jingfan Zhang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 52 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.315002
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/jingfan-zhang-a5101565/"
 layout: "researcher"
 hiddenInHomeList: true

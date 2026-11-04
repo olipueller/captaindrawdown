@@ -1,7 +1,7 @@
 ---
 title: "José M. de la Rosa Arranz"
 description: "José M. de la Rosa Arranz is a Senior Biochar researcher at Consejo Superior de Investigaciones Científicas in ES. With 309 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.292437
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/jose-m-de-la-rosa-arranz-a5032318/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Еvgenia Blagodatskaya"
 description: "Еvgenia Blagodatskaya is an Eminent Soil Carbon researcher at Helmholtz Centre for Environmental Research in DE. With 311 publications and an h-index of 65, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.261439
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/vgenia-blagodatskaya-a5062871/"
 layout: "researcher"
 hiddenInHomeList: true

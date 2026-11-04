@@ -1,7 +1,7 @@
 ---
 title: "Hirdan Katarina de Medeiros Costa"
 description: "Hirdan Katarina de Medeiros Costa is a Mid-career BECCS researcher at Instituto Tecnológico de Aeronáutica - Campus de Fortaleza in BR. With 57 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.315549
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/hirdan-katarina-de-medeiros-costa-a5070667/"
 layout: "researcher"
 hiddenInHomeList: true

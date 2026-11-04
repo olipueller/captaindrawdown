@@ -1,7 +1,7 @@
 ---
 title: "Georg Guggenberger"
 description: "Georg Guggenberger is an Eminent Soil Carbon researcher at Leibniz Universität Hannover in DE. With 568 publications and an h-index of 93, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.246758
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/georg-guggenberger-a5072191/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Pietro Bartocci"
 description: "Pietro Bartocci is an Eminent BECCS researcher at RISE Research Institutes of Sweden in SE. With 196 publications and an h-index of 45, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.284156
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/pietro-bartocci-a5082211/"
 layout: "researcher"
 hiddenInHomeList: true

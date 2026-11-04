@@ -1,7 +1,7 @@
 ---
 title: "Budiman Minasny"
 description: "Budiman Minasny is an Eminent Soil Carbon researcher at The University of Sydney in AU. With 748 publications and an h-index of 99, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.246416
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/budiman-minasny-a5051455/"
 layout: "researcher"
 hiddenInHomeList: true

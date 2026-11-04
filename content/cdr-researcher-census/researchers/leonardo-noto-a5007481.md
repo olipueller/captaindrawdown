@@ -1,7 +1,7 @@
 ---
 title: "Leonardo Noto"
 description: "Leonardo Noto is an Eminent Enhanced Weathering researcher at University of Palermo in IT. With 332 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.290701
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/leonardo-noto-a5007481/"
 layout: "researcher"
 hiddenInHomeList: true

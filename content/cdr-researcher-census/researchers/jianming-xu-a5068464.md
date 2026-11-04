@@ -1,7 +1,7 @@
 ---
 title: "Jianming Xu"
 description: "Jianming Xu is an Eminent Soil Carbon researcher at Zhejiang University in CN. With 812 publications and an h-index of 106, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.246060
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/jianming-xu-a5068464/"
 layout: "researcher"
 hiddenInHomeList: true

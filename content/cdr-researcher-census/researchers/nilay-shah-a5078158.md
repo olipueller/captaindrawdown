@@ -1,7 +1,7 @@
 ---
 title: "Nilay Shah"
 description: "Nilay Shah is an Eminent General CDR researcher at Imperial College London in GB. With 581 publications and an h-index of 86, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.248576
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/nilay-shah-a5078158/"
 layout: "researcher"
 hiddenInHomeList: true

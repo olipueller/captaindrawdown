@@ -1,7 +1,7 @@
 ---
 title: "Mario Grosso"
 description: "Mario Grosso is an Eminent Ocean CDR researcher at Politecnico di Milano in IT. With 304 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.289659
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/mario-grosso-a5082273/"
 layout: "researcher"
 hiddenInHomeList: true

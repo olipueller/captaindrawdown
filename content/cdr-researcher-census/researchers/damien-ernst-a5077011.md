@@ -1,7 +1,7 @@
 ---
 title: "Damien Ernst"
 description: "Damien Ernst is an Eminent DAC researcher at Télécom Paris in FR. With 412 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.263138
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/damien-ernst-a5077011/"
 layout: "researcher"
 hiddenInHomeList: true

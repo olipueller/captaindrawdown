@@ -1,7 +1,7 @@
 ---
 title: "Kenneth Okosun"
 description: "Kenneth Okosun is an Early-career DAC researcher at Forschungszentrum Jülich in DE. With 10 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.330065
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/kenneth-okosun-a5118195/"
 layout: "researcher"
 hiddenInHomeList: true

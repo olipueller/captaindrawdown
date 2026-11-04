@@ -1,7 +1,7 @@
 ---
 title: "David J. Wilson"
 description: "David J. Wilson is a Senior Enhanced Weathering researcher at University College London in GB. With 333 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.277364
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/david-j-wilson-a5044892/"
 layout: "researcher"
 hiddenInHomeList: true

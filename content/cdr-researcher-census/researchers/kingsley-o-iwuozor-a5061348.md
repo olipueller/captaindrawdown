@@ -1,7 +1,7 @@
 ---
 title: "Kingsley O. Iwuozor"
 description: "Kingsley O. Iwuozor is an Eminent Biochar researcher at University of Ilorin in NG. With 208 publications and an h-index of 48, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.279734
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/kingsley-o-iwuozor-a5061348/"
 layout: "researcher"
 hiddenInHomeList: true

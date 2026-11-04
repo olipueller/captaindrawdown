@@ -1,7 +1,7 @@
 ---
 title: "Jens Hammes"
 description: "Jens Hammes is a Senior Enhanced Weathering researcher at Carbon Drawdown Initiative in DE. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.330851
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/jens-hammes-a5108549/"
 layout: "researcher"
 hiddenInHomeList: true

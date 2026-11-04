@@ -1,7 +1,7 @@
 ---
 title: "Alexander Sauer"
 description: "Alexander Sauer is a Senior BECCS researcher at Fraunhofer Institute for Manufacturing Engineering and AutomationProduktionstechnik und Automatisierung IPA in DE. With 322 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.303507
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/alexander-sauer-a5037568/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Fredrik Normann"
 description: "Fredrik Normann is a Senior General CDR researcher at Luossavaara-Kiirunavaara Aktiebolag (Sweden) in SE. With 170 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.300081
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/fredrik-normann-a5037319/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Guirui Yu"
 description: "Guirui Yu is an Eminent Soil Carbon researcher at Chinese Academy of Sciences in CN. With 1102 publications and an h-index of 109, they are among the top researchers in carbon dioxide removal."
-date: 2026-11-04T13:41:34.245694
+date: 2026-11-04T12:42:44+00:00
 url: "/cdr-researcher-census/researchers/guirui-yu-a5008834/"
 layout: "researcher"
 hiddenInHomeList: true
