@@ -355,3 +355,5 @@ hr { border-color: var(--line); }
 .post-content .cd-result-name { font-weight: 600; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; text-decoration-color: rgba(14, 90, 106, .35); }
 .post-content .cd-result-meta { grid-column: 1; font-size: 13px; color: var(--ink-muted); }
 .post-content .cd-result-ext { grid-column: 2; grid-row: 1 / span 2; align-self: center; font-size: 13px; }
+
+.post-content .cd-result-name { justify-self: start; }
