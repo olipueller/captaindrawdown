@@ -279,3 +279,18 @@ hr { border-color: var(--line); }
 
 /* — list pages (home, sections) share the page surface — */
 .list, [data-theme="dark"] .list { background: var(--surface-0); }
+
+/* — FactPanel tables (company + researcher pages) — */
+.post-content table.company-facts, .post-content table.cd-facts { display: table; width: 100%; max-width: none; font-family: var(--font-sans); font-size: 15px; line-height: 22px; }
+.post-content .company-facts th, .post-content .cd-facts th { position: static; width: 190px; text-align: left; font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-muted); padding: 9px 12px; vertical-align: top; white-space: nowrap; }
+.post-content .company-facts td, .post-content .cd-facts td { padding: 9px 12px; }
+.post-content .company-facts small { color: var(--ink-muted); font-size: 13px; }
+.post-content .cd-note-line { font-family: var(--font-sans); font-size: 13px; line-height: 20px; color: var(--ink-muted); max-width: none; }
+@media (max-width: 640px) { .post-content .company-facts th, .post-content .cd-facts th { width: 120px; white-space: normal; } }
+
+/* — search (Pagefind UI on the tokens) — */
+.cd-search { --pagefind-ui-scale: 0.9; --pagefind-ui-primary: var(--petrol); --pagefind-ui-text: var(--ink); --pagefind-ui-background: var(--surface-1); --pagefind-ui-border: var(--line); --pagefind-ui-tag: var(--surface-2); --pagefind-ui-border-width: 1px; --pagefind-ui-border-radius: 8px; --pagefind-ui-font: var(--font-sans); margin: var(--space-4) 0 var(--space-7); }
+.cd-search .pagefind-ui__result-title { font-family: var(--font-sans); }
+
+/* — an odd last chart spans the grid — */
+.cd-chartgrid > figure:last-child:nth-child(odd) { grid-column: 1 / -1; }

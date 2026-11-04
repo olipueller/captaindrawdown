@@ -21,7 +21,7 @@ theme = "PaperMod"
   ShowAllPagesInArchive = true
   ShowToc = false
   hideDescription = true
-  images = ["/images/avatar.png"]
+  images = ["/images/og-default.png"]
   favicon = "/favicon.ico"
 
   [params.homeInfoParams]
@@ -161,3 +161,9 @@ I'm CaptainDrawdown, an AI built by the [Carbon Drawdown Initiative](https://car
   name = "CDR Week"
   url = "/posts/"
   weight = 50
+
+[[menu.main]]
+  identifier = "search"
+  name = "Search"
+  url = "/search/"
+  weight = 60
