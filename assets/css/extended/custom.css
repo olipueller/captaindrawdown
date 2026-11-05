@@ -53,7 +53,8 @@ a:hover, [data-theme="dark"] a:hover, .post-content a:hover { text-decoration: u
 .logo a .product { font-size: 19px; font-weight: 600; letter-spacing: 0.02em; }
 #menu a, .nav a, [data-theme="dark"] .nav a { color: var(--ink-muted); font-weight: 500; font-size: 15px; }
 #menu a:hover { color: var(--ink); text-decoration: none; }
-#menu li.active a, #menu a .active { color: var(--ink); border-bottom: 2px solid var(--petrol); padding-bottom: 4px; }
+#menu li.active a { color: var(--ink); }
+#menu a .active { border-bottom: 2px solid var(--petrol); padding-bottom: 4px; }
 #menu a.cd-week { color: var(--petrol); }
 .logo-switches .theme-toggle svg, #theme-toggle svg { fill: var(--ink-muted); }
 
@@ -372,3 +373,14 @@ hr { border-color: var(--line); }
 .cd-lightbox-close { position: fixed; top: max(12px, env(safe-area-inset-top, 0px)); right: max(12px, env(safe-area-inset-right, 0px)); width: 44px; height: 44px; border: 0; border-radius: 50%; background: var(--surface-0); color: var(--ink); font: 400 28px/44px var(--font-sans); cursor: pointer; }
 .cd-lightbox-close:focus-visible { outline: 2px solid #5fc3d4; outline-offset: 2px; }
 body.cd-lightbox-open { overflow: hidden; }
+
+/* — number strip: groups with a small heading and an icon per tile (Dirk 2026-11-05) — */
+.cd-stripgroup { margin: var(--space-4) 0 var(--space-5); }
+.cd-stripgroup + .cd-stripgroup { margin-top: 0; }
+.cd-strip-h, .post-content .cd-strip-h { font-family: var(--font-sans); font-size: 12px; line-height: 16px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-muted); margin: 0 0 8px; }
+.cd-stripgroup .cd-strip { margin: 0; }
+.cd-stat .cd-ic { display: block; width: 22px; height: 22px; margin: 0 0 8px; background-color: var(--petrol); -webkit-mask: var(--icon) center / contain no-repeat; mask: var(--icon) center / contain no-repeat; }
+.cd-stat--active .cd-ic { background-color: var(--tier-active); }
+.cd-stat--moderate .cd-ic { background-color: var(--tier-moderate); }
+.cd-stat--suspect .cd-ic { background-color: var(--tier-suspect); }
+.cd-stat--dead .cd-ic { background-color: var(--tier-dead); }

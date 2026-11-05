@@ -33,11 +33,20 @@
             </div>
         </div>
         {{- $currentPage := . }}
+        {{- $page_url := $currentPage.Permalink | absLangURL }}
+        {{- /* The longest menu URL that prefixes the page wins, so /data/shops/ lights
+               "Shops" alone and not "Data" as well (Dirk 2026-11-05). */}}
+        {{- $best := "" }}
+        {{- range site.Menus.main }}
+            {{- $u := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
+            {{- if or (eq $u $page_url) (and (ne .URL "/") (hasPrefix $page_url $u)) }}
+                {{- if gt (len $u) (len $best) }}{{ $best = $u }}{{ end }}
+            {{- end }}
+        {{- end }}
         <ul id="menu">
             {{- range site.Menus.main }}
             {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
-            {{- $page_url := $currentPage.Permalink | absLangURL }}
-            {{- $active := or (eq $menu_item_url $page_url) (and (ne .URL "/") (hasPrefix $page_url $menu_item_url)) }}
+            {{- $active := and (ne $best "") (eq $menu_item_url $best) }}
             <li{{ if $active }} class="active"{{ end }}>
                 <a href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }}"{{ if eq .Identifier "week" }} class="cd-week"{{ end }}>
                     <span{{ if $active }} class="active"{{ end }}>{{- .Name -}}</span>
