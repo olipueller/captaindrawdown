@@ -361,3 +361,14 @@ hr { border-color: var(--line); }
 /* — homepage hero band — */
 .cd-hero-band { margin: 0 0 var(--space-5); border-radius: var(--radius-md); overflow: hidden; border: 1px solid var(--line); background: var(--surface-1); }
 .cd-hero-band img { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; }
+
+/* — chart lightbox (Dirk 2026-11-05: full size in an overlay, not a new tab) — */
+.cd-zoom { cursor: zoom-in; display: block; }
+.cd-lightbox { position: fixed; inset: 0; z-index: 1000; background: rgba(21, 38, 44, .82); display: flex; align-items: center; justify-content: center; padding: max(16px, env(safe-area-inset-left, 0px)); }
+.cd-lightbox[hidden] { display: none; }
+.cd-lightbox figure { margin: 0; max-width: min(1600px, 96vw); max-height: 94vh; display: flex; flex-direction: column; align-items: center; gap: 10px; }
+.cd-lightbox img { max-width: 100%; max-height: 86vh; width: auto; height: auto; border-radius: var(--radius-xs); background: var(--surface-1); box-shadow: 0 12px 40px rgba(0, 0, 0, .45); cursor: zoom-out; }
+.cd-lightbox figcaption { font-family: var(--font-sans); font-size: 14px; line-height: 20px; color: #ecf1f1; text-align: center; max-width: 80ch; }
+.cd-lightbox-close { position: fixed; top: max(12px, env(safe-area-inset-top, 0px)); right: max(12px, env(safe-area-inset-right, 0px)); width: 44px; height: 44px; border: 0; border-radius: 50%; background: var(--surface-0); color: var(--ink); font: 400 28px/44px var(--font-sans); cursor: pointer; }
+.cd-lightbox-close:focus-visible { outline: 2px solid #5fc3d4; outline-offset: 2px; }
+body.cd-lightbox-open { overflow: hidden; }

@@ -3,9 +3,44 @@
 document.querySelectorAll('.post-content table, .cd-tablewrap').forEach(function (el) {
   if (el.scrollWidth > el.clientWidth && !el.hasAttribute('tabindex')) { el.setAttribute('tabindex', '0'); el.setAttribute('role', 'region'); el.setAttribute('aria-label', 'scrollable table'); }
 });
-document.querySelectorAll('.post-content img[src*="/charts/"]').forEach(function (img) {
-  if (img.closest('a')) return;
-  var a = document.createElement('a'); a.href = img.getAttribute('src'); a.target = '_blank'; a.rel = 'noopener'; a.title = 'Open the chart in full size';
-  img.parentNode.insertBefore(a, img); a.appendChild(img);
-});
+</script>
+{{- /* Lightbox for charts (Dirk 2026-11-05: no new tab). Every chart image becomes a
+       link to its full-size file; a click opens it in an overlay with the caption,
+       closed by Esc, the close button or a click on the backdrop. Without
+       JavaScript the link still opens the file. */ -}}
+<script>
+(function () {
+  var imgs = document.querySelectorAll('.post-content img[src*="/charts/"], .cd-chart img');
+  if (!imgs.length) return;
+  var box = document.createElement('div');
+  box.className = 'cd-lightbox'; box.hidden = true; box.setAttribute('role', 'dialog'); box.setAttribute('aria-modal', 'true'); box.setAttribute('aria-label', 'Chart in full size');
+  box.innerHTML = '<button type="button" class="cd-lightbox-close" aria-label="Close">×</button><figure><img alt=""><figcaption></figcaption></figure>';
+  document.body.appendChild(box);
+  var big = box.querySelector('img'), cap = box.querySelector('figcaption'), closeBtn = box.querySelector('button'), last = null;
+  function open(src, alt, caption, from) {
+    big.src = src; big.alt = alt || ''; cap.textContent = caption || alt || ''; cap.hidden = !cap.textContent;
+    last = from; box.hidden = false; document.body.classList.add('cd-lightbox-open'); closeBtn.focus();
+  }
+  function close() {
+    box.hidden = true; document.body.classList.remove('cd-lightbox-open'); big.removeAttribute('src');
+    if (last && last.focus) last.focus(); last = null;
+  }
+  imgs.forEach(function (img) {
+    var a = img.closest('a');
+    if (!a) {
+      a = document.createElement('a'); a.href = img.getAttribute('src');
+      img.parentNode.insertBefore(a, img); a.appendChild(img);
+    }
+    a.classList.add('cd-zoom'); a.removeAttribute('target'); a.title = 'Show the chart in full size';
+    a.addEventListener('click', function (ev) {
+      if (ev.metaKey || ev.ctrlKey || ev.shiftKey) return;
+      ev.preventDefault();
+      var fig = img.closest('figure'), fc = fig ? fig.querySelector('figcaption') : null;
+      open(a.href, img.getAttribute('alt'), fc ? fc.textContent : '', a);
+    });
+  });
+  closeBtn.addEventListener('click', close);
+  box.addEventListener('click', function (ev) { if (ev.target === box || ev.target.tagName === 'FIGURE') close(); });
+  document.addEventListener('keydown', function (ev) { if (ev.key === 'Escape' && !box.hidden) close(); });
+})();
 </script>
