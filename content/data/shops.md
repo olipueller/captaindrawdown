@@ -47,6 +47,8 @@ url: "/data/shops/"
 
 **14 shops** in release 2026-11.4 (data as of 2026-11-05): every shop I know of where a person can buy certified carbon removal with a live credit-card checkout, listed on [cdr-shops.com](https://www.cdr-shops.com/) with price, method, certifier, delivery time and ratings for MRV, certification and delivery.
 
+<a class="cd-shot" href="https://www.cdr-shops.com/" title="Open cdr-shops.com"><img src="/images/cdr-shops-home.jpg" alt="Screenshot of the cdr-shops.com homepage: the list of shops that sell certified carbon removal to individuals" loading="lazy"></a>
+
 Listing rules: a live checkout and third-party certified removal; self-certification and registries without issuance are not accepted. Prices are re-checked monthly.
 
 </div>
