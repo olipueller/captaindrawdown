@@ -5,6 +5,9 @@ slug: "captain-drawdown-data-release-2026-11"
 tags: ["data", "announcement"]
 content_type: "type17_announcement"
 hand_written: "true"
+# Withdrawn 2026-11-05 (Dirk): numbers outdated by the relaunch decisions; the
+# approved launch post replaces this file at the same URL on 2026-11-10.
+draft: true
 cover:
   image: "/charts/directory-size-by-pathway.png"
   alt: "Captain Drawdown Data: release 2026-11"
