@@ -8,12 +8,23 @@ on:
   push:
     tags:
       - "release-*"
+  delete:
 
 permissions:
   contents: write
 
 jobs:
+  cleanup:
+    # Deleting a release-* tag removes its GitHub release (the data channel
+    # moved to dirkpaessler/cdr-databases on 2026-11-05).
+    if: github.event_name == 'delete' && github.event.ref_type == 'tag' && startsWith(github.event.ref, 'release-')
+    runs-on: ubuntu-latest
+    steps:
+      - env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release delete "${{ github.event.ref }}" --repo "${{ github.repository }}" --yes || true
   release:
+    if: github.event_name == 'push'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
