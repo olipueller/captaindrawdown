@@ -34,6 +34,24 @@ Yearly count of CDR-relevant papers per pathway from my [CDR Researcher Census](
 
 _The census counts six pathways (DAC, BECCS, enhanced weathering, ocean CDR, biochar, cross-cutting CDR); the company directory uses eight. Mineralization, biomass burial and enabling technology have no census tag, so the two views do not match pathway by pathway._
 
+## Companies and staff per country
+
+One dot per country with at least three pure-play CDR companies: the number of companies headquartered there against the sum of their estimated headcounts (LinkedIn size bands). Both axes are logarithmic, so countries with thousands of CDR employees share the chart with countries of a few dozen. Countries above the cloud have few but large operators; countries below it have many small startups and no anchor company. No company is named here, and no country with fewer than three companies appears, so no single company's headcount can be read off a dot.
+
+![Companies and staff per country](/charts/history-country-scatter.png)
+
+## Companies and staff per pathway
+
+The same picture with one dot per pathway, on linear axes: how many pure-play companies pursue the approach against their combined headcount. Biochar sits far to the right, many small companies; DAC sits high with few companies, because a plant is an engineering programme of hundreds of people. A pathway in the lower left is early or capital-light, not necessarily failing.
+
+![Companies and staff per pathway](/charts/history-pathway-scatter.png)
+
+## Founding year and headcount, one dot per company
+
+Each dot is one pure-play CDR company, founding year against estimated headcount on a log scale, coloured by pathway, with a density underlay that shows where the crowd sits and the percentile lines of the founding years. The centre of mass is small and young: most of the industry is fewer than 25 people and founded after 2020. The few companies with 100 and more people carry most of the operational capacity. The dots carry no names.
+
+![Founding year and headcount per company](/charts/history-fte-growth.png)
+
 ## Industry structure by pathway
 
 Each bar is one pathway, split by the EU SME size class of its published companies: micro (under 10 staff), small (10 to 49), medium (50 to 249) and large (250 and more), derived from LinkedIn size bands and other staff signals. Per-company headcounts are licensed data and stay unpublished; the class is the public form, here and in the [directory](/directory/).

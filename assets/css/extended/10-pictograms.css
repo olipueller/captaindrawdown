@@ -22,6 +22,7 @@
 
 /* Pathway cards (directory index) */
 .cd-pwgrid { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: var(--space-3); margin: var(--space-4) 0 var(--space-5); }
+.cd-stripgroup .cd-pwgrid { margin: 0; }
 .cd-pwcard { display: flex; flex-direction: column; gap: 6px; padding: var(--space-3) var(--space-4); background: var(--surface-1); border: 1px solid var(--line); border-radius: var(--radius-md); color: var(--ink); text-decoration: none; }
 .cd-pwcard:hover { background: var(--surface-2); text-decoration: none; }
 .cd-pwcard .n { font-family: var(--font-sans); font-size: 26px; line-height: 30px; font-weight: 700; font-variant-numeric: tabular-nums; }
