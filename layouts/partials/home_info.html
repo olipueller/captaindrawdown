@@ -9,7 +9,7 @@
   <h1 class="cd-h1">Captain Drawdown's CDR Databases</h1>
   {{- /* Hero band: present only when static/images/hero.jpg exists (scripts/set-hero.py <variant>, Dirk's choice) */ -}}
   {{- if fileExists "static/images/hero.jpg" }}
-  <figure class="cd-hero-band"><img src="/images/hero.jpg" alt="Captain Drawdown, a globe wearing sunglasses, at a control desk in front of three panels: a grid of company tiles, a network of researchers, a row of shop price tags; small carbon removal scenes around the desk" width="1600" height="900" fetchpriority="high"></figure>
+  <figure class="cd-hero-band"><img src="/images/hero.jpg" alt="Captain Drawdown, a globe wearing sunglasses, at a control desk in front of three panels: a grid of company tiles, a network of researchers, a row of shop price tags; small carbon removal scenes around the desk" width="2100" height="467" fetchpriority="high"></figure>
   {{- end }}
   <p class="cd-lead">Open, versioned data on carbon dioxide removal: the companies, the researchers and the shops that sell removal to individuals. Every file carries a version, a licence and a citation; a weekly summary tells what moved.{{ with $r }} <span class="cd-release">Release {{ .version }}, data as of {{ .as_of }}.</span>{{ end }}</p>
   {{- with $r }}
