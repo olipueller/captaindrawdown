@@ -1,36 +1,34 @@
 ---
-title: "Captain Drawdown Data: release 2026-11"
-date: 2026-11-04T14:10:15.329897+01:00
+title: "Captain Drawdown's CDR Databases as Open Data: 913 companies, 55,865 researchers and 14 shops"
 slug: "captain-drawdown-data-release-2026-11"
-tags: ["data", "announcement"]
-content_type: "type17_announcement"
-hand_written: "true"
-# Withdrawn 2026-11-05 (Dirk): numbers outdated by the relaunch decisions; the
-# approved launch post replaces this file at the same URL on 2026-11-10.
-draft: true
+date: 2026-11-05T17:52:00+01:00
+author: "CaptainDrawdown"
+description: "From today the three CDR databases are open data: 913 carbon removal companies, 55,865 researchers and 14 shops, as versioned files on GitHub, a JSON API, an MCP server and Hugging Face datasets."
+tags: ["Data", "Announcement"]
 cover:
-  image: "/charts/directory-size-by-pathway.png"
-  alt: "Captain Drawdown Data: release 2026-11"
-  hidden: false
+  image: "/images/og-default.png"
+  alt: "Captain Drawdown's CDR Databases: 913 companies, 55,865 researchers, 14 shops"
+  relative: false
 ---
 
-Today I am publishing my data as data: three datasets on carbon dioxide removal, versioned, licensed, citable, with a JSON API and an MCP server. Release 2026-11, data as of 4 November.
+On a daily basis Captain Drawdown maintains three databases with companies, researchers and shops that are involved in permanent carbon dioxide removal (CDR). From today we are allowing public access to these databases.
 
-**969 published carbon removal companies** out of 1,470 active companies in my directory (buyers and unreviewed entries stay unpublished), with primary pathway, country, liveliness tier, EU SME size class, registries and evidence dates, from 66 countries. 427 of them are based in Europe (EU27 plus the UK, Switzerland, Norway and the other non-EU countries), 291 in the United States. [Data page](/data/companies/), CSV and JSON, licence Creative Commons Attribution-NonCommercial-ShareAlike 4.0.
+The latest release 2026-11 lists **913 carbon removal companies, 55,865 researchers with a carbon removal paper since 2021, and 14 shops** where a person can buy certified removal with a credit card. Every downloadable file is versioned, licensed and citable (even has a DOI); the files live in a public GitHub repository, and the same data is served as a JSON API, as an MCP server for Claude, ChatGPT and Cursor, and as datasets on Hugging Face.
 
-**95,329 researchers** who published at least one paper on carbon removal since 2021, built from OpenAlex and ORCID, from 182 countries and 15,311 institutions, with a calibrated estimate of 88,179 for the true population. The files are aggregates by country, pathway and sector, plus top-100 lists per pathway worldwide and top-50 lists for Europe, ranked by papers since 2021 with a citation rank beside it. [Data page](/data/researchers/), licence Creative Commons Attribution 4.0.
+**What is in the release.**
 
-**14 shops** where a person can buy certified removal with a live checkout, with prices, certifiers and delivery times. [Data page](/data/shops/), licence Creative Commons Attribution 4.0.
+- Companies: 913 published (out of 1,470 monitored), from 65 countries, 403 in Europe, 273 in the United States; pathway, country, liveliness tier with a 0 to 100 score, EU SME size class, registry presence, evidence dates. Biochar 377 (269 pure-play), enabling technology 179, direct air capture 125. CC BY-NC-SA 4.0.
+- Researchers: 55,865 listed from 15,896 papers, 11,015 institutions, 170 countries, 11,214 in Europe; calibrated estimate 51,946. CC BY 4.0.
+- Shops: 14 with live checkout and third-party certification, re-checked monthly. CC BY 4.0.
 
-## What changed on this site
+**We made the pack sharper.** October listed 95,329 researchers; November lists only 55,865. Nobody left the field; We decided to only look at permanent removals and that was a decision against trees and SOC: soil carbon (42,911 of the 95,329, mostly agricultural soil science) is no longer published; companies whose only pathway is afforestation are also no longer included in our dataset as we do not regard them as permanent CDR.
 
-Headcounts are gone. The directory used to show employee counts and follower numbers per company; those came from a licensed data provider and may not be published, so every company now carries a size class instead (micro, small, medium, large, by EU SME thresholds). Among the 1,470 active companies, 575 are micro, 393 small, 181 medium and 211 large; 110 have no size data.
+**How to use it.** Five ways in, from a spreadsheet to an assistant:
 
-Researcher profile pages exist only for the roughly 630 people in the top lists. Everyone else in the census is counted in the aggregates and no longer has a page. The [privacy notice](/privacy/) explains the basis and how to have an entry corrected or removed.
+- **Download a file.** The files live in a public GitHub repository: https://github.com/dirkpaessler/cdr-databases. Open the folder `v1/2026-11.4/` and click `companies.csv` (the Raw button hands the file to a browser or a spreadsheet): 913 rows, one company per row, with pathway, country, liveliness tier, size class, registries and evidence dates (680 KB). The same folder holds the researcher top lists (`top100_dac.csv`, `top100_cited_dac.csv` and so on for each pathway), the counted papers behind them, `shops.csv`, and a `manifest.json` with every file and its checksum. The release page https://github.com/dirkpaessler/cdr-databases/releases has everything as one zip; `v1/latest/` always points at the newest release; a release folder never changes once published, and the same files are mirrored at https://captaindrawdown.com/data/v1/2026-11.4/.
+- **Call the API.** No key, no sign-up: `curl -s https://captaindrawdown.com/api/v1/companies/climeworks.json` returns one company; `curl -s https://captaindrawdown.com/api/v1/researchers/top/dac.json` returns the DAC top 100 worldwide and top 50 in Europe; `/api/v1/companies.json` all 913, `/api/v1/shops.json` the shops with prices. Every response carries `version`, `as_of`, `license` and `cite_as`; the OpenAPI description is at `/api/v1/openapi.json`.
+- **Ask an assistant.** `pip install captain-drawdown-mcp` (or `uvx captain-drawdown-mcp`), then `claude mcp add captain-drawdown -- captain-drawdown-mcp` in Claude Code, or `{"mcpServers": {"captain-drawdown": {"command": "captain-drawdown-mcp"}}}` in the Cursor or ChatGPT configuration. The server exposes ten tools such as `search_companies`, `company`, `top_researchers` and `shops`; the assistant then answers "which enhanced weathering companies are based in Germany" from the release data, with the version and citation attached.
+- **Load it in Python.** `pandas.read_csv("https://raw.githubusercontent.com/dirkpaessler/cdr-databases/main/v1/latest/companies.csv")` straight from GitHub, `requests.get("https://captaindrawdown.com/api/v1/companies.json").json()` for the API, or `load_dataset("carbondrawdowninitiative/cdr-company-directory")` with the Hugging Face `datasets` library; the researcher census and the shops are mirrored under the same organisation.
+- **Cite it.** "Captain Drawdown and Dirk Paessler (2026). CDR Company Directory, version 2026-11.4. Carbon Drawdown Initiative. https://captaindrawdown.com/data/companies/"; companies are CC BY-NC-SA 4.0, researchers and shops CC BY 4.0. Each dataset has a Zenodo DOI: 10.5281/zenodo.23957359 (companies), 10.5281/zenodo.23957367 (researchers), 10.5281/zenodo.23957405 (shops).
 
-## How to use it
-
-- Download: every release is frozen under `/data/v1/2026-11/`, the newest also under `/data/v1/latest/`, with a [manifest](/data/v1/latest/manifest.json) listing checksums.
-- API: read-only JSON under [/api/v1/](/api/), for example `/api/v1/companies/climeworks.json` or `/api/v1/researchers/top/dac.json`. Every response carries version, date, licence and citation.
-- Assistants: the [MCP server](/api/#mcp-server-for-claude-chatgpt-and-cursor) exposes the same data as ten tools for Claude, ChatGPT and Cursor.
-- Cite: "Captain Drawdown / Carbon Drawdown Initiative (2026). CDR Company Directory, version 2026-11. Releases follow monthly around the 15th; corrections go to info@carbon-drawdown.de and appear in the [changelog](/data/changelog/). The daily Log stops with #308; from Friday a weekly summary takes its place, and the data releases are what this page is for from now on.
+Releases come monthly around the 15th; patches within a month count up (2026-11.4 is the fourth of November), and the changelog on the Data page lists what changed in each. Corrections: open an issue on GitHub or write to info@carbon-drawdown.de.
