@@ -1,7 +1,7 @@
 ---
 title: "Sandrine Selosse"
 description: "Sandrine Selosse, Mines Paris, Université PSL, Centre de Mathématiques Appliquées (CMA), France. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 54 by activity, 1970 by citations. 252 publications, h-index 18, 1,074 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/sandrine-selosse-a5067314/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-14 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 6, Cross-cutting CDR 5, DAC 3. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+14 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 6, Cross-cutting CDR 5, DAC 3. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Land–energy nexus to assess the contribution of carbon dioxide removal in net-zero emission pathways](https://openalex.org/W7165203742) | DAC | 0 |
-| 2025 | [The co-benefits of integrating carbon dioxide removal in the energy system: A review from the prism of natural climate solutions](https://doi.org/10.1016/j.scitotenv.2025.179271) | Cross-cutting CDR | 8 |
-| 2025 | [Life Cycle Assessment and System Integration of Carbon Dioxide Removal: Addressing Challenges in Environmental Evaluation and Model Representation](https://doi.org/10.1007/s40518-025-00271-y) | Cross-cutting CDR | 3 |
-| 2025 | [Balancing between carbon dioxide removal options: what are the lessons learned from techno-economic modelling?](https://hal.science/hal-05453344) | Cross-cutting CDR | 0 |
-| 2024 | [Water use in a sustainable net zero energy system: what are the implications of employing bioenergy with carbon capture and storage?](https://doi.org/10.54337/ijsepm.8159) | BECCS | 5 |
-| 2024 | [Feasibility, Conditions, and Opportunities for Achieving Net-Negative Emissions in the Global Cement Industry](https://doi.org/10.2139/ssrn.4778876) | Cross-cutting CDR | 1 |
-| 2024 | [From Theory to Practice: Modeling Biomass Supply and Carbon Dioxide Removal for Climate Goals](https://hal.science/hal-04863144) | BECCS | 0 |
-| 2024 | [Climate actions effects on ressource sustainability in a carbon constrained world](https://hal.science/hal-04863274) | BECCS | 0 |
-| 2023 | [Deploying direct air capture at scale: How close to reality?](https://doi.org/10.1016/j.eneco.2023.107244) | DAC | 30 |
-| 2023 | [Carbon Dioxide Removal in SDGs and Nationally Determined Contributions](https://doi.org/10.1007/978-3-030-91261-1_100-1) | Cross-cutting CDR | 2 |
-| 2023 | [Net-Zero Emission Opportunities for the Iron and Steel Industry at a Global Scale](http://dx.doi.org/10.46855/energy-proceedings-10409) | BECCS | 0 |
-| 2023 | [Exploring the conditions and implications of deploying direct air capture at scale](https://hal.science/hal-04298491) | DAC | 0 |
-| 2022 | [Biomass from the carbon dioxide removal and carbon neutrality perspective: a long term assessment using TIAM-FR](https://hal.science/hal-03934511) | BECCS | 0 |
-| 2022 | [Techno-economic assessment of bio-based Carbon Dioxide Removal using TIAM-FR](https://hal.science/hal-03934516) | BECCS | 0 |
+| 2026 | [Land–energy nexus to assess the contribution of carbon dioxide removal in net-zero emission pathways](https://openalex.org/W7165203742)<br><small>with [Sophie Chlela](/cdr-researcher-census/researchers/sophie-chlela-a5010115/), Nicklas Forsell</small> | DAC | 0 |
+| 2025 | [The co-benefits of integrating carbon dioxide removal in the energy system: A review from the prism of natural climate solutions](https://doi.org/10.1016/j.scitotenv.2025.179271)<br><small>The Science of The Total Environment · with [Sophie Chlela](/cdr-researcher-census/researchers/sophie-chlela-a5010115/)</small> | Cross-cutting CDR | 8 |
+| 2025 | [Life Cycle Assessment and System Integration of Carbon Dioxide Removal: Addressing Challenges in Environmental Evaluation and Model Representation](https://doi.org/10.1007/s40518-025-00271-y)<br><small>Current Sustainable/Renewable Energy Reports · with [Sophie Chlela](/cdr-researcher-census/researchers/sophie-chlela-a5010115/)</small> | Cross-cutting CDR | 3 |
+| 2025 | [Balancing between carbon dioxide removal options: what are the lessons learned from techno-economic modelling?](https://hal.science/hal-05453344)<br><small>SPIRE - Sciences Po Institutional REpository · with [Sophie Chlela](/cdr-researcher-census/researchers/sophie-chlela-a5010115/)</small> | Cross-cutting CDR | 0 |
+| 2024 | [Water use in a sustainable net zero energy system: what are the implications of employing bioenergy with carbon capture and storage?](https://doi.org/10.54337/ijsepm.8159)<br><small>International Journal of Sustainable Energy Planning and Management · with [Sophie Chlela](/cdr-researcher-census/researchers/sophie-chlela-a5010115/)</small> | BECCS | 5 |
+| 2024 | [Feasibility, Conditions, and Opportunities for Achieving Net-Negative Emissions in the Global Cement Industry](https://doi.org/10.2139/ssrn.4778876)<br><small>SSRN Electronic Journal (preprint) · with Lucas Desport, Carlos Andrade, Damien Corral</small> | Cross-cutting CDR | 1 |
+| 2024 | [From Theory to Practice: Modeling Biomass Supply and Carbon Dioxide Removal for Climate Goals](https://hal.science/hal-04863144)<br><small>SPIRE - Sciences Po Institutional REpository · with [Sophie Chlela](/cdr-researcher-census/researchers/sophie-chlela-a5010115/)</small> | BECCS | 0 |
+| 2024 | [Climate actions effects on ressource sustainability in a carbon constrained world](https://hal.science/hal-04863274)<br><small>SPIRE - Sciences Po Institutional REpository · with [Sophie Chlela](/cdr-researcher-census/researchers/sophie-chlela-a5010115/)</small> | BECCS | 0 |
+| 2023 | [Deploying direct air capture at scale: How close to reality?](https://doi.org/10.1016/j.eneco.2023.107244)<br><small>Energy Economics · with Lucas Desport, Angelo Gurgel, Howard J. Herzog, Jennifer Morris, Yen-Heng Henry Chen, Sergey Paltsev</small> | DAC | 30 |
+| 2023 | [Carbon Dioxide Removal in SDGs and Nationally Determined Contributions](https://doi.org/10.1007/978-3-030-91261-1_100-1)<br><small>Implementing the UN sustainable development goals - regional perspectives · with [Sophie Chlela](/cdr-researcher-census/researchers/sophie-chlela-a5010115/)</small> | Cross-cutting CDR | 2 |
+| 2023 | [Net-Zero Emission Opportunities for the Iron and Steel Industry at a Global Scale](http://dx.doi.org/10.46855/energy-proceedings-10409)<br><small>preprint · with Lucas Desport, Carlos Andrade</small> | BECCS | 0 |
+| 2023 | [Exploring the conditions and implications of deploying direct air capture at scale](https://hal.science/hal-04298491)<br><small>HAL (Le Centre pour la Communication Scientifique Directe) (preprint) · with Lucas Desport, Angelo Gurgel, Henry Chen, Howard J. Herzog, Jennifer Morris, Sergey Paltsev</small> | DAC | 0 |
+| 2022 | [Biomass from the carbon dioxide removal and carbon neutrality perspective: a long term assessment using TIAM-FR](https://hal.science/hal-03934511)<br><small>HAL (Le Centre pour la Communication Scientifique Directe) (preprint) · with [Sophie Chlela](/cdr-researcher-census/researchers/sophie-chlela-a5010115/)</small> | BECCS | 0 |
+| 2022 | [Techno-economic assessment of bio-based Carbon Dioxide Removal using TIAM-FR](https://hal.science/hal-03934516)<br><small>HAL (Le Centre pour la Communication Scientifique Directe) (preprint) · with [Sophie Chlela](/cdr-researcher-census/researchers/sophie-chlela-a5010115/)</small> | BECCS | 0 |
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Majid Amidpour"
 description: "Majid Amidpour, K. N. Toosi University of Technology, IR. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 93 by activity, 1077 by citations. 416 publications, h-index 55, 9,705 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/majid-amidpour-a5056424/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,16 +43,16 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 4, BECCS 1, Cross-cutting CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 4, BECCS 1, Cross-cutting CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Decarbonizing cement industry via solar-hybrid capture: Synergistic Integration of microalgae, amine scrubbing, and direct air capture for enhanced energy and exergoeconomic performance](https://openalex.org/W7138935919) | DAC | 3 |
-| 2026 | [Next-gen carbon capture: Life cycle metrics of solar-integrated direct air capture technology](https://openalex.org/W7160073376) | DAC | 1 |
-| 2025 | [Techno-economic evaluation of solar-driven direct air capture under various configurations](https://doi.org/10.1016/j.enconman.2025.120233) | DAC | 14 |
-| 2025 | [Machine learning–enabled optimization of a direct air capture system integrated with enhanced oil recovery](https://doi.org/10.1016/j.rechem.2025.102836) | DAC | 3 |
-| 2025 | [Sustainable fuel and power from biomass: 4E analysis of a solar-assisted DME production system with CO₂ capture](https://doi.org/10.1016/j.btre.2025.e00928) | BECCS | 1 |
-| 2023 | [Performance analysis of power plant designed with a carbon capture unit: study of an oil refinery](https://doi.org/10.1007/s13762-022-04707-6) | Cross-cutting CDR | 0 |
+| 2026 | [Decarbonizing cement industry via solar-hybrid capture: Synergistic Integration of microalgae, amine scrubbing, and direct air capture for enhanced energy and exergoeconomic performance](https://openalex.org/W7138935919)<br><small>with [Farzin Hosseinifard](/cdr-researcher-census/researchers/farzin-hosseinifard-a5093733/), Mohammad Ebadollahi</small> | DAC | 3 |
+| 2026 | [Next-gen carbon capture: Life cycle metrics of solar-integrated direct air capture technology](https://openalex.org/W7160073376)<br><small>with Mohsen Nasrollahi, [Farzin Hosseinifard](/cdr-researcher-census/researchers/farzin-hosseinifard-a5093733/), Mohsen Salimi</small> | DAC | 1 |
+| 2025 | [Techno-economic evaluation of solar-driven direct air capture under various configurations](https://doi.org/10.1016/j.enconman.2025.120233)<br><small>Energy Conversion and Management · with [Farzin Hosseinifard](/cdr-researcher-census/researchers/farzin-hosseinifard-a5093733/), Mohsen Salimi</small> | DAC | 14 |
+| 2025 | [Machine learning–enabled optimization of a direct air capture system integrated with enhanced oil recovery](https://doi.org/10.1016/j.rechem.2025.102836)<br><small>Results in Chemistry · with [Farzin Hosseinifard](/cdr-researcher-census/researchers/farzin-hosseinifard-a5093733/), Mohsen Salimi, Shahabeddin Ghasemzadeh</small> | DAC | 3 |
+| 2025 | [Sustainable fuel and power from biomass: 4E analysis of a solar-assisted DME production system with CO₂ capture](https://doi.org/10.1016/j.btre.2025.e00928)<br><small>Biotechnology Reports · with Atieh Kermani, [Farzin Hosseinifard](/cdr-researcher-census/researchers/farzin-hosseinifard-a5093733/), Mohsen Salimi</small> | BECCS | 1 |
+| 2023 | [Performance analysis of power plant designed with a carbon capture unit: study of an oil refinery](https://doi.org/10.1007/s13762-022-04707-6)<br><small>International Journal of Environmental Science and Technology · with Y. Shamsaei, A. Hajiseyed Mirzahosseini, H. A. Ozgoli, Seyed Alireza Hajiseyed Mirzahosseini, A. F. Sotudeh</small> | Cross-cutting CDR | 0 |
 
 ---
 

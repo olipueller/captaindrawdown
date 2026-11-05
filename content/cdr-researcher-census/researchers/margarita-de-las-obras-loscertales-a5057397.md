@@ -1,7 +1,7 @@
 ---
 title: "Margarita de Las Obras Loscertales"
 description: "Margarita de Las Obras Loscertales, Instituto de Carboquímica, Spain. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 30 by activity, 376 by citations. 50 publications, h-index 10, 385 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/margarita-de-las-obras-loscertales-a5057397/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,17 +43,17 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 7. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 7. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Syngas Production from Liquid and Solid Fractions of Swine Manure in a 0.5 kWth Chemical Looping Gasification Unit](https://doi.org/10.3390/en19020317) | BECCS | 1 |
-| 2024 | [Techno-economic analysis of chemical looping processes with biomass resources for energy production and CO2 utilization. Comparison of CLC and CLOU technologies](https://doi.org/10.1016/j.enconman.2024.118476) | BECCS | 22 |
-| 2023 | [Reaction kinetics of a NiO-based oxygen carrier with ethanol to be applied in chemical looping processes](https://doi.org/10.1016/j.fuel.2023.128163) | BECCS | 14 |
-| 2023 | [Dimensioning Air Reactor and Fuel Reactor of a Pressurized CLC Plant to Be Coupled to a Gas Turbine: Part 2, the Fuel Reactor](https://doi.org/10.3390/en16093850) | BECCS | 5 |
-| 2022 | [Bioenergy with Carbon Capture and Storage (BECCS) developed by coupling a Pressurised Chemical Looping combustor with a turbo expander: How to optimize plant efficiency](https://doi.org/10.1016/j.rser.2022.112851) | BECCS | 16 |
-| 2022 | [Evaluation of the effect of pressure and heat transfer on the efficiency of a batch fuel reactor, using Iron-based Oxygen Carrier with a CFD model](https://doi.org/10.1016/j.fuel.2022.126266) | BECCS | 6 |
-| 2022 | [Pressurised Chemical Looping Combustion (PCLC): Air Reactor design](https://doi.org/10.1088/1742-6596/2385/1/012127) | BECCS | 2 |
+| 2026 | [Syngas Production from Liquid and Solid Fractions of Swine Manure in a 0.5 kWth Chemical Looping Gasification Unit](https://doi.org/10.3390/en19020317)<br><small>Energies · with Yldeney Domingos, Yldeney Silva Domingos, M.T. Izquierdo, María Izquierdo, A. Abad</small> | BECCS | 1 |
+| 2024 | [Techno-economic analysis of chemical looping processes with biomass resources for energy production and CO2 utilization. Comparison of CLC and CLOU technologies](https://doi.org/10.1016/j.enconman.2024.118476)<br><small>Energy Conversion and Management · with Arturo Cabello, [Alberto Abad](/cdr-researcher-census/researchers/alberto-abad-a5100666/), Yldeney Domingos, Yldeney Silva Domingos, Teresa Mendiara</small> | BECCS | 22 |
+| 2023 | [Reaction kinetics of a NiO-based oxygen carrier with ethanol to be applied in chemical looping processes](https://doi.org/10.1016/j.fuel.2023.128163)<br><small>Fuel · with [Alberto Abad](/cdr-researcher-census/researchers/alberto-abad-a5100666/), Francisco García‐Labiano, Juan A.C. Ruiz, [Juan Adánez](/cdr-researcher-census/researchers/juan-adanez-a5005651/)</small> | BECCS | 14 |
+| 2023 | [Dimensioning Air Reactor and Fuel Reactor of a Pressurized CLC Plant to Be Coupled to a Gas Turbine: Part 2, the Fuel Reactor](https://doi.org/10.3390/en16093850)<br><small>Energies · with Lu Wang, [Alberto Abad](/cdr-researcher-census/researchers/alberto-abad-a5100666/), Aldo Bischi, Arturo Cabello, [Haiping Yang](/cdr-researcher-census/researchers/haiping-yang-a5024934/), Mauro Zampilli and 2 more</small> | BECCS | 5 |
+| 2022 | [Bioenergy with Carbon Capture and Storage (BECCS) developed by coupling a Pressurised Chemical Looping combustor with a turbo expander: How to optimize plant efficiency](https://doi.org/10.1016/j.rser.2022.112851)<br><small>Renewable and Sustainable Energy Reviews · with [Pietro Bartocci](/cdr-researcher-census/researchers/pietro-bartocci-a5082211/), [Alberto Abad](/cdr-researcher-census/researchers/alberto-abad-a5100666/), Andrea Taiana, Angela Serra, Arturo Cabello, Cristóbal Cortés and 11 more</small> | BECCS | 16 |
+| 2022 | [Evaluation of the effect of pressure and heat transfer on the efficiency of a batch fuel reactor, using Iron-based Oxygen Carrier with a CFD model](https://doi.org/10.1016/j.fuel.2022.126266)<br><small>Fuel · with Lu Wang, [Alberto Abad](/cdr-researcher-census/researchers/alberto-abad-a5100666/), Arturo Cabello, [Haiping Yang](/cdr-researcher-census/researchers/haiping-yang-a5024934/), [Hanping Chen](/cdr-researcher-census/researchers/hanping-chen-a5007450/), Liang Wang and 7 more</small> | BECCS | 6 |
+| 2022 | [Pressurised Chemical Looping Combustion (PCLC): Air Reactor design](https://doi.org/10.1088/1742-6596/2385/1/012127)<br><small>Journal of Physics Conference Series · with [Pietro Bartocci](/cdr-researcher-census/researchers/pietro-bartocci-a5082211/), [Alberto Abad](/cdr-researcher-census/researchers/alberto-abad-a5100666/), Aldo Bischi, Arturo Cabello, Gianni Bidini, Mauro Zampilli and 3 more</small> | BECCS | 2 |
 
 ---
 

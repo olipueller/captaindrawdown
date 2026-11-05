@@ -1,7 +1,7 @@
 ---
 title: "Joohyung Jung"
 description: "Joohyung Jung, Kyungpook National University, South Korea. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 70 by activity, 2291 by citations. 5 publications, h-index 1, 3 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/joohyung-jung-a5122366/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,14 +40,14 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-4 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 4. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+4 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 4. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Review of Direct Air Capture Systems Powered by Nuclear Energy](https://openalex.org/W7138872643) | DAC | 2 |
-| 2026 | [Preliminary techno-economic assessment of open-air Brayton cycle coupled with direct air capture for innovative small modular reactor applications](https://openalex.org/W7164328982) | DAC | 1 |
-| 2026 | [Techno-economic assessment of open-air Brayton cycle coupled with direct air capture for innovative small modular reactor applications](https://doi.org/10.2139/ssrn.6045177) | DAC | 0 |
-| 2026 | [Experiment-Informed Techno-Economic Assessment of Adsorbents for an Open-Air Brayton Cycle Integrated Direct Air Capture System](https://openalex.org/W7204813840) | DAC | 0 |
+| 2026 | [Review of Direct Air Capture Systems Powered by Nuclear Energy](https://openalex.org/W7138872643)<br><small>with [Taejun Song](/cdr-researcher-census/researchers/taejun-song-a5122304/), [Seongmin Son](/cdr-researcher-census/researchers/seongmin-son-a5055286/)</small> | DAC | 2 |
+| 2026 | [Preliminary techno-economic assessment of open-air Brayton cycle coupled with direct air capture for innovative small modular reactor applications](https://openalex.org/W7164328982)<br><small>with [Taejun Song](/cdr-researcher-census/researchers/taejun-song-a5122304/), [Seongmin Son](/cdr-researcher-census/researchers/seongmin-son-a5055286/)</small> | DAC | 1 |
+| 2026 | [Techno-economic assessment of open-air Brayton cycle coupled with direct air capture for innovative small modular reactor applications](https://doi.org/10.2139/ssrn.6045177)<br><small>SSRN Electronic Journal (preprint) · with [Taejun Song](/cdr-researcher-census/researchers/taejun-song-a5122304/), [Seongmin Son](/cdr-researcher-census/researchers/seongmin-son-a5055286/)</small> | DAC | 0 |
+| 2026 | [Experiment-Informed Techno-Economic Assessment of Adsorbents for an Open-Air Brayton Cycle Integrated Direct Air Capture System](https://openalex.org/W7204813840)<br><small>preprint · with Seunghyeon Joo, Hyuk Taek Kwon, Jeongmin Won, June Kim, [Seongmin Son](/cdr-researcher-census/researchers/seongmin-son-a5055286/), [Taejun Song](/cdr-researcher-census/researchers/taejun-song-a5122304/) and 1 more</small> | DAC | 0 |
 
 ---
 

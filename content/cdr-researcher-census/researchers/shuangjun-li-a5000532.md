@@ -1,7 +1,7 @@
 ---
 title: "Shuangjun Li"
 description: "Shuangjun Li, Korea University, South Korea. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 90 by activity, 236 by citations. 131 publications, h-index 35, 3,840 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/shuangjun-li-a5000532/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,16 +43,16 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 5, BECCS 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 5, BECCS 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Accelerating widespread adoption of direct air capture based on system perspective: Thermodynamic limits, geographical deployment, and clean energy integration](https://doi.org/10.1016/j.rser.2026.116702) | DAC | 9 |
-| 2025 | [Direct air capture-assisted sustainable fuel solution in maritime sector: a carbon footprint perspective](https://doi.org/10.1007/s44246-025-00209-5) | DAC | 10 |
-| 2025 | [Mapping innovations in direct air capture: A systematic patent review and literature comparison](https://doi.org/10.1016/j.rser.2025.116491) | DAC | 7 |
-| 2024 | [Solar thermal energy-assisted direct capture of CO2 from ambient air for methanol synthesis](https://doi.org/10.1038/s44296-024-00014-y) | DAC | 33 |
-| 2023 | [Can bioenergy with carbon capture and storage deliver negative emissions? A critical review of life cycle assessment](https://doi.org/10.1016/j.jclepro.2023.139839) | BECCS | 36 |
-| 2022 | [Energetic and Life Cycle Assessment of Direct Air Capture: A Review](https://doi.org/10.1016/j.spc.2022.12.017) | DAC | 52 |
+| 2026 | [Accelerating widespread adoption of direct air capture based on system perspective: Thermodynamic limits, geographical deployment, and clean energy integration](https://doi.org/10.1016/j.rser.2026.116702)<br><small>Renewable and Sustainable Energy Reviews · with Chunfeng Li, Shihan Deng, [Shuai Deng](/cdr-researcher-census/researchers/shuai-deng-a5068203/), Xiangkun Elvis Cao</small> | DAC | 9 |
+| 2025 | [Direct air capture-assisted sustainable fuel solution in maritime sector: a carbon footprint perspective](https://doi.org/10.1007/s44246-025-00209-5)<br><small>Carbon Research · with Hao Wang, [Junyao Wang](/cdr-researcher-census/researchers/junyao-wang-a5102012/), [Ondřej Mašek](/cdr-researcher-census/researchers/ondrej-masek-a5087096/), Runkai Chen, [Shuai Deng](/cdr-researcher-census/researchers/shuai-deng-a5068203/), Xiangkun Elvis Cao and 4 more</small> | DAC | 10 |
+| 2025 | [Mapping innovations in direct air capture: A systematic patent review and literature comparison](https://doi.org/10.1016/j.rser.2025.116491)<br><small>Renewable and Sustainable Energy Reviews · with [Junyao Wang](/cdr-researcher-census/researchers/junyao-wang-a5102012/), Chao Huang, Jian Song, Runkai Chen, [Shuai Deng](/cdr-researcher-census/researchers/shuai-deng-a5068203/), Song He and 5 more</small> | DAC | 7 |
+| 2024 | [Solar thermal energy-assisted direct capture of CO2 from ambient air for methanol synthesis](https://doi.org/10.1038/s44296-024-00014-y)<br><small>npj Materials Sustainability · with Hui Zhou, Huiyan Zhang, [Junyao Wang](/cdr-researcher-census/researchers/junyao-wang-a5102012/), [Mengxiang Fang](/cdr-researcher-census/researchers/mengxiang-fang-a5054422/), Runkai Chen, [Shuai Deng](/cdr-researcher-census/researchers/shuai-deng-a5068203/) and 1 more</small> | DAC | 33 |
+| 2023 | [Can bioenergy with carbon capture and storage deliver negative emissions? A critical review of life cycle assessment](https://doi.org/10.1016/j.jclepro.2023.139839)<br><small>Journal of Cleaner Production · with [Junyao Wang](/cdr-researcher-census/researchers/junyao-wang-a5102012/), Jiahui Yan, Libin Lei, Song He, Xuelan Zeng, Yawen Zheng and 3 more</small> | BECCS | 36 |
+| 2022 | [Energetic and Life Cycle Assessment of Direct Air Capture: A Review](https://doi.org/10.1016/j.spc.2022.12.017)<br><small>Sustainable Production and Consumption · with [Junyao Wang](/cdr-researcher-census/researchers/junyao-wang-a5102012/), Jiahui Yan, Jianping Liu, Kaixiang Li, [Shuai Deng](/cdr-researcher-census/researchers/shuai-deng-a5068203/), Xuelan Zeng and 1 more</small> | DAC | 52 |
 
 ---
 

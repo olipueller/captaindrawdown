@@ -1,7 +1,7 @@
 ---
 title: "Solomon Brown"
 description: "Solomon Brown, University of Sheffield, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 64 by activity, 1477 by citations. 209 publications, h-index 33, 7,742 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/solomon-brown-a5048780/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-5 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 5. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+5 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 5. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2024 | [Blending biomass fuels for next-generation Power-BECCS plants](https://doi.org/10.1016/j.enconman.2024.119287) | BECCS | 7 |
-| 2024 | [Process simulation of BECCS-to-X: Investigating the potential of Hydrogen and Sustainable Aviation Fuel Production](https://doi.org/10.1016/b978-0-443-28824-1.50355-0) | BECCS | 1 |
-| 2024 | [Decarbonizing the Lime &amp;amp; Cement Industry Using BECCS: a Mini-Review](http://doi.org/10.2139/ssrn.5016506) | BECCS | 0 |
-| 2024 | [Techno-Economic Comparison of BECCS-to-X Pathways: Co-Production of Power and Low-carbon Fuels](http://dx.doi.org/10.2139/ssrn.5016498) | BECCS | 0 |
-| 2023 | [Bioenergy with carbon capture and storage (BECCS) – power generation coupled with hydrogen production](https://doi.org/10.1016/b978-0-443-15274-0.50461-3) | BECCS | 3 |
+| 2024 | [Blending biomass fuels for next-generation Power-BECCS plants](https://doi.org/10.1016/j.enconman.2024.119287)<br><small>Energy Conversion and Management · with [Mathew Dennis Wilkes](/cdr-researcher-census/researchers/mathew-dennis-wilkes-a5061155/), Erik Resendez, Erik Resendiz-Mora</small> | BECCS | 7 |
+| 2024 | [Process simulation of BECCS-to-X: Investigating the potential of Hydrogen and Sustainable Aviation Fuel Production](https://doi.org/10.1016/b978-0-443-28824-1.50355-0)<br><small>Computer-aided chemical engineering/Computer aided chemical engineering · with [Mathew Dennis Wilkes](/cdr-researcher-census/researchers/mathew-dennis-wilkes-a5061155/)</small> | BECCS | 1 |
+| 2024 | [Decarbonizing the Lime &amp;amp; Cement Industry Using BECCS: a Mini-Review](http://doi.org/10.2139/ssrn.5016506)<br><small>SSRN Electronic Journal · with [Mathew Dennis Wilkes](/cdr-researcher-census/researchers/mathew-dennis-wilkes-a5061155/)</small> | BECCS | 0 |
+| 2024 | [Techno-Economic Comparison of BECCS-to-X Pathways: Co-Production of Power and Low-carbon Fuels](http://dx.doi.org/10.2139/ssrn.5016498)<br><small>SSRN Electronic Journal · with [Mathew Dennis Wilkes](/cdr-researcher-census/researchers/mathew-dennis-wilkes-a5061155/), J. E. Gower</small> | BECCS | 0 |
+| 2023 | [Bioenergy with carbon capture and storage (BECCS) – power generation coupled with hydrogen production](https://doi.org/10.1016/b978-0-443-15274-0.50461-3)<br><small>Computer-aided chemical engineering/Computer aided chemical engineering · with [Mathew Dennis Wilkes](/cdr-researcher-census/researchers/mathew-dennis-wilkes-a5061155/), Oludayo Asuni</small> | BECCS | 3 |
 
 ---
 

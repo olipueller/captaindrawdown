@@ -1,7 +1,7 @@
 ---
 title: "Christina Larkin"
 description: "Christina Larkin, InPlanet GmbH, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 61 by activity, 129 by citations. 29 publications, h-index 10, 632 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/christina-larkin-a5074798/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,22 +43,22 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-12 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 12. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+12 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 12. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2025 | [Agronomic co-benefits of enhanced rock weathering (ERW) with basalt applied to sugarcane grown on acidic soil in Brazil](https://doi.org/10.5194/egusphere-egu25-12326) | Enhanced Weathering | 1 |
-| 2025 | [An assessment of the agronomic benefits of silicate rock powders in Brazil in the context of a novel classification](https://doi.org/10.31223/x5jj18) | Enhanced Weathering | 0 |
-| 2025 | [Unlocking Gigatonne-scale Carbon Dioxide Removal with strategic tipping point frameworks](https://doi.org/10.31223/x56j15) | Enhanced Weathering | 0 |
-| 2025 | [Carbon dioxide removal and co-benefits of enhanced weathering in tropical soils: a case study with sugarcane in Brazil](https://doi.org/10.7185/gold2025.31816) | Enhanced Weathering | 0 |
-| 2025 | [Quantifying carbon dioxide removal via enhanced rock weathering: insights from a long-term arable cropland field trial in the UK](https://doi.org/10.7185/gold2025.31077) | Enhanced Weathering | 0 |
-| 2024 | [A review of measurement for quantification of carbon dioxide removal by enhanced weathering in soil](https://doi.org/10.3389/fclim.2024.1345224) | Enhanced Weathering | 61 |
-| 2024 | [Alignment of industry, regulation and academia for quantification of carbon dioxide removal by enhanced weathering](https://doi.org/10.5194/egusphere-egu24-17266) | Enhanced Weathering | 0 |
-| 2023 | [Effectiveness of Enhanced Rock Weathering for CO<sub>2</sub> removal through re-vegetation of mine tailings in Ghana.](http://dx.doi.org/10.7185/gold2023.17830) | Enhanced Weathering | 0 |
-| 2023 | [Carbon dioxide removal in field trials of enhanced weathering on arable croplands](http://dx.doi.org/10.7185/gold2023.17575) | Enhanced Weathering | 0 |
-| 2022 | [Quantification of CO2 removal in a large-scale enhanced weathering field trial on an oil palm plantation in Sabah, Malaysia](https://doi.org/10.3389/fclim.2022.959229) | Enhanced Weathering | 76 |
-| 2022 | [CO<sub>2 </sub>removal associated with enhanced rock weathering in arable croplands in Norfolk, UK](https://doi.org/10.46427/gold2022.11932) | Enhanced Weathering | 0 |
-| 2021 | [Quantifying CO<sub>2 </sub>removal via enhanced rock weathering in constrasting croplands](https://doi.org/10.7185/gold2021.6276) | Enhanced Weathering | 0 |
+| 2025 | [Agronomic co-benefits of enhanced rock weathering (ERW) with basalt applied to sugarcane grown on acidic soil in Brazil](https://doi.org/10.5194/egusphere-egu25-12326)<br><small>preprint · with Philipp Swoboda, Junyao Kang, Marcelo Brossi Santoro, Maria Gabriela Fontanetti Rodrigues, Matthew O Clarkson, Mariane Chiapini</small> | Enhanced Weathering | 1 |
+| 2025 | [An assessment of the agronomic benefits of silicate rock powders in Brazil in the context of a novel classification](https://doi.org/10.31223/x5jj18)<br><small>with Philipp Swoboda, C. Silveira, David W. Manning, G. F. Vilela, Giuliano Marchi, Junyao Kang and 7 more</small> | Enhanced Weathering | 0 |
+| 2025 | [Unlocking Gigatonne-scale Carbon Dioxide Removal with strategic tipping point frameworks](https://doi.org/10.31223/x56j15)<br><small>with Matthew O Clarkson, Bruno Ramos, David W. Manning, Eduardda Pivatto, Ina Souza Nogueira, [Injy Johnstone](/cdr-researcher-census/researchers/injy-johnstone-a5035898/) and 10 more</small> | Enhanced Weathering | 0 |
+| 2025 | [Carbon dioxide removal and co-benefits of enhanced weathering in tropical soils: a case study with sugarcane in Brazil](https://doi.org/10.7185/gold2025.31816)<br><small>with Bruno Ramos, Jeandro Vitorio, Junyao Kang, Leticia Schwerz, Marcella Daubermann, Maria Gabriela Fontanetti Rodrigues and 4 more</small> | Enhanced Weathering | 0 |
+| 2025 | [Quantifying carbon dioxide removal via enhanced rock weathering: insights from a long-term arable cropland field trial in the UK](https://doi.org/10.7185/gold2025.31077)<br><small>with Xi Chen, [Christopher R. Pearce](/cdr-researcher-census/researchers/christopher-r-pearce-a5070628/), [David J. Beerling](/cdr-researcher-census/researchers/david-j-beerling-a5073877/), Feifei Deng, Heather Goring‐Harford, M. Grace Andrews and 1 more</small> | Enhanced Weathering | 0 |
+| 2024 | [A review of measurement for quantification of carbon dioxide removal by enhanced weathering in soil](https://doi.org/10.3389/fclim.2024.1345224)<br><small>Frontiers in Climate · with Matthew O Clarkson, Cara Nichole Maesano, Philipp Swoboda, [Tim Jesper Suhrhoff](/cdr-researcher-census/researchers/tim-jesper-suhrhoff-a5081686/), [Tom Reershemius](/cdr-researcher-census/researchers/tom-reershemius-a5008768/), James Campbell</small> | Enhanced Weathering | 61 |
+| 2024 | [Alignment of industry, regulation and academia for quantification of carbon dioxide removal by enhanced weathering](https://doi.org/10.5194/egusphere-egu24-17266)<br><small>preprint · with Cara Nichole Maesano, Matthew O Clarkson, Philip J. Swoboda, Philip Swoboda, [Tim Jesper Suhrhoff](/cdr-researcher-census/researchers/tim-jesper-suhrhoff-a5081686/), [Tom Reershemius](/cdr-researcher-census/researchers/tom-reershemius-a5008768/) and 1 more</small> | Enhanced Weathering | 0 |
+| 2023 | [Effectiveness of Enhanced Rock Weathering for CO<sub>2</sub> removal through re-vegetation of mine tailings in Ghana.](http://dx.doi.org/10.7185/gold2023.17830)<br><small>with [Millie Dobson](/cdr-researcher-census/researchers/millie-dobson-a5113068/), [Rachael H. James](/cdr-researcher-census/researchers/rachael-h-james-a5075056/)</small> | Enhanced Weathering | 0 |
+| 2023 | [Carbon dioxide removal in field trials of enhanced weathering on arable croplands](http://dx.doi.org/10.7185/gold2023.17575)<br><small>with [A. Shepherd](/cdr-researcher-census/researchers/a-shepherd-a5028767/), [Christopher R. Pearce](/cdr-researcher-census/researchers/christopher-r-pearce-a5070628/), [David J. Beerling](/cdr-researcher-census/researchers/david-j-beerling-a5073877/), [Dimitar Z. Epihov](/cdr-researcher-census/researchers/dimitar-z-epihov-a5056786/), Heather Goring‐Harford, M Andrews and 1 more</small> | Enhanced Weathering | 0 |
+| 2022 | [Quantification of CO2 removal in a large-scale enhanced weathering field trial on an oil palm plantation in Sabah, Malaysia](https://doi.org/10.3389/fclim.2022.959229)<br><small>Frontiers in Climate · with [Christopher R. Pearce](/cdr-researcher-census/researchers/christopher-r-pearce-a5070628/), [David J. Beerling](/cdr-researcher-census/researchers/david-j-beerling-a5073877/), Heather Goring‐Harford, Joshua Bellamy, Kok Loong Yeong, M. Grace Andrews and 4 more</small> | Enhanced Weathering | 76 |
+| 2022 | [CO<sub>2 </sub>removal associated with enhanced rock weathering in arable croplands in Norfolk, UK](https://doi.org/10.46427/gold2022.11932)<br><small>Goldschmidt2022 abstracts · with [Christopher R. Pearce](/cdr-researcher-census/researchers/christopher-r-pearce-a5070628/), [Dimitar Z. Epihov](/cdr-researcher-census/researchers/dimitar-z-epihov-a5056786/), Heather Goring‐Harford, M Andrews, [Rachael H. James](/cdr-researcher-census/researchers/rachael-h-james-a5075056/), [David J. Beerling](/cdr-researcher-census/researchers/david-j-beerling-a5073877/)</small> | Enhanced Weathering | 0 |
+| 2021 | [Quantifying CO<sub>2 </sub>removal via enhanced rock weathering in constrasting croplands](https://doi.org/10.7185/gold2021.6276)<br><small>Goldschmidt2021 abstracts · with Adrian L. Collins, [Christopher R. Pearce](/cdr-researcher-census/researchers/christopher-r-pearce-a5070628/), Evan H. DeLucia, Gabriella E. Jardine, Heather Goring‐Harford, I. B. Kantola and 6 more</small> | Enhanced Weathering | 0 |
 
 ---
 

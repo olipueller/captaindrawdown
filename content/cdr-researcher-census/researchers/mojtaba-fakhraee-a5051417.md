@@ -1,7 +1,7 @@
 ---
 title: "Mojtaba Fakhraee"
 description: "Mojtaba Fakhraee, University of Connecticut, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 100 by activity, 115 by citations. 70 publications, h-index 21, 1,440 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/mojtaba-fakhraee-a5051417/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,20 +43,20 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 8, Enhanced Weathering 2, Biochar 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 8, Enhanced Weathering 2, Biochar 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Coupling Acid Neutralization and Resource Recovery to Scale Ocean Alkalinity Enhancement](https://openalex.org/W7163188831) | Ocean CDR | 3 |
-| 2026 | [Seaweed farms enhance alkalinity production and carbon capture](https://doi.org/10.1038/s44458-025-00004-8) | Ocean CDR | 1 |
-| 2026 | [In-situ deep ocean monitoring reveals rapid kelp degradation limits marine biomass-based carbon sequestration potential and alters benthic ecosystems](https://doi.org/10.1038/s43247-026-03342-0) | Ocean CDR | 1 |
-| 2026 | [Bridging time lags in durable carbon removal on working lands](https://doi.org/10.22541/essoar.175855457.77763746/v2) | Biochar; Enhanced Weathering | 0 |
-| 2026 | [Bridging carbon removal time lags in agricultural enhanced weathering via methane emission reduction](https://openalex.org/W7162781008) | Enhanced Weathering | 0 |
-| 2026 | [Coupling Acid Neutralizationand Resource Recoveryto Scale Ocean Alkalinity Enhancement](https://openalex.org/W7163560965) | Ocean CDR | 0 |
-| 2023 | [Ocean alkalinity enhancement through restoration of blue carbon ecosystems](https://doi.org/10.1038/s41893-023-01128-2) | Ocean CDR | 75 |
-| 2023 | [A biogeochemical model of mineral-based ocean alkalinity enhancement: impacts on the biological pump and ocean carbon uptake](https://doi.org/10.1088/1748-9326/acc9d4) | Ocean CDR | 59 |
-| 2022 | [Environmental impacts and carbon capture potential of ocean alkalinity enhancement](https://doi.org/10.21203/rs.3.rs-1475007/v1) | Ocean CDR | 18 |
-| 2022 | [Ocean Alkalinity Enhancement Through Blue Carbon Ecosystem Restoration](https://doi.org/10.21203/rs.3.rs-1982110/v1) | Ocean CDR | 1 |
+| 2026 | [Coupling Acid Neutralization and Resource Recovery to Scale Ocean Alkalinity Enhancement](https://openalex.org/W7163188831)<br><small>with Rocco D’Ascanio, Joachim Katchinoff, [Matthew D. Eisaman](/cdr-researcher-census/researchers/matthew-d-eisaman-a5005365/), Nicolas Theunissen, Noah J. Planavsky, [Noah J. Planavsky](/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/)</small> | Ocean CDR | 3 |
+| 2026 | [Seaweed farms enhance alkalinity production and carbon capture](https://doi.org/10.1038/s44458-025-00004-8)<br><small>Communications Sustainability · with [Noah J. Planavsky](/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/)</small> | Ocean CDR | 1 |
+| 2026 | [In-situ deep ocean monitoring reveals rapid kelp degradation limits marine biomass-based carbon sequestration potential and alters benthic ecosystems](https://doi.org/10.1038/s43247-026-03342-0)<br><small>Communications Earth & Environment · with Kohen W. Bauer, A. K. Tune, Alex L. Slonimer, Alex Lupin, Alexander L. Slonimer, Alison K. Tune and 5 more</small> | Ocean CDR | 1 |
+| 2026 | [Bridging time lags in durable carbon removal on working lands](https://doi.org/10.22541/essoar.175855457.77763746/v2)<br><small>with [Noah J. Planavsky](/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/), Beck Woollen, [David J. Beerling](/cdr-researcher-census/researchers/david-j-beerling-a5073877/), [Ella Milliken](/cdr-researcher-census/researchers/ella-milliken-a5117487/), [Christopher T. Reinhard](/cdr-researcher-census/researchers/christopher-t-reinhard-a5061963/)</small> | Biochar; Enhanced Weathering | 0 |
+| 2026 | [Bridging carbon removal time lags in agricultural enhanced weathering via methane emission reduction](https://openalex.org/W7162781008)<br><small>with Noah J Planavsky, [Noah J. Planavsky](/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/), Beck Woollen, [David J. Beerling](/cdr-researcher-census/researchers/david-j-beerling-a5073877/), [Ella Milliken](/cdr-researcher-census/researchers/ella-milliken-a5117487/), [Yoshiki Kanzaki](/cdr-researcher-census/researchers/yoshiki-kanzaki-a5017547/) and 1 more</small> | Enhanced Weathering | 0 |
+| 2026 | [Coupling Acid Neutralizationand Resource Recoveryto Scale Ocean Alkalinity Enhancement](https://openalex.org/W7163560965)<br><small>with Rocco D’Ascanio, Joachim Katchinoff, [Matthew D. Eisaman](/cdr-researcher-census/researchers/matthew-d-eisaman-a5005365/), Nicolas Theunissen, Noah J. Planavsky (7006829)</small> | Ocean CDR | 0 |
+| 2023 | [Ocean alkalinity enhancement through restoration of blue carbon ecosystems](https://doi.org/10.1038/s41893-023-01128-2)<br><small>Nature Sustainability · with [Noah J. Planavsky](/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/), [Christopher T. Reinhard](/cdr-researcher-census/researchers/christopher-t-reinhard-a5061963/)</small> | Ocean CDR | 75 |
+| 2023 | [A biogeochemical model of mineral-based ocean alkalinity enhancement: impacts on the biological pump and ocean carbon uptake](https://doi.org/10.1088/1748-9326/acc9d4)<br><small>Environmental Research Letters · with [Noah J. Planavsky](/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/), Zijian Li, [Christopher T. Reinhard](/cdr-researcher-census/researchers/christopher-t-reinhard-a5061963/)</small> | Ocean CDR | 59 |
+| 2022 | [Environmental impacts and carbon capture potential of ocean alkalinity enhancement](https://doi.org/10.21203/rs.3.rs-1475007/v1)<br><small>preprint · with [Noah J. Planavsky](/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/), Zijian Li, [Christopher T. Reinhard](/cdr-researcher-census/researchers/christopher-t-reinhard-a5061963/)</small> | Ocean CDR | 18 |
+| 2022 | [Ocean Alkalinity Enhancement Through Blue Carbon Ecosystem Restoration](https://doi.org/10.21203/rs.3.rs-1982110/v1)<br><small>Research Square (Research Square) (preprint) · with [Noah J. Planavsky](/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/), [Christopher T. Reinhard](/cdr-researcher-census/researchers/christopher-t-reinhard-a5061963/)</small> | Ocean CDR | 1 |
 
 ---
 

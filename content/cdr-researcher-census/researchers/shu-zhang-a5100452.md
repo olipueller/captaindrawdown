@@ -1,7 +1,7 @@
 ---
 title: "Shu Zhang"
 description: "Shu Zhang, Nanjing Forestry University, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 83 by activity, 835 by citations. 908 publications, h-index 81, 27,361 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/shu-zhang-a5100452/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,19 +43,19 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 9. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 9. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Influence of steric hindrance created by silica in rice husk on evolution of products from pyrolysis, hydrothermal carbonization, activation and gasification](https://doi.org/10.1016/j.cej.2026.174872) | Biochar | 1 |
-| 2025 | [Contribution of hemicellulose/cellulose to structural evolution of char from pyrolysis, hydrothermal carbonization, gasification and activation of poplar wood](https://doi.org/10.1016/j.jece.2025.120281) | Biochar | 15 |
-| 2024 | [Synergistic effects of N-containing heterocyclic and Ca ligand structures on the phosphorus adsorption of N/Ca co-doped biochar](https://doi.org/10.1016/j.jclepro.2024.144392) | Biochar | 19 |
-| 2024 | [Oxidative pyrolysis of poplar sawdust: Probing the influence of oxidation reactions on property of biochar](https://doi.org/10.1016/j.joei.2024.101624) | Biochar | 18 |
-| 2024 | [Removal of silica in rice husk derived Ni/biochar modifies reaction intermediates formed and minimizes coking in steam reforming of glycerol](https://doi.org/10.1016/j.ijhydene.2024.05.003) | Biochar | 7 |
-| 2023 | [Activation of cellulose with CO2 and/or H2O: Evolution of functionalities of the biochar and environmental impacts](https://doi.org/10.1016/j.biombioe.2023.106811) | Biochar | 31 |
-| 2023 | [Activation of mixed sawdust and spirulina with or without a pre‑carbonization step: Probing roles of volatile-char interaction on evolution of pyrolytic products](https://doi.org/10.1016/j.fuproc.2023.107926) | Biochar | 22 |
-| 2023 | [Synergistic Effects of N-Containing Heterocyclic and Ca Ligand Structures on the Phosphorus Adsorption of N and Ca Co-Doped Biochar](http://dx.doi.org/10.2139/ssrn.4351045) | Biochar | 0 |
-| 2022 | [Impacts of CO2 atmosphere on property of the biochar from pyrolysis of lignin](https://doi.org/10.1016/j.jaap.2022.105689) | Biochar | 41 |
+| 2026 | [Influence of steric hindrance created by silica in rice husk on evolution of products from pyrolysis, hydrothermal carbonization, activation and gasification](https://doi.org/10.1016/j.cej.2026.174872)<br><small>Chemical Engineering Journal · with Mengjiao Fan, Baihong Li, Maowen Qi, Wenjian Liu, Xiantao Meng, Yi Wang and 3 more</small> | Biochar | 1 |
+| 2025 | [Contribution of hemicellulose/cellulose to structural evolution of char from pyrolysis, hydrothermal carbonization, gasification and activation of poplar wood](https://doi.org/10.1016/j.jece.2025.120281)<br><small>Journal of environmental chemical engineering · with Chao Li, Bo Gao, Jingyu Zhang, Mengjiao Fan, Tao Wei, Yuchen Jiang and 2 more</small> | Biochar | 15 |
+| 2024 | [Synergistic effects of N-containing heterocyclic and Ca ligand structures on the phosphorus adsorption of N/Ca co-doped biochar](https://doi.org/10.1016/j.jclepro.2024.144392)<br><small>Journal of Cleaner Production · with Zhengming Yang, Luna Ren, Muhammad Asif Akhtar, Nian Liu, Wenjuan Niu, zhidong zou and 1 more</small> | Biochar | 19 |
+| 2024 | [Oxidative pyrolysis of poplar sawdust: Probing the influence of oxidation reactions on property of biochar](https://doi.org/10.1016/j.joei.2024.101624)<br><small>Journal of the Energy Institute · with Guoming Gao, Anjiang Gao, Chao Li, Kuan Ding, Lijun Zhang, Mortaza Gholizadeh and 3 more</small> | Biochar | 18 |
+| 2024 | [Removal of silica in rice husk derived Ni/biochar modifies reaction intermediates formed and minimizes coking in steam reforming of glycerol](https://doi.org/10.1016/j.ijhydene.2024.05.003)<br><small>International Journal of Hydrogen Energy · with Lihua Wang, Lijun Zhang, Xin Zhong, Yunyu Guo, Xun Hu</small> | Biochar | 7 |
+| 2023 | [Activation of cellulose with CO2 and/or H2O: Evolution of functionalities of the biochar and environmental impacts](https://doi.org/10.1016/j.biombioe.2023.106811)<br><small>Biomass and Bioenergy · with Cong Ming, Bin Li, Chao Li, Qifeng Chen, Shuang Wang, Yonggui Tang and 3 more</small> | Biochar | 31 |
+| 2023 | [Activation of mixed sawdust and spirulina with or without a pre‑carbonization step: Probing roles of volatile-char interaction on evolution of pyrolytic products](https://doi.org/10.1016/j.fuproc.2023.107926)<br><small>Fuel Processing Technology · with Jingyi Liang, Chao Li, Jun Xiang, Kai Sun, Shuang Wang, Song Hu and 2 more</small> | Biochar | 22 |
+| 2023 | [Synergistic Effects of N-Containing Heterocyclic and Ca Ligand Structures on the Phosphorus Adsorption of N and Ca Co-Doped Biochar](http://dx.doi.org/10.2139/ssrn.4351045)<br><small>SSRN Electronic Journal · with zhidong zou, Asif Akhtar, Luna Ren, Nian Liu, Wenjuan Niu, Zhengming Yang and 1 more</small> | Biochar | 0 |
+| 2022 | [Impacts of CO2 atmosphere on property of the biochar from pyrolysis of lignin](https://doi.org/10.1016/j.jaap.2022.105689)<br><small>Journal of Analytical and Applied Pyrolysis · with Zijun Yi, Bin Li, Chao Li, Lijun Zhang, Shuang Wang, Wenran Gao and 1 more</small> | Biochar | 41 |
 
 ---
 

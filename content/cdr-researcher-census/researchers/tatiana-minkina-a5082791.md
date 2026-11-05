@@ -1,7 +1,7 @@
 ---
 title: "Tatiana Minkina"
 description: "Tatiana Minkina, Southern Federal University, Russia. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 96 by activity, 493 by citations. 884 publications, h-index 71, 20,438 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/tatiana-minkina-a5082791/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 8. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 8. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [A critical evaluation of nanoparticles and biochar in microplastics remediation in soil](https://openalex.org/W7139970300) | Biochar | 1 |
-| 2025 | [Machine learning prediction of biochar properties derived from food waste](https://doi.org/10.1016/j.jece.2025.116791) | Biochar | 16 |
-| 2025 | [A comparative study of fresh and residual biochar effects on wheat growth and yield metrics](https://doi.org/10.18393/ejss.1647314) | Biochar | 6 |
-| 2025 | [Nano-Biochar: A promising tool for sustainable agriculture under climate change era](https://doi.org/10.20961/stjssa.v22i1.100809) | Biochar | 5 |
-| 2024 | [Multifaceted Characteristics of Biochar and Its Implementation in Environmental Management in a Sustainable Way](https://doi.org/10.1002/tqem.22305) | Biochar | 25 |
-| 2024 | [Hydrochar as an adsorbent for heavy metals in soil: A meta-analysis](https://doi.org/10.1016/j.susmat.2024.e01057) | Biochar | 12 |
-| 2022 | [A practical evaluation on integrated role of biochar and nanomaterials in soil remediation processes](https://doi.org/10.1007/s10653-022-01375-w) | Biochar | 30 |
-| 2021 | [Sustainable Approach and Safe Use of Biochar and Its Possible Consequences](https://doi.org/10.3390/su131810362) | Biochar | 108 |
+| 2026 | [A critical evaluation of nanoparticles and biochar in microplastics remediation in soil](https://openalex.org/W7139970300)<br><small>with Priyadarshani Rajput, Pankaj Kumar Srivastava, Saglara Mandzhieva, Swarnendra Banerjee, Vicky Anand, [Vishnu D. Rajput](/cdr-researcher-census/researchers/vishnu-d-rajput-a5084567/)</small> | Biochar | 1 |
+| 2025 | [Machine learning prediction of biochar properties derived from food waste](https://doi.org/10.1016/j.jece.2025.116791)<br><small>Journal of environmental chemical engineering · with Ekaterina Kravchenko, D. A. Privizentseva, M. Zhelnin, Sudhakar Srivastava, Tatiana Bauer, Yufei Zhao and 1 more</small> | Biochar | 16 |
+| 2025 | [A comparative study of fresh and residual biochar effects on wheat growth and yield metrics](https://doi.org/10.18393/ejss.1647314)<br><small>EURASIAN JOURNAL OF SOIL SCIENCE (EJSS) · with Gaurav Sharma, [Chandra Mohan Mehta](/cdr-researcher-census/researchers/chandra-mohan-mehta-a5008862/), Diptanu Banik, Eiji Nishihara, Kazuyuki Inubushi, Prabir K. Patra and 3 more</small> | Biochar | 6 |
+| 2025 | [Nano-Biochar: A promising tool for sustainable agriculture under climate change era](https://doi.org/10.20961/stjssa.v22i1.100809)<br><small>Sains Tanah - Journal of Soil Science and Agroclimatology · with Nallagatla Vinod Kumar, B. Bhargavi, K N Pallavi, L. Peace Raising, M. Sharath Chandra, Naveen Kumar and 5 more</small> | Biochar | 5 |
+| 2024 | [Multifaceted Characteristics of Biochar and Its Implementation in Environmental Management in a Sustainable Way](https://doi.org/10.1002/tqem.22305)<br><small>Environmental Quality Management · with Deepak Rao, Priyadarshani Rajput, Ravish Choudhary, S. K. Yadav, Sangita Yadav, Sezai Erċışlı and 2 more</small> | Biochar | 25 |
+| 2024 | [Hydrochar as an adsorbent for heavy metals in soil: A meta-analysis](https://doi.org/10.1016/j.susmat.2024.e01057)<br><small>Sustainable materials and technologies · with Ekaterina Kravchenko, D. A. Privizentseva, Svetlana Sushkova, Tatiana Bauer, Wen Hui Yan, К. Ш. Казеев and 1 more</small> | Biochar | 12 |
+| 2022 | [A practical evaluation on integrated role of biochar and nanomaterials in soil remediation processes](https://doi.org/10.1007/s10653-022-01375-w)<br><small>Environmental Geochemistry and Health · with [Vishnu D. Rajput](/cdr-researcher-census/researchers/vishnu-d-rajput-a5084567/), Anatoly Barakhov, Anuj Ranjan, Arpna Kumari, Priyadarshani Rajput, Saglara Mandzhieva and 3 more</small> | Biochar | 30 |
+| 2021 | [Sustainable Approach and Safe Use of Biochar and Its Possible Consequences](https://doi.org/10.3390/su131810362)<br><small>Sustainability · with Hanuman Singh Jatav, Anatoly Barakhov, Andrey Gorovtsov, Marina Burachevskaya, Saglara Mandzhieva, Satish Kumar Singh and 5 more</small> | Biochar | 108 |
 
 ---
 

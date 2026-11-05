@@ -1,7 +1,7 @@
 ---
 title: "Behrouz Gholamahmadi"
 description: "Behrouz Gholamahmadi, University of Aveiro, Portugal. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 30 by activity, 7284 by citations. 40 publications, h-index 4, 140 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/behrouz-gholamahmadi-a5079131/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,23 +43,23 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-13 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 8, Enhanced Weathering 3, Cross-cutting CDR 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+13 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 8, Enhanced Weathering 3, Cross-cutting CDR 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Biochar for durable carbon removal: soil erosion reduction as a key mechanism](https://doi.org/10.1016/j.bmf.2026.100020) | Biochar | 12 |
+| 2026 | [Biochar for durable carbon removal: soil erosion reduction as a key mechanism](https://doi.org/10.1016/j.bmf.2026.100020)<br><small>Biomass Futures · with [Claudia Kammann](/cdr-researcher-census/researchers/claudia-kammann-a5061014/)</small> | Biochar | 12 |
 | 2026 | [Understanding feedstock-dependent biochar performance beyond static material descriptors](https://openalex.org/W7163067160) | Biochar | 5 |
-| 2026 | [Alignment between product-based regulation and soil process-based functions in biochar systems under EU policy](https://openalex.org/W7161265435) | Biochar | 2 |
-| 2026 | [Impacts of enhanced rock weathering on soil sponge function: a global synthesis of soil physical and hydrological responses](https://openalex.org/W7164050786) | Enhanced Weathering | 2 |
+| 2026 | [Alignment between product-based regulation and soil process-based functions in biochar systems under EU policy](https://openalex.org/W7161265435)<br><small>with Luka Štrubelj, Navraj Singh Ghaleigh</small> | Biochar | 2 |
+| 2026 | [Impacts of enhanced rock weathering on soil sponge function: a global synthesis of soil physical and hydrological responses](https://openalex.org/W7164050786)<br><small>with [Laura Steinwidder](/cdr-researcher-census/researchers/laura-steinwidder-a5058405/), [Lucilla Boito](/cdr-researcher-census/researchers/lucilla-boito-a5094096/), [Sara Vicca](/cdr-researcher-census/researchers/sara-vicca-a5006929/)</small> | Enhanced Weathering | 2 |
 | 2026 | [Nature-positive carbon dioxide removal (NPCDR): A governance framework for integrating carbon integrity and ecosystem performance in EU climate policy](https://openalex.org/W7164656661) | Cross-cutting CDR | 1 |
-| 2026 | [Biochar reduces soil thermal conductivity, diffusivity and volumetric heat storage: A global meta-analysis](https://openalex.org/W7166338003) | Biochar | 1 |
-| 2026 | [Biochar-mediated soil strategies for mitigating antimicrobial resistance and protecting biodiversity](https://openalex.org/W7162456433) | Biochar | 0 |
-| 2026 | [Economic valuation of ecosystem services from biochar-mediated soil erosion control for carbon-neutral land management](https://openalex.org/W7213778281) | Biochar | 0 |
+| 2026 | [Biochar reduces soil thermal conductivity, diffusivity and volumetric heat storage: A global meta-analysis](https://openalex.org/W7166338003)<br><small>preprint · with Damien Beillouin, K. Weber, Lukáš Trakal, [Ondřej Mašek](/cdr-researcher-census/researchers/ondrej-masek-a5087096/)</small> | Biochar | 1 |
+| 2026 | [Biochar-mediated soil strategies for mitigating antimicrobial resistance and protecting biodiversity](https://openalex.org/W7162456433)<br><small>preprint · with Nadia Castanheira, Regina Menino</small> | Biochar | 0 |
+| 2026 | [Economic valuation of ecosystem services from biochar-mediated soil erosion control for carbon-neutral land management](https://openalex.org/W7213778281)<br><small>preprint</small> | Biochar | 0 |
 | 2026 | [Qualifying biochar-derived graphite for lithium-ion battery anodes in Europe](https://openalex.org/W7214280802) | Biochar | 0 |
 | 2026 | [Enhanced rock weathering in the European Union: Certification, monitoring and governance requirements for responsible carbon dioxide removal](https://openalex.org/W7214968900) | Enhanced Weathering | 0 |
 | 2026 | [Stratospheric cooling and accountable carbon dioxide removal](https://openalex.org/W7220680577) | Cross-cutting CDR | 0 |
 | 2026 | [Enhanced rock weathering for PFAS-contaminated soils](https://openalex.org/W7221082277) | Enhanced Weathering | 0 |
-| 2025 | [Biochar Application in Biodiverse Pastures: A Study on Changing GHG Emissions in Interactions with Soil Temperature and Moisture during the Growing Peak&amp;#160;](https://doi.org/10.5194/egusphere-egu25-9232) | Biochar | 0 |
+| 2025 | [Biochar Application in Biodiverse Pastures: A Study on Changing GHG Emissions in Interactions with Soil Temperature and Moisture during the Growing Peak&amp;#160;](https://doi.org/10.5194/egusphere-egu25-9232)<br><small>preprint · with Zahra Khodaparast, Ana Catarina Bastos, Antun Jelinčić, David Fangueiro, Isabel Campos, Liliana Simões and 7 more</small> | Biochar | 0 |
 
 ---
 

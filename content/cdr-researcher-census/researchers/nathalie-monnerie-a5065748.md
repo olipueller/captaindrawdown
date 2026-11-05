@@ -1,7 +1,7 @@
 ---
 title: "Nathalie Monnerie"
 description: "Nathalie Monnerie, Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR), Germany. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 97 by activity, 675 by citations. 118 publications, h-index 20, 1,510 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/nathalie-monnerie-a5065748/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,17 +43,17 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 6, Cross-cutting CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 6, Cross-cutting CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2025 | [Powering Direct Air Capture: Overview of Existing Concepts and the Overlooked Role of Concentrated Solar Thermal Technologies](https://doi.org/10.1007/s40518-025-00255-y) | DAC | 0 |
-| 2025 | [Powering Direct Air Capture: Overview of Existing Concepts and the Overlooked Role of Concentrated Solar Thermal Technologies](https://openalex.org/W7147152197) | DAC | 0 |
-| 2024 | [A techno-economic and environmental evaluation of the integration of direct air capture with hydrogen derivatives production](https://doi.org/10.1016/j.ijhydene.2024.10.026) | DAC | 7 |
-| 2024 | [A storyline approach: integrating comprehensive, interdisciplinary research results to create narratives – in the context of the net-zero target in Germany](http://dx.doi.org/10.3389/fenvs.2024.1433491) | Cross-cutting CDR | 2 |
-| 2024 | [Synergies between Direct Air Capture and Solar Hydrogen andFuel Production](https://openalex.org/W7128980604) | DAC | 0 |
-| 2022 | [Techno-Economic Assessment of the Integration of Direct Air Capture and the Production of Solar Fuels](https://doi.org/10.3390/en15145017) | DAC | 21 |
-| 2021 | [Synergies between Direct Air Capture Technologies and Solar Thermochemical Cycles in the Production of Methanol](https://doi.org/10.3390/en14164818) | DAC | 15 |
+| 2025 | [Powering Direct Air Capture: Overview of Existing Concepts and the Overlooked Role of Concentrated Solar Thermal Technologies](https://doi.org/10.1007/s40518-025-00255-y)<br><small>Current Sustainable/Renewable Energy Reports · with Enric Prats‐Salvado, [Christian Sattler](/cdr-researcher-census/researchers/christian-sattler-a5003022/)</small> | DAC | 0 |
+| 2025 | [Powering Direct Air Capture: Overview of Existing Concepts and the Overlooked Role of Concentrated Solar Thermal Technologies](https://openalex.org/W7147152197)<br><small>with Enric Prats Salvadó, [Christian Sattler](/cdr-researcher-census/researchers/christian-sattler-a5003022/)</small> | DAC | 0 |
+| 2024 | [A techno-economic and environmental evaluation of the integration of direct air capture with hydrogen derivatives production](https://doi.org/10.1016/j.ijhydene.2024.10.026)<br><small>International Journal of Hydrogen Energy · with Enric Prats‐Salvado, [Christian Sattler](/cdr-researcher-census/researchers/christian-sattler-a5003022/)</small> | DAC | 7 |
+| 2024 | [A storyline approach: integrating comprehensive, interdisciplinary research results to create narratives – in the context of the net-zero target in Germany](http://dx.doi.org/10.3389/fenvs.2024.1433491)<br><small>Frontiers in Environmental Science · with Fiona Köhnke, [Andreas Oschlies](/cdr-researcher-census/researchers/andreas-oschlies-a5063745/), Angela Stevenson, Aram Kalhori, Bettina Steuri, [Daniela Thrän](/cdr-researcher-census/researchers/daniela-thran-a5012569/) and 25 more</small> | Cross-cutting CDR | 2 |
+| 2024 | [Synergies between Direct Air Capture and Solar Hydrogen andFuel Production](https://openalex.org/W7128980604)<br><small>elib (German Aerospace Center) · with Enric Prats Salvadó, [Christian Sattler](/cdr-researcher-census/researchers/christian-sattler-a5003022/)</small> | DAC | 0 |
+| 2022 | [Techno-Economic Assessment of the Integration of Direct Air Capture and the Production of Solar Fuels](https://doi.org/10.3390/en15145017)<br><small>Energies · with Enric Prats‐Salvado, [Christian Sattler](/cdr-researcher-census/researchers/christian-sattler-a5003022/)</small> | DAC | 21 |
+| 2021 | [Synergies between Direct Air Capture Technologies and Solar Thermochemical Cycles in the Production of Methanol](https://doi.org/10.3390/en14164818)<br><small>Energies · with Enric Prats‐Salvado, [Christian Sattler](/cdr-researcher-census/researchers/christian-sattler-a5003022/)</small> | DAC | 15 |
 
 ---
 

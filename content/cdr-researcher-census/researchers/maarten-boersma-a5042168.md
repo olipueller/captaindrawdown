@@ -1,7 +1,7 @@
 ---
 title: "Maarten Boersma"
 description: "Maarten Boersma, Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 37 by activity, 735 by citations. 451 publications, h-index 48, 9,353 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/maarten-boersma-a5042168/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,22 +43,22 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-12 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 12, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+12 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 12, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Resilience of the gelatinous zooplankton species Oikopleura dioica to ocean alkalinity enhancement](https://openalex.org/W7143297560) | Ocean CDR | 1 |
-| 2026 | [Ocean alkalinity enhancement reduces silica ballasting during export due to amplified dissolution](https://openalex.org/W7167673269) | Ocean CDR | 1 |
-| 2026 | [Spring phytoplankton bloom dynamics reveal thresholds of ocean alkalinity enhancement in the North Sea](https://openalex.org/W7213877684) | Ocean CDR | 0 |
-| 2025 | [Prey dynamics as a buffer: enhancing copepod resilience to ocean alkalinity enhancement](https://doi.org/10.1088/1748-9326/adaa8c) | Ocean CDR | 15 |
-| 2025 | [Exploring Site‐Specific Carbon Dioxide Removal Options With Storage or Sequestration in the Marine Environment – The 10 Mt CO<sub>2</sub> yr<sup>−1</sup> Removal Challenge for Germany](https://doi.org/10.1029/2024ef004902) | Ocean CDR | 9 |
-| 2025 | [The effect of ocean alkalinity enhancement on pelagic bacterial communities: focus points derived from a mesocosm experiment](https://doi.org/10.3389/frmbi.2025.1606890) | Ocean CDR | 9 |
-| 2025 | [New findings on capturing CO₂ by increasing the alkalinity of seawater: The seven most important outcomes of RETAKE research](https://doi.org/10.3289/cdrmare.52) | Enhanced Weathering; Ocean CDR | 1 |
-| 2024 | [Assessing the impact of Ocean Alkalinity Enhancement on the zooplankton community](https://doi.org/10.5194/egusphere-egu24-300) | Ocean CDR | 1 |
-| 2024 | [Ocean Alkalinity Enhancement impacts on pelagic communitites](https://orcid.org/0000-0001-8930-477X>,) | Ocean CDR | 0 |
-| 2023 | [Effects of Ocean Alkalinity Enhancement on zooplankton community](https://orcid.org/0000-0001-7148-3191>) | Ocean CDR | 0 |
-| 2023 | [Effects of Ocean Alkalinity Enhancement on zooplankton community: two temperate mesocosm studies](https://orcid.org/0000-0002-9442-452X>,) | Ocean CDR | 0 |
-| 2022 | [Potential effects of Ocean Alkalinity Enhancement on Appendicularia. Coastal Research North Sea-Baltic Sea (KüNO)](https://orcid.org/0000-0003-2850-4131>) | Ocean CDR | 0 |
+| 2026 | [Resilience of the gelatinous zooplankton species Oikopleura dioica to ocean alkalinity enhancement](https://openalex.org/W7143297560)<br><small>with Amrita Bhaumik, María Couret, [Nicolás Sánchez](/cdr-researcher-census/researchers/nicolas-sanchez-a5027018/), [Silvan Urs Goldenberg](/cdr-researcher-census/researchers/silvan-urs-goldenberg-a5011298/), Synne Spjelkavik, [Ulf Riebesell](/cdr-researcher-census/researchers/ulf-riebesell-a5005675/) and 1 more</small> | Ocean CDR | 1 |
+| 2026 | [Ocean alkalinity enhancement reduces silica ballasting during export due to amplified dissolution](https://openalex.org/W7167673269)<br><small>with Philipp Suessle, Joana Barcelos e Ramos, Juliane Katharina Tammen, [Julieta Schneider](/cdr-researcher-census/researchers/julieta-schneider-a5032139/), [Kai G. Schulz](/cdr-researcher-census/researchers/kai-g-schulz-a5091734/), [Laura Marín-Samper](/cdr-researcher-census/researchers/laura-marin-samper-a5013241/) and 4 more</small> | Ocean CDR | 1 |
+| 2026 | [Spring phytoplankton bloom dynamics reveal thresholds of ocean alkalinity enhancement in the North Sea](https://openalex.org/W7213877684)<br><small>with Juliane K. Tammen, [Giulia Faucher](/cdr-researcher-census/researchers/giulia-faucher-a5029772/), [Kai G. Schulz](/cdr-researcher-census/researchers/kai-g-schulz-a5091734/), [Leila Kittu](/cdr-researcher-census/researchers/leila-kittu-a5085342/), Markus Schartau, [Ulf Riebesell](/cdr-researcher-census/researchers/ulf-riebesell-a5005675/)</small> | Ocean CDR | 0 |
+| 2025 | [Prey dynamics as a buffer: enhancing copepod resilience to ocean alkalinity enhancement](https://doi.org/10.1088/1748-9326/adaa8c)<br><small>Environmental Research Letters · with Amrita Bhaumik, Cédric L. Meunier, [Giulia Faucher](/cdr-researcher-census/researchers/giulia-faucher-a5029772/), M. W. Henning</small> | Ocean CDR | 15 |
+| 2025 | [Exploring Site‐Specific Carbon Dioxide Removal Options With Storage or Sequestration in the Marine Environment – The 10 Mt CO<sub>2</sub> yr<sup>−1</sup> Removal Challenge for Germany](https://doi.org/10.1029/2024ef004902)<br><small>Earth s Future · with [Wanxuan Yao](/cdr-researcher-census/researchers/wanxuan-yao-a5069543/), A. S. Chua, Achim Kopf, Alexander Proelß, Amrita Bhaumik, Amy J. Anschutz and 57 more</small> | Ocean CDR | 9 |
+| 2025 | [The effect of ocean alkalinity enhancement on pelagic bacterial communities: focus points derived from a mesocosm experiment](https://doi.org/10.3389/frmbi.2025.1606890)<br><small>Frontiers in Microbiomes · with Dominik Antoni, Antje Wichels, Gunnar Gerdts</small> | Ocean CDR | 9 |
+| 2025 | [New findings on capturing CO₂ by increasing the alkalinity of seawater: The seven most important outcomes of RETAKE research](https://doi.org/10.3289/cdrmare.52)<br><small>with Sina Löschke, [Andreas Oschlies](/cdr-researcher-census/researchers/andreas-oschlies-a5063745/), Gregor Rehder, [Jessica Strefler](/cdr-researcher-census/researchers/jessica-strefler-a5056511/), [Judith Hauck](/cdr-researcher-census/researchers/judith-hauck-a5068651/), Marie-Catherine Rieckhof and 5 more</small> | Enhanced Weathering; Ocean CDR | 1 |
+| 2024 | [Assessing the impact of Ocean Alkalinity Enhancement on the zooplankton community](https://doi.org/10.5194/egusphere-egu24-300)<br><small>preprint · with Amrita Bhaumik, Cédric L. Meunier, [Giulia Faucher](/cdr-researcher-census/researchers/giulia-faucher-a5029772/), [Julieta Schneider](/cdr-researcher-census/researchers/julieta-schneider-a5032139/), [Leila Kittu](/cdr-researcher-census/researchers/leila-kittu-a5085342/), M. W. Henning and 1 more</small> | Ocean CDR | 1 |
+| 2024 | [Ocean Alkalinity Enhancement impacts on pelagic communitites](https://orcid.org/0000-0001-8930-477X>,)<br><small>Helmholtz Centre for Ocean Research Kiel (GEOMAR) · with Amrita Bhaumik, Cedric L. Meuner, D. Antoni, E. Tiarks, [Giulia Faucher](/cdr-researcher-census/researchers/giulia-faucher-a5029772/), J. Tammen and 3 more</small> | Ocean CDR | 0 |
+| 2023 | [Effects of Ocean Alkalinity Enhancement on zooplankton community](https://orcid.org/0000-0001-7148-3191>)<br><small>Helmholtz Centre for Ocean Research Kiel (GEOMAR) · with K. A. Bhaumik</small> | Ocean CDR | 0 |
+| 2023 | [Effects of Ocean Alkalinity Enhancement on zooplankton community: two temperate mesocosm studies](https://orcid.org/0000-0002-9442-452X>,)<br><small>Helmholtz Centre for Ocean Research Kiel (GEOMAR) · with K. A. Bhaumik, C. L. Meunier, Cornelia Jaspers, S. Spjelkavik, U Riebesell, [Ulf Riebesell](/cdr-researcher-census/researchers/ulf-riebesell-a5005675/)</small> | Ocean CDR | 0 |
+| 2022 | [Potential effects of Ocean Alkalinity Enhancement on Appendicularia. Coastal Research North Sea-Baltic Sea (KüNO)](https://orcid.org/0000-0003-2850-4131>)<br><small>Helmholtz Centre for Ocean Research Kiel (GEOMAR) · with K. A. Bhaumik, S. Spjelkavik, Cornelia Jaspers</small> | Ocean CDR | 0 |
 
 ---
 

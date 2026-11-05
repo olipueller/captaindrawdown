@@ -1,7 +1,7 @@
 ---
 title: "Dominic Lenzi"
 description: "Dominic Lenzi, University of Twente, Netherlands. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 80 by activity, 2864 by citations. 42 publications, h-index 15, 2,644 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/dominic-lenzi-a5023443/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Cross-cutting CDR 8. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Cross-cutting CDR 8. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Climate Justice and the Extended Capabilities Approach: The Case of ‘Nature-Based’ Carbon Removal](https://openalex.org/W7142544289) | Cross-cutting CDR | 1 |
-| 2026 | [Editorial introduction to the collection: ‘The ethics of carbon dioxide removal’ – Corrigendum](https://doi.org/10.1017/sus.2025.10033) | Cross-cutting CDR | 0 |
-| 2025 | [The Earth System in the Anthropocene and the Primacy of Joint Collective Ownership](https://doi.org/10.1111/josp.12608) | Cross-cutting CDR | 0 |
-| 2025 | [Editorial introduction to the collection: ‘The ethics of carbon dioxide removal’](https://doi.org/10.1017/sus.2025.10017) | Cross-cutting CDR | 0 |
-| 2024 | [An earth system governance research agenda for carbon removal](https://doi.org/10.1016/j.esg.2024.100204) | Cross-cutting CDR | 12 |
-| 2023 | [Justice in benefitting from carbon removal](https://doi.org/10.1017/sus.2023.22) | Cross-cutting CDR | 8 |
-| 2023 | [Key messages for the ethical governance of Carbon Dioxide Removal (CDR)](https://openalex.org/W7154923814) | Cross-cutting CDR | 0 |
-| 2022 | [D2.2 Identification and specification of potential ethical issues and impacts and analysis of ethical issues](https://doi.org/10.5281/zenodo.7619852) | Cross-cutting CDR | 1 |
+| 2026 | [Climate Justice and the Extended Capabilities Approach: The Case of ‘Nature-Based’ Carbon Removal](https://openalex.org/W7142544289)<br><small>with Elisa Paiusco</small> | Cross-cutting CDR | 1 |
+| 2026 | [Editorial introduction to the collection: ‘The ethics of carbon dioxide removal’ – Corrigendum](https://doi.org/10.1017/sus.2025.10033)<br><small>Global Sustainability · with Hanna Schübel, Clare Heyward, Ivo Wallimann-Helmar</small> | Cross-cutting CDR | 0 |
+| 2025 | [The Earth System in the Anthropocene and the Primacy of Joint Collective Ownership](https://doi.org/10.1111/josp.12608)<br><small>Journal of Social Philosophy</small> | Cross-cutting CDR | 0 |
+| 2025 | [Editorial introduction to the collection: ‘The ethics of carbon dioxide removal’](https://doi.org/10.1017/sus.2025.10017)<br><small>Global Sustainability · with Hanna Schübel, Clare Heyward, Ivo Wallimann-Hellmar</small> | Cross-cutting CDR | 0 |
+| 2024 | [An earth system governance research agenda for carbon removal](https://doi.org/10.1016/j.esg.2024.100204)<br><small>Earth System Governance · with [Sean Low](/cdr-researcher-census/researchers/sean-low-a5005320/), Aarti Gupta, Amanda C. Borth, Calum Brown, Celina Scott-Buechler, [Chad M. Baum](/cdr-researcher-census/researchers/chad-m-baum-a5057828/) and 9 more</small> | Cross-cutting CDR | 12 |
+| 2023 | [Justice in benefitting from carbon removal](https://doi.org/10.1017/sus.2023.22)<br><small>Global Sustainability · with Hanna Schübel, Ivo Wallimann-Helmer</small> | Cross-cutting CDR | 8 |
+| 2023 | [Key messages for the ethical governance of Carbon Dioxide Removal (CDR)](https://openalex.org/W7154923814)<br><small>with Michel Bourban, Bennet Francis</small> | Cross-cutting CDR | 0 |
+| 2022 | [D2.2 Identification and specification of potential ethical issues and impacts and analysis of ethical issues](https://doi.org/10.5281/zenodo.7619852)<br><small>Zenodo (CERN European Organization for Nuclear Research) · with Laurynas Adomaitis, Alexei Grinbaum</small> | Cross-cutting CDR | 1 |
 
 ---
 

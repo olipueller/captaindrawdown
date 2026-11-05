@@ -1,7 +1,7 @@
 ---
 title: "David Chiaramonti"
 description: "David Chiaramonti, Politecnico di Torino, Italy. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 54 by activity, 1273 by citations. 256 publications, h-index 47, 7,658 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/david-chiaramonti-a5071729/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,19 +43,19 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 8, Cross-cutting CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 8, Cross-cutting CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [A Unified Framework for Biochar Carbon Permanence](https://openalex.org/W7160387637) | Biochar | 0 |
-| 2026 | [Biochar and carbon variations across diverse industrial crops and cultivated wild plant species: implications for flexible biomass supply chains and Biochar Carbon Removals](https://openalex.org/W7171982860) | Biochar | 0 |
-| 2025 | [Evaluating the two-pool decay model for biochar carbon permanence](https://doi.org/10.1007/s42773-024-00408-0) | Biochar | 27 |
-| 2025 | [Is soil sampling appropriate for quantitative carbon accounting for biochar? An experimental investigation to assess soil carbon accumulation](https://doi.org/10.1016/j.biombioe.2025.108537) | Biochar | 4 |
-| 2025 | [Quantifying Inertinite Carbon in Biochar](https://doi.org/10.2139/ssrn.5385345) | Biochar | 0 |
-| 2024 | [Biochar is a long-lived form of carbon removal, making evidence-based CDR projects possible](https://doi.org/10.1007/s42773-024-00366-7) | Biochar | 41 |
-| 2024 | [Assessment of long-lived Carbon permanence in agricultural soil: Unearthing 15 years-old biochar from long-term field experiment in vineyard](https://doi.org/10.1016/j.biombioe.2024.107484) | Biochar | 20 |
-| 2024 | [Energy and GHG emissions assessment for biochar-enhanced advanced biofuels value chains](https://doi.org/10.1016/j.enconman.2024.118450) | Biochar | 19 |
-| 2023 | [Bioenergy and nutrition: Positive linkages for the achievement of the <scp>UN</scp> Sustainable Development Goals](https://doi.org/10.1002/wene.489) | Cross-cutting CDR | 27 |
+| 2026 | [A Unified Framework for Biochar Carbon Permanence](https://openalex.org/W7160387637)<br><small>preprint · with [Hamed Sanei](/cdr-researcher-census/researchers/hamed-sanei-a5054476/), A Rudra, [Arka Rudra](/cdr-researcher-census/researchers/arka-rudra-a5091328/), [Henrik I. Petersen](/cdr-researcher-census/researchers/henrik-i-petersen-a5016856/), Pål J. Nilsen, Zhiheng Zhou and 1 more</small> | Biochar | 0 |
+| 2026 | [Biochar and carbon variations across diverse industrial crops and cultivated wild plant species: implications for flexible biomass supply chains and Biochar Carbon Removals](https://openalex.org/W7171982860)<br><small>preprint · with David Casini, Efthymia Alexopoulou, Iris Lewandowski, L. Bettucci, Valentin Schlecht, Moritz von Cossel</small> | Biochar | 0 |
+| 2025 | [Evaluating the two-pool decay model for biochar carbon permanence](https://doi.org/10.1007/s42773-024-00408-0)<br><small>Biochar · with [Hamed Sanei](/cdr-researcher-census/researchers/hamed-sanei-a5054476/), [Henrik I. Petersen](/cdr-researcher-census/researchers/henrik-i-petersen-a5016856/), [Ondřej Mašek](/cdr-researcher-census/researchers/ondrej-masek-a5087096/)</small> | Biochar | 27 |
+| 2025 | [Is soil sampling appropriate for quantitative carbon accounting for biochar? An experimental investigation to assess soil carbon accumulation](https://doi.org/10.1016/j.biombioe.2025.108537)<br><small>Biomass and Bioenergy · with David Casini, Francesca Tozzi, Francesco Primo Vaccari, Giulia Lotti, [Hamed Sanei](/cdr-researcher-census/researchers/hamed-sanei-a5054476/), Michaela Luconi and 1 more</small> | Biochar | 4 |
+| 2025 | [Quantifying Inertinite Carbon in Biochar](https://doi.org/10.2139/ssrn.5385345)<br><small>SSRN Electronic Journal (preprint) · with [Hamed Sanei](/cdr-researcher-census/researchers/hamed-sanei-a5054476/), Anna Lehner, [Arka Rudra](/cdr-researcher-census/researchers/arka-rudra-a5091328/), Erica Dorr, Fariborz Goodarzi, [Hans‐Peter Schmidt](/cdr-researcher-census/researchers/hanspeter-schmidt-a5065464/) and 10 more</small> | Biochar | 0 |
+| 2024 | [Biochar is a long-lived form of carbon removal, making evidence-based CDR projects possible](https://doi.org/10.1007/s42773-024-00366-7)<br><small>Biochar · with Franco Berruti, [Hamed Sanei](/cdr-researcher-census/researchers/hamed-sanei-a5054476/), [Johannes Lehmann](/cdr-researcher-census/researchers/johannes-lehmann-a5042699/), Paola Giudicianni, [Ondřej Mašek](/cdr-researcher-census/researchers/ondrej-masek-a5087096/)</small> | Biochar | 41 |
+| 2024 | [Assessment of long-lived Carbon permanence in agricultural soil: Unearthing 15 years-old biochar from long-term field experiment in vineyard](https://doi.org/10.1016/j.biombioe.2024.107484)<br><small>Biomass and Bioenergy · with Francesco Primo Vaccari, Giulia Lotti, [Hamed Sanei](/cdr-researcher-census/researchers/hamed-sanei-a5054476/)</small> | Biochar | 20 |
+| 2024 | [Energy and GHG emissions assessment for biochar-enhanced advanced biofuels value chains](https://doi.org/10.1016/j.enconman.2024.118450)<br><small>Energy Conversion and Management · with Marco Buffi, Matteo Prussi, Nicolae Scarlat, Oliver Hurtig</small> | Biochar | 19 |
+| 2023 | [Bioenergy and nutrition: Positive linkages for the achievement of the <scp>UN</scp> Sustainable Development Goals](https://doi.org/10.1002/wene.489)<br><small>Wiley Interdisciplinary Reviews Energy and Environment · with Lorenzo Testa, Caitlin McGinnis, Constance Miller, Lorenzo Traverso, Marco Colangeli, Maria Michela Morese and 3 more</small> | Cross-cutting CDR | 27 |
 
 ---
 

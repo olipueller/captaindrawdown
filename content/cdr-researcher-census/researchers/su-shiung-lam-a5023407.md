@@ -1,7 +1,7 @@
 ---
 title: "Su Shiung Lam"
 description: "Su Shiung Lam, Universiti Malaysia Terengganu, Malaysia. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 48 by activity, 132 by citations. 624 publications, h-index 104, 38,271 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/su-shiung-lam-a5023407/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-11 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 11, Ocean CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+11 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 11, Ocean CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Microwave co-pyrolysis of seaweed and lignocellulosic biomass for advanced nano-biochar production](https://doi.org/10.1007/s42768-025-00270-1) | Biochar; Ocean CDR | 1 |
-| 2025 | [Single-mode microwave pyrolysis of engineered biochar from shrimp shell waste for landfill wastewater treatment](https://doi.org/10.1016/j.jiec.2025.04.014) | Biochar | 9 |
-| 2025 | [Role of Biochar in Carbon Sequestration and Climate Change Mitigation](https://doi.org/10.1201/9781003659761-16) | Biochar | 1 |
-| 2025 | [Biochar Production Techniques and Innovations](https://doi.org/10.1201/9781003659761-5) | Biochar | 0 |
-| 2024 | [Production and modifications of biochar to engineered materials and its application for environmental sustainability: a review](https://doi.org/10.1007/s42773-024-00350-1) | Biochar | 192 |
-| 2023 | [NiCo2O4-loaded sunflower husk-derived biochar as efficient peroxymonosulfate activator for tetracycline removal in water](https://doi.org/10.1016/j.biortech.2023.129182) | Biochar | 31 |
-| 2023 | [Innovative Microwave Pyrolysis Approaches and Activation to Produce Biochar from Crab Shell Waste for Palm Oil Mill Wastewater Treatment](http://dx.doi.org/10.2139/ssrn.4650959) | Biochar | 0 |
-| 2022 | [Performance and bacterial community dynamics of lignin-based biochar-coupled calcium peroxide pretreatment of waste-activated sludge for the removal of 4-nonylphenol](https://openalex.org/W4223960969) | Biochar | 36 |
-| 2022 | [Mitigation of hazardous toluene via ozone-catalyzed oxidation using MnOx/Sawdust biochar catalyst](https://openalex.org/W4291329356) | Biochar | 22 |
-| 2022 | [Microwave physicochemical activation: an advanced approach to produce activated biochar for palm oil mill effluent treatment](https://doi.org/10.1007/s42768-022-00115-1) | Biochar | 9 |
-| 2021 | [Comparative Investigation of Yield and Quality of Bio-Oil and Biochar from Pyrolysis of Woody and Non-Woody Biomasses](https://doi.org/10.3390/en14041092) | Biochar | 86 |
+| 2026 | [Microwave co-pyrolysis of seaweed and lignocellulosic biomass for advanced nano-biochar production](https://doi.org/10.1007/s42768-025-00270-1)<br><small>Waste Disposal & Sustainable Energy · with Yan Yang, Lingbo Meng, Peter Nai Yuh Yek, Rock Keey Liew, Wan Adibah Wan Mahari</small> | Biochar; Ocean CDR | 1 |
+| 2025 | [Single-mode microwave pyrolysis of engineered biochar from shrimp shell waste for landfill wastewater treatment](https://doi.org/10.1016/j.jiec.2025.04.014)<br><small>Journal of Industrial and Engineering Chemistry · with Lingbo Meng, Peter Nai Yuh Yek, Rock Keey Liew, Shengbo Ge, Shin Ying Foong</small> | Biochar | 9 |
+| 2025 | [Role of Biochar in Carbon Sequestration and Climate Change Mitigation](https://doi.org/10.1201/9781003659761-16)<br><small>with Sieng Huat Kong, Robert Thomas Bachmann, Trevor Richards, Wan Adibah Wan Mahari</small> | Biochar | 1 |
+| 2025 | [Biochar Production Techniques and Innovations](https://doi.org/10.1201/9781003659761-5)<br><small>with Kah Yein Cheong, Peter Nai Yuh Yek, Soh Kheang Loh, Zainal Haryati</small> | Biochar | 0 |
+| 2024 | [Production and modifications of biochar to engineered materials and its application for environmental sustainability: a review](https://doi.org/10.1007/s42773-024-00350-1)<br><small>Biochar · with Gokulan Ravindiran, Avinash Alagumalai, Gasim Hayder, Gorti Janardhan, Omid Mahian, R Sivarethinamohan and 2 more</small> | Biochar | 192 |
+| 2023 | [NiCo2O4-loaded sunflower husk-derived biochar as efficient peroxymonosulfate activator for tetracycline removal in water](https://doi.org/10.1016/j.biortech.2023.129182)<br><small>Bioresource Technology · with Thanh-Binh Nguyen, [Chiu‐Wen Chen](/cdr-researcher-census/researchers/chiuwen-chen-a5010723/), Thi-Kim-Tuyen Nguyen, [Wei‐Hsin Chen](/cdr-researcher-census/researchers/weihsin-chen-a5057352/), Xuan‐Thanh Bui, [Cheng‐Di Dong](/cdr-researcher-census/researchers/chengdi-dong-a5015918/)</small> | Biochar | 31 |
+| 2023 | [Innovative Microwave Pyrolysis Approaches and Activation to Produce Biochar from Crab Shell Waste for Palm Oil Mill Wastewater Treatment](http://dx.doi.org/10.2139/ssrn.4650959)<br><small>SSRN Electronic Journal (preprint) · with Yan Yang, Nyuk Ling, Peter Nai Yuh Yek, Rock Keey Liew, Shengbo Ge, Shin Ying Foong and 1 more</small> | Biochar | 0 |
+| 2022 | [Performance and bacterial community dynamics of lignin-based biochar-coupled calcium peroxide pretreatment of waste-activated sludge for the removal of 4-nonylphenol](https://openalex.org/W4223960969)<br><small>with Chang‐Mao Hung, Chin‐Pao Huang, [Chiu‐Wen Chen](/cdr-researcher-census/researchers/chiuwen-chen-a5010723/), Yan-Yi Yang, [Cheng‐Di Dong](/cdr-researcher-census/researchers/chengdi-dong-a5015918/)</small> | Biochar | 36 |
+| 2022 | [Mitigation of hazardous toluene via ozone-catalyzed oxidation using MnOx/Sawdust biochar catalyst](https://openalex.org/W4291329356)<br><small>with Jin Sun, Byong‐Hun Jeon, Gwang Hoon Rhee, Hocheol Song, Im Hack Lee, Kun‐Yi Andrew Lin and 5 more</small> | Biochar | 22 |
+| 2022 | [Microwave physicochemical activation: an advanced approach to produce activated biochar for palm oil mill effluent treatment](https://doi.org/10.1007/s42768-022-00115-1)<br><small>Waste Disposal & Sustainable Energy · with Kew Kiong Kong, How Sing Sii, Man Djun Lee, Peter Nai Yuh Yek, Rock Keey Liew</small> | Biochar | 9 |
+| 2021 | [Comparative Investigation of Yield and Quality of Bio-Oil and Biochar from Pyrolysis of Woody and Non-Woody Biomasses](https://doi.org/10.3390/en14041092)<br><small>Energies · with Pranshu Shrivastava, Anil Kumar, Perapong Tekasakul, Arkom Palamanit</small> | Biochar | 86 |
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Haibo Zhai"
 description: "Haibo Zhai, University of Wyoming, United States. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 23 by activity, 676 by citations. 106 publications, h-index 29, 3,509 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/haibo-zhai-a5073584/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,20 +43,20 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 7, DAC 4, Cross-cutting CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 7, DAC 4, Cross-cutting CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Life cycle assessment of co-firing biomass at coal-fired power plants with carbon capture and storage toward net-zero emissions](https://openalex.org/W7143638915) | BECCS | 3 |
-| 2025 | [Incentives and 99% capture rate: Minimizing post-decision regret in a net-zero power world](https://doi.org/10.1016/j.ccst.2025.100459) | DAC | 1 |
-| 2025 | [Bioresources and bioproducts with carbon capture and storage: a firm energy option for carbon neutrality](https://doi.org/10.1016/j.jobab.2025.07.003) | BECCS | 0 |
-| 2025 | [Systems Analysis of Biomass and Coal Co-firing Power Plants with Deep Carbon Capture Toward Net-zero Emissions](https://openalex.org/W7154176514) | BECCS; DAC | 0 |
-| 2024 | [Life Cycle Greenhouse Gas Emissions of Coal-Biomass Co-Firing Power Plants with Carbon Capture and Storage](https://openalex.org/W7154182207) | BECCS | 0 |
-| 2023 | [Big Data Analysis and Technical Review of Regeneration for Carbon Capture Processes](https://doi.org/10.1021/acs.energyfuels.3c01203) | Cross-cutting CDR | 25 |
-| 2023 | [Multiscale Electricity Modeling for Evaluating Carbon Capture and Sequestration Technologies (Final Report)](https://doi.org/10.2172/1991525) | DAC | 0 |
-| 2022 | [Fossil-Fuel Options for Power Sector Net-Zero Emissions with Sequestration Tax Credits](https://doi.org/10.1021/acs.est.1c06661) | BECCS; DAC | 10 |
-| 2022 | [Near-Term Potential for Deploying Bioenergy with Carbon Capture and Sequestration in a Regional Fossil-Rich Power Sector](https://doi.org/10.2139/ssrn.4275900) | BECCS | 0 |
-| 2021 | [Consumptive life cycle water use of biomass-to-power plants with carbon capture and sequestration](https://doi.org/10.1016/j.apenergy.2021.117702) | BECCS | 25 |
+| 2026 | [Life cycle assessment of co-firing biomass at coal-fired power plants with carbon capture and storage toward net-zero emissions](https://openalex.org/W7143638915)<br><small>with Wanying Wu</small> | BECCS | 3 |
+| 2025 | [Incentives and 99% capture rate: Minimizing post-decision regret in a net-zero power world](https://doi.org/10.1016/j.ccst.2025.100459)<br><small>Carbon Capture Science & Technology · with Jeffrey J. Anderson, David C. Rode, Paul S. Fischbeck</small> | DAC | 1 |
+| 2025 | [Bioresources and bioproducts with carbon capture and storage: a firm energy option for carbon neutrality](https://doi.org/10.1016/j.jobab.2025.07.003)<br><small>Journal of Bioresources and Bioproducts</small> | BECCS | 0 |
+| 2025 | [Systems Analysis of Biomass and Coal Co-firing Power Plants with Deep Carbon Capture Toward Net-zero Emissions](https://openalex.org/W7154176514)<br><small>with Wanying Wu, Asad Ullah, Ayush Singh, Dengfeng Qin, Zitao Wu</small> | BECCS; DAC | 0 |
+| 2024 | [Life Cycle Greenhouse Gas Emissions of Coal-Biomass Co-Firing Power Plants with Carbon Capture and Storage](https://openalex.org/W7154182207)<br><small>with Wanying Wu</small> | BECCS | 0 |
+| 2023 | [Big Data Analysis and Technical Review of Regeneration for Carbon Capture Processes](https://doi.org/10.1021/acs.energyfuels.3c01203)<br><small>Energy & Fuels · with Walter C. Wilfong, Bingyun Li, Fan Shi, Qiuming Wang, Tuo Ji, Yee Soong and 3 more</small> | Cross-cutting CDR | 25 |
+| 2023 | [Multiscale Electricity Modeling for Evaluating Carbon Capture and Sequestration Technologies (Final Report)](https://doi.org/10.2172/1991525)<br><small>with Stuart Cohen, Jonathan Ho, Kelly Eurek, Marty Schwarz, Wanying Wang, Venkat Durvasulu</small> | DAC | 0 |
+| 2022 | [Fossil-Fuel Options for Power Sector Net-Zero Emissions with Sequestration Tax Credits](https://doi.org/10.1021/acs.est.1c06661)<br><small>Environmental Science & Technology · with Jeffrey J. Anderson, David C. Rode, Paul S. Fischbeck</small> | BECCS; DAC | 10 |
+| 2022 | [Near-Term Potential for Deploying Bioenergy with Carbon Capture and Sequestration in a Regional Fossil-Rich Power Sector](https://doi.org/10.2139/ssrn.4275900)<br><small>SSRN Electronic Journal · with Zitao Wu</small> | BECCS | 0 |
+| 2021 | [Consumptive life cycle water use of biomass-to-power plants with carbon capture and sequestration](https://doi.org/10.1016/j.apenergy.2021.117702)<br><small>Applied Energy · with Zitao Wu</small> | BECCS | 25 |
 
 ---
 

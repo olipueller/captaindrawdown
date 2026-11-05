@@ -1,7 +1,7 @@
 ---
 title: "Ofélia de Queiroz Fernandes Araújo"
 description: "Ofélia de Queiroz Fernandes Araújo, Universidade Federal do Rio de Janeiro, Brazil. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 38 by activity, 154 by citations. 206 publications, h-index 36, 3,593 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/ofelia-de-queiroz-fernandes-araujo-a5005281/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-11 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 8, Cross-cutting CDR 3. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+11 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 8, Cross-cutting CDR 3. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2025 | [Arundo Donax power plant with sodium chloride batch mineralization: Bioenergy with carbon capture and utilization](https://doi.org/10.1016/j.applthermaleng.2025.129095) | BECCS | 0 |
-| 2024 | [Landfill-gas-to-biomethane via a new carbon capture and utilization technology: One-pot sodium chloride batch mineralization](https://doi.org/10.1016/j.jclepro.2024.143979) | Cross-cutting CDR | 4 |
-| 2024 | [Exergy Analysis of Offshore Natural Gas Partial Oxidation to Methanol Coupled to Power Generation with CO2 Capture](https://doi.org/10.1016/b978-0-443-15740-0.00058-6) | Cross-cutting CDR | 3 |
-| 2024 | [BIOENERGY WITH CARBON CAPTURE AND STORAGE VIA LANDFILL GAS OXY-COMBUSTION](http://dx.doi.org/10.22533/at.ed.9102419015) | BECCS | 0 |
-| 2023 | [Enhancing Efficiency of Corncob-Fired Power Generation with Carbon Capture and Storage](http://dx.doi.org/10.1051/e3sconf/202340703001) | BECCS | 1 |
-| 2022 | [Sewage-Water Treatment and Sewage-Sludge Management with Power Production as Bioenergy with Carbon Capture System: A Review](https://doi.org/10.3390/pr10040788) | BECCS | 27 |
-| 2021 | [Bioenergy production from sugarcane bagasse with carbon capture and storage: Surrogate models for techno-economic decisions](https://doi.org/10.1016/j.rser.2021.111486) | BECCS | 37 |
-| 2021 | [A zero-emission sustainable landfill-gas-to-wire oxyfuel process: Bioenergy with carbon capture and sequestration](https://doi.org/10.1016/j.rser.2020.110686) | BECCS | 32 |
-| 2021 | [Sewage-water treatment with bio-energy production and carbon capture and storage](https://doi.org/10.1016/j.chemosphere.2021.131763) | BECCS | 23 |
-| 2021 | [Upgrading exergy utilization and sustainability via supersonic separators: Offshore processing of carbonated natural gas](https://doi.org/10.1016/j.jclepro.2021.127524) | Cross-cutting CDR | 13 |
-| 2021 | [Sugarcane-based ethanol biorefineries with bioenergy production from bagasse: thermodynamic, economic, and emissions assessments](https://doi.org/10.1016/b978-0-12-821879-2.00005-3) | BECCS | 5 |
+| 2025 | [Arundo Donax power plant with sodium chloride batch mineralization: Bioenergy with carbon capture and utilization](https://doi.org/10.1016/j.applthermaleng.2025.129095)<br><small>Applied Thermal Engineering · with [José Luiz de Medeiros](/cdr-researcher-census/researchers/jose-luiz-de-medeiros-a5004811/), Alex Miranda Constantino, Igor Nunes Rodrigues, Israel Bernardo S. Poblete</small> | BECCS | 0 |
+| 2024 | [Landfill-gas-to-biomethane via a new carbon capture and utilization technology: One-pot sodium chloride batch mineralization](https://doi.org/10.1016/j.jclepro.2024.143979)<br><small>Journal of Cleaner Production · with Igor Nunes Rodrigues, Alex Miranda Constantino, Israel Bernardo S. Poblete, [José Luiz de Medeiros](/cdr-researcher-census/researchers/jose-luiz-de-medeiros-a5004811/)</small> | Cross-cutting CDR | 4 |
+| 2024 | [Exergy Analysis of Offshore Natural Gas Partial Oxidation to Methanol Coupled to Power Generation with CO2 Capture](https://doi.org/10.1016/b978-0-443-15740-0.00058-6)<br><small>Elsevier eBooks · with George Victor Brigagão, [José Luiz de Medeiros](/cdr-researcher-census/researchers/jose-luiz-de-medeiros-a5004811/)</small> | Cross-cutting CDR | 3 |
+| 2024 | [BIOENERGY WITH CARBON CAPTURE AND STORAGE VIA LANDFILL GAS OXY-COMBUSTION](http://dx.doi.org/10.22533/at.ed.9102419015)<br><small>with George Victor Brigagão, [José Luiz de Medeiros](/cdr-researcher-census/researchers/jose-luiz-de-medeiros-a5004811/)</small> | BECCS | 0 |
+| 2023 | [Enhancing Efficiency of Corncob-Fired Power Generation with Carbon Capture and Storage](http://dx.doi.org/10.1051/e3sconf/202340703001)<br><small>E3S Web of Conferences · with George Victor Brigagão, Matheus de Andrade Cruz, [José Luiz de Medeiros](/cdr-researcher-census/researchers/jose-luiz-de-medeiros-a5004811/)</small> | BECCS | 1 |
+| 2022 | [Sewage-Water Treatment and Sewage-Sludge Management with Power Production as Bioenergy with Carbon Capture System: A Review](https://doi.org/10.3390/pr10040788)<br><small>Processes · with Israel Bernardo S. Poblete, [José Luiz de Medeiros](/cdr-researcher-census/researchers/jose-luiz-de-medeiros-a5004811/)</small> | BECCS | 27 |
+| 2021 | [Bioenergy production from sugarcane bagasse with carbon capture and storage: Surrogate models for techno-economic decisions](https://doi.org/10.1016/j.rser.2021.111486)<br><small>Renewable and Sustainable Energy Reviews · with Igor Lapenda Wiesberg, Jeiveison Gobério Soares Santos Maia, [José Luiz de Medeiros](/cdr-researcher-census/researchers/jose-luiz-de-medeiros-a5004811/), João B. V. Bastos, Raphael V. Paes de Mello</small> | BECCS | 37 |
+| 2021 | [A zero-emission sustainable landfill-gas-to-wire oxyfuel process: Bioenergy with carbon capture and sequestration](https://doi.org/10.1016/j.rser.2020.110686)<br><small>Renewable and Sustainable Energy Reviews · with George Victor Brigagão, Hrvoje Mikulčić, [José Luiz de Medeiros](/cdr-researcher-census/researchers/jose-luiz-de-medeiros-a5004811/), Neven Duić</small> | BECCS | 32 |
+| 2021 | [Sewage-water treatment with bio-energy production and carbon capture and storage](https://doi.org/10.1016/j.chemosphere.2021.131763)<br><small>Chemosphere · with Israel Bernardo S. Poblete, [José Luiz de Medeiros](/cdr-researcher-census/researchers/jose-luiz-de-medeiros-a5004811/)</small> | BECCS | 23 |
+| 2021 | [Upgrading exergy utilization and sustainability via supersonic separators: Offshore processing of carbonated natural gas](https://doi.org/10.1016/j.jclepro.2021.127524)<br><small>Journal of Cleaner Production · with Igor Lapenda Wiesberg, Lara de Oliveira Arinelli, [José Luiz de Medeiros](/cdr-researcher-census/researchers/jose-luiz-de-medeiros-a5004811/)</small> | Cross-cutting CDR | 13 |
+| 2021 | [Sugarcane-based ethanol biorefineries with bioenergy production from bagasse: thermodynamic, economic, and emissions assessments](https://doi.org/10.1016/b978-0-12-821879-2.00005-3)<br><small>Elsevier eBooks · with Raquel de Freitas Dias Milão, [José Luiz de Medeiros](/cdr-researcher-census/researchers/jose-luiz-de-medeiros-a5004811/)</small> | BECCS | 5 |
 
 ---
 

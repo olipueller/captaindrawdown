@@ -1,7 +1,7 @@
 ---
 title: "André Bardow"
 description: "André Bardow, ETH Zurich, Switzerland. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 5 by activity, 3 by citations. 695 publications, h-index 68, 24,465 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/andre-bardow-a5054788/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,25 +43,25 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-15 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 12, Cross-cutting CDR 3, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+15 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 12, Cross-cutting CDR 3, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Leveraging the phase change of water for energy efficient direct air capture](https://openalex.org/W7140315344) | DAC | 5 |
-| 2026 | [Life cycle assessment of solid calcium-looping direct air capture and its synergistic dual use for net-negative cement](https://openalex.org/W7163561785) | DAC | 2 |
-| 2026 | [Structured sorbents for Direct Air Capture: The impact of materials and chemicals on performance](https://openalex.org/W7166531872) | DAC | 1 |
-| 2026 | [Leveraging the phase change of water for energy efficient direct air capture](https://openalex.org/W7155199360) | DAC | 0 |
-| 2026 | [Structured sorbents for direct air capture: the impact of materials and chemicals on performance](https://openalex.org/W7163847645) | DAC | 0 |
-| 2026 | [Life cycle assessment of solid calcium-looping direct air capture and its synergistic dual use for net-negative cement](https://openalex.org/W7163926886) | DAC | 0 |
-| 2026 | [Structured sorbents for Direct Air Capture: The impact of materials and chemicals on performance](https://openalex.org/W7166680246) | DAC | 0 |
-| 2025 | [An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage](https://doi.org/10.1039/d5ee01732g) | Cross-cutting CDR | 54 |
-| 2025 | [(How to) avoid the inflationary labeling of emissions as “hard to abate”](https://doi.org/10.1016/j.joule.2025.102039) | Cross-cutting CDR | 8 |
-| 2025 | [Life-Cycle Assessment of Solid Calcium-Looping Direct AirCapture and Its Synergistic Dual Use for Net-Negative Cement](https://doi.org/10.26434/chemrxiv-2025-8zjlg-v2) | Cross-cutting CDR | 1 |
-| 2025 | [Prospective life cycle assessment of megatonne-scale direct air carbon capture and storage via calcium-looping](https://doi.org/10.26434/chemrxiv-2025-8zjlg) | DAC | 0 |
-| 2022 | [Environmental trade-offs of direct air capture technologies in climate change mitigation toward 2100](https://doi.org/10.1038/s41467-022-31146-1) | DAC | 158 |
-| 2021 | [Life-cycle assessment of an industrial direct air capture process based on temperature–vacuum swing adsorption](https://doi.org/10.1038/s41560-020-00771-9) | DAC | 615 |
-| 2021 | [From Unavoidable CO<sub>2</sub> Source to CO<sub>2</sub> Sink? A Cement Industry Based on CO<sub>2</sub> Mineralization](https://doi.org/10.1021/acs.est.0c07599) | DAC; Enhanced Weathering | 166 |
-| 2021 | [How (Carbon) Negative Is Direct Air Capture? Life Cycle Assessment of an Industrial Temperature-Vacuum Swing Adsorption Process](https://doi.org/10.26434/chemrxiv.12833747.v2) | DAC | 0 |
+| 2026 | [Leveraging the phase change of water for energy efficient direct air capture](https://openalex.org/W7140315344)<br><small>with [Nicole Ferru](/cdr-researcher-census/researchers/nicole-ferru-a5053323/), André Bardow, Nicolas Antunes Morgado, [Marco Mazzotti](/cdr-researcher-census/researchers/marco-mazzotti-a5038211/)</small> | DAC | 5 |
+| 2026 | [Life cycle assessment of solid calcium-looping direct air capture and its synergistic dual use for net-negative cement](https://openalex.org/W7163561785)<br><small>with [Vittoria Bolongaro](/cdr-researcher-census/researchers/vittoria-bolongaro-a5092617/), David Yang Shu, [Noah McQueen](/cdr-researcher-census/researchers/noah-mcqueen-a5036880/), André Bardow</small> | DAC | 2 |
+| 2026 | [Structured sorbents for Direct Air Capture: The impact of materials and chemicals on performance](https://openalex.org/W7166531872)<br><small>with [Nicole Ferru](/cdr-researcher-census/researchers/nicole-ferru-a5053323/), David M. Büchner, Martina Saporito, Moritz Bischof, [Quirin Grossmann](/cdr-researcher-census/researchers/quirin-grossmann-a5051401/), [Ronny Pini](/cdr-researcher-census/researchers/ronny-pini-a5039896/) and 2 more</small> | DAC | 1 |
+| 2026 | [Leveraging the phase change of water for energy efficient direct air capture](https://openalex.org/W7155199360)<br><small>with [Nicole Ferru](/cdr-researcher-census/researchers/nicole-ferru-a5053323/), André Bardow, Nicolas Antunes Morgado, [Marco Mazzotti](/cdr-researcher-census/researchers/marco-mazzotti-a5038211/)</small> | DAC | 0 |
+| 2026 | [Structured sorbents for direct air capture: the impact of materials and chemicals on performance](https://openalex.org/W7163847645)<br><small>with N Ferru, [Nicole Ferru](/cdr-researcher-census/researchers/nicole-ferru-a5053323/), Andre Bardow, David M. Büchner, Martina Saporito, Moritz Bischof and 4 more</small> | DAC | 0 |
+| 2026 | [Life cycle assessment of solid calcium-looping direct air capture and its synergistic dual use for net-negative cement](https://openalex.org/W7163926886)<br><small>with [Vittoria Bolongaro](/cdr-researcher-census/researchers/vittoria-bolongaro-a5092617/), David Yang Shu, [Noah McQueen](/cdr-researcher-census/researchers/noah-mcqueen-a5036880/), André Bardow</small> | DAC | 0 |
+| 2026 | [Structured sorbents for Direct Air Capture: The impact of materials and chemicals on performance](https://openalex.org/W7166680246)<br><small>with [Nicole Ferru](/cdr-researcher-census/researchers/nicole-ferru-a5053323/), André Bardow, David M. Büchner, Martina Saporito, Moritz Bischof, [Quirin Grossmann](/cdr-researcher-census/researchers/quirin-grossmann-a5051401/) and 3 more</small> | DAC | 0 |
+| 2025 | [An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage](https://doi.org/10.1039/d5ee01732g)<br><small>Energy & Environmental Science · with [Mijndert van der Spek](/cdr-researcher-census/researchers/mijndert-van-der-spek-a5062642/), [Ali Kiani](/cdr-researcher-census/researchers/ali-kiani-a5070604/), [Benjamin K. Sovacool](/cdr-researcher-census/researchers/benjamin-k-sovacool-a5088822/), Carla Esch, [Chad M. Baum](/cdr-researcher-census/researchers/chad-m-baum-a5057828/), Christopher Hamann and 22 more</small> | Cross-cutting CDR | 54 |
+| 2025 | [(How to) avoid the inflationary labeling of emissions as “hard to abate”](https://doi.org/10.1016/j.joule.2025.102039)<br><small>Joule · with Vincent Dufour‐Décieux, [Katrin Sievert](/cdr-researcher-census/researchers/katrin-sievert-a5094051/), Tobias S. Schmidt</small> | Cross-cutting CDR | 8 |
+| 2025 | [Life-Cycle Assessment of Solid Calcium-Looping Direct AirCapture and Its Synergistic Dual Use for Net-Negative Cement](https://doi.org/10.26434/chemrxiv-2025-8zjlg-v2)<br><small>with [Vittoria Bolongaro](/cdr-researcher-census/researchers/vittoria-bolongaro-a5092617/), David Yang Shu, [Noah McQueen](/cdr-researcher-census/researchers/noah-mcqueen-a5036880/)</small> | Cross-cutting CDR | 1 |
+| 2025 | [Prospective life cycle assessment of megatonne-scale direct air carbon capture and storage via calcium-looping](https://doi.org/10.26434/chemrxiv-2025-8zjlg)<br><small>with [Vittoria Bolongaro](/cdr-researcher-census/researchers/vittoria-bolongaro-a5092617/), David Yang Shu, [Noah McQueen](/cdr-researcher-census/researchers/noah-mcqueen-a5036880/)</small> | DAC | 0 |
+| 2022 | [Environmental trade-offs of direct air capture technologies in climate change mitigation toward 2100](https://doi.org/10.1038/s41467-022-31146-1)<br><small>Nature Communications · with Yang Qiu, Harmen Sytze de Boer, Jennifer Wilcox, Mathijs Harmsen, [Noah McQueen](/cdr-researcher-census/researchers/noah-mcqueen-a5036880/), Patrick Lamers and 2 more</small> | DAC | 158 |
+| 2021 | [Life-cycle assessment of an industrial direct air capture process based on temperature–vacuum swing adsorption](https://doi.org/10.1038/s41560-020-00771-9)<br><small>Nature Energy · with Sarah Deutz</small> | DAC | 615 |
+| 2021 | [From Unavoidable CO<sub>2</sub> Source to CO<sub>2</sub> Sink? A Cement Industry Based on CO<sub>2</sub> Mineralization](https://doi.org/10.1021/acs.est.0c07599)<br><small>Environmental Science & Technology · with Hesam Ostovari, Jan Skoček, Leonard Jan Müller</small> | DAC; Enhanced Weathering | 166 |
+| 2021 | [How (Carbon) Negative Is Direct Air Capture? Life Cycle Assessment of an Industrial Temperature-Vacuum Swing Adsorption Process](https://doi.org/10.26434/chemrxiv.12833747.v2)<br><small>preprint · with Sarah Deutz</small> | DAC | 0 |
 
 ---
 

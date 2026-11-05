@@ -1,7 +1,7 @@
 ---
 title: "Kadambot H. M. Siddique"
 description: "Kadambot H. M. Siddique, The University of Western Australia, Australia. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 70 by activity, 823 by citations. 1378 publications, h-index 131, 68,680 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/kadambot-h-m-siddique-a5082109/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 8. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 8. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Soil organic carbon decomposition in response to moisture, microbial communities, and biochar addition in Alfisols](https://doi.org/10.1007/s42773-025-00513-8) | Biochar | 10 |
-| 2026 | [Weathering of biochar: implications to soil health, carbon sequestration and soil remediation](https://openalex.org/W7162297556) | Biochar | 6 |
-| 2026 | [Alternate wet‑dry irrigation coupled with magnesium-biochar fertilizer improves carbon sequestration, NH₃ mitigation, and water‑N use efficiency in rice paddies](https://doi.org/10.1016/j.eti.2026.104765) | Biochar | 1 |
-| 2025 | [Biochar and moisture variability shape soil carbon pools via microbial carbon-degrading genes](https://doi.org/10.1016/j.jenvman.2025.128157) | Biochar | 1 |
-| 2024 | [Ammoniated straw returning: A win-win strategy for increasing crop production and soil carbon sequestration](https://doi.org/10.1016/j.agee.2023.108879) | Biochar | 32 |
-| 2023 | [Environment and agricultural practices regulate enhanced biochar-induced soil carbon pools and crop yield: A meta-analysis](https://doi.org/10.1016/j.scitotenv.2023.167290) | Biochar | 59 |
-| 2023 | [The response of crop yield, carbon sequestration, and global warming potential to straw and biochar applications: A meta-analysis](https://doi.org/10.1016/j.scitotenv.2023.167884) | Biochar | 37 |
-| 2023 | [Enhancing carbon sequestration and greenhouse gas mitigation in semiarid farmland: The promising role of biochar application with biodegradable film mulching](https://doi.org/10.1016/j.jia.2023.12.011) | Biochar | 9 |
+| 2026 | [Soil organic carbon decomposition in response to moisture, microbial communities, and biochar addition in Alfisols](https://doi.org/10.1007/s42773-025-00513-8)<br><small>Biochar · with Yue Pan, Hongtao Zou, Jie Meng, Na Yu, [Nanthi Bolan](/cdr-researcher-census/researchers/nanthi-bolan-a5007065/), Ruifan Ren and 3 more</small> | Biochar | 10 |
+| 2026 | [Weathering of biochar: implications to soil health, carbon sequestration and soil remediation](https://openalex.org/W7162297556)<br><small>with [Nanthi Bolan](/cdr-researcher-census/researchers/nanthi-bolan-a5007065/), [Arthur Groß](/cdr-researcher-census/researchers/arthur-gro-a5072098/), David Houben, Joshua T. Padilla, José Lucas Martins Melo, Kurt Arnold Spokas and 6 more</small> | Biochar | 6 |
+| 2026 | [Alternate wet‑dry irrigation coupled with magnesium-biochar fertilizer improves carbon sequestration, NH₃ mitigation, and water‑N use efficiency in rice paddies](https://doi.org/10.1016/j.eti.2026.104765)<br><small>Environmental Technology & Innovation · with Yanqi Li, Daocai Chi, Fuzheng Gong, [Nanthi Bolan](/cdr-researcher-census/researchers/nanthi-bolan-a5007065/), Xuanming Wang, Yu Guan and 1 more</small> | Biochar | 1 |
+| 2025 | [Biochar and moisture variability shape soil carbon pools via microbial carbon-degrading genes](https://doi.org/10.1016/j.jenvman.2025.128157)<br><small>Journal of Environmental Management · with Yue Pan, Hongpeng Guo, Hongtao Zou, Jie Meng, Na Yu, [Nanthi Bolan](/cdr-researcher-census/researchers/nanthi-bolan-a5007065/) and 5 more</small> | Biochar | 1 |
+| 2024 | [Ammoniated straw returning: A win-win strategy for increasing crop production and soil carbon sequestration](https://doi.org/10.1016/j.agee.2023.108879)<br><small>Agriculture Ecosystems & Environment · with Jinchao Li, Naijiang Wang, Nanping Lin, Qin’ge Dong, Tibin Zhang, Yanxin Fang and 2 more</small> | Biochar | 32 |
+| 2023 | [Environment and agricultural practices regulate enhanced biochar-induced soil carbon pools and crop yield: A meta-analysis](https://doi.org/10.1016/j.scitotenv.2023.167290)<br><small>The Science of The Total Environment · with Nanhai Zhang, Enke Liu, Gaoxiang Liu, Qi‐Lin Zhang, Shikun Sun, Xiaolong Ren and 5 more</small> | Biochar | 59 |
+| 2023 | [The response of crop yield, carbon sequestration, and global warming potential to straw and biochar applications: A meta-analysis](https://doi.org/10.1016/j.scitotenv.2023.167884)<br><small>The Science of The Total Environment · with Rong Liu, Hao Feng, Jiawang Zhong, Peng Zhao, Qin’ge Dong, Xiangsheng Zhan and 1 more</small> | Biochar | 37 |
+| 2023 | [Enhancing carbon sequestration and greenhouse gas mitigation in semiarid farmland: The promising role of biochar application with biodegradable film mulching](https://doi.org/10.1016/j.jia.2023.12.011)<br><small>Journal of Integrative Agriculture · with Jinwen Pang, Enke Liu, Jun Zhang, Qi‐Lin Zhang, Tianxiang Qi, Weijun Zhang and 5 more</small> | Biochar | 9 |
 
 ---
 

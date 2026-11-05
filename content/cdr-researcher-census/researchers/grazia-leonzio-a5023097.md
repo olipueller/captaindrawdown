@@ -1,7 +1,7 @@
 ---
 title: "Grazia Leonzio"
 description: "Grazia Leonzio, University of Cagliari, Italy. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 43 by activity, 158 by citations. 83 publications, h-index 28, 2,267 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/grazia-leonzio-a5023097/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 8, BECCS 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 8, BECCS 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Analysis of new strategies integrating bipolar membrane electrodialysis and absorption systems in DAC applications](https://doi.org/10.1016/j.ccst.2026.100579) | DAC | 0 |
-| 2026 | [Analysis and comparison of technologies for the regeneration of a capture solution in DAC absorption systems](https://openalex.org/W7165399737) | DAC | 0 |
-| 2025 | [Sustainability analysis of electrochemical direct air capture technologies](https://doi.org/10.1039/d5su00227c) | DAC | 4 |
-| 2024 | [A sustainability analysis for a circular power-to-liquid process for diesel production](https://doi.org/10.1016/j.spc.2024.09.018) | BECCS; DAC | 6 |
-| 2022 | [Environmental performance of different sorbents used for direct air capture](https://doi.org/10.1016/j.spc.2022.04.004) | DAC | 64 |
-| 2022 | [Analysis of Technologies for Carbon Dioxide Capture from the Air](https://doi.org/10.3390/app12168321) | DAC | 40 |
-| 2022 | [Innovative Process Integrating Air Source Heat Pumps and Direct Air Capture Processes](https://doi.org/10.1021/acs.iecr.2c01816) | DAC | 27 |
-| 2022 | [Modelling and analysis of direct air capture systems in different locations](https://doaj.org/article/2350f648fa2a431aa78ede6d7e9b7ad6) | DAC | 9 |
+| 2026 | [Analysis of new strategies integrating bipolar membrane electrodialysis and absorption systems in DAC applications](https://doi.org/10.1016/j.ccst.2026.100579)<br><small>Carbon Capture Science & Technology · with Lei Xing, [Nilay Shah](/cdr-researcher-census/researchers/nilay-shah-a5078158/)</small> | DAC | 0 |
+| 2026 | [Analysis and comparison of technologies for the regeneration of a capture solution in DAC absorption systems](https://openalex.org/W7165399737)<br><small>with [Nilay Shah](/cdr-researcher-census/researchers/nilay-shah-a5078158/)</small> | DAC | 0 |
+| 2025 | [Sustainability analysis of electrochemical direct air capture technologies](https://doi.org/10.1039/d5su00227c)<br><small>RSC Sustainability · with [Nilay Shah](/cdr-researcher-census/researchers/nilay-shah-a5078158/)</small> | DAC | 4 |
+| 2024 | [A sustainability analysis for a circular power-to-liquid process for diesel production](https://doi.org/10.1016/j.spc.2024.09.018)<br><small>Sustainable Production and Consumption · with Niki Triantafyllou, [Nilay Shah](/cdr-researcher-census/researchers/nilay-shah-a5078158/)</small> | BECCS; DAC | 6 |
+| 2022 | [Environmental performance of different sorbents used for direct air capture](https://doi.org/10.1016/j.spc.2022.04.004)<br><small>Sustainable Production and Consumption · with Onesmus Mwabonje, Paul S. Fennell, Nilay Shah</small> | DAC | 64 |
+| 2022 | [Analysis of Technologies for Carbon Dioxide Capture from the Air](https://doi.org/10.3390/app12168321)<br><small>Applied Sciences · with Paul S. Fennell, Nilay Shah</small> | DAC | 40 |
+| 2022 | [Innovative Process Integrating Air Source Heat Pumps and Direct Air Capture Processes](https://doi.org/10.1021/acs.iecr.2c01816)<br><small>Industrial & Engineering Chemistry Research · with Nilay Shah</small> | DAC | 27 |
+| 2022 | [Modelling and analysis of direct air capture systems in different locations](https://doaj.org/article/2350f648fa2a431aa78ede6d7e9b7ad6)<br><small>SHILAP Revista de lepidopterología · with Paul S. Fennell, [Nilay Shah](/cdr-researcher-census/researchers/nilay-shah-a5078158/)</small> | DAC | 9 |
 
 ---
 

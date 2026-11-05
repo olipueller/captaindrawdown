@@ -1,7 +1,7 @@
 ---
 title: "Richard A. Feely"
 description: "Richard A. Feely, NOAA Pacific Marine Environmental Laboratory, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 79 by activity, 113 by citations. 707 publications, h-index 111, 71,685 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/richard-a-feely-a5019328/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,20 +43,20 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 10. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 10. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2025 | [Assessment framework to predict sensitivity of marine calcifiers to ocean alkalinity enhancement – identification of biological thresholds and importance of precautionary principle](https://doi.org/10.5194/bg-22-473-2025) | Ocean CDR | 26 |
-| 2025 | [Biological Responses to Ocean Acidification Are Changing the Global Ocean Carbon Cycle](https://doi.org/10.1029/2024gb008358) | Ocean CDR | 15 |
-| 2025 | [Novel field trial for ocean alkalinity enhancement using electrochemically derived aqueous alkalinity](https://doi.org/10.3389/fenve.2025.1641277) | Ocean CDR | 14 |
-| 2025 | [Substantial Limitations of Ocean Alkalinity Enhancement in Mitigating the Negative Impacts of Ocean Acidification on Marine Calcifiers](https://doi.org/10.1021/acs.est.5c09298) | Ocean CDR | 7 |
-| 2025 | [Perspectives on Marine Carbon Dioxide Removal from the Global Ocean Acidification Observing Network](https://doi.org/10.5670/oceanog.2025.e308) | Ocean CDR | 5 |
-| 2024 | [Mixing and dilution controls on marine CO<sub>2</sub> removal using alkalinity enhancement](https://doi.org/10.1088/1748-9326/ad7521) | Ocean CDR | 19 |
-| 2024 | [Seasonality and response of ocean acidification and hypoxia to major environmental anomalies in the southern Salish Sea, North America (2014–2018)](https://doi.org/10.5194/bg-21-1639-2024) | Ocean CDR | 14 |
-| 2024 | [Unifying framework for assessing sensitivity for marine calcifiers to ocean alkalinity enhancement identifies winners, losers and biological thresholds – importance of caution with precautionary principle](https://doi.org/10.5194/egusphere-2024-947) | Ocean CDR | 2 |
-| 2022 | [Natural Analogues in pH Variability and Predictability across the Coastal Pacific Estuaries: Extrapolation of the Increased Oyster Dissolution under Increased pH Amplitude and Low Predictability Related to Ocean Acidification](https://doi.org/10.1021/acs.est.2c00010) | Ocean CDR | 34 |
-| 2021 | [An updated version of the global interior ocean biogeochemical data product, GLODAPv2.2021](https://doi.org/10.5194/essd-2021-234) | Ocean CDR | 23 |
+| 2025 | [Assessment framework to predict sensitivity of marine calcifiers to ocean alkalinity enhancement – identification of biological thresholds and importance of precautionary principle](https://doi.org/10.5194/bg-22-473-2025)<br><small>Biogeosciences · with Nina Bednaršek, Greg Pelletier, Hanna van de Mortel, Marisol García‐Reyes, Andrew G. Dickson</small> | Ocean CDR | 26 |
+| 2025 | [Biological Responses to Ocean Acidification Are Changing the Global Ocean Carbon Cycle](https://doi.org/10.1029/2024gb008358)<br><small>Global Biogeochemical Cycles · with Reese C. Barrett, Akihiko Murata, Andrea J. Fassbender, [Brendan R. Carter](/cdr-researcher-census/researchers/brendan-r-carter-a5008670/), Bronte Tilbrook, Catherine Goyet and 4 more</small> | Ocean CDR | 15 |
+| 2025 | [Novel field trial for ocean alkalinity enhancement using electrochemically derived aqueous alkalinity](https://doi.org/10.3389/fenve.2025.1641277)<br><small>Frontiers in Environmental Engineering · with Allison M. Savoie, [Brendan R. Carter](/cdr-researcher-census/researchers/brendan-r-carter-a5008670/), Carolina Torres Sanchez, [Chinmayee V. Subban](/cdr-researcher-census/researchers/chinmayee-v-subban-a5062579/), Dave Hegeman, J.C. Loretz and 9 more</small> | Ocean CDR | 14 |
+| 2025 | [Substantial Limitations of Ocean Alkalinity Enhancement in Mitigating the Negative Impacts of Ocean Acidification on Marine Calcifiers](https://doi.org/10.1021/acs.est.5c09298)<br><small>Environmental Science & Technology · with Hanna van de Mortel, Greg Pelletier, Jens Daniel Müller, Nina Bednaršek, N. Gruber, Nicolas Gruber</small> | Ocean CDR | 7 |
+| 2025 | [Perspectives on Marine Carbon Dioxide Removal from the Global Ocean Acidification Observing Network](https://doi.org/10.5670/oceanog.2025.e308)<br><small>Oceanography · with [Helen S. Findlay](/cdr-researcher-census/researchers/helen-s-findlay-a5034359/), Andrij Z. Horodysky, Anwesha Ghosh, Bryce Van Dam, Elise F. Keister, Elizabeth B. Jewett and 16 more</small> | Ocean CDR | 5 |
+| 2024 | [Mixing and dilution controls on marine CO<sub>2</sub> removal using alkalinity enhancement](https://doi.org/10.1088/1748-9326/ad7521)<br><small>Environmental Research Letters · with Tarang Khangaonkar, [Brendan R. Carter](/cdr-researcher-census/researchers/brendan-r-carter-a5008670/), Carolina Torres Sanchez, [Chinmayee V. Subban](/cdr-researcher-census/researchers/chinmayee-v-subban-a5062579/), Krti Tallam, Lakshitha Premathilake and 8 more</small> | Ocean CDR | 19 |
+| 2024 | [Seasonality and response of ocean acidification and hypoxia to major environmental anomalies in the southern Salish Sea, North America (2014–2018)](https://doi.org/10.5194/bg-21-1639-2024)<br><small>Biogeosciences · with Simone R. Alin, Jan Newton, Samantha Siedlecki, Dana Greeley</small> | Ocean CDR | 14 |
+| 2024 | [Unifying framework for assessing sensitivity for marine calcifiers to ocean alkalinity enhancement identifies winners, losers and biological thresholds – importance of caution with precautionary principle](https://doi.org/10.5194/egusphere-2024-947)<br><small>preprint · with Nina Bednaršek, Greg Pelletier, Hanna van de Mortel, Marisol García‐Reyes, Andrew G. Dickson</small> | Ocean CDR | 2 |
+| 2022 | [Natural Analogues in pH Variability and Predictability across the Coastal Pacific Estuaries: Extrapolation of the Increased Oyster Dissolution under Increased pH Amplitude and Low Predictability Related to Ocean Acidification](https://doi.org/10.1021/acs.est.2c00010)<br><small>Environmental Science & Technology · with Nina Bednaršek, Betsy Peabody, Greg Pelletier, Jonathan M. Davis, Marcus W. Beck, Maria Byrne and 3 more</small> | Ocean CDR | 34 |
+| 2021 | [An updated version of the global interior ocean biogeochemical data product, GLODAPv2.2021](https://doi.org/10.5194/essd-2021-234)<br><small>with Siv K. Lauvset, A. Velo, Akihiko Murata, Alex Kozyr, Are Olsen, Benjamin Pfeil and 26 more</small> | Ocean CDR | 23 |
 
 ---
 

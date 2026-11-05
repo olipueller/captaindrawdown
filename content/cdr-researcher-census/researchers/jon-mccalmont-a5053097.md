@@ -1,7 +1,7 @@
 ---
 title: "Jon McCalmont"
 description: "Jon McCalmont, University of Aberdeen, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 76 by activity, 320 by citations. 63 publications, h-index 20, 1,645 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/jon-mccalmont-a5053097/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-5 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 5. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+5 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 5. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2025 | [Effect of tillage method on early root growth of <i>Miscanthus</i>](https://doi.org/10.1111/aab.70006) | BECCS | 3 |
-| 2025 | [Assessing the Sustainability of Miscanthus and Willow as Global Bioenergy Crops: Current and Future Climate Conditions (Part 2)](https://doi.org/10.20944/preprints202504.2510.v1) | BECCS | 1 |
-| 2023 | [Perennial biomass cropping and use: Shaping the policy ecosystem in European countries](https://doi.org/10.1111/gcbb.13038) | BECCS | 56 |
-| 2023 | [Novel Miscanthus hybrids: Modelling productivity on marginal land in Europe using dynamics of canopy development determined by light interception](https://doi.org/10.1111/gcbb.13029) | BECCS | 20 |
-| 2022 | [Comparing miscanthus hybrids &amp;#8211; growth and environmental impacts](https://doi.org/10.5194/egusphere-egu22-170) | BECCS | 0 |
+| 2025 | [Effect of tillage method on early root growth of <i>Miscanthus</i>](https://doi.org/10.1111/aab.70006)<br><small>Annals of Applied Biology · with Amanda J. Holder, P. R. H. Robson</small> | BECCS | 3 |
+| 2025 | [Assessing the Sustainability of Miscanthus and Willow as Global Bioenergy Crops: Current and Future Climate Conditions (Part 2)](https://doi.org/10.20944/preprints202504.2510.v1)<br><small>Preprints.org (preprint) · with Mohamed Abdalla, [A. Shepherd](/cdr-researcher-census/researchers/a-shepherd-a5028767/), [Astley Hastings](/cdr-researcher-census/researchers/astley-hastings-a5058476/), Grant L. Campbell, [Pete Smith](/cdr-researcher-census/researchers/pete-smith-a5028843/)</small> | BECCS | 1 |
+| 2023 | [Perennial biomass cropping and use: Shaping the policy ecosystem in European countries](https://doi.org/10.1111/gcbb.13038)<br><small>GCB Bioenergy · with J. C. Brown, [A. Shepherd](/cdr-researcher-census/researchers/a-shepherd-a5028767/), Anatolii Sandu, Andrea Ferrarini, [Astley Hastings](/cdr-researcher-census/researchers/astley-hastings-a5058476/), B.S. Elbersen and 34 more</small> | BECCS | 56 |
+| 2023 | [Novel Miscanthus hybrids: Modelling productivity on marginal land in Europe using dynamics of canopy development determined by light interception](https://doi.org/10.1111/gcbb.13029)<br><small>GCB Bioenergy · with [A. Shepherd](/cdr-researcher-census/researchers/a-shepherd-a5028767/), Andrea Ferrarini, Andreas Kiesel, Andrew Lovett, Chris Ashman, Chris Davey and 19 more</small> | BECCS | 20 |
+| 2022 | [Comparing miscanthus hybrids &amp;#8211; growth and environmental impacts](https://doi.org/10.5194/egusphere-egu22-170)<br><small>preprint · with [A. Shepherd](/cdr-researcher-census/researchers/a-shepherd-a5028767/), Andrea Ferrarini, Andreas Kiesel, [Astley Hastings](/cdr-researcher-census/researchers/astley-hastings-a5058476/), Chris Ashman, Chris Davey and 13 more</small> | BECCS | 0 |
 
 ---
 

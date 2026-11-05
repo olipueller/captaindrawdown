@@ -1,7 +1,7 @@
 ---
 title: "Bjarne Steffen"
 description: "Bjarne Steffen, ETH Zurich, Switzerland. 117 publications, h-index 35, 4,852 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/bjarne-steffen-a5051413/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,19 +39,19 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Cross-cutting CDR 5, DAC 4, BECCS 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Cross-cutting CDR 5, DAC 4, BECCS 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [How the EU can utilize its carbon market to scale up carbon dioxide removal](https://openalex.org/W7147027131) | BECCS; DAC | 4 |
-| 2026 | [A global analysis of expected revenues from carbon dioxide removal](https://doi.org/10.1088/1748-9326/ae499d) | Cross-cutting CDR | 1 |
-| 2026 | [Quantifying the effect of European Investment Bank financing on the low-carbon energy transition through 2050](https://doi.org/10.21203/rs.3.rs-8896067/v1) | DAC | 0 |
-| 2026 | [A global analysis of expected revenues from carbon dioxide removal](https://openalex.org/W7137198274) | Cross-cutting CDR | 0 |
-| 2026 | [Facilitating permanent carbon storage through risk transfers? Analyzing the insurability of the carbon leakage liability](https://openalex.org/W7160494292) | Cross-cutting CDR | 0 |
-| 2026 | [How the EU can utilize its carbon market to scale up carbon dioxide removal](https://openalex.org/W7167668386) | Cross-cutting CDR | 0 |
-| 2025 | [Unpacking the bottlenecks of deploying Direct Air Capture at scale](https://doi.org/10.5194/egusphere-egu25-4158) | DAC | 0 |
-| 2024 | [Considering technology characteristics to project future costs of direct air capture](https://doi.org/10.1016/j.joule.2024.02.005) | DAC | 168 |
-| 2024 | [Sequencing Carbon Dioxide Removal into the EU ETS](https://doi.org/10.2139/ssrn.4875550) | Cross-cutting CDR | 10 |
+| 2026 | [How the EU can utilize its carbon market to scale up carbon dioxide removal](https://openalex.org/W7147027131)<br><small>with Darius Sultani, Claudia Günther, [Katrin Sievert](/cdr-researcher-census/researchers/katrin-sievert-a5094051/), Michael Pahle, Sebastián Osorio, Tobias S. Schmidt and 1 more</small> | BECCS; DAC | 4 |
+| 2026 | [A global analysis of expected revenues from carbon dioxide removal](https://doi.org/10.1088/1748-9326/ae499d)<br><small>Environmental Research Letters · with Alyssa Kozian, Jakob Ellensohn, Tobias S. Schmidt</small> | Cross-cutting CDR | 1 |
+| 2026 | [Quantifying the effect of European Investment Bank financing on the low-carbon energy transition through 2050](https://doi.org/10.21203/rs.3.rs-8896067/v1)<br><small>preprint · with Giovanni Sansavini, Jacob Mannhardt, Jon Schätti, Lukas Schmidt-Engelbertz, Paul Waidelich</small> | DAC | 0 |
+| 2026 | [A global analysis of expected revenues from carbon dioxide removal](https://openalex.org/W7137198274)<br><small>with Alyssa Kozian, Jakob Ellensohn, Tobias Schmidt</small> | Cross-cutting CDR | 0 |
+| 2026 | [Facilitating permanent carbon storage through risk transfers? Analyzing the insurability of the carbon leakage liability](https://openalex.org/W7160494292)<br><small>with Tom C. Spencer, David N. Bresch, Jamie W. McCaughey</small> | Cross-cutting CDR | 0 |
+| 2026 | [How the EU can utilize its carbon market to scale up carbon dioxide removal](https://openalex.org/W7167668386)<br><small>with Darius Sultani, Claudia Günther, [Katrin Sievert](/cdr-researcher-census/researchers/katrin-sievert-a5094051/), Michael Pahle, Sebastián Osorio, Tobias Schmidt and 2 more</small> | Cross-cutting CDR | 0 |
+| 2025 | [Unpacking the bottlenecks of deploying Direct Air Capture at scale](https://doi.org/10.5194/egusphere-egu25-4158)<br><small>preprint · with Leonardo Chiani, [Katrin Sievert](/cdr-researcher-census/researchers/katrin-sievert-a5094051/), Laurent Drouet, Pietro Andreoni, Tobias Schmidt, Massimo Tavoni</small> | DAC | 0 |
+| 2024 | [Considering technology characteristics to project future costs of direct air capture](https://doi.org/10.1016/j.joule.2024.02.005)<br><small>Joule · with [Katrin Sievert](/cdr-researcher-census/researchers/katrin-sievert-a5094051/), Tobias S. Schmidt</small> | DAC | 168 |
+| 2024 | [Sequencing Carbon Dioxide Removal into the EU ETS](https://doi.org/10.2139/ssrn.4875550)<br><small>SSRN Electronic Journal · with Darius Sultani, Claudia Günther, [Katrin Sievert](/cdr-researcher-census/researchers/katrin-sievert-a5094051/), Michael Pahle, Sebastián Osorio, Tobias S. Schmidt and 1 more</small> | Cross-cutting CDR | 10 |
 
 ---
 

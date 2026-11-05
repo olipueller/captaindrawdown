@@ -1,7 +1,7 @@
 ---
 title: "Chinmayee V. Subban"
 description: "Chinmayee V. Subban, Pacific Northwest National Laboratory, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 65 by activity, 585 by citations. 55 publications, h-index 14, 849 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/chinmayee-v-subban-a5062579/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,22 +43,22 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-12 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 10, Enhanced Weathering 1, Cross-cutting CDR 1, DAC 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+12 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 10, Enhanced Weathering 1, Cross-cutting CDR 1, DAC 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Evaluating extraction of magnesium and lithium compounds from seawater using byproducts of demonstration-scale bipolar membrane electrodialysis](https://openalex.org/W7138944142) | Ocean CDR | 0 |
-| 2026 | [Integrating laboratory-based secondary precipitation thresholds with ocean biogeochemistry models to advance ocean alkalinity enhancement decision-making](https://openalex.org/W7204276729) | Ocean CDR | 0 |
-| 2025 | [Novel field trial for ocean alkalinity enhancement using electrochemically derived aqueous alkalinity](https://doi.org/10.3389/fenve.2025.1641277) | Ocean CDR | 14 |
-| 2025 | [Regional ocean biogeochemical modeling challenges for predicting the effectiveness of marine carbon dioxide removal](https://doi.org/10.3389/fclim.2025.1640617) | Ocean CDR | 6 |
-| 2025 | [Nickel extraction from olivine using waste acid from an electrochemical marine CO <sub>2</sub> removal process](https://doi.org/10.1039/d5su00850f) | Ocean CDR | 1 |
-| 2025 | [Top-down life cycle assessment protocols for all mineralization-based CO2 removal methods](https://doi.org/10.2139/ssrn.5070948) | Enhanced Weathering | 0 |
-| 2025 | [Bipolar Membrane Electrodialyzers as Flexible Demand Response Resources: Co-Optimization of Cost Savings and Product Formation](https://doi.org/10.2139/ssrn.5801873) | Cross-cutting CDR | 0 |
-| 2024 | [Mixing and dilution controls on marine CO<sub>2</sub> removal using alkalinity enhancement](https://doi.org/10.1088/1748-9326/ad7521) | Ocean CDR | 19 |
-| 2024 | [Towards Marine Carbon Dioxide Removal (mCDR) Centers of Excellence](http://doi.org/10.2172/2426023) | DAC; Ocean CDR | 2 |
-| 2023 | [Marine carbon dioxide removal (mCDR) test site needs: A joint PNNL-PMEL workshop report](https://doi.org/10.2172/2345755) | Ocean CDR | 1 |
-| 2022 | [Ocean Deacidification Technologies for Marine Aquaculture](https://doi.org/10.3390/jmse10040523) | Ocean CDR | 3 |
-| 2022 | [Optimizing biological carbon uptake by regulating carbonate-bicarbonate equilibrium](http://doi.org/10.2172/1988300) | Ocean CDR | 0 |
+| 2026 | [Evaluating extraction of magnesium and lithium compounds from seawater using byproducts of demonstration-scale bipolar membrane electrodialysis](https://openalex.org/W7138944142)<br><small>preprint · with Qi Wang, Elisabeth A. Ryan, Paul Marsh, Peter J. Valdez</small> | Ocean CDR | 0 |
+| 2026 | [Integrating laboratory-based secondary precipitation thresholds with ocean biogeochemistry models to advance ocean alkalinity enhancement decision-making](https://openalex.org/W7204276729)<br><small>preprint · with Allison M. Savoie, Alexa Labossiere, Ashley Bird, Emma Scott, [Jessica Cross](/cdr-researcher-census/researchers/jessica-cross-a5031991/), Jilian Xiong and 5 more</small> | Ocean CDR | 0 |
+| 2025 | [Novel field trial for ocean alkalinity enhancement using electrochemically derived aqueous alkalinity](https://doi.org/10.3389/fenve.2025.1641277)<br><small>Frontiers in Environmental Engineering · with Allison M. Savoie, [Brendan R. Carter](/cdr-researcher-census/researchers/brendan-r-carter-a5008670/), Carolina Torres Sanchez, Dave Hegeman, J.C. Loretz, Jesse Vance and 9 more</small> | Ocean CDR | 14 |
+| 2025 | [Regional ocean biogeochemical modeling challenges for predicting the effectiveness of marine carbon dioxide removal](https://doi.org/10.3389/fclim.2025.1640617)<br><small>Frontiers in Climate · with [Nicholas Ward](/cdr-researcher-census/researchers/nicholas-ward-a5016338/), Claudine Hauri, [Jessica Cross](/cdr-researcher-census/researchers/jessica-cross-a5031991/), Jilian Xiong, Kyle E. Hinson, Marjorie A. M. Friedrichs and 4 more</small> | Ocean CDR | 6 |
+| 2025 | [Nickel extraction from olivine using waste acid from an electrochemical marine CO <sub>2</sub> removal process](https://doi.org/10.1039/d5su00850f)<br><small>RSC Sustainability · with A. Robinson, Brady Anderson, Dan Thien Nguyen, Elias Nakouzi, Jian Liu, Paul Marsh and 2 more</small> | Ocean CDR | 1 |
+| 2025 | [Top-down life cycle assessment protocols for all mineralization-based CO2 removal methods](https://doi.org/10.2139/ssrn.5070948)<br><small>SSRN Electronic Journal · with Corey Myers, H. Schaef, Hannah Goldstein, [Jessica Cross](/cdr-researcher-census/researchers/jessica-cross-a5031991/), Matt Villante, Emily T. Nienhuis</small> | Enhanced Weathering | 0 |
+| 2025 | [Bipolar Membrane Electrodialyzers as Flexible Demand Response Resources: Co-Optimization of Cost Savings and Product Formation](https://doi.org/10.2139/ssrn.5801873)<br><small>SSRN Electronic Journal (preprint) · with Saptarshi Bhattacharya, J.C. Loretz, Michael S. Leonard, [Nicholas Ward](/cdr-researcher-census/researchers/nicholas-ward-a5016338/)</small> | Cross-cutting CDR | 0 |
+| 2024 | [Mixing and dilution controls on marine CO<sub>2</sub> removal using alkalinity enhancement](https://doi.org/10.1088/1748-9326/ad7521)<br><small>Environmental Research Letters · with Tarang Khangaonkar, [Brendan R. Carter](/cdr-researcher-census/researchers/brendan-r-carter-a5008670/), Carolina Torres Sanchez, Krti Tallam, Lakshitha Premathilake, Lenaïg G. Hemery and 8 more</small> | Ocean CDR | 19 |
+| 2024 | [Towards Marine Carbon Dioxide Removal (mCDR) Centers of Excellence](http://doi.org/10.2172/2426023)<br><small>with [Jessica Cross](/cdr-researcher-census/researchers/jessica-cross-a5031991/), Christian Meinig, M.R. Pinza, Nichols Ward, Simon Geerlofs, USDOE and 1 more</small> | DAC; Ocean CDR | 2 |
+| 2023 | [Marine carbon dioxide removal (mCDR) test site needs: A joint PNNL-PMEL workshop report](https://doi.org/10.2172/2345755)<br><small>with Chinmayee Venkata Subban, [Jessica Cross](/cdr-researcher-census/researchers/jessica-cross-a5031991/), Renewable Power Office. Water Power Technologies Office USDOE Office of Energy Efficiency and Renewable Energy (EERE), Renewable Power Office. Water Power Technologies Office USDOE Office of Energy Efficiency and Renewable Energy (EERE), Simon Geerlofs, Christian Meinig</small> | Ocean CDR | 1 |
+| 2022 | [Ocean Deacidification Technologies for Marine Aquaculture](https://doi.org/10.3390/jmse10040523)<br><small>Journal of Marine Science and Engineering · with Christopher R. Myers</small> | Ocean CDR | 3 |
+| 2022 | [Optimizing biological carbon uptake by regulating carbonate-bicarbonate equilibrium](http://doi.org/10.2172/1988300)<br><small>with Christopher R. Myers, Charles F. Hibbeln, Scott Edmundson</small> | Ocean CDR | 0 |
 
 ---
 

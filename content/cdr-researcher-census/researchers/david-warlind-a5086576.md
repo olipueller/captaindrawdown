@@ -1,7 +1,7 @@
 ---
 title: "David Wårlind"
 description: "David Wårlind, Lunds universitet Naturvetenskapliga fakulteten, Sweden. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 96 by activity, 5622 by citations. 118 publications, h-index 25, 5,191 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/david-warlind-a5086576/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,17 +43,17 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Cross-cutting CDR 6, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Cross-cutting CDR 6, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Assessing Earth system responses in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal](https://doi.org/10.5194/egusphere-2026-833) | Cross-cutting CDR | 0 |
-| 2026 | [Assessing Earth system responses in mitigation scenarios with activity-driven simulation of carbon dioxide removal](https://openalex.org/W7214319721) | Cross-cutting CDR | 0 |
-| 2025 | [Forestation in CMIP6: wide model spread in tree cover and land carbon uptake](https://doi.org/10.1088/1748-9326/adc93e) | Cross-cutting CDR | 5 |
-| 2025 | [Representing carbon dioxide removal in Earth System Models: towards an activity-driven framework.](https://doi.org/10.5194/egusphere-egu25-17555) | Cross-cutting CDR | 0 |
-| 2025 | [Bottom-up estimate of the carbon dioxide removal potential of land-based mitigation technologies using a coupled ESM/ land-use change model framework](https://doi.org/10.5194/egusphere-egu25-18466) | Cross-cutting CDR | 0 |
-| 2025 | [Assessing Earth system feedbacks in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal](https://doi.org/10.5194/egusphere-egu25-16915) | Cross-cutting CDR | 0 |
-| 2021 | [Bedrock Weathering Controls on Terrestrial Carbon‐Nitrogen‐Climate Interactions](https://doi.org/10.1029/2020gb006933) | Enhanced Weathering | 15 |
+| 2026 | [Assessing Earth system responses in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal](https://doi.org/10.5194/egusphere-2026-833)<br><small>with [Jörg Schwinger](/cdr-researcher-census/researchers/jorg-schwinger-a5026788/), Trond Iversen, Daniele Peano, [Hanna Lee](/cdr-researcher-census/researchers/hanna-lee-a5044293/), [Helene Muri](/cdr-researcher-census/researchers/helene-muri-a5010735/), [Julia Pongratz](/cdr-researcher-census/researchers/julia-pongratz-a5054849/) and 13 more</small> | Cross-cutting CDR | 0 |
+| 2026 | [Assessing Earth system responses in mitigation scenarios with activity-driven simulation of carbon dioxide removal](https://openalex.org/W7214319721)<br><small>with [Jörg Schwinger](/cdr-researcher-census/researchers/jorg-schwinger-a5026788/), Daniele Peano, [Hanna Lee](/cdr-researcher-census/researchers/hanna-lee-a5044293/), [Helene Muri](/cdr-researcher-census/researchers/helene-muri-a5010735/), [Julia Pongratz](/cdr-researcher-census/researchers/julia-pongratz-a5054849/), Lars Nieradzik and 11 more</small> | Cross-cutting CDR | 0 |
+| 2025 | [Forestation in CMIP6: wide model spread in tree cover and land carbon uptake](https://doi.org/10.1088/1748-9326/adc93e)<br><small>Environmental Research Letters · with Sabine Egerer, Alina Barbu, Arthur Argles, David M. Lawrence, Ian N. Harman, Nicolas Vuichard and 6 more</small> | Cross-cutting CDR | 5 |
+| 2025 | [Representing carbon dioxide removal in Earth System Models: towards an activity-driven framework.](https://doi.org/10.5194/egusphere-egu25-17555)<br><small>preprint · with Raffaele Bernardello, Daniele Peano, [Julia Pongratz](/cdr-researcher-census/researchers/julia-pongratz-a5054849/), [Jörg Schwinger](/cdr-researcher-census/researchers/jorg-schwinger-a5026788/), Lars Nieradzik, [Leon Merfort](/cdr-researcher-census/researchers/leon-merfort-a5010129/) and 12 more</small> | Cross-cutting CDR | 0 |
+| 2025 | [Bottom-up estimate of the carbon dioxide removal potential of land-based mitigation technologies using a coupled ESM/ land-use change model framework](https://doi.org/10.5194/egusphere-egu25-18466)<br><small>preprint · with Lina Teckentrup, Eise Spijker, Florian Wimmer, Francis X. Johnson, Isabel Martínez, [Leon Merfort](/cdr-researcher-census/researchers/leon-merfort-a5010129/) and 5 more</small> | Cross-cutting CDR | 0 |
+| 2025 | [Assessing Earth system feedbacks in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal](https://doi.org/10.5194/egusphere-egu25-16915)<br><small>preprint · with [Jörg Schwinger](/cdr-researcher-census/researchers/jorg-schwinger-a5026788/), Daniele Peano, [Hanna Lee](/cdr-researcher-census/researchers/hanna-lee-a5044293/), [Julia Pongratz](/cdr-researcher-census/researchers/julia-pongratz-a5054849/), Lars Nieradzik, [Leon Merfort](/cdr-researcher-census/researchers/leon-merfort-a5010129/) and 11 more</small> | Cross-cutting CDR | 0 |
+| 2021 | [Bedrock Weathering Controls on Terrestrial Carbon‐Nitrogen‐Climate Interactions](https://doi.org/10.1029/2020gb006933)<br><small>Global Biogeochemical Cycles · with P. Dass, [Benjamin Z. Houlton](/cdr-researcher-census/researchers/benjamin-z-houlton-a5072170/), Ying‐Ping Wang, Scott L. Morford</small> | Enhanced Weathering | 15 |
 
 ---
 

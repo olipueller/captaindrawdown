@@ -1,7 +1,7 @@
 ---
 title: "Xiaohong Zhu"
 description: "Xiaohong Zhu, University of California, Berkeley, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 57 by activity, 4186 by citations. 96 publications, h-index 34, 3,459 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/xiaohong-zhu-a5039299/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,17 +43,17 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 7. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 7. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Biochar-modified alkali-activated slag](https://doi.org/10.1016/b978-0-443-22037-1.00012-4) | Biochar | 1 |
-| 2026 | [Opportunities and future perspectives for biochar-enhanced construction](https://doi.org/10.1016/b978-0-443-22037-1.00007-0) | Biochar | 0 |
-| 2026 | [Durability concerns of biochar in low-carbon concrete](https://doi.org/10.1016/b978-0-443-22037-1.00018-5) | Biochar | 0 |
-| 2026 | [Thermal insulation of biochar-cement composites](https://doi.org/10.1016/b978-0-443-22037-1.00011-2) | Biochar | 0 |
-| 2025 | [Cold-bonded biochar-cement lightweight aggregates for evaporation-enhanced permeable bricks](https://doi.org/10.1016/j.jclepro.2025.144886) | Biochar | 19 |
-| 2025 | [Enhancing interface adhesion of 3D printable concrete by biochar integration](https://doi.org/10.1016/j.cemconcomp.2025.106383) | Biochar | 5 |
-| 2024 | [Scaling biochar solutions for urban carbon dioxide removal](https://doi.org/10.1016/j.oneear.2024.08.008) | Biochar | 17 |
+| 2026 | [Biochar-modified alkali-activated slag](https://doi.org/10.1016/b978-0-443-22037-1.00012-4)<br><small>Elsevier eBooks · with [Daniel C.W. Tsang](/cdr-researcher-census/researchers/daniel-cw-tsang-a5076771/)</small> | Biochar | 1 |
+| 2026 | [Opportunities and future perspectives for biochar-enhanced construction](https://doi.org/10.1016/b978-0-443-22037-1.00007-0)<br><small>Elsevier eBooks · with [Daniel C.W. Tsang](/cdr-researcher-census/researchers/daniel-cw-tsang-a5076771/)</small> | Biochar | 0 |
+| 2026 | [Durability concerns of biochar in low-carbon concrete](https://doi.org/10.1016/b978-0-443-22037-1.00018-5)<br><small>Elsevier eBooks · with Weijian Xu, [Daniel C.W. Tsang](/cdr-researcher-census/researchers/daniel-cw-tsang-a5076771/)</small> | Biochar | 0 |
+| 2026 | [Thermal insulation of biochar-cement composites](https://doi.org/10.1016/b978-0-443-22037-1.00011-2)<br><small>Elsevier eBooks · with Xinyu Jiang, [Daniel C.W. Tsang](/cdr-researcher-census/researchers/daniel-cw-tsang-a5076771/)</small> | Biochar | 0 |
+| 2025 | [Cold-bonded biochar-cement lightweight aggregates for evaporation-enhanced permeable bricks](https://doi.org/10.1016/j.jclepro.2025.144886)<br><small>Journal of Cleaner Production · with Xinyu Jiang, Chi Sun Poon, Fulin Qu, Yat Fai Leung, Yuying Zhang, [Daniel C.W. Tsang](/cdr-researcher-census/researchers/daniel-cw-tsang-a5076771/)</small> | Biochar | 19 |
+| 2025 | [Enhancing interface adhesion of 3D printable concrete by biochar integration](https://doi.org/10.1016/j.cemconcomp.2025.106383)<br><small>Cement and Concrete Composites · with Chao Zhang, Hailong Ye, Lei Ma, Muduo Li, Yamei Zhang, Yuying Zhang and 1 more</small> | Biochar | 5 |
+| 2024 | [Scaling biochar solutions for urban carbon dioxide removal](https://doi.org/10.1016/j.oneear.2024.08.008)<br><small>One Earth · with Yuying Zhang, Roya Maboudian, Weijian Xu, [Yong Sik Ok](/cdr-researcher-census/researchers/yong-sik-ok-a5053298/), [Daniel C.W. Tsang](/cdr-researcher-census/researchers/daniel-cw-tsang-a5076771/)</small> | Biochar | 17 |
 
 ---
 

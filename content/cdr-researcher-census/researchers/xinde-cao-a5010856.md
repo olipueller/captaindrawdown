@@ -1,7 +1,7 @@
 ---
 title: "Xinde Cao"
 description: "Xinde Cao, Shanghai Jiao Tong University, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 66 by activity, 19 by citations. 290 publications, h-index 95, 34,525 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/xinde-cao-a5010856/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,23 +43,23 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-13 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 13. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+13 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 13. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Beyond universal application: dissecting the differential amelioration and carbon sequestration performance of biochar in chloride-, sulfate-, and soda saline-alkali soils](https://openalex.org/W7151217330) | Biochar | 3 |
-| 2025 | [Biochar-amended soil can further sorb atmospheric CO2 for more carbon sequestration](https://doi.org/10.1038/s43247-024-01985-5) | Biochar | 42 |
-| 2023 | [Converting coastal silt into subgrade soil with biochar as reinforcing agent, CO2 adsorbent, and carbon sequestrating material](https://doi.org/10.1016/j.jenvman.2023.118394) | Biochar | 20 |
-| 2023 | [Converting Coastal Silt into Subgrade Soil with Biochar as Reinforcing Agent, Co2 Adsorbent, and Carbon Sequestrating Material](http://dx.doi.org/10.2139/ssrn.4402076) | Biochar | 0 |
-| 2022 | [Evaluation of long-term carbon sequestration of biochar in soil with biogeochemical field model](https://doi.org/10.1016/j.scitotenv.2022.153576) | Biochar | 101 |
-| 2022 | [Development of phosphorus composite biochar for simultaneous enhanced carbon sink and heavy metal immobilization in soil](https://doi.org/10.1016/j.scitotenv.2022.154845) | Biochar | 69 |
-| 2022 | [Minerals: A missing role for enhanced biochar carbon sequestration from the thermal conversion of biomass to the application in soil](https://doi.org/10.1016/j.earscirev.2022.104215) | Biochar | 56 |
-| 2022 | [Biochar for carbon sequestration and environmental remediation in soil](https://doi.org/10.1016/b978-0-323-85343-9.00002-1) | Biochar | 4 |
-| 2021 | [Impacts of different activation processes on the carbon stability of biochar for oxidation resistance](https://doi.org/10.1016/j.biortech.2021.125555) | Biochar | 169 |
-| 2021 | [Pyrolysis temperature-dependent carbon retention and stability of biochar with participation of calcium: Implications to carbon sequestration](https://doi.org/10.1016/j.envpol.2021.117566) | Biochar | 141 |
-| 2021 | [Unraveling iron speciation on Fe-biochar with distinct arsenic removal mechanisms and depth distributions of As and Fe](https://openalex.org/W3195614275) | Biochar | 113 |
-| 2021 | [Stabilization of dissolvable biochar by soil minerals: Release reduction and organo-mineral complexes formation](https://doi.org/10.1016/j.jhazmat.2021.125213) | Biochar | 84 |
-| 2021 | [Synergistic role of bulk carbon and iron minerals inherent in the sludge-derived biochar for As(V) immobilization](https://doi.org/10.1016/j.cej.2021.129183) | Biochar | 31 |
+| 2026 | [Beyond universal application: dissecting the differential amelioration and carbon sequestration performance of biochar in chloride-, sulfate-, and soda saline-alkali soils](https://openalex.org/W7151217330)<br><small>with Xiaoyu Ma, Bo Chen, Hao Qiu, Jun Liang, Lexin Shao, Xiaoyun Xu and 1 more</small> | Biochar | 3 |
+| 2025 | [Biochar-amended soil can further sorb atmospheric CO2 for more carbon sequestration](https://doi.org/10.1038/s43247-024-01985-5)<br><small>Communications Earth & Environment · with Xiangyang Gui, Ling Zhao, Liyang Hu, Wenfeng Huang, Xiaoyun Xu, Zehong Zhang</small> | Biochar | 42 |
+| 2023 | [Converting coastal silt into subgrade soil with biochar as reinforcing agent, CO2 adsorbent, and carbon sequestrating material](https://doi.org/10.1016/j.jenvman.2023.118394)<br><small>Journal of Environmental Management · with Shuwei Fang, Bing Chen, Guoqiang Rong, Hao Qiu, Ling Zhao, Xiaoyun Xu</small> | Biochar | 20 |
+| 2023 | [Converting Coastal Silt into Subgrade Soil with Biochar as Reinforcing Agent, Co2 Adsorbent, and Carbon Sequestrating Material](http://dx.doi.org/10.2139/ssrn.4402076)<br><small>SSRN Electronic Journal · with Shuwei Fang, Bing Chen, Guoqiang Rong, Hao Qiu, Ling Zhao, Xiaoyun Xu</small> | Biochar | 0 |
+| 2022 | [Evaluation of long-term carbon sequestration of biochar in soil with biogeochemical field model](https://doi.org/10.1016/j.scitotenv.2022.153576)<br><small>The Science of The Total Environment · with Jianxiang Yin, Deping Li, Hao Qiu, Ling Zhao, Xiaoyun Xu</small> | Biochar | 101 |
+| 2022 | [Development of phosphorus composite biochar for simultaneous enhanced carbon sink and heavy metal immobilization in soil](https://doi.org/10.1016/j.scitotenv.2022.154845)<br><small>The Science of The Total Environment · with Yingbing Luo, Hao Qiu, Huacheng Xu, Xiaoyun Xu, Zhaopeng Li, Ling Zhao</small> | Biochar | 69 |
+| 2022 | [Minerals: A missing role for enhanced biochar carbon sequestration from the thermal conversion of biomass to the application in soil](https://doi.org/10.1016/j.earscirev.2022.104215)<br><small>Earth-Science Reviews · with Hongyan Nan, Fan Yang, Hao Qiu, [Ondřej Mašek](/cdr-researcher-census/researchers/ondrej-masek-a5087096/), Xiaoyun Xu, Ling Zhao</small> | Biochar | 56 |
+| 2022 | [Biochar for carbon sequestration and environmental remediation in soil](https://doi.org/10.1016/b978-0-323-85343-9.00002-1)<br><small>Elsevier eBooks · with Fan Yang</small> | Biochar | 4 |
+| 2021 | [Impacts of different activation processes on the carbon stability of biochar for oxidation resistance](https://doi.org/10.1016/j.biortech.2021.125555)<br><small>Bioresource Technology · with Zibo Xu, Mingjing He, Xiaoyun Xu, [Daniel C.W. Tsang](/cdr-researcher-census/researchers/daniel-cw-tsang-a5076771/)</small> | Biochar | 169 |
+| 2021 | [Pyrolysis temperature-dependent carbon retention and stability of biochar with participation of calcium: Implications to carbon sequestration](https://doi.org/10.1016/j.envpol.2021.117566)<br><small>Environmental Pollution · with Hongyan Nan, Fan Yang, Jianxiang Yin, Ling Zhao, Yingbing Luo</small> | Biochar | 141 |
+| 2021 | [Unraveling iron speciation on Fe-biochar with distinct arsenic removal mechanisms and depth distributions of As and Fe](https://openalex.org/W3195614275)<br><small>with Zibo Xu, Daniel S. Alessi, Deyi Hou, [Yong Sik Ok](/cdr-researcher-census/researchers/yong-sik-ok-a5053298/), Yuqing Sun, Zhonghao Wan and 1 more</small> | Biochar | 113 |
+| 2021 | [Stabilization of dissolvable biochar by soil minerals: Release reduction and organo-mineral complexes formation](https://doi.org/10.1016/j.jhazmat.2021.125213)<br><small>Journal of Hazardous Materials · with Fan Yang, [Daniel C.W. Tsang](/cdr-researcher-census/researchers/daniel-cw-tsang-a5076771/), Hao Qiu, Ling Zhao, Xiaoyun Xu, [Yong Sik Ok](/cdr-researcher-census/researchers/yong-sik-ok-a5053298/) and 2 more</small> | Biochar | 84 |
+| 2021 | [Synergistic role of bulk carbon and iron minerals inherent in the sludge-derived biochar for As(V) immobilization](https://doi.org/10.1016/j.cej.2021.129183)<br><small>Chemical Engineering Journal · with Yulu Yu, Hao Qiu, Ling Zhao, Xiaoyun Xu, Zibo Xu</small> | Biochar | 31 |
 
 ---
 

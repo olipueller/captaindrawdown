@@ -1,7 +1,7 @@
 ---
 title: "Lyla L. Taylor"
 description: "Lyla L. Taylor, University of Sheffield, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 100 by activity, 6 by citations. 57 publications, h-index 23, 3,317 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/lyla-l-taylor-a5001741/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,19 +43,19 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 9. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 9. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [ARTEMIS version 1.0: A Reactive Transport Enhanced Rock Weathering Model with Coupled Soil Carbon and Nutrient Dynamics](https://doi.org/10.5194/egusphere-2025-5823) | Enhanced Weathering | 0 |
-| 2026 | [ForestERW: a spatially explicit carbon dioxide removal model for practical enhanced rock weathering applications in United States forests](https://openalex.org/W7203740716) | Enhanced Weathering | 0 |
-| 2025 | [Transforming US agriculture for carbon removal with enhanced weathering](https://doi.org/10.1038/s41586-024-08429-2) | Enhanced Weathering | 59 |
-| 2024 | [Enhanced Rock Weathering for Carbon Removal–Monitoring and Mitigating Potential Environmental Impacts on Agricultural Land](https://doi.org/10.1021/acs.est.4c02368) | Enhanced Weathering | 47 |
-| 2023 | [Improving nitrogen cycling in a land surface model (CLM5) to quantify soil N <sub>2</sub> O, NO, and NH <sub>3</sub> emissions from enhanced rock weathering with croplands](https://doi.org/10.5194/gmd-16-5783-2023) | Enhanced Weathering | 20 |
-| 2023 | [Transforming U.S. agriculture with crushed rock for CO$_2$ sequestration and increased production](http://arxiv.org/abs/2308.04302) | Enhanced Weathering | 1 |
-| 2022 | [Substantial carbon drawdown potential from enhanced rock weathering in the United Kingdom](https://doi.org/10.1038/s41561-022-00925-2) | Enhanced Weathering | 165 |
-| 2021 | [Effects of mineralogy, chemistry and physical properties of basalts on carbon capture potential and plant-nutrient element release via enhanced weathering](https://doi.org/10.1016/j.apgeochem.2021.105023) | Enhanced Weathering | 162 |
-| 2021 | [Increased carbon capture by a silicate-treated forested watershed affected by acid deposition](https://doi.org/10.5194/bg-18-169-2021) | Enhanced Weathering | 101 |
+| 2026 | [ARTEMIS version 1.0: A Reactive Transport Enhanced Rock Weathering Model with Coupled Soil Carbon and Nutrient Dynamics](https://doi.org/10.5194/egusphere-2025-5823)<br><small>with Ilsa B Kantola, [Rachael H. James](/cdr-researcher-census/researchers/rachael-h-james-a5075056/), [David J. Beerling](/cdr-researcher-census/researchers/david-j-beerling-a5073877/)</small> | Enhanced Weathering | 0 |
+| 2026 | [ForestERW: a spatially explicit carbon dioxide removal model for practical enhanced rock weathering applications in United States forests](https://openalex.org/W7203740716)<br><small>with Todd C. McDonnell, Christopher M. Clark, Justin G. Coughlin, Charles T. Driscoll</small> | Enhanced Weathering | 0 |
+| 2025 | [Transforming US agriculture for carbon removal with enhanced weathering](https://doi.org/10.1038/s41586-024-08429-2)<br><small>Nature · with [David J. Beerling](/cdr-researcher-census/researchers/david-j-beerling-a5073877/), Adam Wolf, [Christopher T. Reinhard](/cdr-researcher-census/researchers/christopher-t-reinhard-a5061963/), [Dimitar Z. Epihov](/cdr-researcher-census/researchers/dimitar-z-epihov-a5056786/), Euripides P. Kantzas, Hector Pollitt and 14 more</small> | Enhanced Weathering | 59 |
+| 2024 | [Enhanced Rock Weathering for Carbon Removal–Monitoring and Mitigating Potential Environmental Impacts on Agricultural Land](https://doi.org/10.1021/acs.est.4c02368)<br><small>Environmental Science & Technology · with Charlotte Levy, [Christopher T. Reinhard](/cdr-researcher-census/researchers/christopher-t-reinhard-a5061963/), [David J. Beerling](/cdr-researcher-census/researchers/david-j-beerling-a5073877/), Maya Almaraz, [Peter A. Raymond](/cdr-researcher-census/researchers/peter-a-raymond-a5064092/), [Tim Jesper Suhrhoff](/cdr-researcher-census/researchers/tim-jesper-suhrhoff-a5081686/)</small> | Enhanced Weathering | 47 |
+| 2023 | [Improving nitrogen cycling in a land surface model (CLM5) to quantify soil N <sub>2</sub> O, NO, and NH <sub>3</sub> emissions from enhanced rock weathering with croplands](https://doi.org/10.5194/gmd-16-5783-2023)<br><small>Geoscientific model development · with Maria Val Martin, Amos P. K. Tai, Elena Blanc‐Betes, Euripides P. Kantzas, Evan H. DeLucia, I. B. Kantola and 7 more</small> | Enhanced Weathering | 20 |
+| 2023 | [Transforming U.S. agriculture with crushed rock for CO$_2$ sequestration and increased production](http://arxiv.org/abs/2308.04302)<br><small>arXiv (Cornell University) (preprint) · with [David J. Beerling](/cdr-researcher-census/researchers/david-j-beerling-a5073877/), Adam Wolf, [Christopher T. Reinhard](/cdr-researcher-census/researchers/christopher-t-reinhard-a5061963/), [Dimitar Z. Epihov](/cdr-researcher-census/researchers/dimitar-z-epihov-a5056786/), Euripides P. Kantzas, Hector Pollitt and 14 more</small> | Enhanced Weathering | 1 |
+| 2022 | [Substantial carbon drawdown potential from enhanced rock weathering in the United Kingdom](https://doi.org/10.1038/s41561-022-00925-2)<br><small>Nature Geoscience · with Euripides P. Kantzas, Amy L. Lewis, Hector Pollitt, Jean-Francois Mecure, Maria Val Martin, Mark R. Lomas and 10 more</small> | Enhanced Weathering | 165 |
+| 2021 | [Effects of mineralogy, chemistry and physical properties of basalts on carbon capture potential and plant-nutrient element release via enhanced weathering](https://doi.org/10.1016/j.apgeochem.2021.105023)<br><small>Applied Geochemistry · with Amy L. Lewis, Binoy Sarkar, Evan H. DeLucia, I. B. Kantola, Jonathan R. Leake, Kalu Davies and 9 more</small> | Enhanced Weathering | 162 |
+| 2021 | [Increased carbon capture by a silicate-treated forested watershed affected by acid deposition](https://doi.org/10.5194/bg-18-169-2021)<br><small>Biogeosciences · with Charles T. Driscoll, Greg H. Rau, Joel D. Blum, Peter M. Groffman, [David J. Beerling](/cdr-researcher-census/researchers/david-j-beerling-a5073877/)</small> | Enhanced Weathering | 101 |
 
 ---
 

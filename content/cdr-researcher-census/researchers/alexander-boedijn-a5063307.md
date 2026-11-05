@@ -1,7 +1,7 @@
 ---
 title: "Alexander Boedijn"
 description: "Alexander Boedijn, Wageningen University & Research, Netherlands. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 81 by activity, 3453 by citations. 28 publications, h-index 4, 59 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/alexander-boedijn-a5063307/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,14 +43,14 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-4 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 4. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+4 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 4. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Energy intensity of non-fossil CO2 enrichment in greenhouse horticulture](https://openalex.org/W7154959722) | DAC | 0 |
-| 2026 | [CO₂-opslag voor de Glastuinbouwmogelijkheden, kengetallen, berekeningen : Mogelijkheden, kengetallen, berekeningen](https://openalex.org/W7172433492) | DAC | 0 |
-| 2026 | [Innovatie en Demonstratie Centrum CO2 uit Buitenlucht : resultaten Seibu Giken DST C-SAVE Green® CSG-64](https://openalex.org/W7204554847) | DAC | 0 |
-| 2025 | [Renewable carbon products by using CO₂ : project deliverable D2 of KB Circular &amp; Climate Neutral: Exploring CO₂ options (KB-34-003-007)](https://doi.org/10.18174/704688) | DAC | 0 |
+| 2026 | [Energy intensity of non-fossil CO2 enrichment in greenhouse horticulture](https://openalex.org/W7154959722)<br><small>with Alexander van Tuyll, C. Stanghellini, M.K. van Ittersum, Martin K. van Ittersum, S. Hemming</small> | DAC | 0 |
+| 2026 | [CO₂-opslag voor de Glastuinbouwmogelijkheden, kengetallen, berekeningen : Mogelijkheden, kengetallen, berekeningen](https://openalex.org/W7172433492)<br><small>with Alexander van Tuyll, Alexander Boedijn, Didjay Bruggeman, Didjay F. Bruggeman, Jasper Ros</small> | DAC | 0 |
+| 2026 | [Innovatie en Demonstratie Centrum CO2 uit Buitenlucht : resultaten Seibu Giken DST C-SAVE Green® CSG-64](https://openalex.org/W7204554847)<br><small>with Isabella Righini, Jaco den Bakker, Janneke Grit, Frank Kempkes</small> | DAC | 0 |
+| 2025 | [Renewable carbon products by using CO₂ : project deliverable D2 of KB Circular &amp; Climate Neutral: Exploring CO₂ options (KB-34-003-007)](https://doi.org/10.18174/704688)<br><small>with Marieke E. Bruins, Anna Dörper, Daan S. van Es, Jan Peter Nap, Juliën Voogt, Marc P. Lanting and 1 more</small> | DAC | 0 |
 
 ---
 

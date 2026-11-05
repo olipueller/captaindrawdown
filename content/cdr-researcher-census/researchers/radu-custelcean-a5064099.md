@@ -1,7 +1,7 @@
 ---
 title: "Radu Custelcean"
 description: "Radu Custelcean, Oak Ridge National Laboratory, United States. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 85 by activity, 105 by citations. 435 publications, h-index 47, 8,842 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/radu-custelcean-a5064099/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 7, Cross-cutting CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 7, Cross-cutting CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2025 | [Quantum Crystallography combined with Neutron Study: Molecular Insights of Crystal Engineering for Carbon Capture Materials](https://doi.org/10.1063/4.0000367) | DAC | 0 |
-| 2024 | [Direct Air Capture of CO2 via Reactive Crystallization](http://dx.doi.org/10.26434/chemrxiv-2024-d0q28-v2) | DAC | 1 |
-| 2024 | [<i>In Silico</i> Screening of CO<sub>2</sub>‐Dipeptide Interactions for Bioinspired Carbon Capture](https://doi.org/10.1002/cphc.202400498) | DAC | 1 |
-| 2024 | [Integrated Process for Direct Air Capture of CO&lt;sub&gt;2&lt;/sub&gt; and Electrochemical Conversion to Ethanol](https://doi.org/10.2172/2333761) | DAC | 0 |
-| 2024 | [Effective Direct Steam Regeneration of Solid Sorbent Used for Carbon Capture](http://dx.doi.org/10.2139/ssrn.4820508) | Cross-cutting CDR | 0 |
-| 2022 | [Direct Air Capture of CO<sub>2</sub>Using Solvents](https://doi.org/10.1146/annurev-chembioeng-092120-023936) | DAC | 109 |
-| 2022 | [The status and prospects of materials for carbon capture technologies](https://doi.org/10.1557/s43577-022-00364-9) | DAC | 31 |
-| 2021 | [Direct air capture of CO<sub>2</sub><i>via</i>crystal engineering](https://doi.org/10.1039/d1sc04097a) | DAC | 80 |
+| 2025 | [Quantum Crystallography combined with Neutron Study: Molecular Insights of Crystal Engineering for Carbon Capture Materials](https://doi.org/10.1063/4.0000367)<br><small>Structural Dynamics · with Sylwia Pawlędzio, Jeffrey D. Einkauf, Xiaoping Wang</small> | DAC | 0 |
+| 2024 | [Direct Air Capture of CO2 via Reactive Crystallization](http://dx.doi.org/10.26434/chemrxiv-2024-d0q28-v2)<br><small>preprint · with Diāna Stamberga, Jeffrey D. Einkauf, Meishen Liu</small> | DAC | 1 |
+| 2024 | [<i>In Silico</i> Screening of CO<sub>2</sub>‐Dipeptide Interactions for Bioinspired Carbon Capture](https://doi.org/10.1002/cphc.202400498)<br><small>ChemPhysChem · with Amarachi G. Sylvanus, Grier M. Jones, Konstantinos D. Vogiatzis</small> | DAC | 1 |
+| 2024 | [Integrated Process for Direct Air Capture of CO&lt;sub&gt;2&lt;/sub&gt; and Electrochemical Conversion to Ethanol](https://doi.org/10.2172/2333761)<br><small>with Costas Tsouris, USDOE, Brandon Iglesias</small> | DAC | 0 |
+| 2024 | [Effective Direct Steam Regeneration of Solid Sorbent Used for Carbon Capture](http://dx.doi.org/10.2139/ssrn.4820508)<br><small>SSRN Electronic Journal (preprint) · with Gyoung Gug Jang, A. S. Meyer, Abishek Kasturi, Diāna Stamberga, Gang Seob Jung, Costas Tsouris</small> | Cross-cutting CDR | 0 |
+| 2022 | [Direct Air Capture of CO<sub>2</sub>Using Solvents](https://doi.org/10.1146/annurev-chembioeng-092120-023936)<br><small>Annual Review of Chemical and Biomolecular Engineering</small> | DAC | 109 |
+| 2022 | [The status and prospects of materials for carbon capture technologies](https://doi.org/10.1557/s43577-022-00364-9)<br><small>MRS Bulletin · with Mihrimah Ozkan</small> | DAC | 31 |
+| 2021 | [Direct air capture of CO<sub>2</sub><i>via</i>crystal engineering](https://doi.org/10.1039/d1sc04097a)<br><small>Chemical Science</small> | DAC | 80 |
 
 ---
 

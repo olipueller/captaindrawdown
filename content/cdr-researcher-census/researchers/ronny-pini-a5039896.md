@@ -1,7 +1,7 @@
 ---
 title: "Ronny Pini"
 description: "Ronny Pini, Imperial College London, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 17 by activity, 2561 by citations. 221 publications, h-index 38, 5,885 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/ronny-pini-a5039896/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 7, Cross-cutting CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 7, Cross-cutting CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Structured sorbents for Direct Air Capture: The impact of materials and chemicals on performance](https://openalex.org/W7166531872) | DAC | 1 |
-| 2026 | [Structured sorbents for direct air capture: the impact of materials and chemicals on performance](https://openalex.org/W7163847645) | DAC | 0 |
-| 2026 | [Temporal aggregation bias in model-based Direct Air Capture performance under weather variability](https://openalex.org/W7165366316) | DAC | 0 |
-| 2026 | [Structured sorbents for Direct Air Capture: The impact of materials and chemicals on performance](https://openalex.org/W7166680246) | DAC | 0 |
-| 2026 | [Well-Mixed Dynamic Adsorber Model for Designing Cyclic Adsorption Processes](https://openalex.org/W7203832871) | DAC | 0 |
-| 2025 | [Enhanced Oil Recovery using carbon dioxide directly captured from air does not enable carbon-neutral oil](https://doi.org/10.31223/x55x4s) | DAC | 1 |
-| 2025 | [Design of Adsorption-based Direct Air Capture Units Towards Negative Emissions](https://doi.org/10.2139/ssrn.5067557) | DAC | 0 |
-| 2025 | [IDRIC Frontiers Report Carbon Dioxide Removal Technologies](https://doi.org/10.2139/ssrn.5332744) | Cross-cutting CDR | 0 |
+| 2026 | [Structured sorbents for Direct Air Capture: The impact of materials and chemicals on performance](https://openalex.org/W7166531872)<br><small>with [Nicole Ferru](/cdr-researcher-census/researchers/nicole-ferru-a5053323/), [André Bardow](/cdr-researcher-census/researchers/andre-bardow-a5054788/), David M. Büchner, Martina Saporito, Moritz Bischof, [Quirin Grossmann](/cdr-researcher-census/researchers/quirin-grossmann-a5051401/) and 2 more</small> | DAC | 1 |
+| 2026 | [Structured sorbents for direct air capture: the impact of materials and chemicals on performance](https://openalex.org/W7163847645)<br><small>with N Ferru, [Nicole Ferru](/cdr-researcher-census/researchers/nicole-ferru-a5053323/), Andre Bardow, [André Bardow](/cdr-researcher-census/researchers/andre-bardow-a5054788/), David M. Büchner, Martina Saporito and 4 more</small> | DAC | 0 |
+| 2026 | [Temporal aggregation bias in model-based Direct Air Capture performance under weather variability](https://openalex.org/W7165366316)<br><small>with Eleni Chalasti, Gbemi Oluleye, Maria M. Papathanasiou</small> | DAC | 0 |
+| 2026 | [Structured sorbents for Direct Air Capture: The impact of materials and chemicals on performance](https://openalex.org/W7166680246)<br><small>with [Nicole Ferru](/cdr-researcher-census/researchers/nicole-ferru-a5053323/), André Bardow, [André Bardow](/cdr-researcher-census/researchers/andre-bardow-a5054788/), David M. Büchner, Martina Saporito, Moritz Bischof and 3 more</small> | DAC | 0 |
+| 2026 | [Well-Mixed Dynamic Adsorber Model for Designing Cyclic Adsorption Processes](https://openalex.org/W7203832871)<br><small>preprint · with Hassan Azzan, Adam Ward, Ayça Yilmaz, Camille Petit, David Danaci</small> | DAC | 0 |
+| 2025 | [Enhanced Oil Recovery using carbon dioxide directly captured from air does not enable carbon-neutral oil](https://doi.org/10.31223/x55x4s)<br><small>preprint · with Antonio Gasós, Viola Becattini, [Marco Mazzotti](/cdr-researcher-census/researchers/marco-mazzotti-a5038211/)</small> | DAC | 1 |
+| 2025 | [Design of Adsorption-based Direct Air Capture Units Towards Negative Emissions](https://doi.org/10.2139/ssrn.5067557)<br><small>SSRN Electronic Journal · with Adam Ward, Maria M. Papathanasiou</small> | DAC | 0 |
+| 2025 | [IDRIC Frontiers Report Carbon Dioxide Removal Technologies](https://doi.org/10.2139/ssrn.5332744)<br><small>SSRN Electronic Journal · with Isobel H. Marr, Amir Badiee, Clair Gough, Lawrence E. Armstrong, [Muhammad Akram](/cdr-researcher-census/researchers/muhammad-akram-a5083409/), [Phil Renforth](/cdr-researcher-census/researchers/phil-renforth-a5011758/) and 1 more</small> | Cross-cutting CDR | 0 |
 
 ---
 

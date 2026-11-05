@@ -1,7 +1,7 @@
 ---
 title: "Kati Koponen"
 description: "Kati Koponen, VTT Technical Research Centre of Finland, Finland. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 22 by activity, 1296 by citations. 52 publications, h-index 14, 711 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/kati-koponen-a5091330/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 5, DAC 3, Biochar 2, Enhanced Weathering 2, Cross-cutting CDR 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 5, DAC 3, Biochar 2, Enhanced Weathering 2, Cross-cutting CDR 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Cascading wood use into bioenergy with carbon capture and storage ensures continuous and enduring temperature reduction](https://openalex.org/W7138856057) | BECCS | 4 |
-| 2026 | [Long-term scenarios and energy system impacts of technological carbon dioxide removal deployment in Finland](https://openalex.org/W7140482602) | BECCS; Biochar; DAC; Enhanced Weathering | 0 |
-| 2026 | [Bioperäisen hiilidioksidin tulevaisuus Suomessa – Arvonlisäystä metsäteollisuuden korkeamman jalostusasteen tuotteista ja hiilidioksiditaloudesta](https://openalex.org/W7165054046) | BECCS | 0 |
-| 2025 | [Quantifying Climate Change Effects of Bioenergy and <scp>BECCS</scp>: Critical Considerations and Guidance on Methodology](https://doi.org/10.1111/gcbb.70070) | BECCS | 4 |
-| 2025 | [District heating with negative emissions – direct air carbon capture and storage combined with small modular reactors](https://doi.org/10.1016/j.ccst.2025.100533) | DAC | 1 |
-| 2024 | [Responsible carbon dioxide removals and the EU’s 2040 climate target](https://doi.org/10.1088/1748-9326/ad6d83) | Cross-cutting CDR | 14 |
-| 2024 | [Sustainable negative emissions in Europe: evaluating scenarios to meet carbon neutrality by 2050](https://doi.org/10.1088/1748-9326/ad71e1) | BECCS; Biochar; DAC; Enhanced Weathering | 6 |
-| 2024 | [Modelling of Demands of Selected Minerals and Metals in Clean Energy Transition with 1.5–2.0 °C Mitigation Targets](https://doi.org/10.1007/978-3-031-58897-6_10) | Cross-cutting CDR | 3 |
+| 2026 | [Cascading wood use into bioenergy with carbon capture and storage ensures continuous and enduring temperature reduction](https://openalex.org/W7138856057)<br><small>with George D. Bishop, [Annette Cowie](/cdr-researcher-census/researchers/annette-cowie-a5018651/), [Christiane Hennig](/cdr-researcher-census/researchers/christiane-hennig-a5045674/), Colm Duffy, [Göran Berndes](/cdr-researcher-census/researchers/goran-berndes-a5088119/), James Gaffey and 3 more</small> | BECCS | 4 |
+| 2026 | [Long-term scenarios and energy system impacts of technological carbon dioxide removal deployment in Finland](https://openalex.org/W7140482602)<br><small>with Johanna Markkanen, johanna-meh, Tiina Koljonen, Tomi Lindroos, Heidi Kirppu</small> | BECCS; Biochar; DAC; Enhanced Weathering | 0 |
+| 2026 | [Bioperäisen hiilidioksidin tulevaisuus Suomessa – Arvonlisäystä metsäteollisuuden korkeamman jalostusasteen tuotteista ja hiilidioksiditaloudesta](https://openalex.org/W7165054046)<br><small>with Antti Arasto, Esa Vakkilainen, Jussi Lintunen, Jyri Seppälä, Marc Borrega, Mari Heikkinen and 6 more</small> | BECCS | 0 |
+| 2025 | [Quantifying Climate Change Effects of Bioenergy and <scp>BECCS</scp>: Critical Considerations and Guidance on Methodology](https://doi.org/10.1111/gcbb.70070)<br><small>GCB Bioenergy · with [Annette Cowie](/cdr-researcher-census/researchers/annette-cowie-a5018651/), Anthony Benoist, Eric Marland, [Göran Berndes](/cdr-researcher-census/researchers/goran-berndes-a5088119/), Leif Gustavsson, Miguel Brandão and 4 more</small> | BECCS | 4 |
+| 2025 | [District heating with negative emissions – direct air carbon capture and storage combined with small modular reactors](https://doi.org/10.1016/j.ccst.2025.100533)<br><small>Carbon Capture Science & Technology · with Heidi Kirppu, Esa Pursiheimo, Miika Rämä, Tomi J. Lindroos, Tomi Lindroos</small> | DAC | 1 |
+| 2024 | [Responsible carbon dioxide removals and the EU’s 2040 climate target](https://doi.org/10.1088/1748-9326/ad6d83)<br><small>Environmental Research Letters · with A. J. Paul, Alice Evatt, Chieh-Yu Lee, David Reiner, Fabian Levihn, Goda Perlaviciute and 13 more</small> | Cross-cutting CDR | 14 |
+| 2024 | [Sustainable negative emissions in Europe: evaluating scenarios to meet carbon neutrality by 2050](https://doi.org/10.1088/1748-9326/ad71e1)<br><small>Environmental Research Letters · with Johanna Markkanen, Antti Lehtilä</small> | BECCS; Biochar; DAC; Enhanced Weathering | 6 |
+| 2024 | [Modelling of Demands of Selected Minerals and Metals in Clean Energy Transition with 1.5–2.0 °C Mitigation Targets](https://doi.org/10.1007/978-3-031-58897-6_10)<br><small>Lecture notes in energy · with Tiina Koljonen, Antti Lehtilä, Kirsikka Kiviranta, Lassi Similä</small> | Cross-cutting CDR | 3 |
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Xavier Dupla"
 description: "Xavier Dupla, ETH Zurich, Switzerland. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 18 by activity, 89 by citations. 24 publications, h-index 7, 276 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/xavier-dupla-a5010537/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,27 +43,27 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-17 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 17. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+17 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 17. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Uncertainties of enhanced rock weathering for climate-change mitigation](https://doi.org/10.1038/s43017-026-00761-7) | Enhanced Weathering | 13 |
-| 2026 | [Enhanced rock weathering in grassland: Impacts of basalt dust on hay meadow soil, forage, and floristic diversity](https://openalex.org/W7162113197) | Enhanced Weathering | 1 |
-| 2026 | [An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering](https://openalex.org/W7168623015) | Enhanced Weathering | 1 |
-| 2026 | [Uncertainties of enhanced rock weathering for climate-change mitigation](https://doi.org/10.3220/253-2026-40) | Enhanced Weathering | 0 |
-| 2026 | [Basaltic rock powder addition increases soil macrofauna but shows limited impact on microbial communities: insights from a temperate field trial](https://doi.org/10.1016/j.ejsobi.2026.103817) | Enhanced Weathering | 0 |
-| 2026 | [Accelerating weathering, lessons from a century of soil rejuvenation](https://openalex.org/W7163577961) | Enhanced Weathering | 0 |
-| 2026 | [Accelerating weathering, lessons from a century of soil rejuvenation](https://openalex.org/W7167792776) | Enhanced Weathering | 0 |
-| 2026 | [Field evidence for rapid precipitation of non-crystalline secondary phases during enhanced rock weathering](https://openalex.org/W7220653359) | Enhanced Weathering | 0 |
-| 2025 | [Three Years of Field Trials Indicate a Sustained Enhanced Rock Weathering Signal with Limited CO <sub>2</sub> Removal](https://doi.org/10.1021/acs.est.5c09820) | Enhanced Weathering | 9 |
-| 2025 | [Geochemical Drivers of Enhanced Rock Weathering in Soils](https://doi.org/10.1002/9781394204847.ch13) | Enhanced Weathering | 8 |
-| 2025 | [Biased selection and incomplete characterization of feedstock materials in enhanced rock weathering experiments](https://doi.org/10.1016/j.apgeochem.2025.106630) | Enhanced Weathering | 1 |
-| 2025 | [Three Years of Field Trials Indicate a Sustained Enhanced Rock Weathering Signal with Limited CO₂ Removal](http://hdl.handle.net/20.500.11850/789952) | Enhanced Weathering | 0 |
-| 2024 | [Let the dust settle: Impact of enhanced rock weathering on soil biological, physical, and geochemical fertility](https://doi.org/10.1016/j.scitotenv.2024.176297) | Enhanced Weathering | 36 |
-| 2024 | [Enhanced Rock Weathering in Grassland: Benefits and Risks of Basalt Rock Dust to Soils, Forage Production, and Floristic Diversity in a Slightly Acidic Hay Meadow](https://doi.org/10.2139/ssrn.4937540) | Enhanced Weathering | 4 |
-| 2024 | [Assessing the biogeochemical impacts of terrestrial enhanced rock weathering on soil fertility](https://doi.org/10.5194/egusphere-egu24-20481) | Enhanced Weathering | 0 |
-| 2023 | [Potential accumulation of toxic trace elements in soils during enhanced rock weathering](https://doi.org/10.1111/ejss.13343) | Enhanced Weathering | 93 |
-| 2021 | [MANAGING CLIMATE CHANGE AND EXPECTATIONS: WHAT IS ENHANCED ROCK WEATHERING REALISTICALLY CAPABLE OF?](https://doi.org/10.7185/gold2021.4576) | Enhanced Weathering | 0 |
+| 2026 | [Uncertainties of enhanced rock weathering for climate-change mitigation](https://doi.org/10.1038/s43017-026-00761-7)<br><small>Nature Reviews Earth & Environment · with Marcus Schiedung, Axel Don, Benjamin Möller, Ennio Facq, [Kirsty Harrington](/cdr-researcher-census/researchers/kirsty-harrington-a5003735/), Robert Hilton and 4 more</small> | Enhanced Weathering | 13 |
+| 2026 | [Enhanced rock weathering in grassland: Impacts of basalt dust on hay meadow soil, forage, and floristic diversity](https://openalex.org/W7162113197)<br><small>with Derek Stuart Bell, [David J. Beerling](/cdr-researcher-census/researchers/david-j-beerling-a5073877/), [Dimitar Z. Epihov](/cdr-researcher-census/researchers/dimitar-z-epihov-a5056786/), Jonathan R. Leake</small> | Enhanced Weathering | 1 |
+| 2026 | [An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering](https://openalex.org/W7168623015)<br><small>preprint · with [Tim Jesper Suhrhoff](/cdr-researcher-census/researchers/tim-jesper-suhrhoff-a5081686/), Abby Lunstrum, Alexandra Klemme, Anu Khan, [Arthur Vienne](/cdr-researcher-census/researchers/arthur-vienne-a5086565/), Beck Woollen and 95 more</small> | Enhanced Weathering | 1 |
+| 2026 | [Uncertainties of enhanced rock weathering for climate-change mitigation](https://doi.org/10.3220/253-2026-40)<br><small>OpenAgrar · with Marcus Schiedung, Axel Don, Benjamin Möller, Ennio Facq, [Kirsty Harrington](/cdr-researcher-census/researchers/kirsty-harrington-a5003735/), Robert Hilton and 4 more</small> | Enhanced Weathering | 0 |
+| 2026 | [Basaltic rock powder addition increases soil macrofauna but shows limited impact on microbial communities: insights from a temperate field trial](https://doi.org/10.1016/j.ejsobi.2026.103817)<br><small>European Journal of Soil Biology · with Romane Claustre, David Marchand, Natacha Bodenhausen, Sonja Reinhard, [Stéphanie Grand](/cdr-researcher-census/researchers/stephanie-grand-a5023581/)</small> | Enhanced Weathering | 0 |
+| 2026 | [Accelerating weathering, lessons from a century of soil rejuvenation](https://openalex.org/W7163577961)<br><small>with Budiman Minasny</small> | Enhanced Weathering | 0 |
+| 2026 | [Accelerating weathering, lessons from a century of soil rejuvenation](https://openalex.org/W7167792776)<br><small>with Budiman Minasny</small> | Enhanced Weathering | 0 |
+| 2026 | [Field evidence for rapid precipitation of non-crystalline secondary phases during enhanced rock weathering](https://openalex.org/W7220653359)<br><small>preprint · with Emma Bonvin, [Stéphanie Grand](/cdr-researcher-census/researchers/stephanie-grand-a5023581/)</small> | Enhanced Weathering | 0 |
+| 2025 | [Three Years of Field Trials Indicate a Sustained Enhanced Rock Weathering Signal with Limited CO <sub>2</sub> Removal](https://doi.org/10.1021/acs.est.5c09820)<br><small>Environmental Science & Technology · with [Matteo B. Bertagni](/cdr-researcher-census/researchers/matteo-b-bertagni-a5090007/), [Stéphanie Grand](/cdr-researcher-census/researchers/stephanie-grand-a5023581/)</small> | Enhanced Weathering | 9 |
+| 2025 | [Geochemical Drivers of Enhanced Rock Weathering in Soils](https://doi.org/10.1002/9781394204847.ch13)<br><small>with Benjamin Möller, [Carlos Paulo](/cdr-researcher-census/researchers/carlos-paulo-a5077581/), [Ian Power](/cdr-researcher-census/researchers/ian-power-a5058336/), Susan L. Brantley, [Stéphanie Grand](/cdr-researcher-census/researchers/stephanie-grand-a5023581/)</small> | Enhanced Weathering | 8 |
+| 2025 | [Biased selection and incomplete characterization of feedstock materials in enhanced rock weathering experiments](https://doi.org/10.1016/j.apgeochem.2025.106630)<br><small>Applied Geochemistry · with Benjamin Möller</small> | Enhanced Weathering | 1 |
+| 2025 | [Three Years of Field Trials Indicate a Sustained Enhanced Rock Weathering Signal with Limited CO₂ Removal](http://hdl.handle.net/20.500.11850/789952)<br><small>Repository for Publications and Research Data (ETH Zurich) · with [Matteo B. Bertagni](/cdr-researcher-census/researchers/matteo-b-bertagni-a5090007/), [Stéphanie Grand](/cdr-researcher-census/researchers/stephanie-grand-a5023581/)</small> | Enhanced Weathering | 0 |
+| 2024 | [Let the dust settle: Impact of enhanced rock weathering on soil biological, physical, and geochemical fertility](https://doi.org/10.1016/j.scitotenv.2024.176297)<br><small>The Science of The Total Environment · with Emma Bonvin, Iris Graf, Renée‐Claire Le Bayon, Romane Claustre, [Stéphanie Grand](/cdr-researcher-census/researchers/stephanie-grand-a5023581/)</small> | Enhanced Weathering | 36 |
+| 2024 | [Enhanced Rock Weathering in Grassland: Benefits and Risks of Basalt Rock Dust to Soils, Forage Production, and Floristic Diversity in a Slightly Acidic Hay Meadow](https://doi.org/10.2139/ssrn.4937540)<br><small>SSRN Electronic Journal (preprint) · with Derek Stuart Bell, [David J. Beerling](/cdr-researcher-census/researchers/david-j-beerling-a5073877/), [Dimitar Z. Epihov](/cdr-researcher-census/researchers/dimitar-z-epihov-a5056786/), Jonathan R. Leake</small> | Enhanced Weathering | 4 |
+| 2024 | [Assessing the biogeochemical impacts of terrestrial enhanced rock weathering on soil fertility](https://doi.org/10.5194/egusphere-egu24-20481)<br><small>preprint · with Emma Bonvin, Iris Graf, Renée‐Claire Le Bayon, Romane Claustre, [Stéphanie Grand](/cdr-researcher-census/researchers/stephanie-grand-a5023581/)</small> | Enhanced Weathering | 0 |
+| 2023 | [Potential accumulation of toxic trace elements in soils during enhanced rock weathering](https://doi.org/10.1111/ejss.13343)<br><small>European Journal of Soil Science · with Benjamin Möller, Philippe C. Baveye, [Stéphanie Grand](/cdr-researcher-census/researchers/stephanie-grand-a5023581/)</small> | Enhanced Weathering | 93 |
+| 2021 | [MANAGING CLIMATE CHANGE AND EXPECTATIONS: WHAT IS ENHANCED ROCK WEATHERING REALISTICALLY CAPABLE OF?](https://doi.org/10.7185/gold2021.4576)<br><small>Goldschmidt2021 abstracts · with [Stéphanie Grand](/cdr-researcher-census/researchers/stephanie-grand-a5023581/)</small> | Enhanced Weathering | 0 |
 
 ---
 

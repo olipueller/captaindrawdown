@@ -1,7 +1,7 @@
 ---
 title: "Robert W. Brown"
 description: "Robert W. Brown, Bangor University, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 88 by activity, 4678 by citations. 49 publications, h-index 19, 1,399 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/robert-w-brown-a5003791/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,17 +43,17 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 7. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 7. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Does size matter? Biochar particle size and nitrogen addition drive biochar-derived carbon mineralisation and soil organic carbon turnover](https://openalex.org/W7170581162) | Biochar | 0 |
-| 2025 | [Rewetting alongside biochar and sulphate addition mitigates greenhouse gas emissions and retain carbon in degraded upland peatlands](https://doi.org/10.1016/j.soilbio.2025.109814) | Biochar | 10 |
-| 2025 | [Greenhouse gas removal in agricultural peatland via raised water levels and soil amendment](https://openalex.org/W4407818002) | Biochar | 9 |
-| 2025 | [Understanding the legacy impact of biochar on soil function and carbon stocks &amp;#8211; evidence from a 13-year field experiment](https://doi.org/10.5194/egusphere-egu25-16585) | Biochar | 1 |
-| 2025 | [Quantifying Inertinite Carbon in Biochar](https://doi.org/10.2139/ssrn.5385345) | Biochar | 0 |
-| 2025 | [Does size matter? Biochar particle size and nitrogen addition drives mineralisation and soil organic matter turnover](https://doi.org/10.2139/ssrn.5414076) | Biochar | 0 |
-| 2023 | [Biochar application to temperate grasslands: challenges and opportunities for delivering multiple ecosystem services](https://openalex.org/W4380372167) | Biochar | 16 |
+| 2026 | [Does size matter? Biochar particle size and nitrogen addition drive biochar-derived carbon mineralisation and soil organic carbon turnover](https://openalex.org/W7170581162)<br><small>with Charlie J. Davis, D Madoc Jones, Davey L. Jones, David R. Chadwick, [David R. Chadwick](/cdr-researcher-census/researchers/david-r-chadwick-a5000532/), Robert W. Brown</small> | Biochar | 0 |
+| 2025 | [Rewetting alongside biochar and sulphate addition mitigates greenhouse gas emissions and retain carbon in degraded upland peatlands](https://doi.org/10.1016/j.soilbio.2025.109814)<br><small>Soil Biology and Biochemistry · with Peduruhewa H. Jeewani, Benjamin P. Roberts, Chris Evans, [David R. Chadwick](/cdr-researcher-census/researchers/david-r-chadwick-a5000532/), Jack Cook, M. D. Fraser and 1 more</small> | Biochar | 10 |
+| 2025 | [Greenhouse gas removal in agricultural peatland via raised water levels and soil amendment](https://openalex.org/W4407818002)<br><small>with Peduruhewa H. Jeewani, [Davey L. Jones](/cdr-researcher-census/researchers/davey-l-jones-a5064381/), [David R. Chadwick](/cdr-researcher-census/researchers/david-r-chadwick-a5000532/), Jennifer M. Rhymes, Niall P. McNamara, Chris Evans</small> | Biochar | 9 |
+| 2025 | [Understanding the legacy impact of biochar on soil function and carbon stocks &amp;#8211; evidence from a 13-year field experiment](https://doi.org/10.5194/egusphere-egu25-16585)<br><small>preprint · with Clement N. Uguna, [Colin E. Snape](/cdr-researcher-census/researchers/colin-e-snape-a5038069/), [David R. Chadwick](/cdr-researcher-census/researchers/david-r-chadwick-a5000532/), Lee A. Stevens, Wei Li, William Meredith and 1 more</small> | Biochar | 1 |
+| 2025 | [Quantifying Inertinite Carbon in Biochar](https://doi.org/10.2139/ssrn.5385345)<br><small>SSRN Electronic Journal (preprint) · with [Hamed Sanei](/cdr-researcher-census/researchers/hamed-sanei-a5054476/), Anna Lehner, [Arka Rudra](/cdr-researcher-census/researchers/arka-rudra-a5091328/), [David Chiaramonti](/cdr-researcher-census/researchers/david-chiaramonti-a5071729/), Erica Dorr, Fariborz Goodarzi and 10 more</small> | Biochar | 0 |
+| 2025 | [Does size matter? Biochar particle size and nitrogen addition drives mineralisation and soil organic matter turnover](https://doi.org/10.2139/ssrn.5414076)<br><small>SSRN Electronic Journal (preprint) · with Caroline A. Davis, D. R. Chadwick, David R. Jones</small> | Biochar | 0 |
+| 2023 | [Biochar application to temperate grasslands: challenges and opportunities for delivering multiple ecosystem services](https://openalex.org/W4380372167)<br><small>with [Colin E. Snape](/cdr-researcher-census/researchers/colin-e-snape-a5038069/), [David R. Chadwick](/cdr-researcher-census/researchers/david-r-chadwick-a5000532/), Genevieve R. Hodgins, Helen West, Paul N. Wilson, Tom Bott and 1 more</small> | Biochar | 16 |
 
 ---
 

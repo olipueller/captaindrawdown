@@ -1,7 +1,7 @@
 ---
 title: "Daniela Thrän"
 description: "Daniela Thrän. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 66 by activity, 2926 by citations. 3 publications, h-index n/a, 0 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/daniela-thran-a5140066/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,7 +34,7 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-3 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 3. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+3 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 3. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|

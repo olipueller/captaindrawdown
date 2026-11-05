@@ -1,7 +1,7 @@
 ---
 title: "Teng Wang"
 description: "Teng Wang, Wuhan University of Technology, China. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 89 by activity, 3457 by citations. 159 publications, h-index 40, 7,118 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/teng-wang-a5100348/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,14 +43,14 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-4 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 4. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+4 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 4. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [An Internally-Recycling Electrochemical Hydrogen Pump for Direct Air Capture](https://openalex.org/W7168516607) | DAC | 0 |
-| 2026 | [A Modeling Study of Anion Exchange Membrane-Based Electrochemical H <sub>2</sub> Pump CO <sub>2</sub> Separator with Direct Air Capture](https://openalex.org/W7169039065) | DAC | 0 |
-| 2026 | [A Ni(OH)2 symmetric battery cell for hydroxide exchange membrane-based direct air capture of CO2](https://openalex.org/W7213973458) | DAC | 0 |
-| 2024 | [Hydroxide Exchange Membrane Carbon Capture (HEMCC) Using Nickel Hydroxide Batteries and Flow-through Membranes](https://doi.org/10.1149/ma2024-02121mtgabs) | DAC | 0 |
+| 2026 | [An Internally-Recycling Electrochemical Hydrogen Pump for Direct Air Capture](https://openalex.org/W7168516607)<br><small>with Lin Shi, [Brian P. Setzler](/cdr-researcher-census/researchers/brian-p-setzler-a5046492/), Justin Harrington, Miguel Martínez, Yun Zhao, [Yushan Yan](/cdr-researcher-census/researchers/yushan-yan-a5101710/)</small> | DAC | 0 |
+| 2026 | [A Modeling Study of Anion Exchange Membrane-Based Electrochemical H <sub>2</sub> Pump CO <sub>2</sub> Separator with Direct Air Capture](https://openalex.org/W7169039065)<br><small>with [Brian P. Setzler](/cdr-researcher-census/researchers/brian-p-setzler-a5046492/), Lin Shi, Miguel Martínez, [Yushan Yan](/cdr-researcher-census/researchers/yushan-yan-a5101710/)</small> | DAC | 0 |
+| 2026 | [A Ni(OH)2 symmetric battery cell for hydroxide exchange membrane-based direct air capture of CO2](https://openalex.org/W7213973458)<br><small>with James R. Buchen, Ben Achrai, Braden K. Geiger, [Brian P. Setzler](/cdr-researcher-census/researchers/brian-p-setzler-a5046492/), Jean-Philippe Hiegel, Maurice Artoul and 2 more</small> | DAC | 0 |
+| 2024 | [Hydroxide Exchange Membrane Carbon Capture (HEMCC) Using Nickel Hydroxide Batteries and Flow-through Membranes](https://doi.org/10.1149/ma2024-02121mtgabs)<br><small>ECS Meeting Abstracts · with James R. Buchen, [Brian P. Setzler](/cdr-researcher-census/researchers/brian-p-setzler-a5046492/), [Yushan Yan](/cdr-researcher-census/researchers/yushan-yan-a5101710/)</small> | DAC | 0 |
 
 ---
 

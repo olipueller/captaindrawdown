@@ -1,7 +1,7 @@
 ---
 title: "Murat Yılmaz"
 description: "Murat Yılmaz, Osmaniye Korkut Ata University, Turkey. 140 publications, h-index 41, 3,691 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/murat-ylmaz-a5100637/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,19 +42,19 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 9. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 9. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Cost analysis and adsorption efficiency of chemically activated biochar from rubber wood sawdust for ciprofloxacin removal in environmental remediation](https://doi.org/10.1007/s13399-025-07048-9) | Biochar | 5 |
-| 2025 | [Modeling studies of the adsorption of Methyl Red and Acid Yellow 36 dyes by sulphonated Ulva lactuca carbon](https://doi.org/10.1038/s41598-025-29983-3) | Biochar | 4 |
-| 2024 | [KMnO4-activated spinach waste biochar: An efficient adsorbent for adsorption of heavy metal ions in aqueous solution](https://doi.org/10.1016/j.colsurfa.2024.133174) | Biochar | 50 |
-| 2024 | [Ipoma batatas (sweet potato) leaf and leaf-based biochar as potential adsorbents for procion orange MX-2R removal from aqueous solution](https://doi.org/10.1016/j.jaap.2024.106876) | Biochar | 22 |
-| 2023 | [Valorization of microwave-assisted H3PO4-activated plantain (Musa paradisiacal L) leaf biochar for malachite green sequestration: models and mechanism of adsorption](https://doi.org/10.1016/j.rineng.2023.101129) | Biochar | 59 |
-| 2023 | [Isotherm and kinetic studies of acid yellow 11 dye adsorption from wastewater using Pisum Sativum peels microporous activated carbon](https://doi.org/10.1038/s41598-023-31433-x) | Biochar | 47 |
-| 2022 | [African almond (Terminalia catappa L) leaves biochar prepared through pyrolysis using H3PO4 as chemical activator for sequestration of methylene blue dye](https://doi.org/10.1016/j.rineng.2022.100385) | Biochar | 124 |
-| 2022 | [Synthesis of high surface area mesoporous ZnCl2–activated cocoa (Theobroma cacao L) leaves biochar derived via pyrolysis for crystal violet dye removal](https://doi.org/10.1016/j.heliyon.2022.e10873) | Biochar | 96 |
-| 2022 | [Synthesis of High Surface Area Mesoporous ZnCl2–Activated Cocoa (Theobroma Cacao L) Leaves Biochar Derived Via Pyrolysis for Crystal Violet Dye Removal](https://doi.org/10.2139/ssrn.4134237) | Biochar | 4 |
+| 2026 | [Cost analysis and adsorption efficiency of chemically activated biochar from rubber wood sawdust for ciprofloxacin removal in environmental remediation](https://doi.org/10.1007/s13399-025-07048-9)<br><small>Biomass Conversion and Biorefinery · with Arunita Pal, Animesh Debnath, Dipaloy Datta, Rohidas Bhoi, Sajal Rudra Paul, Subhajit Das and 1 more</small> | Biochar | 5 |
+| 2025 | [Modeling studies of the adsorption of Methyl Red and Acid Yellow 36 dyes by sulphonated Ulva lactuca carbon](https://doi.org/10.1038/s41598-025-29983-3)<br><small>Scientific Reports · with Mohamed A. Hassaan, Amany El Sikaily, Amany G. M. Shoaib, Mohamed A. El-Nemr, Ahmed El Nemr</small> | Biochar | 4 |
+| 2024 | [KMnO4-activated spinach waste biochar: An efficient adsorbent for adsorption of heavy metal ions in aqueous solution](https://doi.org/10.1016/j.colsurfa.2024.133174)<br><small>Colloids and Surfaces A Physicochemical and Engineering Aspects · with Quyun Chen, Ge He, Yuan Wang, Shaojun Yuan</small> | Biochar | 50 |
+| 2024 | [Ipoma batatas (sweet potato) leaf and leaf-based biochar as potential adsorbents for procion orange MX-2R removal from aqueous solution](https://doi.org/10.1016/j.jaap.2024.106876)<br><small>Journal of Analytical and Applied Pyrolysis · with Jamiu Mosebolatan Jabar, Matthew A. Adebayo, Tella Adewale Akanni Taleat, Rangabhashiyam Selvasembian</small> | Biochar | 22 |
+| 2023 | [Valorization of microwave-assisted H3PO4-activated plantain (Musa paradisiacal L) leaf biochar for malachite green sequestration: models and mechanism of adsorption](https://doi.org/10.1016/j.rineng.2023.101129)<br><small>Results in Engineering · with Jamiu Mosebolatan Jabar, Matthew A. Adebayo, Yisau Adelaja Odusote, Rangabhashiyam Selvasembian</small> | Biochar | 59 |
+| 2023 | [Isotherm and kinetic studies of acid yellow 11 dye adsorption from wastewater using Pisum Sativum peels microporous activated carbon](https://doi.org/10.1038/s41598-023-31433-x)<br><small>Scientific Reports · with Mohamed A. El-Nemr, Mohamed A. Hassaan, Safaa Ragab, Ahmed El Nemr</small> | Biochar | 47 |
+| 2022 | [African almond (Terminalia catappa L) leaves biochar prepared through pyrolysis using H3PO4 as chemical activator for sequestration of methylene blue dye](https://doi.org/10.1016/j.rineng.2022.100385)<br><small>Results in Engineering · with Jamiu Mosebolatan Jabar, Yisau Adelaja Odusote, Yusuf Timilehin Ayinde</small> | Biochar | 124 |
+| 2022 | [Synthesis of high surface area mesoporous ZnCl2–activated cocoa (Theobroma cacao L) leaves biochar derived via pyrolysis for crystal violet dye removal](https://doi.org/10.1016/j.heliyon.2022.e10873)<br><small>Heliyon · with Jamiu Mosebolatan Jabar, Ignatius Adekunle Owokotomo, Matthew A. Adebayo, Yisau Adelaja Odusote</small> | Biochar | 96 |
+| 2022 | [Synthesis of High Surface Area Mesoporous ZnCl2–Activated Cocoa (Theobroma Cacao L) Leaves Biochar Derived Via Pyrolysis for Crystal Violet Dye Removal](https://doi.org/10.2139/ssrn.4134237)<br><small>SSRN Electronic Journal · with Jamiu Mosebolatan Jabar, Ignatius Adekunle Owokoyomo, Matthew A. Adebayo, Yisau Adelaja Odusote</small> | Biochar | 4 |
 
 ---
 

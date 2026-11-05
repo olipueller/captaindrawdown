@@ -1,7 +1,7 @@
 ---
 title: "Nanthi Bolan"
 description: "Nanthi Bolan, The University of Western Australia, Australia. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 100 by activity, 95 by citations. 817 publications, h-index 142, 82,868 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/nanthi-bolan-a5007065/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 8. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 8. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Soil organic carbon decomposition in response to moisture, microbial communities, and biochar addition in Alfisols](https://doi.org/10.1007/s42773-025-00513-8) | Biochar | 10 |
-| 2026 | [Weathering of biochar: implications to soil health, carbon sequestration and soil remediation](https://openalex.org/W7162297556) | Biochar | 6 |
-| 2026 | [Alternate wet‑dry irrigation coupled with magnesium-biochar fertilizer improves carbon sequestration, NH₃ mitigation, and water‑N use efficiency in rice paddies](https://doi.org/10.1016/j.eti.2026.104765) | Biochar | 1 |
-| 2025 | [Biochar and moisture variability shape soil carbon pools via microbial carbon-degrading genes](https://doi.org/10.1016/j.jenvman.2025.128157) | Biochar | 1 |
-| 2022 | [Biochar-microorganism interactions for organic pollutant remediation: Challenges and perspectives](https://doi.org/10.1016/j.envpol.2022.119609) | Biochar | 236 |
-| 2022 | [Meta-Analysis for Quantifying Carbon Sequestration and Greenhouse Gas Emission in Paddy Soils One Year after Biochar Application](https://doi.org/10.3390/agronomy12123065) | Biochar | 23 |
-| 2022 | [The potential agronomic and environmental applications of biochar: Prospects and challenges](https://doi.org/10.1016/b978-0-12-822974-3.00027-6) | Biochar | 3 |
-| 2021 | [Biochar composites: Emerging trends, field successes and sustainability implications](https://doi.org/10.1111/sum.12731) | Biochar | 196 |
+| 2026 | [Soil organic carbon decomposition in response to moisture, microbial communities, and biochar addition in Alfisols](https://doi.org/10.1007/s42773-025-00513-8)<br><small>Biochar · with Yue Pan, Hongtao Zou, Jie Meng, Na Yu, Ruifan Ren, Tingting Tan and 3 more</small> | Biochar | 10 |
+| 2026 | [Weathering of biochar: implications to soil health, carbon sequestration and soil remediation](https://openalex.org/W7162297556)<br><small>with [Arthur Groß](/cdr-researcher-census/researchers/arthur-gro-a5072098/), David Houben, Joshua T. Padilla, José Lucas Martins Melo, Kurt Arnold Spokas, Kurt Spokas and 6 more</small> | Biochar | 6 |
+| 2026 | [Alternate wet‑dry irrigation coupled with magnesium-biochar fertilizer improves carbon sequestration, NH₃ mitigation, and water‑N use efficiency in rice paddies](https://doi.org/10.1016/j.eti.2026.104765)<br><small>Environmental Technology & Innovation · with Yanqi Li, Daocai Chi, Fuzheng Gong, Xuanming Wang, Yu Guan, qi wu and 1 more</small> | Biochar | 1 |
+| 2025 | [Biochar and moisture variability shape soil carbon pools via microbial carbon-degrading genes](https://doi.org/10.1016/j.jenvman.2025.128157)<br><small>Journal of Environmental Management · with Yue Pan, Hongpeng Guo, Hongtao Zou, Jie Meng, Na Yu, Tingting Tan and 5 more</small> | Biochar | 1 |
+| 2022 | [Biochar-microorganism interactions for organic pollutant remediation: Challenges and perspectives](https://doi.org/10.1016/j.envpol.2022.119609)<br><small>Environmental Pollution · with Santanu Mukherjee, Amit Bhatnagar, B. B. Basak, Binoy Sarkar, Kirk T. Semple, Olga Marchut-Mikołajczyk and 3 more</small> | Biochar | 236 |
+| 2022 | [Meta-Analysis for Quantifying Carbon Sequestration and Greenhouse Gas Emission in Paddy Soils One Year after Biochar Application](https://doi.org/10.3390/agronomy12123065)<br><small>Agronomy · with Fei Bu, Binoy Sarkar, [Jun Meng](/cdr-researcher-census/researchers/jun-meng-a5100619/), Qiong Nan, Wushuang Li, [Hailong Wang](/cdr-researcher-census/researchers/hailong-wang-a5100367/)</small> | Biochar | 23 |
+| 2022 | [The potential agronomic and environmental applications of biochar: Prospects and challenges](https://doi.org/10.1016/b978-0-12-822974-3.00027-6)<br><small>Elsevier eBooks · with Yujun Wang, Ping Wu, [Hailong Wang](/cdr-researcher-census/researchers/hailong-wang-a5100367/)</small> | Biochar | 3 |
+| 2021 | [Biochar composites: Emerging trends, field successes and sustainability implications](https://doi.org/10.1111/sum.12731)<br><small>Soil Use and Management · with Liuwei Wang, [Daniel C.W. Tsang](/cdr-researcher-census/researchers/daniel-cw-tsang-a5076771/), Daniel S. Alessi, [Jörg Rinklebe](/cdr-researcher-census/researchers/jorg-rinklebe-a5039520/), [Ondřej Mašek](/cdr-researcher-census/researchers/ondrej-masek-a5087096/), [Yong Sik Ok](/cdr-researcher-census/researchers/yong-sik-ok-a5053298/) and 1 more</small> | Biochar | 196 |
 
 ---
 

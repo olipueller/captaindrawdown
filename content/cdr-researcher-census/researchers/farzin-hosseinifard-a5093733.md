@@ -1,7 +1,7 @@
 ---
 title: "Farzin Hosseinifard"
 description: "Farzin Hosseinifard, K. N. Toosi University of Technology, IR. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 92 by activity, 1076 by citations. 31 publications, h-index 10, 246 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/farzin-hosseinifard-a5093733/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-5 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 4, BECCS 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+5 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 4, BECCS 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Decarbonizing cement industry via solar-hybrid capture: Synergistic Integration of microalgae, amine scrubbing, and direct air capture for enhanced energy and exergoeconomic performance](https://openalex.org/W7138935919) | DAC | 3 |
-| 2026 | [Next-gen carbon capture: Life cycle metrics of solar-integrated direct air capture technology](https://openalex.org/W7160073376) | DAC | 1 |
-| 2025 | [Techno-economic evaluation of solar-driven direct air capture under various configurations](https://doi.org/10.1016/j.enconman.2025.120233) | DAC | 14 |
-| 2025 | [Machine learning–enabled optimization of a direct air capture system integrated with enhanced oil recovery](https://doi.org/10.1016/j.rechem.2025.102836) | DAC | 3 |
-| 2025 | [Sustainable fuel and power from biomass: 4E analysis of a solar-assisted DME production system with CO₂ capture](https://doi.org/10.1016/j.btre.2025.e00928) | BECCS | 1 |
+| 2026 | [Decarbonizing cement industry via solar-hybrid capture: Synergistic Integration of microalgae, amine scrubbing, and direct air capture for enhanced energy and exergoeconomic performance](https://openalex.org/W7138935919)<br><small>with Mohammad Ebadollahi, [Majid Amidpour](/cdr-researcher-census/researchers/majid-amidpour-a5056424/)</small> | DAC | 3 |
+| 2026 | [Next-gen carbon capture: Life cycle metrics of solar-integrated direct air capture technology](https://openalex.org/W7160073376)<br><small>with Mohsen Nasrollahi, Mohsen Salimi, [Majid Amidpour](/cdr-researcher-census/researchers/majid-amidpour-a5056424/)</small> | DAC | 1 |
+| 2025 | [Techno-economic evaluation of solar-driven direct air capture under various configurations](https://doi.org/10.1016/j.enconman.2025.120233)<br><small>Energy Conversion and Management · with Mohsen Salimi, [Majid Amidpour](/cdr-researcher-census/researchers/majid-amidpour-a5056424/)</small> | DAC | 14 |
+| 2025 | [Machine learning–enabled optimization of a direct air capture system integrated with enhanced oil recovery](https://doi.org/10.1016/j.rechem.2025.102836)<br><small>Results in Chemistry · with Mohsen Salimi, Shahabeddin Ghasemzadeh, [Majid Amidpour](/cdr-researcher-census/researchers/majid-amidpour-a5056424/)</small> | DAC | 3 |
+| 2025 | [Sustainable fuel and power from biomass: 4E analysis of a solar-assisted DME production system with CO₂ capture](https://doi.org/10.1016/j.btre.2025.e00928)<br><small>Biotechnology Reports · with Atieh Kermani, Mohsen Salimi, [Majid Amidpour](/cdr-researcher-census/researchers/majid-amidpour-a5056424/)</small> | BECCS | 1 |
 
 ---
 

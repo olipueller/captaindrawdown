@@ -1,7 +1,7 @@
 ---
 title: "Peter Landschützer"
 description: "Peter Landschützer, Flanders Marine Institute, Belgium. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 88 by activity, 18 by citations. 227 publications, h-index 55, 25,522 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/peter-landschutzer-a5091506/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,19 +43,19 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 9. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 9. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Advancing Monitoring Reporting and Verification for marine Carbon Dioxide Removal](https://doi.org/10.5194/egusphere-egu26-7055) | Ocean CDR | 1 |
-| 2025 | [High-Resolution Coastal Carbon Dynamics in the Belgian Part of the North Sea Using Machine Learning](https://doi.org/10.5194/egusphere-egu25-15600) | Ocean CDR | 0 |
-| 2025 | [The Belgian Part of the North Sea as a test case to monitor human activities and climate change effects on the coastal carbon system](https://doi.org/10.5194/egusphere-egu25-15911) | Ocean CDR | 0 |
-| 2025 | [EMB Future Science Brief: Monitoring, Reporting and Verification for marine Carbon Dioxide Removal](https://openalex.org/W7149221167) | Ocean CDR | 0 |
-| 2024 | [A novel sea surface pCO <sub>2</sub> -product for the global coastal ocean resolving trends over 1982–2020](https://doi.org/10.5194/essd-16-421-2024) | Ocean CDR | 36 |
-| 2024 | [Accuracy of Ocean CO<sub>2</sub> Uptake Estimates at a Risk by a Reduction in the Data Collection](https://doi.org/10.1029/2024gl108502) | Ocean CDR | 17 |
-| 2024 | [High-resolution Neural Network Demonstrates Strong CO2 Source-Sink Juxtaposition in the Coastal Zone](https://doi.org/10.22541/essoar.171104140.04789392/v1) | Ocean CDR | 0 |
-| 2023 | [Trends and variability in the ocean carbon sink](https://doi.org/10.1038/s43017-022-00381-x) | Ocean CDR | 276 |
-| 2023 | [A novel sea surface pCO <sub>2</sub> -product for the global coastal ocean resolving trends over the 1982–2020 period](https://doi.org/10.5194/essd-2023-228) | Ocean CDR | 4 |
+| 2026 | [Advancing Monitoring Reporting and Verification for marine Carbon Dioxide Removal](https://doi.org/10.5194/egusphere-egu26-7055)<br><small>with [Helene Muri](/cdr-researcher-census/researchers/helene-muri-a5010735/), [Andreas Oschlies](/cdr-researcher-census/researchers/andreas-oschlies-a5063745/), Angela Landolfi, Chelsey Baker, Elias Ar. Yfantis, Elias Yfantis and 10 more</small> | Ocean CDR | 1 |
+| 2025 | [High-Resolution Coastal Carbon Dynamics in the Belgian Part of the North Sea Using Machine Learning](https://doi.org/10.5194/egusphere-egu25-15600)<br><small>preprint · with Maurie Keppens, Alizée Roobaert, Andrea van Langen Rosón, Griet Neukermans</small> | Ocean CDR | 0 |
+| 2025 | [The Belgian Part of the North Sea as a test case to monitor human activities and climate change effects on the coastal carbon system](https://doi.org/10.5194/egusphere-egu25-15911)<br><small>preprint · with Alizée Roobaert, Andrea van Langen Rosón, Bernd Herremans, Clémence Goyens, Emile Lemey, H. Pirlet and 6 more</small> | Ocean CDR | 0 |
+| 2025 | [EMB Future Science Brief: Monitoring, Reporting and Verification for marine Carbon Dioxide Removal](https://openalex.org/W7149221167)<br><small>with [Helene Muri](/cdr-researcher-census/researchers/helene-muri-a5010735/), [Andreas Oschlies](/cdr-researcher-census/researchers/andreas-oschlies-a5063745/), Angela Landolfi, Chelsey Baker, Elias Ar. Yfantis, Elias Yfantis and 9 more</small> | Ocean CDR | 0 |
+| 2024 | [A novel sea surface pCO <sub>2</sub> -product for the global coastal ocean resolving trends over 1982–2020](https://doi.org/10.5194/essd-16-421-2024)<br><small>Earth system science data · with Alizée Roobaert, Pierre Regnier, Goulven G. Laruelle</small> | Ocean CDR | 36 |
+| 2024 | [Accuracy of Ocean CO<sub>2</sub> Uptake Estimates at a Risk by a Reduction in the Data Collection](https://doi.org/10.1029/2024gl108502)<br><small>Geophysical Research Letters · with Yuanxu Dong, Dorothée C. E. Bakker</small> | Ocean CDR | 17 |
+| 2024 | [High-resolution Neural Network Demonstrates Strong CO2 Source-Sink Juxtaposition in the Coastal Zone](https://doi.org/10.22541/essoar.171104140.04789392/v1)<br><small>preprint · with Patrick J. Duke, Debby Ianson, Neil C. Swart, Roberta C. Hamme, Paul A. Covert</small> | Ocean CDR | 0 |
+| 2023 | [Trends and variability in the ocean carbon sink](https://doi.org/10.1038/s43017-022-00381-x)<br><small>Nature Reviews Earth & Environment · with Nicolas Gruber, Dorothée C. E. Bakker, Galen A. McKinley, [Judith Hauck](/cdr-researcher-census/researchers/judith-hauck-a5068651/), Luke Gregor, Tim DeVries and 1 more</small> | Ocean CDR | 276 |
+| 2023 | [A novel sea surface pCO <sub>2</sub> -product for the global coastal ocean resolving trends over the 1982–2020 period](https://doi.org/10.5194/essd-2023-228)<br><small>preprint · with Alizée Roobaert, Pierre Regnier, Goulven G. Laruelle</small> | Ocean CDR | 4 |
 
 ---
 

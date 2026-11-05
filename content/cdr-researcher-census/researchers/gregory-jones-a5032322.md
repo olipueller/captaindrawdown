@@ -1,7 +1,7 @@
 ---
 title: "Gregory Jones"
 description: "Gregory Jones, Imperial College London, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 67 by activity, 1597 by citations. 13 publications, h-index 2, 8 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/gregory-jones-a5032322/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,19 +43,19 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 9. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 9. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Microbiome manipulation and enhanced weathering influence tree growth in reforestation](https://openalex.org/W7166737299) | Enhanced Weathering | 1 |
-| 2026 | [Ecosystem responses determine the effectiveness of enhanced rock weathering for climate mitigation](https://doi.org/10.5194/egusphere-egu26-5623) | Enhanced Weathering | 0 |
-| 2025 | [An Integrated Modelling Framework to Determine Terrestrial Carbon Dioxide Removal via Enhanced Rock Weathering](https://doi.org/10.1111/gcb.70650) | Enhanced Weathering | 5 |
-| 2025 | [Microbiome manipulation and enhanced weathering stimulate CO2 removal in reforestation](https://doi.org/10.21203/rs.3.rs-5982308/v1) | Enhanced Weathering | 1 |
-| 2025 | [Utilizing Soil Centrifugation for Accurate Estimates of Carbon Dioxide Removal via Enhanced Rock Weathering](https://doi.org/10.1021/acs.est.5c03699) | Enhanced Weathering | 1 |
-| 2025 | [Utilising soil centrifugation for accurate carbon dioxide removal estimates via enhanced rock weathering &amp;#160;](https://doi.org/10.5194/egusphere-egu25-11872) | Enhanced Weathering | 0 |
-| 2025 | [Modelling the impacts of enhanced rock weathering on soil-plant-carbon cycle: develop and benchmark on mesocosm and field experiments](https://doi.org/10.5194/egusphere-egu25-10422) | Enhanced Weathering | 0 |
-| 2024 | [Scaling up enhanced rock weathering: field trials and ecohydrological modelling in a temperate forest&amp;#160;](https://doi.org/10.5194/egusphere-egu24-11347) | Enhanced Weathering | 0 |
-| 2023 | [Harnessing enhanced rock weathering in a forestry context](https://doi.org/10.5194/egusphere-egu23-5716) | Enhanced Weathering | 0 |
+| 2026 | [Microbiome manipulation and enhanced weathering influence tree growth in reforestation](https://openalex.org/W7166737299)<br><small>with [Bonnie G. Waring](/cdr-researcher-census/researchers/bonnie-g-waring-a5010282/), Brian S. Steidinger, Colin Averill, [David J. Beerling](/cdr-researcher-census/researchers/david-j-beerling-a5073877/), [Dimitar Z. Epihov](/cdr-researcher-census/researchers/dimitar-z-epihov-a5056786/), Heather C. Allen and 9 more</small> | Enhanced Weathering | 1 |
+| 2026 | [Ecosystem responses determine the effectiveness of enhanced rock weathering for climate mitigation](https://doi.org/10.5194/egusphere-egu26-5623)<br><small>with Athanasios Paschalis, Charles Nicholls, Colin Averill, [David J. Beerling](/cdr-researcher-census/researchers/david-j-beerling-a5073877/), [Dimitar Z. Epihov](/cdr-researcher-census/researchers/dimitar-z-epihov-a5056786/), Heather C. Allen and 5 more</small> | Enhanced Weathering | 0 |
+| 2025 | [An Integrated Modelling Framework to Determine Terrestrial Carbon Dioxide Removal via Enhanced Rock Weathering](https://doi.org/10.1111/gcb.70650)<br><small>Global Change Biology · with Ziyan Zhang, [Bonnie G. Waring](/cdr-researcher-census/researchers/bonnie-g-waring-a5010282/), [Matteo B. Bertagni](/cdr-researcher-census/researchers/matteo-b-bertagni-a5090007/), [Salvatore Calabrese](/cdr-researcher-census/researchers/salvatore-calabrese-a5026553/), Simone Fatichi, Athanasios Paschalis</small> | Enhanced Weathering | 5 |
+| 2025 | [Microbiome manipulation and enhanced weathering stimulate CO2 removal in reforestation](https://doi.org/10.21203/rs.3.rs-5982308/v1)<br><small>preprint · with [Bonnie G. Waring](/cdr-researcher-census/researchers/bonnie-g-waring-a5010282/), Brian S. Steidinger, Colin Averill, [David J. Beerling](/cdr-researcher-census/researchers/david-j-beerling-a5073877/), Heather K. Allen, Katherine Clayton and 7 more</small> | Enhanced Weathering | 1 |
+| 2025 | [Utilizing Soil Centrifugation for Accurate Estimates of Carbon Dioxide Removal via Enhanced Rock Weathering](https://doi.org/10.1021/acs.est.5c03699)<br><small>Environmental Science & Technology · with Athanasios Paschalis, Katherine Clayton, Lena Lancastle, Ziyan Zhang, [Bonnie G. Waring](/cdr-researcher-census/researchers/bonnie-g-waring-a5010282/)</small> | Enhanced Weathering | 1 |
+| 2025 | [Utilising soil centrifugation for accurate carbon dioxide removal estimates via enhanced rock weathering &amp;#160;](https://doi.org/10.5194/egusphere-egu25-11872)<br><small>preprint · with Athanasios Paschalis, Katherine Clayton, Ziyan Zhang, [Bonnie G. Waring](/cdr-researcher-census/researchers/bonnie-g-waring-a5010282/)</small> | Enhanced Weathering | 0 |
+| 2025 | [Modelling the impacts of enhanced rock weathering on soil-plant-carbon cycle: develop and benchmark on mesocosm and field experiments](https://doi.org/10.5194/egusphere-egu25-10422)<br><small>preprint · with Ziyan Zhang, [Bonnie G. Waring](/cdr-researcher-census/researchers/bonnie-g-waring-a5010282/), [Matteo B. Bertagni](/cdr-researcher-census/researchers/matteo-b-bertagni-a5090007/), [Salvatore Calabrese](/cdr-researcher-census/researchers/salvatore-calabrese-a5026553/), Athanasios Paschalis</small> | Enhanced Weathering | 0 |
+| 2024 | [Scaling up enhanced rock weathering: field trials and ecohydrological modelling in a temperate forest&amp;#160;](https://doi.org/10.5194/egusphere-egu24-11347)<br><small>preprint · with Athanasios Paschalis, [Bonnie G. Waring](/cdr-researcher-census/researchers/bonnie-g-waring-a5010282/)</small> | Enhanced Weathering | 0 |
+| 2023 | [Harnessing enhanced rock weathering in a forestry context](https://doi.org/10.5194/egusphere-egu23-5716)<br><small>preprint · with Athanasios Paschalis, [Bonnie G. Waring](/cdr-researcher-census/researchers/bonnie-g-waring-a5010282/)</small> | Enhanced Weathering | 0 |
 
 ---
 

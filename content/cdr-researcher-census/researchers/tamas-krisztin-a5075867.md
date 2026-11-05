@@ -1,7 +1,7 @@
 ---
 title: "Tamás Krisztin"
 description: "Tamás Krisztin, International Institute for Applied Systems Analysis, Austria. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 84 by activity, 1760 by citations. 102 publications, h-index 23, 4,442 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/tamas-krisztin-a5075867/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,13 +43,13 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-3 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 3. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+3 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 3. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Biodiversity implications of land-intensive carbon dioxide removal](https://doi.org/10.1038/s41558-026-02557-5) | BECCS | 7 |
-| 2026 | [Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment](https://openalex.org/W7211955480) | BECCS | 0 |
-| 2025 | [Warming versus land-intensive mitigation impact on biodiversity refugia across climate policy scenarios](https://doi.org/10.5194/egusphere-egu25-9028) | BECCS | 0 |
+| 2026 | [Biodiversity implications of land-intensive carbon dioxide removal](https://doi.org/10.1038/s41558-026-02557-5)<br><small>Nature Climate Change · with [Ruben Prütz](/cdr-researcher-census/researchers/ruben-prutz-a5011946/), Alex Popp, [Alexander Popp](/cdr-researcher-census/researchers/alexander-popp-a5088947/), [Andrey Lessa Derci Augustynczik](/cdr-researcher-census/researchers/andrey-lessa-derci-augustynczik-a5067345/), [Florian Humpenöder](/cdr-researcher-census/researchers/florian-humpenoder-a5060104/), Florian Kraxner and 13 more</small> | BECCS | 7 |
+| 2026 | [Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment](https://openalex.org/W7211955480)<br><small>preprint · with [Alexander Popp](/cdr-researcher-census/researchers/alexander-popp-a5088947/), Amanda Palazzo, [Andrey Lessa Derci Augustynczik](/cdr-researcher-census/researchers/andrey-lessa-derci-augustynczik-a5067345/), Astrid Bos, Benjamin Leon Bodirsky, Cindy G. Azuero-Pedraza and 43 more</small> | BECCS | 0 |
+| 2025 | [Warming versus land-intensive mitigation impact on biodiversity refugia across climate policy scenarios](https://doi.org/10.5194/egusphere-egu25-9028)<br><small>preprint · with [Ruben Prütz](/cdr-researcher-census/researchers/ruben-prutz-a5011946/), [Andrey Lessa Derci Augustynczik](/cdr-researcher-census/researchers/andrey-lessa-derci-augustynczik-a5067345/), Florian Kraxner, Jeff Price, [Joeri Rogelj](/cdr-researcher-census/researchers/joeri-rogelj-a5017820/), [Jonathan Doelman](/cdr-researcher-census/researchers/jonathan-doelman-a5006446/) and 9 more</small> | BECCS | 0 |
 
 ---
 

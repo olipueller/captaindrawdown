@@ -1,7 +1,7 @@
 ---
 title: "Sara Groppelli"
 description: "Sara Groppelli, University of Milano-Bicocca, Italy. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 60 by activity, 2009 by citations. 13 publications, h-index 2, 13 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/sara-groppelli-a5094110/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,18 +40,18 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 8. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 8. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Effects of pH-equilibrated ocean alkalinization on benthic calcifiers: a mesocosm study from the port of La Spezia (Italy)](https://doi.org/10.2139/ssrn.6331722) | Ocean CDR | 0 |
-| 2026 | [pH-Equilibrated Ocean Alkalinization: Mesoscale Evaluation of Long-Term Stability](https://doi.org/10.5194/egusphere-egu26-1491) | Ocean CDR | 0 |
-| 2026 | [Reviews and syntheses: Experimental evidence of phytoplankton responses to Ocean Alkalinity Enhancement](https://openalex.org/W7170085145) | Ocean CDR | 0 |
-| 2026 | [Effects of pH-equilibrated ocean alkalinization on macro-benthic calcifiers: A mesocosm study from the port of La Spezia (Italy)](https://openalex.org/W7203484947) | Ocean CDR | 0 |
-| 2026 | [Ocean alkalinity enhancement pelagic impact in the Northwest Iberian Upwelling System under nutrient limited conditions](https://openalex.org/W7216568578) | Ocean CDR | 0 |
-| 2025 | [The response of phytoplankton to pH-equilibrated ocean alkalinization: A mesocosm experiment with harbour waters](https://doi.org/10.1016/j.marpolbul.2025.118787) | Ocean CDR | 10 |
-| 2025 | [The response of phytoplankton to pH-Equilibrated Ocean Alkalinization: a mesocosm experiment in the Gulf of La Spezia](https://doi.org/10.5194/egusphere-egu25-10595) | Ocean CDR | 0 |
-| 2024 | [First assessment of the impact of pH equilibrated Ocean Alkanlinity Enhancement technology on marine biota in the Gulf of La Spezia (north-west Italy)](https://doi.org/10.5194/egusphere-egu24-16102) | Ocean CDR | 0 |
+| 2026 | [Effects of pH-equilibrated ocean alkalinization on benthic calcifiers: a mesocosm study from the port of La Spezia (Italy)](https://doi.org/10.2139/ssrn.6331722)<br><small>SSRN Electronic Journal (preprint) · with [Davide Calvi](/cdr-researcher-census/researchers/davide-calvi-a5094110/), [Arianna Azzellino](/cdr-researcher-census/researchers/arianna-azzellino-a5025068/), [Federico Comazzi](/cdr-researcher-census/researchers/federico-comazzi-a5094107/), P. Macchi, [Samira Jamali Alamooti](/cdr-researcher-census/researchers/samira-jamali-alamooti-a5138703/), [Daniela Basso](/cdr-researcher-census/researchers/daniela-basso-a5026560/)</small> | Ocean CDR | 0 |
+| 2026 | [pH-Equilibrated Ocean Alkalinization: Mesoscale Evaluation of Long-Term Stability](https://doi.org/10.5194/egusphere-egu26-1491)<br><small>with [Samira Jamali Alamooti](/cdr-researcher-census/researchers/samira-jamali-alamooti-a5138703/), [Davide Calvi](/cdr-researcher-census/researchers/davide-calvi-a5094110/), Eleonora Kratter Thaler, [Federico Comazzi](/cdr-researcher-census/researchers/federico-comazzi-a5094107/), [Guido Raos](/cdr-researcher-census/researchers/guido-raos-a5052105/), P. Macchi</small> | Ocean CDR | 0 |
+| 2026 | [Reviews and syntheses: Experimental evidence of phytoplankton responses to Ocean Alkalinity Enhancement](https://openalex.org/W7170085145)<br><small>preprint · with [Daniela Basso](/cdr-researcher-census/researchers/daniela-basso-a5026560/)</small> | Ocean CDR | 0 |
+| 2026 | [Effects of pH-equilibrated ocean alkalinization on macro-benthic calcifiers: A mesocosm study from the port of La Spezia (Italy)](https://openalex.org/W7203484947)<br><small>with [Davide Calvi](/cdr-researcher-census/researchers/davide-calvi-a5094110/), [Arianna Azzellino](/cdr-researcher-census/researchers/arianna-azzellino-a5025068/), [Federico Comazzi](/cdr-researcher-census/researchers/federico-comazzi-a5094107/), [Piero Macchi](/cdr-researcher-census/researchers/piero-macchi-a5015826/), [Samira Jamali Alamooti](/cdr-researcher-census/researchers/samira-jamali-alamooti-a5138703/), [Daniela Basso](/cdr-researcher-census/researchers/daniela-basso-a5026560/)</small> | Ocean CDR | 0 |
+| 2026 | [Ocean alkalinity enhancement pelagic impact in the Northwest Iberian Upwelling System under nutrient limited conditions](https://openalex.org/W7216568578)<br><small>preprint · with Marcos Fontela, A. Velo, Belén Arbones, Blanca Marigómez, Caio Cesar‐Ribeiro, Celeste L. Hinojo and 10 more</small> | Ocean CDR | 0 |
+| 2025 | [The response of phytoplankton to pH-equilibrated ocean alkalinization: A mesocosm experiment with harbour waters](https://doi.org/10.1016/j.marpolbul.2025.118787)<br><small>Marine Pollution Bulletin · with [Arianna Azzellino](/cdr-researcher-census/researchers/arianna-azzellino-a5025068/), [Davide Calvi](/cdr-researcher-census/researchers/davide-calvi-a5094110/), Eleonora Barbaccia, [Federico Comazzi](/cdr-researcher-census/researchers/federico-comazzi-a5094107/), [Guido Raos](/cdr-researcher-census/researchers/guido-raos-a5052105/), [Piero Macchi](/cdr-researcher-census/researchers/piero-macchi-a5015826/) and 3 more</small> | Ocean CDR | 10 |
+| 2025 | [The response of phytoplankton to pH-Equilibrated Ocean Alkalinization: a mesocosm experiment in the Gulf of La Spezia](https://doi.org/10.5194/egusphere-egu25-10595)<br><small>preprint · with [Arianna Azzellino](/cdr-researcher-census/researchers/arianna-azzellino-a5025068/), [Daniela Basso](/cdr-researcher-census/researchers/daniela-basso-a5026560/), [Davide Calvi](/cdr-researcher-census/researchers/davide-calvi-a5094110/), [Federico Comazzi](/cdr-researcher-census/researchers/federico-comazzi-a5094107/), [Francesco Pietro Campo](/cdr-researcher-census/researchers/francesco-pietro-campo-a5047434/), [Guido Raos](/cdr-researcher-census/researchers/guido-raos-a5052105/) and 3 more</small> | Ocean CDR | 0 |
+| 2024 | [First assessment of the impact of pH equilibrated Ocean Alkanlinity Enhancement technology on marine biota in the Gulf of La Spezia (north-west Italy)](https://doi.org/10.5194/egusphere-egu24-16102)<br><small>preprint · with [Davide Calvi](/cdr-researcher-census/researchers/davide-calvi-a5094110/), [Daniela Basso](/cdr-researcher-census/researchers/daniela-basso-a5026560/), [Federico Comazzi](/cdr-researcher-census/researchers/federico-comazzi-a5094107/), [Francesco Pietro Campo](/cdr-researcher-census/researchers/francesco-pietro-campo-a5047434/), Stefano Cappello</small> | Ocean CDR | 0 |
 
 ---
 

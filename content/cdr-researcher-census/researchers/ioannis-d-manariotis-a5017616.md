@@ -1,7 +1,7 @@
 ---
 title: "Ioannis D. Manariotis"
 description: "Ioannis D. Manariotis, University of Patras, Greece. 154 publications, h-index 28, 2,580 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/ioannis-d-manariotis-a5017616/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,15 +42,15 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-5 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 5. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+5 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 5. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Decreasing Drinking Water Toxicity by Chlorine Removal Using Activated Carbons, Biomaterials and Biochars from Agro-industrial By-products](https://doi.org/10.1007/s11270-025-09060-1) | Biochar | 1 |
-| 2026 | [Physicochemical Characterization of Biochar Sorbents Produced at Different Temperatures from Malt Spent Rootlets](https://openalex.org/W7140104485) | Biochar | 1 |
-| 2026 | [Impact of pyrolysis temperature and residence time on biochar reflectance: A case study of ground coffee biochar](https://doi.org/10.5194/egusphere-egu26-14241) | Biochar | 0 |
-| 2025 | [Effect of pyrolysis conditions on biochar characteristics and water evaporation &amp;#160;](https://doi.org/10.5194/egusphere-egu25-7955) | Biochar | 1 |
-| 2023 | [Bamboo-derived adsorbents for environmental remediation: A review of recent progress](https://doi.org/10.1016/j.envres.2023.115533) | Biochar | 67 |
+| 2026 | [Decreasing Drinking Water Toxicity by Chlorine Removal Using Activated Carbons, Biomaterials and Biochars from Agro-industrial By-products](https://doi.org/10.1007/s11270-025-09060-1)<br><small>Water Air & Soil Pollution · with Andreas Tzachristas, Stefanos Dailianis, Hrissi K. Karapanagioti</small> | Biochar | 1 |
+| 2026 | [Physicochemical Characterization of Biochar Sorbents Produced at Different Temperatures from Malt Spent Rootlets](https://openalex.org/W7140104485)<br><small>with Andreas Tzachristas, Nikolaos Mourgkogiannis, Panagiota D. Natsi, Panagiota Politi, Hrissi K. Karapanagioti</small> | Biochar | 1 |
+| 2026 | [Impact of pyrolysis temperature and residence time on biochar reflectance: A case study of ground coffee biochar](https://doi.org/10.5194/egusphere-egu26-14241)<br><small>with Stavros Kalaitzidis, John Vakros, Malgorzata Wojtaszek-Kalaitzidi, Maria Georgaki, Maria Nefeli Georgaki, Małgorzata Wojtaszek-Kalaitzidi</small> | Biochar | 0 |
+| 2025 | [Effect of pyrolysis conditions on biochar characteristics and water evaporation &amp;#160;](https://doi.org/10.5194/egusphere-egu25-7955)<br><small>preprint · with Maria Varvara Manarioti, Panagiotis Pelekis</small> | Biochar | 1 |
+| 2023 | [Bamboo-derived adsorbents for environmental remediation: A review of recent progress](https://doi.org/10.1016/j.envres.2023.115533)<br><small>Environmental Research · with Dimitrios Kalderis, Azam Seifi, Ioannis Anastopoulos, Ioannis Pashalidis, Kieu Trang Trinh, Toshiki Tsubota and 1 more</small> | Biochar | 67 |
 
 ---
 

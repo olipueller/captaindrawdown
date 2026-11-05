@@ -1,7 +1,7 @@
 ---
 title: "Minik T. Rosing"
 description: "Minik T. Rosing, University of Copenhagen, Denmark. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 86 by activity, 179 by citations. 267 publications, h-index 54, 10,695 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/minik-t-rosing-a5081263/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,19 +43,19 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 8, Ocean CDR 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 8, Ocean CDR 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Short-term effects of Greenlandic glacial rock flour on soil physical properties and maize yield](https://doi.org/10.1007/s10705-025-10452-2) | Enhanced Weathering | 1 |
-| 2026 | [Enhanced weathering of glacial rock flour drives coupled inorganic and organic carbon sequestration in a five-year field experiment](https://openalex.org/W7162524873) | Enhanced Weathering | 0 |
-| 2025 | [Enduring increases in maize yield are a co-benefit of enhanced weathering of Greenlandic glacial rock flour in Ghana](https://doi.org/10.1007/s10705-025-10442-4) | Enhanced Weathering | 1 |
-| 2025 | [The relative importance of grain size and mineral weatherability for enhanced rock weathering rates: a comparison of glacial rock flour and basaltic feedstocks](https://doi.org/10.5194/egusphere-egu25-16173) | Enhanced Weathering | 0 |
-| 2025 | [Correction: Enduring increases in maize yield are a co-benefit of enhanced weathering of Greenlandic glacial rock flour in Ghana](https://doi.org/10.1007/s10705-025-10448-y) | Enhanced Weathering | 0 |
-| 2024 | [The use of trace metal-rich Greenlandic glacial rock flour for ocean enrichment experiments](https://doi.org/10.5194/egusphere-egu24-12196) | Ocean CDR | 0 |
-| 2024 | [Glacial rock flour is a potential source for marine carbon dioxide removal by stimulating phytoplankton growth](https://doi.org/10.5194/egusphere-egu24-13100) | Enhanced Weathering; Ocean CDR | 0 |
-| 2023 | [Quantification of CO2 uptake by enhanced weathering of silicate minerals applied to acidic soils](https://doi.org/10.1016/j.ijggc.2023.103872) | Enhanced Weathering | 79 |
-| 2023 | [Greenlandic glacial rock flour improves crop yield in organic agricultural production](https://doi.org/10.1007/s10705-023-10274-0) | Enhanced Weathering | 25 |
+| 2026 | [Short-term effects of Greenlandic glacial rock flour on soil physical properties and maize yield](https://doi.org/10.1007/s10705-025-10452-2)<br><small>Nutrient Cycling in Agroecosystems · with William Akortey, Bernard Kwabena Boadi Mensah, [Christiana Dietzen](/cdr-researcher-census/researchers/christiana-dietzen-a5050210/), Daniel Amoako Darko, Edward Benjamin Sabi, Emmanuel Arthur and 7 more</small> | Enhanced Weathering | 1 |
+| 2026 | [Enhanced weathering of glacial rock flour drives coupled inorganic and organic carbon sequestration in a five-year field experiment](https://openalex.org/W7162524873)<br><small>with [Christiana Dietzen](/cdr-researcher-census/researchers/christiana-dietzen-a5050210/), Małgorzata Rizzi, [Tim Jesper Suhrhoff](/cdr-researcher-census/researchers/tim-jesper-suhrhoff-a5081686/)</small> | Enhanced Weathering | 0 |
+| 2025 | [Enduring increases in maize yield are a co-benefit of enhanced weathering of Greenlandic glacial rock flour in Ghana](https://doi.org/10.1007/s10705-025-10442-4)<br><small>Nutrient Cycling in Agroecosystems · with Eric Oppong Danso, [Christiana Dietzen](/cdr-researcher-census/researchers/christiana-dietzen-a5050210/), Emmanuel Arthur</small> | Enhanced Weathering | 1 |
+| 2025 | [The relative importance of grain size and mineral weatherability for enhanced rock weathering rates: a comparison of glacial rock flour and basaltic feedstocks](https://doi.org/10.5194/egusphere-egu25-16173)<br><small>preprint · with [Christiana Dietzen](/cdr-researcher-census/researchers/christiana-dietzen-a5050210/), David A. Foster, Eric Oppong Danso, Franky Barton, [Jens Hammes](/cdr-researcher-census/researchers/jens-hammes-a5108549/), Małgorzata Rizzi</small> | Enhanced Weathering | 0 |
+| 2025 | [Correction: Enduring increases in maize yield are a co-benefit of enhanced weathering of Greenlandic glacial rock flour in Ghana](https://doi.org/10.1007/s10705-025-10448-y)<br><small>Nutrient Cycling in Agroecosystems · with Eric Oppong Danso, [Christiana Dietzen](/cdr-researcher-census/researchers/christiana-dietzen-a5050210/), Emmanuel Arthur</small> | Enhanced Weathering | 0 |
+| 2024 | [The use of trace metal-rich Greenlandic glacial rock flour for ocean enrichment experiments](https://doi.org/10.5194/egusphere-egu24-12196)<br><small>preprint · with Clara R. Vives, Jørgen Bendtsen, Katherine Richardson, Kristina Vallentin Larsen, Niels Daugbjerg</small> | Ocean CDR | 0 |
+| 2024 | [Glacial rock flour is a potential source for marine carbon dioxide removal by stimulating phytoplankton growth](https://doi.org/10.5194/egusphere-egu24-13100)<br><small>preprint · with Jørgen Bendtsen, Clara R. Vives, Katherine Richardson, Kristina Vallentin Larsen, Niels Daugbjerg, Rasmus Dyrberg Dahms</small> | Enhanced Weathering; Ocean CDR | 0 |
+| 2023 | [Quantification of CO2 uptake by enhanced weathering of silicate minerals applied to acidic soils](https://doi.org/10.1016/j.ijggc.2023.103872)<br><small>International journal of greenhouse gas control · with [Christiana Dietzen](/cdr-researcher-census/researchers/christiana-dietzen-a5050210/)</small> | Enhanced Weathering | 79 |
+| 2023 | [Greenlandic glacial rock flour improves crop yield in organic agricultural production](https://doi.org/10.1007/s10705-023-10274-0)<br><small>Nutrient Cycling in Agroecosystems · with Klara Cecilia Gunnarsen, Lars Stoumann Jensen, [Christiana Dietzen](/cdr-researcher-census/researchers/christiana-dietzen-a5050210/)</small> | Enhanced Weathering | 25 |
 
 ---
 

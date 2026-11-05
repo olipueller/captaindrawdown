@@ -1,7 +1,7 @@
 ---
 title: "Quirin Grossmann"
 description: "Quirin Grossmann, ETH Zurich, Switzerland. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 100 by activity, 479 by citations. 11 publications, h-index 7, 242 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/quirin-grossmann-a5051401/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,14 +43,14 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-4 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 4. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+4 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 4. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Structured sorbents for Direct Air Capture: The impact of materials and chemicals on performance](https://openalex.org/W7166531872) | DAC | 1 |
-| 2026 | [Structured sorbents for direct air capture: the impact of materials and chemicals on performance](https://openalex.org/W7163847645) | DAC | 0 |
-| 2026 | [Structured sorbents for Direct Air Capture: The impact of materials and chemicals on performance](https://openalex.org/W7166680246) | DAC | 0 |
-| 2023 | [Developing Versatile Contactors for Direct Air Capture of CO<sub>2</sub> through Amine Grafting onto Alumina Pellets and Alumina Wash-Coated Monoliths](https://doi.org/10.1021/acs.iecr.3c01265) | DAC | 60 |
+| 2026 | [Structured sorbents for Direct Air Capture: The impact of materials and chemicals on performance](https://openalex.org/W7166531872)<br><small>with [Nicole Ferru](/cdr-researcher-census/researchers/nicole-ferru-a5053323/), [André Bardow](/cdr-researcher-census/researchers/andre-bardow-a5054788/), David M. Büchner, Martina Saporito, Moritz Bischof, [Ronny Pini](/cdr-researcher-census/researchers/ronny-pini-a5039896/) and 2 more</small> | DAC | 1 |
+| 2026 | [Structured sorbents for direct air capture: the impact of materials and chemicals on performance](https://openalex.org/W7163847645)<br><small>with N Ferru, [Nicole Ferru](/cdr-researcher-census/researchers/nicole-ferru-a5053323/), Andre Bardow, [André Bardow](/cdr-researcher-census/researchers/andre-bardow-a5054788/), David M. Büchner, Martina Saporito and 4 more</small> | DAC | 0 |
+| 2026 | [Structured sorbents for Direct Air Capture: The impact of materials and chemicals on performance](https://openalex.org/W7166680246)<br><small>with [Nicole Ferru](/cdr-researcher-census/researchers/nicole-ferru-a5053323/), André Bardow, [André Bardow](/cdr-researcher-census/researchers/andre-bardow-a5054788/), David M. Büchner, Martina Saporito, Moritz Bischof and 3 more</small> | DAC | 0 |
+| 2023 | [Developing Versatile Contactors for Direct Air Capture of CO<sub>2</sub> through Amine Grafting onto Alumina Pellets and Alumina Wash-Coated Monoliths](https://doi.org/10.1021/acs.iecr.3c01265)<br><small>Industrial & Engineering Chemistry Research · with Alexander V. Yakimov, Christophe Copéret, Scott R. Docherty, Valentina Stampi-Bombelli, [Marco Mazzotti](/cdr-researcher-census/researchers/marco-mazzotti-a5038211/)</small> | DAC | 60 |
 
 ---
 

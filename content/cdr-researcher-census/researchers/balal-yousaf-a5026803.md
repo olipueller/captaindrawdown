@@ -1,7 +1,7 @@
 ---
 title: "Balal Yousaf"
 description: "Balal Yousaf, Silesian University of Technology, Poland. 165 publications, h-index 60, 9,719 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/balal-yousaf-a5026803/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,18 +42,18 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 8. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 8. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Novel Styrofoam-sludge biochar for Pb and Zn adsorption: Bioavailability and reduction in maize-cultivated contaminated soils](https://doi.org/10.1016/j.jclepro.2026.147548) | Biochar | 5 |
-| 2026 | [Nitrogen-Enriched Biochar via Hydrothermal Ammonia Functionalization: Surface Engineering of Bambusa Vulgaris for Optimized Capture of Reactive Black 5](https://openalex.org/W7167696999) | Biochar | 0 |
-| 2024 | [Synergistic interactions and reaction mechanisms of biochar surface functionalities in antibiotics removal from industrial wastewater](https://doi.org/10.1016/j.envpol.2024.124365) | Biochar | 66 |
-| 2024 | [The development of plastic waste and sewage sludge co-pyrolyzed biochar composites with improved interfacial characteristics for the effective removal of ciprofloxacin](https://openalex.org/W4391847918) | Biochar | 33 |
-| 2024 | [Unraveling the mechanisms of free radicals-based transformation and accumulation of potentially toxic metal(loid)s in biochar- and compost-amended soil-plant systems](https://doi.org/10.1016/j.jclepro.2024.141767) | Biochar | 17 |
-| 2023 | [Impregnation of biochar with montmorillonite and its activation for the removal of azithromycin from aqueous media](https://doi.org/10.1007/s11356-023-27908-z) | Biochar | 23 |
-| 2021 | [Synthesis, characteristics and mechanistic insight into the clays and clay minerals-biochar surface interactions for contaminants removal-A review](https://doi.org/10.1016/j.jclepro.2021.127548) | Biochar | 148 |
-| 2021 | [Carbon dioxide activated biochar-clay mineral composite efficiently removes ciprofloxacin from contaminated water - Reveals an incubation study](https://doi.org/10.1016/j.jclepro.2021.130079) | Biochar | 69 |
+| 2026 | [Novel Styrofoam-sludge biochar for Pb and Zn adsorption: Bioavailability and reduction in maize-cultivated contaminated soils](https://doi.org/10.1016/j.jclepro.2026.147548)<br><small>Journal of Cleaner Production · with Muhammad Ubaid Ali, Cheng Liping, Gongren Hu, Mehr Ahmed Mujtaba Munir, Muhammad Adnan, Muhammad Adnan and 5 more</small> | Biochar | 5 |
+| 2026 | [Nitrogen-Enriched Biochar via Hydrothermal Ammonia Functionalization: Surface Engineering of Bambusa Vulgaris for Optimized Capture of Reactive Black 5](https://openalex.org/W7167696999)<br><small>with Ehigbochie Joy Ofure, Guijian Liu, Ruijia Liu, Yuan Liu</small> | Biochar | 0 |
+| 2024 | [Synergistic interactions and reaction mechanisms of biochar surface functionalities in antibiotics removal from industrial wastewater](https://doi.org/10.1016/j.envpol.2024.124365)<br><small>Environmental Pollution · with Muhammad Irtaza Sajjad Haider, Aniqa Ashraf, Guijian Liu, Kiran Aziz, Muhammad Arif, Rabia Safeer and 2 more</small> | Biochar | 66 |
+| 2024 | [The development of plastic waste and sewage sludge co-pyrolyzed biochar composites with improved interfacial characteristics for the effective removal of ciprofloxacin](https://openalex.org/W4391847918)<br><small>with Aniqa Ashraf, Audil Rashid, Guijian Liu, Humaira Gulzaman, Muhammad Arif, Muhammad Rashid and 3 more</small> | Biochar | 33 |
+| 2024 | [Unraveling the mechanisms of free radicals-based transformation and accumulation of potentially toxic metal(loid)s in biochar- and compost-amended soil-plant systems](https://doi.org/10.1016/j.jclepro.2024.141767)<br><small>Journal of Cleaner Production · with Ayesha Imtiyaz Cheema, Abdul Rehman, Amina Amina, Habib Ullah, Hemen Sarma, Krzysztof Pikoń and 1 more</small> | Biochar | 17 |
+| 2023 | [Impregnation of biochar with montmorillonite and its activation for the removal of azithromycin from aqueous media](https://doi.org/10.1007/s11356-023-27908-z)<br><small>Environmental Science and Pollution Research · with Muhammad Arif, Aniqa Ashraf, Guijian Liu, Md Manik Mian, Muhammad Imran, Muhammad Rashid and 3 more</small> | Biochar | 23 |
+| 2021 | [Synthesis, characteristics and mechanistic insight into the clays and clay minerals-biochar surface interactions for contaminants removal-A review](https://doi.org/10.1016/j.jclepro.2021.127548)<br><small>Journal of Cleaner Production · with Muhammad Arif, Aniqa Ashraf, Guijian Liu, Muhammad Zia‐ur‐Rehman, Rafay Ahmed, Samina Irshad and 1 more</small> | Biochar | 148 |
+| 2021 | [Carbon dioxide activated biochar-clay mineral composite efficiently removes ciprofloxacin from contaminated water - Reveals an incubation study](https://doi.org/10.1016/j.jclepro.2021.130079)<br><small>Journal of Cleaner Production · with Muhammad Arif, Aniqa Ashraf, Guijian Liu, Md Manik Mian, Mehr Ahmed Mujtaba Munir, Muhammad Rashid and 3 more</small> | Biochar | 69 |
 
 ---
 

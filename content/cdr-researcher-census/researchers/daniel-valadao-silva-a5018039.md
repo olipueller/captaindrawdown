@@ -1,7 +1,7 @@
 ---
 title: "Daniel Valadão Silva"
 description: "Daniel Valadão Silva, Universidade Federal Rural do Semi-Árido, Brazil. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 93 by activity, 6864 by citations. 237 publications, h-index 22, 1,857 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/daniel-valadao-silva-a5018039/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,16 +43,16 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 6. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 6. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Life Cycle Assessment of Biochar: A Bibliometric Analysis of Trends and Future Perspectives](https://doi.org/10.1007/s12155-026-10959-8) | Biochar | 7 |
-| 2026 | [Trends and hotspots in biochar research for soil quality improvement in tropical and semi-arid regions based on bibliometric analysis](https://openalex.org/W7167607389) | Biochar | 0 |
-| 2026 | [Integrative Review of Biochar in Semi-Arid Agroecosystems: Global Trends, Potential Feedstocks, Crop-Soil Interactions, and Carbon Lability](https://openalex.org/W7221032462) | Biochar | 0 |
-| 2025 | [Carbon Sequestration with Biochar: Global Trends, Knowledge Gaps, and Future Directions](https://doi.org/10.1021/acsestwater.5c00606) | Biochar | 12 |
-| 2025 | [Beyond bioenergy with carbon capture and storage: RothC-based assessment of biochar systems for removal and land-based carbon offsets in semi-arid soils of Brazil](https://doi.org/10.1016/j.jclepro.2025.147162) | Biochar | 2 |
-| 2025 | [A Bibliometric‐Based Review of Biochar for Salt‐Affected Soil Restoration: Mapping Research Trends and Future Directions](https://doi.org/10.1002/ldr.70404) | Biochar | 1 |
+| 2026 | [Life Cycle Assessment of Biochar: A Bibliometric Analysis of Trends and Future Perspectives](https://doi.org/10.1007/s12155-026-10959-8)<br><small>BioEnergy Research · with Betelhem Fetene Admas, Leonardo Caetano Moura, Rafael Leandro Fernandes Melo, Temesgen Gashaw, Temesgen Gashaw Tarkegn, [Frederico Ribeiro do Carmo](/cdr-researcher-census/researchers/frederico-ribeiro-do-carmo-a5029577/)</small> | Biochar | 7 |
+| 2026 | [Trends and hotspots in biochar research for soil quality improvement in tropical and semi-arid regions based on bibliometric analysis](https://openalex.org/W7167607389)<br><small>with Ana Beatriz Alves, Ana Luiza Veras de Souza, Darliane Cristina Soares de Souza, Eulene Francisco da Silva, [Frederico Ribeiro do Carmo](/cdr-researcher-census/researchers/frederico-ribeiro-do-carmo-a5029577/), Ingrid Lima and 6 more</small> | Biochar | 0 |
+| 2026 | [Integrative Review of Biochar in Semi-Arid Agroecosystems: Global Trends, Potential Feedstocks, Crop-Soil Interactions, and Carbon Lability](https://openalex.org/W7221032462)<br><small>with Andler Milton de Paiva Oliveira, Carolina Malala Martins Souza, Darliane Cristina Soares de Souza, Diana Ferreira de Freitas, Erlen Kaline Ávila do Nascimento, [Frederico Ribeiro do Carmo](/cdr-researcher-census/researchers/frederico-ribeiro-do-carmo-a5029577/) and 6 more</small> | Biochar | 0 |
+| 2025 | [Carbon Sequestration with Biochar: Global Trends, Knowledge Gaps, and Future Directions](https://doi.org/10.1021/acsestwater.5c00606)<br><small>ACS ES&T Water · with Darliane Cristina Soares de Souza, Adriano Erique de Oliveira Lima, Antônio Gustavo de Luna Souto, Bruno Caio Chaves Fernandes, [Frederico Ribeiro do Carmo](/cdr-researcher-census/researchers/frederico-ribeiro-do-carmo-a5029577/), Jorge E. Freire and 6 more</small> | Biochar | 12 |
+| 2025 | [Beyond bioenergy with carbon capture and storage: RothC-based assessment of biochar systems for removal and land-based carbon offsets in semi-arid soils of Brazil](https://doi.org/10.1016/j.jclepro.2025.147162)<br><small>Journal of Cleaner Production · with Paulo Reginaldo Costa Filho, Darliane Cristina Soares de Souza, Eulene Francisco da Silva, José Francismar de Medeiros, José Francismar de Medeiros, Luiz Fernando de Sousa Antunes and 2 more</small> | Biochar | 2 |
+| 2025 | [A Bibliometric‐Based Review of Biochar for Salt‐Affected Soil Restoration: Mapping Research Trends and Future Directions](https://doi.org/10.1002/ldr.70404)<br><small>Land Degradation and Development · with Juciane Vieira de Assis Freire, Adriano Erique de Oliveira Lima, Bruno Caio Chaves Fernandes, Bárbara Samartini Queiroz Alves, Darliane Cristina Soares de Souza, Eulene Francisco da Silva and 6 more</small> | Biochar | 1 |
 
 ---
 

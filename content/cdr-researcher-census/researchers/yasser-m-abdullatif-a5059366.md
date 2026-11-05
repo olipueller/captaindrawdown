@@ -1,7 +1,7 @@
 ---
 title: "Yasser M. Abdullatif"
 description: "Yasser M. Abdullatif, Hamad bin Khalifa University, Qatar. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 28 by activity, 37 by citations. 16 publications, h-index 10, 955 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/yasser-m-abdullatif-a5059366/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 8. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 8. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Integrated DAC-HVAC systems for CO <sub>2</sub> capture and sustainable hydrogen production from condensed water](https://doi.org/10.1088/1755-1315/1587/1/012019) | DAC | 0 |
-| 2026 | [From powder equilibria to contactor design: An experimentally anchored material based framework for direct air capture on TEPA impregnated SBA-15](https://openalex.org/W7204580074) | DAC | 0 |
-| 2025 | [Life cycle cost analysis of direct air capture integrated with HVAC systems: Utilization routes in formic acid production and agricultural greenhouses](https://doi.org/10.1016/j.jece.2025.116201) | DAC | 17 |
-| 2025 | [Advanced direct air capture of CO2 using air conditioning systems: a life cycle assessment](https://doi.org/10.1016/j.tsep.2025.104223) | DAC | 3 |
-| 2025 | [Integrating Direct Air Capture and HVAC Systems: An Economic Perspective on Cost Savings](https://doi.org/10.69997/sct.150794) | DAC | 2 |
-| 2023 | [Emerging trends in direct air capture of CO<sub>2</sub>: a review of technology options targeting net-zero emissions](https://doi.org/10.1039/d2ra07940b) | DAC | 112 |
-| 2023 | [Optimizing chemisorption based direct air capture unit efficiency in HVAC systems: A study on the impact of DAC location and adsorption conditions as a response to the climate crisis and indoor air quality](https://doi.org/10.1016/j.enconman.2023.117280) | DAC | 40 |
-| 2022 | [A review on progress made in direct air capture of CO <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e1035" altimg="si1.svg"> <mml:msub> <mml:mrow/> <mml:mrow> <mml:mn>2</mml:mn> </mml:mrow> </mml:msub> </mml:math>](https://doi.org/10.1016/j.eti.2022.102991) | DAC | 280 |
+| 2026 | [Integrated DAC-HVAC systems for CO <sub>2</sub> capture and sustainable hydrogen production from condensed water](https://doi.org/10.1088/1755-1315/1587/1/012019)<br><small>IOP Conference Series Earth and Environmental Science · with Y Bicer, [Yusuf Biçer](/cdr-researcher-census/researchers/yusuf-bicer-a5022863/), A Banu, Aliya Banu, I Ghiat, Ikhlas Ghiat and 4 more</small> | DAC | 0 |
+| 2026 | [From powder equilibria to contactor design: An experimentally anchored material based framework for direct air capture on TEPA impregnated SBA-15](https://openalex.org/W7204580074)<br><small>with Riham Surkatti, [Abdelghafour Zaabout](/cdr-researcher-census/researchers/abdelghafour-zaabout-a5089623/), Ahmed Sodiq, Amal Mahgoub, Areej Tageldin, Sara Hassan and 1 more</small> | DAC | 0 |
+| 2025 | [Life cycle cost analysis of direct air capture integrated with HVAC systems: Utilization routes in formic acid production and agricultural greenhouses](https://doi.org/10.1016/j.jece.2025.116201)<br><small>Journal of environmental chemical engineering · with Aliya Banu, [Abdulkarem I. Amhamed](/cdr-researcher-census/researchers/abdulkarem-i-amhamed-a5037947/), Ikhlas Ghiat, Namra Mir, [Tareq Al‐Ansari](/cdr-researcher-census/researchers/tareq-alansari-a5086098/), [Yusuf Biçer](/cdr-researcher-census/researchers/yusuf-bicer-a5022863/)</small> | DAC | 17 |
+| 2025 | [Advanced direct air capture of CO2 using air conditioning systems: a life cycle assessment](https://doi.org/10.1016/j.tsep.2025.104223)<br><small>Thermal Science and Engineering Progress · with Namra Mir, [Abdulkarem I. Amhamed](/cdr-researcher-census/researchers/abdulkarem-i-amhamed-a5037947/), Aliya Banu, [Yusuf Biçer](/cdr-researcher-census/researchers/yusuf-bicer-a5022863/)</small> | DAC | 3 |
+| 2025 | [Integrating Direct Air Capture and HVAC Systems: An Economic Perspective on Cost Savings](https://doi.org/10.69997/sct.150794)<br><small>Systems and Control Transactions · with Ikhlas Ghiat, [Abdulkarem I. Amhamed](/cdr-researcher-census/researchers/abdulkarem-i-amhamed-a5037947/), [Yusuf Biçer](/cdr-researcher-census/researchers/yusuf-bicer-a5022863/), [Tareq Al‐Ansari](/cdr-researcher-census/researchers/tareq-alansari-a5086098/)</small> | DAC | 2 |
+| 2023 | [Emerging trends in direct air capture of CO<sub>2</sub>: a review of technology options targeting net-zero emissions](https://doi.org/10.1039/d2ra07940b)<br><small>RSC Advances · with Ahmed Sodiq, Muftah H. El‐Naas, Namra Mir, [Tareq Al‐Ansari](/cdr-researcher-census/researchers/tareq-alansari-a5086098/), [Yusuf Biçer](/cdr-researcher-census/researchers/yusuf-bicer-a5022863/), [Abdulkarem I. Amhamed](/cdr-researcher-census/researchers/abdulkarem-i-amhamed-a5037947/)</small> | DAC | 112 |
+| 2023 | [Optimizing chemisorption based direct air capture unit efficiency in HVAC systems: A study on the impact of DAC location and adsorption conditions as a response to the climate crisis and indoor air quality](https://doi.org/10.1016/j.enconman.2023.117280)<br><small>Energy Conversion and Management · with Ahmed Sodiq, Nashaat N. Nassar, [Tareq Al‐Ansari](/cdr-researcher-census/researchers/tareq-alansari-a5086098/), [Abdulkarem I. Amhamed](/cdr-researcher-census/researchers/abdulkarem-i-amhamed-a5037947/)</small> | DAC | 40 |
+| 2022 | [A review on progress made in direct air capture of CO <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e1035" altimg="si1.svg"> <mml:msub> <mml:mrow/> <mml:mrow> <mml:mn>2</mml:mn> </mml:mrow> </mml:msub> </mml:math>](https://doi.org/10.1016/j.eti.2022.102991)<br><small>Environmental Technology & Innovation · with Ahmed Sodiq, Arash Ostovar, Brahim Aïssa, Muftah H. El‐Naas, Nashaat N. Nassar, [Abdulkarem I. Amhamed](/cdr-researcher-census/researchers/abdulkarem-i-amhamed-a5037947/)</small> | DAC | 280 |
 
 ---
 

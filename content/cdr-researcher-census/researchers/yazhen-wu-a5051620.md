@@ -1,7 +1,7 @@
 ---
 title: "Yazhen Wu"
 description: "Yazhen Wu, International Institute for Applied Systems Analysis, Austria. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 85 by activity, 1761 by citations. 41 publications, h-index 11, 816 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/yazhen-wu-a5051620/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-5 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 3, Cross-cutting CDR 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+5 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 3, Cross-cutting CDR 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Biodiversity implications of land-intensive carbon dioxide removal](https://doi.org/10.1038/s41558-026-02557-5) | BECCS | 7 |
-| 2026 | [Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment](https://openalex.org/W7211955480) | BECCS | 0 |
-| 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7220995682) | Cross-cutting CDR | 0 |
-| 2025 | [Warming versus land-intensive mitigation impact on biodiversity refugia across climate policy scenarios](https://doi.org/10.5194/egusphere-egu25-9028) | BECCS | 0 |
-| 2023 | [Enhanced food system efficiency is the key to China’s 2060 carbon neutrality target](https://doi.org/10.1038/s43016-023-00790-1) | Cross-cutting CDR | 81 |
+| 2026 | [Biodiversity implications of land-intensive carbon dioxide removal](https://doi.org/10.1038/s41558-026-02557-5)<br><small>Nature Climate Change · with [Ruben Prütz](/cdr-researcher-census/researchers/ruben-prutz-a5011946/), Alex Popp, [Alexander Popp](/cdr-researcher-census/researchers/alexander-popp-a5088947/), [Andrey Lessa Derci Augustynczik](/cdr-researcher-census/researchers/andrey-lessa-derci-augustynczik-a5067345/), [Florian Humpenöder](/cdr-researcher-census/researchers/florian-humpenoder-a5060104/), Florian Kraxner and 13 more</small> | BECCS | 7 |
+| 2026 | [Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment](https://openalex.org/W7211955480)<br><small>preprint · with [Alexander Popp](/cdr-researcher-census/researchers/alexander-popp-a5088947/), Amanda Palazzo, [Andrey Lessa Derci Augustynczik](/cdr-researcher-census/researchers/andrey-lessa-derci-augustynczik-a5067345/), Astrid Bos, Benjamin Leon Bodirsky, Cindy G. Azuero-Pedraza and 43 more</small> | BECCS | 0 |
+| 2026 | [Carbon dioxide removal deployment and sustainability assessment in the low emission scenarios for CMIP7](https://openalex.org/W7220995682)<br><small>preprint · with [Osamu Nishiura](/cdr-researcher-census/researchers/osamu-nishiura-a5037582/), [Alexander Popp](/cdr-researcher-census/researchers/alexander-popp-a5088947/), Anne Merfort, Candelaria Bergero, Christoph Bertram, Cindy G. Azuero-Pedraza and 42 more</small> | Cross-cutting CDR | 0 |
+| 2025 | [Warming versus land-intensive mitigation impact on biodiversity refugia across climate policy scenarios](https://doi.org/10.5194/egusphere-egu25-9028)<br><small>preprint · with [Ruben Prütz](/cdr-researcher-census/researchers/ruben-prutz-a5011946/), [Andrey Lessa Derci Augustynczik](/cdr-researcher-census/researchers/andrey-lessa-derci-augustynczik-a5067345/), Florian Kraxner, Jeff Price, [Joeri Rogelj](/cdr-researcher-census/researchers/joeri-rogelj-a5017820/), [Jonathan Doelman](/cdr-researcher-census/researchers/jonathan-doelman-a5006446/) and 9 more</small> | BECCS | 0 |
+| 2023 | [Enhanced food system efficiency is the key to China’s 2060 carbon neutrality target](https://doi.org/10.1038/s43016-023-00790-1)<br><small>Nature Food · with Ming Ren, Chen Fang, Chen Huang, Hao Zhao, [Jinfeng Chang](/cdr-researcher-census/researchers/jinfeng-chang-a5025102/), Lin Ma and 9 more</small> | Cross-cutting CDR | 81 |
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Richard L. Axelbaum"
 description: "Richard L. Axelbaum, Washington University in St. Louis, United States. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 93 by activity, 1478 by citations. 195 publications, h-index 32, 4,177 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/richard-l-axelbaum-a5091399/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,14 +43,14 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-4 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 4. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+4 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 4. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2025 | [A full-scale staged, pressurized oxy-biomass combustion towards BECCS: Performance assessment via CFD approach](https://doi.org/10.1016/j.energy.2025.136262) | BECCS | 8 |
-| 2025 | [Innovative performance evaluation and process simulation of a 550 MW staged, pressurized oxy-biomass combustion power plant for negative carbon emissions](https://doi.org/10.1016/j.renene.2025.124534) | BECCS | 3 |
-| 2024 | [Process Design and Techno-Economic Analysis of the Modular Staged Pressurized Oxy-Combustion (SPOC) Power Plant for Biomass](https://openalex.org/W7138839705) | BECCS | 0 |
-| 2023 | [Process Design and Techno-Economic Analysis of the Modular Staged Pressurized Oxy-Combustion (SPOC) Power Plant for Biomass](https://openalex.org/W7138854224) | BECCS | 0 |
+| 2025 | [A full-scale staged, pressurized oxy-biomass combustion towards BECCS: Performance assessment via CFD approach](https://doi.org/10.1016/j.energy.2025.136262)<br><small>Energy · with Xiangdong Li, Gaofeng Dai, Guan Wang, Houzhang Tan, Hui Lin, Jiaye Zhang and 4 more</small> | BECCS | 8 |
+| 2025 | [Innovative performance evaluation and process simulation of a 550 MW staged, pressurized oxy-biomass combustion power plant for negative carbon emissions](https://doi.org/10.1016/j.renene.2025.124534)<br><small>Renewable Energy · with Xiangdong Li, Bin Liu, Gaofeng Dai, Guan Wang, Hui Lin, Jiaye Zhang and 3 more</small> | BECCS | 3 |
+| 2024 | [Process Design and Techno-Economic Analysis of the Modular Staged Pressurized Oxy-Combustion (SPOC) Power Plant for Biomass](https://openalex.org/W7138839705)<br><small>with NETL, Andrew Maxson, Babul Patel, Duarte Magalhaes, Gabrielle Farrell, Mao Cheng and 2 more</small> | BECCS | 0 |
+| 2023 | [Process Design and Techno-Economic Analysis of the Modular Staged Pressurized Oxy-Combustion (SPOC) Power Plant for Biomass](https://openalex.org/W7138854224)<br><small>with NETL, Andrew Maxson, Duarte Magalhaes, George Booras, Mao Cheng, Piyush Verma and 2 more</small> | BECCS | 0 |
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Oliviér Boucher"
 description: "Oliviér Boucher, Institut Pierre-Simon Laplace, France. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 41 by activity, 27 by citations. 820 publications, h-index 114, 60,905 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/olivier-boucher-a5077051/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,19 +43,19 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 8, Cross-cutting CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 8, Cross-cutting CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2025 | [World Climate Research Programme lighthouse activity: an assessment of major research gaps in solar radiation modification research](https://doi.org/10.3389/fclim.2025.1507479) | Cross-cutting CDR | 11 |
-| 2025 | [Potential and costs required for methane removal to compete with BECCS as a mitigation option](https://doi.org/10.1088/1748-9326/ada813) | BECCS | 3 |
-| 2023 | [Relative benefits of allocating land to bioenergy crops and forests vary by region](https://doi.org/10.1038/s43247-023-00866-7) | BECCS | 27 |
-| 2022 | [Delayed use of bioenergy crops might threaten climate and food security](https://doi.org/10.1038/s41586-022-05055-8) | BECCS | 131 |
-| 2022 | [Impact of bioenergy crop expansion on climate–carbon cycle feedbacks in overshoot scenarios](https://doi.org/10.5194/esd-13-779-2022) | BECCS | 46 |
-| 2022 | [How do afforestation and BECCS differ in their impacts on the land carbon cycle and surface climate?](https://doi.org/10.21203/rs.3.rs-2137758/v1) | BECCS | 0 |
-| 2021 | [Spatially explicit analysis identifies significant potential for bioenergy with carbon capture and storage in China](https://doi.org/10.1038/s41467-021-23282-x) | BECCS | 119 |
-| 2021 | [Global cooling induced by biophysical effects of bioenergy crop cultivation](https://doi.org/10.1038/s41467-021-27520-0) | BECCS | 34 |
-| 2021 | [Impact of bioenergy crops expansion on climate-carbon cycle feedbacks in overshoot scenarios](https://doi.org/10.5194/esd-2021-72) | BECCS | 16 |
+| 2025 | [World Climate Research Programme lighthouse activity: an assessment of major research gaps in solar radiation modification research](https://doi.org/10.3389/fclim.2025.1507479)<br><small>Frontiers in Climate · with Jim Haywood, Chris Lennard, Simone Tilmes, Trude Storelvmo, Daniele Visioni</small> | Cross-cutting CDR | 11 |
+| 2025 | [Potential and costs required for methane removal to compete with BECCS as a mitigation option](https://doi.org/10.1088/1748-9326/ada813)<br><small>Environmental Research Letters · with Yann Gaucher, Daniel Johansson, [Katsumasa Tanaka](/cdr-researcher-census/researchers/katsumasa-tanaka-a5033739/), [Philippe Ciais](/cdr-researcher-census/researchers/philippe-ciais-a5070378/)</small> | BECCS | 3 |
+| 2023 | [Relative benefits of allocating land to bioenergy crops and forests vary by region](https://doi.org/10.1038/s43247-023-00866-7)<br><small>Communications Earth & Environment · with Irina Melnikova, [Katsumasa Tanaka](/cdr-researcher-census/researchers/katsumasa-tanaka-a5033739/), Nicolas Vuichard, [Philippe Ciais](/cdr-researcher-census/researchers/philippe-ciais-a5070378/)</small> | BECCS | 27 |
+| 2022 | [Delayed use of bioenergy crops might threaten climate and food security](https://doi.org/10.1038/s41586-022-05055-8)<br><small>Nature · with Siqing Xu, [Ivan A. Janssens](/cdr-researcher-census/researchers/ivan-a-janssens-a5013418/), James H. Clark, Jianmin Chen, Jordi Sardans, Josep Peñuelas and 9 more</small> | BECCS | 131 |
+| 2022 | [Impact of bioenergy crop expansion on climate–carbon cycle feedbacks in overshoot scenarios](https://doi.org/10.5194/esd-13-779-2022)<br><small>Earth System Dynamics · with Irina Melnikova, Hideo Shiogama, Kaoru Tachiiri, [Katsumasa Tanaka](/cdr-researcher-census/researchers/katsumasa-tanaka-a5033739/), Nicolas Vuichard, Patricia Cadule and 6 more</small> | BECCS | 46 |
+| 2022 | [How do afforestation and BECCS differ in their impacts on the land carbon cycle and surface climate?](https://doi.org/10.21203/rs.3.rs-2137758/v1)<br><small>Research Square (Research Square) (preprint) · with Irina Melnikova, [Katsumasa Tanaka](/cdr-researcher-census/researchers/katsumasa-tanaka-a5033739/), Nicolas Vuichard, [Philippe Ciais](/cdr-researcher-census/researchers/philippe-ciais-a5070378/)</small> | BECCS | 0 |
+| 2021 | [Spatially explicit analysis identifies significant potential for bioenergy with carbon capture and storage in China](https://doi.org/10.1038/s41467-021-23282-x)<br><small>Nature Communications · with Xiaofan Xing, Bo Pan, [Daniel S. Goll](/cdr-researcher-census/researchers/daniel-s-goll-a5063381/), Gang Luo, Guofeng Shen, [Ivan A. Janssens](/cdr-researcher-census/researchers/ivan-a-janssens-a5013418/) and 19 more</small> | BECCS | 119 |
+| 2021 | [Global cooling induced by biophysical effects of bioenergy crop cultivation](https://doi.org/10.1038/s41467-021-27520-0)<br><small>Nature Communications · with [Daniel S. Goll](/cdr-researcher-census/researchers/daniel-s-goll-a5063381/), [Jinfeng Chang](/cdr-researcher-census/researchers/jinfeng-chang-a5025102/), Laurent Li, [Philippe Ciais](/cdr-researcher-census/researchers/philippe-ciais-a5070378/), [Thomas Gasser](/cdr-researcher-census/researchers/thomas-gasser-a5062044/)</small> | BECCS | 34 |
+| 2021 | [Impact of bioenergy crops expansion on climate-carbon cycle feedbacks in overshoot scenarios](https://doi.org/10.5194/esd-2021-72)<br><small>with Irina Melnikova, Hideo Shiogama, Kaoru Tachiiri, [Katsumasa Tanaka](/cdr-researcher-census/researchers/katsumasa-tanaka-a5033739/), Nicolas Vuichard, Patricia Cadule and 6 more</small> | BECCS | 16 |
 
 ---
 

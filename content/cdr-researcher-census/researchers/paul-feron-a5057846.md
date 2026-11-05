@@ -1,7 +1,7 @@
 ---
 title: "Paul Feron"
 description: "Paul Feron, Commonwealth Scientific and Industrial Research Organisation, Australia. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 19 by activity, 219 by citations. 216 publications, h-index 57, 11,565 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/paul-feron-a5057846/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,20 +43,20 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 9, Enhanced Weathering 2, Cross-cutting CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 9, Enhanced Weathering 2, Cross-cutting CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Integrated direct air capture and CO2 mineralization using amino acid salt solutions and alkaline solid wastes](https://openalex.org/W7160260987) | DAC | 3 |
-| 2026 | [Amine solutions for CO2-capture: how to get from PCC to DAC?](https://openalex.org/W7127621190) | DAC | 0 |
-| 2026 | [Ambient wind direction impacts on the performance of a CO2 direct air capture system determined using large eddy simulations](https://openalex.org/W7213397152) | DAC | 0 |
-| 2025 | [Techno-economic assessment of green urea production integrated with direct air capture](https://doi.org/10.1016/j.ecmx.2025.101015) | DAC | 3 |
-| 2025 | [Mineralisation as a carbon sink for DAC: A case-study for solar thermal process integration](https://doi.org/10.1016/j.clet.2025.100974) | DAC; Enhanced Weathering | 1 |
-| 2024 | [Ex-situ mineral carbonation process challenges and technology enablers: A review from Australia’s perspective](https://doi.org/10.1016/j.mineng.2024.109124) | DAC; Enhanced Weathering | 23 |
-| 2022 | [Green pathways for urea synthesis: A review from Australia's perspective](https://doi.org/10.1016/j.scca.2022.100008) | Cross-cutting CDR | 63 |
-| 2022 | [Reclaiming water from a direct air capture plant using vacuum membrane distillation – A bench-scale study](https://doi.org/10.1016/j.seppur.2022.122418) | DAC | 10 |
-| 2022 | [Direct Air Capture of CO2 using Amine-based Capture Technology](https://openalex.org/W4313127529) | DAC | 4 |
-| 2021 | [Liquefied synthetic methane from ambient CO2 and renewable H2 - A technoeconomic study](https://doi.org/10.1016/j.jngse.2021.104079) | DAC | 74 |
+| 2026 | [Integrated direct air capture and CO2 mineralization using amino acid salt solutions and alkaline solid wastes](https://openalex.org/W7160260987)<br><small>with Liang Li, [Ali Kiani](/cdr-researcher-census/researchers/ali-kiani-a5070604/), [Graeme Puxty](/cdr-researcher-census/researchers/graeme-puxty-a5088038/), Hai Bo Yu, Hai Yu</small> | DAC | 3 |
+| 2026 | [Amine solutions for CO2-capture: how to get from PCC to DAC?](https://openalex.org/W7127621190)<br><small>with [Ali Kiani](/cdr-researcher-census/researchers/ali-kiani-a5070604/)</small> | DAC | 0 |
+| 2026 | [Ambient wind direction impacts on the performance of a CO2 direct air capture system determined using large eddy simulations](https://openalex.org/W7213397152)<br><small>with Esmaeel Eftekharian, Aaron W. Thornton, [Ali Kiani](/cdr-researcher-census/researchers/ali-kiani-a5070604/), Ashok K. Luhar, Vassili Kitsios, Kathryn Emmerson</small> | DAC | 0 |
+| 2025 | [Techno-economic assessment of green urea production integrated with direct air capture](https://doi.org/10.1016/j.ecmx.2025.101015)<br><small>Energy Conversion and Management X · with Ehsan Soroodan Miandoab, [Ali Kiani](/cdr-researcher-census/researchers/ali-kiani-a5070604/), [Dia Milani](/cdr-researcher-census/researchers/dia-milani-a5067927/), Sanger Huang</small> | DAC | 3 |
+| 2025 | [Mineralisation as a carbon sink for DAC: A case-study for solar thermal process integration](https://doi.org/10.1016/j.clet.2025.100974)<br><small>Cleaner Engineering and Technology · with [Dia Milani](/cdr-researcher-census/researchers/dia-milani-a5067927/), Geoffrey Drewer, [Graeme Puxty](/cdr-researcher-census/researchers/graeme-puxty-a5088038/), Haftom Weldekidan, Michael Rae, [Nouman Rafique Mirza](/cdr-researcher-census/researchers/nouman-rafique-mirza-a5036697/) and 4 more</small> | DAC; Enhanced Weathering | 1 |
+| 2024 | [Ex-situ mineral carbonation process challenges and technology enablers: A review from Australia’s perspective](https://doi.org/10.1016/j.mineng.2024.109124)<br><small>Minerals Engineering · with [Dia Milani](/cdr-researcher-census/researchers/dia-milani-a5067927/), [Graeme Puxty](/cdr-researcher-census/researchers/graeme-puxty-a5088038/), Haftom Weldekidan, Phillip Fawell, Robbie A. McDonald</small> | DAC; Enhanced Weathering | 23 |
+| 2022 | [Green pathways for urea synthesis: A review from Australia's perspective](https://doi.org/10.1016/j.scca.2022.100008)<br><small>Sustainable Chemistry for Climate Action · with [Dia Milani](/cdr-researcher-census/researchers/dia-milani-a5067927/), [Ali Kiani](/cdr-researcher-census/researchers/ali-kiani-a5070604/), Nawshad Haque, Sarabjit Giddey</small> | Cross-cutting CDR | 63 |
+| 2022 | [Reclaiming water from a direct air capture plant using vacuum membrane distillation – A bench-scale study](https://doi.org/10.1016/j.seppur.2022.122418)<br><small>Separation and Purification Technology · with [Nouman Rafique Mirza](/cdr-researcher-census/researchers/nouman-rafique-mirza-a5036697/), Amr Omar, Debra Fernandes, Jessica Allen, Qiyuan Li, Robert A. Taylor and 2 more</small> | DAC | 10 |
+| 2022 | [Direct Air Capture of CO2 using Amine-based Capture Technology](https://openalex.org/W4313127529)<br><small>with [Ali Kiani](/cdr-researcher-census/researchers/ali-kiani-a5070604/), Ali Mohammad Pourkhesalian, Chen Rong Neoh, David Grillmeier, Robert D. Bennett, William Conway and 1 more</small> | DAC | 4 |
+| 2021 | [Liquefied synthetic methane from ambient CO2 and renewable H2 - A technoeconomic study](https://doi.org/10.1016/j.jngse.2021.104079)<br><small>Journal of Natural Gas Science and Engineering · with [Ali Kiani](/cdr-researcher-census/researchers/ali-kiani-a5070604/), Chao’en Li, Jim Patel, Michaël Lejeune</small> | DAC | 74 |
 
 ---
 

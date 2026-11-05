@@ -1,7 +1,7 @@
 ---
 title: "Ansgar Kretzschmar"
 description: "Ansgar Kretzschmar, Forschungszentrum Jülich, Germany. 33 publications, h-index 8, 324 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/ansgar-kretzschmar-a5036859/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,14 +42,14 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-4 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 4. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+4 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 4. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Co-Adsorption of H2O and CO2 on a Commercial Material for Direct Air Capture (DAC)](https://openalex.org/W7153696312) | DAC | 0 |
-| 2025 | [Overcoming the energy–water nexus in dry regions – water-positive production of green hydrogen carriers and base chemicals: the DryHy project – technical aspects](https://doi.org/10.1039/d4se01783h) | DAC | 6 |
-| 2025 | [CO <sub>2</sub> Value Chain –from Direct Air Capture Towards Electrochemical Reduction and Value Added Products](https://doi.org/10.1149/ma2025-02281535mtgabs) | DAC | 0 |
-| 2025 | [CO2 Value Chain –from Direct Air Capture Towards Electrochemical Reduction and Value Added Products](https://openalex.org/W7162159534) | DAC | 0 |
+| 2026 | [Co-Adsorption of H2O and CO2 on a Commercial Material for Direct Air Capture (DAC)](https://openalex.org/W7153696312)<br><small>with [Hermann Tempel](/cdr-researcher-census/researchers/hermann-tempel-a5014866/), [Victor Selmert](/cdr-researcher-census/researchers/victor-selmert-a5017213/), Rüdiger-A. Eichel, [Rüdiger‐A. Eichel](/cdr-researcher-census/researchers/rudigera-eichel-a5089732/)</small> | DAC | 0 |
+| 2025 | [Overcoming the energy–water nexus in dry regions – water-positive production of green hydrogen carriers and base chemicals: the DryHy project – technical aspects](https://doi.org/10.1039/d4se01783h)<br><small>Sustainable Energy & Fuels · with [Victor Selmert](/cdr-researcher-census/researchers/victor-selmert-a5017213/), Chang Ryul Jung, Gbenga Jerome, [Hermann Tempel](/cdr-researcher-census/researchers/hermann-tempel-a5014866/), Leandros Paschalidis, Nicolas Kruse and 6 more</small> | DAC | 6 |
+| 2025 | [CO <sub>2</sub> Value Chain –from Direct Air Capture Towards Electrochemical Reduction and Value Added Products](https://doi.org/10.1149/ma2025-02281535mtgabs)<br><small>ECS Meeting Abstracts · with [Hermann Tempel](/cdr-researcher-census/researchers/hermann-tempel-a5014866/), Bernhard Schmid, Muhammad Tayyab, Sergio Sanz, Urbain Nzotcha, [Victor Selmert](/cdr-researcher-census/researchers/victor-selmert-a5017213/) and 1 more</small> | DAC | 0 |
+| 2025 | [CO2 Value Chain –from Direct Air Capture Towards Electrochemical Reduction and Value Added Products](https://openalex.org/W7162159534)<br><small>with [Hermann Tempel](/cdr-researcher-census/researchers/hermann-tempel-a5014866/), Bernhard Schmid, Muhammad Tayyab, Sergio Sanz, Urbain Nzotcha, [Victor Selmert](/cdr-researcher-census/researchers/victor-selmert-a5017213/) and 2 more</small> | DAC | 0 |
 
 ---
 

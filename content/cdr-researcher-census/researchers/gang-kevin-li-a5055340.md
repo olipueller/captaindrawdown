@@ -1,7 +1,7 @@
 ---
 title: "Gang Kevin Li"
 description: "Gang Kevin Li, The University of Melbourne, Australia. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 69 by activity, 2131 by citations. 161 publications, h-index 34, 4,130 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/gang-kevin-li-a5055340/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-5 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 4, Ocean CDR 1, Cross-cutting CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+5 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 4, Ocean CDR 1, Cross-cutting CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Direct air capture technologies: innovations, integration, and pathways to scale](https://openalex.org/W7167506713) | DAC | 4 |
-| 2026 | [A Comparative Review of Biological, Electrochemical, and Membrane-Based Methods for Direct Ocean Carbon Capture](https://openalex.org/W7157239568) | DAC; Ocean CDR | 0 |
-| 2026 | [Direct Air Capture Technologies: Innovations, Integration, and Pathways to Scale](https://openalex.org/W7164711330) | DAC | 0 |
-| 2026 | [Promoting the regeneration of polyethylenimine‐impregnated sorbents through <i>in situ</i> vapor purge for direct air capture](https://openalex.org/W7201982584) | DAC | 0 |
-| 2022 | [Hydrogen production from the air](https://doi.org/10.1038/s41467-022-32652-y) | Cross-cutting CDR | 161 |
+| 2026 | [Direct air capture technologies: innovations, integration, and pathways to scale](https://openalex.org/W7167506713)<br><small>with Chuhan Fu, Fu Rao, Na Geng, Na Geng, Tao Qi, Tingyu Zhu and 10 more</small> | DAC | 4 |
+| 2026 | [A Comparative Review of Biological, Electrochemical, and Membrane-Based Methods for Direct Ocean Carbon Capture](https://openalex.org/W7157239568)<br><small>with Zi Wang, Hang Cao, Jiayu Zheng, Shupeng Li, Siyuan Guo, Ting Zhang and 1 more</small> | DAC; Ocean CDR | 0 |
+| 2026 | [Direct Air Capture Technologies: Innovations, Integration, and Pathways to Scale](https://openalex.org/W7164711330)<br><small>with Chuhan Fu, Na Geng, Na Geng, Rao Fu, Tao Qi, Tingyu Zhu and 9 more</small> | DAC | 0 |
+| 2026 | [Promoting the regeneration of polyethylenimine‐impregnated sorbents through <i>in situ</i> vapor purge for direct air capture](https://openalex.org/W7201982584)<br><small>with Yongqiang Wang, Guoping Hu, Paul Webley, Qiuran Yang</small> | DAC | 0 |
+| 2022 | [Hydrogen production from the air](https://doi.org/10.1038/s41467-022-32652-y)<br><small>Nature Communications · with Jining Guo, Ali Zavabeti, Guoping Hu, Kaifei Chen, Xiaolei Fan, Yalou Guo and 1 more</small> | Cross-cutting CDR | 161 |
 
 ---
 

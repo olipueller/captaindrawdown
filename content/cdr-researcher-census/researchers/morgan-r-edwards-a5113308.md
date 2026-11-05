@@ -1,7 +1,7 @@
 ---
 title: "Morgan R. Edwards"
 description: "Morgan R. Edwards, University of Wisconsin–Madison, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 58 by activity, 3480 by citations. 63 publications, h-index 14, 1,252 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/morgan-r-edwards-a5113308/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,18 +40,18 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Cross-cutting CDR 7, DAC 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Cross-cutting CDR 7, DAC 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Chapter 3: Demonstration and upscaling, The State of Carbon Dioxide Removal - 3rd Edition (2026)](https://openalex.org/W7153481903) | Cross-cutting CDR | 0 |
-| 2026 | [The State of Carbon Dioxide Removal - 3rd Edition (2026)](https://openalex.org/W7153562439) | Cross-cutting CDR | 0 |
-| 2026 | [Chapter 1: Introduction, The State of Carbon Dioxide Removal - 3rd Edition (2026)](https://openalex.org/W7153570584) | Cross-cutting CDR | 0 |
-| 2026 | [Chapter 1: Introduction, The State of Carbon Dioxide Removal - 3rd Edition (2026)](https://openalex.org/W7166405814) | Cross-cutting CDR | 0 |
-| 2026 | [Chapter 3: Demonstration and upscaling, The State of Carbon Dioxide Removal - 3rd Edition (2026)](https://openalex.org/W7166411189) | Cross-cutting CDR | 0 |
-| 2026 | [Residual emissions may perpetuate community-scale inequalities in US air pollution](https://openalex.org/W7166668612) | Cross-cutting CDR | 0 |
-| 2025 | [Risks of relying on uncertain carbon dioxide removal in climate policy](https://doi.org/10.1038/s41467-025-61106-4) | Cross-cutting CDR | 16 |
-| 2024 | [Modeling direct air carbon capture and storage in a 1.5 °C climate future using historical analogs](https://doi.org/10.1073/pnas.2215679121) | DAC | 42 |
+| 2026 | [Chapter 3: Demonstration and upscaling, The State of Carbon Dioxide Removal - 3rd Edition (2026)](https://openalex.org/W7153481903)<br><small>with Sarah Singleton, [Gregory F. Nemet](/cdr-researcher-census/researchers/gregory-f-nemet-a5033478/)</small> | Cross-cutting CDR | 0 |
+| 2026 | [The State of Carbon Dioxide Removal - 3rd Edition (2026)](https://openalex.org/W7153562439)<br><small>with Sarah Singleton, Abby Lunstrum, [Benedict Probst](/cdr-researcher-census/researchers/benedict-probst-a5091139/), [Elina Brutschin](/cdr-researcher-census/researchers/elina-brutschin-a5005798/), [Finn Müller-Hansen](/cdr-researcher-census/researchers/finn-muller-hansen-a5048034/), [Giacomo Grassi](/cdr-researcher-census/researchers/giacomo-grassi-a5015410/) and 13 more</small> | Cross-cutting CDR | 0 |
+| 2026 | [Chapter 1: Introduction, The State of Carbon Dioxide Removal - 3rd Edition (2026)](https://openalex.org/W7153570584)<br><small>with Sarah Singleton, [Matthew Gidden](/cdr-researcher-census/researchers/matthew-gidden-a5012881/), [Oliver Geden](/cdr-researcher-census/researchers/oliver-geden-a5016996/), [Stephen M. Smith](/cdr-researcher-census/researchers/stephen-m-smith-a5110129/)</small> | Cross-cutting CDR | 0 |
+| 2026 | [Chapter 1: Introduction, The State of Carbon Dioxide Removal - 3rd Edition (2026)](https://openalex.org/W7166405814)<br><small>with [Matthew Gidden](/cdr-researcher-census/researchers/matthew-gidden-a5012881/), [Oliver Geden](/cdr-researcher-census/researchers/oliver-geden-a5016996/), Steve Smith</small> | Cross-cutting CDR | 0 |
+| 2026 | [Chapter 3: Demonstration and upscaling, The State of Carbon Dioxide Removal - 3rd Edition (2026)](https://openalex.org/W7166411189)<br><small>with [Gregory F. Nemet](/cdr-researcher-census/researchers/gregory-f-nemet-a5033478/)</small> | Cross-cutting CDR | 0 |
+| 2026 | [Residual emissions may perpetuate community-scale inequalities in US air pollution](https://openalex.org/W7166668612)<br><small>with Candelaria Bergero, Destenie Nock, [Haewon McJeon](/cdr-researcher-census/researchers/haewon-mcjeon-a5062879/), Inês L. Azevedo, Jing Cheng, Qiang Zhang and 2 more</small> | Cross-cutting CDR | 0 |
+| 2025 | [Risks of relying on uncertain carbon dioxide removal in climate policy](https://doi.org/10.1038/s41467-025-61106-4)<br><small>Nature Communications · with Matilyn Bindl, Ryna Cui</small> | Cross-cutting CDR | 16 |
+| 2024 | [Modeling direct air carbon capture and storage in a 1.5 °C climate future using historical analogs](https://doi.org/10.1073/pnas.2215679121)<br><small>Proceedings of the National Academy of Sciences · with [Gregory F. Nemet](/cdr-researcher-census/researchers/gregory-f-nemet-a5033478/), [Jay Fuhrman](/cdr-researcher-census/researchers/jay-fuhrman-a5034052/), Jenna Greene, Kathleen M. Kennedy, Kavita Surana, Sagar Rathod and 2 more</small> | DAC | 42 |
 
 ---
 

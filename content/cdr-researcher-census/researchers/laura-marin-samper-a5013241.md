@@ -1,7 +1,7 @@
 ---
 title: "Laura Marín-Samper"
 description: "Laura Marín-Samper, Universidad de Las Palmas de Gran Canaria, Spain. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 91 by activity, 76 by citations. 17 publications, h-index 4, 214 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/laura-marin-samper-a5013241/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 8. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 8. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Carbon fixation of a temperate plankton community in response to calcium- and silicate-based Ocean Alkalinity Enhancement using air-sea gas exchange measurements](https://doi.org/10.5194/bg-23-137-2026) | Ocean CDR | 4 |
-| 2026 | [Ocean alkalinity enhancement reduces silica ballasting during export due to amplified dissolution](https://openalex.org/W7167673269) | Ocean CDR | 1 |
-| 2026 | [Ocean alkalinity enhancement reduces silica ballasting during export due to amplified dissolution](https://doi.org/10.5194/egusphere-2026-1300) | Ocean CDR | 0 |
-| 2025 | [Air-sea gas exchange measurements helped derive in-situ organic and inorganic carbon fixation in response to Ocean Alkalinity Enhancement in a temperate plankton community](https://doi.org/10.5194/egusphere-2025-524) | Ocean CDR | 1 |
-| 2024 | [Assessing the impact of CO <sub>2</sub> -equilibrated ocean alkalinity enhancement on microbial metabolic rates in an oligotrophic system](https://doi.org/10.5194/bg-21-2859-2024) | Ocean CDR | 25 |
-| 2024 | [Responses of microbial metabolic rates to non-equilibrated silicate- versus calcium-based ocean alkalinity enhancement](https://doi.org/10.5194/bg-21-5707-2024) | Ocean CDR | 8 |
-| 2024 | [Responses of microbial metabolic rates to non-equilibrated silicate vs calcium-based ocean alkalinity enhancement](https://doi.org/10.5194/egusphere-2024-1776) | Ocean CDR | 0 |
-| 2023 | [Stability of alkalinity in ocean alkalinity enhancement (OAE) approaches – consequences for durability of CO <sub>2</sub> storage](https://doi.org/10.5194/bg-20-781-2023) | Ocean CDR | 180 |
+| 2026 | [Carbon fixation of a temperate plankton community in response to calcium- and silicate-based Ocean Alkalinity Enhancement using air-sea gas exchange measurements](https://doi.org/10.5194/bg-23-137-2026)<br><small>Biogeosciences · with [Julieta Schneider](/cdr-researcher-census/researchers/julieta-schneider-a5032139/), [Charly A. Moras](/cdr-researcher-census/researchers/charly-a-moras-a5020057/), Joaquín Ortíz-Cortes, [Leila Kittu](/cdr-researcher-census/researchers/leila-kittu-a5085342/), [Ulf Riebesell](/cdr-researcher-census/researchers/ulf-riebesell-a5005675/), [Kai G. Schulz](/cdr-researcher-census/researchers/kai-g-schulz-a5091734/)</small> | Ocean CDR | 4 |
+| 2026 | [Ocean alkalinity enhancement reduces silica ballasting during export due to amplified dissolution](https://openalex.org/W7167673269)<br><small>with Philipp Suessle, Joana Barcelos e Ramos, Juliane Katharina Tammen, [Julieta Schneider](/cdr-researcher-census/researchers/julieta-schneider-a5032139/), [Kai G. Schulz](/cdr-researcher-census/researchers/kai-g-schulz-a5091734/), [Leila Kittu](/cdr-researcher-census/researchers/leila-kittu-a5085342/) and 4 more</small> | Ocean CDR | 1 |
+| 2026 | [Ocean alkalinity enhancement reduces silica ballasting during export due to amplified dissolution](https://doi.org/10.5194/egusphere-2026-1300)<br><small>with Philipp Suessle, Joana Barcelos e Ramos, Juliane Katharina Tammen, [Julieta Schneider](/cdr-researcher-census/researchers/julieta-schneider-a5032139/), [Kai G. Schulz](/cdr-researcher-census/researchers/kai-g-schulz-a5091734/), [Leila Kittu](/cdr-researcher-census/researchers/leila-kittu-a5085342/) and 2 more</small> | Ocean CDR | 0 |
+| 2025 | [Air-sea gas exchange measurements helped derive in-situ organic and inorganic carbon fixation in response to Ocean Alkalinity Enhancement in a temperate plankton community](https://doi.org/10.5194/egusphere-2025-524)<br><small>preprint · with [Julieta Schneider](/cdr-researcher-census/researchers/julieta-schneider-a5032139/), [Charly A. Moras](/cdr-researcher-census/researchers/charly-a-moras-a5020057/), Joaquín Ortíz-Cortes, [Leila Kittu](/cdr-researcher-census/researchers/leila-kittu-a5085342/), [Ulf Riebesell](/cdr-researcher-census/researchers/ulf-riebesell-a5005675/), [Kai G. Schulz](/cdr-researcher-census/researchers/kai-g-schulz-a5091734/)</small> | Ocean CDR | 1 |
+| 2024 | [Assessing the impact of CO <sub>2</sub> -equilibrated ocean alkalinity enhancement on microbial metabolic rates in an oligotrophic system](https://doi.org/10.5194/bg-21-2859-2024)<br><small>Biogeosciences · with Andrea Ludwig, Javier Arı́stegui, Joaquín Ortiz, Nauzet Hernández‐Hernández, Stephen D. Archer, [Ulf Riebesell](/cdr-researcher-census/researchers/ulf-riebesell-a5005675/)</small> | Ocean CDR | 25 |
+| 2024 | [Responses of microbial metabolic rates to non-equilibrated silicate- versus calcium-based ocean alkalinity enhancement](https://doi.org/10.5194/bg-21-5707-2024)<br><small>Biogeosciences · with Javier Arı́stegui, Nauzet Hernández‐Hernández, [Ulf Riebesell](/cdr-researcher-census/researchers/ulf-riebesell-a5005675/)</small> | Ocean CDR | 8 |
+| 2024 | [Responses of microbial metabolic rates to non-equilibrated silicate vs calcium-based ocean alkalinity enhancement](https://doi.org/10.5194/egusphere-2024-1776)<br><small>preprint · with Javier Arı́stegui, Nauzet Hernández‐Hernández, [Ulf Riebesell](/cdr-researcher-census/researchers/ulf-riebesell-a5005675/)</small> | Ocean CDR | 0 |
+| 2023 | [Stability of alkalinity in ocean alkalinity enhancement (OAE) approaches – consequences for durability of CO <sub>2</sub> storage](https://doi.org/10.5194/bg-20-781-2023)<br><small>Biogeosciences · with [Jens Hartmann](/cdr-researcher-census/researchers/jens-hartmann-a5019869/), Carl Lim, [Jan Taucher](/cdr-researcher-census/researchers/jan-taucher-a5007343/), Javier Arı́stegui, [Julieta Schneider](/cdr-researcher-census/researchers/julieta-schneider-a5032139/), [Niels Suitner](/cdr-researcher-census/researchers/niels-suitner-a5035414/) and 2 more</small> | Ocean CDR | 180 |
 
 ---
 

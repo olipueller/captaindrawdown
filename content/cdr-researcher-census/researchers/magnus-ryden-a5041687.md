@@ -1,7 +1,7 @@
 ---
 title: "Magnus Rydén"
 description: "Magnus Rydén, Chalmers University of Technology, Sweden. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 90 by activity, 1120 by citations. 137 publications, h-index 45, 5,747 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/magnus-ryden-a5041687/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,14 +43,14 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-4 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 4. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+4 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 4. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Regretting carbon capture from bioenergy – A case study](https://openalex.org/W7160055675) | BECCS | 0 |
-| 2024 | [A robust investment decision to deploy bioenergy carbon capture and storage—exploring the case of Stockholm Exergi](https://doi.org/10.3389/fenrg.2023.1250537) | BECCS | 11 |
-| 2024 | [A Million Scenarios to Identify Conditions for Robust Bioenergy Carbon Capture in Sweden](https://doi.org/10.2139/ssrn.5070709) | BECCS | 0 |
-| 2023 | [An improved method for feeding ash model compounds to a bubbling fluidized bed – CLC experiments with ilmenite, methane, and K<sub>2</sub>CO<sub>3</sub>](https://doi.org/10.1002/ghg.2218) | BECCS | 8 |
+| 2026 | [Regretting carbon capture from bioenergy – A case study](https://openalex.org/W7160055675)<br><small>with [Oscar Stenström](/cdr-researcher-census/researchers/oscar-stenstrom-a5083858/)</small> | BECCS | 0 |
+| 2024 | [A robust investment decision to deploy bioenergy carbon capture and storage—exploring the case of Stockholm Exergi](https://doi.org/10.3389/fenrg.2023.1250537)<br><small>Frontiers in Energy Research · with [Oscar Stenström](/cdr-researcher-census/researchers/oscar-stenstrom-a5083858/), Dilip Khatiwada, Fabian Levihn, Will Usher</small> | BECCS | 11 |
+| 2024 | [A Million Scenarios to Identify Conditions for Robust Bioenergy Carbon Capture in Sweden](https://doi.org/10.2139/ssrn.5070709)<br><small>SSRN Electronic Journal (preprint) · with [Oscar Stenström](/cdr-researcher-census/researchers/oscar-stenstrom-a5083858/), Tharun Kumar Roshan, Tharun Roshan Kumar</small> | BECCS | 0 |
+| 2023 | [An improved method for feeding ash model compounds to a bubbling fluidized bed – CLC experiments with ilmenite, methane, and K<sub>2</sub>CO<sub>3</sub>](https://doi.org/10.1002/ghg.2218)<br><small>Greenhouse Gases Science and Technology · with Felicia Störner, Henrik Leion, Pavleta Knutsson, Tobias Mattisson</small> | BECCS | 8 |
 
 ---
 

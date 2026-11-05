@@ -1,7 +1,7 @@
 ---
 title: "Iris Janssens"
 description: "Iris Janssens, University of Antwerp, Belgium. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 99 by activity, 951 by citations. 31 publications, h-index 8, 246 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/iris-janssens-a5051345/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,17 +43,17 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 7, Biochar 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 7, Biochar 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Contribution of dissolved organic carbon to total alkalinity in Enhanced Weathering experiments](https://doi.org/10.1016/j.apgeochem.2026.106685) | Enhanced Weathering | 1 |
-| 2026 | [Bayesian optimal experiment design for enhanced mineral weathering with gradient boosted decision trees](https://openalex.org/W7164934057) | Enhanced Weathering | 0 |
-| 2025 | [Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment](https://doi.org/10.12688/openreseurope.19252.1) | Enhanced Weathering | 0 |
-| 2025 | [Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment](https://openalex.org/W4411985761) | Biochar; Enhanced Weathering | 0 |
+| 2026 | [Contribution of dissolved organic carbon to total alkalinity in Enhanced Weathering experiments](https://doi.org/10.1016/j.apgeochem.2026.106685)<br><small>Applied Geochemistry · with [Lukas Rieder](/cdr-researcher-census/researchers/lukas-rieder-a5093245/), [Abhijeet Singh](/cdr-researcher-census/researchers/abhijeet-singh-a5044155/), [Alix Vidal](/cdr-researcher-census/researchers/alix-vidal-a5059677/), [Anna Neubeck](/cdr-researcher-census/researchers/anna-neubeck-a5004740/), [Harun Niron](/cdr-researcher-census/researchers/harun-niron-a5045276/), [Ivan A. Janssens](/cdr-researcher-census/researchers/ivan-a-janssens-a5013418/) and 11 more</small> | Enhanced Weathering | 1 |
+| 2026 | [Bayesian optimal experiment design for enhanced mineral weathering with gradient boosted decision trees](https://openalex.org/W7164934057)<br><small>with Thomas Servotte, Jakob Raymaekers, Tim Verdonck</small> | Enhanced Weathering | 0 |
+| 2025 | [Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment](https://doi.org/10.12688/openreseurope.19252.1)<br><small>Open Research Europe · with [Abhijeet Singh](/cdr-researcher-census/researchers/abhijeet-singh-a5044155/), [Alix Vidal](/cdr-researcher-census/researchers/alix-vidal-a5059677/), [Anna Neubeck](/cdr-researcher-census/researchers/anna-neubeck-a5004740/), [Harun Niron](/cdr-researcher-census/researchers/harun-niron-a5045276/), [Ivan A. Janssens](/cdr-researcher-census/researchers/ivan-a-janssens-a5013418/), Jan Willem van Groenigen and 13 more</small> | Enhanced Weathering | 0 |
+| 2025 | [Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment](https://openalex.org/W4411985761)<br><small>with [Abhijeet Singh](/cdr-researcher-census/researchers/abhijeet-singh-a5044155/), [Alix Vidal](/cdr-researcher-census/researchers/alix-vidal-a5059677/), [Anna Neubeck](/cdr-researcher-census/researchers/anna-neubeck-a5004740/), [Harun Niron](/cdr-researcher-census/researchers/harun-niron-a5045276/), [Ivan A. Janssens](/cdr-researcher-census/researchers/ivan-a-janssens-a5013418/), Jan Willem van Groenigen and 13 more</small> | Biochar; Enhanced Weathering | 0 |
 | 2025 | [Innovative data-driven approaches for environmental sciences](https://openalex.org/W4417232423) | Enhanced Weathering | 0 |
-| 2024 | [How earthworms thrive and drive silicate rock weathering in an artificial organo-mineral system](https://doi.org/10.1016/j.apgeochem.2024.106271) | Enhanced Weathering | 8 |
-| 2023 | [Design and Construction of an Experimental Setup to Enhance Mineral Weathering through the Activity of Soil Organisms](https://doi.org/10.3791/65563) | Enhanced Weathering | 10 |
+| 2024 | [How earthworms thrive and drive silicate rock weathering in an artificial organo-mineral system](https://doi.org/10.1016/j.apgeochem.2024.106271)<br><small>Applied Geochemistry · with [Tullia Calogiuri](/cdr-researcher-census/researchers/tullia-calogiuri-a5091603/), [Abhijeet Singh](/cdr-researcher-census/researchers/abhijeet-singh-a5044155/), [Alix Vidal](/cdr-researcher-census/researchers/alix-vidal-a5059677/), [Anna Neubeck](/cdr-researcher-census/researchers/anna-neubeck-a5004740/), [Harun Niron](/cdr-researcher-census/researchers/harun-niron-a5045276/), Jan Willem van Groenigen and 10 more</small> | Enhanced Weathering | 8 |
+| 2023 | [Design and Construction of an Experimental Setup to Enhance Mineral Weathering through the Activity of Soil Organisms](https://doi.org/10.3791/65563)<br><small>Journal of Visualized Experiments · with [Tullia Calogiuri](/cdr-researcher-census/researchers/tullia-calogiuri-a5091603/), [Anna Neubeck](/cdr-researcher-census/researchers/anna-neubeck-a5004740/), Eric Struyf, Grant Loescher, Guillermo Ledesma Dominguez, [Harun Niron](/cdr-researcher-census/researchers/harun-niron-a5045276/) and 15 more</small> | Enhanced Weathering | 10 |
 
 ---
 

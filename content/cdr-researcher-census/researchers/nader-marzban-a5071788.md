@@ -1,7 +1,7 @@
 ---
 title: "Nader Marzban"
 description: "Nader Marzban, Leibniz Institute for Agricultural Engineering and Bioeconomy, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 95 by activity, 1602 by citations. 59 publications, h-index 19, 1,145 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/nader-marzban-a5071788/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,16 +43,16 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 6. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 6. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Progress and challenges in thermochemical technologies for biomass humification: A comprehensive review](https://doi.org/10.1016/j.rser.2026.116775) | Biochar | 5 |
-| 2026 | [CAN HYDROTHERMAL BIOMASS PROCESSING SERVE AS AN ANALOGUE OF MILLENNIA-SCALE NATURAL CARBON MATURATION? A UNIFIED PERSPECTIVE ON CARBONISATION, HUMIFICATION, AND FULVIFICATION](https://doi.org/10.46754/ps.2026.01.002) | Biochar | 1 |
-| 2026 | [Biochar from poplar sawdust for digestate nutrient recovery and potential for long-term carbon sequestration](https://openalex.org/W7167362631) | Biochar | 1 |
-| 2025 | [Smart integrated biorefineries in bioeconomy: A concept toward zero-waste, emission reduction, and self-sufficient energy production](https://doi.org/10.18331/brj2025.12.1.4) | Biochar | 64 |
-| 2025 | [Transitioning from hydrothermal carbonization to humification for producing artificial humic substances](https://doi.org/10.1016/j.biortech.2025.133306) | Biochar | 25 |
-| 2025 | [Artificial Humic Substances Via Hydrothermal Conversion of Biomass: Unlocking the Transition from Carbonization to Humification](https://doi.org/10.2139/ssrn.5364855) | Biochar | 0 |
+| 2026 | [Progress and challenges in thermochemical technologies for biomass humification: A comprehensive review](https://doi.org/10.1016/j.rser.2026.116775)<br><small>Renewable and Sustainable Energy Reviews · with Ehsan Sarlaki, Atefe Malekian, Giulia Ischia, Maryam Ahmadi, Meisam Rezaei, Meisam Tabatabaei and 5 more</small> | Biochar | 5 |
+| 2026 | [CAN HYDROTHERMAL BIOMASS PROCESSING SERVE AS AN ANALOGUE OF MILLENNIA-SCALE NATURAL CARBON MATURATION? A UNIFIED PERSPECTIVE ON CARBONISATION, HUMIFICATION, AND FULVIFICATION](https://doi.org/10.46754/ps.2026.01.002)<br><small>PLANETARY SUSTAINABILITY · with Ehsan Sarlaki</small> | Biochar | 1 |
+| 2026 | [Biochar from poplar sawdust for digestate nutrient recovery and potential for long-term carbon sequestration](https://openalex.org/W7167362631)<br><small>with Saman Ghobadian, Matthias Kraume, Meisam Tabatabaei, Mortaza Aghbashlo, Osvaldo Romero Romero</small> | Biochar | 1 |
+| 2025 | [Smart integrated biorefineries in bioeconomy: A concept toward zero-waste, emission reduction, and self-sufficient energy production](https://doi.org/10.18331/brj2025.12.1.4)<br><small>Biofuel Research Journal · with Agata Olszewska‐Widdrat, Arman Arefi, Christiane Herrmann, Lisa Schulz-Nielsen, Marios Psarianos, Oliver Schlüter and 6 more</small> | Biochar | 64 |
+| 2025 | [Transitioning from hydrothermal carbonization to humification for producing artificial humic substances](https://doi.org/10.1016/j.biortech.2025.133306)<br><small>Bioresource Technology · with Giulia Ischia, Johannes Schmidt, Alexander Volikov</small> | Biochar | 25 |
+| 2025 | [Artificial Humic Substances Via Hydrothermal Conversion of Biomass: Unlocking the Transition from Carbonization to Humification](https://doi.org/10.2139/ssrn.5364855)<br><small>SSRN Electronic Journal (preprint) · with Giulia Ischia, Johannes Schmidt, Alexander Volikov</small> | Biochar | 0 |
 
 ---
 

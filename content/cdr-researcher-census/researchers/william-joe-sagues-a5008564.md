@@ -1,7 +1,7 @@
 ---
 title: "William Joe Sagues"
 description: "William Joe Sagues, North Carolina State University, United States. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 19 by activity, 275 by citations. 59 publications, h-index 16, 1,211 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/william-joe-sagues-a5008564/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,22 +43,22 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-12 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 6, Cross-cutting CDR 4, Biochar 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+12 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 6, Cross-cutting CDR 4, Biochar 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Quantifying atmospheric carbon removal at pulp and paper mills: a life cycle assessment across system boundaries](https://doi.org/10.1007/s43979-025-00156-5) | BECCS | 0 |
-| 2026 | [Integrating Carbon Capture, Utilization, & Sequestration into Chemical Pulp Mills](https://openalex.org/W7204075608) | Cross-cutting CDR | 0 |
-| 2026 | [Techno-economic assessment of atmospheric carbon removal via anaerobic digestion of biomass waste](https://openalex.org/W7213772039) | Cross-cutting CDR | 0 |
-| 2025 | [A techno-economic assessment of carbon dioxide removal pathways via biochemical conversion of lignocellulose to biofuels and bioplastics](https://doi.org/10.1016/j.rser.2025.115714) | BECCS | 13 |
-| 2025 | [Environmental Life Cycle Assessment and Techno-Economic Analysis of Textile Waste Valorization via Modular Bioenergy with Carbon Capture, Utilization, and Storage](https://doi.org/10.1007/s12155-025-10909-w) | BECCS | 7 |
-| 2025 | [Biogenic carbon capture at pulp mills via sodium spiking and oxy-fuel calcination](https://doi.org/10.1016/j.ijggc.2025.104409) | BECCS | 5 |
-| 2025 | [Gaseous carbon dioxide removal from composting of biomass and cotton textile waste](https://doi.org/10.1016/j.wasman.2025.115108) | Biochar | 1 |
-| 2025 | [Biocarbon Flow Capacitors (BFCs) for Energy Storage and Carbon Removal](https://doi.org/10.1149/ma2025-02197mtgabs) | Cross-cutting CDR | 0 |
-| 2024 | [Biomass composting with gaseous carbon dioxide capture](https://doi.org/10.1039/d3su00411b) | BECCS | 6 |
-| 2023 | [Roads to Removal: Options for Carbon Dioxide Removal in the United States](https://doi.org/10.2172/2301853) | Cross-cutting CDR | 61 |
-| 2023 | [Leveraging the bioeconomy for carbon drawdown](https://doi.org/10.1039/d2gc02483g) | BECCS | 60 |
-| 2023 | [Green Needle Coke Production from Pyrolysis Biocrude toward Bio-based Anode Material Manufacture: Biochar Fines Addition Effect as “Physical Template” on the Crystalline Order](https://doi.org/10.1021/acssuschemeng.2c06952) | Biochar | 11 |
+| 2026 | [Quantifying atmospheric carbon removal at pulp and paper mills: a life cycle assessment across system boundaries](https://doi.org/10.1007/s43979-025-00156-5)<br><small>Carbon Neutrality · with Edgar Carrejo, [Daniel L. Sanchez](/cdr-researcher-census/researchers/daniel-l-sanchez-a5016864/), Dianne Sanchez, Kai Lan, Rhonald Ortega, Sunkyu Park</small> | BECCS | 0 |
+| 2026 | [Integrating Carbon Capture, Utilization, & Sequestration into Chemical Pulp Mills](https://openalex.org/W7204075608)<br><small>with USDOE Office of Critical Minerals and Energy Innovation (CMEI), Office of Innovation, Affordability, and Consumer Choice (IACC). Industrial Technologies Office (ITO), Energy Efficiency Office. Industrial Efficiency & Decarbonization Office (IEDO) USDOE Office of Energy Efficiency and Renewable Energy (EERE), Fanxing Li, Rachel L. Cook, Sunkyu Park, William Sagues and 1 more</small> | Cross-cutting CDR | 0 |
+| 2026 | [Techno-economic assessment of atmospheric carbon removal via anaerobic digestion of biomass waste](https://openalex.org/W7213772039)<br><small>with Julia Cunniffe, Chloe Lum, Jay J. Cheng, Yaojing Qiu</small> | Cross-cutting CDR | 0 |
+| 2025 | [A techno-economic assessment of carbon dioxide removal pathways via biochemical conversion of lignocellulose to biofuels and bioplastics](https://doi.org/10.1016/j.rser.2025.115714)<br><small>Renewable and Sustainable Energy Reviews · with Nicolás M. Clauser, Corinne D. Scown, Jennifer Pett‐Ridge</small> | BECCS | 13 |
+| 2025 | [Environmental Life Cycle Assessment and Techno-Economic Analysis of Textile Waste Valorization via Modular Bioenergy with Carbon Capture, Utilization, and Storage](https://doi.org/10.1007/s12155-025-10909-w)<br><small>BioEnergy Research · with Jonathan Morizet-Davis, Jesse Daystar, June Khongpatimakorn, Kai Lan, Sunkyu Park, Yaojing Qiu and 1 more</small> | BECCS | 7 |
+| 2025 | [Biogenic carbon capture at pulp mills via sodium spiking and oxy-fuel calcination](https://doi.org/10.1016/j.ijggc.2025.104409)<br><small>International journal of greenhouse gas control · with Edgar Carrejo, Hasan Jameel, Sunkyu Park</small> | BECCS | 5 |
+| 2025 | [Gaseous carbon dioxide removal from composting of biomass and cotton textile waste](https://doi.org/10.1016/j.wasman.2025.115108)<br><small>Waste Management · with Ethan Woods, Jesse Daystar, Perry Berlin</small> | Biochar | 1 |
+| 2025 | [Biocarbon Flow Capacitors (BFCs) for Energy Storage and Carbon Removal](https://doi.org/10.1149/ma2025-02197mtgabs)<br><small>ECS Meeting Abstracts · with Nate T. Garland, Alan Ferris</small> | Cross-cutting CDR | 0 |
+| 2024 | [Biomass composting with gaseous carbon dioxide capture](https://doi.org/10.1039/d3su00411b)<br><small>RSC Sustainability · with Ethan Woods, Nicolás M. Clauser, Perry Berlin, Vanessa Rondón Berrio, Yaojing Qiu</small> | BECCS | 6 |
+| 2023 | [Roads to Removal: Options for Carbon Dioxide Removal in the United States](https://doi.org/10.2172/2301853)<br><small>with Jennifer Pett‐Ridge, Abby Lunstrum, Alexander J. Stanley, Alexander P. Bump, Alina Ho, Allegra Mayer and 76 more</small> | Cross-cutting CDR | 61 |
+| 2023 | [Leveraging the bioeconomy for carbon drawdown](https://doi.org/10.1039/d2gc02483g)<br><small>Green Chemistry · with John Dees, A. J. Simon, Ethan Woods, Hannah Goldstein, [Daniel L. Sanchez](/cdr-researcher-census/researchers/daniel-l-sanchez-a5016864/)</small> | BECCS | 60 |
+| 2023 | [Green Needle Coke Production from Pyrolysis Biocrude toward Bio-based Anode Material Manufacture: Biochar Fines Addition Effect as “Physical Template” on the Crystalline Order](https://doi.org/10.1021/acssuschemeng.2c06952)<br><small>ACS Sustainable Chemistry & Engineering · with Eliezer A. Reyes Molina, Keonhee Kim, Nicole Labbé, Sunkyu Park, Trevor Vook, Stephen S. Kelley</small> | Biochar | 11 |
 
 ---
 

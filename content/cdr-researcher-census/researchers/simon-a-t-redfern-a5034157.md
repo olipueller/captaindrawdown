@@ -1,7 +1,7 @@
 ---
 title: "Simon A. T. Redfern"
 description: "Simon A. T. Redfern, Nanyang Technological University, Singapore. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 70 by activity, 3089 by citations. 478 publications, h-index 69, 16,942 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/simon-a-t-redfern-a5034157/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,19 +43,19 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 8, Ocean CDR 3. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 8, Ocean CDR 3. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Evaluating Coral Response to Modified Seawater-Water Chemistry and Coral Health](https://doi.org/10.6084/m9.figshare.31419197) | Ocean CDR | 0 |
-| 2026 | [System openness governs detectable signals of enhanced rock weathering in soils: a global meta-analysis](https://openalex.org/W7204551737) | Enhanced Weathering | 0 |
-| 2026 | [One chemistry, many pathways: Comparing carbon-negative cement, enhanced weathering, and ocean alkalinity enhancement](https://openalex.org/W7213236195) | Enhanced Weathering; Ocean CDR | 0 |
-| 2026 | [From Field Trial to Carbon Register: Evidence Gaps and an Auditable Earth-Information Architecture for Verifiable Enhanced Weathering](https://openalex.org/W7214061978) | Enhanced Weathering; Ocean CDR | 0 |
-| 2025 | [Enhanced Rock Weathering (ERW) Carbon Insetting in Southeast Asia for Sustainable Supply Chains: Life Cycle Analysis (LCA) and Techno-Economic Assessment (TEA)](https://doi.org/10.22541/essoar.173867443.39432642/v1) | Enhanced Weathering | 0 |
-| 2025 | [Potentials of Enhanced Rock Weathering (ERW) Carbon Insetting in Southeast Asia to Form a More Sustainable Supply Chain: Life Cycle Analysis and Techno-Economic Analysis](https://doi.org/10.5194/egusphere-egu25-18551) | Enhanced Weathering | 0 |
-| 2025 | [Can Enhanced Rock Weathering become a significant component of Urban Farming?&amp;#160;](https://doi.org/10.5194/egusphere-egu25-21583) | Enhanced Weathering | 0 |
-| 2025 | [Economic Feasibility of Enhanced Rock Weathering Carbon Credits Deployment in Southeast Asia through Mixed-Methods Analysis](https://doi.org/10.7185/gold2025.29286) | Enhanced Weathering | 0 |
-| 2024 | [Enhanced Rock Weathering and Climate Mitigation: Prospects in Urban Farming&amp;#160;](https://doi.org/10.5194/egusphere-egu24-20871) | Enhanced Weathering | 0 |
+| 2026 | [Evaluating Coral Response to Modified Seawater-Water Chemistry and Coral Health](https://doi.org/10.6084/m9.figshare.31419197)<br><small>Figshare</small> | Ocean CDR | 0 |
+| 2026 | [System openness governs detectable signals of enhanced rock weathering in soils: a global meta-analysis](https://openalex.org/W7204551737)<br><small>preprint · with Z Ouyang, Zhaofeng Ouyang, Meitong Song, Xiaodan Tang, Yuyan Zhao</small> | Enhanced Weathering | 0 |
+| 2026 | [One chemistry, many pathways: Comparing carbon-negative cement, enhanced weathering, and ocean alkalinity enhancement](https://openalex.org/W7213236195)<br><small>with Chin-Hsien Cheng, Sasithorn Chornkrathok</small> | Enhanced Weathering; Ocean CDR | 0 |
+| 2026 | [From Field Trial to Carbon Register: Evidence Gaps and an Auditable Earth-Information Architecture for Verifiable Enhanced Weathering](https://openalex.org/W7214061978)<br><small>preprint · with Xiaolei Feng</small> | Enhanced Weathering; Ocean CDR | 0 |
+| 2025 | [Enhanced Rock Weathering (ERW) Carbon Insetting in Southeast Asia for Sustainable Supply Chains: Life Cycle Analysis (LCA) and Techno-Economic Assessment (TEA)](https://doi.org/10.22541/essoar.173867443.39432642/v1)<br><small>preprint · with Yiwen Zhang, Zhengxin He</small> | Enhanced Weathering | 0 |
+| 2025 | [Potentials of Enhanced Rock Weathering (ERW) Carbon Insetting in Southeast Asia to Form a More Sustainable Supply Chain: Life Cycle Analysis and Techno-Economic Analysis](https://doi.org/10.5194/egusphere-egu25-18551)<br><small>preprint · with Y. Zhang</small> | Enhanced Weathering | 0 |
+| 2025 | [Can Enhanced Rock Weathering become a significant component of Urban Farming?&amp;#160;](https://doi.org/10.5194/egusphere-egu25-21583)<br><small>preprint · with Z Ouyang</small> | Enhanced Weathering | 0 |
+| 2025 | [Economic Feasibility of Enhanced Rock Weathering Carbon Credits Deployment in Southeast Asia through Mixed-Methods Analysis](https://doi.org/10.7185/gold2025.29286)<br><small>with Y. Zhang, Anna Salfer</small> | Enhanced Weathering | 0 |
+| 2024 | [Enhanced Rock Weathering and Climate Mitigation: Prospects in Urban Farming&amp;#160;](https://doi.org/10.5194/egusphere-egu24-20871)<br><small>preprint · with Shang Ma, Yiwen Zhang, Zhaofeng Ouyang, Chin-Hsien Cheng</small> | Enhanced Weathering | 0 |
 
 ---
 

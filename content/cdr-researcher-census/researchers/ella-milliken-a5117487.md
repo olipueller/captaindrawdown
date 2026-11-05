@@ -1,7 +1,7 @@
 ---
 title: "Ella Milliken"
 description: "Ella Milliken, Yale University, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 39 by activity, 1596 by citations. 16 publications, h-index 1, 7 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/ella-milliken-a5117487/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,20 +43,20 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 10, Biochar 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 10, Biochar 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering](https://openalex.org/W7168623015) | Enhanced Weathering | 1 |
-| 2026 | [Bridging time lags in durable carbon removal on working lands](https://doi.org/10.22541/essoar.175855457.77763746/v2) | Biochar; Enhanced Weathering | 0 |
-| 2026 | [Soil Carbon Dioxide Removal Estimates from Enhanced Weathering Deployments in the Southeastern United States Are Likely Tied to Cation Mobility](https://openalex.org/W7155173176) | Enhanced Weathering | 0 |
-| 2026 | [Bridging carbon removal time lags in agricultural enhanced weathering via methane emission reduction](https://openalex.org/W7162781008) | Enhanced Weathering | 0 |
-| 2026 | [Significant yield benefits from basalt soil amendments in the Southeastern US](https://openalex.org/W7202291256) | Enhanced Weathering | 0 |
-| 2025 | [Direct Measurement of Carbon Dioxide Removal Due to Enhanced Weathering](https://doi.org/10.1021/acs.estlett.5c00441) | Enhanced Weathering | 4 |
-| 2025 | [Aggregated monitoring of enhanced weathering on agricultural lands](https://doi.org/10.70212/cdrxiv.2025394.v2) | Enhanced Weathering | 2 |
-| 2025 | [Integrated Thermal and Phyto-Remediation of Agricultural Soils Impacted by PFAS](https://doi.org/10.70212/cdrxiv.2025471.v1) | Biochar; Enhanced Weathering | 1 |
-| 2025 | [Updated framework and signal-to-noise analysis of soil mass balance approaches for quantifying enhanced weathering on managed lands](https://doi.org/10.70212/cdrxiv.2025390.v1) | Enhanced Weathering | 0 |
-| 2025 | [An Updated Framework and Signal-to-Noise Analysis of Soil Mass Balance Approaches for Quantifying Enhanced Weathering on Managed Lands](https://doi.org/10.1021/acs.est.5c08303) | Enhanced Weathering | 0 |
+| 2026 | [An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering](https://openalex.org/W7168623015)<br><small>preprint · with [Tim Jesper Suhrhoff](/cdr-researcher-census/researchers/tim-jesper-suhrhoff-a5081686/), Abby Lunstrum, Alexandra Klemme, Anu Khan, [Arthur Vienne](/cdr-researcher-census/researchers/arthur-vienne-a5086565/), Beck Woollen and 95 more</small> | Enhanced Weathering | 1 |
+| 2026 | [Bridging time lags in durable carbon removal on working lands](https://doi.org/10.22541/essoar.175855457.77763746/v2)<br><small>with [Noah J. Planavsky](/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/), Beck Woollen, [David J. Beerling](/cdr-researcher-census/researchers/david-j-beerling-a5073877/), [Mojtaba Fakhraee](/cdr-researcher-census/researchers/mojtaba-fakhraee-a5051417/), [Christopher T. Reinhard](/cdr-researcher-census/researchers/christopher-t-reinhard-a5061963/)</small> | Biochar; Enhanced Weathering | 0 |
+| 2026 | [Soil Carbon Dioxide Removal Estimates from Enhanced Weathering Deployments in the Southeastern United States Are Likely Tied to Cation Mobility](https://openalex.org/W7155173176)<br><small>with Alex Woodley, [Noah J. Planavsky](/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/)</small> | Enhanced Weathering | 0 |
+| 2026 | [Bridging carbon removal time lags in agricultural enhanced weathering via methane emission reduction](https://openalex.org/W7162781008)<br><small>with Noah J Planavsky, [Noah J. Planavsky](/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/), Beck Woollen, [David J. Beerling](/cdr-researcher-census/researchers/david-j-beerling-a5073877/), [Mojtaba Fakhraee](/cdr-researcher-census/researchers/mojtaba-fakhraee-a5051417/), [Yoshiki Kanzaki](/cdr-researcher-census/researchers/yoshiki-kanzaki-a5017547/) and 1 more</small> | Enhanced Weathering | 0 |
+| 2026 | [Significant yield benefits from basalt soil amendments in the Southeastern US](https://openalex.org/W7202291256)<br><small>preprint · with Adam Wilbourne, Alex Woodley, Elizabeth Swanson, Jennifer Pett-Ridge, Jennifer Pett‐Ridge, Kenzo Esquivel and 4 more</small> | Enhanced Weathering | 0 |
+| 2025 | [Direct Measurement of Carbon Dioxide Removal Due to Enhanced Weathering](https://doi.org/10.1021/acs.estlett.5c00441)<br><small>Environmental Science & Technology Letters · with Alex Woodley, [Noah J. Planavsky](/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/)</small> | Enhanced Weathering | 4 |
+| 2025 | [Aggregated monitoring of enhanced weathering on agricultural lands](https://doi.org/10.70212/cdrxiv.2025394.v2)<br><small>preprint · with [Tim Jesper Suhrhoff](/cdr-researcher-census/researchers/tim-jesper-suhrhoff-a5081686/), Alexander Polussa, Anu Khan, Beck Woollen, [Christopher T. Reinhard](/cdr-researcher-census/researchers/christopher-t-reinhard-a5061963/), Mark A. Bradford and 4 more</small> | Enhanced Weathering | 2 |
+| 2025 | [Integrated Thermal and Phyto-Remediation of Agricultural Soils Impacted by PFAS](https://doi.org/10.70212/cdrxiv.2025471.v1)<br><small>with Jake T. Thompson, M. J. Thompson, Chloe Kent, [Christopher T. Reinhard](/cdr-researcher-census/researchers/christopher-t-reinhard-a5061963/), Lucinda Bryce, [Millie Dobson](/cdr-researcher-census/researchers/millie-dobson-a5113068/) and 5 more</small> | Biochar; Enhanced Weathering | 1 |
+| 2025 | [Updated framework and signal-to-noise analysis of soil mass balance approaches for quantifying enhanced weathering on managed lands](https://doi.org/10.70212/cdrxiv.2025390.v1)<br><small>preprint · with [Tim Jesper Suhrhoff](/cdr-researcher-census/researchers/tim-jesper-suhrhoff-a5081686/), Boriana Kalderon-Asael, [Christopher T. Reinhard](/cdr-researcher-census/researchers/christopher-t-reinhard-a5061963/), [Jacob S. Jordan](/cdr-researcher-census/researchers/jacob-s-jordan-a5091258/), Rufaro Nyateka, Shihan Li and 5 more</small> | Enhanced Weathering | 0 |
+| 2025 | [An Updated Framework and Signal-to-Noise Analysis of Soil Mass Balance Approaches for Quantifying Enhanced Weathering on Managed Lands](https://doi.org/10.1021/acs.est.5c08303)<br><small>Environmental Science & Technology · with [Tim Jesper Suhrhoff](/cdr-researcher-census/researchers/tim-jesper-suhrhoff-a5081686/), Boriana Kalderon-Asael, [Christopher T. Reinhard](/cdr-researcher-census/researchers/christopher-t-reinhard-a5061963/), [Jacob S. Jordan](/cdr-researcher-census/researchers/jacob-s-jordan-a5091258/), M. J. Thompson, Rufaro Nyateka and 6 more</small> | Enhanced Weathering | 0 |
 
 ---
 

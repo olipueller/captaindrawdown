@@ -1,7 +1,7 @@
 ---
 title: "Wolfgang Koeve"
 description: "Wolfgang Koeve, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 90 by activity, 570 by citations. 216 publications, h-index 36, 3,771 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/wolfgang-koeve-a5044333/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 8. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 8. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Influence of Deep-Sea Carbonate Sediments on the Durability of Carbon Storage from Ocean Alkalinity Enhancement](https://openalex.org/W7154039700) | Ocean CDR | 1 |
-| 2026 | [Dataset to analyse the influence of deep-sea sedimentary carbonate processes on carbon storage durability by ocean alkalinity enhancement](https://orcid.org/0009-0002-1277-740X>,) | Ocean CDR | 0 |
-| 2026 | [Influence of Deep‐Sea Carbonate Sediments on the Long‐Term Durability of Carbon Storage From Ocean Alkalinity Enhancement](https://openalex.org/W7203602741) | Ocean CDR | 0 |
-| 2025 | [Direct cooling effect of artificial upwelling dominates over its marine carbon dioxide removal potential](https://doi.org/10.1088/1748-9326/ae0054) | Ocean CDR | 0 |
-| 2024 | [Misconceptions of the marine biological carbon pump in a changing climate: Thinking outside the “export” box](https://doi.org/10.1111/gcb.17124) | Ocean CDR | 39 |
-| 2024 | [The response of the ocean carbon cycle to artificial upwelling, ocean iron fertilization and the combination of both](https://doi.org/10.1088/1748-9326/ad858d) | Ocean CDR | 7 |
-| 2024 | [Misconceptions of the marine biological carbon pump in a changing climate: Thinking outside the &amp;#8220;export&amp;#8221; box](https://doi.org/10.5194/egusphere-egu24-9848) | Ocean CDR | 0 |
-| 2023 | [Report on appropriateness of accounting schemes to assign carbon credits to ocean NETs](https://doi.org/10.3289/oceannets_d1.2) | Ocean CDR | 0 |
+| 2026 | [Influence of Deep-Sea Carbonate Sediments on the Durability of Carbon Storage from Ocean Alkalinity Enhancement](https://openalex.org/W7154039700)<br><small>with Sina Acksen, Christopher J. Somes, Markus Pahlow, [Andreas Oschlies](/cdr-researcher-census/researchers/andreas-oschlies-a5063745/)</small> | Ocean CDR | 1 |
+| 2026 | [Dataset to analyse the influence of deep-sea sedimentary carbonate processes on carbon storage durability by ocean alkalinity enhancement](https://orcid.org/0009-0002-1277-740X>,)<br><small>Helmholtz Centre for Ocean Research Kiel (GEOMAR) · with Sina Acksen, Christopher J. Somes, Markus Pahlow, [Andreas Oschlies](/cdr-researcher-census/researchers/andreas-oschlies-a5063745/)</small> | Ocean CDR | 0 |
+| 2026 | [Influence of Deep‐Sea Carbonate Sediments on the Long‐Term Durability of Carbon Storage From Ocean Alkalinity Enhancement](https://openalex.org/W7203602741)<br><small>with Sina Acksen, Christopher J. Somes, Markus Pahlow, [Andreas Oschlies](/cdr-researcher-census/researchers/andreas-oschlies-a5063745/)</small> | Ocean CDR | 0 |
+| 2025 | [Direct cooling effect of artificial upwelling dominates over its marine carbon dioxide removal potential](https://doi.org/10.1088/1748-9326/ae0054)<br><small>Environmental Research Letters · with Malte Jürchott, [Andreas Oschlies](/cdr-researcher-census/researchers/andreas-oschlies-a5063745/), Ivy Frenger, [Nadine Mengis](/cdr-researcher-census/researchers/nadine-mengis-a5079879/)</small> | Ocean CDR | 0 |
+| 2024 | [Misconceptions of the marine biological carbon pump in a changing climate: Thinking outside the “export” box](https://doi.org/10.1111/gcb.17124)<br><small>Global Change Biology · with Ivy Frenger, [Andreas Oschlies](/cdr-researcher-census/researchers/andreas-oschlies-a5063745/), Angela Landolfi, Christopher J. Somes, Karin Kvale, [Wanxuan Yao](/cdr-researcher-census/researchers/wanxuan-yao-a5069543/)</small> | Ocean CDR | 39 |
+| 2024 | [The response of the ocean carbon cycle to artificial upwelling, ocean iron fertilization and the combination of both](https://doi.org/10.1088/1748-9326/ad858d)<br><small>Environmental Research Letters · with Malte Jürchott, [Andreas Oschlies](/cdr-researcher-census/researchers/andreas-oschlies-a5063745/)</small> | Ocean CDR | 7 |
+| 2024 | [Misconceptions of the marine biological carbon pump in a changing climate: Thinking outside the &amp;#8220;export&amp;#8221; box](https://doi.org/10.5194/egusphere-egu24-9848)<br><small>preprint · with Angela Landolfi, [Andreas Oschlies](/cdr-researcher-census/researchers/andreas-oschlies-a5063745/), Christopher J. Somes, Ivy Frenger, Karin Kvale, [Wanxuan Yao](/cdr-researcher-census/researchers/wanxuan-yao-a5069543/)</small> | Ocean CDR | 0 |
+| 2023 | [Report on appropriateness of accounting schemes to assign carbon credits to ocean NETs](https://doi.org/10.3289/oceannets_d1.2)<br><small>with [Wilfried Rickels](/cdr-researcher-census/researchers/wilfried-rickels-a5020112/), Christian Rischer, Felix Meier, Marius Paschen, Ignacio Saldivia</small> | Ocean CDR | 0 |
 
 ---
 

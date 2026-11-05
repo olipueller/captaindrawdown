@@ -1,7 +1,7 @@
 ---
 title: "Nainesh Modi"
 description: "Nainesh Modi, Gujarat University, India. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 77 by activity, 3452 by citations. 62 publications, h-index 6, 168 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/nainesh-modi-a5031147/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,14 +43,14 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-4 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 4, Biochar 3. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+4 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 4, Biochar 3. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [A REVIEW ON VARIOUS CONCEPTS OF CARBON SEQUESTRATION](https://openalex.org/W7154747326) | DAC | 0 |
-| 2026 | [Modern Carbon Storage A Review on Key Practical Methods and Tracking Systems](https://openalex.org/W7204884941) | Biochar; DAC | 0 |
-| 2026 | [Modern Carbon Storage A Review on Key Practical Methods and Tracking Systems](https://openalex.org/W7204945642) | Biochar; DAC | 0 |
-| 2026 | [Modern Carbon Storage A Review on Key Practical Methods and Tracking Systems](https://openalex.org/W7204966759) | Biochar; DAC | 0 |
+| 2026 | [A REVIEW ON VARIOUS CONCEPTS OF CARBON SEQUESTRATION](https://openalex.org/W7154747326)<br><small>with Hitaishi M. Patel, [Hardik P. Malaviya](/cdr-researcher-census/researchers/hardik-p-malaviya-a5148898/)</small> | DAC | 0 |
+| 2026 | [Modern Carbon Storage A Review on Key Practical Methods and Tracking Systems](https://openalex.org/W7204884941)<br><small>with [Hardik P. Malaviya](/cdr-researcher-census/researchers/hardik-p-malaviya-a5148898/)</small> | Biochar; DAC | 0 |
+| 2026 | [Modern Carbon Storage A Review on Key Practical Methods and Tracking Systems](https://openalex.org/W7204945642)<br><small>with [Hardik P. Malaviya](/cdr-researcher-census/researchers/hardik-p-malaviya-a5148898/)</small> | Biochar; DAC | 0 |
+| 2026 | [Modern Carbon Storage A Review on Key Practical Methods and Tracking Systems](https://openalex.org/W7204966759)<br><small>with [Hardik P. Malaviya](/cdr-researcher-census/researchers/hardik-p-malaviya-a5148898/)</small> | Biochar; DAC | 0 |
 
 ---
 

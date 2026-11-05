@@ -1,7 +1,7 @@
 ---
 title: "Beibei Dong"
 description: "Beibei Dong, Hebei University of Technology, Sweden. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 45 by activity, 697 by citations. 36 publications, h-index 6, 111 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/beibei-dong-a5112316/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,17 +43,17 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 7. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 7. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2025 | [Selecting proper technologies for capturing CO2 from bioenergy conversion](https://openalex.org/W4409987405) | BECCS | 4 |
-| 2024 | [Negative emission potential from biomass/waste combined heat and power plants integrated with CO2 capture: An approach from the national perspective](https://doi.org/10.1016/j.jclepro.2024.142917) | BECCS | 11 |
-| 2023 | [Aggregated Negative Emission from Biomass Fired CHP Plants in Sweden](http://dx.doi.org/10.46855/energy-proceedings-10471) | BECCS | 0 |
-| 2022 | [Technology selection for capturing CO2 from wood pyrolysis](https://doi.org/10.1016/j.enconman.2022.115835) | BECCS | 19 |
-| 2022 | [Capturing CO2 from Wood Fast Pyrolysis](https://doi.org/10.46855/energy-proceedings-9442) | BECCS | 0 |
-| 2021 | [Dynamic simulation of CO2 capture from biomass power plant by MEA](https://doi.org/10.46855/energy-proceedings-7243) | BECCS | 2 |
-| 2021 | [Differences on Capturing CO2 from the Combustion of Biomass and Coal by using Chemical Absorption](https://doi.org/10.46855/energy-proceedings-7511) | BECCS | 0 |
+| 2025 | [Selecting proper technologies for capturing CO2 from bioenergy conversion](https://openalex.org/W4409987405)<br><small>with Hailong Li, [Eva Thorin](/cdr-researcher-census/researchers/eva-thorin-a5052844/), [Qie Sun](/cdr-researcher-census/researchers/qie-sun-a5100611/), Worrada Nookuea, Zhixin Yu</small> | BECCS | 4 |
+| 2024 | [Negative emission potential from biomass/waste combined heat and power plants integrated with CO2 capture: An approach from the national perspective](https://doi.org/10.1016/j.jclepro.2024.142917)<br><small>Journal of Cleaner Production · with [Eva Thorin](/cdr-researcher-census/researchers/eva-thorin-a5052844/), [Qie Sun](/cdr-researcher-census/researchers/qie-sun-a5100611/), Shuo Wang, Hailong Li</small> | BECCS | 11 |
+| 2023 | [Aggregated Negative Emission from Biomass Fired CHP Plants in Sweden](http://dx.doi.org/10.46855/energy-proceedings-10471)<br><small>preprint · with [Eva Thorin](/cdr-researcher-census/researchers/eva-thorin-a5052844/), Hailong Li, Jan Škvařil, [Qie Sun](/cdr-researcher-census/researchers/qie-sun-a5100611/), Shuo Wang, Kåre Gustafsson</small> | BECCS | 0 |
+| 2022 | [Technology selection for capturing CO2 from wood pyrolysis](https://doi.org/10.1016/j.enconman.2022.115835)<br><small>Energy Conversion and Management · with Yingying Sun, Hailong Li, Liang Wang, [Eva Thorin](/cdr-researcher-census/researchers/eva-thorin-a5052844/)</small> | BECCS | 19 |
+| 2022 | [Capturing CO2 from Wood Fast Pyrolysis](https://doi.org/10.46855/energy-proceedings-9442)<br><small>preprint · with Yingying Sun, [Eva Thorin](/cdr-researcher-census/researchers/eva-thorin-a5052844/), Liang Wang, Hailong Li</small> | BECCS | 0 |
+| 2021 | [Dynamic simulation of CO2 capture from biomass power plant by MEA](https://doi.org/10.46855/energy-proceedings-7243)<br><small>preprint · with Changzheng Hu, Hailong Li, Jinyue Yan, [Qie Sun](/cdr-researcher-census/researchers/qie-sun-a5100611/)</small> | BECCS | 2 |
+| 2021 | [Differences on Capturing CO2 from the Combustion of Biomass and Coal by using Chemical Absorption](https://doi.org/10.46855/energy-proceedings-7511)<br><small>preprint · with Worrada Nookuea, Hailong Li, Jinyue Yan, KÃ¥re Gustafsson, Kåre Gustafsson, [Eva Thorin](/cdr-researcher-census/researchers/eva-thorin-a5052844/)</small> | BECCS | 0 |
 
 ---
 

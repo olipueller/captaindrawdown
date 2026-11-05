@@ -1,7 +1,7 @@
 ---
 title: "Ruben Prütz"
 description: "Ruben Prütz, Leibniz Association, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 66 by activity, 179 by citations. 21 publications, h-index 7, 320 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/ruben-prutz-a5011946/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-11 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Cross-cutting CDR 9, BECCS 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+11 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Cross-cutting CDR 9, BECCS 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Biodiversity implications of land-intensive carbon dioxide removal](https://doi.org/10.1038/s41558-026-02557-5) | BECCS | 7 |
-| 2026 | [The impacts of ocean- and land-based Carbon Dioxide Removal on Planetary Boundaries](https://doi.org/10.5194/egusphere-egu26-5667) | Cross-cutting CDR | 0 |
-| 2026 | [Mapping conflicts in carbon removal narratives](https://openalex.org/W7212065601) | Cross-cutting CDR | 0 |
-| 2025 | [Implications of states’ dependence on carbon dioxide removal for achieving the Paris temperature goal](https://doi.org/10.1080/14693062.2025.2528775) | Cross-cutting CDR | 10 |
-| 2025 | [Warming versus land-intensive mitigation impact on biodiversity refugia across climate policy scenarios](https://doi.org/10.5194/egusphere-egu25-9028) | BECCS | 0 |
-| 2024 | [Overconfidence in climate overshoot](https://doi.org/10.1038/s41586-024-08020-9) | Cross-cutting CDR | 178 |
-| 2024 | [A taxonomy to map evidence on the co-benefits, challenges, and limits of carbon dioxide removal](https://doi.org/10.1038/s43247-024-01365-z) | Cross-cutting CDR | 40 |
-| 2024 | [Spatial analysis of CDR implications for global biodiversity refugia](https://doi.org/10.5194/egusphere-egu24-1645) | Cross-cutting CDR | 0 |
-| 2024 | [States’ dependence on carbon dioxide removal jeopardises Paris targets](https://doi.org/10.21203/rs.3.rs-5483105/v1) | Cross-cutting CDR | 0 |
-| 2023 | [Understanding the carbon dioxide removal range in 1.5 °C compatible and high overshoot pathways](https://doi.org/10.1088/2515-7620/accdba) | Cross-cutting CDR | 37 |
-| 2023 | [A new taxonomy to map evidence on carbon dioxide removal side effects](https://doi.org/10.21203/rs.3.rs-3697442/v1) | Cross-cutting CDR | 3 |
+| 2026 | [Biodiversity implications of land-intensive carbon dioxide removal](https://doi.org/10.1038/s41558-026-02557-5)<br><small>Nature Climate Change · with Alex Popp, [Alexander Popp](/cdr-researcher-census/researchers/alexander-popp-a5088947/), [Andrey Lessa Derci Augustynczik](/cdr-researcher-census/researchers/andrey-lessa-derci-augustynczik-a5067345/), [Florian Humpenöder](/cdr-researcher-census/researchers/florian-humpenoder-a5060104/), Florian Kraxner, [Gaurav Ganti](/cdr-researcher-census/researchers/gaurav-ganti-a5002533/) and 13 more</small> | BECCS | 7 |
+| 2026 | [The impacts of ocean- and land-based Carbon Dioxide Removal on Planetary Boundaries](https://doi.org/10.5194/egusphere-egu26-5667)<br><small>with Carla Maria Di Natale, Kalle Nordling, Makcim De Sisto, Antti‐Ilari Partanen</small> | Cross-cutting CDR | 0 |
+| 2026 | [Mapping conflicts in carbon removal narratives](https://openalex.org/W7212065601)<br><small>with [Elina Brutschin](/cdr-researcher-census/researchers/elina-brutschin-a5005798/), [Matthew Gidden](/cdr-researcher-census/researchers/matthew-gidden-a5012881/), [Naomi E. Vaughan](/cdr-researcher-census/researchers/naomi-e-vaughan-a5022069/), Quirina Rodriguez Mendez, Robert J. Brecha, [Sabine Fuss](/cdr-researcher-census/researchers/sabine-fuss-a5011197/) and 2 more</small> | Cross-cutting CDR | 0 |
+| 2025 | [Implications of states’ dependence on carbon dioxide removal for achieving the Paris temperature goal](https://doi.org/10.1080/14693062.2025.2528775)<br><small>Climate Policy · with Rupert Stuart-Smith, [Joeri Rogelj](/cdr-researcher-census/researchers/joeri-rogelj-a5017820/), Melissa Wood, R. E. White, Thom Wetzer, Lavanya Rajamani</small> | Cross-cutting CDR | 10 |
+| 2025 | [Warming versus land-intensive mitigation impact on biodiversity refugia across climate policy scenarios](https://doi.org/10.5194/egusphere-egu25-9028)<br><small>preprint · with [Andrey Lessa Derci Augustynczik](/cdr-researcher-census/researchers/andrey-lessa-derci-augustynczik-a5067345/), Florian Kraxner, Jeff Price, [Joeri Rogelj](/cdr-researcher-census/researchers/joeri-rogelj-a5017820/), [Jonathan Doelman](/cdr-researcher-census/researchers/jonathan-doelman-a5006446/), [Michael Wögerer](/cdr-researcher-census/researchers/michael-wogerer-a5088505/) and 9 more</small> | BECCS | 0 |
+| 2024 | [Overconfidence in climate overshoot](https://doi.org/10.1038/s41586-024-08020-9)<br><small>Nature · with [Carl‐Friedrich Schleussner](/cdr-researcher-census/researchers/carlfriedrich-schleussner-a5033036/), Benjamin M. Sanderson, Biqing Zhu, Chahan M. Kropf, [Chris Smith](/cdr-researcher-census/researchers/chris-smith-a5021058/), Emily Theokritoff and 23 more</small> | Cross-cutting CDR | 178 |
+| 2024 | [A taxonomy to map evidence on the co-benefits, challenges, and limits of carbon dioxide removal](https://doi.org/10.1038/s43247-024-01365-z)<br><small>Communications Earth & Environment · with Leon Stephan, [Sabine Fuss](/cdr-researcher-census/researchers/sabine-fuss-a5011197/), [Sarah Lück](/cdr-researcher-census/researchers/sarah-luck-a5041797/), [Joeri Rogelj](/cdr-researcher-census/researchers/joeri-rogelj-a5017820/)</small> | Cross-cutting CDR | 40 |
+| 2024 | [Spatial analysis of CDR implications for global biodiversity refugia](https://doi.org/10.5194/egusphere-egu24-1645)<br><small>preprint · with [Andrey Lessa Derci Augustynczik](/cdr-researcher-census/researchers/andrey-lessa-derci-augustynczik-a5067345/), Jeff Price, [Joeri Rogelj](/cdr-researcher-census/researchers/joeri-rogelj-a5017820/), Nicole Forstenhäusler, Peter Havlík, Rachel Warren and 2 more</small> | Cross-cutting CDR | 0 |
+| 2024 | [States’ dependence on carbon dioxide removal jeopardises Paris targets](https://doi.org/10.21203/rs.3.rs-5483105/v1)<br><small>preprint · with Rupert Stuart-Smith, [Joeri Rogelj](/cdr-researcher-census/researchers/joeri-rogelj-a5017820/), Melissa Wood, R. E. White, Thom Wetzer, Lavanya Rajamani</small> | Cross-cutting CDR | 0 |
+| 2023 | [Understanding the carbon dioxide removal range in 1.5 °C compatible and high overshoot pathways](https://doi.org/10.1088/2515-7620/accdba)<br><small>Environmental Research Communications · with [Jessica Strefler](/cdr-researcher-census/researchers/jessica-strefler-a5056511/), [Joeri Rogelj](/cdr-researcher-census/researchers/joeri-rogelj-a5017820/), [Sabine Fuss](/cdr-researcher-census/researchers/sabine-fuss-a5011197/)</small> | Cross-cutting CDR | 37 |
+| 2023 | [A new taxonomy to map evidence on carbon dioxide removal side effects](https://doi.org/10.21203/rs.3.rs-3697442/v1)<br><small>preprint · with Leon Stephan, [Sabine Fuss](/cdr-researcher-census/researchers/sabine-fuss-a5011197/), [Sarah Lück](/cdr-researcher-census/researchers/sarah-luck-a5041797/), [Joeri Rogelj](/cdr-researcher-census/researchers/joeri-rogelj-a5017820/)</small> | Cross-cutting CDR | 3 |
 
 ---
 

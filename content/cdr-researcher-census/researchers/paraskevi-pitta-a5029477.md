@@ -1,7 +1,7 @@
 ---
 title: "Paraskevi Pitta"
 description: "Paraskevi Pitta, Hellenic Centre for Marine Research, Greece. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 53 by activity, 1474 by citations. 139 publications, h-index 38, 4,976 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/paraskevi-pitta-a5029477/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,20 +43,20 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 10. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 10. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Impacts of ocean alkalinity enhancement on plankton community metabolism and structure during a mesocosm phytoplankton bloom in a coastal upwelling ecosystem](https://openalex.org/W7204015942) | Ocean CDR | 0 |
-| 2026 | [Response of the Carbonate System to Ocean Alkalinity Enhancement: A Mesocosm-Scale Experiment](https://openalex.org/W7214425406) | Ocean CDR | 0 |
-| 2025 | [Plankton do not care: Minimal effects of ocean liming on plankton growth and grazing in the Eastern Mediterranean](https://doi.org/10.1002/lno.70136) | Ocean CDR | 7 |
-| 2025 | [The effect of ocean alkalinity enhancement on zooplankton standing stock and community composition in the Eastern Mediterranean Sea: a mesocosm study](https://doi.org/10.1016/j.marenvres.2025.107489) | Ocean CDR | 5 |
-| 2025 | [Genus-specific and microanatomical controls on element incorporation in coralline calcification revealed by Ocean Alkalinity Enhancement experiments](https://doi.org/10.5194/egusphere-egu25-19226) | Ocean CDR | 0 |
-| 2025 | [Genus-specific calcification dynamics in coralline algae: insights into Mg incorporation as response to Ocean Alkalinity Enhancement](https://doi.org/10.22541/essoar.174349824.43745090/v1) | Ocean CDR | 0 |
-| 2024 | [The impact of ocean liming on phytoplankton size-structure and the balance of photosynthesis and respiration in two contrasting environments](https://doi.org/10.5194/egusphere-egu24-13093) | Ocean CDR | 2 |
-| 2024 | [Ocean liming in the oligotrophic Eastern Mediterranean: impact on the planktonic microbial food web](https://doi.org/10.5194/egusphere-egu24-18538) | Ocean CDR | 1 |
-| 2024 | [Ocean liming in eutrophic vs. ultraoligotrophic environments and the response of algal calcifiers](https://doi.org/10.5194/egusphere-egu24-13685) | Ocean CDR | 1 |
-| 2024 | [Coccolithophore response to marine alkalinization: The results of ocean alkalinity enhancement exposure.](http://dx.doi.org/10.58998/3206) | Ocean CDR | 0 |
+| 2026 | [Impacts of ocean alkalinity enhancement on plankton community metabolism and structure during a mesocosm phytoplankton bloom in a coastal upwelling ecosystem](https://openalex.org/W7204015942)<br><small>with Pablo Serret, Carmen G. Castro, [Davide Calvi](/cdr-researcher-census/researchers/davide-calvi-a5094110/), Estefania Paredes, Filomena Romano, Marcos Fontela and 4 more</small> | Ocean CDR | 0 |
+| 2026 | [Response of the Carbonate System to Ocean Alkalinity Enhancement: A Mesocosm-Scale Experiment](https://openalex.org/W7214425406)<br><small>with [Selene Varliero](/cdr-researcher-census/researchers/selene-varliero-a5063753/), Chiara Santinelli, [Daniela Basso](/cdr-researcher-census/researchers/daniela-basso-a5026560/), Giovanni Checcucci, [Iordanis Magiopoulos](/cdr-researcher-census/researchers/iordanis-magiopoulos-a5069820/), Laura Borromeo and 3 more</small> | Ocean CDR | 0 |
+| 2025 | [Plankton do not care: Minimal effects of ocean liming on plankton growth and grazing in the Eastern Mediterranean](https://doi.org/10.1002/lno.70136)<br><small>Limnology and Oceanography · with Claudia Traboni, Ariadna C. Nocera, Christos Chantzaras, [Daniela Basso](/cdr-researcher-census/researchers/daniela-basso-a5026560/), Filomena Romano, [Iordanis Magiopoulos](/cdr-researcher-census/researchers/iordanis-magiopoulos-a5069820/) and 2 more</small> | Ocean CDR | 7 |
+| 2025 | [The effect of ocean alkalinity enhancement on zooplankton standing stock and community composition in the Eastern Mediterranean Sea: a mesocosm study](https://doi.org/10.1016/j.marenvres.2025.107489)<br><small>Marine Environmental Research · with Ariadna C. Nocera, [Arianna Azzellino](/cdr-researcher-census/researchers/arianna-azzellino-a5025068/), Christos Chantzaras, Claudia Traboni, [Daniela Basso](/cdr-researcher-census/researchers/daniela-basso-a5026560/), Filomena Romano and 6 more</small> | Ocean CDR | 5 |
+| 2025 | [Genus-specific and microanatomical controls on element incorporation in coralline calcification revealed by Ocean Alkalinity Enhancement experiments](https://doi.org/10.5194/egusphere-egu25-19226)<br><small>preprint · with Laura Borromeo, [Daniela Basso](/cdr-researcher-census/researchers/daniela-basso-a5026560/), Fabio Panizzuti, Filomena Romano, [Iordanis Magiopoulos](/cdr-researcher-census/researchers/iordanis-magiopoulos-a5069820/), José M. González and 5 more</small> | Ocean CDR | 0 |
+| 2025 | [Genus-specific calcification dynamics in coralline algae: insights into Mg incorporation as response to Ocean Alkalinity Enhancement](https://doi.org/10.22541/essoar.174349824.43745090/v1)<br><small>preprint · with Laura Borromeo, [Daniela Basso](/cdr-researcher-census/researchers/daniela-basso-a5026560/), F. Romanò, Fabio Panizzuti, [Iordanis Magiopoulos](/cdr-researcher-census/researchers/iordanis-magiopoulos-a5069820/), José González and 5 more</small> | Ocean CDR | 0 |
+| 2024 | [The impact of ocean liming on phytoplankton size-structure and the balance of photosynthesis and respiration in two contrasting environments](https://doi.org/10.5194/egusphere-egu24-13093)<br><small>preprint · with Pablo Serret, A. Azzelino, Alejandro Penín, Anastasia Tsiola, [Daniela Basso](/cdr-researcher-census/researchers/daniela-basso-a5026560/), Filomena Romano and 6 more</small> | Ocean CDR | 2 |
+| 2024 | [Ocean liming in the oligotrophic Eastern Mediterranean: impact on the planktonic microbial food web](https://doi.org/10.5194/egusphere-egu24-18538)<br><small>preprint · with Anastasia Tsiola, Ariadna C. Nocera, [Arianna Azzellino](/cdr-researcher-census/researchers/arianna-azzellino-a5025068/), Christos Chantzaras, Claudia Traboni, [Daniela Basso](/cdr-researcher-census/researchers/daniela-basso-a5026560/) and 9 more</small> | Ocean CDR | 1 |
+| 2024 | [Ocean liming in eutrophic vs. ultraoligotrophic environments and the response of algal calcifiers](https://doi.org/10.5194/egusphere-egu24-13685)<br><small>preprint · with [Daniela Basso](/cdr-researcher-census/researchers/daniela-basso-a5026560/), Alejandro Penín, Anastasia Tsiola, Eleonora Barbaccia, Filomena Romano, [Guido Raos](/cdr-researcher-census/researchers/guido-raos-a5052105/) and 9 more</small> | Ocean CDR | 1 |
+| 2024 | [Coccolithophore response to marine alkalinization: The results of ocean alkalinity enhancement exposure.](http://dx.doi.org/10.58998/3206)<br><small>Journal of Nannoplankton Research · with Pietro Bazzicalupo, [Arianna Azzellino](/cdr-researcher-census/researchers/arianna-azzellino-a5025068/), Eleonora Barbaccia, F. Romanò, [Iordanis Magiopoulos](/cdr-researcher-census/researchers/iordanis-magiopoulos-a5069820/), José M. González and 4 more</small> | Ocean CDR | 0 |
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Arthur Groß"
 description: "Arthur Groß, Martin Luther University Halle-Wittenberg, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 31 by activity, 165 by citations. 23 publications, h-index 8, 802 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/arthur-gro-a5072098/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,20 +43,20 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 10. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 10. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Weathering of biochar: implications to soil health, carbon sequestration and soil remediation](https://openalex.org/W7162297556) | Biochar | 6 |
-| 2026 | [Biochar's Climate Functions: Crafting a Potent Product for the Carbon Market](https://openalex.org/W7162005671) | Biochar | 0 |
-| 2026 | [Biochar: From Terra Preta Discovery to Modern Industry](https://openalex.org/W7162011505) | Biochar | 0 |
-| 2026 | [Weathering of biochar : implications to soil health, carbon sequestration and soil remediation](https://openalex.org/W7164121400) | Biochar | 0 |
-| 2025 | [Relevance of biochar metabolization—evidence from a long-term biochar field experiment](https://doi.org/10.3389/fsufs.2025.1578363) | Biochar | 8 |
-| 2025 | [Vertical biochar transport in soil in a long-term field experiment in Germany](https://doi.org/10.5194/egusphere-egu25-18297) | Biochar | 0 |
-| 2024 | [Long-term biochar and soil organic carbon stability – Evidence from field experiments in Germany](https://doi.org/10.1016/j.scitotenv.2024.176340) | Biochar | 100 |
-| 2024 | [Impact of Biochar Aging on Soil Physicochemical Properties](https://doi.org/10.3390/agronomy14123007) | Biochar | 26 |
-| 2024 | [Long-term biochar and soil organic carbon stability &amp;#8211; evidence from long-term field experiments in Germany](https://doi.org/10.5194/egusphere-egu24-9944) | Biochar | 0 |
-| 2021 | [Soil Organic Carbon Sequestration after Biochar Application: A Global Meta-Analysis](https://doi.org/10.3390/agronomy11122474) | Biochar | 204 |
+| 2026 | [Weathering of biochar: implications to soil health, carbon sequestration and soil remediation](https://openalex.org/W7162297556)<br><small>with [Nanthi Bolan](/cdr-researcher-census/researchers/nanthi-bolan-a5007065/), David Houben, Joshua T. Padilla, José Lucas Martins Melo, Kurt Arnold Spokas, Kurt Spokas and 6 more</small> | Biochar | 6 |
+| 2026 | [Biochar's Climate Functions: Crafting a Potent Product for the Carbon Market](https://openalex.org/W7162005671)<br><small>with Arthur Gross, Bruno Glaser</small> | Biochar | 0 |
+| 2026 | [Biochar: From Terra Preta Discovery to Modern Industry](https://openalex.org/W7162011505)<br><small>with Bruno Glaser, Arthur Gross</small> | Biochar | 0 |
+| 2026 | [Weathering of biochar : implications to soil health, carbon sequestration and soil remediation](https://openalex.org/W7164121400)<br><small>with N.S. Bolan, N.S. Bolan, (und viele weitere)</small> | Biochar | 0 |
+| 2025 | [Relevance of biochar metabolization—evidence from a long-term biochar field experiment](https://doi.org/10.3389/fsufs.2025.1578363)<br><small>Frontiers in Sustainable Food Systems · with [Bruno Glaser](/cdr-researcher-census/researchers/bruno-glaser-a5027366/), Marko Šolić, [Tobias Bromm](/cdr-researcher-census/researchers/tobias-bromm-a5000925/), [Snežana Maletić](/cdr-researcher-census/researchers/snezana-maletic-a5001570/)</small> | Biochar | 8 |
+| 2025 | [Vertical biochar transport in soil in a long-term field experiment in Germany](https://doi.org/10.5194/egusphere-egu25-18297)<br><small>preprint · with Ryan Pearson, [Tobias Bromm](/cdr-researcher-census/researchers/tobias-bromm-a5000925/), [Bruno Glaser](/cdr-researcher-census/researchers/bruno-glaser-a5027366/)</small> | Biochar | 0 |
+| 2024 | [Long-term biochar and soil organic carbon stability – Evidence from field experiments in Germany](https://doi.org/10.1016/j.scitotenv.2024.176340)<br><small>The Science of The Total Environment · with Daniel A. Fischer, Steven Polifka, [Tobias Bromm](/cdr-researcher-census/researchers/tobias-bromm-a5000925/), [Bruno Glaser](/cdr-researcher-census/researchers/bruno-glaser-a5027366/)</small> | Biochar | 100 |
+| 2024 | [Impact of Biochar Aging on Soil Physicochemical Properties](https://doi.org/10.3390/agronomy14123007)<br><small>Agronomy · with Tamara Apostolović, [Bruno Glaser](/cdr-researcher-census/researchers/bruno-glaser-a5027366/), [Heike Knicker](/cdr-researcher-census/researchers/heike-knicker-a5013681/), [José M. de la Rosa Arranz](/cdr-researcher-census/researchers/jose-m-de-la-rosa-arranz-a5032318/), Álvaro Fernando García Rodríguez, [Snežana Maletić](/cdr-researcher-census/researchers/snezana-maletic-a5001570/)</small> | Biochar | 26 |
+| 2024 | [Long-term biochar and soil organic carbon stability &amp;#8211; evidence from long-term field experiments in Germany](https://doi.org/10.5194/egusphere-egu24-9944)<br><small>preprint · with Daniel Fischer, Steven Polifka, [Tobias Bromm](/cdr-researcher-census/researchers/tobias-bromm-a5000925/), [Bruno Glaser](/cdr-researcher-census/researchers/bruno-glaser-a5027366/)</small> | Biochar | 0 |
+| 2021 | [Soil Organic Carbon Sequestration after Biochar Application: A Global Meta-Analysis](https://doi.org/10.3390/agronomy11122474)<br><small>Agronomy · with [Tobias Bromm](/cdr-researcher-census/researchers/tobias-bromm-a5000925/), [Bruno Glaser](/cdr-researcher-census/researchers/bruno-glaser-a5027366/)</small> | Biochar | 204 |
 
 ---
 

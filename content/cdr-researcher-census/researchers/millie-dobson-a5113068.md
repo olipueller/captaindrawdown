@@ -1,7 +1,7 @@
 ---
 title: "Millie Dobson"
 description: "Millie Dobson, UNDO Carbon Ltd, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 85 by activity, 2270 by citations. 8 publications, h-index n/a, 0 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/millie-dobson-a5113068/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,17 +40,17 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 7, Biochar 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 7, Biochar 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering](https://openalex.org/W7168623015) | Enhanced Weathering | 1 |
-| 2026 | [Assessing carbon dioxide removal across wollastonite application gradients in mesocosm enhanced rock weathering experiments](https://doi.org/10.5194/egusphere-egu26-15266) | Enhanced Weathering | 0 |
-| 2026 | [A Novel Soil Porewater Extraction Technique for Enhanced Rock Weathering Products: SATuration - Centrifugation](https://openalex.org/W7140332432) | Enhanced Weathering | 0 |
-| 2026 | [A novel soil porewater extraction technique for enhanced rock weathering products: SATuration–Centrifugation](https://openalex.org/W7142993039) | Enhanced Weathering | 0 |
-| 2025 | [Integrated Thermal and Phyto-Remediation of Agricultural Soils Impacted by PFAS](https://doi.org/10.70212/cdrxiv.2025471.v1) | Biochar; Enhanced Weathering | 1 |
+| 2026 | [An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering](https://openalex.org/W7168623015)<br><small>preprint · with [Tim Jesper Suhrhoff](/cdr-researcher-census/researchers/tim-jesper-suhrhoff-a5081686/), Abby Lunstrum, Alexandra Klemme, Anu Khan, [Arthur Vienne](/cdr-researcher-census/researchers/arthur-vienne-a5086565/), Beck Woollen and 95 more</small> | Enhanced Weathering | 1 |
+| 2026 | [Assessing carbon dioxide removal across wollastonite application gradients in mesocosm enhanced rock weathering experiments](https://doi.org/10.5194/egusphere-egu26-15266)<br><small>with [Amanda Stubbs](/cdr-researcher-census/researchers/amanda-stubbs-a5041395/), [Giulia Cazzagon](/cdr-researcher-census/researchers/giulia-cazzagon-a5116238/), [Kirstine Skov](/cdr-researcher-census/researchers/kirstine-skov-a5042164/), [Matthew Healey](/cdr-researcher-census/researchers/matthew-healey-a5016334/), [Mike Kelland](/cdr-researcher-census/researchers/mike-kelland-a5075310/), Rosalie Tostevin and 3 more</small> | Enhanced Weathering | 0 |
+| 2026 | [A Novel Soil Porewater Extraction Technique for Enhanced Rock Weathering Products: SATuration - Centrifugation](https://openalex.org/W7140332432)<br><small>with [Kirstine Skov](/cdr-researcher-census/researchers/kirstine-skov-a5042164/), [Amanda Stubbs](/cdr-researcher-census/researchers/amanda-stubbs-a5041395/), Amy Frew, [Amy McBride](/cdr-researcher-census/researchers/amy-mcbride-a5104254/), [Anežka Borčinová Radková](/cdr-researcher-census/researchers/anezka-borcinova-radkova-a5037816/), Callum Mitchell and 24 more</small> | Enhanced Weathering | 0 |
+| 2026 | [A novel soil porewater extraction technique for enhanced rock weathering products: SATuration–Centrifugation](https://openalex.org/W7142993039)<br><small>with [Kirstine Skov](/cdr-researcher-census/researchers/kirstine-skov-a5042164/), [Amanda Stubbs](/cdr-researcher-census/researchers/amanda-stubbs-a5041395/), Amy Frew, [Amy McBride](/cdr-researcher-census/researchers/amy-mcbride-a5104254/), [Anežka Borčinová Radková](/cdr-researcher-census/researchers/anezka-borcinova-radkova-a5037816/), Callum Mitchell and 25 more</small> | Enhanced Weathering | 0 |
+| 2025 | [Integrated Thermal and Phyto-Remediation of Agricultural Soils Impacted by PFAS](https://doi.org/10.70212/cdrxiv.2025471.v1)<br><small>with Jake T. Thompson, M. J. Thompson, Chloe Kent, [Christopher T. Reinhard](/cdr-researcher-census/researchers/christopher-t-reinhard-a5061963/), [Ella Milliken](/cdr-researcher-census/researchers/ella-milliken-a5117487/), Lucinda Bryce and 5 more</small> | Biochar; Enhanced Weathering | 1 |
 | 2025 | [Repurposing mining by-products for carbon dioxide removal via enhanced rock weathering](https://openalex.org/W7166489619) | Enhanced Weathering | 0 |
-| 2023 | [Effectiveness of Enhanced Rock Weathering for CO<sub>2</sub> removal through re-vegetation of mine tailings in Ghana.](http://dx.doi.org/10.7185/gold2023.17830) | Enhanced Weathering | 0 |
+| 2023 | [Effectiveness of Enhanced Rock Weathering for CO<sub>2</sub> removal through re-vegetation of mine tailings in Ghana.](http://dx.doi.org/10.7185/gold2023.17830)<br><small>with [Christina Larkin](/cdr-researcher-census/researchers/christina-larkin-a5074798/), [Rachael H. James](/cdr-researcher-census/researchers/rachael-h-james-a5075056/)</small> | Enhanced Weathering | 0 |
 
 ---
 

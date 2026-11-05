@@ -1,7 +1,7 @@
 ---
 title: "David S. Sholl"
 description: "David S. Sholl, Oak Ridge National Laboratory, United States. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 45 by activity, 314 by citations. 626 publications, h-index 100, 41,774 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/david-s-sholl-a5031523/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 7, Cross-cutting CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 7, Cross-cutting CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Direct air capture enables sustainable methanol production in water-scarce regions](https://openalex.org/W7204089186) | DAC | 1 |
-| 2026 | [Direct air capture enables sustainable methanol production in water-scarce regions](https://openalex.org/W7212170702) | DAC | 0 |
-| 2025 | [Direct air capture enables sustainable hydrocarbon production in water-scarce regions](https://doi.org/10.21203/rs.3.rs-8161590/v1) | DAC | 0 |
-| 2025 | [Technoeconomic Analysis and Life Cycle Assessment of Purification Processes for Captured CO2 streams](https://doi.org/10.2139/ssrn.5868641) | Cross-cutting CDR | 0 |
-| 2024 | [Incorporating Diurnal and Meter-Scale Variations of Ambient CO<sub>2</sub> Concentrations in Development of Direct Air Capture Technologies](https://doi.org/10.1021/acssuschemeng.4c06158) | DAC | 11 |
-| 2024 | [Assessment of Long-Term Degradation of Adsorbents for Direct Air Capture by Ozonolysis](https://doi.org/10.1021/acs.jpcc.4c07054) | DAC | 5 |
-| 2023 | [The Open DAC 2023 Dataset and Challenges for Sorbent Discovery in Direct Air Capture](http://arxiv.org/abs/2311.00341) | DAC | 4 |
-| 2021 | [Computational Screening of MOFs and Zeolites for Direct Air Capture of Carbon Dioxide under Humid Conditions](https://doi.org/10.1021/acs.jpcc.1c06924) | DAC | 72 |
+| 2026 | [Direct air capture enables sustainable methanol production in water-scarce regions](https://openalex.org/W7204089186)<br><small>with [Henrik Wenzel](/cdr-researcher-census/researchers/henrik-wenzel-a5102746/), [Detlef Stolten](/cdr-researcher-census/researchers/detlef-stolten-a5004526/), [Jochen Linßen](/cdr-researcher-census/researchers/jochen-linen-a5055909/), [Thomas Schöb](/cdr-researcher-census/researchers/thomas-schob-a5057352/), [Jann Michael Weinand](/cdr-researcher-census/researchers/jann-michael-weinand-a5064139/)</small> | DAC | 1 |
+| 2026 | [Direct air capture enables sustainable methanol production in water-scarce regions](https://openalex.org/W7212170702)<br><small>with [Henrik Wenzel](/cdr-researcher-census/researchers/henrik-wenzel-a5102746/), [Detlef Stolten](/cdr-researcher-census/researchers/detlef-stolten-a5004526/), [Jochen Linßen](/cdr-researcher-census/researchers/jochen-linen-a5055909/), [Thomas Schöb](/cdr-researcher-census/researchers/thomas-schob-a5057352/), [Jann Michael Weinand](/cdr-researcher-census/researchers/jann-michael-weinand-a5064139/)</small> | DAC | 0 |
+| 2025 | [Direct air capture enables sustainable hydrocarbon production in water-scarce regions](https://doi.org/10.21203/rs.3.rs-8161590/v1)<br><small>preprint · with [Henrik Wenzel](/cdr-researcher-census/researchers/henrik-wenzel-a5102746/), [Detlef Stolten](/cdr-researcher-census/researchers/detlef-stolten-a5004526/), [Jochen Linßen](/cdr-researcher-census/researchers/jochen-linen-a5055909/), [Thomas Schöb](/cdr-researcher-census/researchers/thomas-schob-a5057352/), [Jann Michael Weinand](/cdr-researcher-census/researchers/jann-michael-weinand-a5064139/)</small> | DAC | 0 |
+| 2025 | [Technoeconomic Analysis and Life Cycle Assessment of Purification Processes for Captured CO2 streams](https://doi.org/10.2139/ssrn.5868641)<br><small>SSRN Electronic Journal (preprint) · with Elisavet Anglou, Carsten Sievers, Hai-Ying Chen, Jacob A. DeWitt, Kinga Gołą̨bek, Patricia Stathatou and 3 more</small> | Cross-cutting CDR | 0 |
+| 2024 | [Incorporating Diurnal and Meter-Scale Variations of Ambient CO<sub>2</sub> Concentrations in Development of Direct Air Capture Technologies](https://doi.org/10.1021/acssuschemeng.4c06158)<br><small>ACS Sustainable Chemistry & Engineering · with Shubham Jamdade, Melissa Allen‐Dumas, Xuqing Cai</small> | DAC | 11 |
+| 2024 | [Assessment of Long-Term Degradation of Adsorbents for Direct Air Capture by Ozonolysis](https://doi.org/10.1021/acs.jpcc.4c07054)<br><small>The Journal of Physical Chemistry C · with Shubham Jamdade, Xuqing Cai</small> | DAC | 5 |
+| 2023 | [The Open DAC 2023 Dataset and Challenges for Sorbent Discovery in Direct Air Capture](http://arxiv.org/abs/2311.00341)<br><small>arXiv (Cornell University) (preprint) · with Anuroop Sriram, Abhishek Das, Andrew J. Medford, Matt Uyttendaele, Sihoon Choi, Xiaohan Yu and 1 more</small> | DAC | 4 |
+| 2021 | [Computational Screening of MOFs and Zeolites for Direct Air Capture of Carbon Dioxide under Humid Conditions](https://doi.org/10.1021/acs.jpcc.1c06924)<br><small>The Journal of Physical Chemistry C · with John M. Findley</small> | DAC | 72 |
 
 ---
 

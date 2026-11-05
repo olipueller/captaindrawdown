@@ -1,7 +1,7 @@
 ---
 title: "Roland Dittmeyer"
 description: "Roland Dittmeyer, Karlsruhe Institute of Technology, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 48 by activity, 1864 by citations. 406 publications, h-index 42, 6,377 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/roland-dittmeyer-a5074981/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,19 +43,19 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 5, Cross-cutting CDR 3, BECCS 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 5, Cross-cutting CDR 3, BECCS 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Carbon dioxide capture from air in buildings – Design and techno-economic feasibility of practical systems](https://doi.org/10.1016/j.jcou.2026.103351) | DAC | 0 |
-| 2026 | [Carbon dioxide capture from air in buildings – Design and techno-economic feasibility of practical systems](https://openalex.org/W7131078770) | DAC | 0 |
-| 2026 | [Reducing the cost of solid sorbent direct air carbon capture by recovering waste heat from water electrolysis under Nordic conditions](https://openalex.org/W7167679836) | DAC | 0 |
-| 2025 | [Comparative analysis of industrialization potentials of direct air capture technologies](https://doi.org/10.3389/fclim.2025.1558396) | DAC | 6 |
-| 2025 | [Schlussbericht](https://openalex.org/W7213635018) | DAC | 0 |
-| 2024 | [A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany](https://doi.org/10.1029/2023ef003986) | BECCS | 25 |
-| 2024 | [A storyline approach: integrating comprehensive, interdisciplinary research results to create narratives – in the context of the net-zero target in Germany](http://dx.doi.org/10.3389/fenvs.2024.1433491) | Cross-cutting CDR | 2 |
-| 2023 | [Simultaneous Operability of Thermocatalytic and Electrocatalytic CO2 Reduction Reactions](https://doi.org/10.1149/ma2023-01492559mtgabs) | Cross-cutting CDR | 0 |
-| 2022 | [Scoping carbon dioxide removal options for Germany–What is their potential contribution to Net-Zero CO2?](https://doi.org/10.3389/fclim.2022.810343) | Cross-cutting CDR | 38 |
+| 2026 | [Carbon dioxide capture from air in buildings – Design and techno-economic feasibility of practical systems](https://doi.org/10.1016/j.jcou.2026.103351)<br><small>Journal of CO2 Utilization · with Dominik Heß, Michael Rubin</small> | DAC | 0 |
+| 2026 | [Carbon dioxide capture from air in buildings – Design and techno-economic feasibility of practical systems](https://openalex.org/W7131078770)<br><small>with Dominik Heß, Michael Rubin</small> | DAC | 0 |
+| 2026 | [Reducing the cost of solid sorbent direct air carbon capture by recovering waste heat from water electrolysis under Nordic conditions](https://openalex.org/W7167679836)<br><small>preprint · with Altti Meriläinen, Antti Kosonen, Pertti Kauranen, Peter Holtappels, Jero Ahola</small> | DAC | 0 |
+| 2025 | [Comparative analysis of industrialization potentials of direct air capture technologies](https://doi.org/10.3389/fclim.2025.1558396)<br><small>Frontiers in Climate · with Robin Koch</small> | DAC | 6 |
+| 2025 | [Schlussbericht](https://openalex.org/W7213635018)<br><small>with Gaël Corre, Michael Rubin, Peter Pfeifer, Ν. Boukis, Andreas Patyk</small> | DAC | 0 |
+| 2024 | [A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany](https://doi.org/10.1029/2023ef003986)<br><small>Earth s Future · with [Malgorzata Borchers](/cdr-researcher-census/researchers/malgorzata-borchers-a5078304/), [Andreas Oschlies](/cdr-researcher-census/researchers/andreas-oschlies-a5063745/), Angela Stevenson, Aram Kalhori, Christian Dold, Christopher Yeates and 21 more</small> | BECCS | 25 |
+| 2024 | [A storyline approach: integrating comprehensive, interdisciplinary research results to create narratives – in the context of the net-zero target in Germany](http://dx.doi.org/10.3389/fenvs.2024.1433491)<br><small>Frontiers in Environmental Science · with Fiona Köhnke, [Andreas Oschlies](/cdr-researcher-census/researchers/andreas-oschlies-a5063745/), Angela Stevenson, Aram Kalhori, Bettina Steuri, [Daniela Thrän](/cdr-researcher-census/researchers/daniela-thran-a5012569/) and 25 more</small> | Cross-cutting CDR | 2 |
+| 2023 | [Simultaneous Operability of Thermocatalytic and Electrocatalytic CO2 Reduction Reactions](https://doi.org/10.1149/ma2023-01492559mtgabs)<br><small>ECS Meeting Abstracts · with Siyu Zhong, Peter Holtappels</small> | Cross-cutting CDR | 0 |
+| 2022 | [Scoping carbon dioxide removal options for Germany–What is their potential contribution to Net-Zero CO2?](https://doi.org/10.3389/fclim.2022.810343)<br><small>Frontiers in Climate · with [Malgorzata Borchers](/cdr-researcher-census/researchers/malgorzata-borchers-a5078304/), Angela Stevenson, Aram Kalhori, Christian Dold, Cornelia Schmidt‐Hattenberger, [Daniela Thrän](/cdr-researcher-census/researchers/daniela-thran-a5012569/) and 15 more</small> | Cross-cutting CDR | 38 |
 
 ---
 

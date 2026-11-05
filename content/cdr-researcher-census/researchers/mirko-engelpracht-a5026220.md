@@ -1,7 +1,7 @@
 ---
 title: "Mirko Engelpracht"
 description: "Mirko Engelpracht, RWTH Aachen University, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 98 by activity, 285 by citations. 30 publications, h-index 7, 168 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/mirko-engelpracht-a5026220/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-5 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 5. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+5 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 5. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Enhancing DACCS Flexibility: Evaluating Hardware Modifications for Cost-Effective Carbon Dioxide Removal](https://doi.org/10.2139/ssrn.6416105) | DAC | 0 |
-| 2025 | [Low-cost negative emissions by demand-side management for adsorption-based direct air carbon capture and storage](https://doi.org/10.1007/s43979-025-00123-0) | DAC | 22 |
-| 2024 | [Environmental process optimisation of an adsorption-based direct air carbon capture and storage system](https://doi.org/10.1039/d3ee02970k) | DAC | 53 |
-| 2024 | [A method for siting adsorption-based direct air carbon capture and storage plants for maximum CO2 removal](https://doi.org/10.1007/s43979-024-00100-z) | DAC | 25 |
-| 2023 | [Demand-Side Management for Direct Air Carbon Capture and Storage: An Enabler for Low-Cost Negative Emissions?](https://openalex.org/W7167161234) | DAC | 0 |
+| 2026 | [Enhancing DACCS Flexibility: Evaluating Hardware Modifications for Cost-Effective Carbon Dioxide Removal](https://doi.org/10.2139/ssrn.6416105)<br><small>SSRN Electronic Journal (preprint) · with [Patrik Postweiler](/cdr-researcher-census/researchers/patrik-postweiler-a5056523/), Benedikt Nilges, Carsten Wedler, [Daniel Rezo](/cdr-researcher-census/researchers/daniel-rezo-a5093964/), [Sina Hoseinpoori](/cdr-researcher-census/researchers/sina-hoseinpoori-a5052140/), Tori Wiederhoeft and 2 more</small> | DAC | 0 |
+| 2025 | [Low-cost negative emissions by demand-side management for adsorption-based direct air carbon capture and storage](https://doi.org/10.1007/s43979-025-00123-0)<br><small>Carbon Neutrality · with [Patrik Postweiler](/cdr-researcher-census/researchers/patrik-postweiler-a5056523/), Benedikt Nilges, [Daniel Rezo](/cdr-researcher-census/researchers/daniel-rezo-a5093964/), [Niklas von der Aßen](/cdr-researcher-census/researchers/niklas-von-der-aen-a5054263/)</small> | DAC | 22 |
+| 2024 | [Environmental process optimisation of an adsorption-based direct air carbon capture and storage system](https://doi.org/10.1039/d3ee02970k)<br><small>Energy & Environmental Science · with [Patrik Postweiler](/cdr-researcher-census/researchers/patrik-postweiler-a5056523/), Andrej Gibelhaus, [Daniel Rezo](/cdr-researcher-census/researchers/daniel-rezo-a5093964/), [Niklas von der Aßen](/cdr-researcher-census/researchers/niklas-von-der-aen-a5054263/)</small> | DAC | 53 |
+| 2024 | [A method for siting adsorption-based direct air carbon capture and storage plants for maximum CO2 removal](https://doi.org/10.1007/s43979-024-00100-z)<br><small>Carbon Neutrality · with [Daniel Rezo](/cdr-researcher-census/researchers/daniel-rezo-a5093964/), [Lara Meuleneers](/cdr-researcher-census/researchers/lara-meuleneers-a5104453/), [Patrik Postweiler](/cdr-researcher-census/researchers/patrik-postweiler-a5056523/), [Niklas von der Aßen](/cdr-researcher-census/researchers/niklas-von-der-aen-a5054263/)</small> | DAC | 25 |
+| 2023 | [Demand-Side Management for Direct Air Carbon Capture and Storage: An Enabler for Low-Cost Negative Emissions?](https://openalex.org/W7167161234)<br><small>with [Patrik Postweiler](/cdr-researcher-census/researchers/patrik-postweiler-a5056523/), Benedikt Nilges, [Daniel Rezo](/cdr-researcher-census/researchers/daniel-rezo-a5093964/), Niklas Vincenz von der Aßen</small> | DAC | 0 |
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Andrew Chapman"
 description: "Andrew Chapman, Kyushu University, Japan. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 88 by activity, 964 by citations. 254 publications, h-index 38, 4,571 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/andrew-chapman-a5018157/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-5 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 5. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+5 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 5. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Scalable carbon solutions: life cycle insights and public willingness to adopt direct air capture and utilization systems](https://openalex.org/W7161836448) | DAC | 0 |
-| 2025 | [Psychological and socio-economic drivers of public acceptance for direct air capture and utilization technology](https://doi.org/10.1016/j.jclepro.2025.145962) | DAC | 6 |
-| 2024 | [Environmental, economic and social trade-offs of membrane-based direct air capture technologies integrated with CO2 conversion using life cycle assessment](https://doi.org/10.1016/j.jcou.2024.103002) | DAC | 13 |
-| 2024 | [The nexus between direct air capture technology and CO2 emissions in the transport sector](https://doi.org/10.1016/j.apenergy.2024.123112) | DAC | 6 |
-| 2024 | [Direct Air Capture and Utilization: Life Cycle Assessment and CO2 Reduction Potential Estimation](https://doi.org/10.21203/rs.3.rs-3892596/v1) | DAC | 0 |
+| 2026 | [Scalable carbon solutions: life cycle insights and public willingness to adopt direct air capture and utilization systems](https://openalex.org/W7161836448)<br><small>with [Alexander Ryota Keeley](/cdr-researcher-census/researchers/alexander-ryota-keeley-a5073705/), Dyah Ika Rinawati, Junya Kumagai, Kenichi Kurita, Sunbin Yoo, Tianhui Fan and 1 more</small> | DAC | 0 |
+| 2025 | [Psychological and socio-economic drivers of public acceptance for direct air capture and utilization technology](https://doi.org/10.1016/j.jclepro.2025.145962)<br><small>Journal of Cleaner Production · with [Alexander Ryota Keeley](/cdr-researcher-census/researchers/alexander-ryota-keeley-a5073705/), Kyomyoung Koo, [Shunsuke Managi](/cdr-researcher-census/researchers/shunsuke-managi-a5035555/)</small> | DAC | 6 |
+| 2024 | [Environmental, economic and social trade-offs of membrane-based direct air capture technologies integrated with CO2 conversion using life cycle assessment](https://doi.org/10.1016/j.jcou.2024.103002)<br><small>Journal of CO2 Utilization · with Tianhui Fan, Chun Yat Sit, Paul J. A. Kenis, Suwan Shen</small> | DAC | 13 |
+| 2024 | [The nexus between direct air capture technology and CO2 emissions in the transport sector](https://doi.org/10.1016/j.apenergy.2024.123112)<br><small>Applied Energy · with Emre Ünal, [Alexander Ryota Keeley](/cdr-researcher-census/researchers/alexander-ryota-keeley-a5073705/), Nezir Köse, [Shunsuke Managi](/cdr-researcher-census/researchers/shunsuke-managi-a5035555/)</small> | DAC | 6 |
+| 2024 | [Direct Air Capture and Utilization: Life Cycle Assessment and CO2 Reduction Potential Estimation](https://doi.org/10.21203/rs.3.rs-3892596/v1)<br><small>preprint · with [Alexander Ryota Keeley](/cdr-researcher-census/researchers/alexander-ryota-keeley-a5073705/), Dyah Ika Rinawati, Junya Kumagai, Kenichi Kurita, Sunbin Yoo, Tianhui Fan and 1 more</small> | DAC | 0 |
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Jasper Roussard"
 description: "Jasper Roussard, University of Antwerp, Belgium. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 66 by activity, 770 by citations. 15 publications, h-index 3, 24 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/jasper-roussard-a5094096/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,18 +40,18 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 8, Biochar 3. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 8, Biochar 3. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Effects of basalt and biochar addition on base cations and trace metals in plants and soil in an urban field trial](https://doi.org/10.5194/bg-23-1681-2026) | Biochar; Enhanced Weathering | 6 |
-| 2026 | [Higher Inorganic CO <sub>2</sub> Removal Despite Slower Weathering in an Enhanced Weathering Experiment With Steel Slags and Basalt](https://doi.org/10.1111/gcb.70666) | Enhanced Weathering | 5 |
-| 2026 | [Synergistic effects of basalt and earthworms: enhanced nutrient availability and altered heavy metal dynamics](https://doi.org/10.5194/egusphere-2026-603) | Enhanced Weathering | 0 |
-| 2026 | [Interaction between enhanced weathering and sources of organic carbon: effects on reactivity of metal slags and inorganic carbon dynamics](https://doi.org/10.5194/egusphere-egu26-5913) | Enhanced Weathering | 0 |
-| 2026 | [Does co-deployment of enhanced weathering and biochar affect soil organic matter stabilization?](https://doi.org/10.5194/egusphere-egu26-18456) | Biochar; Enhanced Weathering | 0 |
-| 2025 | [Enhanced Rock Weathering Altered Soil Organic Carbon Fluxes in a Plant Trial](https://doi.org/10.1111/gcb.70373) | Enhanced Weathering | 14 |
-| 2025 | [Increased soil CO <sub>2</sub> emissions after basalt amendment were partly offset by biochar addition in an urban field experiment](https://doi.org/10.5194/egusphere-2025-3232) | Biochar; Enhanced Weathering | 0 |
-| 2024 | [Feeling the &amp;#8220;pulse&amp;#8221;: long-term studies are key to understanding carbon dynamics in bio-weathering](https://doi.org/10.5194/egusphere-egu24-9670) | Enhanced Weathering | 0 |
+| 2026 | [Effects of basalt and biochar addition on base cations and trace metals in plants and soil in an urban field trial](https://doi.org/10.5194/bg-23-1681-2026)<br><small>Biogeosciences · with [Arthur Vienne](/cdr-researcher-census/researchers/arthur-vienne-a5086565/), Gary Lyons, Jennifer Newell, Rory Doherty, Siobhan Cox, [Sara Vicca](/cdr-researcher-census/researchers/sara-vicca-a5006929/)</small> | Biochar; Enhanced Weathering | 6 |
+| 2026 | [Higher Inorganic CO <sub>2</sub> Removal Despite Slower Weathering in an Enhanced Weathering Experiment With Steel Slags and Basalt](https://doi.org/10.1111/gcb.70666)<br><small>Global Change Biology · with [Laura Steinwidder](/cdr-researcher-census/researchers/laura-steinwidder-a5058405/), Anthony de Schutter, [Arthur Vienne](/cdr-researcher-census/researchers/arthur-vienne-a5086565/), [Harun Niron](/cdr-researcher-census/researchers/harun-niron-a5045276/), [Jet Rijnders](/cdr-researcher-census/researchers/jet-rijnders-a5052294/), Karel Van Acker and 6 more</small> | Enhanced Weathering | 5 |
+| 2026 | [Synergistic effects of basalt and earthworms: enhanced nutrient availability and altered heavy metal dynamics](https://doi.org/10.5194/egusphere-2026-603)<br><small>with [Jet Rijnders](/cdr-researcher-census/researchers/jet-rijnders-a5052294/), [Harun Niron](/cdr-researcher-census/researchers/harun-niron-a5045276/), [Laura Steinwidder](/cdr-researcher-census/researchers/laura-steinwidder-a5058405/), [Lucilla Boito](/cdr-researcher-census/researchers/lucilla-boito-a5094096/), [Patrick Frings](/cdr-researcher-census/researchers/patrick-frings-a5066536/), [Sara Vicca](/cdr-researcher-census/researchers/sara-vicca-a5006929/)</small> | Enhanced Weathering | 0 |
+| 2026 | [Interaction between enhanced weathering and sources of organic carbon: effects on reactivity of metal slags and inorganic carbon dynamics](https://doi.org/10.5194/egusphere-egu26-5913)<br><small>with Bart Vandecasteele, Micaela Jennifer Cosgrove, [Sara Vicca](/cdr-researcher-census/researchers/sara-vicca-a5006929/)</small> | Enhanced Weathering | 0 |
+| 2026 | [Does co-deployment of enhanced weathering and biochar affect soil organic matter stabilization?](https://doi.org/10.5194/egusphere-egu26-18456)<br><small>with Bart Vandecasteele, Micaela Jennifer Cosgrove, [Sara Vicca](/cdr-researcher-census/researchers/sara-vicca-a5006929/)</small> | Biochar; Enhanced Weathering | 0 |
+| 2025 | [Enhanced Rock Weathering Altered Soil Organic Carbon Fluxes in a Plant Trial](https://doi.org/10.1111/gcb.70373)<br><small>Global Change Biology · with [Lucilla Boito](/cdr-researcher-census/researchers/lucilla-boito-a5094096/), [Arthur Vienne](/cdr-researcher-census/researchers/arthur-vienne-a5086565/), [Harun Niron](/cdr-researcher-census/researchers/harun-niron-a5045276/), Jesse Berwouts, [Jet Rijnders](/cdr-researcher-census/researchers/jet-rijnders-a5052294/), [Laura Steinwidder](/cdr-researcher-census/researchers/laura-steinwidder-a5058405/) and 2 more</small> | Enhanced Weathering | 14 |
+| 2025 | [Increased soil CO <sub>2</sub> emissions after basalt amendment were partly offset by biochar addition in an urban field experiment](https://doi.org/10.5194/egusphere-2025-3232)<br><small>with [Arthur Vienne](/cdr-researcher-census/researchers/arthur-vienne-a5086565/), Gary Lyons, Jennifer Newell, Rory Doherty, Siobhan Cox, [Sara Vicca](/cdr-researcher-census/researchers/sara-vicca-a5006929/)</small> | Biochar; Enhanced Weathering | 0 |
+| 2024 | [Feeling the &amp;#8220;pulse&amp;#8221;: long-term studies are key to understanding carbon dynamics in bio-weathering](https://doi.org/10.5194/egusphere-egu24-9670)<br><small>preprint · with [Lucilla Boito](/cdr-researcher-census/researchers/lucilla-boito-a5094096/), [Arthur Vienne](/cdr-researcher-census/researchers/arthur-vienne-a5086565/), [Jet Rijnders](/cdr-researcher-census/researchers/jet-rijnders-a5052294/), [Laura Steinwidder](/cdr-researcher-census/researchers/laura-steinwidder-a5058405/), [Patrick Frings](/cdr-researcher-census/researchers/patrick-frings-a5066536/), [Sara Vicca](/cdr-researcher-census/researchers/sara-vicca-a5006929/)</small> | Enhanced Weathering | 0 |
 
 ---
 

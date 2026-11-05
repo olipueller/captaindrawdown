@@ -1,7 +1,7 @@
 ---
 title: "Christiana Dietzen"
 description: "Christiana Dietzen, University of Copenhagen, Denmark. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 44 by activity, 165 by citations. 27 publications, h-index 6, 283 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/christiana-dietzen-a5050210/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-11 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 11. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+11 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 11. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Expert elicitation on agricultural enhanced weathering reveals carbon dioxide removal potential and uncertainties in loss pathways](https://doi.org/10.1038/s43247-026-03375-5) | Enhanced Weathering | 5 |
-| 2026 | [Short-term effects of Greenlandic glacial rock flour on soil physical properties and maize yield](https://doi.org/10.1007/s10705-025-10452-2) | Enhanced Weathering | 1 |
-| 2026 | [An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering](https://openalex.org/W7168623015) | Enhanced Weathering | 1 |
-| 2026 | [Enhanced weathering of glacial rock flour drives coupled inorganic and organic carbon sequestration in a five-year field experiment](https://openalex.org/W7162524873) | Enhanced Weathering | 0 |
-| 2025 | [Expert elicitation on agricultural enhanced weathering highlights CO2 removal potential and uncertainties in loss pathways](https://doi.org/10.21203/rs.3.rs-7040857/v1) | Enhanced Weathering | 3 |
-| 2025 | [Enduring increases in maize yield are a co-benefit of enhanced weathering of Greenlandic glacial rock flour in Ghana](https://doi.org/10.1007/s10705-025-10442-4) | Enhanced Weathering | 1 |
-| 2025 | [The relative importance of grain size and mineral weatherability for enhanced rock weathering rates: a comparison of glacial rock flour and basaltic feedstocks](https://doi.org/10.5194/egusphere-egu25-16173) | Enhanced Weathering | 0 |
-| 2025 | [Correction: Enduring increases in maize yield are a co-benefit of enhanced weathering of Greenlandic glacial rock flour in Ghana](https://doi.org/10.1007/s10705-025-10448-y) | Enhanced Weathering | 0 |
-| 2024 | [Positive mitigation effects of glacial rock flour (GRF) addition on ecosystem CO2, CH4 and N2O fluxes &amp;#8211; first results from a gradient experiment](https://doi.org/10.5194/egusphere-egu24-3488) | Enhanced Weathering | 0 |
-| 2023 | [Quantification of CO2 uptake by enhanced weathering of silicate minerals applied to acidic soils](https://doi.org/10.1016/j.ijggc.2023.103872) | Enhanced Weathering | 79 |
-| 2023 | [Greenlandic glacial rock flour improves crop yield in organic agricultural production](https://doi.org/10.1007/s10705-023-10274-0) | Enhanced Weathering | 25 |
+| 2026 | [Expert elicitation on agricultural enhanced weathering reveals carbon dioxide removal potential and uncertainties in loss pathways](https://doi.org/10.1038/s43247-026-03375-5)<br><small>Communications Earth & Environment · with Brian Buma, Alexandra Klemme, [Benjamin Z. Houlton](/cdr-researcher-census/researchers/benjamin-z-houlton-a5072170/), [Bonnie G. Waring](/cdr-researcher-census/researchers/bonnie-g-waring-a5010282/), [Christopher R. Pearce](/cdr-researcher-census/researchers/christopher-r-pearce-a5070628/), Doria R. Gordon and 17 more</small> | Enhanced Weathering | 5 |
+| 2026 | [Short-term effects of Greenlandic glacial rock flour on soil physical properties and maize yield](https://doi.org/10.1007/s10705-025-10452-2)<br><small>Nutrient Cycling in Agroecosystems · with William Akortey, Bernard Kwabena Boadi Mensah, Daniel Amoako Darko, Edward Benjamin Sabi, Emmanuel Arthur, Eric Oppong Danso and 7 more</small> | Enhanced Weathering | 1 |
+| 2026 | [An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering](https://openalex.org/W7168623015)<br><small>preprint · with [Tim Jesper Suhrhoff](/cdr-researcher-census/researchers/tim-jesper-suhrhoff-a5081686/), Abby Lunstrum, Alexandra Klemme, Anu Khan, [Arthur Vienne](/cdr-researcher-census/researchers/arthur-vienne-a5086565/), Beck Woollen and 95 more</small> | Enhanced Weathering | 1 |
+| 2026 | [Enhanced weathering of glacial rock flour drives coupled inorganic and organic carbon sequestration in a five-year field experiment](https://openalex.org/W7162524873)<br><small>with Małgorzata Rizzi, [Tim Jesper Suhrhoff](/cdr-researcher-census/researchers/tim-jesper-suhrhoff-a5081686/), [Minik T. Rosing](/cdr-researcher-census/researchers/minik-t-rosing-a5081263/)</small> | Enhanced Weathering | 0 |
+| 2025 | [Expert elicitation on agricultural enhanced weathering highlights CO2 removal potential and uncertainties in loss pathways](https://doi.org/10.21203/rs.3.rs-7040857/v1)<br><small>preprint · with Brian Buma, Alexandra Klemme, [Benjamin Z. Houlton](/cdr-researcher-census/researchers/benjamin-z-houlton-a5072170/), [Bonnie G. Waring](/cdr-researcher-census/researchers/bonnie-g-waring-a5010282/), [Christopher R. Pearce](/cdr-researcher-census/researchers/christopher-r-pearce-a5070628/), Doria R. Gordon and 17 more</small> | Enhanced Weathering | 3 |
+| 2025 | [Enduring increases in maize yield are a co-benefit of enhanced weathering of Greenlandic glacial rock flour in Ghana](https://doi.org/10.1007/s10705-025-10442-4)<br><small>Nutrient Cycling in Agroecosystems · with Eric Oppong Danso, Emmanuel Arthur, [Minik T. Rosing](/cdr-researcher-census/researchers/minik-t-rosing-a5081263/)</small> | Enhanced Weathering | 1 |
+| 2025 | [The relative importance of grain size and mineral weatherability for enhanced rock weathering rates: a comparison of glacial rock flour and basaltic feedstocks](https://doi.org/10.5194/egusphere-egu25-16173)<br><small>preprint · with David A. Foster, Eric Oppong Danso, Franky Barton, [Jens Hammes](/cdr-researcher-census/researchers/jens-hammes-a5108549/), Małgorzata Rizzi, [Minik T. Rosing](/cdr-researcher-census/researchers/minik-t-rosing-a5081263/)</small> | Enhanced Weathering | 0 |
+| 2025 | [Correction: Enduring increases in maize yield are a co-benefit of enhanced weathering of Greenlandic glacial rock flour in Ghana](https://doi.org/10.1007/s10705-025-10448-y)<br><small>Nutrient Cycling in Agroecosystems · with Eric Oppong Danso, Emmanuel Arthur, [Minik T. Rosing](/cdr-researcher-census/researchers/minik-t-rosing-a5081263/)</small> | Enhanced Weathering | 0 |
+| 2024 | [Positive mitigation effects of glacial rock flour (GRF) addition on ecosystem CO2, CH4 and N2O fluxes &amp;#8211; first results from a gradient experiment](https://doi.org/10.5194/egusphere-egu24-3488)<br><small>preprint · with Qiaoyan Li, Klaus Steenberg Larsen</small> | Enhanced Weathering | 0 |
+| 2023 | [Quantification of CO2 uptake by enhanced weathering of silicate minerals applied to acidic soils](https://doi.org/10.1016/j.ijggc.2023.103872)<br><small>International journal of greenhouse gas control · with [Minik T. Rosing](/cdr-researcher-census/researchers/minik-t-rosing-a5081263/)</small> | Enhanced Weathering | 79 |
+| 2023 | [Greenlandic glacial rock flour improves crop yield in organic agricultural production](https://doi.org/10.1007/s10705-023-10274-0)<br><small>Nutrient Cycling in Agroecosystems · with Klara Cecilia Gunnarsen, Lars Stoumann Jensen, [Minik T. Rosing](/cdr-researcher-census/researchers/minik-t-rosing-a5081263/)</small> | Enhanced Weathering | 25 |
 
 ---
 

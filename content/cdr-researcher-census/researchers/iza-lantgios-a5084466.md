@@ -1,7 +1,7 @@
 ---
 title: "Iza Lantgios"
 description: "Iza Lantgios, Idaho National Laboratory, United States. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 56 by activity, 2290 by citations. 6 publications, h-index 2, 326 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/iza-lantgios-a5084466/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,16 +43,16 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 6. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 6. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [A comparative assessment of the economic viability of nuclear-integrated direct air capture systems](https://doi.org/10.1016/j.ijggc.2026.104611) | DAC | 2 |
-| 2025 | [Techno-Economic Performance of Nuclear Reactors to Power Direct Air Capture Technologies](https://openalex.org/W7162146030) | DAC | 0 |
-| 2025 | [Nuclear Reactor Heat Extraction for Synthetic Fuel Plants](https://openalex.org/W7172399541) | DAC | 0 |
-| 2024 | [Light Water Reactor Sustainability Program: Technical and Economic Considerations for Uprate of Existing Nuclear Reactors with Cogeneration](https://doi.org/10.2172/2405118) | DAC | 1 |
-| 2024 | [The Potential for Coupling Direct Air Capture with Nuclear Power Plant Uprate](http://dx.doi.org/10.13182/pbnc24-45114) | DAC | 0 |
-| 2023 | [Design Considerations for Integrating Direct Air Capture with a Nuclear Power Plant](https://openalex.org/W7163657495) | DAC | 0 |
+| 2026 | [A comparative assessment of the economic viability of nuclear-integrated direct air capture systems](https://doi.org/10.1016/j.ijggc.2026.104611)<br><small>International journal of greenhouse gas control · with [Hari Mantripragada](/cdr-researcher-census/researchers/hari-mantripragada-a5024061/), Mark Woods, [Sally Homsy](/cdr-researcher-census/researchers/sally-homsy-a5087798/), Sarah Leptinsky, Jia Zhou, Nicolas Stauff</small> | DAC | 2 |
+| 2025 | [Techno-Economic Performance of Nuclear Reactors to Power Direct Air Capture Technologies](https://openalex.org/W7162146030)<br><small>with Nicolas Stauff, [Hari Mantripragada](/cdr-researcher-census/researchers/hari-mantripragada-a5024061/), Jia Zhou, Sarah Leptinsky, [Sally Homsy](/cdr-researcher-census/researchers/sally-homsy-a5087798/)</small> | DAC | 0 |
+| 2025 | [Nuclear Reactor Heat Extraction for Synthetic Fuel Plants](https://openalex.org/W7172399541)<br><small>with USDOE Office of Nuclear Energy (NE), Aidan Rigby, Byung-Hee Choi, Daniel Mikkelson, Logan Williams, Nipun Popli and 4 more</small> | DAC | 0 |
+| 2024 | [Light Water Reactor Sustainability Program: Technical and Economic Considerations for Uprate of Existing Nuclear Reactors with Cogeneration](https://doi.org/10.2172/2405118)<br><small>with Levi Larsen, Frederick Joseck, Ronald Gonzales, USDOE Office of Nuclear Energy (NE), Svetlana Lawrence</small> | DAC | 1 |
+| 2024 | [The Potential for Coupling Direct Air Capture with Nuclear Power Plant Uprate](http://dx.doi.org/10.13182/pbnc24-45114)<br><small>with Levi Larsen</small> | DAC | 0 |
+| 2023 | [Design Considerations for Integrating Direct Air Capture with a Nuclear Power Plant](https://openalex.org/W7163657495)<br><small>with Logan Williams, Katherine Hornbostel</small> | DAC | 0 |
 
 ---
 

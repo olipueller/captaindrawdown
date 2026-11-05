@@ -1,7 +1,7 @@
 ---
 title: "Yusuf Biçer"
 description: "Yusuf Biçer, Hamad bin Khalifa University, Qatar. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 29 by activity, 179 by citations. 306 publications, h-index 51, 9,120 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/yusuf-bicer-a5022863/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,17 +43,17 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 7. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 7. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Integrated DAC-HVAC systems for CO <sub>2</sub> capture and sustainable hydrogen production from condensed water](https://doi.org/10.1088/1755-1315/1587/1/012019) | DAC | 0 |
-| 2026 | [Direct air capture integration in ammonia plant: A novel process design for advancing decarbonization and green urea productivity](https://openalex.org/W7221158180) | DAC | 0 |
-| 2025 | [Life cycle cost analysis of direct air capture integrated with HVAC systems: Utilization routes in formic acid production and agricultural greenhouses](https://doi.org/10.1016/j.jece.2025.116201) | DAC | 17 |
-| 2025 | [Life Cycle Assessment of an Integrated Direct Air Carbon Capture and Utilization System](https://doi.org/10.1002/ese3.70122) | DAC | 4 |
-| 2025 | [Advanced direct air capture of CO2 using air conditioning systems: a life cycle assessment](https://doi.org/10.1016/j.tsep.2025.104223) | DAC | 3 |
-| 2025 | [Integrating Direct Air Capture and HVAC Systems: An Economic Perspective on Cost Savings](https://doi.org/10.69997/sct.150794) | DAC | 2 |
-| 2023 | [Emerging trends in direct air capture of CO<sub>2</sub>: a review of technology options targeting net-zero emissions](https://doi.org/10.1039/d2ra07940b) | DAC | 112 |
+| 2026 | [Integrated DAC-HVAC systems for CO <sub>2</sub> capture and sustainable hydrogen production from condensed water](https://doi.org/10.1088/1755-1315/1587/1/012019)<br><small>IOP Conference Series Earth and Environmental Science · with Y Bicer, A Banu, Aliya Banu, I Ghiat, Ikhlas Ghiat, T Al-Ansari and 4 more</small> | DAC | 0 |
+| 2026 | [Direct air capture integration in ammonia plant: A novel process design for advancing decarbonization and green urea productivity](https://openalex.org/W7221158180)<br><small>with Abdulkarem I. Amhamed, Ibtehal Mohamed Abuzaid, Laurent M. Le Page, Namra Mira, Riham Surkatti, Rim Romdhane and 3 more</small> | DAC | 0 |
+| 2025 | [Life cycle cost analysis of direct air capture integrated with HVAC systems: Utilization routes in formic acid production and agricultural greenhouses](https://doi.org/10.1016/j.jece.2025.116201)<br><small>Journal of environmental chemical engineering · with Aliya Banu, [Abdulkarem I. Amhamed](/cdr-researcher-census/researchers/abdulkarem-i-amhamed-a5037947/), Ikhlas Ghiat, Namra Mir, [Tareq Al‐Ansari](/cdr-researcher-census/researchers/tareq-alansari-a5086098/), [Yasser M. Abdullatif](/cdr-researcher-census/researchers/yasser-m-abdullatif-a5059366/)</small> | DAC | 17 |
+| 2025 | [Life Cycle Assessment of an Integrated Direct Air Carbon Capture and Utilization System](https://doi.org/10.1002/ese3.70122)<br><small>Energy Science & Engineering · with Aliya Banu, [Abdulkarem I. Amhamed](/cdr-researcher-census/researchers/abdulkarem-i-amhamed-a5037947/), Muftah H. El‐Naas, Namra Mir</small> | DAC | 4 |
+| 2025 | [Advanced direct air capture of CO2 using air conditioning systems: a life cycle assessment](https://doi.org/10.1016/j.tsep.2025.104223)<br><small>Thermal Science and Engineering Progress · with Namra Mir, [Abdulkarem I. Amhamed](/cdr-researcher-census/researchers/abdulkarem-i-amhamed-a5037947/), Aliya Banu, [Yasser M. Abdullatif](/cdr-researcher-census/researchers/yasser-m-abdullatif-a5059366/)</small> | DAC | 3 |
+| 2025 | [Integrating Direct Air Capture and HVAC Systems: An Economic Perspective on Cost Savings](https://doi.org/10.69997/sct.150794)<br><small>Systems and Control Transactions · with Ikhlas Ghiat, [Abdulkarem I. Amhamed](/cdr-researcher-census/researchers/abdulkarem-i-amhamed-a5037947/), [Yasser M. Abdullatif](/cdr-researcher-census/researchers/yasser-m-abdullatif-a5059366/), [Tareq Al‐Ansari](/cdr-researcher-census/researchers/tareq-alansari-a5086098/)</small> | DAC | 2 |
+| 2023 | [Emerging trends in direct air capture of CO<sub>2</sub>: a review of technology options targeting net-zero emissions](https://doi.org/10.1039/d2ra07940b)<br><small>RSC Advances · with [Yasser M. Abdullatif](/cdr-researcher-census/researchers/yasser-m-abdullatif-a5059366/), Ahmed Sodiq, Muftah H. El‐Naas, Namra Mir, [Tareq Al‐Ansari](/cdr-researcher-census/researchers/tareq-alansari-a5086098/), [Abdulkarem I. Amhamed](/cdr-researcher-census/researchers/abdulkarem-i-amhamed-a5037947/)</small> | DAC | 112 |
 
 ---
 

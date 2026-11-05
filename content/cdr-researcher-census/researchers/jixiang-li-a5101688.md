@@ -1,7 +1,7 @@
 ---
 title: "Jixiang Li"
 description: "Jixiang Li, Shanghai Advanced Research Institute, China. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 91 by activity, 1461 by citations. 120 publications, h-index 28, 2,834 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/jixiang-li-a5101688/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,17 +43,17 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 7. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 7. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Effects of cellulase treatment on properties and functional performances of hardwood-like lignocellulose-based biochar and its modified derivatives](https://openalex.org/W7168122373) | Biochar | 0 |
-| 2026 | [Colloidal biochar promotes microbial carbon dioxide fixation and enhances net soil organic carbon gain](https://openalex.org/W7171046201) | Biochar | 0 |
-| 2025 | [Degradation-Resistant Biochar Improves Soil Organic Carbon Storage: Promoting Autotrophic Metabolism &amp; Increasing Refractory Organic Carbon](https://doi.org/10.1016/j.biortech.2025.132452) | Biochar | 27 |
-| 2025 | [Enhancing soil carbon sequestration capacity: Synergistic effect of low-release biochar and autotrophic microbial agents over one year](https://doi.org/10.1016/j.jece.2025.119092) | Biochar | 8 |
-| 2025 | [Interface selectivity-based biochar: Directional evolution of properties, application &amp; carbon neutralization evaluation](https://doi.org/10.1016/j.cej.2025.162242) | Biochar | 5 |
-| 2024 | [Effects of cellulase treatment on properties of lignocellulose-based biochar](https://doi.org/10.1016/j.biortech.2024.131452) | Biochar | 21 |
-| 2022 | [Characterization of highly stable biochar and its application for removal of phenol](https://openalex.org/W4304695055) | Biochar | 40 |
+| 2026 | [Effects of cellulase treatment on properties and functional performances of hardwood-like lignocellulose-based biochar and its modified derivatives](https://openalex.org/W7168122373)<br><small>with Kai Yang, Han Tang, [Jiajun Hu](/cdr-researcher-census/researchers/jiajun-hu-a5058846/), Jing Cao, Jing Wang, K Wang and 4 more</small> | Biochar | 0 |
+| 2026 | [Colloidal biochar promotes microbial carbon dioxide fixation and enhances net soil organic carbon gain](https://openalex.org/W7171046201)<br><small>with Jia Liu, Han Tang, [Jiajun Hu](/cdr-researcher-census/researchers/jiajun-hu-a5058846/), Mei Yue, [Min‐Tian Gao](/cdr-researcher-census/researchers/mintian-gao-a5050601/), Nan Liu and 3 more</small> | Biochar | 0 |
+| 2025 | [Degradation-Resistant Biochar Improves Soil Organic Carbon Storage: Promoting Autotrophic Metabolism &amp; Increasing Refractory Organic Carbon](https://doi.org/10.1016/j.biortech.2025.132452)<br><small>Bioresource Technology · with Han Tang, Bu Li, Jia Wang, [Jiajun Hu](/cdr-researcher-census/researchers/jiajun-hu-a5058846/), Mei Yue, [Min‐Tian Gao](/cdr-researcher-census/researchers/mintian-gao-a5050601/) and 4 more</small> | Biochar | 27 |
+| 2025 | [Enhancing soil carbon sequestration capacity: Synergistic effect of low-release biochar and autotrophic microbial agents over one year](https://doi.org/10.1016/j.jece.2025.119092)<br><small>Journal of environmental chemical engineering · with Han Tang, Bu Li, Jia Jie Zou, Jia Wang, [Jiajun Hu](/cdr-researcher-census/researchers/jiajun-hu-a5058846/), Mei Yue and 5 more</small> | Biochar | 8 |
+| 2025 | [Interface selectivity-based biochar: Directional evolution of properties, application &amp; carbon neutralization evaluation](https://doi.org/10.1016/j.cej.2025.162242)<br><small>Chemical Engineering Journal · with Wang Kai Tong, Bu Li, Chaomeng Dai, Han Tang, Jia Jie Zou, Jia Wang and 6 more</small> | Biochar | 5 |
+| 2024 | [Effects of cellulase treatment on properties of lignocellulose-based biochar](https://doi.org/10.1016/j.biortech.2024.131452)<br><small>Bioresource Technology · with Bu Li, Chaomeng Dai, Han Tang, [Jiajun Hu](/cdr-researcher-census/researchers/jiajun-hu-a5058846/), Jun Bo Zhang, [Min‐Tian Gao](/cdr-researcher-census/researchers/mintian-gao-a5050601/) and 4 more</small> | Biochar | 21 |
+| 2022 | [Characterization of highly stable biochar and its application for removal of phenol](https://openalex.org/W4304695055)<br><small>with Jifeng Guo, Chaomeng Dai, Huihui Xiao, [Jiajun Hu](/cdr-researcher-census/researchers/jiajun-hu-a5058846/), Jun Bo Zhang, [Min‐Tian Gao](/cdr-researcher-census/researchers/mintian-gao-a5050601/) and 1 more</small> | Biochar | 40 |
 
 ---
 

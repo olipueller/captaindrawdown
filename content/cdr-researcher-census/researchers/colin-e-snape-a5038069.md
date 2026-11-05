@@ -1,7 +1,7 @@
 ---
 title: "Colin E. Snape"
 description: "Colin E. Snape, University of Nottingham, United Kingdom. 548 publications, h-index 73, 19,986 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/colin-e-snape-a5038069/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,16 +42,16 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 6, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 6, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Biochar Carbon Removal Standards: A comparative assessment of the EU CRCF, ICVCM and Article 6.4](https://openalex.org/W7165889928) | Biochar | 0 |
-| 2025 | [Biowaste to biochar: a techno-economic and life cycle assessment of biochar production from food-waste digestate and its agricultural field application](https://openalex.org/W4408274631) | Biochar | 64 |
-| 2025 | [Proxies for use in biochar decay models: Hydropyrolysis, electric conductivity, and H/Corg molar ratio](https://doi.org/10.1371/journal.pone.0330206) | Biochar | 9 |
-| 2025 | [Pyrogenic carbon and carbonating minerals for carbon capture and storage (PyMiCCS) part I: production, physico-chemical characterization and C-sink potential](https://doi.org/10.3389/fclim.2025.1631368) | Biochar; Enhanced Weathering | 7 |
-| 2025 | [Understanding the legacy impact of biochar on soil function and carbon stocks &amp;#8211; evidence from a 13-year field experiment](https://doi.org/10.5194/egusphere-egu25-16585) | Biochar | 1 |
-| 2023 | [Biochar application to temperate grasslands: challenges and opportunities for delivering multiple ecosystem services](https://openalex.org/W4380372167) | Biochar | 16 |
+| 2026 | [Biochar Carbon Removal Standards: A comparative assessment of the EU CRCF, ICVCM and Article 6.4](https://openalex.org/W7165889928)<br><small>with Murali Thoppil, Carol Morris, Catherine Price, Evangelos Mouchos, Joanna I. House, Leo Mercer and 2 more</small> | Biochar | 0 |
+| 2025 | [Biowaste to biochar: a techno-economic and life cycle assessment of biochar production from food-waste digestate and its agricultural field application](https://openalex.org/W4408274631)<br><small>with Disni Gamaralalage, Andrew Gill, Helen West, Jessica Alce, Sarah Rodgers, Tom Bott and 3 more</small> | Biochar | 64 |
+| 2025 | [Proxies for use in biochar decay models: Hydropyrolysis, electric conductivity, and H/Corg molar ratio](https://doi.org/10.1371/journal.pone.0330206)<br><small>PLoS ONE · with [Nikolas Hagemann](/cdr-researcher-census/researchers/nikolas-hagemann-a5062868/), Clement N. Uguna, [Hans‐Peter Schmidt](/cdr-researcher-census/researchers/hanspeter-schmidt-a5065464/), Jannis Grafmüller, Silvio Voßwinkel, Thomas D. Bucheli and 2 more</small> | Biochar | 9 |
+| 2025 | [Pyrogenic carbon and carbonating minerals for carbon capture and storage (PyMiCCS) part I: production, physico-chemical characterization and C-sink potential](https://doi.org/10.3389/fclim.2025.1631368)<br><small>Frontiers in Climate · with [Johannes Meyer zu Drewer](/cdr-researcher-census/researchers/johannes-meyer-zu-drewer-a5089195/), [Claudia Kammann](/cdr-researcher-census/researchers/claudia-kammann-a5061014/), Clement N. Uguna, [Hans‐Peter Schmidt](/cdr-researcher-census/researchers/hanspeter-schmidt-a5065464/), [Jens Hartmann](/cdr-researcher-census/researchers/jens-hartmann-a5019869/), Jens Möllmer and 6 more</small> | Biochar; Enhanced Weathering | 7 |
+| 2025 | [Understanding the legacy impact of biochar on soil function and carbon stocks &amp;#8211; evidence from a 13-year field experiment](https://doi.org/10.5194/egusphere-egu25-16585)<br><small>preprint · with [Robert W. Brown](/cdr-researcher-census/researchers/robert-w-brown-a5003791/), Clement N. Uguna, [David R. Chadwick](/cdr-researcher-census/researchers/david-r-chadwick-a5000532/), Lee A. Stevens, Wei Li, William Meredith and 1 more</small> | Biochar | 1 |
+| 2023 | [Biochar application to temperate grasslands: challenges and opportunities for delivering multiple ecosystem services](https://openalex.org/W4380372167)<br><small>with [Robert W. Brown](/cdr-researcher-census/researchers/robert-w-brown-a5003791/), [David R. Chadwick](/cdr-researcher-census/researchers/david-r-chadwick-a5000532/), Genevieve R. Hodgins, Helen West, Paul N. Wilson, Tom Bott and 1 more</small> | Biochar | 16 |
 
 ---
 

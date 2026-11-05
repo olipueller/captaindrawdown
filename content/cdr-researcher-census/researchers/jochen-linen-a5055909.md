@@ -1,7 +1,7 @@
 ---
 title: "Jochen Linßen"
 description: "Jochen Linßen, Forschungszentrum Jülich, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 6 by activity, 2560 by citations. 173 publications, h-index 32, 4,829 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/jochen-linen-a5055909/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,19 +43,19 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 9. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 9. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Global strategic deployment of Direct Air Capture technologies](https://openalex.org/W7169594416) | DAC | 1 |
-| 2026 | [Direct air capture enables sustainable methanol production in water-scarce regions](https://openalex.org/W7204089186) | DAC | 1 |
-| 2026 | [Global Cost Drivers of Direct Air Capture: Insights from Interviews and Techno-Economic Assessment](https://juser.fz-juelich.de/record/1055508) | DAC | 0 |
-| 2026 | [Beyond Capture: Global Techno-Economic Potential of Direct Air Carbon Capture and Storage](https://openalex.org/W7167452867) | DAC | 0 |
-| 2026 | [Global strategic deployment of Direct Air Capture technologies](https://openalex.org/W7172326523) | DAC | 0 |
-| 2026 | [Global strategic deployment of Direct Air Capture technologies](https://openalex.org/W7172383932) | DAC | 0 |
-| 2026 | [Direct air capture enables sustainable methanol production in water-scarce regions](https://openalex.org/W7212170702) | DAC | 0 |
-| 2026 | [Tracking Direct Air Capture Innovation Patent Analysis through LLM-Driven](https://openalex.org/W7220655261) | DAC | 0 |
-| 2025 | [Direct air capture enables sustainable hydrocarbon production in water-scarce regions](https://doi.org/10.21203/rs.3.rs-8161590/v1) | DAC | 0 |
+| 2026 | [Global strategic deployment of Direct Air Capture technologies](https://openalex.org/W7169594416)<br><small>with [Kenneth Okosun](/cdr-researcher-census/researchers/kenneth-okosun-a5118195/), [Detlef Stolten](/cdr-researcher-census/researchers/detlef-stolten-a5004526/), [Freia Harzendorf](/cdr-researcher-census/researchers/freia-harzendorf-a5028836/), [Henrik Wenzel](/cdr-researcher-census/researchers/henrik-wenzel-a5102746/), [Mak Đukan](/cdr-researcher-census/researchers/mak-ukan-a5013904/), [Thomas Schöb](/cdr-researcher-census/researchers/thomas-schob-a5057352/) and 1 more</small> | DAC | 1 |
+| 2026 | [Direct air capture enables sustainable methanol production in water-scarce regions](https://openalex.org/W7204089186)<br><small>with [Henrik Wenzel](/cdr-researcher-census/researchers/henrik-wenzel-a5102746/), [David S. Sholl](/cdr-researcher-census/researchers/david-s-sholl-a5031523/), [Detlef Stolten](/cdr-researcher-census/researchers/detlef-stolten-a5004526/), [Thomas Schöb](/cdr-researcher-census/researchers/thomas-schob-a5057352/), [Jann Michael Weinand](/cdr-researcher-census/researchers/jann-michael-weinand-a5064139/)</small> | DAC | 1 |
+| 2026 | [Global Cost Drivers of Direct Air Capture: Insights from Interviews and Techno-Economic Assessment](https://juser.fz-juelich.de/record/1055508)<br><small>JuSER (Forschungszentrum Jülich) · with Mak Dukan, [Mak Đukan](/cdr-researcher-census/researchers/mak-ukan-a5013904/), Jochen Linssen, [Thomas Schöb](/cdr-researcher-census/researchers/thomas-schob-a5057352/), [Kenneth Okosun](/cdr-researcher-census/researchers/kenneth-okosun-a5118195/)</small> | DAC | 0 |
+| 2026 | [Beyond Capture: Global Techno-Economic Potential of Direct Air Carbon Capture and Storage](https://openalex.org/W7167452867)<br><small>with [Henrik Wenzel](/cdr-researcher-census/researchers/henrik-wenzel-a5102746/), Henrik Wenzel, [Detlef Stolten](/cdr-researcher-census/researchers/detlef-stolten-a5004526/), Jochen Linssen, Mak Dukan, [Mak Đukan](/cdr-researcher-census/researchers/mak-ukan-a5013904/) and 3 more</small> | DAC | 0 |
+| 2026 | [Global strategic deployment of Direct Air Capture technologies](https://openalex.org/W7172326523)<br><small>with [Kenneth Okosun](/cdr-researcher-census/researchers/kenneth-okosun-a5118195/), [Detlef Stolten](/cdr-researcher-census/researchers/detlef-stolten-a5004526/), [Freia Harzendorf](/cdr-researcher-census/researchers/freia-harzendorf-a5028836/), Henrik Wenzel, [Mak Đukan](/cdr-researcher-census/researchers/mak-ukan-a5013904/), [Thomas Schöb](/cdr-researcher-census/researchers/thomas-schob-a5057352/) and 1 more</small> | DAC | 0 |
+| 2026 | [Global strategic deployment of Direct Air Capture technologies](https://openalex.org/W7172383932)<br><small>with [Kenneth Okosun](/cdr-researcher-census/researchers/kenneth-okosun-a5118195/), [Detlef Stolten](/cdr-researcher-census/researchers/detlef-stolten-a5004526/), [Freia Harzendorf](/cdr-researcher-census/researchers/freia-harzendorf-a5028836/), [Henrik Wenzel](/cdr-researcher-census/researchers/henrik-wenzel-a5102746/), [Mak Đukan](/cdr-researcher-census/researchers/mak-ukan-a5013904/), [Thomas Schöb](/cdr-researcher-census/researchers/thomas-schob-a5057352/) and 1 more</small> | DAC | 0 |
+| 2026 | [Direct air capture enables sustainable methanol production in water-scarce regions](https://openalex.org/W7212170702)<br><small>with [Henrik Wenzel](/cdr-researcher-census/researchers/henrik-wenzel-a5102746/), [David S. Sholl](/cdr-researcher-census/researchers/david-s-sholl-a5031523/), [Detlef Stolten](/cdr-researcher-census/researchers/detlef-stolten-a5004526/), [Thomas Schöb](/cdr-researcher-census/researchers/thomas-schob-a5057352/), [Jann Michael Weinand](/cdr-researcher-census/researchers/jann-michael-weinand-a5064139/)</small> | DAC | 0 |
+| 2026 | [Tracking Direct Air Capture Innovation Patent Analysis through LLM-Driven](https://openalex.org/W7220655261)<br><small>with Celine Körner, Jan Göpfert, [Jann Michael Weinand](/cdr-researcher-census/researchers/jann-michael-weinand-a5064139/), [Mak Đukan](/cdr-researcher-census/researchers/mak-ukan-a5013904/)</small> | DAC | 0 |
+| 2025 | [Direct air capture enables sustainable hydrocarbon production in water-scarce regions](https://doi.org/10.21203/rs.3.rs-8161590/v1)<br><small>preprint · with [Henrik Wenzel](/cdr-researcher-census/researchers/henrik-wenzel-a5102746/), [David S. Sholl](/cdr-researcher-census/researchers/david-s-sholl-a5031523/), [Detlef Stolten](/cdr-researcher-census/researchers/detlef-stolten-a5004526/), [Thomas Schöb](/cdr-researcher-census/researchers/thomas-schob-a5057352/), [Jann Michael Weinand](/cdr-researcher-census/researchers/jann-michael-weinand-a5064139/)</small> | DAC | 0 |
 
 ---
 

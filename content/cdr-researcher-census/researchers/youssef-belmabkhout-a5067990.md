@@ -1,7 +1,7 @@
 ---
 title: "Youssef Belmabkhout"
 description: "Youssef Belmabkhout, Université Mohammed VI Polytechnique, MA. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 66 by activity, 169 by citations. 287 publications, h-index 77, 24,406 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/youssef-belmabkhout-a5067990/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,16 +43,16 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 5, Cross-cutting CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 5, Cross-cutting CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Standardized benchmarking of direct air capture technologies: techno-economic and environmental assessment, and multi-criteria decision analysis](https://openalex.org/W7163377415) | DAC | 2 |
-| 2025 | [Integrated CO2 capture and green hydrogen production: A promising approach for energy and cost reductions](https://doi.org/10.1016/j.cej.2025.161361) | Cross-cutting CDR | 33 |
-| 2025 | [Life cycle assessment of electrochemical pH-swing direct air capture](https://doi.org/10.1016/j.enconman.2025.120134) | DAC | 9 |
-| 2025 | [Toward Energy-Efficient Greenhouse CO<sub>2</sub> Enrichment: Advancements and Challenges in Direct Air Capture with Solid Sorbents](https://doi.org/10.1021/acs.energyfuels.5c02235) | DAC | 7 |
-| 2025 | [Techno-economic assessment of coupling direct air capture with formic acid value chain in buildings under different scenarios](https://doi.org/10.1016/j.enconman.2025.120257) | DAC | 7 |
-| 2024 | [Comparative review of Direct air capture technologies: From technical, commercial, economic, and environmental aspects](https://doi.org/10.1016/j.cej.2024.149411) | DAC | 117 |
+| 2026 | [Standardized benchmarking of direct air capture technologies: techno-economic and environmental assessment, and multi-criteria decision analysis](https://openalex.org/W7163377415)<br><small>with Houssam Bouaboula, [Abdelghafour Zaabout](/cdr-researcher-census/researchers/abdelghafour-zaabout-a5089623/)</small> | DAC | 2 |
+| 2025 | [Integrated CO2 capture and green hydrogen production: A promising approach for energy and cost reductions](https://doi.org/10.1016/j.cej.2025.161361)<br><small>Chemical Engineering Journal · with Houssam Bouaboula, [Abdelghafour Zaabout](/cdr-researcher-census/researchers/abdelghafour-zaabout-a5089623/)</small> | Cross-cutting CDR | 33 |
+| 2025 | [Life cycle assessment of electrochemical pH-swing direct air capture](https://doi.org/10.1016/j.enconman.2025.120134)<br><small>Energy Conversion and Management · with Houssam Bouaboula, [Abdelghafour Zaabout](/cdr-researcher-census/researchers/abdelghafour-zaabout-a5089623/)</small> | DAC | 9 |
+| 2025 | [Toward Energy-Efficient Greenhouse CO<sub>2</sub> Enrichment: Advancements and Challenges in Direct Air Capture with Solid Sorbents](https://doi.org/10.1021/acs.energyfuels.5c02235)<br><small>Energy & Fuels · with Ismail Filahi, Ayalew H. Assen, Karim Adil, Mohammed Ouikhalfan</small> | DAC | 7 |
+| 2025 | [Techno-economic assessment of coupling direct air capture with formic acid value chain in buildings under different scenarios](https://doi.org/10.1016/j.enconman.2025.120257)<br><small>Energy Conversion and Management · with Y. Elaouzy, Layla Oumbarech, Mohamed Bachir El Ghrib, [Abdelghafour Zaabout](/cdr-researcher-census/researchers/abdelghafour-zaabout-a5089623/)</small> | DAC | 7 |
+| 2024 | [Comparative review of Direct air capture technologies: From technical, commercial, economic, and environmental aspects](https://doi.org/10.1016/j.cej.2024.149411)<br><small>Chemical Engineering Journal · with Houssam Bouaboula, Jamal Chaouki, [Abdelghafour Zaabout](/cdr-researcher-census/researchers/abdelghafour-zaabout-a5089623/)</small> | DAC | 117 |
 
 ---
 

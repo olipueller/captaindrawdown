@@ -1,7 +1,7 @@
 ---
 title: "Susana García"
 description: "Susana García, Heriot-Watt University, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 67 by activity, 103 by citations. 181 publications, h-index 36, 5,133 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/susana-garcia-a5044341/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,18 +43,18 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 7, Cross-cutting CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+8 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 7, Cross-cutting CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Derivation of a consistent modelling approach for unpromoted and enzyme-catalysed CO2 hydration in alkaline solutions](https://doi.org/10.1016/j.ces.2026.123707) | DAC | 2 |
-| 2026 | [Humidity-Driven Swelling and Mass Transfer in Lewatit VP OC 1065 and Purolite A110 for Direct Air CO <sub>2</sub> Capture](https://openalex.org/W7156824906) | DAC | 1 |
-| 2025 | [Universities must lead capacity building in carbon dioxide removal](https://doi.org/10.1038/s44359-025-00039-z) | Cross-cutting CDR | 0 |
-| 2023 | [The cost of direct air capture and storage can be reduced via strategic deployment but is unlikely to fall below stated cost targets](https://doi.org/10.1016/j.oneear.2023.06.004) | DAC | 211 |
-| 2022 | [The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.](https://doi.org/10.26434/chemrxiv-2022-dp36t-v3) | DAC | 5 |
-| 2022 | [Process-informed adsorbent design for direct air capture](https://doi.org/10.26434/chemrxiv-2022-gn7r2) | DAC | 1 |
-| 2022 | [Driving down the cost of direct air capture with intelligent policy design and technology deployment](https://doi.org/10.2139/ssrn.4277708) | DAC | 0 |
-| 2021 | [The impact of binary water-CO2 isotherm models on the optimal performance of sorbent-based direct air capture processes.](https://doi.org/10.26434/chemrxiv-2021-dvpvw-v2) | DAC | 6 |
+| 2026 | [Derivation of a consistent modelling approach for unpromoted and enzyme-catalysed CO2 hydration in alkaline solutions](https://doi.org/10.1016/j.ces.2026.123707)<br><small>Chemical Engineering Science · with Sotirios Efstathios Antonoudis, Ashween Kaur Virdee, Fariborz Shaahmadi, Friday O. Ochedi, Grigorios Itskos, Konstantinos Atsonios and 1 more</small> | DAC | 2 |
+| 2026 | [Humidity-Driven Swelling and Mass Transfer in Lewatit VP OC 1065 and Purolite A110 for Direct Air CO <sub>2</sub> Capture](https://openalex.org/W7156824906)<br><small>with Katia Piscina, John F. Young, [Mijndert van der Spek](/cdr-researcher-census/researchers/mijndert-van-der-spek-a5062642/)</small> | DAC | 1 |
+| 2025 | [Universities must lead capacity building in carbon dioxide removal](https://doi.org/10.1038/s44359-025-00039-z)<br><small>Nature Reviews Clean Technology · with [Mijndert van der Spek](/cdr-researcher-census/researchers/mijndert-van-der-spek-a5062642/), Cara Nichole Maesano, Daniel G. Pike, Emily J. Cox, James Campbell, Jennifer Wilcox and 8 more</small> | Cross-cutting CDR | 0 |
+| 2023 | [The cost of direct air capture and storage can be reduced via strategic deployment but is unlikely to fall below stated cost targets](https://doi.org/10.1016/j.oneear.2023.06.004)<br><small>One Earth · with John F. Young, Charithea Charalambous, Hélène Pilorgé, John M. Andrésen, Manuel Ojeda, [Noah McQueen](/cdr-researcher-census/researchers/noah-mcqueen-a5036880/) and 5 more</small> | DAC | 211 |
+| 2022 | [The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.](https://doi.org/10.26434/chemrxiv-2022-dp36t-v3)<br><small>preprint · with John F. Young, Charithea Charalambous, Hélène Pilorgé, John M. Andrésen, Manuel Ojeda, [Noah McQueen](/cdr-researcher-census/researchers/noah-mcqueen-a5036880/) and 5 more</small> | DAC | 5 |
+| 2022 | [Process-informed adsorbent design for direct air capture](https://doi.org/10.26434/chemrxiv-2022-gn7r2)<br><small>preprint · with John F. Young, Berend Smit, Fergus Mcilwaine, [Mijndert van der Spek](/cdr-researcher-census/researchers/mijndert-van-der-spek-a5062642/)</small> | DAC | 1 |
+| 2022 | [Driving down the cost of direct air capture with intelligent policy design and technology deployment](https://doi.org/10.2139/ssrn.4277708)<br><small>SSRN Electronic Journal · with John F. Young, Charithea Charalambous, Hélène Pilorgé, Joh Andresen, Manuel Ojeda, [Noah McQueen](/cdr-researcher-census/researchers/noah-mcqueen-a5036880/) and 5 more</small> | DAC | 0 |
+| 2021 | [The impact of binary water-CO2 isotherm models on the optimal performance of sorbent-based direct air capture processes.](https://doi.org/10.26434/chemrxiv-2021-dvpvw-v2)<br><small>preprint · with John F. Young, Enrique García-Díez, [Mijndert van der Spek](/cdr-researcher-census/researchers/mijndert-van-der-spek-a5062642/)</small> | DAC | 6 |
 
 ---
 

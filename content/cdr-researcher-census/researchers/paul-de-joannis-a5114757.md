@@ -1,7 +1,7 @@
 ---
 title: "Paul de Joannis"
 description: "Paul de Joannis, Centre National de la Recherche Scientifique, France. 6 publications, h-index 3, 22 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/paul-de-joannis-a5114757/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,14 +39,14 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-4 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 4. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+4 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 4. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2025 | [Techno-Economic Analysis of Hybrid Adsorption–Membrane Separation Processes for Direct Air Capture](https://doi.org/10.3390/chemengineering9050102) | DAC | 5 |
+| 2025 | [Techno-Economic Analysis of Hybrid Adsorption–Membrane Separation Processes for Direct Air Capture](https://doi.org/10.3390/chemengineering9050102)<br><small>ChemEngineering · with Christophe Castel, Mohamed Kanniche, Éric Favre, Olivier Authier</small> | DAC | 5 |
 | 2025 | [Intégration de procédés de captage direct du CO₂ dans l'air ambiant dans un système bas-carbone](https://openalex.org/W7154157354) | DAC | 0 |
-| 2025 | [Intégration de procédés de captage direct du CO₂ dans l'air ambiant dans un système bas-carbone](https://openalex.org/W7154548951) | DAC | 0 |
-| 2025 | [Integration of Direct Air Capture (DAC) into a low-carbon system](https://openalex.org/W7154657439) | DAC | 0 |
+| 2025 | [Intégration de procédés de captage direct du CO₂ dans l'air ambiant dans un système bas-carbone](https://openalex.org/W7154548951)<br><small>with Paul de Joannis</small> | DAC | 0 |
+| 2025 | [Integration of Direct Air Capture (DAC) into a low-carbon system](https://openalex.org/W7154657439)<br><small>with Paul De Joannis</small> | DAC | 0 |
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Matthias Kalkuhl"
 description: "Matthias Kalkuhl, Potsdam Institute for Climate Impact Research, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 74 by activity, 980 by citations. 231 publications, h-index 32, 4,829 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/matthias-kalkuhl-a5069718/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,19 +43,19 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Cross-cutting CDR 9. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Cross-cutting CDR 9. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Emissions trading with clean-up certificates: How carbon debt can increase climate ambition levels](https://openalex.org/W7128705792) | Cross-cutting CDR | 3 |
-| 2026 | [Report: The Public Economics of Carbon Dioxide Removal](https://openalex.org/W7212205790) | Cross-cutting CDR | 0 |
-| 2025 | [The Economics of Carbon Dioxide Removal](https://doi.org/10.1146/annurev-resource-010224-094505) | Cross-cutting CDR | 12 |
-| 2024 | [Pigou's Advice and Sisyphus’Warning: Carbon Pricing Withnon-Permanent Carbon Dioxide Removal](http://dx.doi.org/10.2139/ssrn.4828800) | Cross-cutting CDR | 2 |
-| 2024 | [Planetarische Müllabfuhr – Gamechanger der Klimapolitik?](https://doi.org/10.1515/pwp-2024-0028) | Cross-cutting CDR | 2 |
-| 2024 | [The Economics of Carbon Dioxide Removal: A Governance Perspective](https://doi.org/10.2139/ssrn.5053587) | Cross-cutting CDR | 2 |
-| 2023 | [On the Governance of Carbon Dioxide Removal – a Public Economics Perspective](https://doi.org/10.2139/ssrn.4422845) | Cross-cutting CDR | 27 |
-| 2022 | [Optimal pricing for carbon dioxide removal under inter-regional leakage](https://doi.org/10.1016/j.jeem.2022.102769) | Cross-cutting CDR | 19 |
-| 2022 | [Pigou's Advice and Sisyphus’ Warning: Carbon Pricing with Non-Permanent Carbon-Dioxide Removal](https://doi.org/10.2139/ssrn.4315996) | Cross-cutting CDR | 13 |
+| 2026 | [Emissions trading with clean-up certificates: How carbon debt can increase climate ambition levels](https://openalex.org/W7128705792)<br><small>with Kai Lessmann, Friedemann Gruner, [Ottmar Edenhofer](/cdr-researcher-census/researchers/ottmar-edenhofer-a5056597/)</small> | Cross-cutting CDR | 3 |
+| 2026 | [Report: The Public Economics of Carbon Dioxide Removal](https://openalex.org/W7212205790)<br><small>with Kai Lessmann</small> | Cross-cutting CDR | 0 |
+| 2025 | [The Economics of Carbon Dioxide Removal](https://doi.org/10.1146/annurev-resource-010224-094505)<br><small>Annual Review of Resource Economics · with [Ottmar Edenhofer](/cdr-researcher-census/researchers/ottmar-edenhofer-a5056597/), Friedemann Gruner, Max Franks, Kai Lessmann</small> | Cross-cutting CDR | 12 |
+| 2024 | [Pigou's Advice and Sisyphus’Warning: Carbon Pricing Withnon-Permanent Carbon Dioxide Removal](http://dx.doi.org/10.2139/ssrn.4828800)<br><small>SSRN Electronic Journal (preprint) · with Max Franks, Friedemann Gruner, Kai Lessmann, [Ottmar Edenhofer](/cdr-researcher-census/researchers/ottmar-edenhofer-a5056597/)</small> | Cross-cutting CDR | 2 |
+| 2024 | [Planetarische Müllabfuhr – Gamechanger der Klimapolitik?](https://doi.org/10.1515/pwp-2024-0028)<br><small>Perspektiven der Wirtschaftspolitik · with [Ottmar Edenhofer](/cdr-researcher-census/researchers/ottmar-edenhofer-a5056597/)</small> | Cross-cutting CDR | 2 |
+| 2024 | [The Economics of Carbon Dioxide Removal: A Governance Perspective](https://doi.org/10.2139/ssrn.5053587)<br><small>SSRN Electronic Journal (preprint) · with [Ottmar Edenhofer](/cdr-researcher-census/researchers/ottmar-edenhofer-a5056597/), Friedemann Gruner, Max Franks, Kai Lessmann</small> | Cross-cutting CDR | 2 |
+| 2023 | [On the Governance of Carbon Dioxide Removal – a Public Economics Perspective](https://doi.org/10.2139/ssrn.4422845)<br><small>SSRN Electronic Journal · with [Ottmar Edenhofer](/cdr-researcher-census/researchers/ottmar-edenhofer-a5056597/), Max Franks, Artur Runge-Metzger</small> | Cross-cutting CDR | 27 |
+| 2022 | [Optimal pricing for carbon dioxide removal under inter-regional leakage](https://doi.org/10.1016/j.jeem.2022.102769)<br><small>Journal of Environmental Economics and Management · with Max Franks, Kai Lessmann</small> | Cross-cutting CDR | 19 |
+| 2022 | [Pigou's Advice and Sisyphus’ Warning: Carbon Pricing with Non-Permanent Carbon-Dioxide Removal](https://doi.org/10.2139/ssrn.4315996)<br><small>SSRN Electronic Journal · with Friedemann Gruner, Kai Lessmann, Max Franks, [Ottmar Edenhofer](/cdr-researcher-census/researchers/ottmar-edenhofer-a5056597/)</small> | Cross-cutting CDR | 13 |
 
 ---
 

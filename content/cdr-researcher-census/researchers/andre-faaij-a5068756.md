@@ -1,7 +1,7 @@
 ---
 title: "André Faaij"
 description: "André Faaij, Utrecht University, Netherlands. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 31 by activity, 381 by citations. 526 publications, h-index 99, 39,333 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/andre-faaij-a5068756/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,17 +43,17 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 7. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 7. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Scenario space exploration for robust energy planning](https://openalex.org/W7213422099) | BECCS | 0 |
-| 2025 | [Spatially explicit transition pathways for decarbonizing China’s steel industry during 2030–2050](https://doi.org/10.1016/j.resconrec.2025.108528) | BECCS | 4 |
-| 2023 | [BECCS as climate mitigation option in a Brazilian low carbon energy system: Estimating potential and effect of gigatonne scale CO2 storage](https://doi.org/10.1016/j.ijggc.2023.103945) | BECCS | 16 |
-| 2023 | [Exploring the spatiotemporal evolution of bioenergy with carbon capture and storage and decarbonization of oil refineries with a national energy system model of Colombia](https://doi.org/10.1016/j.esr.2023.101232) | BECCS | 5 |
-| 2022 | [Repairing What Policy Is Missing Out on: A Constructive View on Prospects and Preconditions for Sustainable Biobased Economy Options to Mitigate and Adapt to Climate Change](https://doi.org/10.3390/en15165955) | BECCS | 11 |
-| 2021 | [Harmonized comparison of virgin steel production using biomass with carbon capture and storage for negative emissions](https://doi.org/10.1016/j.ijggc.2021.103519) | BECCS | 28 |
-| 2021 | [Negative Emission Potentials in Industrial Sectors Due to Carbon Capture and Biomass](https://doi.org/10.2139/ssrn.3818159) | BECCS | 1 |
+| 2026 | [Scenario space exploration for robust energy planning](https://openalex.org/W7213422099)<br><small>with Amirhossein Fattahi, Carlos Felipe Blanco, Mobi van der Linden, Rebeka Béres</small> | BECCS | 0 |
+| 2025 | [Spatially explicit transition pathways for decarbonizing China’s steel industry during 2030–2050](https://doi.org/10.1016/j.resconrec.2025.108528)<br><small>Resources Conservation and Recycling · with Fan Yang, Bingquan Zhang, Hans Meerman, Jinrui Zhang, Qi Li, Tianyang Lei and 2 more</small> | BECCS | 4 |
+| 2023 | [BECCS as climate mitigation option in a Brazilian low carbon energy system: Estimating potential and effect of gigatonne scale CO2 storage](https://doi.org/10.1016/j.ijggc.2023.103945)<br><small>International journal of greenhouse gas control · with Tjerk Lap, Floor van der Hilst, René Benders</small> | BECCS | 16 |
+| 2023 | [Exploring the spatiotemporal evolution of bioenergy with carbon capture and storage and decarbonization of oil refineries with a national energy system model of Colombia](https://doi.org/10.1016/j.esr.2023.101232)<br><small>Energy Strategy Reviews · with Ahmed Younis, Lorena Suárez Bermúdez, René Benders, Tjerk Lap, Édgar Eduardo Yáñez Angarita</small> | BECCS | 5 |
+| 2022 | [Repairing What Policy Is Missing Out on: A Constructive View on Prospects and Preconditions for Sustainable Biobased Economy Options to Mitigate and Adapt to Climate Change](https://doi.org/10.3390/en15165955)<br><small>Energies</small> | BECCS | 11 |
+| 2021 | [Harmonized comparison of virgin steel production using biomass with carbon capture and storage for negative emissions](https://doi.org/10.1016/j.ijggc.2021.103519)<br><small>International journal of greenhouse gas control · with Fan Yang, Hans Meerman</small> | BECCS | 28 |
+| 2021 | [Negative Emission Potentials in Industrial Sectors Due to Carbon Capture and Biomass](https://doi.org/10.2139/ssrn.3818159)<br><small>SSRN Electronic Journal · with Fan Yang, Hans Meerman</small> | BECCS | 1 |
 
 ---
 

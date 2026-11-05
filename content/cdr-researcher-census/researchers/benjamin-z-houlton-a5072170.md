@@ -1,7 +1,7 @@
 ---
 title: "Benjamin Z. Houlton"
 description: "Benjamin Z. Houlton, Cornell University, United States. CDR Researcher Census top lists (2026-11.4), worldwide: Enhanced Weathering: rank 30 by activity, 77 by citations. 183 publications, h-index 44, 13,575 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/benjamin-z-houlton-a5072170/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,24 +43,24 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-14 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 14, Biochar 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+14 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Enhanced Weathering 14, Biochar 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Expert elicitation on agricultural enhanced weathering reveals carbon dioxide removal potential and uncertainties in loss pathways](https://doi.org/10.1038/s43247-026-03375-5) | Enhanced Weathering | 5 |
-| 2026 | [Scaling up enhanced rock weathering for equitable climate change mitigation](https://doi.org/10.1038/s44458-026-00034-w) | Enhanced Weathering | 2 |
-| 2026 | [An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering](https://openalex.org/W7168623015) | Enhanced Weathering | 1 |
-| 2025 | [Combining organic amendments with enhanced rock weathering shifts soil carbon storage in croplands](https://doi.org/10.1016/j.scitotenv.2025.180179) | Enhanced Weathering | 13 |
-| 2025 | [Preliminary assessment of crushed rock, compost, and biochar amendments on soil physical properties](https://doi.org/10.1002/ael2.70028) | Biochar; Enhanced Weathering | 7 |
-| 2025 | [Expert elicitation on agricultural enhanced weathering highlights CO2 removal potential and uncertainties in loss pathways](https://doi.org/10.21203/rs.3.rs-7040857/v1) | Enhanced Weathering | 3 |
-| 2025 | [&amp;#160;&amp;#8220;Long effects of enhanced rock weathering: the first two years of The Decade Experiment&amp;#8221;](https://doi.org/10.5194/egusphere-egu25-13189) | Enhanced Weathering | 0 |
-| 2025 | [Key limitations in enhanced weathering to remove carbon dioxide across agricultural soils](https://doi.org/10.5194/egusphere-egu25-5064) | Enhanced Weathering | 0 |
-| 2024 | [Reduced accrual of mineral-associated organic matter after two years of enhanced rock weathering in cropland soils, though no net losses of soil organic carbon](https://doi.org/10.1007/s10533-024-01160-0) | Enhanced Weathering | 36 |
-| 2024 | [Inorganic and organic synergies in enhanced weathering to promote carbon dioxide removal](https://doi.org/10.1111/gcb.17132) | Enhanced Weathering | 23 |
-| 2024 | [Coupling soil inorganic-organic carbon dynamics for verifiable carbon dioxide removal by enhanced weathering](https://doi.org/10.46427/gold2024.22980) | Enhanced Weathering | 1 |
-| 2023 | [Direct evidence for atmospheric carbon dioxide removal via enhanced weathering in cropland soil](https://doi.org/10.1088/2515-7620/acfd89) | Enhanced Weathering | 37 |
-| 2022 | [Methods for determining the CO2 removal capacity of enhanced weathering in agronomic settings](https://doi.org/10.3389/fclim.2022.970429) | Enhanced Weathering | 38 |
-| 2021 | [Bedrock Weathering Controls on Terrestrial Carbon‐Nitrogen‐Climate Interactions](https://doi.org/10.1029/2020gb006933) | Enhanced Weathering | 15 |
+| 2026 | [Expert elicitation on agricultural enhanced weathering reveals carbon dioxide removal potential and uncertainties in loss pathways](https://doi.org/10.1038/s43247-026-03375-5)<br><small>Communications Earth & Environment · with Brian Buma, Alexandra Klemme, [Bonnie G. Waring](/cdr-researcher-census/researchers/bonnie-g-waring-a5010282/), [Christiana Dietzen](/cdr-researcher-census/researchers/christiana-dietzen-a5050210/), [Christopher R. Pearce](/cdr-researcher-census/researchers/christopher-r-pearce-a5070628/), Doria R. Gordon and 17 more</small> | Enhanced Weathering | 5 |
+| 2026 | [Scaling up enhanced rock weathering for equitable climate change mitigation](https://doi.org/10.1038/s44458-026-00034-w)<br><small>Communications Sustainability · with Ying Tu, Feng Tao, Linah Ababneh, N. Butler, Natalia Butler, Radine Michelle Rafols and 4 more</small> | Enhanced Weathering | 2 |
+| 2026 | [An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering](https://openalex.org/W7168623015)<br><small>preprint · with [Tim Jesper Suhrhoff](/cdr-researcher-census/researchers/tim-jesper-suhrhoff-a5081686/), Abby Lunstrum, Alexandra Klemme, Anu Khan, [Arthur Vienne](/cdr-researcher-census/researchers/arthur-vienne-a5086565/), Beck Woollen and 95 more</small> | Enhanced Weathering | 1 |
+| 2025 | [Combining organic amendments with enhanced rock weathering shifts soil carbon storage in croplands](https://doi.org/10.1016/j.scitotenv.2025.180179)<br><small>The Science of The Total Environment · with Jaeeun Sohng, Anthony Debons, Heath Goertzen, Iris Holzer, Isabel P. Montañez, Jasquelin Peña and 4 more</small> | Enhanced Weathering | 13 |
+| 2025 | [Preliminary assessment of crushed rock, compost, and biochar amendments on soil physical properties](https://doi.org/10.1002/ael2.70028)<br><small>Agricultural & Environmental Letters · with Sarah A. Costanzo, Amber Davenport, Iris Holzer, Nall I. Moonilall, Mallika Nocco</small> | Biochar; Enhanced Weathering | 7 |
+| 2025 | [Expert elicitation on agricultural enhanced weathering highlights CO2 removal potential and uncertainties in loss pathways](https://doi.org/10.21203/rs.3.rs-7040857/v1)<br><small>preprint · with Brian Buma, Alexandra Klemme, [Bonnie G. Waring](/cdr-researcher-census/researchers/bonnie-g-waring-a5010282/), [Christiana Dietzen](/cdr-researcher-census/researchers/christiana-dietzen-a5050210/), [Christopher R. Pearce](/cdr-researcher-census/researchers/christopher-r-pearce-a5070628/), Doria R. Gordon and 17 more</small> | Enhanced Weathering | 3 |
+| 2025 | [&amp;#160;&amp;#8220;Long effects of enhanced rock weathering: the first two years of The Decade Experiment&amp;#8221;](https://doi.org/10.5194/egusphere-egu25-13189)<br><small>preprint · with Chris Evans, Chu-Hsien Tsai, Sean Meagher, Sean Meagher</small> | Enhanced Weathering | 0 |
+| 2025 | [Key limitations in enhanced weathering to remove carbon dioxide across agricultural soils](https://doi.org/10.5194/egusphere-egu25-5064)<br><small>preprint · with Feng Tao</small> | Enhanced Weathering | 0 |
+| 2024 | [Reduced accrual of mineral-associated organic matter after two years of enhanced rock weathering in cropland soils, though no net losses of soil organic carbon](https://doi.org/10.1007/s10533-024-01160-0)<br><small>Biogeochemistry · with Noah W. Sokol, Emily K. Geoghegan, Eric Slessarev, Heath Goertzen, Iris Holzer, Isabel P. Montañez and 7 more</small> | Enhanced Weathering | 36 |
+| 2024 | [Inorganic and organic synergies in enhanced weathering to promote carbon dioxide removal](https://doi.org/10.1111/gcb.17132)<br><small>Global Change Biology · with Feng Tao</small> | Enhanced Weathering | 23 |
+| 2024 | [Coupling soil inorganic-organic carbon dynamics for verifiable carbon dioxide removal by enhanced weathering](https://doi.org/10.46427/gold2024.22980)<br><small>with Feng Tao</small> | Enhanced Weathering | 1 |
+| 2023 | [Direct evidence for atmospheric carbon dioxide removal via enhanced weathering in cropland soil](https://doi.org/10.1088/2515-7620/acfd89)<br><small>Environmental Research Communications · with Iris Holzer, Mallika Nocco</small> | Enhanced Weathering | 37 |
+| 2022 | [Methods for determining the CO2 removal capacity of enhanced weathering in agronomic settings](https://doi.org/10.3389/fclim.2022.970429)<br><small>Frontiers in Climate · with Maya Almaraz, Emily K. Geoghegan, Heath Goertzen, I. J. Bingham, Iris Holzer, Jaeeun Sohng</small> | Enhanced Weathering | 38 |
+| 2021 | [Bedrock Weathering Controls on Terrestrial Carbon‐Nitrogen‐Climate Interactions](https://doi.org/10.1029/2020gb006933)<br><small>Global Biogeochemical Cycles · with P. Dass, [David Wårlind](/cdr-researcher-census/researchers/david-warlind-a5086576/), Ying‐Ping Wang, Scott L. Morford</small> | Enhanced Weathering | 15 |
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Nilay Shah"
 description: "Nilay Shah, Imperial College London, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 26 by activity, 1136 by citations. 581 publications, h-index 86, 38,171 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/nilay-shah-a5078158/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,22 +43,22 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-12 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 7, Cross-cutting CDR 4, BECCS 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+12 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 7, Cross-cutting CDR 4, BECCS 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Analysis of new strategies integrating bipolar membrane electrodialysis and absorption systems in DAC applications](https://doi.org/10.1016/j.ccst.2026.100579) | DAC | 0 |
-| 2026 | [Synergistic integration of direct air capture in bioenergy systems](https://openalex.org/W7165375642) | DAC | 0 |
-| 2026 | [Analysis and comparison of technologies for the regeneration of a capture solution in DAC absorption systems](https://openalex.org/W7165399737) | DAC | 0 |
-| 2026 | [Direct air capture portfolio analysis: technology allocation and modular deployment strategies under demand and cost uncertainty](https://openalex.org/W7212436676) | DAC | 0 |
-| 2025 | [Sustainability analysis of electrochemical direct air capture technologies](https://doi.org/10.1039/d5su00227c) | DAC | 4 |
-| 2024 | [The role of negative emissions technologies in the UK’s net-zero strategy](https://doi.org/10.1016/j.crsus.2024.100126) | Cross-cutting CDR | 6 |
-| 2024 | [A sustainability analysis for a circular power-to-liquid process for diesel production](https://doi.org/10.1016/j.spc.2024.09.018) | BECCS; DAC | 6 |
-| 2024 | [Marginal Cost Curves Show Least-Cost, Full Decarbonisation of European Cement Includes CO2 Capture and Storage, Alternative Clinkers, and Carbon Dioxide Removal](https://doi.org/10.2139/ssrn.4735961) | Cross-cutting CDR | 2 |
-| 2023 | [How Far Should the UK Go with Negative Emission Technologies?](https://doi.org/10.52202/069564-0263) | BECCS | 2 |
-| 2022 | [Modelling and analysis of direct air capture systems in different locations](https://doaj.org/article/2350f648fa2a431aa78ede6d7e9b7ad6) | DAC | 9 |
-| 2022 | [An Open-Source Toolkit to Design and Evaluate Net-Zero Pathways for Industrial Clusters](https://doi.org/10.2139/ssrn.4286330) | Cross-cutting CDR | 4 |
-| 2021 | [Tools and options for hydrogen and CCS cluster development and acceleration – UK case study, ELEGANCY project](https://doi.org/10.2139/ssrn.3815268) | Cross-cutting CDR | 11 |
+| 2026 | [Analysis of new strategies integrating bipolar membrane electrodialysis and absorption systems in DAC applications](https://doi.org/10.1016/j.ccst.2026.100579)<br><small>Carbon Capture Science & Technology · with [Grazia Leonzio](/cdr-researcher-census/researchers/grazia-leonzio-a5023097/), Lei Xing</small> | DAC | 0 |
+| 2026 | [Synergistic integration of direct air capture in bioenergy systems](https://openalex.org/W7165375642)<br><small>with Nor Syuriaty Jaafar, Noor Fatina Emelin Nor Fadzil, Norhuda Abdul Manaf</small> | DAC | 0 |
+| 2026 | [Analysis and comparison of technologies for the regeneration of a capture solution in DAC absorption systems](https://openalex.org/W7165399737)<br><small>with [Grazia Leonzio](/cdr-researcher-census/researchers/grazia-leonzio-a5023097/)</small> | DAC | 0 |
+| 2026 | [Direct air capture portfolio analysis: technology allocation and modular deployment strategies under demand and cost uncertainty](https://openalex.org/W7212436676)<br><small>with Davis Bigestans, Michel‐Alexandre Cardin, [Niall Mac Dowell](/cdr-researcher-census/researchers/niall-mac-dowell-a5002701/), James Smith</small> | DAC | 0 |
+| 2025 | [Sustainability analysis of electrochemical direct air capture technologies](https://doi.org/10.1039/d5su00227c)<br><small>RSC Sustainability · with [Grazia Leonzio](/cdr-researcher-census/researchers/grazia-leonzio-a5023097/)</small> | DAC | 4 |
+| 2024 | [The role of negative emissions technologies in the UK’s net-zero strategy](https://doi.org/10.1016/j.crsus.2024.100126)<br><small>Cell Reports Sustainability · with Semra Bakkaloglu, Christos N. Markides, Matthias Mersch, Nixon Sunny, Adam Hawkes</small> | Cross-cutting CDR | 6 |
+| 2024 | [A sustainability analysis for a circular power-to-liquid process for diesel production](https://doi.org/10.1016/j.spc.2024.09.018)<br><small>Sustainable Production and Consumption · with [Grazia Leonzio](/cdr-researcher-census/researchers/grazia-leonzio-a5023097/), Niki Triantafyllou</small> | BECCS; DAC | 6 |
+| 2024 | [Marginal Cost Curves Show Least-Cost, Full Decarbonisation of European Cement Includes CO2 Capture and Storage, Alternative Clinkers, and Carbon Dioxide Removal](https://doi.org/10.2139/ssrn.4735961)<br><small>SSRN Electronic Journal (preprint) · with Till Strunge, Lukas Küng, Nixon Sunny, [Phil Renforth](/cdr-researcher-census/researchers/phil-renforth-a5011758/), [Mijndert van der Spek](/cdr-researcher-census/researchers/mijndert-van-der-spek-a5062642/)</small> | Cross-cutting CDR | 2 |
+| 2023 | [How Far Should the UK Go with Negative Emission Technologies?](https://doi.org/10.52202/069564-0263)<br><small>with Semra Bakkaloglu, Christos N. Markides, Matthias Mersch, Nixon Sunny, Adam Hawkes</small> | BECCS | 2 |
+| 2022 | [Modelling and analysis of direct air capture systems in different locations](https://doaj.org/article/2350f648fa2a431aa78ede6d7e9b7ad6)<br><small>SHILAP Revista de lepidopterología · with [Grazia Leonzio](/cdr-researcher-census/researchers/grazia-leonzio-a5023097/), Paul S. Fennell</small> | DAC | 9 |
+| 2022 | [An Open-Source Toolkit to Design and Evaluate Net-Zero Pathways for Industrial Clusters](https://doi.org/10.2139/ssrn.4286330)<br><small>SSRN Electronic Journal · with Lukas Küng, Anna Korre, Naveed Tariq, Nixon Sunny, Till Strunge, Zhenggang Nie and 1 more</small> | Cross-cutting CDR | 4 |
+| 2021 | [Tools and options for hydrogen and CCS cluster development and acceleration – UK case study, ELEGANCY project](https://doi.org/10.2139/ssrn.3815268)<br><small>SSRN Electronic Journal · with Maxine Akhurst, Jonathan Pearce, Nixon Sunny, Ward Goldthorpe, Lionel Avignon</small> | Cross-cutting CDR | 11 |
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Eva Thorin"
 description: "Eva Thorin, Mälardalen University, Sweden. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 61 by activity, 742 by citations. 223 publications, h-index 35, 4,368 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/eva-thorin-a5052844/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,16 +43,16 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 6. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 6. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2025 | [Selecting proper technologies for capturing CO2 from bioenergy conversion](https://openalex.org/W4409987405) | BECCS | 4 |
-| 2024 | [Negative emission potential from biomass/waste combined heat and power plants integrated with CO2 capture: An approach from the national perspective](https://doi.org/10.1016/j.jclepro.2024.142917) | BECCS | 11 |
-| 2023 | [Aggregated Negative Emission from Biomass Fired CHP Plants in Sweden](http://dx.doi.org/10.46855/energy-proceedings-10471) | BECCS | 0 |
-| 2022 | [Technology selection for capturing CO2 from wood pyrolysis](https://doi.org/10.1016/j.enconman.2022.115835) | BECCS | 19 |
-| 2022 | [Capturing CO2 from Wood Fast Pyrolysis](https://doi.org/10.46855/energy-proceedings-9442) | BECCS | 0 |
-| 2021 | [Differences on Capturing CO2 from the Combustion of Biomass and Coal by using Chemical Absorption](https://doi.org/10.46855/energy-proceedings-7511) | BECCS | 0 |
+| 2025 | [Selecting proper technologies for capturing CO2 from bioenergy conversion](https://openalex.org/W4409987405)<br><small>with Hailong Li, [Beibei Dong](/cdr-researcher-census/researchers/beibei-dong-a5112316/), [Qie Sun](/cdr-researcher-census/researchers/qie-sun-a5100611/), Worrada Nookuea, Zhixin Yu</small> | BECCS | 4 |
+| 2024 | [Negative emission potential from biomass/waste combined heat and power plants integrated with CO2 capture: An approach from the national perspective](https://doi.org/10.1016/j.jclepro.2024.142917)<br><small>Journal of Cleaner Production · with [Beibei Dong](/cdr-researcher-census/researchers/beibei-dong-a5112316/), [Qie Sun](/cdr-researcher-census/researchers/qie-sun-a5100611/), Shuo Wang, Hailong Li</small> | BECCS | 11 |
+| 2023 | [Aggregated Negative Emission from Biomass Fired CHP Plants in Sweden](http://dx.doi.org/10.46855/energy-proceedings-10471)<br><small>preprint · with [Beibei Dong](/cdr-researcher-census/researchers/beibei-dong-a5112316/), Hailong Li, Jan Škvařil, [Qie Sun](/cdr-researcher-census/researchers/qie-sun-a5100611/), Shuo Wang, Kåre Gustafsson</small> | BECCS | 0 |
+| 2022 | [Technology selection for capturing CO2 from wood pyrolysis](https://doi.org/10.1016/j.enconman.2022.115835)<br><small>Energy Conversion and Management · with Yingying Sun, [Beibei Dong](/cdr-researcher-census/researchers/beibei-dong-a5112316/), Hailong Li, Liang Wang</small> | BECCS | 19 |
+| 2022 | [Capturing CO2 from Wood Fast Pyrolysis](https://doi.org/10.46855/energy-proceedings-9442)<br><small>preprint · with Yingying Sun, [Beibei Dong](/cdr-researcher-census/researchers/beibei-dong-a5112316/), Liang Wang, Hailong Li</small> | BECCS | 0 |
+| 2021 | [Differences on Capturing CO2 from the Combustion of Biomass and Coal by using Chemical Absorption](https://doi.org/10.46855/energy-proceedings-7511)<br><small>preprint · with Worrada Nookuea, [Beibei Dong](/cdr-researcher-census/researchers/beibei-dong-a5112316/), Hailong Li, Jinyue Yan, KÃ¥re Gustafsson, Kåre Gustafsson</small> | BECCS | 0 |
 
 ---
 

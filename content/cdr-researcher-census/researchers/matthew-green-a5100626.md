@@ -1,7 +1,7 @@
 ---
 title: "Matthew Green"
 description: "Matthew Green, Arizona State University, United States. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 59 by activity, 2129 by citations. 191 publications, h-index 43, 8,315 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/matthew-green-a5100626/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,16 +43,16 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 6. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+6 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 6. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [ASU’s DAC polymer-enhanced cyanobacterial bioproductivity (AUDACity)](https://doi.org/10.2172/3014196) | DAC | 1 |
-| 2026 | [Alkaline stability of poly(2-methacryloyloxyethyl trimethylammonium chloride) for direct air capture applications](https://openalex.org/W7163214672) | DAC | 0 |
-| 2025 | [Hybrid Carbon Management in Oil and Gas: Opportunities for Direct Air Capture, Gas Sweetening, and Waste-to-Energy](https://doi.org/10.2139/ssrn.5405554) | DAC | 0 |
-| 2024 | [Abstract for CRADA between NETL and the AZ Board of Regents on behalf of Arizona State University](https://openalex.org/W4406746550) | DAC | 0 |
-| 2023 | [Direct Air Capture of CO<sub>2</sub>](https://doi.org/10.1021/acsinfocus.7e7016) | DAC | 3 |
-| 2022 | [Mining Air for Fuels and Fine Chemicals](https://doi.org/10.2172/1869810) | DAC | 0 |
+| 2026 | [ASU’s DAC polymer-enhanced cyanobacterial bioproductivity (AUDACity)](https://doi.org/10.2172/3014196)<br><small>with Office of Sustainable Transportation. Bioenergy Technologies Office (BETO) USDOE Office of Energy Efficiency and Renewable Energy (EERE), USDOE Office of Technology Commercialization (OTC); USDOE Office of Energy Efficiency and Renewable Energy (EERE), Amory Lowe, Amory Lowe, Arizona State Univ., Tempe, AZ (United States), Garrett Cole and 15 more</small> | DAC | 1 |
+| 2026 | [Alkaline stability of poly(2-methacryloyloxyethyl trimethylammonium chloride) for direct air capture applications](https://openalex.org/W7163214672)<br><small>with Ani Nazari, Marlene Alejandra Velazco Medel, Marlene Velazco Medel</small> | DAC | 0 |
+| 2025 | [Hybrid Carbon Management in Oil and Gas: Opportunities for Direct Air Capture, Gas Sweetening, and Waste-to-Energy](https://doi.org/10.2139/ssrn.5405554)<br><small>SSRN Electronic Journal (preprint) · with Gerhard Höfer</small> | DAC | 0 |
+| 2024 | [Abstract for CRADA between NETL and the AZ Board of Regents on behalf of Arizona State University](https://openalex.org/W4406746550)<br><small>with [Sally Homsy](/cdr-researcher-census/researchers/sally-homsy-a5087798/), Mani Modayil Korah</small> | DAC | 0 |
+| 2023 | [Direct Air Capture of CO<sub>2</sub>](https://doi.org/10.1021/acsinfocus.7e7016)<br><small>ACS in focus · with Hoda Shokrollahzadeh Behbahani</small> | DAC | 3 |
+| 2022 | [Mining Air for Fuels and Fine Chemicals](https://doi.org/10.2172/1869810)<br><small>with Alexander T. Bridge, Benny D. Freeman, Edwin A. Smith, Hoda Shokrollahzadeh Behbahani, Horacio Lopez Marques, Husain Mithaiwala and 11 more</small> | DAC | 0 |
 
 ---
 

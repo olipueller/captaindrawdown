@@ -1,7 +1,7 @@
 ---
 title: "Nouman Rafique Mirza"
 description: "Nouman Rafique Mirza, Commonwealth Scientific and Industrial Research Organisation, Australia. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 61 by activity, 1348 by citations. 18 publications, h-index 12, 635 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/nouman-rafique-mirza-a5036697/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-5 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 5, Enhanced Weathering 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+5 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 5, Enhanced Weathering 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Towards the integration of direct air capture and CO2 mineralisation processes employing potassium glycinate, and α- and β- alaninate](https://openalex.org/W7155634468) | DAC | 2 |
-| 2026 | [Integrated Direct Air Capture – CO2 Mineralisation Process Employing Potassium Glycinate, and α- and β- Alaninate](https://doi.org/10.2139/ssrn.6331975) | DAC; Enhanced Weathering | 0 |
-| 2026 | [Evaluation of the potassium salts of a series of five linear aliphatic amino acids for direct air capture](https://openalex.org/W7207749051) | DAC | 0 |
-| 2025 | [Mineralisation as a carbon sink for DAC: A case-study for solar thermal process integration](https://doi.org/10.1016/j.clet.2025.100974) | DAC; Enhanced Weathering | 1 |
-| 2022 | [Reclaiming water from a direct air capture plant using vacuum membrane distillation – A bench-scale study](https://doi.org/10.1016/j.seppur.2022.122418) | DAC | 10 |
+| 2026 | [Towards the integration of direct air capture and CO2 mineralisation processes employing potassium glycinate, and α- and β- alaninate](https://openalex.org/W7155634468)<br><small>with Sofia Lazareva, Debra Fernandes, [Graeme Puxty](/cdr-researcher-census/researchers/graeme-puxty-a5088038/), Nouman Mirza, Robert D. Bennett, Sam Chen</small> | DAC | 2 |
+| 2026 | [Integrated Direct Air Capture – CO2 Mineralisation Process Employing Potassium Glycinate, and α- and β- Alaninate](https://doi.org/10.2139/ssrn.6331975)<br><small>SSRN Electronic Journal (preprint) · with Sofia Lazareva, Debra Fernandes, [Graeme Puxty](/cdr-researcher-census/researchers/graeme-puxty-a5088038/), Robert D. Bennett, Sam Chen</small> | DAC; Enhanced Weathering | 0 |
+| 2026 | [Evaluation of the potassium salts of a series of five linear aliphatic amino acids for direct air capture](https://openalex.org/W7207749051)<br><small>with Nouman Mirza, Debra Fernandes, [Graeme Puxty](/cdr-researcher-census/researchers/graeme-puxty-a5088038/), Robert D. Bennett, M. Simone</small> | DAC | 0 |
+| 2025 | [Mineralisation as a carbon sink for DAC: A case-study for solar thermal process integration](https://doi.org/10.1016/j.clet.2025.100974)<br><small>Cleaner Engineering and Technology · with [Dia Milani](/cdr-researcher-census/researchers/dia-milani-a5067927/), Geoffrey Drewer, [Graeme Puxty](/cdr-researcher-census/researchers/graeme-puxty-a5088038/), Haftom Weldekidan, Michael Rae, [Paul Feron](/cdr-researcher-census/researchers/paul-feron-a5057846/) and 4 more</small> | DAC; Enhanced Weathering | 1 |
+| 2022 | [Reclaiming water from a direct air capture plant using vacuum membrane distillation – A bench-scale study](https://doi.org/10.1016/j.seppur.2022.122418)<br><small>Separation and Purification Technology · with Amr Omar, Debra Fernandes, Jessica Allen, Qiyuan Li, Robert A. Taylor, Shuaifei Zhao and 2 more</small> | DAC | 10 |
 
 ---
 

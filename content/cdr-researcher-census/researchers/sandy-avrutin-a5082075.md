@@ -1,7 +1,7 @@
 ---
 title: "Sandy Avrutin"
 description: "Sandy Avrutin, GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 75 by activity, 3835 by citations. 21 publications, h-index 2, 6 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/sandy-avrutin-a5082075/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,17 +43,17 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 7. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+7 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 7. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Impacts of Simulated Coastal Ocean Alkalinity Enhancement on the Seasonal Cycle of the Air-Sea CO <sub>2</sub> Flux and Surface Ocean pCO <sub>2</sub> in European Waters under a Low- and a High-Emission Scenario](https://doi.org/10.5194/egusphere-2026-926) | Ocean CDR | 0 |
-| 2026 | [Using the Seasonal Cycle in the Ocean Carbonate System for Monitoring and Guiding OAE](https://doi.org/10.5194/egusphere-egu26-18169) | Ocean CDR | 0 |
-| 2026 | [Monitoring Environmental Impacts of mCDR Field Tests: CDRmare HUB Workshop Report](https://openalex.org/W7149214733) | Ocean CDR | 0 |
-| 2026 | [Monitoring, reporting, and verification of marine carbon dioxide removal: Exploring scientific consensus and divergences across continents](https://openalex.org/W7160088355) | Ocean CDR | 0 |
-| 2026 | [Monitoring, reporting, and verification of marine carbon dioxide removal: Exploring scientific consensus and divergences across continents](https://openalex.org/W7162539958) | Ocean CDR | 0 |
-| 2026 | [Ocean alkalinity enhancement: Insights and considerations for application](https://openalex.org/W7212142082) | Ocean CDR | 0 |
-| 2024 | [Seasonal Variability in the Ocean Carbonate System under Ocean Alkalinity Enhancement&amp;#160;](https://doi.org/10.5194/egusphere-egu24-18243) | Ocean CDR | 0 |
+| 2026 | [Impacts of Simulated Coastal Ocean Alkalinity Enhancement on the Seasonal Cycle of the Air-Sea CO <sub>2</sub> Flux and Surface Ocean pCO <sub>2</sub> in European Waters under a Low- and a High-Emission Scenario](https://doi.org/10.5194/egusphere-2026-926)<br><small>with Chiara Ciscato, Neha Mehendale, [Tronje P. Kemena](/cdr-researcher-census/researchers/tronje-p-kemena-a5043456/), [David P. Keller](/cdr-researcher-census/researchers/david-p-keller-a5068205/)</small> | Ocean CDR | 0 |
+| 2026 | [Using the Seasonal Cycle in the Ocean Carbonate System for Monitoring and Guiding OAE](https://doi.org/10.5194/egusphere-egu26-18169)<br><small>with [Andreas Oschlies](/cdr-researcher-census/researchers/andreas-oschlies-a5063745/), Chiara Ciscato</small> | Ocean CDR | 0 |
+| 2026 | [Monitoring Environmental Impacts of mCDR Field Tests: CDRmare HUB Workshop Report](https://openalex.org/W7149214733)<br><small>with Christian-Benjamin Sarpey, Alexander Proelss, Alexander Proelß, [Andreas Oschlies](/cdr-researcher-census/researchers/andreas-oschlies-a5063745/), [Miranda Boettcher](/cdr-researcher-census/researchers/miranda-boettcher-a5061263/), [Nadine Mengis](/cdr-researcher-census/researchers/nadine-mengis-a5079879/) and 3 more</small> | Ocean CDR | 0 |
+| 2026 | [Monitoring, reporting, and verification of marine carbon dioxide removal: Exploring scientific consensus and divergences across continents](https://openalex.org/W7160088355)<br><small>with Linn J. Hoffmann, Abbie Akinyi Allela, Abubakari Munna, [Adam V. Subhas](/cdr-researcher-census/researchers/adam-v-subhas-a5048374/), Adrienne Sutton, Alicia Karspeck and 75 more</small> | Ocean CDR | 0 |
+| 2026 | [Monitoring, reporting, and verification of marine carbon dioxide removal: Exploring scientific consensus and divergences across continents](https://openalex.org/W7162539958)<br><small>with Linn J. Hoffmann, Abbie Akinyi Allela, Anwesha Ghosh, B. van Dam, Baker Matovu, Chelsey Baker and 16 more</small> | Ocean CDR | 0 |
+| 2026 | [Ocean alkalinity enhancement: Insights and considerations for application](https://openalex.org/W7212142082)<br><small>preprint · with Steffen Swoboda, Andy W. Dale, [Michael Fuhr](/cdr-researcher-census/researchers/michael-fuhr-a5072752/), Mirco Wölfelschneider, [Andreas Oschlies](/cdr-researcher-census/researchers/andreas-oschlies-a5063745/)</small> | Ocean CDR | 0 |
+| 2024 | [Seasonal Variability in the Ocean Carbonate System under Ocean Alkalinity Enhancement&amp;#160;](https://doi.org/10.5194/egusphere-egu24-18243)<br><small>preprint · with [Andreas Oschlies](/cdr-researcher-census/researchers/andreas-oschlies-a5063745/), [David P. Keller](/cdr-researcher-census/researchers/david-p-keller-a5068205/)</small> | Ocean CDR | 0 |
 
 ---
 

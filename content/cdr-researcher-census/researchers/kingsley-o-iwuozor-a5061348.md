@@ -1,7 +1,7 @@
 ---
 title: "Kingsley O. Iwuozor"
 description: "Kingsley O. Iwuozor, Nnamdi Azikiwe University, Nigeria. CDR Researcher Census top lists (2026-11.4), worldwide: Biochar: rank 44 by activity, 680 by citations. 208 publications, h-index 48, 7,700 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/kingsley-o-iwuozor-a5061348/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,20 +43,20 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 10, BECCS 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 10, BECCS 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [A critical review on metal/metal oxide-modified sugarcane biochar](https://openalex.org/W7164556639) | Biochar | 3 |
-| 2026 | [Preparations, Modifications, Properties, and Environmental Applications of Animal Manure-Derived Biochar: A Review](https://openalex.org/W7167661412) | Biochar | 0 |
-| 2025 | [Production and characterization of sunflower stalk biochar and ash: a study on batch versus semi-batch gasifier systems](https://doi.org/10.1515/ijcre-2024-0248) | BECCS; Biochar | 6 |
-| 2025 | [Comparative Structural and Textural Evaluation of Biochar Derived From Devolatilized Agricultural Pods](https://doi.org/10.1007/s12155-025-10934-9) | Biochar | 5 |
-| 2024 | [Investigating the properties and agronomic benefits of onion peel and chicken feather-derived biochars](https://doi.org/10.1016/j.heliyon.2024.e35485) | Biochar | 14 |
-| 2024 | [Sustainable Recycling of Polyester Fabric Waste and Sugarcane Bagasse into Biochar](https://doi.org/10.1007/s12355-024-01520-y) | Biochar | 7 |
-| 2023 | [Hybrid biochar production from biomass and pigmented plastic for sustainable waste-to-energy](https://doi.org/10.1007/s42247-023-00538-4) | Biochar | 33 |
-| 2023 | [Comparative assessment of biochar produced from LDPE and neem leaves using batch and semi-batch biomass fuel-based reactors](https://doi.org/10.1080/17597269.2023.2281099) | Biochar | 23 |
-| 2022 | [Removal of bromophenol blue dye from water onto biomass, activated carbon, biochar, polymer, nanoparticle, and composite adsorbents](https://doi.org/10.1007/s13399-022-03592-w) | Biochar | 42 |
-| 2022 | [Thermal recycling strategy of Coca-Cola PVC label films by its co-carbonization with Terminalia ivorensis leaves](https://doi.org/10.1016/j.clet.2022.100564) | Biochar | 41 |
+| 2026 | [A critical review on metal/metal oxide-modified sugarcane biochar](https://openalex.org/W7164556639)<br><small>with Hussein Kehinde Okoro, [Adewale George Adeniyi](/cdr-researcher-census/researchers/adewale-george-adeniyi-a5039101/)</small> | Biochar | 3 |
+| 2026 | [Preparations, Modifications, Properties, and Environmental Applications of Animal Manure-Derived Biochar: A Review](https://openalex.org/W7167661412)<br><small>with Ebuka Chizitere Emenike, Harvis Bamidele Saka, Joy Adeleke, Joy Chinaza Olatunbosun, Marcellinus Chibuike Ogudo, Marcellinus Ogudo and 2 more</small> | Biochar | 0 |
+| 2025 | [Production and characterization of sunflower stalk biochar and ash: a study on batch versus semi-batch gasifier systems](https://doi.org/10.1515/ijcre-2024-0248)<br><small>International Journal of Chemical Reactor Engineering · with [Adewale George Adeniyi](/cdr-researcher-census/researchers/adewale-george-adeniyi-a5039101/), Abdelrahman O. Ezzat, Ebuka Chizitere Emenike, Hamad A. Al‐Lohedan, Hambali Umar Hambali, Mubarak A. Amoloye and 4 more</small> | BECCS; Biochar | 6 |
+| 2025 | [Comparative Structural and Textural Evaluation of Biochar Derived From Devolatilized Agricultural Pods](https://doi.org/10.1007/s12155-025-10934-9)<br><small>BioEnergy Research · with Bolaji Ibrahim Busari, Abdelrahman O. Ezzat, Ebuka Chizitere Emenike, Hamad A. Al‐Lohedan, Joshua Emeghai, Rafiu Olasunkanmi Yusuf and 2 more</small> | Biochar | 5 |
+| 2024 | [Investigating the properties and agronomic benefits of onion peel and chicken feather-derived biochars](https://doi.org/10.1016/j.heliyon.2024.e35485)<br><small>Heliyon · with [Adewale George Adeniyi](/cdr-researcher-census/researchers/adewale-george-adeniyi-a5039101/), Abdelrahman O. Ezzat, Ebuka Chizitere Emenike, Hamad A. Al‐Lohedan, Harvis Bamidele Saka, Harvis Bamidele Saka and 3 more</small> | Biochar | 14 |
+| 2024 | [Sustainable Recycling of Polyester Fabric Waste and Sugarcane Bagasse into Biochar](https://doi.org/10.1007/s12355-024-01520-y)<br><small>Sugar Tech · with Ashraf M. M. Abdelbacki, Chika J. Okorie, Ebuka Chizitere Emenike, Ifeoluwa Peter Oyekunle, Taiwo Temitayo Micheal, [Adewale George Adeniyi](/cdr-researcher-census/researchers/adewale-george-adeniyi-a5039101/)</small> | Biochar | 7 |
+| 2023 | [Hybrid biochar production from biomass and pigmented plastic for sustainable waste-to-energy](https://doi.org/10.1007/s42247-023-00538-4)<br><small>Emergent Materials · with [Adewale George Adeniyi](/cdr-researcher-census/researchers/adewale-george-adeniyi-a5039101/), Ebuka Chizitere Emenike, Victor Temitope Amusa</small> | Biochar | 33 |
+| 2023 | [Comparative assessment of biochar produced from LDPE and neem leaves using batch and semi-batch biomass fuel-based reactors](https://doi.org/10.1080/17597269.2023.2281099)<br><small>Biofuels · with Ebuka Chizitere Emenike, Joy Adeleke, Samuel Ogunniyi, Taiwo Temitayo Micheal, [Adewale George Adeniyi](/cdr-researcher-census/researchers/adewale-george-adeniyi-a5039101/)</small> | Biochar | 23 |
+| 2022 | [Removal of bromophenol blue dye from water onto biomass, activated carbon, biochar, polymer, nanoparticle, and composite adsorbents](https://doi.org/10.1007/s13399-022-03592-w)<br><small>Biomass Conversion and Biorefinery · with Kovo G. Akpomie, Adedapo O. Adeola, Chijioke Olisah, James F. Amaku, Joshua O. Ighalo, Kabir O. Oyedotun and 2 more</small> | Biochar | 42 |
+| 2022 | [Thermal recycling strategy of Coca-Cola PVC label films by its co-carbonization with Terminalia ivorensis leaves](https://doi.org/10.1016/j.clet.2022.100564)<br><small>Cleaner Engineering and Technology · with [Adewale George Adeniyi](/cdr-researcher-census/researchers/adewale-george-adeniyi-a5039101/), Victor Temitope Amusa, Ebuka Chizitere Emenike</small> | Biochar | 41 |
 
 ---
 

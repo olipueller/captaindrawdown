@@ -1,7 +1,7 @@
 ---
 title: "Andrey Lessa Derci Augustynczik"
 description: "Andrey Lessa Derci Augustynczik, International Institute for Applied Systems Analysis, Austria. CDR Researcher Census top lists (2026-11.4), worldwide: BECCS: rank 81 by activity, 1757 by citations. 89 publications, h-index 18, 1,213 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/andrey-lessa-derci-augustynczik-a5067345/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,15 +43,15 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-5 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 3, Cross-cutting CDR 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+5 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: BECCS 3, Cross-cutting CDR 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Biodiversity implications of land-intensive carbon dioxide removal](https://doi.org/10.1038/s41558-026-02557-5) | BECCS | 7 |
-| 2026 | [Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment](https://openalex.org/W7211955480) | BECCS | 0 |
-| 2025 | [Warming versus land-intensive mitigation impact on biodiversity refugia across climate policy scenarios](https://doi.org/10.5194/egusphere-egu25-9028) | BECCS | 0 |
-| 2024 | [Spatial analysis of CDR implications for global biodiversity refugia](https://doi.org/10.5194/egusphere-egu24-1645) | Cross-cutting CDR | 0 |
-| 2023 | [Fire Weather Compromises Large Scale Afforestation Scenarios](https://doi.org/10.5194/egusphere-egu23-12337) | Cross-cutting CDR | 3 |
+| 2026 | [Biodiversity implications of land-intensive carbon dioxide removal](https://doi.org/10.1038/s41558-026-02557-5)<br><small>Nature Climate Change · with [Ruben Prütz](/cdr-researcher-census/researchers/ruben-prutz-a5011946/), Alex Popp, [Alexander Popp](/cdr-researcher-census/researchers/alexander-popp-a5088947/), [Florian Humpenöder](/cdr-researcher-census/researchers/florian-humpenoder-a5060104/), Florian Kraxner, [Gaurav Ganti](/cdr-researcher-census/researchers/gaurav-ganti-a5002533/) and 13 more</small> | BECCS | 7 |
+| 2026 | [Land-use, emissions, and sustainability futures across ScenarioMIP-CMIP7: a multi-model assessment](https://openalex.org/W7211955480)<br><small>preprint · with [Alexander Popp](/cdr-researcher-census/researchers/alexander-popp-a5088947/), Amanda Palazzo, Astrid Bos, Benjamin Leon Bodirsky, Cindy G. Azuero-Pedraza, Clàudia Rodés-Bachs and 43 more</small> | BECCS | 0 |
+| 2025 | [Warming versus land-intensive mitigation impact on biodiversity refugia across climate policy scenarios](https://doi.org/10.5194/egusphere-egu25-9028)<br><small>preprint · with [Ruben Prütz](/cdr-researcher-census/researchers/ruben-prutz-a5011946/), Florian Kraxner, Jeff Price, [Joeri Rogelj](/cdr-researcher-census/researchers/joeri-rogelj-a5017820/), [Jonathan Doelman](/cdr-researcher-census/researchers/jonathan-doelman-a5006446/), [Michael Wögerer](/cdr-researcher-census/researchers/michael-wogerer-a5088505/) and 9 more</small> | BECCS | 0 |
+| 2024 | [Spatial analysis of CDR implications for global biodiversity refugia](https://doi.org/10.5194/egusphere-egu24-1645)<br><small>preprint · with [Ruben Prütz](/cdr-researcher-census/researchers/ruben-prutz-a5011946/), Jeff Price, [Joeri Rogelj](/cdr-researcher-census/researchers/joeri-rogelj-a5017820/), Nicole Forstenhäusler, Peter Havlík, Rachel Warren and 2 more</small> | Cross-cutting CDR | 0 |
+| 2023 | [Fire Weather Compromises Large Scale Afforestation Scenarios](https://doi.org/10.5194/egusphere-egu23-12337)<br><small>preprint · with Felix Jäger, [Alexander Popp](/cdr-researcher-census/researchers/alexander-popp-a5088947/), [Detlef P. van Vuuren](/cdr-researcher-census/researchers/detlef-p-van-vuuren-a5082748/), [Florian Humpenöder](/cdr-researcher-census/researchers/florian-humpenoder-a5060104/), Jonas Schwaab, [Jonathan Doelman](/cdr-researcher-census/researchers/jonathan-doelman-a5006446/) and 6 more</small> | Cross-cutting CDR | 3 |
 
 ---
 

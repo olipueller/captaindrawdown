@@ -1,7 +1,7 @@
 ---
 title: "Ryan P. Lively"
 description: "Ryan P. Lively, Georgia Institute of Technology, United States. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 35 by activity, 165 by citations. 339 publications, h-index 64, 19,659 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/ryan-p-lively-a5021581/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,20 +43,20 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 8, BECCS 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 8, BECCS 2. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Influence of Transition Metal Ion Contaminants on the Performance of Amine-Based Solid Sorbents in Direct Air Capture](https://openalex.org/W7161977491) | DAC | 4 |
-| 2026 | [Stability of Metal–Organic Framework-Supported Amines under Exposure to Ozone Generated from Air](https://openalex.org/W7167853406) | DAC | 0 |
-| 2026 | [Stability of Metal–OrganicFramework-SupportedAmines under Exposure to Ozone Generated from Air](https://openalex.org/W7168044839) | DAC | 0 |
-| 2026 | [Seasonal Thermal Energy Requirements of Zeolite and Amine Adsorbents for Direct Air Capture in a Cold Climate](https://openalex.org/W7213935345) | DAC | 0 |
-| 2023 | [Evaluating degradation of CO<sub>2</sub> adsorbents in flue gas from bioenergy with carbon capture and storage](https://doi.org/10.1039/d3se00823a) | BECCS | 3 |
-| 2022 | [Research needs targeting direct air capture of carbon dioxide: Material &amp; process performance characteristics under realistic environmental conditions](https://doi.org/10.1007/s11814-021-0976-0) | DAC | 100 |
-| 2022 | [Positive Power with Negative Emission Flexible NGCC Enable by Modular Direct Air Capture (Final Report)](https://doi.org/10.2172/1884555) | DAC | 1 |
-| 2021 | [Defining Targets for Adsorbent Material Performance to Enable Viable BECCS Processes](https://doi.org/10.1021/jacsau.0c00127) | BECCS | 44 |
-| 2021 | [Assessing the physical potential capacity of direct air capture with integrated supply of low‐carbon energy sources](https://doi.org/10.1002/ghg.2136) | DAC | 22 |
-| 2021 | [Perspective - the need and prospects for negative emission technologies - direct air capture through the lens of current sorption process development](https://doi.org/10.1007/s11814-021-0957-3) | DAC | 17 |
+| 2026 | [Influence of Transition Metal Ion Contaminants on the Performance of Amine-Based Solid Sorbents in Direct Air Capture](https://openalex.org/W7161977491)<br><small>with Botagoz Kuspangaliyeva, [Christopher W. Jones](/cdr-researcher-census/researchers/christopher-w-jones-a5052807/)</small> | DAC | 4 |
+| 2026 | [Stability of Metal–Organic Framework-Supported Amines under Exposure to Ozone Generated from Air](https://openalex.org/W7167853406)<br><small>with Mario Zorrilla-Valtierra, Botagoz Kuspangaliyeva, Jonas Baltrušaitis, Yuhe Cao, Krista S. Walton</small> | DAC | 0 |
+| 2026 | [Stability of Metal–OrganicFramework-SupportedAmines under Exposure to Ozone Generated from Air](https://openalex.org/W7168044839)<br><small>with Mario Zorrilla-Valtierra, Botagoz Kuspangaliyeva, Jonas Baltrušaitis, Yuhe Cao, Krista S. Walton</small> | DAC | 0 |
+| 2026 | [Seasonal Thermal Energy Requirements of Zeolite and Amine Adsorbents for Direct Air Capture in a Cold Climate](https://openalex.org/W7213935345)<br><small>preprint · with Mingyu Song, Anthony Vallace, [Christopher W. Jones](/cdr-researcher-census/researchers/christopher-w-jones-a5052807/), Jaedeok Kim, Quinn Yu, Woo Jin Jang</small> | DAC | 0 |
+| 2023 | [Evaluating degradation of CO<sub>2</sub> adsorbents in flue gas from bioenergy with carbon capture and storage](https://doi.org/10.1039/d3se00823a)<br><small>Sustainable Energy & Fuels · with Hannah E. Holmes, [Matthew J. Realff](/cdr-researcher-census/researchers/matthew-j-realff-a5078923/), Pavithra Narayanan, Robert D. Schreck, Shreya Ghosh, Wenting Sun</small> | BECCS | 3 |
+| 2022 | [Research needs targeting direct air capture of carbon dioxide: Material &amp; process performance characteristics under realistic environmental conditions](https://doi.org/10.1007/s11814-021-0976-0)<br><small>Korean Journal of Chemical Engineering · with Fanhe Kong, Cornelia Rosu, Guanhe Rim, [Matthew J. Realff](/cdr-researcher-census/researchers/matthew-j-realff-a5078923/), Mingyu Song, Pranjali Priyadarshini and 1 more</small> | DAC | 100 |
+| 2022 | [Positive Power with Negative Emission Flexible NGCC Enable by Modular Direct Air Capture (Final Report)](https://doi.org/10.2172/1884555)<br><small>with [Matthew J. Realff](/cdr-researcher-census/researchers/matthew-j-realff-a5078923/), [Christopher W. Jones](/cdr-researcher-census/researchers/christopher-w-jones-a5052807/), Fani Boukouvala, Joseph K. Scott, Katherine Dombrowski, Howard Hendrix</small> | DAC | 1 |
+| 2021 | [Defining Targets for Adsorbent Material Performance to Enable Viable BECCS Processes](https://doi.org/10.1021/jacsau.0c00127)<br><small>JACS Au · with Hannah E. Holmes, [Matthew J. Realff](/cdr-researcher-census/researchers/matthew-j-realff-a5078923/)</small> | BECCS | 44 |
+| 2021 | [Assessing the physical potential capacity of direct air capture with integrated supply of low‐carbon energy sources](https://doi.org/10.1002/ghg.2136)<br><small>Greenhouse Gases Science and Technology · with Steffen Fahr, Alice Favero, Anthony J. Giarrusso, Julian Powell, [Matthew J. Realff](/cdr-researcher-census/researchers/matthew-j-realff-a5078923/)</small> | DAC | 22 |
+| 2021 | [Perspective - the need and prospects for negative emission technologies - direct air capture through the lens of current sorption process development](https://doi.org/10.1007/s11814-021-0957-3)<br><small>Korean Journal of Chemical Engineering · with [Matthew J. Realff](/cdr-researcher-census/researchers/matthew-j-realff-a5078923/), [Christopher W. Jones](/cdr-researcher-census/researchers/christopher-w-jones-a5052807/), Youn Ji Min</small> | DAC | 17 |
 
 ---
 

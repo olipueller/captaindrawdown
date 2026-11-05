@@ -1,7 +1,7 @@
 ---
 title: "Luis E. Hernández Gutiérrez"
 description: "Luis E. Hernández Gutiérrez, Instituto Volcanológico de Canarias, Spain. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 95 by activity, 2562 by citations. 80 publications, h-index 10, 287 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/luis-e-hernandez-gutierrez-a5088121/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,14 +43,14 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-4 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 4. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+4 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 4. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Zeolites synthesis from Tajogaite eruption ash (La Palma, Canary Islands) and its performance for CO2 capture](https://doi.org/10.5194/egusphere-egu26-14815) | DAC | 0 |
-| 2026 | [Water-induced CO2 roll-up and regeneration complexity in zeolite 13× during humid direct air capture: Breakthrough, ex situ FTIR, and reduced-order modeling](https://openalex.org/W7166113569) | DAC | 0 |
-| 2025 | [Advancing Direct Air Capture Technologies: From Carbon Removal to Sustainable Aviation Fuels](https://doi.org/10.5194/egusphere-egu25-12733) | DAC | 2 |
-| 2025 | [Carbon mineralization opportunities in Canary Islands](https://doi.org/10.5194/egusphere-egu25-12673) | DAC | 0 |
+| 2026 | [Zeolites synthesis from Tajogaite eruption ash (La Palma, Canary Islands) and its performance for CO2 capture](https://doi.org/10.5194/egusphere-egu26-14815)<br><small>with Luis Signorelli, Eleazar Padrón, Nemesio M. Pérez, Pedro A. Hernández, Pedro Esparza, Helena Hernández-Martín</small> | DAC | 0 |
+| 2026 | [Water-induced CO2 roll-up and regeneration complexity in zeolite 13× during humid direct air capture: Breakthrough, ex situ FTIR, and reduced-order modeling](https://openalex.org/W7166113569)<br><small>with Luis Signorelli, Germán D. Padilla, Gladys V. Melián Rodriguez, Gladys V. Rodríguez, Helena Hernández-Martín, Pablo Pacheco Delgado and 1 more</small> | DAC | 0 |
+| 2025 | [Advancing Direct Air Capture Technologies: From Carbon Removal to Sustainable Aviation Fuels](https://doi.org/10.5194/egusphere-egu25-12733)<br><small>preprint · with L. Pacheco</small> | DAC | 2 |
+| 2025 | [Carbon mineralization opportunities in Canary Islands](https://doi.org/10.5194/egusphere-egu25-12673)<br><small>preprint · with David Rosado Belza, Fernando Palacios, Isaac Martín Lorenzo, Jorge A. Leon, Marcelo H. García</small> | DAC | 0 |
 
 ---
 

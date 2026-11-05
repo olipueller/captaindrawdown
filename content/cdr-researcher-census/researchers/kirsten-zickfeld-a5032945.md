@@ -1,7 +1,7 @@
 ---
 title: "Kirsten Zickfeld"
 description: "Kirsten Zickfeld, Simon Fraser University, Canada. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 60 by activity, 116 by citations. 201 publications, h-index 47, 8,903 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/kirsten-zickfeld-a5032945/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,23 +43,23 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-13 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Cross-cutting CDR 11, DAC 1, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+13 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Cross-cutting CDR 11, DAC 1, Enhanced Weathering 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Asymmetry in carbon cycle feedbacks and transient climate response under positive and negative CO <sub>2</sub> emissions](https://doi.org/10.5194/egusphere-2025-6405) | Cross-cutting CDR | 1 |
-| 2026 | [Indirect Effects of Non-CO2 Forcings on Carbon Budgets in Overshoot pathways](https://doi.org/10.5194/egusphere-egu26-14793) | Cross-cutting CDR | 0 |
-| 2026 | [Non-CO2 effects of carbon dioxide removal methods influence temperature response in overshoot scenarios](https://doi.org/10.5194/egusphere-egu26-15018) | DAC | 0 |
-| 2026 | [Temperature outcomes of enhanced rock weathering deployment scenarios constrained by soil albedo measurements](https://doi.org/10.5194/egusphere-egu26-5945) | Enhanced Weathering | 0 |
-| 2025 | [Quantifying the transient climate response to carbon dioxide removal](https://doi.org/10.5194/egusphere-egu25-14557) | Cross-cutting CDR | 0 |
-| 2025 | [Asymmetry in Regional Land Carbon Cycle Feedbacks under CO2 Emissions and Removals](https://doi.org/10.5194/egusphere-egu25-15467) | Cross-cutting CDR | 0 |
-| 2024 | [Geological Net Zero and the need for disaggregated accounting for carbon sinks](https://doi.org/10.1038/s41586-024-08326-8) | Cross-cutting CDR | 89 |
-| 2023 | [Net-zero approaches must consider Earth system impacts to achieve climate goals](https://doi.org/10.1038/s41558-023-01862-7) | Cross-cutting CDR | 90 |
-| 2023 | [Ten new insights in climate science 2023](https://doi.org/10.1017/sus.2023.25) | Cross-cutting CDR | 47 |
-| 2023 | [Quantifying land carbon cycle feedbacks under negative CO <sub>2</sub> emissions](https://doi.org/10.5194/bg-20-2283-2023) | Cross-cutting CDR | 15 |
-| 2022 | [Temporary nature-based carbon removal can lower peak warming in a well-below 2&amp;#176;C scenario](https://openalex.org/W4220747429) | Cross-cutting CDR | 1 |
-| 2021 | [Atmospheric methane removal: a research agenda](https://doi.org/10.1098/rsta.2020.0454) | Cross-cutting CDR | 123 |
-| 2021 | [Temporary Nature-based Carbon Removal Can Lower Peak Warming in a Well-below 2°C Scenario](https://openalex.org/W3214388654) | Cross-cutting CDR | 15 |
+| 2026 | [Asymmetry in carbon cycle feedbacks and transient climate response under positive and negative CO <sub>2</sub> emissions](https://doi.org/10.5194/egusphere-2025-6405)<br><small>with V. Rachel Chimuka</small> | Cross-cutting CDR | 1 |
+| 2026 | [Indirect Effects of Non-CO2 Forcings on Carbon Budgets in Overshoot pathways](https://doi.org/10.5194/egusphere-egu26-14793)<br><small>with Koramanghat Unnikrishnan Jayakrishnan</small> | Cross-cutting CDR | 0 |
+| 2026 | [Non-CO2 effects of carbon dioxide removal methods influence temperature response in overshoot scenarios](https://doi.org/10.5194/egusphere-egu26-15018)<br><small>with Geoffrey Harper, [Leon Merfort](/cdr-researcher-census/researchers/leon-merfort-a5010129/), [Nico Bauer](/cdr-researcher-census/researchers/nico-bauer-a5055801/)</small> | DAC | 0 |
+| 2026 | [Temperature outcomes of enhanced rock weathering deployment scenarios constrained by soil albedo measurements](https://doi.org/10.5194/egusphere-egu26-5945)<br><small>with Isabel A. Dove, [Jonathan Spence](/cdr-researcher-census/researchers/jonathan-spence-a5109285/), [Sasha Wilson](/cdr-researcher-census/researchers/sasha-wilson-a5073578/)</small> | Enhanced Weathering | 0 |
+| 2025 | [Quantifying the transient climate response to carbon dioxide removal](https://doi.org/10.5194/egusphere-egu25-14557)<br><small>preprint · with V. Rachel Chimuka, Sabine Mathesius</small> | Cross-cutting CDR | 0 |
+| 2025 | [Asymmetry in Regional Land Carbon Cycle Feedbacks under CO2 Emissions and Removals](https://doi.org/10.5194/egusphere-egu25-15467)<br><small>preprint · with V. Rachel Chimuka</small> | Cross-cutting CDR | 0 |
+| 2024 | [Geological Net Zero and the need for disaggregated accounting for carbon sinks](https://doi.org/10.1038/s41586-024-08326-8)<br><small>Nature · with Myles Allen, Andrew Weaver, Bill Hare, Chris Huntingford, [Chris Jones](/cdr-researcher-census/researchers/chris-jones-a5025928/), David J. Frame and 18 more</small> | Cross-cutting CDR | 89 |
+| 2023 | [Net-zero approaches must consider Earth system impacts to achieve climate goals](https://doi.org/10.1038/s41558-023-01862-7)<br><small>Nature Climate Change · with Alexander MacIsaac, Annalea Lohila, [Chris Jones](/cdr-researcher-census/researchers/chris-jones-a5025928/), [Glen P. Peters](/cdr-researcher-census/researchers/glen-p-peters-a5040159/), H. Damon Matthews, [Joeri Rogelj](/cdr-researcher-census/researchers/joeri-rogelj-a5017820/) and 4 more</small> | Cross-cutting CDR | 90 |
+| 2023 | [Ten new insights in climate science 2023](https://doi.org/10.1017/sus.2023.25)<br><small>Global Sustainability · with Mercedes Bustamante, Aaron Redman, Aditi Mukherji, [Ana Bastos](/cdr-researcher-census/researchers/ana-bastos-a5052018/), Aniek Hebinck, Anja Rammig and 71 more</small> | Cross-cutting CDR | 47 |
+| 2023 | [Quantifying land carbon cycle feedbacks under negative CO <sub>2</sub> emissions](https://doi.org/10.5194/bg-20-2283-2023)<br><small>Biogeosciences · with V. Rachel Chimuka, Claude-Michel Nzotungicimpaye</small> | Cross-cutting CDR | 15 |
+| 2022 | [Temporary nature-based carbon removal can lower peak warming in a well-below 2&amp;#176;C scenario](https://openalex.org/W4220747429)<br><small>preprint · with H. Damon Matthews, Alexander MacIsaac, Claude-Michel Nzotungicimpaye, Mitchell Dickau, Sabine Mathesius, Amy Luers</small> | Cross-cutting CDR | 1 |
+| 2021 | [Atmospheric methane removal: a research agenda](https://doi.org/10.1098/rsta.2020.0454)<br><small>Philosophical Transactions of the Royal Society A Mathematical Physical and Engineering Sciences · with Robert B. Jackson, Alexander J. Heyer, Chaopeng Hong, [Chris Jones](/cdr-researcher-census/researchers/chris-jones-a5025928/), Edward I. Solomon, Fiona M. O’Connor and 11 more</small> | Cross-cutting CDR | 123 |
+| 2021 | [Temporary Nature-based Carbon Removal Can Lower Peak Warming in a Well-below 2°C Scenario](https://openalex.org/W3214388654)<br><small>preprint · with H. Damon Matthews, Alexander MacIsaac, Claude-Michel Nzotungicimpaye, Mitchell Dickau, Sabine Mathesius, Amy Luers</small> | Cross-cutting CDR | 15 |
 
 ---
 

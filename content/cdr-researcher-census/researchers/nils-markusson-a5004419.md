@@ -1,7 +1,7 @@
 ---
 title: "Nils Markusson"
 description: "Nils Markusson, Lancaster University, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 62 by activity, 102 by citations. 78 publications, h-index 24, 2,659 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/nils-markusson-a5004419/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,20 +43,20 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Cross-cutting CDR 10. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+10 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Cross-cutting CDR 10. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Beyond ‘doing both’—framing carbon removal carefully](https://doi.org/10.3389/fclim.2026.1744296) | Cross-cutting CDR | 5 |
-| 2026 | [Beyond ‘doing both’ : framing carbon removal carefully](https://openalex.org/W7119559846) | Cross-cutting CDR | 0 |
-| 2026 | [Mitigation deterrence in emissions trading schemes: Managing low quality demand for carbon removal](https://openalex.org/W7212355457) | Cross-cutting CDR | 0 |
-| 2025 | [Little big: Sizing up the risk of mitigation deterrence from carbon removal](https://doi.org/10.1007/s10584-025-03984-7) | Cross-cutting CDR | 6 |
-| 2024 | [Political obstacles to carbon capture and storage for carbon removal](https://doi.org/10.1038/s43017-024-00574-6) | Cross-cutting CDR | 15 |
-| 2023 | [Why residual emissions matter right now](https://doi.org/10.1038/s41558-022-01592-2) | Cross-cutting CDR | 188 |
-| 2023 | [Is carbon removal delaying emission reductions?](https://doi.org/10.1002/wcc.826) | Cross-cutting CDR | 124 |
-| 2023 | [Net zero and the unexplored politics of residual emissions](https://doi.org/10.1016/j.erss.2023.103035) | Cross-cutting CDR | 68 |
-| 2022 | [Why Residual Emissions Matter Right Now](https://doi.org/10.2139/ssrn.4069521) | Cross-cutting CDR | 11 |
-| 2021 | [Balancing a budget or running a deficit? The offset regime of carbon removal and solar geoengineering under a carbon budget](https://doi.org/10.1007/s10584-021-03174-1) | Cross-cutting CDR | 10 |
+| 2026 | [Beyond ‘doing both’—framing carbon removal carefully](https://doi.org/10.3389/fclim.2026.1744296)<br><small>Frontiers in Climate · with Juanita von Rothkirch, Kate Dooley</small> | Cross-cutting CDR | 5 |
+| 2026 | [Beyond ‘doing both’ : framing carbon removal carefully](https://openalex.org/W7119559846)<br><small>Lancaster EPrints (Lancaster University) · with Olaf Corry, Juanita von Rothkirch, Kate Dooley</small> | Cross-cutting CDR | 0 |
+| 2026 | [Mitigation deterrence in emissions trading schemes: Managing low quality demand for carbon removal](https://openalex.org/W7212355457)<br><small>with [Alina Brad](/cdr-researcher-census/researchers/alina-brad-a5048506/), [Etienne Schneider](/cdr-researcher-census/researchers/etienne-schneider-a5089196/)</small> | Cross-cutting CDR | 0 |
+| 2025 | [Little big: Sizing up the risk of mitigation deterrence from carbon removal](https://doi.org/10.1007/s10584-025-03984-7)<br><small>Climatic Change</small> | Cross-cutting CDR | 6 |
+| 2024 | [Political obstacles to carbon capture and storage for carbon removal](https://doi.org/10.1038/s43017-024-00574-6)<br><small>Nature Reviews Earth & Environment</small> | Cross-cutting CDR | 15 |
+| 2023 | [Why residual emissions matter right now](https://doi.org/10.1038/s41558-022-01592-2)<br><small>Nature Climate Change · with Holly Jean Buck, Jens Friis Lund, Wim Carton</small> | Cross-cutting CDR | 188 |
+| 2023 | [Is carbon removal delaying emission reductions?](https://doi.org/10.1002/wcc.826)<br><small>Wiley Interdisciplinary Reviews Climate Change · with Wim Carton, Inge‐Merete Hougaard, Jens Friis Lund</small> | Cross-cutting CDR | 124 |
+| 2023 | [Net zero and the unexplored politics of residual emissions](https://doi.org/10.1016/j.erss.2023.103035)<br><small>Energy Research & Social Science · with Jens Friis Lund, Wim Carton, Holly Jean Buck</small> | Cross-cutting CDR | 68 |
+| 2022 | [Why Residual Emissions Matter Right Now](https://doi.org/10.2139/ssrn.4069521)<br><small>SSRN Electronic Journal · with Holly Jean Buck, Jens Friis Lund, Wim Carton</small> | Cross-cutting CDR | 11 |
+| 2021 | [Balancing a budget or running a deficit? The offset regime of carbon removal and solar geoengineering under a carbon budget](https://doi.org/10.1007/s10584-021-03174-1)<br><small>Climatic Change · with [Shinichiro Asayama](/cdr-researcher-census/researchers/shinichiro-asayama-a5088972/), Mike Hulme</small> | Cross-cutting CDR | 10 |
 
 ---
 

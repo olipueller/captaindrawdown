@@ -1,7 +1,7 @@
 ---
 title: "Lina Röschel"
 description: "Lina Röschel, Research Institute for Sustainability at GFZ, Germany. CDR Researcher Census top lists (2026-11.4), worldwide: Ocean CDR: rank 66 by activity, 968 by citations. 14 publications, h-index 5, 357 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/lina-roschel-a5025340/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,19 +40,19 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 9. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Ocean CDR 9. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Marine carbon dioxide removal: an emerging topic for ocean governance and the sustainability agenda](https://openalex.org/W7160529807) | Ocean CDR | 1 |
-| 2026 | [Is mCDR pollution? Rethinking pollution for the governance of marine carbon dioxide removal](https://openalex.org/W7165145982) | Ocean CDR | 0 |
-| 2026 | [20: Marine carbon dioxide removal: an emerging topic for ocean governance and the sustainability agenda](https://openalex.org/W7214270680) | Ocean CDR | 0 |
-| 2025 | [Towards system-aware governance of marine carbon dioxide removal: a review of interdependent challenges](https://doi.org/10.1088/1748-9326/ae0493) | Ocean CDR | 4 |
-| 2025 | [Prospects and Challenges of Investigating Ocean-Based Negative Emission Technologies: Insights from the OceanNETs Project](https://doi.org/10.3289/oceannets_d7.10-12) | Ocean CDR | 1 |
-| 2025 | [Governance of marine carbon dioxide removal - gaps, challenges and pathways](https://doi.org/10.5194/oos2025-191) | Ocean CDR | 0 |
-| 2024 | [Good governance of marine carbon dioxide removal, Policy Brief](http://dx.doi.org/10.3289/oceannets_d2.6) | Ocean CDR | 0 |
-| 2023 | [Ocean-based negative emissions technologies: a governance framework review](https://doi.org/10.3389/fmars.2023.995130) | Ocean CDR | 22 |
-| 2022 | [Global governance of ocean-based negative emission technologies. Exploring gaps, challenges, and opportunities](https://doi.org/10.5194/egusphere-egu22-893) | Ocean CDR | 0 |
+| 2026 | [Marine carbon dioxide removal: an emerging topic for ocean governance and the sustainability agenda](https://openalex.org/W7160529807)<br><small>with Barbara Neumann, [Miranda Boettcher](/cdr-researcher-census/researchers/miranda-boettcher-a5061263/), Neil Craik</small> | Ocean CDR | 1 |
+| 2026 | [Is mCDR pollution? Rethinking pollution for the governance of marine carbon dioxide removal](https://openalex.org/W7165145982)<br><small>with Lina Roeschel</small> | Ocean CDR | 0 |
+| 2026 | [20: Marine carbon dioxide removal: an emerging topic for ocean governance and the sustainability agenda](https://openalex.org/W7214270680)<br><small>with Barbara Neumann, [Miranda Boettcher](/cdr-researcher-census/researchers/miranda-boettcher-a5061263/), Neil Craik</small> | Ocean CDR | 0 |
+| 2025 | [Towards system-aware governance of marine carbon dioxide removal: a review of interdependent challenges](https://doi.org/10.1088/1748-9326/ae0493)<br><small>Environmental Research Letters · with Lina Roeschel</small> | Ocean CDR | 4 |
+| 2025 | [Prospects and Challenges of Investigating Ocean-Based Negative Emission Technologies: Insights from the OceanNETs Project](https://doi.org/10.3289/oceannets_d7.10-12)<br><small>with Markus Schartau, Adriaan Perrels, Anusha Sathyanadh, Barbara Neumann, [Christine Merk](/cdr-researcher-census/researchers/christine-merk-a5135538/), [David P. Keller](/cdr-researcher-census/researchers/david-p-keller-a5068205/) and 14 more</small> | Ocean CDR | 1 |
+| 2025 | [Governance of marine carbon dioxide removal - gaps, challenges and pathways](https://doi.org/10.5194/oos2025-191)<br><small>preprint · with Lina Roeschel, Barbara Neumann</small> | Ocean CDR | 0 |
+| 2024 | [Good governance of marine carbon dioxide removal, Policy Brief](http://dx.doi.org/10.3289/oceannets_d2.6)<br><small>with Barbara Neumann</small> | Ocean CDR | 0 |
+| 2023 | [Ocean-based negative emissions technologies: a governance framework review](https://doi.org/10.3389/fmars.2023.995130)<br><small>Frontiers in Marine Science · with Barbara Neumann</small> | Ocean CDR | 22 |
+| 2022 | [Global governance of ocean-based negative emission technologies. Exploring gaps, challenges, and opportunities](https://doi.org/10.5194/egusphere-egu22-893)<br><small>preprint · with Barbara Neumann</small> | Ocean CDR | 0 |
 
 ---
 

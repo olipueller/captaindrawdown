@@ -1,7 +1,7 @@
 ---
 title: "Nikol Kirova"
 description: "Nikol Kirova, Institute for Advanced Architecture of Catalonia, Spain. 11 publications, h-index 2, 7 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/nikol-kirova-a5042136/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -39,15 +39,15 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-5 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 5. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+5 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Biochar 5. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
 | 2026 | [Forming Heterogeneities: Fabricating Graded Low-Carbon CharCrete Building Elements](https://openalex.org/W7164833228) | Biochar | 0 |
 | 2026 | [Decarbonizing with Charcrete](https://openalex.org/W7172285313) | Biochar | 0 |
 | 2026 | [Decarbonizing with Charcrete](https://openalex.org/W7172306800) | Biochar | 0 |
-| 2023 | [A Study on Carbon-Neutral Biochar-Cementitious Composites](https://doi.org/10.1007/978-3-031-36554-6_33) | Biochar | 2 |
-| 2023 | [A Study on Biochar-Cementitious Composites Toward Carbon–Neutral Architecture](https://doi.org/10.1007/978-3-031-36922-3_31) | Biochar | 1 |
+| 2023 | [A Study on Carbon-Neutral Biochar-Cementitious Composites](https://doi.org/10.1007/978-3-031-36554-6_33)<br><small>Sustainable development goals series · with Areti Markopoulou, Jane Burry, Mehrnoush Latifi</small> | Biochar | 2 |
+| 2023 | [A Study on Biochar-Cementitious Composites Toward Carbon–Neutral Architecture](https://doi.org/10.1007/978-3-031-36922-3_31)<br><small>Lecture notes in mechanical engineering · with Areti Markopoulou</small> | Biochar | 1 |
 
 ---
 

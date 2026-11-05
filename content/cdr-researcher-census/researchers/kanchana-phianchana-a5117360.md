@@ -1,7 +1,7 @@
 ---
 title: "Kanchana Phianchana"
 description: "Kanchana Phianchana, Chulalongkorn University, Thailand. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 74 by activity, 2893 by citations. 5 publications, h-index 2, 16 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/kanchana-phianchana-a5117360/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,14 +40,14 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-4 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 4. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+4 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 4. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [A Study of CO <sub>2</sub> Adsorption of MEA-Modified Zeolite 13X and K <sub>2</sub> CO <sub>3</sub> -Impregnated Alumina for Direct Air Capture](https://openalex.org/W7164199954) | DAC | 1 |
-| 2026 | [A Study of CO<sub>2</sub> Adsorption of MEA-ModifiedZeolite 13X and K<sub>2</sub>CO<sub>3</sub>‑Impregnated Aluminafor Direct Air Capture](https://openalex.org/W7164578247) | DAC | 0 |
-| 2026 | [Dry deep eutectic solvent (dry DES): silica-DES hybrid sorbents for direct air capture via rapid and scalable synthesis](https://openalex.org/W7164989630) | DAC | 0 |
-| 2026 | [Cycle-stabilized amine-functionalized Zeolite 13X pellets for humid direct air CO2 capture](https://openalex.org/W7214947685) | DAC | 0 |
+| 2026 | [A Study of CO <sub>2</sub> Adsorption of MEA-Modified Zeolite 13X and K <sub>2</sub> CO <sub>3</sub> -Impregnated Alumina for Direct Air Capture](https://openalex.org/W7164199954)<br><small>with Wiphawi Jansuda, [Benjapon Chalermsinsuwan](/cdr-researcher-census/researchers/benjapon-chalermsinsuwan-a5090351/), [Pacharapol Nokpho](/cdr-researcher-census/researchers/pacharapol-nokpho-a5076032/), Pranut Potiyaraj, Lapyote Prasittisopin</small> | DAC | 1 |
+| 2026 | [A Study of CO<sub>2</sub> Adsorption of MEA-ModifiedZeolite 13X and K<sub>2</sub>CO<sub>3</sub>‑Impregnated Aluminafor Direct Air Capture](https://openalex.org/W7164578247)<br><small>with Wiphawi Jansuda, [Benjapon Chalermsinsuwan](/cdr-researcher-census/researchers/benjapon-chalermsinsuwan-a5090351/), [Pacharapol Nokpho](/cdr-researcher-census/researchers/pacharapol-nokpho-a5076032/), Pranut Potiyaraj, Lapyote Prasittisopin</small> | DAC | 0 |
+| 2026 | [Dry deep eutectic solvent (dry DES): silica-DES hybrid sorbents for direct air capture via rapid and scalable synthesis](https://openalex.org/W7164989630)<br><small>with Chomponoot Suppaso, Apichat Imyim, Apisara Somteds, [Benjapon Chalermsinsuwan](/cdr-researcher-census/researchers/benjapon-chalermsinsuwan-a5090351/), Jerald T. Villarmino, [Pacharapol Nokpho](/cdr-researcher-census/researchers/pacharapol-nokpho-a5076032/) and 5 more</small> | DAC | 0 |
+| 2026 | [Cycle-stabilized amine-functionalized Zeolite 13X pellets for humid direct air CO2 capture](https://openalex.org/W7214947685)<br><small>with [Pacharapol Nokpho](/cdr-researcher-census/researchers/pacharapol-nokpho-a5076032/), Xinyi Wang, [Benjapon Chalermsinsuwan](/cdr-researcher-census/researchers/benjapon-chalermsinsuwan-a5090351/)</small> | DAC | 0 |
 
 ---
 

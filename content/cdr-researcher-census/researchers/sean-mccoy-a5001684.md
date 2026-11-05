@@ -1,7 +1,7 @@
 ---
 title: "Sean McCoy"
 description: "Sean McCoy, University of Calgary, Canada. CDR Researcher Census top lists (2026-11.4), worldwide: DAC: rank 78 by activity, 194 by citations. 106 publications, h-index 24, 3,248 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:38+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/sean-mccoy-a5001684/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,19 +43,19 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 6, BECCS 2, Cross-cutting CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+9 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: DAC 6, BECCS 2, Cross-cutting CDR 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Assessing carbon and energy balance in coupled direct air capture and underground CO2 sequestration via enhanced oil recovery](https://openalex.org/W7140415450) | DAC | 0 |
-| 2026 | [Review of Bioenergy with Carbon Capture and Storage (BECCS): Progress, Challenges, and Future Outlook](https://openalex.org/W7167639623) | BECCS | 0 |
-| 2026 | [How does spatio-temporal optimisation affect the siting and operation of direct air capture systems?](https://openalex.org/W7221116777) | DAC | 0 |
-| 2025 | [Universities must lead capacity building in carbon dioxide removal](https://doi.org/10.1038/s44359-025-00039-z) | Cross-cutting CDR | 0 |
-| 2024 | [The performance of solvent-based direct air capture across geospatial and temporal climate regimes](https://doi.org/10.3389/fclim.2024.1394728) | DAC | 21 |
-| 2023 | [Could the Post-SAGD Heat Recovery Supply the Direct Air CO2 Capture (DAC) Energy in a Net Negative Carbon Emission Environment?](https://doi.org/10.2118/212816-ms) | DAC | 1 |
-| 2022 | [The impact of climate on solvent-based direct air capture systems](https://doi.org/10.1016/j.apenergy.2022.119895) | DAC | 104 |
-| 2022 | [Carbon and energy analysis of coupled direct air capture of CO2 with underground energy recovery](https://doi.org/10.2139/ssrn.4286560) | DAC | 4 |
-| 2021 | [On the climate impacts of blue hydrogen production](https://doi.org/10.26434/chemrxiv-2021-hz0qp) | BECCS | 12 |
+| 2026 | [Assessing carbon and energy balance in coupled direct air capture and underground CO2 sequestration via enhanced oil recovery](https://openalex.org/W7140415450)<br><small>with Shima Bashti, Nader Mahinpey</small> | DAC | 0 |
+| 2026 | [Review of Bioenergy with Carbon Capture and Storage (BECCS): Progress, Challenges, and Future Outlook](https://openalex.org/W7167639623)<br><small>preprint · with Nadine  Tamer Moustafa, Emily Nishikawa, Jennifer Morris, Koen H. van Dam, Mai Bui, Sergey Paltsev and 1 more</small> | BECCS | 0 |
+| 2026 | [How does spatio-temporal optimisation affect the siting and operation of direct air capture systems?](https://openalex.org/W7221116777)<br><small>preprint · with Malte Glaser</small> | DAC | 0 |
+| 2025 | [Universities must lead capacity building in carbon dioxide removal](https://doi.org/10.1038/s44359-025-00039-z)<br><small>Nature Reviews Clean Technology · with [Mijndert van der Spek](/cdr-researcher-census/researchers/mijndert-van-der-spek-a5062642/), Cara Nichole Maesano, Daniel G. Pike, Emily J. Cox, James Campbell, Jennifer Wilcox and 8 more</small> | Cross-cutting CDR | 0 |
+| 2024 | [The performance of solvent-based direct air capture across geospatial and temporal climate regimes](https://doi.org/10.3389/fclim.2024.1394728)<br><small>Frontiers in Climate · with B. Brooks, Caleb H. Geissler, [Keju An](/cdr-researcher-census/researchers/keju-an-a5040806/), Richard S. Middleton, Jonathan Ogland-Hand</small> | DAC | 21 |
+| 2023 | [Could the Post-SAGD Heat Recovery Supply the Direct Air CO2 Capture (DAC) Energy in a Net Negative Carbon Emission Environment?](https://doi.org/10.2118/212816-ms)<br><small>with Shima Bashti, Asghar Sadeghi, Nader Mahinpey</small> | DAC | 1 |
+| 2022 | [The impact of climate on solvent-based direct air capture systems](https://doi.org/10.1016/j.apenergy.2022.119895)<br><small>Applied Energy · with [Keju An](/cdr-researcher-census/researchers/keju-an-a5040806/), Azhar Uddin</small> | DAC | 104 |
+| 2022 | [Carbon and energy analysis of coupled direct air capture of CO2 with underground energy recovery](https://doi.org/10.2139/ssrn.4286560)<br><small>SSRN Electronic Journal · with Shima Bashti, Azhar Uddin, Nader Mahinpey</small> | DAC | 4 |
+| 2021 | [On the climate impacts of blue hydrogen production](https://doi.org/10.26434/chemrxiv-2021-hz0qp)<br><small>preprint · with Christian Bauer, Arvind Ravikumar, Cristina Antonini, Emre Gençer, Falko Ueckerdt, Jaap F. Vente and 9 more</small> | BECCS | 12 |
 
 ---
 

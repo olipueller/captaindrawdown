@@ -1,7 +1,7 @@
 ---
 title: "Injy Johnstone"
 description: "Injy Johnstone, University of Oxford, United Kingdom. CDR Researcher Census top lists (2026-11.4), worldwide: Cross-cutting CDR: rank 40 by activity, 2601 by citations. 32 publications, h-index 7, 140 citations (OpenAlex, all fields)."
-date: 2026-11-04T21:08:39+00:00
+date: 2026-11-05T08:37:20+00:00
 url: "/cdr-researcher-census/researchers/injy-johnstone-a5035898/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,21 +43,21 @@ robots: "index, follow"
 
 ## Papers counted in the census {#papers}
 
-11 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Cross-cutting CDR 9, Enhanced Weathering 1, BECCS 1, DAC 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear.
+11 CDR-relevant papers and preprints since 2021 count for the [top lists](/data/researchers/), by pathway: Cross-cutting CDR 9, Enhanced Weathering 1, BECCS 1, DAC 1. A paper tagged with two pathways counts in both lists. Preprint and journal version are merged where OpenAlex links them; where it does not, both appear. Under each title: the venue, the co-authors (linked when they have a profile page) and the strongest OpenAlex keywords; the pathway column is my own tag.
 
 | Year | Paper | Pathway | Citations |
 |---|---|---|---:|
-| 2026 | [Chapter 4: Voluntary demand for CDR, The State of Carbon Dioxide Removal - 3rd Edition (2026)](https://openalex.org/W7153545592) | Cross-cutting CDR | 1 |
-| 2026 | [Managing Overshoot Through Collective Carbon Debt Drawdown](https://doi.org/10.5194/egusphere-egu26-16344) | Cross-cutting CDR | 0 |
-| 2026 | [The State of Carbon Dioxide Removal - 3rd Edition (2026)](https://openalex.org/W7153562439) | Cross-cutting CDR | 0 |
-| 2026 | [Chapter 4: Voluntary demand for CDR, The State of Carbon Dioxide Removal - 3rd Edition (2026)](https://openalex.org/W7166410517) | Cross-cutting CDR | 0 |
-| 2026 | [Equitable cooperation deepens the solution space for high ambition pathways](https://openalex.org/W7211890629) | Cross-cutting CDR | 0 |
-| 2025 | [Carbon markets for carbon dioxide removal](https://doi.org/10.1080/14693062.2025.2478288) | Cross-cutting CDR | 8 |
-| 2025 | [Market Mechanisms for Carbon Dioxide Removals: An Overview](https://doi.org/10.1007/s40518-025-00277-6) | Cross-cutting CDR | 0 |
-| 2025 | [Unlocking Gigatonne-scale Carbon Dioxide Removal with strategic tipping point frameworks](https://doi.org/10.31223/x56j15) | Enhanced Weathering | 0 |
-| 2024 | [Policy support for BECCS and DACCS in Europe: the view of market participants](https://doi.org/10.1088/1748-9326/ad661e) | BECCS; DAC | 17 |
-| 2024 | [The Carbon Removal Budget: theory and practice](https://doi.org/10.1080/17583004.2024.2374515) | Cross-cutting CDR | 11 |
-| 2024 | [Countries need to provide clarity on the role of carbon dioxide removal in their climate pledges](https://doi.org/10.1088/1748-9326/ad91c7) | Cross-cutting CDR | 6 |
+| 2026 | [Chapter 4: Voluntary demand for CDR, The State of Carbon Dioxide Removal - 3rd Edition (2026)](https://openalex.org/W7153545592)<br><small>with Sarah Singleton, [Benedict Probst](/cdr-researcher-census/researchers/benedict-probst-a5091139/)</small> | Cross-cutting CDR | 1 |
+| 2026 | [Managing Overshoot Through Collective Carbon Debt Drawdown](https://doi.org/10.5194/egusphere-egu26-16344)<br><small>with Setu Pelz, Adriano Vinca, Carl F. Schleussner, [Carl‐Friedrich Schleussner](/cdr-researcher-census/researchers/carlfriedrich-schleussner-a5033036/), [Elina Brutschin](/cdr-researcher-census/researchers/elina-brutschin-a5005798/), Jarmo Kikstra and 6 more</small> | Cross-cutting CDR | 0 |
+| 2026 | [The State of Carbon Dioxide Removal - 3rd Edition (2026)](https://openalex.org/W7153562439)<br><small>with Sarah Singleton, Abby Lunstrum, [Benedict Probst](/cdr-researcher-census/researchers/benedict-probst-a5091139/), [Elina Brutschin](/cdr-researcher-census/researchers/elina-brutschin-a5005798/), [Finn Müller-Hansen](/cdr-researcher-census/researchers/finn-muller-hansen-a5048034/), [Giacomo Grassi](/cdr-researcher-census/researchers/giacomo-grassi-a5015410/) and 13 more</small> | Cross-cutting CDR | 0 |
+| 2026 | [Chapter 4: Voluntary demand for CDR, The State of Carbon Dioxide Removal - 3rd Edition (2026)](https://openalex.org/W7166410517)<br><small>with [Benedict Probst](/cdr-researcher-census/researchers/benedict-probst-a5091139/)</small> | Cross-cutting CDR | 0 |
+| 2026 | [Equitable cooperation deepens the solution space for high ambition pathways](https://openalex.org/W7211890629)<br><small>with Setu Pelz, Adriano Vinca, [Carl‐Friedrich Schleussner](/cdr-researcher-census/researchers/carlfriedrich-schleussner-a5033036/), [Elina Brutschin](/cdr-researcher-census/researchers/elina-brutschin-a5005798/), Jarmo Kikstra, [Joeri Rogelj](/cdr-researcher-census/researchers/joeri-rogelj-a5017820/) and 5 more</small> | Cross-cutting CDR | 0 |
+| 2025 | [Carbon markets for carbon dioxide removal](https://doi.org/10.1080/14693062.2025.2478288)<br><small>Climate Policy · with Nadine Walsh, [Sabine Fuss](/cdr-researcher-census/researchers/sabine-fuss-a5011197/), Robert Höglund</small> | Cross-cutting CDR | 8 |
+| 2025 | [Market Mechanisms for Carbon Dioxide Removals: An Overview](https://doi.org/10.1007/s40518-025-00277-6)<br><small>Current Sustainable/Renewable Energy Reports · with Flore Verbist, Coline Seralta, Emma Jagu Schippers, Romain Presty, Antigoni Theocharidou</small> | Cross-cutting CDR | 0 |
+| 2025 | [Unlocking Gigatonne-scale Carbon Dioxide Removal with strategic tipping point frameworks](https://doi.org/10.31223/x56j15)<br><small>with Matthew O Clarkson, Bruno Ramos, David W. Manning, Eduardda Pivatto, Ina Souza Nogueira, Jeandro Vitorio and 10 more</small> | Enhanced Weathering | 0 |
+| 2024 | [Policy support for BECCS and DACCS in Europe: the view of market participants](https://doi.org/10.1088/1748-9326/ad661e)<br><small>Environmental Research Letters · with Yang Pu, Ingrid Sundvor, Samuel Fankhauser, Stephanie Hirmer, [Stephen M. Smith](/cdr-researcher-census/researchers/stephen-m-smith-a5110129/), Joseph Stemmler</small> | BECCS; DAC | 17 |
+| 2024 | [The Carbon Removal Budget: theory and practice](https://doi.org/10.1080/17583004.2024.2374515)<br><small>Carbon Management · with Ben Caldecott</small> | Cross-cutting CDR | 11 |
+| 2024 | [Countries need to provide clarity on the role of carbon dioxide removal in their climate pledges](https://doi.org/10.1088/1748-9326/ad91c7)<br><small>Environmental Research Letters · with [William F. Lamb](/cdr-researcher-census/researchers/william-f-lamb-a5002742/), Artur Runge-Metzger, [Carl‐Friedrich Schleussner](/cdr-researcher-census/researchers/carlfriedrich-schleussner-a5033036/), [Giacomo Grassi](/cdr-researcher-census/researchers/giacomo-grassi-a5015410/), [Gregory F. Nemet](/cdr-researcher-census/researchers/gregory-f-nemet-a5033478/), Ingrid Schulte and 5 more</small> | Cross-cutting CDR | 6 |
 
 ---
 
